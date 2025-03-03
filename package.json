@@ -1,0 +1,41 @@
+{
+  "name": "sushi-near-me",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build && node generate-sitemaps.js",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fontsource/roboto": "^5.2.5",
+    "@mui/icons-material": "^6.4.6",
+    "@mui/material": "^6.4.6",
+    "@mui/material-nextjs": "^6.4.3",
+    "@mui/styled-engine-sc": "^6.4.6",
+    "dotenv": "^16.4.7",
+    "lodash": "^4.17.21",
+    "next": "15.2.0",
+    "next-transpile-modules": "^10.0.1",
+    "pg": "^8.13.3",
+    "styled-components": "^6.1.15",
+    "url-slug": "^4.0.1",
+    "xmlbuilder": "^15.1.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4.0.9",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.9"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
