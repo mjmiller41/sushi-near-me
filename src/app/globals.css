@@ -1,6 +1,1 @@
 /* @import "tailwindcss"; */
-
-#autocomplete-input {
-  color: var(--AppBar-color) !important;
-  border-color: var(--AppBar-color) !important;
-}

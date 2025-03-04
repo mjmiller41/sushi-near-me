@@ -28,7 +28,6 @@ export default function RootLayout({ children }) {
             <CssBaseline />
             <div className="flex flex-col overflow-x-hidden relative">
               <Header />
-              <USMap />
               <main className="container flex-1 mx-auto p-4">{children}</main>
               <Footer />
             </div>

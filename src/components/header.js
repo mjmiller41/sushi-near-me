@@ -4,11 +4,11 @@ import { useRouter } from "next/navigation";
 import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
-import IconButton from "@mui/material/IconButton";
 import Typography from "@mui/material/Typography";
-import MenuIcon from "@mui/icons-material/Menu";
 import TextField from "@mui/material/TextField";
 import Autocomplete from "@mui/material/Autocomplete";
+import Link from "@mui/material/Link";
+import { AppBarMenu } from "./appBarMenu";
 import { slugify } from "@/lib/utils";
 import { throttle } from "lodash";
 
@@ -63,34 +63,33 @@ export default function Header() {
   }, [inputValue, selectedOption, router, throttledFetchData]);
 
   return (
-    <Box sx={{ flexGrow: 1 }}>
+    <Box>
       <AppBar position="static">
-        <Toolbar>
-          <IconButton
-            size="large"
-            edge="start"
-            color="inherit"
-            aria-label="open drawer"
-            sx={{ mr: 2 }}
-          >
-            <MenuIcon />
-          </IconButton>
-          <Typography
-            variant="h6"
-            noWrap
-            component="div"
-            sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
-          >
-            SushiNearMe
-          </Typography>
-
+        <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
+          <AppBarMenu>
+            <Typography
+              variant="h6"
+              noWrap
+              component="div"
+              sx={{
+                flexGrow: 0,
+                display: { xs: "none", sm: "block" },
+              }}
+            >
+              <Link
+                href="/"
+                sx={{ color: "var(--AppBar-color)", textDecoration: "none" }}
+              >
+                Sushi Near Me
+              </Link>
+            </Typography>
+          </AppBarMenu>
           <Autocomplete
             id="autocomplete-input"
             blurOnSelect
             sx={{
               width: 300,
-              color: "text.primary",
-              borderColor: "text.primary",
+              flexGrow: 0,
             }}
             options={options}
             value={value}
