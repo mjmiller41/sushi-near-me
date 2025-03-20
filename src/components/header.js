@@ -11,8 +11,9 @@ import Link from "@mui/material/Link";
 import { AppBarMenu } from "./appBarMenu";
 import { slugify } from "@/lib/utils";
 import { throttle } from "lodash";
+import { ThemeDrawer } from "./themeDrawer";
 
-export default function Header() {
+export default function Header({ toggleTheme, mode }) {
   const [value, setValue] = useState("");
   const [inputValue, setInputValue] = useState("");
   const [selectedOption, setSelectedOption] = useState(null);
@@ -53,7 +54,7 @@ export default function Header() {
       setOptions([]);
       setInputValue("");
       setValue(selectedOption.name);
-      router.push(selectedOption.link);
+      router.push(selectedOption.link, { shallow: false });
       setSelectedOption(null);
     } else if (inputValue) {
       setInputValue(inputValue);
@@ -63,9 +64,23 @@ export default function Header() {
   }, [inputValue, selectedOption, router, throttledFetchData]);
 
   return (
-    <Box>
-      <AppBar position="static">
-        <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
+    <Box sx={{ position: "relative", height: "5rem" }}>
+      <AppBar
+        sx={{
+          position: "relative",
+          padding: "0.5rem 0",
+          height: "100%",
+          display: "flex",
+          justifyContent: "center",
+        }}
+      >
+        <Toolbar
+          sx={{
+            width: "100%",
+            display: "flex",
+            justifyContent: "space-between",
+          }}
+        >
           <AppBarMenu>
             <Typography
               variant="h6"
@@ -78,7 +93,17 @@ export default function Header() {
             >
               <Link
                 href="/"
-                sx={{ color: "var(--AppBar-color)", textDecoration: "none" }}
+                sx={[
+                  {
+                    color: "var(--AppBar-color)",
+                    textDecoration: "none",
+                  },
+                  (theme) => {
+                    return theme.applyStyles("dark", {
+                      color: "primary.main",
+                    });
+                  },
+                ]}
               >
                 Sushi Near Me
               </Link>
@@ -105,6 +130,7 @@ export default function Header() {
           />
         </Toolbar>
       </AppBar>
+      <ThemeDrawer />
     </Box>
   );
 }

@@ -1,9 +1,21 @@
 {
   "compilerOptions": {
+    "baseUrl": ".", // Root directory for resolving modules
     "paths": {
       "@/*": [
         "./src/*"
-      ]
-    }
-  }
+      ] // Maps @/ to ./src/
+    },
+    "moduleResolution": "node", // Ensures Node.js-style module resolution
+    "target": "esnext", // Targets modern JavaScript
+    "allowSyntheticDefaultImports": true, // Allows default imports from modules with no default export
+    "esModuleInterop": true // Improves ES module interop
+  },
+  "include": [
+    "src/**/*"
+  ], // Files to include in type checking
+  "exclude": [
+    "node_modules",
+    "**/*.spec.js"
+  ] // Files to exclude
 }

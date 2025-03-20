@@ -49,11 +49,11 @@ function CustomPaper(props) {
         })}
       >
         <img
-          src={
-            theme.palette.mode === "dark"
-              ? "https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-non-white3_hdpi.png"
-              : "https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3_hdpi.png"
-          }
+          // src={
+          //   theme.palette.mode === "dark"
+          //     ? "https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-non-white3_hdpi.png"
+          //     : "https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3_hdpi.png"
+          // }
           alt=""
           width="120"
           height="14"

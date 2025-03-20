@@ -1,19 +1,29 @@
 import { convert, revert } from "url-slug";
-
 const dictionary = {
   "&": "and",
+  "@": "at",
+  "#": "number",
+  "%": "percent",
+  "+": "plus",
+  "’": "", // For possessives or contractions (e.g., "Bob’s")
+  "!": "",
+  é: "e", // Common in cuisine-related names
+  ñ: "n", // For Spanish-influenced names
+  "(": "", // For parenthetical info
+  ")": "",
+  ".": "dot", // For abbreviations or stylized names
 };
 
 export function slugify(name) {
-  const slug = convert(name, { transformer: false, dictionary });
-  return slug;
+  if (!name || typeof name !== "string") return "";
+  return convert(name.trim(), { transformer: false, dictionary });
 }
 
 export function deslugify(slug) {
-  let name = revert(slug);
-  name = name.includes("and") ? name.replace("and", "&") : name;
-  return name;
+  if (!slug || typeof slug !== "string") return "";
+  return revert(slug.trim());
 }
+
 // src/lib/utils.js (add this at the bottom or in a new section)
 export const stateAbbreviations = {
   AL: "Alabama",
@@ -24,6 +34,7 @@ export const stateAbbreviations = {
   CA: "California",
   CO: "Colorado",
   CT: "Connecticut",
+  DC: "Washington, DC",
   DE: "Delaware",
   FL: "Florida",
   GA: "Georgia",

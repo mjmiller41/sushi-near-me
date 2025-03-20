@@ -1,16 +1,21 @@
+"use client";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
-import { USMap } from "@/components/usMap";
+import { USMap } from "@/components/USMap";
 import { AppRouterCacheProvider } from "@mui/material-nextjs/v15-appRouter";
 import { Roboto } from "next/font/google";
+import { Box, Container } from "@mui/material";
 import { ThemeProvider } from "@mui/material/styles";
+import InitColorSchemeScript from "@mui/material/InitColorSchemeScript";
 import CssBaseline from "@mui/material/CssBaseline";
-import theme from "../theme";
+import { useState, useEffect } from "react";
+import { theme } from "../theme";
 import "@fontsource/roboto/300.css";
 import "@fontsource/roboto/400.css";
 import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
-import "./globals.css";
+import { StateContext } from "@/components/StateContext";
+// import "@/app/globals.css";
 
 const roboto = Roboto({
   weight: ["300", "400", "500", "700"],
@@ -20,17 +25,34 @@ const roboto = Roboto({
 });
 
 export default function RootLayout({ children }) {
+  const [state, setState] = useState();
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body className={roboto.variable}>
         <AppRouterCacheProvider>
-          <ThemeProvider theme={theme}>
+          <ThemeProvider theme={theme} disableTransitionOnChange>
             <CssBaseline />
-            <div className="flex flex-col overflow-x-hidden relative">
-              <Header />
-              <main className="container flex-1 mx-auto p-4">{children}</main>
-              <Footer />
-            </div>
+            <InitColorSchemeScript attribute="data" />
+            <Box
+              component={"div"}
+              style={{
+                minHeight: "100vh",
+                display: "flex",
+                flexDirection: "column",
+              }}
+            >
+              <Header component={"header"} />
+              <Container
+                component={"main"}
+                style={{ maxWidth: "900px", flexGrow: 1, marginTop: "2rem" }}
+              >
+                <USMap state={state} />
+                <StateContext.Provider value={setState}>
+                  {children}
+                </StateContext.Provider>
+              </Container>
+              <Footer component={"footer"} />
+            </Box>
           </ThemeProvider>
         </AppRouterCacheProvider>
       </body>

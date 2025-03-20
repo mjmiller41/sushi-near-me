@@ -1,7 +1,5 @@
+import { Box } from "@mui/material";
+
 export default function RestaurantLayout({ children }) {
-  return (
-    <div>
-      <main className="container mx-auto p-4">{children}</main>
-    </div>
-  );
+  return <Box component={"div"}>{children}</Box>;
 }
