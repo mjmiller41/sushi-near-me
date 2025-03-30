@@ -1,0 +1,21 @@
+{
+  "name": "directory-site-maker",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael J, Miller",
+  "license": "GPL-3.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjmiller41/directory-site-maker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mjmiller41/directory-site-maker/issues"
+  },
+  "homepage": "https://github.com/mjmiller41/directory-site-maker#readme"
+}
