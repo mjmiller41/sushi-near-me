@@ -1,0 +1,16 @@
+---
+layout: page
+title:
+permalink:
+state:
+city:
+place:
+---
+{%- assign p = page.place -%}
+<address>
+  <span>{{ p.house_number }}{{ p.street_long | default: p.street_short }}</span><br>
+  <span>{{ p.city }}, {{ p.state }} {{ p.postcode }}</span><br>
+  <span>
+    <a href="tel:{{- p.phone -}}">{{ p.phone }}</a>
+  </span><br>
+</address>

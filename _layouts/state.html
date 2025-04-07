@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{% assign stateName = site.data.states[page.state] %}
+<h1>{{ stateName }}</h1>
+<span>cities with</span>
+<h2>{{ page.place_type }}s</h2>
+<ul>
+  {%- assign statePlaces = site.data.places | where: "state", page.state -%}
+  {%- assign cities = statePlaces | map: "city" | uniq | natural_sort -%}
+  {%- for city in cities -%}
+    <li>
+      <a href="/{{- stateName | slugify: "latin" -}}/{{- city | slugify: "latin" -}}">{{- city -}}</a>
+    </li>
+  {%- endfor -%}
+</ul>

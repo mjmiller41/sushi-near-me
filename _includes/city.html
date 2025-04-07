@@ -1,0 +1,18 @@
+---
+layout: page
+title:
+permalink:
+state:
+city:
+---
+<ul>
+  {% assign places = site.data.places %}
+  {% assign statePlaces = places | where: "state", page.state %}
+  {% assign cityPlaces = statePlaces | where: "city", page.city %}
+  {%- assign placeNames = cityPlaces | map: "name" | uniq | sort_natural -%}
+  {% for name in placeNames %}
+    <li>
+      <a href="/{{- page.state | downcase -}}/{{- page.city | slugify: "latin" -}}/{{- name | slugify: "latin" -}}">{{ name }}</a>
+    </li>
+  {% endfor %}
+</ul>
