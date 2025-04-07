@@ -4,7 +4,6 @@ _site
 .jekyll-metadata
 vendor
 node_modules
-<<<<<<< HEAD
 .env
 _backend
 _lib
@@ -13,6 +12,3 @@ eslint.config.js
 package.json
 package-lock.json
 slugify-test.md
-=======
-.env
->>>>>>> cd59ef0265370338fbea9f1f01b061cd139c0e09
