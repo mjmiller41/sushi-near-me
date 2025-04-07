@@ -1,14 +1,7 @@
+node_modules
+package-lock.json
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
-node_modules
 .env
-_backend
-_lib
-.prettierrc
-eslint.config.js
-package.json
-package-lock.json
-slugify-test.md
