@@ -1,0 +1,13 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+<ul id="states-links-list">
+  {% for state in site.data.states %}
+    <li>
+      <a href="/{{state[1] | slugify: "latin"}}">{{ state[1] }}</a>
+    </li>
+  {% endfor %}
+</ul>

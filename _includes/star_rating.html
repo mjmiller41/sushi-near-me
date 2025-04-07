@@ -1,0 +1,84 @@
+<style>
+  @property --aspect-ratio {
+    syntax: "<number>";
+    inherits: false;
+    initial-value: 5;
+  }
+  @property --s {
+    syntax: "<length>";
+    inherits: false;
+    initial-value: "20px";
+  }
+  .star-rating,
+  .star-rating * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    pointer-events: none;
+  }
+  .star-rating {
+    --brand-color: $brand-color;
+    --s: {{ include.size }};
+    --_c: grey 50%
+    , gold 0;
+    --aspect-ratio: attr(max type(<number>));
+    display: flex;
+    align-items: center;
+  }
+  .star-rating input[type="range"] {
+    height: var(--s);
+    width: calc(var(--s)*var(--aspect-ratio));
+    aspect-ratio: var(--aspect-ratio);
+    padding-inline: calc(var(--s) / 2);
+    mask-image: url("{{ "/assets/images/star_icon.svg" | asset_url }}");
+    mask-size: 0 /var(--s) var(--_m, );
+    appearance: none;
+    cursor: pointer;
+  }
+  .star-rating input[type="range" i]::-webkit-slider-thumb {
+    width: 1px;
+    border-image: conic-gradient(at calc(50% + var(--s)/2),var(--_c)) fill 0// var(--s) calc(20*var(--s));
+    appearance: none;
+  }
+  .star-rating input[type="range"]::-moz-range-thumb {
+    width: 1px;
+    border-image: conic-gradient(at calc(50% + var(--s)/2),var(--_c)) fill 0// var(--s) calc(20*var(--s));
+    appearance: none;
+  }
+  .star-rating input[type="range"]:focus-visible {
+    outline: 2px solid #000;
+    outline-offset: -2px;
+    --_m:, conic-gradient(from 90deg at 2px 2px, #0000 25%, #000 0) 0 0/calc(100% - 2px) calc(100% - 2px);
+  }
+
+  @supports not(d: attr(d type(*))) {
+    input[type="range"] {
+      aspect-ratio: 5;
+      /* max */
+    }
+  }
+
+  .rating-text {
+    font-size: calc(var(--s) * 0.8);
+    line-height: 1;
+  }
+</style>
+<div class="star-rating">
+  {% if include.rating %}
+    <input
+      type="range"
+      min="1"
+      value="{{ include.rating }}"
+      max="5"
+      step="0.1">
+  {% else %}
+    <span>Rating:&nbsp;</span>
+  {% endif %}
+  {% if p.rating %}
+    <span>&nbsp;{{ include.rating }}
+      {% if include.count > 0 %}&nbsp;({{ include.count }}){% endif %}
+    </span>
+  {% else %}
+    <span>Unknown</span>
+  {% endif %}
+</div>
