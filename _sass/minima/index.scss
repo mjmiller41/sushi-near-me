@@ -8,16 +8,16 @@
 }
 
 #states-links-list {
-  list-style-type: none;
-  margin: 0;
+  // list-style-type: none;
+  // margin: 0;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  align-items: center;
-  gap: $spacing-unit / 3;
+  grid-template-columns: repeat(2, 1fr);
+  // align-items: center;
+  gap: calc($spacing-unit / 3);
   line-height: 1;
   li {
-    text-align: center;
-    display: inline-block;
+    // text-align: center;
+    // display: inline-block;
   }
   @include media-query($on-mobile) {
     @include relative-font-size(0.95);
