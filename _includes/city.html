@@ -5,7 +5,7 @@ permalink:
 state:
 city:
 ---
-<ul>
+<ul class="city-link-list">
   {% assign places = site.data.places %}
   {% assign statePlaces = places | where: "state", page.state %}
   {% assign cityPlaces = statePlaces | where: "city", page.city %}

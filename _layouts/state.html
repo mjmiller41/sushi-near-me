@@ -5,7 +5,7 @@ layout: default
 <h1>{{ stateName }}</h1>
 <span>cities with</span>
 <h2>{{ page.place_type }}s</h2>
-<ul>
+<ul class="city-link0list">
   {%- assign statePlaces = site.data.places | where: "state", page.state -%}
   {%- assign cities = statePlaces | map: "city" | uniq | natural_sort -%}
   {%- for city in cities -%}
