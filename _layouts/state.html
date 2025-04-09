@@ -1,16 +1,17 @@
 ---
-layout: default
+layout: page
 ---
-{% assign stateName = site.data.states[page.state] %}
-<h1>{{ stateName }}</h1>
-<span>cities with</span>
-<h2>{{ page.place_type }}s</h2>
-<ul class="city-link0list">
-  {%- assign statePlaces = site.data.places | where: "state", page.state -%}
-  {%- assign cities = statePlaces | map: "city" | uniq | natural_sort -%}
-  {%- for city in cities -%}
-    <li>
-      <a href="/{{- stateName | slugify: "latin" -}}/{{- city | slugify: "latin" -}}">{{- city -}}</a>
-    </li>
-  {%- endfor -%}
-</ul>
+<div class="state-content">
+  {% assign stateName = site.data.states[page.state] %}
+  <h3 class="page-list-heading">Choose a city</h3>
+  <ul class="page-list">
+    {%- assign statePlaces = site.data.places | where: "state", page.state -%}
+    {%- assign cities = statePlaces | map: "city" | uniq | sort_natural -%}
+    {%- for city in cities -%}
+      <li>
+        {% include city_icon.svg %}
+        <a href="/{{- stateName | slugify: "latin" -}}/{{- city | slugify: "latin" -}}">{{- city -}}</a>
+      </li>
+    {%- endfor -%}
+  </ul>
+</div>

@@ -108,8 +108,7 @@ place:\n${toYaml(place)}
 await rmDir('_states/**')
 
 for (const stateAbbr in STATES) {
-  // Uncomment for development
-  if (config.devMode && stateAbbr !== 'DC') continue
+  if (config.devMode && stateAbbr !== 'FL') continue
 
   console.log('Building places directory structure.')
   const stateName = STATES[stateAbbr]

@@ -43,6 +43,7 @@
     "node-libcurl": "^4.1.0",
     "pg": "^8.14.1",
     "string-similarity": "^4.0.4",
+    "svg-path-commander": "^2.1.10",
     "url-slug": "^4.0.1"
   }
 }

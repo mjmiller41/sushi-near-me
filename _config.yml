@@ -34,8 +34,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - index.html
   - about.md
-  - slugify-test.md
 
 include:
   - _states

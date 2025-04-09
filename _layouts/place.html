@@ -1,30 +1,33 @@
 ---
-layout: default
+layout: page
 ---
-{%- assign p = page.place -%}
-<h1 class="page-heading">{{ p.name }}</h1>
-<div class="price-rating">
-  {% include star_rating.html rating=p.rating count=p.rating_count size="20px" %}
-  {% assign p_level = site.data.price_level[p.price_level] | default: "" %}
-  {% include price_level.html level=p_level range=p.price_range size="20px" %}
-</div>
-<address>
-  <span>{{ p.neighborhood }}</span><br>
-  <span>
-    {%- assign directions_link = p.google_maps_links.directionsUri | default: "#" -%}
-    {%- assign maps_link = p.google_maps_links.placeUri | default: "#" -%}
-    <a href="{{ directions_link }}" target="_blank">{{ p.address_html }}</a>
-  </span><br>
-  <span>
-    <a href="tel:{{- p.phone -}}">{{ p.phone }}</a>
-  </span><br>
-</address>
+<div class="place-content">
+  {%- assign p = page.place -%}
+  <div class="price-rating">
+    {% include star_rating.html rating=p.rating count=p.rating_count size="20px" %}
+    {% assign p_level = site.data.price_level[p.price_level] | default: "" %}
+    {% include price_level.html level=p_level range=p.price_range size="20px" %}
+  </div>
+  <address>
+    <span>{{ p.neighborhood }}</span><br>
+    <span>
+      {%- assign directions_link = p.google_maps_links.directionsUri | default: "#" -%}
+      {%- assign maps_link = p.google_maps_links.placeUri | default: "#" -%}
+      <a href="{{ directions_link }}" target="_blank">{{ p.address_html }}</a>
+    </span><br>
+    <span>
+      <a href="tel:{{- p.phone -}}">{{ p.phone }}</a>
+    </span><br>
+  </address>
 
-<a href="{{ directions_link }}" target="_blank">
-  {% include direction_icon.svg %}
-  Directions
-</a>
-<a href="{{ maps_link }}" target="_blank">
-  {% include location-dot_icon.svg %}
-  Map
-</a>
+  <div class="maps-links">
+    {% include direction_icon.svg %}
+    <a href="{{ directions_link }}" target="_blank">
+      Directions
+    </a>
+    {% include location-dot_icon.svg %}
+    <a href="{{ maps_link }}" target="_blank">
+      Map
+    </a>
+  </div>
+</div>
