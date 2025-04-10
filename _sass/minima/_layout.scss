@@ -193,7 +193,7 @@
     gap: calc($spacing-unit / 3);
     li {
       display: flex;
-      align-items: center;
+      align-items: flex-start;
       gap: 3px;
 
       svg {
@@ -207,11 +207,6 @@
         flex: 0 1 auto;
       }
     }
-
-    // &.city-page-list {
-    //   display: flex;
-    //   flex-direction: column;
-    // }
   }
 
   .page-meta {
