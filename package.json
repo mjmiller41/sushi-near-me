@@ -4,7 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "jekyll": "bundle exec jekyll serve -l",
+    "jekyll-serve": "bundle exec jekyll serve -l",
+    "jekyll-build": "bundle exec jekyll build",
     "update-jekyll-data": "NODE_ENV=development node _backend/updateJekyllData.js",
     "build-states": "node _backend/createUriPaths.js",
     "build-states-dev": "NODE_ENV=development node _backend/createUriPaths.js",
