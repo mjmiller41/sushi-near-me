@@ -1,7 +1,6 @@
 {
-  "name": "directory-site-maker",
+  "name": "sushi-neam-me",
   "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "jekyll-serve": "bundle exec jekyll serve -lI",
@@ -20,7 +19,7 @@
   "keywords": [],
   "author": "Michael J, Miller",
   "license": "GPL-3.0",
-  "description": "",
+  "description": "Jekyll site generator for sushi-near-me.us",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mjmiller41/sushi-near-me.git"
