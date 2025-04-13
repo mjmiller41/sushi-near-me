@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://cloudconvert.com/
-HostUrl=https://us-east.storage.cloudconvert.com/tasks/eaa90757-d8e9-4841-a3b6-59f34cf47899/sushi_icon.ico?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250409%2Fva%2Fs3%2Faws4_request&X-Amz-Date=20250409T220745Z&X-Amz-Expires=86400&X-Amz-Signature=9cbbd0fed9b6ef19c6046d57594d0b343ed45a45ab60881a48aa2741f98fee6f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22sushi_icon.ico%22&response-content-type=image%2Fvnd.microsoft.icon&x-id=GetObject
