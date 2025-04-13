@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Genki Sushi"
+permalink: /new-york/staten-island/genki-sushi.html
+stateAbbr: NY
+stateName: New York
+cityName: Staten Island
+place_id: ChIJ7wnmuMZLwokRQC790GkAuFo
+photos:
+  - name: >-
+      places/ChIJ7wnmuMZLwokRQC790GkAuFo/photos/AeeoHcI6EBN8G2MCLAg814YVsab8Cs-5qBCvUO4tLVJ7V921FQonCRn0yIvNUFv8LMUAqlV9BrKHmqMCRZRNLXwBKV1A278xBC4rl7pUNlLLpXQf4AUDj24hvP-xiT46bosyDhRU1NLuWLKMnPCVsRfsJBzbfXujtfNoxMMZu_m47JYxx_FEvPjNUKMvQpr-j6j0Wbm5Dmql5CekqBosmMf8texyt7IP14jG0wZpDZ5wX8q9dEZvulP1BArRDf-n_h2_7QOspZ2M5YtjqjACo5VLEEjR3wscmfEKcCfPQqs67sYcpnUI82GKsznugK37dE75Vb6adzN7HFNpnVO7qRccUtYXV2TiP5gJ_El9Z0PB7HNnGJFu9qIO5Sqb_xuewbYdvPbQ1gQCQt0t1-BOuBS-Bkx7Ls-3A_aJy7pluW82EZeGILwd
+    widthPx: 1200
+    heightPx: 900
+    authorAttributions:
+      - displayName: Igor Ostrovsky
+        uri: https://maps.google.com/maps/contrib/108605778596958236375
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLfuC7E0hNW2VQCtP9A0pySVn2nSoOb-qkBdKV_SryumUrIhA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4-rP56gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4-rP56gE!2e10!4m2!3m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40
+  - name: >-
+      places/ChIJ7wnmuMZLwokRQC790GkAuFo/photos/AeeoHcILs8EJcMI-yVvz_YxYWuJa-HxJQexpe6IaSknl4QRjC0PGjd4tVhl_V1uzlD8X5AFIkjGgrwzeZtKeIWzYC3IF8wqmmQphiVbmQwPlriHCsiULOyRHKWMaXU1Y1EKYmep1Of-mvDH75zSrtOcnlepl7YjSWl0z6JdUypOTI8Fs3oucMIt6Chp0fNYTQoXGShlu3Sw601O04fSRQdovJZruIZpEvQURtqSjoL0U6RI8LPTEcGpGgxMI5h_LlJbz4CXIl4IN4r-r71HkOsMzsaAQxPxb5bsG4Z47PS4kYDcgZrpCjhYHIQSfGP6bo4hR_Vf_wjm1kDcSZ8CKFByDMXA2sxPGXZdvV6W-LZli-F6RaNQEY2X3uqoTpV8nk9fi0LFr6E4_Eiwhbmx5g-iMpGkiXPWaxqeTfzDb1Piroo90ug
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: SUZIE LAN
+        uri: https://maps.google.com/maps/contrib/106828934133121936116
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVl4qk6A48hPnB3kg1iD_gr8S8hKQsqnxqPNnP-lS8KP7Qeswy5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE442NNw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE442NNw!2e10!4m2!3m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40
+  - name: >-
+      places/ChIJ7wnmuMZLwokRQC790GkAuFo/photos/AeeoHcJavC65urZe2rjaMqx7KXe-AoERaiaJUWBPzc3BdVN6xKFbBpJQPi03jymvO2g4F32EUKsUo1d9xuxRRevgTkgGZg3KmsgP_VnvMjzSYUn9vWabhcVtx8vf5z6PTMb9BEoWjI7XNCXcDeuvjy0RM76h5YVsvTMXQrs6RGxqBIGddWwMVJr6bSCKqvWqQY_UTOA7lo8i3WNwZQh7Q7tG1HXPYurVXZbKiETfVmTAsMREhGDLYMVJGTp6AsvSviBCZJLe26kHnTGZy5X2oz3mNXPF0RtYLzQclrSyLmoXmk_uzbLk9exLa4I6lfkX52dNXAqsJ4oOw0yQtAGm5uWrOKopO6JovU9BSFx4UhvcC6uCIkVJHd8TMK2IqWtFbCA-qZbVCrg2B_1_7LsCsXB5-OUCizN_TqNsL6MfuhhpJZ9oiw
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: SUZIE LAN
+        uri: https://maps.google.com/maps/contrib/106828934133121936116
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVl4qk6A48hPnB3kg1iD_gr8S8hKQsqnxqPNnP-lS8KP7Qeswy5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn1qeYfQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn1qeYfQ!2e10!4m2!3m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40
+  - name: >-
+      places/ChIJ7wnmuMZLwokRQC790GkAuFo/photos/AeeoHcLu1DU3_qYscbUIAHbSa_MQ_KRjYTKmXW0Koz16pa1M-bSvfK6XgSdtyLr56efdlko6ZMaT2uhl0ZcNfqco_-h_VnHa8KM8WFEjmHxoU4pv6qNBasyYU4APp6V7jISDR2zYfjaRLJxtA4i7Zyyyc2E6ZExf1AuCDazLGJOwxNnAmeevU_nitMl-tI9_IKcuZUVFF1dFkYMIpLfZO-BXMbv-Kc29Ly3NFKHS34zI92DoxIE9cz3hROuIR6nlyQznBBZaHYgrUJ9OtLYzvyPEVS3fSN3qQnjW7SWcBcWkOPCtaIBuGVNODzlRxJeHbRtgacNtvNCOV136tNJ-wJhnUEFwMfnYkvW4QaTEiBjZ2Sj8bJlpf9TsSvAS6rlqjr7hZR4Qs7MneU1NXzRyo0W66XpBIb182oMqqNu0scJ7A8wKcVM
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Anastasia F
+        uri: https://maps.google.com/maps/contrib/109256326025548614510
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXelyfhONfurx-dEeeFIuC_VUDnT6lOpv6UVFwWZtQEvWvgH4lA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdloLL-QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdloLL-QE!2e10!4m2!3m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40
+  - name: >-
+      places/ChIJ7wnmuMZLwokRQC790GkAuFo/photos/AeeoHcJw5-mC9wbseJArXNphaDrDoyH7Svqxbr29IUi3a-ahqMnK_YGI4X2ilCsUqoXRL9EE2LWJ4BlJQeNqAcizv0ed7hghPnEcq6W6XOsyD4xWNtubDxKiFez6rKUSgxqqxANNg5Z8FZvwOV7vOCHQXhOIngWKnSAhgSKnhvEB1hGwKegPyCisxrO8eEOgc8qp8pIaG0TlBeQZ-R0k-f2QXwro7rFeaiWw2D9xXRywfOQf4dvXYoDzyNAxnkoM5HTevnRU0buDpdYEpIxaJK1MUiNbm2Y9hIvMhKcoiJJ8oQKjvjIZJOfutC-eFTLZ63eyZlHIy6HEFsdPiKZKTz6mf6kr5Pb3gw1HH2QW6eErZE6wyg1L1Z1R1HvSv1w-HW0zQ48IQTCYqCkxm-oBE8fowHarrolhTMoJ4-8P1C5zBdzwfg
+    widthPx: 4096
+    heightPx: 1894
+    authorAttributions:
+      - displayName: Juan Chen
+        uri: https://maps.google.com/maps/contrib/112190696316886307466
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIuEeDGchel_iZrvBDBFA0E3iijhNneV9h-pX8xF38AbwoloQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf1vyNXw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf1vyNXw!2e10!4m2!3m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40
+  - name: >-
+      places/ChIJ7wnmuMZLwokRQC790GkAuFo/photos/AeeoHcKGtuSw09iCic1ZISNapZsnJKKlerk4t36-4s2eW7cHzkDn5Nl3v_AORixEIGEzHNwUr5OSYE3PbQToH9CA2uB7WDdxe4vKoObgFPgPZAqioqqWGB6EhuGj8CqhT_EWJ78W9jp1oFaqwZhdp_EkDnArt71C5Gz6sfhgqzQrUVlRbcdqGgkDT5TelkNFbXeYk3L-wgse9MbMeFb_dAqHFJH7OSX_QynlvZRFpe-aaBljEYLRhmrU7E0HKCLf3ZjThkyU2ygDpDcnCPV3TSvIFDutUI_ccVcuywsw-T03G0mobWpBQ6ZflQuSqfqKVu3UwJ3jmB9eCDh-mZB8NZHSkcEi0cFjw0Kl3By-GMVcvL_E3rAu0z89pSOKMtiEcqdQHNXpwm6qHQQz4qoXmcJZfOXjQYwxPPdh8Bb3gVomC_U
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: SUZIE LAN
+        uri: https://maps.google.com/maps/contrib/106828934133121936116
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVl4qk6A48hPnB3kg1iD_gr8S8hKQsqnxqPNnP-lS8KP7Qeswy5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCA35SmXQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA35SmXQ!2e10!4m2!3m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40
+  - name: >-
+      places/ChIJ7wnmuMZLwokRQC790GkAuFo/photos/AeeoHcKqWQu8u2ogXV0yCTO4a0nGOWkMmMBUezR9ZS7HpOrjHhbMB94lrSAUwXWLLQXf20DwGqlFZLRFhoPwZXrqEC1IDd7SLMwM0gOF1qcIKciz_T9Zh9SL5PDIhxyJtXP-C0dyCyzS9k3OyWH5TrUrW9o8y77KYrNwu54jVsYKgi61jd6eRPDRPVfO-MJ8Sk_piCW6NajqDJu-kEvRE6myEPYCcMS50FzOodKbb3LxYedtIOZ8ET4rb1mMUw6NE_zyWuL3XtYjHgLkLOSr_2ScUMlx9HGAJgXcpM1EHvSCVse8LNnvPmu2FiKsqrO6aEFgzjMW5Pm39-Hvsz3vuwNsKOnQqs9qwGNgqHCYNdBQYC_VtmGHaNghXXiXuN2YsWnppelDnGNyTHRBttz5PFbEdIe2t3PztVBrZsr7ciXeiuU
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: SUZIE LAN
+        uri: https://maps.google.com/maps/contrib/106828934133121936116
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVl4qk6A48hPnB3kg1iD_gr8S8hKQsqnxqPNnP-lS8KP7Qeswy5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE47WpGg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE47WpGg!2e10!4m2!3m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40
+  - name: >-
+      places/ChIJ7wnmuMZLwokRQC790GkAuFo/photos/AeeoHcIaqQ1f8H6ptCelHfTkoypLtbvO_p7OkfFxSEPMS9YFccKyQp2AzmXxrxPoLZaxir597U__5W3rv4I8xAuD5Z3qpJyviAyNO6cZ_IpIZAXV_bvPLjKmuREHGaLw8dC0plyiCRiE_Z0vQ--tzsGyUAGqopl6Gv9BX9Q5DxbgUQXNDOSOtxdw-JdN-9jc0v3ewBWXD6MnZkgSWJC7wjIddWyL7JT-VOrXDe46QqsHOAx7-OwEUyCiRPgD0vKsBaRkTKVEtk2sLA6rz4wTCpeJAoCg9xoMd3Z3P_plmIC4vE5CVaK1jgPcozY-wmkSMAT3AmMbCVbVw_0gusPy7fp4IQCYd9jVMqpUqKWhYan7usItO5hSEv98aQjnQ4P0IzydBmbiRunVemd_mT3Mel922vNgAe-4T5k5q6bekWtFjvN9r2c
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Bobby Putney
+        uri: https://maps.google.com/maps/contrib/110456497592876394270
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWThcJzSdDfaBB8aetk2rshCkVRI2U_etRxz5Ab8x-I3_HMBYE0tg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfhb7wwQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfhb7wwQE!2e10!4m2!3m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40
+  - name: >-
+      places/ChIJ7wnmuMZLwokRQC790GkAuFo/photos/AeeoHcLPcsJdzQpmI-OHxmcXU8lAcNp3HddfVVx17b5iikXIojMBzwZ4LSUZ54A5Xp_hU1SCGlrdzC5pn8bUmV7Ul8LttIU-DFFvQgJmn2QGnda7HBb176dH0j_gocIaTdroWDHZ_O-9lzes8knR1ogEdCPPv4IT3AqS63jT1RK5GB4FBkk8xsdGmdDSxN1TVXUEgMDy0w7T4RgL4tzQuhZBsSO13yctiBiXeh6N9M7uHdRoazKM4R_v1O5SfxyUdNgLpoKSDU-xwo0pfaz5w3N2ygCZU_u1JoWzcs-YxvgTf0kT2BRWoZclYNe4b6mOzN-WKnHKHQ8vPQn2-BjWczASzH_X8C8kFrbOVkkZFxqUrrvzqLLGs9avnl2f8deMrO6OIp7W9wylRHSNvB91pGBp85G3ClmcG9ektrLF4Z3d1mkU7w
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Val
+        uri: https://maps.google.com/maps/contrib/106543583584410930031
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVpNj3oRp8wuyDPj0VhlRSLg6h-Jlwl9fR3BlRQYUlI0lJa4dHC=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRxpC0OA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRxpC0OA!2e10!4m2!3m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40
+  - name: >-
+      places/ChIJ7wnmuMZLwokRQC790GkAuFo/photos/AeeoHcIQRw-HUWjZP-oUeHXBd1n6AnPocUNOQbtesKLT4tK_XXpTjtXKyTvtM_fruoueMVLMtshsVBSa8JtyDPW2N-OhJOhGedHHRIktRr8QPNtcSl5zDuS7bUD5G5-m0suBo_TR3nGghtPGFHpLcrYnIbJpB7cMBoCxWOOreT4Whm8kM0SuOBDU34nsJPdTObpDMoYYyrcHTDd8kmIOdfnO8C8-7cxVmKeQ52Axd1ZVV_rElxNRE2uUrMJTC3UcreaaJC-jNyXwRuoTlNPqRYFPPp0B2eM9q24S_INyMfQE4Lh-HodwWBcxu_iRBqzOnSg6qJSjTAn9SD_WrX3Ti4yulS0XgF_u97VppRsiOAyO0lRGis30Itxg_a1WHVVzDkPzH_4G0eu48boWpqTwmW8RxdLs3-eEMEeFGPLuKOGDuHU
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Arkady Utkin
+        uri: https://maps.google.com/maps/contrib/103620767151299443097
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXDad7YFgD4X5tsdrzPPmf3irwuBxaJdULH4mahkBQ4-ZUf0kQZ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD3NHtYw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD3NHtYw!2e10!4m2!3m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40
+address: 150 Greaves Ln, Staten Island, NY 10308, USA
+street: 150 Greaves Ln
+city: Staten Island
+state: NY
+zip: '10308'
+country: USA
+neighborhood: Bay Terrace
+latitude: '40.553819'
+longitude: '-74.142748'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Genki Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40!3e0
+  placeUri: https://maps.google.com/?cid=6536975313606094400
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Genki-Sushi
+
+---

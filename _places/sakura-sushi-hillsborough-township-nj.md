@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sakura Sushi"
+permalink: /new-jersey/hillsborough-township/sakura-sushi.html
+stateAbbr: NJ
+stateName: New Jersey
+cityName: Hillsborough Township
+place_id: ChIJER66qL_rw4kRPm70U7f7_OU
+photos:
+  - name: >-
+      places/ChIJER66qL_rw4kRPm70U7f7_OU/photos/AUy1YQ1_YSNjb4hPB2HJbf6_b_Iyokr7JC0JzJjRjsxJ0ZyG6TXENlrGS6m4iM9AgL2tUmsfX01FOAG0rU-p-tbcgHMf-MH_CqQa6PUpKSS2ecZuINs_kiz88Pof6P3ub2uCYflACrko2RKQAkeGZRIOy50fBqnVlnNnCT8H18jgAvUEahH4Lbp4qv5z0fYU_u1XxgPsV2I8tWxIgCWB7HFiVJJpZHPxDzZtWZVlC49gsMLd-SDJyKa1nue_jjbZM1JtHL-6mAkmwS9s1Hb53WTPNHM-fpWF1a1vFjc9MlCIZSm8KiUNkl4tlwZ-5TgTNaiyqKhwFnYKTcA3pTGlOPps2aLV57STcHuizglg_R-D8qeKwX5FbKdBbWl_eXZAGlI88OWghFhcIlpxM1bHFhpPpy8pCii2obhc2tnsS3hG6sI
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ashish Nangla
+        uri: https://maps.google.com/maps/contrib/112092989875088588077
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKRVr5sBffiTwaTZas7ud6HOVWsT8TBO3V3WI0dZTv5LlZinQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB07ziDg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB07ziDg!2e10!4m2!3m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e
+  - name: >-
+      places/ChIJER66qL_rw4kRPm70U7f7_OU/photos/AUy1YQ1Y7IPBAowocwuUCpzlhM6jrNICucw0U0wLxTDw9twHmjMmpqBsCvozHFPy4L0RMD59_t5dnm8fpuQuj4nyjXzY5EOlRtn2kslZhk-l8Ah5YfS-NwEdkQtOAY6iQzPKySENvC2oJ_JxNDe-NLzdbW4GMW506Z1vigBUr1kc15snJ3Cvt48YojCdSO7okPZYOAHc02QZsQ7jD3PDzps9S-vbBA3S-hKRiiBgAT2ojLLz9Fz9-mvdaKkvPiTur6GIWI_ypVoOOH_1N4g4E8_muGVlX0Tq6rkiqGB6SEO5tFft_FKpSDRelqbvb4aLWWS5ESkIMbIJxiCDn4N2QYy2AN-_4tzo8NnWmuxRuJJZxZvD_QmE473CaDD6ybVgKPq8cKiF8ks2gtHNdzdh9fqoGvWwztpmiK6MidvD5WoOaiU
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Andrea Tobar
+        uri: https://maps.google.com/maps/contrib/105270371817010713055
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXevwO-EspiO8cdfwORuwEOplAhHaDc031qJAW_76J9B2DVYDYb=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR_5SaCA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR_5SaCA!2e10!4m2!3m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e
+  - name: >-
+      places/ChIJER66qL_rw4kRPm70U7f7_OU/photos/AUy1YQ2yt6QTxYrvXvwLiEBukRRy8bEHfEn70Gr5GqNzIm9a5-mzOqPR3fYT_R38TAn3gJ5HR8NzuJw9VERAYcipo1-KodWnO6hJifo2j70pX8g_9aHUrAgEjqbiIL2-xnTF4vZOxKbcVajcyvxwYNP-gQ2UNFPZTScqLR7eRdf47tsUwQK65EcbtmbHYcnzURwB_qvOSbW1hyh0RpYtkVkfEQwwAP5tQfOtsCGX3MP8X9c3LmtOKBdq0Pw2ubJnMN729ywh0UAyCGMgT14OGnt8UTXPQZKy-QrM6h9vKI_-hcZP3CSspgFLHGoDaycn_ZELrO0R9-j9qWiRHbOFNyANUD7detg0I0p1v-ZxYoxAYaqJOldzO3-ispuQDA2p3RPzAZU1NmCzuHfONNRTOrVo2WhSiRRbqINZL5x-cmA_nI2-GCPR
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Michael V
+        uri: https://maps.google.com/maps/contrib/112204927759305763339
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV7iGy2AH2vsL2TGqLkUaQZowoAx294euzcZI9KS4ZFUptq7llAVg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOi9ma8QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOi9ma8QE!2e10!4m2!3m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e
+  - name: >-
+      places/ChIJER66qL_rw4kRPm70U7f7_OU/photos/AUy1YQ3y0RjBl3dXdtyubJOTGCiM-3BEpuaa_NB1OTj4d_RwFlQd25xjekSiO4XBegxF8BK7o8RdM5gilnBLYx8e7HRm-2s62bR_qMdD6TLFAN2xqN9AM533lLU8rBZD9tlTl3eMLXQhDBd_MUv7J3gzvEIkQ4GiHIuB_8gvCAqiE15bmluWisd1iZ6Pf1UubzoyMmNBje1UZ1J67p30JMNzhz7aEgQ4TH1HCwJVoSnEWdBny_gLJ0zAlPsdz04wS79Dxoc23MuVoqk0niLcueRglHCOYel-vNgqplyfzf7i8yuU-JC7nd8KndqmnnLrv_MmuJ6F3QmJKPceJwQ6m2L44A-F4Q793-RjJJCScGpdg6THmjgnpSGmZl6-QMMR-tmmAeKJKIY6yz9yqrMwDrBBzd737xF222AjhGWONFAtvHh0kQ
+    widthPx: 3120
+    heightPx: 4160
+    authorAttributions:
+      - displayName: Oscar Trapp
+        uri: https://maps.google.com/maps/contrib/117349492550319132032
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUSO6w1HGpt_baLpTBqz_TmQXnrSF52Yz4dDQOo2y7iFKEW7OlAkw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk4unaXw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk4unaXw!2e10!4m2!3m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e
+  - name: >-
+      places/ChIJER66qL_rw4kRPm70U7f7_OU/photos/AUy1YQ1cwm0iGldPKdrzKc29lYa2Bzn5sPdLQe4ZWRZSD6e-JHpTXyPB48Kh8KZdOmqPrJBrR5UxGwr8Nx4u9H5kj9lIQ8rl_Sl6iXakR4ORqeTi5zUj84lAA6EPervN4cRMlf4joFZltqU_hNccs1AHTNdd_rR9pnG-3KVo8rXMqILJplOBCi25Luxt3hd3s31q_KmLW2iNrVr-i6aaR22GsogYq-D2XIzC4zcxKH8Np8lA65Oddl6rlEl1TFQwr79nG3G3HCOftO0bZ2fwQwP9Gj6Fliv48t5y4E6jhhm2LGWCYKkONEUzE9g18Sy2eLIEJMGhm7MEvKSZ3LObQLkMGfD60cgM4sKfBRrpSqHVtzgZ1SeLa__BCO-hCMo-vBUbzT7QXvdJVLquP-XjA9Y3v_mZm-s8FbSdHJ6LiSfKJVK89w
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Emily Raber
+        uri: https://maps.google.com/maps/contrib/109335949181526792703
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWd97v5qCHQOdn0-3y5wU43DGILaE2xoKkVCImZav_AJQU1zOgt=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOhJ-Ndg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOhJ-Ndg!2e10!4m2!3m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e
+  - name: >-
+      places/ChIJER66qL_rw4kRPm70U7f7_OU/photos/AUy1YQ0N9NPmebgMVSw3bgbVK3NYBIJb-cEbz8U7WEtZgV8NXs4SUQ4E9UZ072XfDSdc6ng1pBA1zsYZhVlgImQa5hITmscaspBT8bNmkyFA9Gvzl46MPe6EeqmsSSgAKQT9Ore_LTU8DrslarwokJrogT3H67lAn-VjenJLjdbLESfADai3a20eB4n5PzBJ6i00uWCYHzKeSyx25tLaUH6tDetNKdJqKT8WZUFmsoWCm7OvQ27TH3g6uYIjrP59lzHxC3P8N4e14WyrCduWpWY_qx1-itYAsLKtiRa2mj3bRECjf9KXKj70CB8TEZX5PlC6VaaCFdvySslPPlyukI0Ym7uyD1zgY6N0-nY6ujd5Om8zHZjXWl50FwG591NxbAh6J3f9SFPsyJN3gwnROrbgudSDlLT_kurhzx9nHgaLkpkNWQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Ivy Usansky
+        uri: https://maps.google.com/maps/contrib/105087588930371737107
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKd16mESJmo8yFBt50JusmIasWeptScgx5ySFDqJ7EShGINxQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC8hOLfNw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8hOLfNw!2e10!4m2!3m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e
+  - name: >-
+      places/ChIJER66qL_rw4kRPm70U7f7_OU/photos/AUy1YQ3z4z5A30Ebmrjwpncaoi29WWrlsgHTGRtiur_Y5audi1WN8F6Gvp0SMHxTgw53WUQMGdheyJTq78ZP4uK2WLtFJpAZf-VFyjZWawFs7uELbtzpzY3JPeNriD_rc_2KXnEOoW7l9HZXLDLlGAnzEdKxYWE3w64vLMDZNFW6ccX63JlUQBfZqDOw0Ay11GVszqBkj0hBBEUrfjhnmQKovqzd9H8ig0ZDOfFuuga45_iELEmnEEwirWn_-QscZsIHKPZRpIWE6zjABU8i0Rt2KNubpLL2oD0F2XanXoMIfCubf2HuWjYtCN7ga5FeLfYtLO2nsorxLyB6f74vHm_2nHbadgMnN3REW_xPpIp_cxPzQiQjP5KYN9TQKAhEsDxpZrjVk2Y2F7ZORdeeO8xwi-f55d1z2pqD9UecT1M48dMaRg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Michael V
+        uri: https://maps.google.com/maps/contrib/112204927759305763339
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV7iGy2AH2vsL2TGqLkUaQZowoAx294euzcZI9KS4ZFUptq7llAVg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOi9n6Xg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOi9n6Xg!2e10!4m2!3m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e
+  - name: >-
+      places/ChIJER66qL_rw4kRPm70U7f7_OU/photos/AUy1YQ1bhkSJkgqfYHKIWKuyo0SIepzEhlChTlzj3Zensu1e7jOdj3baVXUCRpV7o802tY7WZlnCGlP4uTkIoqDqhUSSBTDJUSbmJczzlDyv-MJ4Bbp3DsqSOSdSu8uhTcETgZd6jW2M8SXKxU5FHh4_VMYPPXPrmJtrxeHFBd2agbxgqFPLZ-uVqTT24ZLfC_Q5oaDYuO4Xzet8-OaPfuI2KcJQK3rP_6ZZ4tIpQNCHoYNmGsB4xFWk8skvq8cef6rTDqVVSbDp_UPsaLJ6YcjPk_Ep1IAtsFKnUzOwtjQ6sZD_Fppf0am-DlMOeFTBAEIRioSTdYKZvi3gW_0Xjt3CSBtEPgVPSqJPXgzlI4oD5DL8-sjWzzfaD5JT2ztTdWF_o-tWm3LkbpXaaHvaTTw1paiB7c4MopAGiD7-HgY8UDE2aQ
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Heather Svenson
+        uri: https://maps.google.com/maps/contrib/110994843975835461052
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWZFm2n0hWdBht7QrZPea4AXxWzUt2CNHKzEWOVFfN49SGj6hqK=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDm1eWebA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDm1eWebA!2e10!4m2!3m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e
+  - name: >-
+      places/ChIJER66qL_rw4kRPm70U7f7_OU/photos/AUy1YQ0O8-9qNrxFE64r7M9wpzhTc-GbXnqB2czWeyy4rh8Q-PuGfBdMXe6jHJyaNFHxSHQGu-36QGgIaQQ6RLtF-SQv6YPIER-es6cPawPhplUmFFfgqaqzvfGTT6NIILMSxWi-61TrF3XUUjv2pmEvxvVUD6Npdua1l1Lv5MdsYaXqTMnQgcF8HwRFE1QcA5qguN_m0rP6LJhWeswZGDhY40TkATmFoCTK0Un4DlI4iOxJfZQKfnjwBABHkmAtdeAbWcvB2oOK6bQ6Dbg6ot7pG1avRUA_YKzmS-99QGA3cmTp5U_j7B2TvvnU36Kzk2heTREOBMl9CT_2nXxTLCsoF28w18ETHVO_jI2Qq3ycG8PlqLsfpfYHQILY3BSKxOqzAIMKIVrT-O5cgwBa9ukZ4abPRCsnL-N-YrvtzT82HrQ
+    widthPx: 2576
+    heightPx: 1932
+    authorAttributions:
+      - displayName: Paola Caro
+        uri: https://maps.google.com/maps/contrib/117286791666630573295
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWualjxGyggNceY5fg7iwFXMJpLmsejgq6X8P7FQsYXZkwpXXa0xQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEmPHrFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEmPHrFQ!2e10!4m2!3m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e
+  - name: >-
+      places/ChIJER66qL_rw4kRPm70U7f7_OU/photos/AUy1YQ0SOBHqP1_D5gvLa2eumsseT-qEQ0Y006Iibm_cpR2Avv0gvYkFZa-t67P2wCa5Te2293qxObyBJAPIEz_0SBIwDdtBRej2sjoy7HvhMTmdS8be2l66LV-E8Mq9lwuFXdDYVkBp7u3qnXfQFgG3Rag5xPHctnQiGM-yf3vPzn40L0k5jkt4gt84YByp6--_y0WKtpaGVdjPghnLu2DRR4Tq9KW1_m4MiOuK0ngaZh7Quw-BZdKYBbZWxYfbcuaIIetT3vd0hptVwUBsKKUNoQ5HuCBngclJEOkdg93GECo5eQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sakura Sushi
+        uri: https://maps.google.com/maps/contrib/109584447099384165634
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJS29LVy776IqRW7cfZhuOiEAioZgWzgcplx1fjgL8YHhmn_g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMVqULGGvPDdBD4PeXaWUdtA4coy0LdnyxmQEBp&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVqULGGvPDdBD4PeXaWUdtA4coy0LdnyxmQEBp!2e10!4m2!3m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e
+address: '220 Triangle Rd # 228, Hillsborough Township, NJ 08844, USA'
+street: '220 Triangle Rd # 228'
+city: Hillsborough Township
+state: NJ
+zip: '08844'
+country: USA
+neighborhood: Hillsborough
+latitude: '40.513894'
+longitude: '-74.661587'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sakura Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e!3e0
+  placeUri: https://maps.google.com/?cid=16572397493622697534
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3ebbfa8ba1e11:0xe5fcfbb753f46e3e!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sakura-Sushi
+
+---

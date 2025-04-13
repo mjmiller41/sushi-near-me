@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Tsunami Restaurant & Sushi Bar - Union Heights"
+permalink: /utah/sandy/tsunami-restaurant-sushi-bar-union-heights.html
+stateAbbr: UT
+stateName: Utah
+cityName: Sandy
+place_id: ChIJM9jEdp1iUocRT6jhmzj76mM
+photos:
+  - name: >-
+      places/ChIJM9jEdp1iUocRT6jhmzj76mM/photos/AeeoHcJ4i3Kasqy9UovGU3nL_T6TMTG59pop11MEW9KWANBpk-yc7lHb2XjwbcYFiJAYOloVOWePdjRottigYL6GlWKlgR4bButY-J9KujneRUYuoCF-KLkDJBe3vl4IoprQSwBVUbWkmxaVS-nM_c0Rp0rSm6n6Pxfgbk7l87m3KNmEiqRdvcv_cvk8a88aZeAnprUcAsZ5BgZYla3Cvv4wr7hfZqdr4YDUI8gVWsOwn167dYMt0iPCcgSF993mbNAWF2PMId5zebgI__NuWq3QNiT_4CJ0BPe0doFyhNqQBVzAuQ
+    widthPx: 4800
+    heightPx: 3201
+    authorAttributions:
+      - displayName: Tsunami Restaurant & Sushi Bar - Union Heights
+        uri: https://maps.google.com/maps/contrib/116508397946913628488
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXNA9HoUoH0Rg2ajlFG750A9swcg07MtNp_NF7M9GGtvGqAni4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNKYlf6qEEKlakV9izG1LlV1qtjc8valyrnfQc-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNKYlf6qEEKlakV9izG1LlV1qtjc8valyrnfQc-!2e10!4m2!3m1!1s0x8752629d76c4d833:0x63eafb389be1a84f
+  - name: >-
+      places/ChIJM9jEdp1iUocRT6jhmzj76mM/photos/AeeoHcJoxdVXHoEHQaKjaY3qkErwX4I_1b55bBb8tfWVf9C7KiR7w303uAjbEr0iC9e3aplpp2qRL8_zHsM3Y6jzvtbIjk1sZUzIKqJOetLW5XxZFul3GzUndud3GmpvmEICM75VNs_XPI89Dvaht_hzih9KiyExmk-GfnVfhTIoB7o1SA8MBz_YPaYsLnZT68fgja8NOSBMBtea_1dMWth3mp_7nGIa71UcfzV7BLdb8ppabfL6HdY80E8mXnUrYVicmULm6_FjXGE6m-GqxDnuYoabo3VEPfyV9sYeW56NcfpiBA
+    widthPx: 4800
+    heightPx: 3179
+    authorAttributions:
+      - displayName: Tsunami Restaurant & Sushi Bar - Union Heights
+        uri: https://maps.google.com/maps/contrib/116508397946913628488
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXNA9HoUoH0Rg2ajlFG750A9swcg07MtNp_NF7M9GGtvGqAni4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO6DXoKPU2-dOtK9kOs0DaEIpxNEMGPPT04nt98&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO6DXoKPU2-dOtK9kOs0DaEIpxNEMGPPT04nt98!2e10!4m2!3m1!1s0x8752629d76c4d833:0x63eafb389be1a84f
+  - name: >-
+      places/ChIJM9jEdp1iUocRT6jhmzj76mM/photos/AeeoHcKX5GYaez4JCL73KnCvc_AMwWSeDNkLNHyUtqflejLePy4XsNmMIKyQKATF6d1lqHpM1mAapPZTFB6Qv2jmn3gGgRXPOAPXElLD5WQsB9vNJehHpiv76GZMGgeXEWwS4_kjrG6tRVr75qulm00ql6Cng_3toyPTJOBNPDhz76wiCFEaa1NROV0zqCj3urwgSCPiLRuWcVwgOPx0joT8ZGXX9AatXBBsDM2BSdg_5CumvSy8U-AdXp2-IE3ueTrKf585BLWBiy8Q2ZBg2H1f0fOCJy1pnxLD5QLwh5RCeTsjFYGdlt3QUnjwITmSB964cce2o0I6WOobL_DHKE-Yj2eCE-88Qh9NiyWTWigr26bzyipJNFevM-ciPlIOKwM1kVRDUls4bJGJe8k3xsOnh_k5BZ6yGf0KcG5KkqbQgVk
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Tatiana Grant
+        uri: https://maps.google.com/maps/contrib/111353689702922928653
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuoR3ANx_YZ1vFck_pFYreJ498isZREBJy_41TpN57SUvuHv8wnQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvzarbdA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvzarbdA!2e10!4m2!3m1!1s0x8752629d76c4d833:0x63eafb389be1a84f
+  - name: >-
+      places/ChIJM9jEdp1iUocRT6jhmzj76mM/photos/AeeoHcLNzSXcZbaViYC4PGCrzI3Suj8b3NFsx_iobb0kTzBEoB4nn3BSZ7CoEBKS1QtUx6hy4zK14-adwxM2VI9F4YhUFvCeBLVdmWJvTlHwWCiTI0ADH4TEuqAnyPdS8hIDjEUUEkMP9on1NAzrLRceZYNfwLkWf4f-DvHqGJGR-m5wkflrfsxVNltfwLqVsuHa8BgYSqVbCc7hdD2M-1c59de9ZeXALCN8QrFwOdsx7TEKYom6Cdaa_AnlYYYPAJKfGlFPV6jvwCYjsbaeb7DQd054jQUTKffgvF-u_KAo6r6Br0nxqm8APYDTO2UotgaivjWzMNwaPMxMvtFxJ69d114RpVeuVLxwrZq4opL4cRr0BSvllBh93DTaeDzhr0lhveLRfHQzqUOqMZ5sSXjd--yj40Mjztc9VfdxqRlgvuYT7g
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Serena Lambiase
+        uri: https://maps.google.com/maps/contrib/109372043280480508647
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKzyW2XRXZfLle2lpG7Xjq-_GeDwFesuSZ3LBNhDQduXJMgIg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDb5uWRJg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb5uWRJg!2e10!4m2!3m1!1s0x8752629d76c4d833:0x63eafb389be1a84f
+  - name: >-
+      places/ChIJM9jEdp1iUocRT6jhmzj76mM/photos/AeeoHcJPSTexoERkQqhlx4P8H_hyhUuvwuK53G24Pj951LKWtgN-iD4-RwuSozHiH0ntHL6xhmL__-85uEQnUr_inI9YM_cxFyCX0CGGZxEM7oJbBVO_JImWhC-1FdwSNXjcYkGnjXUUEhMAXfHSnOufaOxrBT2kgi9UmtxVW5PcwfpIHYfZvrdQdSzCXzbM-Und-66aCj7xPIWM3Q5HYUqgZaf4fY4S9kQORuLDOas4M3QRamma8TGSLv2_R5RYESBXyNYrvLvK7E4x-z6gShZEDDDolrBg2TWisjGvGjn_wPwMVIdTZVk020TWznS0_3cRLiJnAuMNPU6HO0jxjowSaxpkpY4MUid54GAlJZLc-wDoGQbPu6ipdoWz2xNGMgKIXy3gpJmhoqi8g-TG13u8pSyt0Kyh9ibIO07m87w_THduvQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Tatiana Grant
+        uri: https://maps.google.com/maps/contrib/111353689702922928653
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuoR3ANx_YZ1vFck_pFYreJ498isZREBJy_41TpN57SUvuHv8wnQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvzarbDA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvzarbDA!2e10!4m2!3m1!1s0x8752629d76c4d833:0x63eafb389be1a84f
+  - name: >-
+      places/ChIJM9jEdp1iUocRT6jhmzj76mM/photos/AeeoHcL7HeO3eEYjKPVYQ4Wm1FSfWYaGdgb9yGWUoGkK9nvEY5S8l6qEmyiJ_l_tmn3o3oIwnVzxsIy-lnwtzClGuLnd_0j-zwoi-4OGc7WybsFLyQjwqkhEFDzKZ55y99UxGhpqhTPZMb3S8xvqssriYf3YlCq06PtCV7YrXNa3RHMatMBt4zCkLjZ-KOM0UTxLQI4YLiIAQWyhe2OvNsCMRpzkCYQgfbyz7myNkOXaS4n4JCA69Hlc3QDbEUu7qb5kdFuLumRpO9lzqDlBKLsltfXPJh6n__zg-Izuspqi35IHlxGUrPFsXdbc-97Mh0sGi2MhAdD_27tJkuvz21d4E8qShwfIZ2Ra4WmNqHssghcYEJjE1TX5Zx8gDoNuPY11Lt6zFi9PIvw0tSmLqp7bAmnJUtPaRgKybUxB477P8UJKSr_m
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Hal Halladay
+        uri: https://maps.google.com/maps/contrib/116121696922932936019
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUWk1s45FzZ9aRaK2SACOTOvYGQNhCxGTgtLoZDV2jsZYRlR3dwsw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDV55_8zwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDV55_8zwE!2e10!4m2!3m1!1s0x8752629d76c4d833:0x63eafb389be1a84f
+  - name: >-
+      places/ChIJM9jEdp1iUocRT6jhmzj76mM/photos/AeeoHcKrpxYpiWlTmZurYYImWXxyNewbZqwGZb1G-7c-N69kd1eNC5Dz6fHyEi96h73QktFa7j1qHXLHEkzmlg8AcwZbDvbp40fuCzM2A6mNpaesx_TxBoZr_iefwhBuWmJbJE32qb_AO5g_R6BBidPrTFRGRjVCeq4ejfcXlYkQXvxWRefaMwHIukzt8tEoy0Z29nJyLJS-XWuQCWJB3FtT6itqHncwGymdHKiUyg3E6Dz-ZVGFf2H6R81ZiFbHvHVDq4UtUg43UxcPC8v6GG9vav3Dbr_ra0ltmXpElWSjs8VUes36io0OUBgNEB50Xvaqi8ShzgY41-ZxMKf93ok6c5TXuLk_rAiWZTPpdG7RIOtVmhjChas_xljgnRSn0JxXqo9Asha6YwyykJJ1gN_jaNUwh38Ip0lpMzVdQkMN47w
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Marles Barkley
+        uri: https://maps.google.com/maps/contrib/115725222664637384579
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX8l9llwTQ3dfvHSF0jpfbItguMwRFehonecTsmV_ucRlBz0Bop=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDH5KO8DQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH5KO8DQ!2e10!4m2!3m1!1s0x8752629d76c4d833:0x63eafb389be1a84f
+  - name: >-
+      places/ChIJM9jEdp1iUocRT6jhmzj76mM/photos/AeeoHcJ9eZT28hGUQoBR8d_1ImhEU6rGf8rClsbUCOrqHV9MSq6VsJu3T_L4vibQkzIktSvDpaTUm-Kkjm9en1DHcdL1-xAtpigjOBHuTKWd_ciW2YWl44EHo5TOpLXNGb0oWcfoBHMOrdEfSUDAAd-3CmhtPMFHDKQqBD3fKXxw_vOoX4xKvudIqoPcUQVZWEokaQ2Taop2TUEPgdof8S8pKAmrzSXw6oY7VB1g_epT4MWJ7hijUBV-JG0s2TyyEjF0Y0S7WBzLIctSMBq_9TSiPzzxOcvMkhH6SVPil4TZ2M1N0hHQZQnLnO9DE49mgUzh0bHFsEeoVXRtdUtnWu_0NC3tfo7ux_5lZak_XA7ObSFeLaqCKiRI5ute9dYV_LFuQpjoGBdPrlzWt4GUifnJ_ad0UVMbZl3tRvE4k8aMmEH21uI
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: kenechukwu Ben-Umeh
+        uri: https://maps.google.com/maps/contrib/109312513667882637080
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ1gqITeYV9DEPlGz6YH-YMjivf1XkmWWfvhVI6MfGpaS4hKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC2yrTdxAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2yrTdxAE!2e10!4m2!3m1!1s0x8752629d76c4d833:0x63eafb389be1a84f
+  - name: >-
+      places/ChIJM9jEdp1iUocRT6jhmzj76mM/photos/AeeoHcIHIkWzPAHEOAoGILp8Nb9FjqI9aSr4jbRLVQH21TmBd2rsfkNLoZdCOTfu-wIZ_pijJkrc4h79nUSgSoRbWxBPm-nACQMuzxuuyGNRbs0PE_Fq4T4MLDNEfGD0i-QvqbaJl0HXwXi29gaw9JphUtz2soezmDKrEiOP18z6BegIfLfEjW5Q4BQEijI0U8ZnOA5mD84xVgqB5CjnenC64Vm5F624_Mwj-kgh2hgL97vgxrMjo2SbE8X7HysclKAMGgO2uP_yMyQY0utjwu9GnHtuWpX_OSUncSv6ObiFm4JecEJXSyLIBItVvBTgM57ZFaPKXOgxkpHTi6A1S25IC2ViCUhbc8aXs0RRucnaOgSUWAVknwlrMzoXRlG2N3ozdZb29gEmHn0ZeB3zywqpL78Yiu9EU2iCCrSiR0xt2wyPpaFDwfTBqMWpWwddWA
+    widthPx: 3064
+    heightPx: 2298
+    authorAttributions:
+      - displayName: Corona Ngatuvai
+        uri: https://maps.google.com/maps/contrib/111660043123333248368
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVXbiY74SD3phQpyCyO7gUEMRQIcN0XCfK56j8ew9ssVrSU-DcZHA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydmY9iNXCWekNagABEde&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydmY9iNXCWekNagABEde!2e10!4m2!3m1!1s0x8752629d76c4d833:0x63eafb389be1a84f
+  - name: >-
+      places/ChIJM9jEdp1iUocRT6jhmzj76mM/photos/AeeoHcJqhH6n7Cc9vSuNDrhu6RYIs4N-PfrC9imv-spUFfQWYfxlgXBCks8Tw2RGq8w5PIZCGtXwlc05BkzZS8o-4SN-g3YYMc9cJfLO02Dq9g_9Sv1A4uKBTtIUIYywnvDPnRcUaibUeUfGjngQCo2TergBu5ofWjDw300VPp1pLOsdOIER6a9pKnBHqKzi1gX1oXwaxLTiJWXpRnTSaJ1ZAUONTj-iAERFWXpQ8FE6Ihacsc6S8s_hEdPtGe2ROlB0pMCpPRvzrkEwXN7U6T_tQuzg1MtSlu8oF75QiI73Lo6sNnNyrv7sflEtPKW025qDsd0WSDM5tr63ekDFzajIEFuNVKHYggBptstoGn5K99FaWUWt5nJs6tpKSEr9swkMQSNJuNI04HyRHD6JphqWKVjFhERazNzgM1IE0llQIILixA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Tatiana Grant
+        uri: https://maps.google.com/maps/contrib/111353689702922928653
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuoR3ANx_YZ1vFck_pFYreJ498isZREBJy_41TpN57SUvuHv8wnQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvzarbFA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvzarbFA!2e10!4m2!3m1!1s0x8752629d76c4d833:0x63eafb389be1a84f
+address: 7628 Union Park Ave, Sandy, UT 84047, USA
+street: 7628 Union Park Ave
+city: Sandy
+state: UT
+zip: '84047'
+country: USA
+neighborhood: null
+latitude: '40.612095'
+longitude: '-111.856474'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Tsunami Restaurant & Sushi Bar - Union Heights
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8752629d76c4d833:0x63eafb389be1a84f!3e0
+  placeUri: https://maps.google.com/?cid=7199843174857156687
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752629d76c4d833:0x63eafb389be1a84f!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8752629d76c4d833:0x63eafb389be1a84f!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752629d76c4d833:0x63eafb389be1a84f!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Tsunami-Restaurant-and-Sushi-Bar-Union-Heights
+
+---

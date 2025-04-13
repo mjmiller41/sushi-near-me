@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Blue Sushi Sake Grill"
+permalink: /illinois/naperville/blue-sushi-sake-grill.html
+stateAbbr: IL
+stateName: Illinois
+cityName: Naperville
+place_id: ChIJT1KAL8dXDogR3dKtBb1uwMk
+photos:
+  - name: >-
+      places/ChIJT1KAL8dXDogR3dKtBb1uwMk/photos/AUy1YQ2yIfWSDp3qrm7hi1MbDwv6qaZ4EqYBT1M2XM9CLJqFSRbKKwPehB2npIsHhIJQTh-utjiZbWPkvkIHY4_zu_KTC9SO4tY_A0Xll4-u54urxn3Sd4naKn9FSoeerG1sDD78um6Na3Nw9PdP93FPk0foxiqhNgFGTCh4U_ItZvLDSc_Ep5sgrAXzuB2ysmnLV9nUPHc1MUEdZgNwRi_e3ABu-GtwEfsk7PMhZKbAoGZWU-KnIa7nsu367HPOe7Mr-dWGnAlxlj0T-i7X_EQ4aD9Nsd83zQbhR52PUIgXtlg
+    widthPx: 4800
+    heightPx: 3204
+    authorAttributions:
+      - displayName: Blue Sushi Sake Grill
+        uri: https://maps.google.com/maps/contrib/117989145357136690962
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXDVWvOH19cr5ke4LOTprIpukbjcfKnz2u1L8e1cI_Gy_SBhmg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMhqxHBRuf-xXrFYNpYgrLLxwhKbimzo_qwsmc&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMhqxHBRuf-xXrFYNpYgrLLxwhKbimzo_qwsmc!2e10!4m2!3m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd
+  - name: >-
+      places/ChIJT1KAL8dXDogR3dKtBb1uwMk/photos/AUy1YQ2imvoxI7U5l1thcy2pnfoKfBWfHiVCrtvoDmzjCjMyqYW39A5dnKWlPHAVv5yWEP3IjrpuO4caO3JAWZITjZQsIZGrb-59yC-PIdGRufW-4GlfhJ7YUOapQhcMOjbwrhxF7AvQZBBVp9Ga9FrOYDs5II14cbnIDkJohtErK8s1-qmH_PPrymPECiMrGdIv9tOKAMgb8hOJ5EI7EwMUAHHbczxLZC28Tz7D2Kbcn6qXB5vySP6MbgzNX17d_v2LwlzUEhKFj8kUVN1C1lYjgclFyHgRlFNWiCpoJycdJJAi_PW2_brJ1RbXMjAzEdntvK5q8QTAggy362MEsgwYgNko9JnLqVaA0o3FwERIG77T-rCzs06cC_GMvpbHa2l1YMQXQWiLCCGkpnVLe6bCBl0WWp0hX2ss8TPktROm2XM
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: Faaez Khateeb
+        uri: https://maps.google.com/maps/contrib/103826021290256841279
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVoRxHrfGSZTilott_Tz8feZN1_W8LNCx7JaSVHbp-nBpMygpSFig=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEm6SDGg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEm6SDGg!2e10!4m2!3m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd
+  - name: >-
+      places/ChIJT1KAL8dXDogR3dKtBb1uwMk/photos/AUy1YQ0I_GODa7kTkDPclN-zKWkMRvE6Zsb2hnhTL2KYDubEk-qkhfiUdHMk1Tkx_h1lriyZuMOqtdFn25jlbqwsS95FO91StgTh8dTwDHMq-qZDNhVQpVPJbbkBMxBsqoJkr7uQX8ZqoE_SfqZ8adX1Ev65zefiREZDHp6PsUUosYLYZJoMPF8JrVIZ_pQFU4v12FsacLj5drCUTjJ0DYk6r13zDfrYWNE1QysRFLVCSdVPfMH_mGyp-c674Ea0XwMXVSFPObDqHmydtZqQhnOOgF7V_KNgfhwCdaGP0dysoZzRdzjvhpjq176I-Zq0Lni_pW1zEUmSHPQxR7epr-Ntb1Zh0Y4R8ZblixQiGsR3iMX4MJEpCQ2EyPSJYJSU_oz_AcfIsiJ-NqU7RxJ2o-cWi4an_NMQ_Kc3U3batnMl_Ll5drSmu7rkeuFn0sHAIQ
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Don Walling
+        uri: https://maps.google.com/maps/contrib/108383652302199689657
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLFWvUitcd-cQlA2-Ung29uXeTUPhqRTer4EwW0tTlqPxrt1w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzzgWS23EmfLc5UAB2cq&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzzgWS23EmfLc5UAB2cq!2e10!4m2!3m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd
+  - name: >-
+      places/ChIJT1KAL8dXDogR3dKtBb1uwMk/photos/AUy1YQ3uPl0RbygHtQMB2G0-wdysGo2jbB8r1yiXg2zNPr7MMMlbAafniizs2cw-Xk_390bxDdmwoEvQe0SslhFyJ5_oDpu21qBWRjDQMINCWXq6N2kZKaOeBJ7wmak7xJRmn8Jk4MefSp4V15k1Wk6-YCsj-c5ed4DO5SJnB7Dre7EfwDtegYFDZFbJQfY3VTzUVya1q5Xgmmy2gwSnBQISjlYLGpr2_HgzFUZ9f8QhTeW40Moy8GD0G_8UOFZnDj1cZn6lBCrS_pLtjR-yYl7fj1eSq9HcWkINTSPX52nPHeA72_gY71QcQTzwMdTKRyM3TAc_HMpL4CqkfRU6QL37PtkWaqDBGleQk335Gv5kS53N3E9gsHHu3Pb_nokWGBl8L0i1E6fx2C6705THCi4SeMVAT2DAefAbx2oqYGpj-a8xgw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Abhishek Sreedhar
+        uri: https://maps.google.com/maps/contrib/113574316920136139418
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXvwugFg17uLNhqPqaBlcdKyB-jpeizxGVS6pJGl607-VbnzKlHMQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCAkJvbIA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAkJvbIA!2e10!4m2!3m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd
+  - name: >-
+      places/ChIJT1KAL8dXDogR3dKtBb1uwMk/photos/AUy1YQ3PP-Zxkv81Pqt_zG8CZIekgh2sByXzRni9ztVsK7o3K8SBW-A1MpnQZkagIMAxCOri25cRglbYQdXq1G41jtuN29gOsH_aBEKzdSOz-tghhP7S2deLxTv58VAYewj4-YmIvAGcKqaFaJR7gwQagAESIXR8T_vpBDiFhtRoxy54Hu2PMaVduD4f5sauXh7lxbv4SFn6NMgUfO_ZcI_qrYjMkc_Sq84XDjED1-leDtvZ8JwYeWsv83S-YH68IfujcdesZ5zx6yNAHF21Zejip5ztfymtr-B-vYO7cnXVfnBXQHVOcupumD9yvbIzbLlojbRunjBlSQ5dioqQthzNyEpMYFhwRLnDwzdk-InmsWQwWqASI2g1zA8pg6kVmHdZWxDRo4DjYutgFvnEa1H5g-Uer4-RjnGyheIU75mk3NqjbpY0hyxd11i9Sk6PeB66
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Don Walling
+        uri: https://maps.google.com/maps/contrib/108383652302199689657
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLFWvUitcd-cQlA2-Ung29uXeTUPhqRTer4EwW0tTlqPxrt1w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyfQ9CqfaWfLc44AAm1C&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQ9CqfaWfLc44AAm1C!2e10!4m2!3m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd
+  - name: >-
+      places/ChIJT1KAL8dXDogR3dKtBb1uwMk/photos/AUy1YQ31xpssY7z6-qa9aAJYh9l5AByqycTx9nku228Rmo5kCm2CTIfW-hLSQNg8dpaMzRzOG6RaxXC91-OyPDbnQ6ofPZdwslDP_45pvKhfzcSgFWRHRxXPNlqI6Ut0f_-DNVxbn7oRyO_6iIETPl1kaE2aeFG9M-VyAw_HUOxffsyH-UbXV5lkuN3C3na_aE2v8ac8QoqOvOdV7ieTa0NFzWkplffyDHULTcHa6XA4MipwQiGcQPSRCBaVQ-eiRSRxVBvUIih_hvB-MC2IbGjaUVkCEFAv6GWW9k_dWH1viDBVmu-SzYpK-rpj_yv4hjxFoJy1Qkq8919PUB9hrgrU6jS9ZckoJuncPRsPfgI4fYeUK6CD7EUIVOC2QqH9ASxXCHDrF0BQBZfCiW2D9n91E3kGtJtO700_2dth9yGhov4mA_vTnUe1HiOmNrARZN0B
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Aya Jakipova
+        uri: https://maps.google.com/maps/contrib/101396179527314895113
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWl2gn4x2d_deY9doh0dvSJDU2RfytKp5Rh-4TK943AIReqWp0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyfQazoIGme939oAAUjF&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQazoIGme939oAAUjF!2e10!4m2!3m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd
+  - name: >-
+      places/ChIJT1KAL8dXDogR3dKtBb1uwMk/photos/AUy1YQ3r9ldZw5pk78PmbbUwl057qAcLrZtnkgf5x9MWS0ptzE9hQ_VgSS6_l4_sY6vEP1cR5jCDTAxfkAoiB-Eb4j9xZ9hlFKdrGexkwqi3FiqTkXq90XJiFKkt9myD-ZboRktGw5yn3mclp6JvJw6kecGEMd3l_U6YayK_bSs93-fJtsz5909JCRiUZGtOo1thxEuH-jPJ3d6lKIaTQ4Df7kUNNgvoYuX3EEHqa-xgBwF8Hz3O2Cco7JHXiwUE98XFlTjNFCKJvPLgcslJy3FKIUMNPx27A_Gip9wPEd1cDpjXQP5xVfZaIx9fs_1UeyRgsl8VlU4-jVXbCnvnMBcnXjoP0F90eq-x7aR0fX7AQtHQP2qvRRxioBSvb0584W0yUGWNlmn4amdlcAWxrlAoQ97WahswZIZA81uJnzniu4foDQ3X
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Reagan Herbert
+        uri: https://maps.google.com/maps/contrib/117119937253188176927
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUPad0AjAv07iS9H_dOCiYmCk1pZ4EplOMPBBG5K_rqkpvH9g2jUQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICO2aqx6gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICO2aqx6gE!2e10!4m2!3m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd
+  - name: >-
+      places/ChIJT1KAL8dXDogR3dKtBb1uwMk/photos/AUy1YQ1cebYNCzEElFhALbH9RCmWa9YI8OCVqWpeANqamTWQtTsi9Tyrl56LH0xJeZ32-bXzpnqZuCBms9eC3HEJfKrCWHEq3vHt7sSEMqgAtUgDrEMRKQ9I8FedQ6YsAQzg_GvKIXbMuDCmUuPlTwZaQmKdmPXAfnl-MemUiXkMuKNPj05drXTFlZvKV173hUFiQXYq3tp5MEdXyFpD3gVVFeTvp49A2iGmjsdqjKjcw0vyY8jYaBR-GJLVDS_VgKBG6Wig649Wa8LGNqBVC_NzzKHR8Kty-i2oAPpwGzoZeFYDglfhCpRUAQq-XaT6OX0vfbFtmXvRZm9tfYeLHPpKa7j2IgubCpafWulPPhjfgcqIyJieqlsZppP73k6cp1_dpmyAyUxczH5n_XxKcrf3IvE6ErNJkxCbVTrcgX62Bbk
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: bassam khan
+        uri: https://maps.google.com/maps/contrib/113041517681303580017
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-p2gPTiOl67_RPU05oCqZ1dmZDfBn49gYwY5UnW-eU1JwOAqxHg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb2bm2Cg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb2bm2Cg!2e10!4m2!3m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd
+  - name: >-
+      places/ChIJT1KAL8dXDogR3dKtBb1uwMk/photos/AUy1YQ1v4GNHoY_0nK1CRhUMaxLXYNUDiClvWjN1-8QmY02WKDk7t3If_V01ft9-OUj1JkhUhnnn2r_EXP1_CxJwSuywEE60sOzDxRDCBQKGHvfjokxTnttoF5NV9nIwNPa9_pdV4wvA1JwVbUR2xq6sAT9xx0kP7Lt_Jd5Sd7aB5pkmr-jLMt4N8l8HcsFcoOJ9k4cqf8zIqV8eojmAovLt7YcF1mgGZfBrud4C69tkiwfzehZyT3TMTYK_jIeZKJv8E9aKcxYCT03PpKtRglvF0HtB30jCi6vadtVi6W8vQkdnn7KzluMiHh1EhSOKTEjiS0ZW4WmlOFXU-v5aISL4cYRfPtTDr7yqeR22CyxnoJhZ1Za6f_8RUNu9lloHlCoprql9CBmbDvlZS0L3ddxtJUHnfAC9cepArG8taLrjQFk
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Jessi Hendee
+        uri: https://maps.google.com/maps/contrib/103855010338455337398
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ_m2Ruib6d34ZIAToUv12_U7TMJFOHObruRo5iP6bszi5yrg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrl6C9Tg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrl6C9Tg!2e10!4m2!3m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd
+  - name: >-
+      places/ChIJT1KAL8dXDogR3dKtBb1uwMk/photos/AUy1YQ0qbLnL4_GWqijy7f81kCDzddJKCMz1cLuXsyVAi344cfNds9010r50PqFEMONlNHbgvgR6fmF_NhMI0qWgi0NeLUz8TVvbjOKvV0Yv0YY5BoFX3mayXOtSI_x6QBqvnMwO5Cl6ezyFERnX7MCIl7RpKXNuKJ7rnNppj_mjxvrfRVY7nfrk5_bnJ2tZdmSYydDFf1aVq4vJcnsFiS-NI4gUXHKbSJ92fr_IRuMO3LEYYbho3YWDjN57tZpTRKQDVrLO3Pb9wFtARDU9HUMtbcMelzz63WyFhNlj9VHn1IWiMmJ7ayvEnJbtd4DcYGrWkbGWOJ1cu4LY3CcCUlD0CZfNNVKdqx6qP0FshROZIX883E2Ok7mz7UwxIRMur22IPBq0PbQ4AANKN_i59Jne-A2bt8DVxg9J7N5DFUt_oa2ogcQf
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Thomas Keeling
+        uri: https://maps.google.com/maps/contrib/104261917205044196419
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWEiF2Ketf-Ff7eq4ixtPRZJ1GOCgzB1O2ezaDqiP3pMZm7UhnY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIChv5jhmgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChv5jhmgE!2e10!4m2!3m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd
+address: 123 Water St, Naperville, IL 60540, USA
+street: 123 Water St
+city: Naperville
+state: IL
+zip: '60540'
+country: USA
+neighborhood: Naperville Park District
+latitude: '41.771276'
+longitude: '-88.150619'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Blue Sushi Sake Grill
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x880e57c72f80524f:0xc9c06ebd05add2dd!3e0
+  placeUri: https://maps.google.com/?cid=14537741355275113181
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e57c72f80524f:0xc9c06ebd05add2dd!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x880e57c72f80524f:0xc9c06ebd05add2dd!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e57c72f80524f:0xc9c06ebd05add2dd!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Blue-Sushi-Sake-Grill
+
+---

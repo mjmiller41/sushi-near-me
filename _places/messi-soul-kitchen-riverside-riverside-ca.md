@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Messi Soul Kitchen - Riverside"
+permalink: /california/riverside/messi-soul-kitchen-riverside.html
+stateAbbr: CA
+stateName: California
+cityName: Riverside
+place_id: ChIJ1W4_cAC33IARcRU29HT3boE
+photos:
+  - name: >-
+      places/ChIJ1W4_cAC33IARcRU29HT3boE/photos/AeeoHcISEyo4sNL7ANdfsrotNpDyqoIzxBIJ2mnRKJyM53wc9420VnEUC2TO-_ssxViITcmFPQv4rVmJot-3F1-g5Vk-Xrot87X6uTyOWNUwX7gShQCdzPqFw-8QZxzqvavMozIh81eu7u25eGhFgiCo9hAKBvVjYE25RTs8_udnrcAohTr6eQ4QYarXxay6OGxn73kLxSytMTG3Sa6jxdGJCEnrLi7OyWYDeh_tDM9QMInSY7tGXfScb7pjjRANVAFoumUQ-bG1jX2c0wn1ek5DnPI2o1v-swJFO605Ul18SBDnlQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Messi Soul Kitchen - Riverside
+        uri: https://maps.google.com/maps/contrib/100431525512339406138
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXpHOwbVc3n5RK8IhghXYja54Z_5_ph8C3dl8bDVHIlkzTvftjO=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOIRIc7LGS4faguhDX_ZeST7dPWZVs0emueAg8-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOIRIc7LGS4faguhDX_ZeST7dPWZVs0emueAg8-!2e10!4m2!3m1!1s0x80dcb700703f6ed5:0x816ef774f4361571
+  - name: >-
+      places/ChIJ1W4_cAC33IARcRU29HT3boE/photos/AeeoHcJ5Ei21VsXaTlJrgdFi2dsZzKCI8W1E1twhzniZIg1Hur0GbouLD4gsq1-vEFHAwtSDnkkl6GAZPNO8wkHKzVhdmtCzs5T10PCgnoA7PdG_aeNfT8J4mya6AZZUEqRH701O8BlfjyOV0Ldh_gYcb-JjMApLOk56WeiQh7uwe-IJY4A_hwrTH0fTt1LULchLCrIdQ6xuAoAbo4CU-SlqDo-xHzWSgGckK5Ce8oVOXGydrc1kN6VD3UPE0JEhZCiFPA1fwrDRYLQVXWd4ryE26MyserU0XxlWFLM0VycSiRqEJA
+    widthPx: 3024
+    heightPx: 3025
+    authorAttributions:
+      - displayName: Messi Soul Kitchen - Riverside
+        uri: https://maps.google.com/maps/contrib/100431525512339406138
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXpHOwbVc3n5RK8IhghXYja54Z_5_ph8C3dl8bDVHIlkzTvftjO=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPXnICr1bedCYy2_BSSjIt_E6P_FYy1du1SeWFv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPXnICr1bedCYy2_BSSjIt_E6P_FYy1du1SeWFv!2e10!4m2!3m1!1s0x80dcb700703f6ed5:0x816ef774f4361571
+  - name: >-
+      places/ChIJ1W4_cAC33IARcRU29HT3boE/photos/AeeoHcLAhmS4M44CkMkD7P5hANZ3lOqr7r-Z0Jhw27Fm9VUWe7F7qGyLBLkf6gnMOHTJ0vysg3S6969Zy8nbDb7kynV2Ji6RWFNBN39hU5TxQ3KmkAyxoY7eht66JIEzM4j4l7LN3CuWpAUNCdB9OrGulsLYOxDXl4Bm1xdn6H0XL6dYzTadm0VfoKSWvnTck4aHDmoXWgP0tS-o6pF5y1dy1HmY95aSKvEclkSQO7a71f1lKSm8ebeOFaE9VlC_4UZ8zCX7yv4mFW_Ht_QQnGDSXvptQUH_tuEVDvo-nC_p6O1KmsZ7a0js8eoANHhZnwki1sKWvsIj1fafn_YQqG0cM1ZlHTKtq7gcqrcBQPLJ_7a4qLul7olKUlVrfAlynYMXG2SZo_UHwZI51bMdLU9DByHGVtePDZWUeqZ7mRU5hMtGrGH7
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Trayci Thomas
+        uri: https://maps.google.com/maps/contrib/113942736490517446513
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK0m8-32Jyhjs5mI8yvFbaOnEnPpefxjOme75-QVDtvm8bqZQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3y8qapQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3y8qapQE!2e10!4m2!3m1!1s0x80dcb700703f6ed5:0x816ef774f4361571
+  - name: >-
+      places/ChIJ1W4_cAC33IARcRU29HT3boE/photos/AeeoHcKBqoPNZg2jLmO6CtTw-1HefezzGEr3XovswE9dzBInJpoDa2_Xs1lm1yE118HdP88MroGrJq4KuQD8vBCBxTSO_h_77h_DdrHKULnUreN5Aqy21zjR-pObQo2wvz0tkm9TPB_kOrdO1-yOArOSW4pTdCWMk9FBHtdYRo3_68TtX3yDei33fEHLqZKZCNwGniYq0W6CLlFX_4b4xvtrVWMyWihG2hJERcus6taQssFmTiMk3rKe7P70-5KHv-yx8CbTfijoOtGoN4xw5790V6uwP6FZPnlaLMFOXNmWcn8dtA5OVTbJdAAMEOlxe08Ree29k2AzvjRfXiExsu0ceZTJ_2x_Qs4_EEpjw22lNIRDJ88TXNWHJ9GmBWOOrk7CvCSUcZhRhwDFmrXcQD25gUNUid45mtR_8C8Fvp-X0OGSqw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Loriah Maddox
+        uri: https://maps.google.com/maps/contrib/110264586148319928872
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWyQQesslI4IlV0FYEAy7QA4_x3WaxHrXObNcTyr0T_R1xxTAoMww=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDmobG1HQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmobG1HQ!2e10!4m2!3m1!1s0x80dcb700703f6ed5:0x816ef774f4361571
+  - name: >-
+      places/ChIJ1W4_cAC33IARcRU29HT3boE/photos/AeeoHcKy535XBiGWBxmzjDf9T31ke4fghJc3bvOMM2Um72yIkhafvpPN-_hJqW1NvRgPt7D5ZBP8pny3CV9kkccZ2iTqAbEzzhaUNqBuiiS2k97ORAuhNw6TI_lXCrhhOolNCjzKnxlGdIQzz239b67hSI8cAezetsWZ-E8azlxPlDKQKNosKURRurKYyAiWgIGxQQcHMjmci70S1-4JXgDe4FXOz1yqlhPchoAu0JnOFNiBq8jK-_G72WnmswgJtvRsjC-Mu0Fb6Wpbu9P8jfrzIRsTMsVf8J3BXJ1ru2cVgSiOrgqqRVa9yNUgt3DCJm1iRxfgYtlKzOP2Yyk7kvq8zzxySnooq7mMa7hHN_U_PsRRh5yfyVji17ZlBsc_1rpDtWQO0hANLmYW3TNs3FeFVn5UxmHa1eck07O_vHo5nsJdDVxe
+    widthPx: 1800
+    heightPx: 2108
+    authorAttributions:
+      - displayName: Helen
+        uri: https://maps.google.com/maps/contrib/108508692958375060344
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUm3M_OWG2HIfVwlw-5rjsz4gehELFD5jUldvFByx6igUz9OU4jWQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC50bm3rAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC50bm3rAE!2e10!4m2!3m1!1s0x80dcb700703f6ed5:0x816ef774f4361571
+  - name: >-
+      places/ChIJ1W4_cAC33IARcRU29HT3boE/photos/AeeoHcLMH4Wj580-CKuwRalEj4_-e1QeYvoZvQpoQGmeYNT5E4LBLH3kVHt18qAMlP5im2cs_2eD9HS7NLWZflBa7j0YRUwt95s8_tJ4YAiHv2kx4jjSOXE-OWVr5XRlPhR46aBnH4XsfV1J_CLHxdAC7AODIo2YBrrzHAgQlj8Y1TzOTOMPCJiPBFwnkM2iGM70vBusd_Bkxjy2jH4T51BhsIZ3IPjVHjrtnxhKGjeVbkhboUGjhGhi3VphEvooAVStczxACPJgh8ydORygd9j9fNNKx_HisROfQObPr7UIxbQTuh30M67sUcmz884FVqnnOnuLPsa-RhujFAOsGTjIXDU4puc9BSLLE3D-B9TSiYTeX4MzCF9kO_xzRlWxto0OQ5eznDFRil19MhL6c-eF9jIylG6W1pvL14hJV5bsmswe8A
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Christiana
+        uri: https://maps.google.com/maps/contrib/114744971781062589988
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWPqjJf-VcXGdRfgBYGmeki1wOIMUhNdab7lY14GvNbxz5XBvlfGg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDlrdP7Ag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDlrdP7Ag!2e10!4m2!3m1!1s0x80dcb700703f6ed5:0x816ef774f4361571
+  - name: >-
+      places/ChIJ1W4_cAC33IARcRU29HT3boE/photos/AeeoHcKJRUhI9hzl695P5E6a1WfazojEe3Ay1CQHzpYjJzLBmFrC1GqHBJ0jEj3eNMRznd82uIN2Y3v9DfK9xLjZ_OpTXEPcWj1YD8pQ1_u2eWHGFow3oGGTFbWKOraMrDFmB1yVx5Cso8h1L4S7_bHE4p3EDQCsRD_c68Jcl-oIdiGnK7q-dp19hfJnfYs6imVNL2Jp_MSc9Hl_kY2Ni5iu0uE1vXExkNlkd4ghEgw-BONErsSSxh6O7i1ZA3ba_wGGirKexJezyNwsHeq6i0bdO-uvV-coW8S9WNnTU1VV8U2VFbcgL07u5qmJvCwe-wESks0jz1n21YsXIKvtdujexUuX0DtN7ToHPshGFVuPwD4F10uylGQ1CfWKlFH_M1CU0VSjra2r6CAgD-oTXoW65pkeXf64DcxJ6DAyPe0p5DqhHolk
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: LaShonda Jones-Moore
+        uri: https://maps.google.com/maps/contrib/109267994746319690995
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUEHGJEl6SaPGW1Hg8H-AadT4tltZ5ptc7TbgXuSVvZB5w115Y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGsJXwnQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGsJXwnQE!2e10!4m2!3m1!1s0x80dcb700703f6ed5:0x816ef774f4361571
+  - name: >-
+      places/ChIJ1W4_cAC33IARcRU29HT3boE/photos/AeeoHcIZz_aixYOtc6xZYNuDRNqNoLSoB-wyZqUcvBFEMChUCyn6prmNan0SGQctLAVhZ5_w4o1hkFbEsdj9Jl0y_CY6k2imLuZ2M06DrZAkBYRpKrej9MCRTOrZCyn0VjDbNZyWql3e7XpSydTsH1YSVccsFcc-XrujWWAm3xu3naXGfwZA1GK4_cIE7wcFsUJlzB5R5qyEdT8CCkHj42JRm7mhdp4HEBf4tqWzA9YmvsD6wgVucLOnar8R9MfOiauUN1xpLbokgrE0g2x-SymhQaW4g6vYTRBcCspCK8yG3lFDaxOu9JvFIDUTUZBLsYgYHGurUu89auTKnZ3UPNJwf2mxufXZvQMFYHGTCqO9oPEGlQkkUZ7uY74MqC4xQ0sOkfaA855RNjS2XsGu97IFViKptbT9zRK71T5BZ8qYvEa_CQ
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: floyd king
+        uri: https://maps.google.com/maps/contrib/116730318064229011358
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJuBqFjfrQP5ayevicDhHoFnbJLyL_5c0QKvXq6QXHaQlSk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvrdrNLQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvrdrNLQ!2e10!4m2!3m1!1s0x80dcb700703f6ed5:0x816ef774f4361571
+  - name: >-
+      places/ChIJ1W4_cAC33IARcRU29HT3boE/photos/AeeoHcKDZHtNVfVbJkSFjonrxAxlKsawEXS4Q6ggyxQh4Wz7t725Y4xkLvkqZTLUraHImKXB-uaOpFvvn73tGZR0AaVHrHNuiBCiQ0Wj-Fv2GQ5muW6XshgN6xrCiIuJBaelE3RoN7nIAw82SfFbougcwC1F8O5PFJ5S8DYiR3ocUE8Ox_UnMYjggfmyBz9g09XPkbzoXMvzn7MbpFB3d6TU_8ZdlazUYiZ0eQPLX_tKqRqREfqLRwBWrfZtSClG0xGifkMYDfq2-Rcn420x8CS6o96V3DEsLOSIXDJSeqaqLGet0Df1eR-9TPtfjNDGXtkPnZ49WfnbmWO_ljwD4Cs-BA2fMc-8NBn9I81zhr4O_KT7I65IOwdlyYQqh7O1_wLWwQWZ1H6hA139QzATkXPO348GW2V7gD8meJkUgj_1fam2rA
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Christiana
+        uri: https://maps.google.com/maps/contrib/114744971781062589988
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWPqjJf-VcXGdRfgBYGmeki1wOIMUhNdab7lY14GvNbxz5XBvlfGg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDlrdP7fA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDlrdP7fA!2e10!4m2!3m1!1s0x80dcb700703f6ed5:0x816ef774f4361571
+  - name: >-
+      places/ChIJ1W4_cAC33IARcRU29HT3boE/photos/AeeoHcLskZMIp2ufXlnWDIDxYcYI6atVnKEMk_pBaSd9URwu4--mu6EtvpINsl2jmv9-8yZV31ZkZ9sDeUH33zHomTwUa3uzFG658IEq5FN-ImElBCvXorLO7gLSGa9HbNC1NgRLxCSI9FKTkKIqf6JDoj3mRjxUKEobR1fe9_Nalkwb8CFY5bYkLH0o17X6gNFogMhzlIuIV7dgtjXzgeAwFqgJqaLlGUXlnTJ1VE933ChzdWyuMicbZa3T17bmjpzUK01QH4acNSiwzHjm0zxBhRP8lCXgIYCvulZUfFuxtQPVV68jeP6yJq7fuLGP--59HuK_LgFLn8D_MZssgIFGG5dAZfCbTax8V0WbbdX5WJ2zehWpxYizas--sn5UeN4hroemlp_HpdsXGmHzbaIBKrHhOgRIy2dSIG5ZPiqZ5BK-Xw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Kamilah Wilson Kameron
+        uri: https://maps.google.com/maps/contrib/111873578074135867201
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVXmZqlXFaRKf5jP7XeoYZZ_UYKXmxZQQeJyvvsY3tVqrAncYs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDtmoelYA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDtmoelYA!2e10!4m2!3m1!1s0x80dcb700703f6ed5:0x816ef774f4361571
+address: 4270 Riverwalk Pkwy Ste 104, Riverside, CA 92505, USA
+street: 4270 Riverwalk Pkwy Ste 104
+city: Riverside
+state: CA
+zip: '92505'
+country: USA
+neighborhood: La Sierra
+latitude: '33.904523'
+longitude: '-117.494766'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Messi Soul Kitchen - Riverside
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dcb700703f6ed5:0x816ef774f4361571!3e0
+  placeUri: https://maps.google.com/?cid=9326663960016328049
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcb700703f6ed5:0x816ef774f4361571!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dcb700703f6ed5:0x816ef774f4361571!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcb700703f6ed5:0x816ef774f4361571!10e5
+primary_type: American Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Messi-Soul-Kitchen-Riverside
+
+---

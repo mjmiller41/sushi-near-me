@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Camas Mio Sushi"
+permalink: /washington/camas/camas-mio-sushi.html
+stateAbbr: WA
+stateName: Washington
+cityName: Camas
+place_id: ChIJD7Qi8Ei7lVQRuShBd_6iJ2M
+photos:
+  - name: >-
+      places/ChIJD7Qi8Ei7lVQRuShBd_6iJ2M/photos/AUy1YQ36XuBWCNPGhtRziUvbdi6UXINhSrs7VI65ZCqOKQv9irrUU6811O4NJ8mTFrMG7SBxtKFupihY0uLwfNhweS4x6eJfeCk8UfFlydY8P5W2F2R-ZjZ80dVbJNgo01_cDEpCFxOCVIUJxn1kVrF5UbEacn5NlZMM5893sseNX8SGWsmV1mHPjKcje8MxHqCVnBLwAqXMPoZYPtpGRHyZ12kWIWql1k8Qg5krKiNdMUdwq3LnWmtpQUarnDpTSIiLN1oxSsjbvEKIWUI_AE1XMOOQT-i4ggSVBQHEAuxaQKSQWdLoNztyPqYIugHNPJl30kuaFg_k4YmlhMGjDQ7WcuR05sXopim2Oll0Xmmqc_MAqpbxz4evdVn2w4SjAlOJW20sKu94PCzxv4oPxlSlnIS6U4-KoH44DKCiep5v8n1GcDRJ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Edward Brown
+        uri: https://maps.google.com/maps/contrib/108531884661075743038
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWWnhj7-KwpVZGIgvIYa3svy6Kd5PqXapegjUVfHH3EQcqQkD8Xog=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4vNKwkQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4vNKwkQE!2e10!4m2!3m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9
+  - name: >-
+      places/ChIJD7Qi8Ei7lVQRuShBd_6iJ2M/photos/AUy1YQ17cyes-0XPwN-8O78OeXcx0_O6N5HefjVPbJxJgWo4zNuZqoDviD_5oPX-29nV5Ud2_L8VkCLwUkecUVGlznT6qb6YKCU8amqaD5tLnIyRk7qlAtl2rscRAmfDiUyNWlweEELZFO12BOHtbXeJyzqlNll1YCRaVt_69cNCJxC4ZlKzN4Z8jM7YaPc8zf7j0cG94QpTB_xKW6sTF_SopuE1Jc9ew6tXfxcwe2Cg5eaPTmnSNlpdOdDqKpRq05a39LqXmo7fVqDad-rmF4dY5Qx4iV5LEVJc97i9_DVJFxryeQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Camas Mio Sushi
+        uri: https://maps.google.com/maps/contrib/107360005274783995541
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWZfdbQGK0WZadLC62550KM2FyFoI2Q7lr8lKL2jKTeZ93LW-k=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPtxWcdeSbVSimytYckQjZxhNjOvfa6e_rD3oGM&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPtxWcdeSbVSimytYckQjZxhNjOvfa6e_rD3oGM!2e10!4m2!3m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9
+  - name: >-
+      places/ChIJD7Qi8Ei7lVQRuShBd_6iJ2M/photos/AUy1YQ3Sjq-QbSHtsLsQLQo8fDgr3O4vBD-oOwdI2PNMWKo_a4poQH-c3anKNjUpxGKG4gCIgwj46zW_eOM1srGqcyVzFrsX0tz5qC4inbstuIXlwfWZ8h0gRJYr1b8ffesSXxkxkbnt3HXstX-HAYRQOYo87kEVkkHEBmd39w6hUS_V7tPaSo4eUFybjg8h0Gf8SM7ntYImUWWbSm98NOgukbhv4WRdKSCDuLvtzh0yQgGLPRJEdlVZWA7fg5YIGc6uOai8T-uo99ShdzYyXxgR-DjxCSnSpd-8Wo4MazaySjCxwlf0ejzs3YNyiug51ow31vdnCQKgUIC42A1ISmk1mhkmfqcsiqthY0B5PgmU0kCvkfM5kcEDdF4iwQs4zISqL2epw9S2k3icC495yP1NCWOkFscOiaK3I4Japy9I1CxE1g
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Aydrian
+        uri: https://maps.google.com/maps/contrib/116103745328763472202
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX_SEIihSVRIx0ubAT0EXqaYkoKbB46nBb8l_Q8PS42Cttv6RPmfw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID59c2fbQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID59c2fbQ!2e10!4m2!3m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9
+  - name: >-
+      places/ChIJD7Qi8Ei7lVQRuShBd_6iJ2M/photos/AUy1YQ2649Vvl6i94gp3qiD8D4Vb0i6dVMfaI_-Zk9ijoyXkFmuGGKTISnvZ1Vlxt4OjMcQQR7p63zYRbo7Oun3JlMo6lrwei0HM3GkkW3_T707cQ1H_vMYJPeC_4gv85k1j2O8bme_SlFmCVgPfiKwwjdIivfr2UXMMN8LWdilMtqUQmSl7ghCbKeJAY3G59K0PbOUg4oLx0z3M9LVtn7qXVeLXtEHa5uuZ_JmEKxNeOfcUGlatqvwZZ7of74u1WrDfwmEiJ8-cG_jZlN76Dshjy1CtdS9bCJj_DAgWEED7ijJ8fmWwpujwkOBXZw66ykE-iyVFmSHU1Xu8L2wS_mTkJpG0Xeeo455RzQYBpBmyqkujdQzStWykBiG49VXcRUqrksYVunJ0XqQY1m2UClXyjHcRupRzSdn0z_ke_oDQhYnYtA
+    widthPx: 1702
+    heightPx: 1978
+    authorAttributions:
+      - displayName: Purnima Tronson
+        uri: https://maps.google.com/maps/contrib/109335615441887874980
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW0gnGrEoZkRdEG273yBz4xBaVNkO5RRpuA9n55vRoMHNLmvuYd=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr7oWVZQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr7oWVZQ!2e10!4m2!3m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9
+  - name: >-
+      places/ChIJD7Qi8Ei7lVQRuShBd_6iJ2M/photos/AUy1YQ2MIwIjYMCXO-brO6k_7C4SdoALulHbgWV87X8Y7GhAfQNsswj5Q3fcwHFElpUA8XdJi3AI-jfOnMAm2Xu5I-yVVhNiOTKRSZ-ZDgfKIfiM4_y55wK1M9SV8Y178MF59t2nx3RoPLjV_k-vSzmoWD3HJHsoMKT7Edy35z2Otk8s8XYVdEzgpGVXqIdEmG-UY_86_uF3RcrICjzlxskal-fxNsa8ZNHCLzn7chiERdVZv2MPTK6ZqDltJJv2AbZHCP-Ojh0Q_Z_SI_FtdMFLuzuQbi5bysPTieopvDr7ioZdJIt3XYQu6P2NdpWnseYxjt-YxeTpg8L1owDLfxKhhFxJOft8aD1Gi5d42FDhREmcx2IP_zoKUztR2It2EqSOOeRTSBr9FKQz6EcJZQgdz2vd1VXEec1mg1T8IGvgySN2lQ
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: James McDonald
+        uri: https://maps.google.com/maps/contrib/106599247704346799892
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLMHkT6r0b7gA20vpsg0yJPV6awdzijjVC5z9gVjQw00jksAA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQxJuRTg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQxJuRTg!2e10!4m2!3m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9
+  - name: >-
+      places/ChIJD7Qi8Ei7lVQRuShBd_6iJ2M/photos/AUy1YQ12R0Ru0z27YkplPwkuk33bOt1ap7v3R5D_cBXMaM7fHCOzaa4FfIn7tTjskkjaXEbM7nOO96wOAy6Ki2JlpcHMFAasdQvBDEgnLbQqTNhBEIdcmskYLKmKxrsYjiFJsUo18pZdaSIKTQTMNfav20g4G3Ej43lY3veQ_pKb2yHG_XwJ-8MaPuIcmtci0zrLKS6aVY85XD9A-R5XYz1m4rkoi2rrhG-7Gqi6UJIVzwFlG0rhnetqMKhGzsGNN6K9GLb494XXBQ67kreXI9wLf8Q7CBrTReIXVmQ-38cb8T3bhNplIBIlQ00JZRi6j5SXw_GtDFUeKWxeRP_67CNwoyXONQ3CESVgMn36wx-iLoEf7wSN2p69IEI8sBpZpNmjN5ABwN-PsLkRl_T-_vtWCD4JaOaCb09FW8-jEk3BSZU
+    widthPx: 3060
+    heightPx: 4080
+    authorAttributions:
+      - displayName: PatrickE Collins
+        uri: https://maps.google.com/maps/contrib/117719209575757577363
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIw5Ui_1XP2mIa_iygTT-xBFm7hrem-wElFniBeh0DgQQY6pg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXrs7HPQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXrs7HPQ!2e10!4m2!3m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9
+  - name: >-
+      places/ChIJD7Qi8Ei7lVQRuShBd_6iJ2M/photos/AUy1YQ182uefQOa93F-xWD1ksosoUXmpOTPjV3qTdp9czZylqAYR9GvvVAn_DTRdj8GQVFA9d3t0aaFKTGyCEN-jIyU0mDHgJu49qM3oEy2bOR2WZ8gQKfHbUC0dE2QVrqUrI6HXoyBdU-H2b0pqrQ4_85o8xLUJ2HdhRhYzzuYv-eT3ShRtMK6a_0dlrtbqXFuIlQq70tAnAUJB8xJY2MrVX7EkXR2rkH1hNUKzSWEmW1WB3Tpcm1G_2t8kU_tofS0MADWiLZ3axyVsY-rFFrN48A3Z2gRdfyycY9RmLPolS2mV4xFGfgitCwq9L2220IE0KXO60PTfH7rZXp_91QonhK8WRRuqTjeiT0MpevOneeg5mQstiyuhfVu9JmRu6EUBXDcxKpFAIyqfCB8x-aAmL7YgXWfMoIVCamgOPGDmXUKfPQ
+    widthPx: 3776
+    heightPx: 2697
+    authorAttributions:
+      - displayName: Dillon
+        uri: https://maps.google.com/maps/contrib/102313831131696670974
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVmU0xcqcHJQrfecXsyRG7uurbMusWjJNTvBzT63laWuuE-ch_C8Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLk5_YLQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLk5_YLQ!2e10!4m2!3m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9
+  - name: >-
+      places/ChIJD7Qi8Ei7lVQRuShBd_6iJ2M/photos/AUy1YQ3P2uCvdTcZryAN0TX6nZ6uzI5UIN66PJPG_U5epeQVIDr_Lt1mm60uJBhn4fPmEU3wU925mJIV0vPZ40RYdl1N5Tqu5RcfOZFfbfymcQ6-dIwyTkKtDBmKecFCxQBkLUVPLxmee9E8K5_3ooitC1LU4H0pvA0Um65545SJv7Ac3flOAaGnSw7pIhQtiRdZlIkqbNIX0d4F2Nw5ToTbE6Jy_0mUY9HVYwOqKEdvQYJGOLWRotCNNvho2_JY8vdI-m6b4JzqtynQZLJ4JNes1eF3WKGF9n_TmZyOQ0LLThd0rUgjH9qVxiZbeKdp7EN4ZKo2p72mpGUW6lIxRSPturdRQguInDHl276Wn52czl4FxT8RPfX2rIQ1Ir7Apki3CwtdiU6IFTbEu5wf7mkTjiTnrhj61FhfJXWpzJbyIDwHtjYT
+    widthPx: 1593
+    heightPx: 1193
+    authorAttributions:
+      - displayName: Michael Key
+        uri: https://maps.google.com/maps/contrib/108265499063981766028
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWibzHtzjZ4ePq8GBEpl-OzDbhIwyUePpOI6_0teeNAthqZQDQyqw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTx7LDyAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTx7LDyAE!2e10!4m2!3m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9
+  - name: >-
+      places/ChIJD7Qi8Ei7lVQRuShBd_6iJ2M/photos/AUy1YQ0DMPoW35Lne8ckf8hOTWsmcp73ZbLhMrzcwKAlcCqfhyR2-s-DULpO-64WpDASAmk5ZMzRDGmRgISrfAD7-61Mv72KtAoOWAzslM2u6ujBcz0FpcNFKC1o9CDdP6-LmXbMtBTsVP0uoFHQ_LPJAiPmPwdRaOMUaxTI84FSsiOQCcUV9_sB06ll7I5GAgIy6Owm5cQT_-8VXiRrcn22lo1j6junwVyFwNRGlKWJVhmrBo1v6j5J5H7QsrlvoRzJsB3_BWGDBNgcTlFFKZ3ax8l07aOAj96IidRcfI7whEM3s-2Phj-98PjNqZWu9W8AtPhfrmTeY-sUjCplx4Bu-2HjCwT8YNsBV1rJoKAzZyBpdlewdWzQz3EPBQ8bg8DWLCFrWKtF8A5IYfTvOFg_tRBRqslNml2Lgkqqq9vNsZrMrg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Narine Chamichyan
+        uri: https://maps.google.com/maps/contrib/105378268528837237766
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU4_pqngU3OX4fAJ5ZS6DF1-2E67C7OmocbtkyT8VUeTR-upeX7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzxrWzQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzxrWzQQ!2e10!4m2!3m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9
+  - name: >-
+      places/ChIJD7Qi8Ei7lVQRuShBd_6iJ2M/photos/AUy1YQ1uzONHahtaJD4W4fYhk1mZ9ictDMwKpOOTRclOpnVnz--rf2fh11LU2MHYr0yII7eaocUKZSk1mV9i-9zYlkIIQEjdbmQmgDBg84nSFt7k18QyB4pPvF4mIM0uT2U1XgpXYKbWX9aCJG15iHsVH6l6nHkZLyx4HXuhrnrFK7C1fKwAwMlGKD91mdl7YgAzFfOTC7EPUbJuMOuBDBMyxNL6eNK3tDxJpPYGOrxdol36C0tgYLy_jbauwNfOcx23_oIckbMJPejmpBp8Wr9vWfgDvZF9GOttiaflZ3jtqi2dhnUdh9NrfpdFvXUHYrv9hG6ONKb-sBS9XfEieG3NivqyFixe7QbzXm_xluWgKdNMB6i2toSUJ4qZ3r-z8YDSp_oSx0yWc_mQgmQaPUuK1r6Y8WK_ofsrPmgTzCABtBD0Jw
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Narine Chamichyan
+        uri: https://maps.google.com/maps/contrib/105378268528837237766
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU4_pqngU3OX4fAJ5ZS6DF1-2E67C7OmocbtkyT8VUeTR-upeX7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzxrWzXg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzxrWzXg!2e10!4m2!3m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9
+address: '1735 SE 192nd Ave #104, Camas, WA 98607, USA'
+street: '1735 SE 192nd Ave #104'
+city: Camas
+state: WA
+zip: '98607'
+country: USA
+neighborhood: null
+latitude: '45.609531'
+longitude: '-122.475525'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Camas Mio Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x5495bb48f022b40f:0x6327a2fe774128b9!3e0
+  placeUri: https://maps.google.com/?cid=7144858547652733113
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495bb48f022b40f:0x6327a2fe774128b9!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x5495bb48f022b40f:0x6327a2fe774128b9!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495bb48f022b40f:0x6327a2fe774128b9!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Camas-Mio-Sushi
+
+---

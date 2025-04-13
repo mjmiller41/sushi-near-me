@@ -33,10 +33,6 @@ city: Washington
 state: DC
 zip: '20001'
 country: USA
-address_html: >-
-  <span class="street-address">614 H St NW Suite #100</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20001</span>, <span class="country-name">USA</span>
 neighborhood: Northwest Washington
 latitude: '38.899691'
 longitude: '-77.020670'

@@ -1,0 +1,211 @@
+---
+layout: place
+title: "RED"
+permalink: /wisconsin/madison/red.html
+stateAbbr: WI
+stateName: Wisconsin
+cityName: Madison
+place_id: ChIJF7BcvT9TBogRGZBK76Eida0
+photos:
+  - name: >-
+      places/ChIJF7BcvT9TBogRGZBK76Eida0/photos/AUy1YQ2GNa3sv8fr8qIgJKkp0ewI7cAsOsnwYXsjw2-DYNo_24GtDGc3DMIUuVrrb7VVn5-PIT5BSesnw82GXeK47JXngi_X_M8AqHoCKK3ARgPItrtDRwVIcAzc-3AJKxMI-uJIF_yGhx1K9ZfysnKQGZeYEva--_Z2-Otrvp9SC5sPA7VTL2OtPM1NwS1jVa267Qx4a5VQqp0Td9CppLAwewMieQxwQVNkL52lPK81SDrCHEaZy2zgPteUy19cjsKrWIBWxsqfiASTClz_PxF67AHitsjP_glQ-H1Q6PRJroBZKm9tE3F1A5ddIRpAyJzP44z7Go6hmJ_WGXwGnbQn4-XwsZlsoBPFRsoFuLhuhWmSbd5yo5IsIYasMrSVgAKWMpWTe8CRokbxm_Wijiuc3dMF-p8Gp6vlzQ5O1X9ZKMSESQ
+    widthPx: 1080
+    heightPx: 608
+    authorAttributions:
+      - displayName: Nikolay Mikov
+        uri: https://maps.google.com/maps/contrib/110635312799133566183
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVwX7vEX00uhFTNXhQyQdaf8WTzLzLimVGmtSD3Bp42Wadcg7qK=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4o7eoOw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4o7eoOw!2e10!4m2!3m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019
+  - name: >-
+      places/ChIJF7BcvT9TBogRGZBK76Eida0/photos/AUy1YQ3huql4-lFiK9ickUo0nJPEvDL0hoSejPUd3l-HDzB70vt4ofKRPDa6_p9McUtIEVsIveBPcXE8JMKur5tcTULIemZ30wv8wBPN7wYmVZAYBcSQVpgCoiVnxmaerQfbD58IawZt4tbrKv8xh1t1bKCwNmb1ernLDGNTDaIH8Bngaa_r55B1Q7KARP_pWbrntEKuJylbKK1aip94JhMjLg9KFTdK_MiJ7O1r06ARNoy45E29a0ZDdYjTjzUen9fmQYGlCjJpJIHuvHr2QaVJdoyaSU44D7yha2O4n3scmKoYag2d9hgbUECiDMv9VqJU12K3uWGtdIKLImdLgZzkApPXplzTqIOg9Kjb0utv4NpHj0b0OR7NH1xGAsMUpXwBU1dqNFeQsjAAhspQErttVioZmbUs5px7Ckezifht66fexQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Amanda
+        uri: https://maps.google.com/maps/contrib/111313040361428004293
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUFBqZiVE4FXg3TCYVU6cUOcR5FJOpGHWHhPrKZ7oc6Fnt24P8Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICamo-xKg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICamo-xKg!2e10!4m2!3m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019
+  - name: >-
+      places/ChIJF7BcvT9TBogRGZBK76Eida0/photos/AUy1YQ2brIhVkV66xOZuXS_q1C_6Xdj1Iy3t3i1-Fbwn9yS0DVJQtdmn2S3AbChEmA5yd6Aon6vsndQZDDyA3C69DavNLQjs6qeH6aHE1VxiwNKQcSmM_7_0gi2IJjPlQiJzxgY9E2lJZjYMe3YmuqGYuZg9M2BbbqWy6saUax39HHscdlfzw0JMARn16NXcalExHvM2phazcozcjJyd41Ql5SrvA2IvvThobGvWdmM5N3oYa7lFrn7Q7czKQRncKwWVsM636JZ5KswHBFzK6MKhStSmmaIksMgdlohw7DhA96xg_qDQeuiNteTwcbUkjdwmGiFJ9SqmRYkD9ATTPpRhqqGtmmKJXlJSeK0LEqhvKfbZOzEfy25vJ-OVHgZ7VVsMkDpf8mh3uRKJTGC7NCGolJB4B4lOw3W8jkRAT-KtAGvso8Ble7bI_zDUNkD_XoNt
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Hal Krebs
+        uri: https://maps.google.com/maps/contrib/113209912095852739176
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIMBdx7pf8I2e7tOHFUKwOYB2-PeifgCa35P6uaoxtAEMRBNA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UVQ6xD2fEn1QAAv2R&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UVQ6xD2fEn1QAAv2R!2e10!4m2!3m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019
+  - name: >-
+      places/ChIJF7BcvT9TBogRGZBK76Eida0/photos/AUy1YQ0jBs7s3Ki6NIUCMeQamAA7_gQtnnMB6R-0Zx64p9Uu1zR1XHnMuDUB6-FV1eEwLezLKvg79tvL0k3WJUsvETgiwAIcjHY6p6TJlHYzOeoqMKfdG_MM3O87W2RPheGcQI4O-ACb-_JuWabLFuzqXWygHEsqmt2QKVNtKUj_B5CBitNzH7dnrkYXaQnreQ1ANiYkdaDY80SZ_moFLvHGEQartx8cm7MeBCUkVZcgrrINbuVdTrP6eawvQ0WAWj9G-W0KAENKRKqfWB-1Bk5lim-NgcbXOcAaJ8v-xN9utvlm9d0hOe-EzquhMT_pjYDObF2yq_QNtaJldoif3i5LuepZfSaHJ2OCGmPfsQJlMYAWd_Op2iZs7WvNnU2dM6vlDQuujcmaKNnh5eFN0lCBhNw8XkG021J4YouXDXzJdgNB1Hvc
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: LeAnn Lobrot
+        uri: https://maps.google.com/maps/contrib/100922534804000946717
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVo18mXePSInEJJRrvc8GMtRYhX4Y9mXbDCbQxO6_aU8cl5k3hF=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrhMCa_AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrhMCa_AE!2e10!4m2!3m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019
+  - name: >-
+      places/ChIJF7BcvT9TBogRGZBK76Eida0/photos/AUy1YQ3Pck_7OqwSPnzunCu89n4enATSGp8epWd8LfHRka2pKuL2rpPZX2qIJzQXWm65KIRtYAwKRxl3aMYcfJGDiUZJxrriVkcMoFa7C1nEQgzORyxtK-t1NkL7oI_0IpRR2x5_GhK59Hcjhoj5qbJg3EJGEHjir4aFHIc2TFP1o9tnwLxpRuPcg0A_nVFUCcMQjmH75naw6Pr_vL_NCa9Qjg_Ie1G7zrA0aoafk-BJMK7OW2vqZMpl3jhG3IKUzcVjbl1tFLwic0c14jJXEAqa5aTqZtR7I0cxVBBg8vYB5i35aVo_B4XkkW3u50t6tZE8UN33uxnVHYmBimVUOdBgRMBuRMwI7IKlEvXXI5zjtH1bzv23u97NBTX0XlK0WDBGrVDpvG-AjGLdVt5yGfx4Cydkf2aFP9-vHEtPbJH7QBMrfyw
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Roman Stolbov
+        uri: https://maps.google.com/maps/contrib/103460241972166562240
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLU7g0bleqf994fVPMk-7igV7qoVzcDyYxMD9LWdLedM4GKqK9i=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHrdiXywE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHrdiXywE!2e10!4m2!3m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019
+  - name: >-
+      places/ChIJF7BcvT9TBogRGZBK76Eida0/photos/AUy1YQ0zcGGCtEgDg1bddcOSbTpjnlSCZvL2rkx16Q2cji_EHf0w35ijN-uHpmlbunXBqli6unMKV1Hi3UgnNrYbYcsqqam7kKR8Bjj3E-pFkJWGWWpo75-x-xwr2cQxI4kCMiJtmGu25a--46PWunvBOiP8Y7URPP6dLV4MTA_9mO6ap4hE1tYjXyAdVw3D8Ue2iIH-HB_thmMRKg45WPVWIDpk2CqLyJKWwT1yBCXIw-QLNe-ZpUCq7tkRbxV5Z8m2vx9V6WUoW3L5gpCsoFRtj4qOPGqoRTPMjPSbVdGvYUEB6FcD51gjmFJ0TGdRyo7vc0lpCsUyCGXPHJYQHqYM7Qv6fLHK8vDsHos_NdOvfhrRwfxbeoHhchRyVYT6Yem3HrK4ZCLqRlv1Y7_uZ1rMyDSdxvFOMVIkTBdIxe4uxtrBqsla
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kim Hinz
+        uri: https://maps.google.com/maps/contrib/116027636282124332080
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWDlvkUERJQo7BnW43l07wJpRiEfhB7C5LJJgtOyFcjg4yGtTZsKg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQhO3H-AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQhO3H-AE!2e10!4m2!3m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019
+  - name: >-
+      places/ChIJF7BcvT9TBogRGZBK76Eida0/photos/AUy1YQ2H-tCNU_D7frdowKINTGDxl0JfFs0W6hGAv4SlKAUXC14-aqDpdOhcgG0RVQramBDOJQbupji3nQgUjwnsNcc_Wv0vHzomsYh4jDwc9zpUFFWNug6AzT0JR6Po0D9PEd9M5XUXSNuZ8ZoFSbHpLORBpzcCnFBsPf6LH1rSQjbHIEab7R_uVfnkJxu4gzkr5VSHH1ZIww5-TFBI3_l6jEU_l7BNaY8SjVuz8zbI22XcgmjX_4rf0KYSJ7EJh9SszMas1YhJxsqOFyKl3G70jaHaQFcCnhnll37jR7K2cjAcLQY9dRtCMLNrr523lVdJQbSMea0Of1w3-xRfGHv2h2SRfFTsL3PmpGYlsNWc4YM8qZngviSMSI5Xx_5-rpaunEhzTBmpTHhYw0Rd5n_O38vLixj0Hw39G3EnEKEhLzE
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Kevin Ly
+        uri: https://maps.google.com/maps/contrib/103916432813865176166
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUBbnABOy5AttKnV1M-yMkpDyY6bpoIRf3hj3eTxFcJJT-5fJqVTg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbwZ7dJw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbwZ7dJw!2e10!4m2!3m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019
+  - name: >-
+      places/ChIJF7BcvT9TBogRGZBK76Eida0/photos/AUy1YQ0seqoFbuNSQo5i7tHtDNka1PM7cJjbfVeG7C4LIQHcVcJyWlWWiSEOBWjPEwEK9A_uaJVwU0pDUM-2tQHi0Q-WjNDdeSEYhE-6WI5iD5JRtb_Sj94apKhP1bbc-4EeHxOAdcZJhvRsT8YmW_UyOnna4Wo33zmgdnL0eJadgYGdDNj65xCIoksCT2NINoayi4SweViplaly_Wk1IybCHyGMfuOXaVrTIaC6bQkKO3BUT7EWDmvAY9i9Zxs6o07AgHPZVOFc_M6J1DZhcHdBZ8bwx45LwYH-hRPnGl1XOtIfSMMQf-9YTmFvSSk557u4KAMcO1VzelpbvQ1up__eTAvTVyxhN1ypKcFEE8L-0yVugqmY5v4FdmxlCgkO0BhFnKm4YuodhD-AMgSAEzzaZZsnIxhHtZPt4mPHDgpw_eTeGg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: LeAnn Lobrot
+        uri: https://maps.google.com/maps/contrib/100922534804000946717
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVo18mXePSInEJJRrvc8GMtRYhX4Y9mXbDCbQxO6_aU8cl5k3hF=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrhMCafA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrhMCafA!2e10!4m2!3m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019
+  - name: >-
+      places/ChIJF7BcvT9TBogRGZBK76Eida0/photos/AUy1YQ0x4_SSNb1nu4Qu5CT_oN-xqhalY8h6BNuA4Dz2gttmTpiAYKkDOQdVuIrpkBZM59tBo9LyNBsr1uWPC_F1-nZfPMJeGh9Xz85vuBOgMncbvLrgKWf45X1l-2CZG5_SHPjd1-TiSZcEMJ3qfCEPV44qYOx94RX3HTrN1Ks-sk--FMNhT0AqLz3jaywRm3A-gc_OAKEF9mmvsaNWrfy1Zl4JtwE2osEpTNbxs6fcpXloL9LQdhIq9hagpkzkqo82Mm2aWcz8Sj1iO8Gmb1IhZAH6Hb8J_LGtqOHP17STNQJo768YFU43Tz1H8glhMiIkSquQAAiEl5PWLZdnCdVgzZYCHx-Dz8KCrvA7YzGjv_YaEIUMV2YfFEoQGQ1C_e9HMHTnYRqWKuTYK1M4mqNchJ0I_8p9urCRP28OgE30CswROrMi
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Алина
+        uri: https://maps.google.com/maps/contrib/113979862846047222416
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXKSQsoNhr5nweq8XOpKO5lHmrEg4Rkyc2w5LzCzGM8eZA49bWz=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDifvPjAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDifvPjAE!2e10!4m2!3m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019
+  - name: >-
+      places/ChIJF7BcvT9TBogRGZBK76Eida0/photos/AUy1YQ0PCJJpk1tX55bjMiodacTDdiBENtao7PIvaIrtLr09SpumfgtA7P21F5ibmnzF5uI2g2JWrVKPhzZLSv5fSHyDucfXqy7FjpZ-f6cREyaO0Xzxj-XpkWRLlTy3X6CwlV7UT1E9OCT_9HdOF1HFrGjQMe91nsUGrlpnG0MT5Huo9iymc1vTY0a-Fh4NwV3sF_KnKX-n0bf9AdBMkrxr-FJ_XBP-7vLnD4NE_rINjJNnhipGpJIwmI2CS4axKKl-msfM05NX1IN3csUcqG-KqI2SiZ3SWvcasyoO3fFhHsi_OHlHIawixxnRs5DK2M0q1YY0p55OyJFi5Oebi1heypg-dMjyCkopVc2lo0M948klpxdcaKoMTn2ko_JHuIuanm8szEQKrIvIL6-PnydC-ODGew_gDyEStBzpdDqCiagYnKsV
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Saran Ouk
+        uri: https://maps.google.com/maps/contrib/117483709950549516669
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW_3_gaq4VrtcqfNG2CNe8WJL5GF3G-HoyGTxGMnQ9fG71RMFJ5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDvbmwvQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDvbmwvQE!2e10!4m2!3m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019
+address: '316 W Washington Ave #100, Madison, WI 53703, USA'
+street: '316 W Washington Ave #100'
+city: Madison
+state: WI
+zip: '53703'
+country: USA
+neighborhood: null
+latitude: '43.072423'
+longitude: '-89.387888'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: RED
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8806533fbd5cb017:0xad7522a1ef4a9019!3e0
+  placeUri: https://maps.google.com/?cid=12498934419736399897
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8806533fbd5cb017:0xad7522a1ef4a9019!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8806533fbd5cb017:0xad7522a1ef4a9019!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8806533fbd5cb017:0xad7522a1ef4a9019!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: RED
+
+---

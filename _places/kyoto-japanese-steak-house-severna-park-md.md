@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Kyoto Japanese Steak House"
+permalink: /maryland/severna-park/kyoto-japanese-steak-house.html
+stateAbbr: MD
+stateName: Maryland
+cityName: Severna Park
+place_id: ChIJCaajaH_5t4kRDGYAv2QKIzg
+photos:
+  - name: >-
+      places/ChIJCaajaH_5t4kRDGYAv2QKIzg/photos/AeeoHcL9SvTRZMdCalr3BuyCu-NkOYfpTQVynSgWnzzll_s854hMyRs9l7-tYdxhJOnGu4mrDVaqqvlOBX0DVsNZo3uo8qjusvchWfgpPdmu1x9Atoai5qxry6uKoBtJAFFzdEgM9KlbY64VZv4TuoRWTZCiNH__dnO_sB2CMAIkxeuv46wNkmqECuwVvDXFt_Mpx-Xirq5aXeg_31ipWSrwmHkgeRRmbyYANfXqwvjonpnXlIBB2fccOQhI7AVLXuNDnjWcTOrKNBTL67Ly478hyQDIh8Pf0Ox3nbcKDFu63rVefQ
+    widthPx: 4032
+    heightPx: 1920
+    authorAttributions:
+      - displayName: Kyoto Japanese Steak House (Sushi)
+        uri: https://maps.google.com/maps/contrib/105043295102596076624
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLqlofuL32U9GK1fKkMKKB6DKZyv87ChWkUCv5lXh1stHNlIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM5obnyUsQDHDIu7p50MZ63AkSz9jMJXtX0vPa1&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5obnyUsQDHDIu7p50MZ63AkSz9jMJXtX0vPa1!2e10!4m2!3m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c
+  - name: >-
+      places/ChIJCaajaH_5t4kRDGYAv2QKIzg/photos/AeeoHcJMdDAJsqMzMxzPDXEJX67xgnI5BO5awTR-qBdbmKxk2obEUZs2acznAo9oSbog2-tZLY-TeH7xb2cq99Y6uMkSeffDNXbcBx_Uf74zQSzua1hfIjm7rV0OHHKsRKCbjQL4gXARAx7Tl5iNsgFLoRIJ0D2R6QRwBnpcfFU3RXC6vErP9tvlSHSf2DTp0Ms1fyZ43dKBdlO-U_SUN7YWwvFq3VOrDJqD-oJmpZ-1X1j31STg-2ja5vT2F-fnmBqP5Kzab6hTRfSj_aEfivBD_T6BzsXkfKXT8LsQBTUzBm80Mw
+    widthPx: 4000
+    heightPx: 1848
+    authorAttributions:
+      - displayName: Kyoto Japanese Steak House (Sushi)
+        uri: https://maps.google.com/maps/contrib/105043295102596076624
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLqlofuL32U9GK1fKkMKKB6DKZyv87ChWkUCv5lXh1stHNlIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPG_1yVggPQKUnS7EkmAadVXU8ETiu1R3TSl-wx&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPG_1yVggPQKUnS7EkmAadVXU8ETiu1R3TSl-wx!2e10!4m2!3m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c
+  - name: >-
+      places/ChIJCaajaH_5t4kRDGYAv2QKIzg/photos/AeeoHcJjlcKdzzW929xyM-3T1IFFXPPM-_B7urRT0O-ej-a1HIDRQY7D8jHN2RUbxuXmZz70BcGFryhV9IehkyDY_QbL3qiGRSjxZuWCI_qBwWPOgsQoPvCbdEwGgKGAu2lVaLZMRHcxJoZXo-8gUGm51qtLXOJdB2nfNwnQsTM4wQ3VN5UaUrMjDvlZKs7vNyUcmK4IgNJcca82_N6nMs5fCHdG7VuEVnK-gkyX9dfHe8yk3IKuOTWG_MKkQBeNkAVIVwYV_q7Y6N3yjIGNrTn9IJkAzSNzYmcbGGVddzG4_kuNWw
+    widthPx: 2252
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Kyoto Japanese Steak House (Sushi)
+        uri: https://maps.google.com/maps/contrib/105043295102596076624
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLqlofuL32U9GK1fKkMKKB6DKZyv87ChWkUCv5lXh1stHNlIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOoXdXIYADinOBPpGuucYYQs6NbesPSprt5QKJe&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOoXdXIYADinOBPpGuucYYQs6NbesPSprt5QKJe!2e10!4m2!3m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c
+  - name: >-
+      places/ChIJCaajaH_5t4kRDGYAv2QKIzg/photos/AeeoHcJvtIeaPBfPEIPbMtVLBxpFBP_TE-I4VKu7ayUgILz2Epn1LYcp0i0V2k9Ig5cxwZq7cwbF8VisiaLqJjarzn79qcZYtlJm-5L5qL6nUqgEV0gvUTAVAL0HtLJTJeUE70rsXFFe5uviLpRYAnXNluiwSQVMDkV7KmELfzwqm8QIl5AFoGlanlNhWJvVHVFVMSof3vRCrbI-sxg0F5U4bdCMl65H5ehiN0QLi2UmriEQ3sUQ6T2dA2-dR2v7heGhVRNv6gqaOL3rqj6fbdCvkJUTWBtO7uB1C60DfxTCF_x4XA
+    widthPx: 1470
+    heightPx: 1954
+    authorAttributions:
+      - displayName: Kyoto Japanese Steak House (Sushi)
+        uri: https://maps.google.com/maps/contrib/105043295102596076624
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLqlofuL32U9GK1fKkMKKB6DKZyv87ChWkUCv5lXh1stHNlIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOa0O7CDpWyZSCW2h8CGJlnt7JKqPll96gREQ3q&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOa0O7CDpWyZSCW2h8CGJlnt7JKqPll96gREQ3q!2e10!4m2!3m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c
+  - name: >-
+      places/ChIJCaajaH_5t4kRDGYAv2QKIzg/photos/AeeoHcJhFmR2CCFqrYGUvBk49JTQ2rkG6sTz3ZL1JM5yyLZgNnS_1MIIGWCdofVDTTFDdLSZ-NMq78xXjINz2Bggi63uMnfTdwGUuDfYcclT2ZPIPbeq0gXWvOQlEIzBUTx19nBiHAezf_MIyGu8p-Q8Z1Kpwaki7HWnGYy9HimGQfmSxnqDDvJxJt8Lgi4MRsAKaV3N4xxisCf4lOoqTNwXBdfBOB_Hn6Js4t5tvE7WE4aFeWiZNvVpKYw3-UGfE_2fRCAM-5DzCrQlJP7FSnQBZ7kZP0r2ttBj74-mIrSizBA1AQ
+    widthPx: 2160
+    heightPx: 3840
+    authorAttributions:
+      - displayName: Kyoto Japanese Steak House (Sushi)
+        uri: https://maps.google.com/maps/contrib/105043295102596076624
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLqlofuL32U9GK1fKkMKKB6DKZyv87ChWkUCv5lXh1stHNlIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP9m0U1Fok8c9DRENDxeITHiu5RPHhGvUrQ9Ni5&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP9m0U1Fok8c9DRENDxeITHiu5RPHhGvUrQ9Ni5!2e10!4m2!3m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c
+  - name: >-
+      places/ChIJCaajaH_5t4kRDGYAv2QKIzg/photos/AeeoHcJKP2Epzp-ggtQn9rfOjXOBjzMjFniBchk6vOedqSW_3wXWtoSm0gUTaI8ejm2FdTwC-TgaMkRtdjNgZ3O819napO7SqB26fH7C9esyo0AJXbBWWazOvwx1Ydh_1FRkU-_tCg7pN-5GTCwagzQSNpzGtC3mvR49MwJhO-_Zd_w3oq385SLDqAQKc_6mM9MhZwaX9qYl2COnfJoxKREwXTkiqqkVO4emY_5Hx9yFdnofPe0vpkxAHbY8hvx6cMHeZnvFLBuSXIz4s5fsxQPH52k9qY1qw1XxeYQfbo_Xo8Yg5zGt1yw8ejJiIWoi7AGM4Iu5cCU6fc0ZSMOSoIsgtlJiDc_wodjq1VmFLA-y6qKOFvxFLnj3EflvDK5O2VbOCSzyEBB5uGJP256LhcJ1xKxIhTYMIZvLBpM8JAS0vH97pw
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Christyn Locke
+        uri: https://maps.google.com/maps/contrib/116066019502314875906
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK5Xd8YdrRim5urRa1H8ovXOMTDgjyKLAIgA1yo9JK8wVkAuA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzjo77bA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzjo77bA!2e10!4m2!3m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c
+  - name: >-
+      places/ChIJCaajaH_5t4kRDGYAv2QKIzg/photos/AeeoHcLX0KQZSmwqV9Xs_nhYrTouDDKZZ3shVDsHGxWniaQr3w490uq3wKosCKZ9WFc8HfUAghJj6tab58UifE3ro2_0BSbDxhhk0cMfV6OfNnX5jsXRbg7TNIfR1rO_jU_3GREV_cPgu7zeJORe4fAivGEY-o3feavqQjooCMdwz9ecfy4Y_5EWvONGB4pN5_3IGYfwD_C15j5NEDQhyg0bt4h3HDd13JZNYlznTosxZXppRKBhQTTIHHYx_gn40jJoeEdc-SRqVhCkrz9lfjbrU4QAF7JdCrHpWAJxEQ-iJxhqBxsmJot25gkU2zMYeTqHzwA7nFlsFWkTifQPUrbgN7RO9gFWd5TYmLdnKT2huiKA--WkY1PmWaFVolYeA7rnbMWOfQ6k_VBYWkDyukjl7hV0rR0gnl2AYzBzjciCleY
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: S. Hari
+        uri: https://maps.google.com/maps/contrib/105344429195221087952
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxD-SiJ4cbxT9WuGsVZ_fgzpfYBzUzPWlmP4C0r2warn33wO3V=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-_Pa3DA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-_Pa3DA!2e10!4m2!3m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c
+  - name: >-
+      places/ChIJCaajaH_5t4kRDGYAv2QKIzg/photos/AeeoHcKA0ZWsvi6YrgrMgDcBAbmkQ83qoSNxN5u4bzriAJ2nA9-svWMicd7zYaecp4Bzwe0nMFA0zMgsEYvgodeV0n2oogCoAffKdMB7HlnfJATHpyQvVpfTFumiWLo9M9skXDAdD7f_kyo9DspKRn5nuds2kQ3w_wMeta_JnvRa7ji-SVI9lxSBfzjVRFZbl6ufvemxI1u5Ov7YZB8Nd00ki5dHz6kQCkRV42CbtbaV3bsJuuOqdTK22lKqf0PWLDkwXJtQ1PldQksC7G27dOFoit3FfCq7k2X2i5ilEMF4cHoeKzKrSlFdXaO0-EqNvw1PXk2Ntv8YtaIS4aLupTX4D4dkzljUZt8y4mnoskTJpSVENmukCUuyCD97hVv04QVhQf_CGWr63tEO4ieyoU63PFN0rF75cpKgtquqOVCKTVdTSA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: steven latchaw
+        uri: https://maps.google.com/maps/contrib/112722796070173797875
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXfAJck584AVQTwQ6SvS-zPYbFRJhpEO6uwuCfmK0983C9-KI_d=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICG74yNNA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICG74yNNA!2e10!4m2!3m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c
+  - name: >-
+      places/ChIJCaajaH_5t4kRDGYAv2QKIzg/photos/AeeoHcKxQIsKt2_tVC3rhoYaiFeZl1zyP-E4BPj_LEmURgH2h4uN0lv0cyDiwpKaYSF2lwyoNWGViFmgIoS5BhKwLQyPaBQpcLA8GjSmh422TNc6o79ndfLzwm8Mjv-qn_LQXYaViq1bQCQbjoFMyOkKfTn7mvj6iUXtxzMP7YDrQJTQ056H1cxLEgu6yzzskOT5FfQMfJtB-0LPdFEzw5M5d2d9q0ZCGeKvtILEb3dNsx7WZIrpACoGT7TJbp5SFlceUGzNVVSNpRJ5pH1CnC5lzgeoPvxY2b2w96JSG-KHRdO_Jw
+    widthPx: 1836
+    heightPx: 3686
+    authorAttributions:
+      - displayName: Kyoto Japanese Steak House (Sushi)
+        uri: https://maps.google.com/maps/contrib/105043295102596076624
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLqlofuL32U9GK1fKkMKKB6DKZyv87ChWkUCv5lXh1stHNlIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM8iefRyKz9PH_k7TpBJwkBs23a7BRsuhDGkfYd&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM8iefRyKz9PH_k7TpBJwkBs23a7BRsuhDGkfYd!2e10!4m2!3m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c
+  - name: >-
+      places/ChIJCaajaH_5t4kRDGYAv2QKIzg/photos/AeeoHcLMUqI3jMvxkFpY24nMdXIZE8KY7UmxgT9tIx5iLyo78DOUBkC5O5cOXQ_oatZSU2sa2f8bcgBbPz07I4j7g5h98V-4vBskStMzl1WCqtQp1F4pFiz6hZ_c4vfov9SNJnx6LyEkR_OsZZ5Nmjwa9zEd4kN66abG_Wmc3ezHUmgHgdyL_fzuPy5Oy4qJI05SAgLKvCG-6Uje5tkPmAVXeL7LuI26vXDSgCCzIXq9ZxzT-Ea6f-YoNIT4ry5jupHNzghVY3cPV4GNO4PU4zC0aYruNvpdschoxnrkvoVa7lnjHSFHzwqNfCLbxGpavN6X22CSN_7FcgbXPNaiWMRUCmZN8xXdqkMMWLc8vn6q-vv41ysSXcknjKUH1c822pTPklijX1rGYU0jgAJK3ZwXqz-LRsOSR4e6SpV-e4qFzztHhA
+    widthPx: 3120
+    heightPx: 4160
+    authorAttributions:
+      - displayName: Bari Caribardi
+        uri: https://maps.google.com/maps/contrib/109553754299867561730
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLikZ4bxhVagJiLQyc0INBjwWnFlc0fGvq6lCu0A5wTOSj2PA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICs1cffQw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICs1cffQw!2e10!4m2!3m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c
+address: 568 Unit C Ritchie Hwy, Severna Park, MD 21146, USA
+street: 568 Unit C Ritchie Hwy
+city: Severna Park
+state: MD
+zip: '21146'
+country: USA
+neighborhood: null
+latitude: '39.075648'
+longitude: '-76.546155'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Kyoto Japanese Steak House
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b7f97f68a3a609:0x38230a64bf00660c!3e0
+  placeUri: https://maps.google.com/?cid=4045088318126319116
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7f97f68a3a609:0x38230a64bf00660c!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7f97f68a3a609:0x38230a64bf00660c!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7f97f68a3a609:0x38230a64bf00660c!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Kyoto-Japanese-Steak-House
+
+---

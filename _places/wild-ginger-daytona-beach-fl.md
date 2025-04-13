@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Wild Ginger"
+permalink: /florida/daytona-beach/wild-ginger.html
+stateAbbr: FL
+stateName: Florida
+cityName: Daytona Beach
+place_id: ChIJ5Zl_27Pd5ogRefR2AEF_RjY
+photos:
+  - name: >-
+      places/ChIJ5Zl_27Pd5ogRefR2AEF_RjY/photos/AeeoHcJEf9l5KKrK4RXB-ZT5fRu0tLx8vuq_h5lFy_WJh5k2mVIZSAWM2BF-G1tzStk2_a3jbuZv6ddP8qetFxMsv-iHaHmzfNTImt2gE_r-j-bEJi1zNcb5gsPuzu8Mm3__eDLsBjtoARiDpHaCQP3m9OMQUVxtiaeXVrdtvOZNDu7-H6-rhoLFJMbY9tLh3IIDpt3PHgs09gO5gF8-UZH5er3eISoWTR4VucpZxllvHCZJUuIri9g3fpKykslJL28Ff7nqonLlAo8BFWrlPVgnuqMY-sq8OInDD6sVsdmelQhZvJ9GMlNbB4wdxHVG3yw7FF-WqBt6L1rDJAuppq1eH_NP294Tt08bGJHikcSHhmRnUvrHwfjrKpfn9wypnq4S0eFSZdj0pgwmAfDpKbk1ynLbc0c7vdJMnW86IJVxeFg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Toby Bear
+        uri: https://maps.google.com/maps/contrib/113623932682201012254
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUzytX4Qed07VJnnNiFr1XME57KRouSc_WL0jGtWr8krPDmQHO-6A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRkZD9ZQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRkZD9ZQ!2e10!4m2!3m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479
+  - name: >-
+      places/ChIJ5Zl_27Pd5ogRefR2AEF_RjY/photos/AeeoHcKUnPsUMOFIh0TluaPfir05S8h8oh5y4F379lmVzU1UHDK7OUHNw8U1BORxAfOEEUN7P6fhZvThRHDNbRMDN-d8lJsIGlv5cgUnKPzsputbgulNNoGrqhITyhVqr80FfwvSp1jjYyzmOEBucvfrV-p3_HVkeviEKyp20SNGd91ls7leQTXmVP6BIEARwtRNSWYbQlIZqeD6svH_vNzTAqGOlSWM_NhE3gatRY1RZT4vTwJ9N2wenkFzGVxbOqFUFfpZ7tjgQxXlFbO6GZNI5_wHpk1lcBYdCgQvFIk15gl87_hytFJsIIVbMk31RWZ4MHjspwuEEJ5NIuaeBfgQr4zgMUyiPB9zq6F90XOwIxyfnzX4w1JgTQ2Rut6NIqTho1KH7Ptx2mvntkTathACxdegIptm0vrUhlFdAQkrI0MSuA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: AHSGRAD
+        uri: https://maps.google.com/maps/contrib/103048996847568702322
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUHMU3Npu7w9ezvPdLrE019re8SwfqsBKyMp6rzvT-2fSs15LHCeQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQqfPZTg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQqfPZTg!2e10!4m2!3m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479
+  - name: >-
+      places/ChIJ5Zl_27Pd5ogRefR2AEF_RjY/photos/AeeoHcLCp5J0JbqKm3zmyPd2Nr9OgbTaoQpmIImQFCW0A4Tv199NoLiz-CDafa4F_bopkax_ArfZ6nRm0QG8j1dsYrZeReCoFhZE3hIc4dvp3yGZVV8Zfz-U6ZLooFJ0W8N0nm0_ug4gB3WW5WH9RxXG6Xa16RSEo6syf_Kp3QOISwQfgVfdp-ygV6uXuiaiotYUvvVq14nw7kVlUhc3DNkINXVtThNY-fcpCd_lJG0IxjyTZalTcgbahQLeZzHtIgWEVvNjzo-2MBH9CxD2kBr7wHRvWG-Y-2WJlDSnWnE6j2aqe3298XUN0AjLQ_CAuaFsdBXcKjrJmjZ4cSoQs2m72YXZDtO2qOEWwJjrBSliiBMMdpn2gOJyDTezXfJ6RHz5D9NP5I76ASq-wt2QYDdrLZMR1ekuRZ43cjAf1wET0HTU2u0
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: James Klein
+        uri: https://maps.google.com/maps/contrib/107076045800127795121
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1OklrJBioK4_nNe3dFjvCRWsgVhdXuqF4E7nfp7V_KMltgd8j=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfvKTIyAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfvKTIyAE!2e10!4m2!3m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479
+  - name: >-
+      places/ChIJ5Zl_27Pd5ogRefR2AEF_RjY/photos/AeeoHcKRROrTlHspW9vptulNOJStkMaxzrzSJQCyRlyIYNsMHbuD-Z2aX96ZPpH691yV-gFPctivYPQy06v4vYS2Z2TBPiP0QCBZrKmJAGDOYKZ8GGClKDRjxqZ4vNfAwnj1rr_AYQCFr171b83xnYqQuLHxcYMI6-zkpl9hlIH3yEtaNbbQQEj9SX_qSizfa5J8qcr0Tj-6O3x0SD_1eNY6-j-vULCc3SSP_EKFvSbuYzp39ItMcTQP2fV2WEqzxJWTj1_HBzFOkAdv5v66Wo1aMhu72Locw6E9kgmTQigRPEIaYgwc9tEy4OzXbqwKTa48eGcp6aOrHX79LFx1PZaI8_cpqAvOxYTAkQkrcoVKK3N8aXexQUC4KhYdNXFSn1TGbKdydLUlACBBiPkfez2ju03sYtfE3-Q0rspbDHje8hozfkE
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Samantha Wilson
+        uri: https://maps.google.com/maps/contrib/116425281052678132759
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjULHlZoFLjLr9rWKd0KQSNbaFxAi7HLNE8z5t_uwinvgHWqiKQWXQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_oPrd7gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_oPrd7gE!2e10!4m2!3m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479
+  - name: >-
+      places/ChIJ5Zl_27Pd5ogRefR2AEF_RjY/photos/AeeoHcKdtEolISS4SIu5BnEVcOAQuSgptJUJBu8a2moTdT4KUuCXvvZSjVEWKVgjYBqye_bE8pKiklDwUVJ5UsjU13nXoMv2KnVSHU4gNEhoaCo8len7QzIMEO6jHyZtAZslIN_4u2w0oacNvUxzR0LScI2us9iG9j6PPLlmAViZGs2_1_ZOKqU01m0zZSYSwN4tgYrhZHnxSqxKXWVwjcThjA96b1uvPHkBrwn7hFruigxHlyUUagEQBgog2wnZ8cb9i21sa6Vbl90fWHydHm-Rz_7szJfGTxVl9HjMhTSuZenfAIiS_Dvm25vOV_w-g5TVlI4iaS7_sXO65dmMu6SwG64yYdl0H7tuxea0P8dNLJ1gncTIniDOGD56dLjX6BjYIN3dTX8mNH07TleYIa3IbtQdSZyG_mUjO1859tf1aM_P3g
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Marie Hamil
+        uri: https://maps.google.com/maps/contrib/111817662952818938293
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVAizQ_9CmLIGA91y6hEfsHOtqqj3uPFUzgcH4QTSMfzHlObKAjWA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQgpy-Iw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQgpy-Iw!2e10!4m2!3m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479
+  - name: >-
+      places/ChIJ5Zl_27Pd5ogRefR2AEF_RjY/photos/AeeoHcL3ASK-ugCsH2XD5n7GyS3l3eE4adT532kewgOx7x2f4iuIzgS3pWNX_mZXj3OkcwfWk1bwv_yxnN45RhtP1Gfc8R-m3RybSAEbeMU5SWdY79Lh5VRJrfRMztFEAZs1nMEo1uY7z3pXLxriW7_paUYg7uWYSc1fngesnnm_t2B6Idc70dqnNsP9et1qFJmVrW2CUNp1Uo1UircTTDZWC5br6q-7VRHsvPDHCHD4-4elsjhC2qDP1zA52K6ChX_45Ho_bGovfTyjgvx4z5J3WjXfJgxYfDcX7Toi6COpAJI8a11qVzncB2Ax7ohpzh3c_RyLLMH_ctRba011VfpzsYs907GteytmfMDbIddQjsbhkSC4keRBIwBmy4kCmNihYXCEJRTsIG4uRdfAx9CDcpt3tpWqeRLT7taYgvXtSV5ytA
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Robert Hermon
+        uri: https://maps.google.com/maps/contrib/100922462765767326925
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWf5mpshLqRB5X3nKSJ1hbAYQcJLmln_qeTI5ullqaOD7XC7tU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvjrjMcw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvjrjMcw!2e10!4m2!3m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479
+  - name: >-
+      places/ChIJ5Zl_27Pd5ogRefR2AEF_RjY/photos/AeeoHcI3axZ14In1fQNPmuW-pSq_H4ILNA4upCiCBMciLLWayP42WKNOo5HIAZ_GKFz5QtxSR0_BkMOtl8rVaIqSQ7vRIJx5KX07OwFEmtlrSo0aviE-HuNYy-qNyF09OABl1BASwvjVkNCDa2VKpEL2-yC3nnEvJS3jn7akgLUlkoSasSuAvzVWukLVMEXiUtlnuaaIBj0R-DrL033FcHLntUDgcr8ALsq_Xvwox8zMs8wz3geWVoDU22sR64KlylF3O3WDuLIhzxgJb6qdaiyqvuf6yd3mbHAkC1LdsGB1nvOGjA7JKSseGRtm83_npneVM0vEu7nGHQqJOzgQHBiAchf8S1lhsKxSzpbESN5IiL-fQvcKDe7tfaV-D21G_WqyHCeOz8IxQuIPoGFiLW3wwgQLkxvX9hmfQhgxvQ9NBZsUcg
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: J P
+        uri: https://maps.google.com/maps/contrib/105846347411714166422
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKKWU38tKrVxbgc8K4cj80_rYxURk_BOzzJpkpX2_4lVh03YQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLkMPWRA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLkMPWRA!2e10!4m2!3m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479
+  - name: >-
+      places/ChIJ5Zl_27Pd5ogRefR2AEF_RjY/photos/AeeoHcKLShMM3tXMKN_0EEt-4ub1mAJ-eSbpQTGcu3eO5jRi2SstXr3RAS9WmLde-YFxl4TnB6KDHQJTWFGwIxAfVviQYVdXPaWAUk8M3hwOxJSJcOwivYcEE0YZAcjxqWwUZNKwrgQ4p4Pwf_kc5AO4_7TgN0RqXB9kp4seo_PgRLx9LlXiCNexK5HXF4SPywcdktnSzckGzd26x7B-odryrsjtQ18bjG2oT0AD-3ksDHjZPg4JxLjaLN55AdEUEtJqQ5Jln80o5qNQSxIM67A1hbyy2pTCwJPEwNVChw4uZWSJn9Ylc86-ogYrwP2MRyKDSmqXkzTGK-ONjSIOSWnx__rFOf4ugL6Bxsu6FxzwvrjIzY2s14PzlykynMGFFC8f4_Cr6LMg8Yw7g_G8gjiis1GjCA_wz9SUizcjx8mcK1VFeA
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Vladimir Oselsky
+        uri: https://maps.google.com/maps/contrib/102946164640240599738
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVB3GkWTAcODRN63ySX_YlsFvkMIqdq3UbQvyKWQVdQS6yekdhh=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDO46C2Jw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO46C2Jw!2e10!4m2!3m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479
+  - name: >-
+      places/ChIJ5Zl_27Pd5ogRefR2AEF_RjY/photos/AeeoHcLt4hV_GbylUWnFI4gDZH7e0RcZPMbeUxPehvosou0seadNmig3Opkhg2niT3MozRRMo8-2kVJ8zBRB7YUYcNVrvpPqR7wSaGAwlT43ozucEJKU2EgRVwo7ciCCzWlWvH0I2U5LkHVddAeGK7yPiOorHG7PrCAXMvAP6EB64PuMrG_9oWG323HGQ1UT1MnY7xXXmXnfSBYWfvZ9_d8Fbp_lOXYZ1wiZF8HvQI4e-vvoLcEgG-HdkQMcOGRdf4ff7Dy2K4gVTwqnK2xphwvAJJZeRyKwvyp5YS3yJRwkmOYqwB53Fju6ircjFTwMOnLhitb5Hgkqqq6QSV5IdsSPbheB643x7V9xhCArWJXaMFLoXzOt5i2WncPv4J-2A65Ibmsja64ocfXE8rwupDXUIIMBolu0Wds2kvmtRE2u2KDrBg
+    widthPx: 3998
+    heightPx: 2508
+    authorAttributions:
+      - displayName: Dena McKinley
+        uri: https://maps.google.com/maps/contrib/100663926642705648434
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWzjvtTF0YxRrPcdi78piTJ_zO-SdSo0LOgXjmOTWfIRUCBHuw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzwJ36VQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzwJ36VQ!2e10!4m2!3m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479
+  - name: >-
+      places/ChIJ5Zl_27Pd5ogRefR2AEF_RjY/photos/AeeoHcIC97CUgQQG5nypD-wW_M44_d0a6-WUdGszmmcHhzE3iijG96FzGFCxpKe_EzS4hCkI4j_UznjXikpoypj4cRl-_op_LpVSqibS1NsgefJhnuXcXq8kfdOFpVrc-7ultpgicVU6DCvTYjT-eRxo_ABpGhz5rYVAzxEgI9TvAg1RjF1Hhl9RWehdh5nQtzD0AICFGeeaX9IQ1E60eYi5hbg1c1izKc6g_XM_iGf7SCnz0dObz1yTelvzM7XorOR3soHWevtAogJ2QkgNLs_Fbs_FbM4_7LRHW2lRCL9M0568tDjJuGyo_nzYhcESpLlWwg1hdmwfEJNdHcJGdeSxo3AoAHc9pvau5cL6pqJi9AX4nZN0K8_Z0ukJMLIoqj7xub5PGwASUvP5Y05q_2JfQ6YnUk9fJ-f3ugidGwUQ8qYdHgjJ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Amy Donnelly
+        uri: https://maps.google.com/maps/contrib/114689861129363912512
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWb5efOT3Z37R1c2jXAIEoAsgUAXzACflSvpQeP0Zs5Pp4MrdHcPA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICpkuXAhAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpkuXAhAE!2e10!4m2!3m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479
+address: 1115 Cornerstone Blvd, Daytona Beach, FL 32117, USA
+street: 1115 Cornerstone Blvd
+city: Daytona Beach
+state: FL
+zip: '32117'
+country: USA
+neighborhood: null
+latitude: '29.216684'
+longitude: '-81.095111'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Wild Ginger
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88e6ddb3db7f99e5:0x36467f410076f479!3e0
+  placeUri: https://maps.google.com/?cid=3910953243575252089
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e6ddb3db7f99e5:0x36467f410076f479!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88e6ddb3db7f99e5:0x36467f410076f479!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e6ddb3db7f99e5:0x36467f410076f479!10e5
+primary_type: Asian Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Wild-Ginger
+
+---

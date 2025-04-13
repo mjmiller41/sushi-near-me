@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Oyama Sushi"
+permalink: /california/walnut-creek/oyama-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Walnut Creek
+place_id: ChIJW5hHt6RhhYARbte43vXdVdg
+photos:
+  - name: >-
+      places/ChIJW5hHt6RhhYARbte43vXdVdg/photos/AeeoHcIjTN6IZR_GI_9bTSvH51ZIBLO8Nn8P5d29e2CrMdoYa3YcGlgT6ihsjkrqT1EwFBZlKCh3r7-4zEO9yAFWvLI4iCmJgGFNt7o14U-nm9YuUQfnBJfmKfWzrYeH-vXDi9iPBZeW7BSVNfgvDdzqsOXTxnNmjE_meJllGjoXObD8DS3AK3Y1fRH_jT-xmr0eMtPQCfSqonv7tsRhOje21ch8AeAD5eNEvaf7NM2xel9lE0maXJalbibZtCgpS_SuxpAkNSGNQjMJ-sgQH_h8YeFUZDHf9PBHlaRh1kI9NJhAt60JkAC1a3OM0pqQy3XCnmqq-Qd-IfZHws2cZ3L_-m7TplycbIZURxOUqfLYgTSOcLgF-lzZ14dKZw_qBbOjPFY4RHXTWHsEGUhpMpQKcna3rrkgsrdx4pa1Mi7NlfCDeg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: jing alton
+        uri: https://maps.google.com/maps/contrib/104815119937962920659
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKUprEby5eqw544SMn8fC3Ma13o06uYZS-rT0INK6ixZTaCsEPz=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_yui0DQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_yui0DQ!2e10!4m2!3m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e
+  - name: >-
+      places/ChIJW5hHt6RhhYARbte43vXdVdg/photos/AeeoHcItfnSJzuGoMF4bqc5394KnEGa63ekH_lRYR3G0YriInlNNnaE9o3v3_LyQZkyaePLTZkDwyXsDIpsWc8sm3n0p6DXHUkkJ4WY-b6Snngk6GCHrXw9nDV0FfeRTrtrMmA6sQB_qE_xXGZUfsN4goL8NSc0gVGHw-AgszY4TfUzHWB6Ybmb5mqrrTGzDEMrXti0ZoZXOrO14WnTB65nD28AIrI1ZJBWt_eFBgq3hgvn0cSjltfXLlKoM2WviP5rDOPAqgazG8dsiNCbI1aLDXxAWVOT-6qS-uTIkF4UIn4LPHx2-pzncWuHjbAaKUIukThP4wV6ZmrxKf_SpGCgOGG1pcQC1G7wytDXN1NalyE8K9geocSPnqcyjZjebpKEqIxq14ah_96MW4Ps5kw26B8NLk83Nd46-sg3B7JGbYAexRQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: SC
+        uri: https://maps.google.com/maps/contrib/106819457527126259565
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUO9p4wPW2BOfU3Vhl_ncvnJY11Z0h7ztoSBKCjuUjdU53FeGUg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB_7XzQA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB_7XzQA!2e10!4m2!3m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e
+  - name: >-
+      places/ChIJW5hHt6RhhYARbte43vXdVdg/photos/AeeoHcJFoOzJ_CjGdE7Rz2eJ0wMyCcC9l_ZxMEgfTn03phP1lm4QBMWNtlAXfQ6faRGN7e0im4pHFlOGYv80F0eFheGj4E93TKhbNnYCkBlirXvzyBUvBZYX9kYt3xobyuzghITiCtf6Y9tZMdP2Kh-8M-GwpSNJuH42ChxKrSlkpEVqveik8WmmsyVv_Gr7qRMLdfx543_dFRm63Ea78V983SbBMML18FDb73ol3O-WG5UgR3CE_oErslPkxhjWi3nYmCddFQa6SDgYB1Ywv0tNnWK2cMjwUfLeTMa_HUbdqh92rPJHxWe1OVzfXFvkKTNfvARHRKTl1BaY1Y42nQQQalkhmWYPforLSBQEtWpHmH_ZHhkKQ_i0QVfVTbMDFm1sDUoXEl36Ha4FwWTlFmzqtJXU78bl46D4qLv2eCmmEcP1wg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: KSD Ksd
+        uri: https://maps.google.com/maps/contrib/112724837088686024886
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIv3RCDoEBK6Zoumi3Ig98L7fWzjfpIrAkhXTEMGwyVq9IifA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDei_bvFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDei_bvFQ!2e10!4m2!3m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e
+  - name: >-
+      places/ChIJW5hHt6RhhYARbte43vXdVdg/photos/AeeoHcKkPa4bmYD3aHgwizNDW7V3HHOLw3cGDYFoHyK7gWpJU0nhoZp-CFpBzDEMQ3N5_xpwhrcIoVFLPUzZHUKQ5JmVz7fVy3cWWvUxkP7FeOv9gbDIRc0cd82yBlYs0Mid_4p1yDX3ehmfW56EX31bK_3uuWMZvjWBonZr6CNwptRsftb2TP87aRAzUS2FOMMEohIsYQ71kgTeM8R_TtqAn82DBuM8YKRwNAFFDUtjz77zbF1Ec-3D-xYmDhTg7ub15tuqukEuoJe0ZatWW9xW27cJhimeh34Inr5ICTLrGN5OeQrfz2Lg-kMXIoaNpBdJ5RwClG-LOc4U_O0AsxCHfwN8F99W1cUdE9HmR2jxCBScJEOouwnQX3fEOcBCY03lL25ZbyDUu-S-uie5PvGKf6cl9iCBUHKozSAyH0Bkg5aEtw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Daniel Yermolov
+        uri: https://maps.google.com/maps/contrib/115684758075250638781
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXzhiQjspPksQyY7A56bu2DPPghA6y-Jx6wAYzNKWVLz3_4NVvf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQoorYIQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQoorYIQ!2e10!4m2!3m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e
+  - name: >-
+      places/ChIJW5hHt6RhhYARbte43vXdVdg/photos/AeeoHcLrkovOBX8zmPQcyoXES6dO2xb90izr82lCPTfEz9ciXZ0aAn0pH6n2Sbm-9sOFxazLwPwe90s5YU4IKkdw_i305pQgYQgpRiHy5lT9Z0ptmTPqiBMDM6Dm1O3ZSXF1gfCbPZNW9FZFvHcxO3H_uJWrOWlLVHt4ymk9vrPkG_gaYiDecZNuWxGWGC9HRP3S2sKOpyryOMoHQxMB8uY_k85zHFApyzSUufzkIAiaKz6PU6rDgaf-YbaH9MnOPqro4HnSctpafa1DO0-A8qjGFXQV3jd5bvq7BQliVLOlaiH2snjEhVeqEpymZMaoeYv_TtlE--6qrgB-9Lzf4aDKIzOyY4E-IsYmqZd97GkHALVYW2yML3vYY19I9eSG_KMbR7eROWO3Sv94rVX2pda2rNp1jH3cqdmRVu4S7-rnfzU
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: jing alton
+        uri: https://maps.google.com/maps/contrib/104815119937962920659
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKUprEby5eqw544SMn8fC3Ma13o06uYZS-rT0INK6ixZTaCsEPz=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID38Z6wdA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID38Z6wdA!2e10!4m2!3m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e
+  - name: >-
+      places/ChIJW5hHt6RhhYARbte43vXdVdg/photos/AeeoHcJ4LuQfgApxBC9RDDQYyA0VAtNg6IYZbGa9RYe9HDUIq-95e3JD35arPC7tS-jmKxxNI17UUfai3DbCD0qW321080Tyc3DFdy1iQfIUDMFQGBh9Tqdwb0tg91PR9MBCmAs--vxX86FDwMkd9uCxxqSzEVF9y-byVvhJBp2uhlMRLhMVOgc3PBvxnlWymqW8-D138Vdc3Q6eEpeJrr-PwwUJtSDugfCkkjDboZ_YaZpNXbKANdcQsGW7dOnDHbDAH66eSc5rNQgFoZWcECw5GMfcdrPfn1kFPFpbtJ7qVuokKpMg0-7J-XiFxps6OZ-kwg96ExwNIHLoD6pns8NtprbnJ7oYfvbNmBUt-JjMXWPiAcUZivwB0jhp8zE61e5evrpxCljAahHXA64AApPbB2mFGc8R5wxqyWQFt552SnWIDZQm
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Igor Djuric
+        uri: https://maps.google.com/maps/contrib/118018254911997411579
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVR5vJZ8gAMLdwxu3e1Dpt0z0T67TsNjZBn37scRBW-VKf5DbOr5g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBq6bE3AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBq6bE3AE!2e10!4m2!3m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e
+  - name: >-
+      places/ChIJW5hHt6RhhYARbte43vXdVdg/photos/AeeoHcIwx8aGopYfpZ7B4hNFx-uN9h6EJTB2OwweiXHc2FWvXRIsYQIE2yuEETkv3d-1qjHsscor2AMEEZgBhiMCxpeloFfLZLhxGyYHTFFA1un5N4AcDUS4pDsPwXXphZLUWAVQTL7b79m4fV_la2MCEUvW6689yBjmpu5buhr84Jzsrcg8FDQE4t8wvjyRvQgeATOvLHNn-vshg51RvklhahE8Z2CogPwVCarkng_fzdr6IS07c_hAdRgYkHKH6NF3joTKSQqmd4IWMTWlaIyu7XP608wykFKmCCdSyAyuBDBEkiO1mwz3B5iNn94ZaEeG70k_tUMFamq0yPIYR4WW__6DvnV6KWO0vXkFVvdd8dCLjwjZYogsAVthj5ReKhAA7qkCmAKkDbiQMK0sjEv189QJU8szv6ho1t-OVR7585Vvwg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Drew Hinkson
+        uri: https://maps.google.com/maps/contrib/111248136125548291873
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVvDrTYjZ6ULiKD0_ZrUe2cDu2_j3K_ygv2EsUUMkgWtLuVBJ0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID5purLBg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID5purLBg!2e10!4m2!3m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e
+  - name: >-
+      places/ChIJW5hHt6RhhYARbte43vXdVdg/photos/AeeoHcJR1EyGAhLFpXJYQFBkLcighXgeF0sBMnsAMTtHIh6zB9PT-KrMMc1Bg84cSJ5llXidlMGpwSV3Xz5s_BrlOxVc1iCplsFjnJ6lHaYWQW4RIEfSlirgPni2tvTqCmE2LkHJW-DlBPonN6G2GK8h1UO8wI7BVRNLBPWGIRJKO-16KQW5MyjVbnhPbkKfLfIrXQ5WcW_8PimC7MWLfas8_0kMpj_zZYWjqVPwzyh3v1mluqWt3KH9F4UJ5g4WxR07_kP9XAqjZXlqT8W43TsrjM7-vBDHqslNLHVAY8bhssLxYZP1xALcEQ7E_Zp617wd7ieq7lPv36dRsuX1G3PyCxeV0U_rHLSR1cyDUdBEPSJ8Z1898n4sv6l0IfaDubV01HGzjIyHcTB7GgqYnmoiPZqVo1XDdBdhZberICs2W_gGBQ
+    widthPx: 1848
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Farida Nelson
+        uri: https://maps.google.com/maps/contrib/109760696235148110704
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVGn0qPJLONCQZqd-yD4PczyWfYv_fkSzRUPcVJ2Brg-Y5O-cOPng=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpioKbFg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpioKbFg!2e10!4m2!3m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e
+  - name: >-
+      places/ChIJW5hHt6RhhYARbte43vXdVdg/photos/AeeoHcKExovcWYyHcNpCdHo0BnnlLmMF1pAd6knPpfVNAr2AD4WLfu7p_QHkLwzJvq9YGA7V0kxMAs8N2Csax_hBOi_dUpOYjuSZE_qRBiJv4ZoxOnaw2gQzW9g-TWLMtU9nei0qTmn0PYzU7uQaVccYpweH5uli4MsCxItHIQP1_fye7lkXcOzWLDEBjfeVrxtOw0iiJHcUyRoLHnZ61yKiMyd-I66J7_ddkkpOboB7ei9Po5KpHeONK5UH6PKcQLYCmAMQLmTAfdAcUuqMIlPNtMG7FSwXnefSBlfDwygjXMVwT6e29uiqzS_zs_TVCM3Vo3hYPYclSY8lF9VlIkRrXCxGVQ_-si2YqxDa5LM-ZjuGhsG5tRQSCuZ8BUYcqE0G4FoFI1nClcSIyWfLUVELlq0n-pQe_mPPxDqcZItUpLw4isw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: SC
+        uri: https://maps.google.com/maps/contrib/106819457527126259565
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUO9p4wPW2BOfU3Vhl_ncvnJY11Z0h7ztoSBKCjuUjdU53FeGUg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB_7XzgAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB_7XzgAE!2e10!4m2!3m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e
+  - name: >-
+      places/ChIJW5hHt6RhhYARbte43vXdVdg/photos/AeeoHcIvb7d-qMm3C-F8eoyXt8s1RpGqFfUpvTeIiuk5N7ELncM4L7Yhu-9rguePf23EFjXj8S8RX1ae5ckWeKUenxCLQzjjaVUFNK9hA5oPOSf6Uuu_FTbSgE6e25G7pQrGbHvO2PwE-QfYAvIaLMqGnN-MWPpSM4T-DULe23-3JDrzzeejGEL4JmE_6rDx0E8LJMn1__YpvIvc2yt4pVPEw-BZdHz3cKOoFocqyb37No5n9twXTPjAIxlYK7jepa2guO6kiZWL4i2pTEtQ57kZK6Ynx4ky-GQk88DfSFDRe7kl0e-BywhG8tVH8xPeIDD_IyNb7PQHE_Bcis8f_ZedPC6oaYVkdNnNgTaXPkVo66CMIvBoDDzL35RfUb0PSIKQKwXOgFCa2p2BhlGcJ-58bTYyLFtOt4-587wAHCkXGrI49w
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Cindy Chan
+        uri: https://maps.google.com/maps/contrib/109208913003492471753
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWjbofSrVK4q82pbgCOXxQ8qSQjIgnxkaAQ70IXTwvu1EtquDRmLw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH8LycUA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH8LycUA!2e10!4m2!3m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e
+address: 1521 N Main St, Walnut Creek, CA 94596, USA
+street: 1521 N Main St
+city: Walnut Creek
+state: CA
+zip: '94596'
+country: USA
+neighborhood: null
+latitude: '37.900270'
+longitude: '-122.061439'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Oyama Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808561a4b747985b:0xd855ddf5deb8d76e!3e0
+  placeUri: https://maps.google.com/?cid=15588609733286221678
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808561a4b747985b:0xd855ddf5deb8d76e!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808561a4b747985b:0xd855ddf5deb8d76e!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808561a4b747985b:0xd855ddf5deb8d76e!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Oyama-Sushi
+
+---

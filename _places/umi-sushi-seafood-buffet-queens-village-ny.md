@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Umi Sushi & Seafood Buffet"
+permalink: /new-york/queens-village/umi-sushi-seafood-buffet.html
+stateAbbr: NY
+stateName: New York
+cityName: Queens Village
+place_id: ChIJ58k0dcFjwokR-LPExHJ8RcY
+photos:
+  - name: >-
+      places/ChIJ58k0dcFjwokR-LPExHJ8RcY/photos/AeeoHcLyAa_UEtr-2YIbH7_OmoYtKfQIjo7etmCvE_EXEu3v3ZO6IAX8m3fpc7UI72luljeGTNLts7PLP-w2j6AZh8d7Lz8qb_FmP85z2-b1bMUxEzAPEuoMJ8wdaB3AoTE8fAwz9Ke_joRNusgG_yigq8oDyOmlYSrJl9HQZ-DHU1SBVJSsER7Zw7r6SfYg-Joe5kzbe7SV6jXs0vJzqfG2NTtV-O8FCTU4GWohPXZsySvPbQRutHCGx1Ko3S3SIPO2PE4A19Le0W7Z8RYsd4Px-ou5MecU-8j9zMWIY8PnRodtFQ
+    widthPx: 1276
+    heightPx: 1702
+    authorAttributions:
+      - displayName: Umi Sushi & Seafood Buffet
+        uri: https://maps.google.com/maps/contrib/113056661290501531796
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI659nKuN4QLUSrC3VQPqkwu6cxtxGfR5P7vyQqwGzl3sShNg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMFd74PsZLBvqZF93Ual-h2WmPpDIZEyhEy7yF9&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMFd74PsZLBvqZF93Ual-h2WmPpDIZEyhEy7yF9!2e10!4m2!3m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8
+  - name: >-
+      places/ChIJ58k0dcFjwokR-LPExHJ8RcY/photos/AeeoHcJur20UeXihTMjAdPmoxkrxiBI098wYyYKm7AcyzeiNJTzpmXJuJs2PSxnoaJEna930DFgp10NlcQBqg07CoOnhkV6NZMdGPOa-I3yGWjjaAd6_iUzzRnNZTRIhvQ4_p3W3LgETk7hGopDOHlWdlYNG1I5kknBjp9NIfvzNngcJHiZt2vmTT10LBwBn6ARj-XxzYaSPsqIUB5jp0zsc_1U_ASZUNcxxanIE3gi25qeSMotBTSt-HbDxgu1MfRpY-GVUfbi8-FRLExj8OGC9MbgnwZB8e6ngub7anfNvNpn9PMH638plseZ_fuEnNAb-iH3BhvloQ2CnLEA64NijkDRPQPHMLqGoj0OSWAUh9ptO8PA8cH4TSLRRtaXbGhVMLJ7JWOj-9FtI83eTeL4GG6ATdRv9DvEUy7CGl6j9XSkMPaV6
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sung Elvyn
+        uri: https://maps.google.com/maps/contrib/113644946760724029768
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW29uOqtc8OKXWUNvuuidiBcglV-OMbGcysWyIqrHqxnmC9-w09WA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ5_u3jgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ5_u3jgE!2e10!4m2!3m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8
+  - name: >-
+      places/ChIJ58k0dcFjwokR-LPExHJ8RcY/photos/AeeoHcIm8UMcjXyTQmhMMa015wGWzoa_0VQcTomgrA6ykLvlUXWDlicqkQyqYrzOLYIxv7xvffsPaDrnVemev4Yyfos9Hn22cN9wU_DpkR6VG6WZQ_ZvDv7nC-ZNtHLajGHBD0BbCfaLcxrWPr0MQO9YneMV2035zBI_g0p8kWEZO7pMJpVneh0ln7yC1G3kpQz6wtXQhiP-0dKfKwxhGteyqW40hW5QDW7BlDF0Vm2ljzbgo-XUcG-VWsrdBTnzXNQXFP1NbwOfdXMAxCFQb6JuaWJMt3JS6xvyF3HJkW18sSafZQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Umi Sushi & Seafood Buffet
+        uri: https://maps.google.com/maps/contrib/113056661290501531796
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI659nKuN4QLUSrC3VQPqkwu6cxtxGfR5P7vyQqwGzl3sShNg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPEpRWKoO-Xys-PkJ3OLERegjZYVoys5UR6Ci5J&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPEpRWKoO-Xys-PkJ3OLERegjZYVoys5UR6Ci5J!2e10!4m2!3m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8
+  - name: >-
+      places/ChIJ58k0dcFjwokR-LPExHJ8RcY/photos/AeeoHcKWRLIa0YsuPj_y4rCs7XvDNTnG4Y0vQjoSdG2ueiUTRpkHPADKl63pxaRz7C1Hf6GXL-kKr0ig8fVHGYty7S1mKyBil3jWylypbuS1YUo6RR51ECi5qopJJ5ZhKc3Rj56Xl-M0nis5Dg6xB5lsNERdE2M6SwGk7w82taq-1_4E0I0lYBz0N0VnU1fM-FXLI_n4k95lSwBsGBTCeTu5C3hb4x09tXrvjF0zzTRwzYb7ctW4J138dfOMExTBfGJ3C1gaZEXATUUKqeFzavT5NewZj85hi1jheSmA5jnmzZK3nTph9Xd0tqMpSJbX1Nh30Ngaahkzv2RSk7VcGJRn2HNdDGcYutR7jl90YHMZoIeZ64Qvaob_hfv9uT9-s2qeJzvocDgLYuOT-Tsq9Ufa0Ddm8Pt4knYceFNYRPQmTSypK3dNI7ohI9YSE__iSHIr
+    widthPx: 4000
+    heightPx: 1868
+    authorAttributions:
+      - displayName: Donald S
+        uri: https://maps.google.com/maps/contrib/105865958312811091372
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV7s-Mt8jjQogO8BJPrYsEhXEq4Kgg7rM7H6B8y-HeRvD7jqB7UEg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzfSsoN2fuKmkABxsQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzfSsoN2fuKmkABxsQ!2e10!4m2!3m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8
+  - name: >-
+      places/ChIJ58k0dcFjwokR-LPExHJ8RcY/photos/AeeoHcIOWNS5ZC4Bczcggm37DNpnUJ9C-DTumHaJ261XlroiF_SMX8psacM3EGS_E6DZDQ-D-H85ZkRUsoPI1LVOsG-mCmbb8MJCcwPG-2Y7slYeH9Kst2ksBhIJKkuoKVvPEKImiUWyAXhWmc3ZKkUFoHig1dCpW933RdpMFp-l5lA42O2r-_FfDtXpMBa4hyOaJt-PDypSWn5ff9HoSzARfMQtRIejddeuJlUznaDUm-jmxTatRulDdbBEMxeyINh-439FLq9_GqR2fyCvcq_im_Q444kRsOO0tWOyao3IzCOX_6fGotd5oN0bESahUv9WHOkvzD5QHE8fYzUrFumKKGKHIfCcZPaCJMcNx6a9Ef6jota39gu6tboXIE4FpWbtivGHXqQ9RZPZBHKMeXX0OLahK9JSJ8ccsjgZPFO4Kyz0DN43hWNpbQk8I8VUj2qR
+    widthPx: 4000
+    heightPx: 1868
+    authorAttributions:
+      - displayName: Donald S
+        uri: https://maps.google.com/maps/contrib/105865958312811091372
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV7s-Mt8jjQogO8BJPrYsEhXEq4Kgg7rM7H6B8y-HeRvD7jqB7UEg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3ilW_zCzmWfuKlsACPt1&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ilW_zCzmWfuKlsACPt1!2e10!4m2!3m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8
+  - name: >-
+      places/ChIJ58k0dcFjwokR-LPExHJ8RcY/photos/AeeoHcLRqmL_LbdsSxHlzAcKj26bPRedPNhbK4jEoyAMow1xNJjgGH4vT2mZ_gUmZUEaTIgvg3mxu2t-X1aQlqpaO0NV2V_3zFITg1QL_Ze9H5LO7IpkGyQgjK2YK9pTYzW2SUqpU8166ZkJNRGtDb6DSRjaiGv-e7QEiTNgGtAsK0TlpsCrAtH53NCU6XKLtZNFJY0cBFN80pWztdkx0lguctCoiK9YvveyB0704IV7Hm1zrSFgCq6T1Oqv21GtmAip9GEN7HXVgKmlaNj0fOZvvmQfyz0td_1zmGtRtF_A-YmH0FYPXeO28eY6GArRV9mpWYVhMH0SNijmgjB2nMMN_quXt9rr6akqGAYhpRdWzkRKqRCFAVKBz_fjvZvOiZ0xCYzBocO5WNZC0eYNoOqFShD2DnfRiDoPV6iTA8aYmwCsEQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Anthony Kwok
+        uri: https://maps.google.com/maps/contrib/108521741126661743642
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKihlhDxUTdvtBvCR7wilkJrYsCxtRyGZpvPE_oamu-ij4hmg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfodHpUg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfodHpUg!2e10!4m2!3m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8
+  - name: >-
+      places/ChIJ58k0dcFjwokR-LPExHJ8RcY/photos/AeeoHcIH_EFkLEmnhfrkVCtd91A851O_tHuNTOwcXuc1w3hekAFmeOF9nnjl3Buy8OMDISE4eWopLnnidmHxOVDmDYpiZUwsyizrSbbuYX_N_SIDULep0ABTU92hXdN0CCqSlh8-FXrLWOfVUZuD53IAw0j-IW4kyP8DVXPTKqsPjU0OoFkCvKRJs3c-8sVfrSzNPK6c5dDTmkNxAZtCv7Y6pIW4qVBbBryFaxk05ZoTt6yqpxKZMox4s5lgtd45ID2Mj3BwdOXtXz-cZXtcVP6iXH-Em-76-xiDYuVXf0zq1RP80mpKj4-GWHsyYMNZvx-migsp_a-tNpKn8MS4DGcYykcTGLELDPYA3ns8nGEYMcFuOhUGya9sZgjlNf8-8IW3YAP9P6HfY9GzrfiycmKpgrDtDV1BTx27q8GJXaNO-0wJtQ
+    widthPx: 3060
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Tonette Urian
+        uri: https://maps.google.com/maps/contrib/104644400388840001857
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWZ2BWeXdrzI7N2bQ9GsjbkQ4uo1ll03QAMgIVx4ZJT2DUaXV18=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfk-vgXw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfk-vgXw!2e10!4m2!3m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8
+  - name: >-
+      places/ChIJ58k0dcFjwokR-LPExHJ8RcY/photos/AeeoHcL-P-xb5fmy98BEzVA-MvMGAeHsQ5zTI-BZg59za1UMIy-eZGoBh74KDS1j3MRJE7tDsNuI4sHjYnl-Qim9xVr8lZ962sFhhXkC8gH-7NbVRDv4R0CRDzX5z8Gl-vB5_J3u7N8pE7VKZIFC8Yu7SWKkOezSFAPNM3yatygz3CPQUDDPK-Z8MlLzlaEeyfVTAuNddgSLl2U-O3GW32gcgjFmbH5WoME_H0QlePz3vOURWINV9zITUJuYJMiPbnF7EdrHURf_tQhsA6uqIabn8cMuUkDtuenNeEYwJOYCOX2yHARBvljGhqchTry0-bKPNUb27ydD-paVofodTvaEUxe6yzwX4bPFMYvQ9SMV2zmz7VvQOKk_m8IUqWUS2H5WgoqSkSfgo_0fvp13HMOwW5iU_zHnGdHw82F0sLTsTjy4yA
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Hailey Kwok
+        uri: https://maps.google.com/maps/contrib/105826490160198777190
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXWplfHDRAe9byZnIOkluXEtP-6VnkY2onsZB6y5ZytfOYrQHAQYA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfoeHoPQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfoeHoPQ!2e10!4m2!3m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8
+  - name: >-
+      places/ChIJ58k0dcFjwokR-LPExHJ8RcY/photos/AeeoHcKtUtUqWTHh69MsIKbuGvhWW0vWXgjFlECRW1vDATEHay8vNu_OoiYNRLOeEBtYvpFh77pyf6iz5ZsCKU4hXM7sdpclh6x8nJ5WiN9JF-fycBaC6x_elE7aVXyO5MZivTTjt8xM2nZSKRotahQmPGq92Y2rPEJ56AaC_A6JqCbOc9eCxRwDRSfQ7BQ7f343x6aLqLYbeaVw1Y4-fDz14At2S62gA30Wad4mb6KJeRN35YCsXi-7HDE1HR82WRnmVDDSHon6z3ze8GxTPFgrH2hORVLDc1QO6H1stEtPFpLK9xIXou61_7JRgs-dpB_fHBJz8oVVV_NaFNi47XbXZQFBkd61eAlflZortXTyoyzGNkwP79UPAzRmKpvGjI1dwrLFk-qWvHddURXWA7YF6FbRhBnXHD_2dK7EEYbuEgoOAkY
+    widthPx: 3060
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Tonette Urian
+        uri: https://maps.google.com/maps/contrib/104644400388840001857
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWZ2BWeXdrzI7N2bQ9GsjbkQ4uo1ll03QAMgIVx4ZJT2DUaXV18=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfk6vphAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfk6vphAE!2e10!4m2!3m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8
+  - name: >-
+      places/ChIJ58k0dcFjwokR-LPExHJ8RcY/photos/AeeoHcKIun6BQaUR7KK_oCfi6hnC9o5OsrT-oDpKgFCG8GkAzuIFj2M2GMK60L9Fg2T3KasolcuPsSXcuT4tXH4Xd33qb6XI5i3ORRJWyEpj3r_MUtCN-CBQLwb4h_uKBjsvQZOHs0MtOGb-8QlZrnDC_Rt8J8mFDtIaVsv7utdHzkrxPtBdBe9CY1nNWJYyx5We0ItSvQDfwOediLQHD4aPMYN7XGUAVuVEx9U1TIupVYjdTXjOowtMkJs-3MlzqzO5TtQgrQoytZloFweeShSOFuYgm6l-UyERmcfKkwLUpCUUAzEedpIfxuduzvvTC77YhVZTkaF4dNJhNsLloBqsneAGcgduXKs9PEvNmtI3NDhKHoFGPXLKpyam7FiGfi5t-WjPiSNxtQ8xpsaPe01t00JYOlpRH0IMGtum3Pgw8N62P2hh
+    widthPx: 3060
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Tonette Urian
+        uri: https://maps.google.com/maps/contrib/104644400388840001857
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWZ2BWeXdrzI7N2bQ9GsjbkQ4uo1ll03QAMgIVx4ZJT2DUaXV18=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfk5vfngE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfk5vfngE!2e10!4m2!3m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8
+address: 220-18 Hillside Ave., Queens Village, NY 11427, USA
+street: 220-18 Hillside Ave.
+city: Queens Village
+state: NY
+zip: '11427'
+country: USA
+neighborhood: Queens Village
+latitude: '40.730311'
+longitude: '-73.743143'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Umi Sushi & Seafood Buffet
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8!3e0
+  placeUri: https://maps.google.com/?cid=14286962225272108024
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8!10e5
+primary_type: Buffet Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Umi-Sushi-and-Seafood-Buffet
+
+---

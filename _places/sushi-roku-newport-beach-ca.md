@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Roku"
+permalink: /california/newport-beach/sushi-roku.html
+stateAbbr: CA
+stateName: California
+cityName: Newport Beach
+place_id: ChIJIaMuSobg3IARivqjjjbwORE
+photos:
+  - name: >-
+      places/ChIJIaMuSobg3IARivqjjjbwORE/photos/AUy1YQ1ee2TBYCgAFPs2QAlVj36x6MUqc9vaIf6mHh1b63794FGhZzCxl8rf25me2myIKnIbSWgoQyQ8YMfgbQiqDWxYprh-1xBjG-7d5q_mSiwiGgRbIEq8_eRbjAPeHa7f9ftsle_khp1bxdsnbKKs26SK6B1C4jt_gCnUKgIRgKG-p65qxguIy4GEUkhgG6GNkOR_lvmpSuOj-SCAjjunoLWOXU0SqVBCwc5XcExAbGiqn3tELgB1kpcv06MLFaoDr4tfyWXDe0a-op49293yDolmMWegOSlJvXaQhD7PewjQgA
+    widthPx: 2119
+    heightPx: 1192
+    authorAttributions:
+      - displayName: Sushi Roku
+        uri: https://maps.google.com/maps/contrib/110967953131652135003
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWCq7BUj82jBjfQlk1-Y9pspVfopRoVHNZFgRVgH_GGfIcBG-3F=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipORvUzsXyhJbK7Nxu2u5zcK2UWVVQRJVldhPw6Y&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipORvUzsXyhJbK7Nxu2u5zcK2UWVVQRJVldhPw6Y!2e10!4m2!3m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a
+  - name: >-
+      places/ChIJIaMuSobg3IARivqjjjbwORE/photos/AUy1YQ37cTcCcVsx9OlAbGSA-EpaNkHuzk6Uj7OVnm_mnL6UO1kBHQTs6QfTaGVqYx8yO4FOfd5qKqT2tqudgB8xVFRL40LcnhC8PcdNMN3gpnRHBEHNoEjNbW3WL3i8DEDKFPKia_M4pbyf5eItvvbMteaxp_URBBamwnPAraI9dIL83Fq5oHJWu1In-27qUKqwDFL0O6MRiAeG8A2lgfDDUgwnIkTxt5OV7zATWd_FRopWmgnXLV5bqk5QriBJrTkomYIR6mn7yMUjHXIGBsrFzPYQeD-omWz5_hh6I85qTWZzLQMSy9fyifyO-TBbvmzUtTUPc4zh4HQK8Pewgtzlonvb4fDVx417_nS1Gd6M-igZNrZMOjtNpwbJEu7qKbusVP66_FP8hmUsPTPXdwZIXQdRoes3kg4sYQ1_ERoX45vfyUI
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: David Finch
+        uri: https://maps.google.com/maps/contrib/103027634250785960938
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKvsqgfBt0E--L-J9IMEb5V5BGP-ED4Tqm-_kzAlKEQvBdESQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwkKqmggE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwkKqmggE!2e10!4m2!3m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a
+  - name: >-
+      places/ChIJIaMuSobg3IARivqjjjbwORE/photos/AUy1YQ3vcyECbDfFhbuqwEPqpJW4jVDAFL7ypW_gT6FCDd_lURzOz7ZtRzAo096dm1S1f49mOG4e4XBA8m6ZrwwMvKNUozp5f0Ae4dTuZaQsnV8r8jLCvYEYNqwsV7jUcUL3-IA-itYcCNPefkzvO8qyWNPHugW84884K8FiuSXy3qg4pQ3Kosne8YA3kWa_XgYEL4fT7ugWminTuD8LfBpRYNyqowU9ugGHghHEbLVJFIHGJNqEa404qkGxyNx3Wsl-tWsDPNCw2bb8YqUM21xlRKRg7jTGScmIp4SjPY9bSGumwQ
+    widthPx: 640
+    heightPx: 640
+    authorAttributions:
+      - displayName: Sushi Roku
+        uri: https://maps.google.com/maps/contrib/110967953131652135003
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWCq7BUj82jBjfQlk1-Y9pspVfopRoVHNZFgRVgH_GGfIcBG-3F=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPge3wnLywtunOgPENR5gt5J7CZrwMTDNNSbCKr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPge3wnLywtunOgPENR5gt5J7CZrwMTDNNSbCKr!2e10!4m2!3m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a
+  - name: >-
+      places/ChIJIaMuSobg3IARivqjjjbwORE/photos/AUy1YQ2vHGxOuriC6GyRsN3NZI2Tk2Sl1q_5_OQEANQdONyIItiTy8GRLKG8k5wbEkfG8mScVag6U50zDQSbeMRoPGMxmFfw1Uov4s0G5SuL2gP3UG38OpEsgYnmHlBHnRdNtcdPwZmSpDzROcnKaLYXE_nvMiOO3gm4GQuzSyW_K9A0cDq6qLLmp4GJEjdkH1Y1VsEjzi-korJ1LmigcDC5DGkXlmUkiBQ3NbwAOiSeqTcmE_9bJnXCLunFtHR9fMjJ75UjsUQhTYepfYt8-uYmd1iZrAuqGw8GXuP2Cxk5Mxtgj4fKf0etkMOwcKhis7K4_ttYiX7GtZtWjtgm7-F3w3W5cQAMmau3Oj7TSyi-7uph3LVxYxsLs_OMhablDWDPRp9dZHWio3pxp6t9Mf0NUlZAMDJkUNMYp-Zbg4PvPjyTRA
+    widthPx: 2087
+    heightPx: 2227
+    authorAttributions:
+      - displayName: Angela Mariani
+        uri: https://maps.google.com/maps/contrib/109091739741246142377
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIY-87JOwzKIJf2chzpqP3ioPt8oOrDsHaBUnlyGp6aQ-dMLn0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ44bgIA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ44bgIA!2e10!4m2!3m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a
+  - name: >-
+      places/ChIJIaMuSobg3IARivqjjjbwORE/photos/AUy1YQ16ehi-QWzdEAkivccBbjwwV_ercAVPJAPwhoYqxDK4rvgbMrpFcF7e7lfHo5xSKQ61qcmFqi4LGyivNWu8AKH5a8v0N5gBoPjWCW_3a7EVJOuaWHN-QRePiq64i1Pq2YNrV3Q4L_4VzGM88isBQA06P1thtBpuOJGV3JHWlNwgktgq-cCpnrd3WC6DWlFYBd4Nv3XoZ4btFMBdaBYWuWDdv8-82qoA58zyu6C_SZr-CeEZFbev-SeQm4RevFNEqLAzQfnY4Wnpm9J9JXOobaoakCeHK8hArx_wOwpXPPhJO_5YR27n6U5nvpsFlRwnPpjaquJ8VzoXi-Q3uMROrgJxJODsfA96wtoNPU6DR8VJS_YL8aqdRBaOwmVx0KXzkZDAXx0K1oocBaZcyKPPlny_r7XTNv2ZhkDGJXvIS7exSw
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: 王師（師哥）
+        uri: https://maps.google.com/maps/contrib/108467239522493623489
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXvBK4VTmFEhKkcBvrkNL-F3-sOvGicfSV959mKPU7j4BFsne33Hw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvzcHkVA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvzcHkVA!2e10!4m2!3m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a
+  - name: >-
+      places/ChIJIaMuSobg3IARivqjjjbwORE/photos/AUy1YQ0LD3_KIuEAR0zZSGOjbbgidREaOzDkAG3Z-suHnH0Ad6OEzBMifKNzzkfQLArIkMOuTnKsQFuFeA50ldfh-ddgM9yq-XoOBYOxowpw47TAIGS8w_MRHjMhhc_WIEsqw1QMm-WbBzsve1_dBMIpnZw3ve0dP891DVL07PIaSEu94KAvFE_braQ2a3sOVHDm_LTYzKptyZ4P-AzqgaKRaEY64Lbape2gCnrA6EOZXM6s2aZhTa2JnTWlWvc-d1i_mPHjSAkacWi33xWB0QV0XaRnCpIkBAhGj_uPPwFAOKc0QW0gpOLCIAsjbyc6PVOc8pryPqoGSfPbJJvpP2SIEFueHbjzB6r1fbuBbirQY2JuAowHpSCLmf77cRWjHNKazoQmeYYB-TeZonoJf68TJQItw4o9bT5vKaSSHIVzx7rR_PnO
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Suleiman ALAQEL
+        uri: https://maps.google.com/maps/contrib/113575877522266479937
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXOJuTO0qrZ7wB2wtp-lb7XSYetvlNYb-gGJNWwCqdXr4F1-s3c3w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDurtSwogE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDurtSwogE!2e10!4m2!3m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a
+  - name: >-
+      places/ChIJIaMuSobg3IARivqjjjbwORE/photos/AUy1YQ3_VnWh68co7LjyN0MRt3OTBbbJSKRY5bIBjuTTfXvKG7iWdIh6X44VcehWwbaOXsD3nxtE-yY3GsrgRKgOyX6TtICly4XjOCH-ysYiQekbZYqTi3GpJikX3-AhwM6MktDNKY1Dalf9CTGa48-KeQ9tHOxcXz6dk9VrM60NbH4sARUbpkP5fMr7mBH1wdSuI62ie5D6m21aYz--QV2E0yPVGlnaoEwnM_Cy8E341b_T-_NXO4EkkJ2wMcytMPNPCh2EgAhJSCQZ6j3oUtpjigkanNdKcQn8_4SS1xGJ-PYt47pBjJzafINqjpAuJZmmNmlAwN_aeWO8Sa8f98LUrIdLyuQYUuiIrbTuMOP-BgcoTUH9CqoYaOvIzkPcrLCB_K5wCUNF7Rqy5SpTdSl418AqwVTcgPQAME8PZxwbPoucNtbn
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Lana M.
+        uri: https://maps.google.com/maps/contrib/111592380000010122158
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLchJf_pDvaCKE_nNcdZHmTQb6Sp4PAZL5MxFEfGRNfTSRJGCg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvr9HVqAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvr9HVqAE!2e10!4m2!3m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a
+  - name: >-
+      places/ChIJIaMuSobg3IARivqjjjbwORE/photos/AUy1YQ3vVX2jDAjqQ1QP7eIouKaAsik8dmxBLYIQ_dDJt9H_bL__KMjCoTiYLl5abbM0xo-isnnGIXsaVztS19RGLWWakNVrCO7BrrTzVfDDTcRcaNTmQ_Ht87YjWY-2iufwKelJb4JifW24NkTaypABNu7i7Xb2PCdzPp1Rn_pZn4O81O7TcWE82ejSUZfSCIn9pO5y5nDSZpl1TCGTZFuxSu4DJltozfcEO6LIjZmC-Czi4ojaaXVkX01NJxwNdVQ2xq2v_4OrzcA1bjgTXhuEhjf2_ZOBMiCYzxqVWirLgeiXvVjC2JmZiAxDFybRNx4q6fF02fDu4eod2FuYDI4jsTZl88vgf2mxPujiIz1JjbSkJviQkQMdzjRL1V7hISodz4O4GXmOVzrt1gwW0qGVFTpoCV6V7L8KaVE9NftLpVfIFW0
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: nadchen
+        uri: https://maps.google.com/maps/contrib/112872998741125636356
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWhha6FiZ-__3D4kG5iBU0qFYgucasy2Rcm2OTckG5T_7FCk6GI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnkeWaxgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnkeWaxgE!2e10!4m2!3m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a
+  - name: >-
+      places/ChIJIaMuSobg3IARivqjjjbwORE/photos/AUy1YQ3_USIMAds93NttymDi_XoKdOFVN_tJrLEVsHKOOuKPJSqR34_5pL0yXvY5dIS39JhHb9eS87iOMy0w1qY3ToEke1zHMdiJJp2Y2ovH5bhWJb5p6ZJBvJooe4WPOx-5YjcxFOdMc9ZC9sjK6M3eq-FgVsWres7Itv8eiVs516f_mhq2ix2fQWkqkmkzIkpfGu4SlaN75sMniUqS37GyizAq8gkMjDnoysMg0eQH14QVFcELblzXceTB6Cih4u1KCezvA2lj-5Xjgrgw5YCtPARmlU69EOaZ5VR3Dmo72h3UTlbiyQ3vEqSR-xcN2t1B8WbpEhkErZmVm4_Se0j8ZalzWGBXTNsUaNl7bIOkXhJw0CxblX3U4xDuJqvw6itO5kt0quEilC-enmmjE2UX0SqrjvLdwFCR5uj2_YfFRw6ss1ur
+    widthPx: 2375
+    heightPx: 2188
+    authorAttributions:
+      - displayName: J
+        uri: https://maps.google.com/maps/contrib/113991139882030899377
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKtgVIoQORhH6ragOn4d0tZK_GWTMy1km96XF_A-bXIcZ7teSc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC918OLswE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC918OLswE!2e10!4m2!3m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a
+  - name: >-
+      places/ChIJIaMuSobg3IARivqjjjbwORE/photos/AUy1YQ2l6YM8J-CGhoKq9Pva6M0TxhVlOlFWD8GF6uN8pj2HL5P1tSKE4wtUisHi6UJ5waLatq6Gl8Y2OvZ0wEFUat6g-0xn5JdbS67xnTGH-zxhjvYr-ifZ3gStSO_9OY_6qNpgFNCVyQvTMc0UOFER700S7ba7A7RqBWdlqX2kBIqEXpjQDAR0F2aCGrRy_qCOzrR0IeTRFOpDB2yg5vrK3grXObLshnBydv1E42D0ertt1XSTcGzVZXv0YKVTWsMywm2vbcBm4Bv0jjpCrzRXOxUO3jzwIlapuAkEoNBFg2UC4nd2xF6rw8l5hvIjFKYaN-6isyBZjb66hqJC0Topbc6PGZlafT5-kzO32yoDPVAL6WIxU4TooVCV_6ADu_NhHvfWmwC10LcUAYuaPk2_7wPm6Yb7NnzNu9p-WcDBgxc
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Nino Kiria
+        uri: https://maps.google.com/maps/contrib/100893317040421095739
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJkjK5eitFqJWtfkTKrIqY9RDNDoU8__uLYmh-FIkidyhkBjQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbmtGCLQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbmtGCLQ!2e10!4m2!3m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a
+address: 327 Newport Center Dr, Newport Beach, CA 92660, USA
+street: 327 Newport Center Dr
+city: Newport Beach
+state: CA
+zip: '92660'
+country: USA
+neighborhood: Newport Center
+latitude: '33.615468'
+longitude: '-117.874792'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Roku
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a!3e0
+  placeUri: https://maps.google.com/?cid=1241287289429293706
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Roku
+
+---

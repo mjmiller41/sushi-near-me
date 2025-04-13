@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Miyako Sushi"
+permalink: /pennsylvania/harrisburg/miyako-sushi.html
+stateAbbr: PA
+stateName: Pennsylvania
+cityName: Harrisburg
+place_id: ChIJq_1MERDByIkRbicRt_2jffs
+photos:
+  - name: >-
+      places/ChIJq_1MERDByIkRbicRt_2jffs/photos/AeeoHcLB8kLF9VykOzBS9PTS2IxUzxlK8r774waQnNJzV_xu99Btk-z_9ufW1CnPGWsB3ZXl9o13bKkHiG7cWEsjOvnsDHSnSaoMMAu4IhMJ4wWVXRJMa1PrY9zjj3Tf188qM0_mmPhxMFnED_gm9h2aq9pL_1Vmv1GGVWptxk4QkSAVS7_tBz9t8B6_Li65AE3up83Qq9WxxMOcUKlOyqCMbfI2S5nVtve_PQ0nHMMzs-hoOQmNluELVpCZXHWqcBugyxBpMT2Pjqy_JI22zr_Vgfzl5bleHWUKjD9jogHqfaVyX4pDQKCWyMODDFgP_LZZ5e4iKRv0KdlKs8yJ5fgz4CwxVFonsWVSZpvBXOGUQwMW_8k3ZVFdYD7AExhjqakklm8Lf_Bu9IMU9jXztf2FhUTKpyxz3jx-sQlit8g4Ug93NQ
+    widthPx: 3158
+    heightPx: 1800
+    authorAttributions:
+      - displayName: R Houseman
+        uri: https://maps.google.com/maps/contrib/111018335236251140654
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLcj1MitlrNGOiCxvJAs6AmrTMTKxi0Bi3PmL41oBkAgu3hxQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe8efHWg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe8efHWg!2e10!4m2!3m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e
+  - name: >-
+      places/ChIJq_1MERDByIkRbicRt_2jffs/photos/AeeoHcIwQykMnZk7iD6PtAfHpuE4ij-KLWPnfJDASSMl8fQLrw33mAfjjMgoR6vLy2xBRljBW_OmQulmXrCQu3DYcNqm5fvPmkwUACCCtXtXETO-FQBHPbsxDwvbzPfMkvBBcqM4Mxc7g9TpAFALSApiZO5uDXgFxxHEQCh4ea-OauWeLIBZLmncsqkQ8ZYOLtl0CKEL6X5nQ42oHDw3rVoFfaBHGzMwx88kk9lQcHm0EOokCuDRMZhd2tpVgoCBmIV3sPcYkYFE_mNrp6GWC6-8IIQLwABoLixNX-mo4PiYiPXj-4vj5CXADiMR-YxgWEVqK5-cafHvQJVVr7h7ua2sF08vCnf7qxQCcL569lyQHa3wavZqMYvRbCi3slo1BGEtBsX656r_tm1qgtos385P8htZbc686YmofZTbFhBRMBGKYg9x
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Wednesday Black
+        uri: https://maps.google.com/maps/contrib/110523986344788394187
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVfn5ZCoRbzVmre-OalCq7gm_YtERD7rH0UqhnKBBUTTluApULHNg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjm6ze8gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjm6ze8gE!2e10!4m2!3m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e
+  - name: >-
+      places/ChIJq_1MERDByIkRbicRt_2jffs/photos/AeeoHcJ1-mllyexzssNlb5v4eOfJpVy9oZu4QUmxbSU5GJOSzDjOxc9erWqm4DQ7YCHuQC83Vd9q6OHZg3kbO6XghH_xzZYmVAtMnjJwI0BDtuMyCUixqV-1vTdpL-50lWO0bd-X4yVIAAkwgqik-NivtvjfgNvtZce4azmNRg6QBBeMb43vSXQMoJtN9DIThXzf-Sj__ijRg2BNy9_eyP4K3oiLbY39zaeG3EOXnzv2AnhjPuxKho3k6Xt_ouk9YHoPskccl6589TKn6d-n6vQf4UTxx7S1YXqqxmA_TSs5lAKEaZRfolVu9LWhR3n99zO9LC8IHr4xolBV87-ntcd9FM-QMYbN-T7paDdg5YwvUcpr1U8To9ceAE8x9ONEzzb9R24p1Vj0_2np2t92kzCRWwzJnzy6jQ78043YcL3r8WTQ1g9B
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Stephanie
+        uri: https://maps.google.com/maps/contrib/109068975899545988158
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXj_k3721brlJ4o1NsUSJRmQ0RzB-ySlf1UFvTYjoiG3nO82J-X=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3pJzS9AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3pJzS9AE!2e10!4m2!3m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e
+  - name: >-
+      places/ChIJq_1MERDByIkRbicRt_2jffs/photos/AeeoHcJQQmwNO5zmV-3aPuP_JGUN0E7RSADL8iJZmJn6GE6M7c8zObskKY9MwoAuvWwyqmNbQeEO9DhZBR2FsBCzVXm5vnUXNqE6XUeQI1IySd_4rMHnFmB7bF1_uRJac24-U5s1lMSnmlG59PPLFkCAU90ZpIyyMAjW2iXN0JsXi-0cGLHlbF3y0RiTF3c-2RJAli2RHjDhKWis32tutHYPn0d-bQ9lD1uzhoDslimTE_itBX9gYpfjQU4rVt5xz8CfTrFP6KXHZhxdKb6cNPmRJKX7Ytd34nal2G7bMarnz44Z4eJNbS_EV3OQsi_3fZczj7PLFnKPw0OrG8j-IFblBJFUf5uewrBSJT_24YDzDbq1SjLNjGOSYr6ukSZtrtWy92Y9NJv62jqZ-kvSt_ufMw07lm9gKlBYTpsJum9pOIOQ86dh
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Lucas Magnuson
+        uri: https://maps.google.com/maps/contrib/106421355038728149872
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVRCzUxVJ4rIJ15YKKa6faPI3GoMrLTC6Bqo5WZOQyRXFdG0Jeh=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC5lLqT8wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5lLqT8wE!2e10!4m2!3m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e
+  - name: >-
+      places/ChIJq_1MERDByIkRbicRt_2jffs/photos/AeeoHcJ5xz1tZLTimgNkiQEv_-UcnYteEVU8uasumNc5kv2Hc-ygvySnRtZ9AlFTWAaGKao2YPA-sbHytp3A8oXKHVLe4sII5wrkeNYevD6b9w3uuaMV2oCHcA8DVoStul0vnp-GupdDJDS9KzYfhZI8yTCM2mC_ogufdMkY7m8okGt58pDjYSECgcKa8PIZPruPXtMu_-xAHs8R7rtEix0L4QEBRMkQziWgM_yGy9aF_DeHgn5jIMYv38dPOau20BmvM8h7vqLO8NtG1QA4cDaRFhCtN93CB4U_VFdF7oB3DvADv7fj2nAGD4y1Axqm8AWGXHsa7xcpPYheaBu4Pk5ZPV_i-JShz90LDegmllA77YxESQwFZRja7dfUUatNVxPdGThk_YSh67hJ4iKcI81reyI2VRENq7jmv5yzYk3B7faOOw
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Wednesday Black
+        uri: https://maps.google.com/maps/contrib/110523986344788394187
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVfn5ZCoRbzVmre-OalCq7gm_YtERD7rH0UqhnKBBUTTluApULHNg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPsve8Xw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPsve8Xw!2e10!4m2!3m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e
+  - name: >-
+      places/ChIJq_1MERDByIkRbicRt_2jffs/photos/AeeoHcKMEJLHCSILGj26f7NpE6lKIc-TiDc84OVQ8S1s55hS9J7VwGbuN3JQhmrxEl-TIsuAwzrLKsKAGJNydK-RG3iBYT8Q4NTZBdYW_R-ZUgHs-xQ_OpbXlPTDyq3zqvwgPV7_a8zKxTg2h2r6PpxTBb8bF_ruDSWGJkUG2vAmZeg1_Pn752wi7L0SS3msAM5BkzcyQnpJBMFCyDhjiOASMJ6M92GTNxYTQ1pWiNQSzsisFiZEKSs5BIFh7qJ63ga5t5jE6DG-d79N1yBJywjSGCnyW6Mmd1Iqgo5fx-zwacwtQFdAQlgmgTUHg6F8OJhf-N3xhCJ6sJwAP8Lv75UpS2gp-qghnf5fbvZrabziobBxHynZkmqYIOgWYFrTlburI0BRqWIAQhCBXsVbeeWgjAlYL5iSyr2ObQY90eoj0MKe5A
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Cliff Van Scyoc
+        uri: https://maps.google.com/maps/contrib/115398088301078098198
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVfTjvlMLSGh0iKq93xwlL9wN2WChgycpTwP6VrDwr5gTybJKwj=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICksZOdFA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICksZOdFA!2e10!4m2!3m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e
+  - name: >-
+      places/ChIJq_1MERDByIkRbicRt_2jffs/photos/AeeoHcL0uZZ9_EOgd4q1duyncMgDnJfPptwHI1jFfs9on6o5Uyi3PeTuFzObZur8MXkHTKm9IrR0hfneLjgoU_jcpr4rUlnrQ_eQ2AO4KxfENcM9AhdPOBSFCeYlkPGx6P3XX2o0lbFJQFI0h9wToQA2cdMJ4UfHOWC0gMcm6ZaXEszNI0-tMLLyEoWBGTKvmoZng-uYwqqVwbx1vAssdc1KYYibwbzvkZHT6iON85nJEYHg0F_-S7C9wFxli7WnmXQLgBJKimYUojkSxSYPTW_FWGvTUHqsEKTyfW_EyCvsjWallakEUSIDrfITtiU5gGOIJcOD3nRW0pEppfnY6QkWghRfMglN6YpkP0iHGVkemgJW0x8NYIr3NeWvdRcLzRoaiaEUSedZ5Ju2eMzXsyXSneidIN0ACIPaUtulG6HC80uGFA
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Michael Stahl
+        uri: https://maps.google.com/maps/contrib/112780521447717122102
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVixpj0GGefVxjVAnoRNVQ6Tjg0BNx3xkUd6LOAjfq978lnfMdJCw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnrpatfA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnrpatfA!2e10!4m2!3m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e
+  - name: >-
+      places/ChIJq_1MERDByIkRbicRt_2jffs/photos/AeeoHcJnsbA6DIdNvl3VyK152J563K94S0debXnZo8dSDZCT0lncB2uuztysu2yQ5cfU28601khz0w_J2WQwZz8jByUI9owiwDYBk5gj9rhaKhmtp3w2fpytLGNyCVEuezX3dHtWDrPdELYSdCw8s4tKnfy_oCE4kFrR1zmbpp3NEMoCN1rYdq0rZ3Isi-CHFs1QsQcGnwLfQiebXo0oZL1TAEV7de8_gJlRO_Wwtf2VMKcLGVKl_RcNdYNY7uE0EWQs3xwzhzav-bmiPliVfxLM41shcQdCrrX6fjus00R6F_HqHCn6JgKhpMEypOMPTLDdJMzzJaCi9S7w1VSAdElCuD0BA0mJ_cfiR-SDCMctw51ryfUSRZ3SuBqMo5ZUQfoR6VSH6T7n5M6rBt8kjm5Q5VNvtay7oxBOB-ZLTgUH4GE
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Michelle6372
+        uri: https://maps.google.com/maps/contrib/117055664410197913402
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVVFZAM-0RfUealM9MtTKzE9e72a51q8NnRBZ3e8-QJWSsqW7YQrw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICNypy6QQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNypy6QQ!2e10!4m2!3m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e
+  - name: >-
+      places/ChIJq_1MERDByIkRbicRt_2jffs/photos/AeeoHcI-iJpscAkgdBq9HFF1nAPIRFKCb6BsdLncJ-xc3kVa8FJP2LYmF_nvqhQ_PrnZ24uTYYpQYiX4pzWbQRJK8HZ4UyAvIX8ZkMN_X_dXzIXWueGGjX8ix9V264PeINzgJdOBD2Uztd1YUOvLQ_gI94wuqY1lAtQ2xo7BkdFRtRUWbX_u3ulm6DXRjjkC-X8vjCXiYv9Fe-H_fdfv2UKJyrgwLjT9qHRzTWDfMim45JsImGdiXo1yfiXsh5LZSuVAJL3RW0Y2TVvfeEjLOaaMwZmtRVxzAJMeK4brIdRtxHhUM94C0x5kGxwGL_05GrzVnGP6209_W_L2kjeSHUN2ltPlVQutcOcLp3iqQSSKcXeQ_pstae_23Fk4edK5oZvOCWS536vARQoJYrh5pFpS-TD4KErF3WXyP9sj1I3jRZXPgQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Reni Valentine
+        uri: https://maps.google.com/maps/contrib/109582527145424921204
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWgkBHeFXhhE3PzK-LyFM1VyXnDg-PWZdg1R6AUyD3JbDg_dbw-Gg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcxpbJcA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcxpbJcA!2e10!4m2!3m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e
+  - name: >-
+      places/ChIJq_1MERDByIkRbicRt_2jffs/photos/AeeoHcLmdlNuyRWghXadeCGk0Bbi-SrSZ0awUFXgyE1J2UTRz1pIOBPsTQqPYFEDBI96bxnuosNMV14JA2OCixjgVmYl2BmDXbueCJSIX2b7t5-jX-48G_LIPlksnJuu94cebLmamMm4fx1YBKzokFcHmB4lZ61txhY71W4oLBJMnjji8w4bu1P8m6Oqhq_d_qVJhwFtFdXFAvj6QmRycfmceI5yOW7Yx3rgFw_9iqdpWqKge3hCakUx3EwX1jsG5OQuAHm8k574v6FwOO8bVzWXYpw9GZ0djdWOPWfUZRAloN4i-WdCNTTwJuH5YCICYJIdv4RFm26uAtQMMUMQksQ78pQHTjvoPuUtoGdyEhVuHzXhFe2n0CiUsjHVsgXqJit_XLaOBCjx2AtO2uebzFPrK1pmUNmhXVjRqVvinrzkqY6Yv9KD
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Wednesday Black
+        uri: https://maps.google.com/maps/contrib/110523986344788394187
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVfn5ZCoRbzVmre-OalCq7gm_YtERD7rH0UqhnKBBUTTluApULHNg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx3-K2xQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx3-K2xQE!2e10!4m2!3m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e
+address: 227 N 2nd St, Harrisburg, PA 17101, USA
+street: 227 N 2nd St
+city: Harrisburg
+state: PA
+zip: '17101'
+country: USA
+neighborhood: Downtown Harrisburg
+latitude: '40.261752'
+longitude: '-76.884612'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Miyako Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c8c110114cfdab:0xfb7da3fdb711276e!3e0
+  placeUri: https://maps.google.com/?cid=18121820785702152046
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c8c110114cfdab:0xfb7da3fdb711276e!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c8c110114cfdab:0xfb7da3fdb711276e!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c8c110114cfdab:0xfb7da3fdb711276e!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Miyako-Sushi
+
+---

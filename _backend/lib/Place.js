@@ -107,18 +107,19 @@ class Place {
   }
 
   extractAddressComponents() {
+    let street, city, state, zip, country
     if (this.address) {
       const regex = /(.+),\s(.+),\s([A-Z]{2})\s([0-9]{5}),\s([A-Z]+)/
       const match = this.address.match(regex)
       if (match && match.length === 6) {
-        const street = match[1]
-        const city = match[2]
-        const state = match[3]
-        const zip = match[4]
-        const country = match[5]
-        return { street, city, state, zip, country }
+        street = match[1]
+        city = match[2]
+        state = match[3]
+        zip = match[4]
+        country = match[5]
       }
     }
+    return { street, city, state, zip, country }
   }
 
   getGSummary(g_summary) {

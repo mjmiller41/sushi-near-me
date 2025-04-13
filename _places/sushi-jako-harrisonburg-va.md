@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Jako"
+permalink: /virginia/harrisonburg/sushi-jako.html
+stateAbbr: VA
+stateName: Virginia
+cityName: Harrisonburg
+place_id: ChIJC-XtupuStIkRUfCrbkGfA1Q
+photos:
+  - name: >-
+      places/ChIJC-XtupuStIkRUfCrbkGfA1Q/photos/AUy1YQ19bRF0bQdPQo7KS1FbmVEk_pB6odfKy8eb5PguJU-Q8lgi86KNSvMZxQl5kcF908OELXPNAuMfbkS3XkRXRu6RddFuAnVHo_cI15FIt9K6IJHVX_ceSobC0twmz6jNEAp9aQ_Scz4uicOcxU7o5fod3NdEYLr6KU1VM27jz0nXGkM-rIwRYUnThkhtZq-emF-1oOa3NjFL85_lQEFMG6lz6d-2WqBJBw-5D8Gq6t9WDBdNTMwjvd48Zu1pIkXgJG6HdI8VUyXFMqKo2sg3n2CePI2Fsv_TACmbeRHdZlclNiGYwFZJ0bbL3GDWSUDo-ymUvIG_zJxCodcT4stgadzIM_gbls2nRdORJRDBezwVBSZRUSH60zY8EP6t8cnIOf18DKwCT3jpXQTXJttUqPhD8WCuVT3IliH8FDc4iYfM9c7f
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: David McEnderfer
+        uri: https://maps.google.com/maps/contrib/102511970713333238293
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUPRtWmTYcyFwgxGyBFjDBn4RX-tHmGOberudbcS2VI3P1tkS7AfA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDC46L5uwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC46L5uwE!2e10!4m2!3m1!1s0x89b4929bbaede50b:0x54039f416eabf051
+  - name: >-
+      places/ChIJC-XtupuStIkRUfCrbkGfA1Q/photos/AUy1YQ04N1uis8BGMLrdcTCIv3e4QS47abOilYMWRrg5wNd9P-3pwXhdvcc3Q_FudTeGt6HfQnX_LbgVXLRSoek_3MJbw0JZB74AoEx9C-DuwtPdvrQlq3c8oiD_jBtn0XQUTfXwuI_vB7WbfGy9YBaqtnTI_330hzUWTB57QlDXX5PJRzO_SCWcM8jHF4LeGtC6z4UMUo6dK0mifCsqC_vyD7V172YLphmhpOzFAi-1eAYtlMnrkm2e73L-sbvqMlUic8faI9-f4wFiedR0VE-EMuE06sUVLC_QmJe2b01sL32Yqp0vqp57HKWL8L4Vp0ON6ru3j85hMV4utSQQnPD_RXwYTApg2rNpov-dvqPmqw2NIEDpifCgal0QtM7ACi3kFNUYjP7P-0w6ECiPyAnEB2ZqQAly8t89ijVXw4IaArF9Yg
+    widthPx: 3925
+    heightPx: 2157
+    authorAttributions:
+      - displayName: Lily Saunders (Alice Evil)
+        uri: https://maps.google.com/maps/contrib/114107245713218214903
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW8xZAxBxdXPIQOeg76uhSuXLimMSODScLRY9ewdLXndwTRNbpJ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHju6BOQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHju6BOQ!2e10!4m2!3m1!1s0x89b4929bbaede50b:0x54039f416eabf051
+  - name: >-
+      places/ChIJC-XtupuStIkRUfCrbkGfA1Q/photos/AUy1YQ0zSUeI_-5BnorK6SuHVzQ-7zF0FsKL3jaxOr4W_ob_AQeG8njc1BkqVyrSHRZB-cIqDLQ7Ecq1__IQ2qL7YlF0-esJJGPT5-qXtu61O4aMI8IcMVJXogaCggaLuhq9sUjHbu36IhHC8VxRX9_WNJV5xACDKI0EQ7qijVF7Ae_Brz0z-TvV09Sc77QGTk4-92HRBAreI3XHXWyC7VCPO2pXaJXTBhr0uQAe8ULPk1poKXqIclGm2QyR9gCKhgGCu-kbJWqTyg014ChZt8YDunxbdpEJsv8uYBcuyPFPwRXXEpb9jWAZCq6PA8o1tl7Y_jd5jl48mWIV31On2kFdUdtkMEQv5Fl4JYwqdskpcMd6q5Mm8OaGNp6raH-J5Q9oBHsY6knzUecXZVFg80gNMBhEb5fVjeyp0tqL1l42WKbdNQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jeremy Green
+        uri: https://maps.google.com/maps/contrib/106600884164442723994
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLiuGduBRy1HnjvyoqNvK1kAgWsLHb6g5Dl9tv5puhxm93X0A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQo8yTEA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQo8yTEA!2e10!4m2!3m1!1s0x89b4929bbaede50b:0x54039f416eabf051
+  - name: >-
+      places/ChIJC-XtupuStIkRUfCrbkGfA1Q/photos/AUy1YQ3YeMD9NFPvDXrCGkh_Mfe60kvGtnRoyLUP0TzPFPpxF2TIurSUSGQju6k1MxnR90QmO7ySllQxs69fQ1uqQT402Ei44jCkjOVu4ERVcLg9fdgS91Rjbg_TEmW-E765HutH18Iv-jweySJ3s0kjKnqu7BAXHVH9Svgd_vhe1IinFaSsz2FwgBzqAimZ-hIkxr4956fgxzhtcCdBpVYAsedT8DgakHXCcmFhvHh2xpvZq3_JNr2adoAQj3oWriZZGcgYYhfFwKrmJ2Wm3d8dHkFn61Yi0TNlWEnlimF5sIEAtUjm1vFiXi1JpL8TTDxt63TkXafMLeTH6GxxB_Bj93VkZjYeOcpj3riR1n-P5s1Ns19EV-w2DVqqzSjAOMmGL4wNl_l-nRewq1G7tW3hdinC7M3Gug9PH7glkKq-lTaWTA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Logan M
+        uri: https://maps.google.com/maps/contrib/100984856243579918263
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL5bNkHyYsJKomVmDPYzHcX_QfHLOpX-1dgH-tlNLlQojJP7g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICF07m4HA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICF07m4HA!2e10!4m2!3m1!1s0x89b4929bbaede50b:0x54039f416eabf051
+  - name: >-
+      places/ChIJC-XtupuStIkRUfCrbkGfA1Q/photos/AUy1YQ1nJimPkmEmrFBHcaZS5e2ox513GIFGStXS7S4H-ivqLclgvcfxDF40Ai9hngsar_2FpOzAnf9sJW6KfvVAHRmGh7Fsud4HWIh65ajT4-ov5YwuiP4-MgHGsa54-bnZERmTPEBbMg2vdxWQlI-LJTJyduTA3yLeoJ06rEHB2n4DhVw-yx19qawmviWo--I0HX24XBRTXNaZ3b2KYAykBv4qM8lyk-GKES22m0d18RDNAx7eSQFXuaGqtBF_H6qJ5Kv4vNU3qKgQn5nxhBHkgTHh1AtiM3FdJ5hFyHGbuGPeRhVWiv7XQIdZeIWFroj2U5aJNdkdWzZ2FNOgNjvPxHo5UoShWtfhyR8hEMMZ1u58sujjdThYqTRkgDLFmsCBgoFGGee71BBp6W1CnzeMwlDInNuvPaTYHgxwYZc_0pRHAQ
+    widthPx: 4080
+    heightPx: 2296
+    authorAttributions:
+      - displayName: Lily Saunders (Alice Evil)
+        uri: https://maps.google.com/maps/contrib/114107245713218214903
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW8xZAxBxdXPIQOeg76uhSuXLimMSODScLRY9ewdLXndwTRNbpJ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHju6BBQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHju6BBQ!2e10!4m2!3m1!1s0x89b4929bbaede50b:0x54039f416eabf051
+  - name: >-
+      places/ChIJC-XtupuStIkRUfCrbkGfA1Q/photos/AUy1YQ2BO2wtXQQut_1LgI0_3ZwQ3NlNaHxmcMpiCqeuSM0HJUe41zuVVjfMkxYFRkROu6Cd7S-bCbU5hAgP8kqqRpZn_gHvDP1v-R2Zy5gdvh2XLFiS5w5gkHqqcVDtjA8P51x82J51xUfYeIroR9CHb8lhiLnZ_yCPNfL8k5rftpVf1vsF-a94fu-FpUbDuwq7BSHfJlfDc7p1hKP-9WE-_R9TesbSYKZDtEB_nAeyq4wi4J-FV6wvNf9pcwi45Mq_49OyTiKJQOkSMeTyhX2BlB5gEKA6X0gWQUuyFPp5WUfU_8kIdkzO0ikvJJK95ILW1xd8cNWVDlDys4U3D8Ri_ITMjmBOZJjK9mKn6CNXiU39yn-yqLop5wxlJKG-mjROkXX5gnn_WgZ5O1Q4GVtcAoWaUJdUWvGYpP6Xu7tVlk5UBQId
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: M C
+        uri: https://maps.google.com/maps/contrib/114254008952208463588
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWGnnGeXqYD6_DJLSvn9RZVS4lSIDtJmT-Bi16OLUXeNUsJGsqiOA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhy-fPkAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhy-fPkAE!2e10!4m2!3m1!1s0x89b4929bbaede50b:0x54039f416eabf051
+  - name: >-
+      places/ChIJC-XtupuStIkRUfCrbkGfA1Q/photos/AUy1YQ0tuNOmqDrTK3OCFvaIx-3Km3qiyORj4NPwWwGj2DeKonHSE7D_Kqthmn-M7gfspVYZhcFDr2n35tOekzk0QqOhsTH-L_PUloHjIeJmedrp637Ibw2jAydkrbjV_G782-ynsAdleLDau3M6LhKsjffIU__OMMrDXO6BljD2om9v8IBhKNUly5fdp7hlqvUzxCUrpxuJhvHAjthvzrlyhDqQGUw-ELs3dabqX0hLW58MZAFNBiEDHErqNLcB8yAtIYS2fcecPz0l4s5I7btv7LUAlYHYj0NWbRG0c3BsDS_RI3s-QL1iJndp5H9jASXFNwwDZh5wUGnLpZpCxwWiXXFt4cyzQYUWoMNUysckXeqHPO2jOQYcDpKoxG89o7yqrat3sxlqZVIMfbtEiW3JEkzC20boMR-GJiENqejCs14r_Y1o
+    widthPx: 3048
+    heightPx: 2195
+    authorAttributions:
+      - displayName: Lily Saunders (Alice Evil)
+        uri: https://maps.google.com/maps/contrib/114107245713218214903
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW8xZAxBxdXPIQOeg76uhSuXLimMSODScLRY9ewdLXndwTRNbpJ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHju6B2QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHju6B2QE!2e10!4m2!3m1!1s0x89b4929bbaede50b:0x54039f416eabf051
+  - name: >-
+      places/ChIJC-XtupuStIkRUfCrbkGfA1Q/photos/AUy1YQ2rd5T7ooB6uEglWZNIiG_UWyTQyOG-JRhx6ve8vumXekI17WJIgIuPDGD5rn-5tlF7ZDJ26Xj_8qbuu3BNULPCwPCU61_Agotamzyq-l8ygxEHdWY2Vrt1GAiSGylTRU82oRniy-NJYMPk4-qkUR3NQKEaHImaX1LM9_RM9KSs-h-52s33oYTfwS2iHwe49NVHGwBI6wjubvth-wmFh3BzUt4GhRNvkEYsY-CruP6VjlL93qctEMVEp-L82NDGYCJGiG5o0CLMFQrORULg91CoqfjO0C8lKT5I-JbVjwZl6m87SfTufm5FLP9dGSy8cNyfMab1Qsb08ZAsKII5C4qEdLnzmyvlqCQGWB1_IQZUUuyUdR0fMYRQYUzURruuFWZ9V_SQUNJl8_3EE36lznjUwmB56MensP4t516ANtIE41Nv
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jordan Gibson
+        uri: https://maps.google.com/maps/contrib/117700951395312884708
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocItSbong76MH0brharXjAsgbxiASWDJG3Awj3ME_2LgHwGp7A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDVu4zl6gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDVu4zl6gE!2e10!4m2!3m1!1s0x89b4929bbaede50b:0x54039f416eabf051
+  - name: >-
+      places/ChIJC-XtupuStIkRUfCrbkGfA1Q/photos/AUy1YQ0KVJmQkvfaoGQ2kYOLL5liM3ZeNe2PZkwAnqajAj2anGAKiI3i9OJsV_f_ZDNTR1X3TH-bg0XWtN-vPqhaeJ9gflYjIvLwsojDKjyXYTjyY2gzsuKymwgeR5yQmWnFM_pn8Op-wKSfh6KhITIUWy_HW8l62990pCgcSpRY9ZQkyQAX_16twnkrZt5DvaMJqp8ACdX0Lb6uqTbEWBCzApTEGsKcqFPpbWCuVjIwt0GDlATFcxuR84ivHjNhSzWhuRakgRRd9GGFLRzM-xPe_UReCsQYn4N0wKl1bf0MVnFVfKujL-RpISLuNugARwaV8ON-DxMczM8EYJBWSAhfznTgce61qMpbIYBLEAGEpHCjD0w_XgW70AZNxnVSYrqrwYCH1RZDngKcAl6dz6OoRakJG42rku1nZf2i2W42YmoxhA
+    widthPx: 4048
+    heightPx: 3036
+    authorAttributions:
+      - displayName: Owlletyouknow
+        uri: https://maps.google.com/maps/contrib/111997842169890343334
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU7f6C6PCYY6Q3c7RoS9ZHim3SjL6orAXCLbKBTlKr03lcE6GAH=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk1qHiMw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk1qHiMw!2e10!4m2!3m1!1s0x89b4929bbaede50b:0x54039f416eabf051
+  - name: >-
+      places/ChIJC-XtupuStIkRUfCrbkGfA1Q/photos/AUy1YQ3Doo1_2Uq0rUbpFGJvlk2yT3Wx5wU3HD3xQt2MvanjQ1au_kR9N7zxaCdctaqPb67_4kLNLIceqOvfnrv69glPwa2_03SkIkJSGkBNlDwBxx0udTG68eVFbJPtWvNq0np26aU3TD4mhj0IzISlpALrakjPVvYVqBnhFN4YaQ-mth0nIVhc5bRbHE1Vyq1Pd2Do0utePGvFA7gknxPH28FuBzwz-QA0bY1txYVcAMocEn190wOp_c2xWUBbKht1OStq41vBTxorrZB0GoykZSbbgnJnPEFI71GG8CeKHDH2U3Bxcf7V0zCQhhIjTs2NGrAdl2hSuB9i4qUz_KllmhX7fbTHX9-mgOlJsqqhM5_cpnkyP_MhXYLIu29vjAS6flTUzhvkHMY2Sld9_QQt6yj6zmuMXn5oaUsAw1Hy2g0
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Alex & Kathy Neyland
+        uri: https://maps.google.com/maps/contrib/101484205392399812447
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKbup3iQqMMqhKtvq4FDczmjxYb_vCFdum7qg5WzuIzpAvqpg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC41qqrFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC41qqrFQ!2e10!4m2!3m1!1s0x89b4929bbaede50b:0x54039f416eabf051
+address: '182 Neff Ave # W10, Harrisonburg, VA 22801, USA'
+street: '182 Neff Ave # W10'
+city: Harrisonburg
+state: VA
+zip: '22801'
+country: USA
+neighborhood: null
+latitude: '38.426751'
+longitude: '-78.846446'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Jako
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b4929bbaede50b:0x54039f416eabf051!3e0
+  placeUri: https://maps.google.com/?cid=6053857427494531153
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b4929bbaede50b:0x54039f416eabf051!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b4929bbaede50b:0x54039f416eabf051!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b4929bbaede50b:0x54039f416eabf051!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Jako
+
+---

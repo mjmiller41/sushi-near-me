@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Xevichez"
+permalink: /california/palmdale/xevichez.html
+stateAbbr: CA
+stateName: California
+cityName: Palmdale
+place_id: ChIJ5xZHHo9ZwoARqxAcXvD-yn0
+photos:
+  - name: >-
+      places/ChIJ5xZHHo9ZwoARqxAcXvD-yn0/photos/AUy1YQ3Ocxrb-Cyv2IGLD8ExK09orv948uhdqFPLLyCbWNCxlc5pE1_-3-NSfMu9gEYhRjpiE40_djmNzyBZGzfltwRj7QGYIdfeTMpB-RLSE3N3z-NnbJWrUHOzA5Bj0Fmr_dSDFkluCyg3yaXbELkrHYFfqAZxJ-5UCxkBOzN2mdtZ_7WVKoX3lPgi6mJ6ocdytGveVFyxbxiTfU6ifpCd-GzW3f20g0uZkqJKHY5bcELtnK5oxnbAo1y2qsfcDzb-wedrOyul5CjiKckRxFMdCK088PiAwazLJURUfjpnl-wNAySXaXHGC96Jn6tiSYLWF5YKn-X5ZHAwY5Hm1c4z7vrq4MfemyDzzP7X44a8J3da08lcm6Cv6Q_VzOy5GFsRrjG48wVNIygF7sSGaBk97lNZcvjJEv5FgUk3WlFrmcrURg
+    widthPx: 4204
+    heightPx: 2803
+    authorAttributions:
+      - displayName: Edgar Barradas
+        uri: https://maps.google.com/maps/contrib/103392602740484397575
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXU_64UqHfDOkxRmMtiSwCL_xIi-fqN1P_5NlSqh1Fry2aX0Do=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICThKX3Ug&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICThKX3Ug!2e10!4m2!3m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab
+  - name: >-
+      places/ChIJ5xZHHo9ZwoARqxAcXvD-yn0/photos/AUy1YQ2GuXYy0VRKwP0UmfUq5ldEXe5VqmHpz-STM-ycEjiCEWsMe1ct-bxcxDISbV_H4ZYrZSfkOMJjQP9HYKdswT9lI5KPkQIbIovb2usj2H7fC1oK4hdOn-65RGEpuD6Ze9riJExUv1VPnFTfGvaa4K52DU3s4EPVQ2nN1o72HjOhP_EO4lFOaVB62obAFtT4A9frhj9FtbNDrVJJa8uJPmMgV5GkVVfW0jkqpdI-urxI0EM3pvy79HbjindVjzv8IClDk6ssXFadN9w9OFAIqcsJzlXJwIztFtUDiyDzlq3FFA
+    widthPx: 1179
+    heightPx: 1169
+    authorAttributions:
+      - displayName: Xevichez
+        uri: https://maps.google.com/maps/contrib/115630506988848290399
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI4JVwNfcinb9DvEZplLALX1oMEal5ouRa1c2jqmQSWDp9ZUA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMeGIfngzudF3DElIRzFYkdYemSQxf4uCZFZbux&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMeGIfngzudF3DElIRzFYkdYemSQxf4uCZFZbux!2e10!4m2!3m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab
+  - name: >-
+      places/ChIJ5xZHHo9ZwoARqxAcXvD-yn0/photos/AUy1YQ06IO74Ufe795bNOP9tEjLZcBD9EJ9_tK7bwWwbI03M4n3bXI8mC6DJ_zzLzJL5ZovFQCGz1E89mCDa4byND2yTmCB-nToGatjmjzI8a6pi3yE-da3iyVTjfAYUEVo-k-kLficFFTPu36Fewkvwj9JnwpF-Z-8T3BKB9bc_Ho1gXyHrlGO9UQTUx2kyrA4sfqWmAvWE6K8MkYf0KbBnHQnCBFK3X72Rec83fA5EN9H3NcZyliIhgPlELvBsjTNe9NKpoKUMmze_M_HUrI-oZmOljoXdBS42jzyObtbDtb40uQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Xevichez
+        uri: https://maps.google.com/maps/contrib/115630506988848290399
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI4JVwNfcinb9DvEZplLALX1oMEal5ouRa1c2jqmQSWDp9ZUA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN8yl6P10YyUYvVisLSIf4ldkxs1kwoHDnAIfR3&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN8yl6P10YyUYvVisLSIf4ldkxs1kwoHDnAIfR3!2e10!4m2!3m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab
+  - name: >-
+      places/ChIJ5xZHHo9ZwoARqxAcXvD-yn0/photos/AUy1YQ0klJSPuEksurbscsjeJLiZi7rZiTb-ELt-pKYnu98n1_dmD2LTUENcLB_pDBQn5hn1KGl_CIRyTlFwWGBckfbASOl2P5slln2WatQseXaE-EBwjZh-Sl6Z1YAwiMvKD5OdtLUaLCbpIyKEZiEmCprgFPsJ5D8HZAk6qZlMZ9tMCUjmRJJ7Q6jJbORX4nRyNqIvq0WHShnvHd5e03b4IpHJ2f_YHG36eZXhgJg_Nes0QbVYX8U_RZDrlJdDQYFlA9b6kP1urpulawUC6Cd_09ZS-z0Yd4ocZHsGd2funQy-AA
+    widthPx: 1512
+    heightPx: 2016
+    authorAttributions:
+      - displayName: Xevichez
+        uri: https://maps.google.com/maps/contrib/115630506988848290399
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI4JVwNfcinb9DvEZplLALX1oMEal5ouRa1c2jqmQSWDp9ZUA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN2-NjeFbOcFDz2vpHLVbrURaqk_f_mpGKzFHGg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN2-NjeFbOcFDz2vpHLVbrURaqk_f_mpGKzFHGg!2e10!4m2!3m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab
+  - name: >-
+      places/ChIJ5xZHHo9ZwoARqxAcXvD-yn0/photos/AUy1YQ3UimhPjTIGySw_ENfM2Iv0GocZhqRkDLswpRJ2lmJEM0uQ325rnNcKKueCw35uUy2uag8eAHbYng9TyE4b_n7FSZ-l0x8oXZT6YpeZGyvTaoGWTYUAtW4lQLjHQa1cQd4iUrLrcVxwwg7S57n_YSDHXiV1nefExYAuqgjsJ6dsyxgIWmz8wKt56Bgbf_lvWMBp5yT0EWPviHE1_m8GjQnWbqIPqBIRwKfmiwi1t-BjmveCJjxKv8yixLFUwYsYMyI6-1JHd294t2_e-Iyl7egfLxAvXq9yIb568k_IVaD0zEXhtNcGJ4-SmnyhZK__Mnmi0CX2hyJ1AdCBrYJ8SnCVKwg23PVVz66ySS4YBete_8bRG9J1rYl8hRB66v3bjilKFsR88jUlDa-_oHhQpck3BhGidy-4zv9iMc06dwY
+    widthPx: 2846
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Valera Kuzmenko
+        uri: https://maps.google.com/maps/contrib/107744724685048767069
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLfjWYkGHA3dVrXyT5UyBm1UKhQvvMkKHwRvp9cslqFtNVilg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICnyteVBw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnyteVBw!2e10!4m2!3m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab
+  - name: >-
+      places/ChIJ5xZHHo9ZwoARqxAcXvD-yn0/photos/AUy1YQ1pPv_N6pMfa9uhBqfSUQzgQPGKDKYOAlkQHApueWePawbxv6o88q-BpeLEh_fk3AdWRPRuyv39X4NlF2Wn0SS39TsyYevFa33cTPfUqQ8AfEHoaB5SPk9PWkfnv03JEMWKoZYAg4YlQDqe8ygCBbUGr6EcSF26XfWm3IvV0wMxk2WO7iHzD_IWf-YbrPrk7fPbkEfbY3H0XEkiI4S4JSMOvDWze_is2xFaF1UiLpUxgQvfrPkTTpwU37f5dQONkBy7PZq3obnnukT8ClPYAeEqYadBVDWLssYg90RwqsKEH4IS3oX9Qk7t8CB0JpSRxjmD9mvJLCO_E9NaN-EQYYz4PiYBF637QcFY0oetk5vmcBoU-4sUKs4m6PhenPHQCuu8I64vrq_wFdiCISQB_7XdCwoO65KK_4hiPEouqMdNfQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Edgar Barradas
+        uri: https://maps.google.com/maps/contrib/103392602740484397575
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXU_64UqHfDOkxRmMtiSwCL_xIi-fqN1P_5NlSqh1Fry2aX0Do=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICThKW_FQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICThKW_FQ!2e10!4m2!3m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab
+  - name: >-
+      places/ChIJ5xZHHo9ZwoARqxAcXvD-yn0/photos/AUy1YQ3MRwXNbv5WlbXIq6wb6m5RJ5XYx5_J2vYmMv5y8QBYjl6UhoaDBsaF98VsEQ6BxpJRAw_nqGT3jzOzuClTpwTAPP6bYwaCwKAqW0AVSH6TO5IOv6gmT56yzzm4GoqtDgq3b56cblPMuVSgC4nSS3egtJYUfE5ibJ4zpbwMT6fJAsdXcuz7Qy6P5YT5t8LS_0HZENAxOlm-o98axkJp-Jr25G4r9PMLYvy29mAcXS14Pi4lnN_cQvAFpCsvwcJ7SAO3XCZYSb4RzxalQRW9_PyU3yr7mhbs2c1R7oopNx0BmQpIQUcrwEs9J9XJrBloxV3Z6KhMzZOzxuCcv6ZwhAEGY84YueXgT57yi84c8ww-cEIU9tsY8sR2gf1sL2Im3GXzytSNV8VljB9B10GAAgpsE0E4Zp9A6AAwQJlGD7Y
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Pattie Ayala
+        uri: https://maps.google.com/maps/contrib/114816808647945423401
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW8--ZW7A09Yn9pQXreXzSYgWNYDKzaxsra2O29CtO7mJLz3NHkqQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnh_DLKw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnh_DLKw!2e10!4m2!3m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab
+  - name: >-
+      places/ChIJ5xZHHo9ZwoARqxAcXvD-yn0/photos/AUy1YQ3SrPI755UoWp04gwGT7IkY5giBn3SlW65myWUnRKQF7hYkjVarycyAGvrPr45roY_lkCznkMMetEgP8jgrJBoKKsasM2QUUGgf5OaMbczc0WX_O9GEOfnFnaNnr5abTzDVjYu4fxzVdU0KpEH4N2_-Y9qcxLhsgtq1wRPqdGqjqRO9eGdk183DObUDNuOmObkRXHxbq2kDQglQ63sW1A8InDyHAEcEAsAzC5AvYdq82toNoOjTtEJwtaWr019Zp_My4jNcn1LFrtz2YuDQhIBRLPvJnBUhGm1u0dHLcmo3d8LaNOYX4WY_wZiMN40hbz6OQsoJ7bX0CXgeB1XJGIk-yIeBFJ65UrrvRJCF-wq4yuDkjtVLMMGJQggsQH9vTZJdXorxMZ3yqLLC-rR2jKgeyujimeXgchvcmAmrrpSMzXMe
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: David Valencia
+        uri: https://maps.google.com/maps/contrib/116685284939805783760
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXDltPN4tLsa8rYqYxe_mDGaoh76YZANq5_VsvGJk4rwdGH8zQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDNj8WalwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDNj8WalwE!2e10!4m2!3m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab
+  - name: >-
+      places/ChIJ5xZHHo9ZwoARqxAcXvD-yn0/photos/AUy1YQ2w4wihNkmOFC5vhaI9vwGtm753tcTCCCpV9QGjhCN0udADApcjXgF6sIE4iSkEGNznZZA-84EcVtqhE_tMIX9lQD7yfxuZmj6Pnc7auKRZF3o5JJN70cjwUWDbSBj8Al6QFISwJEqUTlcS3yHc_Jd_gBpMzmSAyDSbMsKe9rd1Gib0Huvbjn3dGdI-FtXR98VldDEuRDWzM2hrtgQku3jPw_LwL-LzFZ2r9YVPL97fba_mPycLJeCCovnHcQn-4T9DPsVm8V3x5Eq8QhxflBDR4-UAOHMl1WTQZeGhDzM-CtHGJdMnhtJtHLkWUDZJ6uWs6mzKyghnuqhETcCP7r_PU-Cwryew8l-5yxn56Rd9IOFwYu_hO37W8Fky3uBylelQLUTRcn1VYVpR7Wzbe0ZpB4Wph3EcFQQYXeFHnXsixw
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Colin Ryan
+        uri: https://maps.google.com/maps/contrib/108731957717096869438
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJFmtOR_fHKMVUcXybvtaMz1P6gfk86jk50wyfYxdZcM3G5ZA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICNxtT_FQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNxtT_FQ!2e10!4m2!3m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab
+  - name: >-
+      places/ChIJ5xZHHo9ZwoARqxAcXvD-yn0/photos/AUy1YQ09RhRIytD_eA2MKijDrLGDXWpYZIYWsf0g31Aca3ZYfCkHPuWd3ORaqC0dqcTdxfifv48l-uuqcbamYM1arovVDyJ9IQKEhHTUSbQxZUec_7zjkzYDLJFYOIUPu_qWjsyYiDAKd9pj1Xn5cddLQK36HGeOL2p7cDwqpq8Wuw1a-8olLOcIAPYAoLQYyNqxtQMOSF0I1rDDDl-fhdX8W-K3zdXZfTes63wA_mNDHEe98xwUytxX7wsNHQuIdPFFPtoTltO6WkeP9iHnOPkJ9cxdI9tPT9O-5Ot2K5mwkuFiWkFhYnuH36H1x-MhOhGvlxla2oVTjA8lqnIpSQzfdyb7RmWVAhCyMQm72mjGizWbUwR7EokLZADoU0NxN_-cgmXVWLlUj0xZVcDU2_fHuqMZ2B6lmnAbAHkbnefsGrSyVQ
+    widthPx: 3910
+    heightPx: 2636
+    authorAttributions:
+      - displayName: Edgar Barradas
+        uri: https://maps.google.com/maps/contrib/103392602740484397575
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXU_64UqHfDOkxRmMtiSwCL_xIi-fqN1P_5NlSqh1Fry2aX0Do=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICThOWQTA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICThOWQTA!2e10!4m2!3m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab
+address: 422 W Rancho Vista Blvd, Palmdale, CA 93551, USA
+street: 422 W Rancho Vista Blvd
+city: Palmdale
+state: CA
+zip: '93551'
+country: USA
+neighborhood: null
+latitude: '34.600152'
+longitude: '-118.137374'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Xevichez
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab!3e0
+  placeUri: https://maps.google.com/?cid=9064337508361048235
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Xevichez
+
+---

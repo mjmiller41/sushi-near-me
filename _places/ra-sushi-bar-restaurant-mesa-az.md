@@ -1,0 +1,212 @@
+---
+layout: place
+title: "RA Sushi Bar Restaurant"
+permalink: /arizona/mesa/ra-sushi-bar-restaurant.html
+stateAbbr: AZ
+stateName: Arizona
+cityName: Mesa
+place_id: ChIJK2mg4DGvK4cRpLDe8wm4Qss
+photos:
+  - name: >-
+      places/ChIJK2mg4DGvK4cRpLDe8wm4Qss/photos/AeeoHcJHom19UPUJkDLFVSWZBRvm0z_Tf4qj9oWKL_PvInEvsOeRCU8l2E4y_j4kJdZz83x765XE2J2_B-Ac4Y089v68yUC1P0iqwDz8bfC6JfZD8uJlidQxFIITMYWUdCCki8T8qJd5vdpXwi1GEBJMB216mkAXIgyHkWPUMk7mSERBRM66aBMOMlZWl3eLMujt7KHIDjCg2HcZPbU6cg7KkqC4eCX2nAuqEl0IZoIVJkuG-d4n2Bf6sSlfBhIy5mdbuTwwMrjsjcmHxYAMaJw2C2D_zow8WvKRVmYOVLVUZm8jlwa0y1RXZMow9N7xnWflyUAcqojUiczNTrInYgy637q56L26MBx6AZ75sAltcbAfSNY-2EAp8s2IPQ4_oUYtQXzqRLWi7yfeEQcSbArlIHpvDa3h8jIcF1tpyhdgmzr7PQ
+    widthPx: 3633
+    heightPx: 2735
+    authorAttributions:
+      - displayName: Conrad M
+        uri: https://maps.google.com/maps/contrib/106771368853613295067
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWkzEAm0nVkFVu4bB0TPxTLnfJbrUu5nZM3zhwCKzeaTtgskxIb=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICNjrnzSA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNjrnzSA!2e10!4m2!3m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4
+  - name: >-
+      places/ChIJK2mg4DGvK4cRpLDe8wm4Qss/photos/AeeoHcLtcB5h5sWVQ-fMPbasWJNjhCUkB9694B9-QK7OweMf_2GWuvSEO-GnXKkTusYZN84tUtKbttWDLKIzC32EP7vOL6A780FSTDE44w_ZolwEvwM9G27z-ZbCKN2ztSoYGJ378brQMOgWEho4ULmg1VM5hIn2X4KhfSPeP_grlh52-mIEewLSoOeuNB56U6HFsXK29I9jj6wUznHniXq0drOr16LZXKRC83GHXAsp8teaw8XuoRZpSWij-j8nEiT_I3ehV_3bxN6ThAUAsP4t7MaEnZRjqI-_8GrnKzXxPeEZgw
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: RA Sushi Bar Restaurant
+        uri: https://maps.google.com/maps/contrib/103398181833632047411
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWQ1V3UpKqdspg2aIEhRclcTJxST67EX4qPbN8g7yU3gESXBXVo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNM34z-2225zPdcjfKF3kr7mkyl0T28bFhLjaFI&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNM34z-2225zPdcjfKF3kr7mkyl0T28bFhLjaFI!2e10!4m2!3m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4
+  - name: >-
+      places/ChIJK2mg4DGvK4cRpLDe8wm4Qss/photos/AeeoHcL_6n_M71t8EyF85SP2V_HgMQktw_DxBW1y3Krt-h6_zvy6FA2QWpF7GVfL5UG0s0n1DfYUUvHXGjS0IEriW-ON_aObEiK4tV5PuZ-KgTKkUwRIBglTsrL9u-iF-2YwEbrjNxItNQA0ve_RxGY9yHqQqPtQnyICKrTRDFeCmJRg_UwZdu1fEwOKyBx15UC1FRFpD8c9SSJxtlQFKMVwvKLQk4CZmZXoyYSRsa0pQDyF6kyLkTJ94Io-qu52TbEfrvDwEQLc-cGdPNxcgs4VWpVgG512qou5A8Pneddy_kAlfHWmOFqxqtHhVsU68SyRcbjDDeekkhjcveGzcBprEBKIYHgrBJu--naeesF0Otg6US88zsOVesy2NL1cVSRfubeVILF0DiSL2GRwQhdpkAr_9cnYix1yrtmwA2HtKTdO7mU8hW1WxKiokLjVMTUx
+    widthPx: 4032
+    heightPx: 1908
+    authorAttributions:
+      - displayName: Faith Nevaeh Martinez
+        uri: https://maps.google.com/maps/contrib/106841623925079162482
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVkEjv9ruYzzkHrF2cUDPGQyJNMxCXf5hUiJUy8ZlthilZOf8M=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydERSCsWAWfqYigADl0U&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERSCsWAWfqYigADl0U!2e10!4m2!3m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4
+  - name: >-
+      places/ChIJK2mg4DGvK4cRpLDe8wm4Qss/photos/AeeoHcK4TOk50UovYQHhAlY1PPpsoZgMN6TGSbI6lzwuAR_FnfwLPWOsXlYw8c99n2h2WHIFh47DPxiRXyuxXeAEDyfL5bBy3rvRXBIhlATnbXS2Rw0_GfCOEUYw8H1C1lQb-aEJOz9bdKdPvLi1PDk6e9-Xz1AqmOZfQMo1xGMxXeoM0_DszpPYUm-jbBLpaoLsN30x51xlC_9AMQXqTrook9qnQftmGOu5DrvURwRoG5xrLiltUUcz_xgsyl_WazyIQJkGMhLqE_GuH5Ky3BhPZunftc3ATOCeeyxqsRGuQ4jyxzLFjyZlcISCw6o09COD0YmKEHaBsAt-eqljfNIKp24Z8DxukRyK7Zg6Bx7Wu0vSly59mEQIDRjN9QPOGonm1o424ULHAU5ZzOLB36447v0EBJTGbTeb1AzLWilnHc52iw
+    widthPx: 2252
+    heightPx: 2253
+    authorAttributions:
+      - displayName: DeJuan Bennett
+        uri: https://maps.google.com/maps/contrib/106816336083769690692
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXzMHVQ1zbm3fit9cnc4WpXCzc6i3e18vCTFevFHlbJ-8P4r2n0iQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICWgfXbXQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWgfXbXQ!2e10!4m2!3m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4
+  - name: >-
+      places/ChIJK2mg4DGvK4cRpLDe8wm4Qss/photos/AeeoHcKKC4VdNlDPfw2QyE0eQqDYDcG2CjkakXcYBT86z-I5wG7J441xkcrSBkGLmR5Ok0MiPTLgFFrFkur7i_dlWgTHMLIiwY-tbxVuc0XSN1nlofdoX-KON3Rm3lgft0oMQDcPj3IMi_QPnFEKzNS0XkWvajj6dwRsFJ3pbcuE_FNTMcMMQynpfBHMhPb6cuYVxxNbIvY-aHYTie9G1ac0-JlUuH7JyBq74hLk4fAOizEpDHWVbQGe18J23WpxRaX2YFkW0oBcCk0a-jeGtOGUBGbJ_KygxoJ1BBGZKbBiXZQESJN0DCWH9qGwYPnPQn4j7vEkruagxBfQisfswc3Qt_dyRojZ_clZEC482kgx4XKDe8bepyQ7kS7-yYXsU8h4vCetKjq7AJqExnKUHceqeZtVhn3t1C_01Z25j0s8LZkCdHw2
+    widthPx: 3213
+    heightPx: 1742
+    authorAttributions:
+      - displayName: John Leong
+        uri: https://maps.google.com/maps/contrib/113529282263140543946
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVFG_fJ4MnuFOy5-61nBLD3H30SntqvUlhW_694NDWlyKLh0mNjMA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv54nlmAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv54nlmAE!2e10!4m2!3m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4
+  - name: >-
+      places/ChIJK2mg4DGvK4cRpLDe8wm4Qss/photos/AeeoHcLuzFY0bY14ZKXimXxduUf9Ekb6BqepZqjziAcuntWqPwzCXlAmQuhWBPm6ZfLi-6Ct4jAWAR5OwfO3wqLqxGnzp9fqRHQKa5tq9Lv76KEEXCh2OopCaTvHHieHBA8-ocYl7gS5kDpdQitrmzuahlYHqpxVvwGQz9WfDZWOjBM2JSLfBvGCdWFsckHA-mDJJAOpzDH7fRjUJKBNX5LXVbrXYvFXXykQgHCbT724gO-q3iiRbRMebKN6L_UmopK4PyOfWWNWwXf6H_kLKU7ZXFViKA0CSTCSSPe44dwO7BwYBCRL06IOacYjxoaPANdfBsv5uVgcDYNJNuNBGcFNyRCNcP1BLIKepXetTurdqsiOuWOyzWb3BYuXiEHq7TRD1CixqZt81ceqqSdkZW5pB-FgBtrXvGMdOMYR5nNfoM-_jg
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Kitty Carlisle
+        uri: https://maps.google.com/maps/contrib/100808921450376532850
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXf-l6TEQpNKCBhpqYHkrW-i-fLFm1gZSn39DIO7Wxa9u1VWwzG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLstbrGQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLstbrGQ!2e10!4m2!3m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4
+  - name: >-
+      places/ChIJK2mg4DGvK4cRpLDe8wm4Qss/photos/AeeoHcLrJ6kkLV79sj-eyNRff9VuAGLuFvmrwhP5oQP3mL8X47lZ0QagW1AM-lzltyyGXG_qxvBpCnwsJzOYmtcW1_8lSYnHTO9UcgECQBFOWuIfpm-IwDvx58TZZIWjy5MZyD7JkikVel-CFeORntWWYJT7uCYI0Q4R0ZL606lzPl6_T63vXDWTRzlOcbjLE-TCgJw4pJHWyZKZaMor2xkYXptHsJ5Yi17MmL8LtETFP1Xvd-coPyz3oTaS9SZD6SvdagvE5g9MJ4bDtyzZ2jViVJuHypfNulfV7kzYyunT2dygDw
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: RA Sushi Bar Restaurant
+        uri: https://maps.google.com/maps/contrib/103398181833632047411
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWQ1V3UpKqdspg2aIEhRclcTJxST67EX4qPbN8g7yU3gESXBXVo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNdnyhpLDkJfNXBzq2S8Fu2QvnSEcfHs7Ogchx7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNdnyhpLDkJfNXBzq2S8Fu2QvnSEcfHs7Ogchx7!2e10!4m2!3m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4
+  - name: >-
+      places/ChIJK2mg4DGvK4cRpLDe8wm4Qss/photos/AeeoHcL5E441uq3q0dca4PYGGNvhR9VTaAKEHvwx-nTMAPV6LxhQ-GD3Y3vfczimVjOgrEk8xQrF_lK2nx8GGp7FXLp1KCvARTzzwRwS6GwcufrqEA_gvt9FDUemzKFwOVfMEVSfJYKy3W75rF6cl1XbWHa6al6XmQ-Ki4TQa7GMkUaOK09WQoXhmMcGdNbcZN8qBUcENS6ydhoc8J5CFiUG-Ac6n4lkzWwBMUo-Rm4E-yvIaP8gY5dOSo_q5xKQWJaudGulC3osbYJBl4QLO_IQUr4aNh4k4dPhRzK4FMR_02VRd2j4aWjTJstzLpGK2UVakDh786BTgqK-Zn_rbHx5LkTTEMEeruCB9I3I6BIKzVdNbU-BfnpWJcxPiRoXjNBp06zqUt-AtcPCelApYRQ-IHyk3b1SbQrPtPXck4DQujqBejw9
+    widthPx: 1073
+    heightPx: 1073
+    authorAttributions:
+      - displayName: Rochelle Marie
+        uri: https://maps.google.com/maps/contrib/106181079149058455882
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWZlNY8VEcUasWN98vgV0IooPH8jerso4LG3fLEGJcNswUyvNiA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkzcu0iAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkzcu0iAE!2e10!4m2!3m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4
+  - name: >-
+      places/ChIJK2mg4DGvK4cRpLDe8wm4Qss/photos/AeeoHcK85w9nzieRYPy-GcbN8eYHqoewuW4Gd5A7WYEAtl34Xf0Lu_AM0OMFm6is_zOtTv2LuJoVMQmtH3zPG8-0UfxKK_Mx3m_6wMxgCtRgus3fE93Ka-2fZAhYI3Rn_X8qmtAW5QeDQwQJh40WlhjguhN-9VH_8CqkuH3nLw-wWms--7Rac1M1dt3TLSgIPq1xGRqgsAdqpjdrShTzBbJQAqrc6WnyTGHSOziNUauArNX3-ISQbuwhyfCKA76t4wMcr0Mo6c3HQ-J6jgmcxFLJZlGSmrpxozcXVEkn1cHPNTw68rqPkV12nxM_EwD_3U4OPs6KA5QgKfUcisMB1tfcfezbZmeObXIymR3YXGEOZJ4RpovowV93gNO_5QLeehOf4VOm_IF9Epk971tZYxKRcSo7pJPrriXM6TT7M6LGeQ8
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Narjes G
+        uri: https://maps.google.com/maps/contrib/101426083936296191790
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXH2VaEllZqJ7pUdS8CQwIH8TIDMj68yxiLPxzD-e0DmBpqarBUHg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICE6vfLTw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE6vfLTw!2e10!4m2!3m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4
+  - name: >-
+      places/ChIJK2mg4DGvK4cRpLDe8wm4Qss/photos/AeeoHcJcy2Wi1TzdTiemrYQWqaT05I4jldOdlNiCRSvXfzV0JCjZdm8uBI4hutiZEBIg8RAYmubfAztXQPjPPLcJhzu_xF3mqOtOin0cAg6_8dbHc_-WDMBr_RttjjuK8TpaaRfc7ZhjT_ByiXCYpBLn0nANFkhX48S10ezLTChis6Nv7otd6YVXJb5mMNSZVXdTYeFBpcSkNpHbqEtlfYtqHydrJXch7ervxViopa_ZXb4TRCBUMKq7rERaSuXxZazSj0enO918BfIK61qUATbxN4vEr9Cv_SUXsfOb639pqwH0vHeavQ7IWqAB254Dds9514Jwg7RMzcpu6bnLPxSsuChJRU-H9F08XiX54KQMZHgTJXYadTvfjFEWEXkjiOJxCjyVdHlB09bfX-SyxxP7khCUCwAEzhZPTmTZhn_jsu9jqFCy
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Desaree Riley
+        uri: https://maps.google.com/maps/contrib/112855584375269792630
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX8kcQjb5_sjeXYLXp76iTNWeDSLkzlTiKrzJgju3r9wHqlDLw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICby7ahkgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICby7ahkgE!2e10!4m2!3m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4
+address: '1652 S Val Vista Dr #101, Mesa, AZ 85204, USA'
+street: '1652 S Val Vista Dr #101'
+city: Mesa
+state: AZ
+zip: '85204'
+country: USA
+neighborhood: null
+latitude: '33.385330'
+longitude: '-111.754874'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: RA Sushi Bar Restaurant
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4!3e0
+  placeUri: https://maps.google.com/?cid=14646471291047948452
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872baf31e0a0692b:0xcb42b809f3deb0a4!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: RA-Sushi-Bar-Restaurant
+
+---

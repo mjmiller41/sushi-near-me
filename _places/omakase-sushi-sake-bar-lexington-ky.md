@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Omakase Sushi & Sake Bar"
+permalink: /kentucky/lexington/omakase-sushi-sake-bar.html
+stateAbbr: KY
+stateName: Kentucky
+cityName: Lexington
+place_id: ChIJZfX9J2ZFQogRygkd5WSrth4
+photos:
+  - name: >-
+      places/ChIJZfX9J2ZFQogRygkd5WSrth4/photos/AUy1YQ3AQZcXkKNLMjQzOmGL4ZAB492ZjBptnWveHoZcr4PBI41BUiB2g0NMXiI5lg3iOdVRn90sOoEgcNPLtXlOSp9M1UsvODbdTAP1Xui0V6Evxx9UAvLjn3fVpClZjk90nK_66fKVNZV1IPscSkuIStDNttzCjxh85iYcmdz00pYEX6jClQpLEF6GZNrnygfzmPyjKNbybvYIG2nIAfkZo2rXDrUlNvpGo2DFHptYawC2hYfWo7ryAWZejtZ4Pmvfi6zYnSz-iskFlmzhG9ZsDy42_zT0FwEYlMHqVVqX6NJsTw
+    widthPx: 3024
+    heightPx: 1702
+    authorAttributions:
+      - displayName: Omakase Sushi & Sake Bar
+        uri: https://maps.google.com/maps/contrib/117353478436860815572
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVr3W1qsebOgVPu5oXHdlJ7B9E8Kwvh_HuHvUME5fU_zW5vFmk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOxsvlKf2rRV3Fli4iFz-UO0LJYCKnRqT6iOpWS&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOxsvlKf2rRV3Fli4iFz-UO0LJYCKnRqT6iOpWS!2e10!4m2!3m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca
+  - name: >-
+      places/ChIJZfX9J2ZFQogRygkd5WSrth4/photos/AUy1YQ3IUUKt3xvrWSVwb_YxgjxxEo1R64iOs79tEW8ATc-hgpz2RUK3Hc030xsPFR8oPc7o_YL1wpsVCbP-9mJ1gLW1bbhMBq_V1SK9IgJj1HBqzwYkkePUvW8l5o-AzeywYEglm5up7yJjxBG3agUynFnvQVwnRFZfv-3LTckZfaPvfCvMKlrdmxqZSbm9EyK8Oji3tMJ8NaUOogmyKxIF9lcYsZ2UutIomPHVQSq84VKJrfaPxwTtFYil99ogSbAZajhJxkon15JKf6x2KY6a_ahRmJ2a9-ZOLTKg5AwiwkaYkA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Omakase Sushi & Sake Bar
+        uri: https://maps.google.com/maps/contrib/117353478436860815572
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVr3W1qsebOgVPu5oXHdlJ7B9E8Kwvh_HuHvUME5fU_zW5vFmk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM3zFpQHABo2PrMg13ZvTWxxp-CXMfSmLeBXvra&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM3zFpQHABo2PrMg13ZvTWxxp-CXMfSmLeBXvra!2e10!4m2!3m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca
+  - name: >-
+      places/ChIJZfX9J2ZFQogRygkd5WSrth4/photos/AUy1YQ0f_yARFt843b-lrze3UgMdlSkCtNbIelvdyxiyBn6VIFn_SZ8qA5zgUXzW1OfVpL6FZyjVfH2QhYQJhmPhSO8JOCRoLxuodYXRsL4lmS7VB0xEkGDlgrAW6PcsjlrAEFjxnRq2W_ZuJictPqWxoyEV172SNAWdca9zfygv30xiqPL_HAKMKJMY1COi_pcj67LP98ur9e8pH0LLa6Du17qp-YLfOsfhRyL2fWTNMec16ic_m8qR0xkZx7Rg1b6GdAs0-Jn5pwNR1wyV6-HcwvMwio31UjP6HRhrYZUcFcN27Am5OsBsLb5uB8Z9u-5Kfd37-Qg-A6C-tHxw7xygpCwCqRFIarxV3hYdG0ZFLDvX_E-TcjfU2-8IV0QbIqx4gG115zxf0yqMTZLCfmoHDZ3Mft5NhUJgWZs6PYFYtBY
+    widthPx: 3679
+    heightPx: 2362
+    authorAttributions:
+      - displayName: Colonel Randers
+        uri: https://maps.google.com/maps/contrib/112198004184928930411
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU_h5clkvacNaKXcuyfDr2tskW0YUucY_kQz8aTpbMSaspQqac=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQn8DuaQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQn8DuaQ!2e10!4m2!3m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca
+  - name: >-
+      places/ChIJZfX9J2ZFQogRygkd5WSrth4/photos/AUy1YQ1Z0pcWN0NeyDs3XdiFaQwd6zjh81xV8H_J9N1_5MS7bmdM2qScvTr2KvefCx-0BbiVFwkCTeNu5piq1o6mTqHJgrhiuYjmc2QwZRYg7OidrQBanfzoTR0odpnaKCkay47qNhucJTUMuSc-GTI5g9Jd57OVKe_zg9_Epw9NBuIUMP8yYSa3Q8WUjGVa4abl0Z3SUc_S12i4Al6PlO3icoFk4X1EeFnKi4HgUa0GGrWgi2NCUzYLdCvYOom7YPw7eWZ_sfaPYnFYVxvsBWVbBo5eSSwt0exg2roQGuZ0GNBjuSmtQyl0Ou6jRgccGzdm2BPsTDEvg4PxGrGxtoBUxMnjdPHazaXQjnmSboP-1YV-x7aKdZf-8PJ7mSMQzOoNR5MYZY9ynuChCK3U3Dkz64JssPDmj1-nDXTINGW6QxSTXw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: PDX Hood
+        uri: https://maps.google.com/maps/contrib/105176922314465794689
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU7nlLvc43VrsgXtFlg7tDlDFf3Ld5L68ASveCdZLiN2xG8QpV5uQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDH4tPODw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH4tPODw!2e10!4m2!3m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca
+  - name: >-
+      places/ChIJZfX9J2ZFQogRygkd5WSrth4/photos/AUy1YQ3XR6xQ3IUoKiGirLiMVSQJZqrYFgvlKVGLeqFiI2ZfX7Ztdat99ozkhx0FLhQvUqzGJ9I6sBt2kqeKaoyHUgHnaXYnTq_LBMhnxa5BlhzWRaG-fu8af7NZZ9s9YSNly93k6lV13at4fJgpNN91xCWQ-Tl3j6y5e4h9Ytd9rCexB-POoXfuB4UHceE_nAi9WqWx9JpYzBkFWSoGLbnOTLqX67Oe7MMst7JNa8vPwQIDx_Ju-LJ_recN2ehI7dSmvcgeyYrnIYVKO1b7crQ5vmVlPCf5pmQDDVxuJtQsdhFfe1DnSzi2zQGz24r1BfJZJCVuCZOheJsw98rjn-_jDcGHRd1QazaZcsBTQas2AYunM0oREr_VgGBp0SpozYbOz_lSFlQdIQn9jqDMdA_1wG75BoF-fpCD-7ocduNRmd7toA
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Rachel Litvin
+        uri: https://maps.google.com/maps/contrib/108465892326444730275
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXAs8mkFPbYq1CAshzOWaXw_KAMyoqsax7wa1tMC4PKKzlwtdMS=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC35__ICA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC35__ICA!2e10!4m2!3m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca
+  - name: >-
+      places/ChIJZfX9J2ZFQogRygkd5WSrth4/photos/AUy1YQ0wIcMBAVGnpOZxPJrFKWvP_0pBYde8SYBnLxI4FzwYXIMKHnAI_OtHDhn3-LqHMVLuymeHIYElEjPb29yJj3uBy0AzGKx7KT8_etd_jFAKcpB0Qu52Ul-PkKwDYGD1lLZAif7-W-Pt_lP3dZFSkkeZLlFTNTVtuBXLGMnRSoZEltorNj1N_waT5VHmUO6BD7dwNfJvhJMYY6znmoH7JQrclue63gA6F4qUKHR2F8oSkYG3ug2M_PWzcySBPQ0kD0UlGi2pzw6klWJRdOKKy2GjyBnip5q1D78y6_m07a75BVeW4NzjjNfqwrkpAAgujdA8vKhFS8mr1SypIKYjW5b2Tlzw8Z6IKcpslTgpqRiy4egM1Np2G-jYKphfaoUZgkrpPwz_A8cdY19jJdChe4NfQWA5WuzvNTRsyYazvXMzAQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Yisel Vera
+        uri: https://maps.google.com/maps/contrib/105903324322549151218
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVTHFdauoaMnECk1JS1RB0RBEzTv_W6XA2QFvDLmXWZhvhrZ-Al=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn59qjNg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn59qjNg!2e10!4m2!3m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca
+  - name: >-
+      places/ChIJZfX9J2ZFQogRygkd5WSrth4/photos/AUy1YQ3mGvI8jvarfCJQNE3B6_uqw9qJWNKwaFBx2aDImku2NSVIPGlFobcgVsLh8prk9t-qDAEELZZ5Xe7q_Xgf_fJZHIBZj9AjSz0N80h6Hziy-Dkw091unOsjGa9kUbFsOXWJeqAm1v-LVIWerycDLL43K3mj8zDsI4MiT_IUmSmyl2H4BOLZVnpufAhWNiDXOtSbCUKuxQ55efrhjQ9peCaKFD7AzLEEB7vSsdej8rLCafUSkuD1AF45hQG_BDjGWyO3ZeDlUtLZartMoZ22MuDZCMl416-SQjjSLf_uUZ7tcMrcLFwDsfLdfQhw-GVG2156iMYcoCv4te5pPoWqIXZLY5wn0_mTb2fbR9vLVfecWHWpzqwCyDiga8Jihw0BuO0zwEVfwvOQ9vPvyzfBirWBBhRyFrf3IAk0gE3gPKzD_A
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Eric Gentry
+        uri: https://maps.google.com/maps/contrib/114800860951552842605
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuw4RGYcFQcX1VMvAqyK2hhJ7IQQIigI7IWFWHYW0DcYMEKfX2Jg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT4q7FIQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT4q7FIQ!2e10!4m2!3m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca
+  - name: >-
+      places/ChIJZfX9J2ZFQogRygkd5WSrth4/photos/AUy1YQ070SgfdqbksjQvgbJOOozQ6LemCwT4lTnlPy74zbFWZgoJFKWtXEw6NBli0VUExMK4oq2TC2lDkOMTWZO9XBat4ZvMHn_pwIqquJ_tzytad5n54Wrrd4mLindQaGpxOXvT5dGzlPLrBPbAnjhL_ZX-OXLHUysFi5uQgZ9fYJ41KGXcRZVXid_HMz5HoqPuFGWFdUCJ-RwEdf23NsLFfvejtWhz9hxI7BHNHF_Wc6jmNtp1pXveSztOwgEBNMiQYb1Bo5ik1TWER8etHWXGG3_KI23r1coeOFA9awG87_rAnQDxxogy-ZHuNi9zkVea5NZeGya5klirzmGJUrEkEt-vQSS6ukzaOEXeMa5w79uMM10iR6dOtpffgmGs0QMUkNTWjwWRdXra0ELA97iwv0mod9ifzWOptfelWBC1WZh1tA
+    widthPx: 2136
+    heightPx: 3580
+    authorAttributions:
+      - displayName: Samya
+        uri: https://maps.google.com/maps/contrib/106436807678791348371
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxRhLtfbfdTojp8ZDaWdlkd6tq_7hDH2IKLiIVLL1_mqgZ6Q_qJA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICnjtf9Iw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnjtf9Iw!2e10!4m2!3m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca
+  - name: >-
+      places/ChIJZfX9J2ZFQogRygkd5WSrth4/photos/AUy1YQ3VKBchj625SMbCQ7EKTkQjUk5sWYrbbpHQZrvGAqbSEwrYmgpLkQt-IZO6m8IiwJt3p50KZ5mqSC-_Gp-p2PaR58e_Vz8fyC7IhF-qBBMqx844YgYYp6hJwdOvqIQGgvKH-RDX0fxRcedrgGfoY-wHVMKQYPeonZfA56aiv1thYxj6u-JMPL4WtA-6VCNtL-qadOxrvLoKOGWH4WC3KpGHFcnW9vXiW_p1mRaMtH31PP3ulYUxwzqYrhB3Nuyrb_GOhvBuUUTu59qDyZUgmAHHsVjrdU9TnD8qxH6Xtqk6AUnO6C543pWIxdhlh-XTSGF6lc1Ds8qvPBg5TI3GcgES4BjaJpAD-ckhypNa2kMh2STrHABTdhXoBsyc7kbyrw-DnBSb5p_6PmGFxez_Avo7p5j8xNJ3OMpVBGZsWKs
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Crystal Marie
+        uri: https://maps.google.com/maps/contrib/104365344280473111662
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUp-SwheT7KEKjwHF7UFNr8pPSpu7BO0xZNdFIm-t0oQwtsFqZA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg6_XLQg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg6_XLQg!2e10!4m2!3m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca
+  - name: >-
+      places/ChIJZfX9J2ZFQogRygkd5WSrth4/photos/AUy1YQ3KDVY8_eRceHySg9dsSk7zClI0OxaWoFsfFtILjiqEfo9Cz3H2sYPA6nr3znx3YuY5x2pNvp7d9osagHpVceYgq9QIF382F6K67XD-lcuGkfL2QgfwIJ2DqszPGJ2S2ZYmuWtoAhWPyjx-vrVkTIf7sQLGG2h7pvPEawfZwqCWNqxBflRgbMAvB8oFBW0tYa9G_bB92ijiLnlaUxkqdNDkqGYEZLEQhpA6azHD1VTdMU2kA-rfRX-QPyOPiK7wBENrdsTRxUqIXFlNt1SZbJDVvJbSg6nX21fQXlodyishmdqh4uW0N25bVtu-gwGV_xK-mjXMyiAJzsNHi2f1gdQOWzis92VMy5hwrQ5rsZkmDhXQV0loNc-1pFMdI2yib_kZFl3Pj3dSAzU3La7S9XNP-3Pj2xNe6bYkjg4umLNXxsA
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Eric Gentry
+        uri: https://maps.google.com/maps/contrib/114800860951552842605
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuw4RGYcFQcX1VMvAqyK2hhJ7IQQIigI7IWFWHYW0DcYMEKfX2Jg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT4t62sgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT4t62sgE!2e10!4m2!3m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca
+address: 848 E High St, Lexington, KY 40502, USA
+street: 848 E High St
+city: Lexington
+state: KY
+zip: '40502'
+country: USA
+neighborhood: Chenault Road
+latitude: '38.029920'
+longitude: '-84.490013'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Omakase Sushi & Sake Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8842456627fdf565:0x1eb6ab64e51d09ca!3e0
+  placeUri: https://maps.google.com/?cid=2213144716728142282
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8842456627fdf565:0x1eb6ab64e51d09ca!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8842456627fdf565:0x1eb6ab64e51d09ca!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8842456627fdf565:0x1eb6ab64e51d09ca!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Omakase-Sushi-and-Sake-Bar
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Bamboo Asian Cuisine"
+permalink: /florida/ocoee/bamboo-asian-cuisine.html
+stateAbbr: FL
+stateName: Florida
+cityName: Ocoee
+place_id: ChIJ9Uz_NqKC54gRvEzzg9EYP78
+photos:
+  - name: >-
+      places/ChIJ9Uz_NqKC54gRvEzzg9EYP78/photos/AeeoHcLCSNndcawk1fQB6PYSOE0D2t1Wbp5e4Sp76bwDtbRdda6d6ln6xQXKXhWe1UyftxyTKJ-gLyKLTl7LzNDgt9bFahBZb9njb6qU-Kx-Iw-yWu2uZYeISH2Vs-HTS_v9OvRgNVcchO2A8-9fFn9UUOniZoBTJ5ENl2MYrU0f3AxMSndp3E630WefdofEQuNlkCZtsK3ZW0NVUEn4oNwlQ93JDSoBLKE2jfBePkLrT7JewAakzlKT-iCICmoEvungqxy2mFMHZPaqTbyC_LVI1Q-JmTjLEd9nRwb3ICxHh4x0Ku1C6qsfqufZSfL4uoIe2nWcItmUxpOA9P9TYNYyUq7rNpYtQOCuKLzeQvsT0C3mVYHQkiOmHRRexW0MdWV3pJ4E5hP3_Im95iQUKSFALGwSe9dJubF9HJtU4bkn2rThWpIg
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Bamboo Asian Cuisine
+        uri: https://maps.google.com/maps/contrib/110391520645617372844
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIdC2RbpV3ZUYFF1mGiGPfKi6oSPG8LUouyKNZIuQwxM_vkiw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDUuM7B1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUuM7B1gE!2e10!4m2!3m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc
+  - name: >-
+      places/ChIJ9Uz_NqKC54gRvEzzg9EYP78/photos/AeeoHcI0xxNbAsikcS6dmA_OeXkXXYpwuOzPc25zycMhhP3LCnT2nOCCTE2J9ExKubEnS8mVUO5xsMjJ2ZxBEEuwfnhlM638lXH-oyTUXfvqhbFD9AONmO84pdZHY99JzQ7Plmdf68Z0ZvHBiSwmu8UhAw1XvD30h0nOf3NKGDk75LpBw2WfdpuBVerOgZd2J5E807IYVHNju50E9AKkv1apABLtWy5EVBAVhcANYy6q-pJYKOygn7IV98FzUufwERqCEJlrxgVBg6i7nICE7c7t1ts4XLgs35z5aJbOaAdQQ3z-vq_Vk4ASa_wCoiP16Thzsj45EX9Y24IVm6efp2XljiAY9PwkPiK9AO6rnCSb770wCD736VuF0c5ZDurG9sd3VMvWbbcAC1W8NxpbGfzWk3D36qwk8TLZ8q5MVpM1HIrmIqk
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Day J
+        uri: https://maps.google.com/maps/contrib/104385466689853914473
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXowqkCVVYsA95Yy8vB53-pan7s5PxhXTvjKn2fd50vS2U1I62YQQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-r9bBoAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-r9bBoAE!2e10!4m2!3m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc
+  - name: >-
+      places/ChIJ9Uz_NqKC54gRvEzzg9EYP78/photos/AeeoHcKyC4GSmRkycsx71pa0AKBHhDPvD2yMWV82-16ZT5j30B3m_9FV0LhdMmy4Hgso1EebzMmgD2VzXvrURa42-rlR0SswYdkNldzoQ4LL8GtOwLXzyczSah8GMU4zBHnUKR1dQYvKsLaaoilWB77bA1VpKzGjRho2F3edZq5LW-cU4TuwYaYKNfIiyZBTOd6omC4AvXzAGwsm-Nxtq0TiautdJF4kGAKsKfHTxcALqhoPXuTU6KuLLsszOePhRIYV_C_vCgiRHiDuYsjiNGVZ9dr1amTrkggJNxNdwCEUlN2oeyPGA0bkLe6you3WdNLv-xvN5QBDvNcCAPXYl66174WgnIuZzew5lX6joOZ3bkKKxuuPgyx0cd8tjTFVvzNEiuWV_8xJyzP7hB4G7_f2iPkAFs_J5Mhfxct9i_k8rzJ17Q
+    widthPx: 4800
+    heightPx: 3199
+    authorAttributions:
+      - displayName: Bamboo Asian Cuisine
+        uri: https://maps.google.com/maps/contrib/110391520645617372844
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIdC2RbpV3ZUYFF1mGiGPfKi6oSPG8LUouyKNZIuQwxM_vkiw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDUuMa2Aw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUuMa2Aw!2e10!4m2!3m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc
+  - name: >-
+      places/ChIJ9Uz_NqKC54gRvEzzg9EYP78/photos/AeeoHcL_Tz1opv0YQlTgibgsevzTVErcbzkLLJQaKJsg2AxM6rOFaW01vXRhwLXiyl9R_sGCqu95N97umBhk46JBc98B6j_q3NH3w-utfl6k7hcVXtMobstMphwHiGqaFQXnHEOsjQfeZElsWyxTWYYBLr1FoFFRZfiExWMJFzvm_rY0svbXj3Ul0DYekR0Ipg4Add8xk5tf68MugdJCiEd08yTMjj3Q2A2zbmT18aWaR413dy7I0TYP5M04O3LDE_NCGSjf3SW6vUlYIZbLsP1HznVqAEWDByJ73VPpKpHeYYU--8QK5PEaC-AO0Pf1JzE3-AaVviENgY7Y4lfst0tmkk-_7tK-X1NOgEZ7z0Zw2WkOQ3KjiIskXFs53j2Yh6aQAXkPte2DudqVCcz4uzEZyoTC12nsqrKffD7DHNXcp5VKWw8
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Bamboo Asian Cuisine
+        uri: https://maps.google.com/maps/contrib/110391520645617372844
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIdC2RbpV3ZUYFF1mGiGPfKi6oSPG8LUouyKNZIuQwxM_vkiw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDUuI7auQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUuI7auQE!2e10!4m2!3m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc
+  - name: >-
+      places/ChIJ9Uz_NqKC54gRvEzzg9EYP78/photos/AeeoHcLMoH7njy5DupHdVVraXJSgJr5gwp0jBEvpkMsz29FDhzjsNj-4axSqLRGhU-N5wFJqYElYeWo2jku0t2dabn3ciIzJCYXjXRctQIvakFti9OpQdGuDXhPYHTHZDDXf7IGNwYiEhgksqXpBq2B9Qul1kkWcG8HheVG3qROJf2N7KpKmvK-DbfXrAmw5MVQyHFpiy-Sjg8kD95mJ7NY66AOjkBZN0EpdyrLNf39FMbdsovedxS_MpLtwKwlDeLO2IvfBn9Ls_IDAVikCjB0eDzLn384QGjMu0NVsrxSeDh0qphv5lV1X7SVvru-oXoRajqwLotUYtO1_bKM98qsSsqmf72NdHX8iniBs2l5IWwqrcqPDIDXRfIGI2tsA3y5l68NV1rgmCXOu_wGLLFk1CPN_9haatq0VKiNDtrNSEww
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Bamboo Asian Cuisine
+        uri: https://maps.google.com/maps/contrib/110391520645617372844
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIdC2RbpV3ZUYFF1mGiGPfKi6oSPG8LUouyKNZIuQwxM_vkiw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDGo4mhTw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGo4mhTw!2e10!4m2!3m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc
+  - name: >-
+      places/ChIJ9Uz_NqKC54gRvEzzg9EYP78/photos/AeeoHcJ4MuKBrj_VssljM_CsPNp2pwLwLMkJejkOVBixT4ESQ1hqsUtdRXH5jyJCOtcd4G6fL0qPk0stcf6oTCc_TfUkTtDpo813nzkmqm7n3r_xfMt0EkY37iUp8ChPuMywrBQnpFHj4ucV0vZNZoz_lgHsZrNVHK6YcMzNTuYkG5dpUsvv8sQ3Y6zbvz80y9lWQQ2TwhbuIWuxKSm7rcYWs3WzajyNrV1MjsdWWr6qWPX6JyVt_61GU7lp_Cbf0VxS7ZWR3-XumR9LacLyYqpHawJusENqP9d4j3cFgnjvOI5brMYVLklI1aW3lFwmoun6XP79zFv9YrW7d0YHawgp4HOyLRr_Bvfe2W6X7jiDIXGv1KIDaBwLWK9BAIwji6DdZkhIgBa_AyvLTg1mrb_7dWT9KkAMhcs6rvI8WGqgEFzGNM3x
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: carl Townsend
+        uri: https://maps.google.com/maps/contrib/114082531783466654327
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVUjTnO2Vsh8JuMDYH48v3re66ZdPEA03seO3JdkVvxt8Sd8g0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID0y-iNwQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0y-iNwQE!2e10!4m2!3m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc
+  - name: >-
+      places/ChIJ9Uz_NqKC54gRvEzzg9EYP78/photos/AeeoHcIl-0c7UKMXM4BdHTaQ4FxuHz2-EYIUp-8VW8X04lLnNku9FAJhxK296kNFdkBGAPJluqFRp0jJnBEnBu4JDMSfAKpXQOghUeyyxjU0Dvs5lerMVvO2SgtWTjrLOjhzwCRFxZG4_xSM7iRbVH0KTkl3rhPDibOtAjTE28aYn97nVGopniRF3cM-2BhfEyNko3CzFaH11rOw53I23TIuLEO0jC7D6w88RhL2CKmpqQodQlO_mzd0WVbqLzXZg2rpYgvq6XnUN7rMTHRY6PFh2spFMJazuwzkd_PnzfyW0dgOIv3HWOfj5I2_w9XDcENpu-2dbZuOK_JcpQPeSTTtiXE3ZGzs1Ic_YuwM5T1ZpaknC70_ZABG4F7kCH9qaGx7IZ3HImrWPVGTZ2Ak40x71BjJ7K-K4I48qlu-E6Hx2m2xBglC
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Bamboo Asian Cuisine
+        uri: https://maps.google.com/maps/contrib/110391520645617372844
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIdC2RbpV3ZUYFF1mGiGPfKi6oSPG8LUouyKNZIuQwxM_vkiw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDUuI6QsgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUuI6QsgE!2e10!4m2!3m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc
+  - name: >-
+      places/ChIJ9Uz_NqKC54gRvEzzg9EYP78/photos/AeeoHcJcGdnfdKQWaJ8MjFrE4cZkFhVPrIFjlqAI49bXsQitUx6ljX2AC5mHts3Wdfh4hO6d7N_6Ty87bQItbuxDRgThxbnMJcnK0qO1UbH6pD4gjdd47gxw0MoXWEyLuXJf1I7EU6ycUvMjXZx_OP89idyO3cogYOebhV_2t55jSg29PbRUgrVk_csKBLuyWp9TNkG4fSLeXVXkBMwbhywI9wEplhCEd-mTVmlzbae1EkdmsCDG0mYngwhS71ZSJaeYNx5OUAehmUQSsE_dcXDN1mIExcihxK02st6iynNQZ5TFxKnGPJRJL3KnbjfBwOuv1DuKbKCDL64BvomWRYlWDGBJus7bOSWzP5U2N4knaVsBjpISCDjvP7uLpCev7HNQa4GP2I7ysLJpVfTUnY97IFyb-GrspjQUuwSFTTTSxCOUoHaZ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Bamboo Asian Cuisine
+        uri: https://maps.google.com/maps/contrib/110391520645617372844
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIdC2RbpV3ZUYFF1mGiGPfKi6oSPG8LUouyKNZIuQwxM_vkiw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDUuNrniwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUuNrniwE!2e10!4m2!3m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc
+  - name: >-
+      places/ChIJ9Uz_NqKC54gRvEzzg9EYP78/photos/AeeoHcLIbe5BB5562uYirtDPHBZ_TvGCC1eUDM8MrtLs89CBd8Oxgkj0cx6tp9CmpoA26xmi3LXvLbzYSetkHMUNrWFudf4FcaM-pYSy9PTXmfg2ypdIVgH__Ws0heQfFQEDMfgYH5M3QXXpldjnYhzmEjKb61G3XbKU1kQ5ta3KYqCGvDr_PuYKWV9pgWXTaVknnfSOWw7ShhPjNP9EiQkvEyAsOnehCO7vot2SqEd7mophaibLf8wpn7m4tBmlRlyaCCjhpnf969sOu6523aZ3KRZ4CIKwaEZXIb5-SnLo8XjqxvMZwdCdKXlFtK0ZbIc26jOplXkTjb8_2H8YE4KfLOw6g_EbGIaC9sXWR9htE4mf5zKSTRsLYeG8GurK6o-8uCcmYyAx0XqGmMhHW3Q7fWAzd00qDk9CaK33OB10sCY
+    widthPx: 2946
+    heightPx: 3285
+    authorAttributions:
+      - displayName: Day J
+        uri: https://maps.google.com/maps/contrib/104385466689853914473
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXowqkCVVYsA95Yy8vB53-pan7s5PxhXTvjKn2fd50vS2U1I62YQQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-ycCUMw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-ycCUMw!2e10!4m2!3m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc
+  - name: >-
+      places/ChIJ9Uz_NqKC54gRvEzzg9EYP78/photos/AeeoHcLhQf58p-Ssvql2S6GMYhnMhGtK_uC6rbJjFe38VdvAO1Yjzx9xYmOd2UWO4eBkbrsw4eMs7pVm0oknJrNDJUet0ygsAB4rvsK_PS92zqh6Ir5e5iCrFbT-PfYkfsSY1RIhgL5pkHZZGeRRjKfHpd8_zeDF2IrkkUy8-Uy6lsEtxK6UR5hrPEuGhAdQF4iXlSDkm5NlGu1fdWVrnviC-qE51Ragi1um0T5LCRWDfgNqcWbr3s4OX-D32fXRaFWNI8ZDFxnH30ZvMzmYkXlhIWFRGJus57VNg8gEm6RfGahBa5OJsKwBywHHiPOBP1NQVOh-Xs4gy3lbyUFGeSrdc_qCQZAr8EGXtgvqEOyvwm3GrxrVPxu8OdjpDeDJDus_osnejZViOGmytury4tP8p1CRui_J3IHLabfy1SlFJXI
+    widthPx: 4624
+    heightPx: 2604
+    authorAttributions:
+      - displayName: Blue Casper
+        uri: https://maps.google.com/maps/contrib/105822635881824492567
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUHfwcIOiYdty2gCe4Pmxdey6RRRQcQZzRODHw8uro6vLR9ptnq=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRtJ7odw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRtJ7odw!2e10!4m2!3m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc
+address: 1567 E Silver Star Rd, Ocoee, FL 34761, USA
+street: 1567 E Silver Star Rd
+city: Ocoee
+state: FL
+zip: '34761'
+country: USA
+neighborhood: null
+latitude: '28.572339'
+longitude: '-81.518721'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Bamboo Asian Cuisine
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc!3e0
+  placeUri: https://maps.google.com/?cid=13780760672917998780
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e782a236ff4cf5:0xbf3f18d183f34cbc!10e5
+primary_type: Asian Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Bamboo-Asian-Cuisine
+
+---

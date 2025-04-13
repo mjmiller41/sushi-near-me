@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Kiku Sushi Restaurant"
+permalink: /maryland/baltimore/kiku-sushi-restaurant.html
+stateAbbr: MD
+stateName: Maryland
+cityName: Baltimore
+place_id: ChIJX3uL_WUDyIkRRC9wVKOWDrw
+photos:
+  - name: >-
+      places/ChIJX3uL_WUDyIkRRC9wVKOWDrw/photos/AUy1YQ0X-X0CDhJlxckcjIzl5XWynhM5HvWAWOnyGQN1oeyYKS1pz3b72RdZGVXVANAFvIcZB00OMgVjuAkKEV1wQr-au3JXbPZc8AsPERgiAfVMYHhxVaNdAvFTAQ7_RaDjHLxkO8_DuqgTfZRk3u2GJmXO8WJrNDFXFlj5jp1NMKlCsijSACCoxM2WKPlrXRNX4M-WfiFWkBmRlIjrv_YkFuK00MDjGg17It6bWv7pjdimdF8y9WqUWaARqFC2fXBznabLFkyeKweG9TN80iQZiZI9XXQErlZZvmNtPWDsi86fINM-R91867ucy43turDEp-6X-KYf-HWUMBkJzJtAe3j50Ks6E7rQbj5woLEIYTJiEW6Hp-AYwBYd9KhKf8dkmY7d9cEdAtkyiOdLt0OyGj8p-W7AYCOOeMTYOO86BGkz6Y2s
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Lauren Donahoe
+        uri: https://maps.google.com/maps/contrib/117926096697708887772
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUzI-Yh0isB7B_BmNJ7sis-yuHryYkVNndfPBwKUUHBSPsVvff4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDllc7JoQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDllc7JoQE!2e10!4m2!3m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44
+  - name: >-
+      places/ChIJX3uL_WUDyIkRRC9wVKOWDrw/photos/AUy1YQ2cMPfdaiM6i1AtaeueJlIvOzdGb8zPttDUOLqZ4uWc2t-QmrxoZqPskVzuUtu4Bx1d9yT5zzObvxghxA3YDIKSxxuKd3m89zuabQjSJHJ832YvGbUahoMl358s-KvigVlQeQiSelERuetfsMj4F-4AsFw-bVbCkecUWyWoCkcRD2m_8u1fpCO7UYm2gcqPX_3SABACU-bBxc3nDAtZx6yDUcXuMPBu6Ljt_2WcYR17Bh4JuJQ62yq7uRPTCHuOLualn7usuTsHpVwJXh0PHrTeHmlq1kjvj2lS5AIlRbY
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Kiku Sushi Restaurant
+        uri: https://maps.google.com/maps/contrib/105788882588640293203
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL12KoLnzXgEn_qpMFPTudBpPxGxZEF6Am75WotLyanIcWq=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPUIJQ6qHzxbk6FJv9bkGuZK0_58kD5H3xHWnU&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPUIJQ6qHzxbk6FJv9bkGuZK0_58kD5H3xHWnU!2e10!4m2!3m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44
+  - name: >-
+      places/ChIJX3uL_WUDyIkRRC9wVKOWDrw/photos/AUy1YQ3hIDeQ2IBGGJ0ZCxZd6CH3S86XsfQc_dTcHZRQjwloEsj-CpOcolrclc0EMhXu581Gs8GzWiddmBFmQ93-noqx2PA0e0ZYOhRyR3dOG7tYxlrPyfAU-5hccgI2h1cE3Aw9ZK3y-cyuz2tf_N3BOyBUzO9sBlOqO-2ov78LfEezkKdB4LH7IbGFuJqBImI976TWePChQA26aqJJdsFAs3wJEi-Rtg9I5QaRTXujoRxq71OdvKhz4adC0osE5wMNm1xJPSslisHEj9puqtVXG1zZyuQwvjS-9Y_OkUDEywpKAHu02lBtf78Q0X1n5lBUnEsL8iuh7PyNi0prms_VPQC2j7tM6huAPFGaVsoxnKlKtq-tQ7-ANPyhfiILeLByjQk4JL4TBVUj7avpvS_8E4h8oLyY6g2ER7ESqoTyOV7cmg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Danielle Crosby
+        uri: https://maps.google.com/maps/contrib/109575735193900884829
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW0Zp4e4y7pvY7H8p9nmLQC1g13qdXRBrtevY69IDo8lz1X3YWdsg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCA_9HDBA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA_9HDBA!2e10!4m2!3m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44
+  - name: >-
+      places/ChIJX3uL_WUDyIkRRC9wVKOWDrw/photos/AUy1YQ3DIFaXY9gQoBSEreDcwWb1IPqDp3hVe_cLzpt8ko-DTRXkbCWsoB75NpKd10wz6LN_rjruEZvfJveObROs12WIfOk-jIq3pniKWTo-1jrWKe1Fi-ZhfnZc8kcmUuE1M19Pp12WyJs-6VefcyWKdvYzG4RxBgH02RuNIUrH2w01mgLsIc-RDWIOdI3xZqxaxjSL2-JGQ5e-BOzqQ6e3XKc7Bkf_L8B6pTiDjkhHaqrrvmG_arzW95mBE5kisjxCxyQNKoWH-G2nChjbAkzf761pNpBxP1ijPM48PybNA2Nisu4iBvHTExIxHn6VdpSKzTW8A3rH8nRle8JZZYCFCPX4K0vICkQM6gkrocC_tjt21ywwGDaIQpq6I1mssq2_m-sM7i2yT64Wy4pvs2vrfuNp2O0h01DpXf7ddSe7QcIk0A
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Martha Munoz
+        uri: https://maps.google.com/maps/contrib/114795316668572567243
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXGXBXwDX2xnmMc4IWoBpaQMrVVhyDFcykQTkPdmnH9_am6PoIV=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT0qOcNA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT0qOcNA!2e10!4m2!3m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44
+  - name: >-
+      places/ChIJX3uL_WUDyIkRRC9wVKOWDrw/photos/AUy1YQ2oHhPDaFqOxxExfMg0In8Mv4t4u0kBOAKNN9X6KsxpID9j1vMqht8SznWJOxDA55o0DsbnSYVFIRDAkkI2LmjUhdM_qLZnQ9XiS-stqpC3g5jctNIOI_cxXazjuxJtP17ud9A1I421cb_zd49HRJs_0rZvsOuVy4hYR_XfRXaftA7cp68UXVA-T_HEnrmAJ5mUPLMdKiWDYrvVz60HzMLdXDMtyddrMpKv0p3kaHm4uBfTchMSKViHxnYFpkJjRNfHB7r_Ye3FKbelAqrHeD-mY8zSb6kr1DqOO5jHufPTlittGbw1w5Njp4WhFB89JQnAT2mTPBIduMIBj5HunD-_jv9q54p63VayHgwahPmkk2zQLom5XEP-iGHUe1I3j6ujCJZgb97UJLqYRRTrocs6h1C-aF8RhvR6GYDpAAj3fQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Amanda
+        uri: https://maps.google.com/maps/contrib/110689826438161155099
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWQcjjflTpOprCAYZNch1tKkd5KO2PiyKNB2gtTTjUciqYMKzRd=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3hJuEJw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3hJuEJw!2e10!4m2!3m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44
+  - name: >-
+      places/ChIJX3uL_WUDyIkRRC9wVKOWDrw/photos/AUy1YQ32TLzytEjFsDOHedgMnGj4SFfQ8S7igdQceOMd5RGEsSwEbQIcmD11oNpIPttmRttH7erRsUhxSODJsXn4Yeit9TNMbBioBxgHGe-Qvs-9_7wkT9rDtCgKcycQ25HifYaLq--5vKFKPuhERt2DUdqwfvUBZHMwM9_cwV-laDFQu-LCUfDN2gWzDVTdBriIpgXLr9HbZunXtlHDarITTDSxSK72AOjRRZHbcWjAkbn4D69lsfin9FcO-BXq62sdkrpK2Wu8--VpJh6UgkWChz98k7xtGEWJgLJyxZBW4wQviTpPAvWe9ItE1LOkMjZ0viuwZK9Ylch4Lw9wn2oGj0ztkxDuL1uuqgt6PxC8y7jS7rolokbbkQPYg6USzhIzi2cgJcqrMxvY50zo-pPzPV_8gQ3nyJGMdyNzDBNA_QY
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Lauren Donahoe
+        uri: https://maps.google.com/maps/contrib/117926096697708887772
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUzI-Yh0isB7B_BmNJ7sis-yuHryYkVNndfPBwKUUHBSPsVvff4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDllc7Jfg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDllc7Jfg!2e10!4m2!3m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44
+  - name: >-
+      places/ChIJX3uL_WUDyIkRRC9wVKOWDrw/photos/AUy1YQ292xjpPwU7HdM59ow5VK5e-6V04GC7PYSacVFgiPTDTf8xcOJPMgfYnd_D6GPCCo3pFX-Qgdwf59E4t34MkpHqt829CYmD135qjsm61l2vv6jwuW_O2nAocMKoypYHcK-pStKE8DOnGtoIgicrLnscHcTX9P_pVbt2UtqeT0vwulmjuj_aMCrZxzhvRLfwn2wwNWmJ-91UAF-upruZ4q4J-GuqwvQhXaQ6rhRytZyhnY_3VE1Qy0DZOhXUQKyFEK-aObBjPJ3GhNWc74GUPSmoNEKCBMEIrvA74IQjiRGPWdMLhRBGRrK8SbGygSQEmSQwcllE5bqsRUCgOHu1v2ookFHFokuimh0WK63UWFyMsB9dF63NgcuPpnUMoiE8y8vQKdkHbrHhtRgT3a3RVyCCGfIy2iTxAT6MjEc1YCU1app_
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Erika A
+        uri: https://maps.google.com/maps/contrib/107146119141415940866
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI-KW8ZQZsd56DebnXsbkWwO-k951ejEXSaGNpMqer0YXv_5jg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICu1Lyv5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu1Lyv5wE!2e10!4m2!3m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44
+  - name: >-
+      places/ChIJX3uL_WUDyIkRRC9wVKOWDrw/photos/AUy1YQ1y61KCAx8uaCRi5Fz0q7ug-f61rKR2WKZmCQBlFSXa5Fdd2Qogy92UJ2SQE_VouUshXqInvc7OZPFNcCESX9mvwkX8tGBhS6cZffcqN8u5LxCAVQOc_A6qIy2THewMLHPX2zScsjX7w2XxQsfbXzPpoCv2tEGg0PGqyKKhUV2-UrYc-SUfabSLyd3L1eqIOtCq1xCe4Ja2wGo7C8ePhyEGv6FDzeOwwzjS64Ek4iX2Qg7wbYGGsh5J48nayruGcTIgvSUw09D2R-N_CW-VwuqKGQkofEaCAGe4dn6bBBlBwl1-8HqlgJEmBz5fhFaIWYMd70jgUFOA4TKY1RvwOpXPALGO2hpfPbrY-rcsBiEh5OEVnve1ax0xno0_ajpbb-mRWhoHIqtlbbOkkK-zfvARJd8pFizpeerGsXw1EYfQNMve
+    widthPx: 4000
+    heightPx: 1868
+    authorAttributions:
+      - displayName: Justin Peters
+        uri: https://maps.google.com/maps/contrib/100451313061062943814
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLfyU2Md_eCgJ-P6GGFOyHzjuiWAmtrOGUGiKBhen_1vK3sTA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICljr_jxQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICljr_jxQE!2e10!4m2!3m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44
+  - name: >-
+      places/ChIJX3uL_WUDyIkRRC9wVKOWDrw/photos/AUy1YQ1BPtx_nHa2Z9OEJ8SjZArN7FJbwXmix1CjG3aW5haFL6wLjMYdE6VVs46RV1exeIT9UqhJxHQQfLqmxnRz2Z4WVJpq7ooJ3dxoliEPO3mGjoizWdcmNZ-3A5GDOixcuLDqvvQ9Pvhpm3cb8ypNqRbY29_JySNta5Ze7C6yJ3HCz0HlJIsDWmbm6TYDs9CJQyzusxgKIHC8qVZbH5x9QHnJhyuNrKFvlDE1sMk1n2DjITOamvUKvOxUo3hG4YYmaiN5cFWFRI86XPsgeOku199cTcvoeaPrSOPYas4pThF9I_HmRipzv1Thvmsu_gCgjmNj7Vs2LqKu4sA9r2d_fGKbVA5OvA3oJz3RcwcswdiD0m-S_VslLfCCT3CVOVYbL1qSJBczitDulxqVAbjz8OUkV2RrFiaugdoebSCfERfegw9a
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Carolyn Frank
+        uri: https://maps.google.com/maps/contrib/114425830886407262115
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIh6Je4DJ-Mxv6_f1UypOZWNVkLwqrn0Cey2WdAKG8Wn0wMIQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj3K3x1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj3K3x1gE!2e10!4m2!3m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44
+  - name: >-
+      places/ChIJX3uL_WUDyIkRRC9wVKOWDrw/photos/AUy1YQ35pHz_QiOuETcOB6OZeYyWigvE9IWpzCOj1lMoLsTFHQPCkidE_RKD6UdnWdzcF5ehfJtD1r-7zkdl_fzuaLKgFuzw01v62M3ZCWQgApiQm0NZ_XKJNUW3mLS7yyzHIaMl6fXb45GfKxLqrskC8137MfRmvUYu1DWb1PDEWB6T2c2HZGr7JRuEn_tIKG8Dpst737OJ6DhZh14GcmeOIzTsZzm-OUZc10RkTqc-zrw-l30pGfrzX6c3Vhpd1pKOw7HUoSuC5q9YK4H20UxjGYootLByaGwhxlu1lGe3cuzf4PXJ0-SfKei_UQAh9c89lEcs_rR8qJZLmVRDpc5gB-msH9VlkfS_0by7Bkntxd9RFx8vupNgblfimIej71G7UkkyfSr7p967W468XY0O3GcPVH_CFxxtycXT8_GQFg48TA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Lauren Donahoe
+        uri: https://maps.google.com/maps/contrib/117926096697708887772
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUzI-Yh0isB7B_BmNJ7sis-yuHryYkVNndfPBwKUUHBSPsVvff4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDllc7JQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDllc7JQQ!2e10!4m2!3m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44
+address: 1017 Light St, Baltimore, MD 21230, USA
+street: 1017 Light St
+city: Baltimore
+state: MD
+zip: '21230'
+country: USA
+neighborhood: Federal Hill
+latitude: '39.277847'
+longitude: '-76.612161'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Kiku Sushi Restaurant
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44!3e0
+  placeUri: https://maps.google.com/?cid=13550933957044875076
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Kiku-Sushi-Restaurant
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Edamami"
+permalink: /california/san-diego/edamami.html
+stateAbbr: CA
+stateName: California
+cityName: San Diego
+place_id: ChIJv3dOZ2n-24ARkqdERvqRYfY
+photos:
+  - name: >-
+      places/ChIJv3dOZ2n-24ARkqdERvqRYfY/photos/AUy1YQ14uX4w7p9mfn1z8GJV4tujyGHtpWHy-C_rfoDuukfPEzS66RtKQHVKiPVZOpLWssfa0mCfDyZAe-w7-K3X4D8dYItiBSs6Hfeqzih65ARTJNdocer8yIFU77BigvCXlVLuQshTXTfO2e9i2ItUHMUL-4decfgitBJ5whUBEpqjo6U6caf__thb0DaLSrkIwmKZbDMYio9pplY8NwWHAQtZymtVOGK80rajY2qOto7k_3UUtug3Cm64_8AygSrk0N1cFytw6jt3OehEP2Ci6q03cFCoIvaaCEyx-o__nPFsbw
+    widthPx: 4800
+    heightPx: 3201
+    authorAttributions:
+      - displayName: Edamami
+        uri: https://maps.google.com/maps/contrib/104685143484931582475
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqdRnYxeXZdxmj2k5H6_MSRUYfXBxBgKbw0lniZ1nZvQh5DbY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMgQGVrOULQGWYqmUMWYBbMsKTwlUS7UbeCDyqU&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMgQGVrOULQGWYqmUMWYBbMsKTwlUS7UbeCDyqU!2e10!4m2!3m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792
+  - name: >-
+      places/ChIJv3dOZ2n-24ARkqdERvqRYfY/photos/AUy1YQ2cq9VDGlA2sNt_riSvWMBwGJC81r7cMbD980JCCT-NoliYjhjNG7KHuuQK1eFQVPaebsfJxmxc1-p8vowi36O_JNLkQwFxjWVRGP0s-afE1DNqgbgIHNhugOCO1VSz-BKKqK8BaVUCJbIumPBdNqH5AozFyI1b2ZP-DTYFEADb0-hCjRaHEKcb4RO-BzGoB-2xtzd1yqBFIS88ztFs9Qm0OqfoTM4SVzv__WWXC6zyMAzJQ0K-PlMoaSieccNhy0BuSyYXO9mz9XDj5qwCjvf09uAEwClmXbmPOKF7_rxEoQ
+    widthPx: 1080
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Edamami
+        uri: https://maps.google.com/maps/contrib/104685143484931582475
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqdRnYxeXZdxmj2k5H6_MSRUYfXBxBgKbw0lniZ1nZvQh5DbY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM_r4NurB9iL7ku_5_ApkH8jbs9SaMfM-2IbRD-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM_r4NurB9iL7ku_5_ApkH8jbs9SaMfM-2IbRD-!2e10!4m2!3m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792
+  - name: >-
+      places/ChIJv3dOZ2n-24ARkqdERvqRYfY/photos/AUy1YQ01jdokHX8wWh4XaZJ3ZE4FivnpvuwSakMr8H_oNnxT3XDiS7MOf4SjCaFIvtfts5ZWxx58EgwbGK6PxFTl0l5BqZhMzV-BnXq5f5PYjd2W4HMPLB9f0iAzjUiOKj-67lCmzm3WnNQ9_I_7J_Dt5K9CsByVfJx0yOXR_tooLU17sMN-YDB8Toe0oIbjzFAcaYPvWjuqLbuICjuXM6GMVAcCF76AwXUhzpXlh8RMM3uFxBIRklU0XGEKQsfan17aqL-SKcMxQXyaRYxOOWpcnT0zjTemobfKWHEbSm7FR6P0hg
+    widthPx: 2871
+    heightPx: 3375
+    authorAttributions:
+      - displayName: Edamami
+        uri: https://maps.google.com/maps/contrib/104685143484931582475
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqdRnYxeXZdxmj2k5H6_MSRUYfXBxBgKbw0lniZ1nZvQh5DbY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM5hXGVHGCYuQPT4LBOtAYwFpZp8XVaB4m1Uzrm&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5hXGVHGCYuQPT4LBOtAYwFpZp8XVaB4m1Uzrm!2e10!4m2!3m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792
+  - name: >-
+      places/ChIJv3dOZ2n-24ARkqdERvqRYfY/photos/AUy1YQ3UtPuCU9P5g7KnRlahoLtjm1_87V4hFASpnP1j_jgv36VzHt5DARXCxghoprpg24v3lEGYpF5FqXY63bVexlezcQM8xTiEdEyYu-4opg0x3Tzo1GEaNnXqUrxjn5l09TJQQZkTGbavHI5jtf0lRAo538Lknx2hDKtfmWRD36ZpcgMrJnzAS3d5-nQRTPZUEQKx8-Jw15xhZOtyR6ORJLwzgtGc2V6iN5noTpmJdFyGUtpIOC51wLniPr_pvun6x4iSal2H5K_uzj9e9exz4whe9cgkDs3pj48hJU3DcFxBJA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Edamami
+        uri: https://maps.google.com/maps/contrib/104685143484931582475
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqdRnYxeXZdxmj2k5H6_MSRUYfXBxBgKbw0lniZ1nZvQh5DbY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOyLXPHk2PEx_Jlm0ZqTTh_GActiaSdp4bLxa6z&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOyLXPHk2PEx_Jlm0ZqTTh_GActiaSdp4bLxa6z!2e10!4m2!3m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792
+  - name: >-
+      places/ChIJv3dOZ2n-24ARkqdERvqRYfY/photos/AUy1YQ3gcn2rEjPMf-XFRuurbSgwOHtW0vqsafcfZPlgzOCxRqLf8MVPnXDbynN0J-19EGyAYdx6oNupTvZZOIDnuuMzGt8dPsWSNKw2CzIaNN_nTUiLa_UWb5syuYv3QycpY5Cpre9ihF9ojy2_QEJiOy9WqG3nSjMLAOusPGyYBMvWmgVpmYTUXBzpQzaL8Qe0VH_6AUfQYDnJAyRX509JMo42ZFwIjeQpE41kA-RtdKstp6q3wpRmpDOxmj-BIskat7hZMNEhte1J0IiU6Aw23OoKg2A6U7b8BUleb6xVV0NcOw
+    widthPx: 4800
+    heightPx: 3201
+    authorAttributions:
+      - displayName: Edamami
+        uri: https://maps.google.com/maps/contrib/104685143484931582475
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqdRnYxeXZdxmj2k5H6_MSRUYfXBxBgKbw0lniZ1nZvQh5DbY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPHgD0VkHjjvhYvFCgNtBFS_3Qap5eJn6eZzv-N&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPHgD0VkHjjvhYvFCgNtBFS_3Qap5eJn6eZzv-N!2e10!4m2!3m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792
+  - name: >-
+      places/ChIJv3dOZ2n-24ARkqdERvqRYfY/photos/AUy1YQ2lw8aaG5Jn5LV-yfPdoFd_aUUbk0bvbh1SCF9k7zgjGiQEPJlWFPKNtu3gXQcwCmZxJoVtJDoMgbI9RUx1eH-rUS0YgUohM-G9rUz8_H8RtLms6YMnno79qGt9Gcd6JcK6QfVih-Lykb0Mm7hvQiCYP5PiGBjpYTbhT38Lbhe8MLVdrNX9e_L5fSE8-5sbygBPfvQdj_C7BZNHFM-v6JDgm9YEPFdzjEquyahPaxbUZ99jA6yXp0Et-0qL6n_df5D4k0Vy0fqGfcUDc-dJ9TYGWvyZ3NMW1ojdBAnm9dJTsg
+    widthPx: 3024
+    heightPx: 3616
+    authorAttributions:
+      - displayName: Edamami
+        uri: https://maps.google.com/maps/contrib/104685143484931582475
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqdRnYxeXZdxmj2k5H6_MSRUYfXBxBgKbw0lniZ1nZvQh5DbY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPKoXG5GjccR75ixeHUHt_yDjCRp1yot46Rje2t&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPKoXG5GjccR75ixeHUHt_yDjCRp1yot46Rje2t!2e10!4m2!3m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792
+  - name: >-
+      places/ChIJv3dOZ2n-24ARkqdERvqRYfY/photos/AUy1YQ0Ia9XiOaRjzpw6-REJZ-oSFbs8rXunTjlquhlo0dY-3eGsTHO3ptvgI0qy-d-j7yVf604UsQQOyts7bmJ8-s5O2kuJw1ZLAwZPzJGKFYNT080Dg26GG01LRrG4fJ0J-7eV7eqeClbHDUkPGgOAmLQBDSoPC86D7ruKv5-4OQDWFzSeQc1dCxvGym1pzkkbT13I06pUHKBUvEUKfeZxvwEGIp3WnRuea2H84rWN40fVIWXPVkCbrHUxT31KYJLwv7W0DC3mDB-5h2vB9zkwvbK5axy74QWW4xwfD0eDQrMpfnEZBr-ghRpbzz9onsjZNl3hC2r9RtYxffcL1aNLpj9BPNYsulzBG6frU-LpCP_ygzCq3dKY_2mbGZkW9PG8ba0TLNExAAHRtl_O7pFfEHMZfhMx83f3MXeVec6YREU77w
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Carl Anderson
+        uri: https://maps.google.com/maps/contrib/117495430784749219150
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLYfFJ6_ToqrMmh9_VU7aMKr68QbAmAswybft0HAtoijPlLGQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcqMv0bg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcqMv0bg!2e10!4m2!3m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792
+  - name: >-
+      places/ChIJv3dOZ2n-24ARkqdERvqRYfY/photos/AUy1YQ3SJMuOMyQlqZ8-6Laf6vr4GKuOesZeb01vauXC4dgPKpgntAWA7ZURmbGri8NP2ew2dNMoBitOmeTKVhLqFMOjL2DWk_E1EOwCHbrDB7X9QU1XO15L2du1RlMSc3NVxPVWPRUWHVD503aXaOTUd6U_VK7fpqZw372_mcKeBfZi3GdoO0zo0epPc_vneRICX53lLMxMPZRNqxXuQdujWcGwFn3n8UF1bqorv3I9EXox2eVFF4K-mScDWxumDK-l4ewRcWgKBvwHvfVDr-yfcXDBBlrAiJkliyhBszkPoYOOlQ
+    widthPx: 3705
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Edamami
+        uri: https://maps.google.com/maps/contrib/104685143484931582475
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqdRnYxeXZdxmj2k5H6_MSRUYfXBxBgKbw0lniZ1nZvQh5DbY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPEdeGPUY_IK0qDT3uJZo8DjMWSBDgvM0faCfLU&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPEdeGPUY_IK0qDT3uJZo8DjMWSBDgvM0faCfLU!2e10!4m2!3m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792
+  - name: >-
+      places/ChIJv3dOZ2n-24ARkqdERvqRYfY/photos/AUy1YQ36THYgx3_TBlYbsmL7Utg6zHuC8CB-6zD6GU0em1cVoITdnajNHD36C_I94lM6gAFCV1BfUqSdZwzHC6d4wlNTu9YsPkNQBWEdO155wOWtjWYfPToKbwNmC_IMh8bw9hfVWaRFYe5bNa3NodutKxuyA3cjrSL_8CEpymXKhyLEVmN4mk3vHE7DOffvRtEuV1-mNvOe8WrFZgH0oEgcKll3s50i0HhL88EDvL5VJXiilhoumy0MCh4oVMt5BYSlrZcB72phebVmNLS1j9p8GCXUeUYFGU3RozbBLJlCx5tdrg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Edamami
+        uri: https://maps.google.com/maps/contrib/104685143484931582475
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqdRnYxeXZdxmj2k5H6_MSRUYfXBxBgKbw0lniZ1nZvQh5DbY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPuxnjKFmx128mU-zGrE1czu_jHB2l9G3UaZL1C&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPuxnjKFmx128mU-zGrE1czu_jHB2l9G3UaZL1C!2e10!4m2!3m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792
+  - name: >-
+      places/ChIJv3dOZ2n-24ARkqdERvqRYfY/photos/AUy1YQ0xOQQWNVWQth4qFUGxqMA9Vn6wUbXwDUwyb_-xMGhun0-31flE3JC2Ar1jDARHAS9sDPnZDAApcynnINa3eEvRLQ4LBF8oJ94g_qyZf5aTwkiKTiXqEJmNt1f5YeMTAGMA_HmKFIIAjTekr4U5Eynl5n8Tkam7mAB0I8t72Cj4XiE-ciqQP2sMPD9kvUf0wSPV06pB-1i7VgUo5SnDxo_dAgVCRGhYMJ23ybSUo_0I4g2oZ_x8EXBnWsQgHftThnUTvTd-O0bFZPC2JajYzVCSzFIntDoyyH9gNV2xmoeZgw
+    widthPx: 3998
+    heightPx: 3888
+    authorAttributions:
+      - displayName: Edamami
+        uri: https://maps.google.com/maps/contrib/104685143484931582475
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqdRnYxeXZdxmj2k5H6_MSRUYfXBxBgKbw0lniZ1nZvQh5DbY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNy5CT8nj1epf6WCJ4GnonPji4GB7gBDTPuB8uY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNy5CT8nj1epf6WCJ4GnonPji4GB7gBDTPuB8uY!2e10!4m2!3m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792
+address: 5950 Santo Rd G, San Diego, CA 92124, USA
+street: 5950 Santo Rd G
+city: San Diego
+state: CA
+zip: '92124'
+country: USA
+neighborhood: Tierrasanta
+latitude: '32.839501'
+longitude: '-117.098682'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Edamami
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dbfe69674e77bf:0xf66191fa4644a792!3e0
+  placeUri: https://maps.google.com/?cid=17753631710177961874
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbfe69674e77bf:0xf66191fa4644a792!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dbfe69674e77bf:0xf66191fa4644a792!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbfe69674e77bf:0xf66191fa4644a792!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Edamami
+
+---

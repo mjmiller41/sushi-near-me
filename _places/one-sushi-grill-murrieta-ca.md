@@ -1,0 +1,212 @@
+---
+layout: place
+title: "One Sushi & Grill"
+permalink: /california/murrieta/one-sushi-grill.html
+stateAbbr: CA
+stateName: California
+cityName: Murrieta
+place_id: ChIJvcvUJwmC3IARsdCTdr0GqTg
+photos:
+  - name: >-
+      places/ChIJvcvUJwmC3IARsdCTdr0GqTg/photos/AUy1YQ2ZYWOn65LjbYr85t1Br_Ko6hYAYX7_1mxZoGUxXxCNQJ-YWFub6eaCCAVk_dYPV7BMO58nS3sjDG_8ifsGz1fWmtxo_CZshR2udi6HgzmwxLSXTQwOVPHMcx-Hjvu_i1XNOV8GDKOQxpBp7XAWx81XcqziFjKRwOAJTU-cDf_TPdeTCR4BD9n4y8_dDOUt27VA693F4t2y7ZR89zJ4_8RpU-VYYBssyHTrX4Ur3XfrvB6cQtCsV8Lie3Vos7pnPjrAXv0nz6oDurzkhIk2cAQL5-mRDqpvGHeeKC-AoVzT7W2hEJi9GKXe-9ieLRfAGydPsWHchTHHz27HXx1YKfNUD0MOqPQm-jZaTDV8fccLYlIghgoYgPgcF1rG5qQSqVoeAuqXbH1FSEqAtwnViPbbaJ2rWIfPCbOF6tSjPq8QXxvd
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Nataliaa Bunny
+        uri: https://maps.google.com/maps/contrib/100497380186257370555
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWxmWAk82445NzIWFa3RpnRJfrYq_hPr2D8HCqGg_3vTSrvPonTZQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICWmrXz4wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWmrXz4wE!2e10!4m2!3m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1
+  - name: >-
+      places/ChIJvcvUJwmC3IARsdCTdr0GqTg/photos/AUy1YQ1gXO_QBdMEh9mLh5nl7j4TKYrrAb1KwcSfOxTfg8Q6goq9hwMwDCmOpW57dSQvBtsdEnzjk5-jOqFfc5lGnGqG7b1aqrvLxlUqVviNWFN9Hr_Im7_9v6DxYGNwlgA9g6nPNSf24-Jluo_psMjzpFx-5sn0cBUJOgocrDfnMbB3qCi9Bka1CzfWJWTpOA-tNmYvjWRX-Al-sIDBMozjHupyEILw6DisCP76vwylF4aF32hKkUE_sWykoVI1zCp4wDqaYBLs5I2BL8I_LakP8j-QY8oo89lY4sSLT08wLH-EqBh376TOmgucCj97Ssur98_F_Z1XewF00d8LbcicNd0xo9geVu2Tbru_MGc84p6b4bMz95qiz7edESFge0w6H5L0cBEZwaiBPghel52rMU6BS2-S5yL_-wUEKdC7qJhFkJU
+    widthPx: 3840
+    heightPx: 2160
+    authorAttributions:
+      - displayName: r
+        uri: https://maps.google.com/maps/contrib/112954357292522062116
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWd-swyFgIwIb8QbsEGudB4CRPs7-e7ltlXM0sv97nc76Nwu4nr=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID228HY6QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID228HY6QE!2e10!4m2!3m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1
+  - name: >-
+      places/ChIJvcvUJwmC3IARsdCTdr0GqTg/photos/AUy1YQ2RL7uUIX7jOo0_6IoM36_DU73_MBY7ZCcTC8-wH0vleiUKouHTk4AYk8fpbTBa0u3Zhd8UyMkP-5Tq2ZLPm2b2FucdGh0BjW2ezXlECsmfrzJfdo1OVsLPOJWFad2RfudgNjQF9QYBDjUVPZy0XwTaREp2olYd4pB1EYuhQ32F27mG1OxO1zkZpq8MdOkM3Wqk3rR-GzHmg1IR7bh9vqi2oT30cpf0v0OBMeybdA9s1IrWMY0TG4JJT7VYoh3Je3PZvdtlQgzAXZKGRzUrw2IvtjKXsDKLYxvkRuAUvL5pM_EWGVjAabNzfb7iWd_h_TBTJ3C7W0Z_JKhZMKaPU5iGDOoto6PkXDWa-iva7-AsAf5T-t9IohhcY6wXNFjv3vV5TuYHocFpr6kxYzAdnkOsmFx2FqV8K_EsPXi2mF8vLg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Wing Choi
+        uri: https://maps.google.com/maps/contrib/101212958100722353328
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXlpI4KQZe3XBMexLM3N5LLdBLGp0sU1rSBu_RmMZW8kk8ikSrL_Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICM3KjSeA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM3KjSeA!2e10!4m2!3m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1
+  - name: >-
+      places/ChIJvcvUJwmC3IARsdCTdr0GqTg/photos/AUy1YQ24apJdNxXnWvalK89N0lURAVY3Pt8S2T-YcPPh8EcyY_GFQI1bczX1QFCgzOjwWb84yIG3tiqxlhDuwyn_tgKqZValfuEL0LOD-gxIJio_yiPyujPOE8EAok3MSYjCrfhhIzL4Gu9cIEkBOdWM6B8vxTb5UxFaV3gf8nZxjtl7Mu_jmhUg44ov8h6jsmuUICWY6SddclaLv27xBaGs5a2zIaxDZKOWm9I3ILf7HOkNe-_YIwxrmSbhwJ7YQ2m8K_IFAoBazf-YbRwsHG3rZqEW-qBKA62kE74Ck6vzfAh9ozerBuy3IuMXRekMiCqHCwpkbc4Bvoqj4iTI7QqIgu8GuWm0JeQ_UiG1akf3CDG6FGP64MFiskVmYP4ziKZoV9loU69-fix3SqKE2Wck1TshoIeTXtZOmJLsOPSYcL2G6dyz
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Don Frasco
+        uri: https://maps.google.com/maps/contrib/105487371551711471638
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIsn5Uc6_vVB4HSvXUz--irEOlNgEdu1lL2RHWVl9sXVHLGREu3=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICM2tCkwQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM2tCkwQE!2e10!4m2!3m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1
+  - name: >-
+      places/ChIJvcvUJwmC3IARsdCTdr0GqTg/photos/AUy1YQ0_elwChccTYo5bwAsgkmzn7CffxhD-X0EoZYJp00Tu3nk3z-H3kZjc7RD5OMz-SyDBzx2qnxeGZ4Ie10RmZRBfjwi67vHPVBJLynXKr-EpKtfOrjV8-HCak_TvTTFU7eOEaSl4wZ3326MqGXbjiBanPzosvF4Btn0DLe578FI8lSvb_YthAcpIEJudEqLUvjqS9ZhtBcn5rNQaGPWrbvRzA_cVgY9u5OfdJYHxVuiGqtCOTu1GJ7WqA8jromMiAum83uuk8bAlg5ckQyjtlU3LqMlNMHosm4PYv7X1oeJ-ZB8RxlNQ6-qpg1rjjt6Sgslrq4VwQ4CTvf2oU9QhnZ54_kxV0TXI1E_kdXXdCRjAiBO8gxuz496qGFOkzGSvLaHTV0GLIETxepHAaiMo7YvGgXOBGgqDUEYY0an-bC2buyUX
+    widthPx: 3840
+    heightPx: 2160
+    authorAttributions:
+      - displayName: r
+        uri: https://maps.google.com/maps/contrib/112954357292522062116
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWd-swyFgIwIb8QbsEGudB4CRPs7-e7ltlXM0sv97nc76Nwu4nr=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID228H0wgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID228H0wgE!2e10!4m2!3m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1
+  - name: >-
+      places/ChIJvcvUJwmC3IARsdCTdr0GqTg/photos/AUy1YQ0lk_ernWxQowLWwtDSs_f0EqCdWkyJJ7RxtRns1E5QFfL6-KzCRcgbKxnJPd4ORV31dxfvzY3rp9gx2-VZ7nftvt8UvCD5_8oWcXM68CtGDphqQxGOFdao51hT53z7-1lgX5aWUq_NfsWwEGhmMq7g9SxH49SJJS07i4yRlHXAYNdgw5arugB6qzynzSlxxSGOYzyLbEGAa5HSdNWCT6E8Ucvt5WpOUZjDw8_56zZ7wgd4N4QM39Uz7uIBX46hEVws9d7lVzP7uPZHBMt3G2rL2OkTmyQ8yXz2RA9G-sRRmFSuRbv3F-XbAxYqQZ3dll1pI4Q3hAra1NPHE0Y7j_8-mSZpl-FroBC1UA5Nt3k3azUujof2VIaJHf7t0aYO3-BNI2IJFSqJAsikFPfaWeDAoZFLIx5RSgWM078Qj31KasrJ
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: Wing Choi
+        uri: https://maps.google.com/maps/contrib/101212958100722353328
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXlpI4KQZe3XBMexLM3N5LLdBLGp0sU1rSBu_RmMZW8kk8ikSrL_Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEkLmXhgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEkLmXhgE!2e10!4m2!3m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1
+  - name: >-
+      places/ChIJvcvUJwmC3IARsdCTdr0GqTg/photos/AUy1YQ1HmU4YC_wEEDXn0B_m4ruU9YPXEx5DlCGtebdhgpVBC4MvLEfQJIp1A7lPvJ8x3fGvEMglWARdgocH3a2ifEgG4ug6fUx9zZxbkdlyo41mjojQEXptAdjTI_hd6LpklM4RgZwPUFQKrQ9Hki8SmUex7KBFZRLqgycjODbazopMrASMJVgGbE9HipO_nRiU_B8XwvmLV-J9474R_5_QnJeMJDpHWBM-zqo95N2fvHBFU5fmuVJke0YyG8nqMKm6BeeQFI8OqH4QhwOFA_hJvof4h0naJWPE1ukf1IX9lxBPxloMMJoRwIIwDCL5zHSfE0BLsjjk5y1dki-eVcoC86ykyWNmD2eV1Y-C6u1T6IhQ2k1gtnHNYfa5U54DWJocpPIj3sM0R5KBWKR3yMQ8Q_EMSbPm3mnioWWmccmTQNa3s2pE
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Barry Bryant Jr.
+        uri: https://maps.google.com/maps/contrib/108819423290928832235
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWbpDVWidx2JpBieDnAXsy6qnI--nu5p4Ir4Zu9vqVTATIyx5fl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOmpLA2gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOmpLA2gE!2e10!4m2!3m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1
+  - name: >-
+      places/ChIJvcvUJwmC3IARsdCTdr0GqTg/photos/AUy1YQ2aAtR8xEJBHs4AOVV9nOhlr8P9L6bJ0s_6_PzaNsf1gEGtBBXaWhCBB65_yGufUHMd8RUSIcPwfMKG69mMrZW8BRBNp8wEcORAVUV0dFkUGz3I-cR0KTFdWX9CWA3HZ_Z7qOwfG84hlBMzlj-oFMooosZOfMbCw5CoDbsVXaXPlnY6jbULSScHlLUxbzI7KGtKHYI_1idN99QFYjtIG6HRUUiUUEv33NReQQJLmMYbfqGgCfw2wfPyL6uddSAA_h7bZiKZfDeMkIqJVmrwU4dLhvnGPWzRWBAM-UBVt_DuAd6pjGvwnF9R7os1nOfmZPA93Zd08sA-eG7P8p4hsdnUKFpC0MrkNLec8yFL8iIqsz6csd_J45yuDMRSH2zk-oVKzq2TkxAfbaiGsua19tWjrA4dxym5rvJ3NAeDRtLlIqKT
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Cesar Villanueva
+        uri: https://maps.google.com/maps/contrib/105439756332893048738
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXQaJjf5GL0PosKQB0xRFHZnwaN4OuTq87UJc6FYNobeLuw_VeBSA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkkKP4zgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkkKP4zgE!2e10!4m2!3m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1
+  - name: >-
+      places/ChIJvcvUJwmC3IARsdCTdr0GqTg/photos/AUy1YQ1WxKqDkCwou36zyPbQQqL9HoJKpKWugspFnztWW25xwtxbWneyiFMMY8Z8WBdOwfoUtdpW7ckiOGpHgI9e_X2WPeVnuB2rJ7J6INo3J96Jlb9n86YBhLlC9M5aB3rU8y13-m5_cYQa6QknSogQxG0YieJInY-zS11So9QawbKXaxaMy6hXpVnq27cJUQPP6jfYQSYEV2ho43_hbcgdyXIR3T4c790e6TKOpqZ1Asteazc7F-o02jB7Z7Ll-GWbibXGY10swgcyesKdYlliu3empDu1Ykf92mJza4ouHWPN0MOa29oxc_42BN-aJwgLIvk-XV8mxi94iuNTY88TB7F7Kxvfe_FafwsIHTkLIrlWxp7V5rsW9hqOnaT4PdMqa-1FnzKQa7stCcBPeSTVDj-Omqj_L1tIXUQBhiWIAOBq4w
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Hugo Garcia (tioo_hugo)
+        uri: https://maps.google.com/maps/contrib/113585819953833892219
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVpSVPpxUbBTvecYJi68ltNJp7B2iwiu4MHniHYu-qUVsx0vk2ZPQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZspjQQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZspjQQQ!2e10!4m2!3m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1
+  - name: >-
+      places/ChIJvcvUJwmC3IARsdCTdr0GqTg/photos/AUy1YQ2kD5QGDqWK0_hEbliciTTufPAcStpalz2ucURvRPkCZza7XYwMU-1SVtfyaFEjfCbzSCbAaMkCZd6qt-mJGp4MsgNDXRX-VgN8sOZk04nAm4ocIIAsUX2z6oFC_6EaLNc8l-DyCCjq1uCVmNuzhkCNfjjE99QlecpmVVz5jYuz7pKIzYcxsQtp2mhRjLXuN3J10H1gnBa5q3YQBgdp3W-cpWOeDbJkrbcKLUEQdTFWmwydzvLpeoY2eSvhOb6AQ5k-Wm5FOZby9x0mgMw8wRyedY3Oz_DniRN8XKvjYqq36X4IyNj_k08PI1Wu7Qg8XSvEDKSBQ2-Om2kZybQIm62lhaN1x_90Yeo3qoIJtDmculvt5ZBMBFaa4gTa4cBov8VhJGowe9KEcP6YaaUThKYcBLYZo1UGlueQms-A7crpHQ
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: Wing Choi
+        uri: https://maps.google.com/maps/contrib/101212958100722353328
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXlpI4KQZe3XBMexLM3N5LLdBLGp0sU1rSBu_RmMZW8kk8ikSrL_Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEkK2IDg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEkK2IDg!2e10!4m2!3m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1
+address: 40461 Murrieta Hot Springs Rd, Murrieta, CA 92563, USA
+street: 40461 Murrieta Hot Springs Rd
+city: Murrieta
+state: CA
+zip: '92563'
+country: USA
+neighborhood: null
+latitude: '33.556704'
+longitude: '-117.178017'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: One Sushi & Grill
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1!3e0
+  placeUri: https://maps.google.com/?cid=4082801947996049585
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: One-Sushi-and-Grill
+
+---

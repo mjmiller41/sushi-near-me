@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Fresh Rolls Gig Harbor"
+permalink: /washington/gig-harbor/fresh-rolls-gig-harbor.html
+stateAbbr: WA
+stateName: Washington
+cityName: Gig Harbor
+place_id: ChIJiUGd9S1TkFQRFFdzp9XUwcg
+photos:
+  - name: >-
+      places/ChIJiUGd9S1TkFQRFFdzp9XUwcg/photos/AUy1YQ1yIPPHQBo_AD0fbccsjbETjmcd-W_EUYolO_h0qBWFjIMfRnKVqH3OFjBGz_O5t9X_2pDWANK_G1cXub7ljqhnedliC19Z241UN_IsGbd5pQplIzhNlVzX4dkigtIX-qtHQe-t0cVtqk3nmYfCuNEH2i1FJ5JhegtvPrg3VMMbQdBYzyl7fa1Y-E12aj_JR55J4JggCli2z3EtekLR08A2n75djE0SLHWILV3dRl-R5BULOqG6h5fMJlIe6tayXHtYZoMjT__B6tRD_qMU3ZtM7ez2NW_T2gM-QxlnUsYxlw
+    widthPx: 2888
+    heightPx: 2110
+    authorAttributions:
+      - displayName: Fresh Rolls Gig Harbor
+        uri: https://maps.google.com/maps/contrib/112373813496779859452
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKicjYXyf3GcIzbBzCodOFDTJjo51CS26FSF9jvidTNs2iteA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP8jdUqBcVHM4pbKDQ9NoZY_zd9U5byRT7QS2kl&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP8jdUqBcVHM4pbKDQ9NoZY_zd9U5byRT7QS2kl!2e10!4m2!3m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714
+  - name: >-
+      places/ChIJiUGd9S1TkFQRFFdzp9XUwcg/photos/AUy1YQ3tjSiBPMTWxTRe4On38jAc5EVnzleXtoVP5fQAug9ENqjIup6VnCxKHYyAg4MwKVzRnQ_mspX9hlT7nWt13NAztQdJqGpNpyvjRCATtIgscPiVZ5HcSCBGpDBCUmTWs3pVmIgBjQAuJvaASSiCUOfK2EegYlKkgfdMKkOMC8uJI-4ashHcURyhKPLBTdiu_X_AqiBd2Gbd9L8YgoihCUrMvETzactw_i0Cg5K8kpHUj_OCsxmFf08nylH2Fmj5FoGIAkkwxKr_oKbhd1Cqc2_GdKLY0SObijZtTmBZnnHD0Q
+    widthPx: 1200
+    heightPx: 674
+    authorAttributions:
+      - displayName: Fresh Rolls Gig Harbor
+        uri: https://maps.google.com/maps/contrib/112373813496779859452
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKicjYXyf3GcIzbBzCodOFDTJjo51CS26FSF9jvidTNs2iteA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMVMvq0AHfgpqOpixuuHhC2P8IX2yOxlFysyI04&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVMvq0AHfgpqOpixuuHhC2P8IX2yOxlFysyI04!2e10!4m2!3m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714
+  - name: >-
+      places/ChIJiUGd9S1TkFQRFFdzp9XUwcg/photos/AUy1YQ3CWx-flArWxPvTDdwTgWJc8lp0-V1CGjH6tWXn4aVi-nxPYTHyhnVQbP8vw8lqG0sU15JiRG_ielpUxfwQ6DN8TydaGkX8h8t5vF4Uyo3r39a38xIp7pwM_JEKhdRdZ1xwuxLBAvMcxTgB93H1XTmEz9bJMRYTQB4Iq9HanBFK8AVl6Y1cKbUChUptroKX2dCTp1R8klkMLWfyzE5heZU-fxbFT8UhbpwODdrcpof0CPef3OON6H-mt8Aa6vJMup-pm-bDSIv8Pfp5ykneJxnJTOfJdKBdRd5KFgKdFM4tWw
+    widthPx: 328
+    heightPx: 317
+    authorAttributions:
+      - displayName: Fresh Rolls Gig Harbor
+        uri: https://maps.google.com/maps/contrib/112373813496779859452
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKicjYXyf3GcIzbBzCodOFDTJjo51CS26FSF9jvidTNs2iteA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNSEcCPFdx-fy4hWLkpkcaXmh40llh1kzU-DYCf&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNSEcCPFdx-fy4hWLkpkcaXmh40llh1kzU-DYCf!2e10!4m2!3m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714
+  - name: >-
+      places/ChIJiUGd9S1TkFQRFFdzp9XUwcg/photos/AUy1YQ3fvYPnuIqs8_CMQ8ntRYEnY2f2d_Kj3g01eazX3rJEZMkY9Z8FXsleMLDNR5CWXJe7OMi5o73L6WDFS9OihzejQxGnUvsnraH77pb8UaXu-Iqxuucij54wxme7qpNt69IojVKDCJS9wrekxGTPtrtO5JtfjJlGGLpe9E4HOZKZsOvn8LUTGQD2xmU6FWLIi5cz8b2ImItjdS8ndGiuCsMG9KQvYtNLI5dVVYZjgWTTWg_YIMs0q_c06uKvLFNc2us-3yjhoEcn3cNgpjCfTx5y3OM6x6BAGAakt0h0iN5Ksg
+    widthPx: 3427
+    heightPx: 1865
+    authorAttributions:
+      - displayName: Fresh Rolls Gig Harbor
+        uri: https://maps.google.com/maps/contrib/112373813496779859452
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKicjYXyf3GcIzbBzCodOFDTJjo51CS26FSF9jvidTNs2iteA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMn4QHg6-SyADBcT_UpOBk7-dzU-TjuYHyhEIHp&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMn4QHg6-SyADBcT_UpOBk7-dzU-TjuYHyhEIHp!2e10!4m2!3m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714
+  - name: >-
+      places/ChIJiUGd9S1TkFQRFFdzp9XUwcg/photos/AUy1YQ3jo8-WNZVtgOccfMNhKN-HbZIPcJU_7lOkuDreNx9gARXwDmiAOZyzoGpL_FL5JWtInX3MV8NK7Xzqu5rZi5sJ_6_xUq4yFyRPksZZJVdTvNMvXRpQcblrEAU1bS1OJmhhYSUwg53pw_sw49LQSvNm1qLWZhfiAXQT30I34HTvcjDmjtrT7CuUqhC_VdHdnQZ3zFbBPbtpEa-rFVlhgd1j6f_jRzKLCXWasgj1A9jGj-egLCJljUT6hBhfDniymG5xAhpgwzzigjq20VbLMB-VITsbDXWck6j5gNSbTcKNZA
+    widthPx: 1600
+    heightPx: 1071
+    authorAttributions:
+      - displayName: Fresh Rolls Gig Harbor
+        uri: https://maps.google.com/maps/contrib/106302307332812601962
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjWDuBJ_ZAHtuSlROKsRcRPp-6pCtIabC8r4UD63aJr_TBfbI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOr_s1VXqVkVdFTVpOKLO5BETEmS641ag39zUvJ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOr_s1VXqVkVdFTVpOKLO5BETEmS641ag39zUvJ!2e10!4m2!3m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714
+  - name: >-
+      places/ChIJiUGd9S1TkFQRFFdzp9XUwcg/photos/AUy1YQ3vXJj7ABmx_8TWYR8UcJbDad1pznXDXIgpVpaALr2uijL-UI0rRC9MyJPxnBtcq3Zg0BwRf6oSEKNFuRDYl2_l0irRqt6znWirvaVtJNtkkDFewYHnv9pPqdpaFZ_XvaTl9Zpu_djeyWEE8omVegUiEDC9EqqM4x2REg8a-J6WTtDRVFNQ8dFNQj-XSOBq3hAjG1uR4MOrLhVXyENddGS4C1prbL_4TW7Se3rk0bpkigspSUSbMrBecTKDGP7yHB3PiBiMBpEgZOAX7omKNxEaZ3SEA7p0YpHu6F-sXkuTBw
+    widthPx: 4030
+    heightPx: 2200
+    authorAttributions:
+      - displayName: Fresh Rolls Gig Harbor
+        uri: https://maps.google.com/maps/contrib/112373813496779859452
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKicjYXyf3GcIzbBzCodOFDTJjo51CS26FSF9jvidTNs2iteA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMzfV11D92e7QPZ-8IYXpKdXewYE8ThiGn8Dezv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMzfV11D92e7QPZ-8IYXpKdXewYE8ThiGn8Dezv!2e10!4m2!3m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714
+  - name: >-
+      places/ChIJiUGd9S1TkFQRFFdzp9XUwcg/photos/AUy1YQ37rcR7GF0OtSpc-tixQ56P8nTdnjOdxLHh_5Z7Opl8HKYUMfw_4PrkQAfPXkPjHazA9THt790sMghmd7YqRsR4UNPFh85Onk_v4OvTczNvV3VPBU8Ln0_Vvwl_5USR8kUAuB8v_bbCDV3JHpZibb3craVzqZq5zOY-h0CR0FPzHE67uKUrMPoTqtYaQEBKVPZ200CcWf98kS6eGrqpcLnI_C0DtnOB0JhElKYN5018sfTzqZUuiyHEr8I6lx4MVUE0VezFXSfo3_gHmOU3FAnTy1x_hxIeeCJPHyTmO8VFqA
+    widthPx: 2611
+    heightPx: 3989
+    authorAttributions:
+      - displayName: Fresh Rolls Gig Harbor
+        uri: https://maps.google.com/maps/contrib/112373813496779859452
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKicjYXyf3GcIzbBzCodOFDTJjo51CS26FSF9jvidTNs2iteA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOQiLiDVi4wbEY8XLV-423hMlB8SVUc4hblKnNO&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOQiLiDVi4wbEY8XLV-423hMlB8SVUc4hblKnNO!2e10!4m2!3m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714
+  - name: >-
+      places/ChIJiUGd9S1TkFQRFFdzp9XUwcg/photos/AUy1YQ06gH1loBtI6kE7lfaMelQ7a1QzC2Vw8WKiovJZiTimeuZkvT2c9_V1Wep8JUzt1d1BYN_2MD0ocNABTVnvOWcgnfrdlS80jvHYtv5ezaIzbnd368ndyXX7BEA8E47pstI56SwXQDC_ozHZc4TSCZ55pBqn_8imf0BQn4vmAQKsljdkHSXOlsKMbONZgmeoGzS1DPN4OnCUwglUQ9PHppXLGmpcYyylm3745-qo_Y9-hLqMCq8lcrQFopZIEB2rFngSHWEodyWQs4xsLbwGQZjrZiTMLbpWgcgWkYwv3Vn53RTAo8rG7X5zcx8fGQ2VYXHXLvdSWr2-z9lRCcppmLchzIC8GREbYy8UFwsWMwCS4qbMcAgJrnQuE_14VfUnXVWKS74KNhKDFcNpvBHO4BmEtanvk6of3R-yTyTDKLKRtQ
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Jen Only
+        uri: https://maps.google.com/maps/contrib/107829410544362222416
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUKRllGdTwmAXg2VryXmhznvs7ixngit7PnKC1IFmwqeijQxOeh=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBl8Oqdg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBl8Oqdg!2e10!4m2!3m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714
+  - name: >-
+      places/ChIJiUGd9S1TkFQRFFdzp9XUwcg/photos/AUy1YQ2E_szCNNNnDwnvKhRFM20u8-4XE53QHSrivSHUNZqtr8B6vq7aRu69t58arMUGasd_abPRYdOZz6B71B1OfZO4vg63I34Wp_yOw4kIYf2mtOCaTHtlN0Fvd6IW36aN-Pdxhk0QjO1tnHd2XdN7eg6p9kyKVFt4ul7CzL3i1E8BtpYQQla-hy7KJ8gg6GDPEeJ5OiJNd2Enc5wQHi8IYTppHqYtaXQ-YQVBC_uT4TITmtNjj4Acp7bv2dlI0NgcgBWwmtADpWO16dgUFgIOVFF7eo4_-ChzIcWS7Xll-RsZbQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Fresh Rolls Gig Harbor
+        uri: https://maps.google.com/maps/contrib/112373813496779859452
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKicjYXyf3GcIzbBzCodOFDTJjo51CS26FSF9jvidTNs2iteA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNMLj3zOPheYsEfIMBMbXmh4vxfMne-9jWJ6tlf&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNMLj3zOPheYsEfIMBMbXmh4vxfMne-9jWJ6tlf!2e10!4m2!3m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714
+  - name: >-
+      places/ChIJiUGd9S1TkFQRFFdzp9XUwcg/photos/AUy1YQ0Ir28F7YYzA5HG6jc_aPNHQJQhlEJPneIuK2q1OpI_3Dx2wHJprv6IxdMF8zs3w43eakEABa47i0wbQdhmOGnDC3dBt9ulNY5kgRiaGdKQmD4OTqhgMJaXr8UNqEdeHhXThpRyehcFlHR_QjpFeQXZo2ZjCcpw4aJASlK378dOHxXj-aIMhzT17Ivmy-KL1yVyf2dPUTG_VFvCa8dTcN8ISk21eub5ccnuami5PmB1wGEU9nAEgQaAhUBR6pXIk_92Sb65QNYA9NENrVPNsHMI6A-4Bigbvp-j7rSeUyhUrw
+    widthPx: 348
+    heightPx: 309
+    authorAttributions:
+      - displayName: Fresh Rolls Gig Harbor
+        uri: https://maps.google.com/maps/contrib/112373813496779859452
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKicjYXyf3GcIzbBzCodOFDTJjo51CS26FSF9jvidTNs2iteA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOEII2duz4R6MiMmjLHDiZmIao3Q7JXeTzpzxXU&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOEII2duz4R6MiMmjLHDiZmIao3Q7JXeTzpzxXU!2e10!4m2!3m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714
+address: 5500 Olympic Dr d100, Gig Harbor, WA 98335, USA
+street: 5500 Olympic Dr d100
+city: Gig Harbor
+state: WA
+zip: '98335'
+country: USA
+neighborhood: null
+latitude: '47.308404'
+longitude: '-122.576645'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Fresh Rolls Gig Harbor
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x5490532df59d4189:0xc8c1d4d5a7735714!3e0
+  placeUri: https://maps.google.com/?cid=14466077492193220372
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490532df59d4189:0xc8c1d4d5a7735714!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x5490532df59d4189:0xc8c1d4d5a7735714!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490532df59d4189:0xc8c1d4d5a7735714!10e5
+primary_type: Vietnamese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Fresh-Rolls-Gig-Harbor
+
+---

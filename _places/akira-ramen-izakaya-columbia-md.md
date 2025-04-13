@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Akira Ramen & Izakaya"
+permalink: /maryland/columbia/akira-ramen-izakaya.html
+stateAbbr: MD
+stateName: Maryland
+cityName: Columbia
+place_id: ChIJRaYEZnPft4kRyhXAaXZGBL0
+photos:
+  - name: >-
+      places/ChIJRaYEZnPft4kRyhXAaXZGBL0/photos/AeeoHcKP1GMa3e8s4ZBntoSTDyxJ7g3C5EijHEBN6O-Nw0zeIDGlvpsBB6mUU9qdvy5Krs3nGIYo_KvVVES2K3M3UbEU4MkEtPp4sE2PPccImOALUQOL7uDxZer2RBfopXFmgovWMgdnKpLndu4jzaAnhQN-aExEJhg8PTnEPnP4jR4hjoeUzzo4cKWIJI2CWLzkbDZW86yIjZe5KossSpVXKUoiN37qG-9hdpYDl6hIZrEW0TvQlh80YJZCEmszx6n9-HU8Iw4hIKOWrwW0cFeWMQkwUKxWOEUplXoGgPvL3SfKHzBGLAYx05yvjQLs6QRuE5XRCNMvqH2a22PYLOti6bjGr7YxUwS_j4rtHoyWMZ3WtVNQhPZEW9ArPJ2PC6qmp0p_vE8PJp1Oorp77B-N8o8PjDzUQFb3k9TRzwK4kD2DLw
+    widthPx: 3849
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Lin Naing
+        uri: https://maps.google.com/maps/contrib/105003142205835023632
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWJ3P1TnyKjYJtFs7C1euOb0O2Ktx27qyyp350_xeKWbhkhsQCtpA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID6xq2keA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6xq2keA!2e10!4m2!3m1!1s0x89b7df736604a645:0xbd04467669c015ca
+  - name: >-
+      places/ChIJRaYEZnPft4kRyhXAaXZGBL0/photos/AeeoHcIVeVc2lJufnCihfWi6FKUiJhwropZfNoxreAuSe5XdfFGqzPdB3X_TCfGcumq8ayqpMSxK7S63ShsdyXwjdm-A4K5mj74Y9Vx8rXJBbkjGq8HluWFwGcII0fq99LWyZHPyQES_MltNrdJiHHasY9PPCwNRPDI8JIKwXhTm-QKCFsfFVBhoqm96c9vwsJjTJE43Y4XKtxVEdh2R2vI6WPmFOLtbxxvN0Q7Zh2qzLRA5-xtghRPc-5JIMMa_zZUvD0d5fW7fZHdrDGHyQKNzlZky6mSobJZ1MlvvVg7p9bI0YQ
+    widthPx: 4800
+    heightPx: 3204
+    authorAttributions:
+      - displayName: Akira Ramen & Izakaya
+        uri: https://maps.google.com/maps/contrib/115689593705007209049
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKf9kw5whbwPT335zUATwcB9y3Kyg2IO5hCE9Kbn4mCPJAf5g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN7EGObqwt2F983DMXMbaxi5p50mEgTcIyVa7qX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN7EGObqwt2F983DMXMbaxi5p50mEgTcIyVa7qX!2e10!4m2!3m1!1s0x89b7df736604a645:0xbd04467669c015ca
+  - name: >-
+      places/ChIJRaYEZnPft4kRyhXAaXZGBL0/photos/AeeoHcJNzBITUHVIPYKF1McfThzbPicV3YM5MyvixPFVFy62XyEezsrHMKaCrC91f4HFLJP2pN1kktDre9Wy71coIGW5n4vLqW2U5FBeuALgXD8YZz35DnmtpPbgQxFMgKefDtxlIsuNeTGiMYt31C7ezSAnQ0jgXBuFKU5lYwYtdVaHqQSBBCZYXw_Nm6e0_CMzRCwqW_mzD_ehSpO0fa45V7KDk6gHYIgiHP0KyYvDBj579ZZIs-_5zPtfQ06F2--oS-W8zOWGh-AIKnz4yCCwSM5siadU717TeOFg0h7WVYd8sAW4ZjiflJfyNkPEXrepqWTNGtwONdtnXmq79HogsewVMBSPyCd68ZNBbSD0gUttBk7JpKVkcUT49WnP_IosqgmVCYIdGhPKzcs3G3DTfaz_Zc4JBr193Pwg-rmn_qgGuUo
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Leah Kapurch
+        uri: https://maps.google.com/maps/contrib/113201240753359776485
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWazeXdN8-BYNQP8SJvfRIdwgWrIMZBJN-umM3lSx5h09l9ZKJuvA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH1ryk7AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH1ryk7AE!2e10!4m2!3m1!1s0x89b7df736604a645:0xbd04467669c015ca
+  - name: >-
+      places/ChIJRaYEZnPft4kRyhXAaXZGBL0/photos/AeeoHcLtQ_hi_3KIFvHocVlC3jmdBKh8L24v6T8heyUvTSoDTjdopeYrYQHSEMvQkBcTYbk-I3lK4TYcPnMumpffzRgL0NaW_uGQxKBKhrUd0rdwh74OPHtsT4D4vcSXI9uE53e6NnCbQAa9PTM279Ugc5oGl5OXvnutx3vULEdq5i7vKKN26kq2QMPWga5xKzzfE_p6_r0XSNJuzkaKEyAAibUOAyea49Rly1aABfujendhq5sAcLy4bccijmCkTl0M6QFboN4_vkwfCYlcjlm4Djj7u810fa64F4VNcukDE8hbCvsLmnwch9mtrhotxJtvNKCCp2M6ntrU6a2vQp4CR7AzucguliBqMr0rfiZnl0h94mRU9WVAkc7fGedkoCLz9JMO6B5xtSImjjexscANDNdFxinPK0VDvdS-aas65XCoqg
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Starr Davis
+        uri: https://maps.google.com/maps/contrib/102462395253586989773
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVp5KcGZpGx7LosL9Ueun1X-Bg8C1uJQ-oK40MDt4A-3yjfl74=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjwP7zWw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjwP7zWw!2e10!4m2!3m1!1s0x89b7df736604a645:0xbd04467669c015ca
+  - name: >-
+      places/ChIJRaYEZnPft4kRyhXAaXZGBL0/photos/AeeoHcJ8HJiTzXDIovUsZ307vhn5vDqeJr2NtUG8sQU0bJ20MZhe3rNd1snD1LVSFvFnAX1LgFDh0TLeBREXW3li6aJ9wJ9wCw2eLICig0NDZr0HVA7nACzDOocklYG9z_11UCF9xI9htMTDD-lRxbRaE1WIesIhjeXk5AlEEVB5ryknV_tHh7XirPShMWC_-DihaZ6KSS5NBIGhQaGrs4aEsVpN-urdmx3RBJDpMtE-an3CKUqyT8rnGXtSEP7fNpym_H3bb46FlVvng8g5Wq6wEOha29zqkSyNlo_iPqtxmfJkAYI0qnspLd6fSeBTUBXifaSQ7VbV2jepzUfwMD6pLlacukdEUrq3qkDNBpwC71Qv-aaMyShgwLY0FH3ruFuZu_vJ-65ug3ZMkXq-r5ZWLoYXcKaz6c-LvV5QNqRh70UB1p7Z
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Katie Miller
+        uri: https://maps.google.com/maps/contrib/103172784538341795444
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVre7xHKgVeXvj2Xm0nGnXcwJaA8ZkceOhUvhRZq78XG8_2zjhd=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_3JfS1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_3JfS1gE!2e10!4m2!3m1!1s0x89b7df736604a645:0xbd04467669c015ca
+  - name: >-
+      places/ChIJRaYEZnPft4kRyhXAaXZGBL0/photos/AeeoHcL4bpQ_Y1F8BH5eXRU8kyVwdiAj4rhGwb35KxAsGoRaH7_6B9ysgPnmFMJD1mo4QME4I0Nxj5TecOyxA53R09pqK9AZaKv5_PPL3Kdo7g8IygwAerWrzAue9nbBNzMSzPRc9M8wsI73tosNcyclrR_J5SKQGfQ-9ddPk6R6DR3-e_17k5pT4i-hkFHpMcqFyhN4ZJnLZl5slnLRLQhNDmGM5QK_j0ff8YDZQpMx188ipVBrh6tVJiCJOJEkZxtY6SATUc-Ouk7882wnjJVhxZbdlqo_lhVqqVo5a0pFRbc76TBr80oRhkSIdzTRPlVF6rKhUxRE2Fr3K-DzUGmdng2xjZDiXoxbZtZkB36RV5O9sPukirpNOgN6jVTBzReO_7o149Nj1vkXtO4M21l3v1IN9pfaFYNwJSoA9DmAOWnguuU
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Katie Miller
+        uri: https://maps.google.com/maps/contrib/103172784538341795444
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVre7xHKgVeXvj2Xm0nGnXcwJaA8ZkceOhUvhRZq78XG8_2zjhd=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_3JfS5gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_3JfS5gE!2e10!4m2!3m1!1s0x89b7df736604a645:0xbd04467669c015ca
+  - name: >-
+      places/ChIJRaYEZnPft4kRyhXAaXZGBL0/photos/AeeoHcL5A7AEnF2w6OSxL3gV6WMs-jbOli9AUxDbOtlnSNNmEw9-mgixtsRDwNQAcqQh1KKlJGo3fMg_LKs27Qt66VybNKACBxLO_QGj45Kut9FRAYqSisGDo7gBZD4ai2b6XN4n0kDrGEeIZthJ7B9wKl40skVucg7GVEQWgdrbeun88idaeG4MxONtO9z-5phfUc1PItHmEiNcdGnLZITYfeAatu6UkwjI7lhuEaHKQaOMG7f5HsE-nKZRKlECOsV0geLWt_Rrg_H_LfaS_dDlO7b9oZNlZouLzcLFnWluglSYWAt-Tm61BTp6FzYla5ZtKlpD0qk8v76e2D20zMzgU4xlvOdXuFs5ZsTxYpEKUALhVsOmy6M8Q0T-oNy5NhQ7UkI_muEn56ibjuChxCM2p8Xye79ToeOjUk7ckCWZ2Ss
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Sai Manish Rao Sirikonda
+        uri: https://maps.google.com/maps/contrib/101651522807255676875
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUFBrUecT5LNL1_IhrlNqOfPl6fFsyhi20U-JbhpNAZZDpcf1FxWQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQuN-7CQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQuN-7CQ!2e10!4m2!3m1!1s0x89b7df736604a645:0xbd04467669c015ca
+  - name: >-
+      places/ChIJRaYEZnPft4kRyhXAaXZGBL0/photos/AeeoHcLSQ-31oZ1n7a9Vo9BPKQt8dUX7SirSak5JUNkkr_QFlSZCUIbDcySEdDQrHLZHBlf_mzFJsj5TRDGv_p8CJJcZQNTgIUbWltoyPlzaUeqiVjVIgkuMX_ArnO-MEWSIYOdCuLfcehpVgo38kg9j6JIs_1YslJ6kgrIKTSP6pVJskRC0eEV9rdBblmAMW2rs4YyuBCKq769WhrZRqr2q-_8hKbPp-dXpdgAsNfDvg2kJEFVHofZzIBfZI8Sei-M0Yeyc3NeDOYOb41p5iIU9RTSUCFNgD2aTByc7MJSHlAhHAee7vgbJdcghT7UtNWI8NmFg1RNHq2BAxlxUPROJ6zevciJXtrbCo4_d-TC-zPO6PhOR8Dg-SU1RJfRwRRWH5VxDjimsBQSCm3Js7RQSdwrY0cZzY7NQipsvjwTay3ZuGfKJ
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Starr Davis
+        uri: https://maps.google.com/maps/contrib/102462395253586989773
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVp5KcGZpGx7LosL9Ueun1X-Bg8C1uJQ-oK40MDt4A-3yjfl74=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjwP7zhwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjwP7zhwE!2e10!4m2!3m1!1s0x89b7df736604a645:0xbd04467669c015ca
+  - name: >-
+      places/ChIJRaYEZnPft4kRyhXAaXZGBL0/photos/AeeoHcK94dxj10M9mjF9gH4Y5BofFwyoR7uI1pCqPg8HhJQ4YhIcZ0tilKIFo4xreVcnKassmvMO8UXOlxJFwIdVjVetBjajSbSBD6sk4nMqL85vSW1YhUwosWR6xGnvr4OYxDnFs2lNkbOWRyHl-xP4QuPM3yNog_zBwSEsKHMhxTGkOSAfEHvO7zQaqBjON9r5ICo8EXjctqiGGBNdbIuoq4z9pmbh-g0N0TTIOf8l38Nz7WbmFyOZcwLAozO8VVBDYUgwc0bc1Rh2-xxh0itW_JQmHSKo9D6rDNKRfQGvdWs5etG4cnu1PE9ROB0g8KYkzXO53D7wXuzOkywfV97og-y2QvaeSOE1SLvTbzvfKxTTqVpoaHSInVJYnroNAaWUioXZRt3bGG5at39_kk5of0n36SpTMk5P1syCmNKoVq-Myg
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Starr Davis
+        uri: https://maps.google.com/maps/contrib/102462395253586989773
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVp5KcGZpGx7LosL9Ueun1X-Bg8C1uJQ-oK40MDt4A-3yjfl74=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjwP7zSw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjwP7zSw!2e10!4m2!3m1!1s0x89b7df736604a645:0xbd04467669c015ca
+  - name: >-
+      places/ChIJRaYEZnPft4kRyhXAaXZGBL0/photos/AeeoHcI8fO3G6VAWWbXAHYwSrhd6NU8sjGwvITdwUaRQw2mJ907I3QUZSOhe71tLkgE79PcKWm1lsFptLCedwMAkUHLVCjvAx6Q8UDVWGPszHwN7OfJmyZo2dg9JG6xFMohLURhUp9T42mOMUlRW3rEk8BCgKy4a4dRsPt7mAp8dYgCARaxwuUeeSwomf-_XG1JVaziOT0KWN_LupgCpGJim_3KegIzeqYQw4I469ksXz-cj06QUP1KkPNKV-Yec7lzKJPuzTgOP-rKsjiPHgfnkOFQHn_wCDxjpew4o3tbNo-BCdtCQZkY4xcm1Iyj0PRurN_cu2hocExo7lNBC9d3JMFRisZpRHz_FmVEN83sAMVsgyPk4UOg_zZTujVimUd3IaeWEFEkhhqohNh4FcvqR5EINohKA7UN47VhCR6S9MS1i_GHI
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Starr Davis
+        uri: https://maps.google.com/maps/contrib/102462395253586989773
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVp5KcGZpGx7LosL9Ueun1X-Bg8C1uJQ-oK40MDt4A-3yjfl74=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjwP7ziwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjwP7ziwE!2e10!4m2!3m1!1s0x89b7df736604a645:0xbd04467669c015ca
+address: 10101 Twin Rivers Rd Suite C2-100, Columbia, MD 21044, USA
+street: 10101 Twin Rivers Rd Suite C2-100
+city: Columbia
+state: MD
+zip: '21044'
+country: USA
+neighborhood: Town Center
+latitude: '39.215130'
+longitude: '-76.865159'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Akira Ramen & Izakaya
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b7df736604a645:0xbd04467669c015ca!3e0
+  placeUri: https://maps.google.com/?cid=13620088647469503946
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7df736604a645:0xbd04467669c015ca!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7df736604a645:0xbd04467669c015ca!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7df736604a645:0xbd04467669c015ca!10e5
+primary_type: Ramen Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Akira-Ramen-and-Izakaya
+
+---

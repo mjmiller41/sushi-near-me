@@ -1,0 +1,212 @@
+---
+layout: place
+title: "MJ Sushi"
+permalink: /california/fremont/mj-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Fremont
+place_id: ChIJY1GO3DXHj4ARs-GQKj-_R8M
+photos:
+  - name: >-
+      places/ChIJY1GO3DXHj4ARs-GQKj-_R8M/photos/AUy1YQ14FDjvAjnHj71ZMnFKUG33gEJ7dIely3sUyUnT25WFOXQ6HWh_55SM9RGEwGKn9ibFHiG_Ldc3xq8JJ26Y8V3tYbHUEGY5ekokyjSxXKPBXPVUVRhimgiNnD844Ushez6Qt7NnZYcu0831IyOBkJFTCdvkdisupQyiSeKN5_QFRLlVmD83Ccvh3aWzE9K-AoS7n_vqHMtF8_CqYurEkx28X32zVkGrUlta8txxExR2FNNun22XhERNKvttPY1Fu7D4iAcSsB-HPqCkuMJVZ86BflB5nwQUfGKRqTM_ZGizh01ZuDI72ySM1ZzAvgKneyM_zSdZPSfy5ueE1YO9hSq5eqhNunMZZMZpi69_sOLHJ1azOQrLEfmJ9jhIk8jRCaP4IjL2-ZABGztCwQwMXIV8N24SJcjrOAdf3S-9BJLTbxQ
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Brian Stickler
+        uri: https://maps.google.com/maps/contrib/106879374505997429706
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWTpJ5n7kHQOPuybWhYJj-Lw4FjP633QQmE_w0xanrJQIAY1YWNYw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICG1KW96AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICG1KW96AE!2e10!4m2!3m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3
+  - name: >-
+      places/ChIJY1GO3DXHj4ARs-GQKj-_R8M/photos/AUy1YQ258bS1zK7yfazp3EFszjI_fNMJKR7R7xHvRHJfkSTNvtfZCjEefyssUVkk8czz4XZ9lSb8sOMs1GusNCGlUq63xXhq9VwItybZ2Ew4bAjsLQP1ZO4hqg4OjFxtQ2rdheL8Y8kumrtwgeQ4lqz2wAgSJoSRU0rIQBNSAeQm9NvIfVM5zCA7s-vBXQqzg_pQ7utnEwQLFxSj6Wbe_3knMBPjSBZnUrx2I_Vb58e63apmm97CvCoEf7vxfIOAjBway9E18B-dkl_HPELUCN1b2kbhDWWDcrr7b-PxXttJ2E9HSQ
+    widthPx: 828
+    heightPx: 1792
+    authorAttributions:
+      - displayName: MJ Sushi
+        uri: https://maps.google.com/maps/contrib/112305614531047854115
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-UO0RHB84wAy2mEvefa-SfhrR4_AUVbvnwwDUfqNTDo-kaXE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOLybI0aXvnWJyIIPhCq0iRBojYKcQxtl0ffbpA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOLybI0aXvnWJyIIPhCq0iRBojYKcQxtl0ffbpA!2e10!4m2!3m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3
+  - name: >-
+      places/ChIJY1GO3DXHj4ARs-GQKj-_R8M/photos/AUy1YQ0GoiZ3F5pIG_4qspT6m--HuP7YCkq5_Gn_Mdn8vswNq0RhBNfkj-M7jHCDba7Xx5Jr_8pnP2OwnWxoM0Abs3D2dMlg30eoQ93dHBW7quiMJ1mJzYFla9W8goolvro0MTw3eEAWaUdxnVYKDEbC-TG0BdZ96mRLqb7aEtffZFFyDR_nfVRvlhumoKvQK6p_ssQ-p9T-XWrMyXkZ2d87LtuWV9evv-o1vFSFgV5OyP8fBgZWlwo29N9H8B7nE8p8H99XUhyDYnQSVncLLdKxiu8lkxmYpE5ZBvVYbrhbT_4RWBRsdyRAzc1ZeWL37bq6ErqgAl74YtknF6sVTHUyDJeqKAj3CKrivtEte3hQf7EO78SP9bTk3qQXaC6F-H1_AHD2hNc7uGI4lFUs7YGq7c7Y0WFKhDZV_qtHpSnKYlA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Winson Yong
+        uri: https://maps.google.com/maps/contrib/108700681185063426081
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ6etKqh3lysWRySIkJt-0mGqhHBvZIAGWO8Hu5icmg1x3sLg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfn8qrUQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfn8qrUQ!2e10!4m2!3m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3
+  - name: >-
+      places/ChIJY1GO3DXHj4ARs-GQKj-_R8M/photos/AUy1YQ2BpTW0ZMlSRC4ZLyu4CRiB5l3Z_rID_t3G755MZQ3AzcpuD5rmrht1PMEBu23VyhM-8FjHT96InVTHSMPDDxIpxsF6CgT0mGIpWb60rvBhWV38K9I90vtoiA501e150kL4QQzY2LyPL89EazefPqrmjZsSrmqjrnO3gw7MZjlM_ecX_hHvI1T6YykyUXbquU7antAeqTURr3rsVcB6QrBq7IU6pyB6yFcIP8RJbwg4wOXF4acQHIpE5CTN8y8AGbZUyg5w4gFGUdAie7rpiT7ytYYuXD3AeuQ-EA88MPaKRoZmYd9y17_rsM2oiRMu8caiPC0sI9W5HBl7YYbujYlovprDqcyIAw9rbxWC13z85nQ5kTpFzOevoN4Cq4koRWeXxnZntsfw_tU2Gomlatsduxc6V8pDsV0MJwQ8j2t8cLw
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Winson Yong
+        uri: https://maps.google.com/maps/contrib/108700681185063426081
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ6etKqh3lysWRySIkJt-0mGqhHBvZIAGWO8Hu5icmg1x3sLg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfn6qykAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfn6qykAE!2e10!4m2!3m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3
+  - name: >-
+      places/ChIJY1GO3DXHj4ARs-GQKj-_R8M/photos/AUy1YQ3Cnvf4Pr59gi-M81hOLj8vSe5D96xS1il9_ZMkM3zFixciBqLOLnU8Hv0YJPI1WpemMvcPvQL__pL3nEaT9HaZb0GJATnr9yS9xHQ0r6koZuCd8l7d8vnHS3Nn6XY8mROhXYaQPi5nrwqUsLH5SEgYhASK0nqcCNsXV7KFZQp3FV7JAbn3OqkyYz5l7wlV8_DB2agzjRZ2BJkZqDfdeFHrMr9TNV8Kc6lsfrCZVa0FDya3wvOYon9NUrkSul7qFNCw4lI7oRhzHmOXJNRP3sxHc8uKeRE-0ymYvlJi0HgLJ-9JE_8FnQXTh4qRZ4TpqIfj_IWPjSBy6DBgc314fYD4dD2StKVyAqJWSnmqtVuOz6pXM8AiD4nDR5i2Qma1oZTbUrxMeyPYdO69VjGn2-60jbIJ_KK2X0stQXWmNIJwYA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Ceddie M.
+        uri: https://maps.google.com/maps/contrib/102424293145769631733
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXK0N1SVQYf66ifYs5ldgZNT5hCOJ3vpLBL-ikxRrQ8owxq1BtG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ2KKTTQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ2KKTTQ!2e10!4m2!3m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3
+  - name: >-
+      places/ChIJY1GO3DXHj4ARs-GQKj-_R8M/photos/AUy1YQ1Q55DlmVJs78PXynf7szGF6CD2GUD805hRCwWtrKyIyhBEBI2cJBL2q79gdl54S3rp4eN0J3xprX3sRD0_ZFfnha6YVzvj58M4KFaoKrgZykZEnK9u8WUUXYmeFN3uWZbtjvQNLwEiMXgCyoeuOJ-ZrItSOak3wh-owqrLm3XR8s1grPnNbZ8b2dRE-UQBdrBYDlAoY72uQ5Sua2GNsa5z5qtO7OVQvMoP7sn4JrhtCI7ZVl17EjRZ4ubCKy5ci9RAhl2z0MxmceV17uL_lf0LNsy5wbLhZkhuyC193qT4UfKQFEFuKIEMGErcaF4UVcOYK0mSHFRs1ku3s0SIJm4o69Wr6vc3nIGUyqzvifJmppComrNwNKLH9INMsLMdPqKJWQTeEWulegTRQ_cTjMkF8EqBfLYZqgyLPom4QWOOvie6
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Fei Lin
+        uri: https://maps.google.com/maps/contrib/116031812782446881225
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU4qnA9Ecwxr7CIgxWifNv-lCA7rqpxNuEiQ2vMzkzZJNb9JlL_=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzqfHAkQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzqfHAkQE!2e10!4m2!3m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3
+  - name: >-
+      places/ChIJY1GO3DXHj4ARs-GQKj-_R8M/photos/AUy1YQ18Q59ZCyBrvAeW7LuTlG_zJNI3S-NqJ3HjE4fkd3wMG-f-xyMWVgp1jm5j2qLDdxFukj19_n3-lX1-9rKwXAa1_PsZ1cEeXqqgOAZOVDxh5umFrrPi26NmHWpiB_VFzEf062e4uwQQICUqkj0rkBPF9S1G3dWAO8RaYv5l3R6bB-tp5I_re7GiK_ooSQAY7uzPiAO5pOdztCmif3_7el_A_aigfmZTDZv5UQjvoCwnOf7fJgXp1WydO1FdNgadw6UMpq01OGOrO1dif1jCa4eSM3Us2qXP5SXJKLnI16-r1uQdcqsi0A7MJXx_dMawLyrix7dJCNcSisQcWjyK0RDk_HNtPMuqIjhZHr4Nx0XPzhH-YKvEF9sy77IPIZkytBu1y16_HwYqxrDM4-tFhRZwhdyy-qaKaEtutZrSpY_0mMc
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Winson Yong
+        uri: https://maps.google.com/maps/contrib/108700681185063426081
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ6etKqh3lysWRySIkJt-0mGqhHBvZIAGWO8Hu5icmg1x3sLg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfn6rQ1wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfn6rQ1wE!2e10!4m2!3m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3
+  - name: >-
+      places/ChIJY1GO3DXHj4ARs-GQKj-_R8M/photos/AUy1YQ3hVjMj0LvV6_7QNdP8zpjCkaw_YbMEdLdQ1vKgl_QIXVPowt82k2WL8gX2qmof8FBrWvYAPHgQLhgwuToaj38jTnjRt53tbSfBntav1RQU-eUQu5BddGCAoGTy8V_xNGYysZtgBgnnM4MDq6i5c6Kq0Uw4mn86Gn0UlIGNXxLd0f3AnqnAfrE30lo_3PHulr1LOna6jaM-hulKEMVEtMMB8PveQ17S4rIPVR1k30fwZ0INveB-QXpMVMfGBkqUqqMfR0oqMdp7M8Juso7vSTdwNdHVPOE4a2kgcAgjhU6R2Snr8Oh6W7ddg1UhJHP0eCHy-CkkY4bZYiQGrlUra17TGRbFUzJOdEyfsVClcrEfTeyEGAy0JSgojsN8rIb7aEiNq66JXpnhRZIr6_Enn00GxQpLpbUNilcUDdx6K2WKuA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ivan Baradi
+        uri: https://maps.google.com/maps/contrib/108370847858424317989
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLvGL2AFGEr2_I2GtIK2GUEhAC1Za3m5v42AH_g4geWSjR1ZXU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC99OTXIw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC99OTXIw!2e10!4m2!3m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3
+  - name: >-
+      places/ChIJY1GO3DXHj4ARs-GQKj-_R8M/photos/AUy1YQ2idWc2-DBhljTHoHLTzler_OlTwnkKoQpZN9URC9XTsIzzsKjQK4fgIyb0xYRsx1u2f98b2CAECi8_UUliVpdeyW7VYHcP25AQh6Y91riwinPdqjVUe07kdQiDlSGIeKAqNr0lc7hHdYh4OjiXy_8cl_NdUMIkkQ5A-W04j2AtAqL7P3_Yh1fhFaSuvex76SwVCYneUIfz2RMBpxL3cjKn-wywViZXR_pLIwbxQTbtG33B1iGMj7S3VPlH2J8dXBjgRgwlzaDV5YjT6VQ6pMJ4VCrMbWLOPSDDgjXj84qNWbCGiKx3f6XUv1VMrjMcUqHG-tqQ0m4r2hCrUlESYn-tZ_GvD2c8YIUIFNBas2omYbixDjYq4hIuSLRnDpwsA_RcW4j4nWjhjnBGy3mhUX-HVRgmE1XuGdtVxQ8S5-j9UVkh
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Anuj A
+        uri: https://maps.google.com/maps/contrib/104170128591128409956
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKE_HFeNAFvtJLWnlapkq23djBRR69U0QKKkTnyx1ef0fvpzg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB0LLYkwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB0LLYkwE!2e10!4m2!3m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3
+  - name: >-
+      places/ChIJY1GO3DXHj4ARs-GQKj-_R8M/photos/AUy1YQ3tn0JKVACJgiawa_fxF0A4Gj_w7u-hIsYJlqs-1AJGeehEOVV64mnY4Lbl0AvoaN0YpQCKn0gAUhrWjQzq6_G2zzy_rmrp4PRlLQO83zOjS-0gWZrxBD4QdjbFaWaorVhgXwV2jZgt4jSAlr4tgbMttFtxwtUB4gUXUi8WsM5R7sl_ccKlaR7t0gdi5bGr7_Nr5aTIJlOnC8fuY3jRg4uMP3bdQUL9911ebGHw3hVG600NPsZmxL6r4b4BhfQAaacR7SwOgZylAsi5cPzLH4UjByk3z7Y1Znw7rQI8_yZLqt2HZ13Zl3QyNcsYRn-wJ6O-f-8eKQRUibkHzi0TmrXk2r3QBVm9o_pbohR7FqruOonmbv7CY1DXvYMrzhx7Gr3VNu8mFwecI3YbH9Ygg4bqSRMd2FZO2aB1FpsFvFpeL_xR
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Fei Lin
+        uri: https://maps.google.com/maps/contrib/116031812782446881225
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU4qnA9Ecwxr7CIgxWifNv-lCA7rqpxNuEiQ2vMzkzZJNb9JlL_=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzjqfOoAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzjqfOoAE!2e10!4m2!3m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3
+address: 6068 Stevenson Blvd, Fremont, CA 94538, USA
+street: 6068 Stevenson Blvd
+city: Fremont
+state: CA
+zip: '94538'
+country: USA
+neighborhood: Baylands
+latitude: '37.517941'
+longitude: '-121.989351'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: MJ Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3!3e0
+  placeUri: https://maps.google.com/?cid=14071425838760386995
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fc735dc8e5163:0xc347bf3f2a90e1b3!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: MJ-Sushi
+
+---

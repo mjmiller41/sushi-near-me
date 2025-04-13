@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Koi Sushi"
+permalink: /new-york/sayville/koi-sushi.html
+stateAbbr: NY
+stateName: New York
+cityName: Sayville
+place_id: ChIJo2_F-QZK6IkR2L3OcpMBKVk
+photos:
+  - name: >-
+      places/ChIJo2_F-QZK6IkR2L3OcpMBKVk/photos/AeeoHcIzKSCG1gvGs7NIpaN5iXOZgzuxkTARLaJa22dU6uYhg1njRNIPOXUgqg6MCt9TtoTybML0U_KyqiCLu5evRPVJIiMPRWsV_MDhrtDd6_p8nJKfmJnzRKJDRVNVe1QrvwzQfbGx0pH9ZoydKs9rml-IvS3ftJ_1PH9ZjrHqmtL1oxjJRqQf7a5QBDejjYVi1PIy_8ioIudLCAlB8B9z6rKvueYNfOs2rJemrkAMlLKqBmW_MTdgO7jRm6Ha11_IlkdN9au_pXRYtoCCb5QUqZnoO4lERuCLn4eMaBrNmB9QGQ
+    widthPx: 1024
+    heightPx: 679
+    authorAttributions:
+      - displayName: Koi Sushi Restaurant Sayville
+        uri: https://maps.google.com/maps/contrib/115109380193070601966
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWL1PkvpzL7k0tJvWlGScHeMXpY3V3E4Ry8J6bu3N7SBZenhL4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOWYCe3x7C8Enh1-YJhhGqvu0JmhFDOvNNoif2P&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOWYCe3x7C8Enh1-YJhhGqvu0JmhFDOvNNoif2P!2e10!4m2!3m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8
+  - name: >-
+      places/ChIJo2_F-QZK6IkR2L3OcpMBKVk/photos/AeeoHcJDvVTbkLl9EOwbEEe8qPFZI0MSkaC5k6QvV8FeRLxo5KeZweo7hOE9BpCzVOcFgCk80GHOjpT01xaJNqZRR4q8QUAGuGJlacy53DaS7ctxz_WCa6iCACtlBevx9sbRX1sHVAkJ_-hcivvp0RuBT_ioPLK7WRxzQog9hqWoiJZgzlTl8vdXqzKAQmGtuTVO5qB2M6GFUBp0IkpMoLExyhxnXpgyuN3ugjfEc2FKIOpMIfXk-tQsud2g45QaOCWCMheW_Hvvr-xiKMxJAw19B7bQQKQYqDl5vAIcMrhDRs95tg
+    widthPx: 960
+    heightPx: 1280
+    authorAttributions:
+      - displayName: Koi Sushi Restaurant Sayville
+        uri: https://maps.google.com/maps/contrib/115109380193070601966
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWL1PkvpzL7k0tJvWlGScHeMXpY3V3E4Ry8J6bu3N7SBZenhL4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPz4aIgds47Vr2EiqWJ7nm9VVq3kNYi-2eqlHvs&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPz4aIgds47Vr2EiqWJ7nm9VVq3kNYi-2eqlHvs!2e10!4m2!3m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8
+  - name: >-
+      places/ChIJo2_F-QZK6IkR2L3OcpMBKVk/photos/AeeoHcI48b1nMv-od2pgiXsk4iMkcjfsi8Qr1r0rVmBA5lTghrdIEuVa-imE-Eg9aLZpECRaqvldjVZjNEf6xGJ-0EufB2woqF9JFiSqCYrZ3tWhagPiPL__0AP8QaMfdw38OXYfjnwm_OClMUSK0snfFQGDH52mmWpoxnVddioiWG40A__4Wf8jcWeb73rsz2HPeJyAy6pP3wjcb9gEv4AnVul-6HDoDsc45X6lQ7vk_NrE658QShj9_MgZ08WYyFxpU18nklxTOZEuIrNGDMeM0CdBYpnNpJ7JK6VbAdTzDoshJQ
+    widthPx: 960
+    heightPx: 1280
+    authorAttributions:
+      - displayName: Koi Sushi Restaurant Sayville
+        uri: https://maps.google.com/maps/contrib/115109380193070601966
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWL1PkvpzL7k0tJvWlGScHeMXpY3V3E4Ry8J6bu3N7SBZenhL4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMmcAtnu7Kjez1ERy3fmI8_0a6ejlzAh1zZ7Zem&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMmcAtnu7Kjez1ERy3fmI8_0a6ejlzAh1zZ7Zem!2e10!4m2!3m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8
+  - name: >-
+      places/ChIJo2_F-QZK6IkR2L3OcpMBKVk/photos/AeeoHcJ1FAg9mH25uz8w89zxcVHLaWQW0ZBABvDybKBE-iu5q1my_WV7kl-x-dxSjwo4nI9VDTW7Dax3hxN2QTTZ7vypXNKD00b5GnAq77blbOPwpMBhOKSHqRokbipn57g7y7LG6UtqHY86B-b7bc7PCRHGeMSszuRc8zJk7eyfYy-ph5od_fogyjzmbs8ThfXZK_EqJrh6sEdTHdrZlP6b2qic8Qa9YFl961EEBcbcCEIETH6aqeAbRgjbIzZLBY6vThT89AGt4--akl2yxUXV7tjSzWuZK1w1vk7mZt4sNk-dmw
+    widthPx: 1000
+    heightPx: 662
+    authorAttributions:
+      - displayName: Koi Sushi Restaurant Sayville
+        uri: https://maps.google.com/maps/contrib/115109380193070601966
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWL1PkvpzL7k0tJvWlGScHeMXpY3V3E4Ry8J6bu3N7SBZenhL4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPUSVXj9caa1okbekyIH-gwYMigqdtTmvdsiZhO&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPUSVXj9caa1okbekyIH-gwYMigqdtTmvdsiZhO!2e10!4m2!3m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8
+  - name: >-
+      places/ChIJo2_F-QZK6IkR2L3OcpMBKVk/photos/AeeoHcJAFjBsKtx9pvI-XqYpSRkdZqyVjK-3HmTYGAuohG6n0jCqufS_mypvn5uV7QXV8XFDvn3nC2aFDGAaalWKE30MkZJdqrcucyhB04k-8hhT7MWc66Dj8R8FiXc8yS_LwqH_iFWAW-j2ZVEoSqZLAbl-wamLYXv6E_HDD1u-H-ZjI6F8R9O0Zpq1X-6mRRgHG_O0SiqaleCQ39TrgGH97dsfZB2Ct3xEp1Ck59XCiNQNPaJfjORgltfy-TtkWmUcO02gw1t_HuNQ9dzBHIsYP6L43yHjFQCBiOaG2GkDtLE13THKX0gqf4ILdMRpV1U6mzZVTNdeDAtdejLrjmfTNPhp6kFxP3JwqbOX0BxrneyXgbCtn-I1Xgj5awquxDHJ3fXUEjEybFBXhDh0fiaB-7JcTjLMy8CteBe33XyiSvmrZA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Joe Chow
+        uri: https://maps.google.com/maps/contrib/111742664795121616597
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUAYbmMqLV0qk2RB3jKBXj8X3mdYzuOCz_c8Ahs7-oR-cxm5Y7l=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb0-uGQw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb0-uGQw!2e10!4m2!3m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8
+  - name: >-
+      places/ChIJo2_F-QZK6IkR2L3OcpMBKVk/photos/AeeoHcKS6iTGrzuKiWkyQwEv7jMGeO-L-hSCQTU76L7RJOqxQkof1wQ_Gz7L7wvnmRdd2J4-n_A3ylM3DLcreUrKYNVdsbYvuO8GJ1-FdKbkpk4OIppjiaFb32rna5rTikzjXMKiAUMxdnNQO1C8q-0feic1aEuaXoWwOhkq5L4dX3nGDm_NhAfZtm5aUfpp3hSzcEeIYclSVW0JIE_3kEzJ-InLmQ9PJhN073In_pePxRG1z0gXlXbZCcG6xsPJ_L7Zmk0-X02BiDB8pa0wLTqau0upoCOgGQAW83K75HHatZtFqhsrpkbhLvNpVmJRcl9rbVykti-_JKvaUJEqvViXm3BMjLoUeGt_BR1qhgUQjsNaPXmog0h24RYrMSj1fsms1k67HMJ-tiiYvrYZvB_EF_JbIpTk-4PUMwYI2YQnPvidpsEV
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jose Castro
+        uri: https://maps.google.com/maps/contrib/101758523276754657652
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVQWtuPsur8nOXdzZNJsSmifaNfBs958ujreq9JIZz21ZJ4iusd=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4s67EqgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4s67EqgE!2e10!4m2!3m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8
+  - name: >-
+      places/ChIJo2_F-QZK6IkR2L3OcpMBKVk/photos/AeeoHcJETDPldgETw4C_oZwlhxsK5RtP_CikmZZr1HQ3xnEwRLGTYZVEjgyxuCeaApMPpB9IVtKQPr6Ax2P-f-h80e68eaA3RhlYIf3QloVs1Zd5pJEzYbeLign5DcA78VR4SPlNh_lqfZmT9FBQNNMbJDUISWnVLqi2RvFfWvFHw7Wnk-i5M67J95MfgUN-0O2bibocbJs4g9qARl2YtFZns_t5V7aRL51kNCAbgApfMcGPe_syKx06wMiUqCTZgFqB6qRJi4QOsb80ZKPzyqhdsMnkgFQb-gIt1MrW4SgAhJ2TWvqyhgUeGZxRqeKWXtED916UdYcGIiZI_ojgK4tphL22rdlqaVPWtdj5i4mcm9_4TAbGQBIey3XukXpAUFhv3yuYp_SNpSXpXTEA3lzGrrh-dwCpFA1y0my8ZIhBE6E
+    widthPx: 720
+    heightPx: 960
+    authorAttributions:
+      - displayName: Danny Dong
+        uri: https://maps.google.com/maps/contrib/116421361010003383554
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW12_7vW3DTN3IA1pcjEGV97dKRdvMe_Wh0nQif-wtob-jDlKaK=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDG6LHlLw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG6LHlLw!2e10!4m2!3m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8
+  - name: >-
+      places/ChIJo2_F-QZK6IkR2L3OcpMBKVk/photos/AeeoHcJeaM5W1KNW0afcUogBm0kKb-oUJcBb-tgHylWeYg0ThAMOBxQQ1_4JlYuQcBZ52_Szua8ZPzDKt-5n16kPQqhyb5ysqg0CnNOwCeOwFpIm2EDZWq3r2NcNVwVGyWdt-BGLqLFZGwfXx3g6GM3jEDQddF-03NrM-S3Q6NhA1NQIySTdsYW83OeObWesll4YnYlWsJpsfkkGP-QtxEKg1EfipvgKvPGpY-YgeEO4VGRufSKQ62G1PM72o-X8y9nR9JQMeJjNKCuO5wjdf-Q65rYlft3ZkUfXzG0_RFyIF8vb3FNr97ZhSgBkHlG-4h70wFkCxwRM5TVGVyB8cJ1BBUBNZhlBKZbroSdgZe6WIVMTZfgd4oo4jkil1fqvHKts5FTOqKXFaxRE0_ToAV10ENwLPtI4W8DphD1fm9VcHYnkNg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Don Ballan
+        uri: https://maps.google.com/maps/contrib/118023468735211995482
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXkCKFUnxx-MXxMJtPQmw9hJFwNI1csaAsz57w0b2ez21jZNa3P=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB4qqSPA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB4qqSPA!2e10!4m2!3m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8
+  - name: >-
+      places/ChIJo2_F-QZK6IkR2L3OcpMBKVk/photos/AeeoHcJh4PRsVTpICOpHbMUaHKEo4tDhwW_dgLDJQjpo-UBjX1K81V0hlkskqQrnQigDOIqhNy8042zc8O5x4OXmWfTGmd-oTKyaEw24zwYPLmTeGgI0j_YHGJSqWhVKKlFC_dGQDaEmSipeSesLD2rBnlXLfAmMebTZJkm0GL-J5fcv10BuSb85z2bkcZ3SVJAgg5D-LFWruPTJ8nMZgYQPI9aoS_y6QLB34y7vWDpZYMOCfVLwbZLKI1UR6zP5boRJP6gqJS2SbAbcNDLskRqsIwKjW496SLiDyZLh4Pnf5oh6r0oMpJeKopE_QIkWgpgEBgXnAzLVr7evTsqTvWhPwG1mg_YyE-Zb3iDrFE4qpy9XUMCuTtqijnGxIlGxkfoBeq5pTsSLqjzmC7GdZTv721tWxWPyuzBaTMf6to1pdHGSTaXv
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: RCF
+        uri: https://maps.google.com/maps/contrib/106158068064635503901
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW5YJHduSSGEd_ImmzCnhEPHgjsQciOUKtVs2eazU-uS61htZnXDA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-gq7AtQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-gq7AtQE!2e10!4m2!3m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8
+  - name: >-
+      places/ChIJo2_F-QZK6IkR2L3OcpMBKVk/photos/AeeoHcKGHMxJMmYXuBwY1wBV3YlHodLDCTrYdyizOAWAghxBCUXjvZwqeI0_IoFTpN51gdIxkwRMgfvnQLcnk37VHXWf7zE7YyotWtNd0leZBpY0Qybe_BSI0-qOrdeCT9MY0ha9323AxiM6dCddJK0t8_7HZUwf3W-kFkWhQ4CPVwBeyUYkHcnfHdfoOcUtNcuOGGO8_No21fSEEayLOowHVdRwI4qKwXWVGVq73-kQ6iysMLr3VDtFiflGzWN34YelllOARruAjk4yMrw4ISeEpNVgfpXNKcx9sA7O17lcX5sP7w
+    widthPx: 1000
+    heightPx: 662
+    authorAttributions:
+      - displayName: Koi Sushi Restaurant Sayville
+        uri: https://maps.google.com/maps/contrib/115109380193070601966
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWL1PkvpzL7k0tJvWlGScHeMXpY3V3E4Ry8J6bu3N7SBZenhL4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPtttLKWgrh-a1z70bNwQdLiseHmF4s6yzccXwx&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPtttLKWgrh-a1z70bNwQdLiseHmF4s6yzccXwx!2e10!4m2!3m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8
+address: 136 Main St, Sayville, NY 11782, USA
+street: 136 Main St
+city: Sayville
+state: NY
+zip: '11782'
+country: USA
+neighborhood: null
+latitude: '40.734908'
+longitude: '-73.084106'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Koi Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89e84a06f9c56fa3:0x5929019372cebdd8!3e0
+  placeUri: https://maps.google.com/?cid=6424668076218695128
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e84a06f9c56fa3:0x5929019372cebdd8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89e84a06f9c56fa3:0x5929019372cebdd8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e84a06f9c56fa3:0x5929019372cebdd8!10e5
+primary_type: Asian Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Koi-Sushi
+
+---

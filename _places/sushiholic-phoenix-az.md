@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushiholic"
+permalink: /arizona/phoenix/sushiholic.html
+stateAbbr: AZ
+stateName: Arizona
+cityName: Phoenix
+place_id: ChIJ33-H5fwMK4cR_naewCpkEMY
+photos:
+  - name: >-
+      places/ChIJ33-H5fwMK4cR_naewCpkEMY/photos/AUy1YQ3QclA-cyCtbcuKWBZeEvPkOm8QqCQiCgKM_vB8vxsgr2HyzWjkn7u2TihS3KopfzblAB8CLU0y5C-uyEcKh91ZUOrVuglRLkz12PjPB3W4spz6CrK0JN4B_THoBg3zKHB5HlqfTRZnJggy0_TdSPm3Liz95aTygP2DxCFteOMBdW2HWLcz5pF7_SuYrot5SURc5-BwrTE_fRYvQfcScuRUC2FxOvg1h3gzIREPAfPOKM0rRdGsMe9tkU7bOorMA9JVbmI62MfUTqz39ZAZu0r4G_gfezjR06sxxV9PEwN2XgdMT5jbZjPJNaOL103lakQG2rRPnxsVUs806aCNFjvd8HCq82nznOhWs0y73GspU8qjblDII7ryYPY_1aIpUozaUUjZlAKXwUiCGQy6aVAj45qffzE7fvILhs_2bj5gMg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Shannon Canu
+        uri: https://maps.google.com/maps/contrib/112533907650424625791
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX_7HW3pQbp9l7buwL2wj-uUN3zG3mMtuwTwYtzNRr8Mw4ITCMP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBy7-lIw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBy7-lIw!2e10!4m2!3m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe
+  - name: >-
+      places/ChIJ33-H5fwMK4cR_naewCpkEMY/photos/AUy1YQ2-mnHJWd5mQVumKs_8YqCbP5dD0EKKAz8J0PmyInXAdB8u_DcC6X8iZpY0El27s8t47p3i1VVuoNFx6GqhxIERsrtyiFHdR1pkGJDpRVhZBV6v1J2-jPJ3tmKiLeDfBwHmkSW2eGksZY0QQzHEEFMQb84qK6H3O50rP1Uk5WY2EpihJ_J6n1AIXnhDV9SUlPFhKxc5aSQt5Bm0UeJT7VeyoJ0gqPL0_p9Wfyvo1M8rZ2yq7BzFb6-0aRD_8Fnm4Cu2qwnXz9IXTUSlWWSN0taEIJSWiwL-zpAU9BuggjRibbHhOVlCWapupjw_7s50h3uIwmG7cpWcx-VAdQtwgWXo4AXictHAXf9-TKkoRGrYk6GG7fmNYhJA4EoDn3toKMKpnmNPo_F0wCmbH3PM7q3r1_Toe9CDm1ODwsJYCAkXAn2b
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Joyce
+        uri: https://maps.google.com/maps/contrib/105398615996784762542
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXbHGeo3Cqyjc6cE1dyx6GyrqYLoBGYcSHZGbCHOyAbdm65jvrYXQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3v6zczgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3v6zczgE!2e10!4m2!3m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe
+  - name: >-
+      places/ChIJ33-H5fwMK4cR_naewCpkEMY/photos/AUy1YQ0Dx2MzwGvRMhsDoRPuXp5PdvkzaaqW9Yce5w6CDAINUCSoUlTK8UKFulgLEDV8dXbD9Z0U4CM4nAMJXbU75R-qPFW6By3VMXR1Q2o7foEuShptcvAe2ol9uTjI6PCTcMBuiDVqUipwK9FCJADnFTVHwbJ2-MI9yd3QVeC9wFrmj7jWYesTb9c8h24lFlw9pGq-AUQSfam240hJG4fQxkCD8m3aMnAKXSn0rDlr9EIOkQDLthS71bpAjKIruF6V0DrzX8tq-D4X38itR2i5MeICqaS0jr7GTfrg6Ix2IoGbQ5BOhE_o3rE1wDhGbnzu1vTxY0f0snFrTiwo13lRlAX5aq3Nuh6a4Zsx03TcTlNM73Q8ZC0jbrX_ObXJrKwIKrMRfHXt4i6Mp9k433PxFcGKDlQYULNdf1cmKBseqlwoCq4p
+    widthPx: 1500
+    heightPx: 1768
+    authorAttributions:
+      - displayName: Susan Bishop
+        uri: https://maps.google.com/maps/contrib/113798754765900726292
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWo6SwU9bHUrptdQoOPWls-4xmzgvl0J4MZv-PNZ6WuyZwlqDIJww=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID92ral-AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID92ral-AE!2e10!4m2!3m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe
+  - name: >-
+      places/ChIJ33-H5fwMK4cR_naewCpkEMY/photos/AUy1YQ15YlbI3MccXmBD0fxj1u5JqlWffSz-2-wgB6vRPZnttwfiuCZEVVuoqn-nBx_JbPowNMWUZtC-DjLfuTZHeGmDhU39nwdzOkOEoyDqHNK8j7CsTxzRn8y-zrM3ZCfzsfI8VdehJwEexGC9wTEwyCVNBnWdRocHStX-IFRCIQRfn0ox2e8Qm96C0wVb7qEiYaEdmshHo0P90Lr0Dt9zhcPaKBRJ2If6k48hH6sXkPjqisdSTR24X-xyOaeBii3lfjmcbWh4Fsvby6-3B1dtv5-LJmNY2DP379PfgwWdNGRL0iWdamsYCpL8-WtMgKIXSVBig4uHRfwsgOQ5Lqj-ry5B_LstNbX9R3utLEMG5MVrMrAtnhPrF4bltjZpddLwBrR8RQ5UesoEzM9l9RYhZZsTjGcJJ1ojFHKuRk7DDWu2malM
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Jose Ponce Jr
+        uri: https://maps.google.com/maps/contrib/111681860373273613353
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVHJMWXe4kRKz9hfjEiZ7Xzc5-fjRDF9qSIeCv0byNKfbPWV2aw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD8OvxqQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD8OvxqQE!2e10!4m2!3m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe
+  - name: >-
+      places/ChIJ33-H5fwMK4cR_naewCpkEMY/photos/AUy1YQ1YR1smRGvtxK_FzEENNVGtZaSAPK1ivBuZICVvKzZjuzVpzNp7l6vIEYslzY7dZBv564oDvOM9GPwGCj4yWnCRTgMJQd2lTShufpRWFIKjyM0jAHxk_Qp5Us3_DWzF8d2unzmXYPycOKxlsamsNqLWrR3HCEdKyoaJYJZDZEUoWgBF3Vy82pOic1k0yttkOGutuWO9-IAgLo8_cx5qc5ld_JxcZ-Fpv1-0L-6WfIlr9x_G4itxZJKbZVCy345fV_5S28dLP11SjaJVi_jvEXFswE1PV042hxpJM01sW50MGhtfjlMDwZcFq25xkEgu7-ClpDG7i6cX-gt-xnHF8aJDO93QH2t_qJpqWC18HsNOgELdVRJ3W0kiCIplFr32cE7alB_ixAhwB2ALH-PGxfp95fFs1ENB_h03THAWdcmfTLrZ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Nicholas Pappagallo Jr
+        uri: https://maps.google.com/maps/contrib/114786600820799802034
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV71Te2XEg3fxJZlRno8QmqCoLDVpP_1mqDCNL5FlbG6CV1BzvbyA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID21rmUlQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID21rmUlQE!2e10!4m2!3m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe
+  - name: >-
+      places/ChIJ33-H5fwMK4cR_naewCpkEMY/photos/AUy1YQ13DvsPyS5QTNlL2grKATzeMIkYhHvkKSDNLw1urk6dQ_Rqm1-58ZYH-VsJPtjIr-5ZE26jdVJHAlnhBhrozNfo_LuQiI0hge9Za6KDG1MFvukycdKAoMrnr5CTok6N3pdGmWI5wye7MOLCyT36BntVnIiDnKTFE0Ly2IBpyChD8NITcxvBhXmujHjPehmrSNRD0UDHBCCdXJvSSsqdzaNvRoZCMEmHCBxrJBJmClh55aO0gkz5oo1nuEb-jtxY3JWpfUyGmAnJKGq_XEolaEtzMb6GuHyw4Ciktj2PFKFFNy6nQqMomGdr8RFxzjywt2zp81U61R07YkfNXN-WW7nf7-d41bh393uKkHqNIc9iob7S7vaBsyFLPgzb8vCaL6BiHXN13WPju3a2ji3jmB2s0m5RYSRO6jWphGQd-LZi3g
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Miguelito Yimenez
+        uri: https://maps.google.com/maps/contrib/105609685552158024083
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVNWNTd0t5CevS7epEaVC1BeFW5Q6Na01hTL-enjE4QZU9arOE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxvMz7Ww&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxvMz7Ww!2e10!4m2!3m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe
+  - name: >-
+      places/ChIJ33-H5fwMK4cR_naewCpkEMY/photos/AUy1YQ1hoYmB_LjSCBglD06Q3vfr8qIDwDKtkP4PKG27DeMFt42hWeY60lxg0V8SNq6_mVAeibsengY0cxWwjxdtyT2NWSrkRI0niXiBPwPy_0PH4a39M9LI10NuNw8Z3IHcCQSChIBmFf4DCpMbhvpmodpZIGCAhskrlrUzFzxPG1nBBfHfLXBN-oJ5sK4zHP3G7_W5Wco4AEbt8iz8q4MXuclJlFmT885VpbjMqXPOoGWdjHp_ZHzi51BL1nJUYv5TcH5A4DXbYVLAQVCsj77dHBCWk8vJupFIxQJznxA51N05_Oz3m4eXTjUrOzK174Z4d1Cd6vhIWMy0Tc8y5WlnLbEZ4CDP1swKCJcrKvSs-c_Z0rnOu6nUzEXNbKBjtssxJZc5cyo41-YwKrL0RvyuCyIptObjSoJeYjSSP5bklOQ
+    widthPx: 3000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: c g
+        uri: https://maps.google.com/maps/contrib/107835350964304048604
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLlDgLGZ0_jzdUmRmBJm0-_Kc5yqQcXR9NO_8_7-sj74Mp5UA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR3aDhWQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR3aDhWQ!2e10!4m2!3m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe
+  - name: >-
+      places/ChIJ33-H5fwMK4cR_naewCpkEMY/photos/AUy1YQ19alADwtEwvk57zC3pmg4AinAgF0SB9HV8nWOnJ2cMPVV2WkK4_KgtDFeSvwzA80DnYhN2sGBKxCt2xGotOBY3xPA5EjpByF4DolMQMxLW6VMAS2YcKMNV4ZX21vH1r3UNb32Yy1wVKOAxupW41KntxePnWfNJq0V0wklFs4IsrJBWrULDHjhleQ9FGxeBR-vx-T6a6JnmOR9u3k215ZGn9DjcSVsXf9V9APDwxNJwwS6t3mU9grR21wFDI2G9ZTVdh5tUVcxrH5lw58TEXsfAZEr572yFELQaVNGItF0zg0RS5C-ifUVSPm3IMD_RTrmPJqQ14K9I1vdPcYzMkxnzO1saVSQ0uOxqGH_hz_isORg-G6S5jmFW6NWKmSX-tbq618tvZWWvpNpXuZ_8RX0E0yElCMNVmo6NCDHz_FbiJA
+    widthPx: 2268
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jeff W.
+        uri: https://maps.google.com/maps/contrib/105987047638134362686
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVUFCx_Qsg67QToEnkD1gJIrF1JMFmqXNnfBwK4lervdDBBBNJr=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHuIOpBQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHuIOpBQ!2e10!4m2!3m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe
+  - name: >-
+      places/ChIJ33-H5fwMK4cR_naewCpkEMY/photos/AUy1YQ0j6I9ajAiAwKC5ttmtjA_Yl3lllH1pbN4A2LV5FdV-qs_qgfs7WSkfJzPm1Mt1slxniPPQjaemQhGTNRTgFCWATMUcg19uYLhVSU2nKR-GG11y1ZppB1JO9tOqWD96Nt2ue8usHzgvjJayiw0BV0t13QxD2pc1__O_hy8hAJk50TKwDWJ7s_bnfUTsh_a8CodSVjXxIVB542QAz-MRo5SNTvPsaasgjDKW3PMPtaFOPvkbca-r2m-3ZbYP8TKDa6nnp-Swuj4ME65bIWsFrdh7sh1ZCV_Aa6XGsUm3sFdpSyIyyB59g2RR11GNTGWkjrQxh6l9UgZ1ezAlBjzY-hSD1iqnRvoNhw-YcvgJ7k7H6Sv2iipYAwKVeMI3hmocZ7q4nItNMvOkjM_e941f5-4an0LScdOiUQYT3Z4Z6msQdPI
+    widthPx: 2305
+    heightPx: 3073
+    authorAttributions:
+      - displayName: J isaac
+        uri: https://maps.google.com/maps/contrib/111235604467031015762
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLD7Zlt55Xc1h6otjcHv6egYbThDKskdP6ipgikkblERJ-tR0De=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC9_9DC7gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9_9DC7gE!2e10!4m2!3m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe
+  - name: >-
+      places/ChIJ33-H5fwMK4cR_naewCpkEMY/photos/AUy1YQ1vtAk8AhBN05PFiQl5RbyeXopWzqikH1_hLuSMT_m1PTqOHFyOBbsnBkpg_yftpCIv3kp-8SBAgxPOyuTDeZX-_TfMBG7CnnEHa1kOMkX0utO9KNx3dsXAE7xH5WrH-LhPAPxhGViRQA5UluvtMGeaLdi2KsziuI_tGSjN7wPr5vdW89e3n0d0RNUFyt_jMB087ynHJd0-4xORdJASMNP2xcLVQ5-75SiLgVR-xlyhgzXWdA533cGnuR-XiYBc9Zf7U2Ux4PH2JbkznP01NTOrsTO_4j2Ch3fNXG1bcMneBHoNQqwFFjNjg7IVWEbZk25t48E1X4NsPY1iNENN5iyrYox7TCrgfxZmsBaDsLbZedxwcGUykpkMgKrtw0-AeBJ6fdmrEa39gyNwtd6PJU2vnI5mVZfbtnyO8Zu8Ju2xp7Xw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Ty Anderson
+        uri: https://maps.google.com/maps/contrib/110183733340817096397
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUTQzgKdyPcNXemJOuJ6mNwSlA1Zf-mOl2Ctu_7TPxkC-2Gx44=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_8KXWvQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_8KXWvQE!2e10!4m2!3m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe
+address: 3957 E Camelback Rd, Phoenix, AZ 85018, USA
+street: 3957 E Camelback Rd
+city: Phoenix
+state: AZ
+zip: '85018'
+country: USA
+neighborhood: Camelback East Village
+latitude: '33.509009'
+longitude: '-111.995826'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushiholic
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x872b0cfce5877fdf:0xc610642ac09e76fe!3e0
+  placeUri: https://maps.google.com/?cid=14272017353920116478
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b0cfce5877fdf:0xc610642ac09e76fe!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x872b0cfce5877fdf:0xc610642ac09e76fe!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b0cfce5877fdf:0xc610642ac09e76fe!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushiholic
+
+---

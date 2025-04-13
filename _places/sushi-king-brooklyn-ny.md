@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Sushi King"
+permalink: /new-york/brooklyn/sushi-king.html
+stateAbbr: NY
+stateName: New York
+cityName: Brooklyn
+place_id: ChIJKYh0M5BdwokR-E4uw40hpi8
+photos:
+  - name: >-
+      places/ChIJKYh0M5BdwokR-E4uw40hpi8/photos/AUy1YQ2A1NdyOFrdOKafAd8E3tcdOEUjTdnMkAM0saqzgf0yJBTxcdQRKV7I-owTO34p068xFhx5hCci3gfAXh4GonlUmMtIpYUde8eqyj7BzZZ1VbpuMJflsWIapTr11D0xy0LzzJ9iVzYBMPKbewZeLnQQs5xhRZAZSc57V_UYI8mylWzAIozqMNrs1X2lAQNtEZ7VBPkPWBnsga7iUA_bmbvv5_bc0nlxFvjwy6IDruwve1Pu1Qfl-dlhIyeJzydNAxB8lKUDt6hzqDa3dXaP7vDpW7EP_OFoIsKJ_a8cEcPC9Q
+    widthPx: 3264
+    heightPx: 2448
+    authorAttributions:
+      - displayName: Sushi King
+        uri: https://maps.google.com/maps/contrib/101651454531065648362
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-7_YwmBf11_FkDCIf_5b59MVsD-q9y3_JQKGqO45JlpNPRrY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO6x3xeMqo3fL1ytTCbHrN9ibMcv3cCELYhcKN7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO6x3xeMqo3fL1ytTCbHrN9ibMcv3cCELYhcKN7!2e10!4m2!3m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8
+  - name: >-
+      places/ChIJKYh0M5BdwokR-E4uw40hpi8/photos/AUy1YQ2hTGqwix7GLuvLpmc95CM4MwbQxb9z0piHgXbL6NpH5lWMzvRCCUadbMdd82ZKDQ55efUJbGXPV8pAOpyOY8sTWgZSyiIReRY6Z1xdtRIuxvmIqF9kY8RL8CsfBftrlBinDrX3chFlgDzYbIGeyU4NBE_t6ymVdAuCK_IDxaLlnDlsIDaWdDeip_A5xN25zEH3UC2LFaib5iIDBvtoBQz56BRA-5mrwEsYGQE-HcFB09qo8csXLUI0tniDR7MZWglhyp3m4KU4q9siJesRKqL1cYoFKUHcE6xKehCFgWWM0w
+    widthPx: 600
+    heightPx: 800
+    authorAttributions:
+      - displayName: Sushi King
+        uri: https://maps.google.com/maps/contrib/101651454531065648362
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-7_YwmBf11_FkDCIf_5b59MVsD-q9y3_JQKGqO45JlpNPRrY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPc_5zS0quYhzseRrDWYY9gHLNrjwl5n_Ykp9fB&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPc_5zS0quYhzseRrDWYY9gHLNrjwl5n_Ykp9fB!2e10!4m2!3m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8
+  - name: >-
+      places/ChIJKYh0M5BdwokR-E4uw40hpi8/photos/AUy1YQ26KkT7qIGeY42f-5ZCKaj7ToMjKd8lpLCr1waTbmrn9NQbYQNP8RNzR7EKO_IqFutWSrR1yqwl8XFHfTvIa52xYpiu1es_eFrfPR0BTkLsC13YSbLDNL5eZ18zxccYFR_xEwmox20s7YN1P1AxIwQ8Ev86D7RbVoDfLBIKns4DuyWjXUD5aohIcvWx-XgblPAIbtTmyLaOpz8k3_Une2eWvplWXhR0ODoyp-8VzDt9uGpnyGwnQhkwZ84uKuUOUOC5DlHJytOQdf_mOLmhZ8nlb_aTmeCYUGujDPF1ZiTwT7Cqa31TuXKS4r4BndkDU_wLRTSQWOZczHwupitGICGpE_ZhBmF2FO83ztR7pd-N4mk24YeWRbOz8GCo8s0ZPsGd5S7XJ3JtVRb0zLgrPlCKW1incTfjYlL9y-JBhro
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Annie Lin
+        uri: https://maps.google.com/maps/contrib/115130822476958332515
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIx7_jQdBb1cKIK__VR5OrXYWoxJz39loVS4zjsEAn3lhDj0g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICi5o-TJQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi5o-TJQ!2e10!4m2!3m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8
+  - name: >-
+      places/ChIJKYh0M5BdwokR-E4uw40hpi8/photos/AUy1YQ2VxvVAufy1PS3vfEpm2rzUqTAfmQle7ADStWW-zRJzRjccpwl6KbAM-VYRhEeJsO0S6Nvy3OmZwBuslzwbujDTWWP-ZE-cCwdpbxCTNveEMIs6ETj-KueQTQWK7BaUkPWV2_mxcgVwd3B8FumGJamoKmq4icM41P7kgNQHOKUHrz_LuD93pQx3H9dRz45_h9YFMIfijDQuPC4eP1DtLgv6lygIEqs_UF_zKJr-5MwhQOoqbRdnESPlFd6r7821OutBWaEHZ3vDVNPYRr2aIcjGykdoq-6BrrutxwfO9ECsEQ
+    widthPx: 1242
+    heightPx: 1656
+    authorAttributions:
+      - displayName: Sushi King
+        uri: https://maps.google.com/maps/contrib/101651454531065648362
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-7_YwmBf11_FkDCIf_5b59MVsD-q9y3_JQKGqO45JlpNPRrY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMM0_ZFkJAL35KtkX_EmUkxMxJFDKs2wsR6GF2X&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMM0_ZFkJAL35KtkX_EmUkxMxJFDKs2wsR6GF2X!2e10!4m2!3m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8
+  - name: >-
+      places/ChIJKYh0M5BdwokR-E4uw40hpi8/photos/AUy1YQ3YDbEi1M6bvR3LkTORnc8S8Q8WvOVJaNwVSWFx4tNdMsJqCcow24ESwTFADSZDZuxioytaW6Nr9QxLzo0-kyv9PHGCexhMRKsgOhd4NKE22wYCooqbQtiGegvh2v1IHc7I2pvexFVEWMY_6_rm14cnmghZ3lYBjuKJ5Bye8vH4UicgeVAFc3pHJFSKpwLR52eSS2ZIvQNMGVaAVnlaPG9vxwtigFZr-vRMpicNWdMNY-aQeBAmgokIRLepOU52WcLaev1l3F6IqsfLnMspwSGr40-i4oAx2pN6vPEu1GkrUje3G2MmzkjMTrqxhLXCnV_WW06ZvVpd_AFybStu3NuxEnUff0D6YAX3R6zm1YRVGrn7s8W1kjYrQQmcPIOz-lDJ-d5rcQc1HH0Vr69_bPOl7KUCMlESu7aIrw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Paul Huu
+        uri: https://maps.google.com/maps/contrib/106808172442111974453
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKaqR4xsq9g0_1uyg8e3ikMh9D6VIxHj0cefEV_mdTVE9s58g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwucBb&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwucBb!2e10!4m2!3m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8
+  - name: >-
+      places/ChIJKYh0M5BdwokR-E4uw40hpi8/photos/AUy1YQ3ekNCKLMy2zyxmCGhdLIRh15XKjGGHsVm1WdNiSkKxhXYS8fMwFOvEg2dGGESDJK3tJ80UhsQGqocYka5THOvVTtxORR7xpeRBCh9UfsSBtRfZKUlt-uofSOAwo9_onVKaHVl2vdTk0LhNHq_TQN0C2-y0jyrP9qtJhcSIUbLXVLoEFJ6q06Ppx1UHqonWWDu9g0LQM4pvOnhi80NGkPEceim7MqT5BGUsVWI_aet5si7QHStp8Fj7ZDgKXBpKuwbTwHST9xByFwtH0zym37FPxnJvZqnDpO7UulRY76LxgcMfUjowNwdCVJ-unIwmKspx4S8yeJ4ol0XoksZRpqoW4HcdjyU-OMYafbVToDgblQap__ks2j1JOStKlxVV_HET5qdZL9cYQqZ2NNLcPMckFD3kB8TrCN3IXlxQTOuffRkr
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Annie Lin
+        uri: https://maps.google.com/maps/contrib/115130822476958332515
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIx7_jQdBb1cKIK__VR5OrXYWoxJz39loVS4zjsEAn3lhDj0g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEtvOFxQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEtvOFxQE!2e10!4m2!3m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8
+  - name: >-
+      places/ChIJKYh0M5BdwokR-E4uw40hpi8/photos/AUy1YQ38iVkkfKumbKmfTIRWBEgpFpWGA1fygb5qr5DavXPf_ua6K85UtYViXI27kQGv9o427uJkdG1AopuQqClIYNdMqplFDzopUChqTz5_lhXvsqcqJiDRPJFDL2s6r_kEyT-hw5fAnDP-pvdevP7Dqap1ZWio5deHiyFx7rysv4DOCz24G9SqG4l4ly7g6lhgQKAinqbX6i84dOomc7fcN5yjmaEy0KokZgqCSfHrKwxCRsbAWutJjFFtlg4_noeOJ5tcpqMm4ppP2EilH4RkM4KJTiYTYlvb-DBmVh4keciKog
+    widthPx: 1242
+    heightPx: 1656
+    authorAttributions:
+      - displayName: Sushi King
+        uri: https://maps.google.com/maps/contrib/101651454531065648362
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-7_YwmBf11_FkDCIf_5b59MVsD-q9y3_JQKGqO45JlpNPRrY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO7TePK73rdB7nomMlz3XLiKMaVFrhO_eC7Fy9B&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO7TePK73rdB7nomMlz3XLiKMaVFrhO_eC7Fy9B!2e10!4m2!3m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8
+  - name: >-
+      places/ChIJKYh0M5BdwokR-E4uw40hpi8/photos/AUy1YQ17nOXMkcaL8G_YQcEbM2G00iYzlEmdK1AVFgMja2YVpDcauAwWApQC-o29-npWcd4k6Hj_ZJUJSf-lfpaD2SFFNmPT8LZIPzr-L5A8r3-87Dj2DirOhNiDJB_hY4mFiiT4bJUri6HUBNz6xyGc9ZGgoQW_i3qAIPosK1LesdA0Cmd5xjmWt4P-jxI2cUHo138Aek12a3oNSNun4I4KHB1U32RaJiYO1wYhlBiOgA2VSgkIYyCtJKfCa5rNAaeNLZ2ZsqinwHP1F_TLWnGi1Xvzy8sMuUI-ASljfHV1FsPhzg
+    widthPx: 1242
+    heightPx: 1656
+    authorAttributions:
+      - displayName: Sushi King
+        uri: https://maps.google.com/maps/contrib/101651454531065648362
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-7_YwmBf11_FkDCIf_5b59MVsD-q9y3_JQKGqO45JlpNPRrY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPa4LmcFDzST2RCWd75z5sBlau1BT7cx8P5Zcnr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPa4LmcFDzST2RCWd75z5sBlau1BT7cx8P5Zcnr!2e10!4m2!3m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8
+  - name: >-
+      places/ChIJKYh0M5BdwokR-E4uw40hpi8/photos/AUy1YQ3G05zZDcUxuLNvkOZBI0cof8vlxKISB3pU5M9hCSmveWZKLb6ujxqrp_IC6UV4Akf-e0F3KmSVzFBUP3LbGbmcu7hLEvSowm833IGv2n4NS21P6RbKtxDh-EWMBI7P85S4hzCOBZDfpHJqr6d_iyi_zqRnrZEkUGppFXLH8Vml6kL93GyvJTbWkqOuFtAvMIHtnNs7paoCOG0ZY4QPR3cq2jTI7KSxQ-cHqQSKwhvY85MH0gi_1789fzlg8SnQW0lefAF0pswui5WzE3j7l4jwfo8vEO4JjkxkwqpwcPf9aw
+    widthPx: 1242
+    heightPx: 1656
+    authorAttributions:
+      - displayName: Sushi King
+        uri: https://maps.google.com/maps/contrib/101651454531065648362
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-7_YwmBf11_FkDCIf_5b59MVsD-q9y3_JQKGqO45JlpNPRrY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPvQnpzo-O5rJR4EyQy0lKV18jMLgiyN1UHJ9S-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPvQnpzo-O5rJR4EyQy0lKV18jMLgiyN1UHJ9S-!2e10!4m2!3m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8
+  - name: >-
+      places/ChIJKYh0M5BdwokR-E4uw40hpi8/photos/AUy1YQ2dQTvMByEkRrz6in-lShoCQRJfHiim6iHSEG5T7mH9r6g-IpkeGSUWZmFGhtbBlb72Ht7hb-X-3y5mfhwiRZ-hVFO3XCLgsJEWCZl0N9ExVrZxad1uUHTofxV2q79UviflInCuV_Oap8k7sC4fikZh5xRhyGvlR-aD6GtkUaA9-SDOee9_Q4oAgk_4QH1ZL6gMbDEUnsxB6gSxPbcCVqCofPhKaBnSJFuE0RnGTpzNYKFAeReQXQTybWcHAzDSMNRPxiPPt7UY21oB3xvbAfL7NdcCohPdeLrwMd4Dl1rWTaJBfO2a3OIo3vKqxARzM_qNucc2Y-0DW9cHv8XAA7O5omDuMufOb615pRKgCMzAHurspnJ8IIdCedZNlQceOfNy_DJOs6ur4A1XZGybxA3LI9KOY3B9tQ6ilwB1H70Zuw86
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Mrugank Dake
+        uri: https://maps.google.com/maps/contrib/113390760989073823219
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXnuQuLbnzS586sd3VWzy0yYT8LctnQbIFSVhwWtMDrWFJT3wSE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX-c6s2wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX-c6s2wE!2e10!4m2!3m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8
+address: 1442 Myrtle Ave, Brooklyn, NY 11237, USA
+street: 1442 Myrtle Ave
+city: Brooklyn
+state: NY
+zip: '11237'
+country: USA
+neighborhood: Bushwick
+latitude: '40.698806'
+longitude: '-73.917126'
+accessibility_options:
+  wheelchairAccessibleParking: false
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+business_status: OPERATIONAL
+name: Sushi King
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c25d9033748829:0x2fa6218dc32e4ef8!3e0
+  placeUri: https://maps.google.com/?cid=3433468658665279224
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25d9033748829:0x2fa6218dc32e4ef8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c25d9033748829:0x2fa6218dc32e4ef8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25d9033748829:0x2fa6218dc32e4ef8!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-King
+
+---

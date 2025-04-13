@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Yamato Japanese Steakhouse & Sushi Bar"
+permalink: /florida/wesley-chapel/yamato-japanese-steakhouse-sushi-bar.html
+stateAbbr: FL
+stateName: Florida
+cityName: Wesley Chapel
+place_id: ChIJPcu5atewwogRdiC-xx-q0fU
+photos:
+  - name: >-
+      places/ChIJPcu5atewwogRdiC-xx-q0fU/photos/AUy1YQ2pamuePLOZIpOfmlbTXcdSUxH94DZHziTL-ywwyWlzE_vP5xTuXVgXIaU07IURNKuW96zdRPuaU3zP8jQnYSn9C5EQOJ6K6Mnnoj6afL8_tYNEC_bGW3HwIvZBkG5y6rWk1Fsq4qt8raQuonBkBMYAGpdaYaB-FuPcbqU9nc7V2KpSM-K0-FE1vEnUMSbpZPBePDtn8zov5P1KgKbd7UFOiMkqtFOxXATyH7TQSdyRsm9FYnxKTxMZwgaFhHO2wvOxelnDswu4XmK7Ec5Yoee0758KHW1ssKPbsTRL_74u0Q
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Yamato Japanese Steakhouse & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/108337017999973286806
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-Ot9wDMAuO3b5-dSWPyTq7WofdqYdn1H8_Zn9doaUc0EqRBkW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNsRFmDLsI5LrTubq0Eb5SWCUXjbnLRBK1mCAcr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNsRFmDLsI5LrTubq0Eb5SWCUXjbnLRBK1mCAcr!2e10!4m2!3m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076
+  - name: >-
+      places/ChIJPcu5atewwogRdiC-xx-q0fU/photos/AUy1YQ0KsTUyB7ZX-PuXfm3EXJEHoBC2K4zuEKIAAI7sNrndwZgYtopz4qDwVBSjzOeHBXDEb-DVo8whKVPzynKx9lGEhF3kEtCdiZ7FsedGfQNuQ3D8bEtwM7EkCznJWQGk19AxKTI0NcOh4AeEn16eoC9aUSzMrRC6OFKfsA6PandZMLGfaX7qW0DN7vBtjNOXN1O9DFEmTZh3kBWLkeyd0yNLtDnWjdD_wkf6LNZ0Lgn-_gwtgG0QcvaJKtyVR9hF-3kH71rWUAGbfNyd8tJc42P6o_cN2naphICcdgvGVMckgw
+    widthPx: 3024
+    heightPx: 1701
+    authorAttributions:
+      - displayName: Yamato Japanese Steakhouse & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/108337017999973286806
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-Ot9wDMAuO3b5-dSWPyTq7WofdqYdn1H8_Zn9doaUc0EqRBkW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOKY5vZ4PbfUbpJ-_iaMpATfOGt-yGoWxL5u1Qe&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOKY5vZ4PbfUbpJ-_iaMpATfOGt-yGoWxL5u1Qe!2e10!4m2!3m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076
+  - name: >-
+      places/ChIJPcu5atewwogRdiC-xx-q0fU/photos/AUy1YQ0dqn3pR5wYsBC0mMTuB4rAYyDxJSpmIjVC7U3RYupT1eN1yca3RVB2BWQp3mzyJop4vwzLWH9qU9Ncy3SZxgWrbXTLs4klEJB2KT8q8I0m4Li1-C30cGNa5Ls8RGJS2i6O27S5J_rcQn_T5D-VVPD7pDyHFPRiRn4d19aHpo3FIqqSPZrx5FXFUlj0NLP7tnN_tZCSlyyLF2ouEra3jU9-QU2ggOxM1RO_-Y4umTmDWnq3PStbN1EBzs83zntherFJcFJ6LRZw5mjHrcMgTywcmvtnmx22uZ5WWzhCkay0dr3Y15LFXK-3_Y59_Khl69wrWGTohRkvKxFgbOibkTnHLANfQ1YQsi4aG_mU4jLRLpQQYWYJbAGdWIGildx7yGRPYwPBvHJiH5Wef-8TPEUPPyFTL28_00cTJMETEFP2pv5ShGzuvd6pfIrKf93t
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Gary Myers
+        uri: https://maps.google.com/maps/contrib/111235014533489680209
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVMpcvIEznAtYEkLDk_1CSFc35Ub9Y41EjZFqDFqoaH6McNpDUbbQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzdCflJGffOYkABeKh&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzdCflJGffOYkABeKh!2e10!4m2!3m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076
+  - name: >-
+      places/ChIJPcu5atewwogRdiC-xx-q0fU/photos/AUy1YQ2tvjNVFExERLqG4UBbj4WzD1OH4_BNcz5LEzl-z7u3nAWw8UldFsdt2wZ06KodswG9FeSXuq872fob39-d772vAt_PAV5VfhyxC4RWYD4oA-TlaJHhip49KtDE8k3YDrB2ad0ZGr86HKLmVnQxrp4AJ9xSqwUeuyuTlCgq2fnIVVtsyPMGZWSfIUjLlW1fO7Hi7DQIMYTPsdLSV-fxlRWZxpD8W7bixal19CFnymTGQ6_tQx9nAqOKi5Ss4k5PBbrp-uZx1pomkHVWM_3g14PF4JJgsgGWU7KzIEe8xsOL72iaQx7D0mgxOrFcR2dnrldud8s4WCdG4WBKegjDBqO9vLbleZfy96BV17Qjc6DZTpNOxcYSdcdvTDg_PqTTqCHBsXFzGblxzveGltM4hph4qzy0-_u2cID_oxjECPA
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Camila Menendez-Santos
+        uri: https://maps.google.com/maps/contrib/110101780431146543653
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUnG8iMdmHZGGT1T_pt4jjc33oYvbUqNmZ6LmrJOxBi_r9BH3s=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvmP3NYA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvmP3NYA!2e10!4m2!3m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076
+  - name: >-
+      places/ChIJPcu5atewwogRdiC-xx-q0fU/photos/AUy1YQ1y5SMSvVP73wqVQwMrL0THuWfWROT5GLwidM0J8TMvNXOJX2RkeKwdA3SJy2mY5D5XPEQxu4SzhVFWEQcdsKw1YYydQspkbFvtCVI1eofCU-mwVCcBtJW_Y7ePglU231Fpnn51xjAvutHwassMZhw6DytuEJPY-WhPtrQorDl9mPo8KLl5lqYc_DczTKmhdaYE_Op-_iFL_vKuhL9C-6SRZBi1UHBx0m_cl0N6SmcehpquZ2sSDMcEF8Ps_uQJgDEsr9bE-WQtdJ1g2MeK1mZFvB0RmVsPNWNuWaDxPWj8J4euSvkqM9dJA1vhS4D4hMdhA8LNJ0R3MHhMn9jWS6ed-cIgsddzGxA-kRGQXCVs-Ywt1hKM1hoQeb_DjsSGx3yEw38lsFgJLlfY7pBQ_YstiW_JpFzBJyos3arGMgBvyg
+    widthPx: 1805
+    heightPx: 1715
+    authorAttributions:
+      - displayName: Postcards from Stewy
+        uri: https://maps.google.com/maps/contrib/117696129167638944022
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUsigMM_V8RjAGbK5lqYRFlyVAcnGNZ2PoHKQVhjNdn_AWwjnzN=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3jcGlHQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3jcGlHQ!2e10!4m2!3m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076
+  - name: >-
+      places/ChIJPcu5atewwogRdiC-xx-q0fU/photos/AUy1YQ1HlGmyUMMxb70EcJ53Xk92DY1bmRw6X5mfvMKPtw05YJ0jl7TeTd-sEGqCRv5084uuRndx1yNBdGxWWGLKiD9LLo3BDffoXbERLuUThwI4FVZSCX6hbggUh38rm8vgq5Z8XkG9dVQwGUMNcCLG07vUQAczoQEBFBRzZYRqQ7rP6SwA8ZNeEh_X6VvOG28dINOJjyZeAyBUP5D50u8OjQw_3tiTbiGR8EuvHMpWOzNq1VokNSHPwqNInHTBzOW1X7SWdg-MnKXQNxDdGIglY5O-R7RxiHaI5Un4b69p3D62Qw
+    widthPx: 3019
+    heightPx: 3019
+    authorAttributions:
+      - displayName: Yamato Japanese Steakhouse & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/108337017999973286806
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-Ot9wDMAuO3b5-dSWPyTq7WofdqYdn1H8_Zn9doaUc0EqRBkW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM_e37ktrCvy3AelEu8W-5AqlmLE7QtLStTGGWh&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM_e37ktrCvy3AelEu8W-5AqlmLE7QtLStTGGWh!2e10!4m2!3m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076
+  - name: >-
+      places/ChIJPcu5atewwogRdiC-xx-q0fU/photos/AUy1YQ1lXHxG76svq-g_5xfd_J1M5KLAJSxwG6vJLdxnylqfOYVVeU_vk-3d08pK_l3sE6J96nKsOVp9B-LODsBlI9MB56qwH5Zgd7AEwbsg2S8LdX80rxIaQHao5bOcvHWAjBrWWOdqflLxsomqnlLmiI846pr7m56-4QB2UJ17pHDAhlpb8z3zd2BVSSUCzWebRO_oQtUX_hMcRcSTtC2FstKUgWjf-wrsnp69G7hjzzWTI-X1j_vjAhCZMseVZOiKbm8FJ-BnvhTiEVVcUhIP8iRCbqxiv5WJscS3nEutlv5uDlv2d4n9wrnZ62cOj7o7YFYX3tPNc5s0Jq0OGx0k2KWlro4xH8zcjnN6HJ_cpyrMbu4VvGTfkqbrD5uL609IBGmSqB185-8h1g7aWOGNq9BYGqP66g5Hjfey42j9uxHVhA
+    widthPx: 4032
+    heightPx: 1816
+    authorAttributions:
+      - displayName: Genevieve K
+        uri: https://maps.google.com/maps/contrib/104244130955110695888
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXksdSj8WZlxWl_REKXwIgL4h_-xdkX6yfPhKL7gDG83QZf4t4w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAtrqaAg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAtrqaAg!2e10!4m2!3m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076
+  - name: >-
+      places/ChIJPcu5atewwogRdiC-xx-q0fU/photos/AUy1YQ18jxvzNodwpwBuO1VcwMNBJMwrtt9yyPM41qi70QdNvFAvYo8rqtQEm1upV9Q9xJV3zNRxX6WUV3rUPQdYsT9PK5oz-X6cqUF8glD0KTYSkUuHK0D8mVhbRqt0GLtuZdnNuSMt4JLsrYiiO0ialMrNMJROD-nDuY3V7lr2IJ4jCGZ7Um2D1dbEalaWHqsmUOkYUe0cvcO5qekWKba04dfBesq7mlUwKTjldZHYvHFO66ja1y11fpGazIZslH1uLVCm-B7WcPO9rxNNDJgf41mrvDlujU-qcA0pLTr73P6mAQ
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Yamato Japanese Steakhouse & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/108337017999973286806
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-Ot9wDMAuO3b5-dSWPyTq7WofdqYdn1H8_Zn9doaUc0EqRBkW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPMkZZOebj6jQQSglv-uivMAejLoS847Gwy7hDJ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPMkZZOebj6jQQSglv-uivMAejLoS847Gwy7hDJ!2e10!4m2!3m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076
+  - name: >-
+      places/ChIJPcu5atewwogRdiC-xx-q0fU/photos/AUy1YQ3FGJ1_5vpz80QQowXO4aWjwNomzGWXwHVgqNwPhbZqgO3OQPZaLRi8zz4rVdW1vxzfuaJ-eVqZr1ejOoUNNWJpqLRoYBf06jScs9YDIc8BCP8BkTGChbAihxkp4PS3hhHlSbRr1gf6uJdVMEB2qkaglxQ6VfisILZNvEdDB_ZRXQnWlvnxtISDtcArJVm4CvYeu86qEdMwy1NSh7HkiGQELLifQhsR0GGVMevB4Jct-caYiEiby-TrG4IEQScrGaO_9zIx379X67WCZ-XRUjwZg4aUPuYLPp9c-_LLk-ME9qYHEtOvDZR4QXdLJ6ks9-AFeL3bdGHSZoK-29rtwynrAfcy0P7klT8QrQfqTXaAsXlaIBWKifKVajvUTsyswh12iMEISEZ1LQYHHhr0yxuz3Sk9NXkAdbCiJk8TzMrY1q10Eb0g_HVP7-uzMhV4
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Gary Myers
+        uri: https://maps.google.com/maps/contrib/111235014533489680209
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVMpcvIEznAtYEkLDk_1CSFc35Ub9Y41EjZFqDFqoaH6McNpDUbbQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3ilWBQrfaGffOVIAC-e-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ilWBQrfaGffOVIAC-e-!2e10!4m2!3m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076
+  - name: >-
+      places/ChIJPcu5atewwogRdiC-xx-q0fU/photos/AUy1YQ0Mq572dAN5MtmuESFm1ReoEXgSS9NMGIu-w7sV4sjtb0t1QF6WSuJPvKMOZVh7Fb4kINEvqEwctUQee7qu5rxYfJr3avrgl6Oi6CVs-Vuk72jMhcQIL41w6fxHVYorK1jttHTEzHP90RuIFNsAr0Ooxtm69ZPD5A551LEpW4BGE4zQGLv36927kl5XCFqVN6HeCPWSnRmcH_-l0yIYwF14YoVuSzPS1JKTJL6vQrV5tJ7aWfEBr0HA9JiCmFZrmkCrkOXb8Qx-dFHhz7NGeGNcsIA-n1-TqwgubXUK_jfmXZwYf2YS1Yieg1P4ON8vPpktWu_UDZ6ghpiNZlxArepZl52GhTVLu_6Ji2JLkoHuKEImwUw8rcsM2yoL74FGPebBxxoi_d3RCSHagf39rdvtgZmaalwEKMvxYLq-CwRCq-k
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Richard Yurcak
+        uri: https://maps.google.com/maps/contrib/104886289282830738958
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUJ8qC0sVUvSZjCHHw3PnunF2iRI_QPAx6SvHapHEmM0trnkfr7rA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID979qC8AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID979qC8AE!2e10!4m2!3m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076
+address: '28347 Paseo Drive #150, Wesley Chapel, FL 33543, USA'
+street: '28347 Paseo Drive #150'
+city: Wesley Chapel
+state: FL
+zip: '33543'
+country: USA
+neighborhood: null
+latitude: '28.188613'
+longitude: '-82.346727'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Yamato Japanese Steakhouse & Sushi Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076!3e0
+  placeUri: https://maps.google.com/?cid=17713125862896705654
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88c2b0d76ab9cb3d:0xf5d1aa1fc7be2076!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Yamato-Japanese-Steakhouse-and-Sushi-Bar
+
+---

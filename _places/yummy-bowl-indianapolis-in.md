@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Yummy Bowl"
+permalink: /indiana/indianapolis/yummy-bowl.html
+stateAbbr: IN
+stateName: Indiana
+cityName: Indianapolis
+place_id: ChIJO4-PdyGpbIgRAbhzFJwVVjM
+photos:
+  - name: >-
+      places/ChIJO4-PdyGpbIgRAbhzFJwVVjM/photos/AUy1YQ15Hi5xg9tbvRhT6xq62ZpX5h2I4QRwcEzmW1N-DW95-WWLAEBGwrVGhf9HUCZbTveWx-F_ND9WlD_ylPJPpsz1KNZAOEoheEQqwzThQrbowBi2q4DRLVaTvaBrhmlqmQ_P40GGS8BMjV2fYG6jPsVvpK6pGR4BSs0i7wp-qe5umDFWZK3Vx6cCNytNLsTG1yAw-m617Tt8EzGEErpJNsk_SnUET_86v7jclDMvRVCZLLwWuZrCizgWsYPD_fiLJ_ON6Fnb_cP_9rxRHZ-lZztDYya5EK0QTLenb-F2wc8pLg
+    widthPx: 1276
+    heightPx: 1702
+    authorAttributions:
+      - displayName: Yummy Bowl
+        uri: https://maps.google.com/maps/contrib/109101984309678228947
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKB1_CFjB1mFmd7Y0OFLiM8T3iyAPTretndlMoGxWG9XeLh1Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOien-4Nhvdyw86m4aFIIbwV8_fizvah-o9YpI0&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOien-4Nhvdyw86m4aFIIbwV8_fizvah-o9YpI0!2e10!4m2!3m1!1s0x886ca921778f8f3b:0x3356159c1473b801
+  - name: >-
+      places/ChIJO4-PdyGpbIgRAbhzFJwVVjM/photos/AUy1YQ2dEKQR1f8YQFhsK-Khhz4M8cUEdb1XhX7uQNK-CDux3ni6HOvOitZ64YXbxfI_jIxdAZb_w4DAxZmwGPF8SDuKqt0zQlbhVSwpjacrqW5Oe5h81Rdllp0fIg_PEjrV9a-sYTTvDpe5OE13tgLfF2SAcz28TzAg0o4oz5cJCxZhEEr1Kc0dq6gOhiHNsOFixKhaWlspJ8ZmDUT2s-uJWdJPrt2Qy06BX8ApZr7s6JRq3dZ5znwuTwzpTC-waF_ob2E_fm3NHO97aWpLpG7EV-E2wcs75kp8jzc0IR2e-dv6b901DrZdzluSnjrvUs3w2hdbxY-bLw4P2SBpSnrXG0pY8OqtAcw5sKHuk8kEVhoVp2bu6LSTwaL3GdKB9FJlyxFvmptFEmtwnYe9k66ga4MlBf0mrofs0JleAy3-UuLuzA
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Rick Rowekamp
+        uri: https://maps.google.com/maps/contrib/100204919048638008065
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIvRliKG39tPhZp6UIDMO-8OaUtzXQ5VHCsSQvRmnCK7-LZtoQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDW7c39Uw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW7c39Uw!2e10!4m2!3m1!1s0x886ca921778f8f3b:0x3356159c1473b801
+  - name: >-
+      places/ChIJO4-PdyGpbIgRAbhzFJwVVjM/photos/AUy1YQ2V4Gw-Jst8biWKxcOb5IkpkJNjvGy3IHzN0gHmvh5e5LdmurjpYyphimZ8bnWMEOr6SMfAaLPAefuEdvIlOah1G-6YhVmtAvCbS9S9hoKqieLVERXiL-Cy3h0OW08smbxuAVMuvYYnUfSZrXDyf8RKMqj6KrCWm3lGEnJVgGj0-m_EBB4iNzTTiGzDkjeirHakzsrarV3SOJnpdWxUtfIrHsP_NoGDz4cBVy6-Kg8sZw1DCaYKnF2fE5bkiiXIztUZF4pw1zFAWo1k8Ym9OHJIs2YvwWeJII2tjre7MMguOg
+    widthPx: 1966
+    heightPx: 1107
+    authorAttributions:
+      - displayName: Yummy Bowl
+        uri: https://maps.google.com/maps/contrib/109101984309678228947
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKB1_CFjB1mFmd7Y0OFLiM8T3iyAPTretndlMoGxWG9XeLh1Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM5pjHelBjqBMb-3gbdGAFwoezCq2fy_CxOGW5j&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5pjHelBjqBMb-3gbdGAFwoezCq2fy_CxOGW5j!2e10!4m2!3m1!1s0x886ca921778f8f3b:0x3356159c1473b801
+  - name: >-
+      places/ChIJO4-PdyGpbIgRAbhzFJwVVjM/photos/AUy1YQ0nTWr_yJtygtjKjVib2fIfoBKfpxZ9ZEcHVc9LyaPEq3Gi8rW9n9JWwMPUKlDCG-iDA_VkOi8KT9G3NgeykDW_HYwOiJvU1wQlxMPCpv4ZdEST3AgT7Zg0br9wSauGhKi23OLaq3xOEeuMbT3aK3kuvfu4-sQM0S5OW2UE7cplxZrpCgduYh5qJDPWhwMJUUBFpo2FD6-4_8ovBYvWm6AqTCLBKzk2TFF043Go7jepG7h9RsBh1BQGCd8B3NFeAuo56giT07K0lcsA2aNkWtaQgUCZS9Oi4QXrKH-Yyhx8prensJjnyKK1eIxcbzXiEmO31RGwMefMyfrNl5hluAPTQYH0PPePXRcyBtHqaSlYpb0HoRls4DksttZo0Dds2fuPdojcvHbL6gLZ2HklOkfcsC9QjjnKMNgUpQ_KeRmIZQ
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Sarah
+        uri: https://maps.google.com/maps/contrib/111088860066520120539
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXb4nUPqeap7-v1JdVjjeTyAX9yfpXNfcDjG974eyhsEsBQ4bvX=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX4JetYA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX4JetYA!2e10!4m2!3m1!1s0x886ca921778f8f3b:0x3356159c1473b801
+  - name: >-
+      places/ChIJO4-PdyGpbIgRAbhzFJwVVjM/photos/AUy1YQ3qoa8wBnx4Vv3Jt2q7LcWVkIgEDuePi8EjEENEYhtHEW4Fx4v7n-0YN5zMZLlg5CnTQPolnbi3Yd-i1mkwGLJErA9G9s1UeHfeGDF3oytbvK49akSecC6CgRSf5P_W97UOjGBnWP_iS5ftpwtZdXqXNiRZkpYvyMCN16WaNdkJnvjZntBfGXzd3BS4HUwzw8ZJLxM99i28IXkpRUU-T4g3jU3AXa4YYrK-oKCOECdoWX3Cxh5sZUjGXs6X--KpxWZgor5K9sPxsAkwze6OlVamT_x2mioC3R5y2Je8NxqGuVmTI3qj4AFq6lrw6YQ9Aw8K9DAOItmMcIgfvBFYFqzkfgyPRySR8CwiGgvOKqBF4cWspV_rjyTkplVyiq0SFiIJhvObrHRWcULUroSboSS00z-lEqdTByuY2nWbj6O8ppo
+    widthPx: 4000
+    heightPx: 1868
+    authorAttributions:
+      - displayName: Norma H
+        uri: https://maps.google.com/maps/contrib/101791963419716864715
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKe_g_-1ccE80IRSYIlXFsc3Siz9-lMR8bJ7psA0FxBS6231w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI2PD0gAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI2PD0gAE!2e10!4m2!3m1!1s0x886ca921778f8f3b:0x3356159c1473b801
+  - name: >-
+      places/ChIJO4-PdyGpbIgRAbhzFJwVVjM/photos/AUy1YQ0rR8lvQ7KzRuTx04w4ZvpKC4c2YdZxwDI9RJsNA7-TrrnOrsLcXVZER1TWF7FfP16RVmHTZiMchrmIOXDOmOn5XGlxzxdu056KuScMDla1OC-g-6TQXC2ptz5ZrNMXWMxC6N5OKGyw1a41nATc42z1wG-HZHA82gSV4fScM_f2fxsx1tXcagkGSX9_RvGt4MIYcTDBx5oM8VwQIaR6uH03Epc99l-eBK2sQe_ZsScuXhqc8aiuSU2Tw25g7tXHGkyeR97SfeWLKcXBV-FXiJCkIr18v9YtbdC9gIgcfiX1kaaT47enzoq7dknwj4o1kS7tWoVR29___1oplu3jcZm9b2dLTBEI_WXjHsRgQmOmaLwJeXx1oHSO_Ffhbtp6YDGK2dyPLemtp6ai5u6p17hK6zWlsoaqbPbcdqIOyU40SA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: ALL PRAISES TO THE MOST HIGH
+        uri: https://maps.google.com/maps/contrib/105365751901007809914
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXehqTqKLp7IHGmvhRvArUn_J3aB8ua0F2v2LoqcXKPjgP8P8-Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICnk52oDg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnk52oDg!2e10!4m2!3m1!1s0x886ca921778f8f3b:0x3356159c1473b801
+  - name: >-
+      places/ChIJO4-PdyGpbIgRAbhzFJwVVjM/photos/AUy1YQ2fN1p395TvwCKHK6kL1AxaWYZM1J8XswCxtLAC3oEixNRHu6tkBRhCmdogbDZVseoY8JFYz6otrMiajn-GXbcEKiEGh6mTCIYqzwcuMwZlFg3qFL4ZdoYzzmPPy5Qz-zOtyM7oyMnpzaRmoaRQqlm9qI_gpkKLme6FOQXGg5FAu6LK6HWEfOCQKdAcqFF1dQ000rcprP1VyCkl9aPlrxf3vXTNhmI7traM0wqbl-tzKpzwq4AFGsdjAGy_WwJtvwbKdDxz92Oo79lyBSBMOeveCfH347M-Q1-P68JdiYj7oW6g331nJtVy4705RbXPJdFYh-q4Z7xE7-7V2rcoAjKQFtXm67HB2EVKKI8yIdJzwgiVIlsgDIpoV8jaS1ipIzqgiCyp9ZhDgaL5NI3w5S4_yNoQbSh5oncxUVy5F8SVqg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Paul Cooper (Coops)
+        uri: https://maps.google.com/maps/contrib/102730387764859736101
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVYa83ecZmERzzmmflpzKUD2qR7eOPCYKM_LdcgwmNWWQRKntoL=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT7POrSA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT7POrSA!2e10!4m2!3m1!1s0x886ca921778f8f3b:0x3356159c1473b801
+  - name: >-
+      places/ChIJO4-PdyGpbIgRAbhzFJwVVjM/photos/AUy1YQ2odcpPWQK8sqvq8HClreC_RIICdtx-D6nGN2OkZdKHP4JzD3BgS_pUXb7F6JMHaifi2iFynwEb3mGxkKI2m4q-bvWq0WNFFsfcSqOLyNHe8Skb8N2LSvlNoUMRL8xWQfOi6tBeZ6snFBL7KKaB1vh5rtnwFYvmnm0kvuODhfDr63IoC0uZdTm_MSoAPAZrw8Qgz2AcGpkhDlmvivagItGNICmUXYaMyhQ6RjQc-5cx_ynB1yNhCQnCl5URlDBRcB5T2ePd3v_Cfw3vjYimwLrEyLAolCdXzdOkkhNPKUEw4bDgkBob1RS47b9KwSDsk1zmf7kVt-9PfYIezD5MsIEx8Gh0--6a6kSccsnUqlUv4fqk40vvNria6cRd_JA6lsIA4xSOsQ1kBWkelAxjKgdPLRfRAezmS7pg8y4vkjL2wg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Karen Brown
+        uri: https://maps.google.com/maps/contrib/107649790589388404715
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVSkgaJNAFrEn_6x6VI8CZ1-VZkPRm0VUW-rJ2L-Auu33w2gPeP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBs57YAQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBs57YAQ!2e10!4m2!3m1!1s0x886ca921778f8f3b:0x3356159c1473b801
+  - name: >-
+      places/ChIJO4-PdyGpbIgRAbhzFJwVVjM/photos/AUy1YQ01WN4MyQVfNXCcuyWTJjpA0chln4GFuN6R4mTyr8pK0qzpdLC3SnX6NOWZYN3bc_cwssXxZSQfYpitemJ0jhLx7LhXzQbu9h-yIuv2mn3T5-0Sf45ae1e2QcMkdDFmpbHCHeJCIJg-YOhdTNW23YpeLN7xFxzrhUl4HavtYAHCFOYpUMrWfRdcWYsSA0Mot5iLkABWyXdbnmeOWEnjUgNjtCw5vWzlHxX7wEv_Vvt6z4Yz-hXnKUf7tfOrQcukfJJSO9JccUGfx8Sda6IGUYdY9Tepktz6iiqq_Qm-Pd0nwkAci3-7XfaZe2lb6AfYhXlJQLgcWLUSSha4E34DipKg4ezydKpeXEO960igohNo-MJOgk74QzeiLy-eB3OmnozMBBtXmQFBN36VWqQDHeWM82DWfENtKqwtpBfa7xwb7w
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Wes Weber
+        uri: https://maps.google.com/maps/contrib/112026337024624658823
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUJANLo2CfiU3ULyT_blbxRL2xp_Z41Bl7dbK6Kj9JwmY98HUxB=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgv_SqBg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgv_SqBg!2e10!4m2!3m1!1s0x886ca921778f8f3b:0x3356159c1473b801
+  - name: >-
+      places/ChIJO4-PdyGpbIgRAbhzFJwVVjM/photos/AUy1YQ21Hi4U72xcybUEBhhjVdNs0ms2WSqX_YqWhFXjU0FIMnbwr-cDQWers8ef9mj6z7JhqNV99w0XRa2VO7TqUXD1hUV6CLBfPuHD1y9vFD0JaXFsM5iuDLcPeVvS168L6y0jgfzeG3xgwjkX976pNHucLgd_hgJhAkeHUzZXpC5hwAMR-CCSS6yuHHTveKcdLm1FUVfwuQfg4hpvY2gBWnrJfBPEEqlrjcrZftKjWHwQ9P2_iAbDI9GDgpHCvp6RzYFNQpkx--YyzQpOaPdUwJhGIjzuK5YxcFbyb9bECPwIiyugsWR1B2P9_Kx8FeuR6b2_xKLzR8GiUgpF9Mob7NsOMzk3OsDcPJR6wspICWGsmHpwg7HJHlgecloeHRGZwrREthIA1v2zGwOrhA4eH9fHuPjNsYcBzBUrV5KA5l3jpw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Dustin
+        uri: https://maps.google.com/maps/contrib/108428720374888386009
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIseu4wFz5D1Aa3-O8ZaLcQks2h717FwOa1yKCNFKh3c5bVcw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr7tnPEw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr7tnPEw!2e10!4m2!3m1!1s0x886ca921778f8f3b:0x3356159c1473b801
+address: 55 S Raceway Rd, Indianapolis, IN 46231, USA
+street: 55 S Raceway Rd
+city: Indianapolis
+state: IN
+zip: '46231'
+country: USA
+neighborhood: Chapel Hill / Ben Davis
+latitude: '39.762714'
+longitude: '-86.325893'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Yummy Bowl
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x886ca921778f8f3b:0x3356159c1473b801!3e0
+  placeUri: https://maps.google.com/?cid=3699167904033650689
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x886ca921778f8f3b:0x3356159c1473b801!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x886ca921778f8f3b:0x3356159c1473b801!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x886ca921778f8f3b:0x3356159c1473b801!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Yummy-Bowl
+
+---

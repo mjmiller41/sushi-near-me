@@ -1,0 +1,210 @@
+---
+layout: place
+title: "Aloha Sushi"
+permalink: /hawaii/honolulu/aloha-sushi.html
+stateAbbr: HI
+stateName: Hawaii
+cityName: Honolulu
+place_id: ChIJb8ozJOZtAHwRNEuJjAfQp94
+photos:
+  - name: >-
+      places/ChIJb8ozJOZtAHwRNEuJjAfQp94/photos/AUy1YQ3M9pOmNejY9Tlrz2WlzU9rQ8CqwzW5RorAN6_LffjuW6SxaPor1TSrEtQ27G9Kt20INgEa4UM19OifIP7N0P8gy8iYwNpqSPyYgkmtblfmIAs138uG_YoHAvWTqNmHtJiLJElmiXqvizCQ-SYmFP8lJwtIhm-tmEUXGnipXQLdCKWdVRqi-81sxahfYHsI6prqBBkYAM6bPtfXxQj6pQRzF1kmHCEW4yZMKshWac1PZ-OhVkBOcKB-GoGiQeO2pnPxLCDRBlysIRNlGEg3CNmXCm480rErgnVQA7AtMazuTJ-AA418ujJev8rEOzZTI2DYZVFgK396l0mZj0yEiT5IuOpy5I6kkqQs1NBz566uOxSEHMdTMKTGgUCglQ82bSDc6bB73DR-6iqv-81j27xTNaQrRexnHlLrWNCRc3I
+    widthPx: 4048
+    heightPx: 3036
+    authorAttributions:
+      - displayName: Lily Huang
+        uri: https://maps.google.com/maps/contrib/111184209216569737974
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXV1TNYLpDXLnYCRha-x3Aqz09h9vubM2SA2YDZiBFsaKkeF915=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4yay9ag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4yay9ag!2e10!4m2!3m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34
+  - name: >-
+      places/ChIJb8ozJOZtAHwRNEuJjAfQp94/photos/AUy1YQ0IIzsDmLpBxcaB4-z9i754HTyAMBEbA6ZTJI_-yjtLlYlUGK-Ig5frH85bM51z4c9gSA1XhthjlBzgUo656_B_fV6ll0pkY1ponC9DVG908yoDBhbLNzGRVHPZu59i0E3DgOnCGvEQ-V4IFG5_HBlWLfCvBJ-BdM-N5G_l1hmMMJwttqS43onKpjXxRMcGyNKgEEc2pHIaewB1oP_ylryu_kYSdTDLNCCInmm7yB_E2e7pesxTVUxK0OyNe6TFocgJloF53_1BzG6GNzcT96HmT9ULDHdRrPtQgLxnzaeveic7mcDkI0gcebns0ZaKm8M4OPJ30xNEjw-NmQr8xhsPBPFQjTSrXBxWEcWl3DUu_TFP6_ypu0Qygeslyn5LnUx5HTujg7RAA3C9vGXiF8MaRTssUtS2sPtS_MxHmZc
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: SUSAN H A
+        uri: https://maps.google.com/maps/contrib/101188674898331091755
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV9ztpMciiymFOsmg5YgfQm9jfIeS8wt0wKzZpJ0RpqJuSusfNs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICmrr2IOw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmrr2IOw!2e10!4m2!3m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34
+  - name: >-
+      places/ChIJb8ozJOZtAHwRNEuJjAfQp94/photos/AUy1YQ0zXzAuXdFkRq1jj9srUqPMRwHomte1qEJpA27RPhWzoPpWq8ETLq71jBSHsPo0Cj2uLtJXgQtKWi8UJ4zRHboIGT2XOQszR29bzRxptJ7Al2ZDI_gpw9LCgdubahriSaVOejwusXxgeN7zzyh_sxwsMKs5sLdA6SoO_3VIe9lQ6hC_BxC1qY-I92HnCiby1sJQuh-NKHP0M7HahWOA0k4152SjCeDLX3E7xrAvi32wSSnRsdUTw06JkZJ9JkQFG5y65CINs1Q15viGiZ5T4JCFyfSEMqFULp7Xp1BUj1MSbveRpliXnMSlA52mNiuHDOSSR9QQvtlaxiEyeenuFT2Ab7W1WJ8ZLkfOnHaKRQkcsdlW5o-FJJzCiHzbdVFCXQF7iXZNNQV7loWeuVu--1XBl2G5-2cPe02kuTiWYu4
+    widthPx: 1836
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Karlen Ross
+        uri: https://maps.google.com/maps/contrib/117788647179746129036
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdFE_U2u18LxVnKyXdlt4mlfassmngDXKvKjt5K2VVB_Nk0FSC=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD9aLTMg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD9aLTMg!2e10!4m2!3m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34
+  - name: >-
+      places/ChIJb8ozJOZtAHwRNEuJjAfQp94/photos/AUy1YQ1WOR4QWWBkc7b5QhLlhwn0YbFMeCCoGT0uvXb04gZakJfBNu6StmXoSusIACQHQe3Tpj_6vHTE_XqP3qvKr5T1q77o9EK9oXND7mkqRsBdwQkQRzsblIBqa7uqVXk0FPjWBvoo-AW7afi1VihcvsuY0Ezrblm2spA11Byq6V-U-xuLFGJ3h41brRsrTQKFhMGd8uv076sJLsGRSL79Bl0v5YmnvLCDfeBcxWjcbaaC_DpW1NSeaJf0_Vd3wDCpHGcJGcpmNTba2HCvHJlg55fOuwtSCYED8yhLTEgFLDNUIRvpfssB4tbQ6mQEtOmQH4ahjffClbXK22ug8BvXIjn49V4DVBRLvIzq7Zb7bhJW4aG9Lvyba4SoGwGliEhOA0cU6jg734Pw0AgF2qxGIc9j4u3BQo0DOVI43qFymjY3Ww
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Carmelle Fajota
+        uri: https://maps.google.com/maps/contrib/107801091731277863699
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKzEzIdoLyAMLupS65TBd3AX40UCQALElPOljrNfPAfzLzNVg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZzI_xCQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZzI_xCQ!2e10!4m2!3m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34
+  - name: >-
+      places/ChIJb8ozJOZtAHwRNEuJjAfQp94/photos/AUy1YQ02oyKGEXxfJEoi-HYb3kses_bpTAjXHKBfYLlU_3R11POqQzVxWP51bv_DQM1ddGVNb_ij6wFEMqyaU0ZG15nqoOZgCq6aGVgdFqnwhNAQacw6ICFDlNr6fIlCJybOvwDgrjrbvEcEtEtPiILeNEt7ZP4ai6VAWp49_pvaUUgy16yiz72-WzUwlLh3rZyfCyUQLeKhRV-DTKM59ss5A4iriSOdj_K6UwFMpGNmKgoprN0tcd4gbiJHP2NuUVJSYvQY3ijY__zzYhQYzmRMg3-J0LJqtlhJXQJ0fFRK9hTuo5oEMKEjE5wQNETJuVAV0V576JLgjnchwne65EopNEp9Wxz-oX_WY6U1lcgej65PdU3NKZnul4Bbr2T5mvQC48_oodBN3fSNNB7Q_PlQ42FZexZSwS0evHNRDVwG7Hdb-qy6
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: SUSAN H A
+        uri: https://maps.google.com/maps/contrib/101188674898331091755
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV9ztpMciiymFOsmg5YgfQm9jfIeS8wt0wKzZpJ0RpqJuSusfNs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICmrr2IuwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmrr2IuwE!2e10!4m2!3m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34
+  - name: >-
+      places/ChIJb8ozJOZtAHwRNEuJjAfQp94/photos/AUy1YQ0J4G1F2q9iEH4p_VG60h068wIDESHw7n7eYWf4cF2GBTBEB8ydukGa-4i7fbka9sWOnXnf-AscHZqM7xCQpPLgjuFjA78V3NwFItPCkoInE-Fvb89It_nwGLmGaMem0LVpEKLJo6TaY1_jec9OGBbl8iAbXCt7dCZbGNNoUbxXz0yls8F01iJ6747DHzi5kaa9RfUKppMxKFHB-wlyUx4YcuVNbbgKALDTp66xj6i9sBJL15s7I9E83UHRRI5p4aj_C9GoPrV1l59HmOpn3tJTn9qC10OTkcTQxdx2j631UZonYyA4uU9iavPT39VWZpBhadSaoV9KVf0W7LQdG-bzasXnL-V3CyL9FEuX0otH8pRK7XOALcPNwji3bD-gzDD_QGo4G1Wss9NKARovwxbnIPVpDK2je1Or7cKk2VGzqpcx
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Carmelle Fajota
+        uri: https://maps.google.com/maps/contrib/107801091731277863699
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKzEzIdoLyAMLupS65TBd3AX40UCQALElPOljrNfPAfzLzNVg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZzI_x4QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZzI_x4QE!2e10!4m2!3m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34
+  - name: >-
+      places/ChIJb8ozJOZtAHwRNEuJjAfQp94/photos/AUy1YQ3p2Zc94Y7Xb93L1rC8Mrd3dQGXZ2bmg7axQ6Uz-Q2bbI5x8DmsZZUWNo9YpGVUY7U3dvgnMff6gWGSlnkcPwK5C-L4ZPB_Uz2aaXEAYM54436ESbFpEVcQkib9UV-vG4XmxXBqJB_hlBpufBf2eFpOiwl0VMKBrGNFhd55Bf8mRa4qB9jpX4Tjs7HM2kzn0Dv7k4UzfqzHAp1RIJEQRsqsNs5ClyGMCw9wT9yV-6mFTbxqgD4im2_vGcUnwbBEI2q-KjbAHuJ7NN9c6WWPmACYrU_iEQsDEw9dYgMO4709dnAAZtAh6jS-ltOHOdwqypZ1MyGUiGuhrgK8ubwN07tgNGIEYAxqsfk5aJQKet216qqpTxqID9X80abIddsdOv1CSailwA5IqZm9G3s-5UAUe-MvWFIlmM9T1L2lulcrcabC
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: SUSAN H A
+        uri: https://maps.google.com/maps/contrib/101188674898331091755
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV9ztpMciiymFOsmg5YgfQm9jfIeS8wt0wKzZpJ0RpqJuSusfNs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICmrr2I-wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmrr2I-wE!2e10!4m2!3m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34
+  - name: >-
+      places/ChIJb8ozJOZtAHwRNEuJjAfQp94/photos/AUy1YQ2tAZkaoF1iSzX-1wVAaUsEFliAVmAgwhSzHMLTzLaDlaokISs81nqHz86_-xXuJBu-nrw6EoZVW5crP8aiH1WrNIwuUem8n3IA5oFIByT_bhY944nB0rrhn3I89QPdemnJdb6_sEvIJ5KYEYRxyBFQzGORJ__JPxyMrtWQIcrYGbsHuD5xIadgxnZld-tp2L-XLNOyOReoIZWqMVcsi94UCbuptNdEjaPEWa5EQlBz20zAx_vWyKf9ekPxYD7Fp-2D_j2I9G2Cqgzoi6H4px9a1aAlNBbVtElHRJLAFNBmS6IVYvJifqrN4nw_21aOrbs0PsvjhCNN6hXYJqqFGfL8wZoZ3a38npo2U1SpfyLhag6ZYivg5W-jEncJejUmiR5Y2viHHLxySuZVSTkFEEF5hcoyL8FFIESZo-GDRgU
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Andrew Distad
+        uri: https://maps.google.com/maps/contrib/107794979133279940431
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVz0DEW05mck0FOCQJ_ydFy9z5_P15S19DWWI4wJsJg5IouhtXV=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICK4OuCRw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK4OuCRw!2e10!4m2!3m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34
+  - name: >-
+      places/ChIJb8ozJOZtAHwRNEuJjAfQp94/photos/AUy1YQ2Tk1mvDP0z2xstnA3zVymJEU6S9UCzkdL02oQcALamugQhGKNIEqIqxvkB_sw0ORxrSXjQVjl-XHbG77qNrtZszveAYnj1xtsiKotgRc3hGH34qubk9_NnYFvkUU1J2mm2dnv-3A8BDSLQBMHliTe7dFXSEkBHShmtkMFOE_WP0D0mtdMZs47qdKmf0Hl2fwHJ_31GNVx5uZRy7ZVwisxgYyfMPuWRrV3gwo6zAonAAnZV0DX8FF__-nEDpCMEA-RAfPzhxuruq-p9QEBJf3QJfJAvbYKfTeSda35gSh50HaMTkxySYe2WRV1iHGtMMPHyWtJ_-gB9EwOix65JxaaDjarzp98NvtveGBT9OJJCoz9fHNLgvH79vRQ9YrL4KS705fLrXsyKKQMkk_mYkmBiPXGNBOIL3IZ1ljBkqE1h2aKg
+    widthPx: 1836
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Karlen Ross
+        uri: https://maps.google.com/maps/contrib/117788647179746129036
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdFE_U2u18LxVnKyXdlt4mlfassmngDXKvKjt5K2VVB_Nk0FSC=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD9aLT0gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD9aLT0gE!2e10!4m2!3m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34
+  - name: >-
+      places/ChIJb8ozJOZtAHwRNEuJjAfQp94/photos/AUy1YQ29IzZFxbDwQLeiauzHOY_3Is5dYCYK-8wH8TLLGJ4w90eUq4p9fOzXLO-qfczozYl-fBb8MK1B2h6usq-PjILEXQ0QNXQ5QVUFvNoAO-PWrbmU-FCRnu-aW5_iUzIHirQSlPHFrzq5aZL46NGPpeOPuYTH_l7wBmZ7kehI4NR_oCHuL0PAob9gisG3P-NYtyHnwgNxHuY9XJXjdQHQvUT_pbQMjEbC_ia-akGibr5PXGjHjL9UGY6ux-E-wxbfEId7vTjAbFe0jIlLKywtZVFZyx8hUlQJmB2qrAPnrEaFGOgUnZE_QnkaVxXvFk9WikEwuFZC1BP3a16bjmLjeK4Jnovyfd7cZnetiG5mECAuYg2QP9b6Yw4-p-GVGQb9ePcqdQZpl3DJDpygbH0SuWvf6dCysA04THGF1C3I34xw8ara
+    widthPx: 914
+    heightPx: 785
+    authorAttributions:
+      - displayName: SUSAN H A
+        uri: https://maps.google.com/maps/contrib/101188674898331091755
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV9ztpMciiymFOsmg5YgfQm9jfIeS8wt0wKzZpJ0RpqJuSusfNs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICmrr3TugE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmrr3TugE!2e10!4m2!3m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34
+address: 1021 Pensacola St, Honolulu, HI 96814, USA
+street: 1021 Pensacola St
+city: Honolulu
+state: HI
+zip: '96814'
+country: USA
+neighborhood: Makiki/Lower/ Punchbowl/Tantalus
+latitude: '21.301070'
+longitude: '-157.845426'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+business_status: OPERATIONAL
+name: Aloha Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x7c006de62433ca6f:0xdea7d0078c894b34!3e0
+  placeUri: https://maps.google.com/?cid=16044020928371837748
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006de62433ca6f:0xdea7d0078c894b34!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x7c006de62433ca6f:0xdea7d0078c894b34!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006de62433ca6f:0xdea7d0078c894b34!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Aloha-Sushi
+
+---

@@ -1,0 +1,209 @@
+---
+layout: place
+title: "SHOGUN OMAKASE | Manhattan Sushi Restaurant"
+permalink: /new-york/new-york/shogun-omakase-manhattan-sushi-restaurant.html
+stateAbbr: NY
+stateName: New York
+cityName: New York
+place_id: ChIJKd8EGv1ZwokRtzxTHd6RpjI
+photos:
+  - name: >-
+      places/ChIJKd8EGv1ZwokRtzxTHd6RpjI/photos/AeeoHcKei2ttyL1aXNWUO1XqUCEE9dDGXWMgL77AG_Rq2Cn9cX4xVXnVEgOX2pqW6AWhswdytUkKObs9agKTQbHcr4ur85tQiRoOTNIifXA6aw2X_lJtJHxY4ekDWnyxl19KcZCls9GjKiHYVGBYad3faenXkgd0fig9EMR_2ZU-f0bH2ex8v3PRzEQmPklG4DNsPTe08u4b11Q2doHYXAop2fgskl_Om7FrPcSxtOApNo5DM7k3wiiXrv2WfkCY2lH-MJCG3GJEzW9ZMggzH6FEHFv94wplFFF3VfrceRWKHG6WUQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: SHOGUN OMAKASE | Manhattan Sushi Restaurant
+        uri: https://maps.google.com/maps/contrib/108317100076785802593
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXhAoxUlq2B_8d-vJy1BuSHiGIHKrNAP2qNvoAEkWHSbTSgz97c=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMa6Hsbntp6emas0kFhP-_SEr3UUsEDTThJ0DA6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMa6Hsbntp6emas0kFhP-_SEr3UUsEDTThJ0DA6!2e10!4m2!3m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7
+  - name: >-
+      places/ChIJKd8EGv1ZwokRtzxTHd6RpjI/photos/AeeoHcLrtP4x_fWCj6eesDTEtTqwbYsYlBKfi7k7NarOy4UIxwikHOkBr4eINsDSkeDEGufmGMeOcvBsaHil91VSrtVZn3tCqFfV_7dAuQUpM0FoOMyTp3gJO3NOUHYTbl0CjhR8_pJabi09CYexvjxBr1eld3q11Q1aE9wtWh3lZNuBGJkQ9Az5lpDm60yfloNxWdfyErI78dLr_fYRJNzo54HnFo2RFcTzwiKwVxHajj4TNuBNxrkjix4PWxlGDGzDm36ntZajCetsN8XqEEdiMp2sk_wAgD3UxgfaxoVV3Gh4gg
+    widthPx: 4800
+    heightPx: 3199
+    authorAttributions:
+      - displayName: SHOGUN OMAKASE | Manhattan Sushi Restaurant
+        uri: https://maps.google.com/maps/contrib/108317100076785802593
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXhAoxUlq2B_8d-vJy1BuSHiGIHKrNAP2qNvoAEkWHSbTSgz97c=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPI6LwKdGcHS0OZLJJ8kn2zHiv8cBV_1VMPbJj3&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPI6LwKdGcHS0OZLJJ8kn2zHiv8cBV_1VMPbJj3!2e10!4m2!3m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7
+  - name: >-
+      places/ChIJKd8EGv1ZwokRtzxTHd6RpjI/photos/AeeoHcKVVNYyychf8xz6TXA8wP1J4VtpvGnnTN9LXaSrAkLXUre8Uj4Mx3LWBfos-8FMlQVG8VCSXcerSJIBy-smvmeHND4G4oghqCdB58AEB1IbMW6s8sdHJi4hDPeMX_TyRF-aJnZ7r1ez4ILGMOX5nRZEWqz5WtmoCCW06Yirho4M1yG4A7OfVZTDOwxg9SCOzgG4WZirFRr2JvNWSfIvqwdLYF5MU3MDFOa5KMLx7KVmlhnbxaVjzBZC8dpfZWcDp_9-3MmHEFyDCsLm5JOTSIisbZB90WKqOkce4-porBI5h8HkwpPo5_MzpbYNfIHpUes8dl1uXGB6mg5ry1zEFBlc1WyxvbDu67NcV46HhVmsJGTFmBD1j9UyCQ6gm5xg9776vuxzZ-htAeA6XotyxQtcqVapQ1MHVKSqJTnr0WA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jane Zang
+        uri: https://maps.google.com/maps/contrib/109705794238591673008
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVogeymE9xyZib2cPGUlw_YYuSRhroqkKfXs-ABFLiPei6MM7Z2=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIrrfXZg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIrrfXZg!2e10!4m2!3m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7
+  - name: >-
+      places/ChIJKd8EGv1ZwokRtzxTHd6RpjI/photos/AeeoHcK0aExSPEXBvA-WpgkW6y7ZSGv2EoMIuf0hMacYaSqc-yBrrZg_N1bbhXopwhWHauTvSIXrLP0AEZ6uOu3XQLM20IY7adMFQC68Jk1iTzv_aeFN57Xp9GMDUNIHLBElvEKse5FnxNbO4kUgWiIuBBhljTXdAmoN1OO4Ejfb4wTPAqNserYtPFkO6K_LLBC6KazZ41JZ9sXOdNuTNEvfrwJ0K4DkiBtTsLvhUTUliUjVMi8hDUfdgI82krg9lyrjwPt6bxWDggbeGZ1kwIHgHYtCbUHXE0i2DfaxGfHwZhz7aw
+    widthPx: 1200
+    heightPx: 1500
+    authorAttributions:
+      - displayName: SHOGUN OMAKASE | Manhattan Sushi Restaurant
+        uri: https://maps.google.com/maps/contrib/108317100076785802593
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXhAoxUlq2B_8d-vJy1BuSHiGIHKrNAP2qNvoAEkWHSbTSgz97c=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPSEAr92mS0vDbHHaKGC5SSqRgya8tk1EQf6G3i&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPSEAr92mS0vDbHHaKGC5SSqRgya8tk1EQf6G3i!2e10!4m2!3m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7
+  - name: >-
+      places/ChIJKd8EGv1ZwokRtzxTHd6RpjI/photos/AeeoHcLtGD8_a4Em6LhRAVHDhhBFTpT55MvVTrqclQoF7ih-NcTup4to_eKBdKdBLiulr6AVkZU7s1UrK4TwbQ-n_mSkIgbNCEnjWvEUrXErsBg0bWoZdAO0-YvKEuQBNqJsceC4V_mP6ffjof1V8W5LP_rAj8LZYuY71IPIW-hRu2V4iL470V7wMtsPpCD3nbmsWm_-Y60dbF3s7sWEDp6jqJ_Cnezhgq9GWCqsZHL8uen_bFj1DuylAbSYzbY39Z0BpdmQv7fWyYqfNIXkV9eT_Xei7dud3yoqP9NU1rAdiECn1Ofe8bLtsVoYBXi53Cu7VjhxOTs8c3OA2NNhu6B71P198iRzyKNSW5l-UoijbrP70iGlif0Plh5z_BorI6IkfhWx_btBOIJztmrPbsJA7w-0-SguGxnzodxHx4QNC5Jc2Q
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Jane Zang
+        uri: https://maps.google.com/maps/contrib/109705794238591673008
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVogeymE9xyZib2cPGUlw_YYuSRhroqkKfXs-ABFLiPei6MM7Z2=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIrrfXag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIrrfXag!2e10!4m2!3m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7
+  - name: >-
+      places/ChIJKd8EGv1ZwokRtzxTHd6RpjI/photos/AeeoHcIS0UMrEgIg49bn_0ldWbXYiBRZbHGoYYUzMI_HJ0umgVgxHsKg4kydgcuub7aJJkMHX8KAePuSdet92NGlg9YEZBm_JzT7wFPqndmLEUnBodl_B7xQ9CfQCZYVuHndVwAKbqIUgtTe7MOmZCxdP5KByJRC-DrhgmJamXxdkxGLCiwXJbb5ZgR-nvnSiDfsmbPHuorLEf8P36xBDqs_gLzJf1RCTfF3PQ-i1nWHCS5ruxB2iGicMfFHHAto5WT5Z2G3bwMNg-P0yZ0dpo1VSHU0V0weXKrmSOW9Z3w75jU-UEojD5aQB5rAP-oPF1RB7Yoz_SrMLcp-l7aA7uMriqiHMijs0w3omty__OaJzvoCPTESYPPZxIr_iVot-i0B6N5P3wbSSDeN46GFrr83AkGezWyInTOXzoB2vTy9eTJtHA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: David Thomas
+        uri: https://maps.google.com/maps/contrib/100780093214264012786
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWCVncQW2-RmWttrmDwN4Yq7v1HOrc9CRKuWSbIZLt93DJhSULE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_3_nSFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_3_nSFQ!2e10!4m2!3m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7
+  - name: >-
+      places/ChIJKd8EGv1ZwokRtzxTHd6RpjI/photos/AeeoHcIT3Arqb_4PvDsfKi_BXTEuDRa7vrhPH3-tyiffYZ7rkMbDtdOWAOUew_wbvSBkrvjVABWL2pKNxc4n78I1QjWbbj3sXSbkwRBGLRL5fVoGDkDxC0irFdn8TC9EoSXv-syWTl17pVA-PqGX4mS6NlKnTJB5LohKGvRC7-iLcTVreo67SU16fIVqTqPxwouZ00qUJb5cFox5oJqBIinmQpu7c9HoOzBCZe6WtkscFcvDDhvwECivHY0fk3N2tcXqjYKPolfP8GyHS_Ur5f0FbfrkcOKsChwfgfe0UwELD-Bv1oU5rJ6esPGnVTZX1ASBcrgTLTAuP8yG0QGNhGIFYw9U-j3gdW-O-4uDggcldcGnFVJPejnRUJplLEU9pynH6uZ-3vh-9QeK9E3htiP1eVNJhkbrbp0eZdXe53qJouU
+    widthPx: 690
+    heightPx: 644
+    authorAttributions:
+      - displayName: Daisy Burke
+        uri: https://maps.google.com/maps/contrib/115583104768340622273
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWg4L6spboXhkx1P00Lf9T6IKLs5pGoh1s5UpGfUHdYTPwybvo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICL8eiMbg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICL8eiMbg!2e10!4m2!3m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7
+  - name: >-
+      places/ChIJKd8EGv1ZwokRtzxTHd6RpjI/photos/AeeoHcJ5fNfIw_7hMBEAcV-ESSzCexceJbXFu2wFgR_8UYPQPp_OpbljHDf6ZIzs9BBnd7EEK318nqL0qWOYfWAEInKasKY4n_jS-nq-3igVkHKjEuVMzYAX0lU0cVACG-2870oB-venBuC2EnWOYl-tGtIDH4a4RoKQVAOUXqNa7x7JkLTrrOHWopcsT-eyqRLSH2ON9ZhkqvWnmofl2NoKvLDNtG6NvusTE7jxmcfkEYotddFu0RjdmkV0qqReEe_wdLkl4sw6wm-dXAld9QK1AlexMgyrZeewRES72_y2-XCw4tCETJW8ft5IFF44TM7riHBKlNcrLxZwzAkaUV08n74Ff6Drbyb4EYFzBTGYYaEeUKOzSYSieRSmJIfErU8cecQyXGTn5qKDkCCDpkgba_mQP77rhPOcHvewOvypbYk
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Tony Madsen
+        uri: https://maps.google.com/maps/contrib/107223893742591149234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVp38OqaPdx-tmR0NKib7TFwgXGU2_OewmuceXDyaQahFGmDwn0sw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr-oCdJA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr-oCdJA!2e10!4m2!3m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7
+  - name: >-
+      places/ChIJKd8EGv1ZwokRtzxTHd6RpjI/photos/AeeoHcKxRiVPME--HdPSyw3fu8_moHS9WAqKlk1MYySeqdYgDTOoVXgqAe3on9kft-uI62kupU-sZPHwvKwfoFL7JKu36M2AcS6ipEgqB9Ota8j7ID7LtkcUVur-MXu-69doWR_1bOni5YBwztTIqTjgJxjFWZbcjY45zLUdN1xy9-5iteV3ox_nvWimtYsvAqDeyu8tdlAhB6e4qeAjPQMwVqiGTLGL-AE40lGSPS40GWMHmN3pbw3fnGipcDOsYzg9gn35DIbo-DPdcvqmk94NnpKyuwkXJVaFcB2mXGpW-1gj6vJBWo1VEDWQTt8HfHAfPOKYbt0BDjW9lmAQvYIKw5h31XGoJmb19H1zt0ZDwR-cUs3vXY1D2_7TMFezn4LU8UhRufy_l2nhBGG5oizl9hh0GznkzaUTH1qJguAY8bJ-sA
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Tiffany Zhang
+        uri: https://maps.google.com/maps/contrib/102837078886238700095
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKSisFSAgyi0jNCtKC9kt8ZX824ACMHtJ550anJmuqLABf_-Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAyMenHg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAyMenHg!2e10!4m2!3m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7
+  - name: >-
+      places/ChIJKd8EGv1ZwokRtzxTHd6RpjI/photos/AeeoHcJ60vJ5deW9lX3_vMhaEkKzZmhaCCFGnnYy79nl2f32arrX796JAUWNUl2OAW9p1G70KhxMC2ID9p3qXUUUS9v_zdCzPUXoEDQYAb5oPr2jas0o-DQOq2ciHznMRt0vY5ZFp9Qfb7Fc2DNdd8GudGwYdrfXo-KECvAaPI3TmjYw8DFA_NLSm3nehLCt-2WoXz-ifkhtZ-9yYeD5u1UXXpRRNkiLpLM6eRJ1scvrXEoTtbLZsUZuH6oGW8vcXn3NAO8Ox1F58IoDVTPO4OSpBZvRCxpLqlYj_SIJXwrbJG1bpO3f81xF3LvkSOGgMyDy0GTTzzEGFzT8AVv3N_ys6V6tXL91_EgDlohBLVw37C4Tpz7XsPi9L--W4i_IOc5ST6OczLWdXzDNfCeWhvIzxJla48uYSMIf-gUMS-Vi-RdPodOuptETw2ft2eTKIaYQ
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Chris McMeen
+        uri: https://maps.google.com/maps/contrib/111928865239847506465
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWgwAwJrH2w6Rmvtn3W2sQM9jO9jaE4XzSOGhAzme5L4sQl2mDPuw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3jqzmih6KWe1OvYABX3_&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jqzmih6KWe1OvYABX3_!2e10!4m2!3m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7
+address: '295 Madison Ave #101G, New York, NY 10017, USA'
+street: '295 Madison Ave #101G'
+city: New York
+state: NY
+zip: '10017'
+country: USA
+neighborhood: null
+latitude: '40.751834'
+longitude: '-73.979291'
+accessibility_options:
+  wheelchairAccessibleRestroom: true
+business_status: OPERATIONAL
+name: SHOGUN OMAKASE | Manhattan Sushi Restaurant
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c259fd1a04df29:0x32a691de1d533cb7!3e0
+  placeUri: https://maps.google.com/?cid=3649764931191127223
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259fd1a04df29:0x32a691de1d533cb7!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c259fd1a04df29:0x32a691de1d533cb7!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259fd1a04df29:0x32a691de1d533cb7!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: SHOGUN-OMAKASE-Manhattan-Sushi-Restaurant
+
+---

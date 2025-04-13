@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Spring Buffet"
+permalink: /new-york/ithaca/spring-buffet.html
+stateAbbr: NY
+stateName: New York
+cityName: Ithaca
+place_id: ChIJd5TQDg6B0IkRtBMqZ4QOWyo
+photos:
+  - name: >-
+      places/ChIJd5TQDg6B0IkRtBMqZ4QOWyo/photos/AUy1YQ0SeBbkxzKVKqyEG1hwlu3IVsveizImTlYCY8yOoqJP_cylADSVXpdMLlPsxKLsdq3C0Bmjg96ZvXmEhYEzI8iW0Llwzi8EbYTu4KiIUPaGCdqlI4v-AWiXWBj0QGnzEKuJTjr1D6eF-Pxoq1VaYyUf62wbFNFxWKcxXwsjUpicdv6_E_ewrnAtOOrWFV8zvCVlomrPvBFc_vHXPCh-dwURKqbXeNHpxZzKo6Sa07gVM-iFDhc2Tsdga5TLE4mcbLSlK3qY0naLm_TYg5GS_vZOXNn4nDP9UTlpdSPUwRQOxVE2ElPbs_9jPy0JDcfzGzFoAlYb74yyI0CjeTI2sbu_sTi1cCoaq-ow0Xw-tAGDEYJH0CmSFZvBP_YkNviQR4Hl4y2BwYSY939A9LUgNNnPYD7xt8E2GXqVH6HcFd-fuxVnmXvBXIgUZLPBp21F
+    widthPx: 4064
+    heightPx: 3056
+    authorAttributions:
+      - displayName: Jesse Bush
+        uri: https://maps.google.com/maps/contrib/116589192142377225227
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWVUDro6U_j8h-rhEHbYzYVw6b3whhrOPxiADr046VDcQXjNKD40Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzCRwc5mfWJJYAAfBU&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzCRwc5mfWJJYAAfBU!2e10!4m2!3m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4
+  - name: >-
+      places/ChIJd5TQDg6B0IkRtBMqZ4QOWyo/photos/AUy1YQ268cfXoNwPma8IVrh-i6mzbueZS6JYWraa7lEMZpMiZffAdbZiAdhS78OmjD8oAfKK1hx8naY0N7zCYlzAkE0W_9nGFvX70pGJ0duPQHmkRDex42XNmpo9GTu5nL2fJ2SRZg-fvbmB0RJjzPj9mTQ9-j0bzl1WryW0LCXhDI74Ob5YR83sTwzoqC9IXYHGsRCrLn17BvYIq8YgNuXaeKbeJCvEbOcQU_IuuMtTiOC9fnGrNBcTMlQsPMCKASnHlQX8ECiTX2-hlKBl5CG8GNbPEyD0zk2a-e3egFsloAEvuzNGxRRuqxotr9o3CC3T5NHkt_nCIzl-zULzqFckclBsN8vZKuYDed9fb2nVPwDcQjIFbWvpKNd_MwUIWwm4BW-mSwrf-J1uQ0xXAsaNQo3KG1nxOsA0YwGLQ1TTq4Wl1FcmHSIyAtXAnhct7A
+    widthPx: 4064
+    heightPx: 3056
+    authorAttributions:
+      - displayName: Jesse Bush
+        uri: https://maps.google.com/maps/contrib/116589192142377225227
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWVUDro6U_j8h-rhEHbYzYVw6b3whhrOPxiADr046VDcQXjNKD40Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UghZaK2fWI_QABPZX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UghZaK2fWI_QABPZX!2e10!4m2!3m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4
+  - name: >-
+      places/ChIJd5TQDg6B0IkRtBMqZ4QOWyo/photos/AUy1YQ1M1tDrEFtQjr_szsw6IGfGmK1x-RvoNf34pKB6xSCViUQFm8r2OhaTrrEMnzi-twL0TI5FrA8_4cd7QDdU4w_CAhHW_vmHMrB6P-m8YWQ7dzT2tHSkDnLZqfw4jTFMrSymzRe7A0L1Bh913d8AAKSnFhSq0A4HyRSqj7oDKdSY5M42OG7jCXNeRNM9og8JcNFeb-VQ9ypuBVkPsv6QVW8wjOAVAQPa-MC3DrujRW6oGY8N79wrgZoz1Nzsq5wSwHkM_HK9XrN0ojgTT5Z8yHVqm9RLV2HRf69UMc9QX2toU9k6WZ_BSlt5FfuEW0H_VOnD5TfgmpRTGOaSTCGf5WEhfpORCmmHopudaZA4vSB7CmTi6qH4uBPlLslWMusIsvaW_5-KDNPimmkvdK83QZ6moruiYdHjo59biG3cXtUN0CI
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Q C
+        uri: https://maps.google.com/maps/contrib/116361484272421260671
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjULJsba1kVNUdfP1dNgAqeou4RMOQ2vGrDNUFSCmPQ5Y6KPoCiKDA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEgfrRqwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEgfrRqwE!2e10!4m2!3m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4
+  - name: >-
+      places/ChIJd5TQDg6B0IkRtBMqZ4QOWyo/photos/AUy1YQ1-oD-NB1__G4Im3hV8rOGA-R1uyek9dvQ4fJqsDNWthgoomYnaMUsKkbtZT-UjOjyGygq7hsyQkkrLpUFZ6V9xxtQd3btRYtKv4229uKN8Kye394F-4ZAjbMDFx5uw-TD0S9XNpxOh4E-8Z6KtfhqGyZt7Nh4QyPpJ46_ckXB4w-8kkg8phwIF71jjAI5nPADfvFBToewVX-avVhoePq9pEA_Sq1HTJRvZJL7fga6M-wRkRz_RhD_q2RDG2DGEplYeuq4MZVCIf14RfbrdS8KtnNsY7OC82pBDzIcqKkEFSVPqh0Edmt30Mxh17LtqDhtGnImHw-tBqAOaHsV75wTA3qFc-5uEP8kBMA-ING4spo1qsBtSa4M96h-TT8mi_2KQ8Grzo_m1O2-b7ctxuoE_wlIIrmEFpaiKg4It1Sumdg
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Michael Brown
+        uri: https://maps.google.com/maps/contrib/109613643999101780396
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqO7iMGnHMbUgI9Ger82Zb_oyogvYFk9FdU3gq05iu1LSy5SMI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-yMafJw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-yMafJw!2e10!4m2!3m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4
+  - name: >-
+      places/ChIJd5TQDg6B0IkRtBMqZ4QOWyo/photos/AUy1YQ3VHGsE8odd859KNaJMQgCsxURj8kBuHL6B_3hK2NvdPK6Arkz0bZIj6par3cXLt_licB47EzX_I3OM3IxHWFt8KAj47TSKyRevQaGYUKs2DEfUnXT38pPYSEEjc8MzhxVgWwhRZ51AlmUPnBJYqtvynaYcnp3uuGiB6IskjbIoOVtXNnmUz7IK0HimD70SN5oa0m-wCXX6a55Jy8g6DKXQLsxUJV4kq8e6OlHwrxX4HwhZgvlgd9gs_4yNb7Q5uRrNta2z3SvPqNVzOhfXIQ_ygB4a-45xm094Tx7LyxYnk6slgONC-hVRF8T2ak-odLtGZdrao2SqVjYwQNGBVjJowoyi2cIIT5uQ9M8yvxfoDhdtXGA9x74W6-eUVPh2LAcscYVAvIicMEmLGozqxvzB32yjw7oTCVHTiMC-KwU
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Alyssa
+        uri: https://maps.google.com/maps/contrib/113243105664440670005
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKs4kLVaBpuvbvGsHx2pFlmmVLjfHrKtyBZaMzFtuS3JISZgw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3goy0RQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3goy0RQ!2e10!4m2!3m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4
+  - name: >-
+      places/ChIJd5TQDg6B0IkRtBMqZ4QOWyo/photos/AUy1YQ1bk0i31HkY3c6nvOREkIYf6gtP01IZYByWILM7T3Go0UuT6TUGAvc4HH1HqSQhxRcZ8Fwec67pMtxaSQtI8avTJkM3Csh-5agy2Yuoi9uMZ0MdonDECvAC2f7ss1sI45UTB7g0f7ZencXiEWnZMmz9VtNKVf6AyUQuqxBAsbs87VUhSqNcjwp2_eYCW7ljnOSDvNz_mp29-Fg-spBqSFtJLmIcPHymXkYnY1iJSeNyKSyAJ6IG8d1v2cVQ-4KTNXeOjpmBChIV7FQGkf97T5SrRHpuq1W5aQjkj_SNqz9vlT34gdG3aEKZuheDzZiyuoe-Icg6blx5b7TK_TrgPEvKHEwpqMSMivY4afrFC0ghGlpYzVzRZI0FQxlXI2kR20pxF8-zdz8SDIQJZsk0AXsVho8L57ZcxBzwFG8e168nfMGR
+    widthPx: 2448
+    heightPx: 3264
+    authorAttributions:
+      - displayName: Michael Brown
+        uri: https://maps.google.com/maps/contrib/109613643999101780396
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqO7iMGnHMbUgI9Ger82Zb_oyogvYFk9FdU3gq05iu1LSy5SMI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-yMa99gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-yMa99gE!2e10!4m2!3m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4
+  - name: >-
+      places/ChIJd5TQDg6B0IkRtBMqZ4QOWyo/photos/AUy1YQ2z4hefp24G-xxthNf8_TyuQA7Odc6_0U_MHB3HwQhrC5QeauALNsdU3yhJay-raoBa3xFtzB7jSUJjGhHrkshWLF6CsTCwGzBKsF3oZmXTcxZHDYFqYZ_Gvj24U4cvI_ZXZnn3TWQ2Ia_58EzXYDIcfTeTfP0gyts2t8DcHv0YlQVKN7ife9Jtut8f3zob0dX75JcfbTdrlgkaR71GJT3xaRsLZjvftQWH_6Sj7aGnEKu34_3pgyWsnzWsPLi5q7INzMflSWRBkTcE3LrMaOHZzXnYlYojU5drKK82dc42ga37je882rxEzBE1fKQvrd1UbE2LWlGWp70aiYjM2pRoZxNNr1HFR7-z8tbn_f3G_9Bf5GMi6D9xMclbU5GjrrDYPtX6wShD2BwMXzW2ygLfm3CYn8uFOygPuqMA0kqP9w
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Jesse Bush
+        uri: https://maps.google.com/maps/contrib/116589192142377225227
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWVUDro6U_j8h-rhEHbYzYVw6b3whhrOPxiADr046VDcQXjNKD40Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR0MHFMw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR0MHFMw!2e10!4m2!3m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4
+  - name: >-
+      places/ChIJd5TQDg6B0IkRtBMqZ4QOWyo/photos/AUy1YQ1stwGVHeL85l4uRWz0O8YWLNa7W6drSKr6Lf_thc6_Y1EzI--lNfsg1JuvYJDRh4IXvMqVOyRtze1tlH72jdRijuujlOuvw3vfDqmcXtdBcEwZEsdOpAfhZ1I_05cGCBU_QUio05tFtAa6qFQRY6RnJTTw1q-WNH41hS-bf7BaeXwsEcUPwIVGP5Z9HvbuiFxf2yPBIS__jr6qtITak67LvffT1p81pywyUOfwsJFea4oBD894wvoOfZSl26aTmiKQvI2y6uMKyV6B7qEGOjrewlWVz_Uod7zD_WB2_rdOiTe0pazSxRjWbzn8j8mAyWtBpZ7Mzgy0kXmPNwovJft9nrezMExREt3fneXpr-y4Vr7Gcy0PTrPq1AFhpcS89UdZJKmr0OI9RilJ_BIbW_uGy6N6dMnPFhtAR3qEBGf_KJg
+    widthPx: 3120
+    heightPx: 4160
+    authorAttributions:
+      - displayName: Yozelin Feliziana R Caztillo
+        uri: https://maps.google.com/maps/contrib/117094919022382912709
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIPF2r8Ddhaei8bo2owX2LAPIFDG5ZAe3dBLkXuqnXN-mbWng=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4rK_y6QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4rK_y6QE!2e10!4m2!3m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4
+  - name: >-
+      places/ChIJd5TQDg6B0IkRtBMqZ4QOWyo/photos/AUy1YQ12PqhO8nlRqqzAQoWRCmLeY8t2bh7UQyxFoVFitkz2acA_PksipNMbpOJ84UBL796xILzQWVYndH2j7PM86PR1nMSkBL5HWSLywNdvHEyiDF2TaNz9kWpBrZiqO_q4_Eq5dJDoKorC2dHVyMA8VPflzeX948ZI6trRfPKJkQOp3TT2b6QLyupPccUEErNZVxFsQm0MiuC5iBOOUOCxGBWriUphi5MzPG2jzpS5p47Ma9arLfD4zdkxwCvtATSR05lILEbEbGh7TWC9xcl62qH_YWMW7U4e2BkFjqh9d4sMjPDD6tAW9oATjptH08y2PSIJ8K9xfICErVPjBLjKjaZn1cgnNxyuY14lp42SqlxLaVRIGnkK49vhhwuzQeInspFWRHVzgx_vV47JTUoZlPcHro3FOYiIqJ48Ph6oAC7hjLuI
+    widthPx: 2448
+    heightPx: 3264
+    authorAttributions:
+      - displayName: Jenny Wu
+        uri: https://maps.google.com/maps/contrib/105234740653024726951
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVKYx7ZI9VmpZzuom_Qn8v5IorUDw80Dia8b9-gQep2muHTwi4y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID45sDA_gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID45sDA_gE!2e10!4m2!3m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4
+  - name: >-
+      places/ChIJd5TQDg6B0IkRtBMqZ4QOWyo/photos/AUy1YQ3gkaqpr-yLpJblBWLVAgKjl3D7flwURwLBKmtpzsK0k0KOZp176lp3gX8kwRkhqTJCEyMLmUymifiwuttiznIoCiGxmpjanfa0w_Lpgo03QeiiydDM5oGRcY2_ToocO22C89ko7qRdJ02DkDFPQQ1umXoUCOqnEA7ZWha-ATaEyFv8mlAYpWu4dSwfY7y-oXiiRoeQ8iEND3C19W7AXA5GCKrnUOhzplnmcHjlWQ9ppom8e6pxmYR-ws2LMfqhhJ7YCxS7KCZJ20xjZT0e1c28jx0AhszHu0idZSRq-1n5kLOXiila6-2Jrbqx-GpBqmBPMfeiBL6AzfO2zIFZUMZWHEhCZIHurAXXSoU4n6CYHV0d_oI40ddmD4aAug5_NwCw0jBHJI45Di2_5E9lsOQD4DDsoQvD5cKkK8XS8i8
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Michael Brown
+        uri: https://maps.google.com/maps/contrib/109613643999101780396
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVqO7iMGnHMbUgI9Ger82Zb_oyogvYFk9FdU3gq05iu1LSy5SMI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-yKbISw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-yKbISw!2e10!4m2!3m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4
+address: 106 Fairgrounds Memorial Pkwy, Ithaca, NY 14850, USA
+street: 106 Fairgrounds Memorial Pkwy
+city: Ithaca
+state: NY
+zip: '14850'
+country: USA
+neighborhood: null
+latitude: '42.430813'
+longitude: '-76.512031'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Spring Buffet
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4!3e0
+  placeUri: https://maps.google.com/?cid=3052049134302925748
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4!10e5
+primary_type: Chinese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Spring-Buffet
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Blowfish Poke & Grill"
+permalink: /maryland/clarksville/blowfish-poke-grill.html
+stateAbbr: MD
+stateName: Maryland
+cityName: Clarksville
+place_id: ChIJPcNHVKPZt4kR5iyaXYU40cs
+photos:
+  - name: >-
+      places/ChIJPcNHVKPZt4kR5iyaXYU40cs/photos/AUy1YQ3rnwfY7NK2wz8409jXjF1BKJKMEzgwTcbEIaU73wJE6jgG2B8CBKoDX2PdoHYdAjvZO69T-X-fRs6dAHliA5teFvdDAGU4QC0vWYmTASITEQkcV7zSWRLqy2p_gUPItrGiMFFXn2QzJ8n_rXS6_DbPmG2v0j5bTwt2gXL9WLD9z72X_HIBLP4SWVmJ1lStjtr7SK_3BRDMuMfOvRQN7wszdl8Bkr40sqqy4zQFxXSD8riip_TTsDWjb34HeGcErQd4rleaFx-Pyc9UTd_b0M5mDThrJJZaPk140xlJYj8edJ21VMA-JuJvanCYycE-mBpM8u6EmtD1t_CzXiGCHwdDxjRPcn0Sq2pL8J_VB1XgFGj-EtJu8lKIhAr-KO8xRM7J3Xav5hoOYX9YF-d6SyKnhOVdjwUTrq2s-YeRjP9rxxs
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Joe Bruner
+        uri: https://maps.google.com/maps/contrib/104160609605826615160
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWGqy9KeDLxYsixrOhqL-rA5KyFEY3y9M6gYu6EfbtPotFm6y4M=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOiOKyhwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOiOKyhwE!2e10!4m2!3m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6
+  - name: >-
+      places/ChIJPcNHVKPZt4kR5iyaXYU40cs/photos/AUy1YQ3HDBJvuJrgyNz1NZgHO4RWtSBW_XOX0zWjjow1-xhEUO4KRB8kP_hH3U3PJSklzrdy208kpkw_1ccruuk0GugVQeXpfEVQ9jY-K3oZwKrdEXTKyuHmLddnCdW2vSoamqskn42haI8Bi2__XreGg5s2lQ1OBTAv_rGrUMpxv8S4SeKtKb2zcCVHQhTLesIsw2xpwgPJrrD9iZrEfi-sJRyk7bg1eO-NKziAPN5zVcE2nrkoQbilMNCDBo8qz-M840KekWmZcHrAHl_f2xxwYGu-nY1a6sQkMrtYOvDklq-xQQ
+    widthPx: 1290
+    heightPx: 726
+    authorAttributions:
+      - displayName: Blowfish Poke & Grill
+        uri: https://maps.google.com/maps/contrib/107437331882435915596
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWurNQDhWTuKaktw6xTFgyiZGeUBHzyFr8X4kpqSibpcYKNSYaP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMe99I2pqDLV7CFIiFy7GIz9KOzltAGX0jrTwUC&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMe99I2pqDLV7CFIiFy7GIz9KOzltAGX0jrTwUC!2e10!4m2!3m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6
+  - name: >-
+      places/ChIJPcNHVKPZt4kR5iyaXYU40cs/photos/AUy1YQ2ZeysB-OdJPP_RYUhDAgSP84xqp097ygjhSvnAlV2yA1q157gQeeWroaJ56PbvRMCh6jQJraLz3ZEM9FzoVcvaxFFv9hR3Y2fKVlOLA00o8f2h0_QBbqX0TDuIVlXxqijRQNGHiio-GWrDos9emzZ-jfrCEdfk9ph6BngnkOs4e5cz3eqz7Pt-yu7bGaZ2KCdu1Td9VS8aPSKgQgLYK9UkzlOgYsWvcE11igx1Gp9gcUr8xDKqtvbkI735NDN_DE2dweMq1yo6suQ8LQyKdWGceexWphID_OaOLc0CSYkMxw
+    widthPx: 3024
+    heightPx: 3025
+    authorAttributions:
+      - displayName: Blowfish Poke & Grill
+        uri: https://maps.google.com/maps/contrib/107437331882435915596
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWurNQDhWTuKaktw6xTFgyiZGeUBHzyFr8X4kpqSibpcYKNSYaP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPMJBEltjcty_yukBbAb4TJGLCvTgQOetnTP5up&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPMJBEltjcty_yukBbAb4TJGLCvTgQOetnTP5up!2e10!4m2!3m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6
+  - name: >-
+      places/ChIJPcNHVKPZt4kR5iyaXYU40cs/photos/AUy1YQ3eF2N3GBbl8Y4OFAR8uqCqZ4RHBbVBbIFq66b1oVg1Mp-lILWCPAKVxe85LWRABQzdDJLlx-Dv0H6T0La2I7eVUOPEOOIu1YhYqnNQtU_6bZcJnEzco_CIWLi4hmQJgdnB6NzvK7qEhVHGr00tmYtYEcjfXH_6xyE4NKWTHWQWqCZ_6iSm5VsOJj8419YWfasnYdO-AFGoUrSlADJtSTDwqlUvg14GCDrzrg1j0W44LoLsKoW_nOfEGkN2IrW7kihYsZEeeoeswJTIpZyZ_VnxCpCtvbeu65VWhd1vEVdWPg
+    widthPx: 935
+    heightPx: 525
+    authorAttributions:
+      - displayName: Blowfish Poke & Grill
+        uri: https://maps.google.com/maps/contrib/107437331882435915596
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWurNQDhWTuKaktw6xTFgyiZGeUBHzyFr8X4kpqSibpcYKNSYaP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPg2khMT1ebjUMhe9k7fZbdkamJ34noPY2bYFJ3&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPg2khMT1ebjUMhe9k7fZbdkamJ34noPY2bYFJ3!2e10!4m2!3m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6
+  - name: >-
+      places/ChIJPcNHVKPZt4kR5iyaXYU40cs/photos/AUy1YQ2nwQSCRALJlCc3L8Mmuy7t1Op7sjyqHq4m3Tv1M1TXIC3E8-9B5WV0nd1tAYTMurIKwiaVgaf5I80-TfBgXS95-AXoF0KVOKpXibEOP1I5y-sCqYvfFfie3WC2_3WE4Iv-fddI2hs3Ecc5LFd_NFFrQt7wQgMAZDxNAAQB6jZdOipLpEqH2h2LnM3RZonvWSZFMigOG2BpluRKgvnHbwO2SXRHXFKZGmts0Eemzmh0QYAZn_xQevxdrM5Zxb-FdER7_GHxezjvERtMw_QyfnjtIuCeIDEWkZ6pyQoy85B51Q
+    widthPx: 1440
+    heightPx: 960
+    authorAttributions:
+      - displayName: Blowfish Poke & Grill
+        uri: https://maps.google.com/maps/contrib/107437331882435915596
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWurNQDhWTuKaktw6xTFgyiZGeUBHzyFr8X4kpqSibpcYKNSYaP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM4Ss4NQZ0M_h9d7faatcBXbu-yZsQ_E4QhhD3L&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM4Ss4NQZ0M_h9d7faatcBXbu-yZsQ_E4QhhD3L!2e10!4m2!3m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6
+  - name: >-
+      places/ChIJPcNHVKPZt4kR5iyaXYU40cs/photos/AUy1YQ2XneA1kB0nRQ7aN74ElhLg7QR3FIPk-0XjyrWQfd3ESbBL3m1cmZFJbpogl9iKjtu_r0S0WNoCZO3ZR8MOJATYaoVzqjENExG7qWYI5wk7ov6z8t7ie_-n-xzHy-aTO5rEBmI7fHKs4oORq0vx1NWyMLdPS_RLmqmUMO-7sH9Y8CGfi7Mmw3a6FzubqFWnbF_LNjZP7mAK-NTKv-1H4jlhMb856gKCaXE9e0PTkkzGOiznh_TznPcT4qO2YAQMmuihare8QeGvdiVPW8AlB7-mA-O8Dw0Zx6L-aucChFaIRQ
+    widthPx: 3024
+    heightPx: 3025
+    authorAttributions:
+      - displayName: Blowfish Poke & Grill
+        uri: https://maps.google.com/maps/contrib/107437331882435915596
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWurNQDhWTuKaktw6xTFgyiZGeUBHzyFr8X4kpqSibpcYKNSYaP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPoks2L4t9oZQTyFKsbyE4oeI4izWDIviyMMobZ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPoks2L4t9oZQTyFKsbyE4oeI4izWDIviyMMobZ!2e10!4m2!3m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6
+  - name: >-
+      places/ChIJPcNHVKPZt4kR5iyaXYU40cs/photos/AUy1YQ3KuTD_FGIwkHwypmvuQ7FRLPJCn46xqJrErJ7Gu1Tq_AfnapTy5GS-MdB_E9WDVS3bcGhSpi0jvwdiRN-dvPJ9KE69c7kJYExmjdM05k8XDQfFL54CsR_B3tFWtXbQ_NkczG4jeQWY8X1dUXAPp9GwUzKKM1xhgIfkKrVm4e5lZwA2PqbQMnHe1A3XBrpLo1JdyCqJv9QbGoktjtjXkU-LNVUxYL9IKvwrQ1mIjAyzHSS2G2GbwZfdrqrnXIxeBY6Gg-eNm2lPmVPDdMcUNSMVkne1nIzCsCQsBLRF4wMK3A
+    widthPx: 1440
+    heightPx: 960
+    authorAttributions:
+      - displayName: Blowfish Poke & Grill
+        uri: https://maps.google.com/maps/contrib/107437331882435915596
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWurNQDhWTuKaktw6xTFgyiZGeUBHzyFr8X4kpqSibpcYKNSYaP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNVvnuT87vfGnUqlxEJX-hL8UunAAq7KaZYRJsR&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNVvnuT87vfGnUqlxEJX-hL8UunAAq7KaZYRJsR!2e10!4m2!3m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6
+  - name: >-
+      places/ChIJPcNHVKPZt4kR5iyaXYU40cs/photos/AUy1YQ2Q5SNGgiqZ6UV0pTUBc6FLPag1IRfHQloOtXkznbg0crxjKY8dv3sCaN0DFKu4yBebCsq7yKDlv4ZKDwlL0lYaMybu5tvZIiRUkyEfek9CVzTRoEyKACaH9gsTLPCtWjX8tXPYV2A3cK76Zv5ZarCdDIQ1nWnpd8vC-dD2ea9-80QpNewKdJJPmbVmLPRvvvPA-sta4NNQr41uwfTu1UJdbLATIqR8Km6utsXVCFBirLq8iyXO5HJ42DZmB2Urm46pX1OTt3bGgCWpYP-8z4sK2zJGXGKXU2YuRsL8cBmHwLrxUbTNhPyetPCTWrF3lRbg_Tic8MYoXaPG0FeZn0ghfYXMmz_JbR8kNcB_kp3qDCwG81LJ8smLeiShdOej7YOy8UwiWTPIgbTs-ZhcIctN786msQu09MhBzzDwnOuNPjqv
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Astrid Garrison
+        uri: https://maps.google.com/maps/contrib/117523412594231411134
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVGVn1xQwX3jLZRXNJIm5f6XnBXeBTTK4EBoacnZ8JrCBmMpANy=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICsga6P1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICsga6P1gE!2e10!4m2!3m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6
+  - name: >-
+      places/ChIJPcNHVKPZt4kR5iyaXYU40cs/photos/AUy1YQ3IIGXNzBhhMw-pnx5Trr1_HDhW1onxQK8HuuL1FaGndpFig6Ba5hGxOQAHyxM9cr6sJ2opx27cUI7ohMOs0w3dhH2WTPFURy44mUpQE2XmEh6R2X-rsHMVrnJpqvTF2MvTjtA-NjW0KFDlEkN05a11h9yravbVIE391UKWX4QdG6oS6gBW4_ahXAf2_fy8D4j2oJiKpdhzRazV5WKo_3yEFQExPbRhRFvvW3H6Fmw2mdUeyb7HioA3Nqwe-QGBVVwk7OjuPT_KoU6bz-kNQLFeyJdjFyr-LGzQi40dSRYAQA
+    widthPx: 1440
+    heightPx: 960
+    authorAttributions:
+      - displayName: Blowfish Poke & Grill
+        uri: https://maps.google.com/maps/contrib/107437331882435915596
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWurNQDhWTuKaktw6xTFgyiZGeUBHzyFr8X4kpqSibpcYKNSYaP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOzB0Q4kyXpqae9qwqP-fYtd8AGPseuKlYAYjqr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOzB0Q4kyXpqae9qwqP-fYtd8AGPseuKlYAYjqr!2e10!4m2!3m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6
+  - name: >-
+      places/ChIJPcNHVKPZt4kR5iyaXYU40cs/photos/AUy1YQ3OdSNkBNlWcoa-CN4A4VilZxrba5-Dg_I5ev8nGhEDkP8J3LdSxrsmlQhSvcg75qcXhArpBbZ8fzCTWjmd8hHIgZ-fXGbf500xv79sVcpERQt8hXPfw6erbRZwvj2hazbbBzuUlS7Hg58Pn223pqc4yWTv3UXagmdHj7qMMGw4Rw_R4C8VMIRJiRuFrGVCTOk2wb7Q3jmCbiFJYPnypgZ6NOzWths7C8olf7rd13ncKOwHBU9NZe6MNUoQ-w4Nvq3kPjp5rfJHK8_aDGzGZGBjRSwFs2X4Ze6WALUwmJ0D5A
+    widthPx: 1440
+    heightPx: 1440
+    authorAttributions:
+      - displayName: Blowfish Poke & Grill
+        uri: https://maps.google.com/maps/contrib/107437331882435915596
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWurNQDhWTuKaktw6xTFgyiZGeUBHzyFr8X4kpqSibpcYKNSYaP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMosMSHIwrhjgRhfhcoe3VHpmKbgLnO2R0lxsik&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMosMSHIwrhjgRhfhcoe3VHpmKbgLnO2R0lxsik!2e10!4m2!3m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6
+address: '12175 Clarksville Pike #206, Clarksville, MD 21029, USA'
+street: '12175 Clarksville Pike #206'
+city: Clarksville
+state: MD
+zip: '21029'
+country: USA
+neighborhood: Clarksville
+latitude: '39.214619'
+longitude: '-76.933612'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Blowfish Poke & Grill
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6!3e0
+  placeUri: https://maps.google.com/?cid=14686582005284089062
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6!10e5
+primary_type: American Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Blowfish-Poke-and-Grill
+
+---

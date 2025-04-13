@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Garden"
+permalink: /indiana/mishawaka/sushi-garden.html
+stateAbbr: IN
+stateName: Indiana
+cityName: Mishawaka
+place_id: ChIJ5xK3TD3SFogR1DddwfRZNQE
+photos:
+  - name: >-
+      places/ChIJ5xK3TD3SFogR1DddwfRZNQE/photos/AUy1YQ3DF1Cmb4HC1Xzt4e0K5le422AHlnIS_qRUQzlQ3m-4o4netTvR6PolWY2-xGApXMe4x0EWCAtv--m5pqyYS6uqfDW7Bo7_Yt6yqSvviOQpZLAklQjXFz1AQ6wa-_33jFseOPXuDA6QaHr6c9DFAhMTMA0aRtmLJWmo7lbhQyNpln0YbZCU9Qks_mKAGNW-fohqDbuEQVRmcegmgX9fdL9NBtlcKME9UC0Q7wXfbbkvL3uI-bvNbIUJfyUNXn5hCfulXP0NnvWTtLcVAjaKv7yDWKyUaceJisucbXqZJ33WB0cnaHQlyeWqiVOmABC0JvmHvLiHRlD88XsLwwECAdJHKx-OR_1m1E34do74dpVFDiemd-gUA3_gnZ9dKlPlGpgHMHfIkYdHdZHsHeKQyNoOpAbQPkcRVj6jQDE6q2dtw1CN
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Elias Espinal
+        uri: https://maps.google.com/maps/contrib/117102267574186287525
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUCm5CLsAP3_cDgglOpCrRTDN2cP5eaTljsCIwriFaddrbTXyqhAw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMuITTwQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMuITTwQE!2e10!4m2!3m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4
+  - name: >-
+      places/ChIJ5xK3TD3SFogR1DddwfRZNQE/photos/AUy1YQ2AxX78_sndt-hoj9i_TNaqFrgjogRlGKdvDYUG_DMvomYzWJW0akwNqQdw7O2DnH--LGDhbEG9CS0PQokLWVhGZEJxyOrINT-83kYkq5bmo-75XK-dfbSK21UShuFPZ0tyvDPnH7vu6rRoWn3QfiPYepkRTRoZtAcnndgDEkbsbAXJo5hgI42of0ECrfbfY5_l1N7wwW0TOwd1uF17ZESn67DFp_QyZPmKmqV3fWZQNwugBvxAt6WTPQatJaSqykjWZzxbbcXazZ-Fki6MGORmeFuIe-S67cxiFZ2n9dQ0aNQXW-twC6uVUTQCDuvc7UzzuOUcILOQuRBk407VRDRcFSjzjFEBY95D3w3snLKHE2kWaWVePz9HDTOIXroLpah4M2vT3FSMPobJMKV53AFMCds1MZKF2c-dsYK4xrs10g
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Amy Lee
+        uri: https://maps.google.com/maps/contrib/106261522020896155952
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWGaiwuqif0ZNjh8ostrGKQp9ZapJ5iCM5bBLHnG4yhxPcGtgCKkQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvmsDXIw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvmsDXIw!2e10!4m2!3m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4
+  - name: >-
+      places/ChIJ5xK3TD3SFogR1DddwfRZNQE/photos/AUy1YQ1V0Wv1SQkdFtFQOPg4I2IU2jhMkJBvQoWbEpWJis_5lAj1rn7DHLmh77-_i1qkl0kys5FGURS2lPtGXw6TSuxBxpZvJGWtUY3cPLfxujh3t1b8yPKRV4zZQB_95I_iZwtw9gTbVMwcm60C7vXzQ7DlGMvutFJar_oAfIfpBAyhaKYKWlZ1Vq458BoBvg6kCzF2HgdHeLn6qm-XeelxCLO-7oWWg6LSEqkMFFvtKKvz93wjiRoqwqJ9ncpwrwgef79Sq3zr1A-zeDdk87eAa4SNFg4bvblLP_O3f0B2cNnxRiot925TkbPYq_h2vjGywTAx4t4W9S4MdQTC0ULaaGs4tJw6hTIWYJGxhdvtpHRifjiz2Wv4VTX_l3mOZSS08S022zCcJ6X4oxtdaxJ4dg8Kb5zs1aXq7qu680Zv_wmFvQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Freedom 2 Film
+        uri: https://maps.google.com/maps/contrib/115146175751920393182
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUGIOiDu0wichCqvUgl7omb28J9iBD3Y5NPKcpmvvPmaojup2Li=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICN9eTpRg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICN9eTpRg!2e10!4m2!3m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4
+  - name: >-
+      places/ChIJ5xK3TD3SFogR1DddwfRZNQE/photos/AUy1YQ06meEubcyBsRzsOxGVWYpt_XEoAT_QT8_vQ1BJ0TnTWRK1qXHNFodHKIgM0a8uSSzFu17-lF0IQmP61QKdNttK5UIrJMM8T8dcrqILxBD-0wAYK9yt_ZzKGHVTCdLhO6JPmyS_p36Y8s4PUP6nJdG0eYXq6NHCWoTEv3ieadO0c4sNNHdnQslHlQIFSJGHn3kxu9Sen0q8aAWaUfDcNNliDzZgXsmr8jo8vQVdhfVNbC6mvC31DTYyf_NVHVQmNeuMMYlCztlvEmwREtNiQOzFJs9JpHWgKvV4oOBc-95gkExtuv0RTP_fyCnc6uAkBPM3xEK-7YvfqNPvFJ0Cz-ZFecqZB-6kFqHTl3iN26zij9v6ukHLS7mBcaLN9FYkSLoi4tjfVHpYX087s9tf16s2HQJFu3ZDBw3UqslQ1HbXyvcV
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jalyn Rummerfield
+        uri: https://maps.google.com/maps/contrib/108874115033568372651
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV266JeZuryHTSsgYIMrM5Q4pY4VRB3cRsIPGqv7KDxC93q2TVt4w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICWk4_HpAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWk4_HpAE!2e10!4m2!3m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4
+  - name: >-
+      places/ChIJ5xK3TD3SFogR1DddwfRZNQE/photos/AUy1YQ1l5urS8NqUazRGhhsRJBQXCaSgl_IhXoRPedBYfzcO_K3Xe1ZWrd457HSye8nA7Vw2w0xbML4mxmeHDjNAug_rCda9W-ts7gefXFTUFt3Rt4Qililip5ck4aZjfveamlmxw0rj6rv2YZi2Z48LFXkExxdK8mfz2aGagqhEN8EDA13dno4KRhq8ZNIcB8mu6liSJ8Q1KDLvzHfEcJwjidhqR-t88ygv3eH47eMNK9_ntcYs4zXAnNMrj-AI2OnbOUjfekiwKVKRGTJDLlws1GXdfpH3BB10KsQGJvA6AGcBy2m9dyNCwRU9o4EifkXRWpeXEeNawZyjVTsnWQdb13b_uPxxjYp8Ve-KnmWfaKrNLiGOmT8-YwLisFGb3WJ2DThiBHdkdRv4gdajC-0n6gZDcCJVgKFyU5yhqvZlzsg9nNY
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Loretta Killackey
+        uri: https://maps.google.com/maps/contrib/103453236660332195619
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVpAxfrhp6CuX1dizigm2KrIYto3RbAnIOCVKGvI1fDjb1m7OPq7g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDn1cfI7gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn1cfI7gE!2e10!4m2!3m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4
+  - name: >-
+      places/ChIJ5xK3TD3SFogR1DddwfRZNQE/photos/AUy1YQ1qtB2dYhj4zqyPuCqGCfzmzTGrJ5dvHfZ0Oh9uyNDlOFdu3kdIKg_Kf6aMJLZplH4Lj5H-RHBDFyv6nHkY4cSbyLj96nAvHc_JYdMQOdiswCBiSryAyg5iEbebLATXTVu3ggzC1oVTnSUG6R8TlJGaTHUE0tpnvcJqIdcGpBW-77nb8MaL1McjvPQKHzz-ebhOnFDoWneHiIq8ciSxcABx2gPghNu_UhJ1hBUVErMGCkQT8gVELv1OhDg5qO3TA92GTnSUyhX8POtVtV7rbHMTLvNQeD7lxSccJt5h2Xvo2rB77cCKvokDngzYNz9eZ8gY9lElRq4SspUqlWN4dPTchxcR37dm-BBRyEjSFQFeeBKdY-7NYBwy3JqW3DWd4KMZX-6Hh3f6-qzFHm3lWTGdSsm_C5z_ODiafGtyZ4Yj0ebt
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sopheap Long
+        uri: https://maps.google.com/maps/contrib/114338318503053632180
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWTylq4z9mDwSsKUuZi5wftHc_ZukxtEqRFomJVESul-ENpx6QEGA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRz9GSygE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRz9GSygE!2e10!4m2!3m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4
+  - name: >-
+      places/ChIJ5xK3TD3SFogR1DddwfRZNQE/photos/AUy1YQ2COm8MKgRl9bvNdtNUhXti6tCc_rrT9t3P10BwsvdikX4HmK0_yuJCsvzTyK1XYqIiqXENw1ZnJ6tdH5frgGG_WMzNHETmK2Kmz3Awf4JP7XyQ34g8l7aGIJgBMr8i_VKx0__0Svg_hsXsyexk-90sxARpx-qkzOzEaegF49eVdTRPuf69HcPiWd9CBg3Yl0dJRuUR_ULxqXBvp8IV0aC-8THUU5rlyb3FjvEnD2CPBtdLBLe5PBbxe_8BnND2PfizNh3TTdkp61QEToq6BAJhup39anDYWnf__8VN3FXltLkV2516_dcrXF0JjNZ_s7VZj9WcIoCRFN7b4rCEuR4tKqgmDqk8v1chA1Zvw3V0tryVe1wpzxi9Iunw9bZJoAX4SpR6nWzBcBBv5xNkOacUe2kMfw0yQopuaRljdNjkyg
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Loretta Killackey
+        uri: https://maps.google.com/maps/contrib/103453236660332195619
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVpAxfrhp6CuX1dizigm2KrIYto3RbAnIOCVKGvI1fDjb1m7OPq7g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDn1cfIbg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn1cfIbg!2e10!4m2!3m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4
+  - name: >-
+      places/ChIJ5xK3TD3SFogR1DddwfRZNQE/photos/AUy1YQ1HbvW7PrDj8xIsY1FVos6T4HuJf5jKkK7Gl60bLzEk-s_XJadUZpBircouXYa7y2jmv5v-lcJxUBxNfpcU2C0CPXWEN1amwTsScUU8wh63E6RPRkAoL6wqW7HBukwVJhQl7ahc9KIQRreFqsfVaJy7euvXBNyXtGCah6tPxkqWH9XhSAWN1w0F2yKLo3Cj_0KzYoKbkSttOwB3Rvo7K5SOwL7pbdCr9WK7dr6EPGZ_-VEOQnYBWZENszjWVz7fBGOyT9LXhc5WDN50Y3hLixaZWnrZ3NzjKsOawDEEalwMXqAB-e5WCQfGJCC3ptWIVZm_ri4ZluPXzt7ULzK7EtxgiXV11Z2L_H8y2arsT-owH18i9GTZ4Wmq1raYxOqjJlMPBt7rZpDnlrzcQ6us_R5b3yxjgY_AP89vAD4y8RSynxg
+    widthPx: 3024
+    heightPx: 3435
+    authorAttributions:
+      - displayName: Sopheap Long
+        uri: https://maps.google.com/maps/contrib/114338318503053632180
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWTylq4z9mDwSsKUuZi5wftHc_ZukxtEqRFomJVESul-ENpx6QEGA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRz9HcqwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRz9HcqwE!2e10!4m2!3m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4
+  - name: >-
+      places/ChIJ5xK3TD3SFogR1DddwfRZNQE/photos/AUy1YQ1Jy58_rGUhJjqKjVAOYF4BMUor5uw6WjsYeTAZcL41B04ySy6JOh3o3dbcmwndaDlJJx__yCXffXdrH43UkbdO3Dkmygcw8Zjkav_9Ddk1hNmcAG1Qce02jcoMgHqCfwV0SjPuoPTqjECU5sf0_l2g1v3yN29pdG4OZN5yppw4ywdIOAfyHYGVqGd3dgxzU5jILU8c-DYDfIcV65KdYEU28FS-c9_zSOJjnD3m6UEHzozgCbBWcEAbCdmk-KzYJHMfuzaoMP58CfSFJOj_4KiByVzXdPR7nb7YrFQotIXgTnlSN93fvGg0cYHfJ0uFQPjOhi1relmDnReHO4TUZoFzmxTYY_QhLvVMGnbaZJsC-Nk8XuWtem1kH6T3xSbSuAquNBjN3tY8QP0s3DaNHZX1RkZvrFj-_v07tZJjtNwFIg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Freedom 2 Film
+        uri: https://maps.google.com/maps/contrib/115146175751920393182
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUGIOiDu0wichCqvUgl7omb28J9iBD3Y5NPKcpmvvPmaojup2Li=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICN9eTZIw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICN9eTZIw!2e10!4m2!3m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4
+  - name: >-
+      places/ChIJ5xK3TD3SFogR1DddwfRZNQE/photos/AUy1YQ0lcsTOH-rNGq7YBNqw1hSFVPZWp0tzLNv9uIaYb7-55Pf0VTYRGhrF8V1Dvbkvofb1FZFaueaJMid0uZ0D1k0QerEbHC1wYxJ0bMqSIfegARbGJnGlrOy_no8q0uM2N9JGQJoyDXJiWYcvRu9RsXk3qEIaWzuD48cztxGXvR0wzhnntBSFrCGd4GfLlmRM8CXufJhPARQZSqhwad-vVHlLkypZ4AfShCxVqo77XTZhIJL-uiHoISIkAzADv33FUlCPr2VCPA5G-urM7NDDmclym1w2nuHrgyE0qkfZDwdZY3EWv6sI1hRqCy9tQUP8ZqYQSLeo0xRGlDs3mNwh7rGyQkh8y9nRmhA8rfpPCmdbxOdHkn_ebbLgzlqsFMFyZETFkwWHFTfvastzsfpo5tw8McfaSfnvLdH4xxp13-khFZrZ
+    widthPx: 1536
+    heightPx: 2048
+    authorAttributions:
+      - displayName: Tazor D
+        uri: https://maps.google.com/maps/contrib/105963193092021598172
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJBBZhECx8DtEn03uqgGUdOsMYV11PuIoE-ROobBMlhgGan=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICyg9fjsgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyg9fjsgE!2e10!4m2!3m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4
+address: 6502 Grape Rd, Mishawaka, IN 46545, USA
+street: 6502 Grape Rd
+city: Mishawaka
+state: IN
+zip: '46545'
+country: USA
+neighborhood: null
+latitude: '41.718378'
+longitude: '-86.185428'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Garden
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8816d23d4cb712e7:0x13559f4c15d37d4!3e0
+  placeUri: https://maps.google.com/?cid=87074675554596820
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8816d23d4cb712e7:0x13559f4c15d37d4!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8816d23d4cb712e7:0x13559f4c15d37d4!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8816d23d4cb712e7:0x13559f4c15d37d4!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Garden
+
+---

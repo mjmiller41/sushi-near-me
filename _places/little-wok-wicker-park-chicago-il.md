@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Little Wok - Wicker Park"
+permalink: /illinois/chicago/little-wok-wicker-park.html
+stateAbbr: IL
+stateName: Illinois
+cityName: Chicago
+place_id: ChIJXegUymrTD4gRZd5LYkvw4Ec
+photos:
+  - name: >-
+      places/ChIJXegUymrTD4gRZd5LYkvw4Ec/photos/AUy1YQ20ackDrB21a4fQJvAqVx_kOQ7rN0JzHok_-wkhSN-gzmCXYmXXcvMam69c9ZPjnorkgSOC2oK8amXIcPfmtv-GHCeI_x_riIBJMsOBb8uPqJ6B3ysNJe85VRA3wbgsCGMWgkLU-_4aUmHAwlA26UbsCH30Ee-ta2yEJ4qWKDmcUEI4vFvPiEcRqEjOYnbE2YQkNHfUnfoVWYsxFwEUBIHsqdcbjKaCfQ3K-yhxylIq64Ae-dR5fxN-4kIOGsbnQdmha99zxWf0-8okmHykTbkjRXttpZYl5HyrmM1Fzuip3Q
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Little Wok - Wicker Park
+        uri: https://maps.google.com/maps/contrib/115652017194483470362
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV4BTz-nrBLFxkYB0FJ4Y_hwUObv9vVPvCgF6uibq5j4lVynPc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNHH9BfiqLltVz6EJM-hvHSAtdO1mX1kF6Tmggk&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNHH9BfiqLltVz6EJM-hvHSAtdO1mX1kF6Tmggk!2e10!4m2!3m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65
+  - name: >-
+      places/ChIJXegUymrTD4gRZd5LYkvw4Ec/photos/AUy1YQ2N3B965uVAAej0xGDfCrz_5-8TMHKrE_2u51XeKkhjk4tkc5UomgNNA8l17K_Opr4bYwfa0iRkox106vi7JQ9fLHQvAcLcYsyMEC-lrIML19aLf6QdhwYtvHg2zxRhfnWU2-F1WTdfav-I4M5tthNnxAluoFWHI8y23jK9c2k4-4Q2Z5S3NFbV0htdPXMLMSTVTT9AfsXrae4viT1mHRKV0Pf4LOdIOneX9hb_NM8S0HdGvh1o2ArLSAHyvQ1Osts2BI7RRPL-JMtmpHYK52Wu6jnLXE13Uxd_pb1DrdOLziSE6OYFNRwADhgkkqoVDFHeo-VNcDVM1LGDeMFX21gMM3fowhg91nrDnnvpQFxHuvmMACQZQY4UDMNCDA7R6AZStq0kL-nhNZX9ajZ16GYDFK0mEqnW_sGkowXVgXk
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Christopher McKenzie
+        uri: https://maps.google.com/maps/contrib/102912673804402556104
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXqGE9ch2F425xGFzWUucYtDOK86rUCqti7T4rafoJXzmymzHY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICtyr-rQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICtyr-rQQ!2e10!4m2!3m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65
+  - name: >-
+      places/ChIJXegUymrTD4gRZd5LYkvw4Ec/photos/AUy1YQ2jxkKa0Mc5DQlbV441Wj5dNwVsMP6lsDk0JGD6f81kk83H5o23KFq6bS-727ebCQZ37EYYBwsx50zOxjQvrTmB4ltRYGj17YJ3jSscN6fkhK5Sj_uDbZw9LAn3gf3EHL69ujBhUcTJDXlNbBddWLnenkU36vzQ-cbq70oznMik0QlXIb7MRQ2FfcoD3DADGESlm7r9qU2nvULDWhAb2gRcvCLRncoRi7W3fbtLbU5nY6PAOtnQDzbr8QzHwmn96z4ikk6chrn8xA_AGvghG8JQf5LnFx6JPk82yJC2r9RDigOyMpILk-OHbfBmClX51I-1k_faCW8lQnUq96QXP5bxs1koW7hu4lbdzIla5fOSwVdzsIe-388GGJ8QrI1-bd8VLucAZRtn1l6rEVHSwddypKDtzhrQEQbFsj7wsG5Xu-r_
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Anya B
+        uri: https://maps.google.com/maps/contrib/114015064148961278254
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKEt7ptjYvJCBASEJWfGhQ99-ltx7pjcFs3HybqZCJWg0952Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj3czw3AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj3czw3AE!2e10!4m2!3m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65
+  - name: >-
+      places/ChIJXegUymrTD4gRZd5LYkvw4Ec/photos/AUy1YQ2lHkSO3YncR3wbw_kT6ufiOZjf3xFY2o6srOqf8kS_Bsnsg0ykwcVCPQYb2ZseDChMOoVFikMo3uzLg9VZPzFl9GZPoTSqhGLzt-9eM5sL1yIRG_biNctVmWs4XUuR97dIXObz_lWVxWtrj8oAY0oFIpwP885k2kJqNvPp1BuTFQEm6yBCuRmxfoKc8jrzuIXvIVijd0j1jwZV92bZ8VuW_pAzWcF8fO6MlgFY69kkKQUN021YQNtlpmy_I_gNlOJwe4hvwVisr4rJZWu0L8heCGiaFZEm8hFN2Ut3K-OizQwj_XtuGQCv4D_PQqk2C5d7S2Gfkdj2V6Q7sAl-G9scDVtWlADQNZbQ5HUn67-DkjHO7j4LdndZuFBBzq0NUUh8_MZlq1sR7-hmd6X_xE6v8DfbFgqHRpeJOtN6Jjr6Hw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Justine C
+        uri: https://maps.google.com/maps/contrib/106901711684601567447
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL3J2MS4nfR-M2mbN7i3hwYk-wbIDq6Eqk9PRDc_c4bBjJ-wg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICmsZmaSA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmsZmaSA!2e10!4m2!3m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65
+  - name: >-
+      places/ChIJXegUymrTD4gRZd5LYkvw4Ec/photos/AUy1YQ2G5kvq1ZkJjzBR9qJQUCrZSBmaWEdUZ32DRzgtJU6JyqaKSglmfL_6VH0m5lEt92VmjXG5rYSONYFEFpxShwVqXgZ1xq1hl81-8wvO5ixUi659Q7UERoPgIsF9MJSCDKcFb4nLaWAkqHCHRRIojeCB_MnsLiuSxFRkDc9C7R8jydDeNt3Mk6ppmNSUBX_lwV_oxyn_Ppuxud-lsMzAoZl7o1fLrq2Fez8NTkgBFrLHPH8kKE0gEf62lcLPYqr19Kh8eSLHoqWEbd2vN5G19wMdCzlt1H9M6Sil8qN_RwJ0SUQyx0CZMw80ReRHXRUFtZfTO0lODTraF8xvaY9i0ZApyHCJL14z50BKdaMNk9bILSGa6U_99A-Vqi-PvV1Es5nDng8lechGBHpu6q8hDqr_T10U9Wi7u_9_AkInnCYgG57z
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Anya B
+        uri: https://maps.google.com/maps/contrib/114015064148961278254
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKEt7ptjYvJCBASEJWfGhQ99-ltx7pjcFs3HybqZCJWg0952Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj3czwvAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj3czwvAE!2e10!4m2!3m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65
+  - name: >-
+      places/ChIJXegUymrTD4gRZd5LYkvw4Ec/photos/AUy1YQ2GCOelILPQd8OpRr9iSvsGbB5rPtmjnbKl2HWhJ7pr6h_ljJ2KaMS1hOweamDIolHE13bzNf1pDQ6YpB9-5kM811HvTJGuDsxEHaCZY9LjZN1wc-7aGUOgrX3LCYfrWpxLBtQqQGNAtr1HxlOYkjuANGIKJ2XC_e_KefAAKoFsT-zXx3VoLd_XDOwJD7u3AqtBoYHg5QtNy0-BwiL12hgtNasyZPRwElSxz-ktCK7jsTStN0dy_MBxXGEpffiPE8zrNHSa57qV3V3vzBm7Vrra4WUN3uBx1o4ZZRbgnxArJAV2UIUKJBnyo1a-3-Qg2HgM_re_cKYLYX23UiUyUvpz5-u_RO5bEmHzmlj1m-wMkvUqZnzglxkxQmK_Px3sYRUQqtWCyXC9zAl_VtgBoaxtTBSotrZf5sQRSfE0r04
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Gerald Red Amlih
+        uri: https://maps.google.com/maps/contrib/105016915051757088817
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV0YbU5O1vpCWoLJeIcs2vrLQZjdFnj5KujXhYEER_Jz05zZ6G9=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7_Y_jOA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7_Y_jOA!2e10!4m2!3m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65
+  - name: >-
+      places/ChIJXegUymrTD4gRZd5LYkvw4Ec/photos/AUy1YQ19zCA5jaDnlYvu-cfcR6iyR3mMnhWPNZPqiBehiZ9BwqM_5r8AZu68kQyQqBZEOHL7QJpLW6SPm_jnqQtR7oeD6sYpkqVODdnggIlS7KWw2mrzSZzZrxMjkRx3daIecZ6dmpxEwUTNThT-x5dQcfDBvrpQVWd9Xz5WG9QZ6HA3jWHNsskMWBHt0LJird_d8K4s8Vuf-DUqk12B_WTAZXFwElQTgnODCNzYFY0Iaa944bTHcyRknW1U-3dDX64RNBgv7UtNTuhpgsY2lOMwUuxP8TjQIZNtKO1JNcuHEkuukP9lMa5yyHUwSs8i0Iv3-iIQXPvtn-Y7p5MewMeYTBDi5JS7yFOpDvaPJ9-NTSyvRsX0r9vVY9EBWwWFJDgBRYtI45vD8hbEPyi-ErO0MUoH74JFFAiSh3u-jgYDZNPDCGDv
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Gerald Red Amlih
+        uri: https://maps.google.com/maps/contrib/105016915051757088817
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV0YbU5O1vpCWoLJeIcs2vrLQZjdFnj5KujXhYEER_Jz05zZ6G9=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7_Y_juAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7_Y_juAE!2e10!4m2!3m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65
+  - name: >-
+      places/ChIJXegUymrTD4gRZd5LYkvw4Ec/photos/AUy1YQ2MAY2McE-Llrt0AVPmYiBkTkhZRUxktGlxEh5zy2m7NXvYrQVck-7bPR71MnB1n-hJhFaTVN64HNg9okwAIIph2OVxuaFDnHV9S1TuI6K4RDlPZGx9Za0BhWSrPHkUxC50bNJcM-qj58Y9UrlJmmacBA3i-Qe4cjRzx7FnQjd7cm8LubTsWT6VcjtjBYSZivVDJ_uypPqYIQPFL0GeJyLzmcIXxEDrgonnIs3D_s7ITjNGQ6GRS1Q2rstwKmCBO9PuiaV5RUqj8EckWiy0RcCbPWjPWwvs59q6reOhetbwMElUTpHm6x9VKls-_Rjx6EjCzLzGmZqXGU9DjOpP_dClb4H0-QaO1gf92NdpUB8NRXOVn2DTXObx76xVAO4Z9mNrSLur7kJx0Mwe_jhHkg1EuLsmBOb4VtPFMU0pYxb5HA
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Jennifer Winthurst
+        uri: https://maps.google.com/maps/contrib/106162101732514347568
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtSLMznesewpGWgb-IVVskSejZnhSv0nvwMxpvlDaNzYeyLZqiCw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJtImSGg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJtImSGg!2e10!4m2!3m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65
+  - name: >-
+      places/ChIJXegUymrTD4gRZd5LYkvw4Ec/photos/AUy1YQ3_qxGuxnuo_ifgP4G3v3Voyo3eplRTnNlQnTxnTtp0No9gdTU-uLjh198yEwMUROkft2cjCgZnnofETsn6E4Kk3adNuBV9bTkQbrHI9B6UH30a0wihDNohT_hdTMO4CQ65-yUp4cvI2fAnGzlax-o8G-hDpkQRXosAGj6iqgZ9wU2ORKNba0bPL5T-yaCgXFmC9YxTDPEFORWT1z5FecGoGGyzMi97MktKZdPcwhxXy21zEQZipomDW6mqsx7CFpOvrpfW_TkdqGByWOqAnF1i-KdiSqv5SiF-JYLVxJscI8JVpFQBKjEzGmA0nNHzoTw5isl075Dc6atKXkj_bJ8b-gAkiiogLOuE1GwPYh7iwIjidi7LYT7v_iSAxnlpnJyQthkFzHMR1vjozgrNUBjO5d5612Zve8dYyROZQL9VTA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Toeknee “The Italian Stallion” Castillo
+        uri: https://maps.google.com/maps/contrib/118326316622410690093
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWE7M9oFqfZPEP8CWL0oAAj7VFA99wf8qSJdOf5BVStXWQzm0ZC=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpn5SOHA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpn5SOHA!2e10!4m2!3m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65
+  - name: >-
+      places/ChIJXegUymrTD4gRZd5LYkvw4Ec/photos/AUy1YQ1_t1QqhHY0phrWXJMUH_2ZswNnaw8K9OHB29Gpk7rezjeJdHnR3AbZ3wAPPqyg_6W8-WkJUNP_elhar2U95rRoETntJD6OpS1rZnpguIeeheYPhYv1jaEf5Ni-9784JXpTCtDjvRiWJgDMa_z9T5MUSOozI1Mbo8EmjFa2BT0vIbQoj_gmBd4fwxBbITvuBqZ6WzlUo8yDPEgQV-FNwi9VkwNjqhyhRRGP1H1UEOdyiA4kjO4fh1BqyUudyL-PCE1eNJzuRb2me5irBfxd5dK-0t_3eVHQPjjZdKan3WB--2Z1PZPFnqGPr-sucd_Zc6pmHO56nCaLTciPqOQ1uU_QwrezROMnS_0i1EjHURpyPulapVBhtkX15vUVfkMgjTtIDDlLH1e1ivOIYRSwq298zBulB9Fm2L5LFFLS3G727TqM
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Jennifer Winthurst
+        uri: https://maps.google.com/maps/contrib/106162101732514347568
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtSLMznesewpGWgb-IVVskSejZnhSv0nvwMxpvlDaNzYeyLZqiCw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJtImS-gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJtImS-gE!2e10!4m2!3m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65
+address: 1950 W Division St, Chicago, IL 60622, USA
+street: 1950 W Division St
+city: Chicago
+state: IL
+zip: '60622'
+country: USA
+neighborhood: West Town
+latitude: '41.903384'
+longitude: '-87.676954'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Little Wok - Wicker Park
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x880fd36aca14e85d:0x47e0f04b624bde65!3e0
+  placeUri: https://maps.google.com/?cid=5179403778038423141
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd36aca14e85d:0x47e0f04b624bde65!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x880fd36aca14e85d:0x47e0f04b624bde65!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd36aca14e85d:0x47e0f04b624bde65!10e5
+primary_type: Chinese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Little-Wok-Wicker-Park
+
+---

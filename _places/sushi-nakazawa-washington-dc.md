@@ -33,10 +33,6 @@ city: Washington
 state: DC
 zip: '20004'
 country: USA
-address_html: >-
-  <span class="street-address">1100 Pennsylvania Avenue NW</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20004</span>, <span class="country-name">USA</span>
 neighborhood: Northwest Washington
 latitude: '38.893707'
 longitude: '-77.027622'

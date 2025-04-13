@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Quick Sushi Santa Rosa"
+permalink: /california/santa-rosa/quick-sushi-santa-rosa.html
+stateAbbr: CA
+stateName: California
+cityName: Santa Rosa
+place_id: ChIJ_xlCrR85hIARogRUlsDJpn4
+photos:
+  - name: >-
+      places/ChIJ_xlCrR85hIARogRUlsDJpn4/photos/AUy1YQ2LuqdYx7RzwLuk8B6SXVUmr-hd9K6kAvj19Biz58g19VuOrTl6moAuF76JdcMsePp32mU1-5pgNiYHL5VmuK-J-EEOR3MU1eTkFFdVQwYCqiNbiSChkNJdmFzLUCYqC5iE8bd2eMFOFtV8QWLSioXxqKffWEiJnAx59l0qm-CQEF2yen2lO9uGohP8zPAf6RDI5dWHtC0H_MmHo627J_bbpU2mZrhxRDykGirTEFcn9ZKXKZqinB0mT7a9bsgpZTxCDLjWEIWmj-Smj74b8YFeyL3RIOjqE_w-Rx7zM8V59A
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: Quick Sushi Santa Rosa
+        uri: https://maps.google.com/maps/contrib/105428293725756333866
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUkjnz3WCubGFY2olD30THWLLybDhjbo3acpJIMHjHMhsEmoyZw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP1Nn3tfVJLYgLj7ZQZvqAbVWErIu-03EAzZUCn&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP1Nn3tfVJLYgLj7ZQZvqAbVWErIu-03EAzZUCn!2e10!4m2!3m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2
+  - name: >-
+      places/ChIJ_xlCrR85hIARogRUlsDJpn4/photos/AUy1YQ0cwxryfpy3Ont7NiOuBxIqo_ypUhFLesLv0hQyx12V4-Hw8SbSQ9TnJoJDKklqgJANEDiH2WH1WMMkq8BmZY8FIlVEC00UvDZWaviVLDAJutJsPUriaCxveYHrfMcpbY5BU-4wc96rWT0TBUB-MOyVN6Jkb-msIvNFx4J7bkkXC23Us8dEqoKFZ2v3-tn5EUksFpkuOv_J4JqF_cZ2peBqrYtqrn3L6IrTo5GouKMnCcQ7bMTA3ndwvZucm8PJ47AqiIT9C7N97CPQeG1-HLQJqUPNj5p2oS7s_Ceij23ntQ
+    widthPx: 2862
+    heightPx: 2862
+    authorAttributions:
+      - displayName: Quick Sushi Santa Rosa
+        uri: https://maps.google.com/maps/contrib/105428293725756333866
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUkjnz3WCubGFY2olD30THWLLybDhjbo3acpJIMHjHMhsEmoyZw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNcyqPEAh56wZv_XbqKu1Dw2uIeuxs8nkr-N27X&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNcyqPEAh56wZv_XbqKu1Dw2uIeuxs8nkr-N27X!2e10!4m2!3m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2
+  - name: >-
+      places/ChIJ_xlCrR85hIARogRUlsDJpn4/photos/AUy1YQ3qUrr7TreCNaqgW04TZ0kB0ehguUXJC8UExrt7ZksV0XSUuHjkLUyjGkfgehqk4jX9DbseT0Rq917kst858oyFQKG6Y2_IJVl9kVumlGEkS9JJWfLrFA3DSsH6DRNUszymC1MLRzXXbhEHCzSmGW47Nz8U_SIQLl_r0GZblcfv_U1QjUwhQ8jsx6X0jK3yUGQ3sBhVKeRREEiy3Mn3ktDOyn_3JKAcIr9Zl_Hg6FOP0PayFF9mE8vAp6472T-RnB2IAgrftg4U6Y64m2GE58YOGTkG_y6H4Tatf8cSB_tOnTRrfkvF300IYsNf_TIn5mwTbm8rdYYqnDZyrIe_F3Wgp07-Dkm9rsxiQN-bltu0vyyHgUWF81FS6W9S22tEO8W1kAgDwUwDpkKKpnrlA9FMikpZxIqfxO9GpT1buOszyw
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Bobby Hernandez
+        uri: https://maps.google.com/maps/contrib/107695196373900237655
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU2iZDMAcQ4hQySGn46wsXwFz_UTSfN_R3r0a2eS4ytmvmD0Pd8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICd_5i-Pg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICd_5i-Pg!2e10!4m2!3m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2
+  - name: >-
+      places/ChIJ_xlCrR85hIARogRUlsDJpn4/photos/AUy1YQ0OkeZoD90zC0oKqVoE9qI6f7CZzi-Vc8ixbUpYQYEaM8DLAJQo4aO-c3yT1XLEh13qVZ54TjAxZql0T8-OcLETW96TsjIFnkqKL3VmxO3ymvMIBCyOOIxBNYpal5vuE_wO5UbF3u_J4vSb0oRiI_EMVQ6hqTJwMxdwG4k7E2XmvrglG3wAOZOIHIYf8kDVshNJV7aDxD49BEovH8yLnXBbnjkUauqDHr71mFBIKKbEvjykr2k8isUVhYOd5hcJBHweAv2fAny3b3mVmBS9HHW076qfpYC-eo24haJpbfy43nFdvzMTzXyaSNWwc9pXTea740W8Rsjjw1L5QlrJitV3AYRwFeyKlijzYXdYNTBtceJz3imiqJWQBItQdZFfbXhxC5vwWn5WZyMQ8Ip_GaVS5_woTff3zEj-4K92D9_95f60
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Joy Chang
+        uri: https://maps.google.com/maps/contrib/116423756029931305391
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI3e3ZuZm18LX9gJ5Y4I9RHEVibOICljN8u_N05oDdR9v6Gag=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA2J7MjQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA2J7MjQE!2e10!4m2!3m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2
+  - name: >-
+      places/ChIJ_xlCrR85hIARogRUlsDJpn4/photos/AUy1YQ3rHPPGTxtlH5IxR-RXbGhWLjWEzmLxqbzBwPszEjWch-oYgLQqxy2J7rnI5SiGv5C_SU6lsvZ-9-mgCnfZ4A3Y1yiQX3CYOHvhoYIF3iymV7D5LPeCkgmpRuZh5KYxI3TlCzXCmJ3z1SM2y1xlZ3kgTU6wmVerw1w3x92jBB1pkyxdDlWmbNC_gWI5xaOkkBWZAjRUljGGWe_VEI7hSLMB-hrWFHhqK2DVd8QCS6BGktxcNZBTyCXhZbwJzg3RaDgdfNWBDC9UgfbB3xu3Ih4R-V-8aC-pncibFWJ_pD7Uzg
+    widthPx: 3840
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Quick Sushi Santa Rosa
+        uri: https://maps.google.com/maps/contrib/105428293725756333866
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUkjnz3WCubGFY2olD30THWLLybDhjbo3acpJIMHjHMhsEmoyZw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOkUIoN63ZgOaY90gGNJZa4brc8Zd2S075AtdLf&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOkUIoN63ZgOaY90gGNJZa4brc8Zd2S075AtdLf!2e10!4m2!3m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2
+  - name: >-
+      places/ChIJ_xlCrR85hIARogRUlsDJpn4/photos/AUy1YQ2iZ2n1-GzmQnOfyaq-W65i-eAWXPEFnfLrvLXFXgdYOlRrh_rlK4JquXg3qHF3P4wU0rAtJnKZAiUMh5SrvKgQKRwtZa5g_au0yx7YGc33JeLx3hAtQcNYp1Z69KGSDqvVBBjX6LYODRxTmfAnAAs5zVB4QnUnKmdzjaDkM1ms8NC3g97T36m5dFsEHZFqL2xIB_sKHoGN1B1eZeCaKFhhW0a8ZuxL86lzpftkr6-2SCaF7qLg1lez5OxKJRJMpXG1KbgFQKrDJLXqMKq4IgQ2dXtXlPlo2Av2zM-XlO86CA
+    widthPx: 2873
+    heightPx: 2873
+    authorAttributions:
+      - displayName: Quick Sushi Santa Rosa
+        uri: https://maps.google.com/maps/contrib/105428293725756333866
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUkjnz3WCubGFY2olD30THWLLybDhjbo3acpJIMHjHMhsEmoyZw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPSzxUjs99PYDry66BVYQpqDjNJnuatknIMG-ka&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPSzxUjs99PYDry66BVYQpqDjNJnuatknIMG-ka!2e10!4m2!3m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2
+  - name: >-
+      places/ChIJ_xlCrR85hIARogRUlsDJpn4/photos/AUy1YQ2BEeJbc7wwotEYQ5tOTeaSfTLtriYM3onQG0Qultr0c3Oz7kxxb45fmZy7rFSnfiZzDGkT5S1aN7QqGxRvipCCASbPESqC5R2lRFaPM_FF_VfP5YyrieuVIgAKXEX-Smhk7an_pY7huVQoEW8emF00YQKnLsdHDRGgln2PwHhrTZHRzcedAG6pIIVPnlhglZikyNnR3V1vEszgbhx7FA0KaCNmiZjgXbFhqXIeMg6dhltJyPKgMeZA0WAJ2M82VoatIXUz_FvOWCHBdDDrTzsvpV9INNc4ADVWL4VK7-QV7g
+    widthPx: 2129
+    heightPx: 2129
+    authorAttributions:
+      - displayName: Quick Sushi Santa Rosa
+        uri: https://maps.google.com/maps/contrib/105428293725756333866
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUkjnz3WCubGFY2olD30THWLLybDhjbo3acpJIMHjHMhsEmoyZw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN8rjwNnkDQ4zTGeLGQHRHIuqHBtwDAjcr6rv_h&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN8rjwNnkDQ4zTGeLGQHRHIuqHBtwDAjcr6rv_h!2e10!4m2!3m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2
+  - name: >-
+      places/ChIJ_xlCrR85hIARogRUlsDJpn4/photos/AUy1YQ0YywKiQkEfdxUKo2IQIgbVNWhY0Xfv3e4UCt_kpGF3Y5Qa2h4V7mwTtqO1yZpe7abx1NZZ7WI43-IfIesB4I5xT0sFEsRp1JbjWHGVnk9i4hiV5TLAN_AAuvDpjBTcXeyVhfUy-L0KDGmw6SS1hN6XBhv0t5u8K_rZ_qZYm6loHwi6y3vyhsPS0Zno3YpDZ6YmGfxwd5nqGSAw2XOKENvpMh3miMginJWrpM2nIvhqjPiUmxcuRQgz-wvN9KGIiJrB1j3zA2QJNkS6tX9CQY219J--fSp2PF8eS9ep_bWo8rUWMgJU-h0GvvuignqH5p1CqmpJ3OCspRhW-XrTXF-OruvAjtb9X0YaJjKLDo2uKXOGVps6JEcA6DVn7Px1RMa1PKlRkSy83lp2H97FS6K-_RJs99BtSfNWCggRj0L4jQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Yu-Ying Liu
+        uri: https://maps.google.com/maps/contrib/117244844125287623025
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVa2UcaVVR807rhQtK3ainreYxM39NxgM02mNP4vJdMkFbSjZsNdQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIClnsaxfA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClnsaxfA!2e10!4m2!3m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2
+  - name: >-
+      places/ChIJ_xlCrR85hIARogRUlsDJpn4/photos/AUy1YQ03hTc-T6ywqx8fjKW0s6PSeKcQP8rOjuRLlrCp-0uRsqyo5YrO7pSc4Z42lea7-45H8wbhXbUwWQtW2jx0UxDBwTfH17K0lBJlBDfVmEIxkVqy9ASk4s_P8wYmqWFbFHU-PpFOyWE8n0V7n4BD55PjByxkda-mW1XN41Ka3iZJFHrEjFU7YMZyMTDHMF192cuSyRLiswqs0sTlK50QvM-GUe8raYRpWQ6hQO4P8CMSzjoAjNhkRj3ScKWEi0v7br9nGPyKCzIflFPECxJ9oKdmk7jFRAruNm8GXlYGStU3HQ
+    widthPx: 2926
+    heightPx: 2926
+    authorAttributions:
+      - displayName: Quick Sushi Santa Rosa
+        uri: https://maps.google.com/maps/contrib/105428293725756333866
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUkjnz3WCubGFY2olD30THWLLybDhjbo3acpJIMHjHMhsEmoyZw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMa9k7StnHcGGOwJRUqFKoTCYt58pzKWD0ysyFy&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMa9k7StnHcGGOwJRUqFKoTCYt58pzKWD0ysyFy!2e10!4m2!3m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2
+  - name: >-
+      places/ChIJ_xlCrR85hIARogRUlsDJpn4/photos/AUy1YQ31AUVivHz2S0g1OtCLorjTGuMeiJx9RrifxuhqUG1mJ9BC33X0OSUmKIcHt-HT4YWbSdiENY1BZWvH7ew703HzO5Z-PcwD-ZZdsVyFFL7MnbWgoMQ5TNJIEL_Msyg0WlqIyajiIxkFeAsk8Q8YttP6mNNQxj824Y4FpHHILYHTnjroctizPrQuxfMqmsg_m_s5cLgyzUFJcsrnjUaAE6Le-RkvlnSJzHv1lRmvFRdwxibl4xt5TRy7JeNGQKcEoXqSjBcMUQQQkeCxBYzcV6KJHvJWYn5eFjcQw0uQhtCGfA
+    widthPx: 2781
+    heightPx: 2781
+    authorAttributions:
+      - displayName: Quick Sushi Santa Rosa
+        uri: https://maps.google.com/maps/contrib/105428293725756333866
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUkjnz3WCubGFY2olD30THWLLybDhjbo3acpJIMHjHMhsEmoyZw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOUY-dSjDqxQYr_1SIg_eC-o1iyh6lVXJeaGgdu&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOUY-dSjDqxQYr_1SIg_eC-o1iyh6lVXJeaGgdu!2e10!4m2!3m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2
+address: 2500 Mendocino Ave, Santa Rosa, CA 95403, USA
+street: 2500 Mendocino Ave
+city: Santa Rosa
+state: CA
+zip: '95403'
+country: USA
+neighborhood: null
+latitude: '38.465466'
+longitude: '-122.719170'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Quick Sushi Santa Rosa
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8084391fad4219ff:0x7ea6c9c0965404a2!3e0
+  placeUri: https://maps.google.com/?cid=9126203523905881250
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8084391fad4219ff:0x7ea6c9c0965404a2!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8084391fad4219ff:0x7ea6c9c0965404a2!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8084391fad4219ff:0x7ea6c9c0965404a2!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Quick-Sushi-Santa-Rosa
+
+---

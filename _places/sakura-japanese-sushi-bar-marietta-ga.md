@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sakura Japanese Sushi Bar"
+permalink: /georgia/marietta/sakura-japanese-sushi-bar.html
+stateAbbr: GA
+stateName: Georgia
+cityName: Marietta
+place_id: ChIJ6TUMxbsN9YgRly7sCtUCuTg
+photos:
+  - name: >-
+      places/ChIJ6TUMxbsN9YgRly7sCtUCuTg/photos/AUy1YQ22OGBKqo3wfWoHPCbmQ5XA2tL9M4H1Wd3dfUwi2hAUHPdwJNt4oOFWlMQFkANvt3i613PhMWLdkLXYaI8jOFdQZnwvf_mmxTLXefwPeeetv3JtpwSOvRpR8omQ5SxfsE0qh6YyKrJH7sp5ikX6kpZitO5Gb0Q5qzJI-c_OkjZrExslqOWMzcdG3Kai8Xmk_A8DfUz2fwOpLEO7T6muKX3JXl7Cnr5LIJxbwZYe09jyJfdjJNSxaMx1AmEKcUc-HaN503NuZ9t_nDjcwbMuQ0qzdDrAcPl7Q_ea9wvZkM5acht9lIccZCrGlDG8jhkDGokthGds99HfD1GhmN0sMll-VaPX69hjTL9vi7mXBvJKzHYv2lOt0IWshZu2boStYF6rLuNklxa7l4NGKYefYJ1QneIvr6sYKaESnMxXFPho0Q_F
+    widthPx: 2610
+    heightPx: 2145
+    authorAttributions:
+      - displayName: KaraLeigh
+        uri: https://maps.google.com/maps/contrib/101592386894931194884
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXDzv4mvUkyTQqLuxhgz6KxiHiP3LWvb__MsKuHB05aVCckntobgA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDM7IjAkAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDM7IjAkAE!2e10!4m2!3m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97
+  - name: >-
+      places/ChIJ6TUMxbsN9YgRly7sCtUCuTg/photos/AUy1YQ1wCaUqNOB_zw3S-YtoCxEQYlncZgoqQwrvACJLcflAgKIlizW_GFc596mrDrVlYzAbJTE0aPDGghf1OKOj9be54jVAcZY5ltTpnTKvjrda5ihCtfi1DmtwVSp2UueOUeKENEABt1M3CU3TDSYfhRsSGp3JVOT7bBUrVzxAdzbaOf51C_MkFAEqy6_r4nvAU1M2DRvuriOiwlLaa6uURTm1Y1TwuURGn6N5JXN4hbu6mpjqRus8R-lKKnEPYZQVI3eQV3gd6SsiIQnrAfskPNxs3UDioAoHhE7cSHvjjfemiQ
+    widthPx: 1600
+    heightPx: 1200
+    authorAttributions:
+      - displayName: Sakura Japanese Sushi Bar
+        uri: https://maps.google.com/maps/contrib/111331339856806812220
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUHgiN2eM95piUY5hIoVnBVH4S55rIppKyNcWQagPIl_ZpZxjs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNz4tjIx00alumKhR43nlqTOSNI2ohBOaGOTfxd&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNz4tjIx00alumKhR43nlqTOSNI2ohBOaGOTfxd!2e10!4m2!3m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97
+  - name: >-
+      places/ChIJ6TUMxbsN9YgRly7sCtUCuTg/photos/AUy1YQ0a_6Jg8Ca-d5dPBex4q6mj6ZRtxiExFFe9BTaZAw4O_R1kBw3-q3zochZt1rrjp-L3xLaH5m1bc4UNDF_Ph4GVxtG-5joEaqgsjn2tB_DGie_siXDzmLqnPmsDbM-9N7RwceEFLK21uScXanvnjwH0nakHoaicQF-q-DK1TDPVFRcjPrKLVEZzJwcImJoYKtOLLrKSK3zoEBficFCN9nkxPGtSsdgNrjppwwADajCYbxlUtZ-z54UIwfXa8geyi2uD0OviNsRIJTNG-Vfboex1Ld-sJrH-pKpInvU00k0bAUmRiycMEanlp1GO9m2dy9PY8AmCwsbPxgS8JSzOZgWtHV1gu8-Wc8CEtfsCAoMVgT7YBTAgDvXp0I8oyJzXk3ghWvT-5pkI0--lg_jXPvLdQ6I0zNkHsxBeY7uz278-8g
+    widthPx: 1440
+    heightPx: 1080
+    authorAttributions:
+      - displayName: H W
+        uri: https://maps.google.com/maps/contrib/117154352627935919990
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIUFd2gvvFVU6jyHBsKXNQnJEUhWtaJnVYP6-NSCvXRj3lODQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgyPG8Qw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgyPG8Qw!2e10!4m2!3m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97
+  - name: >-
+      places/ChIJ6TUMxbsN9YgRly7sCtUCuTg/photos/AUy1YQ0fippEMtQJsbxiYormxHjfT0oekG8eVhCur1HA4UAR7lBs05Qyv-UCPD2fkJ5WrDL_ToRWIDLR8VHi3KaYQ9fN-cnoV_p9tf4XMB4sWsOsXArBStCneftKz4D3jisBR7Fycp9puXBrlse9vGROxucT8qn77reVhC_kO0oFb8Q0R0-4aySS5BPS1hShEqufB1xc9BedG95wt6pAnnMANqElJSs29b_VHY81oyUBmZjf-1e7UCR5k79gO5dSUZykf14AbG8v5rhGWZxqHcMqKqnkgZkIbSBOFRY5yDnHdmXeb6q95Jd3tQsLeCaWuEQwC1hE5LibgX8ExVSq9ngy9MmBHA20J_6xcpGyzFfzDVplnWMlCnP1T4A38SZSjq11BKQyx7BvTJf4AumDKUfSEvdpTVt3PfMr8H3YOFO501TBXg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Will Harrison
+        uri: https://maps.google.com/maps/contrib/100060856140204426562
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKQjf_dgjh4DyiD2OwPjdBjHA251Iw7Jbdw6kENYv5N7PcrZZA9=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICy1rzEWw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICy1rzEWw!2e10!4m2!3m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97
+  - name: >-
+      places/ChIJ6TUMxbsN9YgRly7sCtUCuTg/photos/AUy1YQ1B5dafALM1wbvAvmz9le3RLQVtGmI1y55eYw5YoXD65t2rkbgwajxletvnXvooL6Dq3e681B3GS9zwKV0eZKWBh9Oc6-o5my1iq5tB1RpE7d8yqXPko1l0qtcUQKm67S1utYc4YIa-ZwD5bwKca33771VHdFIYW7CPQmXzNy3ieGeKhPAPSiJQEIY4apYPnn7XO7TgF9ckCynNSPQecOKbr49Uyia7XGS3W7DTW6UvIKbosc8moNegp1bANNHK9pyebJ2-dbAbNoBKV1y_zp4_qqbcHKDrKRdjv8furgkVKoiA4pihnwkVuvWnihXKTccNdQMetbFY4cDilD9LkPmcmjo0mzazH2PCzDI0Kz2piEv7qH5-XBHU6haLWRRkDWZCUsgXnUCpeUhtQY0lAnfh4Ob9V4CydecR9Jdti6_gAKnh
+    widthPx: 1676
+    heightPx: 2696
+    authorAttributions:
+      - displayName: Ferrari Guy
+        uri: https://maps.google.com/maps/contrib/102056910084280170942
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVpTQ89WcSOJK3Kj6SE8HQsZkE35wvGKxC6Hg6P_6bt_aHU94YI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu4_SulAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu4_SulAE!2e10!4m2!3m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97
+  - name: >-
+      places/ChIJ6TUMxbsN9YgRly7sCtUCuTg/photos/AUy1YQ327kWWAmJIuLjR1BW0eqeBLb-IkC-ujCXQDkwF5tZplXtKAqao99iuCXNmXhU-kDahPh3DAafeFZvhHPCUX5dvtLwljiKP4YMryHpNRvfeiTL2TSY7VE-SiLwtZnIgaazbw7ZfGISMltRQ_Bb3Pw8TgYyOl3rZgTcOYv2lcI3naNiPAY28tMEQ-MSHohXxJRhT7F6yb5CZvg9ovYNQMRZjBCQojb85flPSvsHJA5pMeeuK3S1cZx0s6awZ0rkQBKinRz7wUDZ4cRYKZRdrqH7EDtlndLujXCqApkp7DYX724bdz4Rq58ce3Vg1jOP2pfU_WY-Efyprm7sZ6Dbj-mWYyImhgCKXrLAFDcoPRsXPiGKvw2Lqexxmdnjn3E3a1zWz7BlyhC2Yd0fFeYf1G-0Ug0SUJXmh85zNYl2tZ2c
+    widthPx: 3996
+    heightPx: 1602
+    authorAttributions:
+      - displayName: Ramses Batista
+        uri: https://maps.google.com/maps/contrib/113994921457545723371
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKKC3PUsn_4ht--YtPhWpwbM02o0QZP4yylUvyS66nIDYFIkw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDa_4qdcg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDa_4qdcg!2e10!4m2!3m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97
+  - name: >-
+      places/ChIJ6TUMxbsN9YgRly7sCtUCuTg/photos/AUy1YQ3tnHl6F3VrNj-4YG4nQ_NXZjFAM8r-B9lxdmbR7-hcZEFlbLR7jKyAPuZ2F_7QR-p7tntOJa8WAzUbhKnSQObf8vJRQaPpDnJYf44FtGGOkagWHESp5NgKOrQYCImAKEuCq33WUkejD4aaTMUhVuic2tly0E2e2dwzIyLVQnlP9u6SR9PD8ewkBUTMR0UUb1ihp8nHupa32L6hL4XvFn2imWEYp8bUYUi84WNuSdic1zFb6ImuoIMAASYaq5YxmccCpdK_X3vpVsAFVGvuqrLQhwsowS8906KZqEsn7MN0kErtbA5nJk3OkxfrQw--aP0uGbC_ePdlX3HNjfHLjE_zX0ZvtSw-ILAIPwkYhhIV1nuOrYbk2cMQnhT5obFKIV6yuZ8-JCkhjcekmbU4lVc0fwqpVA87rhNc9_gN9TNEuMzs
+    widthPx: 1918
+    heightPx: 3123
+    authorAttributions:
+      - displayName: Ferrari Guy
+        uri: https://maps.google.com/maps/contrib/102056910084280170942
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVpTQ89WcSOJK3Kj6SE8HQsZkE35wvGKxC6Hg6P_6bt_aHU94YI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBkYCR1QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBkYCR1QE!2e10!4m2!3m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97
+  - name: >-
+      places/ChIJ6TUMxbsN9YgRly7sCtUCuTg/photos/AUy1YQ0aj-W04b9Y3KpNQvQfufS1dN2U_gY4DFjJTITL7qS6efuOsxy1ARiDQzfMFfnhnquc_9LkAKyIb9p55jxe2S1BoJPqo-khVHoW2LU9tdz_wbKVyX8d2nSey2b89vf45vwNa9L8Zl7dvLOuyA0clsOCXf7L367_PvGkgqQ-k8uqyrk_ws4Phxa2RwvVYN8b7_1VVieNZDYWTSw7dU8tKy3nQcOnTkXZMl7MXNl7iBwunB1CdfllESDMCsGIh4_w3S-qysI1aUZI-_8Od_m7GEYOn3F3tFwwl37-0zKs_zfYkqZ11BXpRUWld5wtcZJfCo6Tft0kkTFw3gee4mKGNiBv8MGDu9qCppoXSUmPXUya0RiFy5zX_DwHw61frg5c_6z21FcGoj5oWspBnUNATzep93Lmoioig42tNYDbcB2wzQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Daniel Rybin
+        uri: https://maps.google.com/maps/contrib/100299129213691245015
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXnAGT4zSOSw8nT8g253LbSSmfLwGgrDHQiUxL_Jf-wm3Z6effm=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICK0cHvNw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK0cHvNw!2e10!4m2!3m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97
+  - name: >-
+      places/ChIJ6TUMxbsN9YgRly7sCtUCuTg/photos/AUy1YQ3KIdBw5zolwlU-WiYraRToquWUBu7Se-3yaJbqlhgY_MBPmKFhzJhuI2RugzVQdtXWf-EUDU9mB1h4h9XBeIxXafS-NGDwrNck948hsm85bWhNFYOWk7zTn20LNSxO1JqYhpHgct9c86UfjXh6ZDCnCfaDpXQ9QvbWZdwDeq4RnTJteRy0NpZU2jbM8aR7ntM8bWMk_A5zHj-L4kBX5Z8bUQFk7h5ezYIPgQbNQDwORtdleJWpmRatrIBuk4BKXMINszmyDBjXx7iRpdA9vqzCgJ8M3ixUANlOnY75vuJTv3J1csVaObATnm9AgBkt-EZ02jDYk9ND07w2SYk5KUZ3O5vC_slSxzbqT8U3ZL_P0HFEcn9HrLUFfb58mtrDwisHXjbfacuL_J9ry3BTOvr7c9sFBMUkjYOq5jxgSOw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Elaina Lynch
+        uri: https://maps.google.com/maps/contrib/104087936841751232501
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV8Sl-4KFJg7hsEtNNcZUGIbFl9d9auzW-uHZCF3bZqp2xAGWdL=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICW8c7DFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICW8c7DFQ!2e10!4m2!3m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97
+  - name: >-
+      places/ChIJ6TUMxbsN9YgRly7sCtUCuTg/photos/AUy1YQ191nrW1EuSDUV8jvVUIfULz4mBGRwTIGrYpwG1w0_50hz8ueLvxYjkA92RvxUHHCKNoO8gphKwAWVQUSCnW61Xkc_6t-AiS9CgakhL22Mbnm7u7f9WToe_r25777DQeFsAoWeC3wWk02YA0sRwg2upaQPNh6E4QIzXTaWo5PMdGYxoLdObbilKRQxUCs06Ptyxh6Zdaq7lC3cl2Y0V_9lKGjZRV1Sghg8VfmQ7YvFXAiEEgIGOYA4JsK7S-pBz1-HNg81m1T6CF0wTXWGK_4SObgeAywf7jNLXeY_ono5jp9pVWJl44oT4vgbzrllFW3_c3y--MAzB-ocYLa_9U0Bq8xGEee2zStdb0jBLkZYuKmNs3weDvr3fJrHbySk2ruXljyfPlEj1FOs0LADBJuMykIJ47wMQVglku6LPh6EiwrR2
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: KaraLeigh
+        uri: https://maps.google.com/maps/contrib/101592386894931194884
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXDzv4mvUkyTQqLuxhgz6KxiHiP3LWvb__MsKuHB05aVCckntobgA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcxM7sswE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcxM7sswE!2e10!4m2!3m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97
+address: '4880 Lower Roswell Rd # 130, Marietta, GA 30068, USA'
+street: '4880 Lower Roswell Rd # 130'
+city: Marietta
+state: GA
+zip: '30068'
+country: USA
+neighborhood: null
+latitude: '33.965554'
+longitude: '-84.410578'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sakura Japanese Sushi Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97!3e0
+  placeUri: https://maps.google.com/?cid=4087301250849975959
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f50dbbc50c35e9:0x38b902d50aec2e97!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sakura-Japanese-Sushi-Bar
+
+---

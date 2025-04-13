@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Koto Sushi"
+permalink: /new-york/brooklyn/koto-sushi.html
+stateAbbr: NY
+stateName: New York
+cityName: Brooklyn
+place_id: ChIJvdUj2a5bwokRTQXpiCY-yeU
+photos:
+  - name: >-
+      places/ChIJvdUj2a5bwokRTQXpiCY-yeU/photos/AeeoHcIH6IKhOuE8T2EKlYnwi6No7skTRCon5SNvLKgWH6a5P97X83FmHLOmEH1gQBK1MNDrl4YEejZ9f5eIxESrKqLfZgzwQCOwM8_TbIpx-ujxybq9Q_inAEFkju3DKTNKJ27V-IbwmIxzR9rN2Oyx9u5J9IxjM-gynxCL3JTj0EdU1pYJdg-DVfHF7Aaeq8a9tkkHDJ_tL8kQNcnsG5jHvFT9Q09e6x_1eCS-or3MRLuqlsQ7LN5RVakrLQtyh3GUTLuieScbGh0A0P2X-FiU7FGL4OQjByHW_lc4SId5RF2hJ2unwXFEoMBQW_yr2BsYZOm18gOtUigswk338TQtAgcorNWXGVbiFWb4ONwGgL7LO5-NLJj1McjKfkq7kZWOI4xoAzD4AEdmLxFnB3KYm2OQI7J1ntxED7bOjEdpISg7z9Y
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Matthew Wong
+        uri: https://maps.google.com/maps/contrib/112680927622963588235
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUfqsS60FAML2o6yY76tWOqcp8sxOfegEH4QARAm_sTCMLxbhs4jQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICahuL-9AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICahuL-9AE!2e10!4m2!3m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d
+  - name: >-
+      places/ChIJvdUj2a5bwokRTQXpiCY-yeU/photos/AeeoHcI3iDori89lzZ30EXjFP7C0qPDv_XwIa9sm8yLlcipru4BvnBKDJkPhEtqUftFOIhZ_-BFM-lV3v36gjPMMDIQBL1FnvCqKfE_RIl3an_fbmcGW3LgsJwsbwtUQUyAzZ5RDmYXNWFNi6j1MvJmFM9AU0y0ZLPGtT8Jsmi0sCpy0Q39yAizI7JSX6NkKN7bNbniWh9UuVzVr0xIHPxFVuaYD5VLLId1FRJx2eXVnWfMukkma3vR_ZD4RxabJ_SUDPF9861rCeJctAIPUYfNpYJ6dX_sgUwGnZvTL73kAwu2l1vkMT1xu--70fRz1j2VcrzqwJgr1NIK9BL9g7nb-3QMY7ZQGI99e9yAmdnSEheA87BtQFLjLu6E0t-TJUCSlSZgmBHINsC86QBnZtuFscQk39Et25qq0JKMsY8YoZk8W5OPV
+    widthPx: 806
+    heightPx: 621
+    authorAttributions:
+      - displayName: Sawda Akter
+        uri: https://maps.google.com/maps/contrib/101827392675523654874
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVX-v57YvoEfaGmNb62J6IM-Ty40dh5z6EhQvl2saBiV5vq8vmUnA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOpcap3gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOpcap3gE!2e10!4m2!3m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d
+  - name: >-
+      places/ChIJvdUj2a5bwokRTQXpiCY-yeU/photos/AeeoHcIHhVZa0p3v1FI5MthTH8SyD2gTuxjwoadPyces3SOMqyMjCVSTyV2FBM-rTgizyrDybp23GEKAVVllK8205jaTJdp4TD-9i3uNAbxouTxCdm5BY_Qk8d3ISiI5cz49XVNJ7JH5L-PMBeMjm22Oj9CAUD1HRWTNGIDuZRgnSKOdliejsGssk4id79Jk8hJd8FIy2rCVNXdFY-ZJO2gf0mTbRM1U2unGPu3SWrPT1lhrSIPjv7_sHlJN2xLV43wMRi5p6CXdFj-VkGs2Ca0NSff5OpCis79dRq9bFYf-fnRwsPTcmiCObj59vaqrbKmm9x9X1NRb1t0OLv7a5xR_awW9cSfdkvy55GAKQV5ytVze0B6h5nbE4dkRkJpMP7SC6rAQ-kW2bR6i6Z9ncb3lIlmuRlfOsqHzNg8iH6jwgL1RaBY1
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: L L
+        uri: https://maps.google.com/maps/contrib/112955767650689318240
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUqCFW8jl7Cbl1EdhAR5ewTpI62I-unR_CAhvOaF8Vy9SS9pKE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICVhuWbyAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICVhuWbyAE!2e10!4m2!3m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d
+  - name: >-
+      places/ChIJvdUj2a5bwokRTQXpiCY-yeU/photos/AeeoHcLgoShmzEitewqFkUn-a8b0aV9LP66uirVpwS9peYBOYOjEBmh2X2c3ceb2hLHfu4r-iFTQjIediF2JzbikvyMWbV162sWwbIa_3msZjSy7rpT2Y-GteTaWrkpLUG5tneO1sgcLFsCNUzs984i_UMLi82USY8uo2f-0MQyK5xTjQFjQ6rNVItHjhQIIuUWFiEt0jEWVN6Q0i86HoreG0W1xsGm781-hwi6nLT8yXUouEqALZgSowh-ltRSTS8VeDCCxWc3kQ8Y7s4rXonv8QeJuN7Zsk6JCb-ROIeij6osSqQN1Scqot14g3clV5V6VZhJuoSsOAujce_QzZ5YaMDB7wlmbT6g4CTjpTcyTkBj-Fq0Dz4G-UW0Kgg4um00C4Df11ou-b3Z9RLRKObHawJxi1h-5hqascKM1Cwy3KHSXxtCx
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Raymona Jackson
+        uri: https://maps.google.com/maps/contrib/108089276983283091370
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJeAK4ahruDJrpgvCNI_LDR9uEWHi-OMohklJLdnYmq_FWYgg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg8L766QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg8L766QE!2e10!4m2!3m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d
+  - name: >-
+      places/ChIJvdUj2a5bwokRTQXpiCY-yeU/photos/AeeoHcL9zsZboRDP3HVzQ6Vkl6Z10VCDOzTkF8C5QYRayuACCaz7xBQOubpgMvQ2lJlrhTbs7fPNMeumxqEpKZPN5BYg9A9S2TaS0B6iyK8CxQYftGyC87PJ-i_lZWVGTI9B_kc6F-J3ALij_dEuU9Hd8iJ1dmpkSTH0OCDlnm32Z88AwPcTqhIUwTmKNgY8aRujP4grrn8zK51JecxkdM2boTV0S_t62ZWgPtUrNBmPf4f1cHGXoocLiS7-SxkLUgolwfWADnOntME-xGCnxUqyFH7w5SdVsmyEDlSYW6sCfoicu0EfiLlRz_xPLAEFTx6ldNeCMt75zvSJR3ouABXHLinJsjAvG9947T41YLI_86QWCWCdMRj_2Ho5bQmyf1Um2nk7mRSudnzUDXfK6ZaOvUpimnkgMzUfJTHPGxLvVyqpog
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Oleg Umryakov
+        uri: https://maps.google.com/maps/contrib/102533047176651714747
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIpcVVZ_S_w3Vsk5-ITEHiY08dJC87oXKi_FV46yQLeBXUK--w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD8dX5cQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD8dX5cQ!2e10!4m2!3m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d
+  - name: >-
+      places/ChIJvdUj2a5bwokRTQXpiCY-yeU/photos/AeeoHcK5ZF3Tfw9lpwCYoKQphYY55_QSoQOeCxF0rdXm1nKbDVwXGaiJP8fck7MmqAL3nBXmgYg8hkQp0436JOF_vlNmTtjwFnhdUEBCqjfA2UBU8nG1MlN_ZrxNtOBuu81VWuuzmGd8KUA1iLowgNj5ax86kbL_rojCNenl7dDfCuyhh7ibO22N0l5F8jRLexLkrYJCpzlB_PVagYmlbMwUAt6mqJfkwgs7Kq7Erk0ikq6H0qrIgORyx0hUEF95mrMMSbaelgaXoOwXpUyrbml7MoEqU40uuSQJiqt-BHbms9hvZZeYT0074FiploRcJgpaNQ9TwpCjaDTHJ4Ugl3ZGs8bmHz0QniOcaRFPlHePowTMr_VSpr80LrbbHkbPYzdk-XredxF8nN-jIbuWHG-wi-vfaWIGltyYhShCL-ceNN6xrj2k
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: EAM Vibing
+        uri: https://maps.google.com/maps/contrib/116229455988403294354
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX4fG2pLeYKg5liz5pDDej_sGJp5IFloXotL4Y5JKxH20-rxmSe=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDp2qufoAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDp2qufoAE!2e10!4m2!3m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d
+  - name: >-
+      places/ChIJvdUj2a5bwokRTQXpiCY-yeU/photos/AeeoHcLwOmwMjDZUEHDCsoIB5bGGAtZy5qxYU90nE6pDMsJYFdypbvjLcTrktXLjmXKHUmLepjWuA5aVHcBJLKj7y_0LaK3R8cJyVpaqwvoA9sc9zWeQUGDEj6xNnIu1Pc56yHqGN82uzgdqiPD32xlcbJW3MnkuA5RvxCJOH3TbvdmBiOXuv-uwEwcUcnVSlalluoDxbLChAPz3UAX4yhau1mUedmeF3ZThhF4MAXKoCOSZhXHhX_3hzZnDpn6HNt-QzE_UBVZxQCnB5G775dITMnAcasfJ3RVUUsumSZlQ6G2N0jdI5u7Urv3qAOh7-BzRv_v7E8UFPgFYk7oq2vZkULWGEHUZUS6bHABDkhRkHHKq-lGZawpZaTrWYoNY1cmw1YbSVC-rLgJ6V9S18iJ5Hpsvo7Dmh52N7A3uumrUnnZHgTRu
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: mcLa twofivesix
+        uri: https://maps.google.com/maps/contrib/101408599427719381927
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKIioHcllP_8dXr3A-pSsYn5U6eYHH0RMRoF1rqwFDg9sMiTA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICpt6eF5QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpt6eF5QE!2e10!4m2!3m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d
+  - name: >-
+      places/ChIJvdUj2a5bwokRTQXpiCY-yeU/photos/AeeoHcKnnIEqNg0SgbY5495efz2mErQ6Ov2h39bSFtgD51gsbYXvKvEKZB84AYrCGgi63uLzWxDdIsmudUpNOp1deM16qMO1YaWxxq6rSt3U9BIpxTLX6YcP29tEoDBrSsfoChs8-_WDqdlPtlySk29uhSUey4X4mtwHQG7UAHisk0-0vZlHTQzL8rFOoF3s1eq8njyBLT6BRfsVeRDGFW0Y-sN11th8akoWBiD2X27uYDVIYgHqplbLxYdvZ08EEQFuC8g80_m5eFzs6ocsOrmKNSADgTnBDUKci4lRyZyTtWp600Pr0P-Gb-LECMkQLy9GhBV6UfUssxw2zm9snn563hEDRPQZvJSaFBp2LZrW1RqMgrnYORZDjEHh5X-lnKGmm3axkyqAf0mTwjThZxqeka7JqSk2hN1xWnVlwsFuRkYCwg
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: Igor Kopeykin
+        uri: https://maps.google.com/maps/contrib/106747747025655479188
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocICqwH-N8auW2EwJkAOe0YOLtfuarn5nNIMg8e8HflEuMF0Jw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICUhuWZZg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUhuWZZg!2e10!4m2!3m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d
+  - name: >-
+      places/ChIJvdUj2a5bwokRTQXpiCY-yeU/photos/AeeoHcJJgYpLk1rEUPBNtnuBGmdmu2PvDqf1-MADF-ABUJnytzpqdeIkimS2IGwIbegA5RRdRj0l4UL7j35raYEkuYpZOnFPJUwhBaPC6oWLMPivpNgmGEtzFEaL83gJ7sYHwkp0AjMTUFYNrjd3st82kCV9H2QyyoAoPTEOTJ613NsvyjZBxnN1EQWIclEUR8njTXOdDc_YxxCnrbiFs5Sggx8qZxuxja7t4TtI2T4qV3eov2xv1NtyD3evIZY_uP8ksP6D4nn14mfbXmq5VR9G7Or2zTJ0SqKKUf-RekSXWhruyE-WA6cn6LX1eyl9qeTavNPrtpB0lVUj8cGbiO2pDnNC-H1HerpOtFZNQFGDcXMTnW3uW_44G0LiJHmACU7YJP9j1reG9opvd2p_J2gbSJt51T7-9-OBGpSJlgLhcWgZYQ
+    widthPx: 2448
+    heightPx: 2397
+    authorAttributions:
+      - displayName: Daria Butova
+        uri: https://maps.google.com/maps/contrib/110189635614420842915
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXGk76-dcHALBYA67HNhcpih654j95-aDLqxc0oWVqx4kLHCNoR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMm4y3Gw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMm4y3Gw!2e10!4m2!3m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d
+  - name: >-
+      places/ChIJvdUj2a5bwokRTQXpiCY-yeU/photos/AeeoHcLjV7buCJ_iA0muQUXOcNfYxQ3m6ro-yVoeYuZfktW7NOjsvsOMbnoJJDeLUqFrin8h2NbO55MTLSrXZLm_gjD2Ha_DEYKVNYHK0owTf7DoNsCh8o2mjx486skQkMiVh6tejExwhpPIaKA9mcuuTIT4NwD7Ee27txY4b7Yn9o6yufgqc-CariuXbt0-4Dsm-J8moKr7-yYNtH_4l16AnoJDR6kB_x1bVYwpPndLOXN4gWOVgtVvn33Fl1-hWXAkuLFg1ypmRVJkeiTkOnisPo67U8Sy-QTxKNhVwOe4geP_aQFbAODnaqj6lWsTo2fMa15eZtVv6INAcMQuHuRQTE5GMKcMkPSPeSXZsfKR-v4W27WG0xFpLMZwSf_ur2Vt1ySpnJGTZK-EUq1YgUkBl6Y2niOIrsk6GDSYf92lKGW39WEL
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jamilext
+        uri: https://maps.google.com/maps/contrib/102727041633263816114
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXZYrJ8iAktk_HL_OtZ9QJTl563_kANdTeXKFvCg8-8Ikk64VFT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4zZOvygE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4zZOvygE!2e10!4m2!3m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d
+address: 263 Flatbush Ave, Brooklyn, NY 11217, USA
+street: 263 Flatbush Ave
+city: Brooklyn
+state: NY
+zip: '11217'
+country: USA
+neighborhood: Prospect Heights
+latitude: '40.680020'
+longitude: '-73.974175'
+accessibility_options:
+  wheelchairAccessibleParking: false
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Koto Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c25baed923d5bd:0xe5c93e2688e9054d!3e0
+  placeUri: https://maps.google.com/?cid=16557833840230991181
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25baed923d5bd:0xe5c93e2688e9054d!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c25baed923d5bd:0xe5c93e2688e9054d!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25baed923d5bd:0xe5c93e2688e9054d!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Koto-Sushi
+
+---

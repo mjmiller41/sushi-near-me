@@ -1,0 +1,212 @@
+---
+layout: place
+title: "The Sushi Bar"
+permalink: /idaho/mccall/the-sushi-bar.html
+stateAbbr: ID
+stateName: Idaho
+cityName: McCall
+place_id: ChIJoy7vtiBnplQRo0k1l3ePRC4
+photos:
+  - name: >-
+      places/ChIJoy7vtiBnplQRo0k1l3ePRC4/photos/AeeoHcIT1FuwaS_SbSqwW_XlqQ1Ya-QC7xdPE1MSoA7PWhhBlmc0yAwl9BYVdQFul98dvrIJVah-qhnwDsN4cCVHjdCxAvruGGj8EGySiIVx4mG78B5HFIMeH6xPqojiQUXI5BgCe43YHBcT9afg5XiPtHTR2oaU4ZwWlUcUaS_tkiTRy4RmjlRjbWi-irTp36f1fengUh7iP3eJd8rav7eEyxEHtCW5SQIrTT9KxTnRr5L5i2C8u9BvC-lFJcLnLdzR_SRPzS2n-l-q4luqJxjoZsma6K2eRE_wvvSt_EiFr1tKetV7AaSdoalqHOIGzk3haChaYh0emEchMWEKREjBGB1yETKz3EWimZZl3Np7wmiCDmtqLnbtSgp42CS_bq3Wx9zLwjnhmUVwdNPNkSBr2UcpXoc2DPjeB1R6dRaPjQK9r7BV
+    widthPx: 4048
+    heightPx: 3036
+    authorAttributions:
+      - displayName: Jeney Wierman
+        uri: https://maps.google.com/maps/contrib/103500718348318457713
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXbBJ6j6b6xJ7nYIweV0DUpWhcEFtLXMDKsyIvHfm4XDIeM2K5PMA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkiLOOmQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkiLOOmQE!2e10!4m2!3m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3
+  - name: >-
+      places/ChIJoy7vtiBnplQRo0k1l3ePRC4/photos/AeeoHcLaSLGMf9mqjQSnSdNMYN_7HERDKMCV_nPpcCTNB2ugBO6REWS6MCpaE5MfzmRCGfnsu9MSHzE2sFQVN7fB6dZRXs4gKvBZjhBW1NEWHhZzRZ0Mo3KwsxYm2zTRb7Isl_FynWghvZxr993Bopsk_OYOR7CEvsDj0MRlYN_MCtmWM25nq8wWcSCO4Zt4KpDD3T94GC1PBAwQsM14ZT3IRGGB6GGUkX8WbhOGaLQQ-2afAhtb6d9zGKgmr_neGuA_1KpFXXSOOMk7fQb2eQrBUuszOlSnAgqxNbWIdedw24TxAbKExuvdNSmIBpfFB4FKoW2zFez9vP0i8leh9TPIN_BC2J44C3aKSlcQS7jPmxf4RAOq5uZu5PRgc4VtxOinNkU34_pHO7zcM6RnB_Kd7hcDaQQHQyYJClLPu8KI9oI
+    widthPx: 3840
+    heightPx: 2160
+    authorAttributions:
+      - displayName: Kyle Dennis
+        uri: https://maps.google.com/maps/contrib/102791311344562268203
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUs_KeU3WpO5Tztt9_DrPuk9fNL2VSnV5S_jI8QuZGONlm6RQLS=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4nc2zLA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4nc2zLA!2e10!4m2!3m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3
+  - name: >-
+      places/ChIJoy7vtiBnplQRo0k1l3ePRC4/photos/AeeoHcK-ahmsg8x8oCKxHAuA7T6_d9e_C1Laf0O6vdudGHhqc1PvxeqWCpWKYi0h89D6vECsoqAwPzEY2OnLlazquHGwLF8K6q6-vfcTFZNgmnT6SsPq2sdDxMN05g2LSqEVSy3dr8IkANDdkv_VDmhV6NFKo52TXV3-OvWY5ZaalJYyLd7pCnZJCrKj8FfgMJT6IEplep3AL10jIYNWIaYhASedZz13mlQd7qlrLzmuZALSW0L-4UHaSAloCWiP0-DpbzBilevNpwVVlEZ2v58NVNSM0QXL0aIJyiv9AEp4ILLcbDt1vIal5Lffpqce6mkb-sn-R1K2ElqlnKFSfqo8Q2Xsxz8ai27TeJtSGvtIABLbwDV3ULwL-mMiJ5h_sV_JCiXC61_l5Mp-Dxo3aCb07WzjyAjfrOSfDdoomoeKSW1kMw
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Matt Hazelton
+        uri: https://maps.google.com/maps/contrib/111898321728400063867
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKc-4He2n77J4_OLlkKxLnhxyAktErOh4BYRnXn82PWn5R4Fw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwzvuCBQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwzvuCBQ!2e10!4m2!3m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3
+  - name: >-
+      places/ChIJoy7vtiBnplQRo0k1l3ePRC4/photos/AeeoHcK5PwT6yVUOiX2oaJhdw5IASxjaaKFtqZe2z8tTcsJ0Gmc8SRh8QY_sxk0IsfzEDxCQL_fntXAhE17H64Q_IJCXOKDKRNMpN2Bdj6OaGH_MUAOUqUMUL9sjO0NFB6nozSasftbQBcUz08Ne3KZ3YiFkgeQ2JDvi4AC42AWI3PFpyUGdEKboG_3f8Vgs8MOxI6VObb0jKbFsbpplsY7H92r6QSBkoECID_qAppxvHXGkwKl58pTM76546I6cW6_RKsZ8USlpkL_OWUhzQgjCYUkQSGX73yk6oTvwRAkj54dZoQ
+    widthPx: 550
+    heightPx: 295
+    authorAttributions:
+      - displayName: The Sushi Bar
+        uri: https://maps.google.com/maps/contrib/117203466507744969659
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWFzHS4YozhAltlgxfIvuD4vcxEiVlsq1ozL_sqcBFhinS_gyE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMDiQVa1Q9RwtwiMf5Ec0jHsTcZJzDBa8g0p4u8&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMDiQVa1Q9RwtwiMf5Ec0jHsTcZJzDBa8g0p4u8!2e10!4m2!3m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3
+  - name: >-
+      places/ChIJoy7vtiBnplQRo0k1l3ePRC4/photos/AeeoHcKDLZZ7zQjuMR6W44CmczhmV8Qi_hG6TfV5AOk9_PyWhGTY-A0GfoOg2Ce-I2ruDMpeIk8aT4gfmNA16RETsk9w0MfWPrSeY9qCEoB7_sjhDLS9laXnKac0UNALlskzQSTUmvEC8vwQ61cczHwJmjNjCIhOqkxo23sFpgzowXHt8Tl9Zwz8bKT5TAPE6mMLoGwYAMawokilrZpQK1idovaDdJw9kgJcxFUCZnwXl5tYm_q4Jroz975tN0ORU-5n6p2LutVBDNNmgA7YlK1GwtVB-B6-qVSk6yqwh-Kziln3GnUCYEsl60XMTi1lMeOlwU7KaZ1GesVzkBZDVkdm_-5CqhsPhj4iCqSSi72EApJfLfHWBXkauQC8ZjahhA-Y53kiQUAq3H1Vff126SEmyeiDgJdAZsZE8ar79Y8v5fLLijtCMXBkbRT7odJLHI9C
+    widthPx: 4624
+    heightPx: 3468
+    authorAttributions:
+      - displayName: Jonathan Collins
+        uri: https://maps.google.com/maps/contrib/113063384516849581944
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWFFuWt9pcynb3Mow66DhA3ZNeYvogLOKEUohzfXhEcE_ASJaYRlw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydERai_kMGfU5l4ADt4W&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERai_kMGfU5l4ADt4W!2e10!4m2!3m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3
+  - name: >-
+      places/ChIJoy7vtiBnplQRo0k1l3ePRC4/photos/AeeoHcJ6KylB4BsJnbYhFlLrqqu5yuwGmLqOeF95J7H82Tx0y1Xn4p7rrXxJWk42poE-RVSo3RSAy8ZXjfMlvSFfKcnSCd_VkvZzjCFjGHootMpjVORr1m5BVoVIdhgRl5vgjVaYyXdIuF5rmO2HqvIQ55CGv5757LNuAcEI-KiTobDQrjvzidkSpSEJhFkERhwh0Te1brO9u9c8VdgFX4eD-G60xTDoQhA3iyStg5MBB2CXisvj65y8EueMA-3bbxQxlTe7CFGB1efWChOKbtbvSKZFBlfdkhvuJNmDGV1QqU4mmScCqg5WnhWYkoXpoZeBfJuJ9295ARJeIazEcSO93IqkIr5ibXDAo3Vni9ptfhyMxzp2TAJ2gwKfMFwZd93XbsAyTik4Vd4VZ-r5SuuOhsSjvk6kzOu7Z-l4PcpcBEkB7A
+    widthPx: 2630
+    heightPx: 1723
+    authorAttributions:
+      - displayName: Joyful Paradise
+        uri: https://maps.google.com/maps/contrib/115778916182999619032
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX2fDZv0YSxTgWi90gpyo5KTd9WSKAU5oByZ6B8LYs2nUbze5l52w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD9MvqNA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD9MvqNA!2e10!4m2!3m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3
+  - name: >-
+      places/ChIJoy7vtiBnplQRo0k1l3ePRC4/photos/AeeoHcIHAX3QICQKrWXu4_zVk6biAqHTuM91c_-Js-3pYZoqPsRLZSvdC3wqC6HvIo64FMknX9f8tKyICcUNgEJ2XQ3AYIfAafm7D35sQ0CZUId30nq8XYuQIXHj1Z3hRPwxghzYdsvAMNUPjy_Bo0Cxf28fFfWDnaoye1jkKhWLNAYe9SDhGhv8Jk8xjF_fBqbyqthL7YCldonWCRFBSDkREML8IMlgP4SAbhOUkm9u_b4yNMVYE0fiXK7C8taLBtdPsi7YhTF40kF_CBb22ooFFpLJyquuY46ve43SUlBNCVTm0XyDdfK6Owzhl7KWj7tBJnoLgt2QoKxipN-PHPDi1L6imWnSh8LDYcBuwHEY_ZnE2nBTGAXGewgTI207BTiYBx41o0290oBRcC2IcDkeE3JO_vcSW7gCzF9R-OhlyKlt052W
+    widthPx: 4800
+    heightPx: 2703
+    authorAttributions:
+      - displayName: Andrew Handzel
+        uri: https://maps.google.com/maps/contrib/109656704409463426617
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXZgtaobTVlUdLSa8s05hTuRlI8-M3coyKE0PYe0v5Jm9y45KXT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDphtPDygE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDphtPDygE!2e10!4m2!3m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3
+  - name: >-
+      places/ChIJoy7vtiBnplQRo0k1l3ePRC4/photos/AeeoHcKq3cyMqyXk2FwOzKlMtFiwUXQAeHOiKdaYNbCVAAZOtNEVGRIyihkwR3RkBJsK4TduVauQfoFpenqyJh1LrHePoCbHdq9aTlbtaMXR-aUsYGOwGtHkgG-iRP0NX5LT7gqZ1pZimpUv2d-Fyo3yyZO5c4OV4U_pa52Pr1av3zMRvc-OlWyi7ysbsOFnCJ196Dd-2HvE5tWfv5RP4uiUFNULee-ErO79gF4okl1U9K1-04WsGTHYuFbGKjBFkJ8OwRsqgRpX9BprtP9zQklQvDMnh85z0vSmUKU4ttzUO_w-XV5o-HRvSxzexsQpEOKAq8mToZl6EJQFY5rWxVvLgLLcTHz4N8XU-SKAS0ZfUbKzfdiRhVhF45-bqsWLnYpJ8CsPb1YRpCTZeemcH16kS_rtAwn3qJBUQ6QMNdvpImcDJhQV
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: sailing to the moon
+        uri: https://maps.google.com/maps/contrib/104606981164814495030
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX4HuyP_s8GMFQN5fVGx241Zm6wk6h-BIkCyqSoDwj2NQm6uveX=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9xoHcoAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9xoHcoAE!2e10!4m2!3m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3
+  - name: >-
+      places/ChIJoy7vtiBnplQRo0k1l3ePRC4/photos/AeeoHcIMIvvw82EJCrxgwkRcpwxvuW4sZBM5Wqt7k2lzCi0hd-mTFMrTXDll6ElmdjDzex1JMTGrhmYllwOXixB1aCnzE8cnWCm-f2jlB26Qlz0vuuM5_TzFJPrheUm4P0fnBKJ88FuGg2QQ-TFq8wPX1T7W2B-bc0JOY068Fdir3_8Kj2WKBP6HGacIn0ar42e-TOTmevs1kiuy_zM3D14-mqhwitqH61UovKv6yCOFd8K_eimTJseQBI_qY0qjcifxpEmWKRWXW4v90UbWCVriT34q-MkR_36ZERJjxwEz9wfUBT9mnErjsKjZi0MVM2o7lXi0SSoYyh5OgFSp98C2ekuIFh3t0pp_Q1vJW6rEw7GZcmi4oqY-x5Vp5bYwLYl6flLOm-73YihQmootNC8iL-F2x6gf_Vn0fv2woLhcBx653DE
+    widthPx: 1440
+    heightPx: 2560
+    authorAttributions:
+      - displayName: Sydney Fuentes
+        uri: https://maps.google.com/maps/contrib/109829181259701234835
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXBIlNMIg1a56f1abSOL1942g80tg_2lZVAXwd66O7wrlkGNmo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLnfrJyQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLnfrJyQE!2e10!4m2!3m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3
+  - name: >-
+      places/ChIJoy7vtiBnplQRo0k1l3ePRC4/photos/AeeoHcLREC88qPV5dqZjvAYPtPcbffmgk428kug9pGmGzRWLv1dHV0E7S3vzzfjAYup8y25U_oEtpy7RWfnw_gwvlSSEQg-1Z-jVPm5R-ptxJTS0ShuxLmFQyplkUAvBXAq-HJOLvaHSFzIO_hgNDp0yERVJjarLz459_XV7BCjRAjGbuo4hn-n0gZzn0seUMzeZxL_-PuHrjok-l-BULo01u97e2pUwFB1KPDWsDPAggYowp1ChlN9Ah64ARFTuB3Ob5y2189WvI4qsMXsWipj4B921Nj0QB0sOIR6KDYQwRe0ZJg-YjPH4dLR6m3O5OuCdCUoe9-0Ju9WReFSg4syx2VcQ6heEQ1LVuQTX8rEP76-GgkhIyzEeIUCco7V06cEFiN7oZznXHcp0ykQC5s1dJQGbHoD0_Op4bG06HWqMF5Zzy_zF
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: sailing to the moon
+        uri: https://maps.google.com/maps/contrib/104606981164814495030
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX4HuyP_s8GMFQN5fVGx241Zm6wk6h-BIkCyqSoDwj2NQm6uveX=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9xoHckAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9xoHckAE!2e10!4m2!3m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3
+address: 414 Railroad Ave, McCall, ID 83638, USA
+street: 414 Railroad Ave
+city: McCall
+state: ID
+zip: '83638'
+country: USA
+neighborhood: null
+latitude: '44.910628'
+longitude: '-116.096539'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: The Sushi Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x54a66720b6ef2ea3:0x2e448f77973549a3!3e0
+  placeUri: https://maps.google.com/?cid=3333947367961741731
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x54a66720b6ef2ea3:0x2e448f77973549a3!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x54a66720b6ef2ea3:0x2e448f77973549a3!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x54a66720b6ef2ea3:0x2e448f77973549a3!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: The-Sushi-Bar
+
+---

@@ -1,0 +1,209 @@
+---
+layout: place
+title: "Momo Sushi Shack"
+permalink: /new-york/brooklyn/momo-sushi-shack.html
+stateAbbr: NY
+stateName: New York
+cityName: Brooklyn
+place_id: ChIJ34aX5gBcwokREbremOF3FIY
+photos:
+  - name: >-
+      places/ChIJ34aX5gBcwokREbremOF3FIY/photos/AeeoHcLzhhFgdM_NalBK2oh0STo17SWmybLvOSB3ZqHmIcv1v-f_63DqQdzfYjc0NV8RlNNz1RKu5JrdRySIihYojik7nMHA4BH3bzmV1S_KngFRX6N9at-FNfop9_71Cl32-dR3OLx4yOV-u29pz8ffd3UkbE6P2bgxyp8cSxCpz1AnB8v76_R4RtsyjrN39AwCW2lwBDYYKKRyI0KbyTPk8ts8SCHiq9PIzrHsXopkcYi6Skh1UweweQ3Dx-VvDPFiEya0N6zLBlUd8Jtjw_2sU1LhHFvzBmw6WJtku_49_0wpVejBCc_5SyW6opw2EMsM52gYOScemq6F_waD_TC_ST0XesPgHEztPtGxK-Jq4uAdUpJ3rq8PzxE1c0LUCIMTX7qrcNO1O0nbJrQJGwaHtQZjmMxL2Nu8no5l3ZQIHShdY95L
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Stephen
+        uri: https://maps.google.com/maps/contrib/113841403151685207398
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX5PvWscREX12L8djCjrHVuY4oelHbPyCP3B-6lR2HlWN-7y5CfPA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4y7nqvgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4y7nqvgE!2e10!4m2!3m1!1s0x89c25c00e69786df:0x861477e198deba11
+  - name: >-
+      places/ChIJ34aX5gBcwokREbremOF3FIY/photos/AeeoHcJQDuQe8xBlq2h5pn4I-5f-jBdb5R70W_Swe7XwEIMVe_RqVKr7dmPzgLIRBSlC4cduemYuio9EujB1asgnF_T4_-turXSNQTtsNdwc03XyhVVBDSt07j_9dM8wTRzZm-fbj6CYz_z0e6KR8EXmJnCaHvBydotpCf7BMRcmCmJ7u6kkTZBewLevJinP-sBQ65vD6a-plcBouYtqYDPycZSoqP3I_SDhZofKuNpyP8XCdYlG7o6uXB9elzHV-QwKEf5I3e8nALD0zqjF1_LW_BoLkSXNLNLMrw0A0WX7GJU2Og
+    widthPx: 2400
+    heightPx: 2400
+    authorAttributions:
+      - displayName: Momo Sushi Shack
+        uri: https://maps.google.com/maps/contrib/108320625197752383523
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXEVMIOrCJBKlmDZHsnZNSeRkQubm_PJ_n5poUfSm8-0SaiwdU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOxC0N9ZeAl83p7rLe4FJUxec25WGXiBZIj02qq&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOxC0N9ZeAl83p7rLe4FJUxec25WGXiBZIj02qq!2e10!4m2!3m1!1s0x89c25c00e69786df:0x861477e198deba11
+  - name: >-
+      places/ChIJ34aX5gBcwokREbremOF3FIY/photos/AeeoHcKM6pN6P_O1DL7m1zBC7nsnH2rU5njFUiMLfGz2Mj0LPKT_BXrxcmbAtne3rdM5IldHTUH68aDW__JAcf4rcm61fAAl6o29vyCivinrqRSdwXhJjLWhtZ8IN21bgxI2FCwhgTjDAeBhAu9GU3m-jKEP8P0Rc7QjRUhxFofYJVnsMUj5k4sKG5HSi83QI6KMrPkxmDDWJ66hHB_c6us2ojSTVWh0xKJOX8WYg-3WKSZpJiM1YJYdKmUKyUlt5W_anvvCS-pHu2l6A3zlnoJmStc3oN9YbmnpXN7zJzY9Gch2Cw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Momo Sushi Shack
+        uri: https://maps.google.com/maps/contrib/108320625197752383523
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXEVMIOrCJBKlmDZHsnZNSeRkQubm_PJ_n5poUfSm8-0SaiwdU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPq8EJcbKQ-sidJANSK67bBM2yqPSh-ff0VGTcg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPq8EJcbKQ-sidJANSK67bBM2yqPSh-ff0VGTcg!2e10!4m2!3m1!1s0x89c25c00e69786df:0x861477e198deba11
+  - name: >-
+      places/ChIJ34aX5gBcwokREbremOF3FIY/photos/AeeoHcL3bfQ6XhE953Oof2SE4gt5XvpPpJ5HYAG1e3v97HENS1tDcXw7tmpC4asuVjN-AtEw1CI8pFXEucvMCzwSmx7ORjIABxx65OuwDqJg4ACI_8bZyHnZ-_yTDBCe2p83Rq77rBCk8slJXA5SjIM_tFvvPEhxNfsPx6Bs7ffqq-xGH2tcUlr8jNl0i0vo7SZG64J3OxMiIy54J38uY6N7nKodtPTfW46V8owlhcehKCSqe-2WPVhXSubxLJeWjNSyQPfJhlHS152Bl6UvUjQMLER9sO9kmiApQgW1xhUNw2ZeKi1EpsIYGNGUn4vHRqHs_s3Jt407nyy5MKd-b6vU33jkrKtlrbUfNnbozKHaC6IWAAPnNM5k_9SEZ7CNQ35GSzyrGTqzVz4Yr16Uj-LqzkUddCMYbWmfXcC9gNJdU18
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Benjamin Mei
+        uri: https://maps.google.com/maps/contrib/110886317897186384077
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVDaMPwhseIrnJ_lqwODRz5eFKl8zzEw1aHPxw_fPGEQfiA6xAB=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDuyqX9dQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuyqX9dQ!2e10!4m2!3m1!1s0x89c25c00e69786df:0x861477e198deba11
+  - name: >-
+      places/ChIJ34aX5gBcwokREbremOF3FIY/photos/AeeoHcIkgQAnFU99DKTIfNICsg09oSKIHB0OAJU0Ttxb5yNewbWCo9c61CEL-3wS-RopwtksyCezww8ZNhdTLZcZPFPTaNodYoZi2-TDjfaPIHWEl6JQttX5nxnjwz8pH-HxAOyagBMAdiFR8eJ-N1WIhNZfm8DwnbkD3sjG-L484Vi5UnGI8_QEWjtq4RUWVd03UUHZVJrmGuLXAwZrhWpHq5ZmBafZUydGjy4o6T9jCOLAqm6Vi3-AfKyIRIRk5VBMXpcbnh_o3QtzmveITkc2r_RgUfQFtqbmzUPK6A15OwPQ7hD3llZPqXfTVhKJCJjt4z1ZOP-LEwxigYwpH1Bu96Ju9DjbTsBNuB9sBOdsFY2KPd2Rc2iBtbIa45QjF00keNvArC56F_zSZLGvUjwLM7xSWZ7EhWVPdtICRqxpR6daXg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Stephen
+        uri: https://maps.google.com/maps/contrib/113841403151685207398
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX5PvWscREX12L8djCjrHVuY4oelHbPyCP3B-6lR2HlWN-7y5CfPA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4y7nACA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4y7nACA!2e10!4m2!3m1!1s0x89c25c00e69786df:0x861477e198deba11
+  - name: >-
+      places/ChIJ34aX5gBcwokREbremOF3FIY/photos/AeeoHcJaFxeH36Szjs1j2HEWhDBTsgUW_3kXAmsVWXJVwGdtTSDnSvgrmef5OgL0L1PxoEkcl6pUoE9kjy4oBrm2m-9n8oN-Ro_vdIvX3iXxlUZbMY0U1jOudYLI_5KX1jdmdCovJ1HwfIcIUjNmAP6Z4IIwMXxoFFvgfjxY_RubniHPNbacsWIMrDaOf3shRlBRFSabPUsI39U5KCa95YPIcL5hIqjt1NuwFYAO_8ZQCBwtso2-ZVPRbeYGZlQDcrzx9Db1r6MxKQlMQIDGNaR5gnQgh-WHqS-Faj0kGcQ_CzmqyA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Momo Sushi Shack
+        uri: https://maps.google.com/maps/contrib/108320625197752383523
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXEVMIOrCJBKlmDZHsnZNSeRkQubm_PJ_n5poUfSm8-0SaiwdU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMtD7_lv7Nol5MtHw9AqprC3E9QeXBkipkBU8T9&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMtD7_lv7Nol5MtHw9AqprC3E9QeXBkipkBU8T9!2e10!4m2!3m1!1s0x89c25c00e69786df:0x861477e198deba11
+  - name: >-
+      places/ChIJ34aX5gBcwokREbremOF3FIY/photos/AeeoHcJUCkMxUdenGSJel35enoSdPsk87Tv2KlX_Wy-bCnNCprE9JDDntxNSqZ8YXkJyHlY_d1p_7ctTOXEnKDICLVuOahswQjKGOVzIzPNOezhs85xdK4hfaJDx7YkLReki2IuqOs0tI3jbTCLuzxynwkrPh3xrk9dO_2W2lSByHsvbQPGjW87dxJzyPfWXzCZuCmCVYerxsgXL2gEK8lXsgkIHOymz7PooLE-ssMFfJye2-O6HVjoI6dHrZbSejkYff8xYM-B0lh8Q0t7NB52VEniom54xbMO_vnUiHZOO8n1rLA
+    widthPx: 2400
+    heightPx: 2400
+    authorAttributions:
+      - displayName: Momo Sushi Shack
+        uri: https://maps.google.com/maps/contrib/108320625197752383523
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXEVMIOrCJBKlmDZHsnZNSeRkQubm_PJ_n5poUfSm8-0SaiwdU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO0BUO10-YLbqwXGDJYI1WTbhlQIfWASEPf79kK&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO0BUO10-YLbqwXGDJYI1WTbhlQIfWASEPf79kK!2e10!4m2!3m1!1s0x89c25c00e69786df:0x861477e198deba11
+  - name: >-
+      places/ChIJ34aX5gBcwokREbremOF3FIY/photos/AeeoHcK-dFLCe0WoPjb5Qd82a1TEt7G1AXdVZJxNrHkozoC-zEilQ4YaiLrs4ssYxf8DDKzhmR7kByqzSiDNeWep9WEhVEl_DBDR28dwhQ72UJsBo8H58iNexP7ID84-Ct773SjEC_CABjgdb2JAcwHU3mGcW7_qXVCT-BOCLpdWj-vBKG5n3K_khsvSetW1gDG6IIkylusxMyBKbsSGQTy3Vw3SCbOiJlDMb6oPtWwTiXtWWTmsIdvaARdNwgadYKzJ8KsMdpxDKqbTByK81AyFGYPnfRWBtAi96qK4gOAr9SsCLA
+    widthPx: 2400
+    heightPx: 2400
+    authorAttributions:
+      - displayName: Momo Sushi Shack
+        uri: https://maps.google.com/maps/contrib/108320625197752383523
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXEVMIOrCJBKlmDZHsnZNSeRkQubm_PJ_n5poUfSm8-0SaiwdU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPxamWmBdfJfl7pKK9_50GuoVYrJmgcfqAVh0M1&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPxamWmBdfJfl7pKK9_50GuoVYrJmgcfqAVh0M1!2e10!4m2!3m1!1s0x89c25c00e69786df:0x861477e198deba11
+  - name: >-
+      places/ChIJ34aX5gBcwokREbremOF3FIY/photos/AeeoHcKE_NMKB_F_X9IiwATuNOVJWU6ZnNAvBru2WU9cXGKy2lYRL2hwV6P42tb2AW0ugWGCz86s-W7hfLTf4GcsY8ObGmTSo-cWYWHg22SxISScjHtstHm4eDqZ9GMUCIa5bbMMkbUE2wBmTcEV7K2QKqUjKSXt9J5nIjVO3GW1gg1ONDaK31hCp9krycxWtki9LvLqcWq9oH3GVgrZpZE-ZdKXZ85PjEUbj7_KEA3pMInzlPM_sN3btGQCDlIf9wiHLXdHkpncQDkO91h-UtamYVCxnAUaqAv51x78_cajJJFY2MSt5gefqyPzGXkdpGQaEK0wVcsI2RUUH0HOj75SS8RKX2WWGNRJYQ8lESXvA51WFxcnzJolsALGLdv4haOJtbVrxso4HVH7a1GhsCjQV8kwkG2iTogdvO0kJ-E7PpkSH9Hf
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Liliana Campuzano
+        uri: https://maps.google.com/maps/contrib/104099414070376721774
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUfem5DzkOAZ44jTC_1fce9oW99oLWQnWIoiIZXh6b1YeX8iZmi=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDsZKw2wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDsZKw2wE!2e10!4m2!3m1!1s0x89c25c00e69786df:0x861477e198deba11
+  - name: >-
+      places/ChIJ34aX5gBcwokREbremOF3FIY/photos/AeeoHcL6sb57GdqaFZONVSzW8xt4wlTaaqlhMshMGWPICyaMKgDSaVF3DB0XuOCz7znR68HiwtzhyChNGSaOj94PoeAYdmSzZWhjJbDwZpqyJFNgGmwPdBqF6MK3DiJGMWYNvvw6_Cj55Z_sgP2aF_P4gC_N7ILpA_EdJ9PYeluxMwFLrreBtds5DjnkgeGglrg7RBYrLxPk3F1nRlMOV-qTR-8iUBvmu5gOJAMTWLO_71XIB9Iy6tVPuIuWtWB1wPvmwovErAwFc2TBUJpG_A69pKOD1_HbtFA8YSKEyNj1srbUPx4VLaWSn2neYaBb-s1i9sEeGsB3v4iIDGiCYa3sWy3p6hADuhvEbRvGTIh73StW2_doCVOSCzQjs6akeuGNqL1ciVapAj9ekRVVPahmkIvgvY6hbCDjxKZq8zB-Aa-3meQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Peter Liu
+        uri: https://maps.google.com/maps/contrib/100643109161309918309
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKzjddhU8GD1q_5qLzGhJRt8IEyJ9KSPvaP2dgfMt7gVxHUVg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEw7yZmgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEw7yZmgE!2e10!4m2!3m1!1s0x89c25c00e69786df:0x861477e198deba11
+address: 43 Bogart St, Brooklyn, NY 11206, USA
+street: 43 Bogart St
+city: Brooklyn
+state: NY
+zip: '11206'
+country: USA
+neighborhood: Bushwick
+latitude: '40.705164'
+longitude: '-73.933408'
+accessibility_options:
+  wheelchairAccessibleParking: false
+business_status: OPERATIONAL
+name: Momo Sushi Shack
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c25c00e69786df:0x861477e198deba11!3e0
+  placeUri: https://maps.google.com/?cid=9661478911432636945
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25c00e69786df:0x861477e198deba11!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c25c00e69786df:0x861477e198deba11!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25c00e69786df:0x861477e198deba11!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Momo-Sushi-Shack
+
+---

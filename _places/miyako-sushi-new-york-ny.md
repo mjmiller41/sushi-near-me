@@ -1,0 +1,210 @@
+---
+layout: place
+title: "Miyako Sushi"
+permalink: /new-york/new-york/miyako-sushi.html
+stateAbbr: NY
+stateName: New York
+cityName: New York
+place_id: ChIJg0Bl54JYwokR8k8qF8pW-eI
+photos:
+  - name: >-
+      places/ChIJg0Bl54JYwokR8k8qF8pW-eI/photos/AeeoHcI2dUbP5htzD31EAjyGuJ9tVv6icr0JU7MJJtFmo9y0Yh5V5FIs1p41NBET4MvXEYfUlK3MhU__5Pwb5OKU2AeIq1fSEH6JZJ5-HYd4ROTnJ_S85hov91cuoTV3mY8N1FuwD_tChfIM06mrn4K0v9xt-ZMTxq9mcoxvIWf03zGQyEj8U3DU76yN5qB2Pazi3rNDqdFPP0Rs75eVIFWNsj4bYgERi4zBstWeTfPSzMOXKhpsbX07DbpH-M0rnizTdnSZfBfFMtMd3uzf_XUBxbxRhu2PjrEv0azGcXCnS1M8eVHMBQwnn6GlxEXBwxnVH1RZNoGW_u5f6x_dXTDMemO-71oC5tWZEwH-0lCPFnzxER05sY88UWQ9Z4aq_dELxC_rmVMqQbsA-HlLxVTKeca-GsxFya4-cjyNSQ1Qos6RcA
+    widthPx: 4032
+    heightPx: 1816
+    authorAttributions:
+      - displayName: Wade
+        uri: https://maps.google.com/maps/contrib/118084873425483273122
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVGPBfsCHg67qInmXh0_ThYQS5s1YfRN-U6QWWH04xe9Y5KUGs-pQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqobuaCw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqobuaCw!2e10!4m2!3m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2
+  - name: >-
+      places/ChIJg0Bl54JYwokR8k8qF8pW-eI/photos/AeeoHcLwme7po0V7iB8zkGLU6ifdn3cSw_L3AONfchRd8B4a18dU8XSit01W-CHM5IV4EqBzNOjF661Qkaqp_CIe_Pv_l1amH-URzk0OmsepMn3Y5Q3jpWQI__9p8ZH7RJeVNVlzw7tnouZqYuOp10fuArH9PU5coI6I-cLseUaAwDbAc0lrpgnN-6q-CgLnlEu41Rzn1AJHTeC15-uwM05z1deG5X87O8de8jFfAagFEfjGayJs7VndooWZWi6Q8aXo_P28LUpjgLhFsjmxoR3NgYRzsHSMT9uaHZ6QEDEV7-0qgTwHaMVSv6gMez2RRJl8kT1tuHYZ7UZkwipMmNmxdPHf4sS9f25EGLgx7FNK6y_uXV_UQz6cy-mJFmH3YNPhF-yrJr1o9y98OBHuic8V--jjqNYDgscqgFbX7luASiSXjQ
+    widthPx: 3264
+    heightPx: 2448
+    authorAttributions:
+      - displayName: Norma Justin
+        uri: https://maps.google.com/maps/contrib/105381790195130034957
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXoZ8GsrRr6F0roBCBAKMqHPIVBPuThImTQVUOuBJuRZT4K7fK7Jg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC43qjpAw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC43qjpAw!2e10!4m2!3m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2
+  - name: >-
+      places/ChIJg0Bl54JYwokR8k8qF8pW-eI/photos/AeeoHcJW7uUMveekXUCrHoN9VfzD9ivjbJTYKFTLEjt5w1thH2WjFfyUUZULJrDtZbuMsibC5aP2dWWSqQPRTNwwW7V5wL373FfsVDaWSGROOuktnLIEsuzrD4Ca9kFCt_WWjZoAZ_AFfxE5FMUqyHdVOSmBztej5MUAI3nz2H04iT53X5k6wELsrAERI2dXhxqfO70PLUDnkD2ka4eX02cDZOx5vAxm-BSZD5Jnm3s_FBhuV3UBq5vszoN-1d4iTY2ewF7bJAMC0s3P4VgwvuzN5hoGWbBy0eW33gidtzmb_yRtOmtpUM4YVK2Az4weOaPBnPBn5q2C7swrwRhys_iyGL_zHuvyC6HIz2if3cLKR9I6lrueaDlmatNw9w4__prs_5AKARpytVlrBhxSpc0-nl-GJ60ii1mk19BEn6vBQFk
+    widthPx: 2208
+    heightPx: 1242
+    authorAttributions:
+      - displayName: Sai Preetham Basana
+        uri: https://maps.google.com/maps/contrib/112565749726593957882
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWVua7_5p9Q1QhWUDY9S6A5cuIaV7TAqGcRlaroxUljq_seanlv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwrIayKw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwrIayKw!2e10!4m2!3m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2
+  - name: >-
+      places/ChIJg0Bl54JYwokR8k8qF8pW-eI/photos/AeeoHcJ-DTQhnZKUZZ-ZyQWI86Nfo-j407H7cHb0CJMTG7tLumA12ZQT-_-lY-jCH5Kk1p92hZt7g4mjR7Bab4730r1jxaApprwHjvFcJVnZ7xjc_uqpGD4tKNPN6Um2gtF6uf7m1Ny3SjrDGc7IMA9hjkS7R5_KdOJE4a_6QZvk8jAJVagH4b80I9Bw2Fem_Ib-mg0PY0dQitw4_ttSixoLxXgnhUI8KXRo62UmScekao3NnfkZsPdJRRXnXqcilY4vVAYoNeVtIqeDJgjUQfrnSwh3uv_ut3ZHsL-9U7JCG6jepEHQJyKOZfXQ3GdTBLhMmZ9bK59NoE3NT1JmYR6Oty3_YjrvcoLbUNvAjUy1gSyKOiWI27nxvqWNMo91i5vnXwz2CL8tgMh480M7r8E_5vqeQXH-CHGA_EfV1NHEjxBHEuhg
+    widthPx: 1600
+    heightPx: 1200
+    authorAttributions:
+      - displayName: Leo Zou
+        uri: https://maps.google.com/maps/contrib/103905411015788661140
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXvXW2noCfr0Oi_W8jRHtPfXMMxjc7qSiBZAaUP32tsUkkxOYF-=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICr1vyv5gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr1vyv5gE!2e10!4m2!3m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2
+  - name: >-
+      places/ChIJg0Bl54JYwokR8k8qF8pW-eI/photos/AeeoHcK_KdOxn7t8lM2EUY6okMQCcruKuHbblnvKGXuGVKFriAg7mSJu8ZwhC1SVPoL-rn-ZbU58voLwDikm5r5jfdsjuCfUV8WRqSq0r4uB5kANGHMxJyyh77m6CBXW_DnNPP43B9ar3PRgH7R2EUbq31xlzXY7ZngWb_uTG1y0llidWYXlZw9PCEixHhQl_FpIyg5Iro1ltnqBFoN-34MCkZj9m1xGnqUdYcgYL8u7e6u3jlYWXK70M5S6wEWkrgwuCZKksAcFhfWOAbbUPTNvHaZB5Fk61dLHemka36-xHo1DObS037-6LVAM1ClDc0DPGkIaPipZLYFasG5PCWtvVjErB8ld_nkRpNWQC1Xz7-U7AMwLsvOWltcAuPzjS-cdeoMa-bX8Sh-bBDoFZGjxauneZYIlftuuCzmeWJL1x0ruRAU4
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kamera Hadnot
+        uri: https://maps.google.com/maps/contrib/117182414501023052715
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXrleZ1fuMR8jcROqVQ-TtuLnM_Qlg4sBgJJ35Cy9mi0r-TLo8m=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrqrq-ggE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrqrq-ggE!2e10!4m2!3m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2
+  - name: >-
+      places/ChIJg0Bl54JYwokR8k8qF8pW-eI/photos/AeeoHcId3A8IYVt5qwZO2Pd8JJ0cnorP5mKxR8ykGFcudtBjrLoSgLxxRDNoeoJoLp4tSo05ysA6-BQZenw_nQvUARmrb14Hb9gvJPsPMEDypsfACmc_s6n3_Cxe3rxZwJGXOPyT8YIk47jxC31SI7NCncynWsgY22x320G3N8NXRLwJtmQJpGYCkzwCgKm8bVRUQtTW2y1BDlvShWAFvEun1Rq92q0snhLOZDxs1mPDX-xJoGKEPYzdJ5SZ2g9glerfld6KO3fRRz7XSYUWwUVOwWlPib6G8rQRy8ebeWrgzdnCsd937m9_9f4Dlszq-ZR1l45I1Sh94OeeSys6lIv4Fr9W8fIQLg-gr_QdGNmFfmuOq2V0RnDmUHs-LkJzQJm9D3wZfUlNdQTGWkPOxw73SzcT4YZY5po5arxFa55hGysOTA
+    widthPx: 4128
+    heightPx: 3096
+    authorAttributions:
+      - displayName: Norma Justin
+        uri: https://maps.google.com/maps/contrib/105381790195130034957
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXoZ8GsrRr6F0roBCBAKMqHPIVBPuThImTQVUOuBJuRZT4K7fK7Jg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID064SQOQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID064SQOQ!2e10!4m2!3m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2
+  - name: >-
+      places/ChIJg0Bl54JYwokR8k8qF8pW-eI/photos/AeeoHcIR0w5pqy2OWbjFmyuBHzd3zlKGiHji3A1jidTXu8Sp-n5QWbO5s_KaNV3VjPEtAl5Y7kcHIBfZ6tTpN0O1NFwihycbPvLI_W0IpxOUjtPok3UVdfUxDIT0DMaPbvI37WGU6Z42ONC9Ah2Tx70lcvTDkav6iZYa0T7a4n2KtsOI9iBof9WNOOVH2Ds4pL7N-oxS02rF6Ckt8Q55s1hSmuli0zIX7ksJ-8XSFQzOyKuz8tStfFHQnvX-9Qc26MmuNSDdecRKZjV0fg0X7N3lTFhrh3bncXbu2bhNHD6ClZfVfXxlYixrAKes2qIKBRzprb1qd_yp7-bkeNBgnKxWrg-LLO7_VnUfRConshu3XYJQCLiuEsOM4Sd2hSoNO2wc33gqzGDYqIyvu3F-dVMjeuViX_g2ReKSwc5lqfacV7qUZw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Treasure Hunter
+        uri: https://maps.google.com/maps/contrib/105202833525646186787
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIZ9hCgVdSeQATKNd_LYLiJWCZbuImFYAPEU2gGK7RZqXePqQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7yNundw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7yNundw!2e10!4m2!3m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2
+  - name: >-
+      places/ChIJg0Bl54JYwokR8k8qF8pW-eI/photos/AeeoHcIZZ0hDhr6f88_q3gOLjC4kssGsmSdG_yN-nFl2XyWpNvqMoNCjo61xNh5dNfrO9z8tC-VueZXmFPw_HhawtyyCV_DZ1s_wu_H5JwKQt7AhZK5WcuvF8a3PhunCA3FmJbIa1Mfjx1cb8ly6F9me6aifSK26Tf94TqNCcDnc8WVWAq-CxCwW7R5AgC1SqXp2e5FB3UL0OL_8Lm_jD2mTklstP2NeI34mBoLvPd9heIlSA-agUup_A0gfRt3EHPfQvqTtzN1v74Rt8yfYOGQaf-0jN0ZL6Qa2liTha9XyaB-49eI1fuBmUbSPaA1TW5EjH2pq0jQi3imkCbeXvpfudI22zEHS9i7o3Z6B_MkpREDpG6tJETuJQWHBPa12ViUtuoBOGWvQ9ngj2v7pWUTdmMUOAJv4tNI4NeYnSEYcd-A
+    widthPx: 1125
+    heightPx: 1500
+    authorAttributions:
+      - displayName: Eric Engel
+        uri: https://maps.google.com/maps/contrib/116223924273053560926
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVrWp-OqS2uraJT_XOss-CBSF5eDQMZRPXbvgtLCK1ZrxBmGP2Hig=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJ9N7uFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ9N7uFQ!2e10!4m2!3m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2
+  - name: >-
+      places/ChIJg0Bl54JYwokR8k8qF8pW-eI/photos/AeeoHcKlYcAUPVJIc2Y0eOJexsVpkURdLGnn7kRXdINcLKbD15g7_zqXgv0iabddgYJBVL6BfypKNc4Out-fFmGFhTveTNkQA_Tgmu_UIKoAHujsi5y2xbQDL2CWvUhtbaVUXNe5ik4A2o0LV5-zRhZ4hm0wMpJtqsPvg0oSmy8ZuxKO-ma5LpNY19r1sQlyy_nIcnvHUn6rayAi3a12pAO6jU-cve5yrrKWGS4GEWzj7MDN365NEyHNiJzJLzrnbk7jf2fHE1UQC7qi7CQ4hjuGNMWG9a99yDgU8bOI0axG68r64WukMDcQau_Fe5vnjaHlsYiIPIeWMzlHwRjhScbH9xKfd8JQLmzU2zgI0RpJDuoJwR2YCyY6XxyY1NiHEupr3SCVX0NAihFPRpYLqfuocBHu18fciZo5VqG1suNCPuZwGA
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Jerry Pareja
+        uri: https://maps.google.com/maps/contrib/108224668841726593375
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhTHgLTmTIv0BeqZiCMRJQweisa_qOBXjX_Z-QvXHau846qqE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIClrZORLw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClrZORLw!2e10!4m2!3m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2
+  - name: >-
+      places/ChIJg0Bl54JYwokR8k8qF8pW-eI/photos/AeeoHcJ6MBl2r3EVOs9afb_wH3VOI-2EdonWcZ5lwdJl6jMAy2-y6kzQ4L5TflQ3w96A72KjVl-xD6t481IyQdwWaR1VbaDT6Pbw2ebWCfwddkrCOW86SkmMZww0Qm12GE_r5_yxESs81cxWfrHs8f-Pukn3cSsHSQKXmgCFPLhPAmg4VGJ1zYKjtPUZrgQXKAC-Jw7NUJrHQE9yaKpDy4EKgeqP65aZeknBWxfkb3d8rh6HvnBqg42wP8j5oArT9q3nqoaCAkxlG-JU7yUgs9FNN5UTgGmsUAEirxLyb40_r6yUvuz1i2dgGiEbVzz6eymwSHdYq0Ye4npms6OzxSvwpNSOkfwRn1LHPvW_pt8wzx-dwaSQ3iWf4LgB90_Bj6kCU0gB8dfFPUpC3oR8Cbxu20B5rDCLk8eeR01c5odlkRx1Q-Je
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Phillipo Sexsione
+        uri: https://maps.google.com/maps/contrib/101990790914132231617
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUlE3ksr_0BSeIJjyP46NNeTgXNlfMgNhx0mIO33QXaVKPP7JN-SQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEgc2B4wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEgc2B4wE!2e10!4m2!3m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2
+address: 642 Amsterdam Ave, New York, NY 10025, USA
+street: 642 Amsterdam Ave
+city: New York
+state: NY
+zip: '10025'
+country: USA
+neighborhood: null
+latitude: '40.791138'
+longitude: '-73.972750'
+accessibility_options:
+  wheelchairAccessibleParking: false
+  wheelchairAccessibleEntrance: true
+business_status: OPERATIONAL
+name: Miyako Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c25882e7654083:0xe2f956ca172a4ff2!3e0
+  placeUri: https://maps.google.com/?cid=16355198947744698354
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25882e7654083:0xe2f956ca172a4ff2!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c25882e7654083:0xe2f956ca172a4ff2!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25882e7654083:0xe2f956ca172a4ff2!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Miyako-Sushi
+
+---

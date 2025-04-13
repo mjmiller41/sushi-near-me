@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Zushi Puzzle"
+permalink: /california/san-francisco/zushi-puzzle.html
+stateAbbr: CA
+stateName: California
+cityName: San Francisco
+place_id: ChIJy-nXMNqAhYAR40z3pkUofL8
+photos:
+  - name: >-
+      places/ChIJy-nXMNqAhYAR40z3pkUofL8/photos/AUy1YQ3GX6AL61k7jJFPsoQSaIcuFlfGnl798NTcPCWm9C-16dUR2RnWK2P2Cl89PJB6gU1LPVOm0MOYmy9aFa_SJRui0ZkLyaTipEm4-mh0-56V-O96MOGpRucMN901IytZRhHgkMnVGaIecdJc7nuJ1_QwM1WG5ejMIdrs5AL47yD6WiWznx3qyX98t_KH3TEPRcQNSu4sgVKWVOhsoK4n0nhwNt4xnyYbWP2nZfU00cyPN0vaHlO6sng27lmvlO5m1EXFxA4m0U0SBOR85PVpVLmSj8cx3P6RzjjuB4DqfYfs5tjA1L5VfwVl_hLCRbspuz6BOkR5eG4XL9IBG421cQCOvF2nxP6DYBqWapdk5Li9tmSFiz9R5AdZym40eggFD23u8FuNvcLA01wxE4BI-k9hBEDiysCsX8PW115rSPu1QkNv
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Darnell Kemp
+        uri: https://maps.google.com/maps/contrib/109041329111989312979
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWfsfrQQ9queTgPIYzw2hae8L5Sk6c2N0fFkjtydqt_Eo3XqFrI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu0cTF6QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu0cTF6QE!2e10!4m2!3m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3
+  - name: >-
+      places/ChIJy-nXMNqAhYAR40z3pkUofL8/photos/AUy1YQ2Dkv_CqnnM7QN6LcQLMjyfH5se85anQxxomHA0sLg3RjTFxZ_oido38Gd6OsoT6u6_Sdw9RXNmWotZrzHdTwwMCy_UYvZ6tFjtbtlmdDfLvJ98H6Cef_bcLtNtvx32Ej27kbLiyhlCxdPce48qlRdQMw5m1GZozglBN6z12--MAa5y7GF5ovi22FAlMkYyxyE-bmSr5o9IsHxLTtv9nISdcNjY8TffEg7H5OMOVJyV0xz1IB4W_WJ5yciaQEpb0Of81tQcXX8qzwMkMdvjvnR6jEWQoqcj9gwsTAWtfpO3c6BCAFheAuwkOAtpDdv9PVhL4hXkKPmYO-4-7bfeQF41L3d_ZErBebkaQcNF-Klf2Qb8VJ4DlnPPK4ZMwq0kFxMxLO-tT5mj5Jl2jbcPZDcIz7oLcrhsU0p0hpvbPQb5XA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Don V
+        uri: https://maps.google.com/maps/contrib/101684759371052236980
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU_XWfeLtVU2WGeQMuGJ9PdSpBhZCqpiLu4KuK3ztSjDWoxRKFGjA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4utTUaQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4utTUaQ!2e10!4m2!3m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3
+  - name: >-
+      places/ChIJy-nXMNqAhYAR40z3pkUofL8/photos/AUy1YQ1Z5_PE1Wz8n52bXdDma4UVGY6QarxFMTA6sc6qXWlgX9Lh_H96DG5mTVse7b0q1U0Na8U-9bMV-MP_AlcVKmpNjwidvXDk4NIsH3YyApmW9_75zmTWugMYLqyIqRCtdPQvX3nmVeBt2V4UyQ5GkGul-nP0ZrccL22vCRWvptdtlegTNQR5H68FdUu5pnNPjj_mQw4pDy31E-pyDXY1gs-1RdbH5eukCpQxjSyf4-gosTRnujBNcVNZ74xDzB8pjQH8f5EbQgPAOVSj-h79kJdE0yHUaJg-J77WGv875whX3PV94ckzXVIdfS2WiG0gkNIblaNTS0ETO9NN7G14t7ipQkkmXzoWCVZF_f4xfM-Frf1bGinSzlRLaxVcy-fET316_4Us-lVd9Q3lIhjW9VE7a5ZxGzLq8UcBNSlOmhNasLY_
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Missy ice
+        uri: https://maps.google.com/maps/contrib/107675776724835562977
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLALpIfM3Xkagn6wnbMy3Z_acX9NcXT4rxWcMVxHRgYHTLGeIQM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj8oPSqgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj8oPSqgE!2e10!4m2!3m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3
+  - name: >-
+      places/ChIJy-nXMNqAhYAR40z3pkUofL8/photos/AUy1YQ3qgE-bkTlNw-SNss7UtmcBq2Z6YcddHBGlDzGtzNXk3kkAKblILSTt1zjgcd1GdsPlmHCUzhApnh6MevY3aDFjrnAs1jOph1Pu6WviGeoopoaKJRaUAYZ-t5Np1KrUADhQCgpon87ENA3-0vCxGeWhrFrqL2Ghuk6LwrGKSo3CVW0nm1OGBsf85g38KkVC4nQLMYCpqBubQF7tRWLg9tycfuMvZKFU27f-TNrdDy-ZQYp5GkL-EVB81YXKoZYlYN7HskwYs59kwDIJpSZT4HVwBKE4Tn7YGMiHqn5JRrU-GafhkTW0nI94lGo8ccUOObvTSOm5llnSk4bDBxwoKkj4d9teuP3sdU_Lam_eEH1lrnMYLhWI2qxrb9wemYlq99GXR0KciMpOnawXaUHeUvl1rWsX54ZukLclYEOnCSbAHL6F
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Catherine Chen
+        uri: https://maps.google.com/maps/contrib/115307933511021515436
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVxf_qvc7_Whri7i0XovRJg3A1IScglookxRu8pl-5B9DFnAONDoA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBg8zCtQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBg8zCtQE!2e10!4m2!3m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3
+  - name: >-
+      places/ChIJy-nXMNqAhYAR40z3pkUofL8/photos/AUy1YQ0jx2vk5yp6Q0H_LNwBL_6LAVhVCt9R7aQiylilLElpV8Bhd2mD4hMnR76vERYqSBKnsdrqpr62JFzrdhyaIqu4KVu4JBcNuDbY5VU6By66g43QArgQ7DEXSPJlR5JKBuZiG_UIUEwfQtd6Y8ccjHSeJmzjlo4a07eB4PctyM00WEurvi_oY96LQcT_iB0AgXUE9wiUJ-BcsblrJMtCIlIFV9JVpSfaFMECjQbrfXUwT2eBhFq0M7n-nQzIUrULjCRAh2SZTTLrJLe3xlhh6orpsBWYp26E6_f6_9K4h4IJCjHz1WaF08p60tXD0lvOlp_03-rcmyCDk5_4xdEO9Qup30PBI0JVVjNx2XEjkh_ccs5PdSI7ySaA2JdM-naF8IDnm3xXDHPgghf8kbQn2vLDjZD53T39PlUIdj2WjoUwrA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Missy ice
+        uri: https://maps.google.com/maps/contrib/107675776724835562977
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLALpIfM3Xkagn6wnbMy3Z_acX9NcXT4rxWcMVxHRgYHTLGeIQM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj8oPSSg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj8oPSSg!2e10!4m2!3m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3
+  - name: >-
+      places/ChIJy-nXMNqAhYAR40z3pkUofL8/photos/AUy1YQ0fxBiYzVjQmMubPVBbMYbcVmg2IA__et6dEvJWFBzJuC6hdEC8Q_z6_JTVx4EeRrNUu0Ccle790UIl-rVt_nHxkcWMVDyRTj3aMWFc39jSAF2Pc2zdZ0wt0keWyCjbiaHRxf2pBs3Bi5qdgd3XoAJ1xCu74W1viv8b5yTldOcsk5ucZSMSP0Zz3q1ZAophrhPaR4THnOQ8eSFjHcY50tO2xZp_5Sdq_JuMPbb6fKR6tgYaNI9NLZ9A6YNeowd1a8J9rxhS-VvmxPzjoladrHnuPPtwOvSvN81OGb3D7Sit7kZ6xXdba5k1TZYgc2B7DV-LNNcQilD0B9GGVU2RxKnGuYLUaAxot-iyBeYrD_v5udIh1SkswfFuiOmPLXDZA1EsQs-uYWSnqV3FYVa46OsySdrIVYaWwHP81W3lwW8UaME
+    widthPx: 2925
+    heightPx: 2194
+    authorAttributions:
+      - displayName: Michael Richard Greene
+        uri: https://maps.google.com/maps/contrib/111449972518722977945
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVKPn7fpyxucgIks7x9zKkc9ViP0Nl8kGg_cnoCkISl_nqgJfs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDn1anM9AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn1anM9AE!2e10!4m2!3m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3
+  - name: >-
+      places/ChIJy-nXMNqAhYAR40z3pkUofL8/photos/AUy1YQ0O3zQKeY1Agq1fk9ntLJbcmKmVazllHBL9W5zJv9MRqkIN1oIi41RyRBXaNhGgSlm5H88p5SS2mNuJ2A-8Ed-mgiX1-xKp-OBPGFlfJpUgWQhWXVJ2u2jeViFt-Zyemz1g5K6-qWJAaERy2Xu67vFHnEP0sp0m5eJPKQm9QRP5f5KnMEUxwdd5a_pp8lsCXnM0Xrn6x8JS_IQ2rYOHJh3sGeEDZB9yu696GUrcS3HwOSalS-I5wjfWm07i29jP71VcZXH_zwb_7QBE8goPDmJMVR0AMoj45Go0Gu5Gp4ROFl8Er3QKBx7AXHbMrRVwWOU2K0kHo3UE04kJhiVd_BEeiFXLfagRqShd2XRKduK3waKK5faEusTcoUDRm6Q9t6fOaZuBttP_6_-P1NagnbymUJKvOO-0nJUGQJBhTYp5sHq2
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Patrick
+        uri: https://maps.google.com/maps/contrib/100998247012389933997
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocImupc7OoK57ZZEVC5vngrF39biucsHdKBCp3yD7u5eOZYxtg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJnez_ngE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJnez_ngE!2e10!4m2!3m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3
+  - name: >-
+      places/ChIJy-nXMNqAhYAR40z3pkUofL8/photos/AUy1YQ1Tqi8hCdfonKwVhbJk0vaqD3mQz5G6FZCmSChIbwOHTBXYLCPrB4kmxPykpJnlW5CQUgfci60N9JN4pWeoa6tgiADIsOvWLwe3w9rfjfvDDfX5-acxCzw7WmLup0yjdUeOaAJbiKM7dG6ZhyKGFlb5JsGCI25RmqH7jOK8lQsRKxgGisfIYUnebznyYp1Xu9UyoBkMFnPbjEUSEtKX5JJq_W-XLTXKg_ecKROhl5X3EEvT6m6RoAY6OQLSrma1ZllVMB6QiRlq8-P-Y6iW6zT50bqrLRY_Xa61sWdpsWEYBTOHpZ8939eD9EhTzAVKHwNZsmNNlw9B7-tHeVXp6KPq-vJfH4q1KEAS8LN9Y2lf9qxXUe-n3czib4XuDBOR0gIxovYUja-I-zKlKYLU9nYJrl9jO9vdX2sFd3GvNwZ1NQ
+    widthPx: 3510
+    heightPx: 4680
+    authorAttributions:
+      - displayName: Jennifer Yan
+        uri: https://maps.google.com/maps/contrib/112162562514967456419
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVoas5oS7v-6DnZPnRP-CJYO4DiSMxvsADM200BcAXrOVnaquaE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj8PWqfg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj8PWqfg!2e10!4m2!3m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3
+  - name: >-
+      places/ChIJy-nXMNqAhYAR40z3pkUofL8/photos/AUy1YQ3pF8rVHOCTbgnw0gpB2N_V9Qx2LzE80_A2_Xg_m2ZrTXEalSdZAek0edkeUoe792KqZd7fwnNBKajZOXbK8PeoLAhPay4ONKILmdJ78-MDBx2I1lOgfwQxBfS1YCD52Il30a3itVTq7cpgSqE37iQrTvKq8_PYO6K1RcSrOTYbdEh8t8Qdnm3nsbN9TPeU_-zb6uyqNYOIlZlBmN716oQmMtEPOhQgWhdBuZ16RldpfcPj2_7mDIMacP13risgvOgN8J3F1rEP7Ulpd64-b1cunxQCctdHEedlSa9O1hc6eJxreRU3Hkqfs2HSMMEC9pghm4fdSn-6bfMMNq9Bfo9LqDBig8MXUmJ-WQ0DjUAJfc0-msM0CIVfDI24D1cKGoPmpjz2JjEQvrXdSc-H3-TK9Xf66uJIoXVgHkDBLBGKbIPL
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Derek Cheng
+        uri: https://maps.google.com/maps/contrib/106239533799913827811
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVWcCtPq3Eb2svgX9llxHNM-1MPlT6G83dapkn8lpIDjYzK-Vos=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEksfJ-gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEksfJ-gE!2e10!4m2!3m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3
+  - name: >-
+      places/ChIJy-nXMNqAhYAR40z3pkUofL8/photos/AUy1YQ12bJkQUElTkAhDkQvecc39D7kUElV5dRt4IoANOMxgFH_G3jMk3wNdYwaz1IVzaUGN62zEWapieCql9cri0el1QB6ZHrXqKgPtYcm5I2yrzWTDSWBLht5qyPyLbiYoZDJnm-srFS97lz2t779JgJjhskY-gHpy_VnZiBT1UzJOUS2GNlWSYiqoozvqg2d-9V2bFBTJ03i7GbAhmjCleUIsJ2wo5038zK10J7to9i88zop19Exbprkr27AzeqhS1UXc6M1muTabe9GYV96XJTeY6blaPJD9A9sqaJfxT3XARlUUOfRbtYMCD-42u9JNLL-3lLhXNUMh9Yqed1o_Z3S3HVvXYCFHF2iDjPua3etfaO8ZnRsXWKzTzRq34hloiYTYwg8WTmuvAuiFeUnNPyOJ0pUB0uMOkBIYrWFD3wpUN9m0
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Patrick
+        uri: https://maps.google.com/maps/contrib/100998247012389933997
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocImupc7OoK57ZZEVC5vngrF39biucsHdKBCp3yD7u5eOZYxtg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJnez_vgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJnez_vgE!2e10!4m2!3m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3
+address: 1910 Lombard St, San Francisco, CA 94123, USA
+street: 1910 Lombard St
+city: San Francisco
+state: CA
+zip: '94123'
+country: USA
+neighborhood: Marina District
+latitude: '37.800447'
+longitude: '-122.433159'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Zushi Puzzle
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3!3e0
+  placeUri: https://maps.google.com/?cid=13797947637975436515
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Zushi-Puzzle
+
+---

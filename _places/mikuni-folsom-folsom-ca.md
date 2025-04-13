@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Mikuni | Folsom"
+permalink: /california/folsom/mikuni-folsom.html
+stateAbbr: CA
+stateName: California
+cityName: Folsom
+place_id: ChIJO2rO_w3lmoARV_fB8rX-8Ls
+photos:
+  - name: >-
+      places/ChIJO2rO_w3lmoARV_fB8rX-8Ls/photos/AeeoHcKbR31T6RtRzeDQaI9SjpxHqNKmg5Y9T5nntSy2i1s3EIKaSJ3MZ-rOCs8teR4tpCP33DgWlxExlZRX8wBielcWVdS-TRZ0-L3d99k7-bEue1V_B1ZG-uIFSoPECrpJ4I8yUtYA0NpMZ3AFX2X4NmhJxzLLE7PirYW8QQryCT9ECMqNwx25ucMLT6sTH2XeUrE_9NrbpEt7ZclmQ2I8aIpZn_e-mzSoP1OsKNDwUTtzmXshhXUXe8ar9A4ry09jS6qpl23rV7EL1f0DNRcNPHcFYTjyMIrX9ciKOq6ZxS0Mng
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Mikuni | Folsom
+        uri: https://maps.google.com/maps/contrib/113288391712564871612
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUmVC-umPgGEuVxMZLhIgZ_4zCQHMI3t_bYBly7ehJ2A2GRoUo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPHYNK23b-8gprN5pxIt5kWDRDyJIlIlqzb-zUo&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPHYNK23b-8gprN5pxIt5kWDRDyJIlIlqzb-zUo!2e10!4m2!3m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757
+  - name: >-
+      places/ChIJO2rO_w3lmoARV_fB8rX-8Ls/photos/AeeoHcKP86utzVgy2g7eDB6MqqxwkxMGgvq4rDvFCLrkCvRg3Fq0m3ef8zZn3VTaMm4GPLbn80R4iDpnqb9mCs2BckZjg5A7jaxT_4eKAUMNtdOnhVN_yCp43pAj0AP_59nQHXte_yHByE9QyFSTgPeeO4yqsZIPSeTZC5MXY60PGlP9C3s8c1ebew3igUHAHFCkuO-JyjRO6KqXpR4Z0PZfJHpoJB1SG8XOyZ5xXu7G1KZhoF1TMiIVoiFA4FJGGU6jvOBoDIUa_50nSupn5x3j5WGTsj1soyIDw21-Ym-PePBKqw
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: Mikuni | Folsom
+        uri: https://maps.google.com/maps/contrib/113288391712564871612
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUmVC-umPgGEuVxMZLhIgZ_4zCQHMI3t_bYBly7ehJ2A2GRoUo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP_O0bpcZw8kYd18gxY4af8j_EwzuQ6bAkFenZr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP_O0bpcZw8kYd18gxY4af8j_EwzuQ6bAkFenZr!2e10!4m2!3m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757
+  - name: >-
+      places/ChIJO2rO_w3lmoARV_fB8rX-8Ls/photos/AeeoHcLNtFiXeI71ZS-P8QP1PWq9X6nqnYrBypUzIsD-XcX7iA3LUEcT8yAXc0till7gTQ7byo_sgcCwH_jPXrEfirwYPP71c03w0Wnce8QC2N-TuaPg7nbrgoNukV39tm8HeacxzJiGsyiM9sbSyJhXxle1qlIYg5KDZrCPVpwL8Ei2FzFHMk6rnXzLHXH_JcFppXoTEvsNTBlnRJYaHS0DF45gS-pU_tmUV6mAm_tkORAqJ2cWY-INIj7i4VZmIc895PZVh4zz7Sy1cp8igwsja_4tN_MyEUywmoK9X_C5Nx4ur6h_hdy-OkQVdbs4qDXqkNfAxDtZcOH_C7_77uvf1WFcoKAZITKinEGEnT11qesKbRl4xmc1NCKoit9Ml0buFOJS8Ww_m7y7Boyo3Fb2KwqqHl-k7IAxO9s60fLyhRyXmw
+    widthPx: 4030
+    heightPx: 2850
+    authorAttributions:
+      - displayName: Cali Living
+        uri: https://maps.google.com/maps/contrib/109699387463910399120
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVrn2SlKqiXH2CtU0Y6WXY0nX74HGK8Z9cJHVKWUWAuUw5_elQ5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjoKSdZw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjoKSdZw!2e10!4m2!3m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757
+  - name: >-
+      places/ChIJO2rO_w3lmoARV_fB8rX-8Ls/photos/AeeoHcIAb4Q7EeJxCHjcO39mgWVxAWYrQGjVbcnEPFFGBXBldbise8LZNQFymwBXw9XKSIF6j-AeD1IkIwr_kHRR22Z3rBkKy0M3CUdFNoHWh9vFly9HXx7T3Nm7d14mj5hHXn4MTfdv0wemnWTlXrGgob8vg1w0O5zYzh3SJ80Q7Yb9ean7nnrtUzgRKkhfVbInx2SyfxuzZGu_RJw4yGnYWPA6RBHZhB4ma0xHdvT73VMsitAY4IK3i_kIkf3O-TB5hDEs_Dl2H9XBgOQWm3w88MgguqN9POklt13eKrmeW2zJthZIfyqGHATBheKmAtm7XsfYLGzxP4vthpttY6XXxMY10g0KZjlWCVAp9io9S9PEqBxfV94q26GCN1MzEv_4sdx7FEDsUjHSfExtGotfpEXmDeWjBlVHVKL6NnDXAIt6Cjo
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Arijit Bandyopadhyay
+        uri: https://maps.google.com/maps/contrib/114490813203316126946
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWKMh2nhXK4faoXas5ym2x23zD6ltIEZHP45KWgH8dsEHdcYb9O=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICX5vnczwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICX5vnczwE!2e10!4m2!3m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757
+  - name: >-
+      places/ChIJO2rO_w3lmoARV_fB8rX-8Ls/photos/AeeoHcKfC1cnI--qp78DwFaialAlnPY67Hdevxu-Yj7hRimR4fEuxY1VNYHJqt2RdzgRnCtdoUUN8P2Xg7eBiOpTaeXR6jSgh4fDBB88KGpIxZWNKGRoVktmvIB0Z6_CPm6nL5Wm4cMjYlIpuXC5-TsFcPQwg-HGCQlhxr4Pi7wjEx_W3yGomDncJ5XIYlHryQQ7w1cFd1CA2az1ExLBGGyesUdG_sE8vrIi9dIcNvex_Hk0OQih3LGZ0RgPGzmRqs9OkzfpXlitBshbDKiACXFRxPXFGy-xtLGvE3xWkZX77nUf6A
+    widthPx: 1280
+    heightPx: 853
+    authorAttributions:
+      - displayName: Mikuni | Folsom
+        uri: https://maps.google.com/maps/contrib/113288391712564871612
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUmVC-umPgGEuVxMZLhIgZ_4zCQHMI3t_bYBly7ehJ2A2GRoUo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMHjpJwk9bHBXVi_cG7yWpJbKwCbGxmCs47MvWB&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMHjpJwk9bHBXVi_cG7yWpJbKwCbGxmCs47MvWB!2e10!4m2!3m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757
+  - name: >-
+      places/ChIJO2rO_w3lmoARV_fB8rX-8Ls/photos/AeeoHcJaVRi5S8puLZtgeiZ8BMmxYW3S05VhsT1bb_C610JHQKDk9IYSNkjUAU4hj9_b3QeJi2vrvTDFnG40QJKBR-ixsd1uiJ1k0MhqvqBDg4ocRuFn8VTevqx8IwTBr09eIMz3njgbusikF37jKUsFDGrbVD-eRSskmvmVQhQ-1dxX1VgfTwC23Wh0FFwLywpGptBdQDtLujK4BW2nmkYCfyD57uqPtpQx6s6rLvkQTxS_G5V_uQysv6BGGcNVBbaMpuhv4BDbLxcc09j4AorAIxZo1UMoLwA8B-AG4Pvc3jCty4dcTIX9TuWsVUT3-hW-4U8SAQ_Gh2UCs_onqVbLBis0bmj_yVOALq8M5he5Prvv8727WRn19JnceYmcW8gIUzV9vA_NS4t4vOPT83t7bzriA-lkBwP6_KN2VSWI-Kg
+    widthPx: 760
+    heightPx: 465
+    authorAttributions:
+      - displayName: Sally Kasper (Sally)
+        uri: https://maps.google.com/maps/contrib/117104100344063950988
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUrIRbZGDWGepFqrQ5bLKp_vqR31-qxQz5OZTZ8pWoD2i0OjrqeKg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC286PqLw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC286PqLw!2e10!4m2!3m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757
+  - name: >-
+      places/ChIJO2rO_w3lmoARV_fB8rX-8Ls/photos/AeeoHcKpkOd8zRQht5tQajrma3QmZFNe4LOkvsRkrTzoFlPYLyF2jGJ1HU_2MeeLjL6GeumYAWabisJUOQwhCGYlmgRegMIrZPbmPHrmmo8NpYk-dnsomOIVGUGNNu75vKsHEnyWLroJmVpFxDUaNIj2fZfdQXtNktC3M5GA967xszpWmuStTg9mZrzAoeF03-E_n68SWuEVLOnsQe9e4ezxmfZxmOFiAOQhQReOdwS5gVMYgFSGOs9YMnEppCo0v2-lyHDBM5F4UTVVdaGOD_U9m5oYKKmFNZjA8jL49Tdotm9c2qbZ3eevpeoB6UFB7S_uq1ukTAjVsOEJbPrq8humNi3vUxtJ-G6vfC_tXhJC1DUXhow2eNHAOjNxbMuVCAGaV7Sp954Z9U578a5PF4V4Hk1J0zcs9itnYAoLOH_peZ4BenLs
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Yulianto Sutarko
+        uri: https://maps.google.com/maps/contrib/109937886426163599739
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL5AbSRf6zjHZ1_XPybdPM-ACfKMtSwN1JSIzW_NJKSv2t8_d0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDF8I3qmQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDF8I3qmQE!2e10!4m2!3m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757
+  - name: >-
+      places/ChIJO2rO_w3lmoARV_fB8rX-8Ls/photos/AeeoHcL3cj599Rm8IGrL2gKG-3n0AjPepV20Jv0LADI9KoDWOmnFtqn9uEZbqMCTrGB_vzNy5KaefxeLGgWA09pDl4Lhc1BingB6lm23eQ7aCwpVXi-s5QuAdmz0udG4G3xweekT4tdv5u_zySE4q1BDqhl98meDgfAI1CPRW15ZA9Vyc-69A2jpO5Ahke2Zf96e85zALfsmPi_M6zC6EmDX9ZvmkHTTsc4lUpXyrjFpNm8kVTDwazXMkRjAxvKBlkjWFQIysoaHG4SEEuXtfuKopb4f3pZzLabaOzDaqjfMlUrMuC2KbIBLiZnik2zPPE53d9X9QLGB2fkXALu4nFwTGvwTLkGkLVA3vjZzp76CCvEXcLCGQnIUil_C-jN7R_o7ySsY0jLyy39hdxKDNfVOJGByigCPXgPI3LAnG7_-kYg
+    widthPx: 3549
+    heightPx: 2036
+    authorAttributions:
+      - displayName: Kent Buckingham
+        uri: https://maps.google.com/maps/contrib/113284780032254874702
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUoDiraFdP0r-aZiusHLiKIO5qFpIRgKdUtVBE3EpCnLQfOQ8KiXg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDuzsfQZA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuzsfQZA!2e10!4m2!3m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757
+  - name: >-
+      places/ChIJO2rO_w3lmoARV_fB8rX-8Ls/photos/AeeoHcKJaNUjU8m-DItxHxKzXPMN9zoxqbWSG-T7BCeeR3PcX0I32fYsDCFVClqHMoU8w2EspZwbL9__PBzajhfA0wq2xpLGk9Vbq7Pe6OuLTPkeSg5_9qOp7CW5UGQjn1PX_grRtLGkxbpbTEs7u--7z611gj7CfI1ZjnzEf9eyxuNBZPQ_hqneZcg3iCfbnrcJAySd5vJNW6dWiyqT8pFtEQNldx8s81oGcsMydJB-mTPS7Fl5QbZcQDowkv7_D_bgVJ5jSFC68j091DUjKUkXjko0cHUXKKuLxKhBQp1rlane5opIHgu4yReUItFDofsYJcG_xQkmxCirVxfgIhrMp_1g5rBwR70_adVHxxUn5TpCzdzURIRde7_LmpUd2UGdhaPyxUDUDaZSSSFhl8vq3cLyB3Du2XBsJY-DxGqVGJpMcjmk
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: K Chang
+        uri: https://maps.google.com/maps/contrib/113942351245965481260
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVXGTsmJD1zW8uo75QOqg75PxzN09F7pJUbWuryYG6XzMwuHAEj=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID78rmVxQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID78rmVxQE!2e10!4m2!3m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757
+  - name: >-
+      places/ChIJO2rO_w3lmoARV_fB8rX-8Ls/photos/AeeoHcJVtXSFNAnM--n2W3GLFGrA6OWFBwamzklwbVUzdZX3qoktwpnljGxonrPyCRuENzjoylBV31Ikxsq9Gm-g28PrF5ATBFuI8qXQWd97wckjoUOxQ7ympJuNJCXLeHr5Kt7vuogm4AyCKLEcT3YeQD5SJ0a59mxp9eu04NTri51RFVrpS1V8aLOtVSH5-AdanJgt1uQAsGFglDw4nvM51lj7iYJhQQNga51Vsp1DqRl7tO9zBa355uJQKLr9aLSozh47A1L5ilKY3D2yr09cVQXCU8uNeR-IXgSoz7L4GOQhw3jHnyZyK4Yt7eTr7aoJPQ_5tYMX91YyPv91fxhtdLwRsqt1ulFeJZm2lgXorRbpc5lSa1WAJJbjSlkiZv6mxcVsQkEGrcO02t38QS8gBKpJuNP75_xZdAVqeFsddGxnfQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mikal Lee Tuyen
+        uri: https://maps.google.com/maps/contrib/113996602644792999837
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1iD6ZslIlU39n14Wp3EJb1uTCK7D9c2GzaJRCkMFsvE2fkLQ5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHm9rkVA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHm9rkVA!2e10!4m2!3m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757
+address: 185 Placerville Rd Suite 100, Folsom, CA 95630, USA
+street: 185 Placerville Rd Suite 100
+city: Folsom
+state: CA
+zip: '95630'
+country: USA
+neighborhood: null
+latitude: '38.645330'
+longitude: '-121.114139'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Mikuni | Folsom
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757!3e0
+  placeUri: https://maps.google.com/?cid=13542604136918415191
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x809ae50dffce6a3b:0xbbf0feb5f2c1f757!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Mikuni-Folsom
+
+---

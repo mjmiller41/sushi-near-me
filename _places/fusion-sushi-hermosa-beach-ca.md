@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Fusion Sushi"
+permalink: /california/hermosa-beach/fusion-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Hermosa Beach
+place_id: ChIJW-Ej04G0woARcMtTUdEY8Q8
+photos:
+  - name: >-
+      places/ChIJW-Ej04G0woARcMtTUdEY8Q8/photos/AUy1YQ2jZJOt3HbZVjo-y7Fz5G5TYkeCQZb0V4pq2-lzybOzJQhNA1LplFAQudeHa9iFGd5znP5481uF25KFqHsx4BmWeB8StxR6cce3CJvXQqtiAi9FGaKaZ3KhnZPxwBL3iZNenxNqe2sAPOto2fX0W9g_L_cZaY2MrEj1qS3njnbyVVomYRjuUk1iOGe4ph9rxSx0yVCYTHpccX5XlI5wQKDWoLSsrU9ZLG0I8bSnNp3yG-37dKkFQ2avLd7fJM-jR_IqGZRJwRkaRWMhHQHWpEISRzvF2XXDg6FRB_PRly1a4hiL1hp-1Q-edQbhojeODxSxztpicT88WyVV55OS_7OqFJ2EM6_k-2twTwqAgkFzn7G8Bq3aCjCdxTkCJ9-h9jr3AibWc-rgfgoSp8JBGcHB_tNcXs9FWSL_sSsaU1DAULs
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: jorge Bardomiano
+        uri: https://maps.google.com/maps/contrib/109430330906682056402
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUYB6taZGfeiTDzONKgW2QU6sVBz4Efaik2P_KaUc70MAkJ7D2WRw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk9sKf5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk9sKf5wE!2e10!4m2!3m1!1s0x80c2b481d323e15b:0xff118d15153cb70
+  - name: >-
+      places/ChIJW-Ej04G0woARcMtTUdEY8Q8/photos/AUy1YQ2FOrdIeTGazaTZrjKMIgojd8Uou9OLoSh_iK4C9HdikAkEcTmNrtzi4uXZQdYufAe4DlY6QDjAAf0GMsoYIJbwg7h_rRrrwFx7TsrCfhkxlvmXwRFczuc7S8Iz5vRepVfQUh13FDf3NtiB4YH53q_8h8maCa110-L1xmbOom5yjRI1v0YIVaTqiInXlJT3CwBjztU8Moc4EY9u5MWk7kHlOuJTnzK432rbXAdbL1jLJu3oR4e195EBt_aN2Tfg8z9NdX2-Cbjk9VjbqinuLWjO1pJtu-FmtWeBsDr64IrWbnZexGO4mdxPT6YcB2luCtKuy4xKBXtQLVWV9KzpMbbkllW7nshxGMA_Bt9U6pMxSTPRX3V8LwCJ3dSPiEKTU1bfSjsFxAaSpf8kx0wdmRiRm38WTZ5SA9S5Ew
+    widthPx: 4032
+    heightPx: 1816
+    authorAttributions:
+      - displayName: Russell Juma
+        uri: https://maps.google.com/maps/contrib/109620409924204529623
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXWToSFv22NIA56GDZBgPkSq05_ugPLxBZNRIIeJn_5lkHj6K2jeQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-p5I2&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-p5I2!2e10!4m2!3m1!1s0x80c2b481d323e15b:0xff118d15153cb70
+  - name: >-
+      places/ChIJW-Ej04G0woARcMtTUdEY8Q8/photos/AUy1YQ2YNTAey5JdRRaGEtK5Z_jC5HMV8tcJmt-KBGxB4nVDauZMOPWEhRbQx3D2OWnyzrCDyfWEOubyQXQoqT_lXlHRQB4ZrJy6K7vEJIKC8bb24x6WVPhCWSv995Ffe0vdXalHlplPJB9OjmSOdS1O0xZD01y6pAUq609KLXgm4_Guf_a6uVa2gBqgqGvtqcUXtPDmCyhylaqTIb7ONXhKgVM85aV5EgbGDNTMHovqwu78-RcyZ9a1cuIyCSqdV6bl19zsQwSJC5M33I3gA_iYetn1J3h5EkIFr67sn7YYnQ9o6zqiZ24Jx9vP_40por11T7A_eJ1jxUNt6CGFPdH9tlKTkr3gpq6rkinCNszkG6hbnv9bzaFOqwWELe77-WTUA08_POxRdy-3qV9U6D0aPKWh2Zu8SYJLWw4shZExYOyd5w
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Rick Flores
+        uri: https://maps.google.com/maps/contrib/105259744574407265228
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVptZQDTn4SLr2LM52XrHUhRTN3_tUq4ik5NilEeuhhQWJI4FW_OQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7pdjoWA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7pdjoWA!2e10!4m2!3m1!1s0x80c2b481d323e15b:0xff118d15153cb70
+  - name: >-
+      places/ChIJW-Ej04G0woARcMtTUdEY8Q8/photos/AUy1YQ26dF88wLa4YTvqOfOMyJYOxNmnRAAAAETVOj_xxUZg6Tu_2G2hqGzRhQJIEdH_gAc-xvrRXqzR-GkenuPn27R_xJKqw_4Pmo1wzrjp2Ulx-sCmpdn0s-4UFfex37iqOOFSnYgawuQhnshlwBW6t5Y0PSqgCxgaB02Gu2hoIP9zdI5QXTIr7cuZmOyF07vJSx64JiKFnkKyBVJGxn3dCsBjVFlQ9mauS3cawgOPmVD0TbbRsvrZgGn-aPI79SRrfvlrTeN75No29PQGaYxOEADG6RuWtX1NPVwurbVx1UiAwdNRcAYcU56A2SN5epQ-LYQBLVctsL9BQgHbZEhUzurAWKXI4QTSZ5KDbTMoAbZEtvjtzq7jzrF1G0-Ru54t94BluWaZ7MC1j2Fs1_vp9WmSDLxZSD6M_R0ChZAHoPKTKA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: D.
+        uri: https://maps.google.com/maps/contrib/112080779170632625624
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUTrQbZ4q4pcQSazH7NxJBia6h2UdkZT3stHIvgARBG4zbwciC-tA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDK-vv2Hw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK-vv2Hw!2e10!4m2!3m1!1s0x80c2b481d323e15b:0xff118d15153cb70
+  - name: >-
+      places/ChIJW-Ej04G0woARcMtTUdEY8Q8/photos/AUy1YQ35km_-KP5ye9BgW9WvA4_vH_sN-JpTEl1eqjXjr4W7xMomMnEgtwqByr7Cx_efAU_y9LjkoCxXBey4EXgTEqEfowUZBoojj6lRlAAFo-3W6CeLximx14RXykbYz1N9EIJGbPyMUXHoN_lvH4GrRaIG8A09XuAoZIaaoEU5w53UUdF1D-Tb_dMy1fS9ljwI4fuWUKAqGDWbj1SDhdqatqQZGEmcOkoaz-5G96DCGi9Goknm84CZ8pHQXkEpjoXQ3wH4cgMuEWziapnSG3F_myMRcXl0D5K7escq-VxdFQlm1X9nV4GSmvVIbxjoYb4vrdgLQe7PFB2bdbI_zk1ROWXNKC8gyxmbxzJwJJq0Q3YbQjfr4dPCy1RDXnko2evGA1EMvLPoMVgKzfeQ7zWzEMboxPLJZBHOYvk8CzEM--Q
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Claire C Tsao
+        uri: https://maps.google.com/maps/contrib/112128027595783708234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUwL0WWZWuuxuz8ZzZ7Szkujb2pvQzreQIOj3_6omxTctdxBOxhmQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICd8c2-Mw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICd8c2-Mw!2e10!4m2!3m1!1s0x80c2b481d323e15b:0xff118d15153cb70
+  - name: >-
+      places/ChIJW-Ej04G0woARcMtTUdEY8Q8/photos/AUy1YQ16Wwl86_QYQQbs_N2CsDuRZu-TkTasj8dg6qplRSro2FRIwOKLJkxFQit58_7MIeo4WU24fA0UZBWFllwmsaHJb4JQnckUdhTDHtVnZdELJYn0X0dNuTecZbOGOtN6NUiRJI8Tk95cWOX_CcO49XIlOa8W_1CJG9R1lpcq5pLS-ePBZKrR-vs86EhO3-L2IfyVNU0kXtDZYXU1vCPW2vHqz4KvP5fOSK11Im-CtRUvIIJp_yKvi8Lh0IKQ1DMSMh2f0joUkie-6F4eBsT0LjyY2lWBh82kkP1gUwgqQ2q1lmFEoc3gW5c6eJtNS4YAeKJBfj1qopGXHm2Su-h-eM12lKvpgQBdruV9LwoPF1-elFRXg8fQn7U641DyuvgWi-CuCk7GNBLlLOiDzcGUV4-HVpwsg67uWlBvntQ09YA
+    widthPx: 4608
+    heightPx: 2184
+    authorAttributions:
+      - displayName: SANTIKUL SILAVONG
+        uri: https://maps.google.com/maps/contrib/111211601985252194820
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtFRWzFPERJgbH3PpufZn_uQjX1PV-223aJ7Mb2nqfUx6DcYGn0Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfzvKZNw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfzvKZNw!2e10!4m2!3m1!1s0x80c2b481d323e15b:0xff118d15153cb70
+  - name: >-
+      places/ChIJW-Ej04G0woARcMtTUdEY8Q8/photos/AUy1YQ25AbHUWiDlM5KzeqvL3uZQ9MSLn97qEMHAOv3G6P1kgF3jfEQicS9EKxCBcYU0HUCsgQ0Y_7dToT4HhkbbkJ4eiKwMS3OPFIBb7fpj2ckANVmCKRyZfSIPz8U9jIwqBgh729zoT-5yhsvN6QJZCIdsDe5vdRH5A4JbNP_-aL8mNIqls8y3av-v80kpvYWcU6eRGlkudYbSf4fF771IgZTE0c-vDaaTiVS0mKNVSv7W9dxHJniUdhTjTyvir5E-4GZDkwp41Ts78MbVeAYCz2PWaNWVIxdbGCHL2sSLkjGAHiubNWrU9dDSoUhotgyEyYFCNf9NzL5Yl9w4WLfkWAstvXEkY1VMNUU_-6m8QYpWOPISlkvBbYeGw0n-y9bVTy-xOTDWzrNHNCCo_kOBLSd8z1cW6VF4dnadxmbjgEmWonPc
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: jorge Bardomiano
+        uri: https://maps.google.com/maps/contrib/109430330906682056402
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUYB6taZGfeiTDzONKgW2QU6sVBz4Efaik2P_KaUc70MAkJ7D2WRw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk9sLJjAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk9sLJjAE!2e10!4m2!3m1!1s0x80c2b481d323e15b:0xff118d15153cb70
+  - name: >-
+      places/ChIJW-Ej04G0woARcMtTUdEY8Q8/photos/AUy1YQ2TbjVYFoh5Ahwi6I-ZvHZ52NT-dtxqodfZFQJ5L2HYAnee8OQYxq1KcQUBVO1dq-akOdTqj1HA1wDYmzHnJ8L2u1QPq8AYnFwsa02MP5OcswoNvKBnyq2dkKc5qc79i9cT0j7BFPZNy32tNRlXSil7Y3c5G-G5B7_KicbPNA2iIf5H2BbUHOzfANnShPEx6qNumtStCm7S-7QBdlY6w5IeLerXLdb63Xz7G4KAIMiIVtMRVj1fU2xpp9mcars5P7JzXDLNgG8mUgjS0TSd0qt0PkotR9e4hTrX5AEa6fjcuuATYhXl1WjceT_blB8ELCsL8RqltniINnAfrQXZL8NFwc1hCUJDQ9XuUytOLSU0Nc2gmyEUUQl1IPIl_8mka1o0lK8BL-s5twQKyrOr7BQ6E0PmdQYjTW_wls4TpDI
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Nina Yugay
+        uri: https://maps.google.com/maps/contrib/110153230311765263497
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXtHFQ76F1MdKXL1E9F-dAh-lsZzf6o_XWxhM9eir0H_-yqwApn=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ3K3rCg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ3K3rCg!2e10!4m2!3m1!1s0x80c2b481d323e15b:0xff118d15153cb70
+  - name: >-
+      places/ChIJW-Ej04G0woARcMtTUdEY8Q8/photos/AUy1YQ3EDVpWPOWNOSWBDPEAN1fF355yzZKaT5_55I74USMzou-_y7T7ekr2XCmcPOBtcbgnIWApLluxdAOwYR4JbSKjfaWA8NGD8uwD1d9qtZ8zrNyKFLaFPCFimIrFRS0ucXngAAiQPVoRYrHykOKG5NA5QPrAfq0R9_EKSQwOuWb-IS8fu1c41OcjdHBsK-QBryRbGN2_I1oIO08s5wmTRZnCWw7IQKAhi2rz8493UqU9fUM0_WjehwmNik24U2XtonWrGqgt4S97tcuD2kPux28j_FqzwABhBN6Cq-lqAwyccCYK1q4TtZvCBHgddkL0JTt7-SpighBFWTB0Gxx1mKS5uQC68Geh_tcVhhZLNQ3Tfc2MSDt0a0hR8p8leufxbZ1adzriE0La0-Gmvd9IrW5l5lwjqMtmfARR5HxFXaYdbw
+    widthPx: 930
+    heightPx: 1108
+    authorAttributions:
+      - displayName: Charline Espinoza - State Farm Hermosa Beach Agent
+        uri: https://maps.google.com/maps/contrib/108286466541355164636
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU9K5qy-NWxNdkPiTEuIDWgeIH_OrtXiBheNfNFhb7MjZFrJMU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICup87DEw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICup87DEw!2e10!4m2!3m1!1s0x80c2b481d323e15b:0xff118d15153cb70
+  - name: >-
+      places/ChIJW-Ej04G0woARcMtTUdEY8Q8/photos/AUy1YQ15x4d607ijWeGcVVkpTXAPqD85ShSBm_8rJiiQ5vLQhpUVBpZIBSwCoti4TzftkLEulOO8IWIptmPGj5r1BkU_NZIjOA20HC44f3RUBaeyhDiwPvhK7JobjRgEBuwgY0Tv_EIYwu1ZDZQBLgofM82PTsBkhdd2Bnwlyt3aHRLgQg89YPeOC1ik_YrZ5eD2Z-irxHUmWHWCgy0Gcidj6ZpHTHwCMibq1i8blTDufQ-MWalHUT8IzvkfcXn-UAas6ugt6cEyVHOkuPtbiumx5MPFuEtx2cmJUrOHrv36X_R1YEH7Gc9GxkGWxlCQmQj11Vwx3oy8GHxtzW28v3Tu3H84JSkH1cSorPCiRNX7AmX9OgyBjqgZUTnOLCqp_R6IIP6hLAG8hdiO_3k_FxwiHeZ70movRMLfbS6Ihrz7A6o
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ben Cavazos
+        uri: https://maps.google.com/maps/contrib/104158223914759442956
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKlPYw66dDWY0FOfQNdj7dhb49wGoRSKjlL8Rjt_mgmO_Py25jj=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4rozfTQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4rozfTQ!2e10!4m2!3m1!1s0x80c2b481d323e15b:0xff118d15153cb70
+address: 1200 Pacific Coast Hwy, Hermosa Beach, CA 90254, USA
+street: 1200 Pacific Coast Hwy
+city: Hermosa Beach
+state: CA
+zip: '90254'
+country: USA
+neighborhood: null
+latitude: '33.864246'
+longitude: '-118.392568'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Fusion Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80c2b481d323e15b:0xff118d15153cb70!3e0
+  placeUri: https://maps.google.com/?cid=1148726667247864688
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b481d323e15b:0xff118d15153cb70!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80c2b481d323e15b:0xff118d15153cb70!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b481d323e15b:0xff118d15153cb70!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Fusion-Sushi
+
+---

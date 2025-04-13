@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Fuji Sushi Buffet"
+permalink: /california/vacaville/fuji-sushi-buffet.html
+stateAbbr: CA
+stateName: California
+cityName: Vacaville
+place_id: ChIJWQKxGs0ihYARqDz19lo4iyI
+photos:
+  - name: >-
+      places/ChIJWQKxGs0ihYARqDz19lo4iyI/photos/AeeoHcKRiXs9K6h-hQ5bcZLYqzSCnj-X9WcSy90OFQr6uYIB4e-Tz0moWN-WBq3Thuya9evynixwbLbs2TWUdjcq7Pw5WWlfAszJUXN6LWzL6RHBZejbmV5vMvJ7jflW9EiVdD4rjMe8plMsoasgHOI4bpJidwS3Z8qyMFL_xxkqOwEo_hY5HRTQXVX_MIQ6PuMgnBoaVcFJpv2VRdpXFIWfETvNBEY3Ej-vfula5KTJ2DVyrv5hdAKNvB62X3Xj5gO_9L2IZclHyAu4vsQ-w2Kfoe6jxbNCY1xtmPivN5fkNfl88PdvoHttyW2FBYVD4FLu3paBFObuznvVa8uXQM6MNYON4553Y9KSP7Z_PKtXF9huIhqovRc76K7vzHA_fR15RwBE377VUM8m0VSnZrlv_uB-3kpHkerC5QnzyGs2QY9tdA
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Gary Diaz
+        uri: https://maps.google.com/maps/contrib/116911502135570122133
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUVv2xFL6BpoqFaq6k484dGFhaUTmCpv9vUja-wsPKrrrraWvB2MA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbjveIQw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbjveIQw!2e10!4m2!3m1!1s0x808522cd1ab10259:0x228b385af6f53ca8
+  - name: >-
+      places/ChIJWQKxGs0ihYARqDz19lo4iyI/photos/AeeoHcI3TVsgbtH0-cOUfT0fsGNcuBRj1elPdkDC8Fy0jnb2tjXNDzhzaZWerEYKcgtcFSqH8efnGr5DBxRnaQeMBiK7tZsVZp6oGp2HjtksSDhYTUw46AY58XQ5cjsL_2-Gatx35v9ZLXM822MXyrQyr0pNWdbjLIx5h7SoVjkiMTRLYOs65TM2g7HZXdEOhMMrFuQ37IXQnuBvKN64De7nLRSLoz7Fqp9IRO1EmZ1i7CguAb0doCnWibc05Hw8BYBpRxiR7VXzcjd9Rkz1PbvxtubNYaU6vQ3SqKLpAY0msklCqNdX9Zyt8KAxnxGcS0PiOBwKDPnlWNeAWAV0tp-pB3-vpervJWYinvCNGxqsfc8TcBaCpRp71WCO02tSrAW6kevMTT3Zxhjp1Qb2HNVtl8SE1-i87FrLYTgeDbUIowhOE7kn
+    widthPx: 3072
+    heightPx: 4096
+    authorAttributions:
+      - displayName: Alex Soo
+        uri: https://maps.google.com/maps/contrib/111912000888920188236
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUV9Vq7ybHeMKPEHBa4F3Qg9iMte89S5qkE2AoaMptJSk0nfEnB=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwwJn9gAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwwJn9gAE!2e10!4m2!3m1!1s0x808522cd1ab10259:0x228b385af6f53ca8
+  - name: >-
+      places/ChIJWQKxGs0ihYARqDz19lo4iyI/photos/AeeoHcKyDlcT3jcrAYH8SrSKWdNEaybOSEqVqQtGhRrUjNRqkEHf7lbK1rNsh-bQZkWDaU2sfUBBkvt3QVpOAbl6vhn9IBb0GriFAQnm-z0I3RuFSsBuA_iali8MhsdfuSiDzAz6KQBzxLl_Fpzg8MQB39y4f0P1XivCZhDU_lG2kSUP0BakYp5Qv7A95op0K-990WKkPz8pDfWVNxgDfC2H-MJVpv_fO2rfNJhpKCexmdiwabx63AzE2HfMaMy6gSoFxxHJgeJly8TNc1EQI0r90C8YUR4lNFBiYYjy0w8M37U72o6lSEIFhlGnw9erxPnfkPvUCLH52uLdisP6b2Q6fKUazLxfI_kEY__xBGW-CO2ORSDjNAAjA8hTVv4nByOVBQodgJ4H20nKhgxR2awlWajQDus9vKHwAh4oq3icUUMngP6H
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Philip Bautista
+        uri: https://maps.google.com/maps/contrib/115433055212302894084
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKbLENvHuQ3duxZM8UW8ELSosyKPmOSPnGqW5oph-Q_WCxdpQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICX75rcswE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICX75rcswE!2e10!4m2!3m1!1s0x808522cd1ab10259:0x228b385af6f53ca8
+  - name: >-
+      places/ChIJWQKxGs0ihYARqDz19lo4iyI/photos/AeeoHcJHAIFri0kWsyEm961wNPJR_e-riHi3EFKCOp0Awh0jrCmaBbOHrnQF4Em5Hq3Z9R4Lq69PdfnLPpyU5GqjkY94jKn62Oos7J2muN9zSnpHLvoWPMJF3fF_z3-sDHyShwO9h1FHmxkpnzGLdTPWLzlIOWcYpf55AYIYJi_GTADvgv8PkpYCZ4mPKKsgyLKbSgUT3NPaZQIhkuvlpubnUyEQliBxwBO-DfnldX1G8jfdTxqiA2Rh6QF5qI57L0XXiEj1sO9uKx4cONtNJyCqZY0a8GBTM9HkSDEBczEdGDh2QLCQrmcSRXniA3M3JG8MPPTYVDO_kzUtVWVUuHhNeKSZB0kd3SNEuAXViKskjM8_eguHAP3HZVlXn8e3GCXkUVYRRrER023tgQ0Qn-P6JfgpTXmc2i27Hk-3QmPhWP3iHlAz
+    widthPx: 1200
+    heightPx: 1600
+    authorAttributions:
+      - displayName: Tim Tam
+        uri: https://maps.google.com/maps/contrib/106554924743465698440
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL9i7T85N0vzy4mYrfZl9XPTrwBs1nX-KG77h20blzOnMr-Yw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCggbTfxAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCggbTfxAE!2e10!4m2!3m1!1s0x808522cd1ab10259:0x228b385af6f53ca8
+  - name: >-
+      places/ChIJWQKxGs0ihYARqDz19lo4iyI/photos/AeeoHcJbf1KrD-HwwNER2XdxdBVofhVIi7FgsF4XXro6Qt2DD0mjOx_B7fAUjM3OoS5nYkWZeAVKpobHFqOg5Ov8x-3EdrKv1F8wEEqXYIGzzmWT00F4cuKsRYtxSjRLrtGgheF1NRSYg0cTuTWBDZKUN_9xjwsHqh_DivN-eVjliRSKNxnfeahmUjPx0MhU6uZhiauqKkmdQZ6zdyLet3IXcRmZlf_mMPfQ0DaWPasSusDyO7D1dAKXtx9wzpb16XTZmZkbgnQh0K-ALALJAKJm8xOX94tA9GX4024nLXuBnpjssVIJVpRaT6JpfgT4dRqiJg4Qri33UGUuwowzx3mD1hROWD8P6Ersj_LXj-bcGkvrmHCEVSA3BTr8c5IfkiVSWo4VcTdfat_CSjsR6HgmhMP3QejyKWcl8572HiEvY00MZA
+    widthPx: 2586
+    heightPx: 3256
+    authorAttributions:
+      - displayName: JOE OLIVAS
+        uri: https://maps.google.com/maps/contrib/100581506504000088903
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUaRLaSmyHt9jMOh6XrnRveTmEAsDngQxdpP4YIAFc9u3fF0_V5Ug=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDntai3Xg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDntai3Xg!2e10!4m2!3m1!1s0x808522cd1ab10259:0x228b385af6f53ca8
+  - name: >-
+      places/ChIJWQKxGs0ihYARqDz19lo4iyI/photos/AeeoHcKdjSN9w22zHJwOASPKTIIBkpe6a-2n_a9JQF_GxS5PDS6UAgbxwqJrL13iXSHgaPE6ol_t0j0dmNH3qzGUETjj1F9c5v7pHXW6nUkA17g-YNCgA-GVeWFf_ysB3M-t1gpzyK3zD2MR7kn2YumC479qN2dDtSkWn7hL27M7pfar6ubGnPOlI7IkkXXwzACnemG4UU1vG7hJrFOIOup4CFq9GCPEnb2KmEAVZYNigstpq4DHfxAV4UeEfLz-Y4cQJde_mYtuojUw6Uwh3yQYjgot_SiVSOIABTPiH_EwzkaSFFgHqypr8QeiwKTcWYh_x7eEScn9c5hU64ggJAmAdf88D5RP337rXpVrrAeLW9FNtN16YRKCUsV3Z4fFCksKPQpfQQVaPoIHpKxTRFvZQl5ljWOp43JiKPS3weA--Cqss6-S
+    widthPx: 3175
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Steve Chan
+        uri: https://maps.google.com/maps/contrib/102905718544354034124
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLZaZSahKhnimX7nn8qa41m2iLgE6vRPecJvCsF0kb2rZCl7w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXvefclwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXvefclwE!2e10!4m2!3m1!1s0x808522cd1ab10259:0x228b385af6f53ca8
+  - name: >-
+      places/ChIJWQKxGs0ihYARqDz19lo4iyI/photos/AeeoHcIm4IIr2kXG4Jvv4gKu3-4O_jDEGv6VD5i9FpcgWoU_vMw7HHgu7_9BKvtEcZ_3B77Nv_X7wjoSvEFj0MT86axCTApGrV4nZTbjfLX-Fq6dnjDY-QYOwI-cSWfxnWCLYIl05xWiw2gLJ_z3-d-Xos0gsZ2_EkCuz-wBd5sAoBt4ZXsEcdOvzIBFxwIOWfTZn9l2zEPnUYBaNwmMfdqxPZLoLAViekVMb6id8sseNHw16z8ZjFgXhY9pAMLL1Zr89BK6uqpsOceOhMaOMjKizLqEvhfYwHvGnGnUS-QobE8MbUoVz-cXB6ulRx7C2IvO9fagg2HNvqicWQaELjdnV2-mZag-jBN_hUaAbxTt2Wb1H8SYleJSge2dXzFOTN7oCOI56Ya5eA49SeFoqTyrF2AMszK0SpZ_J9_5a4RtySs6X3Y
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Enes SEN
+        uri: https://maps.google.com/maps/contrib/115243905869195544813
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLccngWI3wyMguG0gCOW4fkZJlDGQY5_pZznvsZszQasS74YZE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTmOad4QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTmOad4QE!2e10!4m2!3m1!1s0x808522cd1ab10259:0x228b385af6f53ca8
+  - name: >-
+      places/ChIJWQKxGs0ihYARqDz19lo4iyI/photos/AeeoHcK1TpitgdZK5wa61AxGAaO9GyJgH0FQugD3HjF56KocNIOPAzbxLG7MlliLqm8pB4Z2Bkgabano4eB9EMx8FJoBSTVx-BfxuGtHS7f03LJAQYgsFIDzY621UJFoIzcvw7AMvQPXJuCIP-PkaNrgfi_A5yXbc0bdhX_1jEgcryjNOe_L08cGott64O-GuI2iiIYPupFQh0wHvOSf4xoshA3Q2CQ2dofCfw1Jyw4kZX50-mHa4fq06Ot-1yLPq00Vx8u0yILUKchAR_-b4rfzuAQ4QFHJpKmeXspAFH_lgPocsa5NvG5ok73dL8TqkWrntTy7uOX6DZfGaNFU57WNB3RKtCav7w1gcTCXmF7KWEBpG5Wqiz4Q3XLasEmzPyP4qffntHicAE3RfrNlm-cMYnFrtG8fYsKkiiB3nRGxJ0YVTwc
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Steve Chan
+        uri: https://maps.google.com/maps/contrib/102905718544354034124
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLZaZSahKhnimX7nn8qa41m2iLgE6vRPecJvCsF0kb2rZCl7w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXvefc5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXvefc5wE!2e10!4m2!3m1!1s0x808522cd1ab10259:0x228b385af6f53ca8
+  - name: >-
+      places/ChIJWQKxGs0ihYARqDz19lo4iyI/photos/AeeoHcLqxdbCINkB4JyQCIkbkQ2L7OV-9Lp5BinKseexth70sKCGoU_0IU1GTB0rdvWxvKZoLvuS69kegOdndZ4vmNTmwQz-s2Fy3baj8dy55em_RX1Pzz3pkn4GwrPkQegydJwYoc2v3ao1EwXW1x_4egYn-u1ajP3ezZAQFdTCGGGb9k1NOeKTBGgdUEFMEJ7Xui9YiZ8iSmQeNdFNLkGSN-fdJpBNBwOx9sSBlMAiBAmdL7J2LpgEWXzvJQDpyewK97xEWknmM9TlWqe-kFCd7hHqYyQvbcCvrzE3cbU48x_g4RNED3saTeMxTq1Stdj0cxvuh0kMQfZ3DeIydJVZ5rI6t2t3VZZmXkYkv0H_D5arCs_Bpt0FVQzybOQYXtIaM_VjObnAoKXOPA9_53jpW3v2_AyMCEVCirPVVWJR6l2wuChJ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: JOE OLIVAS
+        uri: https://maps.google.com/maps/contrib/100581506504000088903
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUaRLaSmyHt9jMOh6XrnRveTmEAsDngQxdpP4YIAFc9u3fF0_V5Ug=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDntai37gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDntai37gE!2e10!4m2!3m1!1s0x808522cd1ab10259:0x228b385af6f53ca8
+  - name: >-
+      places/ChIJWQKxGs0ihYARqDz19lo4iyI/photos/AeeoHcLaE6zJVe0R5EpbnYpGgpD9E5z9bk2vAndHhImues0fMj3EOe-QxdEBINdKSdeWdfJbLyHnQVw9sf4fv5fNNT0YU3tK7Buodz4vd2rKLEcZvNl8lDyU7PNe21yRAfphvd3all6MUX0egy-d_CkyGi22N529dgOFM2m4g6uq7U-zR7EVtlxHvgfGUTgaAw6GLj4vSlvuj8zZPDvprTruKIq8qkkvOqIzXdQsuSvtGXj7JzhkhDTp_mNFswAJVDmaNeUj_RSz6dgsfMc3eDcA-u-nB-05hPOLbAlTaaZiEe3h8pCcsQ3X74VuCL_Pcpl-7Byn8qTOFjEcmRmgO257hluCejZf1W3hZ_GfdNJB57mwCbsIOGwNOkeRfRim_yQj99rFj3d6UnYFjU0DdZnG0B3YbUq_naACQ22wgMZAG3I0H2yt
+    widthPx: 3467
+    heightPx: 1728
+    authorAttributions:
+      - displayName: JOE OLIVAS
+        uri: https://maps.google.com/maps/contrib/100581506504000088903
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUaRLaSmyHt9jMOh6XrnRveTmEAsDngQxdpP4YIAFc9u3fF0_V5Ug=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDntai3vgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDntai3vgE!2e10!4m2!3m1!1s0x808522cd1ab10259:0x228b385af6f53ca8
+address: '1679 E Monte Vista Ave #101, Vacaville, CA 95688, USA'
+street: '1679 E Monte Vista Ave #101'
+city: Vacaville
+state: CA
+zip: '95688'
+country: USA
+neighborhood: null
+latitude: '38.370230'
+longitude: '-121.960913'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Fuji Sushi Buffet
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808522cd1ab10259:0x228b385af6f53ca8!3e0
+  placeUri: https://maps.google.com/?cid=2489145182393810088
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808522cd1ab10259:0x228b385af6f53ca8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808522cd1ab10259:0x228b385af6f53ca8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808522cd1ab10259:0x228b385af6f53ca8!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Fuji-Sushi-Buffet
+
+---

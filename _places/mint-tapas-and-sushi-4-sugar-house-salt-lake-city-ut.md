@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Mint Tapas and Sushi 4 (Sugar House)"
+permalink: /utah/salt-lake-city/mint-tapas-and-sushi-4-sugar-house.html
+stateAbbr: UT
+stateName: Utah
+cityName: Salt Lake City
+place_id: ChIJGYQNTjuLUocRi6bsorHNI1g
+photos:
+  - name: >-
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcJ0m3A3IT5Bbxc2ASrR17ERoKYnJM8hEPkV41qncG9XnGSLVkyuyPbPet2pgC3aZWIKQvhHIYO9YI0RISoeCFO63WAu9unlJ65q7BfjI8Y_X3Nq77GI0ut6gfRe4ZYgFB518VLgSMD9T2oCBoq0uwzTW7J2TWJhggnQuGUwaM2fOcAauEmqYVSDnSrIj6q7ehJ8nMbjM0NthCzZxzk1d5rb6zLtqxGm51V0puEvpwaAp4XsLV80BAwo731dOgazFRNtQoD2AXAX1N9g7OXX2PI5k1ODze15gEamv2Z1OGIulA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mint Tapas and Sushi 4 (Sugar House)
+        uri: https://maps.google.com/maps/contrib/115852101695677638881
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOmlpR2gx_ckD9681IBCpWYuet3P491SVldQ-E_&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOmlpR2gx_ckD9681IBCpWYuet3P491SVldQ-E_!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+  - name: >-
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcJ3PENidKfhaaYcpekkLim4npJNnZwxFdPTCptJ4AtLPD8ZDs8xynfWrFaiU9qderpJPVqoO30lABCGfA11uwUKSzfh55X69DBLEzhGdhgT6JsBJjAVjNzVFmyxoLxJQkkZ3sFETzFN1nkeDncw__9_d40FPx8IksRlMqvJW8I9Ua-MRy4b65USnKyXB5AwdOUTgwpNcRji2uQXAto1zBLsL5vl09J1bqpCVS1CCCYYkcOjOrKFr_vx6sfO_GZlZT53iIjR6h021OrQJHwn9PbNGqc9x_6ScFkQ5ew1GgWwDg
+    widthPx: 4800
+    heightPx: 3201
+    authorAttributions:
+      - displayName: Mint Tapas and Sushi 4 (Sugar House)
+        uri: https://maps.google.com/maps/contrib/115852101695677638881
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPYbkfkBWb9t_oes7BTsU1LQhDrxBDqvR_AUmkD&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPYbkfkBWb9t_oes7BTsU1LQhDrxBDqvR_AUmkD!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+  - name: >-
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcI3wtQpjNpucgjX5F6jpvjcSkxycrXuy2WxvS81LDV_b72dVsvlMgroyRvpDLplU6jXV4khzLk-M4cT2DUcXp6hvwo-TeME_Z5F71gqxNpEH4e5obY4mSo8kStMXKp0w0AkRnmFFLAQqqL_UY5wikPb6HPT4a_ZmqUQ2KvK32fwbK52Uv1R4ltR0xv84gzkCFQHy5K9cjX4YVSrlE-7t8MgkQxXGCN9Lt-fXJpxEIqUMTwnnqinPYGBWRshyvJHK1ez1Hec-m-yM1KGn733oiWtKd5Dx2L4AVvWSBg7T0nkBg
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Mint Tapas and Sushi 4 (Sugar House)
+        uri: https://maps.google.com/maps/contrib/115852101695677638881
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNgTHam-DQFTbp6kt9uON6WzPuemcS5Tuz_mDtV&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNgTHam-DQFTbp6kt9uON6WzPuemcS5Tuz_mDtV!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+  - name: >-
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcIQCdZWdmyMa1vt3fQy8efKaXMuK75epzAZe55n-v05iVstMdBdaZpTc5BNRocAu2gdScT3AMPTiibusoVIqNvHmW26ETa7h-a5TWxbq8UTamOgnNmyXrWw3o4r2UxjAWOBqFWtwv5Mb3c6dvOjKLGt5jfD3P67MORt1MiEAnGOZuZP4LWXuBk9NFQGy_0ouZ4QlKIpLpkR0xLp4xfPU-fMGZavk-LdhabcTHIg5K6Lmo3UyhgFvbfRkp-NLqFcAuikDBnNk5HiuXGLr5t4jGS6VAOtsK8SKJTn7GXPP0f5PA
+    widthPx: 4800
+    heightPx: 3201
+    authorAttributions:
+      - displayName: Mint Tapas and Sushi 4 (Sugar House)
+        uri: https://maps.google.com/maps/contrib/115852101695677638881
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMVy5eK5jW5UcYy5zynf_hIykKiTG5kpnQROdwF&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVy5eK5jW5UcYy5zynf_hIykKiTG5kpnQROdwF!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+  - name: >-
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcI5bj0YKYdCMp_HuBlqkiBeMy-mBM43uXyhJZAHZqOKFChIoXNqW8wluMObEsJ4ffwdvHr8uaBfkcaCJHKdi3V-vm56-kIolEUwIfWo4veUuG1DabeP5MtBH3brBM0E9_SHrUT2SkNbwQIo3ui_W2nS38DUiPQPBtk3oGl8z-pWVH__fazPn9qLb6ZrK8mPhCy2-YVhltI1yKiBl4AEGro8c-lEU2zvt0_6Ss7pu7nPo03ty4GwveO_g0PR4-OZb8Zumzp_OB_ZbR91N8Zk_yZpbyLYndgF8vS8R_WjIFsHrg
+    widthPx: 4800
+    heightPx: 3201
+    authorAttributions:
+      - displayName: Mint Tapas and Sushi 4 (Sugar House)
+        uri: https://maps.google.com/maps/contrib/115852101695677638881
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMQwWI_EYfyXqfz3bVLZ3G_5CKqDBoeoSQAS9ix&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMQwWI_EYfyXqfz3bVLZ3G_5CKqDBoeoSQAS9ix!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+  - name: >-
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcJNEW2RPnq4_2xdTAUQ56N2kTI_vsY8SgbZL8eHd0KKYaZQiO3jgzqYaNNlfpM7lV3yf4bcMX_JuCEDGy2y2uT7opJ0F5o0CvHdtxtVIrvBj5p06bZRw_4eVO6lyImrghYuRP8O1SYMeTemAtzJzKbo2DHCC9zrWhvl6mBJG4C6pVLFOAZ7ObYZQ215U3o5MTJeluJ36ODXDmh3G2dLehtJh6KuRzgPj0eWzgXZY7GFW_0EKU30d6CV7YNMt81MujDes8z71ybWkYxYgtmonC9uSvyIyt6LLrH915xYvNercw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mint Tapas and Sushi 4 (Sugar House)
+        uri: https://maps.google.com/maps/contrib/115852101695677638881
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPc1-jS1rOPObkmjxRhOLI8ZgNNyymiOkTn6hLZ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPc1-jS1rOPObkmjxRhOLI8ZgNNyymiOkTn6hLZ!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+  - name: >-
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcLfTieSQNJj1LdyVf2HMWhRnGEDiy4GnjbTnVKRSHhnVPgOkmDBTLfTruKOhuTkqGyDdVpRDdncsYOypm4WY-mvaxny1dI2KcaHdT3KguHon7zGqGXeGJgpBN4B70V2l1EfhW-9xMQat9lBnhc8WR5r5LDd-NLGygUSiEaMg6Dv47FXSQRSl2_DQaGuK6bSukPSj9jbVY4SlHhZ1IdDPv3YvwwuiI0o2lSGim8fimjUsBU3WOM0b-hsWKXacWlq4hj6TugH-nLLEMzgb7dJ1PqJfoPPW2yK1seq7zGEW3yppKK9wVR_l5umRy_EoulhWlVO6omtZ_CyHNL47sVxWH6L0lTD2jA4fn3ziWV4f3W9DbBF9pGa26tqM2e-vzrBGNtQy8ZBaEkjqM9wRAp_zk4qkV8bhk7OmF_92BNEdd1LPUrL
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: zu st
+        uri: https://maps.google.com/maps/contrib/102952021112853177555
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJwF_MkqHNvy5Q8qmXGpVtrKxXYpxyXZ3WbUaLPlTQF22IS2Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTg5WW-QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTg5WW-QE!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+  - name: >-
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcLZCv-Uo1kbP1LQe43-wQwW-hr0zuwt3tjhgNX61BOPzBmnILYQH46v-hBYPROHVtr-hchpUlxoItf_0aKOSLLvYs4faVOiap0pRh9HJViyJCRd-W9-kBqzECMMUUFC1XlNyXF2yyKa5ccJLXL0p8l-t126IUY60EKKPS5S3fCs8GG5ZHE3iMLSiEq6X1GxtJzyhEqWO4QnJY4G9mrl6QFwU6uP2vtRanz2p7RnVO9uQwQiHYIA_Dgyt6A8OjODhKYkgwkq38NKq__Ap1RsiZrI-tbeCPEi9zBtcdRPfaq8iA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Mint Tapas and Sushi 4 (Sugar House)
+        uri: https://maps.google.com/maps/contrib/115852101695677638881
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP3ZPA65qEYQFJV7-EnOG8x1vcWE2JO2yXArDI1&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP3ZPA65qEYQFJV7-EnOG8x1vcWE2JO2yXArDI1!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+  - name: >-
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcIrk6eb0VF9XybxCZ77HYwf7sjSWrM6CVZjETPi9qn45pyVsGIAH9gs550i3Vx1vHRPIwBF0wVuU_pU4jchfC7NxzvnOw2KisMSzYI7Z6mIpCMvnowravR112Q5yYopbwCy5qKsZsTtmLV1lbEXCQ3DsFMIP9XviQXMiGxntQfx5i_L_6Ni0AMesnghlPh0KTBb2xoB2t_L9NaaZ4kP8X2Wbi9xSWV6p14qt_wNPX7zEev46Xp5rxRrIcIM6xe05KGUAy6HX31w2_pcWtaR9oxLPmH-8QNASvZEn-sep8hsnA
+    widthPx: 1024
+    heightPx: 1536
+    authorAttributions:
+      - displayName: Mint Tapas and Sushi 4 (Sugar House)
+        uri: https://maps.google.com/maps/contrib/115852101695677638881
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOzRBE54dbe1krA__T8BMOsgjgI9nSn6H3__pWd&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOzRBE54dbe1krA__T8BMOsgjgI9nSn6H3__pWd!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+  - name: >-
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcIObaw_MAUm5JMw9xudsSykh2MgUBOD5U1i0Z2vb2c5PglFmYYaTI3cwsmpVKF6MNkTOyk-x3CjH9lqNfE1UwmLTrfpmuKSUcEqq3xw9sbmDs3LReV4cK-i2oo3MantxyqharQxpdqhP1KRzCEcJWtmacRRLWZ1wbCY-89KE9owJPuaMRbGYaaWzrn7Vtf3cvtsfheBJROHGeq_jbLtz4aJ6iQe6dPRfJ7st0HU8t4tW8tVj46GPNa65IuEZFOS4Y8QZ5XchE-Jl1uaLz0lJcKYfzR1NWCwukeHyWgBMhy8bA
+    widthPx: 4800
+    heightPx: 3201
+    authorAttributions:
+      - displayName: Mint Tapas and Sushi 4 (Sugar House)
+        uri: https://maps.google.com/maps/contrib/115852101695677638881
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNaA-q8rZ_roxtrmezT4M6o6YR2AS_C8W3O5nFL&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNaA-q8rZ_roxtrmezT4M6o6YR2AS_C8W3O5nFL!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+address: 2121 S McClelland St ste 109, Salt Lake City, UT 84106, USA
+street: 2121 S McClelland St ste 109
+city: Salt Lake City
+state: UT
+zip: '84106'
+country: USA
+neighborhood: Sugar House
+latitude: '40.725238'
+longitude: '-111.861026'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Mint Tapas and Sushi 4 (Sugar House)
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b!3e0
+  placeUri: https://maps.google.com/?cid=6351146062348854923
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Mint-Tapas-and-Sushi-4-Sugar-House
+
+---

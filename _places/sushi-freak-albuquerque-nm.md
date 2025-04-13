@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Freak"
+permalink: /new-mexico/albuquerque/sushi-freak.html
+stateAbbr: NM
+stateName: New Mexico
+cityName: Albuquerque
+place_id: ChIJIVImZPx1IocRqqxLZHSPXE4
+photos:
+  - name: >-
+      places/ChIJIVImZPx1IocRqqxLZHSPXE4/photos/AUy1YQ2hOPTkeJLEmTHH-qj4HtWn6LVBA_37xe7080JfnoOU9wcUhmxW3GihOIrjw6SXN57mCJY0J1GF9PKrkgl9U8AiZxg9GvENmhw1du3JGDVQbjj8Uaj8dhjL4GpPPVHmOK-uXF5yMP4EA2-MUJFvSnI0DCIdubJ1HGenvYC_MmnwpbvszyeHDs_9poaG2UYxLG5FdJQ0uYVnsqGJI1fPZwYoQEElzGrA5lV_Nc_jsblrMntULhHlKZH63iOgOWSpiVQv9rcNCv1NL2Szc1eZ1PiuYmX6DCMZ9wcxNYSrEsk7hg
+    widthPx: 480
+    heightPx: 640
+    authorAttributions:
+      - displayName: Sushi Freak
+        uri: https://maps.google.com/maps/contrib/111526210935049297693
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVvBN5_o2I6C1nyGIAyCYdl9ySE1bmN9loF_U6xkrX_oS_KVaY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN29Aiu5o199aDnTE8x-f2L9_o63f-_xx5K2gDw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN29Aiu5o199aDnTE8x-f2L9_o63f-_xx5K2gDw!2e10!4m2!3m1!1s0x872275fc64265221:0x4e5c8f74644bacaa
+  - name: >-
+      places/ChIJIVImZPx1IocRqqxLZHSPXE4/photos/AUy1YQ3N6tYDlU2-8-yQsuKkAQy8MxMNDkjt3jCBGDqbASIEUpg5Z996b3GDAkEa8-m4Jk1I2R7_VyWp6M6POz5ok4tzjfatJRhTqguvduaT1vwhbG471r-h0SDvEsDj0g1XEhcKvSXytqS5V0dtPvYAIqpFDi3_PvIexZwbop8Ca5HEH12EYY9ceivfvLRMlXrNSx5jj5_UphJCul3HyfXNX92g-lRu3GdVJcVvY2S18B9JxGtT9CI6JygPOG5xrEh71xX142n1LlkqZehVLON8_Zj27hAysZS_0DT7XqUpYqMrCA
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Sushi Freak
+        uri: https://maps.google.com/maps/contrib/111526210935049297693
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVvBN5_o2I6C1nyGIAyCYdl9ySE1bmN9loF_U6xkrX_oS_KVaY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMpFs_kEKW01MNhhamUYZC89HOVuv6JftUJCDsv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMpFs_kEKW01MNhhamUYZC89HOVuv6JftUJCDsv!2e10!4m2!3m1!1s0x872275fc64265221:0x4e5c8f74644bacaa
+  - name: >-
+      places/ChIJIVImZPx1IocRqqxLZHSPXE4/photos/AUy1YQ3Js7FUAa0F5ETSWmVWUwi7hXzp0EJrqs4OPB9-AoHg9hKkbTqi90eV2bSYQf3jPJBxZjexp7gLE64XOvHRSDg8yCenm-lp3FEbYjxCdZYQSRueXuf7lbJuDGZN8ye4S6LSl1fezKaZDkD0NRDuNr3wXvsGpBgHqD5k-uEeZViWNfI6uh35m-5872dv2ZUhpTP8DbbyaWkQSSYLhDwv_JtFI-tJzCo2RbWP4fe1yzat6d99egw41V_IOb7E2gSEjhWNDGKfPAkATiD339rqTl7D_k_7Ye14fyeLVZkzYPjCKKeqaewbiPkdvVkM_MrHWmFXppqj5WavPBLcYkJYMddrGOJA9yfcuN_g0W5ZB-O6RQag4KC1yZVM2EeLGqiksEh6WpWq5vcMK0jxovSo7CQ_LMD3-yxsHGLqF75K02wDbc2A
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Mike Ramon
+        uri: https://maps.google.com/maps/contrib/117031252649443161814
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-hmnrBKekW2umADVB7PWomEduyfpM4-Ozwzio7PwW7Gmxl2UT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWxduY2AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWxduY2AE!2e10!4m2!3m1!1s0x872275fc64265221:0x4e5c8f74644bacaa
+  - name: >-
+      places/ChIJIVImZPx1IocRqqxLZHSPXE4/photos/AUy1YQ3BRHnXKt2_HUfFzG40tWxneIvN-GFmDChT2pDXNfZKFWf3dwjQ-oOMxBa8XT3UJKCsTs54u6rKKdN3yGxExb2SWEo3b5ZSTE8i8Li3AWQQmV-kI6tKWM0pk3NtudjYHURp6Qgvq6Pppc367uGsLp8cwdLUo4caSCvggx7Hsw8wzhmZ0Z3q-UMaPn1t7bomLhOrzSlw42B_9lAW5IFutRXys8LH-8RaVMcs-NZU7P-dw5DGnnKay-r4JpNUXa_zCF6YqFvGzkkw55VPHqGqDttKv-G4A98GjEILUhE13eAp_s883tqkf6m2Iqn5qTL8fYQWERniyNMhi4nB6H54_SMlzVzCw2RfttklfYA8r0rZc37H9xx06_7UY13C7gPfpMUetceW1j8dWXStMYTgSPiAd7PJSWTvDMKVuCgDzN2hEw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Alan Loo
+        uri: https://maps.google.com/maps/contrib/107497336479457867950
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjViX2H4GjuXZAyGkeF3983j-TMIvJoj38Jf2qaBq3STEyPgHceo9A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR_d38GA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR_d38GA!2e10!4m2!3m1!1s0x872275fc64265221:0x4e5c8f74644bacaa
+  - name: >-
+      places/ChIJIVImZPx1IocRqqxLZHSPXE4/photos/AUy1YQ2CKQEhzPnnbiIwlmzOspVcn6u0CBg6zoGMv5w8_ijD9o2MwM4sSXs3N-jkL9sgNi1btAkXcg01M0PG0uTgmGGWWZ-EDJ1dgXqrBjTfooOPuwuI7RF5WpQZ1Efa3EUC7Ll6lK21Pq_JxubCQw3fSPjrMLm9vc2mfTbp2DKmB6KfovGpsNmyXJ3xbeoe0cjja8x4gRWXmrhoJnijMI7jGgXt-IOuDWy_aD2WEtt-E7DW2zeEaS3z4w9z7xMh4rzZtI5s0xhY5QiKJOq4-Wo3YwJP9s7A8X5lSwIXuWe3T5DAlS2EuR5AqMqnl1A6rGwww9BniR__RVGVZ0F1j3rkEK6JxLmkuDJx-AAQyOxlengltj7HdG_k3mjH3jwJ0q0x9kM5k4UPfIS86Bpp7yLUjndOoaoDm1I9KXTbUH5pfKBLl13E
+    widthPx: 4608
+    heightPx: 3456
+    authorAttributions:
+      - displayName: MeeSta Klean
+        uri: https://maps.google.com/maps/contrib/102670682547361730210
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUgYe_ljQB-yXy0l6QgC5BLjHQ2ddSSrrZF1Dv9-AKCx2kYGOo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC1gPz_iQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1gPz_iQE!2e10!4m2!3m1!1s0x872275fc64265221:0x4e5c8f74644bacaa
+  - name: >-
+      places/ChIJIVImZPx1IocRqqxLZHSPXE4/photos/AUy1YQ0koIzrlatLHsF-I71Wiwye9aKPhl-jZWvYCYXYjpDw2tqpjdDTM0hjIMa1CKqN7DMxK2xaxkieaQ0IwESV6Ec4ouPJFGMZ1cEzhoX0_MrQk6vzH-4NOtbYqz3QglMIPRyr_Z8hmhYJA82k6aXmy3oQ_xvZG6dY2ZCTcstVtcNcrcLvDbea4fBcz38rlTvYWvE7NXxxqrTeW_a_gr0aB3hnwvwdZW0Z0xIOmrGFbbWi4yuch_pxb7_-qt76EFtJoR1-A2OIO0rmVM81tBXdc3nGp4n1vpuN0mnhxPBVHwTVAJ0IBp_QhPGWxNPXtgGueVUqWCD3YQIi1xBBhUTpcd8uHxzJSfxDTHOCaSL1Fg8Y4AQhC4cLFZ5vUGsBzJdPlUjFgHSz1rqAi9WAodLILp_2CC7DMBfSAEn6wD5ZhyPb8Q
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Winton L. Smith, Jr.
+        uri: https://maps.google.com/maps/contrib/103526263496525405368
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV3a_hpLBVX5wLCQOMQydu-7vjvINO_cTYPHFvOUhQiU6_br2wwTQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJtvu0aw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJtvu0aw!2e10!4m2!3m1!1s0x872275fc64265221:0x4e5c8f74644bacaa
+  - name: >-
+      places/ChIJIVImZPx1IocRqqxLZHSPXE4/photos/AUy1YQ1mZe8RgIXgYNU1q5QDMNUlMSDiaGiNXU0t7Wthep-nNQ079Z4ItNwyVIMZFK3Ihler-nw9n3YJhRWZ1pwYM5oHojhWyGn8kmYrA_H__6Ty4cWrJA4UnYd4M2eU9d_eQN4PABjnhwok1QMUYfMmMaTxHE94V_LrKCHV8I1O2hViC_RuSr4YBV5dg216MlXjCwY1YXRzl5uXhfCjfkou2C3j3UJy54E36Wgi5v50z8KCKuL4dMlyM5l8wYNVPA68OuOCDvrGGyw7UKQ2wjW3x6qgUgs3qubR-3356hpFmtcQz0U-rmUrTW55Grn3Ni42q_2PKGUtIyoanKMElY4mD3aUA0JBUin_hs4BYvH8vEq1r59dCIC8X_yf1PHrg81Y6g2wPnlM_hMP4IUyCB2gKh7b1CUZQ9mA2SL8IqLqaaGK4w
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Alan Loo
+        uri: https://maps.google.com/maps/contrib/107497336479457867950
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjViX2H4GjuXZAyGkeF3983j-TMIvJoj38Jf2qaBq3STEyPgHceo9A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDlpvfxKg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDlpvfxKg!2e10!4m2!3m1!1s0x872275fc64265221:0x4e5c8f74644bacaa
+  - name: >-
+      places/ChIJIVImZPx1IocRqqxLZHSPXE4/photos/AUy1YQ1q2N4uJs74cXm64xwz6jhZXohMMJalH5wjdjmmabuBVq3CLeR5ln4CaBVfoxIZ3Po-J-3C4HwTwOCCJPn_Xqssl3LBzB_tkmVc5kAS-ambrsUdwvPyC7vlGOF4wRByYPZnBMwjIybmc2jnFIbHJGZ1jeXgeTLpccJaDRj5QucV7cXbRx8xuSKFg0rukucOvGeesiWZGWqI0KeXjS_6F0Jtppg2FtkjuIdf-gR8cK4dHCRXxIL8sYZ8g56a5uRyw3wnXwgZ_y5JJQt1RZNSr7qWRSKmcaOZTCp7ufRklhg1blppwSs20JD7LnBhPytXYqub4lKVZlrGWoSfSycmTTQQiCd4dHT8B92iPV9Tl1Kidr2pTnVJobgwku-y-bxmwqG9tGLEV75XaADqudI-HOkPZmb2IfUSAZyoLURyS2I
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Winton L. Smith, Jr.
+        uri: https://maps.google.com/maps/contrib/103526263496525405368
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV3a_hpLBVX5wLCQOMQydu-7vjvINO_cTYPHFvOUhQiU6_br2wwTQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJtvu0Kw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJtvu0Kw!2e10!4m2!3m1!1s0x872275fc64265221:0x4e5c8f74644bacaa
+  - name: >-
+      places/ChIJIVImZPx1IocRqqxLZHSPXE4/photos/AUy1YQ17kaXZeJpKGgnUFowtlsxlFCnOybyvnxwEPm6Q-II1y6dx8bWTdcznTs-qsi3fe6ycifjB6D7JoI-mzFH87MIorXpikRsPN3e6-Zn0FY6zrcjGVUR74oU-TzfwBN7XocbfrSAPXSBOCUwj0hCpIKUTeC-wyfFgrUK5UGHUp1kjVUo2B5LLLRH3-y21KSrbc_pFnB0UfLcAMBB_ourbcApPyvnLqh1pqibGrBEudX53v_O5RIJYKjJehD4D-jV5Ti-xHYBUGXtglycaa2sJMQNY_kboYm1ecaBu9sMof5jQVJhGu7yaUeDPdqp33YeURw_5rlchM2wso5rdouW9UiF9VBYIMeat9uSrckxX-B1oZf2PB_cgzhFbrnIepiUah86uQluC3b9G6Vp_GmAh4tYF4mE04b_bDbiu90iuDoY-ruQ7
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Travel Girl
+        uri: https://maps.google.com/maps/contrib/112424676918471238936
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXoWbNLHqWmww7xnK8swH5LCJV_0DeNdiYC5I4yDainAqx-Xov7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWg-GaygE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWg-GaygE!2e10!4m2!3m1!1s0x872275fc64265221:0x4e5c8f74644bacaa
+  - name: >-
+      places/ChIJIVImZPx1IocRqqxLZHSPXE4/photos/AUy1YQ3U7fh4Xk-GZvXayb8AWVAUSXl2vVc2gQyorS5Tk8Vji0heU8go9j62cFgqAa4PANgNKhKet7o9cx4T7JGEHbjyK-50BKS3Zh833hAwoY0y1KNvcN5RqROlcY6l7NdquT58jDC4coSdzisumFukOIkXLTg8g4MWEyy8MjFwhTkHxkjIv8xTIe1f11zjM3fKFigcVshoPdrHKJK1GRlnOsKVA7i5Xt0JO3MkVkdvVbVqdKwR7CGWhRVXM4YxZRH5W2MR2Mur2RVaW4gPR33unHMCBSCvMKgRoPXDgbFXdOFqKRADVJhQT1ZBS_0TizzRFc4LVFn7uNU7F4U4ARYO9BgvNqwVTebHUjT7K-s726fwxtckbhbxpL8huHW6IRZVH1HNi1JLdggkaLuPxfcg3fhWwenOQskSSo1ds83Ajbo
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Travel Girl
+        uri: https://maps.google.com/maps/contrib/112424676918471238936
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXoWbNLHqWmww7xnK8swH5LCJV_0DeNdiYC5I4yDainAqx-Xov7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWg-GaKg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWg-GaKg!2e10!4m2!3m1!1s0x872275fc64265221:0x4e5c8f74644bacaa
+address: 5901-H Wyoming Blvd NE, Albuquerque, NM 87109, USA
+street: 5901-H Wyoming Blvd NE
+city: Albuquerque
+state: NM
+zip: '87109'
+country: USA
+neighborhood: Bear Canyon
+latitude: '35.146007'
+longitude: '-106.555932'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Freak
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x872275fc64265221:0x4e5c8f74644bacaa!3e0
+  placeUri: https://maps.google.com/?cid=5646545762877418666
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872275fc64265221:0x4e5c8f74644bacaa!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x872275fc64265221:0x4e5c8f74644bacaa!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872275fc64265221:0x4e5c8f74644bacaa!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Freak
+
+---

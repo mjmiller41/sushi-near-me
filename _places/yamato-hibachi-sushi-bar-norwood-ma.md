@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Yamato Hibachi & Sushi Bar"
+permalink: /massachusetts/norwood/yamato-hibachi-sushi-bar.html
+stateAbbr: MA
+stateName: Massachusetts
+cityName: Norwood
+place_id: ChIJ4fIGIid-5IkRwO8pgp_Ka7M
+photos:
+  - name: >-
+      places/ChIJ4fIGIid-5IkRwO8pgp_Ka7M/photos/AUy1YQ1cIqCJoD6csfprb4IGnzSIuKO_jVtNKP53m_e5MZ2DI8wz7zGS0qSuJcru7f_lBiLKJK5Byn9KsdmnUtlSGW5aP96_8fBRTiCNa0VXE8vkePQKOK4ufska3MIlt8wXPiER3UWMgRin78lYgrW2nbIPFGhpqj960SJwRldYoJ097Vg_NsyuEakp94C8QTIa8AooMIKt5FAzC40DZCvVWh5fuEfox8agETLnl8ctAnpqQ6T8BSMjjG5-MI_f1Jkds03eAFn72ZUaAHnvbBwoitzJLv2jI-gd40uElJUgzNjbbA
+    widthPx: 1500
+    heightPx: 1000
+    authorAttributions:
+      - displayName: Yamato Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/109972881304795477311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmd9WfJQ6rMswQUGN-t5q5LReW1LNGfFTEGwQS1uFC8-lyYRo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOCyr7UMNqbNjTo9qaXX6nJFuEsJoJKZB384cOP&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOCyr7UMNqbNjTo9qaXX6nJFuEsJoJKZB384cOP!2e10!4m2!3m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0
+  - name: >-
+      places/ChIJ4fIGIid-5IkRwO8pgp_Ka7M/photos/AUy1YQ2CTEAFW7xGkNtn-4w75KDAkXs7RIt3ALW_mlJTpJ2uaySkRyjD_U_QZEpdjv18OK2Vq8TrmzldbYLAYoDxZKV-BoJ4Fv6qCtMS-hoXFotK72c-5oTsr7nSLTXhrVhUPrkf0gsA4DuI2LzCKeQzaREvhn7-LJqNaLY23Nz_h-RQ7renHSJzrF44Gq2si1E5l8v88PLLQix_oLWaLGMZijJ7aKz-uvE5BFljnJtxF5zRBkErICOFP_Irgh1gXji9ZM19olYnG_RhTE_bzTNnZmVEkMNM0oyAXCWXNevV2mkPlg
+    widthPx: 850
+    heightPx: 478
+    authorAttributions:
+      - displayName: Yamato Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/109972881304795477311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmd9WfJQ6rMswQUGN-t5q5LReW1LNGfFTEGwQS1uFC8-lyYRo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPDheMY6Q7Q1flU438FoikPQlD4i4JQQcGf8u2B&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPDheMY6Q7Q1flU438FoikPQlD4i4JQQcGf8u2B!2e10!4m2!3m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0
+  - name: >-
+      places/ChIJ4fIGIid-5IkRwO8pgp_Ka7M/photos/AUy1YQ19o0NSn6kib2Zw6tLDQT5aw9VOhTlcsM5-59WJL-PXnQL88kKWYMxq3DFUVkCGLGZbA1DTNeizak_j6O-4PGjpDO8CWAW1vwuFJg0fp2N-L5Uz5pCpa_yYfpuNke6yN1LmnKU9YWcTnuvr4TBlS2Kn4YcZrB9HzCiejLmRZjqBpPPSIqgPGcfKiaKXVq2uViHB7c2IwuosMc1p9kSXXlbkpcK0djuvRSoM_17kAQk3zhnRKsfds5m4utfqHwcgoDf6-pgjzIgpWy3PIXNKNqZ_WYdzouX66rSyzJho1nbMtA
+    widthPx: 769
+    heightPx: 764
+    authorAttributions:
+      - displayName: Yamato Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/109972881304795477311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmd9WfJQ6rMswQUGN-t5q5LReW1LNGfFTEGwQS1uFC8-lyYRo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNCqvU9w94BbE3-ogzZ3t70a-ci7B5_RqKu9qGE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNCqvU9w94BbE3-ogzZ3t70a-ci7B5_RqKu9qGE!2e10!4m2!3m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0
+  - name: >-
+      places/ChIJ4fIGIid-5IkRwO8pgp_Ka7M/photos/AUy1YQ1WHkipZY28BbNbmxxvN5poK6q37kjHXc9wxSQ0cfWOVsQoHH8TU5X_MHg5JWYljMuwLvxXcShd94mrKKXlZQFpdGJlrZS0EIDKv11apAdMBjQ8fTP73VuB9I0UZe-qYz_N3Evh91dYWpWKaVxbJx1b6290lp8j7i-I3s_pblS5d2a4umS5bF5OxPFGeaHHbgRX6evK4VC1aCn0NY7sifxo7JW_VlBr3fk7Sz0dv9HLINqxGH6bi6mCyiwoNTta025_OjL3HuJTsIkvkeWunHirjmdsSD7zrepn0w-AwzNs6Q
+    widthPx: 1112
+    heightPx: 1152
+    authorAttributions:
+      - displayName: Yamato Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/109972881304795477311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmd9WfJQ6rMswQUGN-t5q5LReW1LNGfFTEGwQS1uFC8-lyYRo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPvVruFzDt7c2FcZn5cshYsbj5NmU-Ii77aIs2r&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPvVruFzDt7c2FcZn5cshYsbj5NmU-Ii77aIs2r!2e10!4m2!3m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0
+  - name: >-
+      places/ChIJ4fIGIid-5IkRwO8pgp_Ka7M/photos/AUy1YQ1eRrft4S4rbJwnMbctQun6kPe2g6D5-MhIuC4laLa8c0KYISGTWhb-_jJIDUKPpfPyaHPVCN1uqOEXFMj-rClXxn5VLjl8nkQ49mEyunDvXTXW_lq9aFMhYMGcOO_O5mBZak2DNzB5LG9HLoI9uusODEqMuctdvSi-IQPayvs18yBAqc2xyWLawR7iwKca_jJR3h_R_oJ7trRUnGnzjctRF9HpOat4spy7dOkUXKLzW-_gzjV5A4-1MwufAkoltt21ITfzYJbHC5WLUPeyYiDVvGxvLnfYwGOIeox_73JCog
+    widthPx: 912
+    heightPx: 1112
+    authorAttributions:
+      - displayName: Yamato Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/109972881304795477311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmd9WfJQ6rMswQUGN-t5q5LReW1LNGfFTEGwQS1uFC8-lyYRo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM4SBROv5anCbavilcpmtqEXdVC8CjF3LeFYUrc&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM4SBROv5anCbavilcpmtqEXdVC8CjF3LeFYUrc!2e10!4m2!3m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0
+  - name: >-
+      places/ChIJ4fIGIid-5IkRwO8pgp_Ka7M/photos/AUy1YQ2knlSDsHo21iO161KQJSVhaZEjcLdIZMTwi2zOZx-ajUQh6BvpxL_ZxUbmqR9NiIN_2SG2EKGZof4HQ1Jz8_a_uKzhPmr_vm1KOHXzHGzyQX2nPC1K9XygQTMyJok18QQucJ9O-iKeO1vieSV0Sa_d0sfJWE1q6-7yrsRQAjErwFpSyWud6jLUecGWyPmqAc9xmU4t-kqDdCl0OI71jDMneNivzHySMNCun6601gJPf91mTzo_Eo9Wu0p12v6X2XWt9-ERrKpGM8zyysNDqw0fptBu92tqjVGKMJVub96jMg
+    widthPx: 879
+    heightPx: 750
+    authorAttributions:
+      - displayName: Yamato Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/109972881304795477311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmd9WfJQ6rMswQUGN-t5q5LReW1LNGfFTEGwQS1uFC8-lyYRo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMIklnkWYkRRxXmMqrA0skP8rMdIf6zho3SYDFo&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMIklnkWYkRRxXmMqrA0skP8rMdIf6zho3SYDFo!2e10!4m2!3m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0
+  - name: >-
+      places/ChIJ4fIGIid-5IkRwO8pgp_Ka7M/photos/AUy1YQ3k8IpUbWU-NXZzptmNyOxUMgoHuVw9No45dle-oskpXQtISQwp_Ak6-QcX_OmOp6ORJhMgH0cIZ2xA5SGlFKn5ULtqDOyTQJrkK1axLFP1AQIHfKZcAAVsRpmFSn3UkCUFTJNeb6GYhC7EbPivjMK46t36oeoGNc37T7gtQ9g3Xw26f-RF88JiqslHIXw5YvZu71NtIkv8NkQBqyqLs2ZwvM5aw3E9zY7O1ggt-rTHearQTwMXDD_J25tdO2IiceR4vC4AAUyIHyhbo_ZV42EUTcEwfZsqK9_XeD7cKNRe1g
+    widthPx: 1026
+    heightPx: 787
+    authorAttributions:
+      - displayName: Yamato Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/109972881304795477311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmd9WfJQ6rMswQUGN-t5q5LReW1LNGfFTEGwQS1uFC8-lyYRo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOYSJLztbLKmvmMuJO2bwzk8lkPvcL6AZnr21K6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOYSJLztbLKmvmMuJO2bwzk8lkPvcL6AZnr21K6!2e10!4m2!3m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0
+  - name: >-
+      places/ChIJ4fIGIid-5IkRwO8pgp_Ka7M/photos/AUy1YQ0vuisxA1-jOWY8Bm1iVh1wZOMkZ-bCzbIVCGBHBLYQ-kwxF8oQfJS1xAgSD5ewTx-xFEXF8nV4xNNKTNl_wfbB4t0bXpj1m324GTJhw-D5V4I_hRXclEUkX_7EDeh5q3pMmHH11OOx1kSYgPC57fs4T6l12J7RQUychIAYVOVsNXb_8YW52mQ_3NyZHEc5bXfZ0Tvree3iDjZDVzW8p3Wys_-scFNZeFcQaJaptUTC8B4J0JXP5NmIfPYS62X5nGEyH2wolAxijStjyZoMKv1ucz-AAPgbOSvMmzHDKrUU3A
+    widthPx: 1028
+    heightPx: 771
+    authorAttributions:
+      - displayName: Yamato Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/109972881304795477311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmd9WfJQ6rMswQUGN-t5q5LReW1LNGfFTEGwQS1uFC8-lyYRo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPfH74T2mYR5Ko18PT_Oz6VH9sZvxBoxZL3e9bE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPfH74T2mYR5Ko18PT_Oz6VH9sZvxBoxZL3e9bE!2e10!4m2!3m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0
+  - name: >-
+      places/ChIJ4fIGIid-5IkRwO8pgp_Ka7M/photos/AUy1YQ0lCLOO8y2hJRB43AGBvvLR_ULwTGeWi8ucL3NCHt37EbFDtmlQUVvxhBZ7nzKuyWeTkQCvOWRryX8C9EDD8tBb-sM5GQ2Xb9jmNcpcfhSLMVc5j2nF92UF5hkWbKpDiSHyGf6NZl1gOcDl7t--ZpPkd0mh5ZYM6PL_xjrA6ZpG8TQ17xGSySWCq55e2M9t3-uAs6_eFCsoWcpZ3kyNr3FrCLTzf1Tz2NP4hJTNSDDsXYP0dicAZVxKImtmuMUcMjEg_vFlcnZuSGWNekfCEe47XTZcpBfpzo0s4vBClI9Iwg
+    widthPx: 627
+    heightPx: 756
+    authorAttributions:
+      - displayName: Yamato Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/109972881304795477311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmd9WfJQ6rMswQUGN-t5q5LReW1LNGfFTEGwQS1uFC8-lyYRo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMPc527ASMspst7XCFtDmO7Cu10mLvsE7cgXbhS&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMPc527ASMspst7XCFtDmO7Cu10mLvsE7cgXbhS!2e10!4m2!3m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0
+  - name: >-
+      places/ChIJ4fIGIid-5IkRwO8pgp_Ka7M/photos/AUy1YQ2GIbnCaeOOpnv4PNG5UXfEC-fm5z6iFUyxRIFAUEeIlL2TvhZItmusqRQPW-JtUccRLhJWnOs-OX_3qSue6lHm4K6uOLlsW92nhLuVWEdQqdpugNciTtlL7ujQGd2ev0EfAdi4LgnbG1YWSeCL0AIMr_jJ1W_34E52bdTiwgmohzNCX9CSI09CmSGKfKeYhb2ZqgdZzAoRbubHX6cE__gjfclVYGAYMK7izRFC3pGNfCbetBmvqgxbGwo9kh4uLOsX-hYwgJRxsJ90cXoqW4J6lwAL8_lG8SMp0iCaEXu9iA
+    widthPx: 915
+    heightPx: 772
+    authorAttributions:
+      - displayName: Yamato Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/109972881304795477311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmd9WfJQ6rMswQUGN-t5q5LReW1LNGfFTEGwQS1uFC8-lyYRo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP7eksDTqF2g463KBoaZjKVCdaW8njflWA1vDVR&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7eksDTqF2g463KBoaZjKVCdaW8njflWA1vDVR!2e10!4m2!3m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0
+address: 1200 Boston-Providence Turnpike, Norwood, MA 02062, USA
+street: 1200 Boston-Providence Turnpike
+city: Norwood
+state: MA
+zip: '02062'
+country: USA
+neighborhood: null
+latitude: '42.171955'
+longitude: '-71.194870'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Yamato Hibachi & Sushi Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89e47e272206f2e1:0xb36bca9f8229efc0!3e0
+  placeUri: https://maps.google.com/?cid=12928649941729537984
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e47e272206f2e1:0xb36bca9f8229efc0!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89e47e272206f2e1:0xb36bca9f8229efc0!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e47e272206f2e1:0xb36bca9f8229efc0!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Yamato-Hibachi-and-Sushi-Bar
+
+---

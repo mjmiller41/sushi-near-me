@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Kumo Hibachi Steak House & Sushi Restaurant"
+permalink: /new-jersey/point-pleasant-beach/kumo-hibachi-steak-house-sushi-restaurant.html
+stateAbbr: NJ
+stateName: New Jersey
+cityName: Point Pleasant Beach
+place_id: ChIJfwzLyQuGwYkRxZCdlk2iVM8
+photos:
+  - name: >-
+      places/ChIJfwzLyQuGwYkRxZCdlk2iVM8/photos/AeeoHcK7U8GNAbtfrhGz0eQsUfBliADNDfuP0Uo-p6rD-RshC-Ydx2mV07V2ppo3H7ZTeJf22YbmW4DHfkSqKol39W01f3Y0Ve6jGV7GHEmHF-m-yz6Tk3Ex66Xml_Yjlqikzafp1hWtD5etumxKk9UI519LMfcj1WhUWiWDaAVMxbj3Y1xVjL7t8dikKiSf27lM8ndT2ZYzAqqefvscLFpdZ45E3oc8syCt-xMupWPaM97Zih1SyukLfm-fJ-N0uNOYJC7NZj0VWwcuZFZA6VNQy6MfXlj21EAgbjfAb4HZnzPQp98Vt8v8dBg0GcyLrb_qRj3BIVRuU46KnYlp6c3CQ64EwsLW9J6UyUspy-hjxirSm_4ai_NH6kzEaipGjYYFu3qhHwsfwEsdXIG5cFujR3IWUI8zEPtdBAfZRJrE8kYtXA
+    widthPx: 2700
+    heightPx: 4800
+    authorAttributions:
+      - displayName: carolyn pampillon
+        uri: https://maps.google.com/maps/contrib/109598232070006642527
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVUH6gGMkpWpplrbWmi1j6TGo7p-gUc9FYNOOzmRbRXGcvwUb1pPA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE7I7RHw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE7I7RHw!2e10!4m2!3m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5
+  - name: >-
+      places/ChIJfwzLyQuGwYkRxZCdlk2iVM8/photos/AeeoHcJ7jeAYQvLbIuMSC-ZB5V3J4tOCu5KlQJPUS1ltvYvNbKHGaQNHpgPPwIipvtPEVVkS1gxCwgX0dYJmGRXSymYPzmfdyLkXDY4MaWILR5qL2VEELF2uDS3_j-spayk06GhPNDElI69nWJb6sRyHXFiW6IrLdJ9CEG6s7c_jy-H4BjCqBXLYGLUi8swsZ5PpU3W-1tOZVca68KhetN2UQtjs5gx6LiXr2CeenYOXhrAu5GfynCtVunhMdDisvpiDb6X3YU5n9S6m8duSGIPDpy69mMo5QMMBry7a9R-BpFH2zukmVxmOkBmZgtCcIrnjrySL4Om4nzogUcyGaMvAECryrbJdcQRJ0bqSx1SCUSaUEZN5tyPp0y4f5TJKWGOiB7Flj-FlJ_ZECb3OAU0L_E0ZWLYBaCgBSrMVF7YjCtNQGNvv
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Ana Maria Castro
+        uri: https://maps.google.com/maps/contrib/109061695758718776193
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKo16gTaRYmCccpwGNjtJVoo0_d1BoVNqf9qLI1L8R1ht7s3eT7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjt6bolAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjt6bolAE!2e10!4m2!3m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5
+  - name: >-
+      places/ChIJfwzLyQuGwYkRxZCdlk2iVM8/photos/AeeoHcJHJvfwXTYB6UgpV3BgdkiTgDLlCg6M4v2Ek5lJXQdUKhhIgaKKrFuJye_bF-1uSdmiMhNyPgFls3fAau6TctcxigmUwouRQNtv3YrC8CdcoB3rK2hjiQ0yCnAh--IQJnRjaOGmimysNWa0S2-CQKlapYaKP6dk5XoJjYTOsOa_nrKlZ_WDE6JY65ogegkgoZbu2oaksnXV4BxqNJeuaQu6NJ5H0lhSQTB7VTkpb4NKoRfdzo77e2YQFhiRK3MfO5OxRRtlCg1c84um6IVUKTZCkqg7NTaZRIRoelMxUNMZ9b5UkZYE214_a86JGyBWg-UjJTSXxSUAA06-eTcoRp6sG1eLYWM1SlLqhc5EEjYBHXGqEH32xPoFYi2-4Y6N_VL1XmS1IGeKT_JU9g34a-V0eKI3fO7uHCt1kRX1EVGB4SCB
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Martin Young
+        uri: https://maps.google.com/maps/contrib/114748659192619091668
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUbny-jtta1HsK01AhSe3t8ufOOojlNQC8BPkGuAKXIGmShMF1NEw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIChjLCw6QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChjLCw6QE!2e10!4m2!3m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5
+  - name: >-
+      places/ChIJfwzLyQuGwYkRxZCdlk2iVM8/photos/AeeoHcKCpOtUVbU1VECnR3OKCQturSxFsV1vA6fzLCgmDxq-d8nmEBoLQZu6lMnsxrmoyLrXXRRbW1ISZ4rUMOmmtHacDMv_22HHT5WwC9-hnc1o_4DX_wzmnXs_ex88Rqyp8hw5WxoPQ62bjudhIy5NHtjbZmmhmCyLWNgMRjT1FTmlrMPWufATmMq__FsyKXAB4Nm44jZvIV41ZKk9DEwlB9ukENZuUGw0U9e0N1hg6MAQQ4QofButKWqLpVG4jYcwi9zpqy85koSvAL_kiNsMZi5-ASsT7QH_gJZdx4KPEdbPEoXeXntMbgPvwj3Yi2_ktKSrP8qOnRUCYu0b1XZgsEFVJIMEJqEJ6ccqgI7p3G3L5YiNmRcf-GP61AuXypS7lGw3NHvsa9ZrbjCmZ3r5tnTvkTRClEBZngx-lIbSr56RUw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: 杜唯瑄
+        uri: https://maps.google.com/maps/contrib/103841269922365642212
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUAU4uOSnP7Im3wm7GPUgD12crR7wsaFvST3h9YFNEQBP40UPfzBg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDk15LiUg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDk15LiUg!2e10!4m2!3m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5
+  - name: >-
+      places/ChIJfwzLyQuGwYkRxZCdlk2iVM8/photos/AeeoHcLviqnMSgfV7CBOqlKggsGBU8qortvyec0oq-6raPJSTeft29PzZGtAyVZPWKwD1NyHQiXB-3hwfqrZ-OyPXaGJ-3-m3e8Kf-nC-bxFPhFpNWyWHhLxnmKgGRKncnSgYS5wiKjhc-jZXcKsG-Pe3ocfjykNai3gmWcoKOEFjfDcXKNvORkQEwHdOlTLM_GPZ5mZsjJ7eSxecoFoxTLCfpcdngEzuRNfa2q7tAwfg7p8QLKiCjJe-NgA-Oj0zzeemvsPgaVuJxaGwNxqnq5sY0UDyUhuv8MmDY9rz9G-vmxuNzuGhYSRpEEI9VOeBWNGtS6TJVn-IhSMkeQdlo3z2PhyuRhFBvhxjC60AC3hF3nD8raAdz6U9rvqKDRD8Z9ofyyLfA3IW05k93IWxE1bVmi0tM1Ye_ymhV0TYQ098fxehiC1
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Ni Ivan
+        uri: https://maps.google.com/maps/contrib/101219719379295230555
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI6Gn5Jq9T3fBUFGC89kl2tQbBK9fR5otI0NuYWyo_jHEyJag=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICF1N2EiwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICF1N2EiwE!2e10!4m2!3m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5
+  - name: >-
+      places/ChIJfwzLyQuGwYkRxZCdlk2iVM8/photos/AeeoHcLI3xUA8x2ohkNrxr7cVdYAGGfVsfBdH_ZGJp8LWlSIq0pAQ_IObHYmmbbuoqyQouPn3N4NbHSj4OLQaYDxc1Rq7XTGsrgZ_ug25C5z-1lgoWIMbwW9LnDKNTM4qCM0nUNndoFGxzicyFTcRjd_9WfzKJEDH5Mj5fBcf0GpML0aE-eEiLBFve1gySOQwCrldAYWgwyRj0wIKUjwb-jiWks0h1LF8Cs9WkhiJMJ5S5HmmUiMprNAoSI_R2URVx6hg3Zwgh7CR162uBLmqZfyHFOslkIVi5csehFzhV-nVooFreOHhjed6qVcFUbWua_REUljhxZ-LfIzdjewYbCB2NMrzVK6-gtWv-IRHpq-TmUXIs8FL-DbbujtP6s7vlwuUnWwWy4Ny3n5roY0-I_nkKSb3nasFwTqpafFqzCM4-KD8A
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: William Clauser
+        uri: https://maps.google.com/maps/contrib/108049686865268466289
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVcbUwpTKuhYoek34jRz7VWR6qQ1zaL5tXisEVFK1R9qpdz9nTKQQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICM-OPmfg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM-OPmfg!2e10!4m2!3m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5
+  - name: >-
+      places/ChIJfwzLyQuGwYkRxZCdlk2iVM8/photos/AeeoHcIF8R6xjXF0QdrDOJjn6L50CCNFYFCVnzPjYInmoQJEDiFAgyr-dJYc2FwdK2Q4mIiExxyQVPU-LI5Xk_4tQC-ydUZ1KRMRVIRYL6EN3J3NEaRgYM5yNtDlkYCDUk5PH2TW7Hto8GLgkn4ktmAfYdAITNrF0xJ3Nc1fHF4WYQhSV-zM6b2gdqMBn-PMAvwCe2k6vQwOLBf2_1OBb2lTZy925fhynZc0nC3p8rrgRBClmFuFIU1uE_sgkNz-NAny13AGPipzSWWdKgw6ORqNI0Urv-Lzcu5t0rl7wSQqwPyyYYOyxO3Pn9M-jJ-5iXrFEguYYEG6YtUGHdXa6rY-05PnVd9URRJa7jrqqed3F5BU1fZHZVJUuH3J_bhSWLI1cQ1btothEzRs_XpKWy7sv6p_V8knT4j_CKZVgipEscOWDw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Charles Wilkins Jr.
+        uri: https://maps.google.com/maps/contrib/109456839643596902120
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWJe9RRBnn79qEMq6JfuJcFx0VIyS8B98YnFe0olSLr9H0tzG1D=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICE8sf2AQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE8sf2AQ!2e10!4m2!3m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5
+  - name: >-
+      places/ChIJfwzLyQuGwYkRxZCdlk2iVM8/photos/AeeoHcJnbbj_0CBnDdns8n2dfMFzNs2dn4uPRhbKj2iS1urpnMNTU5mokizRi0Lac2PaKbOCPLXh8yxcQrMIOxPWVRPLsGOfGqXkSsHZ15scXnq26txLM2yl6CrhWI90Ls8_kRlyQxMYzG9y4UBMJnyDoGQ5u-USS-z62BSiqHO1QPk6VKw-LYQQIOSDrrs37Yv7lCWTL_s1UcWNQsBdekFPetOTK6cj8r4jQ7ToG7obT2r9418EkfO6aDyqFTzs-ukO_tGOe2050iY-XpIz4MaQsRoGwugQCeMEAfBfi7vzKttA4Mah6_yfRsoGLv5rQbX2dDXZA3e1Pc09S6icgU7EGPhlMut2SG9tlXbyjtYh0n0HSEPu3W7mT0wG0H39wz2dM06vXV-6StcMYyFlFWNrcQlz7HZlSS8a6TcSD57yGWI
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Dara Stieglitz
+        uri: https://maps.google.com/maps/contrib/102291970300734487018
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWcVH4VrvIlM53QZ4cCRoCUowBeD_iEq5RlKHJo3tBz5vZOru8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpg9zuTw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpg9zuTw!2e10!4m2!3m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5
+  - name: >-
+      places/ChIJfwzLyQuGwYkRxZCdlk2iVM8/photos/AeeoHcJu0yz4YHpPsFF4fhsi_Y2FFaBOynCsnRxBtCM8zwNwP8883dHwq4icZEId3YlBrWlT234X2T7lnOihcmVVDE44vOAUuUJnPaC-dFGtLpdKF38Y5dgC7ZsE7lPm3Unf-vzpXxeVA0n9Qnk_fz67CrChnkPPxonGP9Z-FKCvWA-ksg-hdx55yZyjaK72vwJJtHlfpJlPpjEMnsCeNClY9016f11eJj49wMw14ILb5CtqSomreRsroBlqGJ1j9OtyjTWu5-F80pxULnQ8NmV97T4C8UAwN1uh1Dj2rvG3PTuxDm2qUty7eY4GsthJfm8qVkekiLRaC8dtyi-4YmsGZOOU9GHHvQi5NhO-H0XfTI85_u5JxbxL43kGRUff_dAlMZ6Z-OYlEvDNz-f81uufp6sAhZBYFYbpR05tLw7YHz0nuAF5
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: tzirel schwartz
+        uri: https://maps.google.com/maps/contrib/101646457091269413642
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLXjoY5RIuH3dfNBsYK8Riy0r5E8SN_2o63h9KUAmaiyFYBfo4b=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTre2l5gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTre2l5gE!2e10!4m2!3m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5
+  - name: >-
+      places/ChIJfwzLyQuGwYkRxZCdlk2iVM8/photos/AeeoHcIivmSk-wWnFi5fbowVJN9ym0DZaQ75n8Dvk8_aQ_qiP5bqN2yngrFKBE7U8I6I9r3IfJ3uL937j2FnGlDlagvu-KP7P52vHiZNhYHhLvBuRJTPTJxGfNYEKUONGdqFPnmFcD3Jq8QAMDcX7qOCbW_VSCkFRhd-8-g3YJtlyJNbWPXIoQgqf8cRu84ts_1H7Go7UallP8JJ30xCW7ydEQwwX5EC1IIHtownPbn8GdPPQIX1VdIRIGy1jEPK2fOZiq11-Jy2GZVjl6oUvJjSqRbOAkpNjhXDXnVFEeRrjq-ZvER3LvAO5cGzJd6vHPJNUWFCGAB6xWHDLG3SbmcT8817_TVLw_KlaoQuruqfsWkb7H8arZcqCZ4p6_hTbsSZLW_IZoIzS7v9v466JPPJRp0yfXJCyJueeuls6z3Pn93Q3BdB
+    widthPx: 1536
+    heightPx: 2048
+    authorAttributions:
+      - displayName: S L
+        uri: https://maps.google.com/maps/contrib/104368414031184410115
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLQZ7ZuaXhwhw5V4nzhcMPCAWX-XZCJJt0sNjzx-CQq4p7slQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDKnLq01gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKnLq01gE!2e10!4m2!3m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5
+address: 516 Arnold Ave, Point Pleasant Beach, NJ 08742, USA
+street: 516 Arnold Ave
+city: Point Pleasant Beach
+state: NJ
+zip: '08742'
+country: USA
+neighborhood: null
+latitude: '40.091547'
+longitude: '-74.049038'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Kumo Hibachi Steak House & Sushi Restaurant
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5!3e0
+  placeUri: https://maps.google.com/?cid=14939744318017867973
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c1860bc9cb0c7f:0xcf54a24d969d90c5!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Kumo-Hibachi-Steak-House-and-Sushi-Restaurant
+
+---

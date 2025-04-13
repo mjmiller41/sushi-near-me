@@ -1,0 +1,212 @@
+---
+layout: place
+title: "O Sushi"
+permalink: /oregon/hillsboro/o-sushi.html
+stateAbbr: OR
+stateName: Oregon
+cityName: Hillsboro
+place_id: ChIJXXds65oFlVQRwqFfT1taPws
+photos:
+  - name: >-
+      places/ChIJXXds65oFlVQRwqFfT1taPws/photos/AUy1YQ1I0FLfWLmBCs-Hgp1ckJx9LoaZa3rIp1KkOuXhOmDj8ddK-AkAH9bq-lZrHKciwV2aDNWuOBnKuZ4pMGFHFMWAjQhJJozDDJ5-0tVvZyjqLNDICYA9wSkv1GWgFhHkQ5od-6QkhPgi0FE-EaulCuEh-ekShuxKXMKEk1r33gzRwt_bxs6z_Rm2Dth4XbF00V_QkNP5IsWtl9d3r5WNxpLB3R4YIIs7hhdFiB85bQFfaFZhjcjFAYX5Qc1doMqT2CUHGBHx0xHW1zrtGV09A0RVkvZC-a6X9GuaPl2pE281wQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: O Sushi
+        uri: https://maps.google.com/maps/contrib/113154956803943895105
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVC3U_MbB9n-PEu2pCOc6c6otJOmL0qN9f2eOXE6eijCzlSgfg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNTvFjMXHXTTu_ofn2ARSED1P4YhS_hSr-YJ56o&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNTvFjMXHXTTu_ofn2ARSED1P4YhS_hSr-YJ56o!2e10!4m2!3m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2
+  - name: >-
+      places/ChIJXXds65oFlVQRwqFfT1taPws/photos/AUy1YQ2Z3tRXSmvAlq_t1KEre0r456BlvoJ2yRZJibY_QFsSIxPV8apuqdr8PmkKWHCZRybpqnqQeh9G5KxQQ20V1mzDfPaNzYPd7QQYF1JHxISTZnDG0MqlON2Fgq8Z5pfNnR__LR44a6R-Bw_T5W5GaAaZ5xTCiHe0q8gi2UgQ8DskBSarVMgmdjsUs5V4kM5JLM-5_TXnDB1xY9yMY54YGiyjFk24HJ8TyXJ2kwaJHPTzTvOBrWh4inUiLIMaLVAqMni14KO0IDrI45BZ9tgL38Scjs9xlHDTI5TnJGT3iZuDNw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: O Sushi
+        uri: https://maps.google.com/maps/contrib/113154956803943895105
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVC3U_MbB9n-PEu2pCOc6c6otJOmL0qN9f2eOXE6eijCzlSgfg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPk9-6Gqe3XhIOaO8GX3N5HDMGJ1J2D7IoaoPkG&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPk9-6Gqe3XhIOaO8GX3N5HDMGJ1J2D7IoaoPkG!2e10!4m2!3m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2
+  - name: >-
+      places/ChIJXXds65oFlVQRwqFfT1taPws/photos/AUy1YQ3aqbxe5ZRkrwj1MDJuQIUp8ryy5F2y1HFRmkJUIaOy3-qLv2m4AVbX7t29hZ4XJYIPKZsbtXyj8U6iyEHQmq2jxW-RSOx4g5P6rw9vLMOdNa9wUvHgnK0FTr2Kge93zJLK_HM4rBFIQ6UOo08Y6NJuzcUgNizX_E6OemPofKXKRrjAsu999L3jUE5QjDsnOm2ZLzMV2tDzj_0WDgi4LCfiLebrPKGqoHNBnE0O96SbSxnoOfaEx87KAtxpX6_vgUJ42aRGWlXrn0yr55BAFLrq3lrYa1PAgBF5dSctGo7sdsc4jWFd82QD-a91tctbomfQisbYlp38vFWWFnBvbjgdWdT86pE-8I_ghnYGsneUOQPaoNLikVSnMe6HWMZE4elB4KN0sowT-p_Xcqvuud_zas5humCup_m9bexI5xkN8fk3
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Chenyang Liu
+        uri: https://maps.google.com/maps/contrib/110812587119779324056
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIVjCIEzmPy9GZbpyHfwN3OHem8nTLlKsYndsN5gW9Fhi4d9A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC32prj6AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC32prj6AE!2e10!4m2!3m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2
+  - name: >-
+      places/ChIJXXds65oFlVQRwqFfT1taPws/photos/AUy1YQ2W-ao-3_kcaXvFXCWHC1ZIDchH8Dk4XL_90qVpa14D2Q205fAHTtR6G_WTfmZKaXXa2_0yhOu-EOX3PJh_KXcFvm3LYJ-NDIuUl_SbcJs11mBc_clmj7q_D_BvHMrmeC5dyaqW-VdGynJAWskdBmbw31wBJVfVxK5NOQ-lkOA2OuesZO6FcnGjmPdwvXOlerh3B4gwJsRNMYV2pWqBZr5sJtPr8nkqsDXXqqyqfDcVl4RfwqU3HbTkBB8ev_jAQnmw1mU_k_Oh1Z5CywtXhm7QJcD38NPZ53lGEV7TIGakdjCS-1LmqJSnZA9j4sKkbuSr5RsCtNysAzoiFRbCjnlgKylP_PGMBW3mUoFcYmPoiFdgi1QaOy3fcIvdAuPHVxifE9vqV0ixoHfz206WZOvhWmoyZahdcJCE0kSbeApZbTI
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: Laura Duncan
+        uri: https://maps.google.com/maps/contrib/102314383783413032110
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxzIMSaOPLYUp_YA0PIxn8sOI2fS2Zv5ZG-bSM-bX7Cm65BC0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICaxqe_yQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICaxqe_yQE!2e10!4m2!3m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2
+  - name: >-
+      places/ChIJXXds65oFlVQRwqFfT1taPws/photos/AUy1YQ0Q2Srd-8NP5fOdGyxU2ANjzFOzjPEzn79AUuBcAeirOKYpR-l7eUVOjdjyVumP1lAjlBNfHGpBnRLhWtnYxnsTAuHyzrFZcGqSptreh68oZn9FRkVuHEVyf1Q8TMekGCH7BOFqBKEZeqnDhCNbd4opx1Qh1MtZRTN032JwQOwWfKQ--tgkUavIIUU5yDe4dkH33zwH8TfaoBKBgCxapKl-vIRlavIlAAX_RzSMC7-yEYWMp6HpwZTO5eXhHGTYYAUNFAKe9JWReoCb0ctxmeKaGWfb86j2Kfa_EhrOpZTQKonvmr6xrLIStOQ3k-GWh5JrqtiwffuV-IQNustSKkbfbEhYYbxO5fAoEPlCySLi0SUJrk50zcIbLOWRNFShabwzbqcs5viCfBY6psBxAag0lhaoa2nwFU5Mogk3dM1ZwlPu
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Daniel Vinhasa
+        uri: https://maps.google.com/maps/contrib/105479864979053151891
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYLE_n8bfSyoZeRdb8aN0elbPkcZ04clDA1EYcD-_6Jd0gR36Bgg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxquGcpQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxquGcpQE!2e10!4m2!3m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2
+  - name: >-
+      places/ChIJXXds65oFlVQRwqFfT1taPws/photos/AUy1YQ0BHhPM1uhEjquMbAa8gUBuuaLnQG1tPE8DhRQgohaVCoq_SNVAc9MusbHW2r-aulia3x5S4-dDdHbHhPs4rN-K6E1jjYdKrGG0EkKePvI4sbb3dgTL5yUhzuBn_87hIezJ9X7uJOpDOBQBuTW46YAWjcAGQjtaFx3sJiv3uAROfFpA4kdflvui27-eOjptYbIu7RwNA11FIBLtdTSjdOXJDq0a05GCwnwUmstxnwmAV0zXfnkEjRgn68mjWpLlQotgBqpZWROXWESN_POUFBCE0PRTfr5COB_-5bjQNAjaM_s_Wk1SkN9CC5DDk7G_Opj3BBhpNgWdSYjNq7gWRp_ODcEEcGi3Dds5tlnuUeb8SVVetpL8hw-EqwG6r14XHPz1cAg-d6Ng4BLKnseAsrlXygH_lO3QL8rexre3dFs
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Daniel Vinhasa
+        uri: https://maps.google.com/maps/contrib/105479864979053151891
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYLE_n8bfSyoZeRdb8aN0elbPkcZ04clDA1EYcD-_6Jd0gR36Bgg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxquGMUg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxquGMUg!2e10!4m2!3m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2
+  - name: >-
+      places/ChIJXXds65oFlVQRwqFfT1taPws/photos/AUy1YQ2iWJTgRwr707E8nkXSAiAHCLy5LATuE_S8L63O_-QGzyJ_A0dfqIvYOkffhbdyYs5zunejQynJP7Dgp4r9dDUaGao4wwFeMhavKUDWSj0iQUCAi5I725jOuZHIxElqaAIIEMsB3nDEmMymrTbpgfHL_qho-xhyh2Hp4Lm2SBpQVN9Mxzp_6vkCXM28GQ8-Sj_pmGrEFtWJiW5JbWnaJeRht5ZYSADi8YPdDKc_Qn9NCIRFb5pnKmOXYQNpJtl0bu-OAoVDh-N11-wzYueLDeDmOc967QO0zEbV2Wx6HxeOwIlfvbHf6Rm9Q8kPSf91pLqH8lV-CPOU_piOSGp-W1UJmGOj3OM2cZLa4MMjRO-mCXluFDOlago9aMRBiYUHAVMzz-6kx5AU_mBCsyYOVLsmerGSAcNmySdMbupApMC-Yw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Daniel Vinhasa
+        uri: https://maps.google.com/maps/contrib/105479864979053151891
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYLE_n8bfSyoZeRdb8aN0elbPkcZ04clDA1EYcD-_6Jd0gR36Bgg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxquGcFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxquGcFQ!2e10!4m2!3m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2
+  - name: >-
+      places/ChIJXXds65oFlVQRwqFfT1taPws/photos/AUy1YQ15PVwiNi069hTfbH0KNAadT9OdIRMTJ7xFJVwSedKIsJVYVnhXYUtM_gUZDjGZP_gyUAkMvWnQsGxoXfvd-Ej1R8glw3tuGVIZmq8e4LGpQoy_Wy2VDGRq-GMOh66ANpFkuYKEaY9hiW06CAei9xgtlClHTTr0I8j6OwlzwJT1aqPVtrfmaA-c5x-ACIXBj7EDLZM777oWw-qaQFxhjXLUF_pVKUY_axbeCCRvOq9umpCH4BIM1gZ5QXYCPm7pScjfcqonn4mo1sFqvCFhJJ0E-6ovnHD5-ikFdjqInWzVORfD5sW-LdfXg1d4zXHyFw8wKSvwvUbc2lUCFGiIo0HS86wZTAYaKF18WHLiz8h1EVFPxxfqM-EMfrA5cv06EYHCGqfRDjEC_OM2QtwBLCgU-gsTNVp_4iO2MD4qg99zgA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Yvette Ono
+        uri: https://maps.google.com/maps/contrib/111850587207642328073
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX3T-E0c6yfRKv1sgcn1-ULY-BpruuywYxpkNByuCCgPsYalzAOLQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzn67Efw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzn67Efw!2e10!4m2!3m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2
+  - name: >-
+      places/ChIJXXds65oFlVQRwqFfT1taPws/photos/AUy1YQ2IH3NrOjwDFBdITsEVUoSIp8Iy3XYv3KszV1L82Ijd4mcaLq565OjdHTiy4k8W2OWqxP5IcQUgTabHOFV9GSsE3jJIQfOjYBBo07BryCLx40trq6c-2DxjbzgQ-RyQO1ivHN62_IsKydAKbwBtSbGvFfIk-lbLZFouQtJRpS3-YgpN5uWZeetN0rpx1yP-Nddyabo8T19ycafDbQ9flSzcD3quADUty51bNui7mq1_eh9VEZrHIQSTftY71u7nEEkl6i-gHe27lQANqordIP14fJljI2c_gA8Q6qhX9rZEOKpXDVbcWhh87mmo49vHAYqaFCGv120mE_1Ie-EsqQmILTTnyYCJTAcuRe390729xl437hg8bC7xlHOSazVjB3VhhZC2qdsnxwUWTwX85OauK5wxPcoClGVZ5I1wZAd-nA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Daniel Vinhasa
+        uri: https://maps.google.com/maps/contrib/105479864979053151891
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYLE_n8bfSyoZeRdb8aN0elbPkcZ04clDA1EYcD-_6Jd0gR36Bgg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxquGMCg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxquGMCg!2e10!4m2!3m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2
+  - name: >-
+      places/ChIJXXds65oFlVQRwqFfT1taPws/photos/AUy1YQ1thImhgU6H4-_xJ9O9WSnPrnIhyE-2ss2mhFdGEwC8LTQtZ7IbzWmNrxJ9OJvXzYI-FrjMOHw5eQVrg2bfVkt2wl4jK1HyYYtJCLM4kqjRYYoE0uhzFnhthwez30Fo4FUqzd686oU2UfqqSCR3ty1u6TYlhxm0-FQW-xwFn2ABAfjfx5PT9wbGzJDCEbcjiyX4e_79LRD6v7yT2qjmddgx-OD29siRHpezRPyShPkg98oLSnedZMvtZMsTRYtGzlwCMeWKg7n-Ny-h-WF-_Lm9lzOFvlyASYWxELj9jmSysbsr83em_u36Se5cYE1iaLpphT-BAaN0NMd7bb9AutVs1eBtIiADHURSZeZiYo76GqmDYoM69gTRy615y-aYRRiTJp1YATV5MvXkI2LivsIib1fBo0PYsqFPxkeepLLiNw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Daniel Vinhasa
+        uri: https://maps.google.com/maps/contrib/105479864979053151891
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYLE_n8bfSyoZeRdb8aN0elbPkcZ04clDA1EYcD-_6Jd0gR36Bgg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxquGcZQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxquGcZQ!2e10!4m2!3m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2
+address: 7183 NE Imbrie Dr, Hillsboro, OR 97124, USA
+street: 7183 NE Imbrie Dr
+city: Hillsboro
+state: OR
+zip: '97124'
+country: USA
+neighborhood: null
+latitude: '45.549911'
+longitude: '-122.907074'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: O Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2!3e0
+  placeUri: https://maps.google.com/?cid=810465806170169794
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495059aeb6c775d:0xb3f5a5b4f5fa1c2!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: O-Sushi
+
+---

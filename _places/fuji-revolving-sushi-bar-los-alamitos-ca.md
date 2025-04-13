@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Fuji Revolving Sushi Bar"
+permalink: /california/los-alamitos/fuji-revolving-sushi-bar.html
+stateAbbr: CA
+stateName: California
+cityName: Los Alamitos
+place_id: ChIJQ5EmQ8Iu3YARrLRkgI2U86c
+photos:
+  - name: >-
+      places/ChIJQ5EmQ8Iu3YARrLRkgI2U86c/photos/AUy1YQ3E_eA51Z2EJo-AXJYv8HXnJZRNpbn-gzYPAqQUWBJ36WpbVxscYV_MStKfNbTRhxGQkdnslGmkKlpTrtsT_UPHRWL7Iue5QVUSGr1uF5M2be11t8k_N03fuqJPTh9MJi0cxHXXgiHFYYH6rGTFqyL6-gJ46XKDDHYqPpucQzTE9L7pQUlGvU45-p9kD7PQISztoXIFKoAyUvy3sbXisP0JXQHCz5Ue_iVIEZhbKwa6NG9mjKQ2uK4HxRDPwDiK2tSmvtLWXiEXfY-mPkdMzmxYaoGPaRqAOWgwwnm-7vZGjgmUJriuN82nCetalPBmpXukXkyiOrABXz07xypHgvsWMyQjoYtX6C7mK7rH4Xs2MqkPDSMhMF_MSkSlrfMYCT-di3wa09xYJtS5Ppg-K9LMFZU_xjIPgcbMkNbBaMS-dWvV
+    widthPx: 4160
+    heightPx: 2080
+    authorAttributions:
+      - displayName: John Wypick
+        uri: https://maps.google.com/maps/contrib/104601956058179019470
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW5ljXQPO7ImuUHhR1itIgV2tusGkLEfZteUA0mOdireJtus6xy=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkyLbsigE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkyLbsigE!2e10!4m2!3m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac
+  - name: >-
+      places/ChIJQ5EmQ8Iu3YARrLRkgI2U86c/photos/AUy1YQ1cDRm5utxgs6cbk5m227BCTb4YDjGIk4MSk6BpKguD6cvAnVfrj-db2v1FsBA002tMMK0DbibayY4Y59XG2dqdPH9Kcrl7uljJN3vCDFbtMrvF1e3gyy5UWgscoviNvno12J79cndH7CO_E3jHZ9FvpaRBj8E7IsKCw6orkzw8FER2qLoxw8odp_yh3tEFbwzeXYOjkVgcY5gFS2xuodBdLbk8Hr3BHRrVZviQZRoT1DWFqM6Zcva6ttAEWMyG8GfsuP7g24XIftOeZ1IfJPW9kJKBHOSDmf9ngaFtM83dBfUG_7M7rMOD0g2P_jNgA-XL-gAOmjcMyjz-FcQ6ymZBTKrujuDpAopbNmx9j8oRrfOn2iMxyiY4jlib6loxnAnlDcJKLqmUdAexbNmzRDI0gfOFbXEbjS73S0gmF6EgS8td
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Maria Zawadzki
+        uri: https://maps.google.com/maps/contrib/104474479164928306340
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXNZKO57LHw3oxVXyd2hCmG_LfEaumBCIroWgMjXafNbV9VuYtW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHwKHI1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHwKHI1gE!2e10!4m2!3m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac
+  - name: >-
+      places/ChIJQ5EmQ8Iu3YARrLRkgI2U86c/photos/AUy1YQ2X_Z1X-H6pJHYrOYLVQzuZMBDintKE7EeavWgV6LgEBktW5WIbeiNi6z1I2d-t315aVTrKKSnEIZLgUxa4_cRtEu7vSrVpm-8d1cJb-pz6BED8UNOchhN-WdHjfyFa7A0MCVc7GDIQV0vxs1f8-gECKXgQqWQyhqWkzuDrcTxnTmZal822vuHk9w8KPxV-S3GIMxLzk43qHQOq2p_yIpNDw4VqbHYi5ZU4-yK7rvwKHxPCpc5sVaOV-HtPYOcvavS7Pcw02Wf-p0W9bg68Lu23MuqWxrjQ58jPKyd_t5XzVVbV6AA4H6nKu96TX-a0foz0osjvsLAoyIyEsaUHAK6hEUiGUzv7oOi9yF10Kjjx0oHhZbxdXx2rw7_9ToYBMj-L_QvmffzPzUWDzFCbm1-Ijc4Mqt77MNZ6S6bhTqDOyFoJFi8fq63rWtWdb3N1
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Jenny Widjaja
+        uri: https://maps.google.com/maps/contrib/112829677189412515742
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWlsoT21eTjvqqBFFHwIb8W33op5p5HIqcxHmM2xm--OMSEfUOl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzRDGOVmfHrQwAAq6d&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzRDGOVmfHrQwAAq6d!2e10!4m2!3m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac
+  - name: >-
+      places/ChIJQ5EmQ8Iu3YARrLRkgI2U86c/photos/AUy1YQ2dTMBAxltuTjTTvIBmJXMmaJfDJHFVND-bLJXxnXQMGMqjKdGuwyVuze2lnNOuEB9qes4U5zNREmZVVKqyguSmRk-26exZsPYi4bz831IwYiXIZ4FeJo6-iSTgDhOz3zdzVgKaUfHBpC1YT8l8gjjq1X_7slD_GuB5Qr7kVYZOA0zfJU9igl0L6a-GVNOR4w7M_lBSFM9gW-0IPPrTT17yTkOm4nXTE_iGdPl5M6b_m2kLIAjCP25jimp1k0ht9zGCo8x06trBW-TkX2gpwVa23eqWab3qKqpCkiMa07_8UoQjDZtH5Epm6UhsZcctwugQZfqT6rIpmRbSsOWrYMHLTA0vBJJ5KaKiFny_6DbZvGSEJWMxt7rAHfvlYhUouKnH7AZEaXqbh5aYNA6G5Ec5VAq6Ts-oBI03oMyQyvbSbulp
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Kendra Vasquez
+        uri: https://maps.google.com/maps/contrib/105615803757525206919
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLA-JUxZ0SgtCgT8S1tJQw1BG5NbZUHrgDP2o5-sbKggpsIH0s=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICboqinogE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICboqinogE!2e10!4m2!3m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac
+  - name: >-
+      places/ChIJQ5EmQ8Iu3YARrLRkgI2U86c/photos/AUy1YQ2rb4nZlj3HjuVXVC0GS1eWtbNqQUCbOb1pt9UYruSBM-KQL-SEwehPFxl10JoOFR1Xjlh-2mejq0e2BAymAwGdH1cvjmQK7c9QcULN0t8iMAJ8jz1kLpAkrBfo74YBxgcn8XEJko--OM-7PCfpsFXOImdYQFgYw_-0h3Qw4LKdkLKMSTcgvAtpikR_5L202z8DKdSzpl2B4XBtopol2AfxqMMPCpDkrQc5asUx848Z4uTcxJTq44O--9sUnDikWo3VR9l3A79K2iPrpgCX2JFTGEuRjJZQBPIiSBXhQnWUKirYTgVzovsS2bT3rwEs1QEg86jjNKE5sX2SzYt5va530oFuJstWHCrCWUH_iPDPUYJ21dGX29MnKK7GEyUEuubuR0kAJ-Pj0vJUjGbCGZymZBcwcNfDESlI9fEfC5SnqA
+    widthPx: 2320
+    heightPx: 1712
+    authorAttributions:
+      - displayName: WT Jen
+        uri: https://maps.google.com/maps/contrib/115089700061815371333
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV6vnV9UIirIQUV223auH775vrDDj8Bn7LKVi40yOKHGBtaG14=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFiqWJTg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFiqWJTg!2e10!4m2!3m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac
+  - name: >-
+      places/ChIJQ5EmQ8Iu3YARrLRkgI2U86c/photos/AUy1YQ25JoR9PvzcthDVjAX2Uirh8fyT_n8d4elLXi_TMK_OUay_qNHiRFgbTBF1pLC-HVTbDXaPUbnneU15Iwr5pwLMRusn_FTqQ-Fz3ng4SA-UfbgT_UsNKGYkYx-NiQrkPUxBOQXEmoH3Qcg6wO8RIgBh98m0i2sR6wits8u7565ptfMem0HV-gCr3BaeC_ta1NK8Hxf7tWrYCGrCGR-GfKHapAvM7Z488X7kOQbrv3Yjt7km94NQvgPP41BCpZg8FffWpV1tRN_O_414xDjgrsaESwg4w2Vsuh95RM_QDHNwscExRFe0W0dQKWT0tSYW973IfcrI1-nQAeWslElEh2jcUpAslf44OOyKiRt91_i02Q5KZfPOEfbK2xLM5tm5PIbKqNVNkTaihDoH4Z3wZhz40QkEWR_q5UvBeZ3MuVDOSw
+    widthPx: 2731
+    heightPx: 2617
+    authorAttributions:
+      - displayName: WT Jen
+        uri: https://maps.google.com/maps/contrib/115089700061815371333
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV6vnV9UIirIQUV223auH775vrDDj8Bn7LKVi40yOKHGBtaG14=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFiqXGCw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFiqXGCw!2e10!4m2!3m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac
+  - name: >-
+      places/ChIJQ5EmQ8Iu3YARrLRkgI2U86c/photos/AUy1YQ3fcdICpMkHMdkiuR6UwMbWpHbUPRxtLx266kZ9xCq3lmyaUWaC7zKEeoh2UyI_a6qadzMPPydKxHt597bspqRlnIOr8H58IcTVu5wMYSgerPzoaFllD4aQ7qYC2DPawgFpjyZ-8VF2awUTfiG8Lto9Iat-18Mm7h2FsaOeT5W84sbm4OonbnPN2DPdC8mHPr8uu-OA1Ydh8sJaDw5Lm4hql7cdbjO0SWah_aPZjLzLftNeFhWFEV8Yh63kX6sUrDqaSZ0BpvYWFnyOoZCvBvOKNqMqOIEY78UHgGWg47gmHsbO2SNv7t6XbQd2V9CNzGMQD7sx6MUh4P63FaRxAM_vVbqIpjEIs41tPD0xzw71aBwbyXVMC9SoWcqwY9NZmtGWWCZgpM12LRT1Eklz2a_6pkF7yBLgzxzCyYitpxjyBYkK
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Lynn Kreis Burr
+        uri: https://maps.google.com/maps/contrib/104175156626980164132
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKRGSzq1yfI8J6RZilxecDRHcp8bbN4HyWkY1NQt7O9kqbsMOJE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLopzCvQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLopzCvQE!2e10!4m2!3m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac
+  - name: >-
+      places/ChIJQ5EmQ8Iu3YARrLRkgI2U86c/photos/AUy1YQ3yAtVwZNyiNg430ZR4NAslaRW5zIpbdbH7T4ehytIGBD0U0UYJkzPIXykpe3no9uwqY6k0c9QRZR1Eapl4fnju6dTxiBeX1_mGd4CjlFX7WTOIafauqAI2OhPPrWAgbmQAQqwXbkV609zhEJNjC3nNKzegVa1EUegB_P8OyWgeuRAprZrEHjTTIL74dD28jsGXBvdiFnZEOh5k7N9dT8GAjchyPIZ9eGl_8HeEhJa6e7-TDgFGleJRr4lYmXJempJzzAg9MoxcKTkbDyNfFF7Jfh7IBh5gtq0ecsaUoNQSw5o1h0F70SyYae63dSd-B2IR0kZDWSOEXGz4X1AbVeXfCMFrcT3hIx7T1J9eKXMH57hcOOnekFY1x0RnvAkZyxQLPDzhXo-ev5ff8patq-_S59S3gLp_GD8fbO90Ai50CLv6
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Truc Bui (Bella)
+        uri: https://maps.google.com/maps/contrib/114664373571362147753
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWjgGPw7CZJjAmjrSrsG07V1_XIuJRcMsfDqlmHVSx6alEyoTSl0A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfsY_ongE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfsY_ongE!2e10!4m2!3m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac
+  - name: >-
+      places/ChIJQ5EmQ8Iu3YARrLRkgI2U86c/photos/AUy1YQ03O6Jrd9-WAnGB7loq9F3TIDMHyNqiOVU-pH6SkJfzz5jlhGxWxNP9A9eKDabooFpWuo3q7_9agzK1vNN5o6yvARzj151gEkR4WxYBBFin0C-KZoA0Ud3Ll-DdCpghDAX1iRw6KABOcsrtjmJ8wjTA6DDPmD6qi5xxA_55eD6jSheqRBX1_aOJcTz0mmdUAeiiP28qO_yYS-MVDXivonEB1QzlfHOmWrLmkzBQSDFfphGlpNkcTwdk6uZiPmMTdDXm3XVa21muNMEVW_rYMgOMHIKH5gGSPO-tJ0Yi7THI9GOihqRXV-3EB7MzbzHbkoceW3zmGYQ8DolwJEnpo9NHtEmp95x5jxP-D0sHHbe53wqYapskeEzlnePv7ENJjkxD4ldMY6oCcNSTNN69u4d0YS8HeT1krgbrYjQs-jWorg
+    widthPx: 2048
+    heightPx: 1536
+    authorAttributions:
+      - displayName: Daniel Mizushima
+        uri: https://maps.google.com/maps/contrib/109719592169056820833
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWWKmv4Qo1sTNPFCSWx4AsKXymbHaImxzmA5ulU2-Vp9NwSSkFy=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEjpvfDQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEjpvfDQ!2e10!4m2!3m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac
+  - name: >-
+      places/ChIJQ5EmQ8Iu3YARrLRkgI2U86c/photos/AUy1YQ34XpJQbS9XoqjSX0Y4b9I0RDFmsZiEu7dNGOJmYvXzVWUy1cyr-sor3ybKwZqyalO2D7Hqkk8ho3z7jEsacE1bz3UxyISgLLXMMWlj6moF4Ca-3a-bAYdHTG6boMNJaOQrcCbW-UjtUQ1VtFStQ5f5mJFFTWjo-QMLZBY8k4_mkrkUpA7u320J2q-IyCb_UJu-Axp-qCkX91VPboy8UxJcgQpUsnw24BBYSFcej9kYYmHEQ3jtv7HeFuMypHewOicXS5OrfZ9L0LumQBiQjeYo8obAXYZ7siOZJbwVt2kkvBTYt0aWvMdogSPXigZiDmhCBMiDN0CaH6sv9ooUuB3Q0rjXqduq3uCCNiH8cLBK8egri_jeWBC7LvaItFlEvnZMvSo_L6NE4i_ojjPid0BF80gZSrYcSUsl_QgOtcx_eeve
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: Joshua Vogt
+        uri: https://maps.google.com/maps/contrib/117489282624172516026
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVY1y4BZlu_KMK2g8Dztjum-s17HsBu51VfmR4WAzWwM6YE7oRNpQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC6gLDjwgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6gLDjwgE!2e10!4m2!3m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac
+address: 5373 Katella Ave, Los Alamitos, CA 90720, USA
+street: 5373 Katella Ave
+city: Los Alamitos
+state: CA
+zip: '90720'
+country: USA
+neighborhood: null
+latitude: '33.803346'
+longitude: '-118.040360'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Fuji Revolving Sushi Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dd2ec243269143:0xa7f3948d8064b4ac!3e0
+  placeUri: https://maps.google.com/?cid=12102179959140037804
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd2ec243269143:0xa7f3948d8064b4ac!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dd2ec243269143:0xa7f3948d8064b4ac!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd2ec243269143:0xa7f3948d8064b4ac!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Fuji-Revolving-Sushi-Bar
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Kaito Sushi NY"
+permalink: /new-york/bronxville/kaito-sushi-ny.html
+stateAbbr: NY
+stateName: New York
+cityName: Bronxville
+place_id: ChIJr103-rGSwokReSFy8SWUMpY
+photos:
+  - name: >-
+      places/ChIJr103-rGSwokReSFy8SWUMpY/photos/AUy1YQ2GkQB3pWmUw5VZwYD9RTC6FG7hdw21IJn3saV_9QBpMHwseksBj-x2Yf312VXskFRXzGaeFTQj9JfuY1sycCbYUnpXCGy1n35ySC_A2-rS9yqAi4nm_D4CVljSYrn-Bf9Vdh-zAAaxvlqBtgpKG9eCxI9hq1njRGaNIZL1oVAiLDq2n4WyfXd2VHgi8Db7XHL44X7Hf7g8-Cqxe_0yZkH5ku4vIozztsCRE4ibgnXobKG4mxn7pfKNfQ27dIjrI7ZsXxOjEqYUkJz4zkn4dKgL2RgIk9sac-KcuozA0B9SjkJoLL8QEJU-TYhSsGhC8j3ouN7L8TIVqHe0xkbRF9HfKNlYEZbtGXgIXs2U4VLfC7yE-6UoboaX7WlxP1x_j7k7sstMt6yaS5vuAddBnkQ1Aw9YAQ4AEKSRRCN5JjFdpRNW
+    widthPx: 4800
+    heightPx: 2163
+    authorAttributions:
+      - displayName: Jay Dixon
+        uri: https://maps.google.com/maps/contrib/107866600029598521642
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKMjkUBZIwnOfISBUSkIo6NksctnrcAhkvcyEygZsW1AGqJlQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICknr_K9gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICknr_K9gE!2e10!4m2!3m1!1s0x89c292b1fa375daf:0x96329425f1722179
+  - name: >-
+      places/ChIJr103-rGSwokReSFy8SWUMpY/photos/AUy1YQ2Z1GJ4KplaPA0EQv7xFiwNj8o_VFxlKaUG4OFeVDhKs7GKLs_X8Gs45pDY4SMJjdNBnvlYE7YeJ6cg4YeyDGt2c9eZ8L8ntpAWLesery_qTIgyhcoKmqVLjU75WoOtNV5a77oXiJWVcyhrmwa89t9GlUys9aCjcEcr8IYB6ryL1SrXLAeZOnEvrCB4M1ObTRM36xCLhxwfMJUj-wiXx6ceKnRMWbl4g9VDo0wD1p1JDTNUwfSUNY95vU8lbpIdwLtKQZIwc-tbuNLvVfCESg62U-K23-O3dPRdPClvOBsqsr2f6ePPLkVAVsEn5uW2MH795M9DdA42Hq5mPYotMGXfTpOzJcBnmPl4TOxFv5Cw9s_yv4c2qx3xPx2IuVlC0_3gD8VU0r0lxSXq1kZCvAelll6k48gEYcsOSJiaEoLqMXg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Pia V
+        uri: https://maps.google.com/maps/contrib/104692250972745291058
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKB1INM6YFmjx2lPG3dg-CcGAgXSwNZr8btzGlY31zJm7_j22fX=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkie_ylAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkie_ylAE!2e10!4m2!3m1!1s0x89c292b1fa375daf:0x96329425f1722179
+  - name: >-
+      places/ChIJr103-rGSwokReSFy8SWUMpY/photos/AUy1YQ3donQIqn4nwAnAjpFFBIvCW7bT-wRwxuNXWNhEKSvC7HE8ZhVTQLP60OoQYRcSXRPLLvo3Yy_2d9eMKj9PRn-DmwakVkC92Cn3WVH8SPfSV43wGS0-2xPy54WJQMDwHX2zbpzqkzojFESaC8R7OON7MGOjMaV1k67Ikmfdk4q_7KamCBAOOmXLMubS7jvs_rAzvN9rD7Dtk8dwaD-AFioLIXOpZJJ-7U-4PyjKIIhjiOwswx7mRetahQVsNqPwAKUiLjegJf0ZJzVF9RxWaN1P1uhSTkQOl2H1FE0gWpiE_Q
+    widthPx: 2048
+    heightPx: 1153
+    authorAttributions:
+      - displayName: Kaito Sushi NY
+        uri: https://maps.google.com/maps/contrib/103662137449615212584
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWgDMFGvx6ypHICQ1q0bVy-PH1aqMi9uhzMVG5gQeKBFfM75iI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPRCfD7rk2K5wdb46bSzGM9QgDMfGCgWq6tf9p-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPRCfD7rk2K5wdb46bSzGM9QgDMfGCgWq6tf9p-!2e10!4m2!3m1!1s0x89c292b1fa375daf:0x96329425f1722179
+  - name: >-
+      places/ChIJr103-rGSwokReSFy8SWUMpY/photos/AUy1YQ0cH0X0qIp-9OrdLSWj5u0fhdCPnu31b4SlmJskVM-ZcAHRoNCnUcGkLXk2oMwQfbI9zzmc7WZHfJmuuIiL8-3l_lnWkJfBlfKuCl5LORW1WJarisqfxw0suxdt39_8D4WImF2fVrpFos3e6cXAQB8RUmqkAJGHX05QAbxaH3QmyBTd01yaEH2097iaRpss-LyG8l7FRZw-sosD7XhcfCWecWu9PrfEGbFDms3kk_I48FyBvKMrlbcCAvHSBT2a1MBoj3AypHEtZYpI4PwpVnwOkEWbqDT8xotcWz-D8gt5OmlqTb2iqhNAfrT-Su3-vxAQdfBWJ4FQA7XG-aShBtd0UwfxDDGlq0LYvZMfK-Qk2wMIOBfUNerbBp2B3Cyl2uTI-fPFuC3vaerqb9krvOCotQRVCLTPMivjuFKthm6mV_U
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: J.
+        uri: https://maps.google.com/maps/contrib/109143634381712227841
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX3iVrRFSSL8oCY0BLsmlLx8n7fRJ28y-bvlBoRx0Km6d4CdQWpqQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDCk5zBwwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCk5zBwwE!2e10!4m2!3m1!1s0x89c292b1fa375daf:0x96329425f1722179
+  - name: >-
+      places/ChIJr103-rGSwokReSFy8SWUMpY/photos/AUy1YQ1EUrmCr4VF4nppNHOHPQwVI961ZXWcFRC1MqWWj7L7AaVTLs0FjHajLd0Zxz9_Uhtx80QnoCz0_h0V4QBpLtR_3pfJ71p1_ifQQR74FbF0aPajurpo1hcCRYOnLDkNUbL40eJWnAn0Tdig7Qc_fxzKIihUa86kv1gTJdD6YswbodKAYyMcpX6vAxstLwMuRUTUSfF_RhavCRep9gXgyUvi0SSYrFGh5wuxk1s8oyOhNx9icjgUoOpF-hs6myuvmzXYSjnujPq-EGhBTXZXKcYeJb8oth98w1oJ9sByKHXfLhxQ8gOP1GmcrwmCFJcVSyQUc9gFspVz55RY8zHZi-X7fRr7XdTsyvR9uo4tG1DGs5ja-5gKHf-XLwx5JuaG4UndaoqDlekJAypXAAeAyXLbr30I5YJh_oy8Hc1SMba_F6qr
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Sujarit Chermsirivatana
+        uri: https://maps.google.com/maps/contrib/105565780805763592598
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWWhHTgqfJsW6O-9UWvRrFGE-FzcSOD5oFd2F68E6ADZr2X5X2C=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHr-bY0QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHr-bY0QE!2e10!4m2!3m1!1s0x89c292b1fa375daf:0x96329425f1722179
+  - name: >-
+      places/ChIJr103-rGSwokReSFy8SWUMpY/photos/AUy1YQ1jbi7ZhRABPl9vbYuav_zvP0SIcySLrXfDuAE9veyJBRmpMSuU7-e5QW9aTc4PSe8Tq-MnUAq2Lv3I3tDS4QbDDD3MgYQu_2OeYl6d3RQTFQvYlVvy1ZTPwdbA20jvKqYtsPd6fADDlTOyCTODJHQOztXZ87VlIq0Lx-t9MQdDSj0LCN__Vy07dLaC8xH7EgEZ7siQRikIFF17c0ECtOh7hqNpKS8eJVKgKIQJ3a7QrZVoaFOe6twyvLPg6-QIBK8ojXaKPQ1EBEdC_ZyfxOM-bZnZW9-AqRJNmW7mhADoZTT0EW36gkFEwJTwFmrMBvfq0Elr6ffg0wABX7ASdShhB1jqZ2imGnuys-04Cu0IfWClaAQCj87JzEEjbF5q6D_wTA03ZXQrxZOGb1JIOymtPkNCFQnFtJ7MCjwi8hv1OYBC
+    widthPx: 3763
+    heightPx: 2510
+    authorAttributions:
+      - displayName: J.
+        uri: https://maps.google.com/maps/contrib/109143634381712227841
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX3iVrRFSSL8oCY0BLsmlLx8n7fRJ28y-bvlBoRx0Km6d4CdQWpqQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDChaimrAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDChaimrAE!2e10!4m2!3m1!1s0x89c292b1fa375daf:0x96329425f1722179
+  - name: >-
+      places/ChIJr103-rGSwokReSFy8SWUMpY/photos/AUy1YQ1frtV8-eYF4FMVCZr10H-DXFZDp5y2_f74lHuPVXy00WJRqBbLWd1RhhaQsvhIHl0PGehPCEadnPAG2I2jDnzsU8av1mvwR7D9uLWUf-5FYkax_2_fz9heWlkVhg6kBn-5-C0wEuRqpFFwjYm-sVslbU2rZ__b3LMaMvxuS2IQhaoa4DheTY6qY-gHQjDweSI3V8GYQTq-Qxhd2WoyWlSM_XqSyAGeKm6zoQnzRLSk_rgu-uZ-NXiijThS21D6Dctasq2V0DiNs8W-EuojfaXF64FPQ9_T9DXJ7FAVORMI5KVVU4xeyKYO2XOxgcB3DnU5wP9D-lW6yir4X3fgKzAe67ZeCMNJUAZPe858L11XdBduo5P4BCTVi22f9S-0-GP9OOzkm1m3pHLTEMdudYeksU_MRdf-1kLC3KKViGkKLA
+    widthPx: 2848
+    heightPx: 4032
+    authorAttributions:
+      - displayName: J.
+        uri: https://maps.google.com/maps/contrib/109143634381712227841
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX3iVrRFSSL8oCY0BLsmlLx8n7fRJ28y-bvlBoRx0Km6d4CdQWpqQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDC4pikMA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC4pikMA!2e10!4m2!3m1!1s0x89c292b1fa375daf:0x96329425f1722179
+  - name: >-
+      places/ChIJr103-rGSwokReSFy8SWUMpY/photos/AUy1YQ0Hoa9mJD_wW8v5cEn2qWDDZeggqdM5evoqmKsFx-POrtJumPnVyDDvLniZ1RMBGyZJPfKtgjsCGeSAjUHJIXlurFxLhdM1p9OXp7ccCsUMsxefieNOJTSUU-TP7x3IY3byJik6rzsjYvZe-bX9yKoz3kksnsSUM4pLyL4BZAAb2ox5KaFSYne7VKL2puU87s64PY_VmPpt5DJsu0wW-kF6CL685dZhyUvtYetbxfqVNuo0uCPj3tfX0gHZLoRZcbJYtlu_ZRvA-EAUt4aEdeZC3B3T3mq59X3RTuTeOKCcH2D2KLf6NbFRB9NMqdb-RY6rG1lt8GVRQtf8HmelUE6uyFU5MymsOWrIePCIiUSfiu0Sggsb_l_I8W3Ycy0SGLsJc42UeG9vq7djKbiPrDE7eXNeMXbhA8VM5tR50OKmnvw
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Mad “MadWand3rer” Wanderer
+        uri: https://maps.google.com/maps/contrib/113616102898501728956
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX0J5YkxumDWYKveuGAf_tV84tzN-zTEIgFzoa7Fhn6_HHW_h3l6g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZvtvwjQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZvtvwjQE!2e10!4m2!3m1!1s0x89c292b1fa375daf:0x96329425f1722179
+  - name: >-
+      places/ChIJr103-rGSwokReSFy8SWUMpY/photos/AUy1YQ17xZZAyM5mvbzYYWh8F1j5cIm4mohD5YuXiMCMbXCgpDsd66miYg3lXrd8rFHvysskjur6wJoBZwNE7f0gcbTUQJ-UKC5PRL4oF1AwFrMAZyBHFOtdcRADDcwLkbt257wgpHv9lkEyVeINEMKXBSbxjI9c14soeKcA6oaT4HisXtC7plNfs_gZd9HBjxOWDTj-aFe98s2wQj6SNi5FdgBqjKy-OGtHpiijgcGEBAQeCEOx2F9SN_jlqk7i1yZk2mp_EFlCe3eEuAlHvSlurEncjzt9j0OGFnFiFJSR8QtlpM4te437dJ0HJxY72rumdC0zwknmwcVBqBKpzmHodIDBbSmkuZDnjZQSc0DDSW1t76wFIbegBc-eq34IzLbux38mhr6WXg0TdwKYUek9HRhxU2aD33ehv7dFvQfX8YeFKg
+    widthPx: 3024
+    heightPx: 3090
+    authorAttributions:
+      - displayName: J.
+        uri: https://maps.google.com/maps/contrib/109143634381712227841
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX3iVrRFSSL8oCY0BLsmlLx8n7fRJ28y-bvlBoRx0Km6d4CdQWpqQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDChajmRA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDChajmRA!2e10!4m2!3m1!1s0x89c292b1fa375daf:0x96329425f1722179
+  - name: >-
+      places/ChIJr103-rGSwokReSFy8SWUMpY/photos/AUy1YQ1pAY4eUjD9o1RKVOotOmWW2V8pPviC8Ti8C9hWd3rS5pzWuiKS25hCJes9oxjZL6WZJkAEWt6gkdpue4y1AaYK04CTOtIfgdE9IE0_NNwYNAn3P1kR4KkkLh7XezLAcyRPwbM5gm-gcVk2LzJq7xoiZfWrfef7Kl4OkxDPBeg4sHZ0RjG1LetgFb4UUOxera2TyrdGnMV2Bqv4yI7QN3j175SKLGZTT4nM78_x5Kk-zQKM3iK9VT-BKHFZfCuFm-nRk3d2Hv_WlVxIZNGJQ8eXJ5LGFmRS0JBuf7fGp_tEaUSzHHlvoXQIzCERDqIjSYRAihmfC_nfF5iTlQQECWP3GuFmi72UPi1GNLdSJc_QlNsH8IIPh2XpT4SNynmQR26q5UR4-0-HCUMy80nsGFxRaZY1ID8L2nCaOJYJaEC4r2lj
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Pia V
+        uri: https://maps.google.com/maps/contrib/104692250972745291058
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKB1INM6YFmjx2lPG3dg-CcGAgXSwNZr8btzGlY31zJm7_j22fX=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkie_ytAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkie_ytAE!2e10!4m2!3m1!1s0x89c292b1fa375daf:0x96329425f1722179
+address: 28 Palmer Ave, Bronxville, NY 10708, USA
+street: 28 Palmer Ave
+city: Bronxville
+state: NY
+zip: '10708'
+country: USA
+neighborhood: null
+latitude: '40.941296'
+longitude: '-73.837433'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Kaito Sushi NY
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c292b1fa375daf:0x96329425f1722179!3e0
+  placeUri: https://maps.google.com/?cid=10822875745210212729
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c292b1fa375daf:0x96329425f1722179!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c292b1fa375daf:0x96329425f1722179!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c292b1fa375daf:0x96329425f1722179!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Kaito-Sushi-NY
+
+---

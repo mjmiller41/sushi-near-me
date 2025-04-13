@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Ichiban Hibachi & Sushi Bar"
+permalink: /pennsylvania/pittsburgh/ichiban-hibachi-sushi-bar.html
+stateAbbr: PA
+stateName: Pennsylvania
+cityName: Pittsburgh
+place_id: ChIJQ06KcDWTNIgR_KOB-hCyPO8
+photos:
+  - name: >-
+      places/ChIJQ06KcDWTNIgR_KOB-hCyPO8/photos/AUy1YQ3ZlMYeU-lqrXhU3Ej7R_JYJmEwmNticTpFAf8StGgbu_aeUxc6xtgIzexDoHitcjfr_ItvgIO6gKmqpIEQq2HM34baOUCFjwtVIowzk5TXPnq2KGzu5XNfF8ZmOTB8utNvNC3uh5EFliq6Q4WuAWPn299BXPhmNSEuhoPA4xUsbIVhdOSJrT7YeQwLjdJO2culFw1Xh-8Vsm7hvH0oMyTmdUpFmuWPuyrHENiEbhX5yedmWPckzAzRyBkMkc6o5X0aNcNRtaYxd-FXL-ssCqRyyoIHgGgeIql7KRDgJ0uGZvXR03pwCHfT_N2l32ZyOyt5waS5CTZCtNrEXzJIcQoeiXxaABu8NQktrDo6wD4Y4dDLJJ90OU5npCgjmhTRfk_q0yD0f_WAL5jzNIetara6bhx-7e51ogVwsrK5xVjOQA
+    widthPx: 4608
+    heightPx: 3456
+    authorAttributions:
+      - displayName: Allan “Keep Life Simple” Sensenich
+        uri: https://maps.google.com/maps/contrib/111897328728228005296
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWNaMdt_FV_DWeelnjt8f58kfyhNVbPWxd8wSWGBnelZZP932hVow=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGw8fYbg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGw8fYbg!2e10!4m2!3m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc
+  - name: >-
+      places/ChIJQ06KcDWTNIgR_KOB-hCyPO8/photos/AUy1YQ2W6IbB9RXUprWoV6J0nHhMZfih7mCN-E77B39Si37sY-rXr2eLVChxgyjwATS6cup5yTkhGAiKdZgLqdCym65TQ_xoNh0Uwk0smBHhtoYL94QAcarNLHS786tD2gqdGErHPyBXgv1YEajTMesBFeeBRJZ6qbfJCmF6E6HykOA_xTgse035ndZe9C-JKMllQYiTyeZ6ALPGV6g1bh8laPICjTtTd-mobf2zX7HsQWJRo34IbYYgAB8IiNfIwgd6UkfKZjEufZXOXXmzvDXCrHvSSDo8ummynqDDPV77HpnU7Isf1G4-maQkeY_AtSpzaGfeclhhc8zDxxEQdxGYdHbEX6xoNb_KtKW3Kur548eCIUMv1PRu0v-lI7f8Q0yZKnTgemHkxhPiG2RseKJT2cI-5Mg78gyf2sM6M-5RowoyaQ
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Alisha “LishaRae” Laimé
+        uri: https://maps.google.com/maps/contrib/112593510849885341707
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUA968clnrqm5QzQMc-TBPWHEK_9Eu2ISk3gUfNhHXR5Ep7vsGd=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwk-3ADw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwk-3ADw!2e10!4m2!3m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc
+  - name: >-
+      places/ChIJQ06KcDWTNIgR_KOB-hCyPO8/photos/AUy1YQ2xm5z6hZTSlEu1NTPsjwWcVki13uJgypBQ3vbKjNzyT_09Rul4RJ5X4icGP9ZYoIQw3BbxBOviVa0DMaydcBOct0ty4g6qzu_9QcIZ4OIlyz5nh2R80yQqj_evKnZhZ6EuwtvUeVzd6gqBZzRQiXbYyofPV3T2OB1KcT4RMIpZyzquoaGWw0xWiximas56RNjMCWxn5_68RWaqewQ8EwVec-FdJottRNfgaixv_xGmvW0pAYzLQ8QE9GzB3f5w9jfyoXIMYew2ZqEOX0z6CeizO9mYyzxNIEtdOxEQiUZ8yI0G-gwnhzk7Vr3iki4cj6OPWqbFgSziY3853iw6xn6M4NJ9vFehosUDMMjp-8L--65FJWq1gRpopB9qeXYZDGGCf4SeEW0x7HH-O0CjQvkIQvkYnnTxwmbZHlvaYH4o0JyY
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rana Zakerzadeh
+        uri: https://maps.google.com/maps/contrib/114811988853182594002
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUkPzwk9nwNzfiQULTqGziqYluG_zr9zr9G4NfjBSxurjyxIaHu=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR7-CeywE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR7-CeywE!2e10!4m2!3m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc
+  - name: >-
+      places/ChIJQ06KcDWTNIgR_KOB-hCyPO8/photos/AUy1YQ13_pvalCKtDPaVAQCRAnTLVqMu_ZuN-BW609MqLzmKxVyvM6AukCOmbhHv11kBgwTULDamUHYBpudnNUcH01yQ4syonu0Uc3_-MqTFcEyKGMU8exUkqnScJ31vL5aYyINRNTo78z28c8iZkJup7e5yUZ4jqaCLlIZQnSRMVbgBmK68FhJmtqblrd_4ALepgap_3NR_vm5p3yd5i-ZHhyz_bbSfhz9Vc1X6n0uCKt92hHbjSqhjOaS58y5ir6XKEyjEJD3O07KI5AwnedyLeaUAJMRVyvIn0gU7nIvsu38XwFzJAP0dtofN1Xz-RMZeYibO0Wd7eYSIG442FhyR9yI8JTZrqu1xl-h-mIk4382vd3e5V4ZcCvM1gxwL7aezshyFB39GD0tqTtBVzMWQaa3u03HyugbVAjwpKb1HWXYZyWU
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Fjona Tabaku
+        uri: https://maps.google.com/maps/contrib/110312334637736889993
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWsze82QVRdauR6ZM3xobHeuunsXxkv35DbymzwF8wizfNkWg67HQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ45zQpQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ45zQpQE!2e10!4m2!3m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc
+  - name: >-
+      places/ChIJQ06KcDWTNIgR_KOB-hCyPO8/photos/AUy1YQ3dqEYHqofpzX8h5yX2qQrQP01t4CebOXWtXUi9CV_93LnxJJcFJN9hj52_DO7k7t2ZijcE-3ntAl6xuIB1Qutxp3kb5VUA3g4QUXYXpxi9NFbdPzZXwrMxbpyGl758CDJPiqAYfmyUGyZFgw5DgyLxSVPgJh4GITu-4Vgi5I_zGbobWI0p1WTt9CqZ7HMAVFiqOX_wjbcxKEzleGxEUwi24U1DgGDlS1lXY5gAShYQv9sCu0UqnAyijPvRV47K9wkFsxXG4IP2TU1RqU3WXhzGPlSMSAK3upgEioxKG3IUmxRyx5LO-VYsl0zHHvWRtUJWz2Drpm6yP98uzEJVRklqF_H28znw22cZC_gCcm_6cjO9M5N5UM8GyMOIRnn2cpze7nFG6kHXYQrJUAz1ewx0KbcHKsY216H3cCdrHNiKjWCj
+    widthPx: 3120
+    heightPx: 4160
+    authorAttributions:
+      - displayName: Dawnee Sloan
+        uri: https://maps.google.com/maps/contrib/108648063320794507909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXAFQ0OKdW8SHzOoCU3k8CPzIUlhwiIdBDw5_PidbLZiPQ4TvMyRQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDKzJeNggE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKzJeNggE!2e10!4m2!3m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc
+  - name: >-
+      places/ChIJQ06KcDWTNIgR_KOB-hCyPO8/photos/AUy1YQ1EKk3McND-bcr58-k1rbZ4THVe-pkhx3v5nrBcI_PIAtYnpSVrH-8CuE5ybBiEWcKbzcS86cwiBqXKQqq18je5CneUdP1K-W-QlJTTToHaTtoLDP4Pl9f11gRDhU86E8-TVwE8ky8GkG172KmiWvFWEfeXYLO1gU5NSrvAohejTkZIYAjZYt7HSWbY5eRO_HbGGV1EOBxCWk3q4dIBkpztSINzIVSdWyK63qB2J-iQ3RmGT3rhdLmR1y_yfWkhJJUZSaw7AP8WefcIToIgESkZpMedyThVRNRPm47DXFnshjiQJTUF-VxU0BVMSNOSKN55Qq2Zd5pccRuOS19tSBWeE9r_IP8xZh-LfTmOlAtMEMGztJ3ILVRe0n70XO3MN4HkYfVBBN9InrPUNTF0hyQxHKKrgI6AdZ4mzgrQmD2HNw
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Caleb Stevens
+        uri: https://maps.google.com/maps/contrib/108524458169630762100
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJlWja12-tjqtVkaNE2N68AQ9sMyErkapMgigTQeSAmM33xVw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA0YfsYQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA0YfsYQ!2e10!4m2!3m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc
+  - name: >-
+      places/ChIJQ06KcDWTNIgR_KOB-hCyPO8/photos/AUy1YQ36K0SFqKXPt7NQ43qTd37PFz0MshSiqYbM2rNh-g9pVndMTnPyw_muPa7XdG_195IT9v4KuNVRh4ioDRleb0EFBQeh6yDU8C_DEMMwY97MyGtlkcz7U5anGVcEO5yHdj1J7BYiod3k5nMF_5C03bGmY1vItZR6bYsUun-McLXdKj6rU4cI-dhL-THt07TwALSBa88ltmGqBmswWsT0-y0EEKUW9RBi3NYFEhf35-RIKZzaLu8PeN1A8s2UsPl-1Uu4kDfU4Cq8E3sgzr60vQ_D1qVD2_fxZXybYE2_u73Fd0qqtSfa9bqsztepic2RU_Pa3bQKVafcbOGeJg-hZNgnBGOCbF09eAAucGFrU1DLOO1sRq2x69WSTZZdss5C81F42FPquj-swck17CS8tKddH7JKkcd-Mk7640ladO2SiQ
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Caleb Stevens
+        uri: https://maps.google.com/maps/contrib/108524458169630762100
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJlWja12-tjqtVkaNE2N68AQ9sMyErkapMgigTQeSAmM33xVw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA0YfsEQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA0YfsEQ!2e10!4m2!3m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc
+  - name: >-
+      places/ChIJQ06KcDWTNIgR_KOB-hCyPO8/photos/AUy1YQ0RkqhxFE7dcY2ZlLHt50u8Ul-lCBn787pRd4HThp3NMYiiHX1UziMyueVIG5R7qsWmiXxtMbMgVO_n8Oi00LCEHO1qB0hX9oNLvh0cZW6k4a4VqanT5bm61q1toK3NwxoXxN7btBwjZ4m0aeWSVyPoF_InLMLrQXEfan51YDQBkUc2oPAAFe6IkpAsvUIQFmOKEeFhsEBHOWUboeB2f9ArGm-DrHEaCGQiUHkp-cNxG9DqBDPR9hxaRCoY1aCJYOsy1NSssEesVJOrHedI8HHzIaIqjlo9Yp90uIsBz_jscV7VNogaQ-ieHUNcxLI2__ru6JhYcoD7D4B5spedQROD_9fI49pENCnupO1Em8fobIKHv8h5aHsA2VUCQ3UyzevQHkkqhoZmjY6rknFPvFhEsPepX_rUAere3efraPMZHsg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Fjona Tabaku
+        uri: https://maps.google.com/maps/contrib/110312334637736889993
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWsze82QVRdauR6ZM3xobHeuunsXxkv35DbymzwF8wizfNkWg67HQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ45zQhQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ45zQhQE!2e10!4m2!3m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc
+  - name: >-
+      places/ChIJQ06KcDWTNIgR_KOB-hCyPO8/photos/AUy1YQ3BloxLkJAqbT5yCV0RMcwxwrRI2Y_AvpZEeufG6cL-R83UUwuiIR6AoEFzCVIfYneFZ0VHWLhpnq67cw3SrXogQdlYSn0fXD_ZMePuXoVsZNLwvQJRsg4XSF7TSUt5X7P7PC5fHmkTJkgildBI4qKeYYth_XZEBrTgxpUL3Gla_x4BH_4ESZ1MP8jpXtzsluX0_7DQ7EXz-pLA2lltB-1V8xqEatgilgYKGVusOmxVm5s5XQhV5J_BZsUA75i6BmatX2mZLLR0kxfE46Kq6bOL87494JlR5-synsA3eFDQpILWhUYNFj91fme3rFyAqlUDd9KCXK-mDz6UZwje7ckHwuquUrrGy9v0Z5XTX29y2pjAKjw6RJD5nRo1hLjvi4OqGAxsiLHX_PC1hF1eQWaAGvINd_PNTwWScalPyGOONQ
+    widthPx: 3072
+    heightPx: 4096
+    authorAttributions:
+      - displayName: The Fly High Zone
+        uri: https://maps.google.com/maps/contrib/109117154734760569261
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU4YBwhuVyfGzmxhVefp8FQu62dnsCPz3qmL0JOvLuPe79I2W4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ-fLfPg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ-fLfPg!2e10!4m2!3m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc
+  - name: >-
+      places/ChIJQ06KcDWTNIgR_KOB-hCyPO8/photos/AUy1YQ2SbZYo8PnqCJHoS1QswbIgoysoMocM-ZITM-bx9nveBj9uSM846SKnc9x1k3RwQQJnDoxLLoCn_aYgbkHYRHQLkeLIo0qdFhTMjB7ZRLIAEsuhYG95_4V7FU8cZmhPSq8jLaxFsvAJJTVNb9sux6GeKHf5rnZqAUIRdnRrRiNk04aelhHS3CeXJLAfuoJaO_Wsw9ktue5E4QBq6jAqgK5Gi_df3XPPg2hM5juhwz0-SQHXxBaqqB38WYKEsj819iF86z4cx99usFXIYcyvbuXt_QgSwTPZgVJ9b_CyohEPKDu5yMYXQKUEckuZy6wyfEfMGyVjjZIgqD7u6U7oc-E_GQR4S2SOFUI1VQYUdBTxUwho6hpxTJSuLl_b4tRV5NKCxjHxTs_oVmksj9CiQJf2lU0ba3RC5UzlnbpkgUf8a8E8
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: ET Wang
+        uri: https://maps.google.com/maps/contrib/113416121403014662951
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVO3O-ENtAc-m9dCSqvVeDRi4E1l35iLukNZRFKKnlocTld4M1y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZtcqVzgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZtcqVzgE!2e10!4m2!3m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc
+address: 983 Freeport Rd, Pittsburgh, PA 15238, USA
+street: 983 Freeport Rd
+city: Pittsburgh
+state: PA
+zip: '15238'
+country: USA
+neighborhood: Lincoln-Lemington-Belmar
+latitude: '40.488056'
+longitude: '-79.886944'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Ichiban Hibachi & Sushi Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88349335708a4e43:0xef3cb210fa81a3fc!3e0
+  placeUri: https://maps.google.com/?cid=17238849259659437052
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88349335708a4e43:0xef3cb210fa81a3fc!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88349335708a4e43:0xef3cb210fa81a3fc!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88349335708a4e43:0xef3cb210fa81a3fc!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Ichiban-Hibachi-and-Sushi-Bar
+
+---

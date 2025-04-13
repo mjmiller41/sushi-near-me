@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Tokyo Sushi"
+permalink: /minnesota/brooklyn-park/tokyo-sushi.html
+stateAbbr: MN
+stateName: Minnesota
+cityName: Brooklyn Park
+place_id: ChIJf5FvMio6s1IRKosfsKj7Huw
+photos:
+  - name: >-
+      places/ChIJf5FvMio6s1IRKosfsKj7Huw/photos/AeeoHcI2ue-h3pGtB64NLMglWxlu_hvM0fpZTVDZ1QshQ3iqp4-Gsbl9LM6FtAxV0UFD7huHduZnliqLMTpThsFxexho3XqzG5WjBxWDDs7lYEFNfU-57hl78b_vASwMnp6hofjy_ov_NGMepdskrx65fP0OTsJPkdYNBFcNRqVDSeSJUTksR4hZDWK__B0TBN_DaCkdYNTjWvbciW9H9t7CxddL6Z7fPuZBLc1r-JRWAAZPr1L4KHVFeb3-wnYw06u0ZSem_DM8pxv8pygKCGbJNtox7lGtsYpdK6GdBNJiMbtp-y58yCVR-jhzG7MJewF0orhVmYz6WyL26yrnSEA3C9_9tk7JZT0_WkGRzojbcn0YzVd73fxTukC_jiyuSR2BuCQulJpEj7k8wA0_0XLlbvZKThXvDT36PPxJQH6ma-bvMi9V
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Loren Wheeler
+        uri: https://maps.google.com/maps/contrib/115885543003895646182
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIHTLSZwU0lr-Xc2xdIoZnIekQ4xfBwy6BKF7gQ26VDMt2DLwQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDUm6DUqQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUm6DUqQE!2e10!4m2!3m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a
+  - name: >-
+      places/ChIJf5FvMio6s1IRKosfsKj7Huw/photos/AeeoHcI6OoUe2hypbntvhaSDTIKWZe_3cHKqoz1T9-_ahkR4vNWzeMoepIhUzUlc0wLUHLOyRl6s21CK7fUW91bbbuGPqgwqYPMfJ00OlUbzskUn1Br9UdkuG1NgpcQWuM-JQYWi43a6a4eKDRU82nb5hHlulP_loQL9yU7-b2V50-3_eKUFCjbPear90oKT36aK4klRShTIWGW4Zq9Yih1ZOc10da_RnsagHQRuN9sztMN2l069FpfRiX7tRKKTx67Yu2j8amToOsLHeRsfxCCrwMwZrvgKjguOyMVSMEEQB0P6gsbtoYfvvkfvXCy1zJm_nCxenAmiE0me_9q3x38uqsrfDA_PIxZXvWJ5R5OJK0ZcvAOba6g5YXW4OZ8lh--9AZ_Y45PRe8TjWrocQM83pf-pp5UkMAIyf6P-Fjep4RadgIyH
+    widthPx: 1800
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Steve Ferrell
+        uri: https://maps.google.com/maps/contrib/115126750034393083560
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX3J8LHK4qQfl8AvonP2KZMckBPjx761MlLPgD-6Kd4YtSYZvA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDO7br0lAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO7br0lAE!2e10!4m2!3m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a
+  - name: >-
+      places/ChIJf5FvMio6s1IRKosfsKj7Huw/photos/AeeoHcLHtlFW88zFrCzKz1WUTl6d1-ykJSTmok78rAR1sTyCkeHOz1FUQFMkfrktf9TQaYKYoeB1ijl1Iq6Cw7tZSDh53EngwNMUTefOrkc97sCo2e-QusWrbKfTDYXgkTcQF27Yqr9T1VtOXi5AHTMcqM7Qu0-vTTHBNMllmjgi2puTIlswhreh5sbYiO2H_vQDqjD5dPJoyZimyPXGwLUSH09WyYWZEqGIRFtKYpQbnx2TQx9NRSNkvji80yeEmk-H3_v8-AlvK6jl1rYUcZVxk3AwlFOMSl4T5BYyb8Tj9Yj6OVt7gBgj_O6WjNbCtXuxZsG9y9gzNpEeoEs0bpIwBiTfvNPiZr90HXkRFQ_sS2HAANk9PCwGtprfTqrSs7Ty2FJzjD8V8tPEjrM-c2joZcnhCOWllvre_BwTrHNSmOM5xQ
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Logan Butler
+        uri: https://maps.google.com/maps/contrib/107471928621065754529
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIHyp9wa0gON32QoXn66TvZYQoiU94FWA8tRPMj5yhfO5Clsg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOxqjRdA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOxqjRdA!2e10!4m2!3m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a
+  - name: >-
+      places/ChIJf5FvMio6s1IRKosfsKj7Huw/photos/AeeoHcK36vG7KVSxgGFhWrhdt7RTDVqgKBo6LifNcqHk0ClF03f07i9D35EmEJ7lNsD5lrmiQsnpg69RXZA_dPciwYuYwMlW2A-jVKSqh9yNUYq8gvbZTAxN4ZJUyIHbD82RjJLBeKMyN04lChryJAbYcpXeFvnHtMN6-8l3nlfyL4-IYoXGry4uPFGqjlddedgksG0HAWLcsTcuB3hGwW0lqnOCNjeJQOmNyojvYg6Wtl9DaRSCb3BDqL6ntcwf9-lZ0Lu0sdYDP1BXpHM2tag5tY472xiFWPPVBB-pMazYCnvF5KnDTRNN6t1kqCimKd27QGLt57at01SpXYBhniPFWSGjJ4VArymyZ5L74UzhtrmX2kmS7M5hsKPW4un6Np0JU8IsltBRCxpe5LHwrqNhvh-f2VfkoF9sDcdTBuNa3Tw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Richie Rivera
+        uri: https://maps.google.com/maps/contrib/106294791686805407084
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI-mni-ZTpSl6m3a7vfYk32V_83sSI9rbI1dmPMhUQwEYO4_LU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfvsmVBA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfvsmVBA!2e10!4m2!3m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a
+  - name: >-
+      places/ChIJf5FvMio6s1IRKosfsKj7Huw/photos/AeeoHcK7x1XITuIeZ9uEvJrNwNVzLAyQhNYIvVydfj9l5Fxv8TkOgD1GPBxfU1FbsyVW8Jjqs2yiCqma4iYRYFaitgA_Mporj27TUu5122TdOOZYxAv_NBdIgg0D69E3UPP0YbSEaSeA1c7go-57em4PTviVHWMC6MSFBdAYPubslo3xOIa6J98XgJPnTUoGlDezR598lrGCT-V4Dd3CqXHOjg3De2A1tj-cwoN_MQ2wmz7Ifpc3wZGYap8_di4Ca1ouOzkG976QcedR_E3c5SJR0t2THJ0t4oyh2uOhFO8Mq89k9uVkucY_OL12pV0fyBkwzZ5avaZCk4uRx6XQ0-4aFotxspcQYLBjrvIomoDgibGyEeOpTjSGDJQ0CsUXTPL1Ja-lw-B2bcqOl4VTLxZQEH158S95-PZTHWdnKx5_AF_FaIj-
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Richie Rivera
+        uri: https://maps.google.com/maps/contrib/106294791686805407084
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI-mni-ZTpSl6m3a7vfYk32V_83sSI9rbI1dmPMhUQwEYO4_LU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICv8r-e_wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv8r-e_wE!2e10!4m2!3m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a
+  - name: >-
+      places/ChIJf5FvMio6s1IRKosfsKj7Huw/photos/AeeoHcKsZ1xd8mDZHHR6fiW2MRs2JcOKc-uPxQEbJHDG8Jff7kiAohsIx-u5Ip_p5jIjnc4M5-jx3v7CpwJ9OvYksx5KSa0U2Ns9pZS1gYaxuSFSDHK0EOwb9NCWqx42fvs5kbAMzoET_lp4AwZnjLYXUNJOhuPQS3_EMbIdp0CmFGBIKtXhEiA4MSvXSHFK37uav5B2BAXcd7tAvdGxNWX2j-HPUxGr8q0TLPyKBr8IBykPV5DoCAUsc2_9EZxGcRos4o3xU-U3D4vaVspfS610oY2wYaSKUq2NcyBKVSMQ1zviaegZKsU8zIgmDHPNaqnNOOo66aGXohJr4W3wIb9b5A2LKV4iOAkdhP-IyPOx6I0dsAkPmMLZyrE7uE8iA2QfUoYASNKiBCStPp3BrbNRv7aHJlSTXJQ6YEbZnvCnDGM
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Kc Huynh
+        uri: https://maps.google.com/maps/contrib/116024754151503403810
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJLtQRFwDOzgCbGvEStRZw9E3_YQP-t9Wlz-9m3MYhz5xAxiDE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDW9YWZGw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW9YWZGw!2e10!4m2!3m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a
+  - name: >-
+      places/ChIJf5FvMio6s1IRKosfsKj7Huw/photos/AeeoHcJ8vTxNTivr2yyApKweFnos3LAgMziBHCaMAg9AVP3YqVnS34S7WLD4yreW41yCuBaqGz9vJvrSwiefzmRmJu9Uf-hrb95BeB2VxdSv1b3Ww0ySdDjLBaTQKCATx2dILxl-kph5E1UuZiVgW9i6RS1jUtBkjaJUT07XUjcxR5vijwGidkn-qPhKIH_STzRKFCtiJoOY5U_yaw2zQxoDRte7gXCrvXzZckvMqkBVtO1vyKCxN7RuJx08zujXesfJgAsr6AFaYzPZzmVaw9-BFaC31ytOtbg2Iw4BFND2nwqald_x2i6yBZYrV9AUboAomhbVYRrHHV6azj3JX3WFmljOIEXMeN4MOLXKfaRomQycqnBfmbT3NOOTBFGHbO9vn8h1ixmN_dlUkVoh-wA7zgr5pTDIjwSO2vLkm2E6g1fPyQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Richie Rivera
+        uri: https://maps.google.com/maps/contrib/106294791686805407084
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI-mni-ZTpSl6m3a7vfYk32V_83sSI9rbI1dmPMhUQwEYO4_LU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfvsmVWA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfvsmVWA!2e10!4m2!3m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a
+  - name: >-
+      places/ChIJf5FvMio6s1IRKosfsKj7Huw/photos/AeeoHcIBuKTXJ78vG5ozeOP8K2G-P1jnJXwoTCcLgp47Gu-BXtaLxx_HqyyaH696vLtX_8QvrXlCqRJId0Qzka9SmDVppRvKyXH3uCC5iy5m8SZxfXJUpEsyLVQXSuTvfm8Ns1l1evwFlVIJnmxAutx1D-AKoXy9_wMcPu1C2-a-jBb87JOF9oLW7oNPqBU_nz-0GV6Z4JgzmEOYWSvrufDire4MyioLA-EoaTG-Ucpr3wRmVWlsShghcTAGxSRcrOf8yc2qSi0z9HTne-1Tc2TfD2owjd1wl9J8aaXKlodXM52wzyaXIPDXk0SxG6_erACerWRCGIupYPa0iffSmUXERSM9-uZ_ihBZoWJGWREMu4fzo_Ky07wsV3rTlIzXwtUWFy4TrRD0cJbjcm9PPlX-2sisywyrau1AXywd8wmH9kzxFw
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: JAV0 URIBE
+        uri: https://maps.google.com/maps/contrib/101890014081180232467
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-lmqnRsSIRgh2go6MwTm9_Z3mS_CbfZdSeLcahryS26E7b_nv9w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH9OD1VQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH9OD1VQ!2e10!4m2!3m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a
+  - name: >-
+      places/ChIJf5FvMio6s1IRKosfsKj7Huw/photos/AeeoHcJXCheF77DMiG_6CSQfQcIAvayB-o6uzlw2jqh0RyNZZbSOkd6hV3J9StAZbWC3D_7R4b0Z6zD5oFHwme3yCzx9YD_pEWU5LHzKUgXBj_7t0Lo8zuP44-m8yEwuPcka5PbMTVHaNofQfJQBxjJzg9vtnPZ0tIo_-WIfDqpzOOtqhnAWxbWCJ25S-t9L6vDGbXcQ6n88mnl5_ZiYpV0vymAPiLg_gKjkmEaJbB2N4yutBwLRBiD8UR9byd0tf1dquIDxY2fAL07cRvue0rw9HgBUeuFKJHNqqEUcdA3qnzJSuA_77XTgfe3JoxxR-LIUqpVqrsHp11dUzkecO_TDTKGWu9YTwYRtMX3nXBtmZzC28xbJExUZ7s4BCqHRG0yDALtLIgcISaNIGlOl5L4EAfTf_nUj11nnTKy_yaT47zjg6Q
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Richie Rivera
+        uri: https://maps.google.com/maps/contrib/106294791686805407084
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI-mni-ZTpSl6m3a7vfYk32V_83sSI9rbI1dmPMhUQwEYO4_LU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfvsmVeA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfvsmVeA!2e10!4m2!3m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a
+  - name: >-
+      places/ChIJf5FvMio6s1IRKosfsKj7Huw/photos/AeeoHcKFzD1VMFiySWFu3WnhMBNCZmHAfBelPIInmrgSKNXG71K5t-z4IubhvAnMLA1Ku1OWkTIfd3REv2p1_dUQ0rTzQ9AdhV8vGXuruhXpB0yoO27soD63ryM2d2iliQNIyKl6rDJzD5_gXV5h3B_6syR0aNUnpkT373M6Dff4GO3SXwxOTXhbnHE7Sv6_0CkcMFRc5eUJ2bwTr57KJ-PKFPo12yL_P6svYdvjLSFcS7DxvXHdBRT5luafuOjNANg71Xf_jWFCN584TN0wAwRrM2fHRMkjluMvTDTaB5Gts5yeiO9dNWgcodzLeuHwkhiMHu2ORbRztRT3U1VW8qRPtCxa4uQCBNErSJFXWxUEFGtI1J69kIcdOf--_FReFnROUOtn3zGXEF9mejtBpf271r_ka3AuO0zmIJzXhrp_d8I
+    widthPx: 2945
+    heightPx: 3469
+    authorAttributions:
+      - displayName: Sasha DeMarre
+        uri: https://maps.google.com/maps/contrib/100742672286601369615
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWli9aVsfKApzpwRE6zUoOA_jxfXeTHc4lcBAb3yvHtiA_Ri93f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICq1orcbQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICq1orcbQ!2e10!4m2!3m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a
+address: 9750 Schreiber Terrace, Brooklyn Park, MN 55445, USA
+street: 9750 Schreiber Terrace
+city: Brooklyn Park
+state: MN
+zip: '55445'
+country: USA
+neighborhood: null
+latitude: '45.133609'
+longitude: '-93.357887'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Tokyo Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a!3e0
+  placeUri: https://maps.google.com/?cid=17014313144180247338
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Tokyo-Sushi
+
+---

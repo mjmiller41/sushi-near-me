@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Hissho Sushi"
+permalink: /minnesota/st-paul/hissho-sushi.html
+stateAbbr: MN
+stateName: Minnesota
+cityName: St Paul
+place_id: ChIJazbnaiwp9ocRScEUUuXkQB4
+photos:
+  - name: >-
+      places/ChIJazbnaiwp9ocRScEUUuXkQB4/photos/AUy1YQ3NKksjGLoJ5-AG9tgC0TAShFR2vFZH5JY7f9j6cO9oQsjm1yZmB4Qt8sbgWZ0bO5qPCUpb8l_L4NUU6q1sieHleq6tYsrZIh80TOFiNsOztMJd6qDxMy8qQfXzmy8mr04L6Yiu-QaYgkmLFMklky99jZf2NLdh5gYZRRxJZOZ77f-UDMzGX3CLp_zKOIg51qtoli7LTycLAujl8fbzoHXQDDqnVCPHZvwcBZkHmo4bT4VAdsVNb--l7kDm52u-5plELwsL_mpur8GQGQfQ6aAA6gy1vlIgdXdi9DyFMnBg312u57PomTq9EUaiOWskF9ZXNvu2jXIfMEmdlotqEVzCe94wpt2WxrOSmvVcdOJJH9VWuYDWEMyWbZeRL1U4HiPi7FtN7TABtX_s1h8lvH-u7N4hZjNm-HYrPVJz7G4QnviH
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Matthew Alvarado
+        uri: https://maps.google.com/maps/contrib/100340863208302382713
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXuouUVxrJF98kYT7IZmqEcusuURocqtPKwcLXHprPo0GbyTbvEWg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzu8mZ6QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzu8mZ6QE!2e10!4m2!3m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149
+  - name: >-
+      places/ChIJazbnaiwp9ocRScEUUuXkQB4/photos/AUy1YQ1ygF6orY0YKS5DuwE16nc3xFDI9tJTKh4YM1RjQQeHHxN2_2YWyGb4-LwZPswkW52wQ_IdVDWSrefJgWSuyiwE5NBF1HGi1QTQcyGksoySWktAUGsxAsCywtetRvguu0XURJVnpu1u2C6YKSWRIf__y5HiLYmBvICILqrT7mlrlJoR0V9ec33lc7fVGThnam9QVSbqb-bvL2d_WF3g-anJtMZWVA4JEHqz3gQpHnNtV2HGFWcMlnhNnq2PXUuAEIOcab0-_YZUtcWc5jNm8O8nayz0nNRybatmWr-CBvHyd6cnvFkP3LpQDmvWz8hai_PbU_j89c4ilNKJrl1k2FldzzIyyjlyoDbHIpBHDuzRLl95LzwqI8n95Jc0764q8rFZO4k9U7lmeEm5cCyRFJXuoWVTjEpcmTFwYguRalqE890
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Geoff Booth
+        uri: https://maps.google.com/maps/contrib/110181463637155747542
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXY_CkVRvZqihYyE-qKSBAvliT2T1h34gisRVM0PLRoNtx08vvB=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXvI6kpwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXvI6kpwE!2e10!4m2!3m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149
+  - name: >-
+      places/ChIJazbnaiwp9ocRScEUUuXkQB4/photos/AUy1YQ2exCpf7ZSNhR_dsmRcuQLWbkPVfuxd2_LzQowbMARtR9fkCR8W_tibJQuD1n_aFaixfG-19_dnN8Cpakd7lxuwDTS_H8_6qNtOrdJyQgnixdFYi1Z-SKDiuTzeCQF0lRVuEKKcvkKQja1YKhjopioOox_sk15AJqqvooLXajFWhBU20r5BrLa0cU_F1KNWwFpMFE-svjBnPHyCzaYRQt3zhpCauSGj8Hv8aEzcFtunEPl686UA7pcP7SISywyXtWcSJg6laJiXjrXpmWIuVFNtAUhIK_hqyUnQsGZT0M7KaJANPVDgPbqt-BgL2maVhiNCwQdlNzDDMoKMTP4yd6MBFJK-06zGokTkTCqXorXU6zHedlBlu8YN-yd7FNAZ3CQTPgacmNcdqEZlc8DUEovQt1JgN9MX6SOG6mdVZYzPuw8
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Winnie Tsay
+        uri: https://maps.google.com/maps/contrib/110820735970740610560
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVGkiu-2tqkicMJG5oCqX3djE3uprtvxmXZbT-3efy8U4rATW4VBA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj57PQpwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj57PQpwE!2e10!4m2!3m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149
+  - name: >-
+      places/ChIJazbnaiwp9ocRScEUUuXkQB4/photos/AUy1YQ2kKDPVb8Nv1FLBF2-SsZ-jbUm3KXhi86emXal0RS3XjvaMmXKxLoow4Zq4aw2dkreQu311iQcgglPhUT_XTL1CpTX_cAxdd8Azhkk0UFRCLAED2EdKohUE_eCZvtQSgZu6JmrMVI0GizjTXIKCPk7QFsIRNf3cepmjr-qokTz8BMcTP5kp_AEd-E05LpJShqR6gMR8XEyZp3aTkmRXMcFzvDQww5TtCGLbiLQZRavrEMq-_hXeUDtZSjWItJ-rhfiyhgvhbHMvEXJw5frQHsnyArg4EIeM96up6LqHXtFGm5vJ1hegxsWgYdvryChbMtTTXdkaiFPvEOarMANLbgs641yRhQAuGFlN2TCVyDCG2gsvYAsWWwTxR0_fTYeWVV1EjSZoBiwbC-Ml22bFR6g_8cr4atFwYMh1p-s6CjoE3-PW
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Matthew Alvarado
+        uri: https://maps.google.com/maps/contrib/100340863208302382713
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXuouUVxrJF98kYT7IZmqEcusuURocqtPKwcLXHprPo0GbyTbvEWg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzu8mZuQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzu8mZuQE!2e10!4m2!3m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149
+  - name: >-
+      places/ChIJazbnaiwp9ocRScEUUuXkQB4/photos/AUy1YQ3TKB5olo0BfDsrrVmAc2FpNmCVvOcpWkoB3BSXYd4xAtXyynMyHLJoBgubZu83SM5evyCOOX0C2x8EWQzzaO22qBCV6KZzCBrk9fvIDkR6l2Ckhx7VPLyBa09bAO90Mgx-RbFBv6vp_vpfRWoOwBbvbNLPX_jh0OGMLSho5qe0HuJRXt4cdKs5Fin7vdqJ0E_Mo2C6aqb2bdaogqsP2lor7KlZTpGFjwBveHUs2pgrYQpB1s16Entwc9KNNJfF727zKBA5u16cFwCD3X7myLDt9LzGxuAqyuuPZRSIufa4hQAa0WM-F4XGuWDxZFcX1CxpFhfOQPVIbgDTErk27gDrUqT83MIyFlt0ssv920vaW0cxlPrF1w8n3mx3SA8nKbM1rUSx7SaMz0RjUGyirv_lBmsDTUD7FpEOuTR3f3cjBEk
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Winnie Tsay
+        uri: https://maps.google.com/maps/contrib/110820735970740610560
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVGkiu-2tqkicMJG5oCqX3djE3uprtvxmXZbT-3efy8U4rATW4VBA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj59P_zgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj59P_zgE!2e10!4m2!3m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149
+  - name: >-
+      places/ChIJazbnaiwp9ocRScEUUuXkQB4/photos/AUy1YQ2TJGuSF-iDTGFDxAgBhJb64GlME5ryxFMOAS0hRq4Nbec69DoyHY9RhoqOgAJ0RebgpOFYreQTf3GQjXKJKfnR6spS_aiqKMI46GViD0kFMGHGPNt90_qrDF86fVKs8sMRNziwCHKm58R-XMBTWs_KH_BzjsNlo8oGspNaTJs8SB3SZOTERvUG3PwFI4WiSwEeXH2yDyLa_53J-pdOzjuqGZTbE9WjphWPD240Lz5aZ8xEBnY04cVCxQwkl17nOXTStbzv7axv8YtDlUvSSDJhpN3JR65WtUYvbZq031iPTJAD4qhOwfoNQiRs9H4H0zp-DPijQTrVkrF8_HW6bDe2wgyJ79CNuxAERxobjY4xTgkJRViren7VhTpSw6V29b8x9G-pJRsqOLnANP5hVz3d3LRfMtx9s9RxNbdtin10YA0p
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Levi R
+        uri: https://maps.google.com/maps/contrib/112340664038486771372
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-DCDXPtCgF2QCgm1wjemZgM1ByybcjtUozeP2pXstBKycjtpaTA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDl8fTb7gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDl8fTb7gE!2e10!4m2!3m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149
+  - name: >-
+      places/ChIJazbnaiwp9ocRScEUUuXkQB4/photos/AUy1YQ3Cjxz6g9UUhX7bEFsemZlYzW6gE8fF6hDVLeupENmKtszBxG-kRlwrfhj0Da3kOfbMbRhXAJOsaGcbVpZPv0ZpYmEi6Hf0Zi_6BG_PS6cHugk0cvzlnIOgp6HLbT_Xcw8NnMHmgoIIGblW-cMVdSAofpLJAA5hFQcv_q9sdg4VDDBHbzuIb_x5tpCQYZV78nBdBmnZ1hsyU71o5Dv78qHNEQAAmNus-uR1HXHJniLV1jRs9SJen1hNrdHV5xFnYnzLJfBx180zkgYu9aesGQz0I6o-GZs_WIOpm_b1bVPNJjX4zjgOqDHuHoWjX17nGgZRuwdz3u3n1YRNPixlN_j1A_5yQxMJGTw7cTGQDBQeqIwO3myKZ8sWn_WHb_dk9YxJfmkzOBLzHajyMIVUvKK8broeORLyo88MpbUEDPG-lQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Matthew Alvarado
+        uri: https://maps.google.com/maps/contrib/100340863208302382713
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXuouUVxrJF98kYT7IZmqEcusuURocqtPKwcLXHprPo0GbyTbvEWg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzu8mZeQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzu8mZeQ!2e10!4m2!3m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149
+  - name: >-
+      places/ChIJazbnaiwp9ocRScEUUuXkQB4/photos/AUy1YQ1e6vFvg0CsnErZKrtgXJpoEPDOwXsyk8qikPlRdzrHqm4Bg_zWmdTe0WmdD-Dl2knjnzLSl6gUajqrMGH8xgcEQSBR6l-opyoMOFD2yy-mmAA3UNOTGx4SvXWq30_ww1LiQsp1NJVRc2JCLWMidoXmfcyxuGm6q32LVG3url8dtyfQB2Eyqw1l4DqeSLS-pd7pZGhGPS5g09mUXqke-zs49lwdB4WJoiD1q53nKkbl0IHC9QGqvDOs7yPyfu_xN0YOKn1mnySK9hV3hKH_Lqh9-Cj1-sBKzfVqKNusdCnYyKSw9ws_MaFw4WjfnEZ3G_NKGkQROxIgyr3yyD2nSdhOrXGVbn7xFIWXLVWncTiS7-pjqrORurYGvZiSqLVMW8oZLjaDLemW--XED5fFCnmKbg36RDCMbrBBxEwMNqOJVElD
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: britton bowen
+        uri: https://maps.google.com/maps/contrib/110031592639355047827
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU2AH7KDnrMyZWQ8gf7J2D62qrFs_4xZWqUg07E4bvLmVtVPdOk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICN3Z326AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICN3Z326AE!2e10!4m2!3m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149
+  - name: >-
+      places/ChIJazbnaiwp9ocRScEUUuXkQB4/photos/AUy1YQ0vl0BR3vQTQCR3uiFaVNAw_Dqg0RowFRW8Ga7TAVcMExkdH1CbN1uD6J9S2CsfUewOFy-linEdImbXl4keITxeDzwUpuZM7mdeDMcagqVobi6cIxPYFMtAA0FZukXRKliRQhvwggIRNTIn4NxVvn71xWUxQGXDmT1IPT0tk_xBacmw215RZOSGKKOcOFkPSgHizJAKjSpGeoRVjyycmoxim4AeGoTw1npmJfN5vZI_Azgj9bogGMSs7P92oN150JrazOzq-Ezvi1geutgEzXevE4itt3MRwVSxNfXhkdYxOklSUm6IjxK7MGeSvBIGgTQRHsc1LMm4WyxVbmA5yq2ItcSKR2xbBaBc8E590-YS0vyouK4xlNmSHC44OdIbyhBfLhniw-o8_5SGEmF1Pwd0s7mc_fXfRgRQFwCaUBfyMg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Anatoliy Musatov
+        uri: https://maps.google.com/maps/contrib/116016000411422909276
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKjj9rq7d895_njEmP8ta0Linj_P4MTVNfXs5bnevBwdJ3OXw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICl-qvxIw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl-qvxIw!2e10!4m2!3m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149
+  - name: >-
+      places/ChIJazbnaiwp9ocRScEUUuXkQB4/photos/AUy1YQ2cw5vL9euZCA_1CSXEvH-Y1uZPLJGg0jmqTvM3I5onmJRxmQMCrbmdFea2bq8QrzdmmFQzczTJr0F1CBhu5F5l-LX3xccehd8aF3_r-_SGblU_Mipaj3pYMT5d7GS_Ja-gF3TZZbimOVFIcT9dxFGRGze9SXyNi4smC2BqEuEfodReiPIacnuXcpn176_48BXayjJHyS6SKP29RcOlHS2SYDeuRdIvOozCN-nzknOzIqP_t-VBKHWm1yzHIIZJkI6VUN1Uia9hgGY-GwYTUqvwhHUgsJCil_JYqXJYQ7zi8SKtKewWcoUzmmA0RyNnGUgff5YNJCBLGNo_rNLqYKvDlqoXZFrKTdJc3rrp435Tc2ZbdPm9h-POqvkBw7o51LRbkdCkikIpfwOVCPRrKKoIU-FaXc-ts2p9V7AaR26iVHqj
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Matthew Alvarado
+        uri: https://maps.google.com/maps/contrib/100340863208302382713
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXuouUVxrJF98kYT7IZmqEcusuURocqtPKwcLXHprPo0GbyTbvEWg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzu8mZ-QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzu8mZ-QE!2e10!4m2!3m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149
+address: 4300 Glumack Dr, St Paul, MN 55111, USA
+street: 4300 Glumack Dr
+city: St Paul
+state: MN
+zip: '55111'
+country: USA
+neighborhood: null
+latitude: '44.883730'
+longitude: '-93.212012'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Hissho Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x87f6292c6ae7366b:0x1e40e4e55214c149!3e0
+  placeUri: https://maps.google.com/?cid=2179993893223055689
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f6292c6ae7366b:0x1e40e4e55214c149!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x87f6292c6ae7366b:0x1e40e4e55214c149!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f6292c6ae7366b:0x1e40e4e55214c149!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Hissho-Sushi
+
+---

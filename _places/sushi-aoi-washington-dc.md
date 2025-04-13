@@ -33,10 +33,6 @@ city: Washington
 state: DC
 zip: '20005'
 country: USA
-address_html: >-
-  <span class="street-address">1100 New York Ave NW</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20005</span>, <span class="country-name">USA</span>
 neighborhood: Northwest Washington
 latitude: '38.900610'
 longitude: '-77.027639'

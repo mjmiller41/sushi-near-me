@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Oaks"
+permalink: /california/newbury-park/sushi-oaks.html
+stateAbbr: CA
+stateName: California
+cityName: Newbury Park
+place_id: ChIJr9JmIJ4w6IARXDoXvAwewrg
+photos:
+  - name: >-
+      places/ChIJr9JmIJ4w6IARXDoXvAwewrg/photos/AeeoHcLaIaUGjZW2Rw7tDU2MopieTTxSHIvjFSBiII1PDKcU4gP4mqMJTX5IE3W2hnUecjqsRywi6it-q2s0qpQAsZ8lAAUKdIuBE5ACB89yOZEhEmo_afMTFUvlCBQ2bG52R-Lbu0l8lXh1o9P7xm-Th01H6MBZ5A1Xq-FERvWuiuVfpFYj7zH2MfPimrEc34BKa5lIVPXSnkLb-o4f1iP2vwuWVlDjz_f9MMDTBSJABbajo-_nz70EjkLdSUThZ8kCBTjv1dQroKeaGGuPgD-4rIb3TDmu31DD1Ni-3PSntmHBwyrkROt9gjlQwsPNsEvmiUL1gFJYCNH8lM92pfWPvpAVq7drIpwz5IhN7O8x16_6k8ftdGcE0dQBSrsQrvPOp9j62EEuap9VqoHf6CZM4fdwvJ8c5cKnVHposp2I5mR3DpdG
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Harry Schay
+        uri: https://maps.google.com/maps/contrib/117569589178546809168
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLpY4-wJ72lGvIxpnkpwtCyVivhmRLK-vGsAlS7tD7TRvdg1A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr3_6lswE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr3_6lswE!2e10!4m2!3m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c
+  - name: >-
+      places/ChIJr9JmIJ4w6IARXDoXvAwewrg/photos/AeeoHcJp63poCiA4vkqjfKjlmgNLEwL8l55nGCtNwDv7O4c7y4Nv0fV46SkKSQ_nuaNuMpW54fE-0-wQNpx7yP_PMq-x0z1T4ckJo6p-bz06e56tndd4Y182AVfKpXT6FzWgjRhQFWn13Lic3LmA3EvUXNZf7UcgfDUSN08f84TvMTIbMDnFKoHHBy7M3fMchRooLc-yXX3JJUzVLAbwgQIwXAeo-Uvw7IfAJqkFEIIvajQw_JABCP9LgI9j7YdSpdkNaeJ3jqrgO55CDjxdPXEpkJCZpCEnXd2-jF9Pm4Ck8PvIcZcwkyiZ_5GoblX23BDElWGGTv3dc3qrKWgzzTygir6-R2YtXPA0mrQrm0DBB6npY_c-oJbJE4Gd5a4PO86AYGsuudLSvdkdjoZ1fpfpOKzOzJ-7ZhMR0ETsDERjvc6Aa6O2
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Oxana Navrotskaya
+        uri: https://maps.google.com/maps/contrib/112527308499119632700
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUYSZHZClIZVJ2G9BYeV4W4-TsjtD_rbt-Oeg9nb0g9Lh59LqgNAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj6vS45wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj6vS45wE!2e10!4m2!3m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c
+  - name: >-
+      places/ChIJr9JmIJ4w6IARXDoXvAwewrg/photos/AeeoHcIac0TkWbjpAAY8KRBGtXn1Jzx_As5sEbM1U6zhu0-ba9zlIlXO7M_iT7Kti9NG6ZtnbDqvXLIwGwinsNJ7WmRBJso85xkIdsClTdN9Zx7B388-hsP7HFyX0IjZIJEVxxNu4sZtB_EAXSzIgQnL1K8zzf0Uno4MXB3K7rSFHWe3YWKeeoyirP6zOGKlEc8UwWin-yR5KdzahOLnWvUBMMAEkU1PDxf052UW8NYUBaXrTDCWJRgZtZwenFR7ZzXvFt4E9_gwohd4-topSA_u3Lx2wcQDUcG-KAJ9cLSj-CfpI1QZuU2HWS2CxPvcR68CbU6FTuRjzHdcS9dG2qrMrq39AI_8OVgURbdgJAug9mRDToxikCEPLf4iBpNCbEtA66Efo-ixlvH_Rcls9tb3RP88HBY27T8hdX2EmPnRClCjKw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sylvia Rieman
+        uri: https://maps.google.com/maps/contrib/112225938819185553948
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVt4Q8L1IpOD3zUQjGFejkBul8jkOYxaLF1H8171uVX2KbbCqhK=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDs9qvscg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDs9qvscg!2e10!4m2!3m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c
+  - name: >-
+      places/ChIJr9JmIJ4w6IARXDoXvAwewrg/photos/AeeoHcK_LBDlSzBnxAT3WUSRK3opUJhIUEyT7gAfHyEvc37srgHrALgh5l55Ov8sPIXHlhhQTfv02UWB7E2jp4A8KSYuG2LDHoaLoV8ecUHlcDbw9Ac0cJJ3dFF49lnZkx8NjnzesPTHCcXQ9gq5RJDki7Z0rvG_L7JYxqhUNyAM-fFTcaqbckX6cT9M75gtdgH3qLJakyvDF8qH_29TJzGm5-XKC1wGI1Ncbw2GAjfvB6u5Q_-Tb1bpnfNVOCL2u1pzUmqsEHWKF1oo7fz7E_KN1LzZMegLX9u0R0F11wE2llwSAmQYnUCgzvDzQ4vY-liBoFJaWJte8wIJd54zT_JwEzMKmgjgZO2Yf-IFoyNAFofsS62-6_mMa6BMqQVHbe7Aco6-wquImN7C-mTT-gO3m2rmtTTGfuxeJU1LHkYwFCO0yqE
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sylvia Rieman
+        uri: https://maps.google.com/maps/contrib/112225938819185553948
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVt4Q8L1IpOD3zUQjGFejkBul8jkOYxaLF1H8171uVX2KbbCqhK=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID0y6fnxQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0y6fnxQE!2e10!4m2!3m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c
+  - name: >-
+      places/ChIJr9JmIJ4w6IARXDoXvAwewrg/photos/AeeoHcItv7xKtBJREcfgQPMHJs5jpFW_3b6vHWaXR0JQ9inLHJltWjXlMgwAVA7_ORNKoSLbtOJqFbuir2RBqo48-XJ3wGqABt_NRWOBVSLWlP7UzKZxgXuSziexHT7xNYszu2Z3g_AATYzy0DEMlmWzEq5mXi1Yf7IbOYLn20gGEGv9cARYLAtsf0avzYOvk-jPIcRc7y4K_8N3Qcc_HcQQCvXqxkWVaZCVLWrI8eq9Q1yglxHghRtVH1BIY0neBf6D4SApFAnBIOQdseUk2IOhVQuWPgXM6ewn602o08WqygV0V4nCThbwufVjiFKswUGhlt-ybHRXmlIGzD0Ci9989EBNaGgCeZqZRdbha7LSsoYXB5g4ilwdUECQ7Zebu9bA7a8Iiavao6-PZsrfjA14YTYBQOtmDZMNhnDGy2PRzNk
+    widthPx: 4032
+    heightPx: 1908
+    authorAttributions:
+      - displayName: Andres
+        uri: https://maps.google.com/maps/contrib/106690531873764035900
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXmj_A2obdvIhFD8LvWxdOQapil-IW0_9PT-PiJVZgTeicUtFFNWA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICi9MiUEg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi9MiUEg!2e10!4m2!3m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c
+  - name: >-
+      places/ChIJr9JmIJ4w6IARXDoXvAwewrg/photos/AeeoHcIyn5kn9tITIBwpbRqx-pck3rTzKCc6-gw_1ZRGKuWnY-q162ywyMM77xH-Ps9aDMs25Ze0xXJi08tI07ZVI45lqBmaATWzHN4PNEv9zp8rJxDcKjDf-Uo_GTg8qx6aC5Ukvfvy-v2qIrILorw-BDmr-M6HSuDwBhXf85aq1rLK9IBM4zZjX6gSkv2xZz1PnXxAicy7xbGRfm7Nt308YxubxktdAyUmBt3QP56IkaGF1yrpMKFADd9qroKC6_fFvGO61R5JS0hWbVbP_yYbPTPmm1liMHwCrbEbUGClMCqFc1_LQzMvdUPSZhHSDJzbYERDqZlxj91nJLkXOwaujqnEwkuAskxiLB4iYtfk8mfIzrLf5lO6ZLpPwsL7f7p8Dg3DM2K5gSki0sg02OCt2Tl_VZdT69bV2yxqglMz_4a__Q
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Harry Schay
+        uri: https://maps.google.com/maps/contrib/117569589178546809168
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLpY4-wJ72lGvIxpnkpwtCyVivhmRLK-vGsAlS7tD7TRvdg1A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr34HMPQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr34HMPQ!2e10!4m2!3m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c
+  - name: >-
+      places/ChIJr9JmIJ4w6IARXDoXvAwewrg/photos/AeeoHcJd_6VIX4AzjZEA7eDLyvZHd5qNpSuBE05itbfPzhmrzu7pcusXkzJcxNFppmKiTQ_0sP7U1fQRdnrJrXd-N4-xvxioFU5oi7pEinSsdGyxzh-m8Z7JYZdyiCF5LMjqLEy2Ng9doUohCv5Q499EdTd6PqyMFfQ_cgFx9YsBakcjpNU9NZK1L3FfjItD1BEuOqa1yi_XYQhp9oIOyh0KMh1pAsmVz8TAM6dSSNK1DkFeW1Nlw32eWXeWGBAdUZlF_1Spi1Fd5vdc86IWrbH1sx3jXQHyKwu_VUc3-QXcgpMRXd15dmJFPNomjNQgAssaMvvFZvyc8Mh8KgPAT_ixG83kq-AuBU_d2Q3vVanLi7QF-nNoYG0TGOqBFQKB9DaQtd-sHtwx3N3ZxIhGpYl6TzveqKFkIQaESqTsCixRyJr3UTA
+    widthPx: 2560
+    heightPx: 1440
+    authorAttributions:
+      - displayName: Harvey
+        uri: https://maps.google.com/maps/contrib/104379609171471444382
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLkfPdQwR-VETpe5g3_JMSVClBbSVqM71iKw5T7TbFKjUtgbA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC43r7fjwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC43r7fjwE!2e10!4m2!3m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c
+  - name: >-
+      places/ChIJr9JmIJ4w6IARXDoXvAwewrg/photos/AeeoHcLVHt98rDiI8XEbXxuyz9UsxRR2a6XLyfveCurxCGRmiPEpoT_C_nyQe_l9B8u6ViKbdYGg9ZpijwexHVDQgBbKjIAwKvcfC8J0eLtP8CBRNPwwBtj_04X5jYtbHPd1gKIGatPX20YfrKvbvIlhFuSm7vDdBEJlD_PKK8qwvVEkLQ5FZHRwBOSCCbDRZokzdYunGzPIz44Epcl73uv452FxKc1uXf3y5xSst4xX2p8DotPm3Alm1axIq_Ypeh88MT6nWK24ON0LRWgzgvmuBnUpGunKUy_wTSV9k-pLcwxcXvLgFi_5V3AJ-6ZtrEQl_Ip4FmVlf37hnclfDwhPw3lACHHEr_1cYbCvmQCBoa1NuksMe-dJjHQ2xAThT0WLoQswnvdHR-Mx8R2BiA2UVfUo0TCo93rhcbIWXp98Md7xzWs
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sylvia Rieman
+        uri: https://maps.google.com/maps/contrib/112225938819185553948
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVt4Q8L1IpOD3zUQjGFejkBul8jkOYxaLF1H8171uVX2KbbCqhK=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID0y7uYxwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0y7uYxwE!2e10!4m2!3m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c
+  - name: >-
+      places/ChIJr9JmIJ4w6IARXDoXvAwewrg/photos/AeeoHcJ8injXKewWVJ1Qj183FIaAjqEfQoEmtYn_wZmEiNl2RoV_kYSZFf2XvHWd5y1L9rVaUAoKmX-fEs42BhGEQ4cZKT_-K8XoHY5LB2WLG4VR7NUXuC2-7I7R2IuPKISH7wBVo6p2b9Er6WQhJTF9rxMP9wyK8XYlUJQpbqc9o-yoZr6OAEkdnztaECWKd0N0tKf-lhEGjHx9esdQKxGF-74EwN9TC0xfEsWoedS7U831qDLI5cYrcw3_IsGJFQKuopdkid2M25zdOk9JTZ1EQjeO9D9TzWgIvyxbOBIpmkdTolrPA_uaiTTRRdTi-tK3IYJIh1lG22PZww8HhlksPdxA4-nuKBSOniuUun3_1EVGK2Y9rdErczNi4TxwWqrbcuN8uwwkRMmex90jRYl8_6_-4piz8wpSyx5bAxhI_no
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Oxana Navrotskaya
+        uri: https://maps.google.com/maps/contrib/112527308499119632700
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUYSZHZClIZVJ2G9BYeV4W4-TsjtD_rbt-Oeg9nb0g9Lh59LqgNAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj6vS4Zw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj6vS4Zw!2e10!4m2!3m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c
+  - name: >-
+      places/ChIJr9JmIJ4w6IARXDoXvAwewrg/photos/AeeoHcI1L1SzkAGRtNqOzNSr7MMGB1bahcEu5wWux5xXQQkZVCboGoQyrM3vfLM8OaQWiCbZrxd9U4Z-0hQj_UAL3D2Z5ksMy4jg1OmPyMpzooEP5q8wf5uShxd-LMXL0X1Z5P-zbwlE0Y3pwNP2NJ5uBhijf7DUBt4mYbM5MonxirNZMdMM9ezOZYZwKcqZ5e9I1yCNalA3Xtp5OXNl5QBau3KItyzyJFOMWFfgim2HvHRXlednvEHGpbwcFbrmVjXKi2sgl6vmUbB0H7W-VGc2o23BBTL_tCuotOdRteC-cLk4zmF7-jhnOCgmeyTESuKeYZY3TUehVH6sr-lFZpvgAAu_ect0ATZCoC7vkPXCuyDu_yIyBDpYTejKBNyvIBfPfTeYQ5PIwQ8YgJpav8vlHAWWFF2yXvIfk22jtmCoo3I
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Harry Schay
+        uri: https://maps.google.com/maps/contrib/117569589178546809168
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLpY4-wJ72lGvIxpnkpwtCyVivhmRLK-vGsAlS7tD7TRvdg1A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXo6e1GA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXo6e1GA!2e10!4m2!3m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c
+address: 2160 Newbury Rd D, Newbury Park, CA 91320, USA
+street: 2160 Newbury Rd D
+city: Newbury Park
+state: CA
+zip: '91320'
+country: USA
+neighborhood: Newbury Park
+latitude: '34.182026'
+longitude: '-118.924815'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Oaks
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c!3e0
+  placeUri: https://maps.google.com/?cid=13313236488504687196
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e8309e2066d2af:0xb8c21e0cbc173a5c!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Oaks
+
+---

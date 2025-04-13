@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Bulgogi House"
+permalink: /california/monterey/bulgogi-house.html
+stateAbbr: CA
+stateName: California
+cityName: Monterey
+place_id: ChIJ2YKbdiXljYARYCHNJK7NfOY
+photos:
+  - name: >-
+      places/ChIJ2YKbdiXljYARYCHNJK7NfOY/photos/AUy1YQ0ra7yDLqO2lV_fuaLpB-8heCegXONSnXIvdA36GMXIa-Fk46O29Y3q9kv4_KOOapiSCpGKH5Jll9cSTmy2hdc9o1qF6CH2dj1drAlo3FahuMVrU2g7sukt2CD-wpApOi3k3h4AwoYDVL_kIqR7-TNH7Y_87DzrNWJ-9p4Cmsg5zoO5VfB3AGyTa5bplaP3ZNjE9tm9awKV26SngUbTt9siDpaI4V_QrRNy6lb0OqXVcAHbdxXjLtEoV-fnsg7arJmS3l3y7Mev6kqJPm4USPG4RiSrJSGfmGRSAO44Ry7cyIGS6PTYUjPSH8_Qdx6a-ptZ2hMXBkIyIvhPRXvvV3ylG6NRdJJJvt5NjZzH0JP5Dx0XRi4X6p2v6RgJHBtdmwVLxdWZS94MmNwxleNSCUT0xY8t6aY6Gd8sRU68D0mrzrin
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Alex Kim
+        uri: https://maps.google.com/maps/contrib/104251570240608059647
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV99drLBcgNcGtAjFAqttkFGWKh1BmNqPhShWeEw5anajwzHTPgiQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrw47IxQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrw47IxQE!2e10!4m2!3m1!1s0x808de525769b82d9:0xe67ccdae24cd2160
+  - name: >-
+      places/ChIJ2YKbdiXljYARYCHNJK7NfOY/photos/AUy1YQ0e0v-OBrpbOU5tVJjkK2XzJS7UUvIabrT0Ukeadxf-BNi8MIvavCN3L5tRHSY3UaZQDPRmG6pbBr6ETe8m-qhIXT-R5gF-xrYSltvMMrCjwc83IEVYDFStNB4gzh3cn0EEHnX2Am-ZEeSfTR0ch4mFE1i24o1dH99iTbemnOtFJB0jbZp52cm1Z5ZFJr02ZQ767Zoc_zEkh_qngqzR0CbAVu6Y6EEbh4Sjee_LW16jBmDQEuApPmTkm5d-8Sq8z24OZEkq30nGZrkO92vEdEhXT9OFoDyOGUOq2scEHkn4CwTlV1j7r1674VnTidNY0QVmAfFmOJbGz2NILelHmKeVTnp9dFCwbxr20Z489kkqqQ7ajnjf7MWVTJzyo7bjPKmxnSegri9GsaU-CQiWCPuB6iMVcC-e6ViQP037tdHKR3WK
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Haiyi Lin
+        uri: https://maps.google.com/maps/contrib/104178067668311021868
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVgObaApQtorxlvVFp0g4n-nuDAUugEO5B_Kgib9ZHr9Ljh1DqR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDh-rjpqgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh-rjpqgE!2e10!4m2!3m1!1s0x808de525769b82d9:0xe67ccdae24cd2160
+  - name: >-
+      places/ChIJ2YKbdiXljYARYCHNJK7NfOY/photos/AUy1YQ3pWl-jvhgbmx406aWbnoq9kG-BH9yRiFuyRKZf2RPnoniR4kem3yeottbLcJE3i_F4BNI03rtKj-GhuQmIWwarFCcbrQHJlfoBDC08V3LU9FBA8rg9weecvqKfkHNm_lrh0u77NtDW173aLxNUoED9Tcx3ccdReLY0VMQkw6EinaIkyATBvTZ2J7VV5775ydzbRD_OEwndbzC6Ff5FBnAvDCDtg29nEqDtT9Hr4MBbqKnhxrD15_nuGzMWpYQnW6sddgOK1ATKhWmq2zahWYhrdITsQWeRZMeGDljfhGP3yuw-3Ri_Ud-g--vmBO0OB_MFvsT0jDb7p6JToIyoJxbZ-oadcwVTn9K-Au3o_b2JRsjM5iso07h0in4WHtDkEQoTOQ7UGOIxRiX-FguvG78-Zll1H4qdXuuQ6Qyq2dZuN4PS
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Tim Townley
+        uri: https://maps.google.com/maps/contrib/108445398022994382550
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXIT83ZuvpX_KREBfKqEj4TWBiZ9zHLX-uS48IpWOR95pPOvMDU-w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdjI6zlQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdjI6zlQE!2e10!4m2!3m1!1s0x808de525769b82d9:0xe67ccdae24cd2160
+  - name: >-
+      places/ChIJ2YKbdiXljYARYCHNJK7NfOY/photos/AUy1YQ0ywzjHsD11zyEaBbk5PqqKrYhMT9otsWvtNmfCmcVwoOJEbcMaCbUMmegrX9E1I2f_WlDucBZoz-DC9V0lnBNgiaj__Ivh9eoRBRDERBDRLjmNfuBG1cKiuRoHlx-GqoLi_0Qz11YrGAKWKCOFRXX_bNAfJkQApBUrWfxB99COr7hNq6hNqJ59mfC25BHWJVjo5E8MEOLCp5X1afFKas-sX9mySeDAzXijpH0V1i2J9eff3k5gMxjNq-pJdWe_SM01DEYoBp95AqbWeckvctEcq87S1cFvWOpYuzK5YlNme3VrggDzkkCgGwOw10GBXlHgH3mlWOtC0DWEwMZ9MV5fX_EDYhSHIJn6EHkWBLu_YjbeuQElY4QtFC9zL9ctdibRfG9TrlqhgF288vHvssjglg6XDUhkdTda-KojvfX0h0c
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Ryan Luo
+        uri: https://maps.google.com/maps/contrib/115305508485046974402
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWbItAuresjg-elxedUgAs7y3i0MPBL6u09wve0Vf0hjZvWMAxD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf3c2J5gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf3c2J5gE!2e10!4m2!3m1!1s0x808de525769b82d9:0xe67ccdae24cd2160
+  - name: >-
+      places/ChIJ2YKbdiXljYARYCHNJK7NfOY/photos/AUy1YQ0VIU-njkScmh5Ohidkbb0Ny5Bd6L5HAaiuIoXtpnugO60xKpW0uK6nXXVKb6FFfTRs4eDVvuF6cEJbdywDh7hhGM1WclmrVdshMTVWlSgRJ3q_oRKAovNlB6NK_CNFGPM2FnAymUIz0t7XYIUD0WEGT4tyoIeeYrUNEQfoB7N7-CUSLIv6NKRRVCbyeGn33dxp6pLUxbHlaR3j2QRNkW4wPnuKEtrjFKthd1heIPJ3xhi8BjaULI3WWLFZJSxPxf-5qOJd69_f7ec2htDjDsmLaWtk8V7Mn_NUDEBubXDX3Slcof6h4z3Pp2659ML9GvtztS0B-zUh6QQ2JlEYPwSF_9I6iGPHH7D-Y6aXQIkWYPs6kBDTjnqcR5_00Z-Q2R9z5RX8ZnV7EdTyTEFpv15HklbIgYiCag5BW-LMTHN0IQ
+    widthPx: 2208
+    heightPx: 1242
+    authorAttributions:
+      - displayName: Gabrielle Garcia (Gabby)
+        uri: https://maps.google.com/maps/contrib/100198030776060097837
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXwoRnOAsUMFyP4S_C5uX6ywWu2mwTKhoyNYaM_08CLRwRHO_VoBg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRiaCcQw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRiaCcQw!2e10!4m2!3m1!1s0x808de525769b82d9:0xe67ccdae24cd2160
+  - name: >-
+      places/ChIJ2YKbdiXljYARYCHNJK7NfOY/photos/AUy1YQ35pxhfeCueXrhcJWwfGDRi9Aa01a5VONhL7-elO0b01YIIlvIGxX5i_C7FgjNHGhFzEH9cG2ppHvw3oMQiMthspKneAq9QNWIrFIM1Fg_OHq4-ZNqhH7ZibF_DfAA5v1w0Ry76FSGmm_mBXFmhxo3mmIky_41b5EBb0qi3RV1GQCvN2HZ0FvPYvNdnUhvDFVUZ4ieH-F_wBVuckuTvRH2CHVO_nTcmN3vtPMc_g56nQZc5-xboWk7Cr511im4LeltBQgW8Q9y4IWMbu2J0wJZs8PfEoWbmnPOBWtn101d1JDqxwCKUd3gvirb3nrCcpRGf3ROsX1lGK5iVZQcLeBPAurgudxEnx5YK3rRvTTSxoh_TZHVAdU4B6YRHXEyH4Cle9H_n6TncPT8UO88Klp2kDmcVbaT8rMx2MuZ_q28yoUAW
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Tim Townley
+        uri: https://maps.google.com/maps/contrib/108445398022994382550
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXIT83ZuvpX_KREBfKqEj4TWBiZ9zHLX-uS48IpWOR95pPOvMDU-w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdjI6z1QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdjI6z1QE!2e10!4m2!3m1!1s0x808de525769b82d9:0xe67ccdae24cd2160
+  - name: >-
+      places/ChIJ2YKbdiXljYARYCHNJK7NfOY/photos/AUy1YQ2Rkv-msr_lj0QUwvhMcOqdWGAYv0eoxGtNa1uaHJHWjNRg832wyNn5UXRyLN4zGstWHrb-Qd1F0AzMmiMPl0FS4IfIXTslUAIQYAMK-OJ1UdEoAMcO9EKvKvDcrtgJDA-rg8QN6b14cDZ_ZcGVBqjJiAhhMYUZgNKPI2TI4H1UIZSSLmGrw5SEVVaTmCUKqyvl-deA6MkUXFT4L8D8vOM8cEZICsI1sn11CqHpCGuMtLEHuyd0vWVd1F-NnVUvSNlgCVsWpS71y9y0u3Cw-e_jKcQVvFNqMtte2_wDJaol4u_aHTf_0WMXU2sr7eD58HWhe6sGr0-P1hzG6HzLQOt8uH03i6af-VWBArdqHhYpobsBJLBk0098PNwf80eYiPhG1uHcITXRorO_854tm4LgiD1RNJEqDu2RFayaAfz-AA
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Johnson Cheung
+        uri: https://maps.google.com/maps/contrib/109125360135651433062
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU52fT6A6fgf71BNvXZw8b-IyhP8iDsFbPIPSi-r38WAjC-bpcK=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRxruQEg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRxruQEg!2e10!4m2!3m1!1s0x808de525769b82d9:0xe67ccdae24cd2160
+  - name: >-
+      places/ChIJ2YKbdiXljYARYCHNJK7NfOY/photos/AUy1YQ0edtIRpnzliVEZMtbTiSKJMRYkUCOvpU3BTAfsb9Zgzb-No_T3bfPLGTt1aexLed4Z3Q2o7p4u4QhudyKwMvfuIG7ZRs3OICslaUSQiex9gAgSFBRg5_R83jgYPoijJRh4ID67CTqIcod1ZEZOCi9v1sk6HHdZexUvcZkEacBI7zHA1uxTmm-CsyNwRGRhuLR_WZgCAKmiQ_mLSD2KxgkWzrfn6EU7hCYrm6sAZUh0inwveYRBjQo5dvEkGJhvn66xZ393QldQfX4Y70VMF5LKE3RYm75QDVQRnk6AUiMcSH6H6HlXKlFB2kvKoYwXUh89EvioUveuCCB3F7tOSa3qw4pp3wjJNdSeu3eJ6b-5mBNr3IpGkeVOwieUReUaEg29ZeBg1uA5bkn_ciHZffNg-zrJo_xfcYs6uX16L8zQlg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Timothy Rielly
+        uri: https://maps.google.com/maps/contrib/102575912689458969127
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIERUBRVx6vxaF_wheog5Fe04DKBDOALiOOm9fFBpMcMdn_wg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjh6jYAQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjh6jYAQ!2e10!4m2!3m1!1s0x808de525769b82d9:0xe67ccdae24cd2160
+  - name: >-
+      places/ChIJ2YKbdiXljYARYCHNJK7NfOY/photos/AUy1YQ1sW_68_ZbRneO8ddYbVqLuzT28iJVHVqdK_xy6RTBtpWabOtwe-B6eW67FLOBmOsCzdSg9llHp0FIqDzOpxeOqjnjA4YPOQu3-bQMtW0QGl4SCMUVo5tDVbAURB34C3gOpjPj7KARNmQcXaXxkTSet4gQ8czMe5tNjszAwa2idexp7tPKQvnNqd3gpETD0lDnMY_qkrg6FjYypy74mGdDe8TEGcCSWayOMklq73IS8eDF72IJplfFc675T667ZWiR1spnlRVAstB-ZPZc0QyB7Qi7PoB6gKulU98YnpJFd9NcXI4jFA0vmqGhVtWsblcbbzqg7wB4SlyGztnkRUMHQxVW7aC13PV5lWjKoKoYM4NXP4WLZpenUlCjpr7fD3Ixh_D1e99J08ruJiVx1FyxQFSVwpvKnABnJdBNaHbgruQ
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Tim Townley
+        uri: https://maps.google.com/maps/contrib/108445398022994382550
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXIT83ZuvpX_KREBfKqEj4TWBiZ9zHLX-uS48IpWOR95pPOvMDU-w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdjI6zVQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdjI6zVQ!2e10!4m2!3m1!1s0x808de525769b82d9:0xe67ccdae24cd2160
+  - name: >-
+      places/ChIJ2YKbdiXljYARYCHNJK7NfOY/photos/AUy1YQ3GSGqi3wDh52sXWJJYpo4DmT1tOawwqaxNi3nvmrPVVAs5Jt_H_LV4i4bCoH8GCne_o5ViCQtqg6MiET0vTENH8vD1NniY_FYeT2L6r795BBoa-uRehvcxyNKzaj7mFXtvncV8GhTAOSNpB4StpHRM2h_Zc7EcD2RxVJJm9p2i98tJYvmRooZSCpH0I2a7IN5losgccdL8TUO7BpX-Ew0R3VMZVFjEmL-A2l78d4fIi4vDRQdL9kZnMYCwyy83cq-oHqdY1VUixPC36FFz7kIk6zBpouVQLwU-kkhm6CbtD-FFuReOx0ebtLnXjpCsUdTYrg9Mgka4vzFRw1K1isIpRQkEYNkG2e3co4bqaA4K01OWNt2lSF-JpnMl6rIDxjMz-TMlqtP2VSdlEYzDv_Guu493LWO6eVs22EtC2jrykA
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: aphmona
+        uri: https://maps.google.com/maps/contrib/103228584332218381577
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUJ52YRBpYhAMHyUJ3aae6DZv1rw5yVqBYUayz5G5PwOD4sRao=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDV7uWoFg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDV7uWoFg!2e10!4m2!3m1!1s0x808de525769b82d9:0xe67ccdae24cd2160
+address: 413 Alvarado St, Monterey, CA 93940, USA
+street: 413 Alvarado St
+city: Monterey
+state: CA
+zip: '93940'
+country: USA
+neighborhood: null
+latitude: '36.599575'
+longitude: '-121.894242'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Bulgogi House
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808de525769b82d9:0xe67ccdae24cd2160!3e0
+  placeUri: https://maps.google.com/?cid=16608375673660973408
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808de525769b82d9:0xe67ccdae24cd2160!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808de525769b82d9:0xe67ccdae24cd2160!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808de525769b82d9:0xe67ccdae24cd2160!10e5
+primary_type: Korean Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Bulgogi-House
+
+---

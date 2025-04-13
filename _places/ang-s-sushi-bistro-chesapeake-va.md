@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Ang's Sushi Bistro"
+permalink: /virginia/chesapeake/ang-s-sushi-bistro.html
+stateAbbr: VA
+stateName: Virginia
+cityName: Chesapeake
+place_id: ChIJbf2qlIG7uokRETOWRByFRwE
+photos:
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcJsJPGkIv8SKNuu3sr4pcUVw_ezykeWHq5OESKyqCaRi62RnTFEjADYh93hm3cVG_GygatsbSf2_Gh5rb8xqU1e_z9sJCJ7N7EdJ6VPkLb9WX2WjCyW06X-WYWvDzJuNYI1Euu0RXVCsyYXpoAfko0rCi_f7z1CB1PpWQ_WbEBOPobu3NHi03PtzJuRW9_HnBLSZL1llzPsS8QDC_h4K2vY3-iPsthFUH7w0wHgVX5ICxbevOjmouINLDuw7t8NnFFmVn81Z9dDzK08kbufcujISOHMkanWzxdJQ5pnNGpVBA
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Ang's Sushi Bistro
+        uri: https://maps.google.com/maps/contrib/106474208606021174691
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIoxHBEk5PQ4JPkmSVoKuzWb8VwIYiDS2tzySqRAfR8ByqtPg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPqA-aEAyy6IE5brA1npiNEaU7e93oUHsxdB-Uc&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqA-aEAyy6IE5brA1npiNEaU7e93oUHsxdB-Uc!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcJthBYlzGA2E0NMPmwQMIPQFhGcEuJIrVaEK6auX-pIKSwwhtXL79hGa8sUoMRrmYeQc5Qes8uQM0pOuucdiUHysCIRzBoS9RwuhFPwtrrQCi6Fpta8IyNGhXLyJ0uF7uGHEWagfEnUNBlzBRi2VvmpA3MLxXpH1sB_ibX5UtTZ0BY4VoWrt4PhMrOv-VH4wPOHy00SSci5WopxHGT7gmyaXiziXXhax4iwEAVXMnTc0pMwC_DEod11zwRa4h97JCUPUtQytUETqg_vsyHFIirEfD53T7hAsiNz_hm3UXleXQ
+    widthPx: 2000
+    heightPx: 1273
+    authorAttributions:
+      - displayName: Ang's Sushi Bistro
+        uri: https://maps.google.com/maps/contrib/106474208606021174691
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIoxHBEk5PQ4JPkmSVoKuzWb8VwIYiDS2tzySqRAfR8ByqtPg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPuEYIgZO8-1JpIJvga0K66umMN8893vr5IjMIs&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPuEYIgZO8-1JpIJvga0K66umMN8893vr5IjMIs!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcKygfoTl4JdvoqQfcOQd73iKVmjB_4FMNarKpgdqSROoaR6isgiSJnATiRuwlPxNfGwWDUQ_2wGWjuW64hYGu--w1TQqZLHjetxUNLYnAIwhsYZYoBVM1OblZ3iDr4S64K1_z8RNS8Ks2rTr_Z-_xTswtliB_xeLh11bw4fP4xR3xWsJJ-MfHUEZ4Y9-Qo9UfWNp9UxoHiymuaQA0h4CqyHpj0CPetHOwj2UZbiY0708RmOJDGDrG4oBhbGJncTwgqJ9LTifk9lWwAvhy7gY7mOq_sxBuY5Y6JT1FVOCVNYosl8AFr-612_oi5R56MsSgkEMgiN9ETCKZsoExWnmc1Rif4r38KwGaido5kk6jM3EXkWNcIy6auRjiWXeMeKodVuUodhWGNTYKLgCLA3WysS35zYLPWH8lOHLLkcatLyjoQ
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Dionne Evans
+        uri: https://maps.google.com/maps/contrib/114425131910291846491
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXuBNTQFMzzjgaU9Gc7JkhYXEX3F2GTK5SU3vEE_MFz1D3SNlwveA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDvpyj_AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDvpyj_AE!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcJwNTZJyPegFPzBribHG7BVkb7X04bZwWZMb07HPDmMvb0m9Ex5iXWH8W42Vj0i2KMrAEsLq5lEo22qD-CgrLgXiBcEsG9-nK3uboPjlwGVRpx9Fr8y_DMermeOko05m6SUioVSIaDoKnXac7c3y5QYTUm1Yy0TREEAc-KK6eUqIq_PiqR5Ig6gqX0FaWxa6Uggnabd8O7yV8eaLUUPJvhQn0SRHULHLctCYlcIQLTvJOK1hcDC52vgqmS757zX5ZXSdK7DBDptpJ0IXl-Gw_6rdlD9-GwyAEwD2ftqZYbYfaWnqTWHmMSIm8XmbxYN5I6YvIGNsHOONhmwhpmMXyTbB-07WkWGRGwsT0xSh1GQuKhYh70kdAjjYfyfbSjmX1fIruEZv6xEH7g1bedsoyi5Imph7635k8TX7cZzge3e6w
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Karen & Ron Darling
+        uri: https://maps.google.com/maps/contrib/108428016707883889059
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWGTb39C5xGKHAMAh8iFutd7umjZwcOiO02VviBZk0DCerZ9rd-=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDT8Z_FVA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT8Z_FVA!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcJ68yaul9TSwMV_7Izpha-WBoxZn4PivSxUdnDyh8I0zA7LWcSIVAdo07YZy_VegVzIJXRBfsJSS_NwV5EnIQPEYk9mzsCAPXwPS3cx1MpeWk8if9cQuRediE7Gwv6IzLX7glKKLKybLl_VsND_MXcbn1dj5eujGIC14NXxv6vPtF_xASJBEQyJW39kCB-3PLQjBWENofESQEzH_GK8Zf1ykkWhKrwEXD2N7aGyZgmRXqBewePYG5REyakjD9guWEB0WGjx5CgCrBkuCe2NOrXmbwiZdNv2IvROhIq9fIhOgw
+    widthPx: 2000
+    heightPx: 1333
+    authorAttributions:
+      - displayName: Ang's Sushi Bistro
+        uri: https://maps.google.com/maps/contrib/106474208606021174691
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIoxHBEk5PQ4JPkmSVoKuzWb8VwIYiDS2tzySqRAfR8ByqtPg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMN-U6Qzpg0cWmqMPzFXwwXGLIkWUSyIPH95vPY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMN-U6Qzpg0cWmqMPzFXwwXGLIkWUSyIPH95vPY!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcLjX2wwZNSkEW7PHUq0e_v_rBc6gxCZaa1S5Mtu9fwEQ9ScfCjV30nvSODn_-DmPplI7hkaqj-jRozINVb_JMfOqr_lKLkTVTH8Gi58mFDg2QorMg3Fpc2asT35EbyikerJpLwcdvXOpLNftmOhb81MvCVe8P8hhfhGzXotikqnlDfO96lbdUqKDRlyLHmCkxRKKrwoZ2biUuCA-a-L_IfC8duQW62J4FQrFbwx498G2Ev7s6l-D3jRaXgPFtdCFzMnAfYa97LN4lJZ-PR_I4dsfIzxkKf5sUxOo4eGOR3P9nyfwylgwuth4-1vpCQGOmgFaAaipTA0YgKYvRf_AGzHi-SL03SpE3Llu8YyVzrmxKQI2SJ-0NaFEEWTUJn6e7NlhjB_Y02TbQUopBFZ4uPit_GbPhtdVz6Rulu2IG8rhA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Karen & Ron Darling
+        uri: https://maps.google.com/maps/contrib/108428016707883889059
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWGTb39C5xGKHAMAh8iFutd7umjZwcOiO02VviBZk0DCerZ9rd-=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDT3cGuEg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT3cGuEg!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcLVbfma1o1KflvZWV3TIMJhjJxLrX_7vuA-VuHYKaqoDMEmUGQD1WwsweppxZY8o_CD7fwOx5zzMIkhtSZAW_-zvDW62OdjajaHx6SbCq890LDSyiqnJYaCxcwR5ARrmXEnigheRwlHxkW0-bO99IRZwvXfKHMyK9f93_2RW1GMgC-TPL84XeBvWjgAzzhq8FZi-Vu9W_P086BfXqEOSVuPE7sEL0e44oeAaiEkmbvSGHIgt6fst3DGrOidskfljBnmYva7sOfO3CGwMTiE7AR7ftbe0I4VLjsVHOKmZj7RECQ8RIzWWeru3sbhji-gaTck5rDLff1ppGBiiZXrZZwCsNdU_T5srC-VBzB665YY0dSg9F-nZMRCd8a27Z-GXoKG50bcZ8j1i0cVNy7YQtglmVwrWjOR8qCTs9r1uEl0ExU
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Karen & Ron Darling
+        uri: https://maps.google.com/maps/contrib/108428016707883889059
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWGTb39C5xGKHAMAh8iFutd7umjZwcOiO02VviBZk0DCerZ9rd-=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDT8Z_FjAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT8Z_FjAE!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcKQ9j92mmOGfRCZ1Cd2I4gJ28c0Vv_25ocf-hjYNjRJJiiDsoMD8o7BRBalgGfeUhM_5tnetXt27lUaAm5UMofBVEfLWgpaXlF6c9z3SEEYSV7i3KlAGyyo0BcrghfwREFD2_ErTmD3jCe2ZrlxiIFN3z3q5X7CsikKqqUbY_NbgU1cFGl3j0Y5O1xODFnABv0X6jytyA6j9sEQ5U5Zj9G0LrQHHlDDQm06Fqg675Go05aEKmt92flL-ErxzQ8A-SQR1eEMmTZG9fMF4p7uHD1bWrzvGYKpXFltHJ4QOGdb2Q2qk7nCko7gPjDdVFFZlhLvD8haR5SZ5SUdowuD8NSdhsvAggbVuPbQ670K8glv8jeL8rKTCCs40G6ybAatN6ZpVjsQBu2Rh6dFuvdZsf7nLQQL8dauezkzxjgIKCwraw
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Karen & Ron Darling
+        uri: https://maps.google.com/maps/contrib/108428016707883889059
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWGTb39C5xGKHAMAh8iFutd7umjZwcOiO02VviBZk0DCerZ9rd-=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDT8Z_FdA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT8Z_FdA!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcLDTu3fUHv0v9u1QA0zs6VD-p32XUesjr-85zTL8lNzSELm7XunZ8eTMfjAtHiyOx8OMxgfea9SBkHtjhJaBWcLIbjZUMWC9QR2gk1oCY1lVP_MQW6SaD9tnn53wW5nWBxDxQDE5QslyMbKdQTlUSqDivSFiULTOzINGgmOCDIsq-TA1fLFVXzKfw0QTjEUSpC4qkx0o4jr6W4cpICn_pbc4Ltfb3KkoBYykJaQB4CRFGwwCS2u_PQa95GZulN6nQjYmyfRWRGaW--qvBQkpTbUXbGOHnVzoUfY1lCNvgGkZQ
+    widthPx: 2000
+    heightPx: 1614
+    authorAttributions:
+      - displayName: Ang's Sushi Bistro
+        uri: https://maps.google.com/maps/contrib/106474208606021174691
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIoxHBEk5PQ4JPkmSVoKuzWb8VwIYiDS2tzySqRAfR8ByqtPg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOGXbFYeOVaBVity13mVwV3C8lVd_FDmBVxOnoG&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOGXbFYeOVaBVity13mVwV3C8lVd_FDmBVxOnoG!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcI0bQdyC5eJl1VcgFeWZR0R20XXwCKhbUZIj-xc4r93d-1RVVxUFUdsKwSTQ9qK_tnfdtbgq8pNQUR2z1fGvLm8xHPRV-TaudSuZB-66_SAkNNm0Rxssmzo_RvR1AjKE5-JopWgAxitYv1cl03i9G-AgA_Qshimxaj7QOwMn5CD_jeozvGoQ9bqNBGhcR9nWS5dMbfcKYL86Ph-d0OIt50kH1XhT0rZaRgjjEN0uv5M8f-u1uwGgNgs0Rh3Ey15BtFfqagb1dUwEt9HClEnDZaNSn-DI6DfKtMWDc4dHxCKqInrGE4vPyDBIjYNc0QJ9uH-okoe6W-0ebb61DpM53Is7UzZ5sP9LkU9F8zxIuCkVdd3Gh3yVfQzYBiRRjNBnJ4B1LsGuhDjCs8IT-JTac9grNYC4g8pj1oRUuyxfdbLMw
+    widthPx: 3599
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Kara Lam
+        uri: https://maps.google.com/maps/contrib/115400401921671797660
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU5cD1adT3edCICAFjGuYBrDPoegLuG2B9O97nEW8vF6vS2Jdk39Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRpZaSMA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRpZaSMA!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+address: 501 Kempsville Rd, Chesapeake, VA 23320, USA
+street: 501 Kempsville Rd
+city: Chesapeake
+state: VA
+zip: '23320'
+country: USA
+neighborhood: Greenbrier East
+latitude: '36.744359'
+longitude: '-76.223391'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Ang's Sushi Bistro
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89babb8194aafd6d:0x147851c44963311!3e0
+  placeUri: https://maps.google.com/?cid=92188673840657169
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89babb8194aafd6d:0x147851c44963311!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89babb8194aafd6d:0x147851c44963311!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89babb8194aafd6d:0x147851c44963311!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Ang-s-Sushi-Bistro
+
+---

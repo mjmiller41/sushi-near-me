@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Itto Sushi"
+permalink: /utah/midvale/itto-sushi.html
+stateAbbr: UT
+stateName: Utah
+cityName: Midvale
+place_id: ChIJrV_0Ni2IUocRX6CEmvGs6R0
+photos:
+  - name: >-
+      places/ChIJrV_0Ni2IUocRX6CEmvGs6R0/photos/AUy1YQ2GZXGzw9xVG8yRyBD2k16OVUPmGtk7wSrQrBO_IM84XBKs6wLqy1lt3VCR3bmmyqOcIG9OfvG8pTg3LVpZyaZQl6Kd3w8x2kNxzqyJXTGp3gphffWOo6PbH-XKI4k6Jdsv-2hzTyKXAkf_mBWhALBnQ6iUrz7AQ3LrMF8oAQilH8vW7iXlDgz8VMjMbjrq6w2X8UOe0piSspjTrQeHj8_HxRw4gcJBnwj2DOTNanfWaj5ZCreF7zdyBxTIDfAVToFLc15lj1rG_lPdqxYqHFpNWh9f3Jzj7G4zISN6kn2Pug
+    widthPx: 800
+    heightPx: 380
+    authorAttributions:
+      - displayName: Itto Sushi and Omakase
+        uri: https://maps.google.com/maps/contrib/118132085287254406152
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIKWL5SO_PSs7YBKF9yyIG9u6biJsuIoYgTQdP1GJpoJCtDpw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPPCiZTuAux5Lb2F4a982200f8l0KR71BdmLd94&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPPCiZTuAux5Lb2F4a982200f8l0KR71BdmLd94!2e10!4m2!3m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f
+  - name: >-
+      places/ChIJrV_0Ni2IUocRX6CEmvGs6R0/photos/AUy1YQ13wjkZ0vgsE6buPZL5febbR-vaCRUYu0UIGzHR-HEf7oGNvdLGUWP2ePMTBdTMUrEY0VAxYJykzKo-yCtxLs1Ek6rKqyjpLu6KdHOl6D6etNnkwTqOU8hf_VIYsg9qiShtBNckqxdzlZR-KfxsHlR9l2NJJbrk3quxwRUr43QIrSwLk1r9QaDANWK5X3h0n0kskqm1WTDIEPPn_-6rT9MIlJnWflNNrZTuo3-35hYToxMBeU6l1kM3OERilWqQ0oJemAqQMvx_BHnj5db5x16G60-FPt2cWKUqJ8F0qQM6IQ
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: Itto Sushi and Omakase
+        uri: https://maps.google.com/maps/contrib/118132085287254406152
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIKWL5SO_PSs7YBKF9yyIG9u6biJsuIoYgTQdP1GJpoJCtDpw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMGe-P00wEeB7IbeEY120JupB26h0FmOfn4tkAs&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMGe-P00wEeB7IbeEY120JupB26h0FmOfn4tkAs!2e10!4m2!3m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f
+  - name: >-
+      places/ChIJrV_0Ni2IUocRX6CEmvGs6R0/photos/AUy1YQ0l_elDvgbmTUrJf3-BmbmUcQpIfJ2fH8CbnSv8HPJYKOHs2U-kF-vyy8qbYDlyy24AL-InDpfnmczuKEIKErFIdw5E-FuyLbSvYL6nw9Boo2vVb-5csf0Cxd-5AchmP2OtHTkwoezv3b-LfypHnpV13kvJD4oP8ouAiG-9GJ52O-PQGXQ_pGosE-nn8emFvRhBMN705MvJ7DSilK7Zvv0sSDVjJhDgt7eiGWBKfzngSw8FrJ_Pu0SWXxZOXKH0VWiigncpqIH-fc_mge32nkT7OHtPt_VJWwMkICQeb9xGpy10YYMk8fEZkmTHYYeOrsARDK7GfL4I2RROK6yw26t6ciO19yZy2irLRALRajHKnTQ9TbMm59B5RKLaAv21h9gdVhpbL_QZ6H6BsZz_h0TsJTf6PWPYb2lwpiHq8UID1ZVO
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Andy Dong
+        uri: https://maps.google.com/maps/contrib/108613384295112560406
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJFQrDGviFhAvy7Am4e_xtxiNq3iRqyYptzgWCvZfgCfnspJg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI2MzFiAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI2MzFiAE!2e10!4m2!3m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f
+  - name: >-
+      places/ChIJrV_0Ni2IUocRX6CEmvGs6R0/photos/AUy1YQ0S-iO6wFG2w2JiqRD2HTrWpSewoHQkAhKPldU5zcTuO8M8SaRs0QfN2EaNJr7cpZuzLZ3OPzEBcv_49XRUDqPggVCzkDqXwdCNR8XWYTJffH9vfn0jB6ahOpAHReZZ12vwje-1RgBpAzO5H39npsPNjxKGwDbPYm57oL2SSIasLCY7y7hf7b6U8OU6xVh8fFq7CK_nrweoDjFRaqbOS9HrE6NGlanPXU9ipguQFB8XYVcBFFffNG-qP6kNFCgo1wNrIOdOLVrSxpAwqU4N4m5d2CB_EiFXRtO0maGyNnQ6lXQ2g6cEs1CH6GJdayWmGCsTLrvAdW-Y86-jEM-MLPPGJQqL5eV2Qs7n5a-dRMRfUFTfAlE2i-J1rv5pA33-pT4-3lTvn37Xa-ZkhUVAC_AHxljgDyl1-ZF22QogOxk
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ricky Monroe
+        uri: https://maps.google.com/maps/contrib/108975135773975026833
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUzhULYq1NQ3QZqVqEvTxiQqNNOPOcWF3iFzr1qn9NSbYDRiVUmhw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQybHpQg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQybHpQg!2e10!4m2!3m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f
+  - name: >-
+      places/ChIJrV_0Ni2IUocRX6CEmvGs6R0/photos/AUy1YQ0NnIHsMKvSwqnHjW55JVcr00zQL1iNoyAAWEEUOwN3DhrYJrRZmWMAFS4oA0LN2eoVOsPtaA7ROnyn9TlCK6EBYPEjzBuv6PE4fdprjCa1IoTJaEjHh-V5iDAsbSBneXlLkWgmf2kS7OQPwfVFPs-_WhsslfboMgpNtJqkqD1hhavWJFTGRBby4QwxxskpqVD5vSV5R_o0dg3GviZsiop02G5Boq6rkZTMyyv7HTvLqUbCnmps0mchTAruBupl_HJ9k7fvTA9B6NXtkBWP8Od9mmE8by21mK6fQtUnXtHMW7QPYjwWBaTjq-cVbYA86ykoR_ptvxMhtijQCLBkyf567FjWcxQMDhEpvWIYqSZIzQ6dOTl5sdt5DrqZk5jhDr5bsezcAmOkFIDSxE0HlHCj7-QrdyLahzbAAQY74pA
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Ben Stephens
+        uri: https://maps.google.com/maps/contrib/108661648930888870577
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWap3sxqSaRppIyLwr6G2Ba_jeJtTof9y9ioQbLn5tkKJ8pjpCcWQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQn9KDAw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQn9KDAw!2e10!4m2!3m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f
+  - name: >-
+      places/ChIJrV_0Ni2IUocRX6CEmvGs6R0/photos/AUy1YQ0SCnP7AV_mdBl8RRxQkEoNYlPcmuN9uF19Jr6uRMdGNRwsPUQYVhcbaiAscQzk3P63wMG5__afYcuMyFblKWDa63sO4wqjSijzP164KchfyH0_Vy5jP5Ukyv1AqDMCBS34wvPfia1cx6vQ4rWEyIMNFlWOiCGdL6zlJaCHxevfb1rxOurMf41qW6-B2yT_hA8EkVpf9MALFstXZMVQSQr-HwcxrSHCZfcG4cCy89axGplVrT5-_aD-S5yu4dmjBm11BUMJ3xd9f6sNIrkMUnwwRIMXMVhmbYECIAg2DFvpCi7tk58xQkyu1PWMzxhKPfm_fOPCrBUkDWRaprbGrhegxVpAkfTRUTaus-QT61U6Vk7MZSpTYMPBj0BqdRPgLTx7XEaXXJTHZWWXFaYoU_lZK1W_tBPxVwGSJWnFTkIDGw
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: JMB
+        uri: https://maps.google.com/maps/contrib/106412590405040753723
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI3dSGAAxHIfSMnabF0FL-53bQ-geC2ATWPamkydT7woUdfxg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXlfPZJg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXlfPZJg!2e10!4m2!3m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f
+  - name: >-
+      places/ChIJrV_0Ni2IUocRX6CEmvGs6R0/photos/AUy1YQ1LXINciOEUNfBZEz_2ClcgiZAJKGOsskjXNzRfODrraOBBpycHxuxxhYQExQBs_BTDKJL9jjMUKQC7FPcyJIARv-JhXbgg5ghERdbZ0iu-S08TqBKymu4-rto63noEhxlsAbuDfgngOb3W0R7ZTtnT-8MVMdQKFhKlgJVuH-jH-e5RfRag-4osUZScgChVwJnvL_HbP4yOP4fvM_N1jXA1GGNErUJOf5bL687ZW5MjnoZDUiThANWxU-IDmCgDSS3E_-LniRt9pQ226jGYND-l1iBSGDtwB6SlFIHOP-gPf6Op57Qnxlv1EqNvbYPccN1xInH2c_n17wFowSoizTSMjbj9AQbDxUjbCmU4GfEPB8-BKBWbJb5NeF63ZlwccGYUUWwJ7wry-FFquQ2ZFkqNQaCFcBb98LsIKizH9LfZhA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ricky Monroe
+        uri: https://maps.google.com/maps/contrib/108975135773975026833
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUzhULYq1NQ3QZqVqEvTxiQqNNOPOcWF3iFzr1qn9NSbYDRiVUmhw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQyeG2XA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQyeG2XA!2e10!4m2!3m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f
+  - name: >-
+      places/ChIJrV_0Ni2IUocRX6CEmvGs6R0/photos/AUy1YQ02G0x2z8cnm_BwpbLAUNTm1cx0oDoAWHDo5F7inmI3WVj_6GBxC4LzY5_ASgCbQ9WJNhLL1XGRp6G3j-IGM_pH6P-fc-JYGdPZYka2Wc_bV_-SU7b8fb-8sHsHaTyJSYYaIJL6gdrBAkWsmtq7ghBvj9d2akcDr1qwArEFZ7KqIuiS7jjXjSRIp2mi5VnGnVCU8Feeyo4K2hkKgvhAYDY2QGL_SQSFq0whV63-Rr3Enqj8umTVaGlQSVLet18Ib6gPLS6HT3PHDHYmm93NguPpeNO0OOzS2Gj0lM06q8D2f9iO8YhDwaND_GWfIq-mNp4zIohGN-H7Pbh1uMdM81aRCuot3a7yj5PHnMhX68kE6VW7xpOkAZpa46bCwPnM7xytyC1f5nI_D2b3pMY7j4fnNrYKb0ppFYqvXW5uF_N2vda4
+    widthPx: 4800
+    heightPx: 3599
+    authorAttributions:
+      - displayName: Azzy
+        uri: https://maps.google.com/maps/contrib/116654487403994576563
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsuP0tBK9Tp3mjGOvHibNnq8MaT7PDioSOPiUVXliDIUhQSRdZ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICq9NrT9QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICq9NrT9QE!2e10!4m2!3m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f
+  - name: >-
+      places/ChIJrV_0Ni2IUocRX6CEmvGs6R0/photos/AUy1YQ2MLfD1UFfkrj0cIAUu3Z5ehBxdhPIO4tg4J45hsfmG46m7HcUVjJC1MjimZ2UCFpcRl-1qfYhatUig7X6YU7PDAqB9jWLHlwwjOpKXZbEq0RZoK5tPVqsfJ0FsnlVC09OVQ-Y0XDByQndYxQ9J1AZ6KR8YCx_MB1KKocyc6x2zYLd5LoGYz_t-HFDcmdC9aMmUbYepKmPIahKlpF0qnuABfZWp5fAx4jQvIMUTHvkNCBX5nOFUopGo73gvMh7CB3nWm-2FjU6p2NHJUPBLuR1VXoqfqenvmiEbLjSeZOnQiCIVz1xr5MmRSQTL6oSFK5xA2PftU4lDyb27gDfQWKlNkicc8tvnKb-p0F7AD5nfMPB9YGKyM343SlbM-6zqFNdcSwuxj89wsxZr77bKQ0lXEUk-17YUviKKVUU7hZ4
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Stephen Ishihara
+        uri: https://maps.google.com/maps/contrib/109321197146372722774
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUvUZFIGqVnib-TL_UL_qpELaj37uv_9BzztVAtSMhY8MXqYXAr=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZ7-f5Vg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ7-f5Vg!2e10!4m2!3m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f
+  - name: >-
+      places/ChIJrV_0Ni2IUocRX6CEmvGs6R0/photos/AUy1YQ2A_QyG9fVDWlG3QOBQshcKrghKW5ACl6ZEF13SN1ilCUhHFY9FlmodaMAmpoDb-prukxj9fuUA4AM1JmyKcbYAXRKWpgaK_5kIuCW5F1CjF9SrBBFbSYUAEcSjPd5g34okNhbQ5o7jf_HY2KwqwkQ05Qwoqk64RsyPuEgHJrLBDkOGK8GkA1bIr9fKa_oMxo-1pnXPYQyuw2a2AKxqaRxpx4itQlMXLkbswiDlT8DlGis9BbwjU9VORmUuVSPiA4l6RZXBDalqcWXO2oMFnYw9LohKC8rrKQwsZD7AJj7SNRi1XPcrmUxq_FlpKiW60ICrjBFk4_fHQftHtO4pkemfWbWOikn1mVPyjvTaXXzXd09mY3QTj3zL1wNA5GT1WxoExxOWwLS4SEjBKUxiuwdPSPYMa01E_xygfwA6Tjp3xQ
+    widthPx: 3536
+    heightPx: 2571
+    authorAttributions:
+      - displayName: Sunny Hsiao
+        uri: https://maps.google.com/maps/contrib/108187352411128451493
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU23x6ei-28eOI4-eO5GxEh9FWkzTUHbe63a8uqyA0Q-5fOrK5Rtw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDdoNG-Rg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDdoNG-Rg!2e10!4m2!3m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f
+address: 856 Fort Union Blvd, Midvale, UT 84047, USA
+street: 856 Fort Union Blvd
+city: Midvale
+state: UT
+zip: '84047'
+country: USA
+neighborhood: null
+latitude: '40.621664'
+longitude: '-111.867428'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Itto Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8752882d36f45fad:0x1de9acf19a84a05f!3e0
+  placeUri: https://maps.google.com/?cid=2155444050352971871
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752882d36f45fad:0x1de9acf19a84a05f!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8752882d36f45fad:0x1de9acf19a84a05f!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752882d36f45fad:0x1de9acf19a84a05f!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Itto-Sushi
+
+---

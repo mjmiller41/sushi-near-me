@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Kin Thai & Sushi"
+permalink: /texas/san-antonio/kin-thai-sushi.html
+stateAbbr: TX
+stateName: Texas
+cityName: San Antonio
+place_id: ChIJcQ03oAdlXIYRhfGC4fi9xmA
+photos:
+  - name: >-
+      places/ChIJcQ03oAdlXIYRhfGC4fi9xmA/photos/AUy1YQ0DFVquWoDvziDXQivP5fU43st-HalU-7d1A1h70rFw1b6VPYlchyLXzszJNx_E9XMEV9PwAnRzLVjFhAYueBPz44IouGDG4MxuhBppj0s-bmf0ZhH4jvyWtnQX_lCY-S8kTSVWzdt0cLeFr84Lk1vn-i6UDXaL91uRis0P1YELwMqvvgPxL860qiJOnfbUDmKsSTIEGNx8Pf_mT0r6NefyC04R0bjSSfogitXXScBT0BsPow5kxsI7_e897qbr4ukKEWqZEtvrSaylYXDIqmi4Fs8JSY2faPHu8GwwWrtuwohmbWxaZLoQjL9xb91VQBFFDTltD_30HVsVqnBYarTjHvsFyf-BPi55Zm_bbYlaktgwSbxj7uY12myIoroiHx_25lGi80K6hqV-FHpbX2FVYMMXHKiQG0_QXE3DUAh4vcK2
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Matt Rasmussen
+        uri: https://maps.google.com/maps/contrib/105173629135537836440
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW6GwWGUJtCfmGfJ219pLPyQY9Bn4X4k_Ij7HvrRO432ueyAL2Xaw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID6s9ykswE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6s9ykswE!2e10!4m2!3m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185
+  - name: >-
+      places/ChIJcQ03oAdlXIYRhfGC4fi9xmA/photos/AUy1YQ2oloqwFmVCVyAtsoMeLy8fsxX32PAwG4RUx35Zsh0kAAy4nD6Og_6lv5dlyuaH-NgQMu936i1tU9suZCpVunMcDRYunLPPLScA9jE-u01UTGeyizbn8y2PZMlgLi5RAn8wfspH4VM8qE24WgO8tKG3FjNR7UOBL6zGEN5RgZJp9BNB0b_bPHy2JWs7FkWQRB6zIobR3Of4yrw7S1clZquG5GL9WUhuc2XuUJSkijif-NI5gxyz_DjmLdRfYKrBVNvAJmpcCmYYdiT3ZJ6B2Gq_Ym4fOx__yLtaI9qRSPgqLw
+    widthPx: 960
+    heightPx: 960
+    authorAttributions:
+      - displayName: Kin Thai & Sushi
+        uri: https://maps.google.com/maps/contrib/107146749842299312262
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIztUM1rLYyBagfWSiot2WBVsrH5fLwbCMBeJio_uiCQyo6Fg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPnV5nyZfZxXMWnkmkps9MjT_mYDoXNk-8_5iGu&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPnV5nyZfZxXMWnkmkps9MjT_mYDoXNk-8_5iGu!2e10!4m2!3m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185
+  - name: >-
+      places/ChIJcQ03oAdlXIYRhfGC4fi9xmA/photos/AUy1YQ3IHNARcB5d1_7OLw_xqMD3knIlTUILhYf-t06ctMspvb0xk7QmmuTihvrA4OVA3baWfc21Kr96H2aJsL26HWntZGH4gnXASjjclbTwNfV5FsfNZDKJ9J-Ld0frmZP7DytFeR0H8YYnUFfpRyRFrY7PLL1Vjo64ezEFw23VFgmWZkbtMRIS6dTXXbXxf8udVLNSrkrIOUgMU2XoOWRPrldKPbu0H5KN3cRigbIqCQPlGvDesbIoMjM05yz8hE9VoMC78SXBsVQyniI2D6qGqt638TkiDiSW_pnZTjoM6QYZB9A_Z89c-kxP2odcZHNbHn07lsBhxAQ779lbqLLaAFMktChoOtxuBvpGXEgPfHeBng3lbhkthsmX7po0On9nHdkxSGqchzED04ehgPXnZ_aBeoPhk9YV1JA5NPHQNOP31Qyf
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Eric Johnson
+        uri: https://maps.google.com/maps/contrib/102325409891965001150
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUUsDW7BjmY0pxPXNPyCDwXt5o-KlGo9BzCYofHpqECXbgtB7kAnQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe0bjS9AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe0bjS9AE!2e10!4m2!3m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185
+  - name: >-
+      places/ChIJcQ03oAdlXIYRhfGC4fi9xmA/photos/AUy1YQ3OOn7D8R3ltuYYpseQJKGmIMN6attv6zVapp1gMQkpT4_t2M2Ts4EDWYL64WDwSyinFlByWSHbbnvQz_enH42XxKkin5vp_S-uhjKeGK5PXmkrKza7MoMKtoP7sQR7PgCP0OvfiCm9SlA_8up9fbmNsFu7v8oZI9HmyUnVW87OrsfWXUjpOkwhEfyoFULjLd1jBimIJr1yzQgwzmH1LFrGp-t2ef_9fkYZTOHcBdsYTpFf0nDq4fZUg4-FIP1dyYzC2f6_yL1XaRqGMc64KcmlMdhM0WZqIfwAnys2_a49Vxsm5ZvhPcmq0wF5Op31FSDdbYarh6ECzsWPxWNwayvY0DdR9oKqvLOyK8OCtl81puj4j_SXaIOniaX9-qBC8QjdbhXH8l1NJMr9b9_Ms21jP9Usy9tc83PWy7jDJqzB5cdn
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Jason Woods
+        uri: https://maps.google.com/maps/contrib/115196976545177012345
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVZ1bKLsjf3Ht9o2fH4g016CEmtXKzRYng0el7jmLmkAoHBa7VY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLn97WmAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLn97WmAE!2e10!4m2!3m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185
+  - name: >-
+      places/ChIJcQ03oAdlXIYRhfGC4fi9xmA/photos/AUy1YQ0sqp40-uvidF8-wjMCd3XnqiyvXJpH-E-Ns-zA7vFyEF2ZSEKWpNoInlKp_3VKNaSa1W3SQjMvIvltrhRuUQgMbqAT7UZS4hRG-Vai1UTP4pRLvAIQ_HFVEoB4KtcSk8jkjf6rzJ9SlKDWiCls4y6J-nPquNGZ6Lre36pT5vxwDdzY5OWUCSAQ2RJMXKDiwCTkNObCbDElX7MZOqNYNB6GI2TE-ygcuEAUPBheA0bgy914qSSsrksmhb2Zs1bY-IIXILZcesqqML-2mrZRii_NFYI_9UdRMFbpmB2PghDnB0mBAtODpm8cBs8t1Zb64br1qoQ8EwDmPZ2wuMj4STpSSJ7FlMqaZhnRmLkg_B0CqnwB_x7XAwkW7QU6pLfRw1_ahBUJViybagoimMXr75o6FIz7G71FhJBduXwVBpYCMA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Vince Ng
+        uri: https://maps.google.com/maps/contrib/111465707539517965854
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVLfYDwVEIx5xwWfzkiLTG130iblZb0ZC8h9GFzMeNb-ihl9Yvlmw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICpjIC3Ag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpjIC3Ag!2e10!4m2!3m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185
+  - name: >-
+      places/ChIJcQ03oAdlXIYRhfGC4fi9xmA/photos/AUy1YQ25SgvCJwB-I8nd-59flXDk7SHt321KMfsP4eqX5e1Tzo7NQNdyz7e7Miv-yqHkAhT4HtSSVqk0ZHZMVuYZi66ZytzkD0usuRfAm7AsZMA_2af36HJdf6sb4HKh9L7-oSt1frzDnhj7puW_G-Bjb-FC4pzfD0WTxXVhH1N0dHIcEyiT7n_LcHIPiVKDP1589tINPtHA1z2eMCsAOVgzrsnwGsA42Q0huGIYjQ7WHn1llvivWjAEDHuw65-dZbNnxpuTXE0YacbxY4_Tq1vpNPghk0aPUvY-mHkjYqxBS5lYHjuD5lsdZHH3fWoaXQcXMKWKj-xWr4yr8fqFQ5H1eOTch4_95B77Sfsz97OioUZqyDkVIl242XWvbkJKCKuzzxNsQujKQQh3Kt8Pg5H2ev6LHkqOiTUpMNTbwl_LdNU
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Grishma Radadiya
+        uri: https://maps.google.com/maps/contrib/101353294733702493812
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJuzu66nOETRBMj5EPRMPFaWvoN8phdkka78B0JQzFlBdmtFQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj7I7OcA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj7I7OcA!2e10!4m2!3m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185
+  - name: >-
+      places/ChIJcQ03oAdlXIYRhfGC4fi9xmA/photos/AUy1YQ0qW-9UGKzyxOXpmYj66b5srVQ3lDKOv_qMgoN1n08ZmqBNuuV66GaD07iGaeNXF1rAV1qqiJoBa4J1X7uqjvDrrNMyANiaWnPMGhmab24g6nTvQpi-cmCDuzLRAH-7sXZ96TcH3Az-XR7W-QlGEL1lPLcuM_gZUMBWuLUg88cuE2BovfyxYs49jW6HE5eVBCMIYkZr_6NPhXPzvwXLBaT8L--limbPLxR3BnNw6v43n3Ut6ZmQElx_M5-51EmZ1GQxVDi9vIXGGbSTKkhUlzCtdQDEzJS_A_jU-DhhBqOXDBtGR-r44MZhCyXwIFAzsBPtcuOw1wcs0PRYWiXotb4QDO1G9Fidp3zyTfiOSir_YCW9gQtzNr1G-_rAfjIPCP0W3PqqSXHdZFs8YR2SEw8tumGnuUlu5Lmn_5ubh2Rt02s0
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Prem “Thaiger” Srip
+        uri: https://maps.google.com/maps/contrib/113944732153466839432
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXOq96QFAfXtQKJROONlegedorJ97KG6Tu4sUeg-za-F5UBwxWn=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICemp-LuAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICemp-LuAE!2e10!4m2!3m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185
+  - name: >-
+      places/ChIJcQ03oAdlXIYRhfGC4fi9xmA/photos/AUy1YQ3xgSCWAWIzS6CyNsmW9B1KsAz3eoWV8pc1XTkp_DbspFjEOS2DVNXaTU5SCGESh-L9Sn4stOqGrmXOb9WK7wYBx9Wg5z5VqPX-_hHhW6rr0CnYKCcfWS6jbbN6DBuu5VEDesbeo3_52BUXHvjeOLqbsOeqdGMerBWGkuk7OCaXC71Awr2ad6Wy5r6aRAAf_ePikJl-TqJEt5udCf8y__PCWWZts6Ba3nDwNQJEP0RR45eIbJuaNLXyam7dKZ8-xYC39CS8uqPzfulsobmCtlYKViDHwcTx1UmX5pElHJGM1C7EYBWrPCLdryNXz1UZfeJKe9gjuLR5mcVeI1fyD2pc9ABcGMs5jrrL37e__kEOyrbI382EnCLnOAwcW2Vbcxs4xV48J_jUWm9v9g8MEi_DHjAJUMDTCOxraRfmNqUbI9M
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Julie Burns
+        uri: https://maps.google.com/maps/contrib/101946385646143248282
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUqHzHsCISjVRdunNjlQ0VXzIsrhhpjFV1rurePiJwSUkgl5nwDLQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD_rzbzgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD_rzbzgE!2e10!4m2!3m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185
+  - name: >-
+      places/ChIJcQ03oAdlXIYRhfGC4fi9xmA/photos/AUy1YQ3UdTiCAcwbLc02qbMCEfx_Itew-aNE1oga2AH9B5UTDjKJIOO5VAwJWi4umbCLsNq7TEdrgMR_5vob9oBINcNmNFtAJ6NYJ-dLbEqTkt9IEz0tsBAorTByOKuZDNFLKYMhXF-MWWrc_UPL0Dy0HxsnJ3YY6l6iTAwNaJ-OBdO3adU9nEgX6LQhwktW48TmM6lFHPHaMTUYouZUbF1ciJwohiBexbrlTlQxOmcTam9A0j1Cctl6Z_RLPBPgIcF-Qx3pGfcOJ27SNj-DIniCZiX4_KzBC6M03PJc9EIsqMJF_ypdTi1dka139Kopi32xE8IXWGHrXi9jOIeW0EMRhA69lcS2hhJqDQ80Je9g_1tX1uzpzmsMER4PigLLS1aDSJNcijNqFXXHsSbpNzhxCIa6LOYN-VfKBa_wa2fRsvVDpw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Aaron McAnelly
+        uri: https://maps.google.com/maps/contrib/104738082792031296668
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX_5ds2vJSLD9V739A7ZHL1DggHvs44LjTs0DaTowPCpQRtreqi=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxsYqGeg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxsYqGeg!2e10!4m2!3m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185
+  - name: >-
+      places/ChIJcQ03oAdlXIYRhfGC4fi9xmA/photos/AUy1YQ0JNCFYrmUA3UJZ7Ga7weHeho1zBmDCfTIzZ5VTIBjnTbs7WgKftDlDYMAyequeH7gPpPLJP39JfEAtuEVdBr1X4y4Hh_AfeSNePZsmiQ8immfOzBJnuMH6tQ9ZAVUrOYegKHDRN9T7EcR6u1_ut7JbyV84TVSOyF5x8uisGyzJDRbYNUorC7PiujmWza9aDhutb8DcSImAp2sK8La6FsNQq_jl3YT9TxFJJ5yYhNDPNu2oxY0KmZMVyE6cvV79-HuyMhhtTsbmkTu7eVfc2tLCAhpGyRWuk5bdjCL7meVI2z6xP8fTHAeeMoIuPfEspuolqJIFoNcRaCDhMzEp5nEI33xAG2ICJW_ZI6QTXju4GEzLEjbzg9umnSmJ2HqH9QR2n7PhOTlgTep7u4KmsHmKJ450OdKY8OrlAq0OUOKheg
+    widthPx: 4000
+    heightPx: 1868
+    authorAttributions:
+      - displayName: Clint Church
+        uri: https://maps.google.com/maps/contrib/110793460822882822141
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLYKYKnnLjJlSwEHeqNqt-UF6xBFdOBgTs2pdI5-_hdBXv_7A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXgp3BCw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXgp3BCw!2e10!4m2!3m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185
+address: '22211 I-10 W Access Rd #1102, San Antonio, TX 78256, USA'
+street: '22211 I-10 W Access Rd #1102'
+city: San Antonio
+state: TX
+zip: '78256'
+country: USA
+neighborhood: Northwest Side
+latitude: '29.648287'
+longitude: '-98.624405'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Kin Thai & Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x865c6507a0370d71:0x60c6bdf8e182f185!3e0
+  placeUri: https://maps.google.com/?cid=6973469949662785925
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x865c6507a0370d71:0x60c6bdf8e182f185!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x865c6507a0370d71:0x60c6bdf8e182f185!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x865c6507a0370d71:0x60c6bdf8e182f185!10e5
+primary_type: Thai Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Kin-Thai-and-Sushi
+
+---

@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Chiyo Sushi"
+permalink: /maryland/baltimore/chiyo-sushi.html
+stateAbbr: MD
+stateName: Maryland
+cityName: Baltimore
+place_id: ChIJ0TmnfK8ayIkR3AGWJu0exRA
+photos:
+  - name: >-
+      places/ChIJ0TmnfK8ayIkR3AGWJu0exRA/photos/AeeoHcI6r875zZ8qNnb98PXN5YzNA4NKWZmQ9HL_yj5P8rsCi4VUNBW5qNcH-IC-2wSoLaZCbN-n2HhauT40sOGrPRGRYyTo-Y01Tqx1cXV2ij5gzMR1kKXwcq4G8DmnL39RMzIXButA-sakNpeOy5oh-ukeyuv-TSMRm3t65FPPBfuazbAAHkwkeh5zbFQKKTsaZ-Si506ULGdl6wK9HjdNEzIcVN0xX01FyM8ioGTqaLJVqTLhCq8f_hDTpWszmyFWTpQBs0yaC_FnFTWEdznqoGJz6ugfV_WuTTItA8C8QuTtuC7prlQyXopR8rnabbhsPV7r--fxVNiaUMyqaPPKRyLNjE5ThGGnDp0AweERVJa7Eiv-FBIEKwUdeHihk329qgCnoTYXty-9q4fTmeDL8-odPtOwpssqVXZ42f1WArE
+    widthPx: 4800
+    heightPx: 3468
+    authorAttributions:
+      - displayName: Lowell Larsson
+        uri: https://maps.google.com/maps/contrib/101416524798905959228
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWh-Gak3WRR92YTuUToboelHq_iR3cVz3aPc1LyrpI9l5l9y2zPkQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICE1MHnDQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE1MHnDQ!2e10!4m2!3m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc
+  - name: >-
+      places/ChIJ0TmnfK8ayIkR3AGWJu0exRA/photos/AeeoHcKdlnUJaqXOAKjO-o-4rthVR2IdTFt4wFhBrXKQRu_glEUvARQ1aXjwYHl_Iq1zf5_c4LIjqw1dftkKT6JWcSiErgcGaITT4O9U89-28I0ETVgcVmnn54k--op91m-D3EaM9VC86fa1rpDJrTixTsFesrgrdIkQYnZwJsTIQ45AJjyWIXNHr3xx_lgU8O9OywHqD_s3vJY5bgu4gd0HH0wwW7QzUyvz3iRuwN-3tpMOkXn-A6htwzVQgkBR3apKtLwo_sIRPd83dTmo4uw8IR4d3Zqo4OKXKLxtMIYnhmuc7w
+    widthPx: 3853
+    heightPx: 2886
+    authorAttributions:
+      - displayName: Chiyo Sushi
+        uri: https://maps.google.com/maps/contrib/110041522928549523473
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJfiQUFsqzf0fxQ7hwlgZYi5AtJkrJqge8rv3OsuNlsI_vXAw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPlWayWs8x0SJBv0FMWf6zI23EFBxP5hdynJsVG&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPlWayWs8x0SJBv0FMWf6zI23EFBxP5hdynJsVG!2e10!4m2!3m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc
+  - name: >-
+      places/ChIJ0TmnfK8ayIkR3AGWJu0exRA/photos/AeeoHcIkaJ6rcY_j1Zf7LBr0EylI2KtFffh61RkuGxrWt5UTjKzU3maWyyYMw9NOXy1dkwJNCHUlMokWY0kkfRBtGSYbuoIwSXhqolHrHUYz1MxszDgjdGx7ZqZwASP2BCKg5YmR47QyX5bw78kUbebmJsNn3bzJY7vM5EPxbGVZrvU-56VcRYVcpV2o2krdc2qGTF99oFs_ZYuUl8TjKzALeV6fEpsX9_-1pCIPpIFS71ZHvU2CmznD0fhHHcjXmKYiQTrr4_rd63zDJcD2X9BTeFySMdQZ_xLuctn-Ft7Ju-_wOKQkDcAl8cUO-XtQwdbmihvtw4nODFvF7hxhwHVJifM7ZApP-ix6fH8Ms7hnN-bw5kPcvpMb6Qs5IfBydznEwzYY7NUxTJNhhzg2nYd-WJWAlHuE87jk1gSj1TVahi3Ajw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Wendy Chang
+        uri: https://maps.google.com/maps/contrib/112366170795091168404
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXtG3DL5kcd8XRp7nwbNfEsORvTCLNmT4twQlLMOINyrYX66Ug8Fg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ8cehaw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ8cehaw!2e10!4m2!3m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc
+  - name: >-
+      places/ChIJ0TmnfK8ayIkR3AGWJu0exRA/photos/AeeoHcJlPpiadA9nH_RkMP2VDiM0BMDMkpOQAOxDqwFme2e9fDYQ3ClOLfxWCv7Bf3YfQ089D3jFhxdDlyJ6pwk7Yqd1fz_KAKOHAqCusoUPLuMh3NQOg1vPFuMzyv1Iq6JfZJL5UptjAgHFy0BObejwDS4VTkWI3mBLAG88ofo1SeQtaKd1lOQO4xJMc1K0xbzPOZMXGBG1E5mL8u5ZoqHeuuxtSOiAkqaAcX-yh6t9IqrU0vVr2TK_BiaLwOWrCt1f_w-YCv8OjAosXa8FDwsVitJGS6Mxy53M3lerY2xUhKAoY-mmwQS67FP6kgh7ljSNnBELYsVWtQNnZCrmLWTjeVKG4br81F7ZTejrnaLqrSa7I95k9Lf03gfv1qojG68_77YMmCqOc-JP8XDAz1pegaKf6qdcnlAfYW-E3gVNZ6JO4sCv
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Phuoc Vo (Tam Dinh)
+        uri: https://maps.google.com/maps/contrib/108843963142470421018
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU6K03_tkDmAEyGwdgicwh3d5xtRHidy4uuZuzyUv9d6syD0yfG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDL7vP74gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL7vP74gE!2e10!4m2!3m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc
+  - name: >-
+      places/ChIJ0TmnfK8ayIkR3AGWJu0exRA/photos/AeeoHcInELuiVWr3SMW5GMD47MxS8D9GRlHvBpztciiyTL-MRvEbnXhNQiAnViGXtfGTUKOlrOrA-D5wBaRlPMvAgmO2YxjuJEQQ_qvw8WsAGzslYHFIUqQVrJ2E9t4rv-hPz63PgkITR3Y7XTOk3JiJkK6qxReZMUgQ9Jh-S6ubpVoNEIUCDE_arQSL5Ifk4IJl048XPQg1A7fFq73V4DuJ_DO3iRNl8oTvXt97Voyx8TdcYVLpe-XprXM5XGifjEnQfngxmVf7eSS6Ts1ZqXYnTxKHJxzHYxESddYExyHy7kBIkj721pfjySfiNG3ps9hu4_QGB7s2N7VPJuvJ_ijTiCZYQF7J9hAJO6ntdSOt8jkq9_FNwvcbEM5QBnledkm_GlUOlCiMBBXVOfk7oEMN1ym6JSHuqR1RFOntA57YUWWG58pO
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Wendy Chang
+        uri: https://maps.google.com/maps/contrib/112366170795091168404
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXtG3DL5kcd8XRp7nwbNfEsORvTCLNmT4twQlLMOINyrYX66Ug8Fg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ8cehqwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ8cehqwE!2e10!4m2!3m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc
+  - name: >-
+      places/ChIJ0TmnfK8ayIkR3AGWJu0exRA/photos/AeeoHcLNApNLOaeu0nk_sk_k7L7jMsCRfx3IS9pAGhx4MhXwTHrPBTDCxKPy457HFbFAzpwAOzT0I4VXHQ33tfUyzCKCqOJOk1S-5Radv3QoFdTg1hnHSfNbNlTSz4KoMmD-8rgNJmCaDvLYgu-wmNCXew2GA51UQd3asyBecvRkzIOCGsU5Z1KO5wSBatVNMGAvNn-FtbIyuFmAh234Aduau6ACjYE919SDGhjbmshDmYAkt82zHhSKgPBIO_dntU78M5G5gI5wXnbG-THVXDN0AsM3mJVaQe2tnUoealwlfrQ4y-pZ0dpBNplQJOBhjD4Pmu3tHd2ITNp7-XzN8Pnj5zaP5-fnmW1pN-NoPknwtFQoQzbQeIYLQ56btIJ5wLw5g9K889JisZXsCF7MCU6GpUzi7bNRXVOb4HI6appXXe4
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Paulus Ong
+        uri: https://maps.google.com/maps/contrib/117927610743736305225
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUCPBj9Z_o8Z3FqYoj0bjpiArqZkis0hiulPtk87xJzTZ11r48Qog=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkqqOBVw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkqqOBVw!2e10!4m2!3m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc
+  - name: >-
+      places/ChIJ0TmnfK8ayIkR3AGWJu0exRA/photos/AeeoHcIrSc9vWoMli34ZPEHdm-R3oLoG6ADVHm9C55Eyhmsj-g5ZAL8uOrFHFNnfW8LqwECM3QjHtVtsA0z576lqiyDnOTynStwGo2DZGHCXBWYYY6sR8HFnK2wNHQksLuZZl0fBpZb641KMEIiQ_OI7TTCQCBZyWihMjxArtzw98RZlT2fdoJYe7cdrXZaSlQuuxjCPZPdO9OL_LxO_lAhn0juyMzgFcbrQqLlGoVNw5rDzRmq0FG4Uv53JbtSUIq4RCPSV4s4hQ8h4qW5voxwHtL7ODcv0TISgWvX0T92thK_f2Fm4lnm5dOQ9Onu5FicinRPQPisoDgvr1Zfn78uXOCPnoMduUwaHnzkLwhcP7jHkp9TN6cDqvgvbzs-aPCe1jiR2gbpOxHCgs9hPAxGDVcAZhJXeOugoVkhsXera2Zcr2PXOyLQSgv98Qf42TTrv
+    widthPx: 2268
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Khalida Casimir-Hawkins
+        uri: https://maps.google.com/maps/contrib/108530298060684573620
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVIGSeDoqPjL4OKbvFP3vvXEnDEMhQy42clZqaG63r-uEc_oxUAow=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UEDMeUGfZekYABguA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UEDMeUGfZekYABguA!2e10!4m2!3m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc
+  - name: >-
+      places/ChIJ0TmnfK8ayIkR3AGWJu0exRA/photos/AeeoHcLRiiXZCNDvkP6cjsoAyQpR4DT9ivkpTyTv2zJVf6crroTwKuKbrzzsHuF5h0VLKMxSM0qerNYhTzZvOqEJf1Z6Qt4_WK40lrqodbjUhWOvhrRiWldGjbMi5n5KD7r-RGcRrXUR8eu5MtS6LF6-zSZ7mNAz7nCxZ4q5JlhTFQp-Ut4ObvOBy0M3LkWULI_YbX7iOWA4zzHaZx8rsqmxclnRdn3v6pbwYcNceha1zq0BxOtZQa3XvgGXzn2xogFjOCd65l7fCkOoUInhz_cs8zYk6QiQ5xaHVOxvZBMe-18vTTdNcnFSvNFVP0dsqdt7QlqtG0RG6YXtFb04OGChtcDjIyuRxZAMDs6J8HVyBGJqgABgA024QW69QHI6LqKIa69BQETBRqRH_gVf1ODvAisVgd1NTYNSVD7GsMCrOs0eafM
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Travel, Eat & Cook by Liem
+        uri: https://maps.google.com/maps/contrib/105118840919234561618
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUNHXPW3HEtevB3WETxcvL1HGoFfvQ1scd1qosbW-xVVBJBv9VgzA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC409bgkwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC409bgkwE!2e10!4m2!3m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc
+  - name: >-
+      places/ChIJ0TmnfK8ayIkR3AGWJu0exRA/photos/AeeoHcJebMZqJ59DYEXoj8exq_MhT3m1IBS-wlGJftt6ePhOnATlAVh2bk7N8s_d2cPl4xjMzroSK87l_RjAbpq2SI7RNGB5pTOh3XIAwsTC82yeGn8VRBs-Jd9Ivm_I__BC76_QhgrJ4eTrnBaPvErVG6ISWzTi-JIFcrkvad6K98MDnRLMw_mVm1cI3yylfhvr9CJJlyOqxSfJmXjto5Dgow1zomWLNB60wVIDlVmoIDKQRH5MCPt7kU0p9a6P96hY_WYq20b1Mmy5mV3A6fc96jRiKHGOOCYN4Ivwe1MEn8RmSU3qRzGmIcUJP98XfCp70pR__qsTUXGPac_unjmdZT5elHv-NLrXO-JAv3ci0BhujaDo4vQOaDBVOERpdUTmhDjHoEArRWzWIKE2ri6KkhVmT5M-ZFmFz5HLy0n3Aj-MO5lu
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rebecca Krauss Giacomelli
+        uri: https://maps.google.com/maps/contrib/113111177955909663367
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXgUZgZ8rGoKjuZoUfdCydnNiy3LTTS-q8w6TFcqfacbcmLLpjO=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7w-XPhQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7w-XPhQE!2e10!4m2!3m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc
+  - name: >-
+      places/ChIJ0TmnfK8ayIkR3AGWJu0exRA/photos/AeeoHcL3-k3X647-jtwllQlYt_Bs9Y4gp1GOSCRSagQQmlmWT6wLVW5Dkn5tLIRxzmFC8Lyx765TxfHAhBtOH5TKywEnEjyYJa4baD1nneCG585F_TyIYjwhzRcBHfQE6oxCwCl_l4cfFGjF6hu6Ccp-SAqIwi5W8a-vVt5_y6sD-kb8M_EMNEZSIwnIqjgwOFDQWuDSaE8X5leprDMouEa0od2Q3fnYXBRZXYPqrfBvgfgzip_xDRzgAAGkYO866bFo1rufEO3WfFV6oB1lYSF2kZ_nraRgSeHDXArRGULJTKImw8RdTMs_VhtHVFq5FOTYWCZ9K-k-ob8BCWJ00oJSaf88GJXl8ws1Ibbj2dsxFbvRZ0EjHCpdOnG64SKAUPNvGzHziQjC7oIACTDGB43RB4D_I_PgZSD0uIg7T_mvRGRXzw
+    widthPx: 2229
+    heightPx: 2229
+    authorAttributions:
+      - displayName: Travel, Eat & Cook by Liem
+        uri: https://maps.google.com/maps/contrib/105118840919234561618
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUNHXPW3HEtevB3WETxcvL1HGoFfvQ1scd1qosbW-xVVBJBv9VgzA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC40-b3WA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC40-b3WA!2e10!4m2!3m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc
+address: 1619 Sulgrave Ave, Baltimore, MD 21209, USA
+street: 1619 Sulgrave Ave
+city: Baltimore
+state: MD
+zip: '21209'
+country: USA
+neighborhood: Mount Washington
+latitude: '39.366873'
+longitude: '-76.652543'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Chiyo Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c81aaf7ca739d1:0x10c51eed269601dc!3e0
+  placeUri: https://maps.google.com/?cid=1208406078922293724
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c81aaf7ca739d1:0x10c51eed269601dc!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c81aaf7ca739d1:0x10c51eed269601dc!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c81aaf7ca739d1:0x10c51eed269601dc!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Chiyo-Sushi
+
+---

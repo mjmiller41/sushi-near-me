@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Amber 80st"
+permalink: /new-york/new-york/amber-80st.html
+stateAbbr: NY
+stateName: New York
+cityName: New York
+place_id: ChIJ3z5OOHtZwokRQdngJLkFcaA
+photos:
+  - name: >-
+      places/ChIJ3z5OOHtZwokRQdngJLkFcaA/photos/AUy1YQ2L_shsl4qyspOWmOZsiW_hvumqwjUIf-yTEUBYvb8vs9lB6wZHfmGX4Z9ytpCfwNPqn6Cg7YaqCST4OuM-F4maaSUPqrefxXAsiDwbA-_kHA1VuGyY8L5bXLfJnk1kFtcw1WVLd-gb78NknBNMOoE_rTuyX_o1IDf36MtS2XttB-hMiOGxkd-DNlXVW54VLR6xXhdBFXxgpED-1grSstM9MhORUzpzzS_kY05MbO5k5ujkLfdF6qwgAAheeurqduKMhhE4ytvDMLHuIka5Z2Vs6ASG4uS3y-OIMHs9C2uRKtO9TX_EVWf3XTToGZFPpGQTH7iHMSVTg8otB_68yRhYg0lA9xJeSfraellAiP2utWTzAw4y7Wj8BI8Lcjg7fHflEAn7nywP8LxoVGkzMyiQsnfwNyJZbkQWBTtPy5nl1l7I
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Michael Cooper
+        uri: https://maps.google.com/maps/contrib/115369023465076579731
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWWOSTAGUPJKYFDd3XZ01CKyMj9H9AmWGCedrSLoMu3oGbHAdwfMw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBg5Wq6QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBg5Wq6QE!2e10!4m2!3m1!1s0x89c2597b384e3edf:0xa07105b924e0d941
+  - name: >-
+      places/ChIJ3z5OOHtZwokRQdngJLkFcaA/photos/AUy1YQ1DeZcV44HLk42wajnfs3_fa9gzlZ84rx1Nb4mukCGR96Yvzzznzk_QO2lq_fMx1wlwvW_3ELly8FNP2zvwDt87Q1b02NmW-si7wUaqwOkS-7l2l0D_UY1xrkd5Ux07m06l0DMlkmolQ_6kWZX0IqDwWkJZAqrDZUNxhAd1AoqA59LA4LkW7hC8VweyUbXMCsbyggBUiwr3jr6ijvL8vjWmbIavszik79O0yR0AxR4LNjCTQ5Iu7cbSNts5iWb08Fau69-cAF1AU8LMl6UgE5oIxyLnMBfjCpM7J9C6fQd8EQ
+    widthPx: 1000
+    heightPx: 747
+    authorAttributions:
+      - displayName: Amber 80st
+        uri: https://maps.google.com/maps/contrib/104776534126440718420
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjsiFMA97y2X_qvQLV8nbu5GeJgbx16gcsMQMc56eB43M5MlEt=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMmdCZQVSn8Knn4SjjBo9uik-KPw_FoLoX4KwAi&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMmdCZQVSn8Knn4SjjBo9uik-KPw_FoLoX4KwAi!2e10!4m2!3m1!1s0x89c2597b384e3edf:0xa07105b924e0d941
+  - name: >-
+      places/ChIJ3z5OOHtZwokRQdngJLkFcaA/photos/AUy1YQ1RUpi3-SRYFYBtysye-P5J_4G_S5M3YEXBgKnSfaPlysAmmeX4o3ie9sxZszsEgpFSWwiqcJJvpvZjR8RP23ZAYE3sEJfUD3U13-vNbt0TXTg2HV7aKBhTS6NOwE0s3t2yEGs40uoBjzwufKKoqAQy4zHiJxwY-IyGKhUfWk9dA6G37eeNhHys7GZic9rHxIDu2vXAsNWG8rphY0qD74W9kavr9y1rp6jrpArnd5GhMcwtMcYO4X-S5RUlgSCiDhzAiSXb7GKEVQMK9ayk0sKdXj-LONbn5Z5U6VxhiscmnuKKI-ULLaH2MZKGk5acHI0xlAEFXQA-ZjUaGlTgXyV94wnPdCJVnthF-4MY0HKTClcP3QUaHjjRDaS7QFU5Wm8FAgYm-OSGArxdunssOOkB9XGQeqW1iKmy5UY3vlOXLqY
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Karoll Villa
+        uri: https://maps.google.com/maps/contrib/115707181134653177381
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWxdkEN_vXyNPIhf9Py-O1qZaQGLTUqDZiaoglAd3NPcMJlE6vPrw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH6uzFkQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH6uzFkQE!2e10!4m2!3m1!1s0x89c2597b384e3edf:0xa07105b924e0d941
+  - name: >-
+      places/ChIJ3z5OOHtZwokRQdngJLkFcaA/photos/AUy1YQ1EXEvjWo99CM2TMxZHN5Z3ZDRYcWEY0OMR6mvbeJB7mcby-kUF2OMj9cUORmsnZJ0JOMpManLKmN9P3ULpVR17E5ymPKTu7boOQUpH6POYDh5WYCeR_BzdSPZ6c8Syo72sgU4ltZaA28XQmjR0a1PB285kRu0iExb_TObwcmJPhWpPFiKVWwriN2Q7n3ihH5Q-McwDAEUIbNq4Kr0XV5mawjjX9uLdSNl3biUB8r1UY12Xh1UsSYvR1pNfSQ8df3M5Img_qgSDkPJmFexAw3oP2x1pweEiEBtTG39h0SImTQ
+    widthPx: 1702
+    heightPx: 1276
+    authorAttributions:
+      - displayName: Amber 80st
+        uri: https://maps.google.com/maps/contrib/104776534126440718420
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjsiFMA97y2X_qvQLV8nbu5GeJgbx16gcsMQMc56eB43M5MlEt=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMcIvU2Yt33rdNJ679rMIWmf8jYyGUIAs2ash0v&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMcIvU2Yt33rdNJ679rMIWmf8jYyGUIAs2ash0v!2e10!4m2!3m1!1s0x89c2597b384e3edf:0xa07105b924e0d941
+  - name: >-
+      places/ChIJ3z5OOHtZwokRQdngJLkFcaA/photos/AUy1YQ2rd9ef5ZU-NElD4tsgTCm5DYp8nbFqNtUzmCY_WRBkdRiOV9U3FX37jEPbn2wEKIY4xdiOFTU1tAPE8AasPKmPn2CjBlkNvoOKG3dEn321LpK5klPB504yLlVirkOTcJGE4p2syitv0gdM8U4fz9a84cRb01hq2DBoNrLwqxKUdFoi7MnIn4U3LRizB2mMnjcuVyVrMbEKnigRUrVcLchrXuHiy_TyLUXq8WHE-Vri0muKLHov5624EQdAKH7LFdAAJBC2jfEyhAsqK9pLIkt2NWV3sM71fOBn7d3gR4jqIg
+    widthPx: 1776
+    heightPx: 1332
+    authorAttributions:
+      - displayName: Amber 80st
+        uri: https://maps.google.com/maps/contrib/104776534126440718420
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjsiFMA97y2X_qvQLV8nbu5GeJgbx16gcsMQMc56eB43M5MlEt=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNDtKlaugrfCvMgC8nS-uTPmWF7KmcR8ZBaaNPc&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNDtKlaugrfCvMgC8nS-uTPmWF7KmcR8ZBaaNPc!2e10!4m2!3m1!1s0x89c2597b384e3edf:0xa07105b924e0d941
+  - name: >-
+      places/ChIJ3z5OOHtZwokRQdngJLkFcaA/photos/AUy1YQ2jhk-4-qY9kK-ZuHJnJekMeDIhpSPtgD73h7JbXWHrIhH-AeffLQS5_HT0LD4YxpPnntXJfotNfFVUYLJ_QmGjxIqkSRke1KtZmTnbXUpR4MObN5OnLiuT1A1BB8rteyHdldTZpI9OX9hKhmuZyAUXRO8xekaMARBTzFL5GlDzgR8hkpvfJ-v9DYIex59ixU9HM3ea0dz2ZrdN0sO6gWgSyRE7bwKlsYX60dQOjGLwrkbBKIWJoD22IoachDk8U4IiiVXfAlhgSSP005R7AnxmucA_8T_Iy9_ovSta51A_md2paxAAY37XPuvy4nSZTNF9f-BqG67sp5Szrdp2DRzzZdkr1_ral1XH9RDSF7Fj-KiG0I17wgAirp1ammhrIdtaUU0S1p7sG2DejKYfTA6YlgQi28bJIdO4MDa6MFPyd8si
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Augusto Paulino
+        uri: https://maps.google.com/maps/contrib/115862479330323357853
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUZ6LZjNZci-HCGo3Z1urQFFtn0xxTIbvDBy5bWMRUK-gw_XM-e=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnwYje0AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnwYje0AE!2e10!4m2!3m1!1s0x89c2597b384e3edf:0xa07105b924e0d941
+  - name: >-
+      places/ChIJ3z5OOHtZwokRQdngJLkFcaA/photos/AUy1YQ2e0muCVbTenEiNRM7x8M6xh4P6i6aXaptj09HF41egsx_CWA7ER7ZtxyTvTm8Lft0pmKCFbcBNzQNVNjOyTQ1krGbQ7iu3hCxfqQRExepoWmEaP7x6lmfayvjVqJQ7Fk6b7MMTHGUcnNf92R3rE2bqaMCVBPnpTfsmZmqAAswIPU5Q4mD4jab4KPDSk4JwNAmia3a28Z88Lt_agdR1-Ua7GCSb3leVwGY3AzQbTXzpzwyH68jeNEPc-1bsCf31gOiOjV1Y4ZVLD-PeyF-3e4KJv_FeNvJGUuM8Cu6kbvmRG2y6NXx3ExqIpdj4qr0_39ITrRoQVtV-3feAa6056Gj0lTYVdCF06vKEA94Tv2kt1rJ5n9sB4vVP2oQsXkiN9VfcQuhYWFL3IKvU6FfTykkbe6p1RaxyilaHqDpC9XNgGB0
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Karoll Villa
+        uri: https://maps.google.com/maps/contrib/115707181134653177381
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWxdkEN_vXyNPIhf9Py-O1qZaQGLTUqDZiaoglAd3NPcMJlE6vPrw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH6uzF4QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH6uzF4QE!2e10!4m2!3m1!1s0x89c2597b384e3edf:0xa07105b924e0d941
+  - name: >-
+      places/ChIJ3z5OOHtZwokRQdngJLkFcaA/photos/AUy1YQ2nUlfGrQxF8hqphRnAHU4oPH5gn3L1p-6U8rsHmRlHfRIAdYuW_VpX6CY6QzGIAHn-Cj5qa9u3Qhcwt8vRTEXR_yA9xaM4TGU1WkeYURfwFMLqNTEuawTADCh-ZQ_0bl72rCclFXcgCM9nRjR0TSEOgVN9cWCUGBO4WsK4nzbPvzvbh2vc6SxSZQkwu16NDVonVHpfq7bgfsppYcFWswE7PG9BEt_JNhCXs9asTNB89NUPvWvsFhfL23Gq1-gRijFOwUzAUduz-vW2JKKTPSsLY5p39IIUBhMdT6R_mZiHcT4XmJPALWtPMCX00_-HFcMI186A8L6oh_K5flJxS1omsxEZm4L2KYXwOUwCQew2HoykmCNmH2baoKde0q6LYqP8oI1BeLnUfVv5x4zSIMT9I1lwMdudCH_uIsj9O0NNMuA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Augusto Paulino
+        uri: https://maps.google.com/maps/contrib/115862479330323357853
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUZ6LZjNZci-HCGo3Z1urQFFtn0xxTIbvDBy5bWMRUK-gw_XM-e=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnwYjesAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnwYjesAE!2e10!4m2!3m1!1s0x89c2597b384e3edf:0xa07105b924e0d941
+  - name: >-
+      places/ChIJ3z5OOHtZwokRQdngJLkFcaA/photos/AUy1YQ3bJHCN7nKyXV0DWvGFPRjS57nhegLOnhk5frQ6aj8ZBzlVEJZwYH8sa8TPbIjM_mp5kW2ERLh5kArjB7Ql9T50m7hV7RAFnh9Gu290Dl1LL2et-ol8f47F6r4AfzSbFqbcY2plJQU5FBX6FuEMgz8FpgE6619VpTX7jNGxxy6dHxmKdli5ZeRvFS5Ok8JkOfssaonncHJOpC7AtZq6DXKiQlZU6engni1UM2fYlSmhx_M-T0aYiBohGjv09de0Qbac_InySZcuagcRsT5l_oGwSWrwgHUT1NO9XiL0vzWahA
+    widthPx: 1280
+    heightPx: 1024
+    authorAttributions:
+      - displayName: Amber 80st
+        uri: https://maps.google.com/maps/contrib/104776534126440718420
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjsiFMA97y2X_qvQLV8nbu5GeJgbx16gcsMQMc56eB43M5MlEt=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN52nePp-CMLuNSwxBHw5O1X0j1YMW8X71eSZex&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN52nePp-CMLuNSwxBHw5O1X0j1YMW8X71eSZex!2e10!4m2!3m1!1s0x89c2597b384e3edf:0xa07105b924e0d941
+  - name: >-
+      places/ChIJ3z5OOHtZwokRQdngJLkFcaA/photos/AUy1YQ2MmcunqXjJEhqkN65oNmHXNQgTrKC0rWB_M5zHNS8ZfT2unjxiHY2wr6hvS_D6g52zQ0qYbMIyYIcYkWni9ZH4rHI6iR3b24GwkU6v1HetgoUVi39K5P-5yr0dUHw4Avci5yZgsnuGOuCXacxSihKkGbtgl7Ty1HprXAV6pqSCqtYUrqHhmO9GHTf4x4E1WTRoVY-7_cVFt6WCxM4urjp6G8UXN5c3nmkLKMZe1DRThKfbXNuXBofhUEjlf-4aAPPjUr7xnFs20xLYXWkGTSJKspv04LLKuGd53betE152NHa41omqXLU6elf0ef7BIpdG51Ia8eFnqtEvZixzJazugOPNwitxPGxyTJ3RmKWWcgSOcwJGaMNfPcftKM_R9lxTts1IA37tOeLAvrl7audRdfH4zO-FbNY7EYXbSaPP0wM
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Eva
+        uri: https://maps.google.com/maps/contrib/100556235777158628185
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKTE8Hg7_1XF5Lo_J6R6ug9jJ3tPnzBVO5l6zBCpDqw7YMyDk9n=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrzYqG5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrzYqG5wE!2e10!4m2!3m1!1s0x89c2597b384e3edf:0xa07105b924e0d941
+address: 1406 3rd Ave, New York, NY 10075, USA
+street: 1406 3rd Ave
+city: New York
+state: NY
+zip: '10075'
+country: USA
+neighborhood: null
+latitude: '40.774972'
+longitude: '-73.957117'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Amber 80st
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c2597b384e3edf:0xa07105b924e0d941!3e0
+  placeUri: https://maps.google.com/?cid=11561028011182577985
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2597b384e3edf:0xa07105b924e0d941!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c2597b384e3edf:0xa07105b924e0d941!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2597b384e3edf:0xa07105b924e0d941!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Amber-80st
+
+---

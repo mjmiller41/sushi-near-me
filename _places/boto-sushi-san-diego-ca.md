@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Boto Sushi"
+permalink: /california/san-diego/boto-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: San Diego
+place_id: ChIJ5bGvgAH624ARjViq-EAm0xA
+photos:
+  - name: >-
+      places/ChIJ5bGvgAH624ARjViq-EAm0xA/photos/AUy1YQ30K7g9aQjoR_uYQMo_A5Fc_DiaG5D84ITeOF40qy2c_DcyvAQwm692HiNvKnZVlGNJD8Ba1UhrNbh-6A6F1mtriFYqN3wYIAtkzZBuermbHJ0w1SlINYBYjy_BN_hpTulugYi1l6vG-PYKfCU3R_MCITKH08AcgaMIFUWzIu2Ss3l4-AqMP_hxStoFsegcNDjfNeDcoiyTHELiZXE7byU6JjXpJL-ZAUzWG8ZGzQedwSpirdQdENEHvZBps4v0yR89wtKFT8h4xyWJnP3xs-IpSdzfRuKfM57xgVtvwycshiNJGNSXfaU9nsR0SMckxJBfg8krOgq8jFZNzLNZRwKJ0CcrToVTYNVmBzzaYtY7-JQ-fAAN1xKwz91XyVAGFv65jZ7V7jQPFWEWQztwKIfWiu-WZui1EDTnhKG0uSRuBA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Dennis Ho
+        uri: https://maps.google.com/maps/contrib/101507704677134265391
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLms8xksmLBY7epY1EeVoqmhAq7dmiw3q1g6qYdACGLcQ-Vrw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBvO2yFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBvO2yFQ!2e10!4m2!3m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d
+  - name: >-
+      places/ChIJ5bGvgAH624ARjViq-EAm0xA/photos/AUy1YQ20E7eg7-Q_PcZkKqEv8ySoz6-2CbsIMjLpjhV5-QQ-h2JV06MdEO4zyGzjuDQIz2Ih1ViOhO7x6oSNfhUE-CKfi0qaxk9EgG7pxnt3IBh5URz3G_sCOk5CRtw4G8tY00ZcKNnvFcVv-yjZQpscpiMUxkCtrkIYnkSyXXKHAbh-cX8NqYIMS5_veK45DVyJXYRAFr4dzZHbgResGm_Zw6VeEVVRWlXct5NA5axjccnffqX-f3CZjSg7u0lCLX0A-rFsco9AOExpHueM34N0GYllbSoEBjKXelX9alToXi-cjw
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Boto Sushi
+        uri: https://maps.google.com/maps/contrib/108162313972815996325
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLcta3VTLjfFr3XlfvwwkL_PJuv0KhIyp_iN3kw_pQwqc5nQA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP9YpP0LyqmW8SBHdP0EnApwweTLBh5NrmF9JOC&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP9YpP0LyqmW8SBHdP0EnApwweTLBh5NrmF9JOC!2e10!4m2!3m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d
+  - name: >-
+      places/ChIJ5bGvgAH624ARjViq-EAm0xA/photos/AUy1YQ1q5pzAaf3xtgiUwq07yWNWcsLxrHjhJaA8C2TtuzUahoZSvzz8OgzIy_cSmi2IhibOFhGWlYL5cn2PDRZaJzPZfukTuenmL8TwGTgJ64_LOo3U2LNzp_AUORxUMiDIES7JqQVJTbumJ21ZymX0LbDbNHNFyaIHoeoZqf4RGnhQuJx4lJzgLBtOP0o2O-wRZ3UcCDDcVLOZ2lR8-z3URKhVJp8inEW0r1W7ItVT4mwYgiUFLQJFu1aZaYCQdDsYX4fM68ASMKrG_kxewFU-nmWwIoq2SnEkdVDa5V9MKMDrRJH7bWcJPOWOSrPwKIH1zOOI8YfP4_49ICkTrkBEJ5_Yxa8bJb-jzwPTgXF4kmtIDg8FHDwZ1sgM3XUQLar-3uKinDaC95aI86ooMS3sksW7K0mGasFvGFmm58jz9xAPSHzW
+    widthPx: 2068
+    heightPx: 2156
+    authorAttributions:
+      - displayName: Chef on travel
+        uri: https://maps.google.com/maps/contrib/105500973875085026289
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXSvsqrWOJXzaJmo-bnP3-yAzOYm0tDyOGItURf8MT5a1uPvyI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ99GOtgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ99GOtgE!2e10!4m2!3m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d
+  - name: >-
+      places/ChIJ5bGvgAH624ARjViq-EAm0xA/photos/AUy1YQ34dETi0K7YvVgv8K2SqVRS48O0iMQ_z2RjlErzYGuiJ0wBlVbn_F0taETW7_GltpGKccpJeDe0wBfLzKJ_z4iJIWglrBbHABY4m8nZYUClV7vKGQWGp61DtQzqaCggoA0j9Nd_V2aNRf6UXuH5o4Ft_X_Ge8VTaekbX27IOCl91fhrMYzivUcP1nKAtCYknU7DhcQgcaVGSEs1k2k9J_AsathaCZYoezG7ODCEtBDLyGsFIbyRsnazmYNJxok9HcNS4gUa6TMdH6zrPqZs3CcPZNsJWQqLWNblxcLAZd8BdO5vYEIcoM4qe44saCH9XFDU4WjKsuEal78z6igW71_b9ceZIX_7FwG0EmDVg9e_T71S3pDnObtYMrTcYeQCW4q5i0kcL0riZXNPSnrNC4DOFs7mHSQGPXvUTdZ8rp_ZJuR5
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: a
+        uri: https://maps.google.com/maps/contrib/107450064881373765706
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWRJEBJgmfE6KOpNWLBKK50_PllPilOYuooJnzlinoUKzsqYWk-=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_q7TyoQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_q7TyoQE!2e10!4m2!3m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d
+  - name: >-
+      places/ChIJ5bGvgAH624ARjViq-EAm0xA/photos/AUy1YQ30VUDtD_OPPoMF6VdGu7j0QRSE5mC8wiUpgJpYFhktIEdGqtm5Chvo4nngIYAfLCh3MYX7AyzoQGW4AehjBWeB3NMdRKEGa2VllRQ1dvGzoYdlE9puC5E-R7T4mouA8e9b-kMjm-L41f3b5xVsfAsUgeadKj6teBEAb_y_Rnx3iNLsPZ2PNZ_GKggSmTo-qK00YGwsji-NNbCxZ_X8aIswZpZHyOV3CQak6kydWlcQNu9Kr9O1c5T_OSMlBBDIMWjJBBvKhVmsLJwBsUl6qrz_TlSBX8y_I9XoRQnEaqkgsqhNsYg2vQoKQA7Oe-tUYBpdIw4gNKokCHTVrpJql9gzn61sTNUNuHGXx37AbI7I11WJa7ZieUWMcd-eKOVDn0MtYQDrNh96yTXT_fGLalu1elBx8CA0I4CpKp_cwsqLYJc
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Christine Tang
+        uri: https://maps.google.com/maps/contrib/113040577724237652350
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVBvp02GbXqPCoa3ek2YEm2d3xDrWlTxIxdkWutKohLUPGhdQE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLyO6SxgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLyO6SxgE!2e10!4m2!3m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d
+  - name: >-
+      places/ChIJ5bGvgAH624ARjViq-EAm0xA/photos/AUy1YQ2TGHiT-LMhulou5U6U6r94W6o1XSB9fdAbt6GWPBJFenlxG3ulFZQC1ouDHxOLAzAuku_pdC34YbwEV6fP0XcNM0MwPIQan5-Rj88sR4_W1v6rDzBPuQmCHFK17tIPG0yPbh26m6yEMxBy4GGIShGGcUrfC47Ogt1t19tlNPjm_fTDnhY-hrmOL6DppPy7a7rvA1eNaXG-bxLsZimTjloEHrprPceU6tBYsAGIdYyfL0o4KEjx-EkSSFE1BaGb3003zi6-ymX8E1LsmV4E7fEpMLCBomM1DvCLR8Ff2j6QrEnDIX_iNCwGe9HEw1lc-VUB929sxQjO8I0sIQk77zQDC3HnIq-0iMQnPa1evnmqWB-lafvN8GolRp93tS9Z-fnJIJ1HM908RF59bT7RpxPpGIuB3cNHLIzfV45ciSY
+    widthPx: 2972
+    heightPx: 2628
+    authorAttributions:
+      - displayName: Chef on travel
+        uri: https://maps.google.com/maps/contrib/105500973875085026289
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXSvsqrWOJXzaJmo-bnP3-yAzOYm0tDyOGItURf8MT5a1uPvyI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ99GONg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ99GONg!2e10!4m2!3m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d
+  - name: >-
+      places/ChIJ5bGvgAH624ARjViq-EAm0xA/photos/AUy1YQ1BE8OW5XmBiswTMwEQQQz6yaPVJOfqNjSlfCICNg8hvkVU563KaBem7TXcI4K6UG2oS4U7xRApX3p4oW5ASEd7mBazH6Ubm0XTynBXhl5hJ-XHkLPHxpr_3ae6yAIAUo0E_KeSG8H_mjn70IOItxK4dkKKQq8jD7IVHS8DEPxNzOS3XLSSOgqtTdQNghEzJFFrt2j3vbyBVn5doJnqXKbcoTOxMXLdvEOvcNE6Y0-CEvt_ctPlutQ0Tf29iaa4MeMFd_hDqGq332KNudSXrRn3jL9VvV7yhAZd8o2MRfXuRGvlGltMlsWyVb0h_ymOJTKeZ9nHG4XZ3IwbOos5iXci_8bY5V-o9TU3QZYrtVRGtYND7zTy_flRoYS5jGKpypMFoTue5J1BuibpsBp3YWJX583X8KIXI3_emsIumBJoVMQk
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: paterjo
+        uri: https://maps.google.com/maps/contrib/102936517431979644747
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVLJ0wyanuvIQz5YqlbKHwwdVRyY7t1xATayh4dPtuqOJgrDi4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrwL_t7AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrwL_t7AE!2e10!4m2!3m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d
+  - name: >-
+      places/ChIJ5bGvgAH624ARjViq-EAm0xA/photos/AUy1YQ0N4SWKkumnPRJMrHYXUU6L904IuMeOALAv5IXC3faGJHJmoI0xDFU7VjEwlvw_PQrnjJ2ZtnhcUcfnq25-eaYoIqxcLLjy5kYh7BnU1KiJY50KuvSHrwx3v0pF01crglnKS87XurjsexdeGkBcHTlYhUjDD0SKLw3Evo_qQSSqBNOTEu_30MiDbWqqYtD8YVDWwfBaLXcA4HeWmUqxMV4IRjb2VSZE0P8MXcdMHOwFalpNLCnvsnO_mPH0rhnFDyNvX3u8jcG-QHGZyUcagZJpH_K6fjGskRRkq8iG-FrajdRIbXITBzug86Rkakh9K1LWxj3OSBcbs8B2aNMBJMRRi7k-eUMTKYauFH_02Flkr0rrTAAm3UP3zHHQPiX_t79EF1v3oNQv3jEUc-gLLHK36rD4Tf2Dah6G5TO4LTi--A
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Anitza Villanueva
+        uri: https://maps.google.com/maps/contrib/110752272485970045033
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJgDq6h9NwvDk7BYH6vcxTMntBJAA0OZd0HZCKR8DygEzqHbA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD-_CDXw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD-_CDXw!2e10!4m2!3m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d
+  - name: >-
+      places/ChIJ5bGvgAH624ARjViq-EAm0xA/photos/AUy1YQ1b3diUSSs5PPw6AIqKyK1C-Kd9FUhChPBwilTUpBS4QTxgvBDRuaLJgvptCXg_KqU2Gk1IOs4WRDMx4Ubt7cSEVwZCrZspFSOPSMjzpCpvdigy8OxFK2TXIuAv44Dv7nKdLeMTt5BtdDHYPXls-DxUQgdS1uaYUnM2udAI0YJYn5XEJkFayRmWPHR-Pua5J_zZ2puues6j7gwy21dkcM21R3a8yzFn2gaD2HqRN2AbUXY2Lph0T0weEobrMvc-wrlVa-2PyOwE02TUj8-oZ8bMgqNGFCzSCYHGeAT05KuGIJ9uZWqLcqSc4DpESMOV2LiaAHBx11BMQTXBAYPO-CJKBqZUaNSt8p0Dhd_VztoyexKcaXS6aOltOdtqxEdkqDSAm09xxZCziyDJla_E0cSJqOB2LQpsR6wGqVIGR8UWwg
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Callon Li
+        uri: https://maps.google.com/maps/contrib/115418737222097548262
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIdkdr2RPXEJS-TVvDtC3A-gyoSbTmZcgGyQdgk3Z-ELxXI-g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg2IznYw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg2IznYw!2e10!4m2!3m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d
+  - name: >-
+      places/ChIJ5bGvgAH624ARjViq-EAm0xA/photos/AUy1YQ2KXD5YOFtn9cNCWU7jwVFIi7ijXup9nJLvoCF9Kz5fiIHSRP3DiFJGSxU45sEepfttXfDRo8xUoRZJHI0EWWKVzFsP36nFbRqktdE5C6GAZt_Rg5y9tOcOzuP5xNoXo5lBzTgkEVzkmwrFolyjQFgAImBVRaF5XlUIMKG060xEPtvHAib97AR4CGxTG9CvFiEuXLH_6wDg88F_kTLJSDSoV_Imt626PAlBH92sXJmfMy_QJYwh17AkNk-we0k4lJ7b5eBXNVVw5DuV2TA8ovNyTBKj7HonVpOA2vUxJwHT5CLJMwtxDtTmA2G2Qc7Pl29BkI7hVeZGE1tZ44FJUlf5eM2RZPPK90CbqbMd-ShVC5n9Wi_L5cKbn_g7b3wW_g36657GWAqdMmD-oAv3zRTbeI4HfegCW-lfIWIiwNF1T2Fu
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: paterjo
+        uri: https://maps.google.com/maps/contrib/102936517431979644747
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVLJ0wyanuvIQz5YqlbKHwwdVRyY7t1xATayh4dPtuqOJgrDi4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrwL_t3AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrwL_t3AE!2e10!4m2!3m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d
+address: '11835 Carmel Mountain Rd #1305, San Diego, CA 92128, USA'
+street: '11835 Carmel Mountain Rd #1305'
+city: San Diego
+state: CA
+zip: '92128'
+country: USA
+neighborhood: Carmel Mountain Ranch
+latitude: '32.979831'
+longitude: '-117.076911'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Boto Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d!3e0
+  placeUri: https://maps.google.com/?cid=1212354785184471181
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Boto-Sushi
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Yama Sushi & Asian Cuisine"
+permalink: /arizona/peoria/yama-sushi-asian-cuisine.html
+stateAbbr: AZ
+stateName: Arizona
+cityName: Peoria
+place_id: ChIJeftzkyRBK4cR7cfOLc4n2Oc
+photos:
+  - name: >-
+      places/ChIJeftzkyRBK4cR7cfOLc4n2Oc/photos/AUy1YQ2KE6EapZ2T_COBUI0zi-tvS5wLeq3xZqiwdHxFcM-EyKuQXjMyWb2mC69MzbWjLcuf6mMqz4SPD3drJeC0Cd-IAeOWuLQJKqgzCBtDN8D-6tZCLuYWopCoe2YZm5lJoeaOvFNetFvJv4OQHjrh7jRIxUua4ZA23Ye39JIAEYhctgzDJ_JeAubuOV2YTYl3N854Zq5pVp75nL6W98zIBccRouHrW5Vd_awrudKrFTafhGr0WdUv869dBPnVaX0psabPFyT-314FkJ8GAkvaD1aqwiUo7HaZ_dcgOQKbSfPAiA
+    widthPx: 4800
+    heightPx: 3203
+    authorAttributions:
+      - displayName: Yama Sushi & Asian Cuisine
+        uri: https://maps.google.com/maps/contrib/100167816366915061335
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUW2gvMXVTHnlIOLp5Ew3kX1S75uwBFUU5dd-bqkcrT1_DEUvw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPaD-Yit4Y3z4pyMB2YK_nQzuSKsY4E70aw1bhT&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPaD-Yit4Y3z4pyMB2YK_nQzuSKsY4E70aw1bhT!2e10!4m2!3m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed
+  - name: >-
+      places/ChIJeftzkyRBK4cR7cfOLc4n2Oc/photos/AUy1YQ2OtbfTWcE0jEYApfbUVmlJvTamiqkuD4uxfPL4V9lr4q7gDvulaww2drqfmscqoUGgfd4w6aYOG4DjjBxK5U4--jTlQJyshQ0spUHR5A6QIekylOjNr6rFfS-EVj1ik2rhPukn5DVok-TxMN-aoZrstBu3lsvNWoWdrf9W-ZZBeaMKLewUYfqeAkeUxjFerAebgG2kvhHNHwQauWwcWotOw92clq8z7-Jq0f7oFDkKzgGbADYvRmdGNb7BcDJyXXfrwR2q5A1Wr88vpl_HHs2figZWhzIJgj1aXrFvl1PF2g
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Yama Sushi & Asian Cuisine
+        uri: https://maps.google.com/maps/contrib/100167816366915061335
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUW2gvMXVTHnlIOLp5Ew3kX1S75uwBFUU5dd-bqkcrT1_DEUvw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPCeKa3FGZ0X39TLYHl6aiZLTh9lmBvSKKHBT-F&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPCeKa3FGZ0X39TLYHl6aiZLTh9lmBvSKKHBT-F!2e10!4m2!3m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed
+  - name: >-
+      places/ChIJeftzkyRBK4cR7cfOLc4n2Oc/photos/AUy1YQ39vQbbwn_kaAIRd-kUetWKlndRS-oIYf1iYsJ-_Gp2N7vrWaOEFcHoJASu6Qtu0FnSuNVF254tC3XXcM0GwjPy_Dp1a6npECqqdiUZldl3244eiIASgFE09KnVYD-cKft76l_pmV83s4CGNWK4oecn3X0o1R5G1BDBlCLRZOCP6iNFtiE0uz5LPcO1GmC-ikbED3B9WjMkAbzv28Nrd6d6QGjayqeniLaXzd2CbVRnXvsN3KGXqKTGHP4bVaHlHBWxnY3pWrTSf5lVVC6GyD0_JrTPn_JQ7GHNg8M14jLpDAu83FB9EWrNL1EcnVVIp0cWejG4tcTIt6pvUPe8qj3DxFEEpbAK1H0MrihpABmrD6751OP7yrz18GLOkD7qGMkSfmg_sshmfAf5FcyALC5xLQMdDg5gDTmWrRI27pKHRw
+    widthPx: 4624
+    heightPx: 3472
+    authorAttributions:
+      - displayName: RRV
+        uri: https://maps.google.com/maps/contrib/117220835347984253710
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLgxyQwI0wnuyN0Cnj9VDzwRcl_5DLi0bW8gYVeVY9t2PEJrA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwrpySCQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwrpySCQ!2e10!4m2!3m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed
+  - name: >-
+      places/ChIJeftzkyRBK4cR7cfOLc4n2Oc/photos/AUy1YQ0P9ZE4ieX8r7gxeJMRCdIkZHl-vEXciWOyAfnfq7teyEmocwM_YtRCHYy78_Hb71EkjUMkQak_COF9qI1PVmVtWAnVShtWkRsfq6ZasWDTwTp_UT7CKy7yYmTh2vW3u9FZxUtedjZdYD9YMd89KeWTSDA7lMSRWpKiZrwrB21KFAnxhhFijs7O4Yu0OCCQV4XgLEGLRBOtoEvIJyf9YFrtgJr4rpYKsfdcUlfi_yTBp6jzJzm_WdLDfF5A9zD0ljdXzzVtPkpyNjvyv0E781bkWC1WioA5FWw67m4HlkEmgFXKXELrLH3QXpWWNiaBm-iUz5tk8ku94vJGkyx9kUu1w27rJLl2WPGLgv-YJtPlg5ZjNq288qk26bkKWygLQc4nUzKZSBIRjfwF80qyptIHwABgBBpJmao-dyvKgrI
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Chris Brennan
+        uri: https://maps.google.com/maps/contrib/113281812664833019684
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWux6BzxDpZ-KWzQQnn9gC86kD0IMUgFgqOov1NRn8OdbOGT97o7Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg-e66CQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg-e66CQ!2e10!4m2!3m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed
+  - name: >-
+      places/ChIJeftzkyRBK4cR7cfOLc4n2Oc/photos/AUy1YQ0exaY6n8fsLsWQ30VrswebI72UaTDtvqkGP80z3Pj8gqaFMrSxrYMWEA3Q56kJYZeo1Jet0AyC7-1t2H6856bAxeytOIfyE_pktOEymL_vhC6SRg-sSa4davQ4Q-YK94TYYGz8HFBTgnf96WAq0vY3Kq6t-b0sGpI1eXcqL2CPSmD-ZGJbyhu1CYVmI7ODrC7DdRUnHvQ5hbbZ1ahq2QQdVhtYFB3jUFpXJhJVZi1wQBzN3-lMJMIDO-BM9j7lYY4_fSXXRxpQcPEe_vQQdMJBwhs89OPm2ygjCqBaT-JRhPp5Hfkj3XC-wFj8rQx22Ry5c5ZmQKzZ27SkkFXPHveuOtRGLBBg0BDBb15faOIng-_1sUvs8XRz6LHlYFGklEfllfT-AiMkZ4LOAWaEYk_W724Gj6eCqD2beeGX3MkAW9W-tvWgPG0UcxYUO2rR
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Catherine Nguyen
+        uri: https://maps.google.com/maps/contrib/103926854375656594638
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWJyKxQhiKWAzVaH1WJ_l3JIoWfL979lmioVJezahoyEqqDAbNQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UmzNQxGfP5ZoACJj0&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UmzNQxGfP5ZoACJj0!2e10!4m2!3m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed
+  - name: >-
+      places/ChIJeftzkyRBK4cR7cfOLc4n2Oc/photos/AUy1YQ1T64wSO4And7iHbtzFJoWAmiy_B9CitoIRO3AJPjuEOqLOsX0WayAklPNvp80kk4EQOSLMS6-Lk3oZCOkrXiQ9KQt3vkNhCkqS0PEF_jwSfwBA3M1bHL5wiL1OLb0cBjXm-CzzHzzaQW2X-X2B9FuXyIe0g3lFCEly0mYM8-V2ry_1aN1iwnbcjZphRAknzp5_0zg5eOCDyd85oxZNJ8s_yuvef4VDw-t5sha6T6zPvsd2kf_d1sFpds5xtJwRF4B4jdNySKqf6XVR-Ez3bG8dGgzOgVIupkHku8-tA--Id6Hklyalc95r6T9MimvCvOaE62yDZMZ5YsAEwhjkiO6L5ZoAvqytvrzXsSntcwo7pgmxxCkD-hvbsYzxmRr5XNxiSfDyhqXxHgep0XlpknpHsF1pJzRBvYZjrL4nj2g
+    widthPx: 4800
+    heightPx: 3203
+    authorAttributions:
+      - displayName: Terence Chang
+        uri: https://maps.google.com/maps/contrib/115943553381365052607
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUzhbuJjnrwqMITF-H5xy3Fxf6oEqoOhKt92Itj3NoYu3C4KopYmw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu9I2Zew&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu9I2Zew!2e10!4m2!3m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed
+  - name: >-
+      places/ChIJeftzkyRBK4cR7cfOLc4n2Oc/photos/AUy1YQ1n_a5QWlCENMvfUeSaTj0eLnmyIhQ_Trx6MfkumZ6BdDIKyHLPA6RChhzLtudUOOr44RwCmjyfVBxGGZ1-8jvLuAQkTgpJuU3bWe7WqXKfEACOZ5loAxT5SihjOFdCN2HD6KSoWyPSMcbfllcNerht-QggpUrGFOP4-WH6PS74b73w3eg5iqStoA7zF1oONEhnA1w2zzR1AnjbzBEi4UOPC4sXHxWujqu8YvkIDP156H_V_Zer_E_4rkF2ii3CPbmsJM-gzll3PLWyDewT02s32FQ0ePGLGR6KXoKMKbnp3g
+    widthPx: 4800
+    heightPx: 3202
+    authorAttributions:
+      - displayName: Yama Sushi & Asian Cuisine
+        uri: https://maps.google.com/maps/contrib/100167816366915061335
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUW2gvMXVTHnlIOLp5Ew3kX1S75uwBFUU5dd-bqkcrT1_DEUvw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMh03wEZp4qPG8vqAveVXi8w5AhWc0ihruy2OpB&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMh03wEZp4qPG8vqAveVXi8w5AhWc0ihruy2OpB!2e10!4m2!3m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed
+  - name: >-
+      places/ChIJeftzkyRBK4cR7cfOLc4n2Oc/photos/AUy1YQ304GEuOEDfzSXGZNWwpqAMcEfkvvv4IrtB6FZd2GEGLtGIavs8d78aZ4iy6xYGrR7HuvAZS2WZa0yLTbCfGAxpyw0MxeQes3H2dp0tW0EMzgFMpDJZuZOQpWgdAzUtf8rvw5i0EfW_TIu7lr44BRktQQ8M8mDuCMgMiyC5hr7N3yClb0oFJzFoAO49OLa4jvPWuQN4klyUHgpHm0PFeEIFb-iMf94Yb411ZQ2TFup4YEY6rDhS7tBK-5_AcG6jpEWHDR77KCnrNY6oWijo8QxS4tOoRn-03mJ2iX4QQS_2HjFRkX79C3f8P4HS-hc7oP2ZzEzOvkK-vl805zV150NhkaALxX9pFdxmDUBVUcWFjIO9akaA5-V4ognWo_u2ToeFlToZ-ej6gilloNzlkAZgMaMVyv0lCok-U7GWauaHorvb
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Marie Lee
+        uri: https://maps.google.com/maps/contrib/111712802718774860191
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWLpcxufFsZQPuRB7jGLg5t5ZZAVyyg1J-xEi0PrEbdXJN4H0oeQA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDh4393QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDh4393QE!2e10!4m2!3m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed
+  - name: >-
+      places/ChIJeftzkyRBK4cR7cfOLc4n2Oc/photos/AUy1YQ3pxjNLWVgAsU7DELHIBpy4HxkdFi0QATus7zl4WA8jy3GzrApgtg4FB1I1e2GGM0ArS4hOTXmrbFHSoklb2WBmPFxGOxKQ7dSMa8TbeJYFyAD5EZSoJaUfqSyzqvpUDnfknTsf4npJvDtyuH9tnOAL7_kXubEWHJ_z2PHMWXZjVQMnAPoj3SgRHtsgk5XFpWgtNv3SHGgZjR7i9rVUn0tQpM28HI1BnJeqPKR1sTYSxn-Xiggh2_FmQFqlB6Aah4JCAQ2j60ZGUSlZTuAqrnTlBxmUfmKWPP_21MJ5Ii4Ro7QMBcgdIiOoLQEB0yDevyy2AJ7X3wQ0MQgq4Z71EJPo3mlR9F6_OCLtAwFDSyg1hXgK2AKXsvS0xO7Ddee-dMOOVsoG4Pbu6DjG1LIXU76REQB01ajR1Q8WmTcpeEuQWeNj
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Anthony Adams
+        uri: https://maps.google.com/maps/contrib/107916435912826149506
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJt14pwDuvgJBp3xkXuLbSBFPT6NvnG2IR375D6gbfbSzN3oA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnnafriwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnnafriwE!2e10!4m2!3m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed
+  - name: >-
+      places/ChIJeftzkyRBK4cR7cfOLc4n2Oc/photos/AUy1YQ3xHZXGJ2A1zAwJF9wRqC-3g08s4G3VgtlHBw2Hk7zWNYUJAjfcSF4Qlc_g9vbBP3Wh9rrUrlgyZRxd2uzVIZx9-jk3zcHe4hNYdu1F6scj2XaMuPMNQBDzS4KoGfosnyang4cyOrT7TIL2R2ds8xx5TVZQqOfyE0D2AdXK2K5p0I7rjZ52mh-tRM8BGlgYnLBBBlmMddCutzfcXljpZDNevbq_g6P3YHhOEQDsk2XZ9vUkDaY1AjzOO5upUAnvAd1dz2ueeckvUT0QrIRT6IJdKrwxn_6YYRgN9yfZUQilsQ
+    widthPx: 3840
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Yama Sushi & Asian Cuisine
+        uri: https://maps.google.com/maps/contrib/100167816366915061335
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUW2gvMXVTHnlIOLp5Ew3kX1S75uwBFUU5dd-bqkcrT1_DEUvw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPVb7mY2MPCacloeusqjuLg_hixLd3Di4HWldgA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPVb7mY2MPCacloeusqjuLg_hixLd3Di4HWldgA!2e10!4m2!3m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed
+address: 9788 W Northern Ave Suite 1450, Peoria, AZ 85345, USA
+street: 9788 W Northern Ave Suite 1450
+city: Peoria
+state: AZ
+zip: '85345'
+country: USA
+neighborhood: Parke West
+latitude: '33.554023'
+longitude: '-112.269758'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Yama Sushi & Asian Cuisine
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x872b41249373fb79:0xe7d827ce2dcec7ed!3e0
+  placeUri: https://maps.google.com/?cid=16706146584216127469
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b41249373fb79:0xe7d827ce2dcec7ed!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x872b41249373fb79:0xe7d827ce2dcec7ed!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b41249373fb79:0xe7d827ce2dcec7ed!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Yama-Sushi-and-Asian-Cuisine
+
+---

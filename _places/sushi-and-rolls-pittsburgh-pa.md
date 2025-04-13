@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Sushi and Rolls"
+permalink: /pennsylvania/pittsburgh/sushi-and-rolls.html
+stateAbbr: PA
+stateName: Pennsylvania
+cityName: Pittsburgh
+place_id: ChIJ6XpPWDvxNIgRy_iCBCIKULs
+photos:
+  - name: >-
+      places/ChIJ6XpPWDvxNIgRy_iCBCIKULs/photos/AeeoHcKGmhNq7YmHgVnDne3nrQ95nxA6Bgg1bkUlAOe3esh7NYe1-tVwJUCHxxxzon8nr6PhclzW2kbuylLGeYVqFd0fNPGzDe1SJS_Nth7Sw5C1vllqhUMFC7ckbm5xsW3UP6kn9bnSp1So8gfPz3mPmYTG2rkJ0PzZONL3dgJZfLtln-g9bG2I0WG5OfGCkMkCeQ-nDiYgU3MDQqX95WEoskVAyN-bs-JO0kUXqOj_IYBZiIyUXQSxaMeILyG3E3CxqeB8yCbH5iO8h4sja-Jb4SN0XaI0eQyugyHFsFyhcu3FqSSGjS4GYjT5oAzdr0o_emyl_gkWthnf__VE_ktxZOsI7aPYZSNhI2Fg5i6Zk08AfiB2TbsSahSHtcz1d5LkxEKC7PAHmBjmpy5RhJgqwi7sy5XBhlC94jU9K8VWTxjb0g
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Bill Harker
+        uri: https://maps.google.com/maps/contrib/111067592264560081069
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXf-5BnFfjTtCZNYNznFM5GQGdycOY__vo5-N_akphRFUHF98ZW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDuov6FDA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuov6FDA!2e10!4m2!3m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb
+  - name: >-
+      places/ChIJ6XpPWDvxNIgRy_iCBCIKULs/photos/AeeoHcLMa9jiuwQROhKpqofgYY_Y4voiTe_Wx6AyxMzsDEjhKL5aDnVkuhMBT4oBk-oKnXOXg4ozwpRYzRFnMTRK5cCLR4mO325994tePuMpvsbekZ8p03B7pIJY54L0uovOaniAaVom4AlqCAMMqmpIUWXpXAN7bhtZp_-vwdUz8UvMSbifZgsqWeZNBAHHtaKvpGA6yB-j5NBAWGrfHjiXk53GaSmRJ9HAXstr_ZrE_uAsFHABf5kUVx2O2ccydEcYV7IvtCrzZ5C0jikQS7qzg05Lgxvbg3L85i0-XQMMi9LhtPtQzgesW_fjC044iL4Ahaa-BPDvZDEgHGDNpmrXpC6LjBSxgqBpO7DbOQZbuMN4YY_T6WquHDV9z39JUmp079cvELVA77ku0PtCGUnCdH-qTywth6SSn0FfxhJwSVzK3_0
+    widthPx: 678
+    heightPx: 533
+    authorAttributions:
+      - displayName: Antoinette Wilson
+        uri: https://maps.google.com/maps/contrib/110395516759082830987
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXjGlhr0YEt0AFbv_eIFxi3naQ8OKGmCTP8lBGfGhQfYfEoiEE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDKl_GU-QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKl_GU-QE!2e10!4m2!3m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb
+  - name: >-
+      places/ChIJ6XpPWDvxNIgRy_iCBCIKULs/photos/AeeoHcIIASh4VYq8jONYkOeYu2urVV0SxlwcakEIW0hxZWNtLnPIunXrXTJZd8oZ2ikTxNiimuKn1XjV9RoGEPSlmtnlL4dWbhLKVdl9NMNx2Ri23Uk1Dqnq36IJqR0fJRVHUMMSX9etqt4-zNgIfC74dilCQY_uBkvomwVfOS9xmehRrsAPFv50l4niquc-cBOR4KQfWco2ThOmexwvxO5TVR7XzQzlUIVJ8bvQlHHh2oa9luZerFzC8rsO_IkQGfuH6LqKnSxC_lNdbIjrUTKodhGIRnBhiQxfQV8RDbR-MjAzUV7riRX0gkWpXJ-loOXmj7s-G2YX6ryO0TqBQ_qDhLk0SWJQzsfi2c0mAD4g6mLyTx6m0sJHSGXSf2QbFYuk5PoLXVwoAwiUyG3rHd-NBEKhwUhX5jVu9RQk8Tq9_1OVW2QY
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Nora Taylor
+        uri: https://maps.google.com/maps/contrib/107015627223182267118
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXe-GRUc7RKl02hStWYZe4JZV35231H8Bn2VDRqt26J5l1RLtw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC55KvkmQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC55KvkmQE!2e10!4m2!3m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb
+  - name: >-
+      places/ChIJ6XpPWDvxNIgRy_iCBCIKULs/photos/AeeoHcJZoO2OUzdme3T009oSyGnRVqMtgApKkleIQWuFTSGbN17IwgEidjFqq4UXCGpGjm-GNzAlOZH0HVWA3O7xJoKdwsoEuc3j8-AWIJcT95VSBHag_pVCfg9UKwp-vOHYmHdw_fHMvLLHnrwrlV-ZO7KuGI2zo8WMRDS8L8aysNtou0Rg8PlRu6gEdD3osxSrXI6f3P8FAYrL64ZAeoda77GGW0FahxLdQANP_vWRCXsHWjslH6Fsc2EZ7OZT1a7m7XsP6lCVMme0sHc32raKRBi9M2cHZppzmDOjpXVODv08f-OgMFLMBTPFyMYW6INasnP6QSVFEbiicJg0ZQldcCvL731ayhKx6iS2HZYFV97y7lseIbR0LzRcIcdWHtlciThL1c78aOLQLYa2PAlvo5swj3_DnPh7Vmnby5nJWjCJfkJE
+    widthPx: 2856
+    heightPx: 1989
+    authorAttributions:
+      - displayName: Julie W
+        uri: https://maps.google.com/maps/contrib/112481861524850595053
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWUCkkNWJSO9mmzjhOUvHZxq7Yh1UsHoYwtDF3ZTznUEvsbwO8VOQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR_47P1AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR_47P1AE!2e10!4m2!3m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb
+  - name: >-
+      places/ChIJ6XpPWDvxNIgRy_iCBCIKULs/photos/AeeoHcJaPfbEZHsP_zvH8GMnkCSB79slKfT6OThrJwufq9ay0YeaUXaMp_v-pqi90_cREeUsHNpvFjYGzj1c0SOCotvGdtLrH6tgOC9tE-d9atmuDuJTRpy8ijnc5-A-5BalDnhZmalwCOy34PPTxqzRg_3QeKxlw4vxNDU_q8wI2rsSkvmqZfxnpFy2QzSF-cACFqvmD4ZEZfwVFTgvg2uXt75ITUPw9HQRygKJ8dYESRAU1c3Jt8F7hLg8Y9xQVhyHtz4WveeFivAI0Vr0XklkgeNgSpuJta0v6x_wszIKXphD0XLCxAPeXQGHrFRskJi4Dc1LmrDk5OY_rW9zzERn5sa-tC4HlhVzbQSHQzCGME0YSyiZL9NRsuDTiMv14QFOayQJ6RhANVr7bIXMAUjrcdFPXtdPYWDU5GJjrP5r047ZFA
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Julie W
+        uri: https://maps.google.com/maps/contrib/112481861524850595053
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWUCkkNWJSO9mmzjhOUvHZxq7Yh1UsHoYwtDF3ZTznUEvsbwO8VOQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR_47PVA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR_47PVA!2e10!4m2!3m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb
+  - name: >-
+      places/ChIJ6XpPWDvxNIgRy_iCBCIKULs/photos/AeeoHcJGrbMYyPJVzmD6kn0sOVzij_X7Hh_ilyg4Y-MnQtt7TEI-Ioj2r6TCxHLNlP4ARmJkRFBhxC8qBdtCDZcEzsR_2VzUUvEpXsVd8ni0O0FWeYxryKDWzIWrjVNdKOb8ke0F5yNV8qoLoWnmnCrgtSWBv1IMvFGMj-7elNHWxg-OEy8vtq4zGUt391qmX9hx6SkQTajOC82DIx48hU8T3FbfspgZ-ApBv9KCbBrwErc6JSdiplHxoxFzZyt1sAatc5rXkquNcMGHn_IbRFlZqbt6vutadMmhj4xfE6RcE5WE9EQgT67QQFaj5I5c9yHMU29DMaYiYtjYw499FzkLEVPO7TGEnWYEe4N28wgYKTjxBG7NNGlV3_jBcGHB766IDB-Is2HMdN-0paO9EUpY0Se_Zp9mKf8g5oC0ZtgAT_mTSgQi
+    widthPx: 3024
+    heightPx: 3824
+    authorAttributions:
+      - displayName: Laura
+        uri: https://maps.google.com/maps/contrib/107461738518811803700
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXIf-kBU9X_cTqiM-qbaCu1iBA_46o9LQD0dAQFYX7zfXv9BE4c=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID50Iqe6gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID50Iqe6gE!2e10!4m2!3m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb
+  - name: >-
+      places/ChIJ6XpPWDvxNIgRy_iCBCIKULs/photos/AeeoHcKV7LHGmAHVFewXmUlwnmWO00zECIjTIIuOVMTzl8D3_ngGcaUKS1yh5lsG3iQkWQhEN9kpGy3WE6-tRocjwxiyOLX2bvpmoyGO-rRtOaztloID_U7Rc4OVZxLcFA6vJ0h8ME_u9cDZIzlNZ3rOj9l_bhL5eQhWtEXvv38WR8we-lPMMyW-yo60zfBN4LduXaruFkmx_vtQYr7a2zdNjIJarpj4K8L0qXNitnPW5tT4CqKsman6odj41-KruztPSZYiMaKmsc_UImQE2LaCH4TM9JckZ0nNZPMpUjEWptkTD788Z1Rzna5eONWU7BWmwYkm1KL2QKeSHyxjpSvYMC4MTJUnQqqC7qUA_jRaGwEBEbdWRzBX0ezhWvs7pP3SmjsLJChWag83Cbn8f3G_e52ZVCHJQHmGJHj551tp5VlxLA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Steve Dubusky
+        uri: https://maps.google.com/maps/contrib/106271677299787719228
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXILktbeBGEFS5QR2_5roT3F_-YLJRZpM2CbjqKVPJYdUgkKo8S2w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRo-n9fQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRo-n9fQ!2e10!4m2!3m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb
+  - name: >-
+      places/ChIJ6XpPWDvxNIgRy_iCBCIKULs/photos/AeeoHcJ9NxDwoRDvqvLYcD7aFtTucJUg9vdHVRUKcqgxi5vbOJS4VxSRKCMwOdP3Eiwjt9Y0xHKzshg-6S47cFrEoneYMshH7LqKwp_tDSpR_C9dedm3XdfFdfAp41aT2-K4wZpt4O8yjEscCUevFwyjlxG7MOj8kvwBHxdkbMO3sAkv5i58zELvtjUXjTSHY4QGdi7O3wv-jDVCn0WXiiqg1Di3OQp_HIJJ8XhWzrjnah0oZWZkaB00-HZYVfkWep5PVtSifgiyHh9enY3nHZyLoXscxs1llLNpbHiyawapms_f_KOxnvQpeN3m_EwSoGq_8Efh40tglvaZbB8tFNo0La4acRfB1rhWmfUqg3-LBjaVx0Mu-VQ5LM0JLK53l7QjSrXNhS-7CZcQRHZvlPlTVI7ibdH1ioNetxllE7rMFg0FaQ
+    widthPx: 1440
+    heightPx: 1629
+    authorAttributions:
+      - displayName: Laura
+        uri: https://maps.google.com/maps/contrib/107461738518811803700
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXIf-kBU9X_cTqiM-qbaCu1iBA_46o9LQD0dAQFYX7zfXv9BE4c=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID50Iqeag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID50Iqeag!2e10!4m2!3m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb
+  - name: >-
+      places/ChIJ6XpPWDvxNIgRy_iCBCIKULs/photos/AeeoHcKeiZU9wwuzez5rTBPJOL2na8E_KVtXZpU8YPBKN2LHnZu7wjQU6djzisEgFnH6EapJAHVwrc2VRvHjVxxTJGlrCps0CfFzvqKqsMs4V8smloO2dg78HTd8GRXjSYdJQccq1UdZ0JI9K0vXAlqPGyYRKSeXstmyPW9BV0pl08pppvb6d8dVGglXfqaEPaBvkbpzdKlsD72SihdZ_6XoyIMMXMsfdEcVLST0Oz4mF3rpSSfiie1VKxNRl09Cp-1nweXIG4oals_9CXzntEURjTFcrA4-y88NoS7O3WkrLJd_yONtxlpjism5GzpuLP9GNCJdWiACpGBEERtr8uKpciJdj3S5fjBjc7CZ4wJqzgNppXOz6MH7vqVG5TPrGbT7aTRYnRl1u_OOFlP2ugQf5PSWTP6cM-dVJceMinF9M7Eur36c
+    widthPx: 4680
+    heightPx: 3510
+    authorAttributions:
+      - displayName: Bill Harker
+        uri: https://maps.google.com/maps/contrib/111067592264560081069
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXf-5BnFfjTtCZNYNznFM5GQGdycOY__vo5-N_akphRFUHF98ZW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDuov6FjAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuov6FjAE!2e10!4m2!3m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb
+  - name: >-
+      places/ChIJ6XpPWDvxNIgRy_iCBCIKULs/photos/AeeoHcKx7Osp3iFS64_0BxmCexXSZ3u8f-Nt_DmSOP5THRD5l0YtIWOplB17GPPHl6hBsnBB2m9FQamyq9PHPat7EP0KnI-Mlk4v2da7b67XjpVjODYhxB6tXTdI2OzdxPMNM0nfTri6AAsa3toBjpXbiUxEDsMjSXMg_PITQIXrWGsKeZE9RdZBee_Ucp0_Mvb84CHmomo1BOaH5qaQhEvrpiEdW9WUWSUxr2eVVaJwcqAoyeG6sB6pXSAELZfVJWL-anyeO1jLnbOG9fBPOIH_MQx4ET2XRkrNfIOy1VID9p7UerEx5wpHjmNnB8waQ4EUhy0Sz2CPQ5TVBZ9zvWG-GIyKcOkTB-wjZMywlznplHfZgl5rrQHAfNEwzpL3DD8ovjnI0LP2r_tKd2ykkHjyy2ZTh_pucgtLcjETseS2YC7eYuNB
+    widthPx: 860
+    heightPx: 1283
+    authorAttributions:
+      - displayName: Kierra McCain
+        uri: https://maps.google.com/maps/contrib/116160947992987393834
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUspAOjVBuOIF5xcWBZUMPi9Qw8izCIqioUVyEGGA4YPUzn9Jw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDKopjt9gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKopjt9gE!2e10!4m2!3m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb
+address: 301 Grant St, Pittsburgh, PA 15219, USA
+street: 301 Grant St
+city: Pittsburgh
+state: PA
+zip: '15219'
+country: USA
+neighborhood: Downtown
+latitude: '40.438294'
+longitude: '-79.999007'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi and Rolls
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8834f13b584f7ae9:0xbb500a220482f8cb!3e0
+  placeUri: https://maps.google.com/?cid=13497299224450234571
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8834f13b584f7ae9:0xbb500a220482f8cb!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8834f13b584f7ae9:0xbb500a220482f8cb!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8834f13b584f7ae9:0xbb500a220482f8cb!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-and-Rolls
+
+---

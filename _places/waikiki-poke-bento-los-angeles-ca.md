@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Waikiki Poke & Bento"
+permalink: /california/los-angeles/waikiki-poke-bento.html
+stateAbbr: CA
+stateName: California
+cityName: Los Angeles
+place_id: ChIJIZUWSzm5woARzaoAjz2vPSU
+photos:
+  - name: >-
+      places/ChIJIZUWSzm5woARzaoAjz2vPSU/photos/AeeoHcLHaCFU5lVRXLrw9R8Xuyz1NbR818BixlnLaGFoSBPan0cLfe4KRfLmi26YDDXNRAcaMTTgCEhRrO3qKjeZN1HJ3N--TbkT9DbP5SsyeHkb2IbkdtdYfl0ft52JrzfccqIYRE9_EPmR4e02xYGeuPIiVtNfXC8PiGooim-q5zX7W7qf4UVxFJKL16V3LZ2n75O6xGCar6_qpzROAz0oEaxKgnS_m2PmzVvwLTIC2uvDCXbf2-CMECZ4NfxpttxGdpwjiOG35xxj_X2YQWCqDrZ8PhBDDwqxpmuLpacmNr1yOO70sQkuehtCohF5FZpF_gLr2dh-xRwrinJb9Mf8B63dgDR5iomPjYRMQ3QfAvIVYdckGVv-v24rcNWR9QwtenQUay9DwiKDihBcZnX0BdhVythNeDTIyAZS7OTQBy6TVjlj
+    widthPx: 4080
+    heightPx: 3060
+    authorAttributions:
+      - displayName: Happy Happy
+        uri: https://maps.google.com/maps/contrib/105585135690878874994
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXuA6HaNeMhiCtbTbQOvJiGlQscgL9Y2ogvTP271ocH8hebV1o30A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj9Iv80gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj9Iv80gE!2e10!4m2!3m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd
+  - name: >-
+      places/ChIJIZUWSzm5woARzaoAjz2vPSU/photos/AeeoHcLVeXbRb3VvjFYTL6GFHOynocJ-8xxulpWaN9qxajAp1opH5kiWWndCfs2_P7UK9ZES_UYxHiMglxjJwvdswwYpcCw5-KfLO87TyKHDUsOA-9qvsLvWpfc3YEDnK98ISEswiY3W9OsTcDNHdVLn2zt3nE6avj_6PCbbNDn7I-KgLbFkRqztMTpgUvdz2CgmUoTzDWCwIMcQAKAbfs6jIGUkI5l9RjL6B88SSfEtc0_qHT0eczoZzSHSW3GDO-vtzXgqfrYZeB0T9--iP3XAkCWYIyFLdGcaupQo81AMepUibg
+    widthPx: 550
+    heightPx: 440
+    authorAttributions:
+      - displayName: Waikiki Poke & Bento
+        uri: https://maps.google.com/maps/contrib/116482659545166012971
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhZERCsYAvZjeVZjVckvLq6b4iRNaDqW7O5QknTJUpSQ78ZrQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP5Cq4BqXnFwYSmKZhMwRsFSKHX9Hv-nOJchDZ9&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP5Cq4BqXnFwYSmKZhMwRsFSKHX9Hv-nOJchDZ9!2e10!4m2!3m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd
+  - name: >-
+      places/ChIJIZUWSzm5woARzaoAjz2vPSU/photos/AeeoHcKv3GolYusSprTljNPNY9EqE-Dvxb6tfMYYg8iQbcCq2QODsyPyi66R8fg11_a0zaw9QyvIdAAcpQgeRAqYHYiEcfBudemGtIsQreUW-Ov1kkS1_t7I7pl0HKy9wpdxBZa41HQAwsfQpzZq7G_BBEv6VxAQxX4J7NAwRNP7bwXZdwUi1WVoUSpaQ5T-9t62SommYcYZ5VfFXS6KwBYCi5ohOLEKFe4PLoTjVG4CFcw6mK0LOtTu70vWC7s3hM2e8pL4iNSMzPc_Vg6EyGWXTK9KNPS7xgtc_Icv7zqinPm20A
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Waikiki Poke & Bento
+        uri: https://maps.google.com/maps/contrib/116482659545166012971
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhZERCsYAvZjeVZjVckvLq6b4iRNaDqW7O5QknTJUpSQ78ZrQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPespxoBJcp3yR1KeH9Y7-ORFkZLguK4WSQEmtH&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPespxoBJcp3yR1KeH9Y7-ORFkZLguK4WSQEmtH!2e10!4m2!3m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd
+  - name: >-
+      places/ChIJIZUWSzm5woARzaoAjz2vPSU/photos/AeeoHcLHQv9Z9shbCVFr6uAAKpfqRQRUQ0vhPuq7JtWqcyB2SkEJsr9QOpUlLGdhb1_mPvJN1eAydQsdEHgZWZ5vj882txrOI-Qb_y72bsazzqQGUcvQEder38eCRJhK-DGB0ntq283pKZXYIZ_VHZbvZnAMhPBdhWUM1VvTTgnE-N2HkAQ3XZLalkiV8dwfoFTqbFqcoWn5gWWJ8XO9uqBdet9h9Q8wNGLLYVATve1JjQr6QwiNwCy8GBtvv9dhEbXuSUTstgkNmWLzzBt0DXMjHpRhuzmbzBzgrACokHcegc8svV5GUI5dj5N996iNX5gqiN6N50_AX-7IEhx9Mc79zN0_-S5KcB_jJNSCKv1d25pCExjlQRVR31CDj80pBk1L8Qxn5B_WHSKAtUHfIXAVZk7DOp6R_i3Fdkb2PIzHWWROCS_4
+    widthPx: 2160
+    heightPx: 2160
+    authorAttributions:
+      - displayName: Ailin He
+        uri: https://maps.google.com/maps/contrib/100516226178194068584
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU17OrvcZtMqsdFcv6j6Y28vyB755XC2f9FRwl0RBUMLRpybWzD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-4dX_jwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-4dX_jwE!2e10!4m2!3m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd
+  - name: >-
+      places/ChIJIZUWSzm5woARzaoAjz2vPSU/photos/AeeoHcIDKMTY-9ni-KYHKR4UEXJa_9zWxt34r5peXwrkjbYX0XJRDziF-FVj6gYjOGi1lOxtCw4FlETalEvs07Ly-GAdeITIZGr5WUFivbhXKxZknFlpa2BFMNkYpSX2mcyZWaWRoDohE5-1xn4iHg_BqwAJGHrAV4fAmIxfSCiXuR79XdiUt8vbFTtyTsR0WY1ESX0olgz9mJ9EYveuVc0CDkuaTSyFnDtwQk1KEAuCwJW4xgG6EpkRjD9ojZYFHWICoKW2GcB_yWQB71oF8m1MyrM7YqifTNWiZbI_9XB2B-sL6DUJ-RlKzxioB0a0rguskZHtS3PRIyQR_wlpBEDdpaWYDVIyhsqxp0k8xAB2w8Q81qyiUc5ZqyXiriYua5PGGmK3j9srAFkncy3dCeojXQ3AKaSZV62jNbfkkFSI7bMXxfMP
+    widthPx: 3060
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Happy Happy
+        uri: https://maps.google.com/maps/contrib/105585135690878874994
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXuA6HaNeMhiCtbTbQOvJiGlQscgL9Y2ogvTP271ocH8hebV1o30A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj9Iv86QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj9Iv86QE!2e10!4m2!3m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd
+  - name: >-
+      places/ChIJIZUWSzm5woARzaoAjz2vPSU/photos/AeeoHcK-1tYl75Uiq7_9so7ZesYvfwUWmx6KcbCpGzDEa9IJyYd0owgONDjDDnvSSPKdis4vLR5qXogApnSibl1rsWzQfWPeYX8r2KGmguzvVbqcqkvkXNbBF3uu21CBdErXhnMBF-GD504GsGG3rgG0raxQxzowJ3hY3bF9ibM6B8bsE4kpTH9TVhyV62LN5wzznx5RkIJkmLdpKHLyATvhpvrA8e9tUsYHAzyrMVgBH9p3Czr4SX7LDOWcVDFwqTW5_vBWZIL6B1b2ttrZ1336EswxE-S5A9FiI2rx_3SbTa-HlsFUv3pHNpJLAIi0msdkYPVuURsa29gOjKvOpNFJcg_kB96skJe_yM1T4_GSR2NUTL46hYcWtPqrUC9caM9lP8rHzNfNmrc8eisgtqd3zp7t-PcPjMLC6pgl59GwNByxQA
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Mary Born
+        uri: https://maps.google.com/maps/contrib/117481652557883753938
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUCwT4EY8TClxqu7-kPBAzCyePSG8DvKJS9I8vp7BgQjYqhmPY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbzMuRIw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbzMuRIw!2e10!4m2!3m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd
+  - name: >-
+      places/ChIJIZUWSzm5woARzaoAjz2vPSU/photos/AeeoHcLfgTRJBSdsXFE8NVns3cHHaze2I0VTwq5AqSUFIlnJUQ8W6M1yzd8HR4ng-3An7aDPUV80qXlMerP6VK9hQ5Br75pn0wRlGQei25QSvXmbg-NhqHEzz5YC7takuANYNlg--OCuzQbyxq_yXgyw3-7Q4QwDTOZ8ziej7mtVif3sTOn0kwehJzU8Ntgwo2TRArBwb-U8728R1ck_0upO5-uakrCyc9STKdiw_xofd7hoaqgJ1SsyP5Iq1uvbSBSng8g2jnZ1nQT6EKduuI0V2zwPJwnm4Pfp9FSAjWv37NqsuMT9BSO94q1JHCC01O3NWn8nMadUN-3MaOeNoplzWhsmlKfiRy6dFMDNcXzGb0qk-rREYMok_9psRKMxXV5l9wSn4kJwjAvHfm-JVnfzQmqiAw_l4O0dqVV3neHrsvWSEsmj
+    widthPx: 4096
+    heightPx: 2108
+    authorAttributions:
+      - displayName: Happy Happy
+        uri: https://maps.google.com/maps/contrib/105585135690878874994
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXuA6HaNeMhiCtbTbQOvJiGlQscgL9Y2ogvTP271ocH8hebV1o30A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjxMHcggE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjxMHcggE!2e10!4m2!3m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd
+  - name: >-
+      places/ChIJIZUWSzm5woARzaoAjz2vPSU/photos/AeeoHcKzfQDMbL3MFB8ATYXGfJm8E6jf-K3GkL3gJ8e5GYb0CBa0Ii_VorzChpJ0VTm7CVLxZKEEbmn098YPZTufuHpWT-AQVtbpV53ONxAMhtqKr2XR5kFBQf9sFJ-dUeWsBo3MszRRpXOQUSyKSRrbZNrW5RJAwLcvm6TueQRANShUvgLn80XpqjmCSt19WPtj297O8r0szH7wYHhynW1sVY7lJaFA9zGApPpu81DlaxVgeWrg2e4o0bPtsI-_Cs1_ccz-nullZF2JmNcQ7v5WP3s1EWi5Af9EkcvLp85VTMk7ErsekE-uTDXa2i1rHaesClH91hxA6gaEQ7bFa-6FW1_RxRxvVg84tnBNPAwZokv3zL7od8aUx85fFZhqgq2foR_0jbPHZEsi3aDeDRWlAx6MNi6Gm5oAEHWE8Tb6HsF8qA
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Jose Gordillo
+        uri: https://maps.google.com/maps/contrib/105001045743344698014
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVtR3Rz7oelQSaY9k8hJJAbv8h5RgDJnu1VbBHAdPvCRzimPTA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPrKWqWg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPrKWqWg!2e10!4m2!3m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd
+  - name: >-
+      places/ChIJIZUWSzm5woARzaoAjz2vPSU/photos/AeeoHcIyK-n0Dg9rvofrFqsIcP5nXMujsKthjxtr1lLj6lmecVe8qJ78RC0H9_kmHK1ZbJ1ghC2_5UHI4QYLjs6BZc5Tb5nNq5jD8TFjhO30EyUh50b7tAc7qdeCPJMQhb0-OB0Ro3X1ru7KiRm_9rVAKXGl4c4PEfYF03VQ7xRCT5-tF32Cy1TgiOrWqxPpYVax0kEp7WhhZd-A9uZSG-OjLAuXOSrHQX8Kwr12Wrj9mVa_3xTJNcqMQebLrwtqDnBObWg3xQMw8bYboLdGxKknbIBMOdBHQfL-RUACKG7ildMftf-tfSgnDg83JL0FaA-jPBCmX4STaQwT4nQW6Wo7vz4jzh4UnuL10wHW2LMy0RcY6ynFRls_uDWnqy7dDyTvxss5fVRCSnMJV4SfuHmTnfufmBcY0i2P_krpsWIFwRUGjA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Delilah Rose
+        uri: https://maps.google.com/maps/contrib/108944354460906408363
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUB-lFed_6s9VskzqN7KtCpcITOA24y0Z_Nit2uKaG5d5m-_CtmIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4_-nRXQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4_-nRXQ!2e10!4m2!3m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd
+  - name: >-
+      places/ChIJIZUWSzm5woARzaoAjz2vPSU/photos/AeeoHcKDrxO-tkE06GDBE_WazWIE-bxYwV1DrMnm4Qe4IDt03lYZCsfWgXmPsGGaWIaShu3nZD-VsVYMlXMjdog12CDgzSbnz4A-J8rRsKWp7U0tqDxYmoqlItiYjN4-LbvlYPVjLN6FMT_R1VhJHP_Qyx_C0Lo4jPq7xi8JBqEtb8HI9dcAcWcUjU_m2ppPaclTJ-zlpR5fWLv4PmIkSXZkrMEmWtUpRVoiHM9N5TR818LA2ra-kMla01IWoAs5Z0LLGXjA4sePHJUV61zcBj3tHKGHtKrLnl78HYmKTPhFkKVaZeAMBSjaIPWZm_edCvJ7rW8TqiPPn4hdxD2wu5r48fRhTyOSX07oFm8rIzvIWe7STAsMnD2-pw6w6j-padkHGeYuytle6gugpQhKZt1sE0oM9MWjFe1skPFpj-CsOQt6UQ
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Mary Born
+        uri: https://maps.google.com/maps/contrib/117481652557883753938
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUCwT4EY8TClxqu7-kPBAzCyePSG8DvKJS9I8vp7BgQjYqhmPY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLq6zzfA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLq6zzfA!2e10!4m2!3m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd
+address: 6234 Wilshire Blvd, Los Angeles, CA 90048, USA
+street: 6234 Wilshire Blvd
+city: Los Angeles
+state: CA
+zip: '90048'
+country: USA
+neighborhood: Central LA
+latitude: '34.062897'
+longitude: '-118.364788'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Waikiki Poke & Bento
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80c2b9394b169521:0x253daf3d8f00aacd!3e0
+  placeUri: https://maps.google.com/?cid=2683493631909735117
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b9394b169521:0x253daf3d8f00aacd!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80c2b9394b169521:0x253daf3d8f00aacd!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b9394b169521:0x253daf3d8f00aacd!10e5
+primary_type: American Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Waikiki-Poke-and-Bento
+
+---

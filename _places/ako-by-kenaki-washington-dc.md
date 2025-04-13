@@ -33,10 +33,6 @@ city: Washington
 state: DC
 zip: '20003'
 country: USA
-address_html: >-
-  <span class="street-address">1401 Pennsylvania Ave. SE</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20003-3030</span>, <span class="country-name">USA</span>
 neighborhood: Southeast Washington
 latitude: '38.879802'
 longitude: '-76.985228'

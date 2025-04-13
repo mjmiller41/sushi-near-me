@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Takumi Sushi Ramen&Lounge"
+permalink: /connecticut/branford/takumi-sushi-ramen-lounge.html
+stateAbbr: CT
+stateName: Connecticut
+cityName: Branford
+place_id: ChIJyRYKwEbW54kRVDZnagGMVyA
+photos:
+  - name: >-
+      places/ChIJyRYKwEbW54kRVDZnagGMVyA/photos/AUy1YQ0WIWwlAKD9YddDK8TGBzeQvcIm09AJX_KtQ_B1b-uFPNAJ9GRDvLNqwukkj0v-9Nqtz8SQe6HiwT2OZ0ezkJPBy9Tc1vPd2h4qnA0xXaL29zQJ--FZ4Q1PY2LWSM0KDclZ3J4oiu2_V0j1CYsHnFKSGtE9IF9SjkvL1WAeNrrBf1zns7jkLQslf1q4tA_UV8xIE1JouX0-MVgHNxkB_9Nt3zyLMjfu5TRDw2-cNIm7KFNINwuTD4rS7uJpYyKSJoLB17FCmYDGkDR-B-u6h3V9hkz458yyKUDEqgSuCz1No3kPzcOw2FmLlZ56ZmVd9lXVp4HMeHYev3NUHRpRqSsmovzVqFiqQE8n7uoiMcAXGXcdXdWe9SuHeifoZVs2QXYyYn3kqrDXH_MT3Ywexhjz2Kl0lWdIFIB2iqH58j5w6g
+    widthPx: 1536
+    heightPx: 2048
+    authorAttributions:
+      - displayName: Snehal
+        uri: https://maps.google.com/maps/contrib/111417720399731792355
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLAaKqzZi1t2AXn5GDyg8g4srijUL6nnE5fo6UdEcIrMJwIBw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBwpmVZQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBwpmVZQ!2e10!4m2!3m1!1s0x89e7d646c00a16c9:0x20578c016a673654
+  - name: >-
+      places/ChIJyRYKwEbW54kRVDZnagGMVyA/photos/AUy1YQ3UPMZgbwvdfXbtLrW8RV9lrvFW3Uy-W8_AVP-Svn8LCABo1qGbhsAgZdZ-D0VvwGO-a0Ph-HunRtnWSMCAclINfWhlrEilNKnxre-aYxhoMArWklYcKC6a7KYkAxecxnjN6mVC2ZUO4k9XMu-r04U7WJyy4apF4XZYgdJusZcvKlU3y3ZRMqoAkpexqnutgDtHSz4MVPjwqLoAJf9xhv-i84ukQxR68KmjoSvmBQf14de-8-ciZc5qcXW7EwVsSkQsYFtZHYb5Xh0pDJQKMdSA__d93G_HQBLpGV7Jlrt6IfoVnmzsfz9rhGCmjJq5mxOT40OP1JjjeFVMlTJSSj0j6f5MWgGvaechQcDbwc4MHoQOT9-hCROSnbKGmIj5jr0nNXwa0yF9539KSaXaxUizqWBXjwOcaHGGENZ97YeG9uV0rdFM6xy4CnsgNA
+    widthPx: 600
+    heightPx: 800
+    authorAttributions:
+      - displayName: Able to Learn
+        uri: https://maps.google.com/maps/contrib/113554396024188552327
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWmKmuZNN_3ARlRIrvb2ME0XzYhL0lBsQsYXQlg4Pl441ZF_PQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyddmsxQhamesxnAACQFo&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyddmsxQhamesxnAACQFo!2e10!4m2!3m1!1s0x89e7d646c00a16c9:0x20578c016a673654
+  - name: >-
+      places/ChIJyRYKwEbW54kRVDZnagGMVyA/photos/AUy1YQ0q9u3ZRTW6DESGLSQGRfYWFJ2n1u382ahyyq_oa47axXl3TBKeQgcNAO6bWfAjHd5YG-n8e4UOJjMzNpyH_c6k5a93NdtCKEzpmImVVmmhXDGgjJnXaJHy4t-GxjEocT-Qn1pZYz9g66leuCHHrZDCZmM9gQqk88r7u_wewivIyFDT7fgYlh6-h80L2HMvKFJsOwVXxSRA7hvywTIY1R68cMgJihf6UyeT2UqcscZuq70wUUYj31ZFMTCJGhU-LVPahqKFHuabIT4JXgfF3voWxsrwh0Lu-nGYQhxDPLAunA
+    widthPx: 960
+    heightPx: 720
+    authorAttributions:
+      - displayName: Takumi Sushi Ramen&Lounge
+        uri: https://maps.google.com/maps/contrib/101013028380436843082
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-nuYHIG2OeN9mSiAfal61T8KzEPn01taMViXE_Hdl1ixN_f8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOWXibbo1uw9EVjRMQ5j9w6WVZpiTs4gJ8NGN5z&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOWXibbo1uw9EVjRMQ5j9w6WVZpiTs4gJ8NGN5z!2e10!4m2!3m1!1s0x89e7d646c00a16c9:0x20578c016a673654
+  - name: >-
+      places/ChIJyRYKwEbW54kRVDZnagGMVyA/photos/AUy1YQ39DVi5n2WaTzHQZ8gpHW9skUSz0PyH3rbORyvGp_z2dSikbDh9Rjla_Qs8YAFGeChPaDWDi9bZfs3lPL6X0lXIruj3UXgJ5HmiHRvfdFwKD-YvFVYQ2F4OUSHGK7enTa6tLna3nTkXjnvFVjdaRtYlJbIuu6auV6Guzc6Z9_8dMEUsZusNtG8h4y1y1VMjLWNZku9efzPYLFJxDnW4LRjNfW4VwDYymhUXoeUPImUEcmCaDGGRUMLv37NkxD_fb7Nvzp4WUYhoi5huFH5j5SnJ_xN5whR0nepp3bBdQt95UT2kouMIs3_xdxwAjeVcWJDuW-URoDFnDKP-Th4D5gVZ7gvxf9wzbP4eJovFn8cFQaysJt2USnkMvDleZU-jXW4kv-INo_rr1LNj6aEpu4N5ZSf0DwTgKq5KibVlV6PlCZqT
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Carl Friedrich
+        uri: https://maps.google.com/maps/contrib/104442211485234534219
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWUMqgCW6GHB6H2V97sXM0FVBFH91H1HhnROaP-PQIDI2MnTJEX-g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDVtpbQ9AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDVtpbQ9AE!2e10!4m2!3m1!1s0x89e7d646c00a16c9:0x20578c016a673654
+  - name: >-
+      places/ChIJyRYKwEbW54kRVDZnagGMVyA/photos/AUy1YQ0wAZcUyD105yZTY5BOC1aXe_Oxd5kJrTl_1ZP56fdYxi79uE0r6YGgZ0j54AMvhQBjCHJZTe6-kb8d2bC79D8I9OQo50Ji6cCn62Xi3OcSpP4DKhqycY57kR3qdEKySEFAQKAkr4XN9ENwbjjKBh2_Am-8BlpkPkd56KbgmUZ1zIhvvwGQojZH297sx97iz_gVoXO1XnxKZASJ9JJP6eoqAFkU0l_4O11wnu5tLeStpq18yDlyWP8E503Q5ieAwvdHw6Shi0AgFmKAnHk4ZVgjcI4wo4tE_FbHSR48ke1rsWSPEeEHOo-qwMZAzgJSLwAqQAkAiCvgk820RNerleevTSyt40r-myHNM5K3oYw2_ExAxRS_kfI6Bim42Dw5G21EOW03TaFXujharHAaNQIVC4HD4Ivu2TJiZVpzZUo2FiY
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Nicole Bartner
+        uri: https://maps.google.com/maps/contrib/106372063228599665437
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLsuojVpbO9YQwrR5hbsWHHdTsgjL8embwhFihIIDu11yjHP4lx=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR-YLXhAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR-YLXhAE!2e10!4m2!3m1!1s0x89e7d646c00a16c9:0x20578c016a673654
+  - name: >-
+      places/ChIJyRYKwEbW54kRVDZnagGMVyA/photos/AUy1YQ1PYHX0nw2s8IfMWChKAPBCkeBkoTroWxlj2Q1M6xY5L-RfL4S4VvIIm1OyGze9g4-l6NBUl3I0klGyTVFbN2VoxY8tvLiRpsUcXY-VP4ztbA3YAoyVd1tglnpafyV_mcLxSZ8xhi4zaYQxiVex5tOqJbUl5MZst7y_Ahbpbq8FdpLikSegBR5s6svEJMiuqCHrX-l2g1reAmt5Lt1dq_Mk6TeTTsKe75Z1JLFL4yRfKz7i_i9SZMVwMpall8P_w8VXTYe6TE-QeOGTpNxHYwmKY0wLWVBPCwTrrklEOrj4V0eZ05xvPrDvQCxUMIJ4uzX1ecamQ09X4R5BlUgIodAzQcj0_61f7bdd27l3ocCK7xxQYde3GTcmbnFtIpQ2KP3HyQT8sUNBGa-lN0g4On62cGaKNebgeJi-O0k7MMlO5m8G
+    widthPx: 2048
+    heightPx: 1536
+    authorAttributions:
+      - displayName: Snehal
+        uri: https://maps.google.com/maps/contrib/111417720399731792355
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLAaKqzZi1t2AXn5GDyg8g4srijUL6nnE5fo6UdEcIrMJwIBw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBwpmV5QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBwpmV5QE!2e10!4m2!3m1!1s0x89e7d646c00a16c9:0x20578c016a673654
+  - name: >-
+      places/ChIJyRYKwEbW54kRVDZnagGMVyA/photos/AUy1YQ3kMpEZXHr3uTNMg1t07iAkkxiKo-uCuA1Se7IfR6x0WvtJ_zAKx4ubv6PDRF1HQDJQkzLFDtKq6fNOMP5NAoIWPtd64nHmsazypiNM5d5VLvCKkZok7PcoRuc5EexgK5s2M_qyDwFZ9UynmRePLQ-KABVrvAGiP9m4sl66wnzc0-iwwqrlDGHyOtcY8AbCU9nVADcCrMKQyyQ0-qrrVVmNn0kgnuoo_VbjpbDzVqwUtbvs9sS9MU81_31_kxLyIETc764HeV6IvjCMT87T-0v8gvTTxgq6CbSTWB2UiymgkufCJKui7A_zClR9XYl2Hv6eEy0e-hh3d0SSI5wJO8R-hNkJsvHeF8dQxEqAj60vlzWHE8gf2GQGRPdSun7aMQyJp45fHciEvgukg72BeGovNFtCUVvozNcIm3igg5k6wFSj
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Bachelor
+        uri: https://maps.google.com/maps/contrib/102557785514823193763
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKArS-1OsG8yniM_IRI9pj4fOOpcC1vURKTInvWxoc9gugADA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJ0pzgjQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJ0pzgjQE!2e10!4m2!3m1!1s0x89e7d646c00a16c9:0x20578c016a673654
+  - name: >-
+      places/ChIJyRYKwEbW54kRVDZnagGMVyA/photos/AUy1YQ1K05apihu2AZl9_dVVGyrSH2NW-816FE7_pVAxpDfpERVkTM_mRuonadF3RwvVO2GdcGJQAG-HxxfG8MDOvaUipDPvPmo0SFNldXYCJ1zCo4A6XE_qej6dwB65M97cPxZJELmVlnv4OYlzG_f7Gvv8J3YN_ZglaIVDe2yHlxri707a6h7A3XrQ8P7Rx_NML92Zzjsxws79wMJfjsMhZC2T60mKhf0h7Imd9N5yuyLMPiZGB89UMS0bUuqp7yxWo8BqzGWAinUDqwEmCmZcKV8IlJtXQnLy8-LZHAXW2ILHGjbrw182JEhfP8bwsDMG-4bUkhUYvJIiQ8776KUX1rMnzjkYa3lyd1S1_n22Vcp2fVGVDB5-pJZ4h78KZIjsL7MvtMzwXxCMqezrtCm7TTSGlDcqr3mYXcgzIhTz69-Z5A
+    widthPx: 2048
+    heightPx: 1536
+    authorAttributions:
+      - displayName: Snehal
+        uri: https://maps.google.com/maps/contrib/111417720399731792355
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLAaKqzZi1t2AXn5GDyg8g4srijUL6nnE5fo6UdEcIrMJwIBw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBwpmVRQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBwpmVRQ!2e10!4m2!3m1!1s0x89e7d646c00a16c9:0x20578c016a673654
+  - name: >-
+      places/ChIJyRYKwEbW54kRVDZnagGMVyA/photos/AUy1YQ0XKTlHolD03vtsvYbRJnPl5UUFiNgVOj2prSdGFQB8igpjMI49DNarEBZjs70WuJK0oc_ofXh4UwgRTpntgA_-NRDQuRM-8rsi4mWXNgS9bCqL78op_PfPujq-DWRN_08_UR4SjQxd_5PtydSM2a7V7prMt9Wcl78FL24J8lxIM9JuYpy7zMR8J0d4yq1vIFYmYnlPAQiFYriaxvK_vbELgfD7okh9mtFV-4urat3PqWGEPr2TEEfn2x1irSEk5FGvaqAztwiCSebgiYjdLesVyRBGtgKpPytzjgUvC6pYWnKU12XDWKUrwJJKnDIDygrx3nsricmKREUhgZcGN0Isb2R_DOzbWGEE7i0Gue-Le6NEFlbR0RVne-C1ZwfOiuXc-JCv6G1R7d90KEtlM7VsMDj_P19YC1q-j1drRkJnSw
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Richard Chan
+        uri: https://maps.google.com/maps/contrib/115515446594534370821
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJe49h5BmZxB7m2qI-KrQdXwJl7WVn65c6ehvqKDQph2F-EmQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICF24XkIg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICF24XkIg!2e10!4m2!3m1!1s0x89e7d646c00a16c9:0x20578c016a673654
+  - name: >-
+      places/ChIJyRYKwEbW54kRVDZnagGMVyA/photos/AUy1YQ3Lg0_dOEbOikf3IiFLi-X8BJo_OKFr7m9IrtkNKsL7-H-5LA3ODHwTTiI7jlMdJmvOzMBgx_KQvBWRklf1HgfMr9xTY6S7Du3egacOvt2DVheLwb77Tm9VQpyvxBUDWKb2VxeLJyi1gyptbo9GGuA-YHvxmYu7Q56t2bgT9saQVLYF8qkUdV43En_80UiwukK-3O2SgCGGDa1bzsrBuq2oyWH6KAorQvOivbnIdtf3dyeSAup2yGbR6FFkR5w-W26tFdg2yfuUA5uEdFIWCLutX8wFc_jQURaQJtWXokgXGwjFLVY3TZCrbVsONMKzOSVZgBeIB1wV2Dh5yqxnbAfsNQUfnYBZycg_Cp0iOIJ0NBeFaTBU9Sk7kGYB1t7w5GrH5A3UH8IN4BF39WBkJl55eDsh7lHUSok-rjXM4g7F4g
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Nicole Bartner
+        uri: https://maps.google.com/maps/contrib/106372063228599665437
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLsuojVpbO9YQwrR5hbsWHHdTsgjL8embwhFihIIDu11yjHP4lx=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR-YLXJA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR-YLXJA!2e10!4m2!3m1!1s0x89e7d646c00a16c9:0x20578c016a673654
+address: 906 W Main St, Branford, CT 06405, USA
+street: 906 W Main St
+city: Branford
+state: CT
+zip: '06405'
+country: USA
+neighborhood: null
+latitude: '41.276498'
+longitude: '-72.835215'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Takumi Sushi Ramen&Lounge
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89e7d646c00a16c9:0x20578c016a673654!3e0
+  placeUri: https://maps.google.com/?cid=2330485269895525972
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7d646c00a16c9:0x20578c016a673654!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89e7d646c00a16c9:0x20578c016a673654!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7d646c00a16c9:0x20578c016a673654!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Takumi-Sushi-Ramenand-Lounge
+
+---

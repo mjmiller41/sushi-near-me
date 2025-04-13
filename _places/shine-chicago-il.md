@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Shine"
+permalink: /illinois/chicago/shine.html
+stateAbbr: IL
+stateName: Illinois
+cityName: Chicago
+place_id: ChIJkeYCnhDTD4gRMuyYRceos4Q
+photos:
+  - name: >-
+      places/ChIJkeYCnhDTD4gRMuyYRceos4Q/photos/AUy1YQ0PzSTVP-9804aFLtMqYQdSVyGAncVMfTNXO3EPb40Vh1H4Xz45wiRPMNAx7MnUusOhHwiV5S5RkmxbjMXODj4GDw2IVtN_P5j_YOpA_HDn0G7FgzvZPlKBaoDzkCDTFg4vJDWmiij0vg4ANP7sUG0zcRLutI8ZeP4Yt3AkHdWmviEi3Ffsi8ZreE85V23UAN7yS_mU8hIOi8t8P2oy4Z5hwtRn8nHfx7KE64bhU3Ylf2k9o3ZPBMllwmMUd-YKprdBwQmSYpFv18gKWmijigH0yPtRrxI8SUXhOTTqUkY
+    widthPx: 1080
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Shine
+        uri: https://maps.google.com/maps/contrib/108026533961069082897
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI3m2vpOAg-LAJbDyTo0zykGeFB24uX8_jAoXPuNGaSaJfR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP0T8xCGT4hrp5lhhvc9-va0GUvBPQQrZsJY68&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP0T8xCGT4hrp5lhhvc9-va0GUvBPQQrZsJY68!2e10!4m2!3m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32
+  - name: >-
+      places/ChIJkeYCnhDTD4gRMuyYRceos4Q/photos/AUy1YQ2VghudHAQ2XkvDyyhd1_9AJ6udzFPm6FkCjrdqV3AgsRMaUp5ukZDDLNcd-SGD8Y7sRew90mPfipXTP1wpjrJdxzu2sd7aRSZBxigRLTXm9-7Kq6zHQ6Ej-HiDPJX9Lt5Y7RsXeGHAotSubGWFbosYcgVzuDZ9TzrYodz3ePaanp6R3uijpC9ClV4MtA6DHo28aOMFs0QiFnliOsTJdVWpgmSAj9C8J6BhMpHRyQEeSwqv1IBeFstOGpW8kx7CVXfGycuzHKPijBVqgFfX-DWnKVDR8mT0jAPTxbpSmrw
+    widthPx: 1080
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Shine
+        uri: https://maps.google.com/maps/contrib/108026533961069082897
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI3m2vpOAg-LAJbDyTo0zykGeFB24uX8_jAoXPuNGaSaJfR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMIUvpOeeKWq-mQIODC8PtJqgND4H1N7o5m7NI&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMIUvpOeeKWq-mQIODC8PtJqgND4H1N7o5m7NI!2e10!4m2!3m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32
+  - name: >-
+      places/ChIJkeYCnhDTD4gRMuyYRceos4Q/photos/AUy1YQ12A5eLI4DknwCOYybe-2Xvkl3RqyDfk11fH7bYxCdp2Z7-UsshCrWMWyOoipVBYPEQktORxjR83mypGBbTbBJBxFm_iCLJtqNJWjCHGnsZ2Jfu9Gs2z6cUZRQsZZv6uhe4n0R3du6_am1jjPK5iE8aClVKThLG6Tvoivnczo175H7mH2hpCzXYeZqxHtF0794C_w3AjB85skxM0OCTKhz9KpjB0zCMGxyjntyeQujx_vcfabAHuGKQTxBnyk6PyQ3gzSf_6cvhTO5IXSqia_xbsGztO6khNyc0mMHUgV0kVwl7pYIGtNz2juDguvpTk4vEcDIsdMpg49RvL3AMmZbrXWkZoE0RHjcuaIrKYVTqosUpfzYArRAzsviNKjGJXc0cjNaO_Dkkwa5IfjmSW5IsdR9glRddDzhh2BJaaV8
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Jenny Jia
+        uri: https://maps.google.com/maps/contrib/113658377549116709973
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWh4OGjDEGnUBX00lzV3VbXkYwHXg4OBL0qcBUgvX4IrnCmRtO41w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID72Krpdw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID72Krpdw!2e10!4m2!3m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32
+  - name: >-
+      places/ChIJkeYCnhDTD4gRMuyYRceos4Q/photos/AUy1YQ18KsAlmRSOKQGFsPJ1R6ijwEHNeQemcuaWLBBW--TwK5cZnMbmEh5y3E_0nUlw7oR3Ovg6y5rKU31J146GdyRafBpIdoNmzfDYtlI5FJX_ZbAun6UZz73DGKzysD9KGCoSKuHsY7pwioOWEAeHytJbuudnswgYpzmY49ZUhNfbCBFw1jT0mfx-Hf_gtN37tIcyXVzfnFQUR0qYJWRsQzJefy1JbzxcfjEy2V0SjPosGmpGakExPodLaE9REh1xvduKNZSOF_J-MYAS8OYFezy8vZH87lowOAOJ_-xuweQhT93s12qm_WWVFd-6ygN3QpTBRysreVwZe7ZgpUH9YcQH9-Hm2MDWH5x1iVaft-W1rU_BUmR8wD4BGludLEqGor-LLL2ssbzZHeimEMzHiJ_4dXXnj59y4r3AOPrkRg78LNtQ
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Jian Ding
+        uri: https://maps.google.com/maps/contrib/111832471543387798633
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJAEpValswuneKvV_FDaZkINzqAYaUmE9V1p5PG3X9eoieUPA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7t7CH-AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7t7CH-AE!2e10!4m2!3m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32
+  - name: >-
+      places/ChIJkeYCnhDTD4gRMuyYRceos4Q/photos/AUy1YQ3SuJ2tnJpta4aXGgz5qO_hmLndDCttjXqECKlbruOw8k64WaFeKJSoVJIgxu4S_OKO1UXiUDGa4EXal5AZwgr8QPx9oEi460T7KD9LoA-lrcKB19rM3V1vpYXGn4vU6m9bFwv7rj4Mz19Nj84pJlpvWPkTNZoCBQHoPpYgpdvDlmykT5qSuV-tis6gbUJERhjKEP5lUyDNPA1ecHoLhUYLINmFFqV4tNBA-yUtAFyotLAMGjyoxgP1vWvgjEH_cgSdQW4dGOCSenoFynsa4t-JWOFvN_1naNuWS7f8IqJ8n_Uq4WaPNV3oKotSXoDnPqafatlFDga2GE75sl6iqW5kKq21ZNOVZXWu8WFWAYMas4QTb4yK4us2aTqahJzmEYMwkTIRCXRgqhDZcUggS-d_7wPjI92Rd5g_Mt_UdH9V2A
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Jian Ding
+        uri: https://maps.google.com/maps/contrib/111832471543387798633
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJAEpValswuneKvV_FDaZkINzqAYaUmE9V1p5PG3X9eoieUPA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7t7CHBA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7t7CHBA!2e10!4m2!3m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32
+  - name: >-
+      places/ChIJkeYCnhDTD4gRMuyYRceos4Q/photos/AUy1YQ1l67GsX5noYKDNtqRuk7mBuT0VaacOX8il1bu468R-rMb7w3jMynxNc3zmEUSX7yFtGnU24IkuPLziQTaXpgJIUnphvCzmddiRtOYyKixmLZTBNKGdnZYDbRidNRicpI_iySP7-MSmPF1U-noJR4atP7xVO3KsKQ67Ur3Sl-5HoJAozr9iS9JxyFY4E3hCwmoL29xWh6FaAGJle6C8-0AQFl44wXdC7yeh24uVm5aKQVR1efb4ApYZ18TdETG8n_ezcbLGDhWv-o-um6WTfXMNS6Tj7ApjJ80zWBbVRzYf3VimtvkXz9azHr0dfc9sWoDEwS5exSCIN5wTuvRepmPNNvz85Quiehs85AIEj-kZhXHBwi4m9ofenisnth2kanhI2QIfKXDJgc6KulixqtsNjNQlrmW6VWqFaNfoKy_xIX3X
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Carl
+        uri: https://maps.google.com/maps/contrib/106682198544443436321
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUGXxCKSEbKfz5pTIrbPmztGcrZPL4HoaR8np0tpFME22UvpPhlkQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj0N3j9wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj0N3j9wE!2e10!4m2!3m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32
+  - name: >-
+      places/ChIJkeYCnhDTD4gRMuyYRceos4Q/photos/AUy1YQ2dsxPswIyvvQsXmncgGj_2xVXik6YwEJg9MyXPWOTwu9GN4REqwuh2kV6C5BpKO3ThUMjaiOMb4Fu_pQslIZd3N7iQ4AhTHQZLop8ntLof4tapxZ7EdzVNIleHhEaKWSZJQHhT1fNokpgEmwtCQGoDpRotWpPt6bby3X3ryMmgDfl9JaMZMfUtlxS8NgS0fWAR9G-_xk-6tITprO92_tuwUI5HU5p_t1u7nuWpa0ktgMpX3P82Fsi4FQA_N5uBWK0G-FL4vUQwPD9y4g0AeSfMc5jAiyyf3hcB7SRMkXQ
+    widthPx: 1080
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Shine
+        uri: https://maps.google.com/maps/contrib/108026533961069082897
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI3m2vpOAg-LAJbDyTo0zykGeFB24uX8_jAoXPuNGaSaJfR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNDBSrqrxj9O-cm61Wz6Ju29mtQ17cmKLUzyrs&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNDBSrqrxj9O-cm61Wz6Ju29mtQ17cmKLUzyrs!2e10!4m2!3m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32
+  - name: >-
+      places/ChIJkeYCnhDTD4gRMuyYRceos4Q/photos/AUy1YQ2jxUnatnTRJcvl45I5XfPD3RtDrofQ7xaXZbi5bVt57wwVZRqQBvUx0-ASZNf4jD_IMZfAYA26MLKGrazlf3KezPzVuKN8AUwuO6t_JwLCjAXcmC-5f0KfCL7atAR4D5OMvPf5ty0O5XjbG45mPfd8pBVN5UVrZQKMsi8vXKdEWH2590dNN8dXgqcP1a1KRGJPDpbEJYdHktGpb8UnZW_FHlOStoENzgx5mKwIinkXml1uA-0XtX3NSNxkI76dffFUQUafQvxtWezCM8abIrWX0vZFpPrBlgYJRyLeaZVNCYEHbsBjZ970msQ1X44h9G9vwzxVsqUY5_S2yMkPoCk9Jdyz6VIFg4lhgTBTg6FpUizv0B-NkPW6KeaYFHthG44lPycInCyqE4pP5CwVOmpUKqU4WW4pPOKc0Yg77ec
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Jenny Jia
+        uri: https://maps.google.com/maps/contrib/113658377549116709973
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWh4OGjDEGnUBX00lzV3VbXkYwHXg4OBL0qcBUgvX4IrnCmRtO41w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID72KrpTw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID72KrpTw!2e10!4m2!3m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32
+  - name: >-
+      places/ChIJkeYCnhDTD4gRMuyYRceos4Q/photos/AUy1YQ2Xxue_Z8yMU_SSeHEL7wb7C_ETp9SOjD74BH_vR0rRDRI-S3kNT1PSk3iB9br_ryTlr9eWQ4MLGNhvQt3ECrv7LcTjKwnq67RNZ-jKLY9DLqr-B04t0UH0FfZbRJjiszNUOJov3E77g72hxfTW7Wnenj1jRIx72lYY0L3fITGXrSbQVZPshT2bjoZOYbh8QFGiia5duRlHL3itZg4K2wct-mLdu4FnN8i5nIcdP2S6BeHrfAhjfYw6N0tIagGzqDkaSwFFnRu5iaJ0z3RsKdGzXzs_SRw0-WjPBxjDTug
+    widthPx: 1080
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Shine
+        uri: https://maps.google.com/maps/contrib/108026533961069082897
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI3m2vpOAg-LAJbDyTo0zykGeFB24uX8_jAoXPuNGaSaJfR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNwDQSQSzDpuknmOWVpERj_mcJuM7vMJG95p1E&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwDQSQSzDpuknmOWVpERj_mcJuM7vMJG95p1E!2e10!4m2!3m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32
+  - name: >-
+      places/ChIJkeYCnhDTD4gRMuyYRceos4Q/photos/AUy1YQ3qQtc8wqJZ8p_ZOCh3aVCdCIZIqunT8rGahw61Z-o4AGfTJAPwP42OjZkChZWDYUaysj2CHSyGtPawxug6vW1t0ul5VnQEZzWXkeQ0P962-7SHYRUj9meVPlMKnRnrjMuwwoxBTp7vHIulkb7QVWv5VxBHzvtOo1sm6L6LSVwNvQ5_9f4xQ35Vi2Iffk0riQjOpfrZtXO79fZ1ZTAD2DpOzhDrNe-TCIIYw7_1eCQJyzd7dEV-GOMRohnxmMQmqQNnbWHFdyICGd4I6LzouJwZSWC3RbmP4h1USO41UVw
+    widthPx: 1080
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Shine
+        uri: https://maps.google.com/maps/contrib/108026533961069082897
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI3m2vpOAg-LAJbDyTo0zykGeFB24uX8_jAoXPuNGaSaJfR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNYZgyaoFRfiPiG3LSXY8MnUU_wLl6eZ3_ACD8&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNYZgyaoFRfiPiG3LSXY8MnUU_wLl6eZ3_ACD8!2e10!4m2!3m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32
+address: 756 W Webster Ave, Chicago, IL 60614, USA
+street: 756 W Webster Ave
+city: Chicago
+state: IL
+zip: '60614'
+country: USA
+neighborhood: Lincoln Park
+latitude: '41.921937'
+longitude: '-87.648401'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Shine
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x880fd3109e02e691:0x84b3a8c74598ec32!3e0
+  placeUri: https://maps.google.com/?cid=9562172007657303090
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd3109e02e691:0x84b3a8c74598ec32!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x880fd3109e02e691:0x84b3a8c74598ec32!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd3109e02e691:0x84b3a8c74598ec32!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Shine
+
+---

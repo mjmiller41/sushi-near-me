@@ -1,0 +1,210 @@
+---
+layout: place
+title: "Chopstick King"
+permalink: /new-jersey/lake-hopatcong/chopstick-king.html
+stateAbbr: NJ
+stateName: New Jersey
+cityName: Lake Hopatcong
+place_id: ChIJEUgkT1Rzw4kRk46IX9qTFZE
+photos:
+  - name: >-
+      places/ChIJEUgkT1Rzw4kRk46IX9qTFZE/photos/AUy1YQ0tjKYUabivJa_ZchsYBw3BezeXxpukeVCtrccYuK9jxsOpGwBIOAJGWBmRAIMDNjQaAkGFcjFKto_aPTzTy5rm0RIff121vYvkj_6psMmA19ECxhKJ_n9U7no4Wb58SyNCWu9rV8x45lkbgD7KmopxyFJiMHrSAFq4r3UzrAMcwGcsmPBoLO6TfK3qYgExMBVd81J9BRbkswV-9MQgL3LyDg_59pejjeGr0AlzxOdtniPtiqMhBUJpUi1gdSp8V30meZDT4fOfM3sX29w_PGindqoc6lqZNdt8VFLzl2o0E9geB0kZYTZYyQSp_oiUiryNWB6G3gZGLENNZcJ1wqxorBIk5mibVRTowWc0LR3TE6YyHB0BkrD4Wc4K3aLpmkooZX8YbicmCDlhHF-gF7wMMwKsB7UBvQKxjidJt9SD1joH
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kostiantyn Denysenko
+        uri: https://maps.google.com/maps/contrib/105996353036301895706
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVirF2njseWYVn0vRjX_Xj8-PxDStnjJ40Q3kEe76s1gYrOwP6V=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEgeiKrgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEgeiKrgE!2e10!4m2!3m1!1s0x89c373544f244811:0x911593da5f888e93
+  - name: >-
+      places/ChIJEUgkT1Rzw4kRk46IX9qTFZE/photos/AUy1YQ28X5yVhMcHlafzUmkiiiihPFtjTxk6hPsPSSBz1VY92mR8OuBSsBHsmLzcibYVyELJcDqth4GwLQwshwin63HXWU8tsm99HGxpUwSrd9QsL17iV6ZrYz-H-mM1kpNegRT__bZW_su3fQNCCwWbcO3wCbOPymKqD-EsoWgcZljqcMyglWMJ9-nMTkTvYzTzC-PjoC6pJzjRJ5DMQVo9kGXL8mpogzz_OI2GBRDBX19Xdh8sxC1pEVHj5DMgXbBULV1gXqDLavhykbhe9dClK_nsmBw3HPeR09EdMN1a0v2cpvoelKb7SENDPzfKecdPVKbRMZ9ybEUrNdhvjyNivqE5U__MBWBiCnl9uH-Z3zAh4S2tba5Vpzxx7Kx818DnaXoib_JNoCjDQlS9HW2mSPwJU9KFiMcF-B0GTqkgNbretNw
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: Enrique Chon
+        uri: https://maps.google.com/maps/contrib/104094669479678565183
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUdaUlOYxkXWJaeogjDdntCPYtUxzH-2xAlpFy1CVZr4M0Hyku-nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMzJjQ3QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMzJjQ3QE!2e10!4m2!3m1!1s0x89c373544f244811:0x911593da5f888e93
+  - name: >-
+      places/ChIJEUgkT1Rzw4kRk46IX9qTFZE/photos/AUy1YQ3vjred9aDvNsQiawzZaRy8VHqPtvMF9wuuU9CHGowQDP2CDbS-VGzcPSraQp0c1lSMa4TJYFTUi1VPjmTaT2akbjCWJlIRjCd7FfEhZQuZNWbIp3KXTI4HCPajMxqCt6YdISNUVUPMwGlSqXlZaHAyfeJdPjFsIk8vYMXHD3ff8-BtKPUagP_iD1heTri-Js4ohSAOZy_xc6oUt6RQQOkFPAIGx-bymxmaIO2j7MokT8uLA5nvjGdcRtuq_4gCYtj_V3Ad9B4bcv7i3YzBAaQDj_NNAF62WuEaDXFYmDwHnLv-8o_GrfTE-4woa_hKmyaTqUOrm2EOdHG19OmumkqQg8LmJ6vswXmEghu_uddMT-MoHQPpIw8f3kZVfpNd6bmb6S1PG98OBB6_Ic6HijoelLaJrBxC01_l7lV5w9nmdmka
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Des KF
+        uri: https://maps.google.com/maps/contrib/112342706968952739677
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXTXZZGv3H-Qc0rEGXnkZ_RbxAYMVeL91Ryhi1wKGGZL_B97RUr=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB4eX0_gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB4eX0_gE!2e10!4m2!3m1!1s0x89c373544f244811:0x911593da5f888e93
+  - name: >-
+      places/ChIJEUgkT1Rzw4kRk46IX9qTFZE/photos/AUy1YQ3YgqtYfZhVAjto_R_Mm340OCgEyND1RtPqQ19LQaiVheNFjVx6rtDYDAcSR4yiRF2iJfOkMB7JIJVe4k2SOJZlDNkSzZNlfzJ9I65GJbuzUSrXoMhY970XtVBZfRxquzUAYHnLup0EAzLR-ZZJoYV3PMqx0YsCZuPo5mWUyN3XpYg_-4JxBCGrOb43YW6DiIh3qcGYSmabTo1HXk5MlbhAuywkisrFxm24XbsToS3liA0RqtMeKlnaK_45K-Ff0aSSlSaCng4I5NK-olB0Ml-naFP1ejLgnOkNIFv_gx-iFAgHhdnvgzrUCsl_pdhwEV5uAJCtFCT0Tbsa0l3F4ANdxKO8_9H-Ukh5J3HVSzm_DGkB3GXtMPKfRe8fJbv6YItQWJRbZez5qdQoH5ZzyMoO3A3L56pGIfTJQWTlROkvZu8S
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Annette Karlsson
+        uri: https://maps.google.com/maps/contrib/102974342956167622513
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ-uuqdFSRMRZRVi2vhFsr3dMSsQxQII-_O2lri0PJgBrDLOg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb56bx8wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb56bx8wE!2e10!4m2!3m1!1s0x89c373544f244811:0x911593da5f888e93
+  - name: >-
+      places/ChIJEUgkT1Rzw4kRk46IX9qTFZE/photos/AUy1YQ3y8ziSvxYlTABD_E6n-eZxO1dWMvp0CJFCTd56fY_a64ahidG9YzHE7ldn1VzBt6oBF1bSPMdnSpP4n7UNfpw3MeA413AiCrBIQT3DR94gvBV0aqupyAENWZsj4v0oqDEtYpI2IdiNXT9sCrNs5sfxvaCUWfGKIsDJensPbD1jTaHTy8MGL5HHtXTaVQGupIzMfjTz6FbWEX7cY10Y90SsSIu5_DKOI0TABzjFGBb5FgyFmBJK8fkdTionLga-_uuJIElb3Yow8STWaQ3bhiBI-EV_Tgj6c2KmeF0PqKUu6MxayfyeokudH_rbTKWmVcHaW0PjTPPnA54iM6ZexRvKEPnqM_6bBON8JnMnjq5TK6r6I2FaMUHgYCAlQp-NiY2qIGGkJvUojTRcHOGIMOb4oUQfnOkhgUWOGaKa1KsdBKT8
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: Enrique Chon
+        uri: https://maps.google.com/maps/contrib/104094669479678565183
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUdaUlOYxkXWJaeogjDdntCPYtUxzH-2xAlpFy1CVZr4M0Hyku-nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMzPzN6wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMzPzN6wE!2e10!4m2!3m1!1s0x89c373544f244811:0x911593da5f888e93
+  - name: >-
+      places/ChIJEUgkT1Rzw4kRk46IX9qTFZE/photos/AUy1YQ24-i_fT4C-qiTl_XFtCPmPnOYrXs40MdJ7aCQV579g1_ofLzcSqHg-GvlPghYZZ1GTeFkj4WboqkLQ-f-7GhD-Mz8geDfMu9lhx_oOMYLVuAfd6G2bdMKxactiVmFxrEomz5f_wJOOdxt1yr9TW0yrteFFsI_ZPCNvwISrOdXQHYaqy3-QUYIHb0he_hWO9jqbCn7H64CTy8L2GhZ3qB3ZhGSzER1TbzNq2ij2TYFIV5jkXMldq03d6qaI__kMpifq1zNIoe937VAKExHKdYPaD8FF6OlNYjjr92MPPbCvzuOexRdxZMSU1JUYl-qESzFGbSbOmpcz8PlKmiG2n9UBTsQGCUdSHsHdkexuqgzqN_xB32TMKMQd17Fe90X-ep872Dm2TUTKNoN-y_OPlSoDreKm7a9v2cVCLNZSJ9Arj-s
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: Enrique Chon
+        uri: https://maps.google.com/maps/contrib/104094669479678565183
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUdaUlOYxkXWJaeogjDdntCPYtUxzH-2xAlpFy1CVZr4M0Hyku-nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMzMzEhgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMzMzEhgE!2e10!4m2!3m1!1s0x89c373544f244811:0x911593da5f888e93
+  - name: >-
+      places/ChIJEUgkT1Rzw4kRk46IX9qTFZE/photos/AUy1YQ0NMwt7yJ0UqOP4OSml7RyqRGcjnz2Z2ZXiCHKbt_U5Atm3XDXzM40PjohFgONG9o2AQ6gvgkH5naLps0ovMJbRpQiBWuG09Dro8yXljlb87Fb-vcVS4ouWEEIWVPPuKJOidksdQVXHgoeyVOH2Fxrzdz4xEP0UlyDoyQSuZJdIbWHWbtp3IYd6WjV6jnnBU7EWuMJxAVGxPm889VCNTyIfB0_LIJGzdibUrVyooEEW700R-3goxFaU7cIcTFgiGzJQ3nBNvvJOLaYUYFXS5od5uHdiVJWNGEzSeLqeldFBHpUj74_3yFnm1RbGKVjC051QIOZ_Qrp8svYlpCGtb_yqvJ-huHgLR257FN518yPfZhQlt8ntqEIqvGlBDVud60AWe8L0aCRHyqXE0cUoLOLSgiiAqXq5ap8mgrh5xrzSvEY
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: SD J
+        uri: https://maps.google.com/maps/contrib/117858774944851777098
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKN2ykLd9CIojgu4V5tYeD6bulI2dyxNLQCy1CHipD_OBUYAA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdqLnvpgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdqLnvpgE!2e10!4m2!3m1!1s0x89c373544f244811:0x911593da5f888e93
+  - name: >-
+      places/ChIJEUgkT1Rzw4kRk46IX9qTFZE/photos/AUy1YQ2n0-Lt4VTZVcc2zgA2MT1XfHO0EfknJg-sRMkHquBvHpWw4YTfInt6mJxc0vGYed7O3kbaTX7mz62D_IaXb9n1Jai0kZYEqHxE17agv2uaGtYZzHfL6ABEwZMJnAOShxSlBvw5JEWsKUepJOiFbFwsiMZZnRbrhcb4wFimYZGy_Mw_qtYTObI6wv4PrjG6jZ2w-TVpsDgImxjnlbZzS5DxrwD0ThFL2SeeURoTT0YR-BQZfmUx64JTWmlQy6h9mhTpkDWMZwwLaLiZ_NIN5l1bPKh4t0FrYycNenHDJ6u0uaF6qaSwecIi3aA7JAfO5C2dKvMx2ZjmrK-ZrN3d5TrQ25T7KdWBqT8OQPPClbUuUo_Oc08YMuQWMhl-wPkYC2h_qvn9FpP-URF3HaPd5WM1FqkdQa5o1lrHNH794NAxZPhN
+    widthPx: 1836
+    heightPx: 3264
+    authorAttributions:
+      - displayName: Vince Del Tatto
+        uri: https://maps.google.com/maps/contrib/101672857926601963811
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXofeCABxwZJoNJNp4aciI840FFeCEI2ZDAIREyaUHv6HSpYYw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4h5a_rAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4h5a_rAE!2e10!4m2!3m1!1s0x89c373544f244811:0x911593da5f888e93
+  - name: >-
+      places/ChIJEUgkT1Rzw4kRk46IX9qTFZE/photos/AUy1YQ3ehLVIjSNNad-1FuKBIBgdiHVyS1vrZyDD3ZOFFc4Snt8w_8XJhqLpWB2It4bvezFatKXgCf-WYLeYP45yOei4SqxBYVu1n9M9jMt06NS8YLuk9-R5FY19bu3-8MFANFn6W53syVnJx9PpXu3ULtJPELvkgbrsa2zJJr9kxovyfPuM73EoHFnQw0QHNnwY3DC9ia1kBPeV1WhqEx6QbQYs_48Za9D7zY44gJZc6mU0nBgSe7wLCKCKWibSW5z4ip-BKdfmXRA5FajkfFyIVlamjsdymv6Kz6CQ-6RC2JUMhlKhOvNDEOJOGLrIbEand6xsTgii71lqggQnxEj9b8Qv1hSBjYQjYc6uIut5PBNOztWM401-zrtYLHasLsL1xN3RdefcTmuwxpvEKok7YbRDtWHLIDS8t_E9J6qrk8oDagO-
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Danrley Silva
+        uri: https://maps.google.com/maps/contrib/105613295119832772280
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWVmYyH_rVSpzBuxhXcFpFieFawLpPLaQG1X5Q1aKG8opXyVIFVWQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx1vyLtQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx1vyLtQE!2e10!4m2!3m1!1s0x89c373544f244811:0x911593da5f888e93
+  - name: >-
+      places/ChIJEUgkT1Rzw4kRk46IX9qTFZE/photos/AUy1YQ1MKQdNNhxCxP3B69Ma8wtgsmG36L2Dr-5IpeRw6MjvKjRZeckyHrwMwwGsdOKnyycvpCaO0sgZ2bu5EbBNm9I9_msbbYcjt__JrBHOXkmvZD7hG-CCMQ1n0mDyeLAF15l5fNLxcYal0YGsmkiBXitq0piWSyddjjU_U8GUoFKFS-a-nRyB0SfpN6M-E-8LvNFszftEP-9d1JOKUu1yaz5ibjM2aT_HPItSg0Na-xGkxpQGUcJvq0Ec-K8huBDXBs6uPI0edFfxRZcvq9M1stv6nM8jDcChPjcrRAVVrIWmvGOAsPX581SZ6_eRmeR_lGgJnqtEzr1JGFv0eXdd12R22aRoL1labsgn7CgXYvNgQw6Z3kTq5JY-kBe6UQNZGubFxuJXSFw0bwh7mK5sMF_EIJJC2mhEMXb0R3SUY7wgRQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kostiantyn Denysenko
+        uri: https://maps.google.com/maps/contrib/105996353036301895706
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVirF2njseWYVn0vRjX_Xj8-PxDStnjJ40Q3kEe76s1gYrOwP6V=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEgYzWJQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEgYzWJQ!2e10!4m2!3m1!1s0x89c373544f244811:0x911593da5f888e93
+address: '5 Bowling Green Pkwy # 2, Lake Hopatcong, NJ 07849, USA'
+street: '5 Bowling Green Pkwy # 2'
+city: Lake Hopatcong
+state: NJ
+zip: '07849'
+country: USA
+neighborhood: Lake Hopatcong
+latitude: '40.962830'
+longitude: '-74.598404'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+business_status: OPERATIONAL
+name: Chopstick King
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c373544f244811:0x911593da5f888e93!3e0
+  placeUri: https://maps.google.com/?cid=10454424676125413011
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c373544f244811:0x911593da5f888e93!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c373544f244811:0x911593da5f888e93!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c373544f244811:0x911593da5f888e93!10e5
+primary_type: Chinese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Chopstick-King
+
+---

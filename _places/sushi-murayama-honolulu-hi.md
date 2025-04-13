@@ -1,0 +1,208 @@
+---
+layout: place
+title: "Sushi Murayama"
+permalink: /hawaii/honolulu/sushi-murayama.html
+stateAbbr: HI
+stateName: Hawaii
+cityName: Honolulu
+place_id: ChIJvxR84u5tAHwRktnaAYbh-i0
+photos:
+  - name: >-
+      places/ChIJvxR84u5tAHwRktnaAYbh-i0/photos/AUy1YQ2EXPJtnoe9vfAfPSFMMt6bcacv7DW3y9dgH7GHFJzQNXOJ4whtaxPLTbODJO0SsmMuSLtUizF9lTEHKaqk2xJJzg44GE338DhmkGsYW7wumaKQfOftExSejqrMz2WnbFcFzwHX6xoVdGA0pMYefvGJ-6NzbFk7lJG3jQT031Rz7i8RgLIE39OPK27TvTg_2Uw29AAxW3kscPZ5M-DKoWCc-0S_zujgibBA28cm6Vn_3ugmzD1HdXVvTZ3Y2e2dCwVtGfyG70QM1ju8zDTREr8PqonqyN9F1YC4NBaPMQSAWEPAc5x5s1QUHHGfwdYp7w6zsfRYIHZH9u9wHnXYQX8NJbgZ1e3GkGb80aREmAiCdwR_zvzy0dEy-f61BCWrceLWUBKVWClSKXUxldHba1FNyW-QoYHm8Gk5Ty2KeITIEQ
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Jay Lamping
+        uri: https://maps.google.com/maps/contrib/112688114563895054113
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXvfXEvWtNWUaBiQVFI6OiUJoFqVVUrxyKo4wt4FsNN8xoKwzXyTw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICExryLbg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICExryLbg!2e10!4m2!3m1!1s0x7c006deee27c14bf:0x2dfae18601dad992
+  - name: >-
+      places/ChIJvxR84u5tAHwRktnaAYbh-i0/photos/AUy1YQ2V7v73Q9otEoUiEJasn94vFMC9XDe5XCnP5Kg5hrdYxtTBMb4QTeD3YQF5deGyUsC8O7hR4wIm7DIFhMAO0OVOTWjOB10QXzV-kiZBjRVqPB630CPcZjg4Z0hV_44tmWhXyFmWxbUzvjoa1zNY8GbNTvow5isdK8WiTROHIycBi2B29kE-WIAmlmK6UJbZesrLRKcgxO_BWaVSyckrjKyqKfO8VKVx3UAK8fIlt2d1H8hWBk_WltBg0o8h_NmZ1dx5FjW083QbIQsT2EV1K0LfPYYbAVPyWd2MdAmxf8zmLw
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Sushi Murayama
+        uri: https://maps.google.com/maps/contrib/100933602339537333488
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJgWrFCXOs__gfzySPlNOFoFBvUQ9gS6rwZ0cwXLE9wjLYGiw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNw7DVnEd2dLngFq4gvlNgVgFzcmhZOJDSj0QFO&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNw7DVnEd2dLngFq4gvlNgVgFzcmhZOJDSj0QFO!2e10!4m2!3m1!1s0x7c006deee27c14bf:0x2dfae18601dad992
+  - name: >-
+      places/ChIJvxR84u5tAHwRktnaAYbh-i0/photos/AUy1YQ3rYys-kVRYiLeMFphie8SZssyT6CH5HUIDXsi9INVR5TRwZlnw3IxH1ejxdjrGGV7Tc6Sfv1c3MUxrHrQhZE9ocT8LiBjZq-85kh20Jo56Xq9uvRyrvtJ3P5jqfU-ZJIph2Z-kN_Enled3b1ABWSaGPie2vRml-3LaZTZDbJ-J9I205jv9JUqGcpqZRLg382-T9j4GUH0dKPNdWJd-w7cocB0fOgydscPiZYDFlyF38vgIPEQcHKgxYyGPcE5NVaLL9UaXvGcYlYdCs7yJ4DR-J4lJp2cB_dY18mCox1O-UtfbJa9G06wy6WNJmz5VcAWIulvNZ1igUots85gmmaLcsLlJBJJ9S3VZlYItGivFE-6Lh2o-rq5ooRhWm6O2KEgHL6XDpmKwjoCCxpnPCmsOcbJH7KuKuM8lV4iW7O-90gH-
+    widthPx: 2252
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Petero H
+        uri: https://maps.google.com/maps/contrib/104090434730945987072
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX_5IOG2UIKp1OJ5sHLMMI-pXNFY4Gxm4xH4za4qPPPRzyuR4v8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDpO-DnAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDpO-DnAE!2e10!4m2!3m1!1s0x7c006deee27c14bf:0x2dfae18601dad992
+  - name: >-
+      places/ChIJvxR84u5tAHwRktnaAYbh-i0/photos/AUy1YQ0gEOVJEDBN5dOLeCtv_ovFT9y3K6GVbyhS6q9xhP-QDsd-v-E6bdKYS1FsjW-nLaXZ4BSx5tt_Q9CCqV8xuhtVejVqji5_WX1g8ZB8XVNYQjDaRGeHchn9ENPX3-YFYIOz29BxrQhe70FyceCQv0oOQv4SXbSFVgQdJrkYUDgXj2b9afVwBCSIw84s00FsxHdPAs0Gp5SaH006n7f_o8LpsNl8SVMcl6KAe2Ec4frBR7TkgIwz3M5mA15RvDgxqiu61e8C7EgS9s7hKS6zhISnJa99jRee8Ri8PQJhmE_pDtUVyYJRvcozf59ahQ5cLbbVxc6qSlqAJHK_5Z-45AtGVg-R6F1pBZiIRku34nZ3LuQW-i7wsT9cvnDTmoFlQ56XIeudFNxTnvd6aqMPj0VTnGo8LTA3idL3JhCg9UUghIkX
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Denise
+        uri: https://maps.google.com/maps/contrib/106109232325737769790
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIpo-8YL7aBjlxbYxQwRiYwWMNB0z5MXynL-M0xFVVXAtrAuHGW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzmdCgpQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzmdCgpQE!2e10!4m2!3m1!1s0x7c006deee27c14bf:0x2dfae18601dad992
+  - name: >-
+      places/ChIJvxR84u5tAHwRktnaAYbh-i0/photos/AUy1YQ2RGRoEAJ4aRUKJAyTYZpSbkFjm04btKJsVPfSf-6NyZu8E1b1T1KK-ybabZn7-aTiWCsTWDf8SlTthVF4LmoYCRQqvxxXyc62Yz8N8lxidiEDsK1rD7KX1iVylWSl_gms_7Ip-yYTdkV1tTthyhm88R2IbKiLLSwLhh0RWtTf72QVVsqC33fhJbX1rj4mcgg2eAa5h1I-2_ec01mnpNqpd0B2WK5GvTlwUPrpY39mYGVO5d22WKNAkiYGKVS9C95GM02kgUEZlJ42yNKu7OH1m68RoV6Cos222p-7BUR96Dg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sushi Murayama
+        uri: https://maps.google.com/maps/contrib/100933602339537333488
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJgWrFCXOs__gfzySPlNOFoFBvUQ9gS6rwZ0cwXLE9wjLYGiw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPNPfsx0_ZBZkWld735sn8o0o6Ylw9uqDAa92gn&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNPfsx0_ZBZkWld735sn8o0o6Ylw9uqDAa92gn!2e10!4m2!3m1!1s0x7c006deee27c14bf:0x2dfae18601dad992
+  - name: >-
+      places/ChIJvxR84u5tAHwRktnaAYbh-i0/photos/AUy1YQ34zcVaRP1j2S54sUoAOJC26aaRpg-GOsruFe5BCqcsbZUBhlOzFKrTCLsxvT89e8bZ_V26EREQrns1SXXBeOLgY_5-Bi_3JzFACNYt-wtiu57ICtCbVSXty2EaakLdSgwQc4Za1B5t5iBVDjqPoYhrk4zgarpt6e6P6VYqHulPcPsig1E_UNC45ue7pSjzF5nQqlQsLzQm__mFxI-O8nur0bCWCPfsemhDSoqNxFV3-58o__b1zmTz3ycpooL3nvAzZ41G8Bji2df45vC5g1rJzvB6nRy3ZByAwyQZu8M8upiyXzU1GMWhWdyjH4kzX6-bQIMJGaSCUXdUYaLW9VifPcfA7Rdt2WU3t3x3ObQ_gDjGKzfH_YNE6FSJnNj05IC-o-T-0kPTnIQ0qH8j2h4Cg4lOufVK9KmO23Q1a9MCBcOG
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: N N
+        uri: https://maps.google.com/maps/contrib/111153289926120403133
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIOJ6XESC2sT8mTwJ6FH6EeLkYGgZLFScbOt2Dqh5MZQuf8Fw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDV8pDwjwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDV8pDwjwE!2e10!4m2!3m1!1s0x7c006deee27c14bf:0x2dfae18601dad992
+  - name: >-
+      places/ChIJvxR84u5tAHwRktnaAYbh-i0/photos/AUy1YQ3PG3272q_H4vAZk7RmTxLFbFjQvo_IiwOllCbdziRg0-ZMxkhV6qTC20KM818zH5CW-5KFr4SuVEsCVSfKwDgvCRjplRthRtGIJMUy-rn7iOz4Zenpw57jMhj20LFxr1P7840W3p1Ar3q_a5l0ZZsWG8oZ9zd_zVwsQmaRK0NG0aLks6iKLyYAF47B-KDfyWyKdZZfDzJMtPmNGlEp2tQr4R9RD3Q-M3QjYMKe1DsrntkMFbziCWggu7eiq5FPoq9_llyOdPG7-yFVKlB95vYlvVDGgvxdkd1jyYbiOz57Np0GVDL6RIHf82WQZdIaIV1LnMcU-IhLzlWGcIagUAkSYtq-VUhXph6Vzox0ErcinwTOpF5S6b6GZGfri2_-gd_ByDeZT3ef-lYjXEFwxGm60FWe5CAuuEu9lTK4UA_idOzd
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Allen K
+        uri: https://maps.google.com/maps/contrib/114885372117186928331
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKgsn2OoQyQNIYFfFGQ07CtLHwyvdbuDWPZOBH5dYpc7irIyg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_tr2VoQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_tr2VoQE!2e10!4m2!3m1!1s0x7c006deee27c14bf:0x2dfae18601dad992
+  - name: >-
+      places/ChIJvxR84u5tAHwRktnaAYbh-i0/photos/AUy1YQ0GeiKaxCBWnVhCdjU1bXTpECIUJYXibDxDXUEsbaFV60phby_Y1gPCNrf_WcVD559pAtOPAm14AE0zmzJOdj616Q0Xf6GnqJMD5p7AiAsVBfoYsZMnU-aSsjAFTVL4KdqnWgPmis1gcqY6ESRs5szqwX5cImQ_L2uqGuogb_YWfXQ_KjXn1XmcnwjOvkiNwzHIlIo9hRmbp8h0wBOL5jXtZrBDQKJ11wgMgXAmmviSWh8tUYnWMcvj2T4_CL3OzbhWpQLhAOaMEpZoE6iH3c8tsZpuGsh9ylVlrKVSZQaNJemlW4aGTA_p_2vBgX6k_zDnULpAT9yZtJaxmv1olxh0Am75nISXIlQwTR0xQ5-nIw_rDuXr8ru7AqZW35cjhdjd8S1oy49fSbp0-Fn-o-BHs1gTGg9uBCZYGJN123ZIvv0N
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: R C
+        uri: https://maps.google.com/maps/contrib/104894736586313606480
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ__SDWozoyczbnEdISOibQSghm101i3E8chJ0i-Ao7DuQzTg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICF09GJqwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICF09GJqwE!2e10!4m2!3m1!1s0x7c006deee27c14bf:0x2dfae18601dad992
+  - name: >-
+      places/ChIJvxR84u5tAHwRktnaAYbh-i0/photos/AUy1YQ162VcODFyV0RN42DimFXfoTV7maj4DdsN39wVNKgWa-mCwxWAvDo1n_EOWpd-5iIlO3fZEUPQtIosP3ouYN3q_Mo0u2vMurW7Gx3HpnXh_QI-AJC5YM9x5EevvSbIhZvUxp8IfmYcwwPE7oF4_VEInVCidQuYDMEU9jqT6aVd46a2isea8W-O75FnrVD5UrUuOaCq-q1dnp90DZGmyg2jNb7CEeIM5i24OX4F83-34BnPeCY4nHbR3CVYLa3w-9jyQHphek6SGcURzou7I5OGyQPT15hpUjrv5pxi5WKXQgrPBKj7rKTRBJQQcui6B_gmoxcM50Bd_0ObOYmFqdeMAoCv5I-304p7TjUaRF8hOQPIXjTuoWaMtAyBNOZhLa0itmQz524jqvpKGmkXL_qOANFMPSebkaXzx_8Tp9Mwdmw
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: R C
+        uri: https://maps.google.com/maps/contrib/104894736586313606480
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ__SDWozoyczbnEdISOibQSghm101i3E8chJ0i-Ao7DuQzTg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICF09GpLw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICF09GpLw!2e10!4m2!3m1!1s0x7c006deee27c14bf:0x2dfae18601dad992
+  - name: >-
+      places/ChIJvxR84u5tAHwRktnaAYbh-i0/photos/AUy1YQ0o9uCKNrW199_q8OhKf9QBjFGsYF76WxMLCLDHH8HdVy5Owufp4bq5Eb35QMIsbF1wqJsQuVvEKaZxixsdUtpMrgKevETJ2uujdzCYW0HeVJlog3fGCdf5VGNrnBTydTvPmF3aNNZavkTTS5RaCCUyQe_8AUGK_KG63axdjS0rr0653H1QINRTNKAYI_bMOTYAKfDQlbBIRutP-ZPcxnQh_Lbg-DKQLfT_V6CEuhqy8UxG14k1l_YiZFj8AwGPvMENYYyujetxNV1FeuHe96QJ5sqCOnrH4sjhsiZN3z_blg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sushi Murayama
+        uri: https://maps.google.com/maps/contrib/100933602339537333488
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJgWrFCXOs__gfzySPlNOFoFBvUQ9gS6rwZ0cwXLE9wjLYGiw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPQWSccNR9zjeLrOO0HaM2XagKju7GRsjzUoR9y&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPQWSccNR9zjeLrOO0HaM2XagKju7GRsjzUoR9y!2e10!4m2!3m1!1s0x7c006deee27c14bf:0x2dfae18601dad992
+address: '808 Sheridan St #307, Honolulu, HI 96814, USA'
+street: '808 Sheridan St #307'
+city: Honolulu
+state: HI
+zip: '96814'
+country: USA
+neighborhood: Ala Moana
+latitude: '21.296822'
+longitude: '-157.842422'
+accessibility_options: null
+business_status: OPERATIONAL
+name: Sushi Murayama
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x7c006deee27c14bf:0x2dfae18601dad992!3e0
+  placeUri: https://maps.google.com/?cid=3313208441557408146
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006deee27c14bf:0x2dfae18601dad992!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x7c006deee27c14bf:0x2dfae18601dad992!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006deee27c14bf:0x2dfae18601dad992!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Murayama
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Rock N Roll Sushi"
+permalink: /arizona/glendale/rock-n-roll-sushi.html
+stateAbbr: AZ
+stateName: Arizona
+cityName: Glendale
+place_id: ChIJNYZP5NdBK4cRieU4wpHkW1E
+photos:
+  - name: >-
+      places/ChIJNYZP5NdBK4cRieU4wpHkW1E/photos/AUy1YQ08R29kSYr-QU6jrBNZQ9_KjNH9JST13lWVA4Q8Kr2ixaSrH35BcVZV7Vzuz7SBynhmX1I6MKuuazJ46Z9HRmGfoJB61iJkHe-ErCsi_P9nw-oabP7_8ER6ppDFmGKJHgZ-zSJUOK4FMy6PtPtrZTi2b5YOPXG-7GiZbDxO8KQxE0k_TgnAugyNqadVokSZnwmyDi_Fz-6HPolnIrg4R2gH0KCsYbLx7p6qEaUs0Hwqyn4N8-ibX6jMmSbsSqhpvZMopttBOMhuPEfc1av55x96uIund-NI3oQDKbNymjuzDaqYxvxAkpy7_ajIuLFf923aV0Da7CW4mgj6JC8Bdqc2PH-OXqUJOLryjdLwGHCvjmd-mPwbSiVP84jA52tfYFd6fVLmYwocwUpHNnOmelimL9bBHPSdQ3HiaCaA0THsow
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Eric Percy-Fine
+        uri: https://maps.google.com/maps/contrib/118243533116977469843
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX18uzMy7YgR9tFs8slJD9ZlEOHj13clT6MaRX7PdI1vOvYCb98oQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj36v5IA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj36v5IA!2e10!4m2!3m1!1s0x872b41d7e44f8635:0x515be491c238e589
+  - name: >-
+      places/ChIJNYZP5NdBK4cRieU4wpHkW1E/photos/AUy1YQ1-BbL_MSXYV9BEkKyRyEhjxGKbnTBjv6azHREa0QeH_Y5IED3ffnaUXXkpUuloYzjzdJ0fx3qfkDYmqRVLjqQgKnLyQ0mgjZmLIJJtaZcL7e0mCras4x1yQes-oRDfiwRlNqTURMmTrvX_39RtTUqhnP2cy-nblObZ9u22CCpqKwfqSc5HeexAD5lIPWK55NyHtaq9V1Cux55J6opVC60t29VGYvCKnfntbLegswzJuAKn1SoIHL5DThHJ-Y-oQ2Sp0z5bMwZ7FW-1aW-Gi8_6skF5C43psVDq6SeIVsfCsA
+    widthPx: 1088
+    heightPx: 612
+    authorAttributions:
+      - displayName: Rock N Roll Sushi
+        uri: https://maps.google.com/maps/contrib/109984609072294480175
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXk68VJV0L3umTtv8eA86t5APCsmuQV_3lO6OqWcDb4Ag8rXbk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOS0uznWGjQ7uKDjB0v-LJyJ2I34IR5tflUrRxu&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOS0uznWGjQ7uKDjB0v-LJyJ2I34IR5tflUrRxu!2e10!4m2!3m1!1s0x872b41d7e44f8635:0x515be491c238e589
+  - name: >-
+      places/ChIJNYZP5NdBK4cRieU4wpHkW1E/photos/AUy1YQ0MRP7jJ0ANllBwlTTS0osTt7fy9EE7QR95xx_ATS21sZ6uAYXFwCPiwAMT_bq_4bOKHEWSVOa-mO-iBFyHR2eGIezVAbwWW6g81bG7_SK5WxMs1F0AkPi_-ax2Awuxu3qYfb7a19uUOjY0mPeuP5paHhjkyrb7ibT8U28F5NHVVS6RhbOHV2YyUPkqLqqxWlgDZ6pOoqv1VMPGxesVITq4x3_gZxcXdsTCkdh4QXOumOqtLg-9F5g5l2HQlj949IpO1QtGJFhsLS7PRs8B41_7c7lqw7NrMk8NEIUYuwthAw
+    widthPx: 2000
+    heightPx: 1333
+    authorAttributions:
+      - displayName: Rock N Roll Sushi
+        uri: https://maps.google.com/maps/contrib/109984609072294480175
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXk68VJV0L3umTtv8eA86t5APCsmuQV_3lO6OqWcDb4Ag8rXbk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOSmCos55ftiI2ifOres7SOobPCVUruUAFkmSQH&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOSmCos55ftiI2ifOres7SOobPCVUruUAFkmSQH!2e10!4m2!3m1!1s0x872b41d7e44f8635:0x515be491c238e589
+  - name: >-
+      places/ChIJNYZP5NdBK4cRieU4wpHkW1E/photos/AUy1YQ3eeFbLe-6hux9l3gvtpx8DrvGLKxF9jbOk-BVT-hXjocv0DiucEp0GQ_-nIKCmsQSoDrDxt8hNkGMzip75Xe4D-YniKuFVSl8hyscTWZZoXwACIPOxqEgZZK9bf3ldwp9arR4RTStawLNRkKLu5zsaZw9zh9EYbfogUUxeKsckf4YFgMEGwr36I2f0-CwCQVZ8ekiq-MZ9FcVSGEL6kfJAIeVTKCKZaVWHlGq63G1z2xHNBQjoNjSmo4MtnlEzbBQWio0MmtNkQ_fdgRlItv1J0QmpBFSo0zpT513J3aah7rbWpQ0NwLY1tN85lEFyhkgG-410FyIqFs6k6UXNebpQR_HsjjeORxNhH4bA8JwQkxlCqkv2EaJRkIQbXi4ZIVKw_Zg2Uns3Rt2oIKDLRV07FQ_MKUq4tcOZZoHc0MtMGA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Michael Decker
+        uri: https://maps.google.com/maps/contrib/104565649875104537633
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVLcevYXtm3Fb6gFxmbWzegsqbHXQ2PG74mz4F2vtVaaKwS02RhFQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDd3rzsGA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDd3rzsGA!2e10!4m2!3m1!1s0x872b41d7e44f8635:0x515be491c238e589
+  - name: >-
+      places/ChIJNYZP5NdBK4cRieU4wpHkW1E/photos/AUy1YQ24WId3n-KJdE-vPZkynR8RhKnXyNVNclpbo7g7Vsl_j7ZTG4cqThffh3kSrc3ujdkcaifc6i3H40heUQW3-XhfAZPmZ2aC6UEIUF8vI33ZHj9TyllmBI1zgP5UTW2_wl0HczIaWlierU0ooty1pOl5A8HZCiI0EHqr_eszzEjlS00Mp5HmfNnzBWkrE5LV1kF9bNPXvOPyevZ1Pj75bDltUE3WmaVrDLR6RCxqWLwgX7bH4KEmp4wYhkmdafQqa5ByFeu-x6V5dvL-7Xw8NrBDub_egHAO2T_GTiXBzklPv2-HFCmNHUEmrrsZwONZaCmWi7NzbNDyc1NK-cedgUGJ5qexVmUTFy6HxxFUsQtTQMuw0oTtZ-vsUcK8v15f0nv5bYsv_sQ21WnzuJ83hzjfWeoNMjhpmqlBv9S1O6yo3A
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Kae Dobbs
+        uri: https://maps.google.com/maps/contrib/102041760241790960183
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUTqLAUzis3hgiGG50IpTvlkh9nWHPE81kTrJ3pp9qbOAHjwFfO=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj8L7oOg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj8L7oOg!2e10!4m2!3m1!1s0x872b41d7e44f8635:0x515be491c238e589
+  - name: >-
+      places/ChIJNYZP5NdBK4cRieU4wpHkW1E/photos/AUy1YQ3xXyzONCfOEakfSVHNEF-_p4onere7itxX7VUUL3R3h4y0lxlYUkQU2bRY-uewKm9wQKjBlRBN-g7GyM1O-bBUy_ZXRpVfv-KaoDCbQcvALsvxZl0DSOGde4XxRs-kMmKMIc1c1FputgQvx0oDQsqmTfpBJhJHeEhsqb2HN_JgnN0Ra_6LVLm3jcWqvifIbPKuEQZS00K7Xi38Bg7grvWj7W01dy39Fma7A7NGQ--jvbCcbKVfsLT1OEDdsn8b7WVU4iFhQzVUNGqr-LAztX-fBv74GqcaDzVS71TveFOZMmvRci1hSrZ2ZUkVGNmsw-4KakTkHG2P0mq-BW4e8psZ9uuz_qJZtQWkXc9hmdw_sxYagCMLOu2_-7Pm-bnEC7Ln7ZmPnaSPDUFbjNhawwO_l_sH8z7d4AqKj_ggk_hIGg
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Deepa Duran
+        uri: https://maps.google.com/maps/contrib/105162667328852180449
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXSpoBQ9GCrEL1yV2LTWCjSTB2TqFrlUZjGQYeYV9eKvpz0PgyF=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTrtfqAg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTrtfqAg!2e10!4m2!3m1!1s0x872b41d7e44f8635:0x515be491c238e589
+  - name: >-
+      places/ChIJNYZP5NdBK4cRieU4wpHkW1E/photos/AUy1YQ0-RWx_-Gx2OSc_WoI6oUQaNsFwJiAc38NfWWIqoJkAK3R6SDA-4m-x8wUoaZcDpoWezDR4Asb6gPrNlWGnrX9ySqB1B5yd7Gk2xte1tinLKiE2FiHxLSv9oSaLrodT4elYGxFDEifIIg38CgPM-t7T5pm7JmFEWRCyUu80bM-_3KX70MQg7fLX70tjjZZr-pxhwxzMmklHW0W3YRC-ViPKDkOMQuVtHMTb4ZiTjM5CtJiLjV1dWyuGdxXEdcnyQqepk1O0JGQrUSfXV0zuvLQTARRR7PrQDOsbEQAptIkIPAyiNVpgmpbZLW9-SBZVo8vxkF3x66SXvk9xStoBFbzXoC4suV_ck_uCPDTmwdMl5po_h12JCbJHrD-5BC3NILY5kCVZa9rRKGwfibFWxYddOmEP7wYWGaxFH4q1Vbu7i0Fd
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sylvia
+        uri: https://maps.google.com/maps/contrib/117037311905288078404
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL0kz7RC2mRWYBP4GJ1OxC4EVLIqnt1tTnLRaWttuaryUhNA5P9=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9xoHrsQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9xoHrsQE!2e10!4m2!3m1!1s0x872b41d7e44f8635:0x515be491c238e589
+  - name: >-
+      places/ChIJNYZP5NdBK4cRieU4wpHkW1E/photos/AUy1YQ0wdLGhKyxsJjoP9O9Va1FOtDWTwGjOhx4-MrS4yF5h1Skuw1mRPuoDNpUeA5QrBM4KL4btVh1rtZVJuqGS6ZDYxxEpGQW7RGOcxn6HsnxyOKVGpf70QMK1_FX2v1WTYKl5D_Z-AW4vMyoBL_mjTsBLlQutD9w-bCWczPuoessIokMoTv58VlQ7HpA4ckMZLEsRYcP8Geg-Z6DChG3cTZ4t961A9gdoh7EqClUmapF7k-Ao8tFc7DNyQ6XvpXDNaNDQOEGwmeCUAZGDOOhbmsrPk86_aZwScIx7wJfTsmgoR5X4wmlrE5-6WQd1Jqw7tGr24Ti0lVV3SlMyMRHKe3bDHRmk0bef5ZV4QIYV-Q1b_dD1v8vWUQoLNuMOMoc3pbRtCDkQqRRc2mjkEFJMdORzG7H9UDZZmV5MF9CbxsS3uA
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Eric Percy-Fine
+        uri: https://maps.google.com/maps/contrib/118243533116977469843
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX18uzMy7YgR9tFs8slJD9ZlEOHj13clT6MaRX7PdI1vOvYCb98oQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj36v5WA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj36v5WA!2e10!4m2!3m1!1s0x872b41d7e44f8635:0x515be491c238e589
+  - name: >-
+      places/ChIJNYZP5NdBK4cRieU4wpHkW1E/photos/AUy1YQ2yy_-MVYfeJIwslyIXtCNqcNyV8Hu3Ajf4i9H7JJZ8wzSnceM1ekhwjbgSEVvTNjEIuiPF-4wc7SCHPu8cCboEuZK6-ekI0zHv4vvG20csYGVyci3G7ndGmw6qsIFKKl_JOn9URrN6nCtRNrNpB8BUQ11BukAz6rM13Lxa1AEpZpmR4rpdUa43hO0M4MaknR2zCvn_6uZBMbYnIW_As7Jf-HS8FVDdW5JxfGKSCvgOBPYiXWip91FEaBa52f6J6f1rWnhtNa3uhPyOTUq0W8xkA1qVlpNrqUrEzUL7Grefk_immiUKPAxsVjPpD9cKiF-PmwLWz2F3x3wgfrNL8Fupce4ouMNkPPTgPVTWPtHadwCY_YSpuKud-gEa26ZAWQpq-CDdMwLKeuJVqXfzPCQD22uBaFYcXONinHXRoPeT45Jo
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Nette Rab
+        uri: https://maps.google.com/maps/contrib/114223394155151808981
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWp96PVuM0VFiPpd9ZAnGWbEE42Z6hsEAYaMeHm_J5H5hgQ0F6WYg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICltcyDuwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICltcyDuwE!2e10!4m2!3m1!1s0x872b41d7e44f8635:0x515be491c238e589
+  - name: >-
+      places/ChIJNYZP5NdBK4cRieU4wpHkW1E/photos/AUy1YQ0QqPluCplNGuURe617zPotseCJamav_Lf8gM5udhByXEjT23DCT8tnqC_pBd67EqXLx5MOdj-5uqOo-kkBN3zf_2x5C3SmbGOlCLoLdeTrTgeyKxT38A93lQR91IvWD6nzDV3k59UB333jTeExOIGgm1xKj5QBofSUn9aSOMyVDmCHbQGZ9_YIikpf20hw-Cq8Pp36rVltvWnNEFaXaW6viziKZCsV3aWFlzpIrVL6QlOelUsN6itAgPb0rKkAfphlW9iASBCp6wbh6xa5m99FRssP2EaKXotkq-YJIQTJpZ-NXY3U6RBudWJx5IwreA2YDYPll9hhGaNsvMmZu0Cw-1-FxMT8VgOMKHdQRDGjDzihg8kQfLUyjyBek1GqjSgB-VhCEDiaS4LSOa6gd9ZRN8HIR0jYIC_XwSY601hf8aoi
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Abi Perez
+        uri: https://maps.google.com/maps/contrib/113443307793103769736
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXCUXq2IJyTKrDMEonqhLnyuVoRRBmgavGuh9wt_7ITDu-l-RsAAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZlIykkgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZlIykkgE!2e10!4m2!3m1!1s0x872b41d7e44f8635:0x515be491c238e589
+address: 9950 W Glendale Ave Suite D, Glendale, AZ 85307, USA
+street: 9950 W Glendale Ave Suite D
+city: Glendale
+state: AZ
+zip: '85307'
+country: USA
+neighborhood: null
+latitude: '33.537631'
+longitude: '-112.273787'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Rock N Roll Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x872b41d7e44f8635:0x515be491c238e589!3e0
+  placeUri: https://maps.google.com/?cid=5862530654632732041
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b41d7e44f8635:0x515be491c238e589!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x872b41d7e44f8635:0x515be491c238e589!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b41d7e44f8635:0x515be491c238e589!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Rock-N-Roll-Sushi
+
+---

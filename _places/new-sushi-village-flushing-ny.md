@@ -1,0 +1,211 @@
+---
+layout: place
+title: "New Sushi Village"
+permalink: /new-york/flushing/new-sushi-village.html
+stateAbbr: NY
+stateName: New York
+cityName: Flushing
+place_id: ChIJkyuoZX-KwokRd1J0FM8uXAM
+photos:
+  - name: >-
+      places/ChIJkyuoZX-KwokRd1J0FM8uXAM/photos/AUy1YQ3dyp1pPLc1FbbYoEdlr82rSniLrVjdHNtSYwntNgWtGo-dFi4Imu3M78xwuo4CFG7cvrQwAJF5NLTjsjgJrPnnOZ8Ot_sDA1SP3s8-kwMfd93U5kQxUThtXDuJzmhRLK8ICkv6ArwCgCh_pcq8kyMkmu6KKQ8GIAq2m6LICJ57F_hajKSxF5hAsYnXVOjHgBbgKsYVg2QLQnOc7RDl7XkDcqu1w-bhLDBi-u35J1QHMy3ajAtJNOZpJmzgfEg_8JCmxW9NCkxiAtPLxrc6eWGGy2FaQBTiX_dRMk8MlvJJZg
+    widthPx: 932
+    heightPx: 1635
+    authorAttributions:
+      - displayName: New Sushi Village
+        uri: https://maps.google.com/maps/contrib/116649728767083731195
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVEuvf15K1LcsQY4ZvrwbPxniJVKZ18_tvuw9UZcsxbUO2lowA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMroZostwkGZSA5jnVrX9Zb7Wuf-xfu2HqQNdrz&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMroZostwkGZSA5jnVrX9Zb7Wuf-xfu2HqQNdrz!2e10!4m2!3m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277
+  - name: >-
+      places/ChIJkyuoZX-KwokRd1J0FM8uXAM/photos/AUy1YQ1rVlsZZt3q1WedrN-IlVgmO9osu-n_LU7OW4xQ-796rvRti4X-xD-jKPA9xmMEyZHgmoKzbMX1bzaJiAjaD81eKCgcW6agnhV9cNIVlerZJz7sh6WImkZBW-57_6PwcFge5xSalbzq4kNsTbpvKpDZCYd1-7xNdUTyiQDrSWLgziA9cTZYoPLPdiQYLXoZ_5nataoegTCqhSinyH_6VB7cqRY4p1HeP5QBdYDBqDItNnGtqjeOOeCXAclD3RCc9Wl5xbp6O37RHC3y9owzPQWxrIHeXjg5vrRVWL7iT4NlujIyrYg9aBkNU3ajQV8mkUFKh1SIa7Q_zCrpMBLV0qLl_Y_lwHXdsbPuWhrH4wiQUCjh82CDA1trceaz7IE9Ee893hX17u92bxldRsklOH5sSepty2f1TVsq8X14lIc
+    widthPx: 1707
+    heightPx: 1280
+    authorAttributions:
+      - displayName: sunny tanou
+        uri: https://maps.google.com/maps/contrib/110785736868358434301
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJcivjAnvMIY61M_CWKG2EBvJW5PnRymljvA-do7DHltF12BA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDucGMNA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDucGMNA!2e10!4m2!3m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277
+  - name: >-
+      places/ChIJkyuoZX-KwokRd1J0FM8uXAM/photos/AUy1YQ3dT3tKdklozDvQfTNBLsQKIOYJzjGsloWEgwpcxEY_2NPPDVZZhhwne8Z1kpiA39dhEdxv-cN9bwZ8jvNkEziyixKyHburCz4Qp8h74Ard79JAdSNHXTX-Hsl56SWKqTi6GHMNcurDP0Pn-iejAaCno0gOBZmyGaEIrXNuYdf-URyx0NK5mVvDDNI7tH9RnGOLNFx-bDSKwHFFTl_jlLQU-jgfrBt6SjiTf86RXg3oTgjYY0CGfe5MFObMmQK1CIEeZKd3vyiD4-bYQ4ViR5NcZhgwEtmAkFtDB0ADoNAk4EA7lp987N176vLsnVJwHA0xxuJMs3BlGWKG_UushZpyncCxjanOqKU2nUrQU5UJBV5zgb5ORKmTiEleOF5LzIZuR7AQPrMoO_knrCPVbo6b2R9lWY33p43koY6vqvKh30s1
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Helen Tran
+        uri: https://maps.google.com/maps/contrib/104772168655678656121
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVEozB-J_5uZjoVIuf5kdrwQFaWElS1eSlVyw2RF43Fg0Sm1qkG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfgayRowE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfgayRowE!2e10!4m2!3m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277
+  - name: >-
+      places/ChIJkyuoZX-KwokRd1J0FM8uXAM/photos/AUy1YQ3ytoSUbnxkm69JZERVxh7QjCtGmOtt-wfxGAy8u5FY-F0jHc9FLsCEPCpGZ6ew3azR0cs6dJiJJI3Nhi8qmOYOlIJLOLrZv-xvTox2RjbhdQObDNc9tia5U7snItq1yicsOQ0V_GLmwK_oyRdjyJ-WRhO150Wdiifq3EHUInUlK5pqrrsI7nRpA-cBn-T4TRX6u1TideZBATVLQ9mN_gvZfw4pV36D5ytKNoxjAFOV-euw9otxJW_4vqAzP9GsW-SInBbYPtk8XoIsFvRnr4tSUW7gV8Yb5Ya5PLV-ecuhWZYDCWq_8-gOKWrlIaOKGN28i3DfBVCrZq7CxoaJ2lSmq-SBVs6ehaRKxGSSiTopRe5yLyLDd1-hux3EssvDSO-ktXix5w7epofe1Xa9fLjTrcp2fg4wD5kly1JWU2jBfw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Stephen
+        uri: https://maps.google.com/maps/contrib/108994309471616333432
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIRhCEpomIieqQldfTN2UMqmmWOXU1Y2SRQ5R_D4r6K3NyDOg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZ5MPOQA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZ5MPOQA!2e10!4m2!3m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277
+  - name: >-
+      places/ChIJkyuoZX-KwokRd1J0FM8uXAM/photos/AUy1YQ318yPJOutGNk14y-GKgdZEDcQW1wa1T1zoKmkZKmVoBaChXKz1IaaSKg_4ISEJjB4Py8fIcNPkNHL6-ILRPT8hai-7xo_Iow7iIJaRGeu-HWdazOfPGJ2feGxSPCfhoCNXlrhMiPzQHTchVoS4JQNfESiLAA2L74nog3MdUu4fJrtWvJPseaJ2zpLSFvSUTXdbjNpdOqLhg6Fg-g7LmzQcmpiO9JKDBiYo6DkZNtvAjqwB8qaw-27ernzBEFhnVt2CtPaZPBSQmA6pqSGCbbz_tsB2r1CKnio0wSgswKVRSmjJHDHgqWdhlIaKejN_lxUtUkakpX1lZrdsNKfEvlQYZokjoWdgwA1zzSZINaRF8kWn_PRMrczoMiKYgQ8oy4Q6N2xalk8QLOAnlD5Rn2rPEOOXQVa1QLPjWQn6UvU_qQ
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: i georgalis
+        uri: https://maps.google.com/maps/contrib/109117040589611169874
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWPOoBsbPaaA_NaRitw9ckYdcKIMiSxAHn_U0YT8_mNo76TApr65w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7tOH3YQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7tOH3YQ!2e10!4m2!3m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277
+  - name: >-
+      places/ChIJkyuoZX-KwokRd1J0FM8uXAM/photos/AUy1YQ0btso__GCH-EOKhzhgUdlcHR1Nk0sah7mJ-sPuFfK6CMskFgRKn1tmKLvpW7slkbe5ATlj6JWoSx62WOsZjiuEeSEqL3KTuQO_OrqDuDhWYIk9FnUZ-NgMOqSpr_fW59CkP5OtymaUBwlGiyet_YSyHJpjVMzJlh9T15Sc7_9lV2tvF9iKbmdAmCh8-nbez0FJGjjYfq0Pn6XfzItJf7fXuic-L8JQhjRpAvgCwhkdzH88d-heRba4trhtNDMouOTLDc-0cJyGUVfezOvWDps0PnsVnJr_lXqkv_3YnWmrSAZchnS-WbFBXTfN1CChuDhGn2igoU3DKok3QUV8nITILLtjbUGJZf19DaMcpwoUsFqC7Z4HJy8v0avI8b_bDsAZp8aUKoeRtWMMzI-5F3CJlcF_Mpm_EyyTkBD6inkWxqE
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Vincent Su
+        uri: https://maps.google.com/maps/contrib/113186111323334102493
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWFtDJuXwXG9cq0Ty4bJIBjOTVKkHunwcYXluIVYL23Qen6wmA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPwOy-qgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPwOy-qgE!2e10!4m2!3m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277
+  - name: >-
+      places/ChIJkyuoZX-KwokRd1J0FM8uXAM/photos/AUy1YQ1wt7oyr3WN4E1R3LOM0GwFySJO_dLjW9xYIuN7mgho_T0rLhWu7Zj1PEq6QAV96rcqhtvi-R-KCLAIV0hsrC3DQjz-aZol6zju9pOFh8ezmQC2hcJSNRpZLbCB75AcfxJrdTlRgth4rJwcLdVk0azGwfEmgvpqvVses5OCyHk1GSLNLfGirOnY3L6ixd-ys4CBvdUsLdkl5H1zQiYKfTvXt8PFH6zizeUdHYpiT3sBlRGdyG3qLLLrHqmqs47PnK5eEhepK-2uBp6UXD8C4PFnhA2StRXBHYK4k7ZgelqyyGYfl5j4wO50YSOEdmNVJQUQDrI6iwO4QOExKcC3OWfSONsZhLWV8Jt1M6DuW1sxEZQI3uLj-NVq0KG-nF3I0YbOZR-7S9v5w2ig22dvnBYiEETVBOUJW2zu2oU7xDLHJw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Olivia K
+        uri: https://maps.google.com/maps/contrib/100909615162835267278
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJWTYn_FiLo6WQL1rAb8uKzM8XqjJuQ8t9fgsnZ_uMsUO_K6w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID62bnfUw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID62bnfUw!2e10!4m2!3m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277
+  - name: >-
+      places/ChIJkyuoZX-KwokRd1J0FM8uXAM/photos/AUy1YQ288DhgeqluAycOb0op0qJRRcMcRkMVR8whPYTqhriLsBQCC4POudjh59nOkyAn4Fwr45kUchghp0EjX0_XHdE4aYTrTe1H0Z1LqDAYyo81QydCqOTKo4FltGf5TeKyqhaRimoXiUpGlQ99jXwaycvo73P-zXjMzXTnVEyfs8rWARiTCJK4ek8EKSvfdVFC1AbP8LceSI1VJD3X5PSc_LyTTJL99yL-i8Xm1dmOEdOM_dEG68Q2yR4h3icPoaVQceOQrftZTUekrn-lks9ErxaKexpdGsWVpm472vcPqi6L8Fe5sfGcoaVhytBqw3IKpharlItlTyfby59lZqW19mjeItdK1xEuXYikiUDDLA--RE6EHM4ggqzHAm-cMllD4NsoU0QWjKkY72A8iyaGoj3FrCe5QZ_T5KVdDVYxL-rt6mg
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: i georgalis
+        uri: https://maps.google.com/maps/contrib/109117040589611169874
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWPOoBsbPaaA_NaRitw9ckYdcKIMiSxAHn_U0YT8_mNo76TApr65w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7tOH3_gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7tOH3_gE!2e10!4m2!3m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277
+  - name: >-
+      places/ChIJkyuoZX-KwokRd1J0FM8uXAM/photos/AUy1YQ1C0WKGGIACF7WKF0sliSE3ilRB8bytcB4-qPABbH-hfO-9wq7IqgtYNQBsLPxTYSBb3VR_1_jtQ8VolQh0j6cQdrcH_J79bkDrLGpmH3rUOdyTSDBV9TcSDLvYAAgltRRU-RCFWOZA4E2AvrcSFb4sG2wgmwV-D9HT6-2Xt3zUc259yf-8UQ_yyVz0c2lih_QCR36MEwIchSKVzC_S4_8-cM2lmon2f-op8McVHHwQ8CUk7ZRsuuxvHmchZqewImLQcb-Nn9adZn92H5pt3bk4ceAm2L_E_J_L1reDKEU3GTdvEteuL-KKZcyzgTelE9ATIb2KrSkIpKD6oHfnplm5O2IAXAHd4G8iwOYWQE-oBFjIdU-9pWawHSXw-aNnn5rJ4UryLMIUdj7BNWtIOfPR5wYhvnf2MP8FjiDQsHvXpqIj
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Pui
+        uri: https://maps.google.com/maps/contrib/108805607763149371225
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL1Q4QyKla97WMlMN4YLG6DRk1re7NpGIJgxSxbPeLo9n0Uuw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICz_ZWx0AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICz_ZWx0AE!2e10!4m2!3m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277
+  - name: >-
+      places/ChIJkyuoZX-KwokRd1J0FM8uXAM/photos/AUy1YQ2l8D_mHtcmSPC40_jlKP__xH_Dv43pQ519GaDiqs85Hkaqxv8KGzTm_stSbqdvd_IPH9lNSPoqICV_Ja_N6P5eTd42kPCzfPsCi5YJQ0D1pYxrNc-4q_nIMdY-vQmhCKdlg0lOzFKDUWEwAX3WjbF7D61bpyvc2IQVoYQZSeACruBKDrcqM23nX_rfVBYx8cUlfRl3heSyO-LqEtujUKtNlSulSHUx3kXGX7Fn7Rd7F5UE5sZYN9YbPsvhFG1yN_FK_g2DPWG-0f8OY1hUT3oSpkXLdlUBgfUH4xUSWHbP5xy7XJ5WzEE-eW8y_Wo3YEoq2gOu5o_k1kPeq1gtmgRlcfW4GAJEDt08Pi7B7HZJLnldMzoeuGZDbkymgpuapZWiD2cPMurl3IIuhNzQfcQsu2jya_NnH0mk1eFjdZgYdSI9
+    widthPx: 4096
+    heightPx: 2304
+    authorAttributions:
+      - displayName: Favio J Urrutia Avila
+        uri: https://maps.google.com/maps/contrib/109625895108279743749
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWiCd8XQA3pqITVAaqOfOmwJRMCUUzRIv6tXdhswu8sOuiSmvlClQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkrMn-3AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkrMn-3AE!2e10!4m2!3m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277
+address: 3250 Francis Lewis Blvd, Flushing, NY 11358, USA
+street: 3250 Francis Lewis Blvd
+city: Flushing
+state: NY
+zip: '11358'
+country: USA
+neighborhood: Flushing
+latitude: '40.767623'
+longitude: '-73.791060'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: New Sushi Village
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c28a7f65a82b93:0x35c2ecf14745277!3e0
+  placeUri: https://maps.google.com/?cid=242119946907439735
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c28a7f65a82b93:0x35c2ecf14745277!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c28a7f65a82b93:0x35c2ecf14745277!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c28a7f65a82b93:0x35c2ecf14745277!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: New-Sushi-Village
+
+---

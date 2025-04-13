@@ -1,0 +1,212 @@
+---
+layout: place
+title: "The Basil Leaf Sushi and Thai Restaurant"
+permalink: /north-carolina/high-point/the-basil-leaf-sushi-and-thai-restaurant.html
+stateAbbr: NC
+stateName: North Carolina
+cityName: High Point
+place_id: ChIJ3dfiG-IFU4gRs62aSPabENw
+photos:
+  - name: >-
+      places/ChIJ3dfiG-IFU4gRs62aSPabENw/photos/AeeoHcJULneo9pzRwyJ7wo_34Bm0EzqOmcNB9TCgXKErjnjOO-NpprBwkJYLyU-Yh0odPPxJmPiOyRX1zw_ZnuUapM4LsnQBfbsF1bFPmYXtPApG8rekzYiTU75c012EBdXYwFV0ZLuC4StYzfekQnuJq_4-vrp9_NgZoO7INye_t5Cb5MAakIirfO_M6ir-zfVYJGGr7DQRIqC6Qgz4zlZ6NYu9RTuYMbvHODlmzuOs1AEa3MS0Y8IapMp6mLZtgejVXN3qG2nAUhX-p947LPbk7j-YMDbmreU23Jqf2Xo3Ql-vZg
+    widthPx: 2048
+    heightPx: 1536
+    authorAttributions:
+      - displayName: The Basil Leaf Sushi&Thai Restaurant
+        uri: https://maps.google.com/maps/contrib/105588664418613980326
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW8CbH9DzmYlt9YjG0EDlk6a03dv6udKt6clF1aTTjQH4486RI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO5bwPeXq6D-aAEV5eJYELCe2EJBycW2sHcyXsY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO5bwPeXq6D-aAEV5eJYELCe2EJBycW2sHcyXsY!2e10!4m2!3m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3
+  - name: >-
+      places/ChIJ3dfiG-IFU4gRs62aSPabENw/photos/AeeoHcIyNgpIFnWsHM21JK-x0_hhjIwuihcmqj4IHRdgzM3Rf3hXNWlLek3pQ6lor__d95NkPoWvStUBcbLHIVaZG2leToi4D1pywssD3MgOnO8o_u6dbm67iXI2iTRd3BULm8DVeQzmKrabioD9yab0rPfYI13l0atqIyQo2XEzTEcWBMo3FoogYmQV7Q3aodjjZaTP0uqlgZZ-nwqV8iT0ZXpd5Tia5tno_QJU8GqcRcPBpgA8y7ULsb1ek0ZiRE7U2wwjVX-YMgoSzdG9HhJj1AGU_coY_UhC0SG_-uRwmLty-g
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: The Basil Leaf Sushi&Thai Restaurant
+        uri: https://maps.google.com/maps/contrib/105588664418613980326
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW8CbH9DzmYlt9YjG0EDlk6a03dv6udKt6clF1aTTjQH4486RI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMmxH2CulkVexAg5OScRFElcYbDuXs45RJkLn_t&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMmxH2CulkVexAg5OScRFElcYbDuXs45RJkLn_t!2e10!4m2!3m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3
+  - name: >-
+      places/ChIJ3dfiG-IFU4gRs62aSPabENw/photos/AeeoHcJ5VeQZn9u06hGWvQyTtCFiD_TUirX3i0oSd1EakrHfhJEayc50ZaZ7QBmv2jGeT18adCIQDyhOqTTTKFgHXPE0NQAvfzy_MmkGIwIwq5Ctu_fvMTurzU9pPeM1BgVAAB-9c-4Sj0cw6tsoho4JuK7Ir6AW7z0jmvqEwChTE6btgitZv8CrmyM9iFHEq1Zo33KYLBm--IQaHjBTbfo_eYzllqm_hvrWn0i_BJ_yGeIylsnmDIps2gFJSm3IlHRg2v4bilNob4G54iRCPmSYW4keypnCNaJoAbrrF6ZUvw4lcsVjijnqy5R9LBzN3tc-a4MZZAU9aDB9_3JTxLNO24FapifHbl3bM3mfb30xdcZlzdqsk5DAwl2SsgG7ir_T_6s26b3nCfovNgtDlSXKDwKQYYNfX4HSIZ2nL1P0QBwe8ky_
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Windy Gibson
+        uri: https://maps.google.com/maps/contrib/100602162524020562327
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYeC4Ea79Og67S7_GJSCl9TLqHn-nRauOnILe1QBNBBAIKvGTtTQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID78ZmIzAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID78ZmIzAE!2e10!4m2!3m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3
+  - name: >-
+      places/ChIJ3dfiG-IFU4gRs62aSPabENw/photos/AeeoHcLHuKh1yVBX_MK5Lvo-mu9VZlhDwijL89Uf2jLfw6To8jP543DwMCpXvCxX7yWUi-vDJuLPnAw_B51BYSC1jXz1PHMSMeh4ds1dinXdaZZ4L1nbFhz2E-tl4-7YgleHaAQ2BG-sRL-DrgEdXDaUB4PcarC1Sw812Uj5iWuGcpaI-gOTKOnoFP6PKg0JiG9DWeaOpxri6M4gffQjVbR7Uu8ybXD41hK3aO5-7kafUG8ObLSUdbnInePjk1DVYbLYg36FawXAEkKYO6O-fqqO92pZxlsoKsS8WyisnfeLAGkQdLVx4KcH4IV9xG6EDdknBVANcI2FSf71zLT-q5rNT4lMCIl76xEU_BSDoQyMnPe-DAYd6YZndi_wpmXkd2FMbAUbsfyOAOtTGN4BppLmIAO3crfBeu9Qp_5co6i40vqTw5Nj
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Keith Rudolph
+        uri: https://maps.google.com/maps/contrib/108557537898620014310
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWq7rrVeL14LoMR-lE-DiVEbX6NJPxjO5ml6oCXZWwdSdPVZd2a7Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH49Hn8AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH49Hn8AE!2e10!4m2!3m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3
+  - name: >-
+      places/ChIJ3dfiG-IFU4gRs62aSPabENw/photos/AeeoHcJWdHqyKTCpIr_CV_WqTzUqWG8PM1uJsRRRNvshAiNePFhiKLpB6AAC14PaoYrd5RVLL7bclqXnQ1siDEkJ1Xk80C7pydTcV_mFjuUQepWZy0SO9JjJ7nwE7sBgwMj8wfP4nMrHLX-FuVb3-SrjzHFexns98KRg7rcF6_uSV_j6DuHIvXURkNmHi_IpSh80lNdQGT4pp_BJbEHJx7gV9orf9FJaqHc90EMC2AgII-OTC2sIznpOZnosxqL94FYuph2GNHYX_EzTXxlFKlk7bYuikg2epbPiYJSIYaUBJjubprD3V-3HTSWMBY2tKjn_6BdQ_7WhmleDHGDbK7FIAp5HIIS4zn-f3xriMyEJgwSw1yhrT1y0SnrGYwQKIoJO4537nrX--W3kZ7gEDKVFR_XMvaNLsOkPPoCld9iB5m9NJQ
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Windy Gibson
+        uri: https://maps.google.com/maps/contrib/100602162524020562327
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYeC4Ea79Og67S7_GJSCl9TLqHn-nRauOnILe1QBNBBAIKvGTtTQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID78Zm4TQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID78Zm4TQ!2e10!4m2!3m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3
+  - name: >-
+      places/ChIJ3dfiG-IFU4gRs62aSPabENw/photos/AeeoHcLmk_lYPavx816eo1tXlEbVpLO2ij7u7R0FEWKwiHygjAczIJc0S_cGwo6VBwNWSQGZNNllHIZi6S13EZTcz2DAH8wY0I1GQ1CHTbtxYiC-1gKfLrPTrFkAUd43u0hUpkacBNljgDvjNM3fLZesf8TyrofpLNcyKYQhP1mFDxgUg15guDD4ZGgB_kzAW59dFz0gpRw2yjtfRXx0-4R3Hqdtw0t_drmD2zzeoHhc2e5EnRFF8KIDNIUX_vpqXvmEi3nY8S5QnDltXSr_n07TcNhyfsPyZXtfmSddlVaf9onL7wiu76-wVfgxm_gMKdfHuh2AHOzpMqV-JFArcfNkX6yEMvGqSXnKxV81Efqlmk1jkKkH7wtsPplwOxz6bl7sCcEftk-NqOc_ecWfLliPZYpPftvNhRhXgSy9B9PTNKA2SI2S
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Terri Kane
+        uri: https://maps.google.com/maps/contrib/111403191172975657344
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJUdQysbr1O08sdirYkHkS5EDY64bROaqlmattuOeiUrBUYlA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnk9HxqwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnk9HxqwE!2e10!4m2!3m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3
+  - name: >-
+      places/ChIJ3dfiG-IFU4gRs62aSPabENw/photos/AeeoHcK5IvyqAc-jMQzPGJHa3i86xaLN80o5l_QnUgDGCTLM1GfwOEiIWwKqN-WP4e4ltj0zFz5Fs-awGdsOz2JRjcJHcYdLCF2-DngA9886Ba_B9gpv3O04UheZWjWJ8Tr2YTBa3jGyJGAvnW0mKkGDOFF24-t5IMI1hK9MtrxVmTT4GtRVVJa6N9kDKvvfCLT4M9i8w2SmcUvWcbZb2qhJOb3Nz94mZzl5-be8IIHBMoZA3629zXmiBdBTuRT_5l1j1TLsmDiBJTL8PpBkMZwlzA--WYLikgKwXOUIdNjRF3CUvduhi9kqgnxUImPGjdEoBoKQmPsual6LAapl04zAq1rJ2iCIGI-TvS_dszRQx0yKjiK2Pfc4tsVnBbYyVZwuwltocg4ENjq3IkSf_lPPCvqIeZySuJw_TzcDfKAtrgzn7Q
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: multinancy
+        uri: https://maps.google.com/maps/contrib/101608039487223006698
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVcm0cesaoRyFlTE-agnuzIUrTP56Gk2xDpZ5tQvMT6mwt46tM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDVks2jKg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDVks2jKg!2e10!4m2!3m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3
+  - name: >-
+      places/ChIJ3dfiG-IFU4gRs62aSPabENw/photos/AeeoHcLx9GojS02aGSHLN-4n4pB6vYdQXqWHge-DUNfSX0Lp96pStQd2puk20jztu3piLe4usNE518NEXuxgcliNcmtqJaaawFtkGBiNmFxxcadEa4mtIPSrNtPKrbWfvgiV8_RiAuHg8eGNZyvHP1GS8Ky9ZK5u4WGDEEksL8vI3jlQONsGvF4ZX5S-mLKVYrjOX6tvltWGx5iBut_Er7guYu7qKCNy5bwBwjct4QXY80NAZgnzqq5o6TrynmDjWIOHEG_Jf9f1AUk2eJpapqZlyLRNl7mBr-LixrdLjho-WuYOEqbAvHYZcGPhFEwXLhgmhNeFKpHCVOmDZtFkQ5ltrvwlmSbrGKUtww4tWNP50pqZjqNRVhHoFRgCRP3SPOw6EDkkZ2AYh4ISolQTgE0PkyIAaepS0dMGIpfhiqPsNvCyLQ
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Keith Rudolph
+        uri: https://maps.google.com/maps/contrib/108557537898620014310
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWq7rrVeL14LoMR-lE-DiVEbX6NJPxjO5ml6oCXZWwdSdPVZd2a7Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH49HnCA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH49HnCA!2e10!4m2!3m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3
+  - name: >-
+      places/ChIJ3dfiG-IFU4gRs62aSPabENw/photos/AeeoHcK1ba5jJYLz2D0ngDDZKIbmKv3pdZtvLqyrQNidvR3ggbMIjk0ci5q6tXDDWF5wQFjK3FMoNzj2OqXopSt-_sWKDkphILfPxXuUX5TXdcJteFeOPwYWkmDE1inS_Egcu4rFdJRlieX9pK5-bbUpJOljkRPRg3svDWYHHMbuWVsq4SucpizHfZsTAEf0sZxm2w2G0gdC1Xg9IQYC7zTF4n5dw2aHEyEMhvuB4U-6FRPvSPrDPn0kI_rGJR0M_LJih-YLg0qEic3sVkEKQ5Lm3EhFJzccvejSbWLtebaNSlumSraeAHvhJIO14FntLLYgHB2y9BlCS7gNybNV_WnKhNrZ46nLPULu14V1B3f4ElvvWicDXLfJTlGXp6xjGY60etWnTQM2CBgeqHiaO8607U5lrTHC_Fcu9A57VcEJqDk6USY
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Daiane Ferreira
+        uri: https://maps.google.com/maps/contrib/103524626679976032643
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXTOEclASbEujoP0H1-lJ-Qk5oTZEh_kFnHfCDYEZP3HKad0gRL=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT2Z-QuQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT2Z-QuQE!2e10!4m2!3m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3
+  - name: >-
+      places/ChIJ3dfiG-IFU4gRs62aSPabENw/photos/AeeoHcJfwKECA01SpCRfBypxjYJgB1cHRB6rkHxkhZ6UvW3T4o0_D_YfMszOJ6nZV2Z35ApTGfqjlUQls8KvtgQaSv3hPB5Xb56U63SCE4exPw-cuOzpzV5LEEfkPJEy8NlbF4CR8yCG3O0SGgB8Pc0Z8SFUYCcmtv-Oqsp1MKLeEeFbhGqUDObXtm6fyo8szr8Cswcb0eWqLMYlSs0l-01LLj5f3Cs9IBDV74PEu4EbNsB5QohbnmwQmVdBoFipGXMVZtWr1qowE_reOKQYpusg53y1sLBSeZ1uYO_JpZw-xGqARCNtZDOfEar4TKk7shyVqqgIxZs0BhRn9y3rQ-ILQHchW3aH1Xf8nO3-3DqvNcP3ivqhbWFDdeuthxGsYUDYHas_fLi5f9uvNSqQ-Hi7JBm-zqg84osYuSL0HJ2wcfZurFu3
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Devona
+        uri: https://maps.google.com/maps/contrib/100259946107148034495
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVjZT8oVYRBvrKpPdq7DUz1fVYW1i00_SdUaAUwxdnLeMAzWGnM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDjoKf-AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDjoKf-AE!2e10!4m2!3m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3
+address: 2766 NC-68 STE 111, High Point, NC 27265, USA
+street: 2766 NC-68 STE 111
+city: High Point
+state: NC
+zip: '27265'
+country: USA
+neighborhood: null
+latitude: '36.042534'
+longitude: '-79.961532'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: The Basil Leaf Sushi and Thai Restaurant
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x885305e21be2d7dd:0xdc109bf6489aadb3!3e0
+  placeUri: https://maps.google.com/?cid=15857345770053873075
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x885305e21be2d7dd:0xdc109bf6489aadb3!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x885305e21be2d7dd:0xdc109bf6489aadb3!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x885305e21be2d7dd:0xdc109bf6489aadb3!10e5
+primary_type: Thai Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: The-Basil-Leaf-Sushi-and-Thai-Restaurant
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Monster"
+permalink: /utah/west-valley-city/sushi-monster.html
+stateAbbr: UT
+stateName: Utah
+cityName: West Valley City
+place_id: ChIJbZp4eZyMUocR07yBVZDJqA8
+photos:
+  - name: >-
+      places/ChIJbZp4eZyMUocR07yBVZDJqA8/photos/AUy1YQ0MRDxMqcdI_vzoq9N-d5C3q91Uo01IC7ctHi02ZPVcRpDzjcT7rAvKen93OdugUt_sB_ewUMkkUEwjlQ967bYelfak8LaYbcjKgHRoc8aYBrPxtYtDW_axVPcuBaSG1MoZYqK2s0P2eku6uH07fzw7eEcc0RuZVkKqkDLNgZd7TyEr1eYssITaVEjPpkZylkZ78HuFbUR1F1n1A2soqr9gHTrxeCHsAjyunCDeww5d7wcOhy1K41i6Ay1qfKeF4i_cSWSHKLDhzRVUzpSmtwr22SLzLTUkAyP_WEUpI7fkXrSi6KS3pXSEyrFGmFsGs7kXIIcNszeI4cLG-9dL2JrzIqO_225HWBJsunctxMGDbLv7bkAlGvpx2PJo1_3jYw22MtmqxwdPdD2U4GMJE2WjvL2VPD_410i-KPIJ5eGhIPZ_
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: Katrina M
+        uri: https://maps.google.com/maps/contrib/117489935459677300034
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWL-kN0aa26VzJjOCxO87h-UluM87NLC5DqYqQKlVYxg0A7BS-5DA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICM6ujzigE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM6ujzigE!2e10!4m2!3m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3
+  - name: >-
+      places/ChIJbZp4eZyMUocR07yBVZDJqA8/photos/AUy1YQ3zbjaFREecrNO_aQWpwBBUnfe1_ydxzrEaISO3D9t3hqS3tT9HtUu8MdqSjotjcglJ43WBY6UKp5lwdSCAF9Ik2XIopPhHpM-9rtWFx9AVoelVKOQflSem6H3D13GG6WCNdkioLvyD5OZMuCrWw48y9sWcLEVTmTGhzpMYNxl_0AxgdwDIIi8rptHB4MGRzgkxVWHZm06sMP4AK5P2C0aVBaA2HZH4-8CbMy0RYnjZW2eP01jh9-oZu6iGwwXlfWllv7H-QwHEpqmA4V5WJSQK46wP5mZsSYlDy0r1M8f_f3cDSM-jg0ukq38fsULc-nCy4lJ-ePZjk7nTj_fsTnz4bB-M_OEnGbrxTDmrYLD1hBsNRtfEnWWE_cqkZIA9pVK5TMrn0AFYwvCuR05VvLeVojSsPCZYLpXUuv5PRvvklQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Roo
+        uri: https://maps.google.com/maps/contrib/100329366117112338919
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU2tv1E3z9tU0Wn4QfdYo85K-3Gj_V4G9AESRbTa-CqmBo8lTIE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICks6eUGg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICks6eUGg!2e10!4m2!3m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3
+  - name: >-
+      places/ChIJbZp4eZyMUocR07yBVZDJqA8/photos/AUy1YQ23K6EOydZEu1gooLqazZTmFeOuzoQpu3Ygfy3I1pfhsvSH7RO8__LwSn301gbS7SJWvpEXwlXiecDHhxguyCpCdCeLcnoo6SpChZbj957wwdNwWjDjv85r4J891vd7LRoGPAjZZS50bZ-X84DdY2BvEBRv6IpysT__wWLjHCHwGyOfL40nE8UmjOpW_EFL7z2jxtz0iVA-TcKqZaXeTsQRHZ_UYeAYiDwx3XbWf9ZQsshbQREErV2z4V20e6mPNrhunboxbY6WY_6l_vQV7Ps-B2KFP_rO9mr2kdOC9c6IgNfIMVN2jbYZKu6JME30RFQWFpUvNJFUo-FMfCPU9K0xeDJ2PEZ5EI1I3yWjPR4sIc1zQ6itY7mF5X9OHHuMLUbeg6SuVE9yurAcYUVSUX1NELhiGRdL644GtxhXKfy45g
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Bryan Hepburn
+        uri: https://maps.google.com/maps/contrib/101242193849595673368
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXVOUzwVs1XAwOhRB0J0KKMDPNqF9jUABeRsrmcigx6Q7XFDh4gQA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICni57cBA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICni57cBA!2e10!4m2!3m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3
+  - name: >-
+      places/ChIJbZp4eZyMUocR07yBVZDJqA8/photos/AUy1YQ3mUJt-zuTRMqCh74ThRmOCgANIIAphiHW6_-J4rYxiKyB5jyrrG7Ul5VZnB7ZawvQaqLGociTloLr59SIjpbQfL9wD-lxSGgG4HvHPgwZPP1KpumwkGWvw7LE_YC39rlR8O41GwNsAsAvAD7GWlV_JJ8XVE-omeJ7oqPNT2lW5QW5fbSbVMn7xL3l3RoI8QJf7TApj9wAsDQSRTfR2ejO3HCnJ8gyanOjohGcWyEzeEiGRLKIm0_Io8KttoJq19UUT3_p6HagniPkzdHO6rhtoPfvzSgo9l-fjQG6I0w4bmF6HrWG6uYXHwt1z7mKXRswRuVR-xR2p__ZC-zz_Y8KCCMUplWS80vP4RHcXgGc4jFwTYi5WKZMIcZ8EHx2t2cSFSKGTICyVC03WzIxPKXlmNpXtrK0qm2vVl-Y-7TiZ9g
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Killer Cane Chaos
+        uri: https://maps.google.com/maps/contrib/115105387274820872052
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK4AHQkcQGUMvv_LGh4XaTKMn0ngHHCC8yPqD8z-NB1nbqZbw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIChpeDnQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChpeDnQQ!2e10!4m2!3m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3
+  - name: >-
+      places/ChIJbZp4eZyMUocR07yBVZDJqA8/photos/AUy1YQ32s2oiqvvo7DlmY39V8C1Ofr0jPTnrul-5g5a8AWaDlZVUpbb5sxDWPx-czYqWBwoV2zBAIrYNHvfBgD2-fJw-HKGPi6tC2c9HFzLxWXRHGNrY71HyEy6Lxs8LZpy5TmAern6z8aOHUxLC4ztr386QZwjrW4YLzY4BiGxtrVhg-036EgmvSXC8Zvbyc3yU-9V8CI4pbE3KMvq9V1BoJIZpuqfjboK7Br-nuLyp1ac_QYAXnj3E27s2-4GUvhzVjX6vH11586rpz867sl51k5zmS4BTTF8ZiEjVl1DYTfaowxt0QYxLtUSXTZ5Jps1yA-dJnRPE5wT5PlucgT0LHYT6pFTqL97gSTT0uWz8Oyfa1S1RL-GVkLfL3UeqxZhP9IOLgD9PAV7xRlJoafCp7aHVJ2u1GLoBJa6mOvIOVd31nw
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: June
+        uri: https://maps.google.com/maps/contrib/105559525754787220824
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLtZ9LvK08sjsKg7MgbPwDBM0m03fkk78w9ik0XWqSdXTi2wxuh=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI6Kv_Ew&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI6Kv_Ew!2e10!4m2!3m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3
+  - name: >-
+      places/ChIJbZp4eZyMUocR07yBVZDJqA8/photos/AUy1YQ089ov9RkEsE5ONI7gM9oxxDihmIuWq3LFJoLzQmmtdTHm_0xwBiNbAD05FXBqDb2e8ZvTufRYEaAWtWHCGotZRFtEs-K7JwV8LT3vjfAewfoIdlDgS782S59qAjauDkOHU7YvngeGMbYv_lA2CeEEuHck2GuUmHx51ntf5tCNEV1CDVB1VLb1eUSa51NK-muT1hcPC9UXfdR8xF9vbBKlZhmujMC8AnuaO1Z0uCCT9Lr08y7QSzaTj2v56V1vtx9Q8n2xmsJcSUcrO8BVDSu-nzFvSzWRciuEF-0lqJ4WC8RMLgI7N-SG-2vK5_WTvJQFCKGYhuwnE5JwztkE9wL-gNSSztkXx7GbQz81BWXfv5cch0-w5teLcE0EQ_won2vDBofqm0LWqjxQeltVvLYUKKRHtdIJxBOnHau13B90
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Bryan Hepburn
+        uri: https://maps.google.com/maps/contrib/101242193849595673368
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXVOUzwVs1XAwOhRB0J0KKMDPNqF9jUABeRsrmcigx6Q7XFDh4gQA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICni57cOA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICni57cOA!2e10!4m2!3m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3
+  - name: >-
+      places/ChIJbZp4eZyMUocR07yBVZDJqA8/photos/AUy1YQ0uBOvQJrOqYZQ_4lYQrdPSlIampjJINqlmADhTatymCsNE1DlVDraId5nuev2rHwrIiTU9VhDjA7mpgaLNLeo9DZ-LaRhaSOshzGzR9SeiqrQZHU_nRuRfr9OWx0k07ZNq4l7878PLMjHGZvVAnDTV8L4ESf1LYthvxie2kYg8u8dZz4hoBM8sMEPvcBw2i8WFL88WDdePb0bvMMFXjH4HAXlncP5hw7F6p0TecitnAhxJdP07GrkckAGQXt8KltdUcou4Ne6sz4pw5ztPnRVv-JpZk3ODAxRCklcUUHJCalXBIXfWyA1YHuxBSLVsPKYJBjnIGmJ0zgFgU4758HwyEUM0Of2CEszGKPeHmbg9hJooFtyM6-ldCSGaNL5l2uXvR4r63IlmqA5rFPldwMOatW7mfSpTnujrJN_yZm6qmg8
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Bryan Hepburn
+        uri: https://maps.google.com/maps/contrib/101242193849595673368
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXVOUzwVs1XAwOhRB0J0KKMDPNqF9jUABeRsrmcigx6Q7XFDh4gQA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICni57cmAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICni57cmAE!2e10!4m2!3m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3
+  - name: >-
+      places/ChIJbZp4eZyMUocR07yBVZDJqA8/photos/AUy1YQ0QV4jTx8YCo5IXyFijLzVvbMEmMadFIVD3rh95fbjf35eeMkZ2be-bb7J4jU5tXXiNDzopm3ALGMJeOzmzRy4tGMXPtUCbDsGUPYn0Wvdp639RHmYj5PKO0joWM8h6f_4a01XURkjaoWeycrAM-PQlKM2Bs2KQ82UrbGqbNi4_stKWEUEnBWeKSGR-M7Tn_oQV3tgsa6bPbXPGHxsuOlEvIUS5YH5bZ7cMehhXadFHGZuCIpo86nGclGQOW0SZ7wxtDqqI9PU1MB1ucxE8eIG6smxGbAXG0lJIfm3JP5To9hQTqfipoEHCo9x8lAd498-dGGwl8HA_q-qAalrrMZGS7j-qZGgs8Y1RxXLsMH6mHthDKxPQMgkwHgjN7a3ISypiZmZBvDC8qRY_sTacd0zKLcPm3JNqqwmyA5hYxvWbb_C7
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Ekaterina Nosova
+        uri: https://maps.google.com/maps/contrib/117967420656378510845
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUiCqrbtKsKbRUTNfLFdVy2WckDsbSEaatQyx29A1puzTJTWHOUCQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZ3dHi3wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZ3dHi3wE!2e10!4m2!3m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3
+  - name: >-
+      places/ChIJbZp4eZyMUocR07yBVZDJqA8/photos/AUy1YQ0zSM39c14CdhXPTVEI4dU-fUmU3IABF30cPkQHNWAcgiRp52J0g47xQEDlhTT3nwPoxh-5WYI59Dpcqj_7XHd7srU57wY_vymzWwtLdMj-umTJwTPMARpO8YMf0EAtq2WSK4ANyASDqd3ZKZLW3ZESdZo6upuRODg0ueevb7P2yiVNatXZK6Iceqr6lDwRdkb93mvztCApQcnB8k5QJ9gZIf9lj4fDE39aCBZebYykZK0skVuGM0QuvLZ2MDHGTYD4iDRuoOG6iB7RpD7jS1t_AjtzXG6PBcOUNQDdlSs5oyszddBU3WmDNsYtcz6rTpCpYCoVEMlRdpAcKYnoDsCfnn2cTPo6UsszF-40Ohe_csr430O1wmNsktGQXHRi3KgdrX4BLy7C3T91oTF3dRB_XGvPZC6lQEOd_s_xUo-uajr-
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Nathan Day
+        uri: https://maps.google.com/maps/contrib/101455113680748834737
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLRFgjogsiCDmrujpdZ-wkkLjSdW5iOyOsh0OBLxyRlQ839ZA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID1gpGI7wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID1gpGI7wE!2e10!4m2!3m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3
+  - name: >-
+      places/ChIJbZp4eZyMUocR07yBVZDJqA8/photos/AUy1YQ2PAyt4vwA3ZmjWi-1qIXndcQo7JMIVFs1cInqA-mZmRRWRcpoPclzQfDcJVq9rIssRwSYLPbCn84eCySCzuPvSfkyow2dCKXU9RcArQB-4KdpdYlG2zy6LKtqwnBKU8b9h3gGLZjOxBitAXK6uXJ8Gg6ZA5Wd9iKc35a3hr0juuXUOiS7sl8a5xS75Vr2zdaSoKWPN-POgkqdRa5VXNzXYMAFb99CdayS4oheh3HAlPUZ_joYTa2GGunEuLdXK9eoWizq1NgoExb7tIb8uRs9ukaeIDuKK08roRS1SnS005iADWKABAGNdfvccr6G1qYXRcOqPRMtoO3sgxIZtHr5MwPzFDNl8XBZgpa_1qvkyzrJl0htc6gT9nHnJbpQPSqozua64P-yw3yd2NJoh6ZrOLGt1o_Ce5F-AKxqVOUKYSg
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Samantha
+        uri: https://maps.google.com/maps/contrib/112496586015454744960
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWSwQuZ8KDN_Xh2txMvYcaG_Kv1At_j0g6RTVV3pWxIZt8E7n0ArA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDdw7_pAQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDdw7_pAQ!2e10!4m2!3m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3
+address: 3567 Constitution Blvd, West Valley City, UT 84119, USA
+street: 3567 Constitution Blvd
+city: West Valley City
+state: UT
+zip: '84119'
+country: USA
+neighborhood: null
+latitude: '40.694884'
+longitude: '-111.957452'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Monster
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x87528c9c79789a6d:0xfa8c9905581bcd3!3e0
+  placeUri: https://maps.google.com/?cid=1128373328403348691
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87528c9c79789a6d:0xfa8c9905581bcd3!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x87528c9c79789a6d:0xfa8c9905581bcd3!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87528c9c79789a6d:0xfa8c9905581bcd3!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Monster
+
+---

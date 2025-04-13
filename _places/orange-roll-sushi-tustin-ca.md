@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Orange Roll & Sushi"
+permalink: /california/tustin/orange-roll-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Tustin
+place_id: ChIJR8Op6dvb3IAR9BvbmiJquMU
+photos:
+  - name: >-
+      places/ChIJR8Op6dvb3IAR9BvbmiJquMU/photos/AUy1YQ0KGXwMrlcioMpx2zRzxWgLUphgTx4qlP1OQWgrkAncGqjTOMoTBLsJA2tvPmmtw6EHSRuZQ7EHiIuizlrvI58iDbicPvGgUhrOWvryS5ed_RRTpUk_K3sFcL686K6fLvdY2fW54c6jE1lFE2Q2WKorZdny4OWZNxKSa7XVnJaJBE2ACFPTjdn94OH6wNWaZLSmhpkJYMrNmbdQ6yjeFbIK3fRcQmVqEuizfP4xQd2y6UAU58YpMW4WGG88rgmOmzQPQjzM1bO4UZncBneAygVZSOElMVoMJW7qoJSnEBHGdPvWX6-aUSs_K6spQNwEPdi3amWbzng2QTrEG_Zypq6ErglCJvKzZzBoFEl7aF8S2ERvjonSBXZW08227TynOxm2sw3ZrSB5f9F3PxvoubkKgzIIw_t-xE0YXkFBHk5AdJ-w
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Alheli Juarez
+        uri: https://maps.google.com/maps/contrib/105915784954821737959
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWn__RHFUyyV9AYqvNbruw61B9aYmF4sL8CMruncPwImCpROqOh2Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRoO3W7gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRoO3W7gE!2e10!4m2!3m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4
+  - name: >-
+      places/ChIJR8Op6dvb3IAR9BvbmiJquMU/photos/AUy1YQ1XsMkVAC-rjmXx-FxunIFhnmbcK1tTSUTaNUk8GEsn1i3n1dOCkR7WRguK3tL-GUU8aN4c5S_CIEDrJmT99pJ4uVoVMajQqTemZjHUGYwyG2NODXH4hWn3XLIPoNgD0m4n1ndyx5xnv39Ulwc2VsTqFdiVQnylbagAMfJKB82vf2dEWNjJJ4hpItOmq07x8wi57QdfaHMV2r_WCKXxWoA5menbhjYQPxRrelYzpDcm89_SmMYKJuZfWyO5RGIn40P1DL3KUQbEl4A-wpFm5vfrVPvITf2NEZXC9pi3YBRbnhnhQlj3GjPa65CVqFs21A6hW9T8PWTSztbpBC3Yd3nYPPC-xR35myuDLjqiV9QNdDID-kZqXPGhNd8YiyCFr86mEYLi09fAVTuH1Y8peblZn6VzoEFUv_21lzy1j-XIGEHlXL8cV5vuq9Yj6w
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Mytchel Luong (Lifesamytch)
+        uri: https://maps.google.com/maps/contrib/103803398098243016107
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWNyBHcU0B-0LTqa5Qyygfmnb9iMblUKPL-DREsNDC98PQ75g9iGQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UmzNQxGfQfS0ADiLp&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UmzNQxGfQfS0ADiLp!2e10!4m2!3m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4
+  - name: >-
+      places/ChIJR8Op6dvb3IAR9BvbmiJquMU/photos/AUy1YQ3AHh2QuiPv5FOaCdSggalW3AQXECYunFgiTZCTsKKF4o-nRtittuQdmL6547fIyyMFw783BuhmbIWjKXHSNegJKMhTucMmdJ3Sor6Av2ZLbsgs3Co_I2_XKQWAXeN1WtMbi5wEu1UoXvYhu6i6-lcWh87mYyRSEexR4LqVOvs1DC53XekM2se-bFGUw1dKrnvuZDH9kwvz73zP45sd7n8tx6AFm6EZ8VUaj65a2w0rpcRVRMxjOhKUBXWqV9ERrfvKbBcHwL4AtCqo97BsjCUg62APpRDjiGuvPJPDkaH8aZLGQLb2XeqcCQE_axpgW-ZuXH1czjUIBMtjqqeuQaIqsaUFpcavOTq_PI9yT8REXnayiXN9Z7aSiFcBAO0qIXzfHjxS2RCn06oI-4KSgwv1l2z_pY0hrY49_EgYZX6rXNvA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Pooya
+        uri: https://maps.google.com/maps/contrib/106984628906515566525
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXLMZRZOl6O2QpQ4ZF7_sLCwzs0GRGaQtekpR3eJLCyUIWzw7Ac=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOp4C0wwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOp4C0wwE!2e10!4m2!3m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4
+  - name: >-
+      places/ChIJR8Op6dvb3IAR9BvbmiJquMU/photos/AUy1YQ0wSSZws_OVQ0QZ7vOlo67Em4b5FmoxcFSbGy41o_fV5qcbC2gJ_kaNTLLYxfcV8IbLn75bOmPhQkotJHX7p2tivHAN07KcR5xNhF81J9I-PmkVquM8BOmg9jBXn9zMs8ERcJfdon8sdWeLTlPjcD53Q2FdiZk4CX1d8C7u8P4EZQkm0ejmOsrkT7YurWSDTlEYk7PDAzuqN1rPlDvMKGXWEZmbh3wW2z_-kqN6tGga5kA12eCSxQLatAMvJVnHG4TXTE5Dio_38VRgC6XAk8pJHUXv-z0B3hF1qCQu9B48lykc8qNeBW80XaZUch4WPNI_z2dEN-amBhwX0DmYmzJe0nrwVMmCPlYb1UAwMOuizYhh7F40g0aB5UTHI6do-nyV5gEK4JY4GEV5oCoP428xvoPQd7yQ-9MU1ZK_ZE7efvDS
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Shalini Rao
+        uri: https://maps.google.com/maps/contrib/108267228985168518176
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJaYkV1Z2shZu_D7Ka8mucI7G5OMe-KLq6tC1AjEuwujKi_Hiny=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDf8b2FuAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDf8b2FuAE!2e10!4m2!3m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4
+  - name: >-
+      places/ChIJR8Op6dvb3IAR9BvbmiJquMU/photos/AUy1YQ1c7qwn-bDTOPVXlbYg-gCMZlupgQC-N0SODvEGJ-RWZA0Kc7JDqXADeiOXHOSb2W8egHPYfz6LHfNn5sBkZpb2e3Ves3q8pXgsehRRPwnanCk71Nz-KzP1VYudzFluIII8FJ9Niu4Pgww-Hp3qH05iVYMXUYvX1QIPI7zzpW2rUMx9yR7VAlTgMLOnmsDxZYDTQtxcaWUfVkj3mjd_IjUEybkpyrEU60smGYtjZP01uhnIx1I-A0djk_hARCmBoi020srfEB5HHUMm1K3MA26lWUvdJ93_WW2_G25uTjT3IbkWg60ladSvbTCttlBgmuGwxxiUXvqgtmiEPuKXzS23_FqhGxEcbJvJwyt8GblH-Zpi3iMbZM6HF-g4O27dGk8gVWR0MSp0R2UDhlakEl1GRSGjv65fgzXOstBNud6eD2xGyL4Ch2MY-LeUv5bw
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Mytchel Luong (Lifesamytch)
+        uri: https://maps.google.com/maps/contrib/103803398098243016107
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWNyBHcU0B-0LTqa5Qyygfmnb9iMblUKPL-DREsNDC98PQ75g9iGQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UmzNQxGfQfSkAAvwX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UmzNQxGfQfSkAAvwX!2e10!4m2!3m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4
+  - name: >-
+      places/ChIJR8Op6dvb3IAR9BvbmiJquMU/photos/AUy1YQ1dXqjcY0EpMLgT7K88-KrKMV4oCI-mklloTRrd8yy-rOSr26B5qQEKd8KpznAVW2XQRR0pmSIzL6rvivsBRS-_u3b3-8Fenook1vGng6iIbpSrkHohyDg7Gu2pBgOuKYRvkN39wnt7n8yY0SFN17e5MeAgGDo2hZaoEoM6sRJpoCPtqs9789FyEu6jOEUwUWrUiFIV317xTTh-SRgopZw_Q8wbEX4Cb8d_8Q_jSYwtUDVElQlkbRpqe_g4McupGRUZkHWLKREqskUKU6E_wsuIPUKlETOOOKCaMgAR1xpNujaHBH2iABSsUE99FHPyjGers5cc28ShbA1AsUe8Twbw5g_KjIhXVq-5ZlWY4WDiFuov6XXAch2iGjjaE0qL4hvI35FAbgMst9ld4b5hTWNCrBAT4If_fKBR3PlBXEjmnIeVMPagk1W7MC3pWA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Marian Lee
+        uri: https://maps.google.com/maps/contrib/108327400018468938811
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLqhXRjlBnhoGzOOIBkF6aBRrWwpic64U29XQtIvPuA_ukO1g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UEDMeUGfZWQsAAgsy&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UEDMeUGfZWQsAAgsy!2e10!4m2!3m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4
+  - name: >-
+      places/ChIJR8Op6dvb3IAR9BvbmiJquMU/photos/AUy1YQ3ryH9jQgzRBkpIqzKiek1dS83s08IVvKGM6NlSPOGgALvj2WBZsMg7tMkOr8CWA9sARxMtp-fx09rELl974MAS03H9Af88L9vZdthpp34b3C2JF0p0LGg7Qa4o_09LW4ymZ9fYn-2PfQUj3CBZhWxhL8p0L7r1-dkmHZanAQfEbr7Ftrc8hQiVJitn6B3hEJ7P99cQ99eCy4nW1jESRdZ34fWndtwwBxPqa3CVhCZD5FpxSwhr9yX8EaaqiHsq3W9FxCIPbMklLEXHDog1cBd-7Wjh8muTVKvgamHlwDmHr3aXgrocu-vvm_6lIPrvW3pi4G_6w50a676Lj7UDjhRqGc5qZHlLDgUZ7zw6a27S5RcSaXn5WDG4b9y8cdzfcAX664VAZrtp00HSrlc5Oh0niQqOaox7Gq-3G7g5g2cjf2Vd
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ari Sanchez
+        uri: https://maps.google.com/maps/contrib/102895995821627669282
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVJnuEdYnBkHnylwLzUYma2Sr4of5U0MQhX3qnGtGvp83I7t36j3w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJncuDlwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJncuDlwE!2e10!4m2!3m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4
+  - name: >-
+      places/ChIJR8Op6dvb3IAR9BvbmiJquMU/photos/AUy1YQ2sYF1JgQj5a-iqjrFGlVdf2_oSoEpZURqQLOAQ--KZYWyFpJbpSqvpkc3H1s17TC2paLsyefP8Q355vOR4zpO0P__SwogsXnW6IUTpjk3rSvymnoXsG_zFoT49JXl0jx82Yu_tMIUDr0m5RWxS4VkKE3WKiDEggDn20HBobS2gR1fwqQFmJGb0CtimrnbzHVYH--9ktNL3IJzQbZ2GzFRdQx9uekbFFKtWz3EOmLNwBQ9XOnT7vGL5rFSkOTN4EcSk8e2NwpnbGvbReZ6SBO7OOztUl7nMPkV_MvrxxMkpw98biF2YpI3vVEeHy6HEsRtA9BZJffpOqMxSUGgPlTAV5LbXZgj7xfTB5DqXNm-KxG3J5N9vpt88cWJlGen3yLgjjhYZPnprhV8TgoemPFrhSCd0YY9aPCwMlCzFfNNd9Q
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Mike Expo
+        uri: https://maps.google.com/maps/contrib/110756833925640833412
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVHhxueb6sVOGjEpVXJnKcQAfDOEbpGSbSL3Fwiq2ZaKy1HNnHnhA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLgZ2dLg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLgZ2dLg!2e10!4m2!3m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4
+  - name: >-
+      places/ChIJR8Op6dvb3IAR9BvbmiJquMU/photos/AUy1YQ3O9vpk9tcf0GGnwuGepA7g_NM5fRPTWhffK3eWHPWkUZMv2OErnJ5OdCDxLf_MWkRtLgCRCMJRGm8r0h8RyvYIBcvNlMtjHfKHCMxnUVl7qpjEl1AUbAqZvywohjiNtTmvo0nvAiAOJycFXxswqKeV0oibiR5zuDl50lo5KbsnQxzrAFcsFYnX9zPK5eEtfchvl-t36HQySw2r4BCXGuxlDlzp2w2OCDZf8Vp-9k2navMYD64Ku7Zw51mVGzwfoIJRQMmDTmYc6mT3JGmYej8UIs_66KISgb89xmRE-PGOeLvA0k9fJnkVE-JxWw7JRt_1UDn4S2BLhj-YMHLRM8-DkS1tSFvGcSTKpRcSFHk3dKS6ciNYBzCuSlF_p6MN50g0jRs9MFG2tiUteCVbCOGA8VQZPAytyZKpWNMSsFyWVg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Tiffany T
+        uri: https://maps.google.com/maps/contrib/106309082498732560791
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKYnk54uVua_DLO6Hj7bNWT7wDD9TaAsEzISaougznhD32RiA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDGpLDjcw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGpLDjcw!2e10!4m2!3m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4
+  - name: >-
+      places/ChIJR8Op6dvb3IAR9BvbmiJquMU/photos/AUy1YQ2smkLFvslSBLQ0ziBYAZ-TTocMVzVmyysF9xLTiyvhmEKHBEdSPf6_D1yAfbfxlRSOsljwjJvch70OLSnXbFBeUSEb2nDoEisktkD9je-0p1M1nY9RbVxSvgWVNrgmLBNRGG4oKOOEL76shhtVqWGNIfKs_A5wyX4E8tBIxYzGqoEpfY295ACY0bHnI2lmGxdskSQLaeTykb9yD6rH2NLrYC818Z9rW9Z7WTYR0fUJCgAlf3UkbMzKKMI1lUqhZGJrCjH2SuJST4IMBkLpHtMiLOI4OhPgnBFjLfYyKYAy-EnoCdmfuUQRuwJXOMmSTd7hCcHyhP3KXB1O2xNX_uBIhSpCkxquwdx_HWwiPkkrY_iLQgg5vV3YhpZEZBvntiLF48lpsKF8XG6f6ZsmnO5WasTYxjdDnQBAO9G-6CYleoN-ujk0TxM-cEHZfw48
+    widthPx: 2252
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Lisa H
+        uri: https://maps.google.com/maps/contrib/118059481681633331567
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWpNNLk8x76nDpc4ph_dBh58komhZpBpE-92V4b11xegazkilU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3jqzeBW8K2e4GVYAAy43&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jqzeBW8K2e4GVYAAy43!2e10!4m2!3m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4
+address: 139 W First St, Tustin, CA 92780, USA
+street: 139 W First St
+city: Tustin
+state: CA
+zip: '92780'
+country: USA
+neighborhood: null
+latitude: '33.745908'
+longitude: '-117.824330'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Orange Roll & Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4!3e0
+  placeUri: https://maps.google.com/?cid=14247254118046047220
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Orange-Roll-and-Sushi
+
+---

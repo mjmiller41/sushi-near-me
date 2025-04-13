@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Szechuan Inn"
+permalink: /maryland/severna-park/szechuan-inn.html
+stateAbbr: MD
+stateName: Maryland
+cityName: Severna Park
+place_id: ChIJTbg-d637t4kR1UMX-7qxuBQ
+photos:
+  - name: >-
+      places/ChIJTbg-d637t4kR1UMX-7qxuBQ/photos/AUy1YQ1wUDISrzKDRJaAuPlHvR-8vz8IC6uae2Zkkt6lit3NQfnnaLjEqqsVzGcHS7mlWDlAOqOjHHnNIDV4SF9UvH34CfJxgC0k15MUp8SzB2b2vncA-hiavjbAsYZTO_y2tYJhX6VLMlcXlMVZTSxJf2xH3vP-27ik40jBl8Xh51LDyc3kmw_XhRXpQiUnAcp0s3KBSrzdNHuC432FlQydymdDk-mROMyQ6XebMzjtflDrBRzIeRL2qFlqVsKdo9MuuWsXQWfLpjaFTHeH9Y1gevDb6h5sNoV035IodTmRUQ1rGQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Szechuan Inn
+        uri: https://maps.google.com/maps/contrib/115323703768337442234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdwpsb-Il3GjSYNEGlHHXWVsq5w1g82q9fRQKJw0innIzdm5g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOXJN5ddOkpcN7_Lng2oZsRd8BoA3qK7ScjlOQ7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOXJN5ddOkpcN7_Lng2oZsRd8BoA3qK7ScjlOQ7!2e10!4m2!3m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5
+  - name: >-
+      places/ChIJTbg-d637t4kR1UMX-7qxuBQ/photos/AUy1YQ2X_7tZu70sG5Dj9W3SHgLK4B4iKEaO3YHXEO7LVnpNwx_8MfPti4BnDMuJ5nVLkXj32R62Kt3Xck30PXWmvK2yXiTqQedVrAwUL7Ey0mQ8Asm33LK9xPfZc_iz0V6vt5X3kP6y30-C5-sZwx22YOByha-2LCnFT4HUuWAsi_ez2ozSsyucFaRQ0CdgBWIRnqHevUPtCb6dPL7YAixJyT1S8lIpfKiz1uSSh--GtNeOcNmdVTHmsP34QsR7nKwNKEHNCLR7h6MqTjQUmpfTFIrmHnczVSZpCR7v51YexyBAyA
+    widthPx: 1280
+    heightPx: 959
+    authorAttributions:
+      - displayName: Szechuan Inn
+        uri: https://maps.google.com/maps/contrib/115323703768337442234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdwpsb-Il3GjSYNEGlHHXWVsq5w1g82q9fRQKJw0innIzdm5g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMAAaz-MGZZcSv8gE6dgMRO-uDaE4CSiJao8q9F&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMAAaz-MGZZcSv8gE6dgMRO-uDaE4CSiJao8q9F!2e10!4m2!3m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5
+  - name: >-
+      places/ChIJTbg-d637t4kR1UMX-7qxuBQ/photos/AUy1YQ0Gbcw-PIzWb0Srod0Wla5XJHrEZL-8ghWITFHGLIUQzRLUtaz6ulXbFzKEFhE8ddKkqUrZ-kCHbf-BHWXSKvWExHyhEO1cZz0VPxy9uuJJCbjoO_Yil77-anWv9TSW1VtPjsihjYlO7slQeT6wjjdj0jy7yU9aHq9soC_8J2digtmt6kZKLsLj3ajEKeI9gDHuMd7dZriStYhW6jN1HZX-k-x-8ppLDLS8rY01vLMzD0PyGT2SbcgPlj3NPBrnnX8Ir9HbTh-8_9njGaxQLhploQeiyMDG9hNEG356qxLfcJy3t56_kND-A3QewYZlG9029qAk7Rw0I1Y0TTGxIue4TDFfRJ_Y5B8twxibQp-QzUvTGXvxeey3xQAH13Qe5QU41CjGu_3c0c3iCNxMPCgpR0CTIXzeAb8_1oJ4ZYDmdg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Laura Sanner
+        uri: https://maps.google.com/maps/contrib/109113543480498076886
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJcxHd3JRtDX_dkhsmWup-MTPc_mUzKT0Na99u5vl73xMlqiQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQvPz4LQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQvPz4LQ!2e10!4m2!3m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5
+  - name: >-
+      places/ChIJTbg-d637t4kR1UMX-7qxuBQ/photos/AUy1YQ2sxHSt7YllnKVaTWx3JYUSyVg5TV7HL3rDaLEqX-n2H7W-pqcB1ZZxxaQPl-lfb6Pk3XJqcZ0VWRsz5ougjwykSdEn3hLSrXBEiXib2Nwpg2xFW9W4bTtiat-awM_FJP_rrMxbZkziyOBNxp0OiGWWO0R1_keXbuJ3V4zpauIBoQ95i63KbsWtOWXhbZtEovbKhOKrHpLwX_atzA8UHDLDMUeBXkwIKyQ97hUbbUJ7J1FWnSS80w9a1EtEthR7EoT5UFQza7bzZQXDEZlhqiNs69NoAstomLPT5RUGm1zmJb21xzmHkMkFvAHBY6vHvkgJduL1GzAr6mNNpiqhL362ZCM_PfQQobzoEJiif5-Bp_3zce9QdhXZ_iFvL7qrw0MmwuiIeaViaD2ozr_LRIHks3KVXX4GoINF2YcXD82raQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Mary Sojka
+        uri: https://maps.google.com/maps/contrib/102567737928170877439
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUY2mgCyBX_Ptbh-y0OUE_hkwwHpxnpKlgzvxW62SahVmE0XlI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICflomWQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICflomWQQ!2e10!4m2!3m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5
+  - name: >-
+      places/ChIJTbg-d637t4kR1UMX-7qxuBQ/photos/AUy1YQ1U8ukDDJ9xV0PeaxLMPMZCoJvj71mvndqwTt6bU7KCMLFV-v2hcksBYECeYaEpvRPgHug7rAtC0dc4pZ0i9l77LAfLfwqSa5lNPYi9rgBDmAtbAuhXBH00sfZHqpfpXUDJNtxqctGOmB-KXTg0NvMbl-4msB_bBi7PM5WbOJOr1FVNWKdEBKfxGnTYAxZRE9bhyJ5f_4jmaugGpSBQUFIMFlofz7Z5ncVCQpaYrhuhs-fGkf421TaoghSgftGQL3RVvgoiJI3oDVuUgqDIqU6RiDp-8USU9LjsyZU4SaY9bA
+    widthPx: 1920
+    heightPx: 974
+    authorAttributions:
+      - displayName: Szechuan Inn
+        uri: https://maps.google.com/maps/contrib/115323703768337442234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdwpsb-Il3GjSYNEGlHHXWVsq5w1g82q9fRQKJw0innIzdm5g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMOKkYn8k-jBKvvEtBeaa4mtohntBGoPMSQl-Rp&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMOKkYn8k-jBKvvEtBeaa4mtohntBGoPMSQl-Rp!2e10!4m2!3m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5
+  - name: >-
+      places/ChIJTbg-d637t4kR1UMX-7qxuBQ/photos/AUy1YQ1DEYn9E9n8Q39g3pwx532EtJSUrwqDDPCJxj4yH9Xdsv5EB11EoPGPHmWd-FXMnqm-1Y-ZHoqoiJbkt2dGrb4hQlwY2FZNCMehV8CcDpx7UotLoRlh-hYIDtELsj0Wg9CWXgWePHDCNnbUCf9nA9CPqg7u_ri-8w48zKJYZ2vsaXqdz7sTvBXTeP9GCxtApVF1cRWLcj_hX3sCdziE_Lp0PGyQChS10WqeitJOtp-jWMOq_k5b5arzs3VrfBtpBjG_VA150BqvstkHe66Y9jEBQhLdUiA7r1tZQwTKU4DO8w
+    widthPx: 2448
+    heightPx: 2512
+    authorAttributions:
+      - displayName: Szechuan Inn
+        uri: https://maps.google.com/maps/contrib/115323703768337442234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdwpsb-Il3GjSYNEGlHHXWVsq5w1g82q9fRQKJw0innIzdm5g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOFP7hn8X_5WNA5YY8GnWsrfq8TKWD5pMRvmEyY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFP7hn8X_5WNA5YY8GnWsrfq8TKWD5pMRvmEyY!2e10!4m2!3m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5
+  - name: >-
+      places/ChIJTbg-d637t4kR1UMX-7qxuBQ/photos/AUy1YQ0GCaV2Qa_a1D-TOhv8qa7sSl5bY7IPwe5JzoFvUnsBTcF1lqSAaN-GsaFUXm8t5eDZJGkL6zhF1NP-reOCKu2fKRj80spweb9pC-l6Avn8pzYQwmeqL1I3nJg3Y1FBqsztovC3Q_rfRvyg5esxaPCPTll6-LZTX3QSm7-ZB3-i8U2nmtgVBJEx-IF5indNVqL5Tzivg5vdZX5KsD-LtReFIW9SYJfZXqeZ3YBsEZQwYCn-zlB6DSsGOJa9V0EBdSQlieRAU0F-b4JSyK37fXT1n1nfphVNWGvZgTN0SezvwA
+    widthPx: 3723
+    heightPx: 1950
+    authorAttributions:
+      - displayName: Szechuan Inn
+        uri: https://maps.google.com/maps/contrib/115323703768337442234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdwpsb-Il3GjSYNEGlHHXWVsq5w1g82q9fRQKJw0innIzdm5g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNpi0KhVFJnKdMDZuvuP2G8skd-_bS2UoOiD43j&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNpi0KhVFJnKdMDZuvuP2G8skd-_bS2UoOiD43j!2e10!4m2!3m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5
+  - name: >-
+      places/ChIJTbg-d637t4kR1UMX-7qxuBQ/photos/AUy1YQ1MdS3bm4N94YKSs6oKFauqVR88fWfndjLz3ZEA3hUERoy4uvECEk8W_5PzmBOrdQTk4XQyLPtJPgR-o8iSorKSreoevdrP3d3Nqv06WEsij8ovIoCtO-6foD68h0yJfJpOHbQXtKapy5UFg6FH4z6GMz2gX6rJb99YORk6EPFmiqNxYuGlUZBEn7OEzndMDM6qhlv6sR8wYcrV5jL-4_6d9TXnepFwRfM6En7YJe9j1BZ1fnxw8xqFLv5SncCV5VvM2xCxr0Yp9DzpruunkjKIU_g5LxXDzaAIk_p748ND4eF7CIMGjWcDpmoI13-z9FpjNIo5k9en3G5seP0N7yjYJ8JiRZflVX8aat5q_42BK28QueJkcGegLoY8zqiCZXytCdLOSBCthBsUvERnOlMoPkMsx1A5Sum6W277uCIl5o5S
+    widthPx: 3060
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Neela Baker
+        uri: https://maps.google.com/maps/contrib/104426075538917619510
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX7NPt-4Act7gIs4NQGCk338fQnpWNIQFUjaZxWa0KFYvHuUDER=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDb2-Ot5QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb2-Ot5QE!2e10!4m2!3m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5
+  - name: >-
+      places/ChIJTbg-d637t4kR1UMX-7qxuBQ/photos/AUy1YQ0065r6MNW5b2V1h6a8Yr7qe8SpcKoGl-FlpCq6JJYvlnKp6Tj_rmIoGz8khwlzk1WZ1MCE1vUwn7L8pVztb5nW7lZ9dys-y4lt0cY1mkvYjMnqJEqp5MAYSIEhlmQtCjfpXQx1Woqfe_VEonNHzJL5vSMnJSqqp4MLcdHoPlttDRrbNLn8xY-p_t0KpV0pYLTMOgNJu-Hx9AQSssHoqYj4IUcGHFDMRlop0jeG5gTr7ZB4cvOmNM4LfZtj7JGdGsWTBqTQTjbmdi-mCPXAuukFwtBIlAIprwmbke-frzr-tw
+    widthPx: 3771
+    heightPx: 2457
+    authorAttributions:
+      - displayName: Szechuan Inn
+        uri: https://maps.google.com/maps/contrib/115323703768337442234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdwpsb-Il3GjSYNEGlHHXWVsq5w1g82q9fRQKJw0innIzdm5g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPG3eyMK5ZylOfxciqfgYeyh1L6atixMD5bcVKY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPG3eyMK5ZylOfxciqfgYeyh1L6atixMD5bcVKY!2e10!4m2!3m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5
+  - name: >-
+      places/ChIJTbg-d637t4kR1UMX-7qxuBQ/photos/AUy1YQ3S72kHmEUd8XnK68ptKO4fg3wa5Uw433fYn2ach78R6vsnWJC4oSWoW9z-SA6sLhMrkzjes5CBgth6EmW6-eBvg0NBtOjk1-CUEk0UMwsyJ1Fvt7e-3QfRLf3RfCca4hrZ4h7AtJ3WI1KfaUr757RN07DgbpjD9jvJH3rdftAVoBjl_IsWrI2ghOwL38V2qAnKVGvGusWx-otkkCqTg3ylLuF6YrvcKZMTgXP8PgiUihrYKqmX7rV6gBu3QCEg7VYU9GQDEwocjLrotioyQTWEtVJ5GgyRPRSSW0WrnU0WBOAzg7MfoLjVD5wK-Tn_w2EMDLjDMvD4ydLnx39l38Wgl5zU_fMHeHt2Q9eLYwuoeWiIexpsCWohBS-cg4ZNkkWffhLsqPUEYKunm1I7h43iZBIltM6Lu6EAcn52OKE
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Amp Boomy
+        uri: https://maps.google.com/maps/contrib/107914847877659161898
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXgm_uvWBJMRurtIx4zhYpqjkirwap9LbA8rXBRwuFUl9HUv7o=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDkycvMPQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDkycvMPQ!2e10!4m2!3m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5
+address: 550-558 Benfield Rd, Severna Park, MD 21146, USA
+street: 550-558 Benfield Rd
+city: Severna Park
+state: MD
+zip: '21146'
+country: USA
+neighborhood: null
+latitude: '39.082974'
+longitude: '-76.582446'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Szechuan Inn
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5!3e0
+  placeUri: https://maps.google.com/?cid=1493138693107958741
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7fbad773eb84d:0x14b8b1bafb1743d5!10e5
+primary_type: Chinese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Szechuan-Inn
+
+---

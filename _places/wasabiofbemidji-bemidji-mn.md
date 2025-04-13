@@ -1,0 +1,212 @@
+---
+layout: place
+title: "wasabiofbemidji"
+permalink: /minnesota/bemidji/wasabiofbemidji.html
+stateAbbr: MN
+stateName: Minnesota
+cityName: Bemidji
+place_id: ChIJ0TyckMgtuFIR295m98sIwhE
+photos:
+  - name: >-
+      places/ChIJ0TyckMgtuFIR295m98sIwhE/photos/AUy1YQ2ZOksvrpw5KsC8eYyI4DJU2fLeOMgINpC6Pv8RC0OTqtn6d5oe71iAcMzf9WmjGQKrwy3Nj_d_nJIBkfJ6IL1BtoKdPmvZ1JQc5zQ0l0jGEb6YSmByzD6OpMutul6knpAWN534L5CqTqtQzpsDh76dkWx32ypX-8yt5WCTXNGViQfZ_DkgOAhBAFAhOsCxuqzbnWE_OOUnwzGtPoAOdLTgDvonl4aIy1KKOi7YkancE-FegS4-HAHH9tUa8CSbHaFJXEG6jBjt8-isTfOd3VmBpNrUpuzf4hy99yOHh-MQCQ
+    widthPx: 1000
+    heightPx: 750
+    authorAttributions:
+      - displayName: wasabiofbemidji
+        uri: https://maps.google.com/maps/contrib/104106897843368212981
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1W7JQNhtabDVkagyQ3-TU7Y5jQcrzFkBsbNPRqSHZowf5_cw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOfVyV6jaKA6q3knJVI6K-Q_eQhiIcsVXx4-c0B&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOfVyV6jaKA6q3knJVI6K-Q_eQhiIcsVXx4-c0B!2e10!4m2!3m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb
+  - name: >-
+      places/ChIJ0TyckMgtuFIR295m98sIwhE/photos/AUy1YQ2851DjSwgZEwoKYOtKApz_TkbVqDmEeDPjPx2niI8Dw_tPOimAsbSxnpaNdEzbBuUMqe2BaFHc7CZTzkZSubMP8UOhqUgS2YuhTVzybh4hD07yHcmzBVtnpdwMQusXtYhtHtHO4jQQ9lB5ltbAnPYnyCx8XJik9yIZobd7mg8m6xHI_uR-bndjiNQuqggqtTaJmmIlQALUYlbA2ldKB0wwMSa6LHqv0kzaS-bFm-a7e80ljgXdipFKAgig1xv2ydQ6GfE9eVOb8NaNngCiU9divFZIc1Fr1UQlhlV7BoWDvw
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: wasabiofbemidji
+        uri: https://maps.google.com/maps/contrib/104106897843368212981
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1W7JQNhtabDVkagyQ3-TU7Y5jQcrzFkBsbNPRqSHZowf5_cw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNaKR8Y6V-l_1wQgsBd7--bsnpM-74pBtR-3FYC&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNaKR8Y6V-l_1wQgsBd7--bsnpM-74pBtR-3FYC!2e10!4m2!3m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb
+  - name: >-
+      places/ChIJ0TyckMgtuFIR295m98sIwhE/photos/AUy1YQ1-sajUdfdkQBipCHAIWPQ_hC9fyg7omTYkhWxexMEDeqMCbyFGrcBhPaDpbDtI06poTkI2pr-Yb7FpfKEQX6SKOH2oTzfO8R2bOd5G9li4FtVX1hwRD5eb7WXUMwvMyhJ2fU8Rf32cicKfJmODnRself96eK0STksU3VqS-EUC4yyxyhOU9GwnLxe3nMuVWEJ5cXFyiRUqAhxYNxC07sp_uZb3KPVMIFW_eNt1bseADu3mqi6gjNrjrVjKOyzr0uNc60uMIFz6cQI3uxYf8tSOHgJnkfgMX7lxPNko9MEefg
+    widthPx: 1293
+    heightPx: 1265
+    authorAttributions:
+      - displayName: wasabiofbemidji
+        uri: https://maps.google.com/maps/contrib/104106897843368212981
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1W7JQNhtabDVkagyQ3-TU7Y5jQcrzFkBsbNPRqSHZowf5_cw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNFvkyW0lCZaA0P2EgsBP3r_q6-IWJGlqRt_xxk&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNFvkyW0lCZaA0P2EgsBP3r_q6-IWJGlqRt_xxk!2e10!4m2!3m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb
+  - name: >-
+      places/ChIJ0TyckMgtuFIR295m98sIwhE/photos/AUy1YQ1c89TN8CtLTq_dXimA4T5jV1kAHgZ3SBzgvyeiCKgJmWPViD3qyb6qChRPLwnCflZzepKTos5fXXIx6zG2WodiP3OlXpZDwv69rhzrKZxaJh1wBwHESJ_2VDUXBXmqQVLejNdKgxDuIrjV6bSen2YryCgyJE0BDMozpOCrFkZ22YPiSlCopzBjFicOHRjU2jiUF-7zWYcvJAt1OMhhe2perVGghBmQpuBbml_SgpNIMjEAXDLdUa71-khjiCv9VAmNXpd1L0mqIJDvU4DgSS87-6OYl9gOBLqZVuYemXBUMQ
+    widthPx: 1272
+    heightPx: 1288
+    authorAttributions:
+      - displayName: wasabiofbemidji
+        uri: https://maps.google.com/maps/contrib/104106897843368212981
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1W7JQNhtabDVkagyQ3-TU7Y5jQcrzFkBsbNPRqSHZowf5_cw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNHrHerausFKJiVh-iASnbwOWvIQ-d7EmBb6S30&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNHrHerausFKJiVh-iASnbwOWvIQ-d7EmBb6S30!2e10!4m2!3m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb
+  - name: >-
+      places/ChIJ0TyckMgtuFIR295m98sIwhE/photos/AUy1YQ3c_Rf2arXeTZbIsLcgr7kcJoNfHu5fQdlzUOoVokPr7CZIKiMDCqaWW3k6zsrJWsPcU3cIM4CUQ9JtSeaIdII60JXnS1a8TEqynzT8sJOgbdRPUqFFbmizYPccABefjKZXjnHq5Gaet1Idt6xPIQdl9AD49njj7x9mdx9bjifqc0r66WaetG5D1IPab56-LC9LPyXnheuJ9s2yUCQsAoRwhP6ceWI_ZPZD7nW7RKa8p2KpTZ1Fnp22Bm0k0w3jNnJXQKkK4U3R-NS-eoUNuph__Aw1bqCqRsgeNxAczyq9sw
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: wasabiofbemidji
+        uri: https://maps.google.com/maps/contrib/104106897843368212981
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1W7JQNhtabDVkagyQ3-TU7Y5jQcrzFkBsbNPRqSHZowf5_cw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMl75r2LNnEa51b7lMe4fNpPViRB2YyrWneYwA4&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMl75r2LNnEa51b7lMe4fNpPViRB2YyrWneYwA4!2e10!4m2!3m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb
+  - name: >-
+      places/ChIJ0TyckMgtuFIR295m98sIwhE/photos/AUy1YQ3v3AuDoxaYBH4fza0OBURL2OqIDa1xadPvpyXV9HKu5O-j-EPZr_7xs-bpI2DIzoVH4hwT8VBI40EC0g_58N46UgRc0VoR_yFEEfHwQoc4iJ9Bp791msIlYflS7vQlrG-Fo4sutIds81RCHzhoZ_dixsqjPrH51BX3NrWKa0aneJDnJ2LpDSK11GNS8Q1eObA4Yel6lNyUyw2ft-OUdn35v3sEp7zcvKDibFNf37WBPyWTKE3Exp2Tj7IOQIrEzirAJLmT7OUMP5a10cKytQ7VWL4BgkfcfKFAnONSZkSEUicrC1xmApPuhxQWvjytCl_Y0Kzx1E3DDeoTCyzEyCAtaatSUzncGAS8OFtxslSIsHSkA-er6wfs2fyB9Tqc4zyZ7xqZleAkRvMiexEysnj8D00cj4dg4wqL9yfAbdhWGQ
+    widthPx: 4800
+    heightPx: 2701
+    authorAttributions:
+      - displayName: D. Alejandro Morales G
+        uri: https://maps.google.com/maps/contrib/110575758159932048431
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWcXeERDegj7RPj-zrARaUMKbJORCVj3Ple5Em5CmrR5zxw8gE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPtt2rTw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPtt2rTw!2e10!4m2!3m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb
+  - name: >-
+      places/ChIJ0TyckMgtuFIR295m98sIwhE/photos/AUy1YQ0Td--7RiH3mgPHFCwY8uGtJkAF-pq4-FeJIknQ4JfleGLnjyvuqU4S11qmIAtwS2y6ndMZ9_iCbIerpGq1WsKeweD0Nhk3IQzGCHRIQn2HtqjfveqkoCakm0g_uTCg1N6CpyxJ3IHpq3zqcF8f_djiltccVFQyNQZWPCqBYRao6kxYEcxdAsqo6gl2_witflPLyIEx2ajHc65aGWkMf6_agKoDnZVO_n6RLhh6ppZChWhFRcD_r7JMo1ea7oAHyyPTVrfYAc_slP78n6U4reJu4DGvaLj4qKcmXsau0NShgzM-OOpCHfcjPB2JzsPAFewp0u7XAsZxCV_Ir14mOH9urDI9ALqwNnabkSs1_qQ-9rEK2jp7WgiU603qf_wVt-9l2buIrGB4h7sd1KrMK4Y1OIJOpSdI5Izxo0JY5WPYEg
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: JoAnn Jardine
+        uri: https://maps.google.com/maps/contrib/101817904020117874101
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUY3Jr1W05p-7C5iH0kJ-H20nUnx0A4M-xyg0iVKPsewLkKPu1tOQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJv9HTfQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJv9HTfQ!2e10!4m2!3m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb
+  - name: >-
+      places/ChIJ0TyckMgtuFIR295m98sIwhE/photos/AUy1YQ0kpXBsSUrl-9Lxt5TAWsJ8QSClT6O3yYZoEvh0pQUp9Lv7MRqTWxqTtWw76LFFx1-aJDtTUOOl8XpozwOmnlklFxOR32jEPCA657wfMYFMmPveQaRLYFq76OIxUEd69So5GXJKhmM6v7EoB2h4_wCi4Y1K1Ln742DyPpttnBtOrN5MkypbPDFEeez3jy8QUSUVP4vDCKEXHy7fRGzaFuqegkEyDxkAd5UjtyL505LL_Pc6zEYTK-89H-HTNgm2jlyQPHoiEujhRolADSFdsD5Fv-ADslMruZzryPQVDLaWKBUet06vXVN-AZ4SD4ksDXHFkFDqUQT6UsAEEwifYQb3jldTavYWC-OfhVR_mdoNPWYRFwBZFLrg7YGAwi3oMcN-OY_2VcfsZZUsuQNflc0TF6l7KWPy7D90ouhyObCnr_oD
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Erin Murray
+        uri: https://maps.google.com/maps/contrib/111782827782735895457
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU47BiT_22BmNJzn-2-4B-oWgPkv80V1exy-o4gfNdQCBPZ5MUpFA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID1w6_soAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID1w6_soAE!2e10!4m2!3m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb
+  - name: >-
+      places/ChIJ0TyckMgtuFIR295m98sIwhE/photos/AUy1YQ2TO3vEuZh06aviy-JVUdspInq0t7HfFGRfxGzxa9922pdWx29qSBdfJL2aT1JdNI1KFlrZmHf2JUaShnbxxYt0-5mM4KYYfSo9zLwDnNpV6kd8UzHdSdmnCKnddhaIlIGtGstzVuAMI4N-56NqJIS-VyCd9pVLnYffci0hWhewY6ympj_0JDyu3zYNPfG5chWiym4dfE3DIQezu4uiUhS2KvY5XDsH8UfGG_VS1YprHHxO6sU63ukz7hsi1Qfu0FgCpw-Jjwphaihu_Oex7ainSQi52tBkcNS2CJxQkgLAXFn6tTfc3xmh65YVZWx3VFZBxNci4siuX82bG20sEudIA7pIsG270ROMrRP0GieUnVrQ-YOX3kS4MtQ_nGOjqo5guYBtA6ihE9ID2agyObIKPt9pxBAdAXbpk0k1lojveFo
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Lina L
+        uri: https://maps.google.com/maps/contrib/107453148423785242389
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXsSMdOLm49vIphxgwadvYVojOqL-62Da7GJPjT-UCFb7w805TD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrmNjk5gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrmNjk5gE!2e10!4m2!3m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb
+  - name: >-
+      places/ChIJ0TyckMgtuFIR295m98sIwhE/photos/AUy1YQ2e4de24mtt7fHALXRsRGXJhxBo6ITENy5Qm3_fpzOjAKNXHceckYUvCY1ZCg0lAfbThs2EjTSQMBeFbH26TDnBZsRhiY9tSgpVQvHlRRfOT_VC6WeGW_o3zloZPizy3SQxvS1SjVoDgcgE-VCxrDXPlZ8s-ugPJl8cnVVeZ0KBaXwSe6Rd4xuuexfMIizp6w5-E9WQIjrznOyUYtN47D51sPuu8NIvq0iiKewQ2e_-ZmOy5RBvDdDgZG840UBrDgTv2-a5OmjxvMEeokmqn5yHkyUGV5lM9yqj191Ldg4UeA
+    widthPx: 480
+    heightPx: 640
+    authorAttributions:
+      - displayName: wasabiofbemidji
+        uri: https://maps.google.com/maps/contrib/104106897843368212981
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1W7JQNhtabDVkagyQ3-TU7Y5jQcrzFkBsbNPRqSHZowf5_cw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOz-xPfjux1hT1ACDL1jIbPND9ZLAqPYLNUyVq0&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOz-xPfjux1hT1ACDL1jIbPND9ZLAqPYLNUyVq0!2e10!4m2!3m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb
+address: 419 Beltrami Ave NW Suite 3, Bemidji, MN 56601, USA
+street: 419 Beltrami Ave NW Suite 3
+city: Bemidji
+state: MN
+zip: '56601'
+country: USA
+neighborhood: null
+latitude: '47.472363'
+longitude: '-94.881435'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: wasabiofbemidji
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb!3e0
+  placeUri: https://maps.google.com/?cid=1279594916248739547
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: wasabiofbemidji
+
+---

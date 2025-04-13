@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Go"
+permalink: /texas/plano/sushi-go.html
+stateAbbr: TX
+stateName: Texas
+cityName: Plano
+place_id: ChIJ-8TePMoiTIYRGzcXI2gMqW0
+photos:
+  - name: >-
+      places/ChIJ-8TePMoiTIYRGzcXI2gMqW0/photos/AeeoHcJVbhuw7bPSJek9PeZaC-gP0R8al8WK5PgYcOaWoEtO7wkabhJLi2IR05vpWtfJjS0hrIwLO6nE3W9ecseEag4lSLL_Lu27QYfrV9oyAjIk34Ydk4Gjf26v13Zb3SFvzHL663c_7cteARRXmOFU9LE0UFyUZAuwaI-EaXIlLBgV7uFTC7hL2IADvceeCt9HY533acn5tbUMQmwZtOdzuCiF5odyaeT9fg4r1b2-SsBLLUGKj0n61bbGtDnQllFhzOeL2-mQlJ-2P9mPumcDozV8-QKyX-Zqq7u3PGJL-boPhQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Sushi Go
+        uri: https://maps.google.com/maps/contrib/112085217429550826249
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLIhpsPMhzYgceazwnler4lqccUmQKJoSZD3G46BtV8gEzhqw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM_MckElgd3c6MBRlqvgsxs3-WOwkejM5Qqd_U6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM_MckElgd3c6MBRlqvgsxs3-WOwkejM5Qqd_U6!2e10!4m2!3m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b
+  - name: >-
+      places/ChIJ-8TePMoiTIYRGzcXI2gMqW0/photos/AeeoHcIDaU92LwO7FUV8CzaSWKuXNPTVp4wNPYWOGnD5ygu4ISFLeAKugv-k8M-1IMsQXlAkTHH4b7VPMaNzcgzvx4wMSbT4U-5td7QaUn5M9YT_0tpcqJeQEwI-E44uf_yOUudZZT5fPDLHUG44Qju8AqsS9S9AS6YY1z4zFJzhkl-y7qh4rLsMiQ8iTX0tTFMTDkoAorugEC2XQaTCKjlAQB22tMpF3CUZwqi6ozjAoGbKdzWv7SOPbntbNNHstjK0VglOzIVO6-I-Fc6gq6VcIz7ka6XBCkpgAUbXP325dSn9fg
+    widthPx: 4032
+    heightPx: 1683
+    authorAttributions:
+      - displayName: Sushi Go
+        uri: https://maps.google.com/maps/contrib/112085217429550826249
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLIhpsPMhzYgceazwnler4lqccUmQKJoSZD3G46BtV8gEzhqw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOQCIagjdrOCaH4RFxPzQTfySbRhlW4qgKojKsW&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOQCIagjdrOCaH4RFxPzQTfySbRhlW4qgKojKsW!2e10!4m2!3m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b
+  - name: >-
+      places/ChIJ-8TePMoiTIYRGzcXI2gMqW0/photos/AeeoHcLhMDDHhY1dTe7j6x0IiWsKUEhJKWnG9mU8JSZEE0bjuLU4JQV98whTPmqUblPHM5wHAU6D3CjgvgZqDDEF1w26rujYB1uwqQegmDTrWDEoZp0sPXrpdRmzcuMJ_eQZPH6MN2pNq_vaenfhw3_L8FTrDZBAekH5KWOuo-Kvh2sEZ4aASyqnlQTN68LcBN0oTon6YLoBzPirHISGvz0bogqX2E4t5iQ7z8ilq5RtMeNkjOGAA7V8p_y47TnDZ-lgf5jHmK04ycgam9b1fESprmixA8De_pPNInj-zZrKrLRz_TFjF9t7DVO298LI59xTjLWOq6geT_o4Iv7OoXO7L3witI4fDkYRUcaah9VzoTIhX-9bOwKt6CdCO3NNV2A3mzr9CAvty9Hw-8sHKh0kofY2CzyzYnb22ixylvbnI-4A4w
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Guy Kim Nguyen
+        uri: https://maps.google.com/maps/contrib/114744569675014889636
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU0WTRISNS5E3xZjtlhVmsH7dzKnDHo65tk-FpyOm7QQKeqV_01=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRy7u8Dw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRy7u8Dw!2e10!4m2!3m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b
+  - name: >-
+      places/ChIJ-8TePMoiTIYRGzcXI2gMqW0/photos/AeeoHcJKxMRabgIEV1SUEABzHkk2z8IwMrVkOb8dvqjVoUkoyDDqoXaho_y6G38Qci2hnzFSFZ8H7Ej-JupjHnlOD9ZOfR3F_PCwEjl15D_OiNzIMHfU6FWWpTqWh8XmtpTB7tF4uU2G7qUibUpiPHV36Othxjy3Tv-9apwHV66YyhSB8oufS3iXksuAtsioq0mFnesT3bPFL_zdR206rt-XEHXB1JaSfctFob7s4_D04Tx3PZYkuO1hY77PEHi2vNd3rQFc1nxFonXGgT4kz9w1rNjjWVAJRnfE5EX_HZaMB1Fpeg
+    widthPx: 2048
+    heightPx: 1550
+    authorAttributions:
+      - displayName: Sushi Go
+        uri: https://maps.google.com/maps/contrib/112085217429550826249
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLIhpsPMhzYgceazwnler4lqccUmQKJoSZD3G46BtV8gEzhqw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNfkCR9yUcGzhzSF0arxtMmyImZrNwOEJ_7Rsnm&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNfkCR9yUcGzhzSF0arxtMmyImZrNwOEJ_7Rsnm!2e10!4m2!3m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b
+  - name: >-
+      places/ChIJ-8TePMoiTIYRGzcXI2gMqW0/photos/AeeoHcJ1WXtaGSWrlI54i4KlizEjk6bZ06AZg_QG8K5zXbSM0LHjhOrID_V3IqktKwd_EtEc5Z9ds7GeX-WquFrNpgzRGUva0YTOjhSj523i09tL_bjKX1NNasHABWvtGf3hbmS9TGocrQL84x83FyOPkz5UVr3tkEjgJk4EOVFelWdeJ2eGauTvG4ze77qIr1TE4VeFlxIeZTc8YBxoRXOoLj63DoSX4v9naDB4FjZ5f0UQfubul8774wuqkFKfyOg9MvQDfDrjR_iGbvxPB-UafQ-f88z4qzsiY_DOjHdac1h4YzmOf31WLHBCOjxGZeFc0oeSvl236HozPL1rVtbBzaiNyj7Lv05nvka-s9jNOeNzGBV5-nK6nRqlNZxhJdJ46ey1DMb1nOyzl-Vaki_CfmRLV94rWV-TKN8ax7jjsrRC4g
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Uzma Usmani
+        uri: https://maps.google.com/maps/contrib/115220447146447996988
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUo1CFPKNVE6u2Qe9NrYMB3WeqXYwb_Xluw6EhNCky-krDfA9kX=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICnpf6hTg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnpf6hTg!2e10!4m2!3m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b
+  - name: >-
+      places/ChIJ-8TePMoiTIYRGzcXI2gMqW0/photos/AeeoHcJWGVkuRC51c-3K9xhyviK12_R7WwHt5aQd78TMWIbpC4qgkS3-VVUOwjw_eULdEzR0y1sdZarFgVWGhduuRpda32UQCfCJtw__OHARZQqIq61ZlMxYcoRxV8B2Q5-mu9ViMczBRYC9hqP_hf6BSPakW93w1oZvIdIX62LQlBZ46q4IqI9i7wFpYdhlf1EglHRbaMxwl24PqqxPkI9ZYAbbuwFbSFe6pNjhX1K545OFlhbSpS3FHHGkE2T_Gt7ogOY3EcjRmJEBAazO7Icmq2ZHKInB1x4f-TlhYPZXk_3SWWPfM3n4_rTVaR-vCmx3bIhL1yY18VKeiB5o6XbcVffP28vCb6ZiZ_gj8naNnd0Mn2P0hG6DDTRwoSfJWlF-IjRoKCy91rjvdA4BqWsHPbLjcnRGX-2RptEcUAr9N6gQ2g
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Armando Juarez
+        uri: https://maps.google.com/maps/contrib/110297062101788002445
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUlsVf3wYU2G6UzNFYOau-1HiHP-VjkPms5tiEbFsguA7HTYxWa=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzit3sCQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzit3sCQ!2e10!4m2!3m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b
+  - name: >-
+      places/ChIJ-8TePMoiTIYRGzcXI2gMqW0/photos/AeeoHcI_QZNVJ5_wr24IBGMVnxGqAH5z1Fj99faqLDRHK682QNWueQZ5FU9LHaUS66LkEs4XOf8wbr-d0XEDJcttuSPUQMafN9Hw3Z0h_X_ofJCyiY6-OXCO4q9aIfYxix9OH6d_yq9eHraTCuEc7zzHWIjrcU_4QQ6sBrGWctKwZdztGtrAZnqzCUTmCoDLMbF6mxVNXaRZK7O-v5IOR4MiXTIcm_UmuHOiG6HZ8KDEv5ulBG_d0EB_Iz4sEpJY4XlRMeoHJKHLz6oqCm9HHOE9xBlA5GCDA37-HDIHILh2ATh0PA
+    widthPx: 540
+    heightPx: 960
+    authorAttributions:
+      - displayName: Sushi Go
+        uri: https://maps.google.com/maps/contrib/112085217429550826249
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLIhpsPMhzYgceazwnler4lqccUmQKJoSZD3G46BtV8gEzhqw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPPnJ9zhb02W2WuJRAbfCHLJk90Xg67H4H4cTF3&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPPnJ9zhb02W2WuJRAbfCHLJk90Xg67H4H4cTF3!2e10!4m2!3m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b
+  - name: >-
+      places/ChIJ-8TePMoiTIYRGzcXI2gMqW0/photos/AeeoHcLAg4WcLREN9OER709ir7WW0u8DWXjDBJTN_CPVnLfcSAjSU5jsnHDLmkvDQmuDNoyar62ysFjwWOeK784mKQmQ5rwuLycCm6HHU4XQ05ObEw4a64dsDwWFuPveoEn4hglJr7zayqI9iRyNYX7pu_RB0Ai6wl8TPlkp2NP0kY_Mfvo_xj5D1Ipf8Q0AJFLHc3lqFAEXFbwVsO-tBreVqUVRSn3IQWSPyhSdeL_YLLMl2HxH3lkMYz8DEk9M2w1_NGd-Dxo85LOuuoWjJ2ThQr9b0o9z8VBOiB1aOXAiDDaiciWh4OJYT3BkdZdMr6HQFUQmBFPWyJXe9MOWoDzi5jfGmYeWTX1ixv22ve6ez0tNVCZ_S2cs4LTQIL5aVkNyIE2MUgtBY2SrnAHR2bYvYhKRFZJSEWKZrBQPejgy74mIMQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Aparna Tiwari (The wandering foodie)
+        uri: https://maps.google.com/maps/contrib/116267840606006811758
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVxcSmu9IibNoYjXwKU4Nh89Rvkzak282J8nsz2GnrF92Y6Wajj=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJ1KbwQw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ1KbwQw!2e10!4m2!3m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b
+  - name: >-
+      places/ChIJ-8TePMoiTIYRGzcXI2gMqW0/photos/AeeoHcK42GAAF_xQrcFR7QekNG3QkTwFk6zjpYsXiFnEyd_TMi0eS_gwyFXg6v9LfM79AsOzizfiU2hNtKRvPNkMKoDuTSdv0uw4rAoeaPYuRFySsRNjiI1d6fzoMSLJGdOmuGSdsfPMpc9pNPvi4O95GycI7WkSPvPbbf1k9rx_IyzVEt9Fn2HbxcRLe49KO3TU3biO6W4Wf15n9dvSwlfZbhiZcWRtxlECKgKoz3NuC65zW4heDWLxJX_QHfz3Yl5C5y5z-6qQzJLcjiLCmnvpmpCfiy0Diwl11hbT9Uq1BAlQv2_iAX--GuzgvQkkq0yhIyk6rzD6TX6OLULNw8DyySwMZgoCS5e4SU-SafP5Qd4-_mycjAArBDpFjPqd9PcgLywXdxXKZz3ei_roi_CRHHeAN9B6zUAbhnSEFhyNkE1suQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Dave Schain
+        uri: https://maps.google.com/maps/contrib/117882441937677322873
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-cVd0Kiq9XmeJ7FwFtGY-y5xalgD7vMflS_TwkfUuR0fOpo-a=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQuMqjAQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQuMqjAQ!2e10!4m2!3m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b
+  - name: >-
+      places/ChIJ-8TePMoiTIYRGzcXI2gMqW0/photos/AeeoHcIqABSvfLMIqCEZldYmyUiJ1vl2QQ66BVtOXkysd15yi8Rs4FsCnemJYrlBiMxzyxEDb0pOuPzOVTe_ITUSEsJp74k3h3PuMEwYH2gXA8_zITWBtevDjNoNA3QEAhrp0j9KelfU3vUANf9Xv0gL15koC5e0PXGk8d5mw8t5E1fCJCPd9-RErOiPz1DVwDybM7GNBWgALrBRlex-ajVZs7jemnEtgOn9xcHKGosAJu07-iiL2wpneOIkkIliRwmZwrCtXKeN1A7YE7rnf2luG5DnS5X7kqEWaN-dhCQIi3ZRKhIkif9DNDlBSMWEXd9aVVQxEoA4yFUxH5M0BodVOVf3l2m3H1fUCyka3WN7HjDWyEihiCpyLu2xIRa4XkgZbNwgeYcKG-9MggqlJPKpQvg_9vd3Tu6gxy7FZQmUY-bTWGwP
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Armando Juarez
+        uri: https://maps.google.com/maps/contrib/110297062101788002445
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUlsVf3wYU2G6UzNFYOau-1HiHP-VjkPms5tiEbFsguA7HTYxWa=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzit3siQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzit3siQE!2e10!4m2!3m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b
+address: '6909 Coit Rd #204, Plano, TX 75024, USA'
+street: '6909 Coit Rd #204'
+city: Plano
+state: TX
+zip: '75024'
+country: USA
+neighborhood: null
+latitude: '33.070262'
+longitude: '-96.772481'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Go
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x864c22ca3cdec4fb:0x6da90c682317371b!3e0
+  placeUri: https://maps.google.com/?cid=7901860662603101979
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c22ca3cdec4fb:0x6da90c682317371b!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x864c22ca3cdec4fb:0x6da90c682317371b!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c22ca3cdec4fb:0x6da90c682317371b!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Go
+
+---

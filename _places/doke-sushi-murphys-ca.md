@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Doke Sushi"
+permalink: /california/murphys/doke-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Murphys
+place_id: ChIJVQXJsD68kIARU61bYFucxoA
+photos:
+  - name: >-
+      places/ChIJVQXJsD68kIARU61bYFucxoA/photos/AeeoHcI2Pui7cZgXM96A0mOJydFAhMwrvqyOMcuuIpiBCOTnFITJ9_6Y2wtVGwtXeUnBuJIeoqIqAvs9FAYyq8Lti2Gxr8WDMext4-O0AMbfuMp13ItuXCxffYWXdeetZlfDE_Tl_qwAVy_LP7Exaie2NiOGvrJvejzdJSEhPRxdO6HFh_0zo7mdRz9o09W24RhpsC2WHRFJQ8UnBSAkM40hoQ2y2_Gq5vt2enevG5iSyqjMhhdPQwbiFvoktjRjG_FGKYvhwpjoWXXV8-jJNVYIbyidUNdKQ2-EujdaEmRcQhHEqStc-MjlNhoQnr1kF6QzYJlGRA-hfaiWrxVEILcYTAgdyNuw-EUn8fpL9VuqsynKSMWijFiUVcLW70V2w9TSngMz2edrpxORLfqw54ZH4XqO1ydp4aq-CdN83_oHh5rokg
+    widthPx: 1620
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Joseph Nguyen, G Tour Photos
+        uri: https://maps.google.com/maps/contrib/116628017237318634822
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-eupKY95FqK2jjhCT89u_lVTrXiw8GyFsMMk1LuitLNO32ts=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC437S3Ng&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC437S3Ng!2e10!4m2!3m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53
+  - name: >-
+      places/ChIJVQXJsD68kIARU61bYFucxoA/photos/AeeoHcLU2pW1oJdTb4y-LBjDBxZx9GFq-NxhH-ZtCc4K_-z1gjCvu_8UIOGsViES_DkWCMtkB3fNl5800nsgc-PXEeZGZOYkzHCHJKJuzScNuhV1wJ14JfwZKxUVU-h68q3Vr7hvWijs0jDT9RHOZg4JpyC4onHDYUPZ8sHZ-oyp6WzjtaK9P_Z2blDUKHt418UER_EttEhdeDiyru2Un_NFWIZbWfTVFZvhEriQV7rULw0Oytt5bWNGuVItKG1F9XYrI_2c7HQ8bzXEeqm9xbUlG2CrUhlr8DuWwp7WLPxLQgqED9bvrgVQtDR4i34Seh6b47uKumprKNwlVx7U8-m-ke28zN0kHuXn6B18EUs--_Q6E5yoM9fmdswn-MbF-TGMq5auT67hgMJ646HCv3a7kGXkI4_YKDlvf8HPPpZQf7qLJPYu
+    widthPx: 3264
+    heightPx: 1836
+    authorAttributions:
+      - displayName: Shannon Prindiville
+        uri: https://maps.google.com/maps/contrib/105728180427946588552
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW2gR8SfVn6YCuqzwdMa5d-SkfmULncjIFwrTGj5DPZeC7PoI1_=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID44L3TrgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID44L3TrgE!2e10!4m2!3m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53
+  - name: >-
+      places/ChIJVQXJsD68kIARU61bYFucxoA/photos/AeeoHcJIK5g1Nt9m1bKfrIYCYWcBLtPX_y0vbskztm1Ja2tAQDR_GbqfbMPFj-LDHS_hsNhVJVkKByDad0zXF61EafexAsBCdSfUBZf_K15703P7yihZGC-2ihoxE45-dn9FbT0d_8qV79XV65dn-u9mRxO-iG-l8NW-8Sq-JfT0CWKMBDsOw0SQkFbjk89zsIflzgdE_hc1VVtZDlechvvA-TeTSUs8JoALAzMFiWja7SH6UUdqSiPO5Adoa7_sBUA44OgeXCCu4D1oneWYZoTTJ85VQOttEgo--2KoxlDpeYUDi_oDI45LR2SmE2X0lWK18Dq5HB2TT1ObYpgOEoaKWrP7QF7b1h5KITE8ffcj_fDNUUsScCtyv8SaqAnbwE9WIsbuVX2D1xs6izvATLg7OmvCwRJGLT0w-Jc61oEgyosubufS
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jamie Mayne
+        uri: https://maps.google.com/maps/contrib/116559420492766883714
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUXUO0g_FA5qXwkUjhiCtlYRdaFYW7dbIUPGO1RTwaDq85UhGCjXg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX2I-1-AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX2I-1-AE!2e10!4m2!3m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53
+  - name: >-
+      places/ChIJVQXJsD68kIARU61bYFucxoA/photos/AeeoHcKIYAF6RbO88H1lpVlkuuGcKjWV1fWjKErMJc7yTC-lmtfZDMXThF16sSeGp59p7HlvC0eadzcjUC24El-f3KJ2Xcuq2nvfkPNYGummUsyiib-6AudWtF5IPGEBdnn1484udECgJJREZQw0cBV_HUml8wlE3n_zREgF5sQmsLgjl9h8AIpLxrSXEyZ80_JP6ANeLhn2suQVw6b1BPFwH-DJiYpThxpq4EQK4gpZSFhrs008fqILN2ATA9PpQBqb0Es9F2shK6XZlqLURno5PiPTo-novfphh51f0GpGZTSWv9ys0qGe9zU7gC6cYGJSbj54x4dcB9UMpyneGjvtpBY-Fxnr-mdE41gS1PiDXVDT33DQzR88xDJ-JB63tFz2DUghIoGwFNtk0BCQvw633YXq-ZjOvx4Eu2fp1J2DIkLbal7m
+    widthPx: 3023
+    heightPx: 1816
+    authorAttributions:
+      - displayName: patty 007
+        uri: https://maps.google.com/maps/contrib/104450951412412698599
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWWjhlaDoNE86oJT7UeSAIbJeh1wj42DBZ4CtpY98iAKY1a-PdqkA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICu26nzsgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu26nzsgE!2e10!4m2!3m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53
+  - name: >-
+      places/ChIJVQXJsD68kIARU61bYFucxoA/photos/AeeoHcLQNATGCsktMNHvOeiGLNQZOBQIOBy4KiQF5uKvMxJov9onH9psZr7pH8ds_obQvH_2QvLyMkm-t8ar2XwGUcHaoxgaG1oFjQ4VRmYZVe7I6B8yFbyUHbObV2M6sR2PGb8tBWueCq6MHUAW7MMtLdEeFIEq4znjfkGQvwYC4GeejhJmnGFJ_TeP-mtN0fiyPcYSIsMZiRGeUhtBXxoOlJVgsQ_YJB62SFgNAW8t2PwaE-ouiozifz-ZEadY233VoQcIETm88RYge6W6T2poxDPeDq9QP397gYXHoT8y0XnXdH38vWeRV4Bzh3tyYoRb-2HNHTytNlpUkhzS-eMxXvRCdN4GVIpcU14jdZc9rb8bwnsJgGroy8EVS6oSoLXllLEMftAgeHsmkg5XQVyrvdPOVhUbyHV1ErcGPuOq5wjLgjY
+    widthPx: 1620
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Joseph Nguyen, G Tour Photos
+        uri: https://maps.google.com/maps/contrib/116628017237318634822
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-eupKY95FqK2jjhCT89u_lVTrXiw8GyFsMMk1LuitLNO32ts=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC438S1lAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC438S1lAE!2e10!4m2!3m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53
+  - name: >-
+      places/ChIJVQXJsD68kIARU61bYFucxoA/photos/AeeoHcJiNcguOTNkozjbcZKUV9CHpsJZGL84eJfWgKfijDPOSckWFzcGohjNHVw3bRaT2zm3Pe811iGfpQX7xxO5bY_BSBcbYl7TD3jpWS7BzV9hxZMr0LhnDR63_VGCM95sBQvXXQ6m8-uc64fes37UV1eKheHLhS81eJcJTLUzkwPGKFdrNVaDwQmoEV2ksbnZGrduu_iKGC8GCTg9jvLUdIEzlI7rvtS66XCE3nTaeQ8jlbdJbRpmpjKH8VI14lgal7S0W9cX6m_Zz2EiShOiozMYP7vyHKA4B3JwOx5Ok3H1-1SUiygfqiwNW81deKC7zsfQMTXOzy5FacJuablsyscCFx4WnoQ1yTA7-LhpasLqwjxdsW4ObdqJ-KfEYBiyDXx5koLmqKXBdE78RYDIuqQaIHCeVISJR1Ooh3Szxuk
+    widthPx: 1836
+    heightPx: 3264
+    authorAttributions:
+      - displayName: Michael Cross
+        uri: https://maps.google.com/maps/contrib/111392064057607121862
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVEK6H6UWJzoQVzs0axzyEh2ngD3OWC6wR2Hlik_n3Y7R13BPLibw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4prKaYg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4prKaYg!2e10!4m2!3m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53
+  - name: >-
+      places/ChIJVQXJsD68kIARU61bYFucxoA/photos/AeeoHcIatlRym-Vp0yEbIW3oTOTFqRroT-Ls5AmhbpvmIIfsjpgDeC3r-zwPTxYU0eBVkj8bVIr88I59Y5UQypuJFIhSdeFejzK5Noe7HRrFVOGvWcKWW5jUdQOT1YtjxCRquWGkrsaLIAhWITIFghpnjn01M0ldmWjaSsSPYnZtIVHKfGTX2aElw9KIQGkOE4KGMKdjnRg-ywEFL1jzvLvTNGq-nLdlb-iu0EQDRZ0INWXpib9z0KUn5y4YcyxocxCGPgilrfVosmlGe0Tv2VIbuGlf_vTNebM-VmyjMNLzxy9PDYZq8AdUgjb0vDaXQXMQXIKgwJMxeU-oaEDkFgJd9sWxRhXPCo7Mndel19RGPYm8iIg6kdZrA8AeM2pknpC8gVlesZE_urkEvnNSqprJoTjdgIxrTS7uLI1vfkZ_KAw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Kayne Phillips
+        uri: https://maps.google.com/maps/contrib/100855204555284229558
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJIcooQMt8Bn0A4pTAmBiRJPWNqdihNL_xc64_WV51S55j8UQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxvMijMg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxvMijMg!2e10!4m2!3m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53
+  - name: >-
+      places/ChIJVQXJsD68kIARU61bYFucxoA/photos/AeeoHcLXywyJiSDGLn2bylXnJYtVDtHK4Tyq5HwrF2Fp91b4K4jUURM_B_ykHk_j9eENzYJig4xLlB9-g1EMRXNTpVj_XIvomlNN2iiD0NdPYwIIKVCPlmlWvyjQGjjIi038VgYGbRVluhtiloT9fwVLhNzebqfm2xKrA9_phKZVY8KahHNW7eLgpVcUtag0w432Slx0eR6lFfn-AgUo8mSdNkM0rrT0AnrjW_VDr43E3zX8zZBhEIkQYe4AS_sBlwX9_TJt22Fj5TRc_dcKr_rs5Jo_W40lQc-1Kd_Go-9aqfmGuOyEyJSfZcaud2bpREyLbqp2aBlt0oA1Y1OpT7wlbi3a5crn28BZe40sicK0JMDE2aELQ7luZmVFjGILFNlCTduMWgk5L4ptxGLLuOoPUQ0DfCDOOcdzGgMboZb2Af54cw
+    widthPx: 3036
+    heightPx: 4048
+    authorAttributions:
+      - displayName: Kip Machado
+        uri: https://maps.google.com/maps/contrib/103406031091814062440
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUiz1DpN4WiBlo7jidWE1yweifkA7wKBcskw-rM3ibpbzXmqNGYQQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4meXOXw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4meXOXw!2e10!4m2!3m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53
+  - name: >-
+      places/ChIJVQXJsD68kIARU61bYFucxoA/photos/AeeoHcJ2fSgfyKaNqK6kJL9ZaHhn4hFg9pYJuEdAZzhUSwMxdUYAXD64CJBUuxhjGC6a3Wiy0CTImACwwyPtmBHkQKiH91kE1jhflSZwUHRXuZbPipwoz4_e42cfrGgz6MmdBrZqEulu8Tf2OTYmDuQxuMV4knOrLuKPgvI2JObJF-cWSgp0Phf3uG0iXwkii3XlcMwDLYAGfavDCGxLEOyr6IGjVHWXymYpJPretMrOBH22go_taAA4CNxRCX000VclRCMG-rPdfM7PbGaCc1vhDe8Y3iOede-6LZ6fDBkZpd8glb9D7oEt4lRnTv6lLDR-JdLD3lXfF5x7-NbJca2ToqlZHP11UmyLF1XwplupC79qcEN36qr7eBmEFM8FcbH8fwwCzFcdyUGvz7QGzu9jcK4ZvH9xdCvEVHt-AwSPMOyd9w
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: Zach Isnec
+        uri: https://maps.google.com/maps/contrib/114798471821285887995
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIdWWEZfDmUdxi-SgSBQzwpJbY3-w1kjMcp3QagJQIr5dzSh5XJ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4hKi_DA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4hKi_DA!2e10!4m2!3m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53
+  - name: >-
+      places/ChIJVQXJsD68kIARU61bYFucxoA/photos/AeeoHcJ0lfJ5zbCYZE9Z2fm41x9bAZ1Iyi9JKARoEJm7X8mL78OCHKntFv6YB9OKYmpCt4ucNonTgBNucJsdeYsgYFLmWjGtwVp6oiVvLmH62PZlsei_gPURi0Z-XUONOnLZh9n0GUESwsRWxf3haDmAEG5sYjsI_4utWjBn_Ih3DK4SD7nPpOYS3IlG5t3CJEARcEKAGgYD-f9KCwlRht33dchlcKVRchL64rMaHZ8mUusixyrnJPse8yFo8XfWOxhDs49yTSs3tynim2dN1uo3gYAdJufrZPBHn3JY83zIErl_cuZTIH55-ycRA0QleZfaoFdVghoU_JNpyRyMxjnAtkX0bqZu4RtoYbSAblJyzmMaF2RQBQJr0PLCfzgqJCJHzIlJn5kOHhirFeE_EIHyvrrTZfY-F5PPDhJnN1gWWmHgNQ
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: Stephen Harris (TrackMasterSteve)
+        uri: https://maps.google.com/maps/contrib/100230857891310122626
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWkPbBXKAtbPheH-YZ-ohaxCG7sUMKvo8k2HRGAFgoYnilMAIK31g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4pZ_CCw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4pZ_CCw!2e10!4m2!3m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53
+address: '403 Main St #9628, Murphys, CA 95247, USA'
+street: '403 Main St #9628'
+city: Murphys
+state: CA
+zip: '95247'
+country: USA
+neighborhood: null
+latitude: '38.137405'
+longitude: '-120.463947'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Doke Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8090bc3eb0c90555:0x80c69c5b605bad53!3e0
+  placeUri: https://maps.google.com/?cid=9279275998516063571
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8090bc3eb0c90555:0x80c69c5b605bad53!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8090bc3eb0c90555:0x80c69c5b605bad53!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8090bc3eb0c90555:0x80c69c5b605bad53!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Doke-Sushi
+
+---

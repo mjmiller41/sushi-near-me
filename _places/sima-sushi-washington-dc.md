@@ -33,10 +33,6 @@ city: Washington
 state: DC
 zip: '20036'
 country: USA
-address_html: >-
-  <span class="street-address">1660 L St NW #1</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20036-5603</span>, <span class="country-name">USA</span>
 neighborhood: Northwest Washington
 latitude: '38.903404'
 longitude: '-77.038272'

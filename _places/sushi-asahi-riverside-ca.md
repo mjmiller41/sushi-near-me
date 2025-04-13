@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Asahi"
+permalink: /california/riverside/sushi-asahi.html
+stateAbbr: CA
+stateName: California
+cityName: Riverside
+place_id: ChIJEzBIYbyw3IAR-rk1OALrLXU
+photos:
+  - name: >-
+      places/ChIJEzBIYbyw3IAR-rk1OALrLXU/photos/AeeoHcJgFdnbdsmTNsBbfJQqG2-myGewypPkAGsrrR_CKZQOXUQtzCooGVGokCq9q_PFdjbJAKMMOXmK7MglMpMWlKcYEpeaGWJ80uE9kZq2wQ67p4mjPUD2oXcRweBXtlGqB2gcqzK3ia0LRIsHCC-dtV0vPvSo9yXt06DgsSxaYKamNd6xAp29dZKBhmCKMPqozy7wu7xa0esnDx84HcqCY5Vl4W35ctOe6OqFu9_7RJVNKI5caEyRcrRJwIxypoE2LgI19rj1SMstvD5sOdP6aHfuLOhHJFvXoOvtF8MEDwH96JPI-Ad-uCwWLOY5tvw33qheiDs1GvlcGAPmxQwoBK6dMnbiH6RYQBGnTDQHjO4C58L7tBI6NNRVxcUhEXokjMdR7tZKCl4gBGLdNxX-Ay2NAE2sTMq9bCUx5RbgF1OWfQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: john garcia
+        uri: https://maps.google.com/maps/contrib/114605015069699118191
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWUYwEUeGMCVT1I72w4M0hQBhk9M_k_9vq73wx9YYCG3CyZLB2b=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDG9_qbNg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG9_qbNg!2e10!4m2!3m1!1s0x80dcb0bc61483013:0x752deb023835b9fa
+  - name: >-
+      places/ChIJEzBIYbyw3IAR-rk1OALrLXU/photos/AeeoHcJDbDIxKemYoqJO2ADeXtBHO5dt2h4DMaF59X28TdvGRXRTKgjvJTFGE2fyV6NSx7mbDGzl_WTb7sP2f1P0mmMiY0RKirQ4kfHOcuMfAnZ5oKHcVUhKP7nNCFG12L7JCDDf5iCkvqj8aPUaNfCipO1IEGN4ae_JIsoFwR6GSAPNwV-iMmOGqYywHWrkYEwXxiaf11GNZYaRs_H-Skbi1dpkdrRJzZuYQm5GuKGDU6skSNd-YIkCDcrvlpBzASy68HLxrzIyxsEuQUnFIols7yIzfZY6AKgvIbdb3kWLDJJCws6pV3sF3UMsH6lcv4VrZeGQOcZC5rXUDRYlMQfuNg_M_QfF3bpLlWrvTmgdeUHj0cVlAIwpwfVurFP4t7G-yvBPCLvl1Nk5nO1NqijxTd6YG3I94f1g1Vo_kAmpWBb0vg
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Jeff Hung
+        uri: https://maps.google.com/maps/contrib/100144214342348682044
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVrjURRnd4DZMeFR0rPmCBB8uvCX4dNGLSnTHjqc24Ih7o6puo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3xISgHA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3xISgHA!2e10!4m2!3m1!1s0x80dcb0bc61483013:0x752deb023835b9fa
+  - name: >-
+      places/ChIJEzBIYbyw3IAR-rk1OALrLXU/photos/AeeoHcIt_NSNsjD3MuTZBq6kz3JBj4PYDFHlJGr3zZaeqd2CbYF5vNOhhMPVruUZv41nKioCJKdMJKGanHYf08FeWbLzea9MMCTr3gVUfi5vLKOZkbtFYNDEZ4hBFrQc-YGfs4OILmpPGgMIF2guy12dM2VoAL7p-o8D-g2m9PzOPG9YQlhL91nivzpfNn4cBEUkbkdLaKI46YRZaDj2MhVXXsyHhIk1aW5-oj-5VnR7EbFvLj5axuYJr5XwL22GVnAFx88GC4Br5qzJiMo2zMie7cC4fkKzihctQkOI_uiwG3bOaC_SQRn5wZfxJYVynW--cs93S2oifR194QSGh7aWO-bCYRIQeBl8-CERCmjrWl5CVZ2W95qRGd-r7bfRmo6xCiXk3fSKTpUJzGWP_g9sqEqN69Tnfv9Kh9MZY2nxoTl9YQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mohammad Afsar
+        uri: https://maps.google.com/maps/contrib/107413237787217523573
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUs4EO_c_af-WhEcbP5EjoU4iO9cQTxGwB6-EEKx4LfguBK_zxB=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw6MPTNA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw6MPTNA!2e10!4m2!3m1!1s0x80dcb0bc61483013:0x752deb023835b9fa
+  - name: >-
+      places/ChIJEzBIYbyw3IAR-rk1OALrLXU/photos/AeeoHcIhztuA-sn3qXtcDnGLHlArpY1SJIUc7vJPkl9Pa2FCNmBjDBZh8d_tDEFA3oeN5S6vbdqlOMH3DwQUv9B2xPYMDc-4u-nmUsc2-2NyIQuimMv5FtyiTKlENW-8KSKJm5EMMiLX-sLFvynb7SvK5cI9mzKuwh-H7th2pEwlPKHgWyCrtaSrp9Bhjeomr3Vmzd2KXPW1QM9aUjVHCM6UuklctY0fUYN0wer832Ep78X1Lex-rivUKinUroC1-qBpXugjSZqSbfX3UUlaWQhqOfGWJWaslGpGe8HVJQ-Hzb4icc9_6TXDUdVAlx5pzQ9tGsKQA_B30h3nudEKpVy7FNk2s5xixweA8gF3l_-Rc3hO5VLqKgV62GQ0YjFx38TlvfKZxfvfkHpEPDkgY4ps-HNGvcjb_OPZGpmrcT_ZUrEUEA
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Jeff Hung
+        uri: https://maps.google.com/maps/contrib/100144214342348682044
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVrjURRnd4DZMeFR0rPmCBB8uvCX4dNGLSnTHjqc24Ih7o6puo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3xOjgQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3xOjgQQ!2e10!4m2!3m1!1s0x80dcb0bc61483013:0x752deb023835b9fa
+  - name: >-
+      places/ChIJEzBIYbyw3IAR-rk1OALrLXU/photos/AeeoHcLIdzTSEl1Rz9pHvfpESKdVLtd4gnygt5eXIRJPZBjaZYNmQAeS-M8XmyYUrrAlI8Xni7VJc3xqUZ9lMC_YF60wiOGF-gIp_wb4pcOiKgGjveipyLemSUI56GYKaONOO8Y5FAxDKuIJ994GCVwWnqWP8-GBXowPfgJo-A9UpDx5nekMIwIOP8CUaWJHEQP_5Zkbm000W0rb7lfwK7Aooj877TcnyU9qkirOXBdCtIz0PvCWXQQscw74h6bFzHk9Z0tK372Z8PvzFEbMaVC2YQsOCcILZJOZSknkOu1lOcvvcmTTiLLqCxtARparebEDq1ytzc_kDlAqyyA0yQfIuAyQJIe56HgERR-C3gcrIHqevJd8NUktezDle0yW-JBBSZqHXusjhEfClwduJc4BfPgoyp4Ko77quvSxjT9odYQ
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Edi “Betsy” N
+        uri: https://maps.google.com/maps/contrib/109060337343169230823
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKwZ1bsDVMU9576e5zs0vJxaVXNbvbWrsG6-aor8Ps4io8KkQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHzJDsAQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHzJDsAQ!2e10!4m2!3m1!1s0x80dcb0bc61483013:0x752deb023835b9fa
+  - name: >-
+      places/ChIJEzBIYbyw3IAR-rk1OALrLXU/photos/AeeoHcI7FgeDowxK5iiNF3iygtI6XyxAqz8irzvZz86AcpxeqFAaOMma0sIfacW-zmhJn-TDi9Z2XXgqnH0VEtTL-glTQqutNR8YJt5ci8nDnmBy5Oi7lPHoCsRjDqYSa0ptoCw_sGJea8DHj98MiJs2qwDWOC27Zh6oljaNBaTlpGEWT63CdFcE-7a5qGi6OUpPFgcQVoA2HL013JbiSWotsCHns0H8_F4ySGT9zuT6btD8NfiOryvZP4d7uReQo3eK__Mp6M5KcDGTj6rlyqAXnwM-rYNSCexV9zhCqzvsQLyuWks14NYoM4wFuUlSwX0jw8zTAGXLnHVQJqmFzkxwoSLiQ9lWr0GXc9DA5KblOBg5Zp1uYdKorXnepHBd7se-gCjSS6idldgpc2zduZqpGhNSElYWwo4bzFCI0EOu0gpI-oVT
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mohammad Afsar
+        uri: https://maps.google.com/maps/contrib/107413237787217523573
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUs4EO_c_af-WhEcbP5EjoU4iO9cQTxGwB6-EEKx4LfguBK_zxB=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw6MPTzAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw6MPTzAE!2e10!4m2!3m1!1s0x80dcb0bc61483013:0x752deb023835b9fa
+  - name: >-
+      places/ChIJEzBIYbyw3IAR-rk1OALrLXU/photos/AeeoHcJiR5XR1pNFftMJFgLRu5y2hurnLJYxg8_hvO1scDgPUUXFBuSk_j-JFfBa7TZVqo8USmx2X_pe7u2SvsSx0tw1CdtnWLujmAyIXXi3FtiQeYhGQwJ_vP2YWHT8eK9YF5CXirjjgfLMaOKabrIYcx-CAVt7QI5lTmiATbfyeA2IN66GBt4Ji6LEHD-yDgQcppmynC-Nd9l3jW66axdCUpZMutL7rJvxSrqITadOdLJzUhwkkHm_gscqm9g5MdJT-lNEMhMfsmnmkB4NJbURGpW3frZFCww5Df2UyGc0EQmy5VhqoCTXk3MmIMjwXUK0HC5K_SNkPSrtiC_7Md6bkNf0wY5YFn92ryV3jXllXiW7DA11D6pQaLxQvn20eeAkYtMcaQBS9Fo7qc_o0mttiAismrhOlXgboy8JuXju7DV5BwjZ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Bard Neur
+        uri: https://maps.google.com/maps/contrib/116556366085767404264
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV3PaGlQ7A-5dfUvX_OEmd4WwWS3SNv622qFl_xmEOWy7HDc6CU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC2mfeG_AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2mfeG_AE!2e10!4m2!3m1!1s0x80dcb0bc61483013:0x752deb023835b9fa
+  - name: >-
+      places/ChIJEzBIYbyw3IAR-rk1OALrLXU/photos/AeeoHcL7l8tQQUSP2QHcGY1VQf8tkedbNVGsAEf4zE1GVYN2_ncfNZjqXRIbP_JH1T46cOD69JAhDGKpbkOLNez3tirlBFPMhC-cTivtd2sUNyk8yCTQa1fcwyp3qi8YUHMdK53rRbh39Bc0BGUbMuuN5xUE8v7kDZlateIChVkgBm5Geh1ZAdUT4Mecjki5R8HHjUAwR2NW7WXuFs6RoLq5hDOwTzW5pW38wEDtzp0VA6hBGjx1EI5jhaqpGUe5j8gCUkM_YpWcfM1ecH7-aETBW5vp2i0M81VaAHpLXq_mod-zl9UeGs4u9vbKwXS8Le83r-frAr8spIv_kURY2oNtb0WH7LLXfs7q4CxJRiOjU_5nvFimQKF-dI95YFbcSA0nkZ-jOeqvpYXI7svipkKfPZiP3T1W2gtTHEYf4uXtEgtMRmcE
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rola Kutby
+        uri: https://maps.google.com/maps/contrib/106003297011565988574
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIyjvpVAX1srCAt3XaAW3tiDwlbzmOJOf-iG3PwaqG4UowyR4w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDntpyTmwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDntpyTmwE!2e10!4m2!3m1!1s0x80dcb0bc61483013:0x752deb023835b9fa
+  - name: >-
+      places/ChIJEzBIYbyw3IAR-rk1OALrLXU/photos/AeeoHcIWRaNupcpEe37ocFZB9ZFl4WNFgFC-VZmh7JIX4-neGGeTW47F_2XRfOuybTKkiSHk0oeUMF0hHU5tYUEQ40YkYew6xLMa8q6DoLfM7T3Kz9YZGkwJm6imQgPiv3JW3vkH0S4HsH5q_ufYzhIyuaW_ko7TwHV-LXWCrnEPH8NayMUZI2OTuwrWQl4XPqXq9OU5hZ603u9IGVAyecDZbKr0ZWgIxJee5-u8rxEU5TAv3EmobjxDnJozUX791mq6oymdc__4uqx7nZYZY27TbR7KE4LqPVQqG2tGdGq2onMueMDCTkBEStfCt3k3NCX6aLXuocg8oFHaDg4YnmHNNSQjJFP5KK2poVmby33tR5HQerAlljZwXw4Cpl88hBe1PhXRop-1lEkAj9GbrVYsP0NlMJEgL7YQmYRGSm-xTG-9RA
+    widthPx: 348
+    heightPx: 348
+    authorAttributions:
+      - displayName: Larry H. Azevedo
+        uri: https://maps.google.com/maps/contrib/116311454614177516677
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWxu3oxVwrby-KxVJ76gFzWAu6Dnmk5IZTLWPaEyYefr0q2_0w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDW5YzOTQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW5YzOTQ!2e10!4m2!3m1!1s0x80dcb0bc61483013:0x752deb023835b9fa
+  - name: >-
+      places/ChIJEzBIYbyw3IAR-rk1OALrLXU/photos/AeeoHcL_BmQkRgLdlkZ-fEHnAU-KXPfq5pvLyjHTDncYm-T1n88t6I9p0UgqFmfHGY83lrjGwBnxPSh32agEXA3YVlX4rItchCU8_w7tMXyEQWufl8qfwoaWv78Zex0iJ-e-lgKAfUMWZHaBdWxHdJ8ZTsJyAAIiGn97qbqJHh-6WcJ0FhRxYLOhEPYHz1CbW56-SfTMz5lK2QknCTU6yw3rz9aK-6fcLfEdd3LXbQF82De7SjcHvoeO4RT1efSBc5M32kPgk2cjQjFNyolrFmXq-wkxRYN7ccDGdhEaJaT2df8d1n6N6MCkxuEeVmGQYHGyGcFYRtxwON-DhIa7VhzCXuBJ3cqnPEptRBEG9w3-wEbxFRMl09oDunfzSCJsCw7MqBqwvXVKRDrTN2TQX7s1czs5c2n2SqVMnWC3bHs4gOfZ4A
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: R T
+        uri: https://maps.google.com/maps/contrib/109662625630541166304
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVfOqKXJ1DheidNFRG10PlnvLIUfrtrwA2WT_UdpnpAFjKS5DSM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAjtqDfQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAjtqDfQ!2e10!4m2!3m1!1s0x80dcb0bc61483013:0x752deb023835b9fa
+address: 2955 Van Buren Boulevard STE D2, Riverside, CA 92503, USA
+street: 2955 Van Buren Boulevard STE D2
+city: Riverside
+state: CA
+zip: '92503'
+country: USA
+neighborhood: Arlington South
+latitude: '33.909885'
+longitude: '-117.435720'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Asahi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dcb0bc61483013:0x752deb023835b9fa!3e0
+  placeUri: https://maps.google.com/?cid=8443663271155055098
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcb0bc61483013:0x752deb023835b9fa!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dcb0bc61483013:0x752deb023835b9fa!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcb0bc61483013:0x752deb023835b9fa!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Asahi
+
+---

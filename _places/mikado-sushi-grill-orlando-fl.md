@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Mikado Sushi & Grill"
+permalink: /florida/orlando/mikado-sushi-grill.html
+stateAbbr: FL
+stateName: Florida
+cityName: Orlando
+place_id: ChIJAyu6dh5554gR25xnvSlXRyo
+photos:
+  - name: >-
+      places/ChIJAyu6dh5554gR25xnvSlXRyo/photos/AeeoHcLmCmVusJk2HL7dE-_0dl8Cj-c7YTE9QbhRDu9CWzygpjkvZt_puAP0fh_7lx6JW32w7Pxvxm6i9RB92Q6RlxCCgDijt4RdkLGOD89Juibupx27rcamz57SgPmDt9iYGhKgmqYoE47rUUlDN_7-ZwnEhmRaRLiZakTxnzkxojbguKbw43U6XynXI7Pmcx4NqUgCkB-fAjSoKAcdTmTVNxCTSKUat8mXh5ZsCQXJLWW7E33GfNsASdYl2n-d-a1yDWtfjRbKZmvJfEb-D8CsZTAjAoWp4OXmOmYfBxyAU-sCAw
+    widthPx: 1296
+    heightPx: 864
+    authorAttributions:
+      - displayName: Mikado Sushi
+        uri: https://maps.google.com/maps/contrib/106920559380133288995
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU1Lmd26SE__56vCRkc0trDDrHP6O2X8jCxPETff1ViOHPDRQyD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM2UnrBv7XpNPiQh3v4urWMMeEOoN4cJRjxkNNE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM2UnrBv7XpNPiQh3v4urWMMeEOoN4cJRjxkNNE!2e10!4m2!3m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb
+  - name: >-
+      places/ChIJAyu6dh5554gR25xnvSlXRyo/photos/AeeoHcK1AwIjQIhnDuxTKNkmSee91PrWAlbqcvStvWoOdLL6Fn2Qnf4d0Bvkha14Y4P1cN0drd3frOyxg8Fe9t5ildHlafd8Lnosag-j2q4gcA3ToihVFy9-4rChx47goLcY5-CnENqHeXwEV4TxUfycM6hYAjalQl8sgBcaMZO4pmy-OPXyBeTQyORYxgAxa7vwL5cN1BPDyiydR0Txb0vNIGd4bQyrzlziIfpuh4Ob2FOZj0gYXPGOLDPLvgTwv9sopZUCtHeDziadowCZSq1P5g1sLOAONlhIBxlqQxnTgpgoCA
+    widthPx: 2588
+    heightPx: 1456
+    authorAttributions:
+      - displayName: Mikado Sushi
+        uri: https://maps.google.com/maps/contrib/106920559380133288995
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU1Lmd26SE__56vCRkc0trDDrHP6O2X8jCxPETff1ViOHPDRQyD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPCRQtDRMeeFOeBLgGBEuLJl0O4c6gnighXNCgB&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPCRQtDRMeeFOeBLgGBEuLJl0O4c6gnighXNCgB!2e10!4m2!3m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb
+  - name: >-
+      places/ChIJAyu6dh5554gR25xnvSlXRyo/photos/AeeoHcLis9L7Wl3Xys6CtGBFYIrPrq6Lbe35UM_9ibMDAiSWtd7Qb3qAeo7rWIAoBq_9cmncQ4oTy1OSE3glSe2jGqKhALoMckF8nL_cUsFJDHKLxjrKh1cfGs72QUPq02OE3C_bYYQxAIKGtoz0HHuN1-Cnl6NbhcZs5zAdNA5fBNg6mPrZogkqFJLR2-iQn9l7hABNvUF4PYoeCk37ZqwMe1yE5sR4Bh0uTN_vnAS59S3oTCYYU6kLvtG0fIT412648M1hmvW9aaQd-VDaPMkDdm_TBRNOxirWzYSw7XUfZqRIoF8Zlb5Mli3hPrkT8COsP00m2yvkBaZ1GVrlyvJwBDaKiLE-lrmX1vx1uvjvRKSiAnp8E_BPy7aQOvE-p5T2c1m60ktetD87LyhzI5QyXE6Oxr5TPQgRKtsLPhMahsq4lGjV
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: ray hornstein
+        uri: https://maps.google.com/maps/contrib/110642135995155096987
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLmkBk1SS6mWsheFgd8DGc3RIDu-phySgAsRCQ2NMhonVUkeA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI9IDToQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI9IDToQE!2e10!4m2!3m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb
+  - name: >-
+      places/ChIJAyu6dh5554gR25xnvSlXRyo/photos/AeeoHcL6aIcWlCts0j6MmsgHVl6Ua7O3IijQiq4BbYfD9r84HY5VtizdHiD7ZfhWWZgQXpRjPafa1-GdGydO3qQcaEnm2atXN9V9nucYRAW-UnJ9WWO4WSy4aE__10Sv82xMCaRadE5JRFyT3BE8BNiSfPvPhpd3UvKWCBW2KFWy4fsGSfBkeTnwav5m53Zv8PdsPvrCqaDghtxw7km_iFjSoFsfRfi5suP4YNd3IY-Tk3Vd5TBSo94dgjlRC2u2kNeq7-0ZePLr--DkmT3W-hv4R85ejzbCki3SRK_tacfJo9t6f_gBi3InW5-Y_N2H9lGo_ltc8KyQW3nKGlCkmOcqYdK4lX4V_YJiwh-ZvX34D0FHz_qAhdEzOvAKtwdsoma2U-yzzUDrCAaXGS6nmejfgqtAZ3rja7o9-eA4MDmHUpxpM6yKL9HwVvjlVaI6xA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Hernando Cardona
+        uri: https://maps.google.com/maps/contrib/106141176146364924548
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWN4SH4N2h0NVmReXgQ9nfVuK0_uC-waiA6qmzFg4YS7d3aQzCo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3jqzeBW8K2e5QAkAABB9&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jqzeBW8K2e5QAkAABB9!2e10!4m2!3m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb
+  - name: >-
+      places/ChIJAyu6dh5554gR25xnvSlXRyo/photos/AeeoHcIRvVrscBCQ-W8y2OF8st_TsfXxPvzudcWynNyMnL2NL_SWAh0ufum2fxwqcALkJvrfHdlkdMerApUfhG42OuiNI5Bbmofw8QsEZxKs3WBrlpZkmgU-7NU7AURgnwkv5NhijUpOGjSkU6WecvO_Z1SQ0hjBMp7KfzV5vxWSdpUzJL9wIePoF2rwPa3nA7hjRqAuQsF7FgZh5Ms6WK6_uPJ0Tzif3yVg2OmjlYypDF-Y8W1iv3-8SNApc04s0TJqkH4b_uzhktcbLL6oOLmb3svFjYLNUSLAuZwkSRbqP3HEtnamxtRN_x2sgnR5bc4bynEliNNGGwEG98FGMsHdvkZ6qPzda7pkARnd5bR9pkR_hi_0S1X4H28CMXfYSQPLeE-hAPrnBX6lAJz01svHfT4LebkwGVKGAMK0IrjMrfQ
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: ray hornstein
+        uri: https://maps.google.com/maps/contrib/110642135995155096987
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLmkBk1SS6mWsheFgd8DGc3RIDu-phySgAsRCQ2NMhonVUkeA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI9IDTIQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI9IDTIQ!2e10!4m2!3m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb
+  - name: >-
+      places/ChIJAyu6dh5554gR25xnvSlXRyo/photos/AeeoHcJMAWaEsHBZ8sPe3S9H9CT6Dvc2RnvEg4rpCMdULarXokeNhVYrbmqYDrIe_D2mB8Pb_0e-jFimf-olSodwCGRGgHs7V96ZyYg_QJ080Izi5D66xD3-ge7K7D3943Ipb8XTK0xeZsme7WkIlwoq6L7KqWAxxDTfREI6snH5317krK8zegavHGsSDM1y8iNU4GjAX-edErfssvtPsXFD2kKtahonip3tIOTdtMRsffuKXvFq7PTCMnWk_5dJRMzUPqAQsBj4LFJ9q64kCaB7hbVy1lBPBBUbs_KEX_NsdJCkA8EUHSXHUTX1rse0lGfLVgdw7daSrhxbXCNLRU4wFTzVtpDmXGj2cf3HRwzHxUyAEmLs7vK7Cd4xhthjVAxPphXVK3i9c7biLkI6tjEyJoVvCzmSAW5iujYbVA3_H6SiNLTO
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Renato Sartorio
+        uri: https://maps.google.com/maps/contrib/118127841224139549634
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW0Q9PPjwRqQ_QM0zLwuoBZUlDxm5flRSA5WpMWuxjiRbK_H512hQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwhPOxjwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwhPOxjwE!2e10!4m2!3m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb
+  - name: >-
+      places/ChIJAyu6dh5554gR25xnvSlXRyo/photos/AeeoHcJhMDflyv-2NAce-Yru44LH4F0SiIBpOU1PlTjY81z0GWZhp5ltcNtXw6FmCJ98Qw7OrSq7XEMDzcu8ci6_asy6u9raztsPj5ZKYtgRzg3Oqim1p1uNm4k5DLTuIUJb7ISjmscGGBqjux1QtJQwbQW793YqbeFx1ut7cfHU91TTePgxGf39Zb2IxVyr9nKe3tkIw_QBSjQUQNmu9bEvuLinUyy8XmzSbLDLVbs7jbJuUiLBoMf1jb418oUSayXTNE3ZqEwGE6YQr5QKpfSS91maPJ9HGYHzKxek1_d2p5RP0g
+    widthPx: 1290
+    heightPx: 863
+    authorAttributions:
+      - displayName: Mikado Sushi
+        uri: https://maps.google.com/maps/contrib/106920559380133288995
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU1Lmd26SE__56vCRkc0trDDrHP6O2X8jCxPETff1ViOHPDRQyD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPw2zYb9jQ0mNISaD8bfeWISQtvYK5xjXWb2itp&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPw2zYb9jQ0mNISaD8bfeWISQtvYK5xjXWb2itp!2e10!4m2!3m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb
+  - name: >-
+      places/ChIJAyu6dh5554gR25xnvSlXRyo/photos/AeeoHcKVcDW8snH7sjhgn8fqWnLz_NHorJexa7a_B5KNsf2xoPzNuCkxfysLADxF98kYr9B-Cuma678CPb-BsCIzr6aNiaQP959UVxWDbHKMboOUNGd5mSV_VnaRCvPr5_ClmeeJnhcBoa13nfxQDNz4N8lcr7-S_SjxpSkeOjjpPX_uYwLQDDrinvoGtM0eLvU6Yw7Nx8fuNHYqjC3TOqBbm6rJngYZaSDX33xQaEjDDUO7TPvvEFyKbD_GHOYpgH7qS-Q-NtxJ1caYL4qJR_ebGKQhgfNgcMy7Dc5C8DiHIKciSQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mikado Sushi
+        uri: https://maps.google.com/maps/contrib/106920559380133288995
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU1Lmd26SE__56vCRkc0trDDrHP6O2X8jCxPETff1ViOHPDRQyD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMjeWVD4yJVQfXHXvKqZkRjhs7rBvCBvPTxpmc_&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMjeWVD4yJVQfXHXvKqZkRjhs7rBvCBvPTxpmc_!2e10!4m2!3m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb
+  - name: >-
+      places/ChIJAyu6dh5554gR25xnvSlXRyo/photos/AeeoHcKnFCkg1_O4xyw4aUQ4OnXPva8a1RrNr9pzPDhYZwJz5TahEkbGf3yHOaEHctWGJOIeF3Dkpzv9NIN5O6Yi5FbsiiKPtPkAd3nrOxgnHFHyANM6VRWgLSHfpvgJaSlTxiT1CnnrDHW2YB1dtW3MEQOHY2UH6XmUUVYQ66hgsK7DdbQQIut3cFg2gVUfb1hYXopdVRGq57U4IbjnT2JU3fI5jxzXqR715hWz7lcJ636rC2a-IlBsp8u7YzeA991WeXVoBlgOQ4oGsWqpczG6JSbURd5D4gF_et46d1kfBLW1mA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mikado Sushi
+        uri: https://maps.google.com/maps/contrib/106920559380133288995
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU1Lmd26SE__56vCRkc0trDDrHP6O2X8jCxPETff1ViOHPDRQyD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOwtwwRc2dmLyNNc5Eor699w9Tneu0hdOgCtzWT&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOwtwwRc2dmLyNNc5Eor699w9Tneu0hdOgCtzWT!2e10!4m2!3m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb
+  - name: >-
+      places/ChIJAyu6dh5554gR25xnvSlXRyo/photos/AeeoHcLHR2shYUFnOUIowlxZr1iJMBenrcjyj7lmwJMCVELtlfQ--GIbDsMtyeJhPBU2HQ_hPVfcLIALk_7ua1N01LZjs-sDKG6DTT52mJP6u_ik9vXwHEEljmrFHC75so6Am5HyEgZivCICTYlf8I90spNDhBo2PWvVt-7I7jSJUZa5cnXtHrt3NmOg_TO4UxdCmVqm9R0pXDDAcASca4s0Ymgk1os-kSLMeDKuBV5tZy9HhExunNQKYP0Ax63r408pLpn6TQgGIPLKOIoZY2oykpWE1e4LHCRmuL-alReqhAU-9zEpjOSlP68Z5w9H5zcOX7Ust2mm3Ucm3UiglAQKqS0zOXF5NdNet1DA4y8aiJjdSHS0qkOHeG_YoKKibBPLPnzw8WVqJ4XC4nNwVoVJnkC4qPZ9ceJnP7O1BJEChCx2EQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Tony Inn
+        uri: https://maps.google.com/maps/contrib/117026126694021653170
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUyZqJEVk1dfBlblRUEXsrsn9mEXUc1oHvwixgKlPcTo953x7Dy=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqzZO8eQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqzZO8eQ!2e10!4m2!3m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb
+address: 6417 Raleigh St, Orlando, FL 32835, USA
+street: 6417 Raleigh St
+city: Orlando
+state: FL
+zip: '32835'
+country: USA
+neighborhood: Southwest Orlando
+latitude: '28.527230'
+longitude: '-81.470923'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Mikado Sushi & Grill
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88e7791e76ba2b03:0x2a475729bd679cdb!3e0
+  placeUri: https://maps.google.com/?cid=3046499509722389723
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e7791e76ba2b03:0x2a475729bd679cdb!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88e7791e76ba2b03:0x2a475729bd679cdb!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e7791e76ba2b03:0x2a475729bd679cdb!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Mikado-Sushi-and-Grill
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Kuroshio Sushi Bar and Grille-Kennesaw"
+permalink: /georgia/kennesaw/kuroshio-sushi-bar-and-grille-kennesaw.html
+stateAbbr: GA
+stateName: Georgia
+cityName: Kennesaw
+place_id: ChIJQaUZiRcV9YgRQGSZ88stkLk
+photos:
+  - name: >-
+      places/ChIJQaUZiRcV9YgRQGSZ88stkLk/photos/AeeoHcL30EkCtIPvt-ub22pi2JBsM3Yy55tBZh88pHeCsnZlwTBy_yaFy5AHlVOjIwixkUYhy0YwruDwLBZSXO5dvWsqYnyvbERoSJ5gN88beliEjZ9J-rX3Utqvcle4_WY9IpqmrsSnYT9FadJ3HULU1Tl9FixIXcudLo1dp3cO-7S9wJcqG_ajw_UGX1E8OTXzoAf9TMHA_hBXEuaik6n2i9eXZ3V1N-2k2ee4wK4yTOQixcjgOkfA37E3f0uW-HeZFvfrK9HLA2_AZRfjh5gi3nKd2mJhbAqR-GqQag-5W1I8NA
+    widthPx: 604
+    heightPx: 327
+    authorAttributions:
+      - displayName: Kuroshio Sushi Bar and Grille
+        uri: https://maps.google.com/maps/contrib/112283023057482638491
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXt_TywB7dr6VopFU7VlOK1FDLM-Nsa_ZPuXnJn9QjjCWC0X6o=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipObqrZbDKwnrYR49YvXInOG6tudDq21WN_h3dfW&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipObqrZbDKwnrYR49YvXInOG6tudDq21WN_h3dfW!2e10!4m2!3m1!1s0x88f515178919a541:0xb9902dcbf3996440
+  - name: >-
+      places/ChIJQaUZiRcV9YgRQGSZ88stkLk/photos/AeeoHcJ9UKaHR-hkvkcgjIc-codOvv6XolTEPVNxIfVqP1SEskMxSC3dIce52Fw6uuPwIjAgcZcPztbb88jsnTVXpVyLoeFWSi_-p-OLoATqgSG4PiuL5p-ftTlTkHzsXBkY2WmAS4y3tHOyUDTEwRxb7m8EP7-ZWSWD0qVRl8JqtV95BhCKBTJ-kRvMBw23OZOZJLRcluEWqKxnuM-Hn2v53roa3yxGnOX9XPmjaVTp3QB8mEoOnNWK-EItoaFrA4ofTu-Y3HPRciUEeh0ildEaFBG02D4jNvWQHGJVf2Z7IDxK1Q
+    widthPx: 1200
+    heightPx: 1005
+    authorAttributions:
+      - displayName: Kuroshio Sushi Bar and Grille
+        uri: https://maps.google.com/maps/contrib/112283023057482638491
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXt_TywB7dr6VopFU7VlOK1FDLM-Nsa_ZPuXnJn9QjjCWC0X6o=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNTCcTZRZ9dzNjIaoQ0Gs6fnEn3uIj0qtgFeW4P&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNTCcTZRZ9dzNjIaoQ0Gs6fnEn3uIj0qtgFeW4P!2e10!4m2!3m1!1s0x88f515178919a541:0xb9902dcbf3996440
+  - name: >-
+      places/ChIJQaUZiRcV9YgRQGSZ88stkLk/photos/AeeoHcKY5q0qpNASCEf-nEKVuX_r_y64hdb3K2Tdo81CkUapyawXqKpWtA4-qknM5g1AxgQ1oZMSDgWLbx9RybovZ8stYhsVd6_9fwzYcy0kV1LZ9sbrZeyxTNam3ylBBjZylDfkeil9O_S9RLdbhJRjE4QmNXjVb_hjX65GsOOFkFUZ9Kyn1uO56A-1qoiMwzWfcYwX7tcVxCQwfHZvbkDvdRC4wVapJbr6KUirllLCATxgJ-rjHI_ERet5ORGsbcM6BH_iZkkfsbEZN6xlj4AyoZLoSVB8Hpy6NIm_kH9dqn114eNxSQgWHuy8y4wP8PN2ftqwrJXHfSVNtikruLIH8xWCmNGGjwgzUEOvH4iSddnGRzvscojc1-8hW0bmtUi1JfhqlWMo6hROmKk-ryiasfvyU2K41Gwnf73pnG_cRN3Rs1Kj
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Nam Nguyen
+        uri: https://maps.google.com/maps/contrib/110768808749325363899
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVaCQJLjGIFPSMK-W7DiML7uGat_aFP3a6o4Ql3O2j-wQUymtnT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLquLU3QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLquLU3QE!2e10!4m2!3m1!1s0x88f515178919a541:0xb9902dcbf3996440
+  - name: >-
+      places/ChIJQaUZiRcV9YgRQGSZ88stkLk/photos/AeeoHcL_VZQmUnZc6AS2BNmgY3QVMWjcQr4349Q3ftogzQrPWngN-SC-RO6EgyvpgkKgLU8arGP11cTUcfQZsIN5CddcQGA2erRhJqTipc0OBbkKirE3VjRrw3fCwYOe5K9bd12Zx1SBYUcWIq0I5i1HuCblKDxXQ-FkX7EnD7u3PcQv81J92QorNq3YzA0zFbCB3IY91UPhUWWmH-LuiNg4qIgCd7eIbc0s8qxJfuPGs2QkI1rtZLLM_D_SeBtpr7ceJm1tuulrgK8hBaCYdzphL3Bww7bXk_y7WPoktpnItbT7p-9ESdm3L9HHkxoRt0mTP14hhw1gINc7UR5OoJ0ecEkGG0KE2BrTRpN8Kbc6i4iML7rRBX57aNw0PAC7md7YJVee-6aBg1qWTJdpxbwJd0owrsjAfwkLEvfPREWV8J_nag
+    widthPx: 3264
+    heightPx: 2448
+    authorAttributions:
+      - displayName: Suzanne Iris
+        uri: https://maps.google.com/maps/contrib/108023042195114256484
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVvd_yKsz6f9nicPaJ1_phZGDS8BUBUBJKjxX1G0uTcE1g_U7Dslg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEjt3yLw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEjt3yLw!2e10!4m2!3m1!1s0x88f515178919a541:0xb9902dcbf3996440
+  - name: >-
+      places/ChIJQaUZiRcV9YgRQGSZ88stkLk/photos/AeeoHcIRTIvxNEHK4yJPIhsMndw7kA3CWMvQuHWq4oGYyCOrdSQHswRcSHS4Qss6Bbr7cyhMbUFLswdMy08P7Z6Nr3OVUqGashOxP_IIcsM0DAuk6lCbo3sPZ0zDNrf6txxntHxgUBSeGuDTM9rRADibP1JGdg5dbEgsyBPhE26bK2XbDHnit031a3p1ZhFYtSSuFlEmh9i5CUcw9ctl6XFFwk2ZG8y4i5Ao1_8VwqCS-Tn8a6GMitCEevb7j5EjTgefr-4wb-6A0PlkghxfOisvmWhS9VBLNC5DliqFL3v-yyS74fN_NeNGZA6DSD-WdnNPWmsDROE0v9TVmbOtfxJpBboswP90eya2Sgb2GO1xvt1iZW0ifgxSTQ10wit5u3M8rIbXJexixFkyNCM_i2zj3PP41yMIl9uUFSB-jVsGAGdhgw
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: C. Paul “ECLPS” Mayfield
+        uri: https://maps.google.com/maps/contrib/110705401888913704669
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV_c_B4jDPqP-du-fILuPh0K5oOR34aI2RLSY6O3LQTfWiftaGd=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh-bWVLQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh-bWVLQ!2e10!4m2!3m1!1s0x88f515178919a541:0xb9902dcbf3996440
+  - name: >-
+      places/ChIJQaUZiRcV9YgRQGSZ88stkLk/photos/AeeoHcI_dvIaIn9F6X7KKDa2fVQNHr8u6lp9HD8PRqHOEO3nccv4ZX2cGOFc6Vk0uC6F_CWzfqmSBKyf4UHUx_kFROZZ1-Imt5p77rgScPNTWLZsYn9NMU7QTffA9vaGOAcIy__S00YEKL__FiTXvWvAniMPXyBfz7hgmxwg0HP5JX8BzvRCRYnnwD8Gft0fMEcN29HDp_wJJ4jid4dnngc7FoKOatpJC5CxYiBri6QTDPvhzxASIChoffz0n2fep3Eqbbig2n68i17aGBPD7WsmXVXf3nPBybE_nn0MX4bYNwcEAw9NoD3fMFkxjhfwPaRAC_FoYrWEWt6b-NdYqgaMoWDVr7v8dJrT1pXbY43jMambw7uhRFfEe5wsJkqpJILr-hMvshjohgtMM-Tqiq76JOAxMf2w6oCXWGgSJBZHnYPfCVTR
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Will Perdue
+        uri: https://maps.google.com/maps/contrib/109441182586712217295
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-eDrRvYuMJdEh1p9TUx8jEYc7xtRFiJLEpXloxCPP0geTOLmiuQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICv1I3jogE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv1I3jogE!2e10!4m2!3m1!1s0x88f515178919a541:0xb9902dcbf3996440
+  - name: >-
+      places/ChIJQaUZiRcV9YgRQGSZ88stkLk/photos/AeeoHcIKjrBjjEKU02qH2NlC2111t3MmGxR9XXq-alXa9i1SgYMioii9l5X3ACnuKyGjPwMMJd2zd-_vyzbz5u-SWI3k6anCZYOO6ZT2HCP1tqqLEir-s32fddtlJ2hF9-0IDxLB490cewfe_KQIBKe8dKtZQ3S0k3HIEXF2WvJOhLWFo5xWjU_FqiZF_KFO3gfVUj8NXjACbeZqEmUP_P66lertZeEBQgxTeYFmnU4MNSRuZM7OqXdAS0nzLCZFDq2PSerdwn3B-GCEs18HnlyDA0c011bvvdkTvcpvkR24kcPDoCeEDlCiWQKGwL6wNV5xMPy8UQG0aATFT7L1Yb6PZScdSU-IrjvepOLbaOzTPun__Kku-VB9NMFvhca-nGYS_UmuS2-GgHEPXpHyHaLmlMTRVEyiDTYvcWmrnJXldvBVnNSs
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: T B
+        uri: https://maps.google.com/maps/contrib/110801904996293184146
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLwoJh1JdXcMsD5o4fo_IEbuZblulF6OAB-JNnRfc_4mGLzREyD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICu9eKl4QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu9eKl4QE!2e10!4m2!3m1!1s0x88f515178919a541:0xb9902dcbf3996440
+  - name: >-
+      places/ChIJQaUZiRcV9YgRQGSZ88stkLk/photos/AeeoHcJn62g7iBwvuJTBDZcYtT8Zfw69kWro0iOI8JQ_5mOqI0xx-Jnsll4hhgebRPS2kDkyKqee-i9c0z7ngYbojB073S2UErvvfxkEO-CXxOB4g-xSylYsmLBpSFfAHEvKrEvx7X_8_EUcRiS14AGCNmgtv3amXQfiu2lXuACPQKUNblPgV1LnE8-8n4hthJ2VC3J3-op5wHqKpIOsJOqqdBUajenfNHJHzOgXms5R05VSvXBSHxvQcA4lwDGoeuxh4PWSJLmGYc3VKzQZDjh3vZJIkvwAYOTf3D6Rf4J9ERgYawBTZ181ebnQpGWl1jyfuVKpyw2hLgr5JbM4MkqukbWExgGPXO-1HpwIe40--uNJ_VQkpLJtweRDLvkrAn5bkK5dD_nOBv_VvaB-1tfOeQfp_8q8tHa4nA5EDxLBwKmJ2pM
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Charlene K
+        uri: https://maps.google.com/maps/contrib/111380880606427947778
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWwfYEysK-pTXsRVj-r3pS9xPXMm-WhlsgmJviLzLK6GIDTjRZQ-A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDele_BwAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDele_BwAE!2e10!4m2!3m1!1s0x88f515178919a541:0xb9902dcbf3996440
+  - name: >-
+      places/ChIJQaUZiRcV9YgRQGSZ88stkLk/photos/AeeoHcLK_MYSuXby3gdb5mAxCvJkmq0x1DH0TVmx9RANiGjrL-Y5dpisG7Ji2RCwo0ZlqaeRBbXfaKXhKGk361S3sl4PfNVaM81vwZyzcE3qprOzV7mh6JQJktppa_jCA15VOWMn_kggEMLigDZquS2r_d_uRzT5f2EWv-exNEFF4Tkc3jVO7Ddrj31t-JNQLtPZ-vvea8g1eAuJzx_AHFmOz1Id-BPo1Y-4dUX5HIzygRdECBoIa1DYApzUXPyfSyVLwKC4B4R49DdckJf6GJumxm9AywbfBJXR99p3n6hK3b1m4YK1tsxi4fcsVjcBGPzu7ExywVGfoKEqgpdCJ7GaUARWOxJp-fn4UDDq5N80OXrco1idM75tB5IDISAsjcFQVZQ-aAW_1Xl_Q6UpqRDtxA7BIQ9TmEMEBwrLkDBGIfGuU_Q
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Loreal Clark
+        uri: https://maps.google.com/maps/contrib/109297106035366835537
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW9uQPQXStqZ_9lycF1dFO6bnwW09ka4au0hixl6eAbevROVUW6=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDP1sSdkgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP1sSdkgE!2e10!4m2!3m1!1s0x88f515178919a541:0xb9902dcbf3996440
+  - name: >-
+      places/ChIJQaUZiRcV9YgRQGSZ88stkLk/photos/AeeoHcKb2IEWviGbqZcTltzHkzk3U4Ccusa1xMBAmjCtiU_gG9ordawx764_M3ecI9qK1x3iH4Rv-NdvHNnmocVy9_MVUZ9qT9k0y9XPfGtLJuSRSapxlvZeVBOp5b_jcHhk1_xXvtn3QbA9X5TXnT0rx3YIWEgCOdwZBb4bPX27_rqrf7MN7Rg82YbnOsJ15Gsm0ZlH04fdHLtO2fDP7memv2s0rBND8IgvPnbEoCrH8CvTmIzZfeQMHGYTL1QvExR4lEvTJ5Z-KLrtTDewMlwUhtZqnWaorj910_dHUcPU0X6uLx2VfHWxHSpjWdkOt-oKIUyeDGvPm0DbvK4TFNDMQBxbba_15zuNn5rpUULpnXnBxx5PG0wxu4I5YdnPIAGvnETqJLGFrwhRBL7_twcZ5pNUdVP-XSHDf9zQfude_Q7bYg
+    widthPx: 4624
+    heightPx: 2600
+    authorAttributions:
+      - displayName: Robin C. Adams
+        uri: https://maps.google.com/maps/contrib/101679978463892413249
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW6v-m9k-BBWcoMYLhCAUSkIw6gCYrvSYxAJYtWywtQY-Jny7w14Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID68aDBOQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID68aDBOQ!2e10!4m2!3m1!1s0x88f515178919a541:0xb9902dcbf3996440
+address: 840 Ernest W Barrett Pkwy NW Suite 500, Kennesaw, GA 30144, USA
+street: 840 Ernest W Barrett Pkwy NW Suite 500
+city: Kennesaw
+state: GA
+zip: '30144'
+country: USA
+neighborhood: Town Center
+latitude: '34.009446'
+longitude: '-84.576303'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Kuroshio Sushi Bar and Grille-Kennesaw
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88f515178919a541:0xb9902dcbf3996440!3e0
+  placeUri: https://maps.google.com/?cid=13371237647651529792
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f515178919a541:0xb9902dcbf3996440!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88f515178919a541:0xb9902dcbf3996440!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f515178919a541:0xb9902dcbf3996440!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Kuroshio-Sushi-Bar-and-Grille-Kennesaw
+
+---

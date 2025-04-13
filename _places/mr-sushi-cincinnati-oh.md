@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Mr. Sushi"
+permalink: /ohio/cincinnati/mr-sushi.html
+stateAbbr: OH
+stateName: Ohio
+cityName: Cincinnati
+place_id: ChIJQVfCC1qxQYgRIP6Ls-m4ghU
+photos:
+  - name: >-
+      places/ChIJQVfCC1qxQYgRIP6Ls-m4ghU/photos/AeeoHcInEkj496M1m9GxQuturgKr6aRXWpbkpc6WVw87stsQag0jLfBn5L9FmW2lU-JcWCzePhhNuGUkpZrdKkPrhfvHMp8ZNq3Sb_rgdQRBfcx4D2fnBxuSxEB5NEP-lRwFCKAPAlpBtrbvKCK7iixumKi6gkA7u6rMyvI-mkk1KlcJsb_wNGbh6Cf9zNm2vWnjvmHaW2lQCh1AG6bgx2MJgHU-w9aEAAGp7s07dcmh1hD72gzTG4yWRZHx5O-Yl7qdcB8lglP1yrgqwdIilnUYLTrIuejfLfWqtiUQX2G7jXpW29tlMJ0aSFO97UmV9gx92jQcQ3rxU9Ao9iGg-dG8z346b7oTfLqcdxnWk9JWAe8fJNKqXM8sWLg6QVJsljhqYf6rykXerEq57m-qfu-BB41Y9Z4Ju5SOF9QnEqsXNFJb6gAp
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ricky Cotton
+        uri: https://maps.google.com/maps/contrib/113548795268354666591
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU_BsSGpQBXDKAWUN-T5Ve_9IlAzaEyaPwEnfcOmByEKxjMzbOuAA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4i-XdsQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4i-XdsQE!2e10!4m2!3m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20
+  - name: >-
+      places/ChIJQVfCC1qxQYgRIP6Ls-m4ghU/photos/AeeoHcK2_WhLcXJ2XfhDXRlGOghslCtOWJPWCw-IlgVtCfUWlZgir4dsbtFaDfEPzNJT_2v1AH9xPIZVixIZnWgO2uWh4aUNRLFmJ8pCNpFTXFS0NZ8gNeyEQwFWJ3nUQFOcTmn5AqnFPXxVIq5y8O5coY4we3nBTh2SS6baINmO0lcAZekgaWEgy4jRW-UaQdJezPzwoOsxtiFp-5oSWclul8D7wEsCJ0KH9fxOoKGn5w0-4LeWZ7WHaRIMtxSAZiOgKefNr6g4sqi25uOI57H9stvQ6f1TniDDQOEkegtL_l9ptA
+    widthPx: 1200
+    heightPx: 794
+    authorAttributions:
+      - displayName: Mr. Sushi
+        uri: https://maps.google.com/maps/contrib/109096108486491853557
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUe3ZEDKtKbvEh3jI8o9hwy4oet7opCrm3v_8B7nR93y7QUiHQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNOubMfumAg0Kmj5y7yjFiVvmhed8m5_CC8EXLh&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNOubMfumAg0Kmj5y7yjFiVvmhed8m5_CC8EXLh!2e10!4m2!3m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20
+  - name: >-
+      places/ChIJQVfCC1qxQYgRIP6Ls-m4ghU/photos/AeeoHcIQnwGuvVcy3RnQPwVhffsel4qTmaBe6A-DuEywmFwX3dfdSKgtRJ75FJkwW2mcMnjWp1Q_kfPmlQfmecR2PrexHQ8X7lA4DtjzzchPe9sc8K6D3hVbvI4qOrAkI5WVQmeuOsbvRNWLeqNQ-GaJqtjfHEpyZJHbeUuubftuztYZ8-hI_JD5Nx9W0c_8PpIyikJSQDW_y402pc7-Qjbhs3c2bWSYVABoTbcKbYaAk9MZF1Wp3hYamIFk9fHmWRq0ewfldWj04xXF2-7cH9Cp4XfXwGHKf4tzO3oS6MP1Wdz3O-xOWkKLmIwL_IvR79lJgL_iUGUoe1KoRha_tVwfPUI6aRp6M3bLSksHe2oRs9a8TsTGJcPbhAba7lJdMWCsZT9ub4PfltBx_RY4Lrs6rg5NuoLiQeIucYZkcDFUGI8
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Joel P
+        uri: https://maps.google.com/maps/contrib/110447060888806751903
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ6PwUNLPyrNSchibT997iOqx5Q_wL7UrsLEvQ2CqwLRnGCOg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvq4XrKw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvq4XrKw!2e10!4m2!3m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20
+  - name: >-
+      places/ChIJQVfCC1qxQYgRIP6Ls-m4ghU/photos/AeeoHcKU218XjckHeD76-nBlVZvO_VvDYN9xcGo8yF594uKQ2n4Oyct9i7nNUVNtyRxceF_rSzldZNzZVQiX1aSexYW417gfvZCUg0TE-oqMXtUOw3ni99-XGpWtsaLSXVX_vyPqFUzHEufaSXPSv-2oF6PG8P1bVKO6cZda4a52xgN_p6BLjAgiwNReQgBFfCazzfL0l8HYTZUNYTE1s7wv7fOI8DNG9-eLq9nHxAsCaJO2l5lHH3IVWkof-Ycz7PTbTsI53gqKNKx3ggS-RuDbDYo50KxHTnZw0POOhIpjR8olwrINwcj1Z3RcDQASJmw435fxVff1rRozORL7SrNSVmfuU9QRwdr2EqonvPFnPDalIYrJFmIIv7QOWUGhw1CdiFgfPPbqBhbkMQH77Z2vQ2ngPthS5zlEycdK0USB4I4UjwM
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: SCRABBIE
+        uri: https://maps.google.com/maps/contrib/107039094030229863663
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVtct4UKX8444D4CfM-QR_xRxdYY1Bs7_u5NYYamEX9lhRojP54yA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx-YeGqAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx-YeGqAE!2e10!4m2!3m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20
+  - name: >-
+      places/ChIJQVfCC1qxQYgRIP6Ls-m4ghU/photos/AeeoHcIwkzfu00WjzqdPB76tloPIoaEwQ-frCc1rnKa9gZGiTT2VsPdXRaJN-i40m2wDZXENFNM5ZyO7CsMshKaANOaCO-XPlPXKwTe8TB9RHo3tX0duGMfsuXdUrGTGA5x9mBw5r_Pocqi1WgzUm8ec7vWLk_xYHDfIjp1ge893k1lWXl5GsKr33QAYP975AkBluI0-4fSxRcvQRB2IEqtjezaMq0_ImpPqfXfBvY5wcchMKE0gdhWsIE5cwVq33AporSZDA3jk-SGp7stFQHr1xN72w-JXsfLnyMfiFBa-VkJEiFBDwgVVG_GkHSMteV5aDmpp_lOaAhtWThOy5uYPYZxnfT0nZjM6MGwiaY35uQW6Dii3J6gaci7NfrK9YAo7yvL097hx_ndFCQ2oUD0brY2M5LvzC-n2l3Il56Lr6Vg1Z-M
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jamie Trent-Walker
+        uri: https://maps.google.com/maps/contrib/102623902967210187459
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUx1BihSGxi2vyEPWGy0abSvmeIje27X6-GUr7xbQpWQm5HShq5KA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT7vbE8gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT7vbE8gE!2e10!4m2!3m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20
+  - name: >-
+      places/ChIJQVfCC1qxQYgRIP6Ls-m4ghU/photos/AeeoHcJWlS25gMzRev_oS2t95yXPmrOUEiAUDFXC0gu8KaRN5CR3isUp05rxmv5sGYR3RfK0S9w3B7t4OdxHb3TFCgdSWcVTiUSwSk9CLcbx_knWfTGUnN21l1ObcuKhxm8wD5yoVWkb03uzkn_GeQ4Fr5l8KXER4Hf1T5hQvcJpzkiYuuHVJzhBO_EeoxAi6rEH9Qh96C82rSUfIKTblR9eudjTFzCmZK_mzU1Ap2QFpCiWzJg9BpZg0LpaNJcbVMj3izdB-pCTYBY8SjCIfPeI8yDnhwf-GDTTzJU7_EXCnjfLXU-xm61lo6D3Wpjcn3XzvHtM9iTOP0TfHM3XKeuXPJY2CaobRDdKvueJRJNNjxBTN8qVWacRTmF9sPgAS5N4N9e3-_czpm0aQvAws9Ezpwm4PeuIFvdK_5HnD1a18uC17d_2
+    widthPx: 296
+    heightPx: 320
+    authorAttributions:
+      - displayName: Carolette Norwood
+        uri: https://maps.google.com/maps/contrib/104391639700329972937
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWEWqAD7-v18b5usJDrUv3-CJ5QeJOrz1jnQKY5cIgXOrQlZSA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4_5uoggE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4_5uoggE!2e10!4m2!3m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20
+  - name: >-
+      places/ChIJQVfCC1qxQYgRIP6Ls-m4ghU/photos/AeeoHcJRsExQ-3GoLDCpy5JzupHOzzVKa6LySxde21_Tb9qDWHol9rYmwlWCMjg61xQ4i88QBMmrlQ3JP65q6b2qY1xv60EgL8XwI9qJH_Wwv7sYNcX6Yy8G9LpDgnFJyCYvMHtg3FVg6la0EvBZrrGseKCr1OgasMy_IfR4W30xoAdPh8zdLegBSdhMQMHC7WXu_bdVLSUvnCrygkrP-lDJJHAgAxSN9fMfCXDQfWY8QZdkqGaAEuFcKLVVhenEpcaRD-wzdr-qUh9GJfeTjEkNR_DIHbYUyZuOs9jwYSAUDhV88i7DNu6YAkIPsn8IwQAU1As7X5nfvYOKQqHasHqQiVBm08XHyzexYyegtffw01uLFdAJm1UwticYdw918X_8RttS9xpfT4pRqA0na8_WdgLiq7kvua8p7ZQ9FNcTPhD4ao8
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Janardhan Katta
+        uri: https://maps.google.com/maps/contrib/108924774488174107753
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKicNR6dop5JUuhf4J7Dwbv0F8C6K5CCGwqZSVKxWhG6VyifA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICX18u1jgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICX18u1jgE!2e10!4m2!3m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20
+  - name: >-
+      places/ChIJQVfCC1qxQYgRIP6Ls-m4ghU/photos/AeeoHcJPXSJVfVM8UdAVNfnOmauxxwyvZFv2UN_gUaA_C0TqoROZNbNvd-HpcwzJjaZVHYqNphSSY1lEEDHhTyOPB5-raAtsTgQj5FhievteuXUD6bnvmeu62zS7HeNbjKMY0jytJWAlQVHv17xYLKufuWJ7yWRj3OVPyAAcCoyj0bIUFPddxUG765ma0O1n7angQ8EOR1ZxGLfu9jhfhulyKglB24k50JHBlZCfOnv_wlh1fZM0rlJfCmd9u7-75EMQAlIwOPwBoQ1A0_3HLePO9xGiDGNB3b5SYBMtSs3K2DoG74XQhDtyCNDDkL-zM4fSJHIWviJ9Tl3YXLOz3gbM4qnjQCjMs943r4E-V8a9274LHRpzLmN_k0o1gFEZHsJQyuPO6nP1HwSitlOclkUPtYBjLq8uDqodMZ71XdnaCpd3eu0
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: W G
+        uri: https://maps.google.com/maps/contrib/102956185202481431785
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXHyt3yzL7SFgT2kkJg2EXmh6sLZTweXCygDUWJJ-CaU5T1I8Y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-v9Xv0QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-v9Xv0QE!2e10!4m2!3m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20
+  - name: >-
+      places/ChIJQVfCC1qxQYgRIP6Ls-m4ghU/photos/AeeoHcJjtoyrkhS4fCBPTt1WLGD0qDlDV4hgbN75QiGSZSnAS6f5EcK-Ci68FIbujkWwMDrg16us-ZlwGeWavji_q-HeGAUToTVdfzrtbpRQY2R-CI53QtXx9uT6EanOOHOx52YNhqokzSYQyPy63AyJ9ItivZrDqiaW_wkzrbyiFXq0WC5ZIM2XuNPqP_9Au5Yyvyja9_lunLllnYWy6ezYq1m-Y2XGBXNHGxio-PQkD_rwEigOiYrc8Fu-3sZ5S4SMcRXEiZNvvDk_5kRSONtP6ENlXBj2WRw9RIKjyabjrrAhg_V31SzOfqAMHGyhZDY5KwSBdYLpnfaVIRKTneS9arj5P_2UcAtU4OdfdQCinUXqBAzj7tJGQ-4M3Z-LL0FuYtMNbipmLlyOTuuSRFmyarIYzbNN5i3ycFhwxSdRYxU
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Chaitrali Degvekar
+        uri: https://maps.google.com/maps/contrib/100221082968357871410
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKM1rMTw4T8rZUs6Cfc5wKUZL36TQAqQ1sQnKTks1s7TDAPerM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfjpWnJg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfjpWnJg!2e10!4m2!3m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20
+  - name: >-
+      places/ChIJQVfCC1qxQYgRIP6Ls-m4ghU/photos/AeeoHcJpgtlHZA2ol00KjaCu-cg8VAaZeDvQx21NPVYtmEionlLckzIAKY_sHd-39SiHSq59GKkOl3EXbPYAbMFvF8lFt_J7-OW9euNnFponLgPzOUZtaSICE4SZCxJ4ihI6xqq3eGdnBqaDAHtO_GsgMbagL2mOgbOceFWK_OKJbm3T8l5R2YT9F_y-020C024SgzXYnxh5S6lrZqBTxyKc3IJotPM0u1MfBc2JPo8QFHlmVYK3lGGNvvLR2dCIu9TzW2BblRdfOpSnxSnZ6MPUVL9M0vvP46ksjqCYTwWVWMKGaQPaSueIaurQJl3yiu4O0fhit9Gc-CtVZFwtMdOsP0QFJbpT8TVADoS8XJnNy32IV2iDJDeD98VNpJvX9zgeyCUDGXhxDgPacBu3iGQkF57poJp3xejbIDzE4Gtl94A7qTUe
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: 'Y'
+        uri: https://maps.google.com/maps/contrib/101664650675176836944
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUkOdmj2_GdvUTHGNAVLWhOTU7BWoHw3y6KGl5li1vegGB_bFA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICz_evK6wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICz_evK6wE!2e10!4m2!3m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20
+address: 580 Walnut St UNIT 500, Cincinnati, OH 45202, USA
+street: 580 Walnut St UNIT 500
+city: Cincinnati
+state: OH
+zip: '45202'
+country: USA
+neighborhood: Central Business District
+latitude: '39.102647'
+longitude: '-84.510929'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Mr. Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20!3e0
+  placeUri: https://maps.google.com/?cid=1550004535648058912
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841b15a0bc25741:0x1582b8e9b38bfe20!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Mrdot-Sushi
+
+---

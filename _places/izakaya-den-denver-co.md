@@ -1,0 +1,210 @@
+---
+layout: place
+title: "Izakaya Den"
+permalink: /colorado/denver/izakaya-den.html
+stateAbbr: CO
+stateName: Colorado
+cityName: Denver
+place_id: ChIJv509BFJ-bIcR6gQNwBoYoao
+photos:
+  - name: >-
+      places/ChIJv509BFJ-bIcR6gQNwBoYoao/photos/AUy1YQ2Cnm-9vzWHcqfIeqT8_-HwGTSKALzn74Ey0ai8Lnio9cC5ciPnQFJPJO3HDJTfg3k0DGaS8fVcuwaIc_RUlw3i7Gm0mokUjfaNwRYSd_yUWtP-81oDYGkF7qnEIVyniTvwPcciEaOieLusi_juDrmGPZwRuO135HRs6Vc3lAkFOYISeA0cP6A_0B8bBGOlsK6NpbGHWkoABZn6AuLB4gP88TuD__8qUASRHe9X_1EgWcFaXCrcVRFoB0onusXAIoDSFDfUkoKnYilQ9IODkK-2qPjorruCcFp7gmnDk4lQGXWcZI69SN_QIYhd-rFoHoQhfmf8kfThmOhsZ29KPjtoikwz188cf5nqWq7_peYssYzpMOvZEK3UGYxkNmdwibpcpBytmLZuKqiTOsQhivkwoxgC4dRHmLMOKmkLnCp81q-c
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Howard Karjala
+        uri: https://maps.google.com/maps/contrib/110123061315653059121
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUemJ0Esv3Q_1mmf1ihrLukPFA1KWg3ca0uqTJ3Sf9ueGB18ibTHg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICnvIL6nQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnvIL6nQE!2e10!4m2!3m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea
+  - name: >-
+      places/ChIJv509BFJ-bIcR6gQNwBoYoao/photos/AUy1YQ0Q3DUcRgILAh7hLWyAC5aLYVTIu9kM6bpQFR_OiVsxe4eqG2VN27jE6kliVwFQcAcF0xbqzdemx4osEOFWRPxH_PW1pAVLUH_p-YV9QGXIUzq5aLgLbmKJoILXe6pzosqUbvLGVCKuF2aUkT9bos_z4mOCCNgjvbAjO6BQYRo6aR7avsMc9uI6BqOm4ew-M-4Hz0y7rIwtA3Sdw3PJvk7DFu1Tf45GduqBT-xqzy-XqoBCqlBTbBqOFR3RoxSDEnw5l4WDdNg0M4FEd380AbtVeOfTesbWRRZfXzLCh77BUQ
+    widthPx: 1400
+    heightPx: 788
+    authorAttributions:
+      - displayName: Izakaya Den
+        uri: https://maps.google.com/maps/contrib/115841796093419993460
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKB91Lzb9XYQYA0revpmcwx6IRqr08J1gjz1KyFvxkME9HHvw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNtVDXXDoVaYuRSBZFa4P1L5XHTBpjyNwHRBU7d&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNtVDXXDoVaYuRSBZFa4P1L5XHTBpjyNwHRBU7d!2e10!4m2!3m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea
+  - name: >-
+      places/ChIJv509BFJ-bIcR6gQNwBoYoao/photos/AUy1YQ25c1fRBTz4T0qabbxUKC4ySpgv1OTm0dvubQP3o8UNT1oll2fCYavbHSwnK_zIRvQkb7szoSVHfJO7N6QmQziPN8nDCa3AbMjYtaC2vgnbY3HYlogH1EEfO0zjjsDjHeB6Tnng-Y4NL8hN37cn3Id17vxvANdDTEVFAfB5e1j0jMVFI2XMITmpcfD_ZN_htM2vY5AV3OU_DFvwI69LPiEBp34eITkXP_OOragv_EySelNrm8gVgb_71Hh1C5XD-Fmwy4Aq8Cd_7fh1lI3b4KGx6xna6G0ciVlBo4KfTj17be24yRJiV6wWkFVPX8VPPyxOW3lJkznwbqvnOMywBgj0eZo35-PRGS5VqU8dWWnRh5MC1oNDtRoORwZFmGRxJSUS_VJqpValIAZBupletUL2-iJwm_sX3KgSpxjj1hYTHw
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Cam Olsen
+        uri: https://maps.google.com/maps/contrib/109199211150397992676
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXoulQ-Di0EJDMJYUfX-ESQlwjAMzk-V95RX_mxAMp5HBNUkJIm=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ0d7Icg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ0d7Icg!2e10!4m2!3m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea
+  - name: >-
+      places/ChIJv509BFJ-bIcR6gQNwBoYoao/photos/AUy1YQ0EYaAbb9NYtWmQNp60SmEzNHCyhOFJnaBNgcIlKoTgvIjZAd15JV1SYTA37VqpYDx9djOLkln0IopylAsmMACj7BFp5tMorMDupUfEZ5S7l8sXUK_2dXig0Dd-ZM-CY_6qqcu9wBrevaEPI6llzZaMFoDrx1IMUpKy01PfPazX2q81QEHrjKso6dYymnBJEjUDIxKisW_nxRbt9e2f7juH471ud-TQhzK-kHBSKKSUjZu5IEVdifL4Vr4vmW5BsRBGRnI-Tes0HWZ0A4sh1mH0wBHEpeKUquRfGtGqJlrmnSQtOrYI571pPbVPC6KPLdgDh3B09pgc0g9xwx8Tx2cLfH2KB3uNRBdebWqhViAevXeM5v0yH41QFNHLFp06Ry9MfwXBIE1UQzIEVCbwa-am32O8D57dVOJzVLPcpvt-lhvX
+    widthPx: 3857
+    heightPx: 2753
+    authorAttributions:
+      - displayName: Gyulnara Lokteva
+        uri: https://maps.google.com/maps/contrib/112051280428710868182
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLVAnhuwb6BtnzqO07YLfuOTYQuyFFTpVTcW4aqGjfqaGvWPQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb_snHqgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb_snHqgE!2e10!4m2!3m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea
+  - name: >-
+      places/ChIJv509BFJ-bIcR6gQNwBoYoao/photos/AUy1YQ2SrrHbNbD8B91iE-ONhPTat1f7meZGVcvOqpYiiFPiXINEu9rD22gWYNBd9pxbhjtMdYGCZxezl_Qhmv8EqPhfXO4OmL6xuHekQUTwyVV-kvuRg1xr2g-dSIXqX7UaeOjBdlFg5n8DzIdNeO2R4fEruJceCPEQAeMrHcZ0HGRu3CGEhJmxHIwc2LBZfIxEQcFox922Hwy59cfnndWmQmfZxV2cvwrkXEXUiAY00zFUuiz7ixIpK_wLFO3UfrnWEfnGkD0IknFHrybgGBD6zneaDikxhNa8Gum2HE1lIcTzWijXgOWOhTKPNQCKH_uleYZ3YecObNQ1cAURXGyS0Y8Oljz83-N1eDlQViqxksm4nEp0SFNwT-5yreXAnh2lGoZtqVgGRog7d-L1NvlviSRcGDacBk8w9LrH7vdi3EXFNkL_
+    widthPx: 3754
+    heightPx: 2815
+    authorAttributions:
+      - displayName: Sophia Garrett
+        uri: https://maps.google.com/maps/contrib/100648890124334458443
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXrMAG3d_iKWIdLKByJ3-oVXz2OYbXSmkX4idKehATELtRkyPYd=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3hI32ygE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3hI32ygE!2e10!4m2!3m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea
+  - name: >-
+      places/ChIJv509BFJ-bIcR6gQNwBoYoao/photos/AUy1YQ1SyUuJgATX9Pu9SWwJicB1KfPYKvEfE2Bn2q5jd7r2uExxNj_4HRQyJBapHfXAM7tBzjr7cOUv7esQRHEA2vAXNc58Hf0mAjp27H7gBQP7ui-Igx_5_R5FoJwpb2a-ShbNZaDX9IB4X0oaSV0tjCdVHrNxC0hXONyCN019qNDNbihmB2a6nP7eY858k-moCXSmLzj09SztdVASUiSwAICYRFm-1EiAwwCqeLBCle1_XI1FKU4Ggx9CJA5xjVF4g0oMZRGj8WfsQE_ldfVRf8KvHdce0YmLm6l00hY2aiyISpuACT3zlzEHb_SqKQElKTEGlgVJCkmcEF40ixeFDRbDjm-k-gKSbgNt6MzgObdB-lYXmBm6eDIinrKw06E600B5efjqsV6pqd25Sg5g_c43UrTuy-tTrOdPxq7ZFiJlx_U
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Omid Fotuhi
+        uri: https://maps.google.com/maps/contrib/115786951656730524328
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUJotl4OJceyeyTrpL-GVRMJUdG7XAMlajV-be57VpKSRGmRVHH=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD3u3M-wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD3u3M-wE!2e10!4m2!3m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea
+  - name: >-
+      places/ChIJv509BFJ-bIcR6gQNwBoYoao/photos/AUy1YQ0N1JDUeuXcQ4FtTOC_DN-SaW5Pl-CoCyRQiMyl6cvq2x-iOWLp3o8SDwxqooaPPsb63y3Sk7lHg2LYj9MNfawsyBja3EYGVZ-Xr1TQqx7WNcl23tynyi7aZ4G5pNGFpQhy0iderI0PbAv97V_tC6qVceRRxkjY4dtunUsExHmyI18Qj9sezHwsNw08gwcLOGntwM925C4wuHWg69bgGHoTp1eRJXBqc83h3P0Rmj_0hFsuDM-pHadTIrfFSR4r4KNLM5LXz_BC3XaXpzIHJJwSR9M9W6Mu6-qkZfVc4Rv9A8Rql2LwNa87ru4O40KJzp1cPcMKqBcrP5dQrNr-j8pb477MC6RAmze742oK8u1Ewb8kXVd9FeHr4XLNpuWggalqOGZpseCjLWp4lHKnMmDZkxR6csG3UsK849hTPVfmxg
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Victoria Schroeder
+        uri: https://maps.google.com/maps/contrib/116296589097421256833
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYmbKXqwRMxsjMimQIL3Ze5jA8OAeDYHjfBf-OKe78VWtCjYgmLQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID72ZOvdA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID72ZOvdA!2e10!4m2!3m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea
+  - name: >-
+      places/ChIJv509BFJ-bIcR6gQNwBoYoao/photos/AUy1YQ2-8YEwVWh0CmYG9n2hQSdAOQezw4YKfNdY-g2JlcR8iIhAHtLJ8MhzzkRIYvhE3NKSm8W8caMBjfS2-s2Xh2mABffvdMe7rmWJd-8tVQ9DICo2C3jrWK6ZoGZEsNGvCSnNtH0XfxqCd8CQC1SKmMIILyNpOA2pAXCLwC4xCRDR5ce7yROn6tRC4L753-e5C5t-EMGEC8t23VfSuG8PedexL3GtWOXflKObJ4iaBsjVHPq3CP_1OILIemjWNgr7EDptzmMU1NPDn95en4YsYjvY4SKr6SoxfUkZkiL-BqBMTbiTCsOI93fq0sT0QqFC5UgayB5KROq7VY1uNypTAZ-tZ3sXX4Kg-7wVyi_1pFyZMwAdHrkEkwerc36yqOA-2_o6xyvW80L014pYRo_qwN7T7a1Zrrj-8lEE9NC1BpnZdg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Ania
+        uri: https://maps.google.com/maps/contrib/113244614867271057589
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX2QeKduncMuc_iSYB1mGibF3x3adi9JM8ZIoY273zuTmRxIQaNvQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrjqyACQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrjqyACQ!2e10!4m2!3m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea
+  - name: >-
+      places/ChIJv509BFJ-bIcR6gQNwBoYoao/photos/AUy1YQ2iDZSrPP2gB3MIluONjL5P8VpnEr5nOzKgnh4jtOgmOI6bKS9i7lsI67_HC7r5s_NBj3F-S6YtWLT7SnzIcwazujROJ3QGcc3l32G1uMBtDqt78yaE71vTHFAQjUdLGGCq5JJfQCkccrprw--H5IUPbLKvuFX7OvLZBANXrTUILsUcGDmtS-JapniGRxQqB965hBwgTYNmh2uqqxxdAL3sTZlHNzoPCegv0DPWzhK4JMPTHF5zxVWWAdG0Xk0c28yF-H4mIKVfberOqKcJW5og8zG-0j44rb5AfnAGFoFJh1wxwRB1RUsAPPDKIU9QZVCLYK4inSHd8Hy8JzjnB0aTRJIkab9ZBox-1247izbkSmkm9AN3tUTD2c_j_T9HLBd1-46JRRxWI8q1n9BMwx71LC09VEXWe-6IC3M9Vp4
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Jules K
+        uri: https://maps.google.com/maps/contrib/103869566374529980117
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUbgtG0NEO7ayhd5LSk5w_HrXhtIAcyxvKvhqLxmkQMLO8GaBzloA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvhceuFg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvhceuFg!2e10!4m2!3m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea
+  - name: >-
+      places/ChIJv509BFJ-bIcR6gQNwBoYoao/photos/AUy1YQ1CHZJPrnzCfILUqnMfdjqc-z-hR9X6SpGuJUtzFr9AgZOxY0MVsPKFgFiW8OoQ3nFDDTyfz_7N8zwDqmXJ7e95ABilrJdopb4g3BFB4v9RW9aJyGgbJB_7wB4K_lgtFxdnNXcxlaBVwRiTAX96uIjU8tBFi3gEL-A_1ci2_lzasA3UZ7qSjNFzeEeqfWo128o0VQGOTIBD34iyvKH4W_qhc1FgfqDShvcZTo3kjxCEmkb7NYmzvRr5ZJT81gDlnHWZaOZrIhyid9eyzWd0OxhXxQhWQFa8V6G0zQbtU7L_X0Us6zfwP1VftzKyPZLOcs012yY72144OwQytba8mejvZFYW0kY6mF1VUSkQbWuCZlYSBiG7X27momZehqAm_tparOGj15JsKyI7VUFgypaHs0w8kZXDcclirvwb_7PfoTUD
+    widthPx: 4624
+    heightPx: 3468
+    authorAttributions:
+      - displayName: Grace R-L
+        uri: https://maps.google.com/maps/contrib/113584546671226179522
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXKgnxbbuYxoX8vUmPDkhSKg0LDm0GcuULgp5BKxGDKTN09o5Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICd5tjPtwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICd5tjPtwE!2e10!4m2!3m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea
+address: 1487A S Pearl St, Denver, CO 80210, USA
+street: 1487A S Pearl St
+city: Denver
+state: CO
+zip: '80210'
+country: USA
+neighborhood: South Denver
+latitude: '39.689683'
+longitude: '-104.980604'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Izakaya Den
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea!3e0
+  placeUri: https://maps.google.com/?cid=12295134960868459754
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7e52043d9dbf:0xaaa1181ac00d04ea!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Izakaya-Den
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Momiji Sushi Restaurant - Monmouth"
+permalink: /oregon/monmouth/momiji-sushi-restaurant-monmouth.html
+stateAbbr: OR
+stateName: Oregon
+cityName: Monmouth
+place_id: ChIJT5L4bFQDwFQRihHTuiuWujI
+photos:
+  - name: >-
+      places/ChIJT5L4bFQDwFQRihHTuiuWujI/photos/AUy1YQ26F7OoCPfxF7p84uXeaTKQd0LoaA-8vLV7KdOghLVzKXpnDDhxaW6batP-YlpIu8ec5ubNmU4wVNqpp7YdWaUNhZ2u16kwwwd1Tm1ABFFikp3_haK3CN4u4abuz0XKDvbMq5EzXaKVZXtQtic3lNX4Cw2nZQyzTKG1l7iWrmDLam0-hNZoafeCFP9AdmF4c5zWtvnNlkzApYMw0v2Z0txbY1_RbNAm_jtz9yrKcYXbjjQ6kko35SIvtkdjYNj55UDd9fki3a6ZEg1QoAElbIFbhGsp2QdUGGU0hWDvaXFnv9lhFvpvYa742yNU9J1ENqteff2V12OQSwZ65y1R0GJ-vRF9MAwOiU29Vl4J741mHPx2CsNrBb3mJsUHeAQWP9mo0FKCB6TKnwlMMf2c6NNZoGnQzTqDP2s3lA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Wendee Theilemann
+        uri: https://maps.google.com/maps/contrib/107803652583191546305
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWzU6IoZPysS-0CjvKDOpVlGUsJ5ns8pFlJ03OuVrsnunfs3YQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqz8e76AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqz8e76AE!2e10!4m2!3m1!1s0x54c003546cf8924f:0x32ba962bbad3118a
+  - name: >-
+      places/ChIJT5L4bFQDwFQRihHTuiuWujI/photos/AUy1YQ1Kb3jjh7hlGpltbQ0C_n8sToJb2h-nvUKRsDAJM2basYBH7iQO19jmfHS5Roz5FAJaI-2EQJxMN3VJEmtRuYN1elm4lTKbURT9ew6J95Lh1fLCHRYd3nJPDFtNnVi3Gm0ZSf4ujDlm_9DvrcNubj91TxHVtshtnsOr6uf1WguWR4YfshcacTHJgQDAWR8WMaU3aytHBoHJJ3vAz0lIQ8T8pEd5pNIqC-hPfOMZckpd-766OKQo1E7H64GbQxgXfUleF36YxnMb1Ui5Bh4-wR24CTDW47PiVaRhhqRI5DL8Tg
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Monmouth
+        uri: https://maps.google.com/maps/contrib/109598779943363731912
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtzOzDPMcoXg1PkttgY3kiSEyDSDCHDUi3PaOjI8nXgqzr0dUw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNZy-hfhQhDisxYuilRRJ3csi1UaDNvstgZ0dMx&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNZy-hfhQhDisxYuilRRJ3csi1UaDNvstgZ0dMx!2e10!4m2!3m1!1s0x54c003546cf8924f:0x32ba962bbad3118a
+  - name: >-
+      places/ChIJT5L4bFQDwFQRihHTuiuWujI/photos/AUy1YQ37VEXqBVQI3J94oYJ15ejJmsa6DH_RknhrJhxfNpW1-D3-6R3lRETWH6q6Q-tTlW65__ijKgLGfqj-280W2wAdJ7G6bfzS6qIjW9aKRQ9MNpExYGFmUzEPfxFq9zcB92wWu-wH5fvR23p8vugKkdRKq3ijEBt_krDD1cB_s23jN5QMzQFA6r_qHQ3kG-_2xseUlaU2NexvUC4feSTzueigQPBsfrGwijTQQteafVb5GlwK4WqjLYam1bxnU_Nj8BWX2q1Zc5BN2wQ9k4h1LQdDoiuzB-La2WvO92g4aL_bsw
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Monmouth
+        uri: https://maps.google.com/maps/contrib/109598779943363731912
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtzOzDPMcoXg1PkttgY3kiSEyDSDCHDUi3PaOjI8nXgqzr0dUw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNpDP3aUyAEytZgO3Sg4vOV0HLgcNYYYJ4vXINv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNpDP3aUyAEytZgO3Sg4vOV0HLgcNYYYJ4vXINv!2e10!4m2!3m1!1s0x54c003546cf8924f:0x32ba962bbad3118a
+  - name: >-
+      places/ChIJT5L4bFQDwFQRihHTuiuWujI/photos/AUy1YQ0Mz_06BpwC4Xt2W4ujCYh4NvxMNb4Yh8N8Pjk4cIJTddmDfGGj1ext8YbFaFFcEETwOedwCKjnctzJxq6Oa5eOsFOgde_9EZ64OdeaJU11oJKG7N_1rAUnLP_YzsIN8THmcQmTfVhvDxWKr039y3YpPVJsS5afzAy0kJqXHbD_V7tPcT5V1UaZoyRdzjR9KA3yKzL0hUgNE2BI5BuiKIJWjXPWUapHSlBsaczqkJidFxFlP5NCA_zAC65cxsfPWiOq5o52HUE7NxzlfNjPQq4lJI1lRw9lTMKb1oMCEHYzdg
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Monmouth
+        uri: https://maps.google.com/maps/contrib/109598779943363731912
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtzOzDPMcoXg1PkttgY3kiSEyDSDCHDUi3PaOjI8nXgqzr0dUw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPEIMU9lPOygV4Fc1gUFiCey0SxZ1gI-XptHJYJ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPEIMU9lPOygV4Fc1gUFiCey0SxZ1gI-XptHJYJ!2e10!4m2!3m1!1s0x54c003546cf8924f:0x32ba962bbad3118a
+  - name: >-
+      places/ChIJT5L4bFQDwFQRihHTuiuWujI/photos/AUy1YQ3IP4y9SGCDd90EjhMiwjbBO0qjD6wLaK7TCUFfUes41PmrCATYBS79QmntZlfiTxCZP611SAYTL5nRi38gRpaixEZNS0bkCUaof5nCrWCEkQ9xXKScWu2S9GPwJzdl4PViZy2CNwVenYS1-qTEuFn0v_0zVvJ0hko2f-D80OlmHN7G_FDZJYfQ55lywbmHAiiP8qrLl3t5k3kyrPHqimnnMmnI9doRj-XYI-a2xGvjwb_b0mGcJOgEzMTQjnyyhitxyQDghidqB9C183-t47_DHO9PXeV6pqvyKntJtCcvCQ
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Monmouth
+        uri: https://maps.google.com/maps/contrib/109598779943363731912
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtzOzDPMcoXg1PkttgY3kiSEyDSDCHDUi3PaOjI8nXgqzr0dUw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOMZMEwNk99AkaIlbN6RyM17vcKnTn35xgOJS6t&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOMZMEwNk99AkaIlbN6RyM17vcKnTn35xgOJS6t!2e10!4m2!3m1!1s0x54c003546cf8924f:0x32ba962bbad3118a
+  - name: >-
+      places/ChIJT5L4bFQDwFQRihHTuiuWujI/photos/AUy1YQ0D0A8qZLXoLSkJphuXf_WSj1yjlpND9txEeUOUrXkGihTx5i9Q_9H2InKpsF5CwqIDq5tiQPBN5jIvB3bWnbzjkYo6wkXeHCng3eeeBFBeUlS45sshjtGi2kxf9jbctL8YlkcH0ThQqj1J82g1YbUcKgRBHQ0SXON3tkzVXYzNMQJMKmRC3BNUCNP-MOxdTM2nX0KpR5HQzM5phcb80VMUkmNQQxTo0rvGh7tkzOqrPeaBI8c1KEJ-84yCTLU6NB6c_Z_4SMl-zrypTnBbXmRTnllC2lqF1cgV1u3I0ClWvA
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Monmouth
+        uri: https://maps.google.com/maps/contrib/109598779943363731912
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtzOzDPMcoXg1PkttgY3kiSEyDSDCHDUi3PaOjI8nXgqzr0dUw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO70-EYuZ9vilx_AsOC04g8jQqOk21RApMBkYvS&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO70-EYuZ9vilx_AsOC04g8jQqOk21RApMBkYvS!2e10!4m2!3m1!1s0x54c003546cf8924f:0x32ba962bbad3118a
+  - name: >-
+      places/ChIJT5L4bFQDwFQRihHTuiuWujI/photos/AUy1YQ3EGn-ec1uM8xnOWOBQZO9BZioCRjHXAC9dNPWb8_gd080usXGk0gm2mdriLBBV5HqgOC8Uc_cvxMp-amARV75kuaoJInsXe12jr7-SeN-cXb_1BqSBfwUdxwk_AC848vICQDf1XTC-Oq0n9hwm6IrTw4zGsGS3h7_pmpHujIzztEh4U8i1a2MqvPTDPr8CaU8-jRielL_F2gSqSMJJn0DHTOFQB34B25CLQnK3s1x7wCapLehzyenQseZZUl_h8d1BPiOOLydawov2Q50QuJJonFAaYiEH2Wb1nB85MTttUg
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Monmouth
+        uri: https://maps.google.com/maps/contrib/109598779943363731912
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtzOzDPMcoXg1PkttgY3kiSEyDSDCHDUi3PaOjI8nXgqzr0dUw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOm-GuH8Ptxa4aLW1enYMcy49sU4fSnFp3TRJe5&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOm-GuH8Ptxa4aLW1enYMcy49sU4fSnFp3TRJe5!2e10!4m2!3m1!1s0x54c003546cf8924f:0x32ba962bbad3118a
+  - name: >-
+      places/ChIJT5L4bFQDwFQRihHTuiuWujI/photos/AUy1YQ1u5ogjVQl-1kyfNf8daircv3xeym6mn_kwNC87BNojDEZhxgD0IpSqGyuvL3mrwPL0k4lrCQbyS-NKJYA4jQqVY_PzcSGbcNCj8A7TXxg73XAfJEOjyXpzk7QwcAsr-V5TURiojQoVMAHG30B_KhW_LyzfjhN9YMu-sogOmoAp2mF_whkmgeYatnpK0u6M0b5euZEEDILp7xLOWAR5s8Eo6jd1e9XOaj07dM4F-YB7dTprM6GVyfRF8AKd8nJL2-cNlhrcwGM9uVAsrJZrz6Qso_iWMmaYRtpqXg3DTlCu8vPfucyprwh9a-rDazvSFlMt8zlUKo1GxZRxafUw6tqysJKKhhNRb_nT3NTtCpzJ2t9_7FWGBe1Rk2tOTYbRm2I3v2PrOuq2Q3OH2eQoOVyIW4FauV_5-0qgqS6cyLlu2i_g
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Andrew Holbert
+        uri: https://maps.google.com/maps/contrib/105325516892889061620
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVFF_kVzmMtS2pJHsvcgPrYkSG1uvI3h0G8c64MZOKKGb6lQZR3=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICVgv3xjQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICVgv3xjQE!2e10!4m2!3m1!1s0x54c003546cf8924f:0x32ba962bbad3118a
+  - name: >-
+      places/ChIJT5L4bFQDwFQRihHTuiuWujI/photos/AUy1YQ0JxDZsAG8ZJfmJie_nQBeAkLOJe7gwzVOEQv8dvTs7mF33a8OSc0p71XfUl3UB2jN7kVdwUOoDaV8h6pTxyEUq6OXZuZC7IpMo-QHN75TaZSAjw35olydhxaOlRPcz3BXPXk0vYJ7H7JSpYc628vqQsle0kEMKzQ_90VA_N7FCFRUcesu56N4-lVfOzgQaz0-HGWnsSQHcXj1RxhpJ54MR-bHNGxWSMS1sEk_ZCUFDn5eCYJ_PWNYeLU_Fu9e-ATeLv_hSPkkp4zNMA4soA9uxKZV3hw--df8vbKJATHjS5g
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Monmouth
+        uri: https://maps.google.com/maps/contrib/109598779943363731912
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtzOzDPMcoXg1PkttgY3kiSEyDSDCHDUi3PaOjI8nXgqzr0dUw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipONTHYGUNQRZYv5mmCohbvMLERu8vW-8mF81UEj&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipONTHYGUNQRZYv5mmCohbvMLERu8vW-8mF81UEj!2e10!4m2!3m1!1s0x54c003546cf8924f:0x32ba962bbad3118a
+  - name: >-
+      places/ChIJT5L4bFQDwFQRihHTuiuWujI/photos/AUy1YQ1APiHi0VKBhkOV82OzTJL36vKpwPgDdsizoKMaRd-GxSiF8KP1Zedn2-P4lGtdQbrXyZj9vh9B-2UlzBtsyBO-B2h2GyMCagdi_6uEjIXrS65nRs2K0CKHF0qEyJ7IImRb1AHNraMC9Ti2z8OD42h6uARg1g5Saa1WahM2yz0LxhFqfIA6TemZqIOHJTbN_N3BJE3WDF0DCkvitVS0zXEmIV-1brfr1-gke67V_IV1QT5UubXmXm1e_75NojCvMWxKQDfzchr-AFBFJkRdpW8vGwaDAibnhhQy-9sjp6fDdw
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Monmouth
+        uri: https://maps.google.com/maps/contrib/109598779943363731912
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtzOzDPMcoXg1PkttgY3kiSEyDSDCHDUi3PaOjI8nXgqzr0dUw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMYEx9ukSMYikq7piuVoqljETqH_Xnam8aT_M10&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMYEx9ukSMYikq7piuVoqljETqH_Xnam8aT_M10!2e10!4m2!3m1!1s0x54c003546cf8924f:0x32ba962bbad3118a
+address: 183 Main St W, Monmouth, OR 97361, USA
+street: 183 Main St W
+city: Monmouth
+state: OR
+zip: '97361'
+country: USA
+neighborhood: null
+latitude: '44.848439'
+longitude: '-123.237177'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Momiji Sushi Restaurant - Monmouth
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x54c003546cf8924f:0x32ba962bbad3118a!3e0
+  placeUri: https://maps.google.com/?cid=3655399162126733706
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x54c003546cf8924f:0x32ba962bbad3118a!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x54c003546cf8924f:0x32ba962bbad3118a!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x54c003546cf8924f:0x32ba962bbad3118a!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Momiji-Sushi-Restaurant-Monmouth
+
+---

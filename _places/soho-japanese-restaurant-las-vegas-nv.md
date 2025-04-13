@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Soho Japanese Restaurant"
+permalink: /nevada/las-vegas/soho-japanese-restaurant.html
+stateAbbr: NV
+stateName: Nevada
+cityName: Las Vegas
+place_id: ChIJDzQ1Si_GyIARy_IPbqOOd70
+photos:
+  - name: >-
+      places/ChIJDzQ1Si_GyIARy_IPbqOOd70/photos/AUy1YQ2S95YwQy36bMLh16q14yTGEzWCTP_BKCH41f1S6vYR4KzunOz8MIR5Ft1g46K73J_qQqlIuQvzkmEbsFnAnz_eO_5YmYB2Eajxuoj0b3nqY8LsbfzMdEiXaW_TFu2VpJUm2zRlfnR_UiUqK0XA901QJ4iLvYQKI74qhm8yzQIMtYVCfMsTB2ZUc62tUXPzggZRwgwkowIb6ww1kFrtFeGnWYKUxj1odIMEUr9lsCa-7cR3rLWiRE8jBagQmlefUGV_D9Qs0EIZqRgh1LYyz_RnQdzGWNx_Bi21TrcatXE
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Soho Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/117405540101727204145
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWht4dbvEOXrT25usG-bMQi6v9QOPwkE_6lEYH0-E-A_s2RKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO5TqpTCzq-lmqLPyj3enqzrV9yIBcYxCWWu7s&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO5TqpTCzq-lmqLPyj3enqzrV9yIBcYxCWWu7s!2e10!4m2!3m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb
+  - name: >-
+      places/ChIJDzQ1Si_GyIARy_IPbqOOd70/photos/AUy1YQ14HBHAWWr1BJkD_yxmTYwALAQYXTkrf6k9RkGVu6eyqyaitdQByzSYdhrs2FcRdKc-6v_lB7tONz2EfgcTQNnoIZdy-Si-jEIBMDKRqRDM-asCwUKpxjOe2os89DzZsNeg7K_PrHZ_bgSqOjz3ExepFaeHq2mwzYALbLTrKePVMphetJydZ1hTzpfbV3wUGEnY740XcTle8tmBIUGLnVGYNJaHOadcQMgJWio50zAvmpblUko8qpHeBpwJ3jtPCXKR9vEWRzIV_t5TG4I5ZsBCQoxzRVM6zyO9xwjwxWk
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Soho Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/117405540101727204145
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWht4dbvEOXrT25usG-bMQi6v9QOPwkE_6lEYH0-E-A_s2RKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOFHOJcLlEU-Cc4cuKT4nGOIziOsRBrD3GsEpo&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFHOJcLlEU-Cc4cuKT4nGOIziOsRBrD3GsEpo!2e10!4m2!3m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb
+  - name: >-
+      places/ChIJDzQ1Si_GyIARy_IPbqOOd70/photos/AUy1YQ2sRa0V0tb_CZkCpSmmqdN6QbhK6D3eapbTyGTjFeHpwmq9S99mFPc5DWcIlLcJrYLbcW2w2EknYS5LwI-aDDzlj0WlbeJ64j0IRsNBGP2S92qTYlZddIPmv1w5etfsCdQi_yYy0x0BiFunF3xmdxuLlIwys7a7C_SmVumRx0SBqE8fWLs-x_uV04SYZm5wFOczyM3ktub3UCXBwcvvn4tNyjNZoXyMP4x-FQ2C7XL_XNl0phuKmg_UIX8bpUeA4WkcdvCbkjbJK4nenVoai3rU1_GUUvJcx74hrurcV3E
+    widthPx: 2160
+    heightPx: 1216
+    authorAttributions:
+      - displayName: Soho Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/117405540101727204145
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWht4dbvEOXrT25usG-bMQi6v9QOPwkE_6lEYH0-E-A_s2RKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPceiinNoDt6rQ4Y2fyadvBs_-IHjjrVnvo6GA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPceiinNoDt6rQ4Y2fyadvBs_-IHjjrVnvo6GA!2e10!4m2!3m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb
+  - name: >-
+      places/ChIJDzQ1Si_GyIARy_IPbqOOd70/photos/AUy1YQ1AxClyVGqSkU4_NicTvrXwTfEIJXTGdyOGFjjFShjFN7zmLoqKl9NZ2f_G9HeoZg-NGBQKw52o-pX95cmGD5pqK-BcrkN8U7v-3oCXvYXIwY9Pa59JWM5dNTXNcSdSgEbDFU9pLsMiUOT9ozPTcbH-3UdjizjVzU3MgdNo8ILCrX1q97oNVKAUjjUqrLOojGgu-vAG1WHfdTYTEPYCJs_n33X6kewvu2IG1CnWbAyrbMXLe_uBzdU4bdb_hKcnZ76eUxGx3oXBv37NYnOa-WyAWrg9zj_Llvqeb8hwFNY
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Soho Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/117405540101727204145
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWht4dbvEOXrT25usG-bMQi6v9QOPwkE_6lEYH0-E-A_s2RKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNb0WCjyiIIeY5472ELFcFzP9jGrTR1ujRliJM&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNb0WCjyiIIeY5472ELFcFzP9jGrTR1ujRliJM!2e10!4m2!3m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb
+  - name: >-
+      places/ChIJDzQ1Si_GyIARy_IPbqOOd70/photos/AUy1YQ3Eu5fKMTtO3M1rNwLpUpN1-jdn7f6C_E7JMkwE53TFckRBHTHkkbzwQ9T5EEjIBn1aYVxpWu8nVLfpFR7kz2dK8yXbLeNAXgBJ6CMDsfFqeReBmolphw1VBVY5rIwXjBWgHZyOettt9CGktx_hxQ_WJ4paonBMheNgzOk4nGQANekYvOBxvEl6wwocbsmO8_UzEJ_ebfw9m42171HdfXMyzAeBf3jVbA7rqoMLiPDcGYv1VumTFGtPHGrxp6TljtQOmSUFo57lnXhpSnqyqZkBLBujElqAufiOweto4Q8
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Soho Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/117405540101727204145
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWht4dbvEOXrT25usG-bMQi6v9QOPwkE_6lEYH0-E-A_s2RKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM8WwwWBEMq91YjUSzthImpA3vVtbmSvTxhQ20&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM8WwwWBEMq91YjUSzthImpA3vVtbmSvTxhQ20!2e10!4m2!3m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb
+  - name: >-
+      places/ChIJDzQ1Si_GyIARy_IPbqOOd70/photos/AUy1YQ0naz5o-bkUfBXnzoL9Am9eAdP5GpZJkdB439V7Cxl6V0K9Xw0ubLF7qKg2IkkWmfXTVnLYklJvci45ADjQhmdf5YvNOHEwYfnjfNYZmxweuuWryh7eh1lgqJgNe0Mob1_7sJddzOH4BwMiQMnt0-kSP5CJirzKNB8rANzCm4j-bFe0Fi29uHK-F5ab4ZahoGiol8UgJRX2UptDAwaHgokFWDYnsntnZb9JdU9B1yi9KQsTdFOXqBcAAbCu6t2ZVjt0s4cJe1-uLS8FQ-UnR7ju_ZppArb9UnbpiBF0160
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Soho Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/117405540101727204145
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWht4dbvEOXrT25usG-bMQi6v9QOPwkE_6lEYH0-E-A_s2RKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMyx9F3gDxyjoL-RLQ3iAXAg2FsXsdqgz0rXBQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMyx9F3gDxyjoL-RLQ3iAXAg2FsXsdqgz0rXBQ!2e10!4m2!3m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb
+  - name: >-
+      places/ChIJDzQ1Si_GyIARy_IPbqOOd70/photos/AUy1YQ39H5vKJR0fPZJxfQ6nhdN1lnUMxn3lV_y0n6uoGvKRH2MlemlzilDSG5Fd08Bz6TeVqHlpukoBJCrz14pBYdcVKgYh_24x8Air1R1S0ipPvkkUivvH-0FVxmSAoDJfkISYOAEZ7H7I815yzCLvhfl1vSLX69FGuiKsGkyBVvtSIoxfQ2GLJNQGdIowy6jspnhcQ3gWgXHzMYhuJduc18SessRBQDM7r_gekZnCZU5tIB2Us9aNTt4gxcJoG1eaBgIUss_fXxcOTqW6u3TiAJT2wHIcnqGHlYfR3loWsvs
+    widthPx: 1024
+    heightPx: 769
+    authorAttributions:
+      - displayName: Soho Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/117405540101727204145
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWht4dbvEOXrT25usG-bMQi6v9QOPwkE_6lEYH0-E-A_s2RKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNcvGgprfixazSVKcjVSCycH2MJxztYOOIXsvE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNcvGgprfixazSVKcjVSCycH2MJxztYOOIXsvE!2e10!4m2!3m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb
+  - name: >-
+      places/ChIJDzQ1Si_GyIARy_IPbqOOd70/photos/AUy1YQ1jkkhIHaCqX-5WGvNBEekdSK8UP1zpGE7DjT1OMe5Q5FugLXM0sOYUxygXQa11OkvqKCDHBkIR3J_pPkCMyQnlCVTIDYrT1DS6Ad4lVYG2r9B61NvWaLoWdnNR-KK0NejM4C1eDIKR5GxpF0Ez2SpYbdd2CmhcMdLgJerQAY9gP1tj14Nn1zHIEgScdfKWkqrM3LNsoeoDDxUDFzxzBZ--i46aCRVr67_JN6pJZA8f7LRbQtNqcKhPP5Q3sSqBEGhAsL3YE-zOtutDMFce3vP2BOXWzuR54jvivFqFJxDaGCunjpgLjk0DI4f-_frVt9joYWCycqNyR5rj8rSM1i9ZLjOp9jaAjZIaHqxKreuW9ekn_CJp864B1neC8airwtzt2ww4Pf0EIOrxMOMxEpX0ttgQDslLljh4Iun5W8E
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Curt Friedman
+        uri: https://maps.google.com/maps/contrib/116206814933115789239
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXPbuXteMJIDTh7FERi8s-bQXX4IlOhr25K_020dPjZP6DVH24QWw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIChtv6eLg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChtv6eLg!2e10!4m2!3m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb
+  - name: >-
+      places/ChIJDzQ1Si_GyIARy_IPbqOOd70/photos/AUy1YQ230gg-maxtRQKODmJ95FYdDEDuocXznzcDp8OKTJAjmka_f7tTGNxwiNMgqSO2ELpVYUkQk3whyDDAJFwOzslaQ8gd008RQlOz_TJ9M0NXX1RCoupqigXDUUwdZ0UdQmvAQSePAxlZzHX0TWwEyvl6TdkBRVbRdc0c5UaJwQ3BTKzU4KnH1AzzSOAXavRqVbblPfdW6T03Km5YcIbxy4VXoZcBI9mfCeEEJv_fIXxH1ypnDfCnSb8KapWT8zMer33Du4vPiqbGlY14N6oqJRMKkdb547amhnGeVq_j-P_Jw4v_nKIFt36LMOdORcdrhyz3OdxGEcJFaYDZS6oWZiA2d46oABfiFBnCym8k7HerZIrgjRAhx_iBr9dls3rP5h_c8z1jxZ5gC9v_vkwWt62vgvCAUjP4UXOVaTOVa6iTXz4
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kelvie Malia
+        uri: https://maps.google.com/maps/contrib/113901863958605040839
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjBa8JW6fxFLu_wxsGZNeY3NEKrPfFVS8kNgOz7gEC_IzRN-_4DA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICX_oaXrgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICX_oaXrgE!2e10!4m2!3m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb
+  - name: >-
+      places/ChIJDzQ1Si_GyIARy_IPbqOOd70/photos/AUy1YQ25S5u-jKllq3eQU1VfqOp1tZqLRcNIbKM0FFFOrjOeHgmwn3S16W8zvYPUrMIPzl-MhbnNnzeXmmQDpyCahqtpwn83ORepH6KJR7y3-uN99dl75uZ0eiAAMldbGINrL35cdbo5G6EbpuizVhGZwVpigwUWpC8p2ifoMU6Uh1qsGZGo63z8RJVuJIeJJttC6He_nbMxzVw-7ZtU9YSCQuVPfG6ojNS3U_jKmP4lLnimnokguUaro8tK9ElyxMOa6LtmiB3lRHDEr5aYSEvW7Z7iMNtph1dd40zbXPznb7SAklaob4bSZdrwoRZ9l_8k1MZS9utgwXDZmW9YjF-wg4n9wIzUhnEXanGhhZOkzdNJN8l8XaBgJCYskbbJhQX7Tzrh2ACf7DRin87AeWANdEy8kcXfK1q5dKwph68UkbQ
+    widthPx: 2578
+    heightPx: 2578
+    authorAttributions:
+      - displayName: Mr. Lucky
+        uri: https://maps.google.com/maps/contrib/116697794414666804220
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV7Cca9sJQpJS1JZFUMqQ4WJgJK0Ri1fBLGDs460kM2pdsQN22OzQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICa-rjHcg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa-rjHcg!2e10!4m2!3m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb
+address: 7377 S Jones Blvd Ste 116, Las Vegas, NV 89139, USA
+street: 7377 S Jones Blvd Ste 116
+city: Las Vegas
+state: NV
+zip: '89139'
+country: USA
+neighborhood: null
+latitude: '36.055648'
+longitude: '-115.225858'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Soho Japanese Restaurant
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb!3e0
+  placeUri: https://maps.google.com/?cid=13652537627974300363
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c62f4a35340f:0xbd778ea36e0ff2cb!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Soho-Japanese-Restaurant
+
+---

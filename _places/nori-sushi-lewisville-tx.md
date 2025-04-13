@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Nori Sushi"
+permalink: /texas/lewisville/nori-sushi.html
+stateAbbr: TX
+stateName: Texas
+cityName: Lewisville
+place_id: ChIJUUZjfpQtTIYRrrbMTnfnl_Q
+photos:
+  - name: >-
+      places/ChIJUUZjfpQtTIYRrrbMTnfnl_Q/photos/AeeoHcIvfOt3A9kIABpT09C3Lqu-TDugNlZ2SJvGD9M4P8W89v07yaYjQGOH23qM65Rlpy5icKKHp7dng_7Gz2plIgDF7DiwuseMxFAGteeoWyYrPXzIa_rgpXFuSDG5zqQMiK_gxN7gyM1zbU5IYDt377-qlVixlPbkBrC1h8zy017XsNwfSNIk-8RVPaRwd3vlqIg5FXMgmkg2KyL9_TcuSdfXBWplS7Wt35jGiKxKdI3TbKihqFnF9FHZFhaW1V819e3uVtejDRV5REzHTNPeELAuwFdxFNH5nr9x2L9WhHi4o_woOOFoBLZD7xigZm6DWmwB4RxM5wcb1frr8OV_tYI6LKQZl7nQJKgxsBX9OJQk3-tc0Wlvb39yEJbznQRD6N9WlD_h4S7EksiJvSQkoAe_WjH2pPM07d1HzwpBOXnKs3yO
+    widthPx: 3895
+    heightPx: 2439
+    authorAttributions:
+      - displayName: Kate Checri
+        uri: https://maps.google.com/maps/contrib/107823354965166650144
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUu0URMKWK6cqD_xhYKWOFkTJN_t-FCXGQ6jbFb5x6B_1Uo-wJe=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEgKWO6wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEgKWO6wE!2e10!4m2!3m1!1s0x864c2d947e634651:0xf497e7774eccb6ae
+  - name: >-
+      places/ChIJUUZjfpQtTIYRrrbMTnfnl_Q/photos/AeeoHcLtAwnFpTYWBuF_PRMUyhHw4AOwPUYj043KlWrNcuN6Gtnb3rsa8BKGHaAY0U81CO9fM02ErPG-MaqEoqpSIvfT-mLE5gGjNIooB4k4GsxUSJlAoaC8_d9ktTTOHjfvtUdHZp4UhDczO2_5BaQNQaIFIrx7Q7QaY-a9kPPeOiCJN8PoRKpX37EwMqzC_IJM1fsDVs_VLsrDF-MCAwsnluh3fW3WlIGh63TO8TDBiDRJxz_FZ4la4noLMBkCHH6NKVg220wVmb0-_uMlTP6WleLXn2Ys7UcSTmHrwoCbuqDpZw
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: Nori Sushi
+        uri: https://maps.google.com/maps/contrib/104705518710756469145
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKEcWafb6kavl2vsH-g8Xd-q2JLKMoO3N-R_y6IARQgiOaICw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM44n2amVEdCyEIbXUOfRnqD40cNEIeZRqM6Ejq&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM44n2amVEdCyEIbXUOfRnqD40cNEIeZRqM6Ejq!2e10!4m2!3m1!1s0x864c2d947e634651:0xf497e7774eccb6ae
+  - name: >-
+      places/ChIJUUZjfpQtTIYRrrbMTnfnl_Q/photos/AeeoHcLzBclDToRTh5BE7CEWwlASujAgZvhbxpyvvI6K2PjpwxI3mUKk2NFg1nc7lb7lxZF9N-EeoSX5SrILoutWN5l_-9-hiBBpcIUl-tpKC0vdlSa_3TYQDRdU4smNXlPtstZRn6Jizc88eWa1z6QS516I40aPWCTn3dhu_KptpDpTUuGM5h_FxumLobBd3Uhn1LsbEUkS82H3tLKgPmKKXvZC2X2zYcMxJNUtHhzO1JxTZ16BnNsp_3n6HidxOgOW1R4XmnZ66HVymYKMrnP_toIVNy7ZplzTjwjWHHWo76v-5UnVpgaCd5HFI7VSPGuOd45x-hpkOWAV78-2xXF5E5GHBC6O5Z6Xv3LaNi-TZNYyhKmZD4ukazquiw2ja3NuIek54ZbYwKhS5JmZyckM4lKXMMH6Wo8oxg1a7LfmPmcgwWi6NQk0dz1sPeWGNOch
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: MochaBear40
+        uri: https://maps.google.com/maps/contrib/110047601042461198595
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW4daRpMrpsMT_49JRVlOwxovbR_met1asqAoBwl_qV6R2DdmTC9g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzzjaCXWfCU5cADsYQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzzjaCXWfCU5cADsYQ!2e10!4m2!3m1!1s0x864c2d947e634651:0xf497e7774eccb6ae
+  - name: >-
+      places/ChIJUUZjfpQtTIYRrrbMTnfnl_Q/photos/AeeoHcIMUOP0xdrTxtHS6BrgFvr1RPtTQ1BTBFXk7RK4FUKvx2n809XLGNUDbZA9og-NZLuZOzoLr7hliKg5qIGNfJ_czil_wadobURtJbf1fwUz1FwNUkYMnnv1JmRhWKt4uXKgWuY5lre7zlfrhHd9t6GEPNEpdaXLze2ZzOfmcSMwiurobsGEMH4gSGMkERORpZpXPMEp1FAZm4yeHO2KQN1ZeW8gddJCsiF4mPw5HHoah8FBIM5MbHVrskaZG_H-lxApy2eaJT9KM0146UtD1o5hOlirstcxKDkNJ5itqq0Kh00Q-VWqJOzjou6tSwCoit2oaS_NNGDYf2L1-cTPSSrG3LRwwXGIKP_sqeppThJHdvalJBJ5BwlbAPDLTGE30Uk5cs6Q4NoubIMDkWnYlm02dgPVJPPBH61J0UdoOciS1qiE
+    widthPx: 3136
+    heightPx: 2352
+    authorAttributions:
+      - displayName: Nam
+        uri: https://maps.google.com/maps/contrib/118119712779834808958
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK4GD3nUOkhsV6SfrUbVuK5BYCWZcRuD1tmpNiMGmtILogihg6x=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3x6CIoAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3x6CIoAE!2e10!4m2!3m1!1s0x864c2d947e634651:0xf497e7774eccb6ae
+  - name: >-
+      places/ChIJUUZjfpQtTIYRrrbMTnfnl_Q/photos/AeeoHcJEOi93CLJgRmFS1yBKMZI7rag5dFTLE4A0wIk-aS_mOv0ml4JR2iYzmUxtYnVnKKU5-fUmSa3lgsZajjn4alZCTFK9lvisuKHBZifMlPajUZU_sQBnO-A_-S1YfUjGZoXsLAZtBiloj1hky3RCwIrCWECsadvJBDrRFh6bKWd3buelvQb10KY43BGkhRbA1Vs9oU9j5bX_KjYgv4Drev3xnM4jDJ7AJm8TVZU3nEopLVEuqD_8DfBoDanuGwHr6WHFgeJl39sw8efM-BepQwiuwyLWypSXDhZDvZag0IP-NOG4La-2PAPMgkUdmh_1qKSlfLYImvRCUjbI-mleNCVysqXFszsmNYM1HQh5TkaP8FMJP-44wZw1Q6bhcLpGp35doPOhB3arRNZtWhVTnGiReITe1lkHSEh067F_uQVFgnMi
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kyle Graham
+        uri: https://maps.google.com/maps/contrib/109193742975726210470
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWfBuKpGSQ5r05PQqzwvHxCrtNGvRYTYKzRecBdYZxUKYT6XFAYAA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf7cDcgQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf7cDcgQE!2e10!4m2!3m1!1s0x864c2d947e634651:0xf497e7774eccb6ae
+  - name: >-
+      places/ChIJUUZjfpQtTIYRrrbMTnfnl_Q/photos/AeeoHcJX6pupSYyx75LS3aayJ8pZDK49ZexfXwMPhvJ-JjoVRkuN4uRql1Q_jL44kKwlXBcEYkITRKnBQZbijf_wlQzmn00VxSvb-0zZxQYlXRvVxZ0oH4JL1VIKDcHRavmnGZvZo1P_kkt8rlkwZ-eBvdEeQL9J8H07f06GijJ6Z_tHQ3Uq8OUNHFAfIImmKYJQWFoMT6BGF3FSHo_r4mdpyHbiGEKJxAldLikhJ3y-Mvc0AE85NJBzB6Nkugbu8xvD6Osx8dxyqUEHhnaoXlpZM61Bf-uMg0-pNHi6NCgJOQnt80Js9G_11MqV4AI_IRTQSjCx-hMkN7E1tFzvGN59XwPM4OOzxj-LKpPrR2qXG7lTLvr0I1MDIUWZFSjtpjsjkZBXgnjoM5IGuJ2p3yyiF5d3ZBCgUUZSTEIJfxQh42e431xx
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: V TATE
+        uri: https://maps.google.com/maps/contrib/117550608980207810484
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWTyRS1hNDTNgVbwkK_J9fBj6rjhyjZg2C9Is4ZKGe-8WGyuIvCPw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLnezD7AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLnezD7AE!2e10!4m2!3m1!1s0x864c2d947e634651:0xf497e7774eccb6ae
+  - name: >-
+      places/ChIJUUZjfpQtTIYRrrbMTnfnl_Q/photos/AeeoHcLbeGdGRdCDyft6qb4SPLmtAwCwg4Y_t_2S0_4dm2MAjZ0kPChv2svvdopciJz0LrkmMOwkPRn7KsC0dCYuGX-7M-HTdSPILxc1iHr4rngMy0k-jfKZ1y32IyuPMddw2ZC_0mqCMFaMj1X3WP4Z_lOZwfbD1pLUOf3Rzw-X0-i4whqRPkt57r82CYQljJIWaZIEfOjI4_n-XlFLRJ2Dh33DasuE1zxhCPl3ltQw261vlBuxQuZ4JftBq8Ottmsla0T9G_iArhal875y-pXHBnQ-YoNGMOPwi2iRHcC36knIt0TuQS7xSb6kICtB5uLpWExLehOaFabff_C9ZZyopniIMrdiW-VgNr_H2LGfxfP-zkK1F4N29O2RWtjMtx1aGeTSBOLBr7cc4Onl6QPsC-PP0Yd5_uY5O-00qND2e7Q
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: David N
+        uri: https://maps.google.com/maps/contrib/116274257371810026953
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLgoOODwUTvav55he8AntRwZRbsYWVtpdzsODDJPASSno0Q3w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9xqSTIg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9xqSTIg!2e10!4m2!3m1!1s0x864c2d947e634651:0xf497e7774eccb6ae
+  - name: >-
+      places/ChIJUUZjfpQtTIYRrrbMTnfnl_Q/photos/AeeoHcLF2ormcjuUN3a2i6Fr7heQlFOh0lyg5oRU0ovq03MXw0IOOiv1LXHiSYvbRtnILTRDJ0AOBzvfOSTkbkuxuUB6Vdu7kw0e4riTjbTYR9N9EQDMLlaUiiY7PpToz_DysADAUkyxvEiQqMWSCYRp2MrbZUkuDSYuDZEukneAqww6dmJ3KXy1_qpS8u-PxQUPSkjdnNhEXQ2dR1oUAWVlz9OH7va0rkAC9K9dDGmo--DBa3TTI2xsFbBBcLYF8W4i-SNpAFF_OgYmmQdnZbvhyIGTac7zN6b5m_7HUgd-hhta_AV2CXj8EhZvaU4JD3n3aZlfMKhz-Q2ieS1E9oHJHP3HDG7cON-l8nD4DHWQV7FyJ-_YqgGl-I3kqt3uW8H7uXiC48TmU8yR-a27ggTbS_Itu7TdVDdsseXYNYmlw7W9wA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kathleen Young
+        uri: https://maps.google.com/maps/contrib/102262233560890804666
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUsd837louf1aLrC2TDRiAee2vG0QmrNCM2lXsOHdmxLSPOM8Hs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFkfexDQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFkfexDQ!2e10!4m2!3m1!1s0x864c2d947e634651:0xf497e7774eccb6ae
+  - name: >-
+      places/ChIJUUZjfpQtTIYRrrbMTnfnl_Q/photos/AeeoHcITWZ631nimgi-7cQN03n9IG2UJVfkQ8Sp6paxkhjG-S6SY4CrttwUUJPnYA6o3fG5qX2HFppA1jcZXu9LeL3asJvtbGbsOF2Pp0JQ2R8YnCkcb5XAlXYKvQfkM83CYxsvUedy-zvez_8peF5Fh6JglAaEk6JppAprQjs-OKFO6J83vbyM4eXWFu3rRD9EsccXBg9VsUUmEhxaAVnAm39qVepjM405RhLZsoAyuhEAXKULQ3fJRKFvD016_16M6PuM-CLGJKd2rdUwGZkO-9W1omhm6myyd5jER4_HVPr4UhG2Dbpb6o8b_1JBF4XS9jkezTxrME0y7f-ia-mrWX7TnIpVEmCoj0lNTv_owy_eiHG2A5Q9IIYIXgG3HGSV2k7LvbotR7x0C4iuFz_Etn8DyBFHmPqhuWtVwtUykYTKi2w
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kyle Graham
+        uri: https://maps.google.com/maps/contrib/109193742975726210470
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWfBuKpGSQ5r05PQqzwvHxCrtNGvRYTYKzRecBdYZxUKYT6XFAYAA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf7cDcQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf7cDcQQ!2e10!4m2!3m1!1s0x864c2d947e634651:0xf497e7774eccb6ae
+  - name: >-
+      places/ChIJUUZjfpQtTIYRrrbMTnfnl_Q/photos/AeeoHcJ332-IX6_-38t3u6xKQ8tI6wuy_cPyepKWhwKw_XGBp5gOan_TDhJ7BA4NLc6yjEeXzQ7MaDxdnsKiFcB_4zmyLRxO1O-fJ4Ghg63JqoaFzIuHS8gquY15GvBOadY7EQQ7y43eXT8U9PEvgMe4g3Uzuucx7rEHelQ3B-Bi77EzoVy6vf55qVmTVQ8pQST8tLZWTbs5IDmcQTG27HsTwfvbEichYXm_xWGEW-XbSRHfnIMPfpNt6V30MJpt2siz5Tq7cs67N5rE-41v-yrLpg3Ib-GlwlSWJMZK_8qNNp8MZxW7UoZB1H8NqIcrvmOnNpJwHoQYvjch4ZkV8JF36_K-cOARn6HEEpVKglIco-5qdSd4erxmLPKQjaYamxqagsDIpHxjvEhkX_vBmXLxqV67Ne5MF6_7rlI9R3_0uWk3eq3Z
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Samantha
+        uri: https://maps.google.com/maps/contrib/104463561994165123535
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXSCuHviaF2A71ThJMJ3vlrlaJVs5vS7Tm1YsgZGncl3_NQO-Y1=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICpydLsygE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpydLsygE!2e10!4m2!3m1!1s0x864c2d947e634651:0xf497e7774eccb6ae
+address: '1565 W Main St #225, Lewisville, TX 75067, USA'
+street: '1565 W Main St #225'
+city: Lewisville
+state: TX
+zip: '75067'
+country: USA
+neighborhood: null
+latitude: '33.042867'
+longitude: '-97.033367'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Nori Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x864c2d947e634651:0xf497e7774eccb6ae!3e0
+  placeUri: https://maps.google.com/?cid=17624810166346888878
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c2d947e634651:0xf497e7774eccb6ae!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x864c2d947e634651:0xf497e7774eccb6ae!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c2d947e634651:0xf497e7774eccb6ae!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Nori-Sushi
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Miyako Japanese Restaurant"
+permalink: /california/san-clemente/miyako-japanese-restaurant.html
+stateAbbr: CA
+stateName: California
+cityName: San Clemente
+place_id: ChIJt0bUY2Tx3IARdxszhvBIxqk
+photos:
+  - name: >-
+      places/ChIJt0bUY2Tx3IARdxszhvBIxqk/photos/AeeoHcKFVS0v9RpBj0PHLFBvEkfe85XwrVp8GMgVs0zJ6_oJgsyaxwpoVwHEgxI5G2UswH2PCkcxNrmMfu0Uf19bHlnzBF0z9sdt6i35OPjq71Z2JRbEOOp3QG4Z0ZVvDsc__sblEN6stWJpxMBCbsxOoLX1lD5pQF5ScvPzak3uQHDihUr5Mcx4fgSDACgix6FECtppk07S8ou8CsG-pzcL9jrS8TtF98q4uBJNCq1VHD7QIIM_KZNnU-cF_VetKYzbTAEyv7U3ndSlNKu1K141ql2K3yC_miRyJG27wkqVxYfZiRZk711nBocvplIJBqRqMW6L1s1lmOucsF-hGklruTwLqCyzQi5cKN0oanFBNGq4sHUREEzEOQfuqOsgoZ7U856d03wBfdAK3kdvMkdEF54OvYi2X_2pEMq2MlM4HAbia3Hu
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Five Star Nanny
+        uri: https://maps.google.com/maps/contrib/114152545027684015332
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXEhNLldHEgsUE5u3loBmZF0IfR6cgZmBF8v7gECbuotI-3tda7Fw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEl9j0pwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEl9j0pwE!2e10!4m2!3m1!1s0x80dcf16463d446b7:0xa9c648f086331b77
+  - name: >-
+      places/ChIJt0bUY2Tx3IARdxszhvBIxqk/photos/AeeoHcI-JhpjuRgTjol_7Z1k3XPWRiuHU1T00-0_n29V6JoYM0Ihchqjr-uXC53VycBf1uRCkGOKcbBwW_NSH6cUGcizUvBaDkNef_doI3R6mhdHpdki1m6oMZHigkh4NoYMkRnI8hkrhPUEqn6rQ2i_zRKKFYRjJ0fRaRFa46VoRztk8vPSIr2LZ_cBQucCE9KZRPR2cINsWjmvoV5a5162cfxSRnWiYFzZeup-zwqNrlsWVf-iDS0b5qiJbFtlal5ADQDPUmq0HBMX7QWHqNrEP4v1KMbaRYZkWPkJyaQ35kbtiqtD4OJPMqfZoEaMRM7-2m8aLvLDczqz0psIQiq92GFJQtNg91tSkqcAVHxxXDaJ1dGXm3ecAkEhI0wRFuK8j2dxhHBSAGfoQcfFwEQUuVycdeK1vELytNY5nZTPeNbHaXc
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Daniel Chimenti
+        uri: https://maps.google.com/maps/contrib/102597552696793186340
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV-NpX95Ig8Vc31QMdH4ESnVc6gSFxfySnJwrUmeUF8JREFxm0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrp7L_hwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrp7L_hwE!2e10!4m2!3m1!1s0x80dcf16463d446b7:0xa9c648f086331b77
+  - name: >-
+      places/ChIJt0bUY2Tx3IARdxszhvBIxqk/photos/AeeoHcILNWSKoOqNKFS_enH_loxQ_Uc-yc4KRR-8mUVXZ9Bmd-SZbQQ75JqEJLDB7j0o0qERrEnPxRJmtXtnzjBio4V9XHeEPwJCkRJI8Ty9oXyxjZxD67H0bLxh5iZcZgIFdHh2gI3eUdaFLSUSn0dePSORY5pWyriw6UDyl3d32D-J4LozQ-SEF03aJ2GTY0uM95YPz0XaWKctk3w49hANmUytib0KgVbyveEmEKYwWOpH3Wg06v2vF37FaLJIN4gRoWPu0wnMmKdmTTaKxfkNrDh8ZaxLxOIobAK5z7edIxtuKXIPnjBkHGEuAUyIJ7FTo1YSxKT9x6PTewb8H33VEcZcikLi_SC5-mbHKNqJqQfpXkEDegJadRJxZuwqqUfxyEoahiJF6Q8GIiXEJjjcpOYOZc04MT-ivYNYWpNfjJq-b9yI
+    widthPx: 1000
+    heightPx: 750
+    authorAttributions:
+      - displayName: Andrea George
+        uri: https://maps.google.com/maps/contrib/107564117534447423553
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWbeEAVKju5OO77c7u7aRKQ6jXewVxMHT3DKZiouBqyo9U4Ig=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDSr7LitQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSr7LitQE!2e10!4m2!3m1!1s0x80dcf16463d446b7:0xa9c648f086331b77
+  - name: >-
+      places/ChIJt0bUY2Tx3IARdxszhvBIxqk/photos/AeeoHcIc1gCeXb-ef_64pSmzqPLJRNAhNlsK1xt3tkXS1qj1wj5_q43xgL3aqf2ab8r_X7vM-mB7mtLxzhTvOd7wpq69K-ZcI2C_ZqTy9wfTUa1-hNG0SZJ1i2U2xdC-j5YppnG9z9vadKXOwZbKY5WuWfwTpCjAfvaHJyy-nTrwt6m0NCkt1FDVBj94wryNcHuOoEdkvFvi4PW21x7R4sPAOhKBXGWF6Yowwu1YbiWJri1J7V2BF47n6Eslg05lkyKARaDEDy66q_XDEuUdERG8JH0rD2w3EQ4mUWMNjXx-9k1eQLfjgyD_fBK40sQd_8fomXugtJMkh-KXa3haVp8gKlXT5CpDlGo25AQDfOis9XVIt7y_SS8TeoWrAjPINzdnVBHVCkK8kJJisJFKkUXU3H4TkwpHZqp2Lrr_aWRnybkIxA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: virgil Ellsworth
+        uri: https://maps.google.com/maps/contrib/101288980984871354264
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVJ8X-uPefcKgMfd-hIBvYdA0eHO4dB3bAgu4ZV7WhOQ2Ho1sA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICz0uvwXQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICz0uvwXQ!2e10!4m2!3m1!1s0x80dcf16463d446b7:0xa9c648f086331b77
+  - name: >-
+      places/ChIJt0bUY2Tx3IARdxszhvBIxqk/photos/AeeoHcK1jlKnafcr_qFbhC2hi4_RW4V_m1osTOMaaVJCW65yX-fZRAKe5T_PvV4sZattFHAarcjRKektpp_Fg7pYYEK48VQOceUzkEqgczrDP29zZaisZCgY1lmGBiiktEKphBAa88LYaExfcqDMvE_TT5zJikOORWLbfmVLxnDO2KhIC4ylakOeVR55-QOQgBICWe16pbki4WAbtsdC2eJTcGsC3eEIWeuIQMDOFyAPF9i9U4GDbX0gUL-Om6mGufnf6vIu3NnovjehmlgDA25ivfzFgjGzqXzt5R9OSxYIXyCJYFNOvMjpx5DBecyUVqBrDhewr22HhzZlXpjplyTzZHXWYix2mNaY1lRXwhKHSI2ZeXpikbnWwF03HWZ45Hx9l2hQ2F0Y22oCGAeENbL9ACkU804H9eoFLF-oKgcnXeSjtrKb
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Gabe Natividad
+        uri: https://maps.google.com/maps/contrib/114282305920168977719
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWi_6ndaXHjocnGNm-Kupm3_Sl0QOg65Q8OW5XDmGYaYDWwjNi8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDKmPH21QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKmPH21QE!2e10!4m2!3m1!1s0x80dcf16463d446b7:0xa9c648f086331b77
+  - name: >-
+      places/ChIJt0bUY2Tx3IARdxszhvBIxqk/photos/AeeoHcIg0ffIW8CZ8x6rtVboFcGHf4QiUPYWp_zCY4MD6r0xztmQjabW455Jdw8UGTgJFUGiWXd2Gh3zRjjxkOai2eciaSN98nvNvcrx5Uxqfxf-TbpoV-rBgUeKrIyyYa2FHU5A9OM1EdU3RIFFa1ijuCT5Unh41BYaZKs7ZYRDSWa2phg2syryeaw-Z0DNcFsxEO9CrOIgzygPOheUfpzU1fV7avw9KQowz2b3IiNqAj6SdtlodgYp_e9Udro4IrwrcRPbvW-UqNjg3IkXCmt4lZXKu1NHw2g_pTWU_3iA9fJg8zZA48Xb5X3lpbjjTWJjP-wTUqcCrzAjUC3mn_OmfcpZLjYEbgUyEdacNE8vhV-yaj7RVJRQAbeMg1v3ec-ssq96VvYCLdhEoJMDuagSx_uF9uqAn0imphTw9Sa-gAyTfg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: virgil Ellsworth
+        uri: https://maps.google.com/maps/contrib/101288980984871354264
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVJ8X-uPefcKgMfd-hIBvYdA0eHO4dB3bAgu4ZV7WhOQ2Ho1sA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQi9m4Vw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQi9m4Vw!2e10!4m2!3m1!1s0x80dcf16463d446b7:0xa9c648f086331b77
+  - name: >-
+      places/ChIJt0bUY2Tx3IARdxszhvBIxqk/photos/AeeoHcKsxt7gxmKHZKEZjyYRSQOp70qacctBGsHTV-Eb54rIplpNtnFkmIBGcxw7l3DYFwQduBv8tpM-uKwWilDLhHnA3uSGuuX0q0iU5Z1kY-huwNz4042UXFfFdNAWSMFKkLyzBKplgB_vrHMxyVjkO49J0EhGpGcee23mEXDzJNP0SICPQkxNgbD1bh0GtnMCq4YXI714KHVpW1a037hZ2UUuhqKeRBtBvnT18G1mvuN8rGNLeaWAh8W5Hi-oqHWRm3smk7M60LdCQ4S_Tyf5X_FdlcIlqnwpdVSlAAgAtMKfnBpu3kRW7e1U0MAgCJvG_3-MK8clzqS4uXXNicfVKS5NESuTUswCgQeAc3lJ_9l7szZ9MlbXT2_ST2Bccl8uv9tTBkWVRUbDxxJhuJzOiQVGIE4WaIG_ZKWgihvRIoi5rAjz
+    widthPx: 3840
+    heightPx: 2160
+    authorAttributions:
+      - displayName: Chris Evans
+        uri: https://maps.google.com/maps/contrib/117814274204665536317
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWe3VWlhwmqA3RbFjgNqm59V0qgm9905C7HNECrs53tqgsPQwLL=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4k6nb0wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4k6nb0wE!2e10!4m2!3m1!1s0x80dcf16463d446b7:0xa9c648f086331b77
+  - name: >-
+      places/ChIJt0bUY2Tx3IARdxszhvBIxqk/photos/AeeoHcKAAxavqBuAljSQblq60kXCOAQM3G6-8odWEQFF4ctQku3RwkmFR84E8DhR6Nz1EwaM26czWfxeEMkIcN3k2n50BxyyTm1oRHTwjicw93iHBgMBeJx6ewzTL9f2iW15HARjJt5RAXg5WdlwNOSrGhRudpvYl0J4Swdo1tDoOKRuflq8zE8DuAd6_88yf2i5uBrh77jslVJmw9vmizGxHuIHWrzf7RuLV_gnTPlfhLkfPZoBl6NcCIEYBQEP1-OhzxglLDX8kVA7UF27ojfVl5lvLHpejKWVTM76vST0ve4jd7SnfLWUuhtze_Pn0KPtyHTSIF2cFGakuYIe1GH2E6E_o_YQxnyewfkCSezf3SoYLpABk6FA6yUTiGH5TZt2fiI8YRmnkMgXchWWDmHc_5BFpSkeFe38nF4AvIEmxJxKeKkX
+    widthPx: 2700
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Albert H
+        uri: https://maps.google.com/maps/contrib/105504832390727578298
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUJlx7w2oqZg3vspZViNVyGdUIELoB3KK-xfmRntQgHorCIQvD5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICE25DIgwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE25DIgwE!2e10!4m2!3m1!1s0x80dcf16463d446b7:0xa9c648f086331b77
+  - name: >-
+      places/ChIJt0bUY2Tx3IARdxszhvBIxqk/photos/AeeoHcI3oGSZRRH4fufAn-WXtFKz5e0mi7bK3fmsjhP9V3ft_eQVQYcHKQ5ihI6m-3ckVisBT8WAdBmxZ0grTl5mhd2G1Kybz0m3P8_eMZhcqBFGDzWb0vRV4jiCzS9RCF2x6DONz0VqAGQBiqE4g2lGtf_fRhcwcw1OzonQ1gowGCSxCe20rSp1gs6s9M8QaZ4s7PiVJ0hx7I9rrmBkGdISpQiycN6owFIqu-FrZpO8RFhfMKBRufM9oWCwWLh_GtwYl4uKrUebFUsX3oiP4_A-5azxYkKbgAn94_21gFh6EoIt5eCC8ZZqebI3-3WwKSJe8QYTneCdx_3oKzZqalzYUT_lGZ67eniJYOlyiU-WGD7ZSW8aA5dpxzgHshd_ukkQAVL0GsbZhx2TkoHtPt2C-0VVbyIcHYUcEjkQs7zCQnYu9g
+    widthPx: 2322
+    heightPx: 4128
+    authorAttributions:
+      - displayName: Sherri Hayden
+        uri: https://maps.google.com/maps/contrib/104062644688250879893
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLvRHp2MxnzUW-bsXVCzElkgkoNdxj0bq2LGtz5wLCs_BYpog=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID465mVIQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID465mVIQ!2e10!4m2!3m1!1s0x80dcf16463d446b7:0xa9c648f086331b77
+  - name: >-
+      places/ChIJt0bUY2Tx3IARdxszhvBIxqk/photos/AeeoHcJYBaULvp1afNYfeOyjsqEjI1ATrVumDfHygVCniinjLNsHhlcGjLZVzzV_y1T4_8eHvMij6IrTN9eg2rD9_1HLH4owj4sOmfjIJPQigVimkAC0rd_2XeUVEB1rO7No2aJ3nzBb7840J2Us55CENBNb733zy8Tpt82-fz_BjDfhcIY-P5KzdH6QEVYJ2A5off7W7f9dOPW_u53M17Lb0k8KQVE2TebiX0DVbz-OURBSTtB3fNoqERWAfLfuKq9m21G7rxkWQpLJb8Cg0mwFHd7DIQ39_44Y0QjednKf9-HrVwE0d5qmDTvV-ds2gw_Kcv_X-R4mHd6Yh4O9FGDppUvRFSaaQSUT-DLwKAQ3baUCVHroxZ2aa2Eg3KAW95nRh7Xzy1X390OwTy7ZZmQWcZbIUX_TEKvrH090u-0_0l6rkNoQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ben Park
+        uri: https://maps.google.com/maps/contrib/114717889345530623495
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUVRanzrLEVlDJALuXs27Aasi3fpJ_MsUvs5sqABQV9oIuZP4woTg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_tZ3ghQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_tZ3ghQE!2e10!4m2!3m1!1s0x80dcf16463d446b7:0xa9c648f086331b77
+address: '641 Camino De Los Mares # D120, San Clemente, CA 92673, USA'
+street: '641 Camino De Los Mares # D120'
+city: San Clemente
+state: CA
+zip: '92673'
+country: USA
+neighborhood: null
+latitude: '33.458572'
+longitude: '-117.650510'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Miyako Japanese Restaurant
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dcf16463d446b7:0xa9c648f086331b77!3e0
+  placeUri: https://maps.google.com/?cid=12233545635679378295
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcf16463d446b7:0xa9c648f086331b77!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dcf16463d446b7:0xa9c648f086331b77!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcf16463d446b7:0xa9c648f086331b77!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Miyako-Japanese-Restaurant
+
+---

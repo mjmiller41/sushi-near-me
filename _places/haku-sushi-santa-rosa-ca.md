@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Haku Sushi"
+permalink: /california/santa-rosa/haku-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Santa Rosa
+place_id: ChIJ2aQNN_9HhIARrVjwyxLAd0Q
+photos:
+  - name: >-
+      places/ChIJ2aQNN_9HhIARrVjwyxLAd0Q/photos/AUy1YQ04YZkNdKhZGozTE9pmNWFnn6VjgglqZu2-QXuus1Veln31gpmDDupJkI73WQiYYyTU4V2CI0vk2wtPzO-QILT-LzrRB2G4S1GVitF09WxaC-vFHESGTBir7OjELaB6DmMKVmssC5PGlT1pT_inMcJyLMJYjhBkn4YwNdOTJUsYATZHwr4QovCHAfvltKOAKNvQbFiKtfWwZnmXmnHsd8B9ZLxQ_nbCO2T3kpaLzznxzomDoPX_RV1sGOoBF4QYr4ai1Z4bXkH9WTODmHOwAOVjDW2BlQvjEXRMjQoWBOnDda-C20U15rJK_1KngmXmFicTD8QtMopOWd45SEI0y4mxvpoWxQS4KEICWmmhGjvHcDMOGdUONigzrGCaD2JyfYoig5c7xO0E7USqQYmrvilTJt8LBVobWLYEQgALFFtk09kM
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Sterba
+        uri: https://maps.google.com/maps/contrib/108202375161374310999
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXLRqRWBQImRbVuDruX6uw7IDTE0b5WBCbh_B0Ga9Xze_k40lZp=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICFjpHemwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICFjpHemwE!2e10!4m2!3m1!1s0x808447ff370da4d9:0x4477c012cbf058ad
+  - name: >-
+      places/ChIJ2aQNN_9HhIARrVjwyxLAd0Q/photos/AUy1YQ3oCXpMugJWNlhte7cdxYEDOvtjqYwDz6SiOZwiHcuhmLX5PKGFRvx8rsG-Qncz6yFOBNUc75wThOqhxONwLU9EzCYCBnA5v0LxSGBLBpRlU_jVCXQWNxCcI9x7NnVpEDCzEyi5SpWgfYQGzEnJcLSqb0L5lxHFSF-c7YHsu253aFhxjukgLX2ksxYfkE7wjCAetcXtvQALY9wrLgMiNZvfablsd57NX4HA6qbJzYfCbi5-v-8HmejZWFcELfXJUzmF_jEU0KLvCp8Z2Uzj7Nn-AgMhdpNT8OIE9T47yKg5GORdfveab7YPv-AtLt8n8-O7xfYLuRp1esjk6wbscW9LWNgR6ng-N9bKdhsSoK1ObVFPLSZUrhbNkjCNQrLgS4sM8Fd3PoDFe9WkSs6QVafo_dV_oUg0QDWrWUFaxGtVer4r
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: William Brister
+        uri: https://maps.google.com/maps/contrib/113968953011734172711
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKtwv5H8Wj7_35M9hMSFEQ3QxamG4vnY07Tl_w9nYoic785Bg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwwoTdtgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwwoTdtgE!2e10!4m2!3m1!1s0x808447ff370da4d9:0x4477c012cbf058ad
+  - name: >-
+      places/ChIJ2aQNN_9HhIARrVjwyxLAd0Q/photos/AUy1YQ1BaGp1Ay4VL1pmA_w1-fNATUYuYvXXtvWFBs5Ws58oa5FAJG9Z7khY6ONkYm71wVcRc_MKudG1yMUhZtr2to2uiBudvvGFb1ab-nkZDaSOxRjCmIve_Dx7x108OllIvLt4gNYje5tCyC1jT5mGuAk4SQ_0uv9e7eUq4rMlI0yRRBHEXHPyKHmU7pWKF5TTvJ1GyDbmqHxf4-iH__9_54__cVZJCkHZKdnH3RPsnTD_TdTOX7hyK_u77wEZu76o0aoBFlitGBsdQNGTHs5rAIJxcE9v4_6InqsHYXUNV8EtcafH7taXa49rS5g1gE79K08d7G6nZDI6StudDEq0Qme5NBbD4We_L3-ffkdKPatmg6coqsiztawrv__iaCJbzXoec2XW6Mz3fkTpG1Q4J8kfKWYuJ0i3EdPLNsH40T3tBwpQ
+    widthPx: 4624
+    heightPx: 3468
+    authorAttributions:
+      - displayName: Olga González
+        uri: https://maps.google.com/maps/contrib/117521440626156179743
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXTPjtDpddF6IUoIbkPM3556LXBMwrVV76swtpDSqPJrEvYcrA7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHmK653gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHmK653gE!2e10!4m2!3m1!1s0x808447ff370da4d9:0x4477c012cbf058ad
+  - name: >-
+      places/ChIJ2aQNN_9HhIARrVjwyxLAd0Q/photos/AUy1YQ3lPx7qEInfnqiNWynVWBD_pbYnxMwwnOxhb9nDOJFI7R8xESJ1SZmJxk0QfXOy8_SBdRfxCYu4NEvzH4OGjRhduC3e78qy6HOs2Zqik_G-2_2eI_H8fITuFdLIz4-pS3y2LlBr-E2BqiiI7r4K6smWdA0UfE4CEMxmUUfYvDl7g6L_vxSTZu0EFMTCOQeBC93sSbFKe6C03JivyMiJhiXxORFxyzELua_o7gWW6wR2kcGFWoSUi3xeX4M0_LsJkUAcnnSLAaXBjuT1PlC8FcmT5Js5uXZ3hNmVeIx09QUyNKp2DjhgShbKN4ymmsJUaETN2SvnMsy8xIsYoN95_puTUVYGz7cokNTCOmPukpMCvrWW3luSCKLn4BpWHu8w4OG9546MKuIWwRXG5xFBTEGkbIWUeyYA1hreUR-lcJU
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Kelsie Sites
+        uri: https://maps.google.com/maps/contrib/108494251679206073540
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVylT7qWn0MnVwjZcgOdru7w-0FsImRkwsDLdEDdInY6QRgzcWHFg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHt6nCJw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHt6nCJw!2e10!4m2!3m1!1s0x808447ff370da4d9:0x4477c012cbf058ad
+  - name: >-
+      places/ChIJ2aQNN_9HhIARrVjwyxLAd0Q/photos/AUy1YQ2XD9T-77qeRAmBZmN3iK4SJTIEE01-jPgaso7lw7YehuF2zUCMPByayN-kvxnynaNHlxJ6mR3ssf9SoFxkGLyd-Vapyks9hzxzH7ztntDrmXXuW5qzJ9VrmvWm2K6eiKVOvPGMv0IbzYbPRxZ-HJZPj7znfk9cv82ivgUyzROgByoWnc_0EuTtTtAejQVaJvj3dP-A0o-aD1bkxs41e58V0AVAUA9FIGn7r0Glg1GXblwzT5v-EgMZtfBhdxjHd110B4Ub5QLt-r7h4BYkX4RL7mH9DqVFkmS7-UVqTCGuCBBg-bZds2c7It0cgVn43vbb6eA-Licip1XKyYDqxOyRCpnYpcAryibAvbGIqODEHCg-C4fY3-wgkFzeyQsNrwGJE_16K6Tgp9nz5OYYM6cSZI7ktwxtfr4YxEsO5luFEA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Nancy Hayssen
+        uri: https://maps.google.com/maps/contrib/108436129475244899601
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVZC8WWb2h42soI46DRb5-oybLaqFfCkhHbuxepm0bvftguzMACJQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw3eq7PA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw3eq7PA!2e10!4m2!3m1!1s0x808447ff370da4d9:0x4477c012cbf058ad
+  - name: >-
+      places/ChIJ2aQNN_9HhIARrVjwyxLAd0Q/photos/AUy1YQ047mfbUZj4IIY3agYQWiQY5CFalgNbr_SWyx7YsEeuDr2gO6IKZLLjQMFyLdxxFMf8jzRKuf4PsF_ahBsXm5BV5yJdp8ZGY3uOJg9WBXugNKVebYtALn-pdygIEzusc0a9Cva03Lj3d9a3UDUe1BQGoWlSLSms101rvHURPUeEg4rtMJ2eYaqstuUlg_XQe2KYsCIUt6zMoUuhZTY0y9TvlGgDdLokm1y-uoqvOkAx83efs9yJy3qcgUC4ufMmy3az07fBlBeRO-tDjuZxIVj0WyR8UBtM4SqN4z1GE8XE4GmbR3F1r1ixt35xID8DL1IHcjC_57eeJ1axX-cpbVchK5wYHlyHw_a4VM6hGvI01AxKAkMgdnkaamaLMdXQSKu0G-PLI5I_0IVoEGr4JOVU0vD5BXZVKxPF34OmQLE1IE1x
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Taj Cirillo
+        uri: https://maps.google.com/maps/contrib/105743875058179243383
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUflgQDvOYfYydT0L8NoHXRLD8TvdyMi0CgRoQldpAM3fe6O83FDw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw0sTo6QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw0sTo6QE!2e10!4m2!3m1!1s0x808447ff370da4d9:0x4477c012cbf058ad
+  - name: >-
+      places/ChIJ2aQNN_9HhIARrVjwyxLAd0Q/photos/AUy1YQ3Lr024dzelzcC9sErxBfFgVGtHevj9nJRW_7umgw2knAnnhOi5WfwGCh44anGntTkDeU_2C6rnhKvIlrnRgkKPVCKYcne85Ye89VVUTzMGVRqpmwuCdtIJ1iju_uu7myw5v2EaxGD0omsd7q4NRuBtba9v4XHwIRppHbiZqEzBlvJkWZuDaFKpOj7sGW3vpR2wIEeju4qZDI9LyPjh9E6srba69bjKmtn_CT1RECHmu0B2X-30508YhPUJU4Bi9cw-L1POUwRxQ3X3dqo8xk-o51xdrYcZkY7axLoZu6TyRIHzz016f7ouSidBhk11Owwjs-LbH07fzSMqPI72tiL7ydLZqX5QKYshY_l7oaQ29-pvP5wdf9NP0_zBRo0DdMjKw59buUAakVPOy2JJ17pBgW405L5xDBj82s0ZxPr1kjA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: William Brister
+        uri: https://maps.google.com/maps/contrib/113968953011734172711
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKtwv5H8Wj7_35M9hMSFEQ3QxamG4vnY07Tl_w9nYoic785Bg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwwoTd5gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwwoTd5gE!2e10!4m2!3m1!1s0x808447ff370da4d9:0x4477c012cbf058ad
+  - name: >-
+      places/ChIJ2aQNN_9HhIARrVjwyxLAd0Q/photos/AUy1YQ3D9Cf7CsWlFH3CIjbS4YZbIzw9gcDD42ToXUII_SZGfRdwVJcC_n5ihqH4owhMROyRTqgsf0g-t8iyuChgTXHIDYvWKfltVv0tR-WBtbXhYCPQXySxH3mCQ8XZt8lQUJALMxB9Z3Tt8l5mV5k_MhT_M11gaHtUDhIF-fS5YQ6k5ljrJmnBM9QH9Hic5csoGOK-XGH3i1ISLsAVxHe6EW3NB7LaH-Kig4haNgAypX_6SFpe5vmtIrKtMciGAwJBjQrB6nXV5VWiDxOFAfCcLdtD-QeTHbZzFdJbNkdoFhI4jjdIDaYRtUCUaA3UsgriOIRYJVpw7lquN9_dZMwizFHRucFwPStrzpIFK68QQsYSU2XhsTG5gMGVdvmtHhSpusNtH9iPFDCj-k7BbPERielobCm4L0uez0YIwTKJnNNZuRCQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Julie Chung
+        uri: https://maps.google.com/maps/contrib/100506996201266258888
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXpJqshCtS1W5gBtyiN2sGit1v_ms1N1Kx79WtXQYWlfOXAZInJHg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGtriLzQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGtriLzQE!2e10!4m2!3m1!1s0x808447ff370da4d9:0x4477c012cbf058ad
+  - name: >-
+      places/ChIJ2aQNN_9HhIARrVjwyxLAd0Q/photos/AUy1YQ392TlppnAw4_m66CJIkl744vJCMfgDKXmcqe3S4OtaudDJyawCsRs8X5MH_BAoQ1O9vum2aJH89aIuKf3DVC1cAFmQOc_u7VIveFu-T88-kEU-1kNIgDMrPrZ97fxWRLBC0VB6aS8puRysuw4yVgysGNXvPTZhYt9kZlQe7Py1mh0i_fBQBMYCK0NvZuQgHDZUrolg8PNmaTdKguHsXuaRw1tSrRBVXN3AgO3RWhkXfOe_QsK3hwl2mnunNUDZh2oN1H8XTXRkgvo4WybELWsxP159O6lfb1tixZqG4XO4nxz2GtAsgMsZFpgt-j75ApfQvNElT3mkuMdVkfdJwx0ruELeDlxeCKf4cgfbZaPXqkjj-9JE0QY40JbES0r28gr1nzOBDjqXnu_b5qeSCbXQClKkYozgzsLFGxugDVYfrPZi
+    widthPx: 2810
+    heightPx: 2810
+    authorAttributions:
+      - displayName: B Koo
+        uri: https://maps.google.com/maps/contrib/107098763157844559370
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX5JRDGCD9SeMiwaCCcCglOO67olIPtF6BfKsy0SC-b-JXXZdxX=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDkuZO4ogE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDkuZO4ogE!2e10!4m2!3m1!1s0x808447ff370da4d9:0x4477c012cbf058ad
+  - name: >-
+      places/ChIJ2aQNN_9HhIARrVjwyxLAd0Q/photos/AUy1YQ0_9XXRVLFu1X2v6sLDIZWvfIwOBt_6kDEp-IHDAXWuIo4EruFwYZdLpbQsjNb4TSBHPeYHAdDmRG9xjScBOJ4ICg1ORkhTM8tkR6ral5D8uhq4gPV82WIViZqgG-qkdoscGeBtPbCx2F3ndvBbXxv25iLEttPK2RR4Vvj5D6lXuCsGuWBF7cvgsukZKh2nKSz1trXtMv9WCWFe-ufAU81Z2V_9f-6tNDGFltGk-EQQGyZ65Mqt1_i4y2-pXrgiHwy5qSg2RWNHsYFWLbd9Rp4ubrZBShyKXiok3xZ63KfO5e1L6RisqRrIR2_eO5_6RfwoMR7oBS_cuLqKy696fya-uPCIbSih5Ss0FRGqNV7b5q_mORMoTC9mzvyTgE5RcUbeMeB3Mbiyzozcu0y8PVYjid7o8GvG6D-r0YtK1nyX-A
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Michelle Cruz
+        uri: https://maps.google.com/maps/contrib/113298804409180858764
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKBeGFZpPq8I5KCoYJAK5gXYb46lw6BfWxEBYWk4Ir2HiIyWPM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcxZKXYg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcxZKXYg!2e10!4m2!3m1!1s0x808447ff370da4d9:0x4477c012cbf058ad
+address: 518 7th St, Santa Rosa, CA 95401, USA
+street: 518 7th St
+city: Santa Rosa
+state: CA
+zip: '95401'
+country: USA
+neighborhood: null
+latitude: '38.442146'
+longitude: '-122.716605'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Haku Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808447ff370da4d9:0x4477c012cbf058ad!3e0
+  placeUri: https://maps.google.com/?cid=4933623103771138221
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808447ff370da4d9:0x4477c012cbf058ad!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808447ff370da4d9:0x4477c012cbf058ad!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808447ff370da4d9:0x4477c012cbf058ad!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Haku-Sushi
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Niko Niko Sushi"
+permalink: /california/irvine/niko-niko-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Irvine
+place_id: ChIJSSjngyrd3IARkTtyTx6lVlw
+photos:
+  - name: >-
+      places/ChIJSSjngyrd3IARkTtyTx6lVlw/photos/AUy1YQ2IXkYcYAX87tm3sbEgMKt27OaO5BoAu_szuvxallQv0J3MORwPzEO_Ez6HxVLN-AFMbBOeYTiIXU-OFa0--3pfaSUth9r7ECViit6ujBoihkSrIJlIeVpSffIoWqNV1k8jzhIwSf_CavF7IoKotPscNFModbFIO3RgC7t-1tppmQoeLy3Ta8ONDQzE_d_MFBEHaIS6ycJqxD0IylemaE5O-jd5gwh2Oqnb1hY7o_U2Zau_oaOA-ejE6bzV063yC0Sz119BQTswbQZMJYsqEDq7wXfXUVtczUw45lcWiKcchA-syxJkqdRM2WJ99wOx9jHrW9VpJRVqi6TlWpwlsbo6zv-yvTNDyoSGr3Gue9oTn7IpjTWxZ-cpz0_DZPU65lRVQDvoTnLhF1xf8XuNHlWedgOiyqgcFh6nJFzAITQX5mrV
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: darryl sato
+        uri: https://maps.google.com/maps/contrib/115643150886074562249
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVK5-ON1w65-ezdm-qv5qLZSoD2YlifSkF7nNPphbuCG4Is2ESE4A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDW5_jwggE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW5_jwggE!2e10!4m2!3m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91
+  - name: >-
+      places/ChIJSSjngyrd3IARkTtyTx6lVlw/photos/AUy1YQ3C1pTssSoEN85-X0PU2Irx2vL1an9ee9hszWrDhqRGiQFRd0lBY4K8fl5ZsRzzExdD95wSZuZ_bRqA4KlGetta-_CapmgWBFTMcXZmJzqRa07k_XeuXjD8wOenk9uimB5K19edaSlsNTQY9FkYO6ca5e6dL790Ye2pwe83TJI1JmsSNT54VbXEAsny5iIWU2fwNJw2fOnqp36m05dvdxmcGIQAEkzVRCL53gWeB4t_q69LyL-H9d1kEh7rTew8xk8I_ajJnFMJQdl0_0iwBW4cCe9pvZipJrqTfmAZuBuHQQ
+    widthPx: 1460
+    heightPx: 1177
+    authorAttributions:
+      - displayName: Niko Niko Sushi
+        uri: https://maps.google.com/maps/contrib/116931318867128500367
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVRE9SiL0ksZzj3UIFGGc9uV0hRE8g8AFw1ZVz8YhHXOf4PGH5s=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNQdxpeAzDFOV0b5iH7qJWrFahdw1ox0VVdIFGR&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNQdxpeAzDFOV0b5iH7qJWrFahdw1ox0VVdIFGR!2e10!4m2!3m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91
+  - name: >-
+      places/ChIJSSjngyrd3IARkTtyTx6lVlw/photos/AUy1YQ3ii4ByBBvZrcmSgpQb0Dq5Gupio-8Ht4n9fkuPGaLoCeoj2JsD-RTK--JrI05cjGfJGbDcOjH1dk4sz2ZFV_uU6yQrI06VlFxpN6tnGpi509IRCE5nwJG9w-_pY-XCY2YfUhapLltTOBxuLZe8BZW2EX592Iz59LLBXvK53QpCseSV76NSPF5uD9-7gVXaEAL1w0xIYkerQGpE1SneJv4rHt8Zr3DPWeFW6qzcmcgrH2DFYzVxXUKBcNMt9EZouqs9u4dM9URh3FymTzp36Qx13r4jPMBgG9onndS-c3UnnA
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Niko Niko Sushi
+        uri: https://maps.google.com/maps/contrib/116931318867128500367
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVRE9SiL0ksZzj3UIFGGc9uV0hRE8g8AFw1ZVz8YhHXOf4PGH5s=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOAKAG6lWKmfZPuC2pSln_jvphkW1FIzkmkrz9u&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOAKAG6lWKmfZPuC2pSln_jvphkW1FIzkmkrz9u!2e10!4m2!3m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91
+  - name: >-
+      places/ChIJSSjngyrd3IARkTtyTx6lVlw/photos/AUy1YQ2VXwJSGvyYOXzCSgkWT6ePkxmcdja_f0A_2bdb9UNFk-owdraCjM5P8AHtEnn0JIJkC4GoNaNK2zKmH5GMDB5Q-NDXcw43Oc5QaLRcVTxYhr7BTQJ7blcuMQm_PFrT22cGFvLiNUXg1hou9hSiIQjmbNZav8OtfAEfCEtTfKO4P8pAWxE8aVLmEYF606kHZ8r6x0PWu6UZTyUSosbB9RTI4g8xpYChOBJdx2W5ifqfeoYjYiKPX82wxmkU5JB6q4Qp4Z9V34i3-AxXRRhVD7LewnOv5OcttAUo-aRFslbJIsjSBZzpGNtHX7PBkVjqNjFEp1pJihoTAoFUYZG6GYKiEb-WqV61crI6jNEl036FhIa8hIpbpsRdjPzjQUc6N952R2ikl7AfQSmKeo5lUm4J9Ov8JrGJD3qbMavNfP6o9A
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Satisficer한량
+        uri: https://maps.google.com/maps/contrib/101263313152153063488
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXPJImSEfezhzp4-RYEj6WT-lsLpvrSNr3UN9sYvJ3Va1L-w3fE-Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg7r7vCw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg7r7vCw!2e10!4m2!3m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91
+  - name: >-
+      places/ChIJSSjngyrd3IARkTtyTx6lVlw/photos/AUy1YQ2ie5pzzUiL1Vnq8uOXJnpoJ9eeszp1Y8y0_G27HXSOpqW7_MPg6WR0wdmk-_MdEIlMCsuDMdzNxu2ijDV7Z2lDqwdAW3DLkRiCQWr4p0_M9v_vbFR0F4HOoDNgSDBD9rIqCEjS6te9hT3OvxTMUzxJx8RO2nVqa7w-rjXiWcoCV2OA50TQgFikzzLZ8ZVtICoufqvBEE1KZZdZFvpMz7AkOsGgKpPfoBc0JvBPwCWoM37Ac7j2p953etTZo2v9KJRuQ853TdhlkFJ0xdHwIlg2xKruYRIyp60_eeDHfLzzZBhym9UcyN1NVWjqgOlkhB4AQVmL0qQVs1rkb3GqXvY9r0PVuUcNf62x8UDXp8c-N4_1fOnHovAbIytj4ANLk7gx3JGJU8VMekTQE2S9XLUZdOwWb2QTv1hzFEs8ivkaXVc1
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Igor Borenko
+        uri: https://maps.google.com/maps/contrib/118250692227035973344
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVuMIWFEgULVwrevYpvG3Ht5dxawuqUUwkhR4lBqwW71Cq_9sg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw6sft4AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw6sft4AE!2e10!4m2!3m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91
+  - name: >-
+      places/ChIJSSjngyrd3IARkTtyTx6lVlw/photos/AUy1YQ0oqUvxE9sKY2Lqd54NJGt3P8xirbm26fnQOEgQHb3uF1a9W4E6gEhdp1L-to5blgMEvrgm5J8A9Bjq5p_aIdRz2XU89SRWoup9S1lRgUuIXzr3xI-gsR3DaewJ-Fl4fksdUKwgY1zDeYw3DcI5VtLwrL5m3LY31wNhb2H-td9KRfCqbnWsBK3Rk1HPgga3OJPvf_jqq0iyNPaQbD5x4TDwq5m83fOQ7f2J-x9Lbz93Y26qmqBzkX4pIbxQ1IczcSyydiYWeROaUtht2lm1ofPc0gakP1oiyEgAhvJfPVXFXg
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Niko Niko Sushi
+        uri: https://maps.google.com/maps/contrib/116931318867128500367
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVRE9SiL0ksZzj3UIFGGc9uV0hRE8g8AFw1ZVz8YhHXOf4PGH5s=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNRalllD7QfvzHFh7juSjv4W22-CE9jl9VJwd7X&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNRalllD7QfvzHFh7juSjv4W22-CE9jl9VJwd7X!2e10!4m2!3m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91
+  - name: >-
+      places/ChIJSSjngyrd3IARkTtyTx6lVlw/photos/AUy1YQ07ZXmREfdBO6KnQvmbl41qcbgSbmIV3oXHkf6R5MdMyjHHte04l-9M1kpaUqaT-bhuZ2MGHYQ-pyQ7VcY1LCJo2HNqL0M9AyfAcu3zMPhYCiffDTPUotiUgsHObBsuYHWWN7gvI4n8IJaiyLM7jsDOFrYfTXY0yPhOKMBPsrSLst6y4v04SI6DlUBmjagPXwybTAXhdGbFivwMueSGW5RJn3GPickdav0h8qnK3-vtDYvJuo3aEKdGaGdLG3n45YWKqQ_-jDCx8V1SRb6CgiApuBVyPn1BCKw_9etHgRedKQ
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Niko Niko Sushi
+        uri: https://maps.google.com/maps/contrib/116931318867128500367
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVRE9SiL0ksZzj3UIFGGc9uV0hRE8g8AFw1ZVz8YhHXOf4PGH5s=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMSQWIlmNNpAsJENFb73Cbz-JCfWeAfhtEbmDUP&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMSQWIlmNNpAsJENFb73Cbz-JCfWeAfhtEbmDUP!2e10!4m2!3m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91
+  - name: >-
+      places/ChIJSSjngyrd3IARkTtyTx6lVlw/photos/AUy1YQ0aHhccaqDI8-K-qBdFXothFqL2GEvEUXHAeXQepGz1yw9RAh3qzAF01WSY4k-Jbx9rT914cIex7_U0qHb2Wt85eOMOJ7mBrHnnedU_HmQkcdZFVJ-TjzPrlDfDgJRJjlg_HuV_DwrkUoRKOdWDsdiyRBiLnxPUF_W7eXmVAC4xnT91UUgqCUcW-15cds5RCbiCc372Lgfk9X6dRaag5SXQj4wSxZgqIlTdWTyQBzDz18f4y6HHVCFSN_ZJMPy9XkEiK8S5QjLc-utEBLY7jXk7H-L-Lf3TogDQemAZtllh7sDEhJuPrbhtpb_boP4KbRDm4v64yZ1S3yEso2EO4tFysoHjj0DX8VcG1ZSKjEkej4_QIiCkd8K0SLN15hGT2oD_t39mWHFL8QuiQCNEaYNPEfNKKIh62AEwA8NOKG_7oWrK
+    widthPx: 3024
+    heightPx: 2539
+    authorAttributions:
+      - displayName: G Francis
+        uri: https://maps.google.com/maps/contrib/112825114925929531984
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWaA-S6zbsQAz6_NYn0aaP7RrAEFgUHGTAzItRC3IrACsqWbu4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ1MiyvAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ1MiyvAE!2e10!4m2!3m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91
+  - name: >-
+      places/ChIJSSjngyrd3IARkTtyTx6lVlw/photos/AUy1YQ1ZE1gMyAcV3z9Jby8fCfJ6iSZwF39c0AV7FwVJna6NzbgMZvukKnQVVK9SdmXZW7mVU1gb9iqdbkdGkoyNihBpwzm-JE8GDSNkYXc8vdmD_b6SXOyoZxUmlR4hvkWPGupP3Gdh9grB1ft5w9b6It9uD9e5sNatmXWxAV7JDX9TPTgUwfwSRTMZK2H9A2TZhpbR3kkSPECdwkn0_uUjUk1v1vK8XKY3mAu48dEW-ht0Gb4e70w-7wBgxm-AQ5042mt8_lQPjq1KU5D4JM8X2q9rM_3ALzuTYMVZx8DXvWA7gwAvuJZuxiM1OUEV9CcQFSz4_GC8EPwKnt6sf93qFAa1xOSiSWHkyHpHmOw9wsku_ytRTzHKHRztQZYMTHMA6lFm6qL1uOO3K6Qk2mKNARmFhdH2YodgwYYz8tMi9W3VIw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jeff
+        uri: https://maps.google.com/maps/contrib/108122599560019381118
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW3gsxqlMyoXjvIyIAH-nAH4LFmmqA0b_KyeQZKz1-LzjH9_3ufpQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDb-_nZbA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb-_nZbA!2e10!4m2!3m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91
+  - name: >-
+      places/ChIJSSjngyrd3IARkTtyTx6lVlw/photos/AUy1YQ1SPtLd0uVTaG7acelAFeE3SAkDONGkjZ4SnlORndANJprS8wwlTkNxzuczQcOwPXwxGET6TTbNvOWTn4zBXcSL9VYl3if7yDs40EnDXqe5ai_WOdjESuH0LxTWG8Sk6hCmt4okXxJJTyfZzWjaLpIXeMH-EfO5lP5fv6QwoBKYB6Ft5l2TRu1JFiEQ7XwG8OZ2vHi6rXFnBty1a48ZqL1PkS_0s2WYdrCg2Lvr4MZWHhYHvHBqfg6Rkcgj301uJ20hy-IE8iif6ID5_y9hvl5gJjBUa0o3htFH8ihk7pUBBQ
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Niko Niko Sushi
+        uri: https://maps.google.com/maps/contrib/116931318867128500367
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVRE9SiL0ksZzj3UIFGGc9uV0hRE8g8AFw1ZVz8YhHXOf4PGH5s=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPJYXZD865-MEoRfUd6KdWcD8AVWELdEm6zMnTg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPJYXZD865-MEoRfUd6KdWcD8AVWELdEm6zMnTg!2e10!4m2!3m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91
+address: 6384 Irvine Blvd, Irvine, CA 92620, USA
+street: 6384 Irvine Blvd
+city: Irvine
+state: CA
+zip: '92620'
+country: USA
+neighborhood: Woodbury
+latitude: '33.697712'
+longitude: '-117.740761'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Niko Niko Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91!3e0
+  placeUri: https://maps.google.com/?cid=6653687049086974865
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Niko-Niko-Sushi
+
+---

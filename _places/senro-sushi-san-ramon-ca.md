@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Senro Sushi"
+permalink: /california/san-ramon/senro-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: San Ramon
+place_id: ChIJjXu9R8fyj4AROsLsHNxU4N4
+photos:
+  - name: >-
+      places/ChIJjXu9R8fyj4AROsLsHNxU4N4/photos/AUy1YQ3ZlXjNPdDIfa16NkB3Z8Bf4pFBUq6zoFNqbvcgYJ_0Qoh7LrduQFYJvVexT3ggJ_q4aCmRWwMe0ibAITNJJehp3MdLl4nhrmqkTPyhIGa4Xl3SeSLdiIdr2Jep7sVwi83aOYsvONfaz5nNeg2U75RINAKP1QHrk79DRk4rWf9DoB3ZqXGd-AXRMaHLLhmwCp5lL2_5oIhHo14VHQOYC-XsBOPkvQG7vpmKvf2-VZeg129nRi209cPEFCCHfodAnVTpGWTvo6xqsquzQF7qKzUYFFfFB8QcztZ_Od5HOy6r62E5sBbx4h6ldF1fp87tnQv4Ml1oIfMBFodZZdkl3uSVpnWowYxqGHyaEj9FBg-KEyvAe_Y_NQrjTw72a7Rt-C52Fr8RL_t-JnANlcpJoKOZk8qFU6RkQLAEFq4seydI7ecB
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: MICAELLA MARTINEZ
+        uri: https://maps.google.com/maps/contrib/106748332393933856833
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVLyMe9BqOGU-I5TLPWnxd1ErZ3cxSScDOduQ1gKHbYnchil1Gd7w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4gMOw0wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4gMOw0wE!2e10!4m2!3m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a
+  - name: >-
+      places/ChIJjXu9R8fyj4AROsLsHNxU4N4/photos/AUy1YQ3xEPqfPwf2Mew7h8DI-y_95On3EOp7k6cf_2hw7GjYJRZQr8Uer2Vdulp7EkIslrEnMZcGxO6niK5qkD5Sng6x-aLXwhCmnA37j5x9WllWx55HHsnG-l_k_AVWZBaX8qqBcIgbbPi-TDrBFTBnXJKnQsfVhEIqO4625CVJ7uxH4X537WN3SyQ5jMdPbV4J9UgYfoaclaHVN-N_U9LdW0ITOcaL9k9x7bOL6k-KTv4UGbDLUlT2w9ZKo-eeWp-_apcoaaY8MxoyHn1fz2cVNoRkgGElnrhpoLKExZoFpuzrySumD2SVY9h2Y8F__sWXA9LprnOYInOAT90RHHy4QhpXJ9fCRycQlFmMo-kyQnbkGGC35se9TbO4ieTeTMTIIUq1jSbeXuuA5F6lvdiTmOekuIQ0qKOG5zkzqYtVi1HqJcXt
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sheila Zarekari
+        uri: https://maps.google.com/maps/contrib/109148714220630986739
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWFk7yzbzQweG3RHGcM3nUrRvzpBMnNw-dMpkANgoiKsepuHkvs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGocKQogE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGocKQogE!2e10!4m2!3m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a
+  - name: >-
+      places/ChIJjXu9R8fyj4AROsLsHNxU4N4/photos/AUy1YQ33dmx9UfTnZBCmwuI0RKo9RJ0_zhcOSF3Gf_COk0b3jaA4TeX_XiuTPje_GA4b2bEUUpg6pGL3SSOCN5t3Qp2yeUrNxcBpn0xBvQu48ai8PXCxp1m-HdzDhp8d7o-6MdmkVq0-oXLrc0_Pj_vvSzxWzWsu_ekso-XI-v83qs90ogNci_ccB7iJApQPcVmkCWREXA9PE0qesXS0GsseLRJ4hVHwGesKoFr_Pzf8BQp5q-7JmptsC_uR9chIRTFDfWhn0bR219dfqg7fFpoh4GTKrs_JSgWPHTx1Qn-1Ip2JrH2USULft6mEi3LipTR7yazglgtEFWGjZae6as-IvrDXQkt1HZl8LHa5rYt-cSS9i7z7ib8-N-5g_WlXkXTg5YmXf0ixrMXNzBFCWaaNnE-hh8WgTHErWTnxmXth6TmXIA
+    widthPx: 1464
+    heightPx: 1464
+    authorAttributions:
+      - displayName: Trap Speed 1320
+        uri: https://maps.google.com/maps/contrib/107721404123505875377
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVPir16NqDk30VJ3ieukWXeNZebRCillilQeouOFFJbkgxNyPvfFQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj8fj6fg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj8fj6fg!2e10!4m2!3m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a
+  - name: >-
+      places/ChIJjXu9R8fyj4AROsLsHNxU4N4/photos/AUy1YQ14LipaXl4XE6P-n3b1b-n9vW-Ap3XpLfsQ-gpcA8P1Jla56zDArAnK3r7WboK8oMkXlpsxOSKGYMIkrCcQMMpXbS3wd2LlNOl4NederDI_VPdgbwVp7qa_tFd8-PQCrdk4bj1TDR8cuEUIanb7CtA3cRhOHm1hy8mkxy8GDhfqhBcXovIVgqLGF810HYq_bH71eHcLEd7L3hfPgoy4zn2g-BrSiMU6Z51KX7TaiLQQ5bvMH6YqlWlwebD4azj2C8gZg7Yt1deAlF3jFOTlw-fQzOuf43uziz3RzctPQ5aygWRlCQra34aODmTMcW0IuPM5LnFjipOH80IwQxWR93SAAC-GiN_DjEXOIHpNO0NWxP-9eYiq0i6rm5xlYNWEEncy3Suzn9cjIrriNEWQjSP4_N44gkA3LKeU9l5mc2k681VR
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: xiaobai
+        uri: https://maps.google.com/maps/contrib/115309954621685156787
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLoP5UWXl5whOHu6wQBerE11D7ceLwDakcIUlmLBig7HvEGDg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHz4_48AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHz4_48AE!2e10!4m2!3m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a
+  - name: >-
+      places/ChIJjXu9R8fyj4AROsLsHNxU4N4/photos/AUy1YQ3S-pA1WNMrVoTHUh5mKP8ve_jTaBf0Gx_8dENKistgGYDwi4NHYGxDbSQoRBIL5CmditUp6rnWFBYfj9xAxxv7O5-gVOI_O1g9TsHf_qVBYQt_bsLXXfO0lCSIEIDMN6yKz4DwXIBcfWJewhLtt1GNDkC_s_7AQU74JFaammMGEHHFD54AH63cEak56QItMAwHFTN37tiFXlN5PZ3cSLERXCEzYMKLbMK4-lp89a8tnPQxHcuFyY0NJjIVxtX2NQcm0fad0wPMvzbUjxputltDyPm8UzUvmKIsZ8pSaJ0dza1HeC7-6HQBEmLWyHa-OUhtXgxlxh16oTmao26T8u2Kp9CiNVHdslLWaBicvZYgTAlKAGkmiMHxZ5aREdFBjlpldJEutg1_PMzweet0FdH7j5WXJuXtGqerwf-usCo
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Tiffany Stock
+        uri: https://maps.google.com/maps/contrib/110473695100330265672
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUrTClxJY1PLAAVF3_OGQtZda3fOVTc12Ft_fzlOptmMUrQe_s=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBjKDKDg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBjKDKDg!2e10!4m2!3m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a
+  - name: >-
+      places/ChIJjXu9R8fyj4AROsLsHNxU4N4/photos/AUy1YQ3r7CTmiZDSTqjU_e_we7Ps8aNyWPGTpVrBx9LkJgjlpFR_8bJ3G43xatOr4HM6K2FYms3ASygNWJmAaVzhsnFvII8KQofcUkiz15PxItuolaGNh-TmTv99ESKsSGRmiUY2Bn3TLEDwgSt_sQd9vyJ7v-h-P1fq3yBsIvU8Bx7pJIRSKXIU8B6N-Yi1qQqPGWPGuORbIPAjyrtvPurZkMFJ_fefkjqc6mkDeKEv3qgdasYGxLu6g_tvzH-azxdS-k9eVP4HXkdVX12hmYPjGx00x4ZM6UcB7e4U2oZupqDwm88YktsRYxtXAqpe3XYNckgNgQkW_Jgu9CEJNOD199bQ5NIpFISLklkK7N6seaAIsa9U7yLc9d9hoTq8SfcSa0gAHmt_XQc9VXn7Y-G1b3TYS7Vfu0WKVHsbjagJKAymWoo
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ted Giraldin
+        uri: https://maps.google.com/maps/contrib/100578308237737103175
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXjqHXrDPU8ynklL8V1o5_EXqKwibt02Br_GAvC-pEu3yS6ryZPzg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPlv3AtAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPlv3AtAE!2e10!4m2!3m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a
+  - name: >-
+      places/ChIJjXu9R8fyj4AROsLsHNxU4N4/photos/AUy1YQ0DskSrvElvfn3NPB0iGgsNLCvyGsAPfPAdyoIodN3gEl--rAqHdwmm5pl9GN2uhv3Ghm7TBdDqkqmeG7XM0b7eHFue4ybHU0UThYlMgXjZyoXr7Za8CW1zWaMVTG2BKPzv3UtXdzILYw5Zqcxc_7sC5DMdKSXCrUOiDT5dkBOV_vHV8ZGzxNHl6wDcwEDRLAJETpj0GO4aFrCGE4b0t2Lw5heAarI-P3Nzr4YnbB69i_voQ7lyDmteZybgit1BoO7N6NOTpwpJvmPs1Atk8w_MmhNgfZOvt4frQ1b9uGpSl6FA5bqX7xNL_IDPuUmJRxsEndXTVssX6XSL3nlX4AV-PZIA92GS0EmoH43jKQ7xGC2VYy5JBS8ECWrAUk22KAj97briUhyM6cUuHZZkdZzLoRYk40Sl8xq2xWrXKr5-j2Pe
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Tamara Girodie
+        uri: https://maps.google.com/maps/contrib/118332515185929246777
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUZII-3IfFXvOOjWJxYs2cMsvcdIqDPb_JCtXlxjD3DpBjWcIg1zw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcwvfSmAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcwvfSmAE!2e10!4m2!3m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a
+  - name: >-
+      places/ChIJjXu9R8fyj4AROsLsHNxU4N4/photos/AUy1YQ2T0EzLeZpMdI-06ZW630zwETQPwLVPzBV7bsd7pF8ZO5oN3OT1Cc_rv814NcGTuO8RCB-HQikfOG3WNjO_uk9jThkKa_NEqaUPsc5g1d9YFABVZ6Gapxngro7LYnekBWfW3pQfht_g0nTZ_DBFA5-Y8s_tK6x-03SdBEHdwxpw6HYDBOpRidPq2Ev8JSCju1rd8tmer5wUDfqB-y3i7aVKtOA0bLhB4f7mq--AhrSbcYm88HU6rQDMfYG-LlNKuVKMA-rLtDPDiPwllsRHt4SPj3g7JlZdrAgYuoORnSe-13GacK9ex1g0yDX9QUZlo1BGW-raurXFx4IMuN5fX-_DGrhoCNDeEYUQcBcAi4j5gLWRr45QjT92m-w1vapG6bu0xJuMpZ5sXfOdzJoQ42gkXs06p3aWRILtTOkFwOQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sheila Zarekari
+        uri: https://maps.google.com/maps/contrib/109148714220630986739
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWFk7yzbzQweG3RHGcM3nUrRvzpBMnNw-dMpkANgoiKsepuHkvs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGocL0bw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGocL0bw!2e10!4m2!3m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a
+  - name: >-
+      places/ChIJjXu9R8fyj4AROsLsHNxU4N4/photos/AUy1YQ0dftaZodsQMqCJAVszmXJoEIsMVBFiDUQmKgzMDzdlbjRGeqfnNiFubr5H185OaaCZtaCb-0lV9KoIQ9tGQ1zLsYy3HekhClRyT0M9UK_YQXPfBVqcVy3QFAglfuUAD1Tyc95zXSTVNoKyT6ZFK6UNQ6q2hDbSI0xSfFGBIgC5MT4pYl_irlisJdBCSC9KtKHLpPfeAOG4FG2V3Glrf5naWqKIDdRJoJSNpyvGrrZWlC2p0x9KpZd-Yqxd6fDkSnWyZ25tGQU8Po3zfZdQrqsfyFabTagDcg9iVRzAJtFklztN3tDYVOENiJuk-aTrXibtpDN-v69SO3FVfxP5efsXKvzWSLCJk-H8m_3oikVqj2o2CIMBNgcNifpOWQsPlXIPYbAkVcE-EGUxkd6FCo_fWMAfXM0H1RbrbANGzOm1dMo
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Phillip Rice
+        uri: https://maps.google.com/maps/contrib/107815760955891253366
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXq4mMkS5EnUlWbMTVi_qd9NehlHbsp5KbVmWIeW4cspf6QFoV-=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICG-LmghgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICG-LmghgE!2e10!4m2!3m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a
+  - name: >-
+      places/ChIJjXu9R8fyj4AROsLsHNxU4N4/photos/AUy1YQ1RgYWpAb2he7uoyOYLL83RVjE0ZykSw8WflyA3iILX_MZYda86nvMom15WfWactfXpElh4W7InUF2CvYo73BrWIYLiZYlbFzKYhAoWdCsU4WMSSQCdvWgtVU9mZK7RquTaNAyYoQBReb2jQgXZtNB3_gE2cRZLcPl4HbipRr9CtfqU3qm7IQq2TJQRGEFoyLdReKHzaPJVV2Bb2l2K25qlrzD7KEvEgbGxaz4maAMSeh5Nb1iVy13qO7xeec8Z1gL2_kwSWDmcIpJs6yo_Udglfd3YDjw90dlFPR_OHxpxHJOPlCsq1i7WW0uAz437wfONo89t5kZ3tX8lUfARC5CpPCfGtZZPJHrScsSH_oSp7MIy8_1Z4U6tsuSQq68ZbHT_BPEzVaHfWGX1FN53HFKG8_ZWniepix3HU-21LJ1TZjo
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Brian P
+        uri: https://maps.google.com/maps/contrib/107029086045262472607
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVZVXxWgaNReyRm9eKG7rPSk9m7M_PJ09BNwuz5Pvh8hSYCGKQ7Ag=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk3Ne3qQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk3Ne3qQE!2e10!4m2!3m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a
+address: 2475 San Ramon Valley Blvd, San Ramon, CA 94583, USA
+street: 2475 San Ramon Valley Blvd
+city: San Ramon
+state: CA
+zip: '94583'
+country: USA
+neighborhood: null
+latitude: '37.773736'
+longitude: '-121.977367'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Senro Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a!3e0
+  placeUri: https://maps.google.com/?cid=16059929575558005306
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808ff2c747bd7b8d:0xdee054dc1cecc23a!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Senro-Sushi
+
+---

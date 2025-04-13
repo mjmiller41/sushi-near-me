@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Mio Sushi"
+permalink: /oregon/portland/mio-sushi.html
+stateAbbr: OR
+stateName: Oregon
+cityName: Portland
+place_id: ChIJ8aQ3FHanlVQRYdhi2Hj0uLg
+photos:
+  - name: >-
+      places/ChIJ8aQ3FHanlVQRYdhi2Hj0uLg/photos/AUy1YQ096aT-lxCoyCAzBlcvUeIg49gf_xfb5Xa7OP4b31DNTwrXPgXOHqlIQAR6pTzRJovn3Y7IjxO4AOvj0WO1h5qPX8RzfRfq-uBDhQwOuCWP_G7-iuDcj5jtKdKELW7af4bkK1KvglP1OgsI9m047KblSMbWTTrhIm1TkFjcEgqOMYAY2WBuTMM06AxiSTnr78zrt6hUcr33VaCyLBXDvtJqz_fysOfMQqnVDWIMTJVg81p5pfFo-xl3TtwQCK1bBrDDGh-bWWYNz6pKhGqnsG74O4GYqbqx-iq0vtipBqeOAWqGCIjuvmq2OAlJTZKgleNfq77aR8PS3gWeRgUzw3rjnJsW5BJ2UYesK_6S904zzoTrjfWa3dbi4nP3nRIHr10JP-OAu0wYPzje_lH5B56f9KH2ejAIC0c8gWRIGTwHfPoB
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jin Mario Arai
+        uri: https://maps.google.com/maps/contrib/107539964904230263446
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW0-DQuTNTxSc19L4rUh-t5mhYsNB-hcEXI_-Pt81H9HsHmo9paxA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDage-6igE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDage-6igE!2e10!4m2!3m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861
+  - name: >-
+      places/ChIJ8aQ3FHanlVQRYdhi2Hj0uLg/photos/AUy1YQ00rS-9uuvDQNqCmhMniSglQzp18RC9f3FgjcSPwrlCKLPxtOrDh6wahaEx-SCedey2oIQiXVWFAJt0QB_58EtwRR0-AGX-nm7tbkpSB7_8BK8uvJ-FHBRSV3ThYo6ItlKbdMnULWruC3hYOZrxjjIIE8RAamy3rnBVlScaf5_p9GCdQQjdBXdbvK2lKfpTjEztjf00sqSsLkDa4y8YgL4bonRYbWfxa-dO0zc_DtTtoLGiSKR_HUqn6hxMrwc1vjLCpgy8Aat8_ZYUQmoDhWV7LYukIzCi4oXRQtbguxduGJ-Ec7m-IUuQUW2GR_qDnpn3lH-LgO4DcGwVd27fBWEGg5lo4AVen0O-dny1SSBy32Ao_65zNIcTFxz4H_1CDwkerkY4w44k6H9S4GYP5-Z4zbrq_ExkzveVT2qyOOzAZA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sean-Tyler Curell
+        uri: https://maps.google.com/maps/contrib/117758138335300700283
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLsCkg-f1L--I3urioZI1BJFbk1JURmpT6e3WySKakn_Nkw2w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvm9ijGw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvm9ijGw!2e10!4m2!3m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861
+  - name: >-
+      places/ChIJ8aQ3FHanlVQRYdhi2Hj0uLg/photos/AUy1YQ0Hh9G6s9sq0bURllj48D8cGtvwFcMT3CXZhCdUctOKWY3bETdkLuh8Qrr2T8zrnaLs8Lmp_pxqfF9CQj_U2YPB8F4G-cf6tkfzmGb2xiAPIt-TuytbkcyCFlxvPFj7lxsG0ngPRuDF5Y0RDO-1sDJPWMZIdLvPJc0S3RUFepoQPvA5nORG5fi8VCeEINOSK5GjFULPxvZv2vje9v9tgshVirYbDYH7M4YGfv486wp42OxlcYJN0dCDar2U45SOaWOBYlBBjikOfXmiLWT1-Srp-mmBnGvrQxu43qLYA4l8_aTxEvX9gqd3kmrTWFtiGIXGc9yMdeC_BhyFT2Th0G96lJ2005ffmgWfbhihZaIvQsbvyiScB0r62-gI0P7ZVhSq9GXLBB9MPGok_xKQbyiOxJbESL_5UdicIyFL9c06HYmn
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sergio Madriz
+        uri: https://maps.google.com/maps/contrib/112240505212999193406
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU5tB3W68pYiNFtPhhZXO6Alr-b4duDeNF8yzD83J9iQGViENJf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOjNz_ugE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOjNz_ugE!2e10!4m2!3m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861
+  - name: >-
+      places/ChIJ8aQ3FHanlVQRYdhi2Hj0uLg/photos/AUy1YQ32hz3kwvzn6XIgAogcGKZXJKOT8vh4xyz0dXTkwBbRLJoxozz0WzaP9oGH4pLzCX5sjRZFdpTXOActcgtbU--4S0KHNTMG2hQNlgCZ3HY0KxY1WyTAXZJJSKQxmYDQtYpTri_1y6OPSqlqBkr-9lz_lYmDIxNJweN8uzuNhVl0H9yr9uyy0UNn5R9qz_Owv4LKIxIvGjqTtIhk21JauZZXqH63q_iQTOmLKfKZ3rlUqrt4GQURSRbdE1J7T_3yd6eyXgEJQXutqL0-IDz8QXfloXKl7GH6nmyLJxuH3iBR_LYPNUps5zXB9jmEZRKts98hQyZvJzsazhhuAQ5mMbWbuWDjrBi4s_Or69oJUuDYHy0xXic5am2WIJ3B7qJ56EswaAt0GrhS0_mp5D296LaCWufVztEemBS8vWzcfbzzxx4O
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Masterkael
+        uri: https://maps.google.com/maps/contrib/100860546105429028781
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVTdkR9f4O3A0-p-3pBef405yWC4ObNX5R7Oqj3YTfnczxVKgIv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcvMHV3AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcvMHV3AE!2e10!4m2!3m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861
+  - name: >-
+      places/ChIJ8aQ3FHanlVQRYdhi2Hj0uLg/photos/AUy1YQ3s21KN3f79iDl0wFauVxLobmSyKwX3GeFvV-yWKgnkr2au33wszwpX2aCF4F0IpT2m2VCb2Ogm2b-MqHlbwf6iWBIdr6M6bIi0-TLL8rPBLYI1jygxFxeVbh6YNeMlwjpNDNSvJU_K3Jk-9wlZ_0no6N96W4e5dxdFC4DJmHKIWC_OOCgRIHE8Uq8RaD2v5N4eNoA9gA8r_6PPaHpQToHciNu_LbcOcgB7ODr_hAKNRq2Trt2kgSHXvD_OWba7Q_-Aee9p7wpXaz-DKnZ4sye_KyHlKX1BcqWAoas5ZOHDubRGuH6es248utquhnXyv3StirIv0sRIw670pUeSicC8oNGvaG4qVzL5iEnYUGtcBmICBxlqv32W5UZ_a0ScX_mJIp9OTAk15g2hLPjtxpS4pfMhBa_pMTcuCepDnPrtSX73
+    widthPx: 4608
+    heightPx: 2592
+    authorAttributions:
+      - displayName: Jim Au
+        uri: https://maps.google.com/maps/contrib/109931171030827740006
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhEwHgSE1cKhuyDJffs1pNJ_6eSdkvKp5_5_OpoydMJpp36ac=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICpu8v9xwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpu8v9xwE!2e10!4m2!3m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861
+  - name: >-
+      places/ChIJ8aQ3FHanlVQRYdhi2Hj0uLg/photos/AUy1YQ3cDwHvPGtUidK2GU41y5IQ-5vRX38CN75NcHFk4Uvbb3l52J1npPpvQwCVymKIeKw-s_JU2l2aZKxCNja_h61NVqPvyHlzYNQqElV9MkrsbNr9KbpiuVRGgviRThbA2otYBksZL14YgGl-iv0bfILqVj9tLIBRZjLJMRL5dVKkwsC1w7sBpkoCt6mq4nu66VcCTWy_XvnnUCUCd8MWbz2PFyvfGtACSNQQKzIktxGlg3dZH3K8dzeqZGCGCz7fpBbs4t3g7PWhIbHjFxsxSndSxlzqD8W7CHpn3BThgcVLnMQWAALoxMF3rCGFaikvuIi2jkszT_IS40nEp0psjmarT3X5XICYKj5SimxqnhFIZWu8FehNBaZ7A9t6fp00UFSqYMEqED_XGZHMRkGuK0OcoM8MNeBKKYZG1xfnqA9MqQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Faru rámú
+        uri: https://maps.google.com/maps/contrib/108701743829700875144
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUrvd_R3SGsWUzYLxL403C1_hg01pv7hLrdvSmBHDkpNYnMM4VpHw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID999LyNw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID999LyNw!2e10!4m2!3m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861
+  - name: >-
+      places/ChIJ8aQ3FHanlVQRYdhi2Hj0uLg/photos/AUy1YQ3w4zY9tiP5dNyFwQjjixlpwLHqA1oRrMUbAaQxTxKMq79TZNEx_CrcqsriChmRmHTcqSZ-eTAPNpSdTpMXUM2wkny6RJ2SlYPXb5eSKj4VmXWvsFB67mPDel0elPW-qAVznikaJmyDur9aS7QZDjLiQ7-ttzVLNdDKbUffru6JBDo-na1eje1eCQsZTU0kG9HGN5bfh1dXKmlUE63qPOIYSekqV12PmgF9RAHgKi2qbgLCMMpI7X_RU5qWX7xzQLz37sm2KfkyTPWgtc3zrBaDRoSh8gG910VduewHt3jfpPsqFSDSTGalZdYO7McVx-kV-R8m7gC01mT4llw4vKgbQEG_bbrU1mcUuspZblr_LXU8PByEfOP5ZW9nqeGerzGxcXOSZ7nTGElK3_SKekW2oJMgigHlTv3XxxPjB4A
+    widthPx: 2700
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Jennifer Ponce
+        uri: https://maps.google.com/maps/contrib/118287249599538445284
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWw7BlKBTxyEU0jzVCX7bJuVQV4SfJCEETqtt5yr0jXYlnpklbQmw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkyL_Ffg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkyL_Ffg!2e10!4m2!3m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861
+  - name: >-
+      places/ChIJ8aQ3FHanlVQRYdhi2Hj0uLg/photos/AUy1YQ1qASuRF2QDrfML24VERWyOnaW_exYoHU0t_i9clL9o2oZ_oq-1NfLXa0DWunwh8TSUNUkNyu1-ehLbNGm6KAq4qSoB1M3nAuecM_QhmVSwiMTmK0nWmtI6yfj9GDB5ts4BMjHF8XpDiFijLwpPLjN9vQRJ-thmP_8g5mlAOiJ9bZnxtjeEAnwPRAIbPQ6RiuCQBGo-iDwY_vuhafh8OHxnHMtgflVMNhBVEEWiQYTBTLXbmdwzxqb6WgiTewMWhh6jQwvnp99JsmxaGsqMN7rnl0hy1fWhXPbtw3UsK_zfIxTeVlcL7Gv9l8FwsIJx6k-03lyPX0pMi61u6cmyRkwKqJxUhAiVAWqX59Sq8yS5T7yc_LqrA_oBn6iUBwjc1SMe2jzPFybCg9_ck4GTfo5mING-kunz5-7IbIs0-zuQ86ui
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Masterkael
+        uri: https://maps.google.com/maps/contrib/100860546105429028781
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVTdkR9f4O3A0-p-3pBef405yWC4ObNX5R7Oqj3YTfnczxVKgIv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcvMHVnAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcvMHVnAE!2e10!4m2!3m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861
+  - name: >-
+      places/ChIJ8aQ3FHanlVQRYdhi2Hj0uLg/photos/AUy1YQ19Jw4GIkimAZu17Eotob7Hzsg3G91IVVKpFbLEycGRO1yeCu5o0F4IJZ0lLwv29fYmh-VI0n2CQzg_eroRlpy1ra3bg5r1a2cRTaZSZgsxmyhnRwDc8ws9nWgj2Zy38FWvOijD64-AL9o4Hr8zutJ9I9SQJxavkdDnUhvWvOSWlA736UbMSTMVbNZuim0mVWPjIDmXobNtDBVoICfaxtzRugc0pmLoqR0mClKWbn3AISCCIrhMjKS2Q8xkFQvV0LCzIaB7yrAQwihTH9Yl6_32LuxUqGrpP56HecNEhmGKQIWX_DvZqNzPsKGk7zALwU1lE0zxAJEjmm7WuoDstWWTNdLR-ryb38N32oYlQ8qK0HuIN9Q1pIuoGIL0Uq63VeLWrw1yI1Xh-jMRmMLtnCo5eeLQ9yEZaQqtbny0aWzThQ
+    widthPx: 2560
+    heightPx: 1920
+    authorAttributions:
+      - displayName: Lupon Sensay
+        uri: https://maps.google.com/maps/contrib/107991517404786856727
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVjFFGw4lAdTGY0klFdXrSZjI4ilc2dKdexPq4BqO02hBLRxDBc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID079CKcg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID079CKcg!2e10!4m2!3m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861
+  - name: >-
+      places/ChIJ8aQ3FHanlVQRYdhi2Hj0uLg/photos/AUy1YQ15NgUnrXRdzKZ2Yyl0cXRU8zkvvLeSQotTXdtDFP_a3S1u4DCODVS13lYkWwPsSUtdfNusIx5Vvki77MP3gOrQ2l_XkWcRa3QdzmdTAHSOPz8uz9FXe0MtILonYqTYjOftAF4Fp--ycM7ruEoSJOwtJWLesDvlBFCH6753V3sk9nWA6o_kFQy6lNFWlIlCzgIGr84V3F_W-6WNYZKv1Q8EeJdk7TIMAEzRl423JuaCzZUPq4-nufkXO8CYK1cFiv0RNWtsGOlfL_NP9EaFwJ29T_yeHWjjLAjS4HuGsTQMAkeCe9bkvS9OBgrGvyg6Uyf6Ebwba-dnr28CKecCj_yXMJ6jdM5mBc00hQosLrbYX56pCkOj2wxoLo935ORe2jC_EYP9BgENttR89jbnAhfbmv6sD_gQCDZIbM2s77nr2kYT
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Samantha “Jules” Bricker
+        uri: https://maps.google.com/maps/contrib/117607545678631248775
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXgfgOuV76oppuucn6xreH6SJ6GKaH0s7V5BEG89tNPw9KeIiDg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICm9-uI-QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm9-uI-QE!2e10!4m2!3m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861
+address: 2735 N Killingsworth St, Portland, OR 97217, USA
+street: 2735 N Killingsworth St
+city: Portland
+state: OR
+zip: '97217'
+country: USA
+neighborhood: Overlook
+latitude: '45.562958'
+longitude: '-122.695378'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Mio Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x5495a7761437a4f1:0xb8b8f478d862d861!3e0
+  placeUri: https://maps.google.com/?cid=13310657498557110369
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495a7761437a4f1:0xb8b8f478d862d861!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x5495a7761437a4f1:0xb8b8f478d862d861!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495a7761437a4f1:0xb8b8f478d862d861!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Mio-Sushi
+
+---

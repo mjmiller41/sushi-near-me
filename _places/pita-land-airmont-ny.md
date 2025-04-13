@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Pita Land"
+permalink: /new-york/airmont/pita-land.html
+stateAbbr: NY
+stateName: New York
+cityName: Airmont
+place_id: ChIJM6mqDG7nwokRBGYQXAMjaeg
+photos:
+  - name: >-
+      places/ChIJM6mqDG7nwokRBGYQXAMjaeg/photos/AeeoHcJVztZSabpSNOWBp1jtyboLFzvSOOkjMJk3-N1Y2CxYecu5bKbIeFsj2gjQSCMGFJ0adKqegAV6JhzwC9qkAVFQZl2kzPBZtTVox_KJctjt9z-zkMq09irbjkQ88UPA2CBCB1ElIzGD0cBDPwHs81GGSMkkDuLvinTTmcf86GbSsySYYyeXz4lbSqwOgUIVu2P07gKKcyRFSzjb_SoHmuYeisnugX_qOur3QAEoDoNww-7bHrH2IDYus14Um0-lzC9nsI17kqTvTVLjSpqdwIlLRmiFh6L1tEfEMbTy4vipPw
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Pita Land
+        uri: https://maps.google.com/maps/contrib/111748546800418363683
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKLMzBU1sqnBBRWq8BQzVZ-BXF7I-sl2pgepS_FzkmaPMoqKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNKL2nN_SmfmcpnHaPVGECoRihAh1DfcDjqpoRP&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNKL2nN_SmfmcpnHaPVGECoRihAh1DfcDjqpoRP!2e10!4m2!3m1!1s0x89c2e76e0caaa933:0xe86923035c106604
+  - name: >-
+      places/ChIJM6mqDG7nwokRBGYQXAMjaeg/photos/AeeoHcJMZybA6tuBMCiHYrNdX_Esc5gEgsR3DXpbcKSmwb7-WKxdurenppbWzD8-ShnV58JwYD1nCTm1sGAIrT6vMTk2j5AbZ0yG1CDbaU-V9Lkeyi1fjrgbAQLHKiXqJiwjmhJBrQ4X_azjjH-ezcJpk7S8asCGCbbSHZo51N9bc6odMui9RooaiiJGB-iLFDfHKk5AokqSpzzNGCmfeesyv1asVVE4yRGwE6q528-AbQmURORE97zo9u9v98uYlDp5rOT2_ukQ-vUsu-EhG310WAHqtszGCGhuMKAe7pR1RV4VWA
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Pita Land
+        uri: https://maps.google.com/maps/contrib/111748546800418363683
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKLMzBU1sqnBBRWq8BQzVZ-BXF7I-sl2pgepS_FzkmaPMoqKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNh_urkyxLmBQFXBozSSlhN3_ZvZ8XRHuEAvl7z&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNh_urkyxLmBQFXBozSSlhN3_ZvZ8XRHuEAvl7z!2e10!4m2!3m1!1s0x89c2e76e0caaa933:0xe86923035c106604
+  - name: >-
+      places/ChIJM6mqDG7nwokRBGYQXAMjaeg/photos/AeeoHcKQaKQvWJQE0lYwpGF1YzSwLd187LoJmpe2KlrwBNzhcLIXuRVHAOBCO6qWhKvFRdP3RAwOA0XF5A0dbJy9oW-VEsroC0wFMRsu7B0K3ZKdocCPbz6y8F46zV8Sd6UeXCFAJ5DlAa6uem9YgVF6QfpK58PFUWLW5-rBQa9AuMRX4ZA6Sqm_wUUjyadCdf7wDx_FA2xwaEA0FFgXTldrxXDCgrsoDld5WHOW4M2NzE9P3g8VRByEzu0Io0BDmaH31MGna44BdDS6EOur1v9eSaal4incX8uHAvmkt4BQc5iCOQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Pita Land
+        uri: https://maps.google.com/maps/contrib/111748546800418363683
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKLMzBU1sqnBBRWq8BQzVZ-BXF7I-sl2pgepS_FzkmaPMoqKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM_efI9zaLvW-cYjWjujc2SY863dwqlmLfVtZgq&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM_efI9zaLvW-cYjWjujc2SY863dwqlmLfVtZgq!2e10!4m2!3m1!1s0x89c2e76e0caaa933:0xe86923035c106604
+  - name: >-
+      places/ChIJM6mqDG7nwokRBGYQXAMjaeg/photos/AeeoHcJo8BjK2vuqzZ090p5ncXPOku6WSZuwNrY6dtciRN4oB7IfO9zIYjmRfru9MlHf6ua3X9N5t5u8u0qq2ORPkIuCRtRkDJCNTnZrvNaoDuNkfEWQ6Be8EXfj2HxOdAapqUSlM0gmQxmbj4sQuL7wWsU5s4Tn9QWxrspkN7pVpiTHuPfUE0V2MLu0VHRXAic4dGUS9YxX8Tl0Ln2eblNueBFl_hyS1GmUrZB6uCuQE0q64EiHX2OD7WTRc6Jgue9dY99D92x7TsWgv4-9qzyFBaKDQkQ_2rdvOivWXnYvpbFDlg
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Pita Land
+        uri: https://maps.google.com/maps/contrib/111748546800418363683
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKLMzBU1sqnBBRWq8BQzVZ-BXF7I-sl2pgepS_FzkmaPMoqKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPPZKWXM5w-5SNwMzZgXB4Zi0tuxwh-JrJfBCnE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPPZKWXM5w-5SNwMzZgXB4Zi0tuxwh-JrJfBCnE!2e10!4m2!3m1!1s0x89c2e76e0caaa933:0xe86923035c106604
+  - name: >-
+      places/ChIJM6mqDG7nwokRBGYQXAMjaeg/photos/AeeoHcKjLNh6HEZp7euz7UCthBKxIfO_4arBNgwxVTKBChZZsWQolPFxH9qRLLybEkaM7HT_9oHC5heBh9teopVhLCIdtNiwxc9ynEiyXY0OfuXv7yBtJ58YCrMop_YAy02JYkdCx-iojkfl8T9e94PHCC_Jb9IJVP2sFsc5jf3kcLxac6AIp4Xe2jjwym_4cqiEyvvnh8Ijb7v_i9mph1M-7mO4C6F4WHTGXE_LqJfS3BvLQMktE5Zw3svVxtgFsNFcRXH8QGmIS78YN0jWnQF0-PrFl1hQ5GzjrjpnlrdRVvIagg
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Pita Land
+        uri: https://maps.google.com/maps/contrib/111748546800418363683
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKLMzBU1sqnBBRWq8BQzVZ-BXF7I-sl2pgepS_FzkmaPMoqKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOGvgep-Vuh_gyxjXqqXbWKtgp7_AFrivhaHHy4&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOGvgep-Vuh_gyxjXqqXbWKtgp7_AFrivhaHHy4!2e10!4m2!3m1!1s0x89c2e76e0caaa933:0xe86923035c106604
+  - name: >-
+      places/ChIJM6mqDG7nwokRBGYQXAMjaeg/photos/AeeoHcJ6pgHCoKaExX68PcoCZC5hFDDiw1eoVsy-7i_X5syuVL31TKKn0YKIKrGu2lalykinAvy60PkIsqWlGCvKtv-SNVzYnLTFl5P9PWUU6aQyD5LfZlepQvX7PAdJCBZ3HMy_LTyIhmTcF860uviQ8aihqmRea9zOERze81eXh4faUDp7OguN1TcUgzoxmqrUd47JA0RgmYm4SLgrLRdJCJ643Dngc5LIG4mPRlafqHZhp7zjUSts2VXBYXI1MLr9zGhv-j9cZd-tIdegBK5BYVjiQU1r4KCv32-rkXwkbYYMsQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Pita Land
+        uri: https://maps.google.com/maps/contrib/111748546800418363683
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKLMzBU1sqnBBRWq8BQzVZ-BXF7I-sl2pgepS_FzkmaPMoqKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNfSUS74mrbRBtbqbKAjejTaXGj1mRUnPYOC4-J&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNfSUS74mrbRBtbqbKAjejTaXGj1mRUnPYOC4-J!2e10!4m2!3m1!1s0x89c2e76e0caaa933:0xe86923035c106604
+  - name: >-
+      places/ChIJM6mqDG7nwokRBGYQXAMjaeg/photos/AeeoHcJFj_GAQP8ZAzaovuEOftyEn4xjpOFtKD99IldJ9CY8B0Izf3wQLpCWkIyzonAPCiO3tku29QAwu3abNLdj4TqIusJNpTcnH9J-_e4VeAwRYEdPSVzMXbQmQq9_-KAxXqVnUJgGoeE7qNkOxpPez5AliLl1vAILWUBmiM7CnjWAEoQ2syXbUYWqnh2d_I61W5Tfa2wPAID_-K7_HFNU3NV-QRPucbuUgGqYub4FxXDVcrHdJnL1osC1wD5hVeqOl54m1pDNb3l899ZCLkzesf2DIromxiWoaiTcZNbFiJryrjhkMgYyVF5tnGqYqQI_5Ocwe8YCUgf9aoiR906svA-4jRwn0WlpHCWc1zVyIpVgAJJoN81g9yW7I7vKPah-iGF4qxZePqjIBKvUu77vA3HFlqDVNxGmr4HaEWKjjtSldAEs
+    widthPx: 600
+    heightPx: 600
+    authorAttributions:
+      - displayName: John Berko
+        uri: https://maps.google.com/maps/contrib/105717427288957667698
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIVnD08ccgf6kcNCs5BltML73siVVg8Vol_88W8iJIviqzmMg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkiefVigE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkiefVigE!2e10!4m2!3m1!1s0x89c2e76e0caaa933:0xe86923035c106604
+  - name: >-
+      places/ChIJM6mqDG7nwokRBGYQXAMjaeg/photos/AeeoHcIGWJuu2LN1SHFHvsG20y3KRKiJcZOepawrrqmrIV8LmyBDZYPNP6v1N9Umf42YdM2WdgKMr9sCWKQoK9KKWPA0IhZ7SSe0jnytZzrUyMObJicNZu543_TIs5SspEo3jXDiCdq_gddb4r6RjCvAGbd1S_EqRl__rFanvvrYlY6-egSXOWfwDyGzznmAJxXrsg8nuMU-3S_nBfoh6VkRQgPjEc7XwK4NG0MjiLVRGUnJUBIIpa21PQcljRryD76-Nln5hwJOOI9IVpffjPw9WDLS4pTHHlZiiopR8bGa1kn0KLPoaOgy-JU0QWntNLp11I4jj5qoLXDuYhGxGR2EGs9tbBC2dqgyOmg4Nz0RvUzMGZ8yk_a1E6hOPnrogXHRlFvFa1hfh1aB3U-_5Kpx5vni97RBsgYyHBb7L573GoHSGyt-
+    widthPx: 4000
+    heightPx: 1848
+    authorAttributions:
+      - displayName: Menachem S. Brisk
+        uri: https://maps.google.com/maps/contrib/100073828565434441803
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXvod87X99X_rCIv7f-Aq2keHIEAI5Uma3uBF6OL7d5eHydIZ9UsQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT2Zr_2wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT2Zr_2wE!2e10!4m2!3m1!1s0x89c2e76e0caaa933:0xe86923035c106604
+  - name: >-
+      places/ChIJM6mqDG7nwokRBGYQXAMjaeg/photos/AeeoHcIu6LjEgTiTBLIL8hDHkLE2_JSGc9Yl84vTMljDZ0wqh32bI8eTA9QnZq5WbZWSPz1fmuZZ2ystow3I_oXdFcp_Z--ZinmtjN09s8wwgXwRtVJDRGSva0Zofvntp-Hxx3jICLnC7UvA-wJ_9LBXRzvmqa5UEcdwSobEQ6vaclzJDCx7nNk1-IO-huLfYC0-A9BNP0j8j0U7VuPKgtCtwVpO5Qk4D78PADDpzSvZWCa6ZZ0Hm5lE8OPoloszYZNT3wuP8cFZpiUr58cJfm04TqIT-pzKP83khHtgtg3kaCJP3A
+    widthPx: 4800
+    heightPx: 3199
+    authorAttributions:
+      - displayName: Pita Land
+        uri: https://maps.google.com/maps/contrib/111748546800418363683
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKLMzBU1sqnBBRWq8BQzVZ-BXF7I-sl2pgepS_FzkmaPMoqKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNwx6Oa6AorRXCieXmboj4IUZSvj3rqC0h1ekM3&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwx6Oa6AorRXCieXmboj4IUZSvj3rqC0h1ekM3!2e10!4m2!3m1!1s0x89c2e76e0caaa933:0xe86923035c106604
+  - name: >-
+      places/ChIJM6mqDG7nwokRBGYQXAMjaeg/photos/AeeoHcIIagNjPNHZUHf0EHKRRPeP6zPG1wxd0GEgZZhNbDURBwoqZ9x8ND-g3N71I8mi4KKn_tvq-iY1to96GLPtot8rdKxa9w9d2ZH8Jsyb6vj_Yhkg2U3M3-7C1QiBvNRNdI0HLAKb4TUAgAe511rkPI42bgxTJXbcHvRlocsCivIilOFgEQuLf3k39BVF_mR2BazoYq6DDi4Fqw54yd3gYICv4mOyHbylK7USPXLxISnHcvPNmiaK3CMY588l1LVUoLzu_bRnOSckdulP5O1BDvicjF0Q8sXKyCiL2AKexcV48Q
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Pita Land
+        uri: https://maps.google.com/maps/contrib/111748546800418363683
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKLMzBU1sqnBBRWq8BQzVZ-BXF7I-sl2pgepS_FzkmaPMoqKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMCis2UbQktDb776hB4InzdO4gajpuv16QmCWuY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMCis2UbQktDb776hB4InzdO4gajpuv16QmCWuY!2e10!4m2!3m1!1s0x89c2e76e0caaa933:0xe86923035c106604
+address: 408 NY-59, Airmont, NY 10952, USA
+street: 408 NY-59
+city: Airmont
+state: NY
+zip: '10952'
+country: USA
+neighborhood: null
+latitude: '41.110477'
+longitude: '-74.090075'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: false
+business_status: OPERATIONAL
+name: Pita Land
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c2e76e0caaa933:0xe86923035c106604!3e0
+  placeUri: https://maps.google.com/?cid=16746955186690352644
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2e76e0caaa933:0xe86923035c106604!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c2e76e0caaa933:0xe86923035c106604!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2e76e0caaa933:0xe86923035c106604!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Pita-Land
+
+---

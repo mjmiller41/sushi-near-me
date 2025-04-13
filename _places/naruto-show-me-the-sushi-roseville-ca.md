@@ -1,0 +1,212 @@
+---
+layout: place
+title: "naruto show me the sushi"
+permalink: /california/roseville/naruto-show-me-the-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Roseville
+place_id: ChIJZ3DtM5Uhm4AR3uLDcoq4PTs
+photos:
+  - name: >-
+      places/ChIJZ3DtM5Uhm4AR3uLDcoq4PTs/photos/AUy1YQ1lhbanZaJnXnHSVohs_28x-P6bWSmCU5tH8Zmwjd9dtoKxPLHebLOL-HF468LpzQR6rOJCUkuI_vRiLKEpNq76uis4MoKq9i1hDryQwCaQA-AqqGFATa6Md6BziJHWlrcb-KYSs7_Xq6bdJKHcMBzxxEjk18kOnXt9a8XZpa8HZHCu8X9tN5U8VZE7JToKkkC5jlUU4xdN85gfgmIxLfpzqj5_mUqr8Dx6iT5VJrvOEVHzxZ14-jS8nx55KRC3w4hN8VqHbhbids0HSkZwxeN41ujV2rR5sdZiC1dtOJjdMw
+    widthPx: 747
+    heightPx: 747
+    authorAttributions:
+      - displayName: naruto show me the sushi
+        uri: https://maps.google.com/maps/contrib/103201207602577833518
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVJsDOyXMOOihwXZdAxITfQ1xe27xg-gYQflLVbphEBYreykKs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOJUkGPavGR5EL0ArLBCbCAF8X6HqhYdCCFU9to&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOJUkGPavGR5EL0ArLBCbCAF8X6HqhYdCCFU9to!2e10!4m2!3m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de
+  - name: >-
+      places/ChIJZ3DtM5Uhm4AR3uLDcoq4PTs/photos/AUy1YQ3Al-Bbu6zT3C-Lxx63cc5XE3vDxKbXiOn8ElplCb7yru94_9TOj07KOklRmVk9n5K7I2HdH6-eIopjxMykrwlYG8Yg7O1YqYIGZd1M-DXcbpdR6satGXvwvB2Mbn05ElKpiR5Fq_It1ahYkamtx6XXrJPBP6nbu20DveyqyEOW5yt30kOspKg3Ed2G5L3-4BJrbD8v00wP1Izu2BJyyGeX-Ln0efEMZur7BHb_P0v986Qh_k-4U6PvDPeGLcBZWWsFj53wu262ITHxPHECoUk56R-ewXcihYG50gI7lYOZlzLTsQV_hzP41elvo5IhaJraRSl3I30wExBa2ax5vMtxklZWNvNJN2NjqSe8ej9GJ2L6A7ixYC6RuhU1a5HpWKXQCYMMJ2oessob6nPiZk1OThc59lkCFw4_6cwkYsZbxw
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: M L
+        uri: https://maps.google.com/maps/contrib/100987800803767739235
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXL9EJXcDcRZejgg6xVpyCH0pRybkvIKXGK-8Q4R7457pDZTpE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID066qmFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID066qmFQ!2e10!4m2!3m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de
+  - name: >-
+      places/ChIJZ3DtM5Uhm4AR3uLDcoq4PTs/photos/AUy1YQ0Df-X6wEvTnfEsFg1bbWlVGpkeLThgg5qz2Qy-sdvZcwOqmTkGx-hd9yyUry0liVQNAorqW3yW-NiCkVPTGvv8jfiT3Gqd97N9_Ng2_w9_WB4SfJUJ7HSdm-kjpnTu-H1ldps-yk1lV_XY76BlZmxSw9JluPb0tp6ASNAqCgXEOhTmPtpxBVKHdk_Q-UlIGfJq34M64jz31XjTyd0umF5GAa2Hg_v0AmWcBsCAfUgmyivBNnMnOyqPiyQnL0GDh7bi2Tcoga4-vg-cJZuO1CYd_xYlVUCmJR1yqEeSvUAG6zfCdP_TiQpEEI0kNDSCI6hibG3GQJF0Pirol7Hd-XyueCQwJ8bpTdG-U7eTZXiS3Rsc2OuTqc5I2AKbrmR_Tt9oUkA_6P0Xi8imgDTgmNTpoUI68hafkfHGJmoitKKsew
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Josh Saddler
+        uri: https://maps.google.com/maps/contrib/100207378050481810245
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXa7O2N0uiFR50jNCJoBJUHwejCj_qPr0bMydJQ_Kx8S-3M85ZT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLjPjXSg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLjPjXSg!2e10!4m2!3m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de
+  - name: >-
+      places/ChIJZ3DtM5Uhm4AR3uLDcoq4PTs/photos/AUy1YQ2OG-SPWyIQy0j6jLi8-b-AGLs7kBNmg3nxVkCkuc5RjttbrDPuPuq8jBPsTNvAVOy3OJjTl7JimQjd0uhDnmC68tUACOszLgr18Eil25CEjvOydOHl8CMXXaqTxn8KCOaqSOYNwNTMNB1D5qX2JQ6WESWJWdj6HT8eZagmPbAP-2VsMvWErLL-M_iIqvYV_0Mz0QA29uyKspDXlL-5TRC4QxBDRSPyhCEs01LfXUybSr84xeQoFFo6jMC-7U82g40zuQjqA4zp0GM6ATS-RDK0wRryDA4ZopvTOY_f1JBneIa2FqJ_oK5_5aGyhb-ZYC8yKtNn9YWZuv6vZrRU3V4mBfFUgtf4igm_2N5zzR_I2UoB_KrnzOLU05qFidXip_ahxg7m0cJ_axAoT2IbSdWbREUYklA1QYyHGlYfyG6kHQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Robbie Xiong
+        uri: https://maps.google.com/maps/contrib/102572949895585134358
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXNHk8fouReB5m3BnNiXlV7y9xXI7JBsAQKXwm_bQ7up7nOV7zaCw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4tufXXw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4tufXXw!2e10!4m2!3m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de
+  - name: >-
+      places/ChIJZ3DtM5Uhm4AR3uLDcoq4PTs/photos/AUy1YQ3PbH0hT5g8jhHLZRNAuRNpC6WNIboJCZHXPRhxhOwp6C88EeM-WYFMzBhLkWcKkQ8cNJpZmJalu7d_Ox_soQShZtQdZYuGiB5UCiENwDrO4KimbnF8kiaYGP-KBGydbVlPYLsgKssMH8k2FMKjp1Uqx2KQnnZ7EScoJxba4JpJU3m59SfLl-xI_5hZ6f3-drcZubpCZOsRQlBHnEat77mOXnRwmgftSGJkdsVqOFk_7z8jRAzUg8J8lMOvYOnae5rZNidjRrYr0MAKeI6qCP_OcynVHdbQZvPHGucns3OG8nn14QzyYdN3RGNS9xpSv1KS5amPKn3L3tJ98nkiEbNa_U_BoWtZVRvNtZ-jRG6lKZlFryEcO-HIr3S6DX8bPB4l-UzKfvK8FjrD1RnsALlKVAqPnmz-DRqpEzxD28XfTQQ7
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Abbey
+        uri: https://maps.google.com/maps/contrib/114117788430241873984
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIiI_-u4JFwVXbPwLPOKHWekkygcvcBURopUDLdZZI7R-h2qA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9v4-Y5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9v4-Y5wE!2e10!4m2!3m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de
+  - name: >-
+      places/ChIJZ3DtM5Uhm4AR3uLDcoq4PTs/photos/AUy1YQ0oJPRZb86DwUz4cqDzlwpn2l_cWvFQ0iQmcKK7qRkdO0iF02zyfFz8ewRnncK3yGXKkGBr1599gShWj6K4TeCDScKCtxwUYBKW9VFs2vem9xiiOJFxFkdyzEqoJbdmYMSA0K4fN3t_LYSF8NDAtSCKXFl_SufiWIz9Ai2BQBGP_ewc8KhDKtOVWhyVXbrjsDqCmj2VCDsqiK14QHRgu_ee3g8GsfYxvTvjKYS3o357_Jyb3JwTuN4q3dATFLNDywG5NPxBW-bfGM5MNbBPjdY9F0kTwboxtEbnQTVxzaFJjNe0BBYoHzvRQZdtjb6wjpS9Nzfe0NuvhToV7a8Bsi1gTzmp3t5KnqDHaeQcJfxel4I2m8T5NDUrgIYQF7phdBoAfIMNS3TW7fXKbMSvSuQEsl3kCRNsE1AFrIwzArfCMA
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Scott Riley
+        uri: https://maps.google.com/maps/contrib/106654888027585316621
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUfdz6UXGFM7Dh7BH6HW-5RiRw8IaejsImyDXt7MAfoa6KuSDk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICKuKGfaw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKuKGfaw!2e10!4m2!3m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de
+  - name: >-
+      places/ChIJZ3DtM5Uhm4AR3uLDcoq4PTs/photos/AUy1YQ2d9ZVa03fIjQJtZisBPdFq92gDC0RlXKHjNHeQITDSdOFkq0av-unBPW_vq_QZbeS6KKlsTYgOnFj4RE5f2qBITpOVvFmOXzF6uNlWf1fPj1pwnCWcYldunMpb7rWFNLtp1FOGh36wnGfP7XSf0tmju15F4Pssg-VGUOPvbEp7Td9tyR1I2x4d9ewN1MO_wGZmddvsE0YAjJFlUK51NriKjo1S-sbFsQ948-gCAELK8_Po5Dq-4_a5GR5A8nn5ByqocVrCOAWNDo7az1jft_2jYiQGCwJ9Y9xuAfWt_-1WkaY3TJ3CZfmlh6KMNJ0-w5m1ufRoTs4hC75ffPrfxMMeT4QBw--JeJjyrmR2PtoCqLd0k6vAuIjJEO7hdrbDtiNh_A2xWAHvrlY2zeHzl4ipCJYhBkoylRJwoSu9R5vAWQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Nicasio Yumul
+        uri: https://maps.google.com/maps/contrib/107630076705538229265
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKG6ZvkxsSG-d4rEPXDqfAnT_rf2mBFZfAj9Kf60huh6FlB7g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAm-rjBA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAm-rjBA!2e10!4m2!3m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de
+  - name: >-
+      places/ChIJZ3DtM5Uhm4AR3uLDcoq4PTs/photos/AUy1YQ0dcabPPSvWscmuqn9gbbORdAkvlrbkrWFB4Kb7LynZuLK3mjIVVWhsZaJL1p8xkqHCqQJ_WSrbem7Epj-ZR371xUBjGx_w5pBP1iIYFYAQcz5SLlQYS2XY61qbaPLbCudazv6kM_ds0yvZc64Mr1NM6IfSI8mdT2TuqOQGuwo6Tbcs78LRTUTLotrJjAthnfNa0F6J4ghJMP745N9cqfhC-UgUd1LD_xs-M2B0zrPyiDO1I1oLQp9Gbg18jGgCEYJ_DLundSfQml0fIj3RVmCeCwB__QdlrG7deiy39ExOMkT6asyAXgcDeksDBFFgyFUSIM3rzl8Ym7WdFMkZzuXC5ZWv24tODuzwKyiDLTnBs3kyxl2MyCZ61KOA9aSn-HM6e1E6edg4B9Hgq0l9MB_JZ0gdUG0SWDBWzJ0ylOffgbr2
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Nicasio Yumul
+        uri: https://maps.google.com/maps/contrib/107630076705538229265
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKG6ZvkxsSG-d4rEPXDqfAnT_rf2mBFZfAj9Kf60huh6FlB7g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAm-rj-AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAm-rj-AE!2e10!4m2!3m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de
+  - name: >-
+      places/ChIJZ3DtM5Uhm4AR3uLDcoq4PTs/photos/AUy1YQ2OsbnnaDYq_YD4ipLws8YfT-4KEn4eh-xYHHIYsjgKjUsStakDMJvPWq1lRMoOJBmtdo4VdcU8VEygbtw7h_Ir7dRevhpyn-vFbCEws5GjGur2a7Pqa4FOR29FCKI0k4ms3JWvarCePtRjhb3oC15VZrcP6c9tiI5jkXP7ANYYysvQwrOnUT8_4A8pbBUt7XlQGKfneXr7Qb0FZsOx5vv2ydWNhz_g-Rnbf3KhAjLp8nNwuN_ecl6j4nMxhfQyF5TwkfJ4RD2CXvdrvrLd8iuIGcThu-4UDC1m2fKsXO24fXjLwqXguWTxtVawxJN1MHpDZqnSVSnJMmteNnSuPhc0d0SSpmpQLXCRS9MS_cP35XTzqe64ZPmla1nfK5KIMWik6dveQW46bpmU4utPkrlljdJCMvjpxCxF8AMulbgDEw
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Lilian CatFox
+        uri: https://maps.google.com/maps/contrib/106706336024125582312
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUCQ83e_6N_x48roNXJ7A8gNe0hr5YFColdVsDQx6yUuQbCI7rmKw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH_dTIMw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH_dTIMw!2e10!4m2!3m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de
+  - name: >-
+      places/ChIJZ3DtM5Uhm4AR3uLDcoq4PTs/photos/AUy1YQ0qh3jTFMVJrfhxW0NKbwvALFgM7J-wQ_gHmFpEqAN2MDp27aFrb8qqSf2Kawla-5VdVt1KL4cJIrjdADwPfUfid8ayVLvBcMXNmVGIgD9Xjx0Z17nm_bfpi8MbZA70LkB7zJPZ_Dpfwt_aCMntH7S874ih25bRPgJjBR0kR1zP0jcJ1ktkkRr_fZPbLZBwAjV-xOPea52R-roBj0zwlUM1Az7oilgNoN-eTk_QdtswVFA1quWEqUTFIsBQ11ZyKf0Mmr0SeggTZPyEDrfdbAOieBiEj4ZtwZ_Pvp1qvqlxzq-bk9o3gkQzuV_D7zWweiFjMB2Yjz517zPXCKz0Y8nMI86FCKDDyghyPlTOwgGPmStFD07KuQfnzpJuE-CbiYReD-iDHCjW0pfVakRD3JBrUcM7jKwbtRfRSp5GbOfDnFg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Taylor Posey
+        uri: https://maps.google.com/maps/contrib/115568021465277070705
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWrFb3wOyN7u3zY9bWVsOc5T0jk-DtPsEAMRocDBmI-g-R7JAmm=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnsdvvsgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnsdvvsgE!2e10!4m2!3m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de
+address: '963 Pleasant Grove Blvd #150, Roseville, CA 95678, USA'
+street: '963 Pleasant Grove Blvd #150'
+city: Roseville
+state: CA
+zip: '95678'
+country: USA
+neighborhood: Harding
+latitude: '38.781043'
+longitude: '-121.286017'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: naruto show me the sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x809b219533ed7067:0x3b3db88a72c3e2de!3e0
+  placeUri: https://maps.google.com/?cid=4268770926587536094
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x809b219533ed7067:0x3b3db88a72c3e2de!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x809b219533ed7067:0x3b3db88a72c3e2de!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x809b219533ed7067:0x3b3db88a72c3e2de!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: naruto-show-me-the-sushi
+
+---

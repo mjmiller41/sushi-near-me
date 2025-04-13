@@ -1,0 +1,212 @@
+---
+layout: place
+title: "totoya sushi lounge"
+permalink: /florida/orlando/totoya-sushi-lounge.html
+stateAbbr: FL
+stateName: Florida
+cityName: Orlando
+place_id: ChIJZyZhD9l754gR0TD-1pgDNYQ
+photos:
+  - name: >-
+      places/ChIJZyZhD9l754gR0TD-1pgDNYQ/photos/AUy1YQ3KyQNEYJ_YkhOxNwauuuDAD6aS5tkaz17EbYSAjaxEzIyw5cDySxVgapR9q4Cfit2vD39L7Q9Jxs0s0Cgi5LZkvi2ruX12Ae2cM2mPvQ1356XjdHOpCSOx9ADHM3jECJ-d7Zlw6WFx4_lYSm-4WZEHs78uZQIBRiuqVz4W-aDyKX__CQ0LtCwXRjxJLwkwrE-4gZvo4arCQYkY7-Y9FtrjNqkTuEP7PdljPqyqUnGPimOTrAr2p9C2N1L0iEWM4JRep3m-BURWwma0InoQnD9SCTgEMRFTUo6mu8Qr5HfFgQ
+    widthPx: 1440
+    heightPx: 811
+    authorAttributions:
+      - displayName: totoya sushi lounge
+        uri: https://maps.google.com/maps/contrib/109464634206100746917
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVpG8QBzVt6g8CfQ3X4p-p5a_DbhfF-QDHSYLsiY24e2PNp5yDF=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOU9YLIZRJqg3dbBuQc_5PyAbU6IypVnSSFZHyW&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOU9YLIZRJqg3dbBuQc_5PyAbU6IypVnSSFZHyW!2e10!4m2!3m1!1s0x88e77bd90f612667:0x84350398d6fe30d1
+  - name: >-
+      places/ChIJZyZhD9l754gR0TD-1pgDNYQ/photos/AUy1YQ38vHUc5D1C7JzEXEaM3j9ax7f1QIVoe3yytkYeT1pJRV_xmGeY_8WJzsqdchpV604OI5TX_EAGDs9Gb80ogxlKqwM4fS70sDD6coTx-NNdbRzq4Orpqv-AEgrnG94KvN3qib19P0uOuL06zigVSCFNrG2A_IabkF8CKsYRcz4xGKJi6WWNO9ecpXoi6dbwgcR1KnpYhMAaLloOrDWqURan6LX4p7L6RR-H-64L6R4Oh9HgpWw6hRmUKiFQpK56WfoMuRhdlAjvJC6RZNUyEixCztnUD8zBfNecIcF9BBoAXw
+    widthPx: 828
+    heightPx: 466
+    authorAttributions:
+      - displayName: totoya sushi lounge
+        uri: https://maps.google.com/maps/contrib/109464634206100746917
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVpG8QBzVt6g8CfQ3X4p-p5a_DbhfF-QDHSYLsiY24e2PNp5yDF=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOLVNWwoqczEmOxS_egYYnLxBcXNwssZk-BOSdZ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOLVNWwoqczEmOxS_egYYnLxBcXNwssZk-BOSdZ!2e10!4m2!3m1!1s0x88e77bd90f612667:0x84350398d6fe30d1
+  - name: >-
+      places/ChIJZyZhD9l754gR0TD-1pgDNYQ/photos/AUy1YQ2CE6g5hQCDY9IDH7qz_eTvJnFTi8sd3CizQmOxmGoSUkcKoDiLMsRhmHUOmD-NzdE68CwxHmVgwDL7k4wJrurYAzcZzHrknvLSQ5LWDh0tNdv3btxBgZWfIw13a2GfNBjmPnOIw8Wd76TMFKwTxK5KyEXYfIVJHYDbHjNvWjO6vNjlxlXy3Wc71hDj2aaTU0DxUzTb2aSK8YGh_B09AbmaeN2edk6Lxs8r234768fhXG3W0fPgWE5V-jo_6KTB1KK1vOi5tiEC-NyF1UffkCcO145-W__FG0rxaTEAFobMBlUI6CRsbEUACMIXetpH8ZfdwhyPk97LtadsKdTLk9cKQpjFzkslXwmu9U-x7FtS60wVqihtrZ1D5qCOBbDjg4OhDfF8RZC9BwxekIokmzmoQPOe_hrdZ9SzQjzAH4Q_HphtMLzhssqDWvqH5jci
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: salvador lopez
+        uri: https://maps.google.com/maps/contrib/100312088683591598082
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUwvCFRhZZtDhyJisOXjQez6egnIlfgRVJYoR5MctSxs9DJ0r7_Ow=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzdCflJGfghXsAActC&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzdCflJGfghXsAActC!2e10!4m2!3m1!1s0x88e77bd90f612667:0x84350398d6fe30d1
+  - name: >-
+      places/ChIJZyZhD9l754gR0TD-1pgDNYQ/photos/AUy1YQ0MHZHnN8HbjpzhE7f2SNGgFZ-B9oYcSD2wJNPaW7QWo6Wl9T6oUw3jBEL1k5_H3CeNmTCFzP7bokfFB9ybe6HYLD0hDgRs9HmLx4hMrR5l3rBFDALtIGobtnhdvDLmB_CeqTlF7MlwcChMuaXV2I3D_wb0yTJfPkyYkp4vvHTipd_wIi9d-xOYZVNnx7nkH25EMwolJmjUzaAW8_sVIcsunrmDuRs0eMu4z4mGKqFF3dpPN6NM-EqEA5PkKruy_7TJiyTiTbzU_mNUYgje7gJbMEp3WBK_Rv6TTQmX0KURMpuFOVsV6LxSvhA1M-XfisA7p7Ph6PVJAH4YDRdjlmilbUBBDKBVSqJfpnwE5mV-65dhKC3VBjm0fMSh8v1r_emcyE53C74UtaqXSEy78Le_KyP-OkQ9Unc5HfEuRKuZfw
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Alee AR
+        uri: https://maps.google.com/maps/contrib/100724899210811505984
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXh11bwbYr8E3CgN-QjgzadWss-Rw3ttNQpNH5kQqwEGlQuaqck=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHq8rlVQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHq8rlVQ!2e10!4m2!3m1!1s0x88e77bd90f612667:0x84350398d6fe30d1
+  - name: >-
+      places/ChIJZyZhD9l754gR0TD-1pgDNYQ/photos/AUy1YQ3CRTYSCB77S8uHO50VBN103D0wHdyVtXZrGKVgRrMYMOLF1CUDCAqhnTDKRx5V1gm7Ad-UX5J3gtVmOnxbpfbCzBZuT39XxO-rPAEw5kAW89zRZ_7r6_yOAPqDdpUNOn-WAbny4_QDYoBfY9a2ptzJ9dDBLLScH1GAQCNJFnanNvzYJFW9GSVfIC9HNO2PZP-YSB38XARCkUjdI6yot4NuoJVk-tHpqv6De03JyFNYjB22c7JFYHerS1tnJGmCKeFtVSGAoZu-m8MT5d1wev4wmOUEHsjv69BAED1fnaD9m3YCfOPubU0zyFuXl0Q--oSTubwc_5ylCiEsjO4v17jLZXWSPKwVcV429fd8-exditR-x1B3NELW0w1LJXoh8r556y6md48hHqKKSE-5Ej8lf0hMJeYmNDzsCtXRR6DocA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Charles Lawson
+        uri: https://maps.google.com/maps/contrib/110640682143419870740
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV-XkC19w6XDWSYQR4O34j84dxdL13mh8nIUk7MaSA0NLwTW2MV=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTz8nsIA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTz8nsIA!2e10!4m2!3m1!1s0x88e77bd90f612667:0x84350398d6fe30d1
+  - name: >-
+      places/ChIJZyZhD9l754gR0TD-1pgDNYQ/photos/AUy1YQ3EJTzCfmKG09mklbIg0yFGelzkuu9h_uM9sqhkqYjBSQRfT9wGhqr-P4Nvn8VIYYCSkQNJZac7Ej5ni-OFdZ0eHswjNNRAWhNlaXp2fdq_ReCrvFUnFf1rXqjjP9qaZgmtI3hK8551RHyRnceuvxYXpJ3YhNNu8roWDIzeJjCGeoCYirhVAyT0aobC7jS4fcL_n2ts37nM2ocJPu43hVVRtKduUUDa93EHYRLqAXTWEOZqqJS_ROlg6tJKaO4Ml1NWMwj5l_5epsG_g8HnUDCi4CYeNSk2qsuU7TtrAjhHzWIt9VfET2x12KXGmyaUKw7yQUNFe-o7IFZDMYu6W3Lh-b1Ntx3UrH2RERFI5xPEumTLY1nI5YI_0J_sWwxVdbGkO9SchqETXx5BJGc7RXwOyK4pik9OvxyJBljvNhUnWWy4
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: VICTORIA TOUMA DUNO
+        uri: https://maps.google.com/maps/contrib/105087194155706890300
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUURFotzz2mo7bzZ2RY9lWLrXdHTcHyE8U6pIxpPZp_kOMVo6GGpQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdxLq01QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdxLq01QE!2e10!4m2!3m1!1s0x88e77bd90f612667:0x84350398d6fe30d1
+  - name: >-
+      places/ChIJZyZhD9l754gR0TD-1pgDNYQ/photos/AUy1YQ1VCAQoswY_mu_4AFVTyRADECY8eTFSBcRTnviMM2_8yI8jDs4ptOa9rLyi58cwSIE90-WKJMSubRBT-NGCA4UWvvFqMW0qm4sqo3BEkuOGg9inkuQRAQQj3MRoWYoSbcINuI9zYzxxdbXX3lYvR1WPzZHA2mZUnOzsChwBaE3PY48ubvLn2BD3A-BjW0YCXCQECnRgiKzcMFr5k56iSF2atwN4_D98Dj-6M1LG7ARviAUBpMSqiarGw4d0g8ynyh-evYyBeiwhdavD-glPfOYySjwzWrRTnn4HWdCFteqq0mBUcWpk5DqPA1lWPhjRIwRIewsA-x3AKh-0xwPyWLqPPmRJDiAYdWn5BQNKvNTPuCtBNXpAR_Gqh4zAbSbdLvAlQbPHc7haH4874ypdfQ9CGBgueWH_JZRWptzKBcc
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: G's mail
+        uri: https://maps.google.com/maps/contrib/104983876619710341849
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWtlmkHhnotqG5NuTDHcQKhzJ1iccOdICZkty0eX2GO0RO2ZKGG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzp-S5UQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzp-S5UQ!2e10!4m2!3m1!1s0x88e77bd90f612667:0x84350398d6fe30d1
+  - name: >-
+      places/ChIJZyZhD9l754gR0TD-1pgDNYQ/photos/AUy1YQ3o9vh6KVoY3sgesqi1jbQCHTf9cjaTDizz5GvtiH0brT0KD9cRt4NvUVn6rp_dMgHE2W2jz27klQ3jL0ejEDflv3sMkKvyA2c32zJxvOhIKR9Mg7yU6RGTuib59It43Z_9bGpXqdRBhLC0V8-BRQe1wSuHuuDPj0ebkMn1xLo_Zs5k7g-h4f_o5sNBJ2xrOab5R8PpIakFMdhJFOBegmuJFCXZVT_aU0G0ATXQkLKnVgJsy1j-RVypiB8QNXAPw7GQmHf441Lqyj42CwgVsVEI9hzBScjVWPhwciHkLvrb1J38e2JUoUBjCGfBUH8VJD6gn2f6zzaH0tFvIJx92K-X0dq8KB9j_P6rYzi_pXG5WVLPGju8t1T2eerFNXACNZu2yzqD9UBxQ9zIkKlLRZ1Z2N2q27D5yUgTEHbA0LJKskf8
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Iryna Shoturma
+        uri: https://maps.google.com/maps/contrib/113832803529515826098
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVMOC-NgH-ZU_54U9c67hOi__fsmNQa_GCm4mwoGLQuX_V37FSD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrur6X1AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrur6X1AE!2e10!4m2!3m1!1s0x88e77bd90f612667:0x84350398d6fe30d1
+  - name: >-
+      places/ChIJZyZhD9l754gR0TD-1pgDNYQ/photos/AUy1YQ21DMKDNnGICKP4htLMQlyJ9KM3KWdaC8f4uUHNtWXS_TwIrKyFFtblT7_Gxp9Dcqw4e-jNJUZN_bj1TlWh--DlTK-uCq28pxhx1FTaIJP0zc-xWIj8FfrVzLjf2zyOvURwQdpC-OQGp53RwSIKzoIIe3xhackTZqESuqEv6yXAaoNl9rHJVlHjZEixOEQm66vw6miGXyOSLOuAoLwqEPaWimxEbTTZvlkIz7BBIY4ukfYui_hs0gwO2Dj-vMTgD5iXZz1dL4JgKvHkjpt82MkNv4VjhvxX9bsD8VHhYfXrkt8O0hpbaB332aEHtr6ITbKbMdVteoPMU2LArAi0abqMhP1Schpf8E3A0HBkJ5FDgtFddgx4BeK1PrL5Lrx5nUxci-rU2h4B3K4kFVZJ9whwP0BQIxqta6bE_nilfzk
+    widthPx: 1290
+    heightPx: 1383
+    authorAttributions:
+      - displayName: D A
+        uri: https://maps.google.com/maps/contrib/118364730557281636079
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ6L-8hIz6bDfp6FHEWyvzj0cshPpe__cKloR-8Qg-J0OrqXyih=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD8vDOQA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD8vDOQA!2e10!4m2!3m1!1s0x88e77bd90f612667:0x84350398d6fe30d1
+  - name: >-
+      places/ChIJZyZhD9l754gR0TD-1pgDNYQ/photos/AUy1YQ3Ip71aGlDTifj564S_LtxX7PZbFBYkBMTsCnO7Ols2lxeO3k7VOdIt2qyq4UxrMxz89zsD2a_CotWFIFd7uc6HvPvo6_4BCwrR_vcCD0ESdD23Mxp2t0ZbiQUgCiouazDY4ho8ha9ZUwdag2KxLEh2m2L8amenVgUbv_CC4Iw0WiAoUdh3ovCwgM664vLTBiq3xAqu-F6q8dvV4-Ud0Fc1uvmX4MZyVPKrS4j4ggk6dVK1DyWMqxFHs1YnclT927WG7p0skTnNQGXol7FccImbm7Zn76R8gXnpqR76jsoBjI1gVU4PwNOELLPa5fk2FAmt_iZnB3gVOYvRmpc2O3nXx5yEVi1G8qY-saBM_XrOHKY1AuqecWsotdPup-mRrpuHxUEw63I_RkDDUHL_PhA-Kpf6Kfd4wN1ZFrX6m1g
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Timothy Morales
+        uri: https://maps.google.com/maps/contrib/108379832674621564643
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXiAm9wdQ9GdvYvDD0VVVad2SsckEi5mA59HWXESxYLyuNgqQwD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDz5vWsFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz5vWsFQ!2e10!4m2!3m1!1s0x88e77bd90f612667:0x84350398d6fe30d1
+address: 621 E Central Blvd, Orlando, FL 32801, USA
+street: 621 E Central Blvd
+city: Orlando
+state: FL
+zip: '32801'
+country: USA
+neighborhood: Northeast Orlando
+latitude: '28.542465'
+longitude: '-81.369103'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: totoya sushi lounge
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88e77bd90f612667:0x84350398d6fe30d1!3e0
+  placeUri: https://maps.google.com/?cid=9526524541749047505
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e77bd90f612667:0x84350398d6fe30d1!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88e77bd90f612667:0x84350398d6fe30d1!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e77bd90f612667:0x84350398d6fe30d1!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: totoya-sushi-lounge
+
+---

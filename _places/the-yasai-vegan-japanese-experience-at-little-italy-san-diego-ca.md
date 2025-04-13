@@ -1,0 +1,212 @@
+---
+layout: place
+title: "The Yasai: Vegan Japanese Experience at Little Italy"
+permalink: /california/san-diego/the-yasai-vegan-japanese-experience-at-little-italy.html
+stateAbbr: CA
+stateName: California
+cityName: San Diego
+place_id: ChIJiQXuf1NV2YARrLEXpzF5hJo
+photos:
+  - name: >-
+      places/ChIJiQXuf1NV2YARrLEXpzF5hJo/photos/AeeoHcLi0cXvta7H8IYlgeq_fWB1aj2Z2oxdLp1vdeB1tjcFY_qHIZCl_UCjYyhg7YKGLMoawa2KW85eoi8Q_2KX3MswGMe8W1A4iAWR6pG3FkS30h1I75075A0GHCTeESUTqSSzWzXPXOhevks_aVcTiGp_dC5AYwbvETCRMjEXj5bUBMUqIsgbNoCAOtOpG3FqYUetRKR5eXPH3llan6on3zyKLKJ9VlRVafA8d3fx6Y_dmB04kUWu4DeWbNvV-MOTCWsxRZAef4o1sksr8nsWvnipIqYzj8ozkmloFEaNOE8ec1ZsDihLiHQ372CU0GNHR0SfRxQMOhdVMSgKb8w8XyhUPs5jj02ErfJb9fjOh2SjaXCU6rm2hB0MNcwNEndJwUrBanM3x-0WstpZqpD15B6HoZhFeRIMEMnH9U3hyZXA-Q
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Christopher Gorrie
+        uri: https://maps.google.com/maps/contrib/100975914999435988271
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWvB6Mm4QddVkwZiLVQiMCdaMm8YOBQt0ZNeUWTxTrGs8Pqv0JWdQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR-pq5MA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR-pq5MA!2e10!4m2!3m1!1s0x80d955537fee0589:0x9a847931a717b1ac
+  - name: >-
+      places/ChIJiQXuf1NV2YARrLEXpzF5hJo/photos/AeeoHcI5Cup4oRAUPv0jTb3l87SGOg9JfRTxrW26xrMPgvYUXiXChQ8TrSDkszyu2xP687i6HG5r5Lc-G8JC5PkhPwvKNikBpDalb1R6B3UYLyUZFczF3YdjwT8tqR16KhW3Kp-RrDoeBB2UOp6BEF1kwEd7DH7E1J2Y8TmEzNgsdJpUa5nCq_wsFHTvG6zXCuB5znK44wxR_0XdijeHs8WNF3SCNf0eFtrQRh1yfBj49y66-ibQjuD4HTKRc5N3MiebG7zhwm7QVz2s9JkNdW0xJmcpvj6Y-mriU-9sRgpgh_3OVWZr90W8og2M4q1DkwINFzWBGzPwVNCTdWrJaUq4ZpsZWISgh6ysyF17Eg9Wqmk4hWcTOXRLY9KRJu5Ut1yuDt1QIkR1MDUxW10WaT_aaAdioeAXfxa5Gt-dLe8Poc7sZ1rC
+    widthPx: 4800
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Rahul Shah
+        uri: https://maps.google.com/maps/contrib/109487808603793240363
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXBJBO7ajqomOTXNNjumCcZZfgfFCjsgn4U35Wgd9PAic8JGbuz=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDt8ci5mgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDt8ci5mgE!2e10!4m2!3m1!1s0x80d955537fee0589:0x9a847931a717b1ac
+  - name: >-
+      places/ChIJiQXuf1NV2YARrLEXpzF5hJo/photos/AeeoHcLPzgz3HxG9F3aeUQjLB1PGUTMET9sxGC9vsXOrEw7p4beLEz1LrQ6AD-erd3hGVFlJm55_SBAN6B_CYYJc3_aROCT4-3THCaMFI_qqhpDib_pMVnmPJ9sSrlQPheLV6Nn1uOgt-30yLvecnkuOVS40-nqDEZncBfZmK4zVWheO3RDSAL_nGsXLSoZY3TTQZh0SyM61IOUetS4DVC7AdaM9bHMkJcyLwj3b6tdhFfDmzFADGc1bcslyCsSHir4YHsI7BSrerZWY_gnErS3Z8Zc5DWFRlxDWl0FHJbnwKbQWpZr6fSQj3QHl871LXUqvexlTGYz8POYYEDGrD6EyG0dK-02f1Tac-cCklCHcr9cIyVyPaFeaYozWhPd-vpouZuvgvWw2OhVuJiCH04w23K_Ly2noTCcBKIOLtKx8qBv8wn3V
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Sarah
+        uri: https://maps.google.com/maps/contrib/100510589777606762907
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVHZewrDyrAcnWHPpPfW4S8SviqFVRKAdzALnHAsZw61zAqSrfq=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHzted1AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHzted1AE!2e10!4m2!3m1!1s0x80d955537fee0589:0x9a847931a717b1ac
+  - name: >-
+      places/ChIJiQXuf1NV2YARrLEXpzF5hJo/photos/AeeoHcL6aW7LBE3SxeE51Loim9p4KBvtj1QQbr0bDkF9RVKo1GBjfhp4YNbyPxM4xLYJiLPKBpH4nv8O_n2huVO2hsqfvnxXA-XiAwbdmjFgVPMKya3BUtfBymr9eDfcVaLXhruDFeWQ3KpZ8TLfMps-nlq0yFnpBGJVe8YBRT0ZIhZnZzHdPAZXyB3ha4d7MUnEUl-s9JxFzg5fNGtMzQXcSa-1Q6SNzEZDTYrt8KvByyU72aqueR8iKnB5Fy3WL6O5SZ31LIcylm8MtDOUWtN1tSYwk8iffwHSBbQrkMqf4gXOCoxVKLdQC7oQQw2ROt7U_youWLXHt5rOSgIuaos-oIkOPDny3s0Hw4bqXfhYh8x4q4WxLXHPkAcnCJXuZxu1wJvn6QcLFOYw22JB_iWPhPuTYUstBatK-c5pQIlW1tg
+    widthPx: 2930
+    heightPx: 2990
+    authorAttributions:
+      - displayName: Ken Klatt
+        uri: https://maps.google.com/maps/contrib/101323837099933781140
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWB-1oiqzMhWKjUmFzUOOtexvucd3Jb1cxEjKIq4ksYwtPJuDs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICv4OrNDA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv4OrNDA!2e10!4m2!3m1!1s0x80d955537fee0589:0x9a847931a717b1ac
+  - name: >-
+      places/ChIJiQXuf1NV2YARrLEXpzF5hJo/photos/AeeoHcILT6i2W4H9T-An6q3-h9Rffmf7Sr5ocywpf8TQ2YPh9QqTlcxfNzUTL1meBDGwzpp-QBST34BdMH8IDI_O1EEkaYmIpetnlTpJCW8rTUZyeF4IN8hLa4_0NW3Wt78DsawLc_CCkKc4qkkSLmCpkbo3fCyi2axhTvkWKhZmo8riGKkS0VOb7OxD13vJF1qHyQ05xruzht-QVRdzsYNm0gZWba7JyWmRLWHHy1FCdirqtyPBkLbflmVwZwoBiR19pcM_Nut2rgo88w-Jn2it2aOaHb-zD59KVKEXyPsetgr7U5dmGGp7DF8LM8SsDU8Iku18AV39Jg5yE6jPiBC0Xf9jhiWgkgh6j9NBEpydhwKdX0jiTSp68YwNEyB3Ya2dexdiuAvgE3ArlDgpdKwILQy9cleUtnbBX5z53S9p7NlFKMw
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: A
+        uri: https://maps.google.com/maps/contrib/113095007841733203506
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUlPKdMYnnejSqzKA3OlJSQD3oo71BnQpIUF6NbIXSFi4hne5_XxA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3wIWD_AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3wIWD_AE!2e10!4m2!3m1!1s0x80d955537fee0589:0x9a847931a717b1ac
+  - name: >-
+      places/ChIJiQXuf1NV2YARrLEXpzF5hJo/photos/AeeoHcL7k6WRKIDu4NX9X-5nirknOrBAXtTNFGFAAl31TWVcg2NPA74poWlN1Z73UsRm3Zhku91ms_O2zqTg_YWas20PsZh5sl9twOblHCIQ9PAunIAnFrG8O8UV3BI8ORfKhJuVm5BRQi6iPQyp_w0Lf9NUsjj5A1GyIh5JRbKpZrtMypx3vuJUJTVM61BDVobBUG9aMs5QPXTmpgRx9znrj-evXGQ3PGIFrCmP38mwhArq3MqhYDGjrxyKr0DIa7rb98gSB82Tsw-1NsoX_tSuVJCSyPHfnekq_EzvfXCZiLea7OhyFmaYyQLoZKKPDF_xtPZ4Tzbz8810lDM7c_knLuM2r8iyKrXAvEMPijrz0oW8u5UWEpbvfr8p2t9Rb3KhoAUkxP61nHABFo0jgRgV0Os77esh1QBtsbF-RWVQv1j5lg
+    widthPx: 4624
+    heightPx: 2600
+    authorAttributions:
+      - displayName: Joe Shortman
+        uri: https://maps.google.com/maps/contrib/103415227552025021309
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJFqBBB-lEqIn99o5lL-_lAj79k9_1McKrG_YDyr6tVQj3_9g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD5InfYg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD5InfYg!2e10!4m2!3m1!1s0x80d955537fee0589:0x9a847931a717b1ac
+  - name: >-
+      places/ChIJiQXuf1NV2YARrLEXpzF5hJo/photos/AeeoHcI3a26BKCTX4_1vLt51Pz30pFch37iwzwg1pOpdyg4VL0Hrisr4yhyLzUFFz5rznsR6wgBhz8zJBUymidbtno793K-MpajTWg1tf8autHY9I4cXHavnkXl0mBH6tIMLR6GhW6VqicPJ_rE1MkeVeWEFYBEbhRziV5gjwJpju1yrKttGKZZ5M2YmwJhFU3ERVxYaXfZFo9lZhajidEqXFE7KTxWPFb515bbdug4g8g1aAvhqfnodNrYrcnMjSFf_ycF_8yv_SIY0T4_2gL1QrlptGPgfz7XDFnl82CP89y_FKnLtzR7WyQCFGy621eD8YLWcUegHfUKkJdNREONaxQ7y_PWb1YGGcsTn7_RsmkYW1G8A_XAy9GXcBcox-nP5XiHi9XyqhIkNezfblh1rZcONipLJIgXjFTE5LpKvmi4lSNOS
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Jas R
+        uri: https://maps.google.com/maps/contrib/110906111630656455964
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJN0nEFEQ_0fjHTCujviDN-E-6C-LXgq7GTfPnY-Lj5U4hDAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrt4q12wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrt4q12wE!2e10!4m2!3m1!1s0x80d955537fee0589:0x9a847931a717b1ac
+  - name: >-
+      places/ChIJiQXuf1NV2YARrLEXpzF5hJo/photos/AeeoHcKjmiho7u7RQ9Aqg4a86lXimJsl0CFXAsGwaLSVYekRGWG3BekgvcQhjc53Yma_u_6-IhI7OetoHv_-w6V2FqRch1M1VZoS0TnnVY8wQjGuC_mVg9QOGzBfa3d1Z8lAoLlIjE19mtmekmAdfz9ak9Y2b8kRQuczQNcZ1MTJ5bbbztvtjtxNcrokS-wXymXoDNKB8ex0Ws1C9OCgUa6oXv49egj_3mWzpJ14kcfbD8i5YFDpxuronmDRieT9DqjV9exesv12efNyVA6mJAEkoFaVi-5DPoDlgctAQAHNAeiX3YJIfrv0k5FrftBYAkuYn1f6ghoELFgkizm6JfILOjXMiCURSIVtXNpLTqlcamB8TGnBGl2w0YV0v_31KBLtG7jJVBvsyV7XVr5FbwB8YtnMKlmJUBGkzs7ZDjVBfUjhcg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Gwiggner Raphael
+        uri: https://maps.google.com/maps/contrib/114058590534151045191
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUmdDNi9QrhLPV4jt3BbkBBUSGpG54S5-7wyMPyhjSdDrroTHxM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnxO7RXw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnxO7RXw!2e10!4m2!3m1!1s0x80d955537fee0589:0x9a847931a717b1ac
+  - name: >-
+      places/ChIJiQXuf1NV2YARrLEXpzF5hJo/photos/AeeoHcLTqzW4yuorz8uxXyklXA0sEYZfRx8vlInItwKxd3eUdZHuNgYxUshrfF0DtCxi7Kt7RJit4jcN1FwTbv__nmLKudLfLIQONOYlbFgwah8Qd6Hi189TNX_NtXfoL0EUJN28bP01uMQUyCe_K-I95jqpSjldOOIJRrRlKHECmMmwRtW1BbkhJQDCm4kYfnvcPGwchb90n-h1MR6J4LOjEKtuih6e-SM-GRN-_Cks9nPM7_-J58J5jS-4CBQIX6gUIpaqN53PjSWo1Rb2LbVn2Ob_8SlK4ef0la_Etp_Y19XU0YfqpCUeUCQbmFcRkOmEZnbzgaUftKfrmw9bTvgloZEAz_j5EWCn_IpmPIaEdu9_bow9D1DBWX9dHAtdYZihJkxempmwE2k-pYB5b__iCRya9hcDKA59nsv-fUIf7NPfia1s
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Bryant Chan
+        uri: https://maps.google.com/maps/contrib/104222177695287872152
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLfZqaMQsAKMJV9VX31TgIJVIu26gB_ALHc7rKKG4SojqpiTQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvyIOa6QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvyIOa6QE!2e10!4m2!3m1!1s0x80d955537fee0589:0x9a847931a717b1ac
+  - name: >-
+      places/ChIJiQXuf1NV2YARrLEXpzF5hJo/photos/AeeoHcJRLEsGEDBSdZXKz0k6lLlv7LK1FUOXPBEoctOuph-R4m7yMH4I7YAMBDBGY_dpDH-zPxTDUb07gi-QnEKOXcvEtYgZ4NQvacaiGihqoJpNJ20AjGj1E--521oipVYpLqD-s8NYEKqAOApFQT6U4a1qGWcd0y79xQrD-LjiTKR50mq1FhudVdHcfaPOoF8mfe-3wH5dr16yUlCjQxqvpKLETT2_oIVkvT5FXZdkGpFaLPYY7FsHwRrguAsrjH9qSh-JcdDGj22rauslOJlws-BXEVp7fdhf7MpFRgQa_-QGRXJAgOwwDr6Rwk0WGcP6X9B0hShv-C1S8gxZKvnozZB29jNuxyMoNmWARCj39HsFlyPFcWzo2h3UdtgG0VdX0Di0qMfE5llxYPzKsQUUVqG4TUuhUjr21Utrl61klSTxChQY
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Karan Bhansali
+        uri: https://maps.google.com/maps/contrib/112646296193642053741
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVbbijW72e_oXwGnmV4isAOxmWp0Rgu6wZ5Qco5YVkGLKfSBV8E=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC1jMGv3wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1jMGv3wE!2e10!4m2!3m1!1s0x80d955537fee0589:0x9a847931a717b1ac
+address: 2254 India St, San Diego, CA 92101, USA
+street: 2254 India St
+city: San Diego
+state: CA
+zip: '92101'
+country: USA
+neighborhood: Little Italy
+latitude: '32.728140'
+longitude: '-117.170403'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: 'The Yasai: Vegan Japanese Experience at Little Italy'
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80d955537fee0589:0x9a847931a717b1ac!3e0
+  placeUri: https://maps.google.com/?cid=11134157432930415020
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d955537fee0589:0x9a847931a717b1ac!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80d955537fee0589:0x9a847931a717b1ac!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d955537fee0589:0x9a847931a717b1ac!10e5
+primary_type: Vegan Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: The-Yasai-Vegan-Japanese-Experience-at-Little-Italy
+
+---

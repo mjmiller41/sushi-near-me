@@ -1,0 +1,212 @@
+---
+layout: place
+title: "UMI SUSHI"
+permalink: /michigan/ann-arbor/umi-sushi.html
+stateAbbr: MI
+stateName: Michigan
+cityName: Ann Arbor
+place_id: ChIJe7onUBmsPIgRx4yu0EsDLIM
+photos:
+  - name: >-
+      places/ChIJe7onUBmsPIgRx4yu0EsDLIM/photos/AUy1YQ1oC11-RcwfGz-vl-bbFUzxI_fxMnKDYF9kdxnxwIljkhSbMDO8XQkBGZlshrGH5cvAG_C3Qycbmf_53Hg7Hzj353qdh5OMOOVsSosTJaHQN8BYnaC3xWcSnK5ry_X9_JGOZO9DwgyjSNR05srM8RZDs8YEw_Wo61h2TeqJn9S66M8vpdIlvceFGqiUEX7ht4VhNPezeSFp2Mpncjx4kFVIXXrv8HbmMef5OKOJtJgTKRYDXQu1G7X9jzmlcF9rz_ao7OXk0TeOU5OW4wN_43UpqzAZwHqymNNbiQOnSsOktVIv4K6T8xAp2goKN8c9Lom0Y48C8PBj-0QuxJCZ4OluzkMAkhfx6j5SdJX4ulX_9t8Osq8rPUp7AxiTzfWCo6FAbrEmlCBNWc82qQMPaUIx7ajU1v9fRioZzk7N4wkhnuio
+    widthPx: 3456
+    heightPx: 3456
+    authorAttributions:
+      - displayName: Paul Ch
+        uri: https://maps.google.com/maps/contrib/117046705868602952933
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWfH-CnIBXhg1_qMmZqd2Vr-irfDaoK0VEkVmu_QC7uDh1yVhay=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj5d7fiQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj5d7fiQE!2e10!4m2!3m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7
+  - name: >-
+      places/ChIJe7onUBmsPIgRx4yu0EsDLIM/photos/AUy1YQ3FUrIF_HhkU8bCKk8ZzIARDoDV5mRnoFTCNZ4uF9AW__cM1qeE5vqBL1vn_J4JRR--_9VqTd1cFGXjhckwEB8tARIIu8shi436Td_lDs4IuUaqLIrjJO-sv2ScX7LfC7haPCX70TYO8uF9QiDRz0MaeWC-oxCYZARm-0vzRitWkvrjui8sh1N87em3APf-p4MLmUNbvO7YR_3tCsgfJTk7tApgXShU_ypF7fTpS_7Eu35gQuPXnXPSsE2VGm7lq8vI8Q8pIXp2tmwFdevQEh0Tm6TihT7LWAnPmk_RM3Wpvg
+    widthPx: 4800
+    heightPx: 2761
+    authorAttributions:
+      - displayName: UMI SUSHI
+        uri: https://maps.google.com/maps/contrib/115805164567182226827
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI4Q883pQnLMLmWpivpeQEHAKuYZrw3SULwdvXZg15ThK7-Pw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM2arvLKby1RziKwpK61k1n_QQeLTZJAIyMVhH0&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM2arvLKby1RziKwpK61k1n_QQeLTZJAIyMVhH0!2e10!4m2!3m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7
+  - name: >-
+      places/ChIJe7onUBmsPIgRx4yu0EsDLIM/photos/AUy1YQ1Ty5p1qrnHakVMfgt9i-4E0PXghDSRtSoLL5Y9vH5AnUaiSojKZ4VLhqHRBZq7RUJCz_zzeF_Z3tqCsZ138Mb1eVp12cVzJJsw4nFnK774wSVCcifs1mCeP8tf59ABC5JcLFl5sW63ZsW_g1SkKd5AlXFHt6zCA6lR32guUn6xm6KDDsFGKJMjtTP7wnX4J8T5v0Wjo_qebYuZUi4mqGaGFff7RBjKL25MUosZSPBXsCRgJ2GjLEn4ZMg_RgF9zqtRyXl5duvKeIde6PuJpZt-T9XjLXupSTlZt_uaw0FCLRL8SOehN_p4vO5WQUYKOMVml1pGKN9NFxRSoMke3gBZWw4tmC-Kc-ldNaQYtCuDsMXXu2vFirkm9M9EuJjh3knx6CByQol5-QYHlaXMlzo-w-puQT71Qab2wP-_ij69XFU
+    widthPx: 3736
+    heightPx: 2060
+    authorAttributions:
+      - displayName: Alex Hua
+        uri: https://maps.google.com/maps/contrib/116260956350254303151
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYBAvEWXR1ZRGbz3knPFDZDLD7hwebl5lqXC10ahmeGS862cs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDs8XNpwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDs8XNpwE!2e10!4m2!3m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7
+  - name: >-
+      places/ChIJe7onUBmsPIgRx4yu0EsDLIM/photos/AUy1YQ0rptFyYele70yJEg9_-CYeytBSucldXLZinsDUEoIt0e2cPaj0Ob_Nqp6Id9MoJZciPqlFDjmT91Ni4ESUdogqQ9tZSN1CfeN0TRjGlQzuFSN86GXxYDEH0Cd0M9OP0vWdg-H-orP7HYkExIoAi0JfVvSJ3Ds8AyX-TzcEDFahbo7BxjM7g4w44U1ydg83oEGLwy2toPuVf_kfYG4ZNL7pkJjyVxQvAqohSIMJoEd9Un6tE0Vr0NX0hqeNP5UWOTpkjMM0BZpZKmBN1PDU9poYFJIeF-bWjHfAqzL14KWx0cLEV9o1WVVB7sDd_m4S4OkUowTwSuEeZNU9h_1dLcmyjsWDCcgYonQoyoVQA3m6HwhNnqKiQA-bnr2Z7rjgFFmhxuvpykm1H2QERfMiXxmPpfhSCVze8beNz5hPIzCv353s
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Joggo
+        uri: https://maps.google.com/maps/contrib/102682389153853218817
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX91dMwZis7P8oSoH2QPB3eCCOYSRuiIJS3sSJwK8V1MFz5uvjFoQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICt5M_0tAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICt5M_0tAE!2e10!4m2!3m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7
+  - name: >-
+      places/ChIJe7onUBmsPIgRx4yu0EsDLIM/photos/AUy1YQ349YRxS7_YmJM8fDsmAZc1RK1UChjVSnrMKutFDsCq_YkPuBN5TC3GG6tE9gX-bW7DTDqnd154cSSJzKBqyLVRcN2zB8Vy7_Dr-g1h4xG2ILQgeJ_KsKaJwg5g88Rit0vEhyUrLdr7bznuYDNV1uHQELlBqXtX_O4R3-xAdxT64XciTxRurWsSn4K5tM1ums0Yx5nQAqFh8HswPPZ7uWcfNCs9QT8WHAxl7VEobFjrmjDRhNEX-0XpDWWnb7DhV4TsYKKPFYhquCHcIUimYFK1sWuqOlVlHROcRjT3ZOgvQkObevHBeBUIVnjbrlfPT_X6lru421gEHQBYVr5pxBhc7RD2cVHs5kLYQR3qprpDxUxpV2PS9g3XnqLOWGktLSFtvQUcb1wJbcAlqOQTumzgyjQ5zKBuApgfSrMZyyE
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Paul Ch
+        uri: https://maps.google.com/maps/contrib/117046705868602952933
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWfH-CnIBXhg1_qMmZqd2Vr-irfDaoK0VEkVmu_QC7uDh1yVhay=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj5d7fSQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj5d7fSQ!2e10!4m2!3m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7
+  - name: >-
+      places/ChIJe7onUBmsPIgRx4yu0EsDLIM/photos/AUy1YQ0ayO5IwkAi8xWecLFkUjEpLimC4yHqfmTLobsS3_wgvjAOENw8F8rEV9-0JDEgQU290XkA28fefwX5DXcLI9sJJRdXR9AqMJ8zVQNrRB4zjHfgRaC8sFxjkA2qFfwBQIfsBBOHEit6fU7v-LFH0DUhqsYKoNsyoxL2MebEMY065spPSSGhbA0J6AoPel8cCEzREa8nAnjGw1u_tfvJKMMmLt8fVxXTD9VV2sNS-Qfds7apVRimsHY66QH0z5IyiThoO8qbsrVdDtBFk7SAo5LG_X0Pkt390fj3d7tThN2fzTu8PaRu36SOVdM4mWbC3dJySeT2fGdBWQpCnPxXFMSXmyG4aMtdNhM7znCYoI2YXnXHA8c0eSs89UrkZ6z4U00IW5TTAyJXQ-gOxedmllzW6-EUf0rQQa8kqIsJ4_NN5V9H
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Miroslav Semjan
+        uri: https://maps.google.com/maps/contrib/101062531995350192465
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLWVOWcURGb20sis4c4B-4pMHe8pulUJI0MYjMZAng-7z0scg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC76rvJ4QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC76rvJ4QE!2e10!4m2!3m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7
+  - name: >-
+      places/ChIJe7onUBmsPIgRx4yu0EsDLIM/photos/AUy1YQ3NfXdd4wp-c3J1SfWKg1GBjoVGkWyk9L3s3G67AR5-sU0hcRnvIxzKNCDbPVoX6PFNDDHEVAa5iryaXPbt_-agqlvygNUN9oClgFfpU2aSF8Ncll1ZDMrQr55htFd7e4szer9jvN_AmvGGH53Dn1msP6EsWEuSERhxrHJs3W48VODlm7Y9jYfIKosCKjNR9lTyZRGuaMNMpmBjRBePpJfaWWKT1u-xgSE0Wx4iXK8UbJqlWK1HWl5zeayxnhdmzCq_o5yT9SR2bqPxM9qvS1BiEwdMrvhps_OM8wtGzKPtxQr043iQ-ReUNYRZIx_ZVwfBRiWGzq7OWkGe7HSDCQ8Pl1WuuCbaYg8pyUfjnNi1uzPHcS1RUeLGtD4MvRMG2pOCNC1QJs-9yqmdEjQjoFNNVyVtoOEJ8s6PVSd9KF6Av1zC
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Chrissy Grzadzinski
+        uri: https://maps.google.com/maps/contrib/112766280985047944166
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWGWtpqXzy4am-MxypovsjKI8DSPsv67qRYb3KS7UyFdMynQzvO=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICU-pTGrAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU-pTGrAE!2e10!4m2!3m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7
+  - name: >-
+      places/ChIJe7onUBmsPIgRx4yu0EsDLIM/photos/AUy1YQ1GVOl184bbaqK-ZJkebGWENhorIeB83qVvZ5chDvccXTy6L55VeOxwdO1fypCL8FsHO5L8DXlh8YQ4ZNnStYMsGBLiXrezR-xLGqwxFVzadplwNv2jusj0KxiOlol9JWpg6qLvjkh6Nxz-QbwrTrpm58_5QyQGq2SjujiK-c_F1zZz8CE-qoqlZdFmA6E6snXI9FM-EkGe85gnJjtxC0uwTJFolubVUbCmR5NzC0FlKo2fV8p4E_LRhWUJZRF-LemQDxo4DP3AdmFNW5VT80OtiAxQlcRlbcWkXVaUQI6lSQenVYrn50xAfEFeNX_1s2PemmtwTNLq6JCWAYDI566YhABxL0yrvCASZ7a4JjzA0ULgTIf97f5njDQKxQEVyBeaYkwGbRJd6m4RLHkH5SjWODaTZysFGq9QpcAOM-GKjQ
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Miroslav Semjan
+        uri: https://maps.google.com/maps/contrib/101062531995350192465
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLWVOWcURGb20sis4c4B-4pMHe8pulUJI0MYjMZAng-7z0scg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC76rvJUQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC76rvJUQ!2e10!4m2!3m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7
+  - name: >-
+      places/ChIJe7onUBmsPIgRx4yu0EsDLIM/photos/AUy1YQ3vO2G3bf1SGVAAREKYSnHj_3VM6Tarh4sqB4AnH1cnnwsAQbY6QuSUqAxa6wwnAIuIR8Y5uh9CPBUEeQ2qSDIhPTMMspn_BhcVaL3_VDkb5gDL8nCSO41rvEx_6yNItla0bDqp2Xm6YE3fLhH0SVZksubggtpy_89drr3yNFHG0B6DnkS5RRb2dKTpQqczavDEyMqHs8-D98IsmTZrEWAf15tLFolcKA8vJ3a2-7guwL8gYtnvdF4GU5nHRMgrDsV79CnfvT_V3LbB7wBKvgzdNbZc6n7Nh5BGRWd-y46-BPXNXQrMmCZF803kxaw38TWq-73BDFm6mNOUbSSRmlo81CDyaTb40uWo8vvmwtFckyENlocp40z7H5P_gQ9sh-j1_Hb7iggQuZPD15DNW-KOwSu_yqnPPIUoaRWVDZcKWw
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Ani Daher
+        uri: https://maps.google.com/maps/contrib/112768155493879336598
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUGwKMYwLNxgm4r2MA1Ry-iSX3pp6bZgUfFm8-yXSgjjDHiaJgVgQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPvcm9dg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPvcm9dg!2e10!4m2!3m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7
+  - name: >-
+      places/ChIJe7onUBmsPIgRx4yu0EsDLIM/photos/AUy1YQ1245vyzgd_2EEGy11hsS0fuN8CHoXebzi0pRJ8hqMWx_spGjCwrc1Srscd_fH10GfoqXjZVR5BMLy6Py0edpjal2W1e-_GDkFXYeCLeGsXuLA2nPW0o0lFTuQ_VxkTECk9scuscUemjVVaAvBVUNAZshTF0uqFnkfPRDCMdP9RDmTpm3UnWv_L3170_s7EzNOQGXiY0bR3S4TBwTBE9pDVJ-_P3jS4vkw72Udk6-QdHTGaX7BLm5AAQ5KFPxsovJzwoP8DmAAcRslVJCf_pXeqfbwVnFt-O2zWotzw3Nj-w9kDrU-3XjyrhrzjazuYR6Oj0__yvWEA3UN5KMLO1d-zDMhgddP-kb9F-s_-wtsvPFwk0GpIaQzXJBQhcfUIC1KgljzVHhJIrwiDqDKZ0ybxfoP91VNZ5JUj0r_cswpPqpk
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Vazir Fatehi
+        uri: https://maps.google.com/maps/contrib/105246849326058307266
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLOR3nTskJjX18M76j_RjCuu_iC6saRcoHwenPHXhFbU6S9Hbo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjwKLBjQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjwKLBjQE!2e10!4m2!3m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7
+address: 3393 Plymouth Rd, Ann Arbor, MI 48105, USA
+street: 3393 Plymouth Rd
+city: Ann Arbor
+state: MI
+zip: '48105'
+country: USA
+neighborhood: Thurston
+latitude: '42.305069'
+longitude: '-83.694711'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: UMI SUSHI
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x883cac195027ba7b:0x832c034bd0ae8cc7!3e0
+  placeUri: https://maps.google.com/?cid=9451933342102359239
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x883cac195027ba7b:0x832c034bd0ae8cc7!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x883cac195027ba7b:0x832c034bd0ae8cc7!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x883cac195027ba7b:0x832c034bd0ae8cc7!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: UMI-SUSHI
+
+---

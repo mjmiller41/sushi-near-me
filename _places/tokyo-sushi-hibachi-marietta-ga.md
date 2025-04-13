@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Tokyo Sushi & Hibachi"
+permalink: /georgia/marietta/tokyo-sushi-hibachi.html
+stateAbbr: GA
+stateName: Georgia
+cityName: Marietta
+place_id: ChIJAU7gTR4V9YgRuXzcB6AGZ2I
+photos:
+  - name: >-
+      places/ChIJAU7gTR4V9YgRuXzcB6AGZ2I/photos/AeeoHcKDf_PDGZi2eTj9AiAcJJJwiSMC9egUU5xpJTYZPlseJ5Z83q48GzZ50Bsxe-KIDrGzpZnvurLdCL1IHHxp52cq-z4ZWsVw3rT9gHqogBmAOL8knhQxcPiW1oG8S78EKXnEaDSNsgaEYsMwZ6AS8xXOkuamEeIP9CGMOICFB0M77GuCjzhqyjSVldZaiWi1203lxMQkXY18QUmHkuTGfdge2cf25mY0NdFs-SRstFmYQoFQxUfuuFI61FZK2bOnomT9wa0R_mjiy4bajqbi9tqOacPpAP_bU8R6oltLwEp36uoaERLthW3dMJvavLGxaIFzRAywSQHF-T-mcJJhB2n4j4rl8LMXs0upTDIoFPlf7T6zZnaUTmbKwfn5zsHrbiVMoxm0d0Iptxgftbcdf-Ugh4zJmhNiCtRgstBCerfscKS_
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: David Vinge
+        uri: https://maps.google.com/maps/contrib/107302744147819695826
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVSRHRV6z6NGSTQlaNduAeEoBfpjKbVJlQnNrgCLYq3LPE1jG-hRQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbtZ--jwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbtZ--jwE!2e10!4m2!3m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9
+  - name: >-
+      places/ChIJAU7gTR4V9YgRuXzcB6AGZ2I/photos/AeeoHcIv13yHx3Lvs6CWy6FHh7ybOPM1x5yGzwEzwtAkHMUxNy9NqTEycFTazsijSeoD5uWyx6x8WsjzdEebgd9toseMUEi-Ldsomr7857Xmzn66iG5X_gJ0cs18SnETli0Lbmq2pAwRPXyQ7SnISBbhjF6360LSVYLbJeU2FSab8KZbhgtgcl9Ic_cjYx0qf3FZBCmS0ooNdmv-HUSvoinPVrfo_dxmfcUarQWISxvouf-23r0lZtigzMGTDhJWZt2hT0_m24BOzgWwaXxZdwnt982In50VQyx1S78tJxofmXiztg
+    widthPx: 1707
+    heightPx: 1280
+    authorAttributions:
+      - displayName: Tokyo Sushi & Hibachi
+        uri: https://maps.google.com/maps/contrib/105046420812997467175
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLaQ39Fr2x5Rc-3tSi6OAmmTUWCt02-Txln8L336x6btD-RZQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN4obOMXyTkjICNRNzohtAn9KRfVWzGkBDCS27b&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN4obOMXyTkjICNRNzohtAn9KRfVWzGkBDCS27b!2e10!4m2!3m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9
+  - name: >-
+      places/ChIJAU7gTR4V9YgRuXzcB6AGZ2I/photos/AeeoHcKljmFVPe4GALLjuo4TNSkYyiUyqk0vY4y9kKGt3DlpFlrM6_VnYFE9DuzDQURNiwJLBkg3yL2xcChIJRJ2Z3vNJBQbGVC_XYkPwkrepax6gnUl8hlrH8snyukqjbvkukIcxtKVXz-nVQm-hbuB-LY5KbHvvRh37SWL4OVv7-Rx1QwU9AFFoI-Eq4sdE0devNkZJ7gjiGgCnht6oWAS342u9Kot-xRrn9awBviQlpI9CNIsWZuUqZuUVN1RNdRYq3ny7iu8a7ovDk-mgVrfNjfR86FgrLjGP6sjgMYRSN-vXAY-t7AejlvJTjnr0EWpBnVSzMtm8TTb1TjwRf5S565jYpEfRhWgJ-fFWdfkte3jaBtq8V8xMd3MIvrwVvwhAOFmSKhPh4F76tt3XB1kqTAy9gkxeANTcwleztGG4QowAw
+    widthPx: 3536
+    heightPx: 1781
+    authorAttributions:
+      - displayName: Steve Finch
+        uri: https://maps.google.com/maps/contrib/106097017628658415302
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWSaKya7JDNCwHC3DesXesdgv63tI5JcahGumxEAD3w3vn4knze=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI8aPwXg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI8aPwXg!2e10!4m2!3m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9
+  - name: >-
+      places/ChIJAU7gTR4V9YgRuXzcB6AGZ2I/photos/AeeoHcK62qVEQv_mg03RTQ983h3IKkX0l3YxIQrRNjcw12eEXtgXDBUPN1DaNGqyWgTLoTlVWtjOu_hDFiGn4ve6Pl3hdNyte0zhd7WroE5tcMWMUqzvm64PrruvBHjmdi-QvDtDSaJ2pbueWKwcYyGjJLHvIvJb3GKTd1EF51WV-7lIHtErk6sK_UKrGwEbBQpf7Vc8syVDJdy5jd2Q18icnwTzG4h74t0SxVa9rDPDMdzPv0WJnvqPU7baRuJfCkmbnio8O-Fy43sFrqxdyp8Q8uKAiNTtuQ189f-hMqwTm-6xFZMmCd9FAOlwHAJOL-qBZ0E5Z8PypTRId5MzCqUGjsdJVwaH4YRbivCyh7aTppLePrObMc_sLTV31qESbmPPv8lP0nhZo7V6P6xVkewsJe3EAOFcGSXU_Tur_1AVvYtudA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Dana Olsen
+        uri: https://maps.google.com/maps/contrib/101038121644791888370
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXQHx3M-GpdtOy16rFgE5834pIP7oARIhUmauDoMDGe8P-vZv6UnQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHwainWg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHwainWg!2e10!4m2!3m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9
+  - name: >-
+      places/ChIJAU7gTR4V9YgRuXzcB6AGZ2I/photos/AeeoHcI2WHEql1dicixfqTUCWbvvesWSObR6LyAyOg3_agMc4Uy3ItovIid9etJEAYO480eUezQGn3LnCN4IzQtGLxj1U0xkbbFdeAWlkiZmkKfGBDYDXYMMnhvHeMG7n0jDpiqdvRxDq6nYJYJgPZTnoWATMq_yhsOFjH9QY1XgdkE3QDEPsa1IEM70rOuTYDS-rxlhwbFhg30orRrheSbnzwxHa87fZhNq8Vtnml5CgkkYOSgObvdiLhf8UyrVPsyYNT-JZInJY-NzcWpl9Gp6fqRm_X641tYDXXuevStOY1oWo4lXm46T1Uh10TErNqaTBm5XZRY_Fbv3cjSI_rlTz9_bz76mnU3NiVAk0huDsRI-jEZ7uiswEr5UPwF9G2Z059jQICp6sazf5zp_gcu6BCmBYLm9vAYDULLBc1cFTFM
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: William Holladay
+        uri: https://maps.google.com/maps/contrib/114744880392303606746
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXRY5EM8y35uf3zCCRLLZPzv7mG6cRjdKtqYefGz_mmw1J7OZv30Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTks2MZQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTks2MZQ!2e10!4m2!3m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9
+  - name: >-
+      places/ChIJAU7gTR4V9YgRuXzcB6AGZ2I/photos/AeeoHcKyxiHVku7pamsCQnTW9mOXF4aiEue1Z4TP4zBNVJxhwTB5V_nqWXviHCj0-Y4NwdxDsdFXZQRkafO7fDM7HAZVH_DQYkTVJvEGUN2b1ujP9dXpSYuv7v4GwKg19fOo1l1KpP2uyczgDElj5-Dl8UwjVCew3Lfskh_U_rRvYOeXPnBi9od8tIFrTjisO38Dn0NQSz_PKpCo8CggSTw6sTlYUf8Xp_0fS_IZiQZXa2td5r0VgHAbsBsyuai41LGTMxaRRaF1JcN520NOtUN15EYEgI5VP29bGzOLl1PHgDCaoLNS1xFqLfoeOcUlIOGdK5UFRVXbzoTIckIWyA2Ep6bhc6EKVHepEkpBpFLAFf5waiKJ9WBwv73tHGynpxBL-2mONPCa2DmichlD4q2i1hdk4nONeo7k_LnFHkzHufRsSQ
+    widthPx: 3024
+    heightPx: 2176
+    authorAttributions:
+      - displayName: SheaButter Speckles
+        uri: https://maps.google.com/maps/contrib/105926359032428234474
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW6oPMIPXaQE-46k6naQDSjnVVZl0Jp3e524mf55KQhRVD1lBw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvtMSnfg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvtMSnfg!2e10!4m2!3m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9
+  - name: >-
+      places/ChIJAU7gTR4V9YgRuXzcB6AGZ2I/photos/AeeoHcKXpWgaK-IdD14TfvdMlsrrMs2OtjArbmK_kFO8jZybeCDlli0S9wi2_wcnpB9DJGokmerkPAsuWKNF3e0KQdjBBiZrfwVKhEcZ3peYnC7YdLRFhwSwaUlMa_X47cLryMVNDqCg3JiDWOAHB_qxrOf9IaxzDA9Ud9NWoPs_yHO4aOUeAvO6O_hYuKmA4zszo-S07xSHLOzfpO42Mx0ct-Bn7SB-wCkDlQpO7dR2gbOnDIGesxzcKZvNg0NmgpbkMzTo8a3y3-OxAxV-6HWrK9tX_kwTTeOXeIJOgTC1Cly1MQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Tokyo Sushi & Hibachi
+        uri: https://maps.google.com/maps/contrib/105046420812997467175
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLaQ39Fr2x5Rc-3tSi6OAmmTUWCt02-Txln8L336x6btD-RZQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMOWMBZAKr78Yxs25ld1tF8Ond-xgJrKx_B9KB-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMOWMBZAKr78Yxs25ld1tF8Ond-xgJrKx_B9KB-!2e10!4m2!3m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9
+  - name: >-
+      places/ChIJAU7gTR4V9YgRuXzcB6AGZ2I/photos/AeeoHcK93fm2W_uY8Q-flLAOaZxvGdwaZje7xV3AFukRICPs7Chob7j93ZGqxJheLCuhNHla-eCga0BP8mW7j7hK52fTU8O-Rh03SbY5enPQZrHNNYwKcPEj51C88c-EwcYlx0y8jvPzGqhTrHMWlqAgfA8dNeZ2Ky0h6zORU-auRnh6aHOYUsHFOwl-zAbGFgna5EyDJwLBGXouzRrkWT2K5pA9JkTnp8jdJ82YT87qPbrz61uGtE_7a5MejgHY0Xcts3MQilHHbel1LWgl9qk4U4MeT00p2Ods9odsc0klloCLHXMelJ2wVmrhtAiuAXiL5KOeLph-TEOCP2ERX7z6ut8AnQt3MMhtlK4mmiLCaO5zTfNDYcGI6vF7a3qJTMyDvKj448iGkrYY1u7PIQkV7HgF9uJkA5jKC0d3R8moHKUJIg
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Charleen Firlus
+        uri: https://maps.google.com/maps/contrib/117694944204274577178
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUfPNcgs3Sl_vi40FzgXpBAjOTHUCBp6pJ4wsdB__z4SZFLKnrnGw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDuYejXw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDuYejXw!2e10!4m2!3m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9
+  - name: >-
+      places/ChIJAU7gTR4V9YgRuXzcB6AGZ2I/photos/AeeoHcIeEcrzFOke_Z-IWSlvrhjmIxAo_4A5b5mHufj3V08fJ3Im-T38fX_CaMBqJB2tewdxRMCtdeZkOBW-iw-hZ8x1APZO8pVhKPdYEt3Q8heCqGVkCf26Moopd6XLOt1YvggO-DjO2mLFRb1xprtW0fvi2Dk6rNUtRE1_gwhIlL06vCXgBF-HsErOZHYI5-TGWH7N-IeVKvSJUA4UDoGQwTrXEx7mimOJVww5rO7AYk8VqUvHsp9oMD6KUGvd_bSMeKUar7efy_c3SvMWBuQ0IQ7apKjhUQXQ0nXsS2nN_p_Ci4nmVtNRunbO2AYx0Z-mvzLaOGwVz_IfOVspMsU50vo0h76Pu23FYViaxEA-XIp2w3aJqkfZIokEmrutc0k-nV9K4iqvXafCofq5spafbSPez4tJrsDhBGAEybQ65AAdXPuk
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: NakeySupra
+        uri: https://maps.google.com/maps/contrib/109592365555749177071
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIz5fhSmNh8QyMvk5fALrqDo-t6WtznRYSBl-Fx3i3kNkF8_iXp=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9mo_r8AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9mo_r8AE!2e10!4m2!3m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9
+  - name: >-
+      places/ChIJAU7gTR4V9YgRuXzcB6AGZ2I/photos/AeeoHcKlg4oGIsnvnpeaIDWvpByx4KRJS2T6qQb7owAjvuDCGMUSI2Jq3Tk1Sx7hjcU6OzmRwVA05TD8tq40knb8t7v4SsG0b3YiOBpsl5cgbR8oFRaTL3qPxXQH2dVJjE08ov7WTVfLXinTBfeEy0GMiX5fTyoQkcrDnpC1z1P_wKbFMixZ-WfXEnQXhCWr1I7hs7qRRl4bCjHoPd1Fw_Nks60FuoYJnWaROnh4nEA5hBC-u3OOuRLNgyhSb4rbr1nx4d0VkPM-SzAVBYb5uGUz6oFjAZhLJvNDbnd-V5V-gBsu2KbKceLZC6Oez2Xqiirn6nM-uEpoiPTXeHc2Uajdu6C4VFUgrGT1aYfdOV0cY9ptKBLxCKOgPzKn2Cs_uADcFJmHaDsJ0o7OzLSB1-t30p6bUqTYHLjN252uqQGvoOg0O28
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Dana Olsen
+        uri: https://maps.google.com/maps/contrib/101038121644791888370
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXQHx3M-GpdtOy16rFgE5834pIP7oARIhUmauDoMDGe8P-vZv6UnQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHuczmiQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHuczmiQE!2e10!4m2!3m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9
+address: 1000 Whitlock Ave NW Suite 360, Marietta, GA 30064, USA
+street: 1000 Whitlock Ave NW Suite 360
+city: Marietta
+state: GA
+zip: '30064'
+country: USA
+neighborhood: null
+latitude: '33.952970'
+longitude: '-84.582161'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Tokyo Sushi & Hibachi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88f5151e4de04e01:0x626706a007dc7cb9!3e0
+  placeUri: https://maps.google.com/?cid=7090643422714559673
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f5151e4de04e01:0x626706a007dc7cb9!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88f5151e4de04e01:0x626706a007dc7cb9!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f5151e4de04e01:0x626706a007dc7cb9!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Tokyo-Sushi-and-Hibachi
+
+---

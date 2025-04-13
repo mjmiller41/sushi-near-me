@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Ninja Japanese Steakhouse & Sushi"
+permalink: /alabama/athens/ninja-japanese-steakhouse-sushi.html
+stateAbbr: AL
+stateName: Alabama
+cityName: Athens
+place_id: ChIJnwDPKnOLYogRJw7Mo7EETGo
+photos:
+  - name: >-
+      places/ChIJnwDPKnOLYogRJw7Mo7EETGo/photos/AeeoHcI2MG5HPtO4v7PjDMWeG9WiqqqUUfdKskLdHJa8kloxX6WsVC3hT6QmHiKze7cZo2yrmsRtcrv9XFs0HlFHAmqU3P-vhBEFzMIgeJTiDNFC73V-Z5A4q0ArtaEjIYGgwBn4z3k-EbEDA1SnxbkmlS_xd3_23KxrXA-ou53IkEGV5n5tIaXl4UvcI1SDck2Ka6kPFcmPgTQE24kynoeM0GeKBD4tAC8etw7MXeKhDUKsgfFO1fhRKmL7b5A-Vk8_DeqkBOwL0GZ3SjBGZGBg6bazfnzslEGZpUTE0g444_oXHUqLncmafydmAcIXIVWC3cggmzUiSHncfYKeS1sAtfIKtkkUkZ8DH-Xsbgx7kkBRCKoTDIm09psTxS_5wQGYRYKBg11ObW1FlJ1ENGfpxirfNrZ0pmBftWp4OXK26oMWSA
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: Brandi Cole
+        uri: https://maps.google.com/maps/contrib/109244928444392211849
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXNCytbKq8lUaWE2jFr32Hxbrc6UcdgOGv64ztc7t3Js39AFw0O=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC48Mz9Og&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC48Mz9Og!2e10!4m2!3m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27
+  - name: >-
+      places/ChIJnwDPKnOLYogRJw7Mo7EETGo/photos/AeeoHcKZP2_-nS2UoduFQoTKjUyKW_qVf3lxs36dFALYw0JQk8tsHcjK8VjLbdZfXO8xyXVlc4wM-8w5lpwtsRLbEke6nTqCUEP9VWk_DmZw5LJdh3V1GeQhVA7aiP2p_pitPL21wTE2VBr5kOL5BkD8_M7aWbmSZC0lBeor-zQiuXzPV9zcQuNH67AdZYHa-329nViB3-00YS7jNjq8ilCDwAGlnT_owiOunINYKEzr18_VMxmt8G53QAK_EmhgzrUYrIi5gOCvI-cPy5St8yaK4KFXRsu9-YIaPCo0g0uZCkp3O25IuFB8dp5xrMWDJ3rjSJAZ57H9g4_Te8EXkLuGU54uk7T2kcSajpupcOtAYxwGoQ1XjfpAKAt7WWeqOEMFoR7q61qAZH5cjNFa4OLhW7Ksut-w8mdFVdSGqqagbj2swQ
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Jillian Chappell
+        uri: https://maps.google.com/maps/contrib/105430610269420003913
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLsKknbsRlyI6C4tKeCU92Aj1kxLpN4kDMjNxbvyjUYy3dyrg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDyztiUJQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDyztiUJQ!2e10!4m2!3m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27
+  - name: >-
+      places/ChIJnwDPKnOLYogRJw7Mo7EETGo/photos/AeeoHcIdfEqF9zIyF87rwwZ_Tyu_novXtfquWWqfJiYKSVu1qKsHtjuME1-YZ27YMPY0bngqHoVGe1Ptk54m2sMQTDJDVkqbuJCZvjWYxl3tUI56LRUfyEIBVv2tBBi-GLq-HGVfqgJL68hy-uXg-g72qOeXWlN4KoS9D1_ajYi-xIHf-PNFDE85lAB0AK23mMfv_tkbfnoCHp0wQZSBPGqUWGKjSwyInHsO4Eod0gFlGcPbsKvkmyVVfwQjDts4rnp4TazGkFIEqKjfwoqugU9ImEQ1R0Vd-OUxeVBxRsuukVYIzL3C4DLF7ZWpZqnabhv1EnPRdca27iGzk4qfQ-EZVv_MEppA7uIy7tzxScxlr3PG0MlarI12fTqkB0e62OKWSlqdaJXVi71lglK_9HDkeKAMj-N9kEal4HEpRIdX3MAC8A
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: James J
+        uri: https://maps.google.com/maps/contrib/115003635373740145572
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJrkHe8ZjX7zJXvBuLovpIJEWxb_0JtiYcoVxW1ghwHuzyvWg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqoa3JCA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqoa3JCA!2e10!4m2!3m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27
+  - name: >-
+      places/ChIJnwDPKnOLYogRJw7Mo7EETGo/photos/AeeoHcIS9VIU0Ock5s-o0mx-laf33xbmnCLFobswG-A194v_s1DHFC5mOd8Tq4qNNlkk2UKxRHBPMP412Vu1hq13uNwoAvJs0KBLjxvGFE2MHKGXFfoIMNkgz8GE2-56g1jBuxr_cTDKam7ZWLmCnAiptzGY019zd2Ohrc72DX2gMJBaDVUv4IBueSDJmbFOJzaTYm0ZdfFrmeaha_3zGUSom2NgZlCQ5BgApJf7VUgddmbZQ8WUwOSvsYDYTma47XbQg2ETn6Z4iyjNfio4eWBl-glyC2Wvfs5BOBpuFvpPrAQxIInaQSH5iZTHn2ipLkwiOkKY33sf1qRHXpmzE0jma8y7mOIez5rGZaEho9_eRE_F9_d-dDnb6uu88dGN6RfdW0v42koTNJEzJ2LXt79OXGean9v2ZP3fDQgoPtnvsp8WVZCg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: N Master
+        uri: https://maps.google.com/maps/contrib/111054618393990149493
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU7HUnngdWK7LGNZgFkcxiMvmDQ_-THfGwjKZTvmKW0Z9w3xrXFCg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJo4SLmgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJo4SLmgE!2e10!4m2!3m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27
+  - name: >-
+      places/ChIJnwDPKnOLYogRJw7Mo7EETGo/photos/AeeoHcK1nX19O78YZo7-rcjsl0Kj-uG9Sm93G53L9qy74BQhkkTVzDlcCiOytqgoGCrm5foVJhcXHlwbQ5nH0JSRRX5cDPi5YjYrvsLGoJY5ZrwlgYP5Sd3MsUKcp5KxYI-xBUklF86L5EA3IWvsBRcXYnD_NxpOPl2qhOcYpTgUO9G6b9p_SfuwkLm5u7cbHkOsYR686TJ-wUJmuTCkAI1OMjeDn3azlZsL0VKWjXCljrrXfSGY9aNAAkv9j-kT4GRjMVOh7Z8RmgFcD5C7_ooZM_lPo0MPBOn8q2KVOs1TiWEvTFtcefOxDZRxb3Y78XzxLl-Hm-Z7_3GepWGLNars1-9jiTV-s_1yb-NJbYi2cJUPwbxoJpoQhgkXRgy3CARJll_m7LV-4P04zXZgeB4MOeXzjIns4i9rtwL62GT1GsU
+    widthPx: 2499
+    heightPx: 3735
+    authorAttributions:
+      - displayName: Charles Stanford
+        uri: https://maps.google.com/maps/contrib/107110734827450346897
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWvr6uO4gBVoIl-BIRzsvoezxK9fDA8PlhKqrPWNh3B1ruZVh_Oeg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICCq8fBUQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCq8fBUQ!2e10!4m2!3m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27
+  - name: >-
+      places/ChIJnwDPKnOLYogRJw7Mo7EETGo/photos/AeeoHcIDEtCKUAUu5ggu15xwt5VqbFxgURI1m5Eu6-7CfHYBLSu2jkDRNl_4KKD1dvUrFx6nCemiOU9u5-GHoGz10lEUGXWt8ncJwFVgkCkZ0KxpDIcYkkSuBDeIB1TR3Zo4n_27TtrRZTgNqumraVuQccU4G4X0e87b8Co2mvdgM06zRCaI9JOzwcH7X3hS_D-dYnA6d_DMMLrzo-tk1akku1Z1eKbCufyDYgpHGObEa_VMEfsviYz6k0vDnR0H7FuOeOCZEcdesFFO0ZUQpSWuxX21XA5CSVCErMWXIrmYSRA9lm6gexqYJ0xfFXMrvC-F9Oyy1XU0AQYeS_WrtjyQp8OunmuOfvHNAqzaIMblyNoPT2oVax3_RMymucnW8bflwrBIrmIjgPzk1LhxGtoq1NVcoMWWDKBcdtKac-HRMvH6yqI8
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Santosh
+        uri: https://maps.google.com/maps/contrib/112134516023113586435
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWV5uk_BHrSLIycC95XzHs6qJG_j70PlW5-bSZAlaqEl4oczy0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTzvbf5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTzvbf5wE!2e10!4m2!3m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27
+  - name: >-
+      places/ChIJnwDPKnOLYogRJw7Mo7EETGo/photos/AeeoHcI-0OEpP7lycU9XJouFwCnhRaSe6akiUB1KgOrCr3bMcUsMFWfeXJQ2CE7-b4dYuvYg6g-2GGbyYlIC9npY96sbLtczcs46AGDb9Rdk9SOeMtqxxuliuuC0YzFwfFyLKXmorHh-BEhkmz-ZiYvCYTBLOtWG5nvFP0tgoNuElDs7ZSHRgBmC777Q61Ist0qM1t1RgI0D6Ijj-XZDernBx_mgYTZKWZevRCbOdF9y6dOHywvZ5GLnHGjUQd3j2u-oIoEHsHXb177qEkMPjgJ-ZIqHZ4goxrPtpiM-rF7L-xAR6h69sJFkwe4VBzhjnEYPfzUxFNHzAC-c4LRXEiptRC3QW3f4R_OacZYjoaLbgwPOswTA5_35w2hfhFk-QPWptwhL0XxLqkYtzrG1YQkbrJcvz4uQ_JVpYjliFlARSe_YOg
+    widthPx: 1932
+    heightPx: 2576
+    authorAttributions:
+      - displayName: Joey West
+        uri: https://maps.google.com/maps/contrib/114413729314875005716
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK7l2Rq0w9Hf5YBVW9B--KUHbAHJnYk9qtxJxzFjMBBSdBSMg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEsuLDYw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEsuLDYw!2e10!4m2!3m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27
+  - name: >-
+      places/ChIJnwDPKnOLYogRJw7Mo7EETGo/photos/AeeoHcK6BzymzYGJ9KzpSGMhSaTRyYT80-_2CfoV6lKPBrJeyQUGJniGkhg5-2OVOPEcU_dYxP9MImFkSidW1T7QBFaVV1uyEwmHtev5o6d5ma0mwusZPhCeYksI2cBk23AnyY58p_rW1UQbI6tw0S5mu6YzR4YsYBM-35O032gpEeCqhXAwGcxgCDRjNhJJoGiJ75Hx29y3p6XUIX6GdIoAQ3R2eTMJUF_2_3YNOq-OIkl0qJylqQ94fv0c1rN8r84gacQJeT4po1x8ZqxJkHjPHrkwn3iZIuqexeg6JWgg3RN9Y3SnOm3Vyrb40VZWRTfRlilzbipsayBwG-5ZDYb0wJl25azpjHFlhmPQERC5G5SyTOq_CAt6dOiWix8JDoJyB40joAcHdor_odOMVNAXqQ7FeKkH-tJK6LaGquhypL-C_TqJ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Hector Murrieta
+        uri: https://maps.google.com/maps/contrib/115544687261012060087
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV9opZVJz5qhyIOweqSjdjoZ6b3kZqha1-NQMtu5Pz7iyzjOBqD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkqovFuQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkqovFuQE!2e10!4m2!3m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27
+  - name: >-
+      places/ChIJnwDPKnOLYogRJw7Mo7EETGo/photos/AeeoHcJDxvQ0x0FZGGKN6zZGSmtfiGfeAZY4sTYytcKdrk-KIdM4WtP2KiC22n0bc9ryk7K3jbfgRL3nBBivahWXpsoyD_ScAbDBiZPOIP8omzYI9ui-p0vcC2eMSbeDlBYm1uvspwoSpaeJeFLoU-cRi4IVwAFOfVIQ9gKO7Ot6Z2zDD5-7nZ9xSACAZLMteJP0G-yGvLnWvEyk9y4R7FEleDxkpw6RbYrHDju0jEXfOndgp6xp49i-QP-pNOFBDNzIJZ51sIuwQwmVHHti2PSL0XNOjvUP6rd9nAWjGTQofu4oR9Y01H6eEw3YI0elsYQ__9TR4GTKs7VbwRMaVPj3trRKVl7bBXrKWc5kxMN1vTRmK-u69paJZboLQjDeRlSSyhzB8RvhWzlvOOqb23RyJ8BpyP9okb-k-xN_kLnoWV2iSb0t
+    widthPx: 4048
+    heightPx: 3036
+    authorAttributions:
+      - displayName: Blakely Farm (Wargolem)
+        uri: https://maps.google.com/maps/contrib/105203278525329898272
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV9gbHJK8Fj___ufnpS61ylGa-JI4NivrN1XprnIntafet-3uuQUA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkteqIvwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkteqIvwE!2e10!4m2!3m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27
+  - name: >-
+      places/ChIJnwDPKnOLYogRJw7Mo7EETGo/photos/AeeoHcIrACvKq1Axd5g9NlAsSIHJKUfDrOhcwm2VwwpKG6LSlhh7a8Q3Tj4X6ucukRw791OSfQMYxjQUoO2m84lDNTTHKelqsSkraNj5WJlmjyI5cpoO_4Y3T9A-rUhaurqL6_YaAJQTUbp7E-IMmXOMYhXJP5OmzwzzaAC-uzcr1UpcC2Dht1uf_dYOSDxz_xAmF8Vn_K4TwCp0tGR0MaaIcydgCySjunIuQRKgB7El4nMEFMQgLzCXqiv9FElhfJ_K2GeSGzsqV2saOk-sUEMDOFi5MsvaUDgh4DNAtw6tlPPyHJmYvEVZGpdQXKzo5stbTPdDFiAXsSt5OsJ-sLrVbe8Pq3YEd-ELwZdOuin6PzwcKsPw22xRxtyjG2a5F4-sAZCAf5iZnL7YUda2aODDXJjosb53y3scb5uqjPOF9-k
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Art Hancock (Art)
+        uri: https://maps.google.com/maps/contrib/108263274900717516562
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtfZ7UGd1Se3pVYHFfELn5Fygm_ShXJ-MUoW20nWaR6_o-eaTMSQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDN2di0Bw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDN2di0Bw!2e10!4m2!3m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27
+address: 935 US Hwy 72 E, Athens, AL 35611, USA
+street: 935 US Hwy 72 E
+city: Athens
+state: AL
+zip: '35611'
+country: USA
+neighborhood: null
+latitude: '34.788652'
+longitude: '-86.961683'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Ninja Japanese Steakhouse & Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27!3e0
+  placeUri: https://maps.google.com/?cid=7659502227254152743
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Ninja-Japanese-Steakhouse-and-Sushi
+
+---

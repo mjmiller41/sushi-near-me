@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Tha Joint Sushi & Grill"
+permalink: /nevada/sparks/tha-joint-sushi-grill.html
+stateAbbr: NV
+stateName: Nevada
+cityName: Sparks
+place_id: ChIJWeonEwA5mYARqMAS_0S31CU
+photos:
+  - name: >-
+      places/ChIJWeonEwA5mYARqMAS_0S31CU/photos/AeeoHcKcb6TlQxtQkmVR4WPJf-ugb2pmZDvRO9BUF_EWMr0eICJYfExKtIUaponfzh5m_F-i2VJaZhWxE2S1cEeErg9232SkpZkmIfPpLzpUhust6yzTfmQx7G_o7KoqFxnVbA_zER6EdUSUnBuscHgxPPLL4MnQy8umrRKgxbZXvndHb2ODpA5E5hiAcXqj1cSmBDK2zeMV5Xp7075Zqv0qvkeiq0MJPAta6lnxPVo9Mo4jQXz5c5ts5wcr1HUp-bFS3ZLW6kJNZc7T542Xka-khXA1r2cpM-dWCqkNyBusGfrUkw
+    widthPx: 580
+    heightPx: 388
+    authorAttributions:
+      - displayName: Tha Joint Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/112650123888312984752
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV6lD8zmF7jz3eJz1ov9fRqxlbJTcfbfW_ApGdDmVJrC02kLAE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPcKCV0hhQ1t-gRFTNgSQyg3wKqzpIKigmQbKP2&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPcKCV0hhQ1t-gRFTNgSQyg3wKqzpIKigmQbKP2!2e10!4m2!3m1!1s0x809939001327ea59:0x25d4b744ff12c0a8
+  - name: >-
+      places/ChIJWeonEwA5mYARqMAS_0S31CU/photos/AeeoHcKbuGg_3-gcryg2xB5TTGsprCWhYJ_tKE0T_g5EdP-vafrz5JTC-Ojm309Wn-m10GG0EU92xQ5I7A3zl4_dSl8eqmk4_8F6bIjbKYnOcmy7F2lRgGVGMyr3cwJC0BzIvaYhaiLZ4a-kDcysrughtuE0u78CzDUMKNWru9gWuUY9CHxTV5XHTFW3EiQ4YsgRq8C-IrOFQteeNVo9UaeqqYFXWjGHWopOzwSVyUQIYDj4qcHQNpPlSIgTdwtoz5gVHgzDpRphmOlnGFVhRHmXsABVslBjywWfHbfiCv2mCKdQCw
+    widthPx: 1024
+    heightPx: 896
+    authorAttributions:
+      - displayName: Tha Joint Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/112650123888312984752
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV6lD8zmF7jz3eJz1ov9fRqxlbJTcfbfW_ApGdDmVJrC02kLAE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNhYvHFjrkKGTFhUaj8WQfDH6-fPEgnnX_vOFlC&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNhYvHFjrkKGTFhUaj8WQfDH6-fPEgnnX_vOFlC!2e10!4m2!3m1!1s0x809939001327ea59:0x25d4b744ff12c0a8
+  - name: >-
+      places/ChIJWeonEwA5mYARqMAS_0S31CU/photos/AeeoHcJlb0NCiV4MXRlZqbQyFtZjJ7oZVcxR_rtgoqG2ZjGcLfHFBDkj2VoOZz0CeOGOxbjCqCVwsLeTbdi2X-3OG__QnkFj27zsuK7N18fWQ_GVvIDFRx8IkC5RiN_1qsH84KeSkKn42KxjJE1vPfk-RG_9hw7G75YD-NgGuDygfGVPYhRJ20kz6P8VyTho2n8iD1TGVqvCdMTEcRFtahLTr1X7Ou0PoOOimb5M7IRAUhotHa4yN_Gxd1-WqEVrrTTCMlotourLZ1PqbAaFNeSWNPmDJ6CH3YJnOP5E0V3uYxqbxgHdhXNIkNXhXq_3TRw1DoPOw3uJTCTz5vEzPqvmmBeqDRVAPq9Lt6vUQMiosbMWqP_3zz1BqJ1aswj8Y5ihzWU7SKCjxcKfmZAjOnLMpC7CBWHIM0olmwK_gKsRjCh-OA
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Jeff A
+        uri: https://maps.google.com/maps/contrib/114738047715573462353
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW1uWoPQMtL4Uqa5n6XkAXOHTifGeq1bRcw9yti46s7RL4wD1I=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC2oPyoag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2oPyoag!2e10!4m2!3m1!1s0x809939001327ea59:0x25d4b744ff12c0a8
+  - name: >-
+      places/ChIJWeonEwA5mYARqMAS_0S31CU/photos/AeeoHcJcv7IQuLMKQ1zwfflya4OCm5poecSudEMnaEcN347v6K8OjcDvJgFlocyEZ6sVvnCuOuyy1y5VOoVDZuP8Ug-1RelJyV3uVtCyzwLhtLFEXNXGkiXypvPi2EBc3zu328OeqUmjQ-vvkfMmX2HbQygh0FfiQDG7GpnIM8RZGG12m1DcuKE4pnnokA6FzK5_bB7Aabpw9WPELYZAdwMFLyp_YeLi6udSWO5Y6beINJKV9iMkDuY4t5VeBbneY6QbGYUz-77bKNTrp5s_QKCOrGdg8CTa6juNrkKkgt7fTl1EKowpADm406oITo1DcTvPbize_OcrFsgRU-O0fdnUuEY7Kaa2ltooPlq5vt1DrPfQEru0e0dPmPT55t20PPlKbqqTkU9nfUV8lIehUjhF8FAkfzM_yY3IBobNHzj30ur0Bg
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Philippe Patinier
+        uri: https://maps.google.com/maps/contrib/113899155366242407942
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVGEbfO7k2qXKXY6WnV4hzCqliT19iZSEJdS9Ku0wNYRRofidWjBQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfx9TFPg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfx9TFPg!2e10!4m2!3m1!1s0x809939001327ea59:0x25d4b744ff12c0a8
+  - name: >-
+      places/ChIJWeonEwA5mYARqMAS_0S31CU/photos/AeeoHcLP9zMAxg6lvUlD4xPmEOTngLfUy3i_zA-5362I7_QAS4PpBc7JT0ZXD01YZ7DeO-___KhayueQAVDpfkQ6hWeH9fpbuSmuWWnHFpWGif5YRvcQZaIMujaxKQ5z2-RkqfM-wcYtrc45pn3zhdn7POJr3smKtUIT-wwS2DbJk90mqI_zYAxnTPa61dxvaG5SYXlUJZr6J_7xBdEdI_IFew9FxOxKFHEhZUfwieoh2Q6UIag0th_BOdoCiwbwnJGp7Hw564BiY8UXISu8A5a10UAJNIBbg6VZi1nfRZK0ur6TJG1uvddOeGBy4gf-3DmSke-dz2JZJZ1YsFCJHZc5TiTmqKcTPk0MRRrsL50GfiAzWfYC88JYBq8q1tayS-9lgy_tQqTfath_-s5Aq1a02HBnRnRiIhc2EjAFjAohKHRVul9m
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Donella Franks
+        uri: https://maps.google.com/maps/contrib/118161954565294671737
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUztY_QdBYHh4ct6tVbbrYcNQitIXSzWldyDtvN9-QLPl7eUpKGGg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj2tjyywE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj2tjyywE!2e10!4m2!3m1!1s0x809939001327ea59:0x25d4b744ff12c0a8
+  - name: >-
+      places/ChIJWeonEwA5mYARqMAS_0S31CU/photos/AeeoHcJgqR48KkN-5a0hVcji7G2zdH2G-eZu5u5sk-eDe9gcbLGoRM-4vzboUQprwriPKeKx0wuCKAsxWqiVHkJbe5wAItYyvzV1Vgn0vW_YZptj8v1_JyLo1q6tB5Fug6zCGaxRYZFgawhhS8nMsuPKJHKC_qopdQGphtoyqfvlClCnZC4DrIiw7tovq7hzyPn-FXaDIdHLnBUJH191NgdlWgqSv4Uw7nQCz4BIYh0xsN5xvz1gE971vTUSiUhWoS33ERiGfP6eToNeBc0DakUhWa6dSFqEEC4E3SacC2HHdjN_bGbFrTz7wMx_RgO4pwgkFG1al_jifaoV1kZQ821YMg-COYywxXsqm_NOmPiHuqgwgW3pf48P3-P8JwX2BoDT0vL6qQZsONBgSHMN4N-U6FfLqpA-HJGm6rIYLoTGuD3qx_2G
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Megan
+        uri: https://maps.google.com/maps/contrib/111855518125093452687
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVuZ3NzXwu5JAKVBHGfs-oPMD7hj8KMBK760lseWS1ATkh0sachOg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu2NXEpQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu2NXEpQE!2e10!4m2!3m1!1s0x809939001327ea59:0x25d4b744ff12c0a8
+  - name: >-
+      places/ChIJWeonEwA5mYARqMAS_0S31CU/photos/AeeoHcLD_Sx4nNhb79Dd3TYVjSEbjVME3pCJA_Wb1Lpmg3PPuYT4nI6bWW7lYcswVbKgInNocnOWS9ZGdQkVAESWh0fWpik7dl3-p7JESBrt2ZvC2UdP0Cx7_dbWL_UjRPZFZ4DIZSPvepE3h15Z1IihtvGW-PEvBF9c1zV1-Q9ytYzSZhl-3gEPnd6264m_ViJycuJX3q-qq_WK1cCxbLR-ZdARfCPOjRphLX6TETgEfyzcK3PmKzpW0WNeKBuCfH_sCLWyv09N4eHSpKzDB6CL6A47D3PnpyEws8oZLscnUmI8aIl-0neYkieS3ThtTbslwbZQxXtilc99tXZI3psUkog64RkROILzKZXmqmD7tCDQNgpOVNr3CWuLzdK_iopHoOUvDEWBvvqejBb6rBmtpQ9EZrIZtNUdLzakXKpWl-oexA8
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Philippe Patinier
+        uri: https://maps.google.com/maps/contrib/113899155366242407942
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVGEbfO7k2qXKXY6WnV4hzCqliT19iZSEJdS9Ku0wNYRRofidWjBQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfx9Sl0wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfx9Sl0wE!2e10!4m2!3m1!1s0x809939001327ea59:0x25d4b744ff12c0a8
+  - name: >-
+      places/ChIJWeonEwA5mYARqMAS_0S31CU/photos/AeeoHcLwTlWj9iZJEsbs0OMzEbamyKtUngNKAGWj1lJCFM5KC2_JlbPl4JrzVgMDKCUTuSILQOQ2V8q_m4CuIX02-KP0IoAJbP4E2QbKDCyvfDGLtj2P2ZriDS8DKmHkLzuhPlGEAV5p_JY9Wn-a4FRAlEtI-C11513AKiKBzLFh0ZHdr0y2lTp3_tskn4ZSAmyOjFiBVEpI92qITwOTz4wVkbL05mf-NMRuJO14mRsMCtrvGSKZRrXNW2angmDCx-mCfkXKixFqzVwn-yl4CWV7gMgm_XP3KfhDVEvzGUI4Us5iVo30fomlXzbObkA2StHhWKEif47usilOCjkcaqoNTtWyGITuyePcjRWFkUdUFU8sEbPxazzVb2ewTWdzxOCCzfOnMGT3kT0bepHH9Sdtq5oIR_yCOhLLBNJW93BOcXg
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Jeff A
+        uri: https://maps.google.com/maps/contrib/114738047715573462353
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW1uWoPQMtL4Uqa5n6XkAXOHTifGeq1bRcw9yti46s7RL4wD1I=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC2oPyoKg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2oPyoKg!2e10!4m2!3m1!1s0x809939001327ea59:0x25d4b744ff12c0a8
+  - name: >-
+      places/ChIJWeonEwA5mYARqMAS_0S31CU/photos/AeeoHcJSKYG2SuLIt-NS6tWoU7THBF7MvsoxeLeJ7JUmJtm2oJx9-F8uZL-I_1BvkhDBb-JxDIDBEFNUxZvaNbZNqywM_qvslL89w-FqlB1nzV8e1r74qHS-99pQWJQLnz3vP3iiS--m__uwbAUT6eSR0TnzWlg2H0VBVsy6c_dzzTa3RVrU4eqbUYOL05GzYQaTV1KAMXCf8mR6LQdp6P_ajltLbyEZS5hpuSDDInbMRvk01WMmx4jNSYxhnAGO6nzB5pZymhSjPehuyoSvvgaL0PoD-h5cKgyUmpft6EpWHrF1hw
+    widthPx: 3872
+    heightPx: 2592
+    authorAttributions:
+      - displayName: Tha Joint Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/112650123888312984752
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV6lD8zmF7jz3eJz1ov9fRqxlbJTcfbfW_ApGdDmVJrC02kLAE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM-c57S73ltohB_9uufql67Antw8fyLA1E6uYpw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM-c57S73ltohB_9uufql67Antw8fyLA1E6uYpw!2e10!4m2!3m1!1s0x809939001327ea59:0x25d4b744ff12c0a8
+  - name: >-
+      places/ChIJWeonEwA5mYARqMAS_0S31CU/photos/AeeoHcI1iGAp74dP6sOUP4mXN4XzSYrwfSgBk55BaDqNXFxumKVuVFuDap8irJE0foNL0oHN2eefw3-xeff7f5rZN1YOShDBFGOB6oXRL2Bly1EB0S9CE649uzIp6cPm3l85CDTFc5_eBZB5oxpLgAMQSm5D4gsy6ZjhM9gf5BlejU7sYWqfrrv85nEUU3LPs8x5TVKxl7GNhPdjDCpwZkxekaeUDNtDKDMuZX6LA-IKtuqNw7-imZs8liptlX14nxzEC2lyxC5MoslzETw_cgJNF3OFFgrUFVdxVxMoJJtcDuXbJw
+    widthPx: 3872
+    heightPx: 2592
+    authorAttributions:
+      - displayName: Tha Joint Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/112650123888312984752
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV6lD8zmF7jz3eJz1ov9fRqxlbJTcfbfW_ApGdDmVJrC02kLAE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMufn80cHVrBGndXT3tBQ6bGMU5OJw1vW6MUcMt&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMufn80cHVrBGndXT3tBQ6bGMU5OJw1vW6MUcMt!2e10!4m2!3m1!1s0x809939001327ea59:0x25d4b744ff12c0a8
+address: 222 Los Altos Pkwy, Sparks, NV 89436, USA
+street: 222 Los Altos Pkwy
+city: Sparks
+state: NV
+zip: '89436'
+country: USA
+neighborhood: null
+latitude: '39.584540'
+longitude: '-119.741471'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Tha Joint Sushi & Grill
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x809939001327ea59:0x25d4b744ff12c0a8!3e0
+  placeUri: https://maps.google.com/?cid=2726005181431070888
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x809939001327ea59:0x25d4b744ff12c0a8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x809939001327ea59:0x25d4b744ff12c0a8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x809939001327ea59:0x25d4b744ff12c0a8!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Tha-Joint-Sushi-and-Grill
+
+---

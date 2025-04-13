@@ -1,0 +1,210 @@
+---
+layout: place
+title: "Yunomi Handroll"
+permalink: /california/toluca-lake/yunomi-handroll.html
+stateAbbr: CA
+stateName: California
+cityName: Toluca Lake
+place_id: ChIJXY11W9a_woARs23W5MgCD5k
+photos:
+  - name: >-
+      places/ChIJXY11W9a_woARs23W5MgCD5k/photos/AeeoHcLJvZfeLjzGxo3YvBV0GzOZ7bSrq4oPRslRY4ULLOL15-frE_4ymkWAFpKSHB6nl4L5LTutlK9JTtfDgoUR-2Or_B0Fj2yJWBlG3sFMPnARFf_VmOAtsA9Km02yZ2CpMaZDf66Yy5Yfba0-K_E1Px2WUs7i_j1EnzaKgZf4h_9LY537EVsHcWw6PMyjNTt-5hFIYuMZAnAjbBP9PXt4ercx-295ICBGewRlP_E3MecH5vUR7JVZf54XpltMKr4xAiA0L0I58C9h0EsrADjVZESE_IFDxnD4K9eewqplMqU9aL-O4aRMcf_W0EjMxrvMvfm3RnaqEqBbQWu7nDSy6yQSdj2XVNSMwEc5mVH07HEVzyzT0dFDAcEVWxHpujZ69xE7c8CV40eomuCDR-uGcDLHDyeqWGd4d2q_1To8-eWf_yCD
+    widthPx: 1500
+    heightPx: 1207
+    authorAttributions:
+      - displayName: D M
+        uri: https://maps.google.com/maps/contrib/113680776988079537908
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJxb6Xym9no1PLPfG_54gzNL7_tUsYu_dWwIqlG3AVbHH82jw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr7PychwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr7PychwE!2e10!4m2!3m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3
+  - name: >-
+      places/ChIJXY11W9a_woARs23W5MgCD5k/photos/AeeoHcL8XBzG5CYH7VGqQgTcyY5mqg2qK_7P5z-2uArkT8Ezw7N_02hmFFpDY6m3TgiDyKF5cSp_62tBmOt0Hvl-4LrCFUo8z5j4HbT_5M2-wKQfVVMF8LvfPzn_NbuFfTk-GPCLVbRTOA9HXAh90-0UP0Snh7V5j459G6DXyg3yJlfh6j9ckgBR20JHpk2L35y8qwxivgQ_a6i3p16MhGoZFKeHV_RnjPSKKWR7x25BgBJRCxD83xHOjCHX-zvy8E9bAbFetp3OoonfeARVPcf9lZY7HzRTL6JNJeOJOQ2voVqr6ysCvhLAyf4Cr9EmCYMpQj1V1OQzpBb42Mqw8BEJU3jLFFBLgme2oHfa0XVU-U2QE6BFgHtlcCOg8n3njlH_hifwr564QPlGmf-6FtTFq3lNMfDhlLhnpL-v5eggqvOvwx6r
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Harrison Broker
+        uri: https://maps.google.com/maps/contrib/105421213341895152339
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsAwEc4RJoNVaLDoUaX7JkYATCE3t3iWJvsJKpg2TL0rR-dGCL=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQsYLQgQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQsYLQgQE!2e10!4m2!3m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3
+  - name: >-
+      places/ChIJXY11W9a_woARs23W5MgCD5k/photos/AeeoHcLHlch5meeYDWpYJDbecM4T6d5Pa3IHLAS9Gl0M57CGkqj4sJebnnSaz55R1lu_H0vti67HyUXqlDwlhUB3q7FLEqSTemHbJ6riyL3mY00NFAkEbX4-bGLvLmYk-TDxzpC1R52CF2X3yyTd31hi9fPkaJkUuOYPJFSr3SnbdddebVq6jJoTtxKu20kw3zSWAp2VVV7AfGXb6EIC4k2OmAry0ADnI_ITqYm_tnfWS5ttoKWDTtg6prfpI22VpQJErOiMsEHknWddXeNEhk5-NPNqXru5gsVZZ2tTnWt-QpCvsN-hgoTBRhBdedjgzU2PXANwKadWBEUFDF3jcvXehWxHCGEGCWCjRdUm9nqdZegwqOC6ehYT5B4pkCwf-6VKJA9ILnmwPkMGBAaF99fThNL79LprZbJN6p3fCTPnagEjlw
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Charles Chan
+        uri: https://maps.google.com/maps/contrib/104543320049378181087
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKyIxTaoOCXWKfCsfF2-L1BlBOqBOH68BJYUWZyksQfJiondg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb67HzQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb67HzQQ!2e10!4m2!3m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3
+  - name: >-
+      places/ChIJXY11W9a_woARs23W5MgCD5k/photos/AeeoHcIv1LZvJhByQz59BIdDuscaGoTwXOZHgE4y5zYlNewk5xCSH1PExUoZP0-L4b3KctJkB8bPqwM9y6jOn87ahVIVIFmbqVs_CT5DmcpZ0ZZMhBLmI8CXMmeh11Ea6aOkjSPxYk-yd8e6vc6yjQEqJRrRDieyJaKX7m42lunbLmM7Fhn2BfiYxB-cPY-fTg5_BIT3t93D9DOSJCOBxKk1gZidqgMK6tYGCt06H39CnuUytSSQO69CoJCPMgjiMGvFbcbkMtpQpRlcT6KWW49LyHvWImVdvMlrfa2QxWwD1gU5DVK6Dz5Cd0fZxUpr1bmeGgzvzeMc9tXZxtzulKCnPOxKQQ-np3L5OZRQi0060zPPlG-DNajgVcUxDIIkdb7gU4cjqmZIopMeBDX3P7CRW6WC0e9BaRMHbSOvaGlOkWbRU6Zu
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Charles Chan
+        uri: https://maps.google.com/maps/contrib/104543320049378181087
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKyIxTaoOCXWKfCsfF2-L1BlBOqBOH68BJYUWZyksQfJiondg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb67Hf3gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb67Hf3gE!2e10!4m2!3m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3
+  - name: >-
+      places/ChIJXY11W9a_woARs23W5MgCD5k/photos/AeeoHcJoh77Rdxqas4HhCZlFjLynD70-RRMIvTZv7yBA5KKhMNSRX2NZmcuSNkWcwKQYGSGYM85gok7WmXVXo9OsZ5gEYJvO9I4I9c_hxv_mV6BNhykfT-U8DMowomMw5vRCZ1KxKOzJBl6rTgmvll9JRoFKbIa8ofaST8gkV_OE1CSGmN9hgtVTM3v_zlFShBp_Kp61BOMmJXeK3WPth0nHBIy5nZuCXUOf1405rpG2GfpBvKnk4sJDzhjLBt1dGWRc7_Twiu-gLR2fWbrigMaON2ljAbo-SYGw-YIxuR5s1PYBPFQCmU290jlt2xpO_ry3qakgSMsdxgEAAiY-rlOwFGXowloo_QFv4nnEJEe7OW5P8f-x0u0Mzjd6nNJ85fWpkdHDT-TC0yUWzVAA2WBmswgshO7flgcqWeE9txKjVQRpxsrC
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Zack Simone
+        uri: https://maps.google.com/maps/contrib/105571376555595505837
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjUOeV1JwAgh0SVm3mqRdl2NLrVhadkyDOOf6A83SyXpSftsp_rg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb2Pz-jAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb2Pz-jAE!2e10!4m2!3m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3
+  - name: >-
+      places/ChIJXY11W9a_woARs23W5MgCD5k/photos/AeeoHcK_TIxU2AgVPzxjHzety2bwFLWgYoEd6VDVWddVgYrsbr_7XJxz3VPIpSInWg7j06w6meok4ZatANnah6FyywkfC-8aNMplAp_d89mXImI7n3CuF3cIjmSK1wUN9e1G91pthiBbRphUca43AkPq3rwr0XNFPnJXFGKhYEiMstvdOlMpLsNyw04CtIm0IlyL4q9OS3NSokY2xWLLPmusOvGQfV_kEf4617qWXf6Po_bZPRPnz365Mzj5LnQDoOQimJrJponMXWrDW3lOxorrXtnXrvwsD-3r0mmX1R7YLdZVIz5sSYq5BGC0rhpRt2vTcjtuW9wAhg172LltAYWvIl_ZT5Ccg0pOaHDAeeT7PMPzIAAocWu3GC8K2UtO87XG3-TfgTvzzwavoFdX7cS87mDb8hZ1oanFeF_J5IQX1yE1kg
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Zack Simone
+        uri: https://maps.google.com/maps/contrib/105571376555595505837
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjUOeV1JwAgh0SVm3mqRdl2NLrVhadkyDOOf6A83SyXpSftsp_rg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb2PzuFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb2PzuFQ!2e10!4m2!3m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3
+  - name: >-
+      places/ChIJXY11W9a_woARs23W5MgCD5k/photos/AeeoHcJkUzK5XtHQnvlfv8ifEzEQw-mLOiWVOijV47qG3HLTYNcrYs_23-nSFFAJHHcPH6XvfZxyny6_POf2rFq0vOE_-NnSb1CTYCdR7pgNE5z2ZaTmlEZnIpX_05742Bai3VKVgMUj8AJFMn_enZvUL6en5eB3l9pJmlt7U8zabhiUk9ZwcmojRGqkYQCUhDs0x5OfWWQMJaada1QE7zrhPm6jXGNHQSq1OXK4_uF5cUK0Ig_eZUktbhljHuvKXunHCXz4oIVGUY4_qZTqtUN-nU2XFmCeETarnWUEqGSIsUXUskvgCapQACIfgyWKfLgXlOvFIqw5Zkr8AW-OMpUUe0yEXgCyJhRL7Vx2e63BiBdvPkwqM3QTOQGf6k2Qzel1zxIBsqDEc57r_zrynyDq0sUF20vWTo492vEKTO25jX_4IA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Harrison Broker
+        uri: https://maps.google.com/maps/contrib/105421213341895152339
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsAwEc4RJoNVaLDoUaX7JkYATCE3t3iWJvsJKpg2TL0rR-dGCL=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQsYLQfg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQsYLQfg!2e10!4m2!3m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3
+  - name: >-
+      places/ChIJXY11W9a_woARs23W5MgCD5k/photos/AeeoHcLZ6YAhfdUbBJcpwVzVoBdW8dUvrQwmnHulr_4bAujgFcjPu5hp6nqiQ_Vow5IpJ5uBzxs4B7lfiotZXBXLbhqA2RzBcV493geCraEOE4EWUqrwmPkcI8XqhVExqR8rRpuzph576s39TDSBzj5ahj8G3sjFo_RlPbjcMkpkCv1DoZHr2zpiiM3exectuijZg1CeHyIjFJ0bM5r-5AY2zhjXMJjZ5JTDu8FcHICBiPsv9u8mrUnLpFQBYAVC7gjL_k9fMCyukZOcVdVhfAICiYuBTmxPzPv6EqeYrb0QmCZe4CgpzMR6RBwN4wV56BPqpQVFx2RESQ9qC2af1Ab01uoHfG_Qp3btoyfPLYSjWUPvsZRW8Iu77kHY5Pb762IMth4iTEaAnUVHKFpzCjLRYWTgwGfYnqiN__K5gRRrx3E
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Zack Simone
+        uri: https://maps.google.com/maps/contrib/105571376555595505837
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjUOeV1JwAgh0SVm3mqRdl2NLrVhadkyDOOf6A83SyXpSftsp_rg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb2Pz-DA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb2Pz-DA!2e10!4m2!3m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3
+  - name: >-
+      places/ChIJXY11W9a_woARs23W5MgCD5k/photos/AeeoHcJOFUcWapIpXp2ZP2Dkr8KdhX8tej6dPOsc95fGLQa-qqGlcdoq7gdqHqzDI3xguel-DSDEO0oJmFoj5miVXhBVcR38cpLxYmdKzLoKrqxOGXzPAuVB_HNsbhbBCJcvzINc5--az5wsvkeVnhSSWeFQJkihV_opXlfr6pU2us15sF90mbOG_QL0Vf8YWrIfJ6Hq4rUXFmeSrg9ZBux0Jtp-g2VKs3ZTQOAjKKZ2bCzTWpljZKPP-0QjbeIEAdb4m7SMoaQh8ma7B36b8daYgk8wGykrOdySxEM0-rsERBy5gV7_fCqKaAV85ZN-AjCe_rhknCLbg_ONnZY1iXwNvgH1qG00oz_7dNmRLYVl5UbtLMZAqcOuV7wD2seI3kk5eJoCZObLF_fjCrkFj01f67B3aaeGgmeuBPiw0N7PUXYUug
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Zack Simone
+        uri: https://maps.google.com/maps/contrib/105571376555595505837
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjUOeV1JwAgh0SVm3mqRdl2NLrVhadkyDOOf6A83SyXpSftsp_rg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb2Pz-TA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb2Pz-TA!2e10!4m2!3m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3
+  - name: >-
+      places/ChIJXY11W9a_woARs23W5MgCD5k/photos/AeeoHcKUniZC8wYTN4ftxhwRt3J_3zxntP1v44CcJXlQqdwZJ4gteLCtrjH17nZbCjGc71_NRv4jiRXzc93RLSc4PoSg0Hb2aAiYZ0sWlcqBMO4UTe1FwANWbueBX2qLaxtsK9rEIOXDdVvEYTRvefDpdGsLbZhddVLPp-Up7_hJw0op-sVR0WmQwaHXyhX14DlwGfdLf4hPhhetC7Z3m5ivFgUveLUm-yLk4KtjyFipy5NUmnO-0sC_89l6EHnWqNehK3nfzKxObEkmwg9MlUcIlKwANaTd_xqSKabX_nLEBb6cWZ9rvU6TneBYBy2UsiUruXfTLellYNQpO2qFU-5PKQAojZfF7g3i2rImy7H3Z4VGWpKtfAAANxJu35VzBhsPRjqyk0qsgCKX0b1jBcwDVNCuju0y48KxUaASI7JsWI7THA
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Zack Simone
+        uri: https://maps.google.com/maps/contrib/105571376555595505837
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjUOeV1JwAgh0SVm3mqRdl2NLrVhadkyDOOf6A83SyXpSftsp_rg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb2Pz-dA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb2Pz-dA!2e10!4m2!3m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3
+address: 10218 Riverside Dr, Toluca Lake, CA 91602, USA
+street: 10218 Riverside Dr
+city: Toluca Lake
+state: CA
+zip: '91602'
+country: USA
+neighborhood: Toluca Lake
+latitude: '34.151985'
+longitude: '-118.353512'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Yunomi Handroll
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3!3e0
+  placeUri: https://maps.google.com/?cid=11029037074309606835
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Yunomi-Handroll
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Drunken Fish sushi"
+permalink: /california/los-angeles/drunken-fish-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Los Angeles
+place_id: ChIJObtZqly7woARY87mJEYfKR4
+photos:
+  - name: >-
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcLv7w90zrD7GcXRE1qpfAm9x-nbk4eyZAg7nq0BuHvnOj0H43lTzuOz-7dkHUCJXTsQw_7JKHyUWMy0brCwYyc_4yBlL7U3rPLv03YFBjmJn-e9JeU-fSsgSt6P9v13VAj_iMoHMz5GG3d1O0qyHlG9UtpNt4ftiCHd2V0StPtpBXDA-cGvCcQQ_shlGDmS29gsXWPbYuSCbye7JlDuV4JrnfQST2Hug8ipsRn3UQmN3GhSzjrVTzwFSiJnMBXKax37kB4sq_ey_D1ZGR2dFhhflj9dG6Iz1CqddrVwtuHPPO8phrFi1-VaudU_9fRWKKriIuu_O9SYCijZUZk8IyJppcIOReL62wnVOIEjAL0AFpFAmJ_dRX-GlKuDufRbi9VeMKqlXq5QD58PfrFNjePa0Au3dzIoFSgExBzUkDxqA6FF
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Gevorg Gevorgyan
+        uri: https://maps.google.com/maps/contrib/118238784253024195089
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuzk04RzsfGPwaOah8bdmPlcDiaVJlNEu0635l7uNN-Z6wd98=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEjfrD2wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEjfrD2wE!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+  - name: >-
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcLfRVNePjYM-TxtBIWexaTbRymWd_Bdjuy9jXSvel2otBIomEuOMOUCWbgZRco5gOTAJ6zDYkbTr6BUG-QaRGJDb0nnCUUEj2e5SCwLFOayb-xuu8SVuQ7_vbzI7wY7ETiSUCVVW_J6r6YoNvOA4CueoDZjk7LcO3bNRyzwU9SHfZ3O4BbS38avG_ZtqsfY-gyweBgEG9_Opn7JPhpIiXKJHGrZiPMnQvapyFnciv57cGej5PQN9PX4wCzYWmf6E1hiowRnC3s82xUZ-AUgpKwtaslKky836CmmDVJeoUP0eA
+    widthPx: 4800
+    heightPx: 3840
+    authorAttributions:
+      - displayName: Drunken Fish sushi
+        uri: https://maps.google.com/maps/contrib/114641948553422802909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN3bOEBI4HW-CWiVLVlI-D85xw0ElMzE9Nq9hhZ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN3bOEBI4HW-CWiVLVlI-D85xw0ElMzE9Nq9hhZ!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+  - name: >-
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcLOKzN1HL8g5ehrMPzUFxWqwMP02WWB8ZLvt3Et5kozQ3ekX1wbHJYK8sqn3DOcDKdIgwOl72a7lMrLfAfpPKAaJYQ7u6xeqB8MMpgro4mdwpyKB4QTplrurg1BAOSGbU4_n3hXjz1LC2MnDOcx3_mkn5_JNAU3AIdmjaD2QmGS9jXkig3VI4EYmuR3tnfVzeXd9C4GcqZhe8i46NGnWaNNEFHScNMWUISPyQAkSCwuPi0u6gd6SzzwgNbM3U2KcHg0Np6bSji0_e6Ez_d6CDuPi6qyYtOVPdAjxqSpgNJAjQ
+    widthPx: 1050
+    heightPx: 1400
+    authorAttributions:
+      - displayName: Drunken Fish sushi
+        uri: https://maps.google.com/maps/contrib/114641948553422802909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPNIRcYHW0oVKv5xcDTx4gfQ-iMZa4wBgHYEC1_&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNIRcYHW0oVKv5xcDTx4gfQ-iMZa4wBgHYEC1_!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+  - name: >-
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcI7Ji7sDy3k3V37IF_EmrNcPHHNFfJ8scmkVXebHCcZcRfsqws5YqEGFVHWmHzyT7HVKTCtLVIc6fMm3ZVHR-Xj5yZGuNGYX3hlyLQ2JvSRPU40BgxOocG50BOfM7f3I1QIv7hfDkDG5sU2Vq_Y4D-y1qNxAdqQr2gagzfUaozadd29XJAywjNfCTcC2q8VPEp0kwro1a4pK77BRei8L-BD46iHgxnZm0e6IPrmexn2LJBg24YC9K4BvInN8j6xt2GzCzHu5BWU5D-vWpNeug0oqeckOoLWFsubrLXqk_kayw
+    widthPx: 4800
+    heightPx: 3840
+    authorAttributions:
+      - displayName: Drunken Fish sushi
+        uri: https://maps.google.com/maps/contrib/114641948553422802909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPlOYsL1arAso0SMJXdZzzotgTZnG3R_zAg7Q93&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPlOYsL1arAso0SMJXdZzzotgTZnG3R_zAg7Q93!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+  - name: >-
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcJ7QGYCmi8Re90_XJRMZC2pOZwQrKUGWlHCjil2AgkUIEjqEU657A8bqzR_jTvb0ASBu_4vuZHIECcSEGgtZ9rAtVOiXOPXhXVJ3dd2bieXgSyITDafnl55_mb7PZkWSOSJIcmPggiYCWkeHoGlET0xg4wE8u6q01bTE2ZOUwEXOkmT7lonaKl4caKq7tUq_MXph9TLiXXdsjuZdUfdDMA6ezyXjZfzbw35kIjaHZDOWQ0_mpmuHp9GmAk8xOYJ02qTFQ-_4-Nqj4BmNxf1OvQq__NnwKJAdHVh6UmFeewACA
+    widthPx: 2829
+    heightPx: 2122
+    authorAttributions:
+      - displayName: Drunken Fish sushi
+        uri: https://maps.google.com/maps/contrib/114641948553422802909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMKIRriAxm3vIl2b2KGbY1-G7j3PhGbz8y6vqvj&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMKIRriAxm3vIl2b2KGbY1-G7j3PhGbz8y6vqvj!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+  - name: >-
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcLXzc8_WoYEtPC1AihWvUiMMpEPUV6rMIiP-tadr-3NRyhGh-R-kkbcC_-GMsg7pAy3LegN-NUQHAJuOKdOb8GkC_0hCJX7pF9TflXSqLg67xum2HXHYjSI5KTEceZymzkFgIkyrWj_bkhz-m0Lito5v0Ydj-AwU1WptGBkQv0i3cWTbViNUA5vqXqJsSjKIhfdpxHHwLCrg-dPUumLTTuJFPrUVfFe8kIet-38XYkbHT-rDLpbooWhV3pis3eSjCaIdVzMAh8hfKbbZWEN8Bqw_uj-qkAps3pIvPKBxsOdIw
+    widthPx: 4800
+    heightPx: 3840
+    authorAttributions:
+      - displayName: Drunken Fish sushi
+        uri: https://maps.google.com/maps/contrib/114641948553422802909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPo5LUA6po7RUIPufeBfkSDvMJ8b-LVw6tZN8v-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPo5LUA6po7RUIPufeBfkSDvMJ8b-LVw6tZN8v-!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+  - name: >-
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcLMocrt9gRuoUy8JEWsL2an8ad13bqHr4OOlkXVmYeQ1B7QE2UvFMCEOYWnzqws8QfujUbxyNNmbE4Wr2DeY1qi3t8pVK8cOmTWpHWNaR1pJ-qPyBYtImeWMUZNrSO6cw-iu79oT0vsNXUSkBYqzhiMgHgAisGf8t1qxpPj6VR17lz0qrfYeGB6dpyUhUoXcyMy59IMdmVlWh83SROx34c9Pa6q_rrhKET2U7GhxIQwq6Kw7VEI5OCEA10fQIl2axcscOcrqi3ri3QOJN6J0ClI8VFZ35YMk2PJOH9fTaYwsA
+    widthPx: 3000
+    heightPx: 2251
+    authorAttributions:
+      - displayName: Drunken Fish sushi
+        uri: https://maps.google.com/maps/contrib/114641948553422802909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMWgEw9sD6Kh3zYiZnO7WjHwQPT8nWW0x1sXRtv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMWgEw9sD6Kh3zYiZnO7WjHwQPT8nWW0x1sXRtv!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+  - name: >-
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcIY9HSb9niAu48dSBoSAglQhMZO5q1vD-bFUqbbAAxKzCneexBHVfsNUoUdkHhHq6rauos4KZ7c6bgHH11-v4XdzdlicEg3jbg6o8753zT-u0QtkaqBoTbCfpisslS-z5aqJi1z2hjFs15L5Oh9Fby2ggM6QOIzSZpRSmKyTqRGsXKk714KmiyWUHO_wugEo6_nzGuSPHvkD5TuTA0QswK7CN_YuwkeWVkxIaoFcJyRoz-ZdM-uwi-ad6w0UtgplWPxmFu1pyRZBc9Qk0ymy8TCXgmQOkKQQeXL3t4v6lXm5w
+    widthPx: 3000
+    heightPx: 2251
+    authorAttributions:
+      - displayName: Drunken Fish sushi
+        uri: https://maps.google.com/maps/contrib/114641948553422802909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM5CgA6q1TssggBSa-De-K-R-s2OYUvNSnWC-w7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5CgA6q1TssggBSa-De-K-R-s2OYUvNSnWC-w7!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+  - name: >-
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcKoYHzmFKCgbuwgpvUqK0T5gOjqjBUzp1zHbGq-JO5-H4YMjl2yA_OHP5iVi2BeN-NPcfjZ3K3x14VPStKfY0B3y9hwfep-K5YlJ_9ottt_WcDad6YaGdvOIq07TaBLEMpciNRV-p0t6NBcWN07qchbHpgzVggadk2qVKg73XpP3lLdOffZqEPa7IpT5gPIJarsc3TFqIoTDIdDnGlTBtYuxM6hfzoETMw1XTQHejoJsZZthlR9LigOjC-7QR8ku10HM-qhwR7XdFFRY6Hn9ufiQER-Tbk6DhfNCSBVPSAmjA
+    widthPx: 1411
+    heightPx: 1058
+    authorAttributions:
+      - displayName: Drunken Fish sushi
+        uri: https://maps.google.com/maps/contrib/114641948553422802909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNUyRS2lCBwGGEU0z8386DJK1YcA9A03zFSGrmu&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUyRS2lCBwGGEU0z8386DJK1YcA9A03zFSGrmu!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+  - name: >-
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcK1StgJeDCrr2OJLKyBy_kJOINiRzPoHk7IC-DxxTLwYZp04p_L3o--R8aHNzuj1X-dm5eEs5szZEuTxzpp02Rv_6YW6vIUthM1RFuixzwC0CKAFlXvZYNlkSb-1hFb61Wejl8rtl3YeXFjysQMJnLJnYhdHqOPadf4x0hTaaTZ5uSuEefFj5YXNGlKSh6wWb-mAsIH1kzbPtf7yfmM8EWt7aslUGQDZmQWKwY7zBrhrMk7w1Zy22KyB9YbdhTtWalqEcWzJyv1fQwmMyMhpdjsnLhmcL1uAGuWxsXknKhxxQ
+    widthPx: 1050
+    heightPx: 1400
+    authorAttributions:
+      - displayName: Drunken Fish sushi
+        uri: https://maps.google.com/maps/contrib/114641948553422802909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMiXJ2k4NWi0ngQWhwzs7QhbT8ydx5VTSNrCOha&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMiXJ2k4NWi0ngQWhwzs7QhbT8ydx5VTSNrCOha!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+address: 12222 Wilshire Blvd, Los Angeles, CA 90025, USA
+street: 12222 Wilshire Blvd
+city: Los Angeles
+state: CA
+zip: '90025'
+country: USA
+neighborhood: Sawtelle
+latitude: '34.042727'
+longitude: '-118.468830'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Drunken Fish sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63!3e0
+  placeUri: https://maps.google.com/?cid=2173302681310252643
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Drunken-Fish-sushi
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Osaka Sushi"
+permalink: /colorado/denver/osaka-sushi.html
+stateAbbr: CO
+stateName: Colorado
+cityName: Denver
+place_id: ChIJCSTMnYB-bIcRxQhOWnTV3G0
+photos:
+  - name: >-
+      places/ChIJCSTMnYB-bIcRxQhOWnTV3G0/photos/AUy1YQ2uX89GPI2vwMMFcq9JHv5qIyKeuWL-QvN1v44EBUrCIFRlS1Ixwl8Lg2gUMkO0HyqzqL8zag8XlGekbOSQkj4JlfdL-k5FsGwvDohspKIeu3pFnXOGPvt0HZX9ifjRYI0hQLhkh39YjiICsDN-It3dp_Csfv0GfemqbNJGJrVSi5MzprHaCfsDF828bF9-m1cCKClemyYji2PKn278lIQ_Z5VImQ2EMf-i-wZZS_e-iP8UBjkk_zeQRvH0qqFcDyIgQhgfTwUQb-VQmMAbJ_XVmvUPEnbfx68lcUsUa22w3CjihwLcs170fJxYHrWLaARQ8xOIdazAVNY5SumrxfRpntY3eZwdei_oXUYfg3XwAZ8BAPJIHPF444jFwpTQmncqksbBGm64kAoO-9IEy1CeWo7CpXw0wC5X0oXy1KUj4w
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Chad Cwold
+        uri: https://maps.google.com/maps/contrib/114812610655661490572
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLklWNa-TzI-gR15PV-Mm42ibL2ECIPQftQCWB2m9rJJVAGOgs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDsnp7KeA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDsnp7KeA!2e10!4m2!3m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5
+  - name: >-
+      places/ChIJCSTMnYB-bIcRxQhOWnTV3G0/photos/AUy1YQ3H7uyUaClcSzLM1M6NgBBIhmzzewTlMxEIc9PRjpQ6zDnbBKwbxx2dET1tAlRfU55HgUnWLYTmkp3RGw3_p9mKo5HfhZx8l898PWkfTmHZYvdy9liTO3bsVY-d6mSsnJqAFycDwiniw0kgtHcipvmpslPVlc9vGNdPoCLYubIlQ_YiAwZXScCiiZhTz2n3a3Wlw3zUldntt5pJM3SPucbLHr1LVnTrHWhUqBgydwVsQMWA9GfMfEomoVqI66QYNcymuCAX1d4yBUhX4JT5rW7Req8U-7djSdTNwMr0BMlgKFtUcR8MBntBHMfwNAjXA28qKJYz4UcVPyFm52M7ih6mh1DdyR5PMwcJ2zIk_7tE_5zPf6ClFmTEqHZkGfXm9tN0eGn1JJf4kUqYEZZIOZAEMg7-UccnhG8sPOLMZH0iqu8
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Garrett P
+        uri: https://maps.google.com/maps/contrib/109584725610889178840
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX4EPH5_m7Jp0FbKkorF2TTfFNh5sg7sgveGv_-3PY9T8gqMG78tQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu_YnW9QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu_YnW9QE!2e10!4m2!3m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5
+  - name: >-
+      places/ChIJCSTMnYB-bIcRxQhOWnTV3G0/photos/AUy1YQ0pPpCoYmGhbAAgYBRQfXkK74hmFDp0mSiGDpqAVtAXAFor4vRsN2j3nwJdXO2HDGnOV7Ik6KJ4tT6joOE_OQ9AcFzpGvNLkfvfTAEbGLYlZy3h70Dae_KP36tQQUp8SJD_gqlcaHmAx76_sWRTQ1lGGmc9_-kvL0dOTSty0x4E0nBwj6fINP7VDezP8YbML7acZfJMzHEfY78PGuuG5XcyftzUX1rqKdKLW_in2d0WJBlYMJ1jAL6vYXPpOk7ilryVsEem3mLHiPEg-375IhMs674K6RaHw4EejRkMpu4HG-e8IhbbrlSuCYr16lEM2j3E9ovjSrRsGhhqkhTj0u3av7U2XPOZ2-wrf3mhnNR5k74T5j7tO7QlC4CAhALoZW0GjkGNFvNNmAxSqwnu5dFgjLk86XG20JkUgdVwIeTe9w
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Mishi B.
+        uri: https://maps.google.com/maps/contrib/111734350766525738464
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUYCqp0OiSCRx59iFj62EuB4inHTBnl21LKTZdFdeLmE5XiUcAMLw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7qPT6cg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7qPT6cg!2e10!4m2!3m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5
+  - name: >-
+      places/ChIJCSTMnYB-bIcRxQhOWnTV3G0/photos/AUy1YQ0PNHMLBmcQkbG0M8wI3fxGOQACUh6BoVbpFQ9_aUs0qbHfdg6bA4KTu2nSJYTaGvlmjYkHMTaVezYH34Vn3fiOD1iFioPwKM55lf6C3wwcc2e7W4RZdPHqrrM96Foiy-jLRUQdn-5o8NvkypvmvDNyQ7NphVCqHPBIUav4yYnBKdTw3matW6y1B0WSr15MjTSBzixVLczN0uLAwC_AXJ1A1X7RQAo-I-eb6qVCNNFlgaALyST3PQvl-J3A9_IjLdzbY4UT7MPgqAl56OEL15j_RbGShd2x_8nHmunvjsDdlG2fIeN0GFKcCJPzVVgesvRJlXZvoi-2CrrB_Q4KW8D0vJwM9bBjSCdyX_OimzhlkurrRsFhrHVqt9cmBaWbzvhNmXeUxnrgs4O_Ft3ksVtwkxS6Hh98lPl-vQhKs0V60U9w
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rashid Alyousif
+        uri: https://maps.google.com/maps/contrib/106187340701230676848
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX5TFXEhDEEvpWalUmPbQ_2QuCMByzB7aZbK3MiXiygGduhu4of=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICm7pSN-AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm7pSN-AE!2e10!4m2!3m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5
+  - name: >-
+      places/ChIJCSTMnYB-bIcRxQhOWnTV3G0/photos/AUy1YQ1O-khtdDiZZMPfJMhtD5AwUsY7qoS401srR3xAoU5b2V1470-fl-WSzJcZ3JgnfzryBwfansOa6HrO7TvowPGIt0i4nxDXber-6LpfPb0AFQV_fRa-r4bKLw-d9yPMMfIn83Pgjn2szIT_WkZMI_K3Mq1-gypDHKoaDMXkCQuW_C98NP4TterrC6MmaoMhTIabNW3GZI_G15j3f2gGTHN0tTBFSv2dgVUTHL3vq63jpdilDp0QWaUxcs1OfjA3MOCLttkfaytVVC6MondTeuM_PXQZcV0GZIEX8Mn1ktdgVMxN9sjlv-uQYWhZ5Fl5ZE_tYrJDJQrStmAk0lh0ZmVFCGBEcZo3upWQzCv21EZROAT4BwGtpxrMfXe_TbfbnFGP2bvrApd_xVJPxpC-MbqOXDlrHTo_H0_53_v3bPPxjEKb
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: A J
+        uri: https://maps.google.com/maps/contrib/102281974359359835346
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUrMmFwBSHvxKjmhFISavsmLEV-QompQs1o1gxYFRIL-gB9t6V9=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJw4S8-AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJw4S8-AE!2e10!4m2!3m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5
+  - name: >-
+      places/ChIJCSTMnYB-bIcRxQhOWnTV3G0/photos/AUy1YQ2mrImATDDk38Bj0yGNXCE6vwYzKjsj9nytfa8y1fnIQMoLg_s1PjvvTjHp8eb3F636ZYuOv3eVWvZv5WqRNMTPs-Wqa7I_nJQQt7lxKzQfbID4xxfjOTcYHVdgC2hjkCNgz8ZQhphufNWzW6crTkTneLLc8RfjTCPSM5yGtFJVYweDA2rbNtC3lRYdGSmGPlo3n49zF4hqyzPg7iTqHFgQBi5XrNjHXePltxdOPcYQt2-qQ44RfpBpUvVVY1hwum0C4lbqJqvO21oVRTcXDoALv_0Aiam2kF5vLztBhdN2BO32pHp6XdCfDBxnJXKBhTs3AvsJzzYtWj92ZDsV4GhlEpR6eDXBl-cA69yC3uNKmdCzl8T8woC1FtUgMmM0BNY_EvHUVUJaTlwtQB4PDS6wGFhOU0Nd3EKrDZSt0w3CrVYv
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Twyla O'Connor
+        uri: https://maps.google.com/maps/contrib/101980588175723185829
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKZeHXOWUkPtWaDLtRABPWMG5nIy-kT2mW2of2WRS85ka6DQA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICKy82E0QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKy82E0QE!2e10!4m2!3m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5
+  - name: >-
+      places/ChIJCSTMnYB-bIcRxQhOWnTV3G0/photos/AUy1YQ1u6GtsuyuVKyaGBW9RJIoWhAjryBKJaJESdlSaCDHzPp9FUtSrHYJpYLP4vt9-6PVeXUrUvdLDMhFyvMZ-WEIE294s-WgKgtcovlPlnppglgdn2JBl3wWeroEYbxwMtJsSVknuxgN5Osa88A8fAzhXf0dvYrM7_ZfAvYgPwYPDuKe0Imk6u5VNKL4lPhVT1fzgbd5F7vHvBpyJsbAKuXuivRxoqRNUVjWG14uujghMgXouJsroCbWqZE372OkWDmW_eqyAqpmbfrCtFDj5_Cc_3KdonjkpTBp7-bWEWjYof5kJ9p-LPRaF6SeJXqAQfr2Wf6f6hn9Lg9L_6_VRRbnQfDSgXetK-QGQSa8XLMd0ZkCutPW9pSol2uQIvVHYMUL_l-trLsmcpRPUFbXzZu5Pu-PIOnFlxgyJOFlJRs6UR7SB
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jacob Bell
+        uri: https://maps.google.com/maps/contrib/102371121800365523991
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXaIAQ2XqjO_LdQsWqAU45syBeRaa8oeQwPWkFoIU-XQojPv3Uj=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDM3OLWtQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDM3OLWtQE!2e10!4m2!3m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5
+  - name: >-
+      places/ChIJCSTMnYB-bIcRxQhOWnTV3G0/photos/AUy1YQ3JDTNqRDguHRYxBXxxSNChT9XlHg9nZsopsZ4DjFedzWOXIO_qevmOq8lwM2gQ9M7DiPlZRzWzpN7fCvRQwOaR3q0PAOeBZ2hASrBxRF1ITFglx1OCPd8oPjXHsRViTMYOQojtvdbuLsXfdibwtxJDiSn_XDI76pwawV31PBa6X6o0Wqif2_GOupHmcCDkyRCD_Ld0KPnTx1HyJMbx_48Uc7xl2HMDARF8ehsT4agO29mxp_P6rCetk7etb94ScCFBVIzFjP88v5hPLyCIcsU8DfEL2PNVvCmvjhKpyR5t9nhoeSYimvh2q1-mEPWRNZ7RwzfYtja7VTb-BSxxUcRKUD1GqBQsrnltcCd6trJECuJlGuO7wE0vaIwzD6BytLMp9qkmCyBXpacBnF4xYkeBLyJScGvRkGWGSzWN2pYGavBM
+    widthPx: 2268
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Very Unoriginal
+        uri: https://maps.google.com/maps/contrib/103875619237925665311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUgwEE8ewDfA-H-LHm0UE69cTo0uGWz2L1z97ZwPt_3eKwRMyZY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID2u_S2pAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2u_S2pAE!2e10!4m2!3m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5
+  - name: >-
+      places/ChIJCSTMnYB-bIcRxQhOWnTV3G0/photos/AUy1YQ1UTYI0T-b7A4tkHDxF2n6vMufpKuny1XIbqk58G0ZARU9u9KMRYJzYxlK-oZgps2hr5qv906_pHyRIu68IKCdx2Kr7uDidpBZKLx0z7_amm9urGjMfzJZIoeh_F-SrO34UOIsCAFuGz04a-1EpXxxkd34u6W49QtladGIzS0Qn4LS9vHyKbKx2RqQPd7wLXQ91THOk8nZrwTZP43EcypH9BAf1LGsSRUqTqVF_5iG7D1C1FDXaWcTUKiuyBwSK9I9RTt6dG62rSqMPqYm6rjBD5lHvcPbSxvZOQsqlgjYJY7YUxHNEg91E8f4z0zhEb_UpqSiRmftkBr9FmnC-jNhMBI82lPnAnVUcN6XBYSuckMB0Va3MBOYNyXlZb7bwtQGzxs8iFY1dIfHmptnrZOKY7XzksBZcC0SqqFLovuGGew
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Danielle Beram
+        uri: https://maps.google.com/maps/contrib/104639997681353961480
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWxlp4_OEkAXDLinHsrR5-migw7fE9L_OGD53ySBX_bhuwK9l6MdA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICCq7SmLA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCq7SmLA!2e10!4m2!3m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5
+  - name: >-
+      places/ChIJCSTMnYB-bIcRxQhOWnTV3G0/photos/AUy1YQ3_eB4xXpde3uWi_hnytggqhIwLm6FMQxxNmLVgrue-l63C3iyA5GjvnIKYIAbhf95WH4dZ31mRXMJP-4i2ftp5UrzX2vShBk06h8gOXIdgKUsQmj5RJIjNgeMfIb28A5Utf_FSaPnLZiKx2vNOFqpaQ2ht_RkPSFMqwmm6hloi3JOTge4Ou_5tGbfrCfyPl86TTlIfAJVacqr_2llpkiy60MipRljRE4YOto7Ksvqpek6vOLgv8-pRf6ZJbGnFcMM4k72-H1C1QWf_mppDszGutesLqV1ZrJmrbyfqOg0K3TWmpLIDNGXHDamnMGFsujIufd8gL584M8ktuIb8IhrfZL4Vg8a-NqaV1qyaByzkqc_rw1n1VfKN6oHaJtuyjgiL875GfGVt1BfGqFcsr2aOPCLfJrg6fLS2E8z75vcEwzk
+    widthPx: 2448
+    heightPx: 2448
+    authorAttributions:
+      - displayName: Re M
+        uri: https://maps.google.com/maps/contrib/112957652462525765550
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWe96ZOtnJTJdEuoXWPAN6t7PZuyM9Pp3emWs6m_zF5c-wfOf3H=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk2Oz2uAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk2Oz2uAE!2e10!4m2!3m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5
+address: 3940 E Exposition Ave, Denver, CO 80209, USA
+street: 3940 E Exposition Ave
+city: Denver
+state: CO
+zip: '80209'
+country: USA
+neighborhood: East
+latitude: '39.703667'
+longitude: '-104.941650'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Osaka Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5!3e0
+  placeUri: https://maps.google.com/?cid=7916436940718475461
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7e809dcc2409:0x6ddcd5745a4e08c5!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Osaka-Sushi
+
+---

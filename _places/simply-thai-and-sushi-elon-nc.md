@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Simply Thai and Sushi"
+permalink: /north-carolina/elon/simply-thai-and-sushi.html
+stateAbbr: NC
+stateName: North Carolina
+cityName: Elon
+place_id: ChIJ310ezgEpU4gRnjmZO2w138E
+photos:
+  - name: >-
+      places/ChIJ310ezgEpU4gRnjmZO2w138E/photos/AeeoHcLuNS0ME8E_qJfmUN9QG-W6FzSSb7bOStfhs4DSbsN8W6fXYAgybZG9yHzF_pPzmQ2FyXZ3yln6f2GuDaIuCkxAp-vq2dQVFa54fHgWMz4YT1h78khU7AK3_6R12Z8z_UA4pDAuDrOrMiQ4DzgxUYk825gugVtLWNG2APnjoTw9EcYO7ctkkc2PMvxmVrH4f2nPdhHWGbUrehTnQLI0OzT1vFZ1nVYZnHZvOgpwMAgCC4SfN1lgQOcT8KxPSx6CZuzpKUjC7unnAeeYkmgYllGUGZ3Q2ZJQpTgbcFaCqRNk8AK6bidWYJlgN_eJdqSIcMJwQX3gBI1TQNLuF-TWIJxa5VHgMbVcJNGtKa5EeuY2WlN7NauiQiMN98UgXL67UYTVllRPqjlIkyuiTp1i14NQGuQqR8PkKBBLfiQgNZ1ylhcS
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Red Robin
+        uri: https://maps.google.com/maps/contrib/118170009307408222493
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVxM7tcniJkkfrjhG_hdOg_nFJkih-uZnxunkH9NJK2VWl5rfHF=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID60Nun6QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID60Nun6QE!2e10!4m2!3m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e
+  - name: >-
+      places/ChIJ310ezgEpU4gRnjmZO2w138E/photos/AeeoHcKD46g35q2hR83u427KwL7qFe7srSR4iwkLXWclbhinvQPW1OW6fU1A8_tMErz620qF6Z1XLHSFfrNQbhR-RqA-I01LzZ_I9jLu15X6_gqbwVVz248SMs4i789s0aZlXzB_oX6H3ODeLflX4dbZzWmYSUC01rh7D3f0dGC9r9rBxOHtp7cGhjJO_wqu8BqbHYu2nzGpOwJ1pu_JyN77ms5YbDdOgYy8hG2uexIYnm-zqJTcCG-roIovZ6-2QbSTtHhnMlWaREd_npvuM8Fj9Pa08-TYFsbF6mamf_KwyjSLaCenN8NWwlevvZOblXTYsbTLC_yoJQUbV55xz4vNW72czvYmogj4xz_MxKM4Tq-AElZJctxMP68hA2z9vUQOJlksBQkVj4bAADHMzUVuj49w9JEqbtj4TAOtYD0U6X-S87Xg
+    widthPx: 1600
+    heightPx: 1200
+    authorAttributions:
+      - displayName: Dan Porter
+        uri: https://maps.google.com/maps/contrib/100096350834090027133
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV-SjS-TXXStZ8r7CIrE7qvaUarIYfmtWXhKSvLilcWnZKCTDuOjA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxrvOjlwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxrvOjlwE!2e10!4m2!3m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e
+  - name: >-
+      places/ChIJ310ezgEpU4gRnjmZO2w138E/photos/AeeoHcKzI7udBshXAr1MWJXFots_AmcU0xGi631PAXR6odZWmbWI_-O_Mnk37B6XEBe19GsHaBwny_CigiO1Pkfbx-jb7KuBQcKQLUSenaVqkfNXHPwLGv00K7l_NvEN4xuMXpNgpQXKg7kFRJouRI6MZ0_us_sCsNRAUK0Ms5ByuePxOHhWEa6QR94mxhGl4tK6lLSQ39CUP8Grx655NXeGQHb7ZITKRc6opCi_eEIuyimxf_pCezKyPrynxB5SgGqWT2TiBLOFA_4hei91tBAAEfKe7hg8kMQtZ-6s_qynjE6xnO5YiORJoSKVOgy5z094uTf1tW_0mxShPNn05bztvgzdokez9Tj44hoGdz9bbPwLRjJnJXEwKNfU74FcBehOdxVmk3KXj5Guor7g8Dv-4F2ECWmKUJKc9-tLJqGlJLigwFbu
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Michael Hogan
+        uri: https://maps.google.com/maps/contrib/103662861289428422855
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUwH7Wx--1LPqlWeQvVpuA-Y8vGlR89IY8nPzHcntZpjR4HsOM3Vw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICUsoeyqgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUsoeyqgE!2e10!4m2!3m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e
+  - name: >-
+      places/ChIJ310ezgEpU4gRnjmZO2w138E/photos/AeeoHcI4GEGhMuJUYyxkdHxHCDXorPAxSRhY6zC0rU7olN-pTVYB7XmzbLxb0VwdCmNFct9XmAvtVSlAXVQByzkIBFX9_WCIMcmqWUTna_InihkSjzCxWR5lBS5M1on7V2PMyamLiqcIAiYcxhSQPCgbTCXrDRP5UqX4zwi3_yKzCPdD8Hzz8YKUkcPAO4x0VyeKS4LqNWVJbUCZJI-EUouQyK6ZV2ErG7QfSO3_13c_v4_bKzlD1XaDJzVJ1lhLUzP0f6cmbDyAKD1aOWSILJl7-Q82kBWtAdzaki043rcV6P-4B5l84uCwS8U71m9JM2j2WtJGFUj8XtWvOMh-lR8RwDvN4zgg7FfdeYoj8YWgs-NxiL3vAyRQcyLKapTVsAXDZfrd84TaE1QLlJc9wa6NCwdOAYQeciWfRaRyvaipgXbpSA
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Ryan Gubicza
+        uri: https://maps.google.com/maps/contrib/116632351779925397218
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVOAr7wXzLETVxUgSANtUMSWIPE7yYsTxnfHCgb1eHHkv-9CKzKBw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD6Lm5ag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD6Lm5ag!2e10!4m2!3m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e
+  - name: >-
+      places/ChIJ310ezgEpU4gRnjmZO2w138E/photos/AeeoHcK0Bc1fb0FUl6l0IVhHDKgezxEonp28yxVna-1x4s8fznD2evIXKh4gMKJQfCddbYW3Wg43va-xO1ZQ7vGmmkacvHQ7eGgZncOJk9-2lxEUhf1Wa-axXHr1xcny21MpBuKLWW1BfGZS_2o6sj-xrWZdNwkSvzyy0sMSwHJa0WRWOkfNA3qE5_KxsQY67bpeL2IO_Frzp-qtyygFoQq8ukmJdTxp1nCCBT4E7LnjW706p8rGZvy0qxX9t7n7ahnrdoJszL_o8cFRc3Mf03d4sIDgwHDGR0Hgtbxbwe9iDlbVyEWMdwfqfHkHPUAozFHIwvZ2yACQVQYtgvWyFzMs6KlP-e9btmjtO0Ck86TSVuR2-XQ5eBcfu2QhvZyzTAs0oL3Yr65PR3wVvwAgCIQ3VM0Ntkwh4c4j612Nylq_7KelNT94
+    widthPx: 4800
+    heightPx: 4800
+    authorAttributions:
+      - displayName: James Hobbs
+        uri: https://maps.google.com/maps/contrib/113338173421313907055
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXgit4_51Jr2RB4GSlRqWgHh8dw-83F5pd19_lvWAQTt9o9Bagg3g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzse7PhwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzse7PhwE!2e10!4m2!3m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e
+  - name: >-
+      places/ChIJ310ezgEpU4gRnjmZO2w138E/photos/AeeoHcJe7yXNRxgvpiCa1KY9Q35LGzAWDJ16utdq40pP9HUCAAxwpKI3EBfNQ5BJzI1ptW10yDHsE_SlshIuKh_fRsiGTFXa8n6DHz_5BogYuOcRhyjhseD-QZTlpgRYA-diZeCBJwESISX4ze8zvOw3y7b188TzZ5adbLdoGxx3HxN0Nc85Cqr1EQuroUs3ztJwR5IkJ8uAZq8icIoNdHu7o-iIV8yfgyloINuKip1r5y3RBPgruDt4Uzw1psHY6LYrVYwhxFBxy0xAWEnxwkPVLUdnl75BgSIqDIzgDLwd_9E1bYZ_mVl5fEkLLWhrFZCWd5EflKuW8KhNw8co_okIJtxwxj6sZoxqd2IPX-btw_bqCSRBEoudjx5KGL0RGAR9kxSEQiQnl8wnQyXBI_L9oDK9XveUjGvVFcyyR3QGGiUZRw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sun K
+        uri: https://maps.google.com/maps/contrib/117927790749033784333
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLiYUTPq64yfLtzBBmeULHnRNFBQ6uR2XkJQuJVxDzX5d1Q6g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZzrPYew&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZzrPYew!2e10!4m2!3m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e
+  - name: >-
+      places/ChIJ310ezgEpU4gRnjmZO2w138E/photos/AeeoHcJG7fJK1P7EOAtJ0ahqKciLSnhsvEzF3hnYS_Fz2CtcWkmrtcfJNJDeTB5KzjBcEFVQXqVU8uW8tLQtA6Jc8ubURUSOuQJcS9JXNeYr2Jo9fpc3kJkNMBM6VdCewNfW9JDBlwJ594gDxK7XRmbfMXcttr92MbnmC3JYwJS4V4KBK8-HnQ28n-aMJLvM_OHHb8xnldO3jzhRFYjeE5ef3RTlYqa0IA0kuJa3azqwtcu9IPlWR9G-iYkFcADH2yOtxyIWoG7r_xhph2tpAr-MXhGJ-rW2MuFgZLoIgQTp3C18Uf_vWuWNUJ5ZCHCaoBitH9PUPr6oYz86XOujy9fIROPNmd9faEa9njRDnvptRs6AHqe2G48FX0LDriZZJTUcNTVF9ZfgAGOJf2LdZehRLwBzDp296-oov36wrG0pWqOzXA
+    widthPx: 3953
+    heightPx: 2633
+    authorAttributions:
+      - displayName: Mark Kemper
+        uri: https://maps.google.com/maps/contrib/102055379888537794634
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK0YYW9wf7SRijK9cw1uYvheF_LNmqD2hNcQ0f0vNVxYaTHuw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDav7CKFw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDav7CKFw!2e10!4m2!3m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e
+  - name: >-
+      places/ChIJ310ezgEpU4gRnjmZO2w138E/photos/AeeoHcLhTyn_CaaOzdKc131mOThXAjEJfEZj8vCaC44aa2OFw1iYN7QpFsFbYyXSAuhs2ct4HslmCAQfunYUDxTy4IAjcYugitj3gGyX7_r0Q_8nAtTtmSF4-rzD-ynHmDSFiCZafdEibWnpOPDAAlqQQ-d07rNBfjbfWevdw8VfErc8ls6_2KOQrqRJJs-6789c-a7AYiM6-Dc10BTHq-z-9OJSTj8C5dlvPXftPxl0hFj5w3Y63AfR2ZYIkp4lpkqLXQA5zdw2n1dbE3aBFgniXJAOJWTMFBb2ZigbyohVv54Q1QUI7vZSzOG7-SQa-b_LyUDuodUC_nlC2N6eipmNXlpDmN6ofsJ7WT-SOqUW8AsDRYYn1a4-E1zD9edvxUfNLjdffhGHwqeck0KUmELpaMA0gm4ONdkGgFIuGEhkjcSZVEbh
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: marina moreno
+        uri: https://maps.google.com/maps/contrib/109309576600093569768
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXrzqVvyvnUligl207ci1SNRyG4rIDigobX7lp8b40oHQMT-Z0B=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPvfbf_gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPvfbf_gE!2e10!4m2!3m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e
+  - name: >-
+      places/ChIJ310ezgEpU4gRnjmZO2w138E/photos/AeeoHcLewDYBoB71hnD5BWhhgWZIEcMCRhkUdcQ8i8j27Zt4x2bvUeQ6nKdGMLmSXpHY6ZDYRRSkf0GZ5mMBzgCL0d7ZLQgJUBeVQMYeW5NZKdQp0TxbpNaOvpi1mTmQbqpXSslR42d297pkop5a5N7o1nQkZxXMfX7dVobuUZ5xLJbRsmzWjLeWk_zGi7g9YPUcw9FDLCWCx00ONpe2nzudYl4PenZi9mNBpTttaWtP15ukLmIFQowxWfx83INPEngBFXgpO2tb42s2NoUnyBUu01vJLXMk3h-XkrrZFhQ7wamWhrE7OwGYhKzHFLGpf2CoOXzGacYf0f9RsnU919E2CjMa-FrcVp7QiNqev9cvcNDhE7fnIW0SVr4B1W4Htjbv8quJL5jIbx07CZCNsQFyDD-lVBSMsAMPcrJhRrbhI8Q1awed
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: marina moreno
+        uri: https://maps.google.com/maps/contrib/109309576600093569768
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXrzqVvyvnUligl207ci1SNRyG4rIDigobX7lp8b40oHQMT-Z0B=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPvfbfgQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPvfbfgQE!2e10!4m2!3m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e
+  - name: >-
+      places/ChIJ310ezgEpU4gRnjmZO2w138E/photos/AeeoHcK1F_XtwFPgQMNlvhQZbd6goCGuZiyVi6ws_5qbJd_S9gth5Ad0t3B06LWNBv8pbVFIK99GhTUKQ9aZMM6KR0ZeitQb4G6Zhep4YbAlwW2uO7-ywjWqm7p5mxBDK7J6A0o0QBAnVmvr2c4cFB33Ia2l6MZ52c_XPYiNFNoN4JdoraemZLo5CmM75px0s40ziLqlGokCpza7gdxXb_CtXyNxleQgSG5-G-O0FQZkVsYZLtJExw2nRjUWJxIRmgvPesslCPFbdoo2jYUyxHcu_YRFwY3h4ICC8q5rV_zZIV3SieDiRRLpnkVM6t-Z4VkXu-PW2fVMI37hzCgevNHhO1juKZUn7g5415d6RvCX8Sqv0W8FfMyUY6txJFf2mfVQMrMEnfCNCXYT5FEuhGvlUDXefUXd917faCsp0WjbzYRGWA
+    widthPx: 2097
+    heightPx: 1964
+    authorAttributions:
+      - displayName: Mark Kemper
+        uri: https://maps.google.com/maps/contrib/102055379888537794634
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK0YYW9wf7SRijK9cw1uYvheF_LNmqD2hNcQ0f0vNVxYaTHuw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDav7DsWw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDav7DsWw!2e10!4m2!3m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e
+address: 2041 Timberline Station Dr, Elon, NC 27244, USA
+street: 2041 Timberline Station Dr
+city: Elon
+state: NC
+zip: '27244'
+country: USA
+neighborhood: null
+latitude: '36.102697'
+longitude: '-79.514671'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Simply Thai and Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88532901ce1e5ddf:0xc1df356c3b99399e!3e0
+  placeUri: https://maps.google.com/?cid=13969943308099205534
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88532901ce1e5ddf:0xc1df356c3b99399e!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88532901ce1e5ddf:0xc1df356c3b99399e!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88532901ce1e5ddf:0xc1df356c3b99399e!10e5
+primary_type: Thai Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Simply-Thai-and-Sushi
+
+---

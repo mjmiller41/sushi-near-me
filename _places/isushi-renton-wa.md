@@ -1,0 +1,212 @@
+---
+layout: place
+title: "iSushi"
+permalink: /washington/renton/isushi.html
+stateAbbr: WA
+stateName: Washington
+cityName: Renton
+place_id: ChIJ4xY0AaNnkFQR76TTOxuMPD8
+photos:
+  - name: >-
+      places/ChIJ4xY0AaNnkFQR76TTOxuMPD8/photos/AUy1YQ1I807SNYqmO5sP4tlCwKElxGOStbO1NdJVS043WJv_uVks0T1ybIAMu7pCRvxMFJNZjr6Jzro8PAii5DuCaMRURM7IwgAEykWv7SXmDSxx8gfFqiRudxhhkJ70S0yLOB-Qno2tAe_oOuyLddFXDuuJNKX6u_mYHeHKIPKh9H2Qh5Lzfe6WW4zrgjSDBVbKukWpENrf8x2Z4ekXJruWMHiJV1QHbQLfBZyT5xDs4w99psTR-BwECbN29WWmiTQny9qlJ7L2FUrWvKUWpZKcDI8dVS9QgHDmWokeCgiwU-gdzfRoIkXfB9gbg3zdzrqOv8f_1--g5ZYJGta7RsnM0btHhLYlw9tD8NfvaeqXx6xKa-PR38fH0L9KOTSrqtiFtzbRV3uw8V9UWa6ke7mCZ4blCSf6qA7MIYhgGFYD8jjjRzkm
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Joel Fitch
+        uri: https://maps.google.com/maps/contrib/108731516939221264214
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUVZakP6CasuEI26s7AHX6tvW-MYpKeHuhLySYW_QummI0x8bF-=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICE2t3OvwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE2t3OvwE!2e10!4m2!3m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef
+  - name: >-
+      places/ChIJ4xY0AaNnkFQR76TTOxuMPD8/photos/AUy1YQ0kn-BtXDMAANPSmDkpq7r7sO384mP9dpbdZPvNwLdPKo0JRnxZomZQbD0PwVfCoVRSOjhRNNF5-uOQA5UXR8FS7rj-ZnM6Eqii2mS4-rsxppjuYDs8kREiLiz7U2zm7gIuX5w7qQVv0m6RHur8kyUSlm2DbcPIaK5CyqMAV3oK7KUT34rKCGoENUw_LEX_HQfW9FeLlT8GDWcRfgDIAlJne8SyGeQvR_p5uYG94cXCOt0FzNRerbx_fyre3TnE6x3lstdrqiaIrET7mihorFvvub9Tu2qKHdnBL7WCI-qD4pFhdaSorfJ9e7WKxqrZ9Gq1AwynNgu_MelE5vNDjO0o8mmBVMq0ln7_KW5IwDlNi5KmHH9kkA79GXdvJQWZhj-bg9xhaz6EHKhXcDkfz_lqq6rqSZ-oz1uJLlst0eM
+    widthPx: 4000
+    heightPx: 1868
+    authorAttributions:
+      - displayName: andx79 _
+        uri: https://maps.google.com/maps/contrib/107009714915543212776
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWNQiiONOegJh8QNNBr4AiyoV0B3TApwWwGG1Cb3QCkbEafiixxfQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID2xfuQHA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2xfuQHA!2e10!4m2!3m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef
+  - name: >-
+      places/ChIJ4xY0AaNnkFQR76TTOxuMPD8/photos/AUy1YQ0MMEyw4bCmx-I7eGDwfSRiUc2ueaYKkWJMSk7_xECONA_DHvCu6WzOzGGTV6YD5Rt_j9oRvQwTWx5aSyrlICvjbETTPKiBgtV5MwkBGWDsECMrePco-_PA-zodr_XKVb6x3QozSadec-T5YTHetl_S0rFSOLNpOnUM2H5weULgsqFRzKIfDsAijuZQGy9iuUNBFwZjSOTggWDkgQDpmgdl421lA25TPfCfJktpB07rfm5VqOupRtUUQJAXh1qGlR2Q3aLblRJFs4SQQ_1-vzW0doF3M_HrmVUchRYT24z3tHnZqxRgevL9WDnynxG83PgqDSj8URTtVBIMvYlYOV_w2zrVKD_zWtTQdaROu86oWXBvfBbQSZi1r5_pygy7-WFA8MDt53cT_te487aT-38MkrMq0sDpMGBaug
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Justin Kennedy
+        uri: https://maps.google.com/maps/contrib/105208261742137538055
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUwRSQri7FejIpbQkIh87H9bjH2KFvoYVP1Xb7ASW3QEhF5omyM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICro_VM&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICro_VM!2e10!4m2!3m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef
+  - name: >-
+      places/ChIJ4xY0AaNnkFQR76TTOxuMPD8/photos/AUy1YQ2r-uqHGSfl8_xFb2fjlzYt-A6EPw-B54t5uiSQ6K56CAvUE-oWb27IGKYaO1kpMlVZ5eZKxVgtjrBiS_wNGb5WqxKe2OdvxALGAnT9nZFN0ioLBL1sugpFz4QByPAuXuuswHlgCKDU_j6ELzq8JWEB697xOrSk4L4z7XEUMCBOidllLlRgm_BKXcfIgiZvOuPmbxvny1jrjJv6jGVfcdhR8Je_XBErsb2uYsup0tqV3c00UKhtkb3dG0OPXSGTQev4mwzJsoxXVB0-sUNZPLiXVEptR0RdmKiUQylUY5DTtjSYpt8vYovfSNKer7nlNf5RCLb6Ke1lmkzf2_aifleK2ON51b-Avc9USwY6T5pwxJtJxypiDUH221FWhfnmrN73EP9Cv5JKuTUbe0XFdPe5Rw8qw74sYQ9eWZTstMQ-yv0
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Dustin Ellison
+        uri: https://maps.google.com/maps/contrib/114142377043564179008
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVyCP8MTO15uEEhw6DBX0O1pH6AxOZiwxk2vCOlpzFeNb8GXgTL=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpjdzTyAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpjdzTyAE!2e10!4m2!3m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef
+  - name: >-
+      places/ChIJ4xY0AaNnkFQR76TTOxuMPD8/photos/AUy1YQ39hTgQn5oOpCG_rJ8g8cJokPCI-UFJWrY3XEWiem5HL116EchRh18jXesRK61O2iYGMHZf0v-IZw0d17mn0QDTVVwuBZtGBxjUPw2Ul2NOVgO1rpCGZij5NwVQicIGRxbwh7VHMffq_m0OXnMdeJFyxdl0U1okPRuigSaS8ItlvaekiWkWT7WvfCRXUMNQN9buWdjIscqmt3RbGRwV10dzGOGtvRuGD4Cy1wOyHs-N2pc2sB1cqGmLwYmUG9Pbkv5jn8Q1tlfnQr9DbHT6BAEe30CyQWW7GOszEOLed2eYyycV5ewG6paIhZcKaNK763ExI5DrkLijAv2bhtD3zaprnU3rtTHTbdYcmWlVGIJLvAcYqQpRliPB13NR3vOzHQe9LIzDqUh6sNAetUm6YPjVpku3wTxjDGOAVk9OkzvHFw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Rick Aholelei
+        uri: https://maps.google.com/maps/contrib/112349618812192938001
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV6N2lyfxfehaB2WxLJTy3qKYvLKmqwVIWClvrCCEDmmAvN56s=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID50KCNeQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID50KCNeQ!2e10!4m2!3m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef
+  - name: >-
+      places/ChIJ4xY0AaNnkFQR76TTOxuMPD8/photos/AUy1YQ3-TM_0xkQ7-3wtmRWMmPjXgF62R4UevpTdDmPH9HZEYDV6Lyfy17nMgdZDpaEo-hTrseH-qBl9Dl-J-yfZoP-H_WhmgQfUNq7T0NwxY5anXdmMg2pzukcPpnNd_7Ai3QdGeSobazo-45T2DrH5EWhXD9Mpfp3k8w9L6ukk6IxUPeh1c60CZ4AjAyJHo0TwUZ4baU4A4jJT0M4FbFopN5eePaFXzYmR9fpj5z52TEjLzBxt7DvuNhXTGkwGvVsb65VTSeHYB3Sq_Fv1pLnEp1KpQbjUfD7tRlURSXgD8UfHSTw9-O62dEzyo30ifSrjfCEyz5LRx2gn_WV7c1CBqSgwnBQGnqNGmXyF5I4y9JjX9LZhv4yLEiLQoGFlljzPUa0B2a7yNXrkvwTfOtc8XIdlQ3R5-qEYXmFpiNf-WytGkQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: ALMA BAKER
+        uri: https://maps.google.com/maps/contrib/101268394035918828050
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVs1yjrFIvJ8rR6uk0Ym9UIAiWdFB6xcqvpcNAtC05WkhqVLPHi=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID26rmRCQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID26rmRCQ!2e10!4m2!3m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef
+  - name: >-
+      places/ChIJ4xY0AaNnkFQR76TTOxuMPD8/photos/AUy1YQ0Jv2vRZtJPFS2FSTiBe-8_jAnIi_0lluB-7iJmIFzc2Z641JLu0UFsCxP1hdOhuSAacAcfcgr8GxRitrh_-XJlkfJKbqe8D9bgfxocFuo2f5204-8LZvATItrphYoL5ITZV5stljSJleM6akOOuvey1vNivVnaoZP2CojXLG9AlEi2QrglsJwF5GbzBlHk_6l91UcD23yVKTWz3de2F-PldkrhBDSDSu4tLmolZ30hCnLEYMxsVD6PlPaZaoo0qZ7MTsZbqltzrQZU-vmRXmSO5f7rt3h9ms9IRZKcF5gXwRDHnJ53hmkwsbdAVWMdPdgYCgMiwLY9TDo9NOsE7lM0zd2Rwp238dhz4sZlrVfhJc0Lo2QqtUkbPRrwIC5ujMJjo7bNlFl-PfcQE0o53bjOwfsXEFQl9IRXgUVIvF0uobr2
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Stephen Long
+        uri: https://maps.google.com/maps/contrib/100577335454916213762
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUBooR5wkHnE5veUG_LDci5W5xciPxCJMY4XrB9FZ4Z7TcM96zwXg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB75bq8wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB75bq8wE!2e10!4m2!3m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef
+  - name: >-
+      places/ChIJ4xY0AaNnkFQR76TTOxuMPD8/photos/AUy1YQ1NN9CCeWyTnMM_wNIQi-lHbC7veBjJnHEFWPhhHd3L2MIILcOzRkNV_iLokM7OxNTelmrD2KVicADhmV-PWorUe_pGvyzNEkJfijwlYIUa9fWvGwYcNaAMq9Ike3-mkQoRcIcMWbKs6jS7BtjncCaEK8_oFPyuHTwD640YZJpLZ11IBDrOVI_P5s6Bff9uMMVgDTGETv6f0UybT39AGrR_vTyjwvyHQs4IwoHYSN4fJiG-AWAZ4txcZFHEpRDDk101ZNP4sNbpEm8W2X64p4J-sDHAIDaGtv7DORmrYKJuz5bThlOl5wV27qLupXNe6pAk9E6VyDrTF8jVRzJSNPHv1gj7QCljqC7nWWEE4XcuMCmIhXdLeshwaWjJnL9ENojuKmHgm2aPh8Wow8iEQqGePhFaA2S8N8JCfFTWjP3uXQ
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Leiming Q
+        uri: https://maps.google.com/maps/contrib/101079092111906344907
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVpX1aXNWTEaGDi5qCvySXhYpO-xX0heu5RCu1eeOcsOwlq2cngwA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_i4-YYA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_i4-YYA!2e10!4m2!3m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef
+  - name: >-
+      places/ChIJ4xY0AaNnkFQR76TTOxuMPD8/photos/AUy1YQ2xGbguqIopVW2Le9EIu3TJ45X8e079pTZUlNXZCb2GSYZVKfhTcCNHQ_3I2fECZAwzCr-D9RrDzT7o8xOccqYp23U5SLpN_kPVnweZOxtna3fYoOpOfj5bPClldZvpgt_YO2m28HY-G4oNLybp78lWB3B9JEc8sFvA3ZoV0HwBcZZFdBeLiuvk6RsvSv9rWvgs7zBSB0NDnfP9uRubgK18jw-mYOVGZFmHjoRldLS9BFQrBXbvAnbSC4_JR6VXhJLeXZnQfDy161YRW8b8JVZYJRQXzz8_SwqDcZWAlxRs95fhmHQ8tk47swJR1g6J21VttTL_4-1P9gmHyng3wSPx-SVYbPmzywBZkqJgVjh8e2v8QyaRAsBI_PU-8VWKf7bV1rPKZWMlLys0Mxdt07TkRH5L9ApIbpstyALhUOJR4620
+    widthPx: 2048
+    heightPx: 1152
+    authorAttributions:
+      - displayName: Rose Pacheco
+        uri: https://maps.google.com/maps/contrib/114673473884037468685
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXmXq7G0H6MKPYFRdWv8F5NPGDUmhKyFOvvEYhdfr-MOPJq3fN4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4stC7iwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4stC7iwE!2e10!4m2!3m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef
+  - name: >-
+      places/ChIJ4xY0AaNnkFQR76TTOxuMPD8/photos/AUy1YQ2-dTBluZfRt2EaEnvuVR9xGWnKeRWH7E6mmBUEsmXLGFOZP3jWqw705FNtr3kxViTxcilcN5Xb-dPoUGpKghxk3727tO4Lwm_Y-BHoexiF_QWjIsCKfsGapQ6okN8-KaxSXyWy9Ft8HI57Dhry1C1wrgI9yJ3b9FAToAV065QZnnZYnWSRg6qRgQhCcObXtO0A22jxNIW9B7r8hKzWBFH15BT_AetYRmLIc2etvJR4CGp0XrGVb5O8VtJC_Ven5kRlaVn44j6E_3b0oGk_eklut3a383ysz-r4HiUze8o1zJfCsAZcg80grlw1jtzVgjEvGU2NSQA45TFFbtaoIPGYADDl_rrSXaxkZZq0TZj-MsLJ2d4-foNAfQ6i3I5F1ItPwZMVyGz7mNG9kv8gpaTIq6pgId6xtiZDEFAWoeyfTQ
+    widthPx: 1931
+    heightPx: 1448
+    authorAttributions:
+      - displayName: Sara Chan
+        uri: https://maps.google.com/maps/contrib/116871738540359486413
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJIf9ig-BDL8gsVOBRfL9YftcTYp-9nugYlsff2SkjjqNBcaA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOovn4DA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOovn4DA!2e10!4m2!3m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef
+address: 15221 Maple Valley Hwy, Renton, WA 98058, USA
+street: 15221 Maple Valley Hwy
+city: Renton
+state: WA
+zip: '98058'
+country: USA
+neighborhood: null
+latitude: '47.464689'
+longitude: '-122.137239'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: iSushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef!3e0
+  placeUri: https://maps.google.com/?cid=4556670971587831023
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x549067a3013416e3:0x3f3c8c1b3bd3a4ef!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: i-Sushi
+
+---

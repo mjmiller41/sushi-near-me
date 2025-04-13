@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Tuna Sushi"
+permalink: /california/lemon-grove/tuna-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Lemon Grove
+place_id: ChIJL8LrVtRQ2YARD66LYt5dAyg
+photos:
+  - name: >-
+      places/ChIJL8LrVtRQ2YARD66LYt5dAyg/photos/AeeoHcIMasXm0f9bwmrdUG9BwAy2cqnSG3nveidZt2DyjTDVtCixPyUIvUe20SOMtGTZvt0zxr-wWJRFjOIKeEORw-ya3U-Q0lEFRt4gVeMLNutz8JbChT0bZtDBL3lRF2Jh1EQT1YeThQy8MQh6ZWFhIDjFg3aW75sYHNORUH-zZnv8_ttK1vWuVOoqg4CS8cpfA5-CypmjU8bW3C6EXm-CXTWj8f5VmaZR0E7CnbJTYxljNPzk82nQuNdbzawOdMxfF4legwZRCg9GBFhhd1IbzLtWomr36Z8wviekD8kbY7sCN6kom9dpO7SOWCh7THkihC17zI4o1Vhb54wPOmFqXHATw4sOl-5M90PLb4skdSFfsdbTZX7GrAGHChJw4LmxITW04EKF6jPfs0oXCfK2LEe_lkcsYhv7dXk--7B6hs7XQwfc
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Robert Rael
+        uri: https://maps.google.com/maps/contrib/112792759444568871268
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWczQD9vieLUF8yWcPQb9fn0k3wbZY-0-H0_ygNAyWgJ9-rjepHLA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk7pDi4gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk7pDi4gE!2e10!4m2!3m1!1s0x80d950d456ebc22f:0x28035dde628bae0f
+  - name: >-
+      places/ChIJL8LrVtRQ2YARD66LYt5dAyg/photos/AeeoHcJOF9GQifKDhJxAHeHenUJmtBdRZHwGE6rlPRCcsCUUddyGzXJnQbIJTFeU4qOctHtFu4kTY5Uo95XP6_PGtA65eMEONKWzC7n6Cba4Gvb-s7P3n7YGzUOWdohX_Oi3PAlUgW5nmULYSaMHn-Y5ELxQxgQdzQfgvkbGJH61476yWLecBRk79E0CqkRnNggGP377xQHigwaLGVU0IDiOB7WCywBMZbki-YVHEg3NRtHiO1aYEzxMhIC5yQ0Sbzhtl05iuwb6mkHOjz5QwdGfCwuF9kPetOreWOe2vv6Y6aLJueNcjCQGpukWsG7pLozR0KRSTvuxxUfUc3lJXkByzM6TgbfCGV8KLSk_15YDIB79PEPcuAbbES7lz9H89ndWZ2TmQqRrwD8b2QUd9GLTa7Zw_ps3h5VxVLvydG5L4ki-3A
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Mario Villalpando
+        uri: https://maps.google.com/maps/contrib/106786999857997667810
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUNBfkMop8feU4Uiy0QX01LanuZexgHlAlM9ruAGtMiDYChCQ0z-Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4qc2Fag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4qc2Fag!2e10!4m2!3m1!1s0x80d950d456ebc22f:0x28035dde628bae0f
+  - name: >-
+      places/ChIJL8LrVtRQ2YARD66LYt5dAyg/photos/AeeoHcIOe-GaGsIyuwVmZptcNcnPu-KGegvF0NlVcwEQLgFgoIzO4Upns5UsB1XT1eOQdFFeQIyVE9Xp4P3lfqpEQjY4-R30QTABfzDansemQ0bsGvMow_3Ku-92fmzSvohUxOW6ysHXyaUYjl3gjvBd1itPmfxUbkUDHC6w8YF_1-aK6poKNB2YFXn3tYtTFXF7gkutVxQzpyI0yreF7vtkn6XSY9b3j7T_V0-1W_9Yk-SaPm_efFJHIJZgN8VAfTsSY__D1vom9XQPopHzn57m-lZvR0wLUpEp6AETM0k8b_8M6bjaWi-qxAfJ8VDp-8SSJKEFkRItuF2AN3aQsAw1RonbomKjbUAezd8JgakWrDm6BGWdoEqSmWuQa8BGKLSvGfWoG7oeCzt1BNeKxYu_FA4BJOowEuWGn7--8usLOOLFGARa
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: DeadEyeDave
+        uri: https://maps.google.com/maps/contrib/106886251830579734438
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU4neykrxfTOhGUzL3wv8XEKaXTuG0wHuXTMd55vYM_4ocaYolf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbmryiggE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbmryiggE!2e10!4m2!3m1!1s0x80d950d456ebc22f:0x28035dde628bae0f
+  - name: >-
+      places/ChIJL8LrVtRQ2YARD66LYt5dAyg/photos/AeeoHcJFqUQEzbwKnfbs1wgw4AjDoEimVd9DB6w3h0j6k5q1KV-Q3_eTITZXSJdkAYy3a5LPM6FHmws_hljx67Ke8fhSZ5E7ER5NUx9n41D5Wl9H_nUotZK1icxb38yXtTjMTXd91oDMVvApvhan5pn-7MijqAN_lxVHY_Yaffe3hDlVMLqaq8WcLNFbWhHfym96XaozaaSeZTnH6rjHonE2EVJhugrxxYWVfXwb7s8EJVj3MsyQeWohekFbizRZT7ht4aRiGk-OrbOJSli-aS6VFxeErK4EOQWeAZhStsDqRSglMxTNmyqaRc5Aop_qZl0mGgEt8IP4hM_DKB-5TvSLj4iOqqzBTMbs9EAf_Q6H1_0eYbe1vda2TlThLI8cPEVEjKAfL86Z5FLWQ6TxXLAac5zdgk58MKEb4uixN8tPsH0s1tJU
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Heaven Morgan
+        uri: https://maps.google.com/maps/contrib/107452967996593964444
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUIBYtriJj0HYw3786YhMALm4g7C8fBwWBwy6kvCrzXkS-F-pw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdjMbN0wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdjMbN0wE!2e10!4m2!3m1!1s0x80d950d456ebc22f:0x28035dde628bae0f
+  - name: >-
+      places/ChIJL8LrVtRQ2YARD66LYt5dAyg/photos/AeeoHcJtQs7tFeEC9h1maUsgYPeftqVPESBeemugDrxwfSGvTgOsv9OonloDFE7_NoPeza9i12-pIsu211rVbzYMhqDgF-Onsry0KAvtpBYVPTzFU9ITtLatgZV9Y5_2UdizFD3OW_8HGCRyklrjlNLv0qRLrkkLMTzVgUup73whHHZPnZTABfbbIpMHNYCCOeqhUjoruTdxH4QjTxmwIpR61XGCVt0-WKBWjd87QSSzN3P8jw7Cry3LW79LPsaOHdzSLRm2OGaXYovhZrR8ACgSapWpkizLbI9LPhMK0EvWumd9mfdEu0REKiLxDqSI3fmA_DHvhxlDiYZMZBQdgCQDeTZ4Zc61TGzJqpYCbcBeVoTdaYPkgeiuXgpSfKX3fwkPQGrxKi22wVeFfpAwKHYpTf0NM36s5BquyKBKE4qpuJI
+    widthPx: 2252
+    heightPx: 2718
+    authorAttributions:
+      - displayName: Jzorolaw MEH
+        uri: https://maps.google.com/maps/contrib/112427226701852764823
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV5ih55PBotqbDyW-viIdh49bukGAh_zgwJPV80N3BCLAZ1BZ89=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID38pyVeQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID38pyVeQ!2e10!4m2!3m1!1s0x80d950d456ebc22f:0x28035dde628bae0f
+  - name: >-
+      places/ChIJL8LrVtRQ2YARD66LYt5dAyg/photos/AeeoHcKyPFbbiHYAzAx3lVcT-ccxblVNtvJULSHjHo0__Pnqb0A-bniJFpZiVNOdfze6Nov0PWh3Bu2Sz20mPs_1PfaVlx2nsEtrierYlOIw9qyNxOK335hZ7_7qV0OvEmAh11HJE9R4bogMjux_jJy6AAN2QNZe8do_XeQGlbrC6o6AqqlgalyeTcvM1BqkdbAMiaxupqpuxXpOEJIEYlohL681SMpewuZyQaf-alIuCEm5bdVI-AB7trxKek3LVupRqaK9_XcHXGN55YRIHBf-IWqj6CEXAHgDFbAlYK-qHoNodJwapTTGKibBnBc3WCYBpKjxv5vmyel3RPozItIjKphiFfjefVrqcB2Ug8eiR42mvjfMsU-wCUYCE_VE2fbd9NynHtH566xKgrA7tOKJe8iOR0U_ZXxwniYAlNCU9J4
+    widthPx: 3075
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Jzorolaw MEH
+        uri: https://maps.google.com/maps/contrib/112427226701852764823
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV5ih55PBotqbDyW-viIdh49bukGAh_zgwJPV80N3BCLAZ1BZ89=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID38pyBGg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID38pyBGg!2e10!4m2!3m1!1s0x80d950d456ebc22f:0x28035dde628bae0f
+  - name: >-
+      places/ChIJL8LrVtRQ2YARD66LYt5dAyg/photos/AeeoHcIB-4K1UZ37Mdw-iXAwjHi1nd288GiKs5lR0SEQf8LBolOqCIViyq-mVEfv0wX6WgLsQG1O8egKixOVQUID41KgBasPfz8BVdzXpU8ZF5ZFKMyHBSB3RS1HdAbeaNY9Ki64SjtNgtYYYbRsj0ExarBNa7UaT-gH9bZkmROmfX8MPFhU0NrzB2RK2IkcPysBRq1F2h9BU2PHxoAuiDnDDJloGGJH7vjYoEq_5o_CY9gyzIKc_4h5NQNjdi2jNqjAPqb1cbiM4RhlqdWEliYuTVkoz_QRp5sPB-ZJ527itBUulNrvZVVYNzB_ii_fnoXwkO9AkRlscEQ_2XKSq7cIKtiubrrWjYr2lBIToKgSFr2YK4Q8nYinyQZe3mSOzq3On4ApyFC2FqsEhuP06W6_A301s1NXzYMEbe4GFaIyiTGVBw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Downtown San Diego Massage LLC
+        uri: https://maps.google.com/maps/contrib/111428295132281965861
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVddcYQ7b-M9NgYkxEMzH5aCRo_fFGdm20q2AVe2YbHp-RMpH0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC6m4j4BQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6m4j4BQ!2e10!4m2!3m1!1s0x80d950d456ebc22f:0x28035dde628bae0f
+  - name: >-
+      places/ChIJL8LrVtRQ2YARD66LYt5dAyg/photos/AeeoHcKAeYQfp1GFfr4DFexoVTR-yjqJ6pBOd5WcC_GnQoYUdiH_07USDCR-4bgwNM1BhtXS4LOrMt0A1D4fa1tkyXu1q9GAEqJox6GTh6GEhTbfv6-xQyf9ClgB3BtB49WZZdiqVFCkM0AbAOvN9cVSUm_eC8T_ajV1Y8iJIBB_2m3zRFSdoArZi851db52v6UVjctc0sLboPcfm-h4V5grr8BTa517GO8ypIAp9Ojt4h7tFSmjJ4rS_NIfnHzZv557sZoggvAue-vyP5TOYEEDQwLXTyOSmqGByUPZToCCavhPdsKvL_M5IxA487wspp3pw2q55PplN4qpQSytHU6n37nvrER_s5Fw5ll00P-F9viWVA1kEmk7H0UM4-ZXHVnmD17xqRFaDG1Dz003nJjq63RqFNRLA-oS9K5Oc9kXYPS6pg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Robert Rael
+        uri: https://maps.google.com/maps/contrib/112792759444568871268
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWczQD9vieLUF8yWcPQb9fn0k3wbZY-0-H0_ygNAyWgJ9-rjepHLA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4u_j7Pw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4u_j7Pw!2e10!4m2!3m1!1s0x80d950d456ebc22f:0x28035dde628bae0f
+  - name: >-
+      places/ChIJL8LrVtRQ2YARD66LYt5dAyg/photos/AeeoHcLfrEV8oKi3twgXlyTa8_St3IE09NNEmHi7g4nN9b9N1X1qrkgWWNd4HkgDYQ8N4azq6H2GRH3hsr6XWUb9b8Pjj-l66JlcSERHE7CKF1APW07y6fveBHzVPRP9qg5lbJYpby4VOt6UdvD8XL9qyB067E0FEI-NCBYsBtIDpMIR_yPWyEp_6KZ7r6N57NWsADOOr4bWxWNJeSQyJVo2FnFpASjU8eVVLOyHFeMe_jEopmk7b4Xjf99ArEWhcaHORRyz5akGkLbgipklQ7qFKUI6KE7jWp28ZNKtyNyst832HDIUcE6ejtg2rnJQ--s5xG9drfycU93CkPtL7WgER-D0Ov8pjoria2lakDisoW05xfHnVHDdu_es7vfZuRbcjnV_r0qY9WXqoRzet2JKQFkY5RuOjmceeiJx-KoAWXohVc2M
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Lorraine E. Aldridge
+        uri: https://maps.google.com/maps/contrib/118026547795384101072
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWLH2rWSxkTgIC3L2ZkzYN2r3BCSD8mL8F55tg3QsZ6R1eFPkAL3g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTspC7xQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTspC7xQE!2e10!4m2!3m1!1s0x80d950d456ebc22f:0x28035dde628bae0f
+  - name: >-
+      places/ChIJL8LrVtRQ2YARD66LYt5dAyg/photos/AeeoHcJudPQXDora9uvH2z4z7p-yl1WkYCGUBtcGYzjKojO0JVHtZEnm8hmo9qzJsyu-Y-iqSqUWItWVtrSb4Jk0UQVL0xyapwNlGvAkTnBjLgYrVRd4uka3_io_wbeoFWVwtTtmd2T40ao0i47g8R-v4a4YMwJNC7isK3nFLg4E-WV3B6_ws6mciMgU7GOmA6izy0t3FTZWRHH0f7QMA-tcK8HqYJEBbAYlN7raQl6nYAXSD_XaE5dTVyCXH9GSJz6zHrptxyAavRWFeYVgMuTbCMteVPz9vDPAJdakaZGQ1vQFOG4YyHSPDAT_x__VmkHfpFpVjX8IHr0xHfMMkIqru-qQbnz6WlOisX8OD62UV8pLTt-POXJu-uWKQUTDqbGJndbD60RZBTF1FL7RNDOo-7qVugvM5pNfo0_0dLsbwKPpig
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Robert Rael
+        uri: https://maps.google.com/maps/contrib/112792759444568871268
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWczQD9vieLUF8yWcPQb9fn0k3wbZY-0-H0_ygNAyWgJ9-rjepHLA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4nvaETA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4nvaETA!2e10!4m2!3m1!1s0x80d950d456ebc22f:0x28035dde628bae0f
+address: 7887 Broadway, Lemon Grove, CA 91945, USA
+street: 7887 Broadway
+city: Lemon Grove
+state: CA
+zip: '91945'
+country: USA
+neighborhood: null
+latitude: '32.742503'
+longitude: '-117.029043'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Tuna Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80d950d456ebc22f:0x28035dde628bae0f!3e0
+  placeUri: https://maps.google.com/?cid=2883251396164693519
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d950d456ebc22f:0x28035dde628bae0f!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80d950d456ebc22f:0x28035dde628bae0f!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d950d456ebc22f:0x28035dde628bae0f!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Tuna-Sushi
+
+---

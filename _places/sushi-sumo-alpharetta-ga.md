@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Sumo"
+permalink: /georgia/alpharetta/sushi-sumo.html
+stateAbbr: GA
+stateName: Georgia
+cityName: Alpharetta
+place_id: ChIJBbP2KFV19YgRoxUjss5fgcY
+photos:
+  - name: >-
+      places/ChIJBbP2KFV19YgRoxUjss5fgcY/photos/AeeoHcL_k1GMPAm054DcLzOOjereq1rXX6I5YjTADnhdA-rNGR9q_RlxGecukr05hr9oBOVHpdeHY5edjhwg3hgvr9yi2O8p6hXC9j6rD-_3yS5COAwvKN6CuWiLyoAveHNhKer66ufYK88QgdpNnOshTjr4FEF6w1fZay5cxfVrCN3QT8I_rgr_w9EFHQgf30FdZwwbEkU00KCnl5fB0UmkWsAF3qYDiH4QL14_UQcB7ypCjo0XjDoIA2kObZ38TNxYW1Gd_Wq37jy-NQ5qNlDNZDqG9JPRG68B48sRrMkWPGB0ziKDcaF0eI8VEthADJrdN13veAxgviMlHBCWAeR4MwZtJXVUQVlPKHL8X6IJVqzBYAIK5kIyTItBjOUGxPUZRt6q1UKAErrZ_KThm7DekR91ScF0WEaSrKWO-EUjMZgbRA_5
+    widthPx: 4048
+    heightPx: 3036
+    authorAttributions:
+      - displayName: Julie Kramer
+        uri: https://maps.google.com/maps/contrib/107563613894221093064
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXue5S0IVkZpAHW5Eli_B4Unh09umRQsqpPT6TcEhweaQ6I-6E3IQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4q7rigQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4q7rigQE!2e10!4m2!3m1!1s0x88f5755528f6b305:0xc6815fceb22315a3
+  - name: >-
+      places/ChIJBbP2KFV19YgRoxUjss5fgcY/photos/AeeoHcK7oyZwDZi13RMguJ2I6az2iTgTHrSSZSAqtPAEkHCS66PHL4EXGq4b6gp76bNo_FGOWkabIkWwTZ3I8hnqEtIYVRJE4RXjQQeNzw3R4o8HsX3cYgiQBsFnJdRg6Z_qXB0CZ0iYITiq4oVsPhNiMoLNpRRrpikVVFlXyRIdPFhRXjwfDTJLEAjW7C2UhS-fHeFWZ3kvU_HXCx1y8ZNKHhed-qt-QNTbRUaRlVEsxZEgBxMDjBAyUHPPh9raOy4ZGHa3QWklvZ3Gk5OINwC-tInZFsIhDEUhZe4b77ghjleSmnZcH_Nw-s3fNcrIbGBFnKvEn3ccEsT77D052Vmq00w6VHpJr0B-fre3OFnn9X-eGB7hQKA_o9ul9SYpoC0zPGh3CHzinp3cLAm2YVAt5I8K0ugf15ld40LL2MYU8tKBuA
+    widthPx: 4048
+    heightPx: 3036
+    authorAttributions:
+      - displayName: L S
+        uri: https://maps.google.com/maps/contrib/111237841947380337726
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV7Fs9Zln1Mi6KJj1r9xT5ZY-1fXZdBRHpZUBGr97nnpUmsTNiyFQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICky6DyLA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICky6DyLA!2e10!4m2!3m1!1s0x88f5755528f6b305:0xc6815fceb22315a3
+  - name: >-
+      places/ChIJBbP2KFV19YgRoxUjss5fgcY/photos/AeeoHcLvhMd72cIUl5sDaG5HTwHdTfAyWAInPRlnPVuQb2iYtCu73_v1HdoJGgAB7e53R_He5sRrr_FQ58hzDTwWF2zkcZKkPsz--ZIKmvzvle-gyy5H774V5dodsuUR7_8-dXZjQ5wfijckdvFF3MKSFlkZC4Cp-7j0vfcCvT6JElb4WLBd7jCLESn76DQ_QUsNYrypOxyxCh2D_cOjj8qJQr_ufDsoFeP0GjBfi1OTRxZgFgVklz-x66JpLJB3M2zDRbFd97pW8vhWbNcIvBNIkC1uiTwUmAteY90vTGsiDX2kR7a_ivFNzLgK3_7A2FahcUnx5h8MlN03kSwUAer3nw5FPef6dUNVncbQO2Z6kRb4ulIWRv8WdKf6qsMNxwIuEikvisVOMtXhoI0uAP1L06R5fYDFde1ZriChUZXK8PBtRw
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Asa Clark
+        uri: https://maps.google.com/maps/contrib/117697060849773914078
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU1NwbxxxIutS_nKgoZAE0W4FRJplQV1u-kjuMXmJkV_U3KJJtccw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID73NOybg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID73NOybg!2e10!4m2!3m1!1s0x88f5755528f6b305:0xc6815fceb22315a3
+  - name: >-
+      places/ChIJBbP2KFV19YgRoxUjss5fgcY/photos/AeeoHcIPmS1ObmYbaytKOzQhD0mda0ZufV-f6k6bfIa-IPR1Q0sYl86o4uw8aOmAzQs27iiTsCoaJqs1h0geDu90BbSYO7cwBkk8x42ol7mS-gpKrJ-yw_fshQcc12e6ozTTWMguvCV2syNDs7skBsKFE4N3qAjd7sq4NG7Fx-6rMvP445OK457fQb9t8NVaatg1s1si4vuK6FOYWvc6O3W_EcLhATZkmHt4uJzJlWH9MfemSdFODY25cqX-ERUdDE59b-IH2YSrf3TNZZubKYvznf7GQDhulNBdVDBK8pwYG6fQQcv07hsAIF-Y-aVeQx8PHngGElfvQognoE4ZhsYXzystyBOgbrMpnBZ9fIF4_azvkw7hquCCxGji9-FXSXSyxErhMX55Y9ZOBFnkL4GEmpU-nc9S0_gaoDjx6dbYbE4
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Marcus Oh
+        uri: https://maps.google.com/maps/contrib/113338954314639106092
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKZGAF3KN1tJ6dbKCwh9S2xC0zu1YvEyoh0kAxTNLk8YPrNbyZ6=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR-qTkYw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR-qTkYw!2e10!4m2!3m1!1s0x88f5755528f6b305:0xc6815fceb22315a3
+  - name: >-
+      places/ChIJBbP2KFV19YgRoxUjss5fgcY/photos/AeeoHcKQh6_4yus_PrmDNyAuPG_mPI0lyaIgGbKxcPVRBfCZ-LA8EgpXntMBwmAqAR053X-SouRDbmoXXxcjLLui6jQzPW6F0T6lpXZMT9baLWvYWWhsVrQOpAQTVyZKMBkK-YWkzaItvy7WAdXA0NyoOV4DwxZvxN4h2QWs4Bc0uOjQ39FnDel2ZXYG917bTZOtLH9hUiKAY7x7X2vnKozqmy1I3dcGO6cWrAMrrAyGrz1bvpyvp7qlRaj0rDmzSDGIAYyKD_uDVwGgq6edxo3iBd21WBS-k1PLtV6-RFIgucHUBmxb36wmUSHhNu01GORf_3N-Vo5WEGQFj3j-CliyV7uGX6nEHJcGWYIooGRXfFpi1hkRlWpIs6atgy7eBU6SXiBEWs_LtPbkNkmYosp_AnCxXRdVfnRTrBTY7i2U2Ki841U
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Lindsay G
+        uri: https://maps.google.com/maps/contrib/114929238855906265145
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI-PPWxY4XU0nXzlKk30SaIfDgNVIt2A3QocF87UfAmsMbuKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR-LiW_gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR-LiW_gE!2e10!4m2!3m1!1s0x88f5755528f6b305:0xc6815fceb22315a3
+  - name: >-
+      places/ChIJBbP2KFV19YgRoxUjss5fgcY/photos/AeeoHcIYZ_SCMRxpB_sFQLBi4FRiOW9RQiYQQnWfx3ioSDp9ThEGCe7Wl1-t2PXW6ln1Vpl10O-s7b0lXQQ0FZOVgAAA9x391llKwg80T5BQdDiD856-pF_ojzGx8kzqr_1qn73ryF0SuMmnTimGRDyVtc93elIOq26Tsql1D31ADj4WifwtQHNtC1iEZlKGnsvwohVgiravR4Foq0pbBcx1WV35rGGw1Mq7nRdPU47ty7wIu7-JsdaPmTLgHHk2svuzNJK-i1tEg77XSgLe3NHgWZNhC38uKeSUhM31ERpIVG7PM-llKMycS61DYOOb1UwDRGJKMMfCjkQfmrI8Q1dfOK9ZYCl45_UWmgZb-8JdjvSZBoGvACIvvDnpLDapPBidvh-unRIwBCfw6XRP1bPGuc8ZR4ZSWdU0yisdivD4mTOWmP24
+    widthPx: 3508
+    heightPx: 2630
+    authorAttributions:
+      - displayName: Raul H.
+        uri: https://maps.google.com/maps/contrib/105141996194908082713
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKv8aOXBxgVK4Q0zATelZMc_Fo8DVWn_l6ifSQqudRtaGSROQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4-_GejgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4-_GejgE!2e10!4m2!3m1!1s0x88f5755528f6b305:0xc6815fceb22315a3
+  - name: >-
+      places/ChIJBbP2KFV19YgRoxUjss5fgcY/photos/AeeoHcK-WHp6fzP0QA0bnbpXTr0E5PSis-b2D7FBvJXDResXDgw28FZMwNtild3JnbIqsoyWgCU7XGKxKeybGEDLUGvT_8DSc4tY0lDaix8rXJ1fyzp7fe7xwIRdR1YnWGC7xBUAXaWYh4FwblO5piA4nWx9vF_nxvLdWVt2pFi8ptwgGEuUqjILD6OrM0yfzgeti_Yz-q__KtwpH-UC3MRawVVnZJHaOVQlH5itj3QlGyemGGFNtoLMeThp8jG7vrXGWPBJGhoNnlNW_INmMQSQnbnZHcRTOx0Y8eAvb-XbLfyLJx2zmo5uJ5wE_m-BHEVdAXs4XQ2O_iFnvnoompyxcg6IcBhcxIN75rrHqh_BUyg0oDAeooVW6ct0SeoR3tCOVQjUaD-MMov8oOTvPiCc22xpxvJibWLowEBcCBWXhomMoA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jonathan Lee
+        uri: https://maps.google.com/maps/contrib/103305071067013910658
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKGL9qTFYu1Zn_K2jT2CQQ3Odv6KGIeG3FXRX5FcNe_MOHElw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9jtXXTg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9jtXXTg!2e10!4m2!3m1!1s0x88f5755528f6b305:0xc6815fceb22315a3
+  - name: >-
+      places/ChIJBbP2KFV19YgRoxUjss5fgcY/photos/AeeoHcLpODVKnAz0-AsILIV-Cvplyk9FSsXFUSiT2jj0ViLc8Mr794JizGTqtRuSRebvksPRbSguDFsdn5S9m2HFSqkX8dEVYvnPhjjelzqMjrWCjUVzMwEmQr2EiMDltz2fL7LgAfJs829UCU7pqEfVnUlnmx_MyBX4868xtyulNwkeZhtyvLahjN_zkESMVgG-Tb8_O0jDPzvFy0pY8APtzKq-E02ykYtbXUACO5QJc9jf1IEZ1D9spIzyAYUAJ9RKf4yv2HR2DNrSXLfJNREOaeQd0RbcVHZhrjdh2SrQ5tZ0LAQXyCixcdVWYnYrwyqs7lU6ItsYHWrb5vMAUPpz7GsPEzmpqq0L8wA6phnEMUYRHxqhOdJBUFiDmXHhhflOyRn2pfuIJLHVtbVwniBlKqx4mtKj45BK6DBE9DZP2CjDc7cA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jonathan Lee
+        uri: https://maps.google.com/maps/contrib/103305071067013910658
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKGL9qTFYu1Zn_K2jT2CQQ3Odv6KGIeG3FXRX5FcNe_MOHElw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9jtW7wAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9jtW7wAE!2e10!4m2!3m1!1s0x88f5755528f6b305:0xc6815fceb22315a3
+  - name: >-
+      places/ChIJBbP2KFV19YgRoxUjss5fgcY/photos/AeeoHcJTEBYQGmVSDvGPGI_0hGG-BSKOhrZ8h2b7PDcRieQySE_2zdUdxbc1XIVI2HkNx5S3170igNAmwTz9vsVyzc_YzAUHx5t7eGFnbeqGzot6HL1R186l8WrjV9Qyb7ei3Or9fesu9E2ax7UXfW4OmBKcJdGooCehh3SF5THi4gCbNG1-OtMqLt67QqnxuWpDc9iZKIYBaMQBajIZiKIGIWZKOW2AIVkONphYfcKFOutXA0mnxKQ7f7GoN8pBi0zn0jQuXMq8IC87mHd7sbqvcdmzVFaZWMbahnPdGUPCnNq1VPKMa8K_PlkoAXtpiRU_q1wGCgkFgMuh7OourFK8DTi7wuU2HI5aYZhzq6freK15xhj0sQhlNL5CqRO_WaY61KFW5PNtevcH4uQViVn02OFz4VKLCkPu9gkDxb1AqFY
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Isabel Ballester
+        uri: https://maps.google.com/maps/contrib/116159564693670645673
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX3yXzwPII8qHtpaFHAdMY1C6-zA1gZR2QcD6oMDOSlaYybH2_b=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICm-6PgXw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm-6PgXw!2e10!4m2!3m1!1s0x88f5755528f6b305:0xc6815fceb22315a3
+  - name: >-
+      places/ChIJBbP2KFV19YgRoxUjss5fgcY/photos/AeeoHcK_zwiMJEEH8KkUC-tNvy8oSvBY4BdeexPA5yrY0Hs27xoRjAs7uWv3INxcGzzQYXWUCwvQcQOr5PLqg9C21o6s-gCdTP-j7dl5yXIhIEr0o0QafgSwjNyOpGldc3LRPbA7KIVcdGHPM3YrB80Q0MGJuSbGCJ8FIwuS6fa8fKFd5luKDD3X-UzcvU0Q6kLD6OWrLhAlJbykomUNjCkZX92NXw_zNGOpzJoVOxJUMK_XNDFskr6bRv4tK8ny5mYlz2tZSH6OirtfiZPQWw0RR2juJquOI068GIkPpF9vhYZj6tltL9axThR43JygRJ__1mPSpPmyaEu0-zxqjcJ2mXdn1q0Zyfz-_6Yw4wAaCwDonddax_OgRYBXowJVNdoo5UfqfdpRdz5YOWjmYrTlYclJx8b9Q_ubMm6Hn6pzL8nTvg
+    widthPx: 3264
+    heightPx: 1836
+    authorAttributions:
+      - displayName: Judah Clark
+        uri: https://maps.google.com/maps/contrib/104572741250614936494
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVazpIGED6Pv3ql3rdu78XsCSeMTAm7YxTifa1VOPo9LV_SB1EWMw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEzbufXQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEzbufXQ!2e10!4m2!3m1!1s0x88f5755528f6b305:0xc6815fceb22315a3
+address: 3005 Old Alabama Rd, Alpharetta, GA 30022, USA
+street: 3005 Old Alabama Rd
+city: Alpharetta
+state: GA
+zip: '30022'
+country: USA
+neighborhood: null
+latitude: '34.020438'
+longitude: '-84.273409'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Sumo
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88f5755528f6b305:0xc6815fceb22315a3!3e0
+  placeUri: https://maps.google.com/?cid=14303819232861951395
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f5755528f6b305:0xc6815fceb22315a3!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88f5755528f6b305:0xc6815fceb22315a3!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f5755528f6b305:0xc6815fceb22315a3!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Sumo
+
+---

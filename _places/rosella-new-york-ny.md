@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Rosella"
+permalink: /new-york/new-york/rosella.html
+stateAbbr: NY
+stateName: New York
+cityName: New York
+place_id: ChIJj_wLYalZwokRULTcqVFlZlg
+photos:
+  - name: >-
+      places/ChIJj_wLYalZwokRULTcqVFlZlg/photos/AUy1YQ2dF82uDLoecZJcELEBeJPIRn45glrLTUXvw78mcrGIYDQhEK9k4xcryS9f-Ks5Xe7FbC2GYK6iI3dp65Sa33CwsMU9KKAUoZ3K49-uP1hXQuLgZADBOlFEcupJCBW1jn3Wh_2Gt76mLgyZ_I5_AiqTQ7r0uzsPW7Orneo42K_Ptw5GT0_ov2raKNhnx9djEVxCmBinffAneDASr1AJccpASLPJAkBFJ7B0GRV-tS9sMHOOhOMFDIfpuEcaINHdILqZpCE2dxuMlzpFDKlqzj_vsLDLa1igqI7T_2TB9U0p6A
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Rosella
+        uri: https://maps.google.com/maps/contrib/105923634846379265670
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocItcP2JJr6towMypAoBDntuvvKeraWuSjMYFRu1Gbk5FNn9ug=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOGDv-k_6K7B9YdR8WcdTjZSD_iD8dVuSy4LYSk&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOGDv-k_6K7B9YdR8WcdTjZSD_iD8dVuSy4LYSk!2e10!4m2!3m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450
+  - name: >-
+      places/ChIJj_wLYalZwokRULTcqVFlZlg/photos/AUy1YQ0ZhKLvc1mHLWMtTDBFi5ZJwLvMoxXcmtn5tF3hhpgoKiaMPtqZhXQ2ju3KbG3ESzvRqrM2-XyXhB5k5-UyGHHY69XSOo9DaohnSE5Bb63dWNAxw1ry8lyApipRk9rprYFIsj7yqc2ygjkh8iccakIVG2RR8PxIeVrQL6neFu8uAGc75IMMrw-nbAl4-FQhFSquLCcO_xntAY0klT58dtk3Jy1NKX4cRW293fXQ68X0PVBE_uaz5yzxHKwmIlG4mAo3mgGjm5h2Ogyas9cSXmnI-h5bammmRjybzHv9r9D9lw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rosella
+        uri: https://maps.google.com/maps/contrib/105923634846379265670
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocItcP2JJr6towMypAoBDntuvvKeraWuSjMYFRu1Gbk5FNn9ug=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNCQ5YpIcvsZD6cOYgGCLlhXAe36VFpou_JDL3f&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNCQ5YpIcvsZD6cOYgGCLlhXAe36VFpou_JDL3f!2e10!4m2!3m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450
+  - name: >-
+      places/ChIJj_wLYalZwokRULTcqVFlZlg/photos/AUy1YQ3RAFf9H4gLztIu1lzZiwSGVNFvvJbJ5Zw5ksIqkQfPVZLXlHUd-i3JoMGUUDBelJSH4TwprALpMOP0OGhsjLH_7t5Cj4wDgZW9-Va1iJDzHMlWdJhIkUcp6UTk7fPjGTGOvVZHRZhxx3v4zX7oZfipcvbnj8vx-Lhxvu6IC7TZ6FEblqp0KEZIS4-qKz2bjrWXgmSCGMYh6uSDBLQCkm61HdIt-DVzwCWLm6p7yrs9BYvGgMuVft3V_9BqRNUNZlQm0dSTu4R5EpiY8LwZbd7_GJkj1b0KOaU9MkzDynq5cUv8n1rSeCXvvEa3HLhHsty_jber7uWrkbhWgVjv-M4R5OUMFUmC8jXfLGK6mCkTu-5s0niihaJa0RtinvKOerKbbLRciKlkTBc3eaGDSg6X9h_j6F1eF1OsgXBBO7EVBA
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Josephine Lee
+        uri: https://maps.google.com/maps/contrib/107100419871699451797
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVdO0UbisFHS3yjYWnWESEF5kzJrWiBpqjPxhQJJ0eZUxfDdU6lGA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrzbfBAQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrzbfBAQ!2e10!4m2!3m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450
+  - name: >-
+      places/ChIJj_wLYalZwokRULTcqVFlZlg/photos/AUy1YQ3zNDO9wKe3AVlsCDERhsX13mOI6eCdTNmmXmkBhjvDs746G7zZ67brfinrl7cKn5meMvQx4zXqx1JoQqT0_go7UeU4xKjUqd4lm2yD07fSJLtbJPJBA23X8YyR8a0AtEJYrOTT2lSXUOb1YIS7NL2DDDzQTKij7mlf7ibMkxccdJ-kDlzEc5dTWZuSs2k7mvZ7xb3nJh91L_Cs6qBmo3LTnJ_VYJSu-0DNd1dW9JZhIso53oAc78LIKZIzD1QRYIpfdqyxwdqygQSXrNAzPFj4BXi9SvpjMoog-4mnKYXpKJ_0yGhBaY9ex7Ty0m59zWzPBXjEgaNJa3hknHbn0Y84M52NyBA7KP7oQ1udLJKW8hZrtEcKP6S3XBmVsKixJmkDYvlcoWEkY5N5uRaYa5WeCiKMBd6h_8fQxLnfkNxqvg
+    widthPx: 3891
+    heightPx: 2941
+    authorAttributions:
+      - displayName: Josephine Lee
+        uri: https://maps.google.com/maps/contrib/107100419871699451797
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVdO0UbisFHS3yjYWnWESEF5kzJrWiBpqjPxhQJJ0eZUxfDdU6lGA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrzbe-Uw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrzbe-Uw!2e10!4m2!3m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450
+  - name: >-
+      places/ChIJj_wLYalZwokRULTcqVFlZlg/photos/AUy1YQ3RZoafIAASLryXAqvltBw5cfpncHtOMcJ97n9t8-tcErsNdTwjAc8rZM-vz1kETKKP6CfeAEeQQFkCQHYlpmKp1Nt3pN5ZotgKxt3c0Ong0oy4OXLbcTzxFmH-V0-mQ0_twe9CV5FxhOwQ7OZta8VjH807m3FxBpcQ8Gz84XrK4-zeuwaIpSxkktDgzOb0P21_9pPcJ-XMm8GR5yE80JaqgRPzQeFKnqHRiUUPBzJX8W3vJSXq1yg2VjvdgJ1LWJ_EKznrTO9OozB4_bR97SvYRrPyIQaMs9Hkq8d9-xXLTakWxmD9o06b1fuk0SKxDweY4YdrUkuHD332aFOZOyFODy8t866BUEW7n8DI6ovzfR0wYwqgFhvtMSRHtqZIM9WDSphUTcYzGRg-NEf22MiTFOtHcZUiIwK0sDn3NDLq0A
+    widthPx: 3564
+    heightPx: 2782
+    authorAttributions:
+      - displayName: Josephine Lee
+        uri: https://maps.google.com/maps/contrib/107100419871699451797
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVdO0UbisFHS3yjYWnWESEF5kzJrWiBpqjPxhQJJ0eZUxfDdU6lGA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrzbe-Ew&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrzbe-Ew!2e10!4m2!3m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450
+  - name: >-
+      places/ChIJj_wLYalZwokRULTcqVFlZlg/photos/AUy1YQ2uKWwdR2vlgtj1diaRNkLGjJb3wspVMGcFkCWwpsj6cxkCKIZfQnjpcKqqN2h_epQ1yIimcSrqMiJ2SiGdwOD2X051gpk6yP1WB9GzFETZYXZY84dCKmaeLuLk-7y4cJ5S4GYy5cbSgzvcZCONzNsJF2ZZu7pZeQFVIL7o2AZkkYF0QUZEdCHBx94pkzZapA4Rr1UBtiMhLjgrcUPB4XhxUBaNgbuVS6P0FFrDQR4Y77AAA39XvpZ6ZGhOLoW1CgRmqK3TEazu7nbh8nhr_C2QmcSFZF5gqswYTzRG40AwYpZgKiLitnIjWlfkZiJaEuER7H7Nuds77iiNEsgZbDrsSWvK0w9a8B-bxcy1oJFeOi8ZuxB01hPEhC3HtksArcKV6eHbAT_KvSGUySHDGbjghclUWNUoFo2iIARHL0soSQ
+    widthPx: 3780
+    heightPx: 2866
+    authorAttributions:
+      - displayName: Josephine Lee
+        uri: https://maps.google.com/maps/contrib/107100419871699451797
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVdO0UbisFHS3yjYWnWESEF5kzJrWiBpqjPxhQJJ0eZUxfDdU6lGA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrzbfBfg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrzbfBfg!2e10!4m2!3m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450
+  - name: >-
+      places/ChIJj_wLYalZwokRULTcqVFlZlg/photos/AUy1YQ2Ap0a6sNB3rUF3AHfgjhhoVLU2pMpy1f85b7YS96CzRsmrVZe81t-oF88mDcpm8OM7F169qpWDnzhg7KKdUXB3jag48Pl0_X-lK8kLriRqsbyLXocdfRwvHlcH1tdOnn0-0kIGl9XDlMLN18-FJHYp_TUY7kurke4WAoSkV6vz54FdBdpYfvp_WByl8HRQQZtGVzJqSb_7vLx4iJEI5pGfDA9gWU2bCqSOMbHlfWsZB6d_wRp2mZCG7iCEUnjAa_HURrD02NDLErTYiYuuOus0Ba3quLTBK_kc_ptf05OD_K5Aze0-BjqI7F5ix0Ba6O-RaRdyCgu35TVtdKRVl-cVhnNfS5kXji12g9AsmLzaIjaxk-QhDQsgNr2XJ0nI1rZsVSnX-ZrApVhVjWlovXqNT3NwK_g4mUbWxVnm5RH50sch
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: J C
+        uri: https://maps.google.com/maps/contrib/112038350368342950630
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVPNo-d-HtJ6pnCWCtO5pevUrqdwuUYh_YeZmVAXlM6kisLORWv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv9ZzsoAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv9ZzsoAE!2e10!4m2!3m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450
+  - name: >-
+      places/ChIJj_wLYalZwokRULTcqVFlZlg/photos/AUy1YQ3_sh9Z9uhWTASe5z0MpsX0MQZKlAkv0VblIzHkV42pcXljDfDlFWD6Yy8Zj6Ixc455cJeocJ11ZHhGfjibdeKy1nWTeiRGw_UnIueTX0mAr36RfLbEmBH_PGGX1afv77_rOskOJJXk_xu0SGLeECzxM42ABoCZck0hQujREvEVwMfSxlaWyED_oM8D0p9drUsUMMu1wmZPISWmy_ekSJVlEBgqG-zEdhdxcKGKVAsGQbDZAK0a7B87Pa5lwVJNykEO6k5bHTOqY05zIPSjhaS6RS2ThDo2p_G0cnNpWP5Ynlo_m6u55qo44y015HhnjlaoUTfEjNcbSyIjNqaYft7rHJdS6mzW2YsZ5x-BvCdUqMKa4IpJ_lwUgQGx_Ypk0-9xtnIc0PzwMwxJDtLpoRZ455rhtuSNPJFicxYc84GajnOW
+    widthPx: 986
+    heightPx: 986
+    authorAttributions:
+      - displayName: Melody de Castro
+        uri: https://maps.google.com/maps/contrib/111227285226112164234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW160nenoY-5Rf9SEQoJgoTTLlNAyP2ng6j3uJORyNn5bMjZCrCCg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHjoze7gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHjoze7gE!2e10!4m2!3m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450
+  - name: >-
+      places/ChIJj_wLYalZwokRULTcqVFlZlg/photos/AUy1YQ0Rvj_KRLnyCS_pmprp36CyWSm2VhP4I2RFSUKm5qxNbVTA72_55ltgMFPg2tEDx93e3ieqz87Q5cl5VVdrjsLd_txTeJGFDLFZ5HExn9CypeQ4ZsRhUwUk7JZlr3hj9j5tyOZG2GwjcZ-ZXsuDHbFvuDd3MkKl9ZAZ2_yHbc-W-sgR7vx3JCOT6jQ5EdUtP2O8uevQUReEQIaj1RMfnt8LeSyphJFrrc1Zvxu3godpiKYcRSdfopxEh5lJXuGoJITA9vSjYTSvGFAlKp7MWs_fGJYW-0730lHMlXEwtqh9-HSumznR45uTWmEFM8dK6PSXdmInSywPuryRAGllen9yBmOQV5CeuXVRMpIwKvso5ibmEmh22eaRH1TaPRcj8jsvtJWdKzVy0nvfK3jWpPSd41zEy25DB-3sOOeNAHeerQ
+    widthPx: 3218
+    heightPx: 2659
+    authorAttributions:
+      - displayName: Josephine Lee
+        uri: https://maps.google.com/maps/contrib/107100419871699451797
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVdO0UbisFHS3yjYWnWESEF5kzJrWiBpqjPxhQJJ0eZUxfDdU6lGA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrzbfBQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrzbfBQQ!2e10!4m2!3m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450
+  - name: >-
+      places/ChIJj_wLYalZwokRULTcqVFlZlg/photos/AUy1YQ1InKRD3mRH5Pv9aRe-_IRMXPRlYaMcpXUxi-Lu4tZctUtQSaJQq8X26CNB2uMmK-40vWZDRfRhFBq19mdXdpCSrOATke8yh9emJ23bpHNcqwkkQ0RxFbf6Uq4gJ8yMd_BugXeK604__oBmUimz2xGmVA4gUL9d-zKJfPa6xQqLdCOkiYykgPezsXvYvjoMLx3MSsd40_yTFNT4ky4jWSL-5_Rpm6gHzLE1m9N5AYlHaUsbTM8NTqaMp6fEhwXSwIyN-ZJYbhWsYIFqAIH3nsMI7hy9sJwoMZ4E1wFsxSaEWGI0lNWDb-PyJzXCQM42CI6SnqWu98VLnVXaAKvmdAcRVDNiL30wiHH0_dUjrVAVEjjIMKt-iunWh0Ud9RZ12w7-OExg6ZOhOvh5wmWIAaHKFyoopLd7AeFIJSJBCoVD_SR4
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Bob Williams
+        uri: https://maps.google.com/maps/contrib/110385072408182991613
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX_I5JGZ2K5hMy4obpJcvIGTjggdyvmLugeif5Tg1u-bzBy-l3w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDdwd_o7QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDdwd_o7QE!2e10!4m2!3m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450
+address: 137 Avenue A, New York, NY 10009, USA
+street: 137 Avenue A
+city: New York
+state: NY
+zip: '10009'
+country: USA
+neighborhood: null
+latitude: '40.727095'
+longitude: '-73.983026'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Rosella
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c259a9610bfc8f:0x58666551a9dcb450!3e0
+  placeUri: https://maps.google.com/?cid=6369890124378715216
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259a9610bfc8f:0x58666551a9dcb450!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c259a9610bfc8f:0x58666551a9dcb450!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259a9610bfc8f:0x58666551a9dcb450!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Rosella
+
+---

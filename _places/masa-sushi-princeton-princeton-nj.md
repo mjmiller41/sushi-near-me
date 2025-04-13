@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Masa Sushi-Princeton"
+permalink: /new-jersey/princeton/masa-sushi-princeton.html
+stateAbbr: NJ
+stateName: New Jersey
+cityName: Princeton
+place_id: ChIJV2nrbXzhw4kRQcai6QdNVcg
+photos:
+  - name: >-
+      places/ChIJV2nrbXzhw4kRQcai6QdNVcg/photos/AeeoHcLYVz5u77FP38Gsbes4W1WV6ciPLlCvQSSPPbT6RjN5IA8Y_6F06F-l7xUVcAfGJ02ZAQuTSii3sVp9q0EbFSkSxPKqu-_p33wWiEI8xIme2Q_XGdNsWmKV_e8AkHob8RjokxvMGQZCyLRv9BEj02H9ENXDoy2YpRT_Mb8hYzbJaCa67KE4nFSDUklqkI8TCtW1-_M1--I10isvP33EWiU4RrGI9y_g7Wwx0qWA5PpBSUZSruuMxdBcjS0zh1miDXuchshVIg6Vv9OujuE5nGBSioHEe9X99q-ygWaj_82lnmyB9D2P09QLx7h1dO9rRBEBCLt6a-5Rqdlca3RCPDklJ6ZMe_1oEze6yFVIFdoAykjlbb7n9-rd7UR__cglEdYOcv1g4wyl4grOlw0YHwc39UdJGcOlW9dzumRYVf1LUb2W
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Randolfo Zapata
+        uri: https://maps.google.com/maps/contrib/107679018891908539045
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXuFXK2H4QWqsfjUMsBtzY16NuR7G-EW7j6-Tvh4R4zAtiMRujC1w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAptqs2wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAptqs2wE!2e10!4m2!3m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641
+  - name: >-
+      places/ChIJV2nrbXzhw4kRQcai6QdNVcg/photos/AeeoHcLberyEoNyZLzP4d0WNMWhi6nVFafY8hon4694ZdtRuX-kGo1oi6vPqFC-QULF259rVtr6Q_GZh63MsseNY7Fh2PA7-g5K7Y3F1dNhPDuKtAJWouwFhTitNDS90kMyHNorn6WKOOa1v0aafu_DVreEp8K3wADZZViB-LMsIO5un8oGNw24xXxjK-psy1vUgxPvu_yXT4-n6XEc-DLTT4QOKl-TfiQy-OSeqUlUVZFtG4CTP9ptT3pCfh5X8RY_NuTCyLo9UT9CpvFUPSjCpNf1OjxHpMH5RbBpdNAcyE5DFecfDRFC-FPkI_UFM1CHbbjplVJtLoDPcn_tqfZ-vTTerj7yTiJtsAfhoiFPXXweesw7-y_eKnJmTtRQFfNeG1j1PWWUrLwOzLfhmfUnz322zU6RL3Ii7DYv43TWNPrU
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Lawrence Greenberg
+        uri: https://maps.google.com/maps/contrib/115585619555616732147
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjURqyVVc2KTspJcJtUoR7rtZEUtfRhU3AWE5Ms9Z9Zs2HfkYdGzDg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDm34bQMQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDm34bQMQ!2e10!4m2!3m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641
+  - name: >-
+      places/ChIJV2nrbXzhw4kRQcai6QdNVcg/photos/AeeoHcLJBQlELjPcvP9thp2_q2k3nUaomuzlhNpRKq5Zn2ItYHXP2e4joEzHrKTycfssvdKgeY7KuzS7gDJHoTZEMmaZ9xm5BnQIA8m3sDjBLGM57BQ7yn6ELyGGgox0wI16_5Frfcd131gCLO9mwmkvUulWner9dE6jIqOeQp_jYqWKni1lo706-i7R6E61WmTwKhRH4cg4-qDn-YP-LKcueTxvAq9qiwjh5lyk23h_gDDFa7SAJafhE7OOj4cd5NdccEVN6NSK89hlvcDoleEcUcqtcFAyBygFY2r0ULxLOQSoAw
+    widthPx: 640
+    heightPx: 853
+    authorAttributions:
+      - displayName: Masa Sushi-Princeton
+        uri: https://maps.google.com/maps/contrib/115646379613801171085
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWwXdZG7ADlW2I9G5EPD0iiofMiFVtMzWN6hA_ExjxyfuAh4fNi=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMPsm-eAlM0wMz7VKrAJ6wDZ1P2i92IFEOOJLXS&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMPsm-eAlM0wMz7VKrAJ6wDZ1P2i92IFEOOJLXS!2e10!4m2!3m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641
+  - name: >-
+      places/ChIJV2nrbXzhw4kRQcai6QdNVcg/photos/AeeoHcJQ_HPn8-OqKN4Rqv_3bU0iDfbLsAZFbNH0YORGelrh6gr7-vu_EuOiYVbT7La-Il1lg-s9pKRaFDdxiaUOda89ZZIk3n85c2qTAcGo6DWKCoU3h1ln_h45w5EQNc3NlyjDrALy7ubOCXnBBtZ8fQ_RgsrvI3Fo3LnbYb6Q1HTevunzss0ciCvHaICBlLmijIZJH4V2g4WujB0vu35K4zDMa6GZJNYHgnq-MRzwG84q_XiHJBnW0HcQte1btwTAtsowdUbhiC3dyC2-7IF44N9iPmvJe1zFV87bb00I2GloA8qh2YldGqyKljOXTUdhh3vyHSZbIDlADPIPv5zvcV48ucSeXsu2u-WxeXkuMjYUurFXrImZ6ecsY_56QEtnr_s6KB3JYXAj1WXypFmdS6oLlGgIe9xi27wUmHm2CQpL1w
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kevin C
+        uri: https://maps.google.com/maps/contrib/107734551853129698272
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWrfgrLYX5rA97x-FzUeKXP2s4RLDtzTyqaYAukTao59KIeW_KC=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj2_mkAw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj2_mkAw!2e10!4m2!3m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641
+  - name: >-
+      places/ChIJV2nrbXzhw4kRQcai6QdNVcg/photos/AeeoHcIxbJyrXAaYcQcHy3R_qfFXR59aQSYzZ-uvShRAELODCOVzmpfnLvOtj7wDQfxf7qUjJWccgU5bEbAgme7Xs7yFwxQF4cvH2Uk_pdPQ23DlNrmLDMQvS00N5rhCGYkw-O8nUuVzm1ompVA0Dn87nr4ZN2yLFJyRc9jXUPMIFEvTzhNFX4_9bSmYZiZkClssp8SvfbrOuSxp1d_lB_XdhcBhRkHrdmi8gGyHpsFVZGfzZKQx-LtVeBiTu-pvO8UvfBZuhO4ZxSBVdOdmcAoPZ_paXHf2VFyczyQTJ28c6HFy3PALAVSgl812WciqsMsTPFsPnQ1Adt1h4RkQagTfqLB6DhpgHXXqb37v3ba6O7VAyae1ZRKg0pckH-J346YBlWwSD54q4udeMRX68EznlVLN63wJNWyh544SLLdbenfrXw
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Harini H
+        uri: https://maps.google.com/maps/contrib/114654668502171504975
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUCJyoWhapfZ7tzsefh4j2NGuJ3YDlC6JA3Eg8VJRLVnLY51k5c=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCA0_mDfg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA0_mDfg!2e10!4m2!3m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641
+  - name: >-
+      places/ChIJV2nrbXzhw4kRQcai6QdNVcg/photos/AeeoHcIPtpBDNWfYEJmcJpT-RwOlaTjAgVwI7tjF-9lmvjqh5rQs9Xigjr7I1rmXYBfrVvyPSwp8F5x9T3Z0l4dOqkuIH2R-fBl8hDsnr4MArwSuEBrFuWZxBZhY0KWXfdGfgRkaAExjy1ZXDUiTxWVuZMAT-LF5dPhIqkrfwUnHmCpyEHzPV5YVbT1Qn9aECd7OZBK20hDMKlKC9iFOiZG25LDi-bgMUflj5dH20RD9GfZqNW3pXE4QgYOooY44Vsgg1SnGA3eHaGMdV3dK7EKCgCbl8kOFp9XQwDukU0yIOn_EXFGRbldY9uY5bKJxYdf0RdZk0SX0UoLpSM7Rphj2Wd8pL9_-G3GeXNWgwiDv83e_OOLhFZJkxVy_6U_yyDIwrTTCngzpNMs1kjkjj1OAy-qn5GJJvBToBo3R1BsWgnWH1J3o
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Harini H
+        uri: https://maps.google.com/maps/contrib/114654668502171504975
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUCJyoWhapfZ7tzsefh4j2NGuJ3YDlC6JA3Eg8VJRLVnLY51k5c=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCA0_mD_gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA0_mD_gE!2e10!4m2!3m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641
+  - name: >-
+      places/ChIJV2nrbXzhw4kRQcai6QdNVcg/photos/AeeoHcIHAAl2oqWP9RYAUNj-Pad_kM6Z67pt1A0Yv2ml2ghal2vC5gRI7u_fIMF0NR_aba_iU8xSSL17s0z4GJFhX9SrNgafbEChIbbqe3Rfi5wpfKF3ou-H13l4mYkXRTuE4hJGxs0yfeBsVQHCV6_QskrhSbLNVaLPRyODmRqdQnG4VP19t4bkWbVB6TwZ3P7lKcuySpjWeqVHr7cdOBcqcj_N1HnCOXkD4BEBxxqD1ZeVqcx6AdlgtRv5ZM-tM163uvYKfWHQy6cmmkJbLbk-9ZrxMU2ceXLBvZoBHVpaiAba-2T_xK-ejwt7yrUvuoliAMmCseJvuqrGgdAKpsFUo6g6blEd40lA-lkSV8d_XWxplN4oWeOQSHGpclkGwklYD11FqDRGFPYC6YupTYafTcpWqwvwlB1FFQSNy05fWDUXt4uM
+    widthPx: 2560
+    heightPx: 1440
+    authorAttributions:
+      - displayName: Big Daddy
+        uri: https://maps.google.com/maps/contrib/103781593458708508112
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW1q0-TnmLDgpBmRgCNJRi0xOKuMWwvtDBX3pQjFCqkyoj3oCM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr3L7CkwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr3L7CkwE!2e10!4m2!3m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641
+  - name: >-
+      places/ChIJV2nrbXzhw4kRQcai6QdNVcg/photos/AeeoHcIcBWrkY-f5c4BsQLYgLmv79MEa482wHLjxNrA6w_lg9zfFPo_FzhVTyR9JJPMBlDg8LtBww35iTy6baqgrA2h4x2nBtgueHrlHk-kmNHXNL29ObfsQ-pcZcWjsGF5b9fC-WZqPK7Moj2MbugOFSwF2_1fvh-rXReu9JlAjub-38Bd5gYf4XGAYYcOLFkM3veGspvUiCpvV1GeKMq7Wo-d8BiSU47ehEas_q1WN8HqFjhvEuFFrD5lUVggRm6-ZAG4pgXgMjfspxUbelRVW_FXDGvNVP4GsAqlWk0DnXSTaOf5KvX0zWFHiFiqcZVUGdM9O8dnWVAEkeG8M2tz1cpebcru7kZKSOhJpbwyLTwmaj0IXRXkzwJltIsNjqlw6OI91YoJ6CJQyLwqG9YvVBjZw66ZXEusgTnG04CZVYss
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: Big Daddy
+        uri: https://maps.google.com/maps/contrib/103781593458708508112
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW1q0-TnmLDgpBmRgCNJRi0xOKuMWwvtDBX3pQjFCqkyoj3oCM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr3L7CSw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr3L7CSw!2e10!4m2!3m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641
+  - name: >-
+      places/ChIJV2nrbXzhw4kRQcai6QdNVcg/photos/AeeoHcIZDUbVQLhhflIkNO5wAtFQczrlH6TTro65BdrGTxq1PBBQGG8AJpLe7ddoRFVLdkl6RhdfyT6BawgDpDU63lJkDDYb4fYW_ZZtCNZgItPn7Bj_NT2t-LjL23EKzcD5ewR9LmhubmH4urc0HRi2Jemuu8VVFl2Pj5ISLFTOAN78EJO8EkgwAYLBGLX7fqAofUs0_BgnQxZb485KDd6okx7vExOiO9YFVp3q-V5Bhk_THYL_-9fOHiY0WwAH_APM-SjYncpwSLtl7nrJW37eneG3DG6sfB8FGHAF7zI7STftRupfvX2uwm1PfeOsCPazpmhVBFgkBSaUe8LhUCSIAwpPqSoaSqtg3fwbgLwp8Q_sLvpIHz5-iTXs4Nec5YfjCps2d6oCZ466hm8PZ7yC4Db75HcAVDfq7h2tavozWLlXQA
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Ada Lau
+        uri: https://maps.google.com/maps/contrib/109901027131956443388
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW9PdQxJ9GlV-J_DMvSphuBq-DLBBOd6t9wWFiBtu0iIeCyUNtC=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHwvynIw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHwvynIw!2e10!4m2!3m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641
+  - name: >-
+      places/ChIJV2nrbXzhw4kRQcai6QdNVcg/photos/AeeoHcK515hYnoBPZcSejBPz8UDzE7QdQVVi-qZQ0Y5Xjluj00of9V29UWf2qg5VpFOIWRd1iq75arUPjYqV0X75VKltQ3Av-yBNtvZDE8FTr9izWtVOLMozkUnCL3TNaiwlJLNKx5A-pJpPGgAEyrTYhN337xGges9VDRWF3-EX6UGVavITB7BI4xz3KSROwYeZjARzgW0q5QX4GmwUfI98pMKBOZ4sBtAYVjZ0mloQQ7F3TvAYmsRHm_IRdl_Jolje-omG97YESFWoHU865xcmqvZpUy5w7M2V9iWFqu_vmgbSi3lK8HVyQiu-FxBKvOBw-8s9pDLaj4C13twvPRBMrDa98RPwG0clDK1wNaTWVhpAI9p2gxwwuhkUmOdaaLvCEXJq-8ULKnVY444VHhKIk7U-JtUs8AaD3vIU23E4ppbDHMA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Carli B
+        uri: https://maps.google.com/maps/contrib/104846307876007127399
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU4obJ1nCdDpcmcxa5yQI8YmKpyuhmURk1ucW-_a4Q1mLbHwDWS=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfmdyd0wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfmdyd0wE!2e10!4m2!3m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641
+address: 415 Nassau Park Blvd, Princeton, NJ 08540, USA
+street: 415 Nassau Park Blvd
+city: Princeton
+state: NJ
+zip: '08540'
+country: USA
+neighborhood: null
+latitude: '40.301000'
+longitude: '-74.681406'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Masa Sushi-Princeton
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641!3e0
+  placeUri: https://maps.google.com/?cid=14435528876985861697
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Masa-Sushi-Princeton
+
+---

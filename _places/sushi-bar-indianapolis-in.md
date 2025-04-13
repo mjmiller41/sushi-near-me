@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Sushi Bar"
+permalink: /indiana/indianapolis/sushi-bar.html
+stateAbbr: IN
+stateName: Indiana
+cityName: Indianapolis
+place_id: ChIJt6XZGK9Ta4gRboHbFgeiRI4
+photos:
+  - name: >-
+      places/ChIJt6XZGK9Ta4gRboHbFgeiRI4/photos/AUy1YQ3ToV7f-wSsEY_vRSjrghkY_9NPVQrM2TQBB4C2gd1xpajiriXlRIUB0JI4Opg-d6UvAC3qW3Q10nB4j6GQQkw2gdttMTlrqp7wqZG4Su9NEVdahKCwlKIlldL4zZq5D2R9CQ_3lMUyV5pOogrkN09xDvy2nbZsS66o-PBvu7XxFl75hTitZzBbAd1A_-Wpijg-MMQPsf37wqgyu_mWs6qCg7G46W6lkOpi2KMqFoCyrIIo0Axds0tIENFnwF7RmMe-2Nk0QofKGfDMOcOVpgJfSxl3w6mYk4C6QJCfm2uHmg
+    widthPx: 1187
+    heightPx: 890
+    authorAttributions:
+      - displayName: Sushi Bar
+        uri: https://maps.google.com/maps/contrib/113975270707219415632
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKQUmprNwW1GyzOjyBxVF6EbYkzGwkypXxOwRprPTP73H23Vw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO3AiPfja-El6l9_ganm9Yh4p2F3ooyw0nRpvtI&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO3AiPfja-El6l9_ganm9Yh4p2F3ooyw0nRpvtI!2e10!4m2!3m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e
+  - name: >-
+      places/ChIJt6XZGK9Ta4gRboHbFgeiRI4/photos/AUy1YQ08c01VydWNer9KI4XbPVATGBGGmGyKoh-q8AF3hBPSrwuxjOnydAJTMJYEnek8gs9br6qGUseiqB-eOQcOEWwjAE3lf7yJYGIg2crt3KvQNhne4bwAaKkpD4-4rL4gEjsuJMCRgp04g4pUJRVbBV_LO68sulmq6SKM8TIYFk0I79AhFtMpn-C7SZen66uFqcwrMGAYj4ecOXbi2_Fy-pVhfBJdb_KnZXpeq1Gi-R7fuFvSf_BpFWfCEP2_mlP2JrFjGhr5Wwaihdad2ePXyD4qJIFv-dYpS1ZFSwLf93NICCRyVVbt2AXMlbiyPQijZJuehlY-Be3AzUXws7Y30Uf83WwblirK7BY1zVyq-aWBlG7zIumbBrmtq9bG8f2qislxZZETUdinvPd4sfBLtlRusEYP9a5wNYc2UnkiPfW3oMWq
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Caixia Liu
+        uri: https://maps.google.com/maps/contrib/113701361100762044485
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK7pVIeXa4eflnurcqLsfIzC1sPLO6ZJhcO9R4uW-THm-ZPxA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEot-2iAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEot-2iAE!2e10!4m2!3m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e
+  - name: >-
+      places/ChIJt6XZGK9Ta4gRboHbFgeiRI4/photos/AUy1YQ3cfwN4YjOiKvWQn-ieRVM2JxQiCmYB61lHek3Hg9K69OBpXFaJw20GzqwZneeNu0f6ATJ3y_Me63Ze9s1vvvdy2veoLjLqaxeaJIS-gnbcuEpIS10-XD2FlYxnZhtCsoB8p0QWZ0N5OLno5Ku82qKfH3vD4mBtgwFy5yqjVBoLyCf-mOz5r2tvRPdrG1yvw52AsAjr9iogpRLwpc5S2FidJpc8TNR3K9ITEXd3SO2OaSQltL6Kqx4ICtaeQCXSRbJM4pjxvkF4LepdocieyM0TWW8BvLfelNDeYQ96mT0nNgGA-qt25KKB7VWIHWGIi5FszCuEOoYJZeSwnMZYDFfawKdaoMtots-jHXij5T03-Uf62PiCE4HcCj2Pego3lQ7L5s09kyk2z0CjDt3AcvvlV-Hhh0bC1bETHG1BynONsmNJ
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Taylor Acott
+        uri: https://maps.google.com/maps/contrib/101801987215934372018
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK0MkGtjt6TFUnbHWzmTYp-FS0GzwWEX3YIOwO_ewu_vm4DjQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLyPHBwQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLyPHBwQE!2e10!4m2!3m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e
+  - name: >-
+      places/ChIJt6XZGK9Ta4gRboHbFgeiRI4/photos/AUy1YQ3Rij402oTalMaL1JYPrgwtPGb7ykzH9lIh0yIHzI5QL82RZakSMmlw9CvG0-NNXwqSh5KnMsfD8OycUP74OA_UsTJgk_60pIRcXgNd8lq0K9STbBqSjgUP_Ohmpads7eWoXqjbQPANAvnM5uWu2HkKKRsa1aLDHwzVpznp7rad64DKkVVxT_RCVvvIf0wBnvJNMSNu3PZ5Ue9r7E1E6vUwefQW6ia8224iAf6x_F1bqL7JMgc9oGkElpbSXCukgsl1Axb6E_sQgowS7cEhEa7h36232Ia0Yh2zQWFKS8ATry9LFZppmf8SCW4kxxHfzCEpJM0-HAeyODaG9kdcvq0QIiwiekEKpduXEA_XWUpHl96ODRUxgnSxzqeol3RohgXFIvoHngoAbsQl1Rvtc6DuqEbguHqVSepjQn9tu4TiE_ldjvfdpTlZrWC-KpRJ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: kelsi wagner
+        uri: https://maps.google.com/maps/contrib/109089761122668774065
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV8GqgEbQCBw-y_KAr_9w_O3U8klrD0dpM77h0a6Lp6XIku6NRI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzzgWS23EmfO8q8ADAUw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzzgWS23EmfO8q8ADAUw!2e10!4m2!3m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e
+  - name: >-
+      places/ChIJt6XZGK9Ta4gRboHbFgeiRI4/photos/AUy1YQ2LsTScs-8-d3XcUZAdciZg2JC3l09L_uIASA6dVwWYL-I3dKaDj92tfcf-IfOpJCGjnJbq6A09xaC-rV5Iie03EBJkt7UysZfUiuNCyVFDdiCvgV5pGeoAG0-kmz5mfcz4D15_kJslyE9s3LQxYRjn6uRvRBLML5VhrKt6Rwwp6h9SeafxgdDnPuQGX8yHIQE9yxODFmUxjeR72y2Ou9YuFfK7Zu8_ltT-X7Wsj6FJTzWtnX3BrO1dicrccuiD6dxt1hWb6y_6fnzeDp7uC_rliRRXhfj1g8Z5I9tFDI-czBygePNhK5o1x77JaJeCmGuD8I_ZxawB98eXODwngOzbqgTPRofMe0QHwQYDvrKXtpMae-Mk_mbY6q7qDseF_Tg2u2qCXwYuJeSnvQ4iMQ0DzumM6lnWMchDq4LkZyl9MQ
+    widthPx: 2448
+    heightPx: 3264
+    authorAttributions:
+      - displayName: German Gonzalez
+        uri: https://maps.google.com/maps/contrib/110192332469456751276
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVEQXYswlzNYyhMhxh8Qqrieh0pWn4e_BJu5M-3svGTk7AW0fTgKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn8MvnaA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn8MvnaA!2e10!4m2!3m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e
+  - name: >-
+      places/ChIJt6XZGK9Ta4gRboHbFgeiRI4/photos/AUy1YQ1fDxcq_lf_FkHrDZz3Tjbnejsme5EzRkwzQAjyWbZ6PDWSASmdn9zU8Ybs20yIzvh2g8oKGMLoeRxHqeipZ7E_JwyFLbex_k-32N1Tsc7B2MODQdg521nhiSPFMlJIKzldh_jd6celJhJIUN5gElxA73qVYLNsK-P26Fx9xS6QbvwqIzIQfHNrFI4K_EHaxTEz4f60ujjfDeMLtRjBtoq4yl5Xnya_SFOQiEYGjPnj9Hgu8L6gbD5HVAGbCpxco8xSYLYc4ZEnFIWTEEJfHqogoYyd07gN8W9GfdhT8GBS51nvgghA-0djRlfBmqR7zuK-1xDSKY2XVsnok7X-isAoJKNLmQ3s2xgpQRycHsU-HgE4mdJVs8ExyAOYaTeSPfiAdLQ-jOY0kRfXbST9-pZywdva0xodYQTa2GkTBTreMn7G
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sergei Sobolev
+        uri: https://maps.google.com/maps/contrib/111080024346330238665
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJPhiGFFRkJu2LOmE0jUy4Squz_O2SDQowyOf6c65-m1297OQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGk-PMgQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGk-PMgQE!2e10!4m2!3m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e
+  - name: >-
+      places/ChIJt6XZGK9Ta4gRboHbFgeiRI4/photos/AUy1YQ0fY31pYLaucGrDRw4fk-QFstbDWkPzrsSWLUFDwFpRP-Z7y15A_fqQuKfSl7X1WBkCpr4OWu5iUAbCBolz--v0U0gvKvyib19feU3Qp1wUu9fBy9SfCpePvMCYbc9tjt4tmkPZY4cVBk1bTao8kSGhdD7q8q0BvmK61KaV097nWkQC7M0rJdh3JO5rKxOzcrpnzKz2exVTGUmSB3eNC_bPBYbU0rzuE0PAvqBz1bgQkK50d-y93oP0H1vN_l9yHY6uWT5_c85yIgNLAkmSx8tjgL2WAeE1CHBwGT_86Z_f9lVuzWnidCRtdWsrIFbIyUBVU_PJOoGbDGBK-Vm_UA58Bq01Rnc-OytnJ9zFjfIhiF2tPuCKniKKunJ_MitlAMzYTzPU36siVA1vdpuN8zo1vCg6S9xy6NIXeIyUUlhdCQ
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Michelle Litzau
+        uri: https://maps.google.com/maps/contrib/110200533208054700967
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJn3AUYlfKunOoMBwYn_NyqV4TmXrsiL0zocaBDqlUAcBJO7g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD1Z6IQw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD1Z6IQw!2e10!4m2!3m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e
+  - name: >-
+      places/ChIJt6XZGK9Ta4gRboHbFgeiRI4/photos/AUy1YQ1c8CLmmhV5n6XHyN7EF017Msx7XB1iH1BFfbJreRfgOqOXw17lEJ10w7F9PdhmgT0M2l9bytzTt5rz7nfe7Q8CpfA_RCxr-K5XxojHJfokeZJLQeq34yR-LUg-amSN8ApYzoMREQfZrpcJxqyQwxc94kK7nkdqWTgfm5_jo0qNytIHu7ScebdytZ7gbAB-cm-fEVwz_kB6wB04lhf6_jMuqz2dUyk3b6hBlkb_eP3t_z0X96rc61vsx0YTozYpHhXoIuDgp19YqpxU9EMcnH2JqrbFd45ebOWcpw850Wod6oy_a0xXZ1NIdG_mFaKI-dbg6_jM0yF5tdAtypp7HkAM4lEyL7P80a-uQU0O8LLycvtZBwnMDq8wf3ylRPDjC2u5SgjPB6zf_RYLgvg57suVPMP13TGhRbXfown9UlAZVg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Timothy Hartloff
+        uri: https://maps.google.com/maps/contrib/116753132230215778103
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUQ-LoDoK7acEi6JkjvG8l6JyzE9-EzmXq4fV79Olx1IXEOhYC1=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjlKCwPA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjlKCwPA!2e10!4m2!3m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e
+  - name: >-
+      places/ChIJt6XZGK9Ta4gRboHbFgeiRI4/photos/AUy1YQ38jwzNPeOhZzonWogub_upLRgj9_dvRj3iKX4EqxuFRmWbvww9Bhi2VgxMfn_AhzdUQ7wsTEmYcoz87D9UgADVR6SFL2l5yV1jwZmy1yEKH-W79vAtjTQ-qsDKfpdTxgaeV7m860bewTybnYvQCgHbSz0Pept9nbgn66cmeqBaSoJ-L5MdzRzCIsHTodUfki9y4x7SjxXug5ArogWR_R0CLHxE_Y5KNNwSwHUS3A9GskUsZxLSKsz6WgIzaKn942xTH4WYUWBhS3QOfTu9UdhxalcmpJG1boZb5l_4asy7FMfoX8ZDKC8b_y3nQa8bgNbQSSfgDhqYVPekNQka6gerpEah24Kr_5nRrTh8MApHsVJNnGrSaQAArmUCRvCF55SalvuCd2xsZU73BHdVodyytY5xw2B0-mzBBeTzWkhTHQ
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: kelsi wagner
+        uri: https://maps.google.com/maps/contrib/109089761122668774065
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV8GqgEbQCBw-y_KAr_9w_O3U8klrD0dpM77h0a6Lp6XIku6NRI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx_POVGg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx_POVGg!2e10!4m2!3m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e
+  - name: >-
+      places/ChIJt6XZGK9Ta4gRboHbFgeiRI4/photos/AUy1YQ15pMcONob2q6Ml5UyXHXoUvFJO32ul8kRCu-HOsDhpSNa692y1WDQW2Li97_PE4mUE7pN96yJJMSHXzuPJz6cGSQDN67m6hK9yY6Q36hxyp7jCGzu628p5ED_5AfDnbh7qtiLNd5v-bJF4SvEVjQCQ82C_lQ6msmm6wUBmqZZTwy2EAcD1zeqgLGi8rqoMFtbSSbhSZx_2Ce6_t7H-x0X58_bH8yyXRgPt01IjZUNpQxDiu_F_y0N4TXbixcOTzX3OmsbNdqouJ02g2GvJcnQMDANS3Orp0pVG29rX9ZM62T_uTOduMhKDGVXzIUWrkkE_cMaV43R_YevPTZFiXT2sMq6cHmPUEoWT9FHCoBoJGgHP1i4-891BqasrINdQHsltw7xLfCKdxf--Y9-7zwkHqz7hyk8PeKyb-kWcwVTZUtjw
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Adam Vogel
+        uri: https://maps.google.com/maps/contrib/114769141024490351084
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVT8Dnd_PT1XVa5vv4plxHxySSAlI45pc56IfU3KwZDzdMSte9r=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT0uuMkwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT0uuMkwE!2e10!4m2!3m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e
+address: 911 Broad Ripple Ave, Indianapolis, IN 46220, USA
+street: 911 Broad Ripple Ave
+city: Indianapolis
+state: IN
+zip: '46220'
+country: USA
+neighborhood: Broad Ripple
+latitude: '39.869592'
+longitude: '-86.142504'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x886b53af18d9a5b7:0x8e44a20716db816e!3e0
+  placeUri: https://maps.google.com/?cid=10251496803134046574
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b53af18d9a5b7:0x8e44a20716db816e!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x886b53af18d9a5b7:0x8e44a20716db816e!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b53af18d9a5b7:0x8e44a20716db816e!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Bar
+
+---

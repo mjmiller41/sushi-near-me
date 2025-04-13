@@ -1,0 +1,212 @@
+---
+layout: place
+title: "E+O Kitchen - Hyde Park"
+permalink: /ohio/cincinnati/e-o-kitchen-hyde-park.html
+stateAbbr: OH
+stateName: Ohio
+cityName: Cincinnati
+place_id: ChIJXblYXXmyQYgRh2Wh4L4zG4g
+photos:
+  - name: >-
+      places/ChIJXblYXXmyQYgRh2Wh4L4zG4g/photos/AUy1YQ2RRBTeB8z5uj62QmYcXohe7_8y7kqgaJo1T4v5nYVljm1F8k1qROewxK-e1BMZbs1f9_F5LkvTaS8JX5GTNyG_5CYDPaHsYAOBTmFqsX5ppnpz22P-8RzJfNxdb-9qg4IFbyneJGkDuA-ef18O59myV6LczE0uGzprcEYoqyVwutg4q2zdjar7--gq51kIBYAezMPvRdNqPPgTKUx-v91rlp2nXUDcnSwqWLnL_KSkNULDbTNH6W9EHeJQe5iSkb1VMRLe-dI6zHGkyhEf7OvhfhCWa23McClhzwz5-CWEvw
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: E+O Kitchen - Hyde Park
+        uri: https://maps.google.com/maps/contrib/114056182382783025946
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVFR9JG0_r2Ws8Wu5lYQSsFpHtbVUKYDF6-mOlL_Kz4ZosXQJU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPejRKgHIGVerpSWLIVDr5VNirW8188KB8Z-IQj&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPejRKgHIGVerpSWLIVDr5VNirW8188KB8Z-IQj!2e10!4m2!3m1!1s0x8841b2795d58b95d:0x881b33bee0a16587
+  - name: >-
+      places/ChIJXblYXXmyQYgRh2Wh4L4zG4g/photos/AUy1YQ2RyJwRzzNTgY3QPa6bDnj_7DwVDeubqGvlCY1Sd-KQ-cwuaDho4JXt52serC3M-i3kvA67cB_qzWUc6zIQnPKv9pItGBuVCv1fTXomOy6jnnmjhThKxix4Bc7r08_uL9wyS4e9EBx9K9GCeyUX3U3_nIDR9jZjZpFmANo8bNGHUW048s9DZ98Rc8xQURC5zjll6zFnx6WTokyH4A5x19zv-Gr9vffeZdXCO6gWL-hdV6IUwfxSy5rsd179RClMW-bcYRUxKJv6URZOJ16M4vVYd7D635CqoEalf9ELdvrT3A
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: E+O Kitchen - Hyde Park
+        uri: https://maps.google.com/maps/contrib/114056182382783025946
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVFR9JG0_r2Ws8Wu5lYQSsFpHtbVUKYDF6-mOlL_Kz4ZosXQJU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPtuupLylSE7eZiMu8LR3KPtcxoTDhl4KvZS4fv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPtuupLylSE7eZiMu8LR3KPtcxoTDhl4KvZS4fv!2e10!4m2!3m1!1s0x8841b2795d58b95d:0x881b33bee0a16587
+  - name: >-
+      places/ChIJXblYXXmyQYgRh2Wh4L4zG4g/photos/AUy1YQ0ER2Vk-9kMtecCH-Uz7oubhmcB1mFEZvOnXj7RkfndOCcYZrGxpoaWJfk1iR_hfJGahtiygPCgWhMQiVmGIguPavoSL-N2cQRLSZJF_rF_VojfSJSYZXIYmii_lx8eeTylsDKjMuvoa6pC8nXWTLW2GgZXdjsYmWg_LdXi7wPzLkjLXNQonqwp3luOvy6hMu-7yjq9WuiQ5_1OhTBs999JWI0PD88PWZzoI3TP3W_AeSNF0J-Va6RKFRvWaEFlUzqdcKPS6D7ea4iiXeAPFLPf8yVjseBGmqWA52seqA0i0Q
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: E+O Kitchen - Hyde Park
+        uri: https://maps.google.com/maps/contrib/114056182382783025946
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVFR9JG0_r2Ws8Wu5lYQSsFpHtbVUKYDF6-mOlL_Kz4ZosXQJU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOLvjOKXM1mK9MPQNzngiRZyli4OzBnEXawbVpb&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOLvjOKXM1mK9MPQNzngiRZyli4OzBnEXawbVpb!2e10!4m2!3m1!1s0x8841b2795d58b95d:0x881b33bee0a16587
+  - name: >-
+      places/ChIJXblYXXmyQYgRh2Wh4L4zG4g/photos/AUy1YQ17_52Da2_m-m1HyEoL_1nby15tPAI4DZsRxT-gJi3XE0EDYHwj3xxcL08kGPm3Z2ZiMVCTq0zREoONYgcHWx4GNlUOvD5hQK7Tj_y3vPLBwPRX7Bve0yuH-x6cg82RuMN1NqUB4kPBzAzTe9aQDsyrsAbLc7GQadI69Pd3w6H_3U3zpwBfdLcbsYxm_Yta1BJfir9AsLBZPo9-LzqOl9wjIa1KUzli8sjOp-MROQEsESOVqZ3ow-p-4wglWa4ESgySPgME-eDiQMBDjOeBpxPH2fhq61BkEc6quDA6qL3LPP4VsuSA_9SszFIPLddmGTLGQvlpVEAoMNr5vQSzMzCH2RFO9bD4IPtzAMUMGBlC7qIsKwCy5LwNBaR0w79fuz2e99-kb_HKS7cy2tx9i-sZ7taMfJoIHpjaCn447AW3rGCl
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: PDX Hood
+        uri: https://maps.google.com/maps/contrib/105176922314465794689
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU7nlLvc43VrsgXtFlg7tDlDFf3Ld5L68ASveCdZLiN2xG8QpV5uQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfg8jqvgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfg8jqvgE!2e10!4m2!3m1!1s0x8841b2795d58b95d:0x881b33bee0a16587
+  - name: >-
+      places/ChIJXblYXXmyQYgRh2Wh4L4zG4g/photos/AUy1YQ1cdkNOov1UT1t_o0vJN0ko-hgW86EuZAGb0JKcrHGDh9mdpx5S4dgdHZJFmH7LTNfTtdh-mgmtTd0yzEMic4LnG3tC6iIu1aKVOU8gd7NLtez4_Ds4-PoVGG7fOI6xh7PDz0cMO3F4dz_Lb0y7QdAYOoT6dVW637IP1mnInIQ3UVWoOQdO4poJA2tUtSQH94d4LCjYUbLOkW2I2O6QF9D64vfi4b2ecp9GyiFqkCd6LOQLbpr4e-C3vUfgIcoE0L08rIfLDRgF7uwVPPg-f4X7W9a8Nen_BP9Mkcx97U0OSw
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: E+O Kitchen - Hyde Park
+        uri: https://maps.google.com/maps/contrib/114056182382783025946
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVFR9JG0_r2Ws8Wu5lYQSsFpHtbVUKYDF6-mOlL_Kz4ZosXQJU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOd2rNeNoWjtTpgZMPcBmP5dZPiGDSBENYeEYn6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOd2rNeNoWjtTpgZMPcBmP5dZPiGDSBENYeEYn6!2e10!4m2!3m1!1s0x8841b2795d58b95d:0x881b33bee0a16587
+  - name: >-
+      places/ChIJXblYXXmyQYgRh2Wh4L4zG4g/photos/AUy1YQ3m11OylDVGcb84fT2bVVp3_JOkoSDJV5pNhfAtQIpSltLIAjVwcIhGPYYywy-MkoVKJGW0Yc0MCPmAPIihNRt0cLRVmJpA4U0kxul_va8_F67-SFxRnrZlELa__YcVOAn2wKUFT3R0fvuSYoBsvXRlxsEsnLtUml51PyS2fV8YQjxnT_FTsSI1dq_tzPq626jplbHT8KEaNL6DScM-8QfkBM4fun2vLT5KWwQBg7tIfebkl68ESODLBzj2j9XsVAEvyXQVLYIEqMJR1Ly7iSd-a31wKrE_7eSJQavzhQLoDE_Y-QVjUFvCf0Oc2CsfzYpvK00ITbkdZHjGqovzhq4RiWfmELmvpICFlRPeQBX99-bCpmrhuAbyERikGqjOjxY1hO3Fk8Kg3zssAyP7cNzNbtG3wgXYBu-cZmu3cq14fPnF
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: John E
+        uri: https://maps.google.com/maps/contrib/107947306395143505398
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUt_vlia1qcThAbz3J9yqH9Pvk6nCU--gy2ISVZfdy7f_2ie31dHw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvqcK82gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvqcK82gE!2e10!4m2!3m1!1s0x8841b2795d58b95d:0x881b33bee0a16587
+  - name: >-
+      places/ChIJXblYXXmyQYgRh2Wh4L4zG4g/photos/AUy1YQ0_xLysNZBQMbwYw2L1ZQMsEUG4ZvFOnmVz4vn5LMibmdr7NsZoRgGITzop0Ik1wKfngk6GvbSJZdB1Hh9x4gzJpH-9rLWSxhkzn3atWJp1tPwCKnLE9MDZ0raQfQL1YsxXuuZG4kyk5iZDl6Vay224h43NI4-sI9jNw0kzQ-k8KIglmqR15U5ysgidlutH3Nny1yKe4gCeJjCBkzN2wXrLXmaUzczgyY7Lfqx4JHU69bkfix6Bxw5jdOo6NlcOw671gGF8UWEflIE1tzdt6CtlHylC7W0UH0ButvSALfd3O4YGwBmonvFijTKUOpW7QwhwfWp7R5T_uz0TuDDx_KbyfvBYaNV7eGNO7t-wih6WfrQqn77O0NAECYeWX8O2kNQTDOoR2j8ZMN4mIE080iQECsAkq7MfY8zX7087_0lgoj8
+    widthPx: 1536
+    heightPx: 1024
+    authorAttributions:
+      - displayName: American Marketing & Publishing
+        uri: https://maps.google.com/maps/contrib/112191400593036504334
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK5ShM4_PTsF6OpEwSf34AZiv04MAICK1yIWnBnrHQejz_sDg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTiLmymgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTiLmymgE!2e10!4m2!3m1!1s0x8841b2795d58b95d:0x881b33bee0a16587
+  - name: >-
+      places/ChIJXblYXXmyQYgRh2Wh4L4zG4g/photos/AUy1YQ2L2K2B_d7bGDvEuuHUfDOLaAsecyoEAN8UtqlSR2QAm1BdJ9jFOlFKfLgRa6rcJUHniYbZDpje29l43iDXD8QLhcR-4QHO-ayJeVZUi3J9Mq7LRH3VYUWMJjHuHIvrEQN3jZLYL98qYy8k605h8tDkUZ2l3pbptYL4prMRxGlDvtRcQujpzpxpGmFkg-lEsgof5p1TF3ldjlo1QL8LTX8i6OXoVdt54f7JhQB1ddoa6UU0iRdC9triXGdHUhvsQHLLsxvI5_p7uU2knUYz0-FGnxSDZ6a8zs8s1ED_ZMMQt1ACkS4p_I4NYNoDqbpI0ea5O1ck9cP-BTxcA5s96yi2SghJNzao_BN5_vVc7a5avKcUjoeNe0sNyxqPWig1oR6NkeTkk5DgEWiHuHJwKAqQyosgE5pxoJDMn7qfxaY
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Deependra Dehariya
+        uri: https://maps.google.com/maps/contrib/101452926118387914189
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVAdCFVZs0oGWQM-3uANKAD85kL_tgTtTwrqu_Q6K1DISDariBJ1g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj69eaZw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj69eaZw!2e10!4m2!3m1!1s0x8841b2795d58b95d:0x881b33bee0a16587
+  - name: >-
+      places/ChIJXblYXXmyQYgRh2Wh4L4zG4g/photos/AUy1YQ2bdkrXYwuNy-oj9WiETirlpyyPnbRx1uWesZum_yXY2ze9KLblaxXTju5PbuA2eWdLpid5wjFYQZViC2Z7dR2z_rsb1GLB9DZULk4wVg_mmDJ2kbuRwovlsExYvz68JFAF5goEQY3bMD4kXxZNjKpcmT5arDOnMcPYSb8-9qfMr-uo4fSeZwPw4QGedgjGcGC7rLXIZD-MM-EYZWrAwB2p8mxGqQWiXSchqcgXbplUtg6A2zsC1xvFC8nxdbKzC8-uLa_i-chNNxtxTpVfQkJsMPiv0SXXNJ1ScPCl2vfMgsmhyzucj_d0ElQ_VERc6jHZ7UeOjPeztuNT66QWuHFCo6nUFN-54raOHz3sauKm_mccVz9W-XUsfZJgAdCtBOFj1sCp8DNKNF0MlxlD-50_YTRtuwQc_NLEMrl4eImxYeQt
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Theresa Brandenburg
+        uri: https://maps.google.com/maps/contrib/110078215608401598517
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUB-x0C22nqQ9sozkpFjGqwlsuFR8rh8IIAkryD9mXX7JCRGo3Wyg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrvZDy6AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrvZDy6AE!2e10!4m2!3m1!1s0x8841b2795d58b95d:0x881b33bee0a16587
+  - name: >-
+      places/ChIJXblYXXmyQYgRh2Wh4L4zG4g/photos/AUy1YQ1heZ2CU-UyVx9prKiVcEKb5TM_lehblL4VHvBVw21uJwwItO_GVOBcZx7Wwz2vlP654ltM8hdL4jMpkCKd-dy3wtsl65n5m7rhUzwHLFJP2GLl9lAQPyDbxjw5cZOb_AqT4fUQAhvvTdPWVkWh5Ze2hxK0XCrQSvFMvaEtTpw6Ug3-3zMRfb0i9HUjETbWq-Nmq_jHtOyZ-P2rFklEUCaZ5_ukM40x0bc1hvx1WTWmrgS-kuUBW-80Y18kC4xbSf_n_ndAC9cI4yAgZiP9IcohGTtDbxvSRDK5T5U-2rFBXw
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: E+O Kitchen - Hyde Park
+        uri: https://maps.google.com/maps/contrib/114056182382783025946
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVFR9JG0_r2Ws8Wu5lYQSsFpHtbVUKYDF6-mOlL_Kz4ZosXQJU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO9Df6RkDy5k_1uX4Il2k8EGhmzJtYyw61BAEZe&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO9Df6RkDy5k_1uX4Il2k8EGhmzJtYyw61BAEZe!2e10!4m2!3m1!1s0x8841b2795d58b95d:0x881b33bee0a16587
+address: 3520 Edwards Rd, Cincinnati, OH 45208, USA
+street: 3520 Edwards Rd
+city: Cincinnati
+state: OH
+zip: '45208'
+country: USA
+neighborhood: Hyde Park
+latitude: '39.140406'
+longitude: '-84.442951'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: E+O Kitchen - Hyde Park
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8841b2795d58b95d:0x881b33bee0a16587!3e0
+  placeUri: https://maps.google.com/?cid=9807489508434863495
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841b2795d58b95d:0x881b33bee0a16587!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8841b2795d58b95d:0x881b33bee0a16587!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841b2795d58b95d:0x881b33bee0a16587!10e5
+primary_type: Asian Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Eplus-O-Kitchen-Hyde-Park
+
+---

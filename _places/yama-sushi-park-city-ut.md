@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Yama Sushi"
+permalink: /utah/park-city/yama-sushi.html
+stateAbbr: UT
+stateName: Utah
+cityName: Park City
+place_id: ChIJAQBAOf1yUocReb8aTyEz2fs
+photos:
+  - name: >-
+      places/ChIJAQBAOf1yUocReb8aTyEz2fs/photos/AUy1YQ10kKzi8M6QBPEwjIXagSwoS9jv6nmlBTTD39aGvYx8LZ_aPp0nEdISnt9KtQ0xsbRy9C3-StX1U5GMUdQaDCxkOPdeX1x6vKbonVpRB9yaku0nxnoXGpiT8o5rQLvAqxpbprNC0Ht12jytEUi1EqvBW8AfHlAGD4gZZG2ZCnxihKupZJUu5a9Fbz6Qw5UnwaGRG2qdX-Tjk6MonlNAt0HI6846gKUX9C-RFsRGIIN19_XsMY3YSrwejkeU6xqbqaH1YwFg4WMN4wWBdGUIDAeEF0kasjutOxeWMC3U6gMVFQ
+    widthPx: 1402
+    heightPx: 900
+    authorAttributions:
+      - displayName: Yama Sushi
+        uri: https://maps.google.com/maps/contrib/104080573880635958533
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXGONguOkgVcIQc4_dEju_PJQaTwpMeH8zUoqPBnY0xpVYw6zh7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPc-lgH6fzrNc0oJ_Y1e01Zsn1Dht6jtI_zmQnf&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPc-lgH6fzrNc0oJ_Y1e01Zsn1Dht6jtI_zmQnf!2e10!4m2!3m1!1s0x875272fd39400001:0xfbd933214f1abf79
+  - name: >-
+      places/ChIJAQBAOf1yUocReb8aTyEz2fs/photos/AUy1YQ0rBKg77H37IWPX6rCmNjhoo-pA52Oxb2yOLxdatAzbAetqdo3_To511CYSYURbIK4bPKcu5G7SuYbeBNRPkKDg8TlIWdsyBImH-TJE8nwKsk98SWw-ssIwi_-czuZmg1HAnQzWEKX2MFzc_yIZ8bpvoR7M0XruY1oWWN38Hdj-q72l3a5eexy9a9nWblkPXthuyuyqDrBk6fMHtwbjcs3u4JH_vkvIofUf36g4hpL_YZSs3oqqEPawd9M701wA60MsAZgfD1y2rldz78gD8hoYFjp9CjZnuDrpsiYofBF-NQ
+    widthPx: 1199
+    heightPx: 840
+    authorAttributions:
+      - displayName: Yama Sushi
+        uri: https://maps.google.com/maps/contrib/104080573880635958533
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXGONguOkgVcIQc4_dEju_PJQaTwpMeH8zUoqPBnY0xpVYw6zh7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMR6371iF6Q2HtChzbFkveuyROhYv0JRrkrT_Ox&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMR6371iF6Q2HtChzbFkveuyROhYv0JRrkrT_Ox!2e10!4m2!3m1!1s0x875272fd39400001:0xfbd933214f1abf79
+  - name: >-
+      places/ChIJAQBAOf1yUocReb8aTyEz2fs/photos/AUy1YQ29KBk0pDkYB4pnXq-va-zm-a1WusWUvx81xVkqeMEf0HfIdTbkR8O8u36TDlpmliYUidGY4ygxeCHyjdmoLY_8ss2mMYEoGK6Ry4Qc_L0XzQGXvl_abS92jFfw-DLYcBld6sh98Y7p5Xk2vpwqbLv7xOYJ5afmrioBFhHzeh2ZoK2PwLLd1pKPsuA5ZNYXUHVjtovAL6DV7NSVuGnXGhPDXWbgL2OPsDkeZHZfIkkdqPCGX4o3ul2unKjLvJGB5cz_owVrPiY9f5jDC9RHVoiwGfzaX4q67pxD7Hhk9pIA6Q
+    widthPx: 1399
+    heightPx: 900
+    authorAttributions:
+      - displayName: Yama Sushi
+        uri: https://maps.google.com/maps/contrib/104080573880635958533
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXGONguOkgVcIQc4_dEju_PJQaTwpMeH8zUoqPBnY0xpVYw6zh7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN4ngmeSwe5vJB4wLJ6zRoozVEqgaUUXAs910JX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN4ngmeSwe5vJB4wLJ6zRoozVEqgaUUXAs910JX!2e10!4m2!3m1!1s0x875272fd39400001:0xfbd933214f1abf79
+  - name: >-
+      places/ChIJAQBAOf1yUocReb8aTyEz2fs/photos/AUy1YQ1Sfk3tgE1autCvdEJJ2VgOs6sGyhDsfck8ShRbxBoQJMan7vSLIkLF9ec1TnfsctH9K_pBKoHdkbj0z18covrUHdaCGGqQCxSubV_Agm81052Te-siVJCbXxjT02OXCo0IJ1rYk1377mm1jvQRyTivDmbhim2ExEJK5-mnMh73ZH3S1G5P_SsEE6fW8EUvNdSY0D7ukz66MszD9A1MOFF4hYNPCb91z_nIXDmqC-gTKhCsgajepbpeX6woOaeNRnjN166VRohuxtlhytosBYjDaBdEgBRVon8q7D-se5OjCw
+    widthPx: 4800
+    heightPx: 3204
+    authorAttributions:
+      - displayName: Yama Sushi
+        uri: https://maps.google.com/maps/contrib/104080573880635958533
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXGONguOkgVcIQc4_dEju_PJQaTwpMeH8zUoqPBnY0xpVYw6zh7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOjWx6hBYGcICMZEOVhltoVh6XCTjBuZ6LC4LPx&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjWx6hBYGcICMZEOVhltoVh6XCTjBuZ6LC4LPx!2e10!4m2!3m1!1s0x875272fd39400001:0xfbd933214f1abf79
+  - name: >-
+      places/ChIJAQBAOf1yUocReb8aTyEz2fs/photos/AUy1YQ1RKRbOVmLt7PO4HXegX-kJRIIcK-U5XSV1J0JCGsxfXn1qDVNt-A1IXtjN5sYVeQJC2Qn-YjUS_QaiI5n9KVizfwQr7LXRWasSUF4q47RUAoERHYNG3D5dViIic3ExEPLzftmVpyTqWYYO1O8E-Lqdfi4diUC8JnQ4aU8P4wGtKEfL-K-d7KtnEhRNkpBsw6EImUOg5IJtXWgVY00X7cD5MqSrrdJ7NXo7zb8leSRaf6cfZi7uDhSPv0LMf2znJAJl3fRAXN5eHSu1qRXuotvfJkxb_8ZvRt4rWn9orD9k6A
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Yama Sushi
+        uri: https://maps.google.com/maps/contrib/104080573880635958533
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXGONguOkgVcIQc4_dEju_PJQaTwpMeH8zUoqPBnY0xpVYw6zh7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMAg-1Vlvu3AG977FD5FerQLTukAmcQ772x-8uV&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMAg-1Vlvu3AG977FD5FerQLTukAmcQ772x-8uV!2e10!4m2!3m1!1s0x875272fd39400001:0xfbd933214f1abf79
+  - name: >-
+      places/ChIJAQBAOf1yUocReb8aTyEz2fs/photos/AUy1YQ1vP1DAZiktC0vie8mXPjxoiFzgZcpIy6hjxJFA7o2N1SJ2KU3GcZSn5PfjZqSqQjRPfMbtQ2qPBQQLXUx9IoYdoaQqVHRB9qvzfl1XyH1LbcPvN7PIbGkH0JjrD2SzWAabr2NQvo2ZQNp81ABBqrhSNUfGAtodNmLtadZvpib5mLmw2PA-chR4xo16zt4TS5fv085Vjdi1MinB8tHIYt-RRUPu1Qt3K8aWZidM7YSnuEF3g5URkDMOw1TAX_ETSZvK3_XOzPCIp9gTAXfmIEFagsMvbsiI-wiZzgOhrjPmqnvJO20t2DI4kXlvhtSefb6a6DyEuF8OGP2ahblk1UMSUWp2YJ32aYWYzCUWfGcBbGXMooo5PvELPhe1oxG2XjYuH3h104ZDe5wLF-g8t7QkxeVDMUAoSV3i7bYuDJQyjpJH
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Vonnie
+        uri: https://maps.google.com/maps/contrib/116678335219662213938
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXy0MAJ-HwdfeLwBula7nBqUH8vfBkMU7eRSD3cD7ApamgRqCvj=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICutIHy7wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICutIHy7wE!2e10!4m2!3m1!1s0x875272fd39400001:0xfbd933214f1abf79
+  - name: >-
+      places/ChIJAQBAOf1yUocReb8aTyEz2fs/photos/AUy1YQ1CWcVUqsIwy4I2B0-WjHjvnK2KI5k0_L00KSjau9rT_yTcx0bcC1Zd1GDEL2hiuhONbHchwosyPnQrKsAs_-yLnSHNYAOkjy0j2QJ-Yg8xNK4xTr5DFX-VsL6D2lTKgz_D9cIQo-PMvQZS92BohTBuwIuQmsDuzuMh_TLknvP-WrANcbCda9Wjyy9AP1R7YUgO6BEOJKGjD5aBig0RzkT3amZ9QgtzOr_QxIhE8XRJYGejRIf5tLY_QI5Gg33YHs2oqfGg_R2kmnCXJPIZ8hQI0kQlTbcgJ5e3D6Lp-MVlQg
+    widthPx: 2500
+    heightPx: 1724
+    authorAttributions:
+      - displayName: Yama Sushi
+        uri: https://maps.google.com/maps/contrib/104080573880635958533
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXGONguOkgVcIQc4_dEju_PJQaTwpMeH8zUoqPBnY0xpVYw6zh7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOjNFVAQvujPexQiVUdIC6o0jWE3xDLIx3hnE1L&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjNFVAQvujPexQiVUdIC6o0jWE3xDLIx3hnE1L!2e10!4m2!3m1!1s0x875272fd39400001:0xfbd933214f1abf79
+  - name: >-
+      places/ChIJAQBAOf1yUocReb8aTyEz2fs/photos/AUy1YQ0om8QL9GPMItOlEWZQ4oadyCkkWS29o556hYdIh1oqJZJyLa2B_eAMuRyOpoWwzhXkz8OW1RbbQvQQDjmiiwt7CSZ31xS7yGiCSuNKEIv9BvFkZZsZJZT9CYgVHRHUthUdP2jRWalBvCwRVH8oClvbhmQmzPRJ0um_Cshvi7lkL3ul1om05TU8umeDXcc0O8UoobKrz77QruEG822UksXG7nM83fqlzaF353z6aaHvMhwdHt5CKzDiqh6rhkXKsWF_OzBO6Q501p_Ag6Tyyk9PJO9THupRYyUzTC8KiOCgNQ
+    widthPx: 3000
+    heightPx: 1933
+    authorAttributions:
+      - displayName: Yama Sushi
+        uri: https://maps.google.com/maps/contrib/104080573880635958533
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXGONguOkgVcIQc4_dEju_PJQaTwpMeH8zUoqPBnY0xpVYw6zh7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOlu8FBSw1wJfWwPoB6MYS_yCqIf8Q2Z7D8XP8c&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOlu8FBSw1wJfWwPoB6MYS_yCqIf8Q2Z7D8XP8c!2e10!4m2!3m1!1s0x875272fd39400001:0xfbd933214f1abf79
+  - name: >-
+      places/ChIJAQBAOf1yUocReb8aTyEz2fs/photos/AUy1YQ3R__iDZUrUGK9XcnN0PlIh6Aiabz5GHkoM1LQkacAp3D-NmRISC9_37TRNbPhehEx7U9ObTu6V5Zwj9yez8qSbCjggX_DiWdpre_jqCxjcwIew9wZmQ1TtX2-UHiTdKe_gfoCjZW3h6EyJyyiBZy9TZX5Ge4rFiReLOtsmcJCAo59JmGimb26RUo8632ywB6-cZXkFcVFkT9E85sU4Pnzzx5q5GKv5pTK14K8edDPnZop7XNAQgkDz6G9vk82AlFDMwCI3jwF3r-j18hS_jAcrWIZWn0ZSPoMrG3Ea2b-83w
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Yama Sushi
+        uri: https://maps.google.com/maps/contrib/104080573880635958533
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXGONguOkgVcIQc4_dEju_PJQaTwpMeH8zUoqPBnY0xpVYw6zh7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN-z8yKA41s0YSLdIKLYs-WdSd2zKQAMszSAld6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN-z8yKA41s0YSLdIKLYs-WdSd2zKQAMszSAld6!2e10!4m2!3m1!1s0x875272fd39400001:0xfbd933214f1abf79
+  - name: >-
+      places/ChIJAQBAOf1yUocReb8aTyEz2fs/photos/AUy1YQ0PdCjpoUS_exznXxESW34pqOghYtOPf76GIHSWLPo--hraXB2xXgxDKQNQFNnbm3iLjeVK7BI_Av_1pm2NAsMpVlzFT11YmLvidYRRENWMc15YpZ72sWWDnV26j3ssbWlSHcxrjmRw6ek-PZ3y032A3m5JDx2GhLowjkH3mQiNaC99fa8fCmjCp63idXA7ZUfYUzAggwgeg3cgHTOzufU0_RLuXYx6Ya4-PxHE7TCtu6Q4jTs6X-70UJ3WxlhlP4FPJIxRSSWs0PvcTX2d3uFyUztW_PYpqNTkkn3oC-6AwUa_U3KhyUz97aIzidpLf0YJjyduQheAuFGBcAQyKcwf2YiVBhgIh4Ys2t7yE5mlHSdctcFCrzTSRHW-cqc5CN0of3jlcDIzSj4YLrjkI6Z0WBTiij1ELdVQ9buyQC0ik8o
+    widthPx: 2026
+    heightPx: 3514
+    authorAttributions:
+      - displayName: Montage DV
+        uri: https://maps.google.com/maps/contrib/103067538186553095537
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWOCWUgyZ8FJ3H1gsGw0QAquesVBUWjgSvmAVr1KDlxwSVJGR0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDU87qZtgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDU87qZtgE!2e10!4m2!3m1!1s0x875272fd39400001:0xfbd933214f1abf79
+address: 9100 Marsac Ave Sixth Floor, Park City, UT 84060, USA
+street: 9100 Marsac Ave Sixth Floor
+city: Park City
+state: UT
+zip: '84060'
+country: USA
+neighborhood: null
+latitude: '40.616017'
+longitude: '-111.511912'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Yama Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x875272fd39400001:0xfbd933214f1abf79!3e0
+  placeUri: https://maps.google.com/?cid=18147592391620214649
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x875272fd39400001:0xfbd933214f1abf79!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x875272fd39400001:0xfbd933214f1abf79!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x875272fd39400001:0xfbd933214f1abf79!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Yama-Sushi
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Hiro 88 Haymarket"
+permalink: /nebraska/lincoln/hiro-88-haymarket.html
+stateAbbr: NE
+stateName: Nebraska
+cityName: Lincoln
+place_id: ChIJfy_dYxy_locRwWgWnYcOg2A
+photos:
+  - name: >-
+      places/ChIJfy_dYxy_locRwWgWnYcOg2A/photos/AUy1YQ3UF2xLjpva3YG_fzaeCMwFYDHeCAqZG21o_cybZZBvy8Om3whGbN_euoFYzoeWTlDxJjhzZdYd1HsT12aoB9UwfMAUx8TViZK0X9jV42ZO8ElKAXeMlIFm3fm7i0Bw1sTymUCTrN3VsQYcEjG33SkTkn-OeJh7MzyBNi_BO7TeO_pvsZouJpLkx405Zf1n7CvZt0FQV2Sh6LNYFYv7cl6F-Irja_19L_cR6AGqboOU_voLAzvUeU8GH0EU9oCtnNc92y4kuiMZ038xaU1-31XEX0RzM3kRe2E-K77aqcrDMg
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Hiro 88 Haymarket
+        uri: https://maps.google.com/maps/contrib/103041318386016813455
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV5HTPpbe_uJnQVkdwP9A6enGlLSqn7BfutWxwMBl83mDMrJPQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMM1LcWIiqoPxMvZMSwy4E4kSmn37AyjUF3P548&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMM1LcWIiqoPxMvZMSwy4E4kSmn37AyjUF3P548!2e10!4m2!3m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1
+  - name: >-
+      places/ChIJfy_dYxy_locRwWgWnYcOg2A/photos/AUy1YQ0iBpSAZMjid-kdCF2mxrfHclgdGYxLDeKjLiZChWC-nZraOD4Biv3_SXT3OR6QzLKTEjO9-RgXSSwqCNWmtXAckJE2HPpOekgjNDRGbZedOVxLEW0hSaBZGRG6pD5W7vashhnjqLDuSTdBah51VLnPdOAYTO-ECDzOblNTdeMjxh5ncQp2GMUpO0e_ltMvVR3CXOEiZEgHxrL9hL_8BYvuS8H-Z1suMjkskGHwoLi4zXYUFbszImEMHV6RJ4lt_3YzYR76Dcux7okzeRnqWIKU5epILAUOeOZrw8nZAWtokZ0LcpdxHbgDaN-tCQ5VHyNyVIq6PdKHPZDXSbIWC_x9TsKxfo16tw2Q6xbrTx_SBq7nj1ML08A5Bj-dmpPIhQeeA3zqNDWrwmaBM9AAfCXo3DFwSofq0PJNO9M-TXtl9dKz
+    widthPx: 4800
+    heightPx: 3599
+    authorAttributions:
+      - displayName: Miranda Zenya Garza
+        uri: https://maps.google.com/maps/contrib/107082134425048623538
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU3t3STFBn4ajvSNORPtAHLcYO-az9UQZeWVrkb_3bFg2c91qnV=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICW8pO_qAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICW8pO_qAE!2e10!4m2!3m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1
+  - name: >-
+      places/ChIJfy_dYxy_locRwWgWnYcOg2A/photos/AUy1YQ1cgQrz9oXYJXDnO4nyn-dZDmanocwxaHMdoZBCPB9qz7Ux8IT0bNTBBxxrHvK5k0nQWYhPIdtIr3UJ2lfpuHGh-3hjeCN_e0G2c9AxN8rXV6y06KzUkwTWFP1hpavhKZjc5A-nbA3Q0ggMOtulDbTo6zUZcn0u5mnDBqKPeEQDYi_HvMXqq2hectDzFtq63ZSPBiNUbsuXtOljtxaG5XNiHsVBbg07oD8zdmZ9UBANSQkOQCI9WLuAwqv6BdmWtSKE6g4Y7cLsocEGc1wS9lkWixd-mOtO8xbH8K338vlEHw
+    widthPx: 1350
+    heightPx: 874
+    authorAttributions:
+      - displayName: Hiro 88 Haymarket
+        uri: https://maps.google.com/maps/contrib/103041318386016813455
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV5HTPpbe_uJnQVkdwP9A6enGlLSqn7BfutWxwMBl83mDMrJPQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOv4FOypSW9lpfDdWc7yQ4_O2M_GcAo2sN7IOF0&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOv4FOypSW9lpfDdWc7yQ4_O2M_GcAo2sN7IOF0!2e10!4m2!3m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1
+  - name: >-
+      places/ChIJfy_dYxy_locRwWgWnYcOg2A/photos/AUy1YQ2fslfWkp4ev-vMZZAKtSIePEGoBSM4QzPskFqAPVtqxq4f8w4V-jqhbe51Ihj4ZDLsQ3huBH72M7L1nHaCaiTWq5z2rG8HMbmFyv1Oea6XNpY7T-H-0IHomGXvyUbiepXqcxHq_3lGMJ98VIz7eNFgMBDoL1s56ZwKI2YmfTnbmDS0g0bYR1Ese2j9qencw5LFUEPiiV-CbJmo3TEeS8lEVJVR2nM_1egosFDH6cvqVQRB6IKoubCA7kSUhObnxH7cGjWngo5trS86g_1aoGTCDnG9d1dF02nnKa_8eBlqzbux4NCX8k-K6qt6RATwBMd7N180hNH7foYUl01qjaC8u-SUtb0rL3aGkezEEbA_1aPntiyYnBibKKSroI9akgq_RHJhZ-hJSBpuvzn1w91CoRU-rkthYK1YJnfcCCQ
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Tiffany Pham
+        uri: https://maps.google.com/maps/contrib/109846256065117264651
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVTKPrm2Jwvvjp_bhRbMjQGlANnOgnrzmJOSAoQr5mTWrJMHVwb=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjvta4GA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjvta4GA!2e10!4m2!3m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1
+  - name: >-
+      places/ChIJfy_dYxy_locRwWgWnYcOg2A/photos/AUy1YQ16KYUGJ8Zes2OZeeyXLEsEnUSm6JlAOuHRsn1XvBymW14VcLfZDh6FBbp0nMtGhQsXCzTLqlSxbnOrTrnsyWhKLt9TjuPd6NHhWSFqXyD8tiMMtZli0tUAGfWaN50lSIPzsq4pAVoOahb9-23Ex8S5vaTIeyK2XZng-OkcblD1tZ_B63XgbB3pqYLimyDDgz1xnFW2godWtn0A9lckhrEtk1XehNA9RgdajKjUip8_k7iFF_S0LemwWz3gI8vIz2QkU6pXY15teeycJHNrEMPMoLqUqDSAWyUIQR-OzFfa3g
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Hiro 88 Haymarket
+        uri: https://maps.google.com/maps/contrib/103041318386016813455
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV5HTPpbe_uJnQVkdwP9A6enGlLSqn7BfutWxwMBl83mDMrJPQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMdpxGNeh-10NPXV4r7pcyicDpvnt1L2Ftc5HP8&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMdpxGNeh-10NPXV4r7pcyicDpvnt1L2Ftc5HP8!2e10!4m2!3m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1
+  - name: >-
+      places/ChIJfy_dYxy_locRwWgWnYcOg2A/photos/AUy1YQ1n175JhAe8tdS_FKJ0Th6sl-6VwR50U9ek5W3ONqiJgW-hm5EQFKX5jnzfm4u4mJm7tEaakgKGQWV8dzitZlOrXBzZFteMI7E2hcK18bo1mMfjhXuFiDdemE2Sh2bDz3jrdlSoLVQpL2942UiXYfHk5hArjP9Ql-eMxyZSQMo-MpyZmM8jcQSKngz_B1I1KYYh_oNnwRkdizlSmucjAfBCSnAQigmibhwkafxFhsZJ6L8enKRqGWadGHXoFkrL12BbP9Ki5TCPewQjyiLsVXN4bSGRu9ReId4ef8HZ17shiQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Hiro 88 Haymarket
+        uri: https://maps.google.com/maps/contrib/103041318386016813455
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV5HTPpbe_uJnQVkdwP9A6enGlLSqn7BfutWxwMBl83mDMrJPQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipONPMih8fN0KFyDR2ULhkHFWtcFJg5FuhL1rkpK&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipONPMih8fN0KFyDR2ULhkHFWtcFJg5FuhL1rkpK!2e10!4m2!3m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1
+  - name: >-
+      places/ChIJfy_dYxy_locRwWgWnYcOg2A/photos/AUy1YQ1xt71pm1oUYUNznEAG2RwXebfFBwjOYA7MG523BlJXD60Qctx76B2-4pexVBN_QUOzuzvJNmWeuMFxeN0S8EpK5S82s46B2tLOyxyz_gEajZlTBl0FPJlvobcuAssTwm2XC-xjJQnA5pxq7p5FVgZrIkEVGVf-tcyiCxx5jLfZwoM43o_H7fr6G9W_Y6ZvGuT5yIURsxbDI2wB1kyRvgtUXh7CMsZgy0zSFIo3rHB2EwokRQqMBUOwnEpizso-L6UvMhpDTZzvPOo1NlZDz0wqjU0oY40oWCeg9R43NWsZrJFZXlJOpRKfPW7A_-KbN8BJGpspm4h9LtFl_vpAlybhheP0L2hyJhWelxc4xF4IQAIHV24Ed-2vhQUzof_Cfr4xG6oBYtwr6n0TrlDcEHoTXIQkP9QXw81pnKrfMwKKAg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Richard Westling
+        uri: https://maps.google.com/maps/contrib/104811813660023081351
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXtuEIunWfsX46H45nhS0ZBAhhBKWLWDXR0tikEgKhiSzbSsCLa=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDe69i3Ag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe69i3Ag!2e10!4m2!3m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1
+  - name: >-
+      places/ChIJfy_dYxy_locRwWgWnYcOg2A/photos/AUy1YQ08IR8SWJztz64ADJ0rvRRry3ZYq1PiFFzkcizXzyKblTKM9P7rM7o2egeDaLjbQvul1TuzqiCJfawTdh3717lQBTqTVYfDvBGtMDMPYdeRMJqIZCDKzbky9CdsN4aA2hQJsB14c4wYbW3NS5XhcFncdaTJmfXQ5zyGkuc85K9Ok1Guwb9ORl-h7aZQqYGIMm6LM3A66rz8uftjGhojCBGrQ6BEJXhGa_J0zv8XofVuo5mdqKM6lD5e5sV-3hZm125mGGGh-6Xm_r05_McukujIsobF8bceLz3M3H-Pw9JH48T93d-uI6rC9nqzaPYZHfLAWXDm-qAYDFmWcztU64TFgUFdkjsGKOVNKqalH46HqRnquRWSMF7ZAU7jtL1t7ht1cLXFtrKlTbdUuR2BqL9cmcoiqLamQLF9qfaoTTK0uG51
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Richard Westling
+        uri: https://maps.google.com/maps/contrib/104811813660023081351
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXtuEIunWfsX46H45nhS0ZBAhhBKWLWDXR0tikEgKhiSzbSsCLa=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDe69i3ygE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe69i3ygE!2e10!4m2!3m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1
+  - name: >-
+      places/ChIJfy_dYxy_locRwWgWnYcOg2A/photos/AUy1YQ3dZVnvA7WBQHlhYaXl3stgStPU-MYZy_q7F6Lvr_hn0ktgNIRfI4C5Nvz1DH1Ehb--jnlTuLUhI4maHk9r_YJjhUrxFHvDZkMQszhP_AFVTx6j7keUjZXMpZe9-fNxXQQPY_4Sfs328K57dIPbdCZyRSDfMcvKDYjUZNRmUsdyEVspNHc9gaVSpwK4sH6uOf-TFUyzDAJsjvszwSjE1fIc-33aXRQNlE7e44eQNPLypfbL0s2ggxZl4X-lgsnPyzABqcoQ0JM_x4Vunko8-4d4uorVALMIaWQkYf9_E54_uC5K5k3Bfj7kwvd96_TDWUuQ5Emhw9TRdhTlc-WYotwBEYCICbLTUydnv43egxSgy6-X2OJj8kQwz98r2nfotch5B9uA9RYAhvMQKFw9WqXOHdvtoxKL_GS_A2gHMZ7mVV_c
+    widthPx: 4048
+    heightPx: 3036
+    authorAttributions:
+      - displayName: Krista Daly
+        uri: https://maps.google.com/maps/contrib/115613349625671322516
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXnhpr7U2ZbxPUreUoP4vydt4rk8do9w3xIWk7NltcOl19E2Q9u0A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEuf3z2wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEuf3z2wE!2e10!4m2!3m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1
+  - name: >-
+      places/ChIJfy_dYxy_locRwWgWnYcOg2A/photos/AUy1YQ1wI_QUbRucZghTAYKFftbt4UqeXvwW9mki0bKfpbPD7FkJ-wXFpzyt6y9pw2enlcmDVsJPrHXLYOJjo76zcGbIAXWNG5B-biybB2T3U7fqgAiahmpCMH11TIWsAXJgL79EhzLu9aEI2wJB73zj2NFonHflw7Pqfug3lZQAJ14Jgxr1UQp4wrmJhTDaKmCLqDChd9Exq1A9Q5Xicr7j5ZW9hzs2KE_rwKxYYtdoAUZxprBsiUhRVsbZoIL-5b9z-1sS8TNVkM9ndnkVHGChnqnGxYkk_cWeX0BRdu6eeizsKUet7lPvhRLU3n33fcz6-gwtzGBn6hwzE2FMhYG9F34yYcsFA-1MMF6bTbNI7UdzVIbVgs6pKEibt-4Obx2bfNAdGZt2eLyQgdqsc8PWNCr3n858gDaX0aglvGK8-dvon11K
+    widthPx: 4000
+    heightPx: 1868
+    authorAttributions:
+      - displayName: Bennie Shobe
+        uri: https://maps.google.com/maps/contrib/111324612664928700211
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWgV4Or1EiGlVcPBQHM_2Vbk171p-IvMip9k51y4DwcK13Zh9y7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBwvyH0QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBwvyH0QE!2e10!4m2!3m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1
+address: '601 R St #100, Lincoln, NE 68508, USA'
+street: '601 R St #100'
+city: Lincoln
+state: NE
+zip: '68508'
+country: USA
+neighborhood: null
+latitude: '40.816498'
+longitude: '-96.712128'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Hiro 88 Haymarket
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1!3e0
+  placeUri: https://maps.google.com/?cid=6954418225209043137
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Hiro-88-Haymarket
+
+---

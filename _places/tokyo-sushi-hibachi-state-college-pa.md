@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Tokyo Sushi & Hibachi"
+permalink: /pennsylvania/state-college/tokyo-sushi-hibachi.html
+stateAbbr: PA
+stateName: Pennsylvania
+cityName: State College
+place_id: ChIJuQ93hqCozokRFByYLZQn4As
+photos:
+  - name: >-
+      places/ChIJuQ93hqCozokRFByYLZQn4As/photos/AeeoHcIWH_4haFmbrQkHq__-qVnjEl2YgqMbu6DfvbziCndl6polPamPA4o2NfqBotx4FILetXDs4b_YMPU7QXM3OARmGY6Y9Hp5QBUMPcHRmqro693IA01-JsF7MewcfSVYbhBev8jAvJ_PcRy9asE8wgSGQkyFzYDZz9_273bc1SqZl7FYGmkZqAegzPznbhV4SajL4NOC2riqpQwtlaXAwAV7JZ260kkAnEkWrjC29MwIxf9nroyNuHX87nu00fNY3cizGNYTaVPJadnNx3LWkleGx_BQJSwHoJRgJEYx8ZYSVHnOWDqGVe3oq36BT7lKT2mA5kHxdJbNsbz7p6vSJJ8pP6dJlshBuRK5J--zDjJHANnNIHJUitC-qSTM76TZ3eUxMeXkH6k07OsbYS9GdASTlFgktk9mbuibm56g6aqpOM33
+    widthPx: 4048
+    heightPx: 3036
+    authorAttributions:
+      - displayName: Sam Seidel
+        uri: https://maps.google.com/maps/contrib/107681012597122944174
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXOPhAII2WTe6PXD72FDw3vt2LS1XO_ad36QD-aAgPtgnrl5L_llA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk5eDN0gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk5eDN0gE!2e10!4m2!3m1!1s0x89cea8a086770fb9:0xbe027942d981c14
+  - name: >-
+      places/ChIJuQ93hqCozokRFByYLZQn4As/photos/AeeoHcKrN28bC1oCrg5Y31faECP6SVfBgzTmNrcbADDGDT5nzngtkKZWQL29oILMOE2h8TguvL7eKeK9MxDjnqVk2NA0pVnCfgj1BUxknPV01O-rgINpccrcwPewHM5TGbIaTudX_6QfeyK0DEg4tBLViwEViEmJ1ZdRLlGOsv0LEoRKLBF7hruuoyrjFVjNvOdJNTMto6GNhff2gmyX-s8FCQnFpqjgA2lhr6yvMmi5oVAZvmmVSUL5gWEU6fE30IatokOD69CJE85IRPU3X-JzESienBiX1MO1MJ2cO6ZFs5jiaA
+    widthPx: 4030
+    heightPx: 3022
+    authorAttributions:
+      - displayName: Tokyo Sushi & Hibachi
+        uri: https://maps.google.com/maps/contrib/112839446343514246602
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI7w0hpxm3mMkovsoj0fi6PP9B-leHr3lzfIXtV4gdmhRsH3g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNAkLn335Y3D-Ee3yWn5Csd6yWWFQeUL0EqABzF&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNAkLn335Y3D-Ee3yWn5Csd6yWWFQeUL0EqABzF!2e10!4m2!3m1!1s0x89cea8a086770fb9:0xbe027942d981c14
+  - name: >-
+      places/ChIJuQ93hqCozokRFByYLZQn4As/photos/AeeoHcLyqgASVWIpGks2fv4CiWTdmpYJHGQLrA4ncH1kAqLNSYaMXluFKpvtYgdNzRy9CZC6jiwyTBgsOzwy7O1xcsP4GYNdE8_Sno3OIHZ9t8B2sOcIQHBYPYnFIKxePFcEQ9fzI8TMeu4JdHU_6B48JXrYZXPByeUJkwworixC_7X29eQRZMW35fisr4rIQRgGX28OlSn0oPnMJ9SQTIdKVHYN0s9j1HX-rYe9cJl-jK-TBSVTA0aOxK87IUOBa_zZbsBHAc3FB2fA5fs54vmc0ASvQo82SwACKYDZ0Zq9ROyIIkvcanFeL49MgJt1R826E1bavHyzqEqbprTx7Gi5wePgZ3Olxfm2D7wcgvOYDQ3kOxYJKV4nQBZoXo2ffl_bzOjvg5Qv-v2efNtQKf1e4X7HOdNWbs0DJdzkZgmKutGzudM
+    widthPx: 1707
+    heightPx: 1280
+    authorAttributions:
+      - displayName: Yichen Wang
+        uri: https://maps.google.com/maps/contrib/116778539131828401484
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIx5BCMUquTXfWKOEsRqeQs0i0XcNrOHwBBPjCguXJnl9LSOw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIyIrc1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIyIrc1gE!2e10!4m2!3m1!1s0x89cea8a086770fb9:0xbe027942d981c14
+  - name: >-
+      places/ChIJuQ93hqCozokRFByYLZQn4As/photos/AeeoHcJ78TlqF0Plc6AigF08EE4hzvNHuXu7pq6bnqcjkhAC074X-gUg_QnaHAYGw4Syi3hR68hzeuSguclD-jJf_8C3n7t3aQlneS18iBVaWQ2JWujyrxCxaJa61FDFk5gCX5EoN_E38IQiIE9QcDHk_PO79DwO3zAFFZ51a5h9Ba6ID_uNMnTqbHTTq62tt5snnkgSPlXR_bQ29KUC0XqoPxnB40vmh0BitkkeSyLw5jb0_cjCeMBLIWs5_ZVNAtmFGddnNiAWwU4v4n7kQG4p8KlQjlK1wae5gngzGYrqHFwowxgAP6Whreuplhjv5BbjcwOj0rVkCmEzNdn5_xpjfOklMYeBzcbzUgl0GkcctqFbhI3aJExqubDI05XVQzKpulKwx7MlHlqNv4mOxSHAEuJtiA_ve15t22d0KvaJNoXKnw
+    widthPx: 4624
+    heightPx: 3468
+    authorAttributions:
+      - displayName: Cassidi Helsel
+        uri: https://maps.google.com/maps/contrib/111030555055963926498
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWA3_-FxQCosgEFZCw1I5S8o_0IDdMuBI23xmbfargqq9IP-zqJeA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTjbXYAg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTjbXYAg!2e10!4m2!3m1!1s0x89cea8a086770fb9:0xbe027942d981c14
+  - name: >-
+      places/ChIJuQ93hqCozokRFByYLZQn4As/photos/AeeoHcJxe8PlpBq8qwC6hL3DVIc9TkZUSJDxsBEGh3rulYYK1H8YRf1ZB0aCdDz5ZXcB7fGyZrQzd_YLFBfNrNbykElzj1Fr3l2rVbpAey_CdfxpdgDKsLNscO4VWVPUAE_24l9KptHsEEK-FPWFb4fDHNWTDufybmZuGYgxx9IDzbeOoHqDwLR5Org53nG8rjnJy_RthsEvcwxC6Up4IVtF3cvs2uJtMl3PHva4i001NjljsIK4xhwAKiC_tR4aB0yv02kN2tfswpnW3Sub-Cpp62dSNMTFTZ9v6haddBPbGi60sqjHjdG9YVC8PaEsQSRi984tgEHZ3U5gdwyeYdFCBmmfM5tqnp2AUFudTC6vk7eXOh9sqJMVxwgRe8t-HqA7FRbm8rl-BgIArcdy3u8QyYU1-yrggM7Q0HQqfGmUhYkGGUxe
+    widthPx: 2448
+    heightPx: 3264
+    authorAttributions:
+      - displayName: 梅同刚
+        uri: https://maps.google.com/maps/contrib/102924995166208820365
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJOJa-yHPO5Usj-eYX1GMzhTB5OjFQSdgflMbw39H_W-0y5hw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEwZCUpAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEwZCUpAE!2e10!4m2!3m1!1s0x89cea8a086770fb9:0xbe027942d981c14
+  - name: >-
+      places/ChIJuQ93hqCozokRFByYLZQn4As/photos/AeeoHcKrO50v8ZUiPfUN8VqnKoHeyZ6asFJVSeVVb1jRYkoKB9UdHgZPImjxuBYRP8bnPyvS5v5bSsP2-p2-yziNw-YSbw_FBtAEwVbKxbo4yaF6VE4fUxqgCEEDZe4ChTenRSWQLRqVUdUBmnP_AhfbkVITLOrnWyZq3_TOKL9DW8Pa90QoUP6oP8vMQOlWZIbnQTCvYQgNsBeLYe5Y6zx5NLB5BlzMIVyQCggdDAXjgOmd0JLXoa2Qc9mLrl16AcSDfMzIgWqkLEvctlQro-WCgLNzxN6VmLzAolEywMWJ5nM8gg
+    widthPx: 3718
+    heightPx: 2788
+    authorAttributions:
+      - displayName: Tokyo Sushi & Hibachi
+        uri: https://maps.google.com/maps/contrib/112839446343514246602
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI7w0hpxm3mMkovsoj0fi6PP9B-leHr3lzfIXtV4gdmhRsH3g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMxSJq1jMaKr_LTV4IKH67H-hKXT7j7bVfoPTn5&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMxSJq1jMaKr_LTV4IKH67H-hKXT7j7bVfoPTn5!2e10!4m2!3m1!1s0x89cea8a086770fb9:0xbe027942d981c14
+  - name: >-
+      places/ChIJuQ93hqCozokRFByYLZQn4As/photos/AeeoHcJBoQElK4e4XVqLBBTLz2NzU9wF4PRHhDsA3fySchLgBfm6UN91JY67CJVjaAHUwJl-rM_sVOYYa8RTbNUoLURapcXIt_oI2THm1l1FPFISlUNdg58Xv5RPjbGTz3kLU6LBEKLqWUAp9FjHdo-3wKK2ma1jO1f8JE5Wvi5gzQdSkbcm3mxbG0gxIcCmOIZyE6YVRsHAorYtTn6kPRpuPDstX1Zf38_O0zOWvC75VL_dXWvcduqwgXAKpEWIQnAKW9oEVS_IBZ2vm2vZZ72k_TVFCh2hxehZrK8yBaOljceO9lAB87a1i6YA7KOOYO35-g5aOhUHmJSCsYQvKiKYb4jMqx7balri9lk3x7DRjdX7e5Lg3eBYfH72BlbtaghbyylO2i_O6dDKbfOasRV-gO4BpYS0gRBKdMexf21LBrhRkmoq
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Danny
+        uri: https://maps.google.com/maps/contrib/110460056647132519869
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJNnh8Pey3GMN3tKHkcpoJu3T9FfgSrP63XPalx9cDTr5K4Fw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMoeasiwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMoeasiwE!2e10!4m2!3m1!1s0x89cea8a086770fb9:0xbe027942d981c14
+  - name: >-
+      places/ChIJuQ93hqCozokRFByYLZQn4As/photos/AeeoHcI7C_FeGDo8Hf0ctq_cFnVvJtxYgyVyQQrUom4WJ5ppZmxrXEMahXQrJuhmoNBQWpYW4WFRyCkHlKYSyL-rhynRriezOGDT1YhNt0w7t9DfkjaHh3-BSBYLC3oZV37dFkUXr2rrvwYRf_lGin5BU8S7l13CRHtTMt4TdC4QiJ4P7bYCItcZ70vE-eLnQfksKWcJC1F7R8bGaMyqunsdiQnBldHVw4SeZbCFMOjDERLkMAOXkVJAUETB9Bpr5zipEBwfNbjUdQYHotl2xr0tlI5NVc-fuYUED4c2WKLMSak1OQ
+    widthPx: 4030
+    heightPx: 3022
+    authorAttributions:
+      - displayName: Tokyo Sushi & Hibachi
+        uri: https://maps.google.com/maps/contrib/112839446343514246602
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI7w0hpxm3mMkovsoj0fi6PP9B-leHr3lzfIXtV4gdmhRsH3g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOyiSKN_LwFY2P-pkdIuUR4z98byDAgQ3fIwe9a&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOyiSKN_LwFY2P-pkdIuUR4z98byDAgQ3fIwe9a!2e10!4m2!3m1!1s0x89cea8a086770fb9:0xbe027942d981c14
+  - name: >-
+      places/ChIJuQ93hqCozokRFByYLZQn4As/photos/AeeoHcIw1b9KI8u81A7OP8Jj59YemGY029-SzKeJB7MSDM7jlPUTts1PcXjv_3zoYjLmADqpJfcS3LBk46ykWl6ZJnOh7wFQDxsFUdHQnLzN4sK_Hvx-qQuEe_Wp8reSvJXISnFVfbqScmtkI0cPMaz4jYGlNvo4Ylp2oFvvNJkE7lJTd04qBhMjDSVOdILzZwmuHLTrdipvyWxZ6m1fCWc00OI3m22_1ZX42b7WQym498YutW5P2rmXUGVJBmACXvR3gNW8Uq6oq9hri3Oi962-qBj7c2KVZr4DF_Dtorzuj3O4xBwVa6kiUL3jL4uFte8GJXQEAg14eVaYSyymhUk80dYauP6qXviA3P-3j545HtX3VvQNI6T-w6Gta1kRj4cyC075vGMwLH_g_Cq4zNXDaJVymnyt7LaQ173R2IeL7VzFIQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: lynn buchanan
+        uri: https://maps.google.com/maps/contrib/103033048685011374471
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUNLaV8uGz4QOVxdjn53FfKRvYxgMXDZ_g_g6Qp5DUKLlIpQj9G=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT85nsFg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT85nsFg!2e10!4m2!3m1!1s0x89cea8a086770fb9:0xbe027942d981c14
+  - name: >-
+      places/ChIJuQ93hqCozokRFByYLZQn4As/photos/AeeoHcIWyJuYNLprpUqR7RXOsOhuzgLB7wxIOmM5dORbmHq6h9MXsNViz9-sTZAbCu3Dz3p9PkAcCuuvT9t0ULp7F9kAQ2U0vqfjUzJov4dL4UjIBIhHTDHXWO3E_Xl3or2uxY66kWeZFgIyjlb1I3uLN2j4hyE_y45Vl2wj7qnbzhY-qov9ZG0ww-QqPBtv8GBoOwsSe3LLHLh9arGkZTs_VVR7WlDUiJaAOu58KYiHQOeGFrxgRr-YvO0TBP7ZHrs6mKABq8yPzAHaoIgcM3pDNOvYBJk3ybIOtrXqENCoNfukO7gswXesbYWwbzZFjS-9HHKN3Z0Xhmy0lrSrh06Gjno20NuQfp6HkroshnclFT7bWsXSwjhap0pQdirVjQVcVxtY0ryT0onxUYIf5CmtVm4fZN9FpY-HZ0pmQkgLyAiAgg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Danny
+        uri: https://maps.google.com/maps/contrib/110460056647132519869
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJNnh8Pey3GMN3tKHkcpoJu3T9FfgSrP63XPalx9cDTr5K4Fw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMoeakKw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMoeakKw!2e10!4m2!3m1!1s0x89cea8a086770fb9:0xbe027942d981c14
+address: 428 E College Ave, State College, PA 16801, USA
+street: 428 E College Ave
+city: State College
+state: PA
+zip: '16801'
+country: USA
+neighborhood: null
+latitude: '40.798078'
+longitude: '-77.856399'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Tokyo Sushi & Hibachi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89cea8a086770fb9:0xbe027942d981c14!3e0
+  placeUri: https://maps.google.com/?cid=855727446573980692
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89cea8a086770fb9:0xbe027942d981c14!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89cea8a086770fb9:0xbe027942d981c14!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89cea8a086770fb9:0xbe027942d981c14!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Tokyo-Sushi-and-Hibachi
+
+---

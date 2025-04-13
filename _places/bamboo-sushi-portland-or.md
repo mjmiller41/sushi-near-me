@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Bamboo Sushi"
+permalink: /oregon/portland/bamboo-sushi.html
+stateAbbr: OR
+stateName: Oregon
+cityName: Portland
+place_id: ChIJeTluBgMKlVQRMlEyE-oSSAU
+photos:
+  - name: >-
+      places/ChIJeTluBgMKlVQRMlEyE-oSSAU/photos/AUy1YQ1FZ9VWsHn0PFiCdrYxI_dO1BjTWCsBbrxdd3AzD0tJVeAa_H46UAYtiZaIL2ILR1FBPmTyNgll2EgsOREU1j-WPA27NIPeTchJybzJyEp8_HzCpMR_TzNs_o2gJ7XhJnZuPNlFfzQc31P50MSnSQqw9FV1Tqe7OjyoWbHpcX-arMhs9ajC-dBDvsIhGuqJi1Wk217_AkJ52rAitaKFoGQhLoxn6VcBM-qdMjMrt66e3XB1umnGfK0GMIXsTfH5cBf0lmCXjLzD0lLXjADpjYd7OWtVbBo3860krnzKPicmYtIR3I1AUcN66YdmX1cT_bPuuEnjgLukG922uFspGhZnhtvxvHmOPUrSaMXv_7OHpwphXCTwASz40l10NCArl50WAQn0EadZpX7FrO6XEOUhH1DawE5XPMNdZP3yBjQ
+    widthPx: 2268
+    heightPx: 3187
+    authorAttributions:
+      - displayName: Lawrence Marcus
+        uri: https://maps.google.com/maps/contrib/111383913900870229200
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXMVCBGhFNKu1wMYEv-UnU5efZ0acKD_ouRVCu-6xG_v-qpqLNQdA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOpcTYcw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOpcTYcw!2e10!4m2!3m1!1s0x54950a03066e3979:0x54812ea13325132
+  - name: >-
+      places/ChIJeTluBgMKlVQRMlEyE-oSSAU/photos/AUy1YQ1rKlMgFIyH3eC__7d9t-9BgX3Of-oFZCXpVL74lt4Al0sk-3brSqvjcfmeyEcawsK6TZBfx1DgGwWELUJFGL6veia6YPzGnhTMKZtIL12-iqdoh97eH2qm-ne-e0YKVF9AugN8pYO_YZDNcx3PVPcXljZhZpBF2vrmN7PU4skd-AVx9RMk-Bv3miZ4MHFKimh3HlS6AlloDUjr9NoCcJlSrGB8IZp06iSdb-0t3_U6dsYqzRIF0G6KMkuSEpCiiC9Sr8B_g3zZ8GTPk3h29ijo172PWoYle2jcCkGSGhbGHDp7tyrAXAitYz2SendTvFKzoxicLZe70yCGgQFyr5ppMvqhJp_EeCQAq3HuTUx4sZ07WtFjFNRhNIsAHtCi4Ex7nOSrPqlEvDCRtaKAn9qUdoeVHzrzsFmMcmZD1sneSWJJ7wgo5oVU_HqIoQ
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Corim Cox
+        uri: https://maps.google.com/maps/contrib/104632239246052921267
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWQo8e2sJqBAWPQdPx1UHZCXPuRRpScjTqlE5gRhvPKJQWEuRcY_w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzaqqSKanmfiqoYAAh8d&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaqqSKanmfiqoYAAh8d!2e10!4m2!3m1!1s0x54950a03066e3979:0x54812ea13325132
+  - name: >-
+      places/ChIJeTluBgMKlVQRMlEyE-oSSAU/photos/AUy1YQ3D89FxlGiZ3rQJXPet2KiZb2fr1G74n2ZollL-ekFaokgGIBB_59rN0Q-qVZftbX9Iq2y2HOOou355CRAg_fanGrolgLFo_109wlV7s4b3UW9KcdjQ8Iqw-0JmpdjVvXmD6eUXwpiS7oHz6ZCtcs63l2mwE-r7rfaaqNUvbtLKRGr-sCepr8ouIvmVBGRmQpTWTi6LyXvXxDpfxITqUQnTtbTTaDao04CYrTvhDu8qlrTaabta_mnZAbgGJ8jj5ylEweuOn544b456HndGrA_lIVKIMmo-frqz_cyv8akZkC5IFsdeIw6kQXXX_Gmo7yhSSvDGmEbIMaiq3aq_4DMqOB2kKl7Xc5cWGI4jqNnqd7f3g72PUVdzM4aNoM3mJAgpkbBx5lxexu9XKKt6OnqCh8FfZAeRWK1JXQth8SY4oG9D
+    widthPx: 2080
+    heightPx: 1534
+    authorAttributions:
+      - displayName: Bianca Lok
+        uri: https://maps.google.com/maps/contrib/100719632502806843650
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUmScUGS8C4OtE0cyu4qT06f0s6V12lEf5fNIc81_k55eAacmLp=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_i_K3vAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_i_K3vAE!2e10!4m2!3m1!1s0x54950a03066e3979:0x54812ea13325132
+  - name: >-
+      places/ChIJeTluBgMKlVQRMlEyE-oSSAU/photos/AUy1YQ1gruN0M3m4zhCtZJ_r7PL7bXRycaljzkr4d69kxe-1-qjwCxbWui9ZAvBa1H3MjpP2SdR2WDNp_jKhLWzY068xbHfP1VQJ6TKi-J-kqGnICOl6P0sfXjcmnZA2CGn5hnl3XqZS0TSQo1oVTO3vpeeDWJD2L5L8Mju5ohbgjDjlASo6pEqgQwOoHcBy9Cs-6SNAFy131drvRcmU-CyvX04XzrwAzQdxwV-9UDDv7usxRnajMAg5G_qRIn7FBRhcuHC-Ls_ZbJyzeb2utPJzAcNSy_36t3ZfT2TjGvYmOq_PdLkTZed-6NKwpp3dScZ_2YRqad14AblzrOrZVsrhJgZZGxETPuIe1jrRtc7Oca0VNeowOrJS1v1dgT3H25L6N32Io3d1nijncdLCiGO4NNH6_Ls9gMnFJYPEFAm7Bt32jVbkio6eftslsMSXHy-4
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Corim Cox
+        uri: https://maps.google.com/maps/contrib/104632239246052921267
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWQo8e2sJqBAWPQdPx1UHZCXPuRRpScjTqlE5gRhvPKJQWEuRcY_w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAIN0uGIBQ8AWfiqogACdpj&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAIN0uGIBQ8AWfiqogACdpj!2e10!4m2!3m1!1s0x54950a03066e3979:0x54812ea13325132
+  - name: >-
+      places/ChIJeTluBgMKlVQRMlEyE-oSSAU/photos/AUy1YQ1hKNI6R9m-o2-V2vx4sZclGCYrh2e-_zb5CmklHHbx77LOVezLxq1Ko74OyKZ35HyVBFQyrPEOPpPhiueaYL4fBV1vyMsVVH6r4jiIcu-yIU_fH9NSMC0KIdU9QsXRFpGf2b5dkoyT6H2OH2XqN_UPiMtCXzi7-Wm8HcShQ798fpuOt-Aki4ICzrzeR7vnSbzfQNdAGi0825jxprrH_S-dBKHUCoJAHMwTfNnnDiHp-0Bz8kPoRP3ODJv0zOztm2my4PrRyQZMy0GN03khZnobKwPh6bamopotXoUeUPqeDrwAahYQPq_ZNakv9wuqtIatT96KJucYyE-f5A90RBpkIOiopcICLLwlCPdxceUoOXL0PTNFiOh8sFrIKCoZ-xbWFfew7keZy2gCqtbsXf9IkSWN9kNu7kuty53DvdW0ww
+    widthPx: 2048
+    heightPx: 1178
+    authorAttributions:
+      - displayName: Karl Willis
+        uri: https://maps.google.com/maps/contrib/105369312473965972436
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW1Su1gCLaTzueW1tJkYwmw4i_-zYbBpct3R04s7Q3EhoPlmKohZA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID48fHCfQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID48fHCfQ!2e10!4m2!3m1!1s0x54950a03066e3979:0x54812ea13325132
+  - name: >-
+      places/ChIJeTluBgMKlVQRMlEyE-oSSAU/photos/AUy1YQ1kalna8GehpQ8dwP7ePl0NLsvExWaFJyH8jquO2M9OFSpJxsk-A9-8K_gWYVHFGBSUdab2JljoJVsgEq_4ZGFsrPOZSlqRtHTcdAJdekxNNqhFY-68OViEDa29gmaC1sk7L5F2w6qLCZzWCd5Vkd2yCZjLAbIfRSAdsdTF2QHbvAFjaxcYEcGkbd3aMaDPhhyaREOuGSHWawV032DkjXuWjtqIXBIQ55rj_fAymFlCSuJ9rLuUtVcXKVO-C5WqomFA-zEZzcM_DSTg6blIC59hxYvEaUE96wf-2CpxKWQzLBRZ3c3Yu5zWn79sYVMUxWsLkZ0RVhEBhb6EZ7MbXmHQZ1VR96ifvXHOzgsKKJOyx3yp3NDXoelasB6tZCD4ax6lsmxdv4MpCMRSoJaPBU16Nrr3OpEDDO47AyOd5sucIw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Josh Lyman
+        uri: https://maps.google.com/maps/contrib/115952423547845956408
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWcCVpgcvBcKM4mNa5oWH-ymyYWU5QsOadqEoQ-zWXwNKdwtQQ_=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDT9KScaA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT9KScaA!2e10!4m2!3m1!1s0x54950a03066e3979:0x54812ea13325132
+  - name: >-
+      places/ChIJeTluBgMKlVQRMlEyE-oSSAU/photos/AUy1YQ01gFL9Dylbp4nxDtB3iKoTKQdy7Wz0xwbzyRtwyN-IMVZF9OMdaa-0qAnny3QNpAFxt35PvF2uv7hWqTOxc-SS1JjamK6Bqju18m9WHYwFzPV5m8EUfIdsSWbg8g_zlPkFDNjs0lOYlsF2afhGKUBiewVOG7FzxPSbjielBLpsidmppMP4jnGg8kNeTEfl5n3f7tYdS0T0G5V8vlA3dgE0ZFY2HRcljFwEO_K-07ov6bXB5YLAwvTUfngcrGyg5qRRZIKq9q6W4Bv8stZEwizIcnKaSent15GjVG6GTogy_U0vH_eQBZwKscBSEiA4YL_zO8IaSokkKkg0pGjT1YWnaHXRnbYkVZViS4qtkiQV_mzcEW_RAys6Nxo2EYFdP16bOucD6dsfyXBTh9TpbnV780RHg5hjOaYJ81BVeqpKWQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Morrison Club
+        uri: https://maps.google.com/maps/contrib/107559088492219844621
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJF-Ib2eYybKWaoZMIAn47reD5rxh5Cc-CNaYQODntxn9kX=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXtqTdbQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXtqTdbQ!2e10!4m2!3m1!1s0x54950a03066e3979:0x54812ea13325132
+  - name: >-
+      places/ChIJeTluBgMKlVQRMlEyE-oSSAU/photos/AUy1YQ1PhqTNlE15vO17U_sniNcl-mZ3m4wCfYOfdwAS-zZf7FwiTwV9dPyo9aE2-_0q3NvyT6JV0ZyYASrWWK57Bp6CQmoSO2jgihK_SI23g_eHH9KKZgT_7LWXjawWCa1JwKU4jtRvJbao6hbvTyplys3bChXcjF4z7VIMJpfUJVIjRcfU6f-6Syd40nb7qByfFRcTs-CPQ7g3z_gyrXHU5SUPXRf5xGp_YlhM2jq117jISuXhR0CGxGV5jUVMLD_h8DAjVxMh9gOl43ad0VqZ3zQdedid8FcFVEyhGNBFk40HwAbb2ifT5Vvvz_LK0niUqbNV381VOPsN0jRoTr9WqJthwDJit4V3BV1um05EV-29UPVwLYogs2uvIPVnHuXlqA9ABR3swnXsKiieCglz8GpAxZ0FnqdQTVhGYWHuClLSyQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Erika M
+        uri: https://maps.google.com/maps/contrib/114474009329505357095
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV3qLJWw_D0bpFM-AJXiPcpGb0uK4VfP84a0jEDckNQzETODKU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID95PWjHw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID95PWjHw!2e10!4m2!3m1!1s0x54950a03066e3979:0x54812ea13325132
+  - name: >-
+      places/ChIJeTluBgMKlVQRMlEyE-oSSAU/photos/AUy1YQ3jqePuoMVZN2JRLeyJbjLT4ZjEz_fQ9tk9pYThWn3udooQnH6JveEme_gO0HwZCmkTV-R3sli5_MuUVhQpjMlgulJKrCGXUWF0QYr7Kubo_JV0iIGD-mzi4V0Ai2t2lxSE77OzMu57GXYSgt8TmNsUU3TOl0LsY_chH2PyrW9nx9o9542SdYXR-2SPBcw3w3QaxscZZHeTNwHznl-3_77o-KREKQnNXQft0vMxsr46ndDcgActnCiw7AWUSPPknTcZWthVAyDq33B4WlmEEi65psgSyyYAC-Htc7pAXo6AQnnXuPAvpVbovBoMlSMbxVbPPxAEg6M38YfTRwb5-IYVjN6VwuK2kykmacPZIsmIxR7TQ-CmVIEwVyxK1umyvQ1RfjT8LKLBGpLhcKYwomDpvsEGlIHKCzJXACsDqcirtQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sushmita Kadam
+        uri: https://maps.google.com/maps/contrib/114954768165184257763
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWhouCtIP54IWvaG2BaQYOqJYwhVD-l-nAQWXTy8nrzmsydvGW5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr87nNcQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr87nNcQ!2e10!4m2!3m1!1s0x54950a03066e3979:0x54812ea13325132
+  - name: >-
+      places/ChIJeTluBgMKlVQRMlEyE-oSSAU/photos/AUy1YQ3Xru70EL8SbDwQWarmZzyGAWadyUwqJqL9nie9rwdEy-AT9H6I3spg--pM5qenGXJQUI6R_9EGtC4s2GYthfkZNojkvtXAA0_nFlR5h4Y3DA1bh-XLugUiOw0MvkCV3MZNpQsKRAfuzM7cCgdKgnlzpyJHuzTyOlcLl_fYbAtPclmcSyfI36ZYUusaqTZnKrgrThJuuxruYDPCwJcEOMzp3_5GGLx-y5bOYkB4eXF3lCGpHEF0F8cV89bU2Rbhtd3cZsD70SV98b0PB2K9OFsn817j25mbiOVgHVLLyRXV0ZrR6rpyRWLpecICpwDxcapy_4l9-fCK96fuAHtFdRZYgLl-dgOAZRUQe67QojWH3je61l_CA5P2_VsK2_ISuy_oJMVXqU3FdRqgRb32h-VVB-Co8PdM2UhEsi4lR6ooSA
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Nicole
+        uri: https://maps.google.com/maps/contrib/107319866816220538913
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUvNAmRZKnK6JM485EE80r1RCdDr9Yh-dUAhUbs8ysDVLyCxxo7hQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-t6CdUg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-t6CdUg!2e10!4m2!3m1!1s0x54950a03066e3979:0x54812ea13325132
+address: 404 SW 12th Ave, Portland, OR 97205, USA
+street: 404 SW 12th Ave
+city: Portland
+state: OR
+zip: '97205'
+country: USA
+neighborhood: Southwest Portland
+latitude: '45.522402'
+longitude: '-122.682936'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Bamboo Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x54950a03066e3979:0x54812ea13325132!3e0
+  placeUri: https://maps.google.com/?cid=380574965066518834
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x54950a03066e3979:0x54812ea13325132!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x54950a03066e3979:0x54812ea13325132!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x54950a03066e3979:0x54812ea13325132!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Bamboo-Sushi
+
+---

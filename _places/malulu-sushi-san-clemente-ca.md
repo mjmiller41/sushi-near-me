@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Malulu Sushi"
+permalink: /california/san-clemente/malulu-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: San Clemente
+place_id: ChIJ7RnQ8fXz3IARtloOW7q-bv0
+photos:
+  - name: >-
+      places/ChIJ7RnQ8fXz3IARtloOW7q-bv0/photos/AUy1YQ38U1rimfc1WibvG_mzSqVABfhAFnLTlr4oo0pFGx6T71XW2UvXfPmOlUsid5BUHar2nj5OkjteoSzs6JDfudiVNWjZSB0f7ePUii5fy3DeRjpE_OBCLqVEJfgD-2BCfk-vS52LkS78tQEItLohGyFnV6gKdvfRestnV4aaSFqoIBvCnkQIDE99xLQSqjmiNpSy-Q6Utte3_IVq0rzKMTHMLAGsz3d1p2hQyDZ60ped8_83Q8OKXoMybDqiiyWju5aDDFgEzFYxLDZaQxy2Y74R5RfV9vZS2nl7p8r5XE87AQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Malulu Sushi
+        uri: https://maps.google.com/maps/contrib/110352085238485211197
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV0yJdynqwfPKoal19gD3ssUJKhNHuUTme0vzFUE9rUozUbQ2Y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMni0MIYDwFJAEtyBI8bdehnrUb86xmXUoJ2ymW&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMni0MIYDwFJAEtyBI8bdehnrUb86xmXUoJ2ymW!2e10!4m2!3m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6
+  - name: >-
+      places/ChIJ7RnQ8fXz3IARtloOW7q-bv0/photos/AUy1YQ1UnOekbgnnJusYaQUYNdLDntVZ3LWnmHEAD6vtyjpmcoZkB4akXMvQPouu25qy6vJr8jXpPGxqcKPODreXKuVNt0VrAjhJ7EzNtX5l8umYZ7vdjSOgj7LbDgQd4lX-KmSg4rQUJMsk7p-wNEBN0J1cN6zPWwubmv4D9ukQAlGkbOAJJ8-5EHyVJE4qnekbJ-lKM6VRvwlsATs0p_Kj3b6byjDLn1cm2QPwoZlpYQRcvrjlejbcnkG_1i5bjmp1_5SZOkOhTGYC7IHvDqH53kD1-LgLmU8Ib0jnvx15xS46kQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Malulu Sushi
+        uri: https://maps.google.com/maps/contrib/110352085238485211197
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV0yJdynqwfPKoal19gD3ssUJKhNHuUTme0vzFUE9rUozUbQ2Y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN6fmSID2L6IiSpKzyCWqEOjlM_EwB5CAooFeK4&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN6fmSID2L6IiSpKzyCWqEOjlM_EwB5CAooFeK4!2e10!4m2!3m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6
+  - name: >-
+      places/ChIJ7RnQ8fXz3IARtloOW7q-bv0/photos/AUy1YQ1FLHoLs-RtIofJmPKh2w_hUEjGfgNsppdZoeEcT395JPtTk9dQ-JeguvcB_x0TZsI56ebTj-l6-Zjej2wkKczx9wnD1zJqWzULAbMlFt1ZYDvpiGFVm4dvmpzlEW10iz8KOeY6Jtg1J-RleSYs59DY2NqCI_PYSg5bHkbJF-s7wtBjWSZyCf47dtxEXw4ivohrH__xEHnCS-PGE_9nNACgJTpB2GfzWtqXMnRHDYiHe87K6FjMyeqEQUZOU09C4MqAvoal_Q00pEUCKGXSJGiWHOMg5loQjNIWuSNv2GnP394m8slT5OJ15bs74bHJ6XagabfCWHkU9NID1EIK2SW4kYzIkODi_3jw-vCtGY0O53fqJaguGLlrnb_pe7PwK4dOI0H3e0qulQW7vYjsz2-AGMFpcpiVlsd0M-EMKJtJDxqY
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Albert Baloiu
+        uri: https://maps.google.com/maps/contrib/103289242226480341591
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWSeBk94j4Hl1IdiBH0aXMXyyD7HyMGK3notNUziGXene1MosUxxA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC1i5_NxAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1i5_NxAE!2e10!4m2!3m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6
+  - name: >-
+      places/ChIJ7RnQ8fXz3IARtloOW7q-bv0/photos/AUy1YQ0yEBZic6-lpDxh62KcxVxB5IlBk_o1YhB0aRYfJwTkH5PWbktZRCjcx2JxCgcuxfMeT8492Vfjc5NmqS36wyr8EEf5BEI3LhV-SK0QIycdZzjjIBFIE9G_X26wKWbhwtoYl09GkazRs3FsY-s9m3CdhLFJTZItlyszy0_F36bBAu9Epih8gIS1CedPinjYk1ieIkxITGna6bI3eR0GVKC3EfvvdNz1GNVG6HbgP_9MpeHkon8pZpRfQPnhGy28nNtYBqPzM6258viH-CDvNEFyd8QjjPHWUMLoLVGWJ0YnHwb-zhOGiFBuDZvEbyV_-sm7Mr_1DphMguh4nd2J1K5DlCp9_0r7QmVS30IPhCIZXhcYO0H_aELMDumMhdTV_1j0Vf997vNnmligBs_5_SfIkFQrDzGnJSP5mTC-u0a3UaY-
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: TheAnaM
+        uri: https://maps.google.com/maps/contrib/113573069499103945874
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUKhfexvyRkufRdAKGwjJns-gbfRWqrcV-h6IfK-f25H14vtyNb=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDerez97AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDerez97AE!2e10!4m2!3m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6
+  - name: >-
+      places/ChIJ7RnQ8fXz3IARtloOW7q-bv0/photos/AUy1YQ1iCsx5hEeMrQp4tcUZYZuBHZ3B7HQLJILtyc6W3L_cUAa-EFXCr1sfp6CEJS8jUyyfMgpgsY_Bo52Xh3ThBc4XCg7pFfmzxaQ9voLxspXEQD64u9W003qy6FR1oDylY_1n_uDwSJcHlsi8kVCtItra3peW8AVIZJ2bTx4bsOpGalwIqrSNw52RYrBFhzs-fRWn6tD7CaTeqLx0HpRwmf9OnFE9kbf3_INHSlA1f6iix6sJPz3Fpre3E2lQQYGuGrhQaB5g944FMYMYtE5w8GtxwrL7unVPD8R1BslRPGDuPPhaokb-gveY4UemeNInzFd8r1NQlFg-mxJ1DlR3pDk39sUlc4h4jT4xHPSq_Q9LC3toIPONRjC95sg0ZUOtwwunvJqeK2VUmJeulij-YPNvzhx2fVxgLcXDq7maJGM
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Robert McGovern
+        uri: https://maps.google.com/maps/contrib/102815368780114206248
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV1m2tswxMyJyaHlgRAI_rUdPE8gOsZ90Z1DNE4aAa0-fFC23bu=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICuxf3EMA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuxf3EMA!2e10!4m2!3m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6
+  - name: >-
+      places/ChIJ7RnQ8fXz3IARtloOW7q-bv0/photos/AUy1YQ3JcXpYSqIpF4wl7OtOIg49X8GUzwN8VoP6-HD1lYXjbXk7qPyYCm7PD0Ue2AZtGygilj12b9MNE_i3DlW7n23VlIPEFWnd8a9xffOOySNTdIKGXae3bX3ySfsxTEWtMDDnplWv8rO2oCCXbXJsw3EoPmQgbihN_0jn6-U0gFtCFDC6noYB7b85gRg-jZXgAF8JUV0df-H1r1j-wcvzA1wRn6PJLXvwnhcexKEdBJZ7_38ESre4rp0k2M3i_uN_k_uawKgYHZ60AIDhot18bv1NOw7WMoX59vnZwMAohVZyYufw6EqydXTpvbL0iyeUfWXb0Mrg0SZlp_o625CHrOU9HeP46UlDzMEUxxXpjictRGAGZ6oMF1rxoguvbVyN0a7PcmNLCxmOnC16PDk5i_qm0dzp_PPrvqisoGGos1hnvb4S
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rouzbeh Tehrani
+        uri: https://maps.google.com/maps/contrib/104093005536262962172
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWqPO7K3kxx54SGGg5ey5BkIHdPaGl9cRvyUjSqD6mZRuf-Q596=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwgN-xwAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwgN-xwAE!2e10!4m2!3m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6
+  - name: >-
+      places/ChIJ7RnQ8fXz3IARtloOW7q-bv0/photos/AUy1YQ01fL4-CL-j_B3roMzMXRnMIT76yr4ByF32ETwyd-lB-UWaXn5SpUWRbh4su7843rgJOAuOmlcXpZUt-8yTRGYTu2aualjvs6DuwiPpcvts7GSPzg40-kkieESchn8WWswXggbuy1fjeVy0Ycvvw22uB6aihxS8idqvoNZGOBY67nMmslmkaqXVA23xhL8Ik1TgV6pl9zmmJhHCDe2Tjj2PHUvOm7Jvv-cfziyqKsDyYzYQWAYN1a2jiT-cPaATx_d_TH-MMCjrJrmUFsIPtY2yEilNc6k7_r9CjdHuDHqWZgdJckvjhblgr1--fPznYRtyt_Ls-J13jnIcDeRctMvpAEPOAibJ3JMUrRwxpSqwwMBPWH_LJKRxgUrnucfzqA6FbsU5_k9rYhK9n9QL2-Rz7PlnbmE2DWwE5jhQedOJ4Q
+    widthPx: 3779
+    heightPx: 2834
+    authorAttributions:
+      - displayName: TheAnaM
+        uri: https://maps.google.com/maps/contrib/113573069499103945874
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUKhfexvyRkufRdAKGwjJns-gbfRWqrcV-h6IfK-f25H14vtyNb=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDereytfg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDereytfg!2e10!4m2!3m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6
+  - name: >-
+      places/ChIJ7RnQ8fXz3IARtloOW7q-bv0/photos/AUy1YQ3HWS2puys2oV8s30yG2CMoi1jcoeYE5qNU2VJHIPrOxUdsgf4ZeRk8ioMV_iDEQ-brNYCw1Ms9pGdrKs1mROxdONvubKjTaCjrgDFfA_ku5Y5qCNyIFTu5vnkuHIUVSfpPx93MuFtAjrGacQg--neLRI_i47i6zhqnDYukdnW5Kh8MpZkP48p5vjoY8-cAlKFNPV6xidBilPmkHLmEkLLiDixxb3XDp1yMfkcVx5jjBsQY8dpD_e97bvS7tpMRaUsPfjXByHllBAy5EAKuy3pi8RVrDPnxAhxE1d-YvZFYbw-M85JqXnEE9EdJjsrQVPbTAAU77N2_7EYKOgQshghqIvFc3UJKIPlReOyfTz924ShcE01rgikWOPr-NtkzcKrylPuXrxPzf534UEO8aKzUXWeUoC4w1QvHIiAc-CG3eBIF
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Joe V
+        uri: https://maps.google.com/maps/contrib/110326414720018839779
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVlN52w1PuvNnvgIcM6b_BP-DXyELHb7ewtP-qlJsqKmeYVk_BNPA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID21b-U8QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID21b-U8QE!2e10!4m2!3m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6
+  - name: >-
+      places/ChIJ7RnQ8fXz3IARtloOW7q-bv0/photos/AUy1YQ38pTeTcbk2yMPSgZd1KEZzIUCv14PkOlS1ESAmTk-Ph1yrfEz2lYVRhGyGrWQrNZCl6hp4JgDkhWBmQPlel2qRFhMPRgskmNUff9BqR7kMt1N2dp5IP744oxtCCizc2rICyuqqwxCS08X02VcKdP8GE--jlbK04sdZWDGpA1_v013j-twO0FXyfEAbHgenaXirhzXJKzvZWlSBUtpWlaHhrACjkpDIRdFFafXO0EXFiHNgLTpgzgi4sdRvdiE9dfpu0J3Dy0DQxB4Roiqx8wHoAzizXRSC0mSPJMWVcgutzg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Malulu Sushi
+        uri: https://maps.google.com/maps/contrib/110352085238485211197
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV0yJdynqwfPKoal19gD3ssUJKhNHuUTme0vzFUE9rUozUbQ2Y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMZ2hb5Mh_F7Rr1WuteOarA6lDVvvpS8mx7Fxye&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMZ2hb5Mh_F7Rr1WuteOarA6lDVvvpS8mx7Fxye!2e10!4m2!3m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6
+  - name: >-
+      places/ChIJ7RnQ8fXz3IARtloOW7q-bv0/photos/AUy1YQ0lxLn6sTKixQkxyOOPR2aSAf2RJyur7f_oPj8fHZ4A484U-RSiC9GaUcsmlXukggbgTFfxikgqWIjvdBD1l5b_Pz_XACuXNZiAAjkuFlTXvmSwySes2B5ZltsZKd7MSgSWe75U17H7kroaHik6VIXB_f_yN5KHMynkGCX8PwSglFd0F3iM8IIg6rv6b8OHtxa_i8Wt502XGKnSvwZAVvJiofjDRfGT9e7S9EhP7KgbXbeizdHZSw9rc6YHZDgOymAEsbDvIEJR-LwzIKTOLoDmXjYdhs6gbIZZIUGXmkXLnrfr7yMKT6mUuDaOt5pzJsVE5T86aQsSR33lX-LMWBusW-TNovvDQM0iVuhfu5qAkMleb36W30Nfxo8QiU-tq3bBhiL0xB4SGLn9vEcm7CdIMLE333EEKJeuI_24tXTftw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: SuperEDD
+        uri: https://maps.google.com/maps/contrib/108786884402179308984
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXKyUkb1W3hxSJ1AP5CoVBaxvUPUaBYbceY-DdKcGIOAAFUIZhz=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID696qJeQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID696qJeQ!2e10!4m2!3m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6
+address: 415 E Avenida Pico suit C, San Clemente, CA 92672, USA
+street: 415 E Avenida Pico suit C
+city: San Clemente
+state: CA
+zip: '92672'
+country: USA
+neighborhood: null
+latitude: '33.437178'
+longitude: '-117.624887'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Malulu Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6!3e0
+  placeUri: https://maps.google.com/?cid=18261743246634801846
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Malulu-Sushi
+
+---

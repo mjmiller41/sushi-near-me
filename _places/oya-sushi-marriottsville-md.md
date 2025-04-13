@@ -1,0 +1,210 @@
+---
+layout: place
+title: "Oya Sushi"
+permalink: /maryland/marriottsville/oya-sushi.html
+stateAbbr: MD
+stateName: Maryland
+cityName: Marriottsville
+place_id: ChIJjYA1JgAhyIkRQpa_RGgryVQ
+photos:
+  - name: >-
+      places/ChIJjYA1JgAhyIkRQpa_RGgryVQ/photos/AeeoHcI23yT4tBhe4WXX6IuYC1lcY3rTw5i87_Vf1DjRVL6Xtti5BQSClpGnDS6Kyy5JByLSDziTcJ38mkj3gUT2T5V9HD0iLrCP2T9yW1EKAKepT8w0huYhoqmRUbSN_LDWY1M6PY4bjGK0mNJWrIfZT9HvR-7v6eT3KiJqroUHFUx-5CeGXBHHSKZRDYDQ3mct5W-sJeYBF5YKw5wYNX6bygUJuOeEXkGIp3TqcKXszh3PkkUwOPJO_8BRoVyxntCP_efTy-8KXCMbpE6AWn8Dk8ez4ac8iNNjIy_qQg8ftpryYNHFWghYMYrskjK2mPdOzMnyBRmqbTnU5tHmafN7JAK4R6IJgxenrDWm--EA5efjlLZy1DYuTKlFiKoPO7l62Me6KwslfR39JNVakJqXIwS6ia3whAYDQyvc6Gbep2A
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Nisha Vanakarnkovit
+        uri: https://maps.google.com/maps/contrib/110258125374260034196
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUolJG-trI2m5szd5lEKEt4oaaXJTZsA9H0Bj5aYFmFlnuUkA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPlqCtKg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPlqCtKg!2e10!4m2!3m1!1s0x89c821002635808d:0x54c92b6844bf9642
+  - name: >-
+      places/ChIJjYA1JgAhyIkRQpa_RGgryVQ/photos/AeeoHcI4Tjp0DyUkK8EKSvQQbVaoFK2uRvRRxN8iIbF_U0d9DxP2b4JVFLAGNA77Zs4_1GpMLzyFm92j5peQP2Vijd1wAogANx1hZYxEKqQA535yDzkG_DTuYfQ_7Di4Nohzqtx3YWjJgzqavFPaDRjnOK1gEapVvkPIQh6irKqde1DBSgNMnAYJVGoyuqcCxS9vXHPIH0i5UtiOyYLSPMfo-ITBM0y-oSdQIelH3Uewq4QPy4rEWP1RdbqOgUQ3Q6AJJ_OF1JNTcjFXlNQetgFyJjskW8IUiSVs6uq1NXoYN7GEmOpISSMpwK3zNQpqp0ylDvYqXV3rec3Ordi-5Di4JBgQ3cibnjaQoXIoKp45-xOyl7gqKUz-vPJUnbta2Swk0yN-0McRWchE3rRebzIskc1Ebstl4nYYTgLNazRT1UA
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: TK Kim
+        uri: https://maps.google.com/maps/contrib/108196142679503785482
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXHx0INCZaTOWCQmVHIR0GVHnfHGLwxZjhtOLIsuFjQsqlV7BNP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD7JvvSA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD7JvvSA!2e10!4m2!3m1!1s0x89c821002635808d:0x54c92b6844bf9642
+  - name: >-
+      places/ChIJjYA1JgAhyIkRQpa_RGgryVQ/photos/AeeoHcI6yXpJFxybCTygwvxUkC4WKYP6oJmNXJ6K-47XePel-zyoStGWfD2ix_YNFUI3suFkGNq4_5BnQej643zoq73L9fQT-NGmjTb-c66jsxa3r-EqHfG1rLGZa_iiS_hvywTxDXvZQqNRgPg_7DblaqdoYVTGpQ9WxQtKOOdxFdoDN50wsgztYQDe67piOTIebzHUVKcAv5JnvuOSX736S_igqTX3QLkLtoEGb1_Egh6WzWIdICC6G5Gi7jrOaatq1OV1SaTFmtIen6XFSE3yzg1ocv8zOBdO-MD1NTulqJ4wEfKig6Yfy_WDbRvA1depJMgp6abSUoN06vsdyXfgY8mPzrUHjoQG3qZ4n7FFIthQrzFyGevKVBBy_xf24VbDLeLLJg_G__H_054VKIPSbbBRfSCkx1RXc7a-33JVZoUgTCM
+    widthPx: 1713
+    heightPx: 1284
+    authorAttributions:
+      - displayName: Hayley Streeter
+        uri: https://maps.google.com/maps/contrib/115192398588398154947
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUw-UlLehndmloCCBMdYPe1UYb5mWbfzWxv6rTzrjdw7CktAao=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD7fS9jAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD7fS9jAE!2e10!4m2!3m1!1s0x89c821002635808d:0x54c92b6844bf9642
+  - name: >-
+      places/ChIJjYA1JgAhyIkRQpa_RGgryVQ/photos/AeeoHcKnW9z2FNMBu4i8_lYd5P1NEAYRUlpNQk5BR9MGxhyO5Wfnzg51BXvAM_-w3IZOhjvAqhew_WYNmlN7i-I0uRPPzQEsTDYVyE00heK_TAnTyrlFDQZDhGhf-2yKT9WxkbF8CZgNY8YZBtbBgCg4mqueW4OM9XHC73b9bdv_KNQEq8kqsmgVMWqOLVd63b8rKM7eJHLJErJSrsGUjJ8Aj-fwZkK9Xb-KOZUddKMITGlNP7KYTCyvzx0SYezzYZhhhGPATBP506hBxOT_ObUE9PgC0oxIH22nX92OGVq3A7kp5AxZwFlnixbgWJOLUoEF_NqrIcbGHUhspS1pCjDvEQ66SxZ1GQoznig6jjzdfDMOq6eC1tfDi0H7CUDSsAwCtTPWQ0TgSr9ibMn6NtPIQDUajoIDYNYMezLaDCJl4c7h9A
+    widthPx: 3071
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Kathy Barton
+        uri: https://maps.google.com/maps/contrib/102684890019955430240
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1mQcfLak8dh-tZ4XNdAPLZ9fzKUahmrZgJtq9gpEKXVS1riA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDb5u_IMQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb5u_IMQ!2e10!4m2!3m1!1s0x89c821002635808d:0x54c92b6844bf9642
+  - name: >-
+      places/ChIJjYA1JgAhyIkRQpa_RGgryVQ/photos/AeeoHcLPV1k4Lfm5WoLdqOOdJbBhFG9X-swd8_pAACKWzNcSV6gLGwnMXz69jljkMxn_36TD3qY_JF7VpHHxWTg7fAux3ZA9yESqWpatFMoPGvjIzmtIFW6xglhEMyI6ZV2d442B7z-tdI6ogt5-xiUj_TcwSDSZsxij2ChnEiIar-bFFLfxJLuReeIUkJ12xF6kHpT3ZYqJ19uckAZK3JG0ZkmSp989XfoAWhY59mCBB01zI69sBcDDK1CwLv2H6Fnmhu8BMcC-YU22e2RWxSHBUt6eb1Pe1WKTi5ZV7ZGZfY35hbMjflFXSjvjJ6jfipd7r4r591AYh0CJsI-IboHejDX9y2BMtZF3EcStQumjk1Mt2lN1gAnBdCFpShmkM-WEu4Bb4z-BXnRmbxhTPxT9oGM9AHVdkRyJ2wCiWD056g7iHKHb
+    widthPx: 3918
+    heightPx: 3918
+    authorAttributions:
+      - displayName: Derek Hankim
+        uri: https://maps.google.com/maps/contrib/104511869365470739985
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVmg41__5Y_0_Ks3cN-K-_01Ti-qAZT2pzcwXYMY3aVsmWh8TfJ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnra6d8wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnra6d8wE!2e10!4m2!3m1!1s0x89c821002635808d:0x54c92b6844bf9642
+  - name: >-
+      places/ChIJjYA1JgAhyIkRQpa_RGgryVQ/photos/AeeoHcLjANBZ-T531h7D7r-Ud5QyrdqQ6pSNstIHJzeNlLr5OEpikYSKytMUFBgLjxUqRBdx7oQnkHELAhOWr1-M1mnp4aXqjPsOMV_Yi36FVbfFjcuoasHnMb6UNTNr4c1a2T6ajLI83bz05g-9CujGkXawZbInaan6dxLAvekNB3VUGzCjq-10IUJ-69bAOhkozzMhjP04MDTdwzz4PAF-UWGHCCVWD0czxtILOFHGOQ9UV7n_vPFBd5hsUJzSzZ7URXQZkhf-PfdG_Oo8jEbo9HR8chuJ_-gunIPM2G-mE5Sf3YAPrAM244LfDZ5tiIDndsjusMTq3hd_-oXSfwf1TtwlHi5DG7onfuhorN539c7mJXj2R_EZa8VYcw9qQm6DQ2s3TYyHz2HawZPrvwwq5NWdVOLtaSSnlo_HE-0UxU0Tac7V
+    widthPx: 3071
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Kathy Barton
+        uri: https://maps.google.com/maps/contrib/102684890019955430240
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1mQcfLak8dh-tZ4XNdAPLZ9fzKUahmrZgJtq9gpEKXVS1riA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDb5u-4wQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb5u-4wQE!2e10!4m2!3m1!1s0x89c821002635808d:0x54c92b6844bf9642
+  - name: >-
+      places/ChIJjYA1JgAhyIkRQpa_RGgryVQ/photos/AeeoHcIdNTCachhpLE6Ejm7ZEdL3sixZCx2O5wALTkdOjTk4mmORzU7Wx2N-BiUAPnNfY7QDent3cQHmSo-qB2-JQT2qsgDSJGb7B-Hlhb0diGBLCZvBcf40EGBY8oitq2gmIBh2Q59gic1_IhIq8UdtLxhGAAmjJHAVKH3BEYbpY1o-VUnqXjKdb0h5isxUfwq6lT68QgEhjyLtVAjs8tcIVBYSZQgnjGtWWiBfgcVqRLYcndfZsALgZ9BI4vsEQ72gSY5yP9w83rOe5eXOF7rBI5bI7r-paFQd0oMKz1WUd8OlEPutTwdYfeui2SCLLWVOnQYn886WHis5shes3IVZBnpWOPhez7YVHiQstN2Lwf-z-X2m-HxMByNrEtvzMdozGqzCxQP37vQVX_gZfv1DBNXw3vLSy7B9nZAo_Q_JxXb5QIk6
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Starr Davis
+        uri: https://maps.google.com/maps/contrib/102462395253586989773
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVp5KcGZpGx7LosL9Ueun1X-Bg8C1uJQ-oK40MDt4A-3yjfl74=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbioWGwwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbioWGwwE!2e10!4m2!3m1!1s0x89c821002635808d:0x54c92b6844bf9642
+  - name: >-
+      places/ChIJjYA1JgAhyIkRQpa_RGgryVQ/photos/AeeoHcKV7dvdcxoYfmigYvFkd-OC6vsSWASDb9GxBIxqCqzAs3Scs5rJSww5lb_SNAWpSE1Fg-wSAJRaC7tTmweIJb54IGV_3dKLereFFBgwxkoiCNrMnm0Vys-UUo_5yEG-kDbAx6lQ9T8NsiQqMOiX-lh_15_dpNOnAZ6qejg4CT3qLrzk8PhEQEvvPKKWm9M4GbOl0lUbCE6fj-2EWk1WqWvfUq6YPNUKkvlvvdxaZj8nqXkZcUTbJWQDxlRDMFMG011bJsWSHvsAgUsuCzv9NtxRQVbxzuAN1ClSrdsM7jbhBjVZ0_3Q_Vu_M3u0GEQIl12QxHnH5eAxdrPdobrxOD3gt5S5UELD7D93w0K1-_pH2zuZWwTNVeuATBI6Wc4Xiv2sv_QJGqE7I1mQd4XCaj-qHIghLScHdq9ZXsxp2VRiaTeH
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: David
+        uri: https://maps.google.com/maps/contrib/108268280031333727724
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIXbH9WAvvL3O8a5P8G0tt3hFICtMdHip8UjRDqKWYIpZwJ6w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCggOTZzgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCggOTZzgE!2e10!4m2!3m1!1s0x89c821002635808d:0x54c92b6844bf9642
+  - name: >-
+      places/ChIJjYA1JgAhyIkRQpa_RGgryVQ/photos/AeeoHcLJgT1PCO7SZ9Y3ez6U1gZmsg5QXSwfjMi-7tswlLdKnqMX48sKF_7XZhmrq-J0y-6tBOAMV15vJhpAl59xOkBk17pGLTV5F5rZYgwD0BqCqODBYO107DGRrhhBuQIMD2qUvLqTtcuXxPunYGN-FhoTgn8fO1QTxPReu0h6771wApzXLUHhJVvR9uMvF1JmLli6c3-tQ3Lprsua-QSE23VvzNdlxxANo9qpS6FNk_8S6WdiTBs-MJkquauOm-RxkEmGxtFVcA83SoE1onYQbdY8rblI7aggWrgpF1gzdR-aCcLmzIKPjf05OmQXkfc6UMhL2QQKPs02vx2-NfyMsylcgXVk3LPkGB_I0XgAuvgFWFJjevb1Zb164GMfMWO9ezjmO_NQYFssgmQhTnDhnpgjUW6wxw9ZX4lTBsK3Rzli5VMT
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: David
+        uri: https://maps.google.com/maps/contrib/108268280031333727724
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIXbH9WAvvL3O8a5P8G0tt3hFICtMdHip8UjRDqKWYIpZwJ6w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCggOTZrgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCggOTZrgE!2e10!4m2!3m1!1s0x89c821002635808d:0x54c92b6844bf9642
+  - name: >-
+      places/ChIJjYA1JgAhyIkRQpa_RGgryVQ/photos/AeeoHcJAH0BPLkHTYt46q6brBG0UtPmXPvL2JUeKlNGkRdVckDRosnKAKEgQvgTMQF2X3cfIZk0aMAhPtH9aJfvVCNbEkVHcCxEkKn4XNQ1L_xcHdGBWYD99iqRsyhU1h0XpE-H1vVoJQs6Ze1tyPvxIjD-EvBYAbBj-s1L7RUgEI_YC0hZnbLQyMLUMP2RzuNX6O_VRIBYw8EiLOd7NRBuxu8xafros9JBpffxSmj4a6Jn1YLMGYQGCUIc6GLsOBCXCWT7IR01jzcOn3uJNE8PmOq9pCLiRX9v-b09hwD0k8if3-em0eh2TfMl37_lRUxe4SoOFaF54QasskTJOm_u4BXn1zc4Yu_uLsCff54Glum1DAvXZGunwBy1ymO4qG49abLDKvOYiQwKTvFDLnPxl3YznWYfCk3JP89OMcelj4Ky_UX8a
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: MJ Lee
+        uri: https://maps.google.com/maps/contrib/108712438111312968612
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWoyaVOFc1ooGFMp7XcL2ps6XUaiRIoMcKQXQCn_a_qDuZFeo6c=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg4a6auAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg4a6auAE!2e10!4m2!3m1!1s0x89c821002635808d:0x54c92b6844bf9642
+address: '10775 Birmingham Way #7, Marriottsville, MD 21104, USA'
+street: '10775 Birmingham Way #7'
+city: Marriottsville
+state: MD
+zip: '21104'
+country: USA
+neighborhood: Marriottsville
+latitude: '39.307468'
+longitude: '-76.888850'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+business_status: OPERATIONAL
+name: Oya Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c821002635808d:0x54c92b6844bf9642!3e0
+  placeUri: https://maps.google.com/?cid=6109462096334788162
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c821002635808d:0x54c92b6844bf9642!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c821002635808d:0x54c92b6844bf9642!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c821002635808d:0x54c92b6844bf9642!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Oya-Sushi
+
+---

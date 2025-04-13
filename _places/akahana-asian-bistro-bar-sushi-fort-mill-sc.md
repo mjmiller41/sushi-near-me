@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Akahana Asian Bistro Bar & Sushi"
+permalink: /south-carolina/fort-mill/akahana-asian-bistro-bar-sushi.html
+stateAbbr: SC
+stateName: South Carolina
+cityName: Fort Mill
+place_id: ChIJA3O8BWuFVogRyDpOXzXRM2k
+photos:
+  - name: >-
+      places/ChIJA3O8BWuFVogRyDpOXzXRM2k/photos/AeeoHcLdlZtSblx4Z_Sw35xQil0NlPF6N30xQUq6vjoYO5AXkHwrfA3uu6-WO__GP4Ts9IxnabpeQIgntkeZmN9JxLV_mcBI9AXN3IoIrTjtG8zruiixIFD4tTMJ3_pto9Zs4DAqYVUr21L_LSwlSB0jIpBhAayBx7Keq-5SQLK5ABmVv53rfNSeTjjvoLBTgkHGQJpBPH_AwSbQ_Gs7_LRpvlUAmCeKsqUAGlU0sqrSAyYFwa0jZdgFTuxlFWrmnCyG5pxvRSxMBm5s9KJfZmlbY96pcSngSHloJ1ctID9SfI5SI7LgoRC7N6t_ol6LGxD0aC_jNuqBYdhiG8beeJrn0oDl30b4EiiOY6A-xJOZFzHCGMUy45hLts8tLHufx8HQL22jIIxaBHxRPtVice5qM9zF0bFqgO0HkHLICdMl2B2DZw
+    widthPx: 4000
+    heightPx: 1800
+    authorAttributions:
+      - displayName: Bob Mulholland
+        uri: https://maps.google.com/maps/contrib/117548580065719706314
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX8zzJj-WcFm6dh3nLvkn3T5H2j0PbD67l92lOknQuZ2klae3DfRQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICewbThVA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICewbThVA!2e10!4m2!3m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8
+  - name: >-
+      places/ChIJA3O8BWuFVogRyDpOXzXRM2k/photos/AeeoHcLUAvs5-251gcl3HbbwIQPZHwHrsGS4C9qFBoN1BdHZbGUq0ndMxCPai4SBis87F-hXe4CiHDIF_be_wvWRMKXM0cg7YB2owfhK-eyObXnS3nu4mqRhhG3eEvMsW6wM3WXxj3bcTCde_VyoiXfKN3gh-2-RVQFECAUvz6mrZDXK5MpOwLj8M5STqsj9xhETc02168yLxknmf3BoyyvE4QqcpkAWq2U2b1EuT-3xVHdwbIiyItE-dxpTSAxrHJIQfJHxOcxd9mDNHFG346-BMBhnUQqCpZsc8I2bqP4_KCKyg3OlXEO_SvMlpJued71C2VmImiCjv2pX4epbkaHvw2SBQpEg09eSSl0yyRQDZhv3WJoGFGnBb7CyIB6zbCAWcxqtdAdvAM4LBzy4UQ5fC2pZTM-hLiogIcGfuU-U4ssm0w
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Justin Sweet
+        uri: https://maps.google.com/maps/contrib/102054554896894326177
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW81DdAfRKocRIejKSIRAF6O0epr7p-qZQ5KjFdogzQJcFJTH18=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQrJfGPA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQrJfGPA!2e10!4m2!3m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8
+  - name: >-
+      places/ChIJA3O8BWuFVogRyDpOXzXRM2k/photos/AeeoHcJIhiJa3-Sn5URKSePTAaQzNLpnfVvgTHymNZ7Q7FYCGGZt6YJcIpMDC-mlZSop3q56tDVOh8Jt6qm5r3MNYicFL9NcgUCd8jnvIkh26lYkzDTAZJ6uDG7ciw-taU_EwObSXxHtgmdPHOVghG12xnDuNUmZv1JI847Q_n3FnMYmrftIkjb3yyV7PdJf2ianNJih679_m2TjqsVa3VUlumXmU2wjUmtini6Y_BixPTnxc2YHEUEi1pf-PrkINx2RUokvrITqdd5xIyhEA1saWdTDq6FkJsXu9yrVt0kmkBciJCuHTggqG34DVbs-8pVWtE-e-Ngs2hWL-I32CeuacKi0KIjURvSG8buJyJoeDN8fTFIRl0Cu8GmXXtvm8khewT1GuIP2FV5NxpE0gq91NkD9F_PScALEFHcugUy3ixk8hA
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Yuvraj Tandon (Israel)
+        uri: https://maps.google.com/maps/contrib/108296732386049772014
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtojQ3DUKT8AMVzk37gH2WssAKbB7Io-HwZiNVgTNdezGCEJCo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ5d-LcQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ5d-LcQ!2e10!4m2!3m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8
+  - name: >-
+      places/ChIJA3O8BWuFVogRyDpOXzXRM2k/photos/AeeoHcLZqXt1-f1T6zdubBY_q34gRgkrkgQZVJvfSmfLUSRz9BqfBjwUUuzWnksfM9LUqStqCl5HGNCAR4m0gBP08dnvqKfpj7vkfM4_7eLeEx0-ye1qP0uDKevrZ7jLeVVWhvlmXg1n68m4h0pAtXKFHNGipDBQb_fbUi11naohj4tlDtsudTmtpZuNknXcEdkyi3RYR2C-psmOG1pvaenuMLECOk-c80V3hmmqSHzIGfK7fZeXlQQtI2trKsnfX13bjLuJC1vh0OL1r-32_jNDiCAahQ709-ubGtq948J1EdvO4HDXYJjXQd6en8t1X_hh1RgeUK-w5yI_uBbac3x15vytNdFvsMiF10IoglDCSY1avhpWceU1R3PdJ8s3Uex75ddqkhaVm9iVaoZY3sGOeu5mJxb6e7VEtoxLPJfgt2JYWbsx
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Andres G
+        uri: https://maps.google.com/maps/contrib/113751993780565249725
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWwEpLoTcHSZv58wIUaoyA1779-ytxGk33HPojJUFy6UeFCktI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICNmb7b1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNmb7b1gE!2e10!4m2!3m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8
+  - name: >-
+      places/ChIJA3O8BWuFVogRyDpOXzXRM2k/photos/AeeoHcIplsEA_3_BnfNW1oV_g7AzQGoW8UwHsUeoQmB5c-SzO5huNApe9UfaPBgZt0CaW5EHBHGztKUlHnxVQFm5C7xa_oRIASpanFkFaCpJSBW4ZWtOlq8FCC3e327MZ-3udYfRnXG0ieITYV0cvrp2G6lYNLnvGjuo20n2nOclQAJmoI3btDkPwHdbvM2Pv8XtyHU6jeOaJtgF6-eSiUMv9iPr3W_fxH5bqS--FsYMY2895IEjKXF7conzA_oAYzZ8YLeSJh_erYEQCL1w65TbQ21kn_8l83A_OD1tvCf1Z6yAgwLhRCvYkYSFezw7wa9WcCRvuEcoqMFmoPD5E83f47MFP3wCS8i6K18ZqD5wVP9hOKVtXRPB5lhSjfSD6lKU0LI9dB6pr5v21kWrHQaBY0A74cSdI-NX2rCl3ojVXfUC9w
+    widthPx: 3264
+    heightPx: 2448
+    authorAttributions:
+      - displayName: Scott Snider
+        uri: https://maps.google.com/maps/contrib/102920606900107361243
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXn5pXrZjPEOk8w8BM3KZTOrqTT6Blk1DUDRHcjpMvXAoOmZkmR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIsuzAEg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIsuzAEg!2e10!4m2!3m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8
+  - name: >-
+      places/ChIJA3O8BWuFVogRyDpOXzXRM2k/photos/AeeoHcKXVHifTI_WD5YhznEHBOIqs8YUYiMq7BoL5EyvV7K53SoRJgdDZ0StYiB6v_iJzyseCrLNzWS1MVeLJkCFHwcZDAYWswIwy7cM6dkgZ7-zKNgnjVVDwQSfNTyHQzRHOTuXcfN0hMMkPLC6nCXBeJLKhWllrd9WCZpuYcoCt1X78i6TerJGj_7MVeNeDWDMdxEaTBFah35Vlu2qF4iJw8kR4TG4SHqtXwIn0jvfM80t-NYuF1WGV5XQ-slDhjP1AfFFtE-Q7nNwfMbebRhwEonGvXtt8FNGwAh0nPM9gZrvANuSd5wL89ety-XrkTeG7s1iwFBqQ_zvJzR_rTAJBXkyB_6prVAU5zqTufG18A9D9cczFtTXHLUJJ8Iol0Wi1cuGaSwA7syLCssuUI3jj0ZxCPETXAI-EFD_rQC1D7rIIQ
+    widthPx: 2268
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Yuvraj Tandon (Israel)
+        uri: https://maps.google.com/maps/contrib/108296732386049772014
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtojQ3DUKT8AMVzk37gH2WssAKbB7Io-HwZiNVgTNdezGCEJCo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ5d-LCQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ5d-LCQ!2e10!4m2!3m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8
+  - name: >-
+      places/ChIJA3O8BWuFVogRyDpOXzXRM2k/photos/AeeoHcIExxW_kuMRJ5p7Fb3WEVMUKxJF-kK_NG7m-F_MRNBnxNGtHl6_j_0UOUv0YaUuTmdH3psw3W4YMj7-jdjDzQwBH2ID2Br7oU1Hvniqqj44UkPS_SUfqTJznlpwkRBqCBYx8r32N7XjTyyakLThsrRLPu2CxzoHeazmFI2yZ4yrn-5MN528wVmAbxyQ9rqraMexc7oyPTe8k1ArdO0QIRepFBfh_1T7V231b2hN11amu-w_bImf_ElZ-NKtRc457PeEY0_5HPkClxmWVa8Qrc_uq5Yp8rOwdK8Z30Vf102LTT6fnQUqaBhFPy89swEze-ixdCDLipOahLWrj9wl_h_UiyFbx4DyxLxQ443NHRrU082DGWB52xQrxmNJ45vYdvmmwdUL6cfauUEPFdu6dZ0HYcPBaI3UxSFR_u8CdZMSg2M
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Eric Ransone
+        uri: https://maps.google.com/maps/contrib/105494959680012836513
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJP1UAD4ngHh1BguPyObdjb-EvaPSTDa5asiKQpzWs3tqEuTw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIClhJDvjAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClhJDvjAE!2e10!4m2!3m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8
+  - name: >-
+      places/ChIJA3O8BWuFVogRyDpOXzXRM2k/photos/AeeoHcL7Jlkr9P6FnP-39E_QTlQBQk5gNXD8NgbwSa3B32fWmqw6YOeHzEL04MTwHhpUojfoETVraNyq1ymI-umqWzyqdHnKJZt4nZBM7-vbfyRjd_ysZD95rTKTiV_PlSpR7lK1dKISDWv7xQRyoRT5n1PMrb0bHnzAbR7GXBCfhfEQYTGDgtqNK36fAYQ7sF-w9bA-sYpStgygJs_SaaBmENslVTrHtmcQkZe0_PRyuf-9Ax3vbtHi5bnb8548xMbasrufK18UK_-N7U_p0X2Uh1ImXTk0CFAun2pvS-Y8ZUcPdsMh5chgXB0tWxu9pFAWyza5fM-B95FrDpbA9cqeWq_opuwCSSKOi0yhDrYAyRsszXcl4kIKA4WonOW0lRlZrmerFUEXQxd5hQxviW5g9lOdvYvRboD1xWZXuCKRnyB8Pg
+    widthPx: 3789
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Adriana Marsh
+        uri: https://maps.google.com/maps/contrib/101813664358949291537
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXgwJ7VmNaMwi_AR7__9KJ5laWheee_HGT1SLoQm0pnok_vBhM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhnP2hRw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhnP2hRw!2e10!4m2!3m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8
+  - name: >-
+      places/ChIJA3O8BWuFVogRyDpOXzXRM2k/photos/AeeoHcKyAtlFw4rHiNhqZDMU6sXAqYqHMIoKZJQA8zYCu8F62hLQkf_e-54zRXuG0P6vwjLpo81fKYgmF1J-moZrXXGO7bQdGx-dcjTW2al-Ec1lMLGhc_bH7nGgigCXGOPzGb3skfHniF6Cpkmcnxk9ADmDHpcGioPEoN0KqhA4yd3Zv9s_S7WC1QB2jvxZAkzyDrPuoQb7hFvg6Cs1YVik4Y8a7mc_skramPZj9ifnPykzjeeA5QDhvdlT6PoIaPeFuFVjSdBu8cd5mC59-HQxCkv4TjGUpGr2l7e96TkH50-8nNq1o6RGRTPEjP2x_Qa4rII9v1OE2AP4NXtMuiZzATEVK98-6BedrmYpVEC7EhboyTmbccJ9rsMubZlzIo2seS-_dvyVNiQEfifu-2cV-I5Gk60UtZrrMkrP67fvPj5ar6tx
+    widthPx: 1125
+    heightPx: 1500
+    authorAttributions:
+      - displayName: Kay and Naj Leefatt
+        uri: https://maps.google.com/maps/contrib/113181752371306502062
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV8D8D42WTalXWq_DWiI3PWOQRxWhIcOi2djyvjuIX-6mpq03g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDV5_fVugE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDV5_fVugE!2e10!4m2!3m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8
+  - name: >-
+      places/ChIJA3O8BWuFVogRyDpOXzXRM2k/photos/AeeoHcKPAgVFx-ZMg8EV3NeOmUOrc2Eeg46Nw1-XNo92EEiIw4lYqolK1nBYpGZ6oCVVr6FIIyRbclTh6Do_5D526whYaqP5WtKJM7xDHkEZJFEm7A_meSaF8umkTmbLfvcILji9JcsXlM4bR3SEafQY62Ohr0QtH8cL75NHuSgx1idVpkXuiIrPoM-FBp_D_kOggP5qmmTR5HLI-wJ0nFrOf-5NklSzPwDN5geXV-az_VeUp3xzD_01UdPFfPoRjt2THhJq4TwQ26Ie2NvaH4y_tiXHEPRhbtmB7n2UZkNzDAVDAm6SzCCGS6O96v-1htCJoA5XaxU9uSnz91punu2s3RUjfiP4bMfBDO4H7-ouNaeyxLqpTAcn7LURleqb72FbOayhheikl5qXxXYF5sJcSNThPDIt8rHCchwHh6IZ-ASrhw
+    widthPx: 3468
+    heightPx: 4624
+    authorAttributions:
+      - displayName: PLUR LOGIC
+        uri: https://maps.google.com/maps/contrib/110230405612500095239
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWDh0BQ3E9RSc4Jbk0_b5i5A7hx-rdDhuoUhUSJSTBSpu7-S4Hsuw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpm4q7EA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpm4q7EA!2e10!4m2!3m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8
+address: '940 Market St #122, Fort Mill, SC 29708, USA'
+street: '940 Market St #122'
+city: Fort Mill
+state: SC
+zip: '29708'
+country: USA
+neighborhood: null
+latitude: '35.027912'
+longitude: '-80.968317'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Akahana Asian Bistro Bar & Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8856856b05bc7303:0x6933d1355f4e3ac8!3e0
+  placeUri: https://maps.google.com/?cid=7580632624957110984
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8856856b05bc7303:0x6933d1355f4e3ac8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8856856b05bc7303:0x6933d1355f4e3ac8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8856856b05bc7303:0x6933d1355f4e3ac8!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Akahana-Asian-Bistro-Bar-and-Sushi
+
+---

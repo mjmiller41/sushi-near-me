@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Midori Sushi Of Highland Park"
+permalink: /new-jersey/highland-park/midori-sushi-of-highland-park.html
+stateAbbr: NJ
+stateName: New Jersey
+cityName: Highland Park
+place_id: ChIJf9f_nErGw4kRJfewsYBWc0E
+photos:
+  - name: >-
+      places/ChIJf9f_nErGw4kRJfewsYBWc0E/photos/AeeoHcL4eyMuYNR_eopZ0WZS9Ali8KEkfv_QYPYdPuA1Vq6eahIrM3km0jDKqGR346Y4G_duGdXby9H-mjZyzcx0OSRhTwXQ9YsEwbt_7a17iIMU7-Ais7ydMRXKvqd0W2nMf7OwOgKjShfvL14aNwRitNFFHfEmSCGUfx6OqQg7VODhi6JvGSogpO5KD18tf5bgA-oXDgKdJ5RXGDeIbKt4h_QZi8sxFYRISIbTFOPna9S_o2hC3qNxnohwvJQPG9zAgbyM_k7DOhujilYAZ40SIqvuebIVTNOSqh7l8qqIpLbl473OgOpJyKguPZbT51rNEXGNQwHYUq5zK-FUHpdqMegi9tvmoYPPGASWDvC0Ycnr46m6cTA2pOV5lRfcqdCbSiE8yKjYEzTswOCkSjjU3T3WdVZRfmi9dnlWIxsZdSsW0V-2
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mikee535
+        uri: https://maps.google.com/maps/contrib/104635402725558056914
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUbV78k_QYDkdVw1t5Tnze-pqQqO_RQT9w-zNJdjiD0Azi4UUs1=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE0ILiigE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE0ILiigE!2e10!4m2!3m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725
+  - name: >-
+      places/ChIJf9f_nErGw4kRJfewsYBWc0E/photos/AeeoHcLo3x7ci2X5mWXyNOsc2LEWd9asSCFq9UHY2YkpPCtuMpy07o20xsuqpJMBfaOSW7_nJFi6ynHA65tM--8xDnlA9ocW2znWJ0roQtWXepT4sGQB-WSszg1zdWEUwBMMRACwdhSUsv6DJlNDFUD_5hVmzIYkUHEeGufmiGwO-Banx5IYeK6KsSvuccBgj4G2EDSYkRqyF_MKXRXJ7Wc2tjRUW75PwRnbN1l_pbOEQSvheT3zXdFaypfmgt4dYD1MvYR7t_fTi-7-ccC2ti69f8lh5kGrlTJltodWYj4w6hPS6okuMP0k3ebdIWQNFrDbtxuM11FBETZlLpSIHiTGoASk75Uw06iZn3cW-jrJoUPKCl_rnFD3zkOzL1KB0jOzD8pmDoV7agpz2-lF3V5HLsUmLTNV6mE8oZySgkkpHio
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Fe Mim
+        uri: https://maps.google.com/maps/contrib/106697536879512812713
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIifs7bhQK_-SEvxKdf6YN88oQjhdnWtyTXq89P45R4UGO1YA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICq1bKIEw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICq1bKIEw!2e10!4m2!3m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725
+  - name: >-
+      places/ChIJf9f_nErGw4kRJfewsYBWc0E/photos/AeeoHcKhdHkUw30oqASlmZGjcsNjrJHb57PfYkKHFfiLOhHesAaTH2qI7-2aGhy_fKSxz5oMEjo55D80-ifrO85eoQo0hONyoEFzpEJWD9caQhkWUbQ0YGaV3qmnI8ByFlTkkULScz3Ut5MawzzqPnGCkNr15Dy2xYHvJR_y59VE9znzTajwiifBD-zH-bCa6BnrAVPi1h9do12bWNsc6u3QyQMQzD8BsioX3tBZecQR3jap6-rUWuMZCThW3lpIaZNINIwU10AOBBsDxJNUog7A0BoFR0iWi7KzX1pLv2gB6vdU_f-x7jMa9CmAPYtN0UitdrhBjaX7O-dCY9-PAX8hJm7trI422uR8UZ5-3PdTE6GABg8o9SFN0CQA-oj81Q3pXDZLMa0jFGnSfUQoHAM_C1CEFWrwLbsA80MMWYdYlhcX9g
+    widthPx: 2895
+    heightPx: 2171
+    authorAttributions:
+      - displayName: ̇
+        uri: https://maps.google.com/maps/contrib/104866144549288245943
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV1mFVjh6l5Q2ih-67q301NkvpVV3joJxz2mI9SKhXHYIE01RV5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID75sTRZA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID75sTRZA!2e10!4m2!3m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725
+  - name: >-
+      places/ChIJf9f_nErGw4kRJfewsYBWc0E/photos/AeeoHcIEOCMKwLCAlDn3hFqPmfTBHUOCFZvi-sRIJNLeS0wblIMDezi35461mDoTpqKsSB0q1D8M0zBybNPszmMDgN3weHN8aPyvOcFBTdavuirYcEt6ssVXdNPgzV1XmHbOHR5Qkai1rxVl4lg7XlhpHQVOFz2_NhSxIlxpE8vZ9AxFUOvxF_Ivk2_iGLZi-_bOyroFv4F0yyKsdUxMT1c9LJCwfcmwTuZqGDaq23a31kqr-oDQo54zJSGbK7Sbw6_DF8jMz6ngns4KRJeOp5OBjT7w0NwBQBIZRlKf15fk76I3lyfZUwvjATEe5UzERQz4VJKTKyS_JsIQGNlh1eEOwqTGpOQd4pQWLQYHMjrjWdkZc5Ko-uECLJhX7Mu7_Iu152OyOiZ4tul_2icM0I5zlMxnhu6UvwolQWjqhbffPXynLQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jacquelyn Boyett
+        uri: https://maps.google.com/maps/contrib/117726098241465394932
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLdhuP6B85ilbA8ba7WSe0L0dKzhO1LlIeRCgLn4ws0fUChBA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxrdS-fA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxrdS-fA!2e10!4m2!3m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725
+  - name: >-
+      places/ChIJf9f_nErGw4kRJfewsYBWc0E/photos/AeeoHcIEz9H-wHIGoMN8lfkw5T74tczkVS7xwph8mn0SgHIozT5g7O22LxAMVKCl1eHP-s_I4NFVoYpt3DWY17dvSYNjiCvwL_6sQYdscdHknLA-mDvR1P4u1q3YxPdFw-xWHiqDqueLWMto-f0vNoSSZkf57gUgfEgvQY7sg5rSsfgp3LYS-iXClIr3xKg49zBPip5YsPDMqO5lrXcXZtLM6QbngQagJsQEDo18rWYcANE7_oyMBQqKkx7mS95zKLwTaEWIt0TKEJuO8hNvaC7kzIifMXVluHJT6O1U4KBCyVOjo_8dsJv_ct4XWK4ofJUIUSmzrCuK7-l7u6qeP9y_UQ935mxc2jqWwMuUU8fRVhm3EBGYs3WSqcEVJcZu2xEQu727L_WWpbgO_HLa5Y3O51Q3Kf8JF3BVkuyt9Ad4t7Ay8uAh
+    widthPx: 4656
+    heightPx: 3492
+    authorAttributions:
+      - displayName: Sheehan Ahmed
+        uri: https://maps.google.com/maps/contrib/109043399092082493577
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUlUUcBVex9POVR1DnKIpQUfboAVaFqV2uLO7MlFhM0z87qlWj1cw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4rezaqQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4rezaqQE!2e10!4m2!3m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725
+  - name: >-
+      places/ChIJf9f_nErGw4kRJfewsYBWc0E/photos/AeeoHcJ2C55yp9z-KufJGoK701FvrrMTjsHLcpMC9Wl_3Sczk86qQWTc58czdSSliOhVwFEkj7_eiKstGWpKQpSTDqOXg0h66-GdjBH-uegVx5nI8w4HUjGxjtFyMO6KRXzS9VTvcla5mvBZ8yUzZ3ujqg9ReD1qfc2r-sbhE2EcHV-X5yPjIcATCcNWWagNkRw2NSlHtKrtSUXML2G3RgLjVvJp8Rv9NBQ8Mz3CZU8FyrZkbn7Ou2WtL7S8rDVX3kMbHIWcT9vf2WBhnAZpHMssD9M4YTwLJN2wYICNu7UZMWPFk7-oyDx-NbvFpI_xjli78qZRUG6B2yCuYGqm4zaYjk_q-bfkHXM5SSjZjhAWZ6NT4N_dALdxVEcGtPR3Ms7vuxRtVCqk_UPB3xOxsx1kOrRRS8KoQrVEoGZdPsWKpWpa1Fw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Fe Mim
+        uri: https://maps.google.com/maps/contrib/106697536879512812713
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIifs7bhQK_-SEvxKdf6YN88oQjhdnWtyTXq89P45R4UGO1YA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICq1bLYlQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICq1bLYlQE!2e10!4m2!3m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725
+  - name: >-
+      places/ChIJf9f_nErGw4kRJfewsYBWc0E/photos/AeeoHcLnF64SevPjtZIUidoWHOik5zNjHnJM1CCe8K6X0MVpIf_rlzBYw4AUwzYGsmsrIrBiXElk-yJ5ycI-w8EihFwxUODLDhU0bFbIkeDk9rMTs5oz8UiHzDSJ1s37ziryjCyKECi6xMDm2gSe3WUS_Fc093w9LAiywdrp5B1Z7PLS2HPB-N_vqayHrM5NMzQSDAmfcrgVoxGxOscKydoZichZ5pZkKb1jagbnl_WXL97nauWisYdQXAM81OrWlXwIop55NlkponwdpjBDlt_8O7gyLisTSQ8gAyFLJRAJ5aE7cZ_1M4qzWWCjHruzsSpYad9oBiAROgWorK6zoQkZbveC8DGk03PkgcQOCE82zDB-qFC52pgKUEspv6LLUkbsLRcyzU5Aj5OOHHkfKilcFe18Ye1w7qDJJ3c1l0fUjk1MEw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Michael William Majorczak
+        uri: https://maps.google.com/maps/contrib/105402181418778581498
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWIPnssH17T8iBC1RdqbjsPnkbOnF3Qs7LM7t7anMRgcegitWFe=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMxvKADw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMxvKADw!2e10!4m2!3m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725
+  - name: >-
+      places/ChIJf9f_nErGw4kRJfewsYBWc0E/photos/AeeoHcJmqB0AhDIh_w2RlExTBEq7f92sB6BHpCS2RhepqBRprhGAyPTrQPE2YDBvuyV_xzWis3Nr_90Lafa2r5dBxQIrA0uWErn9dBKATT8x2OAi0jjtXB_YWnSuzuFMa7KodJqRkBCKfKd-6xIM3Qdu-pD2lZ_xGDCKJf5mHpN5f2ulAcIhbgdEtG2HhDf42Hh7MoxNTiGDHMKo7Am9X2FXoEI46EOQHXAl0xduSgh74ac8fyOfE-AfMms-r5niQaIpdm0b18V82aLDMuVIk4Hc2u3rs_Z2MmYORbDzfgjMaSslLBLexLYEyKO3RGgs6KW_kfDa1HpzkCUZk95i8dNGHDpqbGIXiWf60qM7UivGdU7q9-kFupSItMeYkYl80GyIEel6F3CcMueAvd8S9vx9ZQoTzQ8la-R4dtta_Qi-8907MR9c
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Mazie Ayers
+        uri: https://maps.google.com/maps/contrib/114762661854899195813
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVSa2nCLOky3Nxc8SX-_w7wQnH3ufkdVPp3kxYxWlIB9PHeq7vg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkpMjKiAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkpMjKiAE!2e10!4m2!3m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725
+  - name: >-
+      places/ChIJf9f_nErGw4kRJfewsYBWc0E/photos/AeeoHcJP0R3pAWt0-iPPkJVEBdE5dL_-HlkeqixVKr6tuq41zo35lhrYR8aavxBsjRUgvqv0J3dbVzzMGt-nOAGe9HczyEjRyQOBMcWeq5npfigX9gS1bA6eMI3TMQDQ0s7Y0C4rnYxB2K-GIWcGO5LbUDvt77_9QkKvEA4AMnPM-SK1qCaAHc5cghdZgUoG3BBQmav5mkGut3MTr97f7RQ4873jTNrdUdzphJNZ2QNc6tglLucLDFvOWjUiTk2WKX_gIFbOiOaDIThWqHT7oWcpKShw4HvGtXzkPvulu-QpJH8origEyHJ39LQjKUNJh0Xm3KJ4vZRe0JYUg9YYYfOmAMKO1rx8kc7AZLvbgNSuTLJJZ3aYzdvWm4bD4cI40Vhp8DYZQa24ngFDIj1wYlBJ3FXqLmC0WTq5XPts9E5A4iEroA
+    widthPx: 1200
+    heightPx: 1200
+    authorAttributions:
+      - displayName: Bernard Lin
+        uri: https://maps.google.com/maps/contrib/118347259474949745399
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUlhiGjCMRTwpG9n_TcWde-Phigr7cT_yPzb-ErqR12FJLL5ynS5w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID438qbBw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID438qbBw!2e10!4m2!3m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725
+  - name: >-
+      places/ChIJf9f_nErGw4kRJfewsYBWc0E/photos/AeeoHcIocQh0yMugvnM6qjUnUnClxgEx86Ad5OAVtsyTSitlX5fVPKBU9DLqzj-rClUVHNabBmx3trzvd0P7j24pBeGhLq6MdgkKt2C1byEoXe-v6deXodKM3P7jISETFqUu7xwUjQFAw2P4wnyTOlB2y4kk0KGwQG9W11SvCHZmcY6bECIq8zppaupGui-2cWfRCqipjinRUpH__wEL_SB8P6YTO6ikQwost9bcCXvjOZvis96zUZWZkG4tAlSH1gX5ZLOMrNdxBx1kEQdU5vnr38Z7YpcszH7y1SsjT67EC9DPd6WHh8nPhrjg594qA8TptJQWpx0Tbaf85QvTIT_K682jF3UQfedXr6yxi5zy57-NPPjOlgcJ1zj1Lh6K6QkDfKW0OIzXHp-8uw7K0xKrqsHVdNqU6_oJQQ5b6Z-0ZHWdtw
+    widthPx: 4160
+    heightPx: 3120
+    authorAttributions:
+      - displayName: Harrison Chiu
+        uri: https://maps.google.com/maps/contrib/107834508575419938692
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVQSQbkDgQaGsEsXY4mARIyfFma7xeTK5Y9GKIE2CyI2Os1joCH7g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEzNeIYA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEzNeIYA!2e10!4m2!3m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725
+address: 237 Raritan Ave, Highland Park, NJ 08904, USA
+street: 237 Raritan Ave
+city: Highland Park
+state: NJ
+zip: '08904'
+country: USA
+neighborhood: null
+latitude: '40.499031'
+longitude: '-74.428523'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Midori Sushi Of Highland Park
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c3c64a9cffd77f:0x41735680b1b0f725!3e0
+  placeUri: https://maps.google.com/?cid=4716208345524008741
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3c64a9cffd77f:0x41735680b1b0f725!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c3c64a9cffd77f:0x41735680b1b0f725!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3c64a9cffd77f:0x41735680b1b0f725!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Midori-Sushi-Of-Highland-Park
+
+---

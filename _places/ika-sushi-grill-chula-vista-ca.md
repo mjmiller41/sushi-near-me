@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Ika Sushi & Grill"
+permalink: /california/chula-vista/ika-sushi-grill.html
+stateAbbr: CA
+stateName: California
+cityName: Chula Vista
+place_id: ChIJEWgdWURF2YARetLpazC8eiY
+photos:
+  - name: >-
+      places/ChIJEWgdWURF2YARetLpazC8eiY/photos/AUy1YQ3hJu7vLKsl4__ptpC43qLK-sXE991oy59WeLyX6ROD2mM2CUovItCpPlmJ6jUpsdnFudZa_UxtdGY7X8cVAvX4vPBSggQTo8XtZF9dHpYkExyas6gZfzOWHZ8kRm7_yEmZEtPKLRFN5pGM0yeHs-X5AlMvN0FGn7mB2VWUUW290Z7FGg2T2FMo4bYcYAXwvJl7DkA3G69ITFFTL5NkNQV7gJBi1MSabWKdKnCNgVUY__LcWjusK0TrbxZ2zbgtg6UjQH5JBQQfy70WanxcrHxAdJKzldjr5nWodNfcthvruQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Ika Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/112325372448405739381
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU0Sro7vGt985F7n6gVrQyX8Zf4O9OY05V0dje9Zt-AlJ4Q2zo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPAHWbaJAmlPUk19xYvFJCtgL0Xx6fRrKb86IOX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPAHWbaJAmlPUk19xYvFJCtgL0Xx6fRrKb86IOX!2e10!4m2!3m1!1s0x80d94544591d6811:0x267abc306be9d27a
+  - name: >-
+      places/ChIJEWgdWURF2YARetLpazC8eiY/photos/AUy1YQ3FAO8A_dxkTf88o13bNAZu4ofSmWi7EtdxLN-rT-K8ntwVWJa61IkpTPjefkfPfwl5DvR6eEYgLEA0G4k2PZky3OoZgwwfj6EoJkF5J8K-6RUx1sMzGppC8tSWElmP_aFGmOqYLgaBk61OekXlNuxpt8HTgV5EJWwrqNT7BjotxBzkgrUYF_aeYs9QN5uvu-XnzzL9zaE8LsTXzZEy50WqwfaRwGjqFuaOxZkpzLqpBT09TFgA-gl1RU6wsKP7s_OpmA2NUf807euqfytASAYnABQcFWE5BUfEPbfO0WjpYA
+    widthPx: 800
+    heightPx: 600
+    authorAttributions:
+      - displayName: Ika Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/112325372448405739381
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU0Sro7vGt985F7n6gVrQyX8Zf4O9OY05V0dje9Zt-AlJ4Q2zo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMDYsE9CKkyfPdEdTdaO5O39vaq2-XK0PD22aPP&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMDYsE9CKkyfPdEdTdaO5O39vaq2-XK0PD22aPP!2e10!4m2!3m1!1s0x80d94544591d6811:0x267abc306be9d27a
+  - name: >-
+      places/ChIJEWgdWURF2YARetLpazC8eiY/photos/AUy1YQ3ePCdfjY4fe4uv_mTDpe9iEZqwrUA5IdbZdHCY82X5hqMARWjMx2ukMJhXrJ2k_HNSmexviaAYaAOpKPzBawDx5NdIkXMsj01h8CdTtMZsAPjCgVBq-JQc9gQieRmBs_SQaV3NHzco7Y1foAeK-3KfbNZX4s5GUKZPXvVtgojB_fcH_XNvkP3aCDiT6hoYJR9SYGr3gIZFTB4E_ehlF_53gXj5mXjWB-fG4X4T3JvTCh2tQ-i4AnVCNdy275RWL9JE2qocIN_6hFTLEq0TU-q6tHfZwMSdhn4mebPNs-FIkA
+    widthPx: 960
+    heightPx: 960
+    authorAttributions:
+      - displayName: Ika Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/112325372448405739381
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU0Sro7vGt985F7n6gVrQyX8Zf4O9OY05V0dje9Zt-AlJ4Q2zo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPJCjtaem-n0XZJrQ_0Pf-jgY3iUJDZmalDPmav&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPJCjtaem-n0XZJrQ_0Pf-jgY3iUJDZmalDPmav!2e10!4m2!3m1!1s0x80d94544591d6811:0x267abc306be9d27a
+  - name: >-
+      places/ChIJEWgdWURF2YARetLpazC8eiY/photos/AUy1YQ0_SUUbBUh6PCIfG56b2zd-Kaqxzs4XQP1H6MtRicKkx6SllI6cH3hQdZfSrZ0GheK432oRuQetiRtPAYsxSC3kpmZqEu0jRnbVySP4k-S69neresBwNJy1HG48vRctWRE5SWl3vomCYYGM95CHjjiFFLVBU-vhnhYUOiyZGxmmTZszIieP2iPnHUv4WoPHv9s8vDE4DSGJ1DklokfOGukoirZ3tjqd_AwnZMJ0XyDx18mWkHftxusE2epYD59fOeBsZcsJ7ZcA__QBseq1xdlLb_9qQej14meRzfRmknhTjg
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Ika Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/112325372448405739381
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU0Sro7vGt985F7n6gVrQyX8Zf4O9OY05V0dje9Zt-AlJ4Q2zo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOOJDVzicFtImeG86T7IFJxLwIzAQFnnHaKBEZ0&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOOJDVzicFtImeG86T7IFJxLwIzAQFnnHaKBEZ0!2e10!4m2!3m1!1s0x80d94544591d6811:0x267abc306be9d27a
+  - name: >-
+      places/ChIJEWgdWURF2YARetLpazC8eiY/photos/AUy1YQ06WZEXJty_aTqock8aI7Mr6uM8vC6lWk5mepRVkBl4Y86JRnHSX9LZ5aXqKmxWz4fQxqAyUpfkV_F0S_lEqYdvOjfRujslyQNQEPYES9Php3xSU5IXsdhk-Z_qPb1WH7ML1pYYUCh7HRvBDEWHbRPXRhRfSZZoHNUc1E-S9YN4rSUB4Sk6oSPERoxDsXx9knPPS2TTbUTrs0TBn1DB5eCURGB9D4icgU-X7w11JP7ZaoTSJdTzecVo24Y-Tps_UD5kuutvi2G64NtDO_jbBIvMDfozKm4QM6kazTMHNbGbjw
+    widthPx: 800
+    heightPx: 601
+    authorAttributions:
+      - displayName: Ika Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/112325372448405739381
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU0Sro7vGt985F7n6gVrQyX8Zf4O9OY05V0dje9Zt-AlJ4Q2zo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM3jxBN7p7LguxwtO5M6F_sjjIAQ7vWZqpIaNgR&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM3jxBN7p7LguxwtO5M6F_sjjIAQ7vWZqpIaNgR!2e10!4m2!3m1!1s0x80d94544591d6811:0x267abc306be9d27a
+  - name: >-
+      places/ChIJEWgdWURF2YARetLpazC8eiY/photos/AUy1YQ3zDj3rdawkMXC7zLQH0NDlimlUI7Am1n2tF_fmM0vTeV9keGXso9q09AFNkHI-NU2idxlJ15bubmUXdyn-I6Ga4KLiKKs6XN-3b7wjqxp0XYrxjXWyX6-a6WUUFUdSBfa63KCHqNf_Pt0mULBYRSRVIkYATbc6PWfDHx_Uqx3V-eVSRvyBWgx7ib0dm-MMv1BIxi1IuEPTgFH16Gwt2pJHWOvIhNIQEhWYOz5SouOFYuk4uf-cE_rhvQq62lMh9vCeNXJZCsws5ymQ2yfVS6wiSmU_4ynYebNRBZGsJ9sfa_fPiJnIA-YAHLcn8PMDqRwuZrz7Zm3PbA0hblb5sMSjGIryyFwXNqLYetf24h2YwQ_weBhNt2XxenvubS5D7SLOZOy9UkT8En83ZyXeq2sGhbyfvsFu-PQOwERdMPkP8OF2
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Savvy Rush
+        uri: https://maps.google.com/maps/contrib/117622861016635540025
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXTxW15aOlLki1QAdWngBe8y4FPYxptn1MTh7-yTsYcAYmVPIWTug=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICWq9yUsgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWq9yUsgE!2e10!4m2!3m1!1s0x80d94544591d6811:0x267abc306be9d27a
+  - name: >-
+      places/ChIJEWgdWURF2YARetLpazC8eiY/photos/AUy1YQ1-yazyqpz47Cn714-D-hUQssSh9RpFvidSGPG0hnhq3uc9MIWTiokIhaVOPfibq6d8MQconUqlSy4kqzHI_SY4gvEm08QkEHistzPNcvJcLlWMNBmEhwGmCere7cczQHms07onqtMnLkd9Abwl5wWg8JaLcpcEr5oz-m0mro7JRgY_4ZH1ZJndPYfio2073_gevFug4bGdmEqnzWQirM2_GOP7tzOUlNf7JkRL7K6c3Pti33rzjriJWnJR8gmQsqQtaB-Y0R-e4yV7SxcsQD5UiAhtFQ7iSTnhSFO7ZwHrgw
+    widthPx: 3809
+    heightPx: 3389
+    authorAttributions:
+      - displayName: Ika Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/112325372448405739381
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU0Sro7vGt985F7n6gVrQyX8Zf4O9OY05V0dje9Zt-AlJ4Q2zo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM3pl5t-_b6X7bxI1hISx7OH52I3q6ert0FEVzA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM3pl5t-_b6X7bxI1hISx7OH52I3q6ert0FEVzA!2e10!4m2!3m1!1s0x80d94544591d6811:0x267abc306be9d27a
+  - name: >-
+      places/ChIJEWgdWURF2YARetLpazC8eiY/photos/AUy1YQ2XQY-8X4pEQzHA_jHkrFWSaiWVZO6lde_gygkLOwzYKgEO5VZ1-4F1aNmtvpwogMlVXg0ii1yrjhkYkKJDX2o19moDLKOUhpd7dYxvmw5LDFz834mEI8sF01egFMGTnrNh-RwRjP76UFM3flbkdeydX9we1PSenTXWOVHyMiPiSEXR3OYcxA09-7hGtL59w0mLv4KsPChMOjzzJcOu-fuMaqiNZnyGfKiMXqdHn97nPZBRmmTOP4lZRTsojbVTSO4mgJG0UsAWGjghNQzzv_uBaUUXzm1k0nmDdSZHOv9FnOyKX3UssCaC0tRz3KrAC4Bz623gaucUMS6w3xC0BOiE3uEDeXVkQ3HSTSG1ue4Ljctb3b8szvaXn2lPCmtdYK42y3FRnFi0XGj3K14SgPH5BY8v7rsAOcVE6aQyDuraJUpV
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Mom E
+        uri: https://maps.google.com/maps/contrib/117608588830175563964
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK7fbP1xZO-TqqFH1oPQLYqXKM7JP9Ey2DZBvIN22rY6iOUxw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4y8nx4wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4y8nx4wE!2e10!4m2!3m1!1s0x80d94544591d6811:0x267abc306be9d27a
+  - name: >-
+      places/ChIJEWgdWURF2YARetLpazC8eiY/photos/AUy1YQ0dIF2zf13_fCmDrA_ZhCS81AOX5eW1pCQysJzPARLXKybM6PmcRRJkpv-xrWfOsXwOXIwBl_mSpNg-j9sZFLH-E8Mnm_GJWWdTIvf4F1apT3ORkVCV50EREvJoA1HQVzmvMJTlYgFerEPeiJup9KASx4mvdvZP0bUQ7Mydc9rmfOSGQeUZX9RsnCTVyNr3T6u-QIRi84ANFs_eiAZgDLiY82W1Gq6Rx0ayOVv1OaHtzPm2bH72W5buQnLFG2NnwkOO_POaMKv4oXNMewsjAr8l3r2m2IrtJAx5B2-O5APlQolK9dGs8jyG6HdXhRcPEvckF0EmHqw4w8AHyvjCMVfJia7qe-g3u8tQE5XYJgEoopSTvD9tkBoJVY_bW6FtmOVohM4qQjTzv5IghI2uVwQzAtrTJCeLYvAnAfbq8jYDZgo
+    widthPx: 1822
+    heightPx: 2504
+    authorAttributions:
+      - displayName: Donna Balmat-Jantz
+        uri: https://maps.google.com/maps/contrib/110081441853801732529
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXto_BTQAtBPPhnyM7YghZ4iVGhbLtVHFiGvpG8VBQXEBCCwC8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg1a20lAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg1a20lAE!2e10!4m2!3m1!1s0x80d94544591d6811:0x267abc306be9d27a
+  - name: >-
+      places/ChIJEWgdWURF2YARetLpazC8eiY/photos/AUy1YQ3UJqsQqsK9WUFJO_PNXFi7qn-72V9yeKZvVtIUAVnu97zAq72oa-71e5MHFQ63-koNmDk0Cy7JR9B_n1ufhy8y67jR03mpkqGtpjV6H7BIi0vA9L-6Dv12Yp9pp6N3TbUcEZfsQYipXqpOPvfK36CKC4Q7DVx2dslE8PPKxsvr7k6z4nrrLctoi9PZTZOycl5V37ZHfsQ5pS5TY3U-Mx9u-J9ZK0nO8cc9kDR7-RD0moA0cr98iaqA9l-Bq17CxV97DBpZoINOn_MPNAwA9NMnoLRlxTZhb56pts9UFvtGiVk4O8ckvCB0gv_qL_OWkEyHC1c-k-hqLqjYMy07u_YqNlqWDoKDTIZolRzsXl96Qocvu26wK65AWNMIAW6wbBcijIzAR1LC-NoV2eeN684ic0vTKIEK6v5b8ETVMNdS81I
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: jeanette ampudia
+        uri: https://maps.google.com/maps/contrib/106722857637698252049
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVvWYipMVHUJdNUQWcaJTkWVCdOjb2BTkubtL3I2-2Xc7JHOptq=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB5-yz9gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB5-yz9gE!2e10!4m2!3m1!1s0x80d94544591d6811:0x267abc306be9d27a
+address: 2326 Proctor Valley Rd suite 104, Chula Vista, CA 91914, USA
+street: 2326 Proctor Valley Rd suite 104
+city: Chula Vista
+state: CA
+zip: '91914'
+country: USA
+neighborhood: San Miguel Ranch
+latitude: '32.661220'
+longitude: '-116.970870'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Ika Sushi & Grill
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80d94544591d6811:0x267abc306be9d27a!3e0
+  placeUri: https://maps.google.com/?cid=2772735436754899578
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d94544591d6811:0x267abc306be9d27a!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80d94544591d6811:0x267abc306be9d27a!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d94544591d6811:0x267abc306be9d27a!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Ika-Sushi-and-Grill
+
+---

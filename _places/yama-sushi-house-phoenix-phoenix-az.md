@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Yama Sushi House - Phoenix"
+permalink: /arizona/phoenix/yama-sushi-house-phoenix.html
+stateAbbr: AZ
+stateName: Arizona
+cityName: Phoenix
+place_id: ChIJU9abh-oSK4cROkql25LNHIg
+photos:
+  - name: >-
+      places/ChIJU9abh-oSK4cROkql25LNHIg/photos/AeeoHcLFHFHcuz05Dh-YDJwJuiQSaMUNpgDaBPnZHObHEDnlEtj8BD2nId4CV_kvraj5hdI04a0sLEyTx4YrNYGiy25s7d7GyZUwo_KKnCk6ZDvwNISgBCLlUrnoIxDU45xHhPqIZ5LB3-ufJE4kjBDqWPW3sYvGbIOWLINso5RLaK-vHxSdEqnVk7dJIgLTyH9jYt-xNaIxRYvhIepkuHJ4Vi_c4vYb4tLieSSbAcqaGUWH6i-RTJZNCf8pURFEYAOYLXfbfcq7k3kCp1LnycENT0eRb6agvfJRHQE7OqpOh_Mn1FZgltwFwOqSql2CYSxD8Hc6V3G4BEhlzCV7037OLqGhBvGRjkeE_rcuybJV2ZZ38fqHBJyVXijrAVdWdmF_1GPZ4IcVERg2cmLTC32vLAdAofZOwFx3385HlREVuXZpEA
+    widthPx: 4800
+    heightPx: 3197
+    authorAttributions:
+      - displayName: Terence Chang
+        uri: https://maps.google.com/maps/contrib/115943553381365052607
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUzhbuJjnrwqMITF-H5xy3Fxf6oEqoOhKt92Itj3NoYu3C4KopYmw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEk8KEYQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEk8KEYQ!2e10!4m2!3m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a
+  - name: >-
+      places/ChIJU9abh-oSK4cROkql25LNHIg/photos/AeeoHcIe-hH-OhAhSArCGyfFFrB1aoYmQdAX0dxv2VBQdvNYJjGHRAO2DFbjf-V6hcBd_iV8GvuCqCVFKw7bkzWfu0TdVe6LZB2zn9Z-ZBQTFN9MvC5KyzlzzEOfc_HbRq6FkrQivkCCVP0j5vquvam4AKJuucqxIqNDO-qt5GVRHUVxzoILNWGSDAz7Jo2MxXEeGJnPwgGA31D-SXPKl5UxCQOV7j_DlEbRxjEcinckYxPCsI-3fO3wQCs6rg-43LO12aE47eVVxVO5hhGMY7JErxFyyH2NwIWd9tYryPyF0SD0Qg
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: Yama Sushi House - Phoenix
+        uri: https://maps.google.com/maps/contrib/100348389104628772885
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJy4526Y2pSG1fyyEgQqfdyE52goTSK6hzG2tDKVj3WqtxP3w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOaz9J9dm00fTiWVJaH4uCeiCSVrodDnynH4tzd&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOaz9J9dm00fTiWVJaH4uCeiCSVrodDnynH4tzd!2e10!4m2!3m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a
+  - name: >-
+      places/ChIJU9abh-oSK4cROkql25LNHIg/photos/AeeoHcLxhia35HMxoTs6V_kZrYgXzgi5pKvBY52inCaszN7_8I5QF9vQFrS6pFg5ryz5js2aDYgqJxE54uy246POwgSpI3ZcYK-wvYiqGT2lCpSaxnCIi1moO4iEJs1RkWmlPsOdrQvdAvSRaO-ESt-FCyBeQURBFJQTWebYWNLfIts3yNNp0hdEX1k_7cS2HglxWCseM7UL7H9LVJAZ190NwUCQP-RMvkIuLCS9jwa7LEU6J4MRXqW6epbeiTVAlE0VdOaG772Z1ngFT9aOZVrucwOrTJsl_LAEh0qrncoTaEz4L1LhaX62MTzRwQuD6Vxjie8Oby4KCk-2Xig9PC463Wo98pUuT4d8HAB066PO8O1d7ORIiyCHhgBef4PJDzNWJTo5ZNzWms6z-vXRId8CWXblOoZxK8lX04iZ3jinJBI
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ariadne Macquarie
+        uri: https://maps.google.com/maps/contrib/111728863005766007311
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXQ9tRWaqUDhcpZUJTBFeUeIcY58w-GJ2GDdXOzIyetY9XcJJPV=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID1ifDiOQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID1ifDiOQ!2e10!4m2!3m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a
+  - name: >-
+      places/ChIJU9abh-oSK4cROkql25LNHIg/photos/AeeoHcK_OdVelk0zTJwMqd9ABqnGyNe4lO0Rc4tLEtddHKdnH1nKkEPjfbiGA5JlmLIvMsr3H05uNUmtJksA_Nr4VRifMtJZJly5DN5WDgtwzM8pZAgaVb-Iz7bCSFiGxsZlspZ6cJFmEPYrJSLWyiNBTOkyOlHKdN9qOLZMnCbFzvA3ZIIYtmOOwlfTfu5Fr4rBjf1rKbeDAeh315gKao4Dp3bbTjlC3IQVabY1Cqiu9lAC7zkssERL2Kq5g-a3mN9HHrYxeo380JwWKyV0vGUsQq97fp2DNnX4mFT-8iz9hE7_9Q
+    widthPx: 2098
+    heightPx: 1706
+    authorAttributions:
+      - displayName: Yama Sushi House - Phoenix
+        uri: https://maps.google.com/maps/contrib/100348389104628772885
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJy4526Y2pSG1fyyEgQqfdyE52goTSK6hzG2tDKVj3WqtxP3w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMbugwPPMnndR53Gw2GStuvBPDV6nhYXMPHo0nr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMbugwPPMnndR53Gw2GStuvBPDV6nhYXMPHo0nr!2e10!4m2!3m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a
+  - name: >-
+      places/ChIJU9abh-oSK4cROkql25LNHIg/photos/AeeoHcLGBkn8SYvmFBxNXU4KYafeQw7GkdiadTRI39SovVozNjhOV8KxEYTpcSal03eE2WHrX2ZIWVfCbnYCcfdnA0lVeUYgK9YSLhSmqkeyeG1eBIzhWaRD9xsyh7-EE79e64NzvCh_F3iv47pzIMZOLQYbsvf0v8saWO0TBkA_Hdp5bRzZJ5Czl84e39IAZgICLk_0cly-Gv7oB1JHoljqP36uxBzCyV5kNQT0rhzWGVT_pDPWe2BAxBlwlGGm1q6B5Q9Mn_TL94ycyGfyS8ZVkSNmz91tDxcwhvxHfSzYX94cnQ
+    widthPx: 2560
+    heightPx: 1707
+    authorAttributions:
+      - displayName: Yama Sushi House - Phoenix
+        uri: https://maps.google.com/maps/contrib/100348389104628772885
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJy4526Y2pSG1fyyEgQqfdyE52goTSK6hzG2tDKVj3WqtxP3w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNq0PHzTqsrgVUtSTc6kJ5Y_YRCa_fa5BLSNzdv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNq0PHzTqsrgVUtSTc6kJ5Y_YRCa_fa5BLSNzdv!2e10!4m2!3m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a
+  - name: >-
+      places/ChIJU9abh-oSK4cROkql25LNHIg/photos/AeeoHcIfiGQAAXKoKQEZQp5J1ux3x2Od8xIUbV4mvaZEx1mQc2k8LRZle5vdgGtleiBcitsx-WFy7mUTAMQKoLl4yQgaU3gI1GNXB1QuHTVqUdgMzikax_PN7QcbtwG7bkzN2xItHkA2Gjmf-crNT1SlWUa6drfBXQzikUwRcOiM6u9co-Ujqxa3HuczwMtdpV0OKEvYX9jaNonW3cENDxW7PHuq19dvmVWezyBRssZ_EjmhQE7IXUNKIXWuyYMKPRju-TT2d1xP_x65oDHAh82Z5flYIDAyaWyUlFWa1wU4ZiCFkw
+    widthPx: 576
+    heightPx: 720
+    authorAttributions:
+      - displayName: Yama Sushi House - Phoenix
+        uri: https://maps.google.com/maps/contrib/100348389104628772885
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJy4526Y2pSG1fyyEgQqfdyE52goTSK6hzG2tDKVj3WqtxP3w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPXEFW4TuTsS3X_VZwCwiZ3WVomG5Zw_R2s32Fn&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPXEFW4TuTsS3X_VZwCwiZ3WVomG5Zw_R2s32Fn!2e10!4m2!3m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a
+  - name: >-
+      places/ChIJU9abh-oSK4cROkql25LNHIg/photos/AeeoHcLLKHkx6rsSPXoGpP-oJnOAUWalLAOdnHMHxtN12aMtuzZeaQ1idiUlVtGiupkUxdjRnwMCq5jEYucFh4wurVvnSbS3YubKKwKeAiamL1P450a-HGIXtDVuwA4rjnlGwizy8mZOJrOjNe5H9zXzFNmvb0nRJUOEfjSa6Zs7396YkxwN24MDkCEmaBnW5Kn8AtAx5Em7v4vnZGmbu4mTr6psVyr56aEzpVRPJadCa478tJZZE7MzQT9M7N8-1ddPqa5AIwc6MgwNM4WUGYiKVD48vhomIA3NE3LtXMPfM2dZTQKOu2Fham6r2Rcha4XDbjaJLj30d00YIuzpNaFJ8biZ3fKBLSV8LIXz7qK21ah3zL645-vV8JU8nOe11TnCoTJi5ut2bKm2FD-MSIlUJq6FaW0dMZ0n4Pn03DvvRHgPfg9t
+    widthPx: 4624
+    heightPx: 3468
+    authorAttributions:
+      - displayName: Julie Whyman
+        uri: https://maps.google.com/maps/contrib/106077031020164755575
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU40vpfK-rvhduNnvHXZ5SvjsG2QdRrrabWTlAQXjo1_m9yvirphg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjz_Cv0wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjz_Cv0wE!2e10!4m2!3m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a
+  - name: >-
+      places/ChIJU9abh-oSK4cROkql25LNHIg/photos/AeeoHcK7NkeiA-6gXvIOl9Z-D5SjXrxr-R_tXvCvI3DVYc8W268Ce0vEPsenwVg7l0tfSx8i0cjUI5kkXi0YPh0Mc7_W0Bp0R7pXS-oXfdqFc9O3hQ8F_eb5IaIIVzNcJgDz1UNm0yykpspPpsIBmMZ9Jk53fThWiUaqjYLgReTqIU6y5E5duo0raPLicrI_oVZcFBkmQVH0i5fmWwKcVcNaykv8h7F-D2j-ya40QXwv1TUAlLZI-jvt2RT3Sz1zCPbBwduFtt03mzolw_u0ltIrv7mC3pT9wJwwwvq40rxWc7nfug
+    widthPx: 1546
+    heightPx: 1166
+    authorAttributions:
+      - displayName: Yama Sushi House - Phoenix
+        uri: https://maps.google.com/maps/contrib/100348389104628772885
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJy4526Y2pSG1fyyEgQqfdyE52goTSK6hzG2tDKVj3WqtxP3w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPxzfTjBDoylwBV8Ouk8VBjQyc4NtlsrHGJbu3M&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPxzfTjBDoylwBV8Ouk8VBjQyc4NtlsrHGJbu3M!2e10!4m2!3m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a
+  - name: >-
+      places/ChIJU9abh-oSK4cROkql25LNHIg/photos/AeeoHcIiwizyqS2qWdQ6pO5Iq7A0rRSnd06MOjbeIs4ggXGOTCsn33EoCeWEzskVDCjkvhJnMg38-wumXEaayaL9sGkhqzQ3agN7SqgUXkjNES9O7UxZj1se-Xnth41kS_doAkWD9hxijv8Eaf4NP3t4eUPbNMXzcivhm_Q3rYRYK4og6uRbXZSWk0UTcyJHXXv1u8I-8kydA131GHy_AAc_9TxYi5Vsy8mFbW8sROdwsYKitxNVjmpnKSMnaeSyskj8yUEko-zSLAlto8jXxw9EAafEVcBzSE-niv7QyPsugEkPO79SlJ6jYJVCG0aGS2MvTrk6i1ly2zjjo0jbOpmGe2UDTPu4LhsCiM-Su7-wz5Um6dvrguhNflwCj_Bst5JWRjNja2CQjCyuqSKcwOGaLQwLVrWS9-nkzZ4ZYcl-RLA
+    widthPx: 2252
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Ceyda Bolat
+        uri: https://maps.google.com/maps/contrib/108830278127432821581
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXh1J48zrAiaD_-uSKRv38NWq4PxncpTLjD7mbnHkdygIt6Pipz=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCAnubmPA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAnubmPA!2e10!4m2!3m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a
+  - name: >-
+      places/ChIJU9abh-oSK4cROkql25LNHIg/photos/AeeoHcIHAn9ELvIL8JI8gVn-6YdmVeQsxPQXBSruyKDkCQ31h83BhI85L25Pn4gsU5kUZ4vjhnq67ROWpeglFh10jsSpf1Xelg0Nw0fdV9JuDIa469vyd95IqbdoW1qByvulUsSaRt2NyMqIJjz0vTOWHxaFRVAOWMvkrRVrqXg4NRkwCzY0RBfpTwUez5WgerA5h1FJmnenmkjowi3zj1i75dkwS1kCqJeJ7ADCE8kJhaGEl07BzwLB3NF66DUqch0iT8yVSCxSJH5KK8g6iF-M-paxDtHkvsE_dNqq5ZKyqzGauA
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Yama Sushi House - Phoenix
+        uri: https://maps.google.com/maps/contrib/100348389104628772885
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJy4526Y2pSG1fyyEgQqfdyE52goTSK6hzG2tDKVj3WqtxP3w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNAL1qXhrZxc7z5ZOetkcYqspmFhEUasUzPaH2y&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNAL1qXhrZxc7z5ZOetkcYqspmFhEUasUzPaH2y!2e10!4m2!3m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a
+address: '4750 N Central Ave #150, Phoenix, AZ 85012, USA'
+street: '4750 N Central Ave #150'
+city: Phoenix
+state: AZ
+zip: '85012'
+country: USA
+neighborhood: Midtown
+latitude: '33.506777'
+longitude: '-112.074943'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Yama Sushi House - Phoenix
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x872b12ea879bd653:0x881ccd92dba54a3a!3e0
+  placeUri: https://maps.google.com/?cid=9807940119140059706
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b12ea879bd653:0x881ccd92dba54a3a!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x872b12ea879bd653:0x881ccd92dba54a3a!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b12ea879bd653:0x881ccd92dba54a3a!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Yama-Sushi-House-Phoenix
+
+---

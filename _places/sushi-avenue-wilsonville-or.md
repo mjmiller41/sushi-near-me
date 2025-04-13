@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Avenue"
+permalink: /oregon/wilsonville/sushi-avenue.html
+stateAbbr: OR
+stateName: Oregon
+cityName: Wilsonville
+place_id: ChIJC4bNLexulVQRY_IAfI42nbk
+photos:
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/photos/AeeoHcJ15_PdR9rm-Pjxt8v7bL3s8I8ZrVcttFbIMFNGzfNAMrgomAxSe0acoVORvY8S38U-QDaHM9KZMGKJu6_znWQoRRz9mv65QgjoVYRc3b5bBag5iHaXQmz2uasPL7aP6OdVIh9HC5qvyTLKNwYHS2rW8q-X6WJ_JpGqIMXxHPA4mkFnA6WOxOnPAGwbm9_UYSQz9FF-OIcUbP104ncSm1F6xBQjJCbfZAumcb4jiICFkLZGRmvU_94CLAXDJmjY7b7aAunslgM_9ciFfsBZEkWxitkLL-YnIoI-TpJz_Re6jyqU9gsRLGOObSmQpiz1TPkq2qvC5-6786_Zfqu8KBWCJlwAWttSVL5f_JeXUAjoxU4IRm3J_dSx1U2wUm8Eu9sdU6H3UU-bN5bv3mrKcvAAgtI4g83T81j9IZ5EokHb3w
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Kyle Eldridge
+        uri: https://maps.google.com/maps/contrib/104197414107712900249
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWh1AGwBlV4w85roXy3fSckyu9FPWbAaupFMp76JCIjIAd7S5A1KQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxycPyUg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxycPyUg!2e10!4m2!3m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/photos/AeeoHcKd-Fr0JwUsROEAuQaIBcsK1qpL22YNUjn2Jnx1AiHhMD0kvtUMPtjsS8y5t-MKg6wZX7VhOdrdSIEFVTAzxMra0R8fAxX5XSeXlvd491_aAAUiXR9Yve1qMmVlbC_9cv-qMSmDU9yOI1SqcA-sXt2TGx0ON4SMn4svHTCD_9Ulsc4jNvTG26cW9yk5VbO8JMmbaKxIA0DDO08OCjBjW-t83mU42ZHk_9VMQ9_k278nOPA4eA7U4_edYVuUHzXT4_3R5RGJ_LG839HSZaM0uXStbbtmZV1rk1ZxIobN57cEiA7p0vT4ZU5s6lFvb4AuBd_lOAtwIraFMg8YJL3xsn61EVbhke5KbyIZdrdIaOqI636e0nvYrHEeWvgN9CQ_qBbTv1tfHcOjjUPC85AJa0WjYdfmTuuRCP7oiYyphZG8UnTi
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Brent Husband
+        uri: https://maps.google.com/maps/contrib/106470616782860439092
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ8xl49YpKC6M2JRsHPxJ24O8qyonzQEUqpaHBbQ5ZUPux7NA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDT1KPjogE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT1KPjogE!2e10!4m2!3m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/photos/AeeoHcKvtrZhCV8zrE0LOFcaIQ2HuToC85QyTctI01xgz7ldgyyQc8cuupeb1sceykf3NNQNwuybtZifr5o_MFiwBVi7j9TVr3vB9rX9-VU_fHoeHZSz3oFECApbUYDsUobBBir8Sn0OwTiOpBPqlcg2wr0rmLZ4cuLzf-ep0Wf1LXz8R5uefuHxbegoRX87sE3zK2hs3s8D1a9EXv01cTyueSBI6LI0G3X__wq4yXkU9mMF5mPqJZApEXnMsRSKFExuPHchgbllPxFhAL8QwVzwzxlVPSvaojTSShl5y6olSbgJGRPxHpFaxRZxpCB1grhVEginFzqNtpYSKTbc61QZ2gP2_zEarIPAZOWS6Fcig6IJj55_q_7zaWRQi0OD8W4i-QoawKUQDku6R-1igBXATox56gwxOC4eIM_uahaEoJu4-OD8
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Levi Manselle
+        uri: https://maps.google.com/maps/contrib/102931293625910446651
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUMtOjvZlckujfRCujg8EKhwtnU6JKmX7VrSxBle8rOfYdj6yas=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw1rOV1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw1rOV1gE!2e10!4m2!3m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/photos/AeeoHcKgjJUwgiod60Nb3tNHBfVeycDguqtbjY-K1iPeCqM_fOXcejIfFN6V0qT2ab5A851Ag30bjQlj21xFGEZvIVz1ZgonE6aGB5VCml_GPPkqCL1M9tTzvMrJlwLpLC90_6W9NJ3G9YKG6ARQO3Z9yBQoAGICUeFc51AjaUvmYt4dTw4TBgIIQClUlk6GvGYtICtgxWVyiUUTAaUO2eiTr01mgYWLM6-Ba509doYIAWRGySkQ_FNvsBpiPMhpfjiv2KPdbSo6dpAg8Npac8plpr2FfQ4X-_fDMxYTWn87HoEJzhWmskRx-kT3B3VmWRextxKeaVH1Z7uSK_aMgtN2l18AZWWZgvgTf4B5d-zKT2ksrUv7baq0zk1V5ZSJ1opXydsEEe9LWxjgvWBSDMZvKqa1zh2mJ5mX4L7fsuoLLsg8LQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jennifer V
+        uri: https://maps.google.com/maps/contrib/113174996144551525300
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXMns19XX-JBO3Q2wVjDI4vEy4fDs0wKfO_mSvxbssqPM6swucLBQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvh8TtMA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvh8TtMA!2e10!4m2!3m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/photos/AeeoHcKatdHP63xiYlB_U6plhoLgqEhJIvu1Lm_K8VvNIAtb18hnSxlP7JMADyLYNMH1y8oMouwlr_iCoAqo0mor7vLP4O2VTVq_-9e9GpbZ4tedFLupAPQ2ttjO1Ma0ERVWEKcyffXcIR3UlcW42etfr_kaAHXjIL4i_wmdITeIKQZeC08OIjONIVOifmnIUK4yYClY4ZW1l1toVFaZ8vsxWTuKt04craYI29JrKg3fpyYFwqPjiGxiuonxHowTtnIrF_ttHwwXlPKjrWQHq4kofVtgsHv0RrPjFUofCqcn4_OMw8dDfj_JpWOv2htqMZdm50K45uDQSu4aKlxNdm4y2M3XZ1ZE3VeVFc1d5BhnfMXmVxK6o35NCZHNPEjJCeOOTemSNUrJREXjBlu5daJgXy8-ELmVexrlfCGpTL16jpOyFW4B
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Daniel Vinhasa
+        uri: https://maps.google.com/maps/contrib/105479864979053151891
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYLE_n8bfSyoZeRdb8aN0elbPkcZ04clDA1EYcD-_6Jd0gR36Bgg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID2jOeJ9gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2jOeJ9gE!2e10!4m2!3m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/photos/AeeoHcL2D4vmiKQL3VjWU68yzbGtCf_sQbDIFchrgt_XfKNsxYZqbwivOfFrvI7mm2jLzvgN8-b5y9dCdYJ2XW1nLNF8UsC2iyBS4vULudqm4i8G5aeVUGCCj7_RtWtx7moOV8efDQvUTMOb6Ns1A1eQib1N6hkGBeEpmurlB9cFSk5hlq0e53KsQq0feL-_oZCumJE38EsIF9zPTZfo5P8xm3nS4MltR7kw9d5c8pfJGfbtsQkNmEtwF48NIYr5KN_-5-BlOsI-0HI-9aswth0545GDx6H8ZMNhiqblHjKHUQlGXmb43qK0EoBieLtFIA3VyLwNZA1xpIUxtUlHQ3cljOxJFkBTOjNZX9VLyuyaXBTKwHtoatjJgRDO_P2-FHxwpGJloT2GjCBwyzLtuB-eu7C5stMZR9S3zXg0ZhO-GLk
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Levi Manselle
+        uri: https://maps.google.com/maps/contrib/102931293625910446651
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUMtOjvZlckujfRCujg8EKhwtnU6JKmX7VrSxBle8rOfYdj6yas=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw1rOVNg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw1rOVNg!2e10!4m2!3m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/photos/AeeoHcLY0uWs7S0Co85L1TFYKBmdS_Gd8ungi5NqobHrSA-vipxOqZIkwFl-DvzjSr6OGDB_KY-WzAjfUnC5Gj-FJsGl5Sc2AOmqf76hKc-5LB-N7s-0oAZVQuv5sLr7XZEEBo0glDl5VxqKFqrEQaEWDTJJmU6bAgDbJoXD2QWA8xcH5hIj8QIP8Hgc2CbgmMewChorpuJ20WxIrPiiezQnc2e9qVrXxYx6dxLOuQYn8CHryPqdfZUNu1eulkR0tPiH7CQxotbgMXRCc3nGRqC2ngoMrKD7MwXz3k0aEeaK_mF6yUq2_tJ4qsH-riBsoMkGcda1L9eH2HN2c0pKsC7BhZrYMwZU6kAGFz1OAzK2_TlW244YdY27OuBzxIAlVCx6HjM29yX62_IQOL_K1jayq_eL4bZeB31pok2VBuOSfqHkwws
+    widthPx: 4608
+    heightPx: 3456
+    authorAttributions:
+      - displayName: Durran Champie (DLIC)
+        uri: https://maps.google.com/maps/contrib/101935120809351540178
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVAmRrLqYvYuhkIdt4PzsccipHTez6pZ-mmmX8nZPlgfkPRcJRwRw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDstLXCrgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDstLXCrgE!2e10!4m2!3m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/photos/AeeoHcJ3b4S_VaxK1J87TkWdTE6rdr03g8ptTLz1KQnen3L0qGuulk8Ljx-llZ0Ek1iPiWdY0_6VZSvDTzVyA2GILvE2jQUuZNlG4xOqGivmDm4YIojGEbtjOCxhHX9MzP_mgbCcYuIRukiMKwZnc6tqZyB1s0KA-G_DxvfdBPVvGvut6VMssdLvWpNlzrq4Ullfwn_196lVEyUpNDJ1UWqEyoen5ux9sYB5PVWka3ZEn9ktYasJbuuhWaMRrPqsBeGCDkrRSAS3yRvkD9UDZ18nO4mRXuPl0O1z8zikBNNI9UmYRcfQ65WmAN2oxBKGWI7-TisLnNYBdF5t0CMnZqG5UvCal_K4Pij5uHq-jl1RqJgunVGORB_6HQPI0AvduJlX3lHQi4jU8deZy9afhhMFriiJDcPRnLehGqye4M-XTmI9fg
+    widthPx: 2252
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Vladimir Chavez
+        uri: https://maps.google.com/maps/contrib/108027667223099513722
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJJQxRqqLu5SHBHMqT4K2Ca3zNnTYFniZrXbpbS8eH6I1TwrsAa=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR9vj-RA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR9vj-RA!2e10!4m2!3m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/photos/AeeoHcJeCriN_XvrWJfG0LAc1pqIJiq2Toz--ZCZSdkr8X9OKyHQ8yImnjWxMumQjvkCN6QSe2sknIHbD2vbgLrbdte98uFv3fsaO9vM1X__OaacElVC4qDgkqF2mNbbar5uy0CMTb_fahechtdRn3GykikhBYv5yJ4An5CZqk0InzrzR8UwMu3CnU4OyiIxlvQFnl2z-ArYDwE60GnsLEel--hFZlXEd_ZEwQ1BYhs2CISDh1GgetwAF3-svhwLR3HqD9P9L4BXiiB1rfSCvMy00Mzuxnyz70EE1U0MxEMte4vQXB5zvhlI-t6ALZn1gAcCYO96LXTYr32XocSYu_nJcAgk5zW7Eus7cUUBUvPgAAIlVqSbD1IKT5dvUby64Io9cqmAXQET0vVHGYMv_ueKmw1ozcR4fTLRKC7UgQgG9RkrvA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Tiffani Torgeson
+        uri: https://maps.google.com/maps/contrib/101441082788751310062
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWTAjoadgesnESwmnN2cp3gZo4PF3MHKXRDhPPtbNdwl8Kb9Squ0Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDExYO5Uw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDExYO5Uw!2e10!4m2!3m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/photos/AeeoHcKx9zGZpTCU1Mo6lA-1fFPKR7V1RWDBnqJLh_tWechYIGZj23WRh7mzW9IMKMOqQ2lOeLWj2z6oq_O2HWptU01SLLLx9rN9VCKgDWLWVDMI6g5TmFzpmTnqFDcz9tJhilbekzDNBNQIJpATPIrs3H2O-BvPoEZZ3G90E8WSS6rMI25vKJfw1_qmUIjfxuVcLxZVeFooh60x1DQErrdhNztUD7QqTdTIYWSIpBZj8Bk-bBfW8ly9y1cKo-G6o2imVUSlMAlZyA-s7bkVBQSOI5sCX4L78e6sbTORJ4NuO2Y36lT4bbJsYeJzBpHVslLeeCSdNkulW_n_krA9nc1yV1lAZ-RazDCLEKnsbdwLAVGPUwVsXEuKJ2dYsFAQHAq1-ez6nzNH-Ik3VCxC-XaDO0WuchaZz5QeutOVWaMvspOXMrLa
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Natasha M Haas
+        uri: https://maps.google.com/maps/contrib/104987851989440515032
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXis4bWqAV0IEOsEODOcC80FK4DEGhoKwtdrbcowiTvGJgmcZBF=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICqs9aJ6AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqs9aJ6AE!2e10!4m2!3m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+address: 29955 SW Boones Ferry Rd D, Wilsonville, OR 97070, USA
+street: 29955 SW Boones Ferry Rd D
+city: Wilsonville
+state: OR
+zip: '97070'
+country: USA
+neighborhood: null
+latitude: '45.303448'
+longitude: '-122.772775'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Avenue
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263!3e0
+  placeUri: https://maps.google.com/?cid=13374906453953933923
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x54956eec2dcd860b:0xb99d368e7c00f263!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x54956eec2dcd860b:0xb99d368e7c00f263!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x54956eec2dcd860b:0xb99d368e7c00f263!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Avenue
+
+---

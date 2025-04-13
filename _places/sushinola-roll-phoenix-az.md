@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushinola Roll"
+permalink: /arizona/phoenix/sushinola-roll.html
+stateAbbr: AZ
+stateName: Arizona
+cityName: Phoenix
+place_id: ChIJMXCFov8UK4cRT9gFVpBcvdw
+photos:
+  - name: >-
+      places/ChIJMXCFov8UK4cRT9gFVpBcvdw/photos/AUy1YQ0u2TSnf_DBMKThBFFZN-vyyup0bhUzR_YqwiX1hYVBWnKz61kF5UFiPQJfZX9hoX-8NjFVOfuDQeHjcujqXktrIY1XdU-AN1mQOEsNCPDhE5TOakPWxi0NfuKqVfTr8PnTj4puOI0oYa7bzYs3VG-Ztu43UmEwD9bw1PDU9P_vXpXVJtAvC2aFChLS_iwg5Q92QHnI2KofO6F1Fc4Q4dr64cBPap0D9A-36uFUkYSGfdgezeH98bAoN_atXWDs48rUXQ6Y-j4_0wGIW19SNG9AebtBFeD0rz_umytha0vABg7Q_JoXKyQlU-qPGAMGyhUAPlPveZlYuZpaZns46F1uKrakFU1XxBrwYMia1vMFPdklRctDnww3Xjfbj9rsop3yTr3eHXKKtfXflbX42ApJaENi7whcZtBRG5gVQh2lZ3Mq
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Alexis Gilsamaniego
+        uri: https://maps.google.com/maps/contrib/108332826226143228263
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUlewO6bNOlJHP0h9UQM0o2KJh_AGuPR43i1CHkmJ6eCZL99Rbe=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB2ubwvAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB2ubwvAE!2e10!4m2!3m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f
+  - name: >-
+      places/ChIJMXCFov8UK4cRT9gFVpBcvdw/photos/AUy1YQ12MxQbRMZHfeQtN7cZWzfpQqdgdpquUpOtNJRf3Bw3GQCoDOfaTP0ZxEv4rTp1Yu7fHlthhr25SO7jkP6dFj-zfh-moCp83i2ehOUpPP0oIgzAkO6Lr9z9CkqeuoNdVPP-ixujwTqfiobuLlmtrJ2u0O5qBTohc1mng3hhNcYnvDMTMTXgc3J0jw7PEs2IwJo7C2JK4sSOs_2ee4PyL2JZrCVdJFpuO4fH4lvQg7zGwQ7LtGeoPSfpABlH3d5ByTNLT0sf-5kCf3oEKpi1iGlP6naZysgGW81AC_VpfyK52_2hgP599E0mfc4uem0sNQZQzJhXYNadBOL6pCUm2hLuZz28lkdkDr25B0gNEeQQcZygHdvJNivsdg_F6gNe4AGr2jgX2qPKff6Uqc7q5jZz8btfC1TbU_21fHighQxSKA
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Dania Zavala
+        uri: https://maps.google.com/maps/contrib/104630470039196082990
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIrZAUEUDb5gKghcF4cIUgBxzjBxTGcENvPHuASEruwzau-oA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxg_q_Zg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxg_q_Zg!2e10!4m2!3m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f
+  - name: >-
+      places/ChIJMXCFov8UK4cRT9gFVpBcvdw/photos/AUy1YQ2oIHm5HlJklubn8hfKO4RtqVQfTKqXVDspedEe6AHN6G1B_A1Woa29WrCuBL73Ypw9vfSrWggN9HnVQtcoUkm5byq-zkg6k38558XMettBBMaC9XY8OQeFJtGYVyL0LAA3at7pB89z8KDIR-WPcIrdscSh2---8zi3kdaJWAVMzrI80SHl1Vn5s7hGudC4K8yhbEw1vQAywfOZhkzq3fxfmXHD3hLT-D4wkzELTjyZqqpOLaw5P4MOjzkGZbM9U_RW5Px8pD-JOnCHQ9qojcEEvonpQqnbaZvQnNxKfuXCgxADty59D3t1xS_Lo7qBt5NfhdEh6-IrTV4rQYME21UUgnaztDpnuLbwEo9OMO_FHL8nZlh7LlKk_ZyZ-6IdWMUra3jwwNryjI2xiP1rdlKJuycCtPef0MtV2LM8AnFM3g
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Sara Diaz
+        uri: https://maps.google.com/maps/contrib/111976157705436295298
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK-xPffHQ0Rk1Mq34FZUDDf1XI-2jQZhVXLvG9sE6LwDg02SQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXu4Licw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXu4Licw!2e10!4m2!3m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f
+  - name: >-
+      places/ChIJMXCFov8UK4cRT9gFVpBcvdw/photos/AUy1YQ1fJUs9ykZxDxrz5TUnzo2DrO_55mpqYn3W-cPDnhm1gT7moRXvSH6yFifYm53BbtorzTOztRJcU73qPHsrO96dloWL8WjIA18HmsFIv0pMsgwaXMcV2elmwg-YepmHpMwkYbWJthNpI0T7pbuJzjqNhVJDg7tkiGZi4p-vXhd7HVoLyQHEnTmt0eq2cD0pZh48Hr3o5NEwcPwvqWQOItvGVI2vWjE50OfzjRpUf6am_TZmy0fO-3JX70UT0pFEZ3GElEFvxOfFKMQFrICY1f0eabHne_ygbL964BCrIGkSn__riLDUtYNYY0w32iOQJ121JVF_JnHdMSXV8mhTTKeWCkkIMq2QTtMfUaP-TFCOivaIJEnFLdpBBOzUziA-P6Q8dqpdgHcdQzOMdQ8DUIxlO64jrDporAXuLp3C8n0
+    widthPx: 4000
+    heightPx: 1848
+    authorAttributions:
+      - displayName: Elena Gallardo.
+        uri: https://maps.google.com/maps/contrib/105503693234225937355
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV7t4BGDsqEanwHmXW_Igrg0Go9DMrIReM0OQkXJS7AisyRm-EHBA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvmsHTNw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvmsHTNw!2e10!4m2!3m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f
+  - name: >-
+      places/ChIJMXCFov8UK4cRT9gFVpBcvdw/photos/AUy1YQ3Yo3e31E1PDvcc0OuxsTuPoZZVzmEVbT_8aEYMj4qSCbmc9VjuPC2d7DJIGDEWm5AS-g7KLC6ft2bp7ozyaDv-rU9Y8welaOH_7Wdiu0C2eNQ_lOqqB2kYHRUZfzrKrK3-48OpCkcznchJVBGOB-YIpqZFrrHQc72B4o7qBXf0FzfHS0oFkrJQBvtTBzSbKQZ07xaEs-Oun7OsP1YkoyHGydcJMiNp0p_wL6Ha53yBZujf1RhuNaBXZoAS7Hq4ICC3QlkWAS3vhJtCdvTOR_eixxLoIGnIgFzxcrZJ-2N67GzB4vqGMcCUbBdhyofmO2pfF1HMAQh_WzqNZBphwWLlcLH7aq2oGec9BO_L0Cfshx5VTFX0eaYsuEvbca3BbMoXYrSfi2zFcBO8pL-Z22eK-IWuvaSKROQgsk6tFm9Dgg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jezreel Ramirez
+        uri: https://maps.google.com/maps/contrib/115901994898540726538
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWKpdPkNX9L868Maep4w7VYgVApBB0M3qPCR1esyIK9kVnFxcTP2A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbqsyoDw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbqsyoDw!2e10!4m2!3m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f
+  - name: >-
+      places/ChIJMXCFov8UK4cRT9gFVpBcvdw/photos/AUy1YQ2v2vONnsOy95h1yPGGmjmEmUf_uGNplfjG6PexHqvZTAX2WDMwOpAQmvGUOSclc_H159L2LuYsTLO3nBM1BkJoj7rauJxfX_BhQarfjdw2pAraAN9KzNHjKqGXr2oK9LjyU656tDytvf6ouD_6pJ25YqwY907-2BwrSDN-ovF1h8ArucBh0XSu_rR9kAk8Wd7mAv1eLmGatpSK7Rlv6oLJVJZMlwqBbegkbspoeX2SDVcDQARyPq-83tkSI89Fd3DKa2zdXpGsR7CCZg36J_t7Orn8XSGCY6T_E2fgSSNaKy1YPFRpAeGzdbjBX80Y3SaPLdsilp8JnAezuxQQx6aI90BVVhwhoemYQJspyJAFBbva8zUiuS6ChmLhL47L4-yQVLH3_qcNBGckO8-e-4ykdeOfJH2Mnn4BBxfci6o
+    widthPx: 2560
+    heightPx: 1440
+    authorAttributions:
+      - displayName: Alan Carrillo
+        uri: https://maps.google.com/maps/contrib/110969218517630898456
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVaM57agArgm3PYx5mSKryMpxn6MiTuiLozWOuPKWUX_XC5LMzj=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEt__jFA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEt__jFA!2e10!4m2!3m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f
+  - name: >-
+      places/ChIJMXCFov8UK4cRT9gFVpBcvdw/photos/AUy1YQ1_RkMDqPu30PrFzXOj7bHfVilheeMAydCoTxqysMSgjDzatDz12ZkhFS9Snms33O_BZz05uToOi-zMPF0e6LBtkWn7qBnVQYM2ndBc25BeUe7RFSFh6VUFe-3dcFmLcWUc4KE1182S8zKqjcbLNgCvJMgf3VLPPhBOCI6X3SSzzWqs326QMXQCNwGYRuHfMnk07GE7zP3C4q4an2uw_vCSPVe_rOv-Bd_7C9-4BIvE5tSUga9QwhgFv9dTkHMTtHsAbo6OCci7TMryzAc_j61i5_3-xSyzaZc6GBY_9yBC4c48_SR6nOyNpK7UuZJjjYSoIeNgaEWvqayTP1Gpe1lBxH6KzHCS8lxjOjyxtpRDopGLZOagCAvOK_g-N9nq4_M3nq1z1HuiaAEKDNQquRx0huYkfTzOsdruIERc7KpHs26U
+    widthPx: 1080
+    heightPx: 1920
+    authorAttributions:
+      - displayName: Dorian Araujo
+        uri: https://maps.google.com/maps/contrib/101958067657801364147
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLqXAEukMnz9AL_WuU3_hSjYTG912U57dvJBjIpaTd5Aoe5gQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTqIjQhwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTqIjQhwE!2e10!4m2!3m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f
+  - name: >-
+      places/ChIJMXCFov8UK4cRT9gFVpBcvdw/photos/AUy1YQ2fi5CBJHL_tQMWFbZW81JaH9GFW3sGNKc8sfHkSuxi9ktiF9EaFCo93V3cvevusdXMgw1IUrgtF-o7UJq4Szxa8lNrc8OwRX4Ukpjz0u6FXONZmFh47macC6YIQ0hyuKCtS-bcLCJPEFBEEsyLSOWWlq1NWKxUrX8XzOAkjqgYGn5tBsYvvru0pzXFLbBjYnxDJCuZDWpFSPdxTB73DpNDMIfi6zwMaEUIOkaz7pc51iJcxhYKnNVViEnf5EQ6Ki4UaKiz6q1XMNJu2X9zMMzkLfIDavVQn3q5fijlefLsTMk-2Q8WwTTIayxklsj3hYIDynnqW5XvF6XPi-x0WITeAM7vBdQ2R5Xi1PbwCKzA3NmmU-NF9O9HH4vXu6yyPhf6x6W-d8lvte9BwI95416BMe94asjoEtQ9DiO7VVQ-wlQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jezreel Ramirez
+        uri: https://maps.google.com/maps/contrib/115901994898540726538
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWKpdPkNX9L868Maep4w7VYgVApBB0M3qPCR1esyIK9kVnFxcTP2A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbqsyojwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbqsyojwE!2e10!4m2!3m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f
+  - name: >-
+      places/ChIJMXCFov8UK4cRT9gFVpBcvdw/photos/AUy1YQ2jQs_Jg_m1RLvtREl3dWBJBOiKOxQFin9Kyjj8bWlnaQ4VQhQc9bgDuXxM_IgeemOQIe0sgvWOpvk7ApUegapEY86EgXfO0dN9jw0Iz8M8EfnYFeMsFMwkOLKFQQGkopvDrJPLIhq_4JOsTjfz2e22gNGmJXNb_MS14SqYP6Zt5iajU372czsaGURS_eOGL5j47mLagKJmkhiiXE4hZJqyHJeCAyBQrEUVP0WpgqUxdGimwlZRfjJPTUZJ9OpClX_kgWMP4Wf7WbPB6awzimhxQJLLftVLoxfaGuT0Q06LUgMzmZekjyJ7yPMTDzOclN_Q6Tx1ybxpXMebGdz1b-Nm4yLktN6_Z7uPt6TzaMXf_hKTw3sAEtBqY5uuVw0XMA6gI_MM_8D0nLmmOHPzv7WHQQZfstxSUPwtSJqe43iOx8fJ
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Rodney David Falberg
+        uri: https://maps.google.com/maps/contrib/103594402472206235867
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXouq08BsX_M0WN082aGVeHSAhrU14a4OlWi4mgv19qAW9DLAEf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxkorDgQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxkorDgQE!2e10!4m2!3m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f
+  - name: >-
+      places/ChIJMXCFov8UK4cRT9gFVpBcvdw/photos/AUy1YQ1a2Ucme56E2P9Tj30sni5YaMc-LpQ8G3WXTphia5uHI3NtrbtqV3ZOMMq5NnnY6mpRK_iwj3GLXi8l41s97Auy1wPNJxIMk3KD4YU-3R9NqqDL-oIYQH25VqIbxxf3vjxYF5N95sCq3s9m8Vu1y_Z7fsG6OuiV1Lm00KJ-gZF3hIw8UOvSimIFUTzaDgeIUEUZG9vGQNoio63-8AtoLLOSSdg65tqlv_-9Zuu_ZB6x5orc6ZFfxoNfkpGKbHQcSooep5btHEwQXhexQFc7GL5p4G4Rz8JMzJhqIURc0XPXiBv2-2wks8707dPfz9caP9PvuJiFd5Gn6Spcll3J95VG8PkdByWKVJkn3LgkhXtG_IwIpz23gx4lWzSSw_T0sngKQHa43HgjBa39gLBlisEW9aRwZLTcnmEVR6uuefPhypai
+    widthPx: 1080
+    heightPx: 1920
+    authorAttributions:
+      - displayName: alex Arizona
+        uri: https://maps.google.com/maps/contrib/103362972435227652134
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV0WC-2qMZVzi_htrkYypbC6L7w-g8nAO1IrV8Lf0j_OjxXj5Lb=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4rO7egwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4rO7egwE!2e10!4m2!3m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f
+address: '5930 W McDowell Rd #103, Phoenix, AZ 85035, USA'
+street: '5930 W McDowell Rd #103'
+city: Phoenix
+state: AZ
+zip: '85035'
+country: USA
+neighborhood: Maryvale Village
+latitude: '33.466461'
+longitude: '-112.188473'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushinola Roll
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x872b14ffa2857031:0xdcbd5c905605d84f!3e0
+  placeUri: https://maps.google.com/?cid=15905971233930729551
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b14ffa2857031:0xdcbd5c905605d84f!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x872b14ffa2857031:0xdcbd5c905605d84f!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b14ffa2857031:0xdcbd5c905605d84f!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushinola-Roll
+
+---

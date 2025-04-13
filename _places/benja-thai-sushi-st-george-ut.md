@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Benja Thai & Sushi"
+permalink: /utah/st-george/benja-thai-sushi.html
+stateAbbr: UT
+stateName: Utah
+cityName: St. George
+place_id: ChIJYbhFms9EyoARaYzh636o_CM
+photos:
+  - name: >-
+      places/ChIJYbhFms9EyoARaYzh636o_CM/photos/AUy1YQ00j-9FlvyhsqVnha88yBJT6AiO9Wog3od7CLaLyQpETpZR1BilGoQecVhC_9KMiTo4nnBP5tf-76NV2KQFG2vT3Ik5eVx7EWf5UHl_c8KQXt7_roeticq49vu3Evjp1Ld92whF7mtcEVZS3pHUegiHeQ4YZIU2GT_6RzNu-zwum_e93e0cBXzkWSoEWYSAIficspYbyoc2kBqYSTvDTroDb0H_ScC5V36ClO1EKRlTUCO57QMr-vdrW9kb6yCG0GmVB5t27myOUt47sRFyB9saJ2HhS5nPujTdHy9xj9Ydo_bs9EtUKd7B9xiMhiOvKtSdymfFRuqeuMAJ1q3U9lcraEhnbRgcnTWtuDZXIoRct8c-2Nj7YPTiHvtf2txFqT-12Y1ZoMvOm61T2BQKkWMKb9ztWvNa-VjSi9oTubNV2w
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Andreas Schober
+        uri: https://maps.google.com/maps/contrib/110153062449855832351
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWp08QEkS_zVvMciUJ-wYnXfyDxjgRLDL05D0dxR0R9fp876Ww8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICUp_DpLw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUp_DpLw!2e10!4m2!3m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69
+  - name: >-
+      places/ChIJYbhFms9EyoARaYzh636o_CM/photos/AUy1YQ3VG4g17ZPs3FB1TWLiEKnSs7Zb_kan5XC3mgdccoDj-Ubkip1sKn-nF4CY9ObospDA0ZAlzviD63Qz1f6taUZYBTBG8hA8--C8sPGaD_KmP6ZmYY_rzU_A6vHs5wd7issk7ffXoi-9-eHg72jsZgXC_cCsoNj9ndpPJawYGpZMWL5yDPwwoa1_p41PfCHrNlfXC8RiYr62K23MtBrl6lx3JYviqlrlh7rnK1DXKdO4-vSUD6cQCXJ_UtoTVLEGYlmRCJWbMp3ypHRRizZx5B3sanUaQ1Bf-wVm1m7oQ0raA3zYrqoQ02-lHEJrBZJG81sSsxr6mtPTOO9ej6KlYJz7_QeFHM31Jk6VqU_HcQ3cEZ3VhsTAs1aW9Jzbi8blvUL96EP0f96iJx2XkCtoy1-UW-CWIFxVgKHj9QMU9y4
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Amber Severts
+        uri: https://maps.google.com/maps/contrib/107707877480422040217
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWIL8m3bpMZBikXS9mUUzcYVvLlVZh608PXS49acuVN07eSxpo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj2aKCUg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj2aKCUg!2e10!4m2!3m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69
+  - name: >-
+      places/ChIJYbhFms9EyoARaYzh636o_CM/photos/AUy1YQ2fL2Kr9z_5xYPXdK8X_HA7Nk6ZBpYAEbwrZfbKso1S71F3KFC1G9nVzajmqG9Zz-ABHKMaPRU1-BJLCLu8y1XMu9gLrndz3FgeVagC4ncDx2o62YxC-0BXoh6_Ui0Nh-sC6kIaTHAAbKXqXE5-c5naermfWGvqV0GotZlyRxdd_h20Gp9rqxVGwja4dIWOCjVOsifOLmT6A5EOqGaig84GXA-TIqQtYviwwxIltdvan3krpwEBvuinp4YUiwTZ8U7Lk-kb3rUaz_bA9MjxbafaqEwtSofALCMTvHJJ5FAJnjpXoVNScCYxFARmB6tnu7OfBt1mMPi5X0sqsEHXltW2_OW-8gMTAA9W56DoXdJ9vseEa0Jx0WWk_uQUXsG0qkeSSZ36pmPuGsRJ23oDgVUX1Rfy-0q8kgERmIwxvJJqXH-v
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Ratchanee Smith
+        uri: https://maps.google.com/maps/contrib/113598568447538820760
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVKPdsAmgv-zhUhAbXWJWaowij7eF0YnQQ9_Ho0V6hjE0MmV9IAZw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXysPhxgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXysPhxgE!2e10!4m2!3m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69
+  - name: >-
+      places/ChIJYbhFms9EyoARaYzh636o_CM/photos/AUy1YQ0rdnA4q73paWuqQwiArJbLVq-FX9GN0XuKOnRwEiJInZGHZBBXYFJtSE0JlwFXyrXXZkzYJ6GHZFSJ4zkO1PMIuSATDbFoP687E0RpT-ciE2E2V5usMPi-LFylID6SkZPm2WNmrTiQ0PXvPp3OJPY4o4V9j7vM8UmwMcAI2VJzLsQIeU6pvbumkmjmXtjOkCaRXRjvR-SKAffp47AWBCG2C5eV0rin_zL6Vw_SsxcljLrFO5o3G4LxurlUH7oOPAbkwmL0I-U6JVfJoDAYFnhZAGYb2zjF_Aa34kS1DvMwKVpM6M8X6I3eCxWy9ZFLfpCtsltR5DXVOCQQTEbCPjhtBwzpFtRqMGXkYZcCXzb5wxsxGWSUTMjR8erHdQT9p-N0DvO-_CzHfisTjNWJ71YZPdeyfNtJYWF4jN96JCwJCw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sam Ogles
+        uri: https://maps.google.com/maps/contrib/101548592295709210868
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVw9NBh8FYgVAnKaeQdUCTelOF7U58DMIPDA8pKNjppOVdyiNyoxw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC9rMyKWA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9rMyKWA!2e10!4m2!3m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69
+  - name: >-
+      places/ChIJYbhFms9EyoARaYzh636o_CM/photos/AUy1YQ0iUkOZLsrxSSWAuwmWxvJfMuL3FCO9slxqaeFizQA_ymy4SNBBAWhJNAEyVnZtNoduep5Z5VP7u4XxREGfI5j6MMNn96Ny2EJgXQqndX-Hqgq9ljRkGwTM4XAuTGmXgtXh54ww4_SD-vdfApVLedh52NNBn40g2EYJEa9yAlk6O1yqw0DB7b0FyoT6ce3F54kClAl2O8Um6vdhXCxgfEnJ5GnM3M98BfwPsq7ZcKf_gbQBytRLn7HsORczwjvx9V5fifZtbfU9E0UvQrbVg8kZ3J0xwjxzFC-4j6YM0rAmJQfDj2hXFOprLQ5bF30Prqx0kdZc9RF4fDvfKpHrUPdgqDfiVYgYEJlKu-xW0pf_srF7jDblsExrBCcdsZOFYeS7kaEEucFY2gIG4_IBJOTaMDxzaCjkmOJFsz64YK8
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: FJX2000 Productions
+        uri: https://maps.google.com/maps/contrib/108763684744054233939
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjT3cTAgQsYCPKWJY1pk0tUtzR09ALWapcRyTAm1I_xUUcYDqM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvzJyedw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvzJyedw!2e10!4m2!3m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69
+  - name: >-
+      places/ChIJYbhFms9EyoARaYzh636o_CM/photos/AUy1YQ2DJwlHMhav-5XcEUWE7OHOd2ER4f6Fe4w1bY4ZMtVIFYIuhfVoS9X7bxq0XEfVQC1xSTRkxzlSt9gMjEffRrFbUOsxe5YO4oIyNZwpm5-oA5CAFG93SnmUvsowKUC3h2JmYq97lfBSEN9m-KUIyOpUuMaQt6DMuSQRrPuG0xqYj2RTJcXb2-9ohG0PtxopYqipsQVk39JYTo103NQdWien3jUAS9jkprY8hjBn07p9Oc82-wlDmRmRCoB8qwxAVqtNCXZ-gFX-7aGYFM2wOHDjjiSIzfq0yJtOTUjvMvuHv1dX-oePAixAyJtsbZbiLkjlwM8A0RhWe6tKlzKulQiQ3vWxIvYLegNbeIk8Xz0B7V2t9F98rMcoEK73KpXdJka6SZTNrN1k9rnUB_eKgoTd-Z9A68kMRWjM-XKK8ecOgA
+    widthPx: 2061
+    heightPx: 3728
+    authorAttributions:
+      - displayName: Bryan Bassett
+        uri: https://maps.google.com/maps/contrib/117586807513016917234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVlsttBnPmUHMqFpjEmqeKcBBCkNS2LxfgK8Mt3hMqqsSaK9RVQdA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID91s_xSQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID91s_xSQ!2e10!4m2!3m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69
+  - name: >-
+      places/ChIJYbhFms9EyoARaYzh636o_CM/photos/AUy1YQ2egk1ghOgmGPj2o6yKAsuT29-l8Vsk_37RH6yuafiEc_INCMNaGR5Ps9GRMaV0HyvNkSpWWNJVnYznusUh1VyuF5-Vuarh0sZMTQ1tspgYJ8oaKjNzwRjVItnOZhKeiZmK0kzHrQTH218lTxbfPFrHrc591RUJf7O59wEJWXbRnVnMb_ED3KczaefrVgkK7Bd89p2NDF2Biudb3yCcwlIYWafwUBOg2VMR4uUZHjnpEqyvv_PzK_hD6m5TtetXkUYeai13AyUtU-SE_hFFllYPgKrebbHMfXbSr0R7r-iCmzEwirw47T1AmzR7p5G99dYb0ET9HCZr4NqlV7tt1zJ1dpzhjJAJ-ZHJk8PZ4T0XwRwBVXWHqDr1hPkYrkJJHYTuxdiSTwsCg8fQIvj8R4anyT-Ck8FfUWdGVjMIdvgLOfpp
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Ratchanee Smith
+        uri: https://maps.google.com/maps/contrib/113598568447538820760
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVKPdsAmgv-zhUhAbXWJWaowij7eF0YnQQ9_Ho0V6hjE0MmV9IAZw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXysPh5gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXysPh5gE!2e10!4m2!3m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69
+  - name: >-
+      places/ChIJYbhFms9EyoARaYzh636o_CM/photos/AUy1YQ0O08246_qWlW7bfSqzRvWv_BkKs6beQRdIQV9o4ift5cOmRpqv3RMbWv8J5Wx2LjHt81-_xgmMxxZSuqMsDdat7imvYUELgoCaFYn4lHwPjEpRofjkkHQ_SX3h14K-5qSvB8o_GxTpcVM5w90I3MevmRyrKDS9PuvhCMxxtAJU98TUCdBnmm0LCjxmQrQvgPuyvFwBkhHlSM5XzPCvaVLRUq2X1MV1I2Jsd0502L-8yFceRVQk2iGCTN8tI-9ACaSSxbuHBR3Uigr72Mm5450FiPM0nYOZwmJFSu_C_mbPBUqT_QHPE9UtR9EMaocDlq9ERS8QYIR4R13K0wG92y4q2Z8JlUoWJq9wQ2RRLUTKHDkphiR7DTg79Mqb-_vLHkEMKIBxogtWJj4w2npb6wIbb-CHcHXRcrMW-OQvB0E
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: FJX2000 Productions
+        uri: https://maps.google.com/maps/contrib/108763684744054233939
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjT3cTAgQsYCPKWJY1pk0tUtzR09ALWapcRyTAm1I_xUUcYDqM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvzJyebw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvzJyebw!2e10!4m2!3m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69
+  - name: >-
+      places/ChIJYbhFms9EyoARaYzh636o_CM/photos/AUy1YQ2wHzyCjHLmT65xsqhjzAL9_Aq1lhoJcLfAGogbNpv1sFoGOD3-dJqwwOqHMChdTMUIYkPLBBcl8ujN9nm8tgVYP72CrCLR6cCBCEMxhUOWS4SxQ6jLVS4H2WygYfm_hOcThi6OKdDXN1Fkq5weP5Er4aRBGA2TfQz3NMpFxiihLQ4Ogum8u3tlwdwkoUzTt5ovd-smm5SwHiIT5tUbcpylLINJtAAkH_EXiGBXDgZtTKlBmzWw8gk4kwLebNLK6ZfB1Xs-q3pYrTxUQSYC6carLZqnqUoF0WpVgIGZ8t2Xq0G_0TqG5esaJ9ZMI7pEy_MOln_etNgO4eTVQrpzOXlLtz7e5baRHts-GneCNMLI9rta0rGESHykv4PflzWsQQdXJIqFgn0fScLnGrk7j6JgBWaRbRC-dKufeoTv-9sPFA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Laura B
+        uri: https://maps.google.com/maps/contrib/104461466291709054771
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLJ9FFzf0eqXZDx5sgIvhWk-B2n4WqTxiNbxtZkskjGdOS53g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7np-Lbw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7np-Lbw!2e10!4m2!3m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69
+  - name: >-
+      places/ChIJYbhFms9EyoARaYzh636o_CM/photos/AUy1YQ26B_8MZC_A5W-d1eOytPUUd1XsvvH9wV1u08qRT9aJp0upwVqB6LSzQ7s9NvyH6wG4bpTZLj05qOre0PTn0msKP0Y6elb3fTkEJ9n-TmKBbKxM4xbIzF6iU5Rl0XDO-LRx3K12-sPQfwTILBSIkBjW4SURBExpTfi6rkn2Tp18_3ckmg6zEBkAXprSF79QiVMEE1ZAzl2pfh6VYVwrpSDtbz5_elYt_qzETljye_qpDasa7KXvSLcDciUHYS1MXkGkuQdm6cLOaC88VhrUSyCJUGql_voJI6CwiTm4PpLixDEJCIHSBYqQ0qr_vafHy05mhD1uAoi2uNTt596tuu4Y1PIZ4m0VD3wNePrQDFyXXRIbyruLr-7OhxF1hl57DwN1Ud5E8syf2FXHCO82MKpd6LYzT5D3fQezDZYYJ3J4_okw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: S B
+        uri: https://maps.google.com/maps/contrib/107188958980411623087
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIiUmfu-7P_g3pZQnWV37vUZh9PI9Q0vVuiITOw0ZWdXjsoVw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJ39bniQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ39bniQE!2e10!4m2!3m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69
+address: '2 W St George Blvd #12, St. George, UT 84770, USA'
+street: '2 W St George Blvd #12'
+city: St. George
+state: UT
+zip: '84770'
+country: USA
+neighborhood: null
+latitude: '37.110522'
+longitude: '-113.584256'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Benja Thai & Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80ca44cf9a45b861:0x23fca87eebe18c69!3e0
+  placeUri: https://maps.google.com/?cid=2593132748535336041
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ca44cf9a45b861:0x23fca87eebe18c69!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80ca44cf9a45b861:0x23fca87eebe18c69!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ca44cf9a45b861:0x23fca87eebe18c69!10e5
+primary_type: Thai Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Benja-Thai-and-Sushi
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Blufish Sushi Bistro"
+permalink: /illinois/park-ridge/blufish-sushi-bistro.html
+stateAbbr: IL
+stateName: Illinois
+cityName: Park Ridge
+place_id: ChIJGTmambbJD4gReDI8hS_XGiA
+photos:
+  - name: >-
+      places/ChIJGTmambbJD4gReDI8hS_XGiA/photos/AUy1YQ2gTfLe7yoLXQTb7spvH05r5RAEsOXq5c_rgMariahOXBOycrnxbQHKOMVi8U-qAS3y3ygNwgvpGbU1zgsWMeEa406ijBv5yKu_xa7cbbQjrFLcjpLqB-OpmpvsfXT4m1MXD28kCnv633swxGz3oCnIcG2hDGD6l09DRXpciV4KtyPhMLa3sye8FEuHRP9AZDoG50kUFUUIJYR9ueh4ClDEqFil51aiNmJc0Cgh8ZS70nqPfhuI1KZrpqQjWXZhsKPx4Q1AyO3WX8zYNQ6NhU_-1FcxxWAGXx9fmbGYbueil7kfKlnfHD8oeyG2aWiZ_t-1XUoO8kt5XB5zlvbbpm5bgUt9UnMFjnPDaTQrWLK6tgq786TKbe1fLJ60rKVwNzPVzWT5AX_R--Uuw9R8h8AuWds3G4y5eAg-NBdqI9yO5Itt
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Katrina Marie N-A
+        uri: https://maps.google.com/maps/contrib/117971328104446262225
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVAGADcgEr9El3-5c347uRnxpX0WaRiuRmTxHBTOEuTAprtG_lnMw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhlf_vywE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhlf_vywE!2e10!4m2!3m1!1s0x880fc9b6999a3919:0x201ad72f853c3278
+  - name: >-
+      places/ChIJGTmambbJD4gReDI8hS_XGiA/photos/AUy1YQ23u0nlcEB-NCH3hEFl46rOCZFyF7yBhXmyPBOlQ3KvIR3Mtu6LSeV-GtP_b7PvMRNrC9JTGyZt0tQUgX7e_1BeHMccf9m8Z8520k3YdAPSXTTxEEd0wsEv_H7Zv2-kMszaCLx3RMrfsro3SF_SyyTCXUcvZ6cDo73OwCuNKIv2Ogf924f0g355BiZyZB5_GdX1AcKH6GoDMHpo0XUngRffQjIWWR4pRPkF9wT9fFRG2iwTYglTnMfzIUkpXQFWkTooQNMzg101PCdYd4RgpYpWycT6SmaqZztiaxMIYt68106eA3uBqKektPy2cQ46H-pZ6L5FXjlIqgg2GotQUiwOsiov6Atwh9jJj64fBfeBe9-NkBwJghQcN135kzZDbQ0AxonkI04tgXLee5BA-oE2O8JqijosusfhiWq6zdofxw
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Ася Дашкина
+        uri: https://maps.google.com/maps/contrib/102881294509510363276
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV8o3bwTSsNtkN8c1qTsmkD_2DYsbGbQJbUIYbyJXuI7NGTHQg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwlpaMHw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwlpaMHw!2e10!4m2!3m1!1s0x880fc9b6999a3919:0x201ad72f853c3278
+  - name: >-
+      places/ChIJGTmambbJD4gReDI8hS_XGiA/photos/AUy1YQ2ya2bMqfws1FjpxWcszPpwFVRIxlsVjXfpnCsdWq0DGHE3luJ9KaZnZEh27umzY_3WtMAW5FFiYOIEuUiYy7vdLrE4v-pEzL3YdBZKSyhVxF9kAyprIFpbSVG0TDtsotTMCZRVRhkzoO4b2c8QeCIJ5WgUMRefDCs8m5pKkWHtJ2tsdHp5pONWgGWmWaNGPKeoj7AT9jA1a7ojzJHd7zvd4ktqtxOxop5BPXoDhOK7l2yaGr_yggXTAHjHvhjSibwmGX96G9Lq6cT3L2CRjFNkITfPquTCJCelv81CC-gzKA
+    widthPx: 1078
+    heightPx: 1071
+    authorAttributions:
+      - displayName: Blufish Sushi Bistro
+        uri: https://maps.google.com/maps/contrib/111704555524973012388
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWpqfRBpc9LUjGFg7Dl3wPMzlTQ7j1Tm4Zj1Tt7ykLIldw3ELXm=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMItQz0dHqmu60wdOz79D3N2ZAFTN-BVeCA7Qo7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMItQz0dHqmu60wdOz79D3N2ZAFTN-BVeCA7Qo7!2e10!4m2!3m1!1s0x880fc9b6999a3919:0x201ad72f853c3278
+  - name: >-
+      places/ChIJGTmambbJD4gReDI8hS_XGiA/photos/AUy1YQ2LlGahb0pyLfn7r-h-QSxlLaJ08nJpMXMLn5MGrT6JWaipDUVnTQ8tjoH3ILjDB0pWE7svlgC_0nIIqq1nOQvXrrwURHGihCYTNXEAAIg06jS1D75IRUDvEdZyRSbU4J9UV5pY0thzhpbYSVPOBmO2Ai1qjfwYqDoVZlJhmzu9MVnjY53UXPPLnwgLxHkF6hFDZU85AUDhs8tEOhNFPgcIlGW8rlDihQLA4zCaJbzd2RXOqMwDtySiWtkqtSKs5l7Sjkg5_HESmRBoYOTMKFRJ5-X0R6N7qLsx0a9Mip6owoIM8wp5myyp57OD__vKMzzmnrzaluFNiE3tEzRA4eaHNR3vMolMHjHu7TuX0qnYvfKW4PCBkFO3xb8igOGUXs7RdzArUMGN_kOP8xyWHemhTRFyNCOI3dr_jOpXS5A0DLat
+    widthPx: 707
+    heightPx: 693
+    authorAttributions:
+      - displayName: Trigger Hins
+        uri: https://maps.google.com/maps/contrib/103576835087617213113
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIi1kQmzSeylQ1W2IoTtcpSLW5l5F303zZWj4DNrdpfAAzwbA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ54nF6wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ54nF6wE!2e10!4m2!3m1!1s0x880fc9b6999a3919:0x201ad72f853c3278
+  - name: >-
+      places/ChIJGTmambbJD4gReDI8hS_XGiA/photos/AUy1YQ1jpCoGwQo7-x8TvhOnctucPJo2zLC0OvePBdbpJxFxGOboxRcUWuGmTbli9P3YP3el4zstZDFNlZGID2eZqiwFJJc9dYIFtmppF_Pqhbsstk__EAzlGyvl3SIT28ddC_vEL8O1FS5RpJaMksb88aY9F4Zzt1AWsj50j-IOzQXqcJbQASICOxTcHGB_KSa44WSQV2WCmIZRi7cyeMq2TxcONxroqNqo7KS2HYQVbGgysL0hKNR8Pjf-QI-CpbBG1R5Otnf7aJjpXbALggIXJGxVxf9o4JMzOGGbBu9YzJKXr7g7ABIUwUvHw94iM6ItG39gJI7AGUtHahqhs5AdyF4ebqAnX5TtW4FYtrK0Yh7HXVTw9J3-PXglWh0ZE2Ne5B0kMoI_hkDyW7UJIpXuY6WTNycb3Z2BChLCQnhwyRuY007r
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Katrina Marie N-A
+        uri: https://maps.google.com/maps/contrib/117971328104446262225
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVAGADcgEr9El3-5c347uRnxpX0WaRiuRmTxHBTOEuTAprtG_lnMw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhlf_vswE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhlf_vswE!2e10!4m2!3m1!1s0x880fc9b6999a3919:0x201ad72f853c3278
+  - name: >-
+      places/ChIJGTmambbJD4gReDI8hS_XGiA/photos/AUy1YQ3g6JTBJIrl2U6CVTBUnFGMWZBBb0Lj0rsoa2AQknXTchHBd2EiT2CI9_VmD00WE_VWEKHouwf1E8ncoHHXGcr467tGiJzOrMKARio9Ox8XImNfQlEJZyAdNo1WGoOF5_5CtvxBXZCzkHTQUnZq6bXe4ja7oJdZc-EZqN5KcikTp7tYNMP6Z584rMXO1GKSUJXh0GgVPJZkq7yatm7g54noRsZkMzOD-OJrjk7H2sn6opYxd0V-qzie9aZnuaPWqecEyWxPSJ0xFJcgc2C40fFNkmee2BZE-MV2TKSGZZ36-g
+    widthPx: 960
+    heightPx: 641
+    authorAttributions:
+      - displayName: Blufish Sushi Bistro
+        uri: https://maps.google.com/maps/contrib/111704555524973012388
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWpqfRBpc9LUjGFg7Dl3wPMzlTQ7j1Tm4Zj1Tt7ykLIldw3ELXm=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN2ICKNOnjesH8rdNxMDavGMgj2L8LoLOBiFN4Z&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN2ICKNOnjesH8rdNxMDavGMgj2L8LoLOBiFN4Z!2e10!4m2!3m1!1s0x880fc9b6999a3919:0x201ad72f853c3278
+  - name: >-
+      places/ChIJGTmambbJD4gReDI8hS_XGiA/photos/AUy1YQ1z1P48o9CL7a4iqCG2hnFjG-9GQ2OpcVCaX6Ou0tWt2GigAW5loYpgfOk4-xRqY_oAT2PS4cMOmEAGskauKnMD8xKWJPC8peXQqWFWk34Smzp-tcPN0wVmVSOlfiFhorgTdsw0oD6Pt-wZqrwAlFlu9BIT31Oa9j0f_X8tEVJEpiVo1Isfm5CTw6GTUpfL0iLoTmpUqv-LrMQlVqWMhE-Hs7A--GpGnNjgcHCgyeLFf4Q09WItSgXRNvJZ15YOAe2YxmczGhwnIuyy_aUBDa-X_dzol1Hw2rgzaj9qnj6_5MGxvG2lfFp-VMdz_F6bm8t9SHZ56Zhk5NIvw6BFe8dysWs7J2sSRm_fUUDad0Sit74y6JiXagEDjzf1C3NVZBGXYhqFri-GxWCGNwnB1N1dS6xUP4gTGaKk2kuAk8ZzUWgB
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ilonochka26_
+        uri: https://maps.google.com/maps/contrib/117208648299847468870
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-QJCjE4NUWOoClZ6SWoy5vq23z1gP8wNNF6eILZzhgnKpR878=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDmtKNgwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDmtKNgwE!2e10!4m2!3m1!1s0x880fc9b6999a3919:0x201ad72f853c3278
+  - name: >-
+      places/ChIJGTmambbJD4gReDI8hS_XGiA/photos/AUy1YQ1_om0E1-YtcQ65TvdRPashsl-qRxsPkX5YgaqSEI9kzYEp0UHbsH4ZTxIc-uOW3W__VofrECT_iqWcPk4rqU_Xa9wbsn6cbWQ-weBPiLv99rhuvwz-wYZTootDsGQ_CFEq8hBckhfemtncGudiOgdk-_hbnMTs9EmGTADW_WvkLXJS0sWXeu8uCcrYLImkW91FxIRZtnNLxPgQaUGTEDoArXhQp7l9jJd0HYgffRrC5MiM6IFlUloWlFl7OJuht2qolypvxEZvZ-XQMO3IhSNTte8Z9T3OyhpTi4j6Za5F8bteTneGMrB_x7pApwH--kzjITCY-lSb8Suj1BIGJizy0VOyn4YCSHLRiVAw9hHOZhIfqq_Eo1f1kznxejzQp_v_zrxu0MZsJ1b_OlULIKZ9eMvRoUxxkdVYA-jr070
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Anna D
+        uri: https://maps.google.com/maps/contrib/113794047153463684745
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUQ6hmk6lKZVLX_vc_uGTjqFXhF-sP_0bjdj57hAnEst28vC78S=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDz3IDpFg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz3IDpFg!2e10!4m2!3m1!1s0x880fc9b6999a3919:0x201ad72f853c3278
+  - name: >-
+      places/ChIJGTmambbJD4gReDI8hS_XGiA/photos/AUy1YQ1UAXg-3MB0LsmPGxzOL-FDZTj77rZKr5u13G4Ih6yOYM3cueAMZFqlpSbGI91D8sBn1WqJjmxqo2r7xpAQiuwdb9I5h21DAZVZxUnsOJw2YgnOGDkQ9N961zf9j-4aNGb9gvha22YKdS2Ck27lOU0q5xUWV3dU_SdMpZCl4N2E9liALi8swYupEOPtBarKC0OJ7NKv1Hyb8tNNBqBzWSbbx0OABgcFnMtMsgehH-a-aOnvPLPcdzqMcLP97P7IfU1mHPM8cVPJZ0onl9fypE0XnbNLBxMXMLfKIZuiVmPmjIe1ior5ypiEgMb6Pvsex52WVnRUCK4k73k8M4w4HWhoUiGwBudWZJBb2m_ePk0yxhL7iICRm884CcYQJybIB3OEEUgPtrlCQfGqOXtTpcPJpJ4MsWmVf2gloi2tHREjrw
+    widthPx: 1290
+    heightPx: 2293
+    authorAttributions:
+      - displayName: Olha
+        uri: https://maps.google.com/maps/contrib/117973453855352283613
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUY_FfdKIPiqwJrLQ-PFFgG6-YKY6ROkNEPVr17Dt_BuoSMrKXA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfkZq9TQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfkZq9TQ!2e10!4m2!3m1!1s0x880fc9b6999a3919:0x201ad72f853c3278
+  - name: >-
+      places/ChIJGTmambbJD4gReDI8hS_XGiA/photos/AUy1YQ0PPGScaPxo1yLcYtJAV3GDe-9sw3bfh32kLktXvSsSRg6TrboQ1RnT-ehYgiwpq9VSaSU2OYBFMWiqRI2mbgI_eQF-9kPoza9LZmBWIamLpBCZx9rK_9AvFeL149V8NUm6ORndnA8bQgrK6Z-KzkQTJro_T0IiDg1EF0xDfW2zvBfjbXAMTsTXmga93VyHCPZbgAOQ4nlSAVRC2triSRJqwwJ9FFhqfvDPAHnpxe63VG4yRleH-9ZbsMwAycp2nY0CP0QfPKUDg5Non0CBf8q7dmDHdWqC_Xrt6qpSjYuwzRzYna-TSVlThRzXcHxr0b0a4y-TNGtcINpqyqCTXP-IQYUeJv2vx0zo-9HIRarQljkrULg9vlxeZ9X9-fDpeXacagXXjPfxFw6Y_PY0cZtOjYNtJkWlDY4R_2JwvsLHRdE9
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: food_from_the_usa
+        uri: https://maps.google.com/maps/contrib/101487103607972384689
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXPfv3OL5STXT2g4xo3qiaxJJIunzwNyQ7E9qintXD_TEk9ebY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLu6TJgQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLu6TJgQE!2e10!4m2!3m1!1s0x880fc9b6999a3919:0x201ad72f853c3278
+address: 550 W Touhy Ave, Park Ridge, IL 60068, USA
+street: 550 W Touhy Ave
+city: Park Ridge
+state: IL
+zip: '60068'
+country: USA
+neighborhood: null
+latitude: '42.011358'
+longitude: '-87.830834'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Blufish Sushi Bistro
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x880fc9b6999a3919:0x201ad72f853c3278!3e0
+  placeUri: https://maps.google.com/?cid=2313397957706920568
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fc9b6999a3919:0x201ad72f853c3278!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x880fc9b6999a3919:0x201ad72f853c3278!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fc9b6999a3919:0x201ad72f853c3278!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Blufish-Sushi-Bistro
+
+---

@@ -143,10 +143,6 @@ city: Washington
 state: DC
 zip: '20009'
 country: USA
-address_html: >-
-  <span class="street-address">1832 Columbia Rd NW</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20009-2002</span>, <span class="country-name">USA</span>
 neighborhood: Northwest Washington
 latitude: '38.921772'
 longitude: '-77.043124'

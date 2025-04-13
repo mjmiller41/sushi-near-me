@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Omakase Experience Charlotte"
+permalink: /north-carolina/charlotte/omakase-experience-charlotte.html
+stateAbbr: NC
+stateName: North Carolina
+cityName: Charlotte
+place_id: ChIJWxvHnjghVIgR2Iog3QuTHFo
+photos:
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AUy1YQ2j2UocvQVnrTo0EKzTk25UmMit3ZyfW3kL6cByN5QrmTqPgk_Q9kMR5zJYQ5ZY5GfEbfj4cdiI-gLyYOxQsDZPUEQQVI8cW3stuDKvv8OLVa5mUYm9Rcg1P1gbY_qKLROXYEBUk_J-8-a6c5T-unk9xnS5jYQQBFlsr5NxHJNO57Ob9GGZ_RLg__1u6bBK4JpdvVrEaa9ef6TIAi9N8awbFUo3holU0nGEjIe3M629hViHQV1IgrkDsNOePxIOnjybZkFPsiG44mvHliFGuZW3rpMVyxoFxqXO1u3RH-p1kA
+    widthPx: 1125
+    heightPx: 766
+    authorAttributions:
+      - displayName: Omakase Experience Charlotte
+        uri: https://maps.google.com/maps/contrib/107475970739608254411
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXa35tkHWahl29CNmQUrRywEAbHX62OIvTcz8pP8aDLcLAOTHU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNcU1wfPKVUrFe6DoOLeeqsGDGP9lAjAX8ofrjY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNcU1wfPKVUrFe6DoOLeeqsGDGP9lAjAX8ofrjY!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AUy1YQ0evtU-zOdcIWm7xv7I-EUU6g8ZJsKuaGIZURH-viC1pn5d1W3KCUHT4i32rjMjlntBXW_Q7L5ogsYSGsLF-vqUvIMLOslARWCrTQLWdAT0egqc3RkVardnTTr-UDQaDo7DnvyC1stnnGZnSgUTKlU1F45csE9lGKDQspqpPvA6Ya03RoB9TN_lY62LTy-VdOuFq1LJPDEp2c5gux0t0aeCxEKR7oMk8v2tB3M8gBHixjCCKu5J2r3x-a8nwpG2TZdrGyZ_AsdyXgAby3WP3u2YdkqOTeZBmSkRP7meERWXow
+    widthPx: 1080
+    heightPx: 609
+    authorAttributions:
+      - displayName: Omakase Experience Charlotte
+        uri: https://maps.google.com/maps/contrib/107475970739608254411
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXa35tkHWahl29CNmQUrRywEAbHX62OIvTcz8pP8aDLcLAOTHU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMgECkCLonKlbJN6F0tMimTpcePfDplf6BgCLZ7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMgECkCLonKlbJN6F0tMimTpcePfDplf6BgCLZ7!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AUy1YQ2TTJz8WMI7cBU8ymai8313aShDFoePl--uDgpNSev5Zz4lbg5kXXW5fx7Ypq7s8H0if6XZQJidODAohv6fV0fd7JDwwm25BQhFi8nCClhFK2UOqcqmUEqdh6m73wQ9Ih3XtLCK1ugniIIOkBM7R9puUt3lf7Z088hsdCIrbVW7X2iksVL4tc9g8JkXfMBkXHO2OpFXTDe6HGHCUD2WeVkUXC-Cuhccw3LvbBp02FJI-jwrFnj2tMcfSwD--c8Erf3zo-H1azQ9mri2qJlvRbcfY_Qba4fR7B2WHz44Gyl6KQ
+    widthPx: 3200
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Omakase Experience Charlotte
+        uri: https://maps.google.com/maps/contrib/107475970739608254411
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXa35tkHWahl29CNmQUrRywEAbHX62OIvTcz8pP8aDLcLAOTHU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN11YN8sM-Hx7qxo7kIinHAphSHmvJP9Juy9Zyn&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN11YN8sM-Hx7qxo7kIinHAphSHmvJP9Juy9Zyn!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AUy1YQ0SRSSBOeHpqbBVx00IdBHav2th-vgY7xu0bizEro9PZYxhTYPpfHm7t43RbduAV666ImSpyhcUf6rPS044xFXacSUh-nGaen_VOmjmGUAO_GaE5LEImJa8Ej-5Sqqrx3xmp6jD_KSiozoOgAZlia9f16JHDSnF7Qgh2dWt5D9ezj_SAI1pk4oXMj7UW3R3gh8VC-BEk5o0MzOYEYqlD-ZE_QT55Cmwlc9-aMtkq0wb7Btdgr0eApM1ns8R9nR7gPoM2pnIEAgtrzSMPSm5AsRiPrSTsEBr1q5FaPDQlg75JP_6IBfpFcm7bLrnV1EhlJ6cRSl5ZfMzxHUSLNeM8hP8mx8wW-qLjrs12Pkgq5w1N8Hhqmn8yEiMrW4Hx-HdwD3ekWSUamv6e9iEB5ekzfLC6SDU4ErKtK_Bu8RakFn7XM5C
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Shannon vanWitzenburg
+        uri: https://maps.google.com/maps/contrib/116737369223824143023
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJD8UI7QiwM2VLRIudWrQNkfmC2GlaOdMX_x7FNJpywQ81h_Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBtqav7AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBtqav7AE!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AUy1YQ3_updt4zIt7MkdPLC3hcpECg3XNeuPaFovMN4l7uGT-pZmneAxgquVydNjBGWFd2doLP9BvYFOptmjAVLWotItT4vg7ZYRoLj_PAncK-4yAPuvmIU8OzZLwMpR7_fME_mWZ_Jgp0hZURlsEcEE8fG14l6h9qjEPtW7nd8mpu3_JoLy6dqlSy11-dW90Dne1BRxuNQLJliin4JqB4ZTf0NqY9C2tomiCvPekISoAe9lxCOwri1YvzUM9qgT0MdasxkcT-JdQwkKtP5fEQD-mxSUOqYi2o6rOw2p0ugXLQByKHu3us96mq9YpIfSfpvPFu3QWsnNF724GvXlGZww9iDGW2WxtX5AVq4Pumh6SfYKs8vmzxCRaiNRVTui7BZzcQge1TuShZ8URCG3Nj7HUXlHLsw6DcvUYPMTUWyjiGqHgA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Susie Runkle
+        uri: https://maps.google.com/maps/contrib/103057049520899972157
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVu9cPGsC0wHntWbaFCGxnmy02XnVCEEo7epEfz8jji0BMwvEnO=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn7PHyAQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn7PHyAQ!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AUy1YQ0ArIHY10wyEG_uQutccHywkmxC34zYCC89LeXq6jkP3grFVp9Cyx76up8s-CG5xQiVoXNUzuR5jMoiAo1LME0HNXxL1MrdazYSsa72XW9WkPrQxmrykPLFfVMZRy8ur-hpNeub51tpUbT_uW1YIPCWxKicNFmHa-qg8vwDO_qSVZV7urKS7rP1g0cbI219VNl1VerhyGj4PPi-OjOh-3zKBjMBATvtWua05PoFDizCHOOJ_YlKHLp23_hsrqeP6-OjW5Owm28rRGjvUGZ7Ed4dNZm_mg2iPxK1cyqtparuoNy1nyzgxPYeK5B9MgkhZbDRgZGpyGPmxw5SfcdQVI1MBCTdMKxSRQRXkTVlekgYAOHznSlnfwE1lZu4W1RxW9T6E-sCsIkhcbi8biRFJulvWPA1t9rdELTTNhzGlLC-FitC
+    widthPx: 1848
+    heightPx: 2772
+    authorAttributions:
+      - displayName: Stefanie Brunner
+        uri: https://maps.google.com/maps/contrib/105964203423045683270
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXLOZrsnaW_rE_ZsUTxdQv-kTs4yiZJUrY4zFqlOrhnddUZ-gYCqQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_w7-asQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_w7-asQE!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AUy1YQ2hKRz6hF8jI798SLHDu-tW1hncC9XA3p-SLiwPPfUUQIEC_30t13DXIdbwI9ZRdlH_id8Hng6HEJuEvjsvEpx5KaiNURwr9r6rVtI-TSnHepyEgx1mgEjLoz6SI-Sg4p_ZVluCPTznJHoviUO1LZGjJHMHGawWO4CntdS8uV7l_kWnAkZBgxL3HB_CqzlG71ZYlbMfNqxK4tbM4fXRE-4Pu3RN0pA1JWB0rOPJWwNlZq6ItN8rwcj7lI_EN3G48UiSv5fsFqPIYToB1Hentiz3bOWCpN52UTPnVg5uDi49Hu8O8ycJKU_mE4wmBEYn11Gr1xpg8OwjFrbCpmSYsTRklrsuHllxMX5oujIlEuCnYCZsDC29rNXA7WwPz4pbag4MQ_hAZUFoA_BXZOXmcH4DZ3zJ7KzVaAX_V0XhH730-f0
+    widthPx: 2994
+    heightPx: 3681
+    authorAttributions:
+      - displayName: Carol Rego
+        uri: https://maps.google.com/maps/contrib/108531436744470278826
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW2hY7OxdtgdaRvbFuOpNICqPKPuDmAM3ozCavv97mB4fhkmbZ8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbkpvp6QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbkpvp6QE!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AUy1YQ2KEfPYTn9j_CyTh-HmpOZgabGzGw3ISmJBuV7qTQTZyBBSM45j04P0oN7KHEMIxA3otgjdTvAs2s-LWYjXedwBU6nw9lVOoSBnzL4lhyV7ReRVrxWasVk_Cq9Y8LWxyBJx8zo2jOn-Iz-3_63v60173j8xgOm6rC4nOs9NnHndEb-gMm-EtBCI1Iv7rPJos0T8txjOJH0fOpfEgAVo5ccq60i1v40-oCV6XPttIFOxRrBuGYQYoKGFiQKmNTprNevsv3HxusxIlysoENEQeGxVQ-3rXaFIXwmxR1SCdYG-kcdiSVIPURiUfJA6NGL5TdmarfYJJTKvkjRvbq_hLIDoJjWmGCqL9qa5zNLnwD0EOIQT0jj6i0xTdp56jsFFKPnKo_KYHWnurQHkhV3ryW6xOfSoOsWRLEDQybP6HtflhA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Seth Stidham
+        uri: https://maps.google.com/maps/contrib/110430506009723141085
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJKwhpn6bZmh-uO6bZDTqHsBpT3No8q9i38n25eHiJET1KMKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-g7mBbg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-g7mBbg!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AUy1YQ37mUzooG_FdTD1j5GRjdbZu0xvvQ_bS5YM9X0BS__hd3MtUUFiLLNIfk9yxHcQj_9lvT0eP7L5mKBfQt1YfDS_pRNUOEA2mucq4dEh2htrSWnBU8ppGFGzvK_MvlSOAZtc_J-3kfG-2kWWGGkf2RA-7g1qSIuNjMIbcieluppJ7uNLl_PdlmObqju7TPp8miJX0Sibig6VOiXYbl_E607kiVc8e_ImEp0ahCOuPA6FouVGlAiONlDQw1TFVqGrS2WB-YzCqMCvV-2N1PR-Zdc5fCgLU3nfATtVkfFAG0xO4JTO4vEXME4kirArXRghjYL_wfRtwAtyoHlom9tziKKqTI0Q_xb7Po3cXEao0ayBz2-7OkyqjLw-zgzfDjBTJMnIU-5EuygtJk19CQmqNDjwU7MDNdwk1kLDchnVmbM7WQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Carol Rego
+        uri: https://maps.google.com/maps/contrib/108531436744470278826
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW2hY7OxdtgdaRvbFuOpNICqPKPuDmAM3ozCavv97mB4fhkmbZ8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbkpvpaQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbkpvpaQ!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AUy1YQ1rRJZvrCmSZ0pD2DcMR8myLvZCgD_-w1wNnsSlZTX95xRDa6U41tnHPRpi1k28Fym37NgtT9nmmQL-yQqBpvTCF96tTxkeoHZsoxv0dTIxg_pLdWX08FZTTOOVE1rU_FmY2Y6olOvXVGLJcmlaa_QEbvhrn3SmvNJW7FA7bcqPBrbFntPIL-ErAHuMYgdRuz_cEW18xgLViipWUSa2IbEoBZFpvp1v8FGHi5xbQKuzZrvk3j7ZYbvTu2NHStyycmZhsb-BLD8NuErPpNmP84TlDr1ImOg5oQF7M_mzYUoJCELzjHZP2x4FQ73n_rumY55BYUgCU55k3GaSVRpaKE4jI0XXVT17S9oZuyXVCfzAXfsN2F5rfKZBOBDVc0iErdnd-G0VpvkqUyDbWCvnvHBMwjfITdZxkLhlTUvTzYxrng
+    widthPx: 3024
+    heightPx: 3572
+    authorAttributions:
+      - displayName: Katze Love
+        uri: https://maps.google.com/maps/contrib/106480482517220401065
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1PNccsUXcInnck5X1ZrKFlJtif22NEJ95jPBSHlzJKDJ95f0riw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx5JP8fw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx5JP8fw!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+address: 2907 Providence Rd STE 101, Charlotte, NC 28211, USA
+street: 2907 Providence Rd STE 101
+city: Charlotte
+state: NC
+zip: '28211'
+country: USA
+neighborhood: Providence Park
+latitude: '35.171305'
+longitude: '-80.807536'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Omakase Experience Charlotte
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8!3e0
+  placeUri: https://maps.google.com/?cid=6493226441925233368
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x885421389ec71b5b:0x5a1c930bdd208ad8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x885421389ec71b5b:0x5a1c930bdd208ad8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x885421389ec71b5b:0x5a1c930bdd208ad8!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Omakase-Experience-Charlotte
+
+---

@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Bayridge Sushi"
+permalink: /new-york/brooklyn/bayridge-sushi.html
+stateAbbr: NY
+stateName: New York
+cityName: Brooklyn
+place_id: ChIJ29s96VZFwokRdHaE-Atft-E
+photos:
+  - name: >-
+      places/ChIJ29s96VZFwokRdHaE-Atft-E/photos/AeeoHcJ7RLhafUTSSSQ_EjTgpiiXyl_4WykZ-9y0GYHpglFezftZZhJ6WAB12BkuQy3vctgKWAgdsUo_c-WlpDzFtdGWwMsclnLBO26KF1vCU4nLEh73FbCubhvPojOubjYwbBWX9Ikt0K5VC_wXztJQIrW2D5vbHidbFMNfAUiuhBkaXcsb2aYKWHnn1oZOWBaCEkmv-Dqqh7dMw4gfN3mUbSXkmOM_AvnDVbe9_bx1SjsT8rvdtQF4N0EQsB7xM6DZlwgckceaBRoQP8j-C4TEiVQBMfB1FyuEwZkGxj0R3eXFoQ
+    widthPx: 3017
+    heightPx: 1696
+    authorAttributions:
+      - displayName: Bayridge Sushi
+        uri: https://maps.google.com/maps/contrib/106019176370316387594
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-UDR5GZO1hfedVIwivy-JDHx2_FuVMCRwLpTYBLm6onuFX3fl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMy-xA3rkrW8RRNsugZpBnNNIEYKugHgWPgPKUQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMy-xA3rkrW8RRNsugZpBnNNIEYKugHgWPgPKUQ!2e10!4m2!3m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+  - name: >-
+      places/ChIJ29s96VZFwokRdHaE-Atft-E/photos/AeeoHcIT7QavldnkwCNdEMHLvSO5Tl7kdGwd_-WnX4sapBWx04QIvVz-l5GGDQfTJbig7_kSY26SsG1ceEfWKDU5b6aEFvEbB4GegeWgn9RZxadEACvUojWj_GEGEv6IKsXd1E4u35k2JRs1indyI9Q3VKolol6cg07Tnz5WhacK5azSs8r6FcLhLcKUA4Ag_XGTIpHFq7OLG-av0Z7Hp9ZvikP3DMUQggNOBh2GW-AcWHWF7bHD6LRQrFaLadFaLPyPmW3o3uyDGF6qwk-4ZpFZyuwDcLTLmMR2to5QM9I1lQ7-rg
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Bayridge Sushi
+        uri: https://maps.google.com/maps/contrib/106019176370316387594
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-UDR5GZO1hfedVIwivy-JDHx2_FuVMCRwLpTYBLm6onuFX3fl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMZ0w_vDzB_rnLHC-j8xbdsOQJE37lIxCHcQOV6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMZ0w_vDzB_rnLHC-j8xbdsOQJE37lIxCHcQOV6!2e10!4m2!3m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+  - name: >-
+      places/ChIJ29s96VZFwokRdHaE-Atft-E/photos/AeeoHcItQuONdxiWNv7z2z1N2kaDuCmWO-s7Al6Mdw37jAM7V4gRf1RnI5LWSmXqj4i7J9RzDjPLXItfmf3pNmZkqZWkGpFD9V_R6oslZKc_q7nY65yhmkQkJl8wn0DboTOnyxbPzDwddHdJN3x_ZjDNnXRUknxszjQjrmikgoXqnekYMcCnSwlj2yAj1EqwolGmaf7upIcxo2-Blrq55TthgF8npl4U7g2XMVssrYR0_jZhxA5XVpWwT4_cGXfgCKOuGR4aQloCf5MnlSDLCxpiz-smbfvXC0IF7oXfgDWTrN6Wyrqw7oUnzuQJD3F-n7YEWM-ig7PctYu_O_2T6-zy4lKcncXS2NwepSdMnzqunHb9fYr-hJQdx4niNwB6ti9b1tfvBrltH8TdmecS8YRlyZdO1rKPaeUp__WcrTCGNx_HMg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Lollipop Riv
+        uri: https://maps.google.com/maps/contrib/109113651941696177594
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWV_hl_ChdR4Guq0YBKLDy5LQLNz7m_qZ8unoc24_uziV7REU_c=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQzJeFSQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQzJeFSQ!2e10!4m2!3m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+  - name: >-
+      places/ChIJ29s96VZFwokRdHaE-Atft-E/photos/AeeoHcIpmNp6u80Z-c06_9HYZeABohI9PiIglSMD01QlgXbpXYQRxc7OWS_xDiANraTck6HgmdAP58kJ0Ja6dhKfFbavrV77k_mVhFUAeyji4WxoyMTzk-Tx1lJ1vwoUmfIdUQTqar3c8Qs2ACsiuSataOs5mGPZtweaESw8pqPfrPd1bkeLk8FmHn2j2Q-hw3RiVTq4cypfhEIHmEUjf3Cclc3NBSYxpyIt7cX8lbK7o16S49qdSjW2GSvaByDSQw2F9pdNsFnwvEppkpmlvHlT4VI-pPGdp1_z6dR5sbtl8AV-vj6igKB0mgwiIR3jwewIiTtcwwFlZFDFZvwrh-0-HZDG9Va0z_l8VJdS1aSwWsmkGQ6tlTpwWSZ2VG_QcLLZz0fxCqYYIZhdV3HFXDfNXbrpdjbTuu7rzglZaMcxIjE
+    widthPx: 1643
+    heightPx: 814
+    authorAttributions:
+      - displayName: Sarah Chung
+        uri: https://maps.google.com/maps/contrib/104905329200401432551
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJQfFdi3L98iFhANWbSEljg2qNZjhv2XLXsYJnhgqkXmjM6kQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_gr34bg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_gr34bg!2e10!4m2!3m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+  - name: >-
+      places/ChIJ29s96VZFwokRdHaE-Atft-E/photos/AeeoHcJS_sHOpMeRscs2sdvDPT4L0dNP4tR22gcbxw5YPmWQJF6SAl-4jrJC43s0kGKi-gLk2TUSMkuYnfllyUIvhjr7TewWLwXMlWX-WfNraXDK4_Ye7EEHXK_3b6sBS5OhDel4TasxSQFWaAeCyDYLQOZc5s25dhFjMBcVp9EtX4EM6LovnLUHkgXmGOKzHZL3BCk9VTinYaBOZRS1FXlks8h6_lF3lv1rN9kQ4e1XIP1Ly-H4BCRy9zx8xC9if7AMyDvONMpCCwLm0ngmTDVRnJS6O5DWVKMxtKW00OpJ00trHjBA-E42V7e_tMWZ2TJ6ZLKqCQjChtlJWSv43NHZjCw9o6MRwb2Ky6sMkz-3dP_RFDwb956SKLuRmYRNvx7p8fMisVJFoZpaG9u2QVqRSzOB781rLGLWYcIWepPAkJQ
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: 謝承君
+        uri: https://maps.google.com/maps/contrib/105350240438164563184
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIBExp30ftEXFwzqh5sNBzSt9lVwpfB7rMMFChNM8hiG71kPQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzse3yVQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzse3yVQ!2e10!4m2!3m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+  - name: >-
+      places/ChIJ29s96VZFwokRdHaE-Atft-E/photos/AeeoHcLLPhqucI6YqwhMXSdW0SNx_Q5UhG2ofpkcLRGr_Dv5bVw00EuQu97itNrh5a-kqbuhq7mEMneLyDH9eAYdf5x7agXTIj_82UL8q6zJWujU3U6gHzF7SwHZ86AKJrSjLs_T6JC5LfbvI-606vnawhdHhCvobOtKuTOa25WYQLSdEK3DvRA_3UqYurHyRCqLe2fm5U5pFfxoYYZQU5sIyE26xSednowDqC4gin51gaGBC0nYtN4JGC2SI--LoW0VkOcp91aDxtImp5aIaHffvIiGwRLytu2jR0eGQnZfoM8bTA
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Bayridge Sushi
+        uri: https://maps.google.com/maps/contrib/106019176370316387594
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-UDR5GZO1hfedVIwivy-JDHx2_FuVMCRwLpTYBLm6onuFX3fl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO7sBi5EtCE7oVjamQEmKASgNZMItuw1lNj2LB-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO7sBi5EtCE7oVjamQEmKASgNZMItuw1lNj2LB-!2e10!4m2!3m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+  - name: >-
+      places/ChIJ29s96VZFwokRdHaE-Atft-E/photos/AeeoHcLLfD54r28VK3R9ICgfR9GowvUEBsUdwNaIfJE7Ze4fYT6ch5wJo3pPB-g9hGYRcZkILE8Wi489TPxTCatNYnoDsSnOixphPPu_yHrphVfpb2JektP4_dYVedQYwdGnW28Wdod4ynJJjK00EqfRcQSX1D_yhvlqNN_HG12c2ERds2Sihnbjbip_sPm_O-_9UjHneX7RwKdWd1C26hnkLtsnO4pOsPBcpjzdDv2aXiMEpnVkA59PE9rtT0jFfuEwVXBTeHr6QKWPDtH91yONFJQ-Wa3n0tysN4m2EsWKDx1UzA
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Bayridge Sushi
+        uri: https://maps.google.com/maps/contrib/106019176370316387594
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-UDR5GZO1hfedVIwivy-JDHx2_FuVMCRwLpTYBLm6onuFX3fl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMM3q2NLnqAppbVBetpO8Z0EgmRyKS1WhkS47Xl&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMM3q2NLnqAppbVBetpO8Z0EgmRyKS1WhkS47Xl!2e10!4m2!3m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+  - name: >-
+      places/ChIJ29s96VZFwokRdHaE-Atft-E/photos/AeeoHcIcpE7NOd_O2faeb18pDykD9edtLUYadK6htGCjh6CSDdFdUekf7pfth9kqB7QPawQwXSGPTxdYp2vxpzH4sZCMv4kAVyGjZtAf_5aKdclNvTtgb821XjLo_RjtFIeEfgZt-ObLig777NoY1yNWmmElxIK6Wj2P0vNgoUe1QQRdWFdYG_V2te3KF1RirDvUENJ_PczRQ4W4mCyn3i1xeFrQj97IDAK7mRS2N6ptNR6j0GJ06k0ktnUaUPqWwPLqePKqbWaATbEN0UxCZ4p3q2N4Hmh4aFFYaGyxHxyFU4zd4Q
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Bayridge Sushi
+        uri: https://maps.google.com/maps/contrib/106019176370316387594
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-UDR5GZO1hfedVIwivy-JDHx2_FuVMCRwLpTYBLm6onuFX3fl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMSySWwGP6Uv_nIXYhcYxyMryq5Z4pQPqe1q36J&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMSySWwGP6Uv_nIXYhcYxyMryq5Z4pQPqe1q36J!2e10!4m2!3m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+  - name: >-
+      places/ChIJ29s96VZFwokRdHaE-Atft-E/photos/AeeoHcJ5jfL5PfHYFDvC6QvMN8julfrBz0OAXEv4cZdME0bPMQyQd4liAYJhDZLpdhcCgu1K0TJ5NGraHAe5t4VnZSfpZkHBHsdEpMSwF0yf_lPr7lw1QSZsDBuZ4H3VcT6eJhFRc-RWtdXIyv3Y57Knq1JJEV7CaaVIkmQLQvvHk4CChCXWBkrQP9DAJjvrbXOnDsBVUPxx37tlheKUBMiYzLknpXQbhb_JnUWYQLddNYFSkbaNlYrYiuvlsVfSx_JvEIwtvN9sNLi4J-MkEyDgvrVwdhlC4NUqgDzoaDWQu2N3qQ
+    widthPx: 4800
+    heightPx: 4094
+    authorAttributions:
+      - displayName: Bayridge Sushi
+        uri: https://maps.google.com/maps/contrib/106019176370316387594
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-UDR5GZO1hfedVIwivy-JDHx2_FuVMCRwLpTYBLm6onuFX3fl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPestYs7ibZBim_8hraIqdphm_gSAiql-5d9I22&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPestYs7ibZBim_8hraIqdphm_gSAiql-5d9I22!2e10!4m2!3m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+  - name: >-
+      places/ChIJ29s96VZFwokRdHaE-Atft-E/photos/AeeoHcJL39rxp5eqUGw2a_C1r20a_bAVMsO4fepKbA3ESfMjhtQ2kXtaow6Lj6ZMiJTxhZn9kYrZHTl8uJRg1Nv5DpYknY_Hgz-9EUgniZPaBoloxQ_8F2oOhQKBwwkWF8EShiOKfAQQUeiIvB0QmbgRjj1fqsz2XnW4X7u27xk4sG4jCHm5RUfBkgLH-9b01lII50urpqL8LhqOE-PW5duIG_g00PmjnUS75pPVCzs9lqk_1CAwjj1MIHOgbRo10_ra6EXkxHFWPFfzIDLU4LiMBAcMfwNN7AsuDZr-zsXMtTjSRyI_uQOMBgR_mjJ249SyE8RryRF07TgpvMiokEmqED7FfipYCG1Fr5nxydcS9RVZQK2pJRFAw93DmdZLktVANpFn-zlWTPGVMkrISUA_7iGidR-jHPjuTmMzXRrHhKjTFY0B
+    widthPx: 4000
+    heightPx: 1848
+    authorAttributions:
+      - displayName: Yevgeniya Pechenaya
+        uri: https://maps.google.com/maps/contrib/109196501660269244762
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUfKwuFh-yv20MPNoZ-zudTJvbQ4sb7e2G42jcjcQC-NYU8_yI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9jqPdlQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9jqPdlQE!2e10!4m2!3m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+address: '6914 3rd Ave #1, Brooklyn, NY 11209, USA'
+street: '6914 3rd Ave #1'
+city: Brooklyn
+state: NY
+zip: '11209'
+country: USA
+neighborhood: Bay Ridge
+latitude: '40.635452'
+longitude: '-74.026364'
+accessibility_options:
+  wheelchairAccessibleParking: false
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Bayridge Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674!3e0
+  placeUri: https://maps.google.com/?cid=16264573084290545268
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: +1-718-491-0662
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Bayridge-Sushi
+
+---

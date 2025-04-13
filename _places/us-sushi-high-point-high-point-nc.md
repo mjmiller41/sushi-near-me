@@ -1,0 +1,212 @@
+---
+layout: place
+title: "US SUSHI（High Point)"
+permalink: /north-carolina/high-point/us-sushi-high-point.html
+stateAbbr: NC
+stateName: North Carolina
+cityName: High Point
+place_id: ChIJ943JjpsFU4gRqMaO4eyq-x4
+photos:
+  - name: >-
+      places/ChIJ943JjpsFU4gRqMaO4eyq-x4/photos/AUy1YQ2Lhy_8Kk4sdlZy3SPPNAmOHVrgqc8sdrd3ToLEPmYNJeXfxCuerjeknQlA-Sk2n845Y8oEzCrNBPeqLWGqPmeleDjTEPVu5ncVEeankLLUgy_dYoZ3IjfGZ6dnUUTfk2uR4aAwqD7XSm_EtEToKTkqlSZ10Y4Z3bu1Xo4iJQTsF2DzdD-sCol5d9BR19gjKa5SSD6TLErPXdHnjMWkpIyPvZ-fX6jgSdQIX0_NWtnTkDN1oOC22ZO_xW58E2etxfUtA1qNXtawMVuE8CIvTx1o4-nDZAXNAaeqRYe8_6gHXg
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: US SUSHI（High Point)
+        uri: https://maps.google.com/maps/contrib/103698565661355041002
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLhKCOUHH4Y00k_nm-4UpvMudQ91NXJ_ozBCs__ddOr5Kr_nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNPDoUW5x2gC0uDEAbV3AYsRfOwZ3B47AGeGXsR&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNPDoUW5x2gC0uDEAbV3AYsRfOwZ3B47AGeGXsR!2e10!4m2!3m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8
+  - name: >-
+      places/ChIJ943JjpsFU4gRqMaO4eyq-x4/photos/AUy1YQ2D2LxQ6hqlHENhCUzzNvF5iMVprNFGxSc6915na5P8Y-RqQSOfV1nkyMv1zmshYnb4H8quvrNTy-OODNMrb_hpxm-QYtj1w9gfd1lUWz5N9ZUCEZuwkHEqfzLfa1Nz0b8VY0eoEkQYoMSvbgJsnYysv9HbzDoFnfUJbPS9Qq4qYiuX37BZu0hVe-Y9zi7gXqQ_8OMYFVd6SvSwum0R24M85rlj-cJx7ewrvgNKQb-PSW5oq22IjJ1A3q7K7Fwm8lwE3gYcBEdb8IzvVc-o068l4Y5GK_oawQTTk9yMNYKMGQ
+    widthPx: 1290
+    heightPx: 727
+    authorAttributions:
+      - displayName: US SUSHI（High Point)
+        uri: https://maps.google.com/maps/contrib/103698565661355041002
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLhKCOUHH4Y00k_nm-4UpvMudQ91NXJ_ozBCs__ddOr5Kr_nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO9dCgvV6Em12aSjx_xnNDOm7mnGWICpzvLWVVw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO9dCgvV6Em12aSjx_xnNDOm7mnGWICpzvLWVVw!2e10!4m2!3m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8
+  - name: >-
+      places/ChIJ943JjpsFU4gRqMaO4eyq-x4/photos/AUy1YQ1OWy5kRJB47dbOLk5X9xVdOOXMspN9c5KHZpkTJHmfdMJbUZ75LuzCmwVNzgVQ3e-CRNM0_d2ruCsibeLpTWxl_ufYnUpISc9RHDxdTlE128ZT-6UbN4aIW5X0bDvw0VcNXlhsRL_84MWuPggJTYk6cVM3rPc-y2zQLfZoqnxVfbmNHKz6jV_YNAbr9mEQPXIXtULmOW_Fl3DOd6tKeuYi0GuE-6xQTDaKAX12-MFuWzphr0vFoXxhkuvx7kwhzpRKO2JAzFsK8sJFZGyL8lg2d-bQB6SngQHmZrnVo8va2g
+    widthPx: 1290
+    heightPx: 1587
+    authorAttributions:
+      - displayName: US SUSHI（High Point)
+        uri: https://maps.google.com/maps/contrib/103698565661355041002
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLhKCOUHH4Y00k_nm-4UpvMudQ91NXJ_ozBCs__ddOr5Kr_nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM5_jQHltbyeovRrOP9QAgrYOUBy68oZa97wg81&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5_jQHltbyeovRrOP9QAgrYOUBy68oZa97wg81!2e10!4m2!3m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8
+  - name: >-
+      places/ChIJ943JjpsFU4gRqMaO4eyq-x4/photos/AUy1YQ30TmFoXOp6pFwSnLtQFHLUo8dSaszdFMeEZytU_eMjm_Li9y467g1UuDBjn3shJY5tfbJA4PUT6c_M-uCRPqiMYw7w7EsLOqMy7FmxIea-p5XObPEKKrJWWzqDed6LuNK_AyhwFgPc83qGTHbZTsy_ANLalzFK2cUzb_nsJFsW5c5DdUfwPDtmWydwQaXmmMd2xg9nipQ1jGsxuxw3i8obSAjdfy3TusIkATzohktHYc60WeNdPp5d4kO3pdpt8bt_sW_bpPNyQtgmRa-5gWDLiYnCtRJlmRNNfTcxRRbhcA
+    widthPx: 4284
+    heightPx: 4779
+    authorAttributions:
+      - displayName: US SUSHI（High Point)
+        uri: https://maps.google.com/maps/contrib/103698565661355041002
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLhKCOUHH4Y00k_nm-4UpvMudQ91NXJ_ozBCs__ddOr5Kr_nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO0SlJo-axceyfd2mU-OkKk4CGq2mPP_IV_Pnyv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO0SlJo-axceyfd2mU-OkKk4CGq2mPP_IV_Pnyv!2e10!4m2!3m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8
+  - name: >-
+      places/ChIJ943JjpsFU4gRqMaO4eyq-x4/photos/AUy1YQ0UX1RToocNNDR3ozUl4TrZ8lEmBdhhxM8QSXnjRSIiZZpAz7YbLHPaXCi-fmfHZudJs3oTvzCA-SJJN8MWbzm79lj2hizpB9BORb_4cRDeca6kkSEvPrxfS3ZL_wZjjVuNMyhl10wC8rcGLrDuzr3J6WjDe0z9GUrhz20bdph6X7WE1GyN5IJ8rmENpYg7AeNfF7740SwiuF68-RZmKE1reJIAVGXrI8hgPkbKvUjlhTLe0HqAZy6EXqjYJMAiJMT8TZbvsUMnt-qsReQ3SsIh81eXhn8suPwcyioZBGoXKoJgbJpX8htDpgUbDTSwK4mCnSE7nF38htRzI-BWO_Lsop7irotReRiaMZltxhUhTjP7XbvV7g-0kraro78li9oivPYsEjPDo1nNVJ7RDsCgEllGeWCk1CeLMkASRd_Hbg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: David Danner
+        uri: https://maps.google.com/maps/contrib/100993757514686940482
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxvS-qyGhSnuWMPKF6vzw4sfpNGQkWQAvo8A5RiNu8nQkzHcK5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ-qf4ZA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ-qf4ZA!2e10!4m2!3m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8
+  - name: >-
+      places/ChIJ943JjpsFU4gRqMaO4eyq-x4/photos/AUy1YQ15KExLXOWfa1faNgGIs40XKnjDQHoQadGJmeyALfM4q-Vk8OGWUQ-_H4X95nHkZIjJeRnp6ZO6NKp1zQTRs34u3QS8ePiP3RoWYd6OL-AuBeM8raIy5064lVeMQN1zpc_W_Bz6n8G30hfA8qShFgt79bfU-93RhDmDcAcYopEfsX4afOenXnYiv5Esd06QFQywUWXbM-zt9UdrnJ3BSaONPtEqGZtSAL80JI5srCI8xodWNume6EkgSajLzSQh9qeVOk-GqS0PC0hT__5EVuL6-m4KS6E_QhO6vZsSxOh5_A
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: US SUSHI（High Point)
+        uri: https://maps.google.com/maps/contrib/103698565661355041002
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLhKCOUHH4Y00k_nm-4UpvMudQ91NXJ_ozBCs__ddOr5Kr_nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNwoLPRRixsfnCimWImfwgEQfCjmM8DLMTz7eQ2&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwoLPRRixsfnCimWImfwgEQfCjmM8DLMTz7eQ2!2e10!4m2!3m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8
+  - name: >-
+      places/ChIJ943JjpsFU4gRqMaO4eyq-x4/photos/AUy1YQ0vxKaxrLe5n57lotj7YFdlHg3LNtpqK9vb75pezj2pNKe1-FQWc9ovyTX1NXyGeeLID6yILfbq00K40dGF59iVoyLa15ffjt9ATvaKOsnOYpFmQfnf_Ec31_2FK0aAH8a1bX0dxLzy3Qx5g8NXkMiyGUgL0Stgmuy7DaFW_AoAwtqgY0wTJfzAWdvWZToHoblTuRJUFMF-iFGvocSz6S80gBP3n9FTuQ-Yg88w3Y52Dqo1rOj0A4Jz63fuEmkFQQpcPyGSLbNhhAT7V8iBqAKM9jD8tCN_uU6WkqO3wGn0wYG3aJrqZHyxQ73VtD5Hvstxgp1Hja5aaj91blfHpAmUhz7LOI60tPKh4_aDdaTUZy6cD6_hMwcHVz9hyK0MDgI9lr9uxnPZkamPGkoVWJ9OpM7lDeEy8bVMRsI7ZUY_RabN
+    widthPx: 1284
+    heightPx: 1328
+    authorAttributions:
+      - displayName: Chanel McCullough
+        uri: https://maps.google.com/maps/contrib/105894087668084171721
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLf-6GftIymTrJPsJjMZBJEYcfJNC7TGOoOdfwjptCfBG3hTQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ97HY7AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ97HY7AE!2e10!4m2!3m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8
+  - name: >-
+      places/ChIJ943JjpsFU4gRqMaO4eyq-x4/photos/AUy1YQ017pb2h2ZQYulbpxF8vVOybhBLx8_uGtnReIe5ytrd7ddbP8hJM2TdZ9Vm9dTTlefmJiy1aBkIuFCTELlSBcVcsuNVvu5uIRqsnk7fZu7IS9nmN3i5_Oq5Rjpo6oBeFObW7nOWCR2NYBHT0wrkwCuTo68g-ZHmpjYLtfj_Kr0QMzbqO26uMEEdYhVKBIc16PpGH0jobx528rTd_l3UNOV5kLEIs00rREwDnGGhQqJQjpYtLJhy9tWRoCEaTySEBx7niMKC_feguhOi96FvVIbD5nISNBpFOqAfGMBOxgrmCQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: US SUSHI（High Point)
+        uri: https://maps.google.com/maps/contrib/103698565661355041002
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLhKCOUHH4Y00k_nm-4UpvMudQ91NXJ_ozBCs__ddOr5Kr_nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNhqxMMbCLnIN2u8ihcgCgUWQ5df4beY8-iGvyt&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNhqxMMbCLnIN2u8ihcgCgUWQ5df4beY8-iGvyt!2e10!4m2!3m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8
+  - name: >-
+      places/ChIJ943JjpsFU4gRqMaO4eyq-x4/photos/AUy1YQ0gBpeV9Rq8S3o0BIaERsJn2gOsil8GHJyFiKBiaCdebsWaR6wP9B9D7sRukQ92OxKZOE_G2UMwsq2vXMXzcYqN8A6XmorajzLeQa8FNuxWf0cT1ROlEjsYlJOE2H_RwkZ-4xp80OrDopgz3EPJCjmDeAvNYtWXmpvOi-isjyz6OVabhEZ3L0cHrekMMyUgjBpjfoqcMFXer6pHkgJZ2xSxldhsI4K6U8k0rY_tVxwqZssJytrRACAVg6TXXzjDPp5Le-R64WW12Iy53v_fkkXwtH_f_wWRQgRl163wifBK7w
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: US SUSHI（High Point)
+        uri: https://maps.google.com/maps/contrib/103698565661355041002
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLhKCOUHH4Y00k_nm-4UpvMudQ91NXJ_ozBCs__ddOr5Kr_nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOfYpjK9G3d5ZjI_2hmDk0Na8lNjftprqBjrT6S&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOfYpjK9G3d5ZjI_2hmDk0Na8lNjftprqBjrT6S!2e10!4m2!3m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8
+  - name: >-
+      places/ChIJ943JjpsFU4gRqMaO4eyq-x4/photos/AUy1YQ08_sXyx-Tg7HtzS4gW3SfNBzUnM8t4ETa53tp6bx2hlIYfYmF6JQMbs2t4qevpSkTWbU8C2CJxxIbY54BkAVShiNXRnWYHPxdccXtYZBxYweLeitzLXVufLqyHgWZMH5vLlebmMHHddkihcJ3RSPTqqxqjO9teBRekqopQHBn0MO1Nh8OLuwGMfacTCxAIHM2ncj0j1a-jBG6ZXcyEsh2hWeBSl7gmlhCAL2nNJAnR6Zb1NvfHnlovpUSiaPLeTCA87cHKbm_WMCxWzfzb61iA3k8PP4XBIkwqVSDstB_Hlg
+    widthPx: 1052
+    heightPx: 1045
+    authorAttributions:
+      - displayName: US SUSHI（High Point)
+        uri: https://maps.google.com/maps/contrib/103698565661355041002
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLhKCOUHH4Y00k_nm-4UpvMudQ91NXJ_ozBCs__ddOr5Kr_nA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOOy5gl2GZMG5FQ0-PKHxiC8t7Z2IwBpcDHwHRo&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOOy5gl2GZMG5FQ0-PKHxiC8t7Z2IwBpcDHwHRo!2e10!4m2!3m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8
+address: '2531 Eastchester Dr #113, High Point, NC 27265, USA'
+street: '2531 Eastchester Dr #113'
+city: High Point
+state: NC
+zip: '27265'
+country: USA
+neighborhood: null
+latitude: '36.030577'
+longitude: '-79.969633'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: US SUSHI（High Point)
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8!3e0
+  placeUri: https://maps.google.com/?cid=2232565974665447080
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: US-SUSHI-High-Point
+
+---

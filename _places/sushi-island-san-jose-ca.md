@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Island"
+permalink: /california/san-jose/sushi-island.html
+stateAbbr: CA
+stateName: California
+cityName: San Jose
+place_id: ChIJd5S4W6s1joARE51FdFCKIUY
+photos:
+  - name: >-
+      places/ChIJd5S4W6s1joARE51FdFCKIUY/photos/AUy1YQ1V3RmwgbJSUqnz0zWzPlh2bYkpzLBWZ9BeRNouAlLW9AlYiJRd64FHAemizZwhHrs6iGdXTyKOTxUuDqAIk4N02bBi95HV2ZLB702gvBRlEoCBOHKo_DusW_wFa1jvlC3rbB-KHo3H7bHr8Y5wYr9Gtxc7xyaaaBRUfiwVcyxlmGqrZIE4N_Z6pqSHwSCRdm1pvpRmVfDk9VZ9dWqAAykR6vh2sPovlAnPNZOKZ1q2AJ3SGqgehNYZVs4bl1yYcfgtwheFdgOoD9FUeIw0Ty8cL2mB50NaIGYBCY_fYA-7l_hVjlKY7SaXQAA6_R3ZMMKl_S3xVYemFr8l_x5VlEUz_3lSgb8ICWs_Y-lLGMNSgKIrp6AKvHz0N_PrEs4XZoBkj_sZg1elep4EFsnYw-H7SUq13IPamPntq3xtqNCe0VLr
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Ashley Canak
+        uri: https://maps.google.com/maps/contrib/104955220244176940100
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVuibVvZzY5tYNUaQzJZo44vhzoLHjeT6QwmmO2SOuKGMEpVcgm=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZ7rGovgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ7rGovgE!2e10!4m2!3m1!1s0x808e35ab5bb89477:0x46218a5074459d13
+  - name: >-
+      places/ChIJd5S4W6s1joARE51FdFCKIUY/photos/AUy1YQ3gCoN5KHgg64IW7bE9WiqhgdwtscKH1UP1pOwDoIUQZt3G6mlT1UDxhlVKOQFmezd5VXTeEl0DUPhotrYlNre4tKEQ_gFoo06e_cuAqL0dg5OiyQypax9ONKXtDQ5UctQn79pcppcxQ1gfsi-i7XFPAOYk-N-A-pfTH2YgwbH9k1zJ7x0XsKRCcouZ49zipnXRmJds381SkVVrVv_pRnY9S7wFWju6edlVEoE1wsiDFt8GFJ8iYA2YsTH530bgLqpLvIj7Z4HVZvrAWJ4LztLoXZGtXbFD5o-OepL1C_I3c22_q5tQmEzWuRyP9oS4uv-u7_EOk8HR_DH_-BxbBc9LTN1IfD0SFaE9IEkramQAfpEK_UITwjk8cj4kN0AHxSNQtbCNQZi_Y0y-HzoMfaqr0P2X-pyTj9QE7SZZgTFSOw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Karina M
+        uri: https://maps.google.com/maps/contrib/104942769544699882107
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX35Vur2I3o4rzqT9o6_TIynwpBjD1jLX8Otg3-rUCHIxXf_-xUXA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD7-ScJA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD7-ScJA!2e10!4m2!3m1!1s0x808e35ab5bb89477:0x46218a5074459d13
+  - name: >-
+      places/ChIJd5S4W6s1joARE51FdFCKIUY/photos/AUy1YQ1kLccK_yrqeJUustA8l8pjZTrpCdAtveLbMdtztB1KWu__5scrSzLedhkiPukYWIlbJReD__kox3CPyAzvRgrGyKsGR9nlXiFIMxxDnZxMn9FwXBr_53HFU85qy1hNzD4_9MOvgtd81h1uD10pPTkfxA_f5eltmh9rukYkAFR9qlWzAuvFWz53oqvWvvnDQTv6jeZyXWqRWF21s4FSabvh1CPG8DN-lOzd4lErfri2uZw6jdJP7Z3EY0SMWs-EDICDTuSUIPM_5toYU1y94QwqANPehCR9JDLZOBbplf_dCdFkev5KDm4PnYvOL-dSmq_aMSA_bNeAjKcuRawfoAbCE6W7XN8xWguAhCH4kpUZLg1bdpaewRCEIowH2y_aWAD5DXO6VBPfKkHycPWFH90ENATvlsSamsyVMwyYbkE8gYY
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Ashley Canak
+        uri: https://maps.google.com/maps/contrib/104955220244176940100
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVuibVvZzY5tYNUaQzJZo44vhzoLHjeT6QwmmO2SOuKGMEpVcgm=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZ7rGkvQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ7rGkvQE!2e10!4m2!3m1!1s0x808e35ab5bb89477:0x46218a5074459d13
+  - name: >-
+      places/ChIJd5S4W6s1joARE51FdFCKIUY/photos/AUy1YQ3bAqSegbhj2IUwkGutD-ZUJVp5MqUOSqzePgj2Jaz_U7TR8jqL2CHnIiH15A07m5STXBMOoHzvaEL8uL7m58C2AMVOPcvP8AsNit1zsEQRw31vJfX0CQo4ruF-lNjss2yIAJ6VuCE0jtuoJ1XOrbMD88tis3zYDcwRuR2RcFamLDb2iamI5RQ8Oo228P1uePWxm4VUnozAzuFk5MoFchVKN9JAjJA8gMCEnVxMqP5EeaLDcw14PzOXgt2khdVOdydNeMNLbVNI323ctYuSFCiYB0XoO9aQiypcfxm50P0KS-RPBC_KL_Sx1DgZceAzIqUESYo0J7jW3BlszXEe9ul82625wKGHXQV49J7At5fyh48iTZv11ZhDnHEEgi1ztyacs4yzK1p15PZhDgfTZff8HJ3xoK0zduEyhSsnANH3RSLE
+    widthPx: 510
+    heightPx: 520
+    authorAttributions:
+      - displayName: Thusitha Lakshan
+        uri: https://maps.google.com/maps/contrib/113358357457909547282
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKRdqb7SWR-wq_3gTq1ipJt_8u-XaqZJVihSz8X5-BjqhHI1w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7uNDX3gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7uNDX3gE!2e10!4m2!3m1!1s0x808e35ab5bb89477:0x46218a5074459d13
+  - name: >-
+      places/ChIJd5S4W6s1joARE51FdFCKIUY/photos/AUy1YQ1cc_Za5wuqPAITHoKuslA7djv3hcI-XX-bc3pCGPzDmoEE5jDvDhXgzmXe5gqOpxXu90SfnAi-NRiRQt4nhrl38Ef527tNYtDs5mrQm4fPgbkCTD_frxvRFjMfubm5YFRKi0tVVnaO6M5Qp-eYN8JyYdz3mN4B25LywfPWCWJpRM2LkIp019ZLVGiS1RYs_bfQIj5_BNqeJnK2Fn1j8aF3gD0-9P3q5yj7Whmq8XYaMFzo-fdxaa06iJgpXI60-3s5UmWZi7WPz0b1Qxnz61hef2E2lJQlJRQYEnRQGE8lCMuqZt0foNpMPCGyzmDJF26bke4vHLaZd9NfOrchirzFj_zLEuNiajFq8_f3IUpMJk948mv_KvHT6x_xvui8EMetghMsHbiRA9Zmm6OyDC2XMsPcMESLaG0XGUtv4SL72ns
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Leo Su
+        uri: https://maps.google.com/maps/contrib/101770973772633393614
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVDhPCthZ_Ewr5X00mywsRq_58A4P7o3e10GLEf4hAtZX50LektjQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7teCo9QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7teCo9QE!2e10!4m2!3m1!1s0x808e35ab5bb89477:0x46218a5074459d13
+  - name: >-
+      places/ChIJd5S4W6s1joARE51FdFCKIUY/photos/AUy1YQ2IBQMMiVs47ZHI49Y5CZGpvWOoFjKAzFpCQb9cw3BMGLT2wy0VZfaEnDIWZl7YVe2x18uIsxiowIGPvgcc78y95WcEWvVOXu9tfIsvHJp1RbZySIw7uU2N8pybnhRnUAR7yC3UE4U7sxkM7nbDnnHv3_QW4FTC9wTgUuZNz6h2bWNdB-hSsS9Cf_DgXUUw_KbFlEV-vGxGgSWiblXrqL0RD4OARvyknn8xrbo5BLqqh40zCEo3_Oeh0V6C3r8MemUdMeRxrbm7MiiGVPRsrSLHgI3MjeqpNjh0sxvZyBUZ-asiauoz_BAU_y8tts-sdvfUMAFlg-uymrcLYAqancUaNdcYMkyJKZGWLr4CLJSfabktRUVzdlVvJRqrzJK-BcpU8yqGRCr4a6bVDHH4vVFvg15x97krckz4_cGPg9a0Sy08
+    widthPx: 483
+    heightPx: 395
+    authorAttributions:
+      - displayName: Thusitha Lakshan
+        uri: https://maps.google.com/maps/contrib/113358357457909547282
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKRdqb7SWR-wq_3gTq1ipJt_8u-XaqZJVihSz8X5-BjqhHI1w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7uNDXvgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7uNDXvgE!2e10!4m2!3m1!1s0x808e35ab5bb89477:0x46218a5074459d13
+  - name: >-
+      places/ChIJd5S4W6s1joARE51FdFCKIUY/photos/AUy1YQ3uPkip8Kk4GjUu2pJfE8FHH98kwkP0qwjDbC1cdGmf0ZTXR9d7CKOMJqDESqtmWhQtm-K7x7K_BVZOAyiC9Ed2CMHm4czu2uuu8h97aLMOpyefO-DEmQpoOHRy7IpI9lBDUV1fga_m2ToGWnvnLsyM2nW5cYmjT04IRreopTGNrR262ra9jwh2Y3_V3FAI1QmemJcrOirelvVzQTx5809PUdI5B4eJ_6AkGLZrI0ABwkt1S-P_bnUDbpVRCYjoZLoOjtV5FRfMQCRKqT046AJxtYWx2Z3Bqqb-h39diTVL7lbKFtyyQj-ChuoerU32PmCExWhgJti_pbE_x3zNHRp3OaBKGglnpXw1Z_hg2W8raTzkRkedMKCXaTvkD_quLX01bLhB4HhXRRsC787KY6jytj2AS_RMRGaA7DMl2pqyTg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Karina M
+        uri: https://maps.google.com/maps/contrib/104942769544699882107
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX35Vur2I3o4rzqT9o6_TIynwpBjD1jLX8Otg3-rUCHIxXf_-xUXA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD7-CSDg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD7-CSDg!2e10!4m2!3m1!1s0x808e35ab5bb89477:0x46218a5074459d13
+  - name: >-
+      places/ChIJd5S4W6s1joARE51FdFCKIUY/photos/AUy1YQ3dNvwsjA4CpyouON2iOIDRddHPg5fz15UtHKVMrz4-1AvqRszK8bEhUeEmfXBbr7Siip0BXgo9Zy_Nm2VUeZMOlx0SlnvwIsfJ-kuwzOp8p4UHa5w5J0vcx4hPDIgKP88yVWw_i69P2a94eJYcDISFuCvdynSTPG8It2BpQycPk_h1w4oL-vNWPJIztwEvfBgcbyYpxsO_4wyOSPEx5cVzW0GU3Lf7gOvUCWy28LpQuIkinOp9NeS-xD7uAjF4yxrMkYFo4HmxZttYHhqVKerSJSL3zMRvdGWP_rzw0q1GN6tVAuMnLqPcFUM9Hc0zkfVV5TzCQfcDBQ7EFWdk8zb2P5UWv7yVJsDZfnncCoG1wwQTh4x3k0NuE1_XUY_0_EQYWek6ZDbN1tIMQAWIartIuMnyLHLTutH569GCWjs7aw
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Sophie Wu
+        uri: https://maps.google.com/maps/contrib/105209282414965662543
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJyf8miHEicas0FROlf-_W8mxsp-TF-x6qfmmSDpu8wiT0pqA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj5tzkWA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj5tzkWA!2e10!4m2!3m1!1s0x808e35ab5bb89477:0x46218a5074459d13
+  - name: >-
+      places/ChIJd5S4W6s1joARE51FdFCKIUY/photos/AUy1YQ2_yLsrY4rngLUmHarRKLOENA402b29BdaB0K0OQCqb_m46IvuMVVYlHo08SMVS-b_w5611G-lXUBK-sUJlTVaMgG5n_fDkYK455BU4NLl78s0_FiI9NqWudDAme9wVuexhpSynyQtzHa2E6YiYDbviDprf0nZQ0ePexBPUL8f5jT8BwWl4lk4Mchl60GyYHE3J8bf3vA_MI4jM7Qqz1RH35LLIN-Znw6CMd24604Er7OND4amds5QV2O_GlPIsEnOJzieEBlerju8tj3MPV4Y4BNwEqNpUiqc5trrDnCiGD3-vVKGbTIuld6VE0D8dZ7-NX-ctSNu1NXjmhX-eRD2u1yK_u1kWPvIruGiQJgCLOWEUI3Adg6GrX0rMZnDiRXGiNSu5HfpgpUB1iVJXyOw9QITwsAH8V7C7Ipjr4maK_KtI
+    widthPx: 1210
+    heightPx: 1153
+    authorAttributions:
+      - displayName: Z Jenny
+        uri: https://maps.google.com/maps/contrib/105562551598011063867
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUXS9HcWB7AbKBhEUFoUts-Ib5Mmrs0qvnkMFfP5P04AfPONgY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpy6al2gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpy6al2gE!2e10!4m2!3m1!1s0x808e35ab5bb89477:0x46218a5074459d13
+  - name: >-
+      places/ChIJd5S4W6s1joARE51FdFCKIUY/photos/AUy1YQ24KlAF8hSv5gpi2ubh-xz7-V3u5_C7o-6bONsqKNCtCAMrV2ulm4TDmyy9vt3aS31IA2M5jyqwpASqhwIBiLEAFrioOM_TJCFq5maNkUcSXqRZDwRGELekV489bCcZz2CVDv4jpS9OSmqOWPwZV4ZTUGcP4I7J212JdEs6rgTBgUb0iYpqegRB5-GKypSK_uX2RhUfxa__Vsn9SIdftA9efSgY5FEZHGWIs4s7WQvarWVaKrWMNfYxoQ6Atg9Q9MrQo0D4uy6PjHocmxeIx1ZDiJ9K3HC5lEnWgdJQat3_gptG9L1mBm6ZrTno5CDj47xesOuVtPPNNR8hXWUeqW-UVqUqwDn5_-iVYrvg58-_3A2EFAl3DGZog47FkOMzYAV7-1HjICs0J8vH1D2dEjr7av8h-OVSBzK6hLTL6rm6ptMq
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: David Dinh
+        uri: https://maps.google.com/maps/contrib/100537071872493627685
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVl17glFEA1UZ4lLdM9v5CQEhzN92XFEZhGki04rOOBjtrFO0B4iA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHprDavwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHprDavwE!2e10!4m2!3m1!1s0x808e35ab5bb89477:0x46218a5074459d13
+address: 1711 Branham Ln A6, San Jose, CA 95118, USA
+street: 1711 Branham Ln A6
+city: San Jose
+state: CA
+zip: '95118'
+country: USA
+neighborhood: Branham
+latitude: '37.252160'
+longitude: '-121.909856'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Island
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808e35ab5bb89477:0x46218a5074459d13!3e0
+  placeUri: https://maps.google.com/?cid=5053472335039143187
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e35ab5bb89477:0x46218a5074459d13!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808e35ab5bb89477:0x46218a5074459d13!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e35ab5bb89477:0x46218a5074459d13!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Island
+
+---

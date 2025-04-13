@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sumo Sushi & Hibachi"
+permalink: /texas/midland/sumo-sushi-hibachi.html
+stateAbbr: TX
+stateName: Texas
+cityName: Midland
+place_id: ChIJW7alNi7Z-4YRQqheJ1I2Yls
+photos:
+  - name: >-
+      places/ChIJW7alNi7Z-4YRQqheJ1I2Yls/photos/AeeoHcIHiBlNhJ_bh8jtv47r11fwNblLAVWnqfhuJpQ5MFuTW-H5pDZbxuC107H8q9Rz6NHBFecCWioBxlFe2jrkzxtautnNz8--n3hqrYNrwa9SW_VZcyotCWVKhk78Noj3Aaq0KlBMx-o3o8dFXnaQ8C4mhiGL5sm7qKTKPnSJYARJHKW7W5zhsFMSBtOIpB6IKhJOPOMleJ3Hmm2aX_tRmF9JkaETJmzIInBSRAz3hxU37HTX3RC8vWjVjekHNOxDwdoLXbiz30oiqRJjt_PMIdCJdhdkY_Gov4czudGOF4Mfyg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sumo Sushi & Hibachi
+        uri: https://maps.google.com/maps/contrib/113187892240860608123
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXfykSoAn3LciQ-X1JLRt1YruyJf0GnjEuLxYPrG3XIgKK3Vnhf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMLVXJD3jCRQi-pXjtYIgRkIhql45V1wo3QYkQv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMLVXJD3jCRQi-pXjtYIgRkIhql45V1wo3QYkQv!2e10!4m2!3m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842
+  - name: >-
+      places/ChIJW7alNi7Z-4YRQqheJ1I2Yls/photos/AeeoHcJf15kUO05t1UIp0JyoQKKzQPIUPKzyR0owgyRblXd_JhkG-bzmUMfeMTjIo91pSR4M2Lk_99SVnNopcj5vo9oVICNFs3trSxBbn1KTgOKPgNLHepoFX52lJDrcc3r176Z6jV00CIqdlORZrpkGQYMC6hrIDpby32rDxcMs4umOAATA5dG20ZmsWzy84BI52qUNM2sUf5v9jB1eyAst940aHwg_J04D2-9fHxqXNxIk1L8qPORkGUfchOaDsCKs2KCI5p5GFGIphhiW-QX8Wx2TlgayqSKpL7MEJgeAO2nryg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sumo Sushi & Hibachi
+        uri: https://maps.google.com/maps/contrib/113187892240860608123
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXfykSoAn3LciQ-X1JLRt1YruyJf0GnjEuLxYPrG3XIgKK3Vnhf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO72Mqsspy1O0GKhymGopfAeAmBa8OpZVQcCNjz&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO72Mqsspy1O0GKhymGopfAeAmBa8OpZVQcCNjz!2e10!4m2!3m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842
+  - name: >-
+      places/ChIJW7alNi7Z-4YRQqheJ1I2Yls/photos/AeeoHcIMy7xLevfCg048usNcmai3GC0D2lIjgrXWOlC0Dclai4fxtbJTl64XT-q7Aeo_dO-uUf3NbS-lOlhCyuN_R_OoJAkPpLDML6Ui0e_d9ZDMCTc9edVlhAKNMxIzeKDO_LhMY43TjeQ4ZokC3E5XTtHrNqgaFWxRiViFys3aMacYwPOPC5c-Vz46KUYa0pEb6j-QX4_huSA086EJprzbWnab0eZBONaILO7A6PGX4WkxG1qq4uqKsd526WuAspIqeqsvxK15d2xg6D-QQAMV7PmDpdej99jxZu3Iy-UICqPLUEELkBxA06dzGVyzmLhKiPAyKl9vF7J6b00uyugjzMnGypowvktiIS6yzdbgo_0fBHTjlCZIRkWz9jDa95sjjd4QHYE4hEmfQii8bpwo70ai6dB-N5M8LQ2br7HRKGsiVnX-
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Nelson Barber
+        uri: https://maps.google.com/maps/contrib/102155371307508003918
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKQ9rjwhk8c_DoCceArW8z3qwZOu3UHWsTJndUOe-_xMgepAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDft-XihAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDft-XihAE!2e10!4m2!3m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842
+  - name: >-
+      places/ChIJW7alNi7Z-4YRQqheJ1I2Yls/photos/AeeoHcJ42pkItDXJInMkz_gowpdpoRLg1Yi_rBwsdn3EatpLVbp155riqs-T_q7KZw-5O2yQJ3c9gTTIvF8cUMb7xD_L9ixN9zKUaC1zzOzc_0D9ooBxfO6h8yMhJWZ1o_a669oo1lHvAbSECBBbVFAoM0znlHxcRfAlhmRU7e_U9w78BcXDEzLFZN4CJzh8_KUAQachiTNNObyzBdXnWH8VKkk2xBz6BIdYePleL5bK9iEApKlG6kh9N2znSefm4rc5ufu-AiOGusZ1hppa4UMBZnr_iECYw5v4wEZeAn6p4B5poTfYFyC3HNx1d3yBThtuZa5L0u9t3aLhzvM4KgcB1t6sV60qcxptX2yQm3k_V5Hzw5WEYaxt5RO2NE3GQ4SRanYaCfigpN2Y8bXSF2CqryEa0uFlpE5wCwmfhKLl2BfJlLSg
+    widthPx: 3599
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Samantha Wins
+        uri: https://maps.google.com/maps/contrib/103392828388455509167
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtzZXSQ5hc3ektBW7Eo1LVj1Fli-TBxyGoPCxm6hmfAjamsOpG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqzLXOoAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqzLXOoAE!2e10!4m2!3m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842
+  - name: >-
+      places/ChIJW7alNi7Z-4YRQqheJ1I2Yls/photos/AeeoHcItPkFgZxQn8nshdf7IB50phL01k19s8UEdeO2kUOW-QsQwZIegXqoOBHC6TkM0XQcaPl5oC0nPuRNaLUU-iVI_ohxOe6pw30119k9mQdRP3yTrOwWD3oNjT7N-EnNDc-ZhhKYDo2QmzT1chTLg6UfOyPC4aDiLtblLUL9wUIx9L9PdfXlTaG3-c5uDN7oo2co34QQAsZR8A6vP5uQdaUcvXowIxZhYvrWEbYHo4h7pZbX3p4CVOxanuGl9Zr2PaFLuXLSLUtumi0pwBNg8jStD65YYsBPb72xsAmAQqyefKoyKvg5DX8ro1R3czVgjr3z_xAwVomJFlgI5VuIZMDYuNiEP8uOKxGA1EmdW7WNStEKZWxGcdFTZxbNH57MbFSjYDx0IcMPhd9YnBLF3ud9BYH5CONCcdMFsojxa_bIDmw
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: B Nonya
+        uri: https://maps.google.com/maps/contrib/105392114056167355798
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXFnXwII4FsPUROZPH5f9QYp3dL05cIrNHGEO-MnnP-jq60HgCP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP1IqMTQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP1IqMTQ!2e10!4m2!3m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842
+  - name: >-
+      places/ChIJW7alNi7Z-4YRQqheJ1I2Yls/photos/AeeoHcIpb9lVvw9CPptG-LKz4fo6DGezGB_PZOd_TPbjGYzcoTyZgOygpEUUSOypTcOB8Vb5JcKSq0RxJD_kAPAgxgtBjJM5pAzPWYucvSZTUDLM9y2XGMYHscFv5XGhasyAVUSgL945LnulCjoTlJb3CXNWvaAiqY3BTMl5J3d68vxZGb7PDYW36UzDqTKU3pHs68l19EkM7_3vYsz1T0Q4fiZDBYs5La-rX6518RDlEpk_ycdcicRpDYD445WJEB_KW2bh-FseUPhH5vhEw0ACfkICo8EpNpFRuTizNIsoc2-cpWkvgHHW0OcR_pjgwhMliaV2c57hbTg2Y1RG1DxR7A4HHi5rza-JM38wLjtQyT_VdMjJLCNoKD_d5iO_W_oZDQdP2kRXIfywfuw5pEs_4ND5SCWSVittoDXVISGD5Zeovg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Chiminito Tapia
+        uri: https://maps.google.com/maps/contrib/114803400020698191494
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK0pmkYDA2gUIboxa3kV2Hq97m83dGWu6BmEmRC4VxNHzE1Ng=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDT3qTZIw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT3qTZIw!2e10!4m2!3m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842
+  - name: >-
+      places/ChIJW7alNi7Z-4YRQqheJ1I2Yls/photos/AeeoHcLtxZO4WOH_-zXj-A9fQ8tF8QkUH5LYtKTUilBDAkl6dCRIKsKZmLVEJ9JExI64ecNUkDAgrZp0AqJ39Ju-MlQs_e7qEjGuMt16Kqx7aD4xk5SAJtUZniLzPcI2rNckFqx7ut8FAlJa92ZQH9RFXd1xl5N-YGCUJjdqBJgCQ2fWWuO8vB4dgm_l1R3OcXDseToa9tC1kA3TXFGUDOjAgEFLIjwPaMW6_mLd2GqFPnhzooFuCHsEsvrbBFfOFuvIIJmSAEYZe5QxeNrbP8YZrVLH_dEiwh36arHSXI468wrm_61keLqaKQ1-iDSbCRJiHXVGHJWfuaav05LEhQB2PXbXjUOpOT3RXTjBi9xGfw0DxM5EDCZ7MXuGe4ila3jHvdAPztFJ4OCzee94goR815FggyStrqPNftfke8f0AX6suA
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Ashley Hooper
+        uri: https://maps.google.com/maps/contrib/113279373049078346787
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWjoQyjxDfjBnbD-47S31kQfuD7YVmblhypT3kLPIcEdTKvfbY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICl1_axDg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl1_axDg!2e10!4m2!3m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842
+  - name: >-
+      places/ChIJW7alNi7Z-4YRQqheJ1I2Yls/photos/AeeoHcI4VDa9qflKK2fzdRpPM6FTGRv-DdTocKkncaXVDHl2Z4pq_OCWtP3-Kvri4_-238BwbI7_CotMgt3U5pPDOdEBj4gmYC9tg6soKaUNaxLFaWugphORHV6vDka-ien6tjOUskskMarLkgtLgNp93aDnURcz4tG93W6-1xv6DJD993Kbz4hOYBZQCsZaQpI62ej8KGycL9BeUs7qhTD_zxgwy8M-_QTPgCanQWoGnz37Dbyec16x9XldpqKvlb8_tjoNnAFWOx7Igdm3BcuJNMC_hsjTVq1KX_X4WJjNV351EVqQPaVF3jfT-0xouyQpIlTpft_E5IKtfMd_YpoEoD-n3-9Nr5ZWti9SHqcFRQYT5i_SDDVkW6QCzjTZza4V8ztDw8UG_slSaRLBun5uFdmL2aki_AkWqLkQfI2nWq-dnC9u
+    widthPx: 3024
+    heightPx: 2067
+    authorAttributions:
+      - displayName: Des Mora
+        uri: https://maps.google.com/maps/contrib/116422497802094735440
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIEabxJN6e41zY0AE0kkbfNu5GM9_dmDQbg028rZlys4jbXJTQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe8pOe5gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe8pOe5gE!2e10!4m2!3m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842
+  - name: >-
+      places/ChIJW7alNi7Z-4YRQqheJ1I2Yls/photos/AeeoHcL3IeGx_iBTptrYdKaNLzurMXgtR7LZCXeVMPtp3mfW4aHbnknJQeXfGn1Pi9_lT_se67ZdLeD9H1DRISI1SGcw_fu9iFyJV27PSz3mkWhXoNjn7vHUTnXVWYlQtAOkSiE6wJv1lxawuh3Nzcld4gVXP06pzZMrNshHOZyngKs854h6y-6Os5QNGX-E-ruqoAoanVkwumNfmoQuUwtlG_oMTckxee3pQ_eaUvMWVs3Uhrh_Upr3sWSTCQ1UopB0U4sFskjy1Pwjb8-q7KjoDk3puGlYcaisPVMEV7Gu0CImBMqElhTaEf-XQJU4tDiyyLZJjqIhdcNcjSpV9GHXsYXg4jpgaRBS9h7YYus_SbPfxGzXcS661K53xeiehKqJJ-5wP7-Wkz0mUsC9rYwo0DSvUZhBI0IgZbrJPS0YKcZPaAXz
+    widthPx: 1189
+    heightPx: 934
+    authorAttributions:
+      - displayName: Brandon & Rebekah
+        uri: https://maps.google.com/maps/contrib/100762752823421551487
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLcr4WWwAoLSBLrfoF58R-Z_aU0bRsyINLUhdZYhcF_v9c4TA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC1po6H4wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1po6H4wE!2e10!4m2!3m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842
+  - name: >-
+      places/ChIJW7alNi7Z-4YRQqheJ1I2Yls/photos/AeeoHcIEH7eogmd86VwukjunSflEN0gYVDkFejdzoIvTZUCxsZjxlw-LNwoTeI5QCWg7bjsb99DWobMXfMR9aezBQJXEIPN5FXY4PglDOS8FWU7jj9o6P106s270LhnzsAX-TOuFbv37ZT0BjPA6USpCfuy_OwHD3NVOt8xL4Ook-DQvwB6N_Gou2ZfZJac3wbV8vYQ0x4--ET6qmuXfmHqcaOAy99tS2qXJ6H9Aj9vm_VjCuQH3j2I8NOqJZxnftiwNVscoYTUROsLIyufnji-xSADhF-VWPHgYEGluux9BK1n49UoDqilxDVXfFi_JlUNCocgl2m2RNb25FGVIJUZo6TiVTbpyEbOIAJrzdqKMV0YBj_PWvpa83dW-d-2tdZMhdN5GW47WdYsKAOXY7f6kg7ji5cDad9ifCsq-Jjf5xOHctXR2
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Nobu, that's me
+        uri: https://maps.google.com/maps/contrib/104292828523883654877
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX_xKWQj5sjWrxKOvdk4S-otBaWE1q1ia9PezyPrZy3HC6cQ-gV=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-quaFpAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-quaFpAE!2e10!4m2!3m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842
+address: 4706 N Midkiff Rd Ste 15-16, Midland, TX 79705, USA
+street: 4706 N Midkiff Rd Ste 15-16
+city: Midland
+state: TX
+zip: '79705'
+country: USA
+neighborhood: North Park
+latitude: '32.034431'
+longitude: '-102.129224'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sumo Sushi & Hibachi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x86fbd92e36a5b65b:0x5b623652275ea842!3e0
+  placeUri: https://maps.google.com/?cid=6584885331644819522
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x86fbd92e36a5b65b:0x5b623652275ea842!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x86fbd92e36a5b65b:0x5b623652275ea842!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x86fbd92e36a5b65b:0x5b623652275ea842!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sumo-Sushi-and-Hibachi
+
+---

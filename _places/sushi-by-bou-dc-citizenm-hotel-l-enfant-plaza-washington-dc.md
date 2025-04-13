@@ -143,10 +143,6 @@ city: Washington
 state: DC
 zip: '20024'
 country: USA
-address_html: >-
-  <span class="street-address">550 School St SW ROOFTOP</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20024</span>, <span class="country-name">USA</span>
 neighborhood: Southwest Washington
 latitude: '38.883739'
 longitude: '-77.019488'

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Tokyo Express"
+permalink: /indiana/tell-city/tokyo-express.html
+stateAbbr: IN
+stateName: Indiana
+cityName: Tell City
+place_id: ChIJazMM34YDb4gR_fHL4ZJwnwQ
+photos:
+  - name: >-
+      places/ChIJazMM34YDb4gR_fHL4ZJwnwQ/photos/AUy1YQ2QuGFEXBfZIw6Y2XARJ3603Wmw4Ji-JiNo5QMfaK5MV2k4_XKWKhA_VxurwnOrXJwArjrhzRs8oZhSnrs2aCO7OnVhlTZLv1Y_Qrz1FY4eg1xJiAw-Pn2mcuvGmWNWv8XOJjXdTYocb292O7doLUoXZ7VtUGvaea9uIwPZ6AMTkTDa1_XDE9nkBKSIVS3EW8SuEKxpUn2TB4BgKoz-YKPSf1sZImv6WUO26X_d1K56T16LK_Y5dAqv09wBGKqLTG35qU98-uWYE2nT8vBsqNA2-bChb4sSuLDX7VJeu2RPhw
+    widthPx: 485
+    heightPx: 489
+    authorAttributions:
+      - displayName: Tokyo Express
+        uri: https://maps.google.com/maps/contrib/105871674885706469570
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWxlrutMFyhUxFRUDwgIfY4xm6F6bRWu9RAdyEA6GkDqxodKKE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOmzcumEI_27jlSCSgiS5oDmmKGt1LlJmQY8kgR&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOmzcumEI_27jlSCSgiS5oDmmKGt1LlJmQY8kgR!2e10!4m2!3m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd
+  - name: >-
+      places/ChIJazMM34YDb4gR_fHL4ZJwnwQ/photos/AUy1YQ3PQ5k3K8C7TcEBSgWv6ETgdE9Kc7bSxPBZ-v7cJw77KWGxwVrU2kCYhUjAWUq-vTmNeyZCesnZzcSOMeb9b2EyB4cFx9d9TW7IcxLIyQMjUJ6NRw5fUpsQGhymHc0-fBc7CPsCRoqa7x5brewZ1uoWYJdo4uAYZZw2dhkMF0Pz_D3UBCpR7LmtyQy3nBw8qi4CfLzrd24bUKu2NSD2k7m_uen62JbZTF8DfMAd8_EuCi-aMM-1VRaJ01KsV3_8-2_0lfGyG6sfrjaXoGjvazxZ55A4jA30uCWMk1ZJbBoA23aiQYnpZvyvJ3fWv78kKbMHXU2BBHGE82lrDk7PFehk4FYPZqIbakK95sJtVAVL4qeaHyeROIAoRK2OxVfkP6uR2cfG5nUEKbEQreS7xA_7ti43Q8C70Qi8g_KQ8pWzjGF3
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Rebecka Montgomery
+        uri: https://maps.google.com/maps/contrib/106715219445234893690
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI9qkCpg4zzaWmEgd-1aEVT5Teprzw3NnSVmVF10EeQR7LL6w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-9NjGsAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-9NjGsAE!2e10!4m2!3m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd
+  - name: >-
+      places/ChIJazMM34YDb4gR_fHL4ZJwnwQ/photos/AUy1YQ0RuqJl04lP2wffw-IUA1veOd2nxPaLW1yj0GKouaBWaqdcpGWhQrIOLqzpieCECFIZ08TJh8b8r2snr9Rgw1H_5HeY_peesIo0KaXfwpXDJYJonOUWI7bxalyhBGb8LhS2K0BV3JhIjxvJ4ksrrP4TWWmKyYkteow5d-Jf4X4jO9Wc-HIWReULkHojUd1Sp66YeuO0vGyIDCYZU7sUJ4RhLLrqYe3WHmnmAgUpXEBfFjjGKRYdVXB8fsmLqJYWafVCvIayYBztQPZPMcgenQCNUQZaBUwI4xvxgghc30RZweUGVwBuIFuOy_H1Fs-zQ1Huoa4vpHbHGhnQ-10kStuW5wCgVq4LYvIudihoUyP-WIkum-5R9xV77KSYJtqlFkDrsvEG6giM29CTDOj0z2aorbowFjO1c8mfdMXHsb9tkQ
+    widthPx: 1868
+    heightPx: 4000
+    authorAttributions:
+      - displayName: ZweedsTV WhtEvr
+        uri: https://maps.google.com/maps/contrib/111777350429301643077
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV-dSbd7dRAGjwhX3lPlHmuMu9riAbHJH36Pl1-JnaA2xjCI7OE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAsteaQg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAsteaQg!2e10!4m2!3m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd
+  - name: >-
+      places/ChIJazMM34YDb4gR_fHL4ZJwnwQ/photos/AUy1YQ1rR7wFSi9jw_rTzCKmR1JP1yCy-XDXfVVo9QrMNr9Z0qsH03BRYyT76cNlvewIhdLgEVTVhIZyHIJymSWSN0sLpdYThFmbJrWUjenuuYW0MoMRWNKmMJaS5S41d7uW2yz1-yROsmdSRv7lLyT1MFCgavV6kgVDsJUajQxJW4b-yPNhet6EIsl2mevh3AuJ_KB9S59Qjx41zIoguQswwY2gTqZ95doQniwsXCD-TNcJ_6Tq0lLSLFBmfsRsAOAXqz5KJBsN_hAI32aFVH6Uh8C3QuUlkm7qU1n-CFagiT5kw4F5pncOvf8JFujfW6Rz6aeP7jAeMCG1aagO59fndoCxFD3lbMMg9Uro5PJhQDDeCrJrU5b1De3ayyYekTtulW4nRQOBmF-485SEKU_e5E8nEgDei4buWJXtbt70B6ho9oK8
+    widthPx: 3456
+    heightPx: 4608
+    authorAttributions:
+      - displayName: Andrew Beedle
+        uri: https://maps.google.com/maps/contrib/104011632620733494504
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUmMPNBAx1v9WJx7MmHr8XNjgDYAbXPMFgwzD4-7zmqOVlxK0IG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg69_q3gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg69_q3gE!2e10!4m2!3m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd
+  - name: >-
+      places/ChIJazMM34YDb4gR_fHL4ZJwnwQ/photos/AUy1YQ3klbrtSYClK6uFF00OGGukZxSHDAWZ-7rk_Lz9zWGOvkwDC0yWuJAmODaGWS2YJ_rR8Hn-TpAGFJ8vOFcDxLThLRSWPkZppFyyr_2Mpzr0seoFbfSBT1oFE21TfsVP8fNHFKBiT-jKJAEmOnbhX1q7wHIcwMo5XoqyNl2TM4SOjV8BDBceFCIThoX7gxkTC1QG1SGVkD1Z8_f8OvXSK6aKtVhss_bQa8bq7xcNj7aHjI5VnytxTP5pKTUciSBUrLdEJaPgExnV_6eneTF9MJd2GgbIZhOItUhBFNCocQYQfLeJzjJ3wuRnS-8aGBbQnemUaDeL_Qlm2huCM3KNQXNY3Ox3tXFWrLbiux-0cpuyVSHfCtNQcaU9BkIazmx3fv4raeJHHSHVEt7GEoM4kufIdIAViP4L29muneZaAGvZMP0t
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Hai Lin
+        uri: https://maps.google.com/maps/contrib/105816829164479311558
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLOZISoWsaA6eC93SWO_UoF8MZ4godVqiEQAuCLvauVnv2gAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICy2Nn7xwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICy2Nn7xwE!2e10!4m2!3m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd
+  - name: >-
+      places/ChIJazMM34YDb4gR_fHL4ZJwnwQ/photos/AUy1YQ0tu92PMOg3pHKiwgT62bZbKvVDf9ruqIqVwxTk3kfMn87527igsTR4ciTDwkr0X_OHQF2cWzXS_K6xunH0K2k__4RYDHdY3Lj1KIvefJ-rCOgPGu0vuXqTO5yIQTp1TD72G8ZC4gWRtyk1NNt4AUPPbCwFsuHDPc95Czkx1xlEa63PUyerxFLZvn4ExCS6_KAbwgDnHcxHFCDkz9fu9UOQnCWA6jpPJYeRyZ5nMaaMrIPNq8cdB90zSzAp9jhluzmN35LlNI5QpupVH3qJEP0wrE5z15oWdWNEVAKANhLL2owNzsgtQ0v7xHCLAMfZEa6WBaOKlz8AfD7fle5il5zh1sQDv0Oh3fltK8Id8HeqiDx1UEPxlllhdRuZyA267wJBzXVqMhT3-lE4qGbLa2Qc-1h1gJOUcu2P5svGdMAf18j0
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Hannah Lynch
+        uri: https://maps.google.com/maps/contrib/102581002513814723995
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVR_6fzgUQVg2O50B6kW5hAyqbaaxXgsgniwnza8iTiJ1NNW4Vf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrquun5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrquun5wE!2e10!4m2!3m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd
+  - name: >-
+      places/ChIJazMM34YDb4gR_fHL4ZJwnwQ/photos/AUy1YQ0PIiFwt-3-IEJf0-vMGR9h-qJuvOlB65Oj8G4bPWM18-SZKGqUyKLpV1y-dVEIVcTiL5E_FkqlnByyYKzH5RFMqE_l4qnzU1yL-BzMQj9FnGzbxTteoKsmyTUwbJIF0DY6Z8lzWJi4_cUcnT50e-VMPzmYt4U2qqsU-xfgJXS7CQV4LcoiBmDXq2JvU1d3bo3nfjH28k70-cM7nDrVbteVsBJagND3iQfHy0WL8MZF6DVAJZKwHyDKU3nqrTqpJa2vEIf4cxCtt3UxTvrnVoQFE_7ofLK4aFT7aFnsyVsuNOEejst8S2q4lkZV_DN7Cd_lSEWQAChUO5CwZNVNZtn8yJMfejDBFqcjiu4qYc88uLGZMitoEtMyRmkEPLqW7Gyoxb3fhGOxcWu3hBCJIBBrj_ski5TSkqbvRgmMD5kQrQ
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: Bill Gray
+        uri: https://maps.google.com/maps/contrib/108467313348275356635
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUcBfHIVxuUV6F1l6zqTlG2QVlgxxGeU7Ty_RQWRrZaDPKZTpLA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID6o9r4UA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6o9r4UA!2e10!4m2!3m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd
+  - name: >-
+      places/ChIJazMM34YDb4gR_fHL4ZJwnwQ/photos/AUy1YQ1ZI23iLY5jA8TJkbyUmwfE5vXDYIdM4GMDtEgx9Im8GPTmA-dksp_G3EIBFw9HN9ZZTOMOVvxVa27z6m8G2OLa2u24PWkVh9gqIq_lOKunlhyzHcPZoivsStpK6a_aonBvHSK4MESpeniklGqzD0SR2_uyICuLpoJOwgUTF26lCt8Wa2XcKesQ5gGilOXOoiP0WDnmTXI4OioIIw0Y4kpg13zjnq0Z-naXrUBdJXgd3JUnvVan-mRgJyS8boIGbPXPaNC4hyTdxpRBrVOc4VvWnaMo4U54ca8SGs9Se3apbBbTucOHJ5T6Dhb6VFwoiyk8jvUS3pn1g8_oZ9VdlMEuEXQXEAfmi9w3vjR5NMFAW-lhpKVeZuY6YhcV1g3xMvPao2punlkeKjSuByDw2I2K1Jg9MC_Otn4KACOVAhlMwA
+    widthPx: 3456
+    heightPx: 4608
+    authorAttributions:
+      - displayName: Andrew Beedle
+        uri: https://maps.google.com/maps/contrib/104011632620733494504
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUmMPNBAx1v9WJx7MmHr8XNjgDYAbXPMFgwzD4-7zmqOVlxK0IG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg69_qXg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg69_qXg!2e10!4m2!3m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd
+  - name: >-
+      places/ChIJazMM34YDb4gR_fHL4ZJwnwQ/photos/AUy1YQ3W7Xz4gQUFHM2b2dnY8szGJ0yk3GGC6CFle1AuDtzIei4DHC0MTeoAVtKXl5Et0JZ6gbN3VOHvCHiYczXwTHbQQEII32Pu3dN4Psgg5ziQD8eJ123fkZwhs2wQ7sAlnNhVoMOtouYW8olMb97ZKtymJwtuhyr846mBKlQomc_F_ZJnhUn7M5eyUH1_rvPtJEHtZk6iJtFzUQVbtv5yxv4kCCPgb-UvFhfsccAANQZpOZKmc8iOvR-D2oz5IM-NeKSG7zsXTU37_vHeGv22OGUIySv9w4j1ZfDHrz97Q6hFSwGHZT4elHEXxwwonlwIFatPieVs8m2_pjqPBZdHkML5xRbz0fkFRJ45zRFyZhZZJEGmAYP63NadJN8w5ZICphq6YkOYswX_kU57uRNOnQXG2xHpUZHHZjhQbhptAfMGdqxw
+    widthPx: 3456
+    heightPx: 4608
+    authorAttributions:
+      - displayName: Andrew Beedle
+        uri: https://maps.google.com/maps/contrib/104011632620733494504
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUmMPNBAx1v9WJx7MmHr8XNjgDYAbXPMFgwzD4-7zmqOVlxK0IG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg69_qvgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg69_qvgE!2e10!4m2!3m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd
+  - name: >-
+      places/ChIJazMM34YDb4gR_fHL4ZJwnwQ/photos/AUy1YQ273leXYpwHoDaKMEQtUbCx2LtcxrspRiN62qnBYVI12xDKVBJqwTmexA33VIBqds3tPPxRhWKR3VfOIFjKhb3QzhSHdTlBKaRSGUjiH8JyxTd0W42PffAaULgt5MCHmH9wm_Q0MaqhbSITNqp68pP814k5l8DxgiQMd2atqEDdSpTykPAMH2R39sFbr0zSdO8IxAVI5IGVwUjpAjy49q3F2JIgXwVGFMfqTceau0d98A43CCNHtxZIWTStX3JoUQyRKRLk1DryI3oV-6zJqkMrSwse-r2899dhQHmZJAZFYOM-EVrfgngnDp4wFI8cShg-hg_oTHp-FBFzh-8pgGqIayAh59jjG5e36wPalfYgna2MhSdYcOO_gf2Q9czqECtqU2wAC9maIAGk4a9FHzkikj0cJ6xfFp3CgiSgxG0igw
+    widthPx: 3456
+    heightPx: 4608
+    authorAttributions:
+      - displayName: Andrew Beedle
+        uri: https://maps.google.com/maps/contrib/104011632620733494504
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUmMPNBAx1v9WJx7MmHr8XNjgDYAbXPMFgwzD4-7zmqOVlxK0IG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg69_qPg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg69_qPg!2e10!4m2!3m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd
+address: 619 IN-66, Tell City, IN 47586, USA
+street: 619 IN-66
+city: Tell City
+state: IN
+zip: '47586'
+country: USA
+neighborhood: null
+latitude: '37.929570'
+longitude: '-86.756559'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Tokyo Express
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x886f0386df0c336b:0x49f7092e1cbf1fd!3e0
+  placeUri: https://maps.google.com/?cid=333108673604481533
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x886f0386df0c336b:0x49f7092e1cbf1fd!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x886f0386df0c336b:0x49f7092e1cbf1fd!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x886f0386df0c336b:0x49f7092e1cbf1fd!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Tokyo-Express
+
+---

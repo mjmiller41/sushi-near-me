@@ -1,0 +1,212 @@
+---
+layout: place
+title: "POKE SUSHI"
+permalink: /pennsylvania/pittsburgh/poke-sushi.html
+stateAbbr: PA
+stateName: Pennsylvania
+cityName: Pittsburgh
+place_id: ChIJO5FeuMv5NIgR6DyOGZ4CIK4
+photos:
+  - name: >-
+      places/ChIJO5FeuMv5NIgR6DyOGZ4CIK4/photos/AUy1YQ0rVrVFBWRvgd7RwlU6Bdduw1raRM7beaeUyiN8DFWRU-PSznylqMBr5J76yJ3UGpCOIjbKdmh4WZNB31yo5Nj70drAeHhQCP_XvnXVqg8XsghvWoC-Yujhl-XgJgT0NTJ3zhOWO0YSgAfU-5mVPHwXH7PnaouFAwamJtBDN4nIMSlmBibI0qdJX-xRUmXyMOgTVxgyMlLrndtdQ-REGkPhm8Kc2j48zA5z8BO4ieMDpI7_9i82h1TnGk65Y_7zazhDfIA4clgUBfNCKvgKmcnYd0bM3nDGQTguVXhPyBEonVIbDtHvgNHaCiyk7gfEe3u-z9SGMI3b1I_txvX5i5prbFSXk7jwSOjzcK05Kd3ahp-0J3kpJVL88V-dV0Vg8GYnyNp8YvVS6UBYu8c7SW_SoErLscCqjtcZSdVBeok64g
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: DJ Reese
+        uri: https://maps.google.com/maps/contrib/103238472230539644547
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXJ1KpIck6IHm3eD-tEO3f1BEjQQ41cCRYxfI1o_ti13kyY5Cal=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDni7iZVA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDni7iZVA!2e10!4m2!3m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8
+  - name: >-
+      places/ChIJO5FeuMv5NIgR6DyOGZ4CIK4/photos/AUy1YQ1zPrp6ksfba7kK6CmlcKeZ_EJIZTaIvuOO9EMqpV4YyU29vuWAyBwQ4t3cEFeLb9I8sKCizsau09aUJQADwX5U23ctpk5PyQ3Xfdlaan6QrtcdafKRxgHYCDSRRV7cdmLWGerhneVR3Rtz8cIM27WpsZLm664RFwDkDp3lqyzFD9sFwuySfOwpnYIqvAuIrP58XiInIk1RVz2PLH-I0ZPAP_GwghMFycbySIEl0FojbMToU9E9VTHPJgoMf2LmwHxB-_n5j35SM16Rcrt5yxn7pQdUetfTUOJKrZoD3_pBr9KS8olpZX6HndVjevUcqv8-PxEZsCecuPJ7zDcZcDc125dTkbxeoL7kt3nu2Ehi0yEPtHaWEy3wbllfWc1KtXUWyEGzF5252SnNr7F0Vgr2wlM9ivT5S7Cd0EaUXwcjFSeZ
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: DJ Reese
+        uri: https://maps.google.com/maps/contrib/103238472230539644547
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXJ1KpIck6IHm3eD-tEO3f1BEjQQ41cCRYxfI1o_ti13kyY5Cal=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDni7iZlAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDni7iZlAE!2e10!4m2!3m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8
+  - name: >-
+      places/ChIJO5FeuMv5NIgR6DyOGZ4CIK4/photos/AUy1YQ0r0_peLn2M7lcm8n6ULDZyRzcVkYXg1SR0DZNkC3h6DJcq_G2KBwDyhQ73bOvp1WbkT7u201RpxtKQLWeypqMWjq8fXRVt1VmR0hFWz1KEQzRmBeuAprjA8xdHVQSLFr-Eoy_iLjevJxdDrm3Ijbml4h0mRE2OTI7BPaY8Wrq_RbHJhB9lxlOHW5c6vuKZ5MW6SEptjKdn2s4rztBjR1IzoTxdcXOEpFZIsdXg2UdsxoMX9Z9wsY4wlvWjDqii7S-X5cJ-4Se8XE9Dup1ElPOFWpCobwp-SfKnv2lHaBzrjWXeN9sLQTT1StcVhtrOydV8xftC2PNjlM7rEQMHOR4mctLwYCfDo_RUHZKB_s1gxYi82oxGVwRtiQ3v2RVH61Tg30WO7Hzd2ccfvYEargXtah0AsI4ThQE5mtSWGV2AzQ
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Blaine Christian
+        uri: https://maps.google.com/maps/contrib/112246318685921321787
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhUZcKS4TQbX0Qv7PtSR9-s6-XF3zXeCgKZPDIPrheiWOSr9Ak=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC2-Zy6Fg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2-Zy6Fg!2e10!4m2!3m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8
+  - name: >-
+      places/ChIJO5FeuMv5NIgR6DyOGZ4CIK4/photos/AUy1YQ2Fz0PEIbGUnV-VJV_V5ZpIZ5CuVmBCN6XrRCOQB60IdxOcpKa4-LW8acGIw9mvhL0froLrCaWocOVL8YIOW7KmwTZvQKcDeyUi4xYh-DfggdDS45U2anfXKYSW6vV5nx4WApKyUVdp6HSban767z3noh_13t1VsT81JNBgiyEv4jT_Lwg6ltS0Vk3k0fBFupTRHWZwLWpdV-2IlDdJ7QKwzKddvbY5AQ6cyptxCtShpp5LbyKd8qEDqBK8CfIcD-hgVIEFKNI6N9UjWXVsera8Snrv6UvdLgqc2Of8hpOiDlzLWCqFVV4mniC7QefnFIwzmtzGf_nQcZlMax71IX84pK-j2b9w6uolZ5FAn2jp_QCaJKNEx32rWUe9qUpZlskoMfA1UNjgRzYpyRMuXnIHfzdhLcbGEIf2yDEvNBw
+    widthPx: 4656
+    heightPx: 2218
+    authorAttributions:
+      - displayName: Justin McCoy
+        uri: https://maps.google.com/maps/contrib/108900054070388469691
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV3Z4ZT_lMoBOujZef4Wei_E-QDRdOC5QTGSbP29Z-d2xeZ9qNn=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDmtZezHw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmtZezHw!2e10!4m2!3m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8
+  - name: >-
+      places/ChIJO5FeuMv5NIgR6DyOGZ4CIK4/photos/AUy1YQ07B1cY1o79HJtE04miLH4tTKUHvUCTqBAvL0IiT5V4YmBrCSjEuOenyefadupAk--pETakFXpLxpi5kFpolLgTTFq14OZ9ts3m8FtYqjYqCVjeXk_YIKy4ySWKHADAGVPA3zD-hSvOlVOwEg18ogxjQEv00VsFp2vo27PApZFulVIqNEtKAEhTjmaFRxmUxPht4LwsxpQz9rxAHbsqhB4GSkPxsLribsvYZU83geI4NLGybZpLxmfebC6RT4AEUrya0BhW9c4Jlkiv5MswFQKsyC89lVY5UMt3NwqAR2SWVJLz-jM9M9CS9fCuGMTcPu6PW3VpCQWewi2Sp0iHkkjZz0Re_f7oK9hIWLH26aLPZ1yRh3m6GzFJ_6OqR2E4NZ8ew0cjmDQXQa0b0BCsQ9cZb1tHP2HaQTGKvqPzIrw63YsK
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Cam
+        uri: https://maps.google.com/maps/contrib/105770638783822915738
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUvemshaueKZJt8A5tQ3mI57Nk6i-obWHLEg2RTROVri_sCQbM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxi4e4nQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxi4e4nQE!2e10!4m2!3m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8
+  - name: >-
+      places/ChIJO5FeuMv5NIgR6DyOGZ4CIK4/photos/AUy1YQ2g-NudtPBu3oi2U1MfAgSWi8g9ZLVa5wsdbJdLheLeR62_5LXkuRYxAnDuGdhELHdc8wywtAwLiSv0lgPcaKjzvZH1F_NVWOxxLVJi95gNlGMwQhorCaDIsVFxIEc6csFhh0d9Wk7AMDQCzVPEBm59F646YEat0RGx8GjbTzeFEB-9FoHWKr2ssRwrz52UQgYbLHgKAdpHEV2QtRba6XBoL_NVLkm1kJC0bx4jWZCKhHKOYN28J47kLQxBVSUcl9xjazKli19nhaE6_RPUJcJDufaeBBIPxJBp8bCRWFnH00I78tKnC4NHPJbgbp7pltVGqpkKYrbGvi5HAxaDcIap7JwyMTMnu-hxh11b5fAX8jLbAusaGHYOt29nU5Xg3RAMcP1_0Mv_Rcnem40UQeFAxsw8n-eNjRlRR4K4Em47WhrLapuvri_2tez79wdL
+    widthPx: 1536
+    heightPx: 2048
+    authorAttributions:
+      - displayName: David Adams
+        uri: https://maps.google.com/maps/contrib/110562393475697551887
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXgOOqQbdfrAKDS0hfZSZ0RPyGGiU14Z7zZClRZMUtg5q6uwAY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3iUeGSYtFWen0lsADrAD&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3iUeGSYtFWen0lsADrAD!2e10!4m2!3m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8
+  - name: >-
+      places/ChIJO5FeuMv5NIgR6DyOGZ4CIK4/photos/AUy1YQ1YNdxaBcF8Z7RCxfmHiTcMEVTZUuhDr7bMb69BoBRB3V8zHAyyT9qor9uOixI2b1P7oO_4nQZzLLhwwAwHpLsO0IFc_1ukGpXJozRDU66rd3H9ZiiCr21LLoStmwRJPcjgq0pEt3XDsDQXIXnsiEHf3wDjBUBImsTdySJlyfGIeZ_RBOqGzNWwhCn9WBNKmZ-kxnanwKrluFE-jX81HmgJIA-L141YeYxpLqK86Y_iZrHXLWE-tWF0UCQ7qQgPhRck05u1ZJPQlj6iR9443VRc_3S1co456cou3LGmWJpokhCAo8zi9XNWOIVgJW4W3YKcG6QeCDjRtIlGmOHgYwIWs1_lGei4kC5sLqGT-qRQZYiyufCVeCjDOzaNVaXYmdyMPo9XP0SkpEJhU57O9bvV-bqiagBLt2T1wt18v5XFkA
+    widthPx: 4656
+    heightPx: 2218
+    authorAttributions:
+      - displayName: Justin McCoy
+        uri: https://maps.google.com/maps/contrib/108900054070388469691
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV3Z4ZT_lMoBOujZef4Wei_E-QDRdOC5QTGSbP29Z-d2xeZ9qNn=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDmtZebJw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmtZebJw!2e10!4m2!3m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8
+  - name: >-
+      places/ChIJO5FeuMv5NIgR6DyOGZ4CIK4/photos/AUy1YQ16v2QF84umun6KLEwiVEAbA-7bs2XSRYWt44Y_0MEE5LvwyeAYlpkYBB9dISAMlRCAffp3rwIMwoswjl7ECiJtrUXhEXenqrWQDRxc__eSJcrrN4RRf2SabMXjt2Kw03RBnem98iSQt29Lamc5a3B6PRD5kmNdqbqerPURWRwOaSkjZwENJ97XQ5H2mPjOenxTgkBiH0P_09IJbg_cgFPW_T6fJ0gMk_BiLfgVT1s3s18Vx1s4eOMN_un92lXWi-TrnvlNC5yFzVdSSOr7eQ8F4b-72GKy2CCGiH6xqvO_aW908rn_FaIXKnu-SEi2gVxkF8bsNkHlyTu1x2BgV1t8y5hBB92-GUZcVzInR30WBOSWf7MT2CMKz-OWY86ChYVc8uWBT95NDKpmH95QxFmusen7j3UScG40lUrWnIswbM4A
+    widthPx: 2218
+    heightPx: 4656
+    authorAttributions:
+      - displayName: Justin McCoy
+        uri: https://maps.google.com/maps/contrib/108900054070388469691
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV3Z4ZT_lMoBOujZef4Wei_E-QDRdOC5QTGSbP29Z-d2xeZ9qNn=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDmtc_X0AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmtc_X0AE!2e10!4m2!3m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8
+  - name: >-
+      places/ChIJO5FeuMv5NIgR6DyOGZ4CIK4/photos/AUy1YQ3lT952KJSu7viD0ohx3iscwrlWuOBDAGggnNJ2FhCdb6tG-T8R9bqkIm5HAu0fRqLT2h_C2GOIlHCbEULMI56aWE5obfFqkTAIL4mY8xNw6P2msiUEBr_gBMp19ztiaIixE72h20uO6QHAuedTnwAZ8jeA4jtfrNXyTrFSOvO5ClK0iQys33EQN5AHFMj_T2hj8EA3Ss9oapfQO34G6zDjDJh24-2CmSTVafJr8tmvuDqNk6W61IALH_htscLqL_Cdes-9vR1Ofq7DyB8gdaE6vQcbsrdlx300evk3Va1pTvigaDRuvhARn5FigQhG0gYiupLOy_v7Z_kk64Q2L-E-9QO3iPFsfBSyoLsE8SEP19Y8b9o4Rc4IQ5_JUZaqFCXQTohlyCptmfaDjgeH_EZ3tM9zUqnUX45r_T51S_XISQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: rolonda colts
+        uri: https://maps.google.com/maps/contrib/104419473026919269756
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLfklIoWFwZkzQ4RXy4RasTs3_7eA1OV-zfjPJ-8n8moGP3Ww=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWm-6Cbw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWm-6Cbw!2e10!4m2!3m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8
+  - name: >-
+      places/ChIJO5FeuMv5NIgR6DyOGZ4CIK4/photos/AUy1YQ15vXKo2NaObOmjaSylewcBiz_hsnOuIO80xyySaNXzsNevo4h1UGrmgnGPY4KSSAnQxv7PLEVtl1AcKQY_8N0xmWvyhna8uRYlJK6rxxhnj93DJ_LooE5-b5NZo5W1ohO8yyxYl0XEiBMkzhxHXRZ17GKWy0ZA4uPqYxn1zpjNu6tRF5zb8lAmGFmTK9yqznY9-4qDhEwDFbeTb43he4QG7ezCe95qlwmNBHMuQNhoUlz3ae_s8-CVekwVO4RLYFRE16SyitymXBZTaoQpZqkXQfJub_sdFtdynKtm11j-z3mnE6pWYbd9OkZ8zjGv6M3p_7Ch1MeYbi8Buyh8wVoU8HuOac_3PC62r92PRznvkLbtoLM9EwWAfcal6DuEUiirx4KVw2sSePboqBhNzYAwsgVFZaKOqNAEAtESm-bhsA
+    widthPx: 4656
+    heightPx: 2218
+    authorAttributions:
+      - displayName: Justin McCoy
+        uri: https://maps.google.com/maps/contrib/108900054070388469691
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV3Z4ZT_lMoBOujZef4Wei_E-QDRdOC5QTGSbP29Z-d2xeZ9qNn=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDmtZeTLw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmtZeTLw!2e10!4m2!3m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8
+address: 1720 Washington Rd, Pittsburgh, PA 15241, USA
+street: 1720 Washington Rd
+city: Pittsburgh
+state: PA
+zip: '15241'
+country: USA
+neighborhood: null
+latitude: '40.348085'
+longitude: '-80.054070'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: POKE SUSHI
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8834f9cbb85e913b:0xae20029e198e3ce8!3e0
+  placeUri: https://maps.google.com/?cid=12547031439911042280
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8834f9cbb85e913b:0xae20029e198e3ce8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8834f9cbb85e913b:0xae20029e198e3ce8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8834f9cbb85e913b:0xae20029e198e3ce8!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: POKE-SUSHI
+
+---

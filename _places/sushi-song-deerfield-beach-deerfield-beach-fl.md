@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Song - Deerfield Beach"
+permalink: /florida/deerfield-beach/sushi-song-deerfield-beach.html
+stateAbbr: FL
+stateName: Florida
+cityName: Deerfield Beach
+place_id: ChIJNd6S0GDi2IgRpZm96uMXVjw
+photos:
+  - name: >-
+      places/ChIJNd6S0GDi2IgRpZm96uMXVjw/photos/AUy1YQ0kMmvhXSY8WKcReGc4HtuLti6y8BilMdtAR-CSutzlu6AfmD387Q7MBiHPFNddeqb3UVoQgzQEb6Wt-ucvNrAcH3JtnMNqmd-khIvilrSOAniZjn9dL9iOgmohUx-250J6jdvzbyQbGO5zU8x5IW0phWjvxmsdHvS04DSOq-NzzzqnpoxrdAjeQMDlKn-LK0gMevdCnZpxlitMb_k7dzoNVEGwA98AqZh3miDUHa19pAlh7Wu5EoiGcslm0IaWtw0RwAaXP1AaHQZ2v7ayYGgAjRvGlyh7_eZMRnkYq2Iidw
+    widthPx: 1080
+    heightPx: 608
+    authorAttributions:
+      - displayName: Sushi Song - Deerfield Beach
+        uri: https://maps.google.com/maps/contrib/105359162819324657402
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVcDz3zETXiaaaRbCIysEAArmiEM579iPcHRj9UX28zh67mc27y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPMOGWZvZhhRv9hn30BLrbk6IRj5klL-OuYsA7O&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPMOGWZvZhhRv9hn30BLrbk6IRj5klL-OuYsA7O!2e10!4m2!3m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5
+  - name: >-
+      places/ChIJNd6S0GDi2IgRpZm96uMXVjw/photos/AUy1YQ38QGukKZBu2Nb73yvGZ7uF0SPVCdiXQVETETEbnlUodhT7mmAy99TCSDhsrAHfVNO3-yKrS8-nNLqzHLHimPCsPzH2tBxb2CN0NYNgsISIOWQjm1eEkXBsHnPydXKUxozb2FqhPbjoN0VDYqSoT7egKvOmLyryLh3eNSIgx3k8W_pyrnSPMabDaWCg1FzojS0vHU3uriHAHxcc8bOeHQd0KapKNj6FpBfkn-HNwdqnymw7k4rFWWIRiWzG_Qn9qdsMR_AX1ZN6xNbZGv2J6-bYYJlu6DMvegis2d3LlKIqLg
+    widthPx: 1498
+    heightPx: 1000
+    authorAttributions:
+      - displayName: Sushi Song - Deerfield Beach
+        uri: https://maps.google.com/maps/contrib/105359162819324657402
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVcDz3zETXiaaaRbCIysEAArmiEM579iPcHRj9UX28zh67mc27y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNTFsYby4i6WGULycFRsX53OcfJFjbCh3m93zU2&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNTFsYby4i6WGULycFRsX53OcfJFjbCh3m93zU2!2e10!4m2!3m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5
+  - name: >-
+      places/ChIJNd6S0GDi2IgRpZm96uMXVjw/photos/AUy1YQ0dexiB6PX-VD-yLhN7z3pCwznY3MrxJF22xwblIpqul9__gyCBQ0HF0MA_YdthMabmln6p8ir1O72JUt4gquhVjG3iaDQsnOJQdYcLEt0EoKAduvgpzXWBlq3KFBa1cpvvyXn-stEPZpyldP_ThFTpnKIndibfAmSIardBSFvM3bjeWp4Q1UPkXXJOAr8uRmATYOQcMpS2wNFFlRkyoHDKrfV-xvPQmzgCFX_qeP4-RBmWT1myfLJxd-4-ullUkVR66W8qlur-LRUC76bAsvrgeAXHnBzREMtDTDLQNtePvw
+    widthPx: 1440
+    heightPx: 809
+    authorAttributions:
+      - displayName: Sushi Song - Deerfield Beach
+        uri: https://maps.google.com/maps/contrib/105359162819324657402
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVcDz3zETXiaaaRbCIysEAArmiEM579iPcHRj9UX28zh67mc27y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO3-ocM1tNLNEBUP4sCJ4yxadcEH2Dg3Auwghad&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO3-ocM1tNLNEBUP4sCJ4yxadcEH2Dg3Auwghad!2e10!4m2!3m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5
+  - name: >-
+      places/ChIJNd6S0GDi2IgRpZm96uMXVjw/photos/AUy1YQ0WU4o1wa9pEaq6O5g6-EoD8T3mPru4PnOP3V-HC9lAZJ_rRaAFVs3VFyFj2BrPYAEoMapzI1bSWUcN9dYrsgS8pIZENtSrFtLvwoyANEzCOJj56BnJQMnvNoVkAv8Ak2IU_Cr5zu7JP82RvYlndMe37dPMVcSVWQmntGvIqYCxsDC2cl5c3ncYo0nFCUK7BLodIKAX5pVQb0MOyQ5GlioUZRIcBlmHzvVKgMntw04Yckc-2t9kFuTbk9SbQwup7umURdICpB307VNSiwj6Fm6rqGfTn4QgkQb0vBYM0L2BU3RGgZGyMNDH8dvSKH1ZrUDfiIeoiv9fByYRX7Mi1vUL9ch-Tw1WrhxDWHk4shnl9iZALExRDcJq9niewi9CJmZ_aRhqEBUbEWU9JrXS-IffGDL9FNehjpXpsLvV9jmFvXHZ
+    widthPx: 3024
+    heightPx: 3085
+    authorAttributions:
+      - displayName: T Claz
+        uri: https://maps.google.com/maps/contrib/115336123914713811551
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXj7tUwf95VFY3i7Uey2K5F79YNztb8eOznSEWovQLdi-ayYwqA-Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7wMGbiQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7wMGbiQE!2e10!4m2!3m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5
+  - name: >-
+      places/ChIJNd6S0GDi2IgRpZm96uMXVjw/photos/AUy1YQ2WnDVQ7Gsxn6eJvbNajw5b7Xmqy7MCamLRyFgcjrnAB7G9rHJmN23bkocBbvDVDur3D4Npol_HD2TNJ2eT6y11Dbe5sjkp0WpRTQwAQu3TGxG3IznwiVYVnjV9pG98F8O8yRp--x1q6V0V693JTaSW0xT4L-aCI1WnHpLdjit42rvNlfhUgWyBJYHecgVn2QkKxi_qQeJAlpjSosw_T7j9PS_t-63Bk8dbF6gXI4638HVbfQaDdagSEWy39cqNKP9tGn2zWvSNcfiOFcExqfoQW6o4OMygSjw7NvU7SC3gbSsONgWWM6i8OeU-jlH0pAo_oy8EWvid1aL0WPvlPf0pSZq34ZPkZeSRPhvEpzZAgFX5k9MXt4Z2Vho4qC9_y6wUNOI6Y0gqEmXe1OeXkX7t-Rl9gTflkNzOxWPJB9A9eQ
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Ken Lam
+        uri: https://maps.google.com/maps/contrib/117470303895917843985
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUlLwW_BniqwQweyq4OZSt8m9e-qKmte_MSGOScj0SVPILLg8mF=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHy6bKdA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHy6bKdA!2e10!4m2!3m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5
+  - name: >-
+      places/ChIJNd6S0GDi2IgRpZm96uMXVjw/photos/AUy1YQ3MvQr2ZLexTuK4dIfPtFKfvUH0RK76UNSRdE-w_MMIXfqZrccAzmOVdwTfu8AeOURZbH6e3hg2pOjIxfnpGygxKndjgVy36qLjVsQ3Dj60Qn9v-zf8WTpUqJ-DDQVsIw3kDVywSpRV9cIAcMNBZSbB0dpsCxk6mfTVVqB2jcyQ_7Jwn7epGSwf6Usj7wkC7f1ahXsP58MHaESjWYZ3qfsT3IdIOE_xmW4JKJyHN8v1jeH-CPa8oa22UkJt1z2Dhr3-_zuLldxflZ1QoOtSsses_3wzJAAQCINhiklwrIWw5g
+    widthPx: 1350
+    heightPx: 900
+    authorAttributions:
+      - displayName: Sushi Song - Deerfield Beach
+        uri: https://maps.google.com/maps/contrib/105359162819324657402
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVcDz3zETXiaaaRbCIysEAArmiEM579iPcHRj9UX28zh67mc27y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMN0ybMkteLx6rOx7ZN4LvxoXukhFsKoAMThwXC&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMN0ybMkteLx6rOx7ZN4LvxoXukhFsKoAMThwXC!2e10!4m2!3m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5
+  - name: >-
+      places/ChIJNd6S0GDi2IgRpZm96uMXVjw/photos/AUy1YQ2d5z3WBZrRYas18QrR2UJIPDVYS0CXNbgu4e5Zy4OwIkqLV6WkOocKQITrXkAIs5fOFRMiF5_TqoHNd_rva91Q5_hAClvcXTOVHrvZoDD_CSN_QiWM1VQ65r0QePmcF69oNVKQHqFbTHg9NJjkcrJiEO7ZvkM5-JH-hMhZ5ZcGDgZlwX6jYs_H9YOvGQ4n36P9fOO5HxG31IFiKuN2Aj81SfAC_nxS8ZF9resDCIYRBbp5qB-oqoiq04DOP4N5QAcc7OuuuN8-Ly2ThocRoxfRUY2utWDCae1aDwqlD01KOA
+    widthPx: 1350
+    heightPx: 900
+    authorAttributions:
+      - displayName: Sushi Song - Deerfield Beach
+        uri: https://maps.google.com/maps/contrib/105359162819324657402
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVcDz3zETXiaaaRbCIysEAArmiEM579iPcHRj9UX28zh67mc27y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOXPZUAD2cfFXe8MtZYy_zA3d042PsZ_LwnJR6g&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOXPZUAD2cfFXe8MtZYy_zA3d042PsZ_LwnJR6g!2e10!4m2!3m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5
+  - name: >-
+      places/ChIJNd6S0GDi2IgRpZm96uMXVjw/photos/AUy1YQ3zbpyTHlxkJbXWNA7Vkz5o__JOiZ0oKUVZA8NC7Bxdam6bgcxozmu9hxsLMZVy4ejc7YFD3CQWwprm8vYlE_QzQjllP7MK_sTZRxjma-F1ccPdb9ZR0iRLujbPsVaoq8g4yvriU1NPZpT4jSbXJfA9VRshejOkw2GMiJNZ6DQii5_5KLy3qP8KzpkBEmBrVLKyO5qK59TMKY_T72Li_LpMRF0ebeyi4sPcNn15Z7iknNZmA-vag4HGNn40vHPHg6XdcrU3WbAm8qL3NpU-Oh4nSrkOrT8qZCT_CsOoez5l329YHEp1thw0m6o3Q8EM0_PAD34oA7lg3yDrTN9KutE_bOcQ-XJmohpCiVYAUK1mtmzXs-iaCZUJ-aDZdLiP516YbezIRXL9ubBr3fsUlWp7Jp6gdg8pPDogRHFiKf8DvQ
+    widthPx: 3414
+    heightPx: 1881
+    authorAttributions:
+      - displayName: T Claz
+        uri: https://maps.google.com/maps/contrib/115336123914713811551
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXj7tUwf95VFY3i7Uey2K5F79YNztb8eOznSEWovQLdi-ayYwqA-Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7wMGbCQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7wMGbCQ!2e10!4m2!3m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5
+  - name: >-
+      places/ChIJNd6S0GDi2IgRpZm96uMXVjw/photos/AUy1YQ2V9p5DadSj8_A1sCze7RT3evyCrCbtXRkkJvTONAXwF0dgQNJUUpYIEGbwCIWw0ieKAaLlCoujW4MDnLfWzZZeybTChgOn2kF9QF50F9Sz5j6nH-aL7wN-krJePB7wwy-HjEcD8vuCVFrvt-35yOKnEgs_3aVD8VOBxKy7cPY6I2X2QZlLfr9zWmSlISPCFak6emg9xvpDK4eBIZFgk410C2iTGAi06YcsSFGnRj5Z9XE4BGMswZEWjYeJ_ckUoO5VISuOCmRLuWS8zJF1FzKFqae1YD1imC0oq8tJgJLh770FzjIiMkWCn-hOOcVG1ViXY2KEJ7MPwSfuLcRh9SV1qDoZlEy_o4xMEryadGzQ2YJjR5YqjNbIMMdYf0Zo1DJi6J6A05P_3nwRxAskqwklNo6GV63BtRcOwr6c3zCghqJ6
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: T Claz
+        uri: https://maps.google.com/maps/contrib/115336123914713811551
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXj7tUwf95VFY3i7Uey2K5F79YNztb8eOznSEWovQLdi-ayYwqA-Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7wMGbsQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7wMGbsQE!2e10!4m2!3m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5
+  - name: >-
+      places/ChIJNd6S0GDi2IgRpZm96uMXVjw/photos/AUy1YQ1f7vsJ7vJZH2usmKfVWMYgvfyEz-nrwKyiyJ75mP6wR19wUBm5lq_cOJCX1QpD14Zt3zG9FkeqWFY8QJRMdks7tPRmSL67V-e4G2Y2jbajCZb1UVIV-VGexSlpmcyIfKKV-R-pXzsQfQ09lCLaffMIekOE3xLdDaIsd65YhnyZvaKrbavfHITfbfXyMfTAcP85XZEzWVvkZF4sO5cIgw9n2GU_0lM8EZWBrh7loJDRarKqnIFhhi0tiM4fUQv3UUfXaz9nQBPsWU-VSN-bd-0872SuemgdksutOwIi-mFk85Ilowwh9F9qu68BhitgERlJKnrPDd7Jpa_HtSTdWl2dHr_4FJLjn0SQd9I4IHiMJmYpi98umsK0pGGB6s28S97H3WNgiJpDNO_rRKoNU2i_oZ1x6Np15qZxBWd6-q49mVmuiov0OoqoVtT9dkwU
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Kay
+        uri: https://maps.google.com/maps/contrib/101444305471800870093
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUcs96TTScI7EDmdqgCm09wE2QImeQyTQJxC3vLsk7grHgk4HkL=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5ULRxvFme2HpEAC7yW&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5ULRxvFme2HpEAC7yW!2e10!4m2!3m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5
+address: 123 NE 20th Ave, Deerfield Beach, FL 33441, USA
+street: 123 NE 20th Ave
+city: Deerfield Beach
+state: FL
+zip: '33441'
+country: USA
+neighborhood: null
+latitude: '26.315852'
+longitude: '-80.077981'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Song - Deerfield Beach
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88d8e260d092de35:0x3c5617e3eabd99a5!3e0
+  placeUri: https://maps.google.com/?cid=4347688757936101797
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88d8e260d092de35:0x3c5617e3eabd99a5!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88d8e260d092de35:0x3c5617e3eabd99a5!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88d8e260d092de35:0x3c5617e3eabd99a5!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Song-Deerfield-Beach
+
+---

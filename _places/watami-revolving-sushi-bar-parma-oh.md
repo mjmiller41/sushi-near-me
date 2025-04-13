@@ -1,0 +1,212 @@
+---
+layout: place
+title: "watami revolving sushi bar"
+permalink: /ohio/parma/watami-revolving-sushi-bar.html
+stateAbbr: OH
+stateName: Ohio
+cityName: Parma
+place_id: ChIJFZJOodDnMIgRB9xlCzhwo-8
+photos:
+  - name: >-
+      places/ChIJFZJOodDnMIgRB9xlCzhwo-8/photos/AeeoHcLGifHiznLjKy_uSMCBcPib-ULFsIEsPndgCJZNoKNbLPIDIj0M5ot3Bf6Yiio_k0CkTwbnlAWSNZht6DyZJMP4Ls7DMfBy0Cmfr0YpxrAoOJOICFJD8xtWnOlSZDuTeSntBVuhoQ1bDpRemjPgnx6tiYJ5BDJDMBWOMyKzd9Sdt6V83L79Fas9sowJ7qE9zIYk0Ccg1qQegcJa7GSocMhSWzx8Htf-sM4wH-3IUPl-l9hqRTxfGP1Yesun1DXCAQYr0HX0nzGgoDVtRKDYJ01-31XHhCcKjAhaEBvBc-JZWQ
+    widthPx: 1512
+    heightPx: 2688
+    authorAttributions:
+      - displayName: watami revolving sushi bar
+        uri: https://maps.google.com/maps/contrib/112314792134070793492
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXwc5MF2rBvPCdiPWgX6ZjbFpRVPppDRIKDoUErgON2kw3gS2E=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP086mJQj6r8bCNgVwteIBlGipfac8g19Zu5PAv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP086mJQj6r8bCNgVwteIBlGipfac8g19Zu5PAv!2e10!4m2!3m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07
+  - name: >-
+      places/ChIJFZJOodDnMIgRB9xlCzhwo-8/photos/AeeoHcLUUIy3nD9I9M82TpneSn2oAIOtCenP-cyo1zlPkSJAn2-ftsoATUo0f_xH3j-qr8hvPcZPs_o_O0pRIWj-LG9XTbofV5sm1byR6yLKReoWVvMf0_p2fcKJtsZ8PZ8Gh6ruM8ZYgmwUSnyySCyPxZnDtG8crB5bFdj1L4soa35uRuHWPzizVwBh1lJ34DFZDQOtY0sVSJP9jFPBceTnUwIHzhfwQYlfBIMtxpPycoXfg9p8cfrsEnfL-Pf_rF9WsrXsLxRuu_E_cFDiW-uDIF6duDZ3wu565B1qYb-WNNqikQ
+    widthPx: 640
+    heightPx: 427
+    authorAttributions:
+      - displayName: watami revolving sushi bar
+        uri: https://maps.google.com/maps/contrib/112314792134070793492
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXwc5MF2rBvPCdiPWgX6ZjbFpRVPppDRIKDoUErgON2kw3gS2E=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNseSgwycmRli1gS5dyQHcKIwb6rlhx5_GfMm0X&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNseSgwycmRli1gS5dyQHcKIwb6rlhx5_GfMm0X!2e10!4m2!3m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07
+  - name: >-
+      places/ChIJFZJOodDnMIgRB9xlCzhwo-8/photos/AeeoHcKANbCHeVb5MPW8pAchqZtxxdz9fiykIusVWysPGZAPdCQhNmiJeBbP6TNP3QJs5AKqyVCQeUQC2A-sm4tSeQxsUfw8ft0o3fK7f_EhkJs4oQeoNvu3maN3RCOQDS3ao2jlU5WY5JCZk9R4oog-qqFhHAdg8MPdnKdxRB9z4bAmCP9pG6Du2syxPb__AEZxl4gxk4NJHo_JUYionCjDER2iHM5fOp5gfD07xu3B3_EzLb_O2C0mQFI3dDakAzA140Zbln_WCvbNXZ0yqcMA23qCWf_g55qr8RNUuijp70Uy0E0B9EUP8evRVz7HAM1NwmhtxLvgoODEOKLudMwghddk_EVSUNbMUFj2FEoXnoHGKSg2nSKiVpbt-_GVlnDCLjVyV3JG3qRc_SvKVffbUR785Q9oKC3zPzjzRviWrVj2XXFr3YvxheBggHt5nGFZ
+    widthPx: 2688
+    heightPx: 1512
+    authorAttributions:
+      - displayName: Tami Underwood
+        uri: https://maps.google.com/maps/contrib/109614380924609323860
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIJlKRFQj2-wjdJfBy2l3-V191KG9qHUvGhRR8H93qMUr5nKw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyw7gyi5Y2ef8JsABYHP&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyw7gyi5Y2ef8JsABYHP!2e10!4m2!3m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07
+  - name: >-
+      places/ChIJFZJOodDnMIgRB9xlCzhwo-8/photos/AeeoHcIB9all2-r5WhWJ-Y31T456DKnqEs5Q5joRT5XfkyYwQJhvFbKWTDXRJAnTkQebsILrAJxBRo_w7PwmGyPvu46593DWFTH9zv-ef4WWxBN-5pUgbGCD8FcL16dmLfxzzqS3sDOrdhiqy4N1wKbVtxJ6EVI7mNrHTf6aWo33VYzuMm4irrouaT2YN_Z1UbgAhOvXQ99SpOydXFiYXB6tjmdCLSb2w3_dDqY85mkDkYliSk3kManbEQP3brF0sVCFYmoSv41zfuLyKVchMTr_lkdmhZPkGbZR8Wgb-qfyGYWatw4tg6O085g81lukPjfTGFd-rl5oalUJ2n3ZzzkOEfYtL0OBWjRrPjjAfK4_mRs2kO6vTKs9-SVgQSmIWlBtUS34qkSrHNijhvOpnIEllfJXjOIU_ljabMjzAL13d0DCCg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Amber Persing
+        uri: https://maps.google.com/maps/contrib/112991604739418445725
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKGD1yPNjOy3228WWnrBH0mxDmr5QV0DWFA2G_4LNhsBmS8UA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf_5bdXA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf_5bdXA!2e10!4m2!3m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07
+  - name: >-
+      places/ChIJFZJOodDnMIgRB9xlCzhwo-8/photos/AeeoHcKmf6N7Qbk_PmzIG4dxzUwPAJCNIdgQCchI705KjZdLI_PXp4S5UQxq2NRqZdRkFvBOFUOop07yMJU9lsuTgo60GsjoXoqRROSOA-ers8BToI0-1a3tCbqSG03HRe98jSFkLrR604TWD1b_xFeUba-J_B8jkCGGZ3ZsIJ36Ibf_YxrQGMtlVQiA5htJW5LIyX6TdcUkryor3Ka_iSXoo-R5W0wVTiz4eS421YuNvkvnEyXGE0ZM_eFGoAiJibrqrL7_KggEzkdv5SaeGSitlt0Bq7nEc2sMi6y5h600pxqnUA49-OONsaeTTogWK54AgcXhytnI72Um-nNHTOvcDmiNORoEww7kyP-h1myMAQ_So8EiZ2K2RseaYVusOOmZ14LZRckJwM1T5gb6T2a3NP2T8sr6-mcBnUEvORHgodK3MA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sharyn Schmidt
+        uri: https://maps.google.com/maps/contrib/105445080138173076809
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJbegWSl-wBW9iwHkeb8WA2dA1lIRfcGM1CJIj4oNyU30_A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwif6wfg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwif6wfg!2e10!4m2!3m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07
+  - name: >-
+      places/ChIJFZJOodDnMIgRB9xlCzhwo-8/photos/AeeoHcJMiRoyJ5kLn5SutUqxQYgUWH6MxfKjgJjilKlntJnodBFRe49zb0An0Cvb8T6GxqIblxK39E_NsLCjkfB32OyzjcZ7bRApLa0Dj8l9BdokhQK4y-o0Z_SU3a-ni1ONEIBZWyoQNhcuNRWCfe9lRTc0ThKsalU43e4efWmHxUNotgR1spUEIPBkGJl44STr6PmzC2O8rrnMhr4apMUodmAbej7bfmNqGs4OMHydnsQq75JdsEOVBmMyevfKBQPal2x1m0CiSyoO-ai1dlrsABA4qbvAB0Q0M5XTDcM0bJlSfOsj5c-_wnP-F8Bp4oKGKv8x6-VOANJczRSaWfl_Jx2f9GrCH9iUMIKOJus5IAQ0uwghGnoB55MBuWc05qoZCVs_wMRJ0RoMSOCLjVu-Qi6vNsPzb7-Oc2ZDlhU1F_lOEADJ
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Nicole Wade
+        uri: https://maps.google.com/maps/contrib/108647851943761837185
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKyvzoKiZ8zWwMQmPLS1SbS6K38GyaMnEvik0zLpjVk03LxFg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrw5zwpQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrw5zwpQE!2e10!4m2!3m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07
+  - name: >-
+      places/ChIJFZJOodDnMIgRB9xlCzhwo-8/photos/AeeoHcIHcNtsXSYcqXV_xTfsFe0BT0ukKDEm3uxde_ljLJ1Vd203LGuK-8aPS8DHWEuW_dR2Tf_FJj0BFsKZd7OXGM8cnxz1_-g4dT9FtE9o-RQqwc9nsaxZmNDgGQwf5LrsOI1aYo5mdZ11Let650J4psKg0ppCwg3L2egGpOrD2MKI_pYBJai0woSbvjWjP6P9_3VAyA2Pdjxgx9NyBztMzZg0wH3VcbS142CvgvkOfDBe3GB5t6J996mjN1KBHx-YGueXbBnEokbKTb9Lgg6UgNa5CG6FXO8QA4Ssh1mZpXuj6MurpdzHAVI6yqhUAXnPB1ZyP68sT9vu0xcvVO7SUcPWUIW-0g5IKDBgDv69onAyskXpN-ZLm1yULHVkivzH29F4fZgFXz6UzaJgDkOUXF6fIBAhFjjqC76veUososIrkA
+    widthPx: 972
+    heightPx: 1086
+    authorAttributions:
+      - displayName: Bobbi Reed
+        uri: https://maps.google.com/maps/contrib/103621084976016447220
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV_LxUbt5cudVFj1HUiKRALCx5K0mT9T3wR_Dgqp4218fpEkd4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn8uS9Kg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn8uS9Kg!2e10!4m2!3m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07
+  - name: >-
+      places/ChIJFZJOodDnMIgRB9xlCzhwo-8/photos/AeeoHcI2Lu5PgOS8Xtemd9I9v9BYbVnI0wzv6urvEQ3wmmo5f_XCjuFpWl4JApECWjzOUa551DizkeffQ6SDSNgUFgD80_qw2oy8n6aj_gKN0-cqyLpwUCXcmvCIke0OeQaDlVfnosRKZVKgSQnauS6ctalHCrbU9ePY2WbRPCR1CZNB_WIuY0W8of-ydVzypk29FZvZV8X1xrnR7xwIAlcyd6_FNSN8Nw8s61GnBKLEju_wzmmNW9aGpGcR8DiUnrELc_ACksEBBQpLRFG7o-FedkEbovdXWqzojIVAtJ_REhtyb3vmRjNkz8-aE-_j35FHnuVtvSi4MaFrComrx7cY6RTDVRrurEBgahXGOygMS-31G7dGbMTucYnEooYMXVaypCPvnMlFmqwHZHTEluVbIIN-ipk1jnZ0hTE5Yk329EiffQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: John V
+        uri: https://maps.google.com/maps/contrib/109147752100919863423
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUbv3LKL9_s5KkUpvqJbDSsI-d9kerPSK7x65ylAbYdpkH8oaNf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjvauqHw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjvauqHw!2e10!4m2!3m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07
+  - name: >-
+      places/ChIJFZJOodDnMIgRB9xlCzhwo-8/photos/AeeoHcIGbf_TSqD4Lr0ngW84pyEkUL5VavctdPFZAOWco6QkgnkmwkvYHj0fi7FAhRyIxIZt8mAHMiOFtKti__7oAHMB-IQ2oPw70IDcCBxjkVKiyvbOWr3-v5DGYUwoNEbfnYzbgeaxpKdF-k1C0PXvUR_v7-pbyIrcAKqfIY6_WFMSEM3mMte0xV_wEiGgtREo7J0ZyyY9-VjOlxfgKbIg4SBP0I67s0rItzT51OTjhbuRjfNVBGE68tC2OKtL80iniJAwy-x0PXtRf9WIwEWhsrJixZLN0hclhNe6rqLyw0C22m9UFbeE7paSTR4A2pbbmUyOJGxPaHggVsGBKi-1lTh2CBe8mK8oeFoW8wnfdgyJ6Z3x7WQk4Xr8Hzo-zM8HhosA3jbzse67ENlRuMdhK7PckkdA8Le0xmy1CcDLirSbkQ
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: KD Booker
+        uri: https://maps.google.com/maps/contrib/117323146985195652687
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKlwuv1PIfH4s3KfdZZnyWV8njSDJphtuVggteeEov6Sxgvtw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7tM_VRQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7tM_VRQ!2e10!4m2!3m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07
+  - name: >-
+      places/ChIJFZJOodDnMIgRB9xlCzhwo-8/photos/AeeoHcKfC-hHbXBg_wR--IE1f4SzUOZkFskBUjso_CAX6B85Bri5gc3TjOQDVYzWkS0AuZunWMcaeiXB-FqfNYx75tfE3c0Qu3nY8wNqDvqnhXgWo7qxeoRbX5AP5mIH3DCrDIK9a3WbKGRVI9NjwEq1_ZwqaoMW1KvaqxF2in7cWTMGOBTK8WxIzWYh5ajwu6kybFcSWfcq3PKxp_5mgzyptCYyTdWPwj4J7B98PWLKLBOEDsP7PmL38jY0xzFZCXqFFHCZNFK0NFDQIj69LXrghtJmQlGRikI0PiIVe_zBBXgJhnqqH93MuIW3XJWOppP09fyrtujR2jvKef4iZbyAN9VtbQkdU1XhUnOfqIO8MBxc1vS6rLJ569rOhpXGZU_DlY7ERw5tkweu3wVYLCTIDMwI5WgRRzTA3JDAAnB70vjKHeIx
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: John V
+        uri: https://maps.google.com/maps/contrib/109147752100919863423
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUbv3LKL9_s5KkUpvqJbDSsI-d9kerPSK7x65ylAbYdpkH8oaNf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjvauYowE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjvauYowE!2e10!4m2!3m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07
+address: 7426 Broadview Rd, Parma, OH 44134, USA
+street: 7426 Broadview Rd
+city: Parma
+state: OH
+zip: '44134'
+country: USA
+neighborhood: null
+latitude: '41.363734'
+longitude: '-81.685360'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: watami revolving sushi bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8830e7d0a14e9215:0xefa370380b65dc07!3e0
+  placeUri: https://maps.google.com/?cid=17267768782280317959
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830e7d0a14e9215:0xefa370380b65dc07!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8830e7d0a14e9215:0xefa370380b65dc07!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830e7d0a14e9215:0xefa370380b65dc07!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: watami-revolving-sushi-bar
+
+---

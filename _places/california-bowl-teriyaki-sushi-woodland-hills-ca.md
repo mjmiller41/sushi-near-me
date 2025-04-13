@@ -1,0 +1,212 @@
+---
+layout: place
+title: "California Bowl Teriyaki Sushi"
+permalink: /california/woodland-hills/california-bowl-teriyaki-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Woodland Hills
+place_id: ChIJDeDExRycwoARGClxQFYnt7Q
+photos:
+  - name: >-
+      places/ChIJDeDExRycwoARGClxQFYnt7Q/photos/AeeoHcLt0OPO2vDzcpTh2VnL3-2nk5Q2skFPomWb1aBx9FHNYyHHFgHO9Q1lxBS6SCaa8h2UJagYUB0bCiyD3JgKF4B0B3IUjFsZVdpedQ3OO0MCwv_jLUYgiUKUwXOwq7y9hI4DsWZHpJdwBjme2pDM1Ran51BxWK4B76xKYzAWtvySJM1qF2dTxSbDB6v8yWWzBDHgDx1wVExyTwse7JEQVci8FrBQflV8BRkNRu7rQEEEdJYZ6NOI0htZqsv7SHeDzpdyI5-NWghiW-dsOiNmQu0FcSPGUbnzzu8uNww7gL94IppdIOw5Nv8r83GpFIBoUiIdccZVOzJI7MWKAlHhii1ORtIJtTPy4QmB_DAjC_yebAnAufeP5f7s0N8VbjYtlMEjAghn0yUtgwXHLNrdxTX2zTFMVq_G0NJgHX4xlVDWkw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Chung Tang
+        uri: https://maps.google.com/maps/contrib/108152902096642896263
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJcdJ4p6eT3ZOxT156MvdTxJ6OnlRYStskhjc5DLHhJ3xCIm5-i=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk8rGkQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk8rGkQQ!2e10!4m2!3m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918
+  - name: >-
+      places/ChIJDeDExRycwoARGClxQFYnt7Q/photos/AeeoHcJE5TEA1ouAxzxvIzbzZUU9VMaKvtM7mMs3YUsE1kErRk4NJaTqltI11nEeUWg7FfB9W8hLOSfeQarE4KZNHa2XPuKO8TbNWdz1jOrqzB7kU9d2GCyvALlkwlP7ECV-mZMFR9eX5yejHEgL5PxiYdyS9IzQvV0swwzwje-4grkjKzQoocalpCPwelbLDx_ay4QAZ_7gLhEq2_M6KZ6LykPeMD8Q9HxGeswfqmWA94DrNv7VGm-RvHXt8pLSe4Gj6OFinW54nZIPugypdSmGV4I47QrimAp2rstW_izwATQC_FlU0bs-FZMthjVpgEM9D4WSqal_TIe-66xOb6I0TrTjpULVqWKG9OYPWVrJLQ9mQ9_GFen87_EsowpFyqMq9WQd-9dkm25tUPvR811XsJSEkhdbqyivAh4bv0LWmLNvF9s
+    widthPx: 4032
+    heightPx: 1960
+    authorAttributions:
+      - displayName: Cristine Tablante
+        uri: https://maps.google.com/maps/contrib/116255949316943964222
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUX5FYF8vVNPf-2JJPh7jG-w5Gi3oteBWR7RG2m7sc6qhLjz6Y1=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkwZS59QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkwZS59QE!2e10!4m2!3m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918
+  - name: >-
+      places/ChIJDeDExRycwoARGClxQFYnt7Q/photos/AeeoHcIgqjFFsbT2BE87WS5fVWyD-snWgBztoFuCbLQe9qVXEcwpvtXujWqLiJThjZkB3chNKgGyQRT6NN4lLARhXMb5TWznWMZK7DaQh5wgz-ActfPvQC9Kvs1LAzD6I3xnoO77Nhec2AUJWALdKsP5e_ogb28rpsosoiKAae59xnMXoMdVwLWWjjzW0VZSimSQQJo6SAs5jdbiKXhduGmf4_LvjaNFIDQquEC_N-UggIZ6pMxJBA9kvNCLYkOiN661242LpikwtkW0cjDu_CP76DuI9ga-PabzeY1TD-5aab8XPOqpBw1YgvbNmiqWA6OD3yvSiurvy9mUUSZRj44RRTwxYpIjVs0j0VhlDDUBUTg9rBnVIH83WDnToYhWE_vMU3S5PwA0Z-ETYTwQT4lYnxndGuyU5WzicLXWRqUxmAYPNw
+    widthPx: 3270
+    heightPx: 2195
+    authorAttributions:
+      - displayName: Sean G. Rosenstock
+        uri: https://maps.google.com/maps/contrib/114071906588000872343
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXhQ3Ttrz8Dhs9kWRrL4wjhcO3G9QoNrbl0DF7lv6OvrSAtI69Isw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvrcnRdw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvrcnRdw!2e10!4m2!3m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918
+  - name: >-
+      places/ChIJDeDExRycwoARGClxQFYnt7Q/photos/AeeoHcLglWYpeVNb2yiDEGNMW-3yhhdIxHJMWWhwg1Dj6at4ezc5lQ3CmZU2qLkt7sS1R8SFRbkcREloq7vPpOYEP6SBp5w4DkDlchP4E7Kt4yOfPfpur-T4pARDiTBqAnIrsbXJgisHpTr3QmLdjsiugT9xbJl8HLKKOKowhJVL0KKvqBxq6mk_2L_mTVpR5Abn-xek1bDir5de85m3FPlYLW3zdy-68jl0_zFiMGQ-sxGrtBkwsc0zvkRiyz3_BGip_d5xnlG4GX_g1UwstRdat94LUFoGYUD07edbaGzzn449pGg7oQ23PbA6LZ7851ADcNiB2Rvfp2yNHRZmYH-PE54Pohbm06rt5Z0Rs-LmXmup-NlJcpSQbL1ANC73y5qwelu1M9-aM17camzEVlCo1KBnHoUBbJyktVts022fJpmohQU
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Mark Bundang
+        uri: https://maps.google.com/maps/contrib/107946677021977775220
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWMDEHh7g9U96avNpRnxSNMyNzY76YYbfV7pocaSpRQkuqyVBOI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbq_OQhgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbq_OQhgE!2e10!4m2!3m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918
+  - name: >-
+      places/ChIJDeDExRycwoARGClxQFYnt7Q/photos/AeeoHcJfascUaPqNSe9sx5pSAfoWbCjmkwPm0hV9v1j6IA-ueO_X2NO3qtNKsC0DKF-_z2-uhtgiyC7odEe_7JB5-kLPWCauCyHP-QCbAcMVMRiPiLMc_E9UCZXT7_hVNJyVbG8mO0usLFopKY7PztdcvIFzfYTAW50wFuFVNtuzA_0JtG-fhSUaYI6-UCFm0dbK-WnpN7EV3e3h_aufQrpJFH49VjjI5WV4bqMoL0kIGqRz4AZDzjSsaHY3b1t7UaPrcWT9qiucd9okV53-iDpsH-66xFVRsvJGy-HsA-o3qCa1izypn9lQbAAE2-H2mkg75cV0QfR8V9rJFTbmTWiNAQoRwZNoFcZjMz23SO-kvUt-gayWTnUOYzhsL-NGFJOJ0LFYpk22UAhf3vCLJXn7w33vPYRvj3rc0EtRelSVQ3dtoUiW
+    widthPx: 3096
+    heightPx: 4128
+    authorAttributions:
+      - displayName: Diana C
+        uri: https://maps.google.com/maps/contrib/100170875675081994909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWq0hhMbxTApY82hlB3qq3ybMXlzLyfaBfSpDatDn9_AHLC-Nk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICy9v2Z-gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICy9v2Z-gE!2e10!4m2!3m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918
+  - name: >-
+      places/ChIJDeDExRycwoARGClxQFYnt7Q/photos/AeeoHcIX_ZWfjWOhYa2kmOIblsOSennjphWyl9-YyiwhnR-fYvIc-cz12loriYRXSJ0N8cHPTeT-BJC13EorKM2xKR_kGV15r6d9pWuaX4y3TqX12B0IWkPeC3jYlDwMuFvcG2Jiyxd1XisV8vYutp0GoMx5ZF_BdVK3tTBki5ROiJY_H-I8AxqUcvOliVzJmbnk29YFG9w5rE8-FgLaqr-lNw2mMGW3j8F67GYbjr6nyRAkmEC00E5TodfTvGcznwVg3VN8z60vYMJ0F6wEXiN8IYv9OFu9IL5aJnXrEeOrS8lhmWKNTbBoO1pkJbvfQWiLNKCBkAl6wgtYp98V-0YNn6eAqSZNJtcW-WFo3qiCPkJPIdf_BS8qdHguaHTPSDaUfOTSreaLCEe6e4JVfCZ6c08e_ApmvAH6Rh0mdOXD__8tXg
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Sean G. Rosenstock
+        uri: https://maps.google.com/maps/contrib/114071906588000872343
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXhQ3Ttrz8Dhs9kWRrL4wjhcO3G9QoNrbl0DF7lv6OvrSAtI69Isw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvrcnLHg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvrcnLHg!2e10!4m2!3m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918
+  - name: >-
+      places/ChIJDeDExRycwoARGClxQFYnt7Q/photos/AeeoHcJ08CES-GJzW8yz-w5r5W4x5yEDuorfDh484DrJQo5lmcGcr3nyngoJyqhkELmAHVCMo8YOtUJwfq3ks2GlKzjO8eSA8ifaje1NjMgbrejXq2fJhFTNlPEWsUIXhyRU6WElV7F9Sd_GAB6k0h8_KmP6-_Can-fY2NvZ5luRb6yZDImXeBFEZ4f6F4aWbPnMjJ2teWQqTt15WmRyBmx52JsgYWj9a7WIqRxrGBanWg4cdVFNDhgfXWitCMNFuum_uonnTeZ5ONES_fqPWN7aRbDlzAvaCQzposBmyFMk5CwWd2PMu59u3N2tHwqBL_SzAQR2Ug5BApygB0C1vc0PtT9hRoEzothsc7B_SrQ35nx8wwHVUZaZLLbnAH_vqEj92N476PC7BP6lKQNpgbjQXFsQchhuAGt-lU9ASGucVw5XGL4v
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Sean G. Rosenstock
+        uri: https://maps.google.com/maps/contrib/114071906588000872343
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXhQ3Ttrz8Dhs9kWRrL4wjhcO3G9QoNrbl0DF7lv6OvrSAtI69Isw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvrcmVmwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvrcmVmwE!2e10!4m2!3m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918
+  - name: >-
+      places/ChIJDeDExRycwoARGClxQFYnt7Q/photos/AeeoHcJhHKx93LaFQ8u-lQ7diLNA71NxgoMdyEUzfhAAs4cl0hosFzNhXT9nJ3ry9vdppZFE8fi8dPFsvw9e-CId_mFdjqfnd4wNs4fI49de1epx5jSd07W3diMfTdD6mAPtRI5HVJ7uDtupWbbvXdIooUzPpxWtAa8e1JZkH2gaF5aT6ZBAbRc7KDtIKL151P7G2SwsJRMKJNkLrZgi5WqRt5EgbkFK_imzbNmJuqDZWqsE-z4aNLXewyF3niM1P-G7-4S3r6rIbPXiFCESjdUnqSW7RfhnUn7rr9otxEUhDOg0dKbcB5TpHv7IcQ7ehEUGLUAe_JtMEVHPlgpWjzX7xxwvgE2UD8nVJU0wzNVJrGi1GpybFE1l0YdTn15rm3dwF0WjBB6SG3lp3LvmpTJW7V6PX2RkU8vJ4mLUIX5MPgNAYEaI
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Chung Tang
+        uri: https://maps.google.com/maps/contrib/108152902096642896263
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJcdJ4p6eT3ZOxT156MvdTxJ6OnlRYStskhjc5DLHhJ3xCIm5-i=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk8vbluwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk8vbluwE!2e10!4m2!3m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918
+  - name: >-
+      places/ChIJDeDExRycwoARGClxQFYnt7Q/photos/AeeoHcJyTNTtT8sGe1AHDZjTLS8jOQLdBYI3-WtnVzy_8syphkBCSDLUi-A3NAUzJrUlYjXRcNV2Y8MM1AetA-EbysjjSKCs35rKI-eQrMx-U0oxDsORLhOLJ0vkzhNoqjZTkYGvyAe-KY9tIX05PM2w15Jd4OrUQtz2lQ9ZPgyMZDkuewsT8krT-iqltpEX1qjt3k8hk_sKcjFINMlA5gYVRvCR8COx-qfl_NSJr3ssqgaB46LMoC8l9JlbArqcLolbHu1cqtG5umQ--nJQy89V7-xnRWYqPdNzmmydE7uWtSMU13dzorEiwwJyGkCE3zU13xAaxGiHw7S3452U9WDlQjfgOGaOA6rpQnfQsWy6kwSJRUGiUMA3T5rTI_Bo89vKPK5z0uPqcIPUDfw8oIsmjDxQA_rzTD9Mvp4ZpjwnLNMACeLT
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Diana C
+        uri: https://maps.google.com/maps/contrib/100170875675081994909
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWq0hhMbxTApY82hlB3qq3ybMXlzLyfaBfSpDatDn9_AHLC-Nk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDyp-KZzQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDyp-KZzQE!2e10!4m2!3m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918
+  - name: >-
+      places/ChIJDeDExRycwoARGClxQFYnt7Q/photos/AeeoHcLo_b_-a_7L8QYXCvf5V-fCVvpT2dfcKB6LJvGVL1fN_c50ASql-5sYWCWJn8BG60sYEpeQQXZ8SgTvkmvt6NnmmpQXVPeohlT-OgHRpr8PSVefPf576ggvBeCoVcuw53G_3DpMYgUXiUx0AoexQv0I2Z-_w-O9D7Xe80eO119qlS34mXV0BHzo8t5xpiVPCtkzBYLvOa8nzhr0xkkAgz012wlTg9j4rbdFV2Gkq5JNWfs4Fdvn4CLGp6MMoGPu2-yQ1lTlKQFj5YDiv-lFVMA7UXgM2k21QjjS13CuR0eAcnBVHAVkwR7pMA0YktUd73UeWhI-N734qa3EUaQK_ZQKIl-GXrxQ0hYlLXXSyGoDAd_CWTiRcG_rimS7Rhi65QPeaZpgjJfvZvxM6qnibrOz9INlyIDWP1giTvqcIZJLpI0b
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jordan K
+        uri: https://maps.google.com/maps/contrib/117971111825485123009
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXEd6TcBGzWh7mpBhFK18pOEIZeyrtd0jhzjb6dgI5dQEl2GT3SUg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx0Mn28QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx0Mn28QE!2e10!4m2!3m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918
+address: 21036 Victory Blvd, Woodland Hills, CA 91367, USA
+street: 21036 Victory Blvd
+city: Woodland Hills
+state: CA
+zip: '91367'
+country: USA
+neighborhood: Woodland Hills
+latitude: '34.188065'
+longitude: '-118.592252'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: California Bowl Teriyaki Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80c29c1cc5c4e00d:0xb4b7275640712918!3e0
+  placeUri: https://maps.google.com/?cid=13021920098966907160
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29c1cc5c4e00d:0xb4b7275640712918!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80c29c1cc5c4e00d:0xb4b7275640712918!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29c1cc5c4e00d:0xb4b7275640712918!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: California-Bowl-Teriyaki-Sushi
+
+---

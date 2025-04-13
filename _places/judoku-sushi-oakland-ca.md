@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Judoku Sushi"
+permalink: /california/oakland/judoku-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Oakland
+place_id: ChIJwRdL9lWHj4ARdkHKSmcvV-w
+photos:
+  - name: >-
+      places/ChIJwRdL9lWHj4ARdkHKSmcvV-w/photos/AUy1YQ1qpPafeD6a1kah8jS_-9VgJ8sAuJsmQyGyKBHPxatovcKLBdxtpWIoQL2UMgES0aoMC-ChU4s0Df3qjayJN3gTHkkCmtY1DJPSchTTLvR6HhifOvNaJDodYsRw-2x1gfaaBDJeQ4dk9F21aWIEp_LAzcKU4nHXL9a_gI1cT5kkJThnOfX0WMaoBrNP8vOyUC2RH2IwqpdXcTL362TYGSc8OcdfS6cbLlQsbFTWajSpodI_Bh_xIhG2wVw1IFmHcQ2YeUvQ1mWLUWtZjEJvzl226z7AlTnGAAkGt7iMolxJVA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Judoku Sushi
+        uri: https://maps.google.com/maps/contrib/101177037363073475505
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ6xEZ4kapxnCBoxQUNphEqDWlKnWVXuZRZAMfO2R4yLZnn8g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNUMj_svGYGlmpq1mjo5oEsgRrpMbZbBWV9OCmb&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUMj_svGYGlmpq1mjo5oEsgRrpMbZbBWV9OCmb!2e10!4m2!3m1!1s0x808f8755f64b17c1:0xec572f674aca4176
+  - name: >-
+      places/ChIJwRdL9lWHj4ARdkHKSmcvV-w/photos/AUy1YQ0Mz0SzJH_1MaZWz3IEpRp6yFSIc5r4VoiSc1BHXKCpLz7YCfeEnkHYMpg0RAVlOTtFE_ro2_4XZQfx9BcXyyrxlx6Aunkehtn2YazUy45v3W43AfpZWBxHbPDUVqaCrXPzAxlo8EOaWrPGQzYPSodIKKxAjG6JXLfOavMtnPtSw1AbSqsYdLmL-0AXZYdfuxa_PEw7GWe8xuDi9ePQkR298QM95jrpTVkSAnhk0gU6LLZkbdXyyHjCYR_xVDgq71uiKx_My0AR6p5SDXXkaS7N9kh1pHTGe0JXp1L8i3s4DA
+    widthPx: 800
+    heightPx: 533
+    authorAttributions:
+      - displayName: Judoku Sushi
+        uri: https://maps.google.com/maps/contrib/101177037363073475505
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ6xEZ4kapxnCBoxQUNphEqDWlKnWVXuZRZAMfO2R4yLZnn8g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP7GIWNTub5o8lz7nO_B1tVauesk_y2hdLFgd6o&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7GIWNTub5o8lz7nO_B1tVauesk_y2hdLFgd6o!2e10!4m2!3m1!1s0x808f8755f64b17c1:0xec572f674aca4176
+  - name: >-
+      places/ChIJwRdL9lWHj4ARdkHKSmcvV-w/photos/AUy1YQ2_5rTfLrCOg1SJ4lkrN57JFEyqXZGcmzet60mc_2HDLhTL4UPQ9hx_T4BpGKZeaL2FLOvxpPb2duqWxqrtlHfGdgReXextvCzmRz7a_emPa4mtuR0R098T-wbtgx3csU1Dv2M9M3ypSrIrmtGHAoh8P4YlJGr_zQ6OmWjbkcPt4H9xXck0OE3kAWnyj0HI741CHsPnNcNSOuv9m9vqcyC7OXYDyV7LAM7UDplmlBS0UYhQIaj5Lsv7E-acRm17W67f4SA4_LLyPG3yVfeXCqrRR5E0Q_bAc3_jx_wSUB8lnr3vxNf555gUlesf8E2cTpk7N0zjKz2TcqLx5z2daFseiEuoXtAFOqa1y4gyOAa19ry3FhDVI2sIiR6hgGRfYemEbun0RITod56jEn82lcBH6DEn3R-nganBIxc0Cgo
+    widthPx: 1080
+    heightPx: 1440
+    authorAttributions:
+      - displayName: Sangtae Lee
+        uri: https://maps.google.com/maps/contrib/112641577349772595097
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWb_1xP0mHhwxxPD1mTTGMZhUmaAjlO7Bhph1D6Smv6ZZJp7w9A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj0pa3KA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj0pa3KA!2e10!4m2!3m1!1s0x808f8755f64b17c1:0xec572f674aca4176
+  - name: >-
+      places/ChIJwRdL9lWHj4ARdkHKSmcvV-w/photos/AUy1YQ2YVekjo0wDxkqQFvYQvZnyqjVmxeIEWUjtrgjAOmVixMaAcqUmxnrDZMy01Rkb-HCiIqy0ck7aQojKF4PZ49ue1eSVQ6WrJgA3RkWrc4wHl1jmwUTThuwvbxQjwzgbM-X_gc7Q6c9uFx7OOD4YjuWv180dmqA3YNdbG1dd5YZXgzvULs3QR-1-ipAfsr3GkE7aO_FcftBnrDRl6gCJeIbCx48fbA61YTw68VLoOISfoIb_H7EYMNc_KxXyaNSgceAVYUwEVb638sB0ntfc9QmTcSSCmt5IIfZut0YBePnv0zTyZAmTmRnmAyQYaUl3yh3d4RUBHrOjb03H0axF01FtCfP1hx_QZmvfP1dzeeKYmz5GdrXgSDraqvaUHHo8fKfWl9n3LiiQ9Mll9Es0ALtoggCjbQMzF37pUaedx4qkUA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Johnnie Lau
+        uri: https://maps.google.com/maps/contrib/107405880364843973292
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUg94xvi61b5Qy6apMOhGZR7QFnXFIx5X2NuPL8vuiFfyTsyeg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICew6TaJg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICew6TaJg!2e10!4m2!3m1!1s0x808f8755f64b17c1:0xec572f674aca4176
+  - name: >-
+      places/ChIJwRdL9lWHj4ARdkHKSmcvV-w/photos/AUy1YQ1kqn3gK4j3EkbJlwG6ZSiv_EQt2zPuaLYLH_R5ZSrwCy0hhYU0VrVW_erJc4hzFRZh5FZVwcj5_9iz8ACTxlIH4ovWvHG6PgbNsc_emGJVFGkkFGoI0EMwJ3ZPFK9_qBHZqdB4943PGeOPbHQNnINOR6gXzUJul51a8jH970PlSn9LW1AKU2YPoDjMfCOt5eq24OysFI_CFOpva0Dgkpua4jGcWdUizmo6oHvPlLOpBDHeTJ2rqPRj6VH0BZwKp-ZoTc2gkR3YeZKoZiV4oNA8olFQrB6FNFw8lj19EWCN4Q
+    widthPx: 800
+    heightPx: 450
+    authorAttributions:
+      - displayName: Judoku Sushi
+        uri: https://maps.google.com/maps/contrib/101177037363073475505
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ6xEZ4kapxnCBoxQUNphEqDWlKnWVXuZRZAMfO2R4yLZnn8g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMniI7lBFf2WN-vGcT5piMFsUXVCUocyBC1bZE6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMniI7lBFf2WN-vGcT5piMFsUXVCUocyBC1bZE6!2e10!4m2!3m1!1s0x808f8755f64b17c1:0xec572f674aca4176
+  - name: >-
+      places/ChIJwRdL9lWHj4ARdkHKSmcvV-w/photos/AUy1YQ1FTcgkMmu4MFxCVVAWZa1Q_MjtgE-vDCgur0alojPSulUwgZ0g2EMbje4ZiO-wALwnLgKGLPrLXulieDTgaVtLR9XBaQkt7SW7hDV5fOM9tEVKRk5ppznRw3aegn_DarZt9AG1zP4Ie0VGoj-Z2zvGMj-WuK249cfX1lHzMiVuHlFFkS3yCG6xSiBBeAmPIHeazLV1-wqfZ6uIC2VQKEwvfvmQ118z-MmMO5SImEnhimrI0ekNi96vyQPo4mdO3iZeGTq_nRFqJBteItnGcIZG5aSfXwxyxJN3gArSuiffhQ
+    widthPx: 800
+    heightPx: 533
+    authorAttributions:
+      - displayName: Judoku Sushi
+        uri: https://maps.google.com/maps/contrib/101177037363073475505
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ6xEZ4kapxnCBoxQUNphEqDWlKnWVXuZRZAMfO2R4yLZnn8g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNqGmeFgvlKIzvH6dU362vTXfW9l4IjWDcdo6sk&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNqGmeFgvlKIzvH6dU362vTXfW9l4IjWDcdo6sk!2e10!4m2!3m1!1s0x808f8755f64b17c1:0xec572f674aca4176
+  - name: >-
+      places/ChIJwRdL9lWHj4ARdkHKSmcvV-w/photos/AUy1YQ1TM_2uwB3fiBJ6FMawiI-08AspmRJX7muDucfy-4p3hAMIW_MwDPzhCf7l9CgNUK_PISPX1uulRAu5rMSTr7G7KvAZwbBwV22V7zw52WOT51V6eEYTrtw2pITWenv3G0paeEZ4xsD4aqH2P2P0eWel7EuCBX4bWe8hMlydL98mHtYV6hAzdI2faRISgIplu86GBJkiU2bs5PBH9mfG_WhPGyDmV5G0w999qGkyNdCvZoziwKjJsl_G1bTNb1qaJTsH540lN0qljdx7ZT-HoJCqEc6aW8L0C_G_UVZZifWN9wYwVtC9ohDb8_Ud93SugjdzjoZfyjb4zZC9GUqub36BXmAxBM7OUcx6om8XanTDQFhECyoc9NYRmVQBvc1jJcgtcVkld2Ieq-I9Xu_Qn50Bl1bqMlE2vWm43vwaU8GP_h7o
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Andrew “jc” Chang
+        uri: https://maps.google.com/maps/contrib/111574532729357790876
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX5MKPNju2GorK0qGVL5mOnJDZfqN4fH-0kDl3e8KcBPB0hUvUH=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdxM-s5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdxM-s5wE!2e10!4m2!3m1!1s0x808f8755f64b17c1:0xec572f674aca4176
+  - name: >-
+      places/ChIJwRdL9lWHj4ARdkHKSmcvV-w/photos/AUy1YQ3Uv3WifTBp0thqSrzlErcLzqwB8gLCEuqlXGjzVXfzHRqjcp4T3joOvRhAAdN8DNUBBR5cU9-5s-6jDGVvZ2wubXpJnSAY1Hssq7ROoWybH9h00pVPesdQy2Ous950-cb3I31Y9EZgk6NcukoMQDfx8FRCN9x_9bwT40hqmctwSN_uUQ5ARHTTkC8mPAl5RoAgPv4j5C2xraqO8T_ElbEnnKjl6TtqhpgClm-aZlMC2yFTbQTDYCAfFQ1HjPKnXhBzP8o7UN_-4keHUmgApgpkJyelVOnlqR6phHUa_ypFiko8P7rvaVOqKwjRgZxgKenEf2NncUSRO1XYSveDaZg1cCkcGzS4JgWEnt3OFH1fFZIK10XfimJUfsCk8_jnM_BmIMBxZ6M7pvuswI8CX-lBJKL8RHKlnRSFXG_xBt0
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sibin Stephen
+        uri: https://maps.google.com/maps/contrib/111130025683193236301
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUuN6dqjvb6uiWgrD_Um7Pzs_x1o2PKU7Iz_Sr00ITBip-hJ6OfOg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcyojuLg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcyojuLg!2e10!4m2!3m1!1s0x808f8755f64b17c1:0xec572f674aca4176
+  - name: >-
+      places/ChIJwRdL9lWHj4ARdkHKSmcvV-w/photos/AUy1YQ2GDJAiD7OulgpGb1TJZMSlwnk0Auf2GYOFAQ5n8flj1OctJnIWh1t33qKJv75JExaw9_7ABEJKta8FYMVganmNhrqWb9eQCf9Dh2Yn38IMeMhdM74KeAgSyqEbeDKYJRd1nQwOWxHFB2cPWqooDcEcgsvcrHBsuS_ruXz9BWMGSx0N72d6wDu2mtefRgMniv7LO39EzzprGeffCFc5o0qvE-FQEjZQaW513cqAtELL51_fvkdo5uApYC-yV_GX5_HUChe-_iyO23fORDzK2mhg67KiufcrO2O8o0DAnDN4wA
+    widthPx: 800
+    heightPx: 533
+    authorAttributions:
+      - displayName: Judoku Sushi
+        uri: https://maps.google.com/maps/contrib/101177037363073475505
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ6xEZ4kapxnCBoxQUNphEqDWlKnWVXuZRZAMfO2R4yLZnn8g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNieailYwZSwLnx4xE2e1EFf17Df1ovAm4myhzX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNieailYwZSwLnx4xE2e1EFf17Df1ovAm4myhzX!2e10!4m2!3m1!1s0x808f8755f64b17c1:0xec572f674aca4176
+  - name: >-
+      places/ChIJwRdL9lWHj4ARdkHKSmcvV-w/photos/AUy1YQ3pHjPkohyNwnGCeS4ch5p50Bd7BehJfM4vBRhorMo7qGpDguuRauPiLrH-FOQw8bEK6pc4vYut7XyVBfIh3um9-bzN3AsTLVbCSOm53Yw0UPMmOsyvTTl9DCzNcZYgCHaIaVgKcvc_qzvHxnRQfmfBVCxlIZ38FeyiCHlb4Urp_YcGKYb-m4O0y62UgH0LxvcSOUNrPThnWeCXubW_0E6WleaO-FVqODQER47hufDtgrF4FCqA_2o4o-E8rdVp8ECxzTpHLWmteD-dwItM5JGno9GVE2mUQ-N_-8tosvCMlZCJIp7gQZDxmlWW23mDQr30eqV9YIc9uR4VExOLY_nlt4IwS4o5pT1Z1Vlzts41JjC5o1D6fNtHBkM0IZzwq8rvVcApjnJOJ0XWP17oLyhFYnHXdb7n_DPftd7qTt4u2oRf
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: 조승현
+        uri: https://maps.google.com/maps/contrib/111513133355790539085
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK6uBT9IyoFQadd_wefcO6ZWWDtN6I97YoxWwUSyzuNjN5T1Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTpqrKkwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTpqrKkwE!2e10!4m2!3m1!1s0x808f8755f64b17c1:0xec572f674aca4176
+address: 3314 Piedmont Ave, Oakland, CA 94611, USA
+street: 3314 Piedmont Ave
+city: Oakland
+state: CA
+zip: '94611'
+country: USA
+neighborhood: Oakland Ave - Harrison St
+latitude: '37.820778'
+longitude: '-122.260636'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Judoku Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808f8755f64b17c1:0xec572f674aca4176!3e0
+  placeUri: https://maps.google.com/?cid=17030132636607725942
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f8755f64b17c1:0xec572f674aca4176!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808f8755f64b17c1:0xec572f674aca4176!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f8755f64b17c1:0xec572f674aca4176!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Judoku-Sushi
+
+---

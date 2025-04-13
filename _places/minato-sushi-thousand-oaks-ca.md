@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Minato Sushi"
+permalink: /california/thousand-oaks/minato-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Thousand Oaks
+place_id: ChIJyyTxhgYw6IARoFj_znrkxrM
+photos:
+  - name: >-
+      places/ChIJyyTxhgYw6IARoFj_znrkxrM/photos/AeeoHcIs-LVTmgTIM9s7aOMfl09VppS-NBraoWGwy-DHQYSNYiEs8R2GcDL03b9qsnGeRYEhaFy7DeX_VggbTb0mTOyFrLJ5HfsNDBHDSp6UuKwIbDg49EvMXOCS0QcXaWEX2qCMlYiJYGw5PR1cnogJfpyUIiHLufk77fNmizovBqMqX5Goq9Lc26YuftcwV3HLpI0j-pt2tGVjgrzkf8AmGEYKeJPF45-Db7lP5HzYMPWz7pDrYH5e-lbsRUTiRw49tm78RsEIYytAGomxmWWbmGW8hjdNBnbiEtHUQ96xB7b14A6fvDJ03wCDasw7cd-ktiUWz-8K74HHlwJovy3wspRRbIg32q_Yt20-VekJFKmKMLNZkXtopT69-UZkZPz6zt7g_4aOB72V2hbkMqEsRhHiTox3TwF9CXr-BrhI80UJqDqR
+    widthPx: 3201
+    heightPx: 1800
+    authorAttributions:
+      - displayName: D S
+        uri: https://maps.google.com/maps/contrib/102949790711419149355
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLuHW5RcGOfXfvOUF7aINJiHyMgqxaXQYQ7Q_yZOCo90Kr2Ww=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICm5NDP5AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm5NDP5AE!2e10!4m2!3m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0
+  - name: >-
+      places/ChIJyyTxhgYw6IARoFj_znrkxrM/photos/AeeoHcLPVa6TAdYXo2S9VB1nhf4DKewfXwQln0O2HDqLAZ44bMmQ0lW_5LNZeb4bLM5GeAy6evAGlEo_iVY7IfXoshFS34ck1ECfgcZ3qqo2uieL-9LKQKvAJNeiC1B-csnKM11gp3rbjcMmfndj8tt_XmHF-0C3CeowSLKg8yNN6a2NbEjgcbfvSSCK-nUY0i2FTZabV3mXXD-gNgJ2AjSbM6NjG4xes3eTBvttvimH7VwwvRZYfyRxpEfZgcHMutcZ0C2Q_rY0sXwr8k3jecH6mHekGBZyOYaiNXDfIiJLqEZOeftMHOY1dwxVq00zirYey20j4gSi5wZcUvwc57iW4j78TjMR_n65Q62iwoZ_99Kf1KoFXPz8zwwy9mKQcpl9QzFzz76BNo2G8_8t9ODFgWqBBjgJZ-AbSwT9u79eKhdsEio
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: ねこ5
+        uri: https://maps.google.com/maps/contrib/103499259538705930799
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXjRxO07EMmZHJAy9xlXNr8mDBBbRnRjoamkhJ2Gd2blbpKYAaU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg8Ov_xwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg8Ov_xwE!2e10!4m2!3m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0
+  - name: >-
+      places/ChIJyyTxhgYw6IARoFj_znrkxrM/photos/AeeoHcIYu-kMLWCGbrut8uWhj_7xw9BoOArfTM_jp4sJq_HyBT8w_zRQ6WGcJBrnJ9ND72lUVfUHOkI8wR2AU1wb2iFfwxQM_n24VBqMRSiqsqaiKzdzakG7EHQie5mJxbscugsqtCQuBciMrF-WbcQlwL25UcRo-vlL5efmiHc3Q5_86-7l0ywAVDg5-QqD5n2A_iWcoS5c4j1KNKRt6Qdl0V2rX6ucb2sJW3GqtrORLA4SvFsBv-8ZDcJ6xPGSowFaQzYDSMCht3Li-MwBumL1t-StjqneJaYzAleRdCyV30e7vqxkTmFSIMnf9WfQH1VViZUJbxaLvcQcjoHnx-gt7BcZftohJ-3V8rI56Q2p5TM2myrk1PTx3n3P7WQ-5kTQbc2izFmiXOp7xE-_Du-N6aiex9xCVoPN92E944bW9UM
+    widthPx: 2700
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Mervin Galvez
+        uri: https://maps.google.com/maps/contrib/108577873026942032142
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUEZW7BrcGp51b7p-OyevsldhkOy1u9I42vak8B9r2UmF7dLXQm-A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICyjtykMw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyjtykMw!2e10!4m2!3m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0
+  - name: >-
+      places/ChIJyyTxhgYw6IARoFj_znrkxrM/photos/AeeoHcI7KDV7ZKnGou6m7Um3WgjLwMwNNypIo7c8rLGj0EX4w8PU0UmW5n-lB9szs6y2C3CtOVBn5Zb-1560FOdEsSrjcb41QMxi_iqmbX1xdehNbIk56DgDTR__yQW_wUuq6BDqCx6lSa9v4MCQZNDW6M4rhvTr2FIb6wXSdkwYLsCASmDV_ZF-zuOtm9EV3ny6ihAsWeeFvIQp3Z1wz-geyWMo1nN1ws8VT5FeZOsjAyvuJ48rQxTnr1TfCPiwfx54tWJooYQfBA9cqXdk5Ea1VcaUZwSlpadfV_coXNNgAXPuY7P-FJkjyRc-U3VlfU1vx5q8p9PkvwoFs4fiM0RKlYdI6LgQrbRgTiY-UkOcEzT38K7HjQde5MMm11zmLO-yeBIQvEYaEJ1Lqbz7fhkSv8MsN2wBpTgpHuJ71mDoWsmRDsE4
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: ねこ5
+        uri: https://maps.google.com/maps/contrib/103499259538705930799
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXjRxO07EMmZHJAy9xlXNr8mDBBbRnRjoamkhJ2Gd2blbpKYAaU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg8Ov_pwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg8Ov_pwE!2e10!4m2!3m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0
+  - name: >-
+      places/ChIJyyTxhgYw6IARoFj_znrkxrM/photos/AeeoHcJy-Thye68QlLthI3WfA-MnjxHLXEZSjE3-7k198eWxrOsDK1Uf8-NYMl-XbS5VO7GSGta4XCh4LVndcBK6KQNdlc8wufTGwvl6ECgCMfP2LWQsbw7mMdZZ7reBZhKJc40fiDdUrBMnuOz8LoiUo5bAHQe3vYNIpQDhQfL5t6YTwVlpcH0kDRXXbp18C1ocvRcTYrdx7RTJO9y5mf2CJYTtdETuvSSYqPFwyXYdcbZ4yk1vQ-71ya27YcHl0bfdv_TDxbAxJdLuxsMLGtjgn-0M8IV3c5ht70niN6J81rKW1T_B4yqGJgXOQFexD8RvnBkVeMXCsnj6jJPh4jf8mT_PA1g79uajlzn4Lumdw1CzuJQ0lgYJnDbIHnyCWzI3j-O1EntMFEtSzoKPkwBJIEGXIt4q7LZX1bdcNuC6S-_KLtc
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Georgina Corkett
+        uri: https://maps.google.com/maps/contrib/111036590356007830609
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV6gR35M4aX8OOxYiiadbqsBgyr2Re-VCB3UubZZgac_GWxD-LQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3k_iO3AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3k_iO3AE!2e10!4m2!3m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0
+  - name: >-
+      places/ChIJyyTxhgYw6IARoFj_znrkxrM/photos/AeeoHcLA3tNlZWjw_Th5i-yI1zEYatWDvvpWIX2sVT0BzUF1RyB0a9lxZ3lI2dWz9LFJQgKM7FliMRvrpNFmp7rYHjLCvb5K7Cdfq_e8Et--M_2q0SWLviLrJw0cw2Zu3ztI1-kx4a5AkhmBYi8aca4DwAkH2OKI-eqfJnVdudjfRg2ZC8ueMa9v2nN2gtK8IQRUrngKUvvmOjuiFkvnJN7KqkwAohtfAeE7zajVOB364ekoYU03HSTX3BU1lRlumbCONVb3i8vJVMaZp98Y676vuYvuLbehxWhh_x99PTz1nBQIywKdoI8-QhmqT054fzmkBSr9k6_s4-JXGSzIy2Lfraf3X3zWR-sMworEsWv06hHNRcvHL1ok3iYrlVZrf25HnKr6bVIymSYNENizTPe2EqSwZMVeS_Oa6rMLPVsqzLyInqgC
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Nora Elez
+        uri: https://maps.google.com/maps/contrib/117442415510258164269
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLdLtGYrhrF6xnzmRy8saoYz3guPVGGd_noenplrsIohU_m8w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIClmYS1nQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClmYS1nQE!2e10!4m2!3m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0
+  - name: >-
+      places/ChIJyyTxhgYw6IARoFj_znrkxrM/photos/AeeoHcJy1FyliaGeirXfd3dSaeopmIn8pGsMgF5AXTGDJr8-1YVrfSpeauGMIO9zw-Dn9YtvzITSk0dF6ppxokfF03MGKgVc11DsjgqDXjxfmxuWMBQOa-W1kCjkSWtMtHBrZ-zuZY_aldKbD5rVJx1VvV9mnXzQcZ_8Ft6_wnYvlHHlVFF8jDRd4PTVI_gDMKdhOEJSBu-C4varGZmWsttb4WKJ_C6qfqm_67CY3A_BG9_YyjY4fVOfkHwvnSshn2HGoqR5RuezENjVq5H4WdYiK1c3FONrUHfzLhyywEC8gn9UkBsBiDqfUTUVZ0B7_acmNayLKmZgXvfCQGs6Zwz5rWBL8AQmRTlVwGmKMj4J0XjVCwwLBHDlDMqPndIioXnn4sOwq5jrcptQWzFjwSFNBFtu0k5fzgpVUCugrQ8Yin88Mg
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: natalie p
+        uri: https://maps.google.com/maps/contrib/112771174125740957233
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWKL47iji639eY8-Wo-pRK6OFm-y9pKZdUriDgLDcsiA8XKLcRxSA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAu4qCMw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAu4qCMw!2e10!4m2!3m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0
+  - name: >-
+      places/ChIJyyTxhgYw6IARoFj_znrkxrM/photos/AeeoHcIv1HR6VqePECg421Vb4ABgg9HxxIRakpR8-mxYvnWRh-zCqdBsLipRsiXyn-XCkUZeVILPs4cI9KvR71zzRpkDzxmXiTIsfpBw-nlXEdwoY3LrS6kPUUE_7S3R6JqBbpuxZlNoNe0YBpteIpkPQ6wQWIcBOfZydBYn_VgMBcJdDPVu5FcnE3XdpDjfdeNQOhiCAOf4gPZbgFgypFLlUURtEU1HtuCKVIFd_C3nB9PDAWVUIRUKkEah-MJ5d5SnsJBgUgbyGhg3GBP2qgc639FSp_emECoDotuaSiu_LqOcRh_1QlWN64SE57t5j825KbubZgtCbreCpvrVjKiUvcauA5eD6kRlRUdpAlgCqCfH52m4Rj-7fa0CJGoJRK1lFKAGwq6TzeK8SB-v3Rk3uANn9TXYmPbz62wSn6BGjgdmfG7B
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Anna Parker
+        uri: https://maps.google.com/maps/contrib/117575090038227917996
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW2DpBECQLKNESMgzi3SE7Xlk_iak2legqj_IWEI_hgoRZNooMe=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbgb6Y_AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbgb6Y_AE!2e10!4m2!3m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0
+  - name: >-
+      places/ChIJyyTxhgYw6IARoFj_znrkxrM/photos/AeeoHcI4FUCSXU6K6uZmRL1JZegXkJ15hihWSUtxVBfyvfI7TlVc5eaPrSf3iTMaPOh0CWo8XRLWPe4fW92K5ZwXSjQiAMzYZbxXBzZZMWsTc7rgyov05xZxJ-OysSvNazxFXNMKxCyhf7BADV3pq73uWWDEGL-R4tkGw_qCKd4enUD3XMXYMsMIMgKOg3n68PSvmHB7Sm0THRY-y0UMpiZub6PW4dAwlpYGodl9jJECWWerh-C0jIUxsnOAUfvb1ujeSxkFSTLCkHSfGoX_dFtlnFFEr7GraHAEYWiz8uaCATQCFvUx9oeZOchIaQHQfqMS6rHK_5HNJ9LXGdmFNngvqWhYFWe5zrmrAv2v5IqLmttZE8UB103eQjKbjN4eBJH8ZrutwTX2XD7lhL6QC5neaJSBDqCdspNBiaTFRmUc6KFENg
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: R C J
+        uri: https://maps.google.com/maps/contrib/116158004995394058619
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhwU9LuzymkkFvoxkRJg8nkXwnSJa-PPuKamiq9T3pasb1m2m0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDmpqTqOQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmpqTqOQ!2e10!4m2!3m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0
+  - name: >-
+      places/ChIJyyTxhgYw6IARoFj_znrkxrM/photos/AeeoHcKweGFoetvmkPjbK4i_3XVC_sraWqSUnBQKQzXfxVekXI43R2LEtdGcFJkrmG1r1KroXJlJcrJZ14tFCsKBRYv7EqYsGyEBpl4VotJk3qvQBnhMsbrbIZxMx-lwKlE5y7X6ns2Ut3DOa36lCQoZZrw5iBLKBhbEjAL-Uxe_h8FRYqnBzNImN9sPLaoEakTOvV-PKZJXBvh7kJnQW8434xSon0fOKQBqnzMc5hxjXmmfb4fpUxtmHxtvX4v00fhiFJOWED4akmItLqIt2gEiaWUQEUmJPs1MEHzTfjdkarKLn_l17xBpoVV3C5qKHn2kp8yowGzZPC9RSzjdGieaAr5CC_Ofqo2hcv2PtPSPQlKTGZb8tcXP7bFKG8VdZefbmhitC5o9MYfNzGrRTMgbj_e3_QhkauZbiubseCUqiCHVNGE
+    widthPx: 4608
+    heightPx: 3456
+    authorAttributions:
+      - displayName: Jon Letourneau
+        uri: https://maps.google.com/maps/contrib/115402875459712865575
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWbW_KlRLpqK30Q5WtbVhT4D1B49XXwk7NvkXhEdLIIiOcm7aSZlw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMpO2jkAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMpO2jkAE!2e10!4m2!3m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0
+address: 1678 N Moorpark Rd, Thousand Oaks, CA 91360, USA
+street: 1678 N Moorpark Rd
+city: Thousand Oaks
+state: CA
+zip: '91360'
+country: USA
+neighborhood: null
+latitude: '34.200150'
+longitude: '-118.867003'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Minato Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80e8300686f124cb:0xb3c6e47aceff58a0!3e0
+  placeUri: https://maps.google.com/?cid=12954292594287794336
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e8300686f124cb:0xb3c6e47aceff58a0!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80e8300686f124cb:0xb3c6e47aceff58a0!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e8300686f124cb:0xb3c6e47aceff58a0!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Minato-Sushi
+
+---

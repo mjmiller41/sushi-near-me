@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Green's Grill & Sushi Bar"
+permalink: /virginia/blacksburg/green-s-grill-sushi-bar.html
+stateAbbr: VA
+stateName: Virginia
+cityName: Blacksburg
+place_id: ChIJnTvHm3SVTYgRmbYn6HGBGXk
+photos:
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AUy1YQ0TLoJkXvLhJ_lxwv1uCIVdUROHserngdOKaiVSiok12eeFDHZp3dV2mHjHy3en7zFGmvf-lRapWyA--JiPX7H4u1DZUuDecUD6MvjKEvZrTd3H11a11kd_IjjgbWDjhw22AVogcz4ImDYkIvISmP-SyK_SvJIM8JTF0XewvT1FoCccsMio0a5L6IueAmPneg2B9m0RaL0vXcuwnrQIgq28h6cxnZBNizedgNmF_fJViKbyDTStGfUWMe9B9GD5Dbn--mNSX3CfgIn8BHbqKTEncS3SHTKOuNv5qE8bzY4ovw
+    widthPx: 1284
+    heightPx: 739
+    authorAttributions:
+      - displayName: Green's Grill & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/114914001794428442814
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuwVcBXcfqfWGW9tOLZCmLs6jVO3Qb67kW4gXg9-0c3Q3-WwI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOChcy6hS_-RvwyKedOT8ZTbCAtEQYXZtXpS8yJ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOChcy6hS_-RvwyKedOT8ZTbCAtEQYXZtXpS8yJ!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AUy1YQ0gmFFydv82qDLmEhcIMkXyaPRPVBQDt-ij0PIWXfoaKNoqi6zdd6sqhbAxSAhfjLnvMIUlQWOKR3gEfQVvRTgdpRdh-4UTTmrMDcHiDOolBahoz3ytlbCBHOqGe41qgq4mD1e3SEIPM6c55vuZ-v5ebcYCpuOBT2DFSRNfoNPW-oROLf-wt73F7GRXddENSuC2DQQYDk5qeZq-DhZyXEjpqsPFBS5SNuthVr5aIb_h7w2otV1CHpW2H5nAHWT1WQ4H-7j2AB5H1h7NLW7PT9wAh_hY9rLHnIiBrOSfOFXYow
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Green's Grill & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/114914001794428442814
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuwVcBXcfqfWGW9tOLZCmLs6jVO3Qb67kW4gXg9-0c3Q3-WwI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMM6u9B5-wiLXwKggQfRTCfv6EvaEeHt5CsCUSd&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMM6u9B5-wiLXwKggQfRTCfv6EvaEeHt5CsCUSd!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AUy1YQ2QCRFrQhN9YfFFty2zq0xVKq0alsNqu_qGMdSwmsPmhhd2DUPjFrUys7MhTK9hBQICZ5tpNgzoBoo5V48ugnrdwTv0UU4kYtDxxDpKh6bAngUPaqgAA2J_ZlRyrv97C1eOXzmAxzb8LuIwiZM5y_RPdKxfJ8orwIjOcf-9Xu7EUqCSfRQuMNrB9f8nj-BwV96m7Y7Nm3YVbXuX2pgpazAn9Nibo1GH7uSunadLs4c16Uk1lQs0EKjnmQTurvos5RWD13eLCw3psQk6Vs5AbWb7GfnfkRnjcPJJFK1fL1coc6-x1sSNQN5qVJ4moQKCqAXMaXvsww6YAoyTwh5RJPd65MO_1K-gJimKBb_MK4rr3zjlXk4bqI3_ymDae4bqX-rCO0tdEu--A48g0wv7ydHLyo0umJEpwNvnoW6gsjncxQ
+    widthPx: 3024
+    heightPx: 2351
+    authorAttributions:
+      - displayName: Music Craftsman
+        uri: https://maps.google.com/maps/contrib/100357907857695019136
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjULzFfxEjVDqJPh3Q5VyBPyu_cEJxmVBgTZLqt2Kccva7QWSd-C=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwsL39Dw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwsL39Dw!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AUy1YQ0hYT0-kQbsmaFtcfpr6MJ0xKwWGHEfOfYPHvPxDAZA-y0twuduxb-PIBz36Or2MAuu1-16P9782sFYcMVC44guY5D_1elJEiQ7uQIGTrxakubSDUx34MjFQcQREvg0qUcDZ02JYwnngSgofKjYT0vA85eAjs6wiWXC5sSsZbwcBWkrU4StHKCI20yCHJZvqwRX3EjDNIapl4S8tSwO_OVG_w6jbdGl01AtIcREMzj2CDJOeTs17o5fnPvXT8JfQ2r2_iRhM9eve7v3cKvPvtf7OwgONCuuE2bibQ1A4RjglQwLbwepwqL--niE4Sit35JmkKlZ8DwmshP6__LTUJnmlL6cipGOEVIlPd0akFKWWjdqjgxnlN7TEL3uv_HwgPt9EMB0NJEvXZKUHZw2xdSZz5Y503qHUbP90p1HywfDgg2x
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Mariam Elgouhary
+        uri: https://maps.google.com/maps/contrib/100940805781957570919
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLKvTIQT8Go8eo6EjImt3r6OPm6BCm9AnKKvop0HWy6LIvA3g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_7LWg7QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_7LWg7QE!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AUy1YQ1r9BAILUBmC2TDJhWmtLCvrwwQjk66v1edA-Hi2Rj-xgK7X79VX7XLg_0unSaKe5SvZrbNUzpr9Cj6_5hiF4WB0kb395UAGM81Z1M_seUBVsBAceaD47RxybHlIQyG0KsKL-cWyiEiv58RgzviwtdUP-0vsK66iUtqCcxS7L68NAzWxmdTEI6b8AocNvC22glZmSqLadwGcj3L1qc_WkjI9t2P0yD007A3keK5xEzD_0jbfvqZkzdvTP350ABDr05BANKzWCmnde56_QxY1LSSHzAGD28cSaT6eggAQlgzFQ
+    widthPx: 1152
+    heightPx: 2048
+    authorAttributions:
+      - displayName: Green's Grill & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/114914001794428442814
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuwVcBXcfqfWGW9tOLZCmLs6jVO3Qb67kW4gXg9-0c3Q3-WwI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP7qOaRa2yY1nYWBp2G_ZauIwLGlOB5rmxt34te&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7qOaRa2yY1nYWBp2G_ZauIwLGlOB5rmxt34te!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AUy1YQ2GtBdwh47gXyrMnpXdgMdJrl7imwH85kny6mLhuh_QNMSo44RSieQfr6FEMVF5blZ0b7KYV1Rxlpp3hTt41JEccPphG360Rq5LZrx-rffTzxBy705kCDr06tztnUz9e5ROf2omnjteFbaJrOXpDnK9PmiwJBAwIReNJzqNQNjqlGcMYz2H2QERNsbBG0aqmha7CXwcQFNMtEAyDi5zEV3Uh6ceRbUwS7hZ5ItY8Zrp8LC7Rchohauac9EuGSzmbFVWpqQQ2rulkm-Rm_09B50dkf93sJUJt3kel4WqwNemJw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Green's Grill & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/114914001794428442814
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuwVcBXcfqfWGW9tOLZCmLs6jVO3Qb67kW4gXg9-0c3Q3-WwI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVjD3G1SCLY0XMhXaqzuN0fIfL46rhdwRylFS5&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVjD3G1SCLY0XMhXaqzuN0fIfL46rhdwRylFS5!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AUy1YQ2UGJQp8ITinx8b4eIJA-vFij3XhEuaW4YZKe25H7lfMCmgN_gdgY-pUik-EQ56_3gSQTGCctuTn1Oy-N8T1lDD8ZymxjMc9Gq9leRtqI8vNv0Ka7jyXzWQappQL6xoQ2vaHPAlecFwfXk35h3jOIex_FzWtEgkxaH90SKnVmELjYN-neiXL2iVaDagDM-22IzdWXSJBFBRSQX0yRneVaGoSZLft16DsvTPf0mvlH3SipkcdL5HYbRBLa4RzVqNPEsiXgRjXPMAjzchU2O_T3KR55TD1tM2l0bHTRbiRCGDJO9PuYJhaua3vjTouK5oSRsNV48fSYTT3sQT-5DJKUGBn_QT_0Pk0FKlGwTVAS8NigF2NteSBABNrqXdtAnaR0VA-ame7TUIx3CihlL9Dr7do0o5Rgub8fT2cTlT4qgPaeR5
+    widthPx: 960
+    heightPx: 727
+    authorAttributions:
+      - displayName: Taylor Silcox
+        uri: https://maps.google.com/maps/contrib/112634258172539832650
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKeiGi-cdgnVxJ87nZdtBj5jtYw3okdyMB4OTJifbLZd-1uLg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJi-mhrQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJi-mhrQE!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AUy1YQ0aEo7Nec6qcLzqTeRmRw7F7ipRihKTt41ZNvCVcZRoHOn30WEU2JTIk2O5IxrrN8Q-Qbl6RKBsfTxGh-0SPuMM0j9K27Fz4js1iRCPMRUAKj4ovKE2yIFrJ992eME01ChQx3QRyZyGtSMbTtMjcppRJj9voFXyjKYz1g9zWmxTbJoakhKZI3pZGk66gpvASDDJrPPPN5Ekji_Ulsv_22FjNbDN89OhJEWkRYUKRPc7CUIqV9RkwptkjlIsT-faISya16shRUsDH5sb-l9D8Mrr2t5Kxddd65w2FJFi-jaKWzMsLNQWgz06jhVDmt0s8xf4UgNTPMh9WzJ8XSGLKNz0n0ZZYdjEETCOunWVgJ73947CElrhvnJQza6zSe7O1tO4P76ETbYPgREd32xKLIOLweRnjICR2c6S_G9_qQ8
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: 최경욱
+        uri: https://maps.google.com/maps/contrib/102287859554063352445
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL4AZtx515JW721GtWSb60kr3OoZET-f0rv_LIDjsMVFpx-2A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk0qXWQg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk0qXWQg!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AUy1YQ3rrFTPbdEPkvcMhXZzo0Ktd0LGQa48M6s_m7SLtJyxTI8YL1hhweeSRvB3RNZqik2tE8V-CFcFYrBWd9mqpzBtd6KLUSR64LxwWClt_fZdkrz3k-Tb_sszBZtZhIjLJUYCk2tmzhAZvmg06LHTCMXJ-81cJosvyIFWJuYFs2FiAiMGrU72l519fRbeWo1Y2HaWq6asiZ8KwD30TrrVNTHdEiYzku3LA9HbphPU8_bY6m9-fhkL4X8XvKh23tNQVKExFlVeTH-tJp89UDR1_HTq8HFl1_CmquGB8xGvkxVJKg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Green's Grill & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/114914001794428442814
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuwVcBXcfqfWGW9tOLZCmLs6jVO3Qb67kW4gXg9-0c3Q3-WwI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPGpFw6K0FVL4OMaSK_4puTLiG6k3k8L7Dw0Uvq&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPGpFw6K0FVL4OMaSK_4puTLiG6k3k8L7Dw0Uvq!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AUy1YQ1pkLM3GIYnRGmUxBRsqV0g4jL078-POVCn8aeA55zvCM0SjX5n9UJBSa0Q3x-3QhD4vX6G8dGOyx7wask5QM0SBjTDVes3u-sS4VDgfLuT29oclEZTo0q_4aWgoioGgK_KfMqKtO-2vMUry4qX_P_VaRlakL07yGpkHjPnFKCRzJbVv-KjnV15s4uKlFjto2awUDsXIWQgBEYMGTy0nn5YAycbQ97e5uY2uGeOIFyNji-5vb7yXFyhPtEB0drlYzFdIJ-VqOy8wY9PWUL0lAVBeo5eqc5v94cI6Zo3S6li2ZORzXQPGUTIN0ABJFHkMMIDfl11GGyVy51STDrDhb-gybqeZ6xUmoScdb_3JjmY4YhZE0cM2Jdfa8KNmpLuLIT8LOOw5V0fg4_EI9DIwofY1WBvyqxm13gBHFAfJENyLIT_
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Lamar Elgharabawy
+        uri: https://maps.google.com/maps/contrib/108867135972117337631
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUpbRlQJLbKhbKrqdZF1aLh_u7A6gZ9PK_N628zCdygtTaHqqM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_3I6w-QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_3I6w-QE!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+address: 109 College Ave, Blacksburg, VA 24060, USA
+street: 109 College Ave
+city: Blacksburg
+state: VA
+zip: '24060'
+country: USA
+neighborhood: Downtown
+latitude: '37.230322'
+longitude: '-80.415523'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Green's Grill & Sushi Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x884d95749bc73b9d:0x79198171e827b699!3e0
+  placeUri: https://maps.google.com/?cid=8726148079233250969
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x884d95749bc73b9d:0x79198171e827b699!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x884d95749bc73b9d:0x79198171e827b699!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x884d95749bc73b9d:0x79198171e827b699!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: +1-540-961-2020
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Green-s-Grill-and-Sushi-Bar
+
+---

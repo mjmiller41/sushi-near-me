@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sake Steak House"
+permalink: /massachusetts/mansfield/sake-steak-house.html
+stateAbbr: MA
+stateName: Massachusetts
+cityName: Mansfield
+place_id: ChIJMS51Gjpi5IkRPrDteYyHfF0
+photos:
+  - name: >-
+      places/ChIJMS51Gjpi5IkRPrDteYyHfF0/photos/AeeoHcI08-zgvXDQ4o5ZjQixP64KJ2Lw50UmttglUzQ6L2-IZzYQdBsejvhJh6-vwNN-PJFXb9ur_1JRLCx2idOFHS9sO-Ej7PL1LAc0-St9_xq1dnOTvHmEaaU1aF30eOCljoteTx1b8RxxmsvuwY5JYqHQdAWDaJP7ff2kUlZrvCEEACnwmnvvtlTZ2FlM5lpFMcXLYMt-nj4tEXxWNMI0AdpFbn_7oY1p2CuOoM8j2ECO5b0JYu2Lu-ualogWspRrsatNqWZNaGW-8JqOhg1GDWYE2QULoEANKBvH-UA-Wtn54z5OKdu8esvcIZteKFdmw5IuXhLuZMnknLGoQcUrVQJjf3W6XasE4qxGLZd5ORajzvmUVnwU4H6hUvf1mqsVCzNVf9j6aIhzE-b3TEHEC28BuJmkVd2Ue7H5wXxw1W6JXU8H
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Arvin Sebastian
+        uri: https://maps.google.com/maps/contrib/107133054912804985936
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVn9840awTHsZ-JRq3pmCAwVPtz8u3cMHkLAhNs2ztSnSsunH9x=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjzvaOiwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjzvaOiwE!2e10!4m2!3m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e
+  - name: >-
+      places/ChIJMS51Gjpi5IkRPrDteYyHfF0/photos/AeeoHcKFl_OlexZNu97Obm_cIOs-Qi_Y7Fdc7L1TEG1ao8ofkE1E9AruZ4vb70F0DhGUCkKixhHwFV9YmbwYS3367dfR5m8BJG-N42ClFjy--TudF6rUx3BKZ9bFb6yWcXrLSYwmQGfSH_jLOG11bf8zVA_FKb5Kb3tZVvfJxG3Y-RaEONJ7CbNzMD3b_AK35-51iNMAx8XxktTPvs8WKTQOe4pNWKkNr-VitESLlnJRXVOAsVYGRDGDttr-czKROz8-dSIWYAHG2ruLSNq-d1lTpyqfn-nfTnGgdADqJdIaV4YgUJs-nnESSn10sjGMDj6QjC776RzHlZ66gTNuG0TFXGNE-jsGpjmjdfBPgXPI9vWTLcoGx4DzHw_6-3KHHXerxyn241teC-xXG-2qo4YPrdETHsK_vkjQU4azppcdwpyhHTG2
+    widthPx: 4800
+    heightPx: 3229
+    authorAttributions:
+      - displayName: Christopher Thomson
+        uri: https://maps.google.com/maps/contrib/106604673955621412606
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUDEVDIwHH35jiA20nptofnx9NOLQVzHvTZim1ULpr-j7DolKY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEmrGGmQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEmrGGmQE!2e10!4m2!3m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e
+  - name: >-
+      places/ChIJMS51Gjpi5IkRPrDteYyHfF0/photos/AeeoHcIuos-sW5Kf0p4V7NPyFizOuKf_G_s0iFBT8SXGXpL8tJxr-DHsI1Ehs6PcSu1xG9dlHc9R74q0yJn5-TMcxvNL1-4JhN7eydyxS7ymKK-lVtZu_9PdeIVNnzO7yT19zGVH0TLKYh3pd2egQfYHmBzKvaENziJui8gGqqcRGyQ78fM9Ayr0suNnQPSqX0j_Y96Gx4kR_emvfuFVjcFLeTQ1siBSRNVcmo1Ax3dPScA24jqsOdstOLOv-iPpl4a7IGlKk3AP95gouVEtljykad4sqbeIIllIkZC7M9_QEf4Bd-NrrIIcobyfo9rbflEo4DtGIgYJ4-MVzd3g51H6XG0aMzcxs8EuHSMioDiUx9KhuWmc1sT3sqLqZB7GcVbv-1uby94nzeFXSffQFySccP9TDU5uIhEgi33XdWBDiV0
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Arvin Sebastian
+        uri: https://maps.google.com/maps/contrib/107133054912804985936
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVn9840awTHsZ-JRq3pmCAwVPtz8u3cMHkLAhNs2ztSnSsunH9x=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTkISVLg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTkISVLg!2e10!4m2!3m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e
+  - name: >-
+      places/ChIJMS51Gjpi5IkRPrDteYyHfF0/photos/AeeoHcKPLjcmr_K6kK9TDO5Mone2lQWJDm4sc4lcW3cvsfrVZ4uzfwpJTiYw9TaKx-sk1mV8J88tx3KAk3Wf8SP1Z5JPpkY0iqfkQ-9a8187HhSO5AslsJW-Xa_zSNDDx6vdEfjGXJv7X7bRsIA5ZpHn1zDneAUOY6fkCPgR08JmzsbHqONNIegLsPcaeFaCHdrWewQ8nr5KkP8pZFwCu1K-F8ZI2YbfWNRnkvbm9alDxxrvSUmWVbcXeypJeGUMnGS6Prw2nelwRCcliUuzqYReR1Xhntr0Xj22G1c8dSBbPepMncklYnpcNiXxWZy_fQJ2bDlbU3vv5MNJvW7E2nz_vsmEwBTrYemjz9xoB6IXZkRml1YQl18y0iA-R6HkYXK0CD0Vscvhlv79Npb0lwlK_xYcxchwWNuxroGTxyJtIdfV_Q
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Tony Cabecinha
+        uri: https://maps.google.com/maps/contrib/100881135040731075785
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU-s_YEDsv8OrV1CsH4Cn2W0vWxgkW60Ray_wXc2xDCWNB1rOws=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICp1p7ZHA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICp1p7ZHA!2e10!4m2!3m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e
+  - name: >-
+      places/ChIJMS51Gjpi5IkRPrDteYyHfF0/photos/AeeoHcJ3rOz6TPyakYIUlpdm7alsFY_mkpbcEgDrCnXkBISCJXdNfn9CLfGhtZb4g2od1iTG03_vAT10aK3FaJsZ6eW3LYX5-tNe5-0wTvalesKBJgcKwLT3pMsuNopADrelXltaBotUu-ZqUmHShSCvr8EATlszkcu8px8SorhvsSXk_1XSj9-oiXDxOmqC6jcy5QV7e6jXXVD_B8IHrfccqKub1kTexNWyXixCLRECseMnFFcVG6zTX8lMBsjSRgjZC3sNBKsKxwQalFjEUrgVWsYFAb0SSuJrg-qLjRLh1pbJfelfAXT4lFHP9AQrjLw75Ld78iO6n42USl5M_u6G9qGrp_K9sbB0UsW0CGErmr26j-XG3sT21d3Rx2L7GYa5oe-JPx-Vc015lIriFH3_p2TLQZAvL78za5OYunwYkNtSlhYm
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rock Jocelyn
+        uri: https://maps.google.com/maps/contrib/118147829605377937912
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxo9bLfUJKRGoS-xc2UT7rYVLj8XbTjNITjvp7OoMMM4ZhsIx_sg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICqs6yelgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqs6yelgE!2e10!4m2!3m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e
+  - name: >-
+      places/ChIJMS51Gjpi5IkRPrDteYyHfF0/photos/AeeoHcKqW3lYXXgnpDfeNrgv9-tq22H91zpzGUDdDpVEaZWqf2g7WYVJbt2qm-2z7OVBbi4MuuxNPcgUBWm4wMvVxFkxXGK3O2XIi7BUUU160o_Ii4e5CJPTsrzMEgzpCVeyuRKYeraZDYYLa_3nqJQcJUGU2WqYbQCNgusAdxOxIaFxIgWmYFvLSlXFHQp-wuT0XNdBhPTNLKRmPvagXvz_YvzT1YceLSIeR5lZqDO-h35HLnxyhk2Z-LGuPYv5lAWoJjdrv9C4u1z4YPlJ0DHKIxTSeWXKVANAy-hLsOA5fGEQf86as__bqNiQRG-NzxZtLmdtFLwi_Nk6m0rBd9KJwMYIqIpEAF5FP3azpcTOBJpuv9hKdy_a_0XVfqGDezF8bRU-MEb5e6VAjDphP0hKW3D_HvGtc-lippO5anJ0-G_Cl_o
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Arvin Sebastian
+        uri: https://maps.google.com/maps/contrib/107133054912804985936
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVn9840awTHsZ-JRq3pmCAwVPtz8u3cMHkLAhNs2ztSnSsunH9x=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjzq678wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjzq678wE!2e10!4m2!3m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e
+  - name: >-
+      places/ChIJMS51Gjpi5IkRPrDteYyHfF0/photos/AeeoHcLA-InBhCealA-fWfnnHLLcuAwmm1IGm0v54L9-1u7RQ70Bwx70SpkH-ijZmHkWhW93VUVtQeSxIg8MhfeeNt789QGaAyuu2mAQeOfC9UZDaBLkJL1wryOFABVpSFXES-F9jCk-oz_1zwbR5bg-P00DHP_ISWOtl4DRO0NMuJyRzF8NC7h8sY6L4GPV8XOApqHGoPOoRyMuwmXc2wOQyDNVyT-luciY9xFqK-VUJvLUgAXm6GLbVbhwpOrLxQMwFllvdMbdH1DanRqjgxaUaHeL45IlvNfwGvYTxWX25iv2Tf_Pfa_8h10NBtSG2eOsTYBaZ2FnjCidZqB5KEwXLbficy5IQRSEEuO92F5L9vINsKr60qOtLYjWcIRtbw7wAly9ZZHX4grT-hY0ZqAYemuy1RJUgLh-vOfXv0uw8in2ado
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sara Aiello
+        uri: https://maps.google.com/maps/contrib/115029898265099471177
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUBhVDAefS8Jxy5NxTqh8o52rDHCAhtfJlzBLj5o8NmlRlthkONTA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIClmbqciAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClmbqciAE!2e10!4m2!3m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e
+  - name: >-
+      places/ChIJMS51Gjpi5IkRPrDteYyHfF0/photos/AeeoHcIILDi4SW7IhYnK7SchbtzKEWgeEB_q-oqTJEu3DNuCy4BTvt6xGfm0ShPleHHu6blcKIBqkyQT7J10jmjkFKrtVxGkOcdrJha69UXoZw0R7ilK6rFlo-j5Gm6n38d1YVb2Cm-PEzL5hL20gkWXLDOWlyDUvRBz8mY9qjBEUstHMOe-G60Bi-3wh4cubbPxTIzjwuD7XM87W068EquHAMMvOrj5UEXQhtpY7aFVvwdd7v6zJJJ1w0tPr7OlCYgPnay2s7VitFbKgFJ3AGyvIEaBQhmCI8FHnzIOX10YmknTqlhxAtVlcE2D_pHWUNH4Fp8ZiB4PyOFongrrGJCBoqaKAyCWwZ0BZvL2svThm7d1yiPs_EG5V335MaKEIJXsNsYoAdvY5fV0gfIs_a3HNL3JTqc4KHLsZNwpj56ms5vWi5Eb
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Arvin Sebastian
+        uri: https://maps.google.com/maps/contrib/107133054912804985936
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVn9840awTHsZ-JRq3pmCAwVPtz8u3cMHkLAhNs2ztSnSsunH9x=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjzq67iwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjzq67iwE!2e10!4m2!3m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e
+  - name: >-
+      places/ChIJMS51Gjpi5IkRPrDteYyHfF0/photos/AeeoHcJF7kAg-TzvbLmZxz0iJ3AydOSrzMIJSeN7F79zFTPnZfe5B6rg96cnD3yGLlptdLcseQXdAP3oKG6Wn6R1cl_720pnXlovUmJQJ2boY7IZMfMTVHQah-apWJ5t5lUh2TGY5NJ-vyJd-Gu3Gv5UX0WURjH-REw3f7-cd1h8JxkI-DKaZlzQKlIxibqyNC9I2EQVY_O9dpKFSRMAeLSsFNt5p87dWikIK5wcByV0eIP4hHYm7cNxNgwmMOtw6LEd5Turr-UH4-0MFeSzbGsCmN90lj5j3UXWdjyZVVl_msEACktIxJ-dpFPCqs5obmTAL6RGyR6pKCxKl7WSi7rAGwCMYwAqiTgE6emLipYSg6DIPjgDo8XKBaUlE8c4BAv_Yk9gN14dvi2KXityxk_yRM0LQJ9Yg7y_ssvr4GrRrqI
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Christopher Thomson
+        uri: https://maps.google.com/maps/contrib/106604673955621412606
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUDEVDIwHH35jiA20nptofnx9NOLQVzHvTZim1ULpr-j7DolKY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD7aySXg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD7aySXg!2e10!4m2!3m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e
+  - name: >-
+      places/ChIJMS51Gjpi5IkRPrDteYyHfF0/photos/AeeoHcJ1SyGw1Kf7Wrz_ksV_PXF1wUCCg3v8AjjYilw2VJxjoeSVJReJC-mt9PrDOJaHHFS2EExYe_XLLTCTw70rGc27Z-cjUsg9E53-czLqj6FP5-Uqo7QFZEGDIFuc08v7KDU2qljlKq3XFPy0vMEylf1-4-J0h5zcECPYk65eJGxE-z7hUYIhY5E6NsHcnYFfCdUy3IF_GQXx7wLjt2jOl6c_zgpDc_SiR0p25Ti3hNKbJaV72JzcCW_IvmNdonQSA0SwSgncS14r8ZCk3Ak0mYznu26bEy9M3R-LHtP4BfrGsXkJrG7anuM5jfaNcZElZT2V-DtQLqUYQG0gwnGqAS3kHBy_5dCoFJf1e_gC9KXZXOY8ksb4g8z88zEsY2rbprjlz3rs039aAOVhRUz062z8YW6YscwfGhIRrAdqMnFybw
+    widthPx: 768
+    heightPx: 1024
+    authorAttributions:
+      - displayName: natalia fosa
+        uri: https://maps.google.com/maps/contrib/102429174755389915427
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVHYO2JqKucgg3mWHN8UdPllt6v4CL6fw1kmrg7pthmVFy8R5cC=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJ3PeUYg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ3PeUYg!2e10!4m2!3m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e
+address: 280 School St J100, Mansfield, MA 02048, USA
+street: 280 School St J100
+city: Mansfield
+state: MA
+zip: '02048'
+country: USA
+neighborhood: null
+latitude: '42.012010'
+longitude: '-71.227875'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sake Steak House
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89e4623a1a752e31:0x5d7c878c79edb03e!3e0
+  placeUri: https://maps.google.com/?cid=6736408180050210878
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e4623a1a752e31:0x5d7c878c79edb03e!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89e4623a1a752e31:0x5d7c878c79edb03e!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e4623a1a752e31:0x5d7c878c79edb03e!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sake-Steak-House
+
+---

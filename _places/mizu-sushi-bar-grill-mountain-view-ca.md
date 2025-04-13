@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Mizu Sushi Bar & Grill"
+permalink: /california/mountain-view/mizu-sushi-bar-grill.html
+stateAbbr: CA
+stateName: California
+cityName: Mountain View
+place_id: ChIJbdRr8Juwj4ARRFNrtLQtGjs
+photos:
+  - name: >-
+      places/ChIJbdRr8Juwj4ARRFNrtLQtGjs/photos/AUy1YQ07ZUPiX3YjELm_kCqnAGge4jDY3PkehogKO1cc3IHkoM8ce-WCQVb4rhyVZn5FFbyBvt99FJtpXRcC0DZtyN2rL-089A_rP75TYa4zqinjyJCdBUL4Iuh_lYc1jsYRiHPjCGYnW07umyOOxS-sYJy-wINjWlrbHKQ4i46fb37UW_ceH1y_EDn5_HtSJ0wp6wb9JUNovHoe32arHgx4ejHX7OQ3sL4im28I7CGqQ4yRWhZmc5fDTcQ7K5NfNfgsPlWMz0ndXDpcV5nEsEmRjqbUAYJxdPWbRQQE_HTzgeFpq_mhtmEdgCdY7XHu5a56fYT4p9hcOcgjkt6V4-maUI25dwOUChBADdj4R4N5wLha2VkhB1jLER0uLmUZc8HiP86DZ7RK_BsHDAxkq5Uo9_8zFcJQ9ZFnUIX-4EKpRmcGOXFY
+    widthPx: 3242
+    heightPx: 1848
+    authorAttributions:
+      - displayName: Gilbert Siegel
+        uri: https://maps.google.com/maps/contrib/110394644997508167559
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXsDKF-F_k2pB9g9MspdA_y-6iimqDUaQv4DVMJR_xYndQBEPtrSQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEip2YjwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEip2YjwE!2e10!4m2!3m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344
+  - name: >-
+      places/ChIJbdRr8Juwj4ARRFNrtLQtGjs/photos/AUy1YQ0-fHsU4F0D3vNAj1BRfK00hNJeTpG1t9XK-XeMV9TyS2jXHUo8RRKT0_SBUC46bR03LUdaXhb0CIeThq4xAi7dHFK_iEnNwnSXtQlWOsmi73UrX980Fg79eejcMC82KrE5y1ZhO06MWLjgRuoMN825Vo25rMRAkEhfLNI6-rZo9bzImxlcrnMQc1tHTQ1DfxCPErzE655Ca-lVU28QoAcjqzPrURwL-QkWRtpKiyr_RsBnuCB0bvG_fTMJaE7rZz9WX19vZMXxzUCc-VytNE5iSnm-uiPG_xN64A0MEd-xjg
+    widthPx: 1600
+    heightPx: 900
+    authorAttributions:
+      - displayName: Mizu Sushi Bar & Grill
+        uri: https://maps.google.com/maps/contrib/109223877330929689404
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXwzLvXOs0opwtNUubxmbYWFCJVBPi6EKUfaO10D5zYkNzbJhs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOlkjcmY2ODM2vjWPDDQ19_ZWN4RMM4x6lsB8WY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOlkjcmY2ODM2vjWPDDQ19_ZWN4RMM4x6lsB8WY!2e10!4m2!3m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344
+  - name: >-
+      places/ChIJbdRr8Juwj4ARRFNrtLQtGjs/photos/AUy1YQ058R2lOQYn1i8yLZMm-GQ0Xnp3-l5CPOeflMfPjEfQK8NEYu6z4zVBuL9dvdvRGq3A2kmjZYad7EJzicAnMQbOMd22yb_13QVyFbvLTQGrcf-mcbaTWYgfuRnnDlyYbzWp19JsxWmbtmViIAAldXQVPp5c8tWXloB8gO_PxMTxDx-WSM0VjSpSdYbKU-iBI_xfNwuh07ZxOjzk1EF47ft494zCEMSWOXOjBIZJAazdmJvmEjGPKGXkhIVkal2EwDqvJ4RyAq6zli7ArFpYlQ6rqWXczkUHUQbeqNMqLwYEjNOT-C-k7Cah7gj4ebOlEKB94Uf7Nz3quW8iOh7UYh03xld4qCPT2n7tna9Dh1b1I0cQ5tFHUxt7kUlkOvo3WAIF6AAMeHR5rDM5sQ8y39deHUrDRHOD9DuMNVVqsuR-lA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sandeepa Dey
+        uri: https://maps.google.com/maps/contrib/116367630541117736989
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUZsk2cNXckiQ018dtyya7rPPhUOz8V4myxc0Xat3WHTUl_y_ry9w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ_IGoew&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ_IGoew!2e10!4m2!3m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344
+  - name: >-
+      places/ChIJbdRr8Juwj4ARRFNrtLQtGjs/photos/AUy1YQ2bRYBojBu_rnHTeYPq8aWUeiPahykmqdmNEuy5_icbOjolG7wx07Z4zA1wTFG4xcu4kVe8Awadte-UfHQNCE1SB8d9aZaWTsmw2STB6U-Yak6ZX_QBsdwOC3B_lvi29GjvXlK_WAYhrJzjvEJNEp5NGSK-YB1jaIHD_KMO1Y1X8LOn8iA2d1jlsIU1Z0m9FO8q6ftocBReMfpOB7y494aQY9OlAsoSQ4NR7CCdlQyz2SyCJA1dTzSJxGcXd_5ByJ1SO4ctaXT4dlRqZ6ORl1J1XPoliZxQZewvUhxJUFD5aA1cW-djZvcm_m_oHNatB4fKDgQ7uMzAxI20whbFljIaB-G_TZd0rhvguaeD7rTzd54jj4GcAWJUC4G1aKc9cpScPQVQcCAMg7NGeLoBhVCy86tIszVsr2qZgc_X_5rqAQ
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Adam Braun
+        uri: https://maps.google.com/maps/contrib/108895438988053081560
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWywP2OmHwg9xq-Afro3DNd0eozOZlvpJC0HLx6qHpL0Qxm_0vfQA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTi6atbg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTi6atbg!2e10!4m2!3m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344
+  - name: >-
+      places/ChIJbdRr8Juwj4ARRFNrtLQtGjs/photos/AUy1YQ0-DUGwa7ozXggK3b9E5rjqJ6BXz2tSrjyCKFztL09iz-oiTJtnz7daiP4-RhoIFbtDRLno0aAwDvxTVwJ6OrtZjqEGUIzgoxUc2VhAD49S4gizikCba89VKVZnyh6FvtahmBjKRNz3VjBFr0axWuFylUNLoru1JB5c1wnbdOutaV8ryrwA2GGsJpMEIQxOoWNR9j4M534ZgXeucd5iGecW6LFTET5hiHkZb7_HsAUavNJfATgVlt2DcNOqY1oqIMfMR-YU8K8g_NI7LAkjUV_AgeErOh0Ne4U1yJ-U21eZvMEWTjB-8_wAm9BRF1AxMXV85lgO7JT6VSaDSzvkMh0pvbGNH6MuvyeFsZhPK3c6spLpVcf6W6ouX8shMgDl7umHLkcEkwLrR9Hl2oCU2WfiOYVhgjiGVyuM4K6neEb12Q
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sandeepa Dey
+        uri: https://maps.google.com/maps/contrib/116367630541117736989
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUZsk2cNXckiQ018dtyya7rPPhUOz8V4myxc0Xat3WHTUl_y_ry9w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ_IGoOw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ_IGoOw!2e10!4m2!3m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344
+  - name: >-
+      places/ChIJbdRr8Juwj4ARRFNrtLQtGjs/photos/AUy1YQ3p9k_1j_Ws6n5X532Qr-DW0968_xd-ftKlwHGe2BYqkoA4G9jSHepk6-nGprSUIdLAvO8WXl10hmfWr5b8Zng6EwPMq8qyC4fbrpIJeUhpz3Ev7WhAIMntis-S54OGqSczVNV7krXMziU3HfpdUw0ZPjs-SEl5VLYouTUxGzHep3ss9AjclPcJM6pFv8dY355na1NCYnkHUSUIcLBZeg1LI1cyl8QDlPF7k42KTxjXih4kN0tHSUIwlSj604X10-UwCl_j5DadROC5epFgAb5IaQ1IwE6i0SYYDzikeInlKa9VWMYdyfHuH9G6dVG2ElAwMW8RcqpMAZPCsOajCMJi2WIhFfjSwnUa8EsgjBUzGxR41NXAi8YZ839I5gHQMOABRxVtYRWlmdENhYduP2J7gkEDTwMVrGEcdGNLt2T-GsnE
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Henry Ying
+        uri: https://maps.google.com/maps/contrib/109984379356284038160
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVxznGPjK0N4Ks2bhz1zHRPCU0IUJhcDx99CRgdKi5Zsa8NGe4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLp5a35QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLp5a35QE!2e10!4m2!3m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344
+  - name: >-
+      places/ChIJbdRr8Juwj4ARRFNrtLQtGjs/photos/AUy1YQ2rR7gM8jO-nWrhfMK1bh0Ms27NK1TEh5YHNfCicN8y4wl44xDhfB23OKunwA32v8Bt35_df797qV5oaKh_ZfRpMvVZJhRJ_rhbeAJMRNXFnsmF9v83SVihWsFBjggnbPsZL0ZmEi-1isb6y1fmlWbMc3exF2jmqz_MNqRXb_RDZXI-qvbi9LYXNhIz0aGRDrfScT2ryGCqNJOav60IQAwMiB0vKtB8n3PRWkdr4S4AmLlHZIckZG2eViyinovQSN5KhYa7W6ats8b19seh9mXeLv2NLRGiEzRsY3HHsqR1zAosx9GZBoFyRLATvTyVDo3hSfF_zStQ5AHIeX_-SZBYTXcywzZO9wKjIr1mG3bbyAdSOx92c4sVvMFZPZNhmaOXtR5npuiz1qqGJ_zzAuDbqm0fO5omxGfmEnn8zMI
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jason Foard
+        uri: https://maps.google.com/maps/contrib/101623472979356047884
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXQa4gdHRz7WufkGxDeg7DO2rzuczO3yC9w-cAJ9lffNyn7MMkk7g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTn8v3Qg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTn8v3Qg!2e10!4m2!3m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344
+  - name: >-
+      places/ChIJbdRr8Juwj4ARRFNrtLQtGjs/photos/AUy1YQ1zkeSLsGz67DgwVTCX5_A9pvayd_7T8SZsh26OzhSX4HKZiCwaSP1hjY-p-jLVkH8Mcn88--4p581_OEbtUNF70p9KvbsIf63roi7lKKliCxTSrNRx9K1fhidoSvYsmH7Lu31poMv-4iZRNjZp2TmrNMmJmwgVhz0LoRenyEedlSInZNogQfzyXoU9TSL7Y19BtIeQg-HzB9HT5dEmbGoxu-3s1zJRmnywNIns5zDWV9IFseY03J_PM1IkBt6sP0Nks64tYkl5J0GSlMt4yhzqZR01a5MLzwm5O7ydVNnSLAgLpNJgd7r8TNIIenj9quy06DYGQVSfdNQ3FX7rTdKxsXA9B-2W0PPRUWUdgCMMs0LCdVSMMrlZ1FTMvW0bvpfDIhngCGF6ji5eivPNrEDiz6llGGztk1TJ56jRubw
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Adam Braun
+        uri: https://maps.google.com/maps/contrib/108895438988053081560
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWywP2OmHwg9xq-Afro3DNd0eozOZlvpJC0HLx6qHpL0Qxm_0vfQA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3vbbfOA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3vbbfOA!2e10!4m2!3m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344
+  - name: >-
+      places/ChIJbdRr8Juwj4ARRFNrtLQtGjs/photos/AUy1YQ01ot_E_xx2r7_eCuSRaZVJ_wFoBUnSprfgyzUvGUfm7eBbxN99m6seyjRNsFSzSKuWwz0JiFlQ4wjPruzeaW7S5m7ps0UbnwJhnO_UV29O_VnUupUMRlctwtA10wcZQlmuqGPMaeEmDWlRZ1ft--lSZ61RFG_Ijw8nLKRFSIBsrE0HjuEqWOpLmZzd7B47Y_69SGEg9ymxayr_gU716se0qhrmphOfcWoyl0DT0huM3jPBxXHlSP7XmSKB5gTRcaU4XGymFDW1y5T8RfZMxKe3UAYW_iQb9kQnSdRaCfJHg5C0Is6bmnlM5TmLzwuk9Asjbi8VJumCHtDulO5W7_MPaz89k9XdVS0wggFYXEY_HPj82zJeL7IUEoDXphHlyvmrZRZ12EYEgv_YkAi7g1e8osw0bOrfXPOGNuXCEMTLMQ
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Vignesh M
+        uri: https://maps.google.com/maps/contrib/110229398390276187005
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJtSyxg_jtOGCmI4WDna4ZE8Gw06ArT9kDjB84c_nnn3qcA8Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3_ZWZVg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3_ZWZVg!2e10!4m2!3m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344
+  - name: >-
+      places/ChIJbdRr8Juwj4ARRFNrtLQtGjs/photos/AUy1YQ0aFqAqgJM_xSuTwZuk2IAOdMbsc5GPVHYJupGH4ajjjIOTWC-ShLvcLEYfzlnumqbGTrn02w2HUlSSE-UlntOOdeZy2Ll9Y1_aeilRLfQKFkD-W-9Z7pQvt2bO8SWWmxq4obUyGhMYn-3pH4sLowG5oXtKvrCPjsRphqy1FTk6CyUhLZQZ9kWETIdPwv6kQPmzftxgAgPAoUYlTZoDtM02Q1Vhtjhxrudghm1OUW7fQtcT0-mwvlCMxialWN43H4LKG7QfDMWnm4ZVDV-ya9K-akUXjM7-LNIsWyZb1xmyX1nwt8hS0Ncou1dh8bkixmUAcAS77nZJvfMXllf0eZSsBjKCt6t9H-HZxG1YVeFOhhU5H6GFifVfpPX1ufsPCIO_tZWmWyLNifvzyywEFjE0_dvcYw1B58zL9xX4YnCnUQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jason Foard
+        uri: https://maps.google.com/maps/contrib/101623472979356047884
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXQa4gdHRz7WufkGxDeg7DO2rzuczO3yC9w-cAJ9lffNyn7MMkk7g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTn8uNYA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTn8uNYA!2e10!4m2!3m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344
+address: '2590 W El Camino Real #13, Mountain View, CA 94040, USA'
+street: '2590 W El Camino Real #13'
+city: Mountain View
+state: CA
+zip: '94040'
+country: USA
+neighborhood: null
+latitude: '37.401319'
+longitude: '-122.112973'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Mizu Sushi Bar & Grill
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344!3e0
+  placeUri: https://maps.google.com/?cid=4258766651776521028
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Mizu-Sushi-Bar-and-Grill
+
+---

@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Sakura"
+permalink: /new-york/cornwall/sakura.html
+stateAbbr: NY
+stateName: New York
+cityName: Cornwall
+place_id: ChIJVVTMXlIt3YkRgRbKMqDjfg8
+photos:
+  - name: >-
+      places/ChIJVVTMXlIt3YkRgRbKMqDjfg8/photos/AeeoHcIgb-uWKfqsdPV04b8kFnUyekuhA9Jmhh3nY_kByxlwLkKn97ddW-8rslM36_ymBmd1e0UoQw1MPrKxNiO603BckiZD4GZE0Kbjvo26pxU5ret1XoQpgabbEPO5_5R7eGwWvljLbJsGMfSLr6qcYNYHmWXXzoi6OsaGJUX5PVtzik-CzPFvFG1UwE4-d3pl6sE5vE4vk8mLI4Mg3wNybg0xpFYEIANndAxtMLE9VN_kSAxWNqHcSkeApZXRlEFscqe3gnzNYJ0J4GzsJvq946JOPsS4RvPc3ByS7DVZ66bwKjtACeDjW_dE4vfAusFU1JpOt8dYGsw5ysp-umJ4X0Orb6mjv1NcZqs67gN0-jO7jeBq5--U05LWfG7iFRQhxeYBu7LWiKmhMtzMsW6RtMrRQyLmpuqEQBSbhk_PDfM
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: David Kramer
+        uri: https://maps.google.com/maps/contrib/102235968412572550603
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXrkJPqtnYqrD8apYhZTJcpkzUO6qLMjz0Hg6CEVzf5dRjk1M2w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC1xYC8Qw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1xYC8Qw!2e10!4m2!3m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681
+  - name: >-
+      places/ChIJVVTMXlIt3YkRgRbKMqDjfg8/photos/AeeoHcLBeFQB1O2xaqusvg_sis2Tn2ry--YOAZKtnxKDeEJq3c729cGHGkk_Z7L3w9fw5hvkXvou3qly7Xug950wl9yjRWns3fZ5lVdYko9BuE59l1g8_ZvIaV32SwkrIaAsr7PsN8HIm_59WcrwD2uwkEiOakjGp8GLB2xb1PKxiTdqXeBtAW-4BBMkT3VD9hNINvFmtWbRsnc4TIRtVd8_k66-jZSLaEOebNCUxU24AtMozYFF_RUi7evLSwVZCGEruGlbHAS-1jnHJwzQcKs2k9e2lur3LyQHTvphVhqzupbTEga9T3zgqFUAjc327SEkeAVtSIPZDwOjLKXortlrwnWworrYECrjyO0rctKMNTm_XMLDKz4Zynd6LFDPaBH033ISBgwwC7CRedORaeQgNSkZb0uL33Tj1uFdXpoYFlhN1c-s
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Edna L Vasquez-Casella
+        uri: https://maps.google.com/maps/contrib/108876545142128836235
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVYp1KnXeOfFiGFpPrcK55-YVCNiC2dQdgHAEdYG-OlVWTgyWHb=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICExrOsgwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICExrOsgwE!2e10!4m2!3m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681
+  - name: >-
+      places/ChIJVVTMXlIt3YkRgRbKMqDjfg8/photos/AeeoHcIFGxSTKwqoX0egbsaRbjJeceRUtlaNfk3NeC2sjteFRQXiPgfuIDwQgKh8c-LFA1NBqIHUjR4MutXEPLymfMH7yvGJ1QUC-wqV7p12_d8T_XzPlLBGdSH-DI6WxKa-ZmarnYvwITCpmcz6ZfwhEMoxvxZG1mbl0oref7GJ64nXHQpAyf7t13Qj_eo4J-xChX4XfpUd_uv9SiHPM8Rk5ZcBC2hc7xYAkmO4Sp17qD-nUul7mTxK0gBGK07U1XZ8LacLq8_5EgXI0hqNooLlIGk36wHvcne9fMikn50IGXN16N2r1sA_U0SJzL-J-xBUETkXjnnuPJOsNzTjVtsvdrmWLuZn9RRhyFraNIGiI6YAS2tmdHWE-eW2RanUNsTnHEfmAtiTywAbvEOi7PukvYCGVkt2RUBfIYvRu4Sya460YZrL
+    widthPx: 3264
+    heightPx: 2448
+    authorAttributions:
+      - displayName: Lee
+        uri: https://maps.google.com/maps/contrib/115902123520966996301
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXIfiCzeE_83veEpo8KfiFUxr11UpfsjzE7H9c3w5BAgf-IHI8x=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEroWkoQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEroWkoQE!2e10!4m2!3m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681
+  - name: >-
+      places/ChIJVVTMXlIt3YkRgRbKMqDjfg8/photos/AeeoHcImzHprQ7L6l-FtRYxJpSQxizamNKWFokSZBBEhbii1WSdBh-VIR6DpnM91A-mw24MwuBQbfHui4L9XwoiReQFnUvmbhlB2NZyZFNojWOCZiBvCOIftbE2-kEIexVt4JM0D6Fg9RV7kwLHEnWEbSV82_jljMwq3IZAFDYTRtUKvCnb8siYYHlBMDSwgaBoCdpI3TLwDl6UgC3N2VRLrLwZLgXRn067LwiKWnOiAvaUUdf4R0LmnvcLkfgWBS7mWJ3p5F4soKnbnaUGoUmoeRlm3ZxnMBpJDcnamdi7VsBWhYbZYGxrlLHdsMmtTIsxJjDd-SrJ-Q4-ukXyx8y0o92OFxG3AmBr1EFHFSWy506ydz4J2sTNXollwkTHxiDsjiab-UujAM2gU1TLHMhXiAN2h21SrFl2b4dpkuxqF5y4
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: ABDALLAH IRAQI
+        uri: https://maps.google.com/maps/contrib/111401377233414935570
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWJGyZcd_54c83pSclMRWbh-nk-6RgM-92T-Ci1vNZ3VuU1UB4p4w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDgw7K3Nw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgw7K3Nw!2e10!4m2!3m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681
+  - name: >-
+      places/ChIJVVTMXlIt3YkRgRbKMqDjfg8/photos/AeeoHcJm91EI0l2NaKv-jGT4rAMXfFEalggl9PGs-Xh0kIT9-v6VjfgVKTnBRBM5vMcVXTIEpZNbtL0w86C3dIgW2WAi2skXlWGPvnI5d1M9M9Cz-DOLs9ZHgNbUT_7zrf_jNWKJL3Oq5eAspp56jFbem1V5FCY8t6dKqZJrDi_EFndWKqtdeY8DqhNVPXp3yjjgtBKJtawuHpZHh9RxAlN0B2o0iEFMADZAo5h_C_47CtnNHI-8qlKi1hJriQYZQixElCQpO_PbEbAUg_fpqa2WmeGTaIYEc3EsUNW9yVXWRrVTgQJn80yKjyJGLYmSE6wcZ1jfotMq-M_SM_jqEULjTLYi2Et1fTC1hkw8UNX87APsp0zfbGRbn3p1humcWt0u4nLEDjkpkpgDiMPMPWL2IBMM3x6ImUeFwqO9mRYZGHfk2fVn
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: brandon dengler
+        uri: https://maps.google.com/maps/contrib/105614733287830342701
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXUClPomWky_9as7F5_DdISv42IuT3Sefgb7xz1Edvu66Q7BJ9gXw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkxKuRngE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkxKuRngE!2e10!4m2!3m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681
+  - name: >-
+      places/ChIJVVTMXlIt3YkRgRbKMqDjfg8/photos/AeeoHcKI9eMROt2LRPHgBSK9MQ_witD0bVVdQKAsgFy2ej0Vv7fjL3Z-D0AKe5Dib5iHxTvvOWxGOczz2qsM3js9KAn400WqrhL2y3z4oo04PgOSEvwLql_jfyhdKJSZK7e-ZR9OonsW9d57FKDNKROsGkZUCibt68D52HkIfo6Hmi9t-lU5kNClCgTF6eLhkfweRVjNvM6j7o4Ob5Nae29voyE1vD_KGyGIzIWvpwZsn2HIvmWiwCYm6fMGYTDrc0fy46pb3do4ONtZvVRs8FvSNs9RAhEvSASunczn9Be24u46ImSiyk2VY2r_wyfOWMGhVhhhmM4y6KRZYyeziPvYoguwm_en0Sz_Dxkpd4dwKHunFaaj_c3NNqRwOqeetjaUFX2EWSbkhC6nb50TdpRvCxhX5FRrPypuHQYg2LdwMGrNehG0
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: James Master
+        uri: https://maps.google.com/maps/contrib/107136295101717960106
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ7aECwYYWa94_FoErkClEpjUq_kE11HgRQHDYjUfg_lVNZmQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB8MTuzQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB8MTuzQE!2e10!4m2!3m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681
+  - name: >-
+      places/ChIJVVTMXlIt3YkRgRbKMqDjfg8/photos/AeeoHcKbIbekBJmCMsxMzmiSiTqLrTATHOLnidIXfjfmcbp57ybB0Q34S7r-adruZ6GhQP04eTzbeYR7cPgeyjrcPMmQLRUmQpvhvmzbDvPd9TQXtJHafZcweBggkDwQbcs_oilr_wr7s8RQwU-wxsaDIbcHQV_3Cf1D2hBUkhnoZ3rOKSJky3kGNwFEJxbxQt7gHRuSpaNnLQciHeEd6Ka7qtx2aybU86W-jc9Oy7ExPnAulVtgFSKO05uzygaaxCnhr7GOv-dFh9cTYQPHZhfg2VVN-DLWLLcpc3HB6E1SLHhTT2o8TJhip8leGaFWvFd_Btb-xd3vGO4pOJyOezNdq8JFS4i8s2bUSY3qVMgTUvSFbGzfxTNQzJ9xGgHmcD4bvs-HyIyOpzqPJ-lJ8vNCiXkm3CuLn-1exA778QcmOZFqPw
+    widthPx: 3264
+    heightPx: 2448
+    authorAttributions:
+      - displayName: Lee
+        uri: https://maps.google.com/maps/contrib/115902123520966996301
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXIfiCzeE_83veEpo8KfiFUxr11UpfsjzE7H9c3w5BAgf-IHI8x=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICErvm9Kg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICErvm9Kg!2e10!4m2!3m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681
+  - name: >-
+      places/ChIJVVTMXlIt3YkRgRbKMqDjfg8/photos/AeeoHcLdCWPzljWe2OYsvKzHlujmvkSNitmfLy3fBgkLtQDylgOI_Ipljv4uIvtDLVttbs2ChmlSG1Hk4LmkVQRsfgr_yi2SZwr_Ib5QTCQWgzfVKR8jLxX-4phRK_zkpfitD9-P3hZuXyScOfed1VLvhGltWtxBV9wL911e14SoYZjOVE9xOQHyf5CzM42FA65MKgW2iWOKWSVcFeGk22b9Xg6R0mqt0UCng63joRYbmbnm8CQPK98HXg3Qkui0HaS2SoKTwAOOoSITdwjs6-j6DCfgHwF-Csp7kkui_uFCFrCtmzGA8LCn8wdp4gfkW2LZ2JfDc-PIgGz0FA6AaeY_RwRSSlMPWbfnKa-nX_hA1OPUiWWkskyHRL2BccKF8QTVo-s-nBLKDfEE68eyRFq-cHelp6Xn5S6YYHU-YRHke0Qybvc
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: adriana Alves
+        uri: https://maps.google.com/maps/contrib/110680533577432686068
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJLjcom3yJrXIf3F2CvC5VNHMAhjbO3JCfXYodQX05H3P1ijF6X=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC6gcDp8wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6gcDp8wE!2e10!4m2!3m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681
+  - name: >-
+      places/ChIJVVTMXlIt3YkRgRbKMqDjfg8/photos/AeeoHcJr6_NvHWQWsy-a9O3bLfx3nxhLteYDoRMRGDSTyEDMdztFPw41qFOP1aZz0QvmmjXmx012FZvAT7jvpfeqKMbM-nJzOYQ6LT4jX891cj1HCjKPDE9llwLi-ph9a0O57uR-SC31MUOQQ6sRWaHOvkPS-B7qvFcqDd1Gtv9joA9dgC_2KPFaQUCYxj-ZtI-7jiyWicS7rvpTIfA1iUdbKJVJHM8fm3rOVRxM6HqIT7DlVZI6vG7Dwdr84AE0aEvFglX3MYbYf8sq5L9lFGAJNRlOZ-YPmQTi0lyV2aAfch_psMc4MX4GhZWHMhdtHSIKvCmug4CnvJG7HOLEznzNv4JjkgMwS3nkYiPtkZR-aZZ7eZe_-EnCa3XHi8AfuGoV-K9abytFO0aVC6rkeDhFBDlWbLWvkLyj20ZSg0-TNGJ_WaYK
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: ABDALLAH IRAQI
+        uri: https://maps.google.com/maps/contrib/111401377233414935570
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWJGyZcd_54c83pSclMRWbh-nk-6RgM-92T-Ci1vNZ3VuU1UB4p4w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDgw7K31wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgw7K31wE!2e10!4m2!3m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681
+  - name: >-
+      places/ChIJVVTMXlIt3YkRgRbKMqDjfg8/photos/AeeoHcLBVy3JRLxImEr5eYN3I4jtnG5gYUCOZDrnli2rrkZtB9cUcv62bMfo_I2857sndGtXRGbhOag-eKgnjV-KUBZwcbOgvOpmR8rT9xBHTLWWZTgvHP_khSTr4iI5pdHHYZSyNZdtEanWpUi3z0eo9gk-IzVEFHcYvHFf6cakoPGhwMN4YBT_X4uU7I6ZLGCsOY7EEOazUXdEFeQnI3DnsJehhY0zsAuJr0MRw94ewOcDVhz_evXtiZGQTE3IS9VN-ugodmQSvlXVD46g0OuwsQ29VDvbn-HXbl3GzyVlWkoS3KTLHyLaWjj2Y9NiYsMw42u1YjzCTxaZ4Utz-e9s3ByBRgJBAADmZLjNNwPjmY4bHcVOmP0WSKrNsyI_mzM2R6hJuyOr3Yen4ozulTHaObTwDhcbgHLPdveNA5ad_kI
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: ABDALLAH IRAQI
+        uri: https://maps.google.com/maps/contrib/111401377233414935570
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWJGyZcd_54c83pSclMRWbh-nk-6RgM-92T-Ci1vNZ3VuU1UB4p4w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDgw7K3Jw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgw7K3Jw!2e10!4m2!3m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681
+address: 55 Quaker Ave Suite101, Cornwall, NY 12518, USA
+street: 55 Quaker Ave Suite101
+city: Cornwall
+state: NY
+zip: '12518'
+country: USA
+neighborhood: null
+latitude: '41.433494'
+longitude: '-74.039960'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+business_status: OPERATIONAL
+name: Sakura
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681!3e0
+  placeUri: https://maps.google.com/?cid=1116580034820839041
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681!10e5
+primary_type: Asian Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sakura
+
+---

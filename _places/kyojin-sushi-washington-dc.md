@@ -33,10 +33,6 @@ city: Washington
 state: DC
 zip: '20007'
 country: USA
-address_html: >-
-  <span class="street-address">3315 Cady&#39;s Alley NW Suite B</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20007-3572</span>, <span class="country-name">USA</span>
 neighborhood: Northwest Washington
 latitude: '38.904802'
 longitude: '-77.066629'

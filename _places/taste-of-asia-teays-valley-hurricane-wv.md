@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Taste of Asia Teays Valley"
+permalink: /west-virginia/hurricane/taste-of-asia-teays-valley.html
+stateAbbr: WV
+stateName: West Virginia
+cityName: Hurricane
+place_id: ChIJsbLFxR-0SIgR_dUgOqOHx_0
+photos:
+  - name: >-
+      places/ChIJsbLFxR-0SIgR_dUgOqOHx_0/photos/AUy1YQ3rzlb-oeSpG29AjWd3DOvOVlPHZFpPdkX_CMIlGeeYsaWDQs7Ie3BndINeGNSpf_m93dKJ9lbg7yY_ZMrs_lMkJslZnR6B7xn7cx7HJ4TtjRg_f5cboRlJIH412K-ExZowhBADcc7vYvtuoZlM_y_Ur94tuI-84TW3k15xYPYe-AFMOQ7E--trD_6mOmHDNN3TTg0ZDn-DI5kMRtHL0rbP0VNLlqw_d-eg6qsiXLdWD3ksFsDdBVmmY6mDNVsTsqL8YXhwrjZ_v2c-nlNUOCIGUzSszJiOKTVZxSpeZh93gkPNwlgc2x5xkAuYnOwoXlzK5xOmUcBQrR2UXC7WJm46Tw2BB94iLHhEq1UFdCQTKYwczEDT0-TTuXb2AQGaircFZUfqSiUtnq7AF412MI8V7nBWXwt8Q6bh8LZn8o0
+    widthPx: 2658
+    heightPx: 2796
+    authorAttributions:
+      - displayName: Elizabeth Wymer
+        uri: https://maps.google.com/maps/contrib/109629649022563049221
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWHjKE7Sk7ihfM9BindPddTBmmH6jdVabZ7p6FBkw9lwDimXgP8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGksOGBA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGksOGBA!2e10!4m2!3m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd
+  - name: >-
+      places/ChIJsbLFxR-0SIgR_dUgOqOHx_0/photos/AUy1YQ1zJcwOiBVAz8KqvAnVaAhTBaYVHsj37mcumYPfKQFrdT1juKkWnx959aoQoTzT33ujGgGdAe8M62HV6GhL6ZaVM1pFdy6EfS-ZMHUs2BNhfkeO7hPXnA3b_l2SOyXkyywYS__H31V-T8OFj9TuyVkB1ItO29BUxBLZ438g_JuujZmm0TRmgOgA-2JZFtS-JuwBj5f4-K4Wi9fV214aVgVIAdEJPY_95abEsmdrWKRRTMp_9lLoLbGC-9JnejV0_DqVZdryOCHGjBPSnexfTNGxUhXup40E4WvOG7e-n8ZBk8tAO8PIKCIIe06_3JyYmPIB4cVDGLZzz6MPWQIooyVWgwEkuEDAmTH4oI-MaKJucMGGk4rj6n56gT8_KlGAW3xITuJLJBLFpe81sgiraGBU_-gYQ3seYJZRSgxoDhk-Xw
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: James Elmore
+        uri: https://maps.google.com/maps/contrib/115088025690713338596
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWYZkMmIgyWhQFGs7qucAor3u_jQileFG7SPQcHRlES_aLon3nh=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh4qm6Uw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh4qm6Uw!2e10!4m2!3m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd
+  - name: >-
+      places/ChIJsbLFxR-0SIgR_dUgOqOHx_0/photos/AUy1YQ3Ilg97b55wBcHPvxnTFsG4w8vKGUCggN1Xd1GLLFpTnFo6wPh-LGuutoti3PayWftn2r3OO9SEmzN1KglPPQHSN9oi7OYeWWA37KhQ5Q5OJ2leurGkG-Mcv14burofzzCCkeAYfY-R6hWSlnKVfdjHC29kTKhTl2cXIln7SZH-cJtZDjOILNTFNRIuHtpGCUPX2apIS9RMa_SVyzr_P2vPHaxT9oHZkwyhtVdrUZrRjwsJ4SKwiYD5oypxxpo8uKFbRsdTIlQSox7_XiNbTtVKW78JkHOfkpLa0YGdyd9r9nHRrTBRVq8iWWgLeNppnXpPovhuWJLm6f5z-Cws27VWKzYPFLaGtun9_Dq8nWugLLRk2gcDFpG19c6Fe2ArwzuPiZ4Bm2mIfNcJ0T9XRhcRCYOpAxojl6V51SONfUA
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Sandraella Call
+        uri: https://maps.google.com/maps/contrib/105827242332352651584
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWHv61Ehj9vZmMLR_ozgl_l5mCj-iBjL6PKG4pJXSBYHaj8qzAt=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDT1PCBJg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT1PCBJg!2e10!4m2!3m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd
+  - name: >-
+      places/ChIJsbLFxR-0SIgR_dUgOqOHx_0/photos/AUy1YQ3Mt_eaBUfIfeZyHAD0gbIdKHxsDHUN_vT0ipELR-YmnqhS5FADsbUWgqwIJMFeET1dI9pDNNH7RY2PSq07yDNz829JAIZikwDY1Go2R67TJVHsfsWvpZuxVXkSdQ26W4grFEtRUBLNqc9OMmVEIFV11oXXglFhzxo4lhIcTna_HTspOpsvrXg2MUXVKDf5lX8VEZ-UVYFEVJ3zXtQAPS66cpIV_J-eyicIbYF_mcABhAF5q-0dxIEY-WcDJ4QFyLTGQy_2HHBRhB30aAu5NsvEHhSvo3gLLwNnOOQlal5hadDVkqflssyfFLo6ikusfg7Q_0pqPLLNwZQ0dHQR7sbVGcWuAX1oaN7JS09stPribQdkPn7YtAXfK7ZuI73axFKw2n7H5hyW76Dg0Eqb7LrBWPscODiCy6MR2eRswqrHoZ2F
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sid C
+        uri: https://maps.google.com/maps/contrib/102574205788486530869
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXpnWdkhz_fDApNu-qcUMoMc6EeccDmB01i4_vkfsUiaZrov-o1KA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGoKL2lwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGoKL2lwE!2e10!4m2!3m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd
+  - name: >-
+      places/ChIJsbLFxR-0SIgR_dUgOqOHx_0/photos/AUy1YQ2lbjAZGULrQdrMQSmYdos2lhrRoxJb5EGOi3O7bY2KS3jYahqyQHy7k-lWyfBSJ5yiDYKzmWF8kiWEXe5rLw9fYpBwwgGrsUAm4Nck95Ymn8NUib-RzXAQFxsQE4n7Q5PeaWN0gTSWeVuhat3w6meJqdVAJbFYGLUhbTbfn9eaK2WFLtoktmDjuzNgRJkAu-Abk2rswFhRVRzoqSYGs5vcc_ayKeBmsDLPNDMMoZogPn0kHeNTyTr_6u8_F002Mc2wpLELUfkWJAquJujLasIOGZGjcMrLEw43al_O8iBgxKC7A2BOkC3RlZpJwMT-DhaJDLX4nzIrJYuJJ34PMSLRA5xHIqhaKq4Uo1TZgw3UD_m2h6s_MB4vf2vFK9hJ0dQHT-KpN3WSLgpAfoZU_hBP9FasZANuEz-vgclhoOQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Mark Tremel
+        uri: https://maps.google.com/maps/contrib/104121381192844337536
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVefhp-JA1RagHngtELUiYYnIwamUfAa5zfwj-ECPBDeUAUQ88juw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw58HhQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw58HhQQ!2e10!4m2!3m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd
+  - name: >-
+      places/ChIJsbLFxR-0SIgR_dUgOqOHx_0/photos/AUy1YQ0JV5KixZ3qjZVRGdOjaYv4GgjzmQ0gGD5FmC-tVs4ofceCSit-rivDKk0emQGSnc5nZVt6QW1qu248XLQAfXsNL8yED4ras5y18WL84VYUT_7Sf37h0TGiIj0MjZXxRBvNAHqcfLq8Uzh1IoPm3HCLrQlLeAz1mFoEIMcUjb98djVEMc8U9uThrvAeoKCDHRWsh16JPWn4_aaHe_obsfYIBrFNjDogZdifN8OON6fokOjqtlw3sdsPxCRmWkaGPHJld5c8WMy1Fv2w02KXvP0vjP2sAQTkYueSkBAIVvln1ppRiFGzoydBIH943blb_isd2CcMQ-8iwnaV3CBQdHQy0rrxahpSfBZJaXg1XJy5LWAtI1uALgLHAZmUyOG4WqUSP3lq6J0lKOyaVAU8fzlcURZ-0Bd5hYmsHGC-L-roJB-W
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Laeeq Ahmed
+        uri: https://maps.google.com/maps/contrib/105744201125683444958
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUXfrnUcTW9EXquWPRtP12eEwGf1zTZ5af_XK-oH6NTUCg3nieLIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDz25mu1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz25mu1gE!2e10!4m2!3m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd
+  - name: >-
+      places/ChIJsbLFxR-0SIgR_dUgOqOHx_0/photos/AUy1YQ3fcHhpyWcVabmBBHqRhvenXIzdeso2z1R5TxUA5yGlVcD0tMQO9mkuBJXXVbW0ZuXmIR8sWU6JMjUPJuP0IOgg4ymtluUEjGvI3cvQpNlt9dG0rcowcOHXaqWidmlLHjn2NuxoxRqgRGK7MXFJ7hrhC-gDfvSijB1D7l1tLsEDTR4Qlsd2T4U9hVVBt5xMa32A53ueghYytRMTPWkBGVfG4fTXlk61UhvDZ1ZcGQWiijdLuuomvOEdYaLtzRSL96SvH8dZWG3wAmr9isk4j2h2gVc7_k7GH5ARSzIppxMN6WkQnMSGN5PFmUq6TRabY3mF3X5mhqXCwB5rnqWE27rHFSi0R70gREQA7aezehxlillyOT1TUPkc25KtkZIzpznOSYfdzsMDBWKdR6sZTkhgF-jqpxqLvmlH4mlt_Y5RsTQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sandraella Call
+        uri: https://maps.google.com/maps/contrib/105827242332352651584
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWHv61Ehj9vZmMLR_ozgl_l5mCj-iBjL6PKG4pJXSBYHaj8qzAt=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJmZrP7wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJmZrP7wE!2e10!4m2!3m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd
+  - name: >-
+      places/ChIJsbLFxR-0SIgR_dUgOqOHx_0/photos/AUy1YQ0UTPTRgsN5V4T55oSo-gQvmK827B20_vvYU2NlcAQJFaNFHvQkHvbLD-LBCpC28Ww5gDKIaFhPqKDA1iysNQX5n3Nx5qPn7NjNAuUO8orJLS4CALJuLPWY21b-h0JL5e8Z5yC-iGaOyOnMedhWmUzDdIoNw5xEWopKACMvbm7dHuSiPT1q3H-CSpQIUikP1lkx4QnEz3u9Xwt7NG36gqmu3wB57TlD9y_UIAwa0vEXBCXpM7XAA1x2B9IQvWHx0Rfu9SAGAi5Sg963UWhdA8sX2X0KBQJ4GvwA3jXoHm0EJBtlOLqa_A8tEKxz3duGAwhWI_lYqkRJ-MORNWztUsu6Rni-gKG8dEunYRUry0rVJJDV3t68GFU5RVM4u-0vVrQEKDJzKwSY_dSyg4RcSb4iH-T4weQEHNa472kf4lu2S33E
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Laeeq Ahmed
+        uri: https://maps.google.com/maps/contrib/105744201125683444958
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUXfrnUcTW9EXquWPRtP12eEwGf1zTZ5af_XK-oH6NTUCg3nieLIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDz28nDtAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz28nDtAE!2e10!4m2!3m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd
+  - name: >-
+      places/ChIJsbLFxR-0SIgR_dUgOqOHx_0/photos/AUy1YQ2oL6NK3t5kRfY_ifour8vbYL8uvKbQkUMKi1pc5XrY-gz4sklYigd8gSbIpPGh3LCbZ9ae5t4iszWtBomLF-fRMqmsZj08-iZh8puDFh4q5QU5J4AVhHz3WcJUEKSdudkYwDXdEqz6pa8P0cgeCMdW20phiPtws31Gv_SIaHG0s3kulviSNO29Jc82_Jx5XgUckVvxBgN0rTr_cnepl34Dx2JTyKTqia1-Ff2d1Vz2b0v2CITVXJI3I6BXjptycrqIlAVW6-Givxn2h4SSwnQBGjriEb21IwsabZY8B_dFhssbx3AEG5dhDIw9MQcPv6UAdP6gOuddJfBRmRhtJ_qOYO60uj4v-oPkAWJ0A3PE9F5OY3aU53shjjgEk5TvH17H5ywkxXThWK2hEyxjf50qR9Rj5y3x8kuWXYFHQMATL7TJ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Joe Wall
+        uri: https://maps.google.com/maps/contrib/108945175281682423728
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX9wRr0mxZh47mxFbzldmO0jgI1K88nCGrPpUTpv1TaGYyRqq2r=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZo6ms1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZo6ms1gE!2e10!4m2!3m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd
+  - name: >-
+      places/ChIJsbLFxR-0SIgR_dUgOqOHx_0/photos/AUy1YQ1rJNQqmfrtQD7V3h-5362EuFJ4O_1eBFiw3s5eP13OqQ3EhRA3MK09pESHu2Z_eCRqWV7_JVurlrLdQPhqcdnkxQHIFHxWYpavFTsqRySTI-fCYgqzGIjBeP_ejNTPBl90ueWqleCtOUfvz7YjknFSIZo3yg5TU1_L77Anupi0axFzMdb6yY59M0bziwfr9IZaw7RlfgeE8Yc38M0JmkObpZJMsoyCZRfvBHH-YMz64fMcGMPHZRjgSID2wB-9yPiTcSChu0vMoi_zWKiS3t0PpWsfGkW-qXIdD5M9zapxR3tE4xbdEzcvkvElAeKfM5bxZhOx3qW_aBtNYASrCUvgtf51pTslXJlZ5HWXjSI9zjQ7TYk7mPFoz83vcOmKovBz5p0MbEYITKe405832ZU5RX_59CfkEuNcxB19GX52yXe5
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Laeeq Ahmed
+        uri: https://maps.google.com/maps/contrib/105744201125683444958
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUXfrnUcTW9EXquWPRtP12eEwGf1zTZ5af_XK-oH6NTUCg3nieLIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbyNul7gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbyNul7gE!2e10!4m2!3m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd
+address: 1 Liberty Square Dr, Hurricane, WV 25526, USA
+street: 1 Liberty Square Dr
+city: Hurricane
+state: WV
+zip: '25526'
+country: USA
+neighborhood: null
+latitude: '38.459275'
+longitude: '-81.933515'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Taste of Asia Teays Valley
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd!3e0
+  placeUri: https://maps.google.com/?cid=18286733947085837821
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd!10e5
+primary_type: Asian Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Taste-of-Asia-Teays-Valley
+
+---

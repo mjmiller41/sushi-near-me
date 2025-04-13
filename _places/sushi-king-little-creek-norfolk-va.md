@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi King - Little Creek"
+permalink: /virginia/norfolk/sushi-king-little-creek.html
+stateAbbr: VA
+stateName: Virginia
+cityName: Norfolk
+place_id: ChIJKwyK9EyRuokRG-SIConuWmE
+photos:
+  - name: >-
+      places/ChIJKwyK9EyRuokRG-SIConuWmE/photos/AeeoHcIxFhXBVzhLnS5fvOliJ8K4yL61F0MPaOV5171qf0C6VeliuryRfl_pjb5M6nksmiwYOgJ7JyJ0SzPMfAoDjmES9FXOJb-bBsL_eQhHUAKSslmZjV_f3ezBQKwirshJAgNKP-X4J5Kc_mRljC8zOlAtrR-G3KGVwJ7RDgn29MSsnXkFibmCSTFBQppU09fXxTSAZORTBXBEXy06lh18tMnK6EoJECkjCc97ScDMrkUfxwlwA9socmWbIZaz9Yx7UIJE6LcOh2SvUtwR_VxmairsLHueCJMFry5OB51ZI8CZ6Q
+    widthPx: 1837
+    heightPx: 2355
+    authorAttributions:
+      - displayName: Sushi King - Little Creek
+        uri: https://maps.google.com/maps/contrib/113308627621410324204
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKT0QcDvKg1T5Gxd3ld02raD-oqi33iG12zG75TaSem8IivhQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOh4H1Ah1Wx6FuqaM1L4kwr1lGyMIdPJeYX1gIz&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOh4H1Ah1Wx6FuqaM1L4kwr1lGyMIdPJeYX1gIz!2e10!4m2!3m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b
+  - name: >-
+      places/ChIJKwyK9EyRuokRG-SIConuWmE/photos/AeeoHcIKTNLtCnw26sQSROdCBMoSIaVaweHdFKFukIGLpW2zCv0vHV_0e9Guhg7NZAsP9r5BPP4sO4-z15cwM18hYfZu9dvTLNNQcw45Ph0akQuIft-qbTW6RQTe4P-Kx4HdEKn0oNcwGFyOKkS_Bcpm6Yjcb2qx46PhylZ6tczLlXZgMQ-7wico4f9gneGS-jRxCOkQd9IVTlrTJkpzaBTsi-CLGJSUTHRW72eaK_MfTwLR6vLBm2n-jUfJpVYrS1irH7Fp1ApjDMWvoxMMXHykbduRfb46ThfI4QNjtqeKdReqz4gPXpkBOP4bYLUfAQLzgxLyvh1n_5aFPhqultG45vtwra4H-A0YCMK8cJlhXZumC4giPpKC4_3xTxYRYiHqOVr04k3A74tHbO8GHX8H5MIZE4QnqzgWS5E0oK2DaqGfKPk
+    widthPx: 1760
+    heightPx: 1320
+    authorAttributions:
+      - displayName: Nicholas Walker
+        uri: https://maps.google.com/maps/contrib/103020008967605456639
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXNfe3mhdno1-Q0wUncdkJe6pK3TLlJ890nvj-CE3aeDnk3wRpc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA9aaezAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA9aaezAE!2e10!4m2!3m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b
+  - name: >-
+      places/ChIJKwyK9EyRuokRG-SIConuWmE/photos/AeeoHcLfy_V9-QFdo3rR-hd2Njgbjxf462ipRQC8Y1KuW5SdDN7IqZbeW7oGYMVKks8EekxHQuTpY4dKCzfP5YqxaUGSkuigLbfWl4a3Ex0yYmM3X2RNX-aO4OruysTA594OojmO0IGVIH1IDMrfeCxaacchO0PJsMpMz9nUwEkyYxcLv-97weSJRos4REYUxjRxNXw3WYwWdFp-9BQqS0DBBZnzl9GzoAmHFPrKf2X7v70M4rh2fvxQEOtlBwpXh70aHytbGaL4YnbT3O5Uun30zi6IPohPXZhbeYODbxAp09ubze9kSy2K3_mAsvmn3Ksl2dT8swGjWSzwIljhuQ-vdzqeUciwy1rZcLe6O4CsbvXNIUIPMxAbSa4n2hEKEmUtBmGVAr9NT87jpmBgqDe1Op_E8w9puPOAgp-DYQxvYwifow
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Nicholas Walker
+        uri: https://maps.google.com/maps/contrib/103020008967605456639
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXNfe3mhdno1-Q0wUncdkJe6pK3TLlJ890nvj-CE3aeDnk3wRpc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCAycyOFQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAycyOFQ!2e10!4m2!3m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b
+  - name: >-
+      places/ChIJKwyK9EyRuokRG-SIConuWmE/photos/AeeoHcLhXKbBXpVjLsCLVY9_ENiZDm3C2YPN73VJpmWMHsPL7AN7PpLUGbo0TrhXz5_l3V5kp2IVHUSnnQPKfZdW-2D-b9T-99MGwbd2xH6Eb15Ek6LVjseA75Zf91l20NNWkn65VfLM_AhWkjN93cTqKuURbm-JsKGHNQJA51c7UsvkSR9WqYqXK2_goJQ2Kwb5B5fW5GKSCfml3HJfT-fLzhYnAAPhOtzflyARj8rMuC-U5qlu6P3rH_MMevWxn9cYTW_O2Ckg9UiY4DgpBsRL8sLWzYtz9ELCrAmh2Uiul0xTjQiEtiR-pvqM8d823lAAUjdEdULSBv1Ffzo0S0ZxGiHDpOcg268CWhoR8ACxxUWGbk4gNCRGB1OBwEBnJw6mDxz7BpYXJVaPwCwglw6R32VmIegaxL964ENRuY8TkQQ
+    widthPx: 1868
+    heightPx: 2941
+    authorAttributions:
+      - displayName: Edward Rosenberg
+        uri: https://maps.google.com/maps/contrib/113582331739131159433
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXlvPqMtpH0VW5SKWjgXX-dL_L5nnf9ThDqr1O3wTjtCYqFr0T3yg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXv_OIXQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXv_OIXQ!2e10!4m2!3m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b
+  - name: >-
+      places/ChIJKwyK9EyRuokRG-SIConuWmE/photos/AeeoHcJvmlnz3vLpE05eet0Ge8hTOZtEQC-a-B-ndoOZTX7ZxH74J5vIKN8vjbYfPXt-4_oL4u-_CQOVlg6Xa9vXULIHcZ-u-C9UohHsqO2enhh7pxCmoEQk8kM6ec5q6NVRPW-hBEuEjXQG2WbWdOT1pcy5OTPHQiVmkeHWxp8zrj-sUXZTCNM_zBaGYUZ_yHDdGnSKaLNjJPre1V0f05IswZetg9N-_QkXh6NrvVgckFCSYUa7XYgZQV2URsC7vs1FRgzIE6Q0_z1Z__QwxnDqJ5pPQdDtJkEkPi-6w_b5DZQ4xIsu0EP8WQp0VebV-hIHeDirxHWGkXPa7Vc940zkPt79bPVxe3y3Sj_gavZwDiphjxTC74x_DGn5tiWbRC21mX87dgyF9o9uBu7OLPPnW4enipAxLzo15ajdV387NrnbxMUq
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: SE4
+        uri: https://maps.google.com/maps/contrib/110283223468068388942
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVvHhRq9W_BuptbGFSwEAvqXFKPJgUJ5NvKzgajkC0RWJarapnD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHtLn2vgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHtLn2vgE!2e10!4m2!3m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b
+  - name: >-
+      places/ChIJKwyK9EyRuokRG-SIConuWmE/photos/AeeoHcLMPCd2WDCF0av1Euq0ZPZ3qjR11knCssVF9xdjFIqasWYL49wOd4Jxjp3CKSRBYo_GZROwRFvbIcrmwhWW6_JDuvRMuu-xgEGzZ8N6WavCKYiAOfZSlqbOvATZ7TrtUTHBM_YCL93cGkF8-9Slw3DNASbr8duCt-CW1G7MpxTjv38r6xQaYiR00HWKHoxcLpPt78W57gztvop8e0DSTDbeA1kW2k69KZb5pymoDpTS4-s7ThibrYOL0XfsBm2muVvm6zC9NQevtBYOSmo-JdfBSzBqKC_09tG4wBbhQQkK4xvNM_7I77dBNpzmuWYHX25wFTC79Rfo-2K7VD-EZGWLov6-DBBvTnaDlT6kn_bVKs-QZcOqq6IINk6nGnaLC4vt_eCBMO4CC0wqL3Zs9VlfbGFxDvMg5Y4N7Drd9jbK4Q
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Marie G
+        uri: https://maps.google.com/maps/contrib/106030536155348208380
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUycOVUQTFEn3Es0dSx44m_KNxe90-Uhsr0canB91zq57BVTtIz=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRqtuZOg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRqtuZOg!2e10!4m2!3m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b
+  - name: >-
+      places/ChIJKwyK9EyRuokRG-SIConuWmE/photos/AeeoHcK2T1gjX5JhMYSNa-r5cENgbT2qlHIdXkNYLA3GtrCY-xDr5iMHGshK9-SU95Xn5HuAmguOZ4DJ2A0C5VlSiqgbDLZ_OlBoz_-ffHuUT0mWKlX7M-fIfOkXCeO5hW9BpeKaRj2Y5qHzK3maiAZARu6M5HZSt2qUGhQqkEGo-zBWorUnMv6Tc32g2u5McUwePZKvjoXaaq0b4GofB-zVfpGe8VNrwO_flr-i5giSipknFVZ87Vm8W0F_yefXukrP2czIw2-11EQSYO8bK0QOT2QRzKzYw0WlgBP9iu_SkA7_hGVBhV1GoZfmwouFhBs94spquxumtk5MZBLgWRIFzBFYG2NTYLgMrAiMun6fZ1WR6_ha5NSttgZMwTeQohe6LnZHiQ_imaZb8pzw1OhAZ5smoDz6KjW6MqebzxF0Db8IrZ8
+    widthPx: 1760
+    heightPx: 1320
+    authorAttributions:
+      - displayName: Nicholas Walker
+        uri: https://maps.google.com/maps/contrib/103020008967605456639
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXNfe3mhdno1-Q0wUncdkJe6pK3TLlJ890nvj-CE3aeDnk3wRpc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA9abBkgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA9abBkgE!2e10!4m2!3m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b
+  - name: >-
+      places/ChIJKwyK9EyRuokRG-SIConuWmE/photos/AeeoHcJAcpcFNe3Woh19twRI1oLTZTXb9yWeRZ9L7rrZlFPOriKqo7YqIDD-Qry6I8-PxAL7QFyrw3NoYuV5DVQqrTBmB-ZBSLB5489HsmIJsKm_TwqJOpNBErOv3GmYI8kuxLle2bc3SWsMUxI473Wp5-cUi442WeeCK--sJBHKWEeJuOqujNFKeCCKXKfi_zLaO66rZ81e9IYZAneCltomuzuASsmd6HZSWviylpV0gxvXt-ORfnfkWdiSscLV4kRqsI8V2j6wKe2TOZhaVKGbgkPzwPpjgVjzLPGvqBS1xX8OS3P76cweBdfbILj0Hiv5xUrNGiJQUvgUaUIzbGjMZkeMUWtaeS64Oo--DJTDRAZM3qP9aLcXVStC6g4Z7UyrZOpU51pBhj2J6l4NK4kfNpp-FBTfezOpIpqWJ6RAV9aGG949
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Nagesh Bvrch
+        uri: https://maps.google.com/maps/contrib/112797292605842769493
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVbIiWvMcIokPODIyAFsyT33odOb0F6RXq0iCFeOvrHS60TmqjcAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx-N3UrQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx-N3UrQE!2e10!4m2!3m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b
+  - name: >-
+      places/ChIJKwyK9EyRuokRG-SIConuWmE/photos/AeeoHcLdH1wxGXTZUNXIInEbKyDwX_jsRi8clzynvz_-BasiqVuSQ2IATCtR_3Dh3kag_4xA9cGoyc1QwR-1GDhGl_Q8GL2iGMFSk5OyVGuNuq5NhbtlFTDcTIx6mCErfLVt7vkn0vHSj5tiSYgEuMM1aXQ5Xfcqqc4C2G1wuMWN90-cZfc4o3qW3657qSNyRsUjniBBcYpynkkKrxtvI0fX4g5dCxRnCBQu02TtiTsxXD5tKbOKVElKTDa_TkB1NtAleMGYPEDhDUZUHJwyl-wzuz9P4jdV1De7_yDnFf4lX89cWdpC_lm_zp90uQksIuHisOX0PHwQP6ymHFYjJYoxvH8yrYNQe2qmGB0Nry7MNVZ-OfacGPLqg1yQfHIdxXsDMAFxm_SBg8rMhpYRL4r85Pa5mDYzrU-UyThCAe2ccqvWNA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Nagesh Bvrch
+        uri: https://maps.google.com/maps/contrib/112797292605842769493
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVbIiWvMcIokPODIyAFsyT33odOb0F6RXq0iCFeOvrHS60TmqjcAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx-N3UXQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx-N3UXQ!2e10!4m2!3m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b
+  - name: >-
+      places/ChIJKwyK9EyRuokRG-SIConuWmE/photos/AeeoHcImyXPQCtIsBMMVEUdDfdaH0ntwvL4urZRBK7fDAenfPTyb5LxM8mRm7oM9mgcHJu98CjM_XcvyBKW2V98Ag-L9k1ResiNUcZqBLF8PkORL84wmaLpziw4gxibKCq-HbzyY8R5pqpySqSbgfCF7dBJyhNV-M-EGHrWfTBjMlzqtGweJ_VMjeAQElBySfLmAl8AAiEWZ1L1yYY1WyI9Hs5Jit8B3hU_dBSP2lG47OlI5iO0nr9zW7hj0ybn3utCfa_jnfV7x_effR5Nw7AXFJieFqRyq1CmJsveyXBDdMJlWClqFFWqE84Jz7PuW9iiSnORMa-iul03xHmJPQVq4DFjisy9Ed9xea-RlMim7npdObABhhkuWpp89Doup09UECKgKfCYqMjsBg5ZGQ9SMz9f7tcKrx7CHWjZahx9pc3XQrIoJ
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Joseph Callos
+        uri: https://maps.google.com/maps/contrib/101333500607231416318
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKsMe--__I4CcVN945H6IES9amIGsmChqeXQnfnoTqbE6njHA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR_IOJ5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR_IOJ5wE!2e10!4m2!3m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b
+address: 4249 E Little Creek Rd, Norfolk, VA 23518, USA
+street: 4249 E Little Creek Rd
+city: Norfolk
+state: VA
+zip: '23518'
+country: USA
+neighborhood: Camellia Shores
+latitude: '36.916585'
+longitude: '-76.193818'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi King - Little Creek
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89ba914cf48a0c2b:0x615aee890a88e41b!3e0
+  placeUri: https://maps.google.com/?cid=7015181641937642523
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ba914cf48a0c2b:0x615aee890a88e41b!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89ba914cf48a0c2b:0x615aee890a88e41b!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ba914cf48a0c2b:0x615aee890a88e41b!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-King-Little-Creek
+
+---

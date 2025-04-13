@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Locals Sushi & Sports Pub - West Ashley"
+permalink: /south-carolina/charleston/locals-sushi-sports-pub-west-ashley.html
+stateAbbr: SC
+stateName: South Carolina
+cityName: Charleston
+place_id: ChIJ6R2WXq97_ogRzqxo5MBMfEQ
+photos:
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcLq1rUFZ6f7AH9dT-kpWfX5YG-4f3y5pxJw9P_uqd6jCZdOSRFe9h7MAI7WGB4e3RYH5GItfVrWmzvC3g8iqCNOVZBbkryoV80kqbH6j0Amf8rTyrDFpsbyyKcBluBYHKjzIp6AwNtKFKe60EmWy24gH6jaxjrnpff8heOXmtyVAxyNpaXMeunBexbguoErWfhOwmZeG1dkM8UOn2xr3byeybtxw18QQb0rFExaWkVtXrlmDhlWxBHf1eIjRet8awY4wVwGgE-0wemyKWzXvjBPuYD41w4kZPNtRF4VRd5dLMeOmYFfQG2rKDCtB_wzYyRNYDUdPWaGRauWVHWhBS-Mg-LqT2hJYFHxfhGeygJs3Yr32i6njRrCvkMAlfic_IyJ5vMOPmb-sODxW5bTnUF44MEu5nRYqSB5M30ad6v3vPA
+    widthPx: 2000
+    heightPx: 1333
+    authorAttributions:
+      - displayName: Virtual Realty
+        uri: https://maps.google.com/maps/contrib/112722490880280490705
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW3tJ6mJDGZ1lUVpbGpZ6-ipqStr1y8jQIsMXPK3iy74RjVxsw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC0gbva_gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC0gbva_gE!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcLG0iTd8c5ofTmUQxqWyh3g4JKr-OgiWxi8CBibcnw9XiA3bEuT6B_T15vReyjUAopG2Isq9HQ2P0if7BAQc8dH0KbT0wZf4W7L_Ulx9DRSSoc30yuSQC_HUv3-i5EwjIuP_o8bjEbc-qQGZl835eAVLEbhSTezbRCLRnUy_4nE0j1O2xWUEXrWTRYrAkjb9MnAUZJSNPTa9f_STyz62YrFf_vpuXDOwdlq59ScylxWFJjwqI_NgweDvd--0xIOcVzWDh5HoI7qOmNPLdF4JHPrhDew4Wq7mot1UdusTZna4A
+    widthPx: 828
+    heightPx: 465
+    authorAttributions:
+      - displayName: Locals Sushi & Sports Pub - West Ashley
+        uri: https://maps.google.com/maps/contrib/113407213544690226437
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUOLRi2UFMu7SXm_NtstiCy2e3dk9PSw4amtZRLsDMwa5jLeZ-P=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNkHInSQN1DhjWgf30pwdvZgc9VxkmgPmdUVdeL&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNkHInSQN1DhjWgf30pwdvZgc9VxkmgPmdUVdeL!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJXggs4d0NpCuI87rQ17s0HdJUzbwVZr4OKZkX8PRpJOj2kC6nvX13SO4LrdtjT1bv4rH9FlOccoe4t7Khdf3cLCsMcWtt7HJmYt-vF3_RkJU4UALI62-WBnyWhUQfWcZ-LT-gPtxNlYIh8-Ivq7UD-F5QN-z213kXliClriR5RYtniVukYE-ZtHE9HzU6gfwUfi1oBlrsznErx7a-TtwZu_FvDa-BJKqOKy6QYbJ8NtA2dOwsznuOiP1cXRThX3B1WBcy2DMVmH7pJXVeGKsl8a2uK7lWE3SEnUGpaObM5OXuoYKrxzIY-nejlF7RfwbPDg3k7Q1cFLzJ2ehx3kCugIMnszKBVD7O7Rzj2bLi40R8kHKpqF14URPD7Z42aCIQbWukoZNzHgGrPwzs7Jg6r6e6mq3gUes2jMPRdvcVQ-g
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kevin McFarland
+        uri: https://maps.google.com/maps/contrib/100856266689834278805
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUiUlaBT3czfkaj9WAmaXRm0OOIxnlF9kqqZmNs55O84nieJ8oQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHtPPdfg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHtPPdfg!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJg325J3w68LH7diUBjsXAv18OeGE93v9NtAzlNAn5pGdeVUrFp-7Y34GcwoHZKViPbHLId7tU89r9Co9iuv6fTtpd06tXPuD3tLkOSZirB-F-73VefEnQhLHbH0R9CUf87LHVBYR4LA8zbs8SuHstAjNrIkWPfoi-Sz2-7xIuUu-dD-JhbAwaqlmkyJ3F5xeZ6X6rnlnBWOv2VDATr-QXY8jWhuN7a-8DdYOO_UD3WwVX7MQefF8crFze9yQDFWAC9kJzPJKeX1JSKYNkm2pQ1roNEyVc5_DkFlp11zboNxA
+    widthPx: 512
+    heightPx: 341
+    authorAttributions:
+      - displayName: Locals Sushi & Sports Pub - West Ashley
+        uri: https://maps.google.com/maps/contrib/113407213544690226437
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUOLRi2UFMu7SXm_NtstiCy2e3dk9PSw4amtZRLsDMwa5jLeZ-P=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOIM1U-Hr9n-V75nY3HhfAuTniUvJB8zwIXmQYF&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOIM1U-Hr9n-V75nY3HhfAuTniUvJB8zwIXmQYF!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJXT39AJm4zOn5itDFskMbq_1gQTGu4hKsZvg3_3zzcLHHQokiKO5Q7mik4JFmLeEuA0qJaaqz6nwTFAAfOnOD5CUppP89WlQYyOHBlx3uOGoqXIsp-JJW1g8P_2Z0msIPjFW8lgdc3cWCUAwlxM7hu_cApyWRYlWWLKbiq96La7YLfA-sKA_JnC2YEG1QRcH52fo2KJ9G27JV1qE7_1lC_SPnaPAQlZh1f_9MTfevD0RnZ9iincuneKePIKWMI1KKzsTCA3WvzPL2DiIf7OyoHeHdmJeUsVLvlSGXdpoMGSQ
+    widthPx: 348
+    heightPx: 512
+    authorAttributions:
+      - displayName: Locals Sushi & Sports Pub - West Ashley
+        uri: https://maps.google.com/maps/contrib/113407213544690226437
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUOLRi2UFMu7SXm_NtstiCy2e3dk9PSw4amtZRLsDMwa5jLeZ-P=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPE-gHl2P_PG90PiCdaayw-4z24eX1JvHJKxMAK&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPE-gHl2P_PG90PiCdaayw-4z24eX1JvHJKxMAK!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcLvSua6yfnI3BAxqolLREdagvb_AhcMAHA2shfNpKGxTyT89g5Xx9avLwdJ4zucGQMoJ5Q69TKyLtUEBT9zVujQ2GrIdvhHGu4_PKil3b3BM6dYRlwOZ269W8OdLBj6J6UzZplRLIP1M7cLrznzlRhsH7wRzaGpe6o5bn5ZLm_DXkahg0PFjqtAkKg-Ia4KgFsreSC1W-1M0xqHbn3JYgUNNCvnYMgInbEpNNq4AWPjLiMx92-HJ-UDVi9tX2o2p8zddpmZ2EcFopM3A4wAJANILHA6Biy-LRkMdobWCyDHKQ
+    widthPx: 384
+    heightPx: 512
+    authorAttributions:
+      - displayName: Locals Sushi & Sports Pub - West Ashley
+        uri: https://maps.google.com/maps/contrib/113407213544690226437
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUOLRi2UFMu7SXm_NtstiCy2e3dk9PSw4amtZRLsDMwa5jLeZ-P=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPCNicnVvyEEEvt6I3wZ6Wd3e0KZm_IBNkLR2Wu&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPCNicnVvyEEEvt6I3wZ6Wd3e0KZm_IBNkLR2Wu!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcKZn3X-G9rpwV3M9I231kQjjgqG1qFLNJ9D6ydpg4DAuwTRDHILuF_QAa_v-zrcJsT6xlIPJlg23e_IrPS50NcMiPQAXxDltHhTCvlCm2y6X99tQmnKiHpqKFa712Nl80-6vLhERa7BhPT-u7j1hdJZ-hv2cbXQsNYqQuj80Pv_L0fzr37bhR9O_nKQa6GM4eDICoSieFFeoJTo3g06rpM5jxYf5aQYJng9FK_EVc4ljgIpSl7puptzaj3YmphYTPM5QDWMzjeFqGCVCXo8LMbbz2E9QO04sr2DpyDhrCnyZA
+    widthPx: 512
+    heightPx: 341
+    authorAttributions:
+      - displayName: Locals Sushi & Sports Pub - West Ashley
+        uri: https://maps.google.com/maps/contrib/113407213544690226437
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUOLRi2UFMu7SXm_NtstiCy2e3dk9PSw4amtZRLsDMwa5jLeZ-P=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNzMTN5v2DniQ0-GAWyD18PbTwwcirJnTuViQNj&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNzMTN5v2DniQ0-GAWyD18PbTwwcirJnTuViQNj!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJhXciRZ133A5kHkp8-cES3lbnq6Abj0BWb7HX-6bhlGYJtRrtCq0Op6ucRT-keVhNSirbgN18HQaZrfhlfHv59-C9Krss52dXt9ZiBtGo_qAYEY8x1ySi5ykQMCZ1VtjPPi84HkSPpmNSivWTX0gUTRV22-71m_hzKR_dQWxbj0SZ71IoUkqrFBWno-dlsiD0rIjOZwj6KgBp5XiPBbQQnsPaag6eAAKK0H0y8SYcWs3t_-d6GylbCSrDkGnWxf4mWS9QHMkWMcDJE9qjJjxpCFo49HoDXC6-n_NxF84G9_HsRazsWNZBplyWA4bs-WhsNVvXszmphbcvkFQRKKT684v7GU7yETaQnVNDT6wyrLQRuxUyNq0qDZVA21GPMTk8Q6Cr5fYMhUZN9ye2y7zmhNeSPHC-cdDP4WPOZl7ppgA
+    widthPx: 4800
+    heightPx: 3599
+    authorAttributions:
+      - displayName: The 2 C's
+        uri: https://maps.google.com/maps/contrib/111005520012833171034
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWjaIF_9JvVB1DBOTjBUPMVwhCeSy9JiDUQNce7fxx3BGIQhDtLzQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGj7OoOQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGj7OoOQ!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcIYQsASqV-tX3efUwWJXnc2JsJ0t3CbiMPEMFinBJQZD63uhqEen7zIvJjFORJ6dwtxwJ5WCvkITuFE0ZaSw0WZGK8-mB3UVlMI_T4XvqGHG5ZcNxuV496VZO_vvbwZ_c1A7h_tqzoLrf0wcFuztI20FCSnxPNNca1RX9JYVqn1rBlXQgPVITChqOxgtTBA-_qifAEP1rSIj6KzfmQfuB3Wa8FYeMpWMkBCQ1E3Mudbe7EfAF62tU28Y90cX513pUZ3gcTp2hPGI_BWR8F5ONa6hLJGBXwWj8oYMzXmlAdOueK6icgUUQDiDRsc9o0R8e2O3hL_-yWKIMrIGVWlmThL2R_ehzxO0Zk0mzlaQD9iqZKpgqEPsRlKA2OL_kG_qLD_rF_OuU8ypkJDA14bdqS7LfaLsQ4Dm2ZiJ_3EPwQ7RA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Julie Jones
+        uri: https://maps.google.com/maps/contrib/110660670474821291265
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWXgHAkJsRnWoLRzxmu8v4J1JPxvSKtEW1qxlgoD0CELFOYnc0X=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxsqfSPA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxsqfSPA!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJ1STscqX7vZIHJuiojvaTOCIPN3UqOXUsFsuUWEGjoK9hhV17fRJBTJPXjxoQCj1-ZGwtVuL7NA2I1k9VB5FOxTpzqngNVqQlzpJhii3DMCX9dL3Dm2ouIUAz_Sq-7zk5KvMrJNbHju8R9Bez759gADxjXUsv8LLDd-69wa4tDmJusfRAkK8M10JTvoQQCUcPsuwXyiXvEn42TPj6nLCXntH30Wu6caOCkscspd4JtQaJ0eYMy7EKZMaxFfv1J4ob8z5gQrcuneb57iMC5NxgyoyDmjlFFMWkbhxz2RrqeTFgtqpwecurZftTwLBucmn3iij7ve7UYPH_uUpzi57S9g0DXCg4MNfZNc-H-6yG9y9vixaM0LIOwkT0KbmHSGNBAiGeF8YRvxSoAD077_7jkRfFHECpXSM5ISttFqeVs1w
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Robert Moore
+        uri: https://maps.google.com/maps/contrib/102803122776252012279
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV89VmNbQQI-kQNS00mzye7wGqLKh7b9qbmQkotxZGsmUdY-FG98A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDKhOKuKg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKhOKuKg!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+address: 1680 Old Towne Rd, Charleston, SC 29407, USA
+street: 1680 Old Towne Rd
+city: Charleston
+state: SC
+zip: '29407'
+country: USA
+neighborhood: West Ashley
+latitude: '32.816703'
+longitude: '-79.992720'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Locals Sushi & Sports Pub - West Ashley
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce!3e0
+  placeUri: https://maps.google.com/?cid=4934903683040718030
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88fe7baf5e961de9:0x447c4cc0e468acce!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88fe7baf5e961de9:0x447c4cc0e468acce!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88fe7baf5e961de9:0x447c4cc0e468acce!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Locals-Sushi-and-Sports-Pub-West-Ashley
+
+---

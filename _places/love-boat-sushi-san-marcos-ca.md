@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Love Boat Sushi"
+permalink: /california/san-marcos/love-boat-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: San Marcos
+place_id: ChIJHS9sZUF13IAR27kQUA2aBu0
+photos:
+  - name: >-
+      places/ChIJHS9sZUF13IAR27kQUA2aBu0/photos/AUy1YQ2p6vKakQoZlvoa1cNPV5AKV2024f0e51G0Lkmghmv_pSfMIPdKSSxPN12J9gLuBoUvC3bCQJ29b0_5gomLWWBeakRrKLQFTeeKDM7mVEDzRPni8cP5Rk4hsTWAR2OsCoJAKqRjP8dy50uQWbjGPpwR0MrIIAIY8EPTXMJYt9luXO2ElAck2XbZesW7Ot_7PlUrt-C4JPdJmhRC-3SXz2B1cdURb4q400HPBEtKi5UDWuFQNe6I9C7oQeN_kb3cONo1D95bA19w5R45_kG4mO4cZOO8ddenQGVhGwBrgyOUpg
+    widthPx: 2448
+    heightPx: 2448
+    authorAttributions:
+      - displayName: Love Boat Sushi
+        uri: https://maps.google.com/maps/contrib/102349043925894877799
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUqVOSjuoUENfk9eerhz9SkXnkurzmBGBWMBiP4mNxSMYcv3ng=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNlXTXFhE1HpT-efmIZf6ux7X-MgQ2Ly7x1P7x8&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNlXTXFhE1HpT-efmIZf6ux7X-MgQ2Ly7x1P7x8!2e10!4m2!3m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db
+  - name: >-
+      places/ChIJHS9sZUF13IAR27kQUA2aBu0/photos/AUy1YQ2q09TAikmkw8DkQw7-gHPdH14P1Gj6Tn963EVLG4koIPF861JpgyGP9tpZnTEqC2DwPuFO-vBQBKtISEt3lSk20tF1jM1-2F3PSxccIAp9HMSocLVIpyx_nKcLVudeiL0U4MiO4ikbaSFv2XJuLqW8FIoZQg7lfhO93nIL6s2gOJZW1go6gS787XRIYpnsCzAUThswSt-5_S33XA4XN8eoVCXAGq5HgMPHXM8JhAYvW7sF56ZHgrfDY-f6bmgwc_1xeh1ervmvGXjECa-sOpCsKzBfPEr919eiEyMLkTxfjQ
+    widthPx: 2500
+    heightPx: 2000
+    authorAttributions:
+      - displayName: Love Boat Sushi
+        uri: https://maps.google.com/maps/contrib/102349043925894877799
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUqVOSjuoUENfk9eerhz9SkXnkurzmBGBWMBiP4mNxSMYcv3ng=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP9LYHfF0VeChQoKOVDRizzfaeWCw1crfbEhbUR&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP9LYHfF0VeChQoKOVDRizzfaeWCw1crfbEhbUR!2e10!4m2!3m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db
+  - name: >-
+      places/ChIJHS9sZUF13IAR27kQUA2aBu0/photos/AUy1YQ2FDzYFEqAeHVwUqSDCHfHHNa6CapZvSF9uvFY_8336Fm5r89yO8W2z8tpWeNfthynZS4Ev0z0iBdSTJ9T63Jkzo1o5llk6YT54hOGBQ-_45j2HfcZFEuBVDqIzWfowZTKoaZzVz4uCj41BKCSAVdjMyucnF6g4yPsAlLWJF5IeJQ4SYy09FMveGagZby2MyvggkN65brGFsH4skKY5smGBTg8E2YMsyh2G-D3IfoWsIRGFjBFLhvztC4E_cRzeN9e-hny9FaVg9fU8U8wBUzH7mzVXtj3z3gbvZm0bKeNZQnJ_7llXP_4BkLvHfBIcIbJ13puFjID5QZdQDhma3vPRyBcgiy6Km8veE-VO91fxw6XciY2XXd4b9yIWVVVa1hN-RwNkz8ymROlXqrI9gtBYwRvIek7ZSWmkkEQvWU4Eow
+    widthPx: 2268
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Markus Stampfli
+        uri: https://maps.google.com/maps/contrib/109483610691004330113
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXeEtjveZA-mPBDDnZRNTGCg2Zmx0zqG_WxB1pKQHPrMd7qaZ-ypw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDCte3NSg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCte3NSg!2e10!4m2!3m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db
+  - name: >-
+      places/ChIJHS9sZUF13IAR27kQUA2aBu0/photos/AUy1YQ1VF4LBb-N25GcDCKDwP8ly4RSsUKUnt92KKB6lk38rnw1slY0i_oq55Ln4wlJbFLsSw9b4DeV8e6oCtxYmW94YhDGT1mud5RsiOeECOMjUtNP7htw1X082pewzHxbFz_UzJY0HJZ7itNLdPAFque4zPEs08nQoWQA6nUEm6c8L6ZigwkElJlqiQW-sxmKLi7DoWBPnUA4FE026-u8RL9SN7moUF538kaZ-iK06dmo9mUcXS7PhQzVyc7nWBQ5fIEAOSrVQcdU-Mtu3zBZjQGLioByL8RWijFw86emoQmba854rP5kdSFQIf1nGB3eVM87QVSrA6jEeOoSwLsrNKQes0JDx_XTFuNld-Sj64im4SkA3mWOAFImiqAqgbL6o2sR6PLNsMJm1x52Ww_qsxfWd_MLPUJHPSs40gtTTxId4MA
+    widthPx: 3180
+    heightPx: 2002
+    authorAttributions:
+      - displayName: Gen K.
+        uri: https://maps.google.com/maps/contrib/116125934313820639740
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXKrA8Mw5kxD--l3YaUuFKJdfWHQ_ZktwxvL2sWZLvv96fpVE1E=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrkLTGQA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrkLTGQA!2e10!4m2!3m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db
+  - name: >-
+      places/ChIJHS9sZUF13IAR27kQUA2aBu0/photos/AUy1YQ0Ylsf3qQLNbXTftYJyd8uwwlg0K7ek3Y_ZbhEST_wMlNumDoaV51DUrotfNJcq6GyMdHL8sgRHNJfSsy0gQnwILzXpzPT4O4822zVQ6aZoVXZOVXAV8eAXrtV2u2rV7Y7L7q30pJk3rhCETIQtW_YWhbqo3M4blJDjUd8N6LF81YbyRhJ_sU3y0e00Fz4WV6CqMNbiqZ0oCHcb332utKS-IE-XuNgXgikmjT-Ncufl-jwTYffOmaU2VKd35e6-Cc_2yM6GXShppZz5Rk46dSQiXGbWhiz3kWx2keaNfYIJF4oy30f4DVh4UuhjfYCS6FzDaqudJjOL9WNnTyktPtXEOSOBOBFlB3Pfa5Nnw7ICplUTJUiwdmlbhHllVML5OmcsKuL1jA_eYCTJcSWXuzWwW-rvjdOJPqXFtpT8BgrKkS1e
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Claire J
+        uri: https://maps.google.com/maps/contrib/114691273186192201588
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKUZpzmMiuSPdCqtASFYIpH1a2QIh1Zm5RpmSEfCcjS13dWow=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDz0duhwgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz0duhwgE!2e10!4m2!3m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db
+  - name: >-
+      places/ChIJHS9sZUF13IAR27kQUA2aBu0/photos/AUy1YQ0o6EaredLoNCnYqXRJepJP8seE6aAWxsBXrPeK6rspEQlqwnDuFynUPbs5Bqst_D8I_06JqZhxT9tMxs4M75LZs0KKKoO0-CJwsaQHGxpAuLaAwXCPiC1hqEYKA0c-qF4-09ydkBqJ3tJiU71dbcHXfFTQbR_CKDmeiBD5_7nnUY3j560QrDo7emaBhT5SH8H-sXrvtLlx27SkxvmBV1BfmqAg4d7JQT0mNsfJDx9sFYGFT5AMoyf4PRHQs-MIKTxxHASCV7spIf2CbuejO00fRI-vpCg7qUpC_F4qSdS6pnVWJInOJy0QGoS0gYS7GvtHb7JP3NhKYldJsHZZPvJlRv55RaaCk4rrJUirqBrYP49psUa1VR_6DksMeE8kE496dKpWzYIbsWvvxfTn-nz8udxO0yq9AV1z4zJJUIPpv7jn
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Kyle Emerick
+        uri: https://maps.google.com/maps/contrib/108452710813296431501
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXYbiZZa9lJmYNgNGsmGhxXDIWx1IINlYCXx__x3Xq6odHSqzsk0Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhlvWzggE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhlvWzggE!2e10!4m2!3m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db
+  - name: >-
+      places/ChIJHS9sZUF13IAR27kQUA2aBu0/photos/AUy1YQ2C07KUpnRyAOiy28E-naUxfCq7qNLPmzQTvbeb0miGh256TkaDpWmEdIDY7zMnyqhXTBKmwAkGAI7XRBv-a7dgnlDeokyS1fhElvoqvH-vza8Aac0hRwtSwQfhzH_4oe6oSrswBtNdffJVBfyHEz-n_35t6ak-mxNcpaUufOFOwAq2KtZUHIICPCHwL1gPUK52jab6DfYMy9TJUuU-TDZQRiT1PQD6dpv7Bu1OC-uZh3MpdiAIeitzIzdoPKUAZFw05BqAy4cCYA8YNSbxid_XSsoE_Pht74wL0zIDWb6QbdQ5Zp-BCuydy5VFiZ6EpfNPlk1Gkj4BWQR77zHlYxVCQAr-gHYsK7hSBCeY1N2MiQb3IOwgzbwGdzMC_9TvRLSA6nUAMYih3tqKWipF8oVu1jIjis6HuwWZv7t7rj8jbA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Shantel Engle
+        uri: https://maps.google.com/maps/contrib/107315492018885557771
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVhZcS2Sesqk4f-3Hrao1GgVXQ9wE6w3WAkRM8FiYDNAR4msiEhEw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg7dj2dQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg7dj2dQ!2e10!4m2!3m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db
+  - name: >-
+      places/ChIJHS9sZUF13IAR27kQUA2aBu0/photos/AUy1YQ2G5YWRmd1gT6D3PZN_f66_tzkp35XvnGgooWbS2mr0TrGpkj-SRpRdqhpn3wH1ym7y4ALeQmHE4DBL2ZqgZ6irVhggGO5yfKvPJxhjJQuNvhbl2bz_269qEidrGKOiUO0VPWpcH9FtLqqyywO4xBtVnq2yv0bMtlBDeGyr-Ayh_BMHR06V_YNeGTz4hDc0vShnDMfHwzSASOtR_gA4YCtXQjlOXz5N3y4bXd9z41ETj3ODH6zhXi7MIB_4AEbhocHYYRq3-7XaIcznc5LU0wqZ6PlCrGw4hUwxU41X3980hKDm5fAcE_CCkClGXY3f0DuHSpZe0j23FQQhUXlH2DDgfCBbjHsdpmY6v4oAExrVXXr0dEFblnEdXEJRtf69cMQDz2mxJ1-EB3CnI0T_aaxEGovfgztACpdFBDpjjL2F98ug
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Maria Elisa Yee
+        uri: https://maps.google.com/maps/contrib/117637065971529028506
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXWDdgBUlhHeBDUx5_pXtqU_M1EADPZGrc6umFhSusMkiPLl3MHMA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxzNzIzwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxzNzIzwE!2e10!4m2!3m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db
+  - name: >-
+      places/ChIJHS9sZUF13IAR27kQUA2aBu0/photos/AUy1YQ3NkxQAd9gbHXewyl4rg3UofyZs2Z-orp_gqVkRZIKJaEz--SWtGWlPfGaBhNWx4XU8TPCl9DP4-Jmr9JLnHzy9w6727WGvecQBhV0VBM2JD3EmsMvgTNlKmooqcoqlxck-LA6kdGUnhOdc4s0lKAYHzbUfsVonjgvTCht7Exk07ez-mfkY7mRkoJRQuPHdR6jamS5ve5hbbZZa8eAB3fnzlA17_G24tqxEekUk-JBKBtHqKnG8nspyGdiE34ocuJy7rDtkK1w4sn-e0eyg9ql1hqvlc0J4BDMTIQnffpgJXbmiArCsgmCMS8heYC7GiBVtairjg9H7nDBT0BBu6JQhBYQttiariDPdAfrNaLuqi2me9G1TuSNIUFqdYTSEL5K4cbYHhEb9cuKiRbThAlCxG2MkT4mcGPBRMDVj5vvdOeQw
+    widthPx: 3060
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Mireya Enciso
+        uri: https://maps.google.com/maps/contrib/114164781180638409260
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX9mYnCDGkQ-c6XZ1b-M0OgobtzB8zS5CeswM54ApOsb0fOsP4F=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLsqq-twE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLsqq-twE!2e10!4m2!3m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db
+  - name: >-
+      places/ChIJHS9sZUF13IAR27kQUA2aBu0/photos/AUy1YQ1PuNu_STu5QnWDnmtRMMcqDIFhpslB2xWtBeMn43DMNczS5QfetS6UC7s5wNgYPddjKNDUzLt2C8y2Wo7d6_ZdjGJA0hWlupHZIcVBn5JunLmQcAlPA8qyornAyt470jdXqKcHvHhpHrxmfLMa3BR4xwkYGPAqAwPi6dS3PX_VLsNj0oBXYuMAdsB2vPXr2ADb3FfboCtYJGRFrjlCXRjQMDTN2bjOhyL2ymOtYu2l8ezSmLDeKjT_AVLeuDTQjw2X8I2iWSMRCGuVQYCvHiUqDC35armxRnlKOSDM7mCwOdNYuG9pBxIUojJCqoxgoVAzTnxuAI5ERZp4uEZ-ODeDlUpLg3l5Yi9m4mkcMaXr2GYfz2cBTSR-yNyJXyp6J541jqQGGB4CPUkSBq6Yfgsdakgw311-pdl_2LtQ7F3_wUMG
+    widthPx: 3023
+    heightPx: 4031
+    authorAttributions:
+      - displayName: Josh Baltazar
+        uri: https://maps.google.com/maps/contrib/108369585549436484478
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJGwLc0426uUtyS_hszBwD6DJIMBgO3FQ0DNqDkJ5w2kX3vUg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDt4o-7wQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDt4o-7wQE!2e10!4m2!3m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db
+address: 121 S Las Posas Rd Ste 122, San Marcos, CA 92078, USA
+street: 121 S Las Posas Rd Ste 122
+city: San Marcos
+state: CA
+zip: '92078'
+country: USA
+neighborhood: null
+latitude: '33.142046'
+longitude: '-117.191795'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Love Boat Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dc7541656c2f1d:0xed069a0d5010b9db!3e0
+  placeUri: https://maps.google.com/?cid=17079508018817710555
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc7541656c2f1d:0xed069a0d5010b9db!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dc7541656c2f1d:0xed069a0d5010b9db!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc7541656c2f1d:0xed069a0d5010b9db!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Love-Boat-Sushi
+
+---

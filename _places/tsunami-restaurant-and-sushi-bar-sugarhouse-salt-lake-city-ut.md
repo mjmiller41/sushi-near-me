@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Tsunami Restaurant and Sushi Bar - Sugarhouse"
+permalink: /utah/salt-lake-city/tsunami-restaurant-and-sushi-bar-sugarhouse.html
+stateAbbr: UT
+stateName: Utah
+cityName: Salt Lake City
+place_id: ChIJq6pqbKCKUocRs8sfqRAAxrs
+photos:
+  - name: >-
+      places/ChIJq6pqbKCKUocRs8sfqRAAxrs/photos/AeeoHcLExkl-IEGNdq3DIGGqzBzkqiPDy8PbhrwF2VqfniNAdYZczYmWkRrm_nlk0090thBNJ2EY8CCJVn3oGR3rwYS6ldf7_Epgld0jBRsoE7LkRj9dsryJn5w1Y_93FCwMpT-Gld-iqqrBZz5OjepxI0T37sOSa34vBajwch9gOLmhVflbQkkf3iGT3oY-supAv7fbznOmCZmh-K5hEr4N55PfSOrDmHAWnfDcPI2EGGZNSq3rduS0k4o0mSFP3ip5UiSGnketlT3u3iqt_7O_A2TEK9osqqEv3gqD6DloCYvm-zyxXLQFKlA3HQxOG6xIqHY0HRCFLNz22sqizTvcqg5r6hVap4V0MuQ5e4W_BU3UrKdXUZiLW-ltnEenMoUbs0DzUeJ9Exwu3lrNI1BukdpbFlXVzIbcH6aO95ffEfI_yg
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Wes W
+        uri: https://maps.google.com/maps/contrib/105420344745219692260
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVdj9kQHyJjLB7XLyrW8zyFw5HDUpwyHcDQrD5D5RAD2rASakuo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDk7JXoag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDk7JXoag!2e10!4m2!3m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3
+  - name: >-
+      places/ChIJq6pqbKCKUocRs8sfqRAAxrs/photos/AeeoHcK0aV6OWuVoV1V6lVXaz0qfXg0-emNEPqZZHBeFxeFQdB15MLufqXof8FZRi8_Z_L6osIG30xR8UaG5GFLDpZAuEmlOoi-lhbNLMZX2DbKhYvIWWZgozjShSp9cxLkSPn5JHLK4s0_uDv73DX2UZulPmoq9engoES1cGBp_5jePKACtHGq2v1HS2PXm1mTfaKAbIGlAlKHy7M6-Kue7MgeCEUJ7DZcybvjrYVtrtlqltRVULbAtZ4px7qlHJ3ynErvGlsjiKllZ0y2a339D0V1xHYo4zrWU4FbJm975g2UCTQ
+    widthPx: 4800
+    heightPx: 3179
+    authorAttributions:
+      - displayName: Tsunami Restaurant and Sushi Bar - Sugarhouse
+        uri: https://maps.google.com/maps/contrib/104194496433176268957
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWNhoY08yjI7caJfY97chydaRSFUojdAGvys_FP7HkwtS-HuYs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNh6-1ioGtf-WuS8-JqVODQcU73GhMZ-U6JZe-3&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNh6-1ioGtf-WuS8-JqVODQcU73GhMZ-U6JZe-3!2e10!4m2!3m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3
+  - name: >-
+      places/ChIJq6pqbKCKUocRs8sfqRAAxrs/photos/AeeoHcLjvrtGlAWyxpH6SVtSaDHkj9-RFjhLejMTD7lyzcd3hxI25EkuPc_CkzKJsjss3XVMV0hQBDrhO8-aHWek6Z5exVeBq1Yr8GjL9o5FFrzW8Xt-xFqZ8hTwE4qwCVCNpqZOHp7K1hksu6L_4xh9ZMmcyomBG7EU2Sdy3TGw9bVpJmIi4mLzcIrgfLPkDr33FKGwHufadbhEDCluimj9zOPSrdA8OUOcSRiZ8hmzYYJQD0vR-Sha43eYFRXVJJgUT0U54fAPBYJ4x2D81kT0y_CGWBDEPI5eKsKOdeye8lo7CBOd0x7xxUjTRqNfPStGfuGBacIDdjOf-fsnj03cyuWaoOzYqgBLVtLWL0imNhTqNLbL6mrj67PBEGtaDB02D5V4fKIiF3Slw_Xhimkb4SZCjTirOIgiZodnRbEzLlHUhR5i
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Ike Hinckley
+        uri: https://maps.google.com/maps/contrib/112875038919810761862
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXh5ED1tT7FIbAkLvnrDvx7rwwlBA6lV9tb3MbyrExRfwq676T7ZA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ47CC-gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ47CC-gE!2e10!4m2!3m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3
+  - name: >-
+      places/ChIJq6pqbKCKUocRs8sfqRAAxrs/photos/AeeoHcJUANHvXobc_uZ-PUJAaJ-Fu-f9BwzOOkl7VzhnuTimZOiL7JDazf5jUanjGoTzsiPdIxNqqV_saw4sUgF7h9Lgv5Mxk3n8dI7CVlTgSVkTPTUNPW3TOoMIdGc8tn4reS14hC9b9XRGuqL-xBrztWBV0d2q_hqVplPGZpaYZCh6iV9Ap7uWoNHTkG8fiFNmR7P4FnqCf5QS9X8v3G74bqQRPzB9FzzupeT1BhTBnIshtTAYgR9sN7pcTxZqM2x9u2FViwLCg5AKdOdUcMTF5L6M5JQZFHAFedMpdBz0-Hw--uws8vWnvJ4AwISiKVDt9ty57uSgUkKJAC_g5R7mFeyXb7DZ2ugpetjxMYeuk5uEqsTfoQGtfov1YHcwntlqwH0VRZk5uBMo23Z9SWM_XK1_fMHa9INEPCAOnqstLhg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: G M
+        uri: https://maps.google.com/maps/contrib/116398553661971506211
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKBaZX61mtEnFJq1lWe4Vg-LcLVTBLGzMDP0RDUQhd0BJZD-nhQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTrN__EQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTrN__EQ!2e10!4m2!3m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3
+  - name: >-
+      places/ChIJq6pqbKCKUocRs8sfqRAAxrs/photos/AeeoHcIVvBy02ACkB7tAkrwe0PlkZt5Jr-WWGeMSrePD8FuZ0RMRkacdBHKn4SWLUJOPd1r4FiNrrz1cE0eA7NbGIdMYt_uhu_gvvs4uSNmF1PE-3_HXY7pHsMf98fnexz4Oz8xeSga2pklJwprGdpBfKgMmYVZfQioolQwaV1W1psVyBROUmUk3zGSiqQZjzMXL-n5BUbUeVbICTJ2y6rMMzUR9ncao51dyMGK_m2ZKV7j92h2x2PC14dTwM9oAMh1-rblRFbh2zn_mdnD49CF2bUPBdmlkOaKVSmASvrqhyIngBaH-mMowFn3nu_iHTONnUzieRKBKhbqB1A-9GXpX1pW9M5qhnazht85Bdl9wIWEoHl3jeresgErsNXMVEPAAPzvtNcAMm_CEnhhMCLbfLuoBgFHzdK6jxrr2dW9i-z29r3gL
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mark Deis & Taffie Evans Schmidt
+        uri: https://maps.google.com/maps/contrib/115935267724170307955
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-xyJ6Ks6v-SIrM6PmOVTDXFfECzLbaFRUCFb90SKmhy7S-I8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgprnA_AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgprnA_AE!2e10!4m2!3m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3
+  - name: >-
+      places/ChIJq6pqbKCKUocRs8sfqRAAxrs/photos/AeeoHcLrYywV5Afg7sWvnaZwryET92nsVCBWTZIPkGGYrWlBCCYDCA2XH1osyqiTkduXDfK4l09CZsV2dUmqPo9CUIqK2iLIvWIpk14TJIgFivDHwmxjWFcw43N0ernQGjTtY-3eEtFroCR0FQtThEoBCpzExMuvP-oapqhSjgpgm-mGZRb3w7pRIXcFc77AVcDgw-1Iw5t7qdsBl7JsBxwdk82bw58FJyOk-FkhjBs3psfRL3Vxc_XoM_hkMGbJfqGYC4JzVb2dfF6dVHJE_1HUmA6dj5FNUzC4yn4qOJAW2P15sQ
+    widthPx: 1000
+    heightPx: 750
+    authorAttributions:
+      - displayName: Tsunami Restaurant and Sushi Bar - Sugarhouse
+        uri: https://maps.google.com/maps/contrib/104194496433176268957
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWNhoY08yjI7caJfY97chydaRSFUojdAGvys_FP7HkwtS-HuYs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMTtQWwPt4WWAluORf1Kcxi5RRmvsLLgujON996&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMTtQWwPt4WWAluORf1Kcxi5RRmvsLLgujON996!2e10!4m2!3m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3
+  - name: >-
+      places/ChIJq6pqbKCKUocRs8sfqRAAxrs/photos/AeeoHcIlmo9tAjz8qRIO7NjiP3_uH3sTV_OlBg-lvDRp_PEtTb1toKU-c5vcqKvVmsvw6mDGCqfwq6zR2gLDr2DG0tqntrDyGOZlwgVR5CBD2rbzgipSXvQOvmlgUO7c2hbTiesqJSMTHnZyNTZMLKCyJuO2SWzSR8Jve4KyA58gy1iHlxvuFKSJdKElnlqaBqPPUbRra5vjw4KLuH6NqpRoBTPr6rKDMQl8R9uYIGzQYpHqnp-W-we1irVKxGEy0_kowRscrAx5gH6l1NJCp7Ro5WdHUXOGB94650cFWyv08sp4b7OnIv6oq0ZyL0GmJo8xJGkUtNBCioY7zqSKaq6DEq5J9yiXq_0R9v16puoSOC5kgmTiQk7j86S5knqdd7rBKnRdoi3qTJihOCUulyrPIO6Hl33pqQVLQ_cVq5qS_egG1Q
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Ike Hinckley
+        uri: https://maps.google.com/maps/contrib/112875038919810761862
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXh5ED1tT7FIbAkLvnrDvx7rwwlBA6lV9tb3MbyrExRfwq676T7ZA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ47CBFg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ47CBFg!2e10!4m2!3m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3
+  - name: >-
+      places/ChIJq6pqbKCKUocRs8sfqRAAxrs/photos/AeeoHcJBmFdjQHWgGpnQsGzyfapyGMN-M_jlNEbTESi2h698819Xb-QRxNWqpNz6Kt1a0SnOoMFo3UUj9IqmmO6Fi3PvaMqNFSwGivkR7xdU9KjWApK4Le9ZoWjepbTYqMNmcZwHOnkYQakdluhE8zBBHqyCOSr9B4NPE0kHTU2ziicQdvjRcTYrL1bpcJHldWjB8OIcgBBem9PFkHyEZiSv_-Sg3jiTsDB_WU7nYNZKV_QLPWecivOEJGxzUfieH-AZdRJSwuQHQpF44WQy6ExisPtN1tg9aa9wpsPEakGA0nOUWFBMMXGRQt_9RzZH_BUvPi9yrNEqHcOucQkYHrjdzmgWt7frpGBxDlSSC75G6oj6fKqhJxvPF3RJSCizhk2DtQ9aLSagmNP2ZG9AQNSpVAJbEsSjfAHAqJcy7tpYoySALw
+    widthPx: 3614
+    heightPx: 4800
+    authorAttributions:
+      - displayName: George Wilkerson
+        uri: https://maps.google.com/maps/contrib/101368101685924807258
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXj6y0M_Td4tb7Myo98uMgs98jbRavjEcEO-dChAcy4KrJltUON=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrpOyrGA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrpOyrGA!2e10!4m2!3m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3
+  - name: >-
+      places/ChIJq6pqbKCKUocRs8sfqRAAxrs/photos/AeeoHcLvWoClFUjcw4UjDWkk11tHq6kQjZuknU-dQ9NYsmwstsTbDnY_DIAyLhBu9uwix176g6FdoDV3qCeuSzVN6mXxvr2hQ33JFEOBmx9Wl-MLGZD-Qjmf_PjtPtlB7faenxHPUPn8NgpiYqDAQNx5pn60GCFdUke0rLU8aDGXDcJfXz4-UZIE4_I2kJtqz0kiNT6FRHux865L9c7sC6CRVZvfPCXr6t_9CvVTtbx1RTdEJ-eM5xVLuxNuvnmP17ytbNxGTwUM6sc15CfczOsvfHr_QmPIwkSwz4soa8sL8CwMUg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Tsunami Restaurant and Sushi Bar - Sugarhouse
+        uri: https://maps.google.com/maps/contrib/104194496433176268957
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWNhoY08yjI7caJfY97chydaRSFUojdAGvys_FP7HkwtS-HuYs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPD2IcySvKFR6PlExAzqj8taNpvrbGhLVW-IN1b&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPD2IcySvKFR6PlExAzqj8taNpvrbGhLVW-IN1b!2e10!4m2!3m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3
+  - name: >-
+      places/ChIJq6pqbKCKUocRs8sfqRAAxrs/photos/AeeoHcKFK_a6NUI1G81fcsy61oMuHTt9JqQRR_fcB6j_5fZGAkAm3dp_QEyoGbgInUgdGEYNPmLX854bGEEJQZSl-b7CaE9tLROxilWY83KFBtJT4xzCHw2Niaa8Gj2EJKZtMe-HsSAIkSKNwC5K9H5VnBp2hYkQ_4QsCg9uASeTMHRtd5bh_goY9FG5w1TLrVkfXDu-mMlNKDfFYGDmKDTwRSXQPKaK5TGVKbG2nejENw_Je4q917ivXqInBviPTJT0whOV4zS_Xl28dTWMMbRqHqrQtHyuxJruxkvlJOJ_xUYCPJiv7uJo19O0WakRiLwWIM81yfvsaHwEBHuqzbHGBRCiSHg3_I7cozEuz-eV9xKqiVAJ8XIVOz1LjK4EAmYwWj5y1OvL0LbmcZBRPyTMIxLYy9ixQU1TeYC8IM11XXmlWYY8
+    widthPx: 1440
+    heightPx: 1800
+    authorAttributions:
+      - displayName: Valor McNeely
+        uri: https://maps.google.com/maps/contrib/117562642597469133827
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL84kjnSH12LhKbhk1GQ_pKJfKxbfgJL3cmym4mRxU2yH0mXA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbisn1kQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbisn1kQE!2e10!4m2!3m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3
+address: 2223 Highland Dr., Salt Lake City, UT 84106, USA
+street: 2223 Highland Dr.
+city: Salt Lake City
+state: UT
+zip: '84106'
+country: USA
+neighborhood: Sugar House
+latitude: '40.722248'
+longitude: '-111.858074'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Tsunami Restaurant and Sushi Bar - Sugarhouse
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3!3e0
+  placeUri: https://maps.google.com/?cid=13530502202038143923
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87528aa06c6aaaab:0xbbc60010a91fcbb3!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Tsunami-Restaurant-and-Sushi-Bar-Sugarhouse
+
+---

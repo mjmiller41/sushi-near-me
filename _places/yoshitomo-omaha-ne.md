@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Yoshitomo"
+permalink: /nebraska/omaha/yoshitomo.html
+stateAbbr: NE
+stateName: Nebraska
+cityName: Omaha
+place_id: ChIJUUAUp4qNk4cRXMzrGfTIZbw
+photos:
+  - name: >-
+      places/ChIJUUAUp4qNk4cRXMzrGfTIZbw/photos/AeeoHcJLlRxfUq1yhDQfc7GltyWL_zyEt82edMP3KqaP5vOyCyPmgDBwW0uVfR1tggr-frcXooBeMn6MqYsfuESQAmJT2J_7ljF7P-Mfg2Rr2zclrr8NZnL5bLgWOTh3beBdwR0kRKoKjclxVCHKCONOYDqLmkiFuIZheW-VBRzAdyuX9h42nT2go83hiA5C-Hr5S9ex9DsLfuYDqOKBnCCnj67PIvDs0Idgn3f1UbCx6MuHfuUxi8Z8pd2pKAW05qVTwO7YMwoQopqDuU4UcKHOISYDPOsMUcXUG-XiAXOTOCXaB0T-X8KSkUGDCDzRlBAjBNwxbxq1BQCNkljNbYf5zP9T1x6VfO0qTP-WPjQtP6h33MU_mYeFtgp8WJeyXaIzYqhwbZ0ce78aAyn_ADrhhaIlJNfcD1025wK3VUywf8bH4g
+    widthPx: 4608
+    heightPx: 2074
+    authorAttributions:
+      - displayName: Erick Castro
+        uri: https://maps.google.com/maps/contrib/114786283575381277045
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIif3veAFSBhI9LmKCTmvaVVG8c_bX8_nvOQFRyNnkCIkco2aA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOtaqsMQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOtaqsMQ!2e10!4m2!3m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c
+  - name: >-
+      places/ChIJUUAUp4qNk4cRXMzrGfTIZbw/photos/AeeoHcK1UFvs6siUv8rwhDDVK4PKf9V5pLOqkuhakAQnVWpzuLqn9XBbmRiKVajAx2lr1reTojoLcq1kEpRtsW46p7_dfgGaf9WCFMECEhDbsut8zYi5aWqZzAp05uR3yH3tqOjuaa7GhsZpEP6XzDgYEfId0Ylaw6a3EU-7V6BHyb1BSjHVupKhIXrtTwFUXUDmZKuyKcyIRAABhD0MZgJ9u1PL7AAIIv4dp5VPDTk-hkqkwABF5Y_UuHgoM8Yy8GguxHzUE6CfLKdnhRV2hIwAe2C3YsdyknZt8uYzkABe_mXwVg
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Yoshitomo
+        uri: https://maps.google.com/maps/contrib/109483562970622959270
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdikYsagWfLka1IA8Gm7v5-DsDfWTtyofTgKc_q1yR_CP_XAk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMDviSISnr9IR61c760PWI2VHdFDRTAbB6QBcTQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMDviSISnr9IR61c760PWI2VHdFDRTAbB6QBcTQ!2e10!4m2!3m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c
+  - name: >-
+      places/ChIJUUAUp4qNk4cRXMzrGfTIZbw/photos/AeeoHcILlT15b0S3XP4CermpIriZF4Go8pd3jfoxUwnxStndLsYIcfyyHZcwbeTqaMwsU5PbJi8Q3gXzffqixYYDF-wqxOT1gtc0ke12fg1W5CcHwbMA5lFPOLlQURmZI_eUSaPjjnpi-GnLIL0wUCU79wqqraq0U7rlDaOl8hvsrahhDYbEaCA9H4xncYAfc8ezlEG4GAfTkVzRn0LtQWwMDIOCtGqJpzwBtBgQW4bwSnQ_d7dS1l9sBxBrNlz57cyWu5QVeBqmanZKPEfpxmpr3bev_QqTjo2z_UDJq1Zm1ELQOdRbuLkZdw54L94F0gmNvIctSf21DMe7Tv5junANpbPVXZrq-_7ar0Cq9SefNow16QB0ScRFc5N7tfINVYokQXlJ2Wamyngp2d9eH0ff88ibFx8frrSe6A0mO18cj5Bg4EZCh9cgU8xmSkwjfbXh
+    widthPx: 1848
+    heightPx: 1958
+    authorAttributions:
+      - displayName: Anastasia
+        uri: https://maps.google.com/maps/contrib/100631938403152026528
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU74y1T2PaHxYy6mCg_5BDa7Sqzb35jSi_GmsAaHiDCzKT2hl3H=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzzgID29KWfgfTcADc_n&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzzgID29KWfgfTcADc_n!2e10!4m2!3m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c
+  - name: >-
+      places/ChIJUUAUp4qNk4cRXMzrGfTIZbw/photos/AeeoHcJSZmUvsNSASUTEv0u1gJXUxCwBtMchWkY3FHxcyAnsWGhu6bfD-Sw5qnVUAUzw84UVMIihrXaYj4KzUsz6lD8HzDRcmPH7JPHGGop-FcWM2XqQoy82QZAtZjy4Xofw8GqBR4IYr_VW7Sdju1_ybedtjM-A1Y2X37Pt8cit3YZ5JDizMTTD79Jh1KQXoUPHQHVJ6RG9YwZnrxWDvYzUuKzgACdzkvM2CQjts-ozA7WXAZ_JgOH10z786hkycVbkCk17ZsLgIByrIqWiS9VCnork_c6RzkZi3i_lHSw3IqN7j7O6UW6R5sQL2M7aHDB9t3AlRQJFOpBc-9SwZ5yV1Sv84IJtEk33tiHE31FWAYFW3Q6I9KtPzsfnvFBfWf-UprC62YRFbTorxPeXIwmuZWTN8-zjqFUBpZoldVY1YwLf-Ok
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Gabbie Kim
+        uri: https://maps.google.com/maps/contrib/115009509651080913574
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWno6mJbE8lCPZEOACxlWmjQasVTizu0qaxb1C_eGZSMsoE_tAmfw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDf9-TA2QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDf9-TA2QE!2e10!4m2!3m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c
+  - name: >-
+      places/ChIJUUAUp4qNk4cRXMzrGfTIZbw/photos/AeeoHcIiH7rm7QAv-jx2KmNMUM5mqKJnkFa3nlshELfBUqk8om4mjot7sOn_bTjG7dZ18k2zeq-1lb80K8SghXpKE-9K6dnmwAKc1pT7PtUoIXJTqUCMEk7If3j8KkAZYx05rv41l5Qna_wqpdDB6v9JhqkUz34e9NpDWLnwoe9qqUN_yvohdKXj4FnJDB1rNb-C0EGoq7K2HBLTs67krIWI-JdflQdWs_PIa7YopdA1zmuGrHHPAYjmGPgYlItgJthwnBJDIZATD2bVPuhlTr2MVxTbIsO_oWlbl5UIswMuQCkePXxi0CJ6VGmmf4Kb0mZAHs5tw-HyGIoKyfefW09O7ycJ0M4n_JY21ShrtRuTyrQWVviPkWjQCb1J60bcWNPCD-khnT9aHW3XdmMlLEaOVwDgymql5i6vUUTX9Bk8zNmGmzI
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Joshua Jackson
+        uri: https://maps.google.com/maps/contrib/104256920587030242528
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVJpFZCvUye2t-XyTYhrg05b1_WrmFjXnNefN3LspeN9HBBX4Hl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3rqPa6wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3rqPa6wE!2e10!4m2!3m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c
+  - name: >-
+      places/ChIJUUAUp4qNk4cRXMzrGfTIZbw/photos/AeeoHcJkvpiqx35aECsAusCAUvG6yc24Mq7UhU3tSYYJIH9TGuE2BBtsUIXMc-6vjyIkejjwa6_gdCAX2ALLL6QDoA5i933v2qYeNEIJHtBWypego4i499gCQE0QoxDr7gMum8eDDrDSODe182ECgmdqZfB7WoSFaRJ1rKMvMeFNNpPemY9B2WpxzmAU_zwougPTJEGOwf5UzXvlzB4vxU8IpSHucaivDIR8vW5m85rmM14vvI6fPUXBgYF6L1vi8wEXRujr0YDi2_x9maAVr0JF7-NQKTUinCQyEyxA5N27-WMLxri6KJ9VuomljQOhyE58uQc2A0F_YJEv8x8DQ8ZaTBvuBLH54kyzMLsunZTMDqnJf_GvIcEA5d6c5NN0Fe00r5wQ0XZ1kY_A3s8lCF_ZrVB5vwjpJRbcNxwkO2AcP8eb0S7Zn78akiCPNwrIHA
+    widthPx: 1848
+    heightPx: 2068
+    authorAttributions:
+      - displayName: Anastasia
+        uri: https://maps.google.com/maps/contrib/100631938403152026528
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU74y1T2PaHxYy6mCg_5BDa7Sqzb35jSi_GmsAaHiDCzKT2hl3H=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyfQvhT4IGfgfTUABaxK&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQvhT4IGfgfTUABaxK!2e10!4m2!3m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c
+  - name: >-
+      places/ChIJUUAUp4qNk4cRXMzrGfTIZbw/photos/AeeoHcID-M_RpTE64LZt1hlQ-jh3fR84IkwOtErkICgkUYvMXkGbfWPm5XwCnPlPxQcHG0-HYOgWgUt9bvqooHMRG3ihxgXnk4weUs9marPr72RaWosk0-8iYXf_0aVcC9cRrJ9Ob_tn_8qnLymR28-94OSPQGwjXhYAKXg9LX5DFrBdpH6mukTSrdFpdOFFVVy5PgT58kVl4UFDkYCQyjgf2q8eobrkkFsT_vxTXo4x_4zGwJjhWWm_hoAfyqdsGypoIbsDa71BDNnlrR7e_QGzpLMu1NNoF7b9uDQbdATIvT5AFQ
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: Yoshitomo
+        uri: https://maps.google.com/maps/contrib/109483562970622959270
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdikYsagWfLka1IA8Gm7v5-DsDfWTtyofTgKc_q1yR_CP_XAk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMU-tvOyS7j2CTdy4UE-I1v1HZX8NftBwB5yM0p&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMU-tvOyS7j2CTdy4UE-I1v1HZX8NftBwB5yM0p!2e10!4m2!3m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c
+  - name: >-
+      places/ChIJUUAUp4qNk4cRXMzrGfTIZbw/photos/AeeoHcKLI1dU95SjwiQO53vO73zQuPnMjcJD7eIpq__9M_XgyxfY3fHaRSk3TBBIqM7ZJRVC4A3QQOdWULabx1nO-Rr-bc3SI1LVE6Ju3OaMizt3LpKqjVJUYHZlnD_NgR6PYbgssPZYZxN7JInbh0z_FP4yDDCUQrh0ozC0GLDGz40YVZbUxfKWCxxsQTD82fnPeK-IJN8EWqRl7zByB6by7YajqN72EibdOkH7z3mZv7JHdVIC6t2mjWD1oC_Qj7c6XWUDYzRmNJXsP2u9-mKGE5Im3dsfCXTM8aihgABFcekB6wKrlTqQpG9c-iGSEaBtA6JdlnMjM3LOMWCcvvyoba_k6RSVZFftKLVd1reF2L0Vu83CZZkcDu5aWlCyUXUeZLoUUbeBrN5ys0OkZsu328PaDQnVdLcKuoSOpnf1Zvnzv54
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Chad Young
+        uri: https://maps.google.com/maps/contrib/105992315217125707566
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUEw9pVo4tXnrd_moWt8poC-Ujf-cKqxPe2JQnQNTEpe5zOxIG_=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgnc6OiwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgnc6OiwE!2e10!4m2!3m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c
+  - name: >-
+      places/ChIJUUAUp4qNk4cRXMzrGfTIZbw/photos/AeeoHcKEDePy5omkLJfjyAtJQuxeIOEAyDLjkph-ORPuTK1GODFz1A_xy0aASasn8r3uSONKZwa5jcaDnilFxdHyEd4UX2JbHl6eosTzTMNu5iwOknfLYmUe1tcK4be2QSvTsfD_RwCSu1DSbpdfFXXaHG2VuHkLcFAf2KMZ1jg9tYSj4aj5oagd0yS3zuA2CekZyrJOUNFvjm1KMpIyCijmEDhlyTLJQcy1jBviYqfTzWZv2YrUyMstzC0swGhcB6dH9t9EonINlnictcuhcJ0sXDIyrlft4pWnRh7tiOCnIcE-Pw
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: Yoshitomo
+        uri: https://maps.google.com/maps/contrib/109483562970622959270
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdikYsagWfLka1IA8Gm7v5-DsDfWTtyofTgKc_q1yR_CP_XAk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNyNq7vAjrSj7tVhWm2Gq24DxsTXwOe7LvqVEp8&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNyNq7vAjrSj7tVhWm2Gq24DxsTXwOe7LvqVEp8!2e10!4m2!3m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c
+  - name: >-
+      places/ChIJUUAUp4qNk4cRXMzrGfTIZbw/photos/AeeoHcK9_V2JR80ykLYNgVwXSCBs6nB39pBEWt6z-Qv-7GAbl_nf5jr0MwgxNTmhTzqCNsux0heyI5IS5oMFrNVw_PaLO5H2tdPUST_rfk61HzGI_w4g48Jv7jafpxlZYHXw07-rGieP27GAiqpeflUAApc26n9hURG-xQSP0gRpJ1yd6MRQHE0CtO-ZWroTiBrh0QzTyN1aZ2qEipMlp-YBfplIl2DhA11TMzfJh37WxnwFQauQAP5pIi3aKLm0_f0yKnPRtaywPV3EqgtYKF-ThSPtNbXQJwKzFnFvzqPOJdI_s6AsSF00CfYbigw--Rx-_x_TyaeJWFENkx2PBZblN2Ftrv_ur6BW1osx8IQve8or-4q7m9JVSu_j6U4TITfx7Qy78v2iKuzJHpbkzCbUJOt_ixY2xDcHpTBdC9tt-b3-aw
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Joshua Jackson
+        uri: https://maps.google.com/maps/contrib/104256920587030242528
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVJpFZCvUye2t-XyTYhrg05b1_WrmFjXnNefN3LspeN9HBBX4Hl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3rqPaaw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3rqPaaw!2e10!4m2!3m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c
+address: 6011 Maple St, Omaha, NE 68104, USA
+street: 6011 Maple St
+city: Omaha
+state: NE
+zip: '68104'
+country: USA
+neighborhood: North Omaha
+latitude: '41.284871'
+longitude: '-96.005372'
+accessibility_options:
+  wheelchairAccessibleParking: false
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Yoshitomo
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c!3e0
+  placeUri: https://maps.google.com/?cid=13575477602510687324
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87938d8aa7144051:0xbc65c8f419ebcc5c!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Yoshitomo
+
+---

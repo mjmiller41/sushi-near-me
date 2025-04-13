@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Mika Sushi"
+permalink: /california/camarillo/mika-sushi.html
+stateAbbr: CA
+stateName: California
+cityName: Camarillo
+place_id: ChIJ8z-iRv016IARG5TkFM5nozY
+photos:
+  - name: >-
+      places/ChIJ8z-iRv016IARG5TkFM5nozY/photos/AUy1YQ2FXRvOnqABN5HFmJah-lLzjZnV1HRZd_XLR6_e1HWsd-TSEcWgwEI-lBfNv-BaLPd_PHux_j4-sPWaj046Xp5F3f8QdCZlIZqKDjK8Bgh6AMy_tXpKdF_fNfiUpCqE9qzWuUqMjRRD6yEa-kMLTfNu-gUYmYSUVMQZYv3x5vRfnt9QY2zKYK_dlenLFU7E0dx16EaxsCuv_VqUjsgWRHOHG1y9WkR2aKE2y3gPXSfLJFpEqmsYjD7DY_p353u34-8JqJg6aYLN9rIQtg8acHVcbZEbIeXw1M1L8P-6-eZmcygA6oEXRs_G6Y7JD9-wHAybOD_YebKnY02YjxukX5MVhCjB2G0yp23_VLa1_SS35fFOxi2EwE7TyWcq2fujxN61zFi5vnYP6-sySJIwMAHQwwCYggCgIdQZ65Ll-2JIulU
+    widthPx: 4640
+    heightPx: 3480
+    authorAttributions:
+      - displayName: D S
+        uri: https://maps.google.com/maps/contrib/102949790711419149355
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLuHW5RcGOfXfvOUF7aINJiHyMgqxaXQYQ7Q_yZOCo90Kr2Ww=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICqlYOo0QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqlYOo0QE!2e10!4m2!3m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b
+  - name: >-
+      places/ChIJ8z-iRv016IARG5TkFM5nozY/photos/AUy1YQ2yhNWrpp7Rc5z1ROwBIJxTpGDLSRiZlsIf5NXxWnnTVvLKFMqVqQpbPgvdqL3TcHipHj0xFA6o7n4HPBZmOngQmX_zhonlKhxqQYzx3hY-yKePVrihmMXNG1tExjdLD0IEuveEHD-30czo1cJn4G2X3mddoEZ27hlx6BijalZlOlborcNnYP_rRy2CpgPx9VKhpUc8Sv3f6XtpVIsDCpbqf8zTfR3Xp6mzK7-XVVAl5Poqp0W_g3E1HVGKArART844djVRwdcBT9klC4PXDfdRoKAiUnJu6REBURrOo4OZdAPTyvtJPmlrAmXBTiHOzfhYv5rIMamamhX6ty5hR76Zgo9B5ZMbQg3eQQzbruo60srq0X9q2cSLKqRjB7bMuTqNEvm5sWGcPbVIFmbmIWLWgSZ3cKYVx5-G69Yg_ZqVyB3x
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Eliana Sterna
+        uri: https://maps.google.com/maps/contrib/111017459332475670057
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXXyJj9vzI-vbJRZyXJBA5mRbM_n8LNYt5t7a4GZIkHrzgH5Dw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnmouEmAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnmouEmAE!2e10!4m2!3m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b
+  - name: >-
+      places/ChIJ8z-iRv016IARG5TkFM5nozY/photos/AUy1YQ3SATeCdSjfSvfQZWOzaPD6hPHFZcys6_3uZXWv4GW1yLz9Ntd-U87iR8x8AL9e7DpzX4Y2sULK2uwGJijPfYaf9XdmMPUGceGOwmR5_75pGgaXic9CHKZ15U6po5n7ANzqRGgJn5hbkt9ZCAWtPlZyLBfXhnkPLwPUOsOwKS386oYUQdetygvSs4Zu2YDzATZRSQ2dbK4cwTTClbVS40kgzNlRP6EEuhFXnuZCxUt9Cq7aL8y_lO29kwbZlnYbonyuZn1nx-nFaGvJPoCNrsBfF3Kdp6oAosqXME_HUTfBeq27hRB7ASQBa4itcRK8lTusi89LtO-PNNoMMijdFN3Mfo68vB1xHsSx2Xbmf5PBSrO6jRkvX6tl_W9IDFqbUB8jgDBELMbUB-u72INrcvvmBZz2_MNajTALNPMLj6YvoWY
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Lindsay Needham
+        uri: https://maps.google.com/maps/contrib/111962114707267918446
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXrULZYX0Wacgdt5SRfIL0K7BmMBHuEKlwQf0xw-MREpO8auKDrbg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID2x5HcqgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2x5HcqgE!2e10!4m2!3m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b
+  - name: >-
+      places/ChIJ8z-iRv016IARG5TkFM5nozY/photos/AUy1YQ2EzW_-d8NQ5SLlE6kfhbjsASZNVSR7C373f-a345pX9cTZjPURb378zess-4WcQjCmYWRlnI90PLfG_oKXN9eRUXNGTZnuWPQV018ENX9BpeJL8iL-paMf0T1u2K6IdWj-uQtU_Qdthzi3OHrjW7C3zRhYxNe6VUcLae0Ocv2JoVzJ7_4fukOHQqX6ka_1m85V3Xc3yEeTV5Egq4NSA5T943oMJpczTIARja1yPy7koNLkiaHMwpp6nCP-Vg1pKn1UvptIHhcfTeTkJCASWA39x0zc3GnBlKpUuujxK_GHPPknZpTzhs-PzHxQbiMVYwbeFLZ0a2BHy6cAx1u9mUlGeXyy4HAlDej5o8td2pBMt96ll9mXc9daMxrc6bIANlFuXuOuLsN2ou9MNyY1ydycVkQ0o7MO4cOZOI-xdkc
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Felix Franco
+        uri: https://maps.google.com/maps/contrib/117115986830201742142
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVRjyM-gfimKHgqfhduEhWy42nCusYW9JzVkWdinYm7pzj8N166=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBlcXEaQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBlcXEaQ!2e10!4m2!3m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b
+  - name: >-
+      places/ChIJ8z-iRv016IARG5TkFM5nozY/photos/AUy1YQ2UsuGI0uTeCk4pP8W19chf7U7gvXCgbJhFEW9qow9IIQzp7NfpdTuTAfosXy46r3uju7Gr53TA_0rFMBKPaPw2u7Ufp1YTJoPykONuatJ1ZFvPK8PGdE-cIUIFWFfrIWJ-DwLFopbonnHFiP5gW8VQSesqW4_1MxWw_uxcN_JrzN4C3GHNP3mQOdhMlOeoTZOdOC1Ji5qe1VJiyB2L3QPXNIXRvS4Y_12YwfACkV41En6A7aeM7iQ251vEaNB_Jn3fnPpWzVIqOk1O7W5nVeh4OQsoaUiQOSY70HQcMyBzDTzVHcrNDbk0eRq0ZxNK5Tn-5XAglHkrIgoscDj0FQdQsz65a_UD9fzSUKPCHYMZmjbLT69pPaKEYXHTfo2Ue22TtnRTRpS-iaOjId6lJhc-MlfJVdrOh47xqla0lfb0nA
+    widthPx: 4048
+    heightPx: 3036
+    authorAttributions:
+      - displayName: Tim McCoy
+        uri: https://maps.google.com/maps/contrib/109640583077200260150
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXn54XKjLhzZUSnjq8LboyYYIvdk6N621hXn4GoQXwjJPwxQp47rA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4yvWaDw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4yvWaDw!2e10!4m2!3m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b
+  - name: >-
+      places/ChIJ8z-iRv016IARG5TkFM5nozY/photos/AUy1YQ0g_e1zeqF-tPl5iLZVZgkaPnLzFmDOrpCAuHLH5SiYCdfCLv5mzvQgeQrpiGCZUvI1MO98L8DYvqwAVui62CiaG9vxbNlpW841N8XPZbB6NcJOjyeMfGj1Z_fZGvcsj6FeItuY0VVKp9eslafwjh03roq2ePMxdlRIfAlBsbId6_T04aT0yKEpExWQEYoHd6kO9AtIPSuZMLXLKNfJpKd0zf-6d5h2d8wUNOGbZ51yJKOMsnmU-ib4IRrmmbf4Py2yyNxLv0LQRBSmWo4OBC6NYJtWCQZBD0aulDz0lkty_p6ZSBb_4KbZdvud1GXWQ_FxFMT-6s7bk1rmhl83SYqtYX9cOj8UX18mM6NGD8uqj0pAkl9iYG6mZEw7Y-zzuYoOx1qpz0FUplg-lL2whJ7CzYacYKdWnaEuLY_JafA_fyxg
+    widthPx: 3036
+    heightPx: 4048
+    authorAttributions:
+      - displayName: Tim McCoy
+        uri: https://maps.google.com/maps/contrib/109640583077200260150
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXn54XKjLhzZUSnjq8LboyYYIvdk6N621hXn4GoQXwjJPwxQp47rA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4yoX__QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4yoX__QE!2e10!4m2!3m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b
+  - name: >-
+      places/ChIJ8z-iRv016IARG5TkFM5nozY/photos/AUy1YQ1NWZ65IJ4K3HmYMHs_Z8ndPbiwB4g6U2_q54UtQMoVzo0_3UyE96GDkJSCxNqZGXY4mhz5ZkUI0vFbHLRRxoy5uWPl7WNkhe2HJhl-ahjHdHzS6pjU_QYB7XbbMvtkMMMP95CVByCjRXAu31Ff1I1mO4RQAoC1_uaNm1yvZ6sJNkdR4K75szAkx80149W4S9FUyQfBoFfnZg5gi0PaLcc_mZy1F1o9f21JmILAph0fxPqA3Azs7dqCcqJaKxawmAJ-f13u1V9og6Fmqk_yKjlRyQMPKkUZ4Zu7fOQ9d1-RAyqTEYVRllHJpgrUqekQj5d7Js5HHRkDNjnv3aXStXxBY2fxiLDoGgkKiBbTzWxAEqlRTI8g1SzdoFBUuYcGM3eyBtdQtoJ3gWTNAJ7VbfyEiU40lR7rnB6vmU-PKyE
+    widthPx: 3036
+    heightPx: 4048
+    authorAttributions:
+      - displayName: Tim McCoy
+        uri: https://maps.google.com/maps/contrib/109640583077200260150
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXn54XKjLhzZUSnjq8LboyYYIvdk6N621hXn4GoQXwjJPwxQp47rA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4yum3TA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4yum3TA!2e10!4m2!3m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b
+  - name: >-
+      places/ChIJ8z-iRv016IARG5TkFM5nozY/photos/AUy1YQ0lmc4dCRfBO7lXNxKeUQemWUbDQE_JIuido9kYp5fIUDY0zhE2ItlMV881og_M5kHl69bzEpapUQTL6WrrliDJKxnppOPMfWWBNIKfBOIi4Z7P_KH4KXPc8ta8zdaLgcu1O3N_Hfr9qEwcpjIRw8HNdzlPgs5Uxqes9Gm3g3EpJJnzxzVaZKsqzvWoQdhs7nnXnZL3UkiB_xCqbIGvH3s7O5JX212mxpfQaVmxUlSJ7uMEqtwjIOJxzp5SjlPOY7vSJ7aGgxc32SqIEOpn156R_GwvBmQHQCB9V5Lbr_kjESXjAZOZtC14Cg6kUOk8idcD2otXsKqeL8Yx3s_ayWfHZcfbEcqg3i-BnVZiFvhU8SXwS1uEV_UQOjAXrrTv8-nfFo9zVbc8OY3QTgmnaZnUtUnIDABL6PhTG7-UyU5ufsP8
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Lee Scott
+        uri: https://maps.google.com/maps/contrib/100814964825607946790
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-zF9lKy65PvmkZQ2kPIOHZBRof_JWXQfi2yKn2PnZGirivC-uWw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZ8-LNkgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ8-LNkgE!2e10!4m2!3m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b
+  - name: >-
+      places/ChIJ8z-iRv016IARG5TkFM5nozY/photos/AUy1YQ2IWrG7OpK1WyLu9Te7Bad18GcD85KWbqz-NbYN9acXhDmxxB5y25wCYVnFCSYSdUHdsrk8OQZqePTjvdpaJFl_VPOkdKCI-NgdbVc5A6TYSDGA5gvdpfGJ5BDkpwaTGVlaOrv2nuW8NwBhw0ZHduUlUdw6yW_96z8CKwUUr9WtCazjgjKoI5ySDQjf3Slsagghisrblh5nCFYg8iH-3rdrI9Zv-SNQ3yC-jY4b8PFceCM3sRDAB2oxu3eOPb6asBVLckE2dyPUblK7othDZOUleEKXZ0zhyV8Y-5S2HPKxw0u0DkPhDQXc6jtGBTQNNl4z_mG4oIZZqMzohGEo4nmVyUXN37sYz0bql30o8d4xnfO1PhvZ4GsatFvgIOYJXFY7lr6miDuE1yyqTmPX_GlVYSetbT--tDndB-s1w1nTmw8c
+    widthPx: 2184
+    heightPx: 4608
+    authorAttributions:
+      - displayName: Be Cuzz
+        uri: https://maps.google.com/maps/contrib/110124929851464537215
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUz5rKerQ6r5Kzd7jC_JhlRlmsxzk7AfqT37IZHn_vNtwlAJvT6qA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMorbV-gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMorbV-gE!2e10!4m2!3m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b
+  - name: >-
+      places/ChIJ8z-iRv016IARG5TkFM5nozY/photos/AUy1YQ1rL_qpWISaPVFILbhC-K-hCvjAlk5qxn27KfwL7mAw5u5DMoyZyvyzdg5n3pFvWyvExW_PDUJOx01I9dnedlOQ_LgqjEy3wvGU-Df-AO7hhu-JrqqWVA-JxqkcfXv10czd033lCo0K_83JyaOTwkB30HHCLNgXaUIelw2kiGN6MFfVzow8lLxBrEejIXzZZ-Xmd2baCityheVqhNgK5SmAFcPBFbIvGz0JH4DtCgVCAdDod5YDjWr5ry8HkmiOZT6X66NqU-0BEo_kFsa0u2ayA3v7BhgSO0sk3TvW56AT6zBjb6jWiBaatryyQYs4F2uN6-rTT3QQ_vc0JpkEvbzdxAixCz1u_jk9rjHekHKaJO4n6GnyJMeJIt7HTjVXBjLWe63Ac3rWplvRnqfe9hmB5ocms86EFwviABnS-QPbVhI
+    widthPx: 1534
+    heightPx: 2048
+    authorAttributions:
+      - displayName: Julie Webber
+        uri: https://maps.google.com/maps/contrib/102382312409788110231
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIVmeeKnvPX86xpfabLfqpQJVYwdRPWxBLRXF-hOeZuOOZStg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID25Pyy_AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID25Pyy_AE!2e10!4m2!3m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b
+address: 2500 Las Posas Rd E, Camarillo, CA 93010, USA
+street: 2500 Las Posas Rd E
+city: Camarillo
+state: CA
+zip: '93010'
+country: USA
+neighborhood: null
+latitude: '34.236511'
+longitude: '-119.037537'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Mika Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80e835fd46a23ff3:0x36a367ce14e4941b!3e0
+  placeUri: https://maps.google.com/?cid=3937104634063393819
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e835fd46a23ff3:0x36a367ce14e4941b!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80e835fd46a23ff3:0x36a367ce14e4941b!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e835fd46a23ff3:0x36a367ce14e4941b!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Mika-Sushi
+
+---

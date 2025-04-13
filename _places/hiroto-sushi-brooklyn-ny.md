@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Hiroto Sushi"
+permalink: /new-york/brooklyn/hiroto-sushi.html
+stateAbbr: NY
+stateName: New York
+cityName: Brooklyn
+place_id: ChIJQ02b0ulbwokRW5ZY7MMGwI8
+photos:
+  - name: >-
+      places/ChIJQ02b0ulbwokRW5ZY7MMGwI8/photos/AUy1YQ1m7fZX8ch9xYNa7QZlsLa7bLQenTBReTaMEx3zsuY844cSB3oyn5uSRzXIMsfSHHTw3RWLfMS8oAAXhsrAgwwhmCxcOh93Ch65cKmWP1kIyOAL2tgRJTzTu_pcroBvgpdt-7loV0fIiSFCUjmRD0e-doQdbYgqeidCS-TdlgbvYwvw8uOZA45tWuXylgc_e-rsgWExpl6PvwGv6plXwGuU2Y8MjbfS-hF9glxWCkJPMdBRXU_Epeq-XYEeGQOMqxwD4739kRRmGwfVuSjAhaTyhtB9xLVNRxLJZHUR4zM8JUVj8XSj2J-vKIsU3m1slPpx3v_d7WpzLZs2gPfXraK9LnwkaWmLijvgOLNEWEachq1Tiu86R-QhHQ6HDOCq3a_D6rE7mqQvui4tu8s_qkkAuSKCxaUgpZtszbYzHzI
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Dustin Molte
+        uri: https://maps.google.com/maps/contrib/107874480400885702392
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-8GlZRoDOITVAASRmZffP7FpOgzvIGwSSwGk46veePG7yn7vg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE3ZSNOg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE3ZSNOg!2e10!4m2!3m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b
+  - name: >-
+      places/ChIJQ02b0ulbwokRW5ZY7MMGwI8/photos/AUy1YQ1otpraa3jrTPM5dbnkV5Mkw9iI3aYwPa19uFULHx8NPpECD1qk5KUd06N2rjr8Qxk-5nX6dN4bLORrk8h_ZlhIpWkaiAk5kTokkGXgQ7sFGE0h6FL-KyCiAr0lbXfFsh3GfdGHG1XhBGuL9IA0ps3oOJYP7pj-XX3zn8-6uyCnUNfQdcCH35IZXSshvsFAKZ2pbVZebnqiJnPvn3uLavbV02DG72scZ4zP1QKiLx74eCQJpjlWTj4Tz1_23EPSkaMG4sbNVDDEwdUP6HsR3eTveMYTkJAdPkgry5vwOwgiEqzicIYnS6x0E4hTNtOJ132-Bu46_yycGd2b0hAI_eouobb2sU_xWqk1P2SkvmepBFFzzx9xqt_x7UKyN3NBa3mTzyxMjI3iLkTLiVXL8_7x2y5nJkUBfiK3APKS6Vce1g
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Emily Fen
+        uri: https://maps.google.com/maps/contrib/117786638746814091626
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVXkiTt2sv2SE21f1HER33u0MMx22-GbCRN8qJ3Zt5Zy0XZUgbBEg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT0dnqMA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT0dnqMA!2e10!4m2!3m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b
+  - name: >-
+      places/ChIJQ02b0ulbwokRW5ZY7MMGwI8/photos/AUy1YQ1Mi6yhN8U0NklU3twi29ypQybFTWLm-ar9fOrd6RMrEDrk-73c3VwFCtUyJXZGkD3jVxqLpSdxLIQQTaPlyDCruzjdb0V5H_1JToS5uaGAYKDOllsAvqQALVkhSiNRlP8kG2FNrIC64xzz1gztYyaCGsoGw5sicOk8PKsULjDj4rCzl3uSiOp61W8vVrQIalTI4JA4pDC_h11dFHihX3n3k-r9_JdHjAhXKoeHEVFhm-DQC_AqXKUUrHyKLeE_IRLSLbtQYsQBfJwaD-SY4UxG487DEkOW6M4E4CUzaVBzsyBVYAwqdJcHPdZlFhdYTs3xAGRWXcmibhc_LWOJb9_aZTzwTDcZHz66dzq4c7V48PRHAahUODAuM7EeR-x1Fbw8MbY2g-kmCSW4sjNWfOG-3B-SF_Q7TD6JFL3Yb1UF7vxz
+    widthPx: 2818
+    heightPx: 3603
+    authorAttributions:
+      - displayName: Lesli Amanda
+        uri: https://maps.google.com/maps/contrib/104703363458334951288
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKx3YVJACFOwiIHdA0InuD1pU4oLtMCnbYNA1rF6-m9-tINFA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICc8s2Q_AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICc8s2Q_AE!2e10!4m2!3m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b
+  - name: >-
+      places/ChIJQ02b0ulbwokRW5ZY7MMGwI8/photos/AUy1YQ26swkWZks6-D4oEBsAzIWESi_xaDI42kAWMyNlTz9dN9n4PoIpDysYwHCR1bF-AWKoqITbkPZDJ9Kfl79HJDqPsvCIwFXKNCHmGZw-jPwlTqR5P9qrXJgcxdaXpjdohDVsE3t87MBiN1-EH7bkbmn2gA1AMiw6q32YuUR1WOUa98Ub0SgTadzkbHo2nfdXhPl0OPBH7pUoW1OZUoz_IWIpk4vPuJAvpMP5U5BglOzuO9RM7YgO7tMwJwVFFsjIfQ58baYe7_HJPNNE0BcVWV0-lYuFDp3SuoVSCNHYNfV1BJ3uwC8vLpFpW7RqXs9mi9Emqp9gFkoXIaqk278bRnthtzEipNPgCPSv_A2IlYHH983SJIeh9XNsR26F9fIFpEI0RsxPFVQiQSMOBMav_ZicX8-cJ7LdEKDe9bSqT7W9Kw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Dennis Liu
+        uri: https://maps.google.com/maps/contrib/100593148623101923290
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLJ46pjra5WGDNjKR9khgNPaqFiTr20nshYkbDtkUnDSL2nFw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJpJS0RQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJpJS0RQ!2e10!4m2!3m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b
+  - name: >-
+      places/ChIJQ02b0ulbwokRW5ZY7MMGwI8/photos/AUy1YQ2M3E2MVYK5lNQhtDdPiPKvjs2uXGJ9i-OKf3Emczl7AB3ZjuXv-RTTv-JyGnqMNHcYGPtJ2e1hfdPn192jaSE_oyAxUT2nP0ZXpGjsmXlOrDKC1H8CUEYTKKS8KmfvPPeupJYDJRtz2ajVDAqRZGCL9CFDN0oQzWZCyAUN_3aK-ZoVYISN-99bPGiBK8TSltcHFlvCuAqLRuGFpHKurBBYrj9S6RsnvTtw0dcLk9-zfiy5XeOKUpxBsNATlX95wfE9hMNdntXZx7uogR4XDJ2tdbr7xm0M9xOXV0iD1lMZ6aZ_lz_Wd3ZfGCTdalI9zFkWprucMS7n9cheCzOpG2SSNBCSdvBEAk_tePTa9yEyPzGhAUcw8xkUYMlvo6Cflh8OWif00ey36f83yRf79vXtZQyms2UZCN4U4XJVz7jLYKw3
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: he Sally
+        uri: https://maps.google.com/maps/contrib/101311238614853205247
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJcX_8U4hyQ7T4tV3gXPBHp3PmHDEmVTY6FFtH50EPGRlflTQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgnOLaoAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgnOLaoAE!2e10!4m2!3m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b
+  - name: >-
+      places/ChIJQ02b0ulbwokRW5ZY7MMGwI8/photos/AUy1YQ2-NA1WRXIWmkQ0z6yKr7GpO31NuhFhXhscEL9nrcuSjIrDS9uMN8N4czS7ujBDnM6Ru2Ard5MhmYr7cJUlcNNEZxaoXe7y30KxktUfkaOII6dFKDe3fXLDonCIdnVKs69OnEUdBqOd6DpPvpAQ4Y3bUK2PK0jKuwQHoJexFtRrzfRZGGDZgkHZSl3F5M2jBHkJWWbSj8KC4OJUkm4n0T-iaTXJVjNbstqsqZ_P4KslBfswGelYR_kG37QzaaqbppdcUhCf6OgNZlA5scTEQpAHLWDn7F0iYbLtBthGe_2ml9Wh4MD3u0YZO6GR1CQrf3Iijo2WHEE5NDaMcpt9h_Xr3zNCHaeTpCM42_tctweO24SndMes7mUQ5F-TRQqsJeFqhKxvVBeymQYBlPAgsUP-ALAGKEVU8VdMk5GPBGU
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Dennis Liu
+        uri: https://maps.google.com/maps/contrib/100593148623101923290
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLJ46pjra5WGDNjKR9khgNPaqFiTr20nshYkbDtkUnDSL2nFw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIClmPi9ew&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClmPi9ew!2e10!4m2!3m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b
+  - name: >-
+      places/ChIJQ02b0ulbwokRW5ZY7MMGwI8/photos/AUy1YQ3wr0miWhzlfkZe4AjOE9WGwtUPm5gMvbnqPHthDy2UlvQPKqErRGfRQs_yqXIFK87LvR3jTGrYUjx7ItIu5yz1NQr5J0vJCE_Y7MvmQ1Ptv39XEkVqbwHi9qnURi1e-mTLB6Fm3HGw66OOCzeIKbGyu0yNZN00zb8rVdvxU8oiKqJEQEn6EZ0MVyEji0yhOkUsMoUVd__7f8FfNmfq38m7yCmx_ZIzWKyanTidv5DuvLsRm_yY5bfxty0bjRPrpksHgk1NsKFp210hnorgMq_EmhBTdylY3gRDIShiKkKER3EtJzsl11g4UKnvZoYtA7bjC5o9-NFXYsFZfBzDF-_vPhwYFbzSnknUL4ebAcjJYZ7MEX5YXP2aIx7PGN7NgZiq_1d2OGwInKa1nvFEZZoXh_SKC5GII0AqqY66x0iVpA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Matteo Ruggiu
+        uri: https://maps.google.com/maps/contrib/111143370856483078960
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKDI9R1yrG0pm2NdpOJA06xgRRcgjJWNA9rSs2SSe8G2qJi7Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDS8t3fTQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDS8t3fTQ!2e10!4m2!3m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b
+  - name: >-
+      places/ChIJQ02b0ulbwokRW5ZY7MMGwI8/photos/AUy1YQ1fUUUHzcCIPvlQIDEzrs_IkdmGm5tP3noxWuYWEpt0pknJj3s26rsO_0AFd6kbmMm-HBCjMtUDVdchcfFlzaOhRH89n0eSyw9Grhsjn69Lq9UucAaTblFAl3oeSaTfjUAyR5SpIqngehIMAyc2EIKCCuejohee0mdYsIOfs0IitneksECGjKnnBmWnNmJJg4HyWBjpuHSTQ05OGbvSykv1xWpIQW05KvyYckIqw82nHwouRnAhThgb9Mt5yyVKHHFG99UNzkQoORp0QBIQI6QU5mtYuR3U5-UuBlaIvu6Ha3RuCRxm9UInk4qUWeBQFUjGcjno9LeWAbHER__sNKm2UrHL95vOUZkFO9bfjS77oBbTJLVkbFPjJ-Qsv5SP42ulDyWRy8NSbkXgePo0A85Q5PcFIAhIBp0GniWpj61ztg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Dennis Liu
+        uri: https://maps.google.com/maps/contrib/100593148623101923290
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLJ46pjra5WGDNjKR9khgNPaqFiTr20nshYkbDtkUnDSL2nFw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxm4bFQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxm4bFQQ!2e10!4m2!3m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b
+  - name: >-
+      places/ChIJQ02b0ulbwokRW5ZY7MMGwI8/photos/AUy1YQ0C330vX2FqxlnJBCFER9TSLerZVmNXzGApv72S46x1dSbn1jwIhz4N_HpKFxQRISTltZlOpLrr1KRUZ-0Vp4ngFKqx8ax2sHCK3ajhDYqtqHeugWrJWRsiav7mFVneXjC9BDKtif7jdwIqfD0X8JEefnv8GETs7I0qrY3lafyCu7K_BPd4OPJl6kquIwvKWmbcnY_Q78nYEX3i0CQ4WhxgXlEagWRnR2jjamcUbUJ0SbJLP1bIE8EmXhuIg1KzYZCYJTTJJBGxUmtdRvO9TA0ju9ZjRRJf0KPa-zWxEtUB5AWJhvuTUPxnbpns-GuN_3o4rAhjX_y8SeH7WUnwwZoCQkD56gCnzOgPbcxdwt99B7H_PS7qbKqgwl7Q4H9alftNtDfctkz_q5_Le6mGCjgcEpPu_5ktkutbj8EDom8pkkg5
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Nicole Hendrickson
+        uri: https://maps.google.com/maps/contrib/108850607272006029794
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLjnBDH5RQyIDwMYqbeHS6O7BOxY4xJQ9t95X4M_yEKXtWudA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE_bzVtQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE_bzVtQE!2e10!4m2!3m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b
+  - name: >-
+      places/ChIJQ02b0ulbwokRW5ZY7MMGwI8/photos/AUy1YQ2jp38M-nxL3yqxruSwNCFn9XJOMStPh4N5v0NAKuKCUCUeLHgkvlMGzCzt7b_Lpocxv7XR4MUB1Le_WJTQGGPRw2CIlomjHkvTCJFL_3Uj8Gy-FgNQaNj9gtcGcCLZBxxk9Ai6i-mKjXGRNxyyl9c1iXgtRgna6leQYEIr5ivmpi2VS3NjW2UQ4VcFIm_BvpDNMWpMT17FtEuiu915AZi6-n1jxbJbjjhlWR_aLfqYDbNdriwJoL6i_d4cjohRzhoV5mKF4Z0089eIJxzNE70OF77Bd-UaliWCrE35LuUzjAcuXC_6GkR0izvCvv1pGX61TFBAk4y0wyXbqzLptvQr1b9TsqUMETwAUbpTP6Dme4mvB_4-jGN2Z_phFH_x4j7AsdSHBLq3w8NxXfcSAMWUMBzsXZdq5llT-rfYJWBYtw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Lesli Amanda
+        uri: https://maps.google.com/maps/contrib/104703363458334951288
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKx3YVJACFOwiIHdA0InuD1pU4oLtMCnbYNA1rF6-m9-tINFA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC05qijIQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC05qijIQ!2e10!4m2!3m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b
+address: 446 Dean St, Brooklyn, NY 11217, USA
+street: 446 Dean St
+city: Brooklyn
+state: NY
+zip: '11217'
+country: USA
+neighborhood: Park Slope
+latitude: '40.681945'
+longitude: '-73.976405'
+accessibility_options:
+  wheelchairAccessibleParking: false
+  wheelchairAccessibleEntrance: false
+  wheelchairAccessibleRestroom: false
+  wheelchairAccessibleSeating: false
+business_status: OPERATIONAL
+name: Hiroto Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b!3e0
+  placeUri: https://maps.google.com/?cid=10358286581505758811
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Hiroto-Sushi
+
+---

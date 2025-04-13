@@ -33,10 +33,6 @@ city: Washington
 state: DC
 zip: '20003'
 country: USA
-address_html: >-
-  <span class="street-address">300 Water St SE</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20003</span>, <span class="country-name">USA</span>
 neighborhood: Navy Yard
 latitude: '38.873994'
 longitude: '-77.001707'

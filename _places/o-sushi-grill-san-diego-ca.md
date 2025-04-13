@@ -1,0 +1,212 @@
+---
+layout: place
+title: "O Sushi & Grill"
+permalink: /california/san-diego/o-sushi-grill.html
+stateAbbr: CA
+stateName: California
+cityName: San Diego
+place_id: ChIJRcFCE3X524ARKsRkDujm5Qc
+photos:
+  - name: >-
+      places/ChIJRcFCE3X524ARKsRkDujm5Qc/photos/AUy1YQ1ALhjK_ylO5mKawS-Usm9MAV92SLD6NZsFXgANxYBoo-D2ATbT2GEhAFHkW5O7aP6DCwaSlKeya6AAA7CPnbXygTPcFSBxzMMRNg63R9iDBUIp2YVNibdyEc6Y_1sHVr-lz6zaZixfKHvyMfWsxOh1Mmpm_nSJeGTOHcvh7-XkfxEQKDk_zbUp95S8cWWpqpuEEwE4DdWoGqWQLuKLFULxcpHlKiKLUZ3I3JZxyYLBFIguNKgigLqqjTE6jpU9AvdpgaQsWJGrKBfXgwNhiCe2HWJp1cFBCd3azzP3UThewg
+    widthPx: 4512
+    heightPx: 3002
+    authorAttributions:
+      - displayName: O Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/107190615748508946698
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJBzRoNAwzmU4iMWVDecCA5EfrOCo4ZBZRQA_5DohSUn-HrMw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNBEPJ4dOiA5cMSljIo28h1EDvEI0KuIRVnKI_7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNBEPJ4dOiA5cMSljIo28h1EDvEI0KuIRVnKI_7!2e10!4m2!3m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a
+  - name: >-
+      places/ChIJRcFCE3X524ARKsRkDujm5Qc/photos/AUy1YQ2L_2Py9AF6N2tRShidWVhiyxCTDMxfOxAfQsCY3qV1_5cjOhSIeWYx6sJQchEWnfqYguKzKpM8149kE4UFtPJX3ycb6Kx61h9VXUuEoeQKw4WvBpfzF0A9M7LhgvEFUrcgezT5F4Iy8sB1HbLr6rX8crKjFLVx_jbmsOX2by8wrTj5VO7mRQYn4lk9hjwo8M3choDRZeuPpBr6EsH6hOe_JoLy5VbIF6pdo1ybvnPq8-ZAldl42e1POqBWJAZCgQo5oEEn93EH9ghBS4WItViolzA3SxSSsk2Cgdv9o7wDsA
+    widthPx: 4512
+    heightPx: 3002
+    authorAttributions:
+      - displayName: O Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/107190615748508946698
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJBzRoNAwzmU4iMWVDecCA5EfrOCo4ZBZRQA_5DohSUn-HrMw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM7Swsx0WG_S7JUwpQoOhiOAtqpsIcnQf-us3zZ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM7Swsx0WG_S7JUwpQoOhiOAtqpsIcnQf-us3zZ!2e10!4m2!3m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a
+  - name: >-
+      places/ChIJRcFCE3X524ARKsRkDujm5Qc/photos/AUy1YQ3iceGgSqBwxBB3vR5vv8L9BoseSZddFh4M0ObnbFY4xkHMOoJLM7pU79TjaWe0YuEm18acI8mktJJ1tZ1QxKBYHECXJRw_gkv68GR3Skk-Nt9UhuFtIheejTrqhs_Vxo6Xruc6Itp_zGJcu1WH22DZRx9kmW8nwqCEBRbnpi9XtRxbK66u28oPQcfd1Bf4-vhGffhUAURDJ-qooDFF43mHgSF8kJTDtRYx3yM8Tkqk8DjeTxNwLBwR1NiCEJX2yFGw8klU-3H6aeSaWJub2_G0FUaAQHrZdZKfd1eX1ivbeiTYrqlglZSkJkhOPXHhfxlHVuY_7MmTTc-7vfinQgGWdGaniu7zW9z8J1WTaEf2ZfeRHHJ4595SSmlcTBNuEWLiEy23WQ8_syQNqkBbXJupuf2gS1oBF_KRG1AjE715zw
+    widthPx: 4800
+    heightPx: 3943
+    authorAttributions:
+      - displayName: JC
+        uri: https://maps.google.com/maps/contrib/108819977675690923885
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUGqsS01IhVd-AWnAcwHQ3PWMRHTKtSChXHR_7hDInfb46t9ldqaw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw9qrIdg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw9qrIdg!2e10!4m2!3m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a
+  - name: >-
+      places/ChIJRcFCE3X524ARKsRkDujm5Qc/photos/AUy1YQ0YkrYsPBgldiGxbRUVeHnuYlgz4VzdiQlIrf5JjG7VIE7nE3gGnLhmg6r36PfvsrrWmokgfe2SdQbNVWSG8qskv99_bWcVJm_RdyqyVsP0PZqc9DL-oKZb6-psn9YP1aoCPYSf55A5FQem6Z3Rt-cjnY58kL_gmr25yVwEJ5MfhhYL88ImalED2P1r1BL0oO5wyFMh0uP7aRo0lawjfV2dd1UdEtnNDJThaQd_0rwVGd5afOmtLNgwPwQB5Sh-o4dccDiD99-QOFcxdgC1JJEAX2aW4nOIGgtJ96Xkzhu3dg
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: O Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/107190615748508946698
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJBzRoNAwzmU4iMWVDecCA5EfrOCo4ZBZRQA_5DohSUn-HrMw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP4FKiECy9XXO66xjy9V-0II6jAlotp9F-bf4sU&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP4FKiECy9XXO66xjy9V-0II6jAlotp9F-bf4sU!2e10!4m2!3m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a
+  - name: >-
+      places/ChIJRcFCE3X524ARKsRkDujm5Qc/photos/AUy1YQ2aYRtM4-PM-UGpH-2inogvtE14WCRgEJlqYRbFAWr9BQ17h6LaELfaoUBnVr24aj5CWdVUheVMFonHaiWE3-O3kRZuf7ZypHWlqLTderMGmJoN1O1otcCuRohzI-Wcvk0driV8YUsLsIrJt2cI5-FjseIiMOeaM_x7mRqb1bC-v2lWZBGhldK2845aNwofWJIItdA5vKFnW-ucgrPHj5TovBDhe8YmVF9MWE7cgF8H9ZI4DO2KNl0rcHNpzE562EKEhlytzdr8hOISSoDeCRBZNnR-JbySMDL64OaWwsjhKuMQtSAAOjDKMhzEwO61E2flTRVb41MlCSlzW8-lqExKC_iHqLeICmQUffEiSrsLoGRIZ-qim99aVOXeWGeSIWbQr5rFnEcPDbGzZiHQLhhENM09zYXUN-Bt8xCq8Q4
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Nicole E.
+        uri: https://maps.google.com/maps/contrib/103244772732134437294
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXiVXf4NOVy1r6wgWEnedixPBV5wSAA0dQAX4rZrGHG1v2wiAid=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQjq6YBg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQjq6YBg!2e10!4m2!3m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a
+  - name: >-
+      places/ChIJRcFCE3X524ARKsRkDujm5Qc/photos/AUy1YQ1rGDXeAz7AK3LMxJrNlupM7bVTNItt3Op_aHSgqnAhuAgQH9BIJjZhgSaDL5O7AECYutCx084j3XtTizWZFmBj9eh7W5lBMYTgWvC3YoYHT0VG9AegkuYVHtbcQpV0UGniR74CYqEU8cH5c0aRRl-wAXZZMb9F0Tl28njV7NdYb5D0-njSJRY4XqfFQkQpzzdFbgtxnUtj1ON0qN9eikgMONrlusLrPQ3A9XDoMi4CIh0VHopD29maGmBS4ShTm6Dlmsm5uJapikVG1qzHzgJPeFAKcEUkLzTynWg0oMTKg8GzLjFfrtui8d57gZ8w11ReWlulwduzM3u5eRm7AtsqiklJY0tpihz0GMDOFw0MnsduCpYTo8IskN8KK-NC6yX0RHdy9CdRQuVsS0cyZyIXyugLNNaM-4A89jlhGleMvRQW
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: 铁哥
+        uri: https://maps.google.com/maps/contrib/106050827472787730083
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVmVqNDhg_eVZSDkCssgIYMgYc75QOO8lG_2S1Z60xkE5vc-jK-=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXr5ibsQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXr5ibsQE!2e10!4m2!3m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a
+  - name: >-
+      places/ChIJRcFCE3X524ARKsRkDujm5Qc/photos/AUy1YQ0YzaG3QjqeGQwUC8M145Sn4XDz_aj5kaMc5gCSx4UaVDxDkJdfHo5MggcmPeFBgAKVOlbOZ4G2zypmS2ohtnFvJQ23_g7rdpYgf0_i5OcZAaKUjB-pDusjKTHkPK-nnqL1YXo2UvjKcs-21ch6hbmlDje-2sB1Bf-w_Q7Us0W-k1ewbpYs_oKLZsyeZoaHaFrQ860BZ6RK5hkgd9YdG7iPzjdSUXwldWBRsGlnwycKsb2k8hAnOHy9Ferhfd8qCWYCGRWay_LJWVro22pwKMcPvG576L2mHC8RHjvSBgkKtwXxj-PRlPgixY19NVUg46nnu60XOsF5qprOHpEfWeDshPYB9IGdjclGyTJPcA_ykH5rxIuLWWXiW2YsPPtfVdB8niR8ZTSJPdo4i3O6FWzW1tPPJSwy3fJMKRoCI25gSG_0
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Vincent Lam
+        uri: https://maps.google.com/maps/contrib/109356790684726364640
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWhgLU5Jei3Pl4JDPEcEIdZNkffzDIZHGXJ2KnjXHN0yfq3XHBU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfs5rGjAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfs5rGjAE!2e10!4m2!3m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a
+  - name: >-
+      places/ChIJRcFCE3X524ARKsRkDujm5Qc/photos/AUy1YQ1MZF6DfdcRkQpoDq1AvEltwB0uRIuMdI_CeznjA0GI16nzGr3ckfB6F4BlKIqiG3EJROBymWeRBCvT04AUJocvOTA1m6OYGA0qmyUGNuFzWO2cMHnGErE1RhqzLWQDjsR4yQAcRmBFF3z5PPxWPRYJ7tBZMUpYIWjkz3DrgtXhma2t65qS5Fqo5NfULdty8TTDbNdChwQzSmamPZY9gsRXp_fFs2HIYCgGo9bAX2QX7QWJdrM9F3dgkQiaqxKDA8phB99_ddpAikhEZ88bop5MQftmTTDBAj0ijc8h3jKHpzxkGP0TLOOOjBLOIIfXC2TNL0WInPjk6lDz9OR4h2pm-ZNvu8s734H_W8WsyjLWC1TJRwMjw-PpScjdnB42JLu36xXVVkuYwPU9rt0Jt-1NrFipWrJWfvwU2FHpxV1_z2RJ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ruben Sanchez E.
+        uri: https://maps.google.com/maps/contrib/101725054813479969013
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX79BCFPyvcHd-kY4EB1Clfth_UKl36rjVVmmOBHF219D9CmDrJvQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgrfT_yQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgrfT_yQE!2e10!4m2!3m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a
+  - name: >-
+      places/ChIJRcFCE3X524ARKsRkDujm5Qc/photos/AUy1YQ3S9KBgAUQTgVEctr1-FgWe0dNOLgU0gXWhs1JNjsGksMv-vBaLw9sbOM5hs4p20TBF4Ay4a8XeumgAEKfhhdA6DnqNNni2i64FRgHnIqBA4oVRC2-LWd6MTLDtWVKiRC0eDvDPjoS0du5nvbKsc2t8piPHaau6Q1ENMa-CE33Eq_3bS_Xn62PSYquVB6wchcL1m3tQ8QrhM0he_eUR8hVwipQX2Ua3DE_NfE27QVli192QKKPG6NTsG_VsvGWhW7duNmqE6Rs1kiHhxjCR7Rpp-wBlGPa-pe1i2TbfVQRjkQ
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: O Sushi & Grill
+        uri: https://maps.google.com/maps/contrib/107190615748508946698
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJBzRoNAwzmU4iMWVDecCA5EfrOCo4ZBZRQA_5DohSUn-HrMw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMzUPPJ_hpdiqwmkPvyBIPP9dDMBGSMx0d1aCv6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMzUPPJ_hpdiqwmkPvyBIPP9dDMBGSMx0d1aCv6!2e10!4m2!3m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a
+  - name: >-
+      places/ChIJRcFCE3X524ARKsRkDujm5Qc/photos/AUy1YQ00pdpc6ddfTy-P4x7Nbq_H8pA3SqCF3ZtSzmeOgszrl2ariXEfTTw7WhFgDH6HEwAJuY_mQJdgEuT-wOa63uaKakwi0pPPSW6KL6ZXZrkZWanlX_0nw3MgPYLSS68OWnkAHsCdagbWm1wICLSj0gOUODHmVrXH76JbJq2I_7kWBYjNn3VjOJCgmCEWwsYWswAImdaSvKQ3rWieFPcQLRrOztrNlEbciSTHR587ljmlwOZpUTw26Oghp4LLTbZ7xGC1D6faIJxZw7bt__wozpN0Ebo-g9orJQlHMRrS14KzK2172PA9W8Vu3zt-5uZBqN7KIRjQkot9KpYr0mUJ9Cl2lUNy8cVt6IYFNPN2tuSzkWaep-Ezkakz7pEqo-gpjMmdG3VffefMraxkV2eWYCgXLTeFHxC6cTwI97karA2NJLUz
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Dennis Ho
+        uri: https://maps.google.com/maps/contrib/101507704677134265391
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLms8xksmLBY7epY1EeVoqmhAq7dmiw3q1g6qYdACGLcQ-Vrw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDrbG_xgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDrbG_xgE!2e10!4m2!3m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a
+address: 10545 Scripps Poway Pkwy a, San Diego, CA 92131, USA
+street: 10545 Scripps Poway Pkwy a
+city: San Diego
+state: CA
+zip: '92131'
+country: USA
+neighborhood: Miramar Ranch North
+latitude: '32.936060'
+longitude: '-117.101395'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: O Sushi & Grill
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dbf9751342c145:0x7e5e6e80e64c42a!3e0
+  placeUri: https://maps.google.com/?cid=569114812280521770
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbf9751342c145:0x7e5e6e80e64c42a!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dbf9751342c145:0x7e5e6e80e64c42a!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbf9751342c145:0x7e5e6e80e64c42a!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: O-Sushi-and-Grill
+
+---

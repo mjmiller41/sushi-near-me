@@ -1,0 +1,212 @@
+---
+layout: place
+title: "BLUEFIN SUSHI & THAI"
+permalink: /california/alameda/bluefin-sushi-thai.html
+stateAbbr: CA
+stateName: California
+cityName: Alameda
+place_id: ChIJKZrUkpyGj4ARdeuZcKmRTQs
+photos:
+  - name: >-
+      places/ChIJKZrUkpyGj4ARdeuZcKmRTQs/photos/AeeoHcJzHeWfdT9eUNv-isOCjobjlJA6g9bj8oZId-KhbIQYbvx1oVUApEmnLN4GJZdhMMu8EXUN29_1wqOuHP0Z5vH8bk-xq6tQFvJo-zr_uVRwcKx7zDypmLgy93GWw90sYA_zTJUURXf3wl3WC0a7IYHCdzL4xVdSQcjGVT4XipCtnCSl8D1wXxjGhfQYu7Ac1vrygK-k1auoA6LQDbLK5loHLxrTbuDpme0YdcSOJ6DNbg2Mn-8BDfZDx4hO1V4-rzRY7ztjmNBRHHm1SxXVkuURnLn-FJkvadI6OdA0IK9cvA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: BLUEFIN SUSHI & THAI
+        uri: https://maps.google.com/maps/contrib/100562961747673283543
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUiiZJZWuj9D4dQRzpMcxIUsQqn9X4sxmAUKZ-AgD1uHyo5PYk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNlTWELvC4dzfKwVtDvvWfhZIWtbFwsFX_QuRga&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNlTWELvC4dzfKwVtDvvWfhZIWtbFwsFX_QuRga!2e10!4m2!3m1!1s0x808f869c92d49a29:0xb4d91a97099eb75
+  - name: >-
+      places/ChIJKZrUkpyGj4ARdeuZcKmRTQs/photos/AeeoHcImxgFYX4fiIQyz0_bW8NLF5DoOp4TXDtNzQMAcTbwd9mA0N3bJghaRnHOFPaSjjWoVPgHM8elBWtI3cUtV8CCfOLPwloFjPlmsmD-pM2pQJ0GFSeZl3adobZiI-zwEm2jUNeVq9xAdpX7zK4lFn7Hi2sKQesW9DwAe9kWtqOUVVvb638XkVlolVHbK1NAEF2HchZK_S2XTkt_AhRVu-NcWYuD08stDFPI4wcbNGDI03jMLahKNm9K7sooN9Zxd3q-uusiOAUgwH5HTQ4tQNap7sqBtgY2GumOHZ8sclLTZRQ
+    widthPx: 3703
+    heightPx: 2777
+    authorAttributions:
+      - displayName: BLUEFIN SUSHI & THAI
+        uri: https://maps.google.com/maps/contrib/100562961747673283543
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUiiZJZWuj9D4dQRzpMcxIUsQqn9X4sxmAUKZ-AgD1uHyo5PYk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPL-9tsdP12hxgmSFCLIvomc6OpWlcwQ1A49s2R&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPL-9tsdP12hxgmSFCLIvomc6OpWlcwQ1A49s2R!2e10!4m2!3m1!1s0x808f869c92d49a29:0xb4d91a97099eb75
+  - name: >-
+      places/ChIJKZrUkpyGj4ARdeuZcKmRTQs/photos/AeeoHcJufk7_YnhtRBdrSDQZS2MtlpzQeSLWOE1jw6oZifM0AC4NrnSn_E2rRWfqTjRyZMQMoxvDB12DHbmmktUbL6xmQKMskBXUQq68i-tLKNVyiQdF7BfUMd6ye5n5bwsi7_-7tzgoLPejxuPmvlYorVAT0vmiyKXdiDRSnltO4oxIO4hIMrespVBll4QnGbn-z2OAr8WVwZDGcWpv97ggwdm21q7fn7XzYrERO5eIPwkZeIGnElS6Hm5WMQE-5skPtR_51jkAU7HVo856H9tcoKyPcXrMcvzX5qE-lqVM-b1HjGrPmSJENZt3IFMfH0IOV0giOsuMlZpeMJVjvvQPZkFEjKKOO5aoP7GAZohB9TN7Pa8Q1eL0wmjlByrDlntDVBKkVQsVt_T2CKhoNDiRLKy_zUg4tnXSvoGl52WRdpFbtyk
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Christine R.
+        uri: https://maps.google.com/maps/contrib/104008515512323057215
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWE4VempKa-FrxRi189ezhQYS6JtpAXiZg7YDXW8EI7eAFTRvcSwg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf1uqsqQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf1uqsqQE!2e10!4m2!3m1!1s0x808f869c92d49a29:0xb4d91a97099eb75
+  - name: >-
+      places/ChIJKZrUkpyGj4ARdeuZcKmRTQs/photos/AeeoHcJz-1sxjtAc6A-LFGQhQpzwvEnPY3dsGUqBFUvKiKVKUKe4AR2ppNtECD5pyRkDOG6r8Fe47ZFD0EubzqzEKMjVhY9fogf8B4lNGjzNowCmSGF0OQ_6yG9vgoP5TviTFWMO8bI8Uhi0nky997SR3MlE_-NyxjHkZPfrjx60S3e4j-9iuCYC1VydTt_EjYdTgUkYYm0CGAzXe2FzR5VwtmNkqU1klAKF10nreNVVz-GDT_Lg3uPrOFZGJn1mgugcxlcnQIDa3yg84XiCrx-mCgqwEGG6W_tLRB0QoCSbKiu5IQTm1OV8gMwF7iwpp8_azayvVTz256xwwFBJMasJ0-vJ7uOfMqZjYodsaqHsdJZtM137_RtblUPAvpic9B4DFiUINeYb9ZKp_pc8KbHSelz9hMVuYjv7nlXYQohtNf951g
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Doris Gee
+        uri: https://maps.google.com/maps/contrib/108214695267267549912
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU_r0HENO3r8zB4yN68w1DPBJ6-P7vL68aUO5vzzppd3jCK9mqKrA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjgaSVVw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjgaSVVw!2e10!4m2!3m1!1s0x808f869c92d49a29:0xb4d91a97099eb75
+  - name: >-
+      places/ChIJKZrUkpyGj4ARdeuZcKmRTQs/photos/AeeoHcLOfQ6oNb0NHu2JnHsQS-IX871xORJUTqMNUXnpn8ZCVPZyDr1ww0XSKG-Rwa3BozsTY_wC8WZVRqgy97ocrGZbMk2vFP6R972LpHpJ_H7NJRvcBA3wvIuzb1iBdkqzXyLa1qP4qiY46kxs_5xEYIvSe6-pq7nMkRQpT3IuidzdBHvNIuklm8xC3iyAACrHH3CruQuP8cRV-A-ApOcE1qiE9mohnY75w8OrXTLT_i-FZHDmnqaRsQOwNzJxWV4zcFYhX1kxiNOdK8x-YqmdOHZV82D4eAIjgibdEV5PELPIM3xhpN1_J109ohZY8qwhNp0WjQqbQ0LX2iaCkXck011usgd7zFNcBA-g8Z-konD_6GkjLgEhbaTC6EII5AhW1f50m2ngbhacPAwechPFmHT8C2JlyHzsouTKJFGrVo0
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Veronica Garcia
+        uri: https://maps.google.com/maps/contrib/101648461973379260090
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWRbTb2AEzN6vVK7x40PSTgm2V6Ty8AxtIVy0IDEaNl2CH2V5fb=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrl--pag&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrl--pag!2e10!4m2!3m1!1s0x808f869c92d49a29:0xb4d91a97099eb75
+  - name: >-
+      places/ChIJKZrUkpyGj4ARdeuZcKmRTQs/photos/AeeoHcLwUWPqK2L3UwRtHCdMPFpysc4aAcKBNXBeEccUkkOjIaIGs1ltDF-Q5iXKSTKH2fmVNuak4_z2k0ohNc-PwIiU5NGR6wj9v2v7FE4B8DnvVjm-s8YLgpWetfFNCoBJX-ayCERdMZIMehm1Y82UQ9p2K3sT_Uv8cxrroBvlJaTMAB6WnVXmUvnj-Ie3QXvS_5hr5rFftEvreFKQvf9JIOeG1twH8Ui0biMYOsv1VDY8SwXl29Tcd19xGtQBkBJzOb72X0MvK4VyOg1vGuJzyxIRhn2K5EOZHvuLnZB1SRRn1znTM8rHzL5cwyAeme5Za3tyBdM9hk-fOlOE8cG3c4w4AY0bOOtFB5sqOe7GvvCHVEQqD5gVG3C9-LkbUtV2R7Ca_08h9KyF6pJOwuvpW0rqSs0maCW8H4c2_cKDhjlMEA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Veronica Garcia
+        uri: https://maps.google.com/maps/contrib/101648461973379260090
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWRbTb2AEzN6vVK7x40PSTgm2V6Ty8AxtIVy0IDEaNl2CH2V5fb=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrl--ALw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrl--ALw!2e10!4m2!3m1!1s0x808f869c92d49a29:0xb4d91a97099eb75
+  - name: >-
+      places/ChIJKZrUkpyGj4ARdeuZcKmRTQs/photos/AeeoHcKFYreXJLwcMMh3aqy1vgnhUMAkCJTtWQeWneABMELaQQ9Pqcy3felWGdwZVugR-FVUb5YDHBSsrvsWyIBFO3iFjxG8qa8t9tzMlnI1EdQ8ogDnQ12RfVrc4OsSmNIhK_kLNYD2ASuVzY0nKj9Zr-KJ-gllquhZ4FG12bdRdonRVhCA68sodGQ0XzcYxVLaCzgHQLYsqQELhDKrjyfMOnfzDVKPI9bfQV1c0D8zZ6oIhjvBAujm3dDdclaETXVdHzQeHPOKcElef3k5n7a1CutgGn1YCB0dDv8gyJG_vsTUCL1OoXSmNxBm6Y8MkT8BgvyuJSXWWWCX2EsAQ-0WXFPrLBZdC0Wd7seatnsest4SgBS9GBiVGNSFMxzZvlDOuZdzz0lrSt_zL4nVWDeZP8q6rlcoWVmngQYbDJ6HH8yJtFJT
+    widthPx: 1440
+    heightPx: 1800
+    authorAttributions:
+      - displayName: Allen Lin
+        uri: https://maps.google.com/maps/contrib/106381708981160344798
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX3mL5zAyCFowgmqnAVRW0VBmYHAPoaOKdJ0hNXWf_9UzYLrN0ReA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICl3bfp_QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl3bfp_QE!2e10!4m2!3m1!1s0x808f869c92d49a29:0xb4d91a97099eb75
+  - name: >-
+      places/ChIJKZrUkpyGj4ARdeuZcKmRTQs/photos/AeeoHcIZliVFuRsEyeZmIAOBXSOsWmpOs0mv8k20N8HXkzyOSWc9HAU_1v6_hESX71iSxzGXdFPtTV_vOEuijnB-w0bCXnvhoOa85BNch4GaJZCQcOLBvsQ24mVI_CWp1cZoNaYm2OybBrW48ACi-OGKLtMgtKQXV22OBVRGANEMmTSrnI7PTYAN4ST_mkf6FuiK4vZ-wSm1POyHFnqFf3MMt7IInuqLlr56zNk93Mq0SwyUFLMGzU08NDyafQ0sFZzkX_5EqsiiTCtY4f88pON_RCIy5VHtzm0khjka2VwM1s-SWw8z8xNtNMi5y3SW70R9bgcaR2uREG1PcVavfE4ukYSgPckCWEvEa4pPeQ3D5u1CbaYhh2mLu7LltmmD_FNazl4tYhpfz4wKC5oQ9egh59cf50Kb0LIKwSqpDDSaIQMUKAE
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Jason Meyer
+        uri: https://maps.google.com/maps/contrib/110087855182018876350
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVybY_BCGDzIktYnrghPc6ydOgXxdbBNzSw28eOhOjVjGYFx1M1ow=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWt_nwhgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWt_nwhgE!2e10!4m2!3m1!1s0x808f869c92d49a29:0xb4d91a97099eb75
+  - name: >-
+      places/ChIJKZrUkpyGj4ARdeuZcKmRTQs/photos/AeeoHcKPjqCqg4zD7wLBK_WOeZL2FTg4EXQgMsqiC_4G9UX5LbXuTtoOvlCUjlX-Y-7jS6_a-8nFXrANAuE-cJ2Pu1hlk1PRTVOe_BP4uJE599ZIDJxesH39emPl643reARfzVmvWeue6GcLvEv-HGHyoPfxHMOOjNt_B03TdVB2FXcZJF2sbnOCS9no0a2feA71g6iGv-nq5bHPRQu_sGhe84aPifLWT3FmH1t5jqCOyEY-bmgcCVsNimXG-PNYYC6mrCjxRIVm1jTqiSopQkKDImb7yPHGDNRXjOPeFWCwbReSmBiMgzXGNbzhWOIyIfylpfiaAEr1uEA3CPcYMveNmiCaSEj4l32bynQYc2yPcIOINfXCfyLxtixKNbMI4ewzC1Wa-PEZSKeFCE14DrPkXNO60ws617KMgD0_b-otGjYk9ls
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Michael Martin
+        uri: https://maps.google.com/maps/contrib/114016803674276037115
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXvkqh9zmJGR7sq2SEknrHoMqM75__EQEW_FNOSqg0OMPRGyh5gNw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZ28Kt8wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZ28Kt8wE!2e10!4m2!3m1!1s0x808f869c92d49a29:0xb4d91a97099eb75
+  - name: >-
+      places/ChIJKZrUkpyGj4ARdeuZcKmRTQs/photos/AeeoHcJ5dY5ZdvE7rtffEuXkWqT1eAo6s923VfPpETlW_kj8Cn5TzQyw3cojgY7LtL0tL8fGeR9PdMhn6uptsvKB2FtxBcwh_A5DK6A3AzyyvxfrR07N1mKdzzBoc3wsmnflnRU8Ne-c8haFImCE5PDCoV4aQwnpRH2fWESarp0L_kMzYuHbVGFNoL4zFo2Fzh1i3-ADhk5vz6VUUfaPHBEYyyIx4slEumscqE5ZmdWPW889OiZjBpUZJU1_R92SUZQ3eHu81cqPCpV0dnKuPfrRRxFwVrDoCEXYJl9nVUgndvw5_BHZD8Q-5s8zH9qUN1gXndbJIx-GmguYZlrKP5TziuiuIFAuZrxzBiD9FM-KN-pNdFO6pM8iitPS6ihV1r6598pJTGNr1giQWT-aHyB13ScGftzOcqlGR3TO6eboPgx72_9C
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Khoko Kaie
+        uri: https://maps.google.com/maps/contrib/110862573376714222453
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVWgch8tO-YKeAvrZ22mkJDxEPrR0w_vYK8yqspU9CDWD7_emnFvg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICen5_ftAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICen5_ftAE!2e10!4m2!3m1!1s0x808f869c92d49a29:0xb4d91a97099eb75
+address: 3211 Encinal Ave, Alameda, CA 94501, USA
+street: 3211 Encinal Ave
+city: Alameda
+state: CA
+zip: '94501'
+country: USA
+neighborhood: null
+latitude: '37.756257'
+longitude: '-122.233729'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: BLUEFIN SUSHI & THAI
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808f869c92d49a29:0xb4d91a97099eb75!3e0
+  placeUri: https://maps.google.com/?cid=814467264548563829
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f869c92d49a29:0xb4d91a97099eb75!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808f869c92d49a29:0xb4d91a97099eb75!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f869c92d49a29:0xb4d91a97099eb75!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: BLUEFIN-SUSHI-and-THAI
+
+---

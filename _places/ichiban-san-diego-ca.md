@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Ichiban"
+permalink: /california/san-diego/ichiban.html
+stateAbbr: CA
+stateName: California
+cityName: San Diego
+place_id: ChIJt_bxqcJU2YARyJW0mapNYog
+photos:
+  - name: >-
+      places/ChIJt_bxqcJU2YARyJW0mapNYog/photos/AUy1YQ1iCsTC1LHEw2arf46TKHFAUfRc1dfkbSNku-cggD6J7NusQzHAfIBvaaw43-63aofeYfsITqc18QWLCGefJcNMMsTrltwfr7Bb0RKc_2rnXRBUtMrHCzSSWKRUdL-r-U0ZGA2LlmGma14DfZVR_HWZxuqiYVPeBTr8PNUeodqcNobdS_6eAzyT8qYlvbVXuPQmdrbHY1Si_L_B2CSJ47pEHRB67p9yiTy62NxJIE3GxgaQ-lFSxM-EY4bkrTftJbnFlF2GwGtt89M2KzlagBrxYQpHvk36oeSCFZUWQcpiBahaMF2XFROqQUmcAjphY2jVEmK5we_v3yaQ0g3hPAsfWSzJwo4RMbt34I4X60xlb2uyhG9mTLdvyDBtM7tsAwWGEXEQbtvRrTeUIM9aPH5Qs2KJHm62FCUAAo81BcsJJg
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Addie Kern
+        uri: https://maps.google.com/maps/contrib/117929868714980996762
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUzpWamgCz5-KU1gF3bKOGCHqnI1DN7DqrNpcNttDs01G-tcrS50w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrqOrcVA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrqOrcVA!2e10!4m2!3m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8
+  - name: >-
+      places/ChIJt_bxqcJU2YARyJW0mapNYog/photos/AUy1YQ2AIDO0UnfSayHY9XuvlVFw2wcviLwgGcX4jGuQ0d96_29ZQTG8gKIXxBAjpHPpM_jCPxHiguhp5pVdrXlMXrO0MFPcYHswsAmndbSw6Htzo2np6AdvhdJopNeDb6nOa2BFuErPH7SYFv8vINUjBxTMEGDbV7eh9W6VUxQ5om5cF2jkZ5ygGM9o6d-357ncbGBDLRtMFo-z0ycspMGAGYGOSZ5lVava5Iu6iSqAGEC77CtGJ_d1vR6h9MPJDvp0_JXCxMB6iYDSm1sdeNHsC2vGd24s7pNBp-kZEbJAe0pUmLdFbRuPIPT6CnzBCh-Dr6IzBtHibt_DEcxqdccHrgJezFw_7QWlQ1i4UlEOtgy7_MgQFkHgPiS1U-82bp91ZqxER-uRlkKFLNM-S06UxpxyLokcu5ssYGnGepZ6TbLGGM3X8ZfsKHe2Sry3cQ
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: tracy treppa
+        uri: https://maps.google.com/maps/contrib/115143158915173512944
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXjDvKJ54o4yR5uOyToWcwTp9AG0uVU0ww_wK-Dwl28AdJ2IJjn=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5Uqx5EBWfNVyUADmSv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5Uqx5EBWfNVyUADmSv!2e10!4m2!3m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8
+  - name: >-
+      places/ChIJt_bxqcJU2YARyJW0mapNYog/photos/AUy1YQ0746Zd44W84Oo1rl1SZ5duUI-ok4_fASyqlVAXI_BN2t2CrFk_euDkmgKgmtV89MQJCJ42jSZahZt0Iyp1teABTaSmtMm7nPXcJohWodcC4cTw57AMGIMLeYg4a_iKrCABLcm1OkuIOuEw9WoGCbGMTbr2oH3JHiahlQLd2QeivwEX1Dp1aZE0ulquyQP1BdZhhtwekdNSO1qZyfb8Tc6hC44ztpSSZu7MqmtR_a6nG-c_lp-kf8WFTK6uGi-ZawOIMQYy6cEoMdY_W5_FxYILgiLs97oirJv7vtrWQ9Qu2QwLBV1D2XhjLzSd9q_SiJo0Lcrsxz-INT0pVQP0V1u70Jcdmao8DQk6lSZVEVwE4UDGg0Kaf6GGT3hQsaC3ApSla0u3m8rp_Gx7WLkru1pzfRUkUP8EzhvyFC0m5RS0EA
+    widthPx: 1623
+    heightPx: 1455
+    authorAttributions:
+      - displayName: Sherman T
+        uri: https://maps.google.com/maps/contrib/115148250432549603547
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVV-JoQPasu6cePU8H-ZDmNKND7Uui6LrhJ0PHc2weJI_x66Dch=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHiKP9Qw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHiKP9Qw!2e10!4m2!3m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8
+  - name: >-
+      places/ChIJt_bxqcJU2YARyJW0mapNYog/photos/AUy1YQ3ixY8u3AZIJInaDC2CMkZd_I6Ueju51u0Xpqr1Gu2O2Qs1TST_61bOhh_YRKxbp8v5rC8ZGWQbR6sQn0FlqiO0Jf9ghtAXEwTqbgr0l5KdBfswL9JBmUW9z4giAoaX59rw5S2jVEUv_INVrLxVKGhfOUd_LclOeKYlbrFF51Y0wLi4oDkf3rQB4aiFpTYmCY0LRycAYeEjpBC3lV-WF6BsRHV_BS5PH0bAyz6d9GaMueWX4D1Oz7i6zeQAlMEd7AdC8ZhHOsOEt9XrmqvtB5kC-VXVVcEJc-GNYJzEV_O-9J5DA5MArXKmZECEoJps0d1t5JHATybwzdZsDLBFjuQbyhNOp3oQgD_hC2hVBkBZsIQTqa73QxbZgHFMtegKc_YEb0xMYi_fj1VEYQJK0f-NnhxvbGZlZ5My34HT9kGAzMwTSsHmGVreMjdiMmgm
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: tracy treppa
+        uri: https://maps.google.com/maps/contrib/115143158915173512944
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXjDvKJ54o4yR5uOyToWcwTp9AG0uVU0ww_wK-Dwl28AdJ2IJjn=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5Uqx5EBWfNVxYAAoID&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5Uqx5EBWfNVxYAAoID!2e10!4m2!3m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8
+  - name: >-
+      places/ChIJt_bxqcJU2YARyJW0mapNYog/photos/AUy1YQ3X1FukFAAk_zG32ll4xmH2v_LDTJWoRLPFWXaPPKBsfpfnb3lfMJWOn4pCjUDxoQKo9puHiXexAbEKT2aYM7DCn-SzHH24L4D_byZDC5uniFCcfsYu6y2AmGlHqQmNxq3hWlp8R5JD6OappbohD7okkRtqnSwq22YMw8k0F_1aUHIo_39Gx3rBRREAGJUsnr9WoGjrjNUODjMIwehBCUOLKmnSIf-tX5_JPJDA5ZB3U0_Se3HYcsMQ6fIF0mcPetiWcrCQTCKiZG68uS2-053ZZPyiuP8uB6DfpV_gSBvFOgTDCPVCbrkkq-NjYJ9c5wtv7Q2MNo51A3XuLkhrtBUMphR94BJqj-Uu8h6yIyI71haTiSw7ZwtWu_ySQD3cfvAiuYJo775FALK-1LjfJ8nkby7J9Ht-DaQq-znyeGvb6sP6
+    widthPx: 3000
+    heightPx: 3279
+    authorAttributions:
+      - displayName: Reg Williams
+        uri: https://maps.google.com/maps/contrib/101031192515500094830
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJjdRAzTwVMN1zkdAUxjDwZ1yhGaKKzzAHXyAgqQm906SGsFQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3jvubnwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3jvubnwE!2e10!4m2!3m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8
+  - name: >-
+      places/ChIJt_bxqcJU2YARyJW0mapNYog/photos/AUy1YQ268IuZrPpqH0m5AuNOjk4YD6w6dptSHQf_EOA5BZG79FmF5nRqCxBElFtj1f6oBZOS4rFlC5_RICn3qU1DmBLjsrHik-z06S4T3qv_K0aNc40WstSZN1aYEozGLOXvEK4LnpjyZhSORZ5O3M6BPUXd0Amd-fmzwSGWUs2LREWIwpS2spVjfwbCuR3hQXkAkpAVVC1NshkdPE3KLwBO2hONq_aNH93gmKvwGXW_I7perxaMQ84YUP6n2ZcLdR5hdeMDrYWeqDMxPpEgECFQT9EOppDjlOaRXzM2fne67Ja-bBSEaj9oFZCjVUjUTOrBVNww2BN2ckjoMp5I9XAINpjtlmfasFhOSzHVccj0i6DLCuHaGCl0c4Vs_IErEBzwsvJzp__sDMpyyos63Bi6ckdIit_GNDh-48k72W4M1aOs9Q
+    widthPx: 2952
+    heightPx: 3790
+    authorAttributions:
+      - displayName: Sergio Zamudio
+        uri: https://maps.google.com/maps/contrib/101291709197402179778
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIXmSpHl8O5h4IxVc-rjkgvShdwmYPY0Voo-LMYdzhtTRhHkw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_15-TCg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_15-TCg!2e10!4m2!3m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8
+  - name: >-
+      places/ChIJt_bxqcJU2YARyJW0mapNYog/photos/AUy1YQ3Ku8nr31wwmqc5VTpEFrvso9l77hU7rWIOJzGX6EqiawX2tWVCEa0aXhXKMFpMdHHwqLiJMfe8dKfa4hTzkGKcwEu2cbPQEGMVOtoqTSlqsPMuBDaoMofz6W_gwUXY4753QR4eL0s9wx0MLzMl53FUq8yBLJovR1hAwHQkbqToZP1kB-9cTmq2qvNXuOcehbDr6G7Enq0nn-M_Ff2V2Dy8ffZyeDZZyiOOfpg2G7bkeESoiyZCaMVFiOlwRAsGeQxfkawyrali8oFkoH6yjdqbkw_-Upu1w6AdgTzWKPOsQlUZjiEEuDit2KerxeV9v5Mo9oR3aFh0gpxtEJnap7_mdkDjo7NPTDQpcKnclqYjbjIVX_DSu7hxFm0fSuVd6MbzLHm2Chb3Eg6_hmFDjdpVHsZuw6p0tyYiUA8gARQ
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Vlad Vedernikov
+        uri: https://maps.google.com/maps/contrib/109526229468669425417
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWcNudlqRaUHTTBYmrFd0x7KcpsPfgkXB9z1tfvp3FQjj9GwMrq=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvwqOBUg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvwqOBUg!2e10!4m2!3m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8
+  - name: >-
+      places/ChIJt_bxqcJU2YARyJW0mapNYog/photos/AUy1YQ0SqkZa8I79Gn0eMcwatuGW66AMaKCvzfjMa31W3RzPzpP2DOZ4uOKenNkeR_RHmkRfX2ydiVokI_m29vvP7dpdDkWnbpkcrmNw_nvTjlzyvgNw_MUrJ_wOKTkn6qXFQxZeNo6j_tJxyKz1P1HtmO729-CgJ4P10T9UPHzTSUWskxTrYa8pTGVB0DnzgLwhBlCTgKMGASt9kZvirnuO3TshwAufqOVAHmqAFGf_8Edwk35aaiCBXAjIIaaBetK4mQCz3cXVcfzDxhPxo5JkK5YaaVhe0ZHAqS6pJKTnTPowgnrCpX4UkVXFGQ7YHwTUqLVZlLvPUHhb900VY4Ri3eEDqMuRP62eC2xxlB6jYLfMDzZ62RXvT4hwgjxfuFKnqcBvO8yZT_z5IZd9MzYSL-TyOMdckwyU8s7UT5LZa8P7cQ
+    widthPx: 1944
+    heightPx: 2592
+    authorAttributions:
+      - displayName: Trevor
+        uri: https://maps.google.com/maps/contrib/110259699737585759826
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVaKW9mBBVE-1zTSp82h5a5iyKrma_pYPOdLujxiRDBRgohHNb9eg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDy4Ke-MA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy4Ke-MA!2e10!4m2!3m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8
+  - name: >-
+      places/ChIJt_bxqcJU2YARyJW0mapNYog/photos/AUy1YQ39mvLxNP9ezf2dSXK-67SmVENyMF4yEGQondhKPfEyZIDgFiS8GmmGzTBRrr8D9YsKewBFYmRMNRHemwDZHhZV2xx8lsdjFDe-9foJZA6ZzTk38gM7Cg85W89nCjpsBs27v6npb_oZy0l9BwxFDjak-22fxL8Cw0IFDYNXfPejglesvkcUl9jmC6SExjtuUe_S4loisa21rqyI3sMv2hzHJaf7Ik3DTISvUkGn6-WZT8SR7Zxanmapf4hXy4s4K-V6yVUcdB1lt_by23cccSNH50uymx_uS18JfhwNRujwvH3l4ejroQCPb2VWU0-HxW_HyeQBlb3t4ciK1B03BhnEwtHdl6QRF__TjHMqwqRmtHfHKXeleiYccb_WIzST5O4RwG75B7VWDR3VzNf2VUvQhy0LRT5uedP7Xhg49TBLdQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Angel D (Angel)
+        uri: https://maps.google.com/maps/contrib/108292153841466780972
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUioakWmzRDYlYPr0orz3UGNTwjHbYpdkQzIeSg1fjMb88lyihBGQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTzaitFg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTzaitFg!2e10!4m2!3m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8
+  - name: >-
+      places/ChIJt_bxqcJU2YARyJW0mapNYog/photos/AUy1YQ1Sr6V2A7yl1pS8f6cVxZ8Ieyb6N0wMmSSfzlPqWK2dNX4LbhFPaG-u5tmPKEF6d5manaNBrUj6xB6oEchskzRycfyi07pgsQSIWAJo2PMPv8vcVH_buLekqN1Z6_EmhaTLb_zQ3o9iVybgTeks0dfOivwBYJ4iTiyrG6IClDXUWeeNDn7pwnGTGIqZnGb-kGJboArBYYOuep6mOkwhH-3LhphDVWOsU0m8omEg-AItkLG-WWF6eDTaFcbJ0D2PTpnAmjROYyNbo5q-kiQK-qNoq6NCMpAGaRG0jAwm172KsJMJCgubtkA7D3rL0m8QG8hyAz4Swhgk7epq55xfL5XPDf4f80dTHT9Vzzree-WpzbLMgAPJNYAE4UyAX33VlivVSkKcrBQGKw9kIwoeN0iMnUig_UHmt015BGE_UBXSjs_E
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Alejandra Ortiz
+        uri: https://maps.google.com/maps/contrib/100068450179722745404
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL38hYON3kmuQnrkFJGDn7XFDYwnfdrzTT6KJuxr1nAcO4x2WY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIClgdPptwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClgdPptwE!2e10!4m2!3m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8
+address: 1449 University Ave, San Diego, CA 92103, USA
+street: 1449 University Ave
+city: San Diego
+state: CA
+zip: '92103'
+country: USA
+neighborhood: Hillcrest
+latitude: '32.748266'
+longitude: '-117.150075'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Ichiban
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8!3e0
+  placeUri: https://maps.google.com/?cid=9827502731994371528
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Ichiban
+
+---

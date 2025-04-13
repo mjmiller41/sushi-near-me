@@ -33,10 +33,6 @@ city: Washington
 state: DC
 zip: '20002'
 country: USA
-address_html: >-
-  <span class="street-address">1274 5th St NE</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20002</span>, <span class="country-name">USA</span>
 neighborhood: Northeast Washington
 latitude: '38.908241'
 longitude: '-76.998704'

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Kiyono"
+permalink: /california/beverly-hills/sushi-kiyono.html
+stateAbbr: CA
+stateName: California
+cityName: Beverly Hills
+place_id: ChIJf7Fsj_u7woARm1XWYSccf4k
+photos:
+  - name: >-
+      places/ChIJf7Fsj_u7woARm1XWYSccf4k/photos/AeeoHcKyTwtYiddkYHqK2dzYXBbdQA_W5TIriUWybNxVUPas6QiLK7XEDnAl2HxtOsmgtwkaq-hTa7CmwlwbQ1N84qG5W-r0KY_TFUNXEy3l4ymG2R62xaNIEMwFQVS4WDZnH1JnqfSsQm7Fxq0IiswQndbnUHPPXAqS06XhauzDm4LuhFXs6BHLQNkR6Jcb3iKRXU8Uekgc8lv842VfmcV7d1EsT9QzitlQak0v11URHlj9UIbi_uZ72POmNBe1wHctBq2H_tEkFi8mnTSvOzWtljyrqYH--tUGU7-oifLjb44C7snqn2qJu2KqWmkDJ3eE35Y-6InNMArwbgnKVTN1-oUtbC3qaJlBfhix-NvFgnEa95Se_XpoXahBmyxjMCL9tygfz0Por1sDZ9aThSIIzxPAX-lksnzv7fuFhBvz4THgrjI
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Nils Hünerfürst
+        uri: https://maps.google.com/maps/contrib/108980284740580063383
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWF-GziTREwrnOSEUZhREw7sXnscPb9E0kvVIYN2U9qTJCabDYj=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-q6rW7wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-q6rW7wE!2e10!4m2!3m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b
+  - name: >-
+      places/ChIJf7Fsj_u7woARm1XWYSccf4k/photos/AeeoHcJSGkmbs8U76T4nzIH2hLrHNPV34kTsdYybIMRhooCCTHcfqOYQXmhusSRfmtxLGUh7H0VQUSDmaVpOsfYyUHRulb_6uNqLpq3GRlQyr1BSf7JZ2H2o3Ajn_eMAC0BtworJqLBLIrEnpfB-pqYzpFtGf7qXOUPfyChUPLQ90XJlvwNLYhiKBqi-aL6UTpZji2vO-QKpYom6hGQJHGcNwHjPvx9fgdne5FPe_TK-3WIgjdAYQeocKoJL9qOSbIvPECu9WrgKmKiAO6bj0EabbQ8ifu8nMpV_iIZwbsvrvxu4P91XcP5wWXol3rb8al-Ye85rd92u_vSnN4k18KSEDztFOV9jQUGaH1qFLOPvcqNmW0W3OPlv3awHT5wFGnbWXv4sHkM00Q-FNHdZ9E0PSBkWeN6zrwRLtXTS8CFxye56iw
+    widthPx: 4000
+    heightPx: 1848
+    authorAttributions:
+      - displayName: Mark Goldsmith
+        uri: https://maps.google.com/maps/contrib/108190176022650140437
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKeugQGfyelVc7gopVlkm1Gyf0BWJBvhUjVvQO3z8K-G4z6wA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDp5PeeAg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDp5PeeAg!2e10!4m2!3m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b
+  - name: >-
+      places/ChIJf7Fsj_u7woARm1XWYSccf4k/photos/AeeoHcJs8fPsPzAEpoZmlNuxOmglQgTF0bLXVD4z9Sfeu5Rm9n_PIHg8NwzQXQxyWAg_plgQmlJqw6kXpzyiVh_X3_k0EUY3GDQ73X7QtTcb2LxJ09yYB_L0hrdyZHd5LPBm65eULzyOKlp-G3c1PYeuNUgJq31hTjTQWYhqK8hW2cKswZ_EMn9QQ1MaQR4MNzbPZt7_aexmJ2Fww8V6_2FAyqHi8jwNstpLjDoM5KdX6GVcmbnM-IvkG00P1pKSH4ME89C_AEqfCMcAGdyRYFjY-mt_9ff8mE-4RNCup9KYFoNxLpc_coRXETK2WkTYFx_BPYPbLp6DXJAWH3ZFFv4chjUoA3ulCedlEGp9LpBODWl7hkd8yAr0R7WK2LWi1hv1FcQ5ABdLiyOlOHDQyxKNFNJFz5MlHf_JscYpmM29pWuDXh0
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jeff Aguero
+        uri: https://maps.google.com/maps/contrib/101672438400341524494
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWwjjrbV2Ht0KDTIkXPL5I6sme7S-QFb_Jh_nMVUh-bgPZILICR8A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDO9L-pzAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO9L-pzAE!2e10!4m2!3m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b
+  - name: >-
+      places/ChIJf7Fsj_u7woARm1XWYSccf4k/photos/AeeoHcKaGX5EOOkMDGQ9vvIA0IPjnNIpsKxP84hlG6COHjorPYWAEKq2bOpQ4JGZJ_CS9Jdv6NfyOO7XPpye85qW_z0S1a9EPmWwvton3ks2IwAkZV0-U3zBqZNBERArQuWjqj8nmPSCcxc3zlDhkjXkJPy7DfUxnmQiqpd8r-n2bWYjBgHjogIV-4MtLLBHngwx98GvofGGJ-hJY8vT5t8LBVzcJ4LIrbt5okmRiD_lLitevTnclRo6QnQWNwAef6EU7nEdO5TQ6TNPDG8wUKlXg9dhy4VXKlBy-poFp3p4XpsNBZLtb0ImA4DnVOPfkXmFBkpqLxsYsfbHr1gvLl2ofooxnCmHdNQmF9nn_SberrFhzvQomRg7B5MUNsauHgky00y8SNvz6jSvIGhLVSC4GZhGqYityVK-Dp_8GguVUzfk5Q
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Hedieh YS
+        uri: https://maps.google.com/maps/contrib/116267625160527493751
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKmviZG5n9x-ypDy0kTG1yw0axjdvybxrcHLD3SwZwkTTIOzA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDgP_gGQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDgP_gGQ!2e10!4m2!3m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b
+  - name: >-
+      places/ChIJf7Fsj_u7woARm1XWYSccf4k/photos/AeeoHcJ3ska1Hxv9cXKLuqlr5uPyUULd_7LX4SxUa4JTJF2K8BApqVNodi6-D5PliqzlB-kbMTTLI0IULu67hQPFir4gjzGdZ5ziZNxzpa1X1Hkkb8UA1YhLT1HHHVjNuUKY0seN5AU8oi-dhcXpjAofQitkwGgy6yHKMEGSfYnawySyalcol1CStpjy58gNgL4Yrzz7YWkdQAPfhSKNDFS8FS5ufFeYcXOgDA1_DyK4caLNfPYxYpk0k5dheXmIS5AeTCq3H3brsEZPRinGUFdtungpKQa7XFbIDzKQEvnakGh8BHT4Hpdo0ZrG8jeYyz9Do5MsDJiZ_Zav-lMY0gwXsm7Xvn2TWY9i5DrEAI0ehFlHY9agedKkaF-_Z75B362LA6055gjjk2G50sHSDMUDQ-ysKbcpfDh3ssux3Cq4DgBC2K4
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Olga Bailess
+        uri: https://maps.google.com/maps/contrib/111321977474592773185
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtJubnmSLcilsJIE9l_Y-oOguZsrD4fZOYemtYNlHGWF3bnL-FXg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvgsqG3gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvgsqG3gE!2e10!4m2!3m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b
+  - name: >-
+      places/ChIJf7Fsj_u7woARm1XWYSccf4k/photos/AeeoHcJbQ0djsd7BIBO0jlx8Rni8BgQDXIISywVyogw1-Rx4LHlPLMNGzTT4JVUXIWQ5R7GC7mnr4XfKdMc-XnZkJ8WLHWNV6Bv-wNFME6wgYaubnhhFhLMWmZ1pXSefyo8FRdEg3sClUm0n790Tso4O1ayjPXDaMprxdcJ4hK1XcPjhYz1LdguqjDkaSXx-DISJlIDr3KzyIqKtSSN7hAd5OC70gjnzxBnd4BHyPxG5WSuQmUR5dJwumeWpkemo7Ap1PklQyXq3_-P6pXKtpkCFj7yctmP4gvcBMvYJT0PgSHSjdEsXob1NrQrA-j7Ktuf8o5VmCwaTgAmuAl_o1yYIBtRg-yLahtRNjE-GtBawDFjVdoqvSrllthPp48W6Vg-7rj0y-X9ZA7x2B6m2Gkif0ptun3wNJtn9Q9c-ZFCEBk77yg
+    widthPx: 3840
+    heightPx: 2160
+    authorAttributions:
+      - displayName: Derek Ogilvie
+        uri: https://maps.google.com/maps/contrib/113558573880709675820
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLsHiUOaA8HMEO5mjLQncI0sO40-2l3hjxtR951oBBQLBEvIQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZrKW_Pw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZrKW_Pw!2e10!4m2!3m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b
+  - name: >-
+      places/ChIJf7Fsj_u7woARm1XWYSccf4k/photos/AeeoHcLp6R58k6ky98lDCZK6iBbsUZ7reGHrhsbs9IGAOabd2QIHztTwIrEZnGh2JJwejeqrxecWIVNbZf8wW48l9IBjDNcOpyXKrTjYVbRr-qTSwiYzUVvoaz1xRknd6fWSJ90eK1yTLlL2nxoJWu5bNmEOwzRHM-iG4BUXkMVXAPDMxQl2ryc3hGO7-FiRGisY8BJSlE9p4WBNZrj-RvQBUTvot12VRWFsntc80wgZPufAYvqEpY_5Jmq-DaY8Nr27uPDLts3juyhZhrIFnNA4x9ba-z6YhTaXjWLWzYToZc3BdIZqx6qhgASsuS9i0lJj97QdAWAkfjNPNnC7sJ-5DeS9QBk9t0Vcse3J2GqwVGcO1Wk9hDhgbQc36ek3xSvplAz8yS7H0t3xXINTb7j-jDjTgmOA1FwwTIlldUSiK4LJmEoX
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Steven Ignacio
+        uri: https://maps.google.com/maps/contrib/104156635139215804554
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVKPO_6alL7MDmFyw2E_z0bokdFEy6Dua1FeV9z_uCH5Yt7AmZWHA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDup5S1zAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDup5S1zAE!2e10!4m2!3m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b
+  - name: >-
+      places/ChIJf7Fsj_u7woARm1XWYSccf4k/photos/AeeoHcK4P2p5qoIXHux7ANw3q3xQ7Ci3AH5qe6EjmQt3qSJoqSbRSocmiAtsfQimR9ais6E_V9SaijmBVZ005ZUU5MdJ43I6r4HgzI9xRVqTwn_FtFEMABl5UDBUvoBl2HueKYJizwHCamDbNYVXbjevHYp5zMmCB8v4hsY5HdUN81JeT1uxYkOPRPuekNQZg9Z6AWi7o6QuEm-HVt2WjAwPBnfRIW_kcrsRZR8TsUv_7WuNWwAn3GnIFC1qRRDyE6klT-Q54d1li5wld0B4pfk9r9YVImXdixTN2skz5Q-5YMQDCeRWZ_52UkZCAmY8XqhsR6E7_BT5oPk10zMiBwuqtvKyG0YzylnB9TZ39cTdSpSyNxRzdcmIjGsv-zw08pEcBxoAmCV2-2fxbA3FaR6xEaL5dLw_2kANYc0gto7Na94fPw
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Hedieh YS
+        uri: https://maps.google.com/maps/contrib/116267625160527493751
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKmviZG5n9x-ypDy0kTG1yw0axjdvybxrcHLD3SwZwkTTIOzA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDgP_gKQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDgP_gKQ!2e10!4m2!3m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b
+  - name: >-
+      places/ChIJf7Fsj_u7woARm1XWYSccf4k/photos/AeeoHcLaGMO-FYQG8ZJ-n8oXxdTGsQgtKP1vgMYXRT6QGwK3D8XTJda65BL6gkH9lxWogZFKxARr_C60Djp7bk8clifaYVWvdxFd6tIse_bgri5IBrLabPSmaLKCbee1TIZOVINoDJZwzqzXTDFhKQ-mMVrJKQEpOnHZATmz1Qgp2tGldWZy75B1fts6SDKyfam55ZQ4CiQuLiMbDij8U00TK6ZiNHwNx2qEu8AOGjvXGAm7WsIgzYNkTfeIhBtElhVVtxIbfC1g19iarB7_rot3OQ-mQq3W4RsD3bwMQQ-VkbzPSxYc2s0h4MTphm9A0TAEjuwG15F2z3HG7GIiO3g9l3Op6KyD7nAEvbHK9F4S6abHoKe4_ZLRmkKx_IFCWcZliJDFA0Pwkfqq3ILltWEoK5PLHqwjOV3LD-bZKkTIteZ2O5Wr
+    widthPx: 1800
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Cristina Jimenez
+        uri: https://maps.google.com/maps/contrib/101807810122453157284
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW2RpcFzP8EtFPk1LwfNSTqKskqx17zloBtleDVoYFpgiIlGmkeJQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDe896RsgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe896RsgE!2e10!4m2!3m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b
+  - name: >-
+      places/ChIJf7Fsj_u7woARm1XWYSccf4k/photos/AeeoHcIc7cGs3vh0aghlROkyn1euyxApZXvRGupdLnn7RMfSdTgs1ogm4qSiekfBMwtGsATCWfpfZNPXvveIkbzYULc1KXYYVhu85afStnUOKkYSHIq2xLgbgJnlpOveDeg8fl1PgNF14ZZq70C-CJw_3sb3SqJTzf7pI7KtdfWJnw7Td68iZBOM2aAyfsihubuMNb1KTZc3_dQlekTq_eK7iVRb3B--LGWt9M29caEb0vpwq3ZBwaDTVP9zMdRGBlUpW-lxeJ9JyjQuFqY5uyrMqNRAxlS-sGXSFRPxLXDYT1-_6imVlGVqagdW7woRy1k1c9VrqAGR-GRTCb7X8jMqmoUcYAoBNeIERaoRBBGf81Q2Yw4PtqQzUEb1REkB2ae_yZ3ynEtKGktCYcAXGbWC0lvWxjcn1sAgVFACVXlWqzU
+    widthPx: 4000
+    heightPx: 1800
+    authorAttributions:
+      - displayName: Cristina Jimenez
+        uri: https://maps.google.com/maps/contrib/101807810122453157284
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW2RpcFzP8EtFPk1LwfNSTqKskqx17zloBtleDVoYFpgiIlGmkeJQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDe896RKg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe896RKg!2e10!4m2!3m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b
+address: 255 S Beverly Dr, Beverly Hills, CA 90212, USA
+street: 255 S Beverly Dr
+city: Beverly Hills
+state: CA
+zip: '90212'
+country: USA
+neighborhood: null
+latitude: '34.063097'
+longitude: '-118.399275'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Kiyono
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b!3e0
+  placeUri: https://maps.google.com/?cid=9907668660709119387
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Kiyono
+
+---

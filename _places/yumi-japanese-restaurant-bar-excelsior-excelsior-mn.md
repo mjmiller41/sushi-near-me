@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Yumi Japanese Restaurant & Bar - Excelsior"
+permalink: /minnesota/excelsior/yumi-japanese-restaurant-bar-excelsior.html
+stateAbbr: MN
+stateName: Minnesota
+cityName: Excelsior
+place_id: ChIJKSJly94c9ocRNn2_wVwawz8
+photos:
+  - name: >-
+      places/ChIJKSJly94c9ocRNn2_wVwawz8/photos/AUy1YQ3clBs85fwkwmsXNyZUduRWoTGe365ZQ4BU4isaOQPDDjahKEaAyHdIfThGNL6tDL6y9ePcYpWVCN64Ed6bV2YyiaCJSCunWHiHnvuSnb9HE2xXgLRekwN3aC_DePhhIz6ZAwxVZnxUkrVl395MzyVFM6ZDBwB5e591Ps2i2STTQ-8M_whwELEn5sjz6Nh_MlNOE0pGND8I3_4Ew-_iWi4TJ1oClNfdJ0QNuBeI9IYHkNToxeAQ6bKXH4ziiqiD_sx2SZqjGwgkz2hS_H7AqzRs6ouTd3RZc1m2R9mE-MQb_3iM4R189jJWYbw44l9KYCPTe_vb2kNxN3CpdYkQvpqM29z5z7RKK7wv4dRXrVwOgRAjeezG3jntOaHM1azlu1t490isdqUaOGbHf-1k_dRlkgiIFofUCU2_v8MIgd0tjhuK
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sarah Mathre
+        uri: https://maps.google.com/maps/contrib/109820261861731974031
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXwP9Knck9PvAtu0QmXn7-a6uA7B_8g4z8iTFeqiK2Eh_ngXNHQ4Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICurdaD0wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICurdaD0wE!2e10!4m2!3m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36
+  - name: >-
+      places/ChIJKSJly94c9ocRNn2_wVwawz8/photos/AUy1YQ2jiYphn4QFdSYns2I1_flquUh5d-fSu_Aywu0UkUpIiZbM-HBalXdokVFDBqIeNLMpEAbuawKeLCqEkx8_W3mXbj3Q3FT_8W4cRNR4SZAOhAI8bnOEyD9ACuYDg0WRCFL4V8SQcK1YDSTD55VpSbW2JsLSZDD3LJnj8ZKbbsXBF8a-MwCMb2t05NDDaViDtR49cBwrdsnHfju9sic8RcmbRQaovnXnt2jPcVqNcRU5y3mSIzde5bCTLtz1C4A2wHvL-ae72kzKC3mwocqsvHsjdOfmC13v9OYDFq3GX5_X6hnECagML0Ii1efL-kyFFZlPHt100lBqFiKp1VDSH7IFLwsJo8OQTzPkQqKZrfht_1JDZmyVGl5wZ3xYLKAtcqdcSy88VKYUo7T_9gQY7oG2l4vz5MjlXFlgS8AKqKoqF4bR
+    widthPx: 3844
+    heightPx: 2715
+    authorAttributions:
+      - displayName: Heather Alderink
+        uri: https://maps.google.com/maps/contrib/104719285811945929302
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV1pUdK30m3q83sGfoZpc160XMMlM8uek4l3YjaqjQQ6TODUBY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID6wKC-ngE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6wKC-ngE!2e10!4m2!3m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36
+  - name: >-
+      places/ChIJKSJly94c9ocRNn2_wVwawz8/photos/AUy1YQ2fBFsHzD1cBgbm1eGO-fLwbLxXeM6uZFG51oP7i4oL7tgjbOWIA68AZSUbAlHpcegdhgAka4RJn0Kg--n7pU_VgOJLMnfjErkoxzIA9wg4hCBMNSujAEgfprM6EAIuwt93aW347AldRtjhImGQ2vJe-mtCPVuYAWfySWUj7kX9TUS7HvbGAT8RAV_evqpJZ0VFxnN1FIiqWB_-yDmtIml13O-UXXjHBAW-L7vQhK1NhtkojwCvkM8uDfNi9p4FfD0QC1kmqMwP1HsNDr3E9inuB-YtOiZvBWn6JGmKqZRc2EsufZA0csLiZHMs0cp5zHHCwbRvN7aTKGQ2HcvPgFzfmcsM8EHue6-CyBbPnDSJt77e1MZlzQ4TEHdA_1ZtS6JVya9KF-bFSKh_qaVssEiQqwc6PQD9oHCuESeEeMjY-Rze
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Tanner Ike
+        uri: https://maps.google.com/maps/contrib/103988425678684313031
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUzhHXvFwby9sHAEU6gX3wQf7BBOUus77gkcGYKfF55IVDb2y9kig=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX8uqsjAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX8uqsjAE!2e10!4m2!3m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36
+  - name: >-
+      places/ChIJKSJly94c9ocRNn2_wVwawz8/photos/AUy1YQ2pAI8vM1gt1LtGIGo8uvFiZzbtH6GQ1gr-_7npPKzDfYbMVoOU6qP9YuwDKwGngiGbaCvJjr_y6oqCU8M2cjnYYTSHnDziAmUjwN88mPSdIdjOYaC8BzhnQ9R3AV1ROfAi8JT04NspxZzZB71pnHqwcrHd3bQQcx_QsB6TffQz4TsKgqJy6FdQkMWbjlMja-ALu4XWrAVIndOSkn323HFwaj_niKWLYxdDe_e5onPbcFp7CstP0kG8Old9cUZ_ZcLNw0osnkkGsxFhw-jX-7rNVotHxnHNH5Ses1JMwZ32YJCxe85pYPSaRAqCLklCpoemgKYO6VOAWd_HdEY-SjOgF-toD1hJcr1vbVPfF1GD-zp9XmM691xm0WC68fPMjNrzvxi4xbZHfvS7FDVxEhFQM6Hyd_F4YBXNrEmhV6cmEw
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Kamilla Lytvynova
+        uri: https://maps.google.com/maps/contrib/105622231588140809313
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUS2nCADZ2SQbqn7t1mffteH7w1MApLnQ852OI0fCMU8VQpKC0MNw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHx8_KYg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHx8_KYg!2e10!4m2!3m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36
+  - name: >-
+      places/ChIJKSJly94c9ocRNn2_wVwawz8/photos/AUy1YQ12Z9-hzO5nYctcWXcu3Q48Ysv-QKxjLYqCodVR_Mll6aZ6EwMLFn5PbbUqntrko7kMabn5VTCvaqVgtrzB2KbhsL3IY2bEyY_8baU5K5DQBQ3KxZ6AhiXuPzLaVNSQBIZDpubDuTDcrIBdNzaLNUPkya9yNYgdqNozRSKj5ip3m_i5g6u9RaRYaTucks3z16YZITrBkishlT8VnCnrBDPi3GUK8IIi1U4NFs3U2yHrcwusMwJCWqCGwqkMzqo7znT8kPwBmxWU1_QRnvIReqiUFjm5b0BfIeOvATZNgJeBn7vwmi1mt1S8PP5Ks9vQ882xeq5pwpWSoxKzVmBI1ctRP0xY9vubyecyDcPIvgCOipxmj_IxD1q8cw8a-Ih9hoKOKoANgPKdTpXzZvYboeb3oKtqXhSpU20-F1Hnj3oqcA
+    widthPx: 1080
+    heightPx: 1920
+    authorAttributions:
+      - displayName: Lucas Schottler
+        uri: https://maps.google.com/maps/contrib/116258187334107029059
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUbCYs5fDiKzA72pSeUHFDGKZ-A2_6BOmzVKsg_aXT1Fv04bc7I=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjgefsEw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjgefsEw!2e10!4m2!3m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36
+  - name: >-
+      places/ChIJKSJly94c9ocRNn2_wVwawz8/photos/AUy1YQ3JVYY6PuXFGLyZUWJS5FrGJ9kqonOOeVBKL_PJZNYYXoR92ODiiitNf5yZQyF7V8WTIpXQTkN1U1WtP76RBQDORywmJCwRX80XT0Kppox_Zu2tAc8VgmNDpv3D1hTZ8Oph3xszY8AOYtjKt08R09QVBNUog6XjMAPK1D4mQ5PsgwM3J4mwmiQ2_1YwpRJICRGl1FOeSOYaG2KRzZg3udY1NmoWnCkYq0U1kZcBqNPnDovJ_QTqyhquaUKmwgZcBVNNTxmEMgJlaedPomsCZAODP7YyOu38YXxlnKj0CINwJQMlCIc8ZO4yut8UKkKK8QNUvP9RhCpTmbqogUPSPHG_rtvC_Heh2UECYlKzB4jGFu_QSfpWlMLv8AgCjllayffnvJk1MxRw4WZZ0AC2B4bg_VXXu8AvjZwjs3-oaLH9bRTr
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Laura Graves
+        uri: https://maps.google.com/maps/contrib/109483101564339997626
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXdSxKyCc4GxEBQoKPZX0bRftjB3vdKizz7BnMdwNu5QdMXO_vH3A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICp5fvt4gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICp5fvt4gE!2e10!4m2!3m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36
+  - name: >-
+      places/ChIJKSJly94c9ocRNn2_wVwawz8/photos/AUy1YQ3P5UJFi0Snfa3kHMeGIo6VAaNyo0FB4BJD1-M7uqiJwUgXPvnGt4nTDsOf2NIkx7eCbBWziNtM1qtoH__xZ2UXygkg8G7svoTEI3pLr7BqVdEnmFZ6F9a_hAUcCjgWluNmSDEmjtoVMObZdcahaElcJ7GbA5MQrdz-nOiCMozNpqSPfW_PYjnB3WwN-JsoGvZpWNRhz1OIMEuMaKYSRGw012qL_JbRZlnMefLpOOW2wVfcEprFE3IqYoPTD4_6i8DrzddvhbX8B3_LqdO9-zdWIuyEtZjFdEiuIHI0MbDN4hNFbfO85ChDORol5vOJkNZBZpOStHDcAz9UqR1ALoe567MmpZdDH6wVM3cGXLRdO1az8L4DNWk55oJc7taiv-AO3cFfvpKf9s0O-H1zoadHhiA5cko6UxogO184nY2DGQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sarah Mathre
+        uri: https://maps.google.com/maps/contrib/109820261861731974031
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXwP9Knck9PvAtu0QmXn7-a6uA7B_8g4z8iTFeqiK2Eh_ngXNHQ4Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICurdaDUw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICurdaDUw!2e10!4m2!3m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36
+  - name: >-
+      places/ChIJKSJly94c9ocRNn2_wVwawz8/photos/AUy1YQ11ZDEuNiN1PTm4mAeujrpPPUvIISVy8B3t0ryZDwpcaFTZ_l9cZ2eQbE9udJV7d_-sujr5kkw_Z8dN8qeA8kn-wQQUn3HHl58Ryxt2jN3gPLHVRqpln9kHqN6EVjPGrdOyHM2bNESadl4VhRoHUJ8aMCeniCkd6OZEzDsP1i4ITd3RO_m8Ts5F36tJYOhSAah_w2AEjhFQoN8pUQnBK4v81F_kM3lzGQtvu7GomRz4D3OzX3KTQCz7p2aIRosBNqSAFZmyigAE1WNEs8nheNDaxmHXKBORD-ars528hxYQboB8BPNOFsksNcYn2XzY-bppOainWAPQCyN8QFcviJuRpzh2o917k0CjVrbZdA0Z2wZ6xrFz-hrrYs4b79mnuO9yxU3GPepOgYWlS0BxlJ2FwQjgpI8VshjnhiDf8PXYFBkQ
+    widthPx: 3264
+    heightPx: 1836
+    authorAttributions:
+      - displayName: Lori Hessian
+        uri: https://maps.google.com/maps/contrib/106277696011555615009
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJeYvyOvKqstizD7xVWWhR1Qwc18jD-eNAcuWkqSfVVE-Z9RA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEhoSD0wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEhoSD0wE!2e10!4m2!3m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36
+  - name: >-
+      places/ChIJKSJly94c9ocRNn2_wVwawz8/photos/AUy1YQ086dk3xRVk85OrlI_LHGAr70saIawJckk47sY70BSGX09V4DEAYdaMwhxFPxCjKGfaoMo4pPQBLaTvihFsG_kSFY4fgHLlSaEYVpbV8SvmxZcHy43Bub5eMqRBKLRs6Lod1hhgKFGSMEURhGNWA1ymkAuBZ-yel0h2r4n7EqI5gJPt6gn-hX3wp0Hhpl6phGZ47DTIFuGCoZKObBMGSHZdpzjVINlEJ4NgeIx6WFnvPm7wDACIyoELC6hntaMD-Q09ccQWt15aB-LMkTglRBl75I38IIHKYft-CV_8RHzLtdptwuAq02jid7rvzdhAyHzbvYacDKKRuovMJsJ3OTcFkbmGVANY4tVt5kAwmCbXWW1hzhhBubx2PhOx9v9P5Hi3Nqr4xywYf8llcO-iWBAX_Rp2kWdbsiQPZKEWNn2Nmw
+    widthPx: 2406
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Geoffrey Serdar
+        uri: https://maps.google.com/maps/contrib/115540423015835778330
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXYXIpNp-iJLxeV4GTcT9URO2Pgd4V3M_CuPceLE9rOWcQul0E=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnjP2tLA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnjP2tLA!2e10!4m2!3m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36
+  - name: >-
+      places/ChIJKSJly94c9ocRNn2_wVwawz8/photos/AUy1YQ0dqC9YozbvsF5Tq6nHTSp3hdvB0_fVJIVTawcgF12VtmuV0tYDenaHGP6rmBH7HE7uRdTyK2DY1A-HoHMlvFm86fKUMN_GiLPuazUflayHbh2R4FuwiVXwtM2JeAbnrIgmqbx-veCcjm0vVPyB3bXqW1ZfMSBlJfbLgEly2ieHK9Yu7X7sGOc-7vGiOxHWigzxq6CY27PgmDyUovAr4qpLbU4oXx-02kNoISjq8IZQPAxZrnsbX-6wvWvoXMy4H7lGYKDKJ_mq8NkcPL9-TXcl8Xdqvy7lDkproF_Y6rIqT81FM1_3mDIWP2Fg1nJWw8piRX8AhOozuUrFal-lRZGz114SWrscuGZaEXeXY-7ol_gGWTIlagVjWLEgG_ncZ6WVtTHHpLMa0le1cYe_e1qYadXOTrOIVYWsRLW1Jyv-XA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Trevor Paulson
+        uri: https://maps.google.com/maps/contrib/100822720948033782459
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUHUOSo5Tqy7Gp6Lbf2zsqrJ0mpJKAUZnkGorbCj51TO67PDLFPDw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEo_a0GQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEo_a0GQ!2e10!4m2!3m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36
+address: 217 Water St, Excelsior, MN 55331, USA
+street: 217 Water St
+city: Excelsior
+state: MN
+zip: '55331'
+country: USA
+neighborhood: null
+latitude: '44.903091'
+longitude: '-93.566303'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Yumi Japanese Restaurant & Bar - Excelsior
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36!3e0
+  placeUri: https://maps.google.com/?cid=4594545030537903414
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Yumi-Japanese-Restaurant-and-Bar-Excelsior
+
+---

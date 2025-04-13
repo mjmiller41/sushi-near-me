@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Kazu Sushi Burrito"
+permalink: /florida/jacksonville/kazu-sushi-burrito.html
+stateAbbr: FL
+stateName: Florida
+cityName: Jacksonville
+place_id: ChIJj3ubfhzK5YgR2_KzbSnZduA
+photos:
+  - name: >-
+      places/ChIJj3ubfhzK5YgR2_KzbSnZduA/photos/AeeoHcLOjlpgWrU4aRCpqqNXUzffyG8trc-asJpIwZSsZoA4R_2vLKzYlWseIfJ-ms_gKrstB_nAdrBf5zmWwp_lrl54y9yWizEorlxg_0i3sImnquhGQWjy9olxg2lb0fw2JDL0bgNt6pufNhXEQezx9mBVql94EZz3RR_TdV9zZIlKKu9DAahiYM_LFow0egJor6cOLw0vWAzZv974W3k1QAhQrgquoPBjTWlNjPKncIMBR2m1D_TuMKVmsamd3JkuFL4YABNbftaS1sOp8U1wjjofEaA5uSADruEg9K9RBfdzkx0yw9V2Q-27FcdBX10z9ezs22BpXU--iBX4Gad08KX0Vp-7Y_IY2aZF-m5OcLJ3PoatYwX-db4tLeJ5q0kk8eAxazJkciBwkposp1vQnWu-9LhWuqWgq4HhL_EYMnY7chY
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Chip Edwards
+        uri: https://maps.google.com/maps/contrib/107843091442816304631
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXfJZrCoHRnW_J0ivlcaBFb11O7nKBqtw8cJLULSDV-vLxkN91xyQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZxa2zpgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZxa2zpgE!2e10!4m2!3m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db
+  - name: >-
+      places/ChIJj3ubfhzK5YgR2_KzbSnZduA/photos/AeeoHcJNPic82pYU9kXmLF-mWCG3qrs9aWfOwfso2ZcrdKxSeEdwbAUVC49JlM3avK27mTDZtjoRq8x4Hmzhg6DrJFWrg7FI5Z9EFQjJO4kBnmmPkCY8FQBCqhNEYPfdcDBvfD-1H8TMkFOdn9ezmWCtMaFiSxQfFhO8HWpti1-kJq5j8L1CDOc9mBHXf4Qx-Lk1Rxg210K3UifHck1orSG9vj_ZY5iDmcxbtL5kLlix5q9naaEKJADNoS2FYeJ_RSs2IQaJU2fMFNZ1EOQgLZAtF7f4Wr7-4O0VujbQH3kQ88d3FQUBbnh-up3PTfgKF0k7OcmItTXMQk1Q0r-82IR6tt_gxm9jc8pLsrY-sGQb-Bd1aZ6et98HgpP3iMWppzZBDk41ihHIGjw5H-JHxI8E2W_AJl2_7C7PtiGFKEL2uxgMYg
+    widthPx: 3696
+    heightPx: 1796
+    authorAttributions:
+      - displayName: Rachel
+        uri: https://maps.google.com/maps/contrib/105307669006465098207
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX56gH7iX_ISgZZgvaEm2kNrI7FnUIOb1Q2DcKtOxjF85ombok-=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE7tvuSw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE7tvuSw!2e10!4m2!3m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db
+  - name: >-
+      places/ChIJj3ubfhzK5YgR2_KzbSnZduA/photos/AeeoHcKCVi5d2ZO2VswCj308fK_gKdcjpmQHwvsUtkMyO9KGUVROyRJHO1M-fBZdZZAn7wCzULBSDHzsiFzoyqulzvjkx0ag_SKhX4mSQSUPHtlKs4WshWpC9Q247WTvWsGwj5Mi5FP6QRHne0VLblclB2QhfLW5RDIu6JRCFTBX2uy22003cU7np0hv7FFV5vQd2HKc0_UsSsRuXE_TNQ6SpsiEL1_tiDlrfCW2X1tdOxGcelcOyWhwgTDITXp62R9tFjkSKN2hx720WrkWEc7fxeb5GP_VPeniu-6DxL6lHDoYYjizEy-wiMCNYpS28k2Mv6dnGa_-RDCO8KtBQ4uoNUn1jiwnUbcl7BlgCSJ1dbsV83CjETTZHHK4lYGKgJJI_1d7zD4L2bxV_gK3K19DWyhNnVBgFpi1cnHWoRwQ-m4Yhjqc
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Dreama Tuell
+        uri: https://maps.google.com/maps/contrib/115736452553098267308
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU8aFJyNvNHHAFVkvp1LzcXg7rQIwO0UFbQqkS9S62PQzrrwE5dHg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDh-4bO5AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh-4bO5AE!2e10!4m2!3m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db
+  - name: >-
+      places/ChIJj3ubfhzK5YgR2_KzbSnZduA/photos/AeeoHcL-kcacUjkC9rMjOZ_muVc3GwrajDJFiVCOslOgB8iUCDeQSasQMGuq1QoYql2w69mcsURyvjX7Km2b0rwHlLGRKU3LifPoqS35rM76pKMZmMOD3CTipVI2wPHHi5wCZrAMm9p-kgikb-AaNMGQXZdM9SlpVI5qQsNgNFW48soq4mavRw6Qp17jQEOzdVxTHW9SWfh2tN9ONGobM83bR03QvMzLZaPGabFct5cmENXGyxFKPC18s3vgpmZbyPcS36RYQ2GhmYc8ybCuZoet_QxXEcNT1VFxe2fIN9PsweGWvEQTC6jDKU2AQcQdbkgHeMIkzXZKAKHxGt8nYxOgl3pl651lJO2Ff33jPHP71gi5M1huFAO9xngjZ1v2ulz-l-nTep4hEw-xiRZMOv_5Se_J0KS4RStUwAJNxgmgb8JeJLtU
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Chip Edwards
+        uri: https://maps.google.com/maps/contrib/107843091442816304631
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXfJZrCoHRnW_J0ivlcaBFb11O7nKBqtw8cJLULSDV-vLxkN91xyQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZxa2z-gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZxa2z-gE!2e10!4m2!3m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db
+  - name: >-
+      places/ChIJj3ubfhzK5YgR2_KzbSnZduA/photos/AeeoHcI0tiou31Y6uDqxYQVKHGew8HLdCcb310VXoeNwzkPFOSKyVb9M8-vxK8XlUtB0UhAoZNbmOW-V5WSEmtybc9NsHFOvyJzqxl646n6Ib8gUfwDCo8R7Vcq-wtv_Ilrqcs7VVyylBT4lY4anq3H_PoG7juSDvUz5yyBRus7lC6pgiG7_LMsPKz0KfrR7Cn-hyQh3qj1R_HmmjZnYz2hosB6AawR5VIF4fw6qTWZBte6OJ8BolqPaEnJadJ01N8uTlMHmrvcfARHdPiNCoJwq6iG56D0H6shpOyt6E80ozH2LWFWz9YlLuNydrxuzkb3qTJo9e_Ta9Y4WcnjK36PGQz7l790U1J8KGg7qDFHI4kGJ7R2a8emw36V_wRGQRhiYvw83fqtu9lmazrpHBr7mGTw6yDjTL1T0GuWtmYcb2JQz7pBi
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Chip Edwards
+        uri: https://maps.google.com/maps/contrib/107843091442816304631
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXfJZrCoHRnW_J0ivlcaBFb11O7nKBqtw8cJLULSDV-vLxkN91xyQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZxa2zugE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZxa2zugE!2e10!4m2!3m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db
+  - name: >-
+      places/ChIJj3ubfhzK5YgR2_KzbSnZduA/photos/AeeoHcKPUVmBCiaiZ_4tWMwj0le5EyZUqBYdzCKxF0yAAfvyr41R3A1-umj_orhPEtKQ6aR3AzjBKCyHb6ebm_13m7HIMKb3GuJnVqq_SoEORao9ia5-sJICV9mVMvf_Uj9qd2hi6FclaUgYJZ3XenCUHPc9GGa3fYyMuOyZKQ61tna-9NIldNNwljeUcV6gPisV-9H70O0dPJJRI0fKiXnylXte5YFFJTOt4sI7jV-WZqOS5DIqc7AEPGhDOZk2Y970W03Kn5R9_GAaef-gzPFMdLwp7_lVm6Sra4JZrbm9g1rYHe5DkgwN5p_LKthSDIUfBKMlV25KtZXqLc_hjlKCCHIRfifRwCvarSu__k3XzG9uDCXsEccCmqmgg4_papjfPWMIv9qqi82UttywgI7THBDG2-HrM6otepxULap1jsQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Loreane Beonca
+        uri: https://maps.google.com/maps/contrib/101393337727613191174
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXjj3HFLzV8mYCvxabMo57uSgcfjgNuVrQ08l56RFHWiYd8rtKI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD5uj9ZA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD5uj9ZA!2e10!4m2!3m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db
+  - name: >-
+      places/ChIJj3ubfhzK5YgR2_KzbSnZduA/photos/AeeoHcKyHSJX-CcgBM6BHysli2R0c6Sz9Z9kk3cgylyiqq2ICgK71lvgf7nouk3YsmxsqGKZliQB7OV7iP-ZqKOeNf-9_OM2K8scSUALP3zmYL0fRPVyp2oJk2aX0N0kfWnIZN2GOM5G-PKxto8EWBgHrKBakWpKf6TirmKz0cmkbsQCGMJXbrMIZnmQVQOfTvLeKIqTfCR2WPhv_PZHXwZw_I3fI5RLHG7kQvm0JDOYz3hdSlzRSsze7CezVLYVNs5nNHWraoS3EZpJK7BuroUtyqbVdFRJxk5wtstRkuBPEKKulo4xXv0jHCMGsaeVhuHtUVEZtBTDGoLGjKIGtvsQH2cqloZon7vKWeT1lMR9TrWob5qvS4PR3bIG7WD7UzaHNwqEx1rGxrkNz3g3kMIUK0z0P_rkWrQ71PJyB_-sPRymaqeb
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Loreane Beonca
+        uri: https://maps.google.com/maps/contrib/101393337727613191174
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXjj3HFLzV8mYCvxabMo57uSgcfjgNuVrQ08l56RFHWiYd8rtKI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD5uj9pAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD5uj9pAE!2e10!4m2!3m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db
+  - name: >-
+      places/ChIJj3ubfhzK5YgR2_KzbSnZduA/photos/AeeoHcJsraoM2eN63-ER2jhXoIXx-mM61NO8-NGEQku-W3SUNPx870Hm6fxhjNj9aW1-GIzsViwJnxe7djE69FEX1zIA01TdNNcxnci8qDdC2AQFhUa-LQjA4fIjwRYvKWauTm9iiwsNhZLHeXkwJrMys24yivZ5w2pPhmdUxmY5pahjwF5JlleT8ks2qZE_pEMwBHKBSOTdJI206vyN-I49XSXBdl0v0bYAgKTJz_CnaxJBIXO35xAiV5yz1K6fbqXSyk1ZXt6Ag2AaQFeuoOVQoHxdM2rOlV0Y6c7uM46RP4a954sl86YgVYZsw0BLgq5hwdCMWlrHiRro83vqZmQQWN1hhkbKBq7JhrXj35iwCrtIA3Vpqxmd4uqdSXvTHIlIaiSij9j392K3x10YIV8lz6kEIO-OXuIGU945sgbEJCiSCg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Bunny Knows Best
+        uri: https://maps.google.com/maps/contrib/116983675857992775929
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUx9w7Sp61NXM6z4juYNF54bizsLECqukSqcscYgwGzbK_V-rnc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJw5ysFw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJw5ysFw!2e10!4m2!3m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db
+  - name: >-
+      places/ChIJj3ubfhzK5YgR2_KzbSnZduA/photos/AeeoHcJKnUaNcnXAiqiH-ue-IKu3ddqJa5BtOIuApKJMT5B5PDzoiPNx5HAUdIb1Btg0XaIIHr3Zc4RpxaAiDQUdYLHGXAcgHjQyc9HTKph9xegRG49-bMHtrzYGu130Y5f50YBudCXZdB3tSOM9A24zBDjCSTD4s8mTPBP046-KNHp_NFrTof7UlG6a4p6hO8qQC3HCzCgVO5wTc9cFm3ej2HYlvtz6BWWAAx0FdAUXm68YUM86-FVy1UMSmpgMJcGcOf25hrgCJ_BPj4roioIQ6UCi3jlAXzTHbtxzqgDdDt9jWRIAeTFajw68UBruqVyndwJUxxx9dz7uZlCaQQF2uScZGbdC9EdiphBWPaH2AG6OD9dBwYq6qAKqlJkoCHmUpF7kMTArI2KnWfbMlIssZ8aKWnt7zqiJfiU3XqbTHSTUvmg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Loreane Beonca
+        uri: https://maps.google.com/maps/contrib/101393337727613191174
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXjj3HFLzV8mYCvxabMo57uSgcfjgNuVrQ08l56RFHWiYd8rtKI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD5uj95AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD5uj95AE!2e10!4m2!3m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db
+  - name: >-
+      places/ChIJj3ubfhzK5YgR2_KzbSnZduA/photos/AeeoHcIUpiYndzyAKvvprbHPp-OFSajlD7lcKObiV87oO27KqBuk5addhjitvC_d4aGHHRIIeWUJFtH75YkwYEhTYCFyFJcS9zv0Lmgt4ieebfV9OKlty8U1nUbDLXv8xGO6b86r1NFxudK6_Hj46_DS0IGEWgMp4U_wKvXB6Elpl3nM3SH7TfPmtqbtgGtxlTI5OOrY2BM8X1pkoQmWPaPVUU5DNwcVDD29zPjorhjd5VW281cchXlFfoHHa42BpEkfq_9NMRvy0vkT17PXDdg8TzQnjLOM9mlurIoIWY42WAHwSdGq3c7H4aEUQXTvcTuUbh1XKyKW5wrIy-dzkOSVWq4I7q_8vVzIxoTVhE8nmmr3niaH2Rt-Esl8dLypO3ib9DSeLzcAdj7wT4jWyZiaiXVLOpKbBxPRScR2NT4EJg1kViZZ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: josie
+        uri: https://maps.google.com/maps/contrib/112396264765495830879
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWM1no6UAwje2Piu_zOc1K2BM_UtabTw8c0xO2HD6lLPHxdM-lq=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv06W5sgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv06W5sgE!2e10!4m2!3m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db
+address: '6025 Butler Point Rd #104, Jacksonville, FL 32256, USA'
+street: '6025 Butler Point Rd #104'
+city: Jacksonville
+state: FL
+zip: '32256'
+country: USA
+neighborhood: Deerwood Center
+latitude: '30.244254'
+longitude: '-81.596610'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Kazu Sushi Burrito
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db!3e0
+  placeUri: https://maps.google.com/?cid=16174353883705111259
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e5ca1c7e9b7b8f:0xe076d9296db3f2db!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Kazu-Sushi-Burrito
+
+---

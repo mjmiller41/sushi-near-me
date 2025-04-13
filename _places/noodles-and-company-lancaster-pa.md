@@ -1,0 +1,210 @@
+---
+layout: place
+title: "Noodles and Company"
+permalink: /pennsylvania/lancaster/noodles-and-company.html
+stateAbbr: PA
+stateName: Pennsylvania
+cityName: Lancaster
+place_id: ChIJV8X2RpojxokRv8LuDiJhPjw
+photos:
+  - name: >-
+      places/ChIJV8X2RpojxokRv8LuDiJhPjw/photos/AUy1YQ1q32GSEUVPPzETSvzpUcWBdKp53autYtTeW39hN-vc8CjAt6yaNHmAxpXcVaFMybmtQsCB4rPsovl5eLbW8--lXmhxVIYpie4lAFWZQGMPqw3XtuemGPDpQBM6BRS8QUyHUPrTElT6IMrSLRAmwaNb62VcLetcSa8zwCQim9PjfuUhP1Q0mjcYp6OVgk3m4bigaREcmAXotiST5gcGanWn4x9X4LGm_Ajm0UdgRJI4dpocK9ZSgCor8zzhZPGbzDCe5HVo6o2EQAw0enU-zbqqNVh9WVPwow4FKGFogWukgyyDNWqx9pqPggka_uP8rR3uf_DXnpahAeB4rrfWm-8pCDnCXXR8H9Bp-rYHS267jnBQWn1W_W1Q0JJF3iMcU26UbST_7R0bs6R7CzkB7LPMq8on20FlToSvVDY65vQ
+    widthPx: 816
+    heightPx: 612
+    authorAttributions:
+      - displayName: Sean Anderson
+        uri: https://maps.google.com/maps/contrib/117133671467881338918
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXlhcY8VxyVIwYgLP9ApO1sfDSosBfNo_qOjoe34RVaOrs5oUG0FA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDcxa6hbQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcxa6hbQ!2e10!4m2!3m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf
+  - name: >-
+      places/ChIJV8X2RpojxokRv8LuDiJhPjw/photos/AUy1YQ3_hBqmkl289EXnlzcpxurP9igMZEpmo2PAf9GVYZLTqi_Tx-NIBRA3uxM_Rx1jaM39Oy2coVdqhVbWAAbqxIbE2nRxi4PGZZd0UFrRAxyoiI_no7ShO_hUqkOABr3gjf6qri0pMyYkcnMi9xYzlpjwzm6A3H5v4CMRnLuXcAADSE2ihUHPvDK6liUV6ILbEqGgmCcVAfm6Nni_HRL2dsw3yN-cM61TPa5goYivLwf6YowQLjFBOpYWXa4vw5t0HuhJkQuECffEOiPumX48ZEgT_PRVVOByZJ44-8RJKd7n4g
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Noodles and Company
+        uri: https://maps.google.com/maps/contrib/102876495348353487743
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIc382-9YuQT0qLvC5NjGMlkn1phFGlryAGWN_3APujbzyTVAw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNUPoT99MQPtFml6ILRFQk6gUbfoBU70nfSg3a-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUPoT99MQPtFml6ILRFQk6gUbfoBU70nfSg3a-!2e10!4m2!3m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf
+  - name: >-
+      places/ChIJV8X2RpojxokRv8LuDiJhPjw/photos/AUy1YQ1e62X70uxUOG3bgGUQE1rV4PknlpnU3Dy4JqqqcghMlgUY3aOc23InMvwieFBNaWbVYYJnTPGAgznyaVDYJx4DHT1YdU3gN3YLUiUeK5xfTb_L7w2ecIdmfYjMinAHQWaIAdjaDQ064puNvOdtTpAKMvI6ksC4TIXpxEd57DlC7wnd0k6cLD6qbrCkiWWS6G8JjLoo_IOIwhAg7QeCQdeFCg3z0jkuVgNpqk685nsNDZLcv3FduXF9tewN50fyJ38xaLb3HhObORyIvH6ZZ1a9k-Eb21nqmfT2_m50oPjjYw
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Noodles and Company
+        uri: https://maps.google.com/maps/contrib/102876495348353487743
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIc382-9YuQT0qLvC5NjGMlkn1phFGlryAGWN_3APujbzyTVAw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPzxSKoEdYawT4Q4n0iUAN0HfhuYpCkSqjpBjxd&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPzxSKoEdYawT4Q4n0iUAN0HfhuYpCkSqjpBjxd!2e10!4m2!3m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf
+  - name: >-
+      places/ChIJV8X2RpojxokRv8LuDiJhPjw/photos/AUy1YQ2YGvtFSpxXIMofLKXOuMS4Wtoqks_-jaxqbwXTk5lHT6X3zlxRk3lV1o7THwguvKGvwZGOJVlfAeWbTWZ5SjsYA3pL8DPeaIWhWesN7z-5WPQilW7oQptu4X7pZVwWZ8VFvGVLR2wldDcAVaNtiassx0jsqIL0GvQB_VORPARl8w2agsPc6Qr8HF_R3EVYkjk1oXmfkv7LHxjSuaWnJqJzChtqzA9bXZ97m96ba2EBy-1Q2H2aNhxJCLNEkcPuFYGBcJmtaGWLmnhJ1R3wOoyMrtArwnci_VtKLYml_PovmQ
+    widthPx: 1200
+    heightPx: 800
+    authorAttributions:
+      - displayName: Noodles and Company
+        uri: https://maps.google.com/maps/contrib/102876495348353487743
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIc382-9YuQT0qLvC5NjGMlkn1phFGlryAGWN_3APujbzyTVAw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMLgt09JmPj8z3VTtst7DFvqkQ9ONi_jnTOnyoe&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMLgt09JmPj8z3VTtst7DFvqkQ9ONi_jnTOnyoe!2e10!4m2!3m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf
+  - name: >-
+      places/ChIJV8X2RpojxokRv8LuDiJhPjw/photos/AUy1YQ3URsIBY5Q4nUoixYLveUGiR7woXBH-4_e4be6Mop6JhOvedzdx_yV9LmXlNrOICQY0NZeNBhACcrNW2uilOq1_5LX-i8JFqjbrNT9z6uO5zgFBMRysCAVB64GEh8KV3WteX18zJrksW-2RoR3v8glpfuKVm3bh4WBhfCPJEYyfQ5477rWm61nqErzF_MHcgdUrymWOh98oHqnWK_bQbsbKyXSmlxg7c89Zsjm7XI-mRWT-0LQ12m7GsQQlYjA8n_HpfiPtgxrQB5oVWLM-ye87k-TIJU5cNz4EYTlxVEjOHQ
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Noodles and Company
+        uri: https://maps.google.com/maps/contrib/102876495348353487743
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIc382-9YuQT0qLvC5NjGMlkn1phFGlryAGWN_3APujbzyTVAw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN8aBZUHWXQEj4B1WYD76UI5kl9OE_zlAvGPEmO&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN8aBZUHWXQEj4B1WYD76UI5kl9OE_zlAvGPEmO!2e10!4m2!3m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf
+  - name: >-
+      places/ChIJV8X2RpojxokRv8LuDiJhPjw/photos/AUy1YQ0hY6lbrPoI6zdPdpdJtwW3Wt59sl39LTQVO8Of6FaZpqK49tAu9EfJ8IbqFY2AL8lv25j7WwXBu_CxIVa9UvqnvEkSBD2Gi2XbmsIwwYeL1UMZxh44O0VHXQh0sUIp0278eHZE7YPpQ9oJa7KCXi6Ru2M51mY3_VNic8hDqQ-bcznHBeC87kV4ro3KHo8iK12pVR7zHtCavfnWDL7Yr99NQMTPKzsjseNuWN6uzVlYTD7UkVn40EntzVsYUpT5DJpO8X9IZue3264V4SCa9f4vgUI-ZYvNILz4Bf6Np1Xzyw
+    widthPx: 1200
+    heightPx: 800
+    authorAttributions:
+      - displayName: Noodles and Company
+        uri: https://maps.google.com/maps/contrib/102876495348353487743
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIc382-9YuQT0qLvC5NjGMlkn1phFGlryAGWN_3APujbzyTVAw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMCBk2uV1LQEhyn4mcMa8G4_V3lG8RUkVjMM0Jp&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMCBk2uV1LQEhyn4mcMa8G4_V3lG8RUkVjMM0Jp!2e10!4m2!3m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf
+  - name: >-
+      places/ChIJV8X2RpojxokRv8LuDiJhPjw/photos/AUy1YQ0S_2N43B6Op5lnzSPL6kimR51B0hXqa_fAAeJr_VTfn987FBxFz_Me_aDtj_0klLqWYhYor5ENgDrvo3USCNEQtgT_dzgXK89gRXxKyqpqjunyS18FOjYrMhnfSE0wyizAHYbRhkdryj_ravzCzXd7nkBIaN15B0ICqmto2I7qD70w_pB4HpyeBSf3RV1_DYahNmj6CFzEZQxI0urRZ2xeE4xMnxSSlk75dHuTslpKfGwyTN8iZ8BtI3udRVvKuGal4ZN3kB0kGftOSsp3AX8P6meutzfr6iwGyuEegRkr3w
+    widthPx: 1200
+    heightPx: 800
+    authorAttributions:
+      - displayName: Noodles and Company
+        uri: https://maps.google.com/maps/contrib/102876495348353487743
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIc382-9YuQT0qLvC5NjGMlkn1phFGlryAGWN_3APujbzyTVAw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP53-r0WHC2zwJgtqU0Uat2CYBLwwES7HNWCw1u&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP53-r0WHC2zwJgtqU0Uat2CYBLwwES7HNWCw1u!2e10!4m2!3m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf
+  - name: >-
+      places/ChIJV8X2RpojxokRv8LuDiJhPjw/photos/AUy1YQ2kUfbDWcedp60_qFCt9RJzihyN4UXmX84HweFKiAlXyO7naXYAT7qLv0d9DMqdJKOVGhBDNx_cYBq0g187wDrCvHcR0s_wJ8_d_uyhnShjkAX0TLYiamg0WQ4gPkQQE5mSrv8uw8EBHTe4UFEUGEpG8R5g8EDrmQ2KBWY8mLqC2m7JstwU9XVhI6tMpj-kBm0w3d_1BRgZMBTHHbJzpb3eGu8wDzuEKb0RIY4gBFOtF0FO-8eKysk8WADmuuDT2IfR-Gf09oTcG48TDb8smX-dbc4HNf3BG4fvbBpgWFIbug
+    widthPx: 1200
+    heightPx: 800
+    authorAttributions:
+      - displayName: Noodles and Company
+        uri: https://maps.google.com/maps/contrib/102876495348353487743
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIc382-9YuQT0qLvC5NjGMlkn1phFGlryAGWN_3APujbzyTVAw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOGxH0cKMG1rFlAwQuAJG1pdXXE1qbARMKGR66G&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOGxH0cKMG1rFlAwQuAJG1pdXXE1qbARMKGR66G!2e10!4m2!3m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf
+  - name: >-
+      places/ChIJV8X2RpojxokRv8LuDiJhPjw/photos/AUy1YQ2SInfN5t5HLgOjvku_R3eVSjeG0TVcJMlOzfT3adUBCttvXa3iMqPqfTakdIL_HLuigTYVE8p4r6s68U06viVzY_5S-ly655_glB9Xn_ZH8Q5pzlKY_gIQHdrPoaW8FIWOCbOpFSghryLEIQQBt441Z2WY8WLs6lpsUDzfcNL44EzQViTXKRUbB1jv_ygcVwIPpWJqBjPQNXlmNEzjaEsPuqh521L67_CJ-qUmipCxtCEIF-iXMW77l4qzQ7jVq3KIprYmE8mA2rCQ8Bd7TapSSzDeY6Rdoflt6VI9ePew4Q
+    widthPx: 1200
+    heightPx: 800
+    authorAttributions:
+      - displayName: Noodles and Company
+        uri: https://maps.google.com/maps/contrib/102876495348353487743
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIc382-9YuQT0qLvC5NjGMlkn1phFGlryAGWN_3APujbzyTVAw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNe2MyoeWmMdYisucETwqAlrpumjMC7XgQiqG_b&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNe2MyoeWmMdYisucETwqAlrpumjMC7XgQiqG_b!2e10!4m2!3m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf
+  - name: >-
+      places/ChIJV8X2RpojxokRv8LuDiJhPjw/photos/AUy1YQ16AA1LYpgGxg3unh_fuUhCLqs0xA-YnPZYeMPfYP2vFHylJ1_QJpTrK63cEeTXWtz4wzFdsUb-cMCzj1I5pTyWkgZ0p_U3isfhyBmWkSz04qLTlwrzusRUHtmmyj662qm9sx14tqkFsPqwBZzyZSfuR6Z4qOG1aKX0_U9kkCTPpTEYrVT0XuUr-RMpsOUPpKYvKZcCnVYpn4LlHeg6ag9453ihXREVOG2EfQWS7tTaELSFMSwNrmK29piUqazSqmrrC_t32jYzZgjKBCySSjRY6Ht5_OGgxOK13rCZ59QAzYGHv0ecGfa_XB3QlV6L2Dz1S9zfvyL5UTXQeQr_-wVqMxWhWmLaDTCz-LV_t0vO57SE7MlLOKRi4KgO3n6i6aXqBIrdtsknwKdcEmOBXCALLcOIJ-sgDeHiAh9-H9UHhZIt
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: L Essbee
+        uri: https://maps.google.com/maps/contrib/106757189650365378677
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWOjVKwaaSN5qcz7bZAOuNfJZjWhDyex0SGD1qdhrIk8-KuneSAKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH_banlAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH_banlAE!2e10!4m2!3m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf
+address: 2099 Fruitville Pike, Lancaster, PA 17601, USA
+street: 2099 Fruitville Pike
+city: Lancaster
+state: PA
+zip: '17601'
+country: USA
+neighborhood: null
+latitude: '40.077393'
+longitude: '-76.326133'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Noodles and Company
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf!3e0
+  placeUri: https://maps.google.com/?cid=4341013889739047615
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Noodles-and-Company
+
+---

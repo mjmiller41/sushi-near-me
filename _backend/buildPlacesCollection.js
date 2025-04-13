@@ -66,7 +66,7 @@ async function run() {
   let placeCount = 0
   for (const row of rows) {
     const place = new Place(row)
-    if (place.state !== 'DC') continue
+    // if (place.state !== 'DC') continue
     if (!place.state || !place.city) continue
     const stateAbbr = place.state
     const stateName = STATES[stateAbbr]

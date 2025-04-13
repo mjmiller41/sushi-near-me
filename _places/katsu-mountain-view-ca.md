@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Katsu"
+permalink: /california/mountain-view/katsu.html
+stateAbbr: CA
+stateName: California
+cityName: Mountain View
+place_id: ChIJp6_gcIK3j4ARGYrA3vLG4OE
+photos:
+  - name: >-
+      places/ChIJp6_gcIK3j4ARGYrA3vLG4OE/photos/AUy1YQ3V8o0tlOniQmWm95SblrADPPJX8KDC52qhtaObuGXPaqktJbmKsfR_Jg6xi4oVU4j2N1CnmMU9G-_8j1CIoJYF21Bi0xB8Fpeq7Gm0bDoRIqBPOmER8hU2ubzGzMJI8I0U2SNav1QmsCAPKTeeVtj8TYRYjVQJet8G1pvjkTZhzKuLhPjtbVsaKAXJ8JrL2Aso91r9I5RYkZmXOryDJ5W6SFvYZVOkA1e9BunM6O12ZHidNRfRdK5zZEF2m4Legx46J7i0z2FohAO0XG5-PNIGIuVBo4405Js7dqNxhlCdvw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Katsu
+        uri: https://maps.google.com/maps/contrib/106649385709334717018
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXBX7YYMoEHhhMmzDj6mtf-x6_7jtK1vWpeJAbw9BIl6_WlNvI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMJvhS2kta6i2AK1Ctp-zPoQ_j-HwoHRgeBBHYS&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMJvhS2kta6i2AK1Ctp-zPoQ_j-HwoHRgeBBHYS!2e10!4m2!3m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19
+  - name: >-
+      places/ChIJp6_gcIK3j4ARGYrA3vLG4OE/photos/AUy1YQ1PcjBPOI6-62xp6Tlvtj_mterW1nPUqx4MhQv_qCmJ3zdLXB6Eqgfs2EFSeEoANYt7rRoGBpls6EKXNFEhY4sLXVcecKVlSFWnKahzUEzdOJgkhQqoA-aBYRhDn9fKVySijIgEI3wErE2-RTQQcNcP2mN37snRLIA0WaFuY02vuILwFzQ0d0KMyK6SqvAr4FBrxvp2bqKEmJfOUtDVNEoW5jqGfn8k5gzbSEYiU_647MjUct58gMrninrjvPexIW7e_cuuYRH7KE7C0G4m-3KJnpynwBFHLF45ivXyYTvPQJtz_xM-fLsnh7buTutmouiaRRrN_hs0KaD9CWcDqdOBS71U2l1P4fq7I99J0dVww80QbCkfIauy_H9YUOh3wEDSy3AznomPHgDJuVgK7groEnRk5N0c0TWHOihRmUlIEkKa
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: John Joh
+        uri: https://maps.google.com/maps/contrib/107341968407866724587
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV0Rjvf-jJB-Jiaij6H0FUJJCTvx04NByIGbjbZ34skioKm0-NY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOr_KOuQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOr_KOuQE!2e10!4m2!3m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19
+  - name: >-
+      places/ChIJp6_gcIK3j4ARGYrA3vLG4OE/photos/AUy1YQ1UEw2dVGJbaM6Zyxn_5yFQQRtEF4ozKR2Mv4cqt57RHwmcLgD6tTyx39Uk-E7D6pBou8W22ujfUbt1n-PqLgI2SF5_MkWsWkfws-841NKxUebUy_FHyANhPJAsDdLEuHzNFOiRTKhdqJzxCG8JHmAFTX8PoaAz1UQIIZVSGuEeZ3dKzb9iAZBFolDgZAngt5t6oNEnK5Z3eixRJRPV5pYjiRLmLp2KrXOm9hqKBY49Sx7i3gII6DhhjEV3z7UxcbNN1pEJwudmrW7TE1T7ZMWI8b9LtE66CFegnosFR5WIN5F9l34We6bzZlouScKA_fVQTYwxWpNu2frhvDt8Y2d3An1fSxfANx0IklZNAyhTGzt8UHleR_pqQDv7OVtaJcbJ3cUXXHR4vlMsbKHQRi8FqhpBLGAuNi49FJTP5oM
+    widthPx: 2414
+    heightPx: 2093
+    authorAttributions:
+      - displayName: S T
+        uri: https://maps.google.com/maps/contrib/107210146689154829947
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXh-W9iaF3MznK5jfHmaa97p6FaTEQS_zt8sDWkkPURCEst6P7BAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFrc2NbQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFrc2NbQ!2e10!4m2!3m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19
+  - name: >-
+      places/ChIJp6_gcIK3j4ARGYrA3vLG4OE/photos/AUy1YQ0u767kVBz0kUOm3e4vYhyCTkV505ID8ELT5zVgoXFAjyQJN8L0XfRkFshntN-_uSZTNYAMP2oswmG_PaDAGQvWOeqtZsF_YkTboxXB3Qp1Y4uqAGi0se6sM_lhY1xs4SaWv8JNCmCmnjOc0pb-oF_iMh3Vr5ymk6zn5LGzT_gxhzJuZmSVaNYlued5vdq196SEL161ShUid1Y-w2_u5KkXzVfQlORDp2EdZ-12p20YWYCY1Tm0_id4qcqcZ_-WWJQgBHAOdbU7WJgP7xH76tAWvH-l5e2BclmpMPF-9uFLkzsQyuGjUwu9nhlhmwVW5ZxJZmqdgl72Q1V5GGCTx4TKzbXsbTWSyhNKikazxRAIJGQ4zlJP3oewjbsTuBmGICEMhDffg0xF3TWWqkYfPuoFkwm2NNAky74zHgygYSX6ea4
+    widthPx: 3000
+    heightPx: 2634
+    authorAttributions:
+      - displayName: S T
+        uri: https://maps.google.com/maps/contrib/107210146689154829947
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXh-W9iaF3MznK5jfHmaa97p6FaTEQS_zt8sDWkkPURCEst6P7BAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3hZLI8AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3hZLI8AE!2e10!4m2!3m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19
+  - name: >-
+      places/ChIJp6_gcIK3j4ARGYrA3vLG4OE/photos/AUy1YQ1DKaMKFu83VBmLIF98oHtIpGvFzpKYLmQD93VmHckdZ2k9ZOUG5YCqMp9RXMgOl6YALaKhsLYkzTKEK8kpjqKd--7u26FcPjVv7XZ6gnh9jFOrLfxmB_AO-2Zsr5hStfBDNfdkUKzEVt-M4Pu3cUND3k7YW-ONK5-o28vAZ899UNNTMxTcon1O0Ir1k90tNIze5Lsc6sRVA16RFXchEkZ6Pk7XAKoZCUtULD_XCCqxd5afX4FRUBiEsSIl29hnksGuxVsP299rr4ZaFhQA_UhLpAv8hUjqA60GNAgL3kV9VXqNwpnggESIeuxRVKcHAkhaSbwPEnsjWiDHkmlJMTW5wAbVyxZg0NwN9iZiLMmYtKL8KylYd0VG85wIc4PJzT-gvBAuszuu9B24uRpO9_oAQiCRTgnePbxpFmSvh3Q
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jiayu Li
+        uri: https://maps.google.com/maps/contrib/104981632126089052092
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLp_gGs6FEjT62BgtD5ayWlIq0U3xRD-CKferF-KFMR_eX8EA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw5OzECw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw5OzECw!2e10!4m2!3m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19
+  - name: >-
+      places/ChIJp6_gcIK3j4ARGYrA3vLG4OE/photos/AUy1YQ2PL8EJEa2J890RmEeeU6YM53ixFD4SrSOf2TwHylQbvM2GWLO70ikXk_lRRAyJMqbSJU6d5ve0lT39AoGIZO-lelV8XurgP_g5ZV1cXd-zzA5WH9qMD0jzGzlRVoZ-mxu1r48eLkwps9ytlyoMVNLOd-WCzU1YNDJyGY-QGFcmKjLFVGY9zbBnby4yd_2xUJ_ixXJN9NRKYHENqbra5na4FnMidgF98WweFHP6HE8Be_xL7v80-Bt6YEvWGx1jTQE1NhUZNTUx8kQntb7ZQEPErf0aqFL8bt5VhrxroVR2hXQ8seogzR4oCk0JDXoAnzoKeQLwbskWpIsZPuRiRr5G5VFmlenXxOesvNDjguflvDRTdLK5k8Lbly5kRmblfZIS0CpJTQKLYoEC_h_Arh1zXB5GQRosaGKKBEX-dlY
+    widthPx: 1955
+    heightPx: 1881
+    authorAttributions:
+      - displayName: S T
+        uri: https://maps.google.com/maps/contrib/107210146689154829947
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXh-W9iaF3MznK5jfHmaa97p6FaTEQS_zt8sDWkkPURCEst6P7BAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFrc2NJQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFrc2NJQ!2e10!4m2!3m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19
+  - name: >-
+      places/ChIJp6_gcIK3j4ARGYrA3vLG4OE/photos/AUy1YQ0IHJkaw3K1SCPjaux0qGToaaQd3TpJ4804-5mHh5VD7TSgAvn8IVBXO1j_6JWGOnGsGBJRrl5950VokkGrO0iSC0MgFi2Zg_Inu-3M0ce_miA0ScRsjujE11VcKQDBrhDo0szKVWH4ACd7DP9KjKm4m7--l7stMwswCY3adgRBRiMCaQ4Di8SD2ggd6H5BX54JPgoHGZeYGKt7ugRrC4efuDPXRqhl2fUmJWQP22fXU4mYx10fqYTRCCGdb8Os9YmFpazvbLAy-gkcbjL1UligxarhlWxaTatxQigxvLIs_SJAY_qil_lgMXS0NVeAbnOIEu9xWkkqODFOXGgWCTgmGt85hYK5pI5UDTFmckByBI6Ojzcl0DnjqZaJgstwOzZbasLT73hiz_VZvhn2THbE0JtuYUgjV55LGQ1TlV0
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: S T
+        uri: https://maps.google.com/maps/contrib/107210146689154829947
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXh-W9iaF3MznK5jfHmaa97p6FaTEQS_zt8sDWkkPURCEst6P7BAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3hZKINw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3hZKINw!2e10!4m2!3m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19
+  - name: >-
+      places/ChIJp6_gcIK3j4ARGYrA3vLG4OE/photos/AUy1YQ2CyLG9HpjZGGOrlM8rC0eC6ZkXW4CVDXMC25jM97Lysdw378EgaCRor4MHZ8aHSzJtpWw0n8kdJHzCYp8qmo0QoV--UuVr4jzD0GmSf9wTSAsZT6lYfItmPaI3vekVBKaw7XFLjpmExCx9hwhhTVfNytFnUCBMeTpCGpAMieJZ09OgJrbIU4Bao2WAZg9vEIyJknkf5Y3OoJdFVNByWwNE4gXEFJgOGIhnj1SsH80giffT7CVbRws6xI15syh-L65ZDdcEXVE6l--4G4zQxeaLpu_OrgOQtpaAIkOyrkuZC8zEtOru-jM0CQUZZmeifEp3nKqf-06IMfP7fYtyMgD9w4kEV-89KZ7JfbrEUqHrN3XBZINBqg4biIhyhB3bINoLaSlILJeGx7j03JXjLn_khtwjz48ThUICIvwiQk8
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Micheal Machek
+        uri: https://maps.google.com/maps/contrib/108135837187641319040
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX_31QzHQ7TVPa4oKoaN1t52tXapM55EWx2iG7K1iJOpAZuBSDh=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_4ZuZCA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_4ZuZCA!2e10!4m2!3m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19
+  - name: >-
+      places/ChIJp6_gcIK3j4ARGYrA3vLG4OE/photos/AUy1YQ3gS-Gw7MfsBWoAfYgNiNNxT7I8hmZ6hrrIikyrQhxt8NuVyCZANNgYA0ZQla32ZbHGa0bvSrGKGHANlLvuXAtcWWfmPiGYBbUDn73Lt0kwsVHxEKW3h7mL5Ez9nCPA1Sjm2OGy97YqgCe2fBHCT_UldpSehp-cPL8mfctdhj3quu_tBvx10v9Z57O84HDjJrEPhdgs7nixkWUr4AmGiObpUmsB3HJjsumvQCYEUkbylcGpVmJzVSyxqYWTIRKUTJH1NjMgX0yloZLjcf5iK925w7VGIxhl-_FErgLGSKK285g6nJHg2PWz9LecK4yr0yLIaCnPPauhUBjq87Peo2qM4BH5K966qhkv6xpDRZP7GX92lXjvLF0LDqNWTE0vf9aNJjPqj8y_Hqvw-_P79xew-vEHr1fPap9KlM3x_NxXAw
+    widthPx: 2048
+    heightPx: 2048
+    authorAttributions:
+      - displayName: shane lee
+        uri: https://maps.google.com/maps/contrib/103913590295794113326
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXYP-N9AH5Q4Ls4mO_tPp60A_Fa_eg6T78YnGXqeHFnBvq_vdXv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICngubWHQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICngubWHQ!2e10!4m2!3m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19
+  - name: >-
+      places/ChIJp6_gcIK3j4ARGYrA3vLG4OE/photos/AUy1YQ1ex-kH55wyoj_tTNBXXYXILcELialpALTFWR8m0T9bm4-W9Aspkex77xBG7RXqTjRF-H7YZWpAayJJyckmMS6_8tJz4ineqXLSzb3gGUNgKdwzrnSNqyMUBSIcC-xCU7K4XF2oTQOIUNjdkA1J_x30a3fsOqnhkLK-_P2FXEKE3JVUls9-BnY99KMq3jN5Z8V2d6OrlL0jMnlKSKCk-4ejnvyTvwPUODlFpB4ljWwewtShoKGC5aay99Rvk7TUKe-2fLvT1GFwA2vH_qnHZrULrwKdyEjdsHvCfTmbqTbjAXUjG09N0QrTq3fkrI73PrKpvxbA99tOrxqwSEopaqQR_P5CwuYV6yG3Og1Hnop_UkHIp2Ab_2ECTAI6eD209L7xP4NM42Nur7nibI4tMk1u5OYAoh18mEd8iojFX6x_pw
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: S T
+        uri: https://maps.google.com/maps/contrib/107210146689154829947
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXh-W9iaF3MznK5jfHmaa97p6FaTEQS_zt8sDWkkPURCEst6P7BAQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3hZLIGA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3hZLIGA!2e10!4m2!3m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19
+address: 859 Villa St, Mountain View, CA 94041, USA
+street: 859 Villa St
+city: Mountain View
+state: CA
+zip: '94041'
+country: USA
+neighborhood: Old Mountain View
+latitude: '37.393969'
+longitude: '-122.079743'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Katsu
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19!3e0
+  placeUri: https://maps.google.com/?cid=16276227799738518041
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Katsu
+
+---

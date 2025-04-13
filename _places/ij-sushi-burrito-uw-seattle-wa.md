@@ -1,0 +1,210 @@
+---
+layout: place
+title: "IJ Sushi Burrito - UW"
+permalink: /washington/seattle/ij-sushi-burrito-uw.html
+stateAbbr: WA
+stateName: Washington
+cityName: Seattle
+place_id: ChIJ4xIgPeQVkFQR2E4YMjoFsJk
+photos:
+  - name: >-
+      places/ChIJ4xIgPeQVkFQR2E4YMjoFsJk/photos/AUy1YQ29kwjUBnhtpuLISBcsnbuIiJN6g-G34Qyol7KvFok7l0UV0dJLsyL3SaFavJbZnx9YrPMD6b1fMwwaLpfrxzCTvGENP0nrX3AA9t0QDGKR1HOpd1aLsvKT2dQJ6IJElqnZOmXHU2CPa5H5PVGuY9OJKOLXiFfBG2P4XgIyDY9DeRaUFgQTtJywMYJryWkp9vneREdXbCx6J1YUK8Gbee7mBiLYwYYvu-bKC3O89Y1_sxw1LkCPzJgaaO7HYwaWQolZZkQRjePydKH2Yb5YxJNtH6CzezaT2Eb3jIzkUbkIfw
+    widthPx: 1440
+    heightPx: 810
+    authorAttributions:
+      - displayName: IJ Sushi Burrito - UW
+        uri: https://maps.google.com/maps/contrib/116801204591056338792
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW1NRoHczP0S24RY1-otAgUcjcsN358V9XsGoUhZliuC73yBDk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOns8SKU4Gx8UwkFhzgfRedcF9C1iiydOWEdCQW&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOns8SKU4Gx8UwkFhzgfRedcF9C1iiydOWEdCQW!2e10!4m2!3m1!1s0x549015e43d2012e3:0x99b0053a32184ed8
+  - name: >-
+      places/ChIJ4xIgPeQVkFQR2E4YMjoFsJk/photos/AUy1YQ1SIJUs12hpuo8TeFygbfy3EfpEpbzTICMXutvxb26FiraZDgmywhfnPSSpyHJ2PS8P579wukoU1ADjM-_nvql4mmdYihfHvfw-_l5I8QFDEWLoHmzoyBk2DnPttGnA7OoyjSnB8_Jj8wVYzfa6z2IudpBvMXTwKYgMJ75DdM3bkRThm3RQyYlQFl3ul1HYyHQwp3knruRRJ9CS3w_AbEOGb71-Btwq3R8yCWYGRh0QucWiS6faNMAH7NaB41wyg7ZGKYzdmW1pdGhVVlSIdF8tuy-L1_mdsfaT5PlTLm1F6zmAYcGoJHXihpE5cNgrvWOOXP2ZX5lSlf_d88I4ohDaU4jnGdE1NBzNRX9I8H5vvI0uht_PhI6F-vyCcwKtOp4EraDlqAa2NzexebN6z4ixB6p6oRPYUx3edjDj3FQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jeff
+        uri: https://maps.google.com/maps/contrib/115623616059859182708
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXmYE2In2MqVfGOR8_zMFEIKOLwh4_o6clm1Qh880VGRLy-VZbPSw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3zpucUQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3zpucUQ!2e10!4m2!3m1!1s0x549015e43d2012e3:0x99b0053a32184ed8
+  - name: >-
+      places/ChIJ4xIgPeQVkFQR2E4YMjoFsJk/photos/AUy1YQ2s9UrE3EQg-ncrywMkA2FfOQHHQyMr7SW6qjWsLRf0pBZ-vJ6SD_V8-yIl5TSUQiQaI2fKhcVsIi-uQrb3QpV8PS1qX0ofbzPu1ZEnocLTAWV53uWl8xEgzID0muXScxmYoXg3AQ5z79jkyvL8hbM6Dvs6MVLalqQB5_V8x2x2LF_l0zDJ_99Rsc6sFw1Dd56s-gwYbUCN5kNvd6r1pWiWXUdOhmhFVp6opUAuKwH7eJ4kPkPWRIr2ST9uKEHkM5awq0IA3eUQ1rhHU2kQW6lhtxaUck4EvppowsTj8WW2tmG_A13-owcMSFyPcTTLRuNCo7gmFof3bJifgIw_xqXEvtH6ePopdwtSei9I_kngF_qYGyIhQEA5Rej7fB_t17ghIaq8KAVm3nMwMwERgIokiDIWOQQ5m5qW_DPbLTKxlz7J
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sunaina
+        uri: https://maps.google.com/maps/contrib/112613758112196536439
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKcFpk43KA8y6YdEimjco1-u21f1QSivfSVHDZ622ghIMUMT48=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbufrElwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbufrElwE!2e10!4m2!3m1!1s0x549015e43d2012e3:0x99b0053a32184ed8
+  - name: >-
+      places/ChIJ4xIgPeQVkFQR2E4YMjoFsJk/photos/AUy1YQ359XfUB8Op2u7oT_kO8sWkqHRgKHwcPeLhb_ur5JsJlmmKzoUTfu9eHsC0EQ1OgEAYWVRoe2X0Ck3FnrNyRkzs5alt-5LwH-gxKOfnEUK-VtShOC_NnKEmKEKozT2p0XZ7RFDGUPHcyL817BKhE-YbyGAAbzRV0-TjH2jc4GQSwVQbTvrUW6y6eOSkkM2alRoL_QEp4JS47bxSF-VkwwYihI8p5SWrafdDN7f6cHljT8-vqgglxWmDZmDODo5yxZI0O0BHeFPImrU0B_TCk3EEcx7jypT0tUoZfyBX2rKA4B_Kb5vaRmR8WVMgcg6V_wr40OpSUbg_eON-AMhvKVE73JIUi0rFJ0zSnalhQR4RKRBZHqcOTSJTdpg-bs2iaP2Anq1W6KAmNQ0ijrYf27bzpqMSbEU_IHZkqtzqqmZG3Q
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sunaina
+        uri: https://maps.google.com/maps/contrib/112613758112196536439
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKcFpk43KA8y6YdEimjco1-u21f1QSivfSVHDZ622ghIMUMT48=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbufrEFw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbufrEFw!2e10!4m2!3m1!1s0x549015e43d2012e3:0x99b0053a32184ed8
+  - name: >-
+      places/ChIJ4xIgPeQVkFQR2E4YMjoFsJk/photos/AUy1YQ380oYwFYIqjnYY6wKRwj3TAgf04URxH3GY7jAB_oq7hg1oZ7ct5ykdk_l19kzdiKJPpWFfwlrIirinGUn9uhAtC80fWSLOl5JcNMLkDbFcIPoKZR3vd8vmUfew8gezoEF8aDc4xziR0_GSsAZKblbF3ta-tlV1xgLOOQM78u4DpV3zZDXqWnOe9r1mVJg3hrAf5atU0UJkAT11x5geRgtDGt_IN0R2lsx0HYOAvkVES6bZiSOQ656NS2pegirOPIAQwnYZd-spEMLIeFbqz6iDrG81CAKw2h9-ES9krSGe01y0zveUAOpZrFVOp2tWoP5RgnaFOf9tzceh_gxOo9GYWCAF3z-0KfyaiVA8tEiwidH4tOPanmrwb3hZvq1sbyloh2lbuefUyBN9fMsZR2CzgISi1oR-A3PmI5yuFEmj7Q
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: SparX Johnson
+        uri: https://maps.google.com/maps/contrib/107279518715846269929
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWIZ1PCFJdhoRRkN471UUtg1Yosn9T0R2xz7yTAwmi59ekd837M=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbvprFPw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbvprFPw!2e10!4m2!3m1!1s0x549015e43d2012e3:0x99b0053a32184ed8
+  - name: >-
+      places/ChIJ4xIgPeQVkFQR2E4YMjoFsJk/photos/AUy1YQ1mBrlNLJMHf2yK2SgV_fZ9HdIkDlKBKUIHziDwCM5II7cRqrE15XsUevxUzag2FuzAUvr9xbTuJQU6GdLYn08XIFlhO-6KynaeYz_UPhMSa9d1JyJzc4CHcbYh17gX2vc3C5HbOAHFZB7jimirizQsQDn9LDaz90ui9HSfdlnrGtTdmvz7Q_mRe1nrpHxkeRhTaNUY2pJhVFU-RAKxtWLEbS8NpfoabO7ddkZEOvIpqRcy0Ykbvau7IL8BvoTYemwvqCEJmu31NcyQAQcIcrXQUmUPuqTkCMYWCw03gNcVbWg9KIAUDFfm8ED_e_Q2-20yHugvAhT42mBQ34SJBql063WqzbWdmKVkual4bPfCZ4YdP9Q5754XTEb6J0l-jfS9_4CbtkO8lxswNalwvPMNLFXKUpCeXWCketAnwoHsEjk
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jeff
+        uri: https://maps.google.com/maps/contrib/115623616059859182708
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXmYE2In2MqVfGOR8_zMFEIKOLwh4_o6clm1Qh880VGRLy-VZbPSw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR3teE6wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR3teE6wE!2e10!4m2!3m1!1s0x549015e43d2012e3:0x99b0053a32184ed8
+  - name: >-
+      places/ChIJ4xIgPeQVkFQR2E4YMjoFsJk/photos/AUy1YQ3tv68a8eT7fipJJVDZA8hbPRFxzlsIbBk0pZIBQYRAxEg0YO4fW4PTjuysmsB6OyLYXlErKFKiva24hXVR72MWgyub6nvxRMgJQm63knN-g1dk878Rh_BvbbnL0aie9u-3iyw2-RRmyZoO3XTI6X0QzLpoOaxAoaWb_8_KfI9YV4eB2ZE-kiF54mkh3huYP4tlCL8zJagOGE9QlKRz1l0GYpl0XCjg-dazMgXpYZCPdLeOKsgerLFgFAjZnJ64sCyIkW09nGtofr_0iFFMMRAlSqbZXqdc68csJkcyQw9INCsp74Ltsfy4MjD7e18l0AZVKIpbHND7iRMfLxaLM7J8S-BKT2m8GErsnM3R6-O-TX1sJJf4ghg7AGF1ZCaUYjmM8OBixzyl0VpBAjloCHFoxJHZMofbdzN-4q1AIsE7Zg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Wee Witthawaskul
+        uri: https://maps.google.com/maps/contrib/106122158621087155832
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-vML54LGCMRAL_FRL5SHqaME03iAfJS5wszb1aqQdKuybuIrFzQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB4q-Dbg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB4q-Dbg!2e10!4m2!3m1!1s0x549015e43d2012e3:0x99b0053a32184ed8
+  - name: >-
+      places/ChIJ4xIgPeQVkFQR2E4YMjoFsJk/photos/AUy1YQ0fp2Ez7_1cguO0Ys5743ok6bX8pXaZGjmecaC5EmVcgXZJ4CSRCfwWXNh951suOJh7JPVeimC2EjIb4tonoQbINo4O5oeqMOM2NE80_x-VDaau_V_xvIPadrsQu6aFkF8a__qZanmUr3AB8DR0RoWYWia_faNGyUHAZrwe34OkQLRaSYjiC6-JLmc0qeV7V-IJ1FHd0DEQMVUdX2nIExdll67PD9XKj9bG-E7l1vRABuCeNYHEHXycrf1J-_L3vQC4W9YiDkmtu4jA4_q8fCclnmzAYBMbk6muSSkZpoU1cYFNFi1qRD-ZBBzyvYgVJsB67bCzTCCyRk2s83AbwNgVgGKzT3YRTREVL0-w1X0U3nEWbj2wKtIfDY9p-sdZLMZrtRbqxryRJEfVH2LQM6P_oJxhRkhlSlUzKIMLoPHL5w
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: SparX Johnson
+        uri: https://maps.google.com/maps/contrib/107279518715846269929
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWIZ1PCFJdhoRRkN471UUtg1Yosn9T0R2xz7yTAwmi59ekd837M=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbvprJYw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbvprJYw!2e10!4m2!3m1!1s0x549015e43d2012e3:0x99b0053a32184ed8
+  - name: >-
+      places/ChIJ4xIgPeQVkFQR2E4YMjoFsJk/photos/AUy1YQ1Qd9RETGK9MN2-QAx-Yb8_R0bMH7GB-R0mlLH2g-QXNTIRgnKpzUVfUxB5M90o7Nrdv2LWvTbgyxT4Jdl7TNQy7vM-oWE5iAn6XSuSsprOYfyo9KiKqW2Nc51SgM08kls5d9CpkSHbctsvk1Bi--IQB9cRIHJPOjQiO5dy5umWVBKuqimQBaDEsAy5MbVdz_jeZVziqb8anO-OyfmYE81QNnLraryo5Pqj8kE8d8yrblHVdUr_LsVpZjl2alygyXRFxZU2vtbOhyW69hqhFYoRQRXuhr3lviR30-F-gcj8orEPlMDNGhl3YQAoddBH9rPTxYdXYpTtE9FZCf6FDz7KCF_6be2VyQ1M5Z7v_3A4Y524PC9y8hF-lemDYefjtyPk-nwbojBvzpuCHgBTeDTDBOpfko9BuKNsUbJhvhMzOEZD
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mark Konings
+        uri: https://maps.google.com/maps/contrib/107056712198401068597
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVTKRGTT-JzDnZxdVedQD2Dym09QThHR0XSfZBFnhg_D3gPXB-QpA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGgumD7AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGgumD7AE!2e10!4m2!3m1!1s0x549015e43d2012e3:0x99b0053a32184ed8
+  - name: >-
+      places/ChIJ4xIgPeQVkFQR2E4YMjoFsJk/photos/AUy1YQ2tAMGAdGYIZ39blLzg9NNaYp9k37AjTj-3VWl5JOiEqhnBct_nBqHtJRdE4dDfXmCmRifpTQjiDcyAZlpghKXaSa9yLcZo1TWfMifDjByoAT9KFhv_b1X7gBL6Ae_-g0SMxgPQRevEYp6uF6tvYu8_DAOYuK6e-6HlIpxq-eWTX2hasK5bqlYS8QmRZqVrwnBU0IiBWKgpLmm4w_E5e_dJrtIGgAdHgoBePke6LH6KOu6lpDhELnKBWDNNHATVXA9y9lyUgoFlRNxgIkBI2fzZ5rpokUu9BjMQyDFVmxko5Q
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: IJ Sushi Burrito - UW
+        uri: https://maps.google.com/maps/contrib/116801204591056338792
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW1NRoHczP0S24RY1-otAgUcjcsN358V9XsGoUhZliuC73yBDk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOFa0yYd6tl9lMjmCLDWIuABd2nUCrpXJx9Qsa5&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFa0yYd6tl9lMjmCLDWIuABd2nUCrpXJx9Qsa5!2e10!4m2!3m1!1s0x549015e43d2012e3:0x99b0053a32184ed8
+address: 4141 University Wy NE, Seattle, WA 98105, USA
+street: 4141 University Wy NE
+city: Seattle
+state: WA
+zip: '98105'
+country: USA
+neighborhood: University District
+latitude: '47.658108'
+longitude: '-122.313426'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+business_status: OPERATIONAL
+name: IJ Sushi Burrito - UW
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x549015e43d2012e3:0x99b0053a32184ed8!3e0
+  placeUri: https://maps.google.com/?cid=11074357231210745560
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015e43d2012e3:0x99b0053a32184ed8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x549015e43d2012e3:0x99b0053a32184ed8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015e43d2012e3:0x99b0053a32184ed8!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: IJ-Sushi-Burrito-UW
+
+---

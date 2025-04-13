@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushi Spot Restaurant"
+permalink: /california/tarzana/sushi-spot-restaurant.html
+stateAbbr: CA
+stateName: California
+cityName: Tarzana
+place_id: ChIJA5korECZwoAR72OrTPsjRy8
+photos:
+  - name: >-
+      places/ChIJA5korECZwoAR72OrTPsjRy8/photos/AUy1YQ22P_Crbr-Nm6hUxtjw__CoaK9gA1oI2xlpWR5g1gMLbqA4BvbsGg-uiH8KXV5-KNlC6Ma8-O530KkS1-BkFEFDk27_giIOmkgUsNMdF5kCG8Cp3t6KvoaLfQXDHFYIvfUPTUIb0-F8l2oOdqW-yhEI2fN2CDmF9m8hVzWnJJX3w5QG9WB8wJ941LbllDH_nnNOw2WhPw9jvOwHsjDw-oWVAakPY6VV31_5fzdgNgCkHEaPrOTMJAaM0B1C_5uDf5ib9XIq2W2KGs28vIdoLiu4TtylwG0eqixaJNArGm66Ir1oPUXcpRH9LYv8IIT6r_XG8RTKVc4e8WTkerANDSseA8AyZq7bQSc3qRpZ18G3glynEq1hMzCLcJCFpxWpvgqqwPPgynNAi0uAVv_JFwJcn6TCr6RMcvkpvY3blvbGKahv
+    widthPx: 3372
+    heightPx: 4033
+    authorAttributions:
+      - displayName: k hirano
+        uri: https://maps.google.com/maps/contrib/101161723137689186454
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU9IgFqa3_NOi9-uQCK9dr24o_U7RXYJypt1BzT1K97Wx3zVq8Pxw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID8nLTb3gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8nLTb3gE!2e10!4m2!3m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef
+  - name: >-
+      places/ChIJA5korECZwoAR72OrTPsjRy8/photos/AUy1YQ0MRecwJsb5UBgw58YRzQom48J9I_p_CnNoK6kn7sfoLdy9lRK7NbkuSBw26D58lKftZdcqF-DG_b21dXB6cdwg6qZ2IDZ_rrvO7ScUgwvZCwwfp-0kvyL3BCGY9lFgB2ulxu0iyMz7FS3etW0EnACF1a5YqgnqHEfwX8Puu_6zEO-ipuaid9qCz9V4vSLZr5VehEUBz58ZkNdsOBhWLJyJM4x5Msb4Ue-_CRFumr1ZH5Trqu9eZME7x0XxPg5Mrj-WP5Z4HLYCFxFzMGovxO3R63JARpVWaCBxhccjsdiP5w
+    widthPx: 1024
+    heightPx: 683
+    authorAttributions:
+      - displayName: Sushi Spot Restaurant
+        uri: https://maps.google.com/maps/contrib/104865087139009523656
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ9EbR2MJvfDRrw0gOoPK5iW40S3DV7ItvkqA9jUGe2QTTZqw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOxjDD7wpqBeSIVWjXFlhf0Nagk7ZHgK4IpsHu8&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOxjDD7wpqBeSIVWjXFlhf0Nagk7ZHgK4IpsHu8!2e10!4m2!3m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef
+  - name: >-
+      places/ChIJA5korECZwoAR72OrTPsjRy8/photos/AUy1YQ0HRyqQrNybHWh1AA3El4gQxdo1OGKw3AxWs-lBD2LUuwGi5ptqwn_VYU7wD4Sr9pS4wycBZ5s-a-ioBNjuND3nVSi94mgWgJlSSFsvc4m3tESJAvUC49V9DLsj9p7WyoHryBVqsnGMhW0LtoGG6KDiBaZ2rDNUPpmWAMxmGbHxDzy_k1LaL5b8_yiwHHISj-oUdi_revQL-HEKenZNDIHJpl8j_cs2bX6aJQS1MXmERJWz6Gf6Y1Hkv1nLwn8we8OIM4sNP7zGOqUXOkll6XfcPI_oOiT5v3HcLCZYof6brPjzc1xL-sCnTVdQr4XDWqvO3cohRuxEue3LphHlp5iurcOPfCEn9a3V9nYs6n_Mg4hahMFoJ4O1vgzQzkqfJqpAFwBaUp_OFvSVVw3_WWyI5UaOXkZFvFGmsdRv9mIBtg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kevin Prakhao
+        uri: https://maps.google.com/maps/contrib/117347053678512876417
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV2GJ2ltaAKtnBdKvrlMo_MRbyTZpyAag9cFL3i_b223Ivlb3vL1A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICG9LjjLA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICG9LjjLA!2e10!4m2!3m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef
+  - name: >-
+      places/ChIJA5korECZwoAR72OrTPsjRy8/photos/AUy1YQ3W5wbqG9PgCJm8aKQVRIF9Lhn3TmMMFFqHIOSJ-rZ6I0aeM4TLBXYLctiPOxj8JhqUCWr0X9w37OOL1b81g72FSKx5Mz_w5MxhOquZIAGMgUXINzFelHzVvPBEcNbfP1NYw8xQBdH3lNBQLtp2hpd1fk0rubP_-2lAH2Bv4B7o9IPrYV6yNb7kwwdqd6p41oOegBkB_X5g25pvwJjEa5HXeQU5tY_E0o3oBUtQ9B92mm_eweRAAB6BhKPIlQdVdGZuf7tzCQCr_oxFQ3Ps195pMMUOdajdpY0ghIp-_T_11ff_kgWX-OfikXHmuWgcrsIacow6hO_qi7NAiVtPaEGVO0OA2rKB2k3hQsp8dV3q3PWpz3p3Goqc1TOzvH2t_dRR9uQcSzoruGZ2zKlJ2uHIHYJyQd3WKDHcj_RMjnDoPoXc
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: arabesque
+        uri: https://maps.google.com/maps/contrib/100783887371287371631
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXqkSHY_I5qHeAso_XFc1nbGT5DweiTCZT8vQ0tK3GP6HuQKwuNEg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDho_fVhQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDho_fVhQE!2e10!4m2!3m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef
+  - name: >-
+      places/ChIJA5korECZwoAR72OrTPsjRy8/photos/AUy1YQ35R8-sS1FHbyHQvTW_nJbz4qWbQXAZv4kRL71fPjOPHJLwOMO8sG46ocJLss0W2BuA3dSdPhDUdm75o3eq0eY5sIOvaRAvetCMCXGdAdMPAYvqSU8FPi9Pnud3bLQt54lX0Q1UuLHaESmpi6qbRd0OfApD5_UFvZyb2tnp8ZK4NmCLaZXEa4Ksc7QOwT9QUVS-dnFzVl8fSfrMea_VsVd0FZWVtcWa25QrMpvpjxEpy-HE9O-Xngts0CKLyojOJpSSj-HKx2IOgmJp5Eqy08og0dlbr9hQiF2ubXENnVPio0tmht7CcRvtO0Y0UF3iag0t3pUqwLmQBnWWlZvjQFLnH7LSeZsetgFgqFHkma416Esi8UHwFDgre94wgtBZT_6jQQbIWvBAKGagh0bRLp9wffteqhC3e2PwwWyKVKuu_A
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Eduardo Rubio (Eddie)
+        uri: https://maps.google.com/maps/contrib/109304075281028901885
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL8Yz0Ob_xQVx5wEzZ2hfvsTZzCjbUuc5UdkJYpVheCCsz2vQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID67dOvZQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID67dOvZQ!2e10!4m2!3m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef
+  - name: >-
+      places/ChIJA5korECZwoAR72OrTPsjRy8/photos/AUy1YQ04y_sDHBWoHNEMCCmnXJ4nYz9xRG4XebE7IKsTgeV-3nyg3JQxzWES7KMDJuk5B2jzj8JJ2AK5p26bsLN14Q9lt0_bfp5ICWM2ILNRHXYLAgflm2RSpd9PXhFVCc4NvH71RL6zbJvt9_sXuTfbzsh_DbSO8XRpNNWxf-6XO9KzyruiQcEs8IEtPjdZQ3t1E-sKiR9Y6e27kEqDxcgx14gYPMmry1L_WeA_WMGEodj0Kq76CyDc4DmLeqP-WKdn5Wv6OX24eNzN8O0bszhhyZB-eVOJo76yqs2ct8NM5DK50w
+    widthPx: 1024
+    heightPx: 683
+    authorAttributions:
+      - displayName: Sushi Spot Restaurant
+        uri: https://maps.google.com/maps/contrib/104865087139009523656
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ9EbR2MJvfDRrw0gOoPK5iW40S3DV7ItvkqA9jUGe2QTTZqw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNFE8b7Q2qZxd_LoZcipYayl0bd29nvzTkXuofk&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNFE8b7Q2qZxd_LoZcipYayl0bd29nvzTkXuofk!2e10!4m2!3m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef
+  - name: >-
+      places/ChIJA5korECZwoAR72OrTPsjRy8/photos/AUy1YQ0P7ZhEnQdQFDH444cJfh9cgDlcD8gSGmOvhAXfKVgrehBJz2miaSrW-Fr_jn7CF6l5ldfbQ2IEbTqw9O3i5Tu6Df7R_H6Xx3d3xtZrjPKKFIY0OO1tgvvzJ1ZKRJhxNYCoY-xW9UK1HJGHyiBQnUvNxidt2F7DVlHovZpyBnqMDU1KLZCWBuLVHRfCRAtmInjlHAnjkZ_YfksF3KCKovlR6Y5Dyghx8g5zshqBoU4ANadv7d2Uo_drhHXLqy-okYixxL5B0GAW776TAPVXmutvl9jKJ0NS7WncjlMdIRFdwq202BRLwb8sqVdLxvXjbLy9EgjXT2uOhQp6Gi_3NQptC39WlVUMwTZcnNrsn46PNjAyG5EP2YnZn2c7erLPS5Bi_wAMAs7aLSTN6oSpgvB-cIzhlOf-XSKghTrSgcYfg2Y
+    widthPx: 4096
+    heightPx: 1908
+    authorAttributions:
+      - displayName: Jeremy L
+        uri: https://maps.google.com/maps/contrib/115138562580402046968
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKG-9NKjP_5uNkedmeTU9B8USZ0mTOVhrO0uXNTY1SUdkzEVA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkqdf2kAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkqdf2kAE!2e10!4m2!3m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef
+  - name: >-
+      places/ChIJA5korECZwoAR72OrTPsjRy8/photos/AUy1YQ3vS6llh2DTfNE8JiV2manGKMmefl-s_WsbRRjgUtMfIBRfU8NvMP0nsj1SOcVMGZKOje9TZWhLI1vEKPEXUM8I2cYdwjvViszvX8bePXidMfYKwVtigTQ-eYZtwVX3Y94NjD23vrCn7f6z0YOJJnEEtJRMbemHNMVsEnNE0GzAxswuevgVqK-fRRhLTt5xV5jAPX2aVlfR7ermDm5hK0y215wHdYJUfcCg4Ii5Ku9gAhoOdbrT07eDey9F6NMOrE0bpo1H0WC698Z_AAwX32OOusSFcSFoArmxXlOsDYpR_5YvT226e11HL1GBPboV4vcnVPw9klUyK-5KPm5WbEfJ-jjf3cboTmw6yut629hofsUTvyWVSb9ALCFnOsQTCch2XIJtkYfr5jnGW1ZxnVsGxDUwWMsjewA1yYqL-gmTug
+    widthPx: 3630
+    heightPx: 2013
+    authorAttributions:
+      - displayName: Jeremy L
+        uri: https://maps.google.com/maps/contrib/115138562580402046968
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKG-9NKjP_5uNkedmeTU9B8USZ0mTOVhrO0uXNTY1SUdkzEVA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkqdf2YA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkqdf2YA!2e10!4m2!3m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef
+  - name: >-
+      places/ChIJA5korECZwoAR72OrTPsjRy8/photos/AUy1YQ2jXuKRMAIu81RTTgD2hRR7zOxh7qWp0agdbhwfbSGHsBCsH65HzNNWYQvTGn3yFRe_1Non0eByTsxg4Hhlp0Ibkuql9QfyafVrIjBttdqjlE-n4NEM-MqMBm7hTtI8weHCgrBkDcA5ufRtRc6-0_yiNTq2edoRUi4Gv4GMVJJyQ7-B9AtLwM-t_AeZOZzW8XVyk3VHwhl76U5M5cm21pUhXQ8_3QVxkQc-3n7yzQ-ZYl55pVcJMpdarc_3R5eTcwGLdooMMDy1ouhFM5dzCO5-KlqmKlv_CdGBk3-1OImGL5m1mERqGbRY_NISAb4e_0M_rEq5t9q1BFUAhAffyXYA-b1hI_kehy--vUaqqioO-cGR5ewFRTcNOYEMcCu1QTXTyn4XvC2zDPi63q5WYhH53G1uYNwOqZi612qMop5TYfW2
+    widthPx: 2252
+    heightPx: 4000
+    authorAttributions:
+      - displayName: arabesque
+        uri: https://maps.google.com/maps/contrib/100783887371287371631
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXqkSHY_I5qHeAso_XFc1nbGT5DweiTCZT8vQ0tK3GP6HuQKwuNEg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRlu3riAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRlu3riAE!2e10!4m2!3m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef
+  - name: >-
+      places/ChIJA5korECZwoAR72OrTPsjRy8/photos/AUy1YQ2SSSpuCEEcTKirS5ufcznhDGHcK8byDU8ptJgk-NVU8_MzvBn0zDSw33gzUfN1YNB0JLG0ciu4qqp1Kt71mzYIKukJg7p4PKJ-XsKx9JqO3tf-Z9UqXN7m5Oreve-M3alqESv8k_7rkuPVVdJgQcL6BdFgaYYdywSX4ypx8OTZzs13V0VSzbokDLUKamH9A0T095u_Hgx7PInUSvn39Itj03cCsQh4qXVzDhJcBZnPw5HUWNgCxTOA5SPXE5seV8NupEhIyvCyD7hvmB1lB4kuxBa3fJ09VftI15WIQlmSeLVplOfHEFzzb3Tu4LU-YPI1lj7JgxeEgHWp4ZKG8ee9upUawhNtKfTFcnfVtlXmkzP2PPTWMeCL-_W63enuuNvcmR9Bg5wLLfdbgMJK3I9IYvRxJXRwJhYeYEvByTRX8Q
+    widthPx: 3017
+    heightPx: 2413
+    authorAttributions:
+      - displayName: Jeremy L
+        uri: https://maps.google.com/maps/contrib/115138562580402046968
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKG-9NKjP_5uNkedmeTU9B8USZ0mTOVhrO0uXNTY1SUdkzEVA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkqZenQA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkqZenQA!2e10!4m2!3m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef
+address: 19658 Ventura Blvd, Tarzana, CA 91356, USA
+street: 19658 Ventura Blvd
+city: Tarzana
+state: CA
+zip: '91356'
+country: USA
+neighborhood: Tarzana
+latitude: '34.172218'
+longitude: '-118.561870'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushi Spot Restaurant
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80c29940ac289903:0x2f4723fb4cab63ef!3e0
+  placeUri: https://maps.google.com/?cid=3406731205359133679
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29940ac289903:0x2f4723fb4cab63ef!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80c29940ac289903:0x2f4723fb4cab63ef!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29940ac289903:0x2f4723fb4cab63ef!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushi-Spot-Restaurant
+
+---

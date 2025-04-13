@@ -1,0 +1,210 @@
+---
+layout: place
+title: "Musashi's"
+permalink: /washington/lynnwood/musashi-s.html
+stateAbbr: WA
+stateName: Washington
+cityName: Lynnwood
+place_id: ChIJnfghVwAFkFQRdYYuZF1Hvmk
+photos:
+  - name: >-
+      places/ChIJnfghVwAFkFQRdYYuZF1Hvmk/photos/AUy1YQ1Da5JjWnlu2Fe8SlD1Xpyn_987sHQdoH252XPP4RoCT5tuVI4txoEhxQhmuBvJhigNqU43qOyJcFaHMvXmrBFcyD9eav0R5x5nlzBoeTxCu9xHSkBJ4IaCTp42rtUS0FqI0UDTgNyFwxdQLAB0C0ASGvgtP08Z_i7nbtcEX97t7Vgk7qLJrPDgTDewHcXkAl0YBAeUowmZwXfczj0ShivDTUgqaTItwtTL0qt4tKLtZVE-1LRNIendk0bumd-ebtVISR9UIbMUH3DdRRvX4gvSqYQhRt9mcIFTFrGABXBYMQSMTTCWjp2SNh6d4qLOFwPrSodaea42DU1MmPBav7pb-NF1KNOOvH5vVWuALwDEk5rdE6473NgOd19i7VZQYmOYK209Z1gTC50KW1gwqbEzyUYMyT7gVPQ9E90FC5602H_x
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Katherine Choi
+        uri: https://maps.google.com/maps/contrib/115150895700695056588
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVIAueStBDqu6tVrVbWb2qGgMmDUn-xe2oPDK0sNqDVrbOOP-OD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg1uvSpAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg1uvSpAE!2e10!4m2!3m1!1s0x549005005721f89d:0x69be475d642e8675
+  - name: >-
+      places/ChIJnfghVwAFkFQRdYYuZF1Hvmk/photos/AUy1YQ1SqZ4TI0RBO3k2NYpMuHBo1XuQQ5QydW9uFqqa5MODwD0P97LLQCOmpKIgvL9m4SkzUkTM4Tt3qd6MC-pIWzbL8Hi6Qt8SpN_HHlXSU4hBLNQ7TftTXi3G1Qr-GZcgeEZ8e94R3uT7YpjBwHefYkEYH11S-ldxXDMN5BZhi1DiZLtXiDy5Dz_iwArpIIYPoQ9eF-ERYSae8fXGT5PEqnLek6BG9zjVuiTQfXpc4Myk7pQ-5QFHuVVT7HCHsAwV7jmRlJdZxxXT6mMOehW5fUK7euCWWskTB72NSI3eGDod8trK46MS6P1dDQoQ41Z8uvLA1MA0zK67a6XSW6TE5MepiDYi_T6Bz_VxgO20AB4dy4eghHq9YEjFRZtZhp97bIDQ_zCjQpM5bPqoK497QY7j6DUMIZg3yVJ4Wu6106aIZQbIZbaflr5yRRg58m-Y
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Thanh
+        uri: https://maps.google.com/maps/contrib/104964942446125333209
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV5_Ts4-bxS320DRDTruD513J203QMhFhoH4Dg7jMD-ouhqBdPs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzaqqSKanmfiTfwAAsFt&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaqqSKanmfiTfwAAsFt!2e10!4m2!3m1!1s0x549005005721f89d:0x69be475d642e8675
+  - name: >-
+      places/ChIJnfghVwAFkFQRdYYuZF1Hvmk/photos/AUy1YQ3M7qr4GuMNgU1UVTsHeN_f8QL89C2qcqz3Mad79L83h6w6L-ms5eCzNJKUTK9obHAtcfySVW41HgpTYv3bPDEt3PQtaQpLHNbnGafGWlK4EYld0_n7oMVzczr5Maj8d2rPsjAkd5qdJiE_dLx5ebnnfsGQT3ENj41S0rceAmzDusjhJOMxXUUqogA3ogkYELsDy2poNzmq7NobpuYoKmNQk8DUrd-k_mi7n5ByTqHzT0ufmiFIkKX8shzlhRzVzgPWoxjD-UOYZ4Cnj1SsVSh_Yg6J7MtfI1lrkJ2Qk8h2KkVszpLE2YxjtZ4b71Ut7rQuvfH31MZ2BstlxkgQCdlkpUS3qwIbcnJ5EXV35f-wXJF27DNhw2ZZRdgxYkIP3t3FjpxMe1inhNbagwrjChBNCzyS8K_5SQ1n56Ws6z7zIEuf
+    widthPx: 2873
+    heightPx: 2986
+    authorAttributions:
+      - displayName: J C
+        uri: https://maps.google.com/maps/contrib/110692519998602606444
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV9SPR2on8H9NMdL3QT0iB7L0jhN9beVQAPFYSjisxbppwEEHdc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwsKKOkwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwsKKOkwE!2e10!4m2!3m1!1s0x549005005721f89d:0x69be475d642e8675
+  - name: >-
+      places/ChIJnfghVwAFkFQRdYYuZF1Hvmk/photos/AUy1YQ0Rw8d8TUv1QwB4yEe30WjAY-nFprliRKUeaWCcdF2ls9JC7inhVuBV370XTNhR740xOyBlwwhE-gh5ev3KbupqUkVQkE_BroVqP_StDukkLin8ruAU2xSW-9gIna0O8Y9Xeufcddfp7mRRV2ZvarHpneMzmdbIjNd13kPlusSndMOsnIE040TGsx4V3MzYSKt8958ZLGywJMOla8EAuPj8doOArFKa13L3HdyLCtT0MK5371W2vlvvq5DoM_j3St2OcH4IweMfnzQfhJP4S1dMuYPI-mz0s_XCb55QqXAtkPG7GX9mzDfxo_5YmlgV5EoqLbgPpABuV7foRivW3K7uITkarrSGqmW-YM0xb0ZyIVCKvywVOLnkREl75o4uQTvhg6az5czl1DdMKQHbLm_yPR6EyZTuC8gSiQq2zfCCpPGt
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sophia Dang
+        uri: https://maps.google.com/maps/contrib/104952650964542549168
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU8i6Uzuno7LqK8rlkFIWOXPf9vMnoPeriNoc65XBFjSyUARqqI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg5evUywE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg5evUywE!2e10!4m2!3m1!1s0x549005005721f89d:0x69be475d642e8675
+  - name: >-
+      places/ChIJnfghVwAFkFQRdYYuZF1Hvmk/photos/AUy1YQ12VLnUpalFq82bVYYvwVLaPkQJUgf7SlXEClY329U5EUAEYxXZ9cbz9mITy71KpxsxRV8IjKuuojs27HP6PuPgeJGwFw6ZJm1vdVrdZECPxyOFgval9Hx4t6oUUexghnHOR3PWC0r4cUNM9CY6KSLvFvDot5ETpZvMnoCOk7rmFDLXtaK7fF9mLZFz5pXl3dEOJhJsDgemdKRlQ95G3pI6dN-RdjK0A-9r41EkjxHdSQTwAAmN9fNFVWEo8E32ooLrBFqq8f-mJOXSAGMbPNzUjn-xdCxPbnNwDBgi4xkFuuPCDZdmfpaI9bzoMzRWiK1l915ooKzGLvTwKrHGAF4NP-e_M_WU7wao7lqn98suTJUiCeS8JkRWB2PExzd6TL1HNdr6oqP-8ZnkXfOAyo4ska9YsdFiPNtvucp8KV1j4-Bs
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Howie Ha
+        uri: https://maps.google.com/maps/contrib/106704766026381861666
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUI492XWkUZXmdmEtB8riqNxgAeYMfW-tV47Y5BuSXhQI8xR_TE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw0Ljy5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw0Ljy5wE!2e10!4m2!3m1!1s0x549005005721f89d:0x69be475d642e8675
+  - name: >-
+      places/ChIJnfghVwAFkFQRdYYuZF1Hvmk/photos/AUy1YQ3OuXGs0cxC6J3xW1idS91ABxaMvhctGjkPWGlfIvi0I6IsOeLzx_Nsn2ecay9mu5bk4SCvzfq-boyUHUPD6cQjriSsJjj9STO57OO9IQ3I12atIMcxzI0tZmizHGqT9omMRu3uMYdnez8tzyuWXSjyiIZx7JITLBpaaMJ2n5fUzDRkNxzhUgd-CF4G7Ok-P2gZckSkfPB6GCCbFRARhlaNNDccur0baKWrYcI5sGWp5J-R80C5Zjox7foOzFeSM8ZlfT6_2xiGddT4Xf6a8l4u7BESdY3M67PSPwvtKFpeK73sDpWCEs5RJMxdMclfCuwm9ZTdm105GIxv3JVqLN43-8ry_KKYOALBxnQoe3yGIJoRL0hMmxQjCR3B5WoAqz59l2qy2uRMVdhdf5ToLK3HmlyDjX4Lnsy2eDdoAN54PTm1jvpHRTIMNGRRqGNO
+    widthPx: 4000
+    heightPx: 1848
+    authorAttributions:
+      - displayName: Pan Tamie
+        uri: https://maps.google.com/maps/contrib/105520658827909590327
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXaVQfWu3WgMCG67M-G-eQQtNYnuFONx6Ok5A5S1ThnmLxKwNDS=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbwPTiS06CWfD2WAAC5zL&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbwPTiS06CWfD2WAAC5zL!2e10!4m2!3m1!1s0x549005005721f89d:0x69be475d642e8675
+  - name: >-
+      places/ChIJnfghVwAFkFQRdYYuZF1Hvmk/photos/AUy1YQ1-MYbtsj4PiLp8YVY04yciqQA2WyTzKXJxhp3OjwJe6aTJYYa02b9raJv-a1JUGaN6N7XeO199JWmXw2f_rbanVWpASO9wyAgtgKE6cAkB-hoc63olhuEKCKOgy7tsXVCYb5iM64qGV5UINS7P_lzFNVXeypLm-6QQQitgIDDK9Az1cOGYmK_gDVST3fc_pQfVS53tvPFbhx50wdQYUaKwD-8sRfwGZFZcQLA1MVC1wjsMiKmDlJ8rTvpsWCa2_iZLMf6wJ1RNNv2LR34y2rFYrkUxOHJLcw9bX7QUReXwCyV_5l1QlHZplsKVSzaqOZHEfJeFNttDC_DZL1A2fIFGrXMU4gBEsgXwzG3WYv4_WyPkMVuoOInAnsr32LQp3vYkiMV4yHtwWhZYv-KZP0t8PEUmjpjyW5DD2406bimTHfHdc3-dLPMcGwbBKSvb
+    widthPx: 4000
+    heightPx: 1848
+    authorAttributions:
+      - displayName: Pan Tamie
+        uri: https://maps.google.com/maps/contrib/105520658827909590327
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXaVQfWu3WgMCG67M-G-eQQtNYnuFONx6Ok5A5S1ThnmLxKwNDS=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbwPTiS06CWfD2WQAAedL&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbwPTiS06CWfD2WQAAedL!2e10!4m2!3m1!1s0x549005005721f89d:0x69be475d642e8675
+  - name: >-
+      places/ChIJnfghVwAFkFQRdYYuZF1Hvmk/photos/AUy1YQ0z0tINJ-jfy-zk_LYsehIVcZUluft_E3fjHgHAcQuI0tHD7gz83-6g-b1PrxqHd6y-cDE1ZMXRf4ULAhrmQvagEVOO9bPGcUUqF8T03I4uWes8oIlyHpa6c7ovHHMg_IMQcmw6oMTEytZmiJciOZQtIwbIfB1dX2TLKy0NXKXuVFM6WAVsi5IbQ1l0NB9P5QzBHWsT5dxTpzUlZqkEi1ufnjaj-lgWjCL1lyj4OXlDr0fnyMN3nMa6seS_GTXidxkVrKqpACj07SgPqc_TDSy8sdYeRL4DfTxzM714H9SS6sT9EMPT-i2639MG-Zerd08i1TJOOyFsRY9xmXgvFdMh6qkOmV9dVn3kbF2xZjB2zZaiDyIswLllFvgrl9PhU4yWKILIDHyAl-6DJ-0kewGW8gNyReb-Vy0QaScZE18
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Martin Messah
+        uri: https://maps.google.com/maps/contrib/106312770519695577012
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVTaaDJqcKU1k9fkSUnk7IF6P5cUDeVTaNLSQLxFVircw4A5jzZiQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwlKfyUQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwlKfyUQ!2e10!4m2!3m1!1s0x549005005721f89d:0x69be475d642e8675
+  - name: >-
+      places/ChIJnfghVwAFkFQRdYYuZF1Hvmk/photos/AUy1YQ246C54J1Eacum8hqbUIGzdLZQespJqu1K1i3i99MnSONqKaoWLIiYtqFTCJZbzcqC_lkeScU9p7tqKfvM9dv5iU7PsDspuU0y0M65yjNSJ7mRwo3aysA6wXwkakNgIqZpy_dUzGEfzWQ_-FyScstZGbadva2V9YDY0pYEHc8GdPPArs3KYbx1KUlN22Lqk_ZBGtH3ja07fXsOnI7VS8u8ROK4EMuPR-5CVasIcA-enM-VhgbyWYF8Feab2qPyX9WiHWXW0JEXUGrFm4sYKnRttnLKE5L6ScaRyY1-eFUG50Sl8_UDZCykvmLTy9OOgKQ6KJSE7WsF6i28Dx-S7oVA3XAGNaukcqhkeFsPjsf2MlPR7H-IkoFF_JGrnrjHYhqpIK17pr3v4m3wZfMQw1yw10ZdFrbb1MueUirP8D20
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Trent
+        uri: https://maps.google.com/maps/contrib/105657191248037649218
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUcuiKRbHBRyKnBxIkxXKZtLArQBSmuCjZiDff-P5-Izk52JFfK=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg_o3CGQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg_o3CGQ!2e10!4m2!3m1!1s0x549005005721f89d:0x69be475d642e8675
+  - name: >-
+      places/ChIJnfghVwAFkFQRdYYuZF1Hvmk/photos/AUy1YQ2FmEIctSiQi2G9MK7RWHq2H97OZ2p3AzE7dAsfLFW-nf9NJacpS6IOADeRzQWWGFaWIbH5GFxXN5oxYo8tesGQVVRz_opYMkN7yUsVkhBAbqlBpUEtL52p2UmOxzLbEAydf5AkWlyKDRVuqT9QhbpULFU5Hp3A4u5QKxeX3y_dsNpIPy4zhWqzLF00jQWfaUSAp2Y3V0MapQ0PUKAMAuV4tIMBCTMae6IscHk2SBjXwlVWH69VRtD_LG9LTLCDnGunYk_YEs8dM1uiMHyGIzzLFMdTnk_S86Nb91F3_3HA1s3d2yZFoY6FPtTp6-mHm5jujBtghedooIhVZJN_M12HrJLWa0u0n15z-0gc901Wn1dtMbmIOrDgQKW1ph9gbSxwt3FO8anaIsl2HQLzFFDaszw2epPJkGMRQY_0lFL2RAvS
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Trent
+        uri: https://maps.google.com/maps/contrib/105657191248037649218
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUcuiKRbHBRyKnBxIkxXKZtLArQBSmuCjZiDff-P5-Izk52JFfK=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg_o3CqQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg_o3CqQE!2e10!4m2!3m1!1s0x549005005721f89d:0x69be475d642e8675
+address: 18415 33rd Ave W Ste A, Lynnwood, WA 98037, USA
+street: 18415 33rd Ave W Ste A
+city: Lynnwood
+state: WA
+zip: '98037'
+country: USA
+neighborhood: null
+latitude: '47.831683'
+longitude: '-122.277052'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+business_status: OPERATIONAL
+name: Musashi's
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x549005005721f89d:0x69be475d642e8675!3e0
+  placeUri: https://maps.google.com/?cid=7619606085995759221
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x549005005721f89d:0x69be475d642e8675!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x549005005721f89d:0x69be475d642e8675!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x549005005721f89d:0x69be475d642e8675!10e5
+primary_type: Asian Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Musashi-s
+
+---

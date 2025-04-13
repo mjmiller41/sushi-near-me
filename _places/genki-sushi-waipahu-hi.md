@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Genki Sushi"
+permalink: /hawaii/waipahu/genki-sushi.html
+stateAbbr: HI
+stateName: Hawaii
+cityName: Waipahu
+place_id: ChIJqYdUNoFmAHwRLq8zXvnWNsY
+photos:
+  - name: >-
+      places/ChIJqYdUNoFmAHwRLq8zXvnWNsY/photos/AUy1YQ3mGOWXveQ1m2ci0jEyLqprScn2neb65f6uVobLIRJOVJmKa-77CSCEVWX-wYtqdYgYU4SFqkKzbxRbELHrhOWBCtKfmoMVuwZbET1VuPUHvKNKovq4OQgsOeoRVfgVmRPitxnL8cpG4-kgx3YvbH0xxwYeEnut9G86LbdjKEY-b6ZyHYYA3OdpaC62MnaXv5NYn8oWjbfJFz54bTQ9z8WfnQKcBsbNtoh8AQ1vrPCfRZ-eewARU-bCrrDm3o9b6SSpdI7HTb-XZHqpEjV64r9AgGU62Uck5e-6WenZznaBLbziTwQcIyCajoB7_vtxcJIYnX9bJcFX2cMGEKln8FvpWL5P7el3NDlLhDw6qUoThkH6_J_0MEBHTRFIz4KNDQcPkq5bNQ3lkhHtyZBecdeTrDgPYn4S9mwFJ3rc7DxaLryM
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Unwanted Commentary
+        uri: https://maps.google.com/maps/contrib/105533244026934277235
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-CJdp_uYI7NA1eywy7VyXzaWsSK8yx73ovkwgdA8qSCZWdwtLyw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID6paW6tgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6paW6tgE!2e10!4m2!3m1!1s0x7c006681365487a9:0xc636d6f95e33af2e
+  - name: >-
+      places/ChIJqYdUNoFmAHwRLq8zXvnWNsY/photos/AUy1YQ1nGJZVS9H3GKw5LxMDXqPtSm6jHPPecWnPrc-b16V4Db6KBTjZTUJpSkl45fcZARAlusvZkGPTGfCJTvkp-ruq5vHcpY-qzujD-kX1rKYCkvm3iZMpdUEJwhNGlSLg0SDu5QNnAgiFTEc-z_ssQTVeb1OpouBMLIJo8yuc_GWrDBvpaiK_aqnRhBrsjQW_3_V6s0SC8mCzSLlOx69cX4X2Igtxuz7uE-r5z3emgQG3jG2cCN1psE_FVBu_FBXWsNhM_YDspmC52QRHjM89Mh_I32ISN15Uig0-T4dUFcsHNQunq8txbpjJwf0VIHhGZMnG5mzVUTmcBfoywWVrxlSa1PkKJK9bM5L7ui1sipH8ptaCEc5byuGFaxNOFHOKE8wXG2VWDOOJfMzIHcb9yJBHRnw8CPPJMA5Fa4AELyRnoHXY
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Kenneth Lucas
+        uri: https://maps.google.com/maps/contrib/114740618817217139242
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUKHnqn5y0liqUNQ1mm_a7Y0iBNLHRexjhehe9zj8PGCHetK_C8Qw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID2jNDWpQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2jNDWpQE!2e10!4m2!3m1!1s0x7c006681365487a9:0xc636d6f95e33af2e
+  - name: >-
+      places/ChIJqYdUNoFmAHwRLq8zXvnWNsY/photos/AUy1YQ06UI__AfHhXje_6F9DdLhqV3ebWifQ0YSPXmM02VdVYE4DfO4dy4AWiI96PwZU8wRpMJkqsNZG5QJglPFBzIvq82eeOGN-jAdLH9X4odNSO-jwkxN3bVFW_LE5gA8_K5CFNXyT_gBOIMvMf65_PAUK7EmIrSzZpNI38z4h9TcmWOUWTEJmK7Xh-_JAmhECbFNC0TBPC7_kJvuU9cuZGUn_qDlx7AHdhRbDlKh2K_RqJMIDeAc1CQ3V3R332hMaUghLmKAJ2pcDTj9sQ4Z_vDG9t4HNVcdaF-Plw0hWlC3LvQhmsM-93JO5U3txx09WmeAyqQSIr2JaHQYTdEPlM7zg5dwejGqGwxGpaAh2Azv8623DmSejsObQbTXN382y9iCkzKnsAuIsi3F8nsKSwgt559C22VLPA1I7btmd5h0oxg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Evelyn S
+        uri: https://maps.google.com/maps/contrib/109840722026907278877
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVNKYiy648rjvNJsytSKwTf2nJGWLMqGd3ZIdTijmM5-C_zP6tvjw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9pcSuYw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9pcSuYw!2e10!4m2!3m1!1s0x7c006681365487a9:0xc636d6f95e33af2e
+  - name: >-
+      places/ChIJqYdUNoFmAHwRLq8zXvnWNsY/photos/AUy1YQ2qmNy3ydlRXzZkwhQQ9SEcA-S_FmRypS9XZs8u2P5azma4q7RXznT5DUpqYvxyZnD6iqOhej1HaNIeA3NJjPceiM5fLKKOGLx6aRNQT2hgYZd1RJjn-Zd6_oXz1zbXSTGfpC2ZG1feGfOIOQxvg_7pTFIXtE_cOEqpB4dFBcpR4D6YKGOoJlvrdBnsOpaJJO0W16PuH8TAP87MPSKCRRFHdNqLzoUBJhemMvYkHSaOgVda8OJS995QibJ1JUVUpkwizFwVyFuKQOYMit_QY7bHFErmPfTsvURKKRqt0fIn5OeJrt266CNiZNLSlabMpiDubJO3d0y0SxKEiZT7h3fNsnxTaZj_Ix3V5NtqwLmxKZ2kL4-trZfYVHp4_Lu4jqcA2aX7psuXDg7MeZ5xIHPsHeYvEFDD0n33l9Q
+    widthPx: 1080
+    heightPx: 1920
+    authorAttributions:
+      - displayName: David Spencer
+        uri: https://maps.google.com/maps/contrib/102148967062271736911
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWbdLHtTQ4HRFGumhUfW3z-2z6lhNeduKLJZY7ARwl_VdDZjyHT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC99bkn&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC99bkn!2e10!4m2!3m1!1s0x7c006681365487a9:0xc636d6f95e33af2e
+  - name: >-
+      places/ChIJqYdUNoFmAHwRLq8zXvnWNsY/photos/AUy1YQ3PYpCVCCBGsD0t1JdlNV8fSAb_LzLH_u4AyOMzjV6tPeN0EqXYuegNImbleYg71cd5IqLqPH38Eb0wBz7fklFFAxsDDbRo-PxoK9_ISMDwMThWGs5Xhlb3jVK9txw_pRiFx5Sdq_trd4E7ViZHLscAMD09Hv-YFRHu-wNlEouvtQhwfNRFMzq0RhMdONEmdUYgNIukGpRarXm9o24vRUdkc5CFs9smwY2Ts8tffKpyGAUUZiOqJwIxZ-K3J7eWvPs7MmlKAjHi2sUlexT0DT3LWgm4HDT8XgEDyXGg8-1bcQ2-MYYvMLvvugigM9CWqcGS-5JiD6GpxbmhYYXhuN8n2qVhQOhPaRhSaJaKEoZcpOWz0YirUDch_dr3tKYZ0CFNJvX1monV5FLoFkKabgORNzdxZXfWG-doMmO5hen8-C-h
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: TDC
+        uri: https://maps.google.com/maps/contrib/118118613246917392510
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL1bRKPvXudR66CrJYcEfaEEWD7l8p0lFh8mZz5KmNPJSasLg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJ7sW2lwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJ7sW2lwE!2e10!4m2!3m1!1s0x7c006681365487a9:0xc636d6f95e33af2e
+  - name: >-
+      places/ChIJqYdUNoFmAHwRLq8zXvnWNsY/photos/AUy1YQ0CNqhfbD5qjk3RgCDhJF9MSy4MWkXqPrhX1hy5zHwxmeSFVeO7_sJ02rpLxZt-pZG4BumRpxoDBVpmdeqf_Nidxpe1_xxQ3moBIiuAv4ZTVgdgWhdoIgjq5j176pEWTSeTkE87f153RgPrM_IEGuCVhpuu7cPbrm8rzuf8a2wLxCqweOC5AcPpb5r3t-yFynf2q9pvpwDBulaUAguTwZpEjIIYdush-Qsni1Pgql4i3DP-JWnk00XPGTRCrFXrowY-huAJhC943MWxVM7N5lQem8MG8EJW-c-O5ITE7FZMhxlqiDk8SFi8BIU0tLY8b6-quexbEyPkwUgMKZ5W_ntuqqG7qHYR9GcsVMZHDfDa7H1edtZv6sOKKaziDNGgoISSDJE42KNiyBSKJQ2pmxS9gsdNoPjkUEH9r8O_XvqM_N8
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: David Spencer
+        uri: https://maps.google.com/maps/contrib/102148967062271736911
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWbdLHtTQ4HRFGumhUfW3z-2z6lhNeduKLJZY7ARwl_VdDZjyHT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICnsaHihgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnsaHihgE!2e10!4m2!3m1!1s0x7c006681365487a9:0xc636d6f95e33af2e
+  - name: >-
+      places/ChIJqYdUNoFmAHwRLq8zXvnWNsY/photos/AUy1YQ2w7PcatPAPx8xclKvjyQrDxUQ7STIw-RhEKBdfL-XFVI3tUo9FDbpTBm5i4D3Pvs4BcTVipbKDBV-BNKVhkndpmBLmCU6WF_CnG1T6v9RVqtvwu99xrpj4aJI5S0FXfaz2CzJRIyAUginG6djeSOVnNsl_qy2nswJw5b5MjviJiHlCVTSvs5k2zyFJltJCE5AjG0BSw6M-vaYQ_5HwBLxAKi0z9WKefTAAk6R9pgNmSBh3BR-1WnX_Zz72NDoVZi_owc_3rWy2KlZoC_sodmVAcdIFAtsxDIZ8B3sMhNEHDIVwerKEg0j6ISiPwp02NXFK138socFun8n0Ho5WKeWwJIgV4-uYq5TR9zCszZnoQFLoKYBeB0_3jFI2tUGhIeQkppHx-03IlU6stdBnWtS8soNZvnMDRBH7nXYIu65VmGWo
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: nathan oshiro-chin
+        uri: https://maps.google.com/maps/contrib/114725439667811463424
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWDkJ7Sj7qv5Zam2xlkI1-ALfXCbl626kWMaCSvVULI1ChrvvE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC1pNaLpAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1pNaLpAE!2e10!4m2!3m1!1s0x7c006681365487a9:0xc636d6f95e33af2e
+  - name: >-
+      places/ChIJqYdUNoFmAHwRLq8zXvnWNsY/photos/AUy1YQ2gsVVxNmPHcEiDwDq6hwMpI1dlsvabMS6CXLKuVjn9MTFxULfS3ChDzMZD1w6elTfRMJajv5KVF56QlwbSAzHt4wzqeN1TLWFgVdTXcEM_zSMutNDWDjrs6qGevLXaDQV4jaIo9xnvDVhqgR0eLGrph5lVI18TczkYuuaYubf4qTiebJj6uxm5F01zstdbHE0PtpUohjsXo9FrOGHERlWZimiQ6aOk4B4rylBzQZXhGweubERSFKD4aRT79CXM8Rak_AuO-E5HHKd7QUhbUBXcIcEEPdDnJ_i_0CjA0_KebH2bpZP5l1-A-mSTLKsJJlrWBrsMRjlIaXeo6lWCVgml0lAUNtvxjnB7XCm8u3yfrjt3fgvB8-eFF7gAwUDoI55b9cFss8BjgBVyzmshPRZL6DNHyp84JpydI2ovSbY
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: David Spencer
+        uri: https://maps.google.com/maps/contrib/102148967062271736911
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWbdLHtTQ4HRFGumhUfW3z-2z6lhNeduKLJZY7ARwl_VdDZjyHT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC99bXyIQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC99bXyIQ!2e10!4m2!3m1!1s0x7c006681365487a9:0xc636d6f95e33af2e
+  - name: >-
+      places/ChIJqYdUNoFmAHwRLq8zXvnWNsY/photos/AUy1YQ1lNFY0mDvqQngBqGIBYq7MJx9fknWNE844hUTBBvPvQHjIrm1mEWpnZwp4lMSMVIcF-cNeAVPSF1lzMZ4T9K4dgoCiSEWbuyQY9W0lL_WjPv3iH9ORF2iOJYyz5oB6eAfg-UPRcsvStJ_o11ypjStelPj3EpH01oTuV0jXNuXE7X-t1QUBlIx_p79tZJOAImY26CzrMU02jnNbHkhvhGXtJPYlQbpVzR7QYsqiY8DBcKfthEFTympb4sneCcizy6ReR0CbD8KhaT_7KRzsZUe2Nu4t4wZSbIgBb83Ou3GHrhCwI5xex4-J9SRFl9dpM9yoWNWaIY04IbXsC4lw0wgVnadvFAM5SjNNUJQRRLvC7nVNi2k9zVrNcp-uPb5yRNc5eeQEA1Fmil3icFtiYmjpBtnEYdysxpuMkDfFu4hS_g
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Winnie Guan
+        uri: https://maps.google.com/maps/contrib/110829322694821553091
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUgfWoreI4PmRpq3EsosrgtaaFcOIuS5NAsEzoZ8jNSq5naHwCQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC79s3vVw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC79s3vVw!2e10!4m2!3m1!1s0x7c006681365487a9:0xc636d6f95e33af2e
+  - name: >-
+      places/ChIJqYdUNoFmAHwRLq8zXvnWNsY/photos/AUy1YQ2RBv9q1mzw4Loeok0Rb5k13OKkYb0jWZEjGKxZQRXS1Gx-lV968QMiOcohtOr_gKt76qzYmmFJkbITzCFtJ3kvOhaR-MVH-9ovrKOG40vyeZanwaQRgRo7Bw2ty5x5YsV1-0oPbw5sL13CyBHxkpVW8WT-boKNzus4mRN1dZ0EH6Lrv8_xjb8nMf9sVpwP-3Rn5BiIIOhlPK90vj4Q-DJD8nTF_B2i1jqTqcVCmbz_yVoftuV2pWGVSa4ONRrLjyQSMw_ioG-i51o2QrH97vni6YDmA9IoosYtpbs5Wfn8jmv_4wX7VVEHTL_ykAERW7Y5f8-_qJJbNMzgvnNTDnouNNN8MY19DEnnN7Z4Gx5hdzEWlXbZQvQkKdbJBO9_CXf_wHWwAnrc0xJEVaKZHgCDLgtvN5uV-6NM2ncXyka-wQ
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: David Spencer
+        uri: https://maps.google.com/maps/contrib/102148967062271736911
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWbdLHtTQ4HRFGumhUfW3z-2z6lhNeduKLJZY7ARwl_VdDZjyHT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC99bWmMA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC99bWmMA!2e10!4m2!3m1!1s0x7c006681365487a9:0xc636d6f95e33af2e
+address: 94-799 Lumiaina St SP.201 BLDG.2 SP12, Waipahu, HI 96797, USA
+street: 94-799 Lumiaina St SP.201 BLDG.2 SP12
+city: Waipahu
+state: HI
+zip: '96797'
+country: USA
+neighborhood: null
+latitude: '21.400568'
+longitude: '-158.008859'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Genki Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x7c006681365487a9:0xc636d6f95e33af2e!3e0
+  placeUri: https://maps.google.com/?cid=14282839634767753006
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006681365487a9:0xc636d6f95e33af2e!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x7c006681365487a9:0xc636d6f95e33af2e!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006681365487a9:0xc636d6f95e33af2e!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Genki-Sushi
+
+---

@@ -143,10 +143,6 @@ city: Washington
 state: DC
 zip: '20001'
 country: USA
-address_html: >-
-  <span class="street-address">476 K St NW Suite D</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20001</span>, <span class="country-name">USA</span>
 neighborhood: Mount Vernon Triangle
 latitude: '38.902322'
 longitude: '-77.018697'

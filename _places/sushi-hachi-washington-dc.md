@@ -33,10 +33,6 @@ city: Washington
 state: DC
 zip: '20003'
 country: USA
-address_html: >-
-  <span class="street-address">735 8th St SE</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20003</span>, <span class="country-name">USA</span>
 neighborhood: Capitol Hill
 latitude: '38.880034'
 longitude: '-76.995221'

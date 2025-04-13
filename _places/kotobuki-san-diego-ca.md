@@ -1,0 +1,212 @@
+---
+layout: place
+title: "KOTOBUKI"
+permalink: /california/san-diego/kotobuki.html
+stateAbbr: CA
+stateName: California
+cityName: San Diego
+place_id: ChIJ60CcUtr_24ARyJNk7yor4ns
+photos:
+  - name: >-
+      places/ChIJ60CcUtr_24ARyJNk7yor4ns/photos/AUy1YQ3GmCZnkI3YifTX-dR8UcZe88XFK4KZmjZCz6A1X_gi0ft9697gmGPVCh_9uqzA_VogTu7c5GBSKBGj55dZ9E8qXGSC37C9EGQswzcUXYwPOqmC182t4wbBCNHlABUWJtBS-wyuO8DDMtI_HsNhuKCGr6y_BsZF-Gm4UkgViamLhzgLzbnV8HukC3jJSa31D_b82LyWgYIEnq85bKfmOmkS1PthXngdRVgdH-YAMDvMaHzj412CQz3myBUU5zEvdBsaVOGK1v4IZGS1QVWtzgLqAqpQXGYPNAAPEFXY4yr0dQOyDUOnsTIWCOydW8uilN4ijxZCsV3WIwsyoGhQxB2on8rnRjbVYOekKOmg5fwV1iiLNLvXZql0-mWZAxkg7Sp8T2EeFMXqohVeClaCH2sEwBr3ECVLIQTag_epAZJ9nA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jeff Cooperhouse
+        uri: https://maps.google.com/maps/contrib/116375863941506286933
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWB345L6OMOlfvAg1xbRilvbwhWAjnE5cQ9W-yfa4rG60Ebs0dE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX6sb-XQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX6sb-XQ!2e10!4m2!3m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8
+  - name: >-
+      places/ChIJ60CcUtr_24ARyJNk7yor4ns/photos/AUy1YQ1q7KGz9GzsRvxmQUrLRMpdtL6cSlRTnF5c6p2QR3r-w7YjlEMKfkLiWV6b2uF16lPlxWuFXOAbayCooQm6T6AdV2WSFGPIXPPVXBFJXcFmojJsRrihjBATX8msyAGzfgQjoWCSazzkYpmSV4o8bXzVc8tFgp3YIMwkwunx4_sckIr22JRyJwuHgHz1Wz4axn5P3WlWjjETemT6c-5CYjvXWPklJdmKPRPKkKHyYVxKkkxAhppkEp47KECJEVPeBPAupJgtKWJMRGLywdeDapqLDZ9faNRKUn9yLZek0NFQiu3WuPDq2-kN-Xep2ni2xpCr8laTepoKopxv2-BqD35aA2h0zHni0VlCPCP9SPWFzbLEx-CZ4tRwl5Gx9-hYOoTN_AF6jBEo1QRO9wMGmtFX-kDOknOyhGe9QgtO74QvQis
+    widthPx: 4030
+    heightPx: 3022
+    authorAttributions:
+      - displayName: Jeff Cooperhouse
+        uri: https://maps.google.com/maps/contrib/116375863941506286933
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWB345L6OMOlfvAg1xbRilvbwhWAjnE5cQ9W-yfa4rG60Ebs0dE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX6sb-7QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX6sb-7QE!2e10!4m2!3m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8
+  - name: >-
+      places/ChIJ60CcUtr_24ARyJNk7yor4ns/photos/AUy1YQ2_MnT5L5FC9V_E05UeE6mbIH60uOdlCGhMccobFSu5GzrYh_74unJL9eV2Ubo-wqLlcO3UwNTsyS6lW4BxoRYrBSy_wrxXuxF5kj3VYy5ep8YmKujdpmnznY6AC_rFVhh9Uie1rmt_YKOyq7gajjFyXIUmWGtPoIee_IPccxWHyPejTeRnnLCUM_OPlqr5AUpP1AzA_37_1hS-rdZLwEZSGwL_XTWal46zrKYxLKz7SXzMg1Uc_QWKhYF3sM2hNXLHlGOLntgiHLQ2W68A9QOFPflay0mPAsUZmbEtzOxcLy90T_jbfRtb0r_vWpS5PS7_vd-qFF7waLRXNAjRcyd15wMcFnwoCw8hFgig36EznCLKkC1CDuXafDgMDtGyfSCrDIE9Vd7d7flwC9vk4I7VYe8AF1XXEQdvRFCksY25opV_
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Le Lee
+        uri: https://maps.google.com/maps/contrib/103494925270559633721
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUZ-jVD4X3a5mFRgV7G52UOrXKXZ7AdogVbMvM3L6UBN88rh5COwg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-rI-yxgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-rI-yxgE!2e10!4m2!3m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8
+  - name: >-
+      places/ChIJ60CcUtr_24ARyJNk7yor4ns/photos/AUy1YQ0CLqjT8kkyTTPqL81kYvWt36VLcXJ6JtG6wg7ysUqFQ1v3FE9rDYrUU32iRywrub06coZtt9dMLtHhO8h5RRwljUewzT8Ove4oaA5SHYgs0fuCY-rBvEjUpoZldLcShvgFODadLdwdr_7Fel0WaTKsR2WMoZC1CPnOssebri-MmictWqKEwvuFCv1GEuxeQq_PmXzvGYJ4dUjSv7lz99M7P00HB7aluah5cKJXoMUlnHp0tlpH12nCCcueh2T25No5Ni7ixZaM_7pI7UMQQhOvIjkNuiYYVF9vl2tArqD4KvlX67eEVlje63cfu0odJ26D87kmmgNjiJo3Xa6cTINoXEvOU_19gvjlOX76Mp-GxFi8tWw8tUQ_Y57q4GQFMtgrgFwE-Z8clO8-pL7ZdP1ILdRmQpsgAuL0oIXfrDgtXX8z
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jeff Cooperhouse
+        uri: https://maps.google.com/maps/contrib/116375863941506286933
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWB345L6OMOlfvAg1xbRilvbwhWAjnE5cQ9W-yfa4rG60Ebs0dE=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX6sb-nQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX6sb-nQE!2e10!4m2!3m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8
+  - name: >-
+      places/ChIJ60CcUtr_24ARyJNk7yor4ns/photos/AUy1YQ2L902Wt_QAxxhVoFMxPj1yF8vK8Xh_ej5uL-6dyJTZ9YRhKPGLoW7qDsMjVEXHgTp7iu-Fnpy7NucYEH8X_wbOrZwF1plNnyoS1U_8ZSmRgxNNrDwBbEIs7hIw7LzGx6OW6Oqr_UhSqB1zkSNA0afm1DyDGzDi24TVZl9TeU3mgti-JYGNtGRnakZog5saJciu2WuVW3lazWSfgMD4nA7OnQyY-mDkfBOpGrHuKHWh2OtXqX0V1s72loIIHivD29xvr-vSVgj2Fc3wCSAcdZZI24M3Q6cs-NaYnQDjAsnetVLryN478pquQpMioDUh5hFfpj2UU8qo-xPM06p67Ua5_ec366v3AqLxH41OMbfbAxlaPgzGUzQhQR8GWcMtJi06p3LaxEVmW-reZNVaK9ViGQZO7mEEo3P3ENQarmsHMyu9
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Nadiya Hope
+        uri: https://maps.google.com/maps/contrib/108504616229248868571
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVodecuEGd3xmQQHhTCURdV6mDH9Zbh5zi1f6WXBuWZJd41sk8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDm8NPQtAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDm8NPQtAE!2e10!4m2!3m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8
+  - name: >-
+      places/ChIJ60CcUtr_24ARyJNk7yor4ns/photos/AUy1YQ2-m93pVz0UP0OjQDb_1mwlfIPSBYACtjGuIk4QZsyKjBbUzuLg9cNIfXaRCsamfI-ngOTROUbFFjHUU4WmGJvWYvin2aSKJIrTlYaGq3FjM-5oL6wBjg0F6CvzyBuZQnEcxO50HpJREdzVhZITjHIa19Wd9UfoNeUsB-FcbOIPjjtZqB9FSMMLCgoDT3k1On7w167CA8Ur7VdOhAlmXwEyWHS8doth22JbUwuQat_hD7M8ENhMa0og1MCJfAUhLIo2kkjs9NJoBPJInFU-yUaSUMI5SVIEassJW3zEWnlpqQAv_yuuQefwak1249xs1uX9pC1b5L2KRawRhqcnsy3FLE1a6J-N3eJ3vVKErl4Wsxxc33Fy8YF4zZNQZ8Oi-ZVkmfaG4Ywj5L7CbwHkoeo3Mgl_e-2_H_2ovI6DqeQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Diana Ha
+        uri: https://maps.google.com/maps/contrib/102893166968250546588
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLM-TcKrk32lnJmBaTowYL-h79BEkTWNIeRAMgMD1nZv0_oNA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZ8KezJQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZ8KezJQ!2e10!4m2!3m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8
+  - name: >-
+      places/ChIJ60CcUtr_24ARyJNk7yor4ns/photos/AUy1YQ2foZt3PyeWu4ycEADdVwNJZyvzb6F1Ax3uraWpmcnebEalY__mkg80PsnX_j-U12NVLlwvP4tcWhfeCEsZUEkiRR03TFekuHe5zWp2gqiETBbBn-uTGowlzgIo81DZXLMqG_8kDOluyzlWsAAoQi6ByFh4Lv8l1NX8z1c3c-cvQNlb-rua7aIaIL1gVW40gi8q-cT8ZoLBw1M6AbGl4K9z1ILiuicqTzvjFW-mkzhXAGU0kjVCwe51OqzFsuw-GAEeHxrCyaggc5UexhuQuRfe6R5GB-EQQPgj9WcILtpccba7qOD07QaF0EQEZ6-1Tht-YUCshx8KIwlmJlGKqxQ1rouZMiVvzHSvC2W_k31aaZx3myWETwzj_xbQk7kTz8ZYM0h7IyC8WS2lScBF-BCShYuomr7DlBmxepCpdf_j6peA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Lester Mallari
+        uri: https://maps.google.com/maps/contrib/100579403313504711364
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJfHf5s4FlMYgUPKxKL_R01JT53hXfwOJHEMBlZGVfwBuS5FR9q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWxamozgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWxamozgE!2e10!4m2!3m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8
+  - name: >-
+      places/ChIJ60CcUtr_24ARyJNk7yor4ns/photos/AUy1YQ2Fjnhv75ulTZMiejCgzrG5uu_zB0IbGmJTigPKSp2UC1YDCtKomN_9HZZ3omLaC8H_ufQCfqTWK7mTuNVupWdGg0ZXdudEhAmChU8sk8nblG0MB8N2Drfj61Ts1zpTs940Xsy9FfVboEVQU1HuY8jNAnVXl6i7Ebwm2dYtucfG1Ft61abX0USdc2e0IGAZ74TszVzBdM9zZEu1iRElj0h9KxjXJnogXZvouFfyweb6vBorzdIl4J3k3PCMwx4Mrr_d8A2IoKlmZdtcTz8M7FN-EdMO4g2rFlnpq-w7-hiUW8Hp0iGiDjUIiz_scjTaf49xPB5kofMyP0HUBgrVkEREoPqjycG-qZkL_MTifI0l8bFzcUjUGCSozP2h0u-uQVFf5M4FnGH9jyFZv5xlYnhRS9UXhZRBIerwEmr4x2jfqw
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Nadiya Hope
+        uri: https://maps.google.com/maps/contrib/108504616229248868571
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVodecuEGd3xmQQHhTCURdV6mDH9Zbh5zi1f6WXBuWZJd41sk8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDm8NPQDA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDm8NPQDA!2e10!4m2!3m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8
+  - name: >-
+      places/ChIJ60CcUtr_24ARyJNk7yor4ns/photos/AUy1YQ3uBnUyOG06c6fBfZF-tkNJpOxu7TbyQH-Iy9uNEnxMF6NuxVn2jt61jft_HKzijPkYuS1U4nkYZz-2sxAOmNiK7KTm6Q9OTOA14JivP5IuzdS9_9WjWLnek4nC5TEygbV7HySc9-W9A4wJnDR2sJVh4Qwh8oOdN8NAsdarcLO2KQQiGQsY6ud-y3SHQCTh2o3apznjmRS5Rh48pbcyvBaVq6dkQNCEVA9yLByjSO8M8wGTpRWGF_fzCPFKrii2N2q7hc7_MP-syKItkUdwK3e0YRwAPmliQl45Xh8ln8H9S4ZJfscG0oRnjAvgZ2TYS_-vHBXmz-A6tLbGvLKuHlQGuiS2B3-O1XoLThKsckQ_Q7PMMhmX3uMg799Nwdhy7xuk7nWd_mRB2sIkyqnFcLPDa-9cyS0ZY7o2LhuL3To
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: John Travis Hale
+        uri: https://maps.google.com/maps/contrib/107604105353765644096
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUZdYuRPg1alrVePfBRDvVuhqeSCO5hraN5jx29amExLdxbud66Hg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICsoqzQTw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICsoqzQTw!2e10!4m2!3m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8
+  - name: >-
+      places/ChIJ60CcUtr_24ARyJNk7yor4ns/photos/AUy1YQ2B20R31Al70ohNey2PbeDJbEG64ATAEmDQ8yyJuukp0JqC_wzs1zuLKQOjdEUxRYyxhraTeisxka0I9DeQNj5klHtMGRiWvu4hB9l4MTHN9g9A-CwwYWrUh4-r0yn0-iFcI2KlHs62cNNsgXOAncCypgDG2EXoeBBEOFIGU5qET3jMD7HSxpnEZvckps-8mC58VnlW14haSPJyMaGphllOCSWhuyD8ZWdG5wrkzlwUy--0C5xIwLmS_EzW08TMxwcTuxxm7hsNqNpcBlhsn8yUTdTsWmX4xu5o9vBRNj2z0owczgY1kicqeHXTW3R6B3bCzE5Fmgph5IXBP0oVveX5ZwOmwMIopeq-WwBkoaJgn1sopwWDAHe4BeToVeXEBkJRYZ_4qkhuXi0NGTyf_vS236QNwQSox_IR9JIVTzVQGGlv
+    widthPx: 3264
+    heightPx: 2448
+    authorAttributions:
+      - displayName: kotaro nakamura
+        uri: https://maps.google.com/maps/contrib/106287297430213306938
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKtp0Vyy5ueT5PgP6CjBXaJAFVQZyNkCPzDcwTZU5VJ4CVK_X0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4vIPq7AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4vIPq7AE!2e10!4m2!3m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8
+address: 9340 Clairemont Mesa Blvd suite b, San Diego, CA 92123, USA
+street: 9340 Clairemont Mesa Blvd suite b
+city: San Diego
+state: CA
+zip: '92123'
+country: USA
+neighborhood: Kearny Mesa
+latitude: '32.832520'
+longitude: '-117.127923'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: KOTOBUKI
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dbffda529c40eb:0x7be22b2aef6493c8!3e0
+  placeUri: https://maps.google.com/?cid=8926744874806711240
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbffda529c40eb:0x7be22b2aef6493c8!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dbffda529c40eb:0x7be22b2aef6493c8!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbffda529c40eb:0x7be22b2aef6493c8!10e5
+primary_type: Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: KOTOBUKI
+
+---

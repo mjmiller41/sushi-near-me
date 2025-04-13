@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sushiko"
+permalink: /california/los-angeles/sushiko.html
+stateAbbr: CA
+stateName: California
+cityName: Los Angeles
+place_id: ChIJH7P76-G7woARLGaf5dWSGvk
+photos:
+  - name: >-
+      places/ChIJH7P76-G7woARLGaf5dWSGvk/photos/AeeoHcLwYbBxnLL5sGwTkADINqLnENt0Gio4_3MLl6wsrwIvYGNY4ag5RhUgYQVFQ4nNW-GFNp-PHmrP8VQKrqpL8vP62YzFkTTKxHpTqArGxFDR4zFR-Negd8JD_ojZIOweYjLTtdCEX0z6ItmnC1Doiaa8ijfP_2Ccy5WWjsgxloqB5438KAZFXGOBDbb91VTwWmovXN1-WqRixMdjnmecAxOa4y65ZXmn3WoZr1eVfzjmDqnwSLzZHqCMnmwMHtsjAO7Ga9yvWk-IiF3B2uq9JBryTU5fFHMYMJkQog0f1b8
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sushiko
+        uri: https://maps.google.com/maps/contrib/113730376280103522497
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXT42XE7cE3KOHkzg_eBWccPL8XO-IEVtv-E2EEubP5qtYXaA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOy-50jxq0HJDUsiQSMqQGN30Z7P3xotE1upGU&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOy-50jxq0HJDUsiQSMqQGN30Z7P3xotE1upGU!2e10!4m2!3m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c
+  - name: >-
+      places/ChIJH7P76-G7woARLGaf5dWSGvk/photos/AeeoHcK9pyXTWN0w-dl_y5XUTCsD3MxxsgFjG2_F_trK4dcQdAwzbuwbFByy0S-YX3RF4be5dJ9eaFpCoBuZk_Le8ZO-M2_6Fzu4jD8Xr1B2iH555uV8m06anvNJwHl2gpyXycnBqEbkC9rNAdNCU6tI6Pmjv9z8956nYYfIzCN0zEsov10obRnrLFzaTJaxUlJIARmGsRiP458DiCy9DYHCN0TGX_4LKNQRxP7P9gr3CBVwi8y6KbNQ7k0YAYRko6tVU7HZ31S6rQiedDWL-tmxILGANqxWR-fi-IWTSwyZxOc
+    widthPx: 4719
+    heightPx: 3775
+    authorAttributions:
+      - displayName: Sushiko
+        uri: https://maps.google.com/maps/contrib/113730376280103522497
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXT42XE7cE3KOHkzg_eBWccPL8XO-IEVtv-E2EEubP5qtYXaA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM8wkz-s4_epdI_atrYv2vc-v-y9D_QyJVQpj4&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM8wkz-s4_epdI_atrYv2vc-v-y9D_QyJVQpj4!2e10!4m2!3m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c
+  - name: >-
+      places/ChIJH7P76-G7woARLGaf5dWSGvk/photos/AeeoHcJRRXOLS-QasZzwYjUPXSGdfXQP4lgQPL2ewIEKiZgeSs7qA4aeL7qU3y4ShAO1fB01O4n-ohG23bonVFUNymcT8zdSLZNiltFAQUjGh37IBoZrCl1JRo2lcdQ14LQeV-VzJEsu34CzA0a3pdRmxnFlFvETGbAImcSsX6wogZqWB_HZmsk1TrVrpHIK_5DgpagA-UQ0oR9ThIfn6L5AKI0qkqda2M2zKD1vV2xP8X3GiM3mFngMjnKSdYpBfcTPapH8yaNzs5r7422yb1UD-orgX1qBhT2-fraa2kwF5AURbswE8i7_AkoOFQPcgP9aG0Jsr0t-7wVbooRsWuMH1rML5mhr1cXKfBt_LOXOd01Bvc_fDZWxqcGbC5cLFcIqNVi-45Ac_VJhCnaSeJ8o0L3awXtIBOoEjWGaepUH6Gd7og
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Eric Mork
+        uri: https://maps.google.com/maps/contrib/116128673820168471423
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLtEAlAl_V0Y8oN_2bO0b1KEmBGwpYEEsuv4Z3h5DUfwGWn8w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZnp6yTA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZnp6yTA!2e10!4m2!3m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c
+  - name: >-
+      places/ChIJH7P76-G7woARLGaf5dWSGvk/photos/AeeoHcJ03TbZmKfy4HroSHy9p2er4CXAhoe0trNJgJ3dkq_HsR3uVAnXLrHajdX-cS1n0NvScRrJV2sY6LYzOFTTpbejbplsaDZSCpuqMGMp61KpQ42VHPjOjNZbqYv7qWXiPVVW_NWZVTP3O-XsfK6XdQX0fCyub2ofC3mbWCzxXhTuFDz76qrABXRfuMagpoBS1R72oLH2alwBHzgNiL6640DKriLTfuFDxowf3kChzcyNhZw43IX60kfES4-m27CrLHWyvc5-4Ev8hiRJKGDnR5s6oCB0f11Q-jo-8VJ8K59Dsk9awTr2s-4xwGpOK7rsJDtLVHezqrN1MK2L-ZYAXZ3Mp8SPa4f7-NaYtE0jEIrIa9DDzHdMV-YMc9J6bNMJxGZVAQxd8yDN4XvR8SVb7dicPsR7C-rxUdSjWReHmerBl08
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Bentzy Weingarten
+        uri: https://maps.google.com/maps/contrib/105221222042252066299
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLZutw6Z4t-5jRk2lX80xvcC4PW9KogX7vo8vfH5Tn7pWPYsg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7wdO3iAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7wdO3iAE!2e10!4m2!3m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c
+  - name: >-
+      places/ChIJH7P76-G7woARLGaf5dWSGvk/photos/AeeoHcKaaDC3Buy9zS32P2e3U1uGZC-kD_Jc_Lm-ObthMeLkAKhfNfvBuveSWgLFvCqxxvnHCxJauq4EKZW48c4-6XmkgEnQOMkGNkYRV_fy6KaqTlqy97XrC81E-pe-znNOo2Ad-vgYwNg3GPNUW9IxBDZxoQkZmmPzjUZk5chgEaI2LDRhC2U_CVXf8uxwDl_l6SRb2drRH-HxZsjj0q90AILM8ZGoXox6FVR5E-DJUNP9csxXGMfyY5-iIGoPMN5XzU7Zkp9yFW1fKnIr2xwxl8-phxeGR1YH1JMV8VphSBE
+    widthPx: 800
+    heightPx: 448
+    authorAttributions:
+      - displayName: Sushiko
+        uri: https://maps.google.com/maps/contrib/113730376280103522497
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXT42XE7cE3KOHkzg_eBWccPL8XO-IEVtv-E2EEubP5qtYXaA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMCktEoHcsHJwMNFu8GeAmv9DhFTq3XGScVF3c&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMCktEoHcsHJwMNFu8GeAmv9DhFTq3XGScVF3c!2e10!4m2!3m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c
+  - name: >-
+      places/ChIJH7P76-G7woARLGaf5dWSGvk/photos/AeeoHcKGt39kBTyEYt5Zqya5CbP2U48z9o8921crIZMmt7CgYVesSbo2y7S7473L4k4iCuoO7YxUVaHGTOtLDmOdT6vSCorildzPVfBOMdy4Xb-NiJj8bFFDnsh4bO45eUG-ouvIoVeF0IyZgOzvWQZYh9jA71shbJcZLQOh36w46wmOhIOYRhIgHE1laVUIyaMbImLvRmJvK_gtOtny6OI5wDZZalxQqnWg2Fh8-vDKDnZQTIJi5MEk4ipqOVWOcL2KAFLAEbG_OEnMQI5sb68iQI-atHmRuiP9EtGVlSfV4Uf0hJcaXeCx7KfPkSC1VzjBTkH9gvqDrrgm_mkGHf0FMqJKfldjOlL5LNVhe75DsRsyHzngQnR5bOtfGaHlkw1WSIUxXSHzrrYSy17horHO6_smhfkGIdIEHFzJjJC78k7CI3oQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Y Barides
+        uri: https://maps.google.com/maps/contrib/111579005196665740046
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXtRsNCpGoiMWg0o-g-eOclIsK7E9wPg2EjxumGHsQ2Psqk2UTW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_ov2G-gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_ov2G-gE!2e10!4m2!3m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c
+  - name: >-
+      places/ChIJH7P76-G7woARLGaf5dWSGvk/photos/AeeoHcLR1NmLDoH1Yr9dQUYGT0TJOiPoFsNNl-1Y5owb5SGuw6Zdp_eft2tgRFtEMqDBlF3LLVuaZT6PUItXFKPSYSk-DOKbo4ZyKl28yseKLDxKGISjlUnwZrky_iJV4O1lg1ouvTnhDM2KH03YX1j3qzQgKPZBYe2GVHvADB6kG26PP-wh7tDdpoYRDL6Aa3tubKPlIuTrNOGUxfqMZA5s04i-1u25LWJKfJ1p1ZEslhscpTxhxcKCGXLW7IQ44DGRiy8P1uFdyBdt4keJOU4V4dYLi2HgTPwMecX6MmeXrMU
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sushiko
+        uri: https://maps.google.com/maps/contrib/113730376280103522497
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXT42XE7cE3KOHkzg_eBWccPL8XO-IEVtv-E2EEubP5qtYXaA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOwYPE0E66udBnxc4VDWFYV12MBQGromd0HGNw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOwYPE0E66udBnxc4VDWFYV12MBQGromd0HGNw!2e10!4m2!3m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c
+  - name: >-
+      places/ChIJH7P76-G7woARLGaf5dWSGvk/photos/AeeoHcIwcUZHEQ_VS528zMPRP__IkR4b46WrOg7xVNYJq29Ylynd7mdRmpSOA7P7RGBOkckhkQBPC4gT_peW1Ogv5BL0C5aCRs0P9KcQoZeYB_1GmClWs9r4arEPxtXVN0SlZGgV-IWwDmbI6m4Ku6-BhSLB2FY1lDWbbBDEiaEw8eTXdak-ciquZurXs4e3z7BqNOVQUkpL2eZttCgWqQBZTRqwMJ-dEIpnA8_pu94Wk3hfs6b-ueyoGlvd1XJDZICNw32uD3-CJgCfy2XiAvZMvFGw2I4eZK0-qxA_EADfiqsVqKK0qe-ET9cCCC1rQQy68C2ypP8S83baxzgMY_DpwvnzP7LKmIVrFKibFpFu-O3qLxyuCop9OXKHlxrADEEoW-pQSp1sPAF_Rl4mL9J9kddDPothl8wiAC85YXPDLJ3fwQ
+    widthPx: 4000
+    heightPx: 1868
+    authorAttributions:
+      - displayName: Noam Vasl
+        uri: https://maps.google.com/maps/contrib/107116864461691372895
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVs0YJPKtrId0b55PV9iRQD-chHZLvuLnT48_hqyDSvjlz-1FGRXA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3ruSoPQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3ruSoPQ!2e10!4m2!3m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c
+  - name: >-
+      places/ChIJH7P76-G7woARLGaf5dWSGvk/photos/AeeoHcLl6Zt62QXCoNB7viY24Xbh4AtBAsFptfECuGEaQUc2weNl20Ze1OH620_DDFGxhUh5eVhXSkr08qcGU8U4APqOqEpWu9iyHMtsxCYL5BqnLJXCNtA1JFeDbBNiNyfBWF7AS9OIYjGCSfFV9ePVvyRZesERIpnDTePkwkTHVUUp1siFw-zZA2He4FIkoNf-hQ2pSE7ERlKs2OB3qrLq72Ljey0TZuYPy_sYjwA9KeWrB0RRfaaIwSlEECRKNRK19wlrDvgtu4r99Ht-iRuc5Met1v5JSjfwyihEJzwtFsY
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sushiko
+        uri: https://maps.google.com/maps/contrib/113730376280103522497
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXT42XE7cE3KOHkzg_eBWccPL8XO-IEVtv-E2EEubP5qtYXaA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM4sXJl3aeSDWgOQLIyPIGv7UVgEgi9lrPiScI&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM4sXJl3aeSDWgOQLIyPIGv7UVgEgi9lrPiScI!2e10!4m2!3m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c
+  - name: >-
+      places/ChIJH7P76-G7woARLGaf5dWSGvk/photos/AeeoHcIeAbfmjFFgqF5Wjqqb-0yoB-z9NiwcGintwMajfKoplXlHy9nXY7Bi-0mF5aoP21YdcfR5kNj-0-Z4Y8KWP0xIr7G5FJrhprqSV-1TObk6jtVsV8rZ7mxlzCD84nFNy1Bj37L0bjj6OVQJvmZrnInPHqsoWS-Tbq8Rv1GnC1kowM6kCuAfw89lbf-A98JQgAAkw9u-5rFA0ZsSyv0lBxf4GbDHe68wkfss021OVs1K2qR_GSAXW3-bs036iccqKhUokSL8qUTTdIeFSueVqFqwpqSiJVbGv_musbKGYBw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sushiko
+        uri: https://maps.google.com/maps/contrib/113730376280103522497
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXT42XE7cE3KOHkzg_eBWccPL8XO-IEVtv-E2EEubP5qtYXaA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNgQfXwHdeq4NKkvnYsmBfZtbqmce1clPQAyQM&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNgQfXwHdeq4NKkvnYsmBfZtbqmce1clPQAyQM!2e10!4m2!3m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c
+address: 9340 W Pico Blvd, Los Angeles, CA 90035, USA
+street: 9340 W Pico Blvd
+city: Los Angeles
+state: CA
+zip: '90035'
+country: USA
+neighborhood: Pico-Robertson
+latitude: '34.054987'
+longitude: '-118.394056'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sushiko
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c!3e0
+  placeUri: https://maps.google.com/?cid=17949820712216651308
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbe1ebfbb31f:0xf91a92d5e59f662c!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sushiko
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Sei Bar Medford"
+permalink: /massachusetts/medford/sei-bar-medford.html
+stateAbbr: MA
+stateName: Massachusetts
+cityName: Medford
+place_id: ChIJq3hj3cV244kR3j-zjw-X-do
+photos:
+  - name: >-
+      places/ChIJq3hj3cV244kR3j-zjw-X-do/photos/AeeoHcJwRNUQsJ1qyve4bcRFwYAOtND0L3uq5qhRLotMPoC3eWh__1sJEC9A4P48zDohTFuf9765CeOvuANcaVLSJc_0zMnzxa4SNLf_4KUHdOLw3_Xa14evxd3iwrErvjkPAivRBJPzLeWXA-oM47A_N6iLRv_2SMf1NSlvTHHIxLnXqMY6Eaq1qZvwp7rnWsBG33tgcXI_h9TFdETr71FXqoBrGiW55QHBmNvfhdObF9CHD-BKGEwVK9q1svHdWvKmlKYE4ezJau_AdPmghGecD_oUGGHEfauQ9oXdego3kTE
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sei Bar Medford
+        uri: https://maps.google.com/maps/contrib/111357738841306282798
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWWnc_tfg8uQQn0XhrGCzN3xB2tUKJBGdcBhS1ktda1ShLBNw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO81vgbJhMLGop1k1yecvYYrwUdFulsEbSlJ2Q&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO81vgbJhMLGop1k1yecvYYrwUdFulsEbSlJ2Q!2e10!4m2!3m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde
+  - name: >-
+      places/ChIJq3hj3cV244kR3j-zjw-X-do/photos/AeeoHcJHv7RndLIvIULfNJ6az5hw6Bmam8n5mRbOfFBv3Bm4QrYNQpmTmQIzQdhNyKYp1VSKLaaLEfbeb63BdtFFfsDMcihxPbzdlXIa5uJxEJOTdsO5fj97Q2929DVg6zvrT1vb_mOa68BvB_AwyCeO1fT_fC8O7hDJnT1Nsh4ZWGxYnv8_gA9dgO3jd75QzO24xbb73MS3k4TMv1UDoiZn3SoFaeoiXMx94PuZjteH0bsTy1eHyUtRtUtbaSZ8_U5k95sruLcEcw13RtnU_d5re0pfdTsAmofL1wFWCr_jxKQ
+    widthPx: 1280
+    heightPx: 960
+    authorAttributions:
+      - displayName: Sei Bar Medford
+        uri: https://maps.google.com/maps/contrib/111357738841306282798
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWWnc_tfg8uQQn0XhrGCzN3xB2tUKJBGdcBhS1ktda1ShLBNw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO-85lb9Ha93NLdOrKzsHKSSL9PaLHqO3orVS8&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO-85lb9Ha93NLdOrKzsHKSSL9PaLHqO3orVS8!2e10!4m2!3m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde
+  - name: >-
+      places/ChIJq3hj3cV244kR3j-zjw-X-do/photos/AeeoHcIIQrEnPF6bHftdCazRZgS_oeshfkdJ60CWIj-ZAb8kJ1v36nu6OQOv5sF4yPBhVl_T0qSGFk4Sq5bj_BjGKFCBFuwYsYDqYkphqPHRCfaPZM61DL5GUgjot-CBYT48nzqVjJRc29UywCAfm0RJU027rkQ_DoCrPlJDhTLIQrHLnRO_b5JONqPkkAAGCabDZbEM8c5rs3RuWf3lYED1kbPn_4BsUlCHpSg4_uI6vqYHIX0yiVqsHeoepEBJVyWMx1OtEuBSoWxE59bVGdfsqXm69DAi0N413ly9A7op3rudTjuTKHPEfgGRRSX4hBD9vaBCn9aA7LRu2Xp52pI2yTdD-2XsMPz1CVmDGQZf65ZyJd9aOPmWxE-fGt6EEV_0LUq3IVN_nij0uu5QQguE0zeDVBf4HY98tFgpwDhpXOI
+    widthPx: 4031
+    heightPx: 3023
+    authorAttributions:
+      - displayName: Kelly Doan
+        uri: https://maps.google.com/maps/contrib/100731392681462439370
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV1NxpOn-yXbf3NURrjx3L7d86riDSKsKIe0p59jqBsahJhSWwrtg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrtuDYSg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrtuDYSg!2e10!4m2!3m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde
+  - name: >-
+      places/ChIJq3hj3cV244kR3j-zjw-X-do/photos/AeeoHcL9H1mzJKLpW0NIHKb-VV8B5FaB4xIC4S0-8MM8LpOgXJ7cyZrl0N5AT0nL8zf7mUkOn-J3tE3SqFsmHDDgg4ha1OCaZvptCAAs4dwNTEf0bcAnAc8MXcZWJfHaf4YkcbI-bCr9o8AFYVsq3MhIWEQ9g0BhgC3soGQhTHC2CB6HhZXHFVi4xxkfmOli_06M-YJIyJYbpcEKwsnuig6boDO26FUAoGEpUrMN42GNwlIzA5FOdJm7j0lc10pTrTNMLRcMB81kdQYyayIso_j9COs5BAVDPnLVLeM9YOjHr6KCDr0bs2IRgPVUU6u3FyEv94mbsM_kVk57BTKvIVKfKuxg50uaSKszUWP75caVOlt5BNrEk12XarkrHLOFGnIvs8Yu-kwuEjvI8NH69QPHkDnQLisxhcYCWnanF_OGy9sgSq2m
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Bruce Aleo
+        uri: https://maps.google.com/maps/contrib/109026460475613792164
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU6pHT782XmM2Li9HAN2cKPTwEprHeym1Nz3ASJOFSIYGzNMD5h=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-8aK0uAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-8aK0uAE!2e10!4m2!3m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde
+  - name: >-
+      places/ChIJq3hj3cV244kR3j-zjw-X-do/photos/AeeoHcIn6pAblCLi-HrlBjJXsvIQURj66qpWAiiOA_Y4bxepK8n9kIhLG9h5SJsiiAbFdmU_G5jtWDncIn_N-QgOOo4m9ey-vMf7NqRDEa9okm0Y47ila76JLJR01woXPfwptECQBHlXyyPOULsl7GC_mtFAK0R7oTiLMfoS63QxOvV7lN07NN7d2Q6FRI3u5MlIg95VSsZrJWt4VKBMY5VXCMTLlC64qnLv-7aOsHosw4TCFx1j4D2pwoudjSaN4Zz2VPNJDvGfvln1ky5RHMXJ-uGMk5uF56cZOxHej8xM11b7mdERMFtarjYtXtqNWVCxvpHThq3By-9cV3hTtOljUFhoJo-VGLd3sUnwBt2ck-Hedsr12j06d6Mxf4hD76MmQ-UMcC1MYGwiKUm1SQEtq6_lD9FILtjAbpq45KF6oP8N0Q
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: eeewwe ddd
+        uri: https://maps.google.com/maps/contrib/107857705502930125495
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocImQlg1FxjWWJU7cAvb32-aUJnmT31flT6px2eBZ2fxdkZ6hQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfz4jyMw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfz4jyMw!2e10!4m2!3m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde
+  - name: >-
+      places/ChIJq3hj3cV244kR3j-zjw-X-do/photos/AeeoHcITzuxsXS0NAhZ7Db7zr-TCNY8XEYN3PXiAgtnNZjneKbHXGZSSYxWJdsCcV8EovoTZoL_QiBewmQkrlCPKFf00WQXGkzSHi9RIc57yqIIEeA4MSUJxGAhTIOQfPSZCu4B5AZ5wNiWcJ8TYzi0r07ptBWVqzE2Uj3UUI3r_zno8TmVJfjeCZV0MgAbUgULqhxY3McO2hAdtB-LMs10JW-loMtE6Lh1zkPLIJwS-ZlmMOK0DaeCvN8X8ehPPWRjBTICdiYqezQzBqAXdouKVQgtaSFqNxbtHEyFHFlqqOgoqTAMtoM1PVqdoP3N1VtBRbvKXNtdQWV84wdA6g_cgGKIl7NjrJRGIrBiIy1l6Zlssk0mddIHAumFNe87EL5q1Xplbuv4yNXYgPqMe-20UUC2eogpFU47QwPUM6lr37JBADRaH
+    widthPx: 3868
+    heightPx: 3023
+    authorAttributions:
+      - displayName: Johnson MrBear
+        uri: https://maps.google.com/maps/contrib/102376174873554600197
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUHZJG7WgIJhkv6kdZYQOx4TF0oR1kTDSvClAucuKUpElNHGrBo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOloLNngE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOloLNngE!2e10!4m2!3m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde
+  - name: >-
+      places/ChIJq3hj3cV244kR3j-zjw-X-do/photos/AeeoHcJx8KdvaRoOmLFiUOnZJr1wlQvNiTSFu4eQIKB5BF5d6t3uMNcA9ca_Qy8xtb4DMmasQ6ckxp0HJo3TCWT7BbO0ITmIoPEdncQ4zf1-0M347zA2nnWd0wcoraQedkzSPTVajxEiWAB7ifTfXHRgduZH67ZrsERi-5bt75J6qeBcXu8Vq_71Q2Ylsz2WdoJATffTn_sIfgUzillCoWnVr7-bWwRc_iJoXjl4Bo68wKJYHVn9LF2Q1i-aenkMW-wiUJO0CXaP4o67R-sHSHcStLaR0CaIJzZp6RK8BMwZwqvkcDPxp18nTkGlMvxowsTtZw-PwAy7ZSH1MeBn902H8DD1C3jEF3BqL3VeMB-nwuoA_z_EzQuPKTHpkBgaNS9qDQOgA8ouFe0Fuhyjy3XnvsTcgM6nxjvwWNFng-TlL64
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Kelly Doan
+        uri: https://maps.google.com/maps/contrib/100731392681462439370
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV1NxpOn-yXbf3NURrjx3L7d86riDSKsKIe0p59jqBsahJhSWwrtg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjmMqPUw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjmMqPUw!2e10!4m2!3m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde
+  - name: >-
+      places/ChIJq3hj3cV244kR3j-zjw-X-do/photos/AeeoHcIK5vg-6ZhacdO3ZKdKj2MMKxdfEvf2_mdbaW612WqrIGqur-JhBG4wGT8yp6oNieVSIg4E14-X6M2_Sr3NIiJmkUfp7OvSTlMh_7nvgzgbZq9rYKujcwbn2-whzjmEGEjmmeDTISmwtWcv-PzKcletxEK7AFQfNMMBjDWGxI_CgtIorCp5gAJxuX4DUJupk1Xo9y8GbyuCjDwFevO0RE6_3Rbt_GAcoSjrhysOhB2CVO4JEGU5bvRRBOQAGHCL8gYplvZVzHWH9ly2nTHfXb5VcKb7xkdRlrgUb_d74b2aJGXrFjD0IrEPFTsxjdZQPFWcar0cWCBN6cOFHHJ6KAJ1n2-dHkOU-tU05-qCSYM0mgxhL55geQCG8I9y2NE3jbvoFmQo_65V38UkG1UnIyyFpTnWPvbGr2THFSlkcBbahS2O
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Bruce Aleo
+        uri: https://maps.google.com/maps/contrib/109026460475613792164
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU6pHT782XmM2Li9HAN2cKPTwEprHeym1Nz3ASJOFSIYGzNMD5h=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICr6Iau5gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr6Iau5gE!2e10!4m2!3m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde
+  - name: >-
+      places/ChIJq3hj3cV244kR3j-zjw-X-do/photos/AeeoHcLMVTdrX1EUKnRzMtgUJl2JnI2KbcrT4Fd4CLPCW6tyYljA4U9-LOpoa44X8p8jEowAbsmyQUdTDogP4kOae97MqvNaKANiNOGhf6cG1jfxRFNipmMiKaHKrg3wuOYMagl0IMEJW5Xwkj4xVUL0lex24TGjdPF89oF8rfQEHhP9Y1kHJPpjC0B5VIgMoDZRCcCH2Cm4Uz5_bfnPDi_J9GiSvabJ7WCUNw8mMDqbE7hnLx4OPkzpHUoxQExc9sZrn94hmS1D2kvX96R6hunA4SMEKwlG_QUDbIW6AXDUW4DIX_p2fwopWFxpfxKjKQg4Z65_EByF--ruVEbVdd2GGJgO4RZ0__WzGo9lOILsIp7pgvmaHmY7KPRCaIalvbtg-cr-hh6BzI1vTTaHhAqRjSjY6bFULSjFuqww1X0HvzR62lQx
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Bruce Aleo
+        uri: https://maps.google.com/maps/contrib/109026460475613792164
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU6pHT782XmM2Li9HAN2cKPTwEprHeym1Nz3ASJOFSIYGzNMD5h=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx-Y_o4AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx-Y_o4AE!2e10!4m2!3m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde
+  - name: >-
+      places/ChIJq3hj3cV244kR3j-zjw-X-do/photos/AeeoHcK6onDTtX2HYVxW7mFpdcTR7MNhgm_0fqkH0x_pI2-HDyeoRyK5pv7XHLD6EVWlMjpY_2-oa0lNsl-0uA5ZXK3JaRzO_tfQgvuGsETdATaJVmL2blD2QzzhC0QAivROFdboD8lTcbuetikewJ5ZFvpIfL9TRaUFhGkMXTnSO57jAdcGVrvsU2VTqEIWcPi2jpLFwJvG3DC33MQwtYgPec3HxpNvzmRgTl2H1bYld3vlqtwo-C5Cf_qCWu9TC8Uq5rCztXq-1BwrOplgi93mavtPJW6Pr2WoXCbwnVfTb70MUHg18oi1UMOyDBQtGA7prZPmX1xCRkoiIp8lw4Vrj0kKnwQihXnHmtq_afcFn_lNsW8IQviCeNg_0SwVRiAWayVylN9RsEKg2JpOGBH7zkXcYsPwdB2NQokbCfOGPLhfWrg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Bruce Aleo
+        uri: https://maps.google.com/maps/contrib/109026460475613792164
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU6pHT782XmM2Li9HAN2cKPTwEprHeym1Nz3ASJOFSIYGzNMD5h=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-9az1qQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-9az1qQE!2e10!4m2!3m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde
+address: 182 Main St, Medford, MA 02155, USA
+street: 182 Main St
+city: Medford
+state: MA
+zip: '02155'
+country: USA
+neighborhood: null
+latitude: '42.413175'
+longitude: '-71.110599'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Sei Bar Medford
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde!3e0
+  placeUri: https://maps.google.com/?cid=15778808862560436190
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Sei-Bar-Medford
+
+---

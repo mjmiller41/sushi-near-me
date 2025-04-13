@@ -1,0 +1,209 @@
+---
+layout: place
+title: "M Kokko"
+permalink: /north-carolina/durham/m-kokko.html
+stateAbbr: NC
+stateName: North Carolina
+cityName: Durham
+place_id: ChIJbSVVF3LkrIkRbrlb1t94cMI
+photos:
+  - name: >-
+      places/ChIJbSVVF3LkrIkRbrlb1t94cMI/photos/AeeoHcL8u2L0X0qSbUiIspHoLp-pl4CcCm34VVhu4AA0Jb5AxRMtqRmlmB1sxk0wAb55ZKolEs78npfGG4x0JhxNmrOUoChqEXzaze0cAHcsYndcl_Tmad6gHZZLcK50opifHQRuE0SBgjtzHBodklnftw-qJKpGE2Q4Cm8lnM3N31lYzqiKfiBpJykC146sTkYBL5Q-ke-9jIgHWtovfM5uez9VeKJ0WPfF3YqCzsGQQvqcnbukuuYLXniirXjKpVD3O38ZjQKgDKyG5V9emMfiWKIDveWJO78VifYI4SnQtAEGFQ
+    widthPx: 1000
+    heightPx: 1000
+    authorAttributions:
+      - displayName: M Kokko
+        uri: https://maps.google.com/maps/contrib/114700988833479155786
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWC3mv92ZhWTanNjRPIONVRv5nbzdR_-tuJUD1gaDWz_sygZ9E=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNGiYJhrq3TVQQriMZ_j0IHaBxwqVSqMeTqngsG&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNGiYJhrq3TVQQriMZ_j0IHaBxwqVSqMeTqngsG!2e10!4m2!3m1!1s0x89ace4721755256d:0xc27078dfd65bb96e
+  - name: >-
+      places/ChIJbSVVF3LkrIkRbrlb1t94cMI/photos/AeeoHcLqqJyQyixkFZukDApPHakJNwDG-YJ2EDAoSCBvaH0kW6Yi_FFzLht1mbu6CPPsaVio61D6XEdUZNdJSY6XDWDQoGJeHoc82T-JGOMVgU3dCrCc9Gz-hWzmGmuBCZ0k4TVb0-uJkd6-DtSBSbxFiispTAWOPRHyZVFhAwEljMmsKPRNu3pQOknjYt9I7HED25EnRhWmVQyk_a13bfke9Z8f19ySmFN1GdXnUGo8c-DBFlmgmG-4k4GkszeqrTZyFPFOE-CtoZcBnZa7_g6mO5NlhKEekondxC-Rwon3Fb_CpSf4lM88tSn2Z-EFMJBmZVS3Vxm4QFHZMMrhsO4hUciYJPYlmCLRy9IEZ6aj38RALswg1RTdPaCY1qhlyyVMgBhCJjQFljvqR-qvLdKfEaaTqmBLitp-Hs5ecRw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: John Ahlers
+        uri: https://maps.google.com/maps/contrib/100968015749403380592
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVuXjIU9Bz70r_Ms9RfiXmTOpXOrAAA9SWMoaPJMH2OWKRx-tm9=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4vq9t&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4vq9t!2e10!4m2!3m1!1s0x89ace4721755256d:0xc27078dfd65bb96e
+  - name: >-
+      places/ChIJbSVVF3LkrIkRbrlb1t94cMI/photos/AeeoHcIuJRkBe7ljrvBBREfduZ-m3JtyfN9zDSAw16Lq8us_yEU8IpVlGxCPeD3fXtz5-E7BSDod6cVWUsrjyR9JQb-K5xAxsEby5f4fgnOKbveqThOjbOFfmu72c0Ku38BrfQtctreIgv30cKIn7MRNeik-nye6_K6bMW4_EDx_OWWL5BwGZ30i5tUWp7RQaoHdgm5njWmMXaA6rBy0sg_6xlRPs5I2ryEJw4jHV2RtcS-NPW2W_XY3Zt0FPt2W-DJ7IoRijo5H7shuuekFww8KBUQDXfiU7Fn_O77vDG5VPT_2KHH8yAm5OVfCMXNK3Dck1k320ePKlX7UnhuRYT_c5dsX9e2lDrNGqJDPCbI9_Wrin78SOpWwIbalK29Egqb1MH4nqwWKBeHmM5_ENXDWrx1GSWUhzW6jyQWi3vpoiSgs8eev
+    widthPx: 3357
+    heightPx: 2331
+    authorAttributions:
+      - displayName: FeastWithLeaf
+        uri: https://maps.google.com/maps/contrib/117340743383363976988
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVoZk8L9cPXjoH9-Ep3GXv66xtF__vXS-NKgwkPvG785gLSRnY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfqp-rngE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfqp-rngE!2e10!4m2!3m1!1s0x89ace4721755256d:0xc27078dfd65bb96e
+  - name: >-
+      places/ChIJbSVVF3LkrIkRbrlb1t94cMI/photos/AeeoHcLFHi__M3o8m4beJrLGNkhlgVbEV1b4yBecPioNh4W7hmyw0jgTEN_Mo4MxmT1Aeqow1SmX2BvDo3qATKNyeqFyxy8rgrnIAYUQkJFvWLI87xP43lHPg8SOAemkjiWGSlq0xt0PhWB_hYJlMrRLJBJ16178VC5VIaBN_OLvdh4r-hJPotYLhVhJZAzd4jgdfCKXnJ5Or5X4Ew0mFvweJ4j5D-MGi-krHzOcbtWqTTXgLx4qHt_qKGoWuGPcBNKB-dgNUFJ5O4x_Ow6bhj_A-k_QmfhHd3RUT1u-ZfVfP8MzkE6EFmlfKIEnmL_BedjioSXObvuT4zMkXdv2fIwjrRIHpnMGCjRw6Xs2tHPQCZ5QFk3N-bYysQj3FoCz_nrFJexJw8DoW_Km-1Z8xrzl_1SWWkDgz_zEJ0b0vGE576voYw
+    widthPx: 1167
+    heightPx: 1441
+    authorAttributions:
+      - displayName: Tushar Gupta
+        uri: https://maps.google.com/maps/contrib/118443099523749958364
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIzOE3jDYBqUZ1c_5t4iS40KJskM6dZISq9B0FFT0J2i0xjNQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfwavfbA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfwavfbA!2e10!4m2!3m1!1s0x89ace4721755256d:0xc27078dfd65bb96e
+  - name: >-
+      places/ChIJbSVVF3LkrIkRbrlb1t94cMI/photos/AeeoHcKv10ki9moQDSvf5VMbaaXMH_9tXx2WUGSjOd7fJR4feieQcnrPLZFmvbudKgdkfQuMGLtt3fxW-0qnnjHkbiBwzbOp2m0Id6VM7Q1lbdiyqrxu_j3IXtY6NO-H2RbC_CbI0eFHF-sOHchpwCAHVZ-N47CngmmZFa6UpKac-qZ5-kOPmNLO8ezIo8W5XRHKwwcSww-7UkWyZo1LQfK6-hLuoXcxYAq92fxCXOOWfEpopNi_Y5p2nG9nYTvixytjIN_7DUvtMMZIIQZdD_VRUNg3pVPg6UpKiP-t_xFyxHzhJya1gheUHONNyNx8FRZAaw81prnWnL0G-Cn1ppyqHSFvQvuWUypcAnZXJg9cD8O69yRGX1t7P2TTswwMhSTQRyGvGgysgc-YoYXAiLEfrBfj0fmmjOKnw-x7eAFiHVmlMGI
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Cee Dee
+        uri: https://maps.google.com/maps/contrib/102509216961208358494
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV7agwGM3lboFOIZv9NzPyn94gtY1VHG6DRxNv7L8uyTs8fL1JO=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQkISa_wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQkISa_wE!2e10!4m2!3m1!1s0x89ace4721755256d:0xc27078dfd65bb96e
+  - name: >-
+      places/ChIJbSVVF3LkrIkRbrlb1t94cMI/photos/AeeoHcJgCT5PS_Run6D2L3gFhG0DRKdqbVPZJvOtCFiNxWxcJVcMdScPOB8AvE9yFWzD2VYl79r5KJ0cpXRgm5VMDOiULIGgIoz7i8GiNRRLqNaYFNw9uJXccgEd7Gh-HugYFDxgDqz71YAwZWbdIRrvuToiklJ3g-bS2DDuFtxRbGoetVdCRwNO7cO5xBsNnxDMK1_Qnu511ROtfETrLepD1zWA_iPP_c8Bgw7KWvm5IaB2TCS5u6qPRBtTp0SGi2O8LGVd_ywkwxmfrlsTZBdTZantEH59CIM934uT5-YEdWWyZ-Kp6um1xn1oj-ZsH8yF-OPsrrr9vd3CVsrDDFKanV3Sj9Ay9DjrHB6m2yZKTeYdqvL4Sv68jOofhph6jQKy2ViQzvQMqRqGMG-vjuvfWcAPRM2QXsk7hFUeYUbgdNtkw53F
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Christine Wei
+        uri: https://maps.google.com/maps/contrib/111287642688079407873
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUlqyUXkp1PFcz1k2Lzls03ISaPqc0w9euUdtc8P_0zSXh07aXM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr6L3R3wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr6L3R3wE!2e10!4m2!3m1!1s0x89ace4721755256d:0xc27078dfd65bb96e
+  - name: >-
+      places/ChIJbSVVF3LkrIkRbrlb1t94cMI/photos/AeeoHcJzaxLnnQVvDzBKMHvkBQWyE0lp8FxkoQNsSNV8LUT1m0Adl-_2yHIPxCO_QS1RSY6G2oISVU4gg32IqV-aC4RuZA7wL1ThlbCVSYOLaLfM-UHPYHWb6ye-26pmvlINxtZp05WuKxVkRfbjD1q5Sd0EjH9W_OX23TE8gOZKmFLKlTj4o0WqwHN9Qwb5PB1A-XZPqsxgc2G0mnVldW9XsOpNVa6DxxYKU1V86HHTM31D436iPrUKfs-zhm6NCJki0zZRrrwXI2yo7BXINPjtvPzw76TbP4XuJ7LmZBz7kMefpxjWeSbZz7vZz4WY34MwE0pmpMYs7HVLFpb_N4pd643aQFohmqJhSRY0qOJnbKJlmY5-ChEipDECFRb-h57MuRYsg_qXiiS4OZhHmvOLSp0YGIjbGx7HVFB-L3gV8X7uHptt
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jay Stalls
+        uri: https://maps.google.com/maps/contrib/107980127815657534823
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXtZTv30M0Y3zOe2oTA-s_MfEN8-n7JqS4nwGLR_7UDX5sSeq5k=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXpsOz0gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXpsOz0gE!2e10!4m2!3m1!1s0x89ace4721755256d:0xc27078dfd65bb96e
+  - name: >-
+      places/ChIJbSVVF3LkrIkRbrlb1t94cMI/photos/AeeoHcITZ7-zNuH0AFRshQqarTSI9NeHUFzA9YwMP3Uq15H6WoFfbPqZuTO6yOADYZ1zMf0AgTvPLndjd9P7h2tayHh_m9B6Tx266gAiL-nNnkEuFbJJa_ivbkAvMn9Qpa0Ya4ZA3Chkt93qvgsnUEiCkbjRU7CXT85wAco5fMObHINFtSFcF_--qY6VdoY_KKyLNOA1hQ79ybXJWloCxM4EB2EC_VeytTx9CJyyXEAuIdRjEulPjnkvlCR-lvMxCqQVg8a6f_NGsy6MWtJwh23diC5dfnRIph_M_xpW4iVxbasDrYOt-TmPJxQ-6PpcYuNGKmeSFnos1QcRreD6TxGQwFJ6LzEuB_5gUy3TBUlIjwQJv0hB2X7gG-zrsA1kevbYF4vsQ-BS11OHlZ1RHo89rdsTZ8v5uS7jMIVZsyrNErAMfoIg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kokila R
+        uri: https://maps.google.com/maps/contrib/117895853369065679129
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV_SHOXDOxJkgM_J_jfKl79swX7Y-UPZB6Vrk00lFDzcQo-2eOm=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzjpDguQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzjpDguQE!2e10!4m2!3m1!1s0x89ace4721755256d:0xc27078dfd65bb96e
+  - name: >-
+      places/ChIJbSVVF3LkrIkRbrlb1t94cMI/photos/AeeoHcLJTJG8xOmNAmVQzXuyIYtFds0C4aErxnJ1vG6nvIyimYcNoL8GeE3hwd0gUhgemHaO_xW2H7Kp78KAzLZ7XZUwAnV0_ScNXyhmhkl8faCVDmBtPy6xKpo0z_zD-XjY_KUlzBBues8k95f-iAaSMc0svSw-h2EJF2ZPwrN3YB1WM9eCUJejtZ5bqm47zJzveyU9Q-ecf6WzNToMePkNc18gN3nKZdV4fyAl4Vfe7CyKxcl2kREfoc3yMzzjTNLF7flXSZCKX4Zu3WEZ0yxpa_ClybzgyHPU-CWQnbtFVe8wamojE5M-9jAVfK29tTfyDO_N3lfRbnjXAtiMs0mDNq-F-zFvpeVNM9PQFroIf2jAPCQNa8hxn0PkjpDhefQOBvQI9KpThg8LpjGm-RubT4bbrzUHcAyttBS7eYHRUZMPI1Wh
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Chris Gordon
+        uri: https://maps.google.com/maps/contrib/106037038926695011816
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVL0NbUTDUgcrn9Lx0INIIpCPkG_f4qlLTx8WXXh7KCvg6VLqHv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjl8TF2wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjl8TF2wE!2e10!4m2!3m1!1s0x89ace4721755256d:0xc27078dfd65bb96e
+  - name: >-
+      places/ChIJbSVVF3LkrIkRbrlb1t94cMI/photos/AeeoHcIsmgvt0KKQoVCtO0UuAuROWYyIk_cMDolnoJFtLfKLOmZxdGpXspxE9dyw3w_ExEvgSpwsHWuYl5VlpBX7V-v3IHPl6oWECqjsVN1W3bkIls2RuPMwYnpFj8m3IHh-R3WYo3pzSaYaFvssqlUkLTXk3t87LUyVmwrB2OhfJROKPCoLDBlvd0O4GNIB2u53iV68of1sFI6YyOTZXO5n7iWfUrftdU_H_m1YUuoNWzt4V9KcQyGnp5IgrKHamRj2kWLbprUvRyIKlXn8_ODTU6EEP6wVaQ-0PvYpOO10yQ9uvFMeTiE_RnF8Zyqt85nexgCbuK3MeeoSYg7kL87FXc9bvbLuLugSFSEjJemPySgBiAKS72jrZnwKAaYhQ1hxuAcrZpDopY92XgrUgTDMpf98U41s7myH7hurkA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Bryce Jamison
+        uri: https://maps.google.com/maps/contrib/109513685106210786324
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVBvwj4jxH47P7pjrzJLGRHWTeg0A48DIEEiGe2pb6HUo7q83Bj=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICesp_avwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICesp_avwE!2e10!4m2!3m1!1s0x89ace4721755256d:0xc27078dfd65bb96e
+address: 311 Holland St Suite B, Durham, NC 27701, USA
+street: 311 Holland St Suite B
+city: Durham
+state: NC
+zip: '27701'
+country: USA
+neighborhood: City Center
+latitude: '35.997308'
+longitude: '-78.901227'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+business_status: OPERATIONAL
+name: M Kokko
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89ace4721755256d:0xc27078dfd65bb96e!3e0
+  placeUri: https://maps.google.com/?cid=14010831343518988654
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ace4721755256d:0xc27078dfd65bb96e!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89ace4721755256d:0xc27078dfd65bb96e!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ace4721755256d:0xc27078dfd65bb96e!10e5
+primary_type: Korean Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: M-Kokko
+
+---

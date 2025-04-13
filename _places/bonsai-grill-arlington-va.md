@@ -1,0 +1,112 @@
+---
+layout: place
+title: "Bonsai Grill"
+permalink: /virginia/arlington/bonsai-grill.html
+stateAbbr: VA
+stateName: Virginia
+cityName: Arlington
+place_id: ChIJJf3fuCm3t4kRCr8rILYLOTE
+photos:
+  - >-
+    AUy1YQ1irwOFjY4Ag-qPuWbik4B-pB7-Cs1LMsMpZXdBKDy-R2C_sihbU6uNK2vNLbH_6lg7ENKF8LtIGONMr4vTXs-9pYi4bhzLRt_QcDlYCsBe8yWOb8QK9LvTH6Ux8M8WQCMCefIukCX-77_B8VbXBM-NLVrijGO-zjDnMogBQIq65qRZcj1ppV56Yn7-hPqZmBIgfWky54Q-XrPDDW7B05qAcMVCb9zBArxpDV9m8NxFMuC9uBftC9S6_4YiKlkduTrxLTneopy81Sf3Y0OI-3CSD45nBGbARvYB2Q0NS0ouDbpZqO0ODuiHVBObpB7R10l7PZqlVTnLHw9EAgpSKgSCFvFNLR26M391BrkSmTZ5VMIo6ctLT7_OgIRnOoxu7UpZVdAYzdMA6vjcMxeprtbgKVrg2Xylbc_cORXlDvNakZNq
+  - >-
+    AUy1YQ3xyX6SHyf7FHhYT8T1vmtvlVvriCkCc0pcgeKwmrJIvB4LxC0oU4PXr3klChpq76jgFhM55EP_PAhSX2n3i6AeEpMWcMLGdHjLHqzng9C88t0qudgmSvDLhQWmrymfyidyS-rju24P9vhnUU8Z4cp59MrSacz9QIYw90ycAPRoPBuwQPqwP_pX40zV6s4yIJPwPyX_sfiRWqsOi2c7T3Zac0eJqp2eEpOx_hf6Nd7wVOz1eFiTLzmPB8gDitWBD3lKIgUdiB8g41cPvrczKXBPMn_8lhYxkoCBpzH4KS8oEJwwdP-UpTdMMaXr2drXp4yexax3syNe27LKl02gSWTXNU38MtRW7CPLRWLdD0phP-Z5cNtbBkMJ3-S8lrbSOQ9NEsm9X7dl9Id2tqK5DpcoGnTiw3Me8n8tIhpyB6U
+  - >-
+    AUy1YQ3dbka1Lg54oadwikcNwUGFgLU95hBGpeLUjB4Pj3Fu1sQUOcY8llzesuD9BxcNHB6hT23AG3463_3v_ZVLuJYB-4W60jyo8wfo2JWmsYyq_zUEbWko1GCRnifA8u1ktXOQcz4UzAsiPn2XituEZNHAZMvE2J2OBAr6o2_ybfny0kufvJN1L4afQo7GT8N1EWTaggweLwgA0tuYE0tyoy4DFT8DzofhIEDUvJJdpqWhwnaRdn1yvnrCnz0E8VPmISqp-p-ecbGptXyQPXVGjs99QSwtqTLY420XCT2J9N01j5u36TmoQlWIUm14h1IGB9dCXYTnUVHaOSJUOic4j1fTz-LukcQl3u9Ne31wCdK8jVL17hxtWrt6Gzlv5j5yW5GWoCOBhTm4lVCOZDvTgSBDeGhFJQV-RYKIBUDPIoSblA
+  - >-
+    AUy1YQ0sZgLyABvf4dGnCwyCtSDXswrY_vIxHC7N5BcFcpTAIdiEf1e-4_FyE4QMd90QKW9IjJ5RQlc8EYXI59kO3SVjJud0Bmrftp6Elg3Wc8Cj4hPiVRX68250Y1yf29TkGCYN2fRvmu4-ojnK3d6C_Kmn4UWmq0IPdobXilKseUsnfIhHXJiomy8yOkWV3nZRE98UKDwSpTmd5zM2Wv9btoMIwPjOkXvEc6VwaKITgNAZsy56I-fSIbqHCOeeLhNPaA7dgQBJmNTiT8KVdKF_il7PkKdijnoFED_csE1slixK15E6TFBmNdj7un3dds9r-xd9eNtXLH9OK1an33GcxsRC2t-nkPlI2tNJrCxVFolbLU0PvbgYxERBIZtf4ygBrb31KuFP-xDEKOQ7kraic1nH0RtoagghpwapeIRTBVPKKg
+  - >-
+    AUy1YQ0tQ9aiM0XGv1o1KRgmO2Wcx_bgV6cEr7mORGKCmv5Rp3y8wq-ek5Eep2izY0O2HRtwWAM4IaFBtAU-BAjCYt6DeeeEsIbuE9U9rq2sWuboCPlH3m1spk_qNDrF7tSQr-NlI9ilejckDHpdYexR30Cne-WpZwjHUyqP0WEifcXHoNgZSnUmavOqfLYqm_WlRSublzcQDal5ekXpkAUaCkXqgvhFa5dv5Oyz7flYW2unRVUuSo6c2T7qZYCXMFMlhZyBSQ1mPS8u1BesKpX_AnQnef9pHcUyF8QvKB51SYvkJlNx3tsSMt8KLpT-rdiZcPQc3EZ05mu9JLwnT88aPfriimkDvEUIStoJZ1p875tKLy7ZEz9uE181g-gSl7OyfPsIpdzTEFsXFP_r5idwdyL79qw5AN3MpkTxh0G8fVe98PEW
+  - >-
+    AUy1YQ0uTm4_2iUKU3u2fZHsND4mbJI-l4HJYsCTgVthFNWFirst_DDcQH_qfGhPaJVHiFuv4_THMDvKh8alrVc395IOBeQT5K0sxD6v3_rSS4SVFoNjoyrZyGw_OA8ANFb5zQRVza6aBud94PNYQ-S2adBZbYq_ipDe8-fM0L7TkAK5l_3tiX6fmcr89VCeuEZH20QIMQIuPH12u5wtO5wEHEEIQ2tZHHqQSdAgdCS14JAmkU0ShaQm84WhQvcJWEuiQiN1fLd_KJi2-QESxgaAW3mb-oqj6oA_-ta7yl808-qLboLS8ARQeiK-0pn0VP2ITbRwb1v6KMCPyOwwLGHpTkyiRCcKwfF2tJQUi8VRdpQ7I9E31LsjxmdOLkasPTv9S4wIyxuwIVd-AzcK6h5o78ugUwwjvsOlN0Cq6nnuq0DWCg
+  - >-
+    AUy1YQ37-ViBszObcz2pw8Gjnbb8YsrtkV0U81--qH8Gusvz7eb1sQrOBAlGwFsKqmaKveUoIythORxSps-THUOFYDXNPGSdGJoKxAcHiylL6FzFM6Sp7P77gusRhp9j4NVliSIBoQ8cwrIQnbW0oC6aHMnk7Wp9xIv_AV9F8Lgz_KKulbPcFOxfxYRRLgcqECSUZrDgvI-tagqv8T0hqTKyqFTdcTyHw0Vw2bpS-qXSmiiOOCKKseO8pEj4LYa_4PP82srOZ6KOSaMJKfQSoksgMV5-LUuILdEhpRY-T-2Lr6THDzgig76UpcJtKBLwHGECuPEOyD52df1hx5yTK2jCpA0RoaPNH-pTacLcrFsunfCWNrOwkNGXwLyMJKo0yYGExgCib5HU6Fr1mA3rEgOHJnRGHz0rhIxAaxCgxrHC90wdUw
+  - >-
+    AUy1YQ0tT_M84wfzZsYd2lgPUuwJ3ZnT2cQRoArXCkwS3BUBuHevv3E7fnfk8sjUTwtU7sQuw1rsqWs649oOHJ89_eopwnI2WVZkHSwXQ3rWVzyB72OTH2VcbocWeTR8fBA5xEuVEWUh19030pIDQhBdY6KqOUTHjdA9JMF9g2PwWs9Bl76_eA1opcBQj7ZXJsw_s4QBETYQSskFrLhrQkdCB-AG08tm6vW9LpBkZAABgLtYWbBvoMkp7FoI1DEkYXDwUdahM9Cjc3a7zDtY0kUNAdunSiUHbthn8kYbUFFwZn3Z44A4SlfQIyMtfoSeTHn7WXib3vU5EqLQ2MpvEdtTrm2LVTVOddr47Gk2sTgZEZfTwA-U3BbhIiG3H0fApckulhiLzipniag7oU7bFtoJURsSC5BLA1F-UMzteceNb6Mrcw
+  - >-
+    AUy1YQ0JIgKiL5KG7YGY6QwxQaGaYBBySo9d9ew668sA6YG6oRWi6nI8PkR8dUv2uJ7tfTBymHOexuXF7NHU-vNY6s8IC9Ldnm9I7flYqc8Yb_sjvkw4x_VLxR4y6-mj9oCLdJZlSHKmDgf7OAkG_uyzRrPRl329bobCSsHamwTMeG3mqSk1FHu9MEyLlNX3Mmo7Vg4Jw-Gio30AnIesycTACRfJnHgJtcQO9IqOJwzNIufplCDTf9L7UTptfCShruvnXA7i7klVJNLnhrY4ClOBvW8NH0OT7kPL7-sy5rpMrSjstt1NqLvCFW7r77MVhhNBQgtMbcOf5d6JIpL-5IIqsnl406qSpZKuNsVEfKsdGwRTKH3ImjgQIFKwurRz1Yv2TJUasRpTUMDZHYY5cicNu90KsbarA0H5EeoFmwixKbA
+  - >-
+    AUy1YQ0DsDKJ_L_flrlJGgbf5cwVNbwAszrRf88QZ62lBqKkP3PDvBkrtqPSkNkxkUn7VAJTHOFP5Nks8PIgg7U1JqGZpK3-zEEf4G-OI3Er_ANxOq4wRELgCAk90KSFTEzPDfu52yFkQp7FyUib0FYc0opNn9UDwXjyonQQQAyt5taEql0AygkzRHukFM-D06P_PGBuV-xGEqNo8LUakBCQgMKlQ_VfDHgE1RTWnlP1qTGHY-vqIqvf4oNguwnBNv4MiIl_2ffHQ3FxjML4UO5kyOuJM_p1EF33r6x0sq54AZ94hpC6HJd9rmeKqa8i_Big9fEL3ebxkj_8Q8T84vjl5YjUWadkwDcgF8GMr5sfqkDmveZjGWM7NVrTogzaA1upw0IBoFsFGbFFutFppErHusrSwhQ0zRXkcOrCklwAM7frcy9N
+address: 553 23rd St S, Arlington, VA 22202, USA
+street: 553 23rd St S
+city: Arlington
+state: VA
+zip: '22202'
+country: USA
+neighborhood: Crystal City
+latitude: '38.853427'
+longitude: '-77.054820'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Bonsai Grill
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b7b729b8dffd25:0x31390bb6202bbf0a!3e0
+  placeUri: https://maps.google.com/?cid=3546879058382667530
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b729b8dffd25:0x31390bb6202bbf0a!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7b729b8dffd25:0x31390bb6202bbf0a!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b729b8dffd25:0x31390bb6202bbf0a!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: (703) 553-7723
+price_level: null
+price_range: $20 &mdash; 30
+rating: '4.4'
+rating_count: 335
+website: http://www.crystalbonsaisushirestaurant.com/
+description: >-
+  Cozy sushi house that offers bonsai boats, bento boxes, Japanese beers & other
+  favorite dishes.
+reviews:
+  - ChdDSUhNMG9nS0VJQ0FnSUNfME0tLWt3RRAB
+  - ChZDSUhNMG9nS0VJQ0FnSUNCOTZxOWZnEAE
+  - ChdDSUhNMG9nS0VJQ0FnSUQ3eVpfN2lnRRAB
+  - ChZDSUhNMG9nS0VJQ0FnSURyeE4yNFhREAE
+  - ChdDSUhNMG9nS0VJQ0FnSUNfajdULWhRRRAB
+parking_options:
+  - FREE_STREET_PARKING
+payment_options:
+  - ACCEPTS_CREDIT_CARDS
+  - ACCEPTS_DEBIT_CARDS
+allow_dogs: null
+curbside_pickup: null
+delivery: false
+dine_in: true
+good_for_children: null
+good_for_groups: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: true
+serves_dessert: null
+serves_lunch: true
+serves_vegetarian_food: null
+serves_wine: true
+takeout: true
+slug: Bonsai-Grill
+
+---

@@ -1,0 +1,212 @@
+---
+layout: place
+title: "Umi Japanese Steakhouse & Sushi Bar"
+permalink: /mississippi/starkville/umi-japanese-steakhouse-sushi-bar.html
+stateAbbr: MS
+stateName: Mississippi
+cityName: Starkville
+place_id: ChIJ1U8ce0A1gYgRf7rMvzJc5U8
+photos:
+  - name: >-
+      places/ChIJ1U8ce0A1gYgRf7rMvzJc5U8/photos/AUy1YQ2jH16QQhorapur96vx0BS0L8S-JIkzURvGGxzKrh5aOMbEIz4YUuO_9n_1L8eB99R3An6enfLSDu5UreVdeOA5rzXl0JOXoux49dDHr5pJa0aid1roVoyVTZ9r7ErbADXwej0cOF4nPLt8zJWttLgvMQp9Tpuhvi1Ccfh5QzPvlMy-5o9EB8Uhtsk4t7qcBgxE9-rEzxuWl4o9Wp9eXDlEFd57cBRhygbkKkc9YbkvMU-Zne-KRH7-cgt-GEWxtsirtsB8gUAoEtDIWIY_UR-Yvw7r312v-RdkiajsTdJsbQ
+    widthPx: 1606
+    heightPx: 905
+    authorAttributions:
+      - displayName: Umi Japanese Steakhouse & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/110674781351076764347
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWDRWYVenKd9JCTQLyIsVfXj-bxJntKkMBBp0_afZNWtDwWIbo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOlj89MgdwQm-GyZ7zfmlnOPJFJZAvJdBTQqi3L&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOlj89MgdwQm-GyZ7zfmlnOPJFJZAvJdBTQqi3L!2e10!4m2!3m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f
+  - name: >-
+      places/ChIJ1U8ce0A1gYgRf7rMvzJc5U8/photos/AUy1YQ2KTN7LQWvhiMFlLkRqyS2S_6f6Tvchy5HiAmccAzPKEipGhp4QV0gCPH_k1UtoAbCDIYgCqZb_3j-1vNhP5dgKCtkYeJs3-o42ZDurJeF_PaWDO_WLPjS-RS96pITgMpVkVkRHcNGA7E-L-64-maeW_vAdNe7pOJ6v5cEPEFg4-Qz02_VM2dUEleBuYKDHKphQqoXSKdPei38_3ukMmJL4-CcCcXXZwKem8BudkcXVvR2E7mSLAMrSc1cDf2lOWnR_G9cvhxa-yp7m4_as26RjHXUPeTsiypAOgB8vFJVOLw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Umi Japanese Steakhouse & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/110674781351076764347
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWDRWYVenKd9JCTQLyIsVfXj-bxJntKkMBBp0_afZNWtDwWIbo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPoA_buEj6E1oDHn8qhUyVWLcuXUEjyxq326PQ_&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPoA_buEj6E1oDHn8qhUyVWLcuXUEjyxq326PQ_!2e10!4m2!3m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f
+  - name: >-
+      places/ChIJ1U8ce0A1gYgRf7rMvzJc5U8/photos/AUy1YQ0WnstA11vFYPEfSZcpEiJHUDHJbJ6wQVa0cQ9t6Vf19SdwS7psVBY9k-wFcwXvQ4xJGsGFYuCObj3FLF9WalOls98yZZOEdk3rTwyrUUhLLOjeIhfnrPqggt--YMfqINb_zUNy0gzY14Ohp7WA8XJN-4XjHkOayQLi7qDYC_1ubRT3f-izkfWFk4gEAJAlKd63QONDfRdFoJeLW2PfWAbdrj6-4XuPdqR6qDc_VH9z0GImqtHBATzGNQUwYyopCvf6cogFqcgrSfFVxAQ40THb2slkkLsoYRcwBIaHJh89O-oSJZBIHhpNJOa6_E8xUlWFv1wklWPUL4p1tJcmL-ab59s_e9dHpPizYaDxLNabdR-m0tZ10v80q5xe9-ttiAlUd3yodz8sPxeco-lKKyAJp56VhMkzs-AKrIOI7ax_hA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Robin Thomas
+        uri: https://maps.google.com/maps/contrib/105187499110661640798
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjyiyu3kDTC2etwIFLrlSXNnbauKP3EoJ7pgU_eZ7yEiYVr-PttA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC9hszTWA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9hszTWA!2e10!4m2!3m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f
+  - name: >-
+      places/ChIJ1U8ce0A1gYgRf7rMvzJc5U8/photos/AUy1YQ30KAlDLV_Ni6E9X7NWVYTD1il_IHxLeV1-nXcYaBM9rvTOwx1GyrCfFFOW_H_l8oicGP_peh6PMAJLYKsaiOGnyzJUwv2N87ogdYQfAyXtM2Owcm138rxkh9TVH1nHd4JCSNhA7zYBfeySrqTKt5M0yyzY9ED7T_6vB7eiZnmKVvmzQNgJEJAWGsaiOTza11biJKgp6wXn2tG7vjHinCyd5sD8IEe0iAeAWHfsIDT7nkINKTiXuR6e2SHGJps3GLK-OrjbrA30_MgSnWaLSnVNQiR-9tGb_SRzsLdoOi_xG-KpisNwE-dNtK0pstxsCHdykEx8rtFv02p7nKYddcnenPPtcL1JcspxPS5SBxK5D1wbiXKCeHdmR9aKuexlcBsTTszmI_iSpI0j1YpDx_MngC1GutFRGIAKcoCHqfYJJgBK
+    widthPx: 3060
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Belle Zimm
+        uri: https://maps.google.com/maps/contrib/103127903378241569238
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXQgGBrxiLtgNapqOhAJQZUxG9f86nkpVsLTUOxKB7rchVejNCedQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDV-aTOzgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDV-aTOzgE!2e10!4m2!3m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f
+  - name: >-
+      places/ChIJ1U8ce0A1gYgRf7rMvzJc5U8/photos/AUy1YQ3hx-v5GuuUgw2LixRenbb5YQgTCbDstJ21cMv-hZxUSJMsCu-EjtH91fJgvIdprMre67xXIghhYB7z3EgQgd1JBgPjWNbkwjDzceb_Fz2m5BnKnYrvc7t67O00dc_0A1592CT0S-jwOAk8VwcDOe3IZE9SJyahYMWpojMC1to5SCDGHtdZaaFF1cYB48I74tP34RX7nIpArUO6NRF-C3YdZTPZs0LYg1weuTN2KasttPIAqZPxT_5AZ8-Nz744og-Vlei_vdu7bYZy7VzxwDo9b7rfmQ3w_MihIFB_ScRNvRMjudJCLfzy0QaUL0xVTiGQoqpykG-Q2BmCXQKxaJ13UF8Ck19FJG62E5i8-WgSBFx5y5G0TT5cMg9Dlo5jz1nyUkuKo1VYhx8gZGE8UMZvKZ80Ko3vpaq1ijlAqGU27A
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Patrice P
+        uri: https://maps.google.com/maps/contrib/113434212805824932588
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJx7ahrjdHX8-B6CuS0RM31pL4NmPPxqO9nZGIYd7VoV2UaQw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzgLfdCA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzgLfdCA!2e10!4m2!3m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f
+  - name: >-
+      places/ChIJ1U8ce0A1gYgRf7rMvzJc5U8/photos/AUy1YQ0OZrFkOGAkQqMOeupL8upMaggrxq8hgVxdovyJoToVLCMqOciPGtxhorcRm5OyMLpiYrltPVrUec4UUdGHRP6HA0YoqYTrxpTp--ay3T9gE7CoEhyIvIJM3j1WaLnUZbWghqOZoQvBJA97NcR8pfC3Dmh_0kK0SyQE3BlB_30Xc-OBW8Q4ChhFlgQv_uSnbT81oJI94HeeHclUEL8f8x7kJkvPB-1FGWz_rdjHduxYegHMclKdn4mLHuZA-Y_jbNyuvY4EApf4vF70RFBW1yCHlQ1CRLHosZr9Dp-B55MZ8w9E1nJ6BxlJZwnV_cj5519SdnCk5oWsrW_7K1p5_54fmLrUvINm_-NEVA0EnFQ1eC5ZEJtYZkSJ2eRrGjHs-2dpVv3KuOKxHcK0IknMHZ4zpWeLp9hoLuva_rmHEsP2Vw
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Gabe Hudson
+        uri: https://maps.google.com/maps/contrib/114941945542082877493
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK6dLLM0-sBBFmTUtj39LikC5SJGdgBXiOgexq_11Span9QOQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx943ITQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx943ITQ!2e10!4m2!3m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f
+  - name: >-
+      places/ChIJ1U8ce0A1gYgRf7rMvzJc5U8/photos/AUy1YQ0MogwGYZocnS02kFiwbeLRhiyevS21HeE6J1K5D0_VfB0ApqmRXlrNpzZBFBHBc2lolSKES2Vd2yNPUOf14q7KItJ5rKcB5iYpGf4owSDthcOGLdzbXuZwCztNfU5lIWV5dqdkqgQQ4Z7S4ioilMWZW5L5ViZzBzbIggWwo8Hnxq-QVjujaxVfbTQ0aExM_4FaZUzVQWGQdt350USUIv73tkQ1u9v3_pYkwzwWOE7jKgsANji2-PQREwzN1wuU9kxllll_Xi7X7j3F9uHL0loqfQ1XgH-F9969IXSmOPWZZrkRJxadosT7JQtoNI8GP4jZ3LCpB4SXj8uwQ6jD_OP7jzkvt5dX0j1D-knoGcPVFFp69lWn9F_lO6SX5_QOAUd2lwqztBkifYL_im9CohXBOz2k6tgJwPv95BqDmY8nf2NkQ0ULp1flZbq--WLa
+    widthPx: 4800
+    heightPx: 2701
+    authorAttributions:
+      - displayName: Eric Krieger
+        uri: https://maps.google.com/maps/contrib/111388825722551685801
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUfMr_EAmOegaRaKu5UKi3EMgfwjgZlY7OtLv4btoWk050oVwiu=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3jU3Ni9IYmeuY_YACrs1&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jU3Ni9IYmeuY_YACrs1!2e10!4m2!3m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f
+  - name: >-
+      places/ChIJ1U8ce0A1gYgRf7rMvzJc5U8/photos/AUy1YQ0zIbTjrrzKFzN8oJ9OGKnABM8dGjDT7o1rpL5g6v9Qo4KH_t2WqRbAnmp_KNvJuHW2nvhBZ4IbbJuck4bPpSkdgo-VGixCkS1Uw5ORNp_BFGNeGHQpT3UUizhy-2rGS8e5G7WPf2-FET76ITsmHCBY6a-BuNxbXSWHZQbcSvoMpQZy2HBBVsxEvDAVsH0yAjvvJ1bRLayKuDR-86owPIyy-npCcwzxqaeX421gawDiiALx5Qywx4orH8C5x8oWyUlvIKuawWtrc7iGJthnLg6Pu6jOXoUWeGkxnpx7bNgxcwLrJJ-xnkcT2Tx47Qq64xShAvrd7h4TKNAxwYBOmcQcA4VkMnGiH_yDoWVKjnXA-INPpX2CtoxEki_gew5w4tX5APpzobxz7CfUygLE9ajbCWHqjuLSazILliIValuWoxw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: J Shay
+        uri: https://maps.google.com/maps/contrib/109433433265685310067
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuB_TkBtYBSHiHcEAnqnOd2OsOfHgsAtJfPQQIrnthqgc660_v=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICWxOjXkwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWxOjXkwE!2e10!4m2!3m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f
+  - name: >-
+      places/ChIJ1U8ce0A1gYgRf7rMvzJc5U8/photos/AUy1YQ0fixxMI6qBd7AxLiEHnRf30pHEOHrUpPkXZFdKmF6bnqNWyuNauiNyiW6hfoJkILL-OLPeSUyI2QTwKAiE3LPuGPoi9pLtUIU7Y3a5yld8u1K9dRl8lJ11N2wgYCnYbXzzG-5g6ZrESkXXT-tOIMlW26G5IUFI5NEHk7F1KTRY4uQNrdnrxNiHqID0s2-3CWZ07WrQwUqCjv0fdIWa_AGoIR8OjPc_69e4XRpiU29YDD1ZceGuPzqKMeJJlDfdjRe4OrENcOgU81eRJtLiW1wqdKbBEGaeZRIRe-ICp67hxmN8zrGQF0CrkZ0cS5lJEgktIn5WK3WtF6Bf53ug-oxotnhfJW5oCckgw7ToT8D0YiqL_DZCh11j3DyTK8iznQerRxUhGh8tbJqtGzXiGhKmRNdrivcFqakRSlVzeFzaN4I
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Angela Washington
+        uri: https://maps.google.com/maps/contrib/113790388978240518238
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW1gvT11hp_F4BKz3j0PYgJGUbyLiEg9Z96nmMrh1kxnqjh5dZklg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE8eHvoQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE8eHvoQE!2e10!4m2!3m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f
+  - name: >-
+      places/ChIJ1U8ce0A1gYgRf7rMvzJc5U8/photos/AUy1YQ38zXLToARDGHsnpJ1VCBB6LSvRfvzTYA4chW9s1BuUeXlAnW_9FS6uxw7IC7_YW1_ieoBEFJJcHhzyeGEHJ0uwweHXtNqLLPorHjh48nYUXGq2TyVqs23AIWilwbCPKvslOp4iPGL9eMbzkP2nNysQ2jSRfJUdrX8eCclqUhXIv1CU4RWko8tcr_xxfJLWmYVDWWc9PD6hltXc8wftORLzCm9iQehHQWefjXoaoLd_GdsJVW4SVo6GZ1oJhEqB5NPWiTyBKE2QGOHZBqj78D1wby1DrnQm4pA9ZPcHqzPeOU8eOgOkQ6xU1CHwAu2_-dEhCLBlUIdBmnpPqXuhWyWM9AWkdF4QIzAGBHScjZxnoL2iyGwpDuz0mx4rf7i4DVHZGdBIcyaDPv-ZtAmh24DZ-NarINinbRe4gs4-rgTOfU_V
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Michael Murphy
+        uri: https://maps.google.com/maps/contrib/103326982466344503749
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLDkhX4Vc4CSG9spMaFP9ma0Uaa8PlXDvrilfgenUsRDcxEXg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZgdap0wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZgdap0wE!2e10!4m2!3m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f
+address: 315 MS-12, Starkville, MS 39759, USA
+street: 315 MS-12
+city: Starkville
+state: MS
+zip: '39759'
+country: USA
+neighborhood: null
+latitude: '33.452501'
+longitude: '-88.823755'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Umi Japanese Steakhouse & Sushi Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f!3e0
+  placeUri: https://maps.google.com/?cid=5757109071699032703
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Umi-Japanese-Steakhouse-and-Sushi-Bar
+
+---

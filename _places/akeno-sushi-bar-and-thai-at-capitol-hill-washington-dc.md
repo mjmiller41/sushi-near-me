@@ -33,10 +33,6 @@ city: Washington
 state: DC
 zip: '20003'
 country: USA
-address_html: >-
-  <span class="street-address">524 8th St SE 2nd Floor</span>, <span
-  class="locality">Washington</span>, <span class="region">DC</span> <span
-  class="postal-code">20003-2834</span>, <span class="country-name">USA</span>
 neighborhood: Capitol Hill
 latitude: '38.881826'
 longitude: '-76.994791'

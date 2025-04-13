@@ -1,0 +1,211 @@
+---
+layout: place
+title: "Bushido Sushi"
+permalink: /florida/venice/bushido-sushi.html
+stateAbbr: FL
+stateName: Florida
+cityName: Venice
+place_id: ChIJl-m607pbw4gRsYqEt5kEsaw
+photos:
+  - name: >-
+      places/ChIJl-m607pbw4gRsYqEt5kEsaw/photos/AUy1YQ1Qx_RsUc5J5U-gnGStyuqfP0COHukXm5gIr8mj5g-npvBRibQC46HsPOQ8SPp0XAUJcWfOGx6m2pt6LeW6n6-IBEg-mQaowuQbKtMSAjcrLRI7P9UPhbJ2QN1y-5Lt60Xk32XVlWonO38w50iEkqCmH30aMhJ86kRzggfnX7y37_AFI5CAnPWwzcnctwBgEupVWvZ36fX2iUq2_WukhtISoKa3OB0AcNExRXIj1Zep8tKsOSVpsQBYdT5hM6iO5nYjwlLtV9aiz0PH-27VxjEhH9a0M-iefpyfpAy5iRrzo2uXrVVexngRhHhQ-lF8ARQtNNs59JXgJuaxMs_gy3KUnD4eePubFUxNrP3zOAYcwF7HP8RzJyzZeiQEuo4oJWD4Qcw9EVlgSNQPYpszpmKarQqiagm5VgSAY4PXiKX_Bs0q
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: M Becker
+        uri: https://maps.google.com/maps/contrib/101733035012908796695
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWNByZUE5JfpWbxEcQW_v89jTvssI_kZtGlbIp5MNchT1AIUQ_A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7uL-svAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7uL-svAE!2e10!4m2!3m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1
+  - name: >-
+      places/ChIJl-m607pbw4gRsYqEt5kEsaw/photos/AUy1YQ0IE5xFwNDdLm2fWi61wWpoAppIJQa31hWWH_2Mg9EYCPRZ8FqWFrogdoujaZSGMabORALglL0Kgw1fFu389mk9OQd_JOBn_kgqXRT3XZcGAliW_Efu7C7IFXAhn5zPFw0IVQigDidKMun6j9K2LG5UYRcCOiTyl5Dge-CAK0gp71dW840CFcQfwi1wKAYPm5Y-i6Vp9e769QlGasRe8JklET6ABl6xYV0WBBzqLFceIwA4YKDnlO_akd-M7qsgystq8heNFendWO2Lcn2rRk3dTOlcNKCGsQPJcigQrnd-DWrQ-XWHi0deIATZB72wG14eJ0wM3a3k_Z-V1j4lHBQiOsg5rP0yhcXZvDbGbu0syubsouR8Bpc0Go1Ipj-OSs2jJtPY-plIkjs2mTLy1Tm07NaWFBEhq_vE7EOY64x8GXf1
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Shawn Adams
+        uri: https://maps.google.com/maps/contrib/112883475745113874726
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVIMX0DWsg7cH3ritV2-wvxRV7orN-x_oNm4DtQBMfO29t71quG=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdxaCB8wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdxaCB8wE!2e10!4m2!3m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1
+  - name: >-
+      places/ChIJl-m607pbw4gRsYqEt5kEsaw/photos/AUy1YQ2BI0ARffh1gJn2IimLamvgcMCa87yTdlds8icswh-5bGz_NV_Km48hfUIH1LcZexjHrJK4N05TPa264KyjnJtX1lZSfX1tlslOEm0sfthNGo6Gf8Cs7pkNwReEDi6w24rXyZeKlh1B1yEjplARtbCWL_KaozsLv1TVuG6W3B41GYbVnjmr-QtdxFHTsLRainDqpIRIRSs-i8-Evu-kAOhRMd2innUKcofGIx_2qB7RhWEcfTKV-j7ooAlKSm8UV-tGUwCxUO80t1RrAmV5RlXIh7e879iEPMgYapbTfxbAQ3RTLhvcvJ7i6Q-5y6fjXRBq-whvT8ILUtfJPSplf4IcuQpLwNjl4j55d4Q8lisDCymk4b-oSoJRHfiOHlB9Rwb010VGQ5c3weWt-3lQ_0vqbA-qVJM8GRLf8iwp-b-V6g
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: K G
+        uri: https://maps.google.com/maps/contrib/107604638044831014493
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVN_JApXHPRWQGkqnvGREYyPmjnopjSUtRltXRLegs_OZS5DUIM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD2-mpLA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD2-mpLA!2e10!4m2!3m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1
+  - name: >-
+      places/ChIJl-m607pbw4gRsYqEt5kEsaw/photos/AUy1YQ1AQXQbujfHQxlPVc4Hrk9KwjCb-DT5ZOXptPgHCGBkHx4iXhQYVyq5A1WITBrBHG-QGc0wgohya2UiZNGiRK2BNJoYK21KNgif-5qCIB2tUcZyygXCxQ90OU6VJX0CZ7-oEVx9jzE0JOg1uVbKXERLIbvnoFuwz2yNfcHTvln716VMksD-o6cQCEKp9eKEasba2MClLYrR0B8JgxJ_uiI31KLTKwb5lS4U2YUaR-dPMPGtB7FYv3P4G_PF0PNbf-aijFDBxA7hI_Bs6jnXo04Wuo1joSgnACD9rMYX8aWeXm0Jbi2gKHLew5CL9ornhzULEMGaN0525eqR3ehh6WA-pqyb-lzCTSmyDPDRin-sZPcXTrmpl2W4fKlitU8WXhwFPWqy3XnH36O-gX_2I_-tiBRHKIP-yJQg5V9zJzwy9zI
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Westin Wilson
+        uri: https://maps.google.com/maps/contrib/108893795803887146243
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW9_CWPfZt2EVERBOMfuDp-9jIpOmJ0Kp-6WA7GP1Qe9icrE39n=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDllbyBjgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDllbyBjgE!2e10!4m2!3m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1
+  - name: >-
+      places/ChIJl-m607pbw4gRsYqEt5kEsaw/photos/AUy1YQ1TtgdZ-0KV5G5zxr3HXQSysWUqUeDaoxnL4s3enUYFbsi7EI_QP1ajPeoJuXJlZKsl3uS2caiIDdDNacuiEtiapN2XaK3ibgFDeHKbmcGczh4QwoNCzp4GlNmI_mKTFxzUZctHD7y-EmDuKmyyW3_p04q-LflSM1-tdbcdZzdE70Z4bHe1_Xvjieald7Xonoa_O4scGMxqFCkI0IU6ED5fNfu_hG_hCp7jTd0aSQnaCreSIfoQlyRFbW7UW93b46XThlBKJHF_gnKXdggQjNtA3EzH7_dI39wzc8OMxHDIAERqiiV9Szm7_8bfhvNNtoYEeSlbwkxG0bhCn_SrpKLV3YlzpRjXH919KPLDUVDtDv4WajiAot2m49MiUHxlAr499ZVNb33N_dfJTJQXrKnCW43yJg6OH6ZXzgWLXnC6KQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Anton Kovalenko
+        uri: https://maps.google.com/maps/contrib/112228773444409275873
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWCZ2U1kVvdwnXgjOQsWssLF7IMhZOqDIpdT_qpSQ14a12g5igC=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu_7XXDQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu_7XXDQ!2e10!4m2!3m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1
+  - name: >-
+      places/ChIJl-m607pbw4gRsYqEt5kEsaw/photos/AUy1YQ3p_7QFgiAKH2BrR6wxOhAERWiMMfkDDAanU242-PbJHfoTX2CKRTYY5y9jlJPr1LDLETqMWHDPkf9o7WsKjruJeGi63mEK008AMdVDtmKTBkLsQgfBMfDm5DN01j_14SBnUhU4siDo9YLl-YxYyX42peX85WWgoAUCfusG53kTYExk9TOhu77JPjELchBxyw6oZNkmCY03Hty-ZgYXX8Z3H6G4C_qOohJHNKT1cieMrWldSREsUtLXzUCbzx5NY8spd_-VdWh9ZWY2gCGy1N8RTVJo-K98N5U_GOumyldRuq_SSCCKkdRKs6kW0uraMOskW74tMzFDOTPy1RxTyzNC49_LRD5oucPwIMvQkj9A15Tb-cfZrEXXGdCubmnI9RXBxy_KuC0ohyW0bKndYURDx3oPsa3-I2MlwfztyrEzyMs
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Dana
+        uri: https://maps.google.com/maps/contrib/101783792006184529765
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX6RaIOc_koQwQKlPOSJPQ6qtMI-2qDhaRZgiqc-duMbiGt9MHMXw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7yeDd1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7yeDd1gE!2e10!4m2!3m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1
+  - name: >-
+      places/ChIJl-m607pbw4gRsYqEt5kEsaw/photos/AUy1YQ3hAAqQOCDzHx0aZBXX1SurJSQaHMQPcS4AdVYKFbTiuk-WadjHjUYcMxmGBrdEfbMllGXP35Tk-enxuT-P0R4tHlpdv9HjtIg4gayL3VncKtoIPe_zMJoKmSDjNDZE7HkIZf8uZgfU4P4uJINpag4y3kDjGSLgyePqJ4nf4QQF6UD7bKFGrNWBs9LN893fF3xh_eqORJQrD543W3o14OBcOdak0DBzvSjqqOtBI1T_ealvpxUwRRxf1C9E_z1LpQ4bNzAPUGl8NDzKSY9Z-OKomqcVhIma5qYRTH1Cx3zmqViZ43jwf-nrQcTYPi0H64723DzCxph9z6VSGjo2idmjZsZgg1ohkvIuVITD5rvUxTxr0TELhsfKvetl6Im1tBR5OVVDtmCa_WPreqWJFEocAQrZ44FIwhfKfRJ1key8dzU
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: TJ BASDEO
+        uri: https://maps.google.com/maps/contrib/112662707024464110292
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ3n-PGPQFaZBm7lMx3VzA4NaPaqWQ-TTAKd8qX3xaCyqUuPWc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDh-fmpkgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh-fmpkgE!2e10!4m2!3m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1
+  - name: >-
+      places/ChIJl-m607pbw4gRsYqEt5kEsaw/photos/AUy1YQ1bV7jnblBQXbBPLDbF2pjlDxP7Ql7GN2euqOgcDbeo5PK5kFkL3gc8DbI8QHVrgXAqK-AOJ2OaUBMRG_SnftYh0dYQu9HE1WvaQWBDT5t63IkvvAj7DFpngF4mVX3rts2o7ap7Ry5iPmnx_615tZJeyAGbtCU-PqJOAr1olXdq2HAzYogyPPjQNNg14MpYnHpFucppxqkZp5P2qVpAulAjX5KqApZ0lyyH9biNcdgGKPOLXLOnljMxl1NArlmpNJwUKbZj61cwgGMxZYJm-PRiCSUW0Q9NvQ0-bpJ4aGJAkfqNyr7XHFLsPzKu20YP6CCoy6rTyqAsbDaktRXu1QpuodqjfsZBjmaVe9xtKycg8OWmpETQHnu6ZWVeAYxD7w7-FCIJExuRVFIz0zIxh_2Q-REZa9q_lLYquINL-xYRpw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jennifer McDonald
+        uri: https://maps.google.com/maps/contrib/110475054612658285567
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXrBr3n7U2jKZEqzDZT1mpDrVQyM5NmXKX3AGIX0zBKxaQSKAU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjmuSxLg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjmuSxLg!2e10!4m2!3m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1
+  - name: >-
+      places/ChIJl-m607pbw4gRsYqEt5kEsaw/photos/AUy1YQ0oxrAEG3WnU7TvWXSydceFrm6JFB9y5tHSvFsC-1-CzUGMiL3zLoz-ftmKUDD-el6dlDpwYhFiZP3zlRmj0ZxDEsYlTWq36lfTqbq5QgFRUmy4CLBxFHv888Cnjo6ElgsgWVLDt8-Gg_P38QKQQake4G4a2sUjmGt-BSzA3WRUdgdT80CN-GYqPqkTnQ_b-dG3n5KMUhYurwJ0k6uvnS_olBApCzM-sYm-M8XjtDyreXuN02X-CtTv6tUbS-EX2kvHF4ErU-biXDRqf4NucUL5FjfUmZ0ymOuSujZd9VTfzc6Y45YBb-XE-z_G9uMfUnY2hlW-l553-k3TYGKWjSRorelECNh2PXe9PWBW8NvNabhSMDsIhHcfCoVKtsOoitdPaGKYxo714UHwWKVt2bJMc-VwbsZ2mSdseJwERVPCZw
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: M Becker
+        uri: https://maps.google.com/maps/contrib/101733035012908796695
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWNByZUE5JfpWbxEcQW_v89jTvssI_kZtGlbIp5MNchT1AIUQ_A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7uL-sfA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7uL-sfA!2e10!4m2!3m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1
+  - name: >-
+      places/ChIJl-m607pbw4gRsYqEt5kEsaw/photos/AUy1YQ1SD6JRApmExLZvo4eHA60fVoSaTlC4njqpBNi-i59YIEIPIDud5wM8vH_sNFLnKN4OysfkEAaoAO-PUGWxh7iwg9eM57x-ONCMshMNsoTnwiGdVRQV6zIwtv62S1MCbroQ9d-AG9Rq6bTA--M4sT-BqhQWlOhLESQR3ObT91aXFQ0rpDS5FWO4vx4nu2xie47goBjY_XN_Ln5wURvDdIXlGPx-Op0YlLdSFuarEWfmYc-N3XkUEO7WdsijP_Q9XrPqEY0JrIBoU94qvZUU3YlLvTDeI_eca01bWo1axQqqmbTlLSOVSiI4KyVj2YfRaeUuKmeuQTxM4epAcdotBnmgm108xSJ4V8dpWZlbVuGoPP72yUpFRU-PzGNRCRhZnEghNFkcPfc50xp3bC6m_RnjoG9uymA4mT_AVutT_-3tq5Nq
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Westin Wilson
+        uri: https://maps.google.com/maps/contrib/108893795803887146243
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW9_CWPfZt2EVERBOMfuDp-9jIpOmJ0Kp-6WA7GP1Qe9icrE39n=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDllbyB9gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDllbyB9gE!2e10!4m2!3m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1
+address: 125 W Venice Ave, Venice, FL 34285, USA
+street: 125 W Venice Ave
+city: Venice
+state: FL
+zip: '34285'
+country: USA
+neighborhood: null
+latitude: '27.099639'
+longitude: '-82.444969'
+accessibility_options:
+  wheelchairAccessibleParking: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Bushido Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x88c35bbad3bae997:0xacb10499b7848ab1!3e0
+  placeUri: https://maps.google.com/?cid=12443732303656815281
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88c35bbad3bae997:0xacb10499b7848ab1!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x88c35bbad3bae997:0xacb10499b7848ab1!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x88c35bbad3bae997:0xacb10499b7848ab1!10e5
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: null
+price_level: null
+price_range: null
+rating: null
+rating_count: 0
+website: null
+description: null
+reviews: null
+parking_options: null
+payment_options: null
+allow_dogs: null
+curbside_pickup: null
+delivery: null
+dine_in: null
+good_for_children: null
+good_for_groups: null
+good_for_sports: null
+live_music: null
+menu_for_children: null
+outdoor_seating: null
+reservable: null
+restroom: null
+serves_beer: null
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: null
+serves_coffee: null
+serves_dinner: null
+serves_dessert: null
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: null
+takeout: null
+slug: Bushido-Sushi
+
+---
