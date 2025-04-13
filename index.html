@@ -7,12 +7,14 @@ title: Home
 ---
 <div class="home-content">
   <h3 class="page-list-heading">Choose a state</h3>
-  <ul class="page-list home">
-    {% for state in site.data.states %}
+  <ul class="page-list">
+    {% for state in site.states %}
       <li>
-        {% assign svg = state[1] | slugify: "latin" | append: '.svg' %}
+        {% assign dir = 'icons/state_svgs/' %}
+        {% assign filename = state.stateName | slugify: "latin" | append: '.svg' %}
+        {% assign svg = dir | append: filename %}
         {% include {{ svg }} %}
-        <a href="/{{state[1] | slugify: "latin"}}">{{ state[1] }}</a>
+        <a href="{{ state.url }}">{{ state.stateName }}</a>
       </li>
     {% endfor %}
   </ul>

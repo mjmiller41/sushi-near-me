@@ -2,16 +2,18 @@ import { slugify } from './utils.js'
 
 class Place {
   constructor(place) {
-    const address = place.formattedAddress ?? place.address
-    const { city, state } = this.extractCityState(address)
     // Places API - ID Only SKU: 5C36-E272-E88F
     this.place_id = place.place_id ?? place.id ?? null
     this.photos = place.photos ?? null
     // Places API - Essentials SKU: 6E05-E1C3-8D85
-    this.address = address ?? null
+    this.address = place.formattedAddress ?? place.address
+    const { street, city, state, zip, country } =
+      this.extractAddressComponents()
+    this.street = street ?? null
     this.city = city ?? null
     this.state = state ?? null
-    this.address_html = place.adrFormatAddress ?? place.address_html ?? null
+    this.zip = zip ?? null
+    this.country = country ?? null
     this.neighborhood =
       this.getNeighborhood(place.addressComponents) ??
       place.neighborhood ??
@@ -104,15 +106,19 @@ class Place {
       null
   }
 
-  extractCityState(address) {
-    if (address) {
-      const regex = /,\s([\w\s\.]+),\s([A-Z]{2})/
-      const match = address.match(regex)
-      if (match) {
-        return { city: match[1].trim(), state: match[2] }
+  extractAddressComponents() {
+    if (this.address) {
+      const regex = /(.+),\s(.+),\s([A-Z]{2})\s([0-9]{5}),\s([A-Z]+)/
+      const match = this.address.match(regex)
+      if (match && match.length === 6) {
+        const street = match[1]
+        const city = match[2]
+        const state = match[3]
+        const zip = match[4]
+        const country = match[5]
+        return { street, city, state, zip, country }
       }
     }
-    return { city: null, state: null }
   }
 
   getGSummary(g_summary) {

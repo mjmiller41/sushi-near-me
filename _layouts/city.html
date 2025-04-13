@@ -3,15 +3,19 @@ layout: page
 ---
 <div class="city-content">
   <ul class="page-list city-page-list">
-    {% assign places = site.data.places %}
-    {% assign stateName = site.data.states[page.state] %}
-    {% assign statePlaces = places | where: "state", page.state %}
-    {% assign cityPlaces = statePlaces | where: "city", page.city %}
-    {%- assign placeNames = cityPlaces | map: "name" | uniq | sort_natural -%}
-    {% for name in placeNames %}
+    {% assign cityPlaces = site.places | where: "city", page.cityName | sort_natural %}
+    {% for place in cityPlaces %}
+      {% assign place = place | jsonify %}
       <li>
-        {% include sushi_icon.svg %}
-        <a href="/{{- stateName | slugify: "latin" -}}/{{- page.city | slugify: "latin" -}}/{{- name | slugify: "latin" -}}">{{ name }}</a>
+        <span class="link">
+          {% include icons/sushi_icon.svg %}
+          <a href="{{- place.url -}}">{{ place.name }}</a>
+        </span>
+        <span class="price-rating">
+          {% assign r = place.rating | times: 1 %}
+          {% assign rc = place.rating_count | times: 1 %}
+          {% include star_rating.html rating=r count=rc size="20px" %}
+        </span>
       </li>
     {% endfor %}
   </ul>

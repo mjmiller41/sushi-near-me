@@ -1,6 +1,11 @@
+import path from 'path'
+import fs from 'fs/promises'
 import { convert, revert } from 'url-slug'
+import yaml from 'js-yaml'
+import { glob } from 'glob'
 import { MONTH_MAP } from './constants.js'
 
+const __dirname = import.meta.dirname
 const dictionary = {
   '&': 'and',
   '@': 'at',
@@ -24,6 +29,30 @@ function slugify(name) {
 function deslugify(slug) {
   if (!slug || typeof slug !== 'string') return ''
   return revert(slug.trim())
+}
+
+async function cleanDir(dir) {
+  try {
+    const pathnames = await glob(dir)
+    for (const pathname of pathnames) {
+      await fs.rm(pathname, { recursive: true, force: true })
+    }
+    console.log(`Cleaned directory ${dir}`)
+  } catch (error) {
+    console.error(`Error removing files: ${error}`)
+  }
+}
+
+function objToYaml(object, globalIndent = 2) {
+  const yamlString = yaml.dump(object)
+  const spaces = globalIndent > 0 ? ' '.repeat(globalIndent) : ''
+  const indentedYaml = yamlString
+    .split('\n')
+    .map(line => {
+      return line ? spaces + line : line
+    })
+    .join('\n')
+  return indentedYaml
 }
 
 function getCurrMthYr() {
@@ -56,4 +85,13 @@ function timestamp() {
   return isoDate.replace('T', ' ').replace('Z', '')
 }
 
-export { extractId, dedupeArray, timestamp, slugify, deslugify, getCurrMthYr }
+export {
+  extractId,
+  dedupeArray,
+  timestamp,
+  slugify,
+  deslugify,
+  getCurrMthYr,
+  objToYaml,
+  cleanDir
+}

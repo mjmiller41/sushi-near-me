@@ -2,7 +2,7 @@ import fs from 'fs/promises'
 import path from 'path'
 import { glob } from 'glob'
 import yaml from 'js-yaml'
-import { slugify } from './lib/utils.js'
+import { slugify, objToYaml, cleanDir } from './lib/utils.js'
 import { config } from './lib/config.js'
 
 const __dirname = import.meta.dirname
@@ -36,31 +36,6 @@ async function mkdir(dir) {
   })
 
   return pathname
-}
-
-async function rmDir(dir) {
-  try {
-    const pathnames = await glob(
-      path.join(__dirname, `../${dir.toLowerCase()}`)
-    )
-    for (const pathname of pathnames) {
-      await fs.rm(pathname, { recursive: true, force: true })
-    }
-  } catch (error) {
-    console.error(`Error removing files: ${error}`)
-  }
-}
-
-function toYaml(object, globalIndent = 2) {
-  const yamlString = yaml.dump(object, { sortKeys: true })
-  const spaces = ' '.repeat(globalIndent)
-  const indentedYaml = yamlString
-    .split('\n')
-    .map(line => {
-      return line ? spaces + line : line
-    })
-    .join('\n')
-  return indentedYaml
 }
 
 async function makeStateIndex(pathname, stateAbbr) {
@@ -99,13 +74,13 @@ title: "${place.name.replaceAll('"', '')}"
 permalink: /${slugify(stateName)}/${slugify(city)}/${slugify(name)}.html
 state: ${state}
 city: ${city}
-place:\n${toYaml(place)}
+place:\n${objToYaml(place)}
 ---`
   await fs.writeFile(`${pathname}/${slugify(name)}.html`, frontMatter)
 }
 
 // Clean _states directory
-await rmDir('_states/**')
+await cleanDir('_states')
 
 for (const stateAbbr in STATES) {
   if (config.devMode && stateAbbr !== 'DC') continue

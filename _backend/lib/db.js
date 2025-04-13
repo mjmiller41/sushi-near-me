@@ -3,39 +3,47 @@ import fs from 'fs/promises'
 import path from 'path'
 import { config } from './config.js'
 import pg from 'pg'
-const { Pool } = pg
 
-const __dirname = import.meta.dirname
-let pemFile
-try {
-  const filepath = path.join(__dirname, 'rds-ca-bundle.pem')
-  pemFile = await fs.readFile(filepath, { encoding: 'utf8' })
-} catch (err) {
-  console.error(err.message)
-}
-
-const poolConfig = config.devMode
-  ? { host: 'localhost', database: 'postgres', user: 'postgres', port: 5432 }
+const sslConfig = config.devMode
+  ? { host: 'localHost', user: 'postgres', password: '', port: 5432 }
   : {
-      host: config.db.host,
-      database: config.db.database,
-      user: config.db.user,
-      port: config.db.port,
-      password: config.db.password,
-      ssl: { rejectUnauthorized: true, ca: pemFile }
+      ssl: {
+        rejectUnauthorized: true,
+        ca: await fs.readFile('./rds-ca-bundle.pem', { encoding: 'utf8' })
+      }
     }
-const pool = new Pool(poolConfig)
-// const rdsPool = new Pool({
-//   host: config.db.host,
-//   database: config.db.database,
-//   user: config.db.user,
-//   port: config.db.port,
-//   password: config.db.password,
-//   ssl: {
-//     rejectUnauthorized: true,
-//     ca: fs.readFileSync('./rds-ca-bundle.pem').toString()
-//   }
-// })
+const { Pool } = pg
+const pool = new Pool(sslConfig)
+
+pool.on('connect', client => {
+  const databaseName = process.env.PGDATABASE
+  // Check if the database exists
+  client.query(
+    `SELECT 1 FROM pg_database WHERE datname = '${databaseName}';`,
+    (err, result) => {
+      if (err) {
+        console.error('Error checking if database exists:', err)
+        // client.release() // Release the connection
+        return
+      }
+
+      if (result.rows.length === 0) {
+        // Database doesn't exist, so create it
+        client.query(`CREATE DATABASE "${databaseName}";`, createErr => {
+          if (createErr) {
+            console.error('Error creating database:', createErr)
+          } else {
+            console.log(`Database "${databaseName}" created successfully.`)
+          }
+          // client.release() // Release the connection
+        })
+      } else {
+        console.log(`Database "${databaseName}" already exists.`)
+        // client.release() // Release the connection
+      }
+    }
+  )
+})
 
 async function initPlacesApiSkuDataTable(client = '') {
   let release = false
@@ -90,7 +98,11 @@ async function initSushiRestaurantsTable(client = '') {
     place_id TEXT PRIMARY KEY,
     photos JSON,
     address TEXT,
-    address_html TEXT,
+    street TEXT,
+    city TEXT,
+    state TEXT,
+    zip TEXT,
+    country TEXT,
     neighborhood TEXT,
     latitude DECIMAL(9,6),
     longitude DECIMAL(9,6),

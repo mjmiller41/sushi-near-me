@@ -1,76 +1,31 @@
 <style>
-  @property --aspect-ratio {
-    syntax: "<number>";
-    inherits: false;
-    initial-value: 5;
-  }
-  @property --s {
-    syntax: "<length>";
-    inherits: false;
-    initial-value: "20px";
-  }
-  .price_level,
-  .price_level * {
+  .price_level {
+    --size: {{ include.size | default: 20px }};
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     pointer-events: none;
-  }
-  .price_level {
-    --brand-color: $brand-color;
-    --s: {{ include.size }};
-    --_c: grey 50%
-    , green 0;
-    --aspect-ratio: attr(max type(<number>));
     display: flex;
     align-items: center;
+    gap: $base-gap;
+    .dollar_icons {
+      display: flex;
+      height: calc(var(--size) * 0.8);
+      fill: #7c9f2f;
+    };
   }
-  .price_level input[type="range"] {
-    height: var(--s);
-    width: calc(var(--s)*var(--aspect-ratio));
-    aspect-ratio: var(--aspect-ratio);
-    padding-inline: calc(var(--s) / 2);
-    mask-image: url("{{ "/assets/images/dollar_icon.svg" | asset_url }}");
-    mask-size: 0 /var(--s) var(--_m, );
-    appearance: none;
-    cursor: pointer;
-  }
-  .price_level input[type="range" i]::-webkit-slider-thumb {
-    width: 1px;
-    border-image: conic-gradient(at calc(50% + var(--s)/2),var(--_c)) fill 0// var(--s) calc(20*var(--s));
-    appearance: none;
-  }
-  .price_level input[type="range"]::-moz-range-thumb {
-    width: 1px;
-    border-image: conic-gradient(at calc(50% + var(--s)/2),var(--_c)) fill 0// var(--s) calc(20*var(--s));
-    appearance: none;
-  }
-  .price_level input[type="range"]:focus-visible {
-    outline: 2px solid #000;
-    outline-offset: -2px;
-    --_m:, conic-gradient(from 90deg at 2px 2px, #0000 25%, #000 0) 0 0/calc(100% - 2px) calc(100% - 2px);
-  }
-
-  @supports not(d: attr(d type(*))) {
-    input[type="range"] {
-      aspect-ratio: 5;
-      /* max */
-    }
-  }
-
   .rating-text {
-    font-size: calc(var(--s) * 0.8);
+    font-size: calc(var(--size) * 0.8);
     line-height: 1;
   }
 </style>
 <div class="price_level">
   {% if include.level != "" %}
-    <input
-      type="range"
-      min="1"
-      value="{{ include.level }}"
-      max="5"
-      step="0.1">
+    <div class="dollar_icons">
+      {% for i in (1..include.level) %}
+        {% include icons/dollar_icon.svg %}
+      {% endfor %}
+    </div>
   {% else %}
     <span>Cost:&nbsp;</span>
   {% endif %}

@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Find the best sushi restaurants near you with Sushi-Near-Me.us, your ultimate directory for sushi spots across the US. Explore top-rated sushi bars, local favorites, and hidden gems in every state. Search by location, browse menus, and satisfy your sushi cravings today!
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://www.sushi-near-me.us' # the site's hostname & protocol, e.g. http://example.com
+google_analytics: 'G-9Q8C2EW976'
 
 # twitter_username: jekyllrb
 # github_username: jekyll
@@ -40,8 +41,16 @@ header_pages:
   - about.md
   - contact.html
 
-include:
-  - _states
+collections:
+  states:
+    output: true
+  cities:
+    output: true
+  places:
+    output: true
+
+# include:
+#   - _states
 
 exclude:
   - .sass-cache/

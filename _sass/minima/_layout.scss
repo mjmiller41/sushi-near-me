@@ -11,7 +11,7 @@
   .wrapper {
     display: flex;
     align-items: center;
-    gap: 5px;
+    gap: $base-gap;
 
     .logo {
       width: 48px;
@@ -111,10 +111,36 @@
 }
 
 #us-map {
+  $scale: 1.3;
+  $origin: 50% 50%;
+  $transition: transform 0.3s linear;
   .state {
-    color: $brand-color;
+    position: relative;
+    color: $brand-color-blue;
+    text-decoration: none;
+    -webkit-transform: scale(1);
+    -webkit-transform-origin: $origin;
+    -webkit-transition: $transition;
+    transform: scale(1);
+    transform-origin: $origin;
+    transition: $transition;
+    transform-box: fill-box;
     &:hover {
-      color: $brand-color-dark;
+      color: $brand-color-blue-dark;
+    }
+    &.isDisabled {
+      color: $grey-color;
+      cursor: not-allowed;
+      pointer-events: none;
+    }
+    &.zoom {
+      color: $brand-color-blue-dark;
+      -webkit-transform: scale($scale);
+      -webkit-transform-origin: $origin;
+      -webkit-transition: $transition;
+      transform: scale($scale);
+      transform-origin: $origin;
+      transition: $transition;
     }
   }
 }
@@ -167,21 +193,9 @@
     }
   }
 
-  .maps-links {
-    display: flex;
-    align-items: center;
-    gap: 3px;
-    svg {
-      flex: 0 0 calc($base-font-size * 1.5);
-    }
-    a {
-      flex: 0 0 auto;
-      margin-right: calc($spacing-unit / 3);
-    }
-  }
-
   .page-list-heading {
-    @include relative-font-size(1.25);
+    text-align: center;
+    // @include relative-font-size(1.25);
   }
 
   .page-list {
@@ -192,9 +206,10 @@
     grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
     gap: calc($spacing-unit / 3);
     li {
+      min-width: fit-content;
       display: flex;
       align-items: flex-start;
-      gap: 3px;
+      gap: $base-gap;
 
       svg {
         width: 16px;
@@ -203,8 +218,26 @@
       }
 
       a {
-        max-width: 295px;
+        text-wrap: nowrap;
         flex: 0 1 auto;
+      }
+    }
+    &.city-page-list {
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      li {
+        flex-direction: column;
+        .link,
+        .price-rating {
+          display: flex;
+          gap: $base-gap;
+        }
+        .price-rating {
+          margin-left: 21px;
+          gap: calc($base-gap * 2);
+        }
+        a {
+          text-wrap: wrap;
+        }
       }
     }
   }
@@ -217,6 +250,26 @@
   .page-link {
     display: block;
     @include relative-font-size(1.5);
+  }
+
+  .place-content {
+    .price-rating {
+      display: flex;
+      align-items: center;
+      gap: calc($base-gap * 2);
+    }
+
+    .maps-links {
+      display: flex;
+      align-items: center;
+      gap: $base-gap;
+      svg {
+        height: $base-font-size;
+      }
+      a:nth-of-type(1) {
+        margin-right: calc($base-gap * 2);
+      }
+    }
   }
 }
 

@@ -2,7 +2,9 @@
 layout: default
 ---
 <div class="page">
-  {%- if page.title -%}
+  {%- if page.title == 'Home' -%}
+    <h1 class="page-heading">U.S. States with Sushi Restaurants</h1>
+  {% else %}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
   <div class="page-content">

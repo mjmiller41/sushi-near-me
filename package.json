@@ -7,6 +7,7 @@
     "jekyll-build": "bundle exec jekyll build -I",
     "update-jekyll-data": "NODE_ENV=development node _backend/updateJekyllData.js",
     "build-states": "node _backend/createUriPaths.js",
+    "build-places": "node _backend/buildPlacesCollection.js",
     "build-states-dev": "NODE_ENV=development node _backend/createUriPaths.js",
     "start": "node _backend/findNewPlaces.js",
     "find-new": "NODE_ENV=development node _backend/findNewPlaces.js",

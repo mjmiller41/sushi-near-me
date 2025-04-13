@@ -1,0 +1,115 @@
+---
+layout: place
+title: "Absolute Noodle and Sushi Bar"
+permalink: /district-of-columbia/washington/absolute-noodle-and-sushi-bar.html
+stateAbbr: DC
+stateName: District of Columbia
+cityName: Washington
+place_id: ChIJ14Ze0423t4kRtHBdW7SIpcM
+photos:
+  - >-
+    AUy1YQ0ZO0jGBhnlq1wpUdRi7X1mEXJHjOe4zeMuVJALxF7Co1bgnATqSbkzzdBlKp0hwQFGfkE39101QZ_Eb1ObOZuQi1qpb9iLGporxf4VuVzu_kgGZ5ChruZMPdhJEZ2uf7UuOczE4Vc5TcPXZg4SKis36qvwfievJQlMwN2Vr3qWgs7Yf55ipmpJTv2JRO5ePq3kFCUh0atqK582U7QJB5ihi5PEemf8hw5OmrSpsYTU-R_CNKB4HOpqivphPb14OHcUhc9lXA7Pg4Xy4wDoE9gARM1_Y_k2dP_uOA4ZQPE51UemQ8aATzX48kREoPyuk4yYFC-VBEDslXhK4j8ZSkxbG2x32ee0RLztbROVZkgPmDld-qStoutFkdxBuksy_snAV8mX__CprrPR2frlTzk4NjDGwtjjX7ol87W9u78
+  - >-
+    AUy1YQ1PfKPEYRkOgvuexdv3HCz0JKUf4N6LXckAoMw9OjjEtmGARFkKbAB-ILRnAFfL5JEjFsghuyh2kklCHOKBwjU-aU0ShurQmo6vRlHFReCdaftRUU_mDSpiTujVQc-cuBMvno01_905SG5UsUYWYRUfwV96Wyyn9DLqt79fj6NSi4xjq7vl0MivARyfRge50jQ9TXZxAiKSWBDBypp0E62AjSZ8mEWu-H-t6FRMCGNwwEgM9YlPaw3HazVSl7wmoTmVecO5oycZkVSAIbyPSgM0JnkfoVjFkYPT7yTDpRLCBhTD4nbD5R6rYtiNAO1codkjyq1m8vIv01o71eer-b9AAotOcIRhz7qjtIF1DEZgxqP_62sfLFn7RixwFeeppYhZes9WzO-hC6sEbzPJGmTRA8CLY5MAhWTkWhpVd_w
+  - >-
+    AUy1YQ1VKjZ6qaKO-sHSV6z9v9BYpJ1SSPsDkLVBhKQetAiTX04dlLtPmasMRklawV-Q_pC4S52Y8ebLv51_mMI_U_zlFlx53vs0W6SAGXRH6XNWLzzh4qdZNFq3nd8Mtah1lkUa0r8PMuhoSQWchcl-UD7k0SLtRS9T9w0RhY5-6ChtohaMVSFuUy52M03Coz6KhR8dPMQhMjkTZTFCp6FV7LIz0fP47XeQuNPzQfflebngSpK3465agcMKYPz8Nn4FFUQ75aUmCb-WfaYJU41aX2KwAsyYA9F3naVjOz0LQSIbeZNr8fZP1-HdOjbdhXdHDYSL9ZzSH7a-gPSPbOKTgYm-JC5HIK91aewdQPxcKiJTeiiYOwn6pO9gfOTdOkexho9gZkYFomkYH8cGph9HdfMh-HUcn0thiQQOqQOsDLNDChRz
+  - >-
+    AUy1YQ3m6r5vxorU5fz4B6qMdmpm_oFvmmaEwiGrYC3-FSngeKlHr0btCRJlTjdELjzxRJTWvI4Sl51_Zr2ZUdxAyw1QfShRZwugV4sJNCiF9V-CXqhKXwjNQ5V4k-jZ-_mlGwNuuGjQH268Zr2LsJCkHb3zykDLtNhByp6e5_FLJ0SYGdDuiv6i5H6sxQnmVsFCC8ExI5TJkwjfNCRDBba8IXG_HOCxX2Eh3rlm5Xz6u8NKND6vBNcyPu9ma23ZRS80BqK-UuCWxXohKMNCmzgx2yJenAmXc2-O-7EhZjhNtdnKMt4gPvo09nVa4bHbBZucMtnLiaqob-hwfMhLBIv3NU0knMaBACJxOoKeSzUzc6PP_mHTojTIx6RlaZo9wgzLUdcgjNYWuCRVAvEc8gZZ-I6Q24GbzewCcebg87gzVpY
+  - >-
+    AUy1YQ3Upf2K1Y8-3Jq0v8P1Kal3dFqrvczDUG9v1qka8ExRBKAqAVug6z7X4K_W2oV42G31ubVxJtgpA13DxStJhd-VawWcMIF-NYPzKcUPlOabJER8xZb7h_gSpDrgyinWVRedV8H1rn1Ru97KQuLpvFEXE2C3zDovZaxO74T4k6qNLbrPOEZ1jBD_g5hbHxsAHUKttNA17m5pxVaubw4BrSL9im7onh6h5ixqnLdNbnKvZl1lrUzr1hOyd7BXMGrnkpjn-FHwYyAcqnm40k4jPFPw-sJTH6go1lmOiDXRMdZHealQCva2Td1XvAATgvQCK8j2bFDr-Mso7EDIKxBd-0rhABQSLC3Y9m7VrE6BEB_Kdf1G3_NRniGNUwMaeh4CXMUDGbWnUbBnIPP-vOJf8avP_mDaYrRWhMiolROw_cMVwA
+  - >-
+    AUy1YQ0TV5jZesg_03SbjhKqzblrmUjq_gjU5Uy1X6CMqqX9At0waFVogumyK6rtZIMWGJoKmYSFxwW0bmhOBBy1QBTL8M31KFXswXcchz0VUTVu8Wts3m5wlHNZCAB0jyJq6B63-RFOm_YMVP4S9JbPZPiZHv-_L1PSbvOLfswIdMFCJMB6J4NVyjvH9vU8Ac4Y0Z5oRAq3wc62fW6zyTeNZCYsxJxl1rIubodiponKP0dwX3lrxM2w_SXo3gP3w5pRjkafMapvXrdYL-hT3umjJYa-KpUahj_4SeCpw1VhKQj6LZ11XafRq_nkyShhHOgj7qva_9jKpUMH8b1iAZImf6LPwmYQ04dHUamEFzJalxEqKNbStb29DkLcQ_qILEiu2HfdM5WsWUfCiVR8GN0ocRD-Udf2sN2fma684lg7vETWKz6S
+  - >-
+    AUy1YQ327qb5XLB5r0x4_3Lp5QXlYdmd1MicigtXPzMKyjkKOWgCi9msu9cmTR2zvwmnsh4uc8qKagSb6beu4POvn0ocLgO8emoQPOeykamAEs4x8Cj-JYpNuua-VarQs-NP9gw9A2xjZsz5-NqCNZgPVQqQ4vOr6c5WDzjD00QE1hbCKs3WpTU5nZOxhlFkfmmYEksroBbZuupqSYUhFkLPErQGHwtK_Wazs_ERtWpVFq9NsKJ930EpwtZLMlZcfm5LjGeJSIf24cah2DiKPMDswlIZ3iEc1JNa58saKJH-Gyv9rBK2gTONFLK1Pr-4DVH7sDCdBzXcZ4bQ6SDtzGdUKav7YBdJlzSXcox7MlSw6fFYzBxhm_FQpgZNJKqSegE9Vn6Kc9v0i1ZN3D6S0QtM75D0zlSTib1hS90qpYaA_iVGKykl
+  - >-
+    AUy1YQ2oK3T2rcNFjoqX5OyAFnuE2peHeHx4ZHpbyHLqKbX_hMh2Rbr8vfQ9OM5mlwJT1bLmAshVSX9_ckoOw9YhaLON9gl-yGKB3GAX7cYt3v_bQI1KH522LRo0sKUKVcW7MG5gUqlJgwHpRsyu4qzocW2jLoBuPmr5GXtUZ1JqsW2lcXR9UueiInrk6fu0RvH0ZraZ9RiaovcihMp_1t-ng1IRi4z8OeFXnTTTUVe3OHZzFxPTSdEI7RU59-0hJm5QAoS0X8uuWJ_JBsENo8Vv05WpQ3I5blehQHvKdMSkY66qDvo_xDWloC2xTnmpnapG5jn0cG-4gQbrLqL7A6IjAmiCT4VOtIznGs8hSMwV5XNd_V13pMCbLKkUKfwqEInhlT5-bdmBITAbOwgGiCbzFX41PuXaRiGmRr_wHnPY3MP6pk40
+  - >-
+    AUy1YQ02lkQUwJyXVx4zlLwWBMcid0M8hU4fEvtqK9Ua4vKB__CZZS0tclQZDr29zSMnX901WCEsujkmS-3kFt4amWZXVJJDEwvsA-9CzhsgCMmmO074jr2nyX7hQ5vCQPxU5FUCaCKjdXLeXPnFrF3v5wICaN9_RuV8psxVA80KTOpgG8IG7sPIwiQFcm7XqiFXIMjd_zDN3Cq8GbKnSyJPGeA4eVHTP6djZUyh-aOS4WA44uzjzxDiP7fkbD_3l83Ce46ZkwaBKB7YWicYVyGCOsPcqu2ZCLQ6y7mx5mwyQja4ZwSxDYuEC8dgVJ_Qin83WmfPJbctJxLGXXmBk5RzmQwNFe7owgIoUrMYbeMAmfo3fLIlM_duDI13To8dGjdbff72eGrPqgFtpaKib6wIyxk5f9EjUDMusL2XZNIdt_If0X7H
+  - >-
+    AUy1YQ37t0gJ0x3ht-MX_YLWfUIfWfKJew7gKdkUGTLEU-O-zc531v80IKZryCzwk9QI_mYZohOVZPhF8qkfjeaj0bbtpAA3ER50MckuQrbD59KVaH1H7kdrcfIJ_HTO1QGLRRiajx20zUtmPyolZ4bnfsG9uYyTclh7d8E2wKVI1Xj5oF3OT2rwM2mJl4JqgAJzqF4YaWM2pUUJopRLEjz-jhTQuFdYKTkPqvGNYPDn440oSSrP5WXLGggUPKFn8cbz7taI_vo9FRkvnE6TmoUivKcI1oVNmi6QCBUtoSi2aIfDMTbUiiOAUDqrZROOXquCniJEA9Ofj3XRKjAlOUDIcyAc38b098UwZIPQV6WTtRYG3Yuqsw-n54eTsrF0FYu9pAuMg0d8faVFFHlElsKGJmIaHp2hJKAzBrRlCVEP9Fa2VQ
+address: 772 5th St NW, Washington, DC 20001, USA
+street: 772 5th St NW
+city: Washington
+state: DC
+zip: '20001'
+country: USA
+address_html: >-
+  <span class="street-address">772 5th St NW</span>, <span
+  class="locality">Washington</span>, <span class="region">DC</span> <span
+  class="postal-code">20001</span>, <span class="country-name">USA</span>
+neighborhood: Northwest Washington
+latitude: '38.899211'
+longitude: '-77.019122'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: Absolute Noodle and Sushi Bar
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b7b78dd35e86d7:0xc3a588b45b5d70b4!3e0
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b78dd35e86d7:0xc3a588b45b5d70b4!10e5
+  placeUri: https://maps.google.com/?cid=14097824516761546932
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7b78dd35e86d7:0xc3a588b45b5d70b4!9m1!1b1
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b78dd35e86d7:0xc3a588b45b5d70b4!12e1
+primary_type: Japanese Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: (202) 789-5422
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &mdash; 30
+rating: '4.4'
+rating_count: 870
+website: https://absolutenoodlesushi.com/
+description: >-
+  Custom noodle bowls plus classic & inventive Pan-Asian dishes served in a
+  relaxed, modern space.
+reviews:
+  - ChZDSUhNMG9nS0VJQ0FnSUR2cTRhZUd3EAE
+  - ChdDSUhNMG9nS0VJQ0FnSUM3alpQNzhnRRAB
+  - ChdDSUhNMG9nS0VJQ0FnSURuOW8zZ25RRRAB
+  - ChdDSUhNMG9nS0VJQ0FnSUQ3Mjhib3J3RRAB
+  - ChdDSUhNMG9nS0VJQ0FnSUNfOWRYTjJ3RRAB
+parking_options:
+  - PAID_STREET_PARKING
+payment_options:
+  - ACCEPTS_CREDIT_CARDS
+  - ACCEPTS_DEBIT_CARDS
+  - ACCEPTS_NFC
+allow_dogs: null
+curbside_pickup: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: null
+serves_cocktails: true
+serves_coffee: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+slug: Absolute-Noodle-and-Sushi-Bar-af05d3b1
+
+---

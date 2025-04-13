@@ -1,0 +1,117 @@
+---
+layout: place
+title: "KYOJIN Sushi"
+permalink: /district-of-columbia/washington/kyojin-sushi.html
+stateAbbr: DC
+stateName: District of Columbia
+cityName: Washington
+place_id: ChIJf57htim3t4kRAMbxTZCtjao
+photos:
+  - >-
+    AUy1YQ01ALxPKjN8vpO8sN4vMzr5aQw_csU2dEMYSRtTdR0f27-I4b69NdkRoQe8eHrL1KbHd6QKYMjtQO9CJ86IxdE0JVQ9J11CRillx9-XJbCMDS2RCZ0c6zpg-pdQiCnbGdL7YT0qlyDVOLWFO-eyDdcMDaqzZShQuxdmxdRuBlX3llkCJK_8SpWlGqbKsEQZ8rFbrg2FOPRNPbi8dJhf9gDBhZ-lKSeKmTaEaFSNpXkdYc_KC8IIYqpKnzk_R2eFWBYcv2EU_2SwbAoJCBCBdiGyitxxi2ugtFAwisi67ODJfY-HagIehxxHHRgfDaT7Aa0bZC6B7T-ZG4yefld2IfVRATYMnmEoDNc0GOexf_t-OlYLnINCqrlnhfsh5juN_POYrmjlCHGYvx7wjo1s36oyZdyw6cYbEdOZhISOJuw
+  - >-
+    AUy1YQ2r3MvVasrQFdoRlpPHmx92VIT_Mfknhzt4IqSUrBkhFZ0gqNOjE2NQdBBWNh9nwGiPJaRGeXim67ed0sqLx7Y--PXyHklxbIA4lMFWjkWiluuc7jG9yNUCCvl6rRk7JEUZtr8W97RgZuSfntf4zhBRvul-M8HkBb2xahtggWLpJL4STP9IacZGzPP_mhR8BWbhsJWQGRHBpNfHplvDHchdpFFtlYJebp5fmotW7X2z2Em964O6gOVF0rDt-ZWgZ1c4LPiBzqYg-PyoFRplUKbe9BfDXK4zWxAyNZsJqRt-hw
+  - >-
+    AUy1YQ0P0JYYoIZE5_pFYKm5LNvi4Q63qH-RW55PLcNHEFcgl9eX3D4ZymM1K6bSu-ziYxs7MlLWLi2X5F_dOTptUahp0i2QEwkwxlSlvQbykTOSlN7cOHkE_oL2lHdk_yBBkDoyOV8zPJKPFwOYVXsS5xPzlhynIZVcQo8CgVEFyxWqiFxjDLXgBgNt5T8oYaO3QgtUHvppuSrwMxUWHX01yjTQC4Pn5d78n9rhWHH8FcJ0RX2uXUV5bKIKc4Xx8YEhlyXdMbdInG0DK_-wAVjPq2fbxoY9G9ss-fMQ46WsPuoDi2xBQrdabdxTu1Sq2B_uc51jJeIJwBqFUajGLiXUJvm0skC1EE7xrmS7tqkqaK3oQLB6pPk9aEnNT1wdGV-m8EWW5_IGj-cRkge-_0i4bK2hUzE3h6jZ0fDTIfOefsX4EQ
+  - >-
+    AUy1YQ0ptNyXjzS4MzYFRcuOJMTpwZF0NL_gMr6dFkzv0t4oPuBIPpcUcQwE8w2I3ZttCScjMnDChX08xhHVx0iF_0dkrzWMFzdILIQwn0bbNzqsOJMqxNgCu1fNIi1YEN1oUk8EfvZdNJsPVQ0oRYYHHtCgHvKC-5Ep_w2b1_Tj2B1sjRUnV435AuKWEuGupyxzIOGv-JgVnxuXTNMbjm5e7yblC4dRFwczv7hTCtnnhsok41mfiKQadAxywLGeiI2GQs1JFjJACSmw1miOZldrkLb8CNJAVne_DFGE9PlGszO9Cgh-ogVb8IU6cr1KTa7iWF3yCB6gayWw-VLZlGMKJibu5YlREVHBjA1SKvwSOY9kVuHICgy1slyWI23wKmkb9wrcICZyr8GnHmtEKbkEiOcF-ZU3nzYjueJ_SrnLf-DL7l8
+  - >-
+    AUy1YQ1OveJNie24GHtlNkMNPlXJenIV8I8Bz9uYAObvlixC3Uz6tj9gslsAUuncie_4F9Wb37dOsptOgA7ziitkog5PHi5RRDFoQw_pyPiWi5JIVR8YU11oak_yuFaBacU1PxrOCEpNiJP0fN0da8PEKThllY8TDr0_XVDktIYjRGgFAHsBjX7_fth8PdOIUgX7veI4u88pZedxXA1RSGqO5-IK3eI1EU72jC1eIubzcQEh4elseM2Cd3MSs2JeP2OxEAirYZHbjse074KxSx_Zgj96P4fBRqXJMJYlpxfDONWg_oa8hjDqy92-sT4vYlHQX7MOK5gWcsLQV-wGNG95eJYRS_rUf04MoUeDC_cwd4loHHWLVq3cg9kwz2CP1nc9IaNIeICmJYAcHZ6hwTCC7e2ZJxlD2ZVgC86ZlzNx72Va5Omk
+  - >-
+    AUy1YQ0hPccbq3CsApuu-VMNHV6SY_clP6MPqJsvo8MI3n6qy_JaRJl-XrD80_i0ZQBoQSItVCSQIxH-x_RlNlD86H3-ehdfczdOCHPTuGbwsbX-GyaVdEbFlkdGgHJEqDLZ4jp44tSPit4bDI2VCqaFFmn9iO7CZT_cPhxbEIhSX4QC4iJ2xQqOInkY5eEq0RVSCl90AzePPOtYYkagw4GybdTF1g78ICKbdgwhs6P-IN93NWPQzptZCZr8Pk3HQs2vNyleTOgQvlTaoXnXLnNStfQqnZUbq_IrKi2qe22LOSXIrsDUfNCz6SMr1fI8zzWeP8CYXws1LiAyyEhz5kY3dQ27t_ar38KNuHFcqkGFztcN-XnPcHG-VODL1ZRYeCI7lGxpUQ3rGZGJ4U30YHKKBiCxZIKbo4N_Qe_rZDXvmQ0
+  - >-
+    AUy1YQ2F3xhQAmW_Yc7GKK8bh2aSl0sMSF9Q1bVVJSWRKBaEH_elELEjQJDZxoSdkrqIdi0ip65LSmmmpfVxLDLPkBYQCVhm6Jsc9BdOIqGRWmbVTBfllksVFV_fKxiJPoRY6cRhyQatvuYnmEihcQd1DsrLIDCB5u24FrGIMyET9E7Q2wu4iUTN_Q6Aq7InRBVAhGqUhGdM4p-VWZni6QNoMkf5uxdA628ZhS4qDRyUhlnkzv7KYqfcZyZwWS9UC7U_MH5tAzfOjJxfA1nn9vl6wkhR7v3EOhNgy8DUdrF_AmxQ5Q8FgM-Pmffrwg7-oGw40KmDG-PKOdE8tS9c-vOZ-N4zqUPQH_z-8pKQsmsReY0TWryeDxBEv79DY14bxm_Vde8g3HFmJCyrjZ1QygfyJDnsNOVTbJy7_y4yr-vYLfuXuw
+  - >-
+    AUy1YQ238jZ5kWO155AGJyaJqN7y42z3gtu0c9EGPLK7eUnoflvl1f5cpJy3LiWe-5KhUmBEadGQn0_iklg85yLxKsZSKquOzk10w570_d0ErlMHd0x1OTrSOwV-pVWZtmH6kY8n7KJnLd6LOa9GM2xIQXqK7YcADW1KpgzhOhsZR_NSrhvrN9s2sU-pawIDn7Xwl1BtD8tEntLupduq8GC7mADnJmheJIz6vxHT54F2nuKP0c1pNfDbA39k6iLISavDTGto7QfaWeUQswXfoyR5wAzAbb8h4Fo4TIhVf-Eb_YNl7_rN5KYSrJ8lsChFUy8uiX7qQWTOgQ1EtYrl2ttnW4wvTI5lhTp69yx7zg_z7aa7DrPCE1IGdcIMXrME3RKnbJl_pnOEzKvGBICqNnfAg7fmn_9qUI3370UYHR18xX7sXQ
+  - >-
+    AUy1YQ02913okeGXIfvIjSY8xJoe9EXUWyWxG92t6ZEXO1OQaDLM06h_u3FAcZ_P0yeWSAR4TF2bU3VVuo7JtSbiJigBD8P6Z81KiXBWw4xwprB4G6iA7Ba4iFc-wprM9AjH1Q0iDfcPySG-JNru1wUQMLShoReg4SGN-lqGHThYcFVK2ZivOMVk2pBf-qOA_O7PdeuSVx7rEe7uVi-U08L6i2q9EhqERdlaBwDO8-AT3kZRPDEAq3BZnOH2D0CPdU8x217WZdUIv2BtFmYLI4hj7bBqydv3WFq83SVV78H5il_vrb0fLFr2kUFA1rHhnwYMRDPXRgdfRBReRf20qjDyW6108KA-C9-AzpmyY3zLV9t4O2YbuufMXeKzg91x3UrcczrnQLFGpWkMTqAeABFAHZ8E6UQjQJORDlYPXde8BOl16aHq
+  - >-
+    AUy1YQ2mT8I0RdhV-dt0S-lSLbIUFyxhD-Hwb2l2KWqKogp32AVi2iO1K4tXuxsuVS-oA42-ZHjqiT4unaiyU1Er0yerRwb-yhSVqZ6R3lAYz-dzZ8ft0fn0hmOLoimuR9xxW-qf3pWKKsCIDSfYJ4fiLf-RKquNGPlRVxEifcfuUWL9oZ6dosTiax8md5jaqgtiqPsn4KpccXRFa-URP_EcEKcSSkeQkP1DfHRrXZ6zn_QcIEbXoLoQu0uuQTxS71fnfxM3uScXbxkmv_YXohNGmtyTwswM9ndTFfi_Hfn3xE4EwIUcydjscD4OK0WPfCx4jhiipZaAYYbLmyVabLZ7s_RuJlaH1f6xmFDtoYMNX9m7lNnnNqJKoL7_xjMDm_PHH0DncH6KQoepRm8_GSgUghSliSaRrex0CFtHXpIzVhp-fQ
+address: 3315 Cady's Alley NW Suite B, Washington, DC 20007, USA
+street: 3315 Cady's Alley NW Suite B
+city: Washington
+state: DC
+zip: '20007'
+country: USA
+address_html: >-
+  <span class="street-address">3315 Cady&#39;s Alley NW Suite B</span>, <span
+  class="locality">Washington</span>, <span class="region">DC</span> <span
+  class="postal-code">20007-3572</span>, <span class="country-name">USA</span>
+neighborhood: Northwest Washington
+latitude: '38.904802'
+longitude: '-77.066629'
+accessibility_options:
+  wheelchairAccessibleParking: false
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
+name: KYOJIN Sushi
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b7b729b6e19e7f:0xaa8dad904df1c600!3e0
+  placeUri: https://maps.google.com/?cid=12289669793458537984
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b729b6e19e7f:0xaa8dad904df1c600!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7b729b6e19e7f:0xaa8dad904df1c600!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b729b6e19e7f:0xaa8dad904df1c600!10e5
+primary_type: Sushi Restaurant
+opening_hours:
+  regular: null
+  current: null
+secondary_opening_hours:
+  regular:
+    weekdayDescriptions: null
+    type: null
+  current:
+    weekdayDescriptions: null
+    type: null
+phone: (202) 629-2131
+price_level: null
+price_range: $100 &mdash; & up
+rating: '4.9'
+rating_count: 3410
+website: https://www.kyojindc.com/
+description: >-
+  Cozy, non-traditional sushi restaurant serving Japanese small plates, sake,
+  beer, and wine.
+reviews:
+  - ChdDSUhNMG9nS0VJQ0FnTURnM28yTWx3RRAB
+  - ChZDSUhNMG9nS0VJQ0FnTURBenFiRkpBEAE
+  - ChZDSUhNMG9nS0VJQ0FnTUNRNGItb0FREAE
+  - ChZDSUhNMG9nS0VJQ0FnSUN2dWNxbURBEAE
+  - ChdDSUhNMG9nS0VJQ0FnSUQzZ1BQeDVBRRAB
+parking_options:
+  - PAID_PARKING_LOT
+payment_options:
+  - ACCEPTS_CREDIT_CARDS
+  - ACCEPTS_DEBIT_CARDS
+  - ACCEPTS_NFC
+allow_dogs: null
+curbside_pickup: null
+delivery: false
+dine_in: true
+good_for_children: false
+good_for_groups: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: null
+serves_brunch: null
+serves_cocktails: true
+serves_coffee: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: null
+serves_vegetarian_food: null
+serves_wine: true
+takeout: null
+slug: KYOJIN-Sushi
+
+---

@@ -5,12 +5,11 @@ layout: page
   {% assign stateName = site.data.states[page.state] %}
   <h3 class="page-list-heading">Choose a city</h3>
   <ul class="page-list">
-    {%- assign statePlaces = site.data.places | where: "state", page.state -%}
-    {%- assign cities = statePlaces | map: "city" | uniq | sort_natural -%}
+    {% assign cities = site.cities | where: 'stateAbbr', page.stateAbbr %}
     {%- for city in cities -%}
       <li>
-        {% include city_icon.svg %}
-        <a href="/{{- stateName | slugify: "latin" -}}/{{- city | slugify: "latin" -}}">{{- city -}}</a>
+        {% include icons/city_icon.svg %}
+        <a href="{{- city.url -}}">{{- city.cityName -}}</a>
       </li>
     {%- endfor -%}
   </ul>

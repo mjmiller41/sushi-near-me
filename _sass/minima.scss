@@ -11,17 +11,22 @@ $small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit: 30px !default;
+$base-gap: 5px;
 
 $text-color: #111 !default;
 $background-color: #fdfdfd !default;
 
-$brand-color: #2a7ae2 !default;
-$brand-color-light: lighten($brand-color, 40%) !default;
-$brand-color-dark: darken($brand-color, 25%) !default;
+$brand-color-blue: #2a7ae2 !default;
+$brand-color-blue-light: lighten($brand-color-blue, 40%) !default;
+$brand-color-blue-dark: darken($brand-color-blue, 25%) !default;
 
-$secondary-color: #f7c7a9 !default;
-$secondary-color-light: lighten($secondary-color, 40%) !default;
-$secondary-color-dark: darken($secondary-color, 25%) !default;
+$brand-color-pink: #f7c7a9 !default;
+$brand-color-pink-light: lighten($brand-color-pink, 40%) !default;
+$brand-color-pink-dark: darken($brand-color-pink, 25%) !default;
+
+$brand-color-green: #7c9f2f !default;
+$brand-color-green-light: lighten($brand-color-green, 40%) !default;
+$brand-color-green-dark: darken($brand-color-green, 25%) !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
