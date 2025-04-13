@@ -1,6 +1,6 @@
-const { curly } = require('node-libcurl')
-const { config } = require('./config')
-const { Sku, DEFAULT_PLACES_API_SKU_DATA } = require('./Sku')
+import { curly } from 'node-libcurl'
+import { config } from './config.js'
+import { DEFAULT_PLACES_API_SKU_DATA } from './Sku.js'
 
 async function placesTextSearch(
   categories,
@@ -88,4 +88,4 @@ async function getPlaceDetails(placeId, fields) {
   return response.data
 }
 
-export { Sku, placesTextSearch, getPlaceDetails, DEFAULT_PLACES_API_SKU_DATA }
+export { placesTextSearch, getPlaceDetails }

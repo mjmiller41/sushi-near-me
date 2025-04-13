@@ -8,7 +8,7 @@ cityName: Laguna Beach
 place_id: ChIJw0Bsuwzl3IARzbZPBC_cgyI
 photos:
   - name: >-
-      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AUy1YQ05aJUlPoeJYVFkyU5kv8H1zbs3DnXBqN8kKgGvU2Uz1IeKbPQ-NBfY5jEZgEZrsySMTm0f7Rz2CVIGS2Er_qIgjaDX1Vw4qeajzfcb9PpcO7UtjQmpy_Y8ghN1Bq6lAf5gfnm3b8X_lxl67BL_5E-pSpgFQly2V0CjLwoqoecaAHumM3eHGQG52WBa55w8pNlgVQKLEnuAsH1EG-jgfu7vc7aAx6ZZNI4lGAr466TKW7itjeanBH7ctpU-suvZgnEfK3r84b4X6AR86bRZM38ZRqp4SeLRvhegVNx7vA-l9A
+      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AeeoHcKGoWVHOyPKhNWJdBfbBOBqBJfFsbHpb453iNJ-sBi9HGYdTapwxLlVCtoR6TZS_LmtYkpn1R5ftoFeq36mOOcRakHgXzLCy6FEZBgLDmE03eSKENh00TuqR1L-F9C2TsCcPTEmk_hSL5FJRtGTbAER9g1dXpEZF6HIepJbHwf4667rQ1xNSnwVys5_lau99Nj0NPFUWPzk9J-oyopwseerRKKoqDEgsEbUeKCDpJ5seJcUs66fLr8rGoLxwPgwiswvmOQxavg9mKikrFE7FhnXjkNLypgjyAaZ9xIpZydTqw
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOgPDMZJfePcSkOnIfRdqFDbrvbsXWkHaAWsIgV!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
   - name: >-
-      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AUy1YQ2bvCdieLiGTccZZICm-p9VP8VihAoZLcdLMeTvPEEgrxfmM7L4AnX6cXvXIv3LXj6WeByAKkDaM0fEdsofOVFHWAEPfFoI7EbGsePHmKZl-JCgl88kQ1mx2JcXAdGW8CaonIngYMAcUapY1jDBzeRNbdpOKgwGHVUBacinctrxulrv8r__VrO7wCuWMR62GcqzAenK28Kmy4oP1k8GCxz2StUhikiNPwnZ2PvFPWWeHCYSW55h-OM8HKX-HJEx61DvDL1t62SDVu0F4FIIcsvcmy4oSO8iHR45s4A0EeJ9Qg
+      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AeeoHcJSIzJTR6U8gEuv0L-g5vNm6bqz-Il-v282lh3i4J5xvLPZeDCra5umMcdYm38GrQPaMtLv41JKXRqqIHz8WRlbZ3lPIE6LDDtY51Khs6xeZOpppvWIoL0IZE6gT09vA5L5NzeNTbgabnWqWDsosXOaPu9o1X-UUIaA-XiWMh87vn_t7NRgzop-4uqF_ZOFHzBeBueeiKa2sdahEyFK4mgO2PPfBZuHyqDGR45JODQidbH3CKVB6tJ7bNy7s4feuZrIuGDzqMgs52og0nMWb6ska8uhI0VrJ3Dai_Vi-XUKAw
     widthPx: 2800
     heightPx: 1868
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOCmTuUQvY2W6aeljJOEGb6CCBB8QuT4FeIQek8!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
   - name: >-
-      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AUy1YQ0Ag8s3oCBOCBmrWZe1HpFGQCuTWjSn9pFaD8NQKCcF8Zgqlcigx9lfh7D6WEggTwLyCMcIjYEL0nN8leEDcsbvJ4CSEDQRzaiYFajQIVSbT2P1bquiNyZb0q89FQY8kARrSrtsBgHqdSL_pkdiuIPwEYrpNsUZv0hma3ILc1GysWSm2MTMJjOsbrwXFPCU8HMqlQUf5ChU-kiYEw8uija8bvMbrXz1Bo6pcassYbq1w3mH64X8nUkW-8MRH_lMTw5CWlcsywGm01n3nk7MXsuv8hWtDoCl7mUYVOtmonnOPx89EabsEm1e80ko_LPxhybm9-TqKMPkQeZg1lsaceDP1I8idb3rbYzjn_H5xAnpezNwiezyw3vOC4wZRQlRgtv9gm9gocl98hQpMrBt-QIucHE6NSSXFnZ49ZMx4-jJjZw
+      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AeeoHcI2zn_ko9G0zC-nwmaMQ_BH6hbUTcvDMKle6iTGOzrE1XhXNtGsO47rrYOet4Wl55Aoq7Ob6PftoqKmpT7rANgFxxsoSEfg2bSfnf3ytUEVBPVJ5MWbmIRxHRuyBoZlG6P3XAYTYIhBF3Z_UA2FW9Pmvjii66biQgeVARpRTEPD5xymCDUKuN6bsf0l5NP4AqKBODUaV235_LYN2fAqQ-H6oPy8p3zcsOZtnxlrPotIH7T3f3ueftACKDOnvMSRgoy4BK6RIWzG-pvDUjJFdEKvxiObSOEqzSdA80WZq7rOw91nhFepbwj8WglAmDmq8CEkxE_dnXtQXG-Mjkp9JB7Jvl7AdLBirhVMvjXv01NCKRvff2ypX1LgPCoWq8t5JnjINpiE3Zj4lJAz01bDdwX-YfmD2gxtT9NNz_uUg8tXBmE
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -47,20 +47,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwz6rusAE!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
   - name: >-
-      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AUy1YQ39U2ZOOMFUAc1oWgJZwtUMOhXBCoVEM-elA346Ji1rPWs6t9M9K9mA7HlA1w2b5eble0qL6c49qWj33mSfi5jJ-3xPwR9p3TTxvNAMwDCPa19B2ZecMxaz0roa7PVtuUxl_YOqnRxQkXaVZqMJVUgpu3l2cjC5IcaJXzUPbZuaaN-12SABwUIc2VLo0-1Gyl9u41XCiEqbws4cdAgvOi_39mB1TdjkLZgbj_0UHsQUWhtDFeLihG82r4s7NCGsSbsE_tEkOZXz0mSm5IOpLBOlbfKVGBcCX-ZfJdIs7N33KA
-    widthPx: 1868
-    heightPx: 2800
+      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AeeoHcJtNXBRr8T5_qcbMAgrCM18t3o_P1LXO-X-VeK1WCtZGujP2v81rWQV702ySBUKMesMH3FbAzM93f19ZaqCjw0tShyl74B4IhF84dxCQU4-tIeH7NywzZjCmdJSIrWOnqSqHx_27BsmI7KVxcdLzIKN4Q7dHzC343oZED29e340kCwe1W1i4vFKzAXW9Viu5eNPTSZL7aNbzEHdyFLb_UxL6498EEet5En3Fj8bctU6Sr9zepiPK2SLlKximzU7GEa9Qcw-kA8XWt2e1o6K9sVWO34NbdqpqaD4CE5DILNaWw
+    widthPx: 3201
+    heightPx: 4800
     authorAttributions:
       - displayName: Oto Sushi - Laguna Beach
         uri: https://maps.google.com/maps/contrib/106228503158293837459
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXSAQnpq4dMv-MAzTNph1alfLwtTqMtinqGjSXX7Wu-5KOFms0=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNPKicaFZCAnuCwtbpAJvdS4MHYOjT7lZcgX2Ne&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOzPb62jGlwVHu0kaEcTDxSjyik0ypZbN5hxSFw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNPKicaFZCAnuCwtbpAJvdS4MHYOjT7lZcgX2Ne!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOzPb62jGlwVHu0kaEcTDxSjyik0ypZbN5hxSFw!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
   - name: >-
-      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AUy1YQ0Z5GNGN7UbY7_N1kxsY6cidlrrZQktgxDf1xwZIL1y1y_VS7gt25gppdNldJSMXIqRYG3WR92yXrAFqa-TLryJI5AiE6x_j86iFOvlO9l1qsj2eL4syAqJBKqAzjfc3HGW2nzXgylRrVxiy0fijXh_FIYx6X7gxjbUGWOgirwsvBn9I3fTaMvPNwuu6YEUuDwXvAV_X51J3C4hug1xnSCFkzRJJbd8SHBHLLk6hiruEUuRajKMznI8ifzOjlIhNX6VupshXJV9Nso-buVnSaHxWzIhvU_vBIgWdYumyetBWQ
+      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AeeoHcJevmq4UAagiH6csSKDyg701_8E6cAU9lrKEY4XZ54BCzgELLXooxQhWCgsl21EUE9djrTjoDmqchMwJTgECRRPEyRh8QKB6OoohfVe1Cfu4QhLANmIYnjPW7oN3E-CxifEzcp08akiyF6hJQWDTlzawQpXwsBUKLtwwi-SOLETdUaJCHOCKExDrFClB1Cd6cODzRARdU86Ofm5Q_ZTN-9WFYhgJedAsnvOsjBbbL46myxL4UVcNFr5AV6k7liSdbyOd4j-OQx2-QNtdmFI-9SSh-4s4AeN_BeP8ZANo02hVg
     widthPx: 3201
     heightPx: 4800
     authorAttributions:
@@ -73,7 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFgV8PwV-OoYNSQzFnx_YKFygI3jd-EhjVezn-!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
   - name: >-
-      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AUy1YQ24Mt6xChgx1pxnO1Hyj90tSEGRpTcaBgVolF7LLETtzFzvMUYxFKEFJjZotoIdlGmeMWB8cu2r8UEFKtRrUbEAzrqsXG13hXYmYm4hm5uhSDsll5_rN4WMyLWqMygGh0IU8IdR--5HGRSAIcjJM9MhlI6rarE-2ml4C3TNEfOlXnywG_j0VvT4kzAx-A4YvKS05Q_YBXlw4c_3l06aaGZMZpjv0Luv2EpBrZggZMU3LdXukjmpTRozPW5DLraIaNwBmFS09Iqexhm84vmWOzV7HtPtjLjkmdTibnFJD6KrKg
+      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AeeoHcK-qz-nZ40n_UUvUNL2apjLylbNbSeiLIX_UdKv8yvuFzsMjpVHFHTf353UU0378rTTbtoo4DvUeyT4z6VuRDM5X9uqb2w4izUgcwPbzJCEaY9p1YzJ4o_1iLLidqau38uwQI1x3IUDRO-BFkajymDUUbixrEvpfVNFIwNEDTqS2A-5O4h-oyqDN4MqO4Z8eG986fGTgbnO4f6nTzemnLmf10ARkuS-B3vR9dHgGJeGu8VsLdNj9xOTMWqllT4b1t4Rq_lySzxE4RYXeIjqcVYxeoyPOnOZ1i0HPLWssj9s1w
     widthPx: 2800
     heightPx: 1868
     authorAttributions:
@@ -86,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOPUEetOopI0x4CpRJSbXitc5VvKZmDxLB-klJC!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
   - name: >-
-      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AUy1YQ3ku7PwaPwxby-2mcY2whHcO7_AFXhVzwsZjZWaHWgiIDi8nWrVKPt7hUBjeHmuP4ybl-rsylsZy_1vqkG8k-_IY_QtDyWTo-KJ1A_WcJ4kSo_5dIyK9w2fzX-bGlYkTULrNheiDn6z8E4jfDflZoWl81c8JKMBFP-PGTlcZxvs73te_1Sp3g2WZNwcGnXOzlbb7g_gHQpHFU2TWYNy4VrCvtmue40IygeJclj9P1rR3line9e_OY2vuXsWOAhvO3dEGl73PsNbksOzS_h-sbtzS2A-BXcFd3OZoW1M8oUprA
+      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AeeoHcLxvMs9Ctz0bV5l19Xj363N0zG7WCwTUPED7CxVXEVh7Ir0XLC91vVv7sqeIH-I-uGF3HZ8qQrFiROZ_QGrxDEFT6_omYbCuqFRpJMMHEjruB_NHuZQcGnKyffiv-kulCxrBGK5QfjhXFf39H1nE-X4gLg2dNdu20gFEKGIg3H9XkXDyA2b35AOV0QOXrOk03KU8k_VomV8-w-cEuIkSNSaV_TcLA1qIc9EGPg2FTpPDSCzF6z4oSo_axLl3abxdV7CkGq6BHeD60XF-SVMj4fxnlPppmYKCR6SJVbyecgopw
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -99,20 +99,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOBa736v6qyAHIhvp1Kdq2t3L92llO0JEZeirNn!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
   - name: >-
-      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AUy1YQ3oo3gmuo0wfWjaDDdrpxcWStW2oKK78GNDtDjbNtt6xmMKYllwB6KmLkqc91Z0Mzq8IUCbH6Zy8935XG0x_focyyXbstUg6kp-7FOtiahVtvukoaDShJiCJWHrHD8liObDqz7jMF3s4oSf-xvKRSzDydKYFeUtvEmlOB35OL8xXDProSXFyoUhklPb2wPN82e8bxLtyrQ4pgjiA53_r63B3CMgR0ZAnWD6DZPVLvGGStAvPCMClMLAYk9NRhSk33FpdZflrsepLYhhAk_-PRvyNmO3vAZe_5ucGviEUF7Llg
-    widthPx: 3201
-    heightPx: 4800
+      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AeeoHcILQyUM3XPsE2dffZIvu9OBEERDZhZk5Pj2TCpi8QTuUtvHu35uJPYnZv_S7hGuOGrOXIsBYWMmkVu0NI-m02g5uIcO6YX0VuMyR0OZY69kSaT5fsJ6j1yPQ1BZ0nm5GvmUTAw_NxF7kpsvYMgml1hS_Onae1veyA73930UXZtvy-eFrX24URi5X8UdlEmyeV6INwoybiy0ufZWhqjtv5o4FFymUEXBH8FHbUjil77lKAJVZEmDUo2hVqP__xiQqTwHaYZT467t5mAgKxzFKjgdIkDQ0aBodd2p5WLa_ScIRA
+    widthPx: 1080
+    heightPx: 1080
     authorAttributions:
       - displayName: Oto Sushi - Laguna Beach
         uri: https://maps.google.com/maps/contrib/106228503158293837459
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXSAQnpq4dMv-MAzTNph1alfLwtTqMtinqGjSXX7Wu-5KOFms0=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMDrkzeHvp6Ll7RoR1XI3CPnIrApw5RCpoBJwjP&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPeWKa3uEKyN_TjIFivAtSIqUn1XVh_lTqynPF4&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMDrkzeHvp6Ll7RoR1XI3CPnIrApw5RCpoBJwjP!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPeWKa3uEKyN_TjIFivAtSIqUn1XVh_lTqynPF4!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
   - name: >-
-      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AUy1YQ3a0kqig11GUm9Qmg1ZOyVA3fl4WSjWAMRJskKoQMs4RwOWKjiH47xkHcfC3uUdeQ5sgzovDiux_dPX_w9i-wnSDYHH-mqDcHDh5MsS96HWCVm0RixA7Ym28jBPyaFpFkQbj7BEjjQqVZ_ZBvXK2KtHGuPEf2Z3MVFH5dr_0Ow-7SRdXGNSkVWsz1jX9vkQPOe7Lrpjlq_RZRlw24kgWtaV-cp8IMKzzDK1zWY1QgFvHIgd-ybCUCELKmfqiS1tAm7LmjnX7Ikz20a_672j4zJwlowL3t2Ux9W-15_lLpoOPw
+      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AeeoHcLbdfCiFOWlJadRYxPkD5F52Opy4cAdr5i0flQbEcYx3l_mFtE78yc9m-qqoqtqFTuSbPAP7Cocu5eoZtNTAvSdKsd2188vw7uFZE81qwNie9RoASJNQomZlIP4YFmASZEDT51eCE-9RRz4rXj5BHLfI2MlNiGK3ft4zKqWn3XZ-jSQiXh1WL7zOXq3HGWmvfikW-9ojdfBtz7ubMTBdCEVDrBivtOKCItqLpCS2FhapUBFSln9E-ocam0CEhLa6TyWI9AEtkhDnXRtYWzvpdJq8cr9TmHcLmoIvc9QyhbnZQ
     widthPx: 3201
     heightPx: 4800
     authorAttributions:
@@ -125,7 +125,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPh5njp6yyjzajdwCaZ68Dwk9BPhG5Bv0TW2hWS!2e10!4m2!3m1!1s0x80dce50cbb6c40c3:0x2283dc2f044fb6cd
   - name: >-
-      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AUy1YQ1xl0bNfVCHse0R76UtGAMzn0CeFq-qBfhcuiQUi42lHYyFsB8T4y3PpqNmTU5CU1XURgd8BhRvYHL2a-NurXfJrorNdo6bYiG4qbOFpLUHLpOSL6AhU1f9dF2Q_IB7unidzA2luwTytOxy88f8Xdzx8FeLV-t9ZxRYftPSrjVrhOPTyeIixhjqe4ifr1HjaiozFyQzHuwpB1ax3g-PQblDKsOgdvFcr4zFEojQvHHZcegGKZzW6Sqh-yJY4IWgArUJ_I5KrXirTWeDuNZlinjBR8lij457TyhE_FEJcim-pg
+      places/ChIJw0Bsuwzl3IARzbZPBC_cgyI/photos/AeeoHcLA00_qnjDRdJsVSQbirVW2CUqZTwUff3o7frWHyCQ9fNfJbxTSEt9lZedQX6AfAh_4bx8Z3NfHjPV3C4et881L_yrzN1H42ywoMJdnW0bcyburxgfGm8LmSnqqT7QaQFhjLTyxmJyiKllZkFp0jKvcCLP9H-o2mY1ld5kjUe9MgmkOfHhFyQ9TabTdaC5ENJICAV98hV4Njv49kXfJzii3YdgwsWNoDcr_lTw652GxZLFrber_1AJRtxYVmbJ7QjeTIgyKHtKltqmpg_KHQUmixsnsi6y-Pv2BkyuiayOhOQ
     widthPx: 3201
     heightPx: 4800
     authorAttributions:
@@ -206,6 +206,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Oto-Sushi-Laguna-Beach
 
 ---

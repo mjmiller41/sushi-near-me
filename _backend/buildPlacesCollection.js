@@ -52,7 +52,7 @@ ${objToYaml(place, 0)}
 }
 
 async function run() {
-  const { rows, rowCount } = await getAllPlaces()
+  const { rows, rowCount } = await getAllPlaces('1 second')
   console.log(`${rowCount} rows read from database.`)
 
   await cleanDir(path.join(__dirname, '../_states/**'))

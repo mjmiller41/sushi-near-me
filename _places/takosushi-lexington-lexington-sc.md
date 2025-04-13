@@ -8,7 +8,7 @@ cityName: Lexington
 place_id: ChIJtxHedcyX-IgRzexF8C2YTtk
 photos:
   - name: >-
-      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AUy1YQ06UGbvhAAviu3EeB3cf3KJjrlBFAv3cf0MiEdCkuLav01ZXL4HD8zKjbXEeC8mxFg1LADr7z6dyQZWCTfglqKaJl2KQYP5VRj7govDW9PB_OQIk8yOym06gK4KdOUmws2P5jNSJLmG0alrv4FMiXN3smXX7Av6g3xqtWohRfRgs-KIRJI2KpCxdlhnYZskfVtUWl5v914sVov3TyByj7LenfjhcyKUTxh_Miy2Q4rIxuiULUNU-th150nYduk_baACXwAxvvI7Yf66umoHz5CLWwFGrI-wtAPPiEEOa2-ogw
+      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AeeoHcKrAbrl3XNfbbHD-nDlSCP5ZvQR-oJeX-EyIlK9WleGa4XHl5xjRlTGsMPFjcfdE9AeKp3PzrRULDmWdVnF_y3xmryNUHzTVGnWJzxKj3Ki1lbCPVCdDzoBAwUUsmPHQT-TcRy6UJwDlOEnPNw2cHAHKiENX2810xPJ__xlIKvcJZ3f4WsBn6qYMIQHBcpeqSF_eGjXhjlwer1L91Hk-4AOhkbLEp81L0Irn8B2YV84yB4BF3V-gSTYBWwyW3jE9EwaR2SMxdgKyzRhmjlX0FVeApuPQ9sfp7Wf5EKD28slUQ
     widthPx: 1200
     heightPx: 1500
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN3C2WmJHLFZDNkF8Fm3811wvMpKLlJmaiWlAD-!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
   - name: >-
-      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AUy1YQ0BEU9zvv20umUJcltWkh1qv0pBw4_gphDVbGlxOpHrRfGbyp4XCln2e8t7MRN5Gn7pQkMKezHQZog0FUTIv9WsuE-e7N9EfGZdSA7XRVwUw9YMPQYS9YTdk1Bbe1W0xa2iuxaHZMUkBKkC2YfNqSR5062tzieJi3427U16wLQBN_CgAyCkNkxA-nbilrvIoFtDRkazsR3oy3VN0zQYeB8Nd543IUoovH5Jt6slqkriINw3-4H7rhSQ8jtqbbd42WypzcTGIxk6XCV83RYA1qXxN3fmiqLg5EEz3ll3J3sj2g
+      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AeeoHcJLKraaRBth2k64mbhpPX6WsFaOocLItMGl8YpQGtw63FV19DEVvgMs5KHcTF_V6vgJeEzWx4zWdVO4jTVaIzcoj_Z6BCeWNCHhyh_Nz2l8YvsoJ5XdO6Y6jUx-VbpeWFol7SciHVve_yd-w7ibXWCuwoPTJZCZerinD2l0lrC82DqVVcSKR4WeHpzIyhgWnkq4Y0gY-K_wh882WXdLZh3ydVTZMPAJDPwxg4OCveHE3j0J1w4WvK4JftjXojpJ5szHgX6hOdVb7m_JVnUK1yYy7cWNcWTQI8Y_hL5tS45rcQ
     widthPx: 2048
     heightPx: 1536
     authorAttributions:
@@ -30,11 +30,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUgGqZSeb9SvO31Fox1HwJxyEXkQITettmy1lC0hE9AnS_D9xU=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNpLLn1DzTqd5YNFeksaGGmrv51x2uOo1WYIaA-&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipObfOl1AnSq7ebuATpbXpf9RZIcMqpiyXRtRBNd&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNpLLn1DzTqd5YNFeksaGGmrv51x2uOo1WYIaA-!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipObfOl1AnSq7ebuATpbXpf9RZIcMqpiyXRtRBNd!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
   - name: >-
-      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AUy1YQ0B_ZOVxG-XcFYnpVg4RzmpNP1CNBalnS42nat8LLN9DaTDD8lEv91Wtl6zpwGEjkD5rtHRXpOfd4P_j3Qds38CNVhsJohYs3mnO_rjZPVCRGMhEhY2DMUbHn4mqfKCwRC50oSTWZneUkNWygeun4CToxKJS2u5JiOHQ-PCZlHnejjP3UjxYs-HLSQoIXUhYc5RmzM5nU4CRtxuKTQ0RaUOqsGvHUWwf6OnMSQbzkrrIbTLipYbhEpnj3Umrmo0JfL97BJ9n6fDqCPWVhEraOK7kOkWThs7HtbJ9c_VKbuJKm2nOhvRJyKIHLwQMpUW3jRp8xe4RkDPWxcw9pyv0FbZ2ygiZURuCaTJycAshzDjmDFcs4dKLDnvhCA1TKfGCfkKA-hoQGgqn8UWunQI6Fc7W4uymM1dWs_Xy4T-Qp9mfA
+      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AeeoHcLKJ4nUiYlC8vU5_xG0ZYh3jIX9_W42cLoyMMvW2_x2cWuiYVoa9wGKdF66muhuX2D65YB9K-p1j7JiqGpOJDz2iLiV49BFSk9IQ2jIa7AST62ZkLThzJR-a3OFW2mqso4Zj-7ZqymAIyLHsdzX1wzbOXCNA4fERToc-Wi-xuKg2-bwYJgihsxhnEf3BFbC7tXK938xrR12-8rXEwASAL4w6lwY-0j_8rr7dWsr1x_pAd_hTKO3fLUeKy60TLYLLR3H4jnAo1Xwzu-JS00GteFayp_Hfg2xx45rWbajOECqeUBjv0zNqJTg-IlV0Hrf_ZTrBVVWGFSCpZkyQeNFYAFpTFMiOQ5CHp504BHOtD1lAk8rqg4JDbSi5V3bBSuEPKTeSf_GAhHmGTsfEOI2oh1DuLi7jQ73ViKX4VB2-VbYQg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwo4uIYw!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
   - name: >-
-      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AUy1YQ2nwHsQp7F2SfzFK9NADCw1DyY4pf17eEep0tY0qvjaS9CLgtRnZQyqU_sbKOX_3TRcZEybBtVd7qeklXdCltXYAPOqPjIofhac0-5UWW-IfHqYkMyRDLDh2roV-yAD2RCdGzsSuecLBGJ5jNtzTfGpw-tArdMT__lcOOhM8PTabPAN4uF2IBv_-dQckevEFdWanUoX1xpnYj8YXrl6gXtiP3uboLuq1NIRAHRiOFtdVhkoR9NY3_mHEeZDkPXy9DEyN5lG-Mt-4eILohkUIftU7jdA-MH6k43MLHX8XFfcm5p01EJKG4EXO0YugYNpNg4Idlo6eL82o-B2AYVtZ-72nhKA-z8JAls92uuwqwdQ19OrqbnxKZXZDQolWEVuCNTLb0tFW6njYM2tFi7NDDdNkBSwZtsfnS2ccBtvItbmgzo1
+      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AeeoHcJg0V21FXxyoTbX4wYM7VZAHxhgs4gZmZu9dsxMNDVipqDIfFOC8WU92KPtGWlqFgOBi445ZadZfgzTO4ST4uzQxiic3i0NUEQZSrnNt-Bm1LwW1nDyJRhVok-sk4NjPQii9zlyv0riT0DqsrUNJ3t9g8VoMvxmIR5r387DR9vKTpi95XYrs1imjHL-O9YJoQyHLlJDkZXTT0fu02d4BkZDUHs2CjcV2XC8PyJqSnWqKzvfSnm9NZcJyMZ-LNQugXL-gSyTgEbglcYfq6NkrwQ20ZHThEl1005DGPUg5MaOvW8ZhVfEL_TTDy2mxPVu7v5AQcVN9pu8xZnlkes5TD0Rcb_2wTfgoGNzfFF1vPuzNMltb1Qfc1z_ce0_HhLpnhivQxqYD6LpSoPbSu_uiwIIr7cJR3TCOTKqxwpbhpuLJ5k7
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -60,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf_bnTmgE!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
   - name: >-
-      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AUy1YQ3KBu82TlxkYjE-i3ZfN2oNqqA30vDybeiMg33_rJcaqTkSqi1DCBtt9jr1ZYNwUF5vb5cZV3gr7ghknwDTB6Gk0ywDVV3QDMY-0ox-G5j4uAttzJK_m6Www41Yqm0ZgF2RjtnGHv3McPEaxAEVqg7aoqJa208HWUmykae3PFOMGcyILiJq1TSSnDZPqqs3RLOXnpH_Q-qvHvs6_gkIxT0AdKJyA6rn83DpUTJQ7GrzIVpjc5ilZOu4k3mKs8BN5nJod0IqUtQKb1_LzC9BZw-kgRqTDJr6fkvo0sFER6h0Dg
+      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AeeoHcJtp-jG6-tlLdOZF17GZCtMFJAtFGHfLpaLDDB7tIE5891YrhlLbU0on_y4AxyB-j72GzthUN0lT9ymrI5RxSBLFYge6MZrR5WD2xo1NoLXBxuYAAhZFw0Z1SRYLjxaHaAI2qN3NoVvXtAe2_M7VslkO65FgqrAPcd7RBYzLrXFCGU67Gshj4qR6CKS6k7G4DhVezwCRA7kN6D46TqeHz8abXUQqMDUKIZCt-pViD_0L3zZgJHwRMLSn_R1I4VLf-lh3lQbWLX_cZC3412W9olZNWpDwyzlnBValDCVAoXxGA
     widthPx: 960
     heightPx: 720
     authorAttributions:
@@ -73,20 +73,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPap3OVHsKliySkyqn800GxtgcyomGsE3Ix7vON!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
   - name: >-
-      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AUy1YQ2lmPr9zUZrckh5UNxmfpYe--XIlVvkRVdxZNOtN66amYFqsdA4bGmEUGDjzy_O0BxsgoXmH3wmiWEhEHCJzmf-5hqZpog_OHNtOxYyzUWMw9rlbnVxqIDT4k68Okc9VEW4E8QC1NCYoUZi8RTt9ZPrUkTygdZ1u5ISSZlVKPU2sTok61W2tulGX2ssaF0LVrQH2LcGotgiaI7vlof74ldvXmbor7KlINYRiWxIWiMPbaRGjV3qfo9fWTfEkIcc4NXbcODRY2fvShl6TWsx2EP8hQYNyksfEUWxA9Leszv9B0jMaMwAC8dv1untD56guQ95ErVw8qULiskffBUkaJLRoH-7pqsfEs0a58JAxRAztciHk57GSUzaNmRmI15r6khaSlj9zBtF_BWLvpycumU3LbycDRqHUjMH2PIju0IAPA
-    widthPx: 3072
-    heightPx: 4080
+      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AeeoHcKs9kYeZ1at31FYU-q2saEDGaARoYaxcEODHruq7NmFsvyurVJad-ojsLLofH39AChAXMBs-j0i55sTCy7LIwV3sDQ5wqyRus1G1sXWlG2Q9NdfFwPWHN9w9eh-jz8uZzfEqlt79JEa8sX20ggEkhGgnMKC7hoLpUqMwXCBT8rnXXgVV-Qz0yD4eLZh9S_1fJ5LlRaXuMaF4HKEy3K8bwRQBiBz4toZT2efDvRVxw49kIjoWXLO5SWdgxNf8XsGOFaG4m5Bt8BCu4zPpzyl8YKXlkGqVg8x2OfZcuU8CUYRvc9gii2dhKq7Phu7ozjUnk5wypOX6ha1LKnTjjgyfJhnjxdkUrqpGaouLMD49y5wb5e_cU5zHm9BWB-vFQbYhh84m5j0nQ0aoFfMQamIOLXOtoGGIaFW2gpNt6qfzKjFDhIS
+    widthPx: 4080
+    heightPx: 3072
     authorAttributions:
-      - displayName: Robin S
-        uri: https://maps.google.com/maps/contrib/101415808132274307066
+      - displayName: T_ca
+        uri: https://maps.google.com/maps/contrib/115218676671898877470
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXcV8cul5rNFzUONZovfJYQNjwxtATzKGmj0zuOtGQNkFzxlponeA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUzdUPQwZX4pU0ekfZUkcaM96eE9OKLiWdA5MGMYR7lez7FQqLqlw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCAp6GidA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX-uDjrQE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAp6GidA!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX-uDjrQE!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
   - name: >-
-      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AUy1YQ14by1tyNxwDAYy53C0vVf9FjGHtsm_Ev2bZGoxcjNBHFoTGKZ2ExEMQW-XHhwR5bYrnw8aXcc0UWgM9shnBCBHfgmNG4qeAh3x-7-K3NgWTZjaTIH1FACgUgKGLfrqChThlaHzNZ7-YVvMOsU3grY9Wfzi--9DXJ4w4FYTLcEBLDW6tMG5RMuhBNBRE_wYOJOmQoxa277RAcpKDiy9gHp7dq7dHxJiQo2nH5R1p33YhXxsg3YdImjKP7izbkyLJ2UAi4af9Ze-NBP6QX5vgpv-GP-3NXtme0hxh0UYOqpQz_EswBlW86fo8xOWGDTOhkim3VmflpfYURkWNEETKLEYV2Q7WKtK8e04XJpYcXcMODi7vGU7-3Dqjj14NWQHyHJZEWFq49mJGgHHIiYnwfM3fP8FKKaGvh76PTVmHJX7hYv-YgRrrty-9MEXAg
+      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AeeoHcJLMgwtBRlIusqo5ONys-0VPqtATimH3MJit_0lEiMk_g4jCwnouCjsnLl2B8SiutjAMKHzXBCdut0uiMLmqWOmTBAaUarYySUW9zua5oFuRIFQpcW18ozCCpZIicJU64LBgs5oxyyGXrCbD7ZzSGZlsBk8445Sgm1jvRyRW5SwZHKG85R6N_kGPun_g11WP8XH_pvIrPHCHYh0MoFmGKSZPLjNVzS7a-9JWNfu6a6gybAdts_UtV4J-hFb2-XY7ruwG4oLxyJvRkEEUaMENgM0ClFhkKbIM3DNdRrX-OgUgQ7SHYE3n0JKXBnTXC1vVF8mDdg-2SVdqq1IjUbHLzbjv8r-yDDjtEVY61cCEIA11PzGdvhj3Gxf4K9rM8C_6nEkCeBw6k_PXJEcvZl7F03475tSXF3LfgliC5ncu8edR-tkYEyIfp-pG1vsBg
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -99,7 +99,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzCRwc5mfWxY8ADYDY!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
   - name: >-
-      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AUy1YQ3n0IjCY-XXWuFgy5xgoJlBcu74BETcZsk7-d7gR0ZQ0QbhSXinlF_5hafz8jAVBjWX-cYHaESv4IqCH6nW_o_PCWTMZ1_Y3HCQzq6zGXJGvjTBrEBnZ1E83mMZTqtvXyHROpf3_e9mVnwPX1u-Jumv2fzGkAEdUuRbmLevIMYQ0hgOqeaebangcoAj5xg7ONbYsqXZxHaGI0sznPdyIGlEeJOFDmY-CVs5_4jLIfh8p4Qg9uPbbjdYHfMK_Nwrh66bypas_-YzEo5aNfm8F65pqZ--PBGGzqO2--2LSA77Pg
+      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AeeoHcIV8jolpPLImHCftP9akVcZmxmaC_ct_lzogjAyuT5BFgc365ySJ1-FFUJWg6L1hCWC668q8dnPn5LR10Vyj_tUACNyM5wciB9r7IGp9rNJncYcqqcT8MEPasax-6-OCzvkcjRZBIDBhm5WxW43BRrWM_h0-R8cqtaKWh0UySlo6vcMq69IbemIZJX5QgwhdSASii4AYCZvq1pwe-nxnWTDoZhMXOzFXjivO4BjnY-4hr2tBg6fddn2O9_AiXqLos30JWGZOzKHo8cbeUbp5SB7aI5ztFnIBMoQ-rwDRwV9i7KYg9L4lt-epuGBfZnaj87iJl4LO1W72sCDGnB4V_hF6nsGDyNmEKiatruW46ymH35De5mbFaLufyFUIA5-2Gm70cc9lvin7HnyKwSENcfSdfcIpMMIc-_OGv1__e78V1Pr
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Porterfield Sisters Softball Highlights
+        uri: https://maps.google.com/maps/contrib/100483442730456825994
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVWd-Az_7qB0lxX9N9YS2l2EXCkw44INyR57TVWYzyw2GXd7ZuTGg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfrdf4qgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfrdf4qgE!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
+  - name: >-
+      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AeeoHcKLvvDPtynUyVrqmXBBmvGAvq3ZQkq2ZXO-PdzbGD4CRHmtuMPHwEVu7KyC2FyMVkSap78gDH7N2nEiAzEBPJnJj3kgzh0AmytFantEmFoZZgnJnNgWvWURPFnHvk_eMRtOpjGWNrLrkgOBtxT0qRkU0MZxLY-QfUQEpvMPV0Inga2mROwFzpDIoiUD1qHkqo_JE0UJxigBr8s_Dp9sbdDfNCATp0bQGBOgwturhFrY2kQ_WFEI5Py8jETypQPFgNIgEShw321QYS6FdZbBLJ8u5tkVEHNagpkwsCMTMWolmg
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -112,7 +125,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMCMMS72HAlZNnUIwNUm2h_iGl23qwi2oKRrN4d!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
   - name: >-
-      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AUy1YQ2qj6q2RMtixhPMrE711yn5C0hrzzyG4YozNsY2TdPxUnouBwF0CafSn7lIEXtop4MaR6x0iJ8MJaOttUz7z1ld4_7cuYmnmwHl-Erc5L5FzwFohTK7u1YVDnks12ZDi4XaKzZg9zcQwJ_-QF0ITvLSjeqdTIKipN31_qO5VbK7o8JYyIzU-BCW9NS9UsvlmM4F3wFb5TengBzYVpaJLxRSs9bXqYhxNuDZsXqSD5Z3GHhVipTc7dnRF9KQLie98KqkPJf36CZWDmv_-oAezuFJmn1GOjtyySdS87KklAZycQ
+      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AeeoHcIK0g5Cj0QnXazpgPxdIqmp16WqMeCqgWSeTTMH75h8pY1Zr1MWHkhHx37yu-sRGpPCgz-hrNaXZrbY3c5-7KYntvJvgYJMBnEVSYVY148jG6ZJHhXvkSylg6RvQEWFtrwwQmsZ-qmPrENHgP7VEMh_7rJJYwn7y0GbkUZSzccqVXDb9j1zQg7BK5Jvz9uAT3PcVz0GEqa7SJS9L5CpQekGrEeLXNm5vNRqQF89RaotqqBceORoWimN8jC4xHMQg2sF5xCFYwS2thbQKGLN2YzV_UJRD2tnuNxw5mWeiRaJJA
     widthPx: 1200
     heightPx: 900
     authorAttributions:
@@ -124,19 +137,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNO3TFUqpWKSHyge5o4laIU-vLJz7c10NoCOG-J&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNO3TFUqpWKSHyge5o4laIU-vLJz7c10NoCOG-J!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
-  - name: >-
-      places/ChIJtxHedcyX-IgRzexF8C2YTtk/photos/AUy1YQ3AvWDor5aNQIJu35S5ufNGRMlHETarTriXvcsaADvbjJrxY91_pqgMSaO86mscEKvdySLvvN_T3TVWsHKwM4Ocbr_R5kht8EX3i_FqhLchcJHVBjWtLxHm2q8Pjn2oqRWByUgcuvOQ0oe5X5nRpNOaATbEjpuDp3pcTxxOIO7uVVaiKzw7sToCJ7ZUwlbwgtyQvWvNXTe2e1RieSi8h4JcUhnOuVcVL2AqykriJrsFrP712ac5hQwch6YMTt7TCEsfaEnsQefu2WW2lZJuM5qv_NSPtt-URODDrY_YATG69Q
-    widthPx: 2048
-    heightPx: 1536
-    authorAttributions:
-      - displayName: TakoSushi
-        uri: https://maps.google.com/maps/contrib/114062741146734048573
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUgGqZSeb9SvO31Fox1HwJxyEXkQITettmy1lC0hE9AnS_D9xU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMdTZR1SsjTshwfe2c1I1e4Y5DW5pndO6xz9lw9&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMdTZR1SsjTshwfe2c1I1e4Y5DW5pndO6xz9lw9!2e10!4m2!3m1!1s0x88f897cc75de11b7:0xd94e982df045eccd
 address: 102c W Main St, Lexington, SC 29072, USA
 street: 102c W Main St
 city: Lexington
@@ -173,12 +173,12 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (803) 307-4233
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '3.8'
+rating_count: 90
+website: https://takosushi.com/
 description: null
 reviews: null
 parking_options: null
@@ -206,6 +206,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Tako-Sushi-Lexington
 
 ---

@@ -107,6 +107,5 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-slug: Momo-Sushi-Japanese-Restaurant
 
 ---

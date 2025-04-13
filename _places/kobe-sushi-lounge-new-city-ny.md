@@ -8,7 +8,7 @@ cityName: New City
 place_id: ChIJaQl0SvrCwokRvnK6JX2gVIE
 photos:
   - name: >-
-      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcKeX6Rgk0vRAhMGM7j7I_z1ryFvKmPihRT6jeL21WvPki3Ursemm65QuG1vGML1ebjoL2_fswWDAQQgRIPrHSZwr4003OjChDCMKJHSpoup4BHda3uv_WNNNUHLuyP3VSIF9FhGb42rQ2qElwro-t2hroJRK8oCkDKgI7cvqTcsCr_JSdC-EXWrOl6Lw2c8pkeFZ7Yga2lngwOcLil9Jqej8dzs8ZqFrR9zpXYjbU9fGlYy9pO8BKFBN2KbqnJjq7v6vdcFtNjbe-I0FAdYB4T9ypmFVBAgyQOYTH0yoLprlg
+      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcJeLCdbuQZenVWdZ0LH4QGPHv_2pt5aZ5KCALiR_EaOlRZrlQFbYGtPI4WOsHyZtekWBfV2fq5UTrLwxqgxLm7zQ9c6d18of41N1rdludmKCMyIk8JsbkK5-tYimyDqigqU_wjCt8UE6M3FrWKj90oXm1MqBZi6YYP7kjiiaqc2jQxmr__HL_F79JswfIYG6jP24fpOxx_UbhHkR3TZ5MIM1nksZ2Pe1nPB8dyDqpaZ5wce3RU6sOMeucch1iklFasypmE7DNtgN7JDzguRHPgpRYuUBUA-AoLPMHR12N_anQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOyKXa4EnhHZ8TLqLw0Bq8Y4WBHLPseSAglv2Xq!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
   - name: >-
-      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcKXLre6rqWVqdEgd2wEe9v0D0-nVDQ0Zgxdq3rNrJ4tzdN-oT3djiMbumqAxJ5FqCGGLzE4perIeroQDXqX8k79WQPK4PUaPkmRWmeTGsxYL7MqPEE5TeGjjYOoczK5nkkffHWfneOwZVjXZPBYGYsJVqhEuqieFIfeB7rYa6bMZSbuLC9yP_TgtOhnq16qptqgaNqNI97CJ6mrh2jp8Ea3nKp7ZrmDD5qMhQl4-e3oPlTdp0jbVSwYbQdrGsIqAUsBR25MuZGEmlBO_hknncCXIDeAezXj1jI-2mbUY_M-Ag
+      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcJYLUErCcoA17cuCi-olCprkwuWfXj7mNq1o4eILLFakG-Hfj3pOiQBuCLSIgBtHcF2Byax2Bz_p8bvM3KZdKFvf7dpTKlnLic_MYSbvWG3AsXBLfm7WjhGAS0ErTdANbc9Zvq3zYjN_HlfxaUYE3sxgR_xEdqZ_IKEB8boakORlUsHFTKpdu1w8w8sw__IJmWU_yc97tW_76DtoI2WTkjaj7clMAPjxUWpmJ1jmpGp6aj7ULigae_8MLWpx0ChMnin7Y3AYmcFqi0z96swqQo01LARRIR7JfYp52Ol19PqKQ
     widthPx: 600
     heightPx: 450
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOW57ZQHj2m1iNmcdmthzRQYNbjaTLB0TtDI5s-!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
   - name: >-
-      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcK3abH-8oTPscFBmmEw1N3qIQ5aeL4MxAO6L9kQG9Lv0-psZnlUOieRu5pt5PGSx_kxVY7gnCR3lfEoUoYyrgpdHzyNyT6V1wCelH5XzJ1k-4qGOFb_4VWAzz4OAMH9zYEZwiC-0E255ZefcJSMKeGdtsuuQSDevltOTP2uEv9wRjey9qZ7-Y7ZZwpuir_zzWlq4xCogrGp0BjRYPw4Ad_EIx-TbEHhjLI8YuL4zfTw8ZqLZTtxmQzINS7GMZn8irEbhECosijnQDow-6qr0GJ58KXBZk57CpRnOWREeTPHfg
+      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcJ1or3IWCi4I3fsxj3kBPjlUYPiuvny-eSdxswdaQ2zHyUiOjJnOpgLnsxg8f-eiHJVH7pQg-3Be83i6LL1Bm5yS9LJE48T4W5MoO6tJ1iCUk2P66CnTU28of-k9U5x4w2V6NjcQgO4rIcpNrSlCM4YodS0KG94u08XbXWKXN9RteGcyqXkDmPA-NdZXU67vavWkyJU_2Dd5wwRb-MeEakDtVKB6-awfUC8EjRV61dqht2q0CfUVN1ksFe4osvPSQ3GTLa8ll7LejDd6XtRSj7QlBp9ESeE3YdJZ9CvQagK5w
     widthPx: 800
     heightPx: 695
     authorAttributions:
@@ -47,33 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqB6frK_NO8_BiWnw8hmKSkFrZ2UkJ-qL24NRF!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
   - name: >-
-      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcK2lNtvgPwW3dP2yWMIhRLFTk0NMW2W42S5K9NYBTmiTHLNRkSfrqiUsI0c-s4Vw2bSTE1gh8GQ9LykJocNzBWzdgJJBSqOnAQwW1pd5BBfI5nJSUPEwxl51zvf3oWu0SHsFNBn3RLal6BbusvtrEig4jFKNI-IpGpmLfPDzeelpZAGu0kXxMbbWX5tw-0mYC3wQw4S8vWeSmz6Bnju_QAcyXqCKX-DYgQjFQo8JsqSfYlxHDEic0gRX-flbx-wCvldiS0OArv6JCoz09nMxnaC5YPtbKiy_XRa7q0JH0UM4Q
-    widthPx: 709
-    heightPx: 600
-    authorAttributions:
-      - displayName: Kobe Sushi Lounge
-        uri: https://maps.google.com/maps/contrib/107188944590969176076
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW2NYBcIa5fMsbRG-CodaxA9vMpY9XfQjWQr-noTJo5JWTD3YA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNQtd3jZSRfi_qhqYOfvF_mww-mkGTvdm6DtC9d&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNQtd3jZSRfi_qhqYOfvF_mww-mkGTvdm6DtC9d!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
-  - name: >-
-      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcJrhTP7dbXo2PpYYxLd6137EAw4rVrA2PtVAs8UMNfksM7MSzud3JQPumJ-bn7Yj5H57ARKub6rV7QjpcQaF0N38Ux6TG6PsNli4-gP4qmX8bt5eQ3QDLImSGhVmVub2P4YkkVu5EVVHApMfMHC27jn4vxK4pQSSGVriSwTtKlqRw1q28XfZUHduWdT5eOCb5ts9f8dNiZDSq08k06dglCIc8PxqwQtMpzZ7NvOancvSkI87Tvq7LmwM2ro6HLKygkKmK67ORR_XqAsg-pX057G8cu-0yRtK29W0s26eqfsYA
-    widthPx: 600
-    heightPx: 450
-    authorAttributions:
-      - displayName: Kobe Sushi Lounge
-        uri: https://maps.google.com/maps/contrib/107188944590969176076
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW2NYBcIa5fMsbRG-CodaxA9vMpY9XfQjWQr-noTJo5JWTD3YA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOLeKRhIjKRlxGsD7T6DyHSMP0KuuhyH69H24-W&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOLeKRhIjKRlxGsD7T6DyHSMP0KuuhyH69H24-W!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
-  - name: >-
-      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcIRrCtvoah6dS6LuY9HnaEkuqJKOSEnQVoeSemKUZkWOUzY26AQNy_wPV6FZdrK5I1TPfZxTdqGwMFoS9yz-z2ff-aboblwwy8vF67-xeGcAYsF9IJSNfuibdiMOYw1zx31MUBWUany012qV_lD5LY9xzUn3TOOpQX7-tH16ugs8lV17pzV3MrBYVp9i5ZTpgZDEM-dpmRYn5HZbgUob3en0M7v-VZK2TehQVvHCrflhlJmqYsS1MZfOZ_cYT9gXeoXoO_v0LkVvQAqnQuLj_KcS19c_xpN2CJWEq9DT0ERiQ
+      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcKdCcgwEzuqZ659ty-r4bPCoAHffnTk5zFsptATLXavsd8FpFUuv6nP2HiQG3ReX8nTLgXqWiG8GLwHGLIOOzEd8OKNAclZiPXB-0FQ1frAMdLEnY687ZD3ooNOHZLCJAcvxcK_Z7jYMpOnmBxbCy7xBH2x9aGntQPBI9gXCHBDold4iytO4ow_zCNbnBLvdQg3dnS_0-sDxVlGMARdKgMru_Hh9rDOLzLFLY5i0WbCDu8GCaOlquU0oI7x6zSiqQWAkl0tbETi2oLS79wTtIEzCI_l1Lve8DTwZ5N5pO3LmA
     widthPx: 1086
     heightPx: 724
     authorAttributions:
@@ -86,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVA21VltlHCOrX_UqeQu7_60boCMlxp8ZGuTqo!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
   - name: >-
-      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcLNWV0fH_m94ViZtXEvbi2TgGwUaHDd2tcEM1d_ylk5tWp06f7khFz635VCjT3657d7Wqb3t-1GKqGfjUPRGB1mA0dCwoGWHwn72diGrJMJ28z8GJq2Of1CLZ9ONdHdM4n3Nw9SfYrs7qBdnvojdrDtdBYdWugUBhh-j7_Phsi7bLqJb_zDfEcsqpJqZGvo4J2QvF01Zb7rNRJv5yY4NOhCYVmQ5P5PEH-vUgoT5Th5BG6aVFw9S___2p6DafbaMZTVnvNCmj5PsUBDPjzbD77TJvrxKsZCEVrRi_Y9ICtqIhYD1nJq_cHPgM1wjPUB66Q-FdxQz9PLiSBNaep508kH4Hy_owE6gKrQ8rV5BDNSCdJTPwyNnozSq6gIrE38YdU7gJ2gSzWPDR9GeYZItMb5d6OdbJfOg6LntnWRAfymqss
+      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcJqsxxmhThP0A5RSltEHlQW0FPBsB32LZHDsjKso1RWUPvSE6XjSwVAYwBShZqP3z9yl1mghxJLoEgLJM3mXxQoCLNQvamwSp6pD58OKlUUAeuCdJmiN6MRHghV4r-fAQ4mGkjW-TjX8GhYbgkg7875ceoi8jhBLvesUt57xEqLHB0N9VeqZLPcmlz2TRWGPJ7NfJHCMLmWiAnNneSHCVVFKTTciLVZ597SlpLwGS2dFHlC0TsfRy3o_Q9B5blYGz8ZW47Jx9izXtKJK409MwP81wJcarQ1UtKEFffpubmqmOUMwLHz4m6y37Bvt2V2YNSJTfBsXRPXhPlFoi7zLT2FjdXslxwLKcS3e8oU1W5FmX5Inbx-aGRBhAe4dQMIxIySc3lWdJ_u1uk2nYx0z4JsJFugrBILOK5wEfpEEANBbJo
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -99,7 +73,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM6pnl0gE!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
   - name: >-
-      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcIyBq_zguE3nkRQnZvYCPklcvfwxm8CicyN3MyngpXDBws3g_K-ToeBAqZKv5UR0QGOGfFuYoD4A61sxVzJWWgDvFrZ5jr2XDaA0xj_pGnW_JQiIJrJPXz3lfQ2Ho6pG2tq5oMK3RJ7qvuialSWJFafnTH8jaEdlQG5ccFoTlkshgyJ-f0ijvxe6ZirXVQ5D5JKbb5_9ht1xtIcOJ6pOnqj1ALjze8LvKcZ0Jt_zzdrtYm85coZQzUB8_fisNVSdepN_5Vzn05WxNOtUnsCG_c6zBSUn3xnkWI1wyKsiDGGUQ
+      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcJKhxDYWTd3pzPCeK0_8Acxqln4gSfPyJ3oUlM69y2cuKchjD-hgHMZDzBVRMDoUgrM_ew_trUJE8xF8iTEvk9ZIuaCzlDA_cqFLYrg40VnEfzRRwjvIGvPdmC6caxn0z6E93MMC3zxK8yTRK5Ey9oDPkP_8zaNV9IGNR4mDHfWFvu8I9bN5WzReES0u0Jp664-QpXSgWeQi8t63Mz8LEe1PTrhk2tRJ4W7Xnx2NlxGD-uJZ5yD5Fk2hwGCpfW8bWBWwkYU7tNKCrK3RUPlE0d84JfBNRCShQux8ycDkyD0tw
+    widthPx: 681
+    heightPx: 600
+    authorAttributions:
+      - displayName: Kobe Sushi Lounge
+        uri: https://maps.google.com/maps/contrib/107188944590969176076
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW2NYBcIa5fMsbRG-CodaxA9vMpY9XfQjWQr-noTJo5JWTD3YA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMclHymjbndOKzpFvZd5MpUNvUU-HfrrQDcWMF1&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMclHymjbndOKzpFvZd5MpUNvUU-HfrrQDcWMF1!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
+  - name: >-
+      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcLFLqP2IgKe7PcTHF5UncAtDKBUO69hQdJ0sJB0lsd1yyXp-c--cungOdPAB4iqwEe_RgurpEErJslfQzswP0QWDQll5QvBa5CZ7s50doMLMcjpbA3bZc4e1Z9gFUTRjd9rWYJkBtHHja-rfjPu9KCdDUxQ3IYFaBLc47F6baubMRxVmkQuB4W3i9FWHZZJeUpC7-XtPSw9QD2JCSMWsGcjj7NFjAPx-ffgZsst5QPR2y5aVh9CDADxxjJmnRbaPIsM0oYDNrx-f3OOQxSO5FUBS_jfwI5lZx-JkcSMOKsUGw
     widthPx: 600
     heightPx: 800
     authorAttributions:
@@ -112,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOX7Vsql19u50noza2fG4nOW9to-q67Hc8tZaor!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
   - name: >-
-      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcJKOIs0f6mdfOlwgrdXKdTvk1jtkDKuuCUWvEvBz0r2psPmyBFZMxGvcejasIR0gqkJstGdbNS4LLt_k5qaGEANK6ANO2LBLuVcEuQG9WIEnCAGbuQjzndRJ2j25YxF4NN_p38iEBWtRfELwJ6o_uTnps3LqJYujsmnUOQVEleC_rFHp-WIfutOAmgVce60Qr6qOUKMbZEeyELdzs_79ai7hWKgZNB0qJ5gwtpNULobQyTAOhNazyn0ynfFhbWiJePrb2XiDWkmlU8GMtEFwZE5ubd2qxhhP_Omu6IeNgwysw
+      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcK_JT2gzgyKGTn4EVotZ-hUmoWCftT0KlQ2lz3IUO1n_NPGZYl-Ss3Fj2YccxgjYklxpGEUFKDHSL02eOoexzj3qtp78-uLYDsFZl7_0vcKmcsXwneUs50zSE2JOAopq4ICwQcn1CbQVF44-OZk9QzzaG39rydu3FsluuixrXKoM4DiqyocWD6uF5SWUgIWq0ZpPKgGAgoditZeN7uSoJGs9NFY6eOGFX5JOLzptM8LnjilcMipR-EKMVJGOiA6E1hFdIOp4edr4BxZtPpjee9HD-VpLd6XA9Mu9A4yZlW9Tg
     widthPx: 600
     heightPx: 800
     authorAttributions:
@@ -125,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN5b1Rn3YoncwlWaLOWCUpU1WezmM70Vjjn-Yro!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
   - name: >-
-      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcJnOb4DJiyLaY8Z5EdmecymFpFAlBcfZyphfkfMYOU156NtFA0VzicwpMVluzD2cAuecUOHkyzHFtPNHYS88WEodEiKoaTyzLmFOkenhN5KVLBuSRCMHyc5OosS7VPivBTvz6PCJBn3lJaF0qZy3DbRWdSm2X-vBxCyz5N4hU5xplRy0hjId7MF3iobn3_IcoaLyv1NI_mPTq_glzdwHwWdTrnHB2oaLR0cF-NpK3MaippB2iW1IVuhmA_YWnNgSrmEJvAXJyFammZzCjXkWi217BD5dXk5GhjKOChmIzq5Ew
+      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcLepBDlzu6Qa4HbJz_IFqDBq1wfb82JdRVYFmw3Y4OiTenmJYY3ZowzpskbBf6ZF9jqK-nHDeQF_2T2jIh5nn7KjcWjOmLarJNrEo7C2SWRXiUQCwL0IUnadwGSdd7RmYRe5DO727NGubQMazNY1YyGIvXCl6QZ1aUKYZl9t1kK2RKc8fQbOuELyivzpBn9TiRtn8oyq8wCqw1o9iLrpOrzJOEWb1adjySj6yfAD9EDDklETsYksIj695NYb8vfoO4QZE3nWhGiGqVeC1MSa-KHagdB85OigV7rfXb0m3X2ug
     widthPx: 693
     heightPx: 600
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMzQ-UiNtV2QJBKT-DXq55RGu4lwUUZYD0oA1ok&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMzQ-UiNtV2QJBKT-DXq55RGu4lwUUZYD0oA1ok!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
+  - name: >-
+      places/ChIJaQl0SvrCwokRvnK6JX2gVIE/photos/AeeoHcI-O54VYSq0pVUWQUWggPXjgVF9CMGIv4rEGiTvtlzEeKSNCGOmicYx5peHLr_81Fk6PSZSV526JgIyoPfrJoLOVUnhSFRhrmWFz1JrPdv8mnNU0Y5Z4gPmPlGE2KMGHnsoRsAMxMpPKru3Lvsa0aAzzt3Zac7ROx6GUE1Sb0OFNzwUzEtm6WC-9RQYLHMD1nNiNPBvJETSAtAPACJiK5Ohk57juj4dWqYvzJb2-RPtZOYbL5ommhmsUvT4S36DMwyg9x3RH97otKSmERIe8JLW8g8C-W2rcImGEpCWoth9AA
+    widthPx: 1086
+    heightPx: 724
+    authorAttributions:
+      - displayName: Kobe Sushi Lounge
+        uri: https://maps.google.com/maps/contrib/107188944590969176076
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW2NYBcIa5fMsbRG-CodaxA9vMpY9XfQjWQr-noTJo5JWTD3YA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOyg5S8i6xmnddlvRrFMCdogAwJf2gtne4sN8Kw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOyg5S8i6xmnddlvRrFMCdogAwJf2gtne4sN8Kw!2e10!4m2!3m1!1s0x89c2c2fa4a740969:0x8154a07d25ba72be
 address: '195 S Main St #3345, New City, NY 10956, USA'
 street: '195 S Main St #3345'
 city: New City
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Kobe-Sushi-Lounge
 
 ---

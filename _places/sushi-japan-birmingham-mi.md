@@ -8,7 +8,7 @@ cityName: Birmingham
 place_id: ChIJheA4ZzjHJIgRsAd7xomQVRQ
 photos:
   - name: >-
-      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AUy1YQ1H0ak95_HJT7vh4NOciN_3N_sm5wpFTukJEkK1hlXvaNwu7ojO1mUOeqf3k49hMKaI5CasBASyoPFtq5n7CeSgQy2oO8-9ua-AhaX6HFrXg6VFgYbn3Llg-ccadTS4Bo0gqLfH-1rUVcUz3ozG-TIZ5hOILjixy3_ixQqe91sXaEfjltVHp2cJ35SDyIUaXBFWDC90Xxos7pHgpmbV6oJmRI970TUblDFEF-8aOZY3-MHb4WvI0L7jbp6xdFO90S3RuWKMBO7_EfFFKTDHdq-ZbuC5tYI-bwixI4NRxq7hlw
+      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AeeoHcIeI6-yxCljLpPfgZldiPJ6-XSV1g-d-5PvWQqDvXwogFxPgoAvSUCfJykr7zMYdaPb2pjiJqMody3xX0DkB1jaCO8dEp1pv6vflXFV-lrls5I2j285W52QoK_cyMF7cuumG7rKizAEq-BRg1mwRQeTTCJgPv8Bo8ekhfnSV1SqN9iGZ_Wzx92Up5RdPFHEy2GET1Tmgd0-Nmv-LUABLxw7DqtkfqzoqZ9QoBdk-07BNMgx4RJ_HHl2LJ6-jzMTS0xzuM9BVFgtEfO8BdaliNIdW0mgb1O7z-h4dakMMge4Fg
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMff0SXzRmYP1x17sT4YyyhFbmmAk9wKqxfpJuh!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
   - name: >-
-      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AUy1YQ34mQp7oRYCCLpoqIt5bDD92vy3V9AGS8uuGjRo00RcDNfUol5CecHag1URgdDHaMevKmfmOjBbL1bJuVh26b-g0kZ8mhyPmyMZ_NdjgNkuaSOm1liA6-A4LcSZuTZK4bVcMtcWcyiW02FfwyIFKRwCXlviAn6ZPF-x0ygGNumzPy9NIzcax8gA4BsUM64LHShbcTnAt5D1Dd5R72L1_WCto_NpS1NlufeitvdKMSD1FFe3hBwavTUyG4Ql8HiLWDp3jOgtHWMhqytPj1M_YHOD66juMJTLeWWeb5nYPMQHGQ
+      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AeeoHcIToiSoTRqd2Xw3hDqP50d89CByEUrzypwEV25cvV2WNTtQ-slQPRckwKidpgjvnEkE2uF2pVV_zaqTQmTG3XifHg8K0Un9cN0BZsDMwoZJkN1_CP3HnPrYOq0nMJoGbr_dqwZniwwEfmE1D_x93Z3Zirr8LAHAYFX9jU9rTuIPjBi8t9OUbaiSfZFszl7kHIKIaeQHBhHBdNuTQvQbQKOFGIWt3jLQsQRrHmnC4bTQuAzGG2hmp-meG6wfWViBpKWOrGoInHiZ_OozJt_ZgavPvzWTiBcY2Es6-5vV_iy2xg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -30,11 +30,24 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocKBXALmGxtcgjo3sTfslmVSt9mIw-MaKSHd2sf_u7CGJc9Fzg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP-ib52adbPi3NXUukJCUNQjj3vYVUlSZCzWimT&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNx-qau12VJUZa2tbgYVtZpJKgytWq-DRpSjCxK&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP-ib52adbPi3NXUukJCUNQjj3vYVUlSZCzWimT!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNx-qau12VJUZa2tbgYVtZpJKgytWq-DRpSjCxK!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
   - name: >-
-      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AUy1YQ1SJcbz9klmIq7ZaDGRFQmiPH_3qFRY3asCwdkLOnHUHz3dmHoorb8zOhOdxFDkEx7uQs4Wfmxnw7WAJHFD1jtMnEB40SOiqMuDunMLvqrJQJ1dMzWerNfx9wkmMpj7aGrwRw-b4Wu5WX10qhh3SuSXjEJ8iWMToJFNzZgyXbEnmbwb7XhmCsxgzQiOjmuAAjjJSLQPYTSdsjNuPlBxkrU9VNRtoRvP6Aq402cbzoBfZVYFwejmVaJuI22KguI5kKii_VmG9nFu7DyPSoMbllQy6snQ2rKkV2QQrUqeBU4pq95svBGUInL3bRB1Fqr5jTcEgzRPAnffrkMaB0mVYJpHQvl-B93g2g7K0nTgT5uXD0XT_oTQ9RBRReOJjU_8Cr2UfEii31fgbdJUF6fLZtRmfrEUpQiALt25rhV_SHC7b1cn
+      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AeeoHcJaluGqecB5cvtWFqPi38nBkiiH2RWOgpKt2foYqY2QkCyGG-IexuB0fjPZ3buIsQCtKeZ-YSo0Bct-6vNX-smDypPOOF5YdllQBjitc-YbPsj1VPVaDZGah-iYDsR9zVWJFNTLFlait2acOIdewepGLRy7JDm90aIUcFjaVtz4YjkvK7hrAME9cp9xLhA9DrCvLR6aIAygvvjAJfrg9Rquvh_dtOczp1B8oy-XYEefBW9i0CEGZNMTxQBDyywoMD5R4iLN1oKA6univMFzfh0gf0AZ-jsa06iYngUlvNJYv2YHrnlGF65_89TEYMhEVAY68K3reffrKpHic8DK8e9evdbD1GWOTzRjynS1tVBJDfFPTdI-ATa-g9vxRYnUNI-C3GXulYh2rc2b9246a_DklvxJ2RJsuMb3nol66fVbsqlJ
+    widthPx: 3000
+    heightPx: 2868
+    authorAttributions:
+      - displayName: Keli Donald
+        uri: https://maps.google.com/maps/contrib/117239267012888853593
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWB4Ne3RNmBFLFCRAddOJuoJ4pCy5hNYndXBmoszLlFZg2dGr6n=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-j43-nAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-j43-nAE!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
+  - name: >-
+      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AeeoHcJHJaSNa2BbHTlz7qCu2zedgp3vDIt9XRglPpkEQaSk98FEzIPcdXfJmZOs9NLRPGgwQHWLiW2l6SOJ-CXIBHEGrJ72cAJNwOE5uf0FSab8Cc1vY34De3ZeL5IKNIcsU9vpH4V_btANxmR_rRq84w1WpxA9-HlnEgQQSctysKCGJ12IVgQpDS9RbndnsUn5wOEZZvxka4g2w3EbvC97Hx-nU5n0qswnoRSTd8sRJ3P3knvhnEjmle0sYcLlfeOeP2l5BXrahx7C8JMeJLxYCIXv9lYgigPxFzSfsdcLahW2bHBBijWzKZ3uqTvb0sxFmu4AbSXgNW7hQiEngpExADIQ6l3Gg2e3f3wKgeAETTA6u6YqLG4g8w_OrrnQU0fQA8f7O_yhDm0Fo2HU-ACFjDL7OV9cwdm0j9TYwtYr1wLCIA3P
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -47,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChnbv7nAE!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
   - name: >-
-      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AUy1YQ0OiVC2COLFXJ9FiXHh0jtiw__2CpKSziXwd_S7KMGEzFH72JqRDoSQ2NPzuj-HcJBfJAoWHvy0iBvh27zIEnjfU3aSM7lnI_e0uAj-8osWdd35HlKa5FcK7lZYEjrFiRAKhnXioIVY5GYs7O84Y9167HGEd7XzrgIPoFowOKXlZDq2aMrNqGlZK9m8CbnRV3g0IS6ihWknpma0aXX3__cMQAnsQoSZXM4ErcuhOvA6_GqTMYmPN84o5IIy9XYvKAldnRwFzKnPXtMBVOOVA-sMFzROFYbAWWWoCltuZF9org7voquk2BB2qacdeHeEneJuoURuW3HArSO2m8NXNIYWUVAQhDCePcIc1GOi2pJjUGp4UeOp-r7mYgajlzDB2GZFVHQ7gA9MgXZN9YyTkRfTJA0SJJ8t9OzOXRwJABfzGA
+      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AeeoHcIWfF5L_P090wFzwN2IqDDCHFyk12KEaO886VE5F6w9Y_J7v_y4i6K4crJog3joBt8TzS4cQ76E3gSYtrAjkpZpWV08kXmWzlGVeFYsuffHKaH8GDRXuS9Vr6-9TyUuD2ANsomVxQ0izPViW4IB-qH8aXK-szKI61BMnlEd7sRbovKmlr7Hn_PzTnboouPq20gX3j6nvsaATsFmtlnXWVyyXZzWUPVLWoeq59jEFyripmq-Dbu1Q7pkHiHhteElQv116_Z84xi-K0BMwbTtjwHbZQIOXzSHzUgp-QqbDL2F8ScinRUvRC4q9qLe4bGFQPUD-iwOvwhiFiWhWfq7Mv5OZ_gASBMoPTf8BIyq7A_L4Gm1MoG0ZG6ZrLs-M4Z4J_cQ6cmaqnhXX3HteJhYsFCBbExuZ_I5vfnOPGjvCqnKaA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -60,59 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzosH6Gg!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
   - name: >-
-      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AUy1YQ0caFfUmogQ6SCjmtYEQGfHsdgJVmC-XjdhRpLPeJPkG5al1ggXqy8Pz2jMzWdHeC_RJqsF6XXd4t2cggUATDnawpNGbH2eeQMfBvsGQugQOMNnym1z9Yd79WVi76tbEBM-2q0ozPuo8Kov3uqbSsqPQ8LEK34VwgZPP31B7Xh63G2xNvEQC9Z9CqKnLWf1Xf5ACfbQYM6YOjOLzuIfaKfKLjt8r8hHMOSDPWsXaW9zT4bWTKd_pA03MWbWjS_99RyEK0Hb2CXA5udOzsIcvR5Owt-TZL63o_ij1rWHUkObGAdC6XXMzRAMrZwMYLjPlEzAd1APMI3ex3XP8T5sD4aCaIKI2E7q4tEH83u_axxJe07Jg--Nc_1hLFMH4X1hz5Zo5YdhGfU5tmrDVQf_ELvrSB9_BtbsMM6_0fbJsYLLZ68
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Michele Guttermuth
-        uri: https://maps.google.com/maps/contrib/108443324272113552797
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLjmhvMMGOL-cw1b75fH3SGj_QdstYYjuc8yar-jwMHFuidwQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzxqrpkgE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzxqrpkgE!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
-  - name: >-
-      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AUy1YQ3yzrXW2i7h0cZiIfrELM4_7pQU8HDbKY3oLzKtzsqotLI6Y3GgVpSljlm1krZomi8xRqC3Y7b6r0KY49uE6KiuCz9ul0LznhqOQvRN5gof9X5HlOSOK85su0ZDoRN1N8ULESMqtpq921RxXgooaa_9dvq2nv5zl2qfP9rTGrqnL8VEeXtoSEQsJJ-rIWPgQL4ZYqpjE3h776CdLQ9gTcfcHhETPJ_WdZ9lDFVQl7qoogNmHIBFS5ZLkWV3N8LMhiWM0gbVrqQGXmVcy75siVvSGIiFdNFB5yn4JlVx-b27NDlgz0qOjWNwbjUbQgQmyjjPS0oipqqTdQEKMKog1c_ylhrmTlLaBU3Jgcw2CS8K3POG6OGFN_qU99ecXgGxj8c75Su38wwdqbTd4TVlOp1M-ONY3ZawUeXRvpshopj8eQ
-    widthPx: 3000
-    heightPx: 2638
-    authorAttributions:
-      - displayName: Keli Donald
-        uri: https://maps.google.com/maps/contrib/117239267012888853593
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWB4Ne3RNmBFLFCRAddOJuoJ4pCy5hNYndXBmoszLlFZg2dGr6n=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-j43-bA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-j43-bA!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
-  - name: >-
-      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AUy1YQ3hMXAaZKW76-J7bh0eUBxS96A1rKMgmT09lOteloe2ZtNG-yY4Bi_uFE3BqVCW_EEepfbFOtBEnrRP5_so0dLZSNIQSL4jAJyl-v-QygZZukuXzTqL-lPHhsrlm7F6tdkDxMaeMrQbS4AXhTLTzbtz4NV7yY9ju2MYBVwMaNKVy7IC4L1_4B2P8545jn0_Vv1Cn3J77jIeMfBqOFNp76YTuXxT-vzPPFQee97Ct7sFhCtnNbdUOOX2QqD3Jn3_pAFYEytUCY33ao31vkio1xh9XFMqPVPAyGMXYteabSK2Kaw35qwDL2aoOyLjYWEtfKAJiYxQ5-N7_BY1Hfcd9ZHj_QmahPmHndggBRN_SyVB8NmV8ZgIepnkLDLaIHjXoBuDuNd2KCWqhqLSwOhdDVkZTLAHa54vbKwm3fQYNLA
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Michele Guttermuth
-        uri: https://maps.google.com/maps/contrib/108443324272113552797
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLjmhvMMGOL-cw1b75fH3SGj_QdstYYjuc8yar-jwMHFuidwQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzxqrpUg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzxqrpUg!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
-  - name: >-
-      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AUy1YQ1ATyMiBGXvNCUVoX8ILPCWVa7ynmM95vUdnrGEMtlDkeGuQq2Ar1l5ztZ9x2HlMp44yobkDFxfPPBQ6CDXrnHkyISC5PEpHIjcAPG-fQj7HtlR1qutXmGSGJieC7tIkza_AugY4cr8eDvcbdRYUY3zuhxu6bZQ2reMkTomponU51DxPB7iLL0Oc8YDXLnNkEKGKI7ueAUxJt65fBhh6sYIg2G0uaC1Fboa5Lx1XFgNXof23RWxS8ZTURAdtwudDS5PH5ILFgvh3QHVvCqS37xsFwYMi_FBYtuyah1XUVty9ouDBkhuGJSPJq4cuMPwBuaKHadFGwguXn79Kzw4xfmoTaOF9XG9OPifEnW7GfmgQvAcKiUqnz9vCPke3l9lqJxQL6T4FkHVZlEnu6pNLU2cCs7M5iZEj_1S2f1-DSQ
-    widthPx: 3000
-    heightPx: 3197
-    authorAttributions:
-      - displayName: Keli Donald
-        uri: https://maps.google.com/maps/contrib/117239267012888853593
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWB4Ne3RNmBFLFCRAddOJuoJ4pCy5hNYndXBmoszLlFZg2dGr6n=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-j43-XA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-j43-XA!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
-  - name: >-
-      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AUy1YQ2rNURnpZ71K7eVX-9sgRttHz_AzpfveHw-4htnz8ncdI8oL9wMJQBNchWxNUgwmrh2tQy6XbQCzOUVNIi1iNQQsueKFET2anbFK-IZF-ffIlmHZtHHq5UIpm6gcwA-YV1An0MtfqSIg4Mept9AQe-e9w0hM4baSGJf40FfWlv7J2TxyjsFlo4wnwkyJo9p5IZ0Mj2pKNN39hbY3ZOgv3eD7rBKcj5bOedIs9KhMoPRk_WlYyJtywudbEaZ_MYInV8Su6gj319x9iNrDJwVq74RJbYuaPu0ETIRwBjYMEwih3KoDFU54w_TyYhudZAO10zPD9Q8FY4k43hj0kPKhWkPpp8feqS2jjlYj96sUcXOahb6C64PGrSDOq_30gqcNpFtCK1zcmKeNsBayX6cFde4cf_q4s6jI7uiIehNMBO4ty9n
+      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AeeoHcJVfpJ72V6NLy_wLW_XiWDyyJVH2oHzsvbn3q-NDDIvaoOJ6Q0GiWG-FX_s_2TdTUa-inPskSJpUcSsXn5N24Btejt2HrKJAzHLSmJmRdR5bCVUe01-XwknE51h6L_Dzr_M3ZyNKzP3NImKVHm1f0Bwuo6yh84uyvIIAvlIngTHAUlNhJuDhHHVJ5F7kHFiNB21H42eZheou3uo0Ae7lqXXnkM7X7MFTLXWsNCKvGt84loIJYkJVXADPi3cX4mGC2HKQC3EZQNe3nc2DQji9zxKBv2eoS0fwZCGoOIQJip0YRFEXElVWiG0ES5yjcjP3cr3JsnSwBdMNRGQ4okVysp2LcAneBOLFWj5lSjRyDoO9au0zvH2koKgDwxY0sZctduY5aIJBI32qxmWmfKg9BwjcKwSufep2N5NBDWIj3-gTGIA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -125,7 +86,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzxqrp4gE!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
   - name: >-
-      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AUy1YQ070wCdZSuXb47-Qinx8sm4K4Fw8Xm_JXowc7_lXnU3-d0DkTT0HtM-8vA8aYdZizSQgan7Ql9LGpRahuptZQmcB_KPNQoKi_P1tKDmG3Sp47GfneQxZ8u51DE0QMsxCQYI_fR4VgOYfByC5hAU5Qkmw7OOAwLppuViq2U_Pid_eGZ8pAKtiVVXNriZ-lzh00oA2dNhbTpqV-qrgDKS1W6TRSB-dEiOETQp9FKaZUFjaqNd_1vpo1kw6ugd7oHWlBCHUmS6L4M02OCnFSnOtIadnRAUCdl1KUDI2fg4vyvsr2NNz3RJc9vGCH4vpmg1z_TEDUh8tymb8am60rtSK2z4CXIKlJGAbVwoTAj3YFjLgtU9vKBef7BYl2Ovpk9PcMKjSxXZB0-Qp4xeiD6JB9t4B-gySIL99MPKPldAxgsiaQ
+      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AeeoHcJxueBNCHYkiKbBXlDR95pwiOLYeZQLJN9dnpNRhFocGKBwXVGlmwGSgqIVQpCq6GZtvvpxHnGztrfP1wUMDxi-HeBo4Cl3MQwk8AAmDtVrWdyFyPlOI-VIrb506gznROYKoDHBGToewVdasqlVpAB6V64lRNtJzRtiv4Yi8dyYpflnv4tIxv5ZkKdZfm--JD-NeMdaPYePCUBCEf-nrTRly6HQheohLm5L4zkVHYozMZWKITw_RrI6qKWNb9V-f7Ki9uEL6uqSl-OGbqdax4QqrDBCXedRz53NyzAaso6-40XCIL8VTUhyaUzIk262ZJ1mvB-GD5FXWN68iHDV2a_BaAwsi72ZxvBhWSsTgf9buBbeirqzgqG5vCzXFngss250AEQyZs1NoCONJIYmQ8Ois91OqggFkYbZds1K7K8
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Michele Guttermuth
+        uri: https://maps.google.com/maps/contrib/108443324272113552797
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLjmhvMMGOL-cw1b75fH3SGj_QdstYYjuc8yar-jwMHFuidwQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzxqrpUg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzxqrpUg!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
+  - name: >-
+      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AeeoHcJL6S4iwdvtE63CDHUuooXg2dlViP7ic9XCKWyUZzKHwcxuyk2JPyyATG_DLCpxHVTWKSBmzhB7vUYFa8vVAbLUIlXmd8L19n1PAsDCmoJvVzWXShzW6wzOJmKP_qwRnA35wuMctN-bctY5VuEh5NUEQqpI5T5ERWVQ7_1yXJGET1rvbYfHjnJj7iDNmCjSjHvakZ9z_yST4YOwVYwt6ECznM9aZr2fEZiDvvoXfp9dapOkmgCyjotAkUmpXzOadXJG_F2F60Iwpnpto32V3q050rf9peRasFOIyAypEvtXMAGIy00aq4GaE0uGw0zpeWK5szUbs1il2LKlojWljob2fuzsi6lDE50tThabFPQUe0l9XFHbRpND0-BegMFNkJGWom5HW8eCkJY5e3v_fhzhlkVnGgHrgtZOywSFNWx1dA
+    widthPx: 3000
+    heightPx: 2638
+    authorAttributions:
+      - displayName: Keli Donald
+        uri: https://maps.google.com/maps/contrib/117239267012888853593
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWB4Ne3RNmBFLFCRAddOJuoJ4pCy5hNYndXBmoszLlFZg2dGr6n=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-j43-bA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-j43-bA!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
+  - name: >-
+      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AeeoHcLX8KG-pRAYvH17Guj-ZEZUsr3RB_TrtB7QjbDBNcNSmd341A_cNRh9IQFDUpHrkNVL5SaHEruTey6WpVpqPqoiAWNRgzE9mNH--Ea2CKMAvL7q6lIsZiSRLK6jOp3lT-FwWOnEdxLAxjIBcGqb2kkhBTyX1aIazVOVX2mvmP5RHvM8Kb69oInGrvFiD4TxfOg8JhdeKlH9zZryqW22p9HxG3PkgMbF8KpmqRmeY53cH51_rIaFAyE7iXU84zViFbqTKsO3yXWwEz7ODlahIkz05x88NfHswqfz-FqWfXyAu7bxBmDEv6TRFSjlTtS2gbywQiMdLbse-9OUOGOPfLYXuXsd63BahA6h77W4YWnrYncdf6Tg3Voxkebb6yDRRfp4qJBW7fLAYsGdbkitefJP_TY6EYKM0EabNF60HDX92w
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzxqrpEg&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzxqrpEg!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
+  - name: >-
+      places/ChIJheA4ZzjHJIgRsAd7xomQVRQ/photos/AeeoHcLtRiWvV0wHUUTGNHpgT6r8d6dv-4aOmolOH1qyuHnL8_PF7dzzMcWYJ8LcBdwLbx-hJ2A0VKxgMC9UJ99rcOQfCb0uf9wZJL9SoLXcRStrW16WyrhiY3mTWsVBenA8Sd2FyUll-B-KQ93L86f000avdEJRvPeE1_wRWh25O3PyC6c7eqwzADWK7l5nzEZaD-ZTjbih38dBDYzsJFQ6OzQbGbzkBLL6V_5NBilBPAxlC97XmkR062-nfgNkUqpfBNo0bOE3OGHCOpsQEGRKYkcd7mVdoFnL9UtLpqFlxGxUPQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sushi Japan
+        uri: https://maps.google.com/maps/contrib/109718572809730745744
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKBXALmGxtcgjo3sTfslmVSt9mIw-MaKSHd2sf_u7CGJc9Fzg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNLkZd9BmaU4W1ddSG2IyPfz9MOs-uA1kyWBwTV&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNLkZd9BmaU4W1ddSG2IyPfz9MOs-uA1kyWBwTV!2e10!4m2!3m1!1s0x8824c7386738e085:0x14559089c67b07b0
 address: 176 S Old Woodward Ave, Birmingham, MI 48009, USA
 street: 176 S Old Woodward Ave
 city: Birmingham
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Sushi-Japan
 
 ---

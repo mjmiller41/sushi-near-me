@@ -8,20 +8,20 @@ cityName: Salem
 place_id: ChIJTduzznn_v1QRdfECSrlQNVI
 photos:
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcK58Y1Z5wsQsfx5XRFYKffcr7slYLm2prtPX5-NBIxfjHFgKKzOBKLw6lmTIM6WC79RZdzWy8I1D6ObMfhmSpje-79kUi6K7PAEH2izm03dyCt_oSdL3Lp0ofDPrSnjIWeoOKTgPykavSoJl0IgJO32dUWOqx9v56mppJJjOiohXeilkYWiXKzvv7unoeoxQ_25TvhuT6clrtEDZ9FbE27KVGGOoaWO2TilXC8BRNIvIKErDZpJ8tYGBsMBrfxKn-vVKSOeRzUFAhfg2HRf7tzNNuExVNVQh86j-5JYljicDRu7HoAvhXv6s8TPTV_R20UZTe46VgwlFJpzXgR05sVlwAAWPVu9FZCKwYHgu0Zb2bNPk9GDaWP4xjAsP-v5NIxkfp7XffVDGX2TBc8XVI41r3M_ZF2tV9aQ4MjkjRsstg
-    widthPx: 4608
-    heightPx: 2184
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcLxxXkiaEVkSPv3POmrh8BhdW5A9QS1Vk4BU7BxHrQg0SFKlq_6QsaT18gCod0CUjwvdDrH7POi2D9pei9JlkBCwWctqUm4DggtWum_7jFZVDl0LOZkeFFqV_EdBcVSEDadlaBIogAqKakAjVyGUg9foIbrngI6tCbsgiEt3lprEHRn0g0W0Fk_vfUy369-GpGL7OG_f5Us1e2XTlR1YzwKAlZvllGKwys2LmeFckNNl0lHQete0cb31JLNnwSdblaVRlOpMixI84B2Gf--6fhfEuzkO2uGPPr8eflBFnFgDA
+    widthPx: 1024
+    heightPx: 576
     authorAttributions:
-      - displayName: Phillip Castaneda
-        uri: https://maps.google.com/maps/contrib/117021810011014213824
+      - displayName: Momiji Sushi Restaurant - West Salem
+        uri: https://maps.google.com/maps/contrib/105377205627005009295
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUkoecUTwRl7EVTioAUgYkWxKeeFBpzgzwXwMKpSfxD3BlxGV43xQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDstMWEFg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNUz9oebDa8kdqICJDej7XulgZ9wi0ARp69cRNy&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDstMWEFg!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUz9oebDa8kdqICJDej7XulgZ9wi0ARp69cRNy!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcK0_MQmbGRY5boNnpS0OuRw1M2LXuzIlLnmvnIdGoEOK3bZPpRlbrW49y00Tcn2gLCo5RwzX88byvnbvSyQscosT-jnDkAacOovlJ6UOXHmFDz1iOVEeQe7qWpxnA248SYmMtgKcoIN2KkC4J9M1Op0wkxdQxiSdhRI2QJ--Yhrg2G28IluaEVkzfL9jJ7F0ajQBRE3vzzu9-8vvakKwSyrwYD6K4mqcIFXWUoM_IDCr5uyArLwhtPZrgOJ26Y0pq4V1JulNTYqPsCz8AS8QAYPMyGgCHVni7dZ0klMKE2Mog
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcJvKz2IZ0LECeNR_GQscvxAdfB7CCLOR5Abp1fr2Erw8QDY0TDWjD5AUn5lAYazwPzqASqeTblrFxLEK5Ei_MnzV5W7SHNKwSSY50vsgyfvy6lX-0OAASMbvwQJj-Mw1V_Ce0APCUlwC7-xA7acKd3MPBUsrPUrSYkLvVd2Nheb9m-BKkfaye6eUWo90tMoRRN___2SMh33HWk_8Sdb240n5QDmB6vn3Ek_fN_DD9xouBrV9gufwruUJkLGNtQVNnnbcW8D_1t_tjiEE7hb9bh2lQnqUYtXdnwZ-OJla-WJfA
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -34,46 +34,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVHsBCrJRIvBKH0LE2tkzHzGqFEfKBU3qOo7Mo!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcIvhOstpADaldpdVvFd8i0lbeTvnQOUxxG_rbAHBl-7sutRE8wftcE7yaSbM74D9rUQe_uEm_3S6gYjcpRGbu5N4dY7gBUtzGZTHfOnsEFyGtxxpUVBDyJG_HNTG_FsvFBEczQc626bWk3x5hjKEGrD4Yzs40hN3_xU4z3GSQPLedcMehe7b6RDMGn5XxSH_9idDEMV2w8Xh6ZfH4aax8m1a8eI0_Z4fmiwWFYPVjcSMZ7-Ymbc0EF2jZqoT-JdwnZ1PMbLOf4CW2iVVV-xy7K0ND9vMTZiKZgBd4f0ulDBow
-    widthPx: 2000
-    heightPx: 2000
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcKwlhJWEGi63ppVsheW4sgUDd8DWexDndPjTCnJqIW00aZfxFKv3DFvHj2vSlJWqZyvPRoh5hn-JwtpR6aBz4dAKpSP1EGa5Lko4J212aTLRFoiptHpyrFWBUR1kWp2QSPHSzltQq2NS5JsM9bAfr0sSxYaHQYfYu5qrhpIXbAdikuWrkzWQF9ZpSgTdGa8g4neU_VABZlDNKRP4483cTAqA8C6-EM2xjmmKhJCI4ca_135vB2tTJzQRpXUCSlG4in2jXr8cNFAih87J7vrgIBmPmtNMGcz7uQDyzKvUhgENg
+    widthPx: 800
+    heightPx: 800
     authorAttributions:
       - displayName: Momiji Sushi Restaurant - West Salem
         uri: https://maps.google.com/maps/contrib/105377205627005009295
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN7V3d-WHnV26B7T4lV4XDhvKiSYNgNvK06_WIl&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNOpAUINbOeFkmzLNBKEDKPZbBF57XI9-son0fa&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN7V3d-WHnV26B7T4lV4XDhvKiSYNgNvK06_WIl!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNOpAUINbOeFkmzLNBKEDKPZbBF57XI9-son0fa!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcLfdtHSDgE77M9KXnllmKQLw1lvvjvHqq5txlmEO1HjqsfHS4XJlLRuP7lQT32dBWsr6wLLZtPH5Z-5EXisipavq9nmrpt_j5IwDI6Qx_L8dKhUcgEAxYcVcsFvlj9t7g9o7mJqh6IwHhs9q_1X9L-AKpPa5NLz5Pv167ijEvew8FA_24kJorWaJN6CTLedjAPbCvOqF2_SlIWlA7FEmFp-xH-Z0z1a6Bbwd_eROi9tJnkTtp6iBYSaIFbQE0WS_6blSADtvolyTBzgWX-dst6U9JrsCj4-TgjayATs3y0WQw
-    widthPx: 1024
-    heightPx: 576
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - West Salem
-        uri: https://maps.google.com/maps/contrib/105377205627005009295
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOp5AXlXKpbUulN9eL8YfOKcpX8iYENSgC9se2r&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOp5AXlXKpbUulN9eL8YfOKcpX8iYENSgC9se2r!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
-  - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcIVxn3_PvxoPByqfYL_-UkSlIJ2kRACJeQKeCh_1mNmqbZV9dfxQiyGF0enEcuYw7_QOXOqfOKh-BQM9HzRNS5ooHOvxAtoXCHteQ03EuIlckyJIbED54O8bF9EX_Dhjc4QaBKS8x-dZwCWavHM5y1rrc4XS3XeIaBo_WLv5o_qGaw7Szqsi1i9eLU_NSY-5HbNsc-veUhxcTV84cuUMnYYwJhdFPRZB4vSGs4L6sKmJejB3ihsevRkmQjwM8iMrjjHHw7iU_MCPROQhUztJUxBlv12zH6n1atfO6O-kkOvaA
-    widthPx: 1024
-    heightPx: 576
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - West Salem
-        uri: https://maps.google.com/maps/contrib/105377205627005009295
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO7IIZf55miRlL1_ZqeJM2MYtuUxrJ-5IDwyATD&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO7IIZf55miRlL1_ZqeJM2MYtuUxrJ-5IDwyATD!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
-  - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcJeTZH6qrY5VwsmbzH1E6e1JjNwHMCfQuu6-RYBPGsb8l48WHVuVy6615frR9WCUAb5pEWNLnAJq7r4fa7Amp_LdmF0v2NMFRovtjDI0IdMOEJ7FPLWyM1xipDI4_8-rHUGe5mkxSV_UGB0FAFY60GALddLlYb3qYwJ3lzN-VtvIfs9bNP67fZ2TPVO9O7la_cW4NXyrHXjG7pDhcxqqftbEuhEKOLsJ4bix1FIsJqBjxHCft9MwK56vAUNgjGO3i269M23z0eKZqkdstfzvgjvfz4AIgYufv53IEfyiYpmtQ
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcI0Ai9zXgHlTdkL21OOSQ3lwLZ3PTbsnvMAmjcRP_xdNndlAzPrxZg9dAWdW_hcP3lVhDq30zCHPBL4XFhBik7VQ52JEj9VSjFCVbyE2XvgpamvKJWrrBN9P2fiBAv04TO68_bLVodMqYZYD8CXqk2uH3F27pRhoahNkQWC8VipPDKXw-qa220mBqODRdWqe9zsCYZQqJ6cfS25TNFIyaO151RaN84zbik5lmZTnVZHw4aQl_6Cj6I8WdzYq13K9Kc1T765xz-Zg5jIFrbSFKqce4NbjtynmxMlucGwWk-jwA
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -86,7 +60,72 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPQl4KDcYTxvpvK_N_Cj68hb4oK9jtio2Skj_EK!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcLFbzWI79h2qh6tGS5b5l9wfbb3KBcErONgHg-thU13b9aYTC8rJXiRvFk7Mmhn--4ArS0pQ7prRovcbX8Pt7gChIk0XHhj2CnZV-aTqpAf4g3iVf4FQULE9ViPkIeikAUVL28k9ShVDURnr9JDLK9vPu7kNN97yQkZFgqKZaS7c6n4eX-DbtiW6WHhmi9jxegUBl6SC_YXCB9YUzpXJtyUA-tv52qXfaC9K5PoBsOxacyqOPkbJmKxtU-sQc_ZGPPF6bYvR6fc_suhr1hwLsCzEZMtnq2XE1N5QLWkuTPdBg
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcJtGft11PSF-g0JREd9vp_iCuiuQwpxzFLIRiMRdA-IpmEPYOFELuN5_e-tceGEsvsKrbdAfM0hGOrVs6mRIkL0leXlBcM-fGLNrL2mazzwYlbuDWBqxyhIBhnSh16PTGzqgAWyfgw7IU200w_YNAr9Cf6Pwz0wZbjbpDeETt1cRsHbe8x29phZMteCTLURwkK6kJlhymVXp5vnmPLGyYdiBhLWeO4VOhHN_rOP6TJYCwkqiEroY8QavNHlrBism8_hiy_LtyhqC2f7zxXO7eDSseHJSJRAw6TNM9TV-QsE7g
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - West Salem
+        uri: https://maps.google.com/maps/contrib/105377205627005009295
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNgw3toGAUxR_PlpRobcKjqP0DzWc9Yfc4CFyoN&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNgw3toGAUxR_PlpRobcKjqP0DzWc9Yfc4CFyoN!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+  - name: >-
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcJRKhp8tG4ejKx6I-Oa0KvMKZleVi3F1Yn5TwPaWOelHuY4B-mqpMtD4NyCZeKSdQPI-pk8HBQeCboerlBlCGUJJCSUeow7sJWvwuqQ7hTBmuagpjXxcaZxGnBAFznOh-V3B6JHwloDjdDrhTL_u5eIUYCDdr-SYFN3psCe7rRw7eej0RbOlolSzBFHLlJEdXrbdH4IdVyuLXCza0C3_fUPgUPdQExKjMTiecDx85jsmETVemOZRS1GYpBtkCyvj4Psk-dPkWh1geo9meuKUSv094_nYC2wxCawatXwGBywFg
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - West Salem
+        uri: https://maps.google.com/maps/contrib/105377205627005009295
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMMMZzPcKc2pSXObkmsb1Apy4rsYe8wVFigyNTc&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMMMZzPcKc2pSXObkmsb1Apy4rsYe8wVFigyNTc!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+  - name: >-
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcKU-qCoNwyNNEpLwq60VutsXhd_DQb-RNCfNG-x9MgeXr7cJQYXhDY--cMDMmxgxTWa2_O1k7h1f-4EpumYbDHn_4vbkeCokCVCPcP7LCiMhwhKr-qYiTa1Zvh8eysTFo_AT31q3XpZqqsc23sOl29nOexUYBwsxN2BaPR40kZQ8yjjlX-N2lXAumSHZ8Hs7EAZOpRXziUHZrUENZhrQtyw7OzfVos0pyeo3PHXmv1ydxwmx-AySuAZe57vOFdJ2q5pNZDjS_zyNnpXUrRg2g6jHoGnybuFFWFv4QRpLeqk4Q
+    widthPx: 500
+    heightPx: 500
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - West Salem
+        uri: https://maps.google.com/maps/contrib/105377205627005009295
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO3gbkvun-nVjyTig2ayTak3TfeeQtcup0CfEG2&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO3gbkvun-nVjyTig2ayTak3TfeeQtcup0CfEG2!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+  - name: >-
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcIwKg1VrEMDpwy7mIrbP_9QAIyLR1uzwmFa3_roDBDzy3ggMCa46SFX3a8AW0v0VowVYozS_8dlxGXwTgsalSB_N7AE3n6R-vfbclu9PcCYtiAgu20tIkaio3xIPLiMc2chSy8Epy8WWE60Fhd5cQQIOGazw1Y1Jv9L2iDvGJLxRj-7IL-vGZPttmvVffEcwsppYnvO8vMxVJEwQa5K5iZUuGnhL4TH1bG0OyJzujtycLdKvU8ZhXHEDWQdGdxxfUTe96r9wA9JhxJrIzopQFZZTwZh-78brtCJ1wjIK5zjaA
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - West Salem
+        uri: https://maps.google.com/maps/contrib/105377205627005009295
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPyVRYWlNlce-kx4bosnJVR4vIm00XwckEFG4Qn&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPyVRYWlNlce-kx4bosnJVR4vIm00XwckEFG4Qn!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+  - name: >-
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcIMuYotY8RcU6EpSpzF_aBjJWyWjqqJDYD7Dzf5PhyuUKa7of_4m7W-z5fm5PebxU7nIngaBzomVwhgN9d_dDU7zPFRKwYi5qtdTdYkjEMv6yYvHG1TVmqTO7Mwby038ijqUYO3XtAP_NYz5QPXToZ05R-YN7keg9cKoAUoAxgIbgZfr31Ag4jVWMgdaGRup8maqQEORgWRIntnV0xyS-WvPubH1gmROwYpqKTi6jcovQUmGOKVzQscgPlObYeT-usnahwQCOW_fqh70TLVqI9adOje_MypdQgxdljYHBTs0g
+    widthPx: 500
+    heightPx: 500
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - West Salem
+        uri: https://maps.google.com/maps/contrib/105377205627005009295
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM1jqYJF3CbO99-D83biaKMGJySwjmIPlGrL8nT&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM1jqYJF3CbO99-D83biaKMGJySwjmIPlGrL8nT!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+  - name: >-
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcK8CRuM63gXqFX6qkkhKYkQG9CJd68sv5xIMr2Awq0JQxuhvaIe2q5YsPfwcN4mtKB1ISzmiPYnkHb4e5GM8SKzdMu3ZZAxscmwjvnS4piJHb4wOZEiwkRnAv08IhXmTzlC2jhQFgdePEeII1CrG96cGQTpKhHsmnxEeg3ScczUZkWc_odJNTbZ4iob02fbbug5h1gH0OQmA823Sgei7pbyRN7r9NgCZim7WysEOD1ag3VO4BhJ9qgtzKkcv2VphA3TPb4LJzvvEgBK17fjL354l4F3TDKIFa60McrvvzsIng
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -95,48 +134,9 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNNY9c6z7aaqmz3PRyqhouTVRFWXBRVFtEx9wGf&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMhCZKA_e2pOXIZk5vJQcKDEctVKQE7l6h8HzKF&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNNY9c6z7aaqmz3PRyqhouTVRFWXBRVFtEx9wGf!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
-  - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcK8nmfkPHQP5g8hxy7KDYwNH5WkadDDFUxtj9OU2GP3dIW7_wCRsWPLdldDlFFgnsXXDENEovIZp1ASqLG1TL92T5FQnuzHHeJ_NGZHetpozPPcxLO2S__x7bA08Rbm5tA2Eg8_Ou3JktmB4l-oxbgFXNnxDaQQNQ3nLVBTr7wVpM1_3sZF5u2DYjkggdelXTbFD5DMoWjOopHi1gvvFYS7nY3kTbPb_XfgOeDR917kwnEr0scCCG8BCIaSxVzQpPD4XP4Duq-xTs0MXHZEljywTwOmoeoUT0NFADnDEbACRw
-    widthPx: 1024
-    heightPx: 576
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - West Salem
-        uri: https://maps.google.com/maps/contrib/105377205627005009295
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPuj8IT2M12pLXZpVOU42A5s-9Ck4XGluqaZmdH&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPuj8IT2M12pLXZpVOU42A5s-9Ck4XGluqaZmdH!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
-  - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcIA2xYMafMKKMlQcGYebTn3j4AsfyiDdZ7BqMb7XKDfJjnGsuzVkO5RSSEFUmJPzMS4RgqrPKpkgczm2r9c79jKTNTlYcZ9CZ9koabSz4-iSWKLsrSp1dtmpGH15iaybFJCoZAIhFU4zv055RK30m2DrJyqEsT5dlT3iOP3OujaNCHrplsaf4PpHxBy9QR66ZVTBm9ftMUnGj0cNj6uzatJAy4mLiWC3NiBBkj7Kh7YqidG_XlItrosN0yfVYiJpcxTzxBzeeiRHRmYJ_TuWW7OVp8m5rQetjlYMzW6HGGgf7CDnO3RpsZeVXtz-SktMnVmPYg-zjt35nc6TnUD5O4D0Mm3ZuwHH9lDIpegQF0Gcg0Odcj7AYTd0MseFg_NMNgOkKPmyt5sybOATG8bZssAD_5Fpnjc8dMtqXN7_A
-    widthPx: 1440
-    heightPx: 1080
-    authorAttributions:
-      - displayName: Chris Nanoski
-        uri: https://maps.google.com/maps/contrib/112422476359943602384
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXpVZWDHGVj4ggAk5MteRnnLuueD2iZbvWEL7rF7s3JTf3R1cu8ZQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDc8MGsEA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDc8MGsEA!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
-  - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcK9GDmmYWFnv6Pr_qIeCBoRknzLqucv-nNdAsFNV5wO--W1cA-coyHgTwEY_qIP_hH4ynDmjy65j7XiD183gfl3H6Scg-1IIN1HP6L3flR-FvjBB1-zk91K2fwa8KyNfMl0Sdj7G8tlDl5DcEJ9yZ5jIirXfhjoTFM9v0_XLNvI-e7Pf6MgqbVkJiaMHlAuudR7NDVU3wP89_TNf_nukRccTxoP3O5irdYu2E-wVYHRU54eWswIMAJ6DCJBJJoan_3jvz_1L3iVhZgXM90oftDWFSbTW3_8OwPhmAdK8ZxDyxh9Vz-e_BqskBTJbbpFd8pSP84usLuL3MD0PKOkgtX03c6zJovdJvld0zbWLyTSl7nrTbMGQULsPEodqz_z5Z6D-D6iDi4SBbV6h2g7IBwGtFjD2u_63IvGXAzn9lbYYNll
-    widthPx: 1960
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Chef Davis
-        uri: https://maps.google.com/maps/contrib/112411105233018544854
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW2Lu_FQ6qzmUO7Cfq6LQI58ibciMcKWxyAYVx2vlDpegxApxw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICUlvSrrAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUlvSrrAE!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMhCZKA_e2pOXIZk5vJQcKDEctVKQE7l6h8HzKF!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
 address: '1211 Edgewater St NW #1, Salem, OR 97304, USA'
 street: '1211 Edgewater St NW #1'
 city: Salem
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Momiji-Sushi-Restaurant-West-Salem
 
 ---

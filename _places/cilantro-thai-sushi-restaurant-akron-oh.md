@@ -8,7 +8,7 @@ cityName: Akron
 place_id: ChIJ9_AvzyXWMIgRN9Nf-r8BKeI
 photos:
   - name: >-
-      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AUy1YQ3OuIS0vKY_HCZGM0N43urVaw4PzOdCoeB9KkRApDVx3edeJtWVB2K7rE-WzWQIQWXGA7su0GjcIMMykncIWEGA5oNbs3PKf7IqOJ2aF4R0BwEHnlIouAprLkDXNq6amnj-rYauTqWh5zU_gQmMJsf0BAcVBXuA8pnOHc1iYa0Rw7yRXbNuGBria0D3noirpusvUscFm_ROXKXa4zgT45XqgPl2tbcpKpN4QOoFy86RhlqKd0FC8d_gL90erDJQTE0GRokMCGA23t7kxCqLdcfFJty-c0OYuH55NtrwUV6kkQ
+      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AeeoHcI7Urjs0fq5uhiurIPK8_EoY53HMhoFXu_L01UCh9osw3Ix-ElGB-Gj5HD-BWkzmuN17IgHXSihMTsJv58f2GNioN_6iF1VA0_-M7tnhJhvOVC9e-atx3YC5Poii7xDFWRRnLy-C6fDOqfLtJMaQG5QefX5_hTD8CwTMMuGgpZcQ7DW6OX9PlqnqpSmUepeqNo_EicYGVad7gMfQ0z4dFDEWJFaPgF_W0D5Asp9uz--vrjOWLJmczZ0zspn6TZ_9c_vOvzhi4wt4XpHPHHItwXuMq9W4HoGWzQSsGq1xvt2Tg
     widthPx: 604
     heightPx: 453
     authorAttributions:
@@ -21,7 +21,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMm0woILy_Cj12kEan_9q22dRbiAis7CsWHYfT-!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
   - name: >-
-      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AUy1YQ088qWhTeL-iKfolZIi_5OXEcNS-22pJVTpCq4sl_hlbMwwgVphVY0PQ91ffdAfE6w2tsBSXxq1GvpH4yRJMA-thmxo5ceUXME9IfeRwt2Moa1B-SRhZf8fWG3mvp5eWp477XDp1Bj2Yjwym5K0fTgJjRbV5nHCVXxWT9VtcHKuAJwKcYCJINU6vaOlbjkQ--ZM9biSHLHFP4pe8VLoduxXo0eYAqhhSHXpDDvM5qriNBnl3oU1c7jevIgLVq9V17jmqh85bO3nQc98lXZebPMN22vmFRLvB6DCtYDdjk0hwg
+      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AeeoHcI8qwVQMu_UZXAs5Ohx_NJzAguzxeXVUKu5UVfMHkbL2DC7Thb6PPQuRaIhUZQ7dT8dO7YVGi8hFqR32vuqbMEUdUrCi0loQwS-5wTyO6D6scTypzWMzl7sK1b_liD4NFPTHZZESG42KIY0pAvLR1UdW-i6iw4h08ygk0qWt4ZYtvPvAhZg2aId3AgoavoCaM9m-FaEHaYXKnQqJVkDpmXo36UF5-ev2mPEiDl3wF9kx4YZsstp3cEs-VwY4MG6A00zAUVmMZue1DlmL676VTYbmrT9rSLGC5Gp51ihaLWo5sbPz-rgwC66ps8ovnlCzdSGge_Z9dqu-sVcOwUKOfKvMmSGyXfCPLjfgcVWZ5tR_EYBZuJuNWwPcH7FlwcqNwhjwX_rk2pblc8OZFbA8YxrVxEOzkpDYnObKnmHVgB_xeY
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Socially Good TV Network
+        uri: https://maps.google.com/maps/contrib/110551881631159961493
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhzaqtfiveavTqNKASvYK-_kk-jliUZQowC4Z3NJnfNBoQgtTl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI5I_k1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI5I_k1gE!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
+  - name: >-
+      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AeeoHcJ3mZnr_-s7kS_xs-ci5DVaJ8SbeF_ze69R_wH8ggWU_zqUGhZ4sU8I4HYwMbZxfs7qZ8q_111u23X7pIpjb80798e-rxQm0rGaZbmOgOo8XCpHVV4s245YStWAhs8_cZycNrjlVpqjoOWgB_hNGBz6yXT-A0MY7jqnrFQNAkeyHlkTweCkVHuRec6olvNkHkIM7ca-1tC20nU0hjdMcSWiuCxNzrZtFM9LeIyZYdPm6Yg0kyHwAAKUgr-YfTHo0YydCnvO2gp6Hu39CTSJspzaIS-TjGjqHCY9BzBdoeiRQA
     widthPx: 2160
     heightPx: 1216
     authorAttributions:
@@ -34,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPEqwxjhwbbMHODXLaIOLkz0faoVWDrAyygiWh2!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
   - name: >-
-      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AUy1YQ3NKhqtzcmCmQa7fumSqAPtWkKPbxyWTHrdvbY_IWEoVPfnoSEMHtpkGB9-64RlwvxIXfEEEkVh2CRZbitka_mMu4swrNKrTeVClKh9xo1RFuxyXhmeizwArXT7H_7Yy-bGs3-RUWczPtN4T2DEn_FqEM25hKRhFtrULaywNBbanAj5YmzQiFE7LQS6QcK9k71J6JZwGRD3oO7r4md5HAPtCjqL8AveSzd5-QThRfse-iR-av49-9oVVDHnskJt98fK1QcfFnEyDPLlRVEC4fXnmuAxjhzpukzCIzrdXwuE7w
+      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AeeoHcJG32yqTO7RIQYcVam_N0whD4eXKgqFWHMN6Zm2a2Nth4bjeJfcxAuSRcWlsCzsG3vb7u22n2ok1PeAGZchtsaMo4RQiQcUnA_k-ldGZGEdblkC_nUwdcfxK7jjzVtot0Svmb8XOCvdcpNDr76ELYzRPOEsk0MXJgmjqKWoNXcfS0p4YJGOIdsQxc_oFA5lDrY0VxXchXp6_sVhJ2loWvdg0J_XurClayDwRW9-lAUH7SmlcC-NyogFt7ltv2M6IcHRp67sUJgFJBIIZjQPoyMflFmUudSsbCmnnTgS_ZHQHg
     widthPx: 4500
     heightPx: 4500
     authorAttributions:
@@ -47,7 +60,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMwDFuONMo3jugrdCXY92K6AaN8ytHHUCxIzb1A!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
   - name: >-
-      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AUy1YQ1AfJT9p445RWNVce06yI5CkpKWukhTCFZfQJjS_oXQG2IWBH8KOlV7Kc6rBetgzzYqduCzXXd4bR5GBllfxZngv_vQ04TMSWU9d4b8nC734Hn-bDtnR7OmbpMP_EFTFcab6ZRf-BrT0I-eVcull2eGfQRxGyVvD59mU7dTfCeflb6YnXXyZNlw5G6iEB5kyVasXwEUxBezl9c-WrYLjSJLbKXG467jMEI8bBMQVxQu6JyFiKEk3b8uA7ZX7RYBwiuzi4oFvlaOAQi-XHnn98GvByxwleBurzU4vurlT4mF1JfHmyC7JvZSkhXVRfEGCIJDc-vZpC6ry6J--l-xHT3jbsuq7U-aGWM_h6aOrhcxioUaUDKTr2OPEPdnzRmZLoFumMSSuenZm77MGSsRG-nX5BFB89FRjMb6rRYR56eg1wfF
+      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AeeoHcL87rL8CSYM3sqSqYyaA4Vc1S4rmt0vzl7PqTewCVlXpqeV5sC7eRNnhGocUZO-FjFAARQ3G1O8erSg6OIRB-Ed6hjc0LHaiwpG7DNyoFCJ04Q80Sa7E1puMkbyJsXbm0po0o5jARkYrf33sScPZAnVhtcgv3QTXyQq8yXatNyqqdt_douAKEN-n01BU2TDECyEUQPK60guw_cNztlGmbTQGOfhPuTFVAlLl9RBIrUHprI8EOBojI3w-0WrAMlRWdpzyN1ZfZRMmj5v30opbd3KWGhV8zUYFISAwlVwN4rtbwvlqAKBaHfLAeYxQ3r7hJiaf3luGjhlCeLRC_RB0CVMtl68gSWDR3EOGZBkgGzOxOXSAhx-icW2spHKH3gI2MW6ULPDr87ysYDtL051T8eKikqbV6O6Dy_d4lkXphBHEA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Socially Good TV Network
+        uri: https://maps.google.com/maps/contrib/110551881631159961493
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhzaqtfiveavTqNKASvYK-_kk-jliUZQowC4Z3NJnfNBoQgtTl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI5I_keg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI5I_keg!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
+  - name: >-
+      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AeeoHcIFriWft2awtm4vKtZGJLdP7MwlC735nDz_H2dhYgcIgY4XCxbnFS2NXEv7nI-3kKFChncPH2F75cDcyR-J7Dg9mK2TLKuMclvS0G429ta_WEn0ncO1qAFVIgj2MiKcWpLJOT78iKpfaddTRx5CNMaE3jhs4KbKtGxYvFu8ewhBedqR8Yowt9zIZkmYm46FM6X6dUeVoyh5uIXJlb9gr3UCj6RHe10NoFitVmQgdvOK8_z-ob64POIjL8L3onXlwlh-AyVBZxHmKuD4nc9FgcmENn9V9v97GlpitLdF6-FL9XNzndljYD3hwWsykaoLw01EefA46dPljHkWOPIGG5RI5cI9lNvYYG7tsKW9VD_e4lFaHE642MsgbKm5dtMQaY0mBZUtmIcK3u9qWegxReebnUjaN8LhmZpCWmXFt7q2p_-c
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -60,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjvPrBwAE!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
   - name: >-
-      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AUy1YQ1OvgWfwS7tbkn_zgqd_0XIVlWMNrOLat1kwtgk-7VuRUkRM2aucN6owiu4tUAxDI7wQ82n7unacp2-eoBM0BP-SjwyCnN1RYUE7ZbvCEGcCniaH7XxgYbD0HoojrGoLjemD36TfptsiSCurn258bzRWIk5Rv1gtEHTFHR6BSZiwHvaCHtYJkU3l-yN8kRGvQZCfSro7AMjPqr5LMbyxroojp20s__UKj4o0pEQ1QrA4qvTGY3QMVt31kvhsEQlcIy1DfMvsuwUgjndioh_UbUXscpcAg0p7qIxAfMagxF8Pw
+      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AeeoHcJRvIAurlfeyJYwxZi5xcCbZcKQOavibugWOZUq63GVm2FGf_7U1UaYaUXqoLRaneBf1rwJgUpyBPLEZA7Bs23RMf3RYm5Z5M2WGxXwiQy1lPKV7X1vR_1tvvcUkvdTcd5ECM9xBWEg68uEDNNa4dIHgxXZePEu2MI21HswuVgQU0SP7xP1m7D6a-SLdXSRxUN1PIZOMnCVmJHgVCNJxbVSOpc4Dwqw48y5xIJ695TVLb-AeOFelavlMoS2vtZjVRm4jjpSkGU3ApPmbLgk697yeleKBEQcbnZvJM2NwlVoEA
     widthPx: 614
     heightPx: 410
     authorAttributions:
@@ -73,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNBXpEIyQmK7PP9mp1NW-k6Q_wC3Dc8LpVj3Swo!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
   - name: >-
-      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AUy1YQ2eYT4-a-WcPlOXivCvR2szo1494l_b4zrFpXX6nmIGd7ln8A4dgOkZcUSFzsuqqamzdH7oJGq3Sk368Ht1wMM5C4unP85enAGdUKud-9coAb5P9ZONUIsemO7p46bbYjg6lyERvmUdWynoug7QtdTIEo3S_2zjVkdw2h5c4-Y7ELuQymsq9-MFJB28-wmYblstHqn1KHhP05m37gJ8ODYPLuv4NSrdn9PNPOSTYlqHFyoDaZfCLgxUzMa0AflFXunEYrl7eivk3RMGjVaVlUnJ2WNWtSm4LrXtt8vwcWiNn_ca0beV_BIgzaZLvYT63K9aVYrocLTKaaNQ6EYUqvyalOYV09g8FTro2o4pVDAseFRQp6_gbNRdCXqv3HO3Ji1_Jqy_olDtVlqaaOlTH7svWctNiDIG9C48QMA7KVPCyk1z
+      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AeeoHcKohbQ5-ekYW0i0q415XDauRUwObejSvorb7fcZfstXPvY4Fx6zmMsjmBu-gZQYRTp14SZq-At5BwqGjl-ZeguUKIouykt3wQAYP2uzuxIZsjokNkSjNOF3ATD6qbMAj-_1WepGSasakPrLmgodcRa2RHCzqJeScTGBE4XwyHrfQV16k-AecjCi7aka5X9delcMS762f7Rp0kIDgCjukvjL7f2tFOreOVqlnMhmSs75pH9Va--slevVAV7UG32aZdTxnULU28EemN2CHdlYN0yoruvO0rRvc23qhLtx6KonEc4moDDLjDT6b5eWOqS-gbdcGk4_Gw0HYcJS81q_u0nTEJ49TeWPe7yS1m1Mx-HTXBM1B6Md95ECVoGXiQ2RnAbYtMMVErwli6yDRDvomttDUOZrY4Yet5_Mh3x35pjqLXMW
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -86,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjvPrBgAE!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
   - name: >-
-      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AUy1YQ1arR3VeLBHnO8cSJJiua_0X-2Y30QlJw1pgPhDD6F9M4k8fJ3k2KqfeONDDUC4uvfKdRyDR1S6jFxXY0YREVrU5oJd9qCij0tPwx8i2hkKup1NM_pvJhlyAMlzN22Jgu5rDAXio52rk1HL7SVorv7GdFsCT1HEHY3-9OQ_yOWkV3ED-RXomCwoxaAevHmGbBNepUoKpz8uqsfrSUZRG5pPxCh6783Xlolp_-brnjB7bC7OTnMYVenU1GgeK3G8JIliHn75ruOuOfXWOW0UP72g8NShj34hPPok9U2ahkUo2Of-aTsz95vfbrs9l_7lP8KyjBy8iY1HXMf35-ssd0hQhO4omxqwG2yCaY2a6BheUyVFVkl1i8jY2IFAd4TqUN9aRRbigoVl2watyq5P6sUvXufNuouoC-jYaNOMbuvVrA
+      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AeeoHcKj47wlw_qb8kgPbE-dao7HtSuWbGCRf05bt3OxYCUrNqVr5HuxQOClh37lWJjBHHPyWEyhfKHM-OlwMnmtMJiKlGgpp3S6cW31Q--kk1yOoUos0xUqvERS8bANj58lgJC4c7sVgro_MNZFUGweYLg1udWHvL6TZCz8sWdRQluFS9Zs2alcykqLU6bdZtS59VKi3E1MKjYR9pd67f8KYJf6kpXdh_pCV9MHIgcq2FpRJKnji4IvX1sFwnSQ2g0YdpQnGbL_NrlK1IIYcrJPh5PKuN6YbNtqNMjwtzLSVochHdh9HvoN6TcUKOsTuzJ8_aV4ZT3JbDeiCtE8HquVEWIzeEEi4YuEAh8PDIf2P1RuKRAzeloajsiUyue9SO0O3oQwrU1sNSOYHFcbmJCp5ThDOoGMjWpI-bZx1PX5K-YZJg
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -99,44 +125,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-w63OHQ!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
   - name: >-
-      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AUy1YQ0QicdMNN_x9zpySKwfHhNkNKmYRoI08pcdtOznSNW0Tis4RCLOhuBmVo0pOdEo9OJusLmjOts4DWq-3qq-STT_c91Y_K1MRXjAwEppP0mgtPsmnhvZh4eWme7jUhp7Ek1j3rDdMktM-cDJjgNpQpKMZrbN_SjFcGo4AZ3f1UrKNhCox6DTjoldsd0QsV0uIgnGqNr5Eu0mMoG8Q8HsmNd_x4vLOI6gCcQmrYN5RdErCD0SESXP7nBhCol7IbmA2Cc1KU9EZklAgWP_dKd8KceQ2PqrUAUX8MkXAT_K0q6Onxs0Lsj6T66_GRvOr0VenZlpJac1_tbNfCKbetDMlfFWAgmJ7LTKFCIWuVA67_rvmDvtbAFRW8UoqOP0wCuwx3QEjUqnG9elU-UKwDf2QtXJg3wiZTAwKgeqU_F0AU4Ktt61
-    widthPx: 4608
-    heightPx: 3456
+      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AeeoHcId8jvd4x-0q9laun2G2GPaG-zvf6RhcGmUyWDtS6nmOaZwpsk-pt3fWMTJNwgZiI5wREgMVdqm7nreRyipa103aUryfQEd4hC0Q3V5s7e-4z5i9O8BIiedlERGR1KdpDk_6okF_cPwY4MEa22ukwXlQLKI2djqf9dnz4mfM8LZ7w6ke5cQGVDySKgQt6l_SXGzXq8W1SY6DzpE6fn1rBGQQwQ3ULvtGtseXqKIOqtm04Y3oOZBlSeAH-sAehBqnYuSsaFvfZ7QD9Is8yVR6Lybe4SZT8QKTZmJrHXR8nwYNYBBUueg7XkCKq6gA5Rv6L9DMXwdFneYDNgVBYPo8rYb1eO6bPDi4dkyVdWFvpsq2aaRRdVesige4ulQPRjMy5z1uttKR6RVsiqqFtTc6GhSR1xDUzC353kIUq79oqdS2VYY
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Matthew Micozzi
-        uri: https://maps.google.com/maps/contrib/113416415665438394957
+      - displayName: Socially Good TV Network
+        uri: https://maps.google.com/maps/contrib/110551881631159961493
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUDm-UKk3wedeDQWirsnvP9JQWusfVmDktmFuHhDjTBE_zqucpjcg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUhzaqtfiveavTqNKASvYK-_kk-jliUZQowC4Z3NJnfNBoQgtTl=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4t9u_mgE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI5I_k5gE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4t9u_mgE!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
-  - name: >-
-      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AUy1YQ3WOmUkgzGwlvJqUfGUJnGRSkfggSrPGleSx3gzq869ttIY27KUyN5YYqj5SrUTRqmluyBSdTgr9iBlwdUo2JkXwVy0yHpGXBYo5AKbqkbpggTtxoPxVdmQetPCrI6gWstg7McKMj5btETIp8vc1KBwLHuA0myinRVSUdAnDwFZxAYXIZOOQJ_ALzujsjbXegKy_zoh0Fvx4mq-Pdl0CbXlER5xkHNDlNm33F0QAnU0ClOC6iwAz_G93m8GfuoyRYAMtpzkcdyx4Xywzk_7H9SctSY_LB8_kyM9alIr2e7nJt--pdbdDi7huNWkNUfpVCLGRvljcCMxWHrKB9cFF41NiCSL_X2v1zl9b_om7VwQ_yKvTYkODYztPdC0WtpU2cuhDW2xeQW8UthA9p3Ty1gWXgw6J1GLV8Fx9cPABzw
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Afifa Zaheer
-        uri: https://maps.google.com/maps/contrib/113938557470536611976
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWhdA0X-uF1ktTttOVmDlUTZeK2gl1Rqu8MTlOcHHJCeU3cRbcN=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICj5t7XKw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj5t7XKw!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
-  - name: >-
-      places/ChIJ9_AvzyXWMIgRN9Nf-r8BKeI/photos/AUy1YQ38lWnu1SQyYUHr5yiPjZnUu8qD79HjiVk7M5fwnA3oB-rVy75Jr1wch_p6QmvS28O1AdHGKsoCFkMIA7SZw9Z6I4FPeashhQBg2Z8OUtI9oA23SorCK_-jo7r20Wa9qtPXB_C7OZl1fWFpytjs_t6T2iOV7USiqcPIW3CgYzTm27rBXIPZhAH3svjmGxh2cp15tP7GIpzkS2SbdrHsSwt126X3XUojD1Ts3kvV_-F6qBB1O8TVjupmOpdgll34JxFFbV6EYd1LmZ_YOh4eQOg73PhulaGCuXaTwaYSkTPDKQ
-    widthPx: 1440
-    heightPx: 1440
-    authorAttributions:
-      - displayName: Cilantro Thai & Sushi Restaurant
-        uri: https://maps.google.com/maps/contrib/111206749855417485320
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUMXp803gC4_j5rkhNRBWLdFWKCistmrfO3BBmxb52AIMJ6UB57=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMI18nUzVrriesrelQOKJCjtgIZ4CVjK-RrGUUX&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMI18nUzVrriesrelQOKJCjtgIZ4CVjK-RrGUUX!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI5I_k5gE!2e10!4m2!3m1!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337
 address: '326 S Main St #1204, Akron, OH 44308, USA'
 street: '326 S Main St #1204'
 city: Akron
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Cilantro-Thai-and-Sushi-Restaurant
 
 ---

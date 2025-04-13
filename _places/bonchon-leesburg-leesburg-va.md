@@ -8,20 +8,20 @@ cityName: Leesburg
 place_id: ChIJtwObZuU9tokRcpVS9YD8iwc
 photos:
   - name: >-
-      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AUy1YQ3TJoNd7_mCyKE4z72-I6FtWAaNRb7GYklnZ4tHc4rrW7eO9VMPWxZxpic8kOL7kNhUCTP3oDZEx2BykMRJPT8tZH6NWyV0YlTl8BGUlMOUrQfE7fqzYL2dManpkjZgbDGct7ZPigt5zyveSEjpnzr25gTcooFz9fWgl8JJ82ZPXWyhIgDTJGHRHAKZgaqOUyuHTcO4WF3MEz3L0bjvuW6Y2hpgCqDX-mxWBllx5EeJCAvcxNmiQXzVf_6IiEjqUTsNyo9u0JuvrqDmnKHUya7eMB9uhvV4TzT8iBAsgCeC0UxUqsqlyduvptxg9geMGbbb_Yp36NMoYRhGSjrNQ7lzRaC4alSmPGuf6H_TuoUet0KL9Jyqcfq3WkB_tWQl4J6uTyYeWWyzJcjhNT9KTSBWLE63_1VBxtF121ZF5ozQ2g
-    widthPx: 2448
-    heightPx: 3264
+      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AeeoHcLT8EsHxTOTg08Re8CTPg00s15BY3Nc1A7cQBpZeH7tW1_Cfxhc70L4XW4xNJ_-3F7iQBgqMvNeN4AQ2YDABkltzvPBtrQnkep4dtAr2DEwx0fxF5oT1iuyWm8vOsgCejRBcigVjYDL9HZz_-zmEc5L8szPe42QXTv34Ef3_ooPdOGAL7lSxGAdDTaP74kUHM7yXzM297BkUoAjisGs4Lg77dTiharx7-IHX1wkwWiVtHiuHxJ5jyuL_Ri3RGMA_Ow7RXwjXRNEbEVWcZaWGh1KyaVG5eVTTylMje4XtBqtGhH0t921Q0CbJvhjoJ0ofdAqo1AlMlaq-C1zFh080Ch3LcaIfQbVe1j1dRZLjFjO2ech_vhgFGHbduyZe15sSYXRbCRsqvu8G8axCdSja6tC2gRdVylPzvwA-92eBIKgiw
+    widthPx: 4800
+    heightPx: 2700
     authorAttributions:
-      - displayName: Henrik de Gyor
-        uri: https://maps.google.com/maps/contrib/118400591535365220670
+      - displayName: Dani Hearrell
+        uri: https://maps.google.com/maps/contrib/118282188170089519720
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWNYIaSQgy80HF7h0WMlhUdpHkOl78dun48bXqpvIikdAOZycF47A=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWYInA5dO_wIljzOqRhLi6effOeeaWFctCdUz67H7EOhpvHU3U6xw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4n6HpDw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEtNTndQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4n6HpDw!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEtNTndQ!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
   - name: >-
-      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AUy1YQ2nbXjsz7yFoac2-XRp5rPWjAqEpbUB1gXWGlNv9xi50gARWVnV17Pyj_XUTRyMKaiLadEt4PJHbvlduMeINMCuVVJ9snyn2vAfoJsmICiryxDlM2sXrRp0GNqleiCi9gT3Hngv7rXIwWvJ_5_GmuvaushdnGbGMPftyFAR0eOgHe-hkGK0l9U8nfZvIEg4ZwG2CdzncpeLcAjFo9XE2O_wpkwZiNsIQbIII-78hh6QGVSNtYPYmiyS4UuJ4WsYQQADhsSESZaQL86t0aQmx1ZB0qAT2JBdKUyQBvjIXA8zdQ
+      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AeeoHcKkbOEXPIeenEKYSm2ri3Iby62o-RzCbg4sCINDyEjcv43CSB6hArrp7dkeqKUSRjRCLVUEZWbsh_VVV57hf0MUpDIudGZqS4FYIPeGZUeVWD-V4RsV0KeZLWgIwwJxBrgn3ynvN5oUrrXC4zn-0rN5ejGgf_hXJcZ0dNpIPn-UirgW4o4n2Oumvc-7vnswuQnqPLsGCFFSrhgCjeQvM1apUBYlhzfVk3t2IDgrFxrPxv8VrLkGpqOZm9eZU6UOU52hlJUygbJe75yBnCGf8-ZurU8MQY7ULuF82XtzDylq8w
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -30,11 +30,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjW37DM3RBkG0anN9-5zWoDAP4ixP-stSQs4hKUFiSnXF1i3PMDD=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM6aOPzzx4GbIuXhQhYU6NFadQ0YB2-cLdEVoIA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPEh9ojvDq58ICjr1rtvGU25RhR875zf2vUOuvo&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM6aOPzzx4GbIuXhQhYU6NFadQ0YB2-cLdEVoIA!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPEh9ojvDq58ICjr1rtvGU25RhR875zf2vUOuvo!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
   - name: >-
-      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AUy1YQ0By1u1lL2NkpFcmnm12O1GvCiX_KOKeaBHSqbdDogVPZpZkPtLM-FcyJj41CCBjseWUft9wmamsv2Ob7U9KBfNhrIbhs4kGvjIbTbaJL4fmRBeAppdHf9ugvSR2e4dCKlULYU-gskJDfsceWIqUKpQ8VUDzS_RQSFBrXnQy5y7fTW1aWChoaVuD8cBac_hC1k2ecIt0x3G6q7ub5-QfOXNmsD8HgO8KQBulsJ1JAhjb9CbD4ysXA68Ao2S_VnW_b7NQaqmeMTKNOuE9aSpaX1s74UIvT9CM6jvYRCdZtHDtw
+      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AeeoHcKNwYgDzNjj5RHRllMW--y_FFdOnRfZB_1s5BIY0iRs5GGE3k39B6CU-yYhlSzcW8vTaAZM7IXnWGRmeH3Z1nV_LuMnDPjK-VxrhGpPOKoUEJXdtqHxUbGacDSiFphb49bsrbO3XB3KIhFxQ1zWkifMtGIUh47agQEVZn_WKbLPX5Y8e4tbvOWF9eTNjtG_PF7kirdEsFrFQ2tcpABh_dwKhsYQvTMYQ5o3KR6bJY1ttZd2hDH31TPbaC61dn2orKGdxN_htLXXrSEw6HHyhVyHu0uuiGtnXmt9z1YghHNiaA
     widthPx: 1232
     heightPx: 693
     authorAttributions:
@@ -47,20 +47,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPGnth5Me25yw-Ya3lKnaNQd3UZ5fSwf0nG7Tsh!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
   - name: >-
-      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AUy1YQ2ys2Ka1pY2YPGyzCbTkNfYsAFwNaOc9YNW0GGD6afUJo7JXrKvlemc9VR-t98ZfcsPh10AxaJadJrwf9mHwq7JyP_VNDI9VE5YXybMCwYvJ8AbDleKSREHUAuQ9E0Wpvk3j1Wnwn5NNwgXgNTcQpgShKWQF-6d6pmYSjgCbY66e98ZHU-SO4RISntToJR60UAGSHVHInOllS3lQDF_sGSbS-UA51YgMmlTCMzh_U_J8XMWCOVZiImJM3mARat44iB7w46Pt7SGg5anN0VEXExxnC4BscgCykhWg0HWn2h7MA
-    widthPx: 800
-    heightPx: 800
+      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AeeoHcICAFFJJC6DPvViMYvb2PXHLq-bheMnpYv1SqOfyriXPQqNtiR-_Yw8Xzsj9S1yYkY7GUdfCiiOIrxaCB-GL9XLbm_3xM_im7hqoAa469P_W0MgkLVvkP6SRvfDvhusIuwdD466aGEVF2nn5CpI2iSjQRGYaHeCIwxbZ_KRpo8RmEsfvRz--xkdQ6FaxIeB8RZXbqgJCbkl5dAgzRgJTMf-bCDbGmmvKSAhi_vSIr5VeljfdpmfqvXaxcMmxHojJWKwEshCRBkzznTmZOoenPSEGLjwLZgajjMy6MR4vgfK8g
+    widthPx: 1600
+    heightPx: 1068
     authorAttributions:
       - displayName: Bonchon Leesburg
         uri: https://maps.google.com/maps/contrib/106196022453595595280
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjW37DM3RBkG0anN9-5zWoDAP4ixP-stSQs4hKUFiSnXF1i3PMDD=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM5ywq5jyrjsbGV0AD7LNEhx_gXx5GsGCQYsgiS&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM14GLo56VxLIDW2z1RQBiEm787s6U6_2OmA6xD&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5ywq5jyrjsbGV0AD7LNEhx_gXx5GsGCQYsgiS!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM14GLo56VxLIDW2z1RQBiEm787s6U6_2OmA6xD!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
   - name: >-
-      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AUy1YQ1zehYtBDkMHtKYhq0w8KtDr73Ir-JqbkMcrYocVe3Ice6ExMLDganCCNuyV3_vz4O6aCz26TVVGzhxc2bVz0bJ_BaWqzEehCnMhZSFeIwqnbhBYWMB0Gck-BL3866Dtv1d_OtzDUbhEQMTxRAkjer0_zwrdgNA7tBD7FGOzkobedVpZhqqNEM7d9ZfPFWVSpxKhqbR3AoXfXr7-CdtqpWPfMriMmLWMA72l1kibCMp3fx5kQV1YIZEK3ucVGD_n0ASGhtOTidoR2-XvH-HTaR2nz37w3gMlWTNVG4XOv5ZGg
+      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AeeoHcIyOlUxWEqVHasGr2aaakwScb1M4M8rSev1hLKnPg2iukZGwE8tNRL2I4X2cw-EThUFjgcRZg-f3CDvtSH4D68PkXNO6pGyna3htb-xqk1tGqdmbdnRDDziBmEe0t4JIPcY5UgA5NkSs67If_o8VxvZHr2QS7VtlqmRm-BV0U6pbhm-kJkF1oDVspcP7u2nIZP4e5w8Nblw2-AFrkBLPgbuBx1-iTZOS1Osh2LbQLthYK3BdiKDBfFnRIYChJBMOvVjRi9p4nKGItbDd5I3oRABzr0NSh_wg4v7KxYE2uykfw
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -73,20 +73,46 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMdQJuPe6w1iPjBxgmkn7TCZNspZhTMh6O6SjB0!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
   - name: >-
-      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AUy1YQ3sI4SohE9F3_yauhZKhgXeNFax1z56TEsqId-qZ96NmhFIbFejnuIwTHq1pfsBecxEsts00iTt6QdNgJAyOxIr4q2Kzw5i8y_GEqyY_NBV7cYvDnPX1aTRZyhmJA8vwv5mV0x45FLY2CaiSZAgoD9O-tV9EjDvvNjouq0oxpZ0iUXOuNYOgUGZjv1Rqp39a1_riPCSz-M2IKQm-MC-HvCtipJLZCDMzHuesZCo7gr9JbvTxS4GKLsB247a38IeMJvRTgFAOYWjBOKrOva1UIX5JDzggOvQd4Elizzo0XxdkQ
-    widthPx: 2000
-    heightPx: 1334
+      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AeeoHcIDUBYqqUEziWLkDJ4JRHwA4xG_7oVW1tbBB47L2ebjhdR7b2JLluRmHMrQANIenFL63yUnUCoqd50FFTo6mJW_qyT1lw-EIjbTSw8y_54wjcUojW6mDb8A4wiUqhRdQBpVsorSd3hYJ1G_976z4QCHoiQuXrMBoZIVX_3-nBxvMoxWkpkAUyWY2MQtF6OjMmw1U85Ov83p9ryEVT7Hk9zOTm-w4ho8ez9JfpDInhOBGNSv8ZObSquSdOuyPgvJ0fWOIKuPIMGzE8qauQDDvRrdrooykSXHa9LHxfwJkfRqIg
+    widthPx: 800
+    heightPx: 800
     authorAttributions:
       - displayName: Bonchon Leesburg
         uri: https://maps.google.com/maps/contrib/106196022453595595280
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjW37DM3RBkG0anN9-5zWoDAP4ixP-stSQs4hKUFiSnXF1i3PMDD=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN0m0axVo74MDhnyzHZ9RaRvUKWbJckOuIwqeH7&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNJqhpkUaneSNzeeJYNT92f869c3MsOTo8IijS8&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN0m0axVo74MDhnyzHZ9RaRvUKWbJckOuIwqeH7!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNJqhpkUaneSNzeeJYNT92f869c3MsOTo8IijS8!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
   - name: >-
-      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AUy1YQ1VDW-zfMceZahJVQOjVFldKAO67s2BY2a82etTK-EiWEG2MqgtPX9D2YbvYzZ-sPYPVbY4xPIOXxoztNarsxKiDNpDgf83otKlDNCWVnOv11f5ibZZcim8xjuK79sA_co-MMnarrFydg6WIjR7vTAOiZuEeXajkuDUYVl74UkULQdqIiZIIY6Ib3J3oq_XAdgsLL_tjWPHy71kw4E2LMgR8S-7KYu72HXf8QuVvYYORt3DIvVAtv8wJCSIP-SGA_HY3s5ILsQ9TEbITJpw00xfMGLCg16sa9hKaZ-ROEtNAQ
+      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AeeoHcIyJKUEZx6KiX1yevd0lpAAowLPLxKxG0bUklbY1NLWcqqahYr3l1U1tm8TqA5iCIgbaAVp5rX8wtTufmmEEgxO3Jslk0i86U1yqExbp3BKEQOlln-NbLbg48RcpHqdF4nKajcnF9ELU8ofG9O8isEnJT4zvaSNocUVkmW6Ghs4Szaugcu0srfZ3KrESDMtCqrOaCVUgRfth3Ahltpn6ZQUx77OXb9MIHsJLtGFNI7RFW5-x-Gf7Ji9kR5-zDluzrAQDNcSz30K_XPcyoTBeBg2_c5hgpEhcjh-KNZL6HZ0Dg
+    widthPx: 2466
+    heightPx: 1800
+    authorAttributions:
+      - displayName: Bonchon Leesburg
+        uri: https://maps.google.com/maps/contrib/106196022453595595280
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW37DM3RBkG0anN9-5zWoDAP4ixP-stSQs4hKUFiSnXF1i3PMDD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMQz1N5s3qMceoZ0PO0L7D5x-v0zMCNn4DAVMlL&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMQz1N5s3qMceoZ0PO0L7D5x-v0zMCNn4DAVMlL!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
+  - name: >-
+      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AeeoHcJPurcPtILiexqBQY64T10mjfU2bTDLlEXIYQBYwoA1Berp-nBZQHvKMadp2bjcMJiKQS1ez9dkdKK8JDzhDsrvFEunfLbNfevJGFw-_YC40NKCGMGUIySP9Gq8ZkgJeFuWxC2WY4-WAEkI3m8kZCSFneiwRkNXISFTtC0dH8pqtF6QnenrvvnfKSh7kevJ0GPhilOMYvm67yWZvOKsi-o8NSWLxUcY384QhrJcujBCeDJd1XomvDE34Bp82ktHMvPGQsrb55FsxV-tfFJIzuYlPki75Z4LXu_Uq4pKcKJDJg
+    widthPx: 4800
+    heightPx: 3204
+    authorAttributions:
+      - displayName: Bonchon Leesburg
+        uri: https://maps.google.com/maps/contrib/106196022453595595280
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW37DM3RBkG0anN9-5zWoDAP4ixP-stSQs4hKUFiSnXF1i3PMDD=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM2SZj44pQpet_ijVH2hUbXMhfcvQKbBGAyU8Ot&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM2SZj44pQpet_ijVH2hUbXMhfcvQKbBGAyU8Ot!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
+  - name: >-
+      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AeeoHcK2ElLh0CSJTWxm_48qXDJW0l7QjzBwEnhmtbnHN_tQ1J9dLTg8zehxfkS6BmChzKOHQtHzHcBi-Zuc-qZ97k0IXv-LBKeeQXpgSEC0RS567U_qoK4IMrLQXlMldE_ztYCViUnaS9XLEHxOz5wQdclq2nlvIm_6DL6ezz4l5ZdSgHiV8RboC_SAJNuUzp-2kW7QwWD19aVn9eJwD-bEczKt81Rz2Sa_CIKvEwgy04Q_zT9_WeeNFmecmgh1lVFlrNFtoD9GGP2LMYCjYFSdfMJrEFTxpfC6O7yuF5j4yPSGrQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -99,7 +125,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN5HO_eSPB491jp1U8daT2-9NvBbnHMZzfi-UsW!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
   - name: >-
-      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AUy1YQ2w7TyCjX1Z4C9EJG_Hxdn0MMrhLYMIStViwI8Nu7-edlXJB85789rCxoOit4Nty_S6BAzFk5iYN0FpHBDs2tpoJzfYiLHki26AEg2lCCaEmx48Oy-VA1cAk4QImCIAxD4IZqjgk3zOcmNFh9__c59EkvIZ3Vi1HrDwCUWql366VtV9eFXR99tthOtVb58FJ4OVtCAJW290VSqH7mDfZlgvDsp2Rwfl6TLV5ZVSnjL7zYorM46OBars7BHf_eloxkyv3l_U4UZeoMbGxtAn4tuIzGfZWgYGV-Yq-UGFsZKGAQ
+      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AeeoHcIcEqMVE_dBCelx9XKzp13UaWrC_0PkA---bIJS2YBMNFNIn-xEGlbIqi8ygUnkRgreB2Nac3nexs5j1d8O8k-WUvqTyG2GwxSy-fA2UHcZRDzOPwInyrFc--x6LhFAo9a284fumkf-XF2BvXjDorVqp_oGpJmuX3csCSTW93cDXqIfhx_X0ehtIt5MZdSkXrflcMfT8c1HMPr-dn_L4cpzgB-csWqEBmYG3QOl2vdixwwQUuX2mH6515q5LO3cO3V0lBJionvTvRN0MberTfxxL7YCwTW_ZC89vs-dOig62g
     widthPx: 4800
     heightPx: 3204
     authorAttributions:
@@ -111,32 +137,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMRXTO3q9LfJWHjcjmj7LFQfDNZm3RA1FzPrK08&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMRXTO3q9LfJWHjcjmj7LFQfDNZm3RA1FzPrK08!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
-  - name: >-
-      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AUy1YQ3dlRWXqoFB7o8ducmzVdZyGGBNWXwTbYUXNmkbxAjXNOBxvgOfbIuWf0S7ETjLDoDClk1X7GywUIdJFinFRr2wvwUUEMFhkxZvu7zEaT2V9NloKfkZyEbtfKEQhc7IYFz9I2GpRw1e5ODQT4h7N9kMQfo36wjVqudLZrIxN3AeX7MMsgYQZ5m3tWe3Zepo155ykuPm-DOvLhZ5XRIy2cxpFeaUFf7ScPD2h9iLO87F1BIvmXGx12iRMemWKvhSfBUDQnek-1iWFhMGcultneE2CNNvVEwidZ126ZQE0pPsLQ
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon Leesburg
-        uri: https://maps.google.com/maps/contrib/106196022453595595280
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW37DM3RBkG0anN9-5zWoDAP4ixP-stSQs4hKUFiSnXF1i3PMDD=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP8sO8brDUDPIJKo8wWCDkGAvzs8PnXp8Hb1tgV&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP8sO8brDUDPIJKo8wWCDkGAvzs8PnXp8Hb1tgV!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
-  - name: >-
-      places/ChIJtwObZuU9tokRcpVS9YD8iwc/photos/AUy1YQ0kRiBlNRMCGnr1HebkycPw7k1GOBfT3rHVvmh43YzH9IfjdwVk_AOeAoc4LYJ2gBG3KHS-GOMB2Bgs8zNFCfKQ4IqRx-Uq_hHnZw81BGKZhmSxQiBGUOb0YDwMvHRCBfeElVM3kUSuiObQmCKX_2hYytCfKMOIEQcX3Hn9GfUJeoZY4q5dlISpk_EziF7lotxsvmar4ExPX5tMHYKL-rQgHKMNV-Lnfbmnutd7pkcVi7zhlrWaEUkt_ELvwgnZtdztRmuudoOIK4I-lyqX0fHdE3gxtU-B5XYcyi2p-6s2fg
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon Leesburg
-        uri: https://maps.google.com/maps/contrib/106196022453595595280
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW37DM3RBkG0anN9-5zWoDAP4ixP-stSQs4hKUFiSnXF1i3PMDD=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM5UlyPneCuV6dWdrIFi4paz6Lic-T4lvIwCfWU&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5UlyPneCuV6dWdrIFi4paz6Lic-T4lvIwCfWU!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
 address: >-
   Village Market Blvd SE Suite K-106, 1607 Village Market Blvd Suite K - 106,
   Leesburg, VA 20175, USA
@@ -209,6 +209,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Bonchon-Leesburg
 
 ---

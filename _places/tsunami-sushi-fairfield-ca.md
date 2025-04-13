@@ -8,7 +8,7 @@ cityName: Fairfield
 place_id: ChIJiSHGc0MXhYARUZBgpfTa4tA
 photos:
   - name: >-
-      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AUy1YQ3LNItAz3IWkSn6aFY_WzUkYRc4oNwZ_RCWdNXQ1PJ0BzoNdLjTYzt2NXRp-xdmSuge9N8S0BAWneZdW_FvYXO2MjsFGRVhvdAGskM3ktubZM37GeYkKBxaR5kLo7FoDSzDXYJf-wcJQ31NuzFDY9VIKz5UNtpPm-Gny6xcTlo2lBcRWSSTUaut12GVnCkRXJAVksUgCtT-QkVbhJ6Cmzg4sIIIMAnt6B2z2fGlKyir7E_-bUYw4Kg2uLyybBST8lWP26bjlYBX9YK8cG88dlldsEblPWX2DKBp-poH4nQumQ
+      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AeeoHcLl9K21W79b2tnOlz6HvRkrMHycvtCrzbE73L4pkzqtMacgyxlaAXjjfBbMEW5COcryyhpw28rp-AAth41MTGREPDQ-DijIH1lbDvDs8ghdmCobH5rYaHG7y0D-z4VeZsUrF8vBZrsVNC6gEMX-JT9LdV2HbrknqBLScI9mQ0wsxtuC51GC63UWRz3DGIFCHjAAJAF5gcJP-pxVR1qg_or0QO7qJFhcCSZ956w0KMHjDzrt1LIU-tcGqDPOhP1XQHP11y6hYNJ1NB5gOmQpBY8XoY0Xdrwq6TBUjH6ODqc90w
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -21,72 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMHQjCYzWMtUydoc7Ps1XwrULsWwEVrZDW7EWWV!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
   - name: >-
-      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AUy1YQ1mBBWwbA0GyNsogR3d_aavzdHqMrPkt9DkSJSUjnEIzIMvmEDnoiaRtteIxqOxGL-fMytJ4vU76d1dTStFbwWhkovA1elvK-VPYsVlbxxLBgSmq6JrW3GKNh-nr5mxff6r08JALSATpkO6iUrwE8tPz2SwgseQiX4tC9_RiFInUIM10bTsrW0cnNUPeSTesxtTQf1w4dIGP1qGfkYcA2D2pQG8lPeZ3KyH2a9R5hYydNFmPuihnMGFKYeTFXYq3zeAHi1CImJ7NG98EiFno4N_V8gqzvezZN6TqbFian1R2xYYqN15XRv_M_0-cDBsR3KAoa_SulcnDUrS_VY1nLZP4CYhGmJwnMkGR_42WyyNHxEwBbtSWDXM7Dzpvv1RoCwYhcjg8jOPsw17a0LyXd4T-wM9Bond31K4MSg-se20u4XT9_ToLzTuiStG0-X4
-    widthPx: 4080
-    heightPx: 3072
-    authorAttributions:
-      - displayName: Jake Riley
-        uri: https://maps.google.com/maps/contrib/104101305463303738082
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWICaAEA3ReOKxqQGd-U2MJaMHmQOJx7er5xxo7cgEvMwd8dLf5hQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzCRwc5mfTRXMAABoa&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzCRwc5mfTRXMAABoa!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
-  - name: >-
-      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AUy1YQ3kzhqfU2f9YhK7ckOPwEgQErPDVh8C62J4CPvZ1c4Zxtjf9_O3RDbppK-5NkO4R_F7zk0Rt2r6mvVZZAy1CELg0SXKJgt7wMXpqtYsnIIAiGBKQAj78DnZt7NfPeT6L8Kfs4nKHmHi93h4oY8qFaiwKt8_N4gle3F8cTN6mXhmwNSNTGQabQsJ8jugctOJ6W_2kpDs1nl44JfKsneLyF275Sivp3H9KrI_cEH6aZ0ayjuBAGkymqZ02oipRMQQm47WFg8es29T0VGKf1SQcHT1MvulrOF5XRbieVC33201Lg
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Tsunami sushi
-        uri: https://maps.google.com/maps/contrib/118402776145764701618
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUJIANLrx9x89TuR8W6yX4k-WBOoqmcyrIe7u-DyNbvs4kZnzM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO5iWcXr4tmEehi9mC4XGiuq7onNwy2KeQQsezY&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO5iWcXr4tmEehi9mC4XGiuq7onNwy2KeQQsezY!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
-  - name: >-
-      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AUy1YQ2Tg_0ZWurN-PVVzpyfQlK3T8s-CQ_o2scYLLKXjvo0QwOUGTZVROKuGceW-Ry0wWO4LPSfYivuHSn7QN62FdN5kAK39DwCY25NLiUSwS-1JXPCGstD2p94sqfPORDSEjD4zUdOYk_g1GUrj-8HIQ4mdHUegJjEZUkp3DzZQg4H7ZsRHJM8hh-_bnMkkrXdaqP6Xau71QEEGZ-RgYvmkDYBzn1K0mDMg94lBZD-CYNk9DT6R_oVSzEkgRh6RVt8I24l8vBBchxL8524l_i1VKo6_JVwUKoYEaH-HZcL2UJxqA
-    widthPx: 3600
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Tsunami sushi
-        uri: https://maps.google.com/maps/contrib/118402776145764701618
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUJIANLrx9x89TuR8W6yX4k-WBOoqmcyrIe7u-DyNbvs4kZnzM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNetUQPrPvrRwziG_3gvrXnEun6xm26cPwFD2GZ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNetUQPrPvrRwziG_3gvrXnEun6xm26cPwFD2GZ!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
-  - name: >-
-      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AUy1YQ2sAdmHeNdL0RUD8Os0j281GVoCra6fkYaaYeDNtNVKgFadslqEhJ6auFsaOoF0eiIn_ALicmeAcwVMMi79vXNPK93SjLiFIyRhnLmeI-TCf94rndKOzg5trWaVuwWG2r5bcuLLVL6-minfyuYTnQlxybNl0SQgLnhCdR70BAvWKI6UZMVq8dmBAtdDWWRSNJJU8_kuPrCbHk0mRnzpktgVyqx_YD2SS6qgLvuoeGZlVlCqmdtwHexSOoxmOozry_3bgzsW2Y4H4ImJ7wvhU0ohjyf7XGUYMSIvv_fUCi6iTg
-    widthPx: 3600
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Tsunami sushi
-        uri: https://maps.google.com/maps/contrib/118402776145764701618
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUJIANLrx9x89TuR8W6yX4k-WBOoqmcyrIe7u-DyNbvs4kZnzM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOAFjhEodLIWDkrtw5u10uys7LK7RUqJxM_rhq7&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOAFjhEodLIWDkrtw5u10uys7LK7RUqJxM_rhq7!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
-  - name: >-
-      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AUy1YQ3IloavUku7Tvr93_clvUrWo-NxqRHkzFmfBfqfVteB-zTXJcOZNYeod6OPH3oMGy-XjW8AM-undgWFgQitNxE2ftP_4_ZUo6EePS_HiGZFLJ-bicJT85wVSnzJ04JHZW1jUILnq5NE-5M3iBwjKaeieG6hadYTjXFukD6PWVqdAkLJOjHPKlBxKIIxvPksPpOzGuQVw4Nof6LefPNGECegTMPNBvEcJOcOwxb5xMzBHBy7laSNAaZFpVm-2OIAAyqfsZSCfaR4bpB7vMnT1OUA-H3FShhqX8XeyPZl2I8NJg
-    widthPx: 1600
-    heightPx: 1200
-    authorAttributions:
-      - displayName: Tsunami sushi
-        uri: https://maps.google.com/maps/contrib/118402776145764701618
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUJIANLrx9x89TuR8W6yX4k-WBOoqmcyrIe7u-DyNbvs4kZnzM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOxPwcRAvauNce3Qr6XT253a_o-DppIgGG3f6u6&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOxPwcRAvauNce3Qr6XT253a_o-DppIgGG3f6u6!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
-  - name: >-
-      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AUy1YQ2xWcK13V6wa3hUlDIRSkFRsnj62BjKwI5xRh1n2HHAc2pzfXSzucQTpj-vw8X3v1KkG2DF7MQcWKy0jVknAMU2R1dK0PP7EgpJFl8B-XDJypEb8puoFHjNbRnotQvcQ-WOby8J4U4rJ8MLztwnmE0vCqg15dUXtCvI8XZDXaEYwda132C22X5ZsqwD96KM1rZkMHn4A_7dDXXzNwowKtVKXnl2Hevp_0Vro3yT7lgZkEjNWOqlgnlHkkfR5TWNQ-HsP8oBAbT57Ds_mHzRxakOS3lNJ208hmjnf-Yi7zFvlgH5rHyy9FFBOg08ZzWNaUydATVieV7MKj4AHXUKzhInVuD4H6e9DgBTcGnZYeC1EFhLn_yVO5RFskSti2WqKe9rFgda15mW1QXaa8VxyAZIrZmqUWuiYkTGpPXbxWDZsg
+      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AeeoHcJHt8Qqf8imPfx9QExyjagCzHqJaYDr0obB7xC-IMFh0EKt34SigEexMZhWvNkFlSJmVLBLVqPM3m-dtU9fDL3YybHim_o396iEiIFXjupchNbQ28CRmp457kwcGqh2LbRnNzNE_cl-07493RiiKDU5s1LuhBHkopaS3sI6MnC9p350Bu-jI3Nzut1WJTS_38P6mnqw1mVPMzeBGwDoxn5c38VyJDHtdRrTTbXhS061r1tJSuT2Vx57q31IONGKkZmNAjCCOkDLgM6peomdD_XfYtXh52td_j-Bj-f3REfjX1mAWyOd4Lq1lBHRuCyoSx6wC4kTnuvuAFVzydKYOVeuVuiDilGEcJcbk7gqWnxnawOAZR0mKJ9tqQTQFSxko2TZXtszkz-0REm351GG2q4SrOE-2ipOfFvPpTy2ii_7Zg
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -99,7 +34,59 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_rcTsCw!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
   - name: >-
-      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AUy1YQ3hlXLj9jCAbq2jY0BJwA8FdHSifHHKFNafLYnhXNCQmijIP4BFx_4b1kLMViU3RL0jr0yskDG_JqkWPZ-2Gd_ulSyL2b9YdxdmIXp205X-MoV9qmdad4hM7GsVHZbwxMNyhKLgpjs7LlkBOz6999g5RWMu3ywXG04nEWIwLKfjVWVGdTn2cQwNbfgjH7fCfb2FXDOFdmPGJsrgONSv0xu-pxhpZApgA48473FWhc3EBsy1IzIRVgo1wS64o72O0JwDRBW7t6YDVnEJHl-u9ub6DT7kVbXLXvI0XGIQM22xIL3abkrrbyb_0jh3pqRAlQUxepM7KL9pXj6e_-4RNcWhzT0oPqddmLyXOFIiK8wJlGtpyFTxkb3p7iBWoTEhQYDrA4GWFN44rG0iaNbcpe9MjO3cbtVrUmRnnZ-oUhKVY0W5mzQsICgRtigCiO-H
+      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AeeoHcJd5Z1_-jnKd7ui9_VqLIGnxXXku_SKDQLpow44vj2M6V2SnQ6yPcxs0arDl0yzajSy5BN6sgrUr7FuwFSAPd4PJFQhzMJhs1xX61wHO8L7-_0O-ATrWJoAnIjp5zKXaXsLPDQACMfZuBSMR8gjHr8LREhh7TN4XjsQY0eBEABw6a0d0tg_YBskqP0Yjl4LmbXKrVadtVge1B1nMCwfmIz89D2mCzEFBUB3o7OeWiQFW0Rg6vapxWObc_H48TbbVePm1bSymDVuxUROCto2ni8y3C_VTKeTtLIT03YLlj6zGQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Tsunami sushi
+        uri: https://maps.google.com/maps/contrib/118402776145764701618
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUJIANLrx9x89TuR8W6yX4k-WBOoqmcyrIe7u-DyNbvs4kZnzM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO5iWcXr4tmEehi9mC4XGiuq7onNwy2KeQQsezY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO5iWcXr4tmEehi9mC4XGiuq7onNwy2KeQQsezY!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
+  - name: >-
+      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AeeoHcLVXT6G7ECIFpF9RUkFs5_cO40mGrIFrj_nWsd8RJSMegjC1o7MRdv6gmkd3i_2h33q7ENxXGj9cmjn2Xhjwijhlvd6bKer4zGfoFwK4GB-uD_OTRl6ZsF0dCcVAYGRjY0OMTVk750WhQBuGtj2SJsWsfh1gZfGW02FX5nSeYCxqE_gOISm8RDcv0t-6B9lFRlN1oBH3hc3odvEA_mUHNra5QxwF5YoTHOEuvkmEzYNHWy8b6VTBSNjdDOJ-OP8DE4s5UoVd9pwvtnAru-nT_UwI27lqptyFOlUYJaEWyICSA
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Tsunami sushi
+        uri: https://maps.google.com/maps/contrib/118402776145764701618
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUJIANLrx9x89TuR8W6yX4k-WBOoqmcyrIe7u-DyNbvs4kZnzM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNetUQPrPvrRwziG_3gvrXnEun6xm26cPwFD2GZ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNetUQPrPvrRwziG_3gvrXnEun6xm26cPwFD2GZ!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
+  - name: >-
+      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AeeoHcJr1jXkKhZCiwYYiw_EdtlaK2UNli8Lw1cqGLtXiM-DVYiGIfgbjzQl6vfcD45keDHjuDqpJ0ligA1jwrJQZkuM69GiMqJMdi0KwkMmiv9funJQqnyBr171Afbsu2DQGIjkLMEj-Y4qAATpf5M0B_a8FsfXO5Fg5ictdnLwSqC1kC6ZNuBXnr9FftuYND4I7a8vbQ-v3SE6-NZEftizcFnBNpkfOo8J51hPKOzTQ9_3i8CDFSDZK_MaUD6njdR5mH6a5-3JRbw7i-XNLIjvGeFcKr-gd5nr8G_Ud2CYTDL0qQ
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Tsunami sushi
+        uri: https://maps.google.com/maps/contrib/118402776145764701618
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUJIANLrx9x89TuR8W6yX4k-WBOoqmcyrIe7u-DyNbvs4kZnzM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOAFjhEodLIWDkrtw5u10uys7LK7RUqJxM_rhq7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOAFjhEodLIWDkrtw5u10uys7LK7RUqJxM_rhq7!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
+  - name: >-
+      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AeeoHcIoXqP7RX1x-cQNumjrpTrcV-gvonLlKHI3bdr54UpdDpEhWddCa7pT-qJx9M4s0D8YGg5-5PTnGuoaims4vybKurYRDNa0IL4uEwvsx5M6SKDZy3oIPcLsx7TKtq6st_cP5xYgf7hSgu-zmPJqPg7S1JH1eiyJ-xrhIUCDmg_xSTiYjo3Zvc2cVC8oZMGuNtdLpXXPhJAILkpjHzT1S3p_PCNzLz0smfYScQEqZL6jJQnt_dV78_95HSrIIZgJFhb3KytQ0Kq-SNNtaEDXPNx_gumP2e58u4QIn7y0KYk64A
+    widthPx: 1600
+    heightPx: 1200
+    authorAttributions:
+      - displayName: Tsunami sushi
+        uri: https://maps.google.com/maps/contrib/118402776145764701618
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUJIANLrx9x89TuR8W6yX4k-WBOoqmcyrIe7u-DyNbvs4kZnzM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOxPwcRAvauNce3Qr6XT253a_o-DppIgGG3f6u6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOxPwcRAvauNce3Qr6XT253a_o-DppIgGG3f6u6!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
+  - name: >-
+      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AeeoHcKsvS7CiUxJuNtavJC4vOEbKo3Z9ZYCkPSwULkvcaNlWCfw89GK3prXWmpR8mhgxCleHkOvYXefSlx9WPQQP_e7-WmDqTaK5tWL4u8wCatRq2urth41v2xZAs7g5GMIged5YVaZmIacsPiuNRUFdX0-yCvlzTsHthzbMliWkSiRErS2RWmFLa71QLLruSAYqPV80k4GeFDUdNLXDrIHXOf98N-bWOZb4wJ-V8nqPTANhcNdPJ1DFw6bB8ovGpT3Q6gYsQRgHYtD1utOztJTqTG1Sfl410Gse32PsF5asoPXzh9oPpsklf5LZrHZoFMFZ3FGmEHYbf-XkCHfBWBUwHq1AXe579BNAJl5ziUtkNbVBXgr-qzg9XPWarNPyODguzLWTGrM1xX5WFsTN9E-eM1m9FKvEq_dhKB5NUPYnM8GBraU--RritrW2zaH24Nq
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -112,7 +99,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyw7gyi5Y2eif1QACP_b!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
   - name: >-
-      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AUy1YQ2mW4qrXT9V6Q9QWoWVa99eRYkuz_j3a96E2WTxOEek0GuqrZB2PV9dT8JqUYIAj_0gJv4u8Dylkcx8V4_biqgC8HhFpR6CJQfzpBTHj0ZMhWLvpe6H98yslKbBP5XhE9LW-SUWKl_Q6zMCL-RVyfDTd9e2sqAXl0crXY2sxr5heL94xXrO8vyTJnAz9MoF1zD9aekr8CcmwCk4bK-MuVp7AWUeSrd47_hlHWtXoEX69uUHO2Lwt7hnsTRSQOBgsmn-fvmRv-DQovcjWu_GKeheIY8mSZUTUOyEvMCOvWtPIQ
+      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AeeoHcIMA4CpHsDajRdvCo7A-1ZRxGRJ7GmQvWPta9Ei9zLgmdqEi8uxa0J66JcROqWljBm5nbYNTAubitsIWrXnunLqgSJDLLFfsYNgO8KCRXb1eSg8ipJLA8k8Jh_CZqB57HnfpB0Ux-m7HjlWTu8XaSP4Sa2hG9pjndsM9Agq6z_zaYIUcB3JtjoMhOge1r6TwOj1nyD4ifM9iB1Ol5h5424QX0dzyKXJ5ClpLmEmeDEEa8YEmniZxRQ2P6AnPzu08VVWf0WefGIpOjVddM284-TFUuUjb_kWe_tKFiEsnckyS72rcidvDmZRCkDhxI68dqklWfskic5r7sBITzaSMGmJYo8nySpBcKEylhfPpLX6v7urxUgENaQ0Y21DTVtZRAufeP9xkz1MKqxABz_fL1bws4OUgYGCSRiXMjfhJFS2B7OK
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Vicky T
+        uri: https://maps.google.com/maps/contrib/114166196358031162906
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVbJXMk7RxiyiCPg8Ofc7vdTBngXtAugTNV4g09clzsK2skKLgb9w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCAnfn89wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAnfn89wE!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
+  - name: >-
+      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AeeoHcJ7qkFXzy4u0Asog5WCyoj_l5f5o20_PQXyam_IJMT4V8Mlfs862SfIi9PyWQvsWvUAywu_tb3bNs0qzj9umydtRpVQSKx_xCnv2pYc7Am2Bsv_HwNhrUxS-QZQfXldwHjNI2rfdo7XbS_n7VmewSrzgXrbHra5dtrWey8B9fjBkAWQ8bXMERFwEXnjI_y3IwvuQh5x_6nbR7zRLWE005lIXTdiBt_Yw1z9LC6o8wkWh-rsJ_zrri9FssPgxgL1yFChdZ_r0irU2V_rXUj_BHetG9vXIR1JmafGjZMpXnlviNCbNh1CCIhxBrNw1XZtBnXYZKfuLAMaZ_FTctLi9Ht1nzeUF6U4pmkmVFkU04tdNCGXQXbvxuALGeIV5eWcUvJgj9-9rbpfTsRTZ8Ok7jzDZY8NgXWBCECaMEu5f-Pv86AFqwvH57R9kRj2ecjh
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Conan Quitugua
+        uri: https://maps.google.com/maps/contrib/109354114227210932092
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUrDsf7ZEBl3Dje3EcGoA94kloVToamsxeCioJBqeZUTWY5YhY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyddmqRKB_mewNgsAADi_&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyddmqRKB_mewNgsAADi_!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
+  - name: >-
+      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AeeoHcLn00eBlsKLH3DRVjBun1yBQfLzL6zxUjaQjLQclTLHYCHG_pII7G2At343L_un-GJAfNudsaPktRuQRnPEhDxU2PDbthMOLO7kN5Xp7qQZ5_qsiTsS5ealwT9ZT7_x7orVfo86PabeRmDAImBSXpL6uPYKZqPBp2sKBkCkxxe5jFXuX2DkUHjDp7PFMGT96SWfIrDEGY-JbuiqSkxnsXmK0mVut7-1CfmT8UoPq3DZ5ErfcPV_DxAu9Y3ZhtgzEZa-oJaYuYWLoS2dLXQAKB3AAqSKP7zuam00hCmGDqls1Q
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -124,19 +137,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNlwx0z7TDgiLbuKGrIF6xcr2PoN4ua5uChf_UP&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNlwx0z7TDgiLbuKGrIF6xcr2PoN4ua5uChf_UP!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
-  - name: >-
-      places/ChIJiSHGc0MXhYARUZBgpfTa4tA/photos/AUy1YQ0ckCSybf-D_aplbDM7rKLSyJBMMr84YpA3fbn9USLml30Gw1GYt0MnH3oxTGUeYA2szi3gLV9A5ZbL-_R_3imahSndc38JguzTyBIPPxlJUIGl7eYfW7A1wp0VFUmM-jYMviJ3GnjjR1mghNZER0XRfXUVaIhu57f-W1-JmIH2903OALOMCEYFnfabn-70oy74cMdev6Fw-6adMmgImE8deaJa03ZLuTN9WS_FO1w8vgbnJA-O4pz4YtSAYm8U8HhMzyWcYqPARz-6q1xAb-2azk1gKiYQtdbf92aiy7bY2A
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Tsunami sushi
-        uri: https://maps.google.com/maps/contrib/118402776145764701618
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUJIANLrx9x89TuR8W6yX4k-WBOoqmcyrIe7u-DyNbvs4kZnzM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMBERlfEyg4dyXh0-UsaOK7IHMKFPacz4FuYAHo&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMBERlfEyg4dyXh0-UsaOK7IHMKFPacz4FuYAHo!2e10!4m2!3m1!1s0x8085174373c62189:0xd0e2daf4a5609051
 address: 2281 N Texas St, Fairfield, CA 94533, USA
 street: 2281 N Texas St
 city: Fairfield
@@ -206,6 +206,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Tsunami-sushi
 
 ---

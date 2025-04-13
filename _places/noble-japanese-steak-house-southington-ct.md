@@ -8,7 +8,7 @@ cityName: Southington
 place_id: ChIJSZS97RO354kRwTGRwdiv4ts
 photos:
   - name: >-
-      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcJF1HjLuAHrD2MGGr1lQ6VOIQ41CbpXajOKXyOiX2UWCR1ikRAdptrxRLU4yXEDov2A7B4Cy4LXwvDT13YWij6MxtV9UQ_T3n-daYCyefqc7wJYTIAye6j7mXM9VfvwOAu5puF13zlSJiYnUky5HQY_XRRT3zXutN8iV_r4XkiD2RGVRx-4A5fA0A4CGDXLqHz2VLWdGYArnkEZeitpN1z1lw-lbEfIE0vNsH3hexL4ag7KEfRDlR1H7pwJ6ePC4CP8O5sAzlZ8UqRe2m1iZFhUpB6rS3uwoUDqR-K2Vs3lCav0HoD8Jx1OhVPDjxJqY_8pZzRgzhdFnQSC1CDUen6yoJtI1v3yMNJi94YSUCjcwlmf50oEuc5baHClTu1433SxR6r9dtajR2H101HWJuXDjMm2DjhkxMkcXnP6a-U
+      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcJPPkdJQWb2AflRf-oEqFKjJHATamuNPuuL89V3NNzXJpAIeyUWqy8IxzL1gq5jqd3X9wFn3zBAXlJNadnajyfjoknMJoD9N4Qnw8XxjHDZqlRYnowoGYIDNN6fei8Rb7iHb2a2fxdqkHsDFKOsZbFLbSeF_5K-wd9yjZzgX1krImQ_ZZ28muLrjufAgg4CrRfNMyTFvpmOXYc3dulOsArOEjtia9BuIsshLnt88GO_lMVTaH2nlGSNii_YW2Z1iRSWlNO0w3Nf5lg6zu5ILa5L2j2_UjmlbSKkjdccUQMp6hF99hNr7tCcoVBLzTLXp1A1OUG5gzRPpmefuwC6ZLBMDNo9noLJo9MEZXK5T2QwHyv9FUpMKvbqS3L6XTUdJxV6xlQJgly01aU_-qZV2cOBblPIM9oWtQDVJbj9XVU
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwucKAHA!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
   - name: >-
-      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcJhhP2hVyis1eGtKMgkvieKCcWhnlbEAMK3DYT2jbQY-CqNBO3A2NrGHVF1VCFvaVpoqchJDdI30wpRuX6RqiinMcL_LBlihNi1ab_1L1YCuX6bKHFo4kvE78p9eDyrUfiXdEbQuxiMOTsgSeV96_3SHimOE2OY-G1akqFRaS-mSl2RenQEYGzemm1PHbh1JjZ3q5CZ2ZWRaN_BgoNkWDRPe45DyjTxZ3nnsrBT0SxoXNmf0skR552zG_nqTGpPpEpw8OMJpm2473fTwACw0q5iUf1fa_bqGgcDNgjNI6jA1w
+      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcLurQnv3aNjKGXY90IY-7twvpvdNp7fL6KvQ-6SbnIKBpiuIZ9AuBXRKh2M9Lbkc9GTpA9r7XQJvegp8xc0YXFvBBGjSrwj5pD7JprCib2H-GOeXPd50AabFfBPTA1ybk6-URNHc0BJdPWm_u0T2mNqLKcxcDHIRXPdYDDQuSiR3IE3YrTx86fFvZZEKZJqsKF7qbkPCielL9vgZCeM0q8qRoKEPJ5Byh_7l1fG6BlG-XPvZCiq24vZCex8LHte3FGZqygMkc4YKBOVGtm_QI_2ltgvCBwCfOXyb_k8WHWBvQ
     widthPx: 623
     heightPx: 353
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO1YorCxovdCMNGdoriYJ2NzMjXOFcV7jo6_mzr!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
   - name: >-
-      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcKUNk8y-puD8iOVGikPcar3OErWqSu7K9yyaxD2N2vGtCKljC3_OfKOs9u_K2eWeEd0rK4vSXkXMn020fDUDlac7Xkt6Y1jjW8h6yPacJZYZf--Qn-P25z-AYd-GS5A3uuNAD19-0w406cyJE4xCiJKZw3UoZQsChaA08UgYKvxK5Ix-CkRwxFrj2e74AHk2duM2DB2C2zGGRC-Y7Qw_UUMczxf3tgdfCmDwdhHTkxTV2Rwwb-0saa7vEq3yPjyvsA1SDx0YdDgJP7ICY80B-yrbtUMTPHRffFnCVWCT2oxjA
+      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcKQYO5qTV47vL3JU9CIQYmxmEUOwXR8HDhOa1FBpchQEq-FKKMyHh1av-NlDXf_Er6VnotnZMMKnfVBALmKHFME7IZ8S7pLi8qXeaCRO7sCOFBdMrXjHDS2qDT4gs8YIKEvhol59X3yPIReMm9WYqXmoHDjk4uOTeD3jFNi8IA-5TIzS0ssMtgXV9_qbDZOQrKrPbCDVT_kBk54-ymQ5WppjwECD_8FiTgmlWywtXNWeC2-JeCcoXuIHZPBmzu6FG4Aj1PHnVvyEW2kRi0tveD0n9bo2VOlcLRPV2rj4dIXbA
     widthPx: 1122
     heightPx: 810
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNFJ4Q7KUuUyTsRzvP4-SDtxmsjvvATKAMgHjum!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
   - name: >-
-      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcKxmdAxb-KopOhmbX1YxUeTggcEFw5sLVHSaQgRjhdG69oLDDG8W1yas9kjIShI3-GP7Dsy7mzyIjnRYQ5jhb45in68ArUBP6RBU1weIJmjJxLQeKApmThXC74rV92MuLDsC235IpCWby7-L-Q-RXM0DMfN-NcLZzWw0mB-PldR115337K6C-FaN5QZBiSvAhEbcuQ1vzD43PEVZ6QXHQrPsyC_BPtvnwSKiDBjAKcBx1z4tTZV_1ouMc_JZ_94zQWXtIe4ZWBD6k6_hbbVD-yQGTnZjVsBsrmTAyfO4vAC0g
+      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcKdUJsnFBQp36-ZOvQzWExEvhf8lHpxt_biwyPBOWv68hHWY0UX5d67ed3dHje3g6DkqF4G281AQnLoV0BcfHVcmJ54KUFQXwyAhUpZmqHPvOUsk0njWmVxfL0VBL_ldR3-5dTdpxHDSv4asaMtjjxadPL4UbnTHVtBChJrWoWqqnr5d9HcuC6OlHytdcCYEVmjtuen6lAuTDpZjNougHJl0vnA-RF0xYmapGEXslab_TnhFLwECqc_KRG4PsMFsu-Trjb5If70CLzDheWNoSopTwNbZw-3V8jplvQrrnD_jw
     widthPx: 866
     heightPx: 578
     authorAttributions:
@@ -60,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM1N2BCPJtNSbz5JPMr8Vr0qGuD-JJxmK_XSU-U!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
   - name: >-
-      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcJ9EG3aP7PgYIoiSFSBpbrB_HLENQuElsHQq4wczv4SEKjxhX5EAWg98Mdm1E6aceEa-9fCJUORhuUFIERO9WWMSJSWhXLTnXRQZpzaCbhHiyL-x46MxtHufEUeeGIpryaaaYnRsIUk81dX-ryY6YlTA1xDBCKu-jk0wq49Vrqfr8NlzF9xWXAf5GHAknc6U8bKkobuX0Q4Ivyvuu5Rca-rA2prUYmjj8AMKCGMvF5NN-hfw8TECNEYL5V-wpaYuuumKzYBl6NI5J-oI64GKsuabcz3IyRwa2JUPIdVnINsTFh-k_AF7KZIITmMl2GnYQY5u3Sh2LT8351fxy4CAaR378FkFot5CeBfRZbRbuZIyPkbscOXOiXyPEhV4trzsSwWdaMTSCky09abzMf2vANpGXDQBeWRcWyMAD2bQsP3HaZa
+      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcKwUGgkb1AQxC-61kel6b-v7UY-q5pf5Rf3B-QacPVBoIXZyFFIpNixgFgWL7dTlcuhOnyOgnoMSMr9zXYThAKwTpFaGY_FzT_g3Zdk2J_b5i7N_E88ZleyTJ3Khrz4D5iK-WyOfBBANeKoXlMrGpQk_BqsvBPE4AwbjFYTyhJ_9LYlrAH8ZE31XMc8lxZC063dtFWOXSRAxPozwS792kjLSRoQmNogdEdGZ6Mhi9htf2NL9GLfVlVrY1cvdg2KBCGqdJjt-xAqQMMWojBtnTkWgWsJSPJ6aaDSGg-s-cwWz6eM8bQTTs8W6FqmxPZ0aig0fcrNuq-a1fveRUsNPnAbKWJd20iu282eVQmV_iGUENiY-YKRIkCHBGodetCTGq5QbtKA9yBg0O9qINYg8AauRm98T-gc7cYXJpmhM94DqHji
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -73,70 +73,70 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwucKA7AE!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
   - name: >-
-      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcK7qZc3LxiPn3U1zPK2dupE3uKXatNhdKQqNu5jHv8mJczvLcPZYU8KWasEbvFZOi9cxhITqZJ8Pz21gvWaLx25HydUDV9gaQX7WGvAWxUfZXWXRfHgSgXpJMFiIAoks5IUhT7Gvum0-kGA-54I9no17v8RQ7V-QFOXt0VctK8fFYATVkQATQzDnYT__vfz0iJFLCHervihIegkLjzLyQEnjhVoYnZzePQ6kOQH7e_lDU0OP_WSK9Z_51ZT_hRAu9gTE2QF8s-anf0nNGlA3SXO-3yhateQKidY8IHlKp6eTA
-    widthPx: 1041
-    heightPx: 814
+      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcLZ4zwYYAsDcJFP2oLMB0oVqXFC2RTI0sdl2Bm8duL85ZS2tTrTysQgdULO7eZdvaAnS7Lhxrw1AIXmamBh7lF5wwFsJr_fqsU4paIPACStkcDMsYNvLYMiWw7jD0vwCiqk8LPS8qKzT0KjK6vOqySQBiMazksnyt5BR5WWQURumhhPMEOaccwBjuEBM19eF56vVCDLyWkTG4LVP4XKcopPyPQ3d_nb5cUWxn_jsZ2NSpYymzaha6hbdkV45nJogyYtaG3p5mJlEwyD_-g1DD6pv2NvoLMizcl3BZo70IBOQQ
+    widthPx: 623
+    heightPx: 793
     authorAttributions:
       - displayName: Noble Japanese Steak House
         uri: https://maps.google.com/maps/contrib/105956332689866578237
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocI8mZOkq1tVs7Pi-OXiWPudYYnMyJXw0vWsV3XWW2G8HSfTBg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOgniqFuHSn_dZro5GWx2HcrTo6wr0v-b4KRggj&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMjnWh766WDdKYzOuuz7JOTbUjjQldMGwUzePJq&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOgniqFuHSn_dZro5GWx2HcrTo6wr0v-b4KRggj!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMjnWh766WDdKYzOuuz7JOTbUjjQldMGwUzePJq!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
   - name: >-
-      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcJVsJX7RO5Ll_1QOmpw13uh28lc2uPGPcnRJcWg6dNMmgvqjxG2TTq29LLAmU0sr1fWxKTQYMk1jklcNanul17gJE2DIOwfhrLE4wZZ-Nbol-DZd-2_UX92ymvo4lXir5-hqVehIa0INkrMX3q22imS-aEmy0el7VRo3H_CxHSE2KGZ0_QkP8bB0_jJ_SbR5NlpvWCZ2BeNoCdJ8ox1CudKYz9yZxFqZNH-XXZ_2A11ZqlbbGMay7Gn3VBnOCb1oLYtr6m9n2p12NMvaFudxYX9_qA4h3XQ64IsOUwsYFkU3Q
-    widthPx: 1056
-    heightPx: 765
+      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcLNaBsVYHoLxUtNlnNQ4qRSmq2Wj3ob3pZ8a8paY42pdmYzSVxKIuuL7_k0Iuuau-ZYOo5Rc7DG_S-UoLHy2WjRCX8Y8QemmUB_f-tG2FswcmNKP8S-XsmEEESKQodaoMMXP9qypX-OBm0w_o1mQ10M4YP6bpCxSEPEXnblmcvYI5qeh-fAdTeN3hWhyUFcgPidniNDabFZbI0XaMFRtaoT28On2XUczsjwChcho6Cmz52XqhEnqv-Oacm2socbG36rAryAv3raOO7f6t7ZE_2k--Whmlxc0BNjJUaEkpTQ8Q
+    widthPx: 1096
+    heightPx: 741
     authorAttributions:
       - displayName: Noble Japanese Steak House
         uri: https://maps.google.com/maps/contrib/105956332689866578237
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocI8mZOkq1tVs7Pi-OXiWPudYYnMyJXw0vWsV3XWW2G8HSfTBg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMWY3ik2oWRNbP0EJ7gbFa3lzsMtAc4qQ-Xep1s&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNWHZHqyle27Coyk1pFqXPMDZ1-5ThpMzd9D8z_&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMWY3ik2oWRNbP0EJ7gbFa3lzsMtAc4qQ-Xep1s!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNWHZHqyle27Coyk1pFqXPMDZ1-5ThpMzd9D8z_!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
   - name: >-
-      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcKi41jTPq1za5nb9EJWoNGoFst12t6sGwRJh9znILTJd7zLKNt9Ep_QX3-K42Nk_eZMA41EUB62HunFG7kfqHHU1ez2e7C6sMn7Ae9vaVdJ8I8G9M3RIr0c6xau38XYUDOhTPusCLM1Zu9WfhemUWQDYjcWuzB9-yXCq224_1nxuRvFnDczqELFFQh-nocwuWC9YotMScIpPrxuPDBoXfduubclgBV5hs4AH-IKpSM1bnEj8acX5ZmE6MANK_RWOQjSjHoBIOnECXjex0fC-QLjQ8JupbG4X3Zz-_7przlp4nX4_6e33CEB9dU0owhmabwnYr2NnY6AODO2CeTOMqx5XHg3z_SndP6VcXcvgnQomhQRu0bDPTJvoDLVU2TBdOWuH3iecgEMyPpkjmld4XLGmRCO1lTAGtQ8zCNDaiTklGiQ
-    widthPx: 4032
-    heightPx: 2268
-    authorAttributions:
-      - displayName: BLESS THE GENERAL
-        uri: https://maps.google.com/maps/contrib/101274332941727695489
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWZVhTMDLmp3_UTK5mG_fqAneKBSE5xRGwG1Rh6Z11fyGv6Djt0=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj6KDRmgE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj6KDRmgE!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
-  - name: >-
-      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcJS2-Z6vkzgC8ku6fa9ADt5uNc5Op8wRfinzeDXDwRbvuk0KFKMipxcCEN9ovXOl1R7C_xPQaavIgESi6WVGTV2ZGgVAWR3HISK1rjUvr0qjG9UMnPxfr7C-uw-hL7Is1skWMH8bnS8nDhEpR3AbmH5RJlBUZmkfcrGebaYsHt4VaVG-wjHubJhniF3vAfJb9v8T9V3hyPKtuF0DxN7-FnxPkClVLKGbtJjP7jc-znmhKG73mnC64_Qe6DuB3_pjnH5YBhEVq66l1QYHDCqZBP3oeChqVrgI_IIzRjaUxfmjg
-    widthPx: 612
-    heightPx: 682
+      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcJdEKlG9-4xzPHhJkH78vnmWJ2lNaxT_nKihrMFmANqWvG4LHW8ERr7j6oQlMDa94Q9JIYstIdh2jzHmVfY4d_d7F0iO-pJcU8ePrV7F9u20FDeeGsGd8Xn9tKgGpG07OdaOYUTnhtXgEBDQmUEuETbVqzEWYVrCfvQu2Gqpte9wq4wXknzRy9yEyTBfuDEpEz7TLLOE1G9N2us8aN0bmeD-LEHtZ7BDZK30KfunYz_vAEAI2h7txIDvuphBO5PBZLXpWNRQM8mR0dGv2njB22Cs_R-Hmjkk7_l3PoHpE6AXA
+    widthPx: 610
+    heightPx: 578
     authorAttributions:
       - displayName: Noble Japanese Steak House
         uri: https://maps.google.com/maps/contrib/105956332689866578237
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocI8mZOkq1tVs7Pi-OXiWPudYYnMyJXw0vWsV3XWW2G8HSfTBg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPdr5M2VGCqdsyFwoU4rSbgF7wvQwWGYvDslQsm&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMXDb98wArLffpFARbXFSCvqDI6ozLfBJDXFJHs&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPdr5M2VGCqdsyFwoU4rSbgF7wvQwWGYvDslQsm!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMXDb98wArLffpFARbXFSCvqDI6ozLfBJDXFJHs!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
   - name: >-
-      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcJd_9jfVn987WNvb0XG_-YWS3f6VsWT1MB-CkM9WFgDreHOLcZ_cv-5PkRhpyrSVYYlKzImwC0_usPiCwCPdabFZiIAntwx4__yjhOGc3mPUUZS_S3NeyfrmraVobUf4CCbfQNKXAY3TL2eiAiOuTyYnDDNPKoDcjDighMmqj9LeQ4HE5IcVkrtxGwuZ16SEYlXK51VGbp_42bt0qUIvZPBdj_LlQzbViv37A6cwqSeff8SchxvMhTd3MboBwuW2SzP_C2g3g18Cp6KRLZsC3MCaZ1M5ZIsY-Me0T6UgbcLpg
-    widthPx: 910
-    heightPx: 836
+      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcLEqZwQSm3ACYHfRWzganzsC79brjYb1od2zGR_w80l7s31qj8nqvp2wawVEK7TTf2S-5CN3SDvx0eGhHogAsgRe3-KjL9O4PcDinnTstVH9gWYmqFX1lgu7osI4wFtIuMnXcOzFPDc5AtN643fHpt1_BjQ6OU_kqVZWU4hlU0iHy69y6ryaa2QR-7POKbLuQZfXO8HXLexPgRI3_yRDdA4KPhxYk8S6tTH2kyr6iqrPXtS7vHIZlPYVRBvafvEBIjaLfFxY7j7b_sDcP3nP7DT6diYDq_YU85L_nohhXRFqw
+    widthPx: 1115
+    heightPx: 791
     authorAttributions:
       - displayName: Noble Japanese Steak House
         uri: https://maps.google.com/maps/contrib/105956332689866578237
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocI8mZOkq1tVs7Pi-OXiWPudYYnMyJXw0vWsV3XWW2G8HSfTBg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMZyV_voJARzrpqchXexontHPA2yHSJUsn7nmg0&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO68_aluId7DidyTjIYSO98biZ7OsrVkU41QluW&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMZyV_voJARzrpqchXexontHPA2yHSJUsn7nmg0!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO68_aluId7DidyTjIYSO98biZ7OsrVkU41QluW!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
+  - name: >-
+      places/ChIJSZS97RO354kRwTGRwdiv4ts/photos/AeeoHcL3KGyPvm4j-5MmcN7Qh-1mBpx21_wxg72yQ5bOLjPvCxPGfvc7f8iPnRra_9fQ46iFTiZLo4YykKQklRgzZ-WxFpiQ-54Zn36RNdi4l6un7FxzVcLq6eME41qW_xVLwW0tDf3TMQOwHJWoY6Npzm5fuoaJ2g9YjGrVH9YsRIgRLfUqi-p82afxnSaTKbjyKqxZHCsG7EALHLa-utE4CnEsUE8QaUVgAaNXZ9d-7O5MLiNMJEfNSHL0zKZdjvHFc9G3Gy7HGt05rkQm9GqdaFB3NhxXvI1H-oJCgkmtuZXUpA
+    widthPx: 620
+    heightPx: 681
+    authorAttributions:
+      - displayName: Noble Japanese Steak House
+        uri: https://maps.google.com/maps/contrib/105956332689866578237
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI8mZOkq1tVs7Pi-OXiWPudYYnMyJXw0vWsV3XWW2G8HSfTBg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNDPnSVM3cCEE_gFvDoRpPI4pNWdd6E0IEjVXnI&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNDPnSVM3cCEE_gFvDoRpPI4pNWdd6E0IEjVXnI!2e10!4m2!3m1!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1
 address: 235 Queen St, Southington, CT 06489, USA
 street: 235 Queen St
 city: Southington
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Noble-Japanese-Steak-House
 
 ---

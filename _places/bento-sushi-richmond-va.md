@@ -45,7 +45,7 @@ price_level: null
 price_range: null
 rating: null
 rating_count: 0
-website: null
+website: https://www.bentosushi.com/
 description: null
 reviews: null
 parking_options: null
@@ -73,6 +73,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Bento-Sushi
 
 ---

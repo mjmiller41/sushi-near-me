@@ -8,7 +8,7 @@ cityName: Rosenberg
 place_id: ChIJQRTt7wwdQYYR1B3hJJtAqlg
 photos:
   - name: >-
-      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcKz9KRNokPfsPXo1j94B9xBagJPGQu_meq2GrdoM8-C3cGetMJGuDjTjDdJ4uh6mV-ljwegHlrhry4u6Zdl8bppMghT6hUSjlVuqqo0w0f3FZUk9Lp-Hs7dqFxs2PNgnVlRRE3Qq2wt7LKTD28zGnVYedwA6U_OHmPyF_TohcOXQNbQ5lQ4XC6D5IL3jUwKV_n63vxHcLcRGVB71dX-oCpCZxTaeefERVeK6qu8Uajvua3h2pHsLQPdQslNJEAoiJWvR4PKPySYS13LggvxAHOqrMWe8kPbjPsON_TvtL9ZJUhpo3mTE4b1UcsMPfpiYWPw0saR9sxszNPgZcSMhJYigdN7fgfGXgRG-RVPZG4pY81iShQIL-AdJzXqDNhpYGxLajTxn2SsynJYBoChqcad1pXY6zwFpOQi_E2OBqd3J9w
+      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcLzuBNNeE3JQPKOL0eaBSCW_eBZ7ZnKWlpRMvwe5m3TbahKiM47ePGIA1wOLh1ni-KT9JVsH2WbbKjgwI_wP2rbtyY9dEU_-ZJdlV2lFnV5xNjOmRwH9sRsLuEZDjJxh05dowtpoTSUbMQJMHj3JfZ4mOswFk99iXkeU8Lp_CTGykNUKrsFIlGlLkKjZl10dLHQK-mJmQhkLj42t7nRN95zrECgKdbbp1jIPMnp8wqLBmFbuWKzNUFRgz7-vXWsBnCJDWUWILbVD9768KOC-rC7hsChLsDvCUywjHtzy3zckCMVTREbQ2zTnosu4Z1f2CBJp_ksRfRL2ID6XFpaP84OzmlXkop9RvTaKxW0WvqYQc_ud4BaVXQZ91QT1v8mimCOY6feJUlAS-N-lJgTV5UlXQQ9fCbEjZFfUkpaWyvvjdA
     widthPx: 4224
     heightPx: 2816
     authorAttributions:
@@ -21,20 +21,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDp1O3a7wE!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
   - name: >-
-      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcKRVTQ4_bkaUYw_ob58MmDKse1pR0PJf3pBNh3IRqSXGF2K8ItYtivl44aM9EzQh9s9Sz9txPjPNvGqrqGsgTsbNNh-A__Tlpg5032NXhu4ucsGiwA7Oh7Y5LRENuTI2u3sUcNcycuSVK7z1PIqD6Actve3-AAQFcTOw6xmvpfnxP-CNT5t2FFMU9A0GPCmQ8Fno4h-kAG_qNDpTFoujjwQ3KOvl-8-sKZqLgyxSraJQI17bxCut6FeQqbWnX4i8QSs2Lb1mnLkcSJIsSWISjqqTcY7KAdyhdtyW5Pqp2c
-    widthPx: 3510
-    heightPx: 4680
+      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcJ-45VTJhKD-G8zKx-UGy4HEc2bW1PhKgmQiL4k4E-UOZSkrV7QH2LlIooCdcZ-9aPguzInqMRqGD7mquYlVW-1YSLSZaiB45XHtm57cSWc6ES0l85AfnmppJb-BaqhuU-aIfYCYUYZxB8OTlUgjfud69bvHUOJObx5VDfawS7Y-x-QwqEOjqDLipqoLtQPmprhnp5menxWFAze_f7k9OWyEFQ_2n6iHrWRDA6UmO6xGts0xbp5ueH1_CEz9d4-4AVvQtdkYi7xRAW8budoC-z5n3TZx_uDUdu5DIJTIO4
+    widthPx: 1408
+    heightPx: 1396
     authorAttributions:
       - displayName: Sapporo Hibachi & Sushi Bar
         uri: https://maps.google.com/maps/contrib/111218930235420208264
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWtQHC-7BA6xpW2HW_HUtv9AEO58H5H_-MwR7kBQlT5ZCp-zg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOoIP8Z4oCy90PbQ0EhnM4IFI9MDcQqXHtcVYk&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipON6nSxQoVSR7nQpEvhQ4PVJQa7t8I8p-cKOOk&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOoIP8Z4oCy90PbQ0EhnM4IFI9MDcQqXHtcVYk!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipON6nSxQoVSR7nQpEvhQ4PVJQa7t8I8p-cKOOk!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
   - name: >-
-      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcI3NFhWVslJdlROiFCfWxPipaNEL_HzkWfKhZgFk4cSo4jUM-DloJIzMJk2utgrmLo4P8eYWN4uWmRzStYO5IFP1mSa8vHnMv5siRGepdX752NsOFzK3QTAR89lTSLPhqMJm0OiwTe0CgXlGqeChnFkIWghSAr_QAxPWkU3fAj-XsQMu_wJ5cj3OBy2vAFWv-e5qlweIyZmAj0tbX5zQBGtpx-D2gedeA_2OQyt1b70cy8rdls15Jy-BgnO5EoGyEfTLcKHYrO9M99GWQLLVAKQoIpTNdVyP5dLp_pNlPq9Tv-jRe-uCvKHowo6hH5obEMlJDaxER8YtCHQO7BtcmWU0qFblM4pN8OwxFJZR8Wr2Bf_RXjy1VC7NRfKDq-5156exhpkJSWehqeQKVEWosMviVoW7VDkRMrTgfcVkwsIzg
+      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcLS9zuQEsxndLPBPo6U8VD1SZ8sPS12hqg-kWdTkimmXHm6LyHJLTh-4uZ7KKGCrgxfxi0G1zQQYPRtIMc8I1ZdterXVpbh3Nev560dXbbOPsaoxovjyCn-bJ5y5mHkAlHF3Y3vyESMY3-UcgzuFUHHy3Qt5-rZ77EoILmS0Q7xNCyExmorYsxB8VbKKube13qJRGad_jSsBXojMOM06pXYmoM6ZTGPYo068LowfHMHB11NqlJe9i6lr4DInVGXNUb2aFvM0MYd99NGkQ4kI9uK8GWMEUIzWK7rmMlEvmZwOt_ccS82-CAOuyA9ryjrRcWxrsSi40LaZOMZTfNYH4ywT3pYo6N3ffjJK9AxrUyj4NT7FGPm0YXhjEHikU2TIunKwg-2BDzy-Dhctbj4E55rvODrSz7egXsYtf2D1MjQ2Q
     widthPx: 2268
     heightPx: 4032
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIlYzRWg!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
   - name: >-
-      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcK4Soah8jh_Q81tNzeF_AFR_aUFS0Ou7XWxxMjFfZeD1uCAHzqsosxC2TRzWV2IEMUib-7sRps20fdOlndbx9Dhq_pn8s7BwzzKxgTfsRIV7QfyC8yGgbWt4szneY037MtG4pk4bs0Xz7Q0w9jfKFhkQoaLKyS4DhFhWcnTzk3usHJpNuGlaDGWBMNImag8q7qWn69ASZPFxCxy8OLelaXe8k_VbHKoTiAh5uvqzl-EtvQQ-mrwKreB8ZaFIj_0lfV6TirIIs6cji3HKQtzAfoqh1Vk-51fkMDRTOD0P9QN8euP0oHMHWTxrvjBlBEkNLbzqngGXGsEoJRbbk7nZ0BJ9--1MM8GF4tv5weEQeIZ0aUVM9fmdEKrFVwrdmfTAv14yjisfNvaYBnYhsz3t1RnViPy24kNJjPp2kXm1Lk
+      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcIhX-zDTAaYn7pMb-853WWk25bDERz1Z01t3W2O8egOw0eUZklrWUMA_mzXQn365CStkyGuBjh4l-q2afZeyKq3xQdC_aIRx50skSuuallxey_ESeyDwsutzmAoBPHmh0b3kWuiUT6qZb_Y9CWj8f7X_yah98uaIbYittY93iGqsu7t0zxft_q6_C0Vqsq-7dB8HLm-_9LM35oNrT-ES5W2YLrLInF2ghJAf0_9fMMbxy2wNbdNpG8qpBQkAibqp2eiQShmMX68_YAc6IrhJzJlQU-oL-mmljOgiLhLjp7hjT-gEMCuycC1fLv8-BYr7mVW7PPzv0zrLVpY8TFjRf-DXyT_-N1RjzxTGE5AVfwipfriY2sszyinUDQwXHHQ8uM0NWm2nWXxJxCJzqMoC562j4k-vzfP6V6XN7qPAV4
     widthPx: 4624
     heightPx: 3472
     authorAttributions:
@@ -60,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTqPTqZw!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
   - name: >-
-      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcIFaJ_2NLAjowT0MtdRDwi1h2-a9A-mY5J0HGEdV-dLybCdHKG0-F07CdDPyH-2LgrOdxNNIUQjsto3WPF31VuJ6SXDagEiFMUyj_B-Tn38SNNJ_GcXNVXwDT0vlXQI6HGSXerhuqBx2sizOJyZ5BuWUVzhbvR8f9n_f0l83pKDmkdGmvmDpy_JFcKpYmIE6fUoARUWleoxuuS0uOUIQCPxt81ypBYMuLeURuAblDFmpl3A9yoPyeZIugZvI_9FFtiWEMFsQBiDDwBHZ3IKaTLFYve3ZTemeq6wpMRhR6AJq5TBWkRY4r1esPtuHZROzQ6UMHsaf5ZB6xGKYz4F97hs-BTSygIiJBHmpqmJF6EtqPXp8xC2pidvZzWuLxnWrDHceFNWOLJmjCwRHkBMJtWkafEMBNVQug8jrOXB5frKYG1V
+      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcKVIOEu2p8lqiVZ8Nv-0nwl9eWqvJNbrfOGhDqCNo6rf0pbgCVNuMBONnIuy6hyii0nfL0KR-nsHFEZovvfV2JKiS2_qwnkBsccVGB2mZkYdL4S_FZGdLjniuRyCQUKW9qPeq55k4ThdN1ZkMpg_jkiM7HYp-Cu3Pj00w4XzxLQtSkcNvndp5N5vyicq6X5AuqIExMhzbD_8AUr_QVsJlIizLovRrNMehOQ2qvhlt6mTfjwrxuNs3VM6ArYzh0acjRcY7J2ri8NsIb32xc0qgxZh2l08v3_BCXHVIzsoWlOJrmn8q4qeoiynD4UPlNrtAlqRv5_KdF-Rx3cgyhmFxlHFNtdSDfrCxKVf7T4yy4-LJlVCK3bGDgdBdKKlc4RtaiKR02HBjopmtynorIJI5XVCgz_WVw2P6KXOLFmbMuURyI-
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -73,33 +73,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7-orS_QE!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
   - name: >-
-      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcJj_X60E24UgFZXMnisZTTDxhLiIGwUaWDXuPP2fTH3N_UZf_xpf517YJ7iwZclGRrWIfk_9KOJY3QqMXB5ElkiLoIb6TJQrkOwUo6l6lv6YNl8zllbfbBZfJGQeSEOKhXwKnAWp8NvNQBjyZ82oWba0mDiYUV-_SuT4skW1U2LSFoX2Bk55BnbcYeQh6wPIn-9-bAOa9a_TPgg1vOAtKHUJ7nEkO2BFmUCBaSPAUcDqrXhWR_5l-qWAtqCltZCqhf0aaITJq3ptXyrLiZR1eTYlnY_1k9m9Hpw0gRSXZ9sK_vgQjDoYrJRJ2zIOMP2nkI3Xy8QRA_FL5k5uTulvfch45YOLKfyXZdh0B5bLg_t8mYn-Eaq5B8g4qsDfUrpsJqoxAW58AtEOL3syeq-wF9GechiByhrD0L9_AczdE3mBg
+      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcLdDFF-ONYFUPvI9jMyr73RrFoyPWbNDqmBEd94N5xs6wtOeDw1_F84384EKNpPPDGmbT-Q-IzvuTP0S6G1KUtoKYA3GQt0_09MCyaqyNPepVZPMvgutHMIr_evzqKiEjuhS0nZebw6B-MOsXxwIVijXbN_F2bH9n7CR3T4yykZLEHdvp31SeiTWZTJtY2gnY8hP7c6wbox_pXY3_72r84vERQKvpacfue0wqhxjfW0A1XfgpeJBYIFOQC1UczX2P5xBS_VFfLhy00TmoUxyega_NnO7S5ignBmSu6nw51Nbog_GmdSbRpdxE7VgTcAV32ZEKfM9enKXxTVL_yCRXPZtUIyApS56j1Ku8REQPWMgcj61gfoOGcBfpJNbV9ZQG3Z82soqj-lRiZJd5ySAZ4d1x2-KqbpTFLLJy_6GSzVwQ
     widthPx: 4032
-    heightPx: 3024
+    heightPx: 2268
     authorAttributions:
-      - displayName: Cong Tri Nguyen
-        uri: https://maps.google.com/maps/contrib/102943724069413543084
+      - displayName: Joe Ramsey
+        uri: https://maps.google.com/maps/contrib/115441608322236643345
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJRXRxsOn15D7G7NYj-6CEmo6z0loxFHaTEJS9Kzrg8mlXL3Q=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXwRT4iUjM5euOOqjzeeeFmXSbM8fPPC5fxD6lh2iitXm3fSxvq=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICL-L61Jw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn84OWVA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICL-L61Jw!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn84OWVA!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
   - name: >-
-      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcIvnrm0R2J8adRYeqc2BKdQHnUN9zlxpgn6ugSTMBYZ9ndz6It1yrdp5kaAN1ATf7kVYEJGOifYtsRaLpe7E8bcWGykXgsAwQgrjF1ZAqm1EE0titsPcIXMDGoH2sYtvH9J4Thfmo_IX9Cbt1TjaaVho3ZE6vLKaM3vccO9ijg-OtCWEbQ76b6SjeUYMdb2yycPyFfLX_KhiQ9VNQ2Ii3Jap9Da117UMnZ08loSMjWoR5VzbGzl37k9rjzK3mIGEMFE5kM2mf_6Ya12T1WSvezx60NxmVbHcs2LrlYjzDw
-    widthPx: 1702
-    heightPx: 1276
+      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcJjoDym4bpnVfygfzcKeOOMTGdwHBRsmkP4i06z0Z6R8JXDyEySQKmhZYyxF0NDPMUMd_vkDoi2L6g_YkNqO97RE6Ovi5pwzyW0UPDGLUz0XR6r8ZtL7HuWb7cMhMXMJ6Z5ExbTtweqCIsU7-Lmx-GW7uRlpl8eZBfxtjFBWdVDg5HEc1H840Ls_oq83FdB0PAPuRwktEwh3wpQltWiu5dTiyIC1t0_WYSqDUS1WurMS-y4VKguYobgS58NEqrl3fOeCyJntucLfmrNwObZnh2mwf1EhSw9vzVOpDqMGQyrLDuXLY38lx9So82kyYX2ow5OE_5Gb9RZl8dQ6-yKcF_PIAmA7X09PTQI6B24ktDdDNFFjGi4ABbVZnrlenHMoKqFA-D3aWPjudZoJMzuXOVdLLxlmxjGmH-W9PAyIw53lw
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: Sapporo Hibachi & Sushi Bar
-        uri: https://maps.google.com/maps/contrib/111218930235420208264
+      - displayName: Alec Huang
+        uri: https://maps.google.com/maps/contrib/107115442262453617767
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWtQHC-7BA6xpW2HW_HUtv9AEO58H5H_-MwR7kBQlT5ZCp-zg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUN8wwDNOHUBuou0yfHj9RzWUprLiPD8xdShfUJlsfe8-SSd4c=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPqFWb4lBOYFXc3hVsz7xPgPkOX8zfGrKwqRqc&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDlubP4XA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqFWb4lBOYFXc3hVsz7xPgPkOX8zfGrKwqRqc!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDlubP4XA!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
   - name: >-
-      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcKGriCVXJK4fF0UZOAvMPsHIp4Wlg-ADwIvb8m_s28wRzydOwn0RzWGxIb764TwCxym2_1TPI1-Vfj4cYTSYXyLum2-ZsklJciTGpVK9QGJP5uOw9vT7E5tgHgDuG8wbO0k4bBOvF-_30IzPVyylmte4S3MFIK3naMElytuC2M1VAxAhu0-1D7cLCXtc4_Geho0pFdXr48rKQu60eLML5a1vh2f4Va4VasvFceB6HbF1srB4yzoz7J25nY2XysJaJQPQhNke76ae6IVyp439JTSVneMRD7hCBQ43YajTRhW_mxbFwMRER3n5Y0T7J1WR8f_eBSupRTUG1vZGT2i9Hbb9IiXGixQOXuZTrhGqxGfh24vyAPn0IT8JoQXDMeWI27_2CjIAnV_D7aSAm2se629SrHaGNHzbRib5p8pV2sGRtjo
+      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcJ7iQ5cHo0EPu0eN7NmlwXx7UAMhnGaJZqqJMEwDPZls3Wycx1H1upKJxwXgbXJW4twYjY_ITy1I0trfllAxsX0IMnY-qGyVFZd91kdOQtDkhE_Oos4MVfmc5bS7TtpsYsDWxoISgNePL6WahCFpACmKlero1L1ld4DeQX8eupsQecRlCerT80SU5R6Gk5uS2FpSu_Zjh2WX-ksrnRn5RpAh1v-gEEeAGugjoxPZiNvgIWBeSUU62RS1vWVuNEKLjaCuBejXDPo6eq_z9UhqOzatqw0oRLQ0EiFU4fyZsg5iPAX63GddGddll1Yz2TNJyW84cibrNrxDDM6TkLzYTRryIxJHYm_kX5dPf30dGu4Kl-QTfvCtplSsrbHT1nJx97M8xxYoow-Jo7eWgJAuRg5srxeXcLsG9sJdxm1kEn5IM_1
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -112,20 +112,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr_PHOigE!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
   - name: >-
-      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcLYvlqGXG2sWbzrWufD6gBAfVMAyYC7Hij9X0KHKa6uI2WHcse5d9bgAxqwCIV6KgRcOdIsOBD1AqMlzE7oFOdynpdPre56EMVNEKgHJooQF172xNPfBjO5YZKHwrOrYhfLy4f1Hwi_TI8EgIQYMPG2-Nf2dCIeZhFRBWlsEVvfleUt3Z9ioMHfXkvVMmg4s31dP52gTytJ6lKdLg6LNBwoZtegdMI8MmRo3lPIgAUxpGf59Hbeb027-Z8eHZvCUjDmKb8LnnhQ7EK-K_SatWuv0elGZG796sDqdgLlPwv-EW6tweTP5PyIW9W7hpqRW3vH12IA7KMdFFOmbqDiXLzrW2YH4h2smIxFY4PGYLuAJBYrE2WFvcNh1bankD7qXJH6bljy4E6Jqp5kz6AuU2CBKbey63ri38knZCY-k2YN1g
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcI2SSRFvsncziSLjoBYfSUPhmD_vnAuwPbmaOWVnfva9TR9fFFq3pIt4aK0fiNxWSNy0akqFD0d7GpEH5imyOcxgDEKajtTGYuQuBhFor33ZE0PEE6Dwht3a0SK55UAykUVxvf6DRoaamneDFw5nJta0MbHJXKdgOn90ujQ51V2Ot2obreiBQFfb9PxMgev21JgSJWMYL_clyIVGfYlT3bV-TbEK7PMfv9vqiZutkWrW_GKr8FuSLlivVRgU8BsU1i_fCB1vgebhj6ronjAYYVk1R7TZGW10exzo0VgVDU
+    widthPx: 1702
+    heightPx: 1276
     authorAttributions:
-      - displayName: Rachel Gentry
-        uri: https://maps.google.com/maps/contrib/106039154438534158514
+      - displayName: Sapporo Hibachi & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/111218930235420208264
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWeQFlb-vi-BbCUyMH2534ZIbZsNm7bfjnJzT0SP_qOGz_5lZc=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWtQHC-7BA6xpW2HW_HUtv9AEO58H5H_-MwR7kBQlT5ZCp-zg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC9v9fNDQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPqFWb4lBOYFXc3hVsz7xPgPkOX8zfGrKwqRqc&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9v9fNDQ!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqFWb4lBOYFXc3hVsz7xPgPkOX8zfGrKwqRqc!2e10!4m2!3m1!1s0x86411d0cefed1441:0x58aa409b24e11dd4
   - name: >-
-      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcKQA35Cs8yO2pNwds0OefXGKXtinh8wWJIiWig9vKO6yclvucmcPQ_csswlE9M75-PM-f7VoLHloETE0Bm8grmH35ykpUyovcx0vp0YYQ6sTVn7vK5svYL_I75gZT5UrHsP_XIccGv3NVcUHWDIevUBMWw_3jZ3BJVuONyMsocc6mNGsvsuwx7Wvc_26xijeG_W4SUzd7QBknml21RkpqHQTsCacfbqf6fdbyNAvawsTomVN-QEz2nV19WUxzi0ph5hjBPHykLSpAMu8pryxeqwFILf8VQ6O3IxsubEGgKuBD4FYAtQa0yi2-OzItG528td4vU0BiQKm-AmEeaR5SrfdRk6f05BSkz4Z0pLL_ctEIiTQ4up7X90u5kGfSM2oLOJGHmu_8hCj6IekhfEJgbABYK9CIHn9lWxReFmcok
+      places/ChIJQRTt7wwdQYYR1B3hJJtAqlg/photos/AeeoHcIlihZ3BALvSDebhUMl_GO8_TBPvdRmDCpnooOkMgYU9odI86B4g4XyIUGTLqCwqRRxqEm6hoOpSn38x0skvJVtbF8txF9ODUq2yJyggKiFeGcJbvu4zxdMp5UBh9URLF_nLPy7rKLZ4Z47v_AOLJlFasbw-JVx6psJFU_wl1ogBqfwuFZPEZ_Te9VwrjjFNh5G2MHpLJ8-OVvdgCrgC5LWbedriKinZn6xyMt7Jdm_usU-1viSVjECz6_pcMoNvx9tfUGNCVpMYR7oVVDvWoH3aHP7u_lQqDixToFlfFxdWIqn2pyipOqR7zgqJi5F_kNNjVcO2XeG4KKVleKF7_gbbRrVrD7WJf-G6CeKkMKOOEd2-vGIJ14grb1F4lX2oobPG7ZvwA7F2wRTxQ0y8uIhLo5nX1DkXjqzEv7wtM0
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Sapporo-Hibachi-and-Sushi-Bar
 
 ---

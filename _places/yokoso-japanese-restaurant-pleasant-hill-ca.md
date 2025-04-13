@@ -8,7 +8,7 @@ cityName: Pleasant Hill
 place_id: ChIJFUdfMTlhhYARIJHjak4OWRc
 photos:
   - name: >-
-      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AUy1YQ1E_dTx9ekhjpyP41MTGL5kU6YbH7a6OhOm_P-LAHiBz8osw2ef_OMfaJ2XJqSHptZRmqC0g8myIqui-O0MN1zr-EsFahYmuFbw-FzOsenfIEB-QfYfC0hAi0yRfBgr60ju9PGoXenljlPpFE6_5D5qLynkVj-vIpis9A7060PtMohYbTJvObuPCMCwYIGtqqXjABH_dmd15dpC-Glx2GvfyhDyd5pRq21PkOpMtOF4HyF8bqO7aaZJjq1WZsXop6RKAvIe4tKBPTs9-J4HbOHp_YbXPrW4oguwOlFXKSnqD8QuvK1pFRJj3LJgRurCfbEk70vp5_2Wp8JQiyM2G8SGNiqxsLFkAHw5_caM9r6L7uhG8W9fYock8PSPpleJ5scGxfSE7rst65TVLQcwGW2LhpvVmcHvNFS-BG6ZmTsrQzpu
+      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AeeoHcL32Xl9nWtzWwSbZJ3t0xE8ldK1n5jbrVX0Nky8yk6M36pm1HcXzN4i3giWCacMy8FZ6jQPHLvELeTVRm33guKBG3Y-Q-mK_cyEEU8CBCMhbyCRd5rU_7ALFLCcAhYPR_LilLLjICV6RHel2TaeNApxQfXbQ3M5zvf1D2UChqmbGvPN0NrX55zvIAPvKikCvq71vj7JzEZMC8kYmxMxdviHu6jc7dF4nbTITuiG1ZRL1UJHqaX0AQdzBh4OwfsrXv17QSx9FRwTHo7Nc9n9r_yyLFqJxPCYtEM6BH60l8vIKRlOBSY3s0lJor9zx8C2TfXJp4vJfk6JIE0fv3afxB06cRRNaOyn3S4IvoqpGvIw4dMIOHsQ4xc8M33pm9i72X7Qry5kUw972GuzV1sVaxXNQHv9vRk2b4VZ7Sx0kor-Yg8t
     widthPx: 4800
     heightPx: 2700
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4vtLMpQE!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
   - name: >-
-      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AUy1YQ0oO8HQfqmeG54S10k8douyOC_hfe3ovxUqujkPnq3Lk37NH-nrRGkbY99Ni730SPU5Mncb1JntjHtkctpFgVaWRSbMg-LJfElvIwPS_cFNjrAGgNrA38RuoHeBdcMCoO1BmKjvtuyQi1FEAnXJ0CDDqgypUrpX7vVpP70hMSjPG4T6yikJ8l66esuxO7Xtx41yecS5q0RZodxBdQmh9q0_O06XJmutH5CF6qPdWrJtpNWsjJ6DRb-RYuJT1mgPaKGA4Ksw7mfiAmMCbbwiJGg-4EX_JuBT794nfiBciEENyg
+      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AeeoHcJ5sCgQ5hSnyvQsyb8dcDnetJDgLdcpjoUEHIk9yCR4pcXu4RmHR_8mPb15QAhxOnWbqPV3oiLVzrRnUOYvA_CXo829UihwLyaYaQRMSiHQ22q6kPx0P-Tc-XFe0ZIQmcfhCWE7dFMZcC4epkwAohfG-Z29xhKSikwQCyb3oyljHlkQhY05xErJ6xKol3a3H4fvw2T71IfMjSls90lIuUPAarCC6agNcXzMykS12VqPJQmA1zHkRkLgvgnFMNJqRebPy-qXWRy5oot2iNQow2zfOaffVXWDhZ3hlqCLcwJS8Q
     widthPx: 3840
     heightPx: 2561
     authorAttributions:
@@ -34,7 +34,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN83X109F_E-o3f9OYiW79PNCz48Yph3z2KqKyD!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
   - name: >-
-      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AUy1YQ3DC-wOHAOPtRgUsIGl9iV0RSVxIujC-BmWB5S-SRNd-u3xh4RM-QNMM4F5KMlFHc7hkLdEajTs2OyABgF2RoMGOHbTCuMxUqrda7PYs1ScPtjcGjJT3RCWmxUOJBygtECDlMGHQLCNHHNG2FLXY6VGrm_KH0Sr8IqFZWFd6s3H2vXUPD58ncT0PwUe6ugsx27KKbUCDvIAsY2md7tegsdgp9aDn1S5I4IBqi2bK9_DD7pbgiLutC2FQYAsH7uNpqO6Pkn-8vj9JDBn89XPHkAe4cWOIng4Ea87dSO7D0pVgw
+      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AeeoHcI8Vkr0DGWT83jwYJfo3Itf5wJy9tnDeTC17QOI1mAVM-F1YTY9iXmj37cKSavfBLZqWvs2puCPeKxNQi6lOXxzZb_dYb6o4y9F3YTnNg5CxiSxf1gCUiNYJUtlAsCYF8iN3ayv30YsXnVUKWOHLojByOwrvzd5180Jh55XxAJoUKULdN_-mBD36NHJyGtnA_ph9UGrm-PLMVBVmkYhmu4-izPNOWCe_FEssa9dQ4R-jPHf3o40OeLu62KFg9xJ6PST9Lacn4KtMMdbpAJhuawSdHDQVXK7SxqwJKJdjns4zg
+    widthPx: 3720
+    heightPx: 2790
+    authorAttributions:
+      - displayName: Yokoso Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/100534892950885806824
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVs1afH0lMVF8oNE8ayOXDj5N9rsw1Asm3OpO6rm8f3cBo_VtY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM-hX3nFw8_9bzYfSs8XJl74pRgf8AKkMDVOQSA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM-hX3nFw8_9bzYfSs8XJl74pRgf8AKkMDVOQSA!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
+  - name: >-
+      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AeeoHcLHOlASbZQ_wDUU1RgnbVaPKcwCjEmRaYukCXNtsK0g0zQd-DArzy60qotXtL3EOd3JENT-Q4RP8ocw8KEcgtvicrZecm4MACg5gWzqUxj13pAUMnMXahki9YQX6eo6ivW8vCsMnoc54VwrWJDk9Y1A0beqCC_ngxuKF6Eq87uxrUFnJS7LR27J5NdA7fLIPhjX6BpO2JijzJTCSAIN1PuUfw69ft9ocKF0ykUMFVckxC2PNiIXeVGvGKcYTi1Vb7dwGj_GPFGtL1G--dLbbvFbCqlFXuyCLHDsEkdVaB61DQ
     widthPx: 3840
     heightPx: 2561
     authorAttributions:
@@ -43,11 +56,24 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVs1afH0lMVF8oNE8ayOXDj5N9rsw1Asm3OpO6rm8f3cBo_VtY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOWGpYZ0uiq2Xxaj3tG6-oa6IHaVIAczph9uMGD&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNpttpe3k4l3vuaPeeQ0BsBgjADJCRzro8h7S6h&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOWGpYZ0uiq2Xxaj3tG6-oa6IHaVIAczph9uMGD!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNpttpe3k4l3vuaPeeQ0BsBgjADJCRzro8h7S6h!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
   - name: >-
-      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AUy1YQ3gaWYLCKXzYYQaH1VrcNvyXFtIzQsx00Yg5RhvXWOpS9UcimxTKs2TSFudCS6T1YdJXax2TAmB62bCRk5SApvGUDH3RpuGPn9waAU5rOuv9xidPZqroc_ZLNNsZuGFgRLrctlpqWL_pYOwuEhi1q3xxlfVBmf3OvnqOInT7Ft99vmADkP-kiZMwAolDm4omaXWFnzrGFln-boN-LlFvvlx6PSnwbWYAKAePZnAU_7PDn0nfARpyxrwBQW7llHXKMFe4ouZf-RGHY8KCDseubfnEQgdS3QMDbprCZHBcLhyXg
+      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AeeoHcLPlnGQtAsqEZ5Wf058zBbIR0e1LIjJ5EbRYRIL4Kv35563Dv5z9-mh4uVsrLunQsg1jP_xarPU-HzpWmQCSjY0-jMoimfL3Mun1Lsn_CNGovFrajbEqx5_ub2QQ3K98Na8-fkhiON2Sn2oERa1vOnWS56wVDRW7BhO_y0oVwrXagMHQfcglc3l5_rMus6CcZoK5PnIUCcgTsbTTTB7oro5pOh-wk94Eb6vPjbfhvKjRf_tWAFynD2i9w5YCs15Fyw869AFvsJ-kpxecljjXx8o9zQSIRFUMMRjr-TycVb1hw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Yokoso Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/100534892950885806824
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVs1afH0lMVF8oNE8ayOXDj5N9rsw1Asm3OpO6rm8f3cBo_VtY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNyQTAIc_VeuHbRfVe0gT3HTaTDdP-aN2Tl-tOS&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNyQTAIc_VeuHbRfVe0gT3HTaTDdP-aN2Tl-tOS!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
+  - name: >-
+      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AeeoHcLXMeAhQvzkaAhu-Ij56TjitxdMi4_nvmTKZmDYgmz5LoY-z_GMuqngJbKhL8tkksKb3iB8yOTkgYkhG-6klAmvdynLmeYtDTa6oipPbv5R_-ZLuN0ii-78HX3254HX_uUYHM3RlHpZWqSd2n4yUg6JPq9fn8oN_ch2dtbOiHPr35paqVS7ofB2Xy2VSnWIgrL4fAbtKIJDU1H2oP1s0T4vX5_0nnHWAkRWRzXMrAwAzpIiVQFf0chR8ywFFe3aLRuqup_op_GwMj0HSDtJ-SLDzC2bEavkEJAjpX5wyrZdRg
     widthPx: 3840
     heightPx: 2561
     authorAttributions:
@@ -60,33 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMXo5npewir9EoALU__dzTzCCw33mfxyTJelqKH!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
   - name: >-
-      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AUy1YQ0RgvnQn6-CbqCTsfoarz1QSrvSLfrqk9Wflz_Ebw5xEabKeUE6nCib3K7vYtelASgNsSmd-WIFQOZwIamgAPXwR9-N9HODV846bvv0u3KqSmTy6ezuFDWZBuCaqBUtXTPeynVBOajyY5zyq2RJL62u7ZIanjCF5KrzcA4LEGQTTdIHrllrTRzM9294YPkXHTPRnM0v8wF-Fs2ujaYPFf9iFHoeXLfX91uhBMtfjN67tT2NFsJGGjJNjqVlmt3SDRfvqWfs7csLdsVAwheCuTlBxAQhHH4OpJKzmAl3us_Dtw
-    widthPx: 3840
-    heightPx: 2561
-    authorAttributions:
-      - displayName: Yokoso Japanese Restaurant
-        uri: https://maps.google.com/maps/contrib/100534892950885806824
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVs1afH0lMVF8oNE8ayOXDj5N9rsw1Asm3OpO6rm8f3cBo_VtY=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMHxZ8A6MSlDK9dkExpBiS0169tjx02faPgCUt3&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMHxZ8A6MSlDK9dkExpBiS0169tjx02faPgCUt3!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
-  - name: >-
-      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AUy1YQ1XJAKY6vwblvAVgxbTSEH6fbtT2B21YCMLpETpoSK_OPSLKOJEwW5Uak3CqGWSVMIATD1-7eFK0FoWfybkBV877u3KNtEFKgxFq8HfCkgitaoxhM1Ll3-ZroyP36wJRYGFxHRgXagKOsPh0ouZgoy64vortriVj3mGclt4Tvv-fecqKmMRfbHN5nDmLcxilP1ycELEmkuBykMutX_a2OFv9b9IcDRPZDe4zjO0d7eHdG2WgLkGUdmin5sjT4AenhySW8-0eu_fJroDr8WScYFWE3a1HUQvZaAwpYw0H7ZH7w
-    widthPx: 3840
-    heightPx: 2561
-    authorAttributions:
-      - displayName: Yokoso Japanese Restaurant
-        uri: https://maps.google.com/maps/contrib/100534892950885806824
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVs1afH0lMVF8oNE8ayOXDj5N9rsw1Asm3OpO6rm8f3cBo_VtY=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNB--ugZaIXXb8t2ATUAYIGoTyRz5nVcNZZ5n2b&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNB--ugZaIXXb8t2ATUAYIGoTyRz5nVcNZZ5n2b!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
-  - name: >-
-      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AUy1YQ1pl9QXh2N5WLEMVh4_pd5YeKH2mLZ4RcVhATjeBHCSY6727tx9ZvgFklgh0E6jsiqgw1pN_hfzVm3uuqZP2C-PiGZYsEOkQ13_xWhOw82RstRVS9T2rURBo2HMGiKjG0UG3aWcAsaM_Y-NyuemQ8tV38Ad7F_Jy6IhidkwUN1oMhCIvOV4gMboY6PI7D5uT0ruNEo0TZHsdzOKXVFtgC7ES71_5MO9yVuNGNxi6AAwH6VSlWk9DylXjspoFnsGJGy739XvaKcZEbQYt7EYuuXp_AK5UwrUT1dQ-1KHKFiqcw
+      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AeeoHcJWewv9a0YPOgNpeBaQY5VgQv-C4UYGDK9QlNOvKGrUZyH58V6s-1a3EDpKkRApmXQUHh6QlsE-y_r2f40Ugq33gJ2ljyBss2Qd2KJTHZ0d2rk5jBs9Am4jilFJLhyvaIS2Njo4Z2WPStfeVoOoHLyEpdiuoimFYAdBwXzenwayvshtrNMeDCxGf8BeyQtY2Xrwg5sgL4YdxYkmhd7w7fQlxpP0gufJ9bVADXJ-7NEdkP6BqT0Zj4hO-oXBUq6nqZnJ3zSjRZKqavwOSqyDNnzSnGlRy_r_1ZETlZtDBS_4kg
     widthPx: 3840
     heightPx: 2561
     authorAttributions:
@@ -99,7 +99,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO4PbYW6so8O_wRt2oAmVeoh6YkjioVUcT4so6y!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
   - name: >-
-      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AUy1YQ0MadCJ3CchjruJD_pR5bwI9YokDZnboFFD_OiLOWeuQ7uhFJlSc3J-qc-IdPezU6sM5UD4P7hqtapO7ZNzxTf6VYeMyha-FmoIzSxjucIY86emO_2_e0Ho2nV3WYnp-u6g-GafCVxnumbCi5nxuXev_mR0fgbABeZAv5CKyudn_X4Bw6uYa2WhR06C3fdguhxetVsCU8tD6UIdCVkaDLrsSJ3ws3M8iD6HRocRzlKzexkOFvSVsk3waprjhJt8bCGpIktDeGABzaIABiKWpB-XtBbYqZd-KcE5EcBryn7_jg
+      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AeeoHcJ6nx-n8VvQtepctEeHBeHVoy7D_TPqj6O7TdkIHnrV6FK28qT0Ee1EdtZStvUL--keOUQCO5jo-Ki9Q_Gpjwij4IiNU6nKVV0x32Rdpj5ljNRxa-4BixDyVMmTkobcoYQcO4Y0pI9-1bjGBGhtpd7MIR2y0OldKjxVvGx0K2cCs0-yEUhKMLXqFQlamx8GNZtn2DDo_Df7J-7QncwvKaPGYn274mGHVXN2ozDC4kIAKkD2FCpplScNNqLRuRhC_Fvl0bwGQCBbWPHywf-nhTuWjAQkVLbt5GSo2KGBS5UBqQ
+    widthPx: 3840
+    heightPx: 2561
+    authorAttributions:
+      - displayName: Yokoso Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/100534892950885806824
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVs1afH0lMVF8oNE8ayOXDj5N9rsw1Asm3OpO6rm8f3cBo_VtY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNB--ugZaIXXb8t2ATUAYIGoTyRz5nVcNZZ5n2b&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNB--ugZaIXXb8t2ATUAYIGoTyRz5nVcNZZ5n2b!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
+  - name: >-
+      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AeeoHcLISxKUPM6o7bFpITqOMEjYzNaapCxxBKQ91qX0en-d_f-HO_5uzd8GjQlAAi-gH60EiWtmqqJlU8f4yOYIPtCF-KZHhVBdO1JXxVy-B5ohn3CuW95K0nY9JpwnvvG0KEKW-FDc9kw7DH5YsgtICz_X2G5KV9eWu6lQfX_mAyS1tiWWUizMfLeBi7FG34p_1yOQbZikRslhbJygauaynz05OfaK8eaxkhPHsN_wADCZaYaECzyN4ZYATmRp0ltNWHJW2dV3nMQEVd9FcYC60z0k8uCDjjXode9RNGxA8z3SBg
+    widthPx: 3840
+    heightPx: 2561
+    authorAttributions:
+      - displayName: Yokoso Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/100534892950885806824
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVs1afH0lMVF8oNE8ayOXDj5N9rsw1Asm3OpO6rm8f3cBo_VtY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMHxZ8A6MSlDK9dkExpBiS0169tjx02faPgCUt3&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMHxZ8A6MSlDK9dkExpBiS0169tjx02faPgCUt3!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
+  - name: >-
+      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AeeoHcKzSedHXgts5CM7_MtbdloDlunEa8ISBZvRKiuqM05EOqYo59MUhDc1zrS7syfwVz-5HwkV7S5uaPYrgpz82BS-n5GmbMrK3pHVOqpAW_5I9yblVOf454c0Q4M8WI42sVucOchvTjFsJHii1oshRIkA1dJqnlcGpabKccnKVptDYACKOhsR6P9cm2v2ynm79TQXqT3XnML0SslF23_rtCcz99RGEVfuz2YNgi_ygNgMzX4VMQgrf9g_UtHYKOncPPNTDLJsguC3Bc7YAXdHHzpyFLvMHBWovOV8dqrFo-mFJw
     widthPx: 3840
     heightPx: 2561
     authorAttributions:
@@ -111,32 +137,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPGUx06vfCBoE-0V6SiwyKYieBfYoBCWsrT1THR&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPGUx06vfCBoE-0V6SiwyKYieBfYoBCWsrT1THR!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
-  - name: >-
-      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AUy1YQ3Rq5PsVTjXczzT0Dp2k6uWHymYOlI1Ve6ACY1SRfqqeoNAV4r-rjBTUfczjiPcirkNFebrmWVmCAJrIJ6lbELObr9eVCTnxg_blpxjZqP363I2hxai0W_yIyvuy7m9keJfw0zvCiHP2ZQwJ6q_240nVnD7F5vEikQyR8JxFm5LhGPanbfeV-53e3WpZUoIVJ75Umg3yEq2PSE2n5aVjaOxGdBRNQn3-lygB2dXT5qxe5RAmAGbfnNx9Nu9KAiz1DQGZXkPqFIodfFT7wyqAJkxdVnZ_AfULRQQnKmt7LvKFw
-    widthPx: 3840
-    heightPx: 2561
-    authorAttributions:
-      - displayName: Yokoso Japanese Restaurant
-        uri: https://maps.google.com/maps/contrib/100534892950885806824
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVs1afH0lMVF8oNE8ayOXDj5N9rsw1Asm3OpO6rm8f3cBo_VtY=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM9BBEyCw7eJeVxflKKGWG69s9lI1tdodTSwsgM&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM9BBEyCw7eJeVxflKKGWG69s9lI1tdodTSwsgM!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
-  - name: >-
-      places/ChIJFUdfMTlhhYARIJHjak4OWRc/photos/AUy1YQ3XRk22H4Humll887I42hKvn8P-WzU_--zvL_LwMomdpzKOdMLAun6g01ris7yFgbJ2ISSjqP8NHIx62PxnlMLitWqige34mkENb4wik-z6yPPnxpjq_S9iM1nrNXgkS56jRIK2nFJvTE_PU7mnFnqqxdg3vj_UFm0j-kWn23FFUwMDd2NG9BAnuZJpUm26kPPkJc6GPnQWZal1oNuS0WpmXCPfmE6MiW9nIra-Wd1wDgAZdobAQbpqNDZuUI8DIjY63imKfTJNJSleoPqPA44QhYOdJrqx9SyaNOQ_5d3SdxaXQqbnfc7pf9iBW_0OkfnLOzCFC0D6MBbZ5y3PAdZ9ZKjdCMNjC6lM2xGJmL3uVMG-_ze1lZvm1gN4Y7AV2itJyR85GFU8FAgsYP3_ZnPw5ICqispV1OqPTSF1WgKNbG6V
-    widthPx: 4080
-    heightPx: 3072
-    authorAttributions:
-      - displayName: Teri Norbye
-        uri: https://maps.google.com/maps/contrib/103664191410077235399
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIZRW5ws-AUwR2OYxVLNeOxXjqyugg2O5Acft_00ifJC1A0e0kj=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_iojP8gE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_iojP8gE!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
 address: 2380 D, Monument Blvd, Pleasant Hill, CA 94523, USA
 street: 2380 D, Monument Blvd
 city: Pleasant Hill
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Yokoso-Japanese-Restaurant
 
 ---

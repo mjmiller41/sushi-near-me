@@ -8,7 +8,7 @@ cityName: Barrington
 place_id: ChIJL9bU49qgD4gRVOkkdzfsf8Q
 photos:
   - name: >-
-      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AUy1YQ10yeuNlXu4Vtiu5FVJiPlAMaYJaqOOVXfeZyLDVVdJNOrQfPCKFXdApJm_UOni97dhQXNbO3czIqlhH8tp08LWu3rsz33-Q8AuQJsdiaoVRCgYJPVHIELjG2zBdzO1xz_eWg72rPlCO_7vJIrEcf7a9Uehe4ZD06G_wcZYWLKjvt38Uix_fQHjYGpl4_UALCnTwnMU5hQ8v56rRBP1s4ZSRnbmSuLJHFUyTdple2zlUgj0ncMojXfbENJT8e25xTPtTZVdRm8mnNMncPe8ZOOe1PfAvnz7QICnuLRU2KBPyg
+      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AeeoHcJ33HJ5L-PzCXdOpnbTdQTh-1lVpvImYFWjIQJoEtyGQz93RmXqp5treEGWPIf2ATBkkWrlp11IuCvDWfl1sueTFJ3iTNSp3F468D_jrqc7uHjB7DzzPAaX7ql6N0M03KCFPfhBubMFzQKJJo0mJ8mrVa2kEM_wa82CptPx5s1F7EGAXWsOCFZpTbtb9aW-x482Uh9VE47jDfiFJIfJ2lKbcG-xuz7PQvxAm4YrlrsxE7W5CHc_o2ZqpGlGuZ-Oe9e-09yUunc78HOJBRuCugAWuELfRxQ__G1TsiMpIn4vFg
     widthPx: 3000
     heightPx: 2000
     authorAttributions:
@@ -21,20 +21,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMmAGdDOfH42B04JAt6d8-26A2_h3ssP0-RKQ3v!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
   - name: >-
-      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AUy1YQ1AnJcqbYsFS9bfQMao0-RLGloXShsiyFh2RectCp2SUu8K3XKOsCe9rTS3x4QYXYzg-PTxmuQXDRFb-tO6V0GhV62VUdO8iTLtvHhTh6YgnoRa_Rdm5evF2ClvdBepicVqOvVHogMiWpJ7yiv0tSMkwUYOonVQ3GPPPsrVe2OOemp53WGnPuswFkSBgHXKSNxZtsEcP3GmBvU7p5q7F3ufvDgW7_S65xWNA6XPNIEbqwiZ4DBin9MK0wSDqp_FIae2pAWLk4RbTs_f_3cF6bKN8Jy1c-3ByticuCCtFr5__1KW2eAp-1UjFIQcY_8vm-VIQlRwAhh6vAHMb9aMoyUoi748cT-3AsIflf6HOJ1_wb7QiOaxnMqwt2Wkcft-LMFPGxXRK39iVH9JwOtgGWyAqGattYsjgAuXp-oJCsUl33W0
-    widthPx: 3654
-    heightPx: 2055
+      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AeeoHcKdZ2tC0FmkFiF-l_ka0zPgnj6Dg9ZRiFiUgiBYCZZgtFhIaS7BMVQBnKuMN7sBBNg5slGg28FhTfjDNDH-VFfYZwxUfbqsjJhJoRd9zCZKBS8qn2bG2P0l7ieEAlHmU6V6RqmlfWl79z3MhPbZ89JgZCkN8Ks_p1SQd6bdZeP62AG-1C5lwDFR4loP6Mnt77nu6bNZgmSeKyE0J-piUxQrRWcr0LSc0ng221M5OyyiGLCI6GTqq-Ly_354aEnMa4l_L2-BsKT7kfd-s4CE4KPBLCRVzLlh59MNx9DpipQpnWXoB3z7a_iLZWMt36UwYaTqdSfHUhIYSt-QXSeVQrVzkv7QT-FdYbou17H7urdqDr0-Zyi-X9bag8dnKGgXPXVfwhZgDYxGwNWqeYdJ4TBKRzJtoM0HYBRk2ll-RxE
+    widthPx: 1800
+    heightPx: 2593
     authorAttributions:
-      - displayName: Mark Pitts
-        uri: https://maps.google.com/maps/contrib/109375489056646986357
+      - displayName: Eva Tatkowski
+        uri: https://maps.google.com/maps/contrib/100312656791323746029
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUhL25m2LHb8AMOI-x_BPZ0wqBZ1vnR72PqgVAUnwa7Xzf-ulgT=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocI6DW7jUp-XkQ2D31-dn4LB4yzXeE3rB5-szXVnWZNFDVQ8PA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7ivqVlwE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIj7rCIQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7ivqVlwE!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIj7rCIQ!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
   - name: >-
-      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AUy1YQ02h8sZkYszxmHn7yBKSAbdzbC_SXZOUtR_Eg6_RQTuxdV0l-VidtA3TXaCP6dXo8ApkTtdzCkay9vZ-0gKGomxy8keJAUsUQA7dqYDDuAchUzSx8zDbP0zMFxenj0ySb5zZzY5DOmZDy05iXX6D9sup4W1TPm66NvHF7RHy22DG8CLysL1lFjqC4Ndkxoy3pkEkaVb4EhU0lYTrTp6u8DU_Wzg0UUJDNXz91WT4eg2aBzp8FLgV1LdXQd0vJ1Y0fPmXGWHqCwxbNgFM0RKS_K5T7l28rfwxcHA3L3OcBUUsg
+      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AeeoHcJXJmdYOa1byi8QBwUq36iZ8ph0HZE7QHcj7A54kqvjL8PD6gzeEAOw2AyDUfG-j5NArjAXHC89zjH_mMdBJrx8pxpVKla7Li8lvtrJt-RVqTicuTP8JOoEn7UuEYw4pf0Xkp4u17ARYNGVTDaDFqZIVyVCuWIuuFB_G2IMkvDNoTwPVE5nz-zfwdTxs2ZKiKefqpSB3v4i1-xPH6_mGcykynmLm9beRTbdf0V_Ut69AzYDxd_O7rARcnvTwfZFWtnFAnNLvc3pin9jVwmse2owAwJXcK5Q9vlOLM8Omg1t_Q
     widthPx: 2048
     heightPx: 1766
     authorAttributions:
@@ -47,7 +47,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM4V7Fu-OUvoCJ7iqnuV6g_mXQ8gdurjnYU-bS2!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
   - name: >-
-      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AUy1YQ0MPYw1g8E_GqvAZf83M3czfVH1KNODKC5CH0n1GPWp66RzaPwAEp22bgm6J9qAdyorFFCNQNuknKZlG_WpZIf4FC-mrW3dLYW4nBoVYDNFymeLCXowwk4C2KpL9j0VdncognbDXFgWuRlYwPMJQ0JURIjgMCTidV7L9Sw5rtFcHJ2ElXggA6_ZlMAe7HuZXuFXP-MnXYMjELsb6tNOI4ggjhrfynlxpPahSs73Tre2DnZ4_pG5nhfmDvP31IO11AHB4VxVtPTrdmHluO7BW9D0eqmmvIWMMaWECoz6P3I6qN51iSHxren-_ngQ_d7UsSaEzkzf8lXjDJw6YKgFZaT_lQ4ubooip90F4YKWJGY0E3zL72M7yBi5rL_iPATB5o5HkzvEIg1qVSbGNzgVlLnmtKUjRqml_GjAJ2YI5kK8FN4
+      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AeeoHcK_tX9w9DWMFcpeQsoyJ09gm_iMBHppGYT5SFoHTlqCLUxUGsDyQga8FC77P75MXIgHSFZzmMAejk6One4rXZMm8rZcDeRrMHUgAylQuCB1o8G5ekwvwZab8Zuu5Gfb7hCCGgEuCQZtHrGo19fsyjsz06D-4ZCkTNq7IiYt0AWzHBNVarYL0jxuT5famYacHiBtu8d6Rs4ErWdvN29xJ9XUZV0FBDI8a2uIlB5Yr2_pPzn6J9mckJfGsXyKUWlf-wb0OudAAG7tEN6t9_Pxg6NE_AJufZdjf_DI3_pFQ3-zivNENwM9DL3YnzG9KqorbAW2tMz0_1XKVw8lIUOpVaEyd4gas4_1bNh0vilKPzKeshYzAZE8cAYE9lSSq7kqfiO9jTELbQaWiuOEHkk81o3x7KQ3DIA5S0HPf0r7hXmILybL
+    widthPx: 3654
+    heightPx: 2055
+    authorAttributions:
+      - displayName: Mark Pitts
+        uri: https://maps.google.com/maps/contrib/109375489056646986357
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhL25m2LHb8AMOI-x_BPZ0wqBZ1vnR72PqgVAUnwa7Xzf-ulgT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7ivqVlwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7ivqVlwE!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
+  - name: >-
+      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AeeoHcLCJCV21qGLUqXq-gI3vsnruN4mBUIA6PW9zFETAJ_THOHKC5B7v3fThvZwrQv1tdjbe4exVZMgJ-CgzPqAhm5hY8hRhg3zPCYJVyl3wlc4XyDblj7ZQt-Ha2Ht2GcFfIYSHR3vu00eNChwcLuSerm7F_iaSZ-TlapaFFM0vJ3TKeK5Tx1a7XgiwA-9CRplZdXOGlHknwjVgkgAu8pVfSZOeoh8yjpdfQXB0rFbvOtDxCNq5vNPoB6Jt3zNPy7R45EdzPU2saFHlnTukWJ5gfDkqi5z49-ukvsUom8g83fZJG-GjRiNQC18ScwXZlRCoTY6HbTDBzMhT4vBQwgAlWHWIC-NW9R6i3K2KCXnYAMZAl8X6sXj_9DWy_Cp6I4SXcbR4Va8Lxzegzv49KxWn7WTTB1eHNe6aiedk4Xxvph_L_8
+    widthPx: 3725
+    heightPx: 1778
+    authorAttributions:
+      - displayName: Eva Tatkowski
+        uri: https://maps.google.com/maps/contrib/100312656791323746029
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI6DW7jUp-XkQ2D31-dn4LB4yzXeE3rB5-szXVnWZNFDVQ8PA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIj7rCwQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIj7rCwQE!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
+  - name: >-
+      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AeeoHcLQ9rp2HNd7LKaA5QpbB-_Qc1iqw0gYfyk210sOqn395-BY9EDTsUsBfGzITU2CsWEd7vc-tz7EwGaPV0tyhUz44CRRBoylfWG0cc56EKF3uJtJLL2oITxLpN_Rldb4b8b7cI7ogSrgFI4bWYtEnOuAbJDsDYdF5tZp1nyHNcnVQ5BxDzD7-h7vkR_hP08BKnji4e6a_X1T8Szsg888F7Aq6P0RJg4sKNeMV9GR9S88wEnWXrvmDqZjNdfgF3RvhR8V2TSAUido5DiLJU_E-kBP6lU1EVpc6HZaLAiQQusL0FRfzVo_eExVdcYQpq8XjzfGBaKL8RGEzKxRUMObBzh-B0RDSwMqsMpVqqa--3jQm-AMtndhXkwFoL4sJw5WElJFJI2L3ntgL2aJ4-AVZnIqEKuZBDF6upDHpwZg9nnlxy8
     widthPx: 2048
     heightPx: 1364
     authorAttributions:
@@ -60,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7l-_33wE!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
   - name: >-
-      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AUy1YQ3JQJLgEscPMP0U_9GYKa4my3hIwO1eF-FHfW3kPdOC3HTqhrqb70foA5zDmzC0lv7YQIUCQDqRTrfO66_Ldv7A7rpO8soYcaxpKJAitFd8FmP6lf9dWVVmy0WNe4_GUGw6XN0eEaM-3aGOeTpC5j3suxmH2Cmf_BDtOju5s5nyvhrrgu7TAM3H_R2lOYIkc-dyoy1BpcZcpJirX5V279qd4fQqPNmEj6Ab8aWNSKepJUq9CPMagD6RRay8YNefkjH6_qER2Wyqq0fczMaEBgr20yyajwa60GlYIYLSq24M8pOYFXVpKfxhVZMQd9M45s4PEnSuXCQWTRQ06PQeqL2MfnT0QUaXfaIkqMv6GSIyZ54XpaHT-tpqXZzLyOBe01UhPbV64NsHGB3p-1rnvEjDS161Yoxrk5JdiZ_0Q1WaFOg
+      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AeeoHcIh_vFtIloiN29lgEsQFIPdoyLkQLfSds26Ei-DXwdGbClGUCXOcj5bU99lWSVKgy1nBiFDJcfbZmmnn5REh_ZfQoecVwzeoDt5GxpvXDtxdk7JR3SaLNEX4Ruq7BoszV8TER72h586OUPPMELmMv1uFTipxyJScINDti59adWucFHHarB5v_0vDTrx8Y9eynrI1pliSOEcNo7h10vYfB75WSXwf_sho-hutIKe4voPNhdquro5MCAkWij10q5zNfA4mTY0glsJQCbEHG6XOONU_ihPAwasDhOuaz6-XdmMpC1FhNkp_YNOAURKFdh7uRsApRvBi7z37e7DzFki03tFjCqe3AHFpWfrY5ZfMjaZHmMOcYwndDZt4syX9QsxYtrsuvz2KFhqpatTt2nOmdwbk2oi4BdIS0r1oexzrgW5NRk
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -73,20 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRxaekrQE!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
   - name: >-
-      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AUy1YQ24MLo4AbU4dQjQHLwhPSqIOE95uhEAzuBn3tMGoyhO9yT1YjJVsPX6LTfEraI1QMYyAn3bKLzWW6w3fHfceAxgAhcLtZ6sHCIH514caPwOvfMrAySkXYc8dV6iVJMWINmygWOcgOIzBXjJ3tVPZR2fC0yU3_NW6LIy9RqIZ3V_LEND9rtStqxoO9SxfWIAY3U06kiCLDvIUzmXx4fXtqaIFaLCVRUCd7Be5d5D4TT9cT68VQ01YkrbmHlh01Zfmvv_oOdfmnx6tEADPaZvdyIWWefuJ9rJ70THJVr4LSx7iR2JlgJp-qp63CdYZs_GeqIUThQRICOSXGf_QXBo5uSX9YaMHaZP4gFWS1lg5cQUT-4GGvT7F5mvaMeXdxP4qfXaoAQhp4_0fLfF9QOXjEJvmVosOlKMagscL1Adf6qk8A
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Mark Pitts
-        uri: https://maps.google.com/maps/contrib/109375489056646986357
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUhL25m2LHb8AMOI-x_BPZ0wqBZ1vnR72PqgVAUnwa7Xzf-ulgT=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7ivqVBw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7ivqVBw!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
-  - name: >-
-      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AUy1YQ31f6i2OB1OV-Lf-HsJjAGU_TGEWsUD_uTb824JpAg5o13CGCJDkdsUSLHzmMpQ7KEM0Xs6kK0Z1RjgH8kyssIWaeQFnn2XxBI3QodmOD1E1JWlqHI1s9FE_lCeYMfNCYfstUmMgohWtuz7v92-DdN8pO1JEJ06jEIxcI2GG5l0oJkOfBLdiC8hbmVrc4ZdOtucElbFAzH3Vynlf7LSeBC2LgSMXoSnPZs5rId0uJ3UdlVLQCRnAkzmN9ahw9-qOkb-rfTAkA74idt0ydKNCqXrTi2P5brImewqbOJfK1r_xYge5zftBUHygPqDFcQ1QO4cdKuHFzyHqlEfZC539xkDWzukvHVtu6pxPQ2Vg_LBR6lnNZa3vBoVIwkoRWZJ9KpPJNQ4MrIuDg9CxcX4BZKYlrKwPaiRL801kYj9WEFb_w
+      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AeeoHcI-47TQ-iedEoS9egaG6CQ2ov2A5F2v7hcImiQlv0qdPPBedn_YizjwSgpuuGwMonzImQCbwRoXWMAOCgqOsHtk_m_yziN-FMmCUjamdSQ0Nm5gB_NwKYfTmrYXvS0T2bnQKhbZ00MPX_LC4_o2PnU2fcvTPbzs7HKhWHykggUA3-ZwOZ-dlamx34eWccdLJcLX2Gw1lZv_BXYP1nyBFhseCzbnef5jqAzVv7SFnlRjT92yv6FeDpu5-ZxCY5EQrIyvIbgSmrcFG7I8Hxk0C3tATx-s7E-wAAPL4nb7ct_zP6NFlgjoUyNWRre3UL0RhZwIuAeZj3Ad4OJBEHq7K3D0VukgvL7f06ctHZGIBcNTZarp8IpwKj3k9XKNlJJkrI4_aIVO75P3Mztslq6ZI5zLPeS4MKlLSSk7hLK7WvtyFQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -99,7 +112,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHoryJQw!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
   - name: >-
-      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AUy1YQ3g3hebTXB3KOQJgiAWwHDRWUpmVoJr47uAmwGAaG4Tfc0uWxQ05Ao7sjuHTczECGn6pOC3zwrnV1ezIu9KQDFZ0ILaCk1Sj1-YFplsnNNPI96Rg8vsq20ZG6qVeff77_j706VIEWR_Uwp84K_-9IRPvy6HVLwR8BuRjOpNW0lQDNoL98ZQFbInz1qu81W3P49dmYBv22VAPNbrkf22HI6UMq3R5P9Ng_N0xGENrFyNfVWx1h8tHFXDVKrZGTNcYE4xq863sCQzoY54AF1zwvWGDppwCXVpHTvFosQp2ekN4m2z2pWXtYY-H4kcmruROHGKn6T1qPXXc5DI-tICY8fa6UxXEHm6MfBEVo8QEQ0-qWPFLvxT7hZGiYmrUy5Q7S95jzhUFdrfKhbbuMFLlO81VJu6d5KEnVxpOg5fUsBaVtQ
+      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AeeoHcKs6E2_V90gmFGX18kCyWd-GNNW9dBrClXqN8QWHRac4xUUNhWHGGdmj3Bo1JMVs4J50675W-5rCAi48C7igN2Btu6TVdWcBrbCxwxX__b7v-vjO10GV3JYO6Ecwpjg9o8vzBwcPXbmfArXPiaSMetFbkEwO0odRFXzyByd24kHZRaEIGAINNj8ZwdW87XVQWMmaA95CyNX9h-HJAiiVnNU-BTZY0HpkHZvyTMah41GHxbeOKN4SU4fgLJuzBlExNeje3sB36yZjtktNB2mplQTE9jObKQ5c6YGYCtwiZuWBDNTORp3bZGjgulAf-Wt1-tvoH5TsrqytfUTBO27LF2dWTwsgJgpW80hyX2D3We1323Tt8NsuxMBUTNuq4vD2uEtg6X4G46UtKfg6wsRTqnUoYf_ZdvBqc3CLyW7AaailQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mark Pitts
+        uri: https://maps.google.com/maps/contrib/109375489056646986357
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhL25m2LHb8AMOI-x_BPZ0wqBZ1vnR72PqgVAUnwa7Xzf-ulgT=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7ivqVBw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7ivqVBw!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
+  - name: >-
+      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AeeoHcKxJNS2xGWwTQ4SnhjJKJFEUqhIyJLw-YfPQ600my8jTymSSX_iNh1vAvo-zNTqpPF9OiJECZywqDJECv4X7yV083X7YeDHPfnIvZeiSbw_3BKiPNT4LUwifIKdIC5Q5q2T4PVFK-WKl_76lDjl6HVt4I_9matRDUUMSPX2ojMn35Vi3GZ30EAXh8lx5hHd6uU1iuaCqyB6bFvw3XzvHnkIN0e6kDpwmq3dLHF0YRwIVdzLLRd5U432zX-Y3BWbKiZOxKgzc3ySOUGYAfL4DA1hzFX0M3v_w5E75uyhHhZpsWeRoMkioIS8uJih3C9uB957KPCdKs8TRQsKj1CrhPjMw5QWW1NhjeKZXdRClsJuIPWrD0VkPfCfjI2dl3bZguO4r_02Y7SqXsKcsx9fn93BlqIbdL4lCROqZSrnueYlJHc
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -111,32 +137,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXsZebugE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXsZebugE!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
-  - name: >-
-      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AUy1YQ0KZqt2EvhaLoDTINhMKUUzIoYMNsJJudMIv0N_LxXugVVrRGuedtCf9fQX37oxTs8FEf7LLnRdIbt1q0hqrqHtGzxEIq0se-cp51pD3W4x-31A0FKV-JDrF7exIRV_C0eK0bF-4tHJDEGYWByylJpwEgd9NZJ-rXAa1UTUpDATB7e_Q5fulg0AskZmqrmVj3r2qTb2z1-CkZuYOxpl2PrgoN393ybRB86n4Sn-M9yuTrsiduVdQaMUUEuXWI4bgfdvjXOcvxmvU2aAnNs2MTE1xrdNzMx9nB3XM0DtOS-VtxRCr_1XpgOCypma92pB9oZv8-vnEV6RPSbEISYF249KIFaj0efOcKGihkSHpKrvzeM78uZD0s0_I3tlAKTvrAg4kKlTw20-aNv74WTc1jvSCDOtATtTMhwuHPGL9bU
-    widthPx: 1008
-    heightPx: 756
-    authorAttributions:
-      - displayName: Andy Sundling
-        uri: https://maps.google.com/maps/contrib/110862360202399843209
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKlcsgQlwWUKqPiDL4wU-dP3UEOlEFGqyv_m2J6yrXoPLfgnQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcybWVPQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcybWVPQ!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
-  - name: >-
-      places/ChIJL9bU49qgD4gRVOkkdzfsf8Q/photos/AUy1YQ3yua2ZHBwd5lS5SaHtdxrdliXgVhvuXOeCWutMsTASWydI3mbuZ4ieMkhToOO0aYNmmtenbbvaxa74DP44c0m8d58OH81LDQtTgKMY1PrmdHNPW-EjEWEvxYU-eVtsyDx_PhOgNM40ARcVJ9exuzjPr2BLXgjN_fb7Gq8L7m6qzrntUxDEUV-gpySsFZ5wBvm8Ne3jT5T0Hu2XbLltVDdd4SvbFK4b36NeeO10SZmtwpEsb038RKoXMD3_-7a-u2_uTLipdLJgU40L8Yz6dyCVxnvCQBtjtXLRoKxXI-8BPjmo5KeiBXM1fRStkQgw4IsJ_JlWMVe9nSAZQ9UysF9vcP0WHmbtA9Lsq6RzZ0qP7jzQ8b0fCO6WRnpk6vQrSpWkOTsYAoM3Z13qT5dNeGFEWIfoz1JM6C-3Cjcbaeg
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Mark Pitts
-        uri: https://maps.google.com/maps/contrib/109375489056646986357
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUhL25m2LHb8AMOI-x_BPZ0wqBZ1vnR72PqgVAUnwa7Xzf-ulgT=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7ivqVZw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7ivqVZw!2e10!4m2!3m1!1s0x880fa0dae3d4d62f:0xc47fec377724e954
 address: 121 W Main St, Barrington, IL 60010, USA
 street: 121 W Main St
 city: Barrington
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Shakou-Restaurants
 
 ---

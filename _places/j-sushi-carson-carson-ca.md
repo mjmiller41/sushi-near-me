@@ -8,7 +8,7 @@ cityName: Carson
 place_id: ChIJzUyekeE13YARFzOWBulcuoM
 photos:
   - name: >-
-      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AUy1YQ3ZRdJimEEbhVrQnsJHK7COIRxTjRG06ftMuWGeaJiYcjhMfvCowvga4QauPcN746ybaEkAF2ZuYOwvASglOKTcaT0Gs2zFA0Ilzdb3CgY9kqTG9NV5ORSpqfzfmreOtA_OkcrYThpUTIEP-yGoe4z1CscGAB-for6JSY9O61fnjCivkmH1PSJczBYTNhHRGTHBDme1ZeeTWZ6uo4mAsUHcFD91mnpkIyifRwgDVugx1yyNmuyGp8NA4kw4u_ANivoyEF89YXAmfahuJ2qBMjaZNhTVbXPwrH6wKvKj6QEMpA
+      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AeeoHcILji_piozFIgDpvjVI0JdctDGueyI3jv8xpubCuoFAufMW1mubc7iLwnBRNhupl-AMbiWWt_IbtquJPOu7gYdGzM2SkTY81m7glSd1Ys3aLmeS-XrnC3QkYaTwEli1BwRrU8sPJ26wwzSgqjsEOijhNkIVJDxuHLFDAu6xgPMXJfPN4QW5cFG9EmP16TE2A5L-3DdsLmWnl3Qb6H7WDzwRAzttVoAjZSkvd3DnDlGEuHOu6mPM0s6OZTgN7PMKr-ZY184A7VBnpoTdCUdBqTV8tSuR21i2kCrhGrE07sLP9g
     widthPx: 3903
     heightPx: 2641
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNaPNL4rJA1bKUqj5Ft-xEYKQs5u7tzFxFyMVqj!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
   - name: >-
-      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AUy1YQ0AY-RQHj132yD9h2qj0b0afH11xun3FHhIyFGjJZnKgoK6o5IKLnZqnL5_fOkgd_Tx3JQNsp1GYWAJkqOWxHYuOePLPgTeiw54M6wCr4lcXceJMDQRSm_cTdZfFM29bUsx8uXZDTNk7TELZLL6U70DMQw3N63eMZrbdcAg1JHA6ROR-QwqOGCPuy3CL0qiLnLHbg7HjT451ElRFcaJTfJxsVRG9KCIPZuAyugrfdPP089RWZYSRO3mUozoEuqvtgIqEilkfivQua2ioCenxIDxEAgrG3TN2KdB2UFxlCzEog
+      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AeeoHcKQmoxWtPlN1zxjLzE6-a-olDdO8103I1sHzs2ueqdqmbrKYc6cN3r79l8g7UorC82CrOdqdMLWZ11869uAK1OmdJo5fbs2-E5VjxsGdG0bUdRyBsj_pRU6b8cZLxPCFXgUIRMZZA79oQ07BvKAwOLdM_c2-OZqO82aTaPfSzsYQ2xZo03batmYzt06UApFvFpNNpGRdxRuNOYyLshf2z177SnvNEFNoqv4ExPzdoClsqtiFcHRcZgi1OuSDkeemDZbEDlV7IGlMxNqJCgr1lnYvoSHiGLZ8f3m8ZYll2cYNQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -34,7 +34,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMdcCb9p9yvgn95Tf7SKLE4oRVshvpdk4DyL3uU!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
   - name: >-
-      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AUy1YQ1zLmlQkvoZr60K95DQ4yTPPypyBr_6fQ_WWv9pOl6YPNQJAxT6a9I7HvZBz2BrdJKfHuGigswXmDN8L1oPhaqRt6JX5wzazCM0lxa84fOb7QUaPAYy8c_R_E2bzY9NTUHNVbD6BHICMFDQDRFwy5YKfDJ6TtANcDWBev4Au6oDbUcm3RdHKjCuQ9AG-EuqphnAyuxX1_LcttFzZSpVaTOA3XgdTVWnGhoV4xbm-M1mqQhvwAbyAytmLnSjosPShXWT9JysL1IAECywfU9H3fAJ0lpIPZd6a31XvcRh_mlEV4HPQGMJQtna0VC1tLgakn2Oojip06DvyCV3O_TeMZTDdVJMovkbtbdTjMFl0pP9fMcmPgYoyaiDJuzP-NinOWzjqt6p0ysZULpKawUa6oMuue_ybnNoa_J1vNxryqFkhA
+      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AeeoHcL-8mQEQNq6ZMcDqTiOk23DOBp9KASEZ3RG3ZApTMBtddHgV8fbpElBDQnarfrEfMmqRgjGJjzmIW5c1si-RHI5Wxy1eURtie1XDRt_V63IHx6TlL3HgTeHhDZls7gCTVDRQVupO0UkOh8CrQD35zc9Q6gpg4S_ji4LQ1SYxBNhvp68gnXM9BaOBHIBMesIzguHgcu91dBVVdDwAXPT19z29Y3DpUICtnBrGkx4lK2mwt4VpIRMzwkyhUb4Kf-0pqLHkbdAGwvQdQxa0oOzOcS5_FW5RJ0QCnRt8-ldSv0nHLepraRzTPpGU1785RycMbp6hfLcXVaqWQ_t4kDLlgMWvgYZGN46HTDH8mAbtlDPiuMARyNlb-JCa8UJUmPOoO4lzwqww3we-yOt8KANkX17D3eJf-Vk-85XdCJrM4DRgPpR
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Elena
+        uri: https://maps.google.com/maps/contrib/107029088981569449747
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXcowT1AKmLK0fPQRqayw7c4UolaPXYv5wUveoedCoFeHLgsXeeRA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR0J6-9wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR0J6-9wE!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
+  - name: >-
+      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AeeoHcIhpyIQCDOxNLTuNp6Z2GWzxtbSEEZdLGrlvaVCKxE5Eo75dGWL-aDFHglee2XwNfVPLJGls328eeYr8CyWmN5_DWYfcXQVMnstjDlKI8Aw9MaCWgZzOCnfrGAnRsRIMGmK5RyzcqLmDmpby9clMmT5dTKK_KMkTGkO6KaGouOhMs08xFO3QFj30vE5RRGLpmyLC57OFne2PVyk7S_e615KGvEBZP7bHIIrCUMeawqOF8uXjjNY6mwB8XcfGfxi4DQ83bb6rjb0AW8_K0FbCJa-kAO-1VnGfPZVDBxO0NFXR9BRdaGQSw9_VV48uoT3GLuihwOlkg9RaE3SVuKBM80eXZJFhJeWblf3n8XLHFtVYwbcDGJG0GR8NJMUhU6-vhFQ6zSZRz9nJ94g9WcYmHagO02yNVLe7d4v_7MycOGOvg
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -47,7 +60,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_3ovvHw!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
   - name: >-
-      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AUy1YQ3UCarb1muThFdV4OcCRXeOrHU_nqjTkvbkkeDQmFdnGbpqUncxlLwsQxjGwLfPl2pjxriAXPxv2lTELJTlh8oFQQTFk7kmCHDH5FVh69DU3NxlLoV-wzl88TUu6AfdEQ57afrD8EnxmUajlsz1K2rIo44tyhMHe5B2R4Edpo4lvWB4AZnjnQezSPmq8MMsUwKbglsC-W28WjbKfhPR6C2oSvi16gZa0fqQzvwc2CnPhwpthp5a6loth6CUmu_xNFrjHcBk4vxgI8cEoZ94Of3AoojiJ5ewLZcbD9kBPeyKGg
+      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AeeoHcJjqhJaPr7WfW_M1ezGqTdNDy3WaF0j6cVBP-8YQ8PwJoOkvnjQ2IhW6bh8ZzLvuF0LESDIg6tq9IOEO1C8ym-kRyWM--OPQpaBED1i429hnKMZsTaWfljpt-wX6B0-hIc77Kb6PbeW9Xrqq7SWOYIxhFvToS0fSPkAvNh3RIKPjMvKVGxxKbarvT4vPfs5fYo5gFa_gvN8ppqyWu9srPdLgrFoUNgLlsYXjQm6uLdMrwRVlmqQ9s3__Kh42ecYPfF5UcUl5jItE0-q9GRmZSmMcdYCGSr-LomuzyjJPHP_EPa4G2ztH0j3TrHeU0AGj2s-IkhkYHecojKQfisYODqYRsd1NUf2-6UNKpgErSjIw7QAf6Gn60CcLrI7G_afVaXNNtQCiFHQS7nO_eo6e1TsQT3TSF81rci9cPS84bjWHgk
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Tania Ledesma Chavez
+        uri: https://maps.google.com/maps/contrib/100396825573728120646
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWXCjwop84gGIRpv8mHv10YpMyt2v6NIQEq5X_83Ib9xVWisURqwg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJ2o6PxwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ2o6PxwE!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
+  - name: >-
+      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AeeoHcIKfQV47lQPW6UaJkBF5W_KksrOtlSQFUWQkWJZvbea4JFTMau-2LAqd3RWv-h1dKQQeBi7gcATB3qEyjGqE-OJHqo92ubyenAijaNDqA8bk9Z90oMgUoqhoZXdQQMdd4UuO4wsaz1kAC8rY16NywQ_fEQLmXZ3Cu-_HOnafWhGVDOzzJw2SbqSMTH_Cu7iE3uaCaeermlADP76ozNHcMKqg8bRRnSLwV_RtNDFevc3nmB69wrAWZwunxiqGmphHkHlaElBV-L1waLjWJW6DnwxJvgWT-1J2G2XrNXy1Jio2A
     widthPx: 1170
     heightPx: 1372
     authorAttributions:
@@ -60,20 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOQI8wCmB88rM9Iq9QaJuCnssxMguxyzzIgH4sZ!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
   - name: >-
-      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AUy1YQ0BcMDvDo68YtXV4_AoCyCs86w7nticFbGQ2i5Muo2niKPAW9soQyUg8yzeLG8uy2fwAWwd8u6cNdRlMK_Pg6sCmTXMkYd6rbAd4UhjPJeF5pQOusaveGBSWpUbRXWKhGrTXve5NfrquuCjPVxP0axNqnWc29nEYLqf9G3GeFiC7SdSc_1JJZNX-Mkj4r18NVf9dz5q8NJyfuL5509rL9pZXaEO3jP9mhzyXar_RMdJnHO7SEwgXOb4M3NYxHtoti6fdLwWBHHsnkMZVRFS6aETQ7aivoXc2-9c_4U4UfE1td0vMu1Rj5vd3pcw0-RCMBp-D_1pI9tfI2ILK4jbJyeuH29V0cqX7aMHNajRCOLR8DbLSuC-ZXPvhw2dZhOoDC19t48EcJBW-bDrL01erHJuUEvjT09jHbLDcLOgcLowaw
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Amanda K.
-        uri: https://maps.google.com/maps/contrib/103370461773286000954
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUP-DYXBDjeSXYUb7w-4VqSnRTZZ-AiFWTR6kIaaQxBRzjibCTV=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_wKrDRA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_wKrDRA!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
-  - name: >-
-      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AUy1YQ0ATFAZ0ZtRYgo2lthV19PnKotDOYcpD82H92aCfr_T5NKQIsDybVNIZ39E9Vv2xmTMRIlwQKT4pYFYCtMydG_J0TopZPsjyxp_yPQxSnO8uNNYMXz1TVjKCk_stNCOyEXIIvXnsXFgsEQ1naZYW80wUZSvhTUTKZnOG-A_hhF66l6oT--sJ-DR8j-MdDBWGs5HINPbKE4Xwbh1PBv1jGrR7znii6LBozzSW3SqTAgMQIjKA5GBSdgUt_fnThCgkkvB56wV0koRBRWOfgrC5zNrse8XNl_SsySS3BVaaPehRg
+      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AeeoHcLN1CEyAN6iiz4ayTblqQU_VxPf76BubFRvYdljdpBsD-xOkc6SwGaFPW4AO-DtzIjmTvOXf3kjSqSi5vqpKJdvFNvGQlT8gLEFUhKxGDKdCKOSvbWdEYef_zF-p-HOKuMm991-3OKG-Spsg43uhLxQLYgE53sN7SRYApIOVE4UXInPlkYpDth3TY0mKXz7AGde-IeBMxinIiMa7WsX5e5aKtL6RhQ0WIF2aFDGW9yCohyaWfUc6ZoX_3Q4qSWJ_jcSP44AXsUJFk8c0cup_n21cDlnQIUrcmfY3M2rDDTNhw
     widthPx: 3200
     heightPx: 4800
     authorAttributions:
@@ -86,46 +99,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM4abh34LtNjrOg8nyklt3UL9dl-WGm52Q-IN1Q!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
   - name: >-
-      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AUy1YQ2xhC3htjnTgmjDzyabUd92JXQQh0s-qarcGgT-Ti59mV2oNH0dn_P9W3wGB60n3VJn4E_7kjwxUsdYgmTsdPm0vjNK6ulsP4RwIrJUz3UFbzxZAc1YzCJCU4ZW4VdIu2VQ_UFkmDnqfdUla0jAxT-NGB10Zs1dTCRYVNFvJObScqEHTV5hnMvYM3X9HdCbgabWJZFnGv4w_2ts4rDVwHBFuvGSXPV2qLRbEWIwiFJFKs5FKMX9X9Ixwe80VNbOkTv_srYEYy5_f-gyNNDJ8sKp4YDga-OIsn21KMAgH3K8cshEci56r7FsQF-5CUmGEZG5L3MMzWNaksyixb5nhddLJONfyXtEOGpqNpr-YgoNYRHko3F2eTQ9qKbjt0x-di6D7wDOGb4ROYwMZZdNM4nnqbR0DTMk2gLqivYdfEb0rEpa
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AeeoHcKVJiHALELBoTwlRsop3KJauK-5k87l8-E5b60Ew04P1wjwfdjOi2TjgfkKST2Tseu1SsBPbEJ76s9EAqCjy5YeTOKEavnXA_zdHE9l907KHWQWedBdE6vaupvXnXYeLc1lyAPGa1Re2wiqDrd_aQH87fngdGAuyaYxAr7JxlGhLzGZqWfvvw33zeUcowYEvaEBZfuJCHNmxO_7edIacqaAMcob63acbb-akko6kZHCYVv6_6WAsOsoRAl7_Ym2WV_XJc8haJaI-DBx3YnDqTdMOWT5eVhDfyyv1TY7P58oYTQJx6jFXNxGEbupVAUA1oFou2xUXik5t6AAjy--YstQNpJDhmX5rz-nb4-QebJ3F6rQI9087Wms56p0wi6nqeNaHzSQc6KiFGIjUrsyx34Gq-hoTbjGbFSdRA-Ufuohcg
+    widthPx: 4032
+    heightPx: 2268
     authorAttributions:
-      - displayName: Susan Sanchez
-        uri: https://maps.google.com/maps/contrib/100646316665913200289
+      - displayName: Luis Cazares
+        uri: https://maps.google.com/maps/contrib/115918090581664379491
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIS9xeYRhTxoMl1WYg-tKsqj6VlYpHdn6Dw0XBetnOMhS5V8w=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUOJ1W6n5X8PK6jgbB-nf2KbbhlcKmx53EOVizj-KXi-T3VCANpYw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjg-ffvQE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_y5WVXg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjg-ffvQE!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_y5WVXg!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
   - name: >-
-      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AUy1YQ09xqP7GbRmIgYBIfjfcj4EI4g0sERZ4Y1qpQxRN9Q-L575VJhS9EatnEUzd9w-tyIvn6D61I0kAH2Hn-fufpQhCEY8f-lsQmYT_quuKZRPnzFjGFIgUUOvLNRnJ_YnVNMrvqkVvhDa_-4g314k0iGwGa5OcEuxhG9mMN93YCJ6dh3W9QQqQbVMFFgfu64ECqMg30iKRgcnmasI7y0u6E0qNpM4DInTmXpsLJi7cmvMjhs-2tZmoW9gzrouVG_qzN872gbvlR7PnB1JtQ7pUQMSsqaRf9394myXGLy_oIf3wQ
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: J Sushi Carson
-        uri: https://maps.google.com/maps/contrib/116238143067507452958
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXs78nnC6xIKPwyWXaC3wZ5-UCV1f3jvIey7AYduEKuE9KiuZI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM7OlVpmiiLWhYZjAi2YUERBu-SV0vA60AubMCF&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM7OlVpmiiLWhYZjAi2YUERBu-SV0vA60AubMCF!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
-  - name: >-
-      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AUy1YQ35aP2V7XfdeYl0OEb3lkOSGTk1OXPFftgVFh1H9GodAJ832QzSPD_dST45vRtsORmY3vXHthyItCNY8MsDBScML9MHCNVH35WghHkKMZdYf9b8ZqnjP3KS0b6h8SN1LyyOVbdoOA0_4mbcd1Nsr3n7xXGQO_-ar8TtXgTqpkQbp0LDbVdkje-ZD2UXcc4MtX4drdXgRNjtEPZFQ2OJUcB8Hbvkb_OAAtbqFOLHJvJ3AfrLa5Cv933zWAZUPm7a65Onooj96TM0QcbT22FO0XzG2b2MvfSHBC4N6l_SG9O2XQ
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: J Sushi Carson
-        uri: https://maps.google.com/maps/contrib/116238143067507452958
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXs78nnC6xIKPwyWXaC3wZ5-UCV1f3jvIey7AYduEKuE9KiuZI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPNk1CnuVd1_7fRzPIRSVjGAPSmw7HSNYEH7nyY&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNk1CnuVd1_7fRzPIRSVjGAPSmw7HSNYEH7nyY!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
-  - name: >-
-      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AUy1YQ2Q-FLLHTFun5kcXsEXtLtBZvtpLLQHGdIFDDShbBk_OLSuRyc8k5BH4S8CbMQRoJe9zLHV6VzFb7xxplcfm4pYQHFX-J7rcv911Fqjxzbuae2y1ASTykTJxcE-Y6UPj947DWwanIdWY_cwAVAyXKInTHhEK5uSoDCjh8yCA1CtTWNY24G6oFJrRP-znhwRIY_AZHmIEhOaaoJQMVitdIWE3gntpNDgL2MymcQj6c0ZF3ThHzVw1Xq0eEJSFhKmG4K_5Akt4SP5bdy7uiGUIW2N15OVjmMSkddrGeyRWxDFuovybDa_wbxSg3p1f79cytU3JwDjUg9x63G0HeIWjQ3mNqnajnNGswCzBv4AZX4cH3AGwI2_d8JFgblSU-VxOBtMjrR9E-P1qQBKQUx7rR7k7R2dr3K0kAmZONbEzmk
+      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AeeoHcIJXSIUvKfWIFcoLa6LZ8Ny8y_W0E4PM_P_7Xw5gB_TbQ3OuMbGLR32rAwLMpjacZRC0BpJ0dcM--11eUIvS-8VDzQe2EarcUBrC9YO6v2BZzBrCMnOA4sI6PBkdyimioZm_roHlXz0NlczWYzxl3uIKHe8VQ_8QBu-k72QZA77A7I3cV8rOSZovBmR4ZC_-si9aM0Gij26GRkZLw5paaheq9OXNKAa43f1eLPNdoPOOuadsY1dfjxoNLWwGmd1TypB4AD-0VDUrdRh37v5guwJQZ7yt9YUjH4ESdGXYUSBdZKfM32eWH53Lci1wXRvmKcIKDZ6Gf7PchU61FGUFFoA3_zc2uXmC6KGQ6cAtb5JJfr_xydry_5o2EfyYkymUhXAwTC7sNv-AIqVW6zHx1Vq11JRonchRs_JDKfrg94sfQ
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -134,9 +121,22 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUP-DYXBDjeSXYUb7w-4VqSnRTZZ-AiFWTR6kIaaQxBRzjibCTV=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_3ovvXw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_wKrDRA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_3ovvXw!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_wKrDRA!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
+  - name: >-
+      places/ChIJzUyekeE13YARFzOWBulcuoM/photos/AeeoHcIP6hlzyqqxcFS1iWBwOIEXi1h8X0J7G-D-8Ma6cHoPCenQzb4MLIFymRJvlgIxGpIGDRZ8KuGhamI0fQqrAIFuKcQywkBI_kUUs4i_QGrvLmvz-0HI60RRoCE8HgZbV0MS7xgMBNtC7X5RWRBOej045gd5SAnZMsJY31L8La4mxEbP9L9vhbJ1o3jwDb1HJraIgf8bAh_Ehdr9avcFJGeyT9G6DSiFk2unpbIgn7dxrhtskhcV7Tilo2Y8kUQK5wnOxb0iF0OETZrgMr-QsEyeH9m6nzw6sof2oodtYAuUrQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: J Sushi Carson
+        uri: https://maps.google.com/maps/contrib/116238143067507452958
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXs78nnC6xIKPwyWXaC3wZ5-UCV1f3jvIey7AYduEKuE9KiuZI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMy2O4C-C87I_I02Rei5_YpqNLaKjiZicZGV1lI&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMy2O4C-C87I_I02Rei5_YpqNLaKjiZicZGV1lI!2e10!4m2!3m1!1s0x80dd35e1919e4ccd:0x83ba5ce906963317
 address: '940 E Dominguez St # F, Carson, CA 90746, USA'
 street: '940 E Dominguez St # F'
 city: Carson
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: J-Sushi-Carson
 
 ---

@@ -8,7 +8,7 @@ cityName: Highlands Ranch
 place_id: ChIJlzp9RvSEbIcRPuo0WN3dsms
 photos:
   - name: >-
-      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AUy1YQ285gch6NE2n8invGpUpRzZLTOvyIJUovQu4hrfloSDzXGlIQsTtLreqQ5vCzs73nBjLC3BYd4IHsO6yGVH3qiBkI_w-ucJIM2V-ZK-pk9wSuzkVTE7ySrwbS2F-XXl0fPEjM4oMtKj-xGVbZeSuQTZzFApxkqPMQl_fU_xUDdELQKzv6XRpUKtZbJLx0UyHLb-u5KLbOVHsSxslsHb-BZPXhdNPDNBKmmtj3eD3-bKc6CyWD__EsFbaeLE0ILixpA4Li8Arq8s6p8ipu19KaZFyPbHpb98CdJ-Agk06QR4ULw1reh_5MgjVfSegjJUHtPYDRwZyX3m_1rw1Mz6QG5cJWdrdVtNUNhealE6oauDBiZNzreJe65RDVKsR2ZrJZYh0Jcyh_kMQQMpageq4V6ZcwV8pVBMW69MTW7gQ4ymQw
+      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AeeoHcKm_KcyPXYsn3BmlhIMEinOh5GRTTt4cWrrv5NQ3DUrTvJYPYHGXXT4A6an0EZCSdxHmOxMIpDVGuGV7z8VniqzZgSWMCUlO_nNMffwTO8QypJupbPVlZAvY0Hi9QEH16XPcm8VnmjhZRnZoBlZc7ox_Os7Choa_n7JCVNa11OqErwbjNLePeHHyLizUIuPz9Ja4gVrkz9BW2dgFhKz1w7AVcHDmcU5BtRKzZZzh-PP9-VrovVhN0PityjqtPbWwALC3G5Dih1E9TRu3mnFU3XCuoOGbA9aacpzB6JhXdHQPnlm-U6hWIdWVIFVa7ZjwnMsAK68xUo9ai2oLrUg8LJjHZ5NIeM5FmYwVPaYSpFntV03xpB5ffbETM09ZmYFoEuDs8QMveOY1vQvqIAzjwHGmH6fvsjCmS6eah6B5TaBGQ
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC476Oafw!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
   - name: >-
-      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AUy1YQ0NgsIJm1kXOXBoM8P-V8cOLDefwueJ8ph8oAzrlG6KkUZAor00Sp7KwJvct7j2GnW4N-JR-ZziwfO_CfgG-gNUJxFLNlDVcUn7ayIepzF6GoY8M1P-Eu2UhsmDaFKrJHSJ3Rie_ETv1BF-Lr6RDnMMhv1NzEjHB7GqMJjqI0ayPrgFYn9EWDcnrukNTW19KO3JCULzK_8kNxo-1OTzaaeW9p_GC8sgutCxkf9H4Y-2aOhGkSWLFv4Fi_Kl2RZfgZyISs0jnvEoc5YRfLH-T9LHDTbJKuwafDNCQzQq3dUlBA
+      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AeeoHcLNuSYX0TKSUcpJl9oLEvjJ3o_Xo6EG6iggqbFg4_WBSW_tCxOp8G3usH1BK4r_8FTsXL1ouPMHGBJhv-ObD3k75o0gQTjkf3eU_wAZQ5qo3dSGBxx9QRACzN42kUNvie0swQcBkfjEImrx6VkedXo6dDTR0HDK-qHo9SFFDKT7w9xeEmyY0eVVYjDZEBFmkTdmmE7XCr7QhoR-HA7gZxd_TI9zxky8x5QQtztmgtQkpnp0q4eX7lky5A6_no78geYo0hyyH2k1sPjbHwtay0qyvSi0-RGgE9zm9diFz267Gg
     widthPx: 4557
     heightPx: 3040
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNmTydhEaCNvK2NIJFbJEO4dKsrjLLoV3QVoK4q!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
   - name: >-
-      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AUy1YQ05bOliNFov7J3HiOV8QfqfFu6XMRzCuY8zhknPoGfpVRmpr9gqWQK2fPNwG5WbeG4Dr8ldLkDQBLKiAx3Wnb0dwXZa82UGZktIobsMcv3HbvBOTxMp-qZmBaMiOV9xCxXRrnk9LTq_gWJ39s06x-QxDtrH6hxSEVN0YCuf7MbFd66QZphGZG4bg63iSypyrzEivEsDj2eMyjJmLgnmMZq-YzFRRTHbtmqzA_ZFEuLY9H6GIWVQXsbvU2rx6vNoLwTKihPeb_P7hna9tKAx1Vb7ArTOipXYve6QRJ1An_Nf2Q
+      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AeeoHcLOphd0oaYLILYLiJtAcslvsVF-a_AJwdjGpy7GW8_J6d46C9oGRMMXBYVx0SUEaWFmk_KhWfCo60jqvOGSSDNX5SffxXXI5uKQfrUF0jalSI-tBZVm-5lWZ8Mj5KoaDzP1wOtI-Y0HjSwutQUUJCCTeYZaMNVTrr_e7XVqyW6wJfuyrRf67aZ6v0sfR29wmi8zCYcsPkb3fjTltTEviYAU7nHcDxdF3Cw-G5cBnk3GTC7mEYlSm678cg9qAJtmwhQsl5CEmSTUmPZHNSLD3jfJhG4lKM0B2Nu1JWuYm1X6IQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -47,33 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMMIkjsDwm4vSTOyYRMNuwRJnrYuZTQJOHo1wjO!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
   - name: >-
-      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AUy1YQ1PjV89Pfd5T7wmT_WM3QRwVwrWc5hURda9vdIM_gPCwdUTke1ufdAjmq07ojPbW6UzEYmXjolHVrkq4GXr2CVAjiMZk7dEl2bprJoVMA7Z9lVbMbnMdQMDdRCHc15m-gG3_FnU7qPkQRLSaoz-f7CKzik5nk1FNfSUQZezhoKYcS6DAPsV1SCYiFf6ZB-QY53UkJpIaJPdJEBv9dBBTd8A5QPaXVfClV8LdGJtDUmc9Uk-rtJJ4f8mZwW6hMO0ZXetahbVQb25oRBb_7kKxCxenEcxlX2KIGJWwl-BMaAIpA
-    widthPx: 4800
-    heightPx: 3200
-    authorAttributions:
-      - displayName: Tokyo Joe's - HR (Timberline)
-        uri: https://maps.google.com/maps/contrib/108665652478054829749
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX1jDpFZFCpZfQSlP5Pi9sy9xQ5JCs3m-rOUzpZFeFVhz2GWqXv=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMhiWdaCYdbNFXWyIKt6KweoHhSvExvtPVhvMHy&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMhiWdaCYdbNFXWyIKt6KweoHhSvExvtPVhvMHy!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
-  - name: >-
-      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AUy1YQ1qkogrpR9R-y3BU52rujYHAq3hdDGE82fOPyvaxghPUW_k5LlwmwWh8p-5D7y8ifQ13I-8qvTgD9lWJRrs0taQxQbNkUz4-rWA-5d4tNyBz8QqfgUAgOG13CjMhZbrG8Vuw8eG6Z7vMdPjm2dUMVZ09_J3O0sHbKcCB_PUht0O_hrXEid7Y6ai63z-6H05FWIfr-2mehno-9WrNsBNcoXJMTsQv8MS-NG-IfVBixSLRztOj2Gf6_lCo18fc7aQLPaXoR484DpowJkuIgoD6UVGaA_93AVOv9wvw4L_6HcxJq3rvnmja2kvx7t9XbDuBlsgJKynq3YdAgBjB4ZzpMkU7TqriQ6RdxpvQfnsnjoEOGWZCZ422sjgH9lw5Dmvor8OlL5Sxb2yFR_ie_7amdggRyszqh55her2CDzNCIfzgow
-    widthPx: 1920
-    heightPx: 1080
-    authorAttributions:
-      - displayName: Jeremy Herman
-        uri: https://maps.google.com/maps/contrib/106494629068371606903
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWB5i0ZbUHv10nkudJWtMMU_lYGVkmbjNDC9UXhyS0HxhHF2luI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4_Kv8iAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4_Kv8iAE!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
-  - name: >-
-      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AUy1YQ3vqoDnX_gj50wsnldSKMMozoZXfAvo9_XYX1WrPG5eoiBKbKkscDeezZNojfDOgx-5ZgXbiVq8NgEHUo2wPINGMHwOu9zv6hyVkqD6oQZSMkraQcSbrnqux3U02slr-NK5JowylTWGNV3_J4MKlFJFTXkMp6rStqAB-79EBaL9MRDTPQqMbOhhqZHdOLgGM88FICxYUSq2N1FvN6nj-U-Q5Jw4cTKW1pgWjaZQ-P_owqzqSF5mqCPtJptdP-7rqpCCtzML7tEg0Qt4TCxlW8B6uj3NOFD6N4XAB2FxF8Yh0I9IFxV8YAUiVltmYv_UhV2YGgE5UGDOeGDjq2tgRwZKyQbyhBlHzESYhxNMeaSmtFCFHwjgvhDMSXfwy3m2qLdkWOaQoOQw8IEwBwx7MhvwLmJeMf3-nahc6iA6xKNlefKT
+      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AeeoHcIta9_aMxB3l3OKt0QWkil_727DkGUcJKGk6C05mlyT9R1xyljcys4OoGvVZD2h3w6klKfevI0NkptjMzCKMXedtpjxl8o_bbSZk_91mcma5XzBP289II34VUA1zGhFjpe0x4IhhFMEZ-MZI6Lk3jYXHBuEwAOUgKvsqTQQPPHt7sVuo7K4DkAxHz2LtZr6AVYNMF1zxXZ-A_6Fq1ECaz6PbYVHOaq6utx8OPCXnbMHzEAwcrTjT2d8XkiJLTzJvr38H-lEKWXaVChr_VU_4AtqbWlOIfLrRlyBUdTHj4uHOZKFUSWYzsdwXtNZUaQLVJVkmD_u4770DiUCk3S4LdmSMdVihJcvVmwXUcsg0RWFjNHM7HW8fdQT9k0did9nFfrsvAkX03ODqM4OC5C9GrEiicFh4CJV-uD_Ld32wTzxKJ9G
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -86,7 +60,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpxqjgigE!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
   - name: >-
-      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AUy1YQ37zf6b0Dg8-2YzYzBwr2x7pXLrsXHMR3B-blskDJqmc70daFDd0uDDuJHTTB1V_EGwZjA9vmxWNIL3ZYRWSmxq7XnOaEcYt8EGFAvsEozVUpEg8Siq92rTbuXzMYf2sgJofmPSzNAHxPJNTePJBdrK16_EyBTNFg36A9Nk6WvZq0WBJlDlj0gZ-oYOFUHgTiA_PVmhXz5eoqppYtBFUT3CePj9_enwOHYkXTqLBczhh6u6kA7MYsQUYHRbZtKucdhd3mgL9VRW47tEwX0p4wDDu7SoewtRW97GGqL0bTfQWZdxqOgAdcs7ppJc99__bsWb-8MOsu_H5l7iGjxV8cWd5VHCChqXLD0RqGUMs99sc9FmRHwv3qqTiti3gRO6lvgs6OjlDGNPausdqG8jCEaDKgbe51X5IdPlQZB1VZkw9Q
+      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AeeoHcLofaO08Y3JtYrzQlpoPCCKU2gMy33vhE-5oCKJVn_f7VZ63OUGpeyoZM29f8XlwRVtTqX1dRepqLF1M_7h_70991DaW1PY49XrB6uYdI7NtLhgardLaprl4r20-jK_NZ_qXyW5yDyr5HVVkgc3dXZGrsp3TC_lgj2FtdvbPpaIihjiVva-tMHleMq3OEs3ziuJvURP3gHBCdRkrVXzGAf_8jJYZq-tRmbCun2PF3lTqmGdAQ3sJaLYPa4NvKvnUCgsmDjkJ77XrIirora9gwEgq4kwK6_BrX1UYBiHVZBKsQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Tokyo Joe's - HR (Timberline)
+        uri: https://maps.google.com/maps/contrib/108665652478054829749
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1jDpFZFCpZfQSlP5Pi9sy9xQ5JCs3m-rOUzpZFeFVhz2GWqXv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMhiWdaCYdbNFXWyIKt6KweoHhSvExvtPVhvMHy&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMhiWdaCYdbNFXWyIKt6KweoHhSvExvtPVhvMHy!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
+  - name: >-
+      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AeeoHcIj7TSd6WftwoMAglIIVyLn4kFX4JN5Un0OnetkG1-Lu-lTC58Vnt3X-ofGHQqMJ_QjGuqV0xy9fCkPVffgzA-U_pBv_YJC-iG_JlXMR5T0JZNIOop_tkpbDXCST6SY3Oj7k4EKUw7HouBVO9ZCF03a37-p6nyfcTuCwdNsHc_VJ3VjLxLSkOwr1uI84fwS3jpWCj39Vui15AFwjgVDbMZhFxY2KJU9x75D3BdEIriZNzAJz9AwRWednD8vZkH38ZMS6uRuMKp8aQONNauPvr8jWNiTC6FMMTtjIU2LNsrP3mESEIbdjUNB6w1ttZMI2-RRDGqOQqnap96wmBI6R5W0cybZBpmoARwVvCVsS_Ath6Mx7uo1kYmDgCQJ6SeIAvmExzYR070ZCh75aRrZyS_Tffm2QxdqU2NLeVCTGgGdJrY
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Jeremy Herman
+        uri: https://maps.google.com/maps/contrib/106494629068371606903
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWB5i0ZbUHv10nkudJWtMMU_lYGVkmbjNDC9UXhyS0HxhHF2luI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4_Kv8iAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4_Kv8iAE!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
+  - name: >-
+      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AeeoHcLKFMhQXq1CyUVz-YR5eqVsowaqKpKWPAUblqhD4rZFWjKnMiZJqYbf6hgjFRYZU_FA1GUZ2Mc2lo8c4Rc5YbsxluzUbSuoLmOtwvEq_xT-cWEhjMDM5eZw2VTXt-ifA_KPVayrxM-Jt7aHyFIw8JwzqieT5DlxX6KklruMVGq2ZIJe5HdBu2Z_stwuG0VB4t13wBtj1msuu_2RZ6d6pPUSpUT2PpSCpZ9o3gyE1sGmkn5FL2og3QZp5qhH5pvk0CoVGXKcj6VdNqgwUb9nS_06B_xBwYI4cDCQuILMXMAEo0_ia8D51_3c3ln40t3kB6AodzXuz7d2vEb_ploVm64Tbpm7BXB657vgan7anLMHQGC-jXjitM54kkt6fhUPpmoze5c9gWXMiXTyFI85hm5CNAilcohRicCFbBbAogADgQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -99,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJh5yBAQ!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
   - name: >-
-      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AUy1YQ0AX0iT8sP7xe029vQjRrPHeo6Dogd2Ze4adE_mfv0csF7CCjukp3aYtVp2cegHRdGf7o8jcaGO75wSTvjIqOHsoMuug1veZ1eF1NXfrguYPrGWTlC9nXvbT-nkfUNft0Coa4z1mGzt5AB2oD4EL1cas_GSNcrcPDQmojCPa6kCli8ePNPXk_01BdIR-dHgW_lK2av_3M7F7wNIN9Q3cYiazy0alGgMA_SrxazXJEQ4Yfwz6LT2NOhgiycBAl5IrP2eqD2AVgz7UDIJOEW3kKb683bM2TMS25g3ATKirbXFHbWSYc-BOnTmugW3wCNyg3-cEQDnHJw2e163-7thK6zuyN4qBw8mrX18MqxVG5kVK4oSQCasrxakOdi4vlqSD1fYHbYHxBh57HDZRirfqwc1zNFjBaI4ca4NsqlE3_1P_CY
+      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AeeoHcJ6Jgix6zBkS1bmzO-auo6qem_2r0eKKZaDMYx07p4nlLaRQsP5kJNL9-gpa24RuqWDL21CcVNusB0bqp-pQinUO5Ek7PDR4DhSX5ykeLJJm8n_7bz3DjObyOH8xovUW9Uu_0hsK1jMYzNHzaFqIph-pIvCnCEx0jEJdg2q_rkeNX5kCy7KxlrHL6HtZ25xA-lhh_4tPOeyx8jzfojFX66byx6LQmmOdfU4ACca7aYVTYX2L3EE3ZVgnLVtrLhFCp2w1pGrXu4X4F9Nx7A7cRaStfZaByPRgR3H-k1NiVK72YrTw7dYE9wnUmAbwRo6CoWJaBO2myGJL2kRjZWD6S_G_dmAKM0s3u0o741Ur9PA2WWgvKku2IixeBOHieK4cKhmk_kW6GKflIUOGg4gaOFRmS8L83-R4ZXrk1EWdOrLRDM
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -112,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBvpTvngE!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
   - name: >-
-      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AUy1YQ3H-Kv_ka46qUKshX2RWdSMlx7V2BzuAJJx_AGRIW_OgSwZ8vqBd0HTQNVtAKKC9YBxoGbtTz1aAfen9-LG5aaekbpjPpkWx-4it16ofXBMjghwic_mo0yUpnQRkaVXPTf1bYz_O39DVol_VQ9RhDQajd_gdEVpo74Nq5-5FgJsAaTszWLl-_UJrJv3JbPZeosobFZ2uLbI63bGLsMmGNTTSaF5KAaB80YYVUKhw0upjAx8Re5egm-6Gpm3CDK4xTfhJzx-awELqAMHjU2BmY74udldvqVf7oLpf3GwQ_n5pZuwXPKsVQB6lZExud9yPD5Lfmj76wKCvvrVgDNVazc8QQdvDJK9HIdIzqLpebrHL2-l_1vxZbullSm_AE8xlNLANB6TKig8I_gfttGGDX8GM2GKuEI15KaaezG2jNqObg
+      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AeeoHcJwtyGc6sSENGwI50fMPHjMWeo6LLHoaE7dVSdVpAOwsgG4a-vj-uMQ8eVD9dmBi43XpGxTaB7icIpPJayTt-_WL5BNdav4TSskGDO8x7iwMahfRLKCWSLxJ9i_I7a28raR8Y_OomnLNdxlisM1Zee1w7MctLJoQCG8cZ7qKWnURgReo_RnmN_qBGrSahXlZueB-HU6M9WjRDmsWiJTQL6MMJ2xr1h0Mag0wcj4i92NTW7MXgFfXh0KhU0wkBtG8FVL7D0iLmQE6qxfeJC-58aPOjYRvnsGMvquwAoKszu5XYsijXmSY2ZD2bVwLQjWLoDF58eVa0QmUVFSF-eumY7TL-r0QjLSOJbedqpv53nVJp1OqqTfu1ZzsTyh7DYvstt-CuenH89GoEm8h9HiQiTusSNFInOQpCTMHodEg-6vxg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -125,7 +125,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID274y5eQ!2e10!4m2!3m1!1s0x876c84f4467d3a97:0x6bb2dddd5834ea3e
   - name: >-
-      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AUy1YQ26Mj3FZxxAvJqY4a4pwd--mb8ywn_IsKLxwJkxpvszOkr6Xycx70fFWQAjklq5mfqGcCzxjfY16YpMR0R2d25iVVtjiiCLeM1vqrFLxieQ_dR3Ddj8cCTWB4nJUGpt8x7ftqKqj8BnneK2JmO3U21HFj94OhCofsHUfXU9oG7vnTFqSPf_jN2onB5JmpNgNrtjgGJPJRMQMjZ8nPAbj0Rzb_f2YiNMqY1kKneg_svUNdpaqEGmUQx5wvDCiIZA37ZNaUWvzYGZU2L1Ex18cEQPD6OKWD9CI8bVcNHU94C5uv5Om0tF-D4L9hZpctp6BgPYW5Y9veSKxmvw6pIYTFK0_nvja2NvteoRTJxpJvdySLFQHwbGUn3U3e3XEvbLVAE4kYzv_LIkEfL11u_9ntNJ5t7DxA7sVFmlUHHzaOVg28Sb
+      places/ChIJlzp9RvSEbIcRPuo0WN3dsms/photos/AeeoHcLQa859P7DcYE8TdlUCEslOjj5ZfXrr7IMuuGD_3DtjlYn-qibqEQWO2BlqeHTZyJQlQAs_9KxxXKBDJfzuuF_eFdLNZSbapdx2O8HLLjgR6rmAl07SlEdJoKmRslVxeNb4i66H4pWmqz_U4JNbcF-P_Agew7JgmrNAv_OVIuILxDIEMpi6jtPYVJ5JR5uLjJw55qQoCV7pdeZrZQfD7wwfOgJ5tJF_uu0PVOrJ4fW4k7JKGpdu2vRIii11f13r7YKSrfRI0KpZOekdjQLLfVYxPZZMSuiIS0NESEorKj2GOqZLhaBJaiv3hruf9cI1H281AaA5XxmomDP_U0ePOjTM3mZ87ujwa_FzeYg35mLj8AtsOSSSZTybPX_ZJ5tpsQ8inRhhgWvgTVBxqNPS7hd1MoDuBcZDSRYq-_92oXMh87LC
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Tokyo-Joe-s-HR-Timberline
 
 ---

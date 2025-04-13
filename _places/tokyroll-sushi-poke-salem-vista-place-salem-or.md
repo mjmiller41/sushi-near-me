@@ -8,7 +8,7 @@ cityName: Salem
 place_id: ChIJDSsfa_wBwFQRvD2ACt2E9eY
 photos:
   - name: >-
-      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcL8nVRvsFSjeb7m4KAxpIHj0HPMeWkSZ0M-7LrBhN3GfhhLBrBpacUUB9UArermoeSFGVB4D1rYf9Li8c__kYcs0z4T1un_3EBMK_2h5tXg9oaANNjFNXlc3djUafSLszZvzE_zXIOSupiIsVG8uAeCTcZYj69VZO7gHXLUUnEQbFZ6BlAqNgiMJyPPm42_eI1dSDuC0SEUdaJB3bcSdhKaBH-ktz7mh-Vtt0aI5i1K5KhG8XqZsKE-dVrV8otOyvr8Wpeyd5Fv_6dhQPGTX31IwIVOJf8zI8VKclG4QM5tBA
+      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcKTW122p2MRWk4mCI2L8h9SOHC2cPnNl-glDZVki1OdrBcWMiAIiaSnod4LV3Yo2Tu5weViRSflPVS1znFmmmfauh-jvtdhuiEoAHSNaNWdbK1Tu38wZC-rbXEv3p5_ZG8oAgN3LmCO9qpLjH3Wh8VWqgmxhYZE02N7oSziIiTBnW2NF-4v2m-t2CsMm3PBztWKJD4nc_FR1Nm_uG5aeq0PlL_vp7xoTxGYxJ5t7SkL_Iz3qOtMgrEbi4Kwa6i-dFwcxjy_irhlIqVhLqLp882tjCr0CJRkZfjGOJs5ClZb4g
     widthPx: 720
     heightPx: 772
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOXaO6VWxL_pcs6V942Sh_EHQkyTizjz399AJBB!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
   - name: >-
-      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcIxGhkorKi4RphwA4JKjIGR4-001ORBAy8a1o6VFsRUgROlm-asu8t_UGfq5oQVmmo2HdFFAUNUrj3CwaQjn2OEypviZAmTv7musyX3gOOm0v8c9wtjAnuvgl7m9E2V5hY-Ppcjq66WmJu5pcJ8N_9FmmgFG7u0Q8G3zCCjECLeWnZEFUc4TgznQhZTPzV10vyVNj12gCe3NlHYluj5Dvlpxy4Ax-tzzLY392QYr2Qr58aD9sxf6oN1srwNknyDLBWNgt4e4WrRy0Rw_yPsF7Cby1awOW2XYkzfbcpDZAAgrg
+      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcLCnU6hslMQmNifarp8LoFvl6TNctTjJCw1hbUJJlC2StjvjgFcj0cBg2viP6zz1qYvZB4cuyK2alKpSnO6-ujTiEMOIwcm-dLEEsZ7HymFq5sJWlnuX0nc-4frSr8sH3hLVlgRD59jnZxL_fVt8jEQndntOCSuFLYA7keQj5LeHYBC3yqQ_xUAOACI5orZ41F5ZHxIr1ljmbYlH6r9snXYZwOjMSb3Mi2-hrRZhY9lOVqiv6P9cBwwVaM_EAiPGm1N3iQbg0fUXWj-Eh0Bb7_k5kCspi8TMvJBKssXAML2rw
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
@@ -34,20 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNW2c0MheDMFFaNi2oaGaM4mwnl-ptMrNPLxoMD!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
   - name: >-
-      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcIVARCNTqZcxzu4J3hQawP7oQEY_sFaiTGgpE3mKkpvdft_ug7TzKpynt1jNoP7jvdhWDc4HHVNf_6DtENuPycfrowzKmYk4ZNFMljCtiD0W5GxarFclXTM98Q97nVgXY2ksSDHAz03LsyNG6VE5ZAQDy2d_fMH6e6NRHNSFn1Cdrpk3LDkndqD2kWLDyeRZ507ultbvuKsPxxQtPMqzx5xWKmqWdaFN4Revgn5szV8nrhJvxiLl_QGdVYo6ZuEg2R3GgEO6RAuQ1sxwCrUGCY72FYvNls4xroRMo0dZlR-kA
-    widthPx: 1920
-    heightPx: 1080
-    authorAttributions:
-      - displayName: TOKYROLL Sushi & Poké - Salem Vista Place
-        uri: https://maps.google.com/maps/contrib/112565523058191593562
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW4lg0U8Wjf0ODBbOJjyD2i2tia_7_19E3fA9v_IMDGw-MvlELI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNXZVvxstjt6S0KXtWC1w9RbZJnt9bTE-tBVdZi&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNXZVvxstjt6S0KXtWC1w9RbZJnt9bTE-tBVdZi!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
-  - name: >-
-      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcLEyQQcDynRcsDBQQRvFxyaVaUU3Q9tuGStUYha_7yKpojbZtupUl3Q4rTvhZcD3SmNEAfv-DQZuoR-qeVOotfj_30AgaTpydvIOgBTn2rhcD3bHTaulwZHyXE8O2brfaByeab2EZhXs2cWoApIlTkR59C-B96s6IBf9Hg-YDxntJwgx11HqSnj9US2-JVoX2LEfnT3PHk1ZjErI8PYs6qHRQOOTZSW3lIpB_wcJZnd39JVfYxjIF3WVPFhQZn7DCyrCahSi6jLyjCM7P4vRJPPZjyEVCgtavVAjNPmlbMQpg
+      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcIImHBs2ohY21V7bYTdkl24oawDDaREXETwOHnG9rjPEAkX7Yf_gqU1caQVTGWwCu2rIf4vqgbdkuTG3qegDF8gUJPYos4PuK0t7EWk-BxDD3hiE4xR9Ru8EfmBXmY69L7G3oUTHsYi9wLw6UzOIfCZBSCRS86nsXliFZh_zWaN-zuTMbngtyFpECm_L3ewuLpyrU_SWjYB20L46WYyVCbGU80UCOBRVbgqvEVIUrGPzjpYU1_AdqNVtSUGHaUaKg69LP2ZYm7rSjPTBB7w2xIaByFSPRemChPn0wGO6z_TUA
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
@@ -60,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN2Trl3_06BO8Ra0XWSau_909V9Zp6CUCtdKhNP!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
   - name: >-
-      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcJlfBzOiqXXmXYsCJpudhQRaZ_yr7sSRbCE9l8L0q3vqIu4TKpTP-572dWrpnUOr9AGGf-SjRTEfe4hjO8-rPrJ8Iud8CpYTOg8TzFFG8g3Uhh7-yCoVN9LPmiyciuf3EH22zFmPFx8iSF_pWiAzVau48TspVbBzYc0yJXrgJrSnVJQxQIbgUue9dUfbHZCoRvwvIFPqu-rwF_PugpGtuElTPaJORfxSorUZwjXrPm604ih3WCLdwqlQ5gg0PjnGnjc1tOwjpaIp_mbA6Y51zYNJMUNYsx5jgHsmBruGCxyJg
+      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcJEM2XcJLIYkYG5qGGHrkubvOaMdHxfbbOK7OWktKQCRVEprNUHEKaJhaswi7R_2bGGyzBoiJ9pULtCvrNxrEeEjs1v7L5VJ5Elq6x2DjJX0Jo2UteP6_oTBQGS9laB4xjX6lICXAZ80caGLxtGF7OOznuVMkgFbXTXQxFOlyIUzYmD3DkIaUSayukaTRV9yUsSXFaeV_Mgugb7DR4Li6NUqV50qXUlzKQmK6FzGd-SeGuf2foZVSonpnYSK8sP-2B_sMf8ItXMUtp834LHyWvmIZOgkpRXxxbAr45ta9etEg
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
@@ -73,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwbNTjWn3PCeO8PYydAcuRxF7bzJvsqJu31u12!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
   - name: >-
-      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcL6yV5HFTiUkrJaXnN5IyQy9-3BzZxuBYTYMx0fWHppK0fvkLy8tPYRE4YaKOlgE191H7635RUd9-_RUaQrEQCZc_CLyRFpl6Rb6udNvoP8JXjFf4QWxVScH5F8J5tVdECgdAkv4_lXMb4eetP7bQtjwQAbz79ULRrNlvcdMvfCuX3ClrlrUSR75L2kstLXSLAlrDiGx7tfCOdVYGOkQIg91VGmxEqpV8sEYJy_uxE6JmyXmpdr6YiCWvDqc_mNCz9YnnlkvNy7fgmbnKNdJPUpa_3rXfYf2GlAxt6yn8PdUw
+      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcJgKkwi6_gWIm1NRIyo-3LUcL5QUuWdHRPsSB-anvrTf1Tq-hTQcqx-jmzsIMje0JAKoxQtjeztNZqjG5Sz9lVNeWC7KVRbCpQB_mvCZoPFIfAkXN4EqMypkd-J8YyFclayNawOBnDsBhGjnmlzHfsoOSiKEl1Lorfp6vLHMKHsBIom8LlSyp_U1s5dEKwm5o-4204vlZFt39omybJwsDtW6bAhlFRDE1bE1zQE9M3FuQzPKpf4dS2YRypRk1mpJ6jcIOvwJQ0_0aEz6ic14MRQmll9DwnFquy9JgEghnGUAw
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -86,20 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNa1K9A_MYLRj5gP-T7jHSmtIPk9h9BsTIUbug8!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
   - name: >-
-      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcL3I4jdn7uGkH7sCWtupu2WGhu7ONrCA4razDXYubd8H86QcH5a8N_95Tf35yRE682OxLuIqJcnTu4-Eie-RYW6RVL71G19im0UGpneKWYcPtp1GrqrnTqXuexzvYfLWmfJyvPgkMzVORP5mrPNaHp-dtBPigrP3IKG-rLGm4uBB8kko97vDsHRt31Eo-NJClT_g51z1_36YUvnU37vJWLWrX1dUFj-pWLQrBUOVcTiD0oEQj8yK12vSGpDYvaa4A5wLGZKe7esVFEtunWUoHnqWZT90gAMzHesMmFyDJP2RQ
-    widthPx: 1080
-    heightPx: 1080
-    authorAttributions:
-      - displayName: TOKYROLL Sushi & Poké - Salem Vista Place
-        uri: https://maps.google.com/maps/contrib/112565523058191593562
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW4lg0U8Wjf0ODBbOJjyD2i2tia_7_19E3fA9v_IMDGw-MvlELI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMvZkYqREj51ivJg7jiHhpaNugeTRuPKe1fpfz1&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMvZkYqREj51ivJg7jiHhpaNugeTRuPKe1fpfz1!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
-  - name: >-
-      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcKMGtSLGkXi3kCkgBouZFzhvHAt4qt_sxXIu3-EgV9XUFAj-v6TcKH547BlNN5mWsKmHmgrmQAoYNuOhm2Hj5WdEjf9xhFOPjivno7DxTxElX3I6FeVz60BzunSowTmEB80WDnYIm7Ug8rEKSuokEwq-fKkhUGJQyXORvKncNrbQwmNJ9GNDvUM0uSd_9padLvZasWPvVxHVfQSX6C7iRVuYoMPV6HHfWRADGKvXUUg5UNWkFnGphwpvNtvRs1SAp3FXTSeDaqxNplqb3Y21m-tyv1-L_QTTjh739RpL2ZYTw
+      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcLhzY5J8VNP31072f0gjngHVkxk48ky_H7gYtYZxii4MgV5jsgSXWRVe2CaY5rG1W_ufC-3rlMpOQSF2y2i_7LPwR2tyUGsA19mROJO0CBTrlMzFTTNx4LEmIkCGk7Dpnzdb___TkJqqjOefkfsu-WtUgxSkbjd3RQIUvvrtlwIDttp-SI2fGIURRY5ROWD9d7fzTQlyEylc0FgX6_6hCItQE200Ra8mtNxjdKHH65QUZp-t_2w0p_b2G7NG37RGQj2nfb8MdXjqStl3P8b4gCv1UUxLgAkQRGZ5pTsVr-4yw
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
@@ -112,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPdQi7JAABCD0aGZLwoyNOOCDert2RQhxqUPEzx!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
   - name: >-
-      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcIPpFgAhDqgLmAh2ORovP1yXRj8Ul9pXpDdYSqAsgPlhlqV27dtbvNWf6HIN2QJMblhiOInku_byj2uuBPDR1n2_kMBmAFC5PEDSAPTBnIBfDkPW2O9B0nzP2SyK_ReeyGKw6MBYCVBRUkD2PbndwViSIpG3sACNwY-6bFSB1a282W3V8oImE3hvpdhN3cL63wTQ-CQBHuHvwkDo8LDfDOrsRYwUjvzq32pyDEXiOioWYMbV-oRQoa86eVzA2EP7zQi6MgwvKIpSwoFAeNr-XN-9s_mRyo4idZX2NxZx6OK5QzSI-O9d54TzQ_ZuoZH6_Uk7bw2fQs5ns0ojkqDZNqqwMy3GxXdra_bztIkmiCWClyw6jQ9vVzrIWXQfhUUme_K1p6mrihjK0c9MQs8P8P7veCPyeIO7_2hxWnn7EGh9bj8
+      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcI_zxsX8Xy0mOlx7qJJZGMUJUv8CqhY1mIzzmj-AhMprGyC7xuHGm78BpWNO50fuJAqMYtoDfgENOj024pJH842mLfSiT8I1u4rZDxPdvp2X4B8ekr2uZLkTkmd8E1f2s39ABNLR16zwJ6xS74NPVxRcJjbuLgb4JwstZo3O7nY8iFmVrt7gX-sk4APt7spM08_M50ajjvUvJ7ZxTyLZdgxDpffv_BV7D3C1QcW2ohhXjhCSPbyAhSzs2nSTp2eyilW3SHc9Ui_HCN3taFfBEuMD7ZP86eL9t52srWX2Nm-DXQ8WvgFbcZu_Jj61lnRtklylQhGuJWHjZDTk4ADAsSPoLL18epws6ijyHtbQcaud2QqfC0Fbt5MRKQHVNSIvIiGuhoaYJ5i4aD6QSqxbEJFB3CqXVPNEAsrE9W5cCh9VWgT
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -125,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL3Ye2wwE!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
   - name: >-
-      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcIuULGGI4C9lxW2ueNgKlbqTz8ZZERvUkPvfiF6MfwNQ49gAlejtYyvVbUUVsgEuks4nKRQI9JP5G47VEJVLMEKlOgY-JNpbQQKYZRUKJe19Smj0AOuiSvvdzOlsQdYoVegAtRdR0dLf1IlNJ0yz3ED5gfql_iD9hoJakPeYGKNbsamal2di5y_4-IYLBQDUvYwJAW6Ckp004EwjmT266s6NA3wmeQiFms-wmy5eVYbC1V_vfiOe33n0iQ-bAkIQn_6eKDPYjeBUIMv0Wmu33KWL9CfIB8Ex_gm_p4GrBTdf45SdOzLz5UChRh1-2uZs9FkAdTMjzbFTnrnkU1ecEWuCZlEgRPu5ZHPXDPdhW6irGqIzMUDOmOzTA2uBzoQMBYCU-e8003ICs7NM0Fn6ZfcyFuCncLGTuZ_JwT__H8
+      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcIy-M4OzIVjq23H1KJa83XPYHQL3Jk01kohhYVqfMvmMzd5eAHXSF2Q1skWoz6AG5qSwmAs1hFqcmkDLE1LA944gRQadgHTImEMW7jGvuwL5yeTm2AcgsrvokebxEVA2TfGl7WkrtXJLbQ6nFp0Xyf_T2V4mPiKM4jqhY-LXWuuheHOd1IfM07csRfMHcJ3g35sUg7Q6vDQNf_JZO7LOKnVHNdCXf_NtOXYqEQDz32DNShLC_kwS24cTevkWtGoOPbHMLFtZnA0v7sS8d5EGMXHbUJWDNoi25oxdWflHPhaki16U0zElmfUpBHWsFe-NXBs-Yr0zNztux8E6-Kkb-ctkSVolVmbbHR_txxefqUaKsiDYfQE28-b1DHYfRIDqfHqp4vyK3Q0eIvrgYolrWgrP34mOGGpkQ6RUpQrJ4E
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -137,6 +111,32 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfsrnbIA&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfsrnbIA!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
+  - name: >-
+      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcJbEDHV7-bcLu5UiPpWQJF3_7sNcBap_HpNhW7QGXtOI2i2dqIJ90FKrNhWvB6IjgVh1ugWqjYaGjYdaBEC293xYgI8Zw7mnKCHjMyLYRSaVtbNUIE_BovIne4_2KOBoLHkhBUCZN2J1MZgY9Olb9U9cEJTGqCmD3OkPMANk7IGy-zFUuz4Nx3FfoFgwWHGG3MWzydXmnEkRFTaloPdTufJYBqG1MnkhtOpCB8VB_F9sUvzD45i_oeKqkdu_cCDKzkOMCmHtXY2BDIx6nxowAX-LwOH80geSecelBrNNyI83QdKxzahlOwEfrB_GhP3LjAlj3h8NEmN9DtXe_C1nb1wdJmvf__XL_bBRK5IZGGv-dfp2MShwInuqvqhhswYM-sj6EOCugpHQzArzy7kl6OY_mPvxbJbIxTwUo1ICZFZn3Y
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Andrew Holbert
+        uri: https://maps.google.com/maps/contrib/105325516892889061620
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVFF_kVzmMtS2pJHsvcgPrYkSG1uvI3h0G8c64MZOKKGb6lQZR3=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfsrnboAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfsrnboAE!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
+  - name: >-
+      places/ChIJDSsfa_wBwFQRvD2ACt2E9eY/photos/AeeoHcIQIzawMVHYBv3Ojta3FJC5rsJcLaIBwTcctf1kLn37wY7NM3kZgesvQ7AstnolDYgjfGpumllZKrp9t6RMC7vLP9s0prJ4YmpLNrb-PeLjTXiXyD0RdYS2xvrY0NSxVIo5lI5TSJ2t5tXMGSwCpFoThVhlwy13uWhUmkpbib0375KNIyBULhjZ3kXBJ2AdfPfzsjjlu_0Ph6HpaPMu4-pX3qdeQ4uvTNTzYME0VDDa7hHjL-2pBeo9nbF3RAeD-Ic7YcebuOtmh-xH_qm8V4xTOwLJlUY-lRyAmmbH796LUA
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: TOKYROLL Sushi & Poké - Salem Vista Place
+        uri: https://maps.google.com/maps/contrib/112565523058191593562
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW4lg0U8Wjf0ODBbOJjyD2i2tia_7_19E3fA9v_IMDGw-MvlELI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPkQs-HATIqDKR-NrR22i81qdce254pG3QU4PVz&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPkQs-HATIqDKR-NrR22i81qdce254pG3QU4PVz!2e10!4m2!3m1!1s0x54c001fc6b1f2b0d:0xe6f584dd0a803dbc
 address: '2990 Commercial St SE #140, Salem, OR 97302, USA'
 street: '2990 Commercial St SE #140'
 city: Salem
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: TOKYROLL-Sushi-and-Poke-Salem-Vista-Place
 
 ---

@@ -8,7 +8,7 @@ cityName: Cranston
 place_id: ChIJxzmsN8JO5IkRLYPj35DYBQY
 photos:
   - name: >-
-      places/ChIJxzmsN8JO5IkRLYPj35DYBQY/photos/AeeoHcIKWaexQ8YTEuiNIJMAIYo-YJhwVoZNaCHBQpLAN6wW01LgremLJq_vrvhJLrIRM4fOAnmkj0rV6cKQKav7M_IfRhANHm1LAB7q0-JGU9JolMj_m0Mr2A3tqlFdZ1q4o5U0ni9J1MJDqUEUq5S5RKh5wu9G78EBkEpt6v-E7JenhEltiXKuKtDdEMrSwimB0yiZxz2l80EIhHuy_YnDjGdBCyFjNopxEItKRgK2WEtKAJJbJUpN7QT8zw5RXwrls8z9ZB-sYWTMQeL2968TNIZ3rl5pnYTFaqtWBnw08F4XmP4KhhXYRyrFJg3r60xNMtEu-QqFY3wVpHkPTwIGok3eV8ShAVPXf-5vFZ5KK6jIZCcD7lNfdjOcBkX4BDKuDkvdp0T7IQ9lPbTKl_8hFwmyT1kqb-ku-7OMSlqLFw
+      places/ChIJxzmsN8JO5IkRLYPj35DYBQY/photos/AeeoHcKh0lqqPZxz6aD1g97P-PfGxvn-Ld79mW0Ls3C4NQ1X8xq9yxCPoN9Hhg8ZqiFu_TvC56Kz5brJavbmf7fO-ELlWF3e1nv3gvhoqbuxnI7CuDOGnjJkouiB-trQYi4uwAgB7HrZWoekNOaj7ejEPVl8graUzPDawtWjsqyCvpRXCBX7lnEalaWoTXzFcQwDWZUjI5NYBOh7ZDeX5VY6skF2KjoNkpXLklX6OKnrNGjmWNT4WLA5zdL5Lrz5h29rLFTd4mQNKTgt44Ky1O-5wgKQvVz3_fJltiDJlg9DmB07BMapAT2iCTnzyJV_1wEhJYfLSgGtVzIoFHGW2FEAb5TXoe-afCJD-1iHteJSVYTj8TsrmBCW8cgzQTv6ZWuaKh-t0gLZ1-uNdbQUtHjcAh9n1erFx-DBCQ4HjjiHYg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -54,12 +54,12 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (401) 942-7600
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '3.0'
+rating_count: 3
+website: http://www.genjiweb.com/
 description: null
 reviews: null
 parking_options: null
@@ -87,6 +87,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Genji-Sushi
 
 ---

@@ -31,6 +31,24 @@ function deslugify(slug) {
   return revert(slug.trim())
 }
 
+function instancesEqualExcluding(obj1, obj2, excludedProperty) {
+  for (const prop in obj1) {
+    if (Object.hasOwn(obj1, prop) && prop !== excludedProperty) {
+      if (!Object.hasOwn(obj2, prop) || obj1[prop] !== obj2[prop]) {
+        return false
+      }
+    }
+  }
+  for (const prop in obj2) {
+    if (Object.hasOwn(obj2, prop) && prop !== excludedProperty) {
+      if (!Object.hasOwn(obj1, prop)) {
+        return false
+      }
+    }
+  }
+  return true
+}
+
 async function cleanDir(dir) {
   try {
     const pathnames = await glob(dir)
@@ -93,5 +111,6 @@ export {
   deslugify,
   getCurrMthYr,
   objToYaml,
-  cleanDir
+  cleanDir,
+  instancesEqualExcluding
 }

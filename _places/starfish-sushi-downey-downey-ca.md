@@ -8,7 +8,7 @@ cityName: Downey
 place_id: ChIJo974OJjNwoARUSCyqc9Qe5s
 photos:
   - name: >-
-      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AUy1YQ0SfXanGm59ZIlQlKec8EW8-c9jVHECZ6u1DYztoccJRi5rc0FOa7aeIAS3wC9AQqTDkG39Sb1MYghQ2Jp-4vDUNUpxUwxIIf-SnuJlAnr3qh1IpS3goCZgr-UxqcXbQMUQGHoKjA5nQJcottd4ZAdGmtjBolhVXww_Rbyah6Ut5ubXyNYW5Bs-NRm6n0SUI7uRlNeBmltSCJz2aSiqcKogPPlNtGtiOvYswiZk3E3sMy0ypulR6OVaGNNymu_ir_SzUkwl5IsX-DJiiGbFU1SZyVhjN_BfQq5FQlUThtHNyg
+      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AeeoHcKBs-x_ew346ieXghZxBqvIhy8mxJNkvQQzpOY5TkebB1UoqzIba2uJnuPvTAj_4SbJYYTHePqwoCJ2_PSPh40nmUnrqADQ1D8hvzb55vCzFpV1X3Zsv3bc50yIdQeEyLGidNLS0C48Ed2L3i_1PMuqqnGjNLqY-pL0owJK4cdZxTaN4Cy7KMvNohJAeWBsIBlEXvNumuGdHy0JnccTCnA1K18YFnhumECBe9N9Bzid5Txq2s-QtKwcODomomIOgCIy6iy_cAQVGbF1_BR24bnFqhPtb5MYn4bnmScYVDPe5w
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -21,20 +21,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPJZLtw_oDCte-F69GM3xAutHi1n52w4hBRE-3X!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
   - name: >-
-      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AUy1YQ0syg5ay87zWZhyPDjIUQBWm4QGWog4qwsptJT4J7yuytyfrGiYtQJBkDOOnoNa9iyIelgcoaV0KaUTxQhk7ayDhtjCajme8FATJJLHnSs91vXHWPppdFOpQ6IgAMDse5yRrWwZG9laYA28JegVgfHqqgTF6VSE9fDsH-rb6uHGv7gkin7t9Na0hbdlXjyBXPoJ9zPD3VUCAsGD283ptwla-VsojW4gVt2ruNUW3SIMDWRjFvNQXYZhcxktbefs9DfGo0is1WZEN2pw9PC37FcPaM9aPajUrwR4W8MFrOluog
-    widthPx: 4032
-    heightPx: 3024
+      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AeeoHcJPxLz-esP3z8CMs4M0C7RF051Okjy8fzXB1hvR4mHOcmNFwkG2vYNx9qxW2jiv4xbEd0rcWOQmdbR0fz8fzK7bZtkJkU1C-Mp6CcKVYi9hogm3iNil11omJP65ufjUGo1bJUe8iy9H0Wn8vo5ubq1PzQ6zkPA3YOlfPeKBbI7ag4lAmx0AMygIEdlD_HXZQSog1oBkXSpupSSOZ1NzM0ulHUr34_AI_FYtMv7TlH5ik70g15gUxQS85Mqht1QNdkTe49sTOTXL3mkfncs51rbcwJDN2jKOgUC9Wyyco6l4PQ
+    widthPx: 4800
+    heightPx: 3200
     authorAttributions:
       - displayName: Starfish Sushi Downey
         uri: https://maps.google.com/maps/contrib/114552768653090139472
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVVcGF8LxQQ4-SW9YxbNLxXMuJK1zACebRGe_F92DJZsb0yg4E=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMhB_cA4wlabdmddS9ZvM1JZ8O9hcxqdq6bFK4v&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOiE62Ih85drPtR7zWVSVXTjlLV7sjoOwEKQcl2&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMhB_cA4wlabdmddS9ZvM1JZ8O9hcxqdq6bFK4v!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOiE62Ih85drPtR7zWVSVXTjlLV7sjoOwEKQcl2!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
   - name: >-
-      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AUy1YQ1dJ0IZcFV1OPXBN37I21R4diajkPk_K3QQ_Gd-tIDCxDHIulrlHx_505BsxocIewdIi_KStRnpiaNg0Zv27vFYqMchxi14OJS2KhrglcaCGIXxOzMqzM_YbbGV1VJGRwoBAsaC0Eo9Pbw2NIQ-hg9CqCrUisga2Y5Vh0itKLfoGkD7HCwJzUofv-HaZZKOCJmwbMO25QXFY0y0GX_ybtBBnUOv3BCksOJGOqPOK_zZBm5UBRejHgLwiSmR4Rs-0AAo3e9tqaMPXIUoirMJfxuZHleTLFcjTrBP7dzL9YckAQ
+      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AeeoHcJOa-xQ72wcDm0ySB0hU0yIy3ej5VpAmCjR4q0-8MDcxDwq2tyirPa4VAagS9vC3tir8Z2gcCHmt8nFta86BDpEen4RXLZgdA-NWrCzUu4JVPn4jBbH_M-Dwb2fQJFuFVTwnOY8AEb66-n0bVpAJZVE0-YkTp2aJ5Su6VYApNn65nemqWLpqFGOi3AoMq2ZmRp-nowa-bFdVtkxa_IljDW5H1cRad7KIx4Hlem9gq7VKeKj53ABk4i3AQQjhwp6YKHQ5XzZZWCmba6ciPmM-4pdMau6ia4eTPnXZOMyLvGaaw
     widthPx: 1280
     heightPx: 1280
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipORT2VqrfA3Ypa1HqP43O9eplwIoII_E7qxWOe0!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
   - name: >-
-      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AUy1YQ3sKktuzurnjVVacS5nczVLDARSGKjH9HRwF3cIkn8qg8Ms9vmq_c--eVkh2Ry1aUS1_IkylwhzNWX-sax9IkKpdwnSn82J2a4ga1NKT_REyrfk2Qjam_N3x66r8oe8ptM8r5kJSMQl_3-wgcXtkNJtDIxZ5i8QbfoP23U9Z6Ziotw5jdNvUHqez-xd0v2fHOYZ95QYaCI8Iq8m87zGio3h7MsEfCF2oljLMxTV7Iu319JaFs9vtesKwZ_NbcTQd-XugPMuZxgJJpze9tAIFizCaL2rIzE7GL8J65V-dTpNaQXEouPdHw8SGbNUHP3yG9LC5Bv7TegGH1QxxZoLdGWbYGWCbSjFsjJ9kgI4LN9AF0opD-8z1_xbst2W7okUW0Om9eUmRwqu96Zy__hCituvIJRae52LUOzqYb8h1Sbtjfzq
+      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AeeoHcLDn4gYdSlxbQAK-DGM98xMPpsNcuATBkwe5x8Qfm9VU7_d58ty-2xvHJdW0dDwY1OUm4BQ1REA5x3dZ66idCC0cFTiE-9q7POX1nyUD5x0-uXlicCJ-jmDUbZXv7tr1vk8scTDhq8wVKLxWppLA2fRQ0SOhXNIMAsjajF9gBsY-xGHATjZLOzlbWqSHepgUOe23YfX-noLAJNmQ4V5jWju8AWzN8duHKJFTa12NV0HjGMwSgorg9BCpCVNdJkC598sJNzFGXM_rAJ2jX-gnYCVe4fG8jYy_bsuFI5NCl1ye7es8J-B0ogcTEJav4V_7XduF2Z-2w2Vin7st5rMJuBWPApt_MMVT0kO46ncF6W0uWDg7cYY-ixGD_b4vZL5xk-skRB-5E-J6XqxRvHRheHFSvmKKj0x1EmoiTgWhikWDkrB
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -60,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3pMe7pAE!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
   - name: >-
-      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AUy1YQ1AaUpq0AMLVrVzyn6zdt0e6d4VYGzzInpxLJ4yJxRbgYpU9QgbMh-8V-H7V2VN8mZrHXPBP3BDHCoqy57WbEDuSdUVOYt7BiP9DvOYQ80SaJmBQ0ks2ABYb3II5TwoG13Fmw0pN6mkO32EmOcFysg3bCXjpvu2qsvpSvZVgzJO2DVhIDvKfuuNuc3OedKjNbMQev4ylg_mKGfAciM7rSZ3MQxbU62xpkBDO1w0a5Yu5Mzb7bOJJovpdVnIYRvZOGl1zaw9U_leIUM4JQSi8MBPqTih908yVhvi56VLGHg9Sg
+      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AeeoHcIQITJqxvFxjJnNQOHlUd1vjWp16ytKoWCOdOvLJjs8LxgCcAt5QDxVx_XvwE-oXkqd7wAfJKmSn9Z_99SR5eMO6tvW413MtOeAb4VeovU5VvvUNz0vf6KbTwGT1LkNmupi9TK3oi3IiNmq2Uiw0ON4HG2jMtN52KbSL1hLI_0aRMD0VUohCv4Qv_VCJzhYf-fIdX7IZkr_B4ODAiHZkzLoWGPXNEeTqvEAddyOXoBjhk0q5BL-EzOqS_vx9DqgOlTU9er3TD_L0j8KxFpzEtertpzCz28vSvuKtA5JkTKQcA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -73,7 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPP0ZXsJMulGNyXuvEzSFBluPBHYCp3TZEIjxl3!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
   - name: >-
-      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AUy1YQ2rT5YPP3ZsroBgzmmruSVM5Qmxe26wFXoEzZM0_3VpNnmQUmfvzNGDQrLIF5LuSDzKE0H8CENcCR6biXUCMssyBsXH1sIIO8OpXOS8LnnNzaCwv_l84HQ7bH9YVuJUa7d40oD40NDD29H03kRFbOtsMOklDkbIiVhDd0qPjeDw81V4e5MMDflbCvDZ5QXhFwQN9UN1LBqFeciQsbjTImpmL99pQMdsvdT1S_dWnafBFoUeIbecqCyBIIHmiFfgRoQgr3jELsx6TKM--1tRtfyzRbng-wBdz5RHncMJEKFqew
+      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AeeoHcKJ_Y3b_N-jJuDCpg2dSC2mBKsfHXuSA-0j4eMCT7JrHxVURotgemTxL5jIxW71KCoBn1DMQG6hVO8Rf2dMgaHcRMXflI90C2gfkEuGNJFkgotw9keJo9x1sn6yjJA-BqOcR40eix9w6JGOdF4hG6J4eHwxLSDujm5uga6_I_Xf9rXPh1cmQYWkqggz3uoF2M0vlMJ8AOC1dhO5alCSmJpWl4Dy5C7RN9V_wOMAaavwVTyNOyj7yzDEavQQr96vkXXa0Jhlx3UahBbVSSFNBJE3KULNsX9XvgBYC7lzk-KhxA
     widthPx: 750
     heightPx: 450
     authorAttributions:
@@ -86,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMFJ0Y8kdZYx_7xGkFWiz4IVcHu8194E66SUGPJ!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
   - name: >-
-      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AUy1YQ0CVjQGbQVQxJbJIKR-D1lwJM7YZs5szpm1oSWf4eEWryA-Gl57gU1Ay15bMcjc6S_jpBmxt0aLUG_ePEwTuRc4fkaAh4KNqMrdwVc5FsWHWBYsLyKZ-9j-5N25FJpL3tV1XjfgMND-X0_8JzTRYFseo9FzHysKWsMuVY3oX6z7KiE7VXOYZn1JmbNQmJsw-BA0wBlngF5gZ82qzvfqjU9OUJL6xNMAY9_RoUuI0V9EH-GwHCJKbor2FDlLPUQZCVhq28X0aHgm5AsLtpTQwqscfeY6dO7TpmYwk3A9JqzoACZG-8e9azc93IyOlaGwaPdD60NqZ15RbdAosphu_R1x1A4_5NtA-FeFvvbIhT30BpHXFPtVihmTbTSeQETbeyVWEgsQSeD5AnXbruNbUAheNgHpe5hRh0nAnySSuUE3Pg
+      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AeeoHcIpvKGB3wzjhfbBdmbFIZphwApxASClNVHh8TH-1sBAMSzsJZbsQE7eTu2RY_cvfFLE4SjoD6y7mStJESwm2DIZQu-ENrbTkHjzEMF-jFVraS1B7MH7wkpnFVMaLcCFQUc7khTHD2M_aLnVXAWoyPs5JbFpWnrb6XZdf_hxgNDbn-LQHlbnTsMMvLMs7uKZzWOR0SW4ooY6Ny-90LS4OxhJZaI66E-aspSbrbEUgTYjG2XT0DW1d_xJp0SO8dBj8quHUiIxylENga8kdqN-aIgk2gkr2NQpeW4Q5mOtdsPVu7C6VeEVkqsIQAVxwYdFwqCAla_9f7xxeVwwYLt5oD0uuyulhVkTaQN6y2MXPdCOxAmgzyVmFFlF185N4Nef4NTNNZxzR7s2R1giZ9Jnbw8wkF_jqFYxpIJd3C4j2pxOjg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -99,20 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDNy9PMBg!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
   - name: >-
-      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AUy1YQ2Emlnfh2VXmqik3TN4MMhf_-eK5mJFuexAjd4UJ1-C_dsZi6g0ecgaHGh-I26rImqfbwSLSJHubVIj-dnDjDG4eUUAB3LlHWpV5Yr0Sgv8c2PPHTPn2eR4nFO9U4lrXPuxbLUf6TauKSJeQF5dJkakgNHtkV8rB7OcxnopzaJ1Oyq_27uw768hTItkic-e5JfbZFNxnFeSMsVOT7WqArsL1DOrJrRuCkamZbvJNXHL3FpCEWDo2PJwEUM4OQn0gCOXymC1zWRZZXl5qerMwd409mzK49g2HOgu54Sonxa9-A
-    widthPx: 276
-    heightPx: 251
-    authorAttributions:
-      - displayName: Starfish Sushi Downey
-        uri: https://maps.google.com/maps/contrib/114552768653090139472
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVVcGF8LxQQ4-SW9YxbNLxXMuJK1zACebRGe_F92DJZsb0yg4E=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNp0zmdS56ZlP8EpVW3U7md2V4I69jVTYeAurYd&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNp0zmdS56ZlP8EpVW3U7md2V4I69jVTYeAurYd!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
-  - name: >-
-      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AUy1YQ3dFEk47tUv-pQ06hJcajdAl6BZPezjzoGPwn64RinLo_wCN5cdbemIq02o8Q5nkPFTrBGakqbYGjNt6bZKbAtVwuDmPfJ4pJJnpXyQLOOdz6coFu7yQ639UmoNErVaCivigzZXrnmstpNPwqDmXtd9wP4RFiL2R8pTuSP_wZHIPflyxFVOYntj49yPzS6amE9nNbyZcUNchazSEEjGUQzFeu0c4VCev8KP41Zn5bI7O5JhdKZpW6EdTutntiHz3fByk-YPVkFyP3ETXMnvrv-pBCBCg8R0M4bxLMs9jCWsiA
+      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AeeoHcJsGGeJSso2Re4DZaxPbsGRFLOzk23udrFQQyVO0sAma2xtfTgauTHE7n1Hic6CjvPFDbuGDmfp8ORHOq4H7XTzSvo3oz2tQfIdo6HwZ9XgRws3pfThGxdsdlZbd5_oh_wCfycLZ662kGDTGtyhzeqMdzGTBhBuJhS0dt2WUt4MYqEBvlOe1wQ4EPaM3fK2PJbEHLxhrYdXo0AFSzIpsY8s6E8O0HdOYxrc48cv8T5oiQuWPXgxi2ok_zf8QZODcQML_8LoDoQWyRsyF8XXN1E2tcAdPVRnXNVgNy6jd8SVTQ
     widthPx: 464
     heightPx: 755
     authorAttributions:
@@ -125,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOPnI_XPjJItXqEe4KqVpWZ53kPakazz-_avivc!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
   - name: >-
-      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AUy1YQ1-3LkszlvLMcPgUJ5HGL1fe6hRi67VKC61s6cEa6PlHaCFnFUxV02u1DHg34cZnLHiP0Tn59uGqJrC4E0EFLMMQG3paLyq_GVjA09ii3eiUfTP3EXAH237oIEGEYAXiiQBNijO_LAAex41pnACxM7dSxAZqgt19RrE-MYQEX9poJe-e5v61mRqtvqVBEqdYq1eZ8FHrtBykU9UzWG_PqOzgYNwLgvgEpnAoSoohtf4EI4jdefEVaooUYv6VAW2uYudqbaJWoE49W4k43TLiNXYZ836XOOKmNFGXBH_bkvBWyjhyUFEz4FvoiOWicVXMs5FrIZ4K9H3RsOED3SFXmFGeVQOnMvOsHtHkzXxNkhAGT0pE-o11li4d5x24BgkE4JzMX5PfsrzMEjvKLdN3328M-bE-zyAd4t9KwPf0dE
+      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AeeoHcKyB4EgfjiKMeuxZPKfbs_891UmKqDZ2WCEFtXCGIs3Z242JKb3v2UrnwvN5RuM5pjV5rM4gVlzUhT2bc1IRGtUdrG5JEqBLODgvw7bx5kaNh-FsIM2HCG32r0b3ldEWZQi-Vd777JAKkx3du-fb9ORWca8o1IHixbMRq4zd0_FlFs4nwB2oM7Kz6oPrjeQmtJCeGlg96vvQN-muOpn-VlHr9yDoHRkSo5TAFc3_dovrm--XI3oREN1euTJ9UZ3ztpMduQATO7OFa3PULlA5gYx3FFHKaLUib9zBF_PEv4oH6fWMkD29T1o4hy6NqUsv-OOmV9cmAhLXSOo0MxXxCZSyLtNunph-k78c867RVQMBQpnCTMYgtwzsLJbrw_KNUVpCkMr2MBez5MIsqPQlHCIEi-5js71dvdaiSp1mBM
     widthPx: 2252
     heightPx: 4000
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP7dT1Lw&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP7dT1Lw!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
+  - name: >-
+      places/ChIJo974OJjNwoARUSCyqc9Qe5s/photos/AeeoHcI2iF8Dhj4wAg8TebiMgXOJW0hnrQ9SIH7VYppDaQvsOD7i7r9xQfZ0w7wfctfo4M6L1KgTeqARDNzGZBMMxSl6t0rPSgxcyo9dj_KQPRM2mlLeb-eMqn6VRhRHQ0osNflluE0nf0NEgEO9ZcjUYxXSHzREpW2UMiUpmL5szBYzf4xiVdbLIqrk9rHKRexrIsbwEFCPrQWb6OXwC3POxbdgAo41mFWrTgieRFv5qA589r7I4HDSWAEpvspMwmn2O7y1VKs4D-WbWYJ8y21z2cY9q9dNx605ULodhNO5aOif8w
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Starfish Sushi Downey
+        uri: https://maps.google.com/maps/contrib/114552768653090139472
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVVcGF8LxQQ4-SW9YxbNLxXMuJK1zACebRGe_F92DJZsb0yg4E=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPfrNJnmuLj-YLaLTkPNBuO1yK22SycTwSc_PXL&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPfrNJnmuLj-YLaLTkPNBuO1yK22SycTwSc_PXL!2e10!4m2!3m1!1s0x80c2cd9838f8dea3:0x9b7b50cfa9b22051
 address: 8244 Firestone Blvd, Downey, CA 90241, USA
 street: 8244 Firestone Blvd
 city: Downey
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Starfish-Sushi-Downey
 
 ---

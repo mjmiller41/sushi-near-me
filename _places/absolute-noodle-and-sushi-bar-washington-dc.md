@@ -106,6 +106,5 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-slug: Absolute-Noodle-and-Sushi-Bar-af05d3b1
 
 ---

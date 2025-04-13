@@ -123,34 +123,34 @@ async function initSushiRestaurantsTable(client = '') {
     reviews JSON,
     parking_options JSON,
     payment_options JSON,
-    allow_dogs BOOLEAN DEFAULT FALSE,
-    curbside_pickup BOOLEAN DEFAULT FALSE,
-    delivery BOOLEAN DEFAULT FALSE,
-    dine_in BOOLEAN DEFAULT FALSE,
-    good_for_children BOOLEAN DEFAULT FALSE,
-    good_for_groups BOOLEAN DEFAULT FALSE,
-    good_for_sports BOOLEAN DEFAULT FALSE,
-    live_music BOOLEAN DEFAULT FALSE,
-    menu_for_children BOOLEAN DEFAULT FALSE,
-    outdoor_seating BOOLEAN DEFAULT FALSE,
-    reservable BOOLEAN DEFAULT FALSE,
-    restroom BOOLEAN DEFAULT FALSE,
-    serves_beer BOOLEAN DEFAULT FALSE,
-    serves_breakfast BOOLEAN DEFAULT FALSE,
-    serves_brunch BOOLEAN DEFAULT FALSE,
-    serves_cocktails BOOLEAN DEFAULT FALSE,
-    serves_coffee BOOLEAN DEFAULT FALSE,
-    serves_dinner BOOLEAN DEFAULT FALSE,
-    serves_dessert BOOLEAN DEFAULT FALSE,
-    serves_lunch BOOLEAN DEFAULT FALSE,
-    serves_vegetarian_food BOOLEAN DEFAULT FALSE,
-    serves_wine BOOLEAN DEFAULT FALSE,
-    takeout BOOLEAN DEFAULT FALSE,
-    slug TEXT,
+    allow_dogs BOOLEAN,
+    curbside_pickup BOOLEAN,
+    delivery BOOLEAN,
+    dine_in BOOLEAN,
+    good_for_children BOOLEAN,
+    good_for_groups BOOLEAN,
+    good_for_sports BOOLEAN,
+    live_music BOOLEAN,
+    menu_for_children BOOLEAN,
+    outdoor_seating BOOLEAN,
+    reservable BOOLEAN,
+    restroom BOOLEAN,
+    serves_beer BOOLEAN,
+    serves_breakfast BOOLEAN,
+    serves_brunch BOOLEAN,
+    serves_cocktails BOOLEAN,
+    serves_coffee BOOLEAN,
+    serves_dinner BOOLEAN,
+    serves_dessert BOOLEAN,
+    serves_lunch BOOLEAN,
+    serves_vegetarian_food BOOLEAN,
+    serves_wine BOOLEAN,
+    takeout BOOLEAN,
     updated_at TIMESTAMP NOT NULL DEFAULT NOW(),
-    created_at TIMESTAMP NOT NULL DEFAULT NOW(),
     CONSTRAINT unique_restaurant UNIQUE (latitude, longitude));
     CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_rating ON sushi_restaurants (rating);
+    CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_city ON sushi_restaurants (city);
+    CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_state ON sushi_restaurants (state);
   `)
     await client.query('COMMIT')
   } catch (err) {
@@ -207,9 +207,9 @@ async function initDb() {
   }
 }
 
-async function upsertPlace(placeData) {
+async function upsertPlace(_place) {
   // Ensure updated_at is always included
-  const place = { ...placeData, updated_at: 'NOW()' }
+  const place = { ..._place, updated_at: 'NOW()' }
 
   // Stringify values that should be JSON (e.g., photos, opening_hours)
   const jsonColumns = [
@@ -232,9 +232,7 @@ async function upsertPlace(placeData) {
   const values = Object.values(place)
   const placeholders = columns.map((_, i) => `$${i + 1}`).join(', ')
   const setClause = columns
-    .filter(
-      col => col !== 'place_id' && col !== 'updated_at' && col !== 'created_at'
-    )
+    .filter(col => col !== 'place_id')
     .map(col => `${col} = COALESCE(EXCLUDED.${col}, sushi_restaurants.${col})`)
     .join(', ')
 
@@ -311,9 +309,14 @@ async function updateSearchHistory(lat, lng, zips) {
   )
 }
 
-async function getAllPlaces() {
+async function getAllPlaces(updateInterval, order = 'ASC') {
+  if (!updateInterval) updateInterval = config.updateInterval
+  console.log(updateInterval)
   try {
-    const query = `SELECT * FROM sushi_restaurants;`
+    const query = `
+    SELECT * FROM sushi_restaurants
+    WHERE updated_at <= NOW() - INTERVAL '${updateInterval}'
+    ORDER BY updated_at ${order};`
     const result = await pool.query(query)
     return result
   } catch (err) {
@@ -339,6 +342,7 @@ async function getExistingPlace(id, interval = '6 months') {
 }
 
 async function getSkuDbData() {
+  await initPlacesApiSkuDataTable()
   const currBillingPeriod = getCurrMthYr()
   try {
     const query = `SELECT * FROM places_api_sku_data WHERE billing_period = '${currBillingPeriod}';`

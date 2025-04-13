@@ -8,7 +8,7 @@ cityName: Brandon
 place_id: ChIJv8-wBmTOwogRvi5bHHuMaI8
 photos:
   - name: >-
-      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AUy1YQ1aYDJgDDwc71_ADvAZYPac2wckG82XaY726s-NtTiIyX73q2zdDbZOSWKmVk0RWDsHuDBjJ7xVlxYJvi0QBuX-xavndiPY-5-LGpEu3sutwAXNrFKqbqX2Oki3tFqCkurWt9oBSD9hoCRI5mM41v-iHz9lxhZLMF41iEHLrXKk8Zus04_UoNWM6TVmDKx2kLre9IIyBd3B4uKk8gSm19A7RuA-t4JqIL0tR1WgALLFry2gv5IspK3ypLGYLbIPnySos-DW-o_0OJfCxtL9B_8lYttP8fJWynZjOHOlhWnLY7QI0MCU9WGXNpvenz8GMB0FQCIVv4RI21aTwLnxOwtZ6KLMUNhLzPhXaGQ0LtUB3ymJL97RI-0Mn9QuIDOsrPoZ3b4rWx1ELCxQk3RH8W2ZFBqFSuxZgE_OwXqcAO5kGbux
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AeeoHcJSH0avqWZJfSTT7FYrprWEIit_ozRzRoO-n6W4KEPDTGTuO2LVG7PST2_L8PKCvrDSQQ26NhNVs1Y6SA6f7m2v_5EdfsInOxE4ZbWSDNaIQsAwI1VBB1ji1PFHgGhLY2MC9W3piTuK1L-PbQ1J8u_KXlzW22sORmSLZRbmmMhS77x9f2nsDKSeawzZBCphwSPp7CKI2b9NZwiYuDstV8VdeZXwxeTK6X18ZZ9unxl0l-V6TlJXqVvNmRO8bDvpWn63N-qu42gCD3YEPqo5ssEEvBTRZkJe8qy1J3Nrj2bQDJX-fliJRIIRTUXflMabcCsHDko4FTdzFZE51X1VBOICeFhqzkLSer0-LaR4vSAJkIlb-tWTeP6M1AWp2vaAXsrFEuD4t7VIf6XsEKbea4YtMEjtArhoGlthNvJkf-LCm4F7
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8vY_r_QE!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
   - name: >-
-      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AUy1YQ0gP8tIk4pULJGDwoDflEJTiT3DHVZLZLo4Ef710pFWcbjMCB9gF__MwOkKhpU1t4FIwY0gna8DEIwh5kctftao25yruNrztopwEZdrNU0A1lzqw_SVgvXEl1ga431_MH9hI8ht4O7vrR8YF1BK4Kz9eAxWlqMAoTqkuL8PiX74DE2DCXFnl4EKOgHutyZgos1oE-6K3Tk3AdGoxUbIg-uIb88sz6U8nVDZoBdcAXbyOkWPf9wcAib6AdnNTR8KniS7byHZkaOI1F-XyubuwPw2sNdQmOp5syAuj7pSpX9YEDOdx5Qmqz-D1Rgh6Vg_i51lmPm-GEOUQ4yT-mtwYUCcfx4GSaurwJgHwIng52OB4RcQCzcuuFnHxD-OkmtXsjbZj1Ea1OfIxZSy4pB9iGh8yRtMOk-rZIAUwP9P2SpM-w
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AeeoHcI5VGPdCowd6zsHldFF5iFiB7NOO5b2n2qIlZvbMLubjSwz7-xdk3kDE0nE7vUPtEVFEqWxh7VDn1Ts3e_msDd-nkXBMPmrq1ozxHzdFfjrA-4C2aDAbHSOwIpqtZjRm-BjbOmbE2kA_DeNR_nR1wQjYhdWeIZVQBYeVlEPvRozhYHuzsLrJ9D-qFWsSjyNLRE0wSbC6pdxppfPvHFYwJ6hs791wIUgtb2xUKrmSQXWLYWqwwyJFbyG1z_hU8H1ArU38bndJ-qwYk9BYStULKV5aZfBxJjmGH686Ihqxp3_kZuGn0ABQqHcJzSwEL4Kd4OwZqM7Fax17areNZP-RuDksbjxRqULie3j_gnNP-eaSRdua8RjtTlhWdQSyqVNAidg9N8ZYZKWm_mXACbxoai_EsNNgHgEh7F1MQEPdw9Mew
     widthPx: 4032
     heightPx: 2570
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICp_4-aGg!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
   - name: >-
-      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AUy1YQ00DpL_wE-it9T3mo_cISFePVvg8y9xSJbSTk9oLkByKmPqGUL9_1RftUH5kHtmBlJdKM72SgOgTH18OwN0mFA7CNKIyR-US5g2FIRz4uaqpffxKYueUdr_STfN1v2HOAE-SRLS61iEA-DVmLHjq1z7nVEJYhDlulX8v8h8nheg64n_zQ7AM8QS0jsPLaMm-sVh4ZOJKJnEaqutaqUPOk54j2peSmesr3gFsVPrbVt56JEYt3kiH4PfcuA-2ZLs6BYybamW2CkXgID5KlqkgesbscmdwXl1KSUuxdaSuVuj78-T8w9cNKTrB55pxDXNdQgcSXqhL8LAKv3GaAugawBdXmqSJz-FxDrYQdPCpSUXNKAT-98AX7XFMnT-TX6ltSjOhchOxo05cJvw6aYuVhDnRCUkqWuHjJhjz5J_7ml3ew
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AeeoHcKGCv5A6jVyE4nR73wRXB39zzwnDHRE_PY7yhAcsLBtGsfLHzoLi-bqzEovqstV5NfBB-zv6uJ1wXH1bkwMsvz0TWiKSXKDv7FTpD0aEgZQS_Mr61ZP3y6NCg7WCkfGUz0iDEapx6JS_gieqnOJXKNr4GPqVUZ6iV5SxAhhxEZRF9awea1i-xspJEOFcq1qXfGg9W4O668Yy7O4-1ANWkfSJYir_NGcHU1Yu2CckzHSTbtO3r0FODj4Z0ElRjB_7Uc_zVyc3-5Dkn6hDWloP-Ilcu0kND1pAOx4yftt7rcdmODXhc_8VWjyat0H5cJwCvXZhdZNW3sygasXO385HejKCb5G0bb-flnYFRGNeYLc_MnQi2BbYeQ7D6ROuZb-Qp43OkJYASzf8ImqmgTT35-cScwzOX9dXrlZ3au6-TCfRQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgie7yFw!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
   - name: >-
-      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AUy1YQ1-1shtJeYFFnr8Wew5pIrmkEaYf2hbK8VWOGIge6SXkAicsTSBTFNUJ4xc-8CzBrr88VeTo7g_ARBuKVHKsziIYzabcLwboNi6Y_4K_xkelG2BDCptRV-4FrMPP14PCVBnEp-YD9I9MHq3H1UKgVyQunu0uKJXeBEH4QVh1PIQKtEcBpHpsW6RSieEvmnXEga0AZ5J-xkb3ARK4fU0LK7cFOGsxBXAlgh5HaifGQXjcbBz7uXFLeNzJUDZiaeHng5T3DSzfj2LOGRZ96PHpREoxB7SurC1mW1gEIJszXFRDMdaQyenW--Maa6JhVKVI5fM4RRII-Kgw4aOktMHM2ab_q6CEaKg8KIXfSKD3MHLlDYxKdoBYXk5-u5YkofSfrytMCgSrerxFDDiYoohh9UdKNqdgAXMUCUyhDiPZ-lv9u2p
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AeeoHcIOfoOPv3Q7AlVpnpfKVVqRf2VJX8WchSN5ZqThUZqiO8sQEhGdSsbjeyg4uKTM0nEkloGnrPsE6fuwg2lsCC2ncy-W-4CaeAt7ovgUwae7nuB_5ikRwm6RaNqS_TLxnjXR1GXP3c5OSAzEhQLqlZy__LH4evyzBN6kf_uyAebC0VTFfLGUqdpS5V008kzgTXZrQbU-cMOhhJewqyIVPSA-Y9TKsaGcjr9nmX1N0zwR_ao7upnhwGNuU381lqLtJhgAlcFuRN_ncDxAIYvFGVf4KCHIQ_aizlMT24JtPtU8mvKcWYGMUnOd9b28pdPPxaXdtfCp63j2CbTB5T28HmPYXl0OePOnLWbelNkABU7Mcu4Ua0kEJVZW_QcFmV8JsLLw4vKUMnpOTnrLEMHqfcFZ-xwmMNx0DrFLw1tgIcnAbMWB
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -60,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgie7ypwE!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
   - name: >-
-      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AUy1YQ0ThZSA8yxbqzyyGB7Zjl9iSw9bNHjLBK1Jy1ozh7IF4ZjCv-5PUi1aRxKdIPziUw4BJPgLo_O4wCNgFYeqEWjVGiX1pGdh8Zc-dJDnDM8Pfy6VyEZ0aAti6HT9vTfrxJCXEIMva_vsN3_jYjCDmN-1X-8c2q1RNHhi2DaQTw1Uc7m5_Is2twWYpIhjT3RaVvQEOzRHKFc3rI972hsG1kkzj_UYOJ7YhpxbrBhX7QxemOynj73p2BmUrViBv1kUd9NGl5uIWlWwZv227znvXOxScgR113syI4TiwBsxUiHdWnqcvdUdJR1XCTE749n97dyH0x1XfzbNrO0oKiui3fUET8p0sPwGnM3GvpHGumODc-0G3IwYUgfKw4YQ2fHMAHpNnq0IQhXCangDqOmrs2g6keurGbobrYmNsiqd4ZWw6xQ
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AeeoHcLEMS6ZxOA8H3P_iVZCJ8SsuzW0Ig-cs--huGJdp4XB4LLcNe0ey-8SqZWFHAsvucCGDwR-exgG3-QElDTyJHjobDVnXgu9GEnR92xvZ8_WPMOC6qGNjelDcVWLwQQsWvyf8wKJOuhwvleSdKNwOlxnP5sUzrnjY1OFnXZEI1BK5Wt4rHTiHuB-4rcTZpDOf_upmVmVBpOccEXjmUaoKaGzYudGVJeb-OTjWmTYasLwuzpsU1wZrCgi20NIqodDRfV9PKaxPWagqa_4o3Kl6J6pCENr-NdA92snOaLAgsKVjlX3Jrnb0AQDpzkIzc8zsvMLjf2vhSV5M928cUIrSY8jHeI_jA_dgthS_NHSuPticEw2qokjeiB2YZA0ZfVTKHvSZIOTcjGT9ukMFRDjENIVjLDL7975Pmikn794CTYan1w
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -73,7 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe-J-ssgE!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
   - name: >-
-      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AUy1YQ3c3DSJPyhstonY_AdwOoHOJjM-iZdJQ8ViRu-DaSZsqMLd7wJZje1E5jiuIRydpkPhX7tAYEnnmqKaoiHF3Lc71qHVnjsllulNuHF31f8j7fAZyx0bMidwbF1d4MzkzBx-se__UtCnFpSTOf_tcMyx_L9vF-Mig-87zR9Bj2PR-5Yr0ZLfUBAvwpswFbh68OqY4jKiFVpccFI4w9fwx9xEvhwhwgWbsTDgOe7bceZnyyVYrx7yjqx_bBqjrHuhfiq2sHfkZg-dVx8O7VM-wpJI74Q5v2k1RSMLxLt42YzAeYARU87tgTsvAsn7N_NzwAZeeB8P34AOS1qbMZow_I7g_UyzOqW51_1-CsU6YIpB43WBMk7r1UxhoHLF0DpLxZDMa-nst3Aq5qWThhRyRala6u8xH7wmoa4-XL4iwn8sEPk
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AeeoHcLD91PemSZtEKuENXHGvbbEHVu0e3t4x1MmWqdJpXtvlASrbM9Rm7IEJ8aFv8tcw3cf8iYTMrhzsx0sB6NZEgzXNRdOj0KzwAEeTyrMC6iD848nE8JR5VHcH3_qX05CqooqOtvcKYGQia5NL-U6N85_K7mtgdCEA4P8TE0arQYcOFZwC6s4DBnu2GRUkqhpnZsQoixsMD2Yf3Fe34sMCXUHlEXF7mhbWRVFDwrPZV9zulkTQ9H2ghfpTsK_bB43sqkIjcgnP-umCVLDF1sMyHzBHIX7xDoLf6O6PFIAzSjM-X53nVSvOCZCluSlnEx5Zef5TmFSyaO0uNakfnER1JrFis-ltgpaSWj3FQXLPrKMIOtXQYU-HLQy8PSwgCj5PPCNhsQbGTG1MUCR9U5J59EKc63l1UgSLTJHN2rjjrHCVH4
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -86,20 +86,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDtM2DiQE!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
   - name: >-
-      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AUy1YQ1xadk9zxu6uonWkSqyVnI9HEt8d68hAVnxOm4cnExQOWo-Xp1NcAX-qaCOVRHDXj4ksd2cGyKLSEb-OfpKJhTtNYFX10Jg5kRbyWNv-gcd9bwq_udeswk6_deBxLbLi7hBmycs02tTFRUytV6W10dZNQpU_wYJHaWfL-hT9ButTegQkMNJd2foCucfwxrXPo7kiaNgbobQTLZBR_dGnx4wruUjPqzP1wrw6O-PKTFLX07VxeqJveIKc8Z7FNlpVlOB13zfUPEsQnbBDsutKE8YFf9tXSzaZA4NATZ2oZqvvukT9SXMsylhxvF6NliR_3XLJz1LVaVl9a7vkmlJiYPQHDUdlpLbmL4xBcY0FvEU1O6XgNM0o5wDRm758YNRzw4BNq8jsczbMNBXOPPsn8Ew2gtbeekBfiHZUQ99-Si8eKal
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AeeoHcI_7KrAvd5iYDP7F6kJ7XsMmH78g7hamDz6KTWHbGxKeKI8cfx-BsOY5O4aTTjZrRKIzNzSIR1r8iny-qoH4QH82sc2fooPCT_LQiNDz42vSqK3NNVfy6ZePuAL2ph1YFBf1K3re1Eb9Uxq4x63nGOI6D2GPVGlWEjXcy8x0IXvz_fcGRhQZ5URpkUYDArOt6T5I57xFne-mtpVOpcQ4ajhwvGq4nTWdk6yQSEh9mbDYutP3oCOAhgsfcBbBsF4NJq_LkLo2VI0C-gbGlbFzQj0DjPP8KaqmHdcZ_xbkfj9gDvQeNwsFrgOalzoiqG-K6v-CbaAbCYhI9qTfeDK-eO-iiaslTO7ZkRQilJSh_T2VZbcinL4DYWYNloAJ-B8k7exP0I4liQzghmB4iD4bsv7RFykVZItYEhECk1SnZn0Dyw
+    widthPx: 3468
+    heightPx: 2396
     authorAttributions:
-      - displayName: Sarah zagardo
-        uri: https://maps.google.com/maps/contrib/112723778869899265483
+      - displayName: Ahmed Husmen
+        uri: https://maps.google.com/maps/contrib/112142725502751579708
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVVaIvHlsu8C8IQonNQa2H1beqcqKaslPlBYgz9QwxAiMVlbudt=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocIP5Y_viR-aYfYJjIsE7dWH8YWa-ZHCCWp6ErH3EuJfd1eq8A=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9uZjPjwE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDp7su0mQE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9uZjPjwE!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDp7su0mQE!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
   - name: >-
-      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AUy1YQ1gG-KUcPq9IxwI1_QQ-6ocgi0lYmdjY6IDrNeaSHCVzxaksyhsXVD1bCige7yBp_BW4JuJZ5rSE6F1chZA6GUreQemJ1tUbi7ahRF9ycf-WdvHf_kpFGRnV4PfmhXaQzWB5-IXfLtNb6DjJE1vPyeCkq6EEUasviEHUizrsWqD32w2TjKEuy0WIwZd623v-uDL6tfltxoiMG6-Vv6thXDn2C7PBYrieZJJPMXV17lxjSDi9vT0J_6FX2uJMYCAO0LA-mxo5HGXBvl9GILDHrE2k9Li01jjynhIPlZ-TeHfAx9CvCndSbY2CnT1waf2Htl89HYssOxmaq05FzeTli88GFVbugaz47WNzRK2-ETRDsqSJTycYo8aAE_THlDhDNNo6L0nnZZL2EXitL0TQmwU9XCiIKw_fsKEd_1chdL2Mi4
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AeeoHcKGHGXMSRvV_1_AyMGlGW-y37g_Jqru9C8BCLtTCWXD6qk2ryZoeuaJt74fCkLCqzHSuV8Q5kfMzaPYg3HF_IWlCloUkkwTD_Fj48rWg1sVYyGrUb9SYOUL_o67aBqvCBDw0bq5GHl_9Fmxjhwo5miBuc55PiAQx1Ve-Iswc-U6WUHskYtKxRiLAhoiHYyHpc-e3uYN2_78eLowLwmWGoJtg_Uz9hmz-BlEN2lVC0Gg6O936PZF1Nb9U7bDRGB6118R0JkeG2ZkYg3uwJiS3SmWo3HyaKsV_nBOmQFljiE292R1NlJ_6PiNzCbl2ziqu6dNoKhxNAoAAGmDp0RJWUy-thz1ve92OQHqfO1mn2AmED3Z4b6FiArX0fdA9QmtYQm6rMfGDrgFY6Y1nco3A1fCmlY5UuUuSffg9E8QUdz14ZA
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -112,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe-J-8xAE!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
   - name: >-
-      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AUy1YQ2l8eNUlxhWsG3zOWLQ4bCCKh4ZIcHRssAQ1IUrRfxHHD-YBTM8bsEs3ltBmEZql3blqvHHDaG9sxGDUPd-a0QbiwRFxq-vaytsM8KeQ4vpRjs-WkYqteMbrL9eGzyGHSta0Syzj6JnStOMIaHXCj8bpZfC2gqQil1GOlouQRYyTtqWdkSAV8QrIC0JQYym8m-VNx-dkbOwXvHZhtpLnUPSqG2rIKPgx2b9LVWXuFOqpmqcAHRntnKOUoO7gXhumsoEcvdo0lRId9ixZ85saUwxZnaRrhf-IDhoOEiTR_hOO5-2I3gxipytTWJ6zVRzandWS9wwTiIITWw64jqoC3dkhJUnT5-_gc5ajoiws8qMaWH0910TTB4Qh19-_3YaDvEoL2_Nkn0TeOr2jPLBrYXuJQ13ZKNs3z_JC70hQkb4-vUl
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AeeoHcKoo55p36GfKhZ_dLpZ5tCmcbcVbmHoh87js3JF8Bza3VX-odHdMSDWpfAHwpoY3cIxfpMW1vbVLKl57RF9gE7yhraOcbP-smhltmksmn1JERh6SRFIbgtPyMQK6YYbzodT62_C6fOZh31FJ45QpTLm3nvkY-uChtQ3uT5kMXosQ2qoR-9zuP8cK18vA3RFlOjRjzgjnQqqp8jn-zRH4aiK7qT5MYjyoH8ZpLF-iWwgF3BdyJglGj_cq4-x-xho-OVnNQDf11eesvcj9-QcN9HACVrIp47immjbNNCnbPeg82GzXn_3opWWd5GYSTGg-ILyvpLh4rvaDwSvP6eTbruAIEhHDBkpFZxaDgRYWwXsq5znaX_52HmN8YyPJmx5B0R4DskYCc9qp8PKs2gzZzL_RD2MqxtKFlSyU95w-Drl4Lqz
     widthPx: 4032
     heightPx: 1816
     authorAttributions:
@@ -125,18 +125,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgnp27_wE!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
   - name: >-
-      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AUy1YQ1sKOKHTr4AJV87Cz24p8WfXIUfw_WgqXrCbYaGETCIGhITnoY3PZMG0UmDYd6uQADWk4opbjFk21PB2m328xbR50Oi9F2TYNjT9QuIJ9mY71HgdVAzjUsyCQ9WhiSLvBjZ-Ju9jcpE6-wIfe8JbSBl6iGTZfUk7uryztEAxnxnaMaYRYFqeaHZXdZG-tHufz-fsI_ZysyEV5_4BCZ4mj-pCKyMgLHjZJ-rVrx9IBMwJheGE2-Ggu3qt9Y1hYJSmHtTIN7UzqNIbWb21JX9tbcbog_HO1HplywjwGIKbf2qsHTgl89lNNVkjgh7mUloS1_4AHuGcpfLp_nqicZPwQz0G1f_x-gFQ3h6kr-P8SerxIYWegS0jery0T9ZjE-wWsuoed4tXZnoxcbF9Znu_5GkF4BAG8-DGALJvTbWsOEMxj2X
-    widthPx: 3716
-    heightPx: 2581
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/photos/AeeoHcJF8zZaKa8Gudfm9CEzadu30hlEq-nNrhDGvCpP8KToIv4bRmAqb0Ud3wpTI7tGa7z0BnxZoJUJ-f5aGongEI-lknRehpmICc4UIDgchoAPGYSZN1-utzIWztl2MU707nX-iz6SVzZ4AX2UaTqVaoFJFpMX-5B_427QRXJ-ygr6exmq_X-RkmubT9a0Hln-yFxwnIjpTn6Ym3Z8pY49tj-c0j1upY2xw5g2B-O1hWz6ad1EkBC9ADFByaCikFgGQDmOi0N3rohg2p3_E685P5Up_2sqZduQvwy06xZkMpjpnlevKSOy8Hc-nh54eAp-uVz0NXOli8-kQIpXrRu6oUV_hofnvF2clT89mEISwgVtGaSy3KihFLeuMBRhA7mwEQm1LRn7jyuulWciED8Pv7m5qwZshDOTHDu9kyc6svY
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Ahmed Husmen
-        uri: https://maps.google.com/maps/contrib/112142725502751579708
+      - displayName: Russell Horton
+        uri: https://maps.google.com/maps/contrib/104414998457340790842
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIP5Y_viR-aYfYJjIsE7dWH8YWa-ZHCCWp6ErH3EuJfd1eq8A=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUjmXxgeMBPjckdy5R6cNkS61yoe5y53vO-mIBx42hEnpokdDFM=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpuIOngwE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZ6tC2Kw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpuIOngwE!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZ6tC2Kw!2e10!4m2!3m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
 address: '2020 W Brandon Blvd #160, Brandon, FL 33511, USA'
 street: '2020 W Brandon Blvd #160'
 city: Brandon
@@ -174,39 +174,200 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: +1 (813) 657-6278
-price_level: null
+phone: (813) 657-6278
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
-description: null
-reviews: null
-parking_options: null
-payment_options: null
+rating: '4.6'
+rating_count: 1366
+website: https://brandonsushimaru.com/
+description: >-
+  Chic spot in a strip mall with clever sushi rolls & other Japanese & Korean
+  fare, plus sake flights.
+reviews:
+  - name: >-
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbnZXQm93RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Nice quiet atmosphere for dinner with easy listening music. I've been
+        there several times throughout the years.  Our server was excellent and
+        very attentive.  The sushi was fresh, but very average fair and not the
+        highest quality.  Miso soup was ok without tofu and little flavor. Kirin
+        ichiban beer was great in a frosty mug. They serve Korean food as well .
+      languageCode: en
+    originalText:
+      text: >-
+        Nice quiet atmosphere for dinner with easy listening music. I've been
+        there several times throughout the years.  Our server was excellent and
+        very attentive.  The sushi was fresh, but very average fair and not the
+        highest quality.  Miso soup was ok without tofu and little flavor. Kirin
+        ichiban beer was great in a frosty mug. They serve Korean food as well .
+      languageCode: en
+    authorAttribution:
+      displayName: Susan Macbeth
+      uri: https://www.google.com/maps/contrib/109351338224323661606/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVHLjOqlHbxjeOo3HSqAdnT221LCTLc8A4sbpzd-D1JmnTl389j=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-25T20:10:42.795107Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnbnZXQm93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnbnZXQm93RRAB!2m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
+  - name: >-
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnaWU3eVJ3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Everything was delicious, we ordered the traditional rolls to share,
+        Tampa, Mexican, Alaskan, Jphilly and avocado Tuna, chk & shrimp fried
+        rice, gyonza, and a bento box with teriyaki salmon. Everybody agreed
+        that they were on point. Drink menu is a bit limited and I wish the QR
+        code to see the menu had pictures specially of the diner options, is
+        hard to order guessing how it will look.
+
+        But other than that we will be back.
+      languageCode: en
+    originalText:
+      text: >-
+        Everything was delicious, we ordered the traditional rolls to share,
+        Tampa, Mexican, Alaskan, Jphilly and avocado Tuna, chk & shrimp fried
+        rice, gyonza, and a bento box with teriyaki salmon. Everybody agreed
+        that they were on point. Drink menu is a bit limited and I wish the QR
+        code to see the menu had pictures specially of the diner options, is
+        hard to order guessing how it will look.
+
+        But other than that we will be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Alexis PB
+      uri: https://www.google.com/maps/contrib/109014361043730503891/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVAV2AuC5q0eO5YAvvmn0ILagyf5PV0Gb3VdNYgaPbX353THBc=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-18T12:41:49.498213Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnaWU3eVJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnaWU3eVJ3EAE!2m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
+  - name: >-
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/reviews/ChdDSUhNMG9nS0VJQ0FnSURCNGFybXp3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Thoroughly enjoy coming here. It's one of my favorites. The rolls are
+        always exquisitely prepared and delicious with the freshest of
+        ingredients.  I highly recommend this as a go-to. Don't take my word for
+        it. Give it a try for yourself; you won't be disappointed.
+      languageCode: en
+    originalText:
+      text: >-
+        Thoroughly enjoy coming here. It's one of my favorites. The rolls are
+        always exquisitely prepared and delicious with the freshest of
+        ingredients.  I highly recommend this as a go-to. Don't take my word for
+        it. Give it a try for yourself; you won't be disappointed.
+      languageCode: en
+    authorAttribution:
+      displayName: George Grandstaff
+      uri: https://www.google.com/maps/contrib/117092424766199680390/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX2Yeh25oudAnV6PwaUxB-VwIwN08x_prB6ZQY6E1Agy_NNxBOpsg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-29T22:10:22.858782Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCNGFybXp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCNGFybXp3RRAB!2m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
+  - name: >-
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aDg2bmZREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi taste amazing with great customer service however I have
+        been going the past couple of years and got crazy food poisoning a few
+        times so I do have to question the health safety precautions or tuna
+        specifically
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi taste amazing with great customer service however I have
+        been going the past couple of years and got crazy food poisoning a few
+        times so I do have to question the health safety precautions or tuna
+        specifically
+      languageCode: en
+    authorAttribution:
+      displayName: Phoenix Deleon
+      uri: https://www.google.com/maps/contrib/115880497495040158429/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJSrdZAHDm1UMR5GH7qq81gqA6D4PlrMgKOeY0tdsUiH6MPPA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-28T15:50:21.572814Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3aDg2bmZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3aDg2bmZREAE!2m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
+  - name: >-
+      places/ChIJv8-wBmTOwogRvi5bHHuMaI8/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtcTZQdG9RRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        The prices are a bit steep but the food is really, really good! We had
+        with them last night 3 of the best sushi rolls me and my husband ever
+        had and we are people that eat lots of sushi! The server was super nice
+        and sweet. Food came out unexpectedly fast and pretty, you can actually
+        see the care with wich the rols are being assembled and sliced.
+      languageCode: en
+    originalText:
+      text: >-
+        The prices are a bit steep but the food is really, really good! We had
+        with them last night 3 of the best sushi rolls me and my husband ever
+        had and we are people that eat lots of sushi! The server was super nice
+        and sweet. Food came out unexpectedly fast and pretty, you can actually
+        see the care with wich the rols are being assembled and sliced.
+      languageCode: en
+    authorAttribution:
+      displayName: Roxana Lewis
+      uri: https://www.google.com/maps/contrib/106870553675169042742/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU4icnIlnIIyfizdesWYh6WVDoPngH-xocQEiGuUc-ZT-qbzEh0PA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-11-13T22:43:36.556318Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMtcTZQdG9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtcTZQdG9RRRAB!2m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-slug: Sushi-Maru
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
 
 ---

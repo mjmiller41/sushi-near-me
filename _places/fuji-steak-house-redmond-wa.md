@@ -8,7 +8,7 @@ cityName: Redmond
 place_id: ChIJ4-NN9q9ykFQRncFXdlLBcKE
 photos:
   - name: >-
-      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AUy1YQ2X7Yv3FPYeY7CcDZpCltObGLq19vxSr2S32mr4XVkboiAZZAMEM3cSuTR6jNxg9dBkdpfJsqzmdNhD0ZEXUkDgzd1F1d_-7KtSv6vueY_MkAb7oVP2flYpSWFsdAt-kMziRQ9UdZnl-jM82mR7jk44J1Wg4b-bYgBOlfe7di2RIkXK1znepNaSGH595fYesRmEHSOngQgbBUpYfGhcPWvmkq6iG6eN4EgEjfTzDQYOZ7KgbpAKbBJqwob7PPpRmDs0sHRMdowqUAN_rKLgTADTWHE1cMlc_UJ0JzlKd_WaR76LNIybAp1SbAhvO6rQ9y5_RWuB5FuknZlSPKH2WSXsxjzwSNuAMPo4ufG19QWcUWWSP8zp_R7nSUMjhp3PMSUigI1z2d-6r2y3PdjJz1VUQgLclgIvP-238A9RmhJO9eY
+      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AeeoHcI52hKe2Cj948m-29mV6Xw9qqwLFJ8cgmZyQ5cjoQpNDWE084-BQu6HdPbBSxcXJXzfkv3Jsjck3f68EK7V0T22vVi3vFH7t4Q5VChNxcg2eYFeBkZ9yyux918XVNLccVAPgG1dSEEilJY3uIZX9xioxuMrKq4guuKNYlWSI_5NitgzOGGFRNDAXJdkRUdYjhl7kecPgL7W4MdPrNzl6OFbwjOR72xrwilbAxCKAGhbbeGZhQxmmiogh5E9lNy9uvobKfMtViH83VAq6j-5XD6p2WOKmnq-Dh1huIgsj0L4Uqz_k7icWISiPI93Jo3DrNK5AtUXGzHwr6QT_s54uTICpahQXtAROO7n0UWDGQMowLXwOg4sa8w-jS4HDHSuZoGuWoJhNy6a3jQfgdVOrm8rvPxDAoQW1QsMmB6mM2T1g7Y
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6k-WS7QE!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
   - name: >-
-      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AUy1YQ3-O-Za7MzOTQa6NwXvxeuQLMmKu9IUHPdtxIVTmsk7VqJz-czpN8D11eJMfgHF2Vx9xBg6thi4lMsoywjsNziRhHX-6MItpXQnD1DOBvdtCDRmGCy_pTk6xUPhEK7nagmxJi1OFIEdHmdzbYEst65eIAHQh6d_W8nRiMqWOEqKGYKzWjF0U-Q05NbJHd5TjIwNpp0LuXRMnq4ILwKIQZ6SxLtO0hK9kHeBx1JyeB2qlim8EFxpOJT7uKOr1xLoKufoKEonVn8F74f-KxvZeeveZsWmhM3aqvPx2qF4SVRmwei9AHJ4uAZs_atHrhheFAui-rGjDDWSF9e4scGBgo9bSzWQsTIVPwodmEAR_FU918RE-mhqgJLzbxs2zSPhTt1DkHLBBv3wjoclmYGVaOfdTVrlGwU6rF_t2DN8T-heOQ
+      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AeeoHcK1WpwJzSq84xb8CsVT6ulDkU_G84bVeCNQXtaWdFULZD371xkMeQIa1dh-zF12ty6NMZd7MiJrOTXgCxShSPfPa8F3-D2IRWYHiLMDEG97cNgR_XrEyoMHTi1yIGCgJZGE2KWBerQ_-Uo9WU1sUWaKZ1tOzxlZxrT-BdHB0NwbpPlMPONDWaO7jAas9cNktCLk58WRkkDTauFn_06xsANwg2VLkE2HriDB7UHpA0sKzqp278hYXbAIIRvLozBEIufatdozJf9aCGSYkTdh48zwcfFl1nJj7CBo55P_CqHo-e12OuF_wHGsy1YAxAW28zMA5ykQEol7XigtPG34cmT6vxxIsxNJEJHe1kdPbBHIQLDgni6NkklK9lamz7zeiuNLIa7pCjs8I0LbJNmSbRymsNn97kADuDw5ZXGnuQS66A
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -34,20 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj6JfgYg!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
   - name: >-
-      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AUy1YQ0aHGrksvGd7HPj4pRke95AjitwPtHGEUz2SJnICsCQ9lLAlV_A3Kl-CmQi5NdgE0D6x62Mgz--NAqzyjL3HAKEv8FOUd7euY-JGU5AVqcAlNWSjN-1aoXi1BFtUfNxILAF3nBhwTG2tO8n_a1BIJ1jt6BJx3jAB3nqEVc8SXR-yQsleyw6WCycSvrXpCMwXBBxnhdleSQ_FLOfPa8f_gf6yeJva4Smxe04LwDCwZRYTWPPFJFiuWFJDaerinvK6nrWDsSiwY27q1S8qI7hISbJ8xhoNQL-wlTwGU-IJT9rNKNmuXoRmIg_FY43lPXJgWqs1h26tkmUPGfmDg16AUu1EEQj-lycQGD7ZC7pbhICJcl9mSi4mpmb_gBOBiOlGzUNiyBDA9OlTdL7VBJuL8jXiBpNJ_0XfvdVKqFsfe3M5Q
-    widthPx: 3000
-    heightPx: 4000
-    authorAttributions:
-      - displayName: Nancy Le
-        uri: https://maps.google.com/maps/contrib/103228306300589486804
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVhx0MVviqKYtaKTLQcdm3mCC6d_wcA1iwuXdlZ-WperPYEK21PoA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICz842nXA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICz842nXA!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
-  - name: >-
-      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AUy1YQ3sgCEdOoPlE5X0PF8MaohtyAZe5TJjpByTr9EcLqmBtpTSEUEynil5kSU17KRj4m-gH_jWhQZ2wleyWaC3qx-idn7Go3P3BuLITLUGQz1y8VfMUUx4165NLNokhgBUXoqw1ePryF0hrmDnjXW-aHyFQrX96JeYYIaVkW0TIxdzUf3XvxbCcnrq7Jw1gYfrwNJVeqzAP9TBHgLhqGTOptiDaNrEIgZ_D954lrItU3TqBTQyUlARL2VpYHuC0kmgNSbpCaRZKRrAAebZqI--10q8ly7mP1DLZulqDhwPA881-k7uN-0OmRh25r_2ooboOIHZVX2bRS-8rbuVsyLfwq7PHF72wFO2NEoZFGhJz6fnXWZVWgZEYrczBlzc9bm31L9gDJc3AuzXKbQLuPHP4A8oY1wvS7vTOpKoPzjJFItPtq6I
+      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AeeoHcJf-AjBW2rYedTZpDkJmSZDqGD469aj9C2uQKusVr0NFmC_iKZ3XfcQsKvAwRFYoZcBQ6abunO9nk_Bbf1TjuT0zzt4dcuZGvdmIoq7N1hyzKzyzvNsKH4J7Z5ql4fIm1hhhZIixX_R_pyLdhvxc9BTOC-7QDhpNMrGc7qLtyV3lU-Q1fAzlo7oNVKio5QKMMgeGzjVEgl7D81ALE_88le6OyWfoc3wbpm3zd3xfLmulqzEs6OTZ3dV6u7T2hMbVUiVMbbut_a5b8IzFIA6yERapA1MaSK8X96zkVMRnbidH34rrXMm4SIJziLdcliXpfQTk7He14Uoi4erVUYXTe4gYP-pvDddpTdAdSp6j9z2eQZ-yUMqXGIeIFEBKW_i8bP99eSSUUtgrHpEY7jaQXyXKHSJlRdoeCw9kx8Rkf4mIP_T
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -60,33 +47,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH2tmp2gE!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
   - name: >-
-      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AUy1YQ1JcGHfwMyQTmI3klme_MLdAf7YAQvNo0PqFvTlrNs8NuxnQ8PjAOKm7Em6EJHbD3xpj57uflco0dmoMBazMHbolWkWep_MF1GaGCzNKByIZX6B8rVwIBCOGxUt7oHywpAbuklaX0BnaXH-pzPiUp_hp_TMt6XFE-NOFMuntaIvHUjUppG14mGb5W5_lInyoTe-IgHUz46-9qbYo_gXBN20qsoHYMOdu2JkyW-DiloJ-OTUNDhtXzKeMpGRWu_XysIKBTynfP9uFWS9JmczjQHBXwh51ZRx-YMHdVQQCS-C3H3cjFUT6SQiGmU0bllT8JmL9DzDnTQ5DRoOe5NTB7RDfJrq-mqeLjExnzLccOPPyzrK5SvrtpgjkfendxZ_tCbsrWg4CMAxLaM_yaeuHmf_RI768brVQWGP8JbJJeNP4I3WceKwXOUvFv4CAUfl
-    widthPx: 3072
-    heightPx: 4080
+      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AeeoHcLIyccsTtkkqNcg5kWnPX3c6crows5fYaHxJyuBKOm3x9pL2OvbPvrNRNaHC6CaCH7OeUZvlCZy9r3khyhmlM-8iiqUpb5oowyuK64lkKtO3AvVynUn0RUxXM58Sgb2lPdDyWxyvQ4_WzlwBk625XCBUrnEX2TcDm2TsyuJ_lUD23zJ_E5wE3QPCkt1__uxmlqSZ-gD_wsDPLpAqxXy9eru5tIFdA6RIFf15f995v1JoP4D9KUKfxR7YpQVukpRvDGBEVh4qukCG4U5pXUdoSjR_HJWEo4rGnx0aanq3qpkIhrdGTZHBTeHeHSKaHB-ACu9BYroYlRYJiT1OgNWUCTKtT5d3pqsyZq48rjSMBa49CcyUKQne9DLGVwpElcN1PSSHXrC9Z3u5P115XEZc2f4gshSrs8uO6QczEC_4Z8bCQ
+    widthPx: 3000
+    heightPx: 4000
     authorAttributions:
-      - displayName: Paul Cina
-        uri: https://maps.google.com/maps/contrib/112584709540465729755
+      - displayName: Nancy Le
+        uri: https://maps.google.com/maps/contrib/103228306300589486804
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWtS5DSyr02JKxeOAITVyc4JSQMow-zE6flX0HiSyH-caOZcspD=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVhx0MVviqKYtaKTLQcdm3mCC6d_wcA1iwuXdlZ-WperPYEK21PoA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAIN0uG0Qr5b2fsqZ8ADWB1&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICz842nXA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAIN0uG0Qr5b2fsqZ8ADWB1!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICz842nXA!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
   - name: >-
-      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AUy1YQ0vh3Ccv4zACWRp4CBIsgoBWRrJfidfkVxL1yOiIPV_dJt1Cf9trBwZG_NrAimGPuNb4KAWxq59KgoNxPrZUg4g6LgenD_UuEH5ToFElDgwNjwxdYnVWl7-3j5pBUywL4E8_g07qlGkMyRXQKfrzFzHZx94fQYoTZDUZJA0n0gH6TvkqYMIf39Yf0NPA97RPTmFUxkNSiLHbAX9XNQaSlZSjI3pZj6IZS7MRIxGFjw2uIEhLr2lrzhQ145XQA220GoaOxpPk9Ow5P-nZTE80L_hc2KJRWha1i73MCsdOy_D8wN53A_YD9C2_E0KqFmHUmCiBOhIKuws0dkFYsI5mNynufuevij7CH73RKvK48uyRKak5Q_uVYFQMfGPzhqDr01q_cU6LJ4Vwt3SMrlUWf1fkN-MpVsa4uCaS1Lb76XGBptx
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Jeremiah Klassen
-        uri: https://maps.google.com/maps/contrib/107153076425025071514
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKT0loQoaGbwXVvkP7yAriW1-yWAxALvukosb_Y8OvwZ3mHJg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICexererQE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICexererQE!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
-  - name: >-
-      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AUy1YQ0sWRfpAlSC1OgihMJHdL3w7FwwwnrvS3PgBoeFxFNZblBSkDwXdUSLuQE3KO7OZ8jczZ7HBvUrUWcyIykaFV6AeCJNKoo6ocF_57kUY6Pg_HyzUEUHYJs2SPvcIlmkZIBrp2VJ3Ved3pV-ufXVNWvjk1I52mTg_xH7xOfrd-nqnOdoNW_EdVk4BS-z4AXjlV7RtJNyNiLZ2MkLYl8aoh3nIZ_xN2plGc-CHiDvPKwJJyo3UI75W1to2h2hg37Y2GpAAoH9967TnrBan3NpbxFpfHNyVYrDTL523UFZjSqMpRJwDM_9Fl6Bcp-NRijT-g214N5lOBtd2FttDUiTuoN_K6NKfMQYPqefyfPGQwOZnrkSU9NcdCFuwsswclGStuLb1LuZUCB6MEGRN-R7iup4KKAeYB-7FtMBJpaq2r2jG3A
+      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AeeoHcKzz4_DZ2rYLirzYwFdN1MQ8X2gyuX_XQH2jJkZCsCSbAaSrL3iRmiXhYV7_t-6BxeamWalVogqeZw1UAMrIEbPXYXtg9Rog22GVd1EgebBxrdwU2t4Y5nn4DM5lThsxCNolb2m7l2VHtBkwz1LmLwTLLoN3mHwQ3ZnknUAoLQ3yHGQnFhNgBioquaijYDNDXX40vhVV1uuP1NsUZIWby-v0817kUr85PVZwrctupG2Wfjw5LenIq2BCsf0tmQ8kQtEOSmlHD2HT_DRNage5FGbqQxBe7IrGGse7JcgOHFYNS3mX6A6NyU4iST3rjtNeooS9t3A2H0aJRoJ8wRTWrJMw5PI8BBptSB6T2EJNf8s-ej_U3X2HuhYlixxS6vw1soy8wpoWjOnvFhop56A5g02EkWZtzQFnzh81Hpa9XRl84U
     widthPx: 2268
     heightPx: 3592
     authorAttributions:
@@ -99,7 +73,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXqZjDtAE!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
   - name: >-
-      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AUy1YQ3Z3WRRINcqiuAPW8JMe8VyBZDoPWyDuZxLYfZj1iEMbEhVkc9pCxzGZYp77zGB2aRaQrv-qj808k5sW_M89o8lWdv1bVAVoNDFTKLrjebvU_rtO2BLka_SO8QEmIxDdwC_CTeXC9VWXCHLnPokV7uaMGO9LlZCDb5PBa6OzDPgPC1_TUy7u9OFAe7js4SxICzFbaH_HPCpTs-T4DrH27zyZt0YbWfNKxTOPQ0pyoruR_INrpLpqnbsubYxyPZnkeov3wgCDw112SUQV7UpBSSs40zrug7r6oMMNpgTuz12jKVPh4GS1fX8dofjrNi-e0Lt0KMUJl-ZDmmA1lbqYYvwoNTxLMkHkPiDIop-6AT08jUJyBMZ7k4MXJORxyELyOzqkqLqH2m2nrl4Y1t4P10Owx0nu9dz-aapLVXBlRti7FyU
+      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AeeoHcLm885Q77pkp42xlbZCBLR4VD2cXFzhwxIbJbNRWN4CXGOJZYg3xOF9l3P4iIpe0GuDX2u89kHYmDWlA4iwtZ-u66btv0bRNQrQSSP4vE1Plj38SrwiRb6BBp1rJCjaKfDqppzFOHAIH9FLX6VDPOsOVoquJ0AcxC4JI4XNJ6tb2bnaxyqFdhNHqugOtVaf4FiT8Rkg4U0-V4Qox8NvcvaWqaH4cRSQ8buATA3Buje7kMvgiy3IYnliy7kcms3fFC1PVeieOjemEouMDQ-zKQ-l-HEwEwNU_9VUjqlUVmn7vUcb7EKBDekiXwwnTce1T-24nGuiiS6KiP9J2XtLAjgZZgSMC-TyWHQQgLHttRcwtQa5QQT3Xq9wUd0-21fyg5rLxwqreUUGDZE3oPGQBxQMSsA2MBk9g1RasBNOkom18ndN
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jeremiah Klassen
+        uri: https://maps.google.com/maps/contrib/107153076425025071514
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKT0loQoaGbwXVvkP7yAriW1-yWAxALvukosb_Y8OvwZ3mHJg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICexererQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICexererQE!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
+  - name: >-
+      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AeeoHcIoed5l5MpzPoCPzTdNVVPLB4sOJW0SR1PWwZvOvZCg35sTuhArrsE-W_nUjr-MNqhJwP3m4cXTvUs3kEAsYsegmng1PZU-JWgMGqXlZg-DeHOnFVFmz_RFNsnHRU3_aDu62cLEJsG6l--FeCt4UJyoNg5dhDnM0-2rrgv3zWVe8z-jQxaD-7Aa4UicQC4eMYU419PvbBHz_bPmU5LwwG85R5Fjm--AJHA4XvJs9r8XUY_C_7su2dedJyhFckwVgC0CiCyXnhBPDHZ-VOQaM2HwXWrquklSvDw98ZHOKe44DSLIYT57xmJONWAiQj8olN7kNwUu3OFWThd3qcgFZ1L_mpXSPFTHnLvj23sLMApJXdQtAahXggKsvYx3mY2qlSbHFYlisvIsUduSJ7V75EuytQP8yiefI2koBQ9yyaJG-6MI
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -112,7 +99,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJqcqMoQE!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
   - name: >-
-      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AUy1YQ0NGfcFqzwqd5Ts4bo3SCDmw2K49AqwoRkGgzwXGjVEedgZYhmy9r9UUHIRqkOVebeXHPVXfRJOfKUUM-qy9mmARpvRkzssJRRdqb7vFGgHz75LmEpvEyl_4RSVoDE9Vm8e8TR3dzGy_aMHjmAc-zsu5f6yPLNMUlm4AniFDsCNElyzcaBpcHUaWqMeKYEqlRzl-8QHjY3nsgd8fOeZIpPIXyeujRyg1pvWiwC8FXabBfdfMMncqdzsdsqLHqypFi-0Lv1LicANiZIMe-JZvf4GN_trHmaHPMC0UoK1lsAQz3bqwQlRIBWYntrZh9tJqPBP9sjH9yR2q2uc8QuoraQl-7b1s4y8JKfF-hpOxKmYZTL9-IB3qZk8PCfpQbndOdzI2_ViwArfu-f7qhZTribtHM6y3xSKOllrL6J_Wfibgw
+      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AeeoHcLGJ9pUwKXg-SfJ0BUxg_RA1CL1AqT4C4lkNebhE0nwtjg7lS-tHniW2ySlaIvuqIN_vyUGeZPKgOkF0l6qHUTDyy6mFHbSmBBjS3XYuOL6RAotfEpgrRxhiIY7fxpTSZj-_lNp0XK3TpsDz308o_haCgCqptkt2t58etBrGBeposPz6UEd5Vb9ua7w7NEItLkQ9mKTvqd8yWkALuTrBM57lsyW171TNwZ29Ee45HwYixlhKAixYRgJSFWxamO9vo_CQ5LDLf5WG2Shll5Ut9P-obxdUnPlbXzmkdfv8C2_h-WxLcSQEF3uUCdYccvnOeFWNPmO9oAb13sS2UlcOOham7kE49qIX2EUA9QsUHs5cs9UPXfFqrgwfUl553p1UCZhAmcfeewhLni-Qlhjv9Ig59AJLHGXx4BqLrJTrs_2xFs
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Mariel Anne Sacayan
+        uri: https://maps.google.com/maps/contrib/111783733835944156705
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUebBOyqrrJrZJChID9x5D1NqF46Eo17ENzUIxzw7O8ekOs-jDm=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR--DM7AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR--DM7AE!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
+  - name: >-
+      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AeeoHcJ9KZnBkVAPm7XBLBwyvF1dX6ZYHSF3FbLN1WqvmU5XQnlc58OmMLazUIeyk1DSABAuQvMr4KQ6ypX63UrY8ialCMBA0Aukg99sNtouMxRFkX3D9zD6n8x-23BIL2H2EhJVW20vVTNSREsdnwCs774KKEL0HlLEHHTtd0BgnnG6T68TkycmF1tWO97-T_H012dHqncrMfaCeezFxhXb8xFVnrBFp5_31RO03mypdgcXcxyWDoEqayAktAoO5DSpUQLHglCvViTIlxWWD9VB1gQgLBp7DmLgaGOsIYILEL882f95mPCZkBZg0ZAWsMCqO1dzvr3VPf-BMEuwTf-htAHBxjTkdVuHIDahMoCvOskMeVZgalEMmxyb8IKSje5LRVZN2Yfx5wlvkb2uru0jzqO0omI9Rp73mtYKdG2dx2KBvw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -125,18 +125,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR--DMHA!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
   - name: >-
-      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AUy1YQ0F3JQR0OFyb5qnYFi97CHSAj5sf5HIHWZ0UZoV9rJ3l76mQpAIhvfkqlbvX5s-rA739aTVVLWABHPyiIoxOAdR7RaZqy5n4slUALafaSMiIW5dTcu3nks8qkRB9sbi8v00NjYWy5nl2ajk3PGvplv4H2NUdomcDz5bHqRrYepT9_sosPBn--CZ9jcdnDMnLt76q90e_zHdB4UuuFergpTJx-xNtCzFqgUl4hbuCL7WBuU27x1mCxfEnCQ-uPQi4xkChpvw6fePOopq5DcTb5nAkQM47t_WrnaNWiAKkQTIQJZCgKiQwvsA8HdSdVakXObQGFfwZZZ2i-hqBk0J9ISql5Oud2RUsrJ4MwZnZJF6NkJYUJ--vGnbYzk5qwHKh-00oae9tkvtSxQ6Qb-TzBAp2-NMIhgsF1DsnO57Vk1ktKE
+      places/ChIJ4-NN9q9ykFQRncFXdlLBcKE/photos/AeeoHcKVaHV9AostmA1UtotoOmpDLNhsBLCmjv9A498QE0_ehqFwPoHnoLXmLwPVg9WUX_1iscnxE_NAzTAS4OkaOhVulm4yddxbduRcDCJSjeJ4OmPKmMj_OPqiEM8lkDy2B_3N7nURl80e_qY0lyqkPnBFNPYZ7duBg4AvMJwaaJExMFIrA94-n9hV0Kq9SvuHzZ6fyxy5LiYbsD4rDS2_6leNpEgdfTFBCBg8yCkB-E4y1Y7k4jYKnIV5UeOaSDGdM2kLJURqr3ciQ_5T7FY9n9h2oB7aNr2cPAMp1R0L4txmLl24U5Fv7NHjmfHbGEhbmFbav7m8pEdspMmeXCEOZS5Bx9YRicVtV_lFsTD-uaaeOAwP9930YHoBjLyGToZc7h4yqzLlShF0Ecwtbp8TMevUYayg2W6ooIQOtZ1wdErbuA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Mariel Anne Sacayan
-        uri: https://maps.google.com/maps/contrib/111783733835944156705
+      - displayName: Jackson Hong (xenoverse)
+        uri: https://maps.google.com/maps/contrib/117449977611258968982
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUebBOyqrrJrZJChID9x5D1NqF46Eo17ENzUIxzw7O8ekOs-jDm=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUeCALN69WYTnvT6HX0Dx2FZqEgu3xHMNJnrvYBDSJ-VoBAo66I=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR--DM7AE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJqcqMYQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR--DM7AE!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJqcqMYQ!2e10!4m2!3m1!1s0x549072aff64de3e3:0xa170c1527657c19d
 address: 7330 164th Ave NE e255, Redmond, WA 98052, USA
 street: 7330 164th Ave NE e255
 city: Redmond
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Fuji-Steak-House
 
 ---

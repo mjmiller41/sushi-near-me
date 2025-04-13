@@ -8,7 +8,7 @@ cityName: Lake Dallas
 place_id: ChIJD-ksHyczTIYRsUQYZsftGN4
 photos:
   - name: >-
-      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AUy1YQ0XoVNfQXw0w4SsztZ-9oGI6wHJR_6rc7fNWwKAXDR6urRnMEnmADTk-g6qJWN-DQHv0INuCM4HGjEaOJWHkMI4iMml05WHiOIbKfaRw33cxAcS0FDefD2C4iwJMrI6gzQdFeip6XR4jYxjwFPxdjB4JA6WkesrMZfLiKhN_AYC4nqDu93Z-mM3qVCc88M7F3XBr1yTOosaE0g7DzFYhXXZH12IOEQoncTlfMX0YoDm2mb23xBieqDN-ohHaksuj4VIEmQCD53Jur1phebQ6j-757cEr20l4UtTG98-gGzoww
+      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AeeoHcJAf7tJjGxjau6tgYqY-QTWcesmJSKm3UZYd2ZVcEoHztaRWb_w0jtLpVFemOwNrKsoTVQ1epXxE02gS9TM3LLR5qqj_AkY9GwH3Rc4IHEfU5R2GpbdK_7ZrCih_jHWd5mW39DH3pjyOoUULSZbz6N5UmK5m3_0U8KFkiS6bnXmRHdUC8TVWCOtTk6RGx1NOLw_RTQz-DaBvH74uVaZatdpPibtyIjtFH_Ls-_vwKeOZZUTzJG3cK5PJcGGYN9JePenJFzDIm6g-x2eSgjXXrGqbPqzRjEtB9MXF_nfGn7RcA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNIwYR3CjfDseVs57qfyB4EvTqYCSf34jXlyMn!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
   - name: >-
-      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AUy1YQ2Jer8brq9oElP28kbXIs6l2C_qsjV_h3TELUtZJ-81ZxikUzTRJCGq_CcX-XTbljn3FbK8nJfyzBaTz7udt3VmieudEnHoV2tNpj4CL-Oltvtj70TLtYcjqF0BxPf1OphShl9BJgsxwKQwfxkTXN7cPvTmxIsZZRPOV9DfhRH5bGQp2QNVpO4uZqT6ngKnkDQnxigJBJOex8MBYjy7ejSAWuTiA3_ynZDMduC1itWQvzkgkqz5wSWAcR1UvKqEE5RfvEa13x2Cxa-Weqykk-5Za67NiGA3Wtess4QjPWwwbg
+      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AeeoHcLN8VDQTVG3MCFWUkpxk0d2lEjus1TFwEf4WLWG-q_dlrEYntWPcz2OjUjaaSCMqxQpZTnqoabyGQ7HpL_BHqlkTsBWya4vw3SjVRq8unIZsv2NAfGZGV7oKQjBFlkC8Ky8BJTZKREgxrhWb36gS8uN7xskqZXtIHaQNbSrUMLRJK4fxD_EsdsS6ktbyH6fZREvasdyq0uOBk9-z7T36dpFASE8UNJrdWpby0WX94fbCPbGZTkrZmLrAZhsavCYbiDNQJ2nb-4rN75VwYHP5TMzQzk5yiw_oifKSefYIFyHVw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -34,20 +34,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNJw4BrfbXNOymm6aRYgfhSwv0riAQpWHtF0nGT!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
   - name: >-
-      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AUy1YQ0goW2oBSftbOitBCCCVE81ca2JD9sS6roAaz9gB3l-F7aFbbXxVCJqWW8D3n8OgDZuLr0HrDV1c_DxfbynsU9Pm9bLodEWZyIBPccTbwMX0biWyiPZ0pMJkiAhfxsX9rns3EqZO22wU0eUfI6H_MmgjKTvNmwQUDeg-GKV-AtllPhtzGmrINuM2WwTPT1MrGdSc9F4uwM9h09YhUc6eq7KKS8SUsADeCvuGI4i2G7UgFtanY7ZhJxuoLECl8uOigSGuj0E-yy-vbG-KAMsO8EIL5OaWQjElhX6jZ8uK4cvSqrbIE33kZVXnurzRHx3biFNkOhjDBeGSNJAp0Ju1k_8qdbh121uJlakZCMoKauFWcs-tcWOya1yjUvW-gHJ9PafyXFsdxur0ZPN8DBAYsxU3dhMBKkE20YVYkFhsYGhj-KY
-    widthPx: 3610
-    heightPx: 2291
+      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AeeoHcI8mjr93M0AUXTB4IlbUY60DFWfjTYNHhkPFgKO9bCHaNZycF_s-aBpV2Z7cxKumh4D2yBiGwnUzB2DnJVIsrbMwAB4K8tkU4qq_m1xhan5qy2JcuRj9CzORlveZF02SAikcv3--N5MlHWi-EXLEXVq3BTGom29sgerG4ErsBl78SGQDBtDuPVBu0KV09a88ZXeQTZcvn7MQl996qmChv7rEh7Fq2hS63YcZujmkURvJhgHcEPXnr2AHUu18IFoXFd84YY69D3p4MVCDTk36ATgvCsQ2KkXoj7mJxrTxgUOJnV5aK2ss29UifaC4b4KlscUSZNv04H60NeM4PdbUFlNX2EC_jKPlSYj16NpRq0cTvE3OuVRWJReoJazqf5TzYVRQPmlkbi3JfHrwNlK13x8eWB54V2uQnemzqGcm7ier4TJ
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Christine Boothe
-        uri: https://maps.google.com/maps/contrib/107896633628892848945
+      - displayName: Wonsup Shin
+        uri: https://maps.google.com/maps/contrib/115113930361733259877
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV44qoJ_x1Snt9Ans3oCjuj1ySpap2lQ7tfbiFnK8U-oVu2hC6dyg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXqOIrq2FcoL_R_Y6oSTjMo4noFLsXF9K1WnMkXpuXNC5zUY9g=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ18rrywE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwgrS81QE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ18rrywE!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwgrS81QE!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
   - name: >-
-      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AUy1YQ1ATzldGCrai1ovsggcporPne7LN3LKLm_c66tGFXAYGKdAdwdsT9HLjE2B715tnJzExvnYg_heQMIaTekrVCsvRj9Q8MJ7Mvd3NDl0NCaDekmIgzbTA547opPnVgVXlJYJ26bRZJCWxodUHGjVj1ceG0duHiMgMCzjv5h1bA2CR53CA0cUU9hofk7ibOSGlD6rdVvKB8OJgIwyvyvIgXzoZS-McP9t42GvMjH7USlk3MeNQh9CKl2wWs3fjTEVZNwScYXTZnIfl8jtybBmZtClRdRuphXZDFmCQvacgfhzow
+      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AeeoHcK8J3REK3swggI_NsJ7eLOA1z0O66MtYlmF7pct8JgFWeCsWi4kDuB8z-5C8PwGe0RYdM59mu0iec876ZlWIN9A2xInAsqCqnhj-lMy1NfeDp7JUZvvyfBRtiUWnnu-95qOqW2FPfevMrUM-8Q7boz0ORkfuhShe_0-yp0CbsZJscOKjew-0hqqBJkzBzTuOUrp0Vjjk-o0GGc7cWZdBbUJBVhrPWfk0oOCeGMkBOAXo2Nen71tYM7G1FVW9SLfNw61lleavGN9dcGIe6-hxg7s7NqBcXhMlbMHBrLDDL-UxQ
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -60,33 +60,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMn4LX1LEvPkNr3FAF3Owfq96J9pZDkxeb6nB1y!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
   - name: >-
-      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AUy1YQ1H4LDHPoANkXv9MFhL6TPTjxaNoealwjBjJ19PryP0MKvFDtuFduDScy4ZN8gFMGOR_ZnKiPR3vWKYnTQ4FFn0MsM5pNJTGicGHifutSz8CQzz9JbnOZfqSh59yW12UkH5Zk5y5nAH40mZJpr7srShdyessmTkmi95ITjSPoQBKEq6AsA7kspqJD--Z9mKXnMU-O80LB1S0HOlCEwgmYPBRHW08ppoG_fVCPeARV9JHqAJaAwA5XjC8pc2ynG8Zv_Ce3VDtQEYT6-ziQm7HlKa4FOo6wlfqEwR40qzuSN_BA
-    widthPx: 4032
-    heightPx: 3024
+      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AeeoHcLlvr8Wg55IAO39rm4ZnxMbqSpMHn0O0fJCoFJmEtSJMUbuu1D_VbR2s-G1l2LiSoZEwAJYwq1NUiC-BpirYksqotqp3NcOzYQvSUph4TY-86BBnd-kqA4enr5vmrLCVKgzWl-LEm44jEG37agIlbv4ySC2LI_OFcO5qO6iHLqALAbJ1c3mTfzRnskddlujZIoTzqR4y3uaQ3ZuNmCfTFcjD4hF2aPvmgVDFQzBo4ppRqiBRp3Pg5AX4PNET3B0pJlc3dNtBuKriAAMJThGW32yDx5GlUwp8DF62BCcGloVbdKp3_b449FKWBHlHAV90oHL8N5PFLVnmqetEztZIKUoZSPsWYE9lxIpeUftABJLUtEtjPKPwwmAcHY0n6nKtl9kpNui4VC0PKKEzjuLpv4NEJ2cLOBtqkohQsT7KH23fDdt
+    widthPx: 2626
+    heightPx: 2601
+    authorAttributions:
+      - displayName: Wonsup Shin
+        uri: https://maps.google.com/maps/contrib/115113930361733259877
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXqOIrq2FcoL_R_Y6oSTjMo4noFLsXF9K1WnMkXpuXNC5zUY9g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDH2vjV_QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH2vjV_QE!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
+  - name: >-
+      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AeeoHcIzS6oS28D_B1R-R4iRycUsMlsPOdjc2jNqfc7DeE_CZal93EUk5eRXZRIXKYOKwJBj2WBBPuRPr_FzaRo0H2GAkRr12DJBX2Ced_KlQpvEcKcnlqrZ8fLfcswug0L4EC5gicbvvRkU3E0DBpyuuRIF8MMvi8ZrFWbMdNI7Wl8MaxFFJg4qf2MYbNXAqFP0MASQkOPy5tY7apSi2urcwNGdqv8Ar6qC-j2g5qJKSqbGcoRR1ei5hxxynut2_gAMEmbMCvDoJeMYkLArSWqmiaDiIELcmpBnvBL4p5obxXlT8g
+    widthPx: 1290
+    heightPx: 2293
     authorAttributions:
       - displayName: Sushi Box
         uri: https://maps.google.com/maps/contrib/108707070363429493423
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjV276Z91ijmqhZzQeXvPheNYRrwJq-kf4oJcUUpnQPLyV6Dn-oC=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMTcSj3EBoeDGw7tyUQiQAnRaSo91PM14bOfs_k&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOtmMC6zvMUQSGFJYQFBRsd3nkS7WEwdZXkH1JZ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMTcSj3EBoeDGw7tyUQiQAnRaSo91PM14bOfs_k!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOtmMC6zvMUQSGFJYQFBRsd3nkS7WEwdZXkH1JZ!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
   - name: >-
-      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AUy1YQ0FYJg1z9E88jX7YcOyA5wYsCv20uomzovYhcAFWnyc7d8dGLxH9nR1Rw0CDpGJpuGo4vTxSRBDdw78OEqTCAIOkz4bQsqvuo90CUv20Z8BpMCdGiDD4XUAmisay6KWjUtDA8LumDDmcoMfsvSix7_ZphpxED4ULQHtpNm3ANKNBVNHHMV8MhT3lOvAnY3YwR95-vDzWm_jU3zxpGbp2rACHboJZEH0r68iN1Eg7j7PVZ_mr6pBkuNL54vPbcKmlZJS8hdd94-1JOGnxEL5zBov64r9vApFtz5wr0N0SxSEVw
-    widthPx: 1170
-    heightPx: 2080
-    authorAttributions:
-      - displayName: Sushi Box
-        uri: https://maps.google.com/maps/contrib/108707070363429493423
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV276Z91ijmqhZzQeXvPheNYRrwJq-kf4oJcUUpnQPLyV6Dn-oC=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMZZgBtUQQ_DuGJrdvmy9Iv0OOvzPePD9e6erje&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMZZgBtUQQ_DuGJrdvmy9Iv0OOvzPePD9e6erje!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
-  - name: >-
-      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AUy1YQ3RQVAQCPcvD6YdbrZJQJgV1bWCcGN6Unt8EpcbBZ6iP79bBe_FbxXk5mseKLdU3bS0rQvU108GJBdHCgrG20eWAWsoJfGQ0u4TtKHFdP6YxdntIx4BYxXAfGQBZfoFGuc6d0CztEgnzNy36A0QcGeU6xSnTL6FN0v8lDz4GfuJufQrVBFVJSkfYyyeKRSkBQpv1bHcSwPHUCCp6qoa3XZh2HQYUXADDTHUk-0-oM9hS9P9EtkgiSHun2qQllYwm2naOYAc99e6GcqEqB1CFxwwGsmv51_ZaSHa0bIm5rfT_g
+      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AeeoHcKH3ajjFCfv9TAlaJrromRHKwDNxnSrpsSRzIp8VbCM55st7kEZjui4f5iO7hS5_Fp5JzHJmG0P2IPnOex2ZZUjmtcMAheW7y8GiSNJmPeDtFqaZ1YJfJlISBelUWfXvr-OlJzYAcMA7H5-rrzL_Sm9-GF0KvTYotHjKutKnY2Zdzrh3ROjnw4zKzp30y1U4WOD0Q3dmFKozPySyCE6zOJ0FS5m9Okm0XAjQh-Srq5hfuRRpDtrurOnbtaqPgyOhVEfdhQdEmckWoxBuLeRGz744jRjtlJGnixE5bb8AEmg4A
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -99,20 +99,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM91YFlmdgpzdx5JTEf-tODzasX-fM_FgSY-1DR!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
   - name: >-
-      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AUy1YQ0Rv85s6TA7yM6ISMnVtb-_tg92Hcta6Qiq5bHqAUh3d19_458pMq-KI85Yv2wl3F845vNTwhAQ4qkuWABiwoDMbo5fUiuhpzsToYxs6lkmOvvlSmZ5JFcjw83M0boFaLIaH8jMr88KSUW76srVwbNDmYXpDkpWhh8hzI8xaoZYmCAIgiDp-crcD-LYovhIqkRlQ7ByJSL5xHDW06lOTLGqZJSqkkTf0iONC_UZi5WYHLCmmGATQEUqhbwaNmnWsaiq2raDaOZ15pyyUoGQW5TxxYa33xujszm0EpICkGiSZQ
+      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AeeoHcIclVA0vaL5fTvcHL4kCDWRDGZh_eejUgaKhrjqSW12AvUU6GLiUlEK_LB7ES1lpGwZ97sDTr6mPhalwh17VLwGY_kT9p-LaEGqreml39OhJRpHR5pIneyc8hrZ-Zq4qtzpG5mgS9opCH3aAaHi4McG_z3fw1sb-NVM74AE_Hgj1NCBKiZrKb5MYwuVh6ydSVfCpwddzGYfiZEd902qEZt9ishWZfROiE3JzLX7WXeJ8_92FF8Eudp65uxp1AlNJlyYJF3f9cX0NQi6-Am8qvLhVu5SFX1Dduv4fHq4lBdejwwjNftgGPS4zPUEcV4FfW0KnzXKznIZe11nQnqKAaOcTeukU1hiLj9PCnCM8H4qYHjmFMsnaw6PUqME7rpUL90422NTMcXKxlEZjjRzVllDwjsuM8RXBNf3QXhGLXrIQWY
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Sushi Box
-        uri: https://maps.google.com/maps/contrib/108707070363429493423
+      - displayName: Wonsup Shin
+        uri: https://maps.google.com/maps/contrib/115113930361733259877
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV276Z91ijmqhZzQeXvPheNYRrwJq-kf4oJcUUpnQPLyV6Dn-oC=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXqOIrq2FcoL_R_Y6oSTjMo4noFLsXF9K1WnMkXpuXNC5zUY9g=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPnrntzrgZ8x5E4S0Hu7rVUmTcAHdiOHekc4IHm&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHodaY0AE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPnrntzrgZ8x5E4S0Hu7rVUmTcAHdiOHekc4IHm!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHodaY0AE!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
   - name: >-
-      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AUy1YQ0W_1wnWtlT6uoeH3zfblNb-spUJtNeio4YnOfWzHEZBMcgB-vNauNlTS8pHSrbR-ytlAptHNaKpGlf1qyMIdqYCyABPladMj9gtHN8zjSCtj_fpKLz3nOD9R-STK3TH6yRopVDuVFki7Hk-siUGJD5xfSGc-p5W3LPPb7q6m6kZZp-pixxME2AZ6EpohxcV7k3bLcBw4PPzAL4hMw41RL-S4fPvs_e0Ctw-88Bb_d9ocjcnUHuIGHBhTrZJFm339mruEQ_TEq1K-ffgpm0fv0aXAAn_xI-hP1JXhsNadg10TPqzAkTFaY8dU7edUYo1wCKjCcTlVUswguz7bdo47GHVGipMjDimTsW6w91sSsC8-cPen983tZ56MuwdqkqysQwhLLyT9qjOSmo4nOvviPJ6yVXP0M39vHxQS5CTlSVWKg
+      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AeeoHcKd6CSRJmTrMmtbxj7L9gYauTF4PUzKYyZeHmdoM7NCgWOf1d-IembzYrCCQ1SBnTWmYVtXaH1E8DHlAVxyBEWRrwSga2JnIKNkXBffGVHvB382Q8FhezKGWlZlPjdibTQHwX5pqJhXuJw-WcqKgUxNwEkUnS8jrzlwtm8zozzIQ2jDeXwsTP8M1PqGSNkpGKIzZm0eUDKo7XFDTVSI6HPwSn5tCYSqmid8KIZ0WEbXCzwagcws0k8dS9_MrmfRT8EDnLEWmScOeeX2nbq1qfVEo301vBaKRNQgEheoEu_zqsrgUzDQAeyRYpwmL6cZpNLuvCj-rbzsyZMWuN__XglO8dVVMntGNGjbx7D2-CcPk-oKv89NQDL6jeJiLVpj5-Img3VHfnlNT4NgBwwpTfbmkg8xSrjRKR5s_SmwV9a6jok
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -125,7 +125,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvgoqJhQE!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
   - name: >-
-      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AUy1YQ3f7OkxMt33BoU1dSIQX2hMMC6NQZ9IF_mbLCAb3a4w2c9tRn0spCfwcEGOfWiu2umNiC9cSS0SlCA27maaAz-HaDnwxIutXSrPrFEB3i6gB8OFiBLps2uzJfD90eBsKwIqCdC1sqVe4-59T2-bErCa-F5cyR_cSADnfJzLE6tVzqBYV8AMupMVaH-B2b_DRTvzd38wnXoHJtPpZbodIZ55U0a_0EphIQTTT3jsxIBf-UztyN__G7kEuumQrKRHYwJmX_fnTCOgK4nhwRDn9TL6b33N4pKBSwv041lmrXRuQQ
+      places/ChIJD-ksHyczTIYRsUQYZsftGN4/photos/AeeoHcIu7yZqGPeIGS5Y1LTjdm0NkYBzbXehU9UCkZLrydFDgruhzXAQdv8QUcumb51CcJX_CML8-nv46h19GqHiMwZ8Qgi4qWjjhZT30p2xclwZhBxHhvztrFpTKSmdY9nHby_N5xymoHOq0iVbe6FQmjTV5OorVCuNWU_Syxp-VW965SqGioJA-XoIh5u98jCVR8zG83QGzR9F8lnOHNkveU0dda8djgNSiySUZP2DYefIb8sNF9a5srOIS-s1cPV5SNApAHBo60vhk3-guFntl-vPOOXV_puYT7vI6WBzTx0pJQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -134,9 +134,9 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjV276Z91ijmqhZzQeXvPheNYRrwJq-kf4oJcUUpnQPLyV6Dn-oC=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNGBFHt0zNlfNjQrpbMkSrZioljrDHw9wfBh02f&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOBNmKGx8yWQhnfku5YUnpj9Vwzcczbk-ejD-eO&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNGBFHt0zNlfNjQrpbMkSrZioljrDHw9wfBh02f!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOBNmKGx8yWQhnfku5YUnpj9Vwzcczbk-ejD-eO!2e10!4m2!3m1!1s0x864c33271f2ce90f:0xde18edc7661844b1
 address: '303 Swisher Rd #210, Lake Dallas, TX 75065, USA'
 street: '303 Swisher Rd #210'
 city: Lake Dallas
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Sushi-Box
 
 ---

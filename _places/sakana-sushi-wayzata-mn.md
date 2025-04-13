@@ -8,7 +8,7 @@ cityName: Wayzata
 place_id: ChIJs4fP9ZlMs1IRWWVfok_Sw74
 photos:
   - name: >-
-      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AUy1YQ0RxLS_ra3oiHrMfjIM3suFffyd9TcVoV7tM8o_jtd1_848XQD_Ibeb0jE051HIHyXvI9XYtHqMqyhUcsB57ayknJzThGs64fwJzz3LlSUxrLbTYSaArx8t8ulzdnP8WhhE0w9slI6dpVRLNcmLxL6i4AQSs4pu7WPaeJqErX8fhtV2nLWEbz-U947gfn1iiGYf8k5N648QR_AP20JQlrkAmg2Hma1xeDTkHcyCIrTGlVWqJXDRAMC2PdNl5GO0mCm-WB-uDxfVoRt3lV9AkJHJJcW11rIdb5Q2HXY1OZhFpj2TYAdW4e4tBMdPn9aechihctKMuMmmaV8wDsswAlYVw7ICzjuBzaKOBTjGtdCHrPWeRhjvZcsOYAvTL9QCHuFy8pXpDYJOgjb2_oet1LkHsu2P8oGy1DWOnNQAQj6qNotk
+      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AeeoHcIDleyJFkFKEnF5-uAerNwvb1py869tuxmikdRXWVg_98okzVkQNG2VkWic3kabg8Gs8sNfkOeRz8Yefy4p8KfKfKJRsl3saDizK0wl-n5pxQmxL6dGcSRDCVe2xsQ_GE05VuF5q0y2-zw2eKy-y7R4w6HXmh0yflYSqTyUJRJzFimL1zV6nAd4y3FskUwLeJ9JX7oewFP7c5dfAqBMr5HTWTIYwKdM2aspHR6TboCg-_4gIr5qRqvu6i_-WzPu9QbP1_DBiBaPP8ObK1GilGqpS6TpCIUUUaym50hku1Zk6_O_9kgN8xvkmEGikEHjTvqBTvRwdJDvbc9GqJPeensbIdoyf8NWHGE2GyIYPBQRBVcnrvZThrF7IOasl--GAZcIH1a0J3IAa-ySNmOi8bURAB1OPRV1-ASvwBXKwt6ziYpj
     widthPx: 3264
     heightPx: 2448
     authorAttributions:
@@ -21,20 +21,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEovLAqgE!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
   - name: >-
-      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AUy1YQ29oZoQ-Y-X2RyIBCVQ-jHaETnY3mEiB8BWRQNxncrVoVE-l4lgwKUpdgVxWSnMIQmNMESHBDzFd-DcVnW_aJ05Wg65a2tN2AaRG9GuK4u-hsiPUiMZj8wzzIv4Xw_2R3Uxc_AhNeBMOMB8YKEivOv4-RjBNFjxuJFf47v6zkhBiO7Al4JLEqOYC61fhVyHr7v_5DsaX9i4ORF_jYUD9H7uRtDgWG92xpHsimYwRaGPauNy6oL5ZBjJvsb3YIFX4cF0RBb2b66t3noBWE1gmE1lVwjhxEMNkVZ84LjJckzU5w
-    widthPx: 800
-    heightPx: 800
+      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AeeoHcKV_PlhJdkKICRCmEsSCOPmnimkXfRhRaRFQiPdWvBTeeSukAx3z4UrU4nLBoBVU7xDeb0IUMuf-oHHRPLoNKKrw_BflwV1Ble4_oFHhvopJMO52nbufB7Y6Tmx9sk00iRNA4Wxm7NYOwF6_mgr_QVulDr_3HH7Gmpl3RIGkXjnodhEwuq8MHpK3ldmc54V796Lm3fK7vDMFMZ-qD_MzwQhEIWdw2Ct0WptnsEoAOsTZzF5rLPBlaOx_eXWxlCitsulwE4C8XcraKc1XQirAiJfYHSv959BhgQZ1YLHqdFvtQ
+    widthPx: 3000
+    heightPx: 2000
     authorAttributions:
       - displayName: Sakana Sushi
         uri: https://maps.google.com/maps/contrib/108300397996279518788
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocKhuzEypyKvkxnM1hj_cP8cHgxQ4lLY6Bis-KZuFB-PYfoleA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM_nbzPt7d8DBJ686g4PzddN-lI05x3Cbu7ZCIF&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMOUAlHQJRzHFhF6l0QYV9UtRpNiQfMb7t6d8sf&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM_nbzPt7d8DBJ686g4PzddN-lI05x3Cbu7ZCIF!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMOUAlHQJRzHFhF6l0QYV9UtRpNiQfMb7t6d8sf!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
   - name: >-
-      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AUy1YQ2yDc6i_liIxyLFm80fUX-IQxYZH4zDBDJdp7q-LMrAIEQho7ki4BPwGADqqZrObDlFaW2MxiloloQK3ZVOa7NZIiSOLQiGTTyot0sT4W6FlIF0FF0lUm7nhleXe2gxT4C6qBn5JGaC1VEU8guuUaZi5Sp8HKwuxIl-5IgJdcs2R0uLjtQyRcuWcvfJYvchJ6n8hE0GM0qpa5lC9-KBxaoYuuRE9HrhubQb_OwMNi2f5tQddNO7-csh9AgMpjPee6Su9QZ5IIPyT-sVk59wQPXzoIGHj5kHrfzxf0_gIBr0eA
+      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AeeoHcKRoUUvOIb42vD9rnyHS-L7nHs7wwsuLQ4cBz7lJTk0Dwsy9vnhelFtlFYqQASTr3fsSchPWu-r24_LmNB4kcrbEercz2D015tYvmpBxn3DQsizpkF91P9VautmzWD6Ba2ZoZwRxbTtx7To72HrhNbGiv969-VkKrr_q74gNsMvnGgOr4a3sV8-5vWmfjJ6q5Co8RbSIFHoO-nV7UBkISd-4ZDWI-02C6snmZkMV1X1tpIn6Ii3twcn3beq_rDYTFT-jXmWXfr6z_y9vk2cTDdGTk2a_xzxibVpp5wnykMdTQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -47,7 +47,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPaGFrIdOzn-cMqdqsq0nZZkCvt5D4rf78T7ild!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
   - name: >-
-      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AUy1YQ2tWc2ODHlViroy4mReRNoj_urAeqwJcaR3n_3nSZzxIkYyiM6kHyk1z0MblW61D_G_medYKAoUsOGYfcVFrHrl3qVW_8qs3kwDC8CP8KLHxEZRug8yqfop2LePPvjDd4Klivh70rT6be_F2liDOMH8jh7tt5U-3WkbNLkKz2ZO2DvmVvhjuZMaPwUQGH56v_baq82z1xIWm7AJ3USswhJLqNBEV_2s5lMMhHFNenFuJcDxT0kGBQzCKICKIpx3DU7YY742nKWyP7e2hMKEYfd6Vhro_WnyRjWYkK6qlcNw-w
+      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AeeoHcKBr_Bc5x7GmtmFJNm3He8AIheWUoe6Q3hV1wYuYg_OnVPMKFVwwOQYiUbluzY2nK1OUeYrtivN7lCJmHqauotOO2-DNiKQsYeJoxZGC2ULBTP3pTOz7zHJVuluateN9n0az95zra4WeXRJlYfYbCMZRSZgdOzHlo5pfweyviMc-mwCvwOr6NAor723lb233IF-Ve5sm3YRBh8HY7NJKjmqRQEELYXkCgJga3Tmm2LeWDsNf2_6tQ2prgdXUbwbgDGMLKNtaQJHDueZyYW2fcw1qcm6-A7RjMVA5URKC13umw
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Sakana Sushi
+        uri: https://maps.google.com/maps/contrib/108300397996279518788
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKhuzEypyKvkxnM1hj_cP8cHgxQ4lLY6Bis-KZuFB-PYfoleA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM_nbzPt7d8DBJ686g4PzddN-lI05x3Cbu7ZCIF&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM_nbzPt7d8DBJ686g4PzddN-lI05x3Cbu7ZCIF!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
+  - name: >-
+      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AeeoHcKN1M-FLRFvcoPN55kdy5PwdrXZfFmNFIcd6IxYaf1p1RJ427eXLQZBKok34Eqv4ph0OHhcv5PtWZtU7-ba9KwbeIRFQ2fs55OkMsoFC35tNBC_O4g0gK0VqWqf49djmQfluwXhLU3ryvV0mgTUIrZyeeIG3y8hcto5ROS85tD-qxlEO_IOjyJxjbpukxWTG2pmsbnYKOCmjHhUGwy38bv2yQQJ4enz0CJik8LVaLSIVBjVRJ2ZikOeaVqmJLXa6IUUpYYYqfrH3zc2QAGmIVVHsdLDOwrYYcCEPhPqQEBpuA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -60,20 +73,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN9pidlD54Ce_oybebR7ZnQQ975PldC_umMhxBF!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
   - name: >-
-      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AUy1YQ13w7FX_hFR32Zr15x5iiruVvEh5OH0FDEvx_YDUNQt4BL6Vfq2KNQX-fzuaebnfNxOQIJsZBmqAaFU81TZ2nGhGyMHRkRF6NdAtl0khNGY1GPf8ZAfIeaKUEcZaFH0dnaN7uRYyaMO23rJdC98g4i9pFilqhNkN2XnslNprwdlciGclE3-NG58APKbRFTJQ_Gxkob3WN_oX1rIaaYrXpdOQ9s4b812pOz5sMzJ2bVT0DWzZczaJj2FOA_bc8rSaDKamdfyfsLk3H6atbfdIEY3ETsaClvIPEQD_IvEt9gwQTDbL8SkgcKoDU35TNIzF-iT6CZCjbV2R-D54MLTax_nP-vCRDjPn-0VqTivHyeK1AIhHGVPon8Vv97eNMDaWd6PyTY1o8qI46ptNXeTr68Z9C9carmbkvZqTj2BrSk
-    widthPx: 3000
-    heightPx: 4000
+      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AeeoHcLp2U6E4ECsmK-i8Wle10iJlsW_2wIDOv2UT1f0KlCHXHsbZBFK70mKrJRXM0Od__X02qFU9hLQalatLRQI4Dqurufhp9bmVB-BqTrZhPo18AHbHSZrP4Q08fWQahq9F2wdDQJcbpmG8Rr5y_s9N_ymbr7ewfYrW8wiTd86zrTbUmE2l6yCRen4XZuGBGjOToBWlJdP7SPjSgbDuH25UV1NmZJLGGzBD08nvb3vRHrTzk6V13ao-QsE8zzS-PkwqVUx3soUJ8TE2NB-mQoGTcC_cXyvlYHIeUdipQy4XppznwOm4g_Nwe85psm1fHDZTeWHcbKFgpGHlrEHSinTBZR7ri7XOkIBQViiukLvgBR-sZgoscpLrr-fSkFZ-ATRMEUakESfYukM8RQ4HiIb2VGXdn4wTOyuaPo0fBsW3x8MGQU
+    widthPx: 2016
+    heightPx: 1512
     authorAttributions:
-      - displayName: Rae
-        uri: https://maps.google.com/maps/contrib/108407869566155579623
+      - displayName: Sazila “Sazila” S
+        uri: https://maps.google.com/maps/contrib/115939882695897604000
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXzK607M95HvVItrFS-8fjgEbcGIIv-bNo1Y99bfPQ-q9cUkDNq0A=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUM4lABWmv5DEdaBb1Bln6SNzW9-R57dAbhNazQx3U8EX5cVFA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDms4n-Dw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv09H12wE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDms4n-Dw!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv09H12wE!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
   - name: >-
-      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AUy1YQ2nCg93scjBBKpxjQCRjVeJf9ZJcPGejre4wow-IQ8qQ8i-P6Yktvw_Vah7ybwY1gpNoGZmllQOaSl0esGrMdSKFqdDQK6lEAi0jdDs7NUTk-OXxkAA2goSuxepY90wO-E_EoPF3batTAHID6X55upiM2_soy61QH6C3SPnuQ6HmtGcWmOPt-tgOwpyhczi9vUezuHeEsQg5o8fxoPwkib7okoQ-_4NlNUwsaDFnJhatCiAOjpXUOgnURcLWP80pU02raLw7q3U7QvlzoOe0hOrqSo7HMIwh0_bO8mkhul1ug
+      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AeeoHcLNohey7Ib1ldFO1q3AWr134hLPh9_2fWw6ELvTXYP_IFg5YjMMz459NJLdPMQih2uLdAlwjRZ81oA69NtY14XDsbZ_ESpzy8oDSZzYbcv0IuuVwsS5bug7FeDF-LVprqMqE4w0o1xFbAxgt57SfuUiRZflUcNTftXPSX7UJcZwmKenax5FNZ3Hp0Pde3303NipIVRlazQX6NgzoHgg26tsuen05F0SlpvKQdLuKC0fu_KM9-5A8bZjaf23y_A0ROzIA0fQcSjQ7RUGHVxt_92Kej5oncSUX_-5TiIqxv-8XA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -86,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPHf9DBXM-6guj70_Do1GklmTXw5JmzQTqOsPwt!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
   - name: >-
-      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AUy1YQ1QoRkbB8A1qDhlH3fXyPbGy3Gu8xZsLOGrqD9l_PN-plZeCEQav1m-zTmNvq8KQG73hqXJSD2NRW7BUwi94p8I6lwCaTdTEpblFO2_qAsvWjk9-NFU1Yb7VrnYFX-P4u60jnro0R-MP0V5DFYrAJdaeWKCURmylaS6DHNxh25hKPdyZW3YAw6vF5XbuAAwr7AM4a1sPqo0jp3a__eloy_15nSLr4r_8xfWNBLJ8D7yLc_Chw1Cm9cNrvaPSZjiH55FYBpzz4o22u7L2DsOSrwi0BAcj9jGy7gTCXe8GI3M1BfqQMdAtKUoX8E47GuYOdclqJPB5DVo0wS1B_Pc8ube1N8vcpDdgKeh2Ajg8ClQfyqNCn9WBc_3uZXaO-EuH93VEFdEJ9UN8oveXMDtm-atSDOnHTSlAKcAb_c2mouTvw
+      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AeeoHcLLijqMZmMAkOyQJTS-jBT7vYJzWc2rCLwSE0n5uBpk5X8FyqHGMYn0BfgIYYOvAwP_szPFW3zecRO5P7YSn2cxZteB0jAc1Qd1dXYyzr1uTJp_XFQPTJBJ6KCtsM__TOhbL_f9WV9gj_Lkb8UfRu0BC9_8ceRzuVqEjdgJiAuhKAgnNbVd_vCaRYDE0eYJGRBNvSC_276sZYR11-EGZtdd4XCk-XE1xs4axjz2Ls6RY87wN8qGqTJ0hSV5qBG08zMWoSbkhobKDmgv0SMWxVDQ5kVT0IkIk65HNCOSDsd_caHu5Fby4O66WbgRU3AoTlERg2DVDppnhCx59U0Dk-iHw3gDzrhiesT9lZYbWNXqjvf3cyZOT5k5xDHaIm1ehMnIG4WJgHg9cr1NEyLt56JqJfj-rjUza8Ajs9FzFgCc-g
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -99,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPuo3_Pw!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
   - name: >-
-      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AUy1YQ1gVsPtAeTLjBNO1SQU2S9J6Ljqk5UKFerBj2zjIHRf4WeKMVcVM_PzeV7Wf-hSMf8HEhrxE3WbVmsFCBALZOk8-u7LQDSlJQSJF1gxiASBrFUR2p0iUBPq2MxHVEqycW1P-FCwpi4m-rk-elOVMtuksiLCiGl0lrdl7E8JfPDrdTXuMoxyQ4wAxz8WcdY-VsvFmTWNWFBlnUxQYsVw9zFBy6et3oD5KZy5XUzphraPTanKIZU2v8U41_GHxWRruXz1Lnk9gPk0y-7_tW6Th_WYkmRN9hGJw_Hb_iARHGA23Vc3JIrnsfn0ERSzfhda_8Fgp7O3yRWuQTQYK_GLAA2DmfHdbQXJLl1qpT38d5YfWbuzmTFXfKd6G0f2LJNZ8R3pRykmggituCiY5WHs6nhB0Lyn5Bc9jJb1KW6a_uQ
+      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AeeoHcL_h7RQRAz8cUma09HebWCsaT1mCkng6NNdWnesPYOX7lLpZaLJndkZHy0Vrnh9xh3AN7auKdzG-mSwJck44ClpBPA2qAM9VRCWagZQNBAGd-vp7wRLhQHBUpxr_HS7OW8iLDYqGgqHYuZMLitcesyQNpy9Yq9Mz05-XkMRccXeXsH-ZhDa2EiCJADdNRBdFyAqT_AaMub0wTVbdQyVjeIiOc5gJE0kgcz0xPsCVBxDSrvSKM7Jr-k86YMbp6Htf2j2lIp3OLH7PTR0_wvwd7xG8FH7TgVKfFxkgRGHDPqfV53OJ6dwyLA813SlWINDRjeBwWGqntRWrmAuTFIKMxZwLfaMuzMXUZevk_9srfWdxdraBDYwDF056vFLYVC0tJ975SravrQyHr35tzk-vFeavgnjSHQ1VZDZIrGKEvM
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -112,7 +125,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf7qLPAg!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
   - name: >-
-      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AUy1YQ2H1z5ZkIwNJ_YJbk55Nfd4inJH2PV2GgP5e7UiCGxoj63vdpl8NRz4rLGOB8S0wt3ZrBoKb6AgB3XUayVStvhbva4XCIDp8Azi72kaMngghIITK-7jY_tA5vmG5gi7LmzNtwIkPGN1eJy57lTDc0Q4tf8060PDcPv6D3uqDuSFwuTmWs7B-EDijfOOYPWpsIvcCD9O76H8VjN4L1orCDMl9cMWb_PMmAimp8MrXnWyj6OjJXvbkbk_S5UXzzrrabJnAE9OU6sKPbZVqPx0U8NLcMjo6ebToWm4GvFqiyzzS-RCWWBXourU2N66nNsu0rjhMHFGuoZPdioA7yX27vZ78EArmqdn16stWQinhRMgCaR8TzfuVSDF4p57WDnchn59RveQz9HBULlj8ABA0NfobzF3FuaudcRU99OZR4bSog
+      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AeeoHcKvBglYOmwF6RJ4PGnhYngHc_Fk3iecqshfKhvCgnx7mLveFQX4wWSaGoraMVAkFSnspNlLlWZY6opRBj8yaB_WJDOUJbq2WVDq-KoYKJ1NQqJy0EaMHaw2u6rMiRxWQcgCuaqqedb8JlW16nVyOEVAXmXmksT8N7f4Rz-sgH7hwjFg5_A6eovjKr-3nj0gpyQRWfTERGENzC6FQiVzBf7tpMCX96qLxfY_ZdsoIUS2KYdfPSJFvnUaBzsoa-jmCXPe57IoWpHWTosI5fyjWt1xhn8YVpXALLQYigiw4RGdmg3UAf2DPrzvTIruNsg1Qu4BTgHBBVQrpAZB2lcjVQN85K2NBQh3R-6sNpxyWNqzd71V4Q_J1KIOJVOM6sEYjUDw8y7nXi75B73d_Gfq9VPOiW59_CuZO61eXis1MOV4aw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -124,19 +137,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4vtylCw&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4vtylCw!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
-  - name: >-
-      places/ChIJs4fP9ZlMs1IRWWVfok_Sw74/photos/AUy1YQ02HA3VrtvQEj6ceZm1JvzLYNUkpLwdxLGRfIyuav7QNp9XVvAo7AxVf9REMT6Q4L9dzSpp-J1JORvnC0eCyxjePDoHTyG7FzPB_YbPuUYxaKAynBAIm_RbV7UQPfz75G1CiRfgiasFaj2b6P6uA_LAjOC-5Ps8FB3yjZF6gITK8DXhCKkNN0-IlXZrERh8ANAVpA9zcqfr4kthodXEYb4fj465tEmadiAAiPJJY8W01nEUfXg-piBC8tCFLQDKofFR-eOO4P-pgrDhUzB1rgCGPX_I2lUndDou_ZaqKU-tQWBP3ZWtsJiHSm0sySeDsoK09rELrEVL1qWZLtbQx4lrkC-c_kNsRC1KsmCSrWlzY8_fw741GhEVujAgr7G0pd6kIN_2QM8KwhiYjOPmFvtXCNN2yx4mn37ayFFquOeiVEpk
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Jeremy Finney
-        uri: https://maps.google.com/maps/contrib/108857432956150504559
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWTU09dOIf5MX0n1Cz0-3Jg6r-FLNR2N0fj6IyGGnf57kiOsFhe=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDp_4GsyAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDp_4GsyAE!2e10!4m2!3m1!1s0x52b34c99f5cf87b3:0xbec3d24fa25f6559
 address: 683 Lake St E, Wayzata, MN 55391, USA
 street: 683 Lake St E
 city: Wayzata
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Sakana-Sushi
 
 ---

@@ -8,7 +8,7 @@ cityName: Edgewater
 place_id: ChIJgQUvBA0t54gR9GL_4xph0Mo
 photos:
   - name: >-
-      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcK1Sh11W_6exFELDzbkfzPJSvK-AiJiZ9NgYmo64Mn11-f0l0jhBQprS4kEc60vwqLV3EPmKe5wfMxGQO4GMXcI7FN7H3q7YzzktVdMEmhQlwFH_rbMqoEYk-JaGjas84hP_SBpuDXoO-hvBsjFZKY9gSjQFGWJ7AGN9MYlHCni9rV4tNyvrdq0PI45Mx4QCil9W6AEItYc1C7cWztzg9Fj9hd4kOLPzFJC4TZ20GF1L4W0rPxviFjW4LbzgpdVbor3fPulMFz2FNkmaBd0Er1HWNvNY4yEa6rr_uRzF5Bz0Q
+      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcIUT_1mi5y6hAkabeE02LSOZc5QQd6aMusYruNHGtK_2qH37986lDFKFYNNpH2pHhE4ybvy5n8lM7hhK6vHZ4NbuTYYyMFP0d_ciV0qHQkSl8jQ2YWN_WyuboBQL4TSPcbqJxTVTegnJUoWm0qmO4JQj9Z9PMBMZcqpBBVgSPd_shE2Jtawfi6hIWsDMo9xghW0UhxFOujB2CQfQt440Np0PHAEhBMRHZWuqN8nlNvgGib0RLGOeBi116ARJMC9ggFki5hE-qHyEGIz4r3voeUGYz8KEU2qHa_j_HAGFZ3oqw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMalXH0En2ndnH3EKkNL7kXFs3aLNbX6IzCJWuV!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
   - name: >-
-      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcLVBjioV1eZHThMcmHkmMLB2wEQ9xMUoSzjg9IXcmdhfMAXKV17I6uQvYfaMWf1xYbJFtAOaxEEPO3yFgwaBx2usiEUg75A8Gmce6IGRYdWnePBQjjXSn1kPxSTM1Y-SRAG2r3X6GhM4JT1HQG-kx7qG-ZmFUjDaKMP5zlIqKN_vfjb9fVHiInh6rVLeGTc_IACDfC059e1AVsOmFM2Wy3m_yZ63uGIwHfDGjUljWy4fXtNK4nF1df30mrG0ASy45r9igc-ZJjrt9kyOfnXlRsDey_TIRRCOobdJ4nfEe8e-w
+      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcKencR2y-QDxYw0gunSe3fX8BDTXtMeRSJHAVy9d0usJlls3DXTDY-XrMHcVAGif2-uSiGwMq_yN0u6mp9nMknm4AG_H6WOSx6UmwPLFtWjayrre4189s1oX7l5IaOL7OKnRwprJZJC7xsLbv0Z3PdQxIfRr4kyWWc-173TmZWc35hrg1lVvRvClevGG0nEICxbf925JHUJePL2mmtQrjuTworbabdzQ8y7XImL-WdOOj92TQPcVzjPz0sV8_a476-fgbJ7frh6MqEAlcEXinBJ_SWoc54mILupfZ5VwmHZFQ
     widthPx: 1284
     heightPx: 724
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNnzRHfbirrdYyKiag3qi9-LiogpOXCdPdNllI2!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
   - name: >-
-      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcJaba2BYZPpGO0b2qQKE6xuQPJuuD4YzmiTydtVLgislGTaTtwJXF6tmPPEcXTP7kQrJjufZ-B_JhPyHMJ7Nl4dVhZVVeDUVrLp8JJMqeO4Ac8PYkEv772y182cSgbhrmzmowyuZVrOpKF1K11ST2DSVz_9M2kxaqnmBFfXr6-Xs9YHLLNgfJYY6uQ9qOvOQj4ib4fjFmYDsEKx8hzG-qNBhxgvBb_N321u1vwcqYwfTP_ByRMA38mod7XgMNnOMcuXrXYRj0j9fC6MyZtPzr5bWPGDBDO5946F42C_IfGExg
+      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcLD2_eNDCuEDhidA47zJ4Amo7x5p8xJtu0JGs4WpPkolOAW_kASkkTvVXasL3n5py5WoKwQZYZDD3GVE5NcWki1_0m8NV4zgxD7rCBOfZ4CIDx-RBuqwEIJUTHcejACIFYH3oJ4uOa4h2Hlq6KEyV5HhRawlCi37THemaElWVX3q5hMIqWfd8QmcfSZLJA4iKTHUmQBYKJPEb8au1t4Km78zq5QsZQBBYfpfnmH-h95jtpzDGekBJ_fgloyDZU9ke3gc4imJZypSogmVD-6K70erJ4dqMZyTonsB3FnMN6bfg
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPyNvOsa6uZBBks3jyWKdB5XXOpR5fprKlf9x_P!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
   - name: >-
-      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcJskLqOJ0AeiUqcsxhnV0HyUaRQhjwQwvt3RVb2ZjTx90HN24NCPC6oYjCCPaqaA6PrBn9hfdXOXhos37DPjwFCKc3ZueM7KON2YaG38jf2IRfL9DLB9UK7_4qHSRlLObsvlTxuDs4-gy0YnEaxXwhEK-DladMvfIACXuVg0guwbhO7ROCx1dqtQcWqx9BZT4q8tGi2PzPMtHRuaKHPLhioGt5Q_XsdW0_fRouo07Tvwcdwyxmg3cVKj1fn5thljYAuhk2kMjaid7qANOlJOi2FWG68pNYTxvJXWAwmZJINUg
+      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcLg2ilJabC9HpSTgaDvwvuaNtzjkj3R0bwPsWi8_JRgmyy-bzJV9ud0FVDq7Mrp0jtbjtp2i_nAVUqF5ksutOQE8X2x3CPtr72QU-qrrwKgzPWmbK3dz9A88kEsrhghR__a7oKHjwpcm9sLa8crQ13BbLDletvbT9j5IuwEbm_Ci0h3JbDb72wLFObQdolkzRLJnjgoo5YN66Mx1orSBnpPOUrz9y7MpMJixpM8L1IXruuAIB94xqEzlrFYAN4NpuckfR07vq7YQkCZshonXj04JzLS9u6a_XIv9Z0atIVqEg
     widthPx: 1500
     heightPx: 1001
     authorAttributions:
@@ -60,20 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMIe479cjPoOK8BitfXGd5QpuzLClSaYpSlzqV2!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
   - name: >-
-      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcI5mTAGV1aSrZJu9ZDVrinIRHHzyGa4tnNKeDQVU6THiaGYOQLjELn3G3TN7xTdBd5dJ7zfICtG5Fgws2Jo3J4jBdbiAz-jUqooLHeEierUe42k0FIQJezphAw1ABF_gNxj4WOxTzWn_UbIuoPNISzrd_4PfAW4-SlIqUXmQHRgPlmpJT_3jKoPW6ytDiqB5HEL1K3By9DazbS_wqqAczCUYOK31bvh3OaApMjWdErXHZmiwAOMy6S7D4j1oB3st3_WvC-kDUlSd2e16QF_9l19n7y9cJmDZTawCuTJdqrMsA
-    widthPx: 3687
-    heightPx: 2765
-    authorAttributions:
-      - displayName: Royal Sushi Grill & Thai（Edgewater）
-        uri: https://maps.google.com/maps/contrib/109227218114535483663
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXcSnRoz4DmORJ_yxf-S6GW4fd7jOHFDO8gtrV9ssqfaYMcHuYE=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPHdkA5rEtq_9TZor_aRjMkNcTLxa7Sa2ULmdH6&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPHdkA5rEtq_9TZor_aRjMkNcTLxa7Sa2ULmdH6!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
-  - name: >-
-      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcLgMzcg0Qt5Q4hhrG9ntdNBfyqxU9dzNfr5bv1973w-TiAab5Pp7k-RNYUNqqflLAjf-ye5-UbZvmoFcMnssZcTSB2DL6JGqvsme2055kkiobhb3q4AUChyaqGfs2iH6Oax7K7YmXeXwMvso5KNHyAyjISehORtGwWNjwvaF_vwlSry_kHFXLZ8DLk-KLPQoJXhA4w7l8ZjEA2bTfMvfrp1zktmtHVFbm4h-62SN_t5itwzSKhzQ5rtLuyQ9xywLEAoTIVjjbFJLvgetEC13J8i4CPp7fVQqpdzSd3o4FIdnA
+      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcLpEbK7pv7VtrIzZ6pAsIgyHx0IHsaxsuV8AqGbb1ORbPsgQsDIItIkVfO1PGu3atnjPef_zlTzH1QIF76umhTciwLBS1-Y7pMIKyO5iZLiSA9UW5-neRtfVRtHuy5nkyq2Q8RB_ixBsMtQ1muVCvSpmKF8UyTpLceTlssyvygnKCJ3fdcZ9SmdI9p8u0-k35fNx-R96IaUiTIzSBhXji4dCfilyx0ro0smCDUU6zWpEa4y7VAb3XS_Eso4ziJ5svQfDfdilaYQGCHMwJ4TEobdPXGjTPCvTYFH8ZY7IbIzPg
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -86,7 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOIG6qaRrB0SR4Oe5LFwcyYahgFu96iA1NtMvI5!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
   - name: >-
-      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcLiCDsZ0UeidmwOgpL0D1KkARDwycmvpyfaKRQOrMbuauMs8FE05XqgPbschYIuTts4weqGlHz8wrh8w_ah9-i0cX-oK35c29RhD961VrcEDyQo5ndw9u_Rowi6UvIq-S7aV4qekE0YKvhmFKVXTQGBFVG95FC2-WDCKUfP4Hw8PddNNJFq06n9lh20wDqT-zZ_OJxhK81NCllKnxQLUcI8_9F1z64KsHZ09ShGRMMSqq1VGmvkd3RXejCrifHSZAAZwv464idpvxLABGCaUkZUhAQl9cKayB1Vc-oFwOIvnTEakIDgtXrFffqs4ZBduoz8v-_KrZSaAoJ6TEikBEMylQTputHAHlk4YlGlQ2C9JrQImgti7kZdsUlhp6tV1Upm3U-Ox52DG6rnmzEudBJhrbC9Mpad-H9fYeBPCvDF_sDN
+      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcLM2w7o5mxKlLn-TRSiSRgcIY_pC9FGdFaMFfjSiP0lxfdKwbjOhsPYqOh6v1cEgr9Hb32S9ZoPdQpbsMF9yRztBIvZD_7m7bpC9_SQuVg8sRAsFpMAziM0K-5wq9xtyAXnCGkGvZn72WMPOCHMX33ToRttT3qrVDUUwcTxf4Zei5qhhYC_qwBoCnVy-izi-lKZO9zC-zKekrlqogZlIS_fyDzl4XFutUdGlUuoIQ_ZS4dqAlyLDJ2gU5qmb2BDKNp1jWjewqaUj9kl2eG9mdzJvFTa0YZVqCIIB8F7Ztb4bCFu0ZAkTjkKEdOCmj-RWQb6VDR0UrjRwg_6ChG1u8EGJzjNqcB6sbe-kouxTB66xehmZc5uek1umBQh7QL4-e_-wd3J9PH4pnh2_-VZezp6wucxNWnH6-Lngkr9rvT8_Vpc
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -99,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj9vb3mgE!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
   - name: >-
-      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcJEQBnoB5CnG8CTrjeoZXUtRce5UO55_2IRy9aJDsSpi0XIj7MSlVdNNdpbXOlyZx2vnwHOiVpe-bA4R-eWOGkEBBzOl7adR3RWIfmrgGgOCalUYOu7Pmw3DwJ8mGre-TEmmFjsS3ROWauiFzmWG0IuvMcs5MA-3VkmNvnt_VJAgN8J1WVhqN_4cXOHEzwRmD_ApsALIPdE3UUxo3QBOhFtkLQEDk21Iml_2zHHCKqdacMRXa156CY8CFlPoozPDpvP84ra_UKybLfyyhdjrdEPDSaEcivqelmh2c9WDPc74pPV_uKxQC5FVW9MLONbFVQnb74fhv2tIeXT4YwrG73n7zrXGkRnZ8BNvL2BmFl7vyRLnbiceezE5SPi4f3_3nlRZ5o5ltT2JnYo6NwtN3sPuQTISB6v613aI3ZvnUEwWw
+      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcIjVGGZH8koRc8dUccgj48SJXQIOq8apbKg7PJ5RbzKpsEIDJCVgb4qLYtEZUT5m1Yfc0QokMEP0sVDpHl0FaopkX_k2ByLZoPjmp-ZQmFYmUbWq1B8W7sJ9-U739LGXLIzC3QdZSuy5mzkQvqLMiMXfrqgW8uxibVlz0q74HYTTOCgo_JBeQx6JOV4719LRE-Jtat0ILTWCtobPLvS9LILVkR2FWMm4-1DCcTto73PeB5bLkZKjAP5qy5Zpp9wD2VOJounSQcAsB8t9vs6VXd2hr8pGuKowkGQb_v7vxSqKqDdSIToGaZYnmDt3i03oJA1L5pyZZlW3prnvtyj7Kxejfyi4WJb98C9GyQSwXhtQ42XcgnOGxaaN58E1tVY2C4VPb5Qq57OroQipMDeFI_9sKX_CZOost7PQhUnHes2fw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -112,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-lIXLWw!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
   - name: >-
-      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcKDEKFIGxzO3WPhsbrCsiXIs0P7bickiSqSNK1Nt8LqGv3XV3ugi4HTFHgeThTQhpCIjmIuN7preOcg9aK-KNWwHqBS1fGjoIGYJtzIRmwCHwadVaiN6aXW4vOhA5ukJfA12ACLMzjot9PIBIkl-JQsp7P-ecpNM4cHqWCFR8cXAZnwpQSpfB5aF1-R9U4RdQhEXzNxaYL0ohoBmrC3BeuKBNXYYDcfiidwSGl9SyRt4S-AkBZxNMXGQw_bcAGT1fuS0MAHRe8VNA91cesAxRL7MFTR2LqXjOaDmKVvY6v1QA
+      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcJqMW9YrOgBi8WDOJYa3icsF8rXZTt__h5UpJahA-cLvpFX8sQgcdwKhmntlj0NH0tHQFmOSE5-7lnhz41242VZnebqNVgyi5FY-Lk9hVqZPtdJjW-raECin6RhYPLqsmg57czgRmIvph3N58Rr--6F7FsIyXdyrVf2TK-LK_VHWoiqkeymInR1ZgX4UrAwP3PCub2wrwVxFlwDdXfm9AYrv6Ap77eA-likUGgbvwWlP4gANamQMp5HV8U-2I8uEwromOFrOaDMyv-Cyc6TEzihq49urrQHWXwNIesUirVbtQ
     widthPx: 1280
     heightPx: 1706
     authorAttributions:
@@ -125,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP3-OxTv_qQKLykyI-zMpy8xGNxNV24P_VahX3j!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
   - name: >-
-      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcLHk5U92Q8itDctqWVf2A7dngte1MvODH1F-W1X3aF5kPY91xOhIAfM6OGPL6inrKyNrgfFGIB4MMlyOP7miNSBQQ34H7ul4Pwx3s7DOtTqDKwVUA4yP0w4iGYHIgTe5SnJAkrQF4WFTuGFJ-8HgQY70wWE6chL_6gdFF2hQb3L4sVT7LXh-_bGOQ_i4a3lDA47C4qHCRY4Os6mnK8wk5kGnOJrGrxWqmgFdgIz-UvoswKTytc_k5xZdVfmBVP5fH2-t-3SC3e6idQl67kWqWyDYVeEQKmvtFamul6V87RdcjcucRyvfd4LTmXbJe5BQejAwiQkJ8UtFjSpFczovAMBm-MQqg-mGSO-M0HuP_JmBDjKkxpngROQz6qhn0OfB5oWncI-udx78CrFqWkYSU7mhqHIySx1HbLQZiml6AvsC7-s
+      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcKbjLLMpp8SM6tH8RehLV7umEG9OSV7sEwEx0yJ7J219U0NEV6ZwqoJPYDkdalQbKIkV0XNRsWjAMbp-Tx8UioGitURORfqxb89dQToA8cFkEHshsrsYoSLXCataLR5zrDlxlXIYedvWiSl4um_6gTWmE08KD_CNiYYnNctiB3cfAW2i_PuR2mUr1sV9oQale3A4TsbeMVUmJM_15f9dVeT3j5sIyx13eQnzwtJo5BHi8lGpymf5Ey-e072yiBbhckowGQ0YJ6gwirTUnkXjLbqx3VLae0MCh1VQBJN_1KLLWOV_fLSuEas2rRGoxLU9rrGr_G1-03ngj_hxQFEugxWbvutFaLqZ7ajPL8wooGq1E_wujerN1BoyYtMbjaQYHS-MloUNRQ4Go8IGIBJtuDHkf0HljrNHfeRZXImwXWcw18W
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-lIXL2wE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-lIXL2wE!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
+  - name: >-
+      places/ChIJgQUvBA0t54gR9GL_4xph0Mo/photos/AeeoHcJQnGL1kCvbn4fiDtuIvaCtEE5IxK5lA8zcVrbA_rRUtqUyTzgk9CY0oKIoENsf1TXO8vlMLmV0PP6MuQETx0k3Nm_Had_FGBcBLqNBn4ToSvPzjAmrPF6y1yk-wmQv-X1aQk2Vzkw68sqL32H5rpbpKfy0u0PcpycAAv7S8eCSzovXTwILwUmGumGFcUoMuTnqFdokztNmwE-o6QG7muAcB9rnM2BNuWg8bndONqX8PQ3r4OlC84p8GZkUAA0q7yVjFWvIwLoa8C6OrUcm9_4PvgYPftAdaJb4NVUq1CR4G3gMDk7uuD50crw9XF78JjQBz5b3iUMbSWWKTEQVpVqWtgfZ6h8Dm85mdWQktOyMquNCFgwEQu6IKmaZvN3EWDiWE9095Owcy0A9yIlaNScwoAiX3tI1rUT-Z3jlu92Majy2
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: J. Verde
+        uri: https://maps.google.com/maps/contrib/103480227091376494980
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXEDaIRQq-h4RQExRE-2snUqWPk-5J9J_hRd-ZJd_Pekpyairfs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj9o6w7wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj9o6w7wE!2e10!4m2!3m1!1s0x88e72d0d042f0581:0xcad0611ae3ff62f4
 address: 1816 S Ridgewood Ave, Edgewater, FL 32141, USA
 street: 1816 S Ridgewood Ave
 city: Edgewater
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Royal-Sushi-Grill-and-Thai-Edgewater
 
 ---

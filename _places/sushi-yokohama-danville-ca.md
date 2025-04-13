@@ -8,7 +8,7 @@ cityName: Danville
 place_id: ChIJ05ZJsK2Mj4AR2QrjVEonO4I
 photos:
   - name: >-
-      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AUy1YQ2Jzz6eEGw3_klor1sGQFVJqJ9-UTUECoAVOY216TUDxU66ru6dOE35o-bliQA4RgV8QWrwmxDcGOL0kAYDaGVRaZ4Kx_KZ3EbtHixo_POkKRE2j5grLQFTYCDIcMclgvfwVGg8BjPR9D51ZEwsbNhnNPlsZvdLdd7qslM53JFL4ms7U-Jnqdjh0y9C6jrtB0Cqv0SznspyCO2MxQj4zrio3ZhqepD9I4OBhSJZtM7bMuN5UAGLNufZxZa-CsuFFb63R4R9AIdLjrYBorwVs6JOR4mlI5io33_zPJQ_tqok72h21McEJ3_8hlNjhwgdLoBaYqORmUtn2F2epEUzONSHVMyqDyD5wXciYrNOu8tklALQ7kJeRBUYRbkgazn2WStHw-uRTxf1WjogNQc_1I0kZNvP9U8FwHxeGZSu19yCLA8
+      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AeeoHcK3vpzZtkiZW2LHfHE8-wjcU-NNS9L9Fetd8HVfkUVtdymZGkcXw8a7dT15bE0AdTs0hWuvRsfex_7x3hnppLZd_k0kWynbGhlc3VbVn01ded4dMErpYvzUb1ZoEgyj-gLpt8bY0mRS5tsd281X2XZSDQHxlwPlRL4KGTCUZLKG_YebDkT_Xmem0P3ipPDyul2MN2ZTPlS3dK1VSHQ6Svbtp23QwkQT3p8VYW-wDLzIjTJOJVFINCHayqiZ7A4yA-6LkWLGizhiM3gjkZA6j5kpHZHKYXs6LCk_XmAyodnvTOl7eFO2eEAPJTn6HEey7oxxoqQn4mtNemSbvedt1WFEwQBd4DT-IwEPBybo04JzZDTgmAzR6lSrCb1tPZcppeU70lWgPW9oEFlr3o57Ve9iOIEMYJzaQ0tl07mU7BvgbdQ
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRrL6jogE!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
   - name: >-
-      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AUy1YQ2-jyixgdOnvT1BgeeqjPqwvG5Bvhc8COejm8bGy67K5ai4j1ZPXjSQ91wLERQdqUIK772ejQrLFpBcdcHuIkTSXhGjRJg-Lfgff2TGgYfgVSQYFLmz7XhPIAzGBQRssSy4MJxpf4jK5UiREWV7rVlB7sLuo1bz7DEZWKydJmhAhqQQfsg3orYLb-_GLyQj6UsGqAvUDBX_yLf9SEsiax1NlTGBOqELTytHI_Ys2ioDwEDXnoT00ATw7efmvmZ_HW5BKyZWSFLrnVEFZvLdzwnum-xrp-XJR686eyZl2fkh9Q
+      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AeeoHcLTx1tZnirQXN25BEQ0f3Mxda77srFm044SWMBkjIwNHtrO0qM63mlIQWRh4bRauBDeP7CtoRG34YABPw8ifenAfgYmcQjDyFD-rZH_ICa3UrU8sm3rz6W7Jx4ZT-LFiYPEqzL7aaqCaOXFAYHzNknjl5ReNTXwdBn77m_vkPptKS46aKqAgHu9xXMCMdndYhGKnagpDmYudF0q4Jnu25PZ40DL2WscJMoDH1SXZBAdUePffgfhDxpFyo9EpWc6zFNfFVOp1bqLLCMVwusc43gszuW1ORxvVTCpWdJLFjwmDw
     widthPx: 4028
     heightPx: 2266
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNZwj4bzrWPCzG96t047HnLjKIW0JHlCPmK6wxR!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
   - name: >-
-      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AUy1YQ17CYV12cRCEO4EkyTZ2K44HUhkjpzSbcCazk_JV_ymgxZqfc9lu-go1XBMsWvkwxHkwY1ucCA5VWvVUkleCbw1yY2zpAWmG6d1Rq7CKlOOWUBkzos3OI_8MyVsTGUBLexPjyADxvZFSSHLcKS_yemXH9hRdOp-ONzeTIifSV7x9EoIrh7kKez_fLVB-PxkhzVPW3y0f6bXNNjpId9l2VCUP_H5uRm5T6qwNkaZMIV9Tjxe-zZRzJ8I_dl4WOdlDE41MeBJOUWxiZy9FecbHJjAiC5lLqQUh_gxefvjzj7nFA
+      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AeeoHcLLpZoJQevehO3njf-Yb_M0v6nfBPQpAbq2NJl00oVlCe-hLjTKuwaVGHK0qCvNYA5h52VSDFXrVvmqU91cyPgaaKhx0zXSHwQ4r7xgYCv7csY-RZSFss0bHg_ICe9c2KiqPmgDmcixVjYDij1rCxTlzulkoZNucMmim9326iF9bF9HRCd1Dc1K-1f_0DtiroGeKCW2b_Kb7oqOlNgxVvumSh8r2QW5JFEPxTmYXww6pW0R9YZ1ewS2wfZ_92Qrhh2EWgRVpSklYjoZTvSkIeJSq4azZzeP8D6oS4hXK_nz0w
     widthPx: 1327
     heightPx: 955
     authorAttributions:
@@ -47,20 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPVZTCj2GDXVNi0tfisMgwLE4EUWxWDTSBGXE8r!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
   - name: >-
-      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AUy1YQ3MfBaPbBqfDFqRR2DHu5Mer1eMeBrepkOr-C2JyASG4GL0dCWrilN-aAD3zB4USJ0ICPMd44lNScgSMpvTu1ErrtSNDVKpNVdRAlnIPs3PEG2I3vC8_S5HzBy8IaZODhoP_jrcfSB9QBvFvurv_GbMoaddlhvI7KAzKkSwnobxg1WpGgtsRHTyrtSkNs2nvbujAOLnxH6hKZ5GtwKjUFY-bIfmXVNuPRGge9uuxoJyWCZkUVB2dE5FUwfKJSr6WIB0vjGdWdsv0vNfAKuK0jmKrrJfmyuZqOqR4jgEPH0NsA
-    widthPx: 4800
-    heightPx: 2700
-    authorAttributions:
-      - displayName: Sushi Yokohama
-        uri: https://maps.google.com/maps/contrib/103767093956751674213
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJtyV3c189wAdA6ubFuveF7xrqSSRLjO-vF6C5ja4PsjjVYJw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNRg0vZ654W04FV2jTnP5Zpdl8IKS4WZSHuIp1I&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNRg0vZ654W04FV2jTnP5Zpdl8IKS4WZSHuIp1I!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
-  - name: >-
-      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AUy1YQ2lIH5EFXxsNSOUtvnN-SNThn7fuNukK_ufHgQKPduT-y21B6Sb_S_OGt3nstrPd8PfwnebJfQs85t_8JdZrfn8eIMT523KMyHd-9N45pqU_ss6sMZQtn3u_cy19xp6kMAXDvTwq3-0X7tEPxmWUg5czOj_MT4Belt4u61cHPuT7eLs_rxyISBI5xIdBQpCmZpIeBJmG1Wf62L7vntLr308Vqi6xn8e6i1ev6U9efe2ElWX3LLoku4rGpsdBnZ2wnggjzXeoq4yn-wmPawXbzct7FMopbuYvRUABgSpfejw1w
+      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AeeoHcK8F2pVO4Cr8clMrl42AnHDfMmBaiFnvXUv8zMbN55COFGeM5NRJm4-r9D2qh6BeqgS0FX7NuuAezSx2kU9NUm1j4khe0ux7eV76WvZCR2yXyC-dt9AdccoS8Rkrv3axxY9OWmzf8YxhoxN18U-hrz10JDB76s8-148GYhQCqxKNtKwGA3hGSV49njSzNA8Tduq8tX_RXeMpxs7Cz7AZ4WiuX6VwhTtV3ngrM2sQDfzulrIx_JHIVA8ql4_xfzrWiUzyW_etUmzR0TDT9pkd6LWPoy4SQVykuZhhI-en1btIQ
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -73,7 +60,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPATswnVwu1oEgjYUA6lA-aUmH3uKdhpl7euM8Z!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
   - name: >-
-      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AUy1YQ3uaZdBxZcxNTf-rVAmgwMZAvS7wLZfRVygTkF9TowH7AbnmKjROeqrI8XkuQ1rVFlchAN5m63CVeemRaFg3TO1eyriA5LDO-xfa0-doPYf3B14kbxWWsP1duqQSifaOexe-Uf4TY7ABBjNY0khEw3JTAsM1jg9KKS55wP2FEsKo1aDctkqHo8qi880Y86rfd31HAKthU85nbggy_550Vb58dMwcThl_UNdI4O3hIzv-qvEpYY0bBZuBX7JE0VaF5eSHiTm-0PIBBfJu9AwdNeKP_A3qUqzy-umJW3yl3yf3A
+      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AeeoHcLwweCmnbCBI8W4oGw1wptCwU4U-yjRYXBr9h50VvfUB_EcUCPZHmON2ZbZ68YM_PPxQ4BquSfbkhPDGWDSQJyZHYMPPJbw_M1C53sXVGdD8ukDFTk4UWtQLTlIKmQzVT1HZBAr4hw1L6XNkdnQhzqkWUsFnPciuFSyMNfP46EyO5a0OpiP9wFx4X0kk_jDwINbT71-1Bj-1SPdTEsNPWbebsbN48inpwTclY1JEicoJTBB5qWhVEtxgsqOHdBeS0NZcQqfmBre-OkdXgaMS5_3pE9UqQpfNC-4Aq5PecOqvQ
+    widthPx: 3787
+    heightPx: 2130
+    authorAttributions:
+      - displayName: Sushi Yokohama
+        uri: https://maps.google.com/maps/contrib/103767093956751674213
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJtyV3c189wAdA6ubFuveF7xrqSSRLjO-vF6C5ja4PsjjVYJw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP2dxz4R-qMi-y_A3iwL-iiHQDFyxRoZsE9Yljm&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP2dxz4R-qMi-y_A3iwL-iiHQDFyxRoZsE9Yljm!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
+  - name: >-
+      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AeeoHcLXjuh-Q2pn9QyBZW36yxAgmmTQxbeQcp03Jj3akBvIj5XJcUca0pEBtL8wWe9TQ5wzG9zCvOqdBt7Wt3Fh7fUB5QQ4U-nZyKR6r_s19J9beVqF0OFe9PDGI9v2RJO6EUdd3D_bs3dJI_HnY0wvNrsmk00dU_e-yYPdxp1Rzqf_EUmWQZdSbWCvWDDHplX4I9KATfxGg54ci_KVBylJ7r3aBKCrpfOCvEb2aNqvv2J_YEFNunA3K7V139ykarwA8iBgXpPWf4cx3Wn6sm-s6Sk_s6vF3i7hWBYvgqLfAxRLPQ
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Sushi Yokohama
+        uri: https://maps.google.com/maps/contrib/103767093956751674213
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJtyV3c189wAdA6ubFuveF7xrqSSRLjO-vF6C5ja4PsjjVYJw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNRg0vZ654W04FV2jTnP5Zpdl8IKS4WZSHuIp1I&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNRg0vZ654W04FV2jTnP5Zpdl8IKS4WZSHuIp1I!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
+  - name: >-
+      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AeeoHcLP0YiQYeFB8S74QYJLRg1YdjEnoFu59GJ2ASWcWpzoEIWlderLT-_0hQZ-Okqc0oX6lbP56g-cAFnqTXCaa411KlMytOllXahVcP-pdarBy9O87jU45T5C8TaKOP4hIrc7PspmfBR7ygZa-ZArSt1f540KHm-DE7f8_EJ7I9gvu5aWF28dtry26coT7ExY-beU6EFdkagnqTiquvRiOPhq4QhJR4rlfjxr4fpUa_jgF9Zs5cfMo1JWJAl5Rs5ZBJWA6EnyZxvJROYmwuovEPxz3lAa8m1XbZT1K5nrctlcOA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -86,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMM2AKHEw6lYtE4AKUqqO34x5iIUnQvnUWta0k4!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
   - name: >-
-      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AUy1YQ2eMbdNzzw7CxQWFywPU3x8U7aHeEUm_PT4eujZBjbAJi-GVjQDsDOVBqbLj3676p4W-_TSgiThEykNRFFi2HD3ud1UuBG3GyGn9W3Qhny_JBp-xDZsnBhAbzw5WiNtE28PKLlcpQpgFFulzN_W5Og4NA_vyxRRDvLO1SXfCP34qJtTjR_QDKr2UGrc7F6pv0iKcNuVUDQizsAb30mRNeKgq-qHB6usl6hpOyt0Ckp8-bxkm_4RHGIpBzEsJxWmImQZHjWp0iH1qcemaOAcsJu-UI3VhcSpahQQHFeLDxYXy1MN0iFOz6DtvAwn_gqMSqtt_B5Klz-3D0chstY2oSaEFmY-7xV3kdHgQSfCo3IonO9Fq4Z6dbXlghSH9tpfFehYdr2ZZ-HJrS3a6lVXwBimZMCBpnRFntLhtUDz9M1JXFXC
+      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AeeoHcLA57WAVBWkiLL3VomCbZfm2JCCHDi-SuLO_BMcHyORFZXSvys1L6Kwmrz2LqYN8l5CREL1NQ9LQ6eJvPI7EMwrwhsmozOn0FLq5SwVGfjk8I-AWWvS_FaJYMEzDqpZp2me6t-oqpKGfx0VzaN7R3CPrVypnJt0Pq9e6isgV_uqtUKN3fPxUBkxIvb3b5rWlrZDrwWE9v1RF2bzNd3E9W00F8lkfhn5l3HhtzqnTmPaXiDWNgxnkCKkrQZBx4rjPXxiLKghJ1GbL0dvBdc9zRCIU7iQJR9tuXDt7lYNIfGfKuIMC547gVoNNk89haypZ05LbLuSot4uyYBTypJ0VR7AqGcKz8_uqvGp0n6C2hzayFXZuuSOsfnc5AY0WntEKF_QNA2eXOeWQ1rlENNphtuBOkYiwaDfcx378bVOOHRk92qf
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -99,44 +112,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC17oLE1wE!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
   - name: >-
-      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AUy1YQ3Lk9pB0tMx0wBBbH1ZjMPdpCSy1VPYe1pW2c7T5fhE--hyubgHbIAXLl8QSDFtl0quZX_IYsgdqUhddaVQYu_1hGNqxoG2FmIjpgSl6J1xIrZW2BQLRr2E9wiiSEMRugUGWK3NMfsjTpVVdbm6G3tn7MUrTZAEyLNMb57YCEirvqBrdyW9UoUZH6y7HHLU49c65oCOaeCRu2mVeek5DG9IHd4iP5ZdvAwStlwHBa7grqntKg6wxM0P8pmCVpPFnhGicMgH7JlTtiKz-LbEvHJxjVlN-UAjUnPDPn1KTJDc3w
-    widthPx: 4032
-    heightPx: 2268
+      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AeeoHcIUePA7LhR9hOpEyni9uUTpIXUBqogTTN6q4o1zt8ihbrhUq0YCDLcEp0WV7ewPRDDPejGPmwBSJnh5gSqwc3_1vBvRakWYDYUzcRtAu9MbZeZyWvQLaPWUbeH4U-L4aoYzkvAzc9rFuj8YEGKNsq0a4M2Ai8igkA846T_R4XmAUbB2ecQ5SEIamGuCgw6Xq33qgsN0GYpYMglDQjJaPl7ocgI4GPSdS-N6M4nAmdBC1X9kf2PJRK7vNlDIe9qGijVEcnjCdN0Sq2QpxJkvtxArR0_GJKUU97fsQNWULWOYHA
+    widthPx: 1080
+    heightPx: 1440
     authorAttributions:
       - displayName: Sushi Yokohama
         uri: https://maps.google.com/maps/contrib/103767093956751674213
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocJtyV3c189wAdA6ubFuveF7xrqSSRLjO-vF6C5ja4PsjjVYJw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMyyqVMGvOt5kZoVn54yHIRww0fP2NNBzOo8DAH&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOQ1rYE4GuWdBai6zl55PA6z5Qq0C6H8DlZXVSj&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMyyqVMGvOt5kZoVn54yHIRww0fP2NNBzOo8DAH!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOQ1rYE4GuWdBai6zl55PA6z5Qq0C6H8DlZXVSj!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
   - name: >-
-      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AUy1YQ3TKiKoRMgUYqmvKb4m8T3hvNtjAxj0uQHbjIebk3iAq55OtcypPtnyD4ChR9iyL9lYHBL_FxnG1SzRwb6dupLY3M5RHuIGTPMFuIaPE81LQ_cft_EseidH3BpmO9etLgI8HgTOf_-AlfSpqvDlg1xxwnUM3K4WC9JQ7UkMgcsfBXcVP0hsNnFevKXIrLHN5FtlyW2A1U3xdkfZ6ouxuYncHI1Ly3mAbg71uvfU07DvbDiXp22D6O462hulJV8y1wxV6Djl00MKcmtBm0DYTdts0zcX0XhBUaJ_PUwu1LUuXw
-    widthPx: 4032
-    heightPx: 2268
+      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AeeoHcIpZ07MOChckGHa1UCizJWTCzkfIbB3Q-kupl38sSmuPvqCGS7H_I9d_iOHyuSkUimiqKlOFPlJRfbFrWTRf8zUeqjbhaSng9n1lpyAOb25uRvVEFjlem0E5Id3s-X_zM6CDiaEunkqpsmxW13QMcX_ml-AJbM_cmp5vl9RUXAzeaAHBiuTlQXtxrDYE8p1vKlMI5KYHvm4SNsOB3bBIyamsVPLfyhmJZG0mPu-0EGerxH2FgEw5Yv58WXLr_biNXq5HTyUybuEtQFowQBrUxyYLftvaKorBvaBs-CjlUyENw
+    widthPx: 3696
+    heightPx: 2079
     authorAttributions:
       - displayName: Sushi Yokohama
         uri: https://maps.google.com/maps/contrib/103767093956751674213
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocJtyV3c189wAdA6ubFuveF7xrqSSRLjO-vF6C5ja4PsjjVYJw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNAHWgVwlY0uoXoEGdxRXPCsH0IwlntPX_7h5O7&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPGmahGHYyc2nkJGwmDrNK28VqmNdncKFQHZNe2&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNAHWgVwlY0uoXoEGdxRXPCsH0IwlntPX_7h5O7!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
-  - name: >-
-      places/ChIJ05ZJsK2Mj4AR2QrjVEonO4I/photos/AUy1YQ1ETGYre1VyVxFLCg88Y1lVLNfISxN3tL_Xy-xE35Dbqfc_rgIurigTh249OU-Yi5aoa1NIAoiZbCA3oSPal2M-6aiTrgSkJwRIVhYFVJRahweh2A_8MlY7qjL9-qO5HWgHeG3xBdpah6g_N6MexgxvNhQ2ioz294S6XDcFkhGtWBKl0bCdnp5kboUNcGKUpwTCZX5DFVE2wWL3PFvP1KxqTLwCLupIznp09TmpXZHCviBbFj3b9WBUieF133Ux2lQy-BxNhD2V_ejTlWOIuXQgqobUHgsQeyBhgXx1QSPOYw
-    widthPx: 1520
-    heightPx: 855
-    authorAttributions:
-      - displayName: Sushi Yokohama
-        uri: https://maps.google.com/maps/contrib/103767093956751674213
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJtyV3c189wAdA6ubFuveF7xrqSSRLjO-vF6C5ja4PsjjVYJw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNymoaoGNvTNrF9_ea-p70JFnhbi6QCJQQPblWT&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNymoaoGNvTNrF9_ea-p70JFnhbi6QCJQQPblWT!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPGmahGHYyc2nkJGwmDrNK28VqmNdncKFQHZNe2!2e10!4m2!3m1!1s0x808f8cadb04996d3:0x823b274a54e30ad9
 address: 558 San Ramon Valley Blvd, Danville, CA 94526, USA
 street: 558 San Ramon Valley Blvd
 city: Danville
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Sushi-Yokohama
 
 ---

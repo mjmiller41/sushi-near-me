@@ -8,135 +8,135 @@ cityName: Reno
 place_id: ChIJ7Sn_FR9HmYARbg3tMLMFQIg
 photos:
   - name: >-
-      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcLBjEF96hu-KuzDDlFrGNpdod76ATOYCr2zmObLmRGGUDCnmK-o0bdR2alI2xnMzTbUbQxthWeJ28tq5fxAgde69VZEve5wrvk_RctnyD5Vu-w0XycJwoGSwNpuZCL62rW0abTDQ-vF8n405UZFq3crXF5WelnWgAHnLKhOGcrVHMg-ZxiqmyAJlvsM2JcypnOqv0gb-1wjZnB6m_M8PRdldpiQ3Hp77PbUtp2V62XZ0g_vVfDQy9mQ-4pApVNhmRmRTHxmyfDNqGWUliL2e5fTP4xW-Hw7-U2YHdtUXQG67w
-    widthPx: 4800
-    heightPx: 3200
+      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcL-fS-w_GVeltNNeSDYMZlciySlQPEnAiOpZqU4kdouQyOT4UOa_Hz8qMsse6mq2M4scDQz7GOJNUO2fX4G8l9I58de88vqI6Lw6P-UyjMT_kG0sedmMbui_LxPqwNX_ywu9BMBgHlG9wSPt_Vpe7-Ye85RZD7xr21h5e3FpzCS9UEJNDu22kScFmatO-q0MhGy56trZi2x6t8e67KtiffTlgLhq-eI66cysgSNSN1dY9SECf68-v0NyTickUrsCRqyk21nLZoNbZiZ-Pa5H26EECmthHy052biNtrQcnkJrw
+    widthPx: 3500
+    heightPx: 2329
     authorAttributions:
       - displayName: Itzavy Sushi
         uri: https://maps.google.com/maps/contrib/109576593769742832075
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJ3On_qBdnPREEtfvLHp-fr9GqP1aYSMP3QSb4nTeozOq3ewQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWw9Kp1P-xmt5KiECUlQAZbRVn3kounT8drWZ-xclvx9Daw1aI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP05LRajDihfEkhhrZ2jeLMjrGEv74eMKFfuU3b&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPpfHnPYI8N128N3o-YGhGY8fZB6EbDn-2p0bK4&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP05LRajDihfEkhhrZ2jeLMjrGEv74eMKFfuU3b!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPpfHnPYI8N128N3o-YGhGY8fZB6EbDn-2p0bK4!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
   - name: >-
-      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcJpK3ePvkNSKyQcyQ6dkl82wd_Ab8B9_Le8iU4KZLrmaKAGGrPL4uaJr8Yi6hbhT1nWtKyNAEc9iJ2DvCkTXYgLHa8Kj6IAJdAuAUsFLMVhF81cq5CNWCpqJ2UZDwvpzENDiqYNz8B9KeD4gCdHshThCgbysdA2Ze07fJG-V_09bFjymbCnICmLFVR9Z4IL1IagOVaJ-NyOwHqMnsQ80aD8tD8bzE5yoCUtIdBDi7zMTpqHaB3BbGIwoCO3m8xc0iBZZLm1-FjZZC04aiGWePcWk8fqCCNyGa8E-HB8Lhz26SivcLHqOyAMiscn-5m0mI0Z1KD-IlQVqwyj8oUsWwQZIUQTqKtyejqUYgx76r1fFAYc5O11AuRM6frtFL5CRUSE2RQKeB3Njs6YgbNlmiFkzQEYFy6HhzgDgMp7qGJF2g
-    widthPx: 2161
-    heightPx: 3811
+      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcLghVQMnn2T4mL1M_e1MaWEgVIj15mJY4-g6yebg0f4bnfRV-L_1rdn_hr-xNDtVeqzOgMdZrJ1auKDr_e7L1CdHNuVPGpEMCv4Y6C6KaDZRlvlrt3UchGPnHAgysrucvwS4vNaFr7z1tlGbQTRTuxE4ZBQ3uVr1mXZWCv1-5EtawRNlu3NGjzAYu_VNcWfaaHJXijeyRRgSJZOPjVMpDNwkAjSWN1HXAmC9vertlsnyzp6xf3Ld4iHHAmTkkCexaWOIaw9hWz5Gvah1RXAh6SWf6suYug4gCNi2RHA0KxOeg
+    widthPx: 3500
+    heightPx: 2329
     authorAttributions:
-      - displayName: Jennifer Dolder
-        uri: https://maps.google.com/maps/contrib/104287407598908205446
+      - displayName: Itzavy Sushi
+        uri: https://maps.google.com/maps/contrib/109576593769742832075
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVZcgVat0vvK8zDVjebp8A2AZhY4NmszN6jjLmNU6_f2ekuGy-w=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWw9Kp1P-xmt5KiECUlQAZbRVn3kounT8drWZ-xclvx9Daw1aI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICr_pSdYQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOeKrJ8zzI6bgsIKHb3mVpf25hGsSUXKpK_bsuP&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr_pSdYQ!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOeKrJ8zzI6bgsIKHb3mVpf25hGsSUXKpK_bsuP!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
   - name: >-
-      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcKSlCzs4tDxZiyFWRymwqmhB8Anxwtt7kBpHOJem5BikdSWzW3rFZ-21nXPpUGJMIeO4YlGsbZ0fokegqjgyTFqnDafruZA1d-aI0gpQzWHlGhzg59jZQkPVC8dwkJAXIW8J4y1bISA54_ZMIc1a_3_Ls6J5QX2eCHOADhTWkZuO5p9DIuD9YqDJLS01-hjEijO63kvZjPNiA6USpfYnyRwFFRm8LJaI5ZMrjG1Utsmnwn9BwsKp_W13HsqOw9fZKXNpXNMM3sKvYxOOLV2hEiZrDgaNeubVvuVT7SRhMonW0WVUmT2UScL53KypgPkNs2tdMzaqkKJrwFJaQzL9bl4CPoB6ftANqvg-K03qQKD8o6IG3EQYfM4UMSo25d5FvXwErn2_IDba9nMJ1JpL7LsIxGiyL3SpyqnYAbr8u1-sq_2
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcJ67PDjR9yMoTG_gqhIj8b96-0w2-1H6iLH4l1QG-WqE2WqstxBbnnxqkm2uQbRhG0dKUjgegU7iqUKJDXuRrdu-eHwVSFZnjMM-3BLKpjgQv4DSOTn-EuqN20ImKJl4i9gtZ8N2AWLgcrUOF3nmB8p6VTjjWY_V8JGX1zrWksgQqINqg8fsIJfTmAFU3X3wc73E3s4aAdvd7_2FbEOtLd2muWFHAEIvQBIwXZytTBPeeZHIFTo0Og6QJmtDuyMhLZJWD8_wou0uDYonLxIf3AaRbBsq9-Y_57ye8FtBubcSg
+    widthPx: 3500
+    heightPx: 2329
     authorAttributions:
-      - displayName: Brandon Bowman
-        uri: https://maps.google.com/maps/contrib/100580755234262329673
+      - displayName: Itzavy Sushi
+        uri: https://maps.google.com/maps/contrib/109576593769742832075
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVnpGxp4cDXUlQ4QuWfamHBUeWynyYjFVauPrL9v8y8cAk7Stfk=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWw9Kp1P-xmt5KiECUlQAZbRVn3kounT8drWZ-xclvx9Daw1aI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzoMWG0gE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNhoi24Mbd-O9j9Bbe_0IY5VaVyS3WXqr7yZV_s&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzoMWG0gE!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNhoi24Mbd-O9j9Bbe_0IY5VaVyS3WXqr7yZV_s!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
   - name: >-
-      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcLcxFxMjhQQReUzSDIRgdVA0CJFrVQRfuUMHjYxALHEDw5OP8Thl5VyAuLunpP5WVfHOXZlDzz1C5cnprCmUp_YhYvCSNeN0vNB3BLgUKnoz7Y8TX4rgSg2cE_4oa9UDQx23NlS9bRlapUYfmGdxqn5qG_NW-_YFxyLtPkKzMU6M1WBOhp71J_qcqlfIxVFNUtpgO3vrtqSNDn_xzlel9EkfvKpUwqBiCxeoxFzISxaqKPnuQyJ210BZ9SdiPHrUMbFLQ-oC5akYEWNCnIVifpejUgk7lee0lNpSow6-Awki6PxKPkJX-CX59OJLEtko8Eh4PLubCB0IP42GfeWf6GkIEfotaixeCAOK_FRkSjLaAu78ASvTPAlG4jJ4QMaULVJ18qsC9SBA_8XWhG1ipko5Kagbt2rcx6gpEl3Gmw
-    widthPx: 4080
-    heightPx: 3072
+      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcJ0SWRy3p3LEcKJSO3Z37ZTTSWpbY_KyEJcT4s2DdfT_gSbcsszP_-2NWNsbuy49iknw-HovHfJklUbqaEKlyTWFWh_b1BMrSJRcT7ZimfDgJ-dzvSqXOsNF8o9EUTTltYVdQTPLOLeJJL94kdJos2kIy0WbH984JNtaw4g4PLRgPK_Erpo2DOhwkpocOPpl24vJpS5eNpfhpk-DhDVhdvAWfIjUBet74-ljEA4E70DfxsuLujhybVfVlLTPAN4yHyd0u2E7nPTxHww2lvlomgJJv8-XxcOwEHlBShUhM9wFw
+    widthPx: 3500
+    heightPx: 2329
     authorAttributions:
-      - displayName: Rochelle Mejia
-        uri: https://maps.google.com/maps/contrib/111170396807234053868
+      - displayName: Itzavy Sushi
+        uri: https://maps.google.com/maps/contrib/109576593769742832075
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKjFZkedHoaYGc4rPZtaRx55HzNQ__mC4Ayba6dLnpA5jPJ8g=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWw9Kp1P-xmt5KiECUlQAZbRVn3kounT8drWZ-xclvx9Daw1aI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPtMzncg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNR5Qi-GuQNL_aL7phQjSx0mZocEjs8PoQr_mZQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPtMzncg!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNR5Qi-GuQNL_aL7phQjSx0mZocEjs8PoQr_mZQ!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
   - name: >-
-      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcJUCjZl6X1Mxmi6HIOBn4AC63eT6Ze60IejwOVPDIEnBi342zU4uz3G8B0F5qSW0HDXi2q_nbMRhE9IvJ5OsUWhPoADJA0eGh_8UB2xEmZBQxMmbIpTQIRC_GobWoYnd37WO6702Uog7YkOKPZipNTqQNy-pTrqDoZEf3GYB3pAxekC3XYo_k_lzevfHBqvyaePVgzxdS1_rnqck6j8LSi21Yx8_rmqcPRj4Nw1_n5CSQ25KJFkONNw4p2wV0PTm5tR32Xe1ROWvE8KD75z201qP1a3G0uy8C0stpMEVrB85SKBm45y9Hr5Jq14eKT0RM8dYk5eJuvqXs-FZlTs1CmuldNxq4UDk8LsKBRTl8DQ8lNVXNjIoGSrv_YYI7VMle7K0xwZ3I-Ew8QBqxjU7DV4haI044c_IK74LTS0-F-y_Q
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcKal2TiL4894W_TgNbmowvjZYs-O99wdABY6OIgwr2Zu7B66Zl18RL-SiKBVF-MBTsVOvIT_A788CNMZ221apIugIakmBa7CGMxEfvReY1Wwj9SCZzwS5BbrMffMUc1v7QNLtLmp42UmJ533gj4UzIstxDPAfZ4Obt5NdLKwso8oAFqBqmd_XsV3EMa_zrx3JO3fn2up4pfOnTxyZvbLyKyLvgc8vSlw5GThpcVARAS9QRu2osUDQkXkWsJZpCq6ePSK5Sa1fqyPhTTCYlz0UGtRY6gm-KbAa91ULDAlMuKNw
+    widthPx: 3500
+    heightPx: 2329
     authorAttributions:
-      - displayName: Brandon Bowman
-        uri: https://maps.google.com/maps/contrib/100580755234262329673
+      - displayName: Itzavy Sushi
+        uri: https://maps.google.com/maps/contrib/109576593769742832075
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVnpGxp4cDXUlQ4QuWfamHBUeWynyYjFVauPrL9v8y8cAk7Stfk=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWw9Kp1P-xmt5KiECUlQAZbRVn3kounT8drWZ-xclvx9Daw1aI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzoMWGMg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMPldTZ6I0q7Gxl2tTVqdu9r_N186mTibWLV9At&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzoMWGMg!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMPldTZ6I0q7Gxl2tTVqdu9r_N186mTibWLV9At!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
   - name: >-
-      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcJQgAwdrITk-bRIAU6by1yyOr4FI-kpvfY0eXCBGPZVMdhvYMM0TYVBjq126EuLsjXhcByW-1mZvBSd5vxgoR_EtoPQtnxBMdArEHQwWe5VyAJwpKMERljMB00krM3sOIwf8G17YV7HYgcA2ECF89Wk7y77ZaxlaMQ1RASOSo-KY45LCL-Muvqy94NziINQg7sMwteihLXtk1Jn4fZw_wKC1SP1Qbc-HAC_Du3xoP6BrZ9cYykiUiKUNDvogvFJpBs6_1q-oENbOCy02StVQZqbkRCjUz6SQTCmRfRNWcpmFcy_f8kBXYc1hQYmUPWKJciOb60nvB-KjSGTr6DuMSwF9LWbmNVgDmZ4Y_2SBSx4OS0BqM2mxaP5vvJfMz-8t5-esrXdPxcls712wJbngiRfC3O782vzhMX2Oa9j9MKpTA
-    widthPx: 4080
-    heightPx: 3072
+      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcLTaVYiHF_HI_NMSC5HTP0qWMhkYTF9JCeHth9myaoEEOCTlq4tDV6-Q6OKVRypn85_Ez7SPGxJ5AV4WjeIpjRAH0stHsz6OfkGdN5VyNJI6-hQsEklC6bV9-dIZK62lGJUp1aTOzIW56t1QtWnTBRICOBoLsKl3G5hQaOIPUT-30NHaFjJesHvQvrIW66WHPMXf50HK6yU0JXL2P7qFCF38wiYlF0DhtsBWGTf7flVaZY4c_CvQWhi7OYUcKIkKHpfdqH1taivZhX2j89mtt9j43stXluyBdW08ymZv0vM6g
+    widthPx: 3500
+    heightPx: 2329
     authorAttributions:
-      - displayName: Jiyoung Cielo Lee
-        uri: https://maps.google.com/maps/contrib/101887318908360588755
+      - displayName: Itzavy Sushi
+        uri: https://maps.google.com/maps/contrib/109576593769742832075
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV-hWHN3KsUZ2uafABTlzN5CkYEs25n8V6JWx6z5tfkRrkiONkH=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWw9Kp1P-xmt5KiECUlQAZbRVn3kounT8drWZ-xclvx9Daw1aI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ_OntSQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipML-OUqdPH0NpEZcYnzG7DX5izBIBHQxLOMojIA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ_OntSQ!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipML-OUqdPH0NpEZcYnzG7DX5izBIBHQxLOMojIA!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
   - name: >-
-      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcKla8FRUd4LX6cfRiq-wtpzgLRc0Jsn_wsK6yWHU_Up3zPc1_MXgw7uJDFhHqW3FjFiaigp-ExlLY7N9tqLfWL947Ld-jWxtEyXyk9u0MVRgsjIYjT-OAy2oqkyYoZFYKnGZCvPPkZHgQpfOLgfufYvyDNXgyZ64e7PjCBUL7JqOUovR5eQ1UVZGjFaVgNRIUyJLvSZfhV5CQmWqXOX0O98QQYKc1iAQfe1Z-CVtIsFT63ACl1KvC-KRPJcGrjcKoVCeZzvqmzJZlCbjc8BpeMKDLa1_x0d5nm0ip6YYR6WM0DhNU0ALeGaoIqkOkKfPNnigcA1ee-4xsKtXXkOVIWtQC5DB8nL_A0SyXo8vle5nrzTLQUv0t2_Ty5hX-jhsCpjlERN3BHoL8_lRV9rD0ynYkpJJsFak6F87CTSsMznfafz
-    widthPx: 2776
-    heightPx: 3029
+      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcKXpuaXiDKDCWhdo14JiAur87WjQhUzWFRrcESfuAq-d_7JpVuqcrJQwEjUwpNcpJg9YulmwprBU1gZcn--FUhiU6CHCK4wCDycizwu97YzV3MCxKD0ygafUiG8mHDhQu2-Cl4IBepVNIiGZK6pS7ct__-T9c_K9tL0abpsEOnjrPW1d-4IlNMeL8mouqGRH9fo_p-KkpeM8h6WjsJ3oStfq5Jrn3JkEsImy1mLU5Rf7n7leWTZZtJ5esp6VzB5Gf13KhvWiE_9ugB99hQwmecyyauyH0LDw3jJC72pu03rXA
+    widthPx: 3500
+    heightPx: 2329
     authorAttributions:
-      - displayName: Jennifer Dolder
-        uri: https://maps.google.com/maps/contrib/104287407598908205446
+      - displayName: Itzavy Sushi
+        uri: https://maps.google.com/maps/contrib/109576593769742832075
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVZcgVat0vvK8zDVjebp8A2AZhY4NmszN6jjLmNU6_f2ekuGy-w=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWw9Kp1P-xmt5KiECUlQAZbRVn3kounT8drWZ-xclvx9Daw1aI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICr_pSdkQE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO52XMkzhX115X1Y5caVJBNVx5hpapT8ePDrb0n&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr_pSdkQE!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO52XMkzhX115X1Y5caVJBNVx5hpapT8ePDrb0n!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
   - name: >-
-      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcKvbI-37LpMYoONcrzj5sEzrW1GbPeUNBlxaYM8V-VROC_nPMggng4TOcZs-TQol8R3UHl_ndBnuVfi18TQG6wOYVHX69hlcLVsSm7CvKOfJNy5N3rk3-VTVa1m-xWbJ1cfy0ojinTSObkPjCyvnvapSIJn0i3l8ahp1r3MB-2G2vTrtpPhHoAe2s1PKmwLocbLebpBsTCCbbciawqLTE3AW5aWgDRiwiNx8GmgoBKcYiueNcH2xeXxMJiSb2H_PcSBRovVYfgbMK8SP341PkRFb2b2D0D07E9jqzuj6A52zeNWwXwXfiG6CXbBvi3-S96N5LlWs6kMigYGAxH-v_Db3AU9WanpRTz3_egYoh3U25K8SJMb_BtrZDA6ZrSDCX_ortRRdNaw8-ksAaJoOtHbSfTZwYhYOrMMub71nH4
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcL-YweFshiQv6r_PQLNImoF9pPBi4EyuV38ojlGP5abQmK0xFlPG_C-vFFen0dpUwy5gxoohtq_r-FfjiIxPOaBWAHHNLjNWldzqic9PbX3vUbmUidAiWSpG_n7hQ0BatzEJ4Ho0jpd9L2c87Z2V64NpsUzzy9y-JjGFU1yHjbsKVZkXS_wacSi8dSarcR5P6nL08ruczoO4kwrNCyfw2oaLLpowFihEQNtmbqCIWfUqW81_SEO0B9olWi5Zu95DfW0x149MgZecmnnNO02i3ka_sAawOegAUP3W4K4HMsZDNpEjqMKCFIuv0elO9MKK-t7pNjQyLKbuC-zYDGsqo-9lktyb8u_KIm85bLMjRhUGnQGW-SKjUSfI2jqzgujy-bI0CNxNtIQv0lbPVI0hd4oOMu_7XU9KxsLexa1e58
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
-      - displayName: Maria
-        uri: https://maps.google.com/maps/contrib/116824556121354447966
+      - displayName: Danielle Miller
+        uri: https://maps.google.com/maps/contrib/117277384219275455788
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLJtStJxBj8iZb2O-qYMY1Qsi8XurrFEIHnNmz6DsBkUCB27bM=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocL4_xU8-dDhFp3BVFiwkViEKl1_20_tYCNw6iwoYJtQQiXwYw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICny5r-AQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI39XtbQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICny5r-AQ!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI39XtbQ!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
   - name: >-
-      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcIn4-MWuqnBIoifTE-DZsvizkYFU_oSOqQ1Jz7RVdkw1fzLSpflhoGaeRx68PF2p7jAMG9lgb5bcgZO_-V3KZlxvWPfjjFCaIKD-PKr958l0ZUB9i3WIdzgoIXih31_rSLObg448NDYH2dBtK2Z6_WHsLKlxm55hBhGExxBJHK9TmuAmyC0j2k_2L8DGrqQmXmbGY567xrONJNl93b_R3qmj7Mzk3NJpUto6uzPeLlYR9TjMVcXmjG9J6tsYno92YsUy4Wm8ut_0b5gEjipebqD0IrDLGNqIMfR-PBDsbD1Z-D8cB8KSxoWxHuIS6mN01JGoWoe6uEoGpZCU9OQliS_EiKxkDDBUViDgRMY1QsS1_1s43qLXj-I8eL0w3elLECFTbOojcyXiP6q2zxHChAepoCCIkF4VwtxD2VMw6ApljwM
-    widthPx: 3060
-    heightPx: 4080
+      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcK2DoHvuEScQtO-Dwsg_An74-IT2JA9y4SsVYgrBVoBmB9h4HMh1vT8Cp-ztIr0VI07x9g0satnEejY9KS5AAvE1kiKKjv5YY8ImiEzoK3tIvbal9MJ00tDhFE3XkfZOD7tGE5ug-R6dgDomeePolM0aXEz70Ha85xpY_w5-Ur9AfJlX1QSCIllus1Lc_Ob5muBcSIkkyVjFQ64VOaQHGexFJtqz6deTDUD4h8yExKgejWb_fKUq5xTxumx9ciWENDYs5kxdGiUNZ2FdMt9WcF6amsry5kStmvz6C_6g8CRMQ
+    widthPx: 3500
+    heightPx: 2329
     authorAttributions:
-      - displayName: wolfepack775
-        uri: https://maps.google.com/maps/contrib/116408327086848527981
+      - displayName: Itzavy Sushi
+        uri: https://maps.google.com/maps/contrib/109576593769742832075
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXU7eBb0eGytZQOA_e7j9YkfFx2j2H8RDe3fjoORj3BH_Ik2Y0=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWw9Kp1P-xmt5KiECUlQAZbRVn3kounT8drWZ-xclvx9Daw1aI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwxfr94wE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNKYiR0TSunqL6utkumeRGia-W8g9M253cVO8k7&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwxfr94wE!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNKYiR0TSunqL6utkumeRGia-W8g9M253cVO8k7!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
   - name: >-
-      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcJwvE0wVLgjiQvjlwhvtr8ZQ7z3ou-bLr_URhkmBQoo80TvPn19iF9DFi6pF8DOaivFvPnF1ZFvEpPnSkE71YQ7rk9HyyVF4iZxB2cHNypmeNU8SH3MYEEoeSAKCPZmxOFpF29Qf13c5MH3keTIhdmBWucOdy-aOoea6OD65QkhIhWPghw1_c7UjQVfBM6ZAlCO3GrpHv20jyXXQirAHZjHawmgK7vgN3XXsK3aXQIShz_qW1a8kQxokVJgZhjJKlltsmkg9oDqlpgiapJSEwN-sxm5B95SDyyhWVJ-eyQBPhBXW5tOuy25ZAFv_RXhjnJNi7dUeuGVpaONN2o0RRrJhi7L3AgvyD2CfRXW830k8AMB1Sob8ngDclg4ed3Gv6zkx1lxdMjlt4mwbNDuCDKHhHRb3IMVNNvsQsDecFDgtw
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJ7Sn_FR9HmYARbg3tMLMFQIg/photos/AeeoHcJcY-MZdQ096sCAuU-oLNzopv_mSnXN6rFwo1AKDtCl73E_SljDMOYwMoo06ZIRrJV2u0B8yB8Xl9wQKC7Igs7bAQBDrQgqcWFi5HxJs1kbBRf1joW7zlPFUpU-vgJ32BykpCtTtMnja4nOECizZAbxW4Ag-U-ueu8OVp4pL2lwZYBGF6wplRKw8Z9bz0-kfwS1fnopDDcQt3spzrBEBgIeNHWFjTFgZysvjm8eXHk4CepKfRfO18V1VWXSeSXazvb5xiLaUa3ln4bTejGhkHL3_orlNfeERFbWvp21_bzQPQ
+    widthPx: 3500
+    heightPx: 2329
     authorAttributions:
-      - displayName: Richard Pema
-        uri: https://maps.google.com/maps/contrib/109142235917913845030
+      - displayName: Itzavy Sushi
+        uri: https://maps.google.com/maps/contrib/109576593769742832075
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVIk3czce5IDgy22jO7nnGa1fkRXfOFVzuxmKYE9ofvWeWXexZq=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWw9Kp1P-xmt5KiECUlQAZbRVn3kounT8drWZ-xclvx9Daw1aI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_z5uuRQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOI1Ykdg51-ZMic9BUog8ljrrpsxGaSXK9RlQIO&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_z5uuRQ!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOI1Ykdg51-ZMic9BUog8ljrrpsxGaSXK9RlQIO!2e10!4m2!3m1!1s0x8099471f15ff29ed:0x884005b330ed0d6e
 address: 400 W 5th St UNIT 102, Reno, NV 89503, USA
 street: 400 W 5th St UNIT 102
 city: Reno
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Itzavy-Sushi
 
 ---

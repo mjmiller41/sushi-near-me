@@ -8,7 +8,7 @@ cityName: Campbell
 place_id: ChIJQQClBJ01joARdnzM_GshlkI
 photos:
   - name: >-
-      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AUy1YQ0vdEbgXMs8NrzIlLesF3l1stelEdSrm0H3jTvN5WhfeQFHDVwIUdZWD358KK4QjDQStXtx-Pt6rxVLR-vBwpmTNVveifKjhjDLm5QEN5dD3ty1_TdfrewhquIoBUwsWHoYCRcm4Ha0ScoaiLvfmntDJ6UcfIOl7tK-GjTAQ6ciTwacA5AcIsOz6_mUbTrsulISU57SmDgjFy5gT7i202JXwn7Un1hyyyaQL2VrUFPnMochoNnnYyWkJd-mzUZXHL3kGlI0F3_Fkm1VuAhJa1cTEWXWCTlLGD8GPRGDwD7bBBnGlO_0ytUTT4Dx6Bc136NB1FQIbr2s87OYmo-SD_fxHB7Xspg_exXT5SkV6GfVsH9L1vzYdPoIpQnlXPhB5QHT-XOZ5eEPwgXwYXxZJyEytDvRHF5HiEEFFEUojYRweA
+      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AeeoHcLP2ftTns8uJCSpNhfQDrGqTLbivV3Wx7JmzC0k788MxxPpwQJx7EDKMtvEkGYv1GAEJOz0DCWGi6tZcZ1KIuw7WJ1pybKTW7W_KLwze7xFKiU1zkWtZ3_2aMLnleR--FJl02rRZx1daJ6v9qjpi3h0pIiUDStCM1a8cfIq-ywaL6JIujy4PopPIWzh5YZRAMzxlPbqEf97XtgMhMlDrJhjtGEKHhUmP0om3Qbm9ekshu0ODH1OjzmMfl3W2QvVd1E7YBQgawIQzQ49bIU4t_IGuQ7Shc_2UIqf84a1pTXi-IVnsSE4m2Pc1eA4R_foxOHk1ITOkX6cKurJJfHpUIh6OeMxgRst0UbWB8mz8oZSqiHj2YvKh1vCke1N_pKJ1daRtpnF54xKw8pGF1vJtay9dcZVZVXmimKvO6NtEelrtQ
     widthPx: 1981
     heightPx: 1485
     authorAttributions:
@@ -21,46 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxs9ykDw!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
   - name: >-
-      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AUy1YQ1cQQ7ndH0GMu_Hy9z5LR39pNm2jO1pD-8qIcQue7-WIJpkfrKSrAU-5T9JFc90cHN1_1X9LkQ9F_crLrwCVD9gtwD1cTO4xdV_lan5PvxuV8voD1XTUW7DGdTtKfqEGDBUU1xxjpKcNO7ncCR2n069cVG3pfTxKmHZi-0fLpxqSXPSizkN3dPQBBVmX62JP5Fo3-U9_DxmCY9g2fIHsLUwBh9ftNP2xJ-9BdZDs42RRrFsc1750eGoXXF7tlPkWhmCYGyQ4UQTyy3phEAY0ZTGJ_wYrtjYY92Fv28qto4TXA
-    widthPx: 1279
-    heightPx: 1706
-    authorAttributions:
-      - displayName: Best Taste Chinese Restaurant
-        uri: https://maps.google.com/maps/contrib/101395883238608172478
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJag5jMdaixmfJInjCsAip0UY2M7ZGhJJl3D3bEUJc3f4PH_w=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMxmbLfKEn9U9N4WajReQVR_s_dNIEAdfxTiSzA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMxmbLfKEn9U9N4WajReQVR_s_dNIEAdfxTiSzA!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
-  - name: >-
-      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AUy1YQ1EidkswJb7bOlwNwJAYVEgXQ_yPMp_XZrqhiUfWpwo3D3cNPpz6yBTX9k-O1KGN4oee_ya86ir6S_G1MKDI_GqUwAcxnTfLjtP7Qhs44sc-srwdsJFSfpEFa0ztQLxYStWjpm1lmFcD2Dk5BETsV8Cj6OD6lltUkY_Y3TxWnVDzMr3MUamkG8Ce78y4wyWZiJp34aqROUljWpZ5kZxbBfaPNB-Bh-YL0TOcFH5XzucsjLC2nSHFNXkFwF2-D3XEeM_gK2Hy_xzikcFAWqAZLpAvjsKV0k5JL4P5tLGdRrw7Tif8BGkdsdBR6y91Azxak91VBhq86Mze5IXI2RBMRBHvoyP75dLxJFfftlm3v4n_sL62-Bn-HV3gz162gOotyHBKhCZeCHXzZOwyv-X2KZGOlVskibKKlH1uV4LASjLewDN
-    widthPx: 3840
-    heightPx: 2160
-    authorAttributions:
-      - displayName: Mir Ow
-        uri: https://maps.google.com/maps/contrib/100119366300503237230
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX2AfYbhgKJia69pUcXWK96ylcT2-We_F-klep8ulXR9XR7VX-OYg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICt4OvqoQE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICt4OvqoQE!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
-  - name: >-
-      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AUy1YQ0Pm1l_NZAHtn0hyO63qQdRm2ZKopgeL6NZKaumF9rR0EpCmkpSD4KRi8bYdmX_lJIt-63Z1E4AYUWThjVSbR61gT41LjE7N4OgLAHNwVnuPEpuo8Nu3ZkYNjsV8HJ_DV5R7beEhdyQYg4v-SO82OxmADPKJN9fb3kxMWcNbbfDuAEsYeQOiYwP7HHANsvJ4l2Kxu0rXdrnrKGPEuo85eC8RbPzjfZkZvRnIJfRiGVX5Bo3IpcsD5bhwynFiUggpcKn3npW2PKqW5oX3kTy_xlDETNuPPDwbBrjicjC-r_kWw
-    widthPx: 1279
-    heightPx: 1706
-    authorAttributions:
-      - displayName: Best Taste Chinese Restaurant
-        uri: https://maps.google.com/maps/contrib/101395883238608172478
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJag5jMdaixmfJInjCsAip0UY2M7ZGhJJl3D3bEUJc3f4PH_w=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP5fNtz510ORORBeIIFAyIoC_NJ4qf8umEFyJpK&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP5fNtz510ORORBeIIFAyIoC_NJ4qf8umEFyJpK!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
-  - name: >-
-      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AUy1YQ0y8Nn-xhKHejY_ZjxNzAAdgqxn_4eFjrz1IS77NfzOwM-R0aePWKddP2KIPFiQ1QO0c3w3ZiAZOoKLb7q2whUgTsbeUi1lj_M7zfFnuyUIFz7Gy3cPKR-x5IGdmHQAr_a3bM6hVyXaAqTZ7bCW-QjEAN4CdRcSeaPdO1ySV2NhfFMjxanC8rS5YzubG62ovM6JPV3gsTa6SQnYNvAYOxpt_LgXmuLK4GipSUYmJX5_kZngVWvoRJPlen-vQPDWMOaUAgFS4kTpZEv-HmCXAXa4xj0puvu4RIEOnldZf-6I-g
+      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AeeoHcJwd_Rl6NEDorEjPeWMB4iyUN1LudkvuBqNY7C2SxfH8rhxH9_6W2uVSuogsKhn-9XCrowawy-jXQzav0hWmRmLg7ojci7EeAYIvq_dFlR03sihPVfNuYyKOIlF0nEZW39Yo7MEFXBgmqkFMyDhs8NssWLETA96uER4QFYGcEvdldvAVXGjG3EJ083Z8ebS7pP_bfwFYmxOl6F5x399ZueXo4plChC9PeLtWH6ElCeEZ99ymVSvLoGbFlbRD9dQoddxgOWSZ1wkZf8YQviDUhk71HVl_-Coe4JN1cseVvo2VA
     widthPx: 1279
     heightPx: 1706
     authorAttributions:
@@ -73,20 +34,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO4W28uQD65zio0JMUo6N_v4q9ZKbmvqMvApSa9!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
   - name: >-
-      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AUy1YQ27uVWgDv5xIMnvo23B0eB4ndW4E7TbhsI-UkWEPkP6qTcDtL6uWCZ6WePC81lf8QO7POzol0CZkn768KEjP4SUBSpTlJX17e3iXLuO6Kl-NdzDxoCvkwLyjKhB9t2K0F6IIj4Qmhyize220GElWKKYZWVsXwUxrbzmX78YSHn5YAEiXPVdS5u4xIrroKjV6wBYxATUs4d97oMGreG9h0gz2JndSpEY-zArjh1KA8QQrOXvx6s9LJJ0_5YvzMmAzInqOHN86_zQe9G8nHdjtznaTcyzViyYDhUoWW-ns4ANuiMQQRoeMRnc4DO77Yuu8TyAQf7weEPHb8bS2mnPoVWrDlG9OKu7Eya1XK7qOOGavUMQHhLiNkRmvfV1Is0W1WAbgR8gVdBUAr5SBUvVoOYgioLQ_DQEpKXNlhZTj5o5zw
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AeeoHcKGOS7ct_NLKUj1zzDbjxmlzeMB7eGSTdlERpRUZoLOYn0zMdhfTsEgTaz4bLlQ8XoXFoaZTfrXINXXqaPZfNE0Xsl_ZnMX1CuGiPuEeLT_MrazMzYpw6vnXtd0EDlUqcFwwlasW6mqTHeoSAY1A1j2iy-D6eKbPo6D7-vynXHpoY489jVLnv2kw_mv8cm6vTH5muKGst__LbES3VAa7tznLuAKzppOS-JaYzmBOTP6lqPzMspvWELgT6z_zzZTgDf30K4MNnNZy6gSNA-flzxzGtBWtqO72Mo28-SHV8wtVL5w4iPJa5x9fm-8vll_sTTR4S5J901QHgKo0TKg1Hjvt_ueFXHCq-StasKb53EiqAc9vgQoX3yJHWW4D6-lDQ1sgNr-NT-RIHk8R5IJKmy7uRbsxWu28fagb2cib1gazQ
+    widthPx: 3840
+    heightPx: 2160
     authorAttributions:
-      - displayName: Ernesto Gomez
-        uri: https://maps.google.com/maps/contrib/107830122977709999223
+      - displayName: Mir Ow
+        uri: https://maps.google.com/maps/contrib/100119366300503237230
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVlVAJ79DqaRovguyrM539mj3TcTsLZC4trnHHmrSdDYm3v6dy6dg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX2AfYbhgKJia69pUcXWK96ylcT2-We_F-klep8ulXR9XR7VX-OYg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj27_7PQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICt4NvvNg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj27_7PQ!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICt4NvvNg!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
   - name: >-
-      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AUy1YQ2vFHbiUVtK5CnGIK9HIfblEqvFMqXSyPzTtaMYCte6UCazf7pCe_yqeDo0QPlpU4s_GzpHyLpw044E-ZUYsvGtDRlUE8MfnR2DRjmrcrLiTja7vsuIWH1Vbtx4NYdTITFGcblZKRs0H09F07iuB0WopOiU-tpM1RRzcbb2CvgRpOwudN_EqypqCc-2H3zM6OaFCjIAOy7KjnOg5FpgEq_0KFnc9zXJuv9r9gHj7j_ko0Uuqu9h3UX9dkuhOYSFXOEamzP9RVBSFGtagYm9dL314HuGfI3ibNmN1aUwz0xlrA
+      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AeeoHcL3bVHF5qTJPsV72Bv6EzSglTxyqZBIrIw2m9jgcb6R6WxZn2ihNuT0giKgCstEPAaBMteSyR8PkK8zCZNBMkgS3n-r4l4exeEWhhRUTNUdDvl22uuKv8_AIEXZmZkzZMy4lXPR9y7xp26GFFf8lEjWTmC0k4FEcuRfeZl5gWD4hOB1tYK_eMdNBjGJgtj9Q0DmIaSDCd1Caqw9Z9_WH6qn5vTTkQU3Ew54tiGiAWym8xLTEN97-LEX5F7j9l1fRr0-q3UaAs8FASI7g_0sPipCWj-JatBGr2uckthX3DFqTA
     widthPx: 1279
     heightPx: 1706
     authorAttributions:
@@ -99,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOyNGAJL8MfgBIqb-6qPX9gHqetZZcDHiNx4mV8!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
   - name: >-
-      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AUy1YQ3GdM7_fefCBmzOlllmwQm9WwVD8mGW_5hbtCUyghTUZI1_haGZPkHHc0X5q0AvoQg0iefLWybQSoOLJAsYnFPVWEh0chmj6hOpmK-r-wY85hnwQ54z2yocy9IlHlq9kI5ArEUcGYlcDpu1rUctf2b-ZlAMjdqfSxTTw40r9L8T3ICFZo7dv-a4_XHDEwfPVww3qBX9ue8wFFKrokQ4q5xpK0dwLEZyWKMNcYmc62UPdWSjnK5dmKkInRDbKAFpGN4PrSO2vU1pUtCl-jeTpD4oc7hJyiCcAyrXaW8ddGdXSg
+      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AeeoHcJy-cqfxG0E2SeIkQ3kXNG8HXpUaFimbmLBW7O-bH7OjqXxNnRNcTq8Nufye8edKPLvsnkmPg5YXj55pDTE3Pm-DnxpN8sTXbJWS61j3_yVNfVvsGll8vePL43LqIWmWb__4Q7WwBqeBOHCh1FP0hWJnGmV_zYpw1bx7LskKGz3FxgqZfXxDwMYECmh5kmd6P0NApEgptPbwLayGVYUbLLBE3b9EvXB-NjXbyEwapF9TVMTQMGTjlaMz-H-fvIVgVcPqo_sjC8iwdFd5L3lkvdUbwKCLVTcs1e3ri2x8Z49CQ
     widthPx: 719
     heightPx: 960
     authorAttributions:
@@ -108,24 +69,50 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocJag5jMdaixmfJInjCsAip0UY2M7ZGhJJl3D3bEUJc3f4PH_w=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM3rE5Pp38aVQFUS8KkIjMi5jLAObzgd-nqd56Z&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO-jHOCusnLm2LK_U55tfLLxAvCI_K93JcE-HBy&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM3rE5Pp38aVQFUS8KkIjMi5jLAObzgd-nqd56Z!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO-jHOCusnLm2LK_U55tfLLxAvCI_K93JcE-HBy!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
   - name: >-
-      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AUy1YQ1MXH9k5Zubp470iA-p9iEz1fR1NFOGJebZATS1nHWeOWO06OCix1pyUiBx8tzq1ONWvIFH5_UWoXbKTgdwBC82vQt6triOU-cGDWfXzu1knH9XFKYziggYB8uNolR_DeNg-4gFGdx9Yrag1OIFLViMtqsp2M-MAPj3xqDNhAnXiO7CKXhl9FbnId4S2aUAWv7VdciwkqOlxHPSU3m3Bxw0wVKoqKlAc2FqvLDEhtt8Hv_gQpaSKx_LpGmOfsazB1qurhtEXKcM8bbn4KCTNjvn-Q1fNVKX7egACg4pkIzwkriKcX9Fp1KNxplV3h4nMYi1GYJSgYJkikzM6gQEwga5WLPTV-b_ZNQ9wRYZTDg2C4XKLRAojpOJk8w-7iJ96wWO34knaEkSuVDyzxfxUCBJq6rAss73hfxsu4wlRkbROQ
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AeeoHcLYtPHIk-clVQPtNdWnydQx1hpqdiT4KHhhCqHUH8snUXqHulUcjtZ4Hbb_L96j5frVDKRQofS1R8OQDPxN3ce16TeSW4KXNWz06fxWPBKoMaHf61UQIL3f_EDFTcSLK_OaB8GZtx5qf80WnMkJfMfmH3FnMWajDrONemtthzGvMLjZOuhTz0IWK4fHM2Y4xn3M6ubLU3kNO6WX2AzXI1Sv-3GdXv7ncxIfiv4Cvr-3f3us-b_yqE6jpBtHUMk8vGQwJqLoBI4LeHoItumiNnOsz4ydDdLBuyvo1R7nUEvggXDnx6-dooYlGrhRA_SyxU-Urf-bta6VEWkqVPM4qkIGc2OvJGszjJ3MqJipoBLNnDVXtMGWQGBQPUSmlstC3ZwNWvexygGtnoJDD8_tSDuHtyvlrXar-Ly7W9OCT0kOuiNz
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: Ernesto Gomez
-        uri: https://maps.google.com/maps/contrib/107830122977709999223
+      - displayName: Mir Ow
+        uri: https://maps.google.com/maps/contrib/100119366300503237230
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVlVAJ79DqaRovguyrM539mj3TcTsLZC4trnHHmrSdDYm3v6dy6dg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX2AfYbhgKJia69pUcXWK96ylcT2-We_F-klep8ulXR9XR7VX-OYg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj27_7fQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDtzKL60AE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj27_7fQ!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDtzKL60AE!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
   - name: >-
-      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AUy1YQ0aMtsX0tuC2lxn5LMU2ayJjqNdhOcUjTuorxdtCjNhxh_RiKh0OPhDcpJPEX4IPYU1raS3CKM5FIgpF1eKLPhumJ8BSNucQTuj7PCJXYgZ2pBTRI70JVgVAu2uLhvHCbJtqvCygdVCZf6sJ_D9pmzM32K5lwcERbzd69WdIZoBpn4gPq2EhVBB5YEBkzj4_n1dfAZ3Oot4E5b_-4setq2ZUOafwP9ZDt3uRRu0vrOuvkQ-QZsRVivI65rjYet73RLOuiTmcqb21zwRfdtjl1KVZptVnrj9rE_FOw2D7UL5OnsfzB9QxnDitS80bNmKVq9-2oWMYfir79JXFB_do1Ydk8lfcrDrUd6BpiG-DEgw-KMVwsOV7JwwDkG7dZJx6R-CZkKLL1a6vMGN1SCuxLGw1zyOBxLttJ5VHqnxkT8
+      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AeeoHcJvWKMW9rF-vNF_XWGswVOkMLDhniaHLn3oNefuwS20Lh_EntJU2TodL4oH2Zjo6xgA7vsZ7Mx_XUo79YTqQ5sb-lIJdUqcb0qieASLITiIXH5CHffjH98ZL1iW2jkDyBjWaETGPR7-5sarFSmR4cve4CCR7iQgWDLXvdtAcy2ufWdpQL7OC2DD4OaW_06Uwpq_-t_awtQyfUQxU7jFGPIRzCKnGZO1j5s4vgFwOwtXnMyHkInP3meBlHziHsziKkvJdxZhBnbdvLXV1FtRRQIydSoAlcziMuyutbSP9BMu_f16sIAD2xn8OWtuIn2Bp-W0ryPJskI8jPoeoGqiPpdnZPxJTKDxm7WsnVwOdp2J7SBNzYkrYAOciRNnhd59yqswM-FcYbb7XQ93Y9X6sis2FZ712re5U0XntOfjJhdSmg
+    widthPx: 3024
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Lucy Lam
+        uri: https://maps.google.com/maps/contrib/100679239632175794318
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVjliEHrY54X2j_1oD59PerwBdVHuzwot5ZCCJc51xyzr1e_1Pj=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTzuH0bg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTzuH0bg!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
+  - name: >-
+      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AeeoHcIvxL-mGS-K05YIVtiSGot6ppvoD__QmDVbDFkU5BZLVAUN-1I6RgQWULVT6s-pl0CIzic8cOj8FH_dhbPXr8b423cdWwXp3X3i8ZtOw8f6OBi3WxffmohRqRgVh18cEyg0H85b3NnLIBLnpVCJA5HSHfJi3i4VBIUZOIbRxBb7PwCG4n9Vp4X1RH8pBFcinl8Y-hxUhX30vVQL8dVvX6YNEPgCdgOzekFpP6fvLsfA_GN_eFaD7nGvg08tkjhQhHggRn8NZDXpI1qiwGcPe30QD-whKCuEYm7bM5ndtie9jQ
+    widthPx: 719
+    heightPx: 960
+    authorAttributions:
+      - displayName: Best Taste Chinese Restaurant
+        uri: https://maps.google.com/maps/contrib/101395883238608172478
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJag5jMdaixmfJInjCsAip0UY2M7ZGhJJl3D3bEUJc3f4PH_w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNV4r-Og2YCHG4CRtyjz4d3PSwzmpndYizTert6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNV4r-Og2YCHG4CRtyjz4d3PSwzmpndYizTert6!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
+  - name: >-
+      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AeeoHcKDRTSDE8k9KbP-uqMnskLh0pQdKDT5g7fHukjuQ1FX2nPoQVp13ukuR_GO3YXkbvEKAIJc3pRrJRQ1Iy3MGkHViWo5AGHlaIVaa6hI6l3upJ2P40Q8gdZdILhVGhvQHTC5zk1pZF5nL84hPHymcElSQQMNypkVuVM4zRJ8y_7yKtpIeUL4pJXOKGnhf5FbQa_P4T3T-_Sy3daJPofUaWd2xrxUcNq0Ta-d0IYwnRQJXRJwrviTH1V4xyRjs-0phr1thw-nTD0iVSsA40vq9JphxG5BFOWNvuqgf6KZYq9Q4LykyK-Mp8hBrxd6FmRBF6HxF4pwROxD-VVsp_QEUSPuEwSi9VaHlD8C4KLq1dFFm9Ia6t9I5MC797Psemi2sSgDJZg3Zv8g0awGgyKbvIDBo0-xNDO0J3TtsiOgo5M
     widthPx: 1569
     heightPx: 1508
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdxOnPFQ&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdxOnPFQ!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
+  - name: >-
+      places/ChIJQQClBJ01joARdnzM_GshlkI/photos/AeeoHcJAZJpnQULchMsWaaKmCwI_opVejTSGZ3IfAtpIoUB9hvTLwKlv-JX0L1nZNLTz-7wDlu4clQdrJoadlAD-K0DQWcxp6CENjwt0dx5fF2lQSXojT6m24jEWmsPBoEpq44KgUYb9kUbQPT9KaAxY4C-JM6VPjpg_8SEFwMNbUun6NY6ArqFRXKo85P7XANQf7lw9q07aBbMePKXdthusLTxJjR1EPHJ3wMg-ghxo3-925fZ1lq8lwLs5S_KXQnzeQzT0yF9r_-REAXSwnu1SMo_44dQn4Tg_1--5r6gFCajjZw
+    widthPx: 719
+    heightPx: 960
+    authorAttributions:
+      - displayName: Best Taste Chinese Restaurant
+        uri: https://maps.google.com/maps/contrib/101395883238608172478
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJag5jMdaixmfJInjCsAip0UY2M7ZGhJJl3D3bEUJc3f4PH_w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM3rE5Pp38aVQFUS8KkIjMi5jLAObzgd-nqd56Z&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM3rE5Pp38aVQFUS8KkIjMi5jLAObzgd-nqd56Z!2e10!4m2!3m1!1s0x808e359d04a50041:0x4296216bfccc7c76
 address: 2360 S Bascom Ave, Campbell, CA 95008, USA
 street: 2360 S Bascom Ave
 city: Campbell
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Best-Taste-Chinese-Restaurant
 
 ---

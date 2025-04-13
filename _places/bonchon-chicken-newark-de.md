@@ -8,7 +8,7 @@ cityName: Newark
 place_id: ChIJTcj7Ggmrx4kR3BNM0OAstqc
 photos:
   - name: >-
-      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcLIAyz_ypi4sjPocx5edLbD7GvdGEtZWAWhpJo36er-YYCPztPHrdkNtg0CrAK6Na9Ec9nxdaNDr1lMQcbKDL552g8NdHjequh6u4Fbjf5K_JOJw37ZJV7p-8407t5KpyRrEJigKb3KT1QH-ZCaGTGnYDpHKjiKTvWmesxgjR3k7IyxxJoPs-CCZtobLzfychIhQArJM2ccFfOiFNtToVY6LML4IgA2uYbuUVRz0hwsN-oBLya5CidP8QF4VxXEX2EGowcSwZJmpcplm36ZzN5Llwz_q7C7wb72YaY1ATrxyZOaC1Axn95BJNDV8ZENQF0L2vOiGdVikMzHixI1t-icL_TCIUAGVp0yVHTrTPEn2tgRNQdsI4EMSxNEpNIz-xUZlk66SupzJ7Ou3VOYTFP2AMl-kCFmoPT5Ss1EXybcbz5O
+      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcI6SUaYULDexO0sRfExgwwqfHYKL5aI5RP6JDiHu8-OGPzc73-7SNrkuX2xgaCBdUZ6q9eMgRhYMDKB_L1hYmfR-jdfEI3IkPXN4a5ZksI1WZSvfxuNDJerF09X61gjO6Wj5cRqlBV8RoWmRbY_79jaoqxFze5zrd_rbofs6bZ0ajz81topOZ4VUw38RHwaL2A9yXyLhowUwu6ne-JVbepjFSI0IuvWetThtgEovh1GNNuXmAjHB_kDFTManaWF5D17u8zKEwl8LLj-SqypAu19mc7vZIU3O7_sKWByPQd5b0DH9CFY7uEz2-pVHRK0rx3zJCQmPFEtfO7Cslz8mmYD6jX9v0JnAue8_LwmNa9rPbtl78rtmH70R2mPoN-uR2DbjmiR6pfNFhgecBclmczZTwcYYVyIaJGknXUbeXxpyjwC
     widthPx: 4800
     heightPx: 3199
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_0-6G1gE!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
   - name: >-
-      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcK-8UHgGFReDHSQg5b9XfWYgA69kI_rEwrJbOzJ79t3IYYDeEiLq7E8mTPfFjNXhkBUiEC57YWIY1W1g0focYy_bh1U3g7_DVHQSFMLMOol-nSG5_LGzdh8wuVat2OoKMc5ViBL5h5NqagXYIYsxqPEAhwRa_cmiAsUGXrg4Qpk4xkLbzdqJIqms-M5ZTohBNuHVmxV9QuzqplSaYwkKyTOIBBxau_6gxfQQT5ZSL4vyL6T0UmIiyDFzvhgVWCtFwqokYoU-JsAa4eMFcVnb1kq2iwaJZ0WBjynWhmbm7ir_A
+      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcIC5LZ1pTY52Qq1a_t6Jm7uKOTAn2iJ4jAFNKJn2Zw710ecY04Q3ZFCbdppRMCpt1hnDYeSv7QMVMoA84E2JwJylqAbzJSxll5_dYPAbxC_Z1DW6HZbCkn7Hu2ILHIqWUhARXKH3z6y-s67gfHzFqXlJ3960zmRwYbEll71kNNm8g1c24rW4icba7AerBqhMI9Y1UgSt6NHQXcKnHyW3IdakXSLngASJFMGzoVO7efbPalaiVsc-j8spnuZNZUCTa8jGbcjYDHY8qBBXJpAiY1KE9gXAi5XQQ1vdu46mks5PA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMJ96ovZMGMNx7ox2sT8aJBL3IfJ1-y2QZ6GgwO!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
   - name: >-
-      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcL3MSG9glZFj6_gce7J6N4lxCP8TIe5sankln8SMwR5MT48pQ7JGJvV-TifZUBC-VSkf5O-Hg_MXnW0JQbKo0YHar-fn7IWj6JvBmxGoKF6fFu1WjbdG0bY8oBAKGcciWRO6BtxeFlEpmq6YFqQzOvg_ucWMj3H2zj1qe2QT5xongk_GL2SEO0t9Qld4Rv9wzto6iwRKLVRLUjsabZVMNayRpirDFOLTCOfe1dutTwqh2bha2oOYoYsbJY8uQXKFgETmk6XqYkLuVbSvEwrAYnqPsuqPAOcMKFPkXFQpiu7vQ
+      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcKl-3EbJ5kaVMEJxFuhL4joDzinD_lL4Fim1yOYtx3sa30-MQNrrsxl0vBxhuht6bTKDR8Iu43BIuTOLWNVsUXlmFUXaYtwGWApvG3jOfJoYisDohNUNT2MxrHyhExKkD3m_yJwmsqa4ADa-k2IMld1r2VY_YcNb5d8n9Fj4-0Jjij6dhklwiEDmr_yFx2ccmst6i9daZ3i0Zl276vOJ7B6_YrIHU_p55QjeqUVRrOSawJqCZI9npcQf9khwKmSQLXex8hUqoWXZfK160xT1rIjGlzntxOAXy98DQnWvTbQyw
     widthPx: 1232
     heightPx: 693
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNs4Q0KiglrFkeeC-9jTDSkD7-NEKljIFJujOqN!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
   - name: >-
-      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcKSl1kj4S35uSTcfgZCn6S-RlkFRozV0fq04Mh1yT_1WARHC1dz9sEjup6XumO2UaeqJHk7iCqdky-MzcO-3O02SDlmZiAg4U2nrQY9BQwTyi3lu_QQWycNBeGKG9p_-f2r5ofQNp9MUdgILEV8C_PAmPcyWF5fGCTX0ARy0NOBRR832egJMCK9ubsS52W4VctXMs_arvu75FRlfP-gmWkh2xASLL91d_3_Ucma5XfniiGWiMA2diQOSjdK-Re-zIjuug5QQ4pBmxl2GMH1AGbYGFxdKx5TIWbh4y0uGUY7Rg
+      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcJ5kGlk4Ie0F1g5nRoL_wDeOrYKNZP-MUyJBCdGw_H1ah2UQcSH6icBKySIEyScXk3OjVhFYrUNNPAZKTior-sxRA2RfPz4uKFVGBApVR5ts0_pQd91swMY3wEtYLF7IdroXCQ50mSLIpHofh6AjMToMySL5f3VWJYBagro6MXDOFq2H03pRQHa_A3RpNAKl5iSs7_E9ysMySuE_uLvc1yigvGrMRZpBHFi_jt9FlIqqRBVMdRg2T9YpufGCbhY4nyqCMSDnRJOCBW5PL3_mMLHt1IhEH-loZyDMA4_VYGgYQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -60,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPZo72UA1fLCwxQiVVjrXpwbsGBC55tc4JYr_ku!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
   - name: >-
-      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcIm_f6UZAcdmkdBcru4ok2V98WiVNgP84l1b0aeimtP6NYtEUc0IC1lkyoxZtHMcq7fCcgDgETIvm0zeRoXgtQVdyxxfVeGrw-qfR4P82a5iGUDuMIcJW6mLVDa5y8qxDuYyqID2wuGjsAAOrm7x1-lcm5pT0d_VuINCUoRBsEMjxWwjIedhhAwb_YIa5Is66FdlgHYmL8-i5MSbtnqi1a13trQiDEre7UPzXgnbQSUKH2EMybIJ-SVSuuUR_AfqZ3UsCHiiziBNC-R3_9y1C0mt6KZ8wvVQ3CnyNA3yWffBg
+      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcIg6wagr5D-k969axVS3efx52MUdxKdVQ4w8Ii8Kpk9lbafB0dZ6ZvjtQMJ-rLZKTu22QOQRlbsYGXNf39cetLMdXx_VGsgSpJLLRdc0tctNeyuSicEeYpvxwZMsRI9MWga71u1mlyBxIcwXHJlpeynYvvvIUsG4JJtECyGkbmOSNPW0Lr11QbYNPh8QV9Nu0lPNBlcOQibqxcWFq7eMgFKxBH2a9VvjzCY5bwTYm7ve5YBm2Saxr0mwvAv1deYcSAMmrtq9gT3oCO80VubpKR8HqZHqpEbAkO1AsWbHy_EaQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -69,11 +69,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWjT8UDVsHenK_dMMtNdfloVhvOgtsw6cyeHHD4YW4kOvBW558Y=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO5Z20OsNYOnJ793LJxgEwg30NjbjvNqesr2uXW&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPO9dPx9RV2b2uBT3344xtVE3Wct_QuuT9Jh1tY&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO5Z20OsNYOnJ793LJxgEwg30NjbjvNqesr2uXW!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPO9dPx9RV2b2uBT3344xtVE3Wct_QuuT9Jh1tY!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
   - name: >-
-      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcJLGdRA2aiYecHrofxhgb0TVTL4eU7ZZbLG9q00XT_kAuM3u91H1EptCLekNezSkiktHVqeQK8Czi1WTgvgpmDn_gCfIg6TckHjDNZc1JqQbOSUmM7EEdlmY-6d7CLs9Ce5s-Cq-dvxV1kKYDwwa7Kl3sojpxA-6DH37FdU8WYHdgDfRoBSMfjvrX-CxBNxfJVnbCpaHIpz6AFPugv2HlEGxEsi0uH_y4eOsxm0LlO-jkhF39OnQzZqN9awCyIXaYWSnFfVwZ51QYzg41WxsGpvAv01qcCA_tRamnxJdL6v1Q
+      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcIpLYQJllMXcE0cBm4ZQjjP55r04T6ScNriDogr0GjESaii7Z4H3PYjiygPkhgMoEKdlA82yqztBCqC-hxzDfBOTdfn93Izv2NiK2A_mi8BzJ09TU6F8d91zQicr9wfwyqtgm8-HHub6c_1JnuoNEWr91CjpuZGQrekv_efXXB-2qU0FwkmObDqAixc6NncE_-VBOBPuGhHwHGxCJpnyAFmyFFTJ3xXLQbXO_q4Rrv8uLDcUp-NHFpK1b7cOa_koiQUWQK_jCmhuKdiRWXP0Pdsu8pa8O4F4kOxgcYyBfWd4w
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -86,7 +86,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5Up59npifKQHH22j9T0M0Lyk_raBDlozVK25B!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
   - name: >-
-      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcKZBhgActtJ3-4gX_6Dj9DpmQ1gQhiJwsS7SrsJCGSZt8J8PGcqa5NFRKkvgyVdhWQjXP3-ZQH-C-icTwkTIq83xi-VJZb8iI-K3YSYah90AT6b5vOTNJ7mnR2tjyGcpfCn3CtlTvkrCySkg0prO5AEkDQhXZohgU9g7O77ddGQEW3ilP4AypJkPUyjsTpX654mLGAHN_f2EQ1zsOoeYCL0N3V7QtQk9dp7eHtEl_tJKdMHv7yVrPYAJ6Nd15rTaPRm_g7jyCM5EpUaCIG5FcXxZH9EExemegaBhCzErZxHOg
+      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcJIXwX4OanW6cF2lNTeEfGBqsVIwqVBw-HMJsCzBhk12Zw8bPp8a8wSfqMD6-LvSykEhl4qMwbI8fYwvjiFcpOw5hU1bqf7VZuuA_UpB0-gwWgZGJs60mZG59T2_xphVe5dx_hIUsVc-BlaZCfcm7_NgkMth2I46dVdn--jjd4urNKVNcp3g3-lRoaWkEoloSFrHy2_NKIWNCMXFqArthTR95ix6CURucl0vp77UD9m56KWQWsSybKhebbY4OueuzPEOf4drLNppONma63BOmTC33N4dEDoLEU8GCzvyUkrLQ
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Bonchon Newark, College Park
+        uri: https://maps.google.com/maps/contrib/106478784014990446139
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWjT8UDVsHenK_dMMtNdfloVhvOgtsw6cyeHHD4YW4kOvBW558Y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNr11VOhi82-6tfDhgyLup6O1u-vMP3zQ26u4HU&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNr11VOhi82-6tfDhgyLup6O1u-vMP3zQ26u4HU!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
+  - name: >-
+      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcJjhfbmHA20UrTP6EGzOJGT4Wdxq8frUfbFFbU0BoAtcp_zxdZXqEyFVbzB6mlZrO0J-H8oCtVsLnvRjVxQksF8lfVhovilsRs_imp_7I0ZYHKuMRNlzj-kNl2KDNdVHsSA5pHukPfZqHXQ5FnY98IOtrbIaoFhZDVRst0D7SOtIhdRIJd-EGXXwYBB-T99vIwFI3dSELp1499q1GAWfe7jZ_vRAJ8SzSHhSyT_XrCx8PuQ2KxbGxRHbQdrH65BFe4nr6oYiox8hhjANIomtdpoOgWYuEMmPX1R3EaOcHo3TQ
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Bonchon Newark, College Park
+        uri: https://maps.google.com/maps/contrib/106478784014990446139
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWjT8UDVsHenK_dMMtNdfloVhvOgtsw6cyeHHD4YW4kOvBW558Y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOSQIgNm_ZLl1GmIcRCxMp5we7qDloxZwUyxOWX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOSQIgNm_ZLl1GmIcRCxMp5we7qDloxZwUyxOWX!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
+  - name: >-
+      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcJgoYEu3EtZErJz4EHwYrAwZxBWF44qDo7rh3lkt98GU9f48NYwsNSXDssQ9wr6HKU-UY1MQouVF-wf7_DUiUb-yybXXCQRdcRvbzCzbKxNrV4P8c7-WRBUWzvXY3WxqCq1-2lNaaR534yBUrmpWrK9wC3JHnJnYp5xaagmJ_I9Pf1BwGRn1c8PqrHyP86dFdughlA5G1GY_RyB7QeR2Sm4WHPPbxOZ0RZQpOlwubW0RKFAQJkAxKqcT3Lws__A2s2hvB8Ky2XhjS6_3BCcX5YIVEMynA74RWaN__BUFW6ikw
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -99,7 +125,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNL2Ptb0GKZRCWX8QmprwMXEYZguINbMeNNJwIA!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
   - name: >-
-      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcKrjbEPcV8d0wD3uHv-yOjeQGp_5mZlfBFEUt7EGgYf5hclRxrY_MYepyZ5IKKQm3nWnm_WGeTJ3SOdvf5mt6OryxwXnLJ_Lmxd2N2v7gNjevTXHYt2a-G6Bv2I663ntzTSAQSaEs53-1Bzuu9zxMKwkEK3zigzrUITWPxAUxuXcYxf7N2qwu4wVxG5DTRhce2Gb3OpHYIflHi4CuF2tTZTqyz0lsGErJ1Aw61b9jQjYLV2wbBdgyXv_uSnFfk03Ya8Ta5rYHmIGq3-FnkGa00ATlkZg0lhUejGnTjnclfIiA
+      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcKA3xqMl8SElEZgthpxgCQR6IW0varbqzOUDLlOaDVCYy7vnElxi7H81crzLG5qYE1wbuX4u90lqw6ADicLNkAQ8uip3w4RoR2sH_gkf8C6LkkEgKmEVgZ1jU9kzQsUlZJx0rwT8_LcXFmmjEIWp6NXW8Pn3jJ8rNUI4ui6iABNysg07-w8i5ntN5IrQLC_bK1X2VQfun9YBTyex66ztlq2KlkgGpx2ZQii9S-96wm8WSpwKJzDrQSVIXfb-xdPxS9x7JK1I0O4yX3xb32aLbKYvPwcv3Zs7qF2gko56JNX2Q
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -108,35 +134,9 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWjT8UDVsHenK_dMMtNdfloVhvOgtsw6cyeHHD4YW4kOvBW558Y=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM673jQxZTlVIKLN6GapIf-S1ASv12ti-q4UUed&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP1blDfBBmeZhldmPTVCibDQGHsXDUbwhUP_Uen&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM673jQxZTlVIKLN6GapIf-S1ASv12ti-q4UUed!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
-  - name: >-
-      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcIz5FV2dHeIEMBQklgYtGLOnaSP8HlXQ035GW_3PpAz5iMAtpks0zmUaK3ZZFbucnlCUmqiFAKIoxY-cJOeIwbIBPa4MQ4l_pFXDBTzq6XCsP11gzj6P2IOWXhGrXBCKMjNlfEfrJZ2lMt9S9DOgScgJwGoUoPOpK4RqWZBX1IMQoplYg6_PDR2J8mhHJNrofTxVGB2_3p0I4w0HkZUCaDlR4U0F-gZYNwK_-7BWOrDT0qWPvXKhOQB-gd6JX3Crrjou5NqRY2_GoFkWE-VN19_xRgmofXruVdP9V28VV0oSQ
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon Newark, College Park
-        uri: https://maps.google.com/maps/contrib/106478784014990446139
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWjT8UDVsHenK_dMMtNdfloVhvOgtsw6cyeHHD4YW4kOvBW558Y=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipObohAxMkAWuG4GWz2Lqc9Nvnv4G6swqvHxUwDM&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipObohAxMkAWuG4GWz2Lqc9Nvnv4G6swqvHxUwDM!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
-  - name: >-
-      places/ChIJTcj7Ggmrx4kR3BNM0OAstqc/photos/AeeoHcIyrdnG6MUeUu_Kkpnj12O96-RzyA-aHUD52mBkz6lXVH5W4hFoKngFpbxhqw3lCz-qlx9vn-lSRJWaMXwd9tMksZhaTVvz3NeN3aDRHNftT86Lg8ndMIFEIEOvzSlNXSrmfpWOh575jAsL5JvQgkzW116jlPmVKnS_qrU2QUeLtTndwU8CIGww4ObQdjdcRi40kvJdB0HlKJjs4pFPdvyZhU6-bjVBi7Gvo3iSCWriDewGozPibHuIbtE1agS2U_cYb0oFP1A4TvjUtwato9fDne5M0kp2besQcuVa4V1AYg
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon Newark, College Park
-        uri: https://maps.google.com/maps/contrib/106478784014990446139
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWjT8UDVsHenK_dMMtNdfloVhvOgtsw6cyeHHD4YW4kOvBW558Y=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOSQIgNm_ZLl1GmIcRCxMp5we7qDloxZwUyxOWX&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOSQIgNm_ZLl1GmIcRCxMp5we7qDloxZwUyxOWX!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP1blDfBBmeZhldmPTVCibDQGHsXDUbwhUP_Uen!2e10!4m2!3m1!1s0x89c7ab091afbc84d:0xa7b62ce0d04c13dc
 address: 250 Grove Ln, Newark, DE 19711, USA
 street: 250 Grove Ln
 city: Newark
@@ -144,8 +144,8 @@ state: DE
 zip: '19711'
 country: USA
 neighborhood: null
-latitude: '39.681962'
-longitude: '-75.734579'
+latitude: '39.682985'
+longitude: '-75.734060'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Bonchon-Chicken
 
 ---

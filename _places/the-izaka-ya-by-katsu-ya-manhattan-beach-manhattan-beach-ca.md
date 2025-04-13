@@ -8,7 +8,7 @@ cityName: Manhattan Beach
 place_id: ChIJXVWlh-yzwoAR00a54Y-G4MM
 photos:
   - name: >-
-      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AUy1YQ0lOUNm3y6R2eRq46jkgjf1JlyXL9BG6S4jSinU5rafs4MtTF28bMepV47cfrH_yMHmyPOBxCyb4RAE53SDNK3CtJN9WrMMkjxhPUtxjY_SZve52vpEE9N3xCj77dONIbGInMCtUK-v3WubN6g2XftTDhCJyjIXC80GCeSarBhmEQ219prrb-cPrmxNsOH74xb810y3_0Z273xtXqob4G4cWsn1OhiLtJ5R_H3JznNqP0CTMQZnaX1GL7CReuZDi21iy0kjyck4-T33VQ9Z5NaoczTyKlmbKMy23SFMeC_IGg
+      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AeeoHcKbX_PlbNA82p7F2p194-bowTg91QxRYexXpGG6jMMhXEdK3DnlrHhE7dQEYEpXn9Cu-xsEG1pr2mRiVgRmkYm0AMwd_wKhAl64jcB_4jpacP3VC8wd4zJroxV8iIEnOgcat-ka8IM_tu2ZwGFO8SMCnts0e9DIHcbSEVvhImS_QgewYBqHbiJO70eRDtXw0PNr4txRJ7WtsCVfNU5gmUSyr7CSB8hTrzSIL6Eux75wJPUUWs24ADOQhW9oDZMJz3i8WY5rqtoQvc01WeQ2-3qI6gjjrNTJ08jJp6kRRjBQhw
     widthPx: 1080
     heightPx: 608
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMrPOAE7Cq9rlpOvDrUv_xdeW0BNcv4fjFZLIRK!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
   - name: >-
-      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AUy1YQ3vVUZiGDgg_fOSeWB10xTKO01DpBj_Bo8opmeNVw0ndFtezHAaQj9C-iMEsUH8kGmNQVwRxOSIIaujB8Y9VVDgTEl2vc-X-5M0opcNapJW1DQmLByZk-yBwcT7x6b_1doUcx0jLOkxNLgC3VTiIz3J6fN6uGpCpFs1-xeshwJH5VdikpYrrsmrjb7QwZBos_sv4wojDCsVcZA1aDO__TvtJeUvMCh6YwAMSZ57GVoBIN70ORypoJm8m8j4WrU4EyL05y_YDUhtqNrEUogpp5EyPLDDF9gJuA3r8z79qCxBY60FpSSV35-1PbfLyx5rHZWiNv7uyMON_x0dmXXECmShaDTOE_FAgffI_T1KQRj35r2Ii2BuMdGD1Vgl7LA1alDIAxmqb_Ag3px3CnhK4st__o5f0zDZQdGCaZP0KCP07g
+      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AeeoHcIPJ8u3oz3MHtdVbQXbu6SSUdI8hbLJDVoEX7dd2y2Sbqzr1yUoYoK0kzyO62gBm5-GT0-e7GOA3iZSXx0405ybUsaXJE3gRVSVP_SmJsZMX7PsN8JRfHU0SZajerGooHFbQPnd0dPasdr9O3mj-M-Ysryu09CVCjrtKeb0Jlnd4dpnHd2sFB-8ITK9JmuvzvwiKfJ7zFIM8KJRQdD6y7hKh5LJnTE5PTqS1QsioP-hliVvgA3svVHYoeHYahDtUIFhZN6uWa14wuXF1qPa8aeSe9Jk8H6WpRVk0ami3yKT3TUP1pTQ32Ge_5-zB9KdoScXgwchpHKv070LdWx5wwuTu1TiaET0hBTIXl83GFI-2xCPHV8iLp5FV61cHBgRu_eKEnd19jhm1OMQ-twhbgnaXn83ZF0ITAoVNy38rj2g9g
     widthPx: 4800
     heightPx: 2700
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID44YCHTg!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
   - name: >-
-      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AUy1YQ0OmsnOodgtCEd6v5pFnlSLd60hW3vo4zAvRjN3ciH1DRI1F5ukl0pnXtQaLEsubu0QLCH4wUObpPYpyiZlZUzRSHS_R-XxRj6r6IgS4BJqtn10JOTcDiqCQkf8FKU4txBTCiAvZYEcuMRdcZGbrOCvhEV0HeI3ASzD3xpm-Gvdbk45E0R11KF36DrGnC_NNVkvNHLmj3DlPbOGoEClwht0rb1yBL6YalwgfGP8JnpuRUjmv_bERp1d4Y8KtqKtsodaUdfFHENQhhaMW0s9dhM8JYakfHkC-iC2DJPlE6pgcbRvGoXBbj6jpoMQKDpLPDQ5pc-BnO764HCKUyuMJohpdqS1ZC_kMUIgYI83_2squWzb6lAIN0KOKo7-PtX76xYkgh6YFPWXL_cgwGRJxQ8ddSIWIXJDtw_Csk4DiQo
+      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AeeoHcLwnRUNg2DK-cS2-2lg41q3tfOo9w2SlYHIX4hOF-ATMReIALbumzoVsGMDrwG4rN41MeXw2gUE44t6D6JGGajd_z1oQhO3GEga2BFOZbthAa2iX-h13H3J9k52WlrpgSUZNmSXyoPoGHKQiz9rAR9nHfwXeggvELRYcLUVJ7LRJshIj_T3pkiClWU0siL1wY_W-ucQV19-dc5AH-m1ODxn0ceqbgIX-y9g7c7kyYWoUGX0XJtzCoD5424aGC7TGw6K41iVrwMr2SPu-qC20MSa4fVwKF6xri3pBGydYkSqynFMQBodzeOubmVCm-wanBfhDy_4gjf25ScHhbt0MwqGRvPKxsoF9PYY6BQwZznZuNTUmBHnwazs7A34pFKTXzktguW-Gc3UBl8ye-5g2he1d5VSytQl3VQHXPr6sP8
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -47,33 +47,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwqqLnNw!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
   - name: >-
-      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AUy1YQ2iH1dp08unog5WtN_RuVKlvtrz5Fgqm3nwpRTdU0-jinFF_LOGbQoCi2TSty389cXNvO1C2ykWK3VQATQw9aEfN3bqJQLuvt9XfRJ1hL6KChwrOTV_5tfwiHVeKZZc_5zCEnu6bfgQ5Oj_4wZKzUji633Zpetn8XPp2FWYlowBmhgex0Y4dlLLXcyju-rj3UCH__eBd20xbxXB7CrjDNIzskKZ1-MK5VCqthY2U3l9C5_tcdWwY0KlBNqaL-fGZRY0C1mKLmaGT_ds3M9V3MtqKewfR2aGCmC2cm658f4Ut239lBw04jLaJxt_XNgxQ2uk6YL9bOdG0OR3MfNMUMSfRpaIdq-Kpu50bVEvQUvqOMhVNLd1DPxlIHMpfrh7mYDc7sd-wnORkqJqMnI9ium-NThNJ3TZuyrHZnXxySg
-    widthPx: 4080
-    heightPx: 3072
+      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AeeoHcIvPUMs3HMuBnOzWNFoTAnHZozGlYWGoVczJ2ags5pnVkkvLLqOlLZkaGSpUE5ht9EofnEnj94FzxRaQYEsjSNTY0BaiuvnCunVNNdaAcDgN2igF7BcHH3LRt9GeaBVpF2gedw6zLjiXtwEPkig-A0dX2RZVLi-IT59d53icZ6J_Qx3MyFJeA23y1roOtvp3nzuTADEi91H94I2lpl_zEAKiY2QI7Smf7Xsahnauppz4pKjQ26BTyi-TVKZBt9Ul4qzaImsqja-AP4LKSTAR5dQmyxVCJqgP2XlaEL84DBCFWQ17ctLG-W7ElmI_5lMaLlfvTxPL6aMansq5A2mLqtgO4HNzX1ymdb_BM868ZewMkjaGxMdXn9jn-g_RaBzbesG9JIvuZqoXAA5mxMjVyUavdmLLhiCHLEos1q4eSgxK2zj
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: Ar Kai
-        uri: https://maps.google.com/maps/contrib/117006198307522588886
+      - displayName: Joel Familier
+        uri: https://maps.google.com/maps/contrib/116845619275717336263
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU3yu8A3eZm7ccfpX2asqd8fbEocOoYfKUBSXaP-vr-uQVCIISq=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWo6D9_RwS_hmdpyrZnkrPEzYYH0cRFF89re_1lmxlFy49V9wgozw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDj2reNFQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgvIj1kQE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj2reNFQ!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgvIj1kQE!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
   - name: >-
-      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AUy1YQ2ylkP1YjRqB9xPAezDCoNbShlzkLAIFjxiBcsD-coq1SzMt3tCshBXLexaGxrC2NoncI4VCvvd20qQY88HnyIGxUnD10PpDAayQa07d2qxLKBCxBRTXsz1kJgWxoSvaUgBmV_bY83ESntD4WBF2wj_0P5RMaWUlwvZotwRDEowDkKVnAqXvtMtsjRLUXfNTbohRlCp_3TMFGBi68xGOP9AnHbpEVFAXSedH-u5sAUdOgm5w6Hcf1StN9L7yRSNY2AFXCDUBxM8TrCVfk9MxL2TKubtzAK3m_rOevhTcc1zVZytOh0B4JwmCSBBmerGBH0wVe6hEGlciUuaXL8kG11XyIVlu4ztOCm3P028pErSY0Q1S5F_XsXjWQFdqxuKEeefp36EdJ-AbYd7jzc8_yJsFezpkimjP50a3pWAqLOKKyw
-    widthPx: 4800
-    heightPx: 3600
-    authorAttributions:
-      - displayName: Sonny D
-        uri: https://maps.google.com/maps/contrib/107299704100947473959
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXlrlC3_dMBdrzyR7QtHu1TSDQAe4fkXdoFsNIuV2kxCDn4iv2Lyw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ-ZfltwE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ-ZfltwE!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
-  - name: >-
-      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AUy1YQ3WqhLK4Ce7qAvcsaQRP7_pGHJgZ916t6Cn9rYH0QL6xw7Qa9DrXAHeWvcmQnp2iQ-EofL01_9rdvLJtXyvcBYUWXyIX21OYBCLb1E-5VkNw7DdVdBXH3OjMEyH8s2DrkNRV0qxcPNI4AYqx2vAdA7PDjUXVRc3T9EDQs4b0bcVoRtQOBaG1Uzybt-ujXdgAtUiV4zllaFFjnLhNkm6rYYrWGB_ss9iFvD33n9YM56qLZ1MzxsIP6psBEpbQL37GneI4oI6biY6RkmhR71td56vmrcwFRBGnwWUZm1OsYSTDF36UxfJDm6h7kUN2BfhBarZrD3aWn3V4fdcDOcB6xtLyvEl4gV_FUEP72ggblxcuPWav1r8Albcq9k1IkOJGvtiWvV0419ECnQMAbvLqFiE3ayfGojgNCkyvwBqb1vc3w
+      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AeeoHcIjLlO1XBmyn-HuYiNtXPdglFc_qLiNBqC5ASo3KZseCIrqINqU5TddsOnYCpyXOxBKr8BDbmOVwuBODpIXAOF2L-PterVnjDLhaGv6XtXBeu8GlPA1MD-BAgEB4pW1scxpqC4pGmAMm99yyFjlx0V__X0byYm8qhjwOdG63qKQ21zg9yuIGlkcGLf67b5jtFSDUtBaHPPqjqZSjwKTY_q-HICEGL7LRWM8IwiMjVgYqDNVLT_u8B9qXP73sjbwd4n7thLcpCBNOh0L5l_h8loQCskApb9StWlyvM_70gJbbZ988bmg9M5u6pv28W_u0SGzcBrXVOdwp9HitR9TDD_JwhGy-YFZchPZn1IpKpWnvo8NszCHKo7Bx9joo2f151GFmfbNVvF0zEcPZ28d1r7E6B-n53D2SvhfiSnJV2mi2g
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -86,7 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ_MarTg!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
   - name: >-
-      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AUy1YQ2ZSUlvly0it2DrUfPuPPIWN_3AqgHrvfSgGBk62JL1ygbAQQy2zzyDMOTNyrDo56AU-mINCz7A5H-SQ5AhJ61t8qGReoV9VrFmd54BV0i2D29nTeYHzOjnByR9L0d2jPVkVTLQXhSoFFuqoYmvwCVeX8FNpZWRW3H0GRmpyVw7hMluAqREUSYzXMzI-KzDSHcmyAaBIy3lcSy90ukxZVniUT9MeK6__KSmlcXu8Ldczfp3nNLMKmhXW1JVjsoOTAOMOgDMHtguJrEvIKfIxf0uJbasMSRkyMCdbp9IFYcoiZRc9O1bByyLsQtYqgrGiXGtqrRk9l6fN4U2pEg_UUyHZUwIm1eDzboiAiiAdYAl1Qq2ieDdOcPQjToeb9TkjTbHU3sUs41OzEn6AqZjlKhSaACzEX57bz7oYKoP8uG_bVwK
+      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AeeoHcJicB9CHZaYsFcT9oHdtR0EWrAfflzVKgDbNCIjAC4pSvvscxH7xVVPHGPwm7q0bXARXCrCs8lM5kW4i9GPUUmX4F6nopKrraXw7-W6notDMlOTRtnNHF4njpv02pOWZtoR6lcK-xmzS4Oa5IukXYux2hS5a-j5jiLnZzKMsz4j_QG1OGEUuQvQ34pUlBWQmSZNANnxXJPDGznUo3MurTUrCO4PXpAHsyW3guMb-unz5lvQf2f0-IQeJB6R3ap2OHntUEDvZlOae5zkNFM2hYgZJJSR-yfmm5muPoL65xG4KabbQaz6NSaYGWaRu7ysLBYH2uNatXR0bOr5fgZcjIL9fc67FnkrlqtEnHrvc1CK1ypYzLWs6a-i7_w5MhJ9psoQJdb1KExLltmlQl4o5CwHMCQlmk5CfmtQ2_CMSYbzPzf8
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -99,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr4e-74gE!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
   - name: >-
-      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AUy1YQ1pqjjVPWbRPkZPHvlPm9ecAGjCtly1olXsenplx_43cpv7OLoWXltN9H4Hm1NK3Q4jhpevm6KHQBgN5t7med1eGYyUJr9kvlkaAh52_32IusODnRL-XmFbNO8CnF7ixx9MKfdwaIQlpEvrWOK9Zl7YjEfbVFy6CSkiROKNc66-ggHnmi7YinDYgpfDPhzfMu8bYeaoVhCIMDweNxAlp6enuwPCdvjcCHzknhhJhfGt0E-e7gozzFE9YOgIde0PrEGCLkZFMVE1QRV_10PDIFdJpBKejxsmT-GKxNXTXI6cww
+      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AeeoHcJon--37ZkRm8qRVIVcyF8oe5aF7jgANkRcPjhkavZ_xDx-BuztmdOm0Ct_Gm_dggzwHXQiPwxTvQ7myzmiT7PAQqNVCMKje9Vm8aC_LSQF1Gc1AnnYYFK4KP5kj1VcCiU8a1dUUesvAjQginLl6VW36KKi_TYLLjjyEH_5aMjZHoEEOnhkFciw2UeE0R6jjet8NHaGN6kQ8Wc7mrIj2JU3dm--T1pQjWg2szLdAmuFaViKYeqPq_-aEpWIkM-KHOTZ48WDFaMm-hX_ywEdQJj3ndGc-FOMEPiP85iintwJGA
     widthPx: 1080
     heightPx: 608
     authorAttributions:
@@ -112,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOUSBfimZxDwrZQiV683-U306aqEZICSTo44ciS!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
   - name: >-
-      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AUy1YQ2rLJxgExc4f2rK98JqK-SR5rcTZBsEo8GeAkpXszBTZRhw1ISfho3tDXnesHnZ6FVZDE9-ySAjsXjG4KQ9_IMTS9XhwwFQT3lBJ93mM4Id7IFPEFVGrpCWCzmt5V-AOkqC3XWjk00cfVQ7PSQi1ErnHKp8oDT6DQp2eY-aEKArAK0uGC6_upnMXhIR72T3afom72KUoqnomecdIB4toAGAWvK14xBUk4d7rbZXebFP2PCbn3pEK7YSFG5422yEscLrGOJoV21ThHe92g_XbUK1SAqkGhBHRoKPHfsghhhkDPVNoIFHgsdLhSwLKjmk_yh_4GdmcsuImJ4dXSlBfMOitb3UpVClRb-KK6GGxTa-5SjSoQh6QS19TEXImBOA4LDBMkisZZ3pYTE95IR7E61MiMPCdLEUMNW99wf40IaeXFE
+      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AeeoHcKErHV1HHh48XXbBWQAh0udNBAA-R3ha7fi-UKQDwB3EcDRsdNU6Ue79scIPiqE1SdaCez7gnRoAeK_RpB60gw5Og1mfqSzdlobqU1GB2d9PoG5spH9aQanrxkPRQOrMGSdVVEmJTXwaJTBHzufwTSlXTpYL_LHKTUQyBbSYdYP7QpKNPuJWTLGd3oyd1Q9Gc5GDPJ9SFxRCtZxSH9yp3b65fLrCYbRskn_IaEU2pWs6g35LsrrzkIIFxnUz0txrR6gJYUWy3WCAkZmMpt7al-VAyJJdkWi5taDx5aA-h3t2pfeX9pHjftcSbfC6QUAH_nAzeoECp42SkyQGehXIUjirzd9yC1eDACMNbDXTaYuhSCU5DnFJ6ponVdIoIDs1N_0J8HISMhrIntXHCNIGcs8HDOf35HEJl3-NHrHj-QCS8o
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -125,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOqrnomgE!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
   - name: >-
-      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AUy1YQ2BsZIE5_1f9hcSc4s80j2DvcYYf_9iNMXYyvb9WOhecwT9bgyNV3RGbqrnFgMnGnHfzSupvukDChK33UdWFabdGU0lespNgpXy3L6_Alal_cVO4oZ8vV14TTkHnxMt6kRiEb3JVBJPu7Q6yhfuSTzAyhgxcsc8d6QoLS52zFBZxlGm0NHcgIb938vXuCMHMnwBOkyDuiZoxwvO0Nd5b2PauWLSH2t5Bp3j47lhFl32ZjAQATEjC6LeKuxSmvn4EvZ3OTkcXU4ro54mXuB2MqwfKrfxjAOMX03xvk4iSwM0Mj0jITYPEfQ3OhgYL3i5ZNzEh0PitC82kXVCXkatEnpLFIL4T33k3bVT_UxJebMPw83S7yn55Y4hwcJUoJy1vhFjHPYshcXrfT2y3fRK9PxwAP-tsJJUqU5zrak0gDJdf80
+      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AeeoHcLEiwl3v3ALBgMGKIehcBJgCFxS7ZWrh1870oAZ357wV6246eFR57rADazuV0LnGvy-7bix6HZV6nQ_UGnPhRek0nVZWCVc29bRVCF1YemlIg7Ezj0Hs5Uad-R2QfrzXFLwWXRTCwiiFF69spy1p6f-yBWtPSfGauUGbWrXcOlIJFMx7rwslbEhxT2kNICNDZSEomFvv_yiSwQ78pSVEliCHJFJJRpRGP5K0Vqr4iW0cx-JeTd48aJAGEEPg0d3fywslVZha8jLYXpYA3L_nGQswkW_L0Q8lZQItkxk4-ZTub8_R-847ThJoRxfReYL8FlaH9CYKoSocX8T-yI-FYIosx0qNP_jqLsjhz-jiQNTFrfnXJnPuQMbIHuOpoavFmQHwyegzibktgVtg8D1JKs573ig90_DWAc46QR4KpaQrEw
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDl4MP27gE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDl4MP27gE!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
+  - name: >-
+      places/ChIJXVWlh-yzwoAR00a54Y-G4MM/photos/AeeoHcIMSyw05uNNm_gRd3buKCpRJJ-0ocaA6jHO7FGRdCrkpgpQHAGWbFtuRBzrGopaJpNUIJy2tBU9UhXIImetGxuChoyPJM2KxOqx_LdVzFnoSv8pHGN2Nj75NMWUzlMWBRplOvgaqSLc3RuCMc0lGHXmOBPtUPYvPbMOSQdO9vsK0VQoEQVbpJxf4wyu1hDDmoJD0mFjB-dxCtGtyrTOoBEl9HdV-tW95kVk9bT03AppRN56xdemoxiVcgTptVDza8iMRhWdSi6WlBA_x-H5EomF2l7RUsDje0OASG4eUgTtvup2vAc-ChEJ_oq8lqfP94Kwg3I68Y93kIqD5nE10j8CtwA77koOQcsOAMXoWmrBKkDO30d8kYFqnasHKCWfBMfgwoTyWxxlFm1FCy0u3OYG-Izth8zKg8ZHi-J9qpzYR8pP
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Adam Solomon
+        uri: https://maps.google.com/maps/contrib/116908702151904212112
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUTrdYM2uKog4Z60KCLRDtOqqL2b42udyl_AO-ZJuwCnKyUrw-P=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID2r5v-2wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2r5v-2wE!2e10!4m2!3m1!1s0x80c2b3ec87a5555d:0xc3e0868fe1b946d3
 address: 1133 Highland Ave, Manhattan Beach, CA 90266, USA
 street: 1133 Highland Ave
 city: Manhattan Beach
@@ -144,8 +144,8 @@ state: CA
 zip: '90266'
 country: USA
 neighborhood: null
-latitude: '33.885457'
-longitude: '-118.409971'
+latitude: '33.885326'
+longitude: '-118.409920'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: The-Izaka-ya-by-Katsu-ya-Manhattan-Beach
 
 ---

@@ -8,7 +8,7 @@ cityName: Honolulu
 place_id: ChIJw-k640ptAHwRmKZyzsfP1Vg
 photos:
   - name: >-
-      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AUy1YQ3m4B5vSE6vsyaD7m42ExlrOEn01OoCoJRfdbUx7qmy1Y0CHIffNfg1pkQrhZugAilpsCwlbfjHKJv5XO5-k0d9F8dnyCKPR1LMvEnRjcsNdzjSAZafT_zxnL17w8fVLsdz0nwopLxBq2WJQCW-IEVeWFdG7bzIQd47E4e3ak1UxxMS_VGwpe5Tg9WHlRvRWiXpMusmLMRsGa_ZTO2tf5ur0D-Ab-0oeX8Z4k_3jK90jn44wEmmWcORVd88lnUS2pi0F7CGKNnKeEI6QD7Oroo2U4kJNTAkSe-FLtEx-Gu45w
+      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AeeoHcKSCi5nW3k-cZtp9AefWW3cG8EkPDHzAYYPBL5vVtpeSQkLi2VRqCMtuevYj6XQgbfrRzRZtQMP1m-1QrUviYDuUkmDFYaH-l4a4T9BwuWYoDW3cTE2gLuM-jg7FWWPc4FTPIQSfv7_2QZY2naRh5yTOabZqvLlHRRpIjAvVQSONw0sya6_1zS84_rMT6l_8lBGTZUrFna65PqlxcBRmwYPaClai7tPau_z4aBvmUql_txjtQT4tBEAT4RPhz4S16A7vcU6I2ru_aEod-b73Rri_V67qSQrpKqiRgeqRNf3tw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOR4tg4pX2PpsVmltF8NTfb6qe1AlEkOSFLZkTg!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
   - name: >-
-      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AUy1YQ0Irhgh8sg3PQOztjArfHaEYSry8WroL0sVgGLj3crN37htuH2IbbMYwZ-cYzLLBQ7VtqGdqi9ZetV4Vr2qhCof6SBWNGBwjZ7jz2GrITmKfAeHoIk8LYNggyrUBI5yLaxrtsxXN0IgKLp8JKqkvT58BKLCxEdoo7LYAJCSuLLdn3I1e1vCyjWYMz7JMHeof2yj_cgdgiSwPlgo_1--cZTQBfQTHUMujZ9qfZF3tnAm_QlQnO-3HYILtp0RTUTQeOVt9i3UPl8nmIaXqYTS0EOb_ju7jPVEnnGeu0edyNA91w
+      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AeeoHcKaWfEDjpJRNH4MYFOrZ5AQJohZw4Z9EbewHJG4nRTGFYVUXRXyeEwLVeEhTFDBy_1WpMQ9F_6nwV1SsxKWwdYp8dHuFDbpYJBJXyNF7BDK5oC0zoYAZonvdqWirrbg6BPY0hP_cLEZmjn0Tn5zPQ6uUyI6xBI9_3LuSjphmHwdL3yB9OUMSoEzzQMqPiNkAfVrkFov1taZlJZFZx_T0SLTNEiTQKHjohuX5KMJ0N_NeyIBzcyueOuezUSfVr14SV8KY0HWLOvswT1wiSB9ZCiZTX6CrgehpC_dDzTx2Eodbg
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPA7oAwqlWC09fzME_p1AyCxriSg8ShuvrDB82O!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
   - name: >-
-      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AUy1YQ2zejj6TPJPux5zdeemHwYEElZtZJR7pBC9DwqBW2xbYV_yGxra7KfCdXn2WP5D2H5tbkeOPWaL8fOxCgdFmlRNiK2KnfdvjtDkJe-QAgvC9QI9UFm5tlBz1eiwYeRUG0_H5VRKc4oE6qgg2B6e--JIj6sllc80BO3nEPmF5MUAP-Upsb20Qio0PsHd0iYjEjavVKu5qrx-pQFGCvIKzemhbsSWyFP6by2ewZFxdnhamTQrsw8pReE0HdYKRmUR1zWTEKg3gUoLKNvo9ncH5_9AAcfJ0ccBcKVg4dRhpwRPng
+      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AeeoHcJQPjiTuhDGOJhj2YCnezwhX0pivK0vl02IIhAE4MWFVl66qMuH0jA8iL-wHdEeJIKQl-gz2wDxagF9DJH9o3xxMD7UOkqVf6Y8wbwEb1gytWa8PDUSSOfk7qfJFl4eYrTvkNwwUY0hOu_1gU8g-Cl_pkLwLOch_4kx04CHADBAO06zL75HO0JcfAQPi0kiK39SO4Jkdr7sM0mVU8_V6NPuKZKYuzVfhOyXTwPrzhRTEA_uvlzcyVBIrXIgN_ZOm0DngeAKIh38Dk-B6C6hp2XG1Yi4eLwYh_nbhCYaKUrelQ
     widthPx: 1290
     heightPx: 1906
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPbHw8FnLUhBo75l5nsjHX4oTewgobgxaVWLCb2!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
   - name: >-
-      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AUy1YQ08BIYkydLZOTVBlvUmZjv6A34IP57SGcXq-EkS4on3MzPWYtBVvGfMkaFJu_HNi93Pl2tTbAgxtkxVSdP_GkZNZy5Fcyi6r3s6YeAXKz8FOs8DcifrX6kD5jLheVPANCk2OuW8sE6-EafNs8VD0Wc1XAgVDtbQya7uWLdE-fiJwcnUA85As0ASOJZu0IE-seO4BDbFXODaDp4TWgqHaz4AlUX1nOUvRUZFk2-LJVBY0tEdkj1aS2lKBZ-Wj803h37eDj-SYjjLkisgeDjPq9YNd3bbWwt80D-tfMa-YP046LGe1B--yT50VcjAMxV1gEL6Ifz-HXz0DTpNK-bjUSKoL8BUCOY-CpZaJFHxtoe5ivXLbfcdOMSx4A4Rfgdac0psoTRa0_O7oRy6keasLfjC2OAdEJz2v6TPSGthrALsA8w
+      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AeeoHcJtfcpJk2W-Gb6PWDdxynewmwGl2NiGb7JPnhRMezA2kUWCbBcYuXNKrISGr-0yiSZ0oLQObgwYjBpkDpIfHf6UW3oJ34oPq0_-l1k-RNa8XBb3fHuY6shx9QokQ7w1DgYZcrOfyIn-yFJeW7S-GEO3PIhGuVuYYjr8-32tq7WTNh9skBkH3MPhVhZddDCsrq4o4zI9R0wHV6QS0OePS0lyd_Mdx0Uwl5bMGW1PpLv287IgQ6xonnDhIhf73RoS0JKYggsmHjHa8Fg7Y4-d3WVZEUcrVPQRdCYS2cNVlTWkZ2rXWH0a2vXeXhZwtlZBenl_ACscKQFrWene2QJ-HufoDPJ_H8GRcpvhqaQdAuPBK7fZhLDHyTQgA0uhFLfyc4jdseC7EEtF5fTLmZwTyrWjoPv3_sKUdWsMlRVQCx-8OXQ
     widthPx: 1652
     heightPx: 1659
     authorAttributions:
@@ -60,33 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrmL7zlQE!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
   - name: >-
-      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AUy1YQ1Tqk_-GqnSN9oQmMdGLuKxqXDJ3LCg0NRqoBQ8_pTOj8zVIzF3gPLUdI_Lo1B9ZpEpgAHQ2MvBj-_5pycNfDrsRNDGEU3pAAnemVyNWkSMUh6kSusloLaNOOUbmnVq7jOxB6ZYqQ1SUnv3UHHZcKfHbdaqQDKjdvXI3W8_mTO8xEbml1Rkhny6hzx0kgH2gGGH4RrgRYWGuBBxiSxKxRKtnZiqe6Ye4kptgFjJx8kcGrLqqosNWPEXidxvQQARK54NaDlWvO8qXn67v5PrO58ng5ATLQ46oNmLKK7LGJpepqMBoQLPdDPydJPvyC9nxbr11pg7G_QxlluDzeWigo4t5xdwzRt5Rmu5NDJuzghIx0thsSv2SyJDwk6G43I0MRC5Xsb0rdgPX2z3Co9C_Dl89npKwe3hJ1ykQYxblGHmAQ
-    widthPx: 1509
-    heightPx: 1509
-    authorAttributions:
-      - displayName: Cafe Domo
-        uri: https://maps.google.com/maps/contrib/108168317916631588619
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVVzhRfB3TUiiNfbYAEacS7gouG2n63A6u6grBUHhmfqlh5ojw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-vtaOYg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-vtaOYg!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
-  - name: >-
-      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AUy1YQ2qvOhaiz9gq4c828jrOTpI9D_739nySZTnO8Zeujw4NKsfFl94IJEZnQzbVsWJ5gVRtOLWbN4juULoO9RIZIyk8xo3C9HZMAQ-EVDD5tBtuWgh9woLv3x1ueoN_tCJzGPVr-reZKI7tHqIXaokNDnu7t4zv52aaU-uv_8FgOcT8M18wng1H5pVhCyVDxhD2yg6gN-ZO2Bmz61evBoXWI4VNR53HlDZeXNTS7KCH7No-zee0MYF84ixvSg6dz1G4Gua32a1KWTfhMAemr9WR5kduBj_oJLNvQWk5f4IN3j78g
-    widthPx: 3068
-    heightPx: 3068
-    authorAttributions:
-      - displayName: Domo Cafe kahala
-        uri: https://maps.google.com/maps/contrib/112858698614746730280
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWnptXQuhANUx9l64XAHmAsDrg9ImmrGsp4QgPXjDPuQfRi4aw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNYq7CjKzwJHEXHODKb7QnPR5TMBXH_6Z-8e1VR&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNYq7CjKzwJHEXHODKb7QnPR5TMBXH_6Z-8e1VR!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
-  - name: >-
-      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AUy1YQ1pVS65y5bszDDaZA7yx3C1XbY2x54fKp7bnYENNMfaGk8B9nAKS3-XHm1SSJCnUuJiDZ1QzaR0wS_PqPZjqIfCkFGWs2LI4YkCmujQIz4Zdd3c_wlERqGOyrQCheC6Rt5i1W69Oq6vtLgJ_YdbnZmeeZxOYYgq7ao0gwfAFXYnODankub1SFiXapus7ThdsnqeTFgR1zJFh48Fl6v-M0D7HewH4gJ4fWcPWD4AxcZDOWwL-NBVArVAeyCxVoPYzGuwmddeA4R9VN26PrO-3GxUa1C8d75h8z_6t5mHffGdEQ
+      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AeeoHcLNbxqEKqkx25PLizvC6nevgc5rBOImLLtp-NSQkaFgyFSFLVcmMxrvCikwY7RFiAf_uO8mU6cerMF0VLhP7ubZnKBForUYq_seAbRj0Qjik50IRt6Tha4Dgyhvavv_seEFsC8V--333xfCYNdKoHJx04IcCj-N4qxXr0dBOCYRqpPA3u-8ZaK1oecY4InYjmBICkNJs3mBK9-iSOYRlzwmc6IoApMw6nJ2g64t6Zn-AM03BB126oFv4__JLQRHAqZaNunpYL7AHPTeEegHfME6p-OJQ-XonzTaUg4eHsO0og
     widthPx: 3200
     heightPx: 4800
     authorAttributions:
@@ -99,7 +73,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOwGuOPhBzAqotf-_Fxvb1LRtwdQbxzlodvWU2y!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
   - name: >-
-      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AUy1YQ3iBDS82EIGb7v0sw2iTZ1a_QeLDhkutV_ELMcIeeXx4Pc-893Unv6zxVl2y5iq6laORCAzKcQ9cVNwChrrGWSylxHFUG6TE980ut97-AWvxCIDkEqL31aD4nZW6kkYee-Rw7qGGpJRqQ-FGUWNEWevqWsTpHRHyO8P1EUGgoaKTQqjgSLn83X13xx-_E6Eb1I8g84vb6gL1sN6-bQsPWoAcKqhZq0zkimSy6XOFBeizOf22wwORbq8tlQS7Wn4Fd-QTmaTdoqhNoDQMcKYXL6ez2SNYnwEPdv_py8C351muUTU01cx_Tg0FpTbcLR5_o_xnuX2rcuBfK3IkFAo37qAPpj8ghab6lTThdnEngI2EXQkc73JlSEV-oCEueZ0G04hHrs8tnr_jegZp2dIFtpF1hSO9jffyBc7XHLx_ecZhSGp
+      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AeeoHcLswooPhwlyc5GsnTsbHx8ACLvw9_SijH5X7h0wpBaIkgXhlL9fpNNSUmgJE609PFJZFgoW3KHqSJZoZ_yl7c-b56-Fagls87TKSCNzj6X1IL_Ujy-H3DGVAd2udhiIdMFSpYj5XuNwmMBLO5R_ceMZmlk5gUIlX5RnA5Ty8W1b12H-xwD1U4tYOqDcvA0lwZwwqr1twN-Kl8SAiXP2y5OzpnBIR90T1JwLNOot6-BMisfO-psKci9R7hd5O-cGFY4pIyAbVNvkiFGYqG4LaV2ducOPwoSKgj0pHu7VKCzVEq8osENr5CIcPGw-9jtcTbhA20SVGklGPdZTVnwPXgxL2z0on4s8Gp1Yk3I5cEXvSnd0CesQCPv63SH71G4YnSnMdk99LSeggpOQ56vR2W0uVR92CiQT8M1QBNH2bpf54Q
+    widthPx: 1617
+    heightPx: 1617
+    authorAttributions:
+      - displayName: Cafe Domo
+        uri: https://maps.google.com/maps/contrib/108168317916631588619
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVVzhRfB3TUiiNfbYAEacS7gouG2n63A6u6grBUHhmfqlh5ojw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-vtaBIg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-vtaBIg!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
+  - name: >-
+      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AeeoHcIk5B89NzqdZY0en_pgMaoC2DVcE-LFceoHK_WcfMHYEUS-4SUNUp2S05JegX48SXA66HRRZ7D9tVprReYIvnBEeiL6LBQr7Qnsm-aRtFxW9e_qiTLlXJ9B-IeIVc-7rnS4PpH4Wt21UAZKlEe8YAfIPQi0ulXp3zVJ1ZPa2HLqqrPpeyCvieKpZs7BgW4hEdoo0qufXOi2drlKLcHq7qQ-20q_-rTsRf-Hnz5u639bSXnB2rq_YBOXCPKIO3PFct65Od7kyieiCJfyEXiFizkxpBjAHX-R9KY5N3Ub4mhJ8A
+    widthPx: 3068
+    heightPx: 3068
+    authorAttributions:
+      - displayName: Domo Cafe kahala
+        uri: https://maps.google.com/maps/contrib/112858698614746730280
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWnptXQuhANUx9l64XAHmAsDrg9ImmrGsp4QgPXjDPuQfRi4aw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNYq7CjKzwJHEXHODKb7QnPR5TMBXH_6Z-8e1VR&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNYq7CjKzwJHEXHODKb7QnPR5TMBXH_6Z-8e1VR!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
+  - name: >-
+      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AeeoHcKJDFdYOplz7_f4Hdu0KgKZUvuNSyDeR4gqMYWLGfpuV6Fqpow9wiYMB3bv_65e6zFpTwQgj5zbrtEJDd5Hs2OctuEgGnJx0a_4ePm0mi8GjIUVnecfwLDjeCfz3ZuM-Oe9n7w96cFd5vgwGfPfc5z1u-3eqO1-Y7t1GosKDp7Ic4XBSw2SabGnKFnmb-ioQwGM9L0i5aEsjOY9dOOcxIBRK9ikBhLkAKObd8PgSQVG2I7nDZ-mfuHAWLC57G_8GVSRAZz6qx7r0q4iYjP_x-Kl6286iEd9Q93vT8rw01lS6dsr2IMVsQC8C9eelnaaGhJJ0A1MvLHiMPS7RYt6XyXCp5LLJ9drw0_bH4OT0bZYkOXhXXOVbRFxlxmcWbKvXlcqzFCzk1ioDn8mzielih_7v62bpHHuL-rlq237XnFXkGIN
     widthPx: 3599
     heightPx: 4800
     authorAttributions:
@@ -112,20 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ95yl0wE!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
   - name: >-
-      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AUy1YQ3lrHEDdb5K2_CuDR0GIvvAf3avM4qTEjHcJwR6VT5kJFDhPaGT_78G5v3u_R4p1Im9OY0i2HBTQ48Efvb0NErrefgZURgAZv8VE69o3oqyzTH9tDKgLG-KnULc0zNk_zrLNF4Xks5Z0VDK8zDvmVLW1091xCoAcHSyZHeIQKnqs508Fwit_2N2Wo0Exz0JtfyMs6SbuasR_Sk7QUCoCbK67s80KVliDLxxf0K4Bv_SBfsiURrhnBtmNSYIYH7IZsSCbDClTY_LTMrPBIr1t5gqxvh-KpaQjl-r6AV3ow9_tfICJfqBZAXB5QJJVdboeEINmAiLgdf_LaqNQOaLD5wEiuSUXoALVf9RiYEJUhUB2Ie4oZMxQ5DU2Rsmv1xbiEyykZpBV8VPrc_edi48IfyPo7Ys30RvrfDbgryHAaoDxsd5
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Scott Kamiya
-        uri: https://maps.google.com/maps/contrib/116457958900541081161
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV3I-DEA7auIAH_z75D7dQEBwLG-tllwrTdoF3ImH9RnOZalqkK=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLy_3gnwE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLy_3gnwE!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
-  - name: >-
-      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AUy1YQ2YzPpayJtTAdPKuLtXNB7yg62BzLxrgs4OroHomHlYZP5HDsH2GXQR3F941c_VzCZm0CRBQi8kynh5yEY9hVg-8PVMWnH0ANyUMg0c3EOlWgURgKZxrAE9Y5_pSZCyFYpahR1DCfyWcPGhQaPfTe2ZMh6NByxyhZLnFV47OpHUlHtUQVnyrBGQruTr4c9OrZNnJl_23WSbSM2QG2hp4lB2YQtQdfEcqcnlDokZW-T4ZtjPBz1Xosxz9HHa9D-JnT-YjPIMluxrJYJFXfpeoW07lz1fjgIgvgVm8eXQt2QRAA
+      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AeeoHcIJV0g-TsHwdIBtd2y4OHeyGiZwtMGIKLQUwgP27YU7Bd-oy6rM0cL4GIjAlKwFFOUD_9HKRpLX5sydw4M6jaJegkWF2yhTPUmV5F7uEwo8VqrhB78CYiRzO_01v5ACm_I1Yp4-sPBe4-gYy4dTY3dxGyz7sqCKa2E11jfF0rUL6NpIOMM7RuJp_UE0hqUa2_v3vUe90X_ImbC2U94WAFUSpOvoCtrFy6J7s2Igea9XCQEF1UThs--usaOc20u_BxC3z8jwPcxcZjcDStJaPYvKNaY_6vkcoeAqA31TRXGijw
     widthPx: 3200
     heightPx: 4800
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPYuNX5HKw1CXd7V-DBvnqK1Ol37toJ68W7V11D&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPYuNX5HKw1CXd7V-DBvnqK1Ol37toJ68W7V11D!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
+  - name: >-
+      places/ChIJw-k640ptAHwRmKZyzsfP1Vg/photos/AeeoHcLR1tdYbuncvxe-cHBZOfUHXIOH9LDbjNve_2PUCfRX_N_bbNf9VZoo5myfD3th2SborUIxHFOf3V0EjS8mwvDIGiZBlMWk9j0m_-Hj8BsXoBhyIjATMmHiEW4uVL2It_P0ct-m8qShFA_i4aTcIJEA4ctMtmRImrunXM_Tq-7DhCWbn5r184iPfCGaYnNZZLMxGWT5jNOpHSc0z4DYOr6spgMTMhkP_3ZBIo7Hv_3luKqbfn6XH0hJWo-AWb8LCfW_vo0Y-bp5ae7k1W5sGTw_g2jgKDw5vKGA9qqMkeHOpEaJOlK6WtWoj1d4TYS7noGgMrsSYu9JK5nfXhS0yqUM2CRO8JDV5x2AHJWUWeGwFw22V9L07oNw1iWPa532XsoYgdgpJ8VjIK3YO_aApNNZk6zs_KyZb5JavGkSOjUVExRW
+    widthPx: 4080
+    heightPx: 3060
+    authorAttributions:
+      - displayName: Davina Sanders
+        uri: https://maps.google.com/maps/contrib/100154891114088911922
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ1MxkjozG9GA0FA57vpQbWM4r4QxiEa8EG0aGtGwWi7HOHxw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICN5t60sgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICN5t60sgE!2e10!4m2!3m1!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698
 address: 4346 Waialae Ave, Honolulu, HI 96816, USA
 street: 4346 Waialae Ave
 city: Honolulu
@@ -206,6 +206,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Domo-Cafe-Kahala
 
 ---

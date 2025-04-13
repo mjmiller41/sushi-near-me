@@ -217,6 +217,5 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-slug: Ryu-Izakaya
 
 ---

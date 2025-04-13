@@ -1,166 +1,166 @@
 ---
 layout: place
-title: "Sushiman"
+title: "SushiMan"
 permalink: /hawaii/honolulu/sushiman.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
-place_id: ChIJb4ZEeYoSAHwRf-Dv0zp15MY
+place_id: ChIJGyWJjcFtAHwRf8SPe8fuHBY
 photos:
   - name: >-
-      places/ChIJb4ZEeYoSAHwRf-Dv0zp15MY/photos/AeeoHcKtxoqtXtza6K0pJK8UTFMwA20xOrcd7hSYZ2W_S0oMR30Goqhmw4Ttx0vjanFFvSC926pCVJMIK1Lhjef_-2VmbM9q_TXiTP4T_yFKvu7YG9M8vh7feV2gHd3vWG-B6921ufIIeXSF8bnAv5CNEksunwJNqJA5PhJ6FSTO9ZH4ubOdx6Ku3gIvolqxo_sVFw6jgao5Il9-5z6tglJAN29Q0ZH5mF28qQ_wP_Fsd2mZG2oLeP9lL-USDizwSQl5ACe0jsmkqHysbxHJE5_ze6hVwiBXHZ5Bb3oIShKpc4_9qsYI_F7nrIVbdxBTyRz_ACiiKcUf6JAATibF7KrU3KvHTqaBzHyOB4tGvO61DC7olKP_YiVvlF3-VLJKlsa2me2mQi4zw-PR_Dela5yBQYfN2dBUxSK7wph2J-I9DgM
-    widthPx: 1920
-    heightPx: 1080
+      places/ChIJGyWJjcFtAHwRf8SPe8fuHBY/photos/AeeoHcLWdV7podCy1MDy83p47PbPgTaTQr3BAph6hJ2rOx2c28X7BIXczInLU8QUmFTeTrSg2alRq1Y4SDVhvXvheBUKkEoOoh7ooHyW_9EbpcF9L0-NXJhrww1zuRxhzoy91NGFGgQ_vQFq5uQmKNnMJDU0Tdbe-I391y-xv4d1lolnO-LH1htK-P-bdYY5HgEprd5IZjRoNnfP-wAoEZ4CLVM6aL2QPgYBjfIqMJW_B7qPuXsf-7RGADovSRPr9BXuywbmUGqf2BE64m-tKN2jYWilvRzUufc8k14IQVTHekPIRQsPkCmFq9V69bJ09cPWS13Qqvx9-nrJTR4-EmBuLnWl2gaXAekPJtRI5pHPNkIZ56bDdlScu6ndxzv3KbbuLLN9CIpwfBrRdL3dvGy7y9iBSKG7_dQ_LYiT_VSDF6wBNFaa
+    widthPx: 2948
+    heightPx: 1848
     authorAttributions:
-      - displayName: Oleg Garifullin
-        uri: https://maps.google.com/maps/contrib/113177410817132352739
+      - displayName: Mona Wood
+        uri: https://maps.google.com/maps/contrib/106231033212081103849
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUtPu0afmD1JVsw6iG57bvkfvfamWrX0aRAJdjo4xyLaZwmTKsxaw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjU_wXPZdSnfWPgLpZ-Y6_rwsAJbk-yiKb0U0dk6AYZ603BaWId3RQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk_urZIQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC1oeu_9QE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk_urZIQ!2e10!4m2!3m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1oeu_9QE!2e10!4m2!3m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f
   - name: >-
-      places/ChIJb4ZEeYoSAHwRf-Dv0zp15MY/photos/AeeoHcLBBEbhoVZXImzosumXVsnJ8kbFAR2eZnGo5KitjmrS4S0nGJIE8QHnUZ0U5gUggMAyAVBDelUf4XU-2SMmdr65f4VwRJql1l1a7loP_R4GMGhihmJBg_7pKtFLgwOzhUUT1C_SZB9mIqZxgmEawIu-0YTmieelcJMKJk5QXp9rg34jOXrDjuJsVj5F8NG_GAnhTU0hizjcJmmqnLyqAkuX0jXA0qxkXmjC0ifTSVWAM07bQEahJZFnhOPo4Ns4-GOPdlc-UWw1M9ip4JNQY-WHjRw0H4Xq9-VNsgDRxYOMdryHB_0ZjgkKeUCWK__gsm6fndz1dIB38nBLAy9_daXeEZcel6vdY5KJMhmdIPItOKnLUb9SWeQaHqHJyY4la1aSa9mJCMSAMlTsQyI7v7c9Uik1K47uo2GQzrRPrreLKDFK
+      places/ChIJGyWJjcFtAHwRf8SPe8fuHBY/photos/AeeoHcJrCWDCDDcFMKwNDBD0U8JMfLev7YL3tqV3iZg7gOSeoIx8ka334nIM49Knvz6wfrgh3K7G5qBlmHs7-WRKCfMzduuvllxygFuWLnvzdPY65qeVxJODjigCcY00IK0t-h3oOvCLS6SCwHmBtWF4nYRcEAQtYpVuzrqacjKGUxEhNkw_iL7H5ugvT-u8DlwZo_u30Z6vbSD4x5l8M7JbEXy8PLUF3InzNTqTwqV_SQG4v-I8t2OfCmn6jQ7yrLcqpFw7vWf456qOmEslsqjV7VORcQIt1TApGn5Zf81ZjUHP0GIf4KyrWgc38shMGfvmZYWvayUf9Hyd54C4bTuBdtXHNlwPHF9TxgTUb9L87MtIFZSpszpx8t5yPOrdugOjfemBZm8kqnsMPQ_37nCb9dUL7kEWE0MrxrQwHxHT7sIrBA
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: John Francis Sapigao
+        uri: https://maps.google.com/maps/contrib/105307544017767692574
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWxo2ZHP1t_oHu0BwzzCTqE709HcvGgKtBR5TFyNbiAD-nle5R4QQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu0_vcGw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu0_vcGw!2e10!4m2!3m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f
+  - name: >-
+      places/ChIJGyWJjcFtAHwRf8SPe8fuHBY/photos/AeeoHcL8UEyG3O-RRpFDn69KnBIE-L7o9TOtsT6kLUmNlxxu_xHXEh4EJTK9LDCZfP5MHyZPXFBO5zP6yPJPuramb_0ocrDN5jp7xqU6DcSx08XWjn6ZHzE7zy37B0DIf8d6hbzrr2yj2txWm-nKR7XRIH-CeX8tltNhWNz0Bq9uzkelhgLBT9YC-17hEKt8BJbY4VZjzJxCRW3OdLw4xfgPEhR4zYMuPQ1MT3hOTOosEH6dT9h1tB7CGMdPpc9XLZGyiuiisicPoy-Db59A4rntp8_J98WCyEojEo3HFxzzxUbP0wv9bKfh4lnVHmpcW_yJe3K3PH4k2Z8xOIjZTZcVRDFXMkzu-CEfeWsMaZLCJgriwzKnHJSo8T2ZVRGyAEx9cA5ZTxqg1LQtkcarCc4tJtqnBsR0460uvaocYw9n479wRw
+    widthPx: 1718
+    heightPx: 754
+    authorAttributions:
+      - displayName: Asuka LaVigne
+        uri: https://maps.google.com/maps/contrib/103933995252600332854
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUni3vaCtKy2cl9FNP5terMO32WPt_T2gjBwm5NmGgO0H9a1Pun=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7kvGjfA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7kvGjfA!2e10!4m2!3m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f
+  - name: >-
+      places/ChIJGyWJjcFtAHwRf8SPe8fuHBY/photos/AeeoHcKHFHaUzI1TXCAKpISaEhjSngSCZZ71Dlopin1dVb5iHGzTq6I2XeVKrpZwhvALB5-8hlGBgFG1eZTY4plzLDSOgLhXH_SHA5a9wzal4q2IA5IkQqEcv6oBfuRnrDLxKf4rLWGmaAz_YsZTqCgt8kK7yWsvWBmvSGYIiGt4fiaI1IXB9GkIW6KRyQIRhEUkwmjbPqg80y7F1QBrZQiS4BZ9bcGgPdGHYRZ2mUrYS-9KLolqACyvy14cgkeKu3mhPNPJumlvHtdog4WQ_6v7y68dP4a9AcjPSXZMuSS4NOJSJz3jJauvSQCkKlWPWNZc_QMxM3GxROW63nQwPcEgADpaKWER01CAj1rYXyCcBbd7lX5efJnv3t53plduCh1lnbTPm1A-xPn3Oy_I6wuExfuKP2u3ffD9I9rqqXpWNVDTug
+    widthPx: 4032
+    heightPx: 1908
+    authorAttributions:
+      - displayName: keoni carroll
+        uri: https://maps.google.com/maps/contrib/111328833068317661288
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-vjHr8YvDzsxpm_7eAnwRyrXYyO8HbNbQqXznnp0RO7muP6y8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICy4JTXSQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICy4JTXSQ!2e10!4m2!3m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f
+  - name: >-
+      places/ChIJGyWJjcFtAHwRf8SPe8fuHBY/photos/AeeoHcKWTkqAuAqt5R9xnMWjJwZxKaHvIlRVZR8ZE4TD-pOAn9H9wm9vCEs5B5fUFSZndGZ8GS544Oa94saQWaiKwzrJcOPUpb8gfccI18FEWxRUw2OrEOPWQ0vkL0ZbTe_hGbDFmlwSmh-SrmVIg9nYUeov21Lf-HpRGaAs0E3pQJme3yPMNWTsWrrVvJxPYuXiq-4oh1aqCf9Xk6gwYuFUfJ_6Yo2cv-UybdFAzcOgQ1Re3PYooTLnl2doYI4Sa_1MAxpHxWyHtbrVIq2wuuPCHuBKduQN5adwpuIhO-8LvbvHFaPIQ4fheIkl_mqmSVjTM7g9nBSdNyyZIZYizzI1oEYWE4cuuLEEqUIwsm9qFfcWtZqew1eskrdzztYMXsEchqMAOqYkkXSad_0p5GrI-hnCh2Fr097pumLD8gxNUpJhCg
+    widthPx: 1908
+    heightPx: 4032
+    authorAttributions:
+      - displayName: keoni carroll
+        uri: https://maps.google.com/maps/contrib/111328833068317661288
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-vjHr8YvDzsxpm_7eAnwRyrXYyO8HbNbQqXznnp0RO7muP6y8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICy4JTXKQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICy4JTXKQ!2e10!4m2!3m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f
+  - name: >-
+      places/ChIJGyWJjcFtAHwRf8SPe8fuHBY/photos/AeeoHcICI2t_RtWbHi2lX2I7ntxCVgqnJwP9NExXA6SOjirAZy6tnMtXNer1agOosckJzoZ3tMg2dkWc6nheUBP_Lf1hUJapg_f3A985BmSJTOP9bzpaHm2kEk2K3NPkbZP9TYB19uAJfJcqyF84NpGpKHJ1FK_XwG2myVogYMzs7OmT1Ge0JudUFQtkKTCBP96gJQ5DakfNpPd-nwYKbRjK2ncEydfjIqTc95oyx7y3vB_yARomiDo8Cse8-vDe5T8AZNpmwDprqFYQoTRfSeWr9yPiGQmi4WBUlfrEFEg6aPYCtYMt9hQZpyEaOP2DCoYTl0HUKFRBlHEHplwMV_eZcPGjA3XWDls80MNNpVWlqTdV0pqg8bDPSjEAHhxqwhU4sNj43LJ3cFFvGnnkqSIT2G7SbTDuFhOvgi1YkbOFKzWXI9O6
+    widthPx: 3190
+    heightPx: 1868
+    authorAttributions:
+      - displayName: keoni carroll
+        uri: https://maps.google.com/maps/contrib/111328833068317661288
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX-vjHr8YvDzsxpm_7eAnwRyrXYyO8HbNbQqXznnp0RO7muP6y8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICy4NS-gAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICy4NS-gAE!2e10!4m2!3m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f
+  - name: >-
+      places/ChIJGyWJjcFtAHwRf8SPe8fuHBY/photos/AeeoHcIBQEhpTrP8gM4enTADL3j_jWv6kqXxYCtQHDTITCiwraPBak4KOtwDEyQBy2CpKmKEj6c30BtCcARBYuEDj7M5m8t8lPdgbej915rdddrFWoJSochmEb-b5tNMzOoTjV1pfR5CrTBFmUHgYsIg5QBCZcEM5pjSNgW8Bfp0P1nbB1eijHqSSaaxE6TT5Rkcugkn69i1bbFBGC6ZJzNCWz2r4Z_uLHyCTGzHiVMjQAn-A-bC2rI3YVyYMrOtwZMeffyuxkXswNubUcumTTIoVb3sxYTr7OMc2XIhzWKse0DRYzZKnJue5HC6cNZcSaeKftjng-CQGMuKS3cb-wLJ5O3at3N1q1K195kUfuKTdQEFB7LCwBL-H97RE05pEXoBDTviFeXDIFRMmNPZEHgw1jh6ZOq4gy8QbXBESsnYbtCpjq0Z
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: Tomasz Wąs
+        uri: https://maps.google.com/maps/contrib/110256321222815494412
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIm61xrdWmZdvn88IFjdowomjx9nZe04vhn5SU09NRumPbqLQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEtP7g7QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEtP7g7QE!2e10!4m2!3m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f
+  - name: >-
+      places/ChIJGyWJjcFtAHwRf8SPe8fuHBY/photos/AeeoHcIoYjnCBDuJTjLUgrxByvhqnfkg6hcrZ6Ya9mLkbhirqGWWRyOOh-5_QlBZ2jQhaKQv_5Fz1ElYKVzFXY_zKz4jA0LkOxBpAE3bJqTHMd6LH7kkLPWL868zgoAsPCsxWBvvLnJlrvSQOokHP2VwjT9EAF-1i6GBIKD1yExANlHhI7cRDPIT8vwAdTsjcNDLQFnIrGPPBF-M-aTFRQjZUn2MD3rw8wbKgaM9SOOQfarjrEKsZa_9NjayFVZzu1yqmnffCaSaAfynyA8geMWoAd5rfWlNcngOiL3AUaznfoBdKgOD8Ubx-g2DhKI8rlZ7TdsXnUijqDxnHe_qkAVUBIWr-Z3EExe40fQgaYmNLZU-f8_h8qcITa9mHM5R-6ujbRDR8SGB3SPiMO4_aXwhb_79HhT89u_-h0apTPy0D_nG6BE
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
-      - displayName: Darren O
-        uri: https://maps.google.com/maps/contrib/100890089579568517214
+      - displayName: John Francis Sapigao
+        uri: https://maps.google.com/maps/contrib/105307544017767692574
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJMWbe0n97ZukWZDYJqqur9FmauHWhj_6mlgC70jEloGTv9dmA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWxo2ZHP1t_oHu0BwzzCTqE709HcvGgKtBR5TFyNbiAD-nle5R4QQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfz7CE4wE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu0_uc1QE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfz7CE4wE!2e10!4m2!3m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu0_uc1QE!2e10!4m2!3m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f
   - name: >-
-      places/ChIJb4ZEeYoSAHwRf-Dv0zp15MY/photos/AeeoHcJo9HEYG6K8ITH8Vp_bTUch5LyoeX_VhwOndHLFLDW1sptfLrHpN32nRAhnARnhusrGWKV1mEzl8tAR6RI6WRDfdK9SE78Ye_tKJqCLfzhAh_c7tClsO-CBQyLHFdUboR7ZHrxZ5AciQkgr5tkO__esrtul1G5ovgbJcsPFv9ERXgneElMT0w9g_txiI1BOQW-eaRXeXJ77-s-1n-q7h_LisYsf8Kmo_Uk9pUS8FWjXS2jT0iwUw46g7IggT71MXwLp38QPQsL6B4tf11pvfdTCVnYFOE1_dJWXjQF2bL8mNhszgmT7gnwq5i0S8tih9yKEeRm5MVP9d7hGtgz1GvbEdmdUckuxbHQfjZnaa7EwbrEijNSfO5YdbtpL1Np8k38OKtdZwr8JBmbfhsjXCTlSw3TUdim0u3ZYUOXoEDnaRg
-    widthPx: 3072
-    heightPx: 4080
+      places/ChIJGyWJjcFtAHwRf8SPe8fuHBY/photos/AeeoHcKtqMkADzr8-l6tPeK07nNrLWlzlrRnhZnc4X8gQfUeIXnFgu5AJNYEJf2jGVtmFl_iOLq65XeXpmutYzaKsvbKsTDZsV4JTJ-S-C7qYD25HPBUH3b8483FGF_nLnCI6-ncmOSIZZrLKOc5y1K1VZFhhJELNtUsZZVRF_7rWyEpJOe-RMN_z--saWDKEDE3fsYxcLhncZPYtQI2MWJo3QjuO9xBbJrYHpgM9qr-JPnlxE5wW8RxDPwCZM-VRgPxWvD6dpuwo64icfzWWjYM_kZXFKyXWTOFv_OduegqHmIwCXF-zimRow6rsk6afPHmodnwXgzAflx0WsQo1daL68kAxPzjM-JKys3ZhfMP3B7E80hLhgaUIu81-gLZyYmKcr6si0EBc7Jy2WEmoy57dJfEPb4_z_4wioluNbXg9FAN-_xQ
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Chad
-        uri: https://maps.google.com/maps/contrib/115439652712834772208
+      - displayName: John Francis Sapigao
+        uri: https://maps.google.com/maps/contrib/105307544017767692574
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXWAh7IQ-37-_AjODh48YXAEZ6TbPmFAZUKwUFxDDDyeZFywwEF=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWxo2ZHP1t_oHu0BwzzCTqE709HcvGgKtBR5TFyNbiAD-nle5R4QQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC9q_XxUQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu0_uSnAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9q_XxUQ!2e10!4m2!3m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu0_uSnAE!2e10!4m2!3m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f
   - name: >-
-      places/ChIJb4ZEeYoSAHwRf-Dv0zp15MY/photos/AeeoHcL2E2xSe6u1XaB3iMTBD40kazjxUNBKqwZuOj2kUwyMidWicKDZ4aXITcX8A6DVqcIHE1InG-aRn-TS_tcdbsfHwPektNQDQO-0eI_QZpDGvEdf4x0kzRsaphwbHHLsx0z12_Dhf5fADTU__2HbPtXwnxVL5Ahit-Yy5ZAKoKqsB4AsXZ8PCUkdQEBm3OdClW45w5g4JuSmNJ4GO9ZO8cdU6J1XCG7UX3dbHLEyklZc9cEXe6T-ObIAuuv1YpVUWS_Ed0WyxsBj9ZPbId6Zlb498Y_c2iAsulGUJNynEo_qB53uP7eAFtgIDjgcoJHhONl8Mv1SvJvqATVKpqLEbA7kO9go2XWO0DOWc33wfpgX_q-4TaV4xKPKTKaGVLw9XOtu026vm4QULyL-1H3XI-jWF09EMaeu0V3-ENzZZxg
-    widthPx: 3024
+      places/ChIJGyWJjcFtAHwRf8SPe8fuHBY/photos/AeeoHcLBtiD00B8HwVwdHA_gKZyoRGGez3QKRGKh5db5qxI4C4ApPLlbSoOOEmeif2p_VQsNeO-l_cZF_gHN8FChQHu2NR-LWWkoDWHE9gnUT45_cywe_0W_WEDKzep4aLlXlrdiR_siqmS_4VyHKj7iDk_Dv3jAcwPa_ofRYoNwgc80Pe-N8CIsh9xvBOMKcX_RW-dZDcGrnBwuDWfzflXddu_O1ikZBiWmjY7yVgLKv5Idrc4_nOcg0KRrcHCsJNgdJIuY68s--cwHmmBUCffRjkMDXvgP-AdmI2Y8ZxKZMXjUHVimC6H6jVX34bOSZ-ZsWH07RciN5CwF3qlMraBhcXtCrIisqbA_P6z9qkZQFm5W3_GTMZ7NK2nnjwRiQzbRagk3b-Sdaa30YSQjRUn7D_WDVS0JJx8NfCSXl0CM-zNCaaA
+    widthPx: 1908
     heightPx: 4032
     authorAttributions:
-      - displayName: Krausey
-        uri: https://maps.google.com/maps/contrib/110647239084342571043
+      - displayName: keoni carroll
+        uri: https://maps.google.com/maps/contrib/111328833068317661288
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWVD5zur8HGRLpOwHjUdFBg9mSFZ0_S7IpM1Y74WCK2TAhYft05=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX-vjHr8YvDzsxpm_7eAnwRyrXYyO8HbNbQqXznnp0RO7muP6y8=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDF4e-TFQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICy4JTXiQE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDF4e-TFQ!2e10!4m2!3m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f
-  - name: >-
-      places/ChIJb4ZEeYoSAHwRf-Dv0zp15MY/photos/AeeoHcIPcsMUZgHf3A4PEaOMk5JYOCH4dXBtjP-MbMzH_UMseCePRgy_S5g0qJJKunZrJ__zpQFFC6S9iR3Swni16P0Gqyxavlzb1X7wDxv4pIZuvt6ALDwC8IOOMv3CAVgTj3UgNIpNEIcXv8k8xbx9huHJW5ZAgHUcMpzqUJXnB2gD4My674xmV34ROVctxfj4c9ndED1Tnv3DGXBVn22PXrHrfhW32-GgSsnF1ybfE3yrnsMoxD8gRnu-caMH0cDXWUDZ6Xzugeu7aN7doNTobv53heyPylC_UT656AZ5yAFanqZQXbAOvcr9xL7LvrzIgUSHSRnLI9K3lpc-Up4xeFIFBDETuI-1QsYlWP8VTDmAVXMxoWE5JT5-ZKbMldhw_BYYe2h2W69jtJixc2HdrhNbggC4EVZtWxaNrFiiUWree-fS
-    widthPx: 3600
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Patti King
-        uri: https://maps.google.com/maps/contrib/114966269013430591072
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVnoAdDveGg1dM1qXT1a5oCDpWzMEqXPDNj9UeU97qDMZ_1MO0=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkttWUnwE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkttWUnwE!2e10!4m2!3m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f
-  - name: >-
-      places/ChIJb4ZEeYoSAHwRf-Dv0zp15MY/photos/AeeoHcKFjVwl_o09SIKfE2ryazHZOGY9ZC_4uSZ93OBejET2NQBnMSTE08eKLuMo8sN-W_yia1r8Pccr3hxEhCpO42wc7vo9TWuUpE69guu-xN1WPWElRRjjQD078FCf0dfIxNQzh6XV6ro077zx6nBqvMOReL1xGZvBGfVzU_00S5P2rBMQfhezPE4FKAe1VwHwU6t9wFYjrwneI9U2J8icgDRKZM8KRMnC2jsaB4zvTwfvShlOM4S2Ed4cBarm8G62Yx7uFX2V84m3Xv01-BptMFf6W9YUgu8yiD_mtew3HcpU3YbSCyJTG-R552P7J9skkaNkPdKbbjTj6loZtSHMK8geUxuySY4l1qejs0NUbQe7-I-y4p-mZASzbeIRenQ4Qb3UZVpembPSD7Cx9sIO64Oncy9312Xdnmb9PIVSG2M
-    widthPx: 4032
-    heightPx: 1960
-    authorAttributions:
-      - displayName: Darren O
-        uri: https://maps.google.com/maps/contrib/100890089579568517214
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJMWbe0n97ZukWZDYJqqur9FmauHWhj_6mlgC70jEloGTv9dmA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID8v7DYcw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8v7DYcw!2e10!4m2!3m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f
-  - name: >-
-      places/ChIJb4ZEeYoSAHwRf-Dv0zp15MY/photos/AeeoHcJRMvzFk2SyqWdk_cx61qWhlisZg7f37lzUYID39A_dMPnZDzQq4v3eTjLYA6NcUIWiPzGACnIJj0JJIB6QzDx0Nd8EJOB02q87nK_iJm5RXJ92UuwIGk999Cxe5cUrgbJnkYz6v9j6Wqtf3bN0auUyrENXc6Ga0h4pdmUd4aIkkk4Uidp74iW-wN_kHFknuQKOi1vJNZfYCUYasaBbjVw-jJ7dTZNK9Dxvj9NenCnoGBdhzJRbttxwQ77hrF3P7BqdLmrSOj9Xmk8gGt2yt2xt7xhLruWKv4nq8AWE2bWB4FDeAAAagupedrEX3TXqTS2Ktx808l7IImoZbVtqYNC9Iy9WDL-MJdryyvDvkCXISJvuffgCupA-OhRRz71tBZP0Zri0ipaicTawxJvIYVVw0m76TLFFqZcC4f87YywH5Fie
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Hillary Juliette
-        uri: https://maps.google.com/maps/contrib/114935333525561047951
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXEIDLd7iRWCyYoVKlcYh1lNHIDdBhtu83omtRSZNNLGmrQ0xETfg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJ2Jeh5wE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJ2Jeh5wE!2e10!4m2!3m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f
-  - name: >-
-      places/ChIJb4ZEeYoSAHwRf-Dv0zp15MY/photos/AeeoHcKrIjd85tkYf7kpyVwNmuGfHXGdeOdhe85FTxU-NMv20RdW6OnoJqmWZTPo1tnLcKfm5kHIQ9I0N3YUxpp6QzAtKtNMxxczt8f3KLOOa0sn7essubUoRtlb4M7pVBXSn42j-0eGrxyvQfF0vRyPCZOAAiGmTG8O-xoHCOa8R9q3ViYM5qHDua5OUVvK1oJ31Ye3q7XB3ViBvlgRS9PdhmVbXDUiDoUtt30kGnQQdPxrOH_0Me3bnC1Mpq5UA-xd9x8wiCu0uOluZ0y3lVvvnawIWCrKQ8QzFpdj887omZeqa72s7TYKsfdKUleTFCXoCysYB3vL3DO_AeL1U_475gUc_3xu6f3bcUJfOaUcpxjkMXj0P8lu8m3wcn3JmfGe7n6q26Xy6Y7KHwjW1Y-y9TiOmwoiFl5Oz5ulfMfm9tVDAL9G
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Kash
-        uri: https://maps.google.com/maps/contrib/117832211790990177983
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIZ-HDLQirU6HJ3p4TTcXOBh63LVy55kzubZMxT-oHFerTkdoV7=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkxeSkjwE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkxeSkjwE!2e10!4m2!3m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f
-  - name: >-
-      places/ChIJb4ZEeYoSAHwRf-Dv0zp15MY/photos/AeeoHcKzNwB5U_SMZd77SkfdnclYaOrajh3GKBKtZG8LJOQDCBAcqAouW0VC1Hzg_upkr1e4Vi05s5SgHFugiP3x7nXYh0d-ksE1zRK63-PBwYyPPFbVMouTencx6a7FKXqnlG1FtNeDan8E6rJtD_zVIFOmD4b2OPBvMrDpC1jkY6MbvlQCDdrgA6qKQ1O9YmW7OmOL8zsZcm2IRdLmapa3PnLh2BM9dHh4XLFOl85uUo1PJ2X19tscZIwdBkPIQfCnH9vIYGNzzqsG4GsMJdFi4WIQfVa94Ymqaq9EcqraJ4OgvynibmDwdZShMfKI8e2vcKJdkCQbVZLjRiauDufzGSvICYk44OToIdTu7ahF5crB2YSeVYZfAjZAj0cOU2xGNA8K3AUHrxt8jYH-0ntndC1GwL71M1fLbGF_HIrX3EsY4kw
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Krausey
-        uri: https://maps.google.com/maps/contrib/110647239084342571043
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWVD5zur8HGRLpOwHjUdFBg9mSFZ0_S7IpM1Y74WCK2TAhYft05=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDF4e-T5QE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDF4e-T5QE!2e10!4m2!3m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f
-  - name: >-
-      places/ChIJb4ZEeYoSAHwRf-Dv0zp15MY/photos/AeeoHcLza5c-NutIG28fo7IW8Fdnuap3el2qI6IQuXmn2INJyzkXmRgaumD-O0iGTE1S7ovJcNz2EKD1xoIkyh45oHDvHT-kD6kyAMxjfa_qO746ALqpWFu1qpZiV-7nawDWKiEorzeIqyKh878yz5d_VVtZnx8m8voPXM6MY_6_sUN3rbymPhnUWCWqvvjY-qF4zFYga4af8es895NwREssyIbWKC4pQgo8cAy-KhtP0f0ZstGrDvu_XNVs_r2WTjgoqfdU4oK8wJ5WjKLcuDB1ntsQgm3QcEhgWyDaZQMLaB99uFuF9VIduqbCjfpZh_Vp77HhqPHkFchthQnI47mYU0_3SttJyAhz12J352CXEljdkNqVdnzxIHP9VEztRZLYgYlSCCzLvskLoIQHu0B7N5OIxL2y5TqdgHO4ydi3aTBmxfLJ
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Alan
-        uri: https://maps.google.com/maps/contrib/110737377439752127477
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKFi1D1Wt4DnuiikItUPNLj8J4Fx44uXSqz-9CiwbbN36ARKQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICs-bnM6QE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICs-bnM6QE!2e10!4m2!3m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f
-address: '333 Keahole St # 2C2, Honolulu, HI 96825, USA'
-street: '333 Keahole St # 2C2'
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICy4JTXiQE!2e10!4m2!3m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f
+address: 1249 Wilder Ave, Honolulu, HI 96822, USA
+street: 1249 Wilder Ave
 city: Honolulu
 state: HI
-zip: '96825'
+zip: '96822'
 country: USA
-neighborhood: Hawaii Kai
-latitude: '21.282982'
-longitude: '-157.710744'
+neighborhood: Makiki/Lower/ Punchbowl/Tantalus
+latitude: '21.305742'
+longitude: '-157.838644'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
 business_status: OPERATIONAL
-name: Sushiman
+name: SushiMan
 google_maps_links:
   directionsUri: >-
-    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x7c00128a7944866f:0xc6e4753ad3efe07f!3e0
-  placeUri: https://maps.google.com/?cid=14331708809724027007
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x7c006dc18d89251b:0x161ceec77b8fc47f!3e0
+  placeUri: https://maps.google.com/?cid=1593410908721235071
   writeAReviewUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c00128a7944866f:0xc6e4753ad3efe07f!12e1
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006dc18d89251b:0x161ceec77b8fc47f!12e1
   reviewsUri: >-
-    https://www.google.com/maps/place//data=!4m4!3m3!1s0x7c00128a7944866f:0xc6e4753ad3efe07f!9m1!1b1
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x7c006dc18d89251b:0x161ceec77b8fc47f!9m1!1b1
   photosUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c00128a7944866f:0xc6e4753ad3efe07f!10e5
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006dc18d89251b:0x161ceec77b8fc47f!10e5
 primary_type: Sushi Restaurant
 opening_hours:
   regular: null
@@ -205,6 +205,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Sushiman
 
 ---

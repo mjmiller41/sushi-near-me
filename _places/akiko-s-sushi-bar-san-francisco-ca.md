@@ -8,7 +8,7 @@ cityName: San Francisco
 place_id: ChIJjb7dfI6AhYARRxe1nASI1oY
 photos:
   - name: >-
-      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcJWJfOGfxbHWjPU3F15bBhxaUKgogxuqBnrGyJ-27Th_JbOdwpsmxvJ57omF-rlVcGWj9GqdwMWXxeEV7JMEPiPozouiW3NzposmMw2AWAgMhnMWUvo-OHh81H7TgjM3zHgF20TZ-33Qr-0G2tQ67QIiPfCx6fOSHhGbfW_E0cWNwi0Ulac-za4xwTs-9sAjHVu41JLd-edP-uRF-Hl9eRtGHLi0-RACGTps_1hDvEJ_x1haPzBnHZmpPqzBUah_ju-6RPHjOOwecxL0gRXEytcpvU-zUXqtaao00-s2rd65tTrpyvZM6TkFcDHWfgx84Xi0o46syklRwbDBEA9a4PtcuG7Sl43uV2Lt5sl3EVC6bob3Ez0A7MWM6LuGFKZWqaiwahXd6Y9Rul-oAElRXV3bMcofhDoIJeTRnn1A0Xd91x0
+      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcLtL4PhXYVoc0pz-wkWFyyLEFp4_cEk8cbJidVCs0FuaGJ2a-Ej3QZ47wf2kLy8I56rCiyValxLvlFqkDma-yzVqUtKdxT9TchHyiw7ozd_305wvAzvH4xMo5xjoJsNpWB_2OQKzrzsBDJD-0r_hJV2BmNqzRdDb9BLZP4KNlEs4ALUA8LC_4w92Y1aQAmgvWmXxgN2Ponk3eezhdlG7rGO6UYP_Y7IYidwpumrYezucJIRFfmlF_IhJVsxgL5xFqumIVLHOsAV_H7-giNs3RuRUBnrSAPEnI-qaHW1WudiiPBzJ05isvUNjZWhMDzf6X4u2SdQ1w4P03qqncvrfLJYx552P3t8EuMfsW9TEm2it0R1GlMmjtASGEg7ezckICTqdwRHI4nLfSpX2XLwBVfaM1L5y0BrxctoQ_W1xoqhG7O4
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -21,8 +21,8 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEh8vB6gE!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
   - name: >-
-      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcI3nGXZSyVO4XFo88bo3iuNqKCD_VTfAhgecTBV2J_sb4NhddQB3tXdk9zKM91JwT-lorGz4MRJRaPNaKmYmlvss4EiLnscziqQM8SM9jJE9fYt_G2ubwgBebb-nzMqF73MfaDQdxb8rG1ItAUPLsL5b1YvuOFiD0Uxo_TVIrMaN2t9Bgl6-tnqVa74qG_AHK0NvhnviPtItTPYd8-A-MajVKao5Wfk54HEwOgT6_4OPvE5Ci-b5AMb0AKpLk71EE3dRZ-XY6fv1hdT5UuNTxoemwgXfS-OGfG4W0BgA5LJAg
-    widthPx: 4032
+      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcIWyZLkIN0RJMxaNJ-4-uyotLOZJZ-fcOjrX73srqHLtcvgG3zb5JegBUo_l-yc6TsAvr_nXPP2GhbyqOAEkTEoISPz77dLQCXQRydu6P7iIeuTyjoZUx7Bik5owL_jatNDQr__rG6tG_qTNjCJfdGFU3nDoQpf9ii8w_SjonFgGdDcg1astFr8PqkglgqwnmM9sWeS-cBmZlEBhMoLphNgd6vx9yRJKX7cLB1z7mQ1h7raPz4bpnbu7NVXWhQI-vJjHne2sLFmOdxv4bE2qJmVlQT_V_HuIqzAMDRSiGmV9A
+    widthPx: 3025
     heightPx: 3024
     authorAttributions:
       - displayName: Akiko's Sushi Bar
@@ -30,11 +30,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjU3Uk1bmox7XCmiXHtFOjDockT2Xn-kVYGhzxk4AyZu31MfOM-s=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOBpL-SZThrqQ5KEyFV3krWWfyvPO7wL0qz4jWs&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNhfwrrK1ZviHCTM4r0cdMDd_EpZenOg6v1AlH7&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOBpL-SZThrqQ5KEyFV3krWWfyvPO7wL0qz4jWs!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNhfwrrK1ZviHCTM4r0cdMDd_EpZenOg6v1AlH7!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
   - name: >-
-      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcKI0AMGBwLCaadegclv4FuuiOvg9LxtTff9YiXIOZzvWj_diPTV4Aphp079S3hEJ1x5CkvQt1OGhNPeaecTsdfmIVspCMQyV4vEWm6U7yquUemfcmc-LS7sNP9WHqjERhyG60teuM7uS0T31O4-0EgpFLQkx3BpWOhcl5PEy8YYq7y0wa-37KTMOXPWVNAbM5V9XqYoaxs8OhR-NDLkdR0uYwiJgsW9NegGEcAMMIPRxkp_nhHjiXOGIqQbTz2ttg9ZosGrnAYrt5a3nsmEspcii49QkQe8m9Pv-TsMeYKA_Nn7PKICqk_6_VOhPnz4dQ-KlGEUKritDQox5RL6xwiQ4qbhECiCyZzLofJZMoHty_JJMS667PO2Id13wxyyOBAeua8heKvLs_W99efpYbVYNeT-053KbtIADyzAwv31CNeE
+      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcIReKvkOX98uRgwWELNCbKKSZLtAVuN8O-BZqcpnmSUhbkPAiRnK5VqWk78SWAKu_8ei3p_oFF9axK4zZb9tXVxHgka6blXLCXKrhptEB7FS37K1QNGhRWlqSYx50DPwG4lF8tY3Ve3JItVZIW-TuJyvBMf8j3sgqmZwT8jv4gVWo1XzZl21Oof5q8eN5LuYqnpW3Ayh1SviznAAzvt8GKYXe2DzSCzodbkx5_qD0LZJa0SvrvHf7tKDaG5znc19GHjPCV-ToJZ0DGfOVUePHab683kpkh9eC-r1w5no93cPymUmmDpy79tyyQs7EnOPKuJ9iPHpIsbRUeQTPa6--la6yDqNewI4nb7AFbroPudEMFN15tn29SPEq0rciUGwZxcYJd3bfEm9LYqeEaAzYXBpe_xZKVvqVO37E1Xyy019ABK
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQn82zvAE!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
   - name: >-
-      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcIZBwwaNUfegXkceUzNqgTa8ivzVtaBVR-0Bjufatc86ts9jZmWq_JC5CPCZca9vSZvZ1tVpggaewqWgXAfb2mDV6CZ9jttGPcspO4h_g0DGKObNzQ9csmvvdDe7VlxYMcsF_NJSqCz7JD0vEzzrRWfQLDnc9z4ql9Nf70n2Fq88ReU0EqRrY90dC7zgpZu7eDghNK_AHQRC5IEBxQHvvPWGJ7tUIBmgzr5qvX_ktS3dUqR5l6oyGdK-9rr_Ip4bDdDv-ZocRhdqWCNTgU3GVQKaA32k1bdXTWeG1jixZ3a8D1-OZEtMJEo91ZkL4DIQ1EIAA_8DXo9qxkniz2I02w290SJfLLr1-1dcbR_Pf6A9XneFsRoPc40YghO77XephWdn9X7CW-UqrQyQQ76-vxn1FZvq4pVrWp-MLw05kVGHuc
+      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcKIbKpdruF9vcbP3DOWgXimhPr2PWOoY7RhegPoQcOM9Gh3mmwnu55c3SIciRQLVza-dNTOOtAYVOgnFBPzLDXOtg09tTsoDTyEAFS2amXF1QLdGvpru488rtp5QAcQQVBhGp9cAGklN1sM6mvQqY7FMRhJ8exDCeXrO_qZ9ZUH2Gra_QwENPPmVdmKOoxwL_bU2Zm6B4B8ehTUzpSCPGtstvDxBW14vyM9Ek5Y0bVCSX5ugrZAKpt_UPGgCU5FFwHbJxEC5CccoTSHIMA9vQ87vXFjzWST9YFmgPHhMRHToLPmJk3qwjtWlSRsfPjJZ7-pH3CPviBce-A1swi_h_TiDzm_G495fJDJJLOM2eDP4nEcAQ_A-14sUUA8emiTK2aAI7b6WikgZGzqTDMfTFWObraNuRZFeuD16LjRv_Dq-54
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -60,20 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHt-et_gE!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
   - name: >-
-      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcIs-wSHLxuKtEutvpPWxuth390WTAYun2KmaRwUjQM-wILM9Vrls8wHThzJgwFeqzYLlKvOhLR_HDqNUF-yO4LHmF3wgxvAb9tlJRKgAWaURUFv89HC2FqAqKBm7L-l4WWXFYK4tNd1hYqNajC8XLiqbHZH4fkX3UmSjcDy_KXkIkai3zVGznGgnOyQDKQ9iW2FDLgjdrx8UFsQTXxF_vBahWNs1YAOKdBF6s9fXtCWa1sIFl2PCW88jguGTbHfrcvEJyVR4hpgsdPx9dRosY62kFbbeXfuY0lEp4RbLfpWbXFmCTOqzByOfbkrZiE5NQUPPMXgVVhvLjH7mQfFDxkVLnCbX7DpFKyFD91m4qCXO8XMzwmQtVfKkXQZggkffC5eRkIzOuvKrictNgPTxnpcViSYS97ESJ095hSkSrmeDQ
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Michael Beyer-Enke
-        uri: https://maps.google.com/maps/contrib/118246812298522541021
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJPEUeYDo7ODflkjHWsoFx60nm_csR5_NeBniYXH3uzADrvFg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ86uRTw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ86uRTw!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
-  - name: >-
-      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcIwUPaU4eOnYzSebFoRL0iIpk8nP0OeDpySc9t0c1SpevASVxZh7ZgVPe4H5XYPB8bnBKgQ0NJJUMWsWwbwO6dGrv1cEX7SmaCx2vzDlorikOPGhEMkhkD_7aFfQjSQhVPm9GGw0H6LVGa9eYRzWGfktcG_BZIJ55R-YcxnMtRqlyCuABx-W8QQM_u9IOsrLwKCwfAcxpYmWYYRInqPSmDgdtg1WpdWqHfTLCx8WFGU64sYv0ChVPSrjC74KGaBp1wn5Dmr7A2kE2jUa_5qmL9Cg_PbPP9ffhd2AcTNLxAKz5GJcfHnsBEoarLCoqyh2s-9wZqm5QANk_o5hKs4cmj0WhhBD3cWonulk7hKV_H49uIlZoUdwH_hez6bQdwFQ759L58B2Y5TrXfOYXUgmZqFgQ_kGzkRloejXn6ChSEJ-TM
+      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcIM3nQs4Lk8fI17a_hztWRGXMGzyTC1sHNt3q61kz6aMsog6V8KLEGT3KH57bi-96AZhnVvX0IcQneyFWCA4vKfWUuaxx9BccdadaYDnKfDAzRXhoeWII3nCmDO2TZ8cqmlVzFNDpfw_UpNEHVHGjyN_W2EBbdu28hwwc-zyAqbYvCI15MzCaTXxdTEYTmrzaIzquAFTlmB8He01zYg6vk_q2GAoe_Qg5hWUMqYzWyYDJfzZktdVQ6pSs2ZBuyEEy40shE9QzOa7_GPn7V_6tfQBtpVzV_GOjXsQ-yjkiDG2AnhhZzBSPXmTp4CR8evA7qJ2KblRAzOtaTK9EI_s9rgom1rat7_f3iBmyoqnT-W_0dTDz7Nyx-AQsR6qmhpmjx-mEJc2FRJzGA7RmfSVr-thFE3bvL2PuJn8t0zkUN6Jhs
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -86,20 +73,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3paDBzAE!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
   - name: >-
-      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcKeWgLBKZg87zrFlpvFJKOEp8d2K-P99PLfM2bZNKwZIeYKGTodiEghoUUK0VPNG_nLEfyPvxscKAxehktnsNnapckgRFP-lOsRKYSQgCG_VpDZZiiIUbG4PLeYbWKON4mrIL6Fyh2seVOtW0Du4Qa-VEdpmdXa5MMg2vSlvZQBxCmCICVLJuRhJ-XIJeZhxgD_SxSFPvON2RPYWCuyDY0yz9VtolUh_u3FGEP6KUf-HvHVIstmx7o3PZnjQzryCoFYUGrykyS5wexxBxEl0S3cwGhNr4S-w85De5oGL8aaxw
-    widthPx: 1600
-    heightPx: 901
+      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcJ9Qzeij9Lvwk7zt1JSysdJvpi0WkTciuNXFNqyZRNSps6VBvKRlIvD2fcy_sP2fQSaesKiFh-oT5KnDqnEJgUSm8-H-jj01-QnuxexS4v1wgVSvlQe-CZswN3uuq08ULMfSdPKTPpXIOtNk3kWR0VblUHQfUPOZg9Y4wgrtbXEBpmwJ2FzvyLhdEz_VpbJzW7jJLIwKi_PYxSp66aEF6UzvlS6tLRy2JgHgh2allD4fY430gKb9c6DgOwXbgcMITR60GR7GZ5GKul-6VWP-krXs88KE_42tFwSSiifGGzxCVRxu0Qji_Eya_oEFhA67Oz42eixlLCPLIzzjfmtjc4wFUef_sHoz1HZu97wrVvylt3ha0Crd4mJa7pAC9B9XxBUNxaxY2dRnJdSVTynWQtgOrEf9GfcRJTeFwYz9gljVLU1BNO4OxkJEo8IGw
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Akiko's Sushi Bar
-        uri: https://maps.google.com/maps/contrib/109424712804177819323
+      - displayName: Andriy Yesypenko
+        uri: https://maps.google.com/maps/contrib/101136413227835697104
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU3Uk1bmox7XCmiXHtFOjDockT2Xn-kVYGhzxk4AyZu31MfOM-s=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjV1mVy0lVFHzGxHY0FTpd2-7EEG0MxIuISbMZS4H_hQ68y0YiY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVHFnl0HXcLL8orDE9Lg_-EADaagPx4kHehDTe&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAIN0uGcjmSz2foU9UAALtJ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVHFnl0HXcLL8orDE9Lg_-EADaagPx4kHehDTe!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAIN0uGcjmSz2foU9UAALtJ!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
   - name: >-
-      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcKgRfGJmXlzysmDRlHnTl4HLMet__fn0FI1QrJhZqMS2WQ5Xe5CJUy1_9qdvxwyF9AecpR4bi_lQNc-59zHCZnHzjaPQea7UKGjQqLwB5rBts2hYvEVCC1F4mCKNboQSVtAMsh_QvlVefTalwPNTOaHkwR14O0pfUMPC3ZfLtF5bIFIc9kFappklz3yechHBdm7SqjTtGLLJNII2fUOlO6ImIZuhSwWdflhoG_uWbk_vmuXN_gHsASEHSAHjP3jkkJIkC855jidUgRcNGdO2S0RpS3jBjKxTUW20yJxycUsjNC7LG6nBpN-4KLhc5Xkgw1OL_fK9ITJQdBS8rfqu2ZBhsFUT5JoHVEYZmhQL4yBxo-pXQdetSSXn-G5z1la42k_pqaMTJjJKZ76A9ZiDoCMWxOT3yUN7efKvXZ7Kdrg5YzE
+      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcJuF-_whLgl_ORXttf60PMND61SoGL6RNDkUCojxtvKzt9cn3Fi7A7ASFKsx8smKqVHav24AKkq7ghpNjzqjFV1HRsMyQIunuzkUYyk6yF-EYI3QVEH7vFtOc1mSux8PolE06nUHwJ17fX-yJUT0cY4wl-hlWWofEnHJlcFFtJEdMPNjijLwGDnAtQ_s9UkWZY9H-11Sob_QRC5AYWNjSPEXnM78hjNchVQjTRG6f-DHhbeu1kmj5SzSc-js2J_igssEbUZPmsefYHRpkUpUjEuvOw2to8fEaVNNBF-nNDQGMzyPVWtqBcWbEEGavoyH5z378waUy52Pbdi5kg1O2L9FLnEumXfluokYnQaRYbNiMVK3lR36OOJYeGklIvyT8LBge36RwmCK1GUFCE-6-_pEksyn3T7uQxZIhl0BNXOea2t
     widthPx: 3024
     heightPx: 3024
     authorAttributions:
@@ -112,20 +99,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB96LN_gE!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
   - name: >-
-      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcJKTubZksBjufVPvyqjnRVqFtEjZqIfGsx7AbuIyuooH1rQjmancbon2IKQMbI9DqcJZtpfdlEnp5AeefQXuzoF0En5gUda62G8q8RhOB7OXu_djgL5RGa5UjRnnPlQBC4dumAK82LvEC9obPM7pEiMxFei0ZfRqkCmxAhSTEFwinuRR8Ed5tf_f3SV_BJcLE8S4X2cH-eEXKJuthQlefRgckg8nQY4BUScm7DKuA2kx2aJE9BOBJrAb9KwP2DatYo2qvXb7eduORgDk8CpiXk-f2ZCHeCajYOfWeFk-EPzTQ
-    widthPx: 4032
-    heightPx: 3024
+      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcI0EbXQdziyQ38vr08RoyOecyxNB20MkpVva1JqYGs1SW8rKJGzF7D8fr2cTtrHQyF7k_jPtqz4dn_sga3B0Hjk33Yi4Wu0nMF1t_3S9U_tXGFsTRjb1q301W49SoQ391lJDfqkfYbhl1eE8F4dE-H31ylwqj32qqIDYm_eYufCSnemfrhCebjk15PDNvQdgW_SAoQfLLCCqzVd3gstnFyrFBuTbFwO9fNsBx9iMeIQVo_HuEI1heG2j4RwuZ3gsDW2SNm6HwjGUt39yZ7hdOKLgVpZNHBLFxgi6lbjngwl1BqA7QcKr3iE70ulW8EIkSXosQIXSESzny7_IuV2vnTIDHUX-_snzzt1e5Njqhx6s_Ukw0xCynzg79pZvJuyA3J4E-4h-NGQGpjx8u5r9lRfMRaYsL8ov6uYgoNa67fWP_s
+    widthPx: 3072
+    heightPx: 4080
     authorAttributions:
-      - displayName: Akiko's Sushi Bar
-        uri: https://maps.google.com/maps/contrib/109424712804177819323
+      - displayName: Matteo Croce (teknoraver)
+        uri: https://maps.google.com/maps/contrib/104430952461136684006
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU3Uk1bmox7XCmiXHtFOjDockT2Xn-kVYGhzxk4AyZu31MfOM-s=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWLXf8P2MnCVX02ViQ0A0tRXirej1YrOVKSSMuAvgeQVr-l3UQicg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM_loGHj7C9o1K3LVRcpVD41i3uAw4taaZHf0WF&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPl4Kg8gE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM_loGHj7C9o1K3LVRcpVD41i3uAw4taaZHf0WF!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPl4Kg8gE!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
   - name: >-
-      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcIkQrYEmDK1709rODYIWAj6vB9VOtjRmWKFum-6CskkfurjyXN2kPOkuW1ff_Yb8a8Wxm-91ItqS9NOSH3kC0kDShl5hZdfLjNhVHs6T2OaAaq8ZnP9kXO_Npkq4DCe1Qq9QtJMLohbV5Ma7J2icPrBUE2E4mvt9I-yglk5Q2Z3taCA4L8fGV5LKYmEGW_wATLP5TnkTr6WnDvvpHaTcY3qp4bZQwIlv_Hr8xdjfVM0-9KjdGRuSvO_OEtSJdLQw5mT-g0qCx_KGOG8m0jo_-Sgi6fsyL3rlWEeL4KPfMBIFhnWhEraNXDm68EDHATpMxwap-oHaPRhhin2APSLmV9y7inL7ffI0kC_Y3Z4Uma6IGRkgycvnbID15_MIE0jh8y3TLgQbx0PrPJBa7fCht9M9HysaXEcwQQuBIsQM6j-UUum
+      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcK1nCjgB83PnqHjsZpOG7cD4DtcnIE1EKgTIAszjr5BrhV3gqV9LAKE8jAc6eN9fZdFwLSyl7Fx1GBeQKvF9fJ5bzjh-d5mddTSrzB2q-VIDJEZNORiHbWEznISXNcbQNbUKgQ4Ux9gfQF4ZE91dYQ6d8FvUXrKOW0edXBuR9p45gpUPhH7LdVVoAhqkUD8qtKUJlwNFKw4GO18TNZ5TLHeOpWI5FZTFSnkrrB6CKkk9NBKDW3bBKZmj-GkR0Wh8nt6ry_B1JyQ6UVokGuqGobz0O35GQjJHasEubZaEb1WmuGQ14bGxm8E3yqbFz14wjJozJIhs5r9U1fHRCh5ZJ1EU0CYBZtbuDgrbftyTlxYVEwM9EqKpDvSyVs1GToAMm45m2I1MOtS_rkD7SsYN8gG9qMJ3f490GzE0eDfNfKE2Q_w
     widthPx: 3697
     heightPx: 4800
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID39rfN9gE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID39rfN9gE!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
+  - name: >-
+      places/ChIJjb7dfI6AhYARRxe1nASI1oY/photos/AeeoHcJl7uErDjR0Wx2sKIydMwax5X6ixEnNlSsVGVkfKP_OU17i6r73WR-kfgR8p3jMbuVfVifx3smjiixsRFniFn0rmb3JG-MAhwNPymM0U7dOz7WcycYdgp1vJiYe0GLaFdD-hDVGDEmhHDdo4qCa7q-KyKcExtmk66D_jnevwO_rEZwbCCmNXkV7nRCdLCJoNbTXjiQekrtwTYQFQHmCizIbK-Ki_32qOhUfNT-B8pccoBgM7cbUm_N0Iv6nwoljsKQSeyzgw9j96WjXWMvVWWOsNN6eqw04Q3pSg4r5YPpEc4BGDGkOxyYNbp7nKBAcRE9ClYqkcvb1z28xnuktkQYlKH0mw0XzOQOr_bsE_TLUMWV01V3B1biZd_moQ1R_n-IyZ_U25In4I6QYnLMcjt-y2SBoLRAFau4t1AAZjX0goA
+    widthPx: 3786
+    heightPx: 2840
+    authorAttributions:
+      - displayName: Roee Adler
+        uri: https://maps.google.com/maps/contrib/108598363345189315612
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXlDbeB7Amxpz86tUkbY82tSVtjGBIhJHIoH9NWKy4OVeeMjNhU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT0PqjQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT0PqjQQ!2e10!4m2!3m1!1s0x8085808e7cddbe8d:0x86d688049cb51747
 address: 542A Mason St, San Francisco, CA 94102, USA
 street: 542A Mason St
 city: San Francisco
@@ -205,6 +205,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Akiko-s-Sushi-Bar
 
 ---

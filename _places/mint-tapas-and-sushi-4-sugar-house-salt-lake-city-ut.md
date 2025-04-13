@@ -8,7 +8,7 @@ cityName: Salt Lake City
 place_id: ChIJGYQNTjuLUocRi6bsorHNI1g
 photos:
   - name: >-
-      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcJ0m3A3IT5Bbxc2ASrR17ERoKYnJM8hEPkV41qncG9XnGSLVkyuyPbPet2pgC3aZWIKQvhHIYO9YI0RISoeCFO63WAu9unlJ65q7BfjI8Y_X3Nq77GI0ut6gfRe4ZYgFB518VLgSMD9T2oCBoq0uwzTW7J2TWJhggnQuGUwaM2fOcAauEmqYVSDnSrIj6q7ehJ8nMbjM0NthCzZxzk1d5rb6zLtqxGm51V0puEvpwaAp4XsLV80BAwo731dOgazFRNtQoD2AXAX1N9g7OXX2PI5k1ODze15gEamv2Z1OGIulA
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcK3jhnFG6x53cyg96ShXi3-3JGYrS7z36NL83e0TcQTK8NOBqY7A6jlJCoJc9lR-o17yV75zlG7loFhQ7iSS8vU_GZ4xc2MSsv3Eac6HkXzHoFsfJCXgolQecmBh7VUBhUuvNxl7AM6VjF0XoFtQPov9LWDxHVcZUT5Su6MSCMs1YKa-zqDdVIRToOapK9uNYNj5knJ8NdQiR4zSK27N3jtZK2qY5U1EUe-bAM5TtMbTieiT7lBYMU_3RIfCyBhXjQkM3Glv7sTsSLvgs4ndXn751mp_53a7HTpvVdCmZ7ilQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOmlpR2gx_ckD9681IBCpWYuet3P491SVldQ-E_!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
   - name: >-
-      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcJ3PENidKfhaaYcpekkLim4npJNnZwxFdPTCptJ4AtLPD8ZDs8xynfWrFaiU9qderpJPVqoO30lABCGfA11uwUKSzfh55X69DBLEzhGdhgT6JsBJjAVjNzVFmyxoLxJQkkZ3sFETzFN1nkeDncw__9_d40FPx8IksRlMqvJW8I9Ua-MRy4b65USnKyXB5AwdOUTgwpNcRji2uQXAto1zBLsL5vl09J1bqpCVS1CCCYYkcOjOrKFr_vx6sfO_GZlZT53iIjR6h021OrQJHwn9PbNGqc9x_6ScFkQ5ew1GgWwDg
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcKeL8JpJ3kv75-6Bai5n06T81Xw90veFPK75g9vG5eDFie3L1FcFMWjSMj3ail3zSx0CrayAUbGqhzbRpzmitWC9CDtt5KKGrIJdQ2NU0GiVD1M48tY49jG7eufapUGv_DVspYldfiZ3twHdnD1Xp8zb_cdyfVK3DxlNGDOD7YNQAf_wrKNQoF2MDlHUjALcH0QsXQqQ_1C043oAHMgBHmDh4KWFL1mAgBpXTwTlMm4e4kN32xy4MJ6XBlSnXL-9dlXmJYdy442Gr1GX86rQm8owscdcEy_WlfZypaStIi3bA
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -34,20 +34,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPYbkfkBWb9t_oes7BTsU1LQhDrxBDqvR_AUmkD!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
   - name: >-
-      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcI3wtQpjNpucgjX5F6jpvjcSkxycrXuy2WxvS81LDV_b72dVsvlMgroyRvpDLplU6jXV4khzLk-M4cT2DUcXp6hvwo-TeME_Z5F71gqxNpEH4e5obY4mSo8kStMXKp0w0AkRnmFFLAQqqL_UY5wikPb6HPT4a_ZmqUQ2KvK32fwbK52Uv1R4ltR0xv84gzkCFQHy5K9cjX4YVSrlE-7t8MgkQxXGCN9Lt-fXJpxEIqUMTwnnqinPYGBWRshyvJHK1ez1Hec-m-yM1KGn733oiWtKd5Dx2L4AVvWSBg7T0nkBg
-    widthPx: 4800
-    heightPx: 3600
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcI7kDXYVW0EaP6A46RKR_gRizDnHYPEk6aCQmG0gToXWME1Ovo9MjiZd_ZTReFtmqke1LeVM_eXjtWnT798qSDdvpLX_uW0Qellzp-V3biM6DdBsznHXltljjStXqJq9VGtBc7FjVBzFOGNTDqFgQcdvlYs8aoPuV_Fl8NTSf8uUHcwrOEoVGRehz4Ragjx6yiipevAFu2zy04F2gHiDKPssTa6MhVFqV5KYaDEdbdr-1O7E74kEJmutyBddgCWiRORt6e3ZsvwmaW464JyBj0p2idsFEMjtDDDZ1OPnFQBc0DWNAcDXVXk3RP6cqbr6v85XSHidFh85fGGqMwMAHiCv52v_A6Izol7iBhu41SqFf9s1p3pgZYvyVP9VG8pLgfCBhFLqASa1dwI5cLm30GikJqpVt4j1aWHi4iK-jWfdsIU
+    widthPx: 3543
+    heightPx: 2657
     authorAttributions:
-      - displayName: Mint Tapas and Sushi 4 (Sugar House)
-        uri: https://maps.google.com/maps/contrib/115852101695677638881
+      - displayName: Rachel Cyr
+        uri: https://maps.google.com/maps/contrib/110959567168735557986
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX7yXfPi-g3DjkRWpLmtYIPzDr9w92TZqcHE9q5BLLosRKlkp5E=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNgTHam-DQFTbp6kt9uON6WzPuemcS5Tuz_mDtV&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLvfbfxgE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNgTHam-DQFTbp6kt9uON6WzPuemcS5Tuz_mDtV!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLvfbfxgE!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
   - name: >-
-      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcIQCdZWdmyMa1vt3fQy8efKaXMuK75epzAZe55n-v05iVstMdBdaZpTc5BNRocAu2gdScT3AMPTiibusoVIqNvHmW26ETa7h-a5TWxbq8UTamOgnNmyXrWw3o4r2UxjAWOBqFWtwv5Mb3c6dvOjKLGt5jfD3P67MORt1MiEAnGOZuZP4LWXuBk9NFQGy_0ouZ4QlKIpLpkR0xLp4xfPU-fMGZavk-LdhabcTHIg5K6Lmo3UyhgFvbfRkp-NLqFcAuikDBnNk5HiuXGLr5t4jGS6VAOtsK8SKJTn7GXPP0f5PA
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcLanjJWBWpD-xAgnN21AaKLvcezF7THzP02q9lMEUS3WwD87y6i7U7DNsOGo1wIw_UO2HKY0mhNK5PAXnptaVRy6C_S028s2PIbksMsyfs9NeK0E2KxZfpFIBsJ9Md1U7FCXE7lCX8yBqzH05ZHiCj4xqNHiwj6FlFlKKLxckkhmJ6BRXCwgLeaiMfkB8gKxWXxRQuCaqX9Qff_dreqm4D4ZN7q1S6LCJkEHPw36zwkDyQK-QN611_pc75jdIA3JlPyHPrKGbktFgGKGxfpm1qVUm7jdTpowhXKMJ3OVb8yCQ
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -60,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVy5eK5jW5UcYy5zynf_hIykKiTG5kpnQROdwF!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
   - name: >-
-      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcI5bj0YKYdCMp_HuBlqkiBeMy-mBM43uXyhJZAHZqOKFChIoXNqW8wluMObEsJ4ffwdvHr8uaBfkcaCJHKdi3V-vm56-kIolEUwIfWo4veUuG1DabeP5MtBH3brBM0E9_SHrUT2SkNbwQIo3ui_W2nS38DUiPQPBtk3oGl8z-pWVH__fazPn9qLb6ZrK8mPhCy2-YVhltI1yKiBl4AEGro8c-lEU2zvt0_6Ss7pu7nPo03ty4GwveO_g0PR4-OZb8Zumzp_OB_ZbR91N8Zk_yZpbyLYndgF8vS8R_WjIFsHrg
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcJVptwwTokYcbk92O6XJnkHFfC6G_iFhD5pdA-Ttmxaky5dOooCDiDq-0RGRBbhBPjXDdNFzElQPq3d-NeVl7_4CXj0fKxKuZXWuKdpQ0gDNGnczdfr59_CwXlHZg0dZQWQoVHl21pxzoDgEOWe0qdnMh_caUBwmt36sJ0aDUZYDl79QNrSHaTk-zlYvTki08pEC3ZFdi0PhxxCckp3CM0gNMukMTAd7Gh9uSMkNWXyNIgHsoqDnUrefK7SiKx-zrUrqJna2f3AE3NykGEq5RnRwJos5liqX9kIO8BA76c69Q
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -69,11 +69,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMQwWI_EYfyXqfz3bVLZ3G_5CKqDBoeoSQAS9ix&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMLFeZW1u_fI36wOMLAuwSFH3JPJMq6mlC-pavu&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMQwWI_EYfyXqfz3bVLZ3G_5CKqDBoeoSQAS9ix!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMLFeZW1u_fI36wOMLAuwSFH3JPJMq6mlC-pavu!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
   - name: >-
-      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcJNEW2RPnq4_2xdTAUQ56N2kTI_vsY8SgbZL8eHd0KKYaZQiO3jgzqYaNNlfpM7lV3yf4bcMX_JuCEDGy2y2uT7opJ0F5o0CvHdtxtVIrvBj5p06bZRw_4eVO6lyImrghYuRP8O1SYMeTemAtzJzKbo2DHCC9zrWhvl6mBJG4C6pVLFOAZ7ObYZQ215U3o5MTJeluJ36ODXDmh3G2dLehtJh6KuRzgPj0eWzgXZY7GFW_0EKU30d6CV7YNMt81MujDes8z71ybWkYxYgtmonC9uSvyIyt6LLrH915xYvNercw
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcIkwRPXFttasXeN9TpFP9MJqcCzGPQrVlNSsesRda0VrTWlCrcDAJ7IknpCBFWg7UuVsUYp1jj5Nj8k2g3Vy3GbPTqHGSL57j80cNEFD6ch3R-lcoqBgPlDC6sF3CJaHtOjrV3VRpocy24hZkKIO10d635nX68BlNFh2eCaQV6mbxpX81ATuZoXgg3HCE-kU19ZH04zGotty-9r1p3e-yKaW5U6Vlv22Ud0Dj35pNYrH74jYWs5v0s7RytIIUx6CuJjo1k0P3r27-pVg03iJmNUgrEb-2MfvQXV3qZTxyuRVA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -86,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPc1-jS1rOPObkmjxRhOLI8ZgNNyymiOkTn6hLZ!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
   - name: >-
-      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcLfTieSQNJj1LdyVf2HMWhRnGEDiy4GnjbTnVKRSHhnVPgOkmDBTLfTruKOhuTkqGyDdVpRDdncsYOypm4WY-mvaxny1dI2KcaHdT3KguHon7zGqGXeGJgpBN4B70V2l1EfhW-9xMQat9lBnhc8WR5r5LDd-NLGygUSiEaMg6Dv47FXSQRSl2_DQaGuK6bSukPSj9jbVY4SlHhZ1IdDPv3YvwwuiI0o2lSGim8fimjUsBU3WOM0b-hsWKXacWlq4hj6TugH-nLLEMzgb7dJ1PqJfoPPW2yK1seq7zGEW3yppKK9wVR_l5umRy_EoulhWlVO6omtZ_CyHNL47sVxWH6L0lTD2jA4fn3ziWV4f3W9DbBF9pGa26tqM2e-vzrBGNtQy8ZBaEkjqM9wRAp_zk4qkV8bhk7OmF_92BNEdd1LPUrL
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcLT4pPrZy0ACNxm68OjC1zb3XW3-BkUho6PvvUbuG0nm6DkmiMt_MRTFD6wZETO6hkGpKTq8RbSW5AG2f4uBP3hnoIj5s-yOSTgYXByibpLqT1mzPvh4iTdD0oksiLu56ayZUVvXmbSEoLZpIOuYcWotYjgi2fnpB-gUHe7zTsbFmYsprhp-1eIh19LUSMblVBuPuDvHwJCQZ4bib-Vp_hvTj7ozBvO2pGtctu2hHWc0AYlymFAkhy02qUZQc7U9Kw6O-RqXJn1v6plCz489trjpuKpi7YX7Y8OlWsV_v-s9TUPjS8czYl5LJo8HWNvfKTIvkG42h3KCUe94CJcBr6H_jyWjQ5sQCGUYQqFY7MRfmWTJZcVp-1Mc-KVUrZ8DVoz8854UEXXoWjK159xKQMzTGGM-fFfU0Vm9uFY5dCZUXjD
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -99,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTg5WW-QE!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
   - name: >-
-      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcLZCv-Uo1kbP1LQe43-wQwW-hr0zuwt3tjhgNX61BOPzBmnILYQH46v-hBYPROHVtr-hchpUlxoItf_0aKOSLLvYs4faVOiap0pRh9HJViyJCRd-W9-kBqzECMMUUFC1XlNyXF2yyKa5ccJLXL0p8l-t126IUY60EKKPS5S3fCs8GG5ZHE3iMLSiEq6X1GxtJzyhEqWO4QnJY4G9mrl6QFwU6uP2vtRanz2p7RnVO9uQwQiHYIA_Dgyt6A8OjODhKYkgwkq38NKq__Ap1RsiZrI-tbeCPEi9zBtcdRPfaq8iA
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcKWv0ynrgucXXe_droBB10olb8QM7fvq1vE1v5hiJTMEf5i4JdgXJsat5bEF-6wyonoOE8f416OtbR7AjUrIsOd6r4bs8bBmfKWAo3znQI-r5oG3Qp5YQrRQda5uE6Vv6VY9bKY-Lz73gIy-Hpusi5w4PlJLn9cIIr_p7BiFVLTdO0V-AYye7fefTTvMBRS1wBWCsWHa03UYNQZXnN_sCWafFyglttn7x49YdFqME2eCpmui_ojmmPz650xKE-61Y5pSMovTlJWTJUlzb1NPZ-Iv7hTpliBzfyEJuxH2qfwkQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -112,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP3ZPA65qEYQFJV7-EnOG8x1vcWE2JO2yXArDI1!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
   - name: >-
-      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcIrk6eb0VF9XybxCZ77HYwf7sjSWrM6CVZjETPi9qn45pyVsGIAH9gs550i3Vx1vHRPIwBF0wVuU_pU4jchfC7NxzvnOw2KisMSzYI7Z6mIpCMvnowravR112Q5yYopbwCy5qKsZsTtmLV1lbEXCQ3DsFMIP9XviQXMiGxntQfx5i_L_6Ni0AMesnghlPh0KTBb2xoB2t_L9NaaZ4kP8X2Wbi9xSWV6p14qt_wNPX7zEev46Xp5rxRrIcIM6xe05KGUAy6HX31w2_pcWtaR9oxLPmH-8QNASvZEn-sep8hsnA
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcI6CC_x6l-mgkkCLowr1SdJ2fhTzhHx4jbskpD8tdsD4IpR7Hfc9Xzf0uscJUdpFdIM175dotqK1J5G7yZu-PgLY3B056D_If00lDWK8vA0D2kAaVN0XdGSHsikT13UaOehIkWLuG_XgV6YZa_FCPs7j3NBeb_qSkJQSHaY7CnGaKsr-ZmohVffjVTPtnO86ydEmJ4Bf3uveWz-4TpxY7tchXEalINOmEkw4HtvzfodN7t9lDwCJ9nIGjQ4j3LXQY5zk5gFl9-jfR-8BRwTb_TqmxONsSyDnBAZXkeHq8MjGA
     widthPx: 1024
     heightPx: 1536
     authorAttributions:
@@ -125,18 +125,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOzRBE54dbe1krA__T8BMOsgjgI9nSn6H3__pWd!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
   - name: >-
-      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcIObaw_MAUm5JMw9xudsSykh2MgUBOD5U1i0Z2vb2c5PglFmYYaTI3cwsmpVKF6MNkTOyk-x3CjH9lqNfE1UwmLTrfpmuKSUcEqq3xw9sbmDs3LReV4cK-i2oo3MantxyqharQxpdqhP1KRzCEcJWtmacRRLWZ1wbCY-89KE9owJPuaMRbGYaaWzrn7Vtf3cvtsfheBJROHGeq_jbLtz4aJ6iQe6dPRfJ7st0HU8t4tW8tVj46GPNa65IuEZFOS4Y8QZ5XchE-Jl1uaLz0lJcKYfzR1NWCwukeHyWgBMhy8bA
-    widthPx: 4800
-    heightPx: 3201
+      places/ChIJGYQNTjuLUocRi6bsorHNI1g/photos/AeeoHcJCDIatklAPQDh-h-6F8dzUKJiq1yGka9p-n2YXxqrdbNO84bYo7ymZqEj2nFCnEoqc-bOp3OxiXVjJo9hJ4p2h7MvLSRcHkiJSZu5OMYUSlFohZk3ANh0HLRnI7f5OJh3tVldPwPra6sZM5BUn4pFnniLYyHbJA6wlRqBRKRXqpbD3bduNt0ZQZYjeswEcSw4A3ox8qR156_0bD8U-yzengJYNPv8YeFytC5OlLJvf8ese9Lh-c69tKKpNu70oXoGgQgKCaOvFOvI0DQg-tf-YNyriwO9NXlbr297yCqEs0w
+    widthPx: 3288
+    heightPx: 4106
     authorAttributions:
       - displayName: Mint Tapas and Sushi 4 (Sugar House)
         uri: https://maps.google.com/maps/contrib/115852101695677638881
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUjfTu63Qi3bsnpNBj6yGkQC8OWD2rFAwaxv0bXHL5Wpx-Etds=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNaA-q8rZ_roxtrmezT4M6o6YR2AS_C8W3O5nFL&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN1funDZwnDkVGR__W3HR6gOG29aMhtR6tmo-As&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNaA-q8rZ_roxtrmezT4M6o6YR2AS_C8W3O5nFL!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN1funDZwnDkVGR__W3HR6gOG29aMhtR6tmo-As!2e10!4m2!3m1!1s0x87528b3b4e0d8419:0x5823cdb1a2eca68b
 address: 2121 S McClelland St ste 109, Salt Lake City, UT 84106, USA
 street: 2121 S McClelland St ste 109
 city: Salt Lake City
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Mint-Tapas-and-Sushi-4-Sugar-House
 
 ---

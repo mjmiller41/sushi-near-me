@@ -8,7 +8,7 @@ cityName: Tampa
 place_id: ChIJC3zJU9nDwogRwY_md-FwzSY
 photos:
   - name: >-
-      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcJUSZRa6GCMNDiQr0PAg72DOWN-M9pHSGa0ZsBQ-1uWvyh1cFULw3DOGodsNUsT0z70s_YD1C_V2DEmgqCOtsVy7BwGOYUZ0-FS_jJhOPbCF5wVBF8v5KIxK-bjdMsrXnqaAtqDmspJqeJgylRJtbK8wR3AkhALcSCLWhPUwIKQW6LC5uZ4u7pt_O-1tiaZMA8MPPxRmd5D6nKyI5v3SwEfyuC-BUrdbaargZFZ4nG8xXS9mFTdz6wzhX6QpLJlbvKfe5-7cXvP89Upg0V0V5lML7fgWRdTC-HXjB7vJBpDMwhHcI8QIYgpCJfUz2f9PKSfX1dc7ak3pSzO9XncRwe8PqConkIIerJcbbTp7-DenF95WqmxLMloBhmcSvRhVikQahZTiPZauCpWj4ja4URiAx6bmp_tZmUtmzZTSWYe1g
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcKRgWnqJZ4LZGdwjvAQsjdU09FM3CQJS_mwBf-WH-IcSM6UKSTb35IAJQJJ7Hb-pTXGQQ3WwnXHyReJloSA6h0DahQcDPZcXdNTVuW6fIQQPpXwI3KpmtHsiQGqRdB49TpUg2RJSZN5hdJZfVl1uGqKpAv43zO-mUNXXlEytu467mMGViz3fspYzdWX9Nq8Wke9GrI0XGe3ODhTkHp4zoHYybh7dXxMzMZ3hVoae1wo-ACqtudcH8auPB3jKspFEqWdm6WxAnemav2-cyQzlx5ZUmdqVlI7QWlgwt-hI4OZXU9mpxHrCURVsLhiT7zBox1bloOZsaiwuMGYTMhKe2mIKKvSwnhDNbHxnObkmGb3EwhrwQ3xg1vL0sdxq9LQ5j1YttccyQpNUa9IwgWZOXX1C7OVeYsJMWbidkSpKhe-Lw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk9ZW-Eg!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
   - name: >-
-      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcJRJQ0MOhW-laoz1PkQ7hWcftpt9GRT0wxZ9DuaqcB0aasgXeUo97cPT5kUDpUyT7qdF2WHqVUda6u5sXGauTXgkmxZwI_BYh2DFJNZoc0xCfjFTJdnI9DpxUWHznVV6BVIXVLWFznCH9zUbKqh-hy6qc20ZEmL6ViGwsBSaMwjLKu-3b2qBwwuqcZU5DQCxaFJu6o_5jBpM1QmWO-q-toRA9ApdV3a7ur618nUekpJfJywbCvGUHZiseK10rneygE5YBxVAt-DB1Ltav2J3WszsJBwVL9DMeeUdxtaEgtMg7_c8lArchBMps36HcVEp5gl6EEJtAoExpW2t7MHLKSeCvorjcfm9RWBGPScsbnchWneq_akkQI7X90DavrgKVzZbRGA9bD4guVb15d7K4Qo1KMR_fdg_LxyhtlLWLzTxcQ8
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcKnmxUci3t7auAdlxK1BAgKN-ucBlMh43z8beKgreIKhrQDGi0s2xymnVzKTW591wgXDvxkeJKSQPwBsb7YlwusgAYuyyqYQMu_k-2qUj7fd2P0Px7_qGDLgSc5YjbSGRsmwxZXCzZLbh5MSGllbUqfzyHGXEcqD3DETCPaUut5teoUknCciRhjGrL8_4sPgZcG2LOWV_BELpCBSqxWK6g5lmx1qI1Kx6e70-7mpSw4kw5_7RWDKmHEoD5v_6QHgtUA6Rfh247DhcLIXhnaQ8R0n0_poGTi8l6Fd2nb2erAwtY9Uu8YwX1VLuwWgZsTK68tLAjMz5vsMBt70wTpXPzUyznJH02LhRogN9kfYmpS95gxk6phkMGCakHnk22cwesdFPQjFndjIHq8t-uHDD_TTKjZ5nNabELu00XNmojsYJMP
     widthPx: 1080
     heightPx: 620
     authorAttributions:
@@ -34,46 +34,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAuMXSrAE!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
   - name: >-
-      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcLwwZ6hxPk0u0jGqYS3tM_YhAXErZnvCOJ4haPWuIWZjbds2vB8UcU0LQ0_HxPGiZZOw3-qSxZMznTTCU495-zUhNcCaQGebq3QNPwTwQ5oOx8YndkamxWNxFU3Br8HF3FIvksp8OE3Ut5ejrPfL9o1cToPNdaTNjOSyUfREPwPpuvnqQy2mhtkgifSBDpnEMmvjFuFDnMZgItdLslXo-CfoFQxiTnDCy4oHbjHjZenBzdVOyb2kDZWh2uNYv0qdM5W8zP-DLHB9RjRYPw3DFAONYOdqAaagpCoV7WgcPoD_tLqrmiMl5yvZmisE6jqC2ABOUuRoWXWsNpgm2wmgidb1KBIMbsncGjOYn_Fi0iYU39iPhHcvSDP3ia2t3DjoYQZ07e1rElm8ur9j0_xlUECSR7oK4KLXvZNRuj5hcytC_L9
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcIoHIquAplkobZyOdgn5PbLwkzvLNSH9mOi_xqaMneiZO6P21LgnU3iwsgcDdN-kGNsbBSXJzmuPOC2xHEDh8dpb4KgO420Pgy0aa39m-Dp9W1oqClhhWLRtpAhLupd9M6mAxBCnNRnQY-92N22pOfukFRfBJI6_HkC4QQzN93srm9w7Ud7gSar-1sA-MV3fa_AC0P0NiofSZgqOOfQfhqUdMUdhsLtcOklTQNsDHQCY6ED9pRV77oatXKVH_Gf0uzs3EXuO1UGZwnfTS_Y_mtSsDwcMRinv010koElg_pu94YcNpdouIWCVRVAzBnmAJ7RTeH9wWDyivlU8aHXslyUopgcV188l5vOaQr5SLzDztC-Wafcpt1hp0_I2X3LTltMIxfiy2DW3BtZeWCO5RLC1IPjeNFICLVqvo-93Lg
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Janel Walker
-        uri: https://maps.google.com/maps/contrib/112828306807336992841
+      - displayName: Chris and Tanya
+        uri: https://maps.google.com/maps/contrib/108188748406171883234
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWiOWFWQeEL3b3CsZf3_qOfsVyGfVgZ_GN3hKqLD5Hw0r7xAmxE=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVq8zuCRyFrSxYOMPUpXL27uQKW9Rb-eDlFZpIS4WOki90Igl06bg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb1I-ulAE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC1mNP-Uw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb1I-ulAE!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1mNP-Uw!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
   - name: >-
-      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcLfaI292drJxJUPehJ6MiR0qXcfb_Kh8vsjoFzLbNJ3RXeryGLqtu5rlaecmy4uCWVOxqg0w5vMhAai8_4Kb4spBe-MIKcMv9W_0BboZVAB7kL0GTRwodgEsFoajWCr6VQrsr1NoKIIu5SutRwDjeVN-bpqlhaJ0ZC24yAc996lKNnxaFhq_7ztmFy1p1rv5vPgLNaa4svJ1YWsTbYEi8KXoxyrk4m87JeXfHAic9M5oIYbaCwHIQ-hR8SEzFeGS8CljiEuUaEfmZVPL5wJ5p8zMc7yqcgbHu0zLld---Q3v4l5VlFxtTWdeTnR6cU_3ZD0B7QAa4tNTR12gLtJ4vugU-u3zAVB_5bbgvplRUb7Wc5hBD3ywApOPumNAknAekWjGwrWLowGkmE-xAhwYPKsx0K4NskgudxrM5aN5T0k0Q
-    widthPx: 2268
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Splaktv filmz
-        uri: https://maps.google.com/maps/contrib/116257449287089530495
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXpzoV-6fkuQqryJkQV0KjyEx93eGIEPEnWEy8JNfmazDMeG6sW=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICL49u3Bg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICL49u3Bg!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
-  - name: >-
-      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcI-wT3gFC41S9HgwupPNz1R_zO0sh8ctPOApuX3mLEidep0IzNtPPYp3PEqNG2OalxdVpkII_10NRjcJIJ5SDXu6PTx1I2RnySVTEMdofW3qwBROYn2QC20jmJn_9fJI0RUCoEFxg-xRdJJF1O19tNtfhV7SYdFwPlurWSjUPDgmYc0tpzth925GNq1SyUuOJSyrzaFcMpXUhcVYNA8PmG-kPYegobX3R8VRDLvLEUuIOY-dquJ67hKkGdJfo5r37Q1L1rBk0mZAqT0gvnaCSCnFS89vjuW834-WiJPPCbDhJ7T-QNI0y7bY-dlRwKm5MKR75w652Ni9COHp9Z5CN1DeWlGXO3l5AKMeCi3trH7S5Oc-hgZIv7puaII45YBfjm-7iFxjLY8C5lr2YxlIN77VbRkFzi-RVD9uwalGzu63iCb
-    widthPx: 4608
-    heightPx: 2112
-    authorAttributions:
-      - displayName: Alberto Gomez
-        uri: https://maps.google.com/maps/contrib/102371791405428292172
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVGqsEgUBBKQOZj7jitOIWfAIjmXsBNct-FZqu2trvdmmj4dQE=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDsqruRxgE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDsqruRxgE!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
-  - name: >-
-      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcITfRYqo3N7eL3CIGKDels-c-FtKHXaYtEPwjLhEsAFT2MLOadH-_w4DyQdt_l9kfutqZt0Zp2oi5BezHeNWHPst6QU9AaGDeBq2Qz5bXQ8TjpBN34WnWDZHrHzedhqpjeDxabdPb15f3z0-_UfhjC1fJGapYncegRfpLva9jydzhjcQmO2BSXqj11HVPYdSpfHqiJeMzmlyzZSD8xwrnwbrMW2hw7sjQZLFuxRHGqi_hJJbkAGRThLbze16TxGlNYJ4iLBm3aw5gGrW1eos4G7vvOzd3YkwZIKItdhOuq7xfrZGbgf5cUMOS8wghAPfFWqEwC9jDc3nlXWQWpbG3dqnpS2EjPeKHzSVzn0VNPcUHSaGXac1bGw3QazNRJdFI2YfeyAUdpx8IfNyyO4ga9EC8S1ZWP3WRTDghJvpJYsWk0L
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcKbPlEjbu90oImn4RdfPohR1qXV-kzQnrNlx4aDBWeFrOwyNyy--iamIZa9BKDdBobTXqYMa8mmaWoPNkbRLFGl-IS0h0vqhIFGf-AJ9fWTq8LnwHiOPQ3hVljVt1dKzYJN5UKpsFeYjnr2i5D1-pn02DgZ8Csv3tyo2Yv0Fe1TZ7oDnk4LgbV_b0-_rvTT68VuUH0K0jrbp-zSXOL8EDHvsI1XONPnPmJzmHjetT-FyZdoQ4isdmBA-p6gfIH2zr5K5JFSeGNs5lcdmV04TU6ramorZQNE9OmjWKbJok7K7CPmzzPmqg9WR76BobCdTSgbkIHsM--Rne_NT9LLrTBLicQ50iR-iJjEx1qqeeGSZZTdfgy0nzOsxKo965G9AlttfDQ54rMgnChSR5UEc9SZBVAz35yfA38sul9gnMCLVcf3
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -86,20 +60,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMmsfCwwE!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
   - name: >-
-      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcJVy0FNlAMlbNb8uFQ3v6XZcAE1xrOV2MO62gKr_LNi_5SSWC6gvTyiUCxlh4cZztuAy4gIJYv3xdjQoXA3c9WfKDvhtHm3ptL2zspC4VRE9BXXZpFD9Rh5uSTA4qAqIRzqf6gJVWsnrks-ou4G0ZxUJrBVyxUnLwM_mr5Ed0jI8HUvs2Mjx14QD7rLGHFUS10GoUhGyW0uLX83dumWB1E15f07Hz0iG-fK7f7E7h72Y528SEwiOtp7y_p_H_C7smYmN4J2-h6C9jErmqBnW5CNwsOQqQhUuBUvz0N6J7nUQSlCMu92a11pTNoShM5MgsZfxVx0kyVVwHA4kqN6UMJMdV974BgaMBm9nRK5xAeymiCVttaD82HT9W-2ntOd4L095yL8AaMuCQIDABB3E_NTxr1gD1MGJT7cfQ9kYfGzng
-    widthPx: 1440
-    heightPx: 1920
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcJRgE9Ur2mcGPQFKqv5WUgSPbSEl1OAUrNGwufGRE-zBPiMaELfhhmRpfQ3IG_X2cpGDGNTXOCyLe8jY2uOlON8ug91-ZZiIqIcEJykQ7rTotQefctLl3GxVE90iFoxEP0AxDnV8UQADHUVja7S4ph8gZhQ1DjSNCWbNzuQ3rVK4z7CtMH-UKYO4V6EfK8IjJTKHyKcSummZJFAwxuFJFrYZ1xQzqdUL30sdMtcn1Muw0JtLT2jjxIXL5zgMdMSkvKoHCzokP6AVAA0yBAJbrAYpHOkB1vexDGgNhBOH4jfuvS0WP1h07QGOyt8ZBv3yo8cewqyznbHl9PRXvU3vo9kBYlTknpTX-k5Tge5BLiKw75o6zrSmqwgHJ0eqa7Z8eHGObPu0ISQEFhQkNHWGa-CDn4y8OvmU7NFP9KQZtCnXw
+    widthPx: 4000
+    heightPx: 1848
     authorAttributions:
-      - displayName: Walter Juarez Lopez
-        uri: https://maps.google.com/maps/contrib/104080993770581143705
+      - displayName: Joan G. Aldama Zamora
+        uri: https://maps.google.com/maps/contrib/108450230738952897713
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUD-GzBYhHgRPhwH_clt2PmefGAeUk2x8QCIUGMbbqz8U_Nqor92A=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjU-YbkdprUJaP9gZeetDSaxODRijv5YNvgGSmKc6s2xSM1WGXKT=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPx4b3GA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvxqyjWg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPx4b3GA!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvxqyjWg!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
   - name: >-
-      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcLMTZqrWd4nrEBH5bmm18A_OwOshRsan5wHc4i811GMutIWtWhjSm8olCQi_SZOHqYvgYddp4zMTTLB2L5uXlMBibsIutNlcXNWoM_CxM7bPAlRm3_319O4qXddPawHSp_tcc3LbAfgBVCgTrGWx6AqoWKxWiDDi6CL2DhowVgh7MGZx1zBKF3twVl2Vk2CnhJiX4evNcKsfTxgxtm1zhytmYgAEgaSLAGK8kKcmAHLoB4eCN9Zr6_OkHfVFtsaErPr61ZLDeknlg28CbLVTI20OXZzGnru4Qieo3c9lNM3GjfCzi7LDYko6VVm-leNYs47uLkUbdyXBk2GcJde6Iz_3Y-KSnLsQDCt9glkTi3C-2mQSq85P84l3eQpRFMpf8kL-8ke_lQJQRQHQBkj2zgOXwOKAsGsf50jOuETx9JwwY18
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcIZ-U8OthKP9n-G0xY6K57fka_0SdNRkPTYJGchCF3SwOYMGvF1-EUeNCCkXUgIJonwalLdrduvet7sdLZZ0aJseE6Oi7-5pYDB_r5Gcwh354ZPZsGJ5RGYM3whXzOuicNxgd2d3dmdyyqg-zU2uqxq-hI-JWRtwyyQ7bO5VjgeE0eY0BbuEtSq92e38rS-V5kjHqZU4F3jtOHplc6IoVXfkzQ7g_Vj_k_L53ffmAF5KN5s91YweX0zlmRQ6-S6JAOFyChxn4lMGvQNlQVydN9ISyJRiKFaqZd5QqrFHykfE9yCCM2eCmgvZoDQzelbltJ2_v9F7UdTT2KnuzWRPzubnSmP6xIh2eW3nhQnRO1OesEAv5ChXktlTp5LXIhd37pc01OGxbw4ZJi640uQ9CFQ-Vjsa0C7XPaCOAxtGJxp2X49
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -112,20 +86,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG2ea2_QE!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
   - name: >-
-      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcI4NHLL7J3iFPYHKXE85742ey9VLm1qeL3fL5UJ92uMDq6zQ6PDQATTuacHa6yzOM89rXSoy3zhv7UkEj9a84J2vmdIglMsC2cRnE9hOvohM0Henvxd7ZzH4a1vQJn8Y0Z0XUk-H3Ql5_I-zg8tl1MONwZxTc-1STPHMNePiNirLpHImXRz6G48LsU1fMhBUfvNwhmChGvTW1NH3aaP-4He-qx85B1Yav4m7a5InkyzB5FER1r8Lrj4pagFStUdc9zJ1U7gj3qGs6jvYA1K3_GjxDmilwB4dcPdmQ5BnLagz1pwqOH4X4GJeK46JjGBypTTTaY2oC_b2vONVrAethgoZZttuMF9J0OK9Eu_jM2awmQ09mAyuwTgewt4IicBA6cuZz2N7nG05rRLl5Whe58DYUj2nHW5zrg603zXP_w3TA_G
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcJU_Ar7KpEzT-UhHKOiC_pZyoj-wqrykOKkprVzziEX3Cje-L7l_0j7XF3j2j1u_lNVH2AG4OrIBjY0O3_4o7pThl3z6GldhlUb9LxyaIyHVltU56piEMnxFELlh4dkKNQA7tmhVPEazFqL4G9SZWxgCbYmuFepLtj470RWSUuprFFoWLWTNnLDUnpvgQEcvILGPfl02kXIFRY-IEj0Xag0IZ3uJtxPo4EjxfCrIz3ngdbfsJ-BGb8VzuYlv5rQaob4JwryoyDTQyEQxWa09jczSMWuQxsYr3NaSkcz9hfVNAaU8LnkCzFwIfkwGaWKnxjrEPvCv5-J45G-9JNeLXrXPfvYu7AXdoHxfRTnuectvrrdlvzisvdyBxTvh8oyKNaUdyAHr2eyC8fzfauPS2R6itnT-SRc__GwRgenwtsEy7w
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Fady Abdelmalek
-        uri: https://maps.google.com/maps/contrib/111810466873756840998
+      - displayName: Vermont McDade
+        uri: https://maps.google.com/maps/contrib/111645353354727223142
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLexvN2Lh0uDBNCTw3dnt3UgPh2g6OYVk4AjY4vwq4mFLfi=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWRM9SAumvZDVEOdEL_5t6dwSeIfowEvKndUxWaovgxy2DSnEp7=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICVlt_d9AE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu_46PtgE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICVlt_d9AE!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu_46PtgE!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
   - name: >-
-      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcKD2AItSiZqY9O08Vxf3Sy1AmELcxrSMzOFwJDrPGCLedq5hnzo09h5q8Yq1uy27U8zjclgOBeDkmRsoX7yJFrbRsUgcbbkhz3zkgFnBjJHuzbbgP-rcGytg7J0HeUaDTJRnBdbEN87WbM6QO7Tk6URWHZOfTG6Ysv9oDuW_nyVFu-a4ifiW2JryBcJYclKbWfXUnwC_VrphbjaPURNEgIi4ongJc_RUodEFfpy1o90pBLs1ZMUz-Nki1bvAxCBkHkbVwutR9vRoPhXQz4wavgFfrIzbFDxhTFe20kIPwou3g7KeEKGw-cOP3MlUCcKOV1Z5uZYLnquweozK9rsLrG6PBughyjvZDROCZShBkE0jboHYHT0eio8SOpBCvpk1bE4w40M4Do5p0vifC2thoHGriahyPvjOOS0H6JhVqv4McQ
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcJPaHzY7RKOjkhXHo-ybdTCVpxafJOQC9mbr45GkonSR4h33KEFIYsnZFfy2IdyRBGYN4gAG9OjuYF6XbCNAbni8B88i0OPzl3x15ogtlcQZ1Jo2fyPX2imeI4l7iYziHVPCU-i3BcmKlIWjtijmxcBJ8FN4ZhQazGn-I_EgtBm7SRocHp3JcF8sK1Y6RRTnvt9wJza2r3ItYhg4C1AQdj0RNmG6UjuzdPCvrDGQEsW8VK3LaeWbB-QVHoA2-T1QkyuQFxZWPLBu5IB3rSh7oQr9mtlDCz31Ri8KpS_jVSZlw-3EwrHJkmNaDlQ82CTHT3Mkv2I-5tLGXDp4Zcq5ij_fEnoHgxCw3Zasf9tym1UFHUSxHzZXPiNxOs-pxsPGL0ERnV5f2smf4GBShwnKVGhg9iF0EwEejWc1tHDbPvU2CQ
     widthPx: 1848
     heightPx: 4000
     authorAttributions:
@@ -137,6 +111,32 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvxqyj6gE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvxqyj6gE!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+  - name: >-
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcJzwfxA0AM4jgJsVMY4hs3zgiLixCGie0D8_OHG3V-4LKHiFPNs_pa8eh1EUfQZp-7Dy2C7rbFmqoO05lhX7aqythn_XDzTJqGzAORo1YCQHB3s6GSMZT59HjlTOqgDnyWz-bWWanncLzYKaqePyCKFDLbkeUWmJheOKGUJ0JhNZWo9Ec-nK2PLVh56bE81AYMBq-jTCaHNgTwthnSaBZk2hIFzesT65hpwOsy0ZD2rr1O7Qfw01TCUUWKGNvGExLfq9c-LB2_5fdyyGKbRH9Q0h09_BSkKr5pc40MuvPJlAVyjAqeYr0gpxlv-2X9GyYm7hYowtVK2soAtEwhQX_4x_hvKSVI0Q5aaZlo0mK9wfrc1RQPsCh5vc0N1ADJFcSktDfkPRzZ1_peFCOOxslLp-VfUjwmB89tXJWYnxr1AUdm2
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: YA1000
+        uri: https://maps.google.com/maps/contrib/103863490874415062717
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVgKj3SiBYW2lAPgzuMut5tI9m3yY6TTBSCBLlPGwwVbxsDHCjc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDImKeV5QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDImKeV5QE!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+  - name: >-
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/photos/AeeoHcIIEkB53EQia4NYuF_xOu5G4JExL6esBw6DBz5G_TOKHG4Xiboo5vG1-ue6MF4Db61SlocDIzRcLGh6wN58fR2gdXYFU_FDCvuZTP0GnUM3LOcUey4PRZXfvn7ZJ3eQeQNBnlM1BPXClyA8VGSw1a6ExU2KNIP3uz0vAZEQH1OTBmfn7mmJXUGOBy7kMXRULoht2mSzRtbLCMi9GXW3CTVwDmn-YFU1b7KLV7R3CHgJlha9jzfWpCgu5_mJcTO3poxf-c1Z1MtXohiU09nE4mW-dbcipxWfXlbz9yeK9-sfutRGMjUzdsUUceIq-fBBfZh-3uhiLfCk5eAM34pyHLrE4LMoKrVinwoRV2Ct7814kXt-m7TAgh-Ajes4mgvRkTBs8FoAFRpGqhY4cFteEBZyCCzImA4JmAuo-8FjlZwOZBsM
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Fady Abdelmalek
+        uri: https://maps.google.com/maps/contrib/111810466873756840998
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLexvN2Lh0uDBNCTw3dnt3UgPh2g6OYVk4AjY4vwq4mFLfi=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICVlt_d9AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICVlt_d9AE!2e10!4m2!3m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
 address: 3615 W Hillsborough Ave, Tampa, FL 33614, USA
 street: 3615 W Hillsborough Ave
 city: Tampa
@@ -174,39 +174,185 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: 813.889.8898
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
-description: null
-reviews: null
-parking_options: null
-payment_options: null
+phone: (813) 878-2145
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 1112
+website: https://www.origamisushirestaurant.com/#/
+description: >-
+  Bare-bones sushi outfit offering creative & traditional rolls, plus other
+  Japanese eats.
+reviews:
+  - name: >-
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBdGVPWFpBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        Just received a delivered order.  The lettuce in the salad was old and
+        brown. The chicken in the chicken katsu was over cooked and dry. 
+        Basically this was awful. Ate it as very hungry. But do not recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        Just received a delivered order.  The lettuce in the salad was old and
+        brown. The chicken in the chicken katsu was over cooked and dry. 
+        Basically this was awful. Ate it as very hungry. But do not recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Nancy Arnold
+      uri: https://www.google.com/maps/contrib/118332121038545466335/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLH7qK2mZB7Y8DaTyi4HNzcJoOLgIpOwajycAoJGk-3xmf10A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-02T23:31:39.127778Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBdGVPWFpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBdGVPWFpBEAE!2m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+  - name: >-
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxd2NqUUhREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Me and my boyfriend have been getting our sushi from this location for
+        over the last year. We always enjoy our sushi and avacado bombs. My
+        favorite local sushi spot definitely worth the visit.
+      languageCode: en
+    originalText:
+      text: >-
+        Me and my boyfriend have been getting our sushi from this location for
+        over the last year. We always enjoy our sushi and avacado bombs. My
+        favorite local sushi spot definitely worth the visit.
+      languageCode: en
+    authorAttribution:
+      displayName: Kimce Byrd
+      uri: https://www.google.com/maps/contrib/107140609046865039660/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIP7v5ntmXtLlS91flERYP4ori8PS20ie_f630KpgdUYNaDyw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-29T18:59:33.134657Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNxd2NqUUhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxd2NqUUhREAE!2m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+  - name: >-
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJb3VUNVNBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Great service and even more great food. This place does not disappoint.
+        If you're starving though it's good to know ahead of time that the
+        portions are a bit small if you're looking for something that's gonna
+        stick.
+      languageCode: en
+    originalText:
+      text: >-
+        Great service and even more great food. This place does not disappoint.
+        If you're starving though it's good to know ahead of time that the
+        portions are a bit small if you're looking for something that's gonna
+        stick.
+      languageCode: en
+    authorAttribution:
+      displayName: LaToya Shies
+      uri: https://www.google.com/maps/contrib/115972735659323431503/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVaDsKk3axMJQ_1Om9pahbCA1li8JBSBimGiBoFZATiCC58Yuga=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-31T13:45:32.746764Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJb3VUNVNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJb3VUNVNBEAE!2m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+  - name: >-
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2eHF5aktnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I love the place, the attention and the food 10/10 The place always has
+        a quiet atmosphere.
+      languageCode: en
+    originalText:
+      text: >-
+        I love the place, the attention and the food 10/10 The place always has
+        a quiet atmosphere.
+      languageCode: en
+    authorAttribution:
+      displayName: Joan G. Aldama Zamora
+      uri: https://www.google.com/maps/contrib/108450230738952897713/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-YbkdprUJaP9gZeetDSaxODRijv5YNvgGSmKc6s2xSM1WGXKT=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-20T01:49:43.794395Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2eHF5aktnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2eHF5aktnEAE!2m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+  - name: >-
+      places/ChIJC3zJU9nDwogRwY_md-FwzSY/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxbU5QLW93RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Origami Sushi is AMAZING! Drinks were from bottles, not fountains. The
+        specialty rolls are fantastic and creative. Our service was fast and
+        super-friendly. Everything we had was delicious. They use very fresh
+        ingredients. Dishes are masterfully created with great attention to
+        detail. They offer a nice selection for kids on the kids' menu, too,
+        like chicken nuggets. Overall, we had a great time dining here. We will
+        be back soon.
+      languageCode: en
+    originalText:
+      text: >-
+        Origami Sushi is AMAZING! Drinks were from bottles, not fountains. The
+        specialty rolls are fantastic and creative. Our service was fast and
+        super-friendly. Everything we had was delicious. They use very fresh
+        ingredients. Dishes are masterfully created with great attention to
+        detail. They offer a nice selection for kids on the kids' menu, too,
+        like chicken nuggets. Overall, we had a great time dining here. We will
+        be back soon.
+      languageCode: en
+    authorAttribution:
+      displayName: Chris and Tanya
+      uri: https://www.google.com/maps/contrib/108188748406171883234/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVq8zuCRyFrSxYOMPUpXL27uQKW9Rb-eDlFZpIS4WOki90Igl06bg=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2023-12-22T04:35:58.705611Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxbU5QLW93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxbU5QLW93RRAB!2m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-slug: Origami-Sushi
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
 
 ---

@@ -8,7 +8,7 @@ cityName: Midland
 place_id: ChIJI8zWVsTVI4gRX3MVAHPiSp4
 photos:
   - name: >-
-      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AUy1YQ3eq3yPHKU2w2N9Y_5xRquoRYbx6ZXl0_7cnvK4JK7ESzDMiuZqF4mlcQvn5kbCGOFHhkQJ9ijc-HWR9al8VthDKSpTJGHCVUHDOU_gRq0BBH-SEzm9MC21TlJ2shQwhBhVtHOz97ttTU9X0C7VjnPAVKXYPay1U9zy5ccgPI6pJ2xrqWw1ZPLFy3K0eZZ-BUlaueLS4aWurmNMZYmgTgWU5OCqKxx9KJ4rSiJL9TaBzNj_jBUBbn7uvAT1SKUnSMUh0c5CzFUpnJADVT2OpxtMtfzGKsaaigSKKj9A1xbaSw
+      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AeeoHcIAe4p1DkGzO2lEvvgIZWw09xFsIvAtBkPF34tHAm63bTKXx3Jmn6vMB1V9SjK8W6gKvwwfVBm6_kaKAfezv6xnYqtcOIGmoYo5a7SqR3L0jT3YZ4H5Z7Q5_m3QSYmfNbHpyvWIgCHNGpSHgRkM6H9Lqg7MIxfOaRpBwk6yDy-JmusYQRw770cR6McfZbHW5Ef8wXqvXzbbCMCP5dg-ETdz0GyFBHn8fyybPl9AxqnENbEntmQDVtEKpqFlV_wZ9JEKufqf5ixLws8rtjohtkDXY4BErwE5KSiacBIJDbAtgg
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO-X7tVkAFPGDSWN7eKJZiTybORHNVF57gWQ4I3!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
   - name: >-
-      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AUy1YQ1MRSoyqrosBSt7vdxYAXHBtE47mrpTGbX5-6J6C7FxfVhFAJQmRCoutxiapJuDDtCT1aVOfj_w5iBIUXaGzyvcPH4nYAw4UVzVP3YNdW9xQzsYXvM6rxWe2NeCBtX3FJGZVOhp05y5OmOY1VkZIE3-Xmvn_rFHUQ7fY26CGTG-08hDgYc8ooiQx3mjqyOrOwEubBh9QHI1ar5ZECvHXfbuFqK1YK_x4G8pGVor6dkj28Uu8UIIeTemdoylmMBNsp9kzjkD3j-lEfT3e1x_2p-XIWrHkuBLXHofGi-MCmXzVA
+      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AeeoHcLNjVSSJD0bEawLV4hy-hN4vaL2VXDl0YYactngI8iCZaSbvTm9DrZ4oZUOQBRYHF49_l4Pnb9QiTO96rNPYoD9pM0VaP03PEsDziCYxslAh2UzacKjgC6TqX-Br_-jXzm9ctsESOFV2pNCsLbsb_fp9vsgpnb1u6Lqhh6XYxk6ImTPv-uZKSX7Y9w7ltQhhwgMnHTNvQGFYSw4bkxVbs6s1FWXHF9WpCeG-AEoboMPg7Ql5H5F8R0E0DJ4frSSHzXlcVNKtAfebfCgQAW-YK-U6ulQ0Uv8fUjLoGVOEanWFg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -30,11 +30,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWG_GOhsWLIpuE0Wiagv7hn_8hUtabYJMSCNjjkLTGzhEDWfUg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPxc0-JzIZKKBERpm6Nx5kdIWjmau8cxX3MBf5i&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPhqWMZ8WJrJWNwUcFCc5yHLgi6C4AFC_J3obXs&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPxc0-JzIZKKBERpm6Nx5kdIWjmau8cxX3MBf5i!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPhqWMZ8WJrJWNwUcFCc5yHLgi6C4AFC_J3obXs!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
   - name: >-
-      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AUy1YQ2gKJPpqXiw-8XH4NpdV4c0XTgidSsnhABTB3yeCjdpRuq5nF0AADnceVt_I6tZtWwkfi4ssw2XZ6ye7A2KNzDO6-k3Iw5VA64a-nIZMAmcAjrZnjnJu61DPIj7N1zcfyqnG6P0mQIQZJGFSL6nOQwSItAv_3zwA2t_EqEzbA969cXF_n66N2R_4DpOzGK8CFjdyxnROcKnCiK2bKxcV64qdM62Gab_yXLhoFZrN0WQZqNxx5SbEUKF-9kyoXKQJHawJgVounYsnRyCzqxa23na36WzqDPrxr9YbadPn_Vmsw
+      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AeeoHcJWkjAuR2xWn1bD9Vf0GDm_NB7TnHW11dCva3EIeF0zKnoGfStAQ9p-NSBKMv0g0uPEc_kiEfHzd-Wn-FhgeaZDDX-94JoYzbgU56U6DvQmw6ZVMmJfkbT_7NJvsofJLJD0iOJ546xeMJltHNTP3-OBqIpYxQBbdT55z98NB_M7f3cjJpn20Sgy2YbPjqe7reEfS1be6irwR5GwJ3A-PartOcpLsudrzd-xhuOxthoEnBFMVRJLTE9K4nBr0KJ0pmE_Wc52qvTlEIERxVwUciQ_r8BeOQkJkCXsbsSTZRTi9g
     widthPx: 2172
     heightPx: 1667
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMK3qmnjeTXQi1PgZegTJkvxdMJmWNdg86cGi49!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
   - name: >-
-      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AUy1YQ2eN9o9lWWm_9-rLuGn8FKq9mKqG9LOcE3ynEL4XJvsCZGo33WwmGIno1HFIdvroMHY-U8WBwHP3W7s7M9l5GZeymB3iT4ax1hQ8h9NLF86tDZHY0RgauUreD0cQFbZZxzPVHG72LTR_veTsugWzAKSwMb4XQ7VYh9DUnucpH32h-L-jVDrvRoRMO9h8-5fH1MnWpgDkCUlnKZneRiRmNU4Lo7e91-4vTV5J0MftcRFfs7Di05-DeAcrLGDsbaZmfpCEzusKBiXj1lU1EnmWxlebvBNLO4wvyN1oGxSby8zLg
+      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AeeoHcKunLrL7aDRV54S5bICvCuKZJ2f09tgljSCDZlLGf1x3uKUa4UeiEW3wW9fias09MFst84FSFeRzWxnpMs_mMDUT4hHHRlLEIbKEgEGD5UQ0OHppElywhZpnOggqTNfFqnKsobaea0LureusvZQV3o1yurjw6YC-hslp1g71Lz3BvscsELBcvvolDXiwNRMesAzSMNXWhZptPsOjihLWY6a0crXIrpvOHdPy5ozwk_l9CkRLrCoKxARlOG3vHHGI-_5LF62UWSpXMe3wdl0c7GPrnEcKq1xaO78yKeU3W_KzA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -60,33 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNz12wbr01R2wMWMNiZMNXrKTBhYaW92xaNG9pI!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
   - name: >-
-      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AUy1YQ1q24tjVe8a68l5eO9j8MLYabsxjiJzCwkBVbh1Hvtx8bLVp1OSLqwRQMU7kt_N8R7DNgX_kb1aATzdER6sdCYct49MIWoCN6gYNdy_xb2wQXWSjhZABEChPNqMfnLgbOfLyTTa2xZ54m1rGfmYtnXkrRgzlQ0XbQn5dlzSS_J7rf8RjY94c4jde-uzlzR4-Je8_LzTqmD2XYua4JCoqmeJfOpnlD5mpUykqphwpVhB8bxfchGESOIwnU9VcYxYlX9KJERTVGxtVX8GzFbv_HE2cE_GDmxeZ1mudPKtjLrG9w
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Sushi Remix - Midland
-        uri: https://maps.google.com/maps/contrib/107501385244126578691
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWG_GOhsWLIpuE0Wiagv7hn_8hUtabYJMSCNjjkLTGzhEDWfUg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN3-QkVlj6x5NAHyCmPSOv_UNMbue9PEGhfGK9g&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN3-QkVlj6x5NAHyCmPSOv_UNMbue9PEGhfGK9g!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
-  - name: >-
-      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AUy1YQ3Ydb04xYKsgrfqs8jErcP0nbBBSgyKLx81DTQyiP1n5Vtj1jgf1jrBT0MR70GN5eXsqDOsX5biDeOH9v6uJrUKeY_VK57Bq3xZ49MxMvsXIkApmq67UwQwq3DilKJikeQAa1XKHf4hJezmu99LuQuFxDu1t_zpi1iODSxm-Eg_Qu017gKGqYBPWpS6J-J7IAI81D-w_2PJ5OyL3vbx0EmIUQMdXJ4afXnNyRsIq74CNRmdnRtXE6I0Ml1zOcsFVkY8I8ZIr-XlVNFIUOeNJWZ1bCSDi9EqVVdWAWXbim1cAVEMDeqF_FNlOLhI_wXFoB1bcrhxUMLfNFTVZU_yrFtQS08z4Vcfs5Egsfiaf1q3mjVBQcuOGnO0WXNjs71srQUbaWFk5FYpfbdTBah7pvzKHD10TX1SH3iZZZS66vMTYIBF
-    widthPx: 3600
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Azfar Akram
-        uri: https://maps.google.com/maps/contrib/114032686558708486369
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXO6QIFbo_aS0FahHhoAJI9-rdgqGbRWBhul-fqTNcxzH0RjTru=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAkpbLsgE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAkpbLsgE!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
-  - name: >-
-      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AUy1YQ1ecNrcvp7uvSPYVU2fB8FXCnBzR84ge8xzlJXmNV7nsCvuz7L-3aZkCtKEjSm7lKB5pmmBcnCuddmko4jjhB86erLw19BaMNqNtYapf_vLmU9shnen2Cuq7atXQwZK5BBDsAdyBklihu1yOx0nh11vpQVpky9ACvM2lB4lbL54jW5GABxgmep1LIIhqZncpl_Em6tCXUIw3jZs5k5dvAMi68OQLmWcrj9o2CyaetktNweyE0FbAZ7gPfUvS9GcO529YMi7d6lNTHwZN5DGr15YdzXYwlHgYqx-q6iaN9y-xiB1vz1-B_RP_6-y0RQeHhSdvepi8jueV9tY7bKuGohX6PirsHToGypisOB4H13pFh1t8ERzs-dPRQN2hBQpwq6fyejbToz2XSCjqcl9x8aSXSM_4jqK1JXJknnXC12_XpRy
+      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AeeoHcLAn-bYfxolNvQ-0DgRGP3VseEN_PF_76zKzr2bjNohLGOVhGWa3u9si-D4i2xz4eZkHWxBxbHuzK8ihP8I8cgDgJjXmkTHgY-0LED7zoHF8p9uLMlu0ssycTN54vSTUO2It1bTon0186dhXjUtsCgPzSrUQMCp_rd7YHI5X4jYpTf8oTikfG6aNMznBjvipGiIpXQn8JRAZkSCX7kEK5I8UH-j5oz2mT7IdZ7NxNdo0dPVl8mG2XHxGAaOAyuFB_V7i4aYPWtD6cebus4p9K7AFBLHwnoLp8VXZeuPpZuEfVYQbnM_R6DsbSgC5hw3ZK-thlO-mSyRXktHdAgAO1jInXUfgDZkSG_xEqAvh9g73_QLsD0x649nT-idzOJPvJeoK3MECPmUj20GeIrxdIjLRqkIICNdMWjUMgwGy_MXYRfA
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -99,7 +73,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXtKzK0wE!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
   - name: >-
-      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AUy1YQ3myw4eYPdWXZ1BepZvdPn4jzrHrBmPi8cKrdEgEGirNhtvmPWeEBYitBsNRN8wJZCOvbDpRIb6rnlUyNwV6e1ghKYOlaCtlHyjJw4VFTqVbzB0yXwd8442uGVJ94MEJv9SXLKBzh04IoVeW31QCQ8MOCdKjOAMtx4zpKccVZbk4UzEwMGSjLIcF512JyyAajO9InTo1ZcxqTNiL59H_GObodx5y64oMMDgCaznrit4iVIN6yYeJJLfhb9GfRap0vacMa3K-BMfAEoeqy1dxu4wuoCVcPf_BmCiHAaZ856621HFAnfbOeR-kBsXjoLwZhUeIBNoARb-hKNvQLWzNacOXR9hctJ4USiNqz-zQS4wgvDHJ_fJMGLhFWKaIlgxYARzY1Aj44Arwam3094nRQi8KvcWwbKE7yfzR9dPf2Tg-DB2
+      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AeeoHcJN45fRISayKdakOtOGUuKBkil9uk-a6aQ3yO1C12tFjPLA9aXbVETzFRmdRGmPk9ZvONSf5d4nh91L4-cORCRqepXI4ePzXK1S-24jjdVRmshxip8WpNlV4aNRQDiF2Jrt-x-Ym4sKVnDULXU72MXajswaQNonXBGhRvO-VM2JPia_CPeqTgp435EyQ82Fymo0OviUG-oouN-nmaDNDhw0C5QfyvJNSGpH7PaQBOPrS2TwijjrLYApkRH4bybQyH5fJh7tUVxAKRe7hQO4JSQkGwGt32Lk4BxvvrJyXytk-Z46Fxcyzo2ooIWcRcTPSno8lZ05MMhWsw1FlYL_mGzN01Yd-knZ5g05fe6VE3cxX_h5J1YOuCzPfrPci0WYiyqdiU-ojeQ3gJucIkEECOrhmP7x-yEhpSUmt4Xp14bSnZHV
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Azfar Akram
+        uri: https://maps.google.com/maps/contrib/114032686558708486369
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXO6QIFbo_aS0FahHhoAJI9-rdgqGbRWBhul-fqTNcxzH0RjTru=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAkpbLsgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAkpbLsgE!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
+  - name: >-
+      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AeeoHcJ8EDq5SvoyziqKvPeVOoznKMgTocBiMX7QgjraiwORig-8toP9HY4SssDQjNl7P8Pbyuemy0FjG5cuEKbjbzJvcTvJP3dYyXIevoLxj9gyk1C3BymBY3J5BLbCAv5jSViSIFA22tcrYYQ3JD1FcOpWuPpCUJ8cRFZKP7-_rAisKBSY4B-xXc-s3fNnYx6fqdGAkufrOqUwW8cA-6ZZSgI5vX_lXAx_dG-1MDFFF4ev8qycANWO-lcj-AxFGSVB1Gar-eCVeTm5oSt3AHBxaMGlNMiTYbitdbySgrL-VZDY0BdMiRAqDJ9NNcfQxHINy2Ev7TiT-7YGb1gjsdWfz_Igh3UE_Ik-fZmsgPV1BZ1FkzYEypbXkIV43lTrh3C-e2cD0_9v9mbQLA2THoMcsa7loU07h9wm3mduhhHutu7_Vjef
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -112,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID35ZKWhQE!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
   - name: >-
-      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AUy1YQ2O_7COWe1qD3SJX1T-qcXy1IHYXB1djxmfzjhgk-WJFWb5m5unPL-OxwysxZNN-rcYjDaDUk4x5PROcob-HeTK60hUtpzYOWNP8ZiiCVamx1s5hxupg8hoD6yfr4r1sf0fdFvS6KKE9j0N2yzNJ5oidb_hTzDRoky_rxMxhOS_nkY1qAuR59Fdv-ErfSRNsp53Gwqp1IOiaJ15pp48cctJp3eLhYI10_v5YW34xbRpEn_OMrS3C-lZ2k0SaroDd1ZLdzf4tBWiD_RcKAd2zd_3Q5n6y5YE2idRoLduoLMbGQ
+      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AeeoHcIv6zVRp9EEOw2DTuUccr8gmBxvfKBv1Q7t4vI3snzo_cwDqqMN4Q7dh6N2VNg9hiQirDbDOyUpthDLUr3VHNu8n-iRVr2MIYjQv1_bhSDPJKsTYXXeqKaya2iMr3h3LKGndzVcvqseqhPaviOAK51ULnH4EbSOoa-0AOas9Q2rFbFE0O89GOsT_DPEO4Sr1ffdbiSrgwYMt-AZzzqLS_TiAsRzSXGiOtCO82ru9_QxUuvHvsd661BiUvBdHHEmJeZbfdJQTvPxhKPL1kVpws7_9uhb68wg8r0Z4AlyGvWxFQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -125,7 +112,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPIi6-ko620kpDum6XetqcWzsgJBlwI2VU-e4nY!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
   - name: >-
-      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AUy1YQ3B8m5TceHigtHK-0585FYyyYualqsE2SJ3kSOCzjMS71Lxg2LEqZZ-MmQaes6YBrfxlEfoVYCe5k3kdiiPEEzbTqCI5WQXPzGudUPy67ceoVglbolFQO1Ct-Nn81RfeKRsZPFQSW_nfjtgi8HOQMMAoMC3BNqx_hW8r2Ufj7kuVHuDacI_r9EcFsB5koimcznViKDEql7eK9IixM8U5ltWa1IHfd7A6wZC6JgL-mMIxb6KS2BQiliuHh6mUWeowKemR3ARV9S_pVBKbkW8xk5SEAOnI_RlGLICC58EUAgGZg
+      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AeeoHcLGcy2cQ8pxaZg-L9QV_Rsw0__WZOTm6whxSWh-36VG8sb3MI-8Q3F9LfUsbXMcjGU5OMP5ZMgqtjNuPOzcwLqO7_3JJB5geZXAO1bQw1OyXr3PhIeA1ZfDtN-3vhLMUwC6Q5_J_gZr2jD1HliqY2DTW0nXtaLYXPRHVT9FoChYBhgD0Q72AyTyDhGUatzVhSekqSdmmcHNCBA9ks9JH149rUeiUuZ6AId5IpYpNDgypJETPn9rczYXCeMeJMkTW4fUNN_mDBJJb6CaHGL25rDPCtwE4kzLc4eyItOThSCd-N6tAS9L3Iw265YpxcG2hF0xYqIbgbEIgSloYvekJV6utGJ8rCQc6cWAqZ4dJTDfLZk6hvASPxC3VtA_KIKbyCJUYiGgXLPS7QsK3H6fS3uNALqiS50vLCBfgcsCPEb-aJCy
+    widthPx: 2873
+    heightPx: 2889
+    authorAttributions:
+      - displayName: Hilary Olson
+        uri: https://maps.google.com/maps/contrib/109510064919288320097
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI8KAsL5CVqxemJ_auMtpJYSdm_-GVTdyTf34OnU-FJGnGGZg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI1IbU1AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI1IbU1AE!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
+  - name: >-
+      places/ChIJI8zWVsTVI4gRX3MVAHPiSp4/photos/AeeoHcIwlHdY0apoEO8E4tL2rarEmT3TV_oFE-XJ3tzgtqXHc1t_HL9lfIZtXxbGQ8Ti5KuoTBNtlq6lUSQKSYwhcHB18gyMDGxROm_pv17YmfPL3suNtF8tBnT9Y20EDmQ14BydrglD8-C9lrIdba0zfKKwb0Ag5IxnjRHDCzkpQtfUsHrQfYsRzhD8oBdiQwlb4-D8hSzDnyGE9G7dGOERAIBf-4Tlpl1R9HGxUDN7aU8afgc8vQ2BuMSQL62EgDAsc1WzWxKvDelGz6rwOq5n1OOaVgtEjRNC510pbgRN6h4h9w
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -134,9 +134,9 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWG_GOhsWLIpuE0Wiagv7hn_8hUtabYJMSCNjjkLTGzhEDWfUg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM-E9Gboeo7-5IBVjvXHfmZxdNaNNPYU6Q0t6wu&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPxc0-JzIZKKBERpm6Nx5kdIWjmau8cxX3MBf5i&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM-E9Gboeo7-5IBVjvXHfmZxdNaNNPYU6Q0t6wu!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPxc0-JzIZKKBERpm6Nx5kdIWjmau8cxX3MBf5i!2e10!4m2!3m1!1s0x8823d5c456d6cc23:0x9e4ae2730015735f
 address: 981 S Saginaw Rd, Midland, MI 48640, USA
 street: 981 S Saginaw Rd
 city: Midland
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Sushi-Remix-Midland
 
 ---

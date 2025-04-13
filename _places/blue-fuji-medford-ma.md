@@ -8,7 +8,7 @@ cityName: Medford
 place_id: ChIJfZVdBE1344kR7KciTBlhGJ4
 photos:
   - name: >-
-      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcLqzGiH-ltMz-kgxR8TIB50pFiqIjkO3ZV3s7eehFdEfJap4rY6Z5wiVRggP5jH_ishu_F3fsStT5wTuDyjhK-AE3OnXDqrVbDg2Cjzzxfw_xVsznipS4WZ9KHIF3llZsOv9cXOmCvehU4B71dA63NejAXZcxdijUHCZg30-ruE8fNuu3afaSpE8L6ASkHPqMsKrCQ7IoGc_bwKHWoAoodj-Y5CvVsaNptA52UWXIi_Es1ZuhCn_VqBWKexYou040N86m5n3tfJ4MuatH7U6W9UBL95j2MUXL2-6y0gOTQi2w
+      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcI-sQ-A5X_oxGXgIzx0ZXIqr_6az3GTz0DTFg5y5AbX43-gJhO1nYbuIbPyDFEca15CiVPrkege_2OKnpAJutn5qNLgNEEUsn3YNkECpKKnX4lN8bPo6L2YQhGA--9qlZBfM6tgfAYWMkcuV8dzhMB0-AlVrNb5EzDYOxbq8_KQOLKnro678Lzzl6T7PgmozVE4-3Hq1JUMAf0q-zpx7teKNSwkUoDzEpCY41h39DTk7j_75_uq0D1t_bO04vl5ENK7h0IhiKHmkECr9q71EOfjWTZLGfijrraPYaR91QhkTQ
     widthPx: 715
     heightPx: 552
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNlPaGCy_-mUZncqnuKXKy7isRpZr51Yqe7XBro!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
   - name: >-
-      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcJuJpdZxBgxaZS-dPgvs5oAtCXbPOQKbes1xV05srGKlaDqZqVglQ_cst09lXTnK9ix7hfOFTxootdav5Kg2tWVCtqZYMzzr2C-g5VUljQV_f7sdo2hDafPXyXFT_HqYUMANNrmRURDAeQUilWFtlH1Q4zrjRi-_1TvTNLs8Zm_z7tApjFTfcYEG2esqy41MMyuagZ4LyYR1uQ9astJEu1ytRuUQqczNIZqW1qht8_7ixgW2AmQ2-cCl54J4wemRwbT1kDMFnN47sDNoxVrSZnDNXHVqH8XPJCzo0nKAhzgHw
+      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcJPZVDbVh9mEmZZbGijgfkdwDWd0dr3NHn0oeDGPxJAwI3xRqliWXc2eDJ3gjBugqNrIhUCT929eTbP7vuQ3f3vMwLdLmLwWurP6vmYC5-GvMHa-h1aWoNIGJKPWf3tXTffE3mxZDIHHLcoToFwjf01bbDXW8diGXPpcxMDaaZFz83pyaGgPNqHysV0n7mBiusFK6il8mxSCmS6jCi2CM_MwGvSRnoytHNMcpMxi8QBtHS9x7qYtTihThHgqsBY459kHHJcYXzUsCqNlBWtmL9QSNoPobgyt4jM_QoH5PQMnQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPDrZfu9CxgxKEcaJayyOlxD7Y7_h9Ud8hUWHi9!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
   - name: >-
-      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcIWL5nLln5GuK8Drrw-O9e77t_mVjL_QTcKFVjk-_YOQPh8fyCyRO7rZ5ajFmH6sBTlTx7EeMXmGa_XLObl4Qk7DKvVbrkMUmkdaLYC5EHcwMO1C6s661VKSsBofFqaO1QWRIzphN-9dp8--GA90KCdpcKE5khDiCgDhSjRtPP6-j5a77AbFUvFyO-SKcqWCEotaiXa59tXptruKMuuvGc2aM0pWWyvsZ8O8I66F8bMEj84lE_fOTGeDOOHnNQP7PLHbQDBDtxAC3fNMVhajruj7oqTXl9tH5Poo5TsaTNfuA
+      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcIAZ0QY5dHpvMDtODAbPOSVQSQFAmOimk_S6PzhulnacLn-D_GIQts8KZrucgt5anNFMYvZOl6WMR_FrzBijYYDabC_ycYwWaifU18Q1WmwbztbII-tqoQZjgMk-Jp9nPI5Z71zt5UPCRipm2iRqrsjbToJvC4MpBEgwnEwmJ6jLh1G-Vg-DfYDHwSlxHW8an912_aRg6VYZBnKnUy1PiCipUC9k8-85r102cBVJXt_ttfm_FGZEwkb_vduINGGmPDSSDBfouC474Rv-i6liwY0RpAsEdYUE95XtQFiK4l1Iw
     widthPx: 4030
     heightPx: 1824
     authorAttributions:
@@ -47,46 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNqbzdKiz-I9SwNcruLSovify3k4izxOR2IkDM-!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
   - name: >-
-      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcLs4pmP8N6E8SHEieyS1f-1QAEti4ptg7-vwLPt1wuBOr-p_I7ErOATwg7srVXlq4ENWoMCPRwmDdgUbwqyxFfvqvCBRrNdbSQv4Yoh6toAoYoKyIpt0UnH3Mis_4CobTG4zY5jtakPQTTdnTtKLeRYHMml6H_yx5C_PkQjym14lGpucZ_GaCKX8LeQjLAmOJid0Bet6XT4_dpg7GMDH5cDOsM9mly5l8Cp9A6CizY1EeTRFwlWAhLJiwxOjk323Dp9osHl8_vNxH9feb1dr89gZQbDUfkpvUy9II8FOJMZ1rDoyr64Ih6344KS6x0BcILnA59nGz3_hrT2d53KCDI92vHl5Fy-r5sw110ETWNgpU5A79MMOr-9NTpQEji86igny1tqGpkf3980Q8hoPvoXM0tQxfKaMZ1JBkOBZkifDg
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Mercedes Giorgio
-        uri: https://maps.google.com/maps/contrib/104924633564017221848
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUW9pzhxI6giz2sqYJWeHqk3GT6nX-UVg8UNb_R1o0vEKa1se692g=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID50q_3Eg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID50q_3Eg!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
-  - name: >-
-      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcJxGrLMi5WYv2iSKiGouG6ZXI2QhgxJy508lJ1l7TV5Xj5wnLyTeAICJlCwSSJorJlReqiBcPxQ_BhuaHqgGvGvtBtYL7OxDjKRnP_GZtWcKbuC_CgdjNdhrk4u-v8W7Kjc07Xji68N6N0-T_2__UHSMsuwnKlV3RzUcMmZVJ7fGxYI-jp1oNDDqv_GOhN7jNptOpX0EZ1lrlAUxlppw5iwEBWP1YLrjtesx0cokdwiEZktplGaZQYrYpkzef_hjDPHSEaZOtAKMUiHP3M6jeXWAbVj0bakhQbDf3-mUw-mRw
-    widthPx: 1169
-    heightPx: 523
-    authorAttributions:
-      - displayName: Blue Fuji
-        uri: https://maps.google.com/maps/contrib/112731967145964278906
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVe8cSatQuRPghzfDzlb2g9DpssMIG6j7pZ9j4JbwcVTMhvtm2p=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPxkCirrBG93BICgKKLoADv8aKF2MjY_pip6mut&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPxkCirrBG93BICgKKLoADv8aKF2MjY_pip6mut!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
-  - name: >-
-      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcL5Xluy_kxlGumaIAdLeBGcx06r0SOVTyOTzu8Ho0EQcBgqnj3ZWbhZAzt0xfBZ3uehEq-opEWDVcq7PQWt8tNOJ_0tyDGPRnRp17E3KL5YdDQSCE9rNzU3UkU81JS0-Olc06cDhZiUGJnnjMF-M0eN4FBcDT54CpBXNqY_9p0YWKIJ88a_5xmyQliEZRcLOMOT3omAmf6dVPvCvudw9SWwTwjDWqX1wUPR-CZGRTmQfJd4_iubezabmM5Ydl7Vj_qYGW5CDcjzm3MGdKdamBaaE8ovIIQFyMJRlAQRdV9ODA
-    widthPx: 2880
-    heightPx: 2304
-    authorAttributions:
-      - displayName: Blue Fuji
-        uri: https://maps.google.com/maps/contrib/112731967145964278906
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVe8cSatQuRPghzfDzlb2g9DpssMIG6j7pZ9j4JbwcVTMhvtm2p=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOTAgS9fEVj25O8FmlJiMw3bCumvVSDvS2-ZwbG&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOTAgS9fEVj25O8FmlJiMw3bCumvVSDvS2-ZwbG!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
-  - name: >-
-      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcLqV3ZjbH3j8VxNU8h0VzaaIZ5vXUNgQwge4tkB0k-kTqdSAXTfbu3wYLtchyAi48df2mUHvB3XoMCzOrhJaBZ8lIRhOUWzoglvvCL1a2xY7wbBD2tEq-391GN10omxxeV3Ax-DF3W7Cum4ozCmqukElbxnNM9LJRHCsj6cu7P8zMtJmwLHn8lF4X0lh-d5xzkTQvzqMuJpgqE8YgCfZE9DP4nr0rQ22ir5DjpVzZXp8mK9f1IvaBKwC-JxkW0rDu3cb28Pu3d8CAqonrPsaFVJC0e5_bNYXMGWauV0_gMGbA
+      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcKBrvN11hvFnY6iGbgWW4TUYc6f5RnidG1O36pRhyUVGJlxlSrN_HGo1cjYjTU6nRPcFDV6V6l9c_H0kTpBrw_mYB1xW9m2Gp5SwYx78Uk1MA0HWpMNYJpRvfU6mheY5Gd6x4hAIcP3mIEo1AlhJgwn-KdvA5FH0moI4tvYGd7DTCUjcl7im49qwBHD8zr-AYWxL8KVbYHDEMXDcGtaVJGcnC-6POP8SQIhdBNaFdgFcWedEFtCE5T6vC4x0Vael5dBYeAeaG_a27tEGMWFcGiTIrLDwEBPVD4C1TtNKl9d_g
     widthPx: 2271
     heightPx: 1482
     authorAttributions:
@@ -99,7 +60,46 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOiZu0r1-Zb1UjFDs23CPNyDQPUPKniJF-g16If!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
   - name: >-
-      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcKuChxGo5Ha7cbBcls4rRo1Ge6PaX3PxaQp-_n-kTcwxgMc8NyHmjAV5g4nimyxRvnq3OIe9pFT0D0YO1-TwzLeetTAiGfIAkCfsu9zpBX6BawZjp1E-CVwUs3T0bE24cglQLvM79RFi_tsdkQHSm5-m-1nXA7qDVcLun_bmReyy7ZfUyyijRCZtDI0Ves43G1RNZW_PcuOCtAfnm6xyRiOj9Q6x0jRdpn3H3mD1BPOHRHa530N7OkBA6LB-tqnzU1pveelJMJLwpRpDnwF4v3n2ruYJB1rQfUirfQtiU3VlA
+      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcLz6z39TgzuNBEeq9YCDluJsmtRmlUDDu-8TUFZhFFxNguIfDSI9Kvqhn1mCHgFNFluWL01BRONLdRRyQYMy_E-aGLs4N4ULQAiGCNfLar4TNzDzQtF8Ad4lr3D62Fz0YgHrEL7JE4gnrgvMy2E1j4N5byDw184vu2pDEqVvNbdfDc7Mhg8WNVuWj4VMvOTxAe_952rnm0OKk0BfuemrxqsLPjyJWJWGkryk8hY9ESoT4l-tsdOdfJBkPjZBVHauIZbNBP5I1wMwj84_pCEXdnOHKdduZBOQrB7_ZycNuFriw
+    widthPx: 1169
+    heightPx: 523
+    authorAttributions:
+      - displayName: Blue Fuji
+        uri: https://maps.google.com/maps/contrib/112731967145964278906
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVe8cSatQuRPghzfDzlb2g9DpssMIG6j7pZ9j4JbwcVTMhvtm2p=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPxkCirrBG93BICgKKLoADv8aKF2MjY_pip6mut&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPxkCirrBG93BICgKKLoADv8aKF2MjY_pip6mut!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
+  - name: >-
+      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcK-5qVW7sjNqCy2zlm8CLekgznHTjVmc49zLSYBrGa6rs-4aPNPdtSG_J7p1kdrzEaV9t_qgMr5bLD3SWK8Eq5KI15RSQFSZaYcV2Af_ZbuaTw0lBOArPURqsqKdDyOsajqv-MIhISesizoV1Oe-RslNLFUjPu9De0RXVtq-_2IIyQTSfvd7LPVV0jSXLrq0NEE6DAg34wx5CIOFwtHfN0p_sFwo6CP9-srLvCcwqjUNTGZ-BCi5QxE7OIK8h6u8kf7Q6Ob4uaFc0wknCNqKi0NCF6DudYt1Q4ef3tbn71GIGn4D8jzqdMZxNPEQP1l3uU0ZPwSPaxwYQAoWnYrdvJXY6Y_TJO-sbblpV2-YuJwEObmsXBy_L5CAyrtx5hnkMt10R3X9m5zbT_ohWPaLRM0Fj-muhCGt7bHnojLuvDbvItf
+    widthPx: 3412
+    heightPx: 2237
+    authorAttributions:
+      - displayName: Agnes Morfinia
+        uri: https://maps.google.com/maps/contrib/116481002267069620281
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJOW_g7314KrxNCz96rmUg_1zwbVAPtyYJrni8orJmww-0MqQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDO5eGVygE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO5eGVygE!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
+  - name: >-
+      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcJ9TrQf1EkBxkpQWIqSWGtbrQqwJd9CSkFKFHUdTTimTCgHmHTD_RYtdzIdVgtOkuceU0tNxScX4gQhTH-QUyPyePmRdpIjZFBitiEp66qgKzqjynCtxGlurxggqJ9OLDXi-UpHRxjH7Gp9Cgw_2McudSZtZaK0WljqkLvItpZDod1yuvwcYIU1hdWP-Y4LtQ89gWhj5GczL0DsE519CgwaX70E5br9FDqlVsteS9Tt6fPgA4QYDYhou4skxU0HEmnLS5csHMmVVNb6_WF21Lo-9MJnQqQtcThvKn9Yhnv0CQ
+    widthPx: 2880
+    heightPx: 2304
+    authorAttributions:
+      - displayName: Blue Fuji
+        uri: https://maps.google.com/maps/contrib/112731967145964278906
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVe8cSatQuRPghzfDzlb2g9DpssMIG6j7pZ9j4JbwcVTMhvtm2p=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOTAgS9fEVj25O8FmlJiMw3bCumvVSDvS2-ZwbG&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOTAgS9fEVj25O8FmlJiMw3bCumvVSDvS2-ZwbG!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
+  - name: >-
+      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcKLDl_MAWydVXvZrero9aZwBIIZYBXXkuqxGiSzZOoe7sgqVi_itlWvR9PW_P6vr5GnZ_fm0nGh-MMfCbouPH7VwVYS56dr7-49FoBopunpErU6siHRdeBcAFoJud2-3HHjbrprIqtdMqcaK5xPNgvoZRhOrSXVT_YGOBH6M8xsQQV0CXdFm1JOaw1dz7roigBK3BZrLWXX6dGocXHFwnw6dCMK_dcb0n05WAFoUW3Q-FfoXI0TmO8enRz8hfFlqDnbiVs7mLtcdpNxHIU2Qvt60DfOjH6P2DZ4cSRCiO_2yw
     widthPx: 3238
     heightPx: 1701
     authorAttributions:
@@ -112,20 +112,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMutuxF6JzGCXq2XvuV4THRQ9X1WUZ75tR7ikXg!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
   - name: >-
-      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcIhW0vdBI05Rdau_T5VhRfSMtrDbt0lRvVwE_dF5hXnMUYxTis9a5rukHUd_YgMWLEiDGAPkrp10lNLtUycGKo2X3OTzhwPZY7EJN-KgObVXHa_bQapzAA9VNfeir6n--i3GDHG54QhHML2hiouBpcAjxOsz-Dts9UlSd4MUzZOXfQ_CHKq-VFnO-BjsxIGwcaOBMBEztw6hmaCakPrbLzSXg2xQ4vgHsz6wO1va-x0OU-HY3EzHr_Bked51DDTeOVezqnMu0Kmyc7EmpFCBKd2QXJDRwnat6fx2MSS7vDhzBJ2bPKVefotKpFt4L5iKeapzY3s2lMGJn3d-ESKT5zbeuzk3YRgdBm2qmpHhajRWdQalpCvDjpmKwlyf1vp0oaDW7rd9k_PEufRq9Qmx7Chyftsx-kfquY3aD67XlPKuw
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcLRg4fuhg1S6EKIuvtVaFQ9LikrnGOJVRkS6TJON4trOFq81ynVLCPsbIQWOh7FXrsxuUq66bZc81Di46bYTuqKfSP2fdMNx1rDMmjkfJh6oNp-4iZpHclHHeW2bdMRTUroq4INPEvt9-q4pqLZpUY2hEg5qpyUNQZQpZpCnASrgiAXoyiLnebBNCSLzkA8OTY12SoiQkNWlUR7oNzHj4nMWi8kRUTgMrGHz8I-VC27Xnau8dz0LIymhhZHBeCgyUYG3AewVqXrSXclTgmQohs__MyVk3Q-hD2k6yQYbxgRxUKLYoCHcXkYtR6A6n51zpSx6D3sDpLXcvEffu2d2b6O_7iolr-cfhP30DHTRbqAG897Ccd1bFP-_KUavf0G7BvtSGLxTPFZMEfAYz92nIshPx2IRJKKSg-O0QHh92quiQ
+    widthPx: 4000
+    heightPx: 1848
     authorAttributions:
-      - displayName: Elaina L.
-        uri: https://maps.google.com/maps/contrib/117645801450200353672
+      - displayName: Torrence Davis
+        uri: https://maps.google.com/maps/contrib/105492127164251447646
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIRrGiu0qD8E9tphuv2M14OJGV84CSn9Xamybp8s1G6SukdLA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWEOefhILXlpJbajt4HUvhmzkkm5zQGvxR1m-wDL4DzsmksgM13PA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID0j_KIZg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzjcuZSg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0j_KIZg!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzjcuZSg!2e10!4m2!3m1!1s0x89e3774d045d957d:0x9e1861194c22a7ec
   - name: >-
-      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcL4hJadxwAjGSMeu1PwRnU-4g04KypSyPhva53IdJfqPn1D41sRYcAfXnCu6JSzRadFHcGTjyF9dXrTdZXPDbpWKSD1RSzVZ6wONLAuC4ysMNfJ0ncyVVTHMwdJe4XDsep1QjGbnjJdWDPdGJSkB9t0Y7ZVO8Dv7HsrbEcbLEwWRLxlX5BM5sVwXCsjTB57mcxvq6Hrq3bmBT31AAEQYMTUoB2HmJXh8pDRnwf0sEm9Yg9OAKsHfNqwiwYogYMth70d8MGkWnx0jo6GHdVhD8sZgIYy4ihey1JGF8MvQ6PSpw
+      places/ChIJfZVdBE1344kR7KciTBlhGJ4/photos/AeeoHcIBHmWm6Bay5qfpD5F5r1muLc33yMxe0HlR4MClbZnuhbIyTYFk5BcO60HFs4jqxzW-q1uUMZqJqylV1UT3Pn3_NW_b5FJaRumfnWjn8Bqffm5OAeQE8gWP-FuDezrgRqibN9WIE2A4vlcQXvkvJ6qS6xCaiU7CTTRkoIWRk1V9IE4BZQuy2IleM-2QkHLrIExGR5_oudKrgcZ7ik9dboxmPOK0EIcBAuCKJvf0l87J8Cvz3fVSYBlwac3X_HoG4-ORpl6yTP5qZzfPPJ4PrtEV3cQag80ayFb0QhTPUguMfA
     widthPx: 910
     heightPx: 1684
     authorAttributions:
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Blue-Fuji
 
 ---

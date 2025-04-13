@@ -8,7 +8,7 @@ cityName: Dacula
 place_id: ChIJlf9eGQDr9YgRbpOz2ztFE7M
 photos:
   - name: >-
-      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcKbjeruCRUVhF1JoIYdpTFE5h3GabeImF8CN1XMPqa2hFyh5c-9Y_6j8_Gkgrg8Zn2Ul-GLLb0Vr9wWIEU7l6ULMTSbVOVI2NsDTbrTYBdEu_WFlxedSf3lMeMiL2wU21H3bzcYsfW059z6tdb7cgna7zvLEMmdGiAJ6wKbih8L0aQFLcCLr4e9als-FKROrwXnmPd0Li3fsxuz1eTOmvyN1LwGDr-sFB3Xb_q4AfaKF0OsFCRwF464bkgFDIjx8izhT1rRLpEltllzth1vg8y8dLl78cpDWWZ47u0kaFl1ug
+      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcI9uHPTy2V-EnSYxVTHoGRjo1SKVYJOb2OaKEh5EY3FjZTSwIEBWMmUxJYKyk1EaN556FKS01eDCoaq0-4LXCkfYPzbfACnTY8CKcIJS2HJGpzWYQkWgr0YFDXiM5rD40-IBZ1D0sTsB_219zDdU-MEcMCe0NdPi8Fqv6_WAvjh9TZ_iMv09rQHAJlmMv4S4t72CJ69Ow-PYk-PW5P8ko6jFgZQtzjrVfeSgcoDIIx7LDFWQYgNLlkEEEo1nSaIKu2IuaZIXZ7y5ouj-bK7a6U_p28shykseKRTOd-3iAjU-w
     widthPx: 1707
     heightPx: 1280
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPlWwolEzTGD0QdYUNVNlrJyW9qRkDm8D6P9Cj0!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
   - name: >-
-      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcJUpeRQG0Lbv-8X1US-DVowHfIDdb_zXXcCTJq3L13ZGi-a-o7mNZNhShvkRKUFuiKebYq56fD8w5oDNup79OqkCEVTzFMGszkjarfR-kevkMfbm6XYeLPLAMjKtZCZYM889P-gBJ--jFrWAikSxKKMV0oOzwHE2IMo2ZGqOOGs8U3Aw-v4WtqMpSi5MYmOSCP23xis3tTT2oFvYq7SSv9nP3P2dP-C4TBb9Kt9TD5ltHu_zX2e_NL-V1fIiN6psGsn-oO37q8QK0_BxT7OMKRIQ99I1S1_QBEp0Dv4nCizhQ
+      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcKWhO_vNo41FVkp0ua7_a8e9IYj79MiXlxZh0EnKLqf8f9bFEYlXqzelAORk4x1hYfY8v9EwPbk2SATstHTiJsrvFPt_di-f7R1Klmu_JPmHZEt7OjmnqQllWpoTafHd1k-EMjNHC8IL37yUaddHUyQvrWhnAXDnYvkvayYr9qmPTy3u3mRs6aB8V6-smx156_JCh8g6pzK1M2CXWW8tmv38WkfxvRakEBiPeeCMNKHkICKwWvCO5UaPGf8l5f_rmI-Gg3hEeRBoCvAZcy4NG2rKpTCBW8iEMjBcQ2pLvweow
     widthPx: 800
     heightPx: 741
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP5ypLSX4JBQoqsdHYYEVq8RIcQ_UTEIEUc3SQD!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
   - name: >-
-      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcLmoxTnqn5wyaI5hBXtapE8CBN0ToFxhocencAtBiPfGmPpW0edpWVIFj-8j1bY-L_5EpbcOiYaQrqats_kecEgJQz_evuVA8Uz1KA4LzElA20uGO8b1L5n2uhX04rKHyLB3HBP0mX7h3Ly3pWosUJ_5boSsOBbYXJoTUBEYgL7J2_-Eq10i0i-hP784SnfDOV-SNALQ2XneOPf24NZSJguebYzng3KzB0JXdnX4bmd2FCc_u2Ppb-qlGJzUE3mD1FG2xas3idkYTRxEM8YAhaFnrGrEsIUueLokmBd0HPgqg
+      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcIzYEugWRtRzeUHSVks9F4z2b747zLaH2VxfqfiX81YKX2_Hy7-Qo8Fq1qKsdU3Zd3Jvt11bUcUP66CZchh3Q4e5uNqX92D_gFc7e7QkLCVtEYUKgPklN0A-26yghXxmZdbMCUrt1eX1JaGXevhNxdCDHmmyoQGRr6mrRQLDkA98rFdVUuRmln4XkOeZ4z2ys2JGIm5b_J_za5QhZitVWtCdqd3LHWV3vsTkOuEB1QAH4NZFALkP3SaPMFtLn7N4rWiETZdenLI7bN5ahVPIOViwT3Rp3tt5pzenKRd8fVhtA
     widthPx: 1024
     heightPx: 575
     authorAttributions:
@@ -47,33 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOsGWxs20VQJqr42i284mdY8ZRTUarrLR_aKE0X!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
   - name: >-
-      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcJctA4W4nDWXvbZKK9tg4ZitUILqz5b4QS1QsnwEcIUme9Maec55WRWJFn8JfDJ9kHvnsyApCnQ_TPhxuRQDdG68_sen-q9r0jZknpvxfOUOK6nh2bo9I36qRPYpRvleOrkfxwuyjIPABK-BzdL8zqq1FHapSjdfDn6HOwlgPeeiQUAIHptgfWSmMggb9ILvC9NJN3hUCT878T1cXRSCvusGsSJsEaVOSSPBdGs_1lyqIk9c2UO7NlMjUmIcab4LWcghNnz4635sqfHdX9otNZDZqWm8-VAe--Uz6ceRfwTZg
-    widthPx: 1920
-    heightPx: 1081
-    authorAttributions:
-      - displayName: Hokkaido Ramen House
-        uri: https://maps.google.com/maps/contrib/101163127307941952855
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXrtSpU7GS8vuGo7savBp4YaRzygMU7znKBoxx2a3iDOrcA4eE5=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOMPiNzKlRLOwiVolJd9wS6WO9opfgJgcPrWYrl&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOMPiNzKlRLOwiVolJd9wS6WO9opfgJgcPrWYrl!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
-  - name: >-
-      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcIvKN_0zku19iVeicnt6kMDrmFMkwx1dZFO5x8PkzBt8bwMwgUqmj9dZIccD4k8TE8op9PTQ0iSFxnBzAhT_y12AlsA_u5Xkd_Zqgyc4bxKmukhns3wAO3t-J-lN7-nAtJwaXiKVNGvq4RF5PIA2xrP-rtkRrj4qV6D48ychbOsKyeLXocuSsMYMuBOpJ_hTGMlL-chGgaGzsrGRtgnpB2LEYyMCjzHUssIB3H1-TEJfVqtHcQq8mEKYwyyuEY7Dva_hnCQGFHx2WasdIT5fdKXK6SGzvlW9ngUhtrACKXLjQ
-    widthPx: 1024
-    heightPx: 1024
-    authorAttributions:
-      - displayName: Hokkaido Ramen House
-        uri: https://maps.google.com/maps/contrib/101163127307941952855
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXrtSpU7GS8vuGo7savBp4YaRzygMU7znKBoxx2a3iDOrcA4eE5=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN9YqjmayePQRLLcmtuuqANIYdlb49D_hMnszbL&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN9YqjmayePQRLLcmtuuqANIYdlb49D_hMnszbL!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
-  - name: >-
-      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcKU3OoMycUdvUTzRYas9mgk0-EXxwrQ7zZkZ28HgUWZxAaqH6Sg2_thI2ESvXnXVExQRnPsATf54hyFsPEszXFLxhwkb8n2O5uCy_SOnJ7pqR-VOHhSGveEyPZS650heo6_k2IpWBMJmNqkG4Oq-vctkr_3-A3yGE2Htk3pZBV_RT1p6aNUEzXMX1_e_uwXaWkEGT75W8uRKDM_5cx0TZEqpCKWfzZAyd4L7dkrOHTevEfK2sQh0S2OE2oNzkIY9ZKx7W_P9kzr7R_zWAm_HXavehMS_5USfJwiHzI2mxS_2w
+      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcI-heNji60BEAkVz0c6MeBazIQ9M_T3Cd_njhKd0YGTd4aYwpBpQ0LTcS1HjvBKjtfdPQxS0Fg0jyGtTac-tz3fRaFYuU_LmeB1UAAByjqTsBiIens7ov69wywpMuX8r31K24pdQtYMxOMrT6f2MLkHiA8bPSqzf6qdZAIg9mB6YsNZx9CZOvP-C76J76Rz_DL2RPgikutKeyXBo_CvnooZ35oHj7obtgWW_ZHt98qXJKRuan4o7KL4l4PaggcSzkpo8ukmlMHynW-9RxTeMLG5muz1bduW4ClEWwFA7TYW2A
     widthPx: 2730
     heightPx: 1536
     authorAttributions:
@@ -82,11 +56,50 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXrtSpU7GS8vuGo7savBp4YaRzygMU7znKBoxx2a3iDOrcA4eE5=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOhgsehMCWjNojy73FcwzBywMsXap9AvLW17lJM&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOAn--8x9jx3Aj7Mt_pvr4isrWVoc5nysU4YptJ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOhgsehMCWjNojy73FcwzBywMsXap9AvLW17lJM!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOAn--8x9jx3Aj7Mt_pvr4isrWVoc5nysU4YptJ!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
   - name: >-
-      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcJX1G2Lcf1n1I9eTOQ7gWjbzh3sDfOtFdWkyYFIgKCPQKbwdsZ8UcuJeJGsIjsl4m9VWlegP8QAL7IhDXXrRwP7YEJEzNsi6wg8NoVeToor-VF8-rq4p2vROCxZXJQTrWT2V2Gaz95rNdHcDIX7oK_bGnUOLqE48yiAaXVvJROPgHxF4BvfheawoC7FNguSGpHtYBNrzOa7SQIekUJy5kAxAWHiuqKKV6oOyYup-1i0iHMzCUj9ySDIQcIWaaHyKBzzbkvjg8-kx45VOJsySeMJnmYZbp5LujkJjxtzvmYlYQ
+      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcLZuQwThbMYf7caBH2y2x0oIZUZpMf8IJnLPWLSwWPRuAK56kRK7LgOtyFRb59KKrIcmw0DiFJdydzS17AlsljXT3SYpuXkyCFjRydQAiaP1GDRaiTNbmjG328ZNnCN7TWrr0pXSZJLYjiHORHGZdzdysCiwzA9JnVCMpOrq6d9fCmSeGR5_7Mt-l6zJTiWjPMSyGD-rvDgmSIo2lv43VkTard20Rb7ifv4RmEbmkhv3xCImxqfMGJJ1q9p39rNjndY3eviBuRnzyL6GmtbKXtZAc4V5z_XwD3-HnwYm-rp_xgTdFXOAM9mrykdFc5FkGYlIAJTPlXZWdGNPRsjkRvgSOlDTX2gSzZs5AoxqlgfSfPysXezpVxZW81dEtWj3yjFabMtrHGMUJSn2FGUneCTJyB4NUVj_XBA96sOnAplm26qQrIoalOZp2-ypyLK
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Robby Wiley
+        uri: https://maps.google.com/maps/contrib/105308257479551291735
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIO2ttk_6eCZTS-7bfNhBiFddyZLydRYuRerI7sv3kH-RpwBQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3ilWZhkhEGfxkE4ACiJD&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ilWZhkhEGfxkE4ACiJD!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
+  - name: >-
+      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcJlNrbazmVACUbizgNStAmiH6qHf0nIawklC7IDZBVIogujYmRxtZf_1_saqRe3NYB7K2JCF3Ro2eFS6K_JGlepYFv9EJ2OkmowoLoQXOYdnkQFlAyPJrPACgYRVrqZ8globjuDNqg-AstPDThKds5hKBSS8j3znNuGT3gGaOte1lVwDNjsOUpbBfdL-albuUvjin2f6zdfj9SuLk-gDo476OPdMDWPUCwzEFD78R24dGSCrcaMLST7luVtbNsXsdMwJek8JGVxalGaWdrirBaIUfdVenz03vQJ_N1b73QRJw
+    widthPx: 1920
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Hokkaido Ramen House
+        uri: https://maps.google.com/maps/contrib/101163127307941952855
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXrtSpU7GS8vuGo7savBp4YaRzygMU7znKBoxx2a3iDOrcA4eE5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPTsJgEZf987QeiXdZ13_D4K66lv-M3GTRHxlpZ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPTsJgEZf987QeiXdZ13_D4K66lv-M3GTRHxlpZ!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
+  - name: >-
+      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcJAcMjZ8ruALy-jM1uotFJHkcJkrcPdtLqsW-KP8ezj_lhMMzkyucsAlKTxXVpIx-6KqcEn17IBGIuXujj7v2gHJhFDFUO9_fPtpjAHn_nTVB_-y-gDbUusI4-O1EBDYgDzhzTEFvbBJFpSgzEJTP4uZmbALhgQHlgydSpz54U8LROaTqXwhlyowsyzUZB_dIgAo62Zb1c3FRJS43JJXElYr4pIMJMcAh4JTqLsTFcF5aDzC15b6nDSC3ZXW6tczxk_L2_9J_oFl45QlsKtrMB-qi2pnbsegRDQfRcrYyunfw
+    widthPx: 1112
+    heightPx: 1133
+    authorAttributions:
+      - displayName: Hokkaido Ramen House
+        uri: https://maps.google.com/maps/contrib/101163127307941952855
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXrtSpU7GS8vuGo7savBp4YaRzygMU7znKBoxx2a3iDOrcA4eE5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPzSzsbrffC6-Ie9Di8kfuNGggD0Xed8CGafO3f&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPzSzsbrffC6-Ie9Di8kfuNGggD0Xed8CGafO3f!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
+  - name: >-
+      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcJzm6YHAokWSnLS-AuZw7-SbkqO1qunp8hgYtPdNiMT9AN0rTVtgdz_FFmoKFaKFnCREez79lx29vUeFWjHllwwsyr9b7PT_1WfW5HFAgav4khhUwa7h74TNkErED12lK1iMIJ1t99rKVZMPF5Y5Zpns9Mvk6GtNFzF5yWZSndelUc-wfF4skojvCyI4_Y4Mj1e16BeI-K7Mfb_VzpgBCfC35n8wX6hvgL2A5ybyk8rXwBvENrZZ0vzNF3E0G1N7VhN66xGtDnj8wLBCV_vIQiGE9Oozq7T-Xz5P0Isi9wzxA
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
@@ -99,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN0mC9G2vnh0CsqNO0DJ8Ph7ll_MP2nz5Cm5SA8!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
   - name: >-
-      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcJmM2zJErVicoaDQVVQVATHYrKNnftjQjhOxLY4RiqErg82EVn7BwTAtygiGEVWFL7BGZyXuKA88eU5n4Cml__eozJmQMVC7v4rBmKvaeOdUFPxaJQIAvIG91r2eCYcStWOPfVQkpYDqPXHpCzy-RJxuNIuV1OGs9Ywven36fjug0DPqcYlWdAxdQmwl0q8nt47NAlVkVYKG7IvyxSFmPTTsEu3RXnnxXAIpQNTTvJpbhJqCgs2GJ_ovPoWuPol6zN2pMLkxQqH1nzeTfRgx47WrgzFmgddX8bKRCTfEoSISQ
+      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcKv_FlGFTjS1pBaZx9NgvVTZrXzgKyz-8W48Z3IozXoO7aSi6FpDc2kWsY8ULFROvlba4jGaZjZUTdjC3W9UtwlvItCqrtmc2qF79nd3NxQtebMxVrJBu-xV69VDou0eJsQo2Gn3HUjckPNGMen0U3XT5ftfM-WVozK_cLCePQgAmMXns1FoPNhM1gZY3jFNCp26pdZH2kF3lV1A0iCRlPoeiQRqlVI5Hrags7i71u_cOW6kZiJ-HJoH05zol78HSlo_9zJtc1WiRKuj4OS1jY0GswqhHDp26S7jR10pHR3pg
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
@@ -112,31 +125,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNFc0quF3jc_-CT8soJhIo2TuZk2RuP1SKGBVL9!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
   - name: >-
-      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcIeScwcqkLNb8CiBZTJfDXlsofIdv30RRx13OAeMRiQVSQmx7TwRCPBN3ZSc9hc-OudzilsUv1Xhqe_L8KPHLmYT0zSol1vdu0B7vunfZ4q3vKxlihzYO4XbBVcmo7ynxPNwn1YzN575e6uBHUlXg31zSSwghgmMnpClZ9WC2SyeIlnxatLDwmzSaDnOL67LAuK_D2ZCqQsQDc1DmzJxjNSVr1wu1cnVchqv8ib-6VyUcu6KZc27bbkjGQgXv6PzFuV-sxeT9BsJIHHQDoWfcKGdSmKuIAp2Qjf5SuuhfZgMQ
-    widthPx: 3294
-    heightPx: 3024
+      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcKq4qggX7UUo-zbA_LyT2ed9okRu1DWi8DD1PkMknuPFhN6Q3o9juPzWrV0uX1TYZDsLTdZqrDb7lb-8pANLjWfOPxLKM8tRoQQE47UcXnv1FvTEO0TQGbkbBJ2tNxKzMthrcczbUNMhEq69aXn-fqIowbtJmbCB3i8EcLg_4i_7JVIOkb3e9454kIfV0I-uYo-bIQ9mY-qgU9J8Yzc9VLAt9ZMQ5tr-b_39Eq_VdK8yQV8tO0FGq_II0fYzYzu2j2PEmFWmMeQ5NXFe2HGzr1LfNmSWZAqv7o1hTUrsjRPgvtYP8m__LQIDkfA7KeNXWxf6omG0emqdVLymFvsih1dw1kBrkVPmNcIkOh0hqvUu5mOZuTcMftAAYBB0ZhlH2gkRTCOOd8BwA7NUHL-BMlad3AH8DmUHrv8oQCwx31IwYPL
+    widthPx: 3235
+    heightPx: 2147
     authorAttributions:
-      - displayName: Hokkaido Ramen House
-        uri: https://maps.google.com/maps/contrib/101163127307941952855
+      - displayName: J
+        uri: https://maps.google.com/maps/contrib/111667319753691849824
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXrtSpU7GS8vuGo7savBp4YaRzygMU7znKBoxx2a3iDOrcA4eE5=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVwr_UPdymnXTvqQlNjdBTfNzTqdct8pD0XKCJ6ysSwxcWHmD1E=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPyNJ886FVxzmjR-IDNd_4Z9n7qObUOE0wlfKkZ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7uPCY0gE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPyNJ886FVxzmjR-IDNd_4Z9n7qObUOE0wlfKkZ!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
-  - name: >-
-      places/ChIJlf9eGQDr9YgRbpOz2ztFE7M/photos/AeeoHcLZ1OyIze5D3rYYlCl1wDBEw24ZWQx5JDr-qVJfu1DmjxkGe5ZuhRG-bDDvg8d9N3Wm4xXojB4kYSP8kixM_1jjbaeIM9tsMcPUQRXRCSHj-MFRCnjCX_95r28d7BIl0DwW6xQORX1YKXbipDF6ljUPM4fW-daudCjDrwk7N_mQTUpaf3fsmfqLwKESNbBITRyZsYYl0F7hvEDBxchxCarB1QZPd0GZHFq7RBlX7_hW79oAwl8bu0E-q-fWwgr2w_Gl2jCGCrpQu9QKaxddkDAszMjbF9iVQfxbtfl6fApLnQ
-    widthPx: 1920
-    heightPx: 1080
-    authorAttributions:
-      - displayName: Hokkaido Ramen House
-        uri: https://maps.google.com/maps/contrib/101163127307941952855
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXrtSpU7GS8vuGo7savBp4YaRzygMU7znKBoxx2a3iDOrcA4eE5=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMGZcml4HKrpcdlapCqE1SDOeq6KSbUdsBxe3ta&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMGZcml4HKrpcdlapCqE1SDOeq6KSbUdsBxe3ta!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7uPCY0gE!2e10!4m2!3m1!1s0x88f5eb00195eff95:0xb313453bdbb3936e
 address: '3465 Braselton Hwy #170, Dacula, GA 30019, USA'
 street: '3465 Braselton Hwy #170'
 city: Dacula
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Hokkaido-Ramen-House
 
 ---

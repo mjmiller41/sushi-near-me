@@ -8,7 +8,7 @@ cityName: Franklin
 place_id: ChIJWWV6bDFva4gR31HMMUuPA4k
 photos:
   - name: >-
-      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AUy1YQ05r8euHfjp0M__3BaQhkbJY5A5UYBDVxbLxqUt8_CIfo-XAode8UB269a3d-yHlA3hYsc47eKgfXQlJiXNgesJ_B9ttf4m-U28vvZNxu9WkmnHLEpXZOhSG-CoKOd3zrShCxI6GAI9JL7f4qoYLWr09y7y1gNZl-CdLB-HCNxgZkOgDA-jHePmSXmaWug8ZgUR98glAHMmd_Qi_ZSb2DbXIg8TuOcOLaDybAulATobj9JEPeDG_OvaIyKVrGfQIq8Esrdxb1UQFg6lrjsg8yxpQn5j4kU36POrYBqn34qoxQ
+      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AeeoHcI9-SpLOqMRpyI8r7hRcmHVuZyOd4y377CN1UoQs0dPSlOpWf913D7WDkAxr4TX_Qsyte9emJH-1vpm4yUQRanTFDPdBICIUHykH7mAIhV20qlwZ8Q6TLikS7qoxonrPsQKzXb3i0X0VVkKLUSdjOSBG4grFlTcwzt9ZdtV4DnXPHHTPvDPkqa2N2R94_J5hSZBrM6HWWnYU0XjbR4cs1mknDosaW7B4MhpNJDlV856wyP64kK9Szs-c6wlrqqIxsTHfY06pKT_CWGYyaRDcocWAyabjTJsmgsOQ8g9lJz2XQ
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPGMUG7tltrFtPCXX6HIdweUQ83VIq3xubhE9EO!2e10!4m2!3m1!1s0x886b6f316c7a6559:0x89038f4b31cc51df
   - name: >-
-      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AUy1YQ0-ISRK54bMIrro22o1C5yrwqG2yd7AEvlybMNeaZFYUqZWPOpit_Mhq8W7EWEAQOjYwk1mYhp_kTmqTk7NLQP5NljC3tSz_HIlLQC83C5eGKFGsp7IXPx0LMHbzKGzl8mHcX1zmxo7NX1m6jXiNSfqEeJbmZnbVuAatuyfX_SM4g_JCMgCj9Yit76L2jROigm_vyyYlZ-mu_OlYcAnAQNTKthoCkp3l3wTSv0ui9fXK3Gj5cAgXVqNSXmNgvbFUS73GCUKW_PSS93vJewVixnmYSnaGX_zSQje5D_tBKCuuw
+      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AeeoHcK-pknSA8Ld4tYnasP0SVdEVzhC8cojmhoXwm2xVWWNPr4TOJLs6UGnr1XLaXMl2b5BOgpVhMDHqyUdZZ8-lxu8Kdthfc_P5GSOri5_QGKK690b9snGpXsL-BQDviYEPlwKOqhHvVDBSbF-5r7calxkmEkSb3-i7hv8HnNC9xTLWve9HcLr8dwUv1J-lkDUEdbaMTaJxwfEq46Ek4_tAXLNzJ0jv4BkGvVXeRygJT2VLBmE40RyvdS_yM0V5SpR-nQW-yxr9rvMdZgthDTbm-8AY8O_xfBqmhw08Xc-I6Ctog
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN0W04G4WQ4aMWRjmfbrLFxwhNNrrBdm4yLb-zd!2e10!4m2!3m1!1s0x886b6f316c7a6559:0x89038f4b31cc51df
   - name: >-
-      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AUy1YQ1SUzo8SN5IZntOW5I1jtBYyNksV3Ji5GdqLX9JbGhCwAAMSfPnJSQTkKSNmxtnDHkSmcqWbCszIlcXxzblke-lckxxF_haLFaT2eLJ9Ak6w-51jHIuA75yrntPaYQYwDo2qUo7ezeSTdQ7rIFNubeN28Aqpw3TCQz814jmql8bgvi0NFaoNvdZd_yGAd90eSFKQtNwwehnVfwnDoYu1xXPdMkGachr8uwO1UyLuXEfj8v78IzeQNnszzqaOcsD0uJ74je5xXNf7MrHmSwxrOEjhaE0QHHBWfOIlSQ6Bdz9y4ZAMuPU4CeFGLA4gwFiPTRixFlMGKtQqTKOmo1cGtr7vdm9HboxPUp7WI3cyuvKi5PLeuYiH5K0p-WB-TR3Yi5tB04jR6lwicANPP_9eITT3ASHWS1E2QU-7TxEIX6LvO8b
+      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AeeoHcK36hTAh48NV2cOQfhbmZZaVY3vVHz57Wj5a4Y_Xz-WEyk9L9mH5_BnkFGfNhdLzVJgghikOYCUYY_bars5R-hNpibWY6dkhSg21B-Kor3Ntqc0Fxyv3BJv2mFQuWKxtJSI-WazO3iE_jjbPhKf7DCZg4CZMnYW83slwnZPOAaQ4e8SFJg0s8k6VPN4Jg16XJTbUCoa2pBOK4yqgYjjL0UcdfRb23en0lfKILVavB2ymbrjK3QU9A2sD2Wt1mu3eyZ-kev1Nh0zZbrvPiDnR-j3hucWyNFW07drUjyaimatPlV-Cl93KI-XXzGowPHan9vHqaVH96SpEGxDbU7O88zacoCsrM4rmZlyv0PBHD3mm7jdI6joZBUIFOgNir_UKhKsmXVoB80PWcygON5gCeem3eLlYVdab40Qgb44au3EaqbI
     widthPx: 1024
     heightPx: 615
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICL6sm7wgE!2e10!4m2!3m1!1s0x886b6f316c7a6559:0x89038f4b31cc51df
   - name: >-
-      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AUy1YQ1U3gAi-Ko5mZLFgrHXbds6Z88RU6lptSLNqKDbl_bvuTBkAbUAmBOub09dOX6If2Ybbrco9UM3Fav3Y6zllZ4wDPlK-YjDF-Zr6zW_plFC4OTWqDsyWG0FVw7aWzNRXO3HjL1CxGAoWf-dm8HxfFA4Qg4ozVHsky_c6WohVnF0QnLqj0b2ghhElDzWUj_eXBsZXntR0KxQi8dXgNJu8A-DVW1B8-yJDaPsY_-CBGZs_bBZotHYrvlxbvkWrpJkv-voIRd5iWoQ5ORKjZgxzkDKGusag_K29oqksw0gli4RhYFOzkPb4_-uTwWX8bd43C2dYxH44L6g7SJEX4EjAGET4Dm8aOUWyqOmi98NGtgnfS1tNOx0rIaUipvETgDiXy88hikKyjGc-alfZs9XHbGmfbKriV1JRSrN188K-705ihHA
+      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AeeoHcKETdh4OTAOkHg7nBUVsP3fsaJO-PLWU5XAtpMYc0nCn5CwVQWoXRh6dMSsJHPOe2anPjIqKx7l1cHDnJ_wd48xfcm3euGV9ynMs9Yg2Lt4MrK4NleKTS4fzFZR4n0Zs0ngLBHncX5i81F5wr7uu9EEj0ekm2_F4oNEtg3TEsnFmlLdWQeoGiYQLad5hFYhExyXf_08F3KAGWQpqEUgWbEm0kcZ5DnzfBI1urzmka-aCojGc-yArZfa3H1yZLya6R5rZsgAShWeq7e9Ujs5FVGQhFAWr7f2SaAXUBfh0NklSpsazkn55ipf-ENfhoSlZn7VT-CJfFWCgYCAcgqlDEyXqr72m1N8KKFKPaBSNBzCo3jkuAb-5rBW5qXWF1lkR35m3tSTeGEQhoeqga6g41dJMstmYZvHOcwwp-xLx3Xe7iZH
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -60,20 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv-fr7zwE!2e10!4m2!3m1!1s0x886b6f316c7a6559:0x89038f4b31cc51df
   - name: >-
-      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AUy1YQ1Ly1TBsRWsxs9zEz1o_N0Cu1XVEAYyo0YThb9s0oVKSOYl_N53UYRlcm4jLzRs5YDWw8El5Bx0vEwVjhxoY-0PlBIFkWESm4EMOO5JxdVOkrHZnRLdNsws4lw5WpHn8nqy6qV6etJQAqgIuPKLoIMxcOilh_zEH9Uy5z8wlKO9_cQFcRtTNiMku-tZ2kKzWJxUp2Z1LIA5wxZUAarmZ6uyTD_ZAlLtuHElI3_gQyCXQrEHNbM-Yo0zKRqwueIIPDXr4nXpp6NnhjFlBvXfDnWz8ziZ9kAVvsJ-ZRv3Jck6iw
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: TOMO JAPANESE RESTAURANT
-        uri: https://maps.google.com/maps/contrib/113006065779708728485
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWxRirqJFMwbmuPEgc_nIEI-FH9WMeCszvimzfhEF63Dz-Xt1A=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMDtS8nuHKjJjqyTO5-G3PHyROml7soHqjhqoYo&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMDtS8nuHKjJjqyTO5-G3PHyROml7soHqjhqoYo!2e10!4m2!3m1!1s0x886b6f316c7a6559:0x89038f4b31cc51df
-  - name: >-
-      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AUy1YQ1L0zlXrkOOplqnbkHlVnAoNfvSAPVFpkiTGiOUHcE8-5I0b8633mwI3Mmpf-Qr7TSbEBqPYLm0atn1CZGu4U3iq3IxjFRkL-Or6M04frutW6ayvi7N100_0aTfiC4YNEXl7DdFW7ziE18D5msvFg-mXzptLIAp5Mus_e4ULtW5KiWHCbzIkcq_dy3J1UTBrNmVl5QIa61UTDjCKSzf7U4WYqyjAtGT4YuIDjyupDgFBXpICwbNyUqq3hk5aw54Us1M4K8JN2zEucdkqkssR4JCgI82Mf-3QuJsKMk3uRpenK4CvSBUJA_vtEzJF7propuMU-srpwsxDRtN4luO5wIAltPAZ6cWcGPJ0Vp0UZgWMkcKjNAx2UwFtPAuIqSXYhVQ3ZKTtXU1TGKaY2OgOltaY9MQCUO27ZJOyOxISo-8I_du
+      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AeeoHcIE2osONieH9p8pYYphpbVqmga-wr1CBA6gdkMyX-LdkbdjlwxR6riLCRn9_DrtU1zNhWKLjY7fBlGO0n3jcPlQZMO8EDhOAOQQ2ry0PHPCa86A0S1ZVIERnWeQ3NtaqssouM2QsgEL64D4O21wjT0jS3ntqqT6i7aJVRq36FKVU6qYh5rXk61pXn9OZOMwTokYNNQpyfNQcQX81iEj8rxTYyKGh-Tl4ShOzEgLAYUJtarXPAnPTgta1Q-X5CnNe_SCzPf-pg8G3Btiew-7SdbJictQoJag98cCSpecXbFP6yDeqVU430nO8YEa7yMoBxBPdV6IVpMngDXzcpE4V8Bn_tart-B9fCLLApWok4fUcEii_J0Q_iTzPFDcR6T4mdnMtMRXIWH00aE-1LR2FP_RLKdjVD1oedewZLpya7PABNzS
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -86,20 +73,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWqu352AE!2e10!4m2!3m1!1s0x886b6f316c7a6559:0x89038f4b31cc51df
   - name: >-
-      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AUy1YQ1NjEOPRmtrlu0wAr1COskBSXtjeMzSh0sFLI9B_HxQa7dLiEvgRpBX19WsSRxVRo945aQDQdGvcYS11Ws7yc3Y2hCZ8B_g0OlUjhvpUvPvh_OQeeJVLlVIsYNIU35JimcUlrx2BbgCjWsbDNuXWRNRfe0bMVxa3KbH3Er6mIG7YSdgzphA9DzjmdQBm5PU-hKGQXt37YGSkUfgKpOlk7UWWT0tPvwuyLBzK70Y01SheQSNWOG1ViEFSPu1Lva97oKLD87g8Ezyl-YG0Q6ACfJPLjOMImCWOhrtiW3-BZud8lNSfbsdkrlaWS-0zi2H54ahTphwGSID9VFoHmYFvkGwfozTv_If-Gjg-BAe7IwjXJpdAgg7UVIudV6ZiaJIvhjQCFIr6is8W4sFeJuj-uwQTCjhcfkf_sPZSBytEPUV6Yw_
+      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AeeoHcKLPXvmiQNsLVRIsSi46T_Yqu_w7F0fPAuT9hCEwZ2RBa9RTw9LVRfv7IJz5lh39MNC6Z-vDRrqTPR7pzH8Qo2eCnHJbcP0xEiYVpWB0GvQHGvgpRVP_BPycHOrh1DMn9Z4-gdtPoZGOmfD_l54A0E-XVDHNXyPgK7KJa5upHUqyEEt2OI6gqwjCbZsxD1bZGB3JzLaRT-r9sTu5ik6ccSbBcYFjxut0IjvcviIzpcFNzSW34aqWw3XRZEaG8ipOrstmkNVb0XxOp4XA3Mhd97OCKWudNxgPzeQWAeGcg2ekA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: TOMO JAPANESE RESTAURANT
+        uri: https://maps.google.com/maps/contrib/113006065779708728485
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWxRirqJFMwbmuPEgc_nIEI-FH9WMeCszvimzfhEF63Dz-Xt1A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMDtS8nuHKjJjqyTO5-G3PHyROml7soHqjhqoYo&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMDtS8nuHKjJjqyTO5-G3PHyROml7soHqjhqoYo!2e10!4m2!3m1!1s0x886b6f316c7a6559:0x89038f4b31cc51df
+  - name: >-
+      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AeeoHcJwES9CBgy4U-DpNBXX-oobvr2jv5WGBYpowx0-8JzcYmj-1_D3wrG4RV_YsuaoKbH60pf3mFC4ppKmYRwlXPwC9yKtUdY6Cm_2jG-L1Jw1EA_MMxR83E3vSfX7q9FktuVjjI5HXn2AoKzGDXXk6wOENpq7ocSh-qfuI8gF83f-5GNDy0C2aktpkHryaqK1jf32ieXBs-Eo0QcJnk9w7FHptUOsSP21U37Do-hdcwjKngfR5R89ixbkjRQnJpqTsxw4ZtAMRZJrj2CO9PvqvbPZoo5Hd1GFE7Z9cvY5re-uJ_pmZmN1k30ujzz5VnDSMe-wuPAoEvdjI6NIbobs1tPZg29b44e7cnHI5nwJv_4QIUA0_AqnhLc8uEA3NKuPFoe13it2Cgqi47KIfIfIAyZTyJjL7RkOJsyd53x1F86MoEYg
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
       - displayName: Brad J
         uri: https://maps.google.com/maps/contrib/112437133564029497563
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVLvAvPjrzWDkvjZuEsVFa6MDFS05EXNAOXR0gTPzyDrOXICuV1ng=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjV1vWt_tZIlBzTXH9i83aTKnx5lImMKkiRxYSYzno8Iz-rUmxHgKA=s100-p-k-no-mo
     flagContentUri: >-
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICmgPm-kwE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmgPm-kwE!2e10!4m2!3m1!1s0x886b6f316c7a6559:0x89038f4b31cc51df
   - name: >-
-      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AUy1YQ1U8TBUyR27pHTL7-vJd5vTUMMZlCKVprPpNckZqzsitJ3aHQfz4pHL_cqME2buC4db1Yuc-r0KDfWTgGKCO-Ii8Ww2qqxa5_lMNbXHdN_5mfku7XR2ErJVRxPqn3mR8ByeNAbwrur-lAu0uE-UAz2lPD2mK8BTMGaIeUuO0n5UBH4-2sOSB9_3HU9Cm_BFiEWe-eNqGuHEasSEDpU1zKkE4fyFP13_LK7GVWxaQ9a_GJjoZS7dEjck92CaH0FlhX-sMIToXY9Jp9ZRyJ1gWyzARi2SSAqz7Gy7XrUuFht-3cmrHVn8bPT8ri5tNsKLtF_fRevA5VmYPXqI2L5AOy293ClLWYhVF42WbXs4-o4A_ce6GNYBP1hkyHoFNp1YzxCYq5NRogb3ej51w48HKm81QldaITngenEuCxcKdjccZWij
+      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AeeoHcLv9iAT4PL6nHeOc1SsskAjvjGDeUNFO2lR_cBQ3JEumUwAZaHqU8yNFl4ZTpwiwpUCHvGiIZZAfj4mSC7t95Utpt-lIhk-89buf6wnzGbhzQrWQE6gBShyRZUpcWcu3kgNflmfvrlOc_F0ouJbALhvEM_J2CjpfDR9rC24miADxYgnu_U-CjrZWWgl0ndI29Y9fgpMqR1DchnjcUNhqS4f-t9nW9oiN2-onFUxMbIrx2XQIoaehG-daLGVj5CC0uDcK3_ZHeX10h9ixxZCdK8aPBsXHaTzu5aPBwh4Gxp7CWrbF3DUy3J9BWlsH_HO7nHZFe-3YpuqDhqqTEoBy8398OG72PaXJfxqOu10zwLKV8yzhnS_UeA-9tgJ0VSbgxAjLtXw4Mx6-whdQfpFiyFBH88GVYXE9wEDsC7PWC80lFVT
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -112,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPs8jj-wE!2e10!4m2!3m1!1s0x886b6f316c7a6559:0x89038f4b31cc51df
   - name: >-
-      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AUy1YQ1jQCD4BjLD8JjdBU41FQCuZl9yDkZRaNUmtRw3ai-tRWC61Lkyfef39MtBFOXmdNvAA0yf9XM5d_ByeapiLC738yhRymbNqa9DhrkoOSE8EuLBEYha0GHJrBHk74yhLZMBWmIDyhhRSnzlDhlpgDs5S805KOjze2iREhhywNRaqTxkqJ_qOlqs7-wPtIIUPIUVroUMC8a_MshsMXZQg7GJMt4S_7xIkEyU52Nd8BU6LcfLv9KAIq4oQ7MsdzHkxJyH0rsurMiqRDvRzqPv1jOOt1wI-TjZkGOGyXOgV4gdfD1fY1aYaZc9fdXlRax1s_rUc27v6xdGjFG84sokBg11AdJkKZdbARfJSmX29d6MpO4nT3auzQmub6KbUHNLcsJKnvKkCeCrQsrz-FC9833g11YF3RcvQlRDY91ZBQxvrg
+      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AeeoHcJfqvE2hDXVGjbtzGgi14aM_zucGsZaZEL_5gSoCCFpFCwYLrat04LotDa2k7j86XVKJx2XqAkeYe4ImAzTU5ifNYSOU6L8Gr1T6QL8czmU2NdvQUjs__XbOcGb1HAQNhe79m0RzriDA9U9adN6jGhuy28Vx0cruLXZSnHPS6bfX0aD3HJpJ3vBVKjPQNzPfMPQtYq1QC_Y-Lshsn76lfa2dNVmO3wswBsfzjuF9TvDtNjElndmmBPm7_76yTN5DQGAaOpKGzGydF3GzNlRj9YYrhWugGQPdrSm-ziwvPKKNzuQQPgOcv02DCfpNvunZzErUbtwIQ1SQh5TmtYKIn6801R_p-rC0A7sQTy-kFkBRW_pvbSwxvtgVCj6fJ8lqdt0qt0yC3RL-Ajs6ZXbgGBfAN7Ar4IDZoJ_JC39jcmuhA
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -125,7 +125,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPs8jtcQ!2e10!4m2!3m1!1s0x886b6f316c7a6559:0x89038f4b31cc51df
   - name: >-
-      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AUy1YQ01d-FUOvBqeNQQmGMxcaau6cPzzrdH7Qy5CzbYIVqd09NMNMFxrcbPg-C1EV_Q5ZxX-45AoZzJxamv9DUcThwOlLI_P6Wjya2LU6DYApmyOMdZMrhh9o1dlTqmmVloP7UJy17zH9BCx-UBi7fWL-RffkrLFrOtHzB4DIn7W6jVLBVUQRcME5SC8DvEJN8WFyqAlGtI68WP2yqEtRQPVasR3NHSZhe5_isdoVbBqa5vh5bakvwGeD3OdgUXLsgdGB_YRs2poggT5GhtlnEdmSnBSmNjXYF6HrUBqYCXMe_2W71PpFw-1ZfdFZFFa07fGBfE41H6DqaU5v7HQ6aW86IG-4Y1gA4TdF2_KjL35UdE26cUJOKcOk3c9IX28H73wOrgiOEXQiP0d4CHagwJsz_5_ZzFj6-naDHR41P1bLEfh2P8
+      places/ChIJWWV6bDFva4gR31HMMUuPA4k/photos/AeeoHcKcU6nzhAeREN8GKE5nABbeERaL0wxnBrfPQqYWQm0xr8wdlDZtK4WH6yKQGD0weu5RRCVtr7Oshu2B_HhcdRzgNT6xWusyp6_1hEYol1J-WSOjz6ds_ZI8IfLMeKpKjsManREvYV_SpJ8rps76R9qx-23N9PEmtupUeS7os94naa1nUgDehMiDxWHmxbho8N-cCqYBKptYaoOPIqkYKkQmkHyeCsx-0cdSSr1uT8kDkKBQxcyHhwuCKxLm3p_oCznw0iUg6--1UrBoJGJ6IYXcr-tXMzQYcAa4vRvhLQj8lSXBo3zR-inSuzGkf2DY-q_ooWc5HjZNb8H4XnvMSz9zRPs33JonqpbcLDzk65EOHRTtW646VPBa9NUM0wEDIHABD-8S0sGS6uaRlDNrRXPR6mV2okQzkMwLu4fUIgNlaRd2
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: TOMO-JAPANESE-RESTAURANT
 
 ---

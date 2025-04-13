@@ -8,7 +8,7 @@ cityName: Salem
 place_id: ChIJHfsiNef_v1QRj80CpmOiJ3M
 photos:
   - name: >-
-      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcJ0oxwafKYcmbPhXgbKGFDEq3au0LTyd4CRNOdHVJsz1jh7gybuYmumqv1T4A4YeS4wJYHQEBigG_3z9JBp5PNSMCnAjBuyaNJHsPrLX3ff9iXF0vCqrCvSwU4degHbLqBLZMdveTODhpqt1Ct9BGwmj-yUkETdS95XIpZ9QhJIz0buK2MD1-FqHdGaUos5mHna-_PQF61wHD3f5pWf7cSRpXHoG8sKUotovfIJUFn246pWFNfhELZQugZFXBHAEfVR8HrIwHVhbVZEXC0gCCcjkzzQqhM7eE420aQK87_tlA
+      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcI4s-q7THGRmQTpOF8J__3USCP5eM-ogGmhj8UeIKah5ZF4g1mt-BJJeTqbss4NsG_gv5o3wiZ04zHNx3Lo6cujNe1UoaiWjBXm3JVjPiDmSKO0Br7F8bLrl9nB6g5VZL66k500HydZrLL0OUU1sev3NNh3iVj0_yKsNEVVa0lvIvJ2XyTt_GX2o9ZhgANfUSP47qjAoJ3fbOHxUJmUr-VF4tel2V311JhxCWhA2AJEr7QpJI0Ta2jDKoezfsKH6BP0kMWI5ozUtrebxyn_eMmMlLVexl6_rhfFzzSdMhZolA
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOEPTvr600hoqFi1xkxA7YX8bgKG5LInhGsdNpG!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
   - name: >-
-      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcLhc2WzOAai72x1lw74moidYHprT1K0NzAReeX9_bHCqiOQEGVOYQ1Pl7nVSrzRhJ_H5j1PFsPHvkNUPwQFTH875n-IfsNg2SYGykDiO1bmLT9EJtBK9zyqLSZsHTdtnTeWouI-CTV4UomtTycn7YsXTLgpyI0uZNnbuAB3fL00tpYp40W_gue9tae2jDL-LCNtGL0uTIHpI4RnboUJDZLfUf6_BeaAzvH3m2EmFSfIrCik8uGzrR-DNJsuTkyZ5idXsXtk8iDm7W8_8QuMd27gQZI-5m5arcAKWaL3FCgT7A
+      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcLHEZFWCVptPfafLldFmpVFOUD3l6L04wZu8i2kcTQKfQCbgc95366rN2R_dIGol6tuVp5SZtIS3V8VaRQVK2FYkIRo1bD7siKMKJlCPfG3F5OnoGy_a3yj1KoU50WQtuzvYpAHkNA2EtxGlVPtEMx95NPvBSGQ4Bg7SkMYNQDLjlVILHWRPwodTLLn59YrzuitsYtfyntelI3EYgosstvJYCegvaqjbcVEVU1UKxCpfYAF6Bczif1PjRv4tS-AKzgNB9rhd0Cle5nPfFU85_TOnzqE_48BciCvaxhgMNx9Sg
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -34,7 +34,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO5thTojgDY1xp2Xybliq400St--WjmP_s3HERA!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
   - name: >-
-      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcJWczXKj1hRvoG2oK9gFKJnFyq60aHQuj8smY4xs3javtagdFeAIsXSIO0e5I2fEE41yeTxHIIXW5NDuDW--q7hxJn5F9MVt76cfi0EojFUFjNXdyenp8dp1QpEVVRTxcE7TJw_IsiV0BRck8fyGBkjkCpGtFl7JeNHGwaZJM0JOK6IqyHH05uExSxl2VfNuHWheAYhTWs_VrJ2bHqKJKPNbdZxcfj1NoEi4pOvzlAkDfV3sWhUWAYYGRzfRf9MdVibkKadWgK_pjDMqJV3iyXnorYtUkwcudg-tQG4RwxEZA
+      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcITG-oLdErb71Qdw2piVvqyporeZHD0h6IZiMEKCM_EekbtqsZSLjY45fnTiovPTlaLEEoSW35CD6tiJqA01G05EV4W0QPb3Uy5yzdPl2KC5IHFazc4J_3sx7Ef-0Cg1vstQouoE-mwAW1k69nqBj8MX2gCAAUHN1l9WhrDKAyGt-PLAkEY1o2W83kBSAyEvU8cLZHU7pykofsoKg1rGOPBCRsSiAJ--09ntgmns8oZDQsmYyKCT-4FX9LrJFBfYBaZUdpTMDTcq8CTI5upx6y3bN79uN88fWqZdfaI-vDqoQ
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Mission
+        uri: https://maps.google.com/maps/contrib/115752748293864994006
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUDHmiizYOgInuUNa5uv-d_zuONHsWqu9LKn-NAi5X2e6XVzfM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNDaYRoJIiI8uK5HhdfDoJ6roXDh3JNrpGbB-pY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNDaYRoJIiI8uK5HhdfDoJ6roXDh3JNrpGbB-pY!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
+  - name: >-
+      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcK7qABp9s-WTJt5UdVD4JCvHfgZbmR8fxaGTDsvRbcBkSDGyXs2dqn1Zo7xu3t3PLXWPWhSuFfzCaijlKZ7cvHSAuq7e9VuVFzAvr70xCF0P_o-51oqn2PGRCpGMGQ5Ke0FmqYxGCiO2pDV4xZefeqnsmYLCgqcnjW8fC8X0NQWtC3b5Lk0dwpp63Y3VGzpYHkbi0h0N0HiO0N3rAFFnQT4j_zJZiNSz8K4R1-jI6yKuQKiq9RvSr6nIYK6wvS79an05u-0nCoHJeFbwlWHuhcGo8e2Q_-wHce_WzTlz64-7Q
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -47,20 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMxrI2LXwhGH8XGXWshUH4uEA8ifqwRz5DMbR5p!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
   - name: >-
-      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcJRhIxJMSX4tMSUV99l1HidvvMJxmTDyk4zJoY38FlipBxRQ67RUXq2MTvfkwTT7-Awk0IiLNAm5YHlJRt4l8T7tk4o-wKyLnNk9oR1BUfwXqoiwKUA-9VEJ-H-ZlIuKvTNxBA7RFGJ95JvTl7QR-KrfKtvrCOkV6lVBSFy9cr5pkWbLCIxcClHiGaQff9TaFpYgVyYVZLkCanhje3W4p3BLEr9tuAHSZaJdbnVuGF2zvGWRGyR18si0yEwDv1WYsn0wLzGKOSfrW-MOIIevznz8qVGDwxOn4gRpFOnN7Jqog
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - Mission
-        uri: https://maps.google.com/maps/contrib/115752748293864994006
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUDHmiizYOgInuUNa5uv-d_zuONHsWqu9LKn-NAi5X2e6XVzfM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO_6TvgnI5XAK0an38RWrx_1F-z_ZsjQgD1XZ4a&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO_6TvgnI5XAK0an38RWrx_1F-z_ZsjQgD1XZ4a!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
-  - name: >-
-      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcJpvivFmGRpqZljsLIb44BD0BMj0Zkj3G8U04s0BKYt9jbncGTSqV2ReLvdTQ5hjKGEup1KzUxRY6-R7W1lL7nkMEzLFK-i60tFRUbrHAFlWYVAe8PEZo3aeFGfdy4ndBBxXc67QJ4G85H-GY8bSFw5CSwHPuFzYA36S83ZvUvDWUExStS_jNR4GF6oIVQVruTgp_f1X_PzaoLiXYhn21whesOk_rgjQySnD0oweQdBRZW6OsK7TJGRGJ7EPIwz07e1LnLwT4deXO7FjI6ZP6umJywrzeqe9asGzPdkPintCA
+      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcKhEki6nbzrW9gxJdXAzACae-i4KcRctlm72S6kG5BclM6ndy0Bl-i0CncU-vHqWsiqSrxvYs0e13z-5Egka8_yb6_ZqvqsXBoaSIRY1j_toAxm161onpe-v0GVnyC15hu-r5ON0eBYQmknfNm4JOtRLkHpQaIqkP7OxuVXHOYC29WpIg-F-jEAN7nARyv8q5PZo6h87m26cRIZdhBh1rMZ3dzTMiov7vQNwjm9GcGqxQboQulHwE5NBdVtpz-bDnk-71JE0Ev4mBaOmDB27NAk9BzfhEe7dMqhVMFjOVAfOA
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -73,7 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMuvUCnSHbpQGOUMRI2X15-KkNNCROliXd8jgG1!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
   - name: >-
-      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcKP3lGwPWby8dS8g5EfL2WHGZrs2HxgVY4vc4Dt3fu0ulaCwtHTImB6IJ2kGXMInkVKWiprSnLmW5rf5t8DjLL8FvNR3cGcT3iKQvS98L7wrb2eCdaCWljpFIHPxTAE6ijIZynaDFqTYOlGAOYMt0A8BtEx3l4owPLez7Pp4r0-HhIW0lGrIzxTnHZzTRbPac-2R966Be5b5YJ_nCx52eOadCrpzXyL3ScDGLs_mI5bo5f-e3lO_oUcQi0_AjImmfwru-HK7ax73p7QRrchJm1yftgW46Ra2KU1We0b4xMQCA
+      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcKN8SZMxdczmdfHf8O0q3UvtMH363bus-knw2JY7G9JEtyCXx9GS6aA00PglBBVhRHeri7N1nR-4LRoLR4VlMRvtO7i1YjLrFTpRj6gq-pE3Kz85R4No9o0ybxQtW9KHUknORhs3hpoGXgmXDAKtlVnp9UAhwN6aMN4a-rwh6RYkG2AGcNH8syzYddO5vpl6HU3CwLHjFcv7ygzkuCovzRSsqYnUnOdgUtpfu5YPVhiGr0TniO6FfS1RJacyv2sofW_HWKnejQALmdBf5Ziz_1-v72ej9dy9zkibhBUtXIwjQ
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -86,33 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPChpdwvxFGWy3zio9vlgAGAPgO8YJH-Ug9OijS!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
   - name: >-
-      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcL8fpZNP2VC0odDtvDXVgpP0sBYQ5aK-qezzXJYgMIvZzQ-TyV-AvloV36uSh1vbLSLWdLEqxuLQjebg_SOIZzqXoBrE0KIjkGoKymbdfZ7DIyA89m1avRDs6a-VK0W9uGNoLEnD9s_HiLaHzewBIqR6ZBUHUbquCmgYDc3RwIa1ZxTOANmn6Y3vWwqLYNtzu92xVI70lWi78GmorNEuA27y7Wcx2E35KxLhdnpGvYZRFavYgtPz2laE-vpwTUODtF4ANbik5uRHAuiHQovt8oAEo0mx-OW5iIX7owyal-BjA
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - Mission
-        uri: https://maps.google.com/maps/contrib/115752748293864994006
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUDHmiizYOgInuUNa5uv-d_zuONHsWqu9LKn-NAi5X2e6XVzfM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPKJ19k5UdbGw_bviAVWOZB3gtGicqTYiXK8m4t&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPKJ19k5UdbGw_bviAVWOZB3gtGicqTYiXK8m4t!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
-  - name: >-
-      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcLHdoc7z9fnSlq15GXjLVzJBuaziI5ntoq7agkr_0dT9hppD_gR2FceDkqzNOIkaqykJnm8BiQWskEuUztbM6ACzocK5WiAYVUWsH6aHvD3aGQHysi5zXti4mmeyM1Mo_H79qTmm2iBXbK6IXSvAWY5qY7sMdJOyfEucdqukewAtceJGgcy3D05-jmtiToqKHDGrCR6AfadXf9IDYxD40zSAIbI66eDmrnnz1L6igThivY00lv6vLbj2QZU1eyvVLBziEievKYtg9XMUBPHEVUtulFMeieGR6hC1OnBrduJ2g
-    widthPx: 2000
-    heightPx: 2000
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - Mission
-        uri: https://maps.google.com/maps/contrib/115752748293864994006
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUDHmiizYOgInuUNa5uv-d_zuONHsWqu9LKn-NAi5X2e6XVzfM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNqFvmBtrcNTRlol1N1pc_4Ml9mTgvNr9Cetbfj&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNqFvmBtrcNTRlol1N1pc_4Ml9mTgvNr9Cetbfj!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
-  - name: >-
-      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcJN4qytjakHx-JLYvamsE7UbzwIU4z5Gg4vuKqSQZ-_S3Ympw7o5kaBSE-X9E_PmCmObt8pP1vMBpbVRguNaH6AIKJ6X2WKX3HfsGkTyfAm30NCtLPZKXDAJJgn8RmGeA2Z7R59azyD8ujrv6AwFYstapC67gzZ2o2k-59Ve1ZFmkGMtxZaRPytHXodCsE5YkjngrIL1Rsew-mJpaNwzv1KJ8rg5WAbyD-LEqNwny9DMfOKbCtc0P0B6MqfgCrwT5x0-Dq0-vfvCL7mSen5OHFEJidS_h-99y3b8ex-WwWTJA
+      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcJ0VySo0DiP25ClKm7-WymtkSeFkFMo7WUoU-DdY-lvpQ-3akV7dSqjaNfYemR15wMwTWsWShUdpfScndNLMupXWOh7XGnPcoN_t8nEX5RyNoWlg3gAgwh97cXt49VdRAn0LF_BD1EsisNLfMJVvMRzvueOnReeQce8HDDU0srqZaMIgzFvem_sMLlIz1iriRHmcph5n-9SUj62OZ3l_h7f70-9bTk3xGhk8KqRcCjc40kea9ZI6wDitupH8Vk_rZJToHouG-QU1YW6RfYcG7_1nNGWgADokkNeuNsGJDX_0g
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -125,18 +99,44 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNhlIFz2ss6WcbOdctWttmRUzMHYJYNMuflZbWa!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
   - name: >-
-      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcJ4hE9R_RtUF8_1BiXJfCQ83s7Y4nza74mKlyZg-xeb_ZVoCLeg4xvOKpfINov8PPiMq_mXGZZD_YbrbLzXeBGna1jveER3qizW0g3AJyOeyrsc6qKkV2aWuehiJ8fnjNtsAMwP4Z4aZpBGakJ9m60HKyYbD5lF9Wn1llb862xtEexqbLQrOvM5UNU0gk6xiqD-EJITEkOq90xlmyplonZWld-RT7KhOGutaizlsAY30njZH_rQnzoLw_gMgmh2tMOSEhvhRz49mmd-aCggf2HLSNZ7pc5buLQX904pfHMuVKomIwyLG8qWxZU0dS1V8Xx2a3mPhEI8tqCLnRGYSWeAOY2f7QoCuy19Nins9hwhABXQvA9QYc6k0T2R3qta1q98cnabQUmawOS67iCFDitiOCl6i3uK1xeGcGMIVYE
-    widthPx: 3468
-    heightPx: 4624
+      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcJodP9Z6rslopQ9-tkPdPEvWyBmAFqy7q5cyuGyenzwKKJRwp5BjZr2DxXczoD2eSLxZSPVHljhPfeCIFsOYZlkU52iaJbDEOKDrO7atwnfpJsq1G2Nx8Hk1WNjqw2eHBcGoW549K0U1x6kAM_86VU-dYdJ6mlf7md6imdGfGKnGk8qA3szl0lZgGXY6UJLkKlhcT3QhRsAXl7mEfaFATfJufUn4OBIla37YVAdiIJnsf_Y62cvi0hSpkEKs3qLRV3p7Zmao7CtjUvJrto1TN5YzTqT-xXb5af65Di4oM1EzA
+    widthPx: 800
+    heightPx: 800
     authorAttributions:
-      - displayName: J. Alberto Ponce
-        uri: https://maps.google.com/maps/contrib/106588620394741966182
+      - displayName: Momiji Sushi Restaurant - Mission
+        uri: https://maps.google.com/maps/contrib/115752748293864994006
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUoKI1-c4BOzVrgZJLU5ONLVEOS4brKvcEJapQDyvvZK09sQjhX=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUDHmiizYOgInuUNa5uv-d_zuONHsWqu9LKn-NAi5X2e6XVzfM=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpi4WNYQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO_6TvgnI5XAK0an38RWrx_1F-z_ZsjQgD1XZ4a&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpi4WNYQ!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO_6TvgnI5XAK0an38RWrx_1F-z_ZsjQgD1XZ4a!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
+  - name: >-
+      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcIc0efeVlQ-10LodIGG0tNh8DVaEcgS8bAAUQkawCJG6H2z9_BFS1JrnMp6Qs7JIDxhqgcKlLkIJiD7nnxKMRVgK06ayoWWm04y-Mozf9JKAVMe5cgr2aWJpGO_gMdErz1UQeSwV5Y_nmIVRWRxTdcMq5vxYVdUeY63cSXCFDou1XRBu5Upk-kz7gSH3ETCOPNf7eaCjbHYy-OxO59ZpTlnjjj1eyc2V-Sy0Y1YnZUyYLks-weMGy_we7IooCh7TmpTM_RUqu4iKyMt5XQKvw-tCk0oSIje_KQUjFOApu5SIA
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Mission
+        uri: https://maps.google.com/maps/contrib/115752748293864994006
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUDHmiizYOgInuUNa5uv-d_zuONHsWqu9LKn-NAi5X2e6XVzfM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP3SWGEwnkqCOBz0cxV0GaHehEMn1fEYluC6NYK&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP3SWGEwnkqCOBz0cxV0GaHehEMn1fEYluC6NYK!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
+  - name: >-
+      places/ChIJHfsiNef_v1QRj80CpmOiJ3M/photos/AeeoHcKyWc2Hh-rMr7UZ79kdiRK1w0Ti5oQNI2R7N_hQf4XYISKDHDr6E2k_Lh_P3rzHuZrNSKT20xD2U-4gxWca6F8qWhlZJs5Nc6pwHg4B4TYSXVNZ00HpelgQcGRkRGV_p1EqvtnJpKHZBkg94rqE7oC8uuDXEBTFBpY4wDxO3Zg9EkxgGjUBS_V3cEV0Jftc3xwckrg8i_spmDL06kD6yzZgX23_lIbJ3zQfrui6fZLwHhPGE7J_L_wiX_MnZg4dlEmQR6ghZ8uIKCVvjvxuIZzP1mntSDYvAQ5ALDiXUYhjEA
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Mission
+        uri: https://maps.google.com/maps/contrib/115752748293864994006
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUDHmiizYOgInuUNa5uv-d_zuONHsWqu9LKn-NAi5X2e6XVzfM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOlw8QMERwnExCJZ3YZny_4bIqwmFE1Yj0uEwsr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOlw8QMERwnExCJZ3YZny_4bIqwmFE1Yj0uEwsr!2e10!4m2!3m1!1s0x54bfffe73522fb1d:0x7327a263a602cd8f
 address: '1221 23rd St SE #140, Salem, OR 97302, USA'
 street: '1221 23rd St SE #140'
 city: Salem
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Momiji-Sushi-Restaurant-Mission
 
 ---

@@ -8,7 +8,7 @@ cityName: Arlington
 place_id: ChIJHfgx4Z23t4kRIEGmxxJOnwQ
 photos:
   - name: >-
-      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AUy1YQ27xNd-ZKbhVxv3MKgKUYjER4IIU4eoyB2tkUMLC4tcDVn9jfGKRUExgULLH0HF8YXDfY8--ZyIXYQWdAZ5bQUYdsdv0vaUDVZHJ7waKxF1ZlEj3uGmNGtALxjFs3dscsZClLRFQ8uj8ory0f9osWtHUkavcB_muygk3GMUwRvDa_R_OYAsM834E4V_aBnXHzr5s8ygaMR8RHNasAluFjw-XASEGOrNeENutH8Od3OPkmMqtosWwBWaVbIOrPxxzo14d50Q-sjUX8XXerjmSL2h53eVMkAn3oV8dP6NeoQQthb8GVaxHKk8_BdSYJH90k_dUPhSwVYHwH5pgH_vWQHrIj5I3jpcqXlroACpRfVlDmiyM98-_fDly9g7j0oN9uhNPx1IDrTdoN5Ip5yQeU_KkXhSgSZID3LOXBVOgMQ
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AeeoHcIOyJNsySBd8c7HXLkAOAfq4u-WFKH1Jttf7LPI9SB9obOp5exEFUGDzqgPJbn2ukLUF3ewjruVzg9DXp2A3MVSW6fzIaQysurJfbr4LdJ4HmoCs73Zs0iG5DSWHyEFN20UB_vnjmLthU-uqlP-GpvxXEDiSNIKrqsmn75-cuJ_cYtURw3yhYv-CDmEwrF58YA-5YRH9PMQ2b-IKC_c5PuPSPKyGEcdFJ7O3_Oxa7nQRcIJ0uu1hZ8u-MVTO9pxed_g16Rl4SKQwxiXMfxrjTlyKPC_OUMD81bYsihcvCKvvZ-4HsuWIjFjJEfq4ATaZVfUAj8jblyrHAPxv6rebQF3-hN2TZYEL4DxN0i3x-SPAcnOw3uzXtyBQIRqrakg76gQLmUPwqH15eqFhxvhrklO1mYMtd6hVpmb-82N5yI
     widthPx: 3840
     heightPx: 2063
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDptPjAGQ!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
   - name: >-
-      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AUy1YQ0AXrmLp7p958BKkBR5DVnF0Vs3dvlXqD9Ui1d3w73PECcvPpLMbtQgz5dtTOyGYgrSyAo_vU76HX4-ymfRnqiy_Hn6NTxE-jrYN-H8zSJIkxL4yzJ5mPTDl3AdOSq9Mq0h_Cmth8_bBG9j5Th-mnr0pKrc4zqXEsEXGpZVtPx1H_-AHP8YP9VqE2GNiEw1tHOt4ffa50Y-DzWDupOhTn7i-hhbfFoiUV8EaoqrxcHm6HL89DY1RWd3zNBILznVsLBL0ONSAvdHSyG9_s0Qp0urJdW-267ltUBuFUDnSZNNug
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AeeoHcIsT3cJH0GpncGJSZ78xucnTzf_oIx2VGmjG4KvLLmjfy67lKPB0ZDHhfihk8sOHF1PUhYCL3gHshPVGL98thHc6jLeMkXSgnxdVJzm4FuWwDu8txSyYhDKoRdjeTToEZSNMvsllXvFerMEM2MG2pt4fprwelpLSCHcWEMWkKc-HNvcZRvH321tr5mLScrp2a7oMNQR0AbbK5vn9ufnuUWtQPxLyE97j5v2anDEs0w-fsvdvWY6c3vtomTvrcEDYlD-QaufQvKnzXcnvCtBY4wrKh8Y926GS6OmoYnH3MLA_Q
     widthPx: 523
     heightPx: 640
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOMcffLFtPQQb8SvjNoAygrhiZCrmJ6AmbzjxS-!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
   - name: >-
-      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AUy1YQ3WOj9gX4plB_YP2ryjDzMBpqDL8KLBgEUtBeOG8rr9Pwe24_ump7B5TAcE5dZuC7ejXD7yow0PdksPhcuJF70udbftIC9I796dQBiyBuSVNygRYPnqII41vB7WSx0kYFoPBeE7G1vqaa40hrHaDpH6Ioc4UjM9y9a3Q-7L-pCLkJYZIbcVgp_6rYAUATUmhC9WblBY4MoFkGLyeyVp2l6XVAnGGCgFM5eK-WtYGpVnKDkn1npZfLcA426flf6SgMkdoSJSUzMNLn9nJishJ2NqZr3rtI64lKIOFdag1aK7JeitUNsQ_c6jjBdJVsbAV74YfKQQOtI_sZdswg4u7eoWESaE-MyaHAEKc6mVuUB4A0yF21Jl-cPsKN3rStxTyp8Qc0GZMtfaqgTDv-srJyzYSaOPStOLYKaTNNzB4iLszw
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AeeoHcJkmrn6T3LC6iiAQqES0oRdQJYu8fl8_7VxX4lTAIAUyANUj-BB5sLXl_9Q0paEr7TMcys8wRx51Oli8xeOltLXUTKeuzdjKSU-s5A_rylx4Jp12uCGX9HK4aC7guU5XN9qNybOnRu22MdgHKgEfIxTZbrzSV13tEN9aP1on_NIR9IzWQT2jFnbWz_RhY8Eqxe_PQ-wJdHhKjBxUhUlmSU2Ob8jrJ71yCN2iAmDXtkagXpXp-X9IG5N_YiGcHd7SDi2JDtlwuOGlgkWXeXkyILuZFMrxGeyHzMkeonmJ5dFI6FnEhsCfRfwydEw1PvpkqnPSViET4TDeqAY03wQGcU8bGJncJMkWtcCY-Y2LdgRZbkPFXcU2qR6jUo7JNqhNSsV-mxbxKr9b3172GorHg9SFvPLvyZoi6pHAEhC5dId5A
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -47,20 +47,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb-oj2Yw!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
   - name: >-
-      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AUy1YQ0ziBza2ttAxNcdV1LhFj37DuOcUBv3lENoGy0fVNVGs6dEzEF589MT6RZJ_Mz4Y8zHM96kecRkbUOCnSiKgbLxwwiMnIYFsa5uwFcfnyCaqCv2n25GvvyQf3JrNRybTPG0-jSZaTVa9Q9907or1DJu1F9BsQ84vb6KOtR2OfrExqnJA4bjSqpcjvfUlKP42qyalxoBxg6wF76NLQY5NnXIv-KGtCmEcQph2G_SGgSXtrJVhRguZCqmhR0NjA0WmQ3Z0KKEVituPK2dO-HTRnN3tCdeRwubCS2-xE0up7O--C8iHORCgkO2HvxumuQhIQHtD9roU2hVfPCAmrOxaDUepQN0fxBLXUeenS1DDADPkB30mscX4vottYwi9GdOvZaTa9uNChIgB2g1UkzCfRFxgYj5p39w7BNoe55edDQ
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AeeoHcJkBlhw_j2-9FVMDZFmX02E-FJtrXq24vFnI-4LPovWdT1McQajW3Klst_TqP1WVVFKf1lJdMLsC6yB98X1ZPI3lDwqseXuZPX6p0NWqx1zYOBFvmtMQ4eapWix8JnATZVJ1mu40GWhOGfdEQxg8iMkKuIxW5rfGN33M0pVrEpm3f6dpHsw2RGspLTw4pzOrQzuUvp3xt_lgWzo5KC9gXb5QAM9bdyEyODcwDvVcl3J04XRN7r3lj58Q9Sa_UscvOUPuiIbpRyUXDJCJhNYF0OQFqVxFmTyy1dQrAjs1o7hfzKZjKApyEYdBovxLZgV_JIzyElGjm3ci22ruBUAAlO7-nxYK9Y-XJfiUdGD02Cg562pBTrXsnp9NrC7mWMHtSxt01qWlA9N9c2uZmCbw8tkMLDqhPhH7k-kJLBLRmD2mA
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Joey U
-        uri: https://maps.google.com/maps/contrib/101969426744162637479
+      - displayName: Corina Mayo
+        uri: https://maps.google.com/maps/contrib/104425517738217169761
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWZtKCF7LqrlzYpLq32I64ijyRmGM4KZVDfCm1Ls5GhHZkkg4p_=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUuBOmMBuu5XnpkDRvzvdu5Q286pPwMiJ4bdjNNmDZsalJmfuxMnw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDyIn6Wg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID38-L5Sg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDyIn6Wg!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID38-L5Sg!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
   - name: >-
-      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AUy1YQ1F04z2Drlwu4GFCWDtMDj2nO5LWvph41LMDx48tRYbzN7u1m98Z2YMYKm4dmdK9XkdTkSdgcFqFTZ2ER07MJUZBjOsWSyU61sVeO-gsg0NV0At9xRTmxEua7iFZTkWdeagrqbeThgO7M5M1v26Of4byd9sW6IbkTrScZ4XGfs4_PiY36c0EZ9rQ4555vTLtfNTbrjIZIIHLqi36Ka28WNQy3Rjs3ark8ipXlEqG9MYU6MsdqOegDoXE1VG2g3-HFA68DsV-7gKa-SMIVfufnfzZ_mWV__EE2HEmLuJZEnE88RfWbx7mPRhVmDyNeWyVxOXjYPsgqqxaJu-0aTdFXdElOqOFEdy1dr6yzbF7Y0odIU_UxzmDCHVeynTxqE-tDKXS52PD8C9QXMvApRdaFzwz8UDi6GBE2drD2l3dkFUwxAE
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AeeoHcJ5HTwGNqaPs5Wd4R9vymxY0iYK_rNiyvdqhd876rsXzh21zqo-no_7iykgO6HIjps9zA1V4B3gSRDWTci3l9gr3m3jUmfbQe5EWmlfHWpdzgWWXq0d1LCXC1V9BDirIztSJYKF8n8sIZvlK9AXxij3BOqmBMVDxw4znEx2mNZlAfe85xTxlKxKkrlDBiyBKgFsxj5XqFwt5Qc8_Nfx0RMm10PEquLi4COskpQH4EE4QL0e1Dy9FwsCNb4eNKGlnILfSyzJ9L8lyq2PiUFRewk91FwYO6RPBSG2w23lGOsKzql1XnfwIkFC4dROIbmOskJYfVKBz3eGpPyJhDkWK2kVf0fsGJbi2YxGLj3KYYPbY4Uf9qBjbyDZNKxUYpIUEoByi-1ZntkxfMN3dmP3yTR5zC-xzKfm_UqIz_gPJ4aLBooV
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
@@ -73,7 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3jPubpgE!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
   - name: >-
-      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AUy1YQ17dy7kRPvDx9JbBB4KwWhaVxdemKlZRmPhNZlEHkv8BKdVdNyHCYluzSKy5kkq13-HR0ajGEBnFKCCG6OCkuUU2ckrZi59xlTM4iyrxBGYPjWrsyqzv7nz5ilKAjDXPYfpFHyd8Cxm6QT-AQr7pXuVpcNMWDcIEAldGvRwt3NhKjuoo-KCCtTsf62c4sQxhkVNKYp80FK3fQistg9bIxJ-jYpE08DObKQ9X3qlw2YFL2re4SuI9eJrmPhChk-F0vmLfqEPsiJgucTLnlq8tH0FfWiLwt71lDIgfmrNmMUFILgkl-SSwKRE0Iu39fJ9BV8-r1tEt0oHY7HUAZuwVP3sb34qpDKaYxkA2kuFDHespN5M7W2mVcmjHvHt15k3VPc7Auop8rUiKmn7S18S_O7rA-2sFrT8ooeIBDzi_adsag
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AeeoHcKjUmS-c7t0y1wluAiA7C7WdYNBHYtbqNtcVJw0k2dos2-LBahVeCbcIOeJt5FFpN_pW6T12yeJodWFPNzFwyZK5mlndRJAToIs_4tcP3aKu6XrOmidsWv5J0oE6YdTYQe2xrIsN1EGGZobt1moN4jjdswadfbP_FOyBg9-_SYZSRaoJ3pYYL9ROaGDaVZ6TjU5w36OIkKChX68JifHqyb_DgZzeOB0AKSbtFp9ukpYYXkUN-n1ROvuHBD7tGfUoCeEQ8q6r7xpbEymSEeHevNx8qr2T2_TzKsOir6lSHUaUVwNNec-zhdb05MDFT2TkrVSquUT65novEOUpDY7mcrr04vR6Kye54ubda1gJvu1VIUoUE_U3iXmB9m8JuT-Na73jA0rRQkYQaPnHIWux68zisVZBGuEzh4Dp5fBy8jN6w
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -86,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDxZntZw!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
   - name: >-
-      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AUy1YQ0-zbQ4cNvVZJR_L4EIx_ja_tc_vbZ74WcQeVTJUS74Df4q41w4HHSGq-j5LW0xBRS7S9f8DMVSwoC-zz-Im5rpAhD0ZEKx4xw84Auo7594TaA95nDErjR40XFjwbe7Qn2IT_guIdawK2KR1fpI7ZRpWWqLJXLRYZn_TIYVPZA9WQev51zogUU8G1tLoC4_BZSWUHOHS6RPDpg7hQ49yeHcLeSPKhdanxpkLnuba1plGizIJLz0hOV7jvwyXv4p4rYmXSmG6BB691Pw0qNGoHTC1yf5lo85xt8hmwXUEXCa8a7MEcqHSepy7WWGGtGVowC1ZlFjno3-NJy23qTZkhQKd8bu9NYvzjLG-hOsc5lGTFRsy8CGbx99ttjNf9hsg4HHBqDOpkAOvymd0rAoj2vYfBjsziHFCK96yFe7qPuw8g
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AeeoHcI9qnFfRwF5-52d8pMnAKiy34rqlWW9paIVRd03tutDpyU3zL35uqFDWVjrCSZPd3zyxfvS7V5DVsNWYcBTcqD7LczfqKL5xueQcv6WcxQtRXNx6NgS7z5ujRWhY0nuKXFLym0YWPvt8jb9_E32_z-qVFSiu3YTyttOdn4REXkIsH51Wbfqn9Mi6li1qSnFzjb6T8DUH0VxWIrT4P-FZAHE4L3bmsKEkN2EU6pQbk6bFtHZAn2Mi7xeWRSEqgciBpmeFmQR4YKIuAG0hcWOqtdSornRJQjKYl1rLgaO9R59NFOsGRIqF7Ss2qd0zdK5nzHVl_dncLpPRBWwR9-7Gdo7l49yl_evVG7jlgHuGbeXzb-v8plrO-jxtB24Cu0npcN721-Wrk_j6pBuUm2t1Rx34SDLL6n8nvpdjcMdMwFNLQ
     widthPx: 3024
     heightPx: 3899
     authorAttributions:
@@ -99,20 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbirH-Sw!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
   - name: >-
-      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AUy1YQ2vuIbBJ1nJMmDm59tppr8ZewMvXbox-gqZXr3xkryHEiQEQYsAWFGMZmyWNth9MZKgYkznW6mzZP7Cc7vo-fBN7C202l0dricAySfWzClKMnzOKTk5LwsTsRq3Bh4enAsNgQ12sytYPJG4RYAxKgpnJFesnSt_W9jTMEhFbQ3uFQ5XUp7UgUCpm6fovIQ2YOsYHMpXoJG_n655BYFkDYHEMjDULydmtT3L1p17alnecYaWd9NYM5F-5KGTIsrCBWq0Dp-ydpkuoDoTq1KP78c4GqfQkEWmJUHJIDhP72yC4Q30tD92hyeLj9iWaErBuDIzIHDmCtHhM1AI5D1lQW81mgA6k-aVq0j5jI5udaZ3mtVHiJ9h6JKEomOg49GyrVgJ8osaFJzG8UVBLmM7zy0nvQlU4-T0wBlAPvSQLc_O3dTr
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: June Yang
-        uri: https://maps.google.com/maps/contrib/114907847530695161683
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJ-zF3KERVhD_WfJCo6V1bQuJKMr-9shsCw-O6wL2Afpl3aHw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC916mJyAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC916mJyAE!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
-  - name: >-
-      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AUy1YQ0O97pXFHjkoVTdBz-kKNFvPsdM3XOy3GnXaOu7CPlAKzxH6eeiJnZGnoS_Aia1TzRwH4Nsb00wkVI2HdzFYYmIL6GDC2e12rIQexE5krBneDiypmtHMamocsOSUFlhNBtBq_T5rrt8ZH9kjpRnAghcuDEiptMEb7nHUHRPFVRX05A7_jk9RKwUGiX9F-D_b8iH5zHo2vAAaL2JkES7hhYACxQSbChap83qTNO_aiQefm7Vqrl9GjuH3qpXacpOgaFIfbPjFWrAwzYK3dMn9J04ZggTwWea0lEAEPTlKm2dVXBkVcjwlbOyGnT2iNMkhObfA1imvWMkwy10Lt3fo4FLKKSDxEM06p41jrgqsvjKVLIMgv0hRc3mzhS4HWGGezVX7WdOZRfYkxfbfVVXj_EatbIxWcszAoqVlN5SnIg
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AeeoHcJn5prMK-Oo7cONur4Ma5kVy1bNgY0CKYLyOjcWY-M0tYzoxTWuRP4SF7dLu9aX7UC9fNstTa1NqCSrexQXsvKQX9HDv9oF0Hf2EZY9XvIM9wL2ghaKXvJrInbt1WyxkAYyzZBp9fb6Vs0Wrvuyw0wDcVNSx6MyxnO-i3dPrC7jwO0WfRLVLdBPi7dgsVj_ae8IWziaWjkneUa02hqEvtOy6XTe7VPOJHJqd_cf5fH0MZalOegidTGXvi7BGmP5gEgiEAtsNye_a7Thj0VUZRHdeAftcnuzarcr6T2vHiLe_u2svdz57qHzxHFMmsjYb3_lLMoRhrn7FkYyELPCE4l9tsVKGHCVYoeJ5LagRTrMado5NNzB5GwoNJMaq_sAf_i8t0LtdGwbs10-iXBxoQnquKwsjnLBZhXo1uoEzgA
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -125,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrx5O-Ww!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
   - name: >-
-      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AUy1YQ1cfpZS6JZhXas3De_DIWp12eGfm-krYBskhWKWZv7oTBs-A9J-38ujDp8ySOUCgRbfFk6G8XCZSgxEBpb4L5dkhiqWvwTI8_dAofWiIh6bCOxAIuacCLjSZLw2ZhB5fTvL7Hu4HgzvNc9uGuLHyyARsXgAiGe2X9rGYPvoqJ0MooM9xyVQgY_NjpsiFA6nyxk3Fw_al5ps6UiTtYc-c_UDB06_XdjW6ufgovMxhiZ60B5biA7-F7hTPqBD0ES5toCDu0Hv_X131KCSS0Rkhpq_x4b69AveoYKPmSLB7cHjEfDEHeye25pKoZedWUvwluCX5iL7HhgLiutGGjWGhhqPVqPAx-J5UCR1r5xprZzxIL7IrkAEwmx4Hap4ANOCwVTecLC-QoDTK-jafXYs6JeOXmDxi4_L4QRg3UjOIvU
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AeeoHcJUrYM5kXOFElJdNlp6QTGiFgZVsjDXLSUiB-FkV5iqNd1a0fciclFObfcEZ4dXsl4C4VbnjHBHOYC6hCEiNrIJdaxlr4M-tApCLQUPugr3ahC3WE86pkjdi1e54ecibJHlcgPgms5RyTqpXmuMD30TNbP1VrgaRRMUfNLz8cz_EBukInRCfO5AJaCU4WLfuAV-E4SDtHpMX8JnNjq1FH3DcynWo7dVNyIZVVuj2MVt-Tyb4O4hkZWq-hz7RjjQcWuzLIRm_pk8VozFFGxpwWay9nXlqR_6OcNRtAF2jFMBh0sysrnXEe4OHEOY3F1C1xzE0eOBUbD7lVx6zeFSWYn3sesxeC8rP1koOEH0wqhDjVgAJzWHNjqU468Xc7qce1TUo2oYlqr7qorHbLyhSdJQlNuw4OfXm2kYLLM6JDQ
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPncmBdg&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPncmBdg!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
+  - name: >-
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/photos/AeeoHcKJvyg5eempaS49cGNzgIiG9afNSNIRAZlmUG7sUmVAm6pucS3O-y-niTG12INQmzVIC23johWkcUcHGSZBR5OmIZ81aQwTkIPCt2Hd7dKQg5hL5EGmWwpZjnz0jMFwOHbsf00M7tcCFlQPIbgBn-KfeK19zOscbcB13RhEHoC4XIPd7TK3CvLjKdhwabNiR1qmm1gACQl7rK6docVz68ISxJUdVB0IbfSGT_rXgw-McyTbwcdk73lMw29PCcK4AN2ZpoaiHIUg5jAvUfO-ZPPsfceS5Yo-gDXOJnr7YnEJAk0fRmcvGRvND4PntyPGk2-zIh76JcNwHy_OKQqAlzpC6klvW2lurRHJcY34I9U5gqCZ-fcnJu2sNXMCIEoprKsLRjKQYOf9X_M4E-GWv4RN-2pRN5Fw7MQ_DPJyQAA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: David S
+        uri: https://maps.google.com/maps/contrib/111463151455103079099
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV-c89_bsG8t41amZm4Z3iQpnflkdzWtpkapSfy3xl8fbDpakv9=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzpvboQQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzpvboQQ!2e10!4m2!3m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
 address: 1201 S Joyce St, Arlington, VA 22202, USA
 street: 1201 S Joyce St
 city: Arlington
@@ -176,7 +176,7 @@ secondary_opening_hours:
     type: null
 phone: (571) 777-1998
 price_level: PRICE_LEVEL_MODERATE
-price_range: $20 &mdash; 30
+price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.kusshisushi.com/
@@ -191,18 +191,201 @@ description: >-
   outdoor seating, and high chairs for kids. Reviews often mention the
   presentation of the food and say the service is excellent.
 reviews:
-  - ChZDSUhNMG9nS0VJQ0FnTURnMnRDbWNREAE
-  - ChdDSUhNMG9nS0VJQ0FnTUNnMHUtRW1RRRAB
-  - ChZDSUhNMG9nS0VJQ0FnTURBaTZ6d1hnEAE
-  - ChZDSUhNMG9nS0VJQ0FnSUQzOC1MNVlnEAE
-  - ChdDSUhNMG9nS0VJQ0FnSUMzME56VHdRRRAB
+  - name: >-
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMHUtRW1RRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        A great place to have sushi in the pentagon city area!
+
+        Food is always good. It's our go to sushi place! Prices could be cheaper
+        but are not crazy.
+
+        Salmon sashimi & salmon avocado roll are perfect on flavor but small
+        portions! The noodle soups are good.
+
+
+        Chicken teriyaki was really good!
+      languageCode: en
+    originalText:
+      text: >-
+        A great place to have sushi in the pentagon city area!
+
+        Food is always good. It's our go to sushi place! Prices could be cheaper
+        but are not crazy.
+
+        Salmon sashimi & salmon avocado roll are perfect on flavor but small
+        portions! The noodle soups are good.
+
+
+        Chicken teriyaki was really good!
+      languageCode: en
+    authorAttribution:
+      displayName: Ilse Ramon
+      uri: https://www.google.com/maps/contrib/107567132587120716247/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLeNsFq4UJB0njDPAmlxzRxY3RAQ2Uus9LAhXXA4VQYhvO3pA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-15T17:07:57.302396Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnMHUtRW1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnMHUtRW1RRRAB!2m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
+  - name: >-
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURnMnRDbWNREAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        The sushi here is good! Not the best of all time, but good, especially
+        for the price. The sashimi is fresh and it’s flavorful too. I like the
+        atmosphere of the restaurant, especially the art and displays. I waited
+        for 10-15 minutes to get takeout so not a long time. I do think I would
+        go here again.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi here is good! Not the best of all time, but good, especially
+        for the price. The sashimi is fresh and it’s flavorful too. I like the
+        atmosphere of the restaurant, especially the art and displays. I waited
+        for 10-15 minutes to get takeout so not a long time. I do think I would
+        go here again.
+      languageCode: en
+    authorAttribution:
+      displayName: Lillie
+      uri: https://www.google.com/maps/contrib/114301580493062430408/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX-f4NaQcuvoPeSdbFAo5JRvE_SYQAueazKPizyUNJLq1kxGZsB=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-24T05:51:35.734391Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnMnRDbWNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnMnRDbWNREAE!2m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
+  - name: >-
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURBaTZ6d1hnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Haven’t been here in nearly two years. Conveniently located in pentagon
+        rows complex at pentagon city. For a quick and economical lunch, this is
+        the place. Had the seaweed salad and chicken kaarage (Japanese fried
+        chicken). Although the breading seems different from what I am
+        accustomed to, it tasted fine. Can’t go wrong coming here because of
+        wide selection of sushi, sashimi, rolls, and Japanese appetizers.
+        Service was attentive.
+      languageCode: en
+    originalText:
+      text: >-
+        Haven’t been here in nearly two years. Conveniently located in pentagon
+        rows complex at pentagon city. For a quick and economical lunch, this is
+        the place. Had the seaweed salad and chicken kaarage (Japanese fried
+        chicken). Although the breading seems different from what I am
+        accustomed to, it tasted fine. Can’t go wrong coming here because of
+        wide selection of sushi, sashimi, rolls, and Japanese appetizers.
+        Service was attentive.
+      languageCode: en
+    authorAttribution:
+      displayName: Mark Benitez
+      uri: https://www.google.com/maps/contrib/101289491934499109975/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUniYWaZUqZWJZQP3YFmFbr145VnYOnBlf-RNQtTVyDnlNGArbJ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-11T20:01:23.196572Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBaTZ6d1hnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBaTZ6d1hnEAE!2m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
+  - name: >-
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbTgzSzdBRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Came on a solo date for a late lunch. Kendall (assuming the hostess)
+        allowed me to choose my seat outside and brought me and my dog water
+        while we waited for our server. Vivian (server) was kind and attentive.
+        I had the miso, spicy edamame and the seared spicy salmon roll. All was
+        fresh and delicious. Don’t know much about the inside atmosphere but the
+        outside was lovely.
+      languageCode: en
+    originalText:
+      text: >-
+        Came on a solo date for a late lunch. Kendall (assuming the hostess)
+        allowed me to choose my seat outside and brought me and my dog water
+        while we waited for our server. Vivian (server) was kind and attentive.
+        I had the miso, spicy edamame and the seared spicy salmon roll. All was
+        fresh and delicious. Don’t know much about the inside atmosphere but the
+        outside was lovely.
+      languageCode: en
+    authorAttribution:
+      displayName: Kristen Tarrago
+      uri: https://www.google.com/maps/contrib/106666744240719322525/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWdFt1dZrrHkwFhVICarddJff2MyCXxLc6t23iHekCwHOF09GI3=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-04T21:26:55.138722Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbTgzSzdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbTgzSzdBRRAB!2m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
+  - name: >-
+      places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzOC1MNVlnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Excellent waitress with a lot of patience.
+
+
+        The atmosphere was cozy with large wall murals painted of dragons,
+        rabbits, flowers, and more.
+
+
+        The food was good. Had the steamed gyoza, fried California roll , Maki
+        California roll with real Crab meat, Chicken Yakitori, and a few more
+        sushi rolls.
+
+
+        Cocktails were quite tasty.
+
+        We had the lychee cosmo, pineapple, coconut drink, and a few beers.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent waitress with a lot of patience.
+
+
+        The atmosphere was cozy with large wall murals painted of dragons,
+        rabbits, flowers, and more.
+
+
+        The food was good. Had the steamed gyoza, fried California roll , Maki
+        California roll with real Crab meat, Chicken Yakitori, and a few more
+        sushi rolls.
+
+
+        Cocktails were quite tasty.
+
+        We had the lychee cosmo, pineapple, coconut drink, and a few beers.
+      languageCode: en
+    authorAttribution:
+      displayName: Corina Mayo
+      uri: https://www.google.com/maps/contrib/104425517738217169761/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUuBOmMBuu5XnpkDRvzvdu5Q286pPwMiJ4bdjNNmDZsalJmfuxMnw=s128-c0x00000000-cc-rp-mo-ba8
+    publishTime: '2024-11-18T19:06:43.955626Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzOC1MNVlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzOC1MNVlnEAE!2m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
 parking_options:
-  - FREE_PARKING_LOT
-  - PAID_PARKING_LOT
-  - PAID_STREET_PARKING
+  freeParkingLot: true
+  paidParkingLot: true
+  paidStreetParking: true
+  valetParking: false
 payment_options:
-  - ACCEPTS_CREDIT_CARDS
-  - ACCEPTS_DEBIT_CARDS
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: false
 delivery: true
@@ -226,6 +409,5 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-slug: Kusshi-Sushi-West-Post
 
 ---

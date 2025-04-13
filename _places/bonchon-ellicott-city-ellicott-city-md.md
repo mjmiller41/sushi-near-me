@@ -8,7 +8,7 @@ cityName: Ellicott City
 place_id: ChIJXS_WNtIhyIkRxjTRafbsWuk
 photos:
   - name: >-
-      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcIkGmHDyRVewi7OcrVjVifL9yb-BAmxAWysMTttyKf7nQVcqKTQjJoJRI-QNX3bTc5ldSZ-gwIUMR7WmqRllmdf6DxxoJLfpMVBNCkny7u_CGgRkuyUK5XGzhl0M3f5ibdn5NW_EPNe33zhZck6u4aD5lKrIudoHy6JSg-AiIfj5COr27-C72gDFXpGhw2euTb6vwcNfl1JiOg_EBgpUoqhP66pgjks9mITKxRMzzUOkC3DJyNOq57yZU6aGAYxGY0As5Jci7PQIPy7lOtMt852oW5cT8Fnwvqu2WevoiXVBe6uYaw_iwKN29aU7SnSY-SQTACs12xmStw6rFFxcwey3lPSDL48hhNBxVUQEeXNCidJ4naDHxEbIjlly9DwaetmWkVLthS_dL4eBEnx9NxJgfFYkDunG6BC4qRZPt1LaKo
+      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcJm117E86RhFgLie_CwOxGeixm04KsHm8HYW66zjkwiGA7XLLW-vtSg0rdaPIPo-4m_JMPhz97i959p2yQ_2McEpK6PbFNOypteWVVK8BkED_SqOWKLCaeFn6Etd-a7sDWYmgOiptR33LdZ2XiEJG5GVo3jZqO9knxZidOBXZMVE6-gWZbMSYiO3L-uJQPYEpINLn4rBogiklHvlg7deaX08c2xSRPSyvD_Xsk36lGSx2c5a1M8_wJYlqR59M4ZVIavTHvvg8IgHlqSw0yQH_FmMM8qNnjK8nP8-ZyZm2XtuQUtX7TqUch5mOY3w9FLaYNU68qz7UTfLE_K_zpgWoYCG6RqPQyFGJQ-2Os499soQC9PKPseM-XQOaIwwky_OxQp1J_y1O1V6-FvgdkQNnZ-m9CRqyS37vdTgy_3SKs7oXM
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOxJzwpwE!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
   - name: >-
-      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcKYABtgMDdFdSJjsmOMKlSTqN1qghsH4nUknyVsQJCOW_QZeT5Joqws8kva_Sf5FYfT7s6LM75Sg8BXOrNHq_iCEVd2Z2XhU_dHyJQtwsUdf8TemPh_JgH-pag3eCViJQYov7uvKO5xi_SQ4SpJU2Zb-Hi3rl1uJTnxNZU4IB5LeKTKS7a6Sd1PlNMYLik6SpSI3c_VfA7bfJalUlOLYA4moQs5pl-fqAd34jF4k95hOoW-dHlafKGuYGsUoqW_LzO0uZMkwXUtq8ja-_udGej7rJZQ5OyMG_xsGcBnCsXefQ
+      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcIZboE5kQ31CRGw-KpSTo7Vx0gvSceSmTmyfw1fmdLWF-TdLHXPbzECoa8GUwC85ub5L0fK0xoDLVIA1ezpcQ3A4njGI9bORJQh0Om4fZnGpoD4draOj2ox-25vkRcwbvCG4Et4-5quVPVp6Xjr1cKky5QclDXqd7XVdWBHF5BM0-kZ3Mcfh-fNDUiY-loDANFjFXbsX-RrmXD2z2AElzFKm6VPehveHbOOswLTJgMFwjatt1iJu89i1KAxSuvYRheXqExjYA4yX51V5Ak7erQxoPR5BI6XBnh-eLSqTo3ECQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -30,11 +30,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWSN41QM6VD79IDCDYwtQO6fr9slk50GL9IOZogvVCz586ZJrfU=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPUcXtofgh1_CwoEsuLWjMETK5jrP04p9G-qzno&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM2JkH9Yt1Aoe5gY_VTB7XXW014tvuAftjhmz0V&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPUcXtofgh1_CwoEsuLWjMETK5jrP04p9G-qzno!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM2JkH9Yt1Aoe5gY_VTB7XXW014tvuAftjhmz0V!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
   - name: >-
-      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcKJfMMseT1hQkGtt-f_6bGUdtMX6jZekqrGu9V-U2dut7KaP3lU4eKZPi-jnSWj9ya5NGE6BxeTMMrMSYyJX-rSxexd5Y1hQduiFMe8WPf2AXswxT_TBvmdzPvmIH4UKTE6CzpTnj61JacYf3-atR99Wb9rLGL9WXeTS1TeVsK4tccdNVKL8m39vlj0npscg7MqeP0iebhDDIsSee9Rxe_eYDiAUaj_SKwMfmmSTJDtoUDDCEV9bZw90y8vFuD83xys3iSqp_oWGcJwP5LF4BhlgTapTFWlWXloN8nOwF-90w
+      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcIeM7NHQ0-t6IUWeXYmlnAHcxpX73dughi6kt8OLSEGY3NKW4ziudpOcGUC0icLmnoIaIG54ZjxXJaMiAHg-JL1jZG4a3fnwxgiRUluL3ooA4_L3fdZgU63RcXtvWJaDv3PQuA0peNYYEkRlrrLoVUgPT_mOeEX3qb76umxZ_0J46Gj60VzaN--prltosBqoj3NF2df0nrmvlBue2bUgr6WZ6_LqK_GaPx0ZUmCUMaIB2FZEl9yKVT_Bsr8qHw4KS1g3YyysHDNaAZoXjzYdBCQ-ZPDN1rU04T4KHT4vBG1cQ
     widthPx: 1232
     heightPx: 693
     authorAttributions:
@@ -47,33 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNe4Pe3sGUvaU9IadALBFsbtKbICaJ6auar3F2B!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
   - name: >-
-      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcJy6PGPIsaWh0h-FrfW3B1kzU8Gu7Xi3Xs9wCkE2dHxv8kf_Hpsh_cLMntnlhgYeETvmla4XXzqKCoaoUWRtic0oKlBZWYybjloQr5tN2ksWX4IrIILLIKLEYFsyEzkYP5JKkzdEB_stGiCoRJI0mYiIqx71kXOFcndr1GXgLd_HyHwN6igL7tSsl8ibV0pVkprz0pgmTE49VknAjZl0kpTUYfOmx3keKmop0jJY6dsYu6TZZY5vI5joBIjc-a1phClvkZTC6tc-v3UZk9evXXb6k97Ov2CczP4HhzxfkjHygOqdCLgA-e5LqetxZleIW2zhCpOoHLFCeZ5Lw_BkhIdpUebiamFJUPa2YGbXCFVhQJAQXiFLxwxokZOHuY_aIIj7XbVCSn7HNaDxsl53g7nAQGaCWMHD5SxpbteI9TIXVjV
-    widthPx: 4800
-    heightPx: 3600
-    authorAttributions:
-      - displayName: Jenny J
-        uri: https://maps.google.com/maps/contrib/114022757854249679325
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVlosXjKn8D_EeOLkrB4u0oJDEdclSESibg7mb7EbOomIM62TW-=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvsurhvwE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvsurhvwE!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
-  - name: >-
-      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcJgnUJ0WS7mspYEwAyPMhz8KApzhZJcPELats4FbzgV4JP1oJykxy_M2YEvvzPVYEJHbX9sklwCKHW9Ap1POYhNTPEkB4KkBs0P_3P7di4r0ZlHsidF0D3f8WzDeU3BTblIlCJfOXEiM8AwPupBbiA5LmliLQBvmoM0FEKv7x3fzp2O19NITMxY0QxKeFsAdMMpz92MPzBMTASVrK0kQU0DxMLY4pHMFAJZegU0v8yvTZFzHlN5iVRFgnssvV1rxXini23_7QbCEnIOmOXhtCgT7AHlQzYHxT4h7nmXFLFSdg
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon Ellicott City
-        uri: https://maps.google.com/maps/contrib/110638269998409267549
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWSN41QM6VD79IDCDYwtQO6fr9slk50GL9IOZogvVCz586ZJrfU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMkjlraUYxwgVH5jAzOb-Sgm5kkBGX6CfW45BbU&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMkjlraUYxwgVH5jAzOb-Sgm5kkBGX6CfW45BbU!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
-  - name: >-
-      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcJuiAEFgEd-P4uMOQ9UkccE9mqb9SsPlSFmbuFX-sn2v4VXgKt25d4MUCbino4mh_EfN3ERjljkAynDyo7y1Nc0j5cT2YmUPPdf4Wa6uUBjVsXAGZVt2skNAGFv9i2kr86Zyqku_BMiaNm_PYjrgOoI488wbfkPdE0lkIS6oFeu8Xyb0mMlrUhifiyXLIx0DwTQdO1ed8fT2e3doZXT6Q5RuMUYmpmhUpTY4QjH1O8YUQQHLaWkau8ogAdz4_8hXt3I4naGo2-SzXrNLjmBQXca2Vmqjj5fe_buuQizghfLKtWG2DM9Ecb7DbuFA-nFgjUJYZMGF8WYKCIkybbAW8Opr3YAByygv3P7NTfVOxMho88IVAVnrTwirX1QQdNJJ7YxPUI12sTrjzu05h2a9ulUf4owW4YveBB2-yiUDBgZUA
+      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcK5zX5FV_qsUOxDRzaxXv_oFUud_Nsc0G9k3QGcu8M5nLGUJDBmSTa3urqj-MB6fOaMquE4YcmysqGJMEjDnDi9Ucp0u6pKOMi-UoupcAbQSAxfXCiC8OuNJZFY_SnEPOK-nmIsbKz7cUeIEubvPflm81GYPub_My58LStGUMAlW_S1VjPX64G_EEQIoOrtncasN7cgbyOPn5GTlHc1TTZhdBc5O347a07BKhavXCvjAg9MFJ_9KMVXVZ1bX-T64p9EOhCzjrGit3v7_om3D3M3HBCu4VGhf5Xxi3kd1bru8eEv42RNfZQfETx6dLy9_hASmLwcLaBv_UoUMkRYoFKwsFa-ws9fl0OXYhMMO96Nlv6z8RczVbCSAkkEJ5x-KR7Ark6q8TJLLY9OPMYt3SbbA3i_62ikuKdK2k1G43VwCA
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -86,7 +60,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuofifYg!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
   - name: >-
-      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcIxWgs58CjKFf54PZMNOClVm6GPYngIoF_5xJnskZQBWdsCtcy-ecMp9XiC73970UB7EZdm9SyKilsJa8C4mIfVU6y7TNZYb3WjVoOMYVA2kXsrUhPrc5DCYwjghf089mqdFuG7i__AdgpXz3aRZA82jLy7f_TViTVVWjBssy8I0fK8QdWBSA3LS96KevYImhe_8kiZdk9xriYKBXCPKJJEm66lBBkHvdbnEciwiDcwUbULz-uv9kZQFbwuwfyCuQo5q4XGCXeUtrVjuCeedGihQDvNjZ8rDDW2Rcww2ZGJGg
+      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcJkTRMrc4OHP08ERRocwaEObKL4ilt7PvZL0FtmhFHkoyGKqXpNFmJe5R71wgOO1uK_W-JvCq9vEhBuE7_6XESBVLi_BreXrGrWU87vEqy4YGmAgXmscUvug85ndKnZjKS7_Oxw6at2knww1uYAxNVaKAikw-rNatHE8OO64VvFmLMBt_cRqFtf-98KrFQGmHsWQ-C5Uy_LYaZ0Q7hQjO92uLWBnYXJl4yldUee84ZEmP8RsFKhoBq2ZVzivtVhroaNivU76mWAhgrvT6oPFUHdwy5n0-ebfeHCbvC7KrinSw
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Bonchon Ellicott City
+        uri: https://maps.google.com/maps/contrib/110638269998409267549
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWSN41QM6VD79IDCDYwtQO6fr9slk50GL9IOZogvVCz586ZJrfU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMkjlraUYxwgVH5jAzOb-Sgm5kkBGX6CfW45BbU&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMkjlraUYxwgVH5jAzOb-Sgm5kkBGX6CfW45BbU!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
+  - name: >-
+      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcIqjNWYduBM9RJqyLGyT6OawPxcWBwX5j9oNQ0Vn8nk30LdfAsne0O0GOeYVgYsE6wiDpzYLRCCAoV4nLEb_hn_GSOFp6U4uypWPoWntempHXdJvwlwd7n31n2bJCSfoDNS5KuHp-sGr6MzJ04u60YQF0-rg-42Yz7CVeU_7nZqHFMiYCfTdiqhLVWAiQT4g1tykg5I9E9pMP956b_xE9n_4ZLBJprwjN5_yDgTTPU8HHyBlQhT6OwagLMFY3CQAXDrKnBZMk_tijV7nJ1s1a7KMyIGclm2CgH5MTDQmm3Zkg
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -99,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNgYuiUPd1Uf0SPOpvaIgpCi7u50J11x3j80sQ0!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
   - name: >-
-      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcKJWrVw7jIs5C-n5QQUgT4xH7ndO-2VJmhDVZoI6DxA__Gdgw2KD6VhngYILhcNztCbxr88x6PfbZqAu9i7fxgNZ608LLYB6xdMSv4z5vdbd3d_sMM9I1xjy5SwRCcFSvDbj9fpnLckUhthCCZpdFQUSjhmK2fmSBBdU4cgG-rLMEVUdUFKfnH2OamKRXpIR5CCvfW9kgJLvOEG_HMqEUd0VwMjtGePLJHMr0olGLCDc438_wRgF2PzX3AwvknD9lmfdMU1mYTCuArCKpz_AALhOFykQBEoPi-tPn9zVwUP5g
+      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcIjHpMQj5DJVD-vGaABldLj_diSZ5leInmjEjRUmGiJcOnDjV2h4PSevqmIi8YGiZOTo0wPNEoDLpiGUThG_sryZsb7l72yWB0mnsJsKZy6RffGwwAZG_IeopUhhQSdm84z9741YaM-i2qUwk0AfdvrunO_6wbXm34F01W5MVw6MvwLjqx-9n2Fy7b5K_Jt7Ct9YMi6SPR7wdcPw_I4mK_ASKUGWdEHFqjCflp5w8f0sQgvuEj-4Ja1ZyzdYgUhxnk_itDw_J9dN_Fr6BU8Yi4GJ7DnSGiyczTe_mfc1QVWxw
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -112,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP_ea2fbSLpKzh6XLUfD9fry6Hb9FkUx5z9WsZH!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
   - name: >-
-      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcIWvizDap4OLhS3KRMzmNk8jNAsnCb-hfml4yGP68vfC3KyQwSanN_rZMjvIuuKCiUjw-q1Z135Oet5aXP5-26lEvWjAMoKuwoKu9D1tqSxYVIjlQpSSfxcWivggvA6dH4EtSL_dKq5g29kqvYYj_A3tbQgA7G5wXKbGTbWkKbvt4qnAjJKUM72EKepw6K0HxiftlrA4wIthVwUxt_LOmqW-3bGX9Tdgv1QzWD83ZfXvT-GaoH2-oCbaGM3GJPwhVunmWQnC6o9eykm9-SK65vIBWwBEThFW_cD9dx41LCM4dZTOgWte7iy2dYVNc4GWi4-wavA8X2EALPM-pAWCJ3CKEPVO5oymJ9CGWF4ZyjhGrtec3Va8JKfj_OqsDGjxsqCWNcLQqELvx8B5uCSNgtYXrXGIq-8seJceFIOKAFLLA
+      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcIALFvE0Cp680_XgKFiJ5N9TrH_JMOoEOaJLzBkK_ytpgCcg4T2W6bHqqNY2Fz5z64MJLRmPQe_TUaVzvePTtyFGVTXFo47Nf_wn01sFAKJbKBi-U76MbAP-Ce65_AoP93ymbrrf1HApt_S12IZXFIH44NcgkrL3dogKFoEe-5SuNlkXQDRPKzW4mWkEsl-doRRIJr-3ZF66zlobBB6wUA2DtRJfR1Ax0wrk8U52N5aavSlFpSI9YIQs5g_-QFZ53P2oedrz4mNjr6OtEmSLSCAHemUFcBS0tjnzNKwKLVp350xF8DJAJaK3t33qHRTvdegxX6iVK9nGaNe0Lq1TMdJHUa80fiCEoKBvWFhrd8UM1AhFJfwEYbYwQtuZhUiUR1eVJVLbBajsrbAxtxnOBl1FbQMybB7pk6IIW7S56SKIQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -125,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbtp3TCw!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
   - name: >-
-      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcKPlvUr6MrMbpCuqpKvuonVIOMgvBetxMjCUU5qdreQIFG0wIxO65T4al4E_VHJC-iG_QrbAkq9wWmkDyFgvk9DOcMuvihj66WL8ykM_xwIUNBPdhRYmuKnmUJYwvuKusOBIxXb525N39zXe8q6srrz-k05Qrm0n9l9Bu80hnxQI4LwBPzBV3m48oE3gfQ_ioZ9Iy_4vthgQx-G_vtKgnkwWHQFIAiGgXsE1LC1r29yxmN98UWmYQeEylesgBivYdr0vgXy4PUOLqKbXH-LCVpkwFmcc4d_ViMjXzmZPzy-TQ
+      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcIr8oRTxKfL_bRLzkOu0f2z5KJtI66TCxckQU7ns_JDzbuTloFLh8ESwrYKccAR7HPdL39tavi7j3KVhQei2px_xO6KvAnAWYwtxho_pKXHy2a9iJZt0wk9C6cUNcIPB094_izp3h5950Y6wwfoYQyov8n80RiWQrzGUQLGgFxcw7pdp0Y-PLatZnTiv6i6LZA0NKZvsqoPeyuiZi6ZsL_SjGP9HGjJdukyqz7lnPjl6V0UQJLdWw-yjwFBWUiAsqY83k1jM2rYGyemX2avPGRrSTnEpBShdk-pLml-dnr6fA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNgSxcgW6xbCydX35DCZcPrnFazESrAROePPjzT&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNgSxcgW6xbCydX35DCZcPrnFazESrAROePPjzT!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
+  - name: >-
+      places/ChIJXS_WNtIhyIkRxjTRafbsWuk/photos/AeeoHcLmgO_yONFfFa9HZrkkBFfcxB98aDCp2crGXXk6ACDSUGciLvpb0D3n1hTCF7uAz-r67svDxXQw6jkMBwTmaxjnm8AS5g67K6fvK746-449rXfPesQu_xgmNKP5OpWWuXQMJlJKnX4W9eMdm81TsZvHaaX0POO1yrVQ-EMcavhmecKW90zYZ-4x-XgLlKMeX-F5syTuvJPi_GnDP1z-LV6RVL75jpOkL-AJ4JmlBl8Tp34crmV6zqtQe5obejmzTPTANTY2TWDfTvsAE146DNl_MaFggIl7WwuuZ9q8Qokf8VGoExNoNQ3fKkdqS5dCth-05THnvVqBModbbrpCiMRSDGJrWJWQOvd_614lQaj0Kfk8zPg-lMuqtTaSIqsmh0gh06CvTrWcG-gQwLzodp1VULnV1cSq19_gdDyhwyvKcAGG
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Aaron Wendell
+        uri: https://maps.google.com/maps/contrib/109164891890783737460
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV5zzxQuZc231DJF02Hpjf1fYHFncAGpkLiG6fyjTc67ymX0sl3aA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID41-2QlgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID41-2QlgE!2e10!4m2!3m1!1s0x89c821d236d62f5d:0xe95aecf669d134c6
 address: '3419 Plumtree Dr #102, Ellicott City, MD 21042, USA'
 street: '3419 Plumtree Dr #102'
 city: Ellicott City
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Bonchon-Ellicott-City
 
 ---

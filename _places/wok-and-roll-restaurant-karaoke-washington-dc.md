@@ -8,7 +8,7 @@ cityName: Washington
 place_id: ChIJXyx03o23t4kR4yjB3SO7mC8
 photos:
   - name: >-
-      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcIhPap7oO3NfEWflCym923dGJzJVDAOxqY3lpSW4uPz7YtFhhngm9-Q7ZoL4kVwPCGD61WQezo8KOsIYos8H2aMBGKCY4K_ma_6VMXf9YlX9MrE2YtXtzKiFkh6Oi01OBAcrt-_y72CPV1H3Ihwn36JISfUb6RSbyxyGJiXNVfsnciE455rE3Neq5IsvpofL8s5lV1_GQBzhe1PhOKt9Y6GFPELATkWb9h8f21vg5wvwo5Cu92NgDtw_nDOM0pZCEVx97cT7x1z7t3Ud9Ps6sbGY3XTuRuNWTQlGgTmwPuyV_xZWRIJ2_cQ_3xyH0r-AUmM_LAzW0pO01gRz51_Zf4yWHGmOzsrueNGNJIon6J19OQkaNimJVikX_1oCY_a4u3TxEGlWpY0UV0u4guojFEAOCzLw1pClbvT8ar6td5Y1nXJ
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcJIpX_GQonYi97f4oCGxonr8WC-_0X-McPTQdOuqVE5sVPTJvJ3KhelMecVjelnhdX-659QR8k-qyS8-MaXh7FMCelxLQmekp7lXOZKOnmx31rKihJD1wSCPVw1vtiaYnC_v6xBvztkYqoTDVdP-mIwMlaUsE_sdZ6lMceHPgxCY5LYEk-0dICz3mpLp6jl17bQiprny_u5tSaugCGJ_2XkPc_Bv3yqehxaVCPC7CAYSAkwO-GEJHtKHLiKbB70mWwDLwLiHa7j_pNk_TqOLgW0VxBt_5dVRC9-1qhknnaa04v0WTAcwagNf9ci9Wf3mES7PamhVbTgJd9ccGvNqamW7fUkoBs2AaXX9PP9oNDPG-wjlZqq74IOJgYO1f7E7_qEzST1PMe7x-bvfeXnBwIirJ498p0JBXoeP0mypR3y52Hp
     widthPx: 3224
     heightPx: 2352
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPg5C6hwE!2e10!4m2!3m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
   - name: >-
-      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcLWnsb3bDuTNar0oghkCRxKkDC8sroFo7hWggu_JOcBoRSZmFQEJtaHPeOeDqHN6Uwwq2QKPQ7Fba4oHef3L5nQahF4lZ-Sa91j-fEuo8vJ9SE7TwrNwnwPhlxldtvoOo6XoOj5Zk6GdHN1C3uhMUeIuzwza8uDb3Nrd5K6i_-r2IoLR5QMobBcytBmNVzNCkyaRL1j6YVZr6fMyqWYiGH_v-MplfHgcicCfrAD3dlPeRlJ7O9jo180OWIZ7rC5QcudemhcbJpu5OX7Bv5BTyaxq59ERbxaXSIpJSpzZbl0vStZQBkQACzKFEwz1jottEl40Z1O_6WDz1AiN8XpU1iFM9vtaaR7pUCGL_N_7mtcTbl3N3vq4mE0ScpVY7pQmi7w3A_O9MqX9clizy3My80K8zhoWeSdcp04vxRNqrw
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcLicpSRD0UC5lHn4ZEo365Aivs_JTg2xvc6iAOqJBkq_GYydqVCka_AnexpugOOjMMbgmVJjSz1AtUYdvFwFJ8mbRzhPiTMqq0fXJJEGpQZn8VAwPmSWYzYYHpuzbWOd5bIQhiA-qNtJuCSjHsySMzFOPOwZ-_qjgV8QWTOr3DIcMwLxWntBI27hhA03W_opmhNQIIL2k6v0-dUX3xNxDDzEivjw6DTfAcQUZ6fpP4RgtGN5Vl0cOsp_unHtMKF0cr7FPiPv3JBbxd-YxH1zOS5T1OZMkF5nqX6vcYJGiceNv7dBrOMb3_a_kD_w-Py3wvl1ensB6uSUg95OU3Zv5eBoZy4WL2yLNuDGtFNKdU3tr6qPp1GJXGUo3tEKxrLSiuPDDPtGzrFL8dxn_trAXh_Dw2p9UOzx-zKVPd-rhw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHoqWhIw!2e10!4m2!3m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
   - name: >-
-      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcJ4I5hfQ57R8Q4ElDsb78pyAjPsGFyS98lbFK2-ncyHMfLbkK75EcZ_GptTCRT392NhyoN0IYmigOLRelRYt1dSzk6jfvsW5S8nDNhJiRkW8ts0JUk6ICMHfWOTC8c5qsi810bw6RsVigq0-LkaJoZqlDcgpTaAqZCvuyfrkPiqpTIrFQu-y3qnwDBR-ZU2oy4sNRQwIYCqt3lzzVVWvmNCOYEAfTYWZhJjfCe9sJ-Wl_xLQvgXSnX3taly9RMfOFhyYSENk3fDGTqOHiG1M5ZsojRwF8-z4Ymg_x35qBV8XoX8-pdOqjKv5AxKGFksyIUudG1ucnsd3y0jGmccN0KDyDoltLJufR4Dv6Rel_a_R8EpoW9nLA6QqB9ztSKTUjRYq_rGJ-yJ0inJNz4tAeD-K13T8nr6AZavSBAq_LbaFw
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcLvpDcR8FX-VbAS8l6JyQWsedxo9De38cfYIaXgOpSsLSvtpBf1GNDuqg-v1jD5RkStDnkJbIAm4zNys2cn25q7ei6_fX8GWooy3-bLS63PnOnn-45TuHagoHONzl44FVyd1fnwRNzX8A6wFJciWscywOX2cgbJpGGFsDEiH_E-J2mn_g2O68jjC8B06Yi4QPuYJwOc10D9xyd1bPCVIeHiWSny7FJmT5922kHmMZJXxZHpgQa8tv0QGQ0CQOZuCerHCyTqB16C6RyYW1K51jPDm0KXGjgqefNPNGZBCLYj3ztNYM8b0w1AIKOMkwklJqp_YEnvoEOcBj_fXLoAbf-mFDDEYawmTp3Fo6xG6UnnQfchlAaDVyKhjeJSVrGk57Tcmk-t9_0FrJUcL-B44bObziVtyLaYx2hCzhB_IH5QPQ
     widthPx: 3808
     heightPx: 2910
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT36mCCA!2e10!4m2!3m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
   - name: >-
-      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcLU2XmZZjYz5t5cXpEco6TTtg61i-mx4bwhdKXC8BY6_rO4sdTu2kMmrvRVfN1UmM3SVvGXp5BG6SMdgguBjnpa2W7ZelJkJGtlIe9GvvxcL4PeGuDYQlKKclaLXZJlTzE_e-B4_sjm_SdektNGc_sKcciGQWr22u2Bn-jgLEPjAhVz9zRNxWiba33dlDOhqADlTiCMpTfunpTqG969KUB-WiFWqbzD43HMaj09b_76FPJMeIQiLCgg6Bye-TP5H-3DGL31k_DlRU2S3dX74oDNVQ_wLdwTwEUtNxAPxg1ExncSOn5Wv4BH_PVBG54UzORSrDeOK5OesTQv94qBDcZbbHC-uVt-F3AbH_UogEFG58kiVHESGsMeN2tnw1ID_hgmMokzIwxR5ahOJg_fWFfiLqqN_rv3YisH3XktpaN2qaK-
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcJECIGXLYQwbFwdDUfH8IfDfJw2U0fzWJ-ywX2lLLEB07oSfv6aFxndxy1QyznVduN9KegNUpmaJ7RS5WFlUzRIDyT4pljOQc4dasQw1a65_0RydY7xl0yzcYmYT4K0HCf5yH2BQynzHXy-mYKbp-CD_uhbbFjNHCpRnNPWWK8ZZCvR7ywrEpTwPRfV5Itql5DFJksPErNwxb153qqN-0NMzYer9x6NBCr_sp3sPgYxB0tGJgNWKBMMan7qJ4ImlLE1Yb4Sm5ZItV6vRGT9Gc2Rg3YcPni3_Ml2T9Eu1NBsUPgpMy6Utu7xScDf8adURe8UMVv3wr8_T4rWj_2RJv6rWFPrFkXCVhSzxvhi3u2neqKaDFcvWpXY06sZeQhoEhd2XjMRsMIXD8Z8M-MTJIgFpKELw2Tb4rv1wUyAWrTKb0XT
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -60,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz1KX9pwE!2e10!4m2!3m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
   - name: >-
-      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcJq8d_Y6qTX2fF2tGytYXPZvusVIfJEkLHsPCtlTdBRDmEEFZhP6THiBtW9dyYo_p19wSiTSRftWGcAZVIIY4yItMLSzDjFXh9ZWc45dfmEZip37nNZfmEnuWYaIUGfFpBCTuk08yo_xgetd_6zfKpMDk5GCLYKSesYCkO1nkf3y3IOf6840uxnITqIrGT0MYFJaWPyPmbCYbJtF2lWgyukEGfK4HbqfxILhJBG24IZDwrA7SWNZwhjmQVC14frkt88qcoP3KIXnsIv-szgVoERNRDZ4KjR3OLtuS3O7Hul9DRckH3BwALclAXXvYQXmZmFHcb2H1xsyjEW_W3GGKxLBKU_dCo6opnwicvbcMpfQEBF7VinsMxYeYQATN4hzyBy0ApQUk3zEQjrct6556nYEGEuU3_o1OzW1Qg6QBaHcg
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcKxLN3J5rcHdb0O_5euejwyqXeeUkpMnYCIxdPfIREUDh3Lby7WZOkKcDbcKPKCUP1DEAJHD0lMvvLbUCfk8lMWxggYS67HC-hydF337C40skxFX_p86LkFhL9As0nEbAQEuyD0UaUWDF7PNXZ4gDNzxjYTnr7qhPazse21Wxlwph4AA9fQp20Kvg6ti9hDeYjuX7e5AWDZZZcCmixZVQv5x82QB5heLSgFtSMNWE5gjoXsLOQTPeFa8BjsgyWWz5w47GTZkeL548DsqMT_ODXJKBn07MChc_xF0asgEaq1F1KPkcpMLXj7Hd-RvK8vN4PGFIB-pVxfC_06OdklNKAAeFPdOTFv36aluWi052VSF0t7L37IP5ByQ43L2oYYNAbIdE3koIy2w7czgy7JY9pA4A0pTBAqFKLm2cnyq7s44g
     widthPx: 1242
     heightPx: 2208
     authorAttributions:
@@ -73,7 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwj4iufw!2e10!4m2!3m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
   - name: >-
-      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcJ7AbKmIha-OBRYKd7xMKmGx8-iyAm6hw5Me-mTh_a_4umOS3p6JfLI4qnzm246Hc16xluolO2BXZprY7cDwjENizFP3jbgnjWMkUBN1brZMV3bRfFmHIjFl9lVV8hFDn5350xUNHpQgwm4lepFLJ_iKqldp2_LkJ0EIFCpHqjRXqsnnVdNCX30UtqxHo1medJbWCHQgYmqSYqpSFfmmzQObjOkXCJEpgXPSQmkeqThHM_wEWXJPKoE9EJxX-z7VHhBwRyiHpiYiSIK0jmEn3XibD93zhMLl5x_rDpSg1aIUNEs4NuYgCfxTCYD6zg6acNOxeN_CmTlE_8pUtuU6pO1-3ehDxGUhyserkrqJmnhguTQj0CWzej05VLNFl6YjSYhnJsYePLL-XAc5mmM77sXNsPgVVRAv_mj5yglxpJZCzg
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcKqF1QmYGroj0evIkFjGF6wx6AjmvonevceUhFyI8gIQSEGWfjrQT2cQY6MYW5nHYQGir78Ejh3Dagmym3i9jEtAFH1evkSaa540lePGfdOX9ILwOKMlIRCcTvNkTGtJ00DShyYw6y1ldOBeIvLrfUtl9D8Q-JUjELAtVhneVtmLd1Mw1kiIvs7CPq6CV5cv13RNBOxw8uovRO109h0BFaNqTYsU1v4yJ5gdZMhRxOLOa_HniBnN1sMf-zhpW7LmNd3BQ1xOAM3MEboA0YLQeVsCdTtc9T56Ks3tBJq-DkNw1LKTa1281TlWbjiOxwAketjByieq8UYPrkup-GYYdIn0LmL9s-2JQlomVISvPAXK9LmxbL5iEZdk07vDdz1eAZOPFvuAvT77S5C7OAj0tm14ivU8KgUoQDCNnFHLPfeiBY
     widthPx: 3925
     heightPx: 2973
     authorAttributions:
@@ -86,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLvYPy0QE!2e10!4m2!3m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
   - name: >-
-      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcI3adv_3B89imhjdwt3AlGzRZFTk2tPm1-wUMIr21cLXVNSNunZRn5Qooqw5iNjwwlI59Xd-Z2F30AOnuAS5wGpCVIv0n4Tl2SJ_MGgn8nYoDdv7Q8pcOEQCSSRBCMr2aYF_p_fQZmXE6gTuvT9pYrP8WUH4ifiG6zW9XicJPsAo6HzzMTvC8RmVDu4R6_8fXfib7BaAEUn9W6w-vnd-JrqUtP84sw1QoDR-9vhivyVYcu1nk-55X1lh4Z5dh2t_IAZrW8zSjUx196WPtLdPv5hkJW0zDSrJGzcB29kXDAFv4NccUAcBdcP90hH-YAHWi2LKl6RzRFDxMrIJa8yQtZYejRp3ln37qEoZ75wue3_c1L_Uxt8Bm2f8p7G0YYmQHxqreO2L0zTVVYWRsKmQPDfRrvxxoII4cnMBRrhfEZj4bqP
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcLwUP2RFVsQVikTpFh1r8Y2NUTeAMGj9MBJuIQEWmAZpsbdvZt4RzSxx0EI8eMXL6gEzSNIIISrGY6PWiedq-czaZ9btfDmiNQ5GdFJLXcW8uyvTRQD4rSHCnDQz1JWdnfj7sl4mRvXRzzE68WJOlWWSWcZ506KAZ8DUzVw0GL77ADzF7VKv2HIzWDZbauqgamxZqTOFGMDwxf_iw6fHwW8cwMoZnwjzzWygPiQowwAJT1-kLI9oPtvR2KC-FGkwZ75CH0D_gJOqovpniCKvyj6Dw2kjyQfGF702csC6koVKyP4bIWX3yr0oYk0-UvNIBrOgX35HnOMMJ13trmu-cfbXjimmfpnBNB8RNasKRLAVLlasfye-Vah62bPn4GJ0ttDlw45Aggvp5r9q9Z3K0aOsW1sLRVb09HjvUjwfOY96NJI
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -99,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH5Ju9zwE!2e10!4m2!3m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
   - name: >-
-      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcLOZ0XcW_pf26WI23HYvQxCK_o7eCkpUNhK8mkGNhVAIPMeb-dncRcu3AW_jDKFfiBJMnrpujraK9L4vCe02HzaaRRMjZ4tB283-f8kk9pg2PBHoA00xG7B44-OZ-hn_S_fjmDkWtQtL3DC5rus-cA5955gcwvJZwA19_GwGPvuj1GaaalHSHtX_O2LAAcqvfqdIGESxDJurvzllQ5Eimao-GdfwLpLUyyQOZcT3C6_qvxJ41zeWRTnGJ2R0bBi2p6VG7bGCBjhDd5SBjGX-MqNOYjdtfoAtkfn-A_S0YoVieSb3QYicJbGZmuQhKfz9Motrzyt4_ZAYtdpG_LYB2h3UFXMUofbRpneheTolW2ECAf0fWLuebwAlZav5f4xhkxOzfwcR471VWncZgeh8ky9-alEmLiaLOhzhL2CL70rUA
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcIa8HmK6CwNJVm9QX_lQg2c5OleT7R6BcWkEyD9gSyNfOpj3dbY8fZRbaRb6eTJGkdJzNLQgR_LDQbifdVLJpfu0Ji361eigzt-izc8mvoG7-NgGd6ZuwoZZl0B8Qp7wGAzxVBYvX2zE9e4DpcgNQg7VfCY3VSJ_BdMqXpJkT4C29NJzaSCNrKvmr7LKqbIcBvFPe4tahk_daCqzh_KetGdfHq4fhDkxG9JZ8taJ8Yj3W7hKhHTl-rqbd0f83pNtEkqpnYRr2VXZFFOq3-Z5QRwva9D1__6oXzNyFlphwTKJ3104lmTfEQX-PeaxKmeTnPpmjDtn-NI_d0rqgEOmSDm4LLgu2yt9AnjXvcMLOYOGqqQfhZmcs0EITCDtLZGn-m6H1iymou1z-5bnnT50GTGcy-e-rAKZl_zqxhFpNdbvA
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -112,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTuaDVYQ!2e10!4m2!3m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
   - name: >-
-      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcJjhWofPMajiv-E0N1Bs7E_B_9lg_bP5GS1AF74q9p7Z0QDPxD5bLSxm8XuKdQMglUHU8shtJVkLyrPjdpJcguSgThZE45qUWvNF4A7hSHJhLNxHW0AnJC0UNmUXrGhUAET3dv41dK_c-X-i4MBm1xl-e4dkk_P8S_URbx-uuzDseOkz87r3kqSx-HZRZP-qf5gRVBiQE4bng7k8y0ELXeajuhoz1Yh4hEBShH2Hhn-QrZo4L5-hhYfw2vRIOlZ3SnqbTeYWm5xmXEDUjEprTCHO8Vg2Nw5j6mZWTfs-f0XI1jnh6X9oMOIGjsvbgFi4q7WvfWjNluCondWXqGOFHti0hCONh3uRq6a4zadTpGwNilvnG299013oARfN65s3_QXc0PbdQSquZKj-HePGG4U0Cy1e82JlUwbvbrrLk9aPQ
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcI8P6BpibtQOAxs-o7jY9nyi4sE4o_Ck3MkxW8aX_UCgj5ADpw7eYCV3rw41weY3xhxBfNqXMPwRHaysS7nPPxRpUT8q87mhylCCR7bTPIPo9Mx5YY4FjDg3Q9Wiu3B9kne4R50TLIoatfsf10jJSDrIT59f2jgE4OHpo50jetG_hMZ51ImEFAcivFgaNMHhOnOrRwVgxJol4TNSUX-3CUIgONMX-rMztFlafDiPuU_WG4M6QDmCajo5p0CgSccKHtFM0EURBZo4X_tcSRkLDA0Uk48Ywha4hF2z8Kw23w1qUC99SjvoN7NRS1TwftRcmXXfZ9J21upUL6d-9bF2incxwWoZODvmatNXnLob8tSrZ3kg65AiZ6IGANKlk2s2pFZzf_Wiieya_dvg6Sl9XXXdq8ndu9YpJvmkGymVKcbRA
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -125,7 +125,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTv4uGQw!2e10!4m2!3m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
   - name: >-
-      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcJsL4ib27n7_dExz-mBZlsRpznykp1JJoZvlqWqPV3T1jsihkEPnljRrMwr4gyS2ss4ptOV-pL6wLnhrRNaNXt9_zQNCWlU2VwlSERN-AE1_zpU0x1f2sjtgr2x5WdyemMr1Gkmd1Ktjf7uB4IEmNF6lBhFsgkg5_xFdG-Yd1XAAi4C8AvPNha6WxodANzSXRYD_KdnueeX7ivTi6jLA-JBQDjISBCGTMHNHR_h0WZ9pjXg5OnSsxNNmWqtS8XiQWvbDKGdBpaVX--AAKzaw0SqdEalPigpAbCrh1iV3r8bk8rWRLqw1D7mnAoHq50p_CeJukpR0GRlNO8DBisD_cPcG0HOSOK9DTIyd-StSYSOSwmaLy7VGJ9W_MVOGFT1PwJy1YLUkielRuGs0YGopAqHV-8hb1tFUGTJo-FHUKkc2A
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/photos/AeeoHcJOUZCWB8odvg6iD-dJ7QpK2RNBTeh2bRtMM5PYXlj6VweAdM3VjEy6xe6Ik5sg89EciHcIkX_5fcSFa_Y_sUxugjovV15ULhXbc8PXDKsp-ahnaAtvDjVRbJ2eRgV_khI3Vq-SaV1s_sWkO30F2cAvObRqs_uj3MZCgLtZcSzVHfDBQrjd1jVPo1vebsQ-5rdsiG6L_8EjaLboxrXzJuI1_NdLP9QBbhErqdOdpZG-ukqQ9DPN5olk9y03kh8fq-6DReFpyq1OoXljcKjyIuA5nzQyxc7IKOoDFadwFqhkBCk_1s-9dXf_Y5JF1bYYoFTPZopeJLj_O4SPdxuv6jZ5C2IGn9hYMlR1kU1Nlt0Z22flRsozSi1BIvMv3_lW2-MCYByZC7y-X_9YH8DMfgKH0zeK6HP5swe-CP_LEmTTqg
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -175,25 +175,195 @@ secondary_opening_hours:
     type: null
 phone: (202) 347-4656
 price_level: PRICE_LEVEL_MODERATE
-price_range: $10 &mdash; 20
+price_range: $10 &ndash; $20
 rating: '3.8'
-rating_count: 0
+rating_count: 1679
 website: https://www.wokandrolldc.com/
 description: >-
   Casual spot featuring Chinese & Japanese fare, weekday happy hours & private
   karaoke rooms.
 reviews:
-  - ChZDSUhNMG9nS0VJQ0FnSURfLXZpVkJnEAE
-  - ChZDSUhNMG9nS0VJQ0FnTURnMXQ3UVl3EAE
-  - ChdDSUhNMG9nS0VJQ0FnTUNRcDRicmhnRRAB
-  - ChdDSUhNMG9nS0VJQ0FnSURfenB5UHVBRRAB
-  - ChdDSUhNMG9nS0VJQ0FnSUMzaHRfOTB3RRAB
+  - name: >-
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/reviews/ChZDSUhNMG9nS0VJQ0FnSURfLXZpVkJnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My first visit to Chinatown in DC led me to Wok and Roll Karaoke, and it
+        was a delightful experience. The atmosphere was calm and inviting,
+        perfect for a quiet evening out. The staff were not only friendly but
+        also communicated well, making the visit even more enjoyable. While the
+        food was slightly on the pricier side, the Dynamite Roll was absolutely
+        worth it—bursting with flavor and expertly prepared. I can’t wait to
+        return and explore more of their sushi offerings! If you’re strolling
+        through Chinatown in the evening, I highly recommend stopping by for a
+        delicious bite and warm hospitality.
+      languageCode: en
+    originalText:
+      text: >-
+        My first visit to Chinatown in DC led me to Wok and Roll Karaoke, and it
+        was a delightful experience. The atmosphere was calm and inviting,
+        perfect for a quiet evening out. The staff were not only friendly but
+        also communicated well, making the visit even more enjoyable. While the
+        food was slightly on the pricier side, the Dynamite Roll was absolutely
+        worth it—bursting with flavor and expertly prepared. I can’t wait to
+        return and explore more of their sushi offerings! If you’re strolling
+        through Chinatown in the evening, I highly recommend stopping by for a
+        delicious bite and warm hospitality.
+      languageCode: en
+    authorAttribution:
+      displayName: Jarrett Lane
+      uri: https://www.google.com/maps/contrib/101504317780336591689/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-K3c-8mkgWcgNyrZwCXTBxUWgz-AgIm851V3qHfOOoPIbjATLWg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-23T16:34:51.145473Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfLXZpVkJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfLXZpVkJnEAE!2m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
+  - name: >-
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/reviews/ChdDSUhNMG9nS0VJQ0FnTURJenZYcXdRRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 4
+    text:
+      text: >-
+        I had a lot of fun doing karaoke here with friends! If you have a group
+        of friends definitely consider doing this. I had cocktails but none of
+        the food seemed really appetizing for me. I think it will be better as
+        some handheld foods or something a little dry because it seemed like
+        rice would just be messy with the chaos happening inside of a karaoke
+        room.
+
+
+        The workers worked very hard to have everything work well so the
+        bartenders could really mix a cocktail. They were perfectly nice and
+        fine. Everybody was great and quick and great service. I really enjoyed
+        doing karaoke here. It was a lot of fun.
+      languageCode: en
+    originalText:
+      text: >-
+        I had a lot of fun doing karaoke here with friends! If you have a group
+        of friends definitely consider doing this. I had cocktails but none of
+        the food seemed really appetizing for me. I think it will be better as
+        some handheld foods or something a little dry because it seemed like
+        rice would just be messy with the chaos happening inside of a karaoke
+        room.
+
+
+        The workers worked very hard to have everything work well so the
+        bartenders could really mix a cocktail. They were perfectly nice and
+        fine. Everybody was great and quick and great service. I really enjoyed
+        doing karaoke here. It was a lot of fun.
+      languageCode: en
+    authorAttribution:
+      displayName: Ramiro Pena
+      uri: https://www.google.com/maps/contrib/116678431045728134932/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWrEpzUwGEjATRxPZN7a6IQMgxAMgFqwcxJuR53Av8WHzoRLaQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-09T22:01:34.024224Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJenZYcXdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJenZYcXdRRRAB!2m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
+  - name: >-
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3ajRpdTd3RRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Discovered a little piece of history in Chinatown at this little spot
+        W&R. Cute little spot in the heart of Chinatown that has good food &
+        good margaritas, nice, cute little ambience and they have karaoke!
+      languageCode: en
+    originalText:
+      text: >-
+        Discovered a little piece of history in Chinatown at this little spot
+        W&R. Cute little spot in the heart of Chinatown that has good food &
+        good margaritas, nice, cute little ambience and they have karaoke!
+      languageCode: en
+    authorAttribution:
+      displayName: BA R
+      uri: https://www.google.com/maps/contrib/103250543953418867266/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWdVT8x46AoFC307cpLoHyIlE48wcZnMKCaszqVDQyjKlKVlVjtWg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-22T00:41:11.859436Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3ajRpdTd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3ajRpdTd3RRAB!2m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
+  - name: >-
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzaHRfOTB3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        The food was so good and large portions to share with table. The
+        location was a good walk. The menu has a large variety. There are only a
+        few vegetarian options. The waitress was kind and patient with our
+        questions. Inside is a little outdated as well as outside, but the food
+        trumps it all!
+      languageCode: en
+    originalText:
+      text: >-
+        The food was so good and large portions to share with table. The
+        location was a good walk. The menu has a large variety. There are only a
+        few vegetarian options. The waitress was kind and patient with our
+        questions. Inside is a little outdated as well as outside, but the food
+        trumps it all!
+      languageCode: en
+    authorAttribution:
+      displayName: Luciana Brown
+      uri: https://www.google.com/maps/contrib/107149443224990242490/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXPs0wc43REUvP4FoWQziYbRnB9SjRPxuISYLi62HF_YA5YXRxQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-05T04:06:43.312930Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzaHRfOTB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzaHRfOTB3RRAB!2m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
+  - name: >-
+      places/ChIJXyx03o23t4kR4yjB3SO7mC8/reviews/ChZDSUhNMG9nS0VJQ0FnTURnMXQ3UVl3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        I ordered the eggplant and shrimp fried rice.  Both were excellent and
+        the best I've had in DC!  Staff was mixed...they left me standing at the
+        door for a minute or two before finally letting me in.  One woman
+        standing my the bar completely ignored me, but the woman who came out to
+        serve me was super sweet. I prefer not to be constantly bothered while
+        I'm eating and reading, so I was fine with the level of service as she
+        came quickly whenever I motioned to her.
+      languageCode: en
+    originalText:
+      text: >-
+        I ordered the eggplant and shrimp fried rice.  Both were excellent and
+        the best I've had in DC!  Staff was mixed...they left me standing at the
+        door for a minute or two before finally letting me in.  One woman
+        standing my the bar completely ignored me, but the woman who came out to
+        serve me was super sweet. I prefer not to be constantly bothered while
+        I'm eating and reading, so I was fine with the level of service as she
+        came quickly whenever I motioned to her.
+      languageCode: en
+    authorAttribution:
+      displayName: Jane Loray
+      uri: https://www.google.com/maps/contrib/116452436403559630629/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUnu2g2bdGHUNgmIigDVu6RrXjvSZEv16PeP3cxAUq_LZ4QfL02=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-24T14:46:38.462393Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnMXQ3UVl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnMXQ3UVl3EAE!2m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
 parking_options:
-  - PAID_GARAGE_PARKING
+  paidStreetParking: true
+  valetParking: false
+  paidGarageParking: true
 payment_options:
-  - ACCEPTS_CREDIT_CARDS
-  - ACCEPTS_DEBIT_CARDS
-  - ACCEPTS_NFC
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: true
@@ -203,7 +373,7 @@ good_for_groups: true
 good_for_sports: false
 live_music: false
 menu_for_children: false
-outdoor_seating: null
+outdoor_seating: false
 reservable: true
 restroom: true
 serves_beer: true
@@ -216,7 +386,6 @@ serves_dessert: true
 serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
-takeout: null
-slug: Wok-and-Roll-Restaurant-Karaoke
+takeout: true
 
 ---

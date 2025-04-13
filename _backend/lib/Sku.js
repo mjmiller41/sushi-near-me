@@ -229,29 +229,33 @@ const DEFAULT_PLACES_API_SKU_DATA = [
 ]
 const SKU_COST_LIMIT = config.costLimit
 
-function checkApiCostLimit(currentSkuData) {
+function checkWithinCostLimit(currentSkuData) {
   let skuCostsSum = 0.0
   for (const sku of Object.keys(currentSkuData)) {
     skuCostsSum += currentSkuData[sku].cumm_cost
   }
-  if (skuCostsSum >= SKU_COST_LIMIT)
-    throw Error(
+  if (skuCostsSum >= SKU_COST_LIMIT) {
+    console.log(
       `Costs exceeded for ${getCurrMthYr()}, Limit: ${SKU_COST_LIMIT}, Current cost: ${skuCostsSum}`
     )
-  return true
+    return false
+  } else {
+    console.log(
+      `Costs within limits for ${getCurrMthYr()}, Limit: ${SKU_COST_LIMIT}, Current cost: ${skuCostsSum}`
+    )
+    return true
+  }
 }
 
-async function initCurrentSkuData(data) {
-  // const data = await getSkuDbData();
-  let dataArray
-  if (data.rowCount > 0) {
-    dataArray = data.rows
-  } else {
-    dataArray = DEFAULT_PLACES_API_SKU_DATA
-  }
+async function getCurrentSkuData() {
+  const data = await getSkuDbData()
+  let rows
+  if (data.rowCount > 0) rows = data.rows
+  else rows = DEFAULT_PLACES_API_SKU_DATA
+
   const currentSkuData = []
-  for (const data of dataArray) {
-    const sku = new Sku(data)
+  for (const row of rows) {
+    const sku = new Sku(row)
     currentSkuData.push(sku)
   }
   return currentSkuData
@@ -322,6 +326,6 @@ export {
   SKU_FUNCS,
   DEFAULT_PLACES_API_SKU_DATA,
   Sku,
-  checkApiCostLimit,
-  initCurrentSkuData
+  checkWithinCostLimit,
+  getCurrentSkuData
 }

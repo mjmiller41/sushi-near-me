@@ -98,12 +98,6 @@ class Place {
       place.servesVegetarianFood ?? place.serves_vegetarian_food ?? null
     this.serves_wine = place.servesWine ?? place.serves_wine ?? null
     this.takeout = place.takeout ?? null
-    // Places API Experamental no SKU
-    this.slug =
-      place.slug ??
-      slugify(place.displayName?.text) ??
-      slugify(place.name) ??
-      null
   }
 
   extractAddressComponents() {

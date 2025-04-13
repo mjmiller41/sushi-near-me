@@ -8,7 +8,7 @@ cityName: Walnut Creek
 place_id: ChIJWzDjWZVhhYARt0etOKzCc60
 photos:
   - name: >-
-      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AUy1YQ17Vowt5R14byjWHdpc7DrPmUHfQgz3kakAlJF5qqPUrvqXyuLmjnEYnF51R-NR94KGACYcTlXq0N3bxXIlSYG__srjif4wjXCEstVCM1cYsRA6IVpHQdpPW9gRnNY8u53XYua3ofzB0uYJp8tKY3Q-lLll8yM5jYqowPqoY0vOkYNj5yag7thy3Mj_IsjE-73j6riybC_B4L9iSk1qc3g6tjK1x-52sT_BGBRxMJ-8xv63U4SxALHx2j0jWhOqcVKo49lu8aHfzNVVZpPlxA6IFpvqb1lIOGEnv8OgWvAIZQ
+      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AeeoHcJrbtWfpkD83P-_5DrWRAmXq4sPDRdAsNMDiO700T7nQsTQP-MP3ME-9Eqg45YdGmTHLam4WzKlY2PKFlGtsCH13H_zaZi67EdJLFMHVrsegr_kA04iBAt_KbF5ZrTR0tFWrAG6IFal7kYK5-QKwsrVHoazF_YbEVFqXGp6ubK6VCsAY0wg0eC2bcauvE6BsSZlfVqgIK5P2pxOSqFnrpTub-NXYC-cLX-cAFlurlAgNpy19yjfB8xUwj9GcMIzfpoyEj9Gam5_7MqjHkk3Xi14nIeQFmHuyNFmifc7-nK8DA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOAeAMuCRe1DWfh8bN99r5ueFKzhqJYpSn2Nsxq!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
   - name: >-
-      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AUy1YQ2ZVTncNNGIKUZ7bGv2g__HpuWymVg6K5GmNpteFL_KCDxXOoCXz28ZZpwrkvbXEcjdSvj5h2MNt4C0nbCS7pJkZx6YyCdlNR13vrkVd_6x9DtriwNBpaP9cRLFyyNUiyGmq7uuwPs-nN7LKdUyjYtStzZ4_yDM0yCmioL8a3c6gAfPpBQL5o5njzvkqf0sEiuy4qfn_Blbg7ZynmEf4Ny-oHxXGl4UUrMw3q185jI4ajcL2mjGjaLESyhEq0ZoGgeZiOvJU-GXqB_c09hFfh3Gr6gxT4PIa27x-G3tdmnQCA
+      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AeeoHcKSEp30FzRIGYPy5sabkrr-9HZ7o9azs5lOXuIxCmTzL99JakD33qMNSsTOlXJtGWn5Ez5LJ1hohnDPNUTYOilBNeF3KB6LTHlhggS2drvGFqNS4g2oZE_LuibrLgAFhaIrjGY0aRRJwqU8zzlxWItuowsd9Jo5F7ZE8hj24czJMGAKULYfShfiGpKXZJJSRspcUZ1YaN0fQw5E37TjFi8uQ8haMQ0Y9KAUByxBKyzW90X-CNc6PUOfi-r6l9114W_Ss7RWiJSwET7dtSMF5_Bxf7GrR6jE8BQOikpuSZh0Fw
     widthPx: 3024
     heightPx: 3024
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNAZ2XtPkJI15fZuzO5orNLRez9-Vg-TjVtgwW5!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
   - name: >-
-      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AUy1YQ31Wj8Dn3vjr9Nk78GpUcTPK9qf0nnB3H5EBt480-gnIkBxXeloysjW9vk8KZbVIm_2NM6eWTgP9OZhJ6qn6ESgqpmawsq0njqbB_Uy-dD2QTUH1puY_Lfh3247q5uOon22sGYBuZ2pvyHrsOObFGViDoDoG56UagAiINu1lz1LZ6rLlECJXTK1o6dKA2WFKjpNGERUSCTKAh0OmpKXpZ1OhCVnM3FvxXzpOvIfnfwPmzlgHbomeNeGYtfDDXYP0oASY_rOxbS3osnwy0LLD5hD674Ia8yjEXgl06UDz_Qj9wJssXgKNq4ZSzDZwSgJzznvWW7iwbeUAzwRw4IpPJQpjFQ5x3e5J5f8QCxBQPHojN47bTW8nBxf1ckhrhlgULPCaZg97PhvHiLttTJ5x8ejIoHkoKDB57l7x8yvqDT69Q1U
+      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AeeoHcJLkOI_uCcQt5kRwprp0CvmvZ6XiUi6vibfrTSRQ1UUgn7Z1Wf9YDXxv92vYQsBtg2RzYR9IrwUlyga2LbAhl7429SG2JflXfpEMcgeKyjUrdPzS8eYwDikp8rY3ooCb1SmbLWzic6v7r_13rClEO9j6k-pPW6_Mc7iLI5JIs-IHgXl1_qXaBACrFbrSZQfZlUpwapj8F3rfBgL0bkJccx3BJbz3693XFlO5OWJE5BiAZY1Nz9zffVzapCg50HsXbXqNaCD-JfDF57sT_GBGY66G5JeQ4O17ZKMFML4flu1rV9fS0BwtBE1Z-hNjP1B7J1U9nzzQRpiKgMi97XU8FCSqY_swH75M6FBtOedEn8WbXaeEzriiemo-VQJa4WO50sHHHKKCDvFViVkis-rfWFCa3C1kDztENbpKQgNGl9PUIff
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD36GflQE!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
   - name: >-
-      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AUy1YQ3jUpSkdVZOuwDOp7-yDCKspDk3Gkx0DN0Kqg2FOZqE_kcFLdeoECnr33JwrIGBOfWr4sU_KEvIPggFVrkyPWj0glBwoBOsuDxfAv_qHSYvVeAfcs81icnny2yaotLE84jmS88WSG6SFOEtfjd2gk3MeYj3yf8ltIV96T1ePbnUQd6DB5w-EAb2oH85VoJIHwtH-FPYYma_gLjkDTAfypDsps83p9S42ICPLFhhpHgjCHtZiYqTrBjvYXrhstBmWu671XkZMBPb55JlLaZdkOevsoIwF4zVW5xHOjq68WEf3tfbdojCH8D6twQekjdvl1j3PK0mVSFW2Y506JZWRW2j9YYQj0Xlif-q7PidYXhYejRFcsf9bK02ZKdymOC1Ay7WdiLunrXwoegiS0Rtd7MKGGYkuok5exS0FA_X8cHzig
+      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AeeoHcLc2Txo4XnLVW174lGT-n3h7CmPUv2cZcQd5fXMjFXBEDFP3ydx_Vh6SzRSXh0AVGmBwaxEUzwmBSKprF6-UcPmWZpZTlqXI7Cmj0phcj3Yp0ApblwmmP22SvxnoUywgCanrG0QZmZLfqGqb_dVoxq2KeBI_2ydEYooTe8-2wNvYYWZ2xzVTUpA6ix3lGUFjnqIlQVHL0lZoNSvtVj_8-NopNyz_0zIsu-wdE2D7UlpQrHdnuhLnPs_pVpg4DqgW0s0uOLmFPW2Mj4xJd8gAHLHU1hEQ977QrIEs5mssuwYuZ5a8vuloMYYN9sNakcjkROlsW-Stv5Y4fTT8htOQc6IzFCMlOAb0JD7st1EvmMjFSTgMj1Tu2S-3lgGCth5kScTebwb5BKoe3grbmNnjZtnUNiNFrdEtBHGPL4Xm6CAdQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -60,20 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2lreeIQ!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
   - name: >-
-      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AUy1YQ07e5FkFcnGjJwgK_2R02RKg1JPxl4CWq9UNmJ0hDWDj4gi5wfv5EDkskKTnSnKf9Df8VLrXkK5LJZCn8cEDNnIyT6lFEbfGTK7uUfmHJFXFqSU0xthzCWWZKGe42r_xYyEVhGsVgln5FBqn8ifEXmKKmrxFcC9D2disLVdgV54WHLo57wnt4Yejy7k-fUqkZpQFznAWYNUUIVrjQWi3mZhiulNJvQzv6fZ3MfZFOfmshyPwxCqFHNJdi649dawMMMVJIxWEaoC_Ss1LpzR8Yu4eLNY4HDZfwyZrM0HXlJL4wbQBp1AD5Ak3fn3wY4Nbi5jD-GmmoJBNQMu0z8hchTTA4cTR2vf2bTIPRmbP2tOWcFJQjWftACfqT8rbfoMBiSJ4nSs-RTMR74fVrErRAA2hnuHJAEfCdEecf9iCvl6wxhD
-    widthPx: 4000
-    heightPx: 1868
-    authorAttributions:
-      - displayName: Andrew
-        uri: https://maps.google.com/maps/contrib/116259540475419630160
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUjgI07pr--dEjqcRfbTkOVJ7xL6uy2eBB0wEevVxzvW10nrw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICtsLjohAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICtsLjohAE!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
-  - name: >-
-      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AUy1YQ2ciP7K41u134qka3qBF3hV8N5ne_LT7c00ko3BcxU-rm4E8tW4d21xKy8-IyU7K6fQUZRDWLdLXXDFv3bebPhOcBK4R8DH5z3iJ0_ol-uLe7XIVf_2QfkdWj1pn7Am_Tv83glPdjvBUWBm4FodPcElHfYPPaFjXT7riTGTFCNR5tir83zyudODe4b9nRiBQU6Q3VCp42w6F1pxlFr774971fAM3bc1V5VYgauHkYe54W4w6heR4p8rQgcaiFaW5dQf3stS8E2K9qh9NhJh2GveMojZrTgTZN20mCpmKaQaOA
+      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AeeoHcIgSAME3vEDi-K0QmuyEewuwNhyL1f-Yfy7IRSHSAb1y4xo2olGIKpYkVNAE4tN5O8EA7tmw7JA6Z8lZOmZno6rj8f1yympAaNCG4vHYvdaMXdEEEa8tuVa3_MJnHYbmFb4DQB_4TxWxjvkSo3BvIp4uBbXgqXjBE6c4jQgPTKQCizOsf1m1EnlbUbZQJ4Lj5j44flHV-4m8TQfTUe_u-7-G-ECUNXtB2AF51gCtTdwKy5YlYOIjmz3WK3CNtoWxIV1pXf4dLQYdaIp0TF50gG_H4L1GFNhfTKFJ866H5zmLg
     widthPx: 2994
     heightPx: 3782
     authorAttributions:
@@ -86,7 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOKQHApmaW1zxMWjsHKBp8LHtblN5Pu_ptEhRjW!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
   - name: >-
-      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AUy1YQ10nlL9uBxAztkSJqWA6GY0Xq3whPHgTafAiTSYtv2d3aZGRSQdB-Ki__KhPISzIRUN6hNuULuMvoFntIpSckFDCQgBujR9XRHY2Ih5RNboFTYQd2WM0WDIvb9pKNU1sDg9rGfyaIy-JTi0vYbGHCP-q6dOXwTk9o6quVk1xlLMRtnhgnzgMpQCkpoEuE61mgsTZHeQ1rS2gGoVBhiDw1c1JKOQIloGQTH3oAedJnoSkwmFGpo-TnUQ4FSUzf-YYle70lFi5_aoZSKTdnN0wbbYlOnpUYDhaRBYYW5yGUfeeyVHUabV0exreTJRAkiWlJhaBO5MaSB41XH-ytLU7zo_NsOEuxJzwqQYFShkiQLEccuQfnsX2ZdwcFOsITupoalqnIZuFzKgjpJwY0JzFjFaZ4XQOMD-jrmQDHeDc1-YkA
+      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AeeoHcLjathydjKhLTR3ecU_xG3m4JEqgktek9FFeKmLtVIk9iqCWa01UbjpHuOOLniGRbxna-i-zOfE-9vnbguvBmzzpROdaVg_IWB45uUnwuHxl28D_ueKHSX1FNw2GFvXdErUXrgI_zsGLVqqqhu0PbldbyacLuJNcKagC1Ub6BC7zGbPeKAn-sGtXEAXHNc51GhGXBmNza9oswjRW7GWfwq2WH6pQ7xCR3wPDJ2fUvl9ZTjSCJ4OHpJLP1_Jd_GMY-l_0YDaX6fyppDLq7JqnU0YM-jS5n0ML2NWx1ES0i36_lkMXLWcH5mag2E_Glk3zFIkkFTxJYXQAFJqDn5fTtx68YRlJTO1LHs_p5-Q1AXAXYSLkpzBmM9nCo4EmN0WCpTksLE_JpxwwcHXCw_IHTAOm_JPZ_PxQPOlWGCT4sjP4Q
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -99,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqsrSqOA!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
   - name: >-
-      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AUy1YQ1u7kT8mvtjOmVRynjTyqvrx0XsIjMUDUbwokwi5g5AZCrAOFEnKgK8Wi83DPGT1iKEdrDVK3EKY8jEFtl5BMY1fXzb6YKSXWeQMt53vFjCCPx53JXFreIXUqXiOG9ySNOG7AUFnUF-pbWJpQBrmiR2nf0uUDdpEmhQZp6IvBXpK3hwwLT973F52faXyl6BB0u6sS48YDgneW2n498cY_Ms9mH4XJ1iWmdj4CqZCQYCer7i-NB40nQ8j0uxxIzrSHVI3x7E4Z5jjk1wz2a8d6oMlsAaggH7kXpR25U1fO6vI6tnrC2pk6AABj8l-SvxHUsun3fuSHQQ7M_zFdVdiUPfTNLq2xwmOYZwBjzwS8HKQRIknoaiYfThSt983Z6XVP1jJ-1DlZIN5O_JF7S-sW3zpMBhR-wbPJFxK9f4HXvts4yn
+      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AeeoHcJHJ032jhqYIHc-9Dg9RV8YcvLmYZqD0aFY8IkvDaU51EiOWvuOPvTP99m_MWjTbdqGYIcj7TMMLm4RsLj_mB9qNZBu3VMsc7cC8Eb17HVrK-Wq0WG7T8lOmmF5Rz1kFrqm54b87oWcJu00VguVmYsL4gFTRGJ5WRlspOyC5o-iemxw699CIyMCWCBpCAsJ70mGrx-eBGmlzLSdiw-SQvFRPhFU2AIvhMyezLG2Af4XwGT7W7nYp13k30ZynQcjCLIDKol70Cl4fru2GEEePI8tL7fIdTh0smk8L49Z_itFYYHe5U9TKXHi9cqV1YdcY7_Ea-jSErmWDX04dyJaPIFZJ_eNNBH-hLFpaKRWmJO00PwfHlNMDqE86CzrL138a4-suXKWRyG1F9_P0T_Z2yz37p0KhXkwpGhnQkxrL4Wfb_tP
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -112,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqsrSquAE!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
   - name: >-
-      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AUy1YQ1_udKh0j7OhlDSL5HytLJcS_WE8-28qeMBWixUvCovSuNqUv3p50al0vGJMb9jSKAhCNeTM2C-mPMfY_-zk76-jtNSEbDJXVcBpqnPSM6PxIw7yUU6vfwDbeDjcUio_x5SDzYnvCe7au8-t8Uj6ntC64vNLSAsonQC7rlDWgN1FdNKYVTrztS97HW2q3qMjO3se7pbjGX_5H4WoybsEI6d4vI8KYccuP30Szs45OVmV4A8ZDQxp4c4hZIfPkjvpmns9wsm0LEd4xbjc0PVa5NvMARzCJE3OWXDVWxY0YroIg
+      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AeeoHcIh8u8FuqxeKXF83MrUjT17wMubPXFnyYK8CIKo4v-ndzLIUyneqKDnw87Mnalo4nuCLPNUIhSJYB9QhS8CTeUBDB-QXEQONDNlvyII2mSxZJfkpzge2bEkhbNhH9w7xkWGzCGBBoCfYOUEZowljN2KdL1UkBh_Jp3UCPVzJMR4N6BswhLLTIeDZYwARtCAM5mwy2OQP8_FSb8nhBcAfteecfeMzO9K94gOVh8rEIl_Pwr7An4xoyP84UMS35LTwH3gqo73LmbrH5RAjI6VcyJHJRUlgaW-Gc_XlpEwgQ_O_g
     widthPx: 3024
     heightPx: 3024
     authorAttributions:
@@ -125,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNgCxTbZYVva1jNW6AWiyZkboWeGQdvXFlehYAV!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
   - name: >-
-      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AUy1YQ1SfKOuxa_if1mayiC1HFF4yMZV743tDVLyQM28LQMj66IGIpnCTnFsCWoBwdnNA2HxTgMQ8sWFvFafzXbkXMsSB6Wxx4mPk1cmAxDYZX41OMlO36LKVp1_TIoadk2qG4nGGBAjLluE9o9n0tsASv9gSfZJFyxhTonQSOgRC6Hrzh3mI21AD0tlrcGgzoF_q-yS3BaibLg-arjSv1kmdaSOolaRh7CJOWalj3RcaKqgOPYzkefygKiogUSQVlRPIejXSn1tY09OvmjPCtOLSQ877jFFYkbKSP1kKvUnlTH4LCm_ZTH-ceL8krmwpQSI1j0TOhDE8yEKZepgrUXmDDH-t888ctp9PJ44uD8_b2LJo8T9u8DqK5FvgB2mox5Ak5D-h80yrmvZvwtHjRi41_426haKZwsOsIfnBPAjnM5yeHCO
+      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AeeoHcLhj8NOeQWo9F0-JJFoj7iQ9vCIC5gSmz_bTVtPKSTVV0cPBL-es2XzD2JQOWilWoTNPuIjrKrk-uzu1CdLucfYJSCUJmMPV23Qb3F4JueIm38um_u5YZIZPt3QmtBctbS0lEl-K1YM17TGcHpK-MRB7jifwUf5v6ykzrwoeSDz3j-bedE8Iluo-j2XKxjFinQDN0gVLwWBcG0TsSNyaUFAV2bYU3-sgRvLktg6tMJI1G-__MHe3YCESnZV9dRF7A8dVpRuCR-kprVAF1OZwmFLuq2nokkqyu1Qq9CPnGGLl2lt1Pm57bkbifZ-rwsKZCcoBQe2ZweAX3QaBdQhGXvLRDmWZjhJ65b2mm5_CAwA9O_V2IJAF9lesrQCnlb0emx8mXmGVHm4CFus4cEaoeJ3rGUfOIp_IlOExNqwuaooegWg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -137,6 +124,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4x9Gk5AE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4x9Gk5AE!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
+  - name: >-
+      places/ChIJWzDjWZVhhYARt0etOKzCc60/photos/AeeoHcJKAm_XVrGIgOYxbwa5oLgBtc2vq63rVuuv3BAAJ1Qgq87qsiJCoj2NVF0R-5zWq7I5mU0NH_1Qj8xPbhPSPfAa5gKNsIhDxuRb7bMoMgTaDgFwSU495a8w46__IqICssHThQgXjV2S_bqoKnGiXAkIujygZnLkZcBdcmSAATiVBK-jOvMLoM4ZmGKeQdtrY_HygySiomZRAvzgvhKmhjoh8YHZxjkFC7WHbIh9UAjMsqQgc5FO_2Me_yh4i8kFc40LCcP11xO8PWrTr_FXKwRgUGUA38Hmf1bfYSQxg581hQ
+    widthPx: 2642
+    heightPx: 3429
+    authorAttributions:
+      - displayName: IKOI Sushi -- Walnut Creek
+        uri: https://maps.google.com/maps/contrib/114854762127797308513
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXwID55f6vI9pdsGstfEjMHQPgm6lYerdBGhnQIUetjkoxIUKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNQFghnt9NisCF2zhfUuXNTZ3pq8k4fVQAabwkE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNQFghnt9NisCF2zhfUuXNTZ3pq8k4fVQAabwkE!2e10!4m2!3m1!1s0x8085619559e3305b:0xad73c2ac38ad47b7
 address: 1632 N Main St, Walnut Creek, CA 94596, USA
 street: 1632 N Main St
 city: Walnut Creek
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: IKOI-Sushi-Walnut-Creek
 
 ---

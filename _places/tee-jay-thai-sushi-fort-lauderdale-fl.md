@@ -8,85 +8,20 @@ cityName: Fort Lauderdale
 place_id: ChIJ64Cr5W0C2YgRfk2b19h52DU
 photos:
   - name: >-
-      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcLKlzu5MM31kY6t5yoOTJB5PSVevFPQBMuyvYFbm_V7irqnGHXORBKWg0LxfHJAOt1qM9mYJAfKXnbQjzkdUE86icXAQzaknWHp8nDet4adtzSHiEQ93jwsyzZxf6NvG4hyUAlW_bSakKVJYscmFuL2RqnYXe1CbMpLfqTAy2H3srKGK5vRiJwoMONZjtwDSNAEKyIwzSYEGoCBtKLEUKBDXE2ZwUsde5khF-LDwxo0WCFP1KgnJ9wFv08-PoGw0YzujLHts6zltne4i-4KPF8gZ27TiCSPlYG51aA0JpBrN5xAIAM83ZHYbxN_11qN320iyW3l_nESJtDIZI7lZLPi1K8EtJiVu8ifxKmYjfgn9UeaacA9DQjCZKkCoUZJpmeV77MEcacF3gWMLDea8g0vZsO9FeR3PkDSAOiSaGDzPH8
-    widthPx: 3000
-    heightPx: 4000
+      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcIG4rCbHvPo6FcDgMly8SN4qAegcm0yWNJUv4ygF8JF_-gyGSJnLvKCscpCG7Dmorb6WlnxkeLgtMqdEmHAFtBAghtGtf_OhZL3-tIRnRH8AFXMWBeH_EnBptz32Y6I3yZRHAMugVHyKiv1TKzojbLyEFtMShgNjyoMqyuO0fIVIOkfn2IW5_aeO9s4t62l9AdOe-k6pqWzkmcfyX65LF2uAfA2IWkNP5MnAPvPOSB7LX_rapwOSqSHHPEom51hSVQhGVrScqexKjjWGEhwVB-z3wD8EH9TcSnqGAUwHCZVgNJNEmoMCYo8ybLPyMmedRoARtQdWR4BWOjsUvpfyuc22QuA-laSLOpHGhssrwIrxqRBUL4wBerIdYRnllmudltV62q2r91yY_-bC3ihPxM2f4FkFgLlGRyIKCGFPbH1Tsoq
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Great White SHARK
-        uri: https://maps.google.com/maps/contrib/114172042425157909057
+      - displayName: Greg Page
+        uri: https://maps.google.com/maps/contrib/110825166979200074209
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUZ2Af4DNUTnEX9_NthjzcIfsc2OHkuooA9iGnq_l_C4QbdLfp2LQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX55GgLn1wLrsZ76hIvfpmIX7YEwBTKnlagmbW_sm9_bm8_ZBKVXw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBvoWwngE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcmfLq0wE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBvoWwngE!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcmfLq0wE!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
   - name: >-
-      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcJVya-m3m3CKPJnem1UQV6f1H5xg5KKcZXUF6lqgwuCl8zHh63ew4X8DufeprX49AeRha_EjqM7zEd-RkMtueNY9RTqkDxe9Uq6igeCx_ABhGwqDhuZThjhqvdBwYeeDWB82iF4sokeCNrU_zy46Z91JJnPePo6YbDs8ppc5EKng5dcs58MIa43gMhQygykYGd2wpoaJ4uq1nnNSW0ZNpY5btJdECn1fecMxt_VxnpvBO4St_Z5zTwFmkGFnjoggkZvSv2clUxkeMEhoTTxF55vkHjtWEhhiYROO89lzJ-zmQ
-    widthPx: 4235
-    heightPx: 2233
-    authorAttributions:
-      - displayName: Tee Jay Thai Sushi
-        uri: https://maps.google.com/maps/contrib/105854196155234699737
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMlunPgGEaXsPW5nVnfQcsw8Cbb5NSTg-ChCjIU&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMlunPgGEaXsPW5nVnfQcsw8Cbb5NSTg-ChCjIU!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
-  - name: >-
-      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcJlAz21E7ZIVnNa-blBctdn4Zda8H6uj_GIgNZEAvx-lHL5npdWgEroIAovm_t_z0gC4rEuC540bg_9VpirexcTY6Kua9JZHxmkGOkTS9d86NY3lfH2xC-XSbw4Az9xt6VRYSqdedz3U7uvV_IA3QZrzE5cczsvETldr1us5bS2IvXKh_QZLHxTUQ659o5qQXeeb56KlKLTFjafcbtLr3GT7aSIQYYqH1NVjYeH60m7QBG85Y2wKY6DBAX8D6b_tCENUXGn6g-bR8vALfszaOED_zoePCnq_kePfMRNLJw0Mg
-    widthPx: 3600
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Tee Jay Thai Sushi
-        uri: https://maps.google.com/maps/contrib/105854196155234699737
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOv7Xga7nDHDq4kkRZpESVn5F0ACTk_zjOVI2yK&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOv7Xga7nDHDq4kkRZpESVn5F0ACTk_zjOVI2yK!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
-  - name: >-
-      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcIw05FNEJDdoJqI6cXamm71fSVKSr6TBuJdFU51IiT-ABA5xy_9ZafCSw3ELo37t5RPwjcmPPPSJap4QBG7dHL4EBSySVkvpH6futX4MIycQ82Bi3fBSWpPqv9bHKthFj_y5A32QjtvQsVyPLrpa1r4TwTP_QQP6GNU8p-dsqEjSyVBeuxEezqtFkJ8zPw4PsrNRq1Nb7wKe3DO4mqQYFaCSgg5aCoL6bYruW4mn9lvXp1B5C4QJsyLEWuVlGVXJ8cDuUzB9zu_qPv7Oey1BOfuNEBMPU5H8l3X6a1hyboLdt-gvVUv5peezGOLxqiWazC6mr3mZOPPvpAf_ajWH36oNSGChZOSJEBLdHxoRspOexJPJftHkEOwsBJU2y6oFpxMhUyxeGDdQ563IbjltmVzbBFVjqA0GP3HB5FOEruCM-o
-    widthPx: 2332
-    heightPx: 2666
-    authorAttributions:
-      - displayName: Garry Smyth
-        uri: https://maps.google.com/maps/contrib/117675182188366335287
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocL1GBdFqTxooDzpEYNGb4eWGnruy1UjVKR4zFJVBUWLDMlrQJc=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC9lZmVuQE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9lZmVuQE!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
-  - name: >-
-      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcIeUwP_bxSyHvihwwEpdH78HXD0BnmHyReqEaLKQycRC0s4zHNXm9Fwv9E6E1nabix5nbtqeL8b2-n7gk0h33xSiBT0-gWvn1oAopK9zAiD_qQb748cM6sc8WgJqz6qk7xU7dV54wiQUQCqYEh3r-Aov_MyTB1GrAHeOuxtGURTFxyrOjFAH2YA049RXgzg0DCc13KOM9895XEwbM5L0XNzeS1L1ETLBN6414W2k-4WCsMQ2l3tmE3wJQ57xGy5VaxhIJeMYsAT3vMHs_G426cm_zaq9ZXLYuG2KWs6kuoD3Q
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Tee Jay Thai Sushi
-        uri: https://maps.google.com/maps/contrib/105854196155234699737
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMXFakmuHt5ys2yDqz5KAukS8_XwH_dUc1jQtIh&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMXFakmuHt5ys2yDqz5KAukS8_XwH_dUc1jQtIh!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
-  - name: >-
-      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcLerQp5LSPZHaKmzojajkydBydZ7uVs_yc5PcjXs6t1AurMg8ZHVlj0fWBc7-khJdLG0V2d9kUCYuiA-eSgJne_t72WCiDsgGli7iNvHOBpSQVZA8FQsSRmhHHySdJg8ZD4gpJVhSqo1Xn5BgvA-6AfQtBW3mCI0OMKvEKoj0zSsgWHxcmBSCcZoGJk2Aqj_wzHcQ4gO7iHAGOF5P7RUtBplv6cVIWeDgUTCoRIdMVDtgh-xV8MwetqfVIv3F5LINw2dlgWtxeIVXHmJ3dGGLgDtnYfwSAMcXz2MvVgLg1iQA
-    widthPx: 1689
-    heightPx: 1581
-    authorAttributions:
-      - displayName: Tee Jay Thai Sushi
-        uri: https://maps.google.com/maps/contrib/105854196155234699737
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNfuRStmdZV-er4_8fEqMidOlwDrw8-ls9W7-fu&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNfuRStmdZV-er4_8fEqMidOlwDrw8-ls9W7-fu!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
-  - name: >-
-      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcKI4okREQ9SqhG0qQGcqh0Y7ej1PtTFtzezvCtozaGC-3XkGLx-aULecV-v6gMtTI68MXZczXHSEvgYygJeV_HsVOEVDsrKREINmnc7i65klq7hc3q-l1L5dB_BEHrvwJs7O1EhzHRudz_cZCb1PZ7EDIiiF007xF4F3e8cNgHVeTvO1h-y0FQ9TvQ1qDCfyYoqwmMJhkaSvtxocwY3_9nvBogeGjQh57XeJL7TdQyRMbES4xSvCV2nx0PZHZ7rYX4pCCuFCdYLh7u0_geb3G5IyTSVU4I5t8Hzx27jmRgPeQ
+      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcLSc4X5Iome4KLbHi_Ypk7ENIORMmVcqt40_XIOaN8DPoofmHmumHo8wwS36qBq1j8627Spd9psAntHeC5bNfqTFl55rCJT71V5K_QwrO0F8Z0bGrx5uDdzpPEqrM2pKpcB7b0EoPFW-aA5L2_UlJkRMp3weS_bUjKHeYzuLXTa6nmM4jkfZ1nHwe8CA8raX7udJCLxIfOV1urP_efsJUjgbA69hH-62-UosKe76H9Uikibebcz8CiR7CkfpHdv8DsUF5SahkuxtVUK5ziPK_ckvmmuYHdupm_2l8qij1BwHQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -95,24 +30,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNvSFqEzYpNyl2Ss_3o7f7zxVFkCMUf1B0EIGAr&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPlHZfZ92XQERum8U1qOCl4xRmBRgJaItopoH5I&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNvSFqEzYpNyl2Ss_3o7f7zxVFkCMUf1B0EIGAr!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPlHZfZ92XQERum8U1qOCl4xRmBRgJaItopoH5I!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
   - name: >-
-      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcIYUfmYvKu9_buyLSBKNNpVJIqMFXv_kd7nh1CX5sFF6X7b8Jk1-oswfVWTWOMv4Z9fWyIttTzVRbfKewvQTi_pQ9Pj_i8MxcS83NHPOwFZWAImPwEJ9IvrsNg9SG6HKQ7XA1FGTbUmFD_hK1RN8q9-9IABCEcm6YEzZDRv9Ll8l9qKL7TEbbZ0hl_xblPwrZ58rPhNQq8RWiy3SALmd48RXUIP2O1zGmfhq4bg4z-qsnyJFTjNpBOu1c4S_-Sh66gWEiMXDjCJepJvC9mbAyXCiLKA3P7kL6xj_YzRWhHO_g
-    widthPx: 2972
-    heightPx: 2119
-    authorAttributions:
-      - displayName: Tee Jay Thai Sushi
-        uri: https://maps.google.com/maps/contrib/105854196155234699737
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMOlrTlxui58f1pMVhQ4ij2RQ7m8aTblcuKytUl&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMOlrTlxui58f1pMVhQ4ij2RQ7m8aTblcuKytUl!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
-  - name: >-
-      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcJsqy5T6XNw7LRzerxFwKPrRI_6CyTDfqYWMQ0XPap0fgxVHlLcGRDHYzyzYsF5Q3b-2o2dOUG1X0EUi9bJLwSnmpRqmZff0fgYN_9ucqicFiYbS38JUxDP8AaMdnv_fEpbIIP9ToFuKnxPUId6lr3EeT0zkozHlOOKDy0AFB7wWPMlbOtbLqby5JlzC_S6CKIpdNfurlFHyNCXu71D_4bFaMxM25SwCL7S93Q3zgBjswbzUjx83eNkvrIn9b_8hygpmpZfp85U5v6Q595SVCjWyTLPE98W07R0G-0_AwEbzw
+      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcIaJBua2I5-c_3jVWr-3cHvVgfo3CioQ9EiSGbO4G9133uVFHAPTGg0-hE2UBcJ0lbGWESF00K_AGAaf--kM0ijRkjuNrHWpUGdtvV4RTTtS2HVDfQh14gQ13JGOMdnNxijgG7x8dHwezZtel6ym7HXGc7KcC4DLznAqxTqqez4CSs6VwxIog_tifSioolWq4XVzOZspRKSHfZZPwwvWwPH7zTQd5zPBPeKWnUgbHtxLazcegawFlSgIVkVtRIqtN14X9G2v6VFHvoMfr1LNba96jaH7t5PlCyvt8NqrZQtiQ
     widthPx: 3918
     heightPx: 2128
     authorAttributions:
@@ -125,18 +47,96 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP6otvFc3GflYGSFGNEO5E7c2T1kC8twVtWrfPw!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
   - name: >-
-      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcLIxmpPK4n7iVYOUNKcU6cOBs0YO_TtA0DCyLEpAMc5EXdtJWuqc_KLTych6ArnOYarTOcDESIVcXuAPkvFq24nwIYKp3MDuvSklkgGRHtwZSmSFIBtLoK0T0T1PWpcZ3_p4HUwugGqcIm9XJ1UFlK17dzK3BXMzmwtUT7-ApYpmAN9FNAIQmUelyRRVPyMHCyOYzWBLvDkNCekKBR6gLefO8VRvTPD_Pb5fj0lwOaTuAei8z_JgsAGfE-UQC7Gz9PXX81X5Ezm95zqlCdkf_jimurLAVFSmuqO4Jy1IO1eDg
-    widthPx: 4476
-    heightPx: 3672
+      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcIPHyfgzfZEyUE3bPOCK0kF8LPhqjaENU8JLtk0W-tTjPf_eKYYmLqqxQNEFhOsEzN2zO0GI9-LFU39BwjLiTGp2f4r2bU2081QwVhv4SiiaLHJyiIqYiNDLBXPWNirWNHua0hK3fQ9-JRK5305i66iFf64QBfPNm1Pel-cfpPhQOSWFvZtLxn6ljTaeW-vcCxTT0ZRbKOOmJ2yZMO7YunR93RSUIZXpH1ql67DYs-rggzi5_MOLz40Cg-d546860QUcymPnAkFXEBcXOaZmikhSS5D0Ee9wyMfyWbHO7Nysg
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
       - displayName: Tee Jay Thai Sushi
         uri: https://maps.google.com/maps/contrib/105854196155234699737
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPzANw6YBZevQsK_kNjrHqfkzVOMSWXcSKc_CFy&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMVIdL_BZVRk2HpKBHPdX3gKNLBnWSgcv7yzDLO&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPzANw6YBZevQsK_kNjrHqfkzVOMSWXcSKc_CFy!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVIdL_BZVRk2HpKBHPdX3gKNLBnWSgcv7yzDLO!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
+  - name: >-
+      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcI1FgLv6ojBtNSLvIyND2eJNZTDOcgHJ4UAjZVsid_Wxd_5DDFF33cZ0PYhEgPUHzzB3AxOELI1YkPyvQ3eYdn5idCtu5FRxnOdCkqynHpd8uYRo7z-V6fgB52K0pK9gEfrKp8yf7ht7AoYeaJw88V1PqpRcRdTrsnKLNG6_nds2UpKJQhOVcqjQAk-aZ6riAiJ3dKhmgGCheRUIHZifPDyhsJ2-fc7lEbQJ6XPJDtTDlxWoW-B6ksbiBa_U63Y3ENgsOj3EO9yrMTfjinGv2kW84p6xsgBfWedHH1wgxBUww
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Tee Jay Thai Sushi
+        uri: https://maps.google.com/maps/contrib/105854196155234699737
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOv7Xga7nDHDq4kkRZpESVn5F0ACTk_zjOVI2yK&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOv7Xga7nDHDq4kkRZpESVn5F0ACTk_zjOVI2yK!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
+  - name: >-
+      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcJp6DkFifXGFlacYflf6txAVNe2DiBY9l4PbJHFCfV480gr4r3F0G5-d1zBs25eMRsLrvNvTwaPOZgGabAkz9QBTkhJd_zj32p1nTlzWn7ppF_JTBpf_ridsZEPA9UfgmQv-cBMnh10pHsBB_Fd4h6M27Yq1lwAj8N6WQQA2xLwtcgwddduEbDnqlB3itLVIuO4jFGMTGRsBgUHex40UuTSr7b_0PFx5NhTmdrfEiQ8ggfRiHTStKQAgeiRnuqtLkShE1V5q5lPvOkXRYHz6bjTeTjU51Vdf8pMJTy5WvbMLA
+    widthPx: 1689
+    heightPx: 1581
+    authorAttributions:
+      - displayName: Tee Jay Thai Sushi
+        uri: https://maps.google.com/maps/contrib/105854196155234699737
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNfuRStmdZV-er4_8fEqMidOlwDrw8-ls9W7-fu&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNfuRStmdZV-er4_8fEqMidOlwDrw8-ls9W7-fu!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
+  - name: >-
+      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcLD7yE3mKdD6a6mNtykvJ7CUx_-QEk07yw6c0QbZYASaYKCM3P8RW0JU9eFPQJ3X2f3CP4gnYWpuWh3xYmFbRy74fQHcHeM3nDU-i9Uzy5epMFDoqTARt6Jtvb7aRhsCWPrII8dLtXDV_Qz3HGPRa6oSndY1y-qd9OVGwpxnet_HMLveVewltks_T91MLcBTIKCHmtfuH15ylCdatZ6JkFjxFb7fNCkSAWMI3L_zaYfPYcg5AhBPsHStOtJM6dS4Pv_vIGDdGE3i8zal6p5KfKb0Kv3j3yDxxGIyY9rOmxugA
+    widthPx: 3098
+    heightPx: 2488
+    authorAttributions:
+      - displayName: Tee Jay Thai Sushi
+        uri: https://maps.google.com/maps/contrib/105854196155234699737
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPiBmFyVIzmTpv7oJKVqHiLpxqJlpHM5gcmHUTO&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPiBmFyVIzmTpv7oJKVqHiLpxqJlpHM5gcmHUTO!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
+  - name: >-
+      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcLUXX4wb9ZfpAwxflu1qsTfE-oXJYm4-nhj32jBXveOmQbKP1LhDIR7UYuuMEwRnQ1Swgmp7JzW7zM6at925i0GCcvjopsBFaBNEWGcKYnQF_PnIK2jMN8DUmidiO2RLJ3LN7m06ZKHVHz3URRSAj7X7QoOA0QFbGGSyf13UBrYcJiP4SZLu5K4RFYS4EKI-_aTw5z0qkfW9yWlyAkeNRJet207nWCh_mCDBQq69MK2I9VdkbKCrdKyQt6guFF5-AyBRUFgZbS7ON139oKvv64y1VpWruI2hXTmO44HFzIgKQ
+    widthPx: 2972
+    heightPx: 2119
+    authorAttributions:
+      - displayName: Tee Jay Thai Sushi
+        uri: https://maps.google.com/maps/contrib/105854196155234699737
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMOlrTlxui58f1pMVhQ4ij2RQ7m8aTblcuKytUl&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMOlrTlxui58f1pMVhQ4ij2RQ7m8aTblcuKytUl!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
+  - name: >-
+      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcJ6oJrr2JFdxAbZAgDglrTayWRigcGXjIajne6guYvilGILPFazfrwV1pVKWKT-wt2TIS_eONUHv_7NtqMdu2Jl-NJnCFRiZOVTZ9N7LKBAP5xcUO1-pF0jsSHzIQFJe80sXfT5EDQLttWpVvwhaqBIctn1qVO0EYjht9ofHgZQSETWWI7NEdd8yVDoXw8i3jgArPmQAW4SYyuLGqDGd0w-AjDIkkDrON5rIRXxI4Czj5VzoeLe0h46-mVIejKxcYhn_iLQUuNtMR-7S_I-9VBoiVnONIoTJmQuUKNSG5qrtQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Tee Jay Thai Sushi
+        uri: https://maps.google.com/maps/contrib/105854196155234699737
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXLjPA_RdLVdKhSEFCaR_IC02dSU-S1CQda8Gl0fkRM3e2c6rna=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNvSFqEzYpNyl2Ss_3o7f7zxVFkCMUf1B0EIGAr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNvSFqEzYpNyl2Ss_3o7f7zxVFkCMUf1B0EIGAr!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
+  - name: >-
+      places/ChIJ64Cr5W0C2YgRfk2b19h52DU/photos/AeeoHcIvei67Ku-STfwSVB_rEw48mrB-PeEOJzmwhtdIDlgDFuKjlEoL82P6-UKrTrHGu9Ux_OffLR_--ov1D5Xz0yzn9Ih-5Xi9eXx8ScJN6y9gpxltgBYkmOisnp-hLUF7u-6XfQVnipIDDF_iFjlMGRSw1ZolCbgQ3BrzUrnIxUHASolK7LxYuh8J02TrPU62hOANiV10YuElYE45dOEnrfHQZGeddUGdbTEm_dIruY9r-1v1wBZy39UTA1NG4g6BKi7azJd0_ud6oO2nUpbtKlH89xOzaGDbejtJt-VSKlDvTlvEvwOsRfAdA_1llIkBrh0T33xu51XGmC2WKceG8bGIKbqgXXMiP51wExt_J0l6arMgcC57FgBvzttG2lYrFWVwYDUXNcnlQgffmo_zUTbfJAmiKGUxeO_lJBkdjmv5SA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: John John
+        uri: https://maps.google.com/maps/contrib/102441562407737222023
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXEGN2RxIoY-DPPjWSYssaAVT2sW3pBgLH48pm0SA1O3Wt0vK2vVA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMrLDGMg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMrLDGMg!2e10!4m2!3m1!1s0x88d9026de5ab80eb:0x35d879d8d79b4d7e
 address: 5975 N Federal Hwy, Fort Lauderdale, FL 33308, USA
 street: 5975 N Federal Hwy
 city: Fort Lauderdale
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Tee-Jay-Thai-Sushi
 
 ---

@@ -118,6 +118,5 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-slug: Sima-Sushi-361a32b0
 
 ---

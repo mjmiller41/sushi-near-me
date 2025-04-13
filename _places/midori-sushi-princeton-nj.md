@@ -8,7 +8,7 @@ cityName: Princeton
 place_id: ChIJYySAKS7mw4kRO1ke5q9lZJU
 photos:
   - name: >-
-      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcJ7SDw2y6byyRRbV0j2uhV_MMQ7cuzyzAJ-Q_sqhWOYgssoJa5Is9oi0B2Ve2vLuJqaCqsZHUXzHJKFUNZmTIV3F26_7IWXrLklNkrZUoSohhyIdrEeC7BdyBaBbZpdcUSHhZeBPEUdzMZUE6xdyHr2o-DgiBnQfJSDbKxnxcOw5kiblUQQRUuBCJHtWy5JPvdtN3u9B7LJvoLvRTrME1uUWuW0n2vEw1n3-c8IucDbOB7y-VxN1Lg0I5BX5B60223jOO43SOGZDK0vtNNlKScpGN40lEhLwC6Ya8C9rpr7SBsWMI9lmru6VygjQWmQBlP6XkpxkYsyeVxHDxTZv718RYJI8YvT4Ag0TYj83RueLfCxyXjADGTZF0lNkuDx8CRTBbe7cJrMcUuk4NPl_cAVyPu0t3T0Ci_nQOkPl7U
+      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcKhIHCrwe7U5B5ugGPCPASavHVvD0BOW1xrydQzkLMGVFx2kcDJ-jihQQ6-N-ZWQArskCqBrKLTWkfYKDooiF4IITAkTvyLhJtrU4yEakoY30lLvcLfAgJcyM2SS9hRe6L8OI-0A2pat-elqRewHAlo8GruGUhsuGJRcg0S2RXKWZ8eQIBCGllJISAzNyWgAY0zbrBrOdAyoIzeAemSLJHN2vUhBVIbnDDs-FAHLCIAo4ZQoO5CGVPEQTaW3dBM-21c6wC2olvySIGUzV_JdR7tguESsIUCO3Zz_P6wNzpowzsWX_gDzr3lGizN9UFhqVw-VQhV7iaT3fQ_bZyemD_O9d7CPpCgej0EdIzXULhYAMVb5mDp6y4brYte0ibUFUZThCN-O8twEfu2O6EnM2gdU8Lcnhf7L810ovg6NOw
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH__n4fQ!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
   - name: >-
-      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcK9zBYNwktZrFBrtT_J31XdtgdI2-HOOyUlQ3XYLvUazeyHxdNL-nVInSHPJfmrT4-_t4Fa63sczSwM9Guw2yBxMSrol7vT4ELm9ZVHNjHXmPT4oRrUdMx_BOQeCo4qDDMks8Xxh6gePAtkUA2S1EOGgXuTWDB5Ts62jz_ouQW9-uUoDsOiFsiBVRxHGV8KUl1i6ubCQnzQrMrD17AL-HRoKMf8ix1huGY1Qq5hNqRlJ-vIr0tBqSI0JaPnWxZDF7Tu55aJLouTCbVv2AhMlKGza56S9UsTwJ5ZZROSWDzCVd9FRmzR4pZMaIiotBSPhqmCJSn2Fe0mbaOHZCcJgrscM3j7ehpIrypuOoPUZ92OLTZg4AqNKaiqhvqmfr6FCDjMvX8kkF09fJQfUtyRslBNFl0LnXI8J8dRmMzBC5hhkK4
+      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcKC8Q9WNOi2bsYUa_n1RjJX9jIeLatDRL3QOrjpohGUBRxGhFkvXRol8Hc5GoXhlqPiZ2qGeOdplrjRv7Yi59kQaHl7Uj1oOErgqAnj4ajcbe555RBKmneWrDgKtf6YrPitKV2LjsLxusA29-DvsXB-amwEwdIxeLqy3Q3C9DZaW39xUX5vDUhxkNZtLpSpHhRawEgjnwb_JdShh5Jvs8MJhxgdQbmKjBGoqdxsg1EzaNXdJwcTygoWqrt3MPdc45Xper8P9fXsZe19aGXi5BK7UazjK6b69KrH6GzLZ08BrwD_PiQYhR4I3ti8lI9dRl3Bhv_gPHSx-tzZiZw9fNzomDo6B7dQJg6gtt_EQrkrfzXV2Y1LHJU0Vq-7LmypKjwn5ascs7aJQF_JflJ30FzeAjCWaTRXgQv05Q5MgNmf2XU
     widthPx: 4032
     heightPx: 1960
     authorAttributions:
@@ -34,7 +34,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk3tLR8QE!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
   - name: >-
-      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcJnLXDaFZ8wbbdSWuI9o_3763CoyQF9vwqMFZ-s94p54t6snoPaX9FqHylbeY1CxEYr56N_Minsi0ZITm2hPvIUXxXt0CYHO03EVKpuzeSbwlOibttceuC-q44sdM8cd0PxVA5Nnl8XF7lhIpSOZIIoYRP2Y7L7uaaOGlT9-FMC88i1F_uzyoc_yBGz2HJyyOsGHOkk16C8_UqODhnC2t703o8chnXofkqwDIbsyCnym1-W5mGlfyoY_w7Fba4S1fF63et5f03bhK6o1XyPUT_telicCC9xY0pNBMIviPCFLeHVhGwwo_0uAq6lLxeVSb8dHB-eAgtr8-TyMa03tVksn6_QMYDFKSvRRM64GwMscG6pa-wCBIFQmCPESyS2XTr9O_eT6OZ29dJU35W1m1_VRpFW7nwFsmBpHo9O-XiPPQdn
+      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcJRHUMvJU3ipXTXVd1agbseDAhgd86MJJYp9xGDVw5Hxf60fa5Ef1bezcHMWv9nZUUoXgn-nRbachbKqzR1q87q5u4vcJxtmRPP6B_0iXcFLERMjDAIEcv2qed-ul6hly6czvRcey4eGAXWxQe0Ow0JJ4myK9V6ZDM8O76jo3anCvFH2vVAaEDkwSEXV0uIv6-22Os8dJCOMaaWmxwdVnSM6bGZbDI1RR4TKHpt1ZoSPbd1vokgIBs80SKEzrHg5Zs557MkR-X-ujYiCLAIUJtYkdm0mKHX3fLtMPgB90R4HeLL2i4HOf0bMDryw7AZKN6_TrI-G4ngCdE5i0kWf9ThXos1mkh55kUHHxAMcEYYc2WBRnGU1Vf21bbXNmPCsJA_2RIJnWx3rHX1ujVGEzfurbzzSmPYQ26k0w6xK-Tw1w
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Alan Pfersch (Al)
+        uri: https://maps.google.com/maps/contrib/110400110373605108324
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVMVSAS0V39k9zcoeD5xhH88XMDI1SaGf6BWAatjY5CaDs18qk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIt7ThHQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIt7ThHQ!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
+  - name: >-
+      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcLSJJMttP6tNm1g9s0ZB85O8tP4xNCGHtHh4PYmVpPJDL1tC5tQVcfw2A-U8z2SwNJd-dhBOX1oET3VSPWX5O1vP3YK21t5yb35ISmIVBNVI43gtLFQUnplRQ07JnphJh2_4A4catbUAnQNyR7cGf30EJ3pYKrYRjuIB7DQ5qYf5sn_pbSc1K2S4VcBbl6VmN5xkmbRYHjp4kM3yG2pgTEl1KPMIsfatwHr1-d3TehvHxFb_1FkPAXS747Xb9r4WqHmFmh-3lMX0-SV7LZIMjGpnqjLZKfu1_N3vdKJ2tXgf39yzV_kVGjiR8D5F4UA1vuhkmJQb0Ez85UTNpiqbId6HuJLCUhmIGlvSE_hnLiyQmI-S7DqEo4lRufH7MI_MnWfgwt4R01gi3V7KRmShMrusfsckar7i5S85z3l2-8jpjqE
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -47,7 +60,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe5uCcxAE!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
   - name: >-
-      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcKgrwqlSHRyJM2yrGNRWr4pvQSbkJel6VkPbcR6HKKK6GI3-6dlmUkZYz6sb5FcuU5M2DuB6xDX8LYaCtHZs_qgwGPWwDP8dzMC7DC7i1r2833KuITpxhBvSBnEgYX15rIdQtKj91a0gBIWJWDAok9kIo2yHZpslzWMVaCVn_5LGDq1i1Aq5KzIppoGGvaqcsWSeU0Z_EXcnvFr4r2GcLn8329etjzpEeP82WMDzhG7VvBBb4Ajgshy0m7WRSclQEk7jbvgmixlgis7nV--Xb-U10N4UlJ6slznh_xB2sx_iIOCwfyYDzagRgAZ4XvPXl1kTjg7L80X188GMlNFHN2aUjDbT-bAEBUchGSIOWqyGUqXFQyJlY9lUD5ZgHAwPsvMpYxVhI3KW6an7CtEiblZtjGvHC2nuYjkqElyDqb1_g
+      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcK1RCg2LWxnIlxA-8GBMkKGHf3_1Fcq410vdngmRYTxyFs2Aw_oXEtgqT4Ryb7fzjjOF4D6RbsBnStgdegdLXzgwBoyavVLCRjCXsXMFYgqsVWRCUgsGP8BO8uyNzJUes2M59GDfFYVDciPeyyth7mEMm5AkCbc2mHe8vbeAIGOvz5nynNhVxcWVNM29OhZcyIW8Gmw3xJd0AoyHN2JG4aYHRQ0wYw62nxcB42_TmUyONh-GgsZGha56vWk5iiJeRT5Q7zXyODCpiPyJgj4PKHEGi4Cz6u1PTW4R1yg43x_tdZLTsnii4tFMjHz1MVVd7ZuhhahtVxtv1bQr1RD3lLewVCRr-o8VlD8rzXH4iy1v67_jyWTK4zqV6M5zY3Tv2Sr9IfPL1paDgAz9oEoeIg2upbc8SAPKytg9ck_LvyuNAvl
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Alan Pfersch (Al)
+        uri: https://maps.google.com/maps/contrib/110400110373605108324
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVMVSAS0V39k9zcoeD5xhH88XMDI1SaGf6BWAatjY5CaDs18qk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIt7Th3QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIt7Th3QE!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
+  - name: >-
+      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcLWp0Iked3MVtOl4oL0ampaVCZ8o9bHG1PBXdxOkPKM1NQ777vBOiX7hvdmfsOyUD0lMRwBLMqyQbV1hZlQXWb3qO2-crIDPMy72Frp2nTAulbZmDqmuPGqTOxPHfWRneX6LcVr_B7fAl_C4dBdB3bDQFkF9X5lfOfT11GuIBU129arO7xvS4HOP0WW6ITCeUyGeNK37Rh4sjiq6bGGAfwZQ3I16y8Ct53CDRK5qKr_005G_d6DWj6oKYPpJRJ-A3rKwt1-Ns7Xw9wntJ2jZJNFTP9te4tZ16Qal3SwahIFNGbUx98t2pvtr97RHnve3RmwuGOQWVvirvJ8M-bDddKzXid5AntzNlrrMthmZ3295M2-iRjAlGzpH2gRbqBw6lUHb1YEhumhDao-qaSWSRagiNBsGMy3F-iOBfXAa57rIw
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -60,20 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbh_-BBw!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
   - name: >-
-      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcLOjU92czIMlwEjmcupaPsIkrdkfjWxQzmrfRAUgz5u8e6VQfJ6H7IhyQoI2G--kheHKI8n3DsL_eb_WvCOFjIWQfbgaLAUKyFfDxYkBYHZmY9cRr78gFMMt4FhhqlLOjT1VJNNRRn34C7ZTQ-i8HZYuPvObI0syT7KlNuSd0SKiqk7sLzX0t5bvaqn7PhpaaOjpO2sfHaRDP5r1l_0tRk1iV_0FPMfDkLMw8rpBNX019p056fQk-0P3FFpc-IO1kk-ZaDZuZmePSabksKT0fCblbWgSUqFGuZDX38HWVffKu6kGKvelanOv-76HqZNU_4X2lyVY4oU9QFhnejyINfqPiTJLDV3EbKsw1rj5HllQuYYP6FQ_ibdILXDi0z42svEpK_d4X7Gl_4lT4XfogYUmpv53PFV3YErjFDlj0yuJB0g
-    widthPx: 4800
-    heightPx: 3600
-    authorAttributions:
-      - displayName: Janice Machado
-        uri: https://maps.google.com/maps/contrib/108726888821673694906
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUFZpLYnoGYItqnrHCIhrM8xtKBYu1jYG2aeJRQbAnAGZSPr4cA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbh_-B2wE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbh_-B2wE!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
-  - name: >-
-      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcLczt56vOOMFOUgiByFlDnKIiOtaqiZMdZ2v_8N48UAFkH6WyuCFT6Rgm2ux_Z-H8ToGBXSGRH-J34sCZVM45b622JbB7MCyVE73zuY6onL8R-0_OtfuDP0Qhw6X4R3vGCAT3taaJxpeIqkOduwuqZ6oYzHRqLZt824f8tlFTA6Eu8RW5ACTTHyBjNgoZuEQknJ3-0MxPxdMVlaEFw4kHMaCF9Pn85nAZ1jvWSbEVK8Vj9HOCY6g9-qjrgzk4pGE21HJ8-SHFL9o-sjaCkc5YRMtZN0HPJ8QXbDJ5YpFjIkv-Rhz45KMxTsS8pnJfXlj33zsjXkmyNkPqy-amT6pwWSdwuku-owDEVUSAgE_JbDMjcC9387KAYogyyx9i7QkVAH04BetonAjyDnok0KfQ3ieYCuumaoOsjOqxbutNH1muwb
+      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcK6UDcuN3VY6eu_Orj6l6yKAKlOgj6ENgk_ESvf0U0SEY6b5IXfk5bLTSxH-kxDQdlLYFkmQMutiR61uIIMxJuGhHselUuVOzDeWjZfVqirRl8v4X-VH5ETjxX_GlBZJMkyEENR2nPNSJ2eWds7Ige-JDC5xo53JUTrFn_CQXtO06q0McnVAeNoY6LWryLvNBLULtOAfKlr3FWJdrpCrApz7CDzIuC9718Sr7kPxWIFdEPTnorGRxO-j3fqObitKY8qDmnK4N5DiUgKeEjt8V-PwluNEpQCzMl2R58kURye4FeLjGPEEeVEWWQs51WPFQVAtJQwQXeXhverPeu6ewY3u2eZ7UkZuHimVW7l9e8aCkEchFnoTUCOvIMkC5uT_uo1zyifLBuvBsERmkb00_LTjg2Ucw9ojlERVitW07Nd9WH_
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -86,20 +99,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH__mcwgE!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
   - name: >-
-      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcIFyliuebepZOZG7wjhgV-1pj8MH-GlDKVdKVOZnKesFZU4dAHzQjV1X_T5z4TwpSXX0uB52DHD_VeZZ6cuVMThQsta_Qg2EemsHTmIX2vkKELXw4t7bJctZl9pgjW6h49punUE2_xFDXCCJVleclKqlbzY68klhZUJ-kVrasQ9-kDS3XBW-OhvIRIC4G4dE-8hMbMYFNywrq8Jw-RuwNSqaFktDdbW1jqJV2ob1PG2elE0CwtkGg0-d5DfnQt4w8mDCZvtj78zdzm0qXqVdhhnwWbztq8R61cElqmHydTTYkTgS572VN5HWNS7vhEylb1Mh732UEj6lvbLjJoPe8GIixlRYPiYpJG4lPJmxNlK49l0Yy5cYU8SUgf9EAfuoCwEjiCjL3fObUcJkEpWTK0dg-CxK1DZ69pxHehTYa_AjA
-    widthPx: 3600
-    heightPx: 4800
+      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcLgQtbsWpGPYxSncCG5zAJeLdeAzuUEHl951MxthFWNZl2Hyl9tlAhu6V4-TyienciTqQatDY27iX1OHmhwKt6gBpNM1b9Ej-kxQHIXqS30vz6iJ7rsMHCFaGpX8nwBDONVjRPnQDNMStyq7L9F1HRjJ0AZx8vhsMl36XeGrSNJ1mOT_uLsTb9d6kph1ecL0cAeGXu2MVLZKxkMJ_jAUCHb_gvB3ZTpnMTOipR4M7r8vQibiou90XRIcthuopn3U3ul8r1CIvhOHMIruV3OJQS10G6wHraa9m1O03fVcbo9TJIAuHq81_kx9yiU1cxRzD4Bop9OJaJLIhYu65c6gYb8OIwFHgzSZ4kjGxhhAT4VEJPOCOn0tER4ogUvvubWN-K96xhthaBFHQtJ6LZVIpq1EG5s37XuCwwN3Bv3EOl77qwa
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
       - displayName: Janice Machado
         uri: https://maps.google.com/maps/contrib/108726888821673694906
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUFZpLYnoGYItqnrHCIhrM8xtKBYu1jYG2aeJRQbAnAGZSPr4cA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbh_-Bew&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbh_-B2wE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbh_-Bew!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbh_-B2wE!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
   - name: >-
-      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcJqRksjiN0KDHUaWnNrqPyWUAUQdl49l9dWOi2BTMYMgL7RbOoorpIT3TPhGU0yilHyWAKdkouA_aZv_iqy2wLrOCcJwJ3w2FEqF7l1WDNOMSH-dfIuh6Ded6LpiITVW3Rl9quJrYkWSkCYDePgUfyQEbYiRDucs35Yf3bE0PNjSQ1SRg64FBe54wFOqz3TAU5PaMEOVkclwWc4LXORt3TeW_rfaFFHXOFbN78y03yiIbWdxIonC-goxb2ZbXktlYri48oB9fYQpVMJya-tdG6lTQg36m-Da_E4ZRmxXTlVTsRkS5YlbgyAkSpV5-juIKjl1AKpJO3iGT6TlV1p2Kn_vBPJYlQcwDgHkU2f4NGmlbMpGjdeq9wYcc9wB1oecXNcPq1SBvO6PsmKs41fTp4pGvoCAKrfaexDCLaV4m_BeQ
+      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcLsg36dy23MjL4PEGaAV2bSbHOlQRuAMPTsjksOQvep1oZ0V50SumrzwGI4XgjBnHEaSXQj-2Zv510K0uGvYfXNkyjkooVk2gYP0z9LJli-yoGDwbRKaYPVvWLJPYk1g73GMSxqvfkUEnuUPcHY5GOCh9Z1GLgddUXabdl25DqU-Iq_znxqHq6MaW9d_7wLHOneDhERp6ycoqqa58yggSMhbH22_9LdDIA85G9r0K8GMZTzteV8mufgc21PifKfezF8rr835setgZy6SfE0o4E901MDNsEfyT3l1ICPWhKnF4nGBCv-EKOzCX2kyEup_q0qMIyw8mB9tZ1y2nSGSmYh31s8_K03-mGzSjysf6bddBx5nkclTYReMAAp8tl5RstLGWGQTNULc5vgcyN3TI9pWRF8-xxYFrTjrIgim3kScw
     widthPx: 4800
     heightPx: 2700
     authorAttributions:
@@ -112,7 +125,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEgfLQBA!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
   - name: >-
-      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcJkEr4Qz0U9nn310InusoMxK4rUSaSuIMC_xt5LwFvS7f3CwAU19dmv0lrCIGwsCUvVAfWAUIiCV7vsS-jKApA25ZtVdLpz4Y2BI_rJI7RglStWt54dSNyv36oVDdBgRnzhrfPoylSA6UodmgEOOODdxpg9dJ82q-giQCegnUCzU7OmudfhuFGaCX7bnGPiZK91wSr3xjmcxxy-whHwUXjyzEzH-5XgbAwA1L_qQ3b7VhA-o3rTeUW8fuGDqjN4RDrZl3sQ55ioul7m3vUIv7T_SQnGcz8Q16FQj5-yUJOBcz8N7aKWgNyjAsJRggiQSA-3NDaJopwhfb9NHdn5OvZ13SgR7qEck97y_Bnjc0RK_EqlNy9tBmnqhR_H05K3XFPCkhEwRRvcTRiJJUeBnTg2RX7zAlgbUn6EJOa2Rn657A
+      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcLDntaWsfY66rucO4gSnWu0_Af_Wd-KQnfBOM3xsMVsZklCU4UUl1e8LgASbjISU83p3OphCUPmzBCVEJwdEHnZcGMYkhmgJQ_iOU7d5obu0G3GEkSz36Tnp29RBC4PdfA9Q8Dq6yHeKpwdnMl1kV2qo9otZsOMpbVx7Hp5uQotDWFlfYlev6nwrZPFELpmUPtpNTPPUtHZVJEW8nqBbufSIBloW5nbJrgPcWRjFZQW3Zbw6eOKkGRrF4OvUiRpiNDr19GJV0NVwzsqbfq9lKInht8UWz6DFsdTEtzQ7VS4cGIeov66ttLIrM-f8-RWkinPHuwdNfe_YhCNLu6V7_HhYiXS0U2gWvFa5oUvhAlkEfMfdYTgEeu0VHXfaxug_ZVMuM4Howdi_U3p04wV8WHt5Pbyii_A25Yutt-MTO9WIQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -124,19 +137,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICErICNbg&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICErICNbg!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
-  - name: >-
-      places/ChIJYySAKS7mw4kRO1ke5q9lZJU/photos/AeeoHcIWz9HJrRQQfP1SxSyd0WJ9IAm-JJztFYoY-wiJ9S9hqaQOtwdIsmaUrc-dyFBweRfMqaNGfKkL9amco0yDSiz-VLnHGliX-6_XiXUfi4zlzWrcW7RkyKPYlMbFSRgcLw2JVMIY-Yziggb1AD7_O0cTca7sJsnigGjSTtS4n9HlUNI5-UbIL5BYUBr6y8Lk1x2Z-grXWZx5Zp7HPGQmJs2uE142JA6qxH25-X4fuhxkhe7B1fgGbuVTUf2my-G9uHbYen4GWdSCCprADxLfRrmgjEIoH8AgvMoUGZDTXr2z59eAzIF6eX39jclEZYOKm-Bem7DWZ_kNZHUqBKoezjWQecBRHDtVspEwtgspIjpCjPp3djA86RR3vHsSSiolBru3Ra-XdUsxlLPRPWj9cBurvuXzElLHfJ4YuJferJtMig
-    widthPx: 4800
-    heightPx: 2700
-    authorAttributions:
-      - displayName: Kathleen Smaniotto
-        uri: https://maps.google.com/maps/contrib/106514633143905329295
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJ3cWb1MX-3jsnB6WOk3MLETxeh47LmUkHQo9GvNCEosr6_sw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEgYrMIw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEgYrMIw!2e10!4m2!3m1!1s0x89c3e62e29802463:0x956465afe61e593b
 address: 1225 US-206, Princeton, NJ 08540, USA
 street: 1225 US-206
 city: Princeton
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Midori-Sushi
 
 ---

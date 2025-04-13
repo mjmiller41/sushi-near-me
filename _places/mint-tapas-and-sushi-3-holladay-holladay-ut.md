@@ -8,7 +8,7 @@ cityName: Holladay
 place_id: ChIJ_yJWm3VjUocRM1VNJUjXwzI
 photos:
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AUy1YQ1Z5N69EzY6wtm_HcrLknYO0siHf5poR9GuOAmkqYeBQViU21mgp7SFohqHJTA6iNWrACVPArvFu1m-8YCzVkUuUglmAEZVsR9rXqL_5RNVHUE8eIdWb9GhnurofU5GzkupukDpk5qvpftXljIotKbZlN3hKStn35sLKP9zPVWh2RNLtSoV40Y38jjbQwQyDDRpqDUXc7uXIWd-hu8l0QpckwoCwvi8ctewOlhPEwVcOqacoRyt2BDvY6KZV_wJBKqj_Wf6O97okwIKiTMXrR6UNdNU31ErTSdzVIOlMKLgkA
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKHh7CzWKSbRd1eyAt2NQWA-1YOVziC8NaQxoSw699-c6Y07tIuBIY_lySoBqpcWO8xuiQpZ9Oj89iqzVYZj5Ti3hh0eiqL4MC-w1p2ab9Lwo3aec25NY0ThtCtx9D3ru1oFpzi7UrsVNzIL1LBn3NLe0DF3R7Ykn02Ufjy15Z2rlvOinmq_gBZgqDUSt6dSfN6bIfi8n9ut7AVocB4cLk6eoh6sqNvqPUhnDVs84-8_2GUGNXJ1c38vZ04CfRrrLogvvtzkFMjic6uIGOhlMfcGj36Tco5RN0yDAUOHLPAcg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPvTcBcPgP5zj-v4-aL26uczqClUj0eQNUlIyQA!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AUy1YQ3tOLIXEQSRZvaBrRyXS3t7IP_t67RdiMVZ_kiB9rBePBwXzd4fugtaRhek64XbI06SEcgN4eQ2eHJvW-kNHO7bpxCIP4vfq2pwzd_UGpgauZkNoYVj7PRnxHXUBntsj5WYVgzK9n-MQlCZTgmYVJAs0RE2Yun7bOMyEDgGW9o8hLnzkYr7K7gtaccRTyPsYiCWA_NUfYad5f40M5HvVICDvKIuT-69kKcT_BuLv1Mpc_dOSk20yFPBPwNrNB4tCKitnwPcwMbBTk3JBLWa_FMHY5laVZMvLnY3PkdtBNfpyQ
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKKBgBPE9O2XvQstt8xC_BSKLiWqWRj24-nBwjXIXtm7NM3cLAenjrreAj3ZZwXbgo4cr5dfIOA7WVZpwVxl_8ebgmUSN8xWRMmZxWa9MMapPpxQu7jSkpXXDEALYMGa4f9b-vWX8BHS2fUT9PixwSdoh2Op3tFbR6ap3LyPfIOdFwrpKVlXHuF_PRBcWKDoFqPkOU20A_24i-0NOzrwsW_0UWWCxGtwH7uQgInYwSTujQCWEGbg9V-vomKEEHR6CZfLwjrNy2v9IUUiItgYNA8-dGQ4Z6JmSp72LZZX-fQtQ
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMQ9yH9-z4TM1HSEHa1GALmv5AkRijwU6VbE-Pr!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AUy1YQ3L9QP5tbVf3StCPa77Z4tYpjjPCq4zYa_l4el40tKt0XGYAOHcWlvLNcwnp-q8pmJJ0V0HjWg3IYulqiXWEZ22iT4P9oYulGWL0E267aqp4u_GjH355kfuuFVBNrNEd9nzprdy0hlyVFcahr-slo0EL3fk7cVKc_9xztS_qwmgPc_iRiav-mFIVM9lUC8e-XFNm92ONuh7CuBzNBY6Vf6Ouv_GFZj0tHzy4-C9gVBYqWg5NWJhYKjiui5AdhpXKZVxhh6FIdAQHyoBSIHSbo96TpyfsW0YrjmAGXVkXAqvKQ
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcJ3o5vDOuvTChZ-AZIun16N2BSInlCxua0dHiCYvc7j9kmZURfdSykztMC8-e8qygc3wjfIZKjAWsrgU3BWFT7Il-mQ27uHezhgu6B1UrP-ebalJPrciUStY440w05V-314thgs4Fq5IkQwKl-PkXsSM9w9iMx43g8X7avAMBX4IBwnDcrP9kAypcRpFv7E2qU7gYvYtu9hC65SFvnRI8MPC3ldz0fp1cLhwq1pQldm1ZdO4i9EZ56Yn-ptnrMXKnmrXd7sGYlGT7d7gHalR2tFXvutZ852NTRlezbgEPNb8g
     widthPx: 3375
     heightPx: 4219
     authorAttributions:
@@ -47,33 +47,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMuM2XL7plpnGTOmxzsp1h3KfdLN7dMIVBDrvBx!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AUy1YQ35Fw2JJ0v-itHgMMoU7bJzXWdUeJuP6jbHDt0h_j9YD3-LkjXxSAlMLyUlywez59YmtwbXYBtY77zRMEH8NVzWrSjFPaVVmNKKbEc9drPRfdXQfnaKbWVzPFGKxxzqb5CghZvUvsBOEeXe3-0keh18LFm-PiSNjXWMv6yyJANaEnJR9fk-lZTM4HVowVdgezTX7XrCGIoHGt4x5ozqoSK_HsOrI75kV5dzVO7Hjtp9sJvb_YTaSa5uq6KJi_cRYIeGZ3oN0GN8BBlcA5elGBunDuNKPGL3jDOA841KtfnxjQ
-    widthPx: 4800
-    heightPx: 3201
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcLxIVSWtFLuDhlUA1-Ad4Udj8j2wEUt1n9oU5t3BTz-glFTwyttOTzaauNGJg0Nc5NbPbrBN_3xpolTMFiBTquuussqmu_sXT6ieoCzBvlHKL4NoVATtvT9KRbAfkNvrTcdk3v9RDcqfn4gz4K_y8Vg73Bdr9kxdBDGCvrnOGbHYJKrOq4pZyJEhw6AcL2CzFX4v2_lDLVMU1FEcjVeTYODS9JIEO4UtDf3Qy9TwYEPVfJiwzPb6SsqdBo8z8reNuOc0q0VYdZr9_IaNfkEzEAcerDnxfB3MUEcgWZ3urt1scLhSQd8HEJG4FYquAkR2de8NCHhGrgygRV5vF5WoWApnzNoqVP9hUoZc5jxqNNfi4YXh9tFxiC5q0tbzJfbn6_1nzu2erJYJXfYH6NRtpk3o-cDDTPkmx-sRjo4SrhL0wAA
+    widthPx: 4032
+    heightPx: 2268
     authorAttributions:
-      - displayName: Mint Tapas and Sushi 3 (Holladay)
-        uri: https://maps.google.com/maps/contrib/118199403018335035533
+      - displayName: Tovi Tedrow
+        uri: https://maps.google.com/maps/contrib/100823802258499471464
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWK3Jjq00eClHPW7nqMRrwni-saNwE1HEeFQzyshk5pkzzCO8w=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjW7_mY2ZCD26tCT_BgF5AN7deY7FlThku3BjLDF1CKdOzXTntBEPg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPnx1b3kRgYyk1stX7iQMyD6bJO2a453sECAkvh&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_-Nej2QE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPnx1b3kRgYyk1stX7iQMyD6bJO2a453sECAkvh!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_-Nej2QE!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AUy1YQ1Egxb2-0SSbUawWaBk924iQtdNSC4Qq4iMOI1K9pnvps22CeeFEO9kWa5ylSxGoeEL0o-DvjZn_Lohm3v6HYedVjO1Lv9cyOgXKA-fwZJRwJiRavAAMiMw45F_VLSCzmm7D7s4NKyMFE1PxUeaxelEaCb6LFjfhGsjUQPmmUByJf03Mn1tcIB47RiCLAEZUPCbNcM-HhI6f2slWafDVk4oXsLahdYMFL9rPr8C1wqXEXvqmDKzkGf7yc0djS0AD3s56u-MOgL3pfy4jcziY0fm73VYyt5RSwg5E3YemBdCpg
-    widthPx: 4800
-    heightPx: 3201
-    authorAttributions:
-      - displayName: Mint Tapas and Sushi 3 (Holladay)
-        uri: https://maps.google.com/maps/contrib/118199403018335035533
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWK3Jjq00eClHPW7nqMRrwni-saNwE1HEeFQzyshk5pkzzCO8w=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMNQVKrxAB0iItBh3Yn4gCQg4WaKxaROz9LLQV1&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMNQVKrxAB0iItBh3Yn4gCQg4WaKxaROz9LLQV1!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
-  - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AUy1YQ3K12CX-JZfV1bfLfoN7z7h-DvGenKCwjjtmEjqn2s6IuAuqE9zojJ4rGmwg-kp5IPq_xJPeTFJAk_of9zqaE7d_x-sCh5hIZ0kh2CPnD60ksdSllbECF0xitjVdSJSAssvU6gORQ1SlSNUHtA9-Vl28o4jgye_Sug-mLp8G36qTWHjaGz9P836OPl6X-AyL_WcnWTm63qo2Vi-jSOsgOZiHxIU819SU3jVvn-syVM74WehPmZKxwsxk-o_UJAxvLXBJLYfLSxj7RC5B10Iy-m2ZvIsTZFH7_HxJgZaR4Fzqw
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKI7Do5ypvFNRT8j8NUhBCjrXS3UmAgWa0-cpbvkE-gW1dZc7KZkdRXqE2d2FjhIpRZDJ9ZRQlVxq0ReTArGiKaHaYogsp49c8TNPbllbHnVLqMWFark-CirFmA9_dQ8oAqH5JQfLiyOzYlt8D-lNc1GiApvggYT8vr_581mZGR3pYyygkG8l0OKwOfFQm7aQOk5Ei5CymHqtYyHaJFdcb4nQgQP-_p2gDoZ2E87FpgHXPIULSLSynXaetosb8uvFX_Sd6tAR_IF21m5g8e8oqdm1GJaJSo1qYBnS3vXIJ_Vg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -86,20 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOtNLsU_yDdnqONuITMOeftNiZJJObTy9XQ3Owb!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AUy1YQ1CY-lP5-MJnG1SSaSipqA2MCCz2ZPi5FQGve2fEcnCYT2k6ke0Ev_kO4H0fKo7gAlKMrFuJUrjX3FgMjPVHgXsA34eeccR1Ls2xHxPW7pHdHYuEdSPvOKAHo4AOnhpNIK8RgFy1ka3JjDTviE4aMjpwJep_4YZVCI4f4pGaUDDP2VHEq5RkJR_sLFDx11kq9yj-UuwBzzOIg9pIh0dxkZcPvJAZpkfB3RbVMbGbT1xch5GM1lGBSZaZCLsBDIhOW0iij9_cZVjgNUwedU-9AwbgfBjs_CJW7W_7Ph7L4MIGg
-    widthPx: 2845
-    heightPx: 3556
-    authorAttributions:
-      - displayName: Mint Tapas and Sushi 3 (Holladay)
-        uri: https://maps.google.com/maps/contrib/118199403018335035533
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWK3Jjq00eClHPW7nqMRrwni-saNwE1HEeFQzyshk5pkzzCO8w=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPwxv0XhTvoiPIhpUvjhMnnZdWCjHrlb2919FVX&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPwxv0XhTvoiPIhpUvjhMnnZdWCjHrlb2919FVX!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
-  - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AUy1YQ3kw1ZcjcUk_bnnQw11PuY340fzNF54kxtoX-h3VADZQmDjgsC2ZeRfPaqWOfpWqCH-3UWEzYu4EsED8D99dnK_yDrvcmvO8VcfW7Hn6lvulEmOAqPTicEMG_fEAMYultNv8Qd9_0ppltNCu_GsoogTi4GEhuf_9BphUIJ93BrjFKJzO9brsuhm2A0FqtXT2v4YUcy3A-U-HDW9oGNPWlerQh67zPSCHM4PK5p6KyQ7EIPuOMxIDGxHODfjbljMS981-nH05aZ-v1vb7psnjtM6d9p06z-urXrr91kIm9yUkg
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKbGNlbIC3KIdbzIdtIJs9oFIRWTKfexLV4gZ77AvnLOJXajkaHZlOdc5xwhPu-jj1rwPrFhRpEIFnq3Bh0Z4HF52WOKgNP174ETUHV7s_r8ysD_UtpLkC5RNO0oKAHBKOkpvsbRLFUsRGC24y1tpxKfwHC1Yd4NRFsEHQYAVD8kWEhm8yTfrEvv544NoddU6SCoPXS837-Mf6TB5HZ3Rb4zu-8eB3R3tpDWaw-qMQbHMUK0gTGFZbwFGt6sq_1l5_PqgT-a96KY6_9wvv064xusba0dzi53AD--0wGtdKYdA
     widthPx: 3283
     heightPx: 4104
     authorAttributions:
@@ -112,7 +86,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMUY36z8K006AH2vWFoMttKQ50rux5ywFy5ay-W!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AUy1YQ3lksvOoGRnBTcahcksq2VqsXYFBJLW_nXSjjMIoAGvtQXUMU1V2iW36ZSAvCo_hSWrMoNJLNjbAOw5xSc5vuytOiDKnz58TzrGQ1mkW3LcTEpQKnxst7ONWcH6yfq_4MgYkmD350Es5GxgoGqqPVwylbW-T9mMylmvKdeIJUlTsS-wQP9DpPtobbLg5PmK4aU7lSJOfV-ytnrlkEvqDnQOBcyWcBh6rg-u-mQ7ZZQARQ7NkK0SW3pMshXO3bgwFUCMn4E4polMG8Ghjx2lcNcqFtyQohBR3uDvpAqxACeTsw
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKpuO41tE1GU2aCr3R9nzLAZ_dvnXgnuVsb16uEJ6ElDiLJptuiYsBxch0od6VRy1AJfnVbWMBWHN6w-7anFOh8z29qSkGNAuQISUfljnT7Tcm_7LrvNEW4j6nf-9A1_ZFHJ-EmufTEkCU6uhcrNY_7i5H1BME_bXM1oGcfUv85rigayJnrT3eG2AvEJ3se_Blbm0GJ-GbBPSrmCynszlf_-rKA6TKOkVM8IOKehTb9g-HbrU88gaYmcwvrdTjxt-hxLkSx6ehMtl3l5zZFqKW3aPcIXHHy7VwSgzcr5sc2eKO42oDCAT2iVKdfADvPdDbwvdBlg2xgs7K9f6fHAYrtgyCuJSjaPTkA706tJaj1BkKTPAcQzVvMx9Ar8CX-VizQuhq3m3AMOUjg3h_ECnN1ppvB1quVS4RKvYjNwjGe-wNR3G_GFLdv2kE_Lw
+    widthPx: 2268
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Kevin Birrell
+        uri: https://maps.google.com/maps/contrib/112315084385214277673
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKINv-ZgKKvC3fSgCrh2YdEe2OubUFdptpFBHbPHQLzWfIJ-A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5U9gBx02faOQMABlGF&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5U9gBx02faOQMABlGF!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
+  - name: >-
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKtvq478NIa3V6ptOGm_xvqBFkoJknuTQwQSRw9SplM_Hd93FCNYc4DVQH8UzBGaz2KKopBPWAD3_AppMqNZxHpPoUyDg2kqjp51OQ1hEKN1YjnUIrzS8m39n3Y34mTg-2QHH17Qd7HXnRzmoJz46a2y0LQOwE56fCfPh6FDr5sPsgxAgHxTsWyvjejJOXHusRJ4mE987jE9j3SYIvxyiRBkVpfrLoaTV3c8UzfiCaWNRQSSy40AePoSsCF0FSEoLxelTltbGL-BrIxXvp8JP4KkKfkC6G1XqMCKA_xhoo8wQ
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -125,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMNH0e4a3hb0et6MirrZxuIm4T9LtNgOuGyRLbt!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AUy1YQ0Fw0WYkw_Pc61DlxkUOnYcYjR1liVI5nHHBYgjVdhTfBbytdCZH8N0exKGkbe60ZIyL81qGcoHER_uP_N84tH1Sjlh6AGjEg5nXc0q53NUJ4z8fkkRgaW1cRU0R47a_6p8c-rP9FRma9dwj2yBjJaaN2u-n4C817CiOaTIkL1aLr2NdUpLrsoQniYC6HdqKqhU5_DzZz7WS1x7PJ6KL32ytvz81zBDcvaiYCaH3dAK9bBNy3tU1dE5D66l2dILapOPq7SbodR4yrrCQqmGnoWYvKSdik-wiUhIxgIkxs1hew
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcJyoF92vFRdmp0foGTrOVcLJvJXmTksNiu27tzFDm6_N_-pTEYFgoVUovPo12anI2e1Y6UpPXyxC0cB0zSJ2HyxYCnhKQC0Kf0ymFZaKLDoB__o6d-U209Ik5gGr0Yc4Q3sMHgunum9UrjgjmaNtSWWns9Cfirfn7PdRKRKCICCxvxIZtwprNR9Hg5MpU14UDNIwYmaLFRLVq8xg1mZ-u3erOh8j8lGN274xR87kJPFFwFLyBT8rEjDurfX7z7VVhBD12YS014o4hiXkzr_JI2M02orX0oLBrQcOVVOawwxug
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -134,9 +121,22 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWK3Jjq00eClHPW7nqMRrwni-saNwE1HEeFQzyshk5pkzzCO8w=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOKsoOcs1YZD8CgWp8zY8inSDS_QVERHhdqzm5_&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNa4liu2AhFciXpOQoH3LphX3OHWgqLOK-4k2_0&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOKsoOcs1YZD8CgWp8zY8inSDS_QVERHhdqzm5_!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNa4liu2AhFciXpOQoH3LphX3OHWgqLOK-4k2_0!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
+  - name: >-
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcJCA7HcnWxqDAG9VMmV1CSIalOEJ5O0Sm1kKCPVv4IBqNWzYG8RKVAjqZh-CXnBef7Z1j3zTEgTWmbliZwqox5Guzq2CtHh8_1CC_U-mPVXysMq3I4ZbYRljZgCzvYcwC2TTF1noru3ut12QOtYnkl_8EA026C1MaqMcH2BJf1UrROpthxGVsit4dl_hycnWDU__EqRKR1Q8vU7hxePaGaV5VrxXSo6oOMQ_OnVuCbGgZyId7T0LgnMUI4XASI1DhUgpNhVX1H0NQdAnC55p1YV1RK8sv0MN-fw6Jtvx6rAVw
+    widthPx: 2845
+    heightPx: 3556
+    authorAttributions:
+      - displayName: Mint Tapas and Sushi 3 (Holladay)
+        uri: https://maps.google.com/maps/contrib/118199403018335035533
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWK3Jjq00eClHPW7nqMRrwni-saNwE1HEeFQzyshk5pkzzCO8w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPwxv0XhTvoiPIhpUvjhMnnZdWCjHrlb2919FVX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPwxv0XhTvoiPIhpUvjhMnnZdWCjHrlb2919FVX!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
 address: '4640 S Holladay Village Plaza #102, Holladay, UT 84117, USA'
 street: '4640 S Holladay Village Plaza #102'
 city: Holladay
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Mint-Tapas-and-Sushi-3-Holladay
 
 ---

@@ -8,7 +8,7 @@ cityName: Coral Gables
 place_id: ChIJmzqgxwG42YgRAVvwieLDdaI
 photos:
   - name: >-
-      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AUy1YQ3T4xX7Y_WNWpKxiI6YnAA3izg9xEA4cdq-Z8k1B2IQ4BWX8TgaEDbDVSr7XdWGefLuFtjc8uFKVGMKqfGsGjK4QybEfZY2i5P-tESxRXSlU9mq_xRnppeDFLmgB9x8kjIa9I1VJrRyffrFoqQkwEylR0mQvgh7OzysNF4RtnJ7oDfHQ9sAMSasJqA78qXBq7Kwdr6sU-8ofEb49nFhXSNMaV5zkUUlKM2pLpHZ39sXAijp286uD1L5-1siiNA30k4MbwjImMMmBzommtEaWUNuWX1YooGRHlsIedbbR9o4RQ
+      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcJCC8EmiHtO_KKQ-NBm_1_QPZIWBlaAToRQYiKglaZVnz49B3oSmUy-ttkUkS2PQW2743cxUysqniGuda362m20xLW2CJ1ijNMGmMHJa4KKmsqtwmGNU4vpIgoo3usFlm30CBgizR79F_taS00vMvOt0GwV9dHONywBNdZ4XMqum-JsKjU7XzM1CBgKAPld0UeLBGPZ2TECnYkvKHd3bXLqk6-eS2Dn23iTtP_8xvbkHbnL_QvfImzJ1JfVYph2Ceq03bXYq-x-OZ3brsBqseYY-oSYjBGQk0M-1xHRHsf6ZA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOgmEq_-dsOcquV6evTeF8uwfuqUe4Ay5_6J4is!2e10!4m2!3m1!1s0x88d9b801c7a03a9b:0xa275c3e289f05b01
   - name: >-
-      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AUy1YQ1RNzFjcna_yoZQxEnu165xOA7MAh7kQjgxNveNYG0vpPI_V5nwi-WKRTagzIM5cZKPVmm2hAncFzUw05sjud9Zlc2e619TZCt6JkeKJqeADm6mCWVwiaTU9wxErfgWeBXa0Lt9A3nXbURgiRfEaNao1SE2sG29n0VKdBu9OF7_EXvlNBcm4CxRGOi_tOISvTU-wU3IxP-HVzxyBV1mQAuycSGB19FLT4zInZGjKV0OMpM_i0RodebGxG55DYtb25gk5kblmAUlXjl18Dvjx_fZqMDe_uWTYUHMfZz-FArFgxJX0S_HhVaa0lsXMku3jmoBB10_W8JUKSmUuVv47n_Xocyiwcll49HbG8ei6_AMMMKrHlkPxein-IEMCYg7BrC2ZnBmy8MeJ2k_JjGYdj2BQhIGVbwm7HX29kizuMU
+      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcJPlWW1Xa9jvk_nwJo9sYGVHskPue683tRzHbELxrPgSuPsiV477G85kvVCr2Lm8dmRB0nh-_x4rtWcrYwbpZ4ge1T-cvyukzmdgHWVWKW-5kJgeRBz-unQLDqNFPFS8mIGwoFTAGpeUf8I27LQGZ3nsQpyDpuDP7PzwQzEr-uPiOujEOUsxVrsTudHHbBfUsyQ4pT4C9K6SOGSlCoeXELfHoQeSfMl1EtxAGkhrKIOzD2tVUosWFJk_68jhFKq2yrMymuuVb-sov8OTRI0d8v1IpJo5A_bWq1WjNCqJial3pbhNG1x1QAyutCkHFehnU7m3ZUHyj74W_t4-FRgaWHnkCaowFHD_U6P7CKuhUocv6SU3qca0xBUrOr7HF4L1ANN1HFyqCObsGO0EBNKVNSyjFYU6r6btnTH9nSWVeo
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -34,7 +34,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj7ZnzWg!2e10!4m2!3m1!1s0x88d9b801c7a03a9b:0xa275c3e289f05b01
   - name: >-
-      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AUy1YQ1RDNMm7M2p6yxpKe9jyVnUP-fRWIvrOJBIUf4v8-gji0mjq8H14DiCZNGQHd36GAhAGD4oc9XRkK1UIMruenJsZk9l74Pycb_4eMUtSEESoMZiYs8NHCl8QXPMsLw4iLwKqDDum30zUGN3Let1b-W-O-4-wik34wNCn4wHPLY2Q1Lpmq6Gh9XLQQPbPspciBm7XDz8PnA-digSYphzxBz_6pbmkHcdIkHQAeAOHyKzrflG4RSqRlBXtg5vh3CQB_-Y5dq9dEdu7uBezReBwUFh4G7serJrxlBANfM4JM6C1Q
+      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcLeTzjz9uWSIvfKmI2OKSz2OMBrDKk5HJu4phF202J6ibfPpKJ4Eic5PZHKO1vu_XLuRxCxyW5DKl2sB04QraI0Kgg59bWJbXoxp4OmGeU82Vd7vN5cjIA9sZ-R_efx9B6wDThL-uZ1sozaFjBprVZCgAi4PBR97OEbp5wEbIziZcnTSaLhSXNKNjghSvpu3fBcDoqpqz3gviIPd18m_do2bKACe-LtNE2DfQn-RL8XPaxep_slr0M_5lHXcM_lu--3JM3aPf1Gz0kfeuxCgsoBdX5FPKOYNAu86Z1jKMtf0g
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPPVpiJDPQ0V_DDvg2QhiKb0lucMlOGZkHrCNnp!2e10!4m2!3m1!1s0x88d9b801c7a03a9b:0xa275c3e289f05b01
   - name: >-
-      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AUy1YQ2i_yzAIQngY-kdsU02c79On2e3mK3rQTnhC2lvgQy8O5sOR4F8XisQFF13EitX8zaix2g2BjlMxVvfgIfEsMPwDvOCkbWldtzkeKUZjQBdZWv9BZx9IR5DyeVd-B8-5mAc242xV7UNQOJ0mwHflarwzFJcfcWunQtnMvJexPjuhrGXZggOZGIra9as_WhbLhJoYsDHmAFYFv0GJ1xIss8wurOFWHI6Bv_6ZKKx72T-YeLIN_-xq1-diFs5Am3ivs-CkmgUJk5LdZDdU13bk-PkL7PayOr1SEi4vZqJ1rZJIw
+      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcIcz2tgwgkQykjI0AZYZYrsVvYAq92iBAjog-wVR1sFqiByCxpW17UaqLTaLyPVW8No_Zi3WieRtAIpjy_QOOV-DQzb7fyT1hdalm1G4dD3KgGN8nIeB_h90yh0f0PS6LM98eoB-RuteLouXbpB6LVLZgJm0idbqbdytQTvGeCfJooB9giJ_9PeHItqo2X6_eHuKrGzxNMDkQH8uA4ANohE5TvoR4Asa4Ki5Wr5wlHBcpbpbN2P79Crx3pUP7Ik8alFSLQPtH-jNT-gA5YQ0dEqCN8W1qKKyT3mMPjf259vcA
     widthPx: 1728
     heightPx: 2304
     authorAttributions:
@@ -128,6 +128,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Sushi-Maki-UM
 
 ---

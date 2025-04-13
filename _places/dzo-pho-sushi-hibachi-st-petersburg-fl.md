@@ -8,7 +8,7 @@ cityName: St. Petersburg
 place_id: ChIJBVjygUHjwogRuQhVbI_Y7Eo
 photos:
   - name: >-
-      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcKUHbsX4wrL4-gB9yI-ZSgGL3CYLjUST3Bs_P7W2MFMgUp9Jf_TMPtWp0ujAk_NEkLOTbBuqZp7FZWBJP1fW7zMcyJ2tsXT4UTLyXhCw8TxsreWMWDHBW9K5moHGcBxfDa8M9U0r9v3lwC2iQ0kde3-IaFRHsoB6wBKCOJfpaI3SHAmoakMOeNycmMv9dP4G6jOlXYAb7ID4a0i3qJfwSFTIqplWcEpiRt4XLwnp17DbuuqK0hV9Owc-13oIbC3rKix364vjmnsOVpFUywtTNHl5p91e-XhjBzC_MTvDKS6Nw
+      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcLK8W6HbXjhoYyQ5S4e_8ZaYy_7WbuzJiz4tayyUM46c4zZ2uLVxYVcTpvtPcACL6Tym0aqynbVfU-ILuda32bocWginX25Fksse-NKJKAPDxRmt82RKYFFV5Gnv92paLLqjhCWRjQVJ9dvT63--febuUyPgGMOVpxpC8M9nNvBA9pDqMWXKBwoj4itdDWmPWofPAtlcoISYS9v_Z4V591Mo25MwoT_wW4Tio75rzvEfzLh8AyJPCG2n9pEAOJacrvSZYFVTMr75W6ev4Ys2Isgvzu6OgQVtY-uHnxoVFXoqQ
     widthPx: 3570
     heightPx: 2273
     authorAttributions:
@@ -21,20 +21,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNEHa-ysFFfa4F92MpB192K9JiJkN4RpK6oIJ3!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
   - name: >-
-      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcJjjSUOksh40wXGjXUX6_UGuAoHbq7ksYDOXIlsBRdh649LMV7GWTYGkn2p5AvZudL4i_2xrZUt5Ej7SFW8SIl1yzaMIzRYTSNBT4l7xKKxppL38TEDfmwiigGSvDPdPehM92eDS5PcUWpIQvCUHBncMNUYJ-USLrg3dgSwnb6A8CUawqefmIuYQqD0oGfoq7ti1JJ0hIaRhxoIFdp2oT4OAUKNr5lZeejE4Hq4ChY2E4sdtM8Qx-av4yMJvXhvJW04ECLBVmPxTnrHubgKtetgWm9RIlSZdJ1ilZKWtLtL0Q
-    widthPx: 2400
-    heightPx: 2400
+      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcKDFHRufMqE5NWgAH020XVdaCLQaJjAt7rymnPAa5aHRrx3Xdv4nNQBsRYTC3OdQbqJ_l0z2DJGp67iPgze9qqCuXSkGeiTQMq-wkiSXV6TOR0In_BjnHluDr1bLH7052wqeF0td-jLmJD384btePxhrszIB6xtsoVS1W8ZJ3To3VpRP-vrRWs9h1YH3MsHK657pCVlkZ1BnK5BkF4m-wOSgKLGz-JoljZZMkXpyTJ7kFbyIw4VpTvx31SOOf89mBgowGyWicrU5sKULVLXprvsXeTovyOLiM2083cBqIC2bZqAXNvky54YKXa_kaEkoSfq_qv6ikIDGONdClFN-ABu86nMnGYda0V_1zcQM3KjoKYj4ONZlF5b3SfQKGVplZi9HNhlg3gn_XmShmscvdhWj4iT9Js16Ofy25HanZuy45s
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Dzo Pho - Sushi - Hibachi
-        uri: https://maps.google.com/maps/contrib/114179493024903990014
+      - displayName: Michael Johnson
+        uri: https://maps.google.com/maps/contrib/116120007096627490371
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXCel41CmyAlGoFL6XkhG63D2vDh-kAwUDEE7G1hD1m6rn9eU8=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJQCXncyJDwiKd47Pc-fOtpYeUjcjk4kQTjoUgHKQQfyt831w=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOAeq0U6ox_ksgSrkwb87KlZxkpYlw72ttASdyw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIu9KdwAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOAeq0U6ox_ksgSrkwb87KlZxkpYlw72ttASdyw!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIu9KdwAE!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
   - name: >-
-      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcL9JyBAb4AI-2U3IpZmVcT7CIdmjsUp6Dr5o6dTZFx_G6z0Wnd70rGDiJbVVzun_Kpr_xOrpiFsaJnIp8OOcy083B8riBtHQu5d3DHJ2u6haHJGflf2U9qHU7wk119CbtElX9hbfr-Mofc1SivhZyx9hptnCCwq-3gAJoLuFLXgFJoli8-N6SSVDyFDR3nVwIfl-a7i96GJInMx1bkfSiNec8T2caIDv5GyKa6m9JT_IOC4QUFFd4iWWy4qGbh004Da0v3oDlNbcxA5TgXj1GI7pLHd9TNe3WBdu6CGuc-xFg
+      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcICMWGyjUC1QC2zl4-Rr3VBbDL4kIFaxmnBXC165OBd9gtNKXQwwBrVlIPAl5RoYcNNUWzHqVbaB1V1KcpYSUxuGpmwZUZp9H-2ULqonrZhtmDEgxlcNPHFH83QALn4H86vrsgSGciiaNcAMlSLXY0WBcAYB6_zhZV1Gz9hUTwhO0Kk_rj4_IUQ1FICvfyL9jtoJHn1_bIK9Yxzbcm63YlGm5xmBuzsxOh6sCOl0B4hOgubxtTfEwsKiVozLZkoTztUnI4tl91q_WNiEl73MG-rkKQDUJQjiVKXpwvbEhvdfA
     widthPx: 2400
     heightPx: 1467
     authorAttributions:
@@ -47,7 +47,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOayaVPHkBjeY0cI4dgZ0jAIrJ5EeTph0L2zxLC!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
   - name: >-
-      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcKN3Hh7buAYQ74L7j8P0laFnVpmj3i9O45-XHzJGVxQfixZXN7_6mLBbebc-fXoXWt30dQ26x8rQOuX4rzAfsiSazrQArsjV9pl87hGRo8BNcrSDkJtm7r8xng01vUBCWZfGremxPyllul148L7AIv5YKxkZ0nS7fcntaOBvbtuktbZMOLGMYtirm2GG1pFADZprg2WEBR8V6e4SU8GBlg8UKemvch6tNzOpEjfEbkhxnwqcanAJOInqUGdUbHZ7wgoECK837PLVmFDlluO7rySJ05x-E6wFU_bTJ2qUhzM34lZGVMW172OjgWni7XZpmt92xBSY0O3gpXyt-ZL6y2G5-YCfpJqOv0C-gtph3RoOd86A4vUDOiaLjg2mJ01POFosTeJAT6W0FbWQM4oaeA4ynNG8cB303JSttJ5cfvWyw
+      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcICe5hPPyB_s9D3eCC6k1hzMKRz_0Mg3F99nB2P-IdS582XHiJ2evFtlsJ7AeZJ7vA9ZLUx6BL9XhLNqDwfqh_yrm9V9oCcsyLJXYRIMFhDFZlikjOOttj0F7sw_CFvsL7VlVKcesoZ0T7FsozQktO-HSaCR65ey3q1TpDsix2yB0PQ9Kkr8TjEHjIBZE6ED-RJQT3yHGRLP8Maog1MtCi5paBZ_LyQGZ-ANzsaDE0OwmCfaLMnOJ6dWUmevnpav4seXbsJAOnIUKTMk6EvsK-yrErswZejMVaGHrT5j5xRKu2Ov2-IYdUhF1oU_LWpMKARXFPUTzY1gco7d66D_El6ZCeu_YZ3wMwH0UgYh1I1jW8zjRxPRpRJpmAgBPFg_cgopVDXYDbUUV0IOxrdng2-Mjl0pHJbK514cChLdYBcfA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -60,20 +60,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjsMuAdA!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
   - name: >-
-      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcI0Z9qsNoiyV05tmfpam0y0GmrZTAqFsYBrITWJD6jDv6AgYcF3VAu16R4UsN9GCMIhyeiWnYI1kONRXekfg2Zm4-DCQpEikQ-Bv-43nronwqZJKjNh6fLb2S-TnF-d92UIJDbD5vcMXg1JumWoZoqNG7a7IQKq3JzS3u_yaN24Lc63KbSPim7UzFUD_rTxdj0_5f5CJeET3XmPb7SuzMXic9LNltHzk1UoL54orkE5GY30Y6q99mxcxt4QekcF5N93_jpPrM9h9MbeMxNBRcFdIUpzG2FcApG9hDAAcNJ-uw
-    widthPx: 2048
-    heightPx: 1536
+      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcI7sAWqDwnYazy9P7LTDaX6iSYXA6EH0pc8QoY8qTvuAIUC4f16S86Nm7W5G9PPM0-JS7Yz-f7jggMrxkiv-1NHuBGthH5T6jYD78aY6OBDSmhz5ok3-3GyaxWJIozD5FxJ7S0B7gxIhtomtxb-FoRg6G8-QtDVrnbPPy-iYUOy4a9CNOzCbbkTwgyy0pTxq1L5UJB61RzgoXF4QSA6oAyQvw6-4KIZDk5hqp8XiL02QKl0bTVOAAkHwoYGDzKKGmh6hvAH5gbU2XECdJerWPPN_pt7-FXYBtefie63buyhC4BSkQFH6ubH2OGkKAFwVomN-Ok_dMfYiFPFx4QZ5Vo5_jWR28ISbu7ukbgvlsyxCRjxd1svGbX7MXnT47VMjdG3--CVhiZ0J0uhBTN88IADq29estZlb-Ezc1MMAUWqt1wl
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Dzo Pho - Sushi - Hibachi
-        uri: https://maps.google.com/maps/contrib/114179493024903990014
+      - displayName: Michael Johnson
+        uri: https://maps.google.com/maps/contrib/116120007096627490371
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXCel41CmyAlGoFL6XkhG63D2vDh-kAwUDEE7G1hD1m6rn9eU8=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJQCXncyJDwiKd47Pc-fOtpYeUjcjk4kQTjoUgHKQQfyt831w=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM5cS2yopke2Ailrbhde7aOAg77vgrsKUaijCeu&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIu9LtvwE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5cS2yopke2Ailrbhde7aOAg77vgrsKUaijCeu!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIu9LtvwE!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
   - name: >-
-      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcJkIHNFB1k956kpIEwUVjdtMuPl8afbZ-nllUfw8hsmdQ0FPWRnp0Ltm3zqkY9Bz8AbPisZZrbmjXK5hxk6aEdrmq0jfJyKfr5EpjTea7w5p28HEdMBfGEAkHy1gHgb4YTS3N8VqgVSFZiKuRpFx-2ctqr4Kkz8drWBEtGoySDJ3lfO2FznLdwU_tbkM4yQbey5rT1elu8hAZPIaZLCntd7SoeJ5dS_lQYhq4q71PefjnFRWQ9jidqSioVIZoKdtkH9q4wooy9cHVVrYXgmq004yR8ZbEoBlo31aZEDCzHjc-LWQ_RNphdeP0JTdlAQNoWBcSAX7ZrCOZ0gwvBxIJD44NEWwUPsmuw9i6RoatsBvPeGCqCodwNINfT4ye0IH0sL9wTfRZ0HC7HSzdgUEBp1KJLwSF84lQrfVnUN4_dt7_bw
+      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcI4I0FcbYNd1P9c5ULGpkIUnK1elywuag9apgdfkMfEOlbrf3JeEX8Wwv7BfUMQV5olTJYiMFAb-4FcyjOpIB7CCA1U1EY3QzR6zu86MLGRHv5pr5rA8uvR3gmLYVT0Bbpy2Nkg3Y_SocP9nAtGhG95C3k0Dm8gXBGil5HjSj3bs0x16s-PCO_eSloIiJkm7r3qtNH6XOTodA8smcavMFDkwI8BgqHQhC7LIJEUcaeZjeA3K3aMCEUn1pZUBCohEFWnpDwpXzIWCxjXMRaoubv9B8LaITblrkC5VpoCQYoXaTcpp_QBWOttQOqP5IdQltOg-bCGSK2VYCfXMq6WTqjFlooVcVDfOSmOifdC8SHd1OunGkMtADhEHB6IQVnx8lhe4bH39u7Kw0-1Gk7RLQK3F58jAZKnR54CiArJlpwbfavZ
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -86,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ06_JsAE!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
   - name: >-
-      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcKS-fIP62q603bnVe4vuC4IVdFQQ6cNOhGQkBu1A-EMNaPk86XbniAL2OPsB4iMUWtiEP72A5DqYiaq-tqZbxbGKFK3IHPdv9elHIPHQndsfK5Gxs96fjPEw9CZK-vNOwcuuL2GCr9SjBZqd3MVxApr4VdYXm9nCfDWBlvdLPCkA9qUfjem7HHDYNwMyMGdrZhPV4ZfAaVIyAPLPpnB7GzMxWKmMq-bf4LgIr8kVVJA74JOLhFBHknh0olMPJDcySaQAL4ZTDnlsmTqMmZUJYmoI1QbvvIa1xxngU5YvQ7O8A
+      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcKD_xj-TgF0PEuL_3klCN2DcK9fFkSgNZxqIngTJBVCrGp6fFNArL-TuOrU-V3ipT4_1YQ2DiguVOvDIwFTuChwVhIh3SIsfqS_zKYBWuw7kFUsxno16Dk1uqhgK886ZMmu3DWsJl_ffZHzt2d0jk1LXNBIX2g9Y6Eb_rqQ-9duYkZ8zrAz14tyL17dwlGGW8AE0mgGYdOfj-_YS1PgjQQJUY4gSQLXcRpSTaM7FkBgtWpdZMT4NSUz12oWLJHSGMHJhsTk_MQLK35Lu2s2koJsVV9-Z7M1RLIGbAJkaeOOWA
     widthPx: 2400
     heightPx: 1377
     authorAttributions:
@@ -99,7 +99,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM89D4b4xmZeeFi-x95fvkIs6La2zoUa8S0cxaq!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
   - name: >-
-      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcJkoYd-xHQMxPR5zAOx8YEErnP3E8qrNi17c8Sqm3V6Jdnbcq6r-P_dcnb_LllqND3Yhl7ySLyKhJ85s3jS7qXWqr3oHOkBO689yR4pAbYZgMhK5bsRm0qxithRj-Gg0PcOIGmpyITrcpAkqBOtqG17GAqQpCFK7tAAOnzSsrl_iWqgoijNkZu445DAgzrsPqmBaexvfjOJug_eKNT0oQDXEhgaoUxpEkX_ZOsqXM3Qp9171wA34ra95QWEhfc9VR3XHxZhACyGejWcDaBAt4vtqmFnvrB92XcjhuSE7pimFA
+      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcKgV0QMoiu3ZZOZ-1Yg3bGSmD94VaXXjNyxmeDQ1O1bNT1oJ18tNhpAdWA3U90I8YUpVQoU32SjzUenPInHkDGm_wa_KjK8_0nYdyecEiBCwuVYNlIWySlaHl1HOXVU7kIwhpbyafucMO8cmrx4ekUAZsz4FQliaLKjZQqvmL8gipQx2RoZlNMZpoa6_cbuL-P6symGk4caavOPj-IXmZZ6M-S5XUj5i6ggMhFvsyhR7rl7MARCWIV_AEwb2bwWFC1NQ_dlRXUJMUjcOYyFIKYcQZAnyx2yQw0j8vpz7k3sFQ
+    widthPx: 2048
+    heightPx: 1536
+    authorAttributions:
+      - displayName: Dzo Pho - Sushi - Hibachi
+        uri: https://maps.google.com/maps/contrib/114179493024903990014
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXCel41CmyAlGoFL6XkhG63D2vDh-kAwUDEE7G1hD1m6rn9eU8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM5cS2yopke2Ailrbhde7aOAg77vgrsKUaijCeu&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5cS2yopke2Ailrbhde7aOAg77vgrsKUaijCeu!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
+  - name: >-
+      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcIW7wYnJvlg01giJpCOfCftIL_oeHXPZbdK-b-lZut-N3gJLBokbSsKPxV_k3bI3ERx6fylzDx-SMCo4bVufQuQC5nEhTCS3kcFMrzumgewrJPZvY0ylXCZ8qcGl0KmqpC2el_svURXw5YPxVbGBpjk_Wb438bQwPSDtspi8FxV-nn4TEWyAbQSyt6LF6dn9L0XIKTFI4P8SEs0HBPFajGTQvsV0yO-9TBlu38DoRVg-gVyRlbaKTmJvg1NM3qk3XAoFHQgNzWNIuoNWnCSfzvoRr9vxiL5D_IN6ap7FqBjPg
     widthPx: 2400
     heightPx: 2400
     authorAttributions:
@@ -112,8 +125,8 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPeWTds26_DvrAZeafgza0KYf_FChhiIZCTZ-ye!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
   - name: >-
-      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcKsbQ8EsQCx1_dUgZSHcq_kbRRssT-mT8tkuXPqx-9fy4zvebYSNCEJ__bmRQzMLv9LJIR4yci6G8BnUMxXPHrnQgBRig44Oa3GaEXdGkzqwic29N5iYfM_1c7nKNTs9uxebIBHOiibB_XMfbl-1gfOFv3V5c6SEvqDd8J9FEYUVUqb-JA1_YDYWKInarox7YSSf3bGybG90r08ldGu35qZEaIyDwSlBXmEjkns5DwWrWb2qOWw8lygppkoktkSsPZHT5QhcgtybBXiLNs9f9GVZ6Ctgzv9oIUgh1KTzt7Uzw
-    widthPx: 1800
+      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcKCJOtH58TqZtQj3clgwe-2UZ_E1iVHnyluUwcdeNLSIU-KAowtKrbLxw8dfm0i-nd7LChuX7lytQWKEPJ5vfnABpPgFcUxGsHJlRXCw8tRcPPQuEZqTtfmnehMqxTyNF_YZiZPeCgM0nOnYru0FvUmSxFRqCU2Gcn75W_9j_pcWVVh1iPdfY5GGr1Xd5Izh8UY6P70-Jz0epcodT7Su_ufQe83ip8X2hKhw_fCfSfu5LeI041sOZDQvCC4VEOpHgP11QcE0vmKmWSeKPT2hVv4cuxhWiCb9kYjBPlpp1wwrA
+    widthPx: 2400
     heightPx: 2400
     authorAttributions:
       - displayName: Dzo Pho - Sushi - Hibachi
@@ -121,22 +134,9 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXCel41CmyAlGoFL6XkhG63D2vDh-kAwUDEE7G1hD1m6rn9eU8=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPXh3E1r1g-MTusHNHMPoZJ9ZqtATMT1t6zKNJA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOAeq0U6ox_ksgSrkwb87KlZxkpYlw72ttASdyw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPXh3E1r1g-MTusHNHMPoZJ9ZqtATMT1t6zKNJA!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
-  - name: >-
-      places/ChIJBVjygUHjwogRuQhVbI_Y7Eo/photos/AeeoHcKdAazZ4FKdASHNHZixblHLTEn_htDZ8dqlD-5IIPHBUoCokkluHnjTug--2kBqoSL99hST49XGXHSqAUDZcUNFIJMKP0PFSTV_mIdqA1-azslAATHvQzdrVVxHt8NoYSTBeMA283vtOoqr9QcoDpLV-WLGbjqHz8KOqceay5d3lssVFRIdmHWmRZCa0YslDl49QIwdJDNgStuLMfH3RVdiRPzmfd7cMnxh0-XnUxwhGM5jCz92m940hP1OTAjjJ2U7VD0kfSi3UY-4fCSz0iVnKy5z7YXvnelmaPmeLazkQw
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Dzo Pho - Sushi - Hibachi
-        uri: https://maps.google.com/maps/contrib/114179493024903990014
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXCel41CmyAlGoFL6XkhG63D2vDh-kAwUDEE7G1hD1m6rn9eU8=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPfHgan-3QTCmLGsezLSMnIX9qbPZ59zqqGSVHl&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPfHgan-3QTCmLGsezLSMnIX9qbPZ59zqqGSVHl!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOAeq0U6ox_ksgSrkwb87KlZxkpYlw72ttASdyw!2e10!4m2!3m1!1s0x88c2e34181f25805:0x4aecd88f6c5508b9
 address: 4500 66th St N, St. Petersburg, FL 33709, USA
 street: 4500 66th St N
 city: St. Petersburg
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Dzo-Pho-Sushi-Hibachi
 
 ---

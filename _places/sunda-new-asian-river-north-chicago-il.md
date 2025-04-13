@@ -8,7 +8,7 @@ cityName: Chicago
 place_id: ChIJpdvW2rMsDogRmOSgw59PVdo
 photos:
   - name: >-
-      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcL3Hi7m7Di1NEirRyqnJCe84Y34nh_hpjw7DEP-SsomUX8kdLzO-OIzhGod2AQZYtSPurfgapJgL8W4HBBxOdwVyVaxb7wi3NnKNfJi7IAPAcscxir4Braeg51UJIPqpssZdh4-pk3fhYgt7FxEQ-w6KcX1hSKoPfpPmJXjNnTFU4ciudsiGvChliLFE_q6lDANsQ1w1ZrOxR2l4w3FvtO2ONJOSFDBFbDNZLR8H0rqKv8Zk-3vPbAldLsN7X4tQBDfq1eLpMS6UUVWB26GQQp8tWZu1od982BUlbx5aK6aSA
+      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcLsCffKRI7V-kAZepL9kQfW2fsmLndzV1wARaOxATk5Tp8HmZHe_vqFiRnf9wZI8ZzRKlZr3RTbkcMCjvzqiIx_BXZRoTlnFp5fr2QOYFFL4VFG78ThxaqCxspA1c3copzdgBSP63IyapUFX-lR-_Nq3S64sTxwnjSHIzohsuiyWW8v6-fvmTSWGiPWA3tC8oHFNV60nxc8wJMKUX8jZ0_788BWa2D5zB7P1bsx9avxNW7frNaqotf4N0rhrXs-s_sgmeJPrenJ0VzDuIf5Jm3x_ES4dgZJeTr0CJ0o6fzpjA
     widthPx: 2000
     heightPx: 1334
     authorAttributions:
@@ -21,7 +21,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUR19EJafSKfIsU657JTPTpyplfqgCwjBqgNAC!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
   - name: >-
-      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcIS4gu3b_GNm3MiWWhLyttyx00MVMDNxHEJYC1fXKwYNm1sfW_RCVnkwd2jeOFy4ZoBeNFZzRPznRoUe7ffFY6t_d4qm2riIU3gfQb9BYYGdvWGd7k1lfcCYyQlyHuSQEc1NbMxiDpHbudUfQmShnEAdDqObe_LdLMfUyrkHjIcouIczWdrbjtabU5iA1weVWxoXqvpqFgMJqwAysSoBnWRyvC_J-iTnXt-KsON_Ncee_VGKtj4_jihWQESJj4aZx7DLPo-PNOaIlrq5F_57tlrCx-pHs3ijIDNUBBJKfDrdA
+      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcLPELpZ0OgdHtAphF6y7I1HKl2tTtTVPHhwo6LRfV7BidSvVzSb4Fdk9NLxPP6jT-2TEAyUQciJhNiPIMeWew6MPlXQCjZE8uekSB7dd-wR2BTzVDfggLikrgTt2qxnmqZ_i8P7ARkbQ4RU5pLaPP2TvTyJUHLuNIpSYknC2QbMfzk_T074dONXl4DShWpn5OdpFlp8vtjHO6WwPVwv7VNEFFVhFrEeKHY8B8IzaESo5U9Kqe_0SFfzR5A54euCDanqbjozd2nEeUp5coHr_xlaUD1nw_sFb49UAQ_34m1oQg
     widthPx: 1500
     heightPx: 500
     authorAttributions:
@@ -34,20 +34,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPX-HInnadQsf98sRZXeLiqZKQyED9he0WmJ6zg!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
   - name: >-
-      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcJcN0F8vviNiOIQjW2Fdxd3m45MZ52KhGAkQarKSSgVXBo8gnhiVmB-U3VMlqRrjwCsRbY07evqV75VLj281HtQs-ZoTtP6wW7Zb8f82uDOOc6bs3bYQJUrTvSByO_QTyQ3Jl2ZAAdCSSdVR2MRwEE4oWtzgJZxKOX7jQzZ0qsLXSIPLvyhXP_ZYmqo9gi6e0u1Rcaet1DWqptXFDpshl6sU-trh9oNhvs6VPQ9NlOyVX-WKE4JAg9eVZMbXovKg6kWpRQpZXlvKZT8i5Yq2q3lK59zW26dPjdzr4v7_hqXDkDWzw-zxOglbzQW8vYrUYV_aolLfzin2NEyT8akG1HAO3rNqB2s8oO_3NSg3NijYPxDJDZuqWSSzvqGS8PVtHqmjb_l3ueYdefln1FxtpF5qmGQKHNVYJ4QRS69BX6V6A
+      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcKNZnqMqtV1e8UuqfalriW56Yj4ijiXDKab_thXukZ_6SwvlnQ59ehjAHH3v4jkodWaC5OBReqJ_8W6hmXqhz2dQdItrNjQC9NJDwHxOCcKvS_lnFbvIEndMosSO0ILTeHUtF3_w7hWhSXUSU26YfwRWCaUr27KU45D8xRBcNp_EQ4FmenxmYfxQpHjs6MT_XOGVVwBDXzaNnC9Ge71mZrpXkxsPgzvIYZaVoEgd11nwy2zLiS5wn78yZDkPQgoSeZKcq3DBa0Mnrth61ptnejCkZjuZhdtKOFaneYT77QwZ9xefse9DDICVem0JoAXd8sUtFtmPDVlJcD0H3b5z2Cl_PMutbGOYVk5MCaoUBYnj63upl9cLlUSlTPGXh8jWI6rH05a29431fin3hZCJDBNdlG-M_ZJsd9CoBCxytZ1TZ0
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Sana Ajani
-        uri: https://maps.google.com/maps/contrib/105435596344579511478
+      - displayName: Derek B
+        uri: https://maps.google.com/maps/contrib/102814802829772400168
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV_4ID5b2SF-HAvs-niz7xFTLGbQy4ARrtiVPhr2tdvW1nNHjQWWQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWIKX3nCgIfSNcsYZhbWcqCuzMCpWZ7R_P8PVnAFmz30wQf0PBg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQz7view&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDItdz_mAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQz7view!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDItdz_mAE!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
   - name: >-
-      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcLcICJkP0eCN5kwp6fmbm2j6EXLLMj5JGzqaDAQtAfBo7A5yfHlvpJ_4rKJ10LOi6a5h2mtycPAJ_nZNFwp4tAsxqNSAMrq8ZE7DqJyNDelkbv0QkZMF86Zq2gxzkOwPGkJUuMBZTN38IfmOBlLydHXGDhTCeyjZH_6-Vwt1vhOeQXEvLaeQOuVsFRqVidZvrQAmaZ5P8MN1eyuMmoIdeZnZ0KidDh0DO4VtcENTOCdSyhTtRh-eWV-FQmUJN5SOkq6HqfmDVrlJN4kn0RVci1UknR6nTAojERLL3m0qR3I47kB-1quEPPe9VAPTkdBKWEWkc3pa1s-l51TmEOn4dFzU161BsqH6zv6vOmIzoigGtzybhz1Ape9doz6OWwu1s-a8ZZuaA7fJOymAaECBL4G9HR6mCrAZ0MWN9HXmqWhWqWZ
+      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcKwcKucEs1Hdf9A4FofSUtd2s8Re6mYVaQcjcjnUoVdkady0vBoQGn-9-eZKn3xF8J3oL-ZizuGg2h-TJoZE276g8km1wJ3Wo-l_e5rNmyCamwoOXbFpFF3XCLdaPi5uilri1JIzPunR4A_M3XZTXRa9kZGfy4DvHQwBiONtpxZHBAgl6cykRIMwaiBpW9Yj3yYdSOyF6_jIRWZAmChQOumtMwbH1kwqWpzXX2fXPWsg1BKj9NF7bZCRQqO9zHvon0YIuMTqUDwSw7Y7Iz-IqdZV6Vwc5_cFZVI6r6u2qaJxJnI_Gef4KD7RWvZWvs1BXF_EALRR9y8KbFkfOuUO5jFyub7fkfQOuTfq2bIzr1m7xTvJba2owUl9vMvq12Scw0hAWbNbl1BtbO8gnobqHXFvn91ERktxEryIK_NPTYiiHV9
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -60,7 +60,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ-LmVsgE!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
   - name: >-
-      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcJm_pquhARTXUNBsnNxKzu0P1NKpdGH1COl-pCkbMWX8KHlxvRPJgs7BwEDgpZLyFgax5MaV-iheVbfZmEL9d-gEQEds-I1MlmhjMNeJvg7Cgfd1cXAeh4w1ZY2pgslUn3THkNDmNODxbZaiLJLa3iIwYiEhXwj1tXkBuYQX_15SFttbXumZiAZt--YYPWe_oUYzIDvKWnvVp3MJ-R7cGIAnfrBpzkySwPXXLL6rnIlrjtMhrShWKG6oPDDsRhJvQtEj0vIge0RQHIGnliBwGgKNk68dBbSE5k56HJH0Y0O5EeOQYPkwYZ3xNskN1484ec2hy0zFPMCm9XgFt5OJV2LkUSPJVxLYNA-9rMHyTS10-N13GCA5VRGzrc4B8X2h_OTpP1xBRP8DF8ZpiJtvlw3plRG6-6OzC4mw7SHgx0CMdU
+      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcKriAm01p-zU_BcF6k-905ZOBOd8kVix9bmiS38mMmN5VX2gRaLfsYIyoxZSPOWqBrUxH6GcN1imkE-oCCuGbjHtOI8OXvnCi8oLTv3bJ3gmMW6PIhRgE5zDRsK9P88OyWAtm-mjWoXxzjW4L6SD0d5yXs1-Oos0lrQCdWFUS0anwm8t7rofQoh7J_cmB1tcEKtnv0Ap6WyA3G1vhmuQU8C6NynFty7D7bX-lzLPP0B0PUJdmkUoyXBrrYRGEsyGraLFaxOb7kXJl5ghkl2ZSt7WU-0iWK5hYKPCf3gMnSaSJNQKel0avhaReE9QPcqYh2kfrqaNidxsRLMjQpHSHo0mK5Qy_BYcarA4oCPxetcmC_dchXnlsRpgrskfGr38Xc65aKJposU96oqJULxcdraa64N6HBHwIkzaHZ2KIeUXVM
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -73,7 +73,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw6pm-6wE!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
   - name: >-
-      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcLU6D2MBo_RRboaaqFF8_oeCfT6VuwH1UpFrKinB0oHRyssPsjt_zKWB9_ze5uH6PKDXkCglqXFwIecHpFQwQsGGCgT1Za70f9krN21BbVeAq4KlvzrDvGlnGZ9HBoZJ3mxFeaMWcnWx5kVl5jWwfylBEfSP4oaOZDV6sTTGDs7ZyxEFMSr5rpZomBYCVCijaFshOJtj580XqlycQvPLsGwiZ9QJhttRrPWBOqbHaf9-5vvFZfQk4v-3iRCRntLwPoBbm0j7ckSEtLzLeYLX4pW0rokE7VyPwZwSATS6DKF9i5ACEX-BRoJUV5NC4x1xE1MDF4GCsEmMbHPD3TevQGa-pzFbwlQBX1QI7goQmiCNYtdtvLql65P4Yx-HS-i-Aw2_OY7HUgq4B9gUg4BGhJtvOXvBRNlApce0jeEcZtSiw
+      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcLCZhkP7yBU-spayc382xKk-auzmjsMBn3z7zMh2QGZN36FNSPT9TtihnGFcBfOWEVMHPOy6itjW2eGVAPfNUSzOFnVir4pwQw0eQZQll1Qu4hApatAwIvEb4pY5aYugBhP4igkD-YtadcsDclmbSP18j5dkwZUZQzcwHSMfP197cM9xWPK8rJZNP6aQPm2mK2VSMFSeqQkEh6e9NAIPKj-fbEXgBbytngetmimNrfiVaFuq7V0gQRw1SDow5My2x8xEKcb-OaRzFu5uWuwfMnrxcQxfXzKbIpilbyzbX60StOuiBvl-VFZSb3KmjIkgdBXCY7WIkrztYnXeslogDi7V5ee3IAVORI5sjGClpq4FFetQBbV0gIA1FJyokwgMwu_TcnDaXeXLF1p0OA_i8nMidCU9Qgvu6J1Z98KRdcV5w
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -86,7 +86,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7zdiEZw!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
   - name: >-
-      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcK8quf3eQfd3OGarcRoObXuNripiAufnYeZM4goJ9Iz0f1qLP48E7wSZtxgYoipxo01_SmRtIziVOV6Jht9GpZY1E4y0orbt-GbbcYRHkoqzfmLY7E0IhkxTEyas3T2LM4bPOWwnj7boPQXt-VOZ2rnm-TV-BLBP-ZnnEqKrFzlVx4G_BifRf43C5zkn6hh4gtLqJtGBhbPO9Ut-UlkwP7YRfyoYTLD5ft-gMCnY76nCGjSMCg2-YzRMFoHhhGFs0iMJilbKEF5hQd5NMXgzv0BId-5ljMdudGaQ_EWaj-voYGPTdIfnT7B2NECAp4aZGPNYf-kD5Puk2mrn2XPfBVC4kzil1co4oYIPTXdM-px_W64w8jfHxl0qWSMbx9cwTbIJ4rFXeHXY0Opoj4GzFxXGGcQOTnXGxk6h_11F-J9Pw
+      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcJdmMIgM9dQOguxXY3VRfG5TAAA7eeL7AdYqyRk-CWUVZqapECfvi8zLs3Veptyi3qXroU9Ps-DI8znHTUh-MqdeX5JZ2s9T3iFiNtfPxMmtZFCrMXyAyBFJjUJkupAKHsm0I5DBQXHOBSu-QLeUwDmNgmnDMFd6e_xe5vuOO1BvPeSF8b6DBiDErPh1lRyI2CNkdaXyCvduaq1hzqhfsHZSpMyc1NLOqm2DNP3ht-uycdLwFEdYxjI6l6VhVf6lDUWmHjLr1wM2F_SDKo9_3A58LB6LjwQoXVNOwE-MJzuKeQAlbAMJr7GVavc0jKYIo6YBhbsFN2NAGWAbMH15w3kHm1zwsfasff9ZGh4GwybMtiCVU7vHshIqXIOPmE_upWEYA_V57Myulyq5PjhCOrDpNKCs31lm9jJEpRAAhUQ2g
     widthPx: 3024
     heightPx: 3432
     authorAttributions:
@@ -99,7 +99,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrgfD5bQ!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
   - name: >-
-      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcLydrIIqC047RsYQEfALcLhx2HIltEUsUnzCQSMbX4KVPbTkLpjOqAlZJWoMZqGkEdbCNNaqhPrVv-mQY6OIWPZbIv1huXbS31UqGOaZgquFeL46nFSH_Polf0Ph6dbquTHp9MFLG1ujA-a-e2vi0tib0jJp5aNHWrAjefTrDQSMh3VZVmJLqjUnebRX7y0xuu0lYRZyB7OhLh4Xf7ZYmMOZxTzGiUkwex9IoyPj39w4Tka6gkrGhcFf2jYeGOWDoXlN2ZZjXF09IqA7dd2O_9oqeH62t96V9jznNiCJ0ejtHgGIcYKB7Kd-zxf8nJ_W9sKUeOmDkfTSj27aP4a5wBj3aazaMS4-Ha38-oq30urhUfX5cIMk4va9_lQFoD1vaVRQpI-v1sQ3FiItp3J4mZHjxWRUZty6np_TAMWvgjUFg
+      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcJiriNhSepuQIgzQNEqDVLe43ZTR6P76yFxZxrqLBYUxldkWrFxD3uR-kyp9ehdjWEukPC6fpsmSWHBR_opczVavge_Fl5kUpC27JV1pdo_0iT2VQ94a_4J4QC0qD6WHBJ8wH_XgkQ87XHQQv1sh7gAR0mwaBuw8zOpqJOQTqzsUrF_EPh9nn-Q_buMWpIV2CRCmjWifdO51rKxCt0QffjkCSZXhdPlU1QMqGXFIFGEsPFl0PIf6NeaPbVIMzDh-doXtfAsVlydxG9iMDTFIcBOzz964Yb2kOwrLrZM1hFH3qlREY62OCrPQSzjeLNLD32E-AdH2csEo0DKqqJuvLUFxY0EXf5AA3xETzKrBbpSuDdDAkw7BAIzBoq6JkDbzEELUodtJ5RCsQB0fQ1iViE6sCpvAGneHRGVXh8sDZPuTA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -112,7 +112,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzsbbVVQ!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
   - name: >-
-      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcKT9PeyYa0qF4hOE4ypZ4hDOxrX0rRABU-vY4J8NiNMrT_aHpBc5DNZX0fdM6xuxKEQZL0zmKa3WegIZXMxqiZ1Z8I9E5e4FnvRfvg1220iaycyF4mz8pZSPYyUWnhXgx9o_YC604SMo1lQRVBUJsdHyFg5CGq5kjmwuB4mk2Q06jBOu1PQmjejYQhvwRTExQaD0fwlFh30zki1v8WqGfMj57MrhFzXh-LCHyTN7tzFuwiKd77r2w3MswUyBWxkM-1OtnS6jCUErXvVH1IonFKKFN3Mq38sMdbce88Chfy4HOfxiiGzLGfpD_wl3A2n0GHOtd_gO0pYVwQbCjY_BvNdphZXknuryyHwAX_DEcVzmw5M2sndCdE4jWwhhFa1wBq38--_HUjBL8JnZkDIIlOl432HK93-SgBHTQAS2M1KEhk
+      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcIB3qzKrAqhYLPe-jpiFWefXWCRvF8bbLxELx86pSZ68Ogp7zMJOh2dYoEmT8bx7Nghj7DDhZ6ZNjqSwxSWqb-xp5hDQW65dbAFpnDQsavcBYin2KXUys6i9q_IV7p4DOuxCIF8r2lIi5DOnhVodYehx-NDlraD2_WSBgxELcVUt6d-KptpMnKwy-09_8eUjMRKky_piNQ_HurcJTGAm5yisarIVudMUBAwkecXFch5Knk5uZg9Vgt4upmlZQQCWsY1sX-KJX1L12h00_hXbyR7HM2ZOs7GdtbXNSt51n63vP-esyVVXjIw5pVQK5F1IV7DbUls5VOiexVjyDbf0UPGZ0DxkFAVliSnQYKVCDr0pXiC2zVVUqMNWChJzEjr7sVhqtSe38HietQDfjqtQXAS6XDjmYDs3N7qoiU87i4IuNw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -125,18 +125,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHlb-8kAE!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
   - name: >-
-      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcIlDMIl8gAkMlUTifXutPs3PqRO-pJIpRLDcbo4sbMHhAl6T69Ac448lUTfWiLICILogHSONLaAdvjDPOio_nKuwB7Y42EHGki0SHJHdVzu2xFBfh1bf0LmRAzCI9jjizg87EQ5f7gF0xYHQ89A_aOklKNdkjrRigf9OzvpNPbdfrosEHKpJo5Rg1FXNeX2C8j9k-GxazKG5S6PYW1U5YpIgdiR4cfFHofSg0xcJ98KJW2Jb3gIzzrYbM1hW6Kk_HVgH8GA8I1OaJzepFymdozxXb93xtdv4_x8vMgwaEkCvQXNRGqPQGG6IUPO9EOJxH8Dan62AWbSpKgW6cqU7k8Y9pyJrlu7ftyJJoi7gUqWsnVewrVZykUdYJVkQHC3n0epM2xvpOaRe7PPLkwEbJ776wu8312EpMK16jmZ4-Xsgw
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJpdvW2rMsDogRmOSgw59PVdo/photos/AeeoHcL8lS811yShwy7S3hxdvsKGLnc68uMxBXS03XskPFU4HW5G6fPxGXoFmo2-XmoRqMTP456jxgvDrQtROY0KuJoZUMgKnQPziaGRl2sP9e7fnA2vgeJgbxa_fu2b9fqy38sajUw-FuEalfmtDhryxIHUeAwPrW_B-a3NbW6a2XBYn1NjQMsJjvxEo0U005XP8weANx3OmJHVlrySonoTswVGMuwJi4EYALq71N4iQugjts7XN5SNKLIynpPd_PtFIve8nq8wi22F-mT3RW8QB9pBPy2fFbTtKY5puSmyvPznVMguUfg2HWsGTztWYLJAG_Yj3wbS6lYtCq4VUhEdzfT91tPAcEbBEIOaYql53eKdm1S3SmDjxktAiJ8mL1128Wb8K4Hh5FY0I7SBSaxnt-c_Wk9y8ZpbTkutZbr2qig
+    widthPx: 3024
+    heightPx: 3842
     authorAttributions:
-      - displayName: Kristina “Stina”
-        uri: https://maps.google.com/maps/contrib/110273570723319645913
+      - displayName: Frank Clarkson
+        uri: https://maps.google.com/maps/contrib/101985346549706288192
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKyh3LWQ1G4j72sKRHCatcSx_FYwsMxV1_6X-cj5USiiQaEHw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUMwED5klKZzNvq6Zq1q-99yFA3Zw6TjsyWpZL3gYxTsVJ9jCU5BQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDp5z3fw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrgfD5HQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDp5z3fw!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrgfD5HQ!2e10!4m2!3m1!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498
 address: 110 W Illinois St, Chicago, IL 60654, USA
 street: 110 W Illinois St
 city: Chicago
@@ -207,6 +207,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-slug: Sunda-New-Asian-River-North
 
 ---

@@ -216,6 +216,5 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: false
-slug: Sushi-By-Bou-DC-at-Citizen-M-Hotel-L-enfant-Plaza
 
 ---
