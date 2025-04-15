@@ -9,13 +9,13 @@
 
     <main class="main" aria-label="Content">
       <div class="wrapper">
-        {% include us-map.svg %}
         {{ content }}
       </div>
     </main>
 
     {%- include footer.html -%}
     <script src="{{ "/assets/scripts/usMap.js" | relative_url }}"></script>
+    {% include cookie-consent.html %}
   </body>
 
 </html>

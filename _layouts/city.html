@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map-page
 ---
 <div class="city-content">
   <ul class="page-list city-page-list">
@@ -11,10 +11,10 @@ layout: page
           {% include icons/sushi_icon.svg %}
           <a href="{{- place.url -}}">{{ place.name }}</a>
         </span>
-        <span class="price-rating">
+        <span class="rating">
           {% assign r = place.rating | times: 1 %}
           {% assign rc = place.rating_count | times: 1 %}
-          {% include star_rating.html rating=r count=rc size="20px" %}
+          {% include star_rating.html rating=r count=rc size="16px" %}
         </span>
       </li>
     {% endfor %}

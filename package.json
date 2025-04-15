@@ -6,7 +6,7 @@
     "jekyll-serve": "bundle exec jekyll serve -lI",
     "jekyll-build": "bundle exec jekyll build -I",
     "update-jekyll-data": "NODE_ENV=development node _backend/updateJekyllData.js",
-    "build-places": "node _backend/buildPlacesCollection.js",
+    "build-places-collection": "node _backend/buildPlacesCollection.js",
     "update-places-db": "node _backend/updatePlacesDb.js",
     "backup-places-db": "node ./_backend/backupPlacesTable.js",
     "restore-places-db": "node ./_backend/restorePlacesTable.js",

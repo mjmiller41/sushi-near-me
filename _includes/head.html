@@ -4,16 +4,4 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {%- if jekyll.environment == 'production' %}
-    {% if site.google_analytics -%}
-      {%- include google-analytics.html -%}
-    {%- endif -%}
-    {% if page.name != '404' %}
-      <meta name="google-adsense-account" content="ca-pub-1542262851763938">
-      <script
-        async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1542262851763938"
-        crossorigin="anonymous"></script>
-    {% endif %}
-  {% endif %}
 </head>

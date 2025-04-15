@@ -35,6 +35,7 @@ google_analytics: 'G-9Q8C2EW976'
 plugins:
   - jekyll-seo-tag
   - jekyll-last-modified-at
+  - jekyll-sitemap
 
 header_pages:
   - index.html
@@ -55,14 +56,9 @@ collections:
 exclude:
   - .sass-cache/
   - .jekyll-cache/
-  - gemfiles/
   - Gemfile
   - Gemfile.lock
   - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
   - sushi_places_bk.json
   - README.md
   - package.json
