@@ -7,10 +7,7 @@ layout: map-page
     {% for place in cityPlaces %}
       {% assign place = place | jsonify %}
       <li>
-        <span class="link">
-          {% include icons/sushi_icon.svg %}
-          <a href="{{- place.url -}}">{{ place.name }}</a>
-        </span>
+        <a href="{{- place.url -}}">{% include icons/sushi_icon.svg %}{{ place.name }}</a>
         <span class="rating">
           {% assign r = place.rating | times: 1 %}
           {% assign rc = place.rating_count | times: 1 %}

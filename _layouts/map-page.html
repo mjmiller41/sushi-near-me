@@ -1,5 +1,13 @@
 ---
 layout: page
 ---
-{% include us-map.svg %}
-{{ content }}
+<div class="map-page">
+  {% include us-map.svg %}
+  <h3 class="directions-text">Click on a state above...</h3>
+  <h3 class="directions-text">Search for a specific place...</h3>
+  {% include search-form.html %}
+  <h3 class="directions-text">or Choose from the list below...</h3>
+  {{ content }}
+</div>
+
+<script src="{{ '/assets/scripts/usMap.js' | relative_url }}" defer></script>

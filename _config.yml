@@ -39,6 +39,7 @@ plugins:
 
 header_pages:
   - index.html
+  - search.html
   - about.md
   - contact.html
 

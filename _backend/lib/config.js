@@ -1,6 +1,7 @@
 import 'dotenv/config'
 
-const devMode = process.env.NODE_ENV !== 'production' ?? false
+const devMode =
+  process.env.NODE_ENV !== 'production' ?? JEKYLL_ENV !== 'production' ?? false
 const placesLimit = devMode ? 5 : +Infinity
 const config = {
   googleApiKey: process.env.GOOGLE_API_KEY,

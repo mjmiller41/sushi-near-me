@@ -1,10 +1,10 @@
-import fs from 'fs/promises'
 import path from 'path'
 import { getAllPlaces } from './lib/db.js'
-import { saveObjectToFile, writeTextToFile } from './lib/fileIO.js'
+import { writeTextToFile } from './lib/fileIO.js'
 import { Place } from './lib/Place.js'
 import { cleanDir, objToYaml, slugify } from './lib/utils.js'
 import { STATES } from './lib/constants.js'
+import { config } from './lib/config.js'
 
 const __dirname = import.meta.dirname
 
@@ -66,7 +66,7 @@ async function run() {
   let placeCount = 0
   for (const row of rows) {
     const place = new Place(row)
-    // if (!['DC', 'FL'].includes(place.state)) continue
+    if (config.devMode && !['DC', 'FL'].includes(place.state)) continue
     if (!place.state || !place.city) continue
     const stateAbbr = place.state
     const stateName = STATES[stateAbbr]

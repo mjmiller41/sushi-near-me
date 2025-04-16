@@ -3,13 +3,14 @@ layout: map-page
 ---
 <div class="state-content">
   {% assign stateName = site.data.states[page.state] %}
-  <h3 class="page-list-heading">Choose a city</h3>
   <ul class="page-list">
-    {% assign cities = site.cities | where: 'stateAbbr', page.stateAbbr %}
+    {% assign cities = site.cities | where: 'stateName', page.stateName %}
     {%- for city in cities -%}
       <li>
-        {% include icons/city_icon.svg %}
-        <a href="{{- city.url -}}">{{- city.cityName -}}</a>
+        <a href="{{- city.url -}}">{% include icons/city_icon.svg %}{{- city.cityName -}}</a>
+        {% assign places = site.places | where: "stateName", city.stateName %}
+        {% assign places = places | where: "cityName", city.cityName %}
+        <div class="link-info">{{ places.size }} sushi place{% if places.size > 1 %}s{% endif %}.</div>
       </li>
     {%- endfor -%}
   </ul>

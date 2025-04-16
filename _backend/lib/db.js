@@ -6,12 +6,13 @@ import pg from 'pg'
 
 const sslConfig = config.devMode
   ? { host: 'localHost', user: 'postgres', password: '', port: 5432 }
-  : {
-      ssl: {
-        rejectUnauthorized: true,
-        ca: await fs.readFile('./rds-ca-bundle.pem', { encoding: 'utf8' })
-      }
-    }
+  : { host: 'localHost', user: 'postgres', password: '', port: 5432 }
+// {
+//   ssl: {
+//     rejectUnauthorized: true,
+//     ca: await fs.readFile('./rds-ca-bundle.pem', { encoding: 'utf8' })
+//   }
+// }
 const { Pool } = pg
 const pool = new Pool(sslConfig)
 

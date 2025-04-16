@@ -1,10 +1,10 @@
 ---
 ---
 const statePages = {{ site.states | jsonify }}
-const mapStateLinks = document.querySelectorAll('#us-map .state')
+const usMapStateLinks = document.querySelectorAll('#us-map .state')
 const statePageSlugs = statePages.map(state=>state.slug)
 const currentState = window.location.pathname.match(/^\/([a-z-]*)\/?.*/)
-for (const link of mapStateLinks){
+for (const link of usMapStateLinks){
   // Disable states without places in list
   if (!statePageSlugs.includes(link.id)) {
     link.classList.add("isDisabled")
