@@ -1,6 +1,6 @@
 {%- if jekyll.environment == 'production' %}
   {% if site.google_analytics -%}
-    <!-- Google tag (gtag.js) -->
+    <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -8,5 +8,6 @@
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
     </script>
+    <!-- End Google Analytics -->
   {% endif %}
 {% endif %}
