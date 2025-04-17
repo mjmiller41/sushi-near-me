@@ -14,10 +14,12 @@
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
+          </li>
+          {%- if site.email -%}
+            <li>
+              <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
             </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          {%- endif -%}
         </ul>
       </div>
 
@@ -28,8 +30,14 @@
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>
-    </div>
 
+      <div class="footer-col footer-col-4">
+        <p>
+          <span>&copy; Sushi Near Me U.S. All rights reserved.</span>
+          <a href="privacy.html">Privacy Policy</a>
+        </p>
+      </div>
+    </div>
   </div>
 
 </footer>
