@@ -3,6 +3,11 @@
  */
 $header-height: $spacing-unit * 1.865;
 
+svg.icon {
+  width: $base-font-size;
+  height: $base-font-size;
+}
+
 /**
  * Page content
  */
@@ -310,10 +315,19 @@ $header-height: $spacing-unit * 1.865;
   }
 
   .place-page {
+    display: flex;
+    flex-direction: column;
+    gap: calc($base-gap * 4);
+
+    .description {
+      @include relative-font-size(1.2);
+      margin: 0;
+    }
+
     .price-rating {
       display: flex;
-      align-items: center;
-      gap: calc($base-gap * 2);
+      flex-direction: column;
+      justify-content: flex-start;
     }
 
     .maps-links {
@@ -327,6 +341,104 @@ $header-height: $spacing-unit * 1.865;
         margin-right: calc($base-gap * 2);
       }
     }
+
+    .wheelchair-accessibility,
+    .parking-options,
+    .payment-options {
+      h4 {
+        margin: 0;
+        display: flex;
+        gap: $base-gap;
+      }
+      .options {
+        display: flex;
+        gap: calc($base-gap * 2);
+        margin-left: calc(16px + $base-gap);
+        .option {
+          display: flex;
+          align-items: center;
+          gap: $base-gap;
+        }
+      }
+    }
+
+    .bool-options {
+      display: grid;
+      grid-template-columns: repeat(2, max-content);
+      grid-template-rows: repeat(2, max-content);
+      grid-template-areas:
+        'hd   hd'
+        'col1 col2';
+      gap: $base-gap; /* Space between the true and false columns */
+      h4 {
+        grid-area: hd;
+        margin: 0;
+      }
+      .true-column,
+      .false-column {
+        display: flex;
+        flex-direction: column;
+        gap: $base-gap; /* Space between items in each column */
+        width: fit-content; /* Adjust width as needed */
+        .bool-option {
+          display: flex;
+          align-items: center;
+          gap: $base-gap; /* Space between icon and text */
+          &.true {
+            grid-area: col1;
+            color: green;
+          }
+          &.false {
+            grid-area: col2;
+            color: red;
+            text-decoration: line-through;
+          }
+        }
+      }
+    }
+
+    // .bool-options {
+    //   display: grid;
+    //   grid-template-columns: 1fr 1fr; /* Two equal-width columns */
+    //   grid-auto-rows: auto; /* Rows adjust to content height */
+    //   gap: 10px; /* Adjust gap as needed */
+    //   .bool-option {
+    //     display: flex;
+    //     align-items: center;
+    //     gap: 10px; /* Replace $base-gap with actual value or ensure it's defined */
+    //     &.true {
+    //       grid-column: 1; /* Place .true items in column 1 */
+    //       color: green;
+    //     }
+
+    //     &.false {
+    //       grid-column: 2; /* Place .false items in column 2 */
+    //       color: red;
+    //       text-decoration: line-through;
+    //     }
+    //   }
+    // }
+
+    // .bool-options {
+    //   display: grid;
+    //   grid-template-columns: 1fr 1fr;
+    //   grid-template-rows: repeat(auto-fit, 1fr);
+    //   grid-template-areas:
+    //     'true false'
+    //     'true false';
+    //   .bool-option {
+    //     display: flex;
+    //     align-items: center;
+    //     gap: $base-gap;
+    //     &.true {
+    //       color: green;
+    //     }
+    //     &.false {
+    //       color: red;
+    //       text-decoration: line-through;
+    //     }
+    //   }
+    // }
   }
 }
 

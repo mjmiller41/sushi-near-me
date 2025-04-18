@@ -78,11 +78,11 @@ reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNQeExtdnp3RRAB
   - ChdDSUhNMG9nS0VJQ0FnSURSLXZ6RmxBRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUMweWJxanh3RRAB
-parking_options: []
+parking_options: {}
 payment_options:
-  - ACCEPTS_CREDIT_CARDS
-  - ACCEPTS_DEBIT_CARDS
-  - ACCEPTS_NFC
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: true

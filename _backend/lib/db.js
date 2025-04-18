@@ -209,6 +209,7 @@ async function initDb() {
 }
 
 async function upsertPlace(_place) {
+  await initSushiRestaurantsTable()
   // Ensure updated_at is always included
   const place = { ..._place, updated_at: 'NOW()' }
 
@@ -299,6 +300,7 @@ async function upsertPlacesApiSkuData(skuObjArray) {
 }
 
 async function updateSearchHistory(lat, lng, zips) {
+  await initZipSearchHistoryTable()
   await pool.query(
     `
     INSERT INTO zip_search_history (latitude, longitude, zip_codes, last_searched_at)

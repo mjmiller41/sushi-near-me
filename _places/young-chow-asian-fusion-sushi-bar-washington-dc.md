@@ -186,9 +186,9 @@ reviews:
   - ChZDSUhNMG9nS0VJQ0FnSUQ5bjVUVVdBEAE
   - ChZDSUhNMG9nS0VJQ0FnSURCOU8tNUR3EAE
   - ChZDSUhNMG9nS0VJQ0FnSUNYMWR2VmVREAE
-parking_options: []
+parking_options: {}
 payment_options:
-  - ACCEPTS_CREDIT_CARDS
+  acceptsCreditCards: true
 allow_dogs: null
 curbside_pickup: null
 delivery: true

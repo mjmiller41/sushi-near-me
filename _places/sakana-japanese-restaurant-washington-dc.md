@@ -348,7 +348,7 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNJNWZMSnZRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNJNWZMSnZRRRAB!2m1!1s0x89b7b7c86690d881:0x68a963c0d8e0800a
-parking_options: []
+parking_options: {}
 payment_options:
   acceptsCreditCards: true
   acceptsDebitCards: true

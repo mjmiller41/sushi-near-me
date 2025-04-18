@@ -1,0 +1,7 @@
+{% assign has_options = false %}
+{%- for prop in include.options_obj -%}
+  {% assign property = prop[0] %}
+  {%- unless property == nil or property == empty -%}
+    {%- assign has_options = true -%}
+  {% endunless %}
+{% endfor %}

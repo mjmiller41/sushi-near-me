@@ -1,14 +1,4 @@
 <style>
-  @property --aspect-ratio {
-    syntax: "<number>";
-    inherits: false;
-    initial-value: 5;
-  }
-  @property --s {
-    syntax: "<length>";
-    inherits: false;
-    initial-value: "20px";
-  }
   .star-rating,
   .star-rating * {
     margin: 0;
@@ -17,11 +7,10 @@
     pointer-events: none;
   }
   .star-rating {
-    --brand-color: $brand-color;
-    --s: {{ include.size }};
+    --s: {{ include.size | default: "20px"}};
     --_c: grey 50%
     , gold 0;
-    --aspect-ratio: attr(max type(<number>));
+    --aspect-ratio: {{ include.out-of | default: 5 }};
     display: flex;
     align-items: center;
   }

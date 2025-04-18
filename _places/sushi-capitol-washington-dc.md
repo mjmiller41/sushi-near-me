@@ -341,7 +341,7 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqcHZ6dHdBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqcHZ6dHdBRRAB!2m1!1s0x89b7b82dd1080ced:0x5899f8663d809a94
-parking_options: []
+parking_options: {}
 payment_options:
   acceptsCashOnly: false
 allow_dogs: null
