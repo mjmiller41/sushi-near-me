@@ -5,6 +5,11 @@ permalink: /illinois/chicago/yatai-asian-street-food.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "YATAI Asian Street Food"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Chicago, Illinois? Check out YATAI Asian Street Food for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJtcJnPSHRD4gR3JCgw2GtwGc
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 314
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

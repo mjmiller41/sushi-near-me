@@ -5,6 +5,11 @@ permalink: /california/orange/50-off-rolls-koisan-sushi-bar-and-japanese-cuisine
 stateAbbr: CA
 stateName: California
 cityName: Orange
+seo:
+  name: "[50% OFF ROLLS!] Koisan Sushi Bar and Japanese Cuisine"
+  type: Restaurant
+  links: https://www.koisansushibar.com/
+description: "Looking for sushi in Orange, California? Check out [50% OFF ROLLS!] Koisan Sushi Bar and Japanese Cuisine for a delightful Japanese dining experience. Enjoy ..."
 place_id: ChIJQ4cq6U_X3IARHdCeExIeZfE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 431
 website: https://www.koisansushibar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

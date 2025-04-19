@@ -5,6 +5,11 @@ permalink: /california/san-francisco/okane.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Okane"
+  type: Restaurant
+  links: http://www.okanesf.com/
+description: "Cafe for refined Japanese comfort food with shareable dishes, handmade rolls & other Asian staples. Looking for sushi in San Francisco, California? Check out..."
 place_id: ChIJjaWT5yx-j4AR0S6cwdgnD4Q
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 337
 website: http://www.okanesf.com/
-description: >-
-  Cafe for refined Japanese comfort food with shareable dishes, handmade rolls &
-  other Asian staples.
 reviews:
   - name: >-
       places/ChIJjaWT5yx-j4AR0S6cwdgnD4Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMaDRxZGp3RRAB
@@ -574,5 +576,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Cafe for refined Japanese comfort food with shareable dishes, handmade rolls &
+  other Asian staples.
 
 ---

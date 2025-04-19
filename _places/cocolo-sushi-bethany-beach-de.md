@@ -5,6 +5,11 @@ permalink: /delaware/bethany-beach/cocolo-sushi.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Bethany Beach
+seo:
+  name: "CoCoLo Sushi"
+  type: Restaurant
+  links: http://cocolosushi.com/
+description: "Looking for sushi in Bethany Beach, Delaware? Check out CoCoLo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJ11NJLQzOuIkRtfkdehrlVaU
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: '4.5'
 rating_count: 267
 website: http://cocolosushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ11NJLQzOuIkRtfkdehrlVaU/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzME5pbk5REAE
@@ -347,5 +351,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

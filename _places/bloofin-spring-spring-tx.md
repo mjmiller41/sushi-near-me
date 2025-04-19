@@ -5,6 +5,11 @@ permalink: /texas/spring/bloofin-spring.html
 stateAbbr: TX
 stateName: Texas
 cityName: Spring
+seo:
+  name: "Blōōfin Spring"
+  type: Restaurant
+  links: https://bloofinsushi.com/
+description: "Looking for sushi in Spring, Texas? Check out Blōōfin Spring for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJiW0v7f8yR4YRAo6_a6GPtBc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.7'
 rating_count: 987
 website: https://bloofinsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

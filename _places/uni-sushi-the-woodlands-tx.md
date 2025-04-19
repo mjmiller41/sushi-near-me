@@ -5,6 +5,11 @@ permalink: /texas/the-woodlands/uni-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: The Woodlands
+seo:
+  name: "Uni Sushi"
+  type: Restaurant
+  links: http://uniwoodlands.com/
+description: "Looking for sushi in The Woodlands, Texas? Check out Uni Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJRWd0J8E2R4YRJUlsPxMA3XU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 930
 website: http://uniwoodlands.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

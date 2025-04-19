@@ -5,6 +5,11 @@ permalink: /california/marina/new-tokyo-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Marina
+seo:
+  name: "New Tokyo Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Marina, California? Check out New Tokyo Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJLTIVp9n8jYARboyvnB7tN00
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 283
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJLTIVp9n8jYARboyvnB7tN00/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQMDRfMkJREAE
@@ -482,5 +486,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

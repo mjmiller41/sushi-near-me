@@ -5,6 +5,11 @@ permalink: /california/fresno/pacific-poki.html
 stateAbbr: CA
 stateName: California
 cityName: Fresno
+seo:
+  name: "Pacific Poki"
+  type: Restaurant
+  links: https://g2foodcorp.wixsite.com/pacificpoki
+description: "Looking for sushi in Fresno, California? Check out Pacific Poki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJs80yB7JZlIARShsgA1qO-OM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 69
 website: https://g2foodcorp.wixsite.com/pacificpoki
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

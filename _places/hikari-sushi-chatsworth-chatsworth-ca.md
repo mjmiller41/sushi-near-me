@@ -5,6 +5,11 @@ permalink: /california/chatsworth/hikari-sushi-chatsworth.html
 stateAbbr: CA
 stateName: California
 cityName: Chatsworth
+seo:
+  name: "Hikari Sushi Chatsworth"
+  type: Restaurant
+  links: http://www.hikarisushichatsworth.com/
+description: "Looking for sushi in Chatsworth, California? Check out Hikari Sushi Chatsworth for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJZzezjLCcwoARqmIrRjnaHPE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 1724
 website: http://www.hikarisushichatsworth.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

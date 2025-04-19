@@ -5,6 +5,11 @@ permalink: /utah/salt-lake-city/teru-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
+seo:
+  name: "Teru Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Salt Lake City, Utah? Check out Teru Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJ9y-UY4liUocRr8f3PgQIf7o
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.7'
 rating_count: 270
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

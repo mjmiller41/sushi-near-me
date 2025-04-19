@@ -5,6 +5,11 @@ permalink: /pennsylvania/malvern/fysh-sushi-and-poke.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Malvern
+seo:
+  name: "FYSH Sushi and Poke"
+  type: Restaurant
+  links: http://fyshsushi.com/
+description: "Looking for sushi in Malvern, Pennsylvania? Check out FYSH Sushi and Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJ1XmnYBjtxokRhikx03X9_6Y
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.9'
 rating_count: 98
 website: http://fyshsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

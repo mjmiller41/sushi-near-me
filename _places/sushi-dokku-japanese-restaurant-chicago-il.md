@@ -5,6 +5,11 @@ permalink: /illinois/chicago/sushi-dokku-japanese-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "SUSHI DOKKU Japanese Restaurant"
+  type: Restaurant
+  links: http://www.sushidokku.com/
+description: "Sushi, sashimi & Japanese small plates plus sake & cocktails in a chic, minimalist setting. Looking for sushi in Chicago, Illinois? Check out SUSHI DOKKU Jap..."
 place_id: ChIJa1x1zNosDogRWaWIsW63ktg
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 1202
 website: http://www.sushidokku.com/
-description: >-
-  Sushi, sashimi & Japanese small plates plus sake & cocktails in a chic,
-  minimalist setting.
 reviews:
   - name: >-
       places/ChIJa1x1zNosDogRWaWIsW63ktg/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3X2QtTnVBRRAB
@@ -473,5 +475,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, sashimi & Japanese small plates plus sake & cocktails in a chic,
+  minimalist setting.
 
 ---

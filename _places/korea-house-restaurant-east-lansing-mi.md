@@ -5,6 +5,11 @@ permalink: /michigan/east-lansing/korea-house-restaurant.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
+seo:
+  name: "Korea House Restaurant"
+  type: Restaurant
+  links: https://koreahouse.us/index.html
+description: "Simple, wood-paneled establishment with a sushi bar & menu of familiar Korean & Japanese entrees. Looking for sushi in East Lansing, Michigan? Check out Kore..."
 place_id: ChIJQ0J7sm3CIogRdTmr8EWuMb8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 692
 website: https://koreahouse.us/index.html
-description: >-
-  Simple, wood-paneled establishment with a sushi bar & menu of familiar Korean
-  & Japanese entrees.
 reviews:
   - name: >-
       places/ChIJQ0J7sm3CIogRdTmr8EWuMb8/reviews/ChZDSUhNMG9nS0VJQ0FnTURRdEszVVJ3EAE
@@ -594,5 +596,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Simple, wood-paneled establishment with a sushi bar & menu of familiar Korean
+  & Japanese entrees.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/new-york/tokugawa-sushi-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Tokugawa Sushi Restaurant"
+  type: Restaurant
+  links: https://www.tokugawanyc.com/
+description: "Looking for sushi in New York, New York? Check out Tokugawa Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJU_L5wepZwokR0_p3hTDnWx8
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: '4.2'
 rating_count: 54
 website: https://www.tokugawanyc.com/
-description: null
 reviews:
   - name: >-
       places/ChIJU_L5wepZwokR0_p3hTDnWx8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNjdTcnRnRRAB
@@ -351,5 +355,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

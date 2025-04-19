@@ -5,6 +5,11 @@ permalink: /oklahoma/oklahoma-city/creek-sushi-and-poke.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
+seo:
+  name: "Creek Sushi and Poke"
+  type: Restaurant
+  links: https://www.creeksushiokc.com/
+description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Creek Sushi and Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJ4z4LC7AFsocRSiQzGxtHXSY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 169
 website: https://www.creeksushiokc.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

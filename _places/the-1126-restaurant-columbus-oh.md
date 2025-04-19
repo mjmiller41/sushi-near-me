@@ -5,6 +5,11 @@ permalink: /ohio/columbus/the-1126-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
+seo:
+  name: "The 1126 Restaurant"
+  type: Restaurant
+  links: https://www.the1126restaurant.com/
+description: "Hot & cold starters, grilled fare, tempura & sushi highlight the menu at this modern Japanese spot. Looking for sushi in Columbus, Ohio? Check out The 1126 R..."
 place_id: ChIJgyQ_EvOPOIgRkbYGFy-pbkc
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 590
 website: https://www.the1126restaurant.com/
-description: >-
-  Hot & cold starters, grilled fare, tempura & sushi highlight the menu at this
-  modern Japanese spot.
 reviews:
   - name: >-
       places/ChIJgyQ_EvOPOIgRkbYGFy-pbkc/reviews/ChdDSUhNMG9nS0VJQ0FnTURBd09tNTd3RRAB
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Hot & cold starters, grilled fare, tempura & sushi highlight the menu at this
+  modern Japanese spot.
 
 ---

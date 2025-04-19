@@ -5,6 +5,11 @@ permalink: /wisconsin/milwaukee/hungry-sumo.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Milwaukee
+seo:
+  name: "Hungry Sumo"
+  type: Restaurant
+  links: http://www.hungrysumosushibar.com/
+description: "Traditional & creative sushi, Japanese & Thai small plates, rice bowls & ramen in a modern space. Looking for sushi in Milwaukee, Wisconsin? Check out Hungry..."
 place_id: ChIJ-1Njv34XBYgRmYuSaobePGA
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 1241
 website: http://www.hungrysumosushibar.com/
-description: >-
-  Traditional & creative sushi, Japanese & Thai small plates, rice bowls & ramen
-  in a modern space.
 reviews:
   - name: >-
       places/ChIJ-1Njv34XBYgRmYuSaobePGA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBNnQ2cFNnEAE
@@ -402,5 +404,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Traditional & creative sushi, Japanese & Thai small plates, rice bowls & ramen
+  in a modern space.
 
 ---

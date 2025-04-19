@@ -5,6 +5,11 @@ permalink: /california/san-francisco/sushi-bistro.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Sushi Bistro"
+  type: Restaurant
+  links: http://sushibistro.com/
+description: "Neighborhood Japanese spot where unusual ingredients make for twists on traditional sushi. Looking for sushi in San Francisco, California? Check out Sushi Bi..."
 place_id: ChIJCcINQEl-j4ARRypIXsVSEZI
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 289
 website: http://sushibistro.com/
-description: >-
-  Neighborhood Japanese spot where unusual ingredients make for twists on
-  traditional sushi.
 reviews:
   - name: >-
       places/ChIJCcINQEl-j4ARRypIXsVSEZI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyaGZ6WW5BRRAB
@@ -363,5 +365,8 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Neighborhood Japanese spot where unusual ingredients make for twists on
+  traditional sushi.
 
 ---

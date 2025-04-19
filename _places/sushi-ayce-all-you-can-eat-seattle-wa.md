@@ -5,6 +5,11 @@ permalink: /washington/seattle/sushi-ayce-all-you-can-eat.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Sushi%AYCE/All You Can Eat"
+  type: Restaurant
+  links: https://www.sushiayceus.com/
+description: "Looking for sushi in Seattle, Washington? Check out Sushi%AYCE/All You Can Eat for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJqxb_7GhrkFQRvomAw9GALrM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 614
 website: https://www.sushiayceus.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

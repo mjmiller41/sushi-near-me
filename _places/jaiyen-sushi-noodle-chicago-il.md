@@ -5,6 +5,11 @@ permalink: /illinois/chicago/jaiyen-sushi-noodle.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Jaiyen Sushi & Noodle"
+  type: Restaurant
+  links: http://www.jai-yen.com/
+description: "Minimalist Japanese restaurant offering a large menu of sushi & maki, plus Pan-Asian options. Looking for sushi in Chicago, Illinois? Check out Jaiyen Sushi ..."
 place_id: ChIJNbBEg4DND4gRmsZ31IgWGyQ
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 430
 website: http://www.jai-yen.com/
-description: >-
-  Minimalist Japanese restaurant offering a large menu of sushi & maki, plus
-  Pan-Asian options.
 reviews:
   - name: >-
       places/ChIJNbBEg4DND4gRmsZ31IgWGyQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzNkpMRjdBRRAB
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Minimalist Japanese restaurant offering a large menu of sushi & maki, plus
+  Pan-Asian options.
 
 ---

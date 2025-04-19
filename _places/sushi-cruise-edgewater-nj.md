@@ -5,6 +5,11 @@ permalink: /new-jersey/edgewater/sushi-cruise.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Edgewater
+seo:
+  name: "Sushi Cruise"
+  type: Restaurant
+  links: http://www.sushi-cruise.com/
+description: "Japanese eats & sushi selected off a conveyor belt in a riverside setting with a patio & NYC views. Looking for sushi in Edgewater, New Jersey? Check out Sus..."
 place_id: ChIJZ5fe_Uv2wokRUEQShWZJFHI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 732
 website: http://www.sushi-cruise.com/
-description: >-
-  Japanese eats & sushi selected off a conveyor belt in a riverside setting with
-  a patio & NYC views.
 reviews:
   - name: >-
       places/ChIJZ5fe_Uv2wokRUEQShWZJFHI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaWFudkVBEAE
@@ -417,5 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese eats & sushi selected off a conveyor belt in a riverside setting with
+  a patio & NYC views.
 
 ---

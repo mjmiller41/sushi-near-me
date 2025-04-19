@@ -5,6 +5,11 @@ permalink: /florida/gainesville/sushi-2-go-university.html
 stateAbbr: FL
 stateName: Florida
 cityName: Gainesville
+seo:
+  name: "Sushi-2-Go University"
+  type: Restaurant
+  links: http://www.sushi2go.com/
+description: "Casual restaurant serving sushi rolls, dumplings & egg rolls for dine-in, takeout or delivery. Looking for sushi in Gainesville, Florida? Check out Sushi-2-G..."
 place_id: ChIJ41ggbI-j6IgRz-2fxT-tEMM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 280
 website: http://www.sushi2go.com/
-description: >-
-  Casual restaurant serving sushi rolls, dumplings & egg rolls for dine-in,
-  takeout or delivery.
 reviews:
   - name: >-
       places/ChIJ41ggbI-j6IgRz-2fxT-tEMM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNycXM2M3JnRRAB
@@ -419,5 +421,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Casual restaurant serving sushi rolls, dumplings & egg rolls for dine-in,
+  takeout or delivery.
 
 ---

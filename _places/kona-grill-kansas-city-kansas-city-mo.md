@@ -5,6 +5,11 @@ permalink: /missouri/kansas-city/kona-grill-kansas-city.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
+seo:
+  name: "Kona Grill - Kansas City"
+  type: Restaurant
+  links: https://konagrill.com/locations?locations=Kansas-City,64112
+description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Looking for sushi in Kansas City, Missouri? Check out Kona ..."
 place_id: ChIJX-ddzrnvwIcRt8BxRSdH56Y
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 5009
 website: https://konagrill.com/locations?locations=Kansas-City,64112
-description: >-
-  Sleek chain with a broad New American menu including low-calorie options, plus
-  sushi & cocktails.
 reviews:
   - name: >-
       places/ChIJX-ddzrnvwIcRt8BxRSdH56Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJblo2Rkx3EAE
@@ -401,5 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek chain with a broad New American menu including low-calorie options, plus
+  sushi & cocktails.
 
 ---

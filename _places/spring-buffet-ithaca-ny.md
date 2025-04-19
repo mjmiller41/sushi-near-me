@@ -5,6 +5,11 @@ permalink: /new-york/ithaca/spring-buffet.html
 stateAbbr: NY
 stateName: New York
 cityName: Ithaca
+seo:
+  name: "Spring Buffet"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Ithaca, New York? Check out Spring Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJd5TQDg6B0IkRtBMqZ4QOWyo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

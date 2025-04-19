@@ -5,6 +5,11 @@ permalink: /south-carolina/myrtle-beach/king-kong-sushi.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Myrtle Beach
+seo:
+  name: "King Kong Sushi"
+  type: Restaurant
+  links: http://www.kingkongsushi.com/
+description: "Looking for sushi in Myrtle Beach, South Carolina? Check out King Kong Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJixuBjN9oAIkRjMlc0-JW5Ag
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 920
 website: http://www.kingkongsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

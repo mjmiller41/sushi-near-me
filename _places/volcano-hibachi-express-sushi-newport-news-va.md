@@ -5,6 +5,11 @@ permalink: /virginia/newport-news/volcano-hibachi-express-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Newport News
+seo:
+  name: "Volcano Hibachi Express & Sushi"
+  type: Restaurant
+  links: http://www.volcanosushinewportnews.com/
+description: "Looking for sushi in Newport News, Virginia? Check out Volcano Hibachi Express & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJmcH-rNF-sIkRpjuEB9ZAAlA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.4'
 rating_count: 328
 website: http://www.volcanosushinewportnews.com/
-description: null
 reviews:
   - name: >-
       places/ChIJmcH-rNF-sIkRpjuEB9ZAAlA/reviews/ChdDSUhNMG9nS0VJQ0FnSURldjZ5OTBBRRAB
@@ -401,5 +405,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

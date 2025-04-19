@@ -5,6 +5,11 @@ permalink: /iowa/waterloo/hibachi-sushi-buffet.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Waterloo
+seo:
+  name: "Hibachi Sushi Buffet"
+  type: Restaurant
+  links: http://www.hibachisushibuffets.com/
+description: "Straightforward buffet-style spot for familiar Chinese & Japanese dishes, along with sushi rolls. Looking for sushi in Waterloo, Iowa? Check out Hibachi Sush..."
 place_id: ChIJD29zjTxS5YcRaQVua6IOSOY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.4'
 rating_count: 1192
 website: http://www.hibachisushibuffets.com/
-description: >-
-  Straightforward buffet-style spot for familiar Chinese & Japanese dishes,
-  along with sushi rolls.
 reviews:
   - name: >-
       places/ChIJD29zjTxS5YcRaQVua6IOSOY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbk5PNUVnEAE
@@ -368,5 +370,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Straightforward buffet-style spot for familiar Chinese & Japanese dishes,
+  along with sushi rolls.
 
 ---

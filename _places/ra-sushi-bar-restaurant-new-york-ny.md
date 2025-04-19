@@ -5,6 +5,11 @@ permalink: /new-york/new-york/ra-sushi-bar-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "RA Sushi Bar Restaurant"
+  type: Restaurant
+  links: https://rasushi.com/locations/times-square-ny/
+description: "Snazzy Japanese fusion chain known for its inventive sushi, cocktails & happy-hour deals at the bar. Looking for sushi in New York, New York? Check out RA Su..."
 place_id: ChIJV0lhkFRYwokRnOYz2uD9LN4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 2062
 website: https://rasushi.com/locations/times-square-ny/
-description: >-
-  Snazzy Japanese fusion chain known for its inventive sushi, cocktails &
-  happy-hour deals at the bar.
 reviews:
   - name: >-
       places/ChIJV0lhkFRYwokRnOYz2uD9LN4/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OTRPLTlRRRAB
@@ -393,5 +395,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Snazzy Japanese fusion chain known for its inventive sushi, cocktails &
+  happy-hour deals at the bar.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/new-york/ito.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "ITO"
+  type: Restaurant
+  links: https://itotribeca.com/
+description: "Looking for sushi in New York, New York? Check out ITO for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
 place_id: ChIJiW_7kM9bwokR9qMrG4XITL8
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 69
 website: https://itotribeca.com/
-description: null
 reviews:
   - name: >-
       places/ChIJiW_7kM9bwokR9qMrG4XITL8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cGRlT2pBRRAB
@@ -387,5 +391,6 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: false
+summary: null
 
 ---

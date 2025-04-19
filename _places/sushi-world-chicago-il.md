@@ -5,6 +5,11 @@ permalink: /illinois/chicago/sushi-world.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Sushi World"
+  type: Restaurant
+  links: http://sushiworldchicago.com/
+description: "Looking for sushi in Chicago, Illinois? Check out Sushi World for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJR9l6007PD4gRvk6Sk_bxcx4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 523
 website: http://sushiworldchicago.com/
-description: null
 reviews:
   - name: >-
       places/ChIJR9l6007PD4gRvk6Sk_bxcx4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcmUySC1nRRAB
@@ -334,5 +338,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

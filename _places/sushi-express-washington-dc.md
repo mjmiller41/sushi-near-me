@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/sushi-express.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Sushi Express"
+  type: Restaurant
+  links: null
+description: "Japanese counter serve in an office complex selling grab-&-go maki rolls & lunch combos. Looking for sushi in Washington, District of Columbia? Check out Sus..."
 place_id: ChIJB8lD-bm3t4kRCozAP7vQbLU
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 87
 website: null
-description: >-
-  Japanese counter serve in an office complex selling grab-&-go maki rolls &
-  lunch combos.
 reviews:
   - name: >-
       places/ChIJB8lD-bm3t4kRCozAP7vQbLU/reviews/ChZDSUhNMG9nS0VJQ0FnSURIZ3EyQmR3EAE
@@ -379,5 +381,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Japanese counter serve in an office complex selling grab-&-go maki rolls &
+  lunch combos.
 
 ---

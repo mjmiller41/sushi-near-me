@@ -5,6 +5,11 @@ permalink: /california/diamond-bar/fusion-2-any-1-sushi-roll.html
 stateAbbr: CA
 stateName: California
 cityName: Diamond Bar
+seo:
+  name: "Fusion 2 Any 1 Sushi & Roll"
+  type: Restaurant
+  links: http://fusion2any1.com/
+description: "Looking for sushi in Diamond Bar, California? Check out Fusion 2 Any 1 Sushi & Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJ63KrFpIsw4AR-svIuexDC-Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 390
 website: http://fusion2any1.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/batavia/swordfish.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Batavia
+seo:
+  name: "Swordfish"
+  type: Restaurant
+  links: http://swordfishsushi.com/
+description: "Modern, loungelike Japanese spot with creative & classic sushi, bento boxes & small & large plates. Looking for sushi in Batavia, Illinois? Check out Swordfi..."
 place_id: ChIJP6kHJSPjDogR40oC0-70xE4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 688
 website: http://swordfishsushi.com/
-description: >-
-  Modern, loungelike Japanese spot with creative & classic sushi, bento boxes &
-  small & large plates.
 reviews:
   - name: >-
       places/ChIJP6kHJSPjDogR40oC0-70xE4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfbUtXNnZ3RRAB
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern, loungelike Japanese spot with creative & classic sushi, bento boxes &
+  small & large plates.
 
 ---

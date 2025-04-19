@@ -5,6 +5,11 @@ permalink: /florida/orlando/orchid-court-lounge-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Orchid Court Lounge & Sushi Bar"
+  type: Restaurant
+  links: https://www.universalorlando.com/web/en/us/things-to-do/dining/orchid-court-lounge-and-sushi-bar
+description: "Overlooking the pool, this airy lobby eatery serves breakfast in the morning & sushi at dinner. Looking for sushi in Orlando, Florida? Check out Orchid Court..."
 place_id: ChIJY6Sn5eN-54gRiLFAgFODLSg
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.4'
 rating_count: 179
 website: >-
   https://www.universalorlando.com/web/en/us/things-to-do/dining/orchid-court-lounge-and-sushi-bar
-description: >-
-  Overlooking the pool, this airy lobby eatery serves breakfast in the morning &
-  sushi at dinner.
 reviews:
   - name: >-
       places/ChIJY6Sn5eN-54gRiLFAgFODLSg/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3bmZIVkVBEAE
@@ -407,5 +409,8 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: null
+summary: >-
+  Overlooking the pool, this airy lobby eatery serves breakfast in the morning &
+  sushi at dinner.
 
 ---

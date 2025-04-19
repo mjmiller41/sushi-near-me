@@ -5,6 +5,11 @@ permalink: /illinois/chicago/hana-dragon-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Hana Dragon Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Chicago, Illinois? Check out Hana Dragon Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJPQGrvhotDogRw9dJIdwhmNE
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

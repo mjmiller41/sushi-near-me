@@ -5,6 +5,11 @@ permalink: /maryland/olney/wasabi-zen.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Olney
+seo:
+  name: "Wasabi Zen"
+  type: Restaurant
+  links: http://www.wasabizenjapanese.com/
+description: "Down-to-earth strip-mall establishment providing sushi & other Japanese eats, including bento boxes. Looking for sushi in Olney, Maryland? Check out Wasabi Z..."
 place_id: ChIJi3fdxRnRt4kR3odLRBhkZIw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 188
 website: http://www.wasabizenjapanese.com/
-description: >-
-  Down-to-earth strip-mall establishment providing sushi & other Japanese eats,
-  including bento boxes.
 reviews:
   - name: >-
       places/ChIJi3fdxRnRt4kR3odLRBhkZIw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRLWI2YUdnEAE
@@ -382,5 +384,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Down-to-earth strip-mall establishment providing sushi & other Japanese eats,
+  including bento boxes.
 
 ---

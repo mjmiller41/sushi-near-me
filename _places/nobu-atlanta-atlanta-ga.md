@@ -5,6 +5,11 @@ permalink: /georgia/atlanta/nobu-atlanta.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
+seo:
+  name: "Nobu Atlanta"
+  type: Restaurant
+  links: https://www.noburestaurants.com/atlanta/reservations/
+description: "Looking for sushi in Atlanta, Georgia? Check out Nobu Atlanta for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJB6y-jFAP9YgRKx_83w2FA4U
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '3.9'
 rating_count: 545
 website: https://www.noburestaurants.com/atlanta/reservations/
-description: null
 reviews:
   - name: >-
       places/ChIJB6y-jFAP9YgRKx_83w2FA4U/reviews/ChZDSUhNMG9nS0VJQ0FnTURBOV9pVEx3EAE
@@ -411,5 +415,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/houston/ye-s-ichiban-steakhouse-and-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "Ye's Ichiban Steakhouse and Sushi"
+  type: Restaurant
+  links: https://yesichibanjapanese.com/
+description: "Looking for sushi in Houston, Texas? Check out Ye's Ichiban Steakhouse and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJsa3Djy7RQIYR9SpOmWcHV8o
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 227
 website: https://yesichibanjapanese.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

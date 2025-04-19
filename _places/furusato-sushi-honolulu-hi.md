@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/furusato-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Furusato Sushi"
+  type: Restaurant
+  links: http://furusatosushi.net/
+description: "Looking for sushi in Honolulu, Hawaii? Check out Furusato Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJ7W9Vi3ZyAHwRa-vq1tf4CIc
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 1345
 website: http://furusatosushi.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

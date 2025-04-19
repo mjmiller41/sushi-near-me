@@ -5,6 +5,11 @@ permalink: /rhode-island/cranston/genji-sushi.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Cranston
+seo:
+  name: "Genji Sushi"
+  type: Restaurant
+  links: http://www.genjiweb.com/
+description: "Looking for sushi in Cranston, Rhode Island? Check out Genji Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJxzmsN8JO5IkRLYPj35DYBQY
 photos:
   - name: >-
@@ -60,7 +65,6 @@ price_range: null
 rating: '3.0'
 rating_count: 3
 website: http://www.genjiweb.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -87,5 +91,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

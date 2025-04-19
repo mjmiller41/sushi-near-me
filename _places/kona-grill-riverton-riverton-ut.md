@@ -5,6 +5,11 @@ permalink: /utah/riverton/kona-grill-riverton.html
 stateAbbr: UT
 stateName: Utah
 cityName: Riverton
+seo:
+  name: "Kona Grill - Riverton"
+  type: Restaurant
+  links: https://konagrill.com/locations?locations=Riverton,84096
+description: "Looking for sushi in Riverton, Utah? Check out Kona Grill - Riverton for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJoX1rVkuFUocRF8-glESUIwU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 3044
 website: https://konagrill.com/locations?locations=Riverton,84096
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

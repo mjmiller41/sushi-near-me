@@ -5,6 +5,11 @@ permalink: /montana/livingston/neptunes-taphouse-and-eatery.html
 stateAbbr: MT
 stateName: Montana
 cityName: Livingston
+seo:
+  name: "Neptunes Taphouse and Eatery"
+  type: Restaurant
+  links: https://neptunestaphouse.com/
+description: "Looking for sushi in Livingston, Montana? Check out Neptunes Taphouse and Eatery for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJ0yMJ0A17RVMRuRvt9PK8JuI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 984
 website: https://neptunestaphouse.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ0yMJ0A17RVMRuRvt9PK8JuI/reviews/ChdDSUhNMG9nS0VJQ0FnSURfOVlxVGhRRRAB
@@ -393,5 +397,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

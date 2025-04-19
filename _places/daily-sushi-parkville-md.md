@@ -5,6 +5,11 @@ permalink: /maryland/parkville/daily-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Parkville
+seo:
+  name: "Daily Sushi"
+  type: Restaurant
+  links: https://www.dailysushiyummy.com/
+description: "Looking for sushi in Parkville, Maryland? Check out Daily Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJKd9c-SoPyIkR80Uqx6xgte0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 356
 website: https://www.dailysushiyummy.com/
-description: null
 reviews:
   - name: >-
       places/ChIJKd9c-SoPyIkR80Uqx6xgte0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2aTQzX01REAE
@@ -416,5 +420,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

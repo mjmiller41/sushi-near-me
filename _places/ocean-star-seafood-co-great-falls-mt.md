@@ -5,6 +5,11 @@ permalink: /montana/great-falls/ocean-star-seafood-co.html
 stateAbbr: MT
 stateName: Montana
 cityName: Great Falls
+seo:
+  name: "Ocean Star Seafood Co"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Great Falls, Montana? Check out Ocean Star Seafood Co for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJc1taMQBJQlMRuKVAlHFfDy8
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

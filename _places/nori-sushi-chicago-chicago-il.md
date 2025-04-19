@@ -5,6 +5,11 @@ permalink: /illinois/chicago/nori-sushi-chicago.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Nori Sushi Chicago"
+  type: Restaurant
+  links: https://www.norichicago.com/menus/lakeview-menu
+description: "Creative rolls are served at this busy Japanese restaurant with a bring your own beverage policy. Looking for sushi in Chicago, Illinois? Check out Nori Sush..."
 place_id: ChIJ44ZvKQHTD4gRRr2X2NupaWc
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 270
 website: https://www.norichicago.com/menus/lakeview-menu
-description: >-
-  Creative rolls are served at this busy Japanese restaurant with a bring your
-  own beverage policy.
 reviews:
   - name: >-
       places/ChIJ44ZvKQHTD4gRRr2X2NupaWc/reviews/ChZDSUhNMG9nS0VJQ0FnSURYaXMtRlhnEAE
@@ -385,5 +387,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Creative rolls are served at this busy Japanese restaurant with a bring your
+  own beverage policy.
 
 ---

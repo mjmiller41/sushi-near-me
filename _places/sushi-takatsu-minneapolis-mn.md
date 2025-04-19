@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/sushi-takatsu.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "Sushi Takatsu"
+  type: Restaurant
+  links: null
+description: "Modest counter-serve standby serving Japanese bites including sushi, noodle soups & rice bowls. Looking for sushi in Minneapolis, Minnesota? Check out Sushi ..."
 place_id: ChIJZdv4Xpcys1IRYfc8uoIWoOs
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $1 &ndash; $10
 rating: '4.8'
 rating_count: 424
 website: null
-description: >-
-  Modest counter-serve standby serving Japanese bites including sushi, noodle
-  soups & rice bowls.
 reviews:
   - name: >-
       places/ChIJZdv4Xpcys1IRYfc8uoIWoOs/reviews/ChdDSUhNMG9nS0VJQ0FnSURmZzczVC1nRRAB
@@ -358,5 +360,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Modest counter-serve standby serving Japanese bites including sushi, noodle
+  soups & rice bowls.
 
 ---

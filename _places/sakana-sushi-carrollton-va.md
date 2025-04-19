@@ -5,6 +5,11 @@ permalink: /virginia/carrollton/sakana-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Carrollton
+seo:
+  name: "Sakana Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Carrollton, Virginia? Check out Sakana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJh9_EKxx0sIkRXKnwN9WRV7Y
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 389
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJh9_EKxx0sIkRXKnwN9WRV7Y/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3OFBPdTVBRRAB
@@ -371,5 +375,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /maryland/millersville/sushi-q3-millersville.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Millersville
+seo:
+  name: "Sushi Q3 Millersville"
+  type: Restaurant
+  links: http://www.sushiqmd.com/
+description: "Looking for sushi in Millersville, Maryland? Check out Sushi Q3 Millersville for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJebPYLVD7t4kR819qL7wprdE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 969
 website: http://www.sushiqmd.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

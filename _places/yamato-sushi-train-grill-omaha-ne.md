@@ -5,6 +5,11 @@ permalink: /nebraska/omaha/yamato-sushi-train-grill.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
+seo:
+  name: "Yamato Sushi Train & Grill"
+  type: Restaurant
+  links: https://yamatosushiomaha.com/
+description: "Looking for sushi in Omaha, Nebraska? Check out Yamato Sushi Train & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJv02H0QCNk4cR-KNFhXEnf4A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1022
 website: https://yamatosushiomaha.com/
-description: null
 reviews:
   - name: >-
       places/ChIJv02H0QCNk4cR-KNFhXEnf4A/reviews/ChZDSUhNMG9nS0VJQ0FnTURBcE52NkRBEAE
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

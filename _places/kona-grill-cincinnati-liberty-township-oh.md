@@ -5,6 +5,11 @@ permalink: /ohio/liberty-township/kona-grill-cincinnati.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Liberty Township
+seo:
+  name: "Kona Grill - Cincinnati"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Liberty Township, Ohio? Check out Kona Grill - Cincinnati for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJTbGT2D9aQIgR56dzMTBN5g8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

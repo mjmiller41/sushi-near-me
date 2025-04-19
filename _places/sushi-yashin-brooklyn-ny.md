@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/sushi-yashin.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Sushi Yashin"
+  type: Restaurant
+  links: https://www.sushiyashin.com/
+description: "Chill, compact spot offering sushi rolls & sashimi, plus chef's-choice & lunch specials. Looking for sushi in Brooklyn, New York? Check out Sushi Yashin for ..."
 place_id: ChIJSdgc3f1awokRq3dr7RS4D4g
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 245
 website: https://www.sushiyashin.com/
-description: >-
-  Chill, compact spot offering sushi rolls & sashimi, plus chef's-choice & lunch
-  specials.
 reviews:
   - name: >-
       places/ChIJSdgc3f1awokRq3dr7RS4D4g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNudlpTVThnRRAB
@@ -388,5 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Chill, compact spot offering sushi rolls & sashimi, plus chef's-choice & lunch
+  specials.
 
 ---

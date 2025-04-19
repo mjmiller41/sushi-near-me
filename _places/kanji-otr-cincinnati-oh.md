@@ -5,6 +5,11 @@ permalink: /ohio/cincinnati/kanji-otr.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+seo:
+  name: "Kanji OTR"
+  type: Restaurant
+  links: http://kanjiotr.com/
+description: "Looking for sushi in Cincinnati, Ohio? Check out Kanji OTR for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJhUrHtyuzQYgRC4P5fFGXVLo
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 476
 website: http://kanjiotr.com/
-description: null
 reviews:
   - name: >-
       places/ChIJhUrHtyuzQYgRC4P5fFGXVLo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmdjY3SE1nEAE
@@ -365,5 +369,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

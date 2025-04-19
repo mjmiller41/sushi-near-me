@@ -5,6 +5,11 @@ permalink: /texas/carrollton/sushi-kushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Carrollton
+seo:
+  name: "Sushi Kushi"
+  type: Restaurant
+  links: http://www.sushikushitx.com/
+description: "Looking for sushi in Carrollton, Texas? Check out Sushi Kushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJO0t9TlIlTIYRODAaLOsuIBw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 820
 website: http://www.sushikushitx.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

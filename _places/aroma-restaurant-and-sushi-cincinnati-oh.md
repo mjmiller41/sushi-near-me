@@ -5,6 +5,11 @@ permalink: /ohio/cincinnati/aroma-restaurant-and-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+seo:
+  name: "Aroma Restaurant and Sushi"
+  type: Restaurant
+  links: https://aromasushi.com/
+description: "Looking for sushi in Cincinnati, Ohio? Check out Aroma Restaurant and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJAQAAwD9TQIgRixhnv3Fs2_k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 1167
 website: https://aromasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/santa-maria/mi-gusto-es-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Maria
+seo:
+  name: "Mi Gusto Es Restaurant"
+  type: Restaurant
+  links: http://www.migustoesrestaurant.com/
+description: "Looking for sushi in Santa Maria, California? Check out Mi Gusto Es Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJH9zH54Nr7IAR1O1nNQOMtfg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.0'
 rating_count: 467
 website: http://www.migustoesrestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/sushi-ii.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Sushi ii"
+  type: Restaurant
+  links: https://www.facebook.com/Sushi-ii-169996469710932/
+description: "Looking for sushi in Honolulu, Hawaii? Check out Sushi ii for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJDYV3SO5tAHwRAopf32RelLc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 429
 website: https://www.facebook.com/Sushi-ii-169996469710932/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

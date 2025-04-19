@@ -5,6 +5,11 @@ permalink: /colorado/denver/sushi-train.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Sushi Train"
+  type: Restaurant
+  links: https://facebook.com/SushiTraindenver
+description: "Looking for sushi in Denver, Colorado? Check out Sushi Train for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJo3St02mHbIcR0xVZsKBxlLA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1356
 website: https://facebook.com/SushiTraindenver
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

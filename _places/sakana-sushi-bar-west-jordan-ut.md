@@ -5,6 +5,11 @@ permalink: /utah/west-jordan/sakana-sushi-bar.html
 stateAbbr: UT
 stateName: Utah
 cityName: West Jordan
+seo:
+  name: "Sakana Sushi Bar"
+  type: Restaurant
+  links: https://sakanasushibar.com/
+description: "Looking for sushi in West Jordan, Utah? Check out Sakana Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJ8xaiIumOUocRfLMbXRYjSzw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1097
 website: https://sakanasushibar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

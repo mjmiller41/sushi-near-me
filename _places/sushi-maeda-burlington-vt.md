@@ -5,6 +5,11 @@ permalink: /vermont/burlington/sushi-maeda.html
 stateAbbr: VT
 stateName: Vermont
 cityName: Burlington
+seo:
+  name: "Sushi Maeda"
+  type: Restaurant
+  links: http://www.sushimaedavt.com/
+description: "Looking for sushi in Burlington, Vermont? Check out Sushi Maeda for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJLVkd4YR7ykwRen8_sxO8JL0
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 147
 website: http://www.sushimaedavt.com/
-description: null
 reviews:
   - name: >-
       places/ChIJLVkd4YR7ykwRen8_sxO8JL0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqcGZUbEF3EAE
@@ -440,5 +444,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

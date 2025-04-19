@@ -5,6 +5,11 @@ permalink: /kentucky/lexington/ginger-wasabi-sushi-grill.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Lexington
+seo:
+  name: "Ginger Wasabi Sushi + Grill"
+  type: Restaurant
+  links: http://ilovegingerwasabi.com/
+description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Looking for sushi in Lexington, Kentucky? Check out Ginger Wasabi Su..."
 place_id: ChIJneLLQAFFQogRxNTawIsIMxY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 214
 website: http://ilovegingerwasabi.com/
-description: >-
-  Light-filled, modern chain branch serving up bento boxes, sushi and hot
-  Japanese dishes.
 reviews:
   - name: >-
       places/ChIJneLLQAFFQogRxNTawIsIMxY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOGYyeFBBEAE
@@ -433,5 +435,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Light-filled, modern chain branch serving up bento boxes, sushi and hot
+  Japanese dishes.
 
 ---

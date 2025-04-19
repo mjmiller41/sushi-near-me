@@ -5,6 +5,11 @@ permalink: /california/santa-cruz/sushi-totoro.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Cruz
+seo:
+  name: "Sushi Totoro"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Santa Cruz, California? Check out Sushi Totoro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJUanddH9qjoARNcPU0ywtggQ
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 387
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

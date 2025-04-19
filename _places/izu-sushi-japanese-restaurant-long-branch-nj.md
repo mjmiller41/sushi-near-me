@@ -5,6 +5,11 @@ permalink: /new-jersey/long-branch/izu-sushi-japanese-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Long Branch
+seo:
+  name: "Izu Sushi Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Long Branch, New Jersey? Check out Izu Sushi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJd49OPgIlwokRUcvx7t7FSU8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /utah/salt-lake-city/hamachi-sushi-bar.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
+seo:
+  name: "Hamachi Sushi Bar"
+  type: Restaurant
+  links: http://hamachisushibar.com/
+description: "Looking for sushi in Salt Lake City, Utah? Check out Hamachi Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJa2EtXHL1UocR97Fe6fMNgwQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 953
 website: http://hamachisushibar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

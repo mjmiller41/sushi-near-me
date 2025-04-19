@@ -5,6 +5,11 @@ permalink: /wyoming/gillette/china-king-buffet.html
 stateAbbr: WY
 stateName: Wyoming
 cityName: Gillette
+seo:
+  name: "China King Buffet"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Gillette, Wyoming? Check out China King Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJDYAHZCmUNFMREuse6hAxPOQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 576
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

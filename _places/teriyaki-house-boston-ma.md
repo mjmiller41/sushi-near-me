@@ -5,6 +5,11 @@ permalink: /massachusetts/boston/teriyaki-house.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
+seo:
+  name: "Teriyaki House"
+  type: Restaurant
+  links: http://www.teriyakihouse.info/
+description: "Looking for sushi in Boston, Massachusetts? Check out Teriyaki House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJa4NAAER744kR_N-8rev0cf0
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: $10 &ndash; $20
 rating: '3.1'
 rating_count: 203
 website: http://www.teriyakihouse.info/
-description: null
 reviews:
   - name: >-
       places/ChIJa4NAAER744kR_N-8rev0cf0/reviews/ChZDSUhNMG9nS0VJQ0FnTURRenFib0x3EAE
@@ -395,5 +399,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /colorado/lakewood/kazoku-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Lakewood
+seo:
+  name: "Kazoku Sushi"
+  type: Restaurant
+  links: https://www.kazokusushiorder.com/
+description: "Looking for sushi in Lakewood, Colorado? Check out Kazoku Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJH1bAY6KGa4cRoek_gcuo2cY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 668
 website: https://www.kazokusushiorder.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

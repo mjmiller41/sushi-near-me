@@ -5,6 +5,11 @@ permalink: /california/los-angeles/sweet-fish-sushi-bar-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Sweet Fish Sushi Bar & Restaurant"
+  type: Restaurant
+  links: https://www.sweetfishsushi.com/
+description: "Looking for sushi in Los Angeles, California? Check out Sweet Fish Sushi Bar & Restaurant for a delightful Japanese dining experience. Enjoy a variety of sus..."
 place_id: ChIJI2ylGpqwwoARXf8ekhARgn8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 222
 website: https://www.sweetfishsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

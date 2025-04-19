@@ -5,6 +5,11 @@ permalink: /california/pleasant-hill/damo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Pleasant Hill
+seo:
+  name: "Damo Sushi"
+  type: Restaurant
+  links: https://damosushipleasanthill.com/
+description: "Looking for sushi in Pleasant Hill, California? Check out Damo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJT6kKEpFmhYARSykyQc1xdvc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 266
 website: https://damosushipleasanthill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

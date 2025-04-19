@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/ru-san-s.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "Ru San's"
+  type: Restaurant
+  links: http://www.rusans.com/
+description: "Casual Japanese eatery with a large menu including yakitori, creative sushi rolls & seafood. Looking for sushi in Charlotte, North Carolina? Check out Ru San..."
 place_id: ChIJM1LSIKCfVogRYMBZFPBlvnU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 2775
 website: http://www.rusans.com/
-description: >-
-  Casual Japanese eatery with a large menu including yakitori, creative sushi
-  rolls & seafood.
 reviews:
   - name: >-
       places/ChIJM1LSIKCfVogRYMBZFPBlvnU/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2eWRDTDhBRRAB
@@ -367,5 +369,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual Japanese eatery with a large menu including yakitori, creative sushi
+  rolls & seafood.
 
 ---

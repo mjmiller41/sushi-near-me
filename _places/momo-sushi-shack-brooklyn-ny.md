@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/momo-sushi-shack.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Momo Sushi Shack"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Brooklyn, New York? Check out Momo Sushi Shack for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ34aX5gBcwokREbremOF3FIY
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

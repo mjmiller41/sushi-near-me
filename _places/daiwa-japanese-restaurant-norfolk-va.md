@@ -5,6 +5,11 @@ permalink: /virginia/norfolk/daiwa-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Norfolk
+seo:
+  name: "Daiwa Japanese Restaurant"
+  type: Restaurant
+  links: https://www.daiwasushihibachi.com/
+description: "Looking for sushi in Norfolk, Virginia? Check out Daiwa Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJocpUnqObuokRiUa-HeIHxno
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 289
 website: https://www.daiwasushihibachi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJocpUnqObuokRiUa-HeIHxno/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3cWNDNkJREAE
@@ -364,5 +368,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

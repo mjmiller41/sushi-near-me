@@ -5,6 +5,11 @@ permalink: /california/san-jose/sushi-boat-town.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Sushi Boat Town"
+  type: Restaurant
+  links: https://sushiboattown.menu11.com/
+description: "Looking for sushi in San Jose, California? Check out Sushi Boat Town for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJ5UYp6KQvjoAR8rH1Xa5Vn4s
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 414
 website: https://sushiboattown.menu11.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

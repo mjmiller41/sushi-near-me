@@ -5,6 +5,11 @@ permalink: /california/san-diego/little-sakana-all-you-can-eat-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Little Sakana All You Can Eat Sushi"
+  type: Restaurant
+  links: https://www.littlesakana.com/
+description: "Airy outpost offering a la carte & all-you-can-eat options for Japanese fare, plus sake & cocktails. Looking for sushi in San Diego, California? Check out Li..."
 place_id: ChIJsVfULDT524ARZEiOpgSLZBA
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 1163
 website: https://www.littlesakana.com/
-description: >-
-  Airy outpost offering a la carte & all-you-can-eat options for Japanese fare,
-  plus sake & cocktails.
 reviews:
   - name: >-
       places/ChIJsVfULDT524ARZEiOpgSLZBA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRb2Q2UWlRRRAB
@@ -570,5 +572,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Airy outpost offering a la carte & all-you-can-eat options for Japanese fare,
+  plus sake & cocktails.
 
 ---

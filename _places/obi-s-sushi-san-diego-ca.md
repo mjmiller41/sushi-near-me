@@ -5,6 +5,11 @@ permalink: /california/san-diego/obi-s-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Obi's Sushi"
+  type: Restaurant
+  links: http://www.obissushi.com/
+description: "Looking for sushi in San Diego, California? Check out Obi's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJF0ZiaCj-24ARDlcIdjz2-kA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 259
 website: http://www.obissushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJF0ZiaCj-24ARDlcIdjz2-kA/reviews/ChZDSUhNMG9nS0VJQ0FnSURiNmVmSE9REAE
@@ -395,5 +399,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

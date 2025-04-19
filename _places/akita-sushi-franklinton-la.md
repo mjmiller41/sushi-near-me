@@ -5,6 +5,11 @@ permalink: /louisiana/franklinton/akita-sushi.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Franklinton
+seo:
+  name: "Akita Sushi"
+  type: Restaurant
+  links: https://www.akitasushila.com/3bby5tpw/restaurant/order-online
+description: "Looking for sushi in Franklinton, Louisiana? Check out Akita Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJ7aQh2353J4YRebFeYH98udU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 301
 website: https://www.akitasushila.com/3bby5tpw/restaurant/order-online
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

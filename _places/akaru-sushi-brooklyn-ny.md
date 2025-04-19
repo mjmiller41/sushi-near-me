@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/akaru-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Akaru Sushi"
+  type: Restaurant
+  links: http://www.akarusushi.com/
+description: "Compact sushi joint in a subdued, exposed-brick space serving creative rolls & Japanese mains. Looking for sushi in Brooklyn, New York? Check out Akaru Sushi..."
 place_id: ChIJs5wt5h5cwokRIvxftd3N908
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 296
 website: http://www.akarusushi.com/
-description: >-
-  Compact sushi joint in a subdued, exposed-brick space serving creative rolls &
-  Japanese mains.
 reviews:
   - name: >-
       places/ChIJs5wt5h5cwokRIvxftd3N908/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cDYtTHdnRRAB
@@ -357,5 +359,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Compact sushi joint in a subdued, exposed-brick space serving creative rolls &
+  Japanese mains.
 
 ---

@@ -5,6 +5,11 @@ permalink: /alabama/mobile/rice-asian-grill-sushi-bar.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Mobile
+seo:
+  name: "Rice Asian Grill & Sushi Bar"
+  type: Restaurant
+  links: https://riceasiangrilltogo.com/
+description: "Looking for sushi in Mobile, Alabama? Check out Rice Asian Grill & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJ3e7zT-5MmogRWzbj3jdGrLE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 512
 website: https://riceasiangrilltogo.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ3e7zT-5MmogRWzbj3jdGrLE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOHNyQ0RnEAE
@@ -490,5 +494,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

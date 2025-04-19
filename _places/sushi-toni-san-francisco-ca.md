@@ -5,6 +5,11 @@ permalink: /california/san-francisco/sushi-toni.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Sushi Toni"
+  type: Restaurant
+  links: https://order.online/business/sushi-toni-4041
+description: "Sushi, sashimi & hot Japanese dishes plus sake in a brightly painted room with bar & table seating. Looking for sushi in San Francisco, California? Check out..."
 place_id: ChIJUQVBLoyAhYARJFEwb5F0cjE
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 590
 website: https://order.online/business/sushi-toni-4041
-description: >-
-  Sushi, sashimi & hot Japanese dishes plus sake in a brightly painted room with
-  bar & table seating.
 reviews:
   - name: >-
       places/ChIJUQVBLoyAhYARJFEwb5F0cjE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReV96cmdnRRAB
@@ -357,5 +359,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, sashimi & hot Japanese dishes plus sake in a brightly painted room with
+  bar & table seating.
 
 ---

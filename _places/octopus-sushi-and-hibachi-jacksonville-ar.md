@@ -5,6 +5,11 @@ permalink: /arkansas/jacksonville/octopus-sushi-and-hibachi.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Jacksonville
+seo:
+  name: "Octopus sushi and hibachi"
+  type: Restaurant
+  links: https://www.octopussushihibachi.com/
+description: "Looking for sushi in Jacksonville, Arkansas? Check out Octopus sushi and hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJ3XtXkIDr0ocRObpZb4RVpK8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 225
 website: https://www.octopussushihibachi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

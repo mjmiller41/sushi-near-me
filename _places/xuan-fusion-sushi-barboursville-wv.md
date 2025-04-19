@@ -5,6 +5,11 @@ permalink: /west-virginia/barboursville/xuan-fusion-sushi.html
 stateAbbr: WV
 stateName: West Virginia
 cityName: Barboursville
+seo:
+  name: "Xuan Fusion Sushi"
+  type: Restaurant
+  links: https://xuanfusionsushitogo.com/
+description: "Looking for sushi in Barboursville, West Virginia? Check out Xuan Fusion Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJzf346XcHRogR_3h3WE0ZAZc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 150
 website: https://xuanfusionsushitogo.com/
-description: null
 reviews:
   - name: >-
       places/ChIJzf346XcHRogR_3h3WE0ZAZc/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2OVpqVklnEAE
@@ -352,5 +356,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

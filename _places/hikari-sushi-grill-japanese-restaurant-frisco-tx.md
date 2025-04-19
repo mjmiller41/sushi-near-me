@@ -5,6 +5,11 @@ permalink: /texas/frisco/hikari-sushi-grill-japanese-restaurant.html
 stateAbbr: TX
 stateName: Texas
 cityName: Frisco
+seo:
+  name: "Hikari Sushi & Grill Japanese Restaurant"
+  type: Restaurant
+  links: https://www.myhikarisushi.com/
+description: "Looking for sushi in Frisco, Texas? Check out Hikari Sushi & Grill Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJGxuEcfk7TIYRHJSYRQN_Llw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 831
 website: https://www.myhikarisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

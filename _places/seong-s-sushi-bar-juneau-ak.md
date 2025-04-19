@@ -5,6 +5,11 @@ permalink: /alaska/juneau/seong-s-sushi-bar.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Juneau
+seo:
+  name: "Seong's Sushi Bar"
+  type: Restaurant
+  links: http://www.seongssushi.com/
+description: "Looking for sushi in Juneau, Alaska? Check out Seong's Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJmUHKeYbfAFQRVMBL-u6A5R8
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: '4.6'
 rating_count: 223
 website: http://www.seongssushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

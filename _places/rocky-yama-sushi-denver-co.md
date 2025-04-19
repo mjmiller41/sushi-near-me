@@ -5,6 +5,11 @@ permalink: /colorado/denver/rocky-yama-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Rocky Yama Sushi"
+  type: Restaurant
+  links: http://rockyyamasushi.com/
+description: "Looking for sushi in Denver, Colorado? Check out Rocky Yama Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJ07g_vgl_bIcRNkAPTgdepzw
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 621
 website: http://rockyyamasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

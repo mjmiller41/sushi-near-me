@@ -5,6 +5,11 @@ permalink: /florida/new-port-richey/zen-kitchen-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: New Port Richey
+seo:
+  name: "ZEN Kitchen & Bar"
+  type: Restaurant
+  links: https://zenkitchenandbar.com/?utm_source=google
+description: "Looking for sushi in New Port Richey, Florida? Check out ZEN Kitchen & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJefpAhamRwogRI8Q5oz4h33Y
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 464
 website: https://zenkitchenandbar.com/?utm_source=google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/astoria/junko-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Astoria
+seo:
+  name: "Junko Sushi"
+  type: Restaurant
+  links: https://www.junkosushi-astoria.com/?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Astoria, New York? Check out Junko Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJmzOcKQxfwokRReun14IvXz4
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 22
 website: https://www.junkosushi-astoria.com/?utm_source=gmb&utm_medium=website
-description: null
 reviews:
   - name: >-
       places/ChIJmzOcKQxfwokRReun14IvXz4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJaDczTXNRRRAB
@@ -368,5 +372,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

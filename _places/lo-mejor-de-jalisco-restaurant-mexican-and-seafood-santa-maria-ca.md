@@ -5,6 +5,11 @@ permalink: /california/santa-maria/lo-mejor-de-jalisco-restaurant-mexican-and-se
 stateAbbr: CA
 stateName: California
 cityName: Santa Maria
+seo:
+  name: "Lo Mejor De Jalisco Restaurant Mexican And Seafood"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Santa Maria, California? Check out Lo Mejor De Jalisco Restaurant Mexican And Seafood for a delightful Japanese dining experience. Enjoy..."
 place_id: ChIJmf2BZJlr7IARKn9NvrY_FT0
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 546
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /north-carolina/greensboro/baobao-kitchen.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
+seo:
+  name: "BaoBao Kitchen"
+  type: Restaurant
+  links: https://baobaokitchen.com/?utm_source=google
+description: "Looking for sushi in Greensboro, North Carolina? Check out BaoBao Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJa7s-JV4fU4gR1F6jtYxEq1k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 244
 website: https://baobaokitchen.com/?utm_source=google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

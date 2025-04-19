@@ -5,6 +5,11 @@ permalink: /california/santa-monica/kappo-miyabi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
+seo:
+  name: "Kappo Miyabi"
+  type: Restaurant
+  links: http://kappomiyabisantamonica.com/
+description: "Looking for sushi in Santa Monica, California? Check out Kappo Miyabi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJRcW0Y7WlwoAR6AK2Zv9QpEk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 340
 website: http://kappomiyabisantamonica.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /south-carolina/charleston/locals-sushi-sports-pub-west-ashley.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Charleston
+seo:
+  name: "Locals Sushi & Sports Pub - West Ashley"
+  type: Restaurant
+  links: http://www.localssushi.com/
+description: "Looking for sushi in Charleston, South Carolina? Check out Locals Sushi & Sports Pub - West Ashley for a delightful Japanese dining experience. Enjoy a varie..."
 place_id: ChIJ6R2WXq97_ogRzqxo5MBMfEQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 853
 website: http://www.localssushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

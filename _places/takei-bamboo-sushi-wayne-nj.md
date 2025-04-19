@@ -5,6 +5,11 @@ permalink: /new-jersey/wayne/takei-bamboo-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Wayne
+seo:
+  name: "Takei Bamboo Sushi"
+  type: Restaurant
+  links: http://bambootakeisushi.com/
+description: "Looking for sushi in Wayne, New Jersey? Check out Takei Bamboo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJjxhRc9UDw4kRqD55tRyxGQc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 121
 website: http://bambootakeisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJjxhRc9UDw4kRqD55tRyxGQc/reviews/ChZDSUhNMG9nS0VJQ0FnSURyNEphNmN3EAE
@@ -411,5 +415,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

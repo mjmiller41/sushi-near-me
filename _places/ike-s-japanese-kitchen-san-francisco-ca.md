@@ -5,6 +5,11 @@ permalink: /california/san-francisco/ike-s-japanese-kitchen.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Ike's Japanese Kitchen"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Francisco, California? Check out Ike's Japanese Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJkaNdBZeAhYARMYOh91wB560
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: '4.6'
 rating_count: 187
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

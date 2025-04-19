@@ -5,6 +5,11 @@ permalink: /arizona/phoenix/ginban-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
+seo:
+  name: "Ginban Sushi"
+  type: Restaurant
+  links: http://www.ginbansushiphoenix.com/
+description: "Looking for sushi in Phoenix, Arizona? Check out Ginban Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJqbfHx2EEK4cR-ye4bCvIHfk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 328
 website: http://www.ginbansushiphoenix.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

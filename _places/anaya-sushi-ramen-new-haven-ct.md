@@ -5,6 +5,11 @@ permalink: /connecticut/new-haven/anaya-sushi-ramen.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Haven
+seo:
+  name: "Anaya Sushi & Ramen"
+  type: Restaurant
+  links: https://www.orderanayact.com/
+description: "Looking for sushi in New Haven, Connecticut? Check out Anaya Sushi & Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJ5ydNwLLZ54kR3PKhEdmkceE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '3.6'
 rating_count: 255
 website: https://www.orderanayact.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

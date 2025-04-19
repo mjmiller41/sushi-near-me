@@ -5,6 +5,11 @@ permalink: /arkansas/north-little-rock/rock-n-roll-sushi.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: North Little Rock
+seo:
+  name: "Rock N Roll Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in North Little Rock, Arkansas? Check out Rock N Roll Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJ3UIebKK90ocRTIk1nxBmr50
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

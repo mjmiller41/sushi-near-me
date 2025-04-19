@@ -5,6 +5,11 @@ permalink: /north-carolina/durham/m-kokko.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Durham
+seo:
+  name: "M Kokko"
+  type: Restaurant
+  links: https://www.m-restaurants.com/m-kokko
+description: "Looking for sushi in Durham, North Carolina? Check out M Kokko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJbSVVF3LkrIkRbrlb1t94cMI
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 846
 website: https://www.m-restaurants.com/m-kokko
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

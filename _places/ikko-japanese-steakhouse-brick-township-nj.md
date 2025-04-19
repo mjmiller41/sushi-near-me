@@ -5,6 +5,11 @@ permalink: /new-jersey/brick-township/ikko-japanese-steakhouse.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Brick Township
+seo:
+  name: "Ikko Japanese Steakhouse"
+  type: Restaurant
+  links: http://www.ikkosteakhouse.com/
+description: "Japanese fixture with hibachi chefs grilling tabletop & a sushi menu with specialty rolls. Looking for sushi in Brick Township, New Jersey? Check out Ikko Ja..."
 place_id: ChIJUcdtlnaDwYkRnIBpqoeOC0k
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 1253
 website: http://www.ikkosteakhouse.com/
-description: >-
-  Japanese fixture with hibachi chefs grilling tabletop & a sushi menu with
-  specialty rolls.
 reviews:
   - name: >-
       places/ChIJUcdtlnaDwYkRnIBpqoeOC0k/reviews/ChdDSUhNMG9nS0VJQ0FnSURQM2YtNmdRRRAB
@@ -374,5 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Japanese fixture with hibachi chefs grilling tabletop & a sushi menu with
+  specialty rolls.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/los-angeles/totoyama-sushi-ramen-hollywood.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Totoyama Sushi & Ramen Hollywood"
+  type: Restaurant
+  links: https://www.totoyamasushi.com/
+description: "Compact option for sushi, ramen, Japanese classics or an omakase tasting menu with beer & wine. Looking for sushi in Los Angeles, California? Check out Totoy..."
 place_id: ChIJJetq1HG_woAR0TzOtLw6fK8
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 518
 website: https://www.totoyamasushi.com/
-description: >-
-  Compact option for sushi, ramen, Japanese classics or an omakase tasting menu
-  with beer & wine.
 reviews:
   - name: >-
       places/ChIJJetq1HG_woAR0TzOtLw6fK8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNDlTbVJ3EAE
@@ -455,5 +457,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Compact option for sushi, ramen, Japanese classics or an omakase tasting menu
+  with beer & wine.
 
 ---

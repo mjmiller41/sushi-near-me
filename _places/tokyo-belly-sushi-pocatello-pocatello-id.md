@@ -5,6 +5,11 @@ permalink: /idaho/pocatello/tokyo-belly-sushi-pocatello.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Pocatello
+seo:
+  name: "Tokyo Belly Sushi Pocatello"
+  type: Restaurant
+  links: https://tokyobelly-pocatello.com/
+description: "Looking for sushi in Pocatello, Idaho? Check out Tokyo Belly Sushi Pocatello for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJbfEd1lBPVVMR-3fJEwAf36U
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 329
 website: https://tokyobelly-pocatello.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

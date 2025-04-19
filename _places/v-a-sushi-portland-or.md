@@ -5,6 +5,11 @@ permalink: /oregon/portland/v-a-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
+seo:
+  name: "V&A Sushi"
+  type: Restaurant
+  links: https://www.vnasushi.net/
+description: "Looking for sushi in Portland, Oregon? Check out V&A Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJb9Xb2nOhlVQRLH1oGt7RfKI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 215
 website: https://www.vnasushi.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

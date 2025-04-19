@@ -5,6 +5,11 @@ permalink: /florida/winter-garden/bento-winter-garden.html
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Garden
+seo:
+  name: "BENTO Winter Garden"
+  type: Restaurant
+  links: https://eatatbento.com/locations/plant-street-market/?utm_source=gbp&utm_medium=website-button&utm_campaign=winter-garden-gbp
+description: "Looking for sushi in Winter Garden, Florida? Check out BENTO Winter Garden for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJ5anqxNeD54gRv5UOanLlXNA
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '3.6'
 rating_count: 61
 website: >-
   https://eatatbento.com/locations/plant-street-market/?utm_source=gbp&utm_medium=website-button&utm_campaign=winter-garden-gbp
-description: null
 reviews:
   - name: >-
       places/ChIJ5anqxNeD54gRv5UOanLlXNA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnc3YyMFh3EAE
@@ -495,5 +499,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

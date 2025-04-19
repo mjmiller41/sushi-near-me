@@ -5,6 +5,11 @@ permalink: /montana/bozeman/yo-poke-fusion.html
 stateAbbr: MT
 stateName: Montana
 cityName: Bozeman
+seo:
+  name: "Yo Poké Fusion"
+  type: Restaurant
+  links: http://www.yopokefusion.com/
+description: "Looking for sushi in Bozeman, Montana? Check out Yo Poké Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJkTAggdVFRVMRy_irvYKBDmM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 158
 website: http://www.yopokefusion.com/
-description: null
 reviews:
   - name: >-
       places/ChIJkTAggdVFRVMRy_irvYKBDmM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKNzZDR2VBEAE
@@ -468,5 +472,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

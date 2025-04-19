@@ -5,6 +5,11 @@ permalink: /ohio/cincinnati/embers-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+seo:
+  name: "Embers Restaurant"
+  type: Restaurant
+  links: http://www.embersrestaurant.com/
+description: "A warm & polished spot offering upscale surf 'n' turf & sushi as well as a happy-hour menu. Looking for sushi in Cincinnati, Ohio? Check out Embers Restauran..."
 place_id: ChIJhYjua0JTQIgRR0URtswNntM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 966
 website: http://www.embersrestaurant.com/
-description: >-
-  A warm & polished spot offering upscale surf 'n' turf & sushi as well as a
-  happy-hour menu.
 reviews:
   - name: >-
       places/ChIJhYjua0JTQIgRR0URtswNntM/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3eEtIQUxBEAE
@@ -406,5 +408,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  A warm & polished spot offering upscale surf 'n' turf & sushi as well as a
+  happy-hour menu.
 
 ---

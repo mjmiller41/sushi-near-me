@@ -5,6 +5,11 @@ permalink: /new-jersey/hoboken/ayame-hibachi-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hoboken
+seo:
+  name: "Ayame Hibachi & Sushi"
+  type: Restaurant
+  links: http://www.ayamehibachisushi.com/
+description: "Fresh, Japanese eatery with a sushi bar & separate area for hibachi shows, plus outdoor seating. Looking for sushi in Hoboken, New Jersey? Check out Ayame Hi..."
 place_id: ChIJ-wC48t9ZwokRb_rGklxqhuY
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: null
 rating: '4.0'
 rating_count: 359
 website: http://www.ayamehibachisushi.com/
-description: >-
-  Fresh, Japanese eatery with a sushi bar & separate area for hibachi shows,
-  plus outdoor seating.
 reviews:
   - name: >-
       places/ChIJ-wC48t9ZwokRb_rGklxqhuY/reviews/ChZDSUhNMG9nS0VJQ0FnTURnMjV5c0tnEAE
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Fresh, Japanese eatery with a sushi bar & separate area for hibachi shows,
+  plus outdoor seating.
 
 ---

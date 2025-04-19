@@ -5,6 +5,11 @@ permalink: /virginia/charlottesville/m-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
+seo:
+  name: "M Sushi"
+  type: Restaurant
+  links: http://msushiva.com/
+description: "Contemporary Japanese eatery with a casual ambiance known for all-you-can-eat sushi. Looking for sushi in Charlottesville, Virginia? Check out M Sushi for a ..."
 place_id: ChIJIxZkQd2Hs4kRTTEB-8XJHvk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 1086
 website: http://msushiva.com/
-description: >-
-  Contemporary Japanese eatery with a casual ambiance known for all-you-can-eat
-  sushi.
 reviews:
   - name: >-
       places/ChIJIxZkQd2Hs4kRTTEB-8XJHvk/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzZ2F2SXdBRRAB
@@ -441,5 +443,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Contemporary Japanese eatery with a casual ambiance known for all-you-can-eat
+  sushi.
 
 ---

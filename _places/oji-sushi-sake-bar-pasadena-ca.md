@@ -5,6 +5,11 @@ permalink: /california/pasadena/oji-sushi-sake-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Pasadena
+seo:
+  name: "Oji Sushi & Sake Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Pasadena, California? Check out Oji Sushi & Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJg-j447zDwoARfEt58udQ7Ec
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

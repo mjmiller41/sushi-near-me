@@ -5,6 +5,11 @@ permalink: /new-york/new-york/nara-sushi-kumo.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Nara Sushi/Kumo"
+  type: Restaurant
+  links: http://narasushi76.com/
+description: "Straightforward, cozy restaurant with classic sushi & sashimi offerings, plus teriyaki & tempura. Looking for sushi in New York, New York? Check out Nara Sus..."
 place_id: ChIJ2RlwJAJbwokR0Eb2TdnRAIU
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 337
 website: http://narasushi76.com/
-description: >-
-  Straightforward, cozy restaurant with classic sushi & sashimi offerings, plus
-  teriyaki & tempura.
 reviews:
   - name: >-
       places/ChIJ2RlwJAJbwokR0Eb2TdnRAIU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcnN5SEZnEAE
@@ -461,5 +463,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Straightforward, cozy restaurant with classic sushi & sashimi offerings, plus
+  teriyaki & tempura.
 
 ---

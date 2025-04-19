@@ -5,6 +5,11 @@ permalink: /florida/miami/zz-s-club-miami.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
+seo:
+  name: "ZZ's Club Miami"
+  type: Restaurant
+  links: https://zzsclub.com/?utm_medium=Click&utm_source=GoogleMyBusiness
+description: "Looking for sushi in Miami, Florida? Check out ZZ's Club Miami for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJs7ptcSix2YgRV8Ptx4caiVE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 95
 website: https://zzsclub.com/?utm_medium=Click&utm_source=GoogleMyBusiness
-description: null
 reviews:
   - name: >-
       places/ChIJs7ptcSix2YgRV8Ptx4caiVE/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MU9Uc0NnEAE
@@ -360,5 +364,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: null
+summary: null
 
 ---

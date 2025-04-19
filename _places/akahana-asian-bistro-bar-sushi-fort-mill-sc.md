@@ -5,6 +5,11 @@ permalink: /south-carolina/fort-mill/akahana-asian-bistro-bar-sushi.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Fort Mill
+seo:
+  name: "Akahana Asian Bistro Bar & Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Fort Mill, South Carolina? Check out Akahana Asian Bistro Bar & Sushi for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJA3O8BWuFVogRyDpOXzXRM2k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

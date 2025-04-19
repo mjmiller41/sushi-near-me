@@ -5,6 +5,11 @@ permalink: /california/san-jose/sanraku.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Sanraku"
+  type: Restaurant
+  links: http://www.sanraku.com/
+description: "Looking for sushi in San Jose, California? Check out Sanraku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJh3U4FNYzjoAR5GxY75e8X6A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 575
 website: http://www.sanraku.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

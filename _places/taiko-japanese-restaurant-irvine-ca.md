@@ -5,6 +5,11 @@ permalink: /california/irvine/taiko-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Irvine
+seo:
+  name: "Taiko Japanese Restaurant"
+  type: Restaurant
+  links: http://www.taikooc.com/
+description: "Generous portions of carefully sourced Japanese cuisine including seafood star at this small spot. Looking for sushi in Irvine, California? Check out Taiko J..."
 place_id: ChIJBcbCJB3d3IARI4jfyaHaUhQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 930
 website: http://www.taikooc.com/
-description: >-
-  Generous portions of carefully sourced Japanese cuisine including seafood star
-  at this small spot.
 reviews:
   - name: >-
       places/ChIJBcbCJB3d3IARI4jfyaHaUhQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bnMybE1BEAE
@@ -384,5 +386,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Generous portions of carefully sourced Japanese cuisine including seafood star
+  at this small spot.
 
 ---

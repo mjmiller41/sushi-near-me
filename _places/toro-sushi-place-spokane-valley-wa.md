@@ -5,6 +5,11 @@ permalink: /washington/spokane-valley/toro-sushi-place.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane Valley
+seo:
+  name: "Toro Sushi Place"
+  type: Restaurant
+  links: https://www.facebook.com/torosushispokane/
+description: "Looking for sushi in Spokane Valley, Washington? Check out Toro Sushi Place for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJI7iql4TfYVMRNWjnv1AP4_Y
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 893
 website: https://www.facebook.com/torosushispokane/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

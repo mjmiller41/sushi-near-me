@@ -5,6 +5,11 @@ permalink: /montana/kalispell/blue-samurai-sushi-bar-grill.html
 stateAbbr: MT
 stateName: Montana
 cityName: Kalispell
+seo:
+  name: "Blue Samurai Sushi Bar & Grill"
+  type: Restaurant
+  links: https://www.bluesamuraimt.com/
+description: "Modern setting for Japanese appetizers, sushi & rolls including vegan options & some noodles. Looking for sushi in Kalispell, Montana? Check out Blue Samurai..."
 place_id: ChIJDdd21MFQZlMRzgG5Imd2kx4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 702
 website: https://www.bluesamuraimt.com/
-description: >-
-  Modern setting for Japanese appetizers, sushi & rolls including vegan options
-  & some noodles.
 reviews:
   - name: >-
       places/ChIJDdd21MFQZlMRzgG5Imd2kx4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJeWNicHNnRRAB
@@ -401,5 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern setting for Japanese appetizers, sushi & rolls including vegan options
+  & some noodles.
 
 ---

@@ -5,6 +5,11 @@ permalink: /washington/lynnwood/bittyfish-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Lynnwood
+seo:
+  name: "BittyFish Sushi"
+  type: Restaurant
+  links: http://www.bittyfishsushi.com/
+description: "Looking for sushi in Lynnwood, Washington? Check out BittyFish Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJtT4oP_EFkFQRlaMRUl7KYoE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 689
 website: http://www.bittyfishsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /virginia/arlington/bluefish-bistro.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+seo:
+  name: "Bluefish Bistro"
+  type: Restaurant
+  links: https://www.bluefishbistro.com/
+description: "Looking for sushi in Arlington, Virginia? Check out Bluefish Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJwxXo2-O1t4kR2ivrTvS1II4
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $30 &ndash; $50
 rating: '4.9'
 rating_count: 109
 website: https://www.bluefishbistro.com/
-description: null
 reviews:
   - name: >-
       places/ChIJwxXo2-O1t4kR2ivrTvS1II4/reviews/ChZDSUhNMG9nS0VJQ0FnSURuLWFiYmFBEAE
@@ -424,5 +428,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

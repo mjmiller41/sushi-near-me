@@ -5,6 +5,11 @@ permalink: /new-york/north-babylon/sushi-thai-express.html
 stateAbbr: NY
 stateName: New York
 cityName: North Babylon
+seo:
+  name: "Sushi & Thai Express"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in North Babylon, New York? Check out Sushi & Thai Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJY2R17gAt6IkRovScWpP-17w
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

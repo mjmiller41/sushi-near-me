@@ -5,6 +5,11 @@ permalink: /california/los-angeles/kino-sushi-ramen.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Kino Sushi & Ramen"
+  type: Restaurant
+  links: http://www.kinosushihollywood.com/
+description: "Looking for sushi in Los Angeles, California? Check out Kino Sushi & Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJ_4YbcCO_woAR_-4U1EBfnmE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 669
 website: http://www.kinosushihollywood.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

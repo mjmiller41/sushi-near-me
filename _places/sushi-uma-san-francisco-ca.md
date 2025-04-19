@@ -5,6 +5,11 @@ permalink: /california/san-francisco/sushi-uma.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Sushi Uma"
+  type: Restaurant
+  links: https://www.thesushiuma.com/
+description: "Looking for sushi in San Francisco, California? Check out Sushi Uma for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ4ShgGXCHhYAR1UMjouhlWdw
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '3.7'
 rating_count: 162
 website: https://www.thesushiuma.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ4ShgGXCHhYAR1UMjouhlWdw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3akxPTVdnEAE
@@ -387,5 +391,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

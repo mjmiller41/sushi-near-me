@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/nobu-washington-d-c.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Nobu Washington D.C."
+  type: Restaurant
+  links: https://www.noburestaurants.com/washingtondc/home/?utm_source=google&utm_medium=Yext
+description: "Celebrated, Japanese-Peruvian dining in urbane luxury, with a bar/lounge for high-end conviviality. Looking for sushi in Washington, District of Columbia? Ch..."
 place_id: ChIJwdbx_rS3t4kRJ3t9EgT3ZeU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ rating: '4.1'
 rating_count: 764
 website: >-
   https://www.noburestaurants.com/washingtondc/home/?utm_source=google&utm_medium=Yext
-description: >-
-  Celebrated, Japanese-Peruvian dining in urbane luxury, with a bar/lounge for
-  high-end conviviality.
 reviews:
   - name: >-
       places/ChIJwdbx_rS3t4kRJ3t9EgT3ZeU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMW9fYV9nRRAB
@@ -423,5 +425,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Celebrated, Japanese-Peruvian dining in urbane luxury, with a bar/lounge for
+  high-end conviviality.
 
 ---

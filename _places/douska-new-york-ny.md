@@ -5,6 +5,11 @@ permalink: /new-york/new-york/douska.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Douska"
+  type: Restaurant
+  links: null
+description: "Snug spot for hand rolls & make-your-own platters plus omakase menus. Looking for sushi in New York, New York? Check out Douska for a delightful Japanese din..."
 place_id: ChIJN2P817hZwokRy8cUeMS_ETk
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 241
 website: null
-description: Snug spot for hand rolls & make-your-own platters plus omakase menus.
 reviews:
   - name: >-
       places/ChIJN2P817hZwokRy8cUeMS_ETk/reviews/ChZDSUhNMG9nS0VJQ0FnSURfeS1LcEFREAE
@@ -381,5 +385,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: Snug spot for hand rolls & make-your-own platters plus omakase menus.
 
 ---

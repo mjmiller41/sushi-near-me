@@ -5,6 +5,11 @@ permalink: /california/woodland-hills/tomoya-sushi-izakaya.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
+seo:
+  name: "Tomoya Sushi & Izakaya"
+  type: Restaurant
+  links: https://tomoyausa.com/?utm_source=google
+description: "Lively, modern eatery featuring an extensive menu of creative sushi, cooked Japanese fare & sake. Looking for sushi in Woodland Hills, California? Check out ..."
 place_id: ChIJecApyqaewoARvLHyyK-qNnU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 613
 website: https://tomoyausa.com/?utm_source=google
-description: >-
-  Lively, modern eatery featuring an extensive menu of creative sushi, cooked
-  Japanese fare & sake.
 reviews:
   - name: >-
       places/ChIJecApyqaewoARvLHyyK-qNnU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfa0lIc2hBRRAB
@@ -404,5 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Lively, modern eatery featuring an extensive menu of creative sushi, cooked
+  Japanese fare & sake.
 
 ---

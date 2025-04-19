@@ -5,6 +5,11 @@ permalink: /washington/kirkland/umigawa-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kirkland
+seo:
+  name: "Umigawa Sushi"
+  type: Restaurant
+  links: https://www.umigawasushi.com/
+description: "Looking for sushi in Kirkland, Washington? Check out Umigawa Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJv1FDNIQNkFQRPMG4Ur4Nn8Q
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.0'
 rating_count: 151
 website: https://www.umigawasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

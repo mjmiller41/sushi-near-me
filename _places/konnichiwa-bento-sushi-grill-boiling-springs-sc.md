@@ -5,6 +5,11 @@ permalink: /south-carolina/boiling-springs/konnichiwa-bento-sushi-grill.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Boiling Springs
+seo:
+  name: "Konnichiwa bento,sushi & grill"
+  type: Restaurant
+  links: https://m.facebook.com/pages/category/Sushi-Restaurant/Konnichiwa-bentosushi-and-grill-3369292339762878/
+description: "Looking for sushi in Boiling Springs, South Carolina? Check out Konnichiwa bento,sushi & grill for a delightful Japanese dining experience. Enjoy a variety o..."
 place_id: ChIJwYAb8gdxV4gR-9mGT1t0hYA
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.4'
 rating_count: 465
 website: >-
   https://m.facebook.com/pages/category/Sushi-Restaurant/Konnichiwa-bentosushi-and-grill-3369292339762878/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

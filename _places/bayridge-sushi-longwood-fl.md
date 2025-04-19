@@ -5,6 +5,11 @@ permalink: /florida/longwood/bayridge-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Longwood
+seo:
+  name: "Bayridge Sushi"
+  type: Restaurant
+  links: http://www.brsushi.com/
+description: "Looking for sushi in Longwood, Florida? Check out Bayridge Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJF576zz9y54gRX-C3WqaUVEM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 2854
 website: http://www.brsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

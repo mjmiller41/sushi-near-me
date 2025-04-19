@@ -5,6 +5,11 @@ permalink: /new-york/new-york/mikaku-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Mikaku Sushi"
+  type: Restaurant
+  links: https://www.mikakusushiny.com/
+description: "Intimate location serving nigiri & rolled sushi, tempura, teriyaki & other Japanese standards. Looking for sushi in New York, New York? Check out Mikaku Sush..."
 place_id: ChIJp94Aw4hZwokRPTLbr8Vw5t8
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 467
 website: https://www.mikakusushiny.com/
-description: >-
-  Intimate location serving nigiri & rolled sushi, tempura, teriyaki & other
-  Japanese standards.
 reviews:
   - name: >-
       places/ChIJp94Aw4hZwokRPTLbr8Vw5t8/reviews/ChdDSUhNMG9nS0VJQ0FnSURfMEotSXpBRRAB
@@ -373,5 +375,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Intimate location serving nigiri & rolled sushi, tempura, teriyaki & other
+  Japanese standards.
 
 ---

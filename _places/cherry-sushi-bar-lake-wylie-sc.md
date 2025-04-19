@@ -5,6 +5,11 @@ permalink: /south-carolina/lake-wylie/cherry-sushi-bar.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Lake Wylie
+seo:
+  name: "Cherry Sushi Bar"
+  type: Restaurant
+  links: https://cherrysushiandhibachi.com/
+description: "Looking for sushi in Lake Wylie, South Carolina? Check out Cherry Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJcRsLGnqNVogRto5mQt2f8Ro
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 795
 website: https://cherrysushiandhibachi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJcRsLGnqNVogRto5mQt2f8Ro/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBcy12b3FRRRAB
@@ -379,5 +383,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

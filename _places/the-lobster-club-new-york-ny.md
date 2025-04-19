@@ -5,6 +5,11 @@ permalink: /new-york/new-york/the-lobster-club.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "The Lobster Club"
+  type: Restaurant
+  links: http://www.thelobsterclub.com//?utm_medium=Click&utm_source=GoogleMyBusiness
+description: "High-end Japanese locale serving sushi & teppanyaki dishes in a sophisticated, lounge-style setting. Looking for sushi in New York, New York? Check out The L..."
 place_id: ChIJO3lUXPtYwokRHcU_YPcKvcY
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 351
 website: http://www.thelobsterclub.com//?utm_medium=Click&utm_source=GoogleMyBusiness
-description: >-
-  High-end Japanese locale serving sushi & teppanyaki dishes in a sophisticated,
-  lounge-style setting.
 reviews:
   - name: >-
       places/ChIJO3lUXPtYwokRHcU_YPcKvcY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBdklyWTJnRRAB
@@ -430,5 +432,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  High-end Japanese locale serving sushi & teppanyaki dishes in a sophisticated,
+  lounge-style setting.
 
 ---

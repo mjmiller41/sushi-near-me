@@ -5,6 +5,11 @@ permalink: /oklahoma/oklahoma-city/awaji-izakaya.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
+seo:
+  name: "Awaji Izakaya"
+  type: Restaurant
+  links: http://www.awaji-izakaya.com/
+description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Awaji Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJoYE5CM0DsocRQkDfJAhhWek
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 334
 website: http://www.awaji-izakaya.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

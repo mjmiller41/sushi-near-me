@@ -5,6 +5,11 @@ permalink: /ohio/parma/mizu-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Parma
+seo:
+  name: "Mizu Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Parma, Ohio? Check out Mizu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
 place_id: ChIJQdvy1_LuMIgRZG--r0ZkLvc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

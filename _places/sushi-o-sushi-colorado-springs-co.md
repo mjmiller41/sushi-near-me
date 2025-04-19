@@ -5,6 +5,11 @@ permalink: /colorado/colorado-springs/sushi-o-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
+seo:
+  name: "Sushi O Sushi"
+  type: Restaurant
+  links: https://www.sushiosushico.com/
+description: "Looking for sushi in Colorado Springs, Colorado? Check out Sushi O Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJQXMlYGtDE4cRJkeb_9TD2sk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 921
 website: https://www.sushiosushico.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

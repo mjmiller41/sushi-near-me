@@ -5,6 +5,11 @@ permalink: /new-york/new-york/ajisai.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Ajisai"
+  type: Restaurant
+  links: https://www.ajisaionline.com/contact-us/
+description: "Sleek, modern space offering Pan-Asian plates, innovative Japanese sushi rolls & sake. Looking for sushi in New York, New York? Check out Ajisai for a deligh..."
 place_id: ChIJ0__KQe9YwokRtyLRmk1E9nA
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 394
 website: https://www.ajisaionline.com/contact-us/
-description: >-
-  Sleek, modern space offering Pan-Asian plates, innovative Japanese sushi rolls
-  & sake.
 reviews:
   - name: >-
       places/ChIJ0__KQe9YwokRtyLRmk1E9nA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmclBIOHBnRRAB
@@ -479,5 +481,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek, modern space offering Pan-Asian plates, innovative Japanese sushi rolls
+  & sake.
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/bolingbrook/otobo-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Bolingbrook
+seo:
+  name: "OTOBO Sushi & Bar"
+  type: Restaurant
+  links: http://www.otobosushibar.com/
+description: "Easygoing eatery & sushi bar offering specialty rolls, ramen, Asian fusion dishes, cocktails & beer. Looking for sushi in Bolingbrook, Illinois? Check out OT..."
 place_id: ChIJCamjpiFZDogR0dVSiJ8Cffk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 732
 website: http://www.otobosushibar.com/
-description: >-
-  Easygoing eatery & sushi bar offering specialty rolls, ramen, Asian fusion
-  dishes, cocktails & beer.
 reviews:
   - name: >-
       places/ChIJCamjpiFZDogR0dVSiJ8Cffk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOHRHTjh3RRAB
@@ -373,5 +375,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Easygoing eatery & sushi bar offering specialty rolls, ramen, Asian fusion
+  dishes, cocktails & beer.
 
 ---

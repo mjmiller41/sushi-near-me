@@ -5,6 +5,11 @@ permalink: /oklahoma/broken-arrow/caribbean-sushi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Broken Arrow
+seo:
+  name: "Caribbean Sushi"
+  type: Restaurant
+  links: http://www.caribbeansushi.com/
+description: "Looking for sushi in Broken Arrow, Oklahoma? Check out Caribbean Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJX8C7wECJtocRvVoLsDNOwY4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 650
 website: http://www.caribbeansushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

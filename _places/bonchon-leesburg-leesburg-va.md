@@ -5,6 +5,11 @@ permalink: /virginia/leesburg/bonchon-leesburg.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Leesburg
+seo:
+  name: "Bonchon Leesburg"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Leesburg, Virginia? Check out Bonchon Leesburg for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJtwObZuU9tokRcpVS9YD8iwc
 photos:
   - name: >-
@@ -182,7 +187,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -209,5 +213,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

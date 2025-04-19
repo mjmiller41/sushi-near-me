@@ -5,6 +5,11 @@ permalink: /washington/mill-creek/momo-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Mill Creek
+seo:
+  name: "MoMo Sushi"
+  type: Restaurant
+  links: http://momosushimillcreek.com/
+description: "Looking for sushi in Mill Creek, Washington? Check out MoMo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJv-y_9JAFkFQR3lgKB5AsWHA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 439
 website: http://momosushimillcreek.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

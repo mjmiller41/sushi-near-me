@@ -5,6 +5,11 @@ permalink: /colorado/loveland/sushi-jooa.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Loveland
+seo:
+  name: "Sushi Jooa"
+  type: Restaurant
+  links: http://www.sushijooa.com/
+description: "Looking for sushi in Loveland, Colorado? Check out Sushi Jooa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJrynqAvdSaYcRgqvpEJF3_-I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 588
 website: http://www.sushijooa.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

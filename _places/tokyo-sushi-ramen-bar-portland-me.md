@@ -5,6 +5,11 @@ permalink: /maine/portland/tokyo-sushi-ramen-bar.html
 stateAbbr: ME
 stateName: Maine
 cityName: Portland
+seo:
+  name: "Tokyo Sushi Ramen & Bar"
+  type: Restaurant
+  links: https://www.tokyosushiramenme.com/
+description: "Looking for sushi in Portland, Maine? Check out Tokyo Sushi Ramen & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ1T7CXM6dskwR8Iud0lCP-q8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 259
 website: https://www.tokyosushiramenme.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ1T7CXM6dskwR8Iud0lCP-q8/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3dm9DcVN3EAE
@@ -389,5 +393,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

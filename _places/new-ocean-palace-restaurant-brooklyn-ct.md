@@ -5,6 +5,11 @@ permalink: /connecticut/brooklyn/new-ocean-palace-restaurant.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Brooklyn
+seo:
+  name: "New Ocean Palace Restaurant"
+  type: Restaurant
+  links: https://www.newoceanpalacect.com/
+description: "Looking for sushi in Brooklyn, Connecticut? Check out New Ocean Palace Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJ_cacvSwq5IkRPL949rJrv8E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 421
 website: https://www.newoceanpalacect.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ_cacvSwq5IkRPL949rJrv8E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUZ295am53RRAB
@@ -420,5 +424,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

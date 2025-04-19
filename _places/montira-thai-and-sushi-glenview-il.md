@@ -5,6 +5,11 @@ permalink: /illinois/glenview/montira-thai-and-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Glenview
+seo:
+  name: "Montira Thai and Sushi"
+  type: Restaurant
+  links: http://montirathaiandsushi.com/
+description: "Quaint kitchen offering Thai curries, soups & noodles in brick-lined digs with outdoor tables. Looking for sushi in Glenview, Illinois? Check out Montira Tha..."
 place_id: ChIJYxoV-ObHD4gRA8xzvR8ejv4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 168
 website: http://montirathaiandsushi.com/
-description: >-
-  Quaint kitchen offering Thai curries, soups & noodles in brick-lined digs with
-  outdoor tables.
 reviews:
   - name: >-
       places/ChIJYxoV-ObHD4gRA8xzvR8ejv4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBMlBXVEV3EAE
@@ -381,5 +383,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Quaint kitchen offering Thai curries, soups & noodles in brick-lined digs with
+  outdoor tables.
 
 ---

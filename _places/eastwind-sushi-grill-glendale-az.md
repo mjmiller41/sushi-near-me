@@ -5,6 +5,11 @@ permalink: /arizona/glendale/eastwind-sushi-grill.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Glendale
+seo:
+  name: "Eastwind Sushi & Grill"
+  type: Restaurant
+  links: https://www.eastwindglendale.com/
+description: "Looking for sushi in Glendale, Arizona? Check out Eastwind Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJwf8PEPRoK4cRvuljBLlDneA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 392
 website: https://www.eastwindglendale.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

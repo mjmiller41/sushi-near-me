@@ -5,6 +5,11 @@ permalink: /california/idyllwild-pine-cove/idy-sushi-rolls.html
 stateAbbr: CA
 stateName: California
 cityName: Idyllwild-Pine Cove
+seo:
+  name: "Idy Sushi Rolls"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Idyllwild-Pine Cove, California? Check out Idy Sushi Rolls for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJQ_ixG8YT24AReYAQe_tJdY8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 249
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJQ_ixG8YT24AReYAQe_tJdY8/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3MHIyNHp3RRAB
@@ -404,5 +408,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

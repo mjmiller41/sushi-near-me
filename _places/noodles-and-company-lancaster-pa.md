@@ -5,6 +5,11 @@ permalink: /pennsylvania/lancaster/noodles-and-company.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
+seo:
+  name: "Noodles and Company"
+  type: Restaurant
+  links: https://locations.noodles.com/pa/lancaster/2099-fruitville-pike?utm_campaign=soci&utm_medium=organic&utm_source=google
+description: "Looking for sushi in Lancaster, Pennsylvania? Check out Noodles and Company for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJV8X2RpojxokRv8LuDiJhPjw
 photos:
   - name: >-
@@ -179,7 +184,6 @@ rating: '4.3'
 rating_count: 752
 website: >-
   https://locations.noodles.com/pa/lancaster/2099-fruitville-pike?utm_campaign=soci&utm_medium=organic&utm_source=google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-luis-obispo/yanagi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Luis Obispo
+seo:
+  name: "Yanagi Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Luis Obispo, California? Check out Yanagi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJH6neuAXx7IAR-_b4TzmwneQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

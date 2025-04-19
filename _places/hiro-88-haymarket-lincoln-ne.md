@@ -5,6 +5,11 @@ permalink: /nebraska/lincoln/hiro-88-haymarket.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
+seo:
+  name: "Hiro 88 Haymarket"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Lincoln, Nebraska? Check out Hiro 88 Haymarket for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJfy_dYxy_locRwWgWnYcOg2A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

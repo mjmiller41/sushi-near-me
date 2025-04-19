@@ -5,6 +5,11 @@ permalink: /montana/big-sky/blue-buddha-sushi-lounge.html
 stateAbbr: MT
 stateName: Montana
 cityName: Big Sky
+seo:
+  name: "Blue Buddha Sushi Lounge"
+  type: Restaurant
+  links: http://bigskybluebuddha.com/
+description: "Looking for sushi in Big Sky, Montana? Check out Blue Buddha Sushi Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJ9xyts6sRUFMRhTfUrkmAZHM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 220
 website: http://bigskybluebuddha.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ9xyts6sRUFMRhTfUrkmAZHM/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3cGFQRGxnRRAB
@@ -478,5 +482,6 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /florida/miami/siamdragonmiami.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
+seo:
+  name: "SiamdragonMiami"
+  type: Restaurant
+  links: https://siamdragonmiamifl.com/
+description: "Classic Thai dishes & Japanese sushi rolls served in a relaxed setting with modern flair. Looking for sushi in Miami, Florida? Check out SiamdragonMiami for ..."
 place_id: ChIJQZQGWkjH2YgRnTRscLk8WxM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 232
 website: https://siamdragonmiamifl.com/
-description: >-
-  Classic Thai dishes & Japanese sushi rolls served in a relaxed setting with
-  modern flair.
 reviews:
   - name: >-
       places/ChIJQZQGWkjH2YgRnTRscLk8WxM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdklLWG9RRRAB
@@ -357,5 +359,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Classic Thai dishes & Japanese sushi rolls served in a relaxed setting with
+  modern flair.
 
 ---

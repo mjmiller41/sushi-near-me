@@ -5,6 +5,11 @@ permalink: /connecticut/east-windsor/jimmy-chen-s-asian-cuisine-cocktail-bar.htm
 stateAbbr: CT
 stateName: Connecticut
 cityName: East Windsor
+seo:
+  name: "Jimmy Chen's Asian Cuisine & Cocktail Bar"
+  type: Restaurant
+  links: http://jimmychenct.com/
+description: "Looking for sushi in East Windsor, Connecticut? Check out Jimmy Chen's Asian Cuisine & Cocktail Bar for a delightful Japanese dining experience. Enjoy a vari..."
 place_id: ChIJS7Lg8vH75okRGOlaQzJg600
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 575
 website: http://jimmychenct.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

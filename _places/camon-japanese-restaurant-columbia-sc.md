@@ -5,6 +5,11 @@ permalink: /south-carolina/columbia/camon-japanese-restaurant.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Columbia
+seo:
+  name: "Camon Japanese Restaurant"
+  type: Restaurant
+  links: https://www.camonjapaneserestaurant.com/
+description: "Sushi bar offerings & Japanese cooked dishes in a comfortable space with traditional accents. Looking for sushi in Columbia, South Carolina? Check out Camon ..."
 place_id: ChIJSe7SWiu7-IgRxZLKfZx4wKw
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 466
 website: https://www.camonjapaneserestaurant.com/
-description: >-
-  Sushi bar offerings & Japanese cooked dishes in a comfortable space with
-  traditional accents.
 reviews:
   - name: >-
       places/ChIJSe7SWiu7-IgRxZLKfZx4wKw/reviews/ChZDSUhNMG9nS0VJQ0FnTURneXBuSFhBEAE
@@ -398,5 +400,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi bar offerings & Japanese cooked dishes in a comfortable space with
+  traditional accents.
 
 ---

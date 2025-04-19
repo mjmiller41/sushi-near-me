@@ -5,6 +5,11 @@ permalink: /minnesota/north-oaks/suishin-restaurant.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: North Oaks
+seo:
+  name: "Suishin Restaurant"
+  type: Restaurant
+  links: http://www.suishinmn.com/
+description: "Sleek Japanese restaurant offering a sushi bar, cocktails & hot pots in contemporary cool digs. Looking for sushi in North Oaks, Minnesota? Check out Suishin..."
 place_id: ChIJPSLbOCYos1IRoC14kJJZO2Q
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 355
 website: http://www.suishinmn.com/
-description: >-
-  Sleek Japanese restaurant offering a sushi bar, cocktails & hot pots in
-  contemporary cool digs.
 reviews:
   - name: >-
       places/ChIJPSLbOCYos1IRoC14kJJZO2Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfODZ2dW1BRRAB
@@ -388,5 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek Japanese restaurant offering a sushi bar, cocktails & hot pots in
+  contemporary cool digs.
 
 ---

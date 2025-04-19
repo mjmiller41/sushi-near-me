@@ -5,6 +5,11 @@ permalink: /tennessee/nashville/nomzilla-sushi-et-cetera.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
+seo:
+  name: "Nomzilla! sushi et cetera"
+  type: Restaurant
+  links: https://www.nomzilla.com/
+description: "Cozy, bright-green eatery serving design-your-own maki rolls plus classic rolls, noodles & tea. Looking for sushi in Nashville, Tennessee? Check out Nomzilla..."
 place_id: ChIJG4AhtppmZIgRa3fWev10umw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 655
 website: https://www.nomzilla.com/
-description: >-
-  Cozy, bright-green eatery serving design-your-own maki rolls plus classic
-  rolls, noodles & tea.
 reviews:
   - name: >-
       places/ChIJG4AhtppmZIgRa3fWev10umw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOXZmUGpnRRAB
@@ -401,5 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Cozy, bright-green eatery serving design-your-own maki rolls plus classic
+  rolls, noodles & tea.
 
 ---

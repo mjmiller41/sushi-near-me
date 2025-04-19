@@ -5,6 +5,11 @@ permalink: /california/san-francisco/fishmandu-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Fishmandu Sushi"
+  type: Restaurant
+  links: http://fishmandusushi.com/
+description: "A pint-sized neighborhood destination serving sushi & seafood, plus a few American standards. Looking for sushi in San Francisco, California? Check out Fishm..."
 place_id: ChIJ2WRB2X2BhYAR6BvcLClEdqo
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 436
 website: http://fishmandusushi.com/
-description: >-
-  A pint-sized neighborhood destination serving sushi & seafood, plus a few
-  American standards.
 reviews:
   - name: >-
       places/ChIJ2WRB2X2BhYAR6BvcLClEdqo/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcDhuZDhRRRAB
@@ -403,5 +405,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A pint-sized neighborhood destination serving sushi & seafood, plus a few
+  American standards.
 
 ---

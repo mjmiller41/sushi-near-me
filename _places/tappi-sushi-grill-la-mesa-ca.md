@@ -5,6 +5,11 @@ permalink: /california/la-mesa/tappi-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: La Mesa
+seo:
+  name: "Tappi Sushi & Grill"
+  type: Restaurant
+  links: http://tappisushi.com
+description: "Looking for sushi in La Mesa, California? Check out Tappi Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ45C2Dzxa2YARi0pinfZn32o
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 313
 website: http://tappisushi.com
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

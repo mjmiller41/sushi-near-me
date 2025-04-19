@@ -5,6 +5,11 @@ permalink: /iowa/des-moines/akebono-515.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Des Moines
+seo:
+  name: "Akebono 515"
+  type: Restaurant
+  links: http://akebono515.com/
+description: "Sleek, contemporary restaurant & bar offering sushi, cooked Japanese dishes & cocktails. Looking for sushi in Des Moines, Iowa? Check out Akebono 515 for a d..."
 place_id: ChIJE7pwewKZ7ocRXbpT1yCr91k
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 1010
 website: http://akebono515.com/
-description: >-
-  Sleek, contemporary restaurant & bar offering sushi, cooked Japanese dishes &
-  cocktails.
 reviews:
   - name: >-
       places/ChIJE7pwewKZ7ocRXbpT1yCr91k/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNnFPV0hREAE
@@ -430,5 +432,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek, contemporary restaurant & bar offering sushi, cooked Japanese dishes &
+  cocktails.
 
 ---

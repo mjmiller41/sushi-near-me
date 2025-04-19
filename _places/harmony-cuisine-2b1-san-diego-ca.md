@@ -5,6 +5,11 @@ permalink: /california/san-diego/harmony-cuisine-2b1.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Harmony Cuisine 2B1"
+  type: Restaurant
+  links: https://www.hc2b1.com/
+description: "Looking for sushi in San Diego, California? Check out Harmony Cuisine 2B1 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJAQDQQen_24ARyTSFJ-YYX9k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.8'
 rating_count: 131
 website: https://www.hc2b1.com/
-description: null
 reviews:
   - name: >-
       places/ChIJAQDQQen_24ARyTSFJ-YYX9k/reviews/ChdDSUhNMG9nS0VJQ0FnSURQNkpHejlRRRAB
@@ -397,5 +401,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: null
 
 ---

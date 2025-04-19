@@ -5,6 +5,11 @@ permalink: /ohio/milford/mint-bistro.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Milford
+seo:
+  name: "Mint Bistro"
+  type: Restaurant
+  links: https://www.mintbistromilford.com/
+description: "Looking for sushi in Milford, Ohio? Check out Mint Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJ0xN2Sp-qQYgRDr0NlQ9ybX8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 672
 website: https://www.mintbistromilford.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ0xN2Sp-qQYgRDr0NlQ9ybX8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmXzREbWxBRRAB
@@ -402,5 +406,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

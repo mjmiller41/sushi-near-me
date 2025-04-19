@@ -5,6 +5,11 @@ permalink: /california/daly-city/kamameshi-house.html
 stateAbbr: CA
 stateName: California
 cityName: Daly City
+seo:
+  name: "Kamameshi House"
+  type: Restaurant
+  links: https://www.vibewit.me/kamameshi
+description: "Looking for sushi in Daly City, California? Check out Kamameshi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJkZ_PltN7j4ARzLuj22Pr0gk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 192
 website: https://www.vibewit.me/kamameshi
-description: null
 reviews:
   - name: >-
       places/ChIJkZ_PltN7j4ARzLuj22Pr0gk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdklubEZ3EAE
@@ -398,5 +402,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

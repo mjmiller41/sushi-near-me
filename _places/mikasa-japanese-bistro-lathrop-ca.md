@@ -5,6 +5,11 @@ permalink: /california/lathrop/mikasa-japanese-bistro.html
 stateAbbr: CA
 stateName: California
 cityName: Lathrop
+seo:
+  name: "Mikasa | Japanese Bistro"
+  type: Restaurant
+  links: http://www.mikasasushilathrop.com/
+description: "Looking for sushi in Lathrop, California? Check out Mikasa | Japanese Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJxerF3WoVkIAR6ckAj0WCOeA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 1072
 website: http://www.mikasasushilathrop.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

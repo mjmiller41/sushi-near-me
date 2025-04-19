@@ -5,6 +5,11 @@ permalink: /new-jersey/pompton-lakes/mr-sushi-pompton-lakes.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Pompton Lakes
+seo:
+  name: "Mr. Sushi Pompton Lakes"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Pompton Lakes, New Jersey? Check out Mr. Sushi Pompton Lakes for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJt-s9_7Ycw4kRiIC7onmZrbQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

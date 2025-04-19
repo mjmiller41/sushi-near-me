@@ -5,6 +5,11 @@ permalink: /south-carolina/spartanburg/pokenori.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Spartanburg
+seo:
+  name: "Pokenori"
+  type: Restaurant
+  links: https://www.pokenori.co/
+description: "Made-to-order poke bowls & sushi burritos offered in a cool, brick-lined space with counter-service. Looking for sushi in Spartanburg, South Carolina? Check ..."
 place_id: ChIJA1PP0vR1V4gRHGG8DzxALeY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 814
 website: https://www.pokenori.co/
-description: >-
-  Made-to-order poke bowls & sushi burritos offered in a cool, brick-lined space
-  with counter-service.
 reviews:
   - name: >-
       places/ChIJA1PP0vR1V4gRHGG8DzxALeY/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3NTZUR3dnRRAB
@@ -371,5 +373,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Made-to-order poke bowls & sushi burritos offered in a cool, brick-lined space
+  with counter-service.
 
 ---

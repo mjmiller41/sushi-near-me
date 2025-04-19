@@ -5,6 +5,11 @@ permalink: /florida/orlando/sus-hi-eatstation-chickasaw-trl.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Sus Hi Eatstation - Chickasaw Trl"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Orlando, Florida? Check out Sus Hi Eatstation - Chickasaw Trl for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJ86e3px5l54gR24KtoCZj5kQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

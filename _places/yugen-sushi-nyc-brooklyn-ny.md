@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/yugen-sushi-nyc.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Yugen Sushi NYC"
+  type: Restaurant
+  links: http://yugensushinyc.com/
+description: "Looking for sushi in Brooklyn, New York? Check out Yugen Sushi NYC for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJCcO5mBFdwokRo6SlfqrctSc
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 110
 website: http://yugensushinyc.com/
-description: null
 reviews:
   - name: >-
       places/ChIJCcO5mBFdwokRo6SlfqrctSc/reviews/ChZDSUhNMG9nS0VJQ0FnSURxb1ludFlBEAE
@@ -409,5 +413,6 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

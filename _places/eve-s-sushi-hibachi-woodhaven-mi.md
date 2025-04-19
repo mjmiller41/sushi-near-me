@@ -5,6 +5,11 @@ permalink: /michigan/woodhaven/eve-s-sushi-hibachi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Woodhaven
+seo:
+  name: "Eve's Sushi & Hibachi"
+  type: Restaurant
+  links: https://www.evessushi.com/
+description: "Looking for sushi in Woodhaven, Michigan? Check out Eve's Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJnTuNboQ5O4gRHr9g87OVRTU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 322
 website: https://www.evessushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJnTuNboQ5O4gRHr9g87OVRTU/reviews/ChZDSUhNMG9nS0VJQ0FnTURBZ3VtQU9nEAE
@@ -410,5 +414,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

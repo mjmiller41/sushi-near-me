@@ -5,6 +5,11 @@ permalink: /pennsylvania/wyomissing/masa-hibachi-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Wyomissing
+seo:
+  name: "Masa Hibachi Sushi & Bar"
+  type: Restaurant
+  links: http://www.masahibachiwyomissing.com/
+description: "Looking for sushi in Wyomissing, Pennsylvania? Check out Masa Hibachi Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJc_xB8aR2xokR9Q2Wa7En5ys
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 969
 website: http://www.masahibachiwyomissing.com/
-description: null
 reviews:
   - name: >-
       places/ChIJc_xB8aR2xokR9Q2Wa7En5ys/reviews/ChdDSUhNMG9nS0VJQ0FnSURfc3Q2VnhRRRAB
@@ -462,5 +466,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/sushihana.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "SushiHana"
+  type: Restaurant
+  links: https://sushihanaclt.com/
+description: "Looking for sushi in Charlotte, North Carolina? Check out SushiHana for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJe3bSTYCfVogRfYCcGvfJZk0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 378
 website: https://sushihanaclt.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

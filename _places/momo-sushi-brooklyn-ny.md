@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/momo-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Momo Sushi"
+  type: Restaurant
+  links: https://www.momosushibrooklyn.com/
+description: "Looking for sushi in Brooklyn, New York? Check out Momo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJlac2emFbwokRVv6A4pREVmE
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 93
 website: https://www.momosushibrooklyn.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

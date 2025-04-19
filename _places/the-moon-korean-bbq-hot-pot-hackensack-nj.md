@@ -5,6 +5,11 @@ permalink: /new-jersey/hackensack/the-moon-korean-bbq-hot-pot.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hackensack
+seo:
+  name: "The Moon Korean BBQ & Hot Pot 더문 샤부샤부 & 바베큐"
+  type: Restaurant
+  links: https://www.themoonkbbq.com/
+description: "Looking for sushi in Hackensack, New Jersey? Check out The Moon Korean BBQ & Hot Pot 더문 샤부샤부 & 바베큐 for a delightful Japanese dining experience. Enjoy a varie..."
 place_id: ChIJJ6UnW0PxwokRdqg1kPlbs5s
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 601
 website: https://www.themoonkbbq.com/
-description: null
 reviews:
   - name: >-
       places/ChIJJ6UnW0PxwokRdqg1kPlbs5s/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRd0o2Y3B3RRAB
@@ -394,5 +398,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: false
+summary: null
 
 ---

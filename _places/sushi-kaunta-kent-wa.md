@@ -5,6 +5,11 @@ permalink: /washington/kent/sushi-kaunta.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kent
+seo:
+  name: "Sushi Kaunta"
+  type: Restaurant
+  links: http://www.sushikaunta.com/
+description: "Looking for sushi in Kent, Washington? Check out Sushi Kaunta for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJq08bRXZZkFQRs_u9SvvslCA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.9'
 rating_count: 188
 website: http://www.sushikaunta.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

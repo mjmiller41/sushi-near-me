@@ -5,6 +5,11 @@ permalink: /texas/trophy-club/fish-knife-japanese-cuisine.html
 stateAbbr: TX
 stateName: Texas
 cityName: Trophy Club
+seo:
+  name: "Fish & Knife Japanese Cuisine"
+  type: Restaurant
+  links: http://fishknife99.com/
+description: "Looking for sushi in Trophy Club, Texas? Check out Fish & Knife Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJs-ClE27RTYYRRrx3LGW592s
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 378
 website: http://fishknife99.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

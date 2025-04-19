@@ -5,6 +5,11 @@ permalink: /illinois/orland-park/sushi-nova-orland-park.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Orland Park
+seo:
+  name: "Sushi Nova - Orland Park"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Orland Park, Illinois? Check out Sushi Nova - Orland Park for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJ-2KAAX0_DogRIKTVCo5zb6k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

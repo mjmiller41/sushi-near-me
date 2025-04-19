@@ -5,6 +5,11 @@ permalink: /utah/north-logan/sushi-go.html
 stateAbbr: UT
 stateName: Utah
 cityName: North Logan
+seo:
+  name: "SUSHI GO"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in North Logan, Utah? Check out SUSHI GO for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJQUdThb99VIcR7ePUvXFuZOs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $1 &ndash; $10
 rating: '4.8'
 rating_count: 226
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

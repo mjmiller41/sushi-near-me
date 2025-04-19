@@ -5,6 +5,11 @@ permalink: /massachusetts/lexington/beijing-chinese-restaurant.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Lexington
+seo:
+  name: "Beijing Chinese Restaurant"
+  type: Restaurant
+  links: https://www.beijingchinesedining.com/
+description: "Looking for sushi in Lexington, Massachusetts? Check out Beijing Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJq4k-NcWd44kR5FSQUYXKP7w
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 326
 website: https://www.beijingchinesedining.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

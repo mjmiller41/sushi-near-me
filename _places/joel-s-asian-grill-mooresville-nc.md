@@ -5,6 +5,11 @@ permalink: /north-carolina/mooresville/joel-s-asian-grill.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Mooresville
+seo:
+  name: "Joel's Asian Grill"
+  type: Restaurant
+  links: https://joelsgrill.com/
+description: "Hip choice showcasing Filipino favorites & sushi as well as Chinese & Vietnamese fare, plus a patio Looking for sushi in Mooresville, North Carolina? Check o..."
 place_id: ChIJ-_yIs8BUUYgRDOHgrbwb-LQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 1194
 website: https://joelsgrill.com/
-description: >-
-  Hip choice showcasing Filipino favorites & sushi as well as Chinese &
-  Vietnamese fare, plus a patio
 reviews:
   - name: >-
       places/ChIJ-_yIs8BUUYgRDOHgrbwb-LQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dE1UOFBBEAE
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Hip choice showcasing Filipino favorites & sushi as well as Chinese &
+  Vietnamese fare, plus a patio
 
 ---

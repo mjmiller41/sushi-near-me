@@ -5,6 +5,11 @@ permalink: /virginia/leesburg/noku-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Leesburg
+seo:
+  name: "Noku Sushi"
+  type: Restaurant
+  links: http://nokusushi.com/
+description: "Modern yet modest, light-filled mainstay for creative & classic sushi, plus standard Japanese bites. Looking for sushi in Leesburg, Virginia? Check out Noku ..."
 place_id: ChIJUQhjBkA8tokRJidROZQ6nvM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 435
 website: http://nokusushi.com/
-description: >-
-  Modern yet modest, light-filled mainstay for creative & classic sushi, plus
-  standard Japanese bites.
 reviews:
   - name: >-
       places/ChIJUQhjBkA8tokRJidROZQ6nvM/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdHZqdWFBEAE
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern yet modest, light-filled mainstay for creative & classic sushi, plus
+  standard Japanese bites.
 
 ---

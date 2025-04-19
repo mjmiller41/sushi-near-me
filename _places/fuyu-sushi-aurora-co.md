@@ -5,6 +5,11 @@ permalink: /colorado/aurora/fuyu-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
+seo:
+  name: "Fuyu Sushi"
+  type: Restaurant
+  links: http://fuyusushi.com/
+description: "Looking for sushi in Aurora, Colorado? Check out Fuyu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJYQwbgqmJbIcRNHTYBvRky3E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 211
 website: http://fuyusushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

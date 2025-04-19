@@ -5,6 +5,11 @@ permalink: /california/el-cajon/yi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: El Cajon
+seo:
+  name: "Yi Sushi"
+  type: Restaurant
+  links: http://yisushisd.com/
+description: "Looking for sushi in El Cajon, California? Check out Yi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJa2M82LVb2YARV2GaSQt51qY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 354
 website: http://yisushisd.com/
-description: null
 reviews:
   - name: >-
       places/ChIJa2M82LVb2YARV2GaSQt51qY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnOHJPMDJRRRAB
@@ -406,5 +410,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

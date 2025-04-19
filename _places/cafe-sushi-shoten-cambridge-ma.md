@@ -5,6 +5,11 @@ permalink: /massachusetts/cambridge/cafe-sushi-shoten.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Cambridge
+seo:
+  name: "Cafe Sushi Shoten"
+  type: Restaurant
+  links: http://www.cafesushicambridge.com/
+description: "Looking for sushi in Cambridge, Massachusetts? Check out Cafe Sushi Shoten for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJDboHOFt344kRRpT1TjLUuTM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 959
 website: http://www.cafesushicambridge.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

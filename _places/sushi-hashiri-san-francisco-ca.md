@@ -5,6 +5,11 @@ permalink: /california/san-francisco/sushi-hashiri.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Sushi Hashiri"
+  type: Restaurant
+  links: http://hashirisf.com/
+description: "Highbrow, multicourse Japanese sushi & seasonal mains offered in sleek, modern quarters. Looking for sushi in San Francisco, California? Check out Sushi Hash..."
 place_id: ChIJhSGf1oWAhYARAMBHjcaw_RI
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 140
 website: http://hashirisf.com/
-description: >-
-  Highbrow, multicourse Japanese sushi & seasonal mains offered in sleek, modern
-  quarters.
 reviews:
   - name: >-
       places/ChIJhSGf1oWAhYARAMBHjcaw_RI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbk9HaThRRRAB
@@ -398,5 +400,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
+summary: >-
+  Highbrow, multicourse Japanese sushi & seasonal mains offered in sleek, modern
+  quarters.
 
 ---

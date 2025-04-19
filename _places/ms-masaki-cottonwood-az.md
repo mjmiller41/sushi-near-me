@@ -5,6 +5,11 @@ permalink: /arizona/cottonwood/ms-masaki.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Cottonwood
+seo:
+  name: "Ms. Masaki"
+  type: Restaurant
+  links: https://www.msmasaki.com/
+description: "Looking for sushi in Cottonwood, Arizona? Check out Ms. Masaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJQ2XBd4cPLYcRcLGdEx0misY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 313
 website: https://www.msmasaki.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

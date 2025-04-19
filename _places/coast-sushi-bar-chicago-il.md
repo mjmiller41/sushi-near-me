@@ -5,6 +5,11 @@ permalink: /illinois/chicago/coast-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Coast Sushi Bar"
+  type: Restaurant
+  links: http://coastsushi.net/coastsushi/default.asp
+description: "Cooked Japanese fare & creative sushi rolls served in a lively, contemporary setting. Looking for sushi in Chicago, Illinois? Check out Coast Sushi Bar for a..."
 place_id: ChIJzz1aLOvSD4gRq-BexNb_hV4
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 507
 website: http://coastsushi.net/coastsushi/default.asp
-description: >-
-  Cooked Japanese fare & creative sushi rolls served in a lively, contemporary
-  setting.
 reviews:
   - name: >-
       places/ChIJzz1aLOvSD4gRq-BexNb_hV4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRMmJidVFREAE
@@ -362,5 +364,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Cooked Japanese fare & creative sushi rolls served in a lively, contemporary
+  setting.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/maple-domo-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Maple Domo Sushi"
+  type: Restaurant
+  links: http://www.domosushii.com/
+description: "Looking for sushi in Brooklyn, New York? Check out Maple Domo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJZa7raWVbwokRGX4rzWvVCrY
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: null
 rating: '4.3'
 rating_count: 15
 website: http://www.domosushii.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -203,5 +207,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

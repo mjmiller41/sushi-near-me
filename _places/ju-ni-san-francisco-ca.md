@@ -5,6 +5,11 @@ permalink: /california/san-francisco/ju-ni.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Ju-Ni"
+  type: Restaurant
+  links: http://www.junisf.com/
+description: "Contemporary, upscale bistro with clean lines &  counter seats serving elevated omakase sushi. Looking for sushi in San Francisco, California? Check out Ju-N..."
 place_id: ChIJC97OyLGAhYAR4Y3wyxVMk8c
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 468
 website: http://www.junisf.com/
-description: >-
-  Contemporary, upscale bistro with clean lines &  counter seats serving
-  elevated omakase sushi.
 reviews:
   - name: >-
       places/ChIJC97OyLGAhYAR4Y3wyxVMk8c/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzN1lTbjRRRRAB
@@ -379,5 +381,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Contemporary, upscale bistro with clean lines &  counter seats serving
+  elevated omakase sushi.
 
 ---

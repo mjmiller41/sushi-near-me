@@ -5,6 +5,11 @@ permalink: /california/torrance/kantaro-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Torrance
+seo:
+  name: "Kantaro Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Torrance, California? Check out Kantaro Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJETTd_KNK3YARQNroUoSKkpk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 163
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-oku.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi Oku"
+  type: Restaurant
+  links: https://www.sushioku.com/
+description: "Looking for sushi in New York, New York? Check out Sushi Oku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJ45FUYptbwokR1AvGBrX_6Io
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 47
 website: https://www.sushioku.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

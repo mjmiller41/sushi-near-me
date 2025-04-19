@@ -5,6 +5,11 @@ permalink: /florida/jacksonville/sushi-sub.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
+seo:
+  name: "Sushi & Sub"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Jacksonville, Florida? Check out Sushi & Sub for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJufmmkne25YgRZwHaseDL4Pk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 182
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJufmmkne25YgRZwHaseDL4Pk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJODVlUXFBRRAB
@@ -353,5 +357,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

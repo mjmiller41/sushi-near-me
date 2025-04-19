@@ -5,6 +5,11 @@ permalink: /michigan/east-lansing/ai-fusion-sushi-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
+seo:
+  name: "AI Fusion Sushi & Grill"
+  type: Restaurant
+  links: http://ai-fusion.com/
+description: "Japanese & Korean fare, including sushi, is served in an airy space with Western & Asian elements. Looking for sushi in East Lansing, Michigan? Check out AI ..."
 place_id: ChIJIVTKuajCIogR1fbN8Gd-gKg
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 838
 website: http://ai-fusion.com/
-description: >-
-  Japanese & Korean fare, including sushi, is served in an airy space with
-  Western & Asian elements.
 reviews:
   - name: >-
       places/ChIJIVTKuajCIogR1fbN8Gd-gKg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyOG8tNWp3RRAB
@@ -367,5 +369,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese & Korean fare, including sushi, is served in an airy space with
+  Western & Asian elements.
 
 ---

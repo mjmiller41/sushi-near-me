@@ -5,6 +5,11 @@ permalink: /new-hampshire/seabrook/kume-seabrook.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Seabrook
+seo:
+  name: "Kume Seabrook"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Seabrook, New Hampshire? Check out Kume Seabrook for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJW3jPU1fm4okRW1K6rZPhiSQ
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

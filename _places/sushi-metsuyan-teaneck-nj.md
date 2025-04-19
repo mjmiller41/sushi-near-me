@@ -5,6 +5,11 @@ permalink: /new-jersey/teaneck/sushi-metsuyan.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Teaneck
+seo:
+  name: "Sushi Metsuyan"
+  type: Restaurant
+  links: http://www.metsuyanteaneck.com/
+description: "Looking for sushi in Teaneck, New Jersey? Check out Sushi Metsuyan for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJj6hCU-vwwokRHFNZAc1UfH0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 271
 website: http://www.metsuyanteaneck.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

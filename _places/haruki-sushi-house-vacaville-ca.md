@@ -5,6 +5,11 @@ permalink: /california/vacaville/haruki-sushi-house.html
 stateAbbr: CA
 stateName: California
 cityName: Vacaville
+seo:
+  name: "Haruki Sushi House"
+  type: Restaurant
+  links: http://harukisushihouse.com/
+description: "Looking for sushi in Vacaville, California? Check out Haruki Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJxSO_et8XhYARkutMG4xPdAE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 129
 website: http://harukisushihouse.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /virginia/vienna/passion-fin-asian-bistro-sushi-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Vienna
+seo:
+  name: "Passion Fin Asian Bistro & Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Vienna, Virginia? Check out Passion Fin Asian Bistro & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJlSi5zW9LtokR5ujSI2KS2p4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

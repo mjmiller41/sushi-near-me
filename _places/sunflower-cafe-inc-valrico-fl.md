@@ -5,6 +5,11 @@ permalink: /florida/valrico/sunflower-cafe-inc.html
 stateAbbr: FL
 stateName: Florida
 cityName: Valrico
+seo:
+  name: "Sunflower Cafe Inc"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Valrico, Florida? Check out Sunflower Cafe Inc for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ2W7CiZ7SwogRLKFUb-vnpxc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

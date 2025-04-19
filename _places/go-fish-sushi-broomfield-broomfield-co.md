@@ -5,6 +5,11 @@ permalink: /colorado/broomfield/go-fish-sushi-broomfield.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Broomfield
+seo:
+  name: "Go Fish Sushi Broomfield"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Broomfield, Colorado? Check out Go Fish Sushi Broomfield for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJh2zGV3J1bIcRkHqIsw5-SWY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/sacramento/fish-face-poke-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Sacramento
+seo:
+  name: "Fish Face Poke Bar"
+  type: Restaurant
+  links: http://www.fishfacepokebar.com/
+description: "Looking for sushi in Sacramento, California? Check out Fish Face Poke Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJXz2huCbRmoARo1hjlaU4-mc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 461
 website: http://www.fishfacepokebar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

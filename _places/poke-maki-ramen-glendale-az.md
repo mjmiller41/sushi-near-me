@@ -5,6 +5,11 @@ permalink: /arizona/glendale/poke-maki-ramen.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Glendale
+seo:
+  name: "Poke Maki Ramen"
+  type: Restaurant
+  links: http://www.pokemakionline.com/
+description: "Looking for sushi in Glendale, Arizona? Check out Poke Maki Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJYYa67xNpK4cRfxolwtOwrIw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 198
 website: http://www.pokemakionline.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

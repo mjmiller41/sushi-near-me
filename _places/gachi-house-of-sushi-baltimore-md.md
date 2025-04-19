@@ -5,6 +5,11 @@ permalink: /maryland/baltimore/gachi-house-of-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
+seo:
+  name: "Gachi House of Sushi"
+  type: Restaurant
+  links: http://gachisushi.com/
+description: "Rolls, sashimi, salads & cooked Japanese fare served in a contemporary setting with a sushi bar. Looking for sushi in Baltimore, Maryland? Check out Gachi Ho..."
 place_id: ChIJve_XZPLit4kRuOIy-D7bq78
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 319
 website: http://gachisushi.com/
-description: >-
-  Rolls, sashimi, salads & cooked Japanese fare served in a contemporary setting
-  with a sushi bar.
 reviews:
   - name: >-
       places/ChIJve_XZPLit4kRuOIy-D7bq78/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OXM2bTFRRRAB
@@ -360,5 +362,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Rolls, sashimi, salads & cooked Japanese fare served in a contemporary setting
+  with a sushi bar.
 
 ---

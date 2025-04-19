@@ -5,6 +5,11 @@ permalink: /new-hampshire/hanover/sushiya.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Hanover
+seo:
+  name: "Sushiya"
+  type: Restaurant
+  links: http://sushiya.raniii.com/
+description: "Storefront nook with a relaxed vibe making creative sushi rolls along with Japanese & Korean plates. Looking for sushi in Hanover, New Hampshire? Check out S..."
 place_id: ChIJ8bP0O-bJtEwROePWcygTqsg
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 378
 website: http://sushiya.raniii.com/
-description: >-
-  Storefront nook with a relaxed vibe making creative sushi rolls along with
-  Japanese & Korean plates.
 reviews:
   - name: >-
       places/ChIJ8bP0O-bJtEwROePWcygTqsg/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzX19PNlJREAE
@@ -363,5 +365,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Storefront nook with a relaxed vibe making creative sushi rolls along with
+  Japanese & Korean plates.
 
 ---

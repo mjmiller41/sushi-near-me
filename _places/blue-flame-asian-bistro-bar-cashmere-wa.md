@@ -5,6 +5,11 @@ permalink: /washington/cashmere/blue-flame-asian-bistro-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Cashmere
+seo:
+  name: "Blue Flame Asian Bistro & Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Cashmere, Washington? Check out Blue Flame Asian Bistro & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJAWLOTdNKmlQRBnG07WgNZ9c
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

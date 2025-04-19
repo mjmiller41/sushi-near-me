@@ -5,6 +5,11 @@ permalink: /new-york/piermont/sabi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Piermont
+seo:
+  name: "Sabi Sushi"
+  type: Restaurant
+  links: http://www.sabisushinyc.com/
+description: "Looking for sushi in Piermont, New York? Check out Sabi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJ9xEYSJfrwokR5OcHXj410G8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.7'
 rating_count: 56
 website: http://www.sabisushinyc.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ9xEYSJfrwokR5OcHXj410G8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3LWJIZG5BRRAB
@@ -343,5 +347,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

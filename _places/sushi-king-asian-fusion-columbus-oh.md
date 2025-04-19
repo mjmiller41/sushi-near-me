@@ -5,6 +5,11 @@ permalink: /ohio/columbus/sushi-king-asian-fusion.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
+seo:
+  name: "Sushi king Asian Fusion"
+  type: Restaurant
+  links: https://www.sushikingoh.com/
+description: "Looking for sushi in Columbus, Ohio? Check out Sushi king Asian Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJZz99Y86POIgRQG3qGey_S6g
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 32
 website: https://www.sushikingoh.com/
-description: null
 reviews:
   - name: >-
       places/ChIJZz99Y86POIgRQG3qGey_S6g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUeThTTFVnEAE
@@ -373,5 +377,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

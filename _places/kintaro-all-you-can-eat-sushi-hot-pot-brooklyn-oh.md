@@ -5,6 +5,11 @@ permalink: /ohio/brooklyn/kintaro-all-you-can-eat-sushi-hot-pot.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Brooklyn
+seo:
+  name: "Kintaro All You Can Eat Sushi & Hot Pot"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Brooklyn, Ohio? Check out Kintaro All You Can Eat Sushi & Hot Pot for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJux0-ZlXuMIgRrQyvS4DW3Zw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

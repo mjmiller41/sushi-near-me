@@ -5,6 +5,11 @@ permalink: /california/walnut-creek/nama-sushi-teriyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Walnut Creek
+seo:
+  name: "Nama Sushi & Teriyaki"
+  type: Restaurant
+  links: https://order.online/business/nama-sushi--teriyaki-22209
+description: "Looking for sushi in Walnut Creek, California? Check out Nama Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJN_JkpnJhhYARxs-IHYDx4y8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 301
 website: https://order.online/business/nama-sushi--teriyaki-22209
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

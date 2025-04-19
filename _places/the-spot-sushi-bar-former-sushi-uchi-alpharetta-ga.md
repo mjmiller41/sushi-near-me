@@ -5,6 +5,11 @@ permalink: /georgia/alpharetta/the-spot-sushi-bar-former-sushi-uchi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Alpharetta
+seo:
+  name: "The Spot sushi bar (former Sushi Uchi)"
+  type: Restaurant
+  links: http://restaurantwebexperts.com/SushiUchi/
+description: "Relaxed restaurant turning out an array of sushi & hot Japanese plates in cozy quarters. Looking for sushi in Alpharetta, Georgia? Check out The Spot sushi b..."
 place_id: ChIJ43hYvYIK9YgR9OI-nSrsZrs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 324
 website: http://restaurantwebexperts.com/SushiUchi/
-description: >-
-  Relaxed restaurant turning out an array of sushi & hot Japanese plates in cozy
-  quarters.
 reviews:
   - name: >-
       places/ChIJ43hYvYIK9YgR9OI-nSrsZrs/reviews/ChZDSUhNMG9nS0VJQ0FnSURYMVBLT05REAE
@@ -435,5 +437,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed restaurant turning out an array of sushi & hot Japanese plates in cozy
+  quarters.
 
 ---

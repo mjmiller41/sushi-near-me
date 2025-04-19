@@ -5,6 +5,11 @@ permalink: /virginia/midlothian/katana-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Midlothian
+seo:
+  name: "Katana Sushi"
+  type: Restaurant
+  links: https://www.facebook.com/MidlothianKatanaSushi?ref=hl
+description: "Looking for sushi in Midlothian, Virginia? Check out Katana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJZUoZKgFusYkRmqxeJ-J-Cp0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 538
 website: https://www.facebook.com/MidlothianKatanaSushi?ref=hl
-description: null
 reviews:
   - name: >-
       places/ChIJZUoZKgFusYkRmqxeJ-J-Cp0/reviews/ChZDSUhNMG9nS0VJQ0FnSURQcHB5ZmVREAE
@@ -383,5 +387,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

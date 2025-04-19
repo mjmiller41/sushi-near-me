@@ -5,6 +5,11 @@ permalink: /wisconsin/beloit/zen-sushi-grill.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Beloit
+seo:
+  name: "Zen Sushi & Grill"
+  type: Restaurant
+  links: https://www.zensushibeloit.com/
+description: "Creative rolls & Japanese grilled fare are highlighted at this chill spot with cocktails & a patio. Looking for sushi in Beloit, Wisconsin? Check out Zen Sus..."
 place_id: ChIJ4RlAGyOhCIgRELHNXaaH6Io
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1012
 website: https://www.zensushibeloit.com/
-description: >-
-  Creative rolls & Japanese grilled fare are highlighted at this chill spot with
-  cocktails & a patio.
 reviews:
   - name: >-
       places/ChIJ4RlAGyOhCIgRELHNXaaH6Io/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcVBmQ1pnEAE
@@ -399,5 +401,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Creative rolls & Japanese grilled fare are highlighted at this chill spot with
+  cocktails & a patio.
 
 ---

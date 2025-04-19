@@ -5,6 +5,11 @@ permalink: /michigan/east-lansing/maru-sushi-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
+seo:
+  name: "Maru Sushi & Grill"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in East Lansing, Michigan? Check out Maru Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJJVShYpfpIogRAdj1sr0P8dk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

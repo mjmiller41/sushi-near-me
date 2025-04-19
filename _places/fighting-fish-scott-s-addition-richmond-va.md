@@ -5,6 +5,11 @@ permalink: /virginia/richmond/fighting-fish-scott-s-addition.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Richmond
+seo:
+  name: "Fighting Fish Scott’s Addition"
+  type: Restaurant
+  links: http://fightingfishrva.com/
+description: "A menu with creative takes on Japanese sushi (bowls, burritos, & rolls) in a cozy, casual space. Looking for sushi in Richmond, Virginia? Check out Fighting ..."
 place_id: ChIJJ10HqaoWsYkRxsycXWo2zVo
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 595
 website: http://fightingfishrva.com/
-description: >-
-  A menu with creative takes on Japanese sushi (bowls, burritos, & rolls) in a
-  cozy, casual space.
 reviews:
   - name: >-
       places/ChIJJ10HqaoWsYkRxsycXWo2zVo/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3a00zY0hnEAE
@@ -392,5 +394,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  A menu with creative takes on Japanese sushi (bowls, burritos, & rolls) in a
+  cozy, casual space.
 
 ---

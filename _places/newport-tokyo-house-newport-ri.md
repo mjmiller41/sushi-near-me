@@ -5,6 +5,11 @@ permalink: /rhode-island/newport/newport-tokyo-house.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Newport
+seo:
+  name: "Newport Tokyo House"
+  type: Restaurant
+  links: https://www.newporttokyohousenewport.com/
+description: "Casual Japanese restaurant featuring teppanyaki chefs cooking tabletop & a sushi menu. Looking for sushi in Newport, Rhode Island? Check out Newport Tokyo Ho..."
 place_id: ChIJIU5xiz-v5YkROsvLCyhgnE0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 403
 website: https://www.newporttokyohousenewport.com/
-description: >-
-  Casual Japanese restaurant featuring teppanyaki chefs cooking tabletop & a
-  sushi menu.
 reviews:
   - name: >-
       places/ChIJIU5xiz-v5YkROsvLCyhgnE0/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdGNPOXpBRRAB
@@ -360,5 +362,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual Japanese restaurant featuring teppanyaki chefs cooking tabletop & a
+  sushi menu.
 
 ---

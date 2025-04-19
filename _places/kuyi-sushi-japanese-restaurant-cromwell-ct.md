@@ -5,6 +5,11 @@ permalink: /connecticut/cromwell/kuyi-sushi-japanese-restaurant.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Cromwell
+seo:
+  name: "Kuyi Sushi Japanese Restaurant"
+  type: Restaurant
+  links: https://www.kuyisushi.com/
+description: "Looking for sushi in Cromwell, Connecticut? Check out Kuyi Sushi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJd_gPim1L5okRSkSw0Ew-7-8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 224
 website: https://www.kuyisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJd_gPim1L5okRSkSw0Ew-7-8/reviews/ChdDSUhNMG9nS0VJQ0FnSURuem9Ma2dBRRAB
@@ -398,5 +402,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

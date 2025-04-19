@@ -5,6 +5,11 @@ permalink: /kentucky/louisville/sakura-blue.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Louisville
+seo:
+  name: "Sakura Blue"
+  type: Restaurant
+  links: http://sakurabluelouisville.com/
+description: "Relaxed restaurant offering classic Japanese cuisine at the sushi bar or hibachi tables. Looking for sushi in Louisville, Kentucky? Check out Sakura Blue for..."
 place_id: ChIJnyANjzt1aYgRK8fWJDri2sw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 634
 website: http://sakurabluelouisville.com/
-description: >-
-  Relaxed restaurant offering classic Japanese cuisine at the sushi bar or
-  hibachi tables.
 reviews:
   - name: >-
       places/ChIJnyANjzt1aYgRK8fWJDri2sw/reviews/ChdDSUhNMG9nS0VJQ0FnTURnMHV2ZGhnRRAB
@@ -368,5 +370,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed restaurant offering classic Japanese cuisine at the sushi bar or
+  hibachi tables.
 
 ---

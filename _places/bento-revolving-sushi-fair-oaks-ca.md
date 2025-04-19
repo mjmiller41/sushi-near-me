@@ -5,6 +5,11 @@ permalink: /california/fair-oaks/bento-revolving-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fair Oaks
+seo:
+  name: "Bento Revolving Sushi"
+  type: Restaurant
+  links: https://direct.chownow.com/order/19276/locations/62858?cn_channel=cn_google&utm_source=cn_google
+description: "Looking for sushi in Fair Oaks, California? Check out Bento Revolving Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJb2rF037nmoARBcdOv3Ps35I
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.3'
 rating_count: 327
 website: >-
   https://direct.chownow.com/order/19276/locations/62858?cn_channel=cn_google&utm_source=cn_google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

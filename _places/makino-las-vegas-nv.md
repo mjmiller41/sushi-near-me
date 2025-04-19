@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/makino.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "Makino"
+  type: Restaurant
+  links: https://www.fooddiscoveryapp.com/las-vegas/makino
+description: "Looking for sushi in Las Vegas, Nevada? Check out Makino for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJj17b677GyIARR1-aA9Fybko
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 2589
 website: https://www.fooddiscoveryapp.com/las-vegas/makino
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

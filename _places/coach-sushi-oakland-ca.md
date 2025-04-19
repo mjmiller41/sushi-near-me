@@ -5,6 +5,11 @@ permalink: /california/oakland/coach-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
+seo:
+  name: "Coach Sushi"
+  type: Restaurant
+  links: https://www.coachsushius.com/
+description: "Looking for sushi in Oakland, California? Check out Coach Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJk-MAj0aHj4ARajSMdt4JfGY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 294
 website: https://www.coachsushius.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

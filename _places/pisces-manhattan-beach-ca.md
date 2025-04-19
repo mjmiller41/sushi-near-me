@@ -5,6 +5,11 @@ permalink: /california/manhattan-beach/pisces.html
 stateAbbr: CA
 stateName: California
 cityName: Manhattan Beach
+seo:
+  name: "Pisces"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Manhattan Beach, California? Check out Pisces for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJgUxBJ96zwoARe0NzkFF7l_g
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 108
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

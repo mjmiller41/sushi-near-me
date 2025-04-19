@@ -5,6 +5,11 @@ permalink: /tennessee/nashville/dynasty-super-buffet.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
+seo:
+  name: "Dynasty Super Buffet"
+  type: Restaurant
+  links: https://dynastysupertn.com/
+description: "All-you-can-eat Asian spread (available for carry-out) plus hibachi grill, sushi & lunch specials. Looking for sushi in Nashville, Tennessee? Check out Dynas..."
 place_id: ChIJ40x90ttvZIgRjQvXyAmhU4Y
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.6'
 rating_count: 984
 website: https://dynastysupertn.com/
-description: >-
-  All-you-can-eat Asian spread (available for carry-out) plus hibachi grill,
-  sushi & lunch specials.
 reviews:
   - name: >-
       places/ChIJ40x90ttvZIgRjQvXyAmhU4Y/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJLTRQWXJBRRAB
@@ -477,5 +479,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  All-you-can-eat Asian spread (available for carry-out) plus hibachi grill,
+  sushi & lunch specials.
 
 ---

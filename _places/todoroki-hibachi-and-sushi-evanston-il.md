@@ -5,6 +5,11 @@ permalink: /illinois/evanston/todoroki-hibachi-and-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Evanston
+seo:
+  name: "Todoroki Hibachi and Sushi"
+  type: Restaurant
+  links: http://www.mytodorokievanston.com/
+description: "Japanese dining favorites highlighted in modern & minimalist surroundings with leather chairs. Looking for sushi in Evanston, Illinois? Check out Todoroki Hi..."
 place_id: ChIJUamLaQ3QD4gR9XQZnxkitSM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 759
 website: http://www.mytodorokievanston.com/
-description: >-
-  Japanese dining favorites highlighted in modern & minimalist surroundings with
-  leather chairs.
 reviews:
   - name: >-
       places/ChIJUamLaQ3QD4gR9XQZnxkitSM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfOGR1TGJREAE
@@ -357,5 +359,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese dining favorites highlighted in modern & minimalist surroundings with
+  leather chairs.
 
 ---

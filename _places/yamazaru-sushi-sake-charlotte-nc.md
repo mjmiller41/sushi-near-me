@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/yamazaru-sushi-sake.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "Yamazaru Sushi & Sake"
+  type: Restaurant
+  links: https://yamazarusouthend.com/
+description: "Stylish restaurant offering a Japanese menu of noodles, ramen & sushi plus cocktails, sake & beer. Looking for sushi in Charlotte, North Carolina? Check out ..."
 place_id: ChIJL1q3ZXCfVogRT2gZETIrv-0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1102
 website: https://yamazarusouthend.com/
-description: >-
-  Stylish restaurant offering a Japanese menu of noodles, ramen & sushi plus
-  cocktails, sake & beer.
 reviews:
   - name: >-
       places/ChIJL1q3ZXCfVogRT2gZETIrv-0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRai1hLVlBEAE
@@ -399,5 +401,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Stylish restaurant offering a Japanese menu of noodles, ramen & sushi plus
+  cocktails, sake & beer.
 
 ---

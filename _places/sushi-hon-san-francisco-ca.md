@@ -5,6 +5,11 @@ permalink: /california/san-francisco/sushi-hon.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Sushi Hon"
+  type: Restaurant
+  links: https://www.sushihon-sf.com/
+description: "Elevated bistro serving sushi, à la carte Japanese classics & an omakase menu in modern environs. Looking for sushi in San Francisco, California? Check out S..."
 place_id: ChIJE2a89jd-j4ARog5W0hCaIss
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 447
 website: https://www.sushihon-sf.com/
-description: >-
-  Elevated bistro serving sushi, à la carte Japanese classics & an omakase menu
-  in modern environs.
 reviews:
   - name: >-
       places/ChIJE2a89jd-j4ARog5W0hCaIss/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbkliQ2tRRRAB
@@ -463,5 +465,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Elevated bistro serving sushi, à la carte Japanese classics & an omakase menu
+  in modern environs.
 
 ---

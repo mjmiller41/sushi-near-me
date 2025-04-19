@@ -5,6 +5,11 @@ permalink: /arizona/gilbert/masa-sushi-japanese-cuisine-gilbert.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
+seo:
+  name: "Masa Sushi Japanese Cuisine Gilbert"
+  type: Restaurant
+  links: https://masasushigilbert.com/
+description: "Looking for sushi in Gilbert, Arizona? Check out Masa Sushi Japanese Cuisine Gilbert for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJZQF2Qh6pK4cRA8Tk5TODj-c
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 757
 website: https://masasushigilbert.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

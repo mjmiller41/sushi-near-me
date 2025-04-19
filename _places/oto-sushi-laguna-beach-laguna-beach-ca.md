@@ -5,6 +5,11 @@ permalink: /california/laguna-beach/oto-sushi-laguna-beach.html
 stateAbbr: CA
 stateName: California
 cityName: Laguna Beach
+seo:
+  name: "Oto Sushi - Laguna Beach"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Laguna Beach, California? Check out Oto Sushi - Laguna Beach for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJw0Bsuwzl3IARzbZPBC_cgyI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

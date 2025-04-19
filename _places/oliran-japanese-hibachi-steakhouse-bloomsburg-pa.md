@@ -5,6 +5,11 @@ permalink: /pennsylvania/bloomsburg/oliran-japanese-hibachi-steakhouse.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bloomsburg
+seo:
+  name: "Oliran Japanese Hibachi Steakhouse"
+  type: Restaurant
+  links: https://www.oliranpa.com/
+description: "Looking for sushi in Bloomsburg, Pennsylvania? Check out Oliran Japanese Hibachi Steakhouse for a delightful Japanese dining experience. Enjoy a variety of s..."
 place_id: ChIJIdeNe3GHxYkRsrZTzGJ1wCg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1226
 website: https://www.oliranpa.com/
-description: null
 reviews:
   - name: >-
       places/ChIJIdeNe3GHxYkRsrZTzGJ1wCg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzdDlhU3BRRRAB
@@ -398,5 +402,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

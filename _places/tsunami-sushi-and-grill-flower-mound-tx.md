@@ -5,6 +5,11 @@ permalink: /texas/flower-mound/tsunami-sushi-and-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: Flower Mound
+seo:
+  name: "Tsunami Sushi and Grill"
+  type: Restaurant
+  links: https://www.tsunamiflowermound.com/
+description: "Looking for sushi in Flower Mound, Texas? Check out Tsunami Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ78R2lGotTIYRP5p748u5qC4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 331
 website: https://www.tsunamiflowermound.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

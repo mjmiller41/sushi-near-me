@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/fukuyama.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Fukuyama"
+  type: Restaurant
+  links: http://www.fukuyamaasianfusion.com/?utm_source=gmb&utm_medium=website
+description: "Compact, casual Japanese eatery serving sushi & sashimi, plus ramen, teriyaki & more. Looking for sushi in Brooklyn, New York? Check out Fukuyama for a delig..."
 place_id: ChIJe6p921lZwokRhA50_MIlfR0
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 160
 website: http://www.fukuyamaasianfusion.com/?utm_source=gmb&utm_medium=website
-description: >-
-  Compact, casual Japanese eatery serving sushi & sashimi, plus ramen, teriyaki
-  & more.
 reviews:
   - name: >-
       places/ChIJe6p921lZwokRhA50_MIlfR0/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3em9HU2ZBEAE
@@ -392,5 +394,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Compact, casual Japanese eatery serving sushi & sashimi, plus ramen, teriyaki
+  & more.
 
 ---

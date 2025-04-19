@@ -5,6 +5,11 @@ permalink: /ohio/north-ridgeville/fuji-san.html
 stateAbbr: OH
 stateName: Ohio
 cityName: North Ridgeville
+seo:
+  name: "Fuji San"
+  type: Restaurant
+  links: http://www.fujisanoh.com/
+description: "Looking for sushi in North Ridgeville, Ohio? Check out Fuji San for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJtWtzLACXMIgRDfUAb0hUezI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 58
 website: http://www.fujisanoh.com/
-description: null
 reviews:
   - name: >-
       places/ChIJtWtzLACXMIgRDfUAb0hUezI/reviews/ChZDSUhNMG9nS0VJQ0FnTURncDZ5SkxBEAE
@@ -367,5 +371,6 @@ serves_lunch: false
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

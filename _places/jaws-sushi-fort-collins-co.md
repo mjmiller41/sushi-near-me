@@ -5,6 +5,11 @@ permalink: /colorado/fort-collins/jaws-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Fort Collins
+seo:
+  name: "JAWS sushi"
+  type: Restaurant
+  links: http://www.jawsfoco.com/
+description: "Looking for sushi in Fort Collins, Colorado? Check out JAWS sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJe_Jlp0hKaYcRYEXSkEjNcIw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 1369
 website: http://www.jawsfoco.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

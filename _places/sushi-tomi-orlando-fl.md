@@ -5,6 +5,11 @@ permalink: /florida/orlando/sushi-tomi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Sushi Tomi"
+  type: Restaurant
+  links: http://www.sushitomiorlando.com/
+description: "Familiar Japanese restaurant & sushi bar offering a full menu including other Japanese specialties. Looking for sushi in Orlando, Florida? Check out Sushi To..."
 place_id: ChIJQ83xudV954gRnaZsKRtLWbg
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 738
 website: http://www.sushitomiorlando.com/
-description: >-
-  Familiar Japanese restaurant & sushi bar offering a full menu including other
-  Japanese specialties.
 reviews:
   - name: >-
       places/ChIJQ83xudV954gRnaZsKRtLWbg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBbE1Md1JnEAE
@@ -371,5 +373,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Familiar Japanese restaurant & sushi bar offering a full menu including other
+  Japanese specialties.
 
 ---

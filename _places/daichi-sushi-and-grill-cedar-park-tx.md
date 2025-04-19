@@ -5,6 +5,11 @@ permalink: /texas/cedar-park/daichi-sushi-and-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: Cedar Park
+seo:
+  name: "Daichi Sushi and Grill"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Cedar Park, Texas? Check out Daichi Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJSUi3rJotW4YRmBQaChc6vTc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 149
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

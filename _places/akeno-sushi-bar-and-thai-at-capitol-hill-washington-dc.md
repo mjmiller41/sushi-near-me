@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/akeno-sushi-bar-and-thai-at-capitol-
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Akeno Sushi Bar and Thai at Capitol Hill"
+  type: Restaurant
+  links: https://akenosushibar.com/akenosushibarandthaiatcapitolhill?utm_source=google
+description: "Sushi and Thai fare, plus drinks, offered in a chill space featuring a rooftop. Looking for sushi in Washington, District of Columbia? Check out Akeno Sushi ..."
 place_id: ChIJzZX3JGe5t4kRAkx2g1Q4y_8
 photos:
   - name: >-
@@ -176,9 +181,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://akenosushibar.com/akenosushibarandthaiatcapitolhill?utm_source=google
-description: >-
-  Sushi and Thai fare, plus drinks, offered in a chill space featuring a
-  rooftop.
 reviews:
   - name: >-
       places/ChIJzZX3JGe5t4kRAkx2g1Q4y_8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3eEp5OHR3RRAB
@@ -473,5 +475,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi and Thai fare, plus drinks, offered in a chill space featuring a
+  rooftop.
 
 ---

@@ -5,6 +5,11 @@ permalink: /florida/tampa/jackson-s-bistro-bar-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
+seo:
+  name: "Jackson's Bistro, Bar & Sushi"
+  type: Restaurant
+  links: https://www.jacksonsbistro.com/
+description: "Looking for sushi in Tampa, Florida? Check out Jackson's Bistro, Bar & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJF3KEwZLEwogRaqYCFY7x_0k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 6254
 website: https://www.jacksonsbistro.com/
-description: null
 reviews:
   - name: >-
       places/ChIJF3KEwZLEwogRaqYCFY7x_0k/reviews/ChdDSUhNMG9nS0VJQ0FnTURJLUtQUXhRRRAB
@@ -428,5 +432,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

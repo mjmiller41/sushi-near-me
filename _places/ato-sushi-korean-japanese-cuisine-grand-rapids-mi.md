@@ -5,6 +5,11 @@ permalink: /michigan/grand-rapids/ato-sushi-korean-japanese-cuisine.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Grand Rapids
+seo:
+  name: "ATO SUSHI Korean & Japanese Cuisine"
+  type: Restaurant
+  links: https://www.atosushigr.com/
+description: "Compact cafe mixing classic Korean & Japanese fare including BBQ, noodles, sushi & bento boxes. Looking for sushi in Grand Rapids, Michigan? Check out ATO SU..."
 place_id: ChIJ___veMWtGYgR2hdjnPXd58g
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 968
 website: https://www.atosushigr.com/
-description: >-
-  Compact cafe mixing classic Korean & Japanese fare including BBQ, noodles,
-  sushi & bento boxes.
 reviews:
   - name: >-
       places/ChIJ___veMWtGYgR2hdjnPXd58g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQNUx2RUt3EAE
@@ -413,5 +415,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Compact cafe mixing classic Korean & Japanese fare including BBQ, noodles,
+  sushi & bento boxes.
 
 ---

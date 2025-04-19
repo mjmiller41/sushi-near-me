@@ -5,6 +5,11 @@ permalink: /texas/austin/barchi-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "BarChi Sushi"
+  type: Restaurant
+  links: http://www.barchisushi.com/
+description: "Looking for sushi in Austin, Texas? Check out BarChi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJk5k9kQi1RIYRO2s3u2CYNBs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 1059
 website: http://www.barchisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

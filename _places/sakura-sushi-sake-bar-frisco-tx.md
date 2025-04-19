@@ -5,6 +5,11 @@ permalink: /texas/frisco/sakura-sushi-sake-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Frisco
+seo:
+  name: "Sakura Sushi & Sake Bar"
+  type: Restaurant
+  links: http://sakura-frisco.com/
+description: "Looking for sushi in Frisco, Texas? Check out Sakura Sushi & Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJpWdXU1k7TIYRkR3rP1UELkk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 394
 website: http://sakura-frisco.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

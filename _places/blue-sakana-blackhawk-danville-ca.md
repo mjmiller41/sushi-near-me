@@ -5,6 +5,11 @@ permalink: /california/danville/blue-sakana-blackhawk.html
 stateAbbr: CA
 stateName: California
 cityName: Danville
+seo:
+  name: "Blue Sakana Blackhawk"
+  type: Restaurant
+  links: https://bluesakanablackhawk.com/contact/
+description: "Looking for sushi in Danville, California? Check out Blue Sakana Blackhawk for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJlzHETzfyj4AR-hT8V2EUlZI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.1'
 rating_count: 207
 website: https://bluesakanablackhawk.com/contact/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

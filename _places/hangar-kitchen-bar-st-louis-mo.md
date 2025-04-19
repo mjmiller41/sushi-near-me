@@ -5,6 +5,11 @@ permalink: /missouri/st-louis/hangar-kitchen-bar.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
+seo:
+  name: "Hangar Kitchen + Bar"
+  type: Restaurant
+  links: https://www.hangarkitchenandbarstl.com/
+description: "Sushi & tacos, plus handcrafted cocktails, draft beer & champagne presented in a stylish setting. Looking for sushi in St. Louis, Missouri? Check out Hangar ..."
 place_id: ChIJff5FK2HL2IcRlbK5PgqBz-s
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 274
 website: https://www.hangarkitchenandbarstl.com/
-description: >-
-  Sushi & tacos, plus handcrafted cocktails, draft beer & champagne presented in
-  a stylish setting.
 reviews:
   - name: >-
       places/ChIJff5FK2HL2IcRlbK5PgqBz-s/reviews/ChdDSUhNMG9nS0VJQ0FnSURiamVpdXdnRRAB
@@ -389,5 +391,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi & tacos, plus handcrafted cocktails, draft beer & champagne presented in
+  a stylish setting.
 
 ---

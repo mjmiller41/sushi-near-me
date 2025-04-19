@@ -5,6 +5,11 @@ permalink: /california/san-jose/cha-cha-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Cha Cha Sushi"
+  type: Restaurant
+  links: http://www.chachasushi.com/
+description: "Looking for sushi in San Jose, California? Check out Cha Cha Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJZXPuq0syjoAR8Y9FHnWb86o
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1349
 website: http://www.chachasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

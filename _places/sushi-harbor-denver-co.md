@@ -5,6 +5,11 @@ permalink: /colorado/denver/sushi-harbor.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Sushi Harbor"
+  type: Restaurant
+  links: https://www.sushiharborco.com/
+description: "Looking for sushi in Denver, Colorado? Check out Sushi Harbor for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJbXjxAx58bIcRloiV8sZYjus
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 497
 website: https://www.sushiharborco.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

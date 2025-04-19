@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/ninja-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Ninja Sushi"
+  type: Restaurant
+  links: http://www.ninja86.com/
+description: "Looking for sushi in Brooklyn, New York? Check out Ninja Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJW9FoJz9FwokRqivBWMHGpzo
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 288
 website: http://www.ninja86.com/
-description: null
 reviews:
   - name: >-
       places/ChIJW9FoJz9FwokRqivBWMHGpzo/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bk1IU2FnEAE
@@ -339,5 +343,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

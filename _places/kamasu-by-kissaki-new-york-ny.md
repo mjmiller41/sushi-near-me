@@ -5,6 +5,11 @@ permalink: /new-york/new-york/kamasu-by-kissaki.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Kamasu by Kissaki"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New York, New York? Check out Kamasu by Kissaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJVU9-Q5JZwokR6OX1_pbtH9M
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '3.9'
 rating_count: 255
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJVU9-Q5JZwokR6OX1_pbtH9M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmdmJtazJ3RRAB
@@ -505,5 +509,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

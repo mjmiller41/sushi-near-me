@@ -5,6 +5,11 @@ permalink: /pennsylvania/elizabethtown/hokkaido-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Elizabethtown
+seo:
+  name: "Hokkaido Sushi"
+  type: Restaurant
+  links: http://www.hokkaido1623.com/
+description: "Looking for sushi in Elizabethtown, Pennsylvania? Check out Hokkaido Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJk0F14_yYyIkRDF5Y1A8I37k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 334
 website: http://www.hokkaido1623.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

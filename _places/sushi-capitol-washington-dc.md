@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/sushi-capitol.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Sushi Capitol"
+  type: Restaurant
+  links: http://www.sushicapitol.com/
+description: "Traditional cuts & creative rolls fill the menu at this sleek Japanese storefront with a view. Looking for sushi in Washington, District of Columbia? Check o..."
 place_id: ChIJ7QwI0S24t4kRlJqAPWb4mVg
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: null
 rating: '4.4'
 rating_count: 326
 website: http://www.sushicapitol.com/
-description: >-
-  Traditional cuts & creative rolls fill the menu at this sleek Japanese
-  storefront with a view.
 reviews:
   - name: >-
       places/ChIJ7QwI0S24t4kRlJqAPWb4mVg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuNnJtYXd3RRAB
@@ -367,5 +369,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Traditional cuts & creative rolls fill the menu at this sleek Japanese
+  storefront with a view.
 
 ---

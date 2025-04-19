@@ -5,6 +5,11 @@ permalink: /new-york/new-york/kanoyama.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Kanoyama"
+  type: Restaurant
+  links: http://www.kanoyama.com/
+description: "Basic space serving broad variety of fish (plus vegetarian options), with adjacent sake/oyster bar. Looking for sushi in New York, New York? Check out Kanoya..."
 place_id: ChIJQzryKJxZwokRYH9Qt5wh3ZY
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $100 &ndash; & up
 rating: '4.3'
 rating_count: 613
 website: http://www.kanoyama.com/
-description: >-
-  Basic space serving broad variety of fish (plus vegetarian options), with
-  adjacent sake/oyster bar.
 reviews:
   - name: >-
       places/ChIJQzryKJxZwokRYH9Qt5wh3ZY/reviews/ChdDSUhNMG9nS0VJQ0FnTURnaC1IQWl3RRAB
@@ -391,5 +393,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Basic space serving broad variety of fish (plus vegetarian options), with
+  adjacent sake/oyster bar.
 
 ---

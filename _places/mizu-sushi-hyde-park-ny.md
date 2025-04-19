@@ -5,6 +5,11 @@ permalink: /new-york/hyde-park/mizu-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Hyde Park
+seo:
+  name: "Mizu Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Hyde Park, New York? Check out Mizu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJE5kaGCEU3YkRoiva-HBjs4Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

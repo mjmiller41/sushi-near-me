@@ -5,6 +5,11 @@ permalink: /virginia/chesapeake/kagura-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesapeake
+seo:
+  name: "Kagura Japanese Restaurant"
+  type: Restaurant
+  links: http://www.kagurajapanesesushi.com/?utm_source=gmb&utm_medium=website
+description: "Relaxed place offering all-you-can-eat lunch & dinner buffets of sushi & other Japanese fare. Looking for sushi in Chesapeake, Virginia? Check out Kagura Jap..."
 place_id: ChIJdRA04hq7uokR2DBxeV-k15A
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 927
 website: http://www.kagurajapanesesushi.com/?utm_source=gmb&utm_medium=website
-description: >-
-  Relaxed place offering all-you-can-eat lunch & dinner buffets of sushi & other
-  Japanese fare.
 reviews:
   - name: >-
       places/ChIJdRA04hq7uokR2DBxeV-k15A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbHRmUzlnRRAB
@@ -363,5 +365,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed place offering all-you-can-eat lunch & dinner buffets of sushi & other
+  Japanese fare.
 
 ---

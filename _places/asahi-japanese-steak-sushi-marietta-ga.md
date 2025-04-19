@@ -5,6 +5,11 @@ permalink: /georgia/marietta/asahi-japanese-steak-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
+seo:
+  name: "Asahi Japanese Steak & Sushi"
+  type: Restaurant
+  links: http://www.asahimarietta.com/
+description: "Varied hibachi, tempura & sushi options fill the menu at this informal establishment. Looking for sushi in Marietta, Georgia? Check out Asahi Japanese Steak ..."
 place_id: ChIJN2DvezFt9YgR_tyo5ulJjEM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 284
 website: http://www.asahimarietta.com/
-description: >-
-  Varied hibachi, tempura & sushi options fill the menu at this informal
-  establishment.
 reviews:
   - name: >-
       places/ChIJN2DvezFt9YgR_tyo5ulJjEM/reviews/ChdDSUhNMG9nS0VJQ0FnSURyMTdERjlRRRAB
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Varied hibachi, tempura & sushi options fill the menu at this informal
+  establishment.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/tarzana/roll-roll.html
 stateAbbr: CA
 stateName: California
 cityName: Tarzana
+seo:
+  name: "Roll Roll"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Tarzana, California? Check out Roll Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJ02GKpUCZwoARbKIiQFHlVMA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

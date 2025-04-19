@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-ren.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi Ren"
+  type: Restaurant
+  links: https://www.sushiren.getsauce.com/?utm_source=GMB&utm_medium=Website+Button&utm_id=sushiren
+description: "Familiar Japanese dishes, sushi & cocktails in a modern space with a neon-lit bar & outdoor seats. Looking for sushi in New York, New York? Check out Sushi R..."
 place_id: ChIJY70GVLlYwokRH_QuxZjGWec
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.3'
 rating_count: 407
 website: >-
   https://www.sushiren.getsauce.com/?utm_source=GMB&utm_medium=Website+Button&utm_id=sushiren
-description: >-
-  Familiar Japanese dishes, sushi & cocktails in a modern space with a neon-lit
-  bar & outdoor seats.
 reviews:
   - name: >-
       places/ChIJY70GVLlYwokRH_QuxZjGWec/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzMTQza0R3EAE
@@ -421,5 +423,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Familiar Japanese dishes, sushi & cocktails in a modern space with a neon-lit
+  bar & outdoor seats.
 
 ---

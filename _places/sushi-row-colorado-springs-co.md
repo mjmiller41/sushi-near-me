@@ -5,6 +5,11 @@ permalink: /colorado/colorado-springs/sushi-row.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
+seo:
+  name: "Sushi Row"
+  type: Restaurant
+  links: https://sushi-row.com/
+description: "Looking for sushi in Colorado Springs, Colorado? Check out Sushi Row for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJ15UOdyNFE4cRG_0UQ-35O-Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.7'
 rating_count: 462
 website: https://sushi-row.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

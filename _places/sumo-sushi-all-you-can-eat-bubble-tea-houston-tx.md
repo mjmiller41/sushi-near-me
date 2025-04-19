@@ -5,6 +5,11 @@ permalink: /texas/houston/sumo-sushi-all-you-can-eat-bubble-tea.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "Sumo Sushi All You Can Eat & Bubble Tea"
+  type: Restaurant
+  links: http://www.sumosushihouston.com/
+description: "Looking for sushi in Houston, Texas? Check out Sumo Sushi All You Can Eat & Bubble Tea for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJVfDeQWjRQIYR5Pv28CYUMtY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 1038
 website: http://www.sumosushihouston.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

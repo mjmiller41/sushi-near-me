@@ -5,6 +5,11 @@ permalink: /massachusetts/cambridge/one-ramen-and-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Cambridge
+seo:
+  name: "One Ramen And Sushi"
+  type: Restaurant
+  links: http://oneramensushi.com/
+description: "Compact sushi bar & ramen house (popular for takeout) with lunch specials available. Looking for sushi in Cambridge, Massachusetts? Check out One Ramen And S..."
 place_id: ChIJMTKDQT5344kRdia0GkUoJto
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 478
 website: http://oneramensushi.com/
-description: >-
-  Compact sushi bar & ramen house (popular for takeout) with lunch specials
-  available.
 reviews:
   - name: >-
       places/ChIJMTKDQT5344kRdia0GkUoJto/reviews/ChdDSUhNMG9nS0VJQ0FnTURRaG82V3VBRRAB
@@ -373,5 +375,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Compact sushi bar & ramen house (popular for takeout) with lunch specials
+  available.
 
 ---

@@ -5,6 +5,11 @@ permalink: /florida/leesburg/sumi-sushi-hibachi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Leesburg
+seo:
+  name: "Sumi Sushi & Hibachi"
+  type: Restaurant
+  links: https://www.sumileesburg.com/
+description: "Looking for sushi in Leesburg, Florida? Check out Sumi Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJ0R2l6UvB54gRIOGoUgOR7zE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 257
 website: https://www.sumileesburg.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

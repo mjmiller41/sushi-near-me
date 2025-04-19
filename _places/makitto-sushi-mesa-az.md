@@ -5,6 +5,11 @@ permalink: /arizona/mesa/makitto-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Mesa
+seo:
+  name: "Makitto Sushi"
+  type: Restaurant
+  links: https://makittosushiaz.wixsite.com/makitto-sushi
+description: "Looking for sushi in Mesa, Arizona? Check out Makitto Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJ33zWFiwIK4cRthFGMgG-eDg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 434
 website: https://makittosushiaz.wixsite.com/makitto-sushi
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

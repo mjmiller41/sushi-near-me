@@ -5,6 +5,11 @@ permalink: /oklahoma/oklahoma-city/the-sushi-bar.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
+seo:
+  name: "The Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Oklahoma City, Oklahoma? Check out The Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJWXFboUADsocRMdmf4KZqsTU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

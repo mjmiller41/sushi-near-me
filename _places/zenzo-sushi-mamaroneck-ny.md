@@ -5,6 +5,11 @@ permalink: /new-york/mamaroneck/zenzo-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Mamaroneck
+seo:
+  name: "Zenzo Sushi"
+  type: Restaurant
+  links: http://www.izenzosushi.com/
+description: "Looking for sushi in Mamaroneck, New York? Check out Zenzo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJUcz1p5yRwokRi8eBdXeyvW8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 210
 website: http://www.izenzosushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJUcz1p5yRwokRi8eBdXeyvW8/reviews/ChZDSUhNMG9nS0VJQ0FnTURnb1A2dVNBEAE
@@ -374,5 +378,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-diego/the-joint-sushi-tapas.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "The Joint Sushi & Tapas"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Diego, California? Check out The Joint Sushi & Tapas for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJBWTtUDeq3oAR9qCdpu5szcI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

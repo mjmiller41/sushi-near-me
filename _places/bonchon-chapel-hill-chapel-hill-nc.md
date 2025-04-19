@@ -5,6 +5,11 @@ permalink: /north-carolina/chapel-hill/bonchon-chapel-hill.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Chapel Hill
+seo:
+  name: "Bonchon Chapel Hill"
+  type: Restaurant
+  links: https://locations.bonchon.com/ll/US/NC/Chapel-Hill/205-E-Franklin-St
+description: "Looking for sushi in Chapel Hill, North Carolina? Check out Bonchon Chapel Hill for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJs4gdt8LCrIkRDKRxgN3z02E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 650
 website: https://locations.bonchon.com/ll/US/NC/Chapel-Hill/205-E-Franklin-St
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

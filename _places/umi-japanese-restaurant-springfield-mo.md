@@ -5,6 +5,11 @@ permalink: /missouri/springfield/umi-japanese-restaurant.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Springfield
+seo:
+  name: "Umi Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Springfield, Missouri? Check out Umi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJddoEtZtkz4cRWvioylgIQlc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /georgia/atlanta/mujo.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
+seo:
+  name: "Mujō"
+  type: Restaurant
+  links: https://www.mujoatl.com/
+description: "Looking for sushi in Atlanta, Georgia? Check out Mujō for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJIb9pCKMF9YgRWsQF-tZOGdI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 180
 website: https://www.mujoatl.com/
-description: null
 reviews:
   - name: >-
       places/ChIJIb9pCKMF9YgRWsQF-tZOGdI/reviews/ChZDSUhNMG9nS0VJQ0FnTURJd05DV0FnEAE
@@ -508,5 +512,6 @@ serves_lunch: false
 serves_vegetarian_food: null
 serves_wine: true
 takeout: false
+summary: null
 
 ---

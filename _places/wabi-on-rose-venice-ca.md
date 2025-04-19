@@ -5,6 +5,11 @@ permalink: /california/venice/wabi-on-rose.html
 stateAbbr: CA
 stateName: California
 cityName: Venice
+seo:
+  name: "Wabi on Rose"
+  type: Restaurant
+  links: https://www.wabionrose.com/
+description: "Looking for sushi in Venice, California? Check out Wabi on Rose for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJCezw1kK7woARKAQBxgyXgdc
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 673
 website: https://www.wabionrose.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

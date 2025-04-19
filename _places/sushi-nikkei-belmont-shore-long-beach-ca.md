@@ -5,6 +5,11 @@ permalink: /california/long-beach/sushi-nikkei-belmont-shore.html
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
+seo:
+  name: "Sushi Nikkei (Belmont Shore)"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Long Beach, California? Check out Sushi Nikkei (Belmont Shore) for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJSUJW-mox3YARC4_8O_IUqSE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

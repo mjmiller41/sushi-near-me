@@ -5,6 +5,11 @@ permalink: /california/monterey/crystal-fish.html
 stateAbbr: CA
 stateName: California
 cityName: Monterey
+seo:
+  name: "Crystal Fish"
+  type: Restaurant
+  links: https://www.crystalfish-monterey.com/
+description: "Storefront sushi spot offers Japanese favorites, in addition to wine, beer, sake & lunch specials. Looking for sushi in Monterey, California? Check out Cryst..."
 place_id: ChIJLSqwjwLkjYARHAVS3BL45wY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1225
 website: https://www.crystalfish-monterey.com/
-description: >-
-  Storefront sushi spot offers Japanese favorites, in addition to wine, beer,
-  sake & lunch specials.
 reviews:
   - name: >-
       places/ChIJLSqwjwLkjYARHAVS3BL45wY/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3ejdUMU1nEAE
@@ -398,5 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Storefront sushi spot offers Japanese favorites, in addition to wine, beer,
+  sake & lunch specials.
 
 ---

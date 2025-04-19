@@ -5,6 +5,11 @@ permalink: /new-york/jamaica/mikado.html
 stateAbbr: NY
 stateName: New York
 cityName: Jamaica
+seo:
+  name: "Mikado"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Jamaica, New York? Check out Mikado for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJheSe5TxhwokRoHOVTVZt0fo
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

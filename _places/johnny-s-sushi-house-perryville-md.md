@@ -5,6 +5,11 @@ permalink: /maryland/perryville/johnny-s-sushi-house.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Perryville
+seo:
+  name: "Johnny's Sushi House"
+  type: Restaurant
+  links: http://johnnysushihouse.com/
+description: "Looking for sushi in Perryville, Maryland? Check out Johnny's Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJVY84EZa4x4kRlIgSf5x2rdA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 1457
 website: http://johnnysushihouse.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

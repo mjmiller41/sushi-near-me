@@ -5,6 +5,11 @@ permalink: /florida/boynton-beach/sushi-yama-boynton-beach.html
 stateAbbr: FL
 stateName: Florida
 cityName: Boynton Beach
+seo:
+  name: "Sushi Yama Boynton Beach"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Boynton Beach, Florida? Check out Sushi Yama Boynton Beach for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJx5VpP2Ah2YgRdVTcfM6dJR8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

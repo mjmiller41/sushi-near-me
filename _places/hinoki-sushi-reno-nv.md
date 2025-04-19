@@ -5,6 +5,11 @@ permalink: /nevada/reno/hinoki-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
+seo:
+  name: "Hinoki Sushi"
+  type: Restaurant
+  links: https://hinokisushi.site/
+description: "Looking for sushi in Reno, Nevada? Check out Hinoki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJdxLnFd0_mYARJ1nMY_2QRZM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1126
 website: https://hinokisushi.site/
-description: null
 reviews:
   - name: >-
       places/ChIJdxLnFd0_mYARJ1nMY_2QRZM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN0xtZy1RRRAB
@@ -358,5 +362,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

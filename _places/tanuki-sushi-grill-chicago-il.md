@@ -5,6 +5,11 @@ permalink: /illinois/chicago/tanuki-sushi-grill.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Tanuki Sushi & Grill"
+  type: Restaurant
+  links: http://www.tanukichicago.com/
+description: "Small, trendy spot for raw, rolled & robata-grilled Japanese eats & BYOB amid rustic-chic decor. Looking for sushi in Chicago, Illinois? Check out Tanuki Sus..."
 place_id: ChIJ22do2qnTD4gRuZ0lT7yDtjE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 579
 website: http://www.tanukichicago.com/
-description: >-
-  Small, trendy spot for raw, rolled & robata-grilled Japanese eats & BYOB amid
-  rustic-chic decor.
 reviews:
   - name: >-
       places/ChIJ22do2qnTD4gRuZ0lT7yDtjE/reviews/ChdDSUhNMG9nS0VJQ0FnSURmamYtUTh3RRAB
@@ -361,5 +363,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Small, trendy spot for raw, rolled & robata-grilled Japanese eats & BYOB amid
+  rustic-chic decor.
 
 ---

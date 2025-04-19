@@ -5,6 +5,11 @@ permalink: /california/santa-maria/haha-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Maria
+seo:
+  name: "Haha Sushi"
+  type: Restaurant
+  links: https://hahasushicatogo.com/
+description: "Looking for sushi in Santa Maria, California? Check out Haha Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJa6dbtTMT7IARgJD_rmj-qvA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 109
 website: https://hahasushicatogo.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /oregon/medford/bonsai-teriyaki-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Medford
+seo:
+  name: "Bonsai Teriyaki & Sushi"
+  type: Restaurant
+  links: https://www.facebook.com/Bonsai-Teriyaki-Sushi-Medford-OR-120030958187660/
+description: "Looking for sushi in Medford, Oregon? Check out Bonsai Teriyaki & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJVzm7_gx6z1QR8PazD_v4fJ4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 777
 website: https://www.facebook.com/Bonsai-Teriyaki-Sushi-Medford-OR-120030958187660/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/taiki.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Taiki"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Brooklyn, New York? Check out Taiki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJ5yE7xlJawokRcLeu5KNTqgg
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

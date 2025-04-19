@@ -5,6 +5,11 @@ permalink: /new-jersey/hillsborough-township/lee-s-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hillsborough Township
+seo:
+  name: "Lee's Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Hillsborough Township, New Jersey? Check out Lee's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJz_5wDsvrw4kRa20ExY1_jJM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

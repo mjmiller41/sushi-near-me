@@ -5,6 +5,11 @@ permalink: /colorado/denver/kobe-an-lohi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Kobe An LoHi"
+  type: Restaurant
+  links: http://www.kobeandenver.com/
+description: "Looking for sushi in Denver, Colorado? Check out Kobe An LoHi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJG75Zu-14bIcRXbDz7FeV1No
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 458
 website: http://www.kobeandenver.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

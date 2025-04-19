@@ -5,6 +5,11 @@ permalink: /arizona/scottsdale/mastro-s-steakhouse.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Scottsdale
+seo:
+  name: "Mastro's Steakhouse"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Scottsdale, Arizona? Check out Mastro's Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJQ-5FB7F3K4cRB9kOcZQQGBI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

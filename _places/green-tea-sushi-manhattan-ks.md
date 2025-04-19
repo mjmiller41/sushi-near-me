@@ -5,6 +5,11 @@ permalink: /kansas/manhattan/green-tea-sushi.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Manhattan
+seo:
+  name: "Green Tea sushi"
+  type: Restaurant
+  links: https://greenteasushitogo.com/
+description: "Sushi house with Japanese decor for a variety of rolls, plus entrees such as teriyaki beef. Looking for sushi in Manhattan, Kansas? Check out Green Tea sushi..."
 place_id: ChIJIcDQnnnSvYcRFbvShmUS5bI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 737
 website: https://greenteasushitogo.com/
-description: >-
-  Sushi house with Japanese decor for a variety of rolls, plus entrees such as
-  teriyaki beef.
 reviews:
   - name: >-
       places/ChIJIcDQnnnSvYcRFbvShmUS5bI/reviews/ChZDSUhNMG9nS0VJQ0FnTURnek4zTElREAE
@@ -404,5 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi house with Japanese decor for a variety of rolls, plus entrees such as
+  teriyaki beef.
 
 ---

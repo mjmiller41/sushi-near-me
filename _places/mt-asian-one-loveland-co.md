@@ -5,6 +5,11 @@ permalink: /colorado/loveland/mt-asian-one.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Loveland
+seo:
+  name: "Mt Asian One"
+  type: Restaurant
+  links: https://www.mtasianoneloveland.com/
+description: "Looking for sushi in Loveland, Colorado? Check out Mt Asian One for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJeUi8t_xTaYcRVZtkONiToCE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 406
 website: https://www.mtasianoneloveland.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

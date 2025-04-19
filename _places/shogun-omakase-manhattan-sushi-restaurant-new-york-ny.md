@@ -5,6 +5,11 @@ permalink: /new-york/new-york/shogun-omakase-manhattan-sushi-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "SHOGUN OMAKASE | Manhattan Sushi Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New York, New York? Check out SHOGUN OMAKASE | Manhattan Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety o..."
 place_id: ChIJKd8EGv1ZwokRtzxTHd6RpjI
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

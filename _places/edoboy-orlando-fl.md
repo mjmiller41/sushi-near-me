@@ -5,6 +5,11 @@ permalink: /florida/orlando/edoboy.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Edoboy"
+  type: Restaurant
+  links: https://www.edoboysushi.com/
+description: "Looking for sushi in Orlando, Florida? Check out Edoboy for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
 place_id: ChIJS1vTKRd754gRCsTbJUc7AZE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.9'
 rating_count: 285
 website: https://www.edoboysushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJS1vTKRd754gRCsTbJUc7AZE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdUp5NXV3RRAB
@@ -463,5 +467,6 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: false
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /nebraska/omaha/sakura-bana.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
+seo:
+  name: "Sakura Bana"
+  type: Restaurant
+  links: https://sushiomaha.com/
+description: "Local haunt since 1986 serving sushi & classic Japanese dishes in a serene, blond-wood space. Looking for sushi in Omaha, Nebraska? Check out Sakura Bana for..."
 place_id: ChIJR2O7MwqNk4cR6kD2puCB1xQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 774
 website: https://sushiomaha.com/
-description: >-
-  Local haunt since 1986 serving sushi & classic Japanese dishes in a serene,
-  blond-wood space.
 reviews:
   - name: >-
       places/ChIJR2O7MwqNk4cR6kD2puCB1xQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURQeGNmMEp3EAE
@@ -400,5 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Local haunt since 1986 serving sushi & classic Japanese dishes in a serene,
+  blond-wood space.
 
 ---

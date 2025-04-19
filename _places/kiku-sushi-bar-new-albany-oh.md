@@ -5,6 +5,11 @@ permalink: /ohio/new-albany/kiku-sushi-bar.html
 stateAbbr: OH
 stateName: Ohio
 cityName: New Albany
+seo:
+  name: "Kiku Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New Albany, Ohio? Check out Kiku Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJx5tJ2BZfOIgRoZkX_P8qJio
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

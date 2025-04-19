@@ -5,6 +5,11 @@ permalink: /california/corona/etcetera-sushi-thai-bites.html
 stateAbbr: CA
 stateName: California
 cityName: Corona
+seo:
+  name: "ETCetera Sushi & Thai Bites"
+  type: Restaurant
+  links: http://etcsushi.com/
+description: "Looking for sushi in Corona, California? Check out ETCetera Sushi & Thai Bites for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJm6Wt0h7H3IAR8RBARn7bamo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 139
 website: http://etcsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

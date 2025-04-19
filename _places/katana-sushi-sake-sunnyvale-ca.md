@@ -5,6 +5,11 @@ permalink: /california/sunnyvale/katana-sushi-sake.html
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
+seo:
+  name: "Katana Sushi & Sake"
+  type: Restaurant
+  links: http://katanasushi.com/
+description: "Sushi & rolls plus sake drinks served in a space with exposed ceiling joists & Japanese flourishes. Looking for sushi in Sunnyvale, California? Check out Kat..."
 place_id: ChIJIXcwTWW2j4ARVDz5yTgT9Nw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 850
 website: http://katanasushi.com/
-description: >-
-  Sushi & rolls plus sake drinks served in a space with exposed ceiling joists &
-  Japanese flourishes.
 reviews:
   - name: >-
       places/ChIJIXcwTWW2j4ARVDz5yTgT9Nw/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzeGZDc19BRRAB
@@ -352,5 +354,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi & rolls plus sake drinks served in a space with exposed ceiling joists &
+  Japanese flourishes.
 
 ---

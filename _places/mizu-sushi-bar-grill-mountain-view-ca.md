@@ -5,6 +5,11 @@ permalink: /california/mountain-view/mizu-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Mountain View
+seo:
+  name: "Mizu Sushi Bar & Grill"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Mountain View, California? Check out Mizu Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJbdRr8Juwj4ARRFNrtLQtGjs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /michigan/west-bloomfield-township/ninja-sushi-japanese-restaurant.ht
 stateAbbr: MI
 stateName: Michigan
 cityName: West Bloomfield Township
+seo:
+  name: "Ninja Sushi Japanese Restaurant"
+  type: Restaurant
+  links: http://www.ninjasushimi.com/
+description: "Unfussy restaurant specializing in sushi, sashimi & maki, with free soup & salad. Looking for sushi in West Bloomfield Township, Michigan? Check out Ninja Su..."
 place_id: ChIJG4AYk2K6JIgRDSrdd6WHpNM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 394
 website: http://www.ninjasushimi.com/
-description: >-
-  Unfussy restaurant specializing in sushi, sashimi & maki, with free soup &
-  salad.
 reviews:
   - name: >-
       places/ChIJG4AYk2K6JIgRDSrdd6WHpNM/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyeEtfS3Z3RRAB
@@ -414,5 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Unfussy restaurant specializing in sushi, sashimi & maki, with free soup &
+  salad.
 
 ---

@@ -5,6 +5,11 @@ permalink: /michigan/okemos/kaiyo-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Okemos
+seo:
+  name: "Kaiyo Sushi"
+  type: Restaurant
+  links: http://www.okemoskaiyo.com/
+description: "Looking for sushi in Okemos, Michigan? Check out Kaiyo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJ5waVrf3nIogR8e5MH6p_Nb0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 200
 website: http://www.okemoskaiyo.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ5waVrf3nIogR8e5MH6p_Nb0/reviews/ChdDSUhNMG9nS0VJQ0FnTURBbGZpTXRBRRAB
@@ -348,5 +352,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

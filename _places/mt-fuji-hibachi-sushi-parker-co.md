@@ -5,6 +5,11 @@ permalink: /colorado/parker/mt-fuji-hibachi-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Parker
+seo:
+  name: "Mt Fuji Hibachi & Sushi"
+  type: Restaurant
+  links: https://www.mtfujiparker.com/?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Parker, Colorado? Check out Mt Fuji Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJaSIki_yPbIcReiGODyVq2qk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 421
 website: https://www.mtfujiparker.com/?utm_source=gmb&utm_medium=website
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

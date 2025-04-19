@@ -5,6 +5,11 @@ permalink: /new-york/flushing/new-sushi-village.html
 stateAbbr: NY
 stateName: New York
 cityName: Flushing
+seo:
+  name: "New Sushi Village"
+  type: Restaurant
+  links: https://newsushiflushing.com/
+description: "Looking for sushi in Flushing, New York? Check out New Sushi Village for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJkyuoZX-KwokRd1J0FM8uXAM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 1334
 website: https://newsushiflushing.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

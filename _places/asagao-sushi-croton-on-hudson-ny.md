@@ -5,6 +5,11 @@ permalink: /new-york/croton-on-hudson/asagao-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Croton-On-Hudson
+seo:
+  name: "Asagao Sushi"
+  type: Restaurant
+  links: http://asagaosushi.com/
+description: "Looking for sushi in Croton-On-Hudson, New York? Check out Asagao Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJKZnP-xzHwokRC9aP83VlSHM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 343
 website: http://asagaosushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJKZnP-xzHwokRC9aP83VlSHM/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcWZlOEtnEAE
@@ -356,5 +360,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

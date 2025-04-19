@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/momo-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "MOMO Sushi"
+  type: Restaurant
+  links: https://www.momosushimn.com/
+description: "Looking for sushi in Minneapolis, Minnesota? Check out MOMO Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJMwMprTgts1IRfqqgfasVNqI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 1665
 website: https://www.momosushimn.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

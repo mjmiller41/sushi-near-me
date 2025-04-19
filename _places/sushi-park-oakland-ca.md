@@ -5,6 +5,11 @@ permalink: /california/oakland/sushi-park.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
+seo:
+  name: "Sushi Park"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Oakland, California? Check out Sushi Park for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJHZTeoQmHj4AR98rnL0sSDZo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 250
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

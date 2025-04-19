@@ -5,6 +5,11 @@ permalink: /california/oakland/yonsei-handrolls-oakland.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
+seo:
+  name: "Yonsei Handrolls - Oakland"
+  type: Restaurant
+  links: https://www.yonseihandrolls.com/
+description: "Looking for sushi in Oakland, California? Check out Yonsei Handrolls - Oakland for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJgUhKz2aBj4ARuN4px709pHY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 129
 website: https://www.yonseihandrolls.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

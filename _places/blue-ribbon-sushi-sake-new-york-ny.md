@@ -5,6 +5,11 @@ permalink: /new-york/new-york/blue-ribbon-sushi-sake.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Blue Ribbon Sushi & Sake"
+  type: Restaurant
+  links: https://www.blueribbonsushiandsake.com/
+description: "Looking for sushi in New York, New York? Check out Blue Ribbon Sushi & Sake for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJkSzaOlZZwokRyqFI9Uj1brc
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 53
 website: https://www.blueribbonsushiandsake.com/
-description: null
 reviews:
   - name: >-
       places/ChIJkSzaOlZZwokRyqFI9Uj1brc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5bE0tSERREAE
@@ -418,5 +422,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
+summary: null
 
 ---

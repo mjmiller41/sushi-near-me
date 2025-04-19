@@ -5,6 +5,11 @@ permalink: /new-york/staten-island/sushi-wen.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
+seo:
+  name: "Sushi Wen"
+  type: Restaurant
+  links: http://www.sushiwenny.com/
+description: "Looking for sushi in Staten Island, New York? Check out Sushi Wen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJc7n80ghPwokRLdflrYWY0m0
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 239
 website: http://www.sushiwenny.com/
-description: null
 reviews:
   - name: >-
       places/ChIJc7n80ghPwokRLdflrYWY0m0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNGFYMkF3EAE
@@ -397,5 +401,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

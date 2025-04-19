@@ -5,6 +5,11 @@ permalink: /maryland/rockville/uzu-revolving-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
+seo:
+  name: "UZU Revolving Sushi"
+  type: Restaurant
+  links: http://www.uzu-sushi.com/
+description: "Looking for sushi in Rockville, Maryland? Check out UZU Revolving Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJMwnoAADNt4kR6qrR6uihPAs
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 909
 website: http://www.uzu-sushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJMwnoAADNt4kR6qrR6uihPAs/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3Z1BYZjBnRRAB
@@ -458,5 +462,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

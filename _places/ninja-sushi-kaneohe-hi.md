@@ -5,6 +5,11 @@ permalink: /hawaii/kaneohe/ninja-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kaneohe
+seo:
+  name: "Ninja Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Kaneohe, Hawaii? Check out Ninja Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJ4-peB_lqAHwRO0mC-4JZzjU
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /massachusetts/concord/karma.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Concord
+seo:
+  name: "Karma"
+  type: Restaurant
+  links: https://www.karmaconcord.com/
+description: "Restaurant serving Pan-Asian fare & French-influenced sushi in a trendy space with a bar. Looking for sushi in Concord, Massachusetts? Check out Karma for a ..."
 place_id: ChIJXVhfvEGa44kRNl17dyMYpOw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 436
 website: https://www.karmaconcord.com/
-description: >-
-  Restaurant serving Pan-Asian fare & French-influenced sushi in a trendy space
-  with a bar.
 reviews:
   - name: >-
       places/ChIJXVhfvEGa44kRNl17dyMYpOw/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3MlBhTE5nEAE
@@ -396,5 +398,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Restaurant serving Pan-Asian fare & French-influenced sushi in a trendy space
+  with a bar.
 
 ---

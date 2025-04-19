@@ -5,6 +5,11 @@ permalink: /idaho/boise/island-sushi-and-ramen.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Boise
+seo:
+  name: "Island Sushi and Ramen"
+  type: Restaurant
+  links: http://www.islandsushiandramen.com/
+description: "Looking for sushi in Boise, Idaho? Check out Island Sushi and Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJTULJ55NXrlQRu-7fMuWTe-c
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 1533
 website: http://www.islandsushiandramen.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

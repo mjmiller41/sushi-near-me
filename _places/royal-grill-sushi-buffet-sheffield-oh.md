@@ -5,6 +5,11 @@ permalink: /ohio/sheffield/royal-grill-sushi-buffet.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Sheffield
+seo:
+  name: "Royal Grill Sushi Buffet"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Sheffield, Ohio? Check out Royal Grill Sushi Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJcUrq5QSbMIgRcVFAEDvGdic
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 635
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJcUrq5QSbMIgRcVFAEDvGdic/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbk9UeUxnEAE
@@ -357,5 +361,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

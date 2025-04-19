@@ -5,6 +5,11 @@ permalink: /washington/kirkland/komorebi-sushi-rolls.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kirkland
+seo:
+  name: "Komorebi Sushi & Rolls"
+  type: Restaurant
+  links: https://www.clover.com/online-ordering/komorebi-sushi--rolls-kirkland
+description: "Looking for sushi in Kirkland, Washington? Check out Komorebi Sushi & Rolls for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJeUAC_HETkFQR1TJwdOMDLLc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 86
 website: https://www.clover.com/online-ordering/komorebi-sushi--rolls-kirkland
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

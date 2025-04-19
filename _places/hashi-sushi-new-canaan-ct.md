@@ -5,6 +5,11 @@ permalink: /connecticut/new-canaan/hashi-sushi.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Canaan
+seo:
+  name: "Hashi Sushi"
+  type: Restaurant
+  links: http://www.hashisushict.com/
+description: "Looking for sushi in New Canaan, Connecticut? Check out Hashi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJUyvHpg2nwokRrY18P4gU84g
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 172
 website: http://www.hashisushict.com/
-description: null
 reviews:
   - name: >-
       places/ChIJUyvHpg2nwokRrY18P4gU84g/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3Ny1QYW53RRAB
@@ -377,5 +381,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

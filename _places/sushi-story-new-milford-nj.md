@@ -5,6 +5,11 @@ permalink: /new-jersey/new-milford/sushi-story.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: New Milford
+seo:
+  name: "SUSHI STORY"
+  type: Restaurant
+  links: https://www.sushistorynj.com/
+description: "Looking for sushi in New Milford, New Jersey? Check out SUSHI STORY for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJU2q02DvxwokRyJvMevmVwqc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 340
 website: https://www.sushistorynj.com/
-description: null
 reviews:
   - name: >-
       places/ChIJU2q02DvxwokRyJvMevmVwqc/reviews/ChZDSUhNMG9nS0VJQ0FnSURQdXUtYlFREAE
@@ -395,5 +399,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

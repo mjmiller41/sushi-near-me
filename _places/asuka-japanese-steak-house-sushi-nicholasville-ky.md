@@ -5,6 +5,11 @@ permalink: /kentucky/nicholasville/asuka-japanese-steak-house-sushi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Nicholasville
+seo:
+  name: "Asuka Japanese Steak House & Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Nicholasville, Kentucky? Check out Asuka Japanese Steak House & Sushi for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJ09dBWxNcQogRYdLuEI7I_1U
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

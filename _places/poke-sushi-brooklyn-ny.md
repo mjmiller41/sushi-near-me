@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/poke-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Poke Sushi"
+  type: Restaurant
+  links: http://diypokesushi.com/
+description: "Looking for sushi in Brooklyn, New York? Check out Poke Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJ_8973oREwokR_EfLjyx_NAQ
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 200
 website: http://diypokesushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

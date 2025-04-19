@@ -5,6 +5,11 @@ permalink: /illinois/chicago/sushi-pink.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Sushi Pink"
+  type: Restaurant
+  links: https://www.sushipink.com/
+description: "Compact Japanese restaurant & sushi bar serving creative rolls & cocktails in a modern setting. Looking for sushi in Chicago, Illinois? Check out Sushi Pink ..."
 place_id: ChIJsTAsA9ssDogRpQcLXLHRJjk
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 273
 website: https://www.sushipink.com/
-description: >-
-  Compact Japanese restaurant & sushi bar serving creative rolls & cocktails in
-  a modern setting.
 reviews:
   - name: >-
       places/ChIJsTAsA9ssDogRpQcLXLHRJjk/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3NzlhdUxnEAE
@@ -395,5 +397,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Compact Japanese restaurant & sushi bar serving creative rolls & cocktails in
+  a modern setting.
 
 ---

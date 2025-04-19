@@ -5,6 +5,11 @@ permalink: /florida/sanford/sushi-and-seoul.html
 stateAbbr: FL
 stateName: Florida
 cityName: Sanford
+seo:
+  name: "Sushi and Seoul"
+  type: Restaurant
+  links: https://www.sushiandseoul.com/
+description: "Looking for sushi in Sanford, Florida? Check out Sushi and Seoul for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJmdWZ9ScT54gRD1Nkp0n0AnM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 200
 website: https://www.sushiandseoul.com/
-description: null
 reviews:
   - name: >-
       places/ChIJmdWZ9ScT54gRD1Nkp0n0AnM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbVlDaXlnRRAB
@@ -391,5 +395,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

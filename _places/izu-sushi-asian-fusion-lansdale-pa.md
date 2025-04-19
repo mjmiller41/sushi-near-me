@@ -5,6 +5,11 @@ permalink: /pennsylvania/lansdale/izu-sushi-asian-fusion.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lansdale
+seo:
+  name: "Izu Sushi Asian fusion"
+  type: Restaurant
+  links: https://www.izusushi-online.com/
+description: "Looking for sushi in Lansdale, Pennsylvania? Check out Izu Sushi Asian fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJS4qXTpyjxokRoxCOg2uXUsE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 133
 website: https://www.izusushi-online.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/woodstock/golden-rolls.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Woodstock
+seo:
+  name: "Golden Rolls"
+  type: Restaurant
+  links: http://www.goldenrollssushi.com/
+description: "Chill Japanese bistro with a bar featuring creative sushi rolls, noodle dishes & teriyaki entrees. Looking for sushi in Woodstock, Illinois? Check out Golden..."
 place_id: ChIJP7v519ZrD4gRHdSJyDJyc1k
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 329
 website: http://www.goldenrollssushi.com/
-description: >-
-  Chill Japanese bistro with a bar featuring creative sushi rolls, noodle dishes
-  & teriyaki entrees.
 reviews:
   - name: >-
       places/ChIJP7v519ZrD4gRHdSJyDJyc1k/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6eWJlSmFBEAE
@@ -517,5 +519,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Chill Japanese bistro with a bar featuring creative sushi rolls, noodle dishes
+  & teriyaki entrees.
 
 ---

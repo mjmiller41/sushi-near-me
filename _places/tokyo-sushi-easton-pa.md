@@ -5,6 +5,11 @@ permalink: /pennsylvania/easton/tokyo-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Easton
+seo:
+  name: "Tokyo Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Easton, Pennsylvania? Check out Tokyo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJBT4Dk49txIkReb8EA7aDQE4
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -203,5 +207,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

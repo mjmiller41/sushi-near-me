@@ -5,6 +5,11 @@ permalink: /delaware/dover/umi-sushi-seafood-buffet.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Dover
+seo:
+  name: "Umi Sushi & Seafood Buffet"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Dover, Delaware? Check out Umi Sushi & Seafood Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJP-aC3Ft7x4kR_kH0nhMnyaA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

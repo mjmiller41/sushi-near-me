@@ -5,6 +5,11 @@ permalink: /maryland/owings-mills/sushi-q2.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Owings Mills
+seo:
+  name: "Sushi Q2"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Owings Mills, Maryland? Check out Sushi Q2 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJa4V1hMgXyIkRDbetArWIexI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

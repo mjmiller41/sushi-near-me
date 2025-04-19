@@ -5,6 +5,11 @@ permalink: /pennsylvania/pittsburgh/ya-fei.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
+seo:
+  name: "Ya Fei"
+  type: Restaurant
+  links: http://www.yafeipgh.com/
+description: "Basic pick for familiar Chinese & Japanese fare such as sushi & sashimi offering local delivery. Looking for sushi in Pittsburgh, Pennsylvania? Check out Ya ..."
 place_id: ChIJJ1pDcElZNIgRAHhPpbSaYI8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 566
 website: http://www.yafeipgh.com/
-description: >-
-  Basic pick for familiar Chinese & Japanese fare such as sushi & sashimi
-  offering local delivery.
 reviews:
   - name: >-
       places/ChIJJ1pDcElZNIgRAHhPpbSaYI8/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzdWJHbHNnRRAB
@@ -414,5 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Basic pick for familiar Chinese & Japanese fare such as sushi & sashimi
+  offering local delivery.
 
 ---

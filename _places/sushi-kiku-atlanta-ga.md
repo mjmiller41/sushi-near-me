@@ -5,6 +5,11 @@ permalink: /georgia/atlanta/sushi-kiku.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
+seo:
+  name: "Sushi Kiku"
+  type: Restaurant
+  links: https://www.sushikikuatlanta.com/
+description: "Informal eatery presenting Japanese entrees & sushi rolls, plus tempura cheesecake for dessert. Looking for sushi in Atlanta, Georgia? Check out Sushi Kiku f..."
 place_id: ChIJMfxHNeIF9YgRwtPLtRoN47I
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 757
 website: https://www.sushikikuatlanta.com/
-description: >-
-  Informal eatery presenting Japanese entrees & sushi rolls, plus tempura
-  cheesecake for dessert.
 reviews:
   - name: >-
       places/ChIJMfxHNeIF9YgRwtPLtRoN47I/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNE03amdnRRAB
@@ -421,5 +423,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Informal eatery presenting Japanese entrees & sushi rolls, plus tempura
+  cheesecake for dessert.
 
 ---

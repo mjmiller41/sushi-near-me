@@ -5,6 +5,11 @@ permalink: /florida/the-villages/kumo-sushi-hibachi.html
 stateAbbr: FL
 stateName: Florida
 cityName: The Villages
+seo:
+  name: "KUMO SUSHI &HIBACHI"
+  type: Restaurant
+  links: http://www.kumothevillagesfl.com/
+description: "Looking for sushi in The Villages, Florida? Check out KUMO SUSHI &HIBACHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJPXcEsajD54gRq_VrUJQ7cyI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 306
 website: http://www.kumothevillagesfl.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

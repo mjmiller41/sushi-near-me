@@ -5,6 +5,11 @@ permalink: /new-jersey/morristown/monster-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Morristown
+seo:
+  name: "Monster Sushi"
+  type: Restaurant
+  links: https://monstersushinj.com/
+description: "Contemporary BYOB mainstay with polished decor offering creative sushi rolls & outdoor seating. Looking for sushi in Morristown, New Jersey? Check out Monste..."
 place_id: ChIJw3ud0qKmw4kR3QbI_u0LgRk
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 449
 website: https://monstersushinj.com/
-description: >-
-  Contemporary BYOB mainstay with polished decor offering creative sushi rolls &
-  outdoor seating.
 reviews:
   - name: >-
       places/ChIJw3ud0qKmw4kR3QbI_u0LgRk/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeXZTMERnEAE
@@ -373,5 +375,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Contemporary BYOB mainstay with polished decor offering creative sushi rolls &
+  outdoor seating.
 
 ---

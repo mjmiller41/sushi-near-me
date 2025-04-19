@@ -5,6 +5,11 @@ permalink: /california/simi-valley/tomodachi-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Simi Valley
+seo:
+  name: "Tomodachi Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Simi Valley, California? Check out Tomodachi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJtS-QGM4u6IAR_F03GnoICH4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

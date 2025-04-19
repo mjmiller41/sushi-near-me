@@ -5,6 +5,11 @@ permalink: /california/larkspur/king-of-the-roll.html
 stateAbbr: CA
 stateName: California
 cityName: Larkspur
+seo:
+  name: "King of the Roll"
+  type: Restaurant
+  links: https://kingoftherollsushi6.wixsite.com/sushi
+description: "Looking for sushi in Larkspur, California? Check out King of the Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJTWaHgXeahYAROxIj4xxrOB0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 165
 website: https://kingoftherollsushi6.wixsite.com/sushi
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

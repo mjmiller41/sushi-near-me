@@ -5,6 +5,11 @@ permalink: /alabama/gulf-shores/mikato-japanese-restaurant.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Gulf Shores
+seo:
+  name: "Mikato Japanese Restaurant"
+  type: Restaurant
+  links: http://mikatojapanese.com/
+description: "Spacious, contemporary Japanese choice for hibachi-cooked fare, creative sushi rolls & cocktails. Looking for sushi in Gulf Shores, Alabama? Check out Mikato..."
 place_id: ChIJt5WsAUQFmogR-4RcQYxem7o
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 703
 website: http://mikatojapanese.com/
-description: >-
-  Spacious, contemporary Japanese choice for hibachi-cooked fare, creative sushi
-  rolls & cocktails.
 reviews:
   - name: >-
       places/ChIJt5WsAUQFmogR-4RcQYxem7o/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIcnNHeXNBRRAB
@@ -464,5 +466,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Spacious, contemporary Japanese choice for hibachi-cooked fare, creative sushi
+  rolls & cocktails.
 
 ---

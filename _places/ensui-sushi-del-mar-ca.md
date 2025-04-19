@@ -5,6 +5,11 @@ permalink: /california/del-mar/ensui-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Del Mar
+seo:
+  name: "ENSUI SUSHI"
+  type: Restaurant
+  links: http://ensuisushi.com/
+description: "Looking for sushi in Del Mar, California? Check out ENSUI SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJbzpNVp4J3IAR4yW9VcEAhoA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 128
 website: http://ensuisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJbzpNVp4J3IAR4yW9VcEAhoA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJckt6U25BRRAB
@@ -349,5 +353,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

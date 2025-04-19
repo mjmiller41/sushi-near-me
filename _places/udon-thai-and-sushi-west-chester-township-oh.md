@@ -5,6 +5,11 @@ permalink: /ohio/west-chester-township/udon-thai-and-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: West Chester Township
+seo:
+  name: "Udon Thai and Sushi"
+  type: Restaurant
+  links: http://www.udonthaisushi.com/
+description: "Looking for sushi in West Chester Township, Ohio? Check out Udon Thai and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJM58FDARPQIgR5_B6E39CPU8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 200
 website: http://www.udonthaisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJM58FDARPQIgR5_B6E39CPU8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NDR1NjVBRRAB
@@ -386,5 +390,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

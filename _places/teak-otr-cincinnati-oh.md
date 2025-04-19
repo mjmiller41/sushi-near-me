@@ -5,6 +5,11 @@ permalink: /ohio/cincinnati/teak-otr.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+seo:
+  name: "Teak OTR"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Cincinnati, Ohio? Check out Teak OTR for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJkd4y2mGxQYgRDZLEl8UegAk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

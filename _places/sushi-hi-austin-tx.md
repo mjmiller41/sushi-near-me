@@ -5,6 +5,11 @@ permalink: /texas/austin/sushi-hi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "Sushi Hi"
+  type: Restaurant
+  links: http://www.sushi-hi.co/
+description: "Looking for sushi in Austin, Texas? Check out Sushi Hi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
 place_id: ChIJC7b7nX-1RIYRoIZw3hX1rtg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 578
 website: http://www.sushi-hi.co/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

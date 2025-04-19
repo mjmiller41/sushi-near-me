@@ -5,6 +5,11 @@ permalink: /utah/st-george/benja-thai-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: St. George
+seo:
+  name: "Benja Thai & Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in St. George, Utah? Check out Benja Thai & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJYbhFms9EyoARaYzh636o_CM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

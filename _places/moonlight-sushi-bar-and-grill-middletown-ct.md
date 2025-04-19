@@ -5,6 +5,11 @@ permalink: /connecticut/middletown/moonlight-sushi-bar-and-grill.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Middletown
+seo:
+  name: "Moonlight Sushi Bar and Grill"
+  type: Restaurant
+  links: http://moonlightsushibargrillmiddletown.com/
+description: "Looking for sushi in Middletown, Connecticut? Check out Moonlight Sushi Bar and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJxTx7vf815okR5m4q-dKEWZs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 277
 website: http://moonlightsushibargrillmiddletown.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

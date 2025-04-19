@@ -5,6 +5,11 @@ permalink: /pennsylvania/harrisburg/miyako-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Harrisburg
+seo:
+  name: "Miyako Sushi"
+  type: Restaurant
+  links: https://www.miyakosushiharrisburg.com/
+description: "Looking for sushi in Harrisburg, Pennsylvania? Check out Miyako Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJq_1MERDByIkRbicRt_2jffs
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 447
 website: https://www.miyakosushiharrisburg.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

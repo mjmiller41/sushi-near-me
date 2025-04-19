@@ -5,6 +5,11 @@ permalink: /california/campbell/sushi-confidential-campbell.html
 stateAbbr: CA
 stateName: California
 cityName: Campbell
+seo:
+  name: "Sushi Confidential - Campbell"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Campbell, California? Check out Sushi Confidential - Campbell for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJXSk4Ed80joARdJg0Ada4Oe8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

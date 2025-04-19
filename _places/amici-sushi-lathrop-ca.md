@@ -5,6 +5,11 @@ permalink: /california/lathrop/amici-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Lathrop
+seo:
+  name: "Amici Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Lathrop, California? Check out Amici Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJ5SAMmWYVkIARY6GgecA_u-g
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 524
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

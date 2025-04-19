@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-goda.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi Goda"
+  type: Restaurant
+  links: https://www.sushigoda.com/
+description: "Looking for sushi in New York, New York? Check out Sushi Goda for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJM_t1kYpZwokRfJS9jGe1I04
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: '4.6'
 rating_count: 144
 website: https://www.sushigoda.com/
-description: null
 reviews:
   - name: >-
       places/ChIJM_t1kYpZwokRfJS9jGe1I04/reviews/ChZDSUhNMG9nS0VJQ0FnTURJZ01EZWR3EAE
@@ -366,5 +370,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

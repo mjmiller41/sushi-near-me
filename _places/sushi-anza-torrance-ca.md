@@ -5,6 +5,11 @@ permalink: /california/torrance/sushi-anza.html
 stateAbbr: CA
 stateName: California
 cityName: Torrance
+seo:
+  name: "Sushi Anza"
+  type: Restaurant
+  links: http://www.sushianza.com/cms/
+description: "Looking for sushi in Torrance, California? Check out Sushi Anza for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJdRc6rs60woARCDWh5nBWrq8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 103
 website: http://www.sushianza.com/cms/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /utah/bountiful/fat-fish-bountiful.html
 stateAbbr: UT
 stateName: Utah
 cityName: Bountiful
+seo:
+  name: "Fat Fish - Bountiful"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Bountiful, Utah? Check out Fat Fish - Bountiful for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJRVRmjbz3UocR7AKjvSm-bsc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

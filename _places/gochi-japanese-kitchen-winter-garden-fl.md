@@ -5,6 +5,11 @@ permalink: /florida/winter-garden/gochi-japanese-kitchen.html
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Garden
+seo:
+  name: "Gochi Japanese Kitchen"
+  type: Restaurant
+  links: http://gochijapanesekitchen.com/
+description: "Simple restaurant offering a range of raw & cooked rolls, plus sashimi & other Japanese options. Looking for sushi in Winter Garden, Florida? Check out Gochi..."
 place_id: ChIJ23BYCZ2D54gRltCPoqGr4a8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 670
 website: http://gochijapanesekitchen.com/
-description: >-
-  Simple restaurant offering a range of raw & cooked rolls, plus sashimi & other
-  Japanese options.
 reviews:
   - name: >-
       places/ChIJ23BYCZ2D54gRltCPoqGr4a8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMk5tSml3RRAB
@@ -515,5 +517,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Simple restaurant offering a range of raw & cooked rolls, plus sashimi & other
+  Japanese options.
 
 ---

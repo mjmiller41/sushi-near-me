@@ -5,6 +5,11 @@ permalink: /alaska/wasilla/pattaya-sushi-thai-restaurant.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Wasilla
+seo:
+  name: "Pattaya | Sushi & Thai Restaurant"
+  type: Restaurant
+  links: https://www.clover.com/online-ordering/pattaya-sushi-restaurant-wasilla
+description: "Looking for sushi in Wasilla, Alaska? Check out Pattaya | Sushi & Thai Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJYa0lTRPeyFYRk037iqC1_7E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 225
 website: https://www.clover.com/online-ordering/pattaya-sushi-restaurant-wasilla
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

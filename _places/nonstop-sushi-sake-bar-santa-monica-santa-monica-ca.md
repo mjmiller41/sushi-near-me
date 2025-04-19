@@ -5,6 +5,11 @@ permalink: /california/santa-monica/nonstop-sushi-sake-bar-santa-monica.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
+seo:
+  name: "Nonstop Sushi & Sake Bar Santa Monica"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Santa Monica, California? Check out Nonstop Sushi & Sake Bar Santa Monica for a delightful Japanese dining experience. Enjoy a variety o..."
 place_id: ChIJxWRgbte6woARkqADlkjVyGk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /idaho/meridian/shige-express.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Meridian
+seo:
+  name: "Shige Express"
+  type: Restaurant
+  links: http://shigecuisine.net/
+description: "Looking for sushi in Meridian, Idaho? Check out Shige Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJ3YT_JNpTrlQRkX7BodbxayU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 262
 website: http://shigecuisine.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

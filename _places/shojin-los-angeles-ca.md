@@ -5,6 +5,11 @@ permalink: /california/los-angeles/shojin.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Shojin"
+  type: Restaurant
+  links: http://www.theshojin.com/
+description: "Upscale eatery offering creative macrobiotic & vegan Japanese dishes, plus saki & wine. Looking for sushi in Los Angeles, California? Check out Shojin for a ..."
 place_id: ChIJQ5t7EGa6woARF68rhqYIX5k
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 401
 website: http://www.theshojin.com/
-description: >-
-  Upscale eatery offering creative macrobiotic & vegan Japanese dishes, plus
-  saki & wine.
 reviews:
   - name: >-
       places/ChIJQ5t7EGa6woARF68rhqYIX5k/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzeGY2N3RBRRAB
@@ -386,5 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Upscale eatery offering creative macrobiotic & vegan Japanese dishes, plus
+  saki & wine.
 
 ---

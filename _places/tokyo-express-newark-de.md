@@ -5,6 +5,11 @@ permalink: /delaware/newark/tokyo-express.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Newark
+seo:
+  name: "Tokyo Express"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Newark, Delaware? Check out Tokyo Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJf7b6ErsAx4kRV93Qodn7ynI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 447
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJf7b6ErsAx4kRV93Qodn7ynI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQM3BQajhnRRAB
@@ -358,5 +362,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

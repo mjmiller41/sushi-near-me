@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/toryumon-japanese-house.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Toryumon Japanese House"
+  type: Restaurant
+  links: https://www.toryumonjapanese.com/
+description: "Grilled dishes, ramen, sushi & bento lunch specials round at the menu at this contemporary option. Looking for sushi in Washington, District of Columbia? Che..."
 place_id: ChIJj9dFYl23t4kRtofPHMPFewA
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 821
 website: https://www.toryumonjapanese.com/
-description: >-
-  Grilled dishes, ramen, sushi & bento lunch specials round at the menu at this
-  contemporary option.
 reviews:
   - name: >-
       places/ChIJj9dFYl23t4kRtofPHMPFewA/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3ekpQb0pnEAE
@@ -406,5 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Grilled dishes, ramen, sushi & bento lunch specials round at the menu at this
+  contemporary option.
 
 ---

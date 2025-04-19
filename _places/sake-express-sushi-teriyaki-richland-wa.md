@@ -5,6 +5,11 @@ permalink: /washington/richland/sake-express-sushi-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Richland
+seo:
+  name: "Sake Express Sushi & Teriyaki"
+  type: Restaurant
+  links: https://sakeexpresssushi.com/?utm_source=google
+description: "Looking for sushi in Richland, Washington? Check out Sake Express Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJZ5knVmhxmFQRgRVi3X_V0js
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 213
 website: https://sakeexpresssushi.com/?utm_source=google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

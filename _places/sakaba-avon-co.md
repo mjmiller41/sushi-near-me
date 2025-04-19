@@ -5,6 +5,11 @@ permalink: /colorado/avon/sakaba.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Avon
+seo:
+  name: "Sakaba"
+  type: Restaurant
+  links: https://www.ritzcarlton.com/en/hotels/colorado/bachelor-gulch/dining/sakaba/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe&y_source=1_MTU0MTcyNTQtNzE1LWxvY2F0aW9uLndlYnNpdGU=
+description: "Looking for sushi in Avon, Colorado? Check out Sakaba for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJWzTWRnnZQYcRU5Nlh90vO3I
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.2'
 rating_count: 61
 website: >-
   https://www.ritzcarlton.com/en/hotels/colorado/bachelor-gulch/dining/sakaba/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe&y_source=1_MTU0MTcyNTQtNzE1LWxvY2F0aW9uLndlYnNpdGU=
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

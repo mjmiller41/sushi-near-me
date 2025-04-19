@@ -5,6 +5,11 @@ permalink: /california/kings-beach/asian-vibes.html
 stateAbbr: CA
 stateName: California
 cityName: Kings Beach
+seo:
+  name: "Asian Vibes"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Kings Beach, California? Check out Asian Vibes for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJwayOXQB7mYARovi8rWNBClQ
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/chicago/komorebi-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Komorebi Sushi"
+  type: Restaurant
+  links: http://www.komorebisushi.com/
+description: "Japanese restaurant with elegantly plated sushi, rolls & cooked fare in a rustic-chic storefront. Looking for sushi in Chicago, Illinois? Check out Komorebi ..."
 place_id: ChIJI3g0gs_SD4gRdpbA9ygL_K4
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 344
 website: http://www.komorebisushi.com/
-description: >-
-  Japanese restaurant with elegantly plated sushi, rolls & cooked fare in a
-  rustic-chic storefront.
 reviews:
   - name: >-
       places/ChIJI3g0gs_SD4gRdpbA9ygL_K4/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMnJtaGNBEAE
@@ -343,5 +345,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese restaurant with elegantly plated sushi, rolls & cooked fare in a
+  rustic-chic storefront.
 
 ---

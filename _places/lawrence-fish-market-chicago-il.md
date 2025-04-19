@@ -5,6 +5,11 @@ permalink: /illinois/chicago/lawrence-fish-market.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Lawrence Fish Market"
+  type: Restaurant
+  links: https://lawrencefish.com/
+description: "Looking for sushi in Chicago, Illinois? Check out Lawrence Fish Market for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJJZhykdrND4gRuX65ROMOVDU
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 1566
 website: https://lawrencefish.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

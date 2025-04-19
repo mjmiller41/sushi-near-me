@@ -5,6 +5,11 @@ permalink: /florida/winter-springs/sushi-delight-and-bowl.html
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Springs
+seo:
+  name: "Sushi Delight and Bowl"
+  type: Restaurant
+  links: https://www.sushidelightandbowl.com/
+description: "Looking for sushi in Winter Springs, Florida? Check out Sushi Delight and Bowl for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJ-y3s18Vt54gR2iQNlAgBVgw
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.9'
 rating_count: 83
 website: https://www.sushidelightandbowl.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

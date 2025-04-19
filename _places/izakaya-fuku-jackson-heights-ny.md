@@ -5,6 +5,11 @@ permalink: /new-york/jackson-heights/izakaya-fuku.html
 stateAbbr: NY
 stateName: New York
 cityName: Jackson Heights
+seo:
+  name: "Izakaya Fuku"
+  type: Restaurant
+  links: http://www.orderfukunyc.com/
+description: "Vibrant, compact restaurant with classic Japanese deep-fried & grilled dishes, plus noodles & bento. Looking for sushi in Jackson Heights, New York? Check ou..."
 place_id: ChIJP3cSeLRfwokRiQQ4MtBvdtA
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 487
 website: http://www.orderfukunyc.com/
-description: >-
-  Vibrant, compact restaurant with classic Japanese deep-fried & grilled dishes,
-  plus noodles & bento.
 reviews:
   - name: >-
       places/ChIJP3cSeLRfwokRiQQ4MtBvdtA/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2eTZXOXVBRRAB
@@ -519,5 +521,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Vibrant, compact restaurant with classic Japanese deep-fried & grilled dishes,
+  plus noodles & bento.
 
 ---

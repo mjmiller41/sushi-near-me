@@ -5,6 +5,11 @@ permalink: /washington/gig-harbor/domo-sushi-gig-harbor.html
 stateAbbr: WA
 stateName: Washington
 cityName: Gig Harbor
+seo:
+  name: "Domo Sushi Gig Harbor"
+  type: Restaurant
+  links: https://www.facebook.com/642965925768324/
+description: "Looking for sushi in Gig Harbor, Washington? Check out Domo Sushi Gig Harbor for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJQSsbzsyskVQRGdGH8mgTjbI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 923
 website: https://www.facebook.com/642965925768324/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

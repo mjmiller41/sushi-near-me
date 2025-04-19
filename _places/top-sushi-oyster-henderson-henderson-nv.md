@@ -5,6 +5,11 @@ permalink: /nevada/henderson/top-sushi-oyster-henderson.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Henderson
+seo:
+  name: "Top Sushi & Oyster Henderson"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Henderson, Nevada? Check out Top Sushi & Oyster Henderson for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJ-SgdQ4TRyIAR0ltOCmtcBq0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

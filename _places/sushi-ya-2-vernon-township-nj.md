@@ -5,6 +5,11 @@ permalink: /new-jersey/vernon-township/sushi-ya-2.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Vernon Township
+seo:
+  name: "Sushi Ya 2"
+  type: Restaurant
+  links: https://sushiya2.top/
+description: "Looking for sushi in Vernon Township, New Jersey? Check out Sushi Ya 2 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJP0kdauk9w4kRfNASr9PtEKM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 310
 website: https://sushiya2.top/
-description: null
 reviews:
   - name: >-
       places/ChIJP0kdauk9w4kRfNASr9PtEKM/reviews/ChdDSUhNMG9nS0VJQ0FnSURmc2QtZTRnRRAB
@@ -338,5 +342,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

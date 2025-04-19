@@ -5,6 +5,11 @@ permalink: /california/san-jose/sushi-pro.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Sushi Pro"
+  type: Restaurant
+  links: http://sushiprosj.com/
+description: "Looking for sushi in San Jose, California? Check out Sushi Pro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJzYHJv37Nj4ARm7OZ9YxdsxI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 288
 website: http://sushiprosj.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/sushi-spot-waikiki.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Sushi Spot Waikiki"
+  type: Restaurant
+  links: https://www.fooddiscoveryapp.com/honolulu/sushi-spot-waikiki
+description: "Looking for sushi in Honolulu, Hawaii? Check out Sushi Spot Waikiki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ9-OO4n9zAHwRVaLwpgIWLBU
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 2193
 website: https://www.fooddiscoveryapp.com/honolulu/sushi-spot-waikiki
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

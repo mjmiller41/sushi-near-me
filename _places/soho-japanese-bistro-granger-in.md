@@ -5,6 +5,11 @@ permalink: /indiana/granger/soho-japanese-bistro.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Granger
+seo:
+  name: "Soho Japanese Bistro"
+  type: Restaurant
+  links: http://www.sohojapanesegranger.com/
+description: "Looking for sushi in Granger, Indiana? Check out Soho Japanese Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJVxXLKBTTFogR8xdPIVEkQuM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '3.9'
 rating_count: 605
 website: http://www.sohojapanesegranger.com/
-description: null
 reviews:
   - name: >-
       places/ChIJVxXLKBTTFogR8xdPIVEkQuM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBOVozaWhBRRAB
@@ -394,5 +398,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

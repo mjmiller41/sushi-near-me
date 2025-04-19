@@ -5,6 +5,11 @@ permalink: /kentucky/richmond/khin-s-sushi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Richmond
+seo:
+  name: "Khin's Sushi"
+  type: Restaurant
+  links: null
+description: "Simple set-up for a menu of sushi rolls, a few Japanese starters & some classic Burmese items. Looking for sushi in Richmond, Kentucky? Check out Khin's Sush..."
 place_id: ChIJQSB9yvT9QogRljLw9bQpcrk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $1 &ndash; $10
 rating: '4.8'
 rating_count: 886
 website: null
-description: >-
-  Simple set-up for a menu of sushi rolls, a few Japanese starters & some
-  classic Burmese items.
 reviews:
   - name: >-
       places/ChIJQSB9yvT9QogRljLw9bQpcrk/reviews/ChdDSUhNMG9nS0VJQ0FnSURuNllUQjBRRRAB
@@ -355,5 +357,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Simple set-up for a menu of sushi rolls, a few Japanese starters & some
+  classic Burmese items.
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/lake-forest/sushi-kushi-toyo.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Lake Forest
+seo:
+  name: "Sushi Kushi Toyo"
+  type: Restaurant
+  links: http://www.sushikushitoyo.com/
+description: "Sleek, stylish Japanese option serving sushi, skewers, noodle bowls, hot entrees & bento boxes. Looking for sushi in Lake Forest, Illinois? Check out Sushi K..."
 place_id: ChIJ-wgBH12VD4gR145Ab6loPvE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 444
 website: http://www.sushikushitoyo.com/
-description: >-
-  Sleek, stylish Japanese option serving sushi, skewers, noodle bowls, hot
-  entrees & bento boxes.
 reviews:
   - name: >-
       places/ChIJ-wgBH12VD4gR145Ab6loPvE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmdko3aHhBRRAB
@@ -358,5 +360,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek, stylish Japanese option serving sushi, skewers, noodle bowls, hot
+  entrees & bento boxes.
 
 ---

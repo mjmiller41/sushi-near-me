@@ -5,6 +5,11 @@ permalink: /nevada/henderson/the-connection-thai-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Henderson
+seo:
+  name: "The Connection Thai Sushi"
+  type: Restaurant
+  links: http://theconnectionthaisushi.net/
+description: "Looking for sushi in Henderson, Nevada? Check out The Connection Thai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ8y2fQ_TRyIAR7d89bGf2jjw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 203
 website: http://theconnectionthaisushi.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

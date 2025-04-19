@@ -5,6 +5,11 @@ permalink: /virginia/radford/nagoya-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Radford
+seo:
+  name: "Nagoya Sushi"
+  type: Restaurant
+  links: https://www.nagoyaradford.com/
+description: "Casual restaurant serving specialty rolls & Chinese standards such as orange chicken & curry beef. Looking for sushi in Radford, Virginia? Check out Nagoya S..."
 place_id: ChIJqwSK4Y7uTYgRBJOpJjlBs20
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 323
 website: https://www.nagoyaradford.com/
-description: >-
-  Casual restaurant serving specialty rolls & Chinese standards such as orange
-  chicken & curry beef.
 reviews:
   - name: >-
       places/ChIJqwSK4Y7uTYgRBJOpJjlBs20/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnemVDRWlnRRAB
@@ -351,5 +353,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual restaurant serving specialty rolls & Chinese standards such as orange
+  chicken & curry beef.
 
 ---

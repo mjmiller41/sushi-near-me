@@ -5,6 +5,11 @@ permalink: /maryland/baltimore/sushi-hana.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
+seo:
+  name: "Sushi Hana"
+  type: Restaurant
+  links: https://baltimoresushihana.com/#/
+description: "Looking for sushi in Baltimore, Maryland? Check out Sushi Hana for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJrSxEhwcQyIkRBNiSkgpfTWM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 345
 website: https://baltimoresushihana.com/#/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

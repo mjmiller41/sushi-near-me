@@ -5,6 +5,11 @@ permalink: /washington/seattle/ltd-edition-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Ltd Edition Sushi"
+  type: Restaurant
+  links: http://www.ltdeditionsushi.com/
+description: "Looking for sushi in Seattle, Washington? Check out Ltd Edition Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJL08LlpJrkFQRFVj2C-D0EuI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 184
 website: http://www.ltdeditionsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

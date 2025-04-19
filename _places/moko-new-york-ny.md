@@ -5,6 +5,11 @@ permalink: /new-york/new-york/moko.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Moko"
+  type: Restaurant
+  links: http://mokonyc.com/
+description: "Looking for sushi in New York, New York? Check out Moko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
 place_id: ChIJKcTI8OxZwokRtK-tImLBAcc
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 864
 website: http://mokonyc.com/
-description: null
 reviews:
   - name: >-
       places/ChIJKcTI8OxZwokRtK-tImLBAcc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNma3RUQjRnRRAB
@@ -405,5 +409,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: false
+summary: null
 
 ---

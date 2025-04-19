@@ -5,6 +5,11 @@ permalink: /virginia/chesterfield/wasabi-sushi-hibachi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesterfield
+seo:
+  name: "Wasabi Sushi & Hibachi"
+  type: Restaurant
+  links: https://www.facebook.com/pages/category/Sushi-Restaurant/Wasabi-Sushi-Hibachi-1105724856188626/
+description: "Looking for sushi in Chesterfield, Virginia? Check out Wasabi Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJC_TidbwLsYkRv6RZWbC3rV8
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.4'
 rating_count: 553
 website: >-
   https://www.facebook.com/pages/category/Sushi-Restaurant/Wasabi-Sushi-Hibachi-1105724856188626/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

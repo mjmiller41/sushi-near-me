@@ -5,6 +5,11 @@ permalink: /michigan/saline/biwako-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Saline
+seo:
+  name: "Biwako Sushi"
+  type: Restaurant
+  links: https://biwakosushitogo.com/
+description: "Informal eatery serving up traditional Japanese & Korean fare, including sushi, in woody digs. Looking for sushi in Saline, Michigan? Check out Biwako Sushi ..."
 place_id: ChIJ9yU67TK7PIgRt8LLCPmTncY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 758
 website: https://biwakosushitogo.com/
-description: >-
-  Informal eatery serving up traditional Japanese & Korean fare, including
-  sushi, in woody digs.
 reviews:
   - name: >-
       places/ChIJ9yU67TK7PIgRt8LLCPmTncY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNneUlDVVRnEAE
@@ -420,5 +422,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Informal eatery serving up traditional Japanese & Korean fare, including
+  sushi, in woody digs.
 
 ---

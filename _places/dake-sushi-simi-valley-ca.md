@@ -5,6 +5,11 @@ permalink: /california/simi-valley/dake-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Simi Valley
+seo:
+  name: "Dake Sushi"
+  type: Restaurant
+  links: https://dakesushi.smartonlineorder.com/
+description: "Looking for sushi in Simi Valley, California? Check out Dake Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJL6FNwKAv6IAR5iO9583fFS0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 111
 website: https://dakesushi.smartonlineorder.com/
-description: null
 reviews:
   - name: >-
       places/ChIJL6FNwKAv6IAR5iO9583fFS0/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3NzhmaldnEAE
@@ -377,5 +381,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

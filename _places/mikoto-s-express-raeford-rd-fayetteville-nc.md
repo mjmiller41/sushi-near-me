@@ -5,6 +5,11 @@ permalink: /north-carolina/fayetteville/mikoto-s-express-raeford-rd.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Fayetteville
+seo:
+  name: "Mikoto's Express Raeford Rd"
+  type: Restaurant
+  links: https://www.toasttab.com/mikoto-japanese-express-raeford-rd-7980-raeford-rd
+description: "Looking for sushi in Fayetteville, North Carolina? Check out Mikoto's Express Raeford Rd for a delightful Japanese dining experience. Enjoy a variety of sush..."
 place_id: ChIJLyPl9_8_q4kRuynE3hrGINY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '3.4'
 rating_count: 172
 website: https://www.toasttab.com/mikoto-japanese-express-raeford-rd-7980-raeford-rd
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

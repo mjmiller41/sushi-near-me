@@ -5,6 +5,11 @@ permalink: /oklahoma/oklahoma-city/sushi-moto.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
+seo:
+  name: "SUSHI MOTO"
+  type: Restaurant
+  links: https://www.eatsushimoto.com/
+description: "Looking for sushi in Oklahoma City, Oklahoma? Check out SUSHI MOTO for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJLT1WkTMXsocRbC28_xFFqbg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 1012
 website: https://www.eatsushimoto.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

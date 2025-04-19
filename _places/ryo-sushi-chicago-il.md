@@ -5,6 +5,11 @@ permalink: /illinois/chicago/ryo-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Ryo Sushi"
+  type: Restaurant
+  links: http://ryosushi.com/
+description: "Contemporary spot offering sushi & Japanese kitchen entrees, plus open-air views of sidewalk tables. Looking for sushi in Chicago, Illinois? Check out Ryo Su..."
 place_id: ChIJ0WOwWqQsDogR15rEDd2YmmM
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 939
 website: http://ryosushi.com/
-description: >-
-  Contemporary spot offering sushi & Japanese kitchen entrees, plus open-air
-  views of sidewalk tables.
 reviews:
   - name: >-
       places/ChIJ0WOwWqQsDogR15rEDd2YmmM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQZ2ZDVnBBRRAB
@@ -407,5 +409,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Contemporary spot offering sushi & Japanese kitchen entrees, plus open-air
+  views of sidewalk tables.
 
 ---

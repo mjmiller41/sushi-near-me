@@ -5,6 +5,11 @@ permalink: /nevada/reno/itzavy-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
+seo:
+  name: "Itzavy Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Reno, Nevada? Check out Itzavy Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJ7Sn_FR9HmYARbg3tMLMFQIg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /maryland/baltimore/kiku-sushi-restaurant.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
+seo:
+  name: "Kiku Sushi Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Baltimore, Maryland? Check out Kiku Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJX3uL_WUDyIkRRC9wVKOWDrw
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 363
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /alabama/auburn/sushi-hero.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Auburn
+seo:
+  name: "Sushi Hero"
+  type: Restaurant
+  links: http://www.sushiheroauburn.com/
+description: "Looking for sushi in Auburn, Alabama? Check out Sushi Hero for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJWdJA-r3zjIgRy5GYGrjzwps
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 403
 website: http://www.sushiheroauburn.com/
-description: null
 reviews:
   - name: >-
       places/ChIJWdJA-r3zjIgRy5GYGrjzwps/reviews/ChZDSUhNMG9nS0VJQ0FnSURYX3NUMEpBEAE
@@ -406,5 +410,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

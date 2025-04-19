@@ -5,6 +5,11 @@ permalink: /illinois/oswego/sakamoto-japanese-grill-and-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Oswego
+seo:
+  name: "Sakamoto Japanese Grill and Sushi"
+  type: Restaurant
+  links: https://www.sakamotofun.com/
+description: "Looking for sushi in Oswego, Illinois? Check out Sakamoto Japanese Grill and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJK4tgHdrxDogRPTvWm6n4BTY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 853
 website: https://www.sakamotofun.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

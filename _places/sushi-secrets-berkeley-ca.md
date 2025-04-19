@@ -5,6 +5,11 @@ permalink: /california/berkeley/sushi-secrets.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
+seo:
+  name: "Sushi Secrets"
+  type: Restaurant
+  links: http://sushisecrets.net/
+description: "Looking for sushi in Berkeley, California? Check out Sushi Secrets for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJ4-b6gZ5-hYAR4uHSfbjytr4
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 145
 website: http://sushisecrets.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

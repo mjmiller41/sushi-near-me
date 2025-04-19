@@ -5,6 +5,11 @@ permalink: /colorado/aurora/honeybee-asian-bistro-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
+seo:
+  name: "HoneyBee Asian Bistro & Sushi"
+  type: Restaurant
+  links: https://www.honeybeeasianbistro.com/
+description: "Looking for sushi in Aurora, Colorado? Check out HoneyBee Asian Bistro & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJKfO1pZmJbIcRqWu2X-yioXc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 781
 website: https://www.honeybeeasianbistro.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/dallas/kome-sushi-and-handroll-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
+seo:
+  name: "Komé Sushi and Handroll Bar"
+  type: Restaurant
+  links: https://komedallas.com/
+description: "Looking for sushi in Dallas, Texas? Check out Komé Sushi and Handroll Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJ_4ff0SCfToYRlen7iRUXYiw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.7'
 rating_count: 294
 website: https://komedallas.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

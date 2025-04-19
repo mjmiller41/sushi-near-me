@@ -5,6 +5,11 @@ permalink: /missouri/kansas-city/wasahi-japanese-steak-house-sushi-bar.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
+seo:
+  name: "Wasahi Japanese Steak House & Sushi Bar"
+  type: Restaurant
+  links: null
+description: "No-frills Japanese restaurant offering sushi & hot dishes cooked on a hibachi grill. Looking for sushi in Kansas City, Missouri? Check out Wasahi Japanese St..."
 place_id: ChIJg56HFOT3wIcR0wZSlyfqz_Q
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 766
 website: null
-description: >-
-  No-frills Japanese restaurant offering sushi & hot dishes cooked on a hibachi
-  grill.
 reviews:
   - name: >-
       places/ChIJg56HFOT3wIcR0wZSlyfqz_Q/reviews/ChdDSUhNMG9nS0VJQ0FnTUNna3VuSTZRRRAB
@@ -397,5 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  No-frills Japanese restaurant offering sushi & hot dishes cooked on a hibachi
+  grill.
 
 ---

@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/wakame-sushi-asian-bistro.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "Wakame Sushi & Asian Bistro"
+  type: Restaurant
+  links: http://www.wakamebistro.com/
+description: "Casual Japanese sushi & Thai eatery for classic fare in a stylish space with an outdoor patio. Looking for sushi in Minneapolis, Minnesota? Check out Wakame ..."
 place_id: ChIJR7mcJVwn9ocRJ9cEEU23_C8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 2164
 website: http://www.wakamebistro.com/
-description: >-
-  Casual Japanese sushi & Thai eatery for classic fare in a stylish space with
-  an outdoor patio.
 reviews:
   - name: >-
       places/ChIJR7mcJVwn9ocRJ9cEEU23_C8/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNXBPSmpRRRAB
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual Japanese sushi & Thai eatery for classic fare in a stylish space with
+  an outdoor patio.
 
 ---

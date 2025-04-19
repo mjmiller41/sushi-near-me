@@ -5,6 +5,11 @@ permalink: /california/culver-city/sake-house-by-hikari.html
 stateAbbr: CA
 stateName: California
 cityName: Culver City
+seo:
+  name: "Sake House by Hikari"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Culver City, California? Check out Sake House by Hikari for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJD9wR_Si6woARBH3VJ7DAlxw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

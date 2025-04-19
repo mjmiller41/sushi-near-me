@@ -5,6 +5,11 @@ permalink: /north-carolina/greensboro/ichi-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
+seo:
+  name: "Ichi Sushi"
+  type: Restaurant
+  links: https://www.ichisushigreensboro.com/
+description: "Looking for sushi in Greensboro, North Carolina? Check out Ichi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ9VXR9IscU4gRWmp6hNaghZw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 445
 website: https://www.ichisushigreensboro.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ9VXR9IscU4gRWmp6hNaghZw/reviews/ChdDSUhNMG9nS0VJQ0FnTURBNl82QXF3RRAB
@@ -360,5 +364,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

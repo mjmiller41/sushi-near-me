@@ -5,6 +5,11 @@ permalink: /california/south-lake-tahoe/the-naked-fish.html
 stateAbbr: CA
 stateName: California
 cityName: South Lake Tahoe
+seo:
+  name: "The Naked Fish"
+  type: Restaurant
+  links: http://thenakedfish.com/
+description: "Hawaiian-influenced Japanese spot with next-door lounge known for its sushi & creative fish dishes. Looking for sushi in South Lake Tahoe, California? Check ..."
 place_id: ChIJd10vDnSQmYARZUHCBveMLm8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 1642
 website: http://thenakedfish.com/
-description: >-
-  Hawaiian-influenced Japanese spot with next-door lounge known for its sushi &
-  creative fish dishes.
 reviews:
   - name: >-
       places/ChIJd10vDnSQmYARZUHCBveMLm8/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3ejUzWkpBEAE
@@ -410,5 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: false
+summary: >-
+  Hawaiian-influenced Japanese spot with next-door lounge known for its sushi &
+  creative fish dishes.
 
 ---

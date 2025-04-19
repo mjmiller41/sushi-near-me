@@ -5,6 +5,11 @@ permalink: /michigan/novi/happy-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Novi
+seo:
+  name: "Happy Sushi"
+  type: Restaurant
+  links: https://www.happysushinovi.com/
+description: "Cozy, unassuming sushi house offering a variety of maki, sashimi & nigiri, plus lunch specials. Looking for sushi in Novi, Michigan? Check out Happy Sushi fo..."
 place_id: ChIJUXZpAVyuJIgRkLJtPijE7Lc
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 421
 website: https://www.happysushinovi.com/
-description: >-
-  Cozy, unassuming sushi house offering a variety of maki, sashimi & nigiri,
-  plus lunch specials.
 reviews:
   - name: >-
       places/ChIJUXZpAVyuJIgRkLJtPijE7Lc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbkllT0JREAE
@@ -361,5 +363,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Cozy, unassuming sushi house offering a variety of maki, sashimi & nigiri,
+  plus lunch specials.
 
 ---

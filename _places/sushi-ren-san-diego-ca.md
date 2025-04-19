@@ -5,6 +5,11 @@ permalink: /california/san-diego/sushi-ren.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Sushi Ren"
+  type: Restaurant
+  links: https://fooddiscoveryapp.com/san-diego/sushi-ren
+description: "Looking for sushi in San Diego, California? Check out Sushi Ren for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJR-Q-DFT324ARpmUTHl4rIxg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 72
 website: https://fooddiscoveryapp.com/san-diego/sushi-ren
-description: null
 reviews:
   - name: >-
       places/ChIJR-Q-DFT324ARpmUTHl4rIxg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIeC1UbEh3EAE
@@ -402,5 +406,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-francisco/live-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Live Sushi Bar"
+  type: Restaurant
+  links: http://www.livesushibar.com/
+description: "Wood-paneled Japanese neighborhood venue serving rolls, sashimi, live preparations & bento boxes. Looking for sushi in San Francisco, California? Check out L..."
 place_id: ChIJtSa-BDN-j4ARVOuKy9mDdhw
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: null
 rating: '4.3'
 rating_count: 685
 website: http://www.livesushibar.com/
-description: >-
-  Wood-paneled Japanese neighborhood venue serving rolls, sashimi, live
-  preparations & bento boxes.
 reviews:
   - name: >-
       places/ChIJtSa-BDN-j4ARVOuKy9mDdhw/reviews/ChZDSUhNMG9nS0VJQ0FnTURnam83ZURREAE
@@ -417,5 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Wood-paneled Japanese neighborhood venue serving rolls, sashimi, live
+  preparations & bento boxes.
 
 ---

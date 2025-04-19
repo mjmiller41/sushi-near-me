@@ -5,6 +5,11 @@ permalink: /california/santa-cruz/the-buzz-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Cruz
+seo:
+  name: "The Buzz sushi"
+  type: Restaurant
+  links: https://www.thebuzzsushi.com/
+description: "Looking for sushi in Santa Cruz, California? Check out The Buzz sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJf7st-jpBjoARMuT48DmtTbs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 88
 website: https://www.thebuzzsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

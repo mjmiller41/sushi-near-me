@@ -5,6 +5,11 @@ permalink: /maryland/gaithersburg/love-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
+seo:
+  name: "Love Sushi"
+  type: Restaurant
+  links: http://www.lovesushigaithersburg.com/
+description: "Looking for sushi in Gaithersburg, Maryland? Check out Love Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJK211fX_Tt4kRVWcWwjCW7Sk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 152
 website: http://www.lovesushigaithersburg.com/
-description: null
 reviews:
   - name: >-
       places/ChIJK211fX_Tt4kRVWcWwjCW7Sk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRei1fMTZBRRAB
@@ -344,5 +348,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

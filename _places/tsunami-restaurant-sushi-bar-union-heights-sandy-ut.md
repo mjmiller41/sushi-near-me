@@ -5,6 +5,11 @@ permalink: /utah/sandy/tsunami-restaurant-sushi-bar-union-heights.html
 stateAbbr: UT
 stateName: Utah
 cityName: Sandy
+seo:
+  name: "Tsunami Restaurant & Sushi Bar - Union Heights"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Sandy, Utah? Check out Tsunami Restaurant & Sushi Bar - Union Heights for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJM9jEdp1iUocRT6jhmzj76mM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

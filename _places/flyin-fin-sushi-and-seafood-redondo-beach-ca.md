@@ -5,6 +5,11 @@ permalink: /california/redondo-beach/flyin-fin-sushi-and-seafood.html
 stateAbbr: CA
 stateName: California
 cityName: Redondo Beach
+seo:
+  name: "Flyin Fin Sushi and Seafood"
+  type: Restaurant
+  links: http://flyinfin.com/
+description: "Looking for sushi in Redondo Beach, California? Check out Flyin Fin Sushi and Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJYbSDRldL3YARTTOIqq4xnoE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 369
 website: http://flyinfin.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

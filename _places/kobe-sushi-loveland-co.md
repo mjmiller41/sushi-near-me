@@ -5,6 +5,11 @@ permalink: /colorado/loveland/kobe-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Loveland
+seo:
+  name: "Kobe Sushi"
+  type: Restaurant
+  links: https://www.toasttab.com/kobe-sushi-1569-fall-river-drive-169
+description: "Looking for sushi in Loveland, Colorado? Check out Kobe Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJQ36il-esbocR766kq2gqyNk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 800
 website: https://www.toasttab.com/kobe-sushi-1569-fall-river-drive-169
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

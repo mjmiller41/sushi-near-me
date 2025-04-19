@@ -5,6 +5,11 @@ permalink: /texas/austin/sushi-bang-bang.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "Sushi Bang Bang"
+  type: Restaurant
+  links: http://www.sushibangbangtx.com/
+description: "Looking for sushi in Austin, Texas? Check out Sushi Bang Bang for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJp_QAsqcyW4YRFoxC2A0UTM8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 1690
 website: http://www.sushibangbangtx.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/paso-robles/samurai-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Paso Robles
+seo:
+  name: "Samurai Sushi"
+  type: Restaurant
+  links: https://www.facebook.com/pages/Samurai-Sushi-Roll/117333408284405
+description: "Looking for sushi in Paso Robles, California? Check out Samurai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJj-Yzf6HF7IARB3h3jhYxNHY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 138
 website: https://www.facebook.com/pages/Samurai-Sushi-Roll/117333408284405
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

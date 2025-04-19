@@ -5,6 +5,11 @@ permalink: /texas/cleburne/asaka-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Cleburne
+seo:
+  name: "Asaka Sushi"
+  type: Restaurant
+  links: https://www.asakasushitx.com/
+description: "Looking for sushi in Cleburne, Texas? Check out Asaka Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJqUrwiB1HToYR_WoXq7rlxCo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 670
 website: https://www.asakasushitx.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

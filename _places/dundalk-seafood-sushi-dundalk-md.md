@@ -5,6 +5,11 @@ permalink: /maryland/dundalk/dundalk-seafood-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Dundalk
+seo:
+  name: "Dundalk Seafood & Sushi"
+  type: Restaurant
+  links: http://www.dundalksushi.com/
+description: "Looking for sushi in Dundalk, Maryland? Check out Dundalk Seafood & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJNXeWqSwByIkRDNugz1MXbmg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 160
 website: http://www.dundalksushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJNXeWqSwByIkRDNugz1MXbmg/reviews/ChZDSUhNMG9nS0VJQ0FnSURod1pMeU9REAE
@@ -377,5 +381,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

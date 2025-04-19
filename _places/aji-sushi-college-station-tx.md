@@ -5,6 +5,11 @@ permalink: /texas/college-station/aji-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: College Station
+seo:
+  name: "Aji Sushi"
+  type: Restaurant
+  links: https://direct.chownow.com/order/24014/locations/35247
+description: "Looking for sushi in College Station, Texas? Check out Aji Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJRygRQXqERoYREnBbnmOW-CY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 791
 website: https://direct.chownow.com/order/24014/locations/35247
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: //christiansted/umami-sushi-stx.html
 stateAbbr: US
 stateName: undefined
 cityName: Christiansted
+seo:
+  name: "Umami Sushi STX"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Christiansted, undefined? Check out Umami Sushi STX for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJjfCHWyO1GowRUtYmqdxeG-A
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

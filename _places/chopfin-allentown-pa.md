@@ -5,6 +5,11 @@ permalink: /pennsylvania/allentown/chopfin.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Allentown
+seo:
+  name: "Chopfin"
+  type: Restaurant
+  links: http://www.chopfin.com/
+description: "Looking for sushi in Allentown, Pennsylvania? Check out Chopfin for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJDcxw3JE3xIkRWnNoCjC-Jv4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 175
 website: http://www.chopfin.com/
-description: null
 reviews:
   - name: >-
       places/ChIJDcxw3JE3xIkRWnNoCjC-Jv4/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3bmYzX1hnEAE
@@ -360,5 +364,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

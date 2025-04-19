@@ -5,6 +5,11 @@ permalink: /montana/missoula/sushi-hana-downtown.html
 stateAbbr: MT
 stateName: Montana
 cityName: Missoula
+seo:
+  name: "Sushi Hana Downtown"
+  type: Restaurant
+  links: https://sushimissoula.com/
+description: "Casual Japanese bistro serving rolls, teriyaki, tempura & noodle dishes in an art-adorned setting. Looking for sushi in Missoula, Montana? Check out Sushi Ha..."
 place_id: ChIJ07j3EirMXVMRMJ3xm2oNzuI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 746
 website: https://sushimissoula.com/
-description: >-
-  Casual Japanese bistro serving rolls, teriyaki, tempura & noodle dishes in an
-  art-adorned setting.
 reviews:
   - name: >-
       places/ChIJ07j3EirMXVMRMJ3xm2oNzuI/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3X2QzWTVBRRAB
@@ -375,5 +377,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual Japanese bistro serving rolls, teriyaki, tempura & noodle dishes in an
+  art-adorned setting.
 
 ---

@@ -5,6 +5,11 @@ permalink: /missouri/kansas-city/friends-sushi-bento-place.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
+seo:
+  name: "Friends Sushi & Bento Place"
+  type: Restaurant
+  links: https://friendssushi.menufy.com/
+description: "Welcoming outfit offers a range of sushi & hot Japanese cooking, plus lunch specials. Looking for sushi in Kansas City, Missouri? Check out Friends Sushi & B..."
 place_id: ChIJ4_0sYSzuwIcRlspiSk9Md3Y
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 879
 website: https://friendssushi.menufy.com/
-description: >-
-  Welcoming outfit offers a range of sushi & hot Japanese cooking, plus lunch
-  specials.
 reviews:
   - name: >-
       places/ChIJ4_0sYSzuwIcRlspiSk9Md3Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MktHcWFnEAE
@@ -416,5 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Welcoming outfit offers a range of sushi & hot Japanese cooking, plus lunch
+  specials.
 
 ---

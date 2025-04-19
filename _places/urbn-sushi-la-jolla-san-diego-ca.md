@@ -5,6 +5,11 @@ permalink: /california/san-diego/urbn-sushi-la-jolla.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "URBN Sushi - La Jolla"
+  type: Restaurant
+  links: http://urbnsushi.com/
+description: "Looking for sushi in San Diego, California? Check out URBN Sushi - La Jolla for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJN3RrLt8B3IAR-qfPvselheA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 182
 website: http://urbnsushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJN3RrLt8B3IAR-qfPvselheA/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5dnVUQnZRRRAB
@@ -387,5 +391,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

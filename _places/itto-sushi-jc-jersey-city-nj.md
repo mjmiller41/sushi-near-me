@@ -5,6 +5,11 @@ permalink: /new-jersey/jersey-city/itto-sushi-jc.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Jersey City
+seo:
+  name: "Itto Sushi JC"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Jersey City, New Jersey? Check out Itto Sushi JC for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJwbV12epRwokR6hEFDfolaU8
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-diego/matoi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Matoi"
+  type: Restaurant
+  links: http://www.matoisandiego.com/
+description: "Upmarket restaurant offering refined multi-course sushi meals, including nigiri & sashmi. Looking for sushi in San Diego, California? Check out Matoi for a d..."
 place_id: ChIJofAAlGT_24ARbD9iWnOF-9s
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 136
 website: http://www.matoisandiego.com/
-description: >-
-  Upmarket restaurant offering refined multi-course sushi meals, including
-  nigiri & sashmi.
 reviews:
   - name: >-
       places/ChIJofAAlGT_24ARbD9iWnOF-9s/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJeDdhWENnEAE
@@ -366,5 +368,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: false
+summary: >-
+  Upmarket restaurant offering refined multi-course sushi meals, including
+  nigiri & sashmi.
 
 ---

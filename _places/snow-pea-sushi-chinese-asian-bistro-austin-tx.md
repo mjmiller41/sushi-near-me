@@ -5,6 +5,11 @@ permalink: /texas/austin/snow-pea-sushi-chinese-asian-bistro.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "Snow Pea - Sushi, Chinese & Asian Bistro"
+  type: Restaurant
+  links: http://snowpeaaustin.com/
+description: "Looking for sushi in Austin, Texas? Check out Snow Pea - Sushi, Chinese & Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJ7RBIQqAyW4YRTCI-38r6QFY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1114
 website: http://snowpeaaustin.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

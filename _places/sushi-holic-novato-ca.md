@@ -5,6 +5,11 @@ permalink: /california/novato/sushi-holic.html
 stateAbbr: CA
 stateName: California
 cityName: Novato
+seo:
+  name: "Sushi Holic"
+  type: Restaurant
+  links: https://www.sushiholicnovato.com/
+description: "Looking for sushi in Novato, California? Check out Sushi Holic for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJv5cPJr-8hYARZ9a0RdRl-j8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 272
 website: https://www.sushiholicnovato.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

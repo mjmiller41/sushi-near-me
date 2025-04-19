@@ -5,6 +5,11 @@ permalink: /california/san-francisco/kippu.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Kippu"
+  type: Restaurant
+  links: http://www.kippusushi.com/
+description: "Specialty sushi rolls, sashimi & bento boxes round out the menu at this compact, informal outpost. Looking for sushi in San Francisco, California? Check out ..."
 place_id: ChIJmXDZ1LiAhYAR22DvqGrzhik
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 616
 website: http://www.kippusushi.com/
-description: >-
-  Specialty sushi rolls, sashimi & bento boxes round out the menu at this
-  compact, informal outpost.
 reviews:
   - name: >-
       places/ChIJmXDZ1LiAhYAR22DvqGrzhik/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2eHVEanBBRRAB
@@ -372,5 +374,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Specialty sushi rolls, sashimi & bento boxes round out the menu at this
+  compact, informal outpost.
 
 ---

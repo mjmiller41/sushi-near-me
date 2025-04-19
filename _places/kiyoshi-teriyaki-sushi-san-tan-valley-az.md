@@ -5,6 +5,11 @@ permalink: /arizona/san-tan-valley/kiyoshi-teriyaki-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: San Tan Valley
+seo:
+  name: "Kiyoshi Teriyaki & Sushi"
+  type: Restaurant
+  links: https://www.kiyoshiteriyakisantanvalley.com/
+description: "Looking for sushi in San Tan Valley, Arizona? Check out Kiyoshi Teriyaki & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJHex86uxIKocR0TvZqApubNI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 509
 website: https://www.kiyoshiteriyakisantanvalley.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/morgan-hill/sushi-nara.html
 stateAbbr: CA
 stateName: California
 cityName: Morgan Hill
+seo:
+  name: "Sushi Nara"
+  type: Restaurant
+  links: https://sushinaraca.com/
+description: "Looking for sushi in Morgan Hill, California? Check out Sushi Nara for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJbfMDB28gjoARnz_MK8ZS_xQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 219
 website: https://sushinaraca.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

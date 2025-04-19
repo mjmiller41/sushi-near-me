@@ -5,6 +5,11 @@ permalink: /iowa/iowa-city/formosa.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Iowa City
+seo:
+  name: "Formosa"
+  type: Restaurant
+  links: http://formosaiowacity.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13742112367376203805
+description: "Looking for sushi in Iowa City, Iowa? Check out Formosa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
 place_id: ChIJgxklQ-5B5IcRjkvR0-ONPVM
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.1'
 rating_count: 486
 website: >-
   http://formosaiowacity.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13742112367376203805
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /pennsylvania/wilkes-barre-township/yummy-bowl.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Wilkes-Barre Township
+seo:
+  name: "Yummy Bowl"
+  type: Restaurant
+  links: http://yummybowl.us/
+description: "Looking for sushi in Wilkes-Barre Township, Pennsylvania? Check out Yummy Bowl for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJpT_XN0AbxYkRSh1AVszs1XU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 490
 website: http://yummybowl.us/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

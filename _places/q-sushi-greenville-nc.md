@@ -5,6 +5,11 @@ permalink: /north-carolina/greenville/q-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greenville
+seo:
+  name: "Q Sushi"
+  type: Restaurant
+  links: https://www.qsushigreenville.com/
+description: "Looking for sushi in Greenville, North Carolina? Check out Q Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJi-ttbznDrokR1IVFhcOS35A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 911
 website: https://www.qsushigreenville.com/
-description: null
 reviews:
   - name: >-
       places/ChIJi-ttbznDrokR1IVFhcOS35A/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbXByRm5BRRAB
@@ -372,5 +376,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/new-york/amaze.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Amaze"
+  type: Restaurant
+  links: http://www.amazerestaurant.com/
+description: "Pan-Asian hub for creative sushi & sashimi bites with a simple bar & dimly lit atmosphere. Looking for sushi in New York, New York? Check out Amaze for a del..."
 place_id: ChIJ9cDQ-QJZwokRY1mXBDuFNag
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 591
 website: http://www.amazerestaurant.com/
-description: >-
-  Pan-Asian hub for creative sushi & sashimi bites with a simple bar & dimly lit
-  atmosphere.
 reviews:
   - name: >-
       places/ChIJ9cDQ-QJZwokRY1mXBDuFNag/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJa3ZESVZnEAE
@@ -371,5 +373,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Pan-Asian hub for creative sushi & sashimi bites with a simple bar & dimly lit
+  atmosphere.
 
 ---

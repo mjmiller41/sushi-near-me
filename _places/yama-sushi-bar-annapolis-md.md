@@ -5,6 +5,11 @@ permalink: /maryland/annapolis/yama-sushi-bar.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Annapolis
+seo:
+  name: "Yama Sushi bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Annapolis, Maryland? Check out Yama Sushi bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJdZjiq9r2t4kRJ19U0Xu5UFs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

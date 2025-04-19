@@ -5,6 +5,11 @@ permalink: /florida/valrico/sushi-ushi-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Valrico
+seo:
+  name: "Sushi Ushi Japanese Restaurant"
+  type: Restaurant
+  links: http://ushivalrico.com/
+description: "A Japanese menu including hibachi-grilled fare, teriyaki, sashimi & rolls, plus beer & sake. Looking for sushi in Valrico, Florida? Check out Sushi Ushi Japa..."
 place_id: ChIJfQ3gbarNwogR9GSU8oXScFM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 890
 website: http://ushivalrico.com/
-description: >-
-  A Japanese menu including hibachi-grilled fare, teriyaki, sashimi & rolls,
-  plus beer & sake.
 reviews:
   - name: >-
       places/ChIJfQ3gbarNwogR9GSU8oXScFM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBNlpPemdnRRAB
@@ -373,5 +375,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A Japanese menu including hibachi-grilled fare, teriyaki, sashimi & rolls,
+  plus beer & sake.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-jersey/morristown/inspiration-roll.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Morristown
+seo:
+  name: "Inspiration Roll"
+  type: Restaurant
+  links: https://www.inspirationroll.com/
+description: "Japanese eatery specializing in house & build-your-own 'sushi burritos,' ramen bowls & fruit drinks. Looking for sushi in Morristown, New Jersey? Check out I..."
 place_id: ChIJNzGBk7ymw4kR3xTs-JLezwU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 555
 website: https://www.inspirationroll.com/
-description: >-
-  Japanese eatery specializing in house & build-your-own "sushi burritos," ramen
-  bowls & fruit drinks.
 reviews:
   - name: >-
       places/ChIJNzGBk7ymw4kR3xTs-JLezwU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBX0plbUJBEAE
@@ -417,5 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Japanese eatery specializing in house & build-your-own "sushi burritos," ramen
+  bowls & fruit drinks.
 
 ---

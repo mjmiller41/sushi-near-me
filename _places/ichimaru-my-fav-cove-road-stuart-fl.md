@@ -5,6 +5,11 @@ permalink: /florida/stuart/ichimaru-my-fav-cove-road.html
 stateAbbr: FL
 stateName: Florida
 cityName: Stuart
+seo:
+  name: "ICHIMARU MY FAV (Cove Road)"
+  type: Restaurant
+  links: http://www.ichimarumyfav.one/
+description: "Looking for sushi in Stuart, Florida? Check out ICHIMARU MY FAV (Cove Road) for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJCT7fvBDc3ogRrHJrTmJxaAk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 231
 website: http://www.ichimarumyfav.one/
-description: null
 reviews:
   - name: >-
       places/ChIJCT7fvBDc3ogRrHJrTmJxaAk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuZ0pES0FnEAE
@@ -359,5 +363,6 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

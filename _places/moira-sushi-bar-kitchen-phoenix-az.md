@@ -5,6 +5,11 @@ permalink: /arizona/phoenix/moira-sushi-bar-kitchen.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
+seo:
+  name: "MOIRA Sushi Bar & Kitchen"
+  type: Restaurant
+  links: http://www.moirasushi.com/?fbclid=PAZXh0bgNhZW0CMTEAAaa649UefixOUoANZmLhpTQtXhPYag95rZpEk2JIy4DcEH12iPhEbuSPVCM_aem_tlrjwTXjvuAWH4YkV1n0HQ
+description: "Looking for sushi in Phoenix, Arizona? Check out MOIRA Sushi Bar & Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJPT7v6RcSK4cRFIF4tM8gJA0
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.2'
 rating_count: 992
 website: >-
   http://www.moirasushi.com/?fbclid=PAZXh0bgNhZW0CMTEAAaa649UefixOUoANZmLhpTQtXhPYag95rZpEk2JIy4DcEH12iPhEbuSPVCM_aem_tlrjwTXjvuAWH4YkV1n0HQ
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

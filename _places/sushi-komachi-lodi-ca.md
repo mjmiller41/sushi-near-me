@@ -5,6 +5,11 @@ permalink: /california/lodi/sushi-komachi.html
 stateAbbr: CA
 stateName: California
 cityName: Lodi
+seo:
+  name: "Sushi Komachi"
+  type: Restaurant
+  links: http://www.sushikomachi.com/
+description: "Looking for sushi in Lodi, California? Check out Sushi Komachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJx6yxFl-gmoAR9BxI3Clny-k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 917
 website: http://www.sushikomachi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

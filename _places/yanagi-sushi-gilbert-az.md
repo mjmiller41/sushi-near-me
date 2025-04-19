@@ -5,6 +5,11 @@ permalink: /arizona/gilbert/yanagi-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
+seo:
+  name: "YANAGI SUSHI"
+  type: Restaurant
+  links: http://www.yanagisushiaz.com/
+description: "Looking for sushi in Gilbert, Arizona? Check out YANAGI SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJn0LYLnapK4cRRrVTGZI-hz8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 516
 website: http://www.yanagisushiaz.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

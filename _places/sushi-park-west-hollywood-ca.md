@@ -5,6 +5,11 @@ permalink: /california/west-hollywood/sushi-park.html
 stateAbbr: CA
 stateName: California
 cityName: West Hollywood
+seo:
+  name: "Sushi Park"
+  type: Restaurant
+  links: https://www.exploretock.com/sushipark/
+description: "Looking for sushi in West Hollywood, California? Check out Sushi Park for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJW4fmrr2-woARCAUMyNnly3U
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 140
 website: https://www.exploretock.com/sushipark/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

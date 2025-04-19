@@ -5,6 +5,11 @@ permalink: /florida/jacksonville/yashi-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
+seo:
+  name: "Yashi Sushi"
+  type: Restaurant
+  links: http://www.yashisushi4820.com/
+description: "Easygoing shopping-center eatery serving Japanese classics like sushi, teriyaki & hibachi meals. Looking for sushi in Jacksonville, Florida? Check out Yashi ..."
 place_id: ChIJbR_zH3y15YgRXWdCN4NpnnI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 680
 website: http://www.yashisushi4820.com/
-description: >-
-  Easygoing shopping-center eatery serving Japanese classics like sushi,
-  teriyaki & hibachi meals.
 reviews:
   - name: >-
       places/ChIJbR_zH3y15YgRXWdCN4NpnnI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbjhublJREAE
@@ -368,5 +370,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Easygoing shopping-center eatery serving Japanese classics like sushi,
+  teriyaki & hibachi meals.
 
 ---

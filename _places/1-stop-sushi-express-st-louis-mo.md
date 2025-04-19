@@ -5,6 +5,11 @@ permalink: /missouri/st-louis/1-stop-sushi-express.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
+seo:
+  name: "1 STOP SUSHI EXPRESS"
+  type: Restaurant
+  links: https://1stopsushi.com/
+description: "Looking for sushi in St. Louis, Missouri? Check out 1 STOP SUSHI EXPRESS for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJxcRx5aS12IcRU44A6O-cQIg
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 135
 website: https://1stopsushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJxcRx5aS12IcRU44A6O-cQIg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbGY3NTR3RRAB
@@ -464,5 +468,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

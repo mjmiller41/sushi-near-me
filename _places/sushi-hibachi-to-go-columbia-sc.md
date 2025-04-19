@@ -5,6 +5,11 @@ permalink: /south-carolina/columbia/sushi-hibachi-to-go.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Columbia
+seo:
+  name: "Sushi & Hibachi To Go"
+  type: Restaurant
+  links: null
+description: "No-frills Japanese take-out dishing sushi rolls & grilled meats, as well as soups & salads. Looking for sushi in Columbia, South Carolina? Check out Sushi & ..."
 place_id: ChIJwzZ1TtCk-IgRMUgTQDJU5LY
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $1 &ndash; $10
 rating: '4.2'
 rating_count: 530
 website: null
-description: >-
-  No-frills Japanese take-out dishing sushi rolls & grilled meats, as well as
-  soups & salads.
 reviews:
   - name: >-
       places/ChIJwzZ1TtCk-IgRMUgTQDJU5LY/reviews/ChZDSUhNMG9nS0VJQ0FnSURYeHJlYVJ3EAE
@@ -404,5 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  No-frills Japanese take-out dishing sushi rolls & grilled meats, as well as
+  soups & salads.
 
 ---

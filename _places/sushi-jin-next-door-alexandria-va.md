@@ -5,6 +5,11 @@ permalink: /virginia/alexandria/sushi-jin-next-door.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
+seo:
+  name: "Sushi Jin Next Door"
+  type: Restaurant
+  links: http://www.sushijinnextdoor.com/
+description: "Casual eatery serving a menu of traditional Japanese fare that includes sushi and ramen. Looking for sushi in Alexandria, Virginia? Check out Sushi Jin Next ..."
 place_id: ChIJFb0toaizt4kRofBrPnz-dNM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.sushijinnextdoor.com/
-description: >-
-  Casual eatery serving a menu of traditional Japanese fare that includes sushi
-  and ramen.
 reviews:
   - name: >-
       places/ChIJFb0toaizt4kRofBrPnz-dNM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJaWUybTdBRRAB
@@ -422,5 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Casual eatery serving a menu of traditional Japanese fare that includes sushi
+  and ramen.
 
 ---

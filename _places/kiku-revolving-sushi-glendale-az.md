@@ -5,6 +5,11 @@ permalink: /arizona/glendale/kiku-revolving-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Glendale
+seo:
+  name: "KiKu Revolving Sushi"
+  type: Restaurant
+  links: http://www.kikusushiaz.com/
+description: "Looking for sushi in Glendale, Arizona? Check out KiKu Revolving Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJce0UNBxoK4cRvWZSYgT6g54
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 2023
 website: http://www.kikusushiaz.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

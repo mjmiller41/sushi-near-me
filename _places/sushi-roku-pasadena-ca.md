@@ -5,6 +5,11 @@ permalink: /california/pasadena/sushi-roku.html
 stateAbbr: CA
 stateName: California
 cityName: Pasadena
+seo:
+  name: "Sushi Roku"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Pasadena, California? Check out Sushi Roku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJlw-aQnHDwoARi4Cuuo9wf1E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

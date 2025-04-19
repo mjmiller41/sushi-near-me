@@ -5,6 +5,11 @@ permalink: /washington/seattle/noodle-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Noodle/Bar"
+  type: Restaurant
+  links: http://noodlebarseattle.com/
+description: "Looking for sushi in Seattle, Washington? Check out Noodle/Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJvQquFugVkFQRwl1XPhWCkR4
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 147
 website: http://noodlebarseattle.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

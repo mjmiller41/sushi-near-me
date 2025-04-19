@@ -5,6 +5,11 @@ permalink: /colorado/colorado-springs/aiki-sushi-ramen.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
+seo:
+  name: "Aiki Sushi & Ramen"
+  type: Restaurant
+  links: http://www.sushiaikico.com/
+description: "Looking for sushi in Colorado Springs, Colorado? Check out Aiki Sushi & Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJb7HXdK5JE4cRyi3ezl899_4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.6'
 rating_count: 450
 website: http://www.sushiaikico.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

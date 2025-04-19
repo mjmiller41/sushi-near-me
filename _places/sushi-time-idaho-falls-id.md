@@ -5,6 +5,11 @@ permalink: /idaho/idaho-falls/sushi-time.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Idaho Falls
+seo:
+  name: "Sushi Time"
+  type: Restaurant
+  links: https://www.sushitimeidaho.com/
+description: "Looking for sushi in Idaho Falls, Idaho? Check out Sushi Time for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJS_9RSyNfVFMR1Y7c8nuW4sI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 933
 website: https://www.sushitimeidaho.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

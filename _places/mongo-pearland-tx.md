@@ -5,6 +5,11 @@ permalink: /texas/pearland/mongo.html
 stateAbbr: TX
 stateName: Texas
 cityName: Pearland
+seo:
+  name: "Mongo"
+  type: Restaurant
+  links: http://www.bestmongolian.com/
+description: "Looking for sushi in Pearland, Texas? Check out Mongo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJK5vBeDKTQIYRkcmESAnmQFA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1523
 website: http://www.bestmongolian.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

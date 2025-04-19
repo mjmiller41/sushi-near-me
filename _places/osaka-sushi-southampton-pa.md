@@ -5,6 +5,11 @@ permalink: /pennsylvania/southampton/osaka-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Southampton
+seo:
+  name: "Osaka Sushi"
+  type: Restaurant
+  links: http://www.osaka504.com/
+description: "Looking for sushi in Southampton, Pennsylvania? Check out Osaka Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJMwBvMWGsxokR7whFki24wWE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 215
 website: http://www.osaka504.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

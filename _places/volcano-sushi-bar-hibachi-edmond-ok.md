@@ -5,6 +5,11 @@ permalink: /oklahoma/edmond/volcano-sushi-bar-hibachi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Edmond
+seo:
+  name: "Volcano Sushi Bar & Hibachi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Edmond, Oklahoma? Check out Volcano Sushi Bar & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJW0d3OHwfsocR2zi8TwzKG-A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

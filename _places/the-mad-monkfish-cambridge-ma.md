@@ -5,6 +5,11 @@ permalink: /massachusetts/cambridge/the-mad-monkfish.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Cambridge
+seo:
+  name: "The Mad Monkfish"
+  type: Restaurant
+  links: https://themadmonkfish.com/?utm_source=google
+description: "Creatively named sushi, including rolls inspired by fairy tales, & Pan-Asian plates in simple digs. Looking for sushi in Cambridge, Massachusetts? Check out ..."
 place_id: ChIJ837FC1R344kRVlYqVsoSQew
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 2239
 website: https://themadmonkfish.com/?utm_source=google
-description: >-
-  Creatively named sushi, including rolls inspired by fairy tales, & Pan-Asian
-  plates in simple digs.
 reviews:
   - name: >-
       places/ChIJ837FC1R344kRVlYqVsoSQew/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3a0lMZlpREAE
@@ -411,5 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Creatively named sushi, including rolls inspired by fairy tales, & Pan-Asian
+  plates in simple digs.
 
 ---

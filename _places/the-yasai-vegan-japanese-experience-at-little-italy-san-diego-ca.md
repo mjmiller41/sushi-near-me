@@ -5,6 +5,11 @@ permalink: /california/san-diego/the-yasai-vegan-japanese-experience-at-little-i
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "The Yasai: Vegan Japanese Experience at Little Italy"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Diego, California? Check out The Yasai: Vegan Japanese Experience at Little Italy for a delightful Japanese dining experience. Enjoy..."
 place_id: ChIJiQXuf1NV2YARrLEXpzF5hJo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

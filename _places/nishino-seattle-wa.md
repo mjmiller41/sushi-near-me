@@ -5,6 +5,11 @@ permalink: /washington/seattle/nishino.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Nishino"
+  type: Restaurant
+  links: https://nishinorestaurant.com/m/
+description: "Looking for sushi in Seattle, Washington? Check out Nishino for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJT_OIq9IUkFQRyxvBIQWRZg8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 456
 website: https://nishinorestaurant.com/m/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

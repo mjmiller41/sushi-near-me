@@ -5,6 +5,11 @@ permalink: /pennsylvania/malvern/mino-japanese-restaurant-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Malvern
+seo:
+  name: "Mino Japanese Restaurant & Sushi Bar"
+  type: Restaurant
+  links: http://www.minosushi.com/
+description: "Cozy BYOB spot offering creative sushi rolls, kitchen entrees & an all-you-can-eat option. Looking for sushi in Malvern, Pennsylvania? Check out Mino Japanes..."
 place_id: ChIJXzD5lLfyxokR5W9vQBJJLVY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 733
 website: http://www.minosushi.com/
-description: >-
-  Cozy BYOB spot offering creative sushi rolls, kitchen entrees & an
-  all-you-can-eat option.
 reviews:
   - name: >-
       places/ChIJXzD5lLfyxokR5W9vQBJJLVY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdk91cDFBRRAB
@@ -456,5 +458,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Cozy BYOB spot offering creative sushi rolls, kitchen entrees & an
+  all-you-can-eat option.
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/naperville/blue-sushi-sake-grill.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Naperville
+seo:
+  name: "Blue Sushi Sake Grill"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Naperville, Illinois? Check out Blue Sushi Sake Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJT1KAL8dXDogR3dKtBb1uwMk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

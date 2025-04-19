@@ -5,6 +5,11 @@ permalink: /maine/brunswick/watami.html
 stateAbbr: ME
 stateName: Maine
 cityName: Brunswick
+seo:
+  name: "Watami"
+  type: Restaurant
+  links: https://watamiinmaine.com/
+description: "Looking for sushi in Brunswick, Maine? Check out Watami for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
 place_id: ChIJGaWo_VGHrUwRioh5AaI9r0k
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 300
 website: https://watamiinmaine.com/
-description: null
 reviews:
   - name: >-
       places/ChIJGaWo_VGHrUwRioh5AaI9r0k/reviews/ChdDSUhNMG9nS0VJQ0FnSURmX3F2Nnh3RRAB
@@ -446,5 +450,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

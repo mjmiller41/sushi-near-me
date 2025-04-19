@@ -5,6 +5,11 @@ permalink: /washington/bellevue/dan-gui-sichuan-cuisine.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
+seo:
+  name: "Dan Gui Sichuan Cuisine"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Bellevue, Washington? Check out Dan Gui Sichuan Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJN5sDHzZtkFQRKM7mhv3SE-s
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

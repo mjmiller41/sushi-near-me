@@ -5,6 +5,11 @@ permalink: /indiana/plainfield/fu-yuan-hibachi-buffet.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Plainfield
+seo:
+  name: "Fu Yuan Hibachi Buffet"
+  type: Restaurant
+  links: https://fuyuanhibachi.shop/
+description: "Japanese BBQ house with an expansive lunch & dinner buffet including sushi & fried rice dishes. Looking for sushi in Plainfield, Indiana? Check out Fu Yuan H..."
 place_id: ChIJ2cQVVkmkbIgRZgoOlogFiKs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 1845
 website: https://fuyuanhibachi.shop/
-description: >-
-  Japanese BBQ house with an expansive lunch & dinner buffet including sushi &
-  fried rice dishes.
 reviews:
   - name: >-
       places/ChIJ2cQVVkmkbIgRZgoOlogFiKs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNicWNhY0NnEAE
@@ -459,5 +461,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Japanese BBQ house with an expansive lunch & dinner buffet including sushi &
+  fried rice dishes.
 
 ---

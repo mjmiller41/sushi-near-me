@@ -5,6 +5,11 @@ permalink: /tennessee/nashville/888.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
+seo:
+  name: "888"
+  type: Restaurant
+  links: https://www.888nashville.com/
+description: "Looking for sushi in Nashville, Tennessee? Check out 888 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJLza7xQxnZIgREuqfmswhlFI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 173
 website: https://www.888nashville.com/
-description: null
 reviews:
   - name: >-
       places/ChIJLza7xQxnZIgREuqfmswhlFI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdTlQdWhBRRAB
@@ -381,5 +385,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
+summary: null
 
 ---

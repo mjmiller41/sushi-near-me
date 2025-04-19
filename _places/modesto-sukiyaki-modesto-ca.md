@@ -5,6 +5,11 @@ permalink: /california/modesto/modesto-sukiyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Modesto
+seo:
+  name: "Modesto Sukiyaki"
+  type: Restaurant
+  links: https://www.facebook.com/ModestoSukiyaki
+description: "Looking for sushi in Modesto, California? Check out Modesto Sukiyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJfQAU2x5RkIARCb3KUB1FU7w
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 328
 website: https://www.facebook.com/ModestoSukiyaki
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

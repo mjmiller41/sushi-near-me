@@ -5,6 +5,11 @@ permalink: /pennsylvania/newtown-square/hiramasa.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Newtown Square
+seo:
+  name: "Hiramasa"
+  type: Restaurant
+  links: https://www.hiramasapa.com/
+description: "Looking for sushi in Newtown Square, Pennsylvania? Check out Hiramasa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJo1rtnFvrxokRVTvQe_Nuihk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 112
 website: https://www.hiramasapa.com/
-description: null
 reviews:
   - name: >-
       places/ChIJo1rtnFvrxokRVTvQe_Nuihk/reviews/ChdDSUhNMG9nS0VJQ0FnTURRZ2QyZzVRRRAB
@@ -429,5 +433,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

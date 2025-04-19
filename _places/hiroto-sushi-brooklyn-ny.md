@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/hiroto-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Hiroto Sushi"
+  type: Restaurant
+  links: http://www.hirotosushi.com/
+description: "Looking for sushi in Brooklyn, New York? Check out Hiroto Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJQ02b0ulbwokRW5ZY7MMGwI8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 190
 website: http://www.hirotosushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

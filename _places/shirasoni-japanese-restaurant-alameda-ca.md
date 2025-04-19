@@ -5,6 +5,11 @@ permalink: /california/alameda/shirasoni-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Alameda
+seo:
+  name: "Shirasoni Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Alameda, California? Check out Shirasoni Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJg2-nJcWAj4AR8klmjD_fF7A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

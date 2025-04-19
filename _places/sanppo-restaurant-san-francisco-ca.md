@@ -5,6 +5,11 @@ permalink: /california/san-francisco/sanppo-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Sanppo Restaurant"
+  type: Restaurant
+  links: http://sanpposushisf.com/
+description: "Japanese eatery offering a diverse selection of sushi & custom maki rolls, plus tempura & teriyaki. Looking for sushi in San Francisco, California? Check out..."
 place_id: ChIJn1sm1LiAhYARosRri7ggk3w
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 375
 website: http://sanpposushisf.com/
-description: >-
-  Japanese eatery offering a diverse selection of sushi & custom maki rolls,
-  plus tempura & teriyaki.
 reviews:
   - name: >-
       places/ChIJn1sm1LiAhYARosRri7ggk3w/reviews/ChZDSUhNMG9nS0VJQ0FnTURBbjh6cWNnEAE
@@ -381,5 +383,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese eatery offering a diverse selection of sushi & custom maki rolls,
+  plus tempura & teriyaki.
 
 ---

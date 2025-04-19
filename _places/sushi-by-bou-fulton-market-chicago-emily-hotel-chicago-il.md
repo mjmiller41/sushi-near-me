@@ -5,6 +5,11 @@ permalink: /illinois/chicago/sushi-by-bou-fulton-market-chicago-emily-hotel.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Sushi by Bou- Fulton Market Chicago @ Emily Hotel"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Chicago, Illinois? Check out Sushi by Bou- Fulton Market Chicago @ Emily Hotel for a delightful Japanese dining experience. Enjoy a vari..."
 place_id: ChIJGzrP6dAsDogRu7c8qQOHJlI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

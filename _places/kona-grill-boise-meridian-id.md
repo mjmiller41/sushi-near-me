@@ -5,6 +5,11 @@ permalink: /idaho/meridian/kona-grill-boise.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Meridian
+seo:
+  name: "Kona Grill - Boise"
+  type: Restaurant
+  links: https://konagrill.com/locations?locations=Meridian,83646
+description: "Looking for sushi in Meridian, Idaho? Check out Kona Grill - Boise for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJqcUj_T1UrlQRRrSknnGj9xk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 4953
 website: https://konagrill.com/locations?locations=Meridian,83646
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

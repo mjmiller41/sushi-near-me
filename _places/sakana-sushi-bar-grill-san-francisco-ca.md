@@ -5,6 +5,11 @@ permalink: /california/san-francisco/sakana-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Sakana Sushi Bar & Grill"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Francisco, California? Check out Sakana Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJhb7OEI6AhYAR0erQPfGXf5c
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

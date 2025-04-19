@@ -5,6 +5,11 @@ permalink: /florida/port-st-lucie/poke-poke-sushi-bowl-bubble-tea.html
 stateAbbr: FL
 stateName: Florida
 cityName: Port St. Lucie
+seo:
+  name: "Poke Poke Sushi Bowl & Bubble Tea"
+  type: Restaurant
+  links: http://pokepokesushibowlbubbletea.com/?utm_source=gmb&utm_medium=referral
+description: "Looking for sushi in Port St. Lucie, Florida? Check out Poke Poke Sushi Bowl & Bubble Tea for a delightful Japanese dining experience. Enjoy a variety of sus..."
 place_id: ChIJW2_kLhPr3ogRZB3-Yp6F8QA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 441
 website: http://pokepokesushibowlbubbletea.com/?utm_source=gmb&utm_medium=referral
-description: null
 reviews:
   - name: >-
       places/ChIJW2_kLhPr3ogRZB3-Yp6F8QA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNEw2ZGlRRRAB
@@ -374,5 +378,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

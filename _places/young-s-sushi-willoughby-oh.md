@@ -5,6 +5,11 @@ permalink: /ohio/willoughby/young-s-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Willoughby
+seo:
+  name: "Young's Sushi"
+  type: Restaurant
+  links: http://youngssushi.com/
+description: "Rolls, sashimi & party plates round out the menu at this informal Japanese restaurant. Looking for sushi in Willoughby, Ohio? Check out Young's Sushi for a d..."
 place_id: ChIJnXfNV3SpMYgRjJRMyhgsSEY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 579
 website: http://youngssushi.com/
-description: >-
-  Rolls, sashimi & party plates round out the menu at this informal Japanese
-  restaurant.
 reviews:
   - name: >-
       places/ChIJnXfNV3SpMYgRjJRMyhgsSEY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6d2Rma0hnEAE
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Rolls, sashimi & party plates round out the menu at this informal Japanese
+  restaurant.
 
 ---

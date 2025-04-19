@@ -5,6 +5,11 @@ permalink: /ohio/cleveland/kumo-japanese-seafood-buffet.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cleveland
+seo:
+  name: "Kumo Japanese Seafood Buffet"
+  type: Restaurant
+  links: http://kumobuffet.com/
+description: "Looking for sushi in Cleveland, Ohio? Check out Kumo Japanese Seafood Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJlXogkmHvMIgRGF7TvOESC5Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 2419
 website: http://kumobuffet.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

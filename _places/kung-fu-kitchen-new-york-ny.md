@@ -5,6 +5,11 @@ permalink: /new-york/new-york/kung-fu-kitchen.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Kung Fu Kitchen"
+  type: Restaurant
+  links: https://www.kfkitchennyc.com/
+description: "Dumplings, hand-pulled ramen, and other Chinese staples round out the menu at this relaxed restaurant. Looking for sushi in New York, New York? Check out Kun..."
 place_id: ChIJ2_UcxqxZwokRf5dbeh2oSe8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1722
 website: https://www.kfkitchennyc.com/
-description: >-
-  Dumplings, hand-pulled ramen, and other Chinese staples round out the menu at
-  this relaxed restaurant.
 reviews:
   - name: >-
       places/ChIJ2_UcxqxZwokRf5dbeh2oSe8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3MUthYjBBRRAB
@@ -396,5 +398,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Dumplings, hand-pulled ramen, and other Chinese staples round out the menu at
+  this relaxed restaurant.
 
 ---

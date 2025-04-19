@@ -5,6 +5,11 @@ permalink: /georgia/alpharetta/sweet-tuna-halcyon.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Alpharetta
+seo:
+  name: "Sweet Tuna Halcyon"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Alpharetta, Georgia? Check out Sweet Tuna Halcyon for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJZRE-ILyd9YgRw1rVXhqrRus
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 233
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJZRE-ILyd9YgRw1rVXhqrRus/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3NXNubmZ3EAE
@@ -373,5 +377,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

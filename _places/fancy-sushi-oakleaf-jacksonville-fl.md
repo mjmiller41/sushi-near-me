@@ -5,6 +5,11 @@ permalink: /florida/jacksonville/fancy-sushi-oakleaf.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
+seo:
+  name: "Fancy Sushi Oakleaf"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Jacksonville, Florida? Check out Fancy Sushi Oakleaf for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJyUOoHULB5YgR4ZiJhI1fp98
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

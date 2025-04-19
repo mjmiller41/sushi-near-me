@@ -5,6 +5,11 @@ permalink: /illinois/chicago/shinju-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Shinju Sushi"
+  type: Restaurant
+  links: http://www.shinjusushichicago.com/
+description: "Casual spot for raw & cooked Japanese fare with all-you-can-eat sushi plus lunch & dinner buffets. Looking for sushi in Chicago, Illinois? Check out Shinju S..."
 place_id: ChIJmU3XOWwpDogRxlrGyntgjao
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 1074
 website: http://www.shinjusushichicago.com/
-description: >-
-  Casual spot for raw & cooked Japanese fare with all-you-can-eat sushi plus
-  lunch & dinner buffets.
 reviews:
   - name: >-
       places/ChIJmU3XOWwpDogRxlrGyntgjao/reviews/ChZDSUhNMG9nS0VJQ0FnSURWc2ZXMWJBEAE
@@ -396,5 +398,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual spot for raw & cooked Japanese fare with all-you-can-eat sushi plus
+  lunch & dinner buffets.
 
 ---

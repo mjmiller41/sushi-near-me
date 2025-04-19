@@ -5,6 +5,11 @@ permalink: /california/downey/starfish-sushi-downey.html
 stateAbbr: CA
 stateName: California
 cityName: Downey
+seo:
+  name: "Starfish Sushi Downey"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Downey, California? Check out Starfish Sushi Downey for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJo974OJjNwoARUSCyqc9Qe5s
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

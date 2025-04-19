@@ -5,6 +5,11 @@ permalink: /florida/north-miami/sushi-lucy.html
 stateAbbr: FL
 stateName: Florida
 cityName: North Miami
+seo:
+  name: "Sushi Lucy"
+  type: Restaurant
+  links: https://sushilucy.toast.site/
+description: "Looking for sushi in North Miami, Florida? Check out Sushi Lucy for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJAaaFUnOy2YgRh5x0YouPMLA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 361
 website: https://sushilucy.toast.site/
-description: null
 reviews:
   - name: >-
       places/ChIJAaaFUnOy2YgRh5x0YouPMLA/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbjYzZHpRRRAB
@@ -426,5 +430,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

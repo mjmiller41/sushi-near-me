@@ -5,6 +5,11 @@ permalink: /new-york/new-york/la-brochette-steakhouse.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "La Brochette Steakhouse"
+  type: Restaurant
+  links: http://labrochetteny.com/
+description: "Upscale kosher steakhouse showcasing dry-aged beef, veal & sushi in an elegant, multifloor setting. Looking for sushi in New York, New York? Check out La Bro..."
 place_id: ChIJZ38QVwFZwokRHFXpGj9Q9VI
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 460
 website: http://labrochetteny.com/
-description: >-
-  Upscale kosher steakhouse showcasing dry-aged beef, veal & sushi in an
-  elegant, multifloor setting.
 reviews:
   - name: >-
       places/ChIJZ38QVwFZwokRHFXpGj9Q9VI/reviews/ChZDSUhNMG9nS0VJQ0FnTURna3FtalF3EAE
@@ -370,5 +372,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Upscale kosher steakhouse showcasing dry-aged beef, veal & sushi in an
+  elegant, multifloor setting.
 
 ---

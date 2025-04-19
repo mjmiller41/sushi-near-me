@@ -5,6 +5,11 @@ permalink: /virginia/suffolk/sushi-aka.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Suffolk
+seo:
+  name: "sushi aka"
+  type: Restaurant
+  links: http://www.sushiaka.com/
+description: "Looking for sushi in Suffolk, Virginia? Check out sushi aka for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJb21qDw0PsIkRcdgDM7rjRCM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 338
 website: http://www.sushiaka.com/
-description: null
 reviews:
   - name: >-
       places/ChIJb21qDw0PsIkRcdgDM7rjRCM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQcm9EUzBRRRAB
@@ -443,5 +447,6 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

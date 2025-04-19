@@ -5,6 +5,11 @@ permalink: /minnesota/st-cloud/hajime-st-cloud.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: St Cloud
+seo:
+  name: "Hajime St.Cloud"
+  type: Restaurant
+  links: http://hajimestc.com/
+description: "Stylish Japanese outpost with a full bar offering specialty rolls, traditional entrees & happy hour. Looking for sushi in St Cloud, Minnesota? Check out Haji..."
 place_id: ChIJAQCExxpftFIRl-ph5BXrefY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 1115
 website: http://hajimestc.com/
-description: >-
-  Stylish Japanese outpost with a full bar offering specialty rolls, traditional
-  entrees & happy hour.
 reviews:
   - name: >-
       places/ChIJAQCExxpftFIRl-ph5BXrefY/reviews/ChdDSUhNMG9nS0VJQ0FnSURjLXRiaV93RRAB
@@ -412,5 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Stylish Japanese outpost with a full bar offering specialty rolls, traditional
+  entrees & happy hour.
 
 ---

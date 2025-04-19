@@ -5,6 +5,11 @@ permalink: /illinois/chicago/sushi-para-ii.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Sushi Para II"
+  type: Restaurant
+  links: https://sushipararestaurant.com/
+description: "Bustling Japanese spot with all-you-can-eat sushi & a traditional menu with teriyaki & tonkatsu. Looking for sushi in Chicago, Illinois? Check out Sushi Para..."
 place_id: ChIJJYnU3BLTD4gRlBhCX-Sp_ZU
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1059
 website: https://sushipararestaurant.com/
-description: >-
-  Bustling Japanese spot with all-you-can-eat sushi & a traditional menu with
-  teriyaki & tonkatsu.
 reviews:
   - name: >-
       places/ChIJJYnU3BLTD4gRlBhCX-Sp_ZU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdUpUMnlRRRAB
@@ -499,5 +501,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Bustling Japanese spot with all-you-can-eat sushi & a traditional menu with
+  teriyaki & tonkatsu.
 
 ---

@@ -5,6 +5,11 @@ permalink: /minnesota/eagan/kyoto-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Eagan
+seo:
+  name: "Kyoto Sushi"
+  type: Restaurant
+  links: https://order.mealkeyway.com/customer/release/index?mid=76382b72767a6d726857795a69355a736b35356870413d3d
+description: "Japanese restaurant featuring hibachi & specialty rolls from a lunch & dinner buffet or à la carte. Looking for sushi in Eagan, Minnesota? Check out Kyoto Su..."
 place_id: ChIJq6qqqsYq9ocR7NktmDIEEB8
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.2'
 rating_count: 2160
 website: >-
   https://order.mealkeyway.com/customer/release/index?mid=76382b72767a6d726857795a69355a736b35356870413d3d
-description: >-
-  Japanese restaurant featuring hibachi & specialty rolls from a lunch & dinner
-  buffet or à la carte.
 reviews:
   - name: >-
       places/ChIJq6qqqsYq9ocR7NktmDIEEB8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaHB2eGVREAE
@@ -405,5 +407,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese restaurant featuring hibachi & specialty rolls from a lunch & dinner
+  buffet or à la carte.
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/austin/umi-sushi-bar-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "Umi Sushi Bar & Grill"
+  type: Restaurant
+  links: https://umiaustin.com/?y_source=1_MjUwMzYwMzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+description: "Looking for sushi in Austin, Texas? Check out Umi Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJxUI_CV6zRIYRU7X8PIdBnYk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 2018
 website: https://umiaustin.com/?y_source=1_MjUwMzYwMzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

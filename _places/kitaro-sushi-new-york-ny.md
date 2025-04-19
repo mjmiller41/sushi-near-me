@@ -5,6 +5,11 @@ permalink: /new-york/new-york/kitaro-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Kitaro Sushi"
+  type: Restaurant
+  links: https://www.kitarosushitogo.com/
+description: "Traditional Japanese venue specializing in sushi served alongside sashimi, teriyaki & noodles. Looking for sushi in New York, New York? Check out Kitaro Sush..."
 place_id: ChIJKRFZOIRYwokR_uw6rPg9wgI
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 200
 website: https://www.kitarosushitogo.com/
-description: >-
-  Traditional Japanese venue specializing in sushi served alongside sashimi,
-  teriyaki & noodles.
 reviews:
   - name: >-
       places/ChIJKRFZOIRYwokR_uw6rPg9wgI/reviews/ChdDSUhNMG9nS0VJQ0FnSURMcThId2xBRRAB
@@ -369,5 +371,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Traditional Japanese venue specializing in sushi served alongside sashimi,
+  teriyaki & noodles.
 
 ---

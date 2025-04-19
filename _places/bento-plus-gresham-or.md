@@ -5,6 +5,11 @@ permalink: /oregon/gresham/bento-plus.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Gresham
+seo:
+  name: "Bento Plus"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Gresham, Oregon? Check out Bento Plus for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJQfxE7FaYlVQRTbe_82sdCeY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 530
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

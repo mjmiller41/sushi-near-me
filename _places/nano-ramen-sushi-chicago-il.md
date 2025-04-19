@@ -5,6 +5,11 @@ permalink: /illinois/chicago/nano-ramen-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Nano Ramen & Sushi"
+  type: Restaurant
+  links: https://www.nanorestaurant.com/
+description: "Creative sushi & ramen plus Thai & Chinese eats, served in a chic, low-lit BYOB eatery. Looking for sushi in Chicago, Illinois? Check out Nano Ramen & Sushi ..."
 place_id: ChIJ4-TjzrfTD4gRg3XbBo-jf1s
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 401
 website: https://www.nanorestaurant.com/
-description: >-
-  Creative sushi & ramen plus Thai & Chinese eats, served in a chic, low-lit
-  BYOB eatery.
 reviews:
   - name: >-
       places/ChIJ4-TjzrfTD4gRg3XbBo-jf1s/reviews/ChZDSUhNMG9nS0VJQ0FnSURQdllyck9nEAE
@@ -422,5 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Creative sushi & ramen plus Thai & Chinese eats, served in a chic, low-lit
+  BYOB eatery.
 
 ---

@@ -5,6 +5,11 @@ permalink: /washington/tacoma/sumo-sushi-grill-ayce-tacoma.html
 stateAbbr: WA
 stateName: Washington
 cityName: Tacoma
+seo:
+  name: "Sumo Sushi & Grill AYCE - Tacoma"
+  type: Restaurant
+  links: https://www.sumoayce.com/
+description: "Looking for sushi in Tacoma, Washington? Check out Sumo Sushi & Grill AYCE - Tacoma for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJj562OLJVkFQR8U7DmGIJvhE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1793
 website: https://www.sumoayce.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

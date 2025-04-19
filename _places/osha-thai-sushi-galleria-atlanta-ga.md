@@ -5,6 +5,11 @@ permalink: /georgia/atlanta/osha-thai-sushi-galleria.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
+seo:
+  name: "Osha Thai Sushi Galleria"
+  type: Restaurant
+  links: https://oshathaiatl.com/?utm_source=google
+description: "Looking for sushi in Atlanta, Georgia? Check out Osha Thai Sushi Galleria for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJp6OZ5aoF9YgRS5noeK7TMo0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 1574
 website: https://oshathaiatl.com/?utm_source=google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

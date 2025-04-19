@@ -5,6 +5,11 @@ permalink: /new-york/new-york/lilli-and-loo.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Lilli and Loo"
+  type: Restaurant
+  links: https://lilliandloonyc.com/
+description: "An array of Pan-Asian eats (plus gluten-free options) served in a bi-level setting. Looking for sushi in New York, New York? Check out Lilli and Loo for a de..."
 place_id: ChIJ7bhwa-9YwokRcWqrsCk632M
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 803
 website: https://lilliandloonyc.com/
-description: >-
-  An array of Pan-Asian eats (plus gluten-free options) served in a bi-level
-  setting.
 reviews:
   - name: >-
       places/ChIJ7bhwa-9YwokRcWqrsCk632M/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3OUtTWVBBEAE
@@ -370,5 +372,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  An array of Pan-Asian eats (plus gluten-free options) served in a bi-level
+  setting.
 
 ---

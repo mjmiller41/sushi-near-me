@@ -5,6 +5,11 @@ permalink: /virginia/hayes/hana-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Hayes
+seo:
+  name: "Hana Sushi"
+  type: Restaurant
+  links: http://hana-sushi-hayes.edan.io/
+description: "Looking for sushi in Hayes, Virginia? Check out Hana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJ51LhT5uBsIkRx1QnY5MbtNE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 509
 website: http://hana-sushi-hayes.edan.io/
-description: null
 reviews:
   - name: >-
       places/ChIJ51LhT5uBsIkRx1QnY5MbtNE/reviews/ChdDSUhNMG9nS0VJQ0FnSURiMHE2OHVnRRAB
@@ -369,5 +373,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

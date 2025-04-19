@@ -5,6 +5,11 @@ permalink: /massachusetts/shrewsbury/sawa-hibachi-steakhouse-and-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Shrewsbury
+seo:
+  name: "Sawa Hibachi Steakhouse and Sushi"
+  type: Restaurant
+  links: https://sawahibachima.com/
+description: "Modern Japanese eatery featuring steaks, sushi, cocktails & entertaining hibachi chefs. Looking for sushi in Shrewsbury, Massachusetts? Check out Sawa Hibach..."
 place_id: ChIJwT4mfFMI5IkRPDpOrD67RlI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 851
 website: https://sawahibachima.com/
-description: >-
-  Modern Japanese eatery featuring steaks, sushi, cocktails & entertaining
-  hibachi chefs.
 reviews:
   - name: >-
       places/ChIJwT4mfFMI5IkRPDpOrD67RlI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRek5XX1hREAE
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern Japanese eatery featuring steaks, sushi, cocktails & entertaining
+  hibachi chefs.
 
 ---

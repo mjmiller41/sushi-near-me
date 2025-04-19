@@ -5,6 +5,11 @@ permalink: /texas/fort-worth/hanabi-hibachi-and-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Fort Worth
+seo:
+  name: "Hanabi Hibachi and Sushi"
+  type: Restaurant
+  links: http://www.hanabi-hibachi-sushi.com/
+description: "Looking for sushi in Fort Worth, Texas? Check out Hanabi Hibachi and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJN-I0uo3YTYYRwOQjhjc62Cw
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1325
 website: http://www.hanabi-hibachi-sushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

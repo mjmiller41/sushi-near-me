@@ -5,6 +5,11 @@ permalink: /texas/houston/sushigami.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "Sushigami"
+  type: Restaurant
+  links: http://sushigamigalleria.com/
+description: "Looking for sushi in Houston, Texas? Check out Sushigami for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJkTCex27BQIYRsP3LQzDPRjY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '3.8'
 rating_count: 413
 website: http://sushigamigalleria.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

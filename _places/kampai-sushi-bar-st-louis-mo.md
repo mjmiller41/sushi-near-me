@@ -5,6 +5,11 @@ permalink: /missouri/st-louis/kampai-sushi-bar.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
+seo:
+  name: "Kampai Sushi Bar"
+  type: Restaurant
+  links: https://kampaisushibarstl.com/
+description: "Cheery venue, with floor table options, offers creative rolls, nigiri & other Japanese standards. Looking for sushi in St. Louis, Missouri? Check out Kampai ..."
 place_id: ChIJOdAadSi12IcR7yUw42Qq_Os
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 569
 website: https://kampaisushibarstl.com/
-description: >-
-  Cheery venue, with floor table options, offers creative rolls, nigiri & other
-  Japanese standards.
 reviews:
   - name: >-
       places/ChIJOdAadSi12IcR7yUw42Qq_Os/reviews/ChdDSUhNMG9nS0VJQ0FnTURBeEphRDV3RRAB
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Cheery venue, with floor table options, offers creative rolls, nigiri & other
+  Japanese standards.
 
 ---

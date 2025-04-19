@@ -5,6 +5,11 @@ permalink: /connecticut/new-haven/riccota-fin-and-scale.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Haven
+seo:
+  name: "Riccota Fin And Scale"
+  type: Restaurant
+  links: https://www.ricotta-kosher.com/
+description: "Looking for sushi in New Haven, Connecticut? Check out Riccota Fin And Scale for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJt-_h5-jZ54kRvL0yASE4LSc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 158
 website: https://www.ricotta-kosher.com/
-description: null
 reviews:
   - name: >-
       places/ChIJt-_h5-jZ54kRvL0yASE4LSc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBOWJ5UDFnRRAB
@@ -369,5 +373,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-jersey/fairfield/yellowtail-japanese-bistro.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Fairfield
+seo:
+  name: "Yellowtail Japanese Bistro"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Fairfield, New Jersey? Check out Yellowtail Japanese Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJST_7qbUBw4kRSbAAxq05Yuo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 270
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJST_7qbUBw4kRSbAAxq05Yuo/reviews/ChZDSUhNMG9nS0VJQ0FnSUMza09EZVJREAE
@@ -378,5 +382,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

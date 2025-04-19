@@ -5,6 +5,11 @@ permalink: /illinois/wheaton/lu-s-sushi-chinese.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Wheaton
+seo:
+  name: "Lu's Sushi & Chinese"
+  type: Restaurant
+  links: http://lussushiandchinese.com/
+description: "Simple shopping plaza destination for sushi & Chinese food as well as beer, wine & sake. Looking for sushi in Wheaton, Illinois? Check out Lu's Sushi & Chine..."
 place_id: ChIJs6IHWalTDogRYLUAaYSyM40
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 350
 website: http://lussushiandchinese.com/
-description: >-
-  Simple shopping plaza destination for sushi & Chinese food as well as beer,
-  wine & sake.
 reviews:
   - name: >-
       places/ChIJs6IHWalTDogRYLUAaYSyM40/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3ME5La21BRRAB
@@ -415,5 +417,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Simple shopping plaza destination for sushi & Chinese food as well as beer,
+  wine & sake.
 
 ---

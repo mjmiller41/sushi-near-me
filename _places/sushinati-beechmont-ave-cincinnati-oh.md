@@ -5,6 +5,11 @@ permalink: /ohio/cincinnati/sushinati-beechmont-ave.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+seo:
+  name: "SushiNati - Beechmont Ave"
+  type: Restaurant
+  links: http://www.sushinatibeechmont.com/
+description: "Looking for sushi in Cincinnati, Ohio? Check out SushiNati - Beechmont Ave for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJg2p-BzSpQYgRPMzHw7nmnmQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 431
 website: http://www.sushinatibeechmont.com/
-description: null
 reviews:
   - name: >-
       places/ChIJg2p-BzSpQYgRPMzHw7nmnmQ/reviews/ChRDSUhNMG9nS0VJQ0FnSUN2bUpRNBAB
@@ -406,5 +410,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/carrollton/hon-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Carrollton
+seo:
+  name: "Hon Sushi"
+  type: Restaurant
+  links: https://honsushitexas.com/
+description: "Looking for sushi in Carrollton, Texas? Check out Hon Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJrS__JEMmTIYRFarJvaNak0w
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 628
 website: https://honsushitexas.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

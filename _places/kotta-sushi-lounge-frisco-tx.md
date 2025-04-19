@@ -5,6 +5,11 @@ permalink: /texas/frisco/kotta-sushi-lounge.html
 stateAbbr: TX
 stateName: Texas
 cityName: Frisco
+seo:
+  name: "Kotta Sushi Lounge"
+  type: Restaurant
+  links: http://kottasushilounge.com/
+description: "Looking for sushi in Frisco, Texas? Check out Kotta Sushi Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJjS0UpmQ8TIYRAwVu5cOtSxo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 532
 website: http://kottasushilounge.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

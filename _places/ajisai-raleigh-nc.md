@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/ajisai.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Ajisai"
+  type: Restaurant
+  links: http://www.ajisai3.com/
+description: "Modern restaurant featuring a variety of sushi rolls & other Japanese dishes in a moody atmosphere. Looking for sushi in Raleigh, North Carolina? Check out A..."
 place_id: ChIJVdwS3Ir1rIkRG8WjkAkvYN8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 902
 website: http://www.ajisai3.com/
-description: >-
-  Modern restaurant featuring a variety of sushi rolls & other Japanese dishes
-  in a moody atmosphere.
 reviews:
   - name: >-
       places/ChIJVdwS3Ir1rIkRG8WjkAkvYN8/reviews/ChdDSUhNMG9nS0VJQ0FnTURRenRhcWdnRRAB
@@ -442,5 +444,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern restaurant featuring a variety of sushi rolls & other Japanese dishes
+  in a moody atmosphere.
 
 ---

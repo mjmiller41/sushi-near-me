@@ -5,6 +5,11 @@ permalink: /illinois/chicago/sumu-tokyo-ramen-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Sumu Tokyo ramen & Sushi"
+  type: Restaurant
+  links: http://www.sumuramen.com/
+description: "Relaxed Japanese spot serving homemade ramen noodles & other classics in a narrow, dimly lit space. Looking for sushi in Chicago, Illinois? Check out Sumu To..."
 place_id: ChIJSwc5RmUtDogRzk1BJTszG8U
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 305
 website: http://www.sumuramen.com/
-description: >-
-  Relaxed Japanese spot serving homemade ramen noodles & other classics in a
-  narrow, dimly lit space.
 reviews:
   - name: >-
       places/ChIJSwc5RmUtDogRzk1BJTszG8U/reviews/ChdDSUhNMG9nS0VJQ0FnTURBcnJQNzlBRRAB
@@ -364,5 +366,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed Japanese spot serving homemade ramen noodles & other classics in a
+  narrow, dimly lit space.
 
 ---

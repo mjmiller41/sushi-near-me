@@ -5,6 +5,11 @@ permalink: /ohio/lakewood/voodoo-tuna-sushi-bar-and-lounge.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Lakewood
+seo:
+  name: "Voodoo Tuna Sushi Bar and Lounge"
+  type: Restaurant
+  links: http://voodootuna.com/
+description: "Asian fusion fare & inventive sushi rolls served with craft cocktails in a sleek space with a patio. Looking for sushi in Lakewood, Ohio? Check out Voodoo Tu..."
 place_id: ChIJ46K7pmvyMIgRkcNssl2WTyU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 729
 website: http://voodootuna.com/
-description: >-
-  Asian fusion fare & inventive sushi rolls served with craft cocktails in a
-  sleek space with a patio.
 reviews:
   - name: >-
       places/ChIJ46K7pmvyMIgRkcNssl2WTyU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfOFB6VjNRRRAB
@@ -385,5 +387,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Asian fusion fare & inventive sushi rolls served with craft cocktails in a
+  sleek space with a patio.
 
 ---

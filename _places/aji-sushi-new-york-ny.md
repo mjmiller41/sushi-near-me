@@ -5,6 +5,11 @@ permalink: /new-york/new-york/aji-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Aji Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New York, New York? Check out Aji Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJM8c5sHRZwokRXY_g--q0wpw
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

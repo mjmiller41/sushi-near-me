@@ -5,6 +5,11 @@ permalink: /maryland/clarksville/lets-roll-korean-eatery.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Clarksville
+seo:
+  name: "Lets Roll Korean Eatery"
+  type: Restaurant
+  links: https://www.letsrollmrld.com/
+description: "Looking for sushi in Clarksville, Maryland? Check out Lets Roll Korean Eatery for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJsdzuhjfZt4kRLXv5DFKUx4I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 31
 website: https://www.letsrollmrld.com/
-description: null
 reviews:
   - name: >-
       places/ChIJsdzuhjfZt4kRLXv5DFKUx4I/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbk1lRlR3EAE
@@ -370,5 +374,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /michigan/grand-rapids/umi-sushi-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Grand Rapids
+seo:
+  name: "Umi Sushi&Grill"
+  type: Restaurant
+  links: http://umisushigrill.com/
+description: "Looking for sushi in Grand Rapids, Michigan? Check out Umi Sushi&Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJxb0dwVG1GYgRCfannlgm8wk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 544
 website: http://umisushigrill.com/
-description: null
 reviews:
   - name: >-
       places/ChIJxb0dwVG1GYgRCfannlgm8wk/reviews/ChdDSUhNMG9nS0VJQ0FnTURnejl1TG93RRAB
@@ -380,5 +384,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

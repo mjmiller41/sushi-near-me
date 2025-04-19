@@ -5,6 +5,11 @@ permalink: /new-york/scarsdale/ko-ko-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Scarsdale
+seo:
+  name: "Ko Ko Sushi"
+  type: Restaurant
+  links: http://www.sushikoko.com/
+description: "Looking for sushi in Scarsdale, New York? Check out Ko Ko Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJlRVi9m2TwokRlDr1NonP6tA
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 41
 website: http://www.sushikoko.com/
-description: null
 reviews:
   - name: >-
       places/ChIJlRVi9m2TwokRlDr1NonP6tA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNudU9HRFFREAE
@@ -342,5 +346,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

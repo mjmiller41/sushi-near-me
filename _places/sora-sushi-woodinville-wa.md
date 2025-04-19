@@ -5,6 +5,11 @@ permalink: /washington/woodinville/sora-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Woodinville
+seo:
+  name: "Sora Sushi"
+  type: Restaurant
+  links: https://sorasushi.menu11.com/wood/order
+description: "Looking for sushi in Woodinville, Washington? Check out Sora Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJuy_L3bINkFQRZYyw00bv_QM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 392
 website: https://sorasushi.menu11.com/wood/order
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

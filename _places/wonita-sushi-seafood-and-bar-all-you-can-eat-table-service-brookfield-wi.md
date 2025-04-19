@@ -5,6 +5,11 @@ permalink: /wisconsin/brookfield/wonita-sushi-seafood-and-bar-all-you-can-eat-ta
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Brookfield
+seo:
+  name: "Wonita Sushi Seafood and Bar-All you can eat table service"
+  type: Restaurant
+  links: http://www.wonitasushiseafood.com/
+description: "Looking for sushi in Brookfield, Wisconsin? Check out Wonita Sushi Seafood and Bar-All you can eat table service for a delightful Japanese dining experience...."
 place_id: ChIJ683k2-gHBYgR4BUq8XB6_JU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 762
 website: http://www.wonitasushiseafood.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ683k2-gHBYgR4BUq8XB6_JU/reviews/ChZDSUhNMG9nS0VJQ0FnTURnak1fbEdBEAE
@@ -434,5 +438,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

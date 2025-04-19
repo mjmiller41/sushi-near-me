@@ -5,6 +5,11 @@ permalink: /california/san-diego/mizukiyama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Mizukiyama Sushi"
+  type: Restaurant
+  links: http://mizukiyama.com/
+description: "Looking for sushi in San Diego, California? Check out Mizukiyama Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJSaEtsFQH3IAR4fr577rQSvI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 310
 website: http://mizukiyama.com/
-description: null
 reviews:
   - name: >-
       places/ChIJSaEtsFQH3IAR4fr577rQSvI/reviews/ChZDSUhNMG9nS0VJQ0FnTURJdXEtaVRBEAE
@@ -356,5 +360,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

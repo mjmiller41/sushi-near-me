@@ -5,6 +5,11 @@ permalink: /indiana/new-albany/yamato-japanese-steak-house.html
 stateAbbr: IN
 stateName: Indiana
 cityName: New Albany
+seo:
+  name: "Yamato Japanese Steak House"
+  type: Restaurant
+  links: https://yamatonewalbany.com/
+description: "Looking for sushi in New Albany, Indiana? Check out Yamato Japanese Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJdzE5J8VtaYgRsgso36Rc_dM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 329
 website: https://yamatonewalbany.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

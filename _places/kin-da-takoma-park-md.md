@@ -5,6 +5,11 @@ permalink: /maryland/takoma-park/kin-da.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Takoma Park
+seo:
+  name: "Kin Da"
+  type: Restaurant
+  links: https://www.kindatakoma.com/
+description: "Green walls & soft lighting set the scene at this storefront serving sushi, curries & Thai fare. Looking for sushi in Takoma Park, Maryland? Check out Kin Da..."
 place_id: ChIJm4T1wYLIt4kRw8bZTo22tqs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 569
 website: https://www.kindatakoma.com/
-description: >-
-  Green walls & soft lighting set the scene at this storefront serving sushi,
-  curries & Thai fare.
 reviews:
   - name: >-
       places/ChIJm4T1wYLIt4kRw8bZTo22tqs/reviews/ChdDSUhNMG9nS0VJQ0FnSURfbGU2NnZRRRAB
@@ -402,5 +404,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Green walls & soft lighting set the scene at this storefront serving sushi,
+  curries & Thai fare.
 
 ---

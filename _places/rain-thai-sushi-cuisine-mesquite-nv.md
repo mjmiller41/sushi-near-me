@@ -5,6 +5,11 @@ permalink: /nevada/mesquite/rain-thai-sushi-cuisine.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Mesquite
+seo:
+  name: "Rain Thai Sushi Cuisine"
+  type: Restaurant
+  links: http://www.rainthaimesquite.com/
+description: "Looking for sushi in Mesquite, Nevada? Check out Rain Thai Sushi Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJr98wmZwryoARRaITDRzzNe0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 270
 website: http://www.rainthaimesquite.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

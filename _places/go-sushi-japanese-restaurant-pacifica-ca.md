@@ -5,6 +5,11 @@ permalink: /california/pacifica/go-sushi-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Pacifica
+seo:
+  name: "Go Sushi Japanese Restaurant"
+  type: Restaurant
+  links: https://gosushitogo.com/
+description: "Relaxed place with paper lanterns highlighting an extensive Japanese menu plus wine, sake & beer. Looking for sushi in Pacifica, California? Check out Go Sus..."
 place_id: ChIJs0YDOlR6j4ARHBVhsh5QdsI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 257
 website: https://gosushitogo.com/
-description: >-
-  Relaxed place with paper lanterns highlighting an extensive Japanese menu plus
-  wine, sake & beer.
 reviews:
   - name: >-
       places/ChIJs0YDOlR6j4ARHBVhsh5QdsI/reviews/ChdDSUhNMG9nS0VJQ0FnSURCd0l5cTJRRRAB
@@ -386,5 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed place with paper lanterns highlighting an extensive Japanese menu plus
+  wine, sake & beer.
 
 ---

@@ -5,6 +5,11 @@ permalink: /alaska/anchorage/yakishabu-sushi-house.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Anchorage
+seo:
+  name: "Yakishabu Sushi House"
+  type: Restaurant
+  links: http://www.yakishabu.com/
+description: "Looking for sushi in Anchorage, Alaska? Check out Yakishabu Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJMdQzoAOZyFYR1rEIFO_2Wyo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 318
 website: http://www.yakishabu.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

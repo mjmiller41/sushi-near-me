@@ -5,6 +5,11 @@ permalink: /new-york/new-york/dragon-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Dragon Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New York, New York? Check out Dragon Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJYwW6R6L3wokRQ9H1nf7nn4g
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

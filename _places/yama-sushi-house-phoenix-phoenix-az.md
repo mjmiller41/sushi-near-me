@@ -5,6 +5,11 @@ permalink: /arizona/phoenix/yama-sushi-house-phoenix.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
+seo:
+  name: "Yama Sushi House - Phoenix"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Phoenix, Arizona? Check out Yama Sushi House - Phoenix for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJU9abh-oSK4cROkql25LNHIg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /oklahoma/warr-acres/5-star-sushi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Warr Acres
+seo:
+  name: "5 Star Sushi"
+  type: Restaurant
+  links: https://5starsushiokc.com/
+description: "Looking for sushi in Warr Acres, Oklahoma? Check out 5 Star Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJ9b2JgDgbsocR8W3uDNcVaMI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 161
 website: https://5starsushiokc.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

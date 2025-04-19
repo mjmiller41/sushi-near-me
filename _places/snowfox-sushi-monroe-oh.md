@@ -5,6 +5,11 @@ permalink: /ohio/monroe/snowfox-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Monroe
+seo:
+  name: "SNOWFOX Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Monroe, Ohio? Check out SNOWFOX Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJWXAnaS9dQIgRO3ZZql5CUcI
 photos: null
 address: 3033 Heritage Green Dr, Monroe, OH 45050, USA
@@ -49,7 +54,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -76,5 +80,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

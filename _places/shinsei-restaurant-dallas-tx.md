@@ -5,6 +5,11 @@ permalink: /texas/dallas/shinsei-restaurant.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
+seo:
+  name: "Shinsei Restaurant"
+  type: Restaurant
+  links: http://shinseirestaurant.com/
+description: "Looking for sushi in Dallas, Texas? Check out Shinsei Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJSXqRWGKeToYRWqrIL53Phd4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 527
 website: http://shinseirestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /wisconsin/pleasant-prairie/honada-sushi-hibachi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Pleasant Prairie
+seo:
+  name: "Honada Sushi & Hibachi"
+  type: Restaurant
+  links: http://www.honadawi.com/
+description: "Intimate Japanese eatery where chefs show off at the hibachi tables & roll sushi at the bar. Looking for sushi in Pleasant Prairie, Wisconsin? Check out Hona..."
 place_id: ChIJW7JpZKFhBYgR_qzq54sDRpQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 1441
 website: http://www.honadawi.com/
-description: >-
-  Intimate Japanese eatery where chefs show off at the hibachi tables & roll
-  sushi at the bar.
 reviews:
   - name: >-
       places/ChIJW7JpZKFhBYgR_qzq54sDRpQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYcjZUb2h3RRAB
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Intimate Japanese eatery where chefs show off at the hibachi tables & roll
+  sushi at the bar.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/monterey/lalla-grill-del-monte.html
 stateAbbr: CA
 stateName: California
 cityName: Monterey
+seo:
+  name: "Lalla Grill Del Monte"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Monterey, California? Check out Lalla Grill Del Monte for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJh1XT7CzkjYAR3pWOcFHrjp4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

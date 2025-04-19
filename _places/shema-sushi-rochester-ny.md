@@ -5,6 +5,11 @@ permalink: /new-york/rochester/shema-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
+seo:
+  name: "Shema Sushi"
+  type: Restaurant
+  links: https://www.shema-sushi.com/
+description: "Calm, urban nook since 2007 offering Japanese noodle dishes, along with beer & sake. Looking for sushi in Rochester, New York? Check out Shema Sushi for a de..."
 place_id: ChIJbfUNDALP1okRJ3K-FQQKEgE
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 475
 website: https://www.shema-sushi.com/
-description: >-
-  Calm, urban nook since 2007 offering Japanese noodle dishes, along with beer &
-  sake.
 reviews:
   - name: >-
       places/ChIJbfUNDALP1okRJ3K-FQQKEgE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQcTRpNHh3RRAB
@@ -415,5 +417,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Calm, urban nook since 2007 offering Japanese noodle dishes, along with beer &
+  sake.
 
 ---

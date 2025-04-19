@@ -5,6 +5,11 @@ permalink: /california/san-francisco/yamo.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Yamo"
+  type: Restaurant
+  links: https://yamosf.net/
+description: "Hole-in-the-wall, cash-only Burmese restaurant for quick, cheap meals served from an open kitchen. Looking for sushi in San Francisco, California? Check out ..."
 place_id: ChIJWdqFtzx-j4ARmbqOHjZACP4
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $1 &ndash; $10
 rating: '4.4'
 rating_count: 793
 website: https://yamosf.net/
-description: >-
-  Hole-in-the-wall, cash-only Burmese restaurant for quick, cheap meals served
-  from an open kitchen.
 reviews:
   - name: >-
       places/ChIJWdqFtzx-j4ARmbqOHjZACP4/reviews/ChdDSUhNMG9nS0VJQ0FnTURBeXVUYXB3RRAB
@@ -433,5 +435,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Hole-in-the-wall, cash-only Burmese restaurant for quick, cheap meals served
+  from an open kitchen.
 
 ---

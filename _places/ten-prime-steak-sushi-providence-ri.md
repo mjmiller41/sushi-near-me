@@ -5,6 +5,11 @@ permalink: /rhode-island/providence/ten-prime-steak-sushi.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Providence
+seo:
+  name: "Ten Prime Steak & Sushi"
+  type: Restaurant
+  links: http://www.tenprimesteakandsushi.com/
+description: "Designer rolls & aged meats are the draw at this swank fixture, with a raw bar & happy-hour menu. Looking for sushi in Providence, Rhode Island? Check out Te..."
 place_id: ChIJYeeUNhRF5IkRnrn5W9b_nvM
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 615
 website: http://www.tenprimesteakandsushi.com/
-description: >-
-  Designer rolls & aged meats are the draw at this swank fixture, with a raw bar
-  & happy-hour menu.
 reviews:
   - name: >-
       places/ChIJYeeUNhRF5IkRnrn5W9b_nvM/reviews/ChZDSUhNMG9nS0VJQ0FnTURnbE9tcGFnEAE
@@ -365,5 +367,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Designer rolls & aged meats are the draw at this swank fixture, with a raw bar
+  & happy-hour menu.
 
 ---

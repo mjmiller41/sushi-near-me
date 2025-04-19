@@ -5,6 +5,11 @@ permalink: /colorado/arvada/sushi-yaya.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Arvada
+seo:
+  name: "Sushi YaYa"
+  type: Restaurant
+  links: http://sushiyayaxpress.com/
+description: "Looking for sushi in Arvada, Colorado? Check out Sushi YaYa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJkbp3RjaIa4cRZmQ0YvRJstc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 400
 website: http://sushiyayaxpress.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

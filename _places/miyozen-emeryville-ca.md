@@ -5,6 +5,11 @@ permalink: /california/emeryville/miyozen.html
 stateAbbr: CA
 stateName: California
 cityName: Emeryville
+seo:
+  name: "Miyozen"
+  type: Restaurant
+  links: https://miyozen.com/?utm_source=google
+description: "Looking for sushi in Emeryville, California? Check out Miyozen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJsRZNpRN-hYARdUznQKJzt5k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 381
 website: https://miyozen.com/?utm_source=google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

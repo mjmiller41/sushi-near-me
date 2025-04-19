@@ -5,6 +5,11 @@ permalink: /pennsylvania/philadelphia/yanaga-kappo-izakaya.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
+seo:
+  name: "Yanaga Kappo Izakaya"
+  type: Restaurant
+  links: https://www.ykisushi.com/
+description: "Looking for sushi in Philadelphia, Pennsylvania? Check out Yanaga Kappo Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJ8WFysm3JxokROk0L9fMzvLI
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 103
 website: https://www.ykisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -203,5 +207,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

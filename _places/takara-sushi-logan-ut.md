@@ -5,6 +5,11 @@ permalink: /utah/logan/takara-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Logan
+seo:
+  name: "Takara Sushi"
+  type: Restaurant
+  links: https://www.takarasushilogan.com/
+description: "Looking for sushi in Logan, Utah? Check out Takara Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJ1ZmI0ud9VIcRE77oTw3adB4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 1301
 website: https://www.takarasushilogan.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

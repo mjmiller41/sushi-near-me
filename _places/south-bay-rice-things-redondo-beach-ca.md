@@ -5,6 +5,11 @@ permalink: /california/redondo-beach/south-bay-rice-things.html
 stateAbbr: CA
 stateName: California
 cityName: Redondo Beach
+seo:
+  name: "South Bay Rice Things"
+  type: Restaurant
+  links: http://southbayricethings.com/
+description: "Looking for sushi in Redondo Beach, California? Check out South Bay Rice Things for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJqV2g9F-0woARdwO3JVfLfwo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 693
 website: http://southbayricethings.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

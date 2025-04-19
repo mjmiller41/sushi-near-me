@@ -5,6 +5,11 @@ permalink: /california/castaic/matsu-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Castaic
+seo:
+  name: "Matsu Sushi"
+  type: Restaurant
+  links: https://matsusushionline.com/
+description: "Looking for sushi in Castaic, California? Check out Matsu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJJWW941B-woARodFRfy1Sgqg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 348
 website: https://matsusushionline.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

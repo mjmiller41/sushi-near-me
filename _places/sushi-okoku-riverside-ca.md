@@ -5,6 +5,11 @@ permalink: /california/riverside/sushi-okoku.html
 stateAbbr: CA
 stateName: California
 cityName: Riverside
+seo:
+  name: "Sushi Okoku"
+  type: Restaurant
+  links: http://www.sushiokoku.com/
+description: "Strip-mall Japanese eatery serving sushi, noodles & curries, plus sake & beer, in a relaxed space. Looking for sushi in Riverside, California? Check out Sush..."
 place_id: ChIJ3z8gFTa33IARQYqYD5e4qQ0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 1300
 website: http://www.sushiokoku.com/
-description: >-
-  Strip-mall Japanese eatery serving sushi, noodles & curries, plus sake & beer,
-  in a relaxed space.
 reviews:
   - name: >-
       places/ChIJ3z8gFTa33IARQYqYD5e4qQ0/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3akstTjBRRRAB
@@ -402,5 +404,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Strip-mall Japanese eatery serving sushi, noodles & curries, plus sake & beer,
+  in a relaxed space.
 
 ---

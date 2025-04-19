@@ -5,6 +5,11 @@ permalink: /california/hayward/hinata-sushi-kitchen.html
 stateAbbr: CA
 stateName: California
 cityName: Hayward
+seo:
+  name: "Hinata Sushi Kitchen"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Hayward, California? Check out Hinata Sushi Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJbbd-n6WTj4ARMu0vFPq9rUw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.0'
 rating_count: 279
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /washington/newcastle/aji-sushi-grill-newcastle.html
 stateAbbr: WA
 stateName: Washington
 cityName: Newcastle
+seo:
+  name: "AJI Sushi & Grill Newcastle"
+  type: Restaurant
+  links: https://ajisushigrill.com/
+description: "Looking for sushi in Newcastle, Washington? Check out AJI Sushi & Grill Newcastle for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJZfvIaL5pkFQRDkekE42R07M
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 674
 website: https://ajisushigrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

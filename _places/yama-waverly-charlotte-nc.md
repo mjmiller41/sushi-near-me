@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/yama-waverly.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "YAMA Waverly"
+  type: Restaurant
+  links: http://yamawaverly.com/
+description: "Looking for sushi in Charlotte, North Carolina? Check out YAMA Waverly for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJVTjcp80nVIgR2Bx42hybxvk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 652
 website: http://yamawaverly.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

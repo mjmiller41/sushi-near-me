@@ -5,6 +5,11 @@ permalink: /virginia/suffolk/ninja-japanese-steakhouse-sushi-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Suffolk
+seo:
+  name: "Ninja Japanese Steakhouse & Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Suffolk, Virginia? Check out Ninja Japanese Steakhouse & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJjwRrcOyfuokR_Mkac0nu1pU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

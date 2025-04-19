@@ -5,6 +5,11 @@ permalink: /florida/jacksonville/tokyo-ramen-sushi-at-fruit-cove.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
+seo:
+  name: "Tokyo Ramen & Sushi At Fruit Cove"
+  type: Restaurant
+  links: https://tokyoramenburrito1.com/
+description: "Looking for sushi in Jacksonville, Florida? Check out Tokyo Ramen & Sushi At Fruit Cove for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJxy8Cyl_O5YgR0-Dz-m3z91U
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 276
 website: https://tokyoramenburrito1.com/
-description: null
 reviews:
   - name: >-
       places/ChIJxy8Cyl_O5YgR0-Dz-m3z91U/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2cjlxQVF3EAE
@@ -391,5 +395,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

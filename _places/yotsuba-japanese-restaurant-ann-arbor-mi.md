@@ -5,6 +5,11 @@ permalink: /michigan/ann-arbor/yotsuba-japanese-restaurant.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
+seo:
+  name: "Yotsuba Japanese Restaurant"
+  type: Restaurant
+  links: http://www.yotsuba-restaurant.com/
+description: "Modern, minimalist space for sushi, teriyaki & more served in booths or traditional tatami rooms. Looking for sushi in Ann Arbor, Michigan? Check out Yotsuba..."
 place_id: ChIJAeSKkSuvPIgRyMyCKfNQKv0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1385
 website: http://www.yotsuba-restaurant.com/
-description: >-
-  Modern, minimalist space for sushi, teriyaki & more served in booths or
-  traditional tatami rooms.
 reviews:
   - name: >-
       places/ChIJAeSKkSuvPIgRyMyCKfNQKv0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcU9yMkJBEAE
@@ -423,5 +425,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern, minimalist space for sushi, teriyaki & more served in booths or
+  traditional tatami rooms.
 
 ---

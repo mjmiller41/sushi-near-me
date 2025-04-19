@@ -5,6 +5,11 @@ permalink: /south-carolina/greenville/sushi-kingdom.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Greenville
+seo:
+  name: "Sushi Kingdom"
+  type: Restaurant
+  links: http://www.sushikingdomgreenville.com/
+description: "Looking for sushi in Greenville, South Carolina? Check out Sushi Kingdom for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJ8-XhkAMvWIgRVUjozs-Dnzc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1832
 website: http://www.sushikingdomgreenville.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ8-XhkAMvWIgRVUjozs-Dnzc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndFktVHh3RRAB
@@ -404,5 +408,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

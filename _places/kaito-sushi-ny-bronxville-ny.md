@@ -5,6 +5,11 @@ permalink: /new-york/bronxville/kaito-sushi-ny.html
 stateAbbr: NY
 stateName: New York
 cityName: Bronxville
+seo:
+  name: "Kaito Sushi NY"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Bronxville, New York? Check out Kaito Sushi NY for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJr103-rGSwokReSFy8SWUMpY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

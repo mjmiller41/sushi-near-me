@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/umaya-izakaya.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Umaya Izakaya"
+  type: Restaurant
+  links: https://www.umayadc.com/
+description: "Japanese comfort fare like robata grills & Asian-accented cocktails in a high-energy room. Looking for sushi in Washington, District of Columbia? Check out U..."
 place_id: ChIJlWC6bJG3t4kRgVLUK6CRrbA
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 1187
 website: https://www.umayadc.com/
-description: >-
-  Japanese comfort fare like robata grills & Asian-accented cocktails in a
-  high-energy room.
 reviews:
   - name: >-
       places/ChIJlWC6bJG3t4kRgVLUK6CRrbA/reviews/ChdDSUhNMG9nS0VJQ0FnTURneXEtdnZBRRAB
@@ -381,5 +383,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese comfort fare like robata grills & Asian-accented cocktails in a
+  high-energy room.
 
 ---

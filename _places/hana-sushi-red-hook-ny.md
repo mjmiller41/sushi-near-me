@@ -5,6 +5,11 @@ permalink: /new-york/red-hook/hana-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Red Hook
+seo:
+  name: "Hana Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Red Hook, New York? Check out Hana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJp9xNigML3YkRanXX48M8UuE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

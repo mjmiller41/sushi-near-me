@@ -5,6 +5,11 @@ permalink: /virginia/alexandria/zento-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
+seo:
+  name: "Zento Japanese Restaurant"
+  type: Restaurant
+  links: http://www.zentorestaurant.com/index.html
+description: "Sushi, ramen & more in a modern Japanese eatery with exposed beams, brick accents & Asian touches. Looking for sushi in Alexandria, Virginia? Check out Zento..."
 place_id: ChIJ7cAVevqwt4kRB3LFDhAHGCA
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://www.zentorestaurant.com/index.html
-description: >-
-  Sushi, ramen & more in a modern Japanese eatery with exposed beams, brick
-  accents & Asian touches.
 reviews:
   - name: >-
       places/ChIJ7cAVevqwt4kRB3LFDhAHGCA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnM1BtaXhRRRAB
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, ramen & more in a modern Japanese eatery with exposed beams, brick
+  accents & Asian touches.
 
 ---

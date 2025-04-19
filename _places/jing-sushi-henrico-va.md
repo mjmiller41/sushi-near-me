@@ -5,6 +5,11 @@ permalink: /virginia/henrico/jing-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Henrico
+seo:
+  name: "Jing Sushi"
+  type: Restaurant
+  links: https://www.jingsushi.com/
+description: "Looking for sushi in Henrico, Virginia? Check out Jing Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJHb38mHIVsYkRkkq77_TKYo4
 photos:
   - name: >-
@@ -89,7 +94,6 @@ price_range: null
 rating: '3.6'
 rating_count: 18
 website: https://www.jingsushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJHb38mHIVsYkRkkq77_TKYo4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPdjRxRGt3RRAB
@@ -275,5 +279,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

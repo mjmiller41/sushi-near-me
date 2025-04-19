@@ -5,6 +5,11 @@ permalink: /new-york/corona/fansway-teriyaki-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Corona
+seo:
+  name: "Fansway Teriyaki & Sushi"
+  type: Restaurant
+  links: https://www.fanswayteriyaki.com/
+description: "Looking for sushi in Corona, New York? Check out Fansway Teriyaki & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJpYRmPPtfwokR0bAk7cdHEiQ
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 86
 website: https://www.fanswayteriyaki.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

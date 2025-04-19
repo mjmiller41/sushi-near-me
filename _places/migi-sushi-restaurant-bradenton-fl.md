@@ -5,6 +5,11 @@ permalink: /florida/bradenton/migi-sushi-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Bradenton
+seo:
+  name: "Migi Sushi Restaurant"
+  type: Restaurant
+  links: https://www.migisushibradenton.com//?utm_source=gmb&utm_medium=referral
+description: "Looking for sushi in Bradenton, Florida? Check out Migi Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJyWPn9u09w4gRUJLQ-QZdmbU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 408
 website: https://www.migisushibradenton.com//?utm_source=gmb&utm_medium=referral
-description: null
 reviews:
   - name: >-
       places/ChIJyWPn9u09w4gRUJLQ-QZdmbU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBbElxckR3EAE
@@ -372,5 +376,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

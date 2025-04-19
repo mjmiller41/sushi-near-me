@@ -5,6 +5,11 @@ permalink: /minnesota/brooklyn-park/house-of-kirin-chinese-restaurant.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Brooklyn Park
+seo:
+  name: "House of Kirin Chinese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Brooklyn Park, Minnesota? Check out House of Kirin Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJBWuU1Fg7s1IR_uZrDtJb5Bs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

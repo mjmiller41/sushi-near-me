@@ -5,6 +5,11 @@ permalink: /arizona/tucson/kampai-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
+seo:
+  name: "Kampai Sushi"
+  type: Restaurant
+  links: http://www.kampaiaz.com/
+description: "Looking for sushi in Tucson, Arizona? Check out Kampai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJ76u5sWxz1oYR0Q63AzZGO58
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 161
 website: http://www.kampaiaz.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

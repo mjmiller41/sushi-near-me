@@ -5,6 +5,11 @@ permalink: /massachusetts/north-easton/zenshi-handcrafted-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: North Easton
+seo:
+  name: "ZENSHI Handcrafted Sushi"
+  type: Restaurant
+  links: https://www.zenshisushi.com/
+description: "Looking for sushi in North Easton, Massachusetts? Check out ZENSHI Handcrafted Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJfZrTdmqJ5IkReJSfqOQWoEs
 photos:
   - name: >-
@@ -100,7 +105,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: https://www.zenshisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -127,5 +131,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

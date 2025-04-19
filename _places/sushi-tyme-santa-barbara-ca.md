@@ -5,6 +5,11 @@ permalink: /california/santa-barbara/sushi-tyme.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Barbara
+seo:
+  name: "Sushi Tyme"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Santa Barbara, California? Check out Sushi Tyme for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJt5HOO3kU6YAR5-frHB_iIO8
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '3.8'
 rating_count: 170
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJt5HOO3kU6YAR5-frHB_iIO8/reviews/ChdDSUhNMG9nS0VJQ0FnTURJZ01ESjZ3RRAB
@@ -389,5 +393,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

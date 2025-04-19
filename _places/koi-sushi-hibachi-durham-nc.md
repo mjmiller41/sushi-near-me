@@ -5,6 +5,11 @@ permalink: /north-carolina/durham/koi-sushi-hibachi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Durham
+seo:
+  name: "Koi Sushi & Hibachi"
+  type: Restaurant
+  links: https://koisushihibachi.com/
+description: "Looking for sushi in Durham, North Carolina? Check out Koi Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJH7xaP0rlrIkRaQ81DMX4uKU
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 159
 website: https://koisushihibachi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJH7xaP0rlrIkRaQ81DMX4uKU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJak5MUDFnRRAB
@@ -468,5 +472,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

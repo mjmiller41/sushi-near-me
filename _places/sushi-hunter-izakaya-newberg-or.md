@@ -5,6 +5,11 @@ permalink: /oregon/newberg/sushi-hunter-izakaya.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Newberg
+seo:
+  name: "Sushi Hunter Izakaya"
+  type: Restaurant
+  links: http://www.sushihunternewberg.com/
+description: "Looking for sushi in Newberg, Oregon? Check out Sushi Hunter Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJITfAB3tqlVQRMAcbCnNalak
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 368
 website: http://www.sushihunternewberg.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

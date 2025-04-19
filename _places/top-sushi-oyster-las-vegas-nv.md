@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/top-sushi-oyster.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "Top Sushi & Oyster"
+  type: Restaurant
+  links: https://topsushi.top/
+description: "Looking for sushi in Las Vegas, Nevada? Check out Top Sushi & Oyster for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJD48i9NPPyIARfPCAEeZCzxk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 756
 website: https://topsushi.top/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

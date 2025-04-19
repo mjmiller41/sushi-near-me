@@ -5,6 +5,11 @@ permalink: /california/san-diego/izakaya-masa.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Izakaya Masa"
+  type: Restaurant
+  links: http://www.izakayamasa.com/
+description: "Looking for sushi in San Diego, California? Check out Izakaya Masa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJ-UIN59RU2YAR4QlG_coRhfg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 953
 website: http://www.izakayamasa.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

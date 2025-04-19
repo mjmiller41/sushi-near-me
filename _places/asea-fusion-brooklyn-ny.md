@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/asea-fusion.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Asea Fusion"
+  type: Restaurant
+  links: http://www.aseanyc.com/
+description: "Hibachi meals, noodles, sushi & teriyaki round out the menu at this modern Japanese joint. Looking for sushi in Brooklyn, New York? Check out Asea Fusion for..."
 place_id: ChIJ42TQ4M5awokRtmdT9bCsAak
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 669
 website: http://www.aseanyc.com/
-description: >-
-  Hibachi meals, noodles, sushi & teriyaki round out the menu at this modern
-  Japanese joint.
 reviews:
   - name: >-
       places/ChIJ42TQ4M5awokRtmdT9bCsAak/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzaHJIRkNREAE
@@ -359,5 +361,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Hibachi meals, noodles, sushi & teriyaki round out the menu at this modern
+  Japanese joint.
 
 ---

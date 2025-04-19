@@ -5,6 +5,11 @@ permalink: /california/los-angeles/mrs-fish.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Mrs. Fish"
+  type: Restaurant
+  links: http://www.mrsfish.com/
+description: "Japanese plates, sushi & whisky are presented in a contemporary space accented by colorful artwork. Looking for sushi in Los Angeles, California? Check out M..."
 place_id: ChIJITfiK7XHwoARG6IDkwlSETI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 818
 website: http://www.mrsfish.com/
-description: >-
-  Japanese plates, sushi & whisky are presented in a contemporary space accented
-  by colorful artwork.
 reviews:
   - name: >-
       places/ChIJITfiK7XHwoARG6IDkwlSETI/reviews/ChZDSUhNMG9nS0VJQ0FnTURBNE5MS2R3EAE
@@ -489,5 +491,8 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese plates, sushi & whisky are presented in a contemporary space accented
+  by colorful artwork.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-diego/ken-sushi-workshop.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Ken Sushi Workshop"
+  type: Restaurant
+  links: https://kensushiworkshop.shop/
+description: "Japanese fusion fare like clever sushi rolls are served in a sleek, compact space with bar seats. Looking for sushi in San Diego, California? Check out Ken S..."
 place_id: ChIJtRPOWEcG3IAROZN1_3t-Jd8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 692
 website: https://kensushiworkshop.shop/
-description: >-
-  Japanese fusion fare like clever sushi rolls are served in a sleek, compact
-  space with bar seats.
 reviews:
   - name: >-
       places/ChIJtRPOWEcG3IAROZN1_3t-Jd8/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3NF9fUU5REAE
@@ -381,5 +383,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese fusion fare like clever sushi rolls are served in a sleek, compact
+  space with bar seats.
 
 ---

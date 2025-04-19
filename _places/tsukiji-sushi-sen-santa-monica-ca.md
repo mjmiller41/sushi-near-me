@@ -5,6 +5,11 @@ permalink: /california/santa-monica/tsukiji-sushi-sen.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
+seo:
+  name: "Tsukiji Sushi Sen"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Santa Monica, California? Check out Tsukiji Sushi Sen for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJLYbxHdK6woARk8ZRhofs4eA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 236
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

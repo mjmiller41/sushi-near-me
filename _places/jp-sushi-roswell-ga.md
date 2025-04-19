@@ -5,6 +5,11 @@ permalink: /georgia/roswell/jp-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Roswell
+seo:
+  name: "JP Sushi"
+  type: Restaurant
+  links: http://www.jpsushi.com/
+description: "Casual, contemporary Japanese eatery serving sushi, noodles & teriyaki, plus sake & wine. Looking for sushi in Roswell, Georgia? Check out JP Sushi for a del..."
 place_id: ChIJ54FxoywL9YgRC2OPDDSpk08
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 484
 website: http://www.jpsushi.com/
-description: >-
-  Casual, contemporary Japanese eatery serving sushi, noodles & teriyaki, plus
-  sake & wine.
 reviews:
   - name: >-
       places/ChIJ54FxoywL9YgRC2OPDDSpk08/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbWI2VVR3EAE
@@ -336,5 +338,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual, contemporary Japanese eatery serving sushi, noodles & teriyaki, plus
+  sake & wine.
 
 ---

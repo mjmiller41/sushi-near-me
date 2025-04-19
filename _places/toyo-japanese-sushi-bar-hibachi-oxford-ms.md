@@ -5,6 +5,11 @@ permalink: /mississippi/oxford/toyo-japanese-sushi-bar-hibachi.html
 stateAbbr: MS
 stateName: Mississippi
 cityName: Oxford
+seo:
+  name: "Toyo Japanese Sushi Bar & Hibachi"
+  type: Restaurant
+  links: http://www.toyooxford.com/
+description: "Spacious, kid-friendly Japanese eatery specializing in sushi & hibachi fare, plus happy hour. Looking for sushi in Oxford, Mississippi? Check out Toyo Japane..."
 place_id: ChIJV413x2hwgIgRSkBf1vgLoeI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 717
 website: http://www.toyooxford.com/
-description: >-
-  Spacious, kid-friendly Japanese eatery specializing in sushi & hibachi fare,
-  plus happy hour.
 reviews:
   - name: >-
       places/ChIJV413x2hwgIgRSkBf1vgLoeI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnaHFfdGRREAE
@@ -449,5 +451,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Spacious, kid-friendly Japanese eatery specializing in sushi & hibachi fare,
+  plus happy hour.
 
 ---

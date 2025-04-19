@@ -5,6 +5,11 @@ permalink: /new-york/westbury/shogi-japanese-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Westbury
+seo:
+  name: "Shogi Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Westbury, New York? Check out Shogi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJrWRo1UWHwokReEQaRCE4aQk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 39
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /washington/issaquah/zushi-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Issaquah
+seo:
+  name: "Zushi Sushi"
+  type: Restaurant
+  links: https://zushisushiissaquah.com/
+description: "Looking for sushi in Issaquah, Washington? Check out Zushi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJyYKiWL1vkFQR7pcAvu7viTQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 388
 website: https://zushisushiissaquah.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

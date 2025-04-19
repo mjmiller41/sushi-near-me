@@ -5,6 +5,11 @@ permalink: /california/san-diego/sushi-ota.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Sushi Ota"
+  type: Restaurant
+  links: https://www.sushi-ota.com/
+description: "Looking for sushi in San Diego, California? Check out Sushi Ota for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJc0ibUjQA3IAR88otUfRaxYs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.7'
 rating_count: 2351
 website: https://www.sushi-ota.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

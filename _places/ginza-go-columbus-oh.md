@@ -5,6 +5,11 @@ permalink: /ohio/columbus/ginza-go.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
+seo:
+  name: "Ginza Go"
+  type: Restaurant
+  links: https://www.ginzagocolumbus.com/
+description: "Unfussy counter-serve joint dispensing casual Japanese grub, including sushi & tempura. Looking for sushi in Columbus, Ohio? Check out Ginza Go for a delight..."
 place_id: ChIJa425nAyLOIgR2r4qazvHs0I
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 400
 website: https://www.ginzagocolumbus.com/
-description: >-
-  Unfussy counter-serve joint dispensing casual Japanese grub, including sushi &
-  tempura.
 reviews:
   - name: >-
       places/ChIJa425nAyLOIgR2r4qazvHs0I/reviews/ChZDSUhNMG9nS0VJQ0FnSURfMWZfLVJ3EAE
@@ -368,5 +370,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Unfussy counter-serve joint dispensing casual Japanese grub, including sushi &
+  tempura.
 
 ---

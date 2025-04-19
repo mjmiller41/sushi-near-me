@@ -5,6 +5,11 @@ permalink: /new-jersey/hamilton-township/sakana-asian-cuisine.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hamilton Township
+seo:
+  name: "Sakana Asian Cuisine"
+  type: Restaurant
+  links: http://www.sakanaasiancuisine.com/
+description: "Looking for sushi in Hamilton Township, New Jersey? Check out Sakana Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJZ9c6PTNZwYkRsEB50dtBgQ4
 photos:
   - name: >-
@@ -182,7 +187,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 415
 website: http://www.sakanaasiancuisine.com/
-description: null
 reviews:
   - name: >-
       places/ChIJZ9c6PTNZwYkRsEB50dtBgQ4/reviews/ChZDSUhNMG9nS0VJQ0FnSURQeHB5SFRBEAE
@@ -388,5 +392,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

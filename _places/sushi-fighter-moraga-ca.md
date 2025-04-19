@@ -5,6 +5,11 @@ permalink: /california/moraga/sushi-fighter.html
 stateAbbr: CA
 stateName: California
 cityName: Moraga
+seo:
+  name: "Sushi Fighter"
+  type: Restaurant
+  links: https://sushifightermoraga.com/
+description: "Looking for sushi in Moraga, California? Check out Sushi Fighter for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJy4n0DNWJj4ARASzNl6M8ORA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 121
 website: https://sushifightermoraga.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

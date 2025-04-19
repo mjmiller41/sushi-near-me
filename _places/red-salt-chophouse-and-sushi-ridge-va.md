@@ -5,6 +5,11 @@ permalink: /virginia/ridge/red-salt-chophouse-and-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Ridge
+seo:
+  name: "Red Salt Chophouse and Sushi"
+  type: Restaurant
+  links: https://www.redsaltrva.com/
+description: "Steaks & sushi pair with global wines & unique cocktails at this industrial-chic American chophouse. Looking for sushi in Ridge, Virginia? Check out Red Salt..."
 place_id: ChIJOw7Y4gtqsYkR259v59tjrCE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 1478
 website: https://www.redsaltrva.com/
-description: >-
-  Steaks & sushi pair with global wines & unique cocktails at this
-  industrial-chic American chophouse.
 reviews:
   - name: >-
       places/ChIJOw7Y4gtqsYkR259v59tjrCE/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NXIyZ2pBRRAB
@@ -398,5 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Steaks & sushi pair with global wines & unique cocktails at this
+  industrial-chic American chophouse.
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/algonquin/sushi-king.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Algonquin
+seo:
+  name: "Sushi King"
+  type: Restaurant
+  links: https://www.sushiking2.com/
+description: "Looking for sushi in Algonquin, Illinois? Check out Sushi King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJTXspY_gND4gR_wZylVxpGis
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 149
 website: https://www.sushiking2.com/
-description: null
 reviews:
   - name: >-
       places/ChIJTXspY_gND4gR_wZylVxpGis/reviews/ChZDSUhNMG9nS0VJQ0FnSURuN3VEMGJ3EAE
@@ -358,5 +362,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

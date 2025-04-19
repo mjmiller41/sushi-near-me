@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/east-sushi-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "East Sushi Bistro"
+  type: Restaurant
+  links: https://www.facebook.com/East-Sushi-Bistro-Inc-113798351984306/
+description: "Looking for sushi in Brooklyn, New York? Check out East Sushi Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJlyfBlo5EwokRUvxnUsU7z-A
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 292
 website: https://www.facebook.com/East-Sushi-Bistro-Inc-113798351984306/
-description: null
 reviews:
   - name: >-
       places/ChIJlyfBlo5EwokRUvxnUsU7z-A/reviews/ChZDSUhNMG9nS0VJQ0FnSURoM1BUdVlBEAE
@@ -373,5 +377,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: false
 takeout: true
+summary: null
 
 ---

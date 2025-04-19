@@ -5,6 +5,11 @@ permalink: /massachusetts/taunton/torched-kitchen-bar.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Taunton
+seo:
+  name: "Torched Kitchen & Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Taunton, Massachusetts? Check out Torched Kitchen & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJsQ76HBSN5IkRQXBTThbmJg8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 68
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

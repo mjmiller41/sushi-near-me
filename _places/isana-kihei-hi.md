@@ -5,6 +5,11 @@ permalink: /hawaii/kihei/isana.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kihei
+seo:
+  name: "Isana"
+  type: Restaurant
+  links: http://www.isanarestaurant.net/
+description: "Looking for sushi in Kihei, Hawaii? Check out Isana for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atm..."
 place_id: ChIJwWI08EzQVHkRo9lFVIJDmYo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1017
 website: http://www.isanarestaurant.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

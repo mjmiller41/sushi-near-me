@@ -5,6 +5,11 @@ permalink: /new-york/suffern/sushi-bada.html
 stateAbbr: NY
 stateName: New York
 cityName: Suffern
+seo:
+  name: "Sushi Bada"
+  type: Restaurant
+  links: http://www.sushibada59.com/
+description: "Chic sushi spot with lunch plates & boxes plus beer, wine & sake served in a lively, low-lit space. Looking for sushi in Suffern, New York? Check out Sushi B..."
 place_id: ChIJCUTeuEjnwokRALVbgZklijs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 554
 website: http://www.sushibada59.com/
-description: >-
-  Chic sushi spot with lunch plates & boxes plus beer, wine & sake served in a
-  lively, low-lit space.
 reviews:
   - name: >-
       places/ChIJCUTeuEjnwokRALVbgZklijs/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3aDc2OHlBRRAB
@@ -461,5 +463,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Chic sushi spot with lunch plates & boxes plus beer, wine & sake served in a
+  lively, low-lit space.
 
 ---

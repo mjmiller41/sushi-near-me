@@ -5,6 +5,11 @@ permalink: /new-york/rochester/plum-house.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
+seo:
+  name: "Plum House"
+  type: Restaurant
+  links: https://www.plumhouse686.com/
+description: "Looking for sushi in Rochester, New York? Check out Plum House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJR3DQ6w211okRvHfN_2U2pyg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 595
 website: https://www.plumhouse686.com/
-description: null
 reviews:
   - name: >-
       places/ChIJR3DQ6w211okRvHfN_2U2pyg/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cDlIaFRnEAE
@@ -415,5 +419,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

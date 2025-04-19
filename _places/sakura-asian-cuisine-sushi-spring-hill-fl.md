@@ -5,6 +5,11 @@ permalink: /florida/spring-hill/sakura-asian-cuisine-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Spring Hill
+seo:
+  name: "Sakura Asian Cuisine & Sushi"
+  type: Restaurant
+  links: http://www.sakuraspringhillfl.com/
+description: "Chinese hot plates & Japanese sushi menu & hibachi with lunch specials & casual, modern interiors. Looking for sushi in Spring Hill, Florida? Check out Sakur..."
 place_id: ChIJq9QuhjqgwogRFiBkSzCi8zw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 555
 website: http://www.sakuraspringhillfl.com/
-description: >-
-  Chinese hot plates & Japanese sushi menu & hibachi with lunch specials &
-  casual, modern interiors.
 reviews:
   - name: >-
       places/ChIJq9QuhjqgwogRFiBkSzCi8zw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuX2N5OFRREAE
@@ -398,5 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Chinese hot plates & Japanese sushi menu & hibachi with lunch specials &
+  casual, modern interiors.
 
 ---

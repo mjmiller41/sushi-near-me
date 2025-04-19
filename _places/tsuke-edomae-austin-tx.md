@@ -5,6 +5,11 @@ permalink: /texas/austin/tsuke-edomae.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "Tsuke Edomae"
+  type: Restaurant
+  links: http://www.tsukeedo.com/
+description: "Looking for sushi in Austin, Texas? Check out Tsuke Edomae for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJp30jG-S1RIYRmjvTat08Eno
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 118
 website: http://www.tsukeedo.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

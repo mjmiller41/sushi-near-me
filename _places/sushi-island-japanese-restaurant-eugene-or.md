@@ -5,6 +5,11 @@ permalink: /oregon/eugene/sushi-island-japanese-restaurant.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
+seo:
+  name: "Sushi Island Japanese Restaurant"
+  type: Restaurant
+  links: https://pos.chowbus.com/online-ordering/store/15424
+description: "Looking for sushi in Eugene, Oregon? Check out Sushi Island Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJu-KaFz8ewVQRWj4obSC55oA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 1102
 website: https://pos.chowbus.com/online-ordering/store/15424
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /virginia/virginia-beach/zushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Virginia Beach
+seo:
+  name: "Zushi"
+  type: Restaurant
+  links: http://www.zushibistro.com/
+description: "Chill Japanese eatery & sushi bar featuring eclectic rolls & drinks in lounge-like surrounds. Looking for sushi in Virginia Beach, Virginia? Check out Zushi ..."
 place_id: ChIJrVD46p-VuokR-tbg2aGaV2I
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 708
 website: http://www.zushibistro.com/
-description: >-
-  Chill Japanese eatery & sushi bar featuring eclectic rolls & drinks in
-  lounge-like surrounds.
 reviews:
   - name: >-
       places/ChIJrVD46p-VuokR-tbg2aGaV2I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRNU5EckhREAE
@@ -350,5 +352,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Chill Japanese eatery & sushi bar featuring eclectic rolls & drinks in
+  lounge-like surrounds.
 
 ---

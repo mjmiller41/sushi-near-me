@@ -5,6 +5,11 @@ permalink: /massachusetts/medford/nijiya-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Medford
+seo:
+  name: "Nijiya Sushi"
+  type: Restaurant
+  links: http://www.nijiyasushi.net/
+description: "Laid-back locale offering all-you-can-eat sushi & other Japanese dishes, plus sake & lunch specials. Looking for sushi in Medford, Massachusetts? Check out N..."
 place_id: ChIJO9QXBrh244kRA0kF9QiZqXQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 1291
 website: http://www.nijiyasushi.net/
-description: >-
-  Laid-back locale offering all-you-can-eat sushi & other Japanese dishes, plus
-  sake & lunch specials.
 reviews:
   - name: >-
       places/ChIJO9QXBrh244kRA0kF9QiZqXQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURncWNPUmZnEAE
@@ -453,5 +455,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Laid-back locale offering all-you-can-eat sushi & other Japanese dishes, plus
+  sake & lunch specials.
 
 ---

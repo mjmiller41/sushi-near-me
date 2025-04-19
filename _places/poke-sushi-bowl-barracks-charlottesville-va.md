@@ -5,6 +5,11 @@ permalink: /virginia/charlottesville/poke-sushi-bowl-barracks.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
+seo:
+  name: "Poke Sushi Bowl Barracks"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Charlottesville, Virginia? Check out Poke Sushi Bowl Barracks for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJo9UgmraHs4kRsOJsPigjLho
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

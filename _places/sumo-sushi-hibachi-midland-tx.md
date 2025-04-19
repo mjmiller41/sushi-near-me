@@ -5,6 +5,11 @@ permalink: /texas/midland/sumo-sushi-hibachi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Midland
+seo:
+  name: "Sumo Sushi & Hibachi"
+  type: Restaurant
+  links: http://www.sumomidland.com/
+description: "Looking for sushi in Midland, Texas? Check out Sumo Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJW7alNi7Z-4YRQqheJ1I2Yls
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 548
 website: http://www.sumomidland.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

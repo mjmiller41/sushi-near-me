@@ -5,6 +5,11 @@ permalink: /texas/league-city/kabuki-sushi-hibachi.html
 stateAbbr: TX
 stateName: Texas
 cityName: League City
+seo:
+  name: "Kabuki Sushi & Hibachi"
+  type: Restaurant
+  links: https://www.kabukilc.com/
+description: "Looking for sushi in League City, Texas? Check out Kabuki Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJQ-0tfHeDQIYR6d58HSd3HWM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1192
 website: https://www.kabukilc.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/yohei-sushi-restaurant.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Yohei Sushi Restaurant"
+  type: Restaurant
+  links: http://www.yoheisushi.com/
+description: "Looking for sushi in Honolulu, Hawaii? Check out Yohei Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJt1HpumVuAHwRj79yRZ3-OPo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 329
 website: http://www.yoheisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/astoria/bai-sushi-japanese-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Astoria
+seo:
+  name: "Bai Sushi Japanese Restaurant"
+  type: Restaurant
+  links: https://baisushitogo.com/
+description: "Compact sushi joint serving traditional Japanese plates, plus a selection of unique rolls. Looking for sushi in Astoria, New York? Check out Bai Sushi Japane..."
 place_id: ChIJjdCEuDtfwokRlrAKrJvk8Yk
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 329
 website: https://baisushitogo.com/
-description: >-
-  Compact sushi joint serving traditional Japanese plates, plus a selection of
-  unique rolls.
 reviews:
   - name: >-
       places/ChIJjdCEuDtfwokRlrAKrJvk8Yk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOFpDNWtnRRAB
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Compact sushi joint serving traditional Japanese plates, plus a selection of
+  unique rolls.
 
 ---

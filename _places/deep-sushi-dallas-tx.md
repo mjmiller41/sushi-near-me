@@ -5,6 +5,11 @@ permalink: /texas/dallas/deep-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
+seo:
+  name: "Deep Sushi"
+  type: Restaurant
+  links: https://deepsushi.site/
+description: "Veteran Japanese eatery with specialty rolls,  happy hour & lunch deals in modern digs with a patio. Looking for sushi in Dallas, Texas? Check out Deep Sushi..."
 place_id: ChIJ44ttwN2YToYRb0eFQ3ykLVk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1433
 website: https://deepsushi.site/
-description: >-
-  Veteran Japanese eatery with specialty rolls,  happy hour & lunch deals in
-  modern digs with a patio.
 reviews:
   - name: >-
       places/ChIJ44ttwN2YToYRb0eFQ3ykLVk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6enFMS2ZnEAE
@@ -381,5 +383,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Veteran Japanese eatery with specialty rolls,  happy hour & lunch deals in
+  modern digs with a patio.
 
 ---

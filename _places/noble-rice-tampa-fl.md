@@ -5,6 +5,11 @@ permalink: /florida/tampa/noble-rice.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
+seo:
+  name: "Noble Rice"
+  type: Restaurant
+  links: http://www.noblericeco.com/
+description: "Looking for sushi in Tampa, Florida? Check out Noble Rice for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJu6oEyYTEwogRAE4Dg9Q-AH4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 584
 website: http://www.noblericeco.com/
-description: null
 reviews:
   - name: >-
       places/ChIJu6oEyYTEwogRAE4Dg9Q-AH4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNnJ1QTh3RRAB
@@ -436,5 +440,6 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: false
+summary: null
 
 ---

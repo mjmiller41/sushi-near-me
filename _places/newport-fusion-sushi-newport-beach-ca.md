@@ -5,6 +5,11 @@ permalink: /california/newport-beach/newport-fusion-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Newport Beach
+seo:
+  name: "Newport Fusion Sushi"
+  type: Restaurant
+  links: https://newportfusionsushi.com/
+description: "Unique sushi preparations & Japanese entrees served in an intimate space with contemporary decor. Looking for sushi in Newport Beach, California? Check out N..."
 place_id: ChIJb7SktzPn3IAReDAzqjXkh6M
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 105
 website: https://newportfusionsushi.com/
-description: >-
-  Unique sushi preparations & Japanese entrees served in an intimate space with
-  contemporary decor.
 reviews:
   - name: >-
       places/ChIJb7SktzPn3IAReDAzqjXkh6M/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzanI2SGdnRRAB
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Unique sushi preparations & Japanese entrees served in an intimate space with
+  contemporary decor.
 
 ---

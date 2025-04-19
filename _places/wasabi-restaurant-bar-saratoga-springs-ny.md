@@ -5,6 +5,11 @@ permalink: /new-york/saratoga-springs/wasabi-restaurant-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Saratoga Springs
+seo:
+  name: "Wasabi Restaurant & Bar"
+  type: Restaurant
+  links: https://www.wasabisaratogany.com/
+description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Looking for sushi in Saratoga Springs, New York? Check out Wasabi Re..."
 place_id: ChIJvSBPCvo53okREIzRwDWS8ok
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 931
 website: https://www.wasabisaratogany.com/
-description: >-
-  Light-filled, modern chain branch serving up bento boxes, sushi and hot
-  Japanese dishes.
 reviews:
   - name: >-
       places/ChIJvSBPCvo53okREIzRwDWS8ok/reviews/ChdDSUhNMG9nS0VJQ0FnTURnOHF1NDlnRRAB
@@ -412,5 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Light-filled, modern chain branch serving up bento boxes, sushi and hot
+  Japanese dishes.
 
 ---

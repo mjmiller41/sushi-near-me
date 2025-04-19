@@ -5,6 +5,11 @@ permalink: /ohio/bowling-green/ninja-hibachi-sushi-steak-house.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Bowling Green
+seo:
+  name: "Ninja hibachi sushi steak house"
+  type: Restaurant
+  links: http://www.ninjahibachibowlinggreen.com/
+description: "Looking for sushi in Bowling Green, Ohio? Check out Ninja hibachi sushi steak house for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJq9OitdELPIgRSJ7ZYcRsQrU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 412
 website: http://www.ninjahibachibowlinggreen.com/
-description: null
 reviews:
   - name: >-
       places/ChIJq9OitdELPIgRSJ7ZYcRsQrU/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2N2N2X193RRAB
@@ -360,5 +364,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

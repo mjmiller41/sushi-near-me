@@ -5,6 +5,11 @@ permalink: /south-carolina/greenville/takosushi-verdae.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Greenville
+seo:
+  name: "TakoSushi Verdae"
+  type: Restaurant
+  links: https://tako-sushi.com/
+description: "Looking for sushi in Greenville, South Carolina? Check out TakoSushi Verdae for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJOUljPAAvWIgRJhjAVuOB7bs
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 68
 website: https://tako-sushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

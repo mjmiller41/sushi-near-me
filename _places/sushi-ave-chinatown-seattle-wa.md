@@ -5,6 +5,11 @@ permalink: /washington/seattle/sushi-ave-chinatown.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "SUSHI AVE (Chinatown)"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Seattle, Washington? Check out SUSHI AVE (Chinatown) for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJHXjA8k9rkFQRESvtoheRZUw
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

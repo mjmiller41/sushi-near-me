@@ -5,6 +5,11 @@ permalink: /alaska/anchorage/miso-japanese-sushi-bar.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Anchorage
+seo:
+  name: "MISO Japanese sushi & bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Anchorage, Alaska? Check out MISO Japanese sushi & bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJzTQNrw6ZyFYR7Cybbn8QQGk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 461
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

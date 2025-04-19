@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/zukku-sushi-clt.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "Zukku Sushi CLT"
+  type: Restaurant
+  links: https://www.zukkusushi.com/
+description: "Looking for sushi in Charlotte, North Carolina? Check out Zukku Sushi CLT for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJ9_88FzihVogR3HsqRuKeBjY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 155
 website: https://www.zukkusushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ9_88FzihVogR3HsqRuKeBjY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmcm9xa3BnRRAB
@@ -419,5 +423,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

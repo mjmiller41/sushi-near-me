@@ -5,6 +5,11 @@ permalink: /new-york/new-york/hatsuhana.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Hatsuhana"
+  type: Restaurant
+  links: http://www.hatsuhana.com/
+description: "Japanese mainstay turning out fresh sushi & other basic fare in a simple setting. Looking for sushi in New York, New York? Check out Hatsuhana for a delightf..."
 place_id: ChIJw47zKvxYwokRgD1Zt5Licyo
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 1327
 website: http://www.hatsuhana.com/
-description: >-
-  Japanese mainstay turning out fresh sushi & other basic fare in a simple
-  setting.
 reviews:
   - name: >-
       places/ChIJw47zKvxYwokRgD1Zt5Licyo/reviews/ChZDSUhNMG9nS0VJQ0FnSURPeHY3QkVBEAE
@@ -411,5 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese mainstay turning out fresh sushi & other basic fare in a simple
+  setting.
 
 ---

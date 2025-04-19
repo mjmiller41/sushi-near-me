@@ -5,6 +5,11 @@ permalink: /massachusetts/reading/avana-sushi-3-seafood-restaurant.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Reading
+seo:
+  name: "Avana sushi 3 & seafood restaurant"
+  type: Restaurant
+  links: https://www.avanasushi3reading.com/
+description: "Looking for sushi in Reading, Massachusetts? Check out Avana sushi 3 & seafood restaurant for a delightful Japanese dining experience. Enjoy a variety of sus..."
 place_id: ChIJBXpbjOcL44kRSET9D7fe_m0
 photos:
   - name: >-
@@ -76,7 +81,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 57
 website: https://www.avanasushi3reading.com/
-description: null
 reviews:
   - name: >-
       places/ChIJBXpbjOcL44kRSET9D7fe_m0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwa083cGlRRRAB
@@ -277,5 +281,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/idashi-omakase.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "idashi Omakase"
+  type: Restaurant
+  links: https://www.idashiomakase.com/
+description: "Looking for sushi in Brooklyn, New York? Check out idashi Omakase for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJca2ebQBbwokRTjTkh72DWPE
 photos:
   - name: >-
@@ -184,7 +189,6 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 163
 website: https://www.idashiomakase.com/
-description: null
 reviews:
   - name: >-
       places/ChIJca2ebQBbwokRTjTkh72DWPE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfd19iUG1BRRAB
@@ -382,5 +386,6 @@ serves_lunch: false
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: null
 
 ---

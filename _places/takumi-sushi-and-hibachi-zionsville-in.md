@@ -5,6 +5,11 @@ permalink: /indiana/zionsville/takumi-sushi-and-hibachi.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Zionsville
+seo:
+  name: "Takumi Sushi and Hibachi"
+  type: Restaurant
+  links: http://takumisushihibachi.com/
+description: "Looking for sushi in Zionsville, Indiana? Check out Takumi Sushi and Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJM1C44iNTE4gRHZDKwKQAiQE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 314
 website: http://takumisushihibachi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJM1C44iNTE4gRHZDKwKQAiQE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfMWVuQS13RRAB
@@ -364,5 +368,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

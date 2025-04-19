@@ -5,6 +5,11 @@ permalink: /oregon/portland/rollin-fresh-pioneer-square.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
+seo:
+  name: "Rollin' Fresh- Pioneer Square"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Portland, Oregon? Check out Rollin' Fresh- Pioneer Square for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJKzyOcP4LlVQRY2fnlLw-SKk
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

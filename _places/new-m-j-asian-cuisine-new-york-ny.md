@@ -5,6 +5,11 @@ permalink: /new-york/new-york/new-m-j-asian-cuisine.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "New M & J Asian Cuisine"
+  type: Restaurant
+  links: http://www.mjasiancuisinenyc.com/?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in New York, New York? Check out New M & J Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJOUilh8xZwokRxw3WBcGT0pk
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 73
 website: http://www.mjasiancuisinenyc.com/?utm_source=gmb&utm_medium=website
-description: null
 reviews:
   - name: >-
       places/ChIJOUilh8xZwokRxw3WBcGT0pk/reviews/ChZDSUhNMG9nS0VJQ0FnSURfZ2NQV01BEAE
@@ -369,5 +373,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

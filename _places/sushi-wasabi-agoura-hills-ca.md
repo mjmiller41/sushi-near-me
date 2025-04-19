@@ -5,6 +5,11 @@ permalink: /california/agoura-hills/sushi-wasabi.html
 stateAbbr: CA
 stateName: California
 cityName: Agoura Hills
+seo:
+  name: "Sushi & Wasabi"
+  type: Restaurant
+  links: http://www.sushi-wasabi.com/
+description: "Looking for sushi in Agoura Hills, California? Check out Sushi & Wasabi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ5WcmwKQm6IARKMnjHihlGFk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: '4.6'
 rating_count: 233
 website: http://www.sushi-wasabi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/chicago/agami.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Agami"
+  type: Restaurant
+  links: http://www.agamisushi.com/
+description: "Chic sushi restaurant dishing creative rolls with a large bar pouring cocktails & Japanese beers. Looking for sushi in Chicago, Illinois? Check out Agami for..."
 place_id: ChIJQZNALy3SD4gR0W9TjFPledA
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 448
 website: http://www.agamisushi.com/
-description: >-
-  Chic sushi restaurant dishing creative rolls with a large bar pouring
-  cocktails & Japanese beers.
 reviews:
   - name: >-
       places/ChIJQZNALy3SD4gR0W9TjFPledA/reviews/ChdDSUhNMG9nS0VJQ0FnTURReWItN3h3RRAB
@@ -387,5 +389,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Chic sushi restaurant dishing creative rolls with a large bar pouring
+  cocktails & Japanese beers.
 
 ---

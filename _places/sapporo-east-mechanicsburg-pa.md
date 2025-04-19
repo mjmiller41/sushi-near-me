@@ -5,6 +5,11 @@ permalink: /pennsylvania/mechanicsburg/sapporo-east.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Mechanicsburg
+seo:
+  name: "Sapporo East"
+  type: Restaurant
+  links: http://www.sapporoeastsushi.com/
+description: "Outpost of a small Japanese-food chain offering sushi, hibachi dishes, teriyaki & tempura. Looking for sushi in Mechanicsburg, Pennsylvania? Check out Sappor..."
 place_id: ChIJt5YAUGDCyIkRnIZE8ymIXpI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 706
 website: http://www.sapporoeastsushi.com/
-description: >-
-  Outpost of a small Japanese-food chain offering sushi, hibachi dishes,
-  teriyaki & tempura.
 reviews:
   - name: >-
       places/ChIJt5YAUGDCyIkRnIZE8ymIXpI/reviews/ChdDSUhNMG9nS0VJQ0FnSURYOTlLb3lBRRAB
@@ -411,5 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Outpost of a small Japanese-food chain offering sushi, hibachi dishes,
+  teriyaki & tempura.
 
 ---

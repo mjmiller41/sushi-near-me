@@ -5,6 +5,11 @@ permalink: /idaho/eagle/sakura-sushi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Eagle
+seo:
+  name: "Sakura Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Eagle, Idaho? Check out Sakura Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJ9SAwKgBVrlQRWMsz47jbH8c
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

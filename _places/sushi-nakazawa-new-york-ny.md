@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-nakazawa.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi Nakazawa"
+  type: Restaurant
+  links: http://sushinakazawa.com/
+description: "Destination sushi spot for high-end omakase (multicourse, chef's choice meals) in spare digs. Looking for sushi in New York, New York? Check out Sushi Nakaza..."
 place_id: ChIJsw80F5NZwokRcDtxajLLOeA
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 1790
 website: http://sushinakazawa.com/
-description: >-
-  Destination sushi spot for high-end omakase (multicourse, chef's choice meals)
-  in spare digs.
 reviews:
   - name: >-
       places/ChIJsw80F5NZwokRcDtxajLLOeA/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3cGZPSHRBRRAB
@@ -386,5 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: false
+summary: >-
+  Destination sushi spot for high-end omakase (multicourse, chef's choice meals)
+  in spare digs.
 
 ---

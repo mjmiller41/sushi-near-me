@@ -5,6 +5,11 @@ permalink: /texas/el-paso/kona-grill-el-paso.html
 stateAbbr: TX
 stateName: Texas
 cityName: El Paso
+seo:
+  name: "Kona Grill - El Paso"
+  type: Restaurant
+  links: https://konagrill.com/locations?locations=El-Paso
+description: "Looking for sushi in El Paso, Texas? Check out Kona Grill - El Paso for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJke4HnBdb54YRoRHrDyhElcU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 3913
 website: https://konagrill.com/locations?locations=El-Paso
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

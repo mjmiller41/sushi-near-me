@@ -5,6 +5,11 @@ permalink: /iowa/cedar-rapids/izumi-sushi-hibachi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Cedar Rapids
+seo:
+  name: "Izumi Sushi & Hibachi"
+  type: Restaurant
+  links: http://www.izumirestaurant.com/
+description: "Looking for sushi in Cedar Rapids, Iowa? Check out Izumi Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJefm07iP35IcRd5nIW8driN8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 506
 website: http://www.izumirestaurant.com/
-description: null
 reviews:
   - name: >-
       places/ChIJefm07iP35IcRd5nIW8driN8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNncHVlM3N3RRAB
@@ -378,5 +382,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

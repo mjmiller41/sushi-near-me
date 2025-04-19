@@ -5,6 +5,11 @@ permalink: /georgia/athens/tiger-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Athens
+seo:
+  name: "Tiger Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Athens, Georgia? Check out Tiger Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJUatpTc1t9ogRuhoFcMx6Uvs
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

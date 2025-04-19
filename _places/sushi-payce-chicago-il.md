@@ -5,6 +5,11 @@ permalink: /illinois/chicago/sushi-payce.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Sushi Payce"
+  type: Restaurant
+  links: https://www.sushipayce.com/p-ayce-menu
+description: "Looking for sushi in Chicago, Illinois? Check out Sushi Payce for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJxRcajNvTD4gRMfjbutc4WDo
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.0'
 rating_count: 594
 website: https://www.sushipayce.com/p-ayce-menu
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

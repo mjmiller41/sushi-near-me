@@ -5,6 +5,11 @@ permalink: /california/carlsbad/tomoyama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Carlsbad
+seo:
+  name: "Tomoyama sushi"
+  type: Restaurant
+  links: http://www.tomoyamasushi.com/
+description: "Offering specials at lunch, this outfit with a full bar serves sushi & classic Japanese fare. Looking for sushi in Carlsbad, California? Check out Tomoyama s..."
 place_id: ChIJUe4hkFUL3IARfby9S6jKyjQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 749
 website: http://www.tomoyamasushi.com/
-description: >-
-  Offering specials at lunch, this outfit with a full bar serves sushi & classic
-  Japanese fare.
 reviews:
   - name: >-
       places/ChIJUe4hkFUL3IARfby9S6jKyjQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURQbU1yNE93EAE
@@ -362,5 +364,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Offering specials at lunch, this outfit with a full bar serves sushi & classic
+  Japanese fare.
 
 ---

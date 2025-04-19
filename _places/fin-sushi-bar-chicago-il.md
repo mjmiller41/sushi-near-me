@@ -5,6 +5,11 @@ permalink: /illinois/chicago/fin-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Fin Sushi Bar"
+  type: Restaurant
+  links: http://www.finsushibar.com/
+description: "Pan-Asian BYOB spot serving Thai food & sushi in a contemporary space with outdoor seating. Looking for sushi in Chicago, Illinois? Check out Fin Sushi Bar f..."
 place_id: ChIJ79sBVDvSD4gR7Gqkd4aoa64
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 501
 website: http://www.finsushibar.com/
-description: >-
-  Pan-Asian BYOB spot serving Thai food & sushi in a contemporary space with
-  outdoor seating.
 reviews:
   - name: >-
       places/ChIJ79sBVDvSD4gR7Gqkd4aoa64/reviews/ChZDSUhNMG9nS0VJQ0FnSURmOVp5dUZREAE
@@ -398,5 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Pan-Asian BYOB spot serving Thai food & sushi in a contemporary space with
+  outdoor seating.
 
 ---

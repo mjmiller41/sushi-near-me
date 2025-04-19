@@ -5,6 +5,11 @@ permalink: /maryland/rockville/sushi-oishii.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
+seo:
+  name: "Sushi Oishii"
+  type: Restaurant
+  links: https://www.sushioishii.online/order?utm_source=googlemap&utm_medium=click&utm_campaign=orderrefer&sid=752176627143851520
+description: "Mainstay with traditional, minimalist decor known for inventive sushi & Japanese fare with a twist. Looking for sushi in Rockville, Maryland? Check out Sushi..."
 place_id: ChIJ9ytUobcytokRqm_02RzPgNM
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.3'
 rating_count: 346
 website: >-
   https://www.sushioishii.online/order?utm_source=googlemap&utm_medium=click&utm_campaign=orderrefer&sid=752176627143851520
-description: >-
-  Mainstay with traditional, minimalist decor known for inventive sushi &
-  Japanese fare with a twist.
 reviews:
   - name: >-
       places/ChIJ9ytUobcytokRqm_02RzPgNM/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3eXVPdTlBRRAB
@@ -431,5 +433,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Mainstay with traditional, minimalist decor known for inventive sushi &
+  Japanese fare with a twist.
 
 ---

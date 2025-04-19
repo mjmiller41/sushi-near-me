@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/poke-poku-hawaiian-poke-bar.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "Poke Poku - Hawaiian Poke Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Las Vegas, Nevada? Check out Poke Poku - Hawaiian Poke Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJw3CHojjOyIARdpOD_oaZmCg
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

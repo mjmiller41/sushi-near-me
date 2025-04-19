@@ -5,6 +5,11 @@ permalink: /minnesota/st-louis-park/raku-sushi-lounge.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: St Louis Park
+seo:
+  name: "Raku Sushi & Lounge"
+  type: Restaurant
+  links: https://www.rakumn.com/
+description: "Stylish choice for sushi & Japanese small plates plus a broad sake selection in sleek, vibrant digs. Looking for sushi in St Louis Park, Minnesota? Check out..."
 place_id: ChIJlW79SKI0s1IR4uF4AgC5FOc
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 608
 website: https://www.rakumn.com/
-description: >-
-  Stylish choice for sushi & Japanese small plates plus a broad sake selection
-  in sleek, vibrant digs.
 reviews:
   - name: >-
       places/ChIJlW79SKI0s1IR4uF4AgC5FOc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUdTZLblhnEAE
@@ -404,5 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Stylish choice for sushi & Japanese small plates plus a broad sake selection
+  in sleek, vibrant digs.
 
 ---

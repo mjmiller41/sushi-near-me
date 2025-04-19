@@ -5,6 +5,11 @@ permalink: /california/san-jose/yuri-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Yuri Japanese Restaurant"
+  type: Restaurant
+  links: http://www.yurirestaurant.com/
+description: "Looking for sushi in San Jose, California? Check out Yuri Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJtUD0aXQtjoARtjeY5EX2l0Y
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 221
 website: http://www.yurirestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

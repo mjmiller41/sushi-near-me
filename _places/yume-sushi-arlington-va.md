@@ -5,6 +5,11 @@ permalink: /virginia/arlington/yume-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+seo:
+  name: "Yume Sushi"
+  type: Restaurant
+  links: http://www.yumesushiva.com/
+description: "Stylish, understated restaurant for sushi & sashimi featuring bold wall murals & an open kitchen. Looking for sushi in Arlington, Virginia? Check out Yume Su..."
 place_id: ChIJq6pqNO60t4kRfNZpCUNWjRs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.8'
 rating_count: 2154
 website: http://www.yumesushiva.com/
-description: >-
-  Stylish, understated restaurant for sushi & sashimi featuring bold wall murals
-  & an open kitchen.
 reviews:
   - name: >-
       places/ChIJq6pqNO60t4kRfNZpCUNWjRs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRMF9YTUJBEAE
@@ -455,5 +457,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Stylish, understated restaurant for sushi & sashimi featuring bold wall murals
+  & an open kitchen.
 
 ---

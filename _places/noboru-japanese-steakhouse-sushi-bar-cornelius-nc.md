@@ -5,6 +5,11 @@ permalink: /north-carolina/cornelius/noboru-japanese-steakhouse-sushi-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Cornelius
+seo:
+  name: "Noboru Japanese Steakhouse & Sushi Bar"
+  type: Restaurant
+  links: http://noborusteakhouse.com/
+description: "Looking for sushi in Cornelius, North Carolina? Check out Noboru Japanese Steakhouse & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety..."
 place_id: ChIJvagaupSpVogRy_Cy9jUh-A0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 242
 website: http://noborusteakhouse.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

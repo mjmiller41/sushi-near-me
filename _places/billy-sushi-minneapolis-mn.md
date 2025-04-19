@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/billy-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "Billy Sushi ビリー寿司"
+  type: Restaurant
+  links: http://www.billysushi.net/
+description: "Stylish, contemporary restaurant serving sushi specialties, plus sake & cocktails. Looking for sushi in Minneapolis, Minnesota? Check out Billy Sushi ビリー寿司 f..."
 place_id: ChIJnY_UZi8zs1IR_3B_nM1zE04
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 1168
 website: http://www.billysushi.net/
-description: >-
-  Stylish, contemporary restaurant serving sushi specialties, plus sake &
-  cocktails.
 reviews:
   - name: >-
       places/ChIJnY_UZi8zs1IR_3B_nM1zE04/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3b3NuZWNBEAE
@@ -433,5 +435,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Stylish, contemporary restaurant serving sushi specialties, plus sake &
+  cocktails.
 
 ---

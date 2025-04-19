@@ -5,6 +5,11 @@ permalink: /california/san-diego/jj-sushi-pho.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "JJ Sushi & Pho"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Diego, California? Check out JJ Sushi & Pho for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJ48MwFxhJ2YARm2CVFiQJ0PQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 284
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

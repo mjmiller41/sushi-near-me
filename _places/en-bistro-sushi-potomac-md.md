@@ -5,6 +5,11 @@ permalink: /maryland/potomac/en-bistro-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Potomac
+seo:
+  name: "En Bistro & Sushi"
+  type: Restaurant
+  links: http://www.enbistro.com/
+description: "Looking for sushi in Potomac, Maryland? Check out En Bistro & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJoWGLOqU0tokRoHQiECMaqWc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 142
 website: http://www.enbistro.com/
-description: null
 reviews:
   - name: >-
       places/ChIJoWGLOqU0tokRoHQiECMaqWc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMMXQ3SmJnEAE
@@ -369,5 +373,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /florida/jacksonville/sushi-bear-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
+seo:
+  name: "Sushi Bear Sushi & Grill"
+  type: Restaurant
+  links: http://sushibearjax.com/
+description: "Grilled Japanese specialties & sushi are served in this lively, colorful family restaurant. Looking for sushi in Jacksonville, Florida? Check out Sushi Bear ..."
 place_id: ChIJO_KdM2i45YgRapsDIeWzMM8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 2128
 website: http://sushibearjax.com/
-description: >-
-  Grilled Japanese specialties & sushi are served in this lively, colorful
-  family restaurant.
 reviews:
   - name: >-
       places/ChIJO_KdM2i45YgRapsDIeWzMM8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2dUxEWTlBRRAB
@@ -397,5 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Grilled Japanese specialties & sushi are served in this lively, colorful
+  family restaurant.
 
 ---

@@ -5,6 +5,11 @@ permalink: /maryland/salisbury/sushi-de-kanpai.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Salisbury
+seo:
+  name: "Sushi De Kanpai"
+  type: Restaurant
+  links: https://m.facebook.com/SushiDeKanpai/
+description: "Innovative sushi & Japanese entrees served with sake & cocktails in a simply appointed space. Looking for sushi in Salisbury, Maryland? Check out Sushi De Ka..."
 place_id: ChIJH0vg28EDuYkRdtGuJBWICCQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 264
 website: https://m.facebook.com/SushiDeKanpai/
-description: >-
-  Innovative sushi & Japanese entrees served with sake & cocktails in a simply
-  appointed space.
 reviews:
   - name: >-
       places/ChIJH0vg28EDuYkRdtGuJBWICCQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1b3JfMzJRRRAB
@@ -466,5 +468,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Innovative sushi & Japanese entrees served with sake & cocktails in a simply
+  appointed space.
 
 ---

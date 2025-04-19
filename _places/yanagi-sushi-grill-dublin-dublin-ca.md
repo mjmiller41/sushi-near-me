@@ -5,6 +5,11 @@ permalink: /california/dublin/yanagi-sushi-grill-dublin.html
 stateAbbr: CA
 stateName: California
 cityName: Dublin
+seo:
+  name: "Yanagi Sushi & Grill Dublin"
+  type: Restaurant
+  links: https://yanagisushitogo.com/
+description: "Looking for sushi in Dublin, California? Check out Yanagi Sushi & Grill Dublin for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJF6xtaejtj4AROlWWiOVqwAA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 138
 website: https://yanagisushitogo.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

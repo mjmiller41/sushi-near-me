@@ -5,6 +5,11 @@ permalink: /california/alamo/ha-la-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Alamo
+seo:
+  name: "Ha-La Sushi"
+  type: Restaurant
+  links: http://www.halasushi.com/
+description: "Looking for sushi in Alamo, California? Check out Ha-La Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJc4I6O_6Kj4ARYd9LztY2Gxw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 62
 website: http://www.halasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

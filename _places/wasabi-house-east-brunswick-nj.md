@@ -5,6 +5,11 @@ permalink: /new-jersey/east-brunswick/wasabi-house.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: East Brunswick
+seo:
+  name: "Wasabi House"
+  type: Restaurant
+  links: http://wasabihouse9988.com/
+description: "Looking for sushi in East Brunswick, New Jersey? Check out Wasabi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ2-58b2vPw4kRvJ8qsEupUmw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 114
 website: http://wasabihouse9988.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

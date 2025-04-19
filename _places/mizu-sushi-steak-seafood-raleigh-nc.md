@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/mizu-sushi-steak-seafood.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Mizu Sushi Steak Seafood"
+  type: Restaurant
+  links: https://mizuhouse.com/
+description: "Japanese classics, including hibachi fare & a sushi train, in casual, unpretentious digs. Looking for sushi in Raleigh, North Carolina? Check out Mizu Sushi ..."
 place_id: ChIJNRsdmBdRrIkRfakpBnyT54w
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 514
 website: https://mizuhouse.com/
-description: >-
-  Japanese classics, including hibachi fare & a sushi train, in casual,
-  unpretentious digs.
 reviews:
   - name: >-
       places/ChIJNRsdmBdRrIkRfakpBnyT54w/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcThXLUtBEAE
@@ -372,5 +374,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese classics, including hibachi fare & a sushi train, in casual,
+  unpretentious digs.
 
 ---

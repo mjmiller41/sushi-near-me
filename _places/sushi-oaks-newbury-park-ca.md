@@ -5,6 +5,11 @@ permalink: /california/newbury-park/sushi-oaks.html
 stateAbbr: CA
 stateName: California
 cityName: Newbury Park
+seo:
+  name: "Sushi Oaks"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Newbury Park, California? Check out Sushi Oaks for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJr9JmIJ4w6IARXDoXvAwewrg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

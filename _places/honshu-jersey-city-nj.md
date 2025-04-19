@@ -5,6 +5,11 @@ permalink: /new-jersey/jersey-city/honshu.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Jersey City
+seo:
+  name: "Honshu"
+  type: Restaurant
+  links: http://www.honshulounge.com/
+description: "Modern Japanese eatery specializing in sushi & noodles served in a second-story space. Looking for sushi in Jersey City, New Jersey? Check out Honshu for a d..."
 place_id: ChIJgXR_NKlQwokR9uRHA0vNKDs
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 1033
 website: http://www.honshulounge.com/
-description: >-
-  Modern Japanese eatery specializing in sushi & noodles served in a
-  second-story space.
 reviews:
   - name: >-
       places/ChIJgXR_NKlQwokR9uRHA0vNKDs/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bmZlUlRREAE
@@ -383,5 +385,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern Japanese eatery specializing in sushi & noodles served in a
+  second-story space.
 
 ---

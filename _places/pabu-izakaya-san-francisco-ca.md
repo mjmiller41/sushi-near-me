@@ -5,6 +5,11 @@ permalink: /california/san-francisco/pabu-izakaya.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "PABU Izakaya"
+  type: Restaurant
+  links: https://theminagroup.com/restaurants/pabu-izakaya/
+description: "A sleek space with a buzzy ambiance, this high-end spot offers classic Japanese cuisine in style. Looking for sushi in San Francisco, California? Check out P..."
 place_id: ChIJ44TmfmGAhYARtt8NOeJ9kLo
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.3'
 rating_count: 1206
 website: https://theminagroup.com/restaurants/pabu-izakaya/
-description: >-
-  A sleek space with a buzzy ambiance, this high-end spot offers classic
-  Japanese cuisine in style.
 reviews:
   - name: >-
       places/ChIJ44TmfmGAhYARtt8NOeJ9kLo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMkt6cmpRRRAB
@@ -427,5 +429,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A sleek space with a buzzy ambiance, this high-end spot offers classic
+  Japanese cuisine in style.
 
 ---

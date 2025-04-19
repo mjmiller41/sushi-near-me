@@ -5,6 +5,11 @@ permalink: /florida/naples/grand-buffet.html
 stateAbbr: FL
 stateName: Florida
 cityName: Naples
+seo:
+  name: "Grand Buffet"
+  type: Restaurant
+  links: null
+description: "Expansive buffet of all-you-can-eat sushi, seafood & Chinese/American favorites in a roomy space. Looking for sushi in Naples, Florida? Check out Grand Buffe..."
 place_id: ChIJ5w0dWdHj2ogRhUlY6DOASp8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.7'
 rating_count: 1926
 website: null
-description: >-
-  Expansive buffet of all-you-can-eat sushi, seafood & Chinese/American
-  favorites in a roomy space.
 reviews:
   - name: >-
       places/ChIJ5w0dWdHj2ogRhUlY6DOASp8/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3aktXWlVBEAE
@@ -454,5 +456,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Expansive buffet of all-you-can-eat sushi, seafood & Chinese/American
+  favorites in a roomy space.
 
 ---

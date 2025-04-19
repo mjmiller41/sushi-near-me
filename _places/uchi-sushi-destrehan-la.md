@@ -5,6 +5,11 @@ permalink: /louisiana/destrehan/uchi-sushi.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Destrehan
+seo:
+  name: "Uchi Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Destrehan, Louisiana? Check out Uchi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJ_4JNvLrIIIYRmUIVZ_HJdG8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

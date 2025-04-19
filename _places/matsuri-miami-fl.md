@@ -5,6 +5,11 @@ permalink: /florida/miami/matsuri.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
+seo:
+  name: "Matsuri"
+  type: Restaurant
+  links: http://www.matsurimiami.com/
+description: "Homey joint featuring inventive sushi, hot entrees & a Japanese menu with less-common dishes. Looking for sushi in Miami, Florida? Check out Matsuri for a de..."
 place_id: ChIJCw0-ABq42YgR9sXS9kgio5A
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 1131
 website: http://www.matsurimiami.com/
-description: >-
-  Homey joint featuring inventive sushi, hot entrees & a Japanese menu with
-  less-common dishes.
 reviews:
   - name: >-
       places/ChIJCw0-ABq42YgR9sXS9kgio5A/reviews/ChdDSUhNMG9nS0VJQ0FnSURIbGNTUmd3RRAB
@@ -433,5 +435,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Homey joint featuring inventive sushi, hot entrees & a Japanese menu with
+  less-common dishes.
 
 ---

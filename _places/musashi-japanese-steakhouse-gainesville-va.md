@@ -5,6 +5,11 @@ permalink: /virginia/gainesville/musashi-japanese-steakhouse.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Gainesville
+seo:
+  name: "Musashi Japanese Steakhouse"
+  type: Restaurant
+  links: http://musashijs.com/
+description: "Convivial stop for meat & seafood cooked on tableside hibachi grills, plus a sushi bar. Looking for sushi in Gainesville, Virginia? Check out Musashi Japanes..."
 place_id: ChIJT1VVVUVmtokRpotXPBtQY6o
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 452
 website: http://musashijs.com/
-description: >-
-  Convivial stop for meat & seafood cooked on tableside hibachi grills, plus a
-  sushi bar.
 reviews:
   - name: >-
       places/ChIJT1VVVUVmtokRpotXPBtQY6o/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3NlpyMkRREAE
@@ -453,5 +455,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Convivial stop for meat & seafood cooked on tableside hibachi grills, plus a
+  sushi bar.
 
 ---

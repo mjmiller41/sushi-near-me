@@ -5,6 +5,11 @@ permalink: /ohio/west-chester-township/thai-taste-of-west-chester.html
 stateAbbr: OH
 stateName: Ohio
 cityName: West Chester Township
+seo:
+  name: "Thai Taste of West Chester"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in West Chester Township, Ohio? Check out Thai Taste of West Chester for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJ10vI-n1aQIgRwD6XHolzgoI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

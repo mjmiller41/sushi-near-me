@@ -5,6 +5,11 @@ permalink: /virginia/vienna/sweet-ginger.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Vienna
+seo:
+  name: "Sweet Ginger"
+  type: Restaurant
+  links: http://www.sweetgingervienna.com/
+description: "Asian-fusion eatery offers sushi, Chinese, Malaysian & Thai dishes in a cozy spot in Danor Plaza. Looking for sushi in Vienna, Virginia? Check out Sweet Ging..."
 place_id: ChIJQ-YSDrRLtokR3wmPXybnwHQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 365
 website: http://www.sweetgingervienna.com/
-description: >-
-  Asian-fusion eatery offers sushi, Chinese, Malaysian & Thai dishes in a cozy
-  spot in Danor Plaza.
 reviews:
   - name: >-
       places/ChIJQ-YSDrRLtokR3wmPXybnwHQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzbWQ3NDdBRRAB
@@ -422,5 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Asian-fusion eatery offers sushi, Chinese, Malaysian & Thai dishes in a cozy
+  spot in Danor Plaza.
 
 ---

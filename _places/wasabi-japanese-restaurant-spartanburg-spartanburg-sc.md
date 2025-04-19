@@ -5,6 +5,11 @@ permalink: /south-carolina/spartanburg/wasabi-japanese-restaurant-spartanburg.ht
 stateAbbr: SC
 stateName: South Carolina
 cityName: Spartanburg
+seo:
+  name: "Wasabi Japanese Restaurant (Spartanburg)"
+  type: Restaurant
+  links: https://wasabispartanburg.wixsite.com/menu
+description: "Looking for sushi in Spartanburg, South Carolina? Check out Wasabi Japanese Restaurant (Spartanburg) for a delightful Japanese dining experience. Enjoy a var..."
 place_id: ChIJ3R-Ns8CdV4gRz59awV7YvSE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 429
 website: https://wasabispartanburg.wixsite.com/menu
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

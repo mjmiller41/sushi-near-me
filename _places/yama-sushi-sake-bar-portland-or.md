@@ -5,6 +5,11 @@ permalink: /oregon/portland/yama-sushi-sake-bar.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
+seo:
+  name: "Yama Sushi & Sake Bar"
+  type: Restaurant
+  links: http://yamasushisakebar.com/
+description: "Looking for sushi in Portland, Oregon? Check out Yama Sushi & Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJ6WQhRP4JlVQRstt_eSzefMM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1121
 website: http://yamasushisakebar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/los-angeles/oops-sushi-sake-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Oops! Sushi & Sake Bar"
+  type: Restaurant
+  links: http://oopssushi.com/
+description: "Looking for sushi in Los Angeles, California? Check out Oops! Sushi & Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJ2bg1jwi7woARDqDZbO7YxeM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 321
 website: http://oopssushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

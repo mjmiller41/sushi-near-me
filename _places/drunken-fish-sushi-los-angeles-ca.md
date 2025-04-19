@@ -5,6 +5,11 @@ permalink: /california/los-angeles/drunken-fish-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Drunken Fish sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Los Angeles, California? Check out Drunken Fish sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJObtZqly7woARY87mJEYfKR4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

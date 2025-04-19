@@ -5,6 +5,11 @@ permalink: /florida/jacksonville/sushiko-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
+seo:
+  name: "Sushiko Japanese Restaurant"
+  type: Restaurant
+  links: http://sushikojax.com/
+description: "Intimate sushi house featuring a variety of rolls, Japanese fare & hibachi meals in a relaxed venue. Looking for sushi in Jacksonville, Florida? Check out Su..."
 place_id: ChIJsxgfBDu45YgRR853miKhx0E
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 485
 website: http://sushikojax.com/
-description: >-
-  Intimate sushi house featuring a variety of rolls, Japanese fare & hibachi
-  meals in a relaxed venue.
 reviews:
   - name: >-
       places/ChIJsxgfBDu45YgRR853miKhx0E/reviews/ChdDSUhNMG9nS0VJQ0FnTUNROTkyR2lBRRAB
@@ -412,5 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Intimate sushi house featuring a variety of rolls, Japanese fare & hibachi
+  meals in a relaxed venue.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-francisco/yoji-sushi-house.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Yoji Sushi House"
+  type: Restaurant
+  links: https://www.yojisushi.com/
+description: "Narrow Japanese choice with contemporary decor presenting innovative sushi rolls & noodle soups. Looking for sushi in San Francisco, California? Check out Yo..."
 place_id: ChIJa_emcu99j4ARNnzogUmoUXQ
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 127
 website: https://www.yojisushi.com/
-description: >-
-  Narrow Japanese choice with contemporary decor presenting innovative sushi
-  rolls & noodle soups.
 reviews:
   - name: >-
       places/ChIJa_emcu99j4ARNnzogUmoUXQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cFlHVmlnRRAB
@@ -536,5 +538,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Narrow Japanese choice with contemporary decor presenting innovative sushi
+  rolls & noodle soups.
 
 ---

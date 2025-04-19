@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/bagu-sushi-thai.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "BaGu Sushi & Thai"
+  type: Restaurant
+  links: https://bagusushi.com/
+description: "Looking for sushi in Minneapolis, Minnesota? Check out BaGu Sushi & Thai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJlT0LsdQn9ocR4MpC0xFDdgE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 518
 website: https://bagusushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

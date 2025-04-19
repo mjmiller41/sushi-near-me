@@ -5,6 +5,11 @@ permalink: /illinois/aurora/bonchon-aurora-il.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Aurora
+seo:
+  name: "Bonchon Aurora, IL"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Aurora, Illinois? Check out Bonchon Aurora, IL for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJQ3tDlcv5DogR9LTXfj6hcsE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

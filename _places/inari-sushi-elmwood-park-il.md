@@ -5,6 +5,11 @@ permalink: /illinois/elmwood-park/inari-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Elmwood Park
+seo:
+  name: "Inari Sushi"
+  type: Restaurant
+  links: https://www.smorefood.com/order-online/inari-sushi-elmwood-park-60707-xsyepkq5?utm_source=gmb&utm_medium=website
+description: "Japanese restaurant & bar serving sushi & hot entrees in chic modern surroundings with a patio. Looking for sushi in Elmwood Park, Illinois? Check out Inari ..."
 place_id: ChIJG6nTICbLD4gRfZgs84Rez5o
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.5'
 rating_count: 356
 website: >-
   https://www.smorefood.com/order-online/inari-sushi-elmwood-park-60707-xsyepkq5?utm_source=gmb&utm_medium=website
-description: >-
-  Japanese restaurant & bar serving sushi & hot entrees in chic modern
-  surroundings with a patio.
 reviews:
   - name: >-
       places/ChIJG6nTICbLD4gRfZgs84Rez5o/reviews/ChZDSUhNMG9nS0VJQ0FnSURmcnYyY1RnEAE
@@ -381,5 +383,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese restaurant & bar serving sushi & hot entrees in chic modern
+  surroundings with a patio.
 
 ---

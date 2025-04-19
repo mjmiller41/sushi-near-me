@@ -5,6 +5,11 @@ permalink: /ohio/loveland/asian-paradise.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Loveland
+seo:
+  name: "Asian Paradise"
+  type: Restaurant
+  links: http://www.asianparadiserestaurant.com/
+description: "Chinese & Asian fusion specialties served in a modern space with a large tree in the dining room. Looking for sushi in Loveland, Ohio? Check out Asian Paradi..."
 place_id: ChIJ64dDfURWQIgRztL_OZvFbgM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 620
 website: http://www.asianparadiserestaurant.com/
-description: >-
-  Chinese & Asian fusion specialties served in a modern space with a large tree
-  in the dining room.
 reviews:
   - name: >-
       places/ChIJ64dDfURWQIgRztL_OZvFbgM/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2N2NQWHNRRRAB
@@ -379,5 +381,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Chinese & Asian fusion specialties served in a modern space with a large tree
+  in the dining room.
 
 ---

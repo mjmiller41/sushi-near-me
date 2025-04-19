@@ -5,6 +5,11 @@ permalink: /maryland/chester/shogun-sushi-teriya.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Chester
+seo:
+  name: "Shogun Sushi Teriya"
+  type: Restaurant
+  links: http://www.shogunsushiteriya.com/
+description: "Looking for sushi in Chester, Maryland? Check out Shogun Sushi Teriya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJo3UvJ3cQuIkRsVshF47OZQU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 287
 website: http://www.shogunsushiteriya.com/
-description: null
 reviews:
   - name: >-
       places/ChIJo3UvJ3cQuIkRsVshF47OZQU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfN05HSXNBRRAB
@@ -362,5 +366,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

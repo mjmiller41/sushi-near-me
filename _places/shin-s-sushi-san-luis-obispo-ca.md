@@ -5,6 +5,11 @@ permalink: /california/san-luis-obispo/shin-s-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Luis Obispo
+seo:
+  name: "Shin's Sushi"
+  type: Restaurant
+  links: https://www.shinssushibar.com/
+description: "No-frills sushi spot with diverse menu, affordable prices & daily happy-hour specials. Looking for sushi in San Luis Obispo, California? Check out Shin's Sus..."
 place_id: ChIJHevd-gPx7IARriWqbh-xdfA
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 482
 website: https://www.shinssushibar.com/
-description: >-
-  No-frills sushi spot with diverse menu, affordable prices & daily happy-hour
-  specials.
 reviews:
   - name: >-
       places/ChIJHevd-gPx7IARriWqbh-xdfA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmN0xtT1JnEAE
@@ -405,5 +407,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  No-frills sushi spot with diverse menu, affordable prices & daily happy-hour
+  specials.
 
 ---

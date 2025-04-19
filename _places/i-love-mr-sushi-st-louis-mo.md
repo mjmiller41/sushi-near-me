@@ -5,6 +5,11 @@ permalink: /missouri/st-louis/i-love-mr-sushi.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
+seo:
+  name: "I Love Mr Sushi"
+  type: Restaurant
+  links: http://mrsushistl.com/
+description: "Japanese fare from sushi to noodles is offered in this chic, ocean-themed spot with a full bar. Looking for sushi in St. Louis, Missouri? Check out I Love Mr..."
 place_id: ChIJ8U69T2cz34cRNrEEXhtps6U
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 546
 website: http://mrsushistl.com/
-description: >-
-  Japanese fare from sushi to noodles is offered in this chic, ocean-themed spot
-  with a full bar.
 reviews:
   - name: >-
       places/ChIJ8U69T2cz34cRNrEEXhtps6U/reviews/ChZDSUhNMG9nS0VJQ0FnSURfcHVtdkVBEAE
@@ -416,5 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese fare from sushi to noodles is offered in this chic, ocean-themed spot
+  with a full bar.
 
 ---

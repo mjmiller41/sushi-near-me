@@ -5,6 +5,11 @@ permalink: /new-jersey/clarksboro/idea-asian-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Clarksboro
+seo:
+  name: "Idea Asian Restaurant"
+  type: Restaurant
+  links: https://m.facebook.com/people/Idea-Asian/100057585603666/
+description: "Looking for sushi in Clarksboro, New Jersey? Check out Idea Asian Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJZ2dZJQ3bxokRNYHZtbOl7d4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 300
 website: https://m.facebook.com/people/Idea-Asian/100057585603666/
-description: null
 reviews:
   - name: >-
       places/ChIJZ2dZJQ3bxokRNYHZtbOl7d4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNROW9iUklBEAE
@@ -410,5 +414,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

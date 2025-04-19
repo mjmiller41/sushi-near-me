@@ -5,6 +5,11 @@ permalink: /maryland/columbia/sushi-nari.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Columbia
+seo:
+  name: "Sushi Nari"
+  type: Restaurant
+  links: http://www.ssnari.com/
+description: "Inventive rolls are the specialty of this Japanese kitchen with sashimi, cooked fare, beer & sake. Looking for sushi in Columbia, Maryland? Check out Sushi N..."
 place_id: ChIJH1bG6mbet4kRXsm0kAsWi1w
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 340
 website: http://www.ssnari.com/
-description: >-
-  Inventive rolls are the specialty of this Japanese kitchen with sashimi,
-  cooked fare, beer & sake.
 reviews:
   - name: >-
       places/ChIJH1bG6mbet4kRXsm0kAsWi1w/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJeDdEQmhBRRAB
@@ -384,5 +386,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Inventive rolls are the specialty of this Japanese kitchen with sashimi,
+  cooked fare, beer & sake.
 
 ---

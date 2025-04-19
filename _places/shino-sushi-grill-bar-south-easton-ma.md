@@ -5,6 +5,11 @@ permalink: /massachusetts/south-easton/shino-sushi-grill-bar.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: South Easton
+seo:
+  name: "Shino Sushi.Grill.Bar"
+  type: Restaurant
+  links: https://www.shino-restaurant.com/
+description: "Looking for sushi in South Easton, Massachusetts? Check out Shino Sushi.Grill.Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJZ_DzB1yP5IkR9ePx7CrLEd0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 227
 website: https://www.shino-restaurant.com/
-description: null
 reviews:
   - name: >-
       places/ChIJZ_DzB1yP5IkR9ePx7CrLEd0/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3LWMtYmVBEAE
@@ -387,5 +391,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /michigan/midland/sushi-remix-midland.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Midland
+seo:
+  name: "Sushi Remix - Midland"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Midland, Michigan? Check out Sushi Remix - Midland for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJI8zWVsTVI4gRX3MVAHPiSp4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

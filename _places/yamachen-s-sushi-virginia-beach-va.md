@@ -5,6 +5,11 @@ permalink: /virginia/virginia-beach/yamachen-s-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Virginia Beach
+seo:
+  name: "YamaChen's Sushi"
+  type: Restaurant
+  links: http://www.yamachen.com/onlineorder.html
+description: "Looking for sushi in Virginia Beach, Virginia? Check out YamaChen's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJdfB_4f-UuokRJVDBmPlPKC8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 399
 website: http://www.yamachen.com/onlineorder.html
-description: null
 reviews:
   - name: >-
       places/ChIJdfB_4f-UuokRJVDBmPlPKC8/reviews/ChdDSUhNMG9nS0VJQ0FnSURYcF91Mm9BRRAB
@@ -380,5 +384,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

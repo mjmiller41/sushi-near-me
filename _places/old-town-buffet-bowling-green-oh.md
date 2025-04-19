@@ -5,6 +5,11 @@ permalink: /ohio/bowling-green/old-town-buffet.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Bowling Green
+seo:
+  name: "Old Town Buffet"
+  type: Restaurant
+  links: https://www.bgoldtownbuffet.com/
+description: "Looking for sushi in Bowling Green, Ohio? Check out Old Town Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ-6lz7hELPIgRqwfjWq8Ypi4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 598
 website: https://www.bgoldtownbuffet.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ-6lz7hELPIgRqwfjWq8Ypi4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmdTdHVVhBEAE
@@ -361,5 +365,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

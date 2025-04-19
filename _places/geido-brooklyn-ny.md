@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/geido.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "GEIDŌ"
+  type: Restaurant
+  links: http://www.geido.nyc/
+description: "Sushi & unpretentious Japanese fare served in a small, kid-friendly space in Prospect Heights. Looking for sushi in Brooklyn, New York? Check out GEIDŌ for a..."
 place_id: ChIJaxKr7ahbwokRcuzidxRVoPo
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 450
 website: http://www.geido.nyc/
-description: >-
-  Sushi & unpretentious Japanese fare served in a small, kid-friendly space in
-  Prospect Heights.
 reviews:
   - name: >-
       places/ChIJaxKr7ahbwokRcuzidxRVoPo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3bllEeF93RRAB
@@ -389,5 +391,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi & unpretentious Japanese fare served in a small, kid-friendly space in
+  Prospect Heights.
 
 ---

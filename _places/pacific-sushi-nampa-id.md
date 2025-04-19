@@ -5,6 +5,11 @@ permalink: /idaho/nampa/pacific-sushi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Nampa
+seo:
+  name: "Pacific Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Nampa, Idaho? Check out Pacific Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJQzleE21MrlQR79_oN4EnL64
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 571
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

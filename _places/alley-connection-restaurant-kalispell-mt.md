@@ -5,6 +5,11 @@ permalink: /montana/kalispell/alley-connection-restaurant.html
 stateAbbr: MT
 stateName: Montana
 cityName: Kalispell
+seo:
+  name: "Alley Connection Restaurant"
+  type: Restaurant
+  links: https://www.facebook.com/AlleyConnection/
+description: "Looking for sushi in Kalispell, Montana? Check out Alley Connection Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJmVndAcBQZlMRuKFlb7qzYiw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 379
 website: https://www.facebook.com/AlleyConnection/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

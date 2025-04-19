@@ -5,6 +5,11 @@ permalink: /texas/magnolia/sapporo-japanese-bistro.html
 stateAbbr: TX
 stateName: Texas
 cityName: Magnolia
+seo:
+  name: "sapporo japanese bistro"
+  type: Restaurant
+  links: https://sapporotx.com/
+description: "Sleek, contemporary spot for a full Japanese menu of sushi & cooked fare, with sake & cocktails. Looking for sushi in Magnolia, Texas? Check out sapporo japa..."
 place_id: ChIJy9zH37svR4YRGLXs0Oc0dZs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 684
 website: https://sapporotx.com/
-description: >-
-  Sleek, contemporary spot for a full Japanese menu of sushi & cooked fare, with
-  sake & cocktails.
 reviews:
   - name: >-
       places/ChIJy9zH37svR4YRGLXs0Oc0dZs/reviews/ChZDSUhNMG9nS0VJQ0FnTURBbF9taUVnEAE
@@ -378,5 +380,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek, contemporary spot for a full Japanese menu of sushi & cooked fare, with
+  sake & cocktails.
 
 ---

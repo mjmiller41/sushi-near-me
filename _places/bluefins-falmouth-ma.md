@@ -5,6 +5,11 @@ permalink: /massachusetts/falmouth/bluefins.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Falmouth
+seo:
+  name: "Bluefins"
+  type: Restaurant
+  links: http://www.bluefinsfalmouth.com/
+description: "Looking for sushi in Falmouth, Massachusetts? Check out Bluefins for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJrWiYFXnX5IkRqW87Ud1Uxc0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.7'
 rating_count: 195
 website: http://www.bluefinsfalmouth.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

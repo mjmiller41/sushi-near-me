@@ -5,6 +5,11 @@ permalink: /maryland/rockville/bonchon-rockville.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
+seo:
+  name: "Bonchon - Rockville"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Rockville, Maryland? Check out Bonchon - Rockville for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ9-J6BHXNt4kRKuvOyOUIonc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

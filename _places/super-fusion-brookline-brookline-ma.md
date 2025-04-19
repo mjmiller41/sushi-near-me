@@ -5,6 +5,11 @@ permalink: /massachusetts/brookline/super-fusion-brookline.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Brookline
+seo:
+  name: "Super Fusion Brookline"
+  type: Restaurant
+  links: http://www.superfusionbrookline.com/
+description: "Looking for sushi in Brookline, Massachusetts? Check out Super Fusion Brookline for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJYe2gXbB544kR7TGExpF5l6I
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 222
 website: http://www.superfusionbrookline.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

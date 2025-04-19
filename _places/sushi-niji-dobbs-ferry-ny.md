@@ -5,6 +5,11 @@ permalink: /new-york/dobbs-ferry/sushi-niji.html
 stateAbbr: NY
 stateName: New York
 cityName: Dobbs Ferry
+seo:
+  name: "Sushi Niji"
+  type: Restaurant
+  links: http://www.73sushiniji.com/
+description: "Looking for sushi in Dobbs Ferry, New York? Check out Sushi Niji for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJtWjEgfXtwokRFAyvbEigIWI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 62
 website: http://www.73sushiniji.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

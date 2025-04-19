@@ -5,6 +5,11 @@ permalink: /california/san-jose/sushi-maru.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Sushi Maru"
+  type: Restaurant
+  links: https://www.sushimarusj.com/
+description: "Looking for sushi in San Jose, California? Check out Sushi Maru for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJ7e2sHYXMj4ARS7brxDJLtpQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 797
 website: https://www.sushimarusj.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

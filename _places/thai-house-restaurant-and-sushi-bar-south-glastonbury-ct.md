@@ -5,6 +5,11 @@ permalink: /connecticut/south-glastonbury/thai-house-restaurant-and-sushi-bar.ht
 stateAbbr: CT
 stateName: Connecticut
 cityName: South Glastonbury
+seo:
+  name: "Thai House Restaurant and Sushi Bar"
+  type: Restaurant
+  links: https://www.thaihouseandsushibar-ct.com/
+description: "Looking for sushi in South Glastonbury, Connecticut? Check out Thai House Restaurant and Sushi Bar for a delightful Japanese dining experience. Enjoy a varie..."
 place_id: ChIJ56NDZg1O5okRUYjGZtj1E0E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 204
 website: https://www.thaihouseandsushibar-ct.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ56NDZg1O5okRUYjGZtj1E0E/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2OTl2dTNBRRAB
@@ -399,5 +403,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /connecticut/glastonbury/tisumi-sushi.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Glastonbury
+seo:
+  name: "Tisumi Sushi"
+  type: Restaurant
+  links: https://www.tisumisushict.com/#/
+description: "Looking for sushi in Glastonbury, Connecticut? Check out Tisumi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJTdEAlIBR5okR-L9Q8sWA8-M
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 311
 website: https://www.tisumisushict.com/#/
-description: null
 reviews:
   - name: >-
       places/ChIJTdEAlIBR5okR-L9Q8sWA8-M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYcXNQMnlnRRAB
@@ -384,5 +388,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

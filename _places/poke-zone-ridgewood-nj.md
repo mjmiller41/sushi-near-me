@@ -5,6 +5,11 @@ permalink: /new-jersey/ridgewood/poke-zone.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Ridgewood
+seo:
+  name: "Poke Zone"
+  type: Restaurant
+  links: http://www.pokezone43.com/
+description: "Looking for sushi in Ridgewood, New Jersey? Check out Poke Zone for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJpcQy4NjlwokRJRjUV4tQayo
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 162
 website: http://www.pokezone43.com/
-description: null
 reviews:
   - name: >-
       places/ChIJpcQy4NjlwokRJRjUV4tQayo/reviews/ChdDSUhNMG9nS0VJQ0FnSURicWI3czl3RRAB
@@ -378,5 +382,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

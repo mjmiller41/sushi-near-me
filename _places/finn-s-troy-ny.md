@@ -5,6 +5,11 @@ permalink: /new-york/troy/finn-s.html
 stateAbbr: NY
 stateName: New York
 cityName: Troy
+seo:
+  name: "Finn’s"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Troy, New York? Check out Finn’s for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJxy4Aj_4P3okRhFX0R8Za4yg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

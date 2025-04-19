@@ -5,6 +5,11 @@ permalink: /florida/fort-myers/blu-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Myers
+seo:
+  name: "Blu Sushi"
+  type: Restaurant
+  links: http://www.blusushi.com/
+description: "Japanese eatery serving creative sushi & specialty cocktails in a chic setting with a bustling vibe. Looking for sushi in Fort Myers, Florida? Check out Blu ..."
 place_id: ChIJe8Ld8nQ_24gRDZcxdse--_o
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 733
 website: http://www.blusushi.com/
-description: >-
-  Japanese eatery serving creative sushi & specialty cocktails in a chic setting
-  with a bustling vibe.
 reviews:
   - name: >-
       places/ChIJe8Ld8nQ_24gRDZcxdse--_o/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOU1mdVdnEAE
@@ -394,5 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese eatery serving creative sushi & specialty cocktails in a chic setting
+  with a bustling vibe.
 
 ---

@@ -5,6 +5,11 @@ permalink: /florida/bradenton/kiku-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Bradenton
+seo:
+  name: "Kiku Sushi & Grill"
+  type: Restaurant
+  links: http://kikusushigrillfl.com/
+description: "Looking for sushi in Bradenton, Florida? Check out Kiku Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ9QQdqrsWw4gRge7Kq0Xk2oA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 549
 website: http://kikusushigrillfl.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

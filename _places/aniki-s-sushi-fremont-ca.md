@@ -5,6 +5,11 @@ permalink: /california/fremont/aniki-s-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fremont
+seo:
+  name: "Aniki's Sushi"
+  type: Restaurant
+  links: https://anikis.menu11.com/
+description: "Looking for sushi in Fremont, California? Check out Aniki's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJuWE7qZzAj4AR-iZTdSw870A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 787
 website: https://anikis.menu11.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

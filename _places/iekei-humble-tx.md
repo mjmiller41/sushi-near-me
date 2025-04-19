@@ -5,6 +5,11 @@ permalink: /texas/humble/iekei.html
 stateAbbr: TX
 stateName: Texas
 cityName: Humble
+seo:
+  name: "Iekei"
+  type: Restaurant
+  links: https://www.humbleiekei.com/
+description: "Looking for sushi in Humble, Texas? Check out Iekei for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atm..."
 place_id: ChIJvZ9Z6zuxQIYRnuQ7h5htJZY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 897
 website: https://www.humbleiekei.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

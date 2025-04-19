@@ -5,6 +5,11 @@ permalink: /texas/cedar-hill/avocado-california-roll-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Cedar Hill
+seo:
+  name: "Avocado California Roll & Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Cedar Hill, Texas? Check out Avocado California Roll & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJUbdYh8KNToYRhK3WsZFZO84
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 577
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

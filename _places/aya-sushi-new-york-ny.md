@@ -5,6 +5,11 @@ permalink: /new-york/new-york/aya-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Aya Sushi"
+  type: Restaurant
+  links: http://www.ayasushinewyork.com/
+description: "Tiny, unadorned sushi place also preparing a long menu of familiar Japanese entrees. Looking for sushi in New York, New York? Check out Aya Sushi for a delig..."
 place_id: ChIJM3uuJq1ZwokRyQ7JC-KW_6w
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 339
 website: http://www.ayasushinewyork.com/
-description: >-
-  Tiny, unadorned sushi place also preparing a long menu of familiar Japanese
-  entrees.
 reviews:
   - name: >-
       places/ChIJM3uuJq1ZwokRyQ7JC-KW_6w/reviews/ChZDSUhNMG9nS0VJQ0FnSURmNXRuWUt3EAE
@@ -381,5 +383,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Tiny, unadorned sushi place also preparing a long menu of familiar Japanese
+  entrees.
 
 ---

@@ -5,6 +5,11 @@ permalink: /oregon/eugene/duck-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
+seo:
+  name: "Duck Sushi"
+  type: Restaurant
+  links: https://www.ducksushieugeneor.com/
+description: "Looking for sushi in Eugene, Oregon? Check out Duck Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJzUUawT4ewVQRZQ1-lzqQ1EU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 326
 website: https://www.ducksushieugeneor.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

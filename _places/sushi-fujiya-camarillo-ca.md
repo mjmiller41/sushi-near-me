@@ -5,6 +5,11 @@ permalink: /california/camarillo/sushi-fujiya.html
 stateAbbr: CA
 stateName: California
 cityName: Camarillo
+seo:
+  name: "Sushi Fujiya"
+  type: Restaurant
+  links: https://m.facebook.com/pages/Sushi-Fujiya/121783931165695
+description: "Looking for sushi in Camarillo, California? Check out Sushi Fujiya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJSwnMQhs26IARR9z5F0T67-0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 294
 website: https://m.facebook.com/pages/Sushi-Fujiya/121783931165695
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

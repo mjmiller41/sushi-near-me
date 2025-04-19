@@ -5,6 +5,11 @@ permalink: /utah/orem/asahi-sushi-bar-restaurant.html
 stateAbbr: UT
 stateName: Utah
 cityName: Orem
+seo:
+  name: "Asahi Sushi Bar & Restaurant"
+  type: Restaurant
+  links: https://www.asahiutah.com/order-online
+description: "Looking for sushi in Orem, Utah? Check out Asahi Sushi Bar & Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJZxdwzhiFTYcRaQIoUjKuZ0E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1358
 website: https://www.asahiutah.com/order-online
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /michigan/ann-arbor/saica-restaurant.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
+seo:
+  name: "Saica Restaurant"
+  type: Restaurant
+  links: https://saicarestaurant.square.site/
+description: "Casual, contemporary restaurant specializing in Japanese & Korean fare with a focus on sushi. Looking for sushi in Ann Arbor, Michigan? Check out Saica Resta..."
 place_id: ChIJNfSjVH6uPIgRpBjzgO2XU_Y
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 291
 website: https://saicarestaurant.square.site/
-description: >-
-  Casual, contemporary restaurant specializing in Japanese & Korean fare with a
-  focus on sushi.
 reviews:
   - name: >-
       places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/reviews/ChdDSUhNMG9nS0VJQ0FnTURBaTRELXNBRRAB
@@ -354,5 +356,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Casual, contemporary restaurant specializing in Japanese & Korean fare with a
+  focus on sushi.
 
 ---

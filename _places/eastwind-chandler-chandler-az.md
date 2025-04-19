@@ -5,6 +5,11 @@ permalink: /arizona/chandler/eastwind-chandler.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
+seo:
+  name: "Eastwind Chandler"
+  type: Restaurant
+  links: https://www.facebook.com/EastwindSushi/
+description: "Looking for sushi in Chandler, Arizona? Check out Eastwind Chandler for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJjXHIYhCqK4cRMcY6eXYJhGs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 870
 website: https://www.facebook.com/EastwindSushi/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

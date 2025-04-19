@@ -5,6 +5,11 @@ permalink: /california/la-mesa/kawaii-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: La Mesa
+seo:
+  name: "Kawaii Sushi"
+  type: Restaurant
+  links: https://kawaiisushi.restaurant/?utm_source=google
+description: "Looking for sushi in La Mesa, California? Check out Kawaii Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJx-qOq8ZV2YARY7Rr7dDp3Bw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 190
 website: https://kawaiisushi.restaurant/?utm_source=google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

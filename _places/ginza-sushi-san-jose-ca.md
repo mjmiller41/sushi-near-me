@@ -5,6 +5,11 @@ permalink: /california/san-jose/ginza-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Ginza Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Jose, California? Check out Ginza Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJfyB6C-c1joAR-7G6z2fgKdE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

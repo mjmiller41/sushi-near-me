@@ -5,6 +5,11 @@ permalink: /california/los-angeles/all-you-can-eat-sushi-bbq.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "All You Can Eat Sushi & BBQ"
+  type: Restaurant
+  links: http://www.sushinbbq.com/
+description: "Looking for sushi in Los Angeles, California? Check out All You Can Eat Sushi & BBQ for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJpzvmKPy5woARsHjQlWfEbZs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 827
 website: http://www.sushinbbq.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

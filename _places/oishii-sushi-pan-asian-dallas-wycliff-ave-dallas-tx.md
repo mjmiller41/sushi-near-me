@@ -5,6 +5,11 @@ permalink: /texas/dallas/oishii-sushi-pan-asian-dallas-wycliff-ave.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
+seo:
+  name: "Oishii Sushi & Pan-Asian Dallas - Wycliff Ave"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Dallas, Texas? Check out Oishii Sushi & Pan-Asian Dallas - Wycliff Ave for a delightful Japanese dining experience. Enjoy a variety of s..."
 place_id: ChIJbSqBOLGeToYRom7u3rn-eOQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

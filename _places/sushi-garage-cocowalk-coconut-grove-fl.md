@@ -5,6 +5,11 @@ permalink: /florida/coconut-grove/sushi-garage-cocowalk.html
 stateAbbr: FL
 stateName: Florida
 cityName: Coconut Grove
+seo:
+  name: "Sushi Garage Cocowalk"
+  type: Restaurant
+  links: https://www.sushigarage.com/
+description: "Looking for sushi in Coconut Grove, Florida? Check out Sushi Garage Cocowalk for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJJ9VWp6e32YgRVABD8eBz9p0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 1307
 website: https://www.sushigarage.com/
-description: null
 reviews:
   - name: >-
       places/ChIJJ9VWp6e32YgRVABD8eBz9p0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfd2NEemxnRRAB
@@ -436,5 +440,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

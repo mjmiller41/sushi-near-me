@@ -5,6 +5,11 @@ permalink: /minnesota/burnsville/shogun.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Burnsville
+seo:
+  name: "Shogun"
+  type: Restaurant
+  links: https://www.shogunburnsvillemn.com/
+description: "Contemporary restaurant offering lively hibachi meals, sushi & cocktails in a low-lit dining room. Looking for sushi in Burnsville, Minnesota? Check out Shog..."
 place_id: ChIJrbubPDY69ocR-1UQTiTXAwU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 1275
 website: https://www.shogunburnsvillemn.com/
-description: >-
-  Contemporary restaurant offering lively hibachi meals, sushi & cocktails in a
-  low-lit dining room.
 reviews:
   - name: >-
       places/ChIJrbubPDY69ocR-1UQTiTXAwU/reviews/ChdDSUhNMG9nS0VJQ0FnSURuc2RfUDRBRRAB
@@ -433,5 +435,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Contemporary restaurant offering lively hibachi meals, sushi & cocktails in a
+  low-lit dining room.
 
 ---

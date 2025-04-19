@@ -5,6 +5,11 @@ permalink: /nevada/sparks/hiroba-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Sparks
+seo:
+  name: "Hiroba Sushi"
+  type: Restaurant
+  links: http://hirobasushinv.com/
+description: "Looking for sushi in Sparks, Nevada? Check out Hiroba Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJI-1XA7k-mYAR-vHkVFou5BI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 487
 website: http://hirobasushinv.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

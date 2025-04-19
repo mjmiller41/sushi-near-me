@@ -5,6 +5,11 @@ permalink: /florida/brandon/sushi-ninja-brandon.html
 stateAbbr: FL
 stateName: Florida
 cityName: Brandon
+seo:
+  name: "Sushi Ninja Brandon"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Brandon, Florida? Check out Sushi Ninja Brandon for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJVVVVVXbSwogRNt8Dbp7DugQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

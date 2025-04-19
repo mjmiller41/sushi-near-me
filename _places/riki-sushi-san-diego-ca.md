@@ -5,6 +5,11 @@ permalink: /california/san-diego/riki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Riki Sushi"
+  type: Restaurant
+  links: http://www.rikisushisd.com/
+description: "This casual yet contemporary Japanese eatery offers classic sushi & rolls, plus hot entrees. Looking for sushi in San Diego, California? Check out Riki Sushi..."
 place_id: ChIJo2rLk_ZU2YARztPCQqhLzu0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 498
 website: http://www.rikisushisd.com/
-description: >-
-  This casual yet contemporary Japanese eatery offers classic sushi & rolls,
-  plus hot entrees.
 reviews:
   - name: >-
       places/ChIJo2rLk_ZU2YARztPCQqhLzu0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzMUlhdlJnEAE
@@ -392,5 +394,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  This casual yet contemporary Japanese eatery offers classic sushi & rolls,
+  plus hot entrees.
 
 ---

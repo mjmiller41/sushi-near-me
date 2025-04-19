@@ -5,6 +5,11 @@ permalink: /pennsylvania/philadelphia/fat-salmon-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
+seo:
+  name: "Fat Salmon Sushi"
+  type: Restaurant
+  links: http://www.fatsalmonsushi.com/
+description: "Looking for sushi in Philadelphia, Pennsylvania? Check out Fat Salmon Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJRbkRtILIxokRnKrVYpaCpiI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: '4.4'
 rating_count: 604
 website: http://www.fatsalmonsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

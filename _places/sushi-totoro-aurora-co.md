@@ -5,6 +5,11 @@ permalink: /colorado/aurora/sushi-totoro.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
+seo:
+  name: "Sushi Totoro"
+  type: Restaurant
+  links: http://www.sushitotoro.net/
+description: "Looking for sushi in Aurora, Colorado? Check out Sushi Totoro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJiRRS1ACJbIcRFNWe_sMUmm8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1214
 website: http://www.sushitotoro.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

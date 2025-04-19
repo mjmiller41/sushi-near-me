@@ -5,6 +5,11 @@ permalink: /washington/tukwila/sushi-omiya.html
 stateAbbr: WA
 stateName: Washington
 cityName: Tukwila
+seo:
+  name: "Sushi Omiya"
+  type: Restaurant
+  links: https://order.online/business/sushi-omiya-787248
+description: "Looking for sushi in Tukwila, Washington? Check out Sushi Omiya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJ1WAbhcBdkFQRJJSnbWqnCf0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 535
 website: https://order.online/business/sushi-omiya-787248
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

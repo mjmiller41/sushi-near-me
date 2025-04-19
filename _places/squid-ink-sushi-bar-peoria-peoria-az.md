@@ -5,6 +5,11 @@ permalink: /arizona/peoria/squid-ink-sushi-bar-peoria.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Peoria
+seo:
+  name: "Squid Ink Sushi Bar - Peoria"
+  type: Restaurant
+  links: http://www.squidinksushi.com/
+description: "Looking for sushi in Peoria, Arizona? Check out Squid Ink Sushi Bar - Peoria for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJK00X6aVdK4cR_JTJqoPMcAI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 857
 website: http://www.squidinksushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

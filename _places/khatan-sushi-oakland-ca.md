@@ -5,6 +5,11 @@ permalink: /california/oakland/khatan-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
+seo:
+  name: "Khatan sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Oakland, California? Check out Khatan sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJW9MGAn-Bj4AR-euhOX3jmk0
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: $30 &ndash; $50
 rating: '4.9'
 rating_count: 36
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -203,5 +207,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /colorado/colorado-springs/sushi-spot.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
+seo:
+  name: "Sushi Spot"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Colorado Springs, Colorado? Check out Sushi Spot for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ-2H_OrhFE4cR8hBCd-390pc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 718
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

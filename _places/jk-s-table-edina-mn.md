@@ -5,6 +5,11 @@ permalink: /minnesota/edina/jk-s-table.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Edina
+seo:
+  name: "JK's Table"
+  type: Restaurant
+  links: http://www.jkstable.com/
+description: "Weekday breakfast & lunch spot for sushi, Asian bowls & American deli sandwiches in low-key digs. Looking for sushi in Edina, Minnesota? Check out JK's Table..."
 place_id: ChIJ4zufmuUj9ocRVTkKIA3N8xA
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 568
 website: http://www.jkstable.com/
-description: >-
-  Weekday breakfast & lunch spot for sushi, Asian bowls & American deli
-  sandwiches in low-key digs.
 reviews:
   - name: >-
       places/ChIJ4zufmuUj9ocRVTkKIA3N8xA/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3enRMd2RBEAE
@@ -385,5 +387,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Weekday breakfast & lunch spot for sushi, Asian bowls & American deli
+  sandwiches in low-key digs.
 
 ---

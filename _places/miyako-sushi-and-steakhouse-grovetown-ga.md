@@ -5,6 +5,11 @@ permalink: /georgia/grovetown/miyako-sushi-and-steakhouse.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Grovetown
+seo:
+  name: "Miyako Sushi and Steakhouse"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Grovetown, Georgia? Check out Miyako Sushi and Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJx_RNJSHV-YgROrr6zAxXnec
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /tennessee/brentwood/peter-s-sushi-thai.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Brentwood
+seo:
+  name: "Peter's Sushi & Thai"
+  type: Restaurant
+  links: http://petersushi.com/
+description: "Looking for sushi in Brentwood, Tennessee? Check out Peter's Sushi & Thai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJWQm3kyJ7ZIgRTJXVBhEjtGo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 767
 website: http://petersushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

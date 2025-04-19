@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/neta-shari.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Neta Shari"
+  type: Restaurant
+  links: http://www.netashari.nyc/
+description: "Looking for sushi in Brooklyn, New York? Check out Neta Shari for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJ7VOxKVBFwokRO4Zf1ESGNAE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 138
 website: http://www.netashari.nyc/
-description: null
 reviews:
   - name: >-
       places/ChIJ7VOxKVBFwokRO4Zf1ESGNAE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNneW8ta3VnRRAB
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/carmichael/hito-yatai.html
 stateAbbr: CA
 stateName: California
 cityName: Carmichael
+seo:
+  name: "HITO YATAI"
+  type: Restaurant
+  links: http://hitoyatai.com/
+description: "Looking for sushi in Carmichael, California? Check out HITO YATAI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJg0dfW5ffmoAR9oGV9o0ReK4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 74
 website: http://hitoyatai.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

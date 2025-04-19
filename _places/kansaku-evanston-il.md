@@ -5,6 +5,11 @@ permalink: /illinois/evanston/kansaku.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Evanston
+seo:
+  name: "KANSAKU"
+  type: Restaurant
+  links: http://www.kansakusushi.com/
+description: "Market-fresh sushi, noodles & Japanese standards prepared in a contemporary, intimate space. Looking for sushi in Evanston, Illinois? Check out KANSAKU for a..."
 place_id: ChIJQUft9g3QD4gR9cK3YiR4HLo
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 417
 website: http://www.kansakusushi.com/
-description: >-
-  Market-fresh sushi, noodles & Japanese standards prepared in a contemporary,
-  intimate space.
 reviews:
   - name: >-
       places/ChIJQUft9g3QD4gR9cK3YiR4HLo/reviews/ChdDSUhNMG9nS0VJQ0FnSURqd09mNTlRRRAB
@@ -374,5 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Market-fresh sushi, noodles & Japanese standards prepared in a contemporary,
+  intimate space.
 
 ---

@@ -5,6 +5,11 @@ permalink: /rhode-island/providence/haruki-east.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Providence
+seo:
+  name: "Haruki East"
+  type: Restaurant
+  links: http://www.harukisushiri.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16105084728213958698
+description: "Noodle soups, sashimi & house specialty rolls are served in this relaxed Japanese restaurant. Looking for sushi in Providence, Rhode Island? Check out Haruki..."
 place_id: ChIJf2_rnS5F5IkR_5NcVTK0gC8
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.3'
 rating_count: 484
 website: >-
   http://www.harukisushiri.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16105084728213958698
-description: >-
-  Noodle soups, sashimi & house specialty rolls are served in this relaxed
-  Japanese restaurant.
 reviews:
   - name: >-
       places/ChIJf2_rnS5F5IkR_5NcVTK0gC8/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzcS12ZFlREAE
@@ -389,5 +391,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Noodle soups, sashimi & house specialty rolls are served in this relaxed
+  Japanese restaurant.
 
 ---

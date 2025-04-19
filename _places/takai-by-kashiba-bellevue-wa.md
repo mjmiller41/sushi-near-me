@@ -5,6 +5,11 @@ permalink: /washington/bellevue/takai-by-kashiba.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
+seo:
+  name: "Takai by Kashiba"
+  type: Restaurant
+  links: https://takaibykashiba.com/
+description: "Looking for sushi in Bellevue, Washington? Check out Takai by Kashiba for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJB8PPeYdskFQRKkBJfiZLuXE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 199
 website: https://takaibykashiba.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

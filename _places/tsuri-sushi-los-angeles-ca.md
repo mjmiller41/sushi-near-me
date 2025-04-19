@@ -5,6 +5,11 @@ permalink: /california/los-angeles/tsuri-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Tsuri Sushi"
+  type: Restaurant
+  links: http://www.tsurionmelrose.com/
+description: "Looking for sushi in Los Angeles, California? Check out Tsuri Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJnVTlKdW4woAR-W0AELGA3S4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 218
 website: http://www.tsurionmelrose.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

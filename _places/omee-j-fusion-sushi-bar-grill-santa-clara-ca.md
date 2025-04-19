@@ -5,6 +5,11 @@ permalink: /california/santa-clara/omee-j-fusion-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Clara
+seo:
+  name: "Omee J Fusion Sushi Bar & Grill"
+  type: Restaurant
+  links: http://www.omeejfusionmenu.com/
+description: "Looking for sushi in Santa Clara, California? Check out Omee J Fusion Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJWTJJg4_Kj4ARDmeGeg4fRog
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 352
 website: http://www.omeejfusionmenu.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /florida/orlando/osphere-neighborhood-grill-and-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Osphere Neighborhood Grill and Bar"
+  type: Restaurant
+  links: https://ospheregrillbar.com/
+description: "Eclectic New American dishes served in airy surrounds with outdoor seats overlooking the lake. Looking for sushi in Orlando, Florida? Check out Osphere Neigh..."
 place_id: ChIJm2MMsLV754gRVhxJcIwBPWc
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 756
 website: https://ospheregrillbar.com/
-description: >-
-  Eclectic New American dishes served in airy surrounds with outdoor seats
-  overlooking the lake.
 reviews:
   - name: >-
       places/ChIJm2MMsLV754gRVhxJcIwBPWc/reviews/ChdDSUhNMG9nS0VJQ0FnTURRczRTM2h3RRAB
@@ -431,5 +433,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Eclectic New American dishes served in airy surrounds with outdoor seats
+  overlooking the lake.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushidelic.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "SUSHIDELIC"
+  type: Restaurant
+  links: https://www.sushidelic.net/
+description: "Looking for sushi in New York, New York? Check out SUSHIDELIC for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJTeF1b2JZwokRkm95zltOxog
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.2'
 rating_count: 167
 website: https://www.sushidelic.net/
-description: null
 reviews:
   - name: >-
       places/ChIJTeF1b2JZwokRkm95zltOxog/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2LXZfRDJnRRAB
@@ -571,5 +575,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

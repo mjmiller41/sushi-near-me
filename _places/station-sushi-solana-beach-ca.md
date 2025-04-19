@@ -5,6 +5,11 @@ permalink: /california/solana-beach/station-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Solana Beach
+seo:
+  name: "Station Sushi"
+  type: Restaurant
+  links: https://www.stationsushi.com/
+description: "Sports bar serving up Japanese fare amid a flurry of festive events & plenty of TVs. Looking for sushi in Solana Beach, California? Check out Station Sushi f..."
 place_id: ChIJZfE6wM0O3IARcWH6bYpLaTE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 497
 website: https://www.stationsushi.com/
-description: >-
-  Sports bar serving up Japanese fare amid a flurry of festive events & plenty
-  of TVs.
 reviews:
   - name: >-
       places/ChIJZfE6wM0O3IARcWH6bYpLaTE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBeVliRm53RRAB
@@ -401,5 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Sports bar serving up Japanese fare amid a flurry of festive events & plenty
+  of TVs.
 
 ---

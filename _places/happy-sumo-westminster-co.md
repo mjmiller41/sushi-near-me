@@ -5,6 +5,11 @@ permalink: /colorado/westminster/happy-sumo.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Westminster
+seo:
+  name: "Happy Sumo"
+  type: Restaurant
+  links: https://www.happysumoorchard.com/
+description: "Looking for sushi in Westminster, Colorado? Check out Happy Sumo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJRRDG1yN1bIcRrYFtHu1Q20o
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 1097
 website: https://www.happysumoorchard.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

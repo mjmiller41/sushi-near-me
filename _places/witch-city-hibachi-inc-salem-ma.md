@@ -5,6 +5,11 @@ permalink: /massachusetts/salem/witch-city-hibachi-inc.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Salem
+seo:
+  name: "Witch City Hibachi, Inc."
+  type: Restaurant
+  links: https://www.witchcityhibachi.com/
+description: "Looking for sushi in Salem, Massachusetts? Check out Witch City Hibachi, Inc. for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJ4diJ25gV44kRpRKwwN04iyE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 445
 website: https://www.witchcityhibachi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ4diJ25gV44kRpRKwwN04iyE/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzeF9iZDVBRRAB
@@ -389,5 +393,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

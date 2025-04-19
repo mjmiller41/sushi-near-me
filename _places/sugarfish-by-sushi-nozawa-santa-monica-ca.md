@@ -5,6 +5,11 @@ permalink: /california/santa-monica/sugarfish-by-sushi-nozawa.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
+seo:
+  name: "SUGARFISH by sushi nozawa"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Santa Monica, California? Check out SUGARFISH by sushi nozawa for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJM1Li78-kwoARkHqrMhBqXpM
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /michigan/livonia/sushi-rolls.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Livonia
+seo:
+  name: "Sushi & Rolls"
+  type: Restaurant
+  links: http://www.mimealtime.com/restaurant/sushiandrolls
+description: "Down-to-earth sushi bar offering sashimi, clever rolls & other Japanese eats in a narrow space. Looking for sushi in Livonia, Michigan? Check out Sushi & Rol..."
 place_id: ChIJ78M3ApCtJIgRkvJPIlsfJ90
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 448
 website: http://www.mimealtime.com/restaurant/sushiandrolls
-description: >-
-  Down-to-earth sushi bar offering sashimi, clever rolls & other Japanese eats
-  in a narrow space.
 reviews:
   - name: >-
       places/ChIJ78M3ApCtJIgRkvJPIlsfJ90/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMzl1cmFnEAE
@@ -440,5 +442,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Down-to-earth sushi bar offering sashimi, clever rolls & other Japanese eats
+  in a narrow space.
 
 ---

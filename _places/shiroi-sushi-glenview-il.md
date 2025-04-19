@@ -5,6 +5,11 @@ permalink: /illinois/glenview/shiroi-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Glenview
+seo:
+  name: "Shiroi Sushi 한국횟집"
+  type: Restaurant
+  links: https://www.shiroisushi.com/
+description: "Looking for sushi in Glenview, Illinois? Check out Shiroi Sushi 한국횟집 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJH8nN5AnID4gR6RvxFX8vs38
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.1'
 rating_count: 300
 website: https://www.shiroisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

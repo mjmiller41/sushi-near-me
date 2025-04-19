@@ -5,6 +5,11 @@ permalink: /texas/college-station/yummi-yummi-mongolian-grill-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: College Station
+seo:
+  name: "Yummi Yummi Mongolian Grill & Sushi"
+  type: Restaurant
+  links: http://yummimongolian.com/
+description: "Looking for sushi in College Station, Texas? Check out Yummi Yummi Mongolian Grill & Sushi for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJrRFULGyERoYRVjXp1ZI8pQQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1018
 website: http://yummimongolian.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

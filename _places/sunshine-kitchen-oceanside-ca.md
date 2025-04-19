@@ -5,6 +5,11 @@ permalink: /california/oceanside/sunshine-kitchen.html
 stateAbbr: CA
 stateName: California
 cityName: Oceanside
+seo:
+  name: "Sunshine Kitchen"
+  type: Restaurant
+  links: https://sunshinekitchenoceanside.com/
+description: "Bright, informal outpost serving quick-serve poke bowls alongside standard sushi rolls. Looking for sushi in Oceanside, California? Check out Sunshine Kitche..."
 place_id: ChIJL2EHq9Vv3IARO1vmyi_6s6A
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 528
 website: https://sunshinekitchenoceanside.com/
-description: >-
-  Bright, informal outpost serving quick-serve poke bowls alongside standard
-  sushi rolls.
 reviews:
   - name: >-
       places/ChIJL2EHq9Vv3IARO1vmyi_6s6A/reviews/ChZDSUhNMG9nS0VJQ0FnTURJc2JtOFh3EAE
@@ -384,5 +386,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Bright, informal outpost serving quick-serve poke bowls alongside standard
+  sushi rolls.
 
 ---

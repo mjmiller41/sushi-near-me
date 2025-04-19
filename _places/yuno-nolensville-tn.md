@@ -5,6 +5,11 @@ permalink: /tennessee/nolensville/yuno.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nolensville
+seo:
+  name: "Yuno"
+  type: Restaurant
+  links: http://www.yunosushi.com/
+description: "Down-to-earth venue for specialty sushi rolls, plus other Japanese & Korean fare. Looking for sushi in Nolensville, Tennessee? Check out Yuno for a delightfu..."
 place_id: ChIJU7QHp0hxZIgRo8Fr2CdRFQY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 300
 website: http://www.yunosushi.com/
-description: >-
-  Down-to-earth venue for specialty sushi rolls, plus other Japanese & Korean
-  fare.
 reviews:
   - name: >-
       places/ChIJU7QHp0hxZIgRo8Fr2CdRFQY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbmRLNENnEAE
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Down-to-earth venue for specialty sushi rolls, plus other Japanese & Korean
+  fare.
 
 ---

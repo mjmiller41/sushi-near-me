@@ -5,6 +5,11 @@ permalink: /florida/oviedo/sushi-pop-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Oviedo
+seo:
+  name: "Sushi Pop Restaurant"
+  type: Restaurant
+  links: http://sushipoprestaurant.com/
+description: "Japanese restaurant & sushi bar boasts an innovative menu & contemporary design. Looking for sushi in Oviedo, Florida? Check out Sushi Pop Restaurant for a d..."
 place_id: ChIJcfaipnBp54gRwjBAhT1hBTo
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 1063
 website: http://sushipoprestaurant.com/
-description: >-
-  Japanese restaurant & sushi bar boasts an innovative menu & contemporary
-  design.
 reviews:
   - name: >-
       places/ChIJcfaipnBp54gRwjBAhT1hBTo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJZ2ZHcTFRRRAB
@@ -425,5 +427,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese restaurant & sushi bar boasts an innovative menu & contemporary
+  design.
 
 ---

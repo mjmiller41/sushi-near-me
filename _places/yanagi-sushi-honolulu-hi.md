@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/yanagi-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Yanagi Sushi"
+  type: Restaurant
+  links: https://www.fooddiscoveryapp.com/honolulu/yanagi-sushi
+description: "Looking for sushi in Honolulu, Hawaii? Check out Yanagi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJeeE8guFtAHwRYFJZ0B4YQGs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 1410
 website: https://www.fooddiscoveryapp.com/honolulu/yanagi-sushi
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

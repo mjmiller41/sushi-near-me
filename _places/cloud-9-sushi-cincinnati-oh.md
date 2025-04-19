@@ -5,6 +5,11 @@ permalink: /ohio/cincinnati/cloud-9-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+seo:
+  name: "Cloud 9 Sushi"
+  type: Restaurant
+  links: https://c9sushi.com/
+description: "Looking for sushi in Cincinnati, Ohio? Check out Cloud 9 Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJU725to2tQYgR4REZO31T0gE
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1543
 website: https://c9sushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

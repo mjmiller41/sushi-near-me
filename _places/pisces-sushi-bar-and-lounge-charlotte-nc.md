@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/pisces-sushi-bar-and-lounge.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "Pisces Sushi Bar and Lounge"
+  type: Restaurant
+  links: http://piscessushi.com/
+description: "Looking for sushi in Charlotte, North Carolina? Check out Pisces Sushi Bar and Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJJ8sHeIyfVogRS_YS7LZ3hyw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1269
 website: http://piscessushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

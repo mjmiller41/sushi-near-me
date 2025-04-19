@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sake-bar-hagi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sake Bar Hagi"
+  type: Restaurant
+  links: http://www.sakebar-hagi.com/
+description: "Cozy, brick-walled Japanese eatery and sake bar, offering yakitori, noodles, and sushi, plus happy hours. Looking for sushi in New York, New York? Check out ..."
 place_id: ChIJx-Yt5lNYwokRzwFhNuRwCwQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 1007
 website: http://www.sakebar-hagi.com/
-description: >-
-  Cozy, brick-walled Japanese eatery and sake bar, offering yakitori, noodles,
-  and sushi, plus happy hours.
 reviews:
   - name: >-
       places/ChIJx-Yt5lNYwokRzwFhNuRwCwQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURnaXZqZWVnEAE
@@ -519,5 +521,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Cozy, brick-walled Japanese eatery and sake bar, offering yakitori, noodles,
+  and sushi, plus happy hours.
 
 ---

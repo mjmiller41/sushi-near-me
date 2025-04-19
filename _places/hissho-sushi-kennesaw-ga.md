@@ -5,6 +5,11 @@ permalink: /georgia/kennesaw/hissho-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Kennesaw
+seo:
+  name: "Hissho Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Kennesaw, Georgia? Check out Hissho Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJ4Ul2OMpq9YgRDghvovR6_qw
 photos: null
 address: Carmichael Student Center, Cobb Ave, Kennesaw, GA 30144, USA
@@ -48,7 +53,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -75,5 +79,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

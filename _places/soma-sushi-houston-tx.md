@@ -5,6 +5,11 @@ permalink: /texas/houston/soma-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "Soma Sushi"
+  type: Restaurant
+  links: https://www.somasushi.com/
+description: "Looking for sushi in Houston, Texas? Check out Soma Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJX88CrLTAQIYRhF6TTFuGwZg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 1169
 website: https://www.somasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

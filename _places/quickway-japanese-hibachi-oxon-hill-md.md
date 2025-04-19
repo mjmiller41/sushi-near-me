@@ -5,6 +5,11 @@ permalink: /maryland/oxon-hill/quickway-japanese-hibachi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Oxon Hill
+seo:
+  name: "Quickway Japanese Hibachi"
+  type: Restaurant
+  links: https://quickwayhibachi.com/
+description: "Japanese chain preparing teppanyaki and sushi for lunch and dinner in casual environs. Looking for sushi in Oxon Hill, Maryland? Check out Quickway Japanese ..."
 place_id: ChIJUT2uUme7t4kRXAlxiU5rJdw
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '3.5'
 rating_count: 0
 website: https://quickwayhibachi.com/
-description: >-
-  Japanese chain preparing teppanyaki and sushi for lunch and dinner in casual
-  environs.
 reviews:
   - name: >-
       places/ChIJUT2uUme7t4kRXAlxiU5rJdw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYa3E2MjJBRRAB
@@ -404,5 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: >-
+  Japanese chain preparing teppanyaki and sushi for lunch and dinner in casual
+  environs.
 
 ---

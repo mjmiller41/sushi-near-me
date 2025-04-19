@@ -5,6 +5,11 @@ permalink: /florida/orlando/sushi-yummy.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Sushi Yummy"
+  type: Restaurant
+  links: http://www.sushiyummy.net/
+description: "Looking for sushi in Orlando, Florida? Check out Sushi Yummy for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJp9lVvbJ954gRZrJlwp7Ds0s
 photos:
   - name: >-
@@ -184,7 +189,6 @@ price_range: null
 rating: '4.0'
 rating_count: 719
 website: http://www.sushiyummy.net/
-description: null
 reviews:
   - name: >-
       places/ChIJp9lVvbJ954gRZrJlwp7Ds0s/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5NV9qSktREAE
@@ -472,5 +476,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/temecula/youandi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Temecula
+seo:
+  name: "YouandI Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Temecula, California? Check out YouandI Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJX8BSc5t_24AR8Bewx1VJr7Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /oregon/monmouth/momiji-sushi-restaurant-monmouth.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Monmouth
+seo:
+  name: "Momiji Sushi Restaurant - Monmouth"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Monmouth, Oregon? Check out Momiji Sushi Restaurant - Monmouth for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJT5L4bFQDwFQRihHTuiuWujI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

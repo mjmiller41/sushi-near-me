@@ -5,6 +5,11 @@ permalink: /illinois/buffalo-grove/masa-s-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Buffalo Grove
+seo:
+  name: "Masa's Sushi"
+  type: Restaurant
+  links: https://facebook.com/Masas-Sushi-111672018872035/
+description: "Simple sushi spot fixing up familiar maki, nigiri & sashimi in compact quarters. Looking for sushi in Buffalo Grove, Illinois? Check out Masa's Sushi for a d..."
 place_id: ChIJ7YRdgEK8D4gRawyScMOLtdk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 203
 website: https://facebook.com/Masas-Sushi-111672018872035/
-description: >-
-  Simple sushi spot fixing up familiar maki, nigiri & sashimi in compact
-  quarters.
 reviews:
   - name: >-
       places/ChIJ7YRdgEK8D4gRawyScMOLtdk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaTRlWGRREAE
@@ -372,5 +374,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: >-
+  Simple sushi spot fixing up familiar maki, nigiri & sashimi in compact
+  quarters.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-jersey/dumont/well-being-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Dumont
+seo:
+  name: "Well-Being Sushi"
+  type: Restaurant
+  links: http://www.wellbeingsushi.com/
+description: "Sushi & rolls are the mainstay on the menu at this low-key Japanese eatery with some cooked fare. Looking for sushi in Dumont, New Jersey? Check out Well-Bei..."
 place_id: ChIJTf2mCinuwokRzHt36bYlqRs
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 495
 website: http://www.wellbeingsushi.com/
-description: >-
-  Sushi & rolls are the mainstay on the menu at this low-key Japanese eatery
-  with some cooked fare.
 reviews:
   - name: >-
       places/ChIJTf2mCinuwokRzHt36bYlqRs/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3c05EemxBRRAB
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Sushi & rolls are the mainstay on the menu at this low-key Japanese eatery
+  with some cooked fare.
 
 ---

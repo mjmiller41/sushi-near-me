@@ -5,6 +5,11 @@ permalink: /california/san-diego/go-go-sushi-ramen.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Go Go Sushi & Ramen"
+  type: Restaurant
+  links: https://gogosushisd.com/?utm_source=google
+description: "Laid-back locale serving up Japanese dishes, including sushi & teriyaki, plus Korean noodle soups. Looking for sushi in San Diego, California? Check out Go G..."
 place_id: ChIJQ3AsQRz524ARdHA8jUQDdG8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 256
 website: https://gogosushisd.com/?utm_source=google
-description: >-
-  Laid-back locale serving up Japanese dishes, including sushi & teriyaki, plus
-  Korean noodle soups.
 reviews:
   - name: >-
       places/ChIJQ3AsQRz524ARdHA8jUQDdG8/reviews/ChZDSUhNMG9nS0VJQ0FnSURyN0pycmZ3EAE
@@ -425,5 +427,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Laid-back locale serving up Japanese dishes, including sushi & teriyaki, plus
+  Korean noodle soups.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/lynbrook/mikado-sushi-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Lynbrook
+seo:
+  name: "Mikado sushi restaurant"
+  type: Restaurant
+  links: http://www.mikado355.com/
+description: "Looking for sushi in Lynbrook, New York? Check out Mikado sushi restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJjdCJP7xkwokRtKEw_T08wFQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 221
 website: http://www.mikado355.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

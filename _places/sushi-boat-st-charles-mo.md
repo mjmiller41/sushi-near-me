@@ -5,6 +5,11 @@ permalink: /missouri/st-charles/sushi-boat.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St Charles
+seo:
+  name: "Sushi Boat"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in St Charles, Missouri? Check out Sushi Boat for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJjThY4rkv34cRaVG-CHzHTPY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

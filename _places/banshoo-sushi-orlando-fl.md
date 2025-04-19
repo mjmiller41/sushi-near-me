@@ -5,6 +5,11 @@ permalink: /florida/orlando/banshoo-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Banshoo Sushi"
+  type: Restaurant
+  links: http://www.rosencentre.com/dining-and-recreation/banshoo-sushi-bar/
+description: "Modern sushi bar in the Rosen Centre Hotel serving inventive maki & Japanese-style seafood dishes. Looking for sushi in Orlando, Florida? Check out Banshoo S..."
 place_id: ChIJab2b9zZ-54gR1tZL34SkRx0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '3.8'
 rating_count: 50
 website: http://www.rosencentre.com/dining-and-recreation/banshoo-sushi-bar/
-description: >-
-  Modern sushi bar in the Rosen Centre Hotel serving inventive maki &
-  Japanese-style seafood dishes.
 reviews:
   - name: >-
       places/ChIJab2b9zZ-54gR1tZL34SkRx0/reviews/ChdDSUhNMG9nS0VJQ0FnSURIMXJhaTRBRRAB
@@ -437,5 +439,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Modern sushi bar in the Rosen Centre Hotel serving inventive maki &
+  Japanese-style seafood dishes.
 
 ---

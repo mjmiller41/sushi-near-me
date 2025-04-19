@@ -5,6 +5,11 @@ permalink: /nevada/sparks/kissho-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Sparks
+seo:
+  name: "Kissho Sushi"
+  type: Restaurant
+  links: https://smorefood.com/order-online/kissho-sushi-sparks-89434-jpv3od7s?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Sparks, Nevada? Check out Kissho Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJtXZTujg_mYARJY1cCe6gELg
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.1'
 rating_count: 298
 website: >-
   https://smorefood.com/order-online/kissho-sushi-sparks-89434-jpv3od7s?utm_source=gmb&utm_medium=website
-description: null
 reviews:
   - name: >-
       places/ChIJtXZTujg_mYARJY1cCe6gELg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRZ09xTUd3EAE
@@ -427,5 +431,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

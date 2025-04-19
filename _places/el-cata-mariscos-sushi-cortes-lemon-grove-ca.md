@@ -5,6 +5,11 @@ permalink: /california/lemon-grove/el-cata-mariscos-sushi-cortes.html
 stateAbbr: CA
 stateName: California
 cityName: Lemon Grove
+seo:
+  name: "El Cata Mariscos Sushi & Cortes"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Lemon Grove, California? Check out El Cata Mariscos Sushi & Cortes for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJ5QlpCABR2YARvhAQg4aOOuY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

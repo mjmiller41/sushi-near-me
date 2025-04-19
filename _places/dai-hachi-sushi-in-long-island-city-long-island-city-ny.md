@@ -5,6 +5,11 @@ permalink: /new-york/long-island-city/dai-hachi-sushi-in-long-island-city.html
 stateAbbr: NY
 stateName: New York
 cityName: Long Island City
+seo:
+  name: "Dai Hachi Sushi in Long Island City"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Long Island City, New York? Check out Dai Hachi Sushi in Long Island City for a delightful Japanese dining experience. Enjoy a variety o..."
 place_id: ChIJE5GZsSZZwokROeICD1qRrGg
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

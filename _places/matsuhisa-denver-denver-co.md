@@ -5,6 +5,11 @@ permalink: /colorado/denver/matsuhisa-denver.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Matsuhisa Denver"
+  type: Restaurant
+  links: https://www.matsuhisarestaurants.com/home/denver
+description: "Looking for sushi in Denver, Colorado? Check out Matsuhisa Denver for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJq6r-G5p-bIcRvEcBmWPjIoo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 1121
 website: https://www.matsuhisarestaurants.com/home/denver
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

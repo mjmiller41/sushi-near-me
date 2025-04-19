@@ -5,6 +5,11 @@ permalink: /ohio/columbus/sushiko.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
+seo:
+  name: "Sushiko"
+  type: Restaurant
+  links: http://www.sushi-ko.net/
+description: "Bright eatery with an extensive menu of traditional & specialty sushi & other Japanese dishes. Looking for sushi in Columbus, Ohio? Check out Sushiko for a d..."
 place_id: ChIJKXuSzEDzOIgRXeXFDqWelYg
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 835
 website: http://www.sushi-ko.net/
-description: >-
-  Bright eatery with an extensive menu of traditional & specialty sushi & other
-  Japanese dishes.
 reviews:
   - name: >-
       places/ChIJKXuSzEDzOIgRXeXFDqWelYg/reviews/ChZDSUhNMG9nS0VJQ0FnTURRd3RxNlhBEAE
@@ -408,5 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Bright eatery with an extensive menu of traditional & specialty sushi & other
+  Japanese dishes.
 
 ---

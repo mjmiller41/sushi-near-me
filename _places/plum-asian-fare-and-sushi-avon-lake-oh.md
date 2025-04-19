@@ -5,6 +5,11 @@ permalink: /ohio/avon-lake/plum-asian-fare-and-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Avon Lake
+seo:
+  name: "Plum Asian Fare and Sushi"
+  type: Restaurant
+  links: https://www.plumasianfaresushi.com/
+description: "Looking for sushi in Avon Lake, Ohio? Check out Plum Asian Fare and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJYZgos7GPMIgRN6YVF5DmGhs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 212
 website: https://www.plumasianfaresushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJYZgos7GPMIgRN6YVF5DmGhs/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2OW9fT3VRRRAB
@@ -404,5 +408,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

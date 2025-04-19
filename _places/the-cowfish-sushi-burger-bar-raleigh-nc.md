@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/the-cowfish-sushi-burger-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "The Cowfish Sushi Burger Bar"
+  type: Restaurant
+  links: http://thecowfish.com/
+description: "Gourmet burgers & sushi, & fusion combos of the 2, plus beer & spirits in a vibrant, colorful space. Looking for sushi in Raleigh, North Carolina? Check out ..."
 place_id: ChIJ660nrZZYrIkRP9AQVS2sBHI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 4525
 website: http://thecowfish.com/
-description: >-
-  Gourmet burgers & sushi, & fusion combos of the 2, plus beer & spirits in a
-  vibrant, colorful space.
 reviews:
   - name: >-
       places/ChIJ660nrZZYrIkRP9AQVS2sBHI/reviews/ChZDSUhNMG9nS0VJQ0FnSURuN2NyR2FREAE
@@ -434,5 +436,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Gourmet burgers & sushi, & fusion combos of the 2, plus beer & spirits in a
+  vibrant, colorful space.
 
 ---

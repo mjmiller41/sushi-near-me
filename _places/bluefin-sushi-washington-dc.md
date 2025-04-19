@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/bluefin-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Bluefin Sushi"
+  type: Restaurant
+  links: http://bluefingeorgetown.com/
+description: "Maki, nigiri & specialty rolls in a snug spot with limited seating, plus takeout & delivery options. Looking for sushi in Washington, District of Columbia? C..."
 place_id: ChIJaRMy80u2t4kRJ4nZjxmT5BY
 photos:
   - name: >-
@@ -176,9 +181,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 379
 website: http://bluefingeorgetown.com/
-description: >-
-  Maki, nigiri & specialty rolls in a snug spot with limited seating, plus
-  takeout & delivery options.
 reviews:
   - name: >-
       places/ChIJaRMy80u2t4kRJ4nZjxmT5BY/reviews/ChZDSUhNMG9nS0VJQ0FnSURmNHVmVmNnEAE
@@ -382,5 +384,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Maki, nigiri & specialty rolls in a snug spot with limited seating, plus
+  takeout & delivery options.
 
 ---

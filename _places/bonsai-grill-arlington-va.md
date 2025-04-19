@@ -5,6 +5,11 @@ permalink: /virginia/arlington/bonsai-grill.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+seo:
+  name: "Bonsai Grill"
+  type: Restaurant
+  links: http://www.crystalbonsaisushirestaurant.com/
+description: "Cozy sushi house that offers bonsai boats, bento boxes, Japanese beers & other favorite dishes. Looking for sushi in Arlington, Virginia? Check out Bonsai Gr..."
 place_id: ChIJJf3fuCm3t4kRCr8rILYLOTE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.crystalbonsaisushirestaurant.com/
-description: >-
-  Cozy sushi house that offers bonsai boats, bento boxes, Japanese beers & other
-  favorite dishes.
 reviews:
   - name: >-
       places/ChIJJf3fuCm3t4kRCr8rILYLOTE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaExtN0V3EAE
@@ -362,5 +364,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Cozy sushi house that offers bonsai boats, bento boxes, Japanese beers & other
+  favorite dishes.
 
 ---

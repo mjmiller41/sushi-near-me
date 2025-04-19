@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-of-gari-uws-gari-columbus.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi of Gari UWS (Gari Columbus)"
+  type: Restaurant
+  links: https://www.sushiofgari.com/
+description: "Minimalist branch of a local upscale sushi chain offering creative rolls, Japanese fare & sake. Looking for sushi in New York, New York? Check out Sushi of G..."
 place_id: ChIJRf0k0Y5YwokR7hh2IBTl3LY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 343
 website: https://www.sushiofgari.com/
-description: >-
-  Minimalist branch of a local upscale sushi chain offering creative rolls,
-  Japanese fare & sake.
 reviews:
   - name: >-
       places/ChIJRf0k0Y5YwokR7hh2IBTl3LY/reviews/ChZDSUhNMG9nS0VJQ0FnSURfOU5TMlpREAE
@@ -407,5 +409,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Minimalist branch of a local upscale sushi chain offering creative rolls,
+  Japanese fare & sake.
 
 ---

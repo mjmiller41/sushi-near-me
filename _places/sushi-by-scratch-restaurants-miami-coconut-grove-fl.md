@@ -5,6 +5,11 @@ permalink: /florida/coconut-grove/sushi-by-scratch-restaurants-miami.html
 stateAbbr: FL
 stateName: Florida
 cityName: Coconut Grove
+seo:
+  name: "Sushi by Scratch Restaurants: Miami"
+  type: Restaurant
+  links: https://www.exploretock.com/sushi-by-scratch-restaurants-miami
+description: "Looking for sushi in Coconut Grove, Florida? Check out Sushi by Scratch Restaurants: Miami for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJP8aLkeW32YgRfmPsVXObIvI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 139
 website: https://www.exploretock.com/sushi-by-scratch-restaurants-miami
-description: null
 reviews:
   - name: >-
       places/ChIJP8aLkeW32YgRfmPsVXObIvI/reviews/ChdDSUhNMG9nS0VJQ0FnTURRc0tPYzN3RRAB
@@ -411,5 +415,6 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /colorado/louisville/mr-sake-sushi-grill.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Louisville
+seo:
+  name: "Mr. Sake Sushi & Grill"
+  type: Restaurant
+  links: http://www.mrsakesushigrill.com/
+description: "Looking for sushi in Louisville, Colorado? Check out Mr. Sake Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ-0gfSZmKa4cRmzKYOiPnQDk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 313
 website: http://www.mrsakesushigrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

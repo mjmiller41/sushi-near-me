@@ -5,6 +5,11 @@ permalink: /new-jersey/medford/u-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Medford
+seo:
+  name: "U Sushi"
+  type: Restaurant
+  links: https://www.usushimedford.com/
+description: "Looking for sushi in Medford, New Jersey? Check out U Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJraka3xwxwYkR_Uwopan-u2I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 95
 website: https://www.usushimedford.com/
-description: null
 reviews:
   - name: >-
       places/ChIJraka3xwxwYkR_Uwopan-u2I/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5dmVXa0V3EAE
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

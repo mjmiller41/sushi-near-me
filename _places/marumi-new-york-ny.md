@@ -5,6 +5,11 @@ permalink: /new-york/new-york/marumi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Marumi"
+  type: Restaurant
+  links: https://www.marumi.nyc/
+description: "Along with sushi, this Japanese joint offers bento boxes, udon noodles & other cooked fare. Looking for sushi in New York, New York? Check out Marumi for a d..."
 place_id: ChIJM_hKtpFZwokRBMH-ozSrBNQ
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 291
 website: https://www.marumi.nyc/
-description: >-
-  Along with sushi, this Japanese joint offers bento boxes, udon noodles & other
-  cooked fare.
 reviews:
   - name: >-
       places/ChIJM_hKtpFZwokRBMH-ozSrBNQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIdEo2X1JnEAE
@@ -354,5 +356,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Along with sushi, this Japanese joint offers bento boxes, udon noodles & other
+  cooked fare.
 
 ---

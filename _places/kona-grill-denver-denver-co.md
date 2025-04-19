@@ -5,6 +5,11 @@ permalink: /colorado/denver/kona-grill-denver.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Kona Grill - Denver"
+  type: Restaurant
+  links: https://konagrill.com/locations?locations=Denver,80206
+description: "Looking for sushi in Denver, Colorado? Check out Kona Grill - Denver for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJX4Jmj5B-bIcRuvDQd9B-06k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.7'
 rating_count: 13543
 website: https://konagrill.com/locations?locations=Denver,80206
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

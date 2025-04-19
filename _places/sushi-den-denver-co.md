@@ -5,6 +5,11 @@ permalink: /colorado/denver/sushi-den.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Sushi Den"
+  type: Restaurant
+  links: http://www.sushiden.net/
+description: "Looking for sushi in Denver, Colorado? Check out Sushi Den for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJL2TJFlJ-bIcRENgfRp3uELQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.7'
 rating_count: 4759
 website: http://www.sushiden.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

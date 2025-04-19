@@ -5,6 +5,11 @@ permalink: /california/long-beach/sushi-zen-maru.html
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
+seo:
+  name: "Sushi Zen Maru"
+  type: Restaurant
+  links: https://smorefood.com/order-online/sushi-zen-maru-long-beach-90802-rbyde5rh?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Long Beach, California? Check out Sushi Zen Maru for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJFV0VcTgx3YAR9nEeFncN22w
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '3.8'
 rating_count: 127
 website: >-
   https://smorefood.com/order-online/sushi-zen-maru-long-beach-90802-rbyde5rh?utm_source=gmb&utm_medium=website
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

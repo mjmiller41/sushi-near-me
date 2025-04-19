@@ -5,6 +5,11 @@ permalink: /washington/everett/oshima-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Everett
+seo:
+  name: "Oshima Sushi"
+  type: Restaurant
+  links: https://pos.chowbus.com/online-ordering/store/oshima-sushio-everett/21550
+description: "Looking for sushi in Everett, Washington? Check out Oshima Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJf97-9rEGkFQRs09iY7-duTc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1122
 website: https://pos.chowbus.com/online-ordering/store/oshima-sushio-everett/21550
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

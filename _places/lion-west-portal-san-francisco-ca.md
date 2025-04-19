@@ -5,6 +5,11 @@ permalink: /california/san-francisco/lion-west-portal.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Lion West Portal"
+  type: Restaurant
+  links: https://lionwestportal.com/
+description: "Looking for sushi in San Francisco, California? Check out Lion West Portal for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJoTonKAB9j4AREVbqEuhgHYw
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 29
 website: https://lionwestportal.com/
-description: null
 reviews:
   - name: >-
       places/ChIJoTonKAB9j4AREVbqEuhgHYw/reviews/ChZDSUhNMG9nS0VJQ0FnTURBN29TOVpBEAE
@@ -442,5 +446,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

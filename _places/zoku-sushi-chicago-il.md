@@ -5,6 +5,11 @@ permalink: /illinois/chicago/zoku-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Zoku Sushi"
+  type: Restaurant
+  links: http://www.zokuchicago.com/
+description: "Imaginative sushi rolls share the menu with cooked Japanese-Thai fare at this BYO spot with a patio. Looking for sushi in Chicago, Illinois? Check out Zoku S..."
 place_id: ChIJqynxN1vND4gR5N6zeNlQIDE
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 377
 website: http://www.zokuchicago.com/
-description: >-
-  Imaginative sushi rolls share the menu with cooked Japanese-Thai fare at this
-  BYO spot with a patio.
 reviews:
   - name: >-
       places/ChIJqynxN1vND4gR5N6zeNlQIDE/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbEw3Tm9BRRAB
@@ -390,5 +392,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Imaginative sushi rolls share the menu with cooked Japanese-Thai fare at this
+  BYO spot with a patio.
 
 ---

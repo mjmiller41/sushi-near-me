@@ -5,6 +5,11 @@ permalink: /massachusetts/arlington/mr-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Arlington
+seo:
+  name: "Mr. Sushi"
+  type: Restaurant
+  links: http://mrsushi.raniii.com/
+description: "Unadorned spot providing standard sushi options & other traditional Japanese eats. Looking for sushi in Arlington, Massachusetts? Check out Mr. Sushi for a d..."
 place_id: ChIJM7cgC1B244kRGAxn21l8vJE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 295
 website: http://mrsushi.raniii.com/
-description: >-
-  Unadorned spot providing standard sushi options & other traditional Japanese
-  eats.
 reviews:
   - name: >-
       places/ChIJM7cgC1B244kRGAxn21l8vJE/reviews/ChdDSUhNMG9nS0VJQ0FnSURYbzVpTDJRRRAB
@@ -365,5 +367,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Unadorned spot providing standard sushi options & other traditional Japanese
+  eats.
 
 ---

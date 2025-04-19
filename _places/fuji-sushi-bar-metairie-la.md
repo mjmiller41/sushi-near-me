@@ -5,6 +5,11 @@ permalink: /louisiana/metairie/fuji-sushi-bar.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Metairie
+seo:
+  name: "Fuji Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Metairie, Louisiana? Check out Fuji Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJr7_gYDK3IIYRnzrA4lxXegQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

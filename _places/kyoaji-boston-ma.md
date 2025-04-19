@@ -5,6 +5,11 @@ permalink: /massachusetts/boston/kyoaji.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
+seo:
+  name: "Kyoaji"
+  type: Restaurant
+  links: http://www.kyoajiallston.com/
+description: "Looking for sushi in Boston, Massachusetts? Check out Kyoaji for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJ20Jovjh544kRRNcEV-hlOsQ
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 30
 website: http://www.kyoajiallston.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ20Jovjh544kRRNcEV-hlOsQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbTk3eU9REAE
@@ -419,5 +423,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

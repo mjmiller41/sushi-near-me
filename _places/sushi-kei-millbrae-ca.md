@@ -5,6 +5,11 @@ permalink: /california/millbrae/sushi-kei.html
 stateAbbr: CA
 stateName: California
 cityName: Millbrae
+seo:
+  name: "Sushi Kei"
+  type: Restaurant
+  links: https://407sushikei.wixsite.com/sushikei
+description: "Looking for sushi in Millbrae, California? Check out Sushi Kei for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJwWkODtJ3j4ARuNZROGAoy4Y
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 40
 website: https://407sushikei.wixsite.com/sushikei
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

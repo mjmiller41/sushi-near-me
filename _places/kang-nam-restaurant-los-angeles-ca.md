@@ -5,6 +5,11 @@ permalink: /california/los-angeles/kang-nam-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Kang Nam Restaurant"
+  type: Restaurant
+  links: http://www.kangnamrestaurant.com/
+description: "Looking for sushi in Los Angeles, California? Check out Kang Nam Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJXfLuuYy4woARpT6--tyINLk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.0'
 rating_count: 646
 website: http://www.kangnamrestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

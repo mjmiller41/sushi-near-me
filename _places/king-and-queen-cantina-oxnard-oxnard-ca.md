@@ -5,6 +5,11 @@ permalink: /california/oxnard/king-and-queen-cantina-oxnard.html
 stateAbbr: CA
 stateName: California
 cityName: Oxnard
+seo:
+  name: "King and Queen Cantina Oxnard"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Oxnard, California? Check out King and Queen Cantina Oxnard for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJYS1xcuhN6IARy_n5m5V7NHQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

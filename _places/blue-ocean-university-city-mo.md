@@ -5,6 +5,11 @@ permalink: /missouri/university-city/blue-ocean.html
 stateAbbr: MO
 stateName: Missouri
 cityName: University City
+seo:
+  name: "Blue Ocean"
+  type: Restaurant
+  links: http://www.blueoceanstl.com/
+description: "Looking for sushi in University City, Missouri? Check out Blue Ocean for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJGwWfcFQ134cRQbEflNGSMg4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1117
 website: http://www.blueoceanstl.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

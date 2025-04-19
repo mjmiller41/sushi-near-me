@@ -5,6 +5,11 @@ permalink: /utah/st-george/sakura-japanese-steakhouse.html
 stateAbbr: UT
 stateName: Utah
 cityName: St. George
+seo:
+  name: "Sakura Japanese Steakhouse"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in St. George, Utah? Check out Sakura Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ1cL9qC9byoAREPC-LkJ7mto
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

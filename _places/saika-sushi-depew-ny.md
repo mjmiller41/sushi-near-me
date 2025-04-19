@@ -5,6 +5,11 @@ permalink: /new-york/depew/saika-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Depew
+seo:
+  name: "Saika Sushi"
+  type: Restaurant
+  links: http://www.saikasushi.com/
+description: "Informal all-you-can-eat sushi house for lunch, dinner & take-out, plus a wine & sake menu. Looking for sushi in Depew, New York? Check out Saika Sushi for a..."
 place_id: ChIJiwAteoEL04kRkY1QDLVsp_I
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1174
 website: http://www.saikasushi.com/
-description: >-
-  Informal all-you-can-eat sushi house for lunch, dinner & take-out, plus a wine
-  & sake menu.
 reviews:
   - name: >-
       places/ChIJiwAteoEL04kRkY1QDLVsp_I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNmJlSUpREAE
@@ -448,5 +450,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Informal all-you-can-eat sushi house for lunch, dinner & take-out, plus a wine
+  & sake menu.
 
 ---

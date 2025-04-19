@@ -5,6 +5,11 @@ permalink: /illinois/chicago/miku-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Miku Sushi"
+  type: Restaurant
+  links: http://www.mikuchicago.com
+description: "An extensive Japanese menu of creative maki rolls, small plates, ramen, unusual skewers & more. Looking for sushi in Chicago, Illinois? Check out Miku Sushi ..."
 place_id: ChIJXZFpVBDSD4gRsL98utDkMks
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 801
 website: http://www.mikuchicago.com
-description: >-
-  An extensive Japanese menu of creative maki rolls, small plates, ramen,
-  unusual skewers & more.
 reviews:
   - name: >-
       places/ChIJXZFpVBDSD4gRsL98utDkMks/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnOHFPQUt3EAE
@@ -394,5 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  An extensive Japanese menu of creative maki rolls, small plates, ramen,
+  unusual skewers & more.
 
 ---

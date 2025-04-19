@@ -5,6 +5,11 @@ permalink: /florida/fort-lauderdale/heart-rock-sushi-and-thai.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Lauderdale
+seo:
+  name: "Heart Rock Sushi and thai"
+  type: Restaurant
+  links: https://www.heartrocksushithai.com/
+description: "Cozy Asian eatery with modern decor & a lounge feel serving rolls, tempura, noodle & Thai dishes. Looking for sushi in Fort Lauderdale, Florida? Check out He..."
 place_id: ChIJuffLEMgB2YgRetQnYBMsw60
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 594
 website: https://www.heartrocksushithai.com/
-description: >-
-  Cozy Asian eatery with modern decor & a lounge feel serving rolls, tempura,
-  noodle & Thai dishes.
 reviews:
   - name: >-
       places/ChIJuffLEMgB2YgRetQnYBMsw60/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReEtTZTl3RRAB
@@ -338,5 +340,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Cozy Asian eatery with modern decor & a lounge feel serving rolls, tempura,
+  noodle & Thai dishes.
 
 ---

@@ -5,6 +5,11 @@ permalink: /pennsylvania/hummelstown/tokyo-house-restaurant.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Hummelstown
+seo:
+  name: "Tokyo House Restaurant"
+  type: Restaurant
+  links: https://www.tokyohousepa.com/
+description: "Looking for sushi in Hummelstown, Pennsylvania? Check out Tokyo House Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJ8VV33P67yIkRCohe7Sc8Aqw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 112
 website: https://www.tokyohousepa.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ8VV33P67yIkRCohe7Sc8Aqw/reviews/ChdDSUhNMG9nS0VJQ0FnTURReE1INHZBRRAB
@@ -468,5 +472,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

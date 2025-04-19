@@ -5,6 +5,11 @@ permalink: /california/san-diego/hanaya-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Hanaya Sushi"
+  type: Restaurant
+  links: null
+description: "Spare Japanese eatery offering enormous, artfully presented sashimi platters & sushi rolls. Looking for sushi in San Diego, California? Check out Hanaya Sush..."
 place_id: ChIJS5Q8bGwH3IARUgHZHDblw1M
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 321
 website: null
-description: >-
-  Spare Japanese eatery offering enormous, artfully presented sashimi platters &
-  sushi rolls.
 reviews:
   - name: >-
       places/ChIJS5Q8bGwH3IARUgHZHDblw1M/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzcElmMWpnRRAB
@@ -400,5 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: >-
+  Spare Japanese eatery offering enormous, artfully presented sashimi platters &
+  sushi rolls.
 
 ---

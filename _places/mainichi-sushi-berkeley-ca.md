@@ -5,6 +5,11 @@ permalink: /california/berkeley/mainichi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
+seo:
+  name: "Mainichi Sushi"
+  type: Restaurant
+  links: https://mainichisushi.menu11.com/berkeley/order
+description: "Looking for sushi in Berkeley, California? Check out Mainichi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJNTEVhBV5hYARjZvmA_YbiMM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 144
 website: https://mainichisushi.menu11.com/berkeley/order
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

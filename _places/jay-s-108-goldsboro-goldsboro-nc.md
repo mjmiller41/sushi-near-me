@@ -5,6 +5,11 @@ permalink: /north-carolina/goldsboro/jay-s-108-goldsboro.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Goldsboro
+seo:
+  name: "Jay's 108 Goldsboro"
+  type: Restaurant
+  links: https://jaysnc.com/locations/jays-108-goldsboro/
+description: "Looking for sushi in Goldsboro, North Carolina? Check out Jay's 108 Goldsboro for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJPZsAYGoBrIkRjql4y7Yo5Pg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 956
 website: https://jaysnc.com/locations/jays-108-goldsboro/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

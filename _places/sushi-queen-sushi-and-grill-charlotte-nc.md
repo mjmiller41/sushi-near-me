@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/sushi-queen-sushi-and-grill.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "Sushi Queen Sushi and Grill"
+  type: Restaurant
+  links: http://sushiqueengrill.weebly.com/
+description: "Looking for sushi in Charlotte, North Carolina? Check out Sushi Queen Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJ8yzvPu4PVIgR2UduuT0seg8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1109
 website: http://sushiqueengrill.weebly.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ8yzvPu4PVIgR2UduuT0seg8/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3b01IVG9nRRAB
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

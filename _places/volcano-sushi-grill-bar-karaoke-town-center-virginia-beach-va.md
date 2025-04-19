@@ -5,6 +5,11 @@ permalink: /virginia/virginia-beach/volcano-sushi-grill-bar-karaoke-town-center.
 stateAbbr: VA
 stateName: Virginia
 cityName: Virginia Beach
+seo:
+  name: "Volcano Sushi, Grill, Bar& karaoke (Town Center)"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Virginia Beach, Virginia? Check out Volcano Sushi, Grill, Bar& karaoke (Town Center) for a delightful Japanese dining experience. Enjoy ..."
 place_id: ChIJsbMX3l2VuokRCIBa7S1Es_Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

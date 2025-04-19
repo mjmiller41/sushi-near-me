@@ -5,6 +5,11 @@ permalink: /south-carolina/spartanburg/miyako-sushi-group.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Spartanburg
+seo:
+  name: "Miyako Sushi Group"
+  type: Restaurant
+  links: http://www.miyakosushigroup.com/
+description: "Comfy Japanese eatery offering a sizable selection of traditional dishes & specialty rolls. Looking for sushi in Spartanburg, South Carolina? Check out Miyak..."
 place_id: ChIJ7_q84vR1V4gRdEFXZBoFxK0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1041
 website: http://www.miyakosushigroup.com/
-description: >-
-  Comfy Japanese eatery offering a sizable selection of traditional dishes &
-  specialty rolls.
 reviews:
   - name: >-
       places/ChIJ7_q84vR1V4gRdEFXZBoFxK0/reviews/ChdDSUhNMG9nS0VJQ0FnSURYeVpMRzdRRRAB
@@ -361,5 +363,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Comfy Japanese eatery offering a sizable selection of traditional dishes &
+  specialty rolls.
 
 ---

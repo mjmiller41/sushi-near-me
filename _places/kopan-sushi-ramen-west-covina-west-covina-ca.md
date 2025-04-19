@@ -5,6 +5,11 @@ permalink: /california/west-covina/kopan-sushi-ramen-west-covina.html
 stateAbbr: CA
 stateName: California
 cityName: West Covina
+seo:
+  name: "KOPAN SUSHI & RAMEN_ WEST COVINA"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in West Covina, California? Check out KOPAN SUSHI & RAMEN_ WEST COVINA for a delightful Japanese dining experience. Enjoy a variety of sush..."
 place_id: ChIJKxfpKCoow4ARA5TbtiyKVIw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

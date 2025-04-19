@@ -5,6 +5,11 @@ permalink: /new-jersey/west-caldwell/sushi-cafe.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: West Caldwell
+seo:
+  name: "Sushi Cafe"
+  type: Restaurant
+  links: http://www.sushicafewestcaldwell.com/
+description: "Looking for sushi in West Caldwell, New Jersey? Check out Sushi Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJl-dK37wAw4kRiTEAcjjp51o
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 237
 website: http://www.sushicafewestcaldwell.com/
-description: null
 reviews:
   - name: >-
       places/ChIJl-dK37wAw4kRiTEAcjjp51o/reviews/ChZDSUhNMG9nS0VJQ0FnSURYXzRMZkVnEAE
@@ -366,5 +370,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

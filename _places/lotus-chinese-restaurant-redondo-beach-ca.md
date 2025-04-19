@@ -5,6 +5,11 @@ permalink: /california/redondo-beach/lotus-chinese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Redondo Beach
+seo:
+  name: "Lotus Chinese Restaurant"
+  type: Restaurant
+  links: https://lotusasianrestaurant.com/
+description: "Looking for sushi in Redondo Beach, California? Check out Lotus Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJXYNx3ttL3YARY-quNETKXho
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 74
 website: https://lotusasianrestaurant.com/
-description: null
 reviews:
   - name: >-
       places/ChIJXYNx3ttL3YARY-quNETKXho/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdU1uOGh3RRAB
@@ -537,5 +541,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

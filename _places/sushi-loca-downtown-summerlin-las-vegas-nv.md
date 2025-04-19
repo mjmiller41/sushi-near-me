@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/sushi-loca-downtown-summerlin.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "Sushi Loca Downtown Summerlin"
+  type: Restaurant
+  links: https://www.sushiloca.online/
+description: "Looking for sushi in Las Vegas, Nevada? Check out Sushi Loca Downtown Summerlin for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJIxIGqf--yIARnU6gdtUBshg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '3.9'
 rating_count: 383
 website: https://www.sushiloca.online/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

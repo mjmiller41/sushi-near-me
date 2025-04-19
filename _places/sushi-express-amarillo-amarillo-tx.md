@@ -5,6 +5,11 @@ permalink: /texas/amarillo/sushi-express-amarillo.html
 stateAbbr: TX
 stateName: Texas
 cityName: Amarillo
+seo:
+  name: "Sushi Express Amarillo"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Amarillo, Texas? Check out Sushi Express Amarillo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJDfsnpERQAYcRMMN8mKqpy8k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 149
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

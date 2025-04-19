@@ -5,6 +5,11 @@ permalink: /oklahoma/tulsa/gigi-s-chinese-cuisine.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Tulsa
+seo:
+  name: "Gigi's Chinese Cuisine"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Tulsa, Oklahoma? Check out Gigi's Chinese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJmV9x-UKStocRmrVgqjhoCa0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

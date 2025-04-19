@@ -5,6 +5,11 @@ permalink: /illinois/norridge/lin-s-mandarin-chinese-asian-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Norridge
+seo:
+  name: "Lin's Mandarin Chinese & Asian Restaurant"
+  type: Restaurant
+  links: https://www.smorefood.com/order-online/lins-mandarin-chinese-and-asian-restaurant-norridge-60706-8qbgl32e?utm_source=gmb&utm_medium=website
+description: "Casual eatery offering a large menu of modern & traditional Chinese fare in simple surrounds. Looking for sushi in Norridge, Illinois? Check out Lin's Mandar..."
 place_id: ChIJiVtu-RjKD4gRewhKKxwDJTs
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.1'
 rating_count: 260
 website: >-
   https://www.smorefood.com/order-online/lins-mandarin-chinese-and-asian-restaurant-norridge-60706-8qbgl32e?utm_source=gmb&utm_medium=website
-description: >-
-  Casual eatery offering a large menu of modern & traditional Chinese fare in
-  simple surrounds.
 reviews:
   - name: >-
       places/ChIJiVtu-RjKD4gRewhKKxwDJTs/reviews/ChZDSUhNMG9nS0VJQ0FnTURBOF9lckJREAE
@@ -391,5 +393,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Casual eatery offering a large menu of modern & traditional Chinese fare in
+  simple surrounds.
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/chicago/rolls-n-bowls.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Rolls N Bowls"
+  type: Restaurant
+  links: http://rollsnbowlschicago.com/
+description: "Snug restaurant serving sushi & traditional Japanese mains such as yakisoba & bento boxes. Looking for sushi in Chicago, Illinois? Check out Rolls N Bowls fo..."
 place_id: ChIJA6L5oBrSD4gRlOqsMYbT3vo
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 247
 website: http://rollsnbowlschicago.com/
-description: >-
-  Snug restaurant serving sushi & traditional Japanese mains such as yakisoba &
-  bento boxes.
 reviews:
   - name: >-
       places/ChIJA6L5oBrSD4gRlOqsMYbT3vo/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2MGN5WXlRRRAB
@@ -441,5 +443,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Snug restaurant serving sushi & traditional Japanese mains such as yakisoba &
+  bento boxes.
 
 ---

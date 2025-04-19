@@ -5,6 +5,11 @@ permalink: /texas/midland/volcano-sushi-and-asian-fusion.html
 stateAbbr: TX
 stateName: Texas
 cityName: Midland
+seo:
+  name: "Volcano Sushi and Asian Fusion"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Midland, Texas? Check out Volcano Sushi and Asian Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJ3xoV7ILZ-4YRuPKDFVLyMns
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

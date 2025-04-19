@@ -5,6 +5,11 @@ permalink: /california/san-jose/kampai-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Kampai Sushi & Grill"
+  type: Restaurant
+  links: http://www.kampai3.com/
+description: "Looking for sushi in San Jose, California? Check out Kampai Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJewx-jBgyjoARi_UjJT3X_qI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 188
 website: http://www.kampai3.com/
-description: null
 reviews:
   - name: >-
       places/ChIJewx-jBgyjoARi_UjJT3X_qI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBcGJERlhREAE
@@ -386,5 +390,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

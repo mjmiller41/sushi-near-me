@@ -5,6 +5,11 @@ permalink: /washington/puyallup/forever-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Puyallup
+seo:
+  name: "Forever Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Puyallup, Washington? Check out Forever Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJHxlJb1f8kFQRl-Dxw0IExH0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 882
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

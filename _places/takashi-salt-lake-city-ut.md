@@ -5,6 +5,11 @@ permalink: /utah/salt-lake-city/takashi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
+seo:
+  name: "Takashi"
+  type: Restaurant
+  links: http://takashisushi.com/
+description: "Looking for sushi in Salt Lake City, Utah? Check out Takashi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJySRBGhD1UocRvck4jYN0_jA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 2997
 website: http://takashisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

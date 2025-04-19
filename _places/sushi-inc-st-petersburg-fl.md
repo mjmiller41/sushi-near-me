@@ -5,6 +5,11 @@ permalink: /florida/st-petersburg/sushi-inc.html
 stateAbbr: FL
 stateName: Florida
 cityName: St. Petersburg
+seo:
+  name: "Sushi Inc"
+  type: Restaurant
+  links: http://sushiincorporated.com/
+description: "Casual option dispensing traditional sushi, signature rolls & cooked Japanese fare including ramen. Looking for sushi in St. Petersburg, Florida? Check out S..."
 place_id: ChIJMSqPz5zhwogRQtowQFK5GNc
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1215
 website: http://sushiincorporated.com/
-description: >-
-  Casual option dispensing traditional sushi, signature rolls & cooked Japanese
-  fare including ramen.
 reviews:
   - name: >-
       places/ChIJMSqPz5zhwogRQtowQFK5GNc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOGNXbWFBEAE
@@ -444,5 +446,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual option dispensing traditional sushi, signature rolls & cooked Japanese
+  fare including ramen.
 
 ---

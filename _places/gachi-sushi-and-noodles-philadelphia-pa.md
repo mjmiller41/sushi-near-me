@@ -5,6 +5,11 @@ permalink: /pennsylvania/philadelphia/gachi-sushi-and-noodles.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
+seo:
+  name: "Gachi Sushi and Noodles"
+  type: Restaurant
+  links: https://www.gachisushi.com/
+description: "Looking for sushi in Philadelphia, Pennsylvania? Check out Gachi Sushi and Noodles for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJQ1B0RE_FxokRlfsQmc27hbo
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '3.0'
 rating_count: 65
 website: https://www.gachisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /colorado/durango/pop-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Durango
+seo:
+  name: "Pop Sushi"
+  type: Restaurant
+  links: http://www.popsushidurango.com/
+description: "Looking for sushi in Durango, Colorado? Check out Pop Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJxWnKdOanPocRxNgzFnUP3x0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 532
 website: http://www.popsushidurango.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

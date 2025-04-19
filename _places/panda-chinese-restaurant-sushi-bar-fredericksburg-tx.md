@@ -5,6 +5,11 @@ permalink: /texas/fredericksburg/panda-chinese-restaurant-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Fredericksburg
+seo:
+  name: "Panda Chinese Restaurant & Sushi Bar"
+  type: Restaurant
+  links: https://www.pandachineserestaurantfb.com/
+description: "Looking for sushi in Fredericksburg, Texas? Check out Panda Chinese Restaurant & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJEZZpH1nAW4YRUTCpYEhyQQY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 985
 website: https://www.pandachineserestaurantfb.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

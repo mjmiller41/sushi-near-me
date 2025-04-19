@@ -5,6 +5,11 @@ permalink: /virginia/chesapeake/yu-mi-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesapeake
+seo:
+  name: "Yu-Mi Sushi"
+  type: Restaurant
+  links: https://yumisushitogo.com/
+description: "Looking for sushi in Chesapeake, Virginia? Check out Yu-Mi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJz39vCSqluokRIFMJu98xLM4
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 277
 website: https://yumisushitogo.com/
-description: null
 reviews:
   - name: >-
       places/ChIJz39vCSqluokRIFMJu98xLM4/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3cjhpZVdREAE
@@ -375,5 +379,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

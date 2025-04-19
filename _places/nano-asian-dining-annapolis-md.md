@@ -5,6 +5,11 @@ permalink: /maryland/annapolis/nano-asian-dining.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Annapolis
+seo:
+  name: "Nano Asian Dining"
+  type: Restaurant
+  links: http://www.nanoasian.com/
+description: "Brightly decorated hangout known for its long sushi bar, Pan-Asian menu & traditional tatami room. Looking for sushi in Annapolis, Maryland? Check out Nano A..."
 place_id: ChIJvdRS4U_2t4kRx2rHUYzCJ8Y
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 309
 website: http://www.nanoasian.com/
-description: >-
-  Brightly decorated hangout known for its long sushi bar, Pan-Asian menu &
-  traditional tatami room.
 reviews:
   - name: >-
       places/ChIJvdRS4U_2t4kRx2rHUYzCJ8Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURmdnR6VVVREAE
@@ -388,5 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Brightly decorated hangout known for its long sushi bar, Pan-Asian menu &
+  traditional tatami room.
 
 ---

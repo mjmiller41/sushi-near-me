@@ -5,6 +5,11 @@ permalink: /maryland/ellicott-city/seoul-pub-sushi-chicken-beer.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Ellicott City
+seo:
+  name: "Seoul Pub Sushi Chicken & Beer"
+  type: Restaurant
+  links: https://www.marylandkoreanway.com/seoul-pub-sushi-chicken-beer
+description: "Looking for sushi in Ellicott City, Maryland? Check out Seoul Pub Sushi Chicken & Beer for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJcfpTB4AfyIkRJLB5yVpKG60
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 343
 website: https://www.marylandkoreanway.com/seoul-pub-sushi-chicken-beer
-description: null
 reviews:
   - name: >-
       places/ChIJcfpTB4AfyIkRJLB5yVpKG60/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbXVtTUZREAE
@@ -354,5 +358,6 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: null
 
 ---

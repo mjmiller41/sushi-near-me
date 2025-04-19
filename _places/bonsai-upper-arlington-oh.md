@@ -5,6 +5,11 @@ permalink: /ohio/upper-arlington/bonsai.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Upper Arlington
+seo:
+  name: "Bonsai"
+  type: Restaurant
+  links: https://www.bonsaioh.com/
+description: "Down-to-earth outpost serving Korean bowls alongside sushi rolls & cooked Japanese fare. Looking for sushi in Upper Arlington, Ohio? Check out Bonsai for a d..."
 place_id: ChIJC_K_MOCNOIgRfLimQxQDjc4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 312
 website: https://www.bonsaioh.com/
-description: >-
-  Down-to-earth outpost serving Korean bowls alongside sushi rolls & cooked
-  Japanese fare.
 reviews:
   - name: >-
       places/ChIJC_K_MOCNOIgRfLimQxQDjc4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMmRHMXpBRRAB
@@ -400,5 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Down-to-earth outpost serving Korean bowls alongside sushi rolls & cooked
+  Japanese fare.
 
 ---

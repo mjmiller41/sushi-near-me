@@ -5,6 +5,11 @@ permalink: /new-york/jamaica/xinbao.html
 stateAbbr: NY
 stateName: New York
 cityName: Jamaica
+seo:
+  name: "Xinbao"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Jamaica, New York? Check out Xinbao for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJI14DKsFmwokRzOwOx0OfdbM
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: null
 rating: '3.6'
 rating_count: 136
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJI14DKsFmwokRzOwOx0OfdbM/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2cXVTWXV3RRAB
@@ -419,5 +423,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

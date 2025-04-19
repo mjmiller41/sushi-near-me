@@ -5,6 +5,11 @@ permalink: /texas/leander/kai-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Leander
+seo:
+  name: "Kai Sushi"
+  type: Restaurant
+  links: https://www.kaisushiatx.com/
+description: "Looking for sushi in Leander, Texas? Check out Kai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJL2re43EsW4YRbOyuzXNoJjs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 612
 website: https://www.kaisushiatx.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /louisiana/new-orleans/hana-japanese-restaurant.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: New Orleans
+seo:
+  name: "Hana Japanese Restaurant"
+  type: Restaurant
+  links: https://hanasushinola.com/
+description: "Looking for sushi in New Orleans, Louisiana? Check out Hana Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJE8s9OTylIIYRFj9-BwnP-mA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 469
 website: https://hanasushinola.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

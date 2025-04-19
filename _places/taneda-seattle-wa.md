@@ -5,6 +5,11 @@ permalink: /washington/seattle/taneda.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Taneda"
+  type: Restaurant
+  links: http://tanedaseattle.com/
+description: "Looking for sushi in Seattle, Washington? Check out Taneda for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJXcM6TZwVkFQR_DSKVibXe2c
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 254
 website: http://tanedaseattle.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

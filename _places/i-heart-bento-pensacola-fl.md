@@ -5,6 +5,11 @@ permalink: /florida/pensacola/i-heart-bento.html
 stateAbbr: FL
 stateName: Florida
 cityName: Pensacola
+seo:
+  name: "I Heart Bento"
+  type: Restaurant
+  links: http://www.iheartbentopensacola.com/
+description: "Looking for sushi in Pensacola, Florida? Check out I Heart Bento for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJ6Zs-RheVkIgRgTs-aah9Tws
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 418
 website: http://www.iheartbentopensacola.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ6Zs-RheVkIgRgTs-aah9Tws/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3al9fZVZREAE
@@ -397,5 +401,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

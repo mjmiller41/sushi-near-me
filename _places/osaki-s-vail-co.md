@@ -5,6 +5,11 @@ permalink: /colorado/vail/osaki-s.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Vail
+seo:
+  name: "Osaki’s"
+  type: Restaurant
+  links: http://www.osakisvail.com/
+description: "Looking for sushi in Vail, Colorado? Check out Osaki’s for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
 place_id: ChIJAQDQNWlwaocRpMtV14sRdhk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 126
 website: http://www.osakisvail.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /north-carolina/high-point/us-sushi-high-point.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: High Point
+seo:
+  name: "US SUSHI（High Point)"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in High Point, North Carolina? Check out US SUSHI（High Point) for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJ943JjpsFU4gRqMaO4eyq-x4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

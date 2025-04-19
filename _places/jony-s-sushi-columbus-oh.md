@@ -5,6 +5,11 @@ permalink: /ohio/columbus/jony-s-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
+seo:
+  name: "jony's sushi"
+  type: Restaurant
+  links: http://www.jonyssushi.com/
+description: "Looking for sushi in Columbus, Ohio? Check out jony's sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJ333LX0yJOIgRlnRAQu2EURo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 61
 website: http://www.jonyssushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ333LX0yJOIgRlnRAQu2EURo/reviews/ChdDSUhNMG9nS0VJQ0FnSURiZ3R1RjlBRRAB
@@ -378,5 +382,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

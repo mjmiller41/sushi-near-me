@@ -5,6 +5,11 @@ permalink: /michigan/dearborn/o-sushi-japanese-restaurant-dearborn.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Dearborn
+seo:
+  name: "O'Sushi Japanese Restaurant Dearborn"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Dearborn, Michigan? Check out O'Sushi Japanese Restaurant Dearborn for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJ-zfFF3hKO4gRQ4Ef1T2W6qw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

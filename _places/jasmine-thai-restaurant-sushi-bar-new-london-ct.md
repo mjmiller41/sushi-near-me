@@ -5,6 +5,11 @@ permalink: /connecticut/new-london/jasmine-thai-restaurant-sushi-bar.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New London
+seo:
+  name: "Jasmine Thai Restaurant & Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New London, Connecticut? Check out Jasmine Thai Restaurant & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of s..."
 place_id: ChIJTQfw0l0O5okR5K9_I8annJc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

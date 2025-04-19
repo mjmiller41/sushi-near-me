@@ -5,6 +5,11 @@ permalink: /ohio/aurora/dj-hibachi-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Aurora
+seo:
+  name: "DJ HIBACHI & SUSHI"
+  type: Restaurant
+  links: https://djhibachisushiaurora.com/
+description: "Looking for sushi in Aurora, Ohio? Check out DJ HIBACHI & SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJnR91-BkZMYgRAHczXHUdBj8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 117
 website: https://djhibachisushiaurora.com/
-description: null
 reviews:
   - name: >-
       places/ChIJnR91-BkZMYgRAHczXHUdBj8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBOFlULXp3RRAB
@@ -380,5 +384,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

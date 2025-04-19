@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/intown-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "Intown Sushi"
+  type: Restaurant
+  links: https://intownsushi.com/
+description: "Looking for sushi in Minneapolis, Minnesota? Check out Intown Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJx5c1EP0n9ocR-1AC5iUKsHc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 63
 website: https://intownsushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJx5c1EP0n9ocR-1AC5iUKsHc/reviews/ChdDSUhNMG9nS0VJQ0FnSURuajlTRnNnRRAB
@@ -353,5 +357,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

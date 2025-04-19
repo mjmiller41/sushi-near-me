@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/sushi-neko.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "Sushi Neko"
+  type: Restaurant
+  links: https://www.fooddiscoveryapp.com/las-vegas/sushi-neko
+description: "Looking for sushi in Las Vegas, Nevada? Check out Sushi Neko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJu-6Dv7fGyIAR_xocph6eidA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 3344
 website: https://www.fooddiscoveryapp.com/las-vegas/sushi-neko
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

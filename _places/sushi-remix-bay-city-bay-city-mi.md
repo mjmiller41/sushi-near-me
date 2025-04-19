@@ -5,6 +5,11 @@ permalink: /michigan/bay-city/sushi-remix-bay-city.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Bay City
+seo:
+  name: "Sushi Remix - Bay City"
+  type: Restaurant
+  links: http://sushiremix.com/
+description: "Looking for sushi in Bay City, Michigan? Check out Sushi Remix - Bay City for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJydbdlk7hI4gRyovHWfRHXRk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 321
 website: http://sushiremix.com/
-description: null
 reviews:
   - name: >-
       places/ChIJydbdlk7hI4gRyovHWfRHXRk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJXzhxdm5BRRAB
@@ -361,5 +365,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

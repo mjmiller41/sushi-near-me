@@ -5,6 +5,11 @@ permalink: /new-york/albany/ruby-city.html
 stateAbbr: NY
 stateName: New York
 cityName: Albany
+seo:
+  name: "Ruby City"
+  type: Restaurant
+  links: http://www.rubyalbany.com/
+description: "Casual eatery serving Pan-Asian eats including sushi & lunchtime bentos, plus sake & bubble tea. Looking for sushi in Albany, New York? Check out Ruby City f..."
 place_id: ChIJd_6ZKE4K3okRK-68YleE0As
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 248
 website: http://www.rubyalbany.com/
-description: >-
-  Casual eatery serving Pan-Asian eats including sushi & lunchtime bentos, plus
-  sake & bubble tea.
 reviews:
   - name: >-
       places/ChIJd_6ZKE4K3okRK-68YleE0As/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsMXYzR093EAE
@@ -423,5 +425,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Casual eatery serving Pan-Asian eats including sushi & lunchtime bentos, plus
+  sake & bubble tea.
 
 ---

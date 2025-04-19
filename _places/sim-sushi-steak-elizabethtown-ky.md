@@ -5,6 +5,11 @@ permalink: /kentucky/elizabethtown/sim-sushi-steak.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Elizabethtown
+seo:
+  name: "Sim Sushi & Steak"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Elizabethtown, Kentucky? Check out Sim Sushi & Steak for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJlyQ27lTvaIgRwB4-3E20hDw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 307
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJlyQ27lTvaIgRwB4-3E20hDw/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aDlmdElBEAE
@@ -358,5 +362,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

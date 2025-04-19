@@ -5,6 +5,11 @@ permalink: /washington/seattle/sai-sushi-sake.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "SAI Sushi & Sake"
+  type: Restaurant
+  links: http://www.saisushiandsake.com/
+description: "Looking for sushi in Seattle, Washington? Check out SAI Sushi & Sake for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJO1azchsVkFQRQUnY7ZQjhZs
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 100
 website: http://www.saisushiandsake.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

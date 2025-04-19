@@ -5,6 +5,11 @@ permalink: /virginia/hampton/sushi-king.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Hampton
+seo:
+  name: "Sushi King"
+  type: Restaurant
+  links: http://www.sushikingptc.com/
+description: "Looking for sushi in Hampton, Virginia? Check out Sushi King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJLeiv1xWDuokRY7VcKRfHRjY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.8'
 rating_count: 1585
 website: http://www.sushikingptc.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

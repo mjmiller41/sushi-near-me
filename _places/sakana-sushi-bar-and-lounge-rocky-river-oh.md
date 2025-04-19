@@ -5,6 +5,11 @@ permalink: /ohio/rocky-river/sakana-sushi-bar-and-lounge.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Rocky River
+seo:
+  name: "Sakana Sushi Bar and Lounge"
+  type: Restaurant
+  links: https://www.sakanacleveland.com/
+description: "Looking for sushi in Rocky River, Ohio? Check out Sakana Sushi Bar and Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJmw-53cnzMIgR2uclzOV8WY8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 490
 website: https://www.sakanacleveland.com/
-description: null
 reviews:
   - name: >-
       places/ChIJmw-53cnzMIgR2uclzOV8WY8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNma296NmZ3EAE
@@ -384,5 +388,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

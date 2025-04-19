@@ -5,6 +5,11 @@ permalink: /virginia/blacksburg/hefun.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Blacksburg
+seo:
+  name: "Hefun"
+  type: Restaurant
+  links: https://blacksburghefun.com/
+description: "Looking for sushi in Blacksburg, Virginia? Check out Hefun for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJQZw4VGOVTYgRizx5s-PVKHA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 486
 website: https://blacksburghefun.com/
-description: null
 reviews:
   - name: >-
       places/ChIJQZw4VGOVTYgRizx5s-PVKHA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRM05uUjZ3RRAB
@@ -383,5 +387,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

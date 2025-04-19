@@ -5,6 +5,11 @@ permalink: /colorado/greenwood-village/hapa-sushi-grill-and-sake-bar.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Greenwood Village
+seo:
+  name: "Hapa Sushi Grill and Sake Bar"
+  type: Restaurant
+  links: http://hapasushi.com/
+description: "Looking for sushi in Greenwood Village, Colorado? Check out Hapa Sushi Grill and Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sus..."
 place_id: ChIJ5yHUc_qGbIcR8tPhhiXeNl4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 2353
 website: http://hapasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /nevada/henderson/momo-sushi-japanese-cuisine.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Henderson
+seo:
+  name: "Momo Sushi Japanese Cuisine"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Henderson, Nevada? Check out Momo Sushi Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJZafD0vfQyIARrFvUmeIf0gk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

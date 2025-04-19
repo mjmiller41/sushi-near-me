@@ -5,6 +5,11 @@ permalink: /new-jersey/little-falls-township/oh-my-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Little Falls Township
+seo:
+  name: "Oh My Sushi"
+  type: Restaurant
+  links: https://www.ohmysushinj.com/
+description: "Looking for sushi in Little Falls Township, New Jersey? Check out Oh My Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJFT9peZIBw4kR4KYZxuMCREA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 151
 website: https://www.ohmysushinj.com/
-description: null
 reviews:
   - name: >-
       places/ChIJFT9peZIBw4kR4KYZxuMCREA/reviews/ChdDSUhNMG9nS0VJQ0FnSURuNS1xRnh3RRAB
@@ -354,5 +358,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

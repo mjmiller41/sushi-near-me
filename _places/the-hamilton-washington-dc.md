@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/the-hamilton.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "The Hamilton"
+  type: Restaurant
+  links: https://www.thehamiltondc.com/
+description: "Hip American eatery with late hours, plus plenty of room in a live music space downstairs. Looking for sushi in Washington, District of Columbia? Check out T..."
 place_id: ChIJ0zjVx5e3t4kRPiQqmswuh9c
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: null
 rating: '4.5'
 rating_count: 9062
 website: https://www.thehamiltondc.com/
-description: >-
-  Hip American eatery with late hours, plus plenty of room in a live music space
-  downstairs.
 reviews:
   - name: >-
       places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMHNmUXVRRRAB
@@ -605,5 +607,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Hip American eatery with late hours, plus plenty of room in a live music space
+  downstairs.
 
 ---

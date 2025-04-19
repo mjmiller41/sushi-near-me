@@ -5,6 +5,11 @@ permalink: /illinois/bloomington/bonchon-bloomington-leslie-dr.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Bloomington
+seo:
+  name: "Bonchon Bloomington - Leslie Dr"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Bloomington, Illinois? Check out Bonchon Bloomington - Leslie Dr for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJS63N1wB7C4gRj_co_-NdxlE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

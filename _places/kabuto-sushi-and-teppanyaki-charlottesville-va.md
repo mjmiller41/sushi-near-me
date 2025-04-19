@@ -5,6 +5,11 @@ permalink: /virginia/charlottesville/kabuto-sushi-and-teppanyaki.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
+seo:
+  name: "Kabuto Sushi and Teppanyaki"
+  type: Restaurant
+  links: http://www.kabutosushipantops.com/
+description: "Looking for sushi in Charlottesville, Virginia? Check out Kabuto Sushi and Teppanyaki for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJhy6vxO-Is4kReLJSfMFCTXE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 359
 website: http://www.kabutosushipantops.com/
-description: null
 reviews:
   - name: >-
       places/ChIJhy6vxO-Is4kReLJSfMFCTXE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNib2MzazR3RRAB
@@ -345,5 +349,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

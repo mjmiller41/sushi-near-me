@@ -5,6 +5,11 @@ permalink: /colorado/highlands-ranch/tokyo-joe-s-hr-timberline.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Highlands Ranch
+seo:
+  name: "Tokyo Joe's - HR (Timberline)"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Highlands Ranch, Colorado? Check out Tokyo Joe's - HR (Timberline) for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJlzp9RvSEbIcRPuo0WN3dsms
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

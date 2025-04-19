@@ -5,6 +5,11 @@ permalink: /new-jersey/fort-lee/sushi-house.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Fort Lee
+seo:
+  name: "Sushi House 스시하우스"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Fort Lee, New Jersey? Check out Sushi House 스시하우스 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJpQpcuuj2wokRyg15qL_5raU
 photos:
   - name: >-
@@ -193,7 +198,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -220,5 +224,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

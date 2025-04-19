@@ -5,6 +5,11 @@ permalink: /california/san-leandro/bonchon-san-leandro.html
 stateAbbr: CA
 stateName: California
 cityName: San Leandro
+seo:
+  name: "Bonchon San Leandro"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Leandro, California? Check out Bonchon San Leandro for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJaazAoGiPj4ARTT2e_x6luoo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

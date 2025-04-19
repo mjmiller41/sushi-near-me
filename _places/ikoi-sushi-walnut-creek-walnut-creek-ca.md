@@ -5,6 +5,11 @@ permalink: /california/walnut-creek/ikoi-sushi-walnut-creek.html
 stateAbbr: CA
 stateName: California
 cityName: Walnut Creek
+seo:
+  name: "IKOI Sushi -- Walnut Creek"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Walnut Creek, California? Check out IKOI Sushi -- Walnut Creek for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJWzDjWZVhhYARt0etOKzCc60
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

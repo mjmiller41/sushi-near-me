@@ -5,6 +5,11 @@ permalink: /alaska/anchorage/ronnie-2-sushi.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Anchorage
+seo:
+  name: "Ronnie 2 Sushi"
+  type: Restaurant
+  links: https://ronnie2.com/
+description: "Looking for sushi in Anchorage, Alaska? Check out Ronnie 2 Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJxcDwQqKWyFYRIkTmj-QO59A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 898
 website: https://ronnie2.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

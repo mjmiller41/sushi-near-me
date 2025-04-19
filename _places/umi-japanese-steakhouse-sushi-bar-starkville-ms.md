@@ -5,6 +5,11 @@ permalink: /mississippi/starkville/umi-japanese-steakhouse-sushi-bar.html
 stateAbbr: MS
 stateName: Mississippi
 cityName: Starkville
+seo:
+  name: "Umi Japanese Steakhouse & Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Starkville, Mississippi? Check out Umi Japanese Steakhouse & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of s..."
 place_id: ChIJ1U8ce0A1gYgRf7rMvzJc5U8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/los-angeles/ichijiku-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Ichijiku Sushi"
+  type: Restaurant
+  links: http://www.ichijikusushi.com/
+description: "Looking for sushi in Los Angeles, California? Check out Ichijiku Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJITUyY_vFwoARlZsDgNS-TzY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 75
 website: http://www.ichijikusushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

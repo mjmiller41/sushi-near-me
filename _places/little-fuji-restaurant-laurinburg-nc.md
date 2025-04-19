@@ -5,6 +5,11 @@ permalink: /north-carolina/laurinburg/little-fuji-restaurant.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Laurinburg
+seo:
+  name: "Little Fuji Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Laurinburg, North Carolina? Check out Little Fuji Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJ3ZCEmGUpVYgRQIcSpWCMId8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 309
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJ3ZCEmGUpVYgRQIcSpWCMId8/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3MVBmLXZBRRAB
@@ -357,5 +361,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

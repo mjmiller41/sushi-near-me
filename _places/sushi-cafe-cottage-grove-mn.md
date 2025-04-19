@@ -5,6 +5,11 @@ permalink: /minnesota/cottage-grove/sushi-cafe.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Cottage Grove
+seo:
+  name: "Sushi Café"
+  type: Restaurant
+  links: http://sushicafemn.com/
+description: "Looking for sushi in Cottage Grove, Minnesota? Check out Sushi Café for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJmSPuNULQ94cRHSDzpXfnzKo
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 258
 website: http://sushicafemn.com/
-description: null
 reviews:
   - name: >-
       places/ChIJmSPuNULQ94cRHSDzpXfnzKo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdS1XOTRBRRAB
@@ -460,5 +464,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

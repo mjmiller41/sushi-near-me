@@ -5,6 +5,11 @@ permalink: /california/oakland/delage.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
+seo:
+  name: "Delage"
+  type: Restaurant
+  links: http://www.delage-oakland.com/
+description: "Looking for sushi in Oakland, California? Check out Delage for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJ7yAjSreAj4ARO3EqGPi6rZU
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 250
 website: http://www.delage-oakland.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

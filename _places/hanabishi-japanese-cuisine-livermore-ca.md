@@ -5,6 +5,11 @@ permalink: /california/livermore/hanabishi-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Livermore
+seo:
+  name: "Hanabishi Japanese Cuisine"
+  type: Restaurant
+  links: http://www.hanabishi-restaurant.com/
+description: "Looking for sushi in Livermore, California? Check out Hanabishi Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJsWQvA77nj4AR_kZCf64gg0s
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 95
 website: http://www.hanabishi-restaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

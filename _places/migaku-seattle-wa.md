@@ -5,6 +5,11 @@ permalink: /washington/seattle/migaku.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "MIGAKU"
+  type: Restaurant
+  links: https://migaku-seattle.com/
+description: "Looking for sushi in Seattle, Washington? Check out MIGAKU for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJ3cWntM0VkFQRMmfWXCvfCmE
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 105
 website: https://migaku-seattle.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -203,5 +207,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

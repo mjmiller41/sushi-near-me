@@ -5,6 +5,11 @@ permalink: /michigan/rockford/kawa-sushi-and-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Rockford
+seo:
+  name: "Kawa Sushi and Grill"
+  type: Restaurant
+  links: http://www.kawarockford.com/
+description: "Looking for sushi in Rockford, Michigan? Check out Kawa Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJLX_rnPr_GIgRMWK9NLvZzX8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 450
 website: http://www.kawarockford.com/
-description: null
 reviews:
   - name: >-
       places/ChIJLX_rnPr_GIgRMWK9NLvZzX8/reviews/ChZDSUhNMG9nS0VJQ0FnTURnb0k3allREAE
@@ -416,5 +420,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

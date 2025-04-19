@@ -330,6 +330,12 @@ svg.icon {
       justify-content: flex-start;
     }
 
+    .website {
+      display: flex;
+      align-items: center;
+      gap: $base-gap;
+    }
+
     .maps-links {
       display: flex;
       align-items: center;

@@ -5,6 +5,11 @@ permalink: /new-york/new-york/kenka.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "KENKA"
+  type: Restaurant
+  links: null
+description: "Japanese restaurant known for street-food-style fare & inexpensive beer, along with flashy decor. Looking for sushi in New York, New York? Check out KENKA fo..."
 place_id: ChIJiRfje5xZwokR474atxPrCwE
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 1824
 website: null
-description: >-
-  Japanese restaurant known for street-food-style fare & inexpensive beer, along
-  with flashy decor.
 reviews:
   - name: >-
       places/ChIJiRfje5xZwokR474atxPrCwE/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3NTlqVDdnRRAB
@@ -503,5 +505,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese restaurant known for street-food-style fare & inexpensive beer, along
+  with flashy decor.
 
 ---

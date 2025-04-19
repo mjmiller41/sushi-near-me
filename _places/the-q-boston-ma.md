@@ -5,6 +5,11 @@ permalink: /massachusetts/boston/the-q.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
+seo:
+  name: "The Q"
+  type: Restaurant
+  links: https://www.thequsa.com/?y_source=1_OTM1MjkzMjgtNzE1LWxvY2F0aW9uLndlYnNpdGU=
+description: "Mongolian hot pots share a menu of sushi & Chinese dishes at this hip airy eatery & lounge. Looking for sushi in Boston, Massachusetts? Check out The Q for a..."
 place_id: ChIJF9jb7Hd644kRXiZZ_FXCqX4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 2952
 website: https://www.thequsa.com/?y_source=1_OTM1MjkzMjgtNzE1LWxvY2F0aW9uLndlYnNpdGU=
-description: >-
-  Mongolian hot pots share a menu of sushi & Chinese dishes at this hip airy
-  eatery & lounge.
 reviews:
   - name: >-
       places/ChIJF9jb7Hd644kRXiZZ_FXCqX4/reviews/ChZDSUhNMG9nS0VJQ0FnSURfcTc3OEVnEAE
@@ -423,5 +425,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Mongolian hot pots share a menu of sushi & Chinese dishes at this hip airy
+  eatery & lounge.
 
 ---

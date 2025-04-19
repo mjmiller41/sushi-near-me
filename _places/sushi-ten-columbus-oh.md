@@ -5,6 +5,11 @@ permalink: /ohio/columbus/sushi-ten.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
+seo:
+  name: "Sushi Ten"
+  type: Restaurant
+  links: https://sushiten.japanmarketplace.com/
+description: "Market-based sushi spot with an extensive menu of raw fish & rolls plus poke, edamame & miso soup. Looking for sushi in Columbus, Ohio? Check out Sushi Ten f..."
 place_id: ChIJk2BtvaSNOIgRLlLzt9uNiHs
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 505
 website: https://sushiten.japanmarketplace.com/
-description: >-
-  Market-based sushi spot with an extensive menu of raw fish & rolls plus poke,
-  edamame & miso soup.
 reviews:
   - name: >-
       places/ChIJk2BtvaSNOIgRLlLzt9uNiHs/reviews/ChdDSUhNMG9nS0VJQ0FnSURiLXFxQ3h3RRAB
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Market-based sushi spot with an extensive menu of raw fish & rolls plus poke,
+  edamame & miso soup.
 
 ---

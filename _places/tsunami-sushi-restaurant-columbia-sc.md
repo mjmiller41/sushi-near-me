@@ -5,6 +5,11 @@ permalink: /south-carolina/columbia/tsunami-sushi-restaurant.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Columbia
+seo:
+  name: "Tsunami Sushi Restaurant"
+  type: Restaurant
+  links: https://sites.google.com/view/tsunami-vista/home
+description: "Looking for sushi in Columbia, South Carolina? Check out Tsunami Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJzd4veC67-IgRilQne4jQNzs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 1115
 website: https://sites.google.com/view/tsunami-vista/home
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

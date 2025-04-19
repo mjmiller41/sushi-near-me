@@ -5,6 +5,11 @@ permalink: /florida/orlando/oishi-japanese-sushi-hibachi-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Oishi Japanese Sushi & Hibachi Restaurant"
+  type: Restaurant
+  links: https://www.oishiorlando.com/
+description: "Looking for sushi in Orlando, Florida? Check out Oishi Japanese Sushi & Hibachi Restaurant for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJM5jKSid-54gRmnqkuvp0TTk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 1758
 website: https://www.oishiorlando.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

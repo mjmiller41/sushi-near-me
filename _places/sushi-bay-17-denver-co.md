@@ -5,6 +5,11 @@ permalink: /colorado/denver/sushi-bay-17.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Sushi Bay 17"
+  type: Restaurant
+  links: https://www.sushibay17denverco.com/
+description: "Looking for sushi in Denver, Colorado? Check out Sushi Bay 17 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJHx_A8zR5bIcRAatKtim5xpY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 585
 website: https://www.sushibay17denverco.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/dallas/poke-bop.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
+seo:
+  name: "Poke Bop"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Dallas, Texas? Check out Poke Bop for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
 place_id: ChIJr-_PzmOfToYRtDV1XJhMs1c
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

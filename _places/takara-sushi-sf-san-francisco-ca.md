@@ -5,6 +5,11 @@ permalink: /california/san-francisco/takara-sushi-sf.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Takara Sushi SF"
+  type: Restaurant
+  links: https://tekkamakisushi.com/
+description: "Snug sushi bar & Japanese restaurant offering happy hour & lunch specials, takeout & delivery. Looking for sushi in San Francisco, California? Check out Taka..."
 place_id: ChIJI3qY6gR-j4ARZ3tFMyvyAK0
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: null
 rating: '4.5'
 rating_count: 233
 website: https://tekkamakisushi.com/
-description: >-
-  Snug sushi bar & Japanese restaurant offering happy hour & lunch specials,
-  takeout & delivery.
 reviews:
   - name: >-
       places/ChIJI3qY6gR-j4ARZ3tFMyvyAK0/reviews/ChZDSUhNMG9nS0VJQ0FnSURfLXJMeVhREAE
@@ -402,5 +404,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Snug sushi bar & Japanese restaurant offering happy hour & lunch specials,
+  takeout & delivery.
 
 ---

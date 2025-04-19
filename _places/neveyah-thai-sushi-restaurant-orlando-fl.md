@@ -5,6 +5,11 @@ permalink: /florida/orlando/neveyah-thai-sushi-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Neveyah Thai & Sushi Restaurant"
+  type: Restaurant
+  links: https://www.neveyahsushi.com/
+description: "Casual family-operated restaurant preparing classic Thai dishes as well as specialty sushi rolls. Looking for sushi in Orlando, Florida? Check out Neveyah Th..."
 place_id: ChIJt7m8V-J654gRfBSvZCfb-mo
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1036
 website: https://www.neveyahsushi.com/
-description: >-
-  Casual family-operated restaurant preparing classic Thai dishes as well as
-  specialty sushi rolls.
 reviews:
   - name: >-
       places/ChIJt7m8V-J654gRfBSvZCfb-mo/reviews/ChZDSUhNMG9nS0VJQ0FnSURIdXF5U1h3EAE
@@ -433,5 +435,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual family-operated restaurant preparing classic Thai dishes as well as
+  specialty sushi rolls.
 
 ---

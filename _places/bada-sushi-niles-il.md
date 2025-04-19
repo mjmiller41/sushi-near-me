@@ -5,6 +5,11 @@ permalink: /illinois/niles/bada-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Niles
+seo:
+  name: "Bada sushi"
+  type: Restaurant
+  links: https://www.badasushi.com/
+description: "Looking for sushi in Niles, Illinois? Check out Bada sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJ40aPF_jJD4gRlcioLhAzAjc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.1'
 rating_count: 119
 website: https://www.badasushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ40aPF_jJD4gRlcioLhAzAjc/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2OV9UQ3FBRRAB
@@ -441,5 +445,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: null
 
 ---

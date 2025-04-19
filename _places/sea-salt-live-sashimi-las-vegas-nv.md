@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/sea-salt-live-sashimi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "라스베가스 횟집/활어(Sea Salt Live Sashimi)"
+  type: Restaurant
+  links: http://www.seasaltlivesashimi.com/
+description: "Looking for sushi in Las Vegas, Nevada? Check out 라스베가스 횟집/활어(Sea Salt Live Sashimi) for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJl5qW-a_GyIAR46Q96cWxHp8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 280
 website: http://www.seasaltlivesashimi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

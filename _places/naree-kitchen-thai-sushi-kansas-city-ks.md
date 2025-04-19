@@ -5,6 +5,11 @@ permalink: /kansas/kansas-city/naree-kitchen-thai-sushi.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Kansas City
+seo:
+  name: "Naree Kitchen Thai & Sushi"
+  type: Restaurant
+  links: http://www.nareekitchen.com/
+description: "Looking for sushi in Kansas City, Kansas? Check out Naree Kitchen Thai & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJnfPj7RyNwIcRZqGNChvNvFs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 764
 website: http://www.nareekitchen.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

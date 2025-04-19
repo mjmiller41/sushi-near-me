@@ -5,6 +5,11 @@ permalink: /pennsylvania/lancaster/genki-sushi-and-grill.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
+seo:
+  name: "Genki sushi and grill"
+  type: Restaurant
+  links: http://www.genkisushiandgrill.com/
+description: "Looking for sushi in Lancaster, Pennsylvania? Check out Genki sushi and grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJRaxQArUjxokR2JhU-KOt5pQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.9'
 rating_count: 298
 website: http://www.genkisushiandgrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

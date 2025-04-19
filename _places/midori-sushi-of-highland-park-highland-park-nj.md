@@ -5,6 +5,11 @@ permalink: /new-jersey/highland-park/midori-sushi-of-highland-park.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Highland Park
+seo:
+  name: "Midori Sushi Of Highland Park"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Highland Park, New Jersey? Check out Midori Sushi Of Highland Park for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJf9f_nErGw4kRJfewsYBWc0E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

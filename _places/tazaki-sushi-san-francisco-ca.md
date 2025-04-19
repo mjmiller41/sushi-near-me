@@ -5,6 +5,11 @@ permalink: /california/san-francisco/tazaki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Tazaki Sushi"
+  type: Restaurant
+  links: http://tazakisushisf.com/
+description: "Casual, family-owned Japanese restaurant serving sushi, noodles & cooked fare amid typical decor. Looking for sushi in San Francisco, California? Check out T..."
 place_id: ChIJfwCq65uHhYARmkkict06u5s
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 311
 website: http://tazakisushisf.com/
-description: >-
-  Casual, family-owned Japanese restaurant serving sushi, noodles & cooked fare
-  amid typical decor.
 reviews:
   - name: >-
       places/ChIJfwCq65uHhYARmkkict06u5s/reviews/ChdDSUhNMG9nS0VJQ0FnSURwOGJqS3B3RRAB
@@ -508,5 +510,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Casual, family-owned Japanese restaurant serving sushi, noodles & cooked fare
+  amid typical decor.
 
 ---

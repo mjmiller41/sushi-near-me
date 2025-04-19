@@ -5,6 +5,11 @@ permalink: /california/san-francisco/handroll-project.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Handroll Project"
+  type: Restaurant
+  links: https://www.handrollproject.com/
+description: "Looking for sushi in San Francisco, California? Check out Handroll Project for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJpbpAXz9_j4ARxhsZJbZpa-w
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.1'
 rating_count: 204
 website: https://www.handrollproject.com/
-description: null
 reviews:
   - name: >-
       places/ChIJpbpAXz9_j4ARxhsZJbZpa-w/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBOWFUOV9nRRAB
@@ -391,5 +395,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

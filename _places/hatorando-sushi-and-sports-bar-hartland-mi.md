@@ -5,6 +5,11 @@ permalink: /michigan/hartland/hatorando-sushi-and-sports-bar.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Hartland
+seo:
+  name: "Hatorando Sushi and Sports Bar"
+  type: Restaurant
+  links: http://hatorandosushi.com/
+description: "Looking for sushi in Hartland, Michigan? Check out Hatorando Sushi and Sports Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJzS8w7TZdI4gRfUBBc1fMngU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 476
 website: http://hatorandosushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJzS8w7TZdI4gRfUBBc1fMngU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBNTdxTEt3EAE
@@ -359,5 +363,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

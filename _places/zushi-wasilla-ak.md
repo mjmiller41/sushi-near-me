@@ -5,6 +5,11 @@ permalink: /alaska/wasilla/zushi.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Wasilla
+seo:
+  name: "Zushi"
+  type: Restaurant
+  links: http://www.zushialaska.com/
+description: "Looking for sushi in Wasilla, Alaska? Check out Zushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJGcWPCxneyFYRfF73tue_3Eg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 332
 website: http://www.zushialaska.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

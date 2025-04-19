@@ -5,6 +5,11 @@ permalink: /nevada/sparks/tha-joint-sushi-grill.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Sparks
+seo:
+  name: "Tha Joint Sushi & Grill"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Sparks, Nevada? Check out Tha Joint Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJWeonEwA5mYARqMAS_0S31CU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /washington/kent/sushinola-sushi-y-marisco-estilo-sinaloa.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kent
+seo:
+  name: "SUSHINOLA Sushi y Marisco estilo Sinaloa."
+  type: Restaurant
+  links: http://sushinolakent.com/
+description: "Looking for sushi in Kent, Washington? Check out SUSHINOLA Sushi y Marisco estilo Sinaloa. for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJEcQkoDRakFQRgosC_NdBn3k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 514
 website: http://sushinolakent.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

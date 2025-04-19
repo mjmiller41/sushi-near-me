@@ -5,6 +5,11 @@ permalink: /california/los-osos/kuma.html
 stateAbbr: CA
 stateName: California
 cityName: Los Osos
+seo:
+  name: "Kuma."
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Los Osos, California? Check out Kuma. for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJ52tUXwnj7IAR3QINJmy-JMk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

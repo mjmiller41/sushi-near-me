@@ -5,6 +5,11 @@ permalink: /pennsylvania/bridgeville/new-dragon-express.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bridgeville
+seo:
+  name: "New Dragon Express"
+  type: Restaurant
+  links: http://www.newdragonexpress.com/
+description: "Looking for sushi in Bridgeville, Pennsylvania? Check out New Dragon Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJz4_9nMNXNIgRWTufdHAZ2DU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 443
 website: http://www.newdragonexpress.com/
-description: null
 reviews:
   - name: >-
       places/ChIJz4_9nMNXNIgRWTufdHAZ2DU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRb2RYR0NnEAE
@@ -373,5 +377,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

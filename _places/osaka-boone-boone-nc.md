@@ -5,6 +5,11 @@ permalink: /north-carolina/boone/osaka-boone.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Boone
+seo:
+  name: "Osaka Boone"
+  type: Restaurant
+  links: https://www.ezordernow.com/osakaboone
+description: "Looking for sushi in Boone, North Carolina? Check out Osaka Boone for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJIUz15lr6UIgRpluDNnF-6Ys
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.7'
 rating_count: 374
 website: https://www.ezordernow.com/osakaboone
-description: null
 reviews:
   - name: >-
       places/ChIJIUz15lr6UIgRpluDNnF-6Ys/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcU11VWdnRRAB
@@ -351,5 +355,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

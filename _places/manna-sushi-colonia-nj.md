@@ -5,6 +5,11 @@ permalink: /new-jersey/colonia/manna-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Colonia
+seo:
+  name: "Manna Sushi"
+  type: Restaurant
+  links: http://www.mannasushicolonia.com/
+description: "Looking for sushi in Colonia, New Jersey? Check out Manna Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJx_AK3MO3w4kR5FLoOAJZmcU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 244
 website: http://www.mannasushicolonia.com/
-description: null
 reviews:
   - name: >-
       places/ChIJx_AK3MO3w4kR5FLoOAJZmcU/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3enNXc3BBRRAB
@@ -352,5 +356,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

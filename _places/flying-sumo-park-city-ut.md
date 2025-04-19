@@ -5,6 +5,11 @@ permalink: /utah/park-city/flying-sumo.html
 stateAbbr: UT
 stateName: Utah
 cityName: Park City
+seo:
+  name: "Flying Sumo"
+  type: Restaurant
+  links: http://www.flyingsumosushi.com/
+description: "Looking for sushi in Park City, Utah? Check out Flying Sumo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJKTxPn6JyUocRcfN7vIAUchw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 377
 website: http://www.flyingsumosushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

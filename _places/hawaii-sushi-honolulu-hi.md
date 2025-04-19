@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/hawaii-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Hawaii Sushi"
+  type: Restaurant
+  links: https://hawaii-sushi.square.site/
+description: "Looking for sushi in Honolulu, Hawaii? Check out Hawaii Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJsbry8nxyAHwRnXRDGIlIrpU
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 455
 website: https://hawaii-sushi.square.site/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

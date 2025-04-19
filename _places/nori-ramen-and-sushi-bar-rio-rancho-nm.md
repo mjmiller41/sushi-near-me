@@ -5,6 +5,11 @@ permalink: /new-mexico/rio-rancho/nori-ramen-and-sushi-bar.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Rio Rancho
+seo:
+  name: "Nori Ramen and Sushi Bar"
+  type: Restaurant
+  links: https://selflane.com/bizs/nori-ramen-and-sushi-bar_rio-rancho_nm
+description: "Looking for sushi in Rio Rancho, New Mexico? Check out Nori Ramen and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJx0hF8UFwIocRmtLYczRAvPM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 701
 website: https://selflane.com/bizs/nori-ramen-and-sushi-bar_rio-rancho_nm
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

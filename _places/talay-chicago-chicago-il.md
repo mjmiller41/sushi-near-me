@@ -5,6 +5,11 @@ permalink: /illinois/chicago/talay-chicago.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Talay Chicago"
+  type: Restaurant
+  links: http://www.talaychicago.com/
+description: "An urbane spin-off of Park Ridge's Siam Thai serving both Thai standards & raw fish. Looking for sushi in Chicago, Illinois? Check out Talay Chicago for a de..."
 place_id: ChIJbbzspdgsDogRaDj3w09CTU0
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 394
 website: http://www.talaychicago.com/
-description: >-
-  An urbane spin-off of Park Ridge's Siam Thai serving both Thai standards & raw
-  fish.
 reviews:
   - name: >-
       places/ChIJbbzspdgsDogRaDj3w09CTU0/reviews/ChdDSUhNMG9nS0VJQ0FnTURJZ3BicHl3RRAB
@@ -384,5 +386,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  An urbane spin-off of Park Ridge's Siam Thai serving both Thai standards & raw
+  fish.
 
 ---

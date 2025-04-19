@@ -5,6 +5,11 @@ permalink: /tennessee/franklin/bodeli-sushi.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Franklin
+seo:
+  name: "Bodeli Sushi"
+  type: Restaurant
+  links: http://www.bodelisushi.com/
+description: "Japanese dishes, maki & imported beer offered in laid-back surrounds with ample sushi bar seating. Looking for sushi in Franklin, Tennessee? Check out Bodeli..."
 place_id: ChIJTbuT5F15ZIgRDYMWj-QwUCQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 515
 website: http://www.bodelisushi.com/
-description: >-
-  Japanese dishes, maki & imported beer offered in laid-back surrounds with
-  ample sushi bar seating.
 reviews:
   - name: >-
       places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJenJDYUVBEAE
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese dishes, maki & imported beer offered in laid-back surrounds with
+  ample sushi bar seating.
 
 ---

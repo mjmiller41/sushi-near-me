@@ -5,6 +5,11 @@ permalink: /south-carolina/columbia/takosushi.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Columbia
+seo:
+  name: "Takosushi"
+  type: Restaurant
+  links: http://www.tako-sushi.com/
+description: "Looking for sushi in Columbia, South Carolina? Check out Takosushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJD0xuuSu7-IgRRPLobupE2UY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 711
 website: http://www.tako-sushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /virginia/chantilly/yaki-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chantilly
+seo:
+  name: "Yaki Sushi"
+  type: Restaurant
+  links: http://www.yakisushius.com/
+description: "Looking for sushi in Chantilly, Virginia? Check out Yaki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJmd6JgapHtokRyylCm-sf6DU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 461
 website: http://www.yakisushius.com/
-description: null
 reviews:
   - name: >-
       places/ChIJmd6JgapHtokRyylCm-sf6DU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnX29xWkhREAE
@@ -404,5 +408,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

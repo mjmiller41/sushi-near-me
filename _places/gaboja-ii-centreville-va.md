@@ -5,6 +5,11 @@ permalink: /virginia/centreville/gaboja-ii.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Centreville
+seo:
+  name: "Gaboja II"
+  type: Restaurant
+  links: https://www.centrevillegaboja.com/
+description: "Looking for sushi in Centreville, Virginia? Check out Gaboja II for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJ29QbjNVFtokRByJoLJnJcMo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '3.5'
 rating_count: 154
 website: https://www.centrevillegaboja.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ29QbjNVFtokRByJoLJnJcMo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMNTV2S2hnRRAB
@@ -393,5 +397,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

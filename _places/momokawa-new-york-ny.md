@@ -5,6 +5,11 @@ permalink: /new-york/new-york/momokawa.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Momokawa"
+  type: Restaurant
+  links: http://www.momokawanyc.com/
+description: "Traditional techniques are used at this compact local restaurant for Japanese favorites. Looking for sushi in New York, New York? Check out Momokawa for a de..."
 place_id: ChIJc_k9q8BYwokR_h64b37WXD8
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 418
 website: http://www.momokawanyc.com/
-description: >-
-  Traditional techniques are used at this compact local restaurant for Japanese
-  favorites.
 reviews:
   - name: >-
       places/ChIJc_k9q8BYwokR_h64b37WXD8/reviews/ChdDSUhNMG9nS0VJQ0FnTURBcmJHaGt3RRAB
@@ -418,5 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Traditional techniques are used at this compact local restaurant for Japanese
+  favorites.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/ridgewood/e-chiban-asian.html
 stateAbbr: NY
 stateName: New York
 cityName: Ridgewood
+seo:
+  name: "E-Chiban Asian"
+  type: Restaurant
+  links: http://www.e-chibanny.com/
+description: "Casual choice dispensing an eclectic menu of Chinese, Thai & Japanese eats, including sushi. Looking for sushi in Ridgewood, New York? Check out E-Chiban Asi..."
 place_id: ChIJPYNsm4NewokReFWl6Dr7sYU
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 208
 website: http://www.e-chibanny.com/
-description: >-
-  Casual choice dispensing an eclectic menu of Chinese, Thai & Japanese eats,
-  including sushi.
 reviews:
   - name: >-
       places/ChIJPYNsm4NewokReFWl6Dr7sYU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPdHVIVnpnRRAB
@@ -360,5 +362,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual choice dispensing an eclectic menu of Chinese, Thai & Japanese eats,
+  including sushi.
 
 ---

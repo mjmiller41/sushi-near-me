@@ -5,6 +5,11 @@ permalink: /oregon/portland/mizu-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
+seo:
+  name: "Mizu Sushi"
+  type: Restaurant
+  links: http://mizusuhi.weebly.com/
+description: "Looking for sushi in Portland, Oregon? Check out Mizu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJRe_jyxEKlVQRAiKGn-d3lqI
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 198
 website: http://mizusuhi.weebly.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /utah/south-jordan/blue-fish-sushi-bar-all-you-can-eat-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: South Jordan
+seo:
+  name: "Blue Fish Sushi Bar (All You Can Eat Sushi)"
+  type: Restaurant
+  links: https://www.bluefishutah.com/
+description: "Looking for sushi in South Jordan, Utah? Check out Blue Fish Sushi Bar (All You Can Eat Sushi) for a delightful Japanese dining experience. Enjoy a variety o..."
 place_id: ChIJUwnNgJaFUocR29LYLBIbM3g
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 994
 website: https://www.bluefishutah.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

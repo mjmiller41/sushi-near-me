@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/nooshi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Nooshi"
+  type: Restaurant
+  links: http://www.nooshidc.com/
+description: "Contemporary outfit fixing up Asian specialties like sushi, noodles & spring rolls, plus cocktails. Looking for sushi in Washington, District of Columbia? Ch..."
 place_id: ChIJUUIrNbi3t4kRPxF3_OEM4Ts
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.nooshidc.com/
-description: >-
-  Contemporary outfit fixing up Asian specialties like sushi, noodles & spring
-  rolls, plus cocktails.
 reviews:
   - name: >-
       places/ChIJUUIrNbi3t4kRPxF3_OEM4Ts/reviews/ChZDSUhNMG9nS0VJQ0FnSURmdk91OUNnEAE
@@ -360,5 +362,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Contemporary outfit fixing up Asian specialties like sushi, noodles & spring
+  rolls, plus cocktails.
 
 ---

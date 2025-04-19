@@ -5,6 +5,11 @@ permalink: /washington/maple-valley/sumo-sushi-maple-valley.html
 stateAbbr: WA
 stateName: Washington
 cityName: Maple Valley
+seo:
+  name: "Sumo Sushi Maple Valley"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Maple Valley, Washington? Check out Sumo Sushi Maple Valley for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJuYTAL11gkFQRbWjpYVJpgF4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

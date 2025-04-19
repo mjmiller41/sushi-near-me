@@ -5,6 +5,11 @@ permalink: /california/livermore/tommy-katsu-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Livermore
+seo:
+  name: "Tommy Katsu Sushi & Grill"
+  type: Restaurant
+  links: http://www.tommykatsu.com/
+description: "Looking for sushi in Livermore, California? Check out Tommy Katsu Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJH66patLnj4ARnSQg5QTzE-Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 192
 website: http://www.tommykatsu.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

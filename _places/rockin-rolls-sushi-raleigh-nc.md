@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/rockin-rolls-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Rockin' Rolls Sushi"
+  type: Restaurant
+  links: https://www.rockinrollssushi.com/
+description: "Looking for sushi in Raleigh, North Carolina? Check out Rockin' Rolls Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJM2_tBO5XrIkR06SVSGIp_7U
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 2083
 website: https://www.rockinrollssushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

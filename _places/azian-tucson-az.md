@@ -5,6 +5,11 @@ permalink: /arizona/tucson/azian.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
+seo:
+  name: "Azian"
+  type: Restaurant
+  links: http://www.aziansushi.com/
+description: "Looking for sushi in Tucson, Arizona? Check out Azian for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJZ-UC8SVw1oYRt7YD0Cq70G8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.6'
 rating_count: 1315
 website: http://www.aziansushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

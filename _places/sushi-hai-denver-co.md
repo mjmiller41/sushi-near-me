@@ -5,6 +5,11 @@ permalink: /colorado/denver/sushi-hai.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Sushi Hai"
+  type: Restaurant
+  links: https://sushihai.com/
+description: "Looking for sushi in Denver, Colorado? Check out Sushi Hai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJC5x402KHa4cRyDdbfVDXrog
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 1296
 website: https://sushihai.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

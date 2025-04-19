@@ -5,6 +5,11 @@ permalink: /florida/brandon/sushi-maru.html
 stateAbbr: FL
 stateName: Florida
 cityName: Brandon
+seo:
+  name: "Sushi Maru"
+  type: Restaurant
+  links: https://brandonsushimaru.com/
+description: "Chic spot in a strip mall with clever sushi rolls & other Japanese & Korean fare, plus sake flights. Looking for sushi in Brandon, Florida? Check out Sushi M..."
 place_id: ChIJv8-wBmTOwogRvi5bHHuMaI8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 1366
 website: https://brandonsushimaru.com/
-description: >-
-  Chic spot in a strip mall with clever sushi rolls & other Japanese & Korean
-  fare, plus sake flights.
 reviews:
   - name: >-
       places/ChIJv8-wBmTOwogRvi5bHHuMaI8/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbnZXQm93RRAB
@@ -369,5 +371,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Chic spot in a strip mall with clever sushi rolls & other Japanese & Korean
+  fare, plus sake flights.
 
 ---

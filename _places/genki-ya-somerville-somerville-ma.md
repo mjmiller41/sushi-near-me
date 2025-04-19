@@ -5,6 +5,11 @@ permalink: /massachusetts/somerville/genki-ya-somerville.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Somerville
+seo:
+  name: "Genki Ya - Somerville"
+  type: Restaurant
+  links: https://www.genkiyasushi.com/
+description: "Looking for sushi in Somerville, Massachusetts? Check out Genki Ya - Somerville for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJqxQaeSF344kRSBzmUFgBY7k
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 229
 website: https://www.genkiyasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

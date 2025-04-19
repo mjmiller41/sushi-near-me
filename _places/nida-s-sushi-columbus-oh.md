@@ -5,6 +5,11 @@ permalink: /ohio/columbus/nida-s-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
+seo:
+  name: "Nida's Sushi"
+  type: Restaurant
+  links: https://www.nidasushinorthmarket.com/
+description: "Southeast Asian fare & cocktails offered in a colorful, contemporary setting with a sushi bar. Looking for sushi in Columbus, Ohio? Check out Nida's Sushi fo..."
 place_id: ChIJt3XuLiaPOIgRINqETmIaGL0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '2.9'
 rating_count: 105
 website: https://www.nidasushinorthmarket.com/
-description: >-
-  Southeast Asian fare & cocktails offered in a colorful, contemporary setting
-  with a sushi bar.
 reviews:
   - name: >-
       places/ChIJt3XuLiaPOIgRINqETmIaGL0/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3aDh6RGZnEAE
@@ -362,5 +364,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Southeast Asian fare & cocktails offered in a colorful, contemporary setting
+  with a sushi bar.
 
 ---

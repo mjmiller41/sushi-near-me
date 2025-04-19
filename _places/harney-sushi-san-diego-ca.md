@@ -5,6 +5,11 @@ permalink: /california/san-diego/harney-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Harney Sushi"
+  type: Restaurant
+  links: http://www.harneysushi.com/
+description: "Modern outfit with a buzzy vibe offering creative sushi rolls & other Japanese fare. Looking for sushi in San Diego, California? Check out Harney Sushi for a..."
 place_id: ChIJtzf1QN6q3oARuVMH-L_HHTs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 1345
 website: http://www.harneysushi.com/
-description: >-
-  Modern outfit with a buzzy vibe offering creative sushi rolls & other Japanese
-  fare.
 reviews:
   - name: >-
       places/ChIJtzf1QN6q3oARuVMH-L_HHTs/reviews/ChZDSUhNMG9nS0VJQ0FnTURnNzRlNVhBEAE
@@ -424,5 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern outfit with a buzzy vibe offering creative sushi rolls & other Japanese
+  fare.
 
 ---

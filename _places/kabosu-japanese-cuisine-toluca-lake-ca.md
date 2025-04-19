@@ -5,6 +5,11 @@ permalink: /california/toluca-lake/kabosu-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Toluca Lake
+seo:
+  name: "Kabosu Japanese Cuisine"
+  type: Restaurant
+  links: https://www.yuzuya-corporation.com/
+description: "Casual Japanese eatery with a broad menu of sushi, teriyaki & tempura, plus hot pots. Looking for sushi in Toluca Lake, California? Check out Kabosu Japanese..."
 place_id: ChIJ-_Uz8jG-woARA7ciWzkkvvs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 295
 website: https://www.yuzuya-corporation.com/
-description: >-
-  Casual Japanese eatery with a broad menu of sushi, teriyaki & tempura, plus
-  hot pots.
 reviews:
   - name: >-
       places/ChIJ-_Uz8jG-woARA7ciWzkkvvs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdFlySE93EAE
@@ -445,5 +447,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Casual Japanese eatery with a broad menu of sushi, teriyaki & tempura, plus
+  hot pots.
 
 ---

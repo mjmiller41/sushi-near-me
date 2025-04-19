@@ -5,6 +5,11 @@ permalink: /arizona/mesa/teharu-sushi-mesa.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Mesa
+seo:
+  name: "Teharu Sushi Mesa"
+  type: Restaurant
+  links: https://teharu.com/
+description: "Looking for sushi in Mesa, Arizona? Check out Teharu Sushi Mesa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJhy2RBDWuK4cR6PBBVOOYJz0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 1843
 website: https://teharu.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

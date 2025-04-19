@@ -5,6 +5,11 @@ permalink: /texas/mt-pleasant/maak-sushi-woks.html
 stateAbbr: TX
 stateName: Texas
 cityName: Mt Pleasant
+seo:
+  name: "MAAK: Sushi & Woks"
+  type: Restaurant
+  links: https://themaak.com/
+description: "Looking for sushi in Mt Pleasant, Texas? Check out MAAK: Sushi & Woks for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJvzxaCQf6NYYR1FvlimWZqcY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 377
 website: https://themaak.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

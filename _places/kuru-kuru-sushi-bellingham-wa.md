@@ -5,6 +5,11 @@ permalink: /washington/bellingham/kuru-kuru-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellingham
+seo:
+  name: "Kuru Kuru Sushi"
+  type: Restaurant
+  links: http://www.kurukurubellingham.com/
+description: "Looking for sushi in Bellingham, Washington? Check out Kuru Kuru Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJbxdSb6ajhVQRLL3LSASiGwc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 931
 website: http://www.kurukurubellingham.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

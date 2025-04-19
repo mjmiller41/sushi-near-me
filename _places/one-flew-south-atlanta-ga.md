@@ -5,6 +5,11 @@ permalink: /georgia/atlanta/one-flew-south.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
+seo:
+  name: "One Flew South"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Atlanta, Georgia? Check out One Flew South for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJAbesjs7i9IgRBbfTAGxbrHk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /florida/tallahassee/sado-mori-japanese-steak-house.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tallahassee
+seo:
+  name: "Sado Mori Japanese Steak House"
+  type: Restaurant
+  links: null
+description: "Special-occasion Japanese steakhouse offering high-energy hibachi dining, sushi & classic dishes. Looking for sushi in Tallahassee, Florida? Check out Sado M..."
 place_id: ChIJoX9oHMT17IgRxFvvy91gdog
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 309
 website: null
-description: >-
-  Special-occasion Japanese steakhouse offering high-energy hibachi dining,
-  sushi & classic dishes.
 reviews:
   - name: >-
       places/ChIJoX9oHMT17IgRxFvvy91gdog/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiLWR2NUxBEAE
@@ -397,5 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Special-occasion Japanese steakhouse offering high-energy hibachi dining,
+  sushi & classic dishes.
 
 ---

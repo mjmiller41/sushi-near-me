@@ -5,6 +5,11 @@ permalink: /illinois/wilmette/ao-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Wilmette
+seo:
+  name: "AO Sushi"
+  type: Restaurant
+  links: http://aosushi.com/
+description: "Snug stop with sushi to go & a few dine-in seats, plus a small Japanese grocery & fish market. Looking for sushi in Wilmette, Illinois? Check out AO Sushi fo..."
 place_id: ChIJR1upE7_FD4gRlj-4mRNqRRE
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 203
 website: http://aosushi.com/
-description: >-
-  Snug stop with sushi to go & a few dine-in seats, plus a small Japanese
-  grocery & fish market.
 reviews:
   - name: >-
       places/ChIJR1upE7_FD4gRlj-4mRNqRRE/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOXZmRW1nRRAB
@@ -384,5 +386,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: >-
+  Snug stop with sushi to go & a few dine-in seats, plus a small Japanese
+  grocery & fish market.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/berkeley/kamado-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
+seo:
+  name: "Kamado Sushi"
+  type: Restaurant
+  links: https://www.toasttab.com/kamado-sushi
+description: "Looking for sushi in Berkeley, California? Check out Kamado Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJVQJzjaZ-hYARjcbHqMLzNvs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 374
 website: https://www.toasttab.com/kamado-sushi
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

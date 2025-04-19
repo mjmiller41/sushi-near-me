@@ -5,6 +5,11 @@ permalink: /virginia/burke-centre/burke-fortune-house.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Burke Centre
+seo:
+  name: "Burke Fortune House"
+  type: Restaurant
+  links: https://www.facebook.com/Burke-Fortune-House-195764490464708/
+description: "Relaxed Japanese eatery serving sushi, noodles & teriyaki in a narrow, traditional space. Looking for sushi in Burke Centre, Virginia? Check out Burke Fortun..."
 place_id: ChIJecNpFONRtokR9sqXMb2Ypts
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 504
 website: https://www.facebook.com/Burke-Fortune-House-195764490464708/
-description: >-
-  Relaxed Japanese eatery serving sushi, noodles & teriyaki in a narrow,
-  traditional space.
 reviews:
   - name: >-
       places/ChIJecNpFONRtokR9sqXMb2Ypts/reviews/ChZDSUhNMG9nS0VJQ0FnTURRaEp6UkdnEAE
@@ -410,5 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed Japanese eatery serving sushi, noodles & teriyaki in a narrow,
+  traditional space.
 
 ---

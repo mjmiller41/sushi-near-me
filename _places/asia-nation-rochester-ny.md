@@ -5,6 +5,11 @@ permalink: /new-york/rochester/asia-nation.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
+seo:
+  name: "Asia Nation"
+  type: Restaurant
+  links: https://pos.chowbus.com/online-ordering/store/15208
+description: "Looking for sushi in Rochester, New York? Check out Asia Nation for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJO77WRQBT0YkRKxsnoMmxTOk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 117
 website: https://pos.chowbus.com/online-ordering/store/15208
-description: null
 reviews:
   - name: >-
       places/ChIJO77WRQBT0YkRKxsnoMmxTOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUMGZTb2hBRRAB
@@ -399,5 +403,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

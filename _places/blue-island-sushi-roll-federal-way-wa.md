@@ -5,6 +5,11 @@ permalink: /washington/federal-way/blue-island-sushi-roll.html
 stateAbbr: WA
 stateName: Washington
 cityName: Federal Way
+seo:
+  name: "Blue Island Sushi & Roll"
+  type: Restaurant
+  links: http://www.blueislandsushi.com/
+description: "Looking for sushi in Federal Way, Washington? Check out Blue Island Sushi & Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJr__HWchXkFQRW5RrrNfqZdM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 973
 website: http://www.blueislandsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

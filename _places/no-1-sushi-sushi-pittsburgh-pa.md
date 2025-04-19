@@ -5,6 +5,11 @@ permalink: /pennsylvania/pittsburgh/no-1-sushi-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
+seo:
+  name: "No. 1 Sushi Sushi"
+  type: Restaurant
+  links: http://no1sushisushii.com/
+description: "Unassuming Japanese eatery turning out basic & specialty sushi rolls along with miso soup & salads. Looking for sushi in Pittsburgh, Pennsylvania? Check out ..."
 place_id: ChIJKYXik1bxNIgRbgJ_mtNfjoM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 535
 website: http://no1sushisushii.com/
-description: >-
-  Unassuming Japanese eatery turning out basic & specialty sushi rolls along
-  with miso soup & salads.
 reviews:
   - name: >-
       places/ChIJKYXik1bxNIgRbgJ_mtNfjoM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmb2RlM3NnRRAB
@@ -418,5 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Unassuming Japanese eatery turning out basic & specialty sushi rolls along
+  with miso soup & salads.
 
 ---

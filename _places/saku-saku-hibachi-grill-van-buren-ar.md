@@ -5,6 +5,11 @@ permalink: /arkansas/van-buren/saku-saku-hibachi-grill.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Van Buren
+seo:
+  name: "Saku Saku Hibachi Grill"
+  type: Restaurant
+  links: https://m.facebook.com/sakusakuonwheels/?ref=content_filter
+description: "Looking for sushi in Van Buren, Arkansas? Check out Saku Saku Hibachi Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJZS191si1y4cR5JJS_wZnrww
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 566
 website: https://m.facebook.com/sakusakuonwheels/?ref=content_filter
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

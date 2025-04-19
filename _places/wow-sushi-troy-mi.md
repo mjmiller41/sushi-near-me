@@ -5,6 +5,11 @@ permalink: /michigan/troy/wow-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Troy
+seo:
+  name: "Wow Sushi"
+  type: Restaurant
+  links: https://wowsushitogo.com/
+description: "Low-key eatery prepping sushi, rolls & other Japanese dishes plus lunch specials. Looking for sushi in Troy, Michigan? Check out Wow Sushi for a delightful J..."
 place_id: ChIJZX-qaHvEJIgRKckziM6t_vc
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 481
 website: https://wowsushitogo.com/
-description: >-
-  Low-key eatery prepping sushi, rolls & other Japanese dishes plus lunch
-  specials.
 reviews:
   - name: >-
       places/ChIJZX-qaHvEJIgRKckziM6t_vc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRcjRXMFJREAE
@@ -354,5 +356,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Low-key eatery prepping sushi, rolls & other Japanese dishes plus lunch
+  specials.
 
 ---

@@ -5,6 +5,11 @@ permalink: /florida/clearwater/kitsune-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Clearwater
+seo:
+  name: "Kitsune Sushi"
+  type: Restaurant
+  links: http://kitsunesushiclearwater.com/
+description: "Looking for sushi in Clearwater, Florida? Check out Kitsune Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJKZCi7DDlwogRIJWQpQbYcns
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 248
 website: http://kitsunesushiclearwater.com/
-description: null
 reviews:
   - name: >-
       places/ChIJKZCi7DDlwogRIJWQpQbYcns/reviews/ChdDSUhNMG9nS0VJQ0FnTURneXIteWlnRRAB
@@ -488,5 +492,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

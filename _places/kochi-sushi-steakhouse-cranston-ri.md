@@ -5,6 +5,11 @@ permalink: /rhode-island/cranston/kochi-sushi-steakhouse.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Cranston
+seo:
+  name: "Kochi Sushi & Steakhouse"
+  type: Restaurant
+  links: https://www.kochicranston.com/
+description: "Looking for sushi in Cranston, Rhode Island? Check out Kochi Sushi & Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJDUN_ScJI5IkRxyz9hPnI3HQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 281
 website: https://www.kochicranston.com/
-description: null
 reviews:
   - name: >-
       places/ChIJDUN_ScJI5IkRxyz9hPnI3HQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OFltYl9BRRAB
@@ -346,5 +350,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

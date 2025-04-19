@@ -5,6 +5,11 @@ permalink: /ohio/dublin/ronin-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Dublin
+seo:
+  name: "Ronin Restaurant"
+  type: Restaurant
+  links: http://roninsushiohio.com/
+description: "Sashimi, noodles & Japanese entrees in a cheerful space with an eat-at sushi bar & long happy hours. Looking for sushi in Dublin, Ohio? Check out Ronin Resta..."
 place_id: ChIJ8bV5fBqTOIgR6qizHwWhJOs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 523
 website: http://roninsushiohio.com/
-description: >-
-  Sashimi, noodles & Japanese entrees in a cheerful space with an eat-at sushi
-  bar & long happy hours.
 reviews:
   - name: >-
       places/ChIJ8bV5fBqTOIgR6qizHwWhJOs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwaVpQNXRBRRAB
@@ -388,5 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sashimi, noodles & Japanese entrees in a cheerful space with an eat-at sushi
+  bar & long happy hours.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/modesto/okawa-sushi-and-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Modesto
+seo:
+  name: "Okawa Sushi and Grill"
+  type: Restaurant
+  links: https://www.okawasushigrill.com/
+description: "Looking for sushi in Modesto, California? Check out Okawa Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJ4SMBCnpXkIARO0rSHY3Q0QE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 185
 website: https://www.okawasushigrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

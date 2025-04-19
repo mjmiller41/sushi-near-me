@@ -5,6 +5,11 @@ permalink: /massachusetts/malden/flaming-grill-buffet-malden-location.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Malden
+seo:
+  name: "FLAMING GRILL BUFFET (Malden Location)"
+  type: Restaurant
+  links: https://flaminggrillbuffet.net/
+description: "Looking for sushi in Malden, Massachusetts? Check out FLAMING GRILL BUFFET (Malden Location) for a delightful Japanese dining experience. Enjoy a variety of ..."
 place_id: ChIJUSnBmrZx44kRKEqt_tHpTi8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 1280
 website: https://flaminggrillbuffet.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

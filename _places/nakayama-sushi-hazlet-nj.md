@@ -5,6 +5,11 @@ permalink: /new-jersey/hazlet/nakayama-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hazlet
+seo:
+  name: "Nakayama Sushi"
+  type: Restaurant
+  links: http://www.nakayamasushi.com/
+description: "Japanese restaurant offering a traditional menu of sushi rolls, teriyaki, tempura & more. Looking for sushi in Hazlet, New Jersey? Check out Nakayama Sushi f..."
 place_id: ChIJ1wwjSIU0wokR4orBk1qGgrY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 389
 website: http://www.nakayamasushi.com/
-description: >-
-  Japanese restaurant offering a traditional menu of sushi rolls, teriyaki,
-  tempura & more.
 reviews:
   - name: >-
       places/ChIJ1wwjSIU0wokR4orBk1qGgrY/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3a3Zhd1h3EAE
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Japanese restaurant offering a traditional menu of sushi rolls, teriyaki,
+  tempura & more.
 
 ---

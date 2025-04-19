@@ -5,6 +5,11 @@ permalink: /california/san-marcos/hooked-on-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Marcos
+seo:
+  name: "Hooked On Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Marcos, California? Check out Hooked On Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJ9dz7HYN13IARbW96fSL0xiY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

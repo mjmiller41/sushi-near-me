@@ -5,6 +5,11 @@ permalink: /south-carolina/conway/soho-544.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Conway
+seo:
+  name: "Soho 544"
+  type: Restaurant
+  links: https://soho544.ordering.ordercounter.com/
+description: "Looking for sushi in Conway, South Carolina? Check out Soho 544 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJCUNa7DITAIkReCub6Ro6tYU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 391
 website: https://soho544.ordering.ordercounter.com/
-description: null
 reviews:
   - name: >-
       places/ChIJCUNa7DITAIkReCub6Ro6tYU/reviews/ChdDSUhNMG9nS0VJQ0FnSURfc2JxYWp3RRAB
@@ -402,5 +406,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

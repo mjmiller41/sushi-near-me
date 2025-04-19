@@ -5,6 +5,11 @@ permalink: /california/sunnyvale/hanamaru.html
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
+seo:
+  name: "Hanamaru"
+  type: Restaurant
+  links: https://gohanamaru.com/?utm_source=google
+description: "Casual Japanese outfit in a strip center offers a lengthy list of specialty sushi rolls. Looking for sushi in Sunnyvale, California? Check out Hanamaru for a..."
 place_id: ChIJ2_drFum2j4ARdQ3ok0PiRrw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 394
 website: https://gohanamaru.com/?utm_source=google
-description: >-
-  Casual Japanese outfit in a strip center offers a lengthy list of specialty
-  sushi rolls.
 reviews:
   - name: >-
       places/ChIJ2_drFum2j4ARdQ3ok0PiRrw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2cUx6TzNnRRAB
@@ -416,5 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual Japanese outfit in a strip center offers a lengthy list of specialty
+  sushi rolls.
 
 ---

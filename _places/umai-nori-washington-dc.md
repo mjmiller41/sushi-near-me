@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/umai-nori.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Umai Nori"
+  type: Restaurant
+  links: https://umainori.com/
+description: "Looking for sushi in Washington, District of Columbia? Check out Umai Nori for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJwT6Soa63t4kRD3EFbLncYZ8
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 389
 website: https://umainori.com/
-description: null
 reviews:
   - name: >-
       places/ChIJwT6Soa63t4kRD3EFbLncYZ8/reviews/ChdDSUhNMG9nS0VJQ0FnTURnel8zZnp3RRAB
@@ -417,5 +421,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

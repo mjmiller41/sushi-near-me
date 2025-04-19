@@ -5,6 +5,11 @@ permalink: /california/san-francisco/kitchen-aloha.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Kitchen Aloha"
+  type: Restaurant
+  links: http://www.kitchenalohasf.com/
+description: "Looking for sushi in San Francisco, California? Check out Kitchen Aloha for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJXwQ8sESBhYARyMd5DM6PIyU
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 67
 website: http://www.kitchenalohasf.com/
-description: null
 reviews:
   - name: >-
       places/ChIJXwQ8sESBhYARyMd5DM6PIyU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRaGNUY093EAE
@@ -355,5 +359,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

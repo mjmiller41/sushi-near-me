@@ -5,6 +5,11 @@ permalink: /florida/marco-island/thai-sushi-by-kj.html
 stateAbbr: FL
 stateName: Florida
 cityName: Marco Island
+seo:
+  name: "Thai Sushi By KJ"
+  type: Restaurant
+  links: http://kjthaisushi.com/
+description: "Relaxed locale for a mix of Thai & Japanese fare with classic & modern options plus beer & wine. Looking for sushi in Marco Island, Florida? Check out Thai S..."
 place_id: ChIJu7FWHVXu2ogRY5vrhxgdj5A
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 679
 website: http://kjthaisushi.com/
-description: >-
-  Relaxed locale for a mix of Thai & Japanese fare with classic & modern options
-  plus beer & wine.
 reviews:
   - name: >-
       places/ChIJu7FWHVXu2ogRY5vrhxgdj5A/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3ajlxMVRBEAE
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed locale for a mix of Thai & Japanese fare with classic & modern options
+  plus beer & wine.
 
 ---

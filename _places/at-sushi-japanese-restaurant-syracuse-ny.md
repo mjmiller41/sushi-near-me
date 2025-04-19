@@ -5,6 +5,11 @@ permalink: /new-york/syracuse/at-sushi-japanese-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Syracuse
+seo:
+  name: "AT Sushi Japanese Restaurant"
+  type: Restaurant
+  links: https://www.facebook.com/profile.php?id=100089737989989&mibextid=ZbWKwL
+description: "Looking for sushi in Syracuse, New York? Check out AT Sushi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJPTvQgOjz2YkRXF4SvivRfX4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 156
 website: https://www.facebook.com/profile.php?id=100089737989989&mibextid=ZbWKwL
-description: null
 reviews:
   - name: >-
       places/ChIJPTvQgOjz2YkRXF4SvivRfX4/reviews/ChdDSUhNMG9nS0VJQ0FnSURmZ3NyQTJRRRAB
@@ -430,5 +434,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

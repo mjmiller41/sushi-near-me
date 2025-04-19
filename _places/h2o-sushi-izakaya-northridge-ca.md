@@ -5,6 +5,11 @@ permalink: /california/northridge/h2o-sushi-izakaya.html
 stateAbbr: CA
 stateName: California
 cityName: Northridge
+seo:
+  name: "H2O Sushi & Izakaya"
+  type: Restaurant
+  links: http://h2osushiizakaya.com/
+description: "Looking for sushi in Northridge, California? Check out H2O Sushi & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJSQx8sHSbwoARJICf-8MvYV8
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 583
 website: http://h2osushiizakaya.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /virginia/north-chesterfield/hibachi-sushi-grill.html
 stateAbbr: VA
 stateName: Virginia
 cityName: North Chesterfield
+seo:
+  name: "Hibachi & Sushi Grill"
+  type: Restaurant
+  links: http://www.hibachisushiva.com/
+description: "Looking for sushi in North Chesterfield, Virginia? Check out Hibachi & Sushi Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJU5MGvT1zsYkRFifLcZKDlkw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 74
 website: http://www.hibachisushiva.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

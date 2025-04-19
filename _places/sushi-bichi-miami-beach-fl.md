@@ -5,6 +5,11 @@ permalink: /florida/miami-beach/sushi-bichi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami Beach
+seo:
+  name: "Sushi Bichi"
+  type: Restaurant
+  links: http://sushibichi.com/
+description: "Looking for sushi in Miami Beach, Florida? Check out Sushi Bichi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJtRM_GDiz2YgRksC7c8Ni03A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.9'
 rating_count: 652
 website: http://sushibichi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJtRM_GDiz2YgRksC7c8Ni03A/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdXZuZVNREAE
@@ -378,5 +382,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

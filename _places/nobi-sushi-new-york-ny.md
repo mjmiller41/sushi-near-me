@@ -5,6 +5,11 @@ permalink: /new-york/new-york/nobi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Nobi Sushi"
+  type: Restaurant
+  links: https://ajisushiny.com/
+description: "Creative rolls, sushi & cooked Japanese fare served in a space with traditional Asian decor. Looking for sushi in New York, New York? Check out Nobi Sushi fo..."
 place_id: ChIJscJ18whZwokRRVETYAZys7o
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 170
 website: https://ajisushiny.com/
-description: >-
-  Creative rolls, sushi & cooked Japanese fare served in a space with
-  traditional Asian decor.
 reviews:
   - name: >-
       places/ChIJscJ18whZwokRRVETYAZys7o/reviews/ChZDSUhNMG9nS0VJQ0FnTURnc2VDa0hnEAE
@@ -356,5 +358,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Creative rolls, sushi & cooked Japanese fare served in a space with
+  traditional Asian decor.
 
 ---

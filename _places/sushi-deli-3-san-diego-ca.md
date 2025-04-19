@@ -5,6 +5,11 @@ permalink: /california/san-diego/sushi-deli-3.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Sushi Deli 3"
+  type: Restaurant
+  links: https://www.sushideliusa.com/
+description: "Looking for sushi in San Diego, California? Check out Sushi Deli 3 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJ-8JNv-r_24ARznkkDswSYuw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 2790
 website: https://www.sushideliusa.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/orinda/serika-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Orinda
+seo:
+  name: "Serika Restaurant"
+  type: Restaurant
+  links: https://www.serikaorinda.com/
+description: "Looking for sushi in Orinda, California? Check out Serika Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJszioMyl9hYARwaUGZbLaybY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 103
 website: https://www.serikaorinda.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

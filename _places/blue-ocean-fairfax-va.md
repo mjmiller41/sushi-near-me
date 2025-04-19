@@ -5,6 +5,11 @@ permalink: /virginia/fairfax/blue-ocean.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
+seo:
+  name: "Blue Ocean"
+  type: Restaurant
+  links: https://www.blueoceanizakaya.com/
+description: "Long-running eatery in a modest strip-mall space offering sushi, bento boxes & Japanese entrees. Looking for sushi in Fairfax, Virginia? Check out Blue Ocean..."
 place_id: ChIJAWTXzDtMtokRp2bG-hOGcRw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 421
 website: https://www.blueoceanizakaya.com/
-description: >-
-  Long-running eatery in a modest strip-mall space offering sushi, bento boxes &
-  Japanese entrees.
 reviews:
   - name: >-
       places/ChIJAWTXzDtMtokRp2bG-hOGcRw/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3LUtfcDBBRRAB
@@ -386,5 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Long-running eatery in a modest strip-mall space offering sushi, bento boxes &
+  Japanese entrees.
 
 ---

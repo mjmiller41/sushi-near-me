@@ -5,6 +5,11 @@ permalink: /connecticut/groton/ju-sushi-groton.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Groton
+seo:
+  name: "JU-SUSHI​ Groton"
+  type: Restaurant
+  links: http://www.ju-sushi.com/
+description: "Looking for sushi in Groton, Connecticut? Check out JU-SUSHI​ Groton for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJTyt4ybUO5okR-Cfb61RDJLk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 387
 website: http://www.ju-sushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJTyt4ybUO5okR-Cfb61RDJLk/reviews/ChZDSUhNMG9nS0VJQ0FnSURfNHN1R2FREAE
@@ -383,5 +387,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

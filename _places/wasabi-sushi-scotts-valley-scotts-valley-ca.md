@@ -5,6 +5,11 @@ permalink: /california/scotts-valley/wasabi-sushi-scotts-valley.html
 stateAbbr: CA
 stateName: California
 cityName: Scotts Valley
+seo:
+  name: "Wasabi Sushi Scotts Valley"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Scotts Valley, California? Check out Wasabi Sushi Scotts Valley for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJb3slnANBjoARCCZefFizCdg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

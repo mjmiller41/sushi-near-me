@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-mumi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi Mumi"
+  type: Restaurant
+  links: http://www.sushimumi.com/
+description: "Looking for sushi in New York, New York? Check out Sushi Mumi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJsZMNGhNZwokR9oaUL32yktw
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 83
 website: http://www.sushimumi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJsZMNGhNZwokR9oaUL32yktw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfek1tTW9RRRAB
@@ -479,5 +483,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-jersey/branchburg/masa-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Branchburg
+seo:
+  name: "MASA sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Branchburg, New Jersey? Check out MASA sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJYyDBymSTw4kRQxol2MBrABY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

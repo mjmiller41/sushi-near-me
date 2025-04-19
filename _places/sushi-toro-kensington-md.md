@@ -5,6 +5,11 @@ permalink: /maryland/kensington/sushi-toro.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Kensington
+seo:
+  name: "Sushi Toro"
+  type: Restaurant
+  links: https://www.gosushitoro.com/
+description: "Looking for sushi in Kensington, Maryland? Check out Sushi Toro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJcycjeqfNt4kRStMVqRXNr44
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 221
 website: https://www.gosushitoro.com/
-description: null
 reviews:
   - name: >-
       places/ChIJcycjeqfNt4kRStMVqRXNr44/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3Z0luYjBnRRAB
@@ -394,5 +398,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

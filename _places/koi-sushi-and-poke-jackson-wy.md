@@ -5,6 +5,11 @@ permalink: /wyoming/jackson/koi-sushi-and-poke.html
 stateAbbr: WY
 stateName: Wyoming
 cityName: Jackson
+seo:
+  name: "Koi Sushi and Poke"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Jackson, Wyoming? Check out Koi Sushi and Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJv5g1icAbU1MREe8-9Wn_g3E
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

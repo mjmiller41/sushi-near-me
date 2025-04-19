@@ -5,6 +5,11 @@ permalink: /new-jersey/princeton/mtea-sushi-dessert.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Princeton
+seo:
+  name: "MTea Sushi & Dessert"
+  type: Restaurant
+  links: https://www.princetonmteasushidessert.com/
+description: "Looking for sushi in Princeton, New Jersey? Check out MTea Sushi & Dessert for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJt97I6uznw4kRmbQE8lwuiS0
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: '4.8'
 rating_count: 383
 website: https://www.princetonmteasushidessert.com/
-description: null
 reviews:
   - name: >-
       places/ChIJt97I6uznw4kRmbQE8lwuiS0/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcEtEbWRBEAE
@@ -399,5 +403,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

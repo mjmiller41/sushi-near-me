@@ -5,6 +5,11 @@ permalink: /nebraska/omaha/yoshitomo.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
+seo:
+  name: "Yoshitomo"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Omaha, Nebraska? Check out Yoshitomo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJUUAUp4qNk4cRXMzrGfTIZbw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

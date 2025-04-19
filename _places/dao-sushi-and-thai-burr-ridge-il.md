@@ -5,6 +5,11 @@ permalink: /illinois/burr-ridge/dao-sushi-and-thai.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Burr Ridge
+seo:
+  name: "Dao Sushi and Thai"
+  type: Restaurant
+  links: http://www.daosushiandthai.com/
+description: "Strip-mall spot serving sushi & other Japanese fare, Thai food & hibachi amid modern Asian decor. Looking for sushi in Burr Ridge, Illinois? Check out Dao Su..."
 place_id: ChIJDXeFPZhIDogRmRaD4VwozA0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 576
 website: http://www.daosushiandthai.com/
-description: >-
-  Strip-mall spot serving sushi & other Japanese fare, Thai food & hibachi amid
-  modern Asian decor.
 reviews:
   - name: >-
       places/ChIJDXeFPZhIDogRmRaD4VwozA0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMXFpbWRREAE
@@ -367,5 +369,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Strip-mall spot serving sushi & other Japanese fare, Thai food & hibachi amid
+  modern Asian decor.
 
 ---

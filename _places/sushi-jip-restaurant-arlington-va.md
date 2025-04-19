@@ -5,6 +5,11 @@ permalink: /virginia/arlington/sushi-jip-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+seo:
+  name: "Sushi Jip Restaurant"
+  type: Restaurant
+  links: https://www.sushijip.com/
+description: "Looking for sushi in Arlington, Virginia? Check out Sushi Jip Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJ6QexH6u3t4kRuv0pu_hTV_g
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 113
 website: https://www.sushijip.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ6QexH6u3t4kRuv0pu_hTV_g/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOFluOFNREAE
@@ -449,5 +453,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

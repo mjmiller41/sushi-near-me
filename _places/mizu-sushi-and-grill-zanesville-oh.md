@@ -5,6 +5,11 @@ permalink: /ohio/zanesville/mizu-sushi-and-grill.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Zanesville
+seo:
+  name: "Mizu Sushi And Grill"
+  type: Restaurant
+  links: http://mizuzanesville.com/
+description: "Looking for sushi in Zanesville, Ohio? Check out Mizu Sushi And Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJIz2nZpntN4gR6-4PsQO1k3I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 650
 website: http://mizuzanesville.com/
-description: null
 reviews:
   - name: >-
       places/ChIJIz2nZpntN4gR6-4PsQO1k3I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBOHR1bUR3EAE
@@ -364,5 +368,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

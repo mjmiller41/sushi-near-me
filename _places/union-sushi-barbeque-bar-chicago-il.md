@@ -5,6 +5,11 @@ permalink: /illinois/chicago/union-sushi-barbeque-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Union Sushi + Barbeque Bar"
+  type: Restaurant
+  links: https://www.eatatunion.com/
+description: "Trendy, bustling restaurant with an upscale-urban vibe & a creative take on Japanese cuisine. Looking for sushi in Chicago, Illinois? Check out Union Sushi +..."
 place_id: ChIJdfRT5rQsDogRUqmb4zPRIK4
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1184
 website: https://www.eatatunion.com/
-description: >-
-  Trendy, bustling restaurant with an upscale-urban vibe & a creative take on
-  Japanese cuisine.
 reviews:
   - name: >-
       places/ChIJdfRT5rQsDogRUqmb4zPRIK4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNnBDeFFREAE
@@ -422,5 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Trendy, bustling restaurant with an upscale-urban vibe & a creative take on
+  Japanese cuisine.
 
 ---

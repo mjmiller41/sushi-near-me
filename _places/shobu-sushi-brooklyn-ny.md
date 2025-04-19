@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/shobu-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Shobu Sushi"
+  type: Restaurant
+  links: http://www.shobusushiincnyc.com/
+description: "Straightforward sushi bar supplying tempura & other Japanese dishes, plus some Thai options. Looking for sushi in Brooklyn, New York? Check out Shobu Sushi f..."
 place_id: ChIJ93rmMohPwokRzPmDnke_t4I
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 261
 website: http://www.shobusushiincnyc.com/
-description: >-
-  Straightforward sushi bar supplying tempura & other Japanese dishes, plus some
-  Thai options.
 reviews:
   - name: >-
       places/ChIJ93rmMohPwokRzPmDnke_t4I/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQcU9qMnZRRRAB
@@ -370,5 +372,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Straightforward sushi bar supplying tempura & other Japanese dishes, plus some
+  Thai options.
 
 ---

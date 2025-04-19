@@ -5,6 +5,11 @@ permalink: /michigan/east-lansing/omi-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
+seo:
+  name: "Omi Sushi"
+  type: Restaurant
+  links: http://omisushimi.com/
+description: "Sleek sushi house with modern decor offers a wide selection of classic fare & house rolls. Looking for sushi in East Lansing, Michigan? Check out Omi Sushi f..."
 place_id: ChIJ228PwNTpIogRjzg_eVcPCR0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 491
 website: http://omisushimi.com/
-description: >-
-  Sleek sushi house with modern decor offers a wide selection of classic fare &
-  house rolls.
 reviews:
   - name: >-
       places/ChIJ228PwNTpIogRjzg_eVcPCR0/reviews/ChZDSUhNMG9nS0VJQ0FnSURuaV82RktBEAE
@@ -356,5 +358,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek sushi house with modern decor offers a wide selection of classic fare &
+  house rolls.
 
 ---

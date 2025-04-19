@@ -5,6 +5,11 @@ permalink: /california/visalia/kaen-na-ramen-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Visalia
+seo:
+  name: "Kaen Na Ramen & Sushi"
+  type: Restaurant
+  links: https://www.kaennaramennsushi.com/
+description: "Looking for sushi in Visalia, California? Check out Kaen Na Ramen & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJlwda5lYplYARVinxirgdEoE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 198
 website: https://www.kaennaramennsushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJlwda5lYplYARVinxirgdEoE/reviews/ChZDSUhNMG9nS0VJQ0FnSURmNklub0dBEAE
@@ -388,5 +392,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

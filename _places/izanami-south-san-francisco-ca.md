@@ -5,6 +5,11 @@ permalink: /california/south-san-francisco/izanami.html
 stateAbbr: CA
 stateName: California
 cityName: South San Francisco
+seo:
+  name: "Izanami"
+  type: Restaurant
+  links: http://izanamitogo.com/
+description: "Industrial-chic Japanese restaurant with curvy wooden booths serving sushi, ramen & yakitori. Looking for sushi in South San Francisco, California? Check out..."
 place_id: ChIJIyNi3655j4ARGj3IaAUfGEM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 387
 website: http://izanamitogo.com/
-description: >-
-  Industrial-chic Japanese restaurant with curvy wooden booths serving sushi,
-  ramen & yakitori.
 reviews:
   - name: >-
       places/ChIJIyNi3655j4ARGj3IaAUfGEM/reviews/ChdDSUhNMG9nS0VJQ0FnSURYenRmaW1RRRAB
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Industrial-chic Japanese restaurant with curvy wooden booths serving sushi,
+  ramen & yakitori.
 
 ---

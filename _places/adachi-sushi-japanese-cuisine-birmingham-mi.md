@@ -5,6 +5,11 @@ permalink: /michigan/birmingham/adachi-sushi-japanese-cuisine.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Birmingham
+seo:
+  name: "Adachi Sushi & Japanese Cuisine"
+  type: Restaurant
+  links: http://adachirestaurant.com/
+description: "Looking for sushi in Birmingham, Michigan? Check out Adachi Sushi & Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJyyI93fLHJIgRjM4FluYqPT4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 1133
 website: http://adachirestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/walnut-creek/house-of-sake.html
 stateAbbr: CA
 stateName: California
 cityName: Walnut Creek
+seo:
+  name: "House of Sake"
+  type: Restaurant
+  links: http://www.thehouseofsake.com/
+description: "Looking for sushi in Walnut Creek, California? Check out House of Sake for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJyS-Iu6JhhYARcIlt1lx97vE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 370
 website: http://www.thehouseofsake.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

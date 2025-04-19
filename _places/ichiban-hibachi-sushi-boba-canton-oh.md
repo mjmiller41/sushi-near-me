@@ -5,6 +5,11 @@ permalink: /ohio/canton/ichiban-hibachi-sushi-boba.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Canton
+seo:
+  name: "Ichiban Hibachi sushi & Boba"
+  type: Restaurant
+  links: https://ichibanoh.com/
+description: "Looking for sushi in Canton, Ohio? Check out Ichiban Hibachi sushi & Boba for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJrfBra_rZNogRECJzzN0rXM8
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 32
 website: https://ichibanoh.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

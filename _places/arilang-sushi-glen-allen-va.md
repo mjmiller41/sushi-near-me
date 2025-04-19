@@ -5,6 +5,11 @@ permalink: /virginia/glen-allen/arilang-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Glen Allen
+seo:
+  name: "Arilang Sushi"
+  type: Restaurant
+  links: http://www.arilangsushi.com/
+description: "Looking for sushi in Glen Allen, Virginia? Check out Arilang Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJ3_5l1mprsYkRrUBV0GQMJOU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.9'
 rating_count: 288
 website: http://www.arilangsushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ3_5l1mprsYkRrUBV0GQMJOU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJaWNITXl3RRAB
@@ -387,5 +391,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

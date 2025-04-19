@@ -5,6 +5,11 @@ permalink: /minnesota/winona/ocean-sushi-japanese-and-thai-restaurant.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Winona
+seo:
+  name: "Ocean Sushi Japanese and Thai Restaurant"
+  type: Restaurant
+  links: http://www.oceansushimn.com/
+description: "Looking for sushi in Winona, Minnesota? Check out Ocean Sushi Japanese and Thai Restaurant for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJaz73knht-YcROepKXXJ-VvQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 611
 website: http://www.oceansushimn.com/
-description: null
 reviews:
   - name: >-
       places/ChIJaz73knht-YcROepKXXJ-VvQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNWZlM2VnEAE
@@ -456,5 +460,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/santa-cruz/sushi-mori.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Cruz
+seo:
+  name: "SUSHI MORI"
+  type: Restaurant
+  links: https://www.sushimorisantacruz.com/
+description: "Looking for sushi in Santa Cruz, California? Check out SUSHI MORI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJBQEsGsNBjoARyz07FQkOgFw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '3.7'
 rating_count: 84
 website: https://www.sushimorisantacruz.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

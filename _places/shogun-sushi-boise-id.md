@@ -5,6 +5,11 @@ permalink: /idaho/boise/shogun-sushi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Boise
+seo:
+  name: "Shogun Sushi"
+  type: Restaurant
+  links: https://www.shogunsushi.org/
+description: "Looking for sushi in Boise, Idaho? Check out Shogun Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJvb1i5x34rlQRCXCrAmRmVNM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 855
 website: https://www.shogunsushi.org/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

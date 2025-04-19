@@ -5,6 +5,11 @@ permalink: /maryland/rockville/taipei-tokyo-cafe.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
+seo:
+  name: "Taipei Tokyo Cafe"
+  type: Restaurant
+  links: http://www.taipei-tokyo.net/
+description: "Longtime spot offering Chinese, Thai & Japanese fare including sushi in a casual setting. Looking for sushi in Rockville, Maryland? Check out Taipei Tokyo Ca..."
 place_id: ChIJIZrY4yTMt4kRZnmc1H0NFSs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 2531
 website: http://www.taipei-tokyo.net/
-description: >-
-  Longtime spot offering Chinese, Thai & Japanese fare including sushi in a
-  casual setting.
 reviews:
   - name: >-
       places/ChIJIZrY4yTMt4kRZnmc1H0NFSs/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMGE3Vkh3EAE
@@ -436,5 +438,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Longtime spot offering Chinese, Thai & Japanese fare including sushi in a
+  casual setting.
 
 ---

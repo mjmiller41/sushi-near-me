@@ -5,6 +5,11 @@ permalink: /florida/orlando/a-aki-sushi-steakhouse-florida-mall.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "A-Aki Sushi & Steakhouse - Florida Mall"
+  type: Restaurant
+  links: https://a-akisushi.com/
+description: "Looking for sushi in Orlando, Florida? Check out A-Aki Sushi & Steakhouse - Florida Mall for a delightful Japanese dining experience. Enjoy a variety of sush..."
 place_id: ChIJna8wekt854gRln3C5E1fq-E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 2472
 website: https://a-akisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

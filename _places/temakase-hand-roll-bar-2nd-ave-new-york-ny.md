@@ -5,6 +5,11 @@ permalink: /new-york/new-york/temakase-hand-roll-bar-2nd-ave.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Temakase Hand Roll Bar - 2nd Ave"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New York, New York? Check out Temakase Hand Roll Bar - 2nd Ave for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJbxGBQJxZwokRyKepqIke4x8
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

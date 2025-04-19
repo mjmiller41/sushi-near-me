@@ -5,6 +5,11 @@ permalink: /massachusetts/chatham/bluefins-sushi-sake-bar.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Chatham
+seo:
+  name: "Bluefins Sushi & Sake Bar"
+  type: Restaurant
+  links: http://bluefinschatham.com/
+description: "Creative Japanese seafood plus Thai & Korean dishes presented in sophisticated surrounds. Looking for sushi in Chatham, Massachusetts? Check out Bluefins Sus..."
 place_id: ChIJUUkeop8U-4kRb2AiO7P0aqU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 487
 website: http://bluefinschatham.com/
-description: >-
-  Creative Japanese seafood plus Thai & Korean dishes presented in sophisticated
-  surrounds.
 reviews:
   - name: >-
       places/ChIJUUkeop8U-4kRb2AiO7P0aqU/reviews/ChZDSUhNMG9nS0VJQ0FnSURmeHJqNUpnEAE
@@ -389,5 +391,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Creative Japanese seafood plus Thai & Korean dishes presented in sophisticated
+  surrounds.
 
 ---

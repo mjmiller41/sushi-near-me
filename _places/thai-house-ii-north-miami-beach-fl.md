@@ -5,6 +5,11 @@ permalink: /florida/north-miami-beach/thai-house-ii.html
 stateAbbr: FL
 stateName: Florida
 cityName: North Miami Beach
+seo:
+  name: "Thai House II"
+  type: Restaurant
+  links: https://www.thaihouse2.com/
+description: "Enduring option for Thai cuisine & sushi served in a dining room filled with curios from Asia. Looking for sushi in North Miami Beach, Florida? Check out Tha..."
 place_id: ChIJf9xDR7ut2YgRPI88Qt35yXU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1322
 website: https://www.thaihouse2.com/
-description: >-
-  Enduring option for Thai cuisine & sushi served in a dining room filled with
-  curios from Asia.
 reviews:
   - name: >-
       places/ChIJf9xDR7ut2YgRPI88Qt35yXU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmOXYtbnBnRRAB
@@ -390,5 +392,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Enduring option for Thai cuisine & sushi served in a dining room filled with
+  curios from Asia.
 
 ---

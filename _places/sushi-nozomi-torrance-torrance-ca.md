@@ -5,6 +5,11 @@ permalink: /california/torrance/sushi-nozomi-torrance.html
 stateAbbr: CA
 stateName: California
 cityName: Torrance
+seo:
+  name: "Sushi Nozomi Torrance"
+  type: Restaurant
+  links: https://www.sushinozomi.com/
+description: "Looking for sushi in Torrance, California? Check out Sushi Nozomi Torrance for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJQ2Xiy6RK3YARf6aIM_7IuHk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 314
 website: https://www.sushinozomi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

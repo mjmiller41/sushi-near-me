@@ -5,6 +5,11 @@ permalink: /maryland/california/okada-japanese-steak-seafood.html
 stateAbbr: MD
 stateName: Maryland
 cityName: California
+seo:
+  name: "Okada Japanese Steak & Seafood"
+  type: Restaurant
+  links: http://www.okadasteakhouse.com/
+description: "Upscale Asian surf 'n' turf dining stars grill chefs in sleek, modern surroundings. Looking for sushi in California, Maryland? Check out Okada Japanese Steak..."
 place_id: ChIJSVPbhutjt4kRcGSf__E6fTU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 646
 website: http://www.okadasteakhouse.com/
-description: >-
-  Upscale Asian surf 'n' turf dining stars grill chefs in sleek, modern
-  surroundings.
 reviews:
   - name: >-
       places/ChIJSVPbhutjt4kRcGSf__E6fTU/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2eHIyVVNBEAE
@@ -391,5 +393,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Upscale Asian surf 'n' turf dining stars grill chefs in sleek, modern
+  surroundings.
 
 ---

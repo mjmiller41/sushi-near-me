@@ -5,6 +5,11 @@ permalink: /michigan/bloomfield-hills/nippon-sushi-bloomfield-hills.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Bloomfield Hills
+seo:
+  name: "Nippon Sushi - Bloomfield Hills"
+  type: Restaurant
+  links: https://www.nipponsushibar.com/
+description: "Looking for sushi in Bloomfield Hills, Michigan? Check out Nippon Sushi - Bloomfield Hills for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJwWjT3N2-JIgRBU4IE7IuVs0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 468
 website: https://www.nipponsushibar.com/
-description: null
 reviews:
   - name: >-
       places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/reviews/ChdDSUhNMG9nS0VJQ0FnSURaeFlXS29BRRAB
@@ -408,5 +412,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

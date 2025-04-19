@@ -5,6 +5,11 @@ permalink: /south-carolina/duncan/yum-sushi-burrito-and-poke.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Duncan
+seo:
+  name: "Yum Sushi Burrito and Poke"
+  type: Restaurant
+  links: https://www.yumpokespot.com/
+description: "Looking for sushi in Duncan, South Carolina? Check out Yum Sushi Burrito and Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJCZ_MV3qDV4gRtPIQ2Wk79mY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 73
 website: https://www.yumpokespot.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

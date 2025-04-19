@@ -5,6 +5,11 @@ permalink: /california/san-jose/trifecta.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Trifecta"
+  type: Restaurant
+  links: https://www.trifectaomakase.com/
+description: "Looking for sushi in San Jose, California? Check out Trifecta for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJz0CQR38tjoAR6ML_ec0ctPk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 38
 website: https://www.trifectaomakase.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

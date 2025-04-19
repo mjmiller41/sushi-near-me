@@ -5,6 +5,11 @@ permalink: /california/los-angeles/kazunori-the-original-hand-roll-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "KazuNori: The Original Hand Roll Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Los Angeles, California? Check out KazuNori: The Original Hand Roll Bar for a delightful Japanese dining experience. Enjoy a variety of ..."
 place_id: ChIJK2NyJIK8woARlMt8COUMfEA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

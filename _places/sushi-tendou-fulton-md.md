@@ -5,6 +5,11 @@ permalink: /maryland/fulton/sushi-tendou.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Fulton
+seo:
+  name: "Sushi Tendou"
+  type: Restaurant
+  links: http://www.ezordernow.com/sushitendou
+description: "Sushi & other Japanese dishes such as teriyaki served in a casual eatery with contemporary decor. Looking for sushi in Fulton, Maryland? Check out Sushi Tend..."
 place_id: ChIJIZ-HggXct4kR6Zfuu-exvIM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 495
 website: http://www.ezordernow.com/sushitendou
-description: >-
-  Sushi & other Japanese dishes such as teriyaki served in a casual eatery with
-  contemporary decor.
 reviews:
   - name: >-
       places/ChIJIZ-HggXct4kR6Zfuu-exvIM/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NHE3RzlBRRAB
@@ -350,5 +352,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi & other Japanese dishes such as teriyaki served in a casual eatery with
+  contemporary decor.
 
 ---

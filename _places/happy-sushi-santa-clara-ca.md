@@ -5,6 +5,11 @@ permalink: /california/santa-clara/happy-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Clara
+seo:
+  name: "Happy Sushi"
+  type: Restaurant
+  links: https://www.happysushimenu.com/
+description: "Looking for sushi in Santa Clara, California? Check out Happy Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJc7N9RQzKj4ARH9gEYX95_I0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 436
 website: https://www.happysushimenu.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

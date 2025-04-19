@@ -5,6 +5,11 @@ permalink: /california/agoura-hills/makin-vegan-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Agoura Hills
+seo:
+  name: "MaKin Vegan Sushi"
+  type: Restaurant
+  links: http://makinvegan.com/
+description: "Looking for sushi in Agoura Hills, California? Check out MaKin Vegan Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJL0k28zwl6IARmYU16Td-nfU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 251
 website: http://makinvegan.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

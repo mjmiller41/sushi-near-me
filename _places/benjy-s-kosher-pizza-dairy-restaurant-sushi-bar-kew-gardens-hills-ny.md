@@ -5,6 +5,11 @@ permalink: /new-york/kew-gardens-hills/benjy-s-kosher-pizza-dairy-restaurant-sus
 stateAbbr: NY
 stateName: New York
 cityName: Kew Gardens Hills
+seo:
+  name: "Benjy's Kosher Pizza Dairy Restaurant & Sushi Bar"
+  type: Restaurant
+  links: https://www.benjyspizza.getsauce.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Benjys%20Kosher%20Pizza%20Dairy%20Restaurant%20and%20Sushi%20Bar
+description: "Looking for sushi in Kew Gardens Hills, New York? Check out Benjy's Kosher Pizza Dairy Restaurant & Sushi Bar for a delightful Japanese dining experience. En..."
 place_id: ChIJPd38-4xgwokRoLeMtiWt88M
 photos:
   - name: >-
@@ -179,7 +184,6 @@ rating: '4.4'
 rating_count: 621
 website: >-
   https://www.benjyspizza.getsauce.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Benjys%20Kosher%20Pizza%20Dairy%20Restaurant%20and%20Sushi%20Bar
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

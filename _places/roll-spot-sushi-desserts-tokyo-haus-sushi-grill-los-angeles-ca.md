@@ -5,6 +5,11 @@ permalink: /california/los-angeles/roll-spot-sushi-desserts-tokyo-haus-sushi-gri
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "ROLL SPOT sushi & desserts Tokyo Haus Sushi & Grill"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Los Angeles, California? Check out ROLL SPOT sushi & desserts Tokyo Haus Sushi & Grill for a delightful Japanese dining experience. Enjo..."
 place_id: ChIJO8cmfLDHwoAR_NGUqkx1c2s
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 89
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

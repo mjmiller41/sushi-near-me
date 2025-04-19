@@ -5,6 +5,11 @@ permalink: /california/san-diego/sushi-deli-1.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Sushi Deli 1"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Diego, California? Check out Sushi Deli 1 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJd3uSM9FU2YARJVqC_aLjqdA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

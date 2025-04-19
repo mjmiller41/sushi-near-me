@@ -5,6 +5,11 @@ permalink: /washington/seattle/wasabi-sushi-sea.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Wasabi Sushi SEA"
+  type: Restaurant
+  links: http://www.happypeopleeatsushi.com/
+description: "Looking for sushi in Seattle, Washington? Check out Wasabi Sushi SEA for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJA_ekD0wVkFQRBT2qVJvy2Kc
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 137
 website: http://www.happypeopleeatsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

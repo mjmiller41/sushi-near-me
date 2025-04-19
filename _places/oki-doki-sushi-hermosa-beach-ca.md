@@ -5,6 +5,11 @@ permalink: /california/hermosa-beach/oki-doki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Hermosa Beach
+seo:
+  name: "Oki Doki Sushi"
+  type: Restaurant
+  links: https://www.okidokisushitogo.com/
+description: "Looking for sushi in Hermosa Beach, California? Check out Oki Doki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJ0dbq6IK0woARGPwOnFSc0S0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 338
 website: https://www.okidokisushitogo.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

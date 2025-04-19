@@ -5,6 +5,11 @@ permalink: /virginia/hampton/japan-sushi-house.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Hampton
+seo:
+  name: "Japan Sushi House"
+  type: Restaurant
+  links: https://www.japansushihouseva.com/?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Hampton, Virginia? Check out Japan Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ8zOSvfGCuokRWhbBG5YHNm8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 136
 website: https://www.japansushihouseva.com/?utm_source=gmb&utm_medium=website
-description: null
 reviews:
   - name: >-
       places/ChIJ8zOSvfGCuokRWhbBG5YHNm8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPX002WFBnEAE
@@ -378,5 +382,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/carmel-by-the-sea/akaoni.html
 stateAbbr: CA
 stateName: California
 cityName: Carmel-By-The-Sea
+seo:
+  name: "Akaoni"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Carmel-By-The-Sea, California? Check out Akaoni for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJXVDj0BTmjYARSKBot4I8_Xc
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $50 &ndash; $100
 rating: '4.1'
 rating_count: 170
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJXVDj0BTmjYARSKBot4I8_Xc/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3el8yUy13RRAB
@@ -518,5 +522,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: false
+summary: null
 
 ---

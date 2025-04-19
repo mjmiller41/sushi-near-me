@@ -5,6 +5,11 @@ permalink: /missouri/kearney/kaji-japanese-sushi-and-grill.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kearney
+seo:
+  name: "KaJi JAPANESE SUSHI AND GRILL"
+  type: Restaurant
+  links: http://www.kajikearney.com/?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Kearney, Missouri? Check out KaJi JAPANESE SUSHI AND GRILL for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJGdcW6wWtwYcRhSuDb87vZCQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 355
 website: http://www.kajikearney.com/?utm_source=gmb&utm_medium=website
-description: null
 reviews:
   - name: >-
       places/ChIJGdcW6wWtwYcRhSuDb87vZCQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURBeE5MWkZ3EAE
@@ -404,5 +408,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

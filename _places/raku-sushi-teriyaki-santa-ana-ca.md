@@ -5,6 +5,11 @@ permalink: /california/santa-ana/raku-sushi-teriyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Ana
+seo:
+  name: "Raku Sushi & Teriyaki"
+  type: Restaurant
+  links: https://ramenmura.us/
+description: "Looking for sushi in Santa Ana, California? Check out Raku Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJb6T5E6nf3IARXFMMXvtHPgA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 87
 website: https://ramenmura.us/
-description: null
 reviews:
   - name: >-
       places/ChIJb6T5E6nf3IARXFMMXvtHPgA/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3MS1tMm9BRRAB
@@ -398,5 +402,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/santa-maria/mikado-sushi-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Maria
+seo:
+  name: "Mikado Sushi | Japanese Restaurant"
+  type: Restaurant
+  links: https://santamariamikado.com/
+description: "Looking for sushi in Santa Maria, California? Check out Mikado Sushi | Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of su..."
 place_id: ChIJfR2xNYBr7IARZpToKRmOA4Y
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 649
 website: https://santamariamikado.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

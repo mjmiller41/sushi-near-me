@@ -5,6 +5,11 @@ permalink: /iowa/fairfield/shokai-sushi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Fairfield
+seo:
+  name: "Shokai Sushi"
+  type: Restaurant
+  links: https://m.facebook.com/shokaisushi/
+description: "Looking for sushi in Fairfield, Iowa? Check out Shokai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJ4bRp4Wtm5ocR7iMIC21T4uY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 400
 website: https://m.facebook.com/shokaisushi/
-description: null
 reviews:
   - name: >-
       places/ChIJ4bRp4Wtm5ocR7iMIC21T4uY/reviews/ChZDSUhNMG9nS0VJQ0FnSURQc3NxQUlnEAE
@@ -428,5 +432,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /wisconsin/middleton/takara-88.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Middleton
+seo:
+  name: "Takara 88"
+  type: Restaurant
+  links: https://www.smorefood.com/order-online/takara-88-middleton-53562-lxjzw017?utm_source=gmb&utm_medium=website
+description: "Stylish, contemporary space for traditional Japanese dishes, hibachi-grill specialties & sushi. Looking for sushi in Middleton, Wisconsin? Check out Takara 8..."
 place_id: ChIJCVdF1CqvB4gR0b2b5SsQt-A
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.2'
 rating_count: 674
 website: >-
   https://www.smorefood.com/order-online/takara-88-middleton-53562-lxjzw017?utm_source=gmb&utm_medium=website
-description: >-
-  Stylish, contemporary space for traditional Japanese dishes, hibachi-grill
-  specialties & sushi.
 reviews:
   - name: >-
       places/ChIJCVdF1CqvB4gR0b2b5SsQt-A/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3cEx6cFd3EAE
@@ -355,5 +357,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Stylish, contemporary space for traditional Japanese dishes, hibachi-grill
+  specialties & sushi.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/woodland-hills/sushi-katsu-ya-woodland-hills.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
+seo:
+  name: "Sushi Katsu-ya Woodland Hills"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Woodland Hills, California? Check out Sushi Katsu-ya Woodland Hills for a delightful Japanese dining experience. Enjoy a variety of sush..."
 place_id: ChIJK9ukRSCcwoAR5c86_owdTJ8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

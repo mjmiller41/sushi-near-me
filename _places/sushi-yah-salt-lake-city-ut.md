@@ -5,6 +5,11 @@ permalink: /utah/salt-lake-city/sushi-yah.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
+seo:
+  name: "Sushi Yah"
+  type: Restaurant
+  links: https://mysushiyah.com/?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Salt Lake City, Utah? Check out Sushi Yah for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJn_R9XvBiUocRw9KZg-oj800
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 578
 website: https://mysushiyah.com/?utm_source=gmb&utm_medium=website
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

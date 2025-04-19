@@ -5,6 +5,11 @@ permalink: /tennessee/hendersonville/maru-iyagi-hendersonville.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Hendersonville
+seo:
+  name: "Maru Iyagi - Hendersonville"
+  type: Restaurant
+  links: https://maruiyagi-website.web.app/
+description: "Looking for sushi in Hendersonville, Tennessee? Check out Maru Iyagi - Hendersonville for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJRd4HrXhHZIgRIInVPEFakDA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 330
 website: https://maruiyagi-website.web.app/
-description: null
 reviews:
   - name: >-
       places/ChIJRd4HrXhHZIgRIInVPEFakDA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRZ1plUmZnEAE
@@ -404,5 +408,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

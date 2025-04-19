@@ -5,6 +5,11 @@ permalink: /massachusetts/foxborough/saga-hibachi-steakhouse-sushi-bar.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Foxborough
+seo:
+  name: "Saga Hibachi Steakhouse & Sushi Bar"
+  type: Restaurant
+  links: https://sagahibachisteakhousema.com/
+description: "Modern place with a neon-lit bar for hibachi dishes, creative sushi rolls & other Japanese classics. Looking for sushi in Foxborough, Massachusetts? Check ou..."
 place_id: ChIJDfk4c7Z85IkRq0Qna_XRn6g
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 951
 website: https://sagahibachisteakhousema.com/
-description: >-
-  Modern place with a neon-lit bar for hibachi dishes, creative sushi rolls &
-  other Japanese classics.
 reviews:
   - name: >-
       places/ChIJDfk4c7Z85IkRq0Qna_XRn6g/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBdGRicGh3RRAB
@@ -374,5 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern place with a neon-lit bar for hibachi dishes, creative sushi rolls &
+  other Japanese classics.
 
 ---

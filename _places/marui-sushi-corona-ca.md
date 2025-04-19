@@ -5,6 +5,11 @@ permalink: /california/corona/marui-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Corona
+seo:
+  name: "Marui Sushi"
+  type: Restaurant
+  links: http://maruisushica.com/
+description: "Looking for sushi in Corona, California? Check out Marui Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJJ8hJIW643IARkWmJPQGJ77Y
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 464
 website: http://maruisushica.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

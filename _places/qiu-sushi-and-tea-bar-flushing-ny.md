@@ -5,6 +5,11 @@ permalink: /new-york/flushing/qiu-sushi-and-tea-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Flushing
+seo:
+  name: "Qiu Sushi and Tea Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Flushing, New York? Check out Qiu Sushi and Tea Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJS-T0TbhhwokRAS-BW4R9WIg
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 94
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

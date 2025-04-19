@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-gama.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi Gama"
+  type: Restaurant
+  links: https://www.smorefood.com/order-online/sushi-gama-new-york-10021-ok4kmrpz??utm_source=gmb&utm_medium=website
+description: "Japanese restaurant with a tavern vibe & bar offering a mix of sushi, rolls & kitchen-cooked plates. Looking for sushi in New York, New York? Check out Sushi..."
 place_id: ChIJw9uiOMBYwokR7zqSs85PFUs
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.4'
 rating_count: 257
 website: >-
   https://www.smorefood.com/order-online/sushi-gama-new-york-10021-ok4kmrpz??utm_source=gmb&utm_medium=website
-description: >-
-  Japanese restaurant with a tavern vibe & bar offering a mix of sushi, rolls &
-  kitchen-cooked plates.
 reviews:
   - name: >-
       places/ChIJw9uiOMBYwokR7zqSs85PFUs/reviews/ChZDSUhNMG9nS0VJQ0FnSURIenUtN0VnEAE
@@ -372,5 +374,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese restaurant with a tavern vibe & bar offering a mix of sushi, rolls &
+  kitchen-cooked plates.
 
 ---

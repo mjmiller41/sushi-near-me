@@ -5,6 +5,11 @@ permalink: /washington/spokane/umi-north-kitchen-and-sushi-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane
+seo:
+  name: "Umi North Kitchen and Sushi Bar"
+  type: Restaurant
+  links: https://umispokane.com/
+description: "Looking for sushi in Spokane, Washington? Check out Umi North Kitchen and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJY-G0-WgdnlQRoc8HK9rLemU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 115
 website: https://umispokane.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

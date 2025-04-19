@@ -5,6 +5,11 @@ permalink: /virginia/fairfax/california-shabu-shabu.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
+seo:
+  name: "California Shabu Shabu"
+  type: Restaurant
+  links: https://www.calishabu.com/
+description: "Looking for sushi in Fairfax, Virginia? Check out California Shabu Shabu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJ6-WUOnVMtokRSAxsnM7vWBQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 1509
 website: https://www.calishabu.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ6-WUOnVMtokRSAxsnM7vWBQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnb2YzQ2ZREAE
@@ -411,5 +415,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

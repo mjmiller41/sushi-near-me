@@ -5,6 +5,11 @@ permalink: /maryland/columbia/akira-ramen-izakaya.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Columbia
+seo:
+  name: "Akira Ramen & Izakaya"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Columbia, Maryland? Check out Akira Ramen & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJRaYEZnPft4kRyhXAaXZGBL0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

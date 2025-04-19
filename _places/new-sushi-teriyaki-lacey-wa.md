@@ -5,6 +5,11 @@ permalink: /washington/lacey/new-sushi-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Lacey
+seo:
+  name: "New Sushi & Teriyaki"
+  type: Restaurant
+  links: http://www.sushiandteriyaki.com/
+description: "Looking for sushi in Lacey, Washington? Check out New Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJ7x9PfD9zkVQRR6zo2LAVx7E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 490
 website: http://www.sushiandteriyaki.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

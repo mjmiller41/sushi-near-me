@@ -5,6 +5,11 @@ permalink: /california/oakland/kuidaore-handroll-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
+seo:
+  name: "Kuidaore Handroll Bar"
+  type: Restaurant
+  links: https://www.kuidaorehandrollbar.com/
+description: "Looking for sushi in Oakland, California? Check out Kuidaore Handroll Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJWwpdKRyBj4ARWO1klikQgOs
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 38
 website: https://www.kuidaorehandrollbar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-francisco/kuma-sushi-sake.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Kuma Sushi + Sake"
+  type: Restaurant
+  links: http://www.kumasf.com/
+description: "Minimalist neighborhood locale for nigiri, sashimi & Japanese small bites. Looking for sushi in San Francisco, California? Check out Kuma Sushi + Sake for a ..."
 place_id: ChIJQ4nkGJSAhYARNPU7phma2gE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.7'
 rating_count: 805
 website: http://www.kumasf.com/
-description: Minimalist neighborhood locale for nigiri, sashimi & Japanese small bites.
 reviews:
   - name: >-
       places/ChIJQ4nkGJSAhYARNPU7phma2gE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRZ3FIZHlnRRAB
@@ -371,5 +375,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: Minimalist neighborhood locale for nigiri, sashimi & Japanese small bites.
 
 ---

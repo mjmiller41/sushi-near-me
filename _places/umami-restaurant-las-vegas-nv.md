@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/umami-restaurant.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "Umami Restaurant"
+  type: Restaurant
+  links: https://www.dragonfactories.com/umami
+description: "Looking for sushi in Las Vegas, Nevada? Check out Umami Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJx3lNelWTyIAR2rIoHYUkGnU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 1393
 website: https://www.dragonfactories.com/umami
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

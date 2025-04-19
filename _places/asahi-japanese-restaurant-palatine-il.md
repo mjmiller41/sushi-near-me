@@ -5,6 +5,11 @@ permalink: /illinois/palatine/asahi-japanese-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Palatine
+seo:
+  name: "Asahi Japanese Restaurant"
+  type: Restaurant
+  links: http://asahi-palatine.com/
+description: "Small sushi bar crafting traditional & modern rolls & more in an unpretentious setting. Looking for sushi in Palatine, Illinois? Check out Asahi Japanese Res..."
 place_id: ChIJ-0mb4WikD4gRUiCSSqcpGxQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 233
 website: http://asahi-palatine.com/
-description: >-
-  Small sushi bar crafting traditional & modern rolls & more in an unpretentious
-  setting.
 reviews:
   - name: >-
       places/ChIJ-0mb4WikD4gRUiCSSqcpGxQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdVpuQjlRRRAB
@@ -364,5 +366,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Small sushi bar crafting traditional & modern rolls & more in an unpretentious
+  setting.
 
 ---

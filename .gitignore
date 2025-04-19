@@ -6,3 +6,4 @@ _site
 .jekyll-metadata
 .env
 .rds-ca-bundle.pem
+sushi_places_bk.json

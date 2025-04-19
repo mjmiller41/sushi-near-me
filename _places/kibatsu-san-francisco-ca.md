@@ -5,6 +5,11 @@ permalink: /california/san-francisco/kibatsu.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Kibatsu"
+  type: Restaurant
+  links: https://www.kibatsusushi.com/
+description: "Looking for sushi in San Francisco, California? Check out Kibatsu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJ_6lGs5OBhYARMZbrb4T5Os4
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 210
 website: https://www.kibatsusushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ_6lGs5OBhYARMZbrb4T5Os4/reviews/ChZDSUhNMG9nS0VJQ0FnTURnem9hQUNREAE
@@ -400,5 +404,6 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: null
 
 ---

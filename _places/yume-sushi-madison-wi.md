@@ -5,6 +5,11 @@ permalink: /wisconsin/madison/yume-sushi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
+seo:
+  name: "Yume Sushi"
+  type: Restaurant
+  links: https://www.yumesushimadison.com/
+description: "Casual eatery serving sushi rolls, noodle dishes & other Japanese staples in simple digs. Looking for sushi in Madison, Wisconsin? Check out Yume Sushi for a..."
 place_id: ChIJJ-zlczZTBogRM3JXw0WwV3I
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 240
 website: https://www.yumesushimadison.com/
-description: >-
-  Casual eatery serving sushi rolls, noodle dishes & other Japanese staples in
-  simple digs.
 reviews:
   - name: >-
       places/ChIJJ-zlczZTBogRM3JXw0WwV3I/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbGR6cWVBEAE
@@ -398,5 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Casual eatery serving sushi rolls, noodle dishes & other Japanese staples in
+  simple digs.
 
 ---

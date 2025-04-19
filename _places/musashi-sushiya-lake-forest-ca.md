@@ -5,6 +5,11 @@ permalink: /california/lake-forest/musashi-sushiya.html
 stateAbbr: CA
 stateName: California
 cityName: Lake Forest
+seo:
+  name: "Musashi Sushiya"
+  type: Restaurant
+  links: http://www.musashisushiya.com/
+description: "Dimly lit Japanese eatery providing creative rolls & sushi plus a happy hour in relaxed environs. Looking for sushi in Lake Forest, California? Check out Mus..."
 place_id: ChIJw1192Pvo3IARPVqFayAZ19k
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 359
 website: http://www.musashisushiya.com/
-description: >-
-  Dimly lit Japanese eatery providing creative rolls & sushi plus a happy hour
-  in relaxed environs.
 reviews:
   - name: >-
       places/ChIJw1192Pvo3IARPVqFayAZ19k/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBX0wydU93EAE
@@ -401,5 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Dimly lit Japanese eatery providing creative rolls & sushi plus a happy hour
+  in relaxed environs.
 
 ---

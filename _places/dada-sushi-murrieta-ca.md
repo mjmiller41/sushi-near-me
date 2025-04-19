@@ -5,6 +5,11 @@ permalink: /california/murrieta/dada-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Murrieta
+seo:
+  name: "Dada Sushi"
+  type: Restaurant
+  links: http://www.dadasushi.com/
+description: "Looking for sushi in Murrieta, California? Check out Dada Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJH_xUyYWD3IARAhkCfwTwXKY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 240
 website: http://www.dadasushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJH_xUyYWD3IARAhkCfwTwXKY/reviews/ChdDSUhNMG9nS0VJQ0FnSURmcHMyVXpnRRAB
@@ -412,5 +416,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

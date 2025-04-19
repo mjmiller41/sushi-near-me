@@ -5,6 +5,11 @@ permalink: /california/san-marcos/sushi-huku.html
 stateAbbr: CA
 stateName: California
 cityName: San Marcos
+seo:
+  name: "Sushi Huku"
+  type: Restaurant
+  links: http://sushihuku.net/
+description: "Serving Japanese cuisine in a tranquil wood-paneled dining room with a polished wood sushi bar. Looking for sushi in San Marcos, California? Check out Sushi ..."
 place_id: ChIJ3XAbzVB13IARIjOEq368FRE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 681
 website: http://sushihuku.net/
-description: >-
-  Serving Japanese cuisine in a tranquil wood-paneled dining room with a
-  polished wood sushi bar.
 reviews:
   - name: >-
       places/ChIJ3XAbzVB13IARIjOEq368FRE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOLU1EbnBnRRAB
@@ -398,5 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Serving Japanese cuisine in a tranquil wood-paneled dining room with a
+  polished wood sushi bar.
 
 ---

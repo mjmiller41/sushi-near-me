@@ -5,6 +5,11 @@ permalink: /california/wildomar/sake-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Wildomar
+seo:
+  name: "Sake Sushi"
+  type: Restaurant
+  links: http://sakesushiwildomar.com/
+description: "Looking for sushi in Wildomar, California? Check out Sake Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJbbIg_kaD3IARLpUyhp2zruo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 374
 website: http://sakesushiwildomar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

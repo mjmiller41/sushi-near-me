@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/momoyama.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Momoyama"
+  type: Restaurant
+  links: https://www.facebook.com/momoyamadc/
+description: "This hideaway sushi spot also features cooked Japanese fare plus bento boxes & happy hour specials. Looking for sushi in Washington, District of Columbia? Ch..."
 place_id: ChIJt1JwK4a3t4kRq4L61cpSMaU
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 381
 website: https://www.facebook.com/momoyamadc/
-description: >-
-  This hideaway sushi spot also features cooked Japanese fare plus bento boxes &
-  happy hour specials.
 reviews:
   - name: >-
       places/ChIJt1JwK4a3t4kRq4L61cpSMaU/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3NnFTTlhBEAE
@@ -382,5 +384,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  This hideaway sushi spot also features cooked Japanese fare plus bento boxes &
+  happy hour specials.
 
 ---

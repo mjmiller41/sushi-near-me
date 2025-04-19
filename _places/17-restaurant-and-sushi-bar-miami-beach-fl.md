@@ -5,6 +5,11 @@ permalink: /florida/miami-beach/17-restaurant-and-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami Beach
+seo:
+  name: "17 Restaurant and Sushi Bar"
+  type: Restaurant
+  links: https://17restaurant.com/
+description: "Kosher go-to featuring an eclectic menu of sushi & rustic Italian fare in simple, bright environs. Looking for sushi in Miami Beach, Florida? Check out 17 Re..."
 place_id: ChIJC4EJc4e02YgRsrTV2vNkhaQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 1635
 website: https://17restaurant.com/
-description: >-
-  Kosher go-to featuring an eclectic menu of sushi & rustic Italian fare in
-  simple, bright environs.
 reviews:
   - name: >-
       places/ChIJC4EJc4e02YgRsrTV2vNkhaQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURBMl9qTGRREAE
@@ -374,5 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Kosher go-to featuring an eclectic menu of sushi & rustic Italian fare in
+  simple, bright environs.
 
 ---

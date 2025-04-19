@@ -5,6 +5,11 @@ permalink: /missouri/cape-girardeau/watami-sushi-hibachi-steakhouse-cape-girarde
 stateAbbr: MO
 stateName: Missouri
 cityName: Cape Girardeau
+seo:
+  name: "Watami Sushi & Hibachi Steakhouse (Cape Girardeau)"
+  type: Restaurant
+  links: http://www.watamisushimo.com/
+description: "Looking for sushi in Cape Girardeau, Missouri? Check out Watami Sushi & Hibachi Steakhouse (Cape Girardeau) for a delightful Japanese dining experience. Enjo..."
 place_id: ChIJF6W38waId4gRuPfD1POkgrM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 785
 website: http://www.watamisushimo.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

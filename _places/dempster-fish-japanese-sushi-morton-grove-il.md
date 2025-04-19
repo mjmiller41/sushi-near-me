@@ -5,6 +5,11 @@ permalink: /illinois/morton-grove/dempster-fish-japanese-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Morton Grove
+seo:
+  name: "Dempster Fish | Japanese Sushi, 일식당, 일식맛집, 맛집"
+  type: Restaurant
+  links: http://dempsterfish.com/
+description: "Modest Japanese restaurant serving fresh sushi & maki to stay or for takeout. Looking for sushi in Morton Grove, Illinois? Check out Dempster Fish | Japanese..."
 place_id: ChIJqaYtg0vPD4gRphTkwCPJG2w
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 298
 website: http://dempsterfish.com/
-description: Modest Japanese restaurant serving fresh sushi & maki to stay or for takeout.
 reviews:
   - name: >-
       places/ChIJqaYtg0vPD4gRphTkwCPJG2w/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMVp1UGdnRRAB
@@ -397,5 +401,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: Modest Japanese restaurant serving fresh sushi & maki to stay or for takeout.
 
 ---

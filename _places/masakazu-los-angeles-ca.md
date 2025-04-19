@@ -5,6 +5,11 @@ permalink: /california/los-angeles/masakazu.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "MASAKAZU"
+  type: Restaurant
+  links: https://sushimasakazu.com/
+description: "Looking for sushi in Los Angeles, California? Check out MASAKAZU for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJw7qnPdC7woARTgEUSZ__hNM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.2'
 rating_count: 65
 website: https://sushimasakazu.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /florida/orlando/mikado-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Mikado Sushi & Grill"
+  type: Restaurant
+  links: http://mikadosushigrill.com/
+description: "Looking for sushi in Orlando, Florida? Check out Mikado Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJAyu6dh5554gR25xnvSlXRyo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1069
 website: http://mikadosushigrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

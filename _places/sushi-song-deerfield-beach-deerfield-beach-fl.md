@@ -5,6 +5,11 @@ permalink: /florida/deerfield-beach/sushi-song-deerfield-beach.html
 stateAbbr: FL
 stateName: Florida
 cityName: Deerfield Beach
+seo:
+  name: "Sushi Song - Deerfield Beach"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Deerfield Beach, Florida? Check out Sushi Song - Deerfield Beach for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJNd6S0GDi2IgRpZm96uMXVjw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

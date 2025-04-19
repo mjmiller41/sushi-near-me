@@ -5,6 +5,11 @@ permalink: /texas/houston/sushi-choo-choo.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "Sushi choo choo"
+  type: Restaurant
+  links: http://www.sushichoochoo.com/
+description: "Looking for sushi in Houston, Texas? Check out Sushi choo choo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJ1xMqWszRQIYR2U6mYqnByCE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 513
 website: http://www.sushichoochoo.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

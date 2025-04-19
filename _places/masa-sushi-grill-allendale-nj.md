@@ -5,6 +5,11 @@ permalink: /new-jersey/allendale/masa-sushi-grill.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Allendale
+seo:
+  name: "Masa Sushi & Grill"
+  type: Restaurant
+  links: http://www.masasushiandgrill.com/
+description: "Looking for sushi in Allendale, New Jersey? Check out Masa Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJjRQrbovjwokR7qxYH84Cvz0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 342
 website: http://www.masasushiandgrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

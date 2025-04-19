@@ -5,6 +5,11 @@ permalink: /california/temecula/fire-fish-sushi-more.html
 stateAbbr: CA
 stateName: California
 cityName: Temecula
+seo:
+  name: "Fire-Fish Sushi & More"
+  type: Restaurant
+  links: https://www.firefishsushica.com/
+description: "Looking for sushi in Temecula, California? Check out Fire-Fish Sushi & More for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJITLtirV_24ARHhC9e3JrHAc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 320
 website: https://www.firefishsushica.com/
-description: null
 reviews:
   - name: >-
       places/ChIJITLtirV_24ARHhC9e3JrHAc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfOHN1TFlREAE
@@ -380,5 +384,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

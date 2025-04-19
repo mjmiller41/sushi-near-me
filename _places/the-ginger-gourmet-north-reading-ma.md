@@ -5,6 +5,11 @@ permalink: /massachusetts/north-reading/the-ginger-gourmet.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: North Reading
+seo:
+  name: "The Ginger Gourmet"
+  type: Restaurant
+  links: https://thegingergourmet.com/
+description: "Looking for sushi in North Reading, Massachusetts? Check out The Ginger Gourmet for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJJZ_aDl8J44kRgGRgHyadIzo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 207
 website: https://thegingergourmet.com/
-description: null
 reviews:
   - name: >-
       places/ChIJJZ_aDl8J44kRgGRgHyadIzo/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5ZzdESHJ3RRAB
@@ -396,5 +400,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

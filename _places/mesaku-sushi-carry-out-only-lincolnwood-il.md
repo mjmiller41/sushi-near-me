@@ -5,6 +5,11 @@ permalink: /illinois/lincolnwood/mesaku-sushi-carry-out-only.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Lincolnwood
+seo:
+  name: "Mesaku Sushi (Carry Out Only)"
+  type: Restaurant
+  links: http://www.mesaku.com/
+description: "Looking for sushi in Lincolnwood, Illinois? Check out Mesaku Sushi (Carry Out Only) for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJ1ZYqqfzOD4gRLDfLleXleLc
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 354
 website: http://www.mesaku.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ1ZYqqfzOD4gRLDfLleXleLc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBeWMzU0ZnEAE
@@ -382,5 +386,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

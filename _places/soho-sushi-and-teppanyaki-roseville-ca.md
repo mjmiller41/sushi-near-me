@@ -5,6 +5,11 @@ permalink: /california/roseville/soho-sushi-and-teppanyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Roseville
+seo:
+  name: "Soho Sushi and Teppanyaki"
+  type: Restaurant
+  links: http://sohoteppanyaki.com/
+description: "Looking for sushi in Roseville, California? Check out Soho Sushi and Teppanyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJyf7Tp_Ufm4AR-vA_WEqPqQM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 394
 website: http://sohoteppanyaki.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

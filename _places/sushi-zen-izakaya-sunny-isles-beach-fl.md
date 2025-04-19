@@ -5,6 +5,11 @@ permalink: /florida/sunny-isles-beach/sushi-zen-izakaya.html
 stateAbbr: FL
 stateName: Florida
 cityName: Sunny Isles Beach
+seo:
+  name: "Sushi Zen & Izakaya"
+  type: Restaurant
+  links: http://www.sushizenizakaya.com/
+description: "Looking for sushi in Sunny Isles Beach, Florida? Check out Sushi Zen & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJqQ097eCs2YgRCI61kwalR4A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 911
 website: http://www.sushizenizakaya.com/
-description: null
 reviews:
   - name: >-
       places/ChIJqQ097eCs2YgRCI61kwalR4A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfMXRXdzF3RRAB
@@ -424,5 +428,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

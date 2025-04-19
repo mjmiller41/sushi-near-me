@@ -5,6 +5,11 @@ permalink: /florida/winter-park/umi-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Park
+seo:
+  name: "Umi Japanese Restaurant"
+  type: Restaurant
+  links: http://www.umijapaneserestaurant.com/
+description: "Looking for sushi in Winter Park, Florida? Check out Umi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJdQPyXwVw54gRWJg4VHN9Qnk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 2060
 website: http://www.umijapaneserestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

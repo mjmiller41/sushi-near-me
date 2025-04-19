@@ -5,6 +5,11 @@ permalink: /california/san-jose/suro-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Suro Sushi Bar & Grill"
+  type: Restaurant
+  links: https://surosushisj.com/
+description: "Looking for sushi in San Jose, California? Check out Suro Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJEX7RY1DLj4ARBPH22ehr8bU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 256
 website: https://surosushisj.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/mission-viejo/sushi-plantation.html
 stateAbbr: CA
 stateName: California
 cityName: Mission Viejo
+seo:
+  name: "Sushi Plantation"
+  type: Restaurant
+  links: https://sushiplantations.com/
+description: "Clever maki & other Japanese fare doled out in casual, compact digs with sushi bar seating. Looking for sushi in Mission Viejo, California? Check out Sushi P..."
 place_id: ChIJh7zREF_u3IARsnjQ3B_4zHY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 303
 website: https://sushiplantations.com/
-description: >-
-  Clever maki & other Japanese fare doled out in casual, compact digs with sushi
-  bar seating.
 reviews:
   - name: >-
       places/ChIJh7zREF_u3IARsnjQ3B_4zHY/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdDQtM3ZRRRAB
@@ -416,5 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Clever maki & other Japanese fare doled out in casual, compact digs with sushi
+  bar seating.
 
 ---

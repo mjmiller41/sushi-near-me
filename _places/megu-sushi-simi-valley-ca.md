@@ -5,6 +5,11 @@ permalink: /california/simi-valley/megu-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Simi Valley
+seo:
+  name: "Megu Sushi"
+  type: Restaurant
+  links: https://megusushi.net/
+description: "Looking for sushi in Simi Valley, California? Check out Megu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJQ4NXghkp6IARuQqJjdlmwv4
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 155
 website: https://megusushi.net/
-description: null
 reviews:
   - name: >-
       places/ChIJQ4NXghkp6IARuQqJjdlmwv4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRM1BYRzZnRRAB
@@ -333,5 +337,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: false
+summary: null
 
 ---

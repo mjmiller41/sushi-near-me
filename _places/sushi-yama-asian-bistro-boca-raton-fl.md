@@ -5,6 +5,11 @@ permalink: /florida/boca-raton/sushi-yama-asian-bistro.html
 stateAbbr: FL
 stateName: Florida
 cityName: Boca Raton
+seo:
+  name: "Sushi Yama Asian Bistro"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Boca Raton, Florida? Check out Sushi Yama Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJib6k2Doc2YgRFGrfZEKDD3A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

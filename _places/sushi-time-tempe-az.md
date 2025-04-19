@@ -5,6 +5,11 @@ permalink: /arizona/tempe/sushi-time.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tempe
+seo:
+  name: "Sushi Time"
+  type: Restaurant
+  links: https://onlineorder.hotsaucepos.com/store/sushitime
+description: "Looking for sushi in Tempe, Arizona? Check out Sushi Time for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJlfpQxhgGK4cRygLSJdYAMZ4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 476
 website: https://onlineorder.hotsaucepos.com/store/sushitime
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

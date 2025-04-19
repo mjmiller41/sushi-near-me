@@ -5,6 +5,11 @@ permalink: /connecticut/storrs/eatjoy.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Storrs
+seo:
+  name: "Eatjoy"
+  type: Restaurant
+  links: https://www.eatjoystorrs.com/
+description: "Looking for sushi in Storrs, Connecticut? Check out Eatjoy for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJZ1WQXdSL5okR-8FLvMRNzUk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 114
 website: https://www.eatjoystorrs.com/
-description: null
 reviews:
   - name: >-
       places/ChIJZ1WQXdSL5okR-8FLvMRNzUk/reviews/ChdDSUhNMG9nS0VJQ0FnSURkeWJfcTRBRRAB
@@ -367,5 +371,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

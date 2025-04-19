@@ -5,6 +5,11 @@ permalink: /california/ventura/banzai-marina.html
 stateAbbr: CA
 stateName: California
 cityName: Ventura
+seo:
+  name: "Banzai Marina"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Ventura, California? Check out Banzai Marina for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJK6BL0--s6YAR0rFjbp6V900
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

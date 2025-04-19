@@ -5,6 +5,11 @@ permalink: /california/san-francisco/zenpo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Zenpo Sushi"
+  type: Restaurant
+  links: https://zenposushisf.com/
+description: "Looking for sushi in San Francisco, California? Check out Zenpo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJJUpDSRiBhYARIAIWf8tMCoM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 57
 website: https://zenposushisf.com/
-description: null
 reviews:
   - name: >-
       places/ChIJJUpDSRiBhYARIAIWf8tMCoM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnaGNhbUJnEAE
@@ -384,5 +388,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

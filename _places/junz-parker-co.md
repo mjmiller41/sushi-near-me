@@ -5,6 +5,11 @@ permalink: /colorado/parker/junz.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Parker
+seo:
+  name: "Junz"
+  type: Restaurant
+  links: https://www.junzparker.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=5574634c-3ef9-4f11-8e8d-f94aa014e446
+description: "Looking for sushi in Parker, Colorado? Check out Junz for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.4'
 rating_count: 469
 website: >-
   https://www.junzparker.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=5574634c-3ef9-4f11-8e8d-f94aa014e446
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

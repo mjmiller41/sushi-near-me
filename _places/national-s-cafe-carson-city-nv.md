@@ -5,6 +5,11 @@ permalink: /nevada/carson-city/national-s-cafe.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Carson City
+seo:
+  name: "National’s Cafe"
+  type: Restaurant
+  links: http://nationalscafesushi.com/
+description: "Looking for sushi in Carson City, Nevada? Check out National’s Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ12fg4r0KmYARWw1sTH0Jj20
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 153
 website: http://nationalscafesushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

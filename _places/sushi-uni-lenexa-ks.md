@@ -5,6 +5,11 @@ permalink: /kansas/lenexa/sushi-uni.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Lenexa
+seo:
+  name: "Sushi UNI"
+  type: Restaurant
+  links: https://www.ordersushiuni.com/
+description: "Compact, busy strip-mall venue for traditional Japanese sushi, sashimi, salads & hot entrees. Looking for sushi in Lenexa, Kansas? Check out Sushi UNI for a ..."
 place_id: ChIJWQVgBqmUwIcRhxXieX6gsyY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 2435
 website: https://www.ordersushiuni.com/
-description: >-
-  Compact, busy strip-mall venue for traditional Japanese sushi, sashimi, salads
-  & hot entrees.
 reviews:
   - name: >-
       places/ChIJWQVgBqmUwIcRhxXieX6gsyY/reviews/ChZDSUhNMG9nS0VJQ0FnTURJN1BLdk1BEAE
@@ -395,5 +397,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Compact, busy strip-mall venue for traditional Japanese sushi, sashimi, salads
+  & hot entrees.
 
 ---

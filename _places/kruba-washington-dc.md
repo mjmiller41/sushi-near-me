@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/kruba.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Kruba"
+  type: Restaurant
+  links: http://krubathai.com/
+description: "Thai dishes, sushi & sashimi served amid teak tables, carved-wood decor & a convivial bar scene. Looking for sushi in Washington, District of Columbia? Check..."
 place_id: ChIJGYRr_9C5t4kRVgyzuVBkCRg
 photos:
   - >-
@@ -69,9 +74,6 @@ price_range: $10 &mdash; 20
 rating: '4.0'
 rating_count: 473
 website: http://krubathai.com/
-description: >-
-  Thai dishes, sushi & sashimi served amid teak tables, carved-wood decor & a
-  convivial bar scene.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNYMjhLcDdnRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUNicHI2a3J3RRAB
@@ -106,5 +108,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Thai dishes, sushi & sashimi served amid teak tables, carved-wood decor & a
+  convivial bar scene.
 
 ---

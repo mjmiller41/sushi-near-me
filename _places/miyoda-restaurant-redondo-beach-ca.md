@@ -5,6 +5,11 @@ permalink: /california/redondo-beach/miyoda-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Redondo Beach
+seo:
+  name: "Miyoda Restaurant"
+  type: Restaurant
+  links: https://www.miyodajapanese.com/
+description: "Sushi & hearty Japanese fare served in an upbeat, strip-mall setting with simple decor. Looking for sushi in Redondo Beach, California? Check out Miyoda Rest..."
 place_id: ChIJiQp9AZq0woARgxBLNifYHT0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 248
 website: https://www.miyodajapanese.com/
-description: >-
-  Sushi & hearty Japanese fare served in an upbeat, strip-mall setting with
-  simple decor.
 reviews:
   - name: >-
       places/ChIJiQp9AZq0woARgxBLNifYHT0/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6d0tYT1RREAE
@@ -374,5 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi & hearty Japanese fare served in an upbeat, strip-mall setting with
+  simple decor.
 
 ---

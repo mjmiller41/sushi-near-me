@@ -5,6 +5,11 @@ permalink: /new-york/flushing/otoro.html
 stateAbbr: NY
 stateName: New York
 cityName: Flushing
+seo:
+  name: "Otoro"
+  type: Restaurant
+  links: https://otoronyc.com/
+description: "Looking for sushi in Flushing, New York? Check out Otoro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJRzuH785hwokREHerxbm4RsM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 106
 website: https://otoronyc.com/
-description: null
 reviews:
   - name: >-
       places/ChIJRzuH785hwokREHerxbm4RsM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJclBTZ2F3EAE
@@ -413,5 +417,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

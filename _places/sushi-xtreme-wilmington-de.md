@@ -5,6 +5,11 @@ permalink: /delaware/wilmington/sushi-xtreme.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Wilmington
+seo:
+  name: "Sushi Xtreme"
+  type: Restaurant
+  links: https://www.sushixtreme.net/
+description: "Looking for sushi in Wilmington, Delaware? Check out Sushi Xtreme for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJMwredh8Ax4kRTgkfYmhsBEw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 455
 website: https://www.sushixtreme.net/
-description: null
 reviews:
   - name: >-
       places/ChIJMwredh8Ax4kRTgkfYmhsBEw/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzcGJLQTJ3RRAB
@@ -362,5 +366,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

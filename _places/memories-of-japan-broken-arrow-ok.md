@@ -5,6 +5,11 @@ permalink: /oklahoma/broken-arrow/memories-of-japan.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Broken Arrow
+seo:
+  name: "Memories of Japan"
+  type: Restaurant
+  links: http://www.mojsushibar.com/
+description: "Looking for sushi in Broken Arrow, Oklahoma? Check out Memories of Japan for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJdYxGgXSMtocRkzsL5JS6H4g
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 608
 website: http://www.mojsushibar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

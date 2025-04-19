@@ -5,6 +5,11 @@ permalink: /kansas/leawood/ika-grill-sushi-pan-asian.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Leawood
+seo:
+  name: "Ika Grill Sushi & Pan Asian"
+  type: Restaurant
+  links: https://www.ikagrill.com/
+description: "Looking for sushi in Leawood, Kansas? Check out Ika Grill Sushi & Pan Asian for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJkSzGw_LpwIcRu0tyuSoERns
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 406
 website: https://www.ikagrill.com/
-description: null
 reviews:
   - name: >-
       places/ChIJkSzGw_LpwIcRu0tyuSoERns/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzdG9lN2pRRRAB
@@ -402,5 +406,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

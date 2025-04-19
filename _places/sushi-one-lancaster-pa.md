@@ -5,6 +5,11 @@ permalink: /pennsylvania/lancaster/sushi-one.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
+seo:
+  name: "Sushi One‎"
+  type: Restaurant
+  links: https://sushioneonline.com/
+description: "Looking for sushi in Lancaster, Pennsylvania? Check out Sushi One‎ for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJnTlyn5wjxokRwnshmJaUMqU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 343
 website: https://sushioneonline.com/
-description: null
 reviews:
   - name: >-
       places/ChIJnTlyn5wjxokRwnshmJaUMqU/reviews/ChZDSUhNMG9nS0VJQ0FnTURBdG9hcEF3EAE
@@ -406,5 +410,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

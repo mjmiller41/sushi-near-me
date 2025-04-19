@@ -5,6 +5,11 @@ permalink: /california/san-diego/nobu-san-diego.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Nobu San Diego"
+  type: Restaurant
+  links: https://www.noburestaurants.com/sandiego/home/?utm_source=google&utm_medium=Yext
+description: "Looking for sushi in San Diego, California? Check out Nobu San Diego for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJTTePWlpT2YARQlYBgNZDN7Q
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.2'
 rating_count: 837
 website: >-
   https://www.noburestaurants.com/sandiego/home/?utm_source=google&utm_medium=Yext
-description: null
 reviews:
   - name: >-
       places/ChIJTTePWlpT2YARQlYBgNZDN7Q/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3czdydUZBEAE
@@ -478,5 +482,6 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /minnesota/chanhassen/bonsai-korean-cuisine.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Chanhassen
+seo:
+  name: "Bonsai Korean Cuisine"
+  type: Restaurant
+  links: https://www.bonsaimn.com/
+description: "Restaurant for a wide range of Korean dishes in a small, contemporary interior. Looking for sushi in Chanhassen, Minnesota? Check out Bonsai Korean Cuisine f..."
 place_id: ChIJgQPfE5ob9ocRA9Juobe6sFs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 408
 website: https://www.bonsaimn.com/
-description: >-
-  Restaurant for a wide range of Korean dishes in a small, contemporary
-  interior.
 reviews:
   - name: >-
       places/ChIJgQPfE5ob9ocRA9Juobe6sFs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbi11T2V3EAE
@@ -397,5 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Restaurant for a wide range of Korean dishes in a small, contemporary
+  interior.
 
 ---

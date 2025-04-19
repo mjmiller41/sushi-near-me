@@ -5,6 +5,11 @@ permalink: /texas/san-marcos/kobe-steak-house-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: San Marcos
+seo:
+  name: "Kobe Steak House & Sushi"
+  type: Restaurant
+  links: https://www.kobesmtx.com/
+description: "Looking for sushi in San Marcos, Texas? Check out Kobe Steak House & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJe1Z-R22pXIYRGCg1bxr9UQ0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 1630
 website: https://www.kobesmtx.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

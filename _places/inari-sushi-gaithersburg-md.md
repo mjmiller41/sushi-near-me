@@ -5,6 +5,11 @@ permalink: /maryland/gaithersburg/inari-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
+seo:
+  name: "Inari Sushi"
+  type: Restaurant
+  links: http://www.inarisushitogo.com/
+description: "Looking for sushi in Gaithersburg, Maryland? Check out Inari Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJrzopTNMttokR3QTyuvxf3Ug
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 80
 website: http://www.inarisushitogo.com/
-description: null
 reviews:
   - name: >-
       places/ChIJrzopTNMttokR3QTyuvxf3Ug/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNm9ud3FnRRAB
@@ -372,5 +376,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

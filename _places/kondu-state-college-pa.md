@@ -5,6 +5,11 @@ permalink: /pennsylvania/state-college/kondu.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: State College
+seo:
+  name: "Kondu"
+  type: Restaurant
+  links: http://kondustatecollege.com/
+description: "Looking for sushi in State College, Pennsylvania? Check out Kondu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJhZxiuJiozokRhJJEB307MJM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 221
 website: http://kondustatecollege.com/
-description: null
 reviews:
   - name: >-
       places/ChIJhZxiuJiozokRhJJEB307MJM/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2a2Q2d25nRRAB
@@ -355,5 +359,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/cure-bar-bistro.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Cure Bar & Bistro"
+  type: Restaurant
+  links: https://www.curebarandbistro.com/
+description: "Looking for sushi in Washington, District of Columbia? Check out Cure Bar & Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJSzcUXpG3t4kRbjuqpcHzbGw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 277
 website: https://www.curebarandbistro.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

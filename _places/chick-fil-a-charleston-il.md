@@ -5,6 +5,11 @@ permalink: /illinois/charleston/chick-fil-a.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Charleston
+seo:
+  name: "Chick-fil-A"
+  type: Restaurant
+  links: https://www.chick-fil-a.com/locations/il/eastern-illinois-university?utm_source=yext&utm_medium=link
+description: "Fast-food chain serving chicken sandwiches & nuggets along with salads & sides. Looking for sushi in Charleston, Illinois? Check out Chick-fil-A for a deligh..."
 place_id: ChIJGbS3YFodc4gRL9C8Bo7iHXk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ rating: '4.2'
 rating_count: 131
 website: >-
   https://www.chick-fil-a.com/locations/il/eastern-illinois-university?utm_source=yext&utm_medium=link
-description: >-
-  Fast-food chain serving chicken sandwiches & nuggets along with salads &
-  sides.
 reviews:
   - name: >-
       places/ChIJGbS3YFodc4gRL9C8Bo7iHXk/reviews/ChdDSUhNMG9nS0VJQ0FnSURIdkk2RHl3RRAB
@@ -355,5 +357,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: false
+summary: >-
+  Fast-food chain serving chicken sandwiches & nuggets along with salads &
+  sides.
 
 ---

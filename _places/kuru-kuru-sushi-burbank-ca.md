@@ -5,6 +5,11 @@ permalink: /california/burbank/kuru-kuru-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Burbank
+seo:
+  name: "Kuru Kuru Sushi"
+  type: Restaurant
+  links: https://www.clover.com/online-ordering/kuru-kuru-burbank?utm_source=web-dashboard&utm_medium=qrcode&utm_campaign=olo-qr-template
+description: "Looking for sushi in Burbank, California? Check out Kuru Kuru Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJFXz_g9S_woARZeFRKFSs-dM
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.4'
 rating_count: 154
 website: >-
   https://www.clover.com/online-ordering/kuru-kuru-burbank?utm_source=web-dashboard&utm_medium=qrcode&utm_campaign=olo-qr-template
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

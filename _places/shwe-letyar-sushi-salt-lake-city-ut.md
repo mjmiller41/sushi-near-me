@@ -5,6 +5,11 @@ permalink: /utah/salt-lake-city/shwe-letyar-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
+seo:
+  name: "Shwe Letyar Sushi"
+  type: Restaurant
+  links: https://order.toasttab.com/online/shwe-letyar-sushi-545-west-700-south
+description: "Looking for sushi in Salt Lake City, Utah? Check out Shwe Letyar Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJ9XBEu8P1UocRlwt4ceMfYZE
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '5.0'
 rating_count: 15
 website: https://order.toasttab.com/online/shwe-letyar-sushi-545-west-700-south
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

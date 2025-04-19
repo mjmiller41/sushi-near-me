@@ -5,6 +5,11 @@ permalink: /new-mexico/santa-fe/joy-s-sushi-bar.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Santa Fe
+seo:
+  name: "Joy's Sushi Bar"
+  type: Restaurant
+  links: https://www.joyssushibarnm.com/
+description: "Looking for sushi in Santa Fe, New Mexico? Check out Joy's Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJG24cYwBbGIcRrEXq23eWAw0
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 50
 website: https://www.joyssushibarnm.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

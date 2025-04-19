@@ -5,6 +5,11 @@ permalink: /nebraska/lincoln/shokunin-sushi-and-japanese-cuisine.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
+seo:
+  name: "Shokunin Sushi and Japanese Cuisine"
+  type: Restaurant
+  links: http://facebook.com/Shokunin.Lincoln/
+description: "Looking for sushi in Lincoln, Nebraska? Check out Shokunin Sushi and Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJ0xHt_o-_locR5OM_Gx_-zcs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 431
 website: http://facebook.com/Shokunin.Lincoln/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

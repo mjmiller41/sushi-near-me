@@ -5,6 +5,11 @@ permalink: /illinois/chicago/kyoten-next-door.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Kyoten Next Door"
+  type: Restaurant
+  links: http://kyotenchicago.com/
+description: "Looking for sushi in Chicago, Illinois? Check out Kyoten Next Door for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJEds1-4bTD4gRjPBicSC6ugM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '5.0'
 rating_count: 63
 website: http://kyotenchicago.com/
-description: null
 reviews:
   - name: >-
       places/ChIJEds1-4bTD4gRjPBicSC6ugM/reviews/ChdDSUhNMG9nS0VJQ0FnSURYaThPY193RRAB
@@ -377,5 +381,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: false
+summary: null
 
 ---

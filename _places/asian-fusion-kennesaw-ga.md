@@ -5,6 +5,11 @@ permalink: /georgia/kennesaw/asian-fusion.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Kennesaw
+seo:
+  name: "Asian Fusion"
+  type: Restaurant
+  links: http://asianfusionatl.com/
+description: "Looking for sushi in Kennesaw, Georgia? Check out Asian Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJm3Xw33gV9YgRyeZj-CWIILo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 326
 website: http://asianfusionatl.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

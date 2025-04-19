@@ -5,6 +5,11 @@ permalink: /louisiana/baton-rouge/tiger-sushi.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Baton Rouge
+seo:
+  name: "Tiger Sushi"
+  type: Restaurant
+  links: http://www.tigersushi225.com/
+description: "Looking for sushi in Baton Rouge, Louisiana? Check out Tiger Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJkUuzrEm7JoYRVj9RQ3gKfAo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 223
 website: http://www.tigersushi225.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

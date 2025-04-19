@@ -5,6 +5,11 @@ permalink: /florida/tampa/oishi-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
+seo:
+  name: "Oishi Sushi Bar"
+  type: Restaurant
+  links: https://www.oishisushithaioldsmar.com/
+description: "Straightforward setting for Thai classics & sushi with lunch specials, beer, wine & happy hour. Looking for sushi in Tampa, Florida? Check out Oishi Sushi Ba..."
 place_id: ChIJU7UdBkXswogRIXTTR4OQKf4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 391
 website: https://www.oishisushithaioldsmar.com/
-description: >-
-  Straightforward setting for Thai classics & sushi with lunch specials, beer,
-  wine & happy hour.
 reviews:
   - name: >-
       places/ChIJU7UdBkXswogRIXTTR4OQKf4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbk9UU2JBEAE
@@ -351,5 +353,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Straightforward setting for Thai classics & sushi with lunch specials, beer,
+  wine & happy hour.
 
 ---

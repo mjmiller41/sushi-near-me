@@ -5,6 +5,11 @@ permalink: /colorado/aurora/aurora-sonoda-s-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
+seo:
+  name: "Aurora Sonoda's Sushi"
+  type: Restaurant
+  links: https://aurorasonodassushi.com/
+description: "Looking for sushi in Aurora, Colorado? Check out Aurora Sonoda's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJKVx5E-SHbIcR7cD3UTrLAGI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 767
 website: https://aurorasonodassushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

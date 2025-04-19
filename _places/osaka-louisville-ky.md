@@ -5,6 +5,11 @@ permalink: /kentucky/louisville/osaka.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Louisville
+seo:
+  name: "Osaka"
+  type: Restaurant
+  links: null
+description: "One of a small chain of casual Japanese eateries known for a selection of traditional sushi fare. Looking for sushi in Louisville, Kentucky? Check out Osaka ..."
 place_id: ChIJRV-GzD5zaYgR2O7nFVtgykY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1007
 website: null
-description: >-
-  One of a small chain of casual Japanese eateries known for a selection of
-  traditional sushi fare.
 reviews:
   - name: >-
       places/ChIJRV-GzD5zaYgR2O7nFVtgykY/reviews/ChZDSUhNMG9nS0VJQ0FnTURRelotQlhBEAE
@@ -413,5 +415,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  One of a small chain of casual Japanese eateries known for a selection of
+  traditional sushi fare.
 
 ---

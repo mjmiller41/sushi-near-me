@@ -5,6 +5,11 @@ permalink: /pennsylvania/carlisle/aya-japanese-steakhouse.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Carlisle
+seo:
+  name: "Aya Japanese Steakhouse"
+  type: Restaurant
+  links: null
+description: "Traditional backdrop for hibachi grill tables & an extensive menu of Japanese dishes & sushi rolls. Looking for sushi in Carlisle, Pennsylvania? Check out Ay..."
 place_id: ChIJ5Vkyq8_hyIkRkM4tgINJGRQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 557
 website: null
-description: >-
-  Traditional backdrop for hibachi grill tables & an extensive menu of Japanese
-  dishes & sushi rolls.
 reviews:
   - name: >-
       places/ChIJ5Vkyq8_hyIkRkM4tgINJGRQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURfc2VYSmhnRRAB
@@ -383,5 +385,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Traditional backdrop for hibachi grill tables & an extensive menu of Japanese
+  dishes & sushi rolls.
 
 ---

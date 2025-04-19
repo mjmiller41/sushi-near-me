@@ -5,6 +5,11 @@ permalink: /new-york/new-york/isohama.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Isohama"
+  type: Restaurant
+  links: http://www.isohama.com/
+description: "Tranquil find with dark-wood decor offering a sushi selection plus cooked Japanese dishes. Looking for sushi in New York, New York? Check out Isohama for a d..."
 place_id: ChIJ0xo0S6RYwokR3Bf7nu0vPFs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 277
 website: http://www.isohama.com/
-description: >-
-  Tranquil find with dark-wood decor offering a sushi selection plus cooked
-  Japanese dishes.
 reviews:
   - name: >-
       places/ChIJ0xo0S6RYwokR3Bf7nu0vPFs/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMWJPVzFBRRAB
@@ -394,5 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Tranquil find with dark-wood decor offering a sushi selection plus cooked
+  Japanese dishes.
 
 ---

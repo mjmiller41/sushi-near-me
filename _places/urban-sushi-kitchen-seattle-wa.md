@@ -5,6 +5,11 @@ permalink: /washington/seattle/urban-sushi-kitchen.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Urban Sushi Kitchen"
+  type: Restaurant
+  links: http://www.urbansushikitchen.com/
+description: "Looking for sushi in Seattle, Washington? Check out Urban Sushi Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ-4RhGUsVkFQRllCF99g9t_M
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 391
 website: http://www.urbansushikitchen.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/oakland/mujiri.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
+seo:
+  name: "Mujiri"
+  type: Restaurant
+  links: http://www.mujiri-oakland.com/
+description: "Looking for sushi in Oakland, California? Check out Mujiri for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJbwFfhgh_hYAR66UbFLHUdnk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 443
 website: http://www.mujiri-oakland.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

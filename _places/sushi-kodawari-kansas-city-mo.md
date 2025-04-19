@@ -5,6 +5,11 @@ permalink: /missouri/kansas-city/sushi-kodawari.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
+seo:
+  name: "Sushi Kodawari"
+  type: Restaurant
+  links: http://www.sushikodawari.com/
+description: "Looking for sushi in Kansas City, Missouri? Check out Sushi Kodawari for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJ3ZC-RRfxwIcREBi1SUGMQdE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 41
 website: http://www.sushikodawari.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ3ZC-RRfxwIcREBi1SUGMQdE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfcmFHMkRREAE
@@ -431,5 +435,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
+summary: null
 
 ---

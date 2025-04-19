@@ -5,6 +5,11 @@ permalink: /maryland/silver-spring/masa-hibachi-steakhouse-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Silver Spring
+seo:
+  name: "Masa Hibachi Steakhouse & Sushi"
+  type: Restaurant
+  links: https://www.masahibachisteakhousemd.com/
+description: "Looking for sushi in Silver Spring, Maryland? Check out Masa Hibachi Steakhouse & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJB0BbPrrIt4kRDLhB8yjpUzQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 1299
 website: https://www.masahibachisteakhousemd.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

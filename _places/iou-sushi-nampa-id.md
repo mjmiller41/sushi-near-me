@@ -5,6 +5,11 @@ permalink: /idaho/nampa/iou-sushi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Nampa
+seo:
+  name: "IOU Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Nampa, Idaho? Check out IOU Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
 place_id: ChIJs0y4ZaFMrlQRDPmbl5gCyQw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 520
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

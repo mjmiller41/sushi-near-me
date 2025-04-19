@@ -4,8 +4,8 @@
 <div class="place-page">
   {%- assign place = page -%}
 
-  {% if place.description %}
-    <p class="description">{{ place.description }}</p>
+  {% if place.summary %}
+    <p class="description">{{ place.summary }}</p>
   {% endif %}
 
   <div class="price-rating">
@@ -30,6 +30,14 @@
       </span>
     {% endif %}
   </address>
+
+  {% if place.website %}
+    <div class="website">
+      {% include icons/globe_icon.svg %}
+      <span>Website:</span>
+      <a href="{{ place.website | default: "/#" }}">{{ place.website }}</a>
+    </div>
+  {% endif %}
 
   <div class="maps-links">
     {% include icons/direction_icon.svg %}

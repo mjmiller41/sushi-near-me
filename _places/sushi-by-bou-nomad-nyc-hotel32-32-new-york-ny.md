@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-by-bou-nomad-nyc-hotel32-32.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi By Bou - NOMAD NYC @ Hotel32|32"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New York, New York? Check out Sushi By Bou - NOMAD NYC @ Hotel32|32 for a delightful Japanese dining experience. Enjoy a variety of sush..."
 place_id: ChIJM-U6m2VZwokRxFWJrVZ8F_c
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

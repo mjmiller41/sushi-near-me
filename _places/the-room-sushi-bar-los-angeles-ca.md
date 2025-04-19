@@ -5,6 +5,11 @@ permalink: /california/los-angeles/the-room-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "The Room Sushi Bar"
+  type: Restaurant
+  links: https://www.theroomsushi.com/
+description: "Looking for sushi in Los Angeles, California? Check out The Room Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJ10eY85y7woARDosjyqpRdf4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 260
 website: https://www.theroomsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

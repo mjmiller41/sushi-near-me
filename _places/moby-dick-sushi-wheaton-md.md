@@ -5,6 +5,11 @@ permalink: /maryland/wheaton/moby-dick-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Wheaton
+seo:
+  name: "Moby Dick Sushi"
+  type: Restaurant
+  links: http://www.mbdsushi.com/
+description: "Snug setting with a big menu of sushi, Japanese noodles & a few token Korean dishes. Looking for sushi in Wheaton, Maryland? Check out Moby Dick Sushi for a ..."
 place_id: ChIJyeCMiRzPt4kRrma7Z0YjnuE
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 338
 website: http://www.mbdsushi.com/
-description: >-
-  Snug setting with a big menu of sushi, Japanese noodles & a few token Korean
-  dishes.
 reviews:
   - name: >-
       places/ChIJyeCMiRzPt4kRrma7Z0YjnuE/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NmM3QzFRRRAB
@@ -424,5 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Snug setting with a big menu of sushi, Japanese noodles & a few token Korean
+  dishes.
 
 ---

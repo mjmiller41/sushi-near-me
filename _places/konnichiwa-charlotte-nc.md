@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/konnichiwa.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "Konnichiwa"
+  type: Restaurant
+  links: https://www.konnichiwacharlotte.com/
+description: "Looking for sushi in Charlotte, North Carolina? Check out Konnichiwa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJkbGxEdWfVogREC3j2glYA1Y
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 466
 website: https://www.konnichiwacharlotte.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /michigan/muskegon/yum-yum-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Muskegon
+seo:
+  name: "Yum Yum Sushi"
+  type: Restaurant
+  links: http://www.yumyumsushi123.com/
+description: "Looking for sushi in Muskegon, Michigan? Check out Yum Yum Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJaUQaHRvWG4gRPphhmD6Bm2E
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 623
 website: http://www.yumyumsushi123.com/
-description: null
 reviews:
   - name: >-
       places/ChIJaUQaHRvWG4gRPphhmD6Bm2E/reviews/ChZDSUhNMG9nS0VJQ0FnSURfNTVYMVBREAE
@@ -361,5 +365,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

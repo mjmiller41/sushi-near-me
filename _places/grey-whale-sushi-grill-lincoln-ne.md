@@ -5,6 +5,11 @@ permalink: /nebraska/lincoln/grey-whale-sushi-grill.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
+seo:
+  name: "Grey Whale Sushi & Grill"
+  type: Restaurant
+  links: https://greywhalesushilincoln.com/?y_source=1_MTAwMjg1NDE0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+description: "Looking for sushi in Lincoln, Nebraska? Check out Grey Whale Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJYzxbsgK_locROXqvmTb7LTM
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.6'
 rating_count: 1499
 website: >-
   https://greywhalesushilincoln.com/?y_source=1_MTAwMjg1NDE0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /florida/gainesville/arashi-yama-sushi-hibachi-lounge.html
 stateAbbr: FL
 stateName: Florida
 cityName: Gainesville
+seo:
+  name: "Arashi Yama sushi & hibachi lounge"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Gainesville, Florida? Check out Arashi Yama sushi & hibachi lounge for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJiYXcMY-76IgRBXkyJ0-y_HQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 361
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJiYXcMY-76IgRBXkyJ0-y_HQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRNzYzMHhBRRAB
@@ -481,5 +485,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

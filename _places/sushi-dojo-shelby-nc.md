@@ -5,6 +5,11 @@ permalink: /north-carolina/shelby/sushi-dojo.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Shelby
+seo:
+  name: "Sushi Dojo"
+  type: Restaurant
+  links: https://www.sushidojo.com/
+description: "Casual restaurant with a bar & Asian fare ranging from specialty rolls to Korean-inspired tacos. Looking for sushi in Shelby, North Carolina? Check out Sushi..."
 place_id: ChIJKU23lhggV4gRESOTFvvezC4
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 854
 website: https://www.sushidojo.com/
-description: >-
-  Casual restaurant with a bar & Asian fare ranging from specialty rolls to
-  Korean-inspired tacos.
 reviews:
   - name: >-
       places/ChIJKU23lhggV4gRESOTFvvezC4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJcUs2OC1RRRAB
@@ -352,5 +354,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Casual restaurant with a bar & Asian fare ranging from specialty rolls to
+  Korean-inspired tacos.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/dobbs-ferry/sushi-mike-s.html
 stateAbbr: NY
 stateName: New York
 cityName: Dobbs Ferry
+seo:
+  name: "Sushi Mike's"
+  type: Restaurant
+  links: https://sushimikes.com/?utm_source=google
+description: "Creative specialty rolls & more standard Japanese fare served in a tricked-out, modern space. Looking for sushi in Dobbs Ferry, New York? Check out Sushi Mik..."
 place_id: ChIJM6nYZGLrwokRO8me2evI8O4
 photos:
   - name: >-
@@ -176,9 +181,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 528
 website: https://sushimikes.com/?utm_source=google
-description: >-
-  Creative specialty rolls & more standard Japanese fare served in a
-  tricked-out, modern space.
 reviews:
   - name: >-
       places/ChIJM6nYZGLrwokRO8me2evI8O4/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzNU9UclFREAE
@@ -352,5 +354,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Creative specialty rolls & more standard Japanese fare served in a
+  tricked-out, modern space.
 
 ---

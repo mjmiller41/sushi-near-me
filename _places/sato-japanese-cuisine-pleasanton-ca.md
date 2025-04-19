@@ -5,6 +5,11 @@ permalink: /california/pleasanton/sato-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Pleasanton
+seo:
+  name: "Sato Japanese Cuisine"
+  type: Restaurant
+  links: https://sites.google.com/view/satojapanesecuisine
+description: "Looking for sushi in Pleasanton, California? Check out Sato Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJj7r-wmPpj4ARzr-bbLWqSqc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 151
 website: https://sites.google.com/view/satojapanesecuisine
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

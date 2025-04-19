@@ -5,6 +5,11 @@ permalink: /ohio/twinsburg/sushi-en-twinsburg.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Twinsburg
+seo:
+  name: "Sushi En Twinsburg"
+  type: Restaurant
+  links: https://sushientwinsburg.toast.site/
+description: "Looking for sushi in Twinsburg, Ohio? Check out Sushi En Twinsburg for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJYVv3KSwfMYgRTKBdX_N4Bhk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 481
 website: https://sushientwinsburg.toast.site/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

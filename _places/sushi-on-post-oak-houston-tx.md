@@ -5,6 +5,11 @@ permalink: /texas/houston/sushi-on-post-oak.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "Sushi On Post Oak"
+  type: Restaurant
+  links: https://sopohouston.com/
+description: "Looking for sushi in Houston, Texas? Check out Sushi On Post Oak for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJe5qsjvfBQIYR-XEHm31kAvs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 683
 website: https://sopohouston.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

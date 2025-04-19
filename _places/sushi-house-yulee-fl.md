@@ -5,6 +5,11 @@ permalink: /florida/yulee/sushi-house.html
 stateAbbr: FL
 stateName: Florida
 cityName: Yulee
+seo:
+  name: "Sushi House"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Yulee, Florida? Check out Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJYVy0WXoA5YgRF8kovqcHaR0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

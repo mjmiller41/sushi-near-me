@@ -5,6 +5,11 @@ permalink: /florida/st-augustine/mikato-japanese-steak-house-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: St. Augustine
+seo:
+  name: "Mikato Japanese Steak House & Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Casual eatery with hibachi meals cooked by teppanyaki chefs & other Japanese staples, plus a bar. Looking for sushi in St. Augustine, Florida? Check out Mika..."
 place_id: ChIJG2t4yvYn5IgRVyKGzXpNv00
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 699
 website: null
-description: >-
-  Casual eatery with hibachi meals cooked by teppanyaki chefs & other Japanese
-  staples, plus a bar.
 reviews:
   - name: >-
       places/ChIJG2t4yvYn5IgRVyKGzXpNv00/reviews/ChZDSUhNMG9nS0VJQ0FnSURuaEoya0p3EAE
@@ -442,5 +444,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: false
 takeout: null
+summary: >-
+  Casual eatery with hibachi meals cooked by teppanyaki chefs & other Japanese
+  staples, plus a bar.
 
 ---

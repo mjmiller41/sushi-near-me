@@ -5,6 +5,11 @@ permalink: /new-mexico/santa-fe/jesushi-santa-fe-llc-food-truck.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Santa Fe
+seo:
+  name: "Jesushi Santa Fe LLC (Food Truck)"
+  type: Restaurant
+  links: https://order.online/business/jesushi-13887887
+description: "Looking for sushi in Santa Fe, New Mexico? Check out Jesushi Santa Fe LLC (Food Truck) for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJVyUTBapbGIcRSai0KQdDEhA
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: '4.9'
 rating_count: 59
 website: https://order.online/business/jesushi-13887887
-description: null
 reviews:
   - name: >-
       places/ChIJVyUTBapbGIcRSai0KQdDEhA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5emRDZWV3EAE
@@ -456,5 +460,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

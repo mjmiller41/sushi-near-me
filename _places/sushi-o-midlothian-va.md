@@ -5,6 +5,11 @@ permalink: /virginia/midlothian/sushi-o.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Midlothian
+seo:
+  name: "Sushi-O"
+  type: Restaurant
+  links: http://www.sushiomidlothian.com/
+description: "Looking for sushi in Midlothian, Virginia? Check out Sushi-O for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJ5WcaRXRtsYkRy1hx1NtAZoM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 132
 website: http://www.sushiomidlothian.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ5WcaRXRtsYkRy1hx1NtAZoM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReWIzNnV3RRAB
@@ -388,5 +392,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /pennsylvania/king-of-prussia/kooma-king-of-prussia.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: King of Prussia
+seo:
+  name: "Kooma - King of Prussia"
+  type: Restaurant
+  links: http://koomakop.com/
+description: "Looking for sushi in King of Prussia, Pennsylvania? Check out Kooma - King of Prussia for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJA4OZqVSVxokRJdPX9NTOu8Y
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 643
 website: http://koomakop.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

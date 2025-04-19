@@ -5,6 +5,11 @@ permalink: /texas/houston/kumo-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "Kumo Sushi"
+  type: Restaurant
+  links: https://www.kumosushihouston.com/
+description: "Looking for sushi in Houston, Texas? Check out Kumo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJyV4HCpTNQIYRtY6_R8S6dxE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 437
 website: https://www.kumosushihouston.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/valencia/mr-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Valencia
+seo:
+  name: "Mr. Sushi"
+  type: Restaurant
+  links: http://www.mrsushivalencia.com/
+description: "Looking for sushi in Valencia, California? Check out Mr. Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJoZCfPG2HwoAR3rlGT2r_shw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 605
 website: http://www.mrsushivalencia.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

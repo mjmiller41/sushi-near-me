@@ -5,6 +5,11 @@ permalink: /california/berkeley/sushi-california.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
+seo:
+  name: "Sushi California"
+  type: Restaurant
+  links: https://order.mealkeyway.com/customer/release/index?mid=6836646c4a767a697545797767622f357675734f58673d3d#/main
+description: "Looking for sushi in Berkeley, California? Check out Sushi California for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJp3MmF5l-hYARdHIJ0JfRGFw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ rating: '4.5'
 rating_count: 171
 website: >-
   https://order.mealkeyway.com/customer/release/index?mid=6836646c4a767a697545797767622f357675734f58673d3d#/main
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

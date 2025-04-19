@@ -5,6 +5,11 @@ permalink: /california/san-bernardino/wild-blue-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Bernardino
+seo:
+  name: "Wild Blue Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Bernardino, California? Check out Wild Blue Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJFXoBeABRw4AR2IXmCx1VGVE
 photos: null
 address: 5500 University Pkwy, San Bernardino, CA 92407, USA
@@ -50,7 +55,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -77,5 +81,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

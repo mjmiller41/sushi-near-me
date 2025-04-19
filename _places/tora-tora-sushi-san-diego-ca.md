@@ -5,6 +5,11 @@ permalink: /california/san-diego/tora-tora-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Tora Tora Sushi"
+  type: Restaurant
+  links: http://www.toratorasushi.com/
+description: "Looking for sushi in San Diego, California? Check out Tora Tora Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ3dC9KF7524ARt2aB61zMLIg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 73
 website: http://www.toratorasushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ3dC9KF7524ARt2aB61zMLIg/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3d012THZRRRAB
@@ -416,5 +420,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

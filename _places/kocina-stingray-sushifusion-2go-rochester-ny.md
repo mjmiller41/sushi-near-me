@@ -5,6 +5,11 @@ permalink: /new-york/rochester/kocina-stingray-sushifusion-2go.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
+seo:
+  name: "Kocina Stingray Sushifusion 2Go"
+  type: Restaurant
+  links: https://stingraysushifusion.com/?utm_source=google
+description: "Looking for sushi in Rochester, New York? Check out Kocina Stingray Sushifusion 2Go for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJmU9aJoS11okRMDV-DkI9HqI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 255
 website: https://stingraysushifusion.com/?utm_source=google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

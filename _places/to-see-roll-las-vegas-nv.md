@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/to-see-roll.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "To See Roll"
+  type: Restaurant
+  links: http://toseeroll.com/
+description: "Looking for sushi in Las Vegas, Nevada? Check out To See Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJFU-AGMzHyIARrJndeZWtDmQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 515
 website: http://toseeroll.com/
-description: null
 reviews:
   - name: >-
       places/ChIJFU-AGMzHyIARrJndeZWtDmQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzLXVyanFRRRAB
@@ -398,5 +402,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

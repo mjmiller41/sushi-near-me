@@ -5,6 +5,11 @@ permalink: /new-york/fishkill/bonsai-3.html
 stateAbbr: NY
 stateName: New York
 cityName: Fishkill
+seo:
+  name: "Bonsai 3"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Fishkill, New York? Check out Bonsai 3 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJxdfG82833YkRd-E5xuz58WQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

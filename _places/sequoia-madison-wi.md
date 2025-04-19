@@ -5,6 +5,11 @@ permalink: /wisconsin/madison/sequoia.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
+seo:
+  name: "Sequoia"
+  type: Restaurant
+  links: http://sequoiamadison.com/
+description: "Looking for sushi in Madison, Wisconsin? Check out Sequoia for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJC9-fKyOtB4gRTRWoczVO-YI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 285
 website: http://sequoiamadison.com/
-description: null
 reviews:
   - name: >-
       places/ChIJC9-fKyOtB4gRTRWoczVO-YI/reviews/ChZDSUhNMG9nS0VJQ0FnTURneXRIOEJBEAE
@@ -385,5 +389,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

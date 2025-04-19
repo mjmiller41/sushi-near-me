@@ -5,6 +5,11 @@ permalink: /arizona/chandler/shu-sushi-ramen-grill.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
+seo:
+  name: "Shu Sushi Ramen & Grill"
+  type: Restaurant
+  links: https://www.shusushigrillramen.com/#/
+description: "Looking for sushi in Chandler, Arizona? Check out Shu Sushi Ramen & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJK689ATEHK4cR8n1nuBHOjp0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 511
 website: https://www.shusushigrillramen.com/#/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

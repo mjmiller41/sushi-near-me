@@ -5,6 +5,11 @@ permalink: /texas/leander/poke-fit-leander.html
 stateAbbr: TX
 stateName: Texas
 cityName: Leander
+seo:
+  name: "Poke fit-Leander"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Leander, Texas? Check out Poke fit-Leander for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJX_hVnEUtW4YRntHFswW7FhY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 202
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

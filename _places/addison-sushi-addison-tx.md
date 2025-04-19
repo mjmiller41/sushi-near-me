@@ -5,6 +5,11 @@ permalink: /texas/addison/addison-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Addison
+seo:
+  name: "Addison Sushi"
+  type: Restaurant
+  links: http://addisonsushi.com/
+description: "Looking for sushi in Addison, Texas? Check out Addison Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJ7yKCrAMhTIYRmi3jQcAkZ2U
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 381
 website: http://addisonsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

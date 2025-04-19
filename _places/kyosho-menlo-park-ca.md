@@ -5,6 +5,11 @@ permalink: /california/menlo-park/kyosho.html
 stateAbbr: CA
 stateName: California
 cityName: Menlo Park
+seo:
+  name: "Kyosho"
+  type: Restaurant
+  links: https://www.kyoshosushi.com/
+description: "Elevated sushi & modern Japanese kitchen entrees served with sake in a rustic-chic environment. Looking for sushi in Menlo Park, California? Check out Kyosho..."
 place_id: ChIJ3RNyM66kj4ARFCWUS_Jt3jg
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 369
 website: https://www.kyoshosushi.com/
-description: >-
-  Elevated sushi & modern Japanese kitchen entrees served with sake in a
-  rustic-chic environment.
 reviews:
   - name: >-
       places/ChIJ3RNyM66kj4ARFCWUS_Jt3jg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBbnBhTnB3RRAB
@@ -395,5 +397,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Elevated sushi & modern Japanese kitchen entrees served with sake in a
+  rustic-chic environment.
 
 ---

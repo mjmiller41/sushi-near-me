@@ -5,6 +5,11 @@ permalink: /virginia/alexandria/momo-sushi-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
+seo:
+  name: "Momo Sushi Japanese Restaurant"
+  type: Restaurant
+  links: http://momosushioldtown.com/
+description: "Sushi bar & kitchen with fresh rolls, teriyaki & noodles, plus lots of wine, sake & Japanese beers. Looking for sushi in Alexandria, Virginia? Check out Momo..."
 place_id: ChIJL3GvV_awt4kRVgK3mtw6keo
 photos:
   - >-
@@ -67,9 +72,6 @@ price_range: $20 &mdash; 30
 rating: '4.6'
 rating_count: 1230
 website: http://momosushioldtown.com/
-description: >-
-  Sushi bar & kitchen with fresh rolls, teriyaki & noodles, plus lots of wine,
-  sake & Japanese beers.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSURfaDk2NXdRRRAB
   - ChZDSUhNMG9nS0VJQ0FnSURYdjlYYVlBEAE
@@ -107,5 +109,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi bar & kitchen with fresh rolls, teriyaki & noodles, plus lots of wine,
+  sake & Japanese beers.
 
 ---

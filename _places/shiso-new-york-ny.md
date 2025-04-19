@@ -5,6 +5,11 @@ permalink: /new-york/new-york/shiso.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Shiso"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New York, New York? Check out Shiso for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJf34uKvxZwokREkMqa6NpYTE
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 428
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJf34uKvxZwokREkMqa6NpYTE/reviews/ChZDSUhNMG9nS0VJQ0FnSURibGEzWkRnEAE
@@ -503,5 +507,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: false
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/zumothai.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "ZumoThai"
+  type: Restaurant
+  links: http://www.zumothai.com/
+description: "Looking for sushi in Washington, District of Columbia? Check out ZumoThai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJc95zD923t4kRNYhZV4yPlAs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.zumothai.com/
-description: null
 reviews:
   - name: >-
       places/ChIJc95zD923t4kRNYhZV4yPlAs/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MExubUhBEAE
@@ -420,5 +424,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

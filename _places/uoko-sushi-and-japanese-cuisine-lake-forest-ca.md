@@ -5,6 +5,11 @@ permalink: /california/lake-forest/uoko-sushi-and-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Lake Forest
+seo:
+  name: "Uoko Sushi and Japanese Cuisine"
+  type: Restaurant
+  links: http://uokolakeforest.com/
+description: "Looking for sushi in Lake Forest, California? Check out Uoko Sushi and Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJ9dpTZGbo3IAR8zOL50H7_X0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 330
 website: http://uokolakeforest.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

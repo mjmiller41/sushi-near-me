@@ -5,6 +5,11 @@ permalink: /north-carolina/fuquay-varina/dan-sushi-hibachi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Fuquay-Varina
+seo:
+  name: "Dan Sushi & Hibachi"
+  type: Restaurant
+  links: http://www.dansushihibachi.com/
+description: "Looking for sushi in Fuquay-Varina, North Carolina? Check out Dan Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJDb_1aRGPrIkRjGitW1QNA0o
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 801
 website: http://www.dansushihibachi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJDb_1aRGPrIkRjGitW1QNA0o/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2a3B1TTZRRRAB
@@ -389,5 +393,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

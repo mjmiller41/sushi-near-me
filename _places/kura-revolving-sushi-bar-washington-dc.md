@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/kura-revolving-sushi-bar.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Kura Revolving Sushi Bar"
+  type: Restaurant
+  links: https://kurasushi.com/locations/washington-dc/
+description: "Serves an extensive menu of rolls, nigiris, soups, plus desserts on a conveyor belt. Looking for sushi in Washington, District of Columbia? Check out Kura Re..."
 place_id: ChIJXRZ61Oi3t4kROXt9nd0Uo2w
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: https://kurasushi.com/locations/washington-dc/
-description: >-
-  Serves an extensive menu of rolls, nigiris, soups, plus desserts on a conveyor
-  belt.
 reviews:
   - name: >-
       places/ChIJXRZ61Oi3t4kROXt9nd0Uo2w/reviews/ChZDSUhNMG9nS0VJQ0FnTURRaHFQallREAE
@@ -416,5 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: null
 takeout: true
+summary: >-
+  Serves an extensive menu of rolls, nigiris, soups, plus desserts on a conveyor
+  belt.
 
 ---

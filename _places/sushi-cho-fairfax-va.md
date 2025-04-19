@@ -5,6 +5,11 @@ permalink: /virginia/fairfax/sushi-cho.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
+seo:
+  name: "Sushi Cho"
+  type: Restaurant
+  links: http://sushichorestaurants.com/
+description: "Looking for sushi in Fairfax, Virginia? Check out Sushi Cho for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJf0qQqjZPtokROQROv3cBmyY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 438
 website: http://sushichorestaurants.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

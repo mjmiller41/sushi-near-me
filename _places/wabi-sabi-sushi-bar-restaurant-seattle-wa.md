@@ -5,6 +5,11 @@ permalink: /washington/seattle/wabi-sabi-sushi-bar-restaurant.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Wabi-Sabi Sushi Bar & Restaurant"
+  type: Restaurant
+  links: https://wabisabicolumbiacity.com/
+description: "Looking for sushi in Seattle, Washington? Check out Wabi-Sabi Sushi Bar & Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJlZZYJwxqkFQRLEcWW-c_hGY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 378
 website: https://wabisabicolumbiacity.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-mexico/santa-fe/sushi8.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Santa Fe
+seo:
+  name: "Sushi8"
+  type: Restaurant
+  links: http://www.sushi8nm.com/
+description: "Looking for sushi in Santa Fe, New Mexico? Check out Sushi8 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJ4V_tGN5RGIcRtvlgG0eFjU0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 183
 website: http://www.sushi8nm.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

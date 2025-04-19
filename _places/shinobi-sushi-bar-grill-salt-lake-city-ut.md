@@ -5,6 +5,11 @@ permalink: /utah/salt-lake-city/shinobi-sushi-bar-grill.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
+seo:
+  name: "Shinobi Sushi Bar & Grill"
+  type: Restaurant
+  links: https://shinobislc.com/
+description: "Looking for sushi in Salt Lake City, Utah? Check out Shinobi Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJc8BLAhf1UocRVu_zhW-Gfrc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 263
 website: https://shinobislc.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

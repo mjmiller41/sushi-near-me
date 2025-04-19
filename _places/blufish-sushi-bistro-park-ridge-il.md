@@ -5,6 +5,11 @@ permalink: /illinois/park-ridge/blufish-sushi-bistro.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Park Ridge
+seo:
+  name: "Blufish Sushi Bistro"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Park Ridge, Illinois? Check out Blufish Sushi Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJGTmambbJD4gReDI8hS_XGiA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

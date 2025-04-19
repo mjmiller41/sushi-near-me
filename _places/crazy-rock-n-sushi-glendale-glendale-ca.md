@@ -5,6 +5,11 @@ permalink: /california/glendale/crazy-rock-n-sushi-glendale.html
 stateAbbr: CA
 stateName: California
 cityName: Glendale
+seo:
+  name: "Crazy Rock'n Sushi - Glendale"
+  type: Restaurant
+  links: http://www.crazyrockinsushigd.com/
+description: "Looking for sushi in Glendale, California? Check out Crazy Rock'n Sushi - Glendale for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJ3-grTt3BwoAR-nXSpbOYloA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 708
 website: http://www.crazyrockinsushigd.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

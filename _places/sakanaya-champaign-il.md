@@ -5,6 +5,11 @@ permalink: /illinois/champaign/sakanaya.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Champaign
+seo:
+  name: "Sakanaya"
+  type: Restaurant
+  links: http://www.sakanayarestaurant.com/
+description: "Inventive sushi, ramen, Japanese entrees & sake are presented in a stylish space. Looking for sushi in Champaign, Illinois? Check out Sakanaya for a delightf..."
 place_id: ChIJyX1CkzjXDIgRR1ZMZb1javk
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 1156
 website: http://www.sakanayarestaurant.com/
-description: >-
-  Inventive sushi, ramen, Japanese entrees & sake are presented in a stylish
-  space.
 reviews:
   - name: >-
       places/ChIJyX1CkzjXDIgRR1ZMZb1javk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBckpLTDNnRRAB
@@ -360,5 +362,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Inventive sushi, ramen, Japanese entrees & sake are presented in a stylish
+  space.
 
 ---

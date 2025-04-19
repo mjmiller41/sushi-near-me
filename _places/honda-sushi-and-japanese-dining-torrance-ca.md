@@ -5,6 +5,11 @@ permalink: /california/torrance/honda-sushi-and-japanese-dining.html
 stateAbbr: CA
 stateName: California
 cityName: Torrance
+seo:
+  name: "Honda Sushi and Japanese Dining"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Torrance, California? Check out Honda Sushi and Japanese Dining for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJo6th8AJL3YARzY1x5TLILb4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 192
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/syracuse/koto-japanese-steakhouse-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Syracuse
+seo:
+  name: "Koto Japanese Steakhouse & Sushi"
+  type: Restaurant
+  links: http://kotodestiny.com/
+description: "Contemporary, family-friendly Japanese eatery featuring hibachi fare, sushi rolls & fusion entrees. Looking for sushi in Syracuse, New York? Check out Koto J..."
 place_id: ChIJ28pIXSny2YkR-V8fMR2tLyk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 688
 website: http://kotodestiny.com/
-description: >-
-  Contemporary, family-friendly Japanese eatery featuring hibachi fare, sushi
-  rolls & fusion entrees.
 reviews:
   - name: >-
       places/ChIJ28pIXSny2YkR-V8fMR2tLyk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNzhxTVB3EAE
@@ -395,5 +397,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Contemporary, family-friendly Japanese eatery featuring hibachi fare, sushi
+  rolls & fusion entrees.
 
 ---

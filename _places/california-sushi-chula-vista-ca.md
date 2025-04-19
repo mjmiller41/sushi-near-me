@@ -5,6 +5,11 @@ permalink: /california/chula-vista/california-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Chula Vista
+seo:
+  name: "California Sushi"
+  type: Restaurant
+  links: http://californiasushibar.com/
+description: "Looking for sushi in Chula Vista, California? Check out California Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJQe8e_AdO2YARUbx2F8A53S4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 539
 website: http://californiasushibar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

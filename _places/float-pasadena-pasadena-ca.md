@@ -5,6 +5,11 @@ permalink: /california/pasadena/float-pasadena.html
 stateAbbr: CA
 stateName: California
 cityName: Pasadena
+seo:
+  name: "Float Pasadena"
+  type: Restaurant
+  links: http://www.floatcoffeeshop.com/
+description: "Looking for sushi in Pasadena, California? Check out Float Pasadena for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJh0SGHV_DwoAR10qCbAdei0U
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 201
 website: http://www.floatcoffeeshop.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

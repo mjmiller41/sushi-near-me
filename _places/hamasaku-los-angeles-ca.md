@@ -5,6 +5,11 @@ permalink: /california/los-angeles/hamasaku.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Hamasaku"
+  type: Restaurant
+  links: http://www.hamasakula.com/
+description: "Looking for sushi in Los Angeles, California? Check out Hamasaku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJQ6G-cHe7woARm0tCODdUL6U
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 382
 website: http://www.hamasakula.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

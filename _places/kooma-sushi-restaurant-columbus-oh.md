@@ -5,6 +5,11 @@ permalink: /ohio/columbus/kooma-sushi-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
+seo:
+  name: "Kooma Sushi Restaurant"
+  type: Restaurant
+  links: http://www.koomacolumbus.com/
+description: "Looking for sushi in Columbus, Ohio? Check out Kooma Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJvXF8mCiPOIgR8zI0quVRANo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 483
 website: http://www.koomacolumbus.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

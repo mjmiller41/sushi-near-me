@@ -5,6 +5,11 @@ permalink: /michigan/new-hudson/umami-japanese-korean-cuisine.html
 stateAbbr: MI
 stateName: Michigan
 cityName: New Hudson
+seo:
+  name: "Umami Japanese & Korean Cuisine"
+  type: Restaurant
+  links: https://www.umamimichigan.com/
+description: "Looking for sushi in New Hudson, Michigan? Check out Umami Japanese & Korean Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJQdRJ7ZRXI4gR-IMPtZyPduM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 599
 website: https://www.umamimichigan.com/
-description: null
 reviews:
   - name: >-
       places/ChIJQdRJ7ZRXI4gR-IMPtZyPduM/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2eHNtVlBBEAE
@@ -369,5 +373,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

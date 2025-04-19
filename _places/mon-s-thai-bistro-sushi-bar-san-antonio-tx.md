@@ -5,6 +5,11 @@ permalink: /texas/san-antonio/mon-s-thai-bistro-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: San Antonio
+seo:
+  name: "Mon's Thai Bistro & Sushi Bar"
+  type: Restaurant
+  links: http://www.monsthai.com/
+description: "Looking for sushi in San Antonio, Texas? Check out Mon's Thai Bistro & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJ6_ntwZ_1XIYRG0r71Wy2k7Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 460
 website: http://www.monsthai.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

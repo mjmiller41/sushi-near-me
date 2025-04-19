@@ -5,6 +5,11 @@ permalink: /georgia/suwanee/sushi-yuka-roll-pho.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Suwanee
+seo:
+  name: "Sushi Yuka: Roll & Pho"
+  type: Restaurant
+  links: null
+description: "Strip-mall sushi house offering a wide array of specialty rolls, plus noodle soups & hibachi fare. Looking for sushi in Suwanee, Georgia? Check out Sushi Yuk..."
 place_id: ChIJf78ZJn-99YgRKEdf3tMgsvQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 1328
 website: null
-description: >-
-  Strip-mall sushi house offering a wide array of specialty rolls, plus noodle
-  soups & hibachi fare.
 reviews:
   - name: >-
       places/ChIJf78ZJn-99YgRKEdf3tMgsvQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OU1TRWpBRRAB
@@ -394,5 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Strip-mall sushi house offering a wide array of specialty rolls, plus noodle
+  soups & hibachi fare.
 
 ---

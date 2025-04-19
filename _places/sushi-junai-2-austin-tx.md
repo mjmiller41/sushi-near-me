@@ -5,6 +5,11 @@ permalink: /texas/austin/sushi-junai-2.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "Sushi Junai 2"
+  type: Restaurant
+  links: https://sushijunai2.online/
+description: "Looking for sushi in Austin, Texas? Check out Sushi Junai 2 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJl1QkySbMRIYR6q8_Ja2NAkc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 1692
 website: https://sushijunai2.online/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

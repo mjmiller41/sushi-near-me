@@ -5,6 +5,11 @@ permalink: /colorado/edgewater/shiso-sushi-oyster-bar.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Edgewater
+seo:
+  name: "Shiso Sushi & Oyster Bar"
+  type: Restaurant
+  links: https://shisosushioysterbarco.com/
+description: "Looking for sushi in Edgewater, Colorado? Check out Shiso Sushi & Oyster Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJyUDlkWqHa4cRDehR-ZeNuQ4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 783
 website: https://shisosushioysterbarco.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

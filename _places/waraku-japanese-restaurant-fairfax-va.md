@@ -5,6 +5,11 @@ permalink: /virginia/fairfax/waraku-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
+seo:
+  name: "Waraku Japanese Restaurant"
+  type: Restaurant
+  links: https://order.toasttab.com/online/waraku-japanese-restaurant-9539-braddock-rd
+description: "A menu of ramen & small plates Japanese fare in a modern, rustic setting with a sake & shochu menu. Looking for sushi in Fairfax, Virginia? Check out Waraku ..."
 place_id: ChIJh61VM_VNtokR1YXkjBjBMC8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 289
 website: https://order.toasttab.com/online/waraku-japanese-restaurant-9539-braddock-rd
-description: >-
-  A menu of ramen & small plates Japanese fare in a modern, rustic setting with
-  a sake & shochu menu.
 reviews:
   - name: >-
       places/ChIJh61VM_VNtokR1YXkjBjBMC8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2OHIzRzJ3RRAB
@@ -466,5 +468,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A menu of ramen & small plates Japanese fare in a modern, rustic setting with
+  a sake & shochu menu.
 
 ---

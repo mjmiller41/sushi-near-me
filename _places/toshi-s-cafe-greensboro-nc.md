@@ -5,6 +5,11 @@ permalink: /north-carolina/greensboro/toshi-s-cafe.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
+seo:
+  name: "Toshi's Cafe"
+  type: Restaurant
+  links: http://www.toshiscafe.com/
+description: "Looking for sushi in Greensboro, North Carolina? Check out Toshi's Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ8w66dqIaU4gRifbD8WqBuvQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 515
 website: http://www.toshiscafe.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

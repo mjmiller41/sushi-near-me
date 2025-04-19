@@ -5,6 +5,11 @@ permalink: /texas/plano/sushi-shack-all-you-can-eat-of-plano.html
 stateAbbr: TX
 stateName: Texas
 cityName: Plano
+seo:
+  name: "Sushi Shack All You Can Eat of Plano"
+  type: Restaurant
+  links: https://www.4sushitogo.com/
+description: "Looking for sushi in Plano, Texas? Check out Sushi Shack All You Can Eat of Plano for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJC7yyFIMiTIYRxhersE2uPu0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 968
 website: https://www.4sushitogo.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

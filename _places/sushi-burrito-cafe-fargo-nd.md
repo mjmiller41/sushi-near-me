@@ -5,6 +5,11 @@ permalink: /north-dakota/fargo/sushi-burrito-cafe.html
 stateAbbr: ND
 stateName: North Dakota
 cityName: Fargo
+seo:
+  name: "Sushi Burrito Cafe"
+  type: Restaurant
+  links: https://sushi-burrito-and-thai.square.site/
+description: "Looking for sushi in Fargo, North Dakota? Check out Sushi Burrito Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJd43pnVLJyFIRp26u36FTwqA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 147
 website: https://sushi-burrito-and-thai.square.site/
-description: null
 reviews:
   - name: >-
       places/ChIJd43pnVLJyFIRp26u36FTwqA/reviews/ChZDSUhNMG9nS0VJQ0FnSURIdDVfamRnEAE
@@ -418,5 +422,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /south-dakota/rapid-city/ichiban.html
 stateAbbr: SD
 stateName: South Dakota
 cityName: Rapid City
+seo:
+  name: "Ichiban"
+  type: Restaurant
+  links: https://ichibanrapidcity.com/
+description: "Strip-mall sushi house offering specialty rolls & standard Japanese eats in an easygoing atmosphere. Looking for sushi in Rapid City, South Dakota? Check out..."
 place_id: ChIJXRnupc5cfYcRNLnS1rTq9PM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 579
 website: https://ichibanrapidcity.com/
-description: >-
-  Strip-mall sushi house offering specialty rolls & standard Japanese eats in an
-  easygoing atmosphere.
 reviews:
   - name: >-
       places/ChIJXRnupc5cfYcRNLnS1rTq9PM/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzcC1HRnh3RRAB
@@ -372,5 +374,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Strip-mall sushi house offering specialty rolls & standard Japanese eats in an
+  easygoing atmosphere.
 
 ---

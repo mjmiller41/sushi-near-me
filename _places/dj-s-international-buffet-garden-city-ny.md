@@ -5,6 +5,11 @@ permalink: /new-york/garden-city/dj-s-international-buffet.html
 stateAbbr: NY
 stateName: New York
 cityName: Garden City
+seo:
+  name: "DJ's International Buffet"
+  type: Restaurant
+  links: http://djsinternationalbuffet.com/
+description: "Looking for sushi in Garden City, New York? Check out DJ's International Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJK2ip6Ih9wokRWp1yhw-G_D0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 4086
 website: http://djsinternationalbuffet.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

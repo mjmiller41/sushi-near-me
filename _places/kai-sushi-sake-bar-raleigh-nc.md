@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/kai-sushi-sake-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Kai Sushi & Sake Bar"
+  type: Restaurant
+  links: http://kaisushisakebar.com/
+description: "Low-key restaurant for specialty sushi rolls, plus a variety of Japanese & Korean entrees. Looking for sushi in Raleigh, North Carolina? Check out Kai Sushi ..."
 place_id: ChIJwe_MrOP3rIkRkzWAFA26Kt8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 671
 website: http://kaisushisakebar.com/
-description: >-
-  Low-key restaurant for specialty sushi rolls, plus a variety of Japanese &
-  Korean entrees.
 reviews:
   - name: >-
       places/ChIJwe_MrOP3rIkRkzWAFA26Kt8/reviews/ChdDSUhNMG9nS0VJQ0FnSURINUpxSXNRRRAB
@@ -372,5 +374,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Low-key restaurant for specialty sushi rolls, plus a variety of Japanese &
+  Korean entrees.
 
 ---

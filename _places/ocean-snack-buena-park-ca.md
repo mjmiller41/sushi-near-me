@@ -5,6 +5,11 @@ permalink: /california/buena-park/ocean-snack.html
 stateAbbr: CA
 stateName: California
 cityName: Buena Park
+seo:
+  name: "Ocean Snack"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Buena Park, California? Check out Ocean Snack for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJn0HNSvUr3YAR4l_2ZU3Iq7E
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '3.8'
 rating_count: 63
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

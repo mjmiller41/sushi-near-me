@@ -5,6 +5,11 @@ permalink: /texas/allen/sushi-go.html
 stateAbbr: TX
 stateName: Texas
 cityName: Allen
+seo:
+  name: "Sushi Go"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Allen, Texas? Check out Sushi Go for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJb5JzZ9cWTIYRpkfTI184-dk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

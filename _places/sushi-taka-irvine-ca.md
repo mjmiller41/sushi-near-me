@@ -5,6 +5,11 @@ permalink: /california/irvine/sushi-taka.html
 stateAbbr: CA
 stateName: California
 cityName: Irvine
+seo:
+  name: "Sushi Taka"
+  type: Restaurant
+  links: http://www.sushitakairvine.com/
+description: "Looking for sushi in Irvine, California? Check out Sushi Taka for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJG8LizEff3IARiwwvFn11DWs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.6'
 rating_count: 91
 website: http://www.sushitakairvine.com/
-description: null
 reviews:
   - name: >-
       places/ChIJG8LizEff3IARiwwvFn11DWs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbllMYUJREAE
@@ -395,5 +399,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

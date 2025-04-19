@@ -5,6 +5,11 @@ permalink: /nevada/reno/sushi-pier-reno.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
+seo:
+  name: "Sushi Pier (Reno)"
+  type: Restaurant
+  links: http://www.sushipier1.com/
+description: "Looking for sushi in Reno, Nevada? Check out Sushi Pier (Reno) for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJ-_o2ans_mYAR4ZVitwXHKTE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 896
 website: http://www.sushipier1.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

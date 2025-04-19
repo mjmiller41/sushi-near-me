@@ -5,6 +5,11 @@ permalink: /indiana/indianapolis/fortyfive-degrees.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
+seo:
+  name: "FortyFive Degrees"
+  type: Restaurant
+  links: http://www.fortyfiveindy.com/
+description: "Sleek, funky locale for fusion-inspired Japanese plates & sushi, plus cocktails & after-dinner DJs. Looking for sushi in Indianapolis, Indiana? Check out For..."
 place_id: ChIJw8ZXk-1Qa4gRRNif3qVu8fs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1880
 website: http://www.fortyfiveindy.com/
-description: >-
-  Sleek, funky locale for fusion-inspired Japanese plates & sushi, plus
-  cocktails & after-dinner DJs.
 reviews:
   - name: >-
       places/ChIJw8ZXk-1Qa4gRRNif3qVu8fs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNncUplYUJREAE
@@ -414,5 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek, funky locale for fusion-inspired Japanese plates & sushi, plus
+  cocktails & after-dinner DJs.
 
 ---

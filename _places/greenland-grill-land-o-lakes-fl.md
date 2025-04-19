@@ -5,6 +5,11 @@ permalink: /florida/land-o-lakes/greenland-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Land O' Lakes
+seo:
+  name: "Greenland Grill"
+  type: Restaurant
+  links: http://www.greenlandgrill.com/
+description: "Looking for sushi in Land O' Lakes, Florida? Check out Greenland Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJLZdBo9a7wogRK5DPSWkQwXc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 555
 website: http://www.greenlandgrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

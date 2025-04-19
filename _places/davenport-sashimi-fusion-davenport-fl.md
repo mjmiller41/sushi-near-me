@@ -5,6 +5,11 @@ permalink: /florida/davenport/davenport-sashimi-fusion.html
 stateAbbr: FL
 stateName: Florida
 cityName: Davenport
+seo:
+  name: "Davenport Sashimi Fusion"
+  type: Restaurant
+  links: https://davenportsashimifusion.com/
+description: "Looking for sushi in Davenport, Florida? Check out Davenport Sashimi Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ8-ce-Cd53YgRYOZgsfATQvg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 226
 website: https://davenportsashimifusion.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ8-ce-Cd53YgRYOZgsfATQvg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2eDVPeTl3RRAB
@@ -361,5 +365,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

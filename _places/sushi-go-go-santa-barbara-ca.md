@@ -5,6 +5,11 @@ permalink: /california/santa-barbara/sushi-go-go.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Barbara
+seo:
+  name: "Sushi Go Go"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Santa Barbara, California? Check out Sushi Go Go for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJG7ANuvUT6YAR6_eFHcu8YeY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

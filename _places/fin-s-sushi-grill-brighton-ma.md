@@ -5,6 +5,11 @@ permalink: /massachusetts/brighton/fin-s-sushi-grill.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Brighton
+seo:
+  name: "Fin's Sushi & Grill"
+  type: Restaurant
+  links: http://www.finsboston.com/
+description: "Looking for sushi in Brighton, Massachusetts? Check out Fin's Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJN0-HelF444kRohdHRSj45jg
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 182
 website: http://www.finsboston.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/belmont/sushi-monster.html
 stateAbbr: CA
 stateName: California
 cityName: Belmont
+seo:
+  name: "Sushi Monster"
+  type: Restaurant
+  links: http://sushi-monster.com/
+description: "This Japanese standby supplies a creative sushi lineup in a simple, well-spaced setting. Looking for sushi in Belmont, California? Check out Sushi Monster fo..."
 place_id: ChIJo0zIq1qfj4ARPShwwLZ-bDM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 360
 website: http://sushi-monster.com/
-description: >-
-  This Japanese standby supplies a creative sushi lineup in a simple,
-  well-spaced setting.
 reviews:
   - name: >-
       places/ChIJo0zIq1qfj4ARPShwwLZ-bDM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNydk5HczdBRRAB
@@ -500,5 +502,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  This Japanese standby supplies a creative sushi lineup in a simple,
+  well-spaced setting.
 
 ---

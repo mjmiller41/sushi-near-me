@@ -5,6 +5,11 @@ permalink: /california/san-francisco/dragon-horse.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Dragon Horse"
+  type: Restaurant
+  links: http://www.dragonhorsesf.com/
+description: "Looking for sushi in San Francisco, California? Check out Dragon Horse for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJc4jk1ZWBhYARkZIS5HmVER8
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 160
 website: http://www.dragonhorsesf.com/
-description: null
 reviews:
   - name: >-
       places/ChIJc4jk1ZWBhYARkZIS5HmVER8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdTZYdnh3RRAB
@@ -441,5 +445,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

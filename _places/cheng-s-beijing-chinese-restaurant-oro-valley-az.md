@@ -5,6 +5,11 @@ permalink: /arizona/oro-valley/cheng-s-beijing-chinese-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Oro Valley
+seo:
+  name: "Cheng's Beijing Chinese Restaurant"
+  type: Restaurant
+  links: http://www.chengsbeijingtucson.com/
+description: "Looking for sushi in Oro Valley, Arizona? Check out Cheng's Beijing Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJm4bfiEpz1oYRfiIibMgZulc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 363
 website: http://www.chengsbeijingtucson.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

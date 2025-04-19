@@ -5,6 +5,11 @@ permalink: /new-jersey/hoboken/yeung-ii.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hoboken
+seo:
+  name: "Yeung II"
+  type: Restaurant
+  links: http://www.yeung2sushi.com/
+description: "Snug spot for dine-in or delivery Chinese & Japanese staples, plus sushi & vegetarian options. Looking for sushi in Hoboken, New Jersey? Check out Yeung II f..."
 place_id: ChIJNTW-MthZwokRsyTH5DySbdk
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: null
 rating: '4.1'
 rating_count: 165
 website: http://www.yeung2sushi.com/
-description: >-
-  Snug spot for dine-in or delivery Chinese & Japanese staples, plus sushi &
-  vegetarian options.
 reviews:
   - name: >-
       places/ChIJNTW-MthZwokRsyTH5DySbdk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmcXVlVDJBRRAB
@@ -444,5 +446,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Snug spot for dine-in or delivery Chinese & Japanese staples, plus sushi &
+  vegetarian options.
 
 ---

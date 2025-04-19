@@ -5,6 +5,11 @@ permalink: /new-jersey/monroe-township/yimo-sushi-hibachi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Monroe Township
+seo:
+  name: "Yimo Sushi & Hibachi"
+  type: Restaurant
+  links: http://yimosushinj.com/
+description: "Strip–mall Japanese eatery serving sushi, bento, teriyaki & other familiar fare in a casual setting. Looking for sushi in Monroe Township, New Jersey? Check ..."
 place_id: ChIJOZLrScfbw4kREs4LxBqcG5c
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 364
 website: http://yimosushinj.com/
-description: >-
-  Strip–mall Japanese eatery serving sushi, bento, teriyaki & other familiar
-  fare in a casual setting.
 reviews:
   - name: >-
       places/ChIJOZLrScfbw4kREs4LxBqcG5c/reviews/ChZDSUhNMG9nS0VJQ0FnSURIdG9PaWFnEAE
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Strip–mall Japanese eatery serving sushi, bento, teriyaki & other familiar
+  fare in a casual setting.
 
 ---

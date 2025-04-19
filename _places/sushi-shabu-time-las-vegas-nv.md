@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/sushi-shabu-time.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "Sushi & Shabu Time"
+  type: Restaurant
+  links: http://sushitime.vegas/
+description: "Looking for sushi in Las Vegas, Nevada? Check out Sushi & Shabu Time for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJP2pS7lTHyIARVXcWSggKJRc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 1574
 website: http://sushitime.vegas/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

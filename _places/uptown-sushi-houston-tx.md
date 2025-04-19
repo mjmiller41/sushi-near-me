@@ -5,6 +5,11 @@ permalink: /texas/houston/uptown-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "Uptown Sushi"
+  type: Restaurant
+  links: http://www.uptown-sushi.com/
+description: "Looking for sushi in Houston, Texas? Check out Uptown Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJB50K5UfBQIYRnhGTlgwEu8Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 665
 website: http://www.uptown-sushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

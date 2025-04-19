@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/sushi-o-bistro-sushi-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Sushi O Bistro & Sushi Bar"
+  type: Restaurant
+  links: http://sushioraleighnc.com/
+description: "A menu with Thai, Japanese, Chinese & Vietnamese options, plus sushi & a full bar, in a sleek space. Looking for sushi in Raleigh, North Carolina? Check out ..."
 place_id: ChIJ8-z43WVfrIkRQtwdNjQZvFY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1004
 website: http://sushioraleighnc.com/
-description: >-
-  A menu with Thai, Japanese, Chinese & Vietnamese options, plus sushi & a full
-  bar, in a sleek space.
 reviews:
   - name: >-
       places/ChIJ8-z43WVfrIkRQtwdNjQZvFY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNGU2OTdnRRAB
@@ -383,5 +385,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A menu with Thai, Japanese, Chinese & Vietnamese options, plus sushi & a full
+  bar, in a sleek space.
 
 ---

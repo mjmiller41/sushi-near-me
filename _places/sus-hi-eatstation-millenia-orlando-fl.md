@@ -5,6 +5,11 @@ permalink: /florida/orlando/sus-hi-eatstation-millenia.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Sus Hi Eatstation - Millenia"
+  type: Restaurant
+  links: https://sushieatstation.com/
+description: "Looking for sushi in Orlando, Florida? Check out Sus Hi Eatstation - Millenia for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJ4eHsWq1954gR2VL7PDn0PK4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 1085
 website: https://sushieatstation.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ4eHsWq1954gR2VL7PDn0PK4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnZ2NfQTFBRRAB
@@ -422,5 +426,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /nevada/sparks/jj-s-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Sparks
+seo:
+  name: "JJ's Sushi"
+  type: Restaurant
+  links: http://jjsushisparks.com/
+description: "Looking for sushi in Sparks, Nevada? Check out JJ's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJp2wDwqw-mYARgjhyOxuFDQo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 745
 website: http://jjsushisparks.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

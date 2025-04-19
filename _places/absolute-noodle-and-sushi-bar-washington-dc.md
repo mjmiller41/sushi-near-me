@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/absolute-noodle-and-sushi-bar.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Absolute Noodle and Sushi Bar"
+  type: Restaurant
+  links: https://absolutenoodlesushi.com/
+description: "Custom noodle bowls plus classic & inventive Pan-Asian dishes served in a relaxed, modern space. Looking for sushi in Washington, District of Columbia? Check..."
 place_id: ChIJ14Ze0423t4kRtHBdW7SIpcM
 photos:
   - >-
@@ -68,9 +73,6 @@ price_range: $20 &mdash; 30
 rating: '4.4'
 rating_count: 870
 website: https://absolutenoodlesushi.com/
-description: >-
-  Custom noodle bowls plus classic & inventive Pan-Asian dishes served in a
-  relaxed, modern space.
 reviews:
   - ChZDSUhNMG9nS0VJQ0FnSUR2cTRhZUd3EAE
   - ChdDSUhNMG9nS0VJQ0FnSUM3alpQNzhnRRAB
@@ -106,5 +108,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Custom noodle bowls plus classic & inventive Pan-Asian dishes served in a
+  relaxed, modern space.
 
 ---

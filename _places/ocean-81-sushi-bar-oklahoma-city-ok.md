@@ -5,6 +5,11 @@ permalink: /oklahoma/oklahoma-city/ocean-81-sushi-bar.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
+seo:
+  name: "Ocean 81 Sushi Bar"
+  type: Restaurant
+  links: https://ocean81.com/
+description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Ocean 81 Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJidA6KVUasocRLezX80q1C1A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 292
 website: https://ocean81.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

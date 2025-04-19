@@ -5,6 +5,11 @@ permalink: /florida/naples/sushi-thai-too.html
 stateAbbr: FL
 stateName: Florida
 cityName: Naples
+seo:
+  name: "Sushi Thai Too"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Naples, Florida? Check out Sushi Thai Too for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJK8T3OQId24gRYhBcMAzKAkw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

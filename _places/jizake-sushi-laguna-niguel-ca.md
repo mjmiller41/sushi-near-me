@@ -5,6 +5,11 @@ permalink: /california/laguna-niguel/jizake-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Laguna Niguel
+seo:
+  name: "Jizake Sushi - 地酒すし"
+  type: Restaurant
+  links: null
+description: "Simply furnished Japanese eatery with an eat-at sushi bar, offering house rolls, noodles & tempura. Looking for sushi in Laguna Niguel, California? Check out..."
 place_id: ChIJo5wjAL3v3IARu9wk32l8TnQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 271
 website: null
-description: >-
-  Simply furnished Japanese eatery with an eat-at sushi bar, offering house
-  rolls, noodles & tempura.
 reviews:
   - name: >-
       places/ChIJo5wjAL3v3IARu9wk32l8TnQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dnZMNmJnEAE
@@ -400,5 +402,8 @@ serves_lunch: false
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Simply furnished Japanese eatery with an eat-at sushi bar, offering house
+  rolls, noodles & tempura.
 
 ---

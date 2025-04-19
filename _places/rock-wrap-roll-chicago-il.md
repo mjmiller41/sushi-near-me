@@ -5,6 +5,11 @@ permalink: /illinois/chicago/rock-wrap-roll.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Rock Wrap & Roll"
+  type: Restaurant
+  links: https://rockwrapandroll.com/
+description: "Casual eatery with Thai dishes & sushi in a modern space with a bring-your-own-alcohol policy. Looking for sushi in Chicago, Illinois? Check out Rock Wrap & ..."
 place_id: ChIJ9__BGuTSD4gRLgeMsGFy3JY
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 195
 website: https://rockwrapandroll.com/
-description: >-
-  Casual eatery with Thai dishes & sushi in a modern space with a
-  bring-your-own-alcohol policy.
 reviews:
   - name: >-
       places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBeF9qZ1B3EAE
@@ -368,5 +370,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Casual eatery with Thai dishes & sushi in a modern space with a
+  bring-your-own-alcohol policy.
 
 ---

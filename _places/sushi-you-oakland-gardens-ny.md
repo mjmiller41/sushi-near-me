@@ -5,6 +5,11 @@ permalink: /new-york/oakland-gardens/sushi-you.html
 stateAbbr: NY
 stateName: New York
 cityName: Oakland Gardens
+seo:
+  name: "Sushi You"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Oakland Gardens, New York? Check out Sushi You for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJuXV3eY1hwokR-twu4LiPaRI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

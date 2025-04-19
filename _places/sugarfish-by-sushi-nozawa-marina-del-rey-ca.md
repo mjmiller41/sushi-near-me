@@ -5,6 +5,11 @@ permalink: /california/marina-del-rey/sugarfish-by-sushi-nozawa.html
 stateAbbr: CA
 stateName: California
 cityName: Marina Del Rey
+seo:
+  name: "SUGARFISH by sushi nozawa"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Marina Del Rey, California? Check out SUGARFISH by sushi nozawa for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJoQYoin-6woARD9eSq3OWN8w
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

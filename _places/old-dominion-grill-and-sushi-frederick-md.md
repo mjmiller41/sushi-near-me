@@ -5,6 +5,11 @@ permalink: /maryland/frederick/old-dominion-grill-and-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Frederick
+seo:
+  name: "Old Dominion Grill and Sushi"
+  type: Restaurant
+  links: http://www.olddominiongrillsushi.com/
+description: "Casual, modern restaurant featuring Thai, Japanese & American standards, plus lots of beers on tap. Looking for sushi in Frederick, Maryland? Check out Old D..."
 place_id: ChIJV1uzyTvayYkRXflZbOZk5UE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 532
 website: http://www.olddominiongrillsushi.com/
-description: >-
-  Casual, modern restaurant featuring Thai, Japanese & American standards, plus
-  lots of beers on tap.
 reviews:
   - name: >-
       places/ChIJV1uzyTvayYkRXflZbOZk5UE/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2NHVQd0VREAE
@@ -368,5 +370,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual, modern restaurant featuring Thai, Japanese & American standards, plus
+  lots of beers on tap.
 
 ---

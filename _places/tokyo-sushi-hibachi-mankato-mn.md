@@ -5,6 +5,11 @@ permalink: /minnesota/mankato/tokyo-sushi-hibachi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Mankato
+seo:
+  name: "Tokyo Sushi & hibachi"
+  type: Restaurant
+  links: http://www.tokyomankato.com/
+description: "Casual Japanese restaurant offering a sizable selection of sushi along with hibachi tables. Looking for sushi in Mankato, Minnesota? Check out Tokyo Sushi & ..."
 place_id: ChIJBccBzWQ69IcRMOsBeNHZ_pM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 900
 website: http://www.tokyomankato.com/
-description: >-
-  Casual Japanese restaurant offering a sizable selection of sushi along with
-  hibachi tables.
 reviews:
   - name: >-
       places/ChIJBccBzWQ69IcRMOsBeNHZ_pM/reviews/ChdDSUhNMG9nS0VJQ0FnTURnX3NUSDRBRRAB
@@ -484,5 +486,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual Japanese restaurant offering a sizable selection of sushi along with
+  hibachi tables.
 
 ---

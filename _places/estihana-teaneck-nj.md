@@ -5,6 +5,11 @@ permalink: /new-jersey/teaneck/estihana.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Teaneck
+seo:
+  name: "Estihana"
+  type: Restaurant
+  links: http://www.estihana.com/
+description: "Looking for sushi in Teaneck, New Jersey? Check out Estihana for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJI9rE_KXwwokR2x1bWIHR-pU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 799
 website: http://www.estihana.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

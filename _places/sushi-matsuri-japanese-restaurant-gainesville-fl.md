@@ -5,6 +5,11 @@ permalink: /florida/gainesville/sushi-matsuri-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Gainesville
+seo:
+  name: "Sushi Matsuri Japanese Restaurant"
+  type: Restaurant
+  links: https://www.facebook.com/SushiMatsuriGainesville
+description: "Japanese dishes & sushi served in a strip-mall setting lit by paper lanterns. Looking for sushi in Gainesville, Florida? Check out Sushi Matsuri Japanese Res..."
 place_id: ChIJwXj06iSj6IgRXtXiGBY3RhI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 391
 website: https://www.facebook.com/SushiMatsuriGainesville
-description: Japanese dishes & sushi served in a strip-mall setting lit by paper lanterns.
 reviews:
   - name: >-
       places/ChIJwXj06iSj6IgRXtXiGBY3RhI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN09XOXhBRRAB
@@ -363,5 +367,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: Japanese dishes & sushi served in a strip-mall setting lit by paper lanterns.
 
 ---

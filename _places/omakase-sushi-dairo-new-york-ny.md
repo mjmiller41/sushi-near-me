@@ -5,6 +5,11 @@ permalink: /new-york/new-york/omakase-sushi-dairo.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Omakase SUSHI DAIRO"
+  type: Restaurant
+  links: https://omakasesushidairo.com/
+description: "Looking for sushi in New York, New York? Check out Omakase SUSHI DAIRO for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJub3k-H9ZwokReqic2hvVbgE
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $50 &ndash; $100
 rating: '4.8'
 rating_count: 263
 website: https://omakasesushidairo.com/
-description: null
 reviews:
   - name: >-
       places/ChIJub3k-H9ZwokReqic2hvVbgE/reviews/ChZDSUhNMG9nS0VJQ0FnSURQZ2VmN0FREAE
@@ -377,5 +381,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

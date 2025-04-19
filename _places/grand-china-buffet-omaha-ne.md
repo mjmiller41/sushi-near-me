@@ -5,6 +5,11 @@ permalink: /nebraska/omaha/grand-china-buffet.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
+seo:
+  name: "Grand China Buffet"
+  type: Restaurant
+  links: http://www.grandchinabuffetne.com/
+description: "Looking for sushi in Omaha, Nebraska? Check out Grand China Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJIw9ek-Pzk4cRqqaqhmVpdGg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 1092
 website: http://www.grandchinabuffetne.com/
-description: null
 reviews:
   - name: >-
       places/ChIJIw9ek-Pzk4cRqqaqhmVpdGg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQZ2ZlcmZnEAE
@@ -443,5 +447,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /washington/bellevue/earls-kitchen-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
+seo:
+  name: "Earls Kitchen + Bar"
+  type: Restaurant
+  links: https://www.earls.ca/locations/bellevue
+description: "Looking for sushi in Bellevue, Washington? Check out Earls Kitchen + Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJkTtnrYhskFQRuAW_QTilgLQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 2809
 website: https://www.earls.ca/locations/bellevue
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/syracuse/sakana-ya-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Syracuse
+seo:
+  name: "Sakana-Ya Sushi Bar"
+  type: Restaurant
+  links: http://www.syracusesushi.com/
+description: "A wide selection of sushi, sashimi & rolls prepared in a flashy space, plus wine, beer & sake. Looking for sushi in Syracuse, New York? Check out Sakana-Ya S..."
 place_id: ChIJaf5es8Dz2YkRRqV2IfSjXj0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 729
 website: http://www.syracusesushi.com/
-description: >-
-  A wide selection of sushi, sashimi & rolls prepared in a flashy space, plus
-  wine, beer & sake.
 reviews:
   - name: >-
       places/ChIJaf5es8Dz2YkRRqV2IfSjXj0/reviews/ChdDSUhNMG9nS0VJQ0FnTURnN0lQU3V3RRAB
@@ -416,5 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A wide selection of sushi, sashimi & rolls prepared in a flashy space, plus
+  wine, beer & sake.
 
 ---

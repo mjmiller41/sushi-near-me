@@ -5,6 +5,11 @@ permalink: /colorado/fort-collins/sushi-fi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Fort Collins
+seo:
+  name: "Sushi-Fi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Fort Collins, Colorado? Check out Sushi-Fi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJpUCjJEZKaYcRSJFdSiCcV7I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

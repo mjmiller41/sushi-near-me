@@ -5,6 +5,11 @@ permalink: /massachusetts/scituate/salt-society.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Scituate
+seo:
+  name: "Salt Society"
+  type: Restaurant
+  links: http://saltsocietyma.com/
+description: "Looking for sushi in Scituate, Massachusetts? Check out Salt Society for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJDyH87Ixf44kR_-GrRGxWfHA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 157
 website: http://saltsocietyma.com/
-description: null
 reviews:
   - name: >-
       places/ChIJDyH87Ixf44kR_-GrRGxWfHA/reviews/ChdDSUhNMG9nS0VJQ0FnTURnajRlNHNnRRAB
@@ -395,5 +399,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

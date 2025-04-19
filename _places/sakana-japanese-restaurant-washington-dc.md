@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/sakana-japanese-restaurant.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Sakana Japanese Restaurant"
+  type: Restaurant
+  links: https://ordersakanajapanese.com/
+description: "Cozy, low-key restaurant serving sushi, noodles & other traditional Japanese fare. Looking for sushi in Washington, District of Columbia? Check out Sakana Ja..."
 place_id: ChIJgdiQZsi3t4kRCoDg2MBjqWg
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 442
 website: https://ordersakanajapanese.com/
-description: >-
-  Cozy, low-key restaurant serving sushi, noodles & other traditional Japanese
-  fare.
 reviews:
   - name: >-
       places/ChIJgdiQZsi3t4kRCoDg2MBjqWg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbUlPMTZ3RRAB
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Cozy, low-key restaurant serving sushi, noodles & other traditional Japanese
+  fare.
 
 ---

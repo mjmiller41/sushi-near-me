@@ -5,6 +5,11 @@ permalink: /wisconsin/appleton/akame-sushi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Appleton
+seo:
+  name: "Akame Sushi"
+  type: Restaurant
+  links: https://akamesushi888.com/
+description: "Looking for sushi in Appleton, Wisconsin? Check out Akame Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJDdrfONWxA4gRujxvHwsIDNE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 510
 website: https://akamesushi888.com/
-description: null
 reviews:
   - name: >-
       places/ChIJDdrfONWxA4gRujxvHwsIDNE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNndHRTY1ZBEAE
@@ -380,5 +384,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

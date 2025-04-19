@@ -5,6 +5,11 @@ permalink: /ohio/dublin/song-lan-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Dublin
+seo:
+  name: "Song Lan Restaurant"
+  type: Restaurant
+  links: http://songlanrestaurant.com/
+description: "Looking for sushi in Dublin, Ohio? Check out Song Lan Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJsVCPb-2TOIgR15Zp9i3HpFA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 299
 website: http://songlanrestaurant.com/
-description: null
 reviews:
   - name: >-
       places/ChIJsVCPb-2TOIgR15Zp9i3HpFA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfanZyVGlBRRAB
@@ -403,5 +407,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

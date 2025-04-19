@@ -5,6 +5,11 @@ permalink: /virginia/suffolk/sakari-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Suffolk
+seo:
+  name: "Sakari Sushi"
+  type: Restaurant
+  links: https://sakarisushibuffet.wixsite.com/sakarisushisuffolk/menu
+description: "Looking for sushi in Suffolk, Virginia? Check out Sakari Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJH_LM5TOfuokR8q49IoEszfw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 203
 website: https://sakarisushibuffet.wixsite.com/sakarisushisuffolk/menu
-description: null
 reviews:
   - name: >-
       places/ChIJH_LM5TOfuokR8q49IoEszfw/reviews/ChZDSUhNMG9nS0VJQ0FnSURYMS16cUdBEAE
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

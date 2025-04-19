@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-ann.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi Ann"
+  type: Restaurant
+  links: http://www.sushiann.net/
+description: "Sushi & sashimi served amid traditional decor in an upscale restaurant popular for business lunches. Looking for sushi in New York, New York? Check out Sushi..."
 place_id: ChIJZ9VmYvxYwokRxTMyUoH3dKM
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.2'
 rating_count: 263
 website: http://www.sushiann.net/
-description: >-
-  Sushi & sashimi served amid traditional decor in an upscale restaurant popular
-  for business lunches.
 reviews:
   - name: >-
       places/ChIJZ9VmYvxYwokRxTMyUoH3dKM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3dTlUR0d3EAE
@@ -450,5 +452,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi & sashimi served amid traditional decor in an upscale restaurant popular
+  for business lunches.
 
 ---

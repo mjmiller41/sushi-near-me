@@ -5,6 +5,11 @@ permalink: /washington/everett/kai-sushi-fusion-roll-sake.html
 stateAbbr: WA
 stateName: Washington
 cityName: Everett
+seo:
+  name: "Kai Sushi Fusion Roll &Sake"
+  type: Restaurant
+  links: https://kai-sushi.com/
+description: "Looking for sushi in Everett, Washington? Check out Kai Sushi Fusion Roll &Sake for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJrQvpS5iqmlQRgFPFQqOUEHo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 680
 website: https://kai-sushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

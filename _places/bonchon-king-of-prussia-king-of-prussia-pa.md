@@ -5,6 +5,11 @@ permalink: /pennsylvania/king-of-prussia/bonchon-king-of-prussia.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: King of Prussia
+seo:
+  name: "Bonchon King of Prussia"
+  type: Restaurant
+  links: https://locations.bonchon.com/ll/US/PA/King-of-Prussia/350-Mall-Blvd
+description: "Looking for sushi in King of Prussia, Pennsylvania? Check out Bonchon King of Prussia for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJG8XhxMCVxokRtHoJCyJrvA0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.1'
 rating_count: 220
 website: https://locations.bonchon.com/ll/US/PA/King-of-Prussia/350-Mall-Blvd
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

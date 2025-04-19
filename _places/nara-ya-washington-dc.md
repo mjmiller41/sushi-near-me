@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/nara-ya.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "NaRa-Ya"
+  type: Restaurant
+  links: https://nara-ya.com/
+description: "Looking for sushi in Washington, District of Columbia? Check out NaRa-Ya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJJYqfj563t4kRoItAIPV366A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '3.9'
 rating_count: 0
 website: https://nara-ya.com/
-description: null
 reviews:
   - name: >-
       places/ChIJJYqfj563t4kRoItAIPV366A/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3anUyZHJ3RRAB
@@ -414,5 +418,6 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

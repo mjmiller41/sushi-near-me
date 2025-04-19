@@ -5,6 +5,11 @@ permalink: /maryland/bethesda/maki-bar.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Bethesda
+seo:
+  name: "Maki Bar"
+  type: Restaurant
+  links: http://makibarbethesda.com/
+description: "Sushi & Japanese standards, plus beer & sake, served in a simple Asian-style space. Looking for sushi in Bethesda, Maryland? Check out Maki Bar for a delight..."
 place_id: ChIJA8TqW3fJt4kRq8hfNIBO49M
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 128
 website: http://makibarbethesda.com/
-description: >-
-  Sushi & Japanese standards, plus beer & sake, served in a simple Asian-style
-  space.
 reviews:
   - name: >-
       places/ChIJA8TqW3fJt4kRq8hfNIBO49M/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnN0kzZDRnRRAB
@@ -384,5 +386,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi & Japanese standards, plus beer & sake, served in a simple Asian-style
+  space.
 
 ---

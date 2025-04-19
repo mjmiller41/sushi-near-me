@@ -5,6 +5,11 @@ permalink: /pennsylvania/bryn-mawr/sushi-land.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bryn Mawr
+seo:
+  name: "Sushi Land"
+  type: Restaurant
+  links: http://www.sushiland.us/
+description: "Popular, BYOB Japanese restaurant serving a variety of sushi, rolls & more in basic surroundings. Looking for sushi in Bryn Mawr, Pennsylvania? Check out Sus..."
 place_id: ChIJV9g8-_S_xokRspis9BTjVYE
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 199
 website: http://www.sushiland.us/
-description: >-
-  Popular, BYOB Japanese restaurant serving a variety of sushi, rolls & more in
-  basic surroundings.
 reviews:
   - name: >-
       places/ChIJV9g8-_S_xokRspis9BTjVYE/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3MDZLZVpREAE
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Popular, BYOB Japanese restaurant serving a variety of sushi, rolls & more in
+  basic surroundings.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-jersey/atlantic-city/zhen-bang-noodle-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Atlantic City
+seo:
+  name: "Zhen Bang Noodle & Sushi"
+  type: Restaurant
+  links: https://www.theoceanac.com/restaurants/zhen-bang-noodle-sushi?utm_source=google&utm_medium=listing&utm_campaign=ocean+casino+resort+zhen+bang
+description: "Warm, open-kitchen eatery offering Japanese ramen bowls alongside sushi & sashimi plates. Looking for sushi in Atlantic City, New Jersey? Check out Zhen Bang..."
 place_id: ChIJe7_FsRLvwIkRyOFKycJYfn0
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '3.9'
 rating_count: 556
 website: >-
   https://www.theoceanac.com/restaurants/zhen-bang-noodle-sushi?utm_source=google&utm_medium=listing&utm_campaign=ocean+casino+resort+zhen+bang
-description: >-
-  Warm, open-kitchen eatery offering Japanese ramen bowls alongside sushi &
-  sashimi plates.
 reviews:
   - name: >-
       places/ChIJe7_FsRLvwIkRyOFKycJYfn0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyck9fTU1REAE
@@ -474,5 +476,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Warm, open-kitchen eatery offering Japanese ramen bowls alongside sushi &
+  sashimi plates.
 
 ---

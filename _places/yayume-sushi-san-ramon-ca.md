@@ -5,6 +5,11 @@ permalink: /california/san-ramon/yayume-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Ramon
+seo:
+  name: "Yayume Sushi"
+  type: Restaurant
+  links: https://onlinemenunow.com/index.php/restaurant/restID/113
+description: "Looking for sushi in San Ramon, California? Check out Yayume Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJf635577yj4ARLhsnT-H4wPA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 303
 website: https://onlinemenunow.com/index.php/restaurant/restID/113
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

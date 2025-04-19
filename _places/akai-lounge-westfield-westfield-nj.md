@@ -5,6 +5,11 @@ permalink: /new-jersey/westfield/akai-lounge-westfield.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Westfield
+seo:
+  name: "Akai Lounge Westfield"
+  type: Restaurant
+  links: https://www.akailounge.com/
+description: "Looking for sushi in Westfield, New Jersey? Check out Akai Lounge Westfield for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ9eRl-Kixw4kRaRD3EPVud80
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 424
 website: https://www.akailounge.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

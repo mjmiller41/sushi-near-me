@@ -5,6 +5,11 @@ permalink: /new-york/astoria/hei-tiki-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Astoria
+seo:
+  name: "Hei Tiki & Sushi Bar"
+  type: Restaurant
+  links: https://www.instagram.com/heitikinyc?igsh=aWludmhtdTFueHM=
+description: "Looking for sushi in Astoria, New York? Check out Hei Tiki & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJIRF9O0hfwokRnhQGHXWCinE
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 135
 website: https://www.instagram.com/heitikinyc?igsh=aWludmhtdTFueHM=
-description: null
 reviews:
   - name: >-
       places/ChIJIRF9O0hfwokRnhQGHXWCinE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdDd2WEFnEAE
@@ -390,5 +394,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

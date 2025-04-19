@@ -5,6 +5,11 @@ permalink: /washington/seattle/ohana-belltown.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Ohana Belltown"
+  type: Restaurant
+  links: https://www.fooddiscoveryapp.com/seattle/ohana-belltown
+description: "Looking for sushi in Seattle, Washington? Check out Ohana Belltown for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJXUznpU0VkFQRcc35QzkAM7w
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1592
 website: https://www.fooddiscoveryapp.com/seattle/ohana-belltown
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

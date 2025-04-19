@@ -5,6 +5,11 @@ permalink: /california/los-angeles/meshuga-4-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Meshuga 4 Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Los Angeles, California? Check out Meshuga 4 Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ5VEpgF65woARKTQZvAx1vUI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

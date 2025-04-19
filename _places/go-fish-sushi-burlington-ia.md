@@ -5,6 +5,11 @@ permalink: /iowa/burlington/go-fish-sushi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Burlington
+seo:
+  name: "Go Fish Sushi"
+  type: Restaurant
+  links: https://www.facebook.com/gofishsushi322/
+description: "Looking for sushi in Burlington, Iowa? Check out Go Fish Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJBZ7GOHcx4YcRouX_0YmSbuA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 140
 website: https://www.facebook.com/gofishsushi322/
-description: null
 reviews:
   - name: >-
       places/ChIJBZ7GOHcx4YcRouX_0YmSbuA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzbE5mQmJnEAE
@@ -387,5 +391,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

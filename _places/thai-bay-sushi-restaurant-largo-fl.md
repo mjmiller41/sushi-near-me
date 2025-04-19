@@ -5,6 +5,11 @@ permalink: /florida/largo/thai-bay-sushi-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Largo
+seo:
+  name: "Thai Bay & Sushi Restaurant"
+  type: Restaurant
+  links: http://www.thaibaysushi.com/
+description: "Homey find serving up Thai fare, sushi & other eats, plus booze, in a woody, traditional setting. Looking for sushi in Largo, Florida? Check out Thai Bay & S..."
 place_id: ChIJe4ddTIH6wogRoj_CefbKlcY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1023
 website: http://www.thaibaysushi.com/
-description: >-
-  Homey find serving up Thai fare, sushi & other eats, plus booze, in a woody,
-  traditional setting.
 reviews:
   - name: >-
       places/ChIJe4ddTIH6wogRoj_CefbKlcY/reviews/ChdDSUhNMG9nS0VJQ0FnSURYaXYzRW1BRRAB
@@ -358,5 +360,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Homey find serving up Thai fare, sushi & other eats, plus booze, in a woody,
+  traditional setting.
 
 ---

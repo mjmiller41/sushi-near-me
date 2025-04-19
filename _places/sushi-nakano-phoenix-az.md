@@ -5,6 +5,11 @@ permalink: /arizona/phoenix/sushi-nakano.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
+seo:
+  name: "Sushi Nakano"
+  type: Restaurant
+  links: http://sushinakano.com/
+description: "Looking for sushi in Phoenix, Arizona? Check out Sushi Nakano for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJda-DUGEEK4cRJZYZfJMURsg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 311
 website: http://sushinakano.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

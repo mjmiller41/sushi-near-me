@@ -5,6 +5,11 @@ permalink: /utah/murray/soy-s-sushi-bar-grill.html
 stateAbbr: UT
 stateName: Utah
 cityName: Murray
+seo:
+  name: "Soy's Sushi Bar & Grill"
+  type: Restaurant
+  links: http://www.soysushiutah.com/
+description: "Looking for sushi in Murray, Utah? Check out Soy's Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJv6ev8iSKUocRXb51FOz2VlY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1146
 website: http://www.soysushiutah.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

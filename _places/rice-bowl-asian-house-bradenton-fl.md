@@ -5,6 +5,11 @@ permalink: /florida/bradenton/rice-bowl-asian-house.html
 stateAbbr: FL
 stateName: Florida
 cityName: Bradenton
+seo:
+  name: "Rice Bowl Asian House"
+  type: Restaurant
+  links: https://ricebowlasianhousefl.kwickmenu.com/index.php
+description: "Casual eatery with bright decor, offering classic sushi options & Japanese rice & noodle bowls. Looking for sushi in Bradenton, Florida? Check out Rice Bowl ..."
 place_id: ChIJD9LRCvw7w4gRo7b8Ih_JRWU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 976
 website: https://ricebowlasianhousefl.kwickmenu.com/index.php
-description: >-
-  Casual eatery with bright decor, offering classic sushi options & Japanese
-  rice & noodle bowls.
 reviews:
   - name: >-
       places/ChIJD9LRCvw7w4gRo7b8Ih_JRWU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdUlLei1RRRAB
@@ -482,5 +484,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual eatery with bright decor, offering classic sushi options & Japanese
+  rice & noodle bowls.
 
 ---

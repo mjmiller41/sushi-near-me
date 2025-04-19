@@ -5,6 +5,11 @@ permalink: /florida/clearwater/ocean-blue-asian-fusion.html
 stateAbbr: FL
 stateName: Florida
 cityName: Clearwater
+seo:
+  name: "Ocean Blue Asian Fusion"
+  type: Restaurant
+  links: https://oceanbluesushi.com/
+description: "Sushi, bento boxes & other Japanese dishes served in a small, bare-bones eatery. Looking for sushi in Clearwater, Florida? Check out Ocean Blue Asian Fusion ..."
 place_id: ChIJw7sGc3XuwogRlg-BSbU99yI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 609
 website: https://oceanbluesushi.com/
-description: >-
-  Sushi, bento boxes & other Japanese dishes served in a small, bare-bones
-  eatery.
 reviews:
   - name: >-
       places/ChIJw7sGc3XuwogRlg-BSbU99yI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIMGUyY2pRRRAB
@@ -379,5 +381,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, bento boxes & other Japanese dishes served in a small, bare-bones
+  eatery.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/la-jolla/delsushi.html
 stateAbbr: CA
 stateName: California
 cityName: La Jolla
+seo:
+  name: "DELSUSHI"
+  type: Restaurant
+  links: https://www.delsushiorder.com/
+description: "Focused menu of sushi rolls from basic to deluxe offered for takeout or delivery only. Looking for sushi in La Jolla, California? Check out DELSUSHI for a de..."
 place_id: ChIJZwtuB84G3IARWhwYN_9SiQs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 95
 website: https://www.delsushiorder.com/
-description: >-
-  Focused menu of sushi rolls from basic to deluxe offered for takeout or
-  delivery only.
 reviews:
   - name: >-
       places/ChIJZwtuB84G3IARWhwYN_9SiQs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNl9iN3FRRRAB
@@ -355,5 +357,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Focused menu of sushi rolls from basic to deluxe offered for takeout or
+  delivery only.
 
 ---

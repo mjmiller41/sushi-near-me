@@ -5,6 +5,11 @@ permalink: /maryland/timonium/yamato-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Timonium
+seo:
+  name: "Yamato Sushi"
+  type: Restaurant
+  links: http://www.yamatosushimd.com/
+description: "This hopping, BYO sushi scene boasts a huge array of signature rolls, plus some Thai offerings. Looking for sushi in Timonium, Maryland? Check out Yamato Sus..."
 place_id: ChIJLdPZHxEOyIkRytz7qCGNWuY
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 574
 website: http://www.yamatosushimd.com/
-description: >-
-  This hopping, BYO sushi scene boasts a huge array of signature rolls, plus
-  some Thai offerings.
 reviews:
   - name: >-
       places/ChIJLdPZHxEOyIkRytz7qCGNWuY/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2MHVta21RRRAB
@@ -361,5 +363,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  This hopping, BYO sushi scene boasts a huge array of signature rolls, plus
+  some Thai offerings.
 
 ---

@@ -5,6 +5,11 @@ permalink: /utah/park-city/blind-dog-restaurant-raw-bar.html
 stateAbbr: UT
 stateName: Utah
 cityName: Park City
+seo:
+  name: "Blind Dog Restaurant & Raw Bar"
+  type: Restaurant
+  links: https://www.blinddogpc.com/
+description: "Looking for sushi in Park City, Utah? Check out Blind Dog Restaurant & Raw Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJo_Klm11tUocRcQGKvUfn008
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 617
 website: https://www.blinddogpc.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

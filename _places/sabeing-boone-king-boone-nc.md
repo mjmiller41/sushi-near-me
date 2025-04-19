@@ -5,6 +5,11 @@ permalink: /north-carolina/boone/sabeing-boone-king.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Boone
+seo:
+  name: "Sabeing Boone King"
+  type: Restaurant
+  links: http://sabeingbooneking.com/
+description: "Classic Thai & Vietnamese dishes, plus sushi rolls, served in an informal establishment. Looking for sushi in Boone, North Carolina? Check out Sabeing Boone ..."
 place_id: ChIJk01ACA76UIgRdPNLzV2iPnU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 557
 website: http://sabeingbooneking.com/
-description: >-
-  Classic Thai & Vietnamese dishes, plus sushi rolls, served in an informal
-  establishment.
 reviews:
   - name: >-
       places/ChIJk01ACA76UIgRdPNLzV2iPnU/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3eXBDMVhBEAE
@@ -364,5 +366,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Classic Thai & Vietnamese dishes, plus sushi rolls, served in an informal
+  establishment.
 
 ---

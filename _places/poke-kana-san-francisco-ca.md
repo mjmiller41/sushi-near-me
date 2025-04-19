@@ -5,6 +5,11 @@ permalink: /california/san-francisco/poke-kana.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "poke kana"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Francisco, California? Check out poke kana for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJT99Zt7R9j4AR9ULGa1XRKLM
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 99
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJT99Zt7R9j4AR9ULGa1XRKLM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2c0xmVU9nEAE
@@ -380,5 +384,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

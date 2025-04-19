@@ -5,6 +5,11 @@ permalink: /illinois/lake-in-the-hills/mori-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Lake in the Hills
+seo:
+  name: "Mori Sushi"
+  type: Restaurant
+  links: https://morisushirestaurant.com/
+description: "Casual sushi spot with traditional & creative entrees, including mori rolls & black rice. Looking for sushi in Lake in the Hills, Illinois? Check out Mori Su..."
 place_id: ChIJLVOHHnoSD4gRg7_C6eEwTuM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 255
 website: https://morisushirestaurant.com/
-description: >-
-  Casual sushi spot with traditional & creative entrees, including mori rolls &
-  black rice.
 reviews:
   - name: >-
       places/ChIJLVOHHnoSD4gRg7_C6eEwTuM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYNF83azFnRRAB
@@ -380,5 +382,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual sushi spot with traditional & creative entrees, including mori rolls &
+  black rice.
 
 ---

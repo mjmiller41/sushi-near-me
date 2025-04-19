@@ -5,6 +5,11 @@ permalink: /ohio/cincinnati/izen-s-drunken-bento.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+seo:
+  name: "Izen's Drunken Bento"
+  type: Restaurant
+  links: https://www.drunkenbento.com/
+description: "Sushi rolls plus classic Korean dishes served in a bustling, compact space with a full bar. Looking for sushi in Cincinnati, Ohio? Check out Izen's Drunken B..."
 place_id: ChIJDfc2HPWzQYgR4pBaFdYsOsg
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 1131
 website: https://www.drunkenbento.com/
-description: >-
-  Sushi rolls plus classic Korean dishes served in a bustling, compact space
-  with a full bar.
 reviews:
   - name: >-
       places/ChIJDfc2HPWzQYgR4pBaFdYsOsg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3N3ZyLTV3RRAB
@@ -393,5 +395,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi rolls plus classic Korean dishes served in a bustling, compact space
+  with a full bar.
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/freeport/ichiban-japanese-grill-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Freeport
+seo:
+  name: "Ichiban Japanese Grill & Sushi"
+  type: Restaurant
+  links: https://m.facebook.com/IchibanJapaneseGrillAndSushi
+description: "Looking for sushi in Freeport, Illinois? Check out Ichiban Japanese Grill & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJGfyiGIVrCIgRXrTFLGQexag
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 191
 website: https://m.facebook.com/IchibanJapaneseGrillAndSushi
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

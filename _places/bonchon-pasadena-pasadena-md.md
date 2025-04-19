@@ -5,6 +5,11 @@ permalink: /maryland/pasadena/bonchon-pasadena.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Pasadena
+seo:
+  name: "Bonchon Pasadena"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Pasadena, Maryland? Check out Bonchon Pasadena for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJG0-XnB_9t4kRaznkXMPU81A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

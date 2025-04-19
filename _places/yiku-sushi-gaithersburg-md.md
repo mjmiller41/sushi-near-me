@@ -5,6 +5,11 @@ permalink: /maryland/gaithersburg/yiku-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
+seo:
+  name: "Yiku Sushi"
+  type: Restaurant
+  links: https://yiku818.com/
+description: "Food is available to order online for fast delivery at this neighborhood Japanese restaurant. Looking for sushi in Gaithersburg, Maryland? Check out Yiku Sus..."
 place_id: ChIJI4JnZdgttokRqiNk9UDbFR8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 245
 website: https://yiku818.com/
-description: >-
-  Food is available to order online for fast delivery at this neighborhood
-  Japanese restaurant.
 reviews:
   - name: >-
       places/ChIJI4JnZdgttokRqiNk9UDbFR8/reviews/ChZDSUhNMG9nS0VJQ0FnTURndWMzREJ3EAE
@@ -414,5 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Food is available to order online for fast delivery at this neighborhood
+  Japanese restaurant.
 
 ---

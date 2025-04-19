@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/bozu.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Bozu"
+  type: Restaurant
+  links: http://www.bozubrooklyn.com/
+description: "Japanese tapas bar serving sushi, sake & cocktails in a hip setting with a bi-level patio. Looking for sushi in Brooklyn, New York? Check out Bozu for a deli..."
 place_id: ChIJfXcUkV9ZwokRe1dEXRBJzuk
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 579
 website: http://www.bozubrooklyn.com/
-description: >-
-  Japanese tapas bar serving sushi, sake & cocktails in a hip setting with a
-  bi-level patio.
 reviews:
   - name: >-
       places/ChIJfXcUkV9ZwokRe1dEXRBJzuk/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMVBlV0tnEAE
@@ -436,5 +438,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese tapas bar serving sushi, sake & cocktails in a hip setting with a
+  bi-level patio.
 
 ---

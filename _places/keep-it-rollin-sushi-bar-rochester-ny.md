@@ -5,6 +5,11 @@ permalink: /new-york/rochester/keep-it-rollin-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
+seo:
+  name: "Keep it Rollin' Sushi Bar"
+  type: Restaurant
+  links: http://www.keepitrollinsushibar.com/
+description: "Looking for sushi in Rochester, New York? Check out Keep it Rollin' Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJ14ibI0O11okRjTFWH9XLUDw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.7'
 rating_count: 170
 website: http://www.keepitrollinsushibar.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ14ibI0O11okRjTFWH9XLUDw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbFlPU2Z3EAE
@@ -453,5 +457,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

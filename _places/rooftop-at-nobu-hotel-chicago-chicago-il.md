@@ -5,6 +5,11 @@ permalink: /illinois/chicago/rooftop-at-nobu-hotel-chicago.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Rooftop at Nobu Hotel Chicago"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Chicago, Illinois? Check out Rooftop at Nobu Hotel Chicago for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJeX3F8eUtDogRIlPIC1Si8dM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

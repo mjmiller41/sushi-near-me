@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/tasu-asian-bistro.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Tasu Asian Bistro"
+  type: Restaurant
+  links: http://shikitasu.com/
+description: "Looking for sushi in Raleigh, North Carolina? Check out Tasu Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJi6YaV4bwrIkR8xoapWozlNs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 1421
 website: http://shikitasu.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

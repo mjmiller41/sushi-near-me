@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/ama-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "AMA Sushi"
+  type: Restaurant
+  links: https://order.toasttab.com/online/ama-sushi-5033-france-ave-s
+description: "Looking for sushi in Minneapolis, Minnesota? Check out AMA Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJfahPpyQn9ocR1TzXUWiK3M8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 462
 website: https://order.toasttab.com/online/ama-sushi-5033-france-ave-s
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

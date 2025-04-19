@@ -5,6 +5,11 @@ permalink: /new-york/new-york/miyako-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Miyako Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New York, New York? Check out Miyako Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJg0Bl54JYwokR8k8qF8pW-eI
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

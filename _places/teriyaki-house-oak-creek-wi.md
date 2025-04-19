@@ -5,6 +5,11 @@ permalink: /wisconsin/oak-creek/teriyaki-house.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Oak Creek
+seo:
+  name: "Teriyaki House"
+  type: Restaurant
+  links: https://www.teriyakigrillsushi.com/
+description: "Looking for sushi in Oak Creek, Wisconsin? Check out Teriyaki House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJe4HluCcVBYgRdSz3abdQ_EU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 177
 website: https://www.teriyakigrillsushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJe4HluCcVBYgRdSz3abdQ_EU/reviews/ChZDSUhNMG9nS0VJQ0FnTURBeTg2dmJ3EAE
@@ -380,5 +384,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

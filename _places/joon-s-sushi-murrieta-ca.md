@@ -5,6 +5,11 @@ permalink: /california/murrieta/joon-s-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Murrieta
+seo:
+  name: "JooN's Sushi"
+  type: Restaurant
+  links: http://joonssushi.com/
+description: "Warm, relaxed Japanese eatery serving all-you-can-eat sushi, plus noodles, teriyaki & more. Looking for sushi in Murrieta, California? Check out JooN's Sushi..."
 place_id: ChIJx0xO_Hd-24ARy8v6Qdyy1Hg
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 669
 website: http://joonssushi.com/
-description: >-
-  Warm, relaxed Japanese eatery serving all-you-can-eat sushi, plus noodles,
-  teriyaki & more.
 reviews:
   - name: >-
       places/ChIJx0xO_Hd-24ARy8v6Qdyy1Hg/reviews/ChdDSUhNMG9nS0VJQ0FnTURnLTdTSzVnRRAB
@@ -389,5 +391,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Warm, relaxed Japanese eatery serving all-you-can-eat sushi, plus noodles,
+  teriyaki & more.
 
 ---

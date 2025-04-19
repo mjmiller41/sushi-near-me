@@ -5,6 +5,11 @@ permalink: /rhode-island/newport/i-m-sushi.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Newport
+seo:
+  name: "I'm Sushi"
+  type: Restaurant
+  links: https://www.im-sushi.com/
+description: "Looking for sushi in Newport, Rhode Island? Check out I'm Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJ5wq8XVyv5YkRdJzMFbiIvQ8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 388
 website: https://www.im-sushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ5wq8XVyv5YkRdJzMFbiIvQ8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfai1EemRBEAE
@@ -355,5 +359,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

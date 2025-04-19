@@ -5,6 +5,11 @@ permalink: /massachusetts/boston/umai.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
+seo:
+  name: "Umai"
+  type: Restaurant
+  links: https://umaibostontogo.com/
+description: "Udon, sushi and a variety of other Japanese eats are served in casual, modern quarters with a bar. Looking for sushi in Boston, Massachusetts? Check out Umai..."
 place_id: ChIJ8x1_7Q5644kRhu20JIaczqs
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 411
 website: https://umaibostontogo.com/
-description: >-
-  Udon, sushi and a variety of other Japanese eats are served in casual, modern
-  quarters with a bar.
 reviews:
   - name: >-
       places/ChIJ8x1_7Q5644kRhu20JIaczqs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmOW82ajZBRRAB
@@ -402,5 +404,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Udon, sushi and a variety of other Japanese eats are served in casual, modern
+  quarters with a bar.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/loma-linda/maki-yaki-22.html
 stateAbbr: CA
 stateName: California
 cityName: Loma Linda
+seo:
+  name: "Maki Yaki 22"
+  type: Restaurant
+  links: https://www.makiyaki22.com/
+description: "Looking for sushi in Loma Linda, California? Check out Maki Yaki 22 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJc8k-YZ2r3IARMLn4uhqHznE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 899
 website: https://www.makiyaki22.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

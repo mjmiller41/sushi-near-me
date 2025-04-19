@@ -5,6 +5,11 @@ permalink: /connecticut/newington/sushi-california-japanese-restaurant.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Newington
+seo:
+  name: "Sushi california Japanese Restaurant"
+  type: Restaurant
+  links: http://sushicaliforniact.com/
+description: "Simple eatery turning out sushi & sashimi, plus cooked Japanese classics like katsu & teppanyaki. Looking for sushi in Newington, Connecticut? Check out Sush..."
 place_id: ChIJHc4nKIiy54kRICN8Ejz1xks
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 520
 website: http://sushicaliforniact.com/
-description: >-
-  Simple eatery turning out sushi & sashimi, plus cooked Japanese classics like
-  katsu & teppanyaki.
 reviews:
   - name: >-
       places/ChIJHc4nKIiy54kRICN8Ejz1xks/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYMkppTnpBRRAB
@@ -400,5 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Simple eatery turning out sushi & sashimi, plus cooked Japanese classics like
+  katsu & teppanyaki.
 
 ---

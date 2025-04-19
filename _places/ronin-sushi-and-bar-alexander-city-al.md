@@ -5,6 +5,11 @@ permalink: /alabama/alexander-city/ronin-sushi-and-bar.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Alexander City
+seo:
+  name: "Ronin Sushi And Bar"
+  type: Restaurant
+  links: https://www.roninsushibarac.com/
+description: "Looking for sushi in Alexander City, Alabama? Check out Ronin Sushi And Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ2UX6rAwNjIgRozqWpJmBx2Y
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 97
 website: https://www.roninsushibarac.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ2UX6rAwNjIgRozqWpJmBx2Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURmX0lTRDRRRRAB
@@ -354,5 +358,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

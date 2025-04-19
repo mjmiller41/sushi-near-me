@@ -5,6 +5,11 @@ permalink: /california/los-angeles/hrb-experience-century-city.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "HRB Experience Century City"
+  type: Restaurant
+  links: https://www.thehrbexperience.com/
+description: "Looking for sushi in Los Angeles, California? Check out HRB Experience Century City for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJw524c8-_woARqgzxRcy5zhM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.0'
 rating_count: 158
 website: https://www.thehrbexperience.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

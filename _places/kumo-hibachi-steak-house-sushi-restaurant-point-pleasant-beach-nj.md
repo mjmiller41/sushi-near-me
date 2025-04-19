@@ -5,6 +5,11 @@ permalink: /new-jersey/point-pleasant-beach/kumo-hibachi-steak-house-sushi-resta
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Point Pleasant Beach
+seo:
+  name: "Kumo Hibachi Steak House & Sushi Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Point Pleasant Beach, New Jersey? Check out Kumo Hibachi Steak House & Sushi Restaurant for a delightful Japanese dining experience. Enj..."
 place_id: ChIJfwzLyQuGwYkRxZCdlk2iVM8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

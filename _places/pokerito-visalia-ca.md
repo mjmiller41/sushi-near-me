@@ -5,6 +5,11 @@ permalink: /california/visalia/pokerito.html
 stateAbbr: CA
 stateName: California
 cityName: Visalia
+seo:
+  name: "Pokerito"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Visalia, California? Check out Pokerito for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJcwSGWiUvlYARhISVqVDwwKc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 248
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJcwSGWiUvlYARhISVqVDwwKc/reviews/ChdDSUhNMG9nS0VJQ0FnSURYeHYtaTFRRRAB
@@ -368,5 +372,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

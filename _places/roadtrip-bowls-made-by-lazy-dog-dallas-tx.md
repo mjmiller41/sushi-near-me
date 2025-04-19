@@ -5,6 +5,11 @@ permalink: /texas/dallas/roadtrip-bowls-made-by-lazy-dog.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
+seo:
+  name: "Roadtrip Bowls Made by Lazy Dog"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Dallas, Texas? Check out Roadtrip Bowls Made by Lazy Dog for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJ61oqk1ghTIYRXTvHRuwQvMI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

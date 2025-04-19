@@ -5,6 +5,11 @@ permalink: /california/los-angeles/california-roll-factory.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "California Roll Factory"
+  type: Restaurant
+  links: https://www.calrollfactory.com/
+description: "Looking for sushi in Los Angeles, California? Check out California Roll Factory for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJ5ZEHDW-7woARqqeC35KXFOw
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 289
 website: https://www.calrollfactory.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

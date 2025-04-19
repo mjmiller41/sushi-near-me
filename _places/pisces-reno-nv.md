@@ -5,6 +5,11 @@ permalink: /nevada/reno/pisces.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
+seo:
+  name: "Pisces"
+  type: Restaurant
+  links: http://www.piscessushireno.com/
+description: "Looking for sushi in Reno, Nevada? Check out Pisces for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atm..."
 place_id: ChIJd-aPXhoVmYARUZDKvUjNvLo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 481
 website: http://www.piscessushireno.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

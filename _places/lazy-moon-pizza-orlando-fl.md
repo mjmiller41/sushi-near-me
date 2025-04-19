@@ -5,6 +5,11 @@ permalink: /florida/orlando/lazy-moon-pizza.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Lazy Moon Pizza"
+  type: Restaurant
+  links: https://www.lazymoonpizza.com/
+description: "Looking for sushi in Orlando, Florida? Check out Lazy Moon Pizza for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJ7Rq5F-l654gRSUmkdydY2ZQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 4166
 website: https://www.lazymoonpizza.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

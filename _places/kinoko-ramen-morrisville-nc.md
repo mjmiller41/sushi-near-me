@@ -5,6 +5,11 @@ permalink: /north-carolina/morrisville/kinoko-ramen.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Morrisville
+seo:
+  name: "Kinoko Ramen"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Morrisville, North Carolina? Check out Kinoko Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJ_2VoufPtrIkRmMe71PvJk48
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '5.0'
 rating_count: 16
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

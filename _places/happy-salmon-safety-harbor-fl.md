@@ -5,6 +5,11 @@ permalink: /florida/safety-harbor/happy-salmon.html
 stateAbbr: FL
 stateName: Florida
 cityName: Safety Harbor
+seo:
+  name: "Happy Salmon"
+  type: Restaurant
+  links: https://www.facebook.com/HappySalmonBar/
+description: "Looking for sushi in Safety Harbor, Florida? Check out Happy Salmon for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ_xawMGDuwogRh8KSyGeUImM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 376
 website: https://www.facebook.com/HappySalmonBar/
-description: null
 reviews:
   - name: >-
       places/ChIJ_xawMGDuwogRh8KSyGeUImM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOEtpc1V3EAE
@@ -461,5 +465,6 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

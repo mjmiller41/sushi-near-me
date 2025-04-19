@@ -5,6 +5,11 @@ permalink: /new-jersey/rutherford/domodachi-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Rutherford
+seo:
+  name: "Domodachi Sushi"
+  type: Restaurant
+  links: https://domodachisushi.smartonlineorder.com/
+description: "Looking for sushi in Rutherford, New Jersey? Check out Domodachi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJPaag30v5wokRJVXbO8T9vUU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 338
 website: https://domodachisushi.smartonlineorder.com/
-description: null
 reviews:
   - name: >-
       places/ChIJPaag30v5wokRJVXbO8T9vUU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMzhheGdRRRAB
@@ -346,5 +350,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

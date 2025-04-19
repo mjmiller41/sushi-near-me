@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/sushi-snob.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "SUSHI SNOB"
+  type: Restaurant
+  links: https://sushisnob.us/
+description: "Sushi, udon & bento boxes & many Pan-Asian dishes dispensed with speed in a compact luncheonette. Looking for sushi in Washington, District of Columbia? Chec..."
 place_id: ChIJ3xiis7i3t4kRNhZc2od2_-c
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: null
 rating: '4.4'
 rating_count: 140
 website: https://sushisnob.us/
-description: >-
-  Sushi, udon & bento boxes & many Pan-Asian dishes dispensed with speed in a
-  compact luncheonette.
 reviews:
   - name: >-
       places/ChIJ3xiis7i3t4kRNhZc2od2_-c/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6cC15Sl9RRRAB
@@ -351,5 +353,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, udon & bento boxes & many Pan-Asian dishes dispensed with speed in a
+  compact luncheonette.
 
 ---

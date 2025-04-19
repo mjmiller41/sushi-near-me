@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/sushi-taro.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Sushi Taro"
+  type: Restaurant
+  links: http://www.sushitaro.com/
+description: "High-end sushi spot with chef's choice dinners, bento-box lunch specials, sake & sho-chu. Looking for sushi in Washington, District of Columbia? Check out Su..."
 place_id: ChIJxSAeOsG3t4kR0DMcgNu5kVQ
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 1136
 website: http://www.sushitaro.com/
-description: >-
-  High-end sushi spot with chef's choice dinners, bento-box lunch specials, sake
-  & sho-chu.
 reviews:
   - name: >-
       places/ChIJxSAeOsG3t4kR0DMcgNu5kVQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURBNXN6ME93EAE
@@ -462,5 +464,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  High-end sushi spot with chef's choice dinners, bento-box lunch specials, sake
+  & sho-chu.
 
 ---

@@ -5,6 +5,11 @@ permalink: /michigan/shelby-charter-township/poke-fish.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Shelby Charter Township
+seo:
+  name: "Poke Fish"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Shelby Charter Township, Michigan? Check out Poke Fish for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJC7taD-LfJIgR3UddtAa3LS4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

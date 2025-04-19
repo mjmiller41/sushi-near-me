@@ -5,6 +5,11 @@ permalink: /california/rocklin/pk-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Rocklin
+seo:
+  name: "PK Sushi"
+  type: Restaurant
+  links: http://www.pksushi.com/
+description: "Looking for sushi in Rocklin, California? Check out PK Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJU5tR0Bwim4ARqfIn-uON11c
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 456
 website: http://www.pksushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

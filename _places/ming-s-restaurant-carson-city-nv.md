@@ -5,6 +5,11 @@ permalink: /nevada/carson-city/ming-s-restaurant.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Carson City
+seo:
+  name: "Ming's Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Carson City, Nevada? Check out Ming's Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJh9yYhxSgmYAR3B5_YER2BFc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

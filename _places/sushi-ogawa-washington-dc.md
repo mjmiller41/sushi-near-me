@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/sushi-ogawa.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Sushi Ogawa 鮨小川"
+  type: Restaurant
+  links: http://www.sushiogawadc.com/
+description: "Looking for sushi in Washington, District of Columbia? Check out Sushi Ogawa 鮨小川 for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJX9DqKtC3t4kRrSd1aFosigo
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $100 &ndash; & up
 rating: '4.3'
 rating_count: 432
 website: http://www.sushiogawadc.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

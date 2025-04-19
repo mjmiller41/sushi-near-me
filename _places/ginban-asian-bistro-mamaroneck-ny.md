@@ -5,6 +5,11 @@ permalink: /new-york/mamaroneck/ginban-asian-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Mamaroneck
+seo:
+  name: "Ginban Asian Bistro"
+  type: Restaurant
+  links: http://www.ginbanmamaroneck.com/
+description: "Sushi & Asian fare is served in a hip, blue-lit room behind a modest storefront facade. Looking for sushi in Mamaroneck, New York? Check out Ginban Asian Bis..."
 place_id: ChIJxy4YTYORwokRgd-fiNwNF3E
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 219
 website: http://www.ginbanmamaroneck.com/
-description: >-
-  Sushi & Asian fare is served in a hip, blue-lit room behind a modest
-  storefront facade.
 reviews:
   - name: >-
       places/ChIJxy4YTYORwokRgd-fiNwNF3E/reviews/ChdDSUhNMG9nS0VJQ0FnTURBd09qQzRBRRAB
@@ -392,5 +394,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi & Asian fare is served in a hip, blue-lit room behind a modest
+  storefront facade.
 
 ---

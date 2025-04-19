@@ -5,6 +5,11 @@ permalink: /california/sunnyvale/bonchon-sunnyvale.html
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
+seo:
+  name: "Bonchon Sunnyvale"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Sunnyvale, California? Check out Bonchon Sunnyvale for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJDblWdnq2j4ARlV_AvXov0bE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

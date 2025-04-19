@@ -5,6 +5,11 @@ permalink: /utah/sandy/ying-s-thai-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Sandy
+seo:
+  name: "Ying's Thai-Sushi"
+  type: Restaurant
+  links: https://yingsthaisushisandy.com/
+description: "Looking for sushi in Sandy, Utah? Check out Ying's Thai-Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJu_ftL-KHUocRFgTqElV9Qyc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 676
 website: https://yingsthaisushisandy.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

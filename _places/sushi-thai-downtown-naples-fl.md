@@ -5,6 +5,11 @@ permalink: /florida/naples/sushi-thai-downtown.html
 stateAbbr: FL
 stateName: Florida
 cityName: Naples
+seo:
+  name: "Sushi Thai Downtown"
+  type: Restaurant
+  links: http://sushithaidowntown.com/
+description: "Looking for sushi in Naples, Florida? Check out Sushi Thai Downtown for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJi_zMK5zh2ogRU1oXJyy-R9c
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1358
 website: http://sushithaidowntown.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

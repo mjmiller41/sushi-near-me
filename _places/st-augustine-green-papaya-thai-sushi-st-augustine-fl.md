@@ -5,6 +5,11 @@ permalink: /florida/st-augustine/st-augustine-green-papaya-thai-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: St. Augustine
+seo:
+  name: "（St Augustine)Green Papaya Thai & Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in St. Augustine, Florida? Check out （St Augustine)Green Papaya Thai & Sushi for a delightful Japanese dining experience. Enjoy a variety o..."
 place_id: ChIJlaxGpjsn5IgRcXCtdXOYz54
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

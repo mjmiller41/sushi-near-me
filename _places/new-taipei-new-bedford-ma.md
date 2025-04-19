@@ -5,6 +5,11 @@ permalink: /massachusetts/new-bedford/new-taipei.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: New Bedford
+seo:
+  name: "New Taipei"
+  type: Restaurant
+  links: https://www.newtaipeima.com/
+description: "Looking for sushi in New Bedford, Massachusetts? Check out New Taipei for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ1b0kIrjj5IkR86xg3esw8Yk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 247
 website: https://www.newtaipeima.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ1b0kIrjj5IkR86xg3esw8Yk/reviews/ChdDSUhNMG9nS0VJQ0FnSURiNDdQQjJnRRAB
@@ -357,5 +361,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

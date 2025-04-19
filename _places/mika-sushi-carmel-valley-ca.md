@@ -5,6 +5,11 @@ permalink: /california/carmel-valley/mika-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Carmel Valley
+seo:
+  name: "MIKA SUSHI"
+  type: Restaurant
+  links: https://mikasushi.menu11.com/
+description: "Looking for sushi in Carmel Valley, California? Check out MIKA SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJR4okikzzjYARvBgTwV3-5Fc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 91
 website: https://mikasushi.menu11.com/
-description: null
 reviews:
   - name: >-
       places/ChIJR4okikzzjYARvBgTwV3-5Fc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKX0thMlFREAE
@@ -359,5 +363,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

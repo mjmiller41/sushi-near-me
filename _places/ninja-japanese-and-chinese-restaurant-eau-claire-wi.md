@@ -5,6 +5,11 @@ permalink: /wisconsin/eau-claire/ninja-japanese-and-chinese-restaurant.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Eau Claire
+seo:
+  name: "Ninja Japanese and Chinese Restaurant"
+  type: Restaurant
+  links: https://ninjabarstow.com/?utm_source=google
+description: "Looking for sushi in Eau Claire, Wisconsin? Check out Ninja Japanese and Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of s..."
 place_id: ChIJwTTG8Pa8-IcRTks4keQTKsI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 900
 website: https://ninjabarstow.com/?utm_source=google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

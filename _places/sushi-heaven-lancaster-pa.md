@@ -5,6 +5,11 @@ permalink: /pennsylvania/lancaster/sushi-heaven.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
+seo:
+  name: "Sushi Heaven"
+  type: Restaurant
+  links: https://sushiheavenlancaster.com/
+description: "Looking for sushi in Lancaster, Pennsylvania? Check out Sushi Heaven for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJF8dMxrg7xokRSyi8UMAy94Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 392
 website: https://sushiheavenlancaster.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/uotora.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Uotora"
+  type: Restaurant
+  links: http://uotorabk.com/
+description: "Looking for sushi in Brooklyn, New York? Check out Uotora for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJkVcmgJxbwokRIqAid-4ZjFs
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 273
 website: http://uotorabk.com/
-description: null
 reviews:
   - name: >-
       places/ChIJkVcmgJxbwokRIqAid-4ZjFs/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3bWN5alJnEAE
@@ -424,5 +428,6 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /kentucky/prospect/arata-sushi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Prospect
+seo:
+  name: "Arata Sushi"
+  type: Restaurant
+  links: http://www.aratasushiprospect.com/
+description: "Looking for sushi in Prospect, Kentucky? Check out Arata Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJbzNHHj52aYgRNCchpTQwDyU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 203
 website: http://www.aratasushiprospect.com/
-description: null
 reviews:
   - name: >-
       places/ChIJbzNHHj52aYgRNCchpTQwDyU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQaXVTUXZnRRAB
@@ -356,5 +360,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

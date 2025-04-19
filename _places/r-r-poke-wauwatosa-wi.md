@@ -5,6 +5,11 @@ permalink: /wisconsin/wauwatosa/r-r-poke.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Wauwatosa
+seo:
+  name: "R & R Poke"
+  type: Restaurant
+  links: https://www.rrpokewi.com/
+description: "Looking for sushi in Wauwatosa, Wisconsin? Check out R & R Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJcxmDZwcbBYgR2O3ij9o1f6I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 317
 website: https://www.rrpokewi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJcxmDZwcbBYgR2O3ij9o1f6I/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2czlqUkdBEAE
@@ -356,5 +360,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

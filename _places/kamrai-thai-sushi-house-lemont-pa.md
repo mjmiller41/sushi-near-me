@@ -5,6 +5,11 @@ permalink: /pennsylvania/lemont/kamrai-thai-sushi-house.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lemont
+seo:
+  name: "Kamrai Thai&Sushi House"
+  type: Restaurant
+  links: https://www.kamraithairestaurant.com/
+description: "Sushi rolls & classic Thai entrees are the headliners at this quaint restaurant with a mellow vibe. Looking for sushi in Lemont, Pennsylvania? Check out Kamr..."
 place_id: ChIJiTaWQLGlzokRKe8zVgqofOg
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 467
 website: https://www.kamraithairestaurant.com/
-description: >-
-  Sushi rolls & classic Thai entrees are the headliners at this quaint
-  restaurant with a mellow vibe.
 reviews:
   - name: >-
       places/ChIJiTaWQLGlzokRKe8zVgqofOg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRZ0lPRU5BEAE
@@ -386,5 +388,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi rolls & classic Thai entrees are the headliners at this quaint
+  restaurant with a mellow vibe.
 
 ---

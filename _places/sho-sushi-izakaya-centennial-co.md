@@ -5,6 +5,11 @@ permalink: /colorado/centennial/sho-sushi-izakaya.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Centennial
+seo:
+  name: "Sho Sushi & Izakaya"
+  type: Restaurant
+  links: https://www.shosushico.com/
+description: "Looking for sushi in Centennial, Colorado? Check out Sho Sushi & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJb9FE7YePbIcRnsYvbuN5_Ak
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 414
 website: https://www.shosushico.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

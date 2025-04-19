@@ -5,6 +5,11 @@ permalink: /pennsylvania/philadelphia/ahi-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
+seo:
+  name: "Ahi Sushi"
+  type: Restaurant
+  links: https://ahisushi.kwickmenu.com/index.php
+description: "Sushi is the focus of this simple Japanese restaurant with a casual vibe & lunch specials. Looking for sushi in Philadelphia, Pennsylvania? Check out Ahi Sus..."
 place_id: ChIJBeUxKk2yxokRPIt97SqDG14
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 516
 website: https://ahisushi.kwickmenu.com/index.php
-description: >-
-  Sushi is the focus of this simple Japanese restaurant with a casual vibe &
-  lunch specials.
 reviews:
   - name: >-
       places/ChIJBeUxKk2yxokRPIt97SqDG14/reviews/ChZDSUhNMG9nS0VJQ0FnTUNneHRpM1pBEAE
@@ -347,5 +349,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Sushi is the focus of this simple Japanese restaurant with a casual vibe &
+  lunch specials.
 
 ---

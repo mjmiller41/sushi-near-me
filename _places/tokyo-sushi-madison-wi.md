@@ -5,6 +5,11 @@ permalink: /wisconsin/madison/tokyo-sushi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
+seo:
+  name: "Tokyo Sushi"
+  type: Restaurant
+  links: http://tokyosushimadison.com/
+description: "Looking for sushi in Madison, Wisconsin? Check out Tokyo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJjSx-WO9TBogRgSG4_kebsGI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 410
 website: http://tokyosushimadison.com/
-description: null
 reviews:
   - name: >-
       places/ChIJjSx-WO9TBogRgSG4_kebsGI/reviews/ChdDSUhNMG9nS0VJQ0FnTURRb2JYRmt3RRAB
@@ -370,5 +374,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

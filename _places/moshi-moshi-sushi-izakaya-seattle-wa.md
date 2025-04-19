@@ -5,6 +5,11 @@ permalink: /washington/seattle/moshi-moshi-sushi-izakaya.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Moshi Moshi Sushi & Izakaya"
+  type: Restaurant
+  links: http://www.moshimoshiseattle.com/
+description: "Looking for sushi in Seattle, Washington? Check out Moshi Moshi Sushi & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJExxdWsYVkFQR4LcgpT7JVBg
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 761
 website: http://www.moshimoshiseattle.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

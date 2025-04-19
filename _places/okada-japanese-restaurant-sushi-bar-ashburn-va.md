@@ -5,6 +5,11 @@ permalink: /virginia/ashburn/okada-japanese-restaurant-sushi-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Ashburn
+seo:
+  name: "Okada Japanese Restaurant & Sushi Bar"
+  type: Restaurant
+  links: http://www.okadajapaneserestaurant.com/
+description: "Modern spot for sushi, hibachi dishes & other Japanese food, plus a full bar with a variety of sake. Looking for sushi in Ashburn, Virginia? Check out Okada ..."
 place_id: ChIJIxP8OFk5tokRPu8zgJlfbTw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 675
 website: http://www.okadajapaneserestaurant.com/
-description: >-
-  Modern spot for sushi, hibachi dishes & other Japanese food, plus a full bar
-  with a variety of sake.
 reviews:
   - name: >-
       places/ChIJIxP8OFk5tokRPu8zgJlfbTw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUNW9QUy13RRAB
@@ -456,5 +458,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern spot for sushi, hibachi dishes & other Japanese food, plus a full bar
+  with a variety of sake.
 
 ---

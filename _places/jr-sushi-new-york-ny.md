@@ -5,6 +5,11 @@ permalink: /new-york/new-york/jr-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "JR Sushi"
+  type: Restaurant
+  links: http://www.jrsushi.com/?utm_source=gmb&utm_medium=website
+description: "Snug nook featuring sashimi & creative rolls plus bubble teas, flavored iced teas & yogurt drinks. Looking for sushi in New York, New York? Check out JR Sush..."
 place_id: ChIJDaXc2B5awokRZLdRComJ-C0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 474
 website: http://www.jrsushi.com/?utm_source=gmb&utm_medium=website
-description: >-
-  Snug nook featuring sashimi & creative rolls plus bubble teas, flavored iced
-  teas & yogurt drinks.
 reviews:
   - name: >-
       places/ChIJDaXc2B5awokRZLdRComJ-C0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3X2RDUFdnEAE
@@ -369,5 +371,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Snug nook featuring sashimi & creative rolls plus bubble teas, flavored iced
+  teas & yogurt drinks.
 
 ---

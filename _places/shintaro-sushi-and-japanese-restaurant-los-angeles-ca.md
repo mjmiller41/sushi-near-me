@@ -5,6 +5,11 @@ permalink: /california/los-angeles/shintaro-sushi-and-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Shintaro Sushi and Japanese Restaurant"
+  type: Restaurant
+  links: http://www.shintarosushi.com/
+description: "Looking for sushi in Los Angeles, California? Check out Shintaro Sushi and Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety o..."
 place_id: ChIJSaTnhSK_woARtahbUktUF1o
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 398
 website: http://www.shintarosushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

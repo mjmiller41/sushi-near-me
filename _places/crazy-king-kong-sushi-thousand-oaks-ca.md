@@ -5,6 +5,11 @@ permalink: /california/thousand-oaks/crazy-king-kong-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Thousand Oaks
+seo:
+  name: "Crazy King Kong Sushi"
+  type: Restaurant
+  links: http://www.facebook.com/crazykingkongsushi
+description: "Looking for sushi in Thousand Oaks, California? Check out Crazy King Kong Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJ8TfMYbs66IAR--Ur2eDgHjY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 360
 website: http://www.facebook.com/crazykingkongsushi
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-bruno/mijouri-sushibune.html
 stateAbbr: CA
 stateName: California
 cityName: San Bruno
+seo:
+  name: "Mijouri SushiBune"
+  type: Restaurant
+  links: http://www.mijourisushibune1230b.com/
+description: "Sushi rolls, classic Japanese fare & sake are dispensed in an unassuming strip-mall setting. Looking for sushi in San Bruno, California? Check out Mijouri Su..."
 place_id: ChIJk7Cgmb95j4ARLgQRsr2ljuY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 198
 website: http://www.mijourisushibune1230b.com/
-description: >-
-  Sushi rolls, classic Japanese fare & sake are dispensed in an unassuming
-  strip-mall setting.
 reviews:
   - name: >-
       places/ChIJk7Cgmb95j4ARLgQRsr2ljuY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBenQ3TkV3EAE
@@ -388,5 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi rolls, classic Japanese fare & sake are dispensed in an unassuming
+  strip-mall setting.
 
 ---

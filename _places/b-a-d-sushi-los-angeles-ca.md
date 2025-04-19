@@ -5,6 +5,11 @@ permalink: /california/los-angeles/b-a-d-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "B.A.D. Sushi"
+  type: Restaurant
+  links: https://www.thebadsushi.com/
+description: "Looking for sushi in Los Angeles, California? Check out B.A.D. Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJ_6U_c2-7woARh0tbgsQtdIU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 287
 website: https://www.thebadsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

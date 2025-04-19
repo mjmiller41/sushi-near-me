@@ -5,6 +5,11 @@ permalink: /florida/miami-beach/moshi-moshi-miami-beach.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami Beach
+seo:
+  name: "Moshi Moshi Miami Beach"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Miami Beach, Florida? Check out Moshi Moshi Miami Beach for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJB4im44-02YgR5BMCzymF7Ks
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

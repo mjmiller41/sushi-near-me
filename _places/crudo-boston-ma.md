@@ -5,6 +5,11 @@ permalink: /massachusetts/boston/crudo.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
+seo:
+  name: "Crudo"
+  type: Restaurant
+  links: http://crudoboston.com/
+description: "Sleek bi-level spot swathed in reclaimed barn wood serving creative sushi & Pan-Asian small plates. Looking for sushi in Boston, Massachusetts? Check out Cru..."
 place_id: ChIJXWEOK49w44kRd7d7F3skQJI
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 294
 website: http://crudoboston.com/
-description: >-
-  Sleek bi-level spot swathed in reclaimed barn wood serving creative sushi &
-  Pan-Asian small plates.
 reviews:
   - name: >-
       places/ChIJXWEOK49w44kRd7d7F3skQJI/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cG9qYzhBRRAB
@@ -410,5 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek bi-level spot swathed in reclaimed barn wood serving creative sushi &
+  Pan-Asian small plates.
 
 ---

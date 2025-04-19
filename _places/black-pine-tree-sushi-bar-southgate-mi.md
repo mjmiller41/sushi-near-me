@@ -5,6 +5,11 @@ permalink: /michigan/southgate/black-pine-tree-sushi-bar.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Southgate
+seo:
+  name: "Black Pine Tree Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Snug sushi house earns buzz for its unique rolls & classic Japanese fare in a relaxed, simple space. Looking for sushi in Southgate, Michigan? Check out Blac..."
 place_id: ChIJEbpg-YU3O4gRF1-sn0l06Io
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 1291
 website: null
-description: >-
-  Snug sushi house earns buzz for its unique rolls & classic Japanese fare in a
-  relaxed, simple space.
 reviews:
   - name: >-
       places/ChIJEbpg-YU3O4gRF1-sn0l06Io/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bnBhMmRREAE
@@ -414,5 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Snug sushi house earns buzz for its unique rolls & classic Japanese fare in a
+  relaxed, simple space.
 
 ---

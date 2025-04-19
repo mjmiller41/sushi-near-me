@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/kiyomi-sushi-by-uchi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "KIYOMI Sushi by Uchi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Washington, District of Columbia? Check out KIYOMI Sushi by Uchi for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJdb35KAC3t4kRYXSLFGT7IJc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 46
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJdb35KAC3t4kRYXSLFGT7IJc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdDYtdURREAE
@@ -413,5 +417,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
+summary: null
 
 ---

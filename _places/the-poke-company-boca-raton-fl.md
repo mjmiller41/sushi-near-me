@@ -5,6 +5,11 @@ permalink: /florida/boca-raton/the-poke-company.html
 stateAbbr: FL
 stateName: Florida
 cityName: Boca Raton
+seo:
+  name: "The Poké Company"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Boca Raton, Florida? Check out The Poké Company for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJN-j7Kx3i2IgRVdDTkO_0P80
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

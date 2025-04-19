@@ -5,6 +5,11 @@ permalink: /california/fremont/toro-sushi-stone-grill-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Fremont
+seo:
+  name: "Toro Sushi Stone Grill & Bar"
+  type: Restaurant
+  links: https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=bb78acd0-448a-4ccc-81f7-605f68a82f65
+description: "Looking for sushi in Fremont, California? Check out Toro Sushi Stone Grill & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJdbu3YWzHj4ARioMDEMOoZyU
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.3'
 rating_count: 1081
 website: >-
   https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=bb78acd0-448a-4ccc-81f7-605f68a82f65
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

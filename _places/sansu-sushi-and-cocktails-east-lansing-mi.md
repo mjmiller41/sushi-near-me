@@ -5,6 +5,11 @@ permalink: /michigan/east-lansing/sansu-sushi-and-cocktails.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
+seo:
+  name: "Sansu Sushi and Cocktails"
+  type: Restaurant
+  links: http://www.sansu-sushi.com/
+description: "Looking for sushi in East Lansing, Michigan? Check out Sansu Sushi and Cocktails for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJoUMb9pfCIogREsFLu8wbi0I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1353
 website: http://www.sansu-sushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

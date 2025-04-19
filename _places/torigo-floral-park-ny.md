@@ -5,6 +5,11 @@ permalink: /new-york/floral-park/torigo.html
 stateAbbr: NY
 stateName: New York
 cityName: Floral Park
+seo:
+  name: "Torigo"
+  type: Restaurant
+  links: https://www.torigorestaurant.com/
+description: "Casual Japanese outpost offering a roster of rolls & tempura, plus fried ice cream for dessert. Looking for sushi in Floral Park, New York? Check out Torigo ..."
 place_id: ChIJL33hHVliwokRc8B-PlqI2Xs
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: null
 rating: '4.6'
 rating_count: 524
 website: https://www.torigorestaurant.com/
-description: >-
-  Casual Japanese outpost offering a roster of rolls & tempura, plus fried ice
-  cream for dessert.
 reviews:
   - name: >-
       places/ChIJL33hHVliwokRc8B-PlqI2Xs/reviews/ChZDSUhNMG9nS0VJQ0FnSURYbDdIbEh3EAE
@@ -399,5 +401,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Casual Japanese outpost offering a roster of rolls & tempura, plus fried ice
+  cream for dessert.
 
 ---

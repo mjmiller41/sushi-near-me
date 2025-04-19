@@ -5,6 +5,11 @@ permalink: /missouri/kansas-city/mr-le-s-sushi.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
+seo:
+  name: "Mr Le's Sushi"
+  type: Restaurant
+  links: https://www.mrlessushi.com/
+description: "Compact, unassuming strip-mall restaurant offering Vietnamese dishes, sushi & other Japanese fare. Looking for sushi in Kansas City, Missouri? Check out Mr L..."
 place_id: ChIJ2YVRv3X5wIcRI3Nga8Le_38
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 1341
 website: https://www.mrlessushi.com/
-description: >-
-  Compact, unassuming strip-mall restaurant offering Vietnamese dishes, sushi &
-  other Japanese fare.
 reviews:
   - name: >-
       places/ChIJ2YVRv3X5wIcRI3Nga8Le_38/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnMmVDRmFBEAE
@@ -468,5 +470,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Compact, unassuming strip-mall restaurant offering Vietnamese dishes, sushi &
+  other Japanese fare.
 
 ---

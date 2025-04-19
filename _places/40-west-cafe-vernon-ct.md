@@ -5,6 +5,11 @@ permalink: /connecticut/vernon/40-west-cafe.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Vernon
+seo:
+  name: "40 West Cafe"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Vernon, Connecticut? Check out 40 West Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJQ9Maz5n35okR7WAl8bFiSDg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

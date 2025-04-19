@@ -5,6 +5,11 @@ permalink: /california/hayward/katsuo-sushi-and-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Hayward
+seo:
+  name: "Katsuo Sushi and Grill"
+  type: Restaurant
+  links: http://www.katsuosushigrill.com/
+description: "Looking for sushi in Hayward, California? Check out Katsuo Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJ5Raq63yXj4ARPQEYflsBJNk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 205
 website: http://www.katsuosushigrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

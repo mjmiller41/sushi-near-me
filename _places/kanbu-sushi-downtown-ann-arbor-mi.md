@@ -5,6 +5,11 @@ permalink: /michigan/ann-arbor/kanbu-sushi-downtown.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
+seo:
+  name: "KANBU Sushi Downtown"
+  type: Restaurant
+  links: http://kanbu-annarbor.com/
+description: "Standard Japanese restaurant serving sushi, poke bowls & seafood noodle soups in relaxed surrounds. Looking for sushi in Ann Arbor, Michigan? Check out KANBU..."
 place_id: ChIJgwPltO6vPIgRPHbn-kwcNFE
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 271
 website: http://kanbu-annarbor.com/
-description: >-
-  Standard Japanese restaurant serving sushi, poke bowls & seafood noodle soups
-  in relaxed surrounds.
 reviews:
   - name: >-
       places/ChIJgwPltO6vPIgRPHbn-kwcNFE/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2dWVXSEpBEAE
@@ -383,5 +385,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Standard Japanese restaurant serving sushi, poke bowls & seafood noodle soups
+  in relaxed surrounds.
 
 ---

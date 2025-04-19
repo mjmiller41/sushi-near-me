@@ -5,6 +5,11 @@ permalink: /new-york/new-york/hong-kong-noodle-sariku-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Hong Kong Noodle & Sariku Sushi"
+  type: Restaurant
+  links: https://hongkongnoodleny.com/
+description: "Unassuming sit-down restaurant offering familiar Chinese & Japanese eats, including sushi. Looking for sushi in New York, New York? Check out Hong Kong Noodl..."
 place_id: ChIJ-WCDcghZwokRafqiRaOW0JA
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 228
 website: https://hongkongnoodleny.com/
-description: >-
-  Unassuming sit-down restaurant offering familiar Chinese & Japanese eats,
-  including sushi.
 reviews:
   - name: >-
       places/ChIJ-WCDcghZwokRafqiRaOW0JA/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOUpIcEtnEAE
@@ -351,5 +353,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Unassuming sit-down restaurant offering familiar Chinese & Japanese eats,
+  including sushi.
 
 ---

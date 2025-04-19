@@ -5,6 +5,11 @@ permalink: /massachusetts/watertown/super-fusion-cuisine-ii.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Watertown
+seo:
+  name: "Super Fusion Cuisine II"
+  type: Restaurant
+  links: http://www.superfusionsushi.com/
+description: "Informal area-chain sushi bar & teriyaki house, with both takeout & dine-in available. Looking for sushi in Watertown, Massachusetts? Check out Super Fusion ..."
 place_id: ChIJ9cpFHAV444kRixMnPo00qwU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 657
 website: http://www.superfusionsushi.com/
-description: >-
-  Informal area-chain sushi bar & teriyaki house, with both takeout & dine-in
-  available.
 reviews:
   - name: >-
       places/ChIJ9cpFHAV444kRixMnPo00qwU/reviews/ChZDSUhNMG9nS0VJQ0FnSURYLU1Xbk13EAE
@@ -461,5 +463,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Informal area-chain sushi bar & teriyaki house, with both takeout & dine-in
+  available.
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/sugar-land/keeper-s-japanese-restaurant-and-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Sugar Land
+seo:
+  name: "Keeper's Japanese Restaurant and Bar"
+  type: Restaurant
+  links: https://keepersushi.com/
+description: "Looking for sushi in Sugar Land, Texas? Check out Keeper's Japanese Restaurant and Bar for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJ5RUXPnTmQIYR_hxF_roJ73c
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1645
 website: https://keepersushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

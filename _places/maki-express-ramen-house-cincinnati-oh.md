@@ -5,6 +5,11 @@ permalink: /ohio/cincinnati/maki-express-ramen-house.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+seo:
+  name: "Maki Express Ramen House"
+  type: Restaurant
+  links: https://makiexpresscincinnati.com/
+description: "Looking for sushi in Cincinnati, Ohio? Check out Maki Express Ramen House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJW-JqKwCzQYgRfbeEL3wikyI
 photos:
   - name: >-
@@ -124,7 +129,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 14
 website: https://makiexpresscincinnati.com/
-description: null
 reviews:
   - name: >-
       places/ChIJW-JqKwCzQYgRfbeEL3wikyI/reviews/ChZDSUhNMG9nS0VJQ0FnSURfeEl5TVV3EAE
@@ -306,5 +310,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

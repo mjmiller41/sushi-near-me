@@ -5,6 +5,11 @@ permalink: /louisiana/gonzales/hello-tokyo-2.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Gonzales
+seo:
+  name: "Hello Tokyo 2"
+  type: Restaurant
+  links: https://smorefood.com/order-online/hello-tokyo-2-next-to-leblancs-food-store-gonzales-70737-p1urzrdx?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Gonzales, Louisiana? Check out Hello Tokyo 2 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJRSYnIzq3JoYRa6PhMRZojMI
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '3.9'
 rating_count: 45
 website: >-
   https://smorefood.com/order-online/hello-tokyo-2-next-to-leblancs-food-store-gonzales-70737-p1urzrdx?utm_source=gmb&utm_medium=website
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

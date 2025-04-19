@@ -5,6 +5,11 @@ permalink: /texas/dallas/bonchon-addison.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
+seo:
+  name: "Bonchon Addison"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Dallas, Texas? Check out Bonchon Addison for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJJaxMcp8hTIYR8MBD2v35jAM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /louisiana/new-orleans/hangout-ramen.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: New Orleans
+seo:
+  name: "Hangout Ramen"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New Orleans, Louisiana? Check out Hangout Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJDdxuPo2lIIYRxa9CAlyuUvE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

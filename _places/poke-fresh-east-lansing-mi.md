@@ -5,6 +5,11 @@ permalink: /michigan/east-lansing/poke-fresh.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
+seo:
+  name: "Poké Fresh"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in East Lansing, Michigan? Check out Poké Fresh for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJN_NABv7pIogRGUz8Y6YMGlg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/staten-island/umi-hotpot-sushi-seafood-buffet.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
+seo:
+  name: "Umi Hotpot Sushi & Seafood Buffet"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Staten Island, New York? Check out Umi Hotpot Sushi & Seafood Buffet for a delightful Japanese dining experience. Enjoy a variety of sus..."
 place_id: ChIJCZrTvIBNwokRk6lwTzVEYw4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

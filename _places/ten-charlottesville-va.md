@@ -5,6 +5,11 @@ permalink: /virginia/charlottesville/ten.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
+seo:
+  name: "Ten"
+  type: Restaurant
+  links: http://www.ten-sushi.com/
+description: "Chill Japanese eatery dispensing sushi, sake & more in a sleek, contemporary setting. Looking for sushi in Charlottesville, Virginia? Check out Ten for a del..."
 place_id: ChIJgWf6LCSGs4kRS5YQDK8okOo
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 299
 website: http://www.ten-sushi.com/
-description: >-
-  Chill Japanese eatery dispensing sushi, sake & more in a sleek, contemporary
-  setting.
 reviews:
   - name: >-
       places/ChIJgWf6LCSGs4kRS5YQDK8okOo/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3NU5pa0h3EAE
@@ -383,5 +385,8 @@ serves_lunch: false
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Chill Japanese eatery dispensing sushi, sake & more in a sleek, contemporary
+  setting.
 
 ---

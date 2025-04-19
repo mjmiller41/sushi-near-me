@@ -5,6 +5,11 @@ permalink: /missouri/kansas-city/moonlight-sushi-bar-grill.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
+seo:
+  name: "Moonlight Sushi Bar & Grill"
+  type: Restaurant
+  links: null
+description: "Sizable restaurant serving sushi as well as teriyaki, tempura & Japanese faves in a stylish space. Looking for sushi in Kansas City, Missouri? Check out Moon..."
 place_id: ChIJp4MnmvFVwIcRI0G0HemxHjQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 489
 website: null
-description: >-
-  Sizable restaurant serving sushi as well as teriyaki, tempura & Japanese faves
-  in a stylish space.
 reviews:
   - name: >-
       places/ChIJp4MnmvFVwIcRI0G0HemxHjQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURueTVidXVnRRAB
@@ -396,5 +398,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sizable restaurant serving sushi as well as teriyaki, tempura & Japanese faves
+  in a stylish space.
 
 ---

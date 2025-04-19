@@ -5,6 +5,11 @@ permalink: /pennsylvania/willow-grove/sushi-house.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Willow Grove
+seo:
+  name: "Sushi House"
+  type: Restaurant
+  links: https://www.sushihouse101.com/
+description: "Looking for sushi in Willow Grove, Pennsylvania? Check out Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJ5xt7ZzGwxokRRMZB6pkklt4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 466
 website: https://www.sushihouse101.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

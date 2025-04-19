@@ -5,6 +5,11 @@ permalink: /ohio/columbus/tai-s-asian-bistro-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
+seo:
+  name: "Tai's Asian Bistro & Sushi"
+  type: Restaurant
+  links: https://www.taisasianbistrocbus.com/
+description: "A straightforward outlet dishing up Asian fare from wontons to pad Thai to sushi. Looking for sushi in Columbus, Ohio? Check out Tai's Asian Bistro & Sushi f..."
 place_id: ChIJzfW8AmWOOIgR1-wo-7bwcl8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 3001
 website: https://www.taisasianbistrocbus.com/
-description: >-
-  A straightforward outlet dishing up Asian fare from wontons to pad Thai to
-  sushi.
 reviews:
   - name: >-
       places/ChIJzfW8AmWOOIgR1-wo-7bwcl8/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MmJtYU53EAE
@@ -388,5 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A straightforward outlet dishing up Asian fare from wontons to pad Thai to
+  sushi.
 
 ---

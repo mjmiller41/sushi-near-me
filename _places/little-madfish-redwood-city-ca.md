@@ -5,6 +5,11 @@ permalink: /california/redwood-city/little-madfish.html
 stateAbbr: CA
 stateName: California
 cityName: Redwood City
+seo:
+  name: "Little Madfish"
+  type: Restaurant
+  links: http://littlemadfishrwc.com/
+description: "Sushi rolls, bento box meals, ramen & other Japanese fare round out the menu at this snug fixture. Looking for sushi in Redwood City, California? Check out L..."
 place_id: ChIJg0Iyv7Kjj4AR3fWZ0B-Nhio
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 365
 website: http://littlemadfishrwc.com/
-description: >-
-  Sushi rolls, bento box meals, ramen & other Japanese fare round out the menu
-  at this snug fixture.
 reviews:
   - name: >-
       places/ChIJg0Iyv7Kjj4AR3fWZ0B-Nhio/reviews/ChdDSUhNMG9nS0VJQ0FnTURRaFA3ZXVBRRAB
@@ -394,5 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi rolls, bento box meals, ramen & other Japanese fare round out the menu
+  at this snug fixture.
 
 ---

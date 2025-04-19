@@ -5,6 +5,11 @@ permalink: /utah/south-jordan/tsunami-restaurant-sushi-bar.html
 stateAbbr: UT
 stateName: Utah
 cityName: South Jordan
+seo:
+  name: "Tsunami Restaurant & Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in South Jordan, Utah? Check out Tsunami Restaurant & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJbac68DaGUocR9lLltBJXsdg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

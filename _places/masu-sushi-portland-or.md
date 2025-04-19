@@ -5,6 +5,11 @@ permalink: /oregon/portland/masu-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
+seo:
+  name: "Masu Sushi"
+  type: Restaurant
+  links: http://www.masusushi.com/
+description: "Looking for sushi in Portland, Oregon? Check out Masu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJY3UF_QIKlVQRvIlkdcNiFmk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 929
 website: http://www.masusushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

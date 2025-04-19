@@ -5,6 +5,11 @@ permalink: /new-york/new-york/unique-omakase.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Unique Omakase"
+  type: Restaurant
+  links: https://www.uniqueomakase.com/
+description: "Looking for sushi in New York, New York? Check out Unique Omakase for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJ0auDar5ZwokR9HNRKrz9OsE
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 106
 website: https://www.uniqueomakase.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ0auDar5ZwokR9HNRKrz9OsE/reviews/ChdDSUhNMG9nS0VJQ0FnSURIXzUycjdnRRAB
@@ -371,5 +375,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: null
 
 ---

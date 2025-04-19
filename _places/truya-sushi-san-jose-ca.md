@@ -5,6 +5,11 @@ permalink: /california/san-jose/truya-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Truya Sushi"
+  type: Restaurant
+  links: https://www.truyasushisj.com/
+description: "Looking for sushi in San Jose, California? Check out Truya Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJ7_FjanQtjoARZ8I4Ea2ChWU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 146
 website: https://www.truyasushisj.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

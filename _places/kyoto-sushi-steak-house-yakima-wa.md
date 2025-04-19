@@ -5,6 +5,11 @@ permalink: /washington/yakima/kyoto-sushi-steak-house.html
 stateAbbr: WA
 stateName: Washington
 cityName: Yakima
+seo:
+  name: "Kyoto Sushi & Steak House"
+  type: Restaurant
+  links: http://www.kyotoatyakima.com/
+description: "Looking for sushi in Yakima, Washington? Check out Kyoto Sushi & Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJf2Fq4Qx9l1QR14RBMsRHdKk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1014
 website: http://www.kyotoatyakima.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

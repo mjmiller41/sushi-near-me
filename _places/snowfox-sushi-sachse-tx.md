@@ -5,6 +5,11 @@ permalink: /texas/sachse/snowfox-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Sachse
+seo:
+  name: "SNOWFOX Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Sachse, Texas? Check out SNOWFOX Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJl0VrRxkdTIYRXkI6mVNxlPs
 photos: null
 address: 5190 S State Hwy 78, Sachse, TX 75048, USA
@@ -49,7 +54,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -76,5 +80,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

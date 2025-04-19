@@ -5,6 +5,11 @@ permalink: /pennsylvania/exton/zwei-restaurant.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Exton
+seo:
+  name: "Zwei Restaurant"
+  type: Restaurant
+  links: https://zweiexton.kwickmenu.com/index.php
+description: "Simple spot offering an extensive selection of Chinese, Japanese & Thai basics, plus a sushi bar. Looking for sushi in Exton, Pennsylvania? Check out Zwei Re..."
 place_id: ChIJe02LFoX0xokRDQrB80HGIuk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 370
 website: https://zweiexton.kwickmenu.com/index.php
-description: >-
-  Simple spot offering an extensive selection of Chinese, Japanese & Thai
-  basics, plus a sushi bar.
 reviews:
   - name: >-
       places/ChIJe02LFoX0xokRDQrB80HGIuk/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzdmNyUUJnEAE
@@ -378,5 +380,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Simple spot offering an extensive selection of Chinese, Japanese & Thai
+  basics, plus a sushi bar.
 
 ---

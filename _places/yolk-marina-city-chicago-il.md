@@ -5,6 +5,11 @@ permalink: /illinois/chicago/yolk-marina-city.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Yolk - Marina City"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Chicago, Illinois? Check out Yolk - Marina City for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJoToyIa4sDogROtxPMF-6QN8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

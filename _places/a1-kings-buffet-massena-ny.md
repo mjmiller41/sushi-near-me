@@ -5,6 +5,11 @@ permalink: /new-york/massena/a1-kings-buffet.html
 stateAbbr: NY
 stateName: New York
 cityName: Massena
+seo:
+  name: "A1 Kings Buffet"
+  type: Restaurant
+  links: http://a1kingbuffet.restaurant888.com/
+description: "Looking for sushi in Massena, New York? Check out A1 Kings Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJuWMLQtk_zEwRIg-keJaWbDs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.5'
 rating_count: 218
 website: http://a1kingbuffet.restaurant888.com/
-description: null
 reviews:
   - name: >-
       places/ChIJuWMLQtk_zEwRIg-keJaWbDs/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0emNTNjlRRRAB
@@ -374,5 +378,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

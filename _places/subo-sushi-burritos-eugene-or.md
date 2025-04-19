@@ -5,6 +5,11 @@ permalink: /oregon/eugene/subo-sushi-burritos.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
+seo:
+  name: "Subo Sushi Burritos"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Eugene, Oregon? Check out Subo Sushi Burritos for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJa4igu4gfwVQRMJHbswoqwGE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/rockwall/basil-cafe-asian-cuisine.html
 stateAbbr: TX
 stateName: Texas
 cityName: Rockwall
+seo:
+  name: "Basil Cafe Asian Cuisine"
+  type: Restaurant
+  links: http://www.basilcaferockwall.com/
+description: "Looking for sushi in Rockwall, Texas? Check out Basil Cafe Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJq0sdHECqToYRI8YI5P5TqDM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 293
 website: http://www.basilcaferockwall.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

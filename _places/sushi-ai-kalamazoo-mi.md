@@ -5,6 +5,11 @@ permalink: /michigan/kalamazoo/sushi-ai.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Kalamazoo
+seo:
+  name: "Sushi Ai"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Kalamazoo, Michigan? Check out Sushi Ai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJFWh3HT53F4gR6i5Unygorr8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

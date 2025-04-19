@@ -5,6 +5,11 @@ permalink: /california/san-francisco/wasabi-ginger.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Wasabi & Ginger"
+  type: Restaurant
+  links: http://www.wasabigingerca.com/
+description: "Traditional & creative raw fish plus grilled & fried Japanese dishes served in a casual space. Looking for sushi in San Francisco, California? Check out Wasa..."
 place_id: ChIJDSCl1umAhYARyKXXByWjZ5g
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: null
 rating: '4.2'
 rating_count: 162
 website: http://www.wasabigingerca.com/
-description: >-
-  Traditional & creative raw fish plus grilled & fried Japanese dishes served in
-  a casual space.
 reviews:
   - name: >-
       places/ChIJDSCl1umAhYARyKXXByWjZ5g/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4Mm9YRFRBEAE
@@ -343,5 +345,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Traditional & creative raw fish plus grilled & fried Japanese dishes served in
+  a casual space.
 
 ---

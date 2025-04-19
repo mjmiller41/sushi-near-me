@@ -5,6 +5,11 @@ permalink: /california/union-city/sushi-go-go-union-city.html
 stateAbbr: CA
 stateName: California
 cityName: Union City
+seo:
+  name: "Sushi Go Go Union City"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Union City, California? Check out Sushi Go Go Union City for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJZVzNi5GVj4ARW5pzKehOggw
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

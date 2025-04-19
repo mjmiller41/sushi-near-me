@@ -5,6 +5,11 @@ permalink: /virginia/alexandria/hinata-sushi-bar-grill.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
+seo:
+  name: "Hinata Sushi Bar &Grill"
+  type: Restaurant
+  links: http://www.clover.com/online-ordering/hinata-alexandria/
+description: "Relaxed locale dishing up traditional Japanese cuisine, including rolls, sashimi & tempura. Looking for sushi in Alexandria, Virginia? Check out Hinata Sushi..."
 place_id: ChIJbzxVIsyxt4kRDvR65e416n0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.clover.com/online-ordering/hinata-alexandria/
-description: >-
-  Relaxed locale dishing up traditional Japanese cuisine, including rolls,
-  sashimi & tempura.
 reviews:
   - name: >-
       places/ChIJbzxVIsyxt4kRDvR65e416n0/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzaHBTcUp3EAE
@@ -401,5 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed locale dishing up traditional Japanese cuisine, including rolls,
+  sashimi & tempura.
 
 ---

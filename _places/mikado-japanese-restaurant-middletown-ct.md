@@ -5,6 +5,11 @@ permalink: /connecticut/middletown/mikado-japanese-restaurant.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Middletown
+seo:
+  name: "MIKADO JAPANESE RESTAURANT"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Middletown, Connecticut? Check out MIKADO JAPANESE RESTAURANT for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJ06U_dHdL5okRAObgip7N4vo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

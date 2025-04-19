@@ -5,6 +5,11 @@ permalink: /north-carolina/greensboro/hibachi-cafe.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
+seo:
+  name: "Hibachi Cafe"
+  type: Restaurant
+  links: https://www.hibachicafenorthcarolina.com/zdoq28ba/hibachi-cafe-greensboro-27401/order-online
+description: "Looking for sushi in Greensboro, North Carolina? Check out Hibachi Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJuSVHIR8ZU4gR7aC73NHmlCs
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.0'
 rating_count: 246
 website: >-
   https://www.hibachicafenorthcarolina.com/zdoq28ba/hibachi-cafe-greensboro-27401/order-online
-description: null
 reviews:
   - name: >-
       places/ChIJuSVHIR8ZU4gR7aC73NHmlCs/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3b3NucGh3RRAB
@@ -389,5 +393,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-francisco/grandeho-s-kamekyo.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Grandeho's Kamekyo"
+  type: Restaurant
+  links: http://www.gksushi.com/
+description: "A big menu offers Japanese classics & some unique dishes including sushi rolls, in a simple setting. Looking for sushi in San Francisco, California? Check ou..."
 place_id: ChIJ6ZHYPOGAhYARDFbfGSxE8o4
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 486
 website: http://www.gksushi.com/
-description: >-
-  A big menu offers Japanese classics & some unique dishes including sushi
-  rolls, in a simple setting.
 reviews:
   - name: >-
       places/ChIJ6ZHYPOGAhYARDFbfGSxE8o4/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3NEtUbDZnRRAB
@@ -355,5 +357,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  A big menu offers Japanese classics & some unique dishes including sushi
+  rolls, in a simple setting.
 
 ---

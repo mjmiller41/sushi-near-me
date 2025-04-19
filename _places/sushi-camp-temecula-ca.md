@@ -5,6 +5,11 @@ permalink: /california/temecula/sushi-camp.html
 stateAbbr: CA
 stateName: California
 cityName: Temecula
+seo:
+  name: "Sushi Camp"
+  type: Restaurant
+  links: http://www.sushicamptemecula.com/
+description: "Looking for sushi in Temecula, California? Check out Sushi Camp for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJbwF8uE-A24ARVFPsJxTR8ME
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 264
 website: http://www.sushicamptemecula.com/
-description: null
 reviews:
   - name: >-
       places/ChIJbwF8uE-A24ARVFPsJxTR8ME/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3OFp5UmJREAE
@@ -404,5 +408,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

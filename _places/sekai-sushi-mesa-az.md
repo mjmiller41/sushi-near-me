@@ -5,6 +5,11 @@ permalink: /arizona/mesa/sekai-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Mesa
+seo:
+  name: "Sekai Sushi"
+  type: Restaurant
+  links: http://www.sekaisushi.net/
+description: "Looking for sushi in Mesa, Arizona? Check out Sekai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJYazKf5aoK4cRBQNhtsVsrZk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 834
 website: http://www.sekaisushi.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

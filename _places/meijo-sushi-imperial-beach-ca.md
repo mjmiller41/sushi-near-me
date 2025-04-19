@@ -5,6 +5,11 @@ permalink: /california/imperial-beach/meijo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Imperial Beach
+seo:
+  name: "Meijo Sushi"
+  type: Restaurant
+  links: http://meijosushi.weebly.com/
+description: "Looking for sushi in Imperial Beach, California? Check out Meijo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJEzfcXllM2YARYH9rZc43ndg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 574
 website: http://meijosushi.weebly.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

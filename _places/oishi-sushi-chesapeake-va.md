@@ -5,6 +5,11 @@ permalink: /virginia/chesapeake/oishi-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesapeake
+seo:
+  name: "Oishi Sushi"
+  type: Restaurant
+  links: https://chesapeakeoishisushi.com/
+description: "Looking for sushi in Chesapeake, Virginia? Check out Oishi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJh1N1uSS7uokR0cFZRfenr-0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 149
 website: https://chesapeakeoishisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJh1N1uSS7uokR0cFZRfenr-0/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3M2JhRXFnRRAB
@@ -372,5 +376,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

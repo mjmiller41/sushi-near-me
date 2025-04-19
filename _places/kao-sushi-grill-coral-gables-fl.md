@@ -5,6 +5,11 @@ permalink: /florida/coral-gables/kao-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Coral Gables
+seo:
+  name: "Kao Sushi & Grill"
+  type: Restaurant
+  links: http://www.kaosushigrill.com/
+description: "Looking for sushi in Coral Gables, Florida? Check out Kao Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJXb2T1Jm32YgRZjNIivNJGeI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 832
 website: http://www.kaosushigrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

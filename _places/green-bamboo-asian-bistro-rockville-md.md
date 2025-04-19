@@ -5,6 +5,11 @@ permalink: /maryland/rockville/green-bamboo-asian-bistro.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
+seo:
+  name: "Green Bamboo Asian Bistro"
+  type: Restaurant
+  links: http://www.greenbamboorockville.com/
+description: "Relaxed, family-run restaurant with contemporary decor offering Japanese, Chinese & Thai cuisine. Looking for sushi in Rockville, Maryland? Check out Green B..."
 place_id: ChIJOa0qRszNt4kRb9QnL0V8rQk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 606
 website: http://www.greenbamboorockville.com/
-description: >-
-  Relaxed, family-run restaurant with contemporary decor offering Japanese,
-  Chinese & Thai cuisine.
 reviews:
   - name: >-
       places/ChIJOa0qRszNt4kRb9QnL0V8rQk/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3MllMLW9RRRAB
@@ -384,5 +386,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed, family-run restaurant with contemporary decor offering Japanese,
+  Chinese & Thai cuisine.
 
 ---

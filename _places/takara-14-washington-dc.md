@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/takara-14.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Takara 14"
+  type: Restaurant
+  links: https://www.takara14thst.com/
+description: "Looking for sushi in Washington, District of Columbia? Check out Takara 14 for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJvZlhe9K3t4kR4zsnq95xpi0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 237
 website: https://www.takara14thst.com/
-description: null
 reviews:
   - name: >-
       places/ChIJvZlhe9K3t4kR4zsnq95xpi0/reviews/ChdDSUhNMG9nS0VJQ0FnSURmLW95YWhnRRAB
@@ -393,5 +397,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

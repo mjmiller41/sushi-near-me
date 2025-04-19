@@ -5,6 +5,11 @@ permalink: /california/los-angeles/sushistop-hollywood.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "SushiStop Hollywood"
+  type: Restaurant
+  links: https://sushistop.com/locations/hollywood/
+description: "Looking for sushi in Los Angeles, California? Check out SushiStop Hollywood for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJPdKmy0a_woAR4rzPHGegdkE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 830
 website: https://sushistop.com/locations/hollywood/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

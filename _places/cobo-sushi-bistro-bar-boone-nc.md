@@ -5,6 +5,11 @@ permalink: /north-carolina/boone/cobo-sushi-bistro-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Boone
+seo:
+  name: "CoBo Sushi Bistro & Bar"
+  type: Restaurant
+  links: http://cobosushi.com/
+description: "Looking for sushi in Boone, North Carolina? Check out CoBo Sushi Bistro & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJy2G8tA76UIgRmJXILJdCMS8
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 880
 website: http://cobosushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

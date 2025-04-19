@@ -5,6 +5,11 @@ permalink: /michigan/west-bloomfield-township/mene-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: West Bloomfield Township
+seo:
+  name: "Mene Sushi"
+  type: Restaurant
+  links: http://www.menesushi.com/
+description: "Compact sushi house features traditional Japanese dishes & a range of rolls in a relaxed atmosphere. Looking for sushi in West Bloomfield Township, Michigan?..."
 place_id: ChIJtVQ0-0i6JIgRznUfPdSyKhE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 358
 website: http://www.menesushi.com/
-description: >-
-  Compact sushi house features traditional Japanese dishes & a range of rolls in
-  a relaxed atmosphere.
 reviews:
   - name: >-
       places/ChIJtVQ0-0i6JIgRznUfPdSyKhE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfLU56bjNRRRAB
@@ -378,5 +380,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Compact sushi house features traditional Japanese dishes & a range of rolls in
+  a relaxed atmosphere.
 
 ---

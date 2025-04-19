@@ -5,6 +5,11 @@ permalink: /california/los-angeles/sushi-hon.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Sushi HON"
+  type: Restaurant
+  links: https://s.allsetnow.com/MWaAoJq/
+description: "Looking for sushi in Los Angeles, California? Check out Sushi HON for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJwwPzgoy4woARMSzLTutAviw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 165
 website: https://s.allsetnow.com/MWaAoJq/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

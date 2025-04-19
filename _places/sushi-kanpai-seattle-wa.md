@@ -5,6 +5,11 @@ permalink: /washington/seattle/sushi-kanpai.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Sushi Kanpai"
+  type: Restaurant
+  links: https://order.online/business/sushi-kanpai-24560
+description: "Looking for sushi in Seattle, Washington? Check out Sushi Kanpai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJqYTCVbZqkFQR5MCBYcG91Sw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 532
 website: https://order.online/business/sushi-kanpai-24560
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

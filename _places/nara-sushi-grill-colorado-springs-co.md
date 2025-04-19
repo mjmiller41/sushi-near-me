@@ -5,6 +5,11 @@ permalink: /colorado/colorado-springs/nara-sushi-grill.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
+seo:
+  name: "Nara Sushi & Grill"
+  type: Restaurant
+  links: https://narasushiandgrill.com/
+description: "Looking for sushi in Colorado Springs, Colorado? Check out Nara Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJLy5MOZlaE4cR8fi-6_0sYt0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 817
 website: https://narasushiandgrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

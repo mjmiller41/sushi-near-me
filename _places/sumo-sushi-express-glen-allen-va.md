@@ -5,6 +5,11 @@ permalink: /virginia/glen-allen/sumo-sushi-express.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Glen Allen
+seo:
+  name: "Sumo Sushi Express"
+  type: Restaurant
+  links: https://www.facebook.com/people/Sumo-Sushi-Express-at-Glen-Allen-Virginia/100063725402660/
+description: "Looking for sushi in Glen Allen, Virginia? Check out Sumo Sushi Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJQURVMt09sYkR_P8YLEodWZA
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.7'
 rating_count: 274
 website: >-
   https://www.facebook.com/people/Sumo-Sushi-Express-at-Glen-Allen-Virginia/100063725402660/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

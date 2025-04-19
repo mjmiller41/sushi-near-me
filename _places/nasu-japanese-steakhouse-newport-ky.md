@@ -5,6 +5,11 @@ permalink: /kentucky/newport/nasu-japanese-steakhouse.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Newport
+seo:
+  name: "Nasu Japanese Steakhouse"
+  type: Restaurant
+  links: https://www.nasusteakhousenewport.com/
+description: "Looking for sushi in Newport, Kentucky? Check out Nasu Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJN_HYruuxQYgR3_Kv8U9j4Q8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 443
 website: https://www.nasusteakhousenewport.com/
-description: null
 reviews:
   - name: >-
       places/ChIJN_HYruuxQYgR3_Kv8U9j4Q8/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bmNyalRREAE
@@ -399,5 +403,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

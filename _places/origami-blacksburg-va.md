@@ -5,6 +5,11 @@ permalink: /virginia/blacksburg/origami.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Blacksburg
+seo:
+  name: "Origami"
+  type: Restaurant
+  links: http://dining.vt.edu/dining_centers/turner.html
+description: "Looking for sushi in Blacksburg, Virginia? Check out Origami for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJK0z-bG2VTYgRLQqEb_SuieE
 photos:
   - name: >-
@@ -89,7 +94,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 9
 website: http://dining.vt.edu/dining_centers/turner.html
-description: null
 reviews:
   - name: >-
       places/ChIJK0z-bG2VTYgRLQqEb_SuieE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzdWNtWVl3EAE
@@ -246,5 +250,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

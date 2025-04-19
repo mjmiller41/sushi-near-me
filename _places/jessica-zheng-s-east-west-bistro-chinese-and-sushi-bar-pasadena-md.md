@@ -5,6 +5,11 @@ permalink: /maryland/pasadena/jessica-zheng-s-east-west-bistro-chinese-and-sushi
 stateAbbr: MD
 stateName: Maryland
 cityName: Pasadena
+seo:
+  name: "Jessica Zheng's East West Bistro - Chinese And Sushi Bar"
+  type: Restaurant
+  links: http://www.eastwestbistro.net/
+description: "White-tablecloth restaurant serving Asian fusion fare with vegetarian options & a wine list. Looking for sushi in Pasadena, Maryland? Check out Jessica Zheng..."
 place_id: ChIJlx5DO3n8t4kRV1cLyMevJec
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 409
 website: http://www.eastwestbistro.net/
-description: >-
-  White-tablecloth restaurant serving Asian fusion fare with vegetarian options
-  & a wine list.
 reviews:
   - name: >-
       places/ChIJlx5DO3n8t4kRV1cLyMevJec/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2djhPemZ3EAE
@@ -390,5 +392,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  White-tablecloth restaurant serving Asian fusion fare with vegetarian options
+  & a wine list.
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/roscoe/yaba-sushi-and-steak.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Roscoe
+seo:
+  name: "Yaba Sushi and Steak"
+  type: Restaurant
+  links: https://www.yabasushi.com/
+description: "Looking for sushi in Roscoe, Illinois? Check out Yaba Sushi and Steak for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJVVVmJ_GjCIgRe5IG-03debA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 511
 website: https://www.yabasushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJVVVmJ_GjCIgRe5IG-03debA/reviews/ChZDSUhNMG9nS0VJQ0FnSURQM0o3R1pREAE
@@ -370,5 +374,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

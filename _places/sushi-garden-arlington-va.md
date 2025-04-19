@@ -5,6 +5,11 @@ permalink: /virginia/arlington/sushi-garden.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+seo:
+  name: "Sushi Garden"
+  type: Restaurant
+  links: https://www.sushigardencrystalcity.com/
+description: "Looking for sushi in Arlington, Virginia? Check out Sushi Garden for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJDY9HNyS3t4kRRx2rrw7YZfM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 257
 website: https://www.sushigardencrystalcity.com/
-description: null
 reviews:
   - name: >-
       places/ChIJDY9HNyS3t4kRRx2rrw7YZfM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNV92RTdnRRAB
@@ -383,5 +387,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

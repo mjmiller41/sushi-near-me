@@ -5,6 +5,11 @@ permalink: /tennessee/mt-juliet/morimori.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Mt. Juliet
+seo:
+  name: "MoriMori"
+  type: Restaurant
+  links: http://www.morimorisushibar.com/
+description: "Looking for sushi in Mt. Juliet, Tennessee? Check out MoriMori for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJczAqJjEUZIgRJGEwoHiEAiw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 505
 website: http://www.morimorisushibar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

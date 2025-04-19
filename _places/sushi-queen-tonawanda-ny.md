@@ -5,6 +5,11 @@ permalink: /new-york/tonawanda/sushi-queen.html
 stateAbbr: NY
 stateName: New York
 cityName: Tonawanda
+seo:
+  name: "Sushi Queen"
+  type: Restaurant
+  links: https://www.sushiqueenny.com/
+description: "Looking for sushi in Tonawanda, New York? Check out Sushi Queen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJMVOMdQpt04kRYAZPPigFjYU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 528
 website: https://www.sushiqueenny.com/
-description: null
 reviews:
   - name: >-
       places/ChIJMVOMdQpt04kRYAZPPigFjYU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJelpiLTd3RRAB
@@ -392,5 +396,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

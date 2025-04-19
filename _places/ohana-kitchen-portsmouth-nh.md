@@ -5,6 +5,11 @@ permalink: /new-hampshire/portsmouth/ohana-kitchen.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Portsmouth
+seo:
+  name: "Ohana Kitchen"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Portsmouth, New Hampshire? Check out Ohana Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJLUo5aJu_4okRSjsGaYuEH80
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

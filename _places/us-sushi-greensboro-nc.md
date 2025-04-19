@@ -5,6 +5,11 @@ permalink: /north-carolina/greensboro/us-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
+seo:
+  name: "US Sushi"
+  type: Restaurant
+  links: http://www.us-sushi.biz/
+description: "Looking for sushi in Greensboro, North Carolina? Check out US Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ5ba6x_0bU4gRCMZ_f4L4uww
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 838
 website: http://www.us-sushi.biz/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

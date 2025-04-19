@@ -5,6 +5,11 @@ permalink: /michigan/ann-arbor/mama-satto.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
+seo:
+  name: "Mama Satto"
+  type: Restaurant
+  links: https://order.online/store/238441?slug=-126260&slug=en-US&pickup=true&hideModal=true
+description: "Ramen & udon soups, sushi rolls & other Japanese staples round out the menu at this casual outpost. Looking for sushi in Ann Arbor, Michigan? Check out Mama ..."
 place_id: ChIJKYz5lECuPIgRdBbAbjI6RCk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ rating: '4.0'
 rating_count: 450
 website: >-
   https://order.online/store/238441?slug=-126260&slug=en-US&pickup=true&hideModal=true
-description: >-
-  Ramen & udon soups, sushi rolls & other Japanese staples round out the menu at
-  this casual outpost.
 reviews:
   - name: >-
       places/ChIJKYz5lECuPIgRdBbAbjI6RCk/reviews/ChdDSUhNMG9nS0VJQ0FnTURRc2VmVm9RRRAB
@@ -378,5 +380,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Ramen & udon soups, sushi rolls & other Japanese staples round out the menu at
+  this casual outpost.
 
 ---

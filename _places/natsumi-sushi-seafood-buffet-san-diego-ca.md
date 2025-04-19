@@ -5,6 +5,11 @@ permalink: /california/san-diego/natsumi-sushi-seafood-buffet.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Natsumi Sushi & Seafood Buffet"
+  type: Restaurant
+  links: http://natsumibuffet.com/
+description: "Modern spot for all-you-can eat sushi, Japanese entrees, poke bowls, Chinese dishes & Mongolian BBQ. Looking for sushi in San Diego, California? Check out Na..."
 place_id: ChIJp5Tx4VL_24ARNOlqbKLTVdo
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 1944
 website: http://natsumibuffet.com/
-description: >-
-  Modern spot for all-you-can eat sushi, Japanese entrees, poke bowls, Chinese
-  dishes & Mongolian BBQ.
 reviews:
   - name: >-
       places/ChIJp5Tx4VL_24ARNOlqbKLTVdo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYcU9fSWlBRRAB
@@ -404,5 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern spot for all-you-can eat sushi, Japanese entrees, poke bowls, Chinese
+  dishes & Mongolian BBQ.
 
 ---

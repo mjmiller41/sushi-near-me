@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/bonchon-uptown.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "Bonchon Uptown"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Minneapolis, Minnesota? Check out Bonchon Uptown for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ2Rkg668n9ocRiso4CVuIVeY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

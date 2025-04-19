@@ -5,6 +5,11 @@ permalink: /california/sunnyvale/sakebomb-izakaya-n-oyster-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
+seo:
+  name: "Sakebomb izakaya n oyster bar"
+  type: Restaurant
+  links: http://www.sakebombsushi.net/
+description: "Looking for sushi in Sunnyvale, California? Check out Sakebomb izakaya n oyster bar for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJc9rSrFS1j4ARicq8m05CKOw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 216
 website: http://www.sakebombsushi.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

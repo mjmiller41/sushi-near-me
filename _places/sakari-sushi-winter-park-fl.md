@@ -5,6 +5,11 @@ permalink: /florida/winter-park/sakari-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Park
+seo:
+  name: "Sakari Sushi"
+  type: Restaurant
+  links: http://www.sakarisushi.com/
+description: "Sushi, sashimi & other Japanese specialties offered in a shopping-mall spot with outdoor seating. Looking for sushi in Winter Park, Florida? Check out Sakari..."
 place_id: ChIJvdpNf2tw54gR-yw9XK2VCEQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 590
 website: http://www.sakarisushi.com/
-description: >-
-  Sushi, sashimi & other Japanese specialties offered in a shopping-mall spot
-  with outdoor seating.
 reviews:
   - name: >-
       places/ChIJvdpNf2tw54gR-yw9XK2VCEQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURnaFoyM2dnRRAB
@@ -395,5 +397,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, sashimi & other Japanese specialties offered in a shopping-mall spot
+  with outdoor seating.
 
 ---

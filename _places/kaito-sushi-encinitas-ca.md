@@ -5,6 +5,11 @@ permalink: /california/encinitas/kaito-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Encinitas
+seo:
+  name: "Kaito Sushi"
+  type: Restaurant
+  links: http://www.kaitorestaurant.net/
+description: "Basic sushi bar featuring exotic raw dishes prepared in the culinary traditions of Tokyo. Looking for sushi in Encinitas, California? Check out Kaito Sushi f..."
 place_id: ChIJjV2ow4wL3IARbkNsF-qcsTw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 197
 website: http://www.kaitorestaurant.net/
-description: >-
-  Basic sushi bar featuring exotic raw dishes prepared in the culinary
-  traditions of Tokyo.
 reviews:
   - name: >-
       places/ChIJjV2ow4wL3IARbkNsF-qcsTw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmOXZyd2hBRRAB
@@ -390,5 +392,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Basic sushi bar featuring exotic raw dishes prepared in the culinary
+  traditions of Tokyo.
 
 ---

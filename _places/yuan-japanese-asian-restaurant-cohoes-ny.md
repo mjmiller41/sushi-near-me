@@ -5,6 +5,11 @@ permalink: /new-york/cohoes/yuan-japanese-asian-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Cohoes
+seo:
+  name: "Yuan Japanese Asian Restaurant"
+  type: Restaurant
+  links: http://www.yuanjapanese.com/?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Cohoes, New York? Check out Yuan Japanese Asian Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJbflwyyoQ3okRy2ypDnhu2QE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 324
 website: http://www.yuanjapanese.com/?utm_source=gmb&utm_medium=website
-description: null
 reviews:
   - name: >-
       places/ChIJbflwyyoQ3okRy2ypDnhu2QE/reviews/ChdDSUhNMG9nS0VJQ0FnSUQza3JMRXJ3RRAB
@@ -394,5 +398,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

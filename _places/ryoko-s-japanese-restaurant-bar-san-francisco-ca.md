@@ -5,6 +5,11 @@ permalink: /california/san-francisco/ryoko-s-japanese-restaurant-bar.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Ryoko's Japanese Restaurant & Bar"
+  type: Restaurant
+  links: https://www.ryokos-sf.com/
+description: "Compact, woodsy Japanese bar & restaurant offering a long sushi menu & draft beers. Looking for sushi in San Francisco, California? Check out Ryoko's Japanes..."
 place_id: ChIJUem7D46AhYARYUQXakltDSo
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 1935
 website: https://www.ryokos-sf.com/
-description: >-
-  Compact, woodsy Japanese bar & restaurant offering a long sushi menu & draft
-  beers.
 reviews:
   - name: >-
       places/ChIJUem7D46AhYARYUQXakltDSo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMEpEd1VBEAE
@@ -418,5 +420,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Compact, woodsy Japanese bar & restaurant offering a long sushi menu & draft
+  beers.
 
 ---

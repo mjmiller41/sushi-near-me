@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-ryusei.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi Ryusei"
+  type: Restaurant
+  links: https://sushiryusei.com/
+description: "Sashimi & sushi with omakase options presented in a sophisticated, minimalist-chic atmosphere. Looking for sushi in New York, New York? Check out Sushi Ryuse..."
 place_id: ChIJqTLS3nJZwokRGdkiM6Hj-BU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 238
 website: https://sushiryusei.com/
-description: >-
-  Sashimi & sushi with omakase options presented in a sophisticated,
-  minimalist-chic atmosphere.
 reviews:
   - name: >-
       places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfc2NERFRBEAE
@@ -403,5 +405,8 @@ serves_lunch: false
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Sashimi & sushi with omakase options presented in a sophisticated,
+  minimalist-chic atmosphere.
 
 ---

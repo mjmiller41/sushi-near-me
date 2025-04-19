@@ -5,6 +5,11 @@ permalink: /california/concord/izakaya-an-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Concord
+seo:
+  name: "Izakaya An Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Concord, California? Check out Izakaya An Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJWS1AEjFhhYAR9Gaq0RIp03w
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/plano/kin-town-fusion-hibachi-and-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Plano
+seo:
+  name: "Kin Town Fusion Hibachi And Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Plano, Texas? Check out Kin Town Fusion Hibachi And Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJfWfJJREiTIYRAPqQZC7lp-o
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

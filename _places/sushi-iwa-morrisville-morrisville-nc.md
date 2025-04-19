@@ -5,6 +5,11 @@ permalink: /north-carolina/morrisville/sushi-iwa-morrisville.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Morrisville
+seo:
+  name: "Sushi Iwa Morrisville"
+  type: Restaurant
+  links: https://sushiiwa.org/
+description: "Classy restaurant offering a variety of Asian dishes, including sushi, plus a wine list. Looking for sushi in Morrisville, North Carolina? Check out Sushi Iw..."
 place_id: ChIJ9c0eX_rtrIkRWixXHK_ZFag
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 837
 website: https://sushiiwa.org/
-description: >-
-  Classy restaurant offering a variety of Asian dishes, including sushi, plus a
-  wine list.
 reviews:
   - name: >-
       places/ChIJ9c0eX_rtrIkRWixXHK_ZFag/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MnRMOEVBEAE
@@ -362,5 +364,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Classy restaurant offering a variety of Asian dishes, including sushi, plus a
+  wine list.
 
 ---

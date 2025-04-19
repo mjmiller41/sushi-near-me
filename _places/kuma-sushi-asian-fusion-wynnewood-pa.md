@@ -5,6 +5,11 @@ permalink: /pennsylvania/wynnewood/kuma-sushi-asian-fusion.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Wynnewood
+seo:
+  name: "Kuma Sushi & Asian Fusion"
+  type: Restaurant
+  links: https://kuma.menufy.com/
+description: "Looking for sushi in Wynnewood, Pennsylvania? Check out Kuma Sushi & Asian Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJz7dLqJfAxokRDIeVt4JwuFE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 255
 website: https://kuma.menufy.com/
-description: null
 reviews:
   - name: >-
       places/ChIJz7dLqJfAxokRDIeVt4JwuFE/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2enNyZkZ3EAE
@@ -446,5 +450,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

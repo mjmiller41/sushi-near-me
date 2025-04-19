@@ -5,6 +5,11 @@ permalink: /michigan/holland/mizu-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Holland
+seo:
+  name: "Mizu Sushi"
+  type: Restaurant
+  links: https://www.toasttab.com/mizu-sushi-99-e-8th-st-suite-110
+description: "Contemporary eatery for sashimi, udon noodles & other Japanese specialties, plus Korean entrees. Looking for sushi in Holland, Michigan? Check out Mizu Sushi..."
 place_id: ChIJFViHNq7yGYgRa47zuuQmRNQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1607
 website: https://www.toasttab.com/mizu-sushi-99-e-8th-st-suite-110
-description: >-
-  Contemporary eatery for sashimi, udon noodles & other Japanese specialties,
-  plus Korean entrees.
 reviews:
   - name: >-
       places/ChIJFViHNq7yGYgRa47zuuQmRNQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURmanZmTm13RRAB
@@ -378,5 +380,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Contemporary eatery for sashimi, udon noodles & other Japanese specialties,
+  plus Korean entrees.
 
 ---

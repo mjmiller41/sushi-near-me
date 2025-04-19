@@ -5,6 +5,11 @@ permalink: /california/fountain-valley/sushi-plus.html
 stateAbbr: CA
 stateName: California
 cityName: Fountain Valley
+seo:
+  name: "Sushi Plus"
+  type: Restaurant
+  links: https://yukitheoddy.wixsite.com/sushi-plus
+description: "Looking for sushi in Fountain Valley, California? Check out Sushi Plus for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJsdopgzQn3YAR1d7TntJU3ww
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 296
 website: https://yukitheoddy.wixsite.com/sushi-plus
-description: null
 reviews:
   - name: >-
       places/ChIJsdopgzQn3YAR1d7TntJU3ww/reviews/ChZDSUhNMG9nS0VJQ0FnTURRaWFMUVh3EAE
@@ -364,5 +368,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/orinda/hanazen.html
 stateAbbr: CA
 stateName: California
 cityName: Orinda
+seo:
+  name: "Hanazen"
+  type: Restaurant
+  links: http://www.myhanazen.com/
+description: "Looking for sushi in Orinda, California? Check out Hanazen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJN9NDEtx8hYARAZHCtBAgMwA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 55
 website: http://www.myhanazen.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

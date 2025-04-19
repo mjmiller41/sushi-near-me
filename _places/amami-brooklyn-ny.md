@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/amami.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Amami"
+  type: Restaurant
+  links: http://www.amamibk.com/
+description: "Cozy Japanese eatery with rustic-chic decor offering a contemporary menu of sushi, yakitori & ramen. Looking for sushi in Brooklyn, New York? Check out Amami..."
 place_id: ChIJl-2pikRZwokRNxfAFUMHmjc
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 400
 website: http://www.amamibk.com/
-description: >-
-  Cozy Japanese eatery with rustic-chic decor offering a contemporary menu of
-  sushi, yakitori & ramen.
 reviews:
   - name: >-
       places/ChIJl-2pikRZwokRNxfAFUMHmjc/reviews/ChZDSUhNMG9nS0VJQ0FnTURJZ3EzamR3EAE
@@ -422,5 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Cozy Japanese eatery with rustic-chic decor offering a contemporary menu of
+  sushi, yakitori & ramen.
 
 ---

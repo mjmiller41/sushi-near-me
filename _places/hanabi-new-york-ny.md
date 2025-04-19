@@ -5,6 +5,11 @@ permalink: /new-york/new-york/hanabi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Hanabi"
+  type: Restaurant
+  links: http://hanabi1888.com/
+description: "Snug Japanese eatery turning out sushi rolls, ramen & bento-boxes in an unadorned space. Looking for sushi in New York, New York? Check out Hanabi for a deli..."
 place_id: ChIJRY7bf79YwokRm9Y_m9XHTY4
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 155
 website: http://hanabi1888.com/
-description: >-
-  Snug Japanese eatery turning out sushi rolls, ramen & bento-boxes in an
-  unadorned space.
 reviews:
   - name: >-
       places/ChIJRY7bf79YwokRm9Y_m9XHTY4/reviews/ChZDSUhNMG9nS0VJQ0FnSURYaWZ1TWV3EAE
@@ -403,5 +405,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Snug Japanese eatery turning out sushi rolls, ramen & bento-boxes in an
+  unadorned space.
 
 ---

@@ -5,6 +5,11 @@ permalink: /maryland/annapolis/shika-sushi-and-ramen.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Annapolis
+seo:
+  name: "Shika Sushi And Ramen"
+  type: Restaurant
+  links: http://www.shikasushimd.com/
+description: "Looking for sushi in Annapolis, Maryland? Check out Shika Sushi And Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJeWyTX5P2t4kRhCjp-kYRKmA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 280
 website: http://www.shikasushimd.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

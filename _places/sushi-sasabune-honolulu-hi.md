@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/sushi-sasabune.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Sushi Sasabune"
+  type: Restaurant
+  links: https://sasabuneh.com/
+description: "Looking for sushi in Honolulu, Hawaii? Check out Sushi Sasabune for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJUVThrO5tAHwRiAxoNC_pE5M
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 385
 website: https://sasabuneh.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

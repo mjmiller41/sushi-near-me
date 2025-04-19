@@ -5,6 +5,11 @@ permalink: /oklahoma/oklahoma-city/sumo-ii-steakhouse-of-japan.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
+seo:
+  name: "Sumo II Steakhouse of Japan"
+  type: Restaurant
+  links: https://sumoiisteakhouse.com/
+description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Sumo II Steakhouse of Japan for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJf1WkG-wEsocRS6D2BdcUOyg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1005
 website: https://sumoiisteakhouse.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

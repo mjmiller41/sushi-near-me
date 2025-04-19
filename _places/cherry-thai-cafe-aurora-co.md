@@ -5,6 +5,11 @@ permalink: /colorado/aurora/cherry-thai-cafe.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
+seo:
+  name: "Cherry Thai Cafe"
+  type: Restaurant
+  links: http://www.cherrythaicafe.com/
+description: "Looking for sushi in Aurora, Colorado? Check out Cherry Thai Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJ6xJ1P-CJbIcRBjfsfTfUgsM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 410
 website: http://www.cherrythaicafe.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

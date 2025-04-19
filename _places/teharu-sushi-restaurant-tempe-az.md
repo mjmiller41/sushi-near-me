@@ -5,6 +5,11 @@ permalink: /arizona/tempe/teharu-sushi-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tempe
+seo:
+  name: "Teharu Sushi Restaurant"
+  type: Restaurant
+  links: https://teharusushi.shop/
+description: "Looking for sushi in Tempe, Arizona? Check out Teharu Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJy6OQlSQEK4cRMYThPv_raxs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 2960
 website: https://teharusushi.shop/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

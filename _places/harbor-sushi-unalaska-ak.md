@@ -5,6 +5,11 @@ permalink: /alaska/unalaska/harbor-sushi.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Unalaska
+seo:
+  name: "Harbor Sushi"
+  type: Restaurant
+  links: https://www.grandaleutian.com/food-drink/
+description: "Looking for sushi in Unalaska, Alaska? Check out Harbor Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJNy9XsTW3q1cRICMZ63ynUgk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 79
 website: https://www.grandaleutian.com/food-drink/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

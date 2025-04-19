@@ -5,6 +5,11 @@ permalink: /minnesota/chanhassen/soya-sushi-grill.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Chanhassen
+seo:
+  name: "Soya Sushi & Grill"
+  type: Restaurant
+  links: http://www.soyamn.com/
+description: "Sushi, grilled fare, bento boxes & a few mixed Asian eats, served in a trendy strip-mall setting. Looking for sushi in Chanhassen, Minnesota? Check out Soya ..."
 place_id: ChIJm-b0G5sb9ocR719Z2CxYM8M
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 318
 website: http://www.soyamn.com/
-description: >-
-  Sushi, grilled fare, bento boxes & a few mixed Asian eats, served in a trendy
-  strip-mall setting.
 reviews:
   - name: >-
       places/ChIJm-b0G5sb9ocR719Z2CxYM8M/reviews/ChdDSUhNMG9nS0VJQ0FnTURncDhiMHlnRRAB
@@ -398,5 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, grilled fare, bento boxes & a few mixed Asian eats, served in a trendy
+  strip-mall setting.
 
 ---

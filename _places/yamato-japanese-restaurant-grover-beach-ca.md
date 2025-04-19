@@ -5,6 +5,11 @@ permalink: /california/grover-beach/yamato-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Grover Beach
+seo:
+  name: "Yamato Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Grover Beach, California? Check out Yamato Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJEVnDxrde7IARuX5d3IG_qb8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

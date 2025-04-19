@@ -5,6 +5,11 @@ permalink: /idaho/coeur-d-alene/pokeworks.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Coeur d'Alene
+seo:
+  name: "Pokeworks"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Coeur d'Alene, Idaho? Check out Pokeworks for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJSZ21m0bBYVMRVeYsbgnII1I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

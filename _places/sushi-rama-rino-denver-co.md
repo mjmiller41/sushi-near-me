@@ -5,6 +5,11 @@ permalink: /colorado/denver/sushi-rama-rino.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Sushi-Rama RiNo"
+  type: Restaurant
+  links: https://sushi-rama.com/sushi-restaurants/sushi-rino/
+description: "Looking for sushi in Denver, Colorado? Check out Sushi-Rama RiNo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJ3Uan-R95bIcRv7tavBDdeO0
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1102
 website: https://sushi-rama.com/sushi-restaurants/sushi-rino/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

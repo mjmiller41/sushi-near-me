@@ -5,6 +5,11 @@ permalink: /ohio/cincinnati/neko-sushi-korean-and-japanese-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+seo:
+  name: "Neko Sushi & Korean and Japanese restaurant"
+  type: Restaurant
+  links: https://nekosushihydepark.com/
+description: "Looking for sushi in Cincinnati, Ohio? Check out Neko Sushi & Korean and Japanese restaurant for a delightful Japanese dining experience. Enjoy a variety of ..."
 place_id: ChIJe11UEyizQYgR4jDhvEkZhYs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 254
 website: https://nekosushihydepark.com/
-description: null
 reviews:
   - name: >-
       places/ChIJe11UEyizQYgR4jDhvEkZhYs/reviews/ChdDSUhNMG9nS0VJQ0FnSURfOVlDLXp3RRAB
@@ -361,5 +365,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

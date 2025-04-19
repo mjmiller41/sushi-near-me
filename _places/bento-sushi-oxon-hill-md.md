@@ -5,6 +5,11 @@ permalink: /maryland/oxon-hill/bento-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Oxon Hill
+seo:
+  name: "Bento Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Oxon Hill, Maryland? Check out Bento Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJWz04k3iwt4kRhwF05RQ32lA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &mdash; 50
 rating: '4.0'
 rating_count: 0
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJWz04k3iwt4kRhwF05RQ32lA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbjQtdmNnEAE
@@ -465,5 +469,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

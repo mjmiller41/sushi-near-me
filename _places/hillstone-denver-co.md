@@ -5,6 +5,11 @@ permalink: /colorado/denver/hillstone.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Hillstone"
+  type: Restaurant
+  links: https://hillstonerestaurant.com/locations/denver/
+description: "Looking for sushi in Denver, Colorado? Check out Hillstone for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJeW6Jj5V-bIcREQhNXHtu2uQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1632
 website: https://hillstonerestaurant.com/locations/denver/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

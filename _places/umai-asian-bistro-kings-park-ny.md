@@ -5,6 +5,11 @@ permalink: /new-york/kings-park/umai-asian-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Kings Park
+seo:
+  name: "Umai Asian Bistro"
+  type: Restaurant
+  links: https://www.umaiasianbistro.com/
+description: "Looking for sushi in Kings Park, New York? Check out Umai Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJASU3RgE76IkR21r-pwyqUao
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 98
 website: https://www.umaiasianbistro.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: false
 serves_vegetarian_food: false
 serves_wine: false
 takeout: null
+summary: null
 
 ---

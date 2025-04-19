@@ -5,6 +5,11 @@ permalink: /nebraska/kearney/gourmet-house-japanese-cuisine.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Kearney
+seo:
+  name: "Gourmet House Japanese Cuisine"
+  type: Restaurant
+  links: https://www.gourmethousene.com/
+description: "Looking for sushi in Kearney, Nebraska? Check out Gourmet House Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJT4Fks7ZOmYcRaD_q4Wx-XNo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 335
 website: https://www.gourmethousene.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

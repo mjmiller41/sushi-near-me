@@ -5,6 +5,11 @@ permalink: /utah/park-city/yuki-yama-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Park City
+seo:
+  name: "Yuki Yama Sushi"
+  type: Restaurant
+  links: https://www.yukiyamasushi.com/
+description: "Looking for sushi in Park City, Utah? Check out Yuki Yama Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJ97fKPL1yUocRqAACv0Qa0PU
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 968
 website: https://www.yukiyamasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

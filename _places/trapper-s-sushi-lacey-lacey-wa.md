@@ -5,6 +5,11 @@ permalink: /washington/lacey/trapper-s-sushi-lacey.html
 stateAbbr: WA
 stateName: Washington
 cityName: Lacey
+seo:
+  name: "Trapper's Sushi - Lacey"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Lacey, Washington? Check out Trapper's Sushi - Lacey for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJS0XNE5YLkVQRm8PrZEidYgY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

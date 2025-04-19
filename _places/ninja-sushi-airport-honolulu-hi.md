@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/ninja-sushi-airport.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Ninja Sushi Airport"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Honolulu, Hawaii? Check out Ninja Sushi Airport for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJPX0LcqhvAHwRBW834junYMM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

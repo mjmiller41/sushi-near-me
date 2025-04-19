@@ -5,6 +5,11 @@ permalink: /california/roseville/mikuni-at-fountains.html
 stateAbbr: CA
 stateName: California
 cityName: Roseville
+seo:
+  name: "Mikuni at Fountains"
+  type: Restaurant
+  links: https://mikunisushi.com/locations/the-fountains-in-roseville/
+description: "Looking for sushi in Roseville, California? Check out Mikuni at Fountains for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJtS4AVtQhm4ARfuZQakBDTTM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1367
 website: https://mikunisushi.com/locations/the-fountains-in-roseville/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

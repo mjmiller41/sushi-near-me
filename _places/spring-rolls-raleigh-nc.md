@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/spring-rolls.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Spring Rolls"
+  type: Restaurant
+  links: https://springrollsrestaurant.com/
+description: "Looking for sushi in Raleigh, North Carolina? Check out Spring Rolls for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJw0s1SRf0rIkRVOKY7OWzFZs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 706
 website: https://springrollsrestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

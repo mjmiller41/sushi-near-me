@@ -5,6 +5,11 @@ permalink: /minnesota/rochester/kumo-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Rochester
+seo:
+  name: "Kumo Sushi"
+  type: Restaurant
+  links: http://www.kumosushirochester.com/
+description: "Looking for sushi in Rochester, Minnesota? Check out Kumo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJXTNUJltf94cRndLvvAqcmzU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 650
 website: http://www.kumosushirochester.com/
-description: null
 reviews:
   - name: >-
       places/ChIJXTNUJltf94cRndLvvAqcmzU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmamNIZW13RRAB
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /utah/herriman/gold-fish-asian-bistro-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Herriman
+seo:
+  name: "Gold Fish Asian Bistro & Sushi"
+  type: Restaurant
+  links: https://goldfishasianbistro.com/
+description: "Looking for sushi in Herriman, Utah? Check out Gold Fish Asian Bistro & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJY9VZqzWFUocRCUNVS9AGd4I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 325
 website: https://goldfishasianbistro.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

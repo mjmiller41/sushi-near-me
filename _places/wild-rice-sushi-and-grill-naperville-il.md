@@ -5,6 +5,11 @@ permalink: /illinois/naperville/wild-rice-sushi-and-grill.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Naperville
+seo:
+  name: "Wild Rice Sushi and Grill"
+  type: Restaurant
+  links: http://www.wildricesushi.net/
+description: "Looking for sushi in Naperville, Illinois? Check out Wild Rice Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJ9TXG7oxXDogRZFhKm2ai0fw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.7'
 rating_count: 257
 website: http://www.wildricesushi.net/
-description: null
 reviews:
   - name: >-
       places/ChIJ9TXG7oxXDogRZFhKm2ai0fw/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2X3FhbllBEAE
@@ -371,5 +375,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /utah/salt-lake-city/tsunami-restaurant-sushi-bar-tsunami-on-9th.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
+seo:
+  name: "Tsunami Restaurant & Sushi Bar - Tsunami on 9th"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Salt Lake City, Utah? Check out Tsunami Restaurant & Sushi Bar - Tsunami on 9th for a delightful Japanese dining experience. Enjoy a var..."
 place_id: ChIJGTDcsWT1UocRq3lI1lfbPmc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

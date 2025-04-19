@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/young-chow-asian-fusion-sushi-bar.ht
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Young Chow Asian Fusion Sushi Bar"
+  type: Restaurant
+  links: https://www.youngchowdc.com/
+description: "A mix of Asian classics, including sushi, share the sizable menu at this unpretentious eatery. Looking for sushi in Washington, District of Columbia? Check o..."
 place_id: ChIJMzD4fi64t4kRf81PW3oK5Lk
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $20 &mdash; 30
 rating: '4.3'
 rating_count: 0
 website: https://www.youngchowdc.com/
-description: >-
-  A mix of Asian classics, including sushi, share the sizable menu at this
-  unpretentious eatery.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNEbVpfRzVRRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUMxenFXdmxnRRAB
@@ -212,5 +214,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A mix of Asian classics, including sushi, share the sizable menu at this
+  unpretentious eatery.
 
 ---

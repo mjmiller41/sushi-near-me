@@ -5,6 +5,11 @@ permalink: /washington/seattle/greenlake-sushi-and-roll.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Greenlake Sushi and Roll"
+  type: Restaurant
+  links: https://greenlakesushi.square.site/
+description: "Looking for sushi in Seattle, Washington? Check out Greenlake Sushi and Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJpVIcS2gVkFQRKUdeJfFIHmY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 174
 website: https://greenlakesushi.square.site/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

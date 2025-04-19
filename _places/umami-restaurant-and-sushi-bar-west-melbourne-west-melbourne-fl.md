@@ -5,6 +5,11 @@ permalink: /florida/west-melbourne/umami-restaurant-and-sushi-bar-west-melbourne
 stateAbbr: FL
 stateName: Florida
 cityName: West Melbourne
+seo:
+  name: "Umami Restaurant and Sushi Bar West Melbourne"
+  type: Restaurant
+  links: http://www.myumamisushi.com/
+description: "Japanese kitchen fare, sushi & imported bottled beers served in a casual environment. Looking for sushi in West Melbourne, Florida? Check out Umami Restauran..."
 place_id: ChIJdZlSM3kO3ogRR6JOBRufSB8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.7'
 rating_count: 1036
 website: http://www.myumamisushi.com/
-description: >-
-  Japanese kitchen fare, sushi & imported bottled beers served in a casual
-  environment.
 reviews:
   - name: >-
       places/ChIJdZlSM3kO3ogRR6JOBRufSB8/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdHR1NWlRRRAB
@@ -415,5 +417,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese kitchen fare, sushi & imported bottled beers served in a casual
+  environment.
 
 ---

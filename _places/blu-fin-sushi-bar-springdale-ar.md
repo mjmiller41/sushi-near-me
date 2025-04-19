@@ -5,6 +5,11 @@ permalink: /arkansas/springdale/blu-fin-sushi-bar.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Springdale
+seo:
+  name: "Blu Fin Sushi & Bar"
+  type: Restaurant
+  links: https://m.facebook.com/Blufinsushibar/
+description: "Looking for sushi in Springdale, Arkansas? Check out Blu Fin Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJw_VQPcRsyYcREKqGm4Y_vr0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 528
 website: https://m.facebook.com/Blufinsushibar/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /colorado/parker/shoyu-sushi-parker.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Parker
+seo:
+  name: "Shoyu Sushi (Parker)"
+  type: Restaurant
+  links: http://shoyuparker.com/
+description: "Looking for sushi in Parker, Colorado? Check out Shoyu Sushi (Parker) for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJFQscQNyRbIcRvM7CG5rUfS4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 208
 website: http://shoyuparker.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

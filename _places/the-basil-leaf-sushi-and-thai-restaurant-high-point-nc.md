@@ -5,6 +5,11 @@ permalink: /north-carolina/high-point/the-basil-leaf-sushi-and-thai-restaurant.h
 stateAbbr: NC
 stateName: North Carolina
 cityName: High Point
+seo:
+  name: "The Basil Leaf Sushi and Thai Restaurant"
+  type: Restaurant
+  links: http://www.lovethaibasil.com/
+description: "Looking for sushi in High Point, North Carolina? Check out The Basil Leaf Sushi and Thai Restaurant for a delightful Japanese dining experience. Enjoy a vari..."
 place_id: ChIJ3dfiG-IFU4gRs62aSPabENw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 638
 website: http://www.lovethaibasil.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

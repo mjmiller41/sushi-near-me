@@ -5,6 +5,11 @@ permalink: /virginia/arlington/sushi2go.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+seo:
+  name: "Sushi2Go"
+  type: Restaurant
+  links: https://sushi2gova.com/
+description: "Looking for sushi in Arlington, Virginia? Check out Sushi2Go for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJA3alASW0t4kR6IEqDl0fTpk
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 218
 website: https://sushi2gova.com/
-description: null
 reviews:
   - name: >-
       places/ChIJA3alASW0t4kR6IEqDl0fTpk/reviews/ChZDSUhNMG9nS0VJQ0FnSURIZ1pQckdREAE
@@ -360,5 +364,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

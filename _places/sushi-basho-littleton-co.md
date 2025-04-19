@@ -5,6 +5,11 @@ permalink: /colorado/littleton/sushi-basho.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Littleton
+seo:
+  name: "Sushi Basho"
+  type: Restaurant
+  links: https://order.spoton.com/rqs-sushi-basho-20488/littleton-co/66b506636784cbd44aff3c63
+description: "Looking for sushi in Littleton, Colorado? Check out Sushi Basho for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJVXN7qzKAbIcRjPMrOVf5oTo
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.4'
 rating_count: 631
 website: >-
   https://order.spoton.com/rqs-sushi-basho-20488/littleton-co/66b506636784cbd44aff3c63
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

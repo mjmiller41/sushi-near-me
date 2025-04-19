@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/gen-ramen.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Gen Ramen"
+  type: Restaurant
+  links: https://www.instagram.com/genramen_raleigh/?hl=en
+description: "Looking for sushi in Raleigh, North Carolina? Check out Gen Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJWxGcI-JZrIkRTd8zHnU6WSY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 310
 website: https://www.instagram.com/genramen_raleigh/?hl=en
-description: null
 reviews:
   - name: >-
       places/ChIJWxGcI-JZrIkRTd8zHnU6WSY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcnA3WmZnEAE
@@ -402,5 +406,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

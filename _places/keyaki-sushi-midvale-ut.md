@@ -5,6 +5,11 @@ permalink: /utah/midvale/keyaki-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Midvale
+seo:
+  name: "Keyaki Sushi"
+  type: Restaurant
+  links: http://www.keyakisushiut.com/
+description: "Looking for sushi in Midvale, Utah? Check out Keyaki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJiybCUpqLUocRNxccaEnP8_c
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 292
 website: http://www.keyakisushiut.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

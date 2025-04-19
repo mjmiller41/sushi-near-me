@@ -5,6 +5,11 @@ permalink: /new-york/flushing/nolbu-nolbu-new-york.html
 stateAbbr: NY
 stateName: New York
 cityName: Flushing
+seo:
+  name: "Nolbu Nolbu New York"
+  type: Restaurant
+  links: null
+description: "Understated outlet serving an array of Korean sushi rolls at the counter in a compact, basic space. Looking for sushi in Flushing, New York? Check out Nolbu ..."
 place_id: ChIJCUVccC5gwokRSHsDxyhj_dE
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 303
 website: null
-description: >-
-  Understated outlet serving an array of Korean sushi rolls at the counter in a
-  compact, basic space.
 reviews:
   - name: >-
       places/ChIJCUVccC5gwokRSHsDxyhj_dE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSanYzdE53EAE
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: >-
+  Understated outlet serving an array of Korean sushi rolls at the counter in a
+  compact, basic space.
 
 ---

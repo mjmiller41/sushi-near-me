@@ -5,6 +5,11 @@ permalink: /south-dakota/sioux-falls/hibachi-grill-supreme-buffet.html
 stateAbbr: SD
 stateName: South Dakota
 cityName: Sioux Falls
+seo:
+  name: "Hibachi Grill & Supreme Buffet"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Sioux Falls, South Dakota? Check out Hibachi Grill & Supreme Buffet for a delightful Japanese dining experience. Enjoy a variety of sush..."
 place_id: ChIJYZ6_-we2jocRoIswD0fOYgQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

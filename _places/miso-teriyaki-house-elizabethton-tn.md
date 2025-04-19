@@ -5,6 +5,11 @@ permalink: /tennessee/elizabethton/miso-teriyaki-house.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Elizabethton
+seo:
+  name: "Miso Teriyaki House"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Elizabethton, Tennessee? Check out Miso Teriyaki House for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJVbN-MuF_WogRr0HK-4GMD3k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

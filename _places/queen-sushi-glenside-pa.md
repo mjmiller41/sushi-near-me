@@ -5,6 +5,11 @@ permalink: /pennsylvania/glenside/queen-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Glenside
+seo:
+  name: "Queen Sushi"
+  type: Restaurant
+  links: https://www.queensushi.us/
+description: "No-frills Asian eatery with a long menu covering various Chinese, Japanese & Thai staples. Looking for sushi in Glenside, Pennsylvania? Check out Queen Sushi..."
 place_id: ChIJsT81a5uwxokRy1bIrGDV4RE
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 183
 website: https://www.queensushi.us/
-description: >-
-  No-frills Asian eatery with a long menu covering various Chinese, Japanese &
-  Thai staples.
 reviews:
   - name: >-
       places/ChIJsT81a5uwxokRy1bIrGDV4RE/reviews/ChdDSUhNMG9nS0VJQ0FnSURfOUlqYy1nRRAB
@@ -425,5 +427,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  No-frills Asian eatery with a long menu covering various Chinese, Japanese &
+  Thai staples.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-diego/su-su-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Su Su Sushi"
+  type: Restaurant
+  links: http://sususushillc.com/
+description: "Looking for sushi in San Diego, California? Check out Su Su Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJ00910FhV2YARxBfb79mPS18
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 69
 website: http://sususushillc.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ00910FhV2YARxBfb79mPS18/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJc2JHWjN3RRAB
@@ -406,5 +410,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

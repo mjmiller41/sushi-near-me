@@ -5,6 +5,11 @@ permalink: /new-jersey/wayne/lee-s-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Wayne
+seo:
+  name: "Lee's Sushi"
+  type: Restaurant
+  links: https://leesushiwayne.com/
+description: "Informal, family-friendly destination for hand rolls plus other Japanese & Korean standard dishes. Looking for sushi in Wayne, New Jersey? Check out Lee's Su..."
 place_id: ChIJ_3XU6rUDw4kR7QEXlrdCDtM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 636
 website: https://leesushiwayne.com/
-description: >-
-  Informal, family-friendly destination for hand rolls plus other Japanese &
-  Korean standard dishes.
 reviews:
   - name: >-
       places/ChIJ_3XU6rUDw4kR7QEXlrdCDtM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNReHRuOUp3EAE
@@ -411,5 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Informal, family-friendly destination for hand rolls plus other Japanese &
+  Korean standard dishes.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/diamond-bar/kyala-sushi-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Diamond Bar
+seo:
+  name: "Kyala Sushi & Japanese Cuisine"
+  type: Restaurant
+  links: https://morisendb.com/
+description: "Looking for sushi in Diamond Bar, California? Check out Kyala Sushi & Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJMS3Zn40sw4ARKHqe8k0BLKw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 210
 website: https://morisendb.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

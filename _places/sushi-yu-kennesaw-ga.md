@@ -5,6 +5,11 @@ permalink: /georgia/kennesaw/sushi-yu.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Kennesaw
+seo:
+  name: "Sushi Yu"
+  type: Restaurant
+  links: https://www.sushiyukennesaw.com/
+description: "Informal sushi bar offering classic sushi rolls, with all-you-can-eat menus at lunch & dinner. Looking for sushi in Kennesaw, Georgia? Check out Sushi Yu for..."
 place_id: ChIJfYylsSEV9YgRnOWpqeIIwTI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 549
 website: https://www.sushiyukennesaw.com/
-description: >-
-  Informal sushi bar offering classic sushi rolls, with all-you-can-eat menus at
-  lunch & dinner.
 reviews:
   - name: >-
       places/ChIJfYylsSEV9YgRnOWpqeIIwTI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYei1EcDlBRRAB
@@ -368,5 +370,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Informal sushi bar offering classic sushi rolls, with all-you-can-eat menus at
+  lunch & dinner.
 
 ---

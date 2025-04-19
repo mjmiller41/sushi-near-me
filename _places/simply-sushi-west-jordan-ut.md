@@ -5,6 +5,11 @@ permalink: /utah/west-jordan/simply-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: West Jordan
+seo:
+  name: "Simply Sushi"
+  type: Restaurant
+  links: https://www.simplysushi.us/
+description: "Looking for sushi in West Jordan, Utah? Check out Simply Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJN56EEDqJUocRk0-Ny6PkFcc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 1074
 website: https://www.simplysushi.us/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

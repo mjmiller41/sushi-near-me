@@ -5,6 +5,11 @@ permalink: /california/los-angeles/sushi-gen.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Sushi Gen"
+  type: Restaurant
+  links: http://www.sushigen-dtla.com/
+description: "Looking for sushi in Los Angeles, California? Check out Sushi Gen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJnQsVUDjGwoARcEGiOJrPzZY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 1580
 website: http://www.sushigen-dtla.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

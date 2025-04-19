@@ -5,6 +5,11 @@ permalink: /tennessee/nashville/i-love-sushi.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
+seo:
+  name: "I Love Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Nashville, Tennessee? Check out I Love Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJd_R-edlnZIgRQKqy2djkWW4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/santa-monica/sushi-king.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
+seo:
+  name: "Sushi King"
+  type: Restaurant
+  links: https://order.online/business/sushi-king-431729
+description: "Looking for sushi in Santa Monica, California? Check out Sushi King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJO9bOhsqkwoARyKviwUDfR00
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 310
 website: https://order.online/business/sushi-king-431729
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

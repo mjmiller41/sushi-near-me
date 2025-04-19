@@ -5,6 +5,11 @@ permalink: /california/milpitas/ichika.html
 stateAbbr: CA
 stateName: California
 cityName: Milpitas
+seo:
+  name: "Ichika"
+  type: Restaurant
+  links: http://ichikamilpitas.com/
+description: "Looking for sushi in Milpitas, California? Check out Ichika for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJXbEcQ_XJj4AR5V2k-L4blz4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 85
 website: http://ichikamilpitas.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

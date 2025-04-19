@@ -5,6 +5,11 @@ permalink: /indiana/indianapolis/sushi-den.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
+seo:
+  name: "Sushi Den"
+  type: Restaurant
+  links: http://sushidenindy.com/
+description: "Looking for sushi in Indianapolis, Indiana? Check out Sushi Den for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJnSMbRQBRa4gRBvOeKc8CDlo
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 217
 website: http://sushidenindy.com/
-description: null
 reviews:
   - name: >-
       places/ChIJnSMbRQBRa4gRBvOeKc8CDlo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBaDViYjV3RRAB
@@ -419,5 +423,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

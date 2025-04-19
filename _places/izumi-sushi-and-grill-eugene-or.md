@@ -5,6 +5,11 @@ permalink: /oregon/eugene/izumi-sushi-and-grill.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
+seo:
+  name: "Izumi Sushi and Grill"
+  type: Restaurant
+  links: http://www.izumisushieugene.com/
+description: "Looking for sushi in Eugene, Oregon? Check out Izumi Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJV_UlRTfiwFQRLetsnL0I-tY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1168
 website: http://www.izumisushieugene.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

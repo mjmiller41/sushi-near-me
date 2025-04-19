@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-ginza.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi Ginza"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New York, New York? Check out Sushi Ginza for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJ4Qov2mRZwokRq7cr4_3wK9c
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

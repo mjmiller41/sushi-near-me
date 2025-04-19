@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/momiji.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Momiji"
+  type: Restaurant
+  links: http://www.momijidc.com/
+description: "2-level spot with deck turning out hibachi dishes & creatively named rolls, plus handmade cocktails. Looking for sushi in Washington, District of Columbia? C..."
 place_id: ChIJeyECzY23t4kRd6wE5kbVDzo
 photos:
   - >-
@@ -69,9 +74,6 @@ price_range: $20 &mdash; 30
 rating: '4.3'
 rating_count: 1083
 website: http://www.momijidc.com/
-description: >-
-  2-level spot with deck turning out hibachi dishes & creatively named rolls,
-  plus handmade cocktails.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnTUNRck5QdHZBRRAB
   - ChZDSUhNMG9nS0VJQ0FnTURnNHE2RldBEAE
@@ -106,5 +108,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  2-level spot with deck turning out hibachi dishes & creatively named rolls,
+  plus handmade cocktails.
 
 ---

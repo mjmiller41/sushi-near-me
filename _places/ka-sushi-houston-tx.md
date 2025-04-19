@@ -5,6 +5,11 @@ permalink: /texas/houston/ka-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "KA Sushi"
+  type: Restaurant
+  links: https://www.kasushi.com/
+description: "Looking for sushi in Houston, Texas? Check out KA Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
 place_id: ChIJbRSAzG3HQIYRfJ40p4-T1X4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 1000
 website: https://www.kasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

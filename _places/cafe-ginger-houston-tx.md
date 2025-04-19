@@ -5,6 +5,11 @@ permalink: /texas/houston/cafe-ginger.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "Café Ginger"
+  type: Restaurant
+  links: http://www.cafeginger.net/
+description: "Looking for sushi in Houston, Texas? Check out Café Ginger for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJH_WngaTAQIYRkbIiCkpo-ts
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 1119
 website: http://www.cafeginger.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

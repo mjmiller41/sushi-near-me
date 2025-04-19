@@ -5,6 +5,11 @@ permalink: /new-york/forest-hills/sushi-koi.html
 stateAbbr: NY
 stateName: New York
 cityName: Forest Hills
+seo:
+  name: "Sushi Koi"
+  type: Restaurant
+  links: http://sushikoiny.com/
+description: "Unpretentious place offering typical sushi & Japanese entrees, plus all-you-can-eat specials. Looking for sushi in Forest Hills, New York? Check out Sushi Ko..."
 place_id: ChIJ-yMKWphgwokREQmPlSl4Cjg
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 166
 website: http://sushikoiny.com/
-description: >-
-  Unpretentious place offering typical sushi & Japanese entrees, plus
-  all-you-can-eat specials.
 reviews:
   - name: >-
       places/ChIJ-yMKWphgwokREQmPlSl4Cjg/reviews/ChdDSUhNMG9nS0VJQ0FnTURBMXYyX3ZRRRAB
@@ -405,5 +407,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Unpretentious place offering typical sushi & Japanese entrees, plus
+  all-you-can-eat specials.
 
 ---

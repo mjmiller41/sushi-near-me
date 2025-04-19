@@ -5,6 +5,11 @@ permalink: /north-carolina/boone/taste-grill.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Boone
+seo:
+  name: "Taste Grill"
+  type: Restaurant
+  links: https://www.tastegrillboonenc.com/
+description: "Looking for sushi in Boone, North Carolina? Check out Taste Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJbdrFYUT6UIgRMKXKKtSyLCk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.8'
 rating_count: 654
 website: https://www.tastegrillboonenc.com/
-description: null
 reviews:
   - name: >-
       places/ChIJbdrFYUT6UIgRMKXKKtSyLCk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfaXBHNFl3EAE
@@ -394,5 +398,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

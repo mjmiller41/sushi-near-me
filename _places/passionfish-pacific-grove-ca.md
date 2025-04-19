@@ -5,6 +5,11 @@ permalink: /california/pacific-grove/passionfish.html
 stateAbbr: CA
 stateName: California
 cityName: Pacific Grove
+seo:
+  name: "Passionfish"
+  type: Restaurant
+  links: http://www.passionfish.net/
+description: "Californian-inspired fare featuring seafood along with hard-to-find wines in a small, modern room. Looking for sushi in Pacific Grove, California? Check out ..."
 place_id: ChIJpXXm5EjhjYAR47VvED9RA0M
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 1360
 website: http://www.passionfish.net/
-description: >-
-  Californian-inspired fare featuring seafood along with hard-to-find wines in a
-  small, modern room.
 reviews:
   - name: >-
       places/ChIJpXXm5EjhjYAR47VvED9RA0M/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcWZDUEN3EAE
@@ -445,5 +447,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Californian-inspired fare featuring seafood along with hard-to-find wines in a
+  small, modern room.
 
 ---

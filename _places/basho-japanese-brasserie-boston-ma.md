@@ -5,6 +5,11 @@ permalink: /massachusetts/boston/basho-japanese-brasserie.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
+seo:
+  name: "Basho Japanese Brasserie"
+  type: Restaurant
+  links: https://bashosushi.com/
+description: "Looking for sushi in Boston, Massachusetts? Check out Basho Japanese Brasserie for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJGd-A_PV544kRrzXzAHiOHsA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: '4.1'
 rating_count: 595
 website: https://bashosushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

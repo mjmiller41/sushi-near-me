@@ -5,6 +5,11 @@ permalink: /alabama/florence/ichiban-florence-sushi-and-hibachi.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Florence
+seo:
+  name: "Ichiban Florence Sushi And Hibachi"
+  type: Restaurant
+  links: http://www.iloveichibanflorence.com/
+description: "Looking for sushi in Florence, Alabama? Check out Ichiban Florence Sushi And Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJSe4NE71JfYgRvAEXE8c5BlI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 385
 website: http://www.iloveichibanflorence.com/
-description: null
 reviews:
   - name: >-
       places/ChIJSe4NE71JfYgRvAEXE8c5BlI/reviews/ChdDSUhNMG9nS0VJQ0FnSURIajd1NGh3RRAB
@@ -364,5 +368,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

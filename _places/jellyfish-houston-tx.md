@@ -5,6 +5,11 @@ permalink: /texas/houston/jellyfish.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+seo:
+  name: "Jellyfish"
+  type: Restaurant
+  links: https://www.jellyfishsushi.com/
+description: "Looking for sushi in Houston, Texas? Check out Jellyfish for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJxS3PrZTHQIYRRcF3dvSBM_U
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.9'
 rating_count: 962
 website: https://www.jellyfishsushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

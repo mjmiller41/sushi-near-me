@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/kabuki-sushi-teryaki.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Kabuki Sushi & Teryaki"
+  type: Restaurant
+  links: null
+description: "Relaxed Japanese restaurant serving sushi, noodles, entrees & cocktails in a hip, modern space. Looking for sushi in Washington, District of Columbia? Check ..."
 place_id: ChIJf0sxzZm3t4kR7JzFR_HwVlk
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '1.9'
 rating_count: 87
 website: null
-description: >-
-  Relaxed Japanese restaurant serving sushi, noodles, entrees & cocktails in a
-  hip, modern space.
 reviews:
   - name: >-
       places/ChIJf0sxzZm3t4kR7JzFR_HwVlk/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3dVpDQjJBRRAB
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: >-
+  Relaxed Japanese restaurant serving sushi, noodles, entrees & cocktails in a
+  hip, modern space.
 
 ---

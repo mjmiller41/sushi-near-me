@@ -5,6 +5,11 @@ permalink: /florida/boca-raton/a-a-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Boca Raton
+seo:
+  name: "A&A SUSHI"
+  type: Restaurant
+  links: http://www.aasushitogo.com/
+description: "Looking for sushi in Boca Raton, Florida? Check out A&A SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJ0dUnWZob2YgRHAx-CM_ccjA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 241
 website: http://www.aasushitogo.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

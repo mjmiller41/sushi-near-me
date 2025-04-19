@@ -5,6 +5,11 @@ permalink: /arizona/gilbert/four-seasons-sushi-bar-grill.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
+seo:
+  name: "Four Seasons Sushi Bar & Grill"
+  type: Restaurant
+  links: https://4seasonsushiaz.com/
+description: "Looking for sushi in Gilbert, Arizona? Check out Four Seasons Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJgeLNg_2uK4cRrgbVXnPAp84
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 478
 website: https://4seasonsushiaz.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/chicago/golden-gai-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Golden Gai Sushi & Bar"
+  type: Restaurant
+  links: https://goldengaisushi.com/
+description: "Looking for sushi in Chicago, Illinois? Check out Golden Gai Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJ2U3I83wtDogR_sLDQFzQa8U
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: '4.2'
 rating_count: 127
 website: https://goldengaisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ2U3I83wtDogR_sLDQFzQa8U/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBdGRHRm9nRRAB
@@ -430,5 +434,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

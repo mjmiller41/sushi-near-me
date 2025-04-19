@@ -5,6 +5,11 @@ permalink: /california/cupertino/amami-shima-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Cupertino
+seo:
+  name: "Amami Shima Sushi"
+  type: Restaurant
+  links: https://amamishimasushi.com/
+description: "Looking for sushi in Cupertino, California? Check out Amami Shima Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ54EGBEK1j4AR4z6S5qbPulQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 630
 website: https://amamishimasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

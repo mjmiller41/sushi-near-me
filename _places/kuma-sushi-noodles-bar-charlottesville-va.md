@@ -5,6 +5,11 @@ permalink: /virginia/charlottesville/kuma-sushi-noodles-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
+seo:
+  name: "Kuma Sushi Noodles & Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Charlottesville, Virginia? Check out Kuma Sushi Noodles & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJP5mmZUiGs4kR-Ui1EX2jWyI
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 342
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJP5mmZUiGs4kR-Ui1EX2jWyI/reviews/ChZDSUhNMG9nS0VJQ0FnTURnaDRLV1NnEAE
@@ -378,5 +382,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

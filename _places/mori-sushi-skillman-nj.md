@@ -5,6 +5,11 @@ permalink: /new-jersey/skillman/mori-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Skillman
+seo:
+  name: "Mori Sushi"
+  type: Restaurant
+  links: http://www.morisushinj.com/
+description: "Looking for sushi in Skillman, New Jersey? Check out Mori Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJh7vrsCjmw4kRsTn65bjz9Bk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 323
 website: http://www.morisushinj.com/
-description: null
 reviews:
   - name: >-
       places/ChIJh7vrsCjmw4kRsTn65bjz9Bk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfMGRTZFJ3EAE
@@ -405,5 +409,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

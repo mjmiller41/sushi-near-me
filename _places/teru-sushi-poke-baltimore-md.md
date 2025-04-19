@@ -5,6 +5,11 @@ permalink: /maryland/baltimore/teru-sushi-poke.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
+seo:
+  name: "Teru Sushi & Poke"
+  type: Restaurant
+  links: https://www.teru-sushi.com/
+description: "Looking for sushi in Baltimore, Maryland? Check out Teru Sushi & Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJyd1sz4sFyIkRpIEV24MjC6k
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '5.0'
 rating_count: 9
 website: https://www.teru-sushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJyd1sz4sFyIkRpIEV24MjC6k/reviews/ChdDSUhNMG9nS0VJQ0FnTURnN2NESmp3RRAB
@@ -394,5 +398,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

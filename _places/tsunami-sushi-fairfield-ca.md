@@ -5,6 +5,11 @@ permalink: /california/fairfield/tsunami-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fairfield
+seo:
+  name: "Tsunami sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Fairfield, California? Check out Tsunami sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJiSHGc0MXhYARUZBgpfTa4tA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

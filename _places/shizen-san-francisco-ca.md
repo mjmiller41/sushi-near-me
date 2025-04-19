@@ -5,6 +5,11 @@ permalink: /california/san-francisco/shizen.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Shizen"
+  type: Restaurant
+  links: https://www.shizensf.com/
+description: "Vegan fare from faux-sushi and ramen to meatless small plates, in an inventive and wood-decked space. Looking for sushi in San Francisco, California? Check o..."
 place_id: ChIJIVHOoCF-j4ARnw6y25XWmMA
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 2912
 website: https://www.shizensf.com/
-description: >-
-  Vegan fare from faux-sushi and ramen to meatless small plates, in an inventive
-  and wood-decked space.
 reviews:
   - name: >-
       places/ChIJIVHOoCF-j4ARnw6y25XWmMA/reviews/ChRDSUhNMG9nS0VJQ0FnTURJdXRJNxAB
@@ -426,5 +428,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: false
+summary: >-
+  Vegan fare from faux-sushi and ramen to meatless small plates, in an inventive
+  and wood-decked space.
 
 ---

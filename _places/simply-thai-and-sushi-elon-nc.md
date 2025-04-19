@@ -5,6 +5,11 @@ permalink: /north-carolina/elon/simply-thai-and-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Elon
+seo:
+  name: "Simply Thai and Sushi"
+  type: Restaurant
+  links: http://www.mysimplythai.com/
+description: "Looking for sushi in Elon, North Carolina? Check out Simply Thai and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJ310ezgEpU4gRnjmZO2w138E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 541
 website: http://www.mysimplythai.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

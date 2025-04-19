@@ -5,6 +5,11 @@ permalink: /oregon/beaverton/noa-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Beaverton
+seo:
+  name: "NOA Sushi"
+  type: Restaurant
+  links: http://www.noasushibeaverton.com/
+description: "Looking for sushi in Beaverton, Oregon? Check out NOA Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJ15g7ajgNlVQRKf-M521gHcQ
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.9'
 rating_count: 116
 website: http://www.noasushibeaverton.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

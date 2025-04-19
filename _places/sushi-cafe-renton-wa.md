@@ -5,6 +5,11 @@ permalink: /washington/renton/sushi-cafe.html
 stateAbbr: WA
 stateName: Washington
 cityName: Renton
+seo:
+  name: "Sushi Cafe"
+  type: Restaurant
+  links: http://www.sushicaferenton.com/
+description: "Looking for sushi in Renton, Washington? Check out Sushi Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJtaQ1KdpnkFQRWmsRhmg0gFA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 712
 website: http://www.sushicaferenton.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

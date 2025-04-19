@@ -5,6 +5,11 @@ permalink: /washington/spokane/wave-sushi-island-grill.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane
+seo:
+  name: "Wave Sushi Island Grill"
+  type: Restaurant
+  links: http://www.wavesushiislandgrill.com/
+description: "Looking for sushi in Spokane, Washington? Check out Wave Sushi Island Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJRSmfE2EYnlQRjAhA-58BZzE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1497
 website: http://www.wavesushiislandgrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

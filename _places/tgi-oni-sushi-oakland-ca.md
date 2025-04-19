@@ -5,6 +5,11 @@ permalink: /california/oakland/tgi-oni-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
+seo:
+  name: "TGI Oni Sushi"
+  type: Restaurant
+  links: https://tgioni.menu11.com/
+description: "Looking for sushi in Oakland, California? Check out TGI Oni Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJP0e9zpqHj4ARTRPiDgeG-Ac
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 153
 website: https://tgioni.menu11.com/
-description: null
 reviews:
   - name: >-
       places/ChIJP0e9zpqHj4ARTRPiDgeG-Ac/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfeGJ6ODhRRRAB
@@ -377,5 +381,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

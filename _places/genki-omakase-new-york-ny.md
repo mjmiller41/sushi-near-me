@@ -5,6 +5,11 @@ permalink: /new-york/new-york/genki-omakase.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Genki omakase"
+  type: Restaurant
+  links: http://www.genkiomakase.com/
+description: "Looking for sushi in New York, New York? Check out Genki omakase for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJx232mt9ZwokR7MuLz8Vpqr0
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $50 &ndash; $100
 rating: '4.8'
 rating_count: 1316
 website: http://www.genkiomakase.com/
-description: null
 reviews:
   - name: >-
       places/ChIJx232mt9ZwokR7MuLz8Vpqr0/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3c0t5TVNREAE
@@ -390,5 +394,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
+summary: null
 
 ---

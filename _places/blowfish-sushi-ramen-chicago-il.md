@@ -5,6 +5,11 @@ permalink: /illinois/chicago/blowfish-sushi-ramen.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Blowfish Sushi & Ramen"
+  type: Restaurant
+  links: http://blowfishchicago.com/
+description: "Creative Asian-fusion fare & sushi in modern, minimalist digs with a BYO policy. Looking for sushi in Chicago, Illinois? Check out Blowfish Sushi & Ramen for..."
 place_id: ChIJo6S8k4LRD4gRdaIrevdrc_Y
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 1092
 website: http://blowfishchicago.com/
-description: >-
-  Creative Asian-fusion fare & sushi in modern, minimalist digs with a BYO
-  policy.
 reviews:
   - name: >-
       places/ChIJo6S8k4LRD4gRdaIrevdrc_Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dzRHaVl3EAE
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Creative Asian-fusion fare & sushi in modern, minimalist digs with a BYO
+  policy.
 
 ---

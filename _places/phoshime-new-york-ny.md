@@ -5,6 +5,11 @@ permalink: /new-york/new-york/phoshime.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Phoshime"
+  type: Restaurant
+  links: https://www.phoshime.com/
+description: "Looking for sushi in New York, New York? Check out Phoshime for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJM6qAUEdZwokRjjuPrfu8A2I
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 166
 website: https://www.phoshime.com/
-description: null
 reviews:
   - name: >-
       places/ChIJM6qAUEdZwokRjjuPrfu8A2I/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOUlhZVBBEAE
@@ -384,5 +388,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

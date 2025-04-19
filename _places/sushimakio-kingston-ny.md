@@ -5,6 +5,11 @@ permalink: /new-york/kingston/sushimakio.html
 stateAbbr: NY
 stateName: New York
 cityName: Kingston
+seo:
+  name: "SushiMakio"
+  type: Restaurant
+  links: http://www.sushimakio.com/
+description: "Looking for sushi in Kingston, New York? Check out SushiMakio for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJP9VrSy4P3YkRP1WxjbQW5hI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 217
 website: http://www.sushimakio.com/
-description: null
 reviews:
   - name: >-
       places/ChIJP9VrSy4P3YkRP1WxjbQW5hI/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3anU2LUhBEAE
@@ -351,5 +355,6 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

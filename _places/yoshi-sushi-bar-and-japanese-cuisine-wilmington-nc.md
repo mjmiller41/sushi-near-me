@@ -5,6 +5,11 @@ permalink: /north-carolina/wilmington/yoshi-sushi-bar-and-japanese-cuisine.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Wilmington
+seo:
+  name: "Yoshi Sushi Bar and Japanese Cuisine"
+  type: Restaurant
+  links: https://yoshisushibartogo.com/
+description: "Looking for sushi in Wilmington, North Carolina? Check out Yoshi Sushi Bar and Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety ..."
 place_id: ChIJQYUlT8L0qYkRxTJ3kbOwXC8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 541
 website: https://yoshisushibartogo.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

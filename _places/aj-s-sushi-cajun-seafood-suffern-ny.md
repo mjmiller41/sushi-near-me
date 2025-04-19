@@ -5,6 +5,11 @@ permalink: /new-york/suffern/aj-s-sushi-cajun-seafood.html
 stateAbbr: NY
 stateName: New York
 cityName: Suffern
+seo:
+  name: "AJ’S Sushi & Cajun Seafood"
+  type: Restaurant
+  links: http://www.ajsushiny.com/
+description: "Looking for sushi in Suffern, New York? Check out AJ’S Sushi & Cajun Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJpfXU00jnwokRWf7-9_UhgUk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 600
 website: http://www.ajsushiny.com/
-description: null
 reviews:
   - name: >-
       places/ChIJpfXU00jnwokRWf7-9_UhgUk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNnBLNy1BRRAB
@@ -559,5 +563,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

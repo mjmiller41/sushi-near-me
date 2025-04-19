@@ -5,6 +5,11 @@ permalink: /illinois/chicago/koi-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Koi Sushi"
+  type: Restaurant
+  links: https://www.koisushiillinois.com/
+description: "Modern restaurant showcasing creative sushi, appetizers & all-you-can-eat dishes in a breezy space. Looking for sushi in Chicago, Illinois? Check out Koi Sus..."
 place_id: ChIJzTV8o1rTD4gRlRwypjCllm0
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 1049
 website: https://www.koisushiillinois.com/
-description: >-
-  Modern restaurant showcasing creative sushi, appetizers & all-you-can-eat
-  dishes in a breezy space.
 reviews:
   - name: >-
       places/ChIJzTV8o1rTD4gRlRwypjCllm0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfaXR1WTVnRRAB
@@ -367,5 +369,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern restaurant showcasing creative sushi, appetizers & all-you-can-eat
+  dishes in a breezy space.
 
 ---

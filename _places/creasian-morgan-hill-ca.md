@@ -5,6 +5,11 @@ permalink: /california/morgan-hill/creasian.html
 stateAbbr: CA
 stateName: California
 cityName: Morgan Hill
+seo:
+  name: "CreAsian"
+  type: Restaurant
+  links: https://www.creasiansushi.com/home
+description: "Looking for sushi in Morgan Hill, California? Check out CreAsian for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJfVoM2_EgjoAR-KaCQr5d7Ig
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 298
 website: https://www.creasiansushi.com/home
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

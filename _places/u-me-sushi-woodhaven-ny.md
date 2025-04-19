@@ -5,6 +5,11 @@ permalink: /new-york/woodhaven/u-me-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Woodhaven
+seo:
+  name: "U-Me Sushi"
+  type: Restaurant
+  links: https://umesushiqueens.com/
+description: "Looking for sushi in Woodhaven, New York? Check out U-Me Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJncjM5PxdwokR9tFh1SRh_Go
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 236
 website: https://umesushiqueens.com/
-description: null
 reviews:
   - name: >-
       places/ChIJncjM5PxdwokR9tFh1SRh_Go/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYOWFXNEdnEAE
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

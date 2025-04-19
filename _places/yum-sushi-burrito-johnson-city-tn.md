@@ -5,6 +5,11 @@ permalink: /tennessee/johnson-city/yum-sushi-burrito.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Johnson City
+seo:
+  name: "Yum Sushi Burrito"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Johnson City, Tennessee? Check out Yum Sushi Burrito for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJxbTIHn19WogRnkkw1eDEziM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

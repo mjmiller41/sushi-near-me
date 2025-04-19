@@ -5,6 +5,11 @@ permalink: /michigan/troy/kona-grill-troy.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Troy
+seo:
+  name: "Kona Grill - Troy"
+  type: Restaurant
+  links: https://konagrill.com/locations?locations=Troy
+description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Looking for sushi in Troy, Michigan? Check out Kona Grill -..."
 place_id: ChIJF_YSkRXEJIgRHeg4LoOqVrw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 6247
 website: https://konagrill.com/locations?locations=Troy
-description: >-
-  Sleek chain with a broad New American menu including low-calorie options, plus
-  sushi & cocktails.
 reviews:
   - name: >-
       places/ChIJF_YSkRXEJIgRHeg4LoOqVrw/reviews/ChZDSUhNMG9nS0VJQ0FnTURRZ3FhSUhnEAE
@@ -375,5 +377,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek chain with a broad New American menu including low-calorie options, plus
+  sushi & cocktails.
 
 ---

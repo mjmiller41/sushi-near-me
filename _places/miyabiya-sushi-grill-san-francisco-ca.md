@@ -5,6 +5,11 @@ permalink: /california/san-francisco/miyabiya-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Miyabiya Sushi & Grill"
+  type: Restaurant
+  links: http://www.miyabiyasf.com/
+description: "Contemporary Japanse restaurant serving sushi, sashimi, and nigiri, plus teriyaki and yakitori. Looking for sushi in San Francisco, California? Check out Miy..."
 place_id: ChIJ6VfSbo-AhYAR9UO_OvUIaw8
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $30 &ndash; $50
 rating: '4.0'
 rating_count: 435
 website: http://www.miyabiyasf.com/
-description: >-
-  Contemporary Japanse restaurant serving sushi, sashimi, and nigiri, plus
-  teriyaki and yakitori.
 reviews:
   - name: >-
       places/ChIJ6VfSbo-AhYAR9UO_OvUIaw8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6MHR6MXhRRRAB
@@ -412,5 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: null
 takeout: true
+summary: >-
+  Contemporary Japanse restaurant serving sushi, sashimi, and nigiri, plus
+  teriyaki and yakitori.
 
 ---

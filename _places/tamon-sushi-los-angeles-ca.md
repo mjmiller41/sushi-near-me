@@ -5,6 +5,11 @@ permalink: /california/los-angeles/tamon-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Tamon Sushi"
+  type: Restaurant
+  links: https://group.bishamon-ten.com/tamon
+description: "Looking for sushi in Los Angeles, California? Check out Tamon Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJN4KVwkfGwoARiQrEIwQLKeQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 67
 website: https://group.bishamon-ten.com/tamon
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

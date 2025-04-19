@@ -5,6 +5,11 @@ permalink: /illinois/chicago/diva-thai-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Diva Thai & Sushi Bar"
+  type: Restaurant
+  links: http://www.divathaisushibar.com/
+description: "Casual, late-night BYOB spot serving a menu of Thai faves & sushi with many vegetarian options. Looking for sushi in Chicago, Illinois? Check out Diva Thai &..."
 place_id: ChIJqwO7QbDTD4gRcu1R7fD5Je4
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 613
 website: http://www.divathaisushibar.com/
-description: >-
-  Casual, late-night BYOB spot serving a menu of Thai faves & sushi with many
-  vegetarian options.
 reviews:
   - name: >-
       places/ChIJqwO7QbDTD4gRcu1R7fD5Je4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnLWZDUWZnEAE
@@ -355,5 +357,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual, late-night BYOB spot serving a menu of Thai faves & sushi with many
+  vegetarian options.
 
 ---

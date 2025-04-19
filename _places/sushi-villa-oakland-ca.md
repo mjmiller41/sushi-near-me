@@ -5,6 +5,11 @@ permalink: /california/oakland/sushi-villa.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
+seo:
+  name: "Sushi Villa"
+  type: Restaurant
+  links: https://www.sushivillaca.com/
+description: "Looking for sushi in Oakland, California? Check out Sushi Villa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJYfGyDrOAj4ART1yz1GPLYss
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 62
 website: https://www.sushivillaca.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/khin-s-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Khin’s Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Washington, District of Columbia? Check out Khin’s Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJ78NrNQW3t4kRGYiDa-IJK4A
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJemNpZW9BRRAB
@@ -374,5 +378,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/new-york/bayard-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Bayard Sushi"
+  type: Restaurant
+  links: https://www.bayardsushinewyork.com/
+description: "Looking for sushi in New York, New York? Check out Bayard Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJuxFpJjVbwokR6Y47VCV0z9Q
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 106
 website: https://www.bayardsushinewyork.com/
-description: null
 reviews:
   - name: >-
       places/ChIJuxFpJjVbwokR6Y47VCV0z9Q/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOW95YndRRRAB
@@ -353,5 +357,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

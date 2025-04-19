@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/kaiten-sushi-ginza-onodera.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Kaiten Sushi Ginza Onodera"
+  type: Restaurant
+  links: https://www.sushionodera.com/kaiten-sushi-hawaii
+description: "Looking for sushi in Honolulu, Hawaii? Check out Kaiten Sushi Ginza Onodera for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJiQwrRQBtAHwR7lBp0WggVjE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.8'
 rating_count: 519
 website: https://www.sushionodera.com/kaiten-sushi-hawaii
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /virginia/arlington/sushi-rock.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+seo:
+  name: "Sushi Rock"
+  type: Restaurant
+  links: http://www.sushirockva.com/
+description: "Trendy sushi bar & performance venue with bands in the basement & Asian-themed drinks at the bar. Looking for sushi in Arlington, Virginia? Check out Sushi R..."
 place_id: ChIJobliPGC2t4kR9Vb7dzIslz8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.sushirockva.com/
-description: >-
-  Trendy sushi bar & performance venue with bands in the basement & Asian-themed
-  drinks at the bar.
 reviews:
   - name: >-
       places/ChIJobliPGC2t4kR9Vb7dzIslz8/reviews/ChZDSUhNMG9nS0VJQ0FnTURJclBfR0pREAE
@@ -374,5 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Trendy sushi bar & performance venue with bands in the basement & Asian-themed
+  drinks at the bar.
 
 ---

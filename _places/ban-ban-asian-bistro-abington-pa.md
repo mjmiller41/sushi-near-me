@@ -5,6 +5,11 @@ permalink: /pennsylvania/abington/ban-ban-asian-bistro.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Abington
+seo:
+  name: "Ban Ban Asian Bistro"
+  type: Restaurant
+  links: http://www.banbanasian.com/
+description: "Looking for sushi in Abington, Pennsylvania? Check out Ban Ban Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ2ce-HU-wxokRq4LlVmZjTXI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 449
 website: http://www.banbanasian.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ2ce-HU-wxokRq4LlVmZjTXI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMjhuQ1hBEAE
@@ -366,5 +370,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

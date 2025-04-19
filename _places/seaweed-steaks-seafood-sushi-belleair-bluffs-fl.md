@@ -5,6 +5,11 @@ permalink: /florida/belleair-bluffs/seaweed-steaks-seafood-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Belleair Bluffs
+seo:
+  name: "Seaweed Steaks, Seafood & Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Belleair Bluffs, Florida? Check out Seaweed Steaks, Seafood & Sushi for a delightful Japanese dining experience. Enjoy a variety of sush..."
 place_id: ChIJxR1O7FT7wogR93Z_TebaPPY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

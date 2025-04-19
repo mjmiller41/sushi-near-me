@@ -5,6 +5,11 @@ permalink: /new-york/new-york/e-mo.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "E-MO"
+  type: Restaurant
+  links: null
+description: "Tiny, cash-only carryout counter selling kimbab, Korean-style sushi rolls, with a range of fillings. Looking for sushi in New York, New York? Check out E-MO ..."
 place_id: ChIJGT0h9KhZwokRgQ0zJWvbYXU
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 206
 website: null
-description: >-
-  Tiny, cash-only carryout counter selling kimbab, Korean-style sushi rolls,
-  with a range of fillings.
 reviews:
   - name: >-
       places/ChIJGT0h9KhZwokRgQ0zJWvbYXU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzd1lXQi1BRRAB
@@ -360,5 +362,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Tiny, cash-only carryout counter selling kimbab, Korean-style sushi rolls,
+  with a range of fillings.
 
 ---

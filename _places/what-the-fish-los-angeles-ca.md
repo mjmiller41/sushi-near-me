@@ -5,6 +5,11 @@ permalink: /california/los-angeles/what-the-fish.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "What the Fish"
+  type: Restaurant
+  links: https://whatthefishsushi.godaddysites.com/menu
+description: "Looking for sushi in Los Angeles, California? Check out What the Fish for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJxZTPQcnAwoAR8fOdMs57a1Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.0'
 rating_count: 178
 website: https://whatthefishsushi.godaddysites.com/menu
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

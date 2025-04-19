@@ -5,6 +5,11 @@ permalink: /texas/austin/sushi-junai-omakase.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "Sushi Junai Omakase"
+  type: Restaurant
+  links: https://sushijunaiomakase.com/
+description: "Looking for sushi in Austin, Texas? Check out Sushi Junai Omakase for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJY4aIpwO1RIYRNuwCbsPuPdk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 415
 website: https://sushijunaiomakase.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

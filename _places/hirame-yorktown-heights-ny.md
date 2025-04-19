@@ -5,6 +5,11 @@ permalink: /new-york/yorktown-heights/hirame.html
 stateAbbr: NY
 stateName: New York
 cityName: Yorktown Heights
+seo:
+  name: "Hirame"
+  type: Restaurant
+  links: https://www.hiramesushi.com/
+description: "Looking for sushi in Yorktown Heights, New York? Check out Hirame for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJF0730xy3wokR8sBlnVREGv0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 116
 website: https://www.hiramesushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJF0730xy3wokR8sBlnVREGv0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaMXNha3NRRRAB
@@ -392,5 +396,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

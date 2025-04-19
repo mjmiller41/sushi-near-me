@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/waikiki.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Waikiki"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Honolulu, Hawaii? Check out Waikiki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJrynB5fRtAHwReIhoKsXdM0Y
 photos:
   - name: >-
@@ -172,7 +177,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -199,5 +203,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

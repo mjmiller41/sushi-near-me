@@ -5,6 +5,11 @@ permalink: /california/san-francisco/wabi-sabi-sf-at-soma.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Wabi-Sabi SF at Soma"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Francisco, California? Check out Wabi-Sabi SF at Soma for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJAf70RnKBhYARoJ7PAYkL8Ck
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

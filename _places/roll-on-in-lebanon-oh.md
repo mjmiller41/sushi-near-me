@@ -5,6 +5,11 @@ permalink: /ohio/lebanon/roll-on-in.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Lebanon
+seo:
+  name: "Roll On In"
+  type: Restaurant
+  links: https://rollonin.com/
+description: "Looking for sushi in Lebanon, Ohio? Check out Roll On In for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJmQYnoiL0QIgRU7pDQrla2Uk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 568
 website: https://rollonin.com/
-description: null
 reviews:
   - name: >-
       places/ChIJmQYnoiL0QIgRU7pDQrla2Uk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3NF9fck9nEAE
@@ -353,5 +357,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

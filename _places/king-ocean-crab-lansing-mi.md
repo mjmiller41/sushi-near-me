@@ -5,6 +5,11 @@ permalink: /michigan/lansing/king-ocean-crab.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Lansing
+seo:
+  name: "King Ocean Crab"
+  type: Restaurant
+  links: https://www.kingoceancrablansing.com/
+description: "Roomy, contemporary option for varied seafood meals, from boils & fried baskets to po’ boys & sushi. Looking for sushi in Lansing, Michigan? Check out King O..."
 place_id: ChIJcxUroQXBIogRisX1wru3nXk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 703
 website: https://www.kingoceancrablansing.com/
-description: >-
-  Roomy, contemporary option for varied seafood meals, from boils & fried
-  baskets to po’ boys & sushi.
 reviews:
   - name: >-
       places/ChIJcxUroQXBIogRisX1wru3nXk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbHFLWUJnEAE
@@ -416,5 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Roomy, contemporary option for varied seafood meals, from boils & fried
+  baskets to po’ boys & sushi.
 
 ---

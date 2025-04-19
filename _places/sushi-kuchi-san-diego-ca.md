@@ -5,6 +5,11 @@ permalink: /california/san-diego/sushi-kuchi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Sushi Kuchi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Diego, California? Check out Sushi Kuchi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJAzBGu-7_24ARYJqSQB8Njqk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

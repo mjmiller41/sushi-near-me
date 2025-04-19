@@ -5,6 +5,11 @@ permalink: /oregon/beaverton/mio-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Beaverton
+seo:
+  name: "Mio Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Beaverton, Oregon? Check out Mio Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJw_ODiqEOlVQRk4fmoY_RM4w
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /arizona/flagstaff/karma-sushi-bar-grill.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Flagstaff
+seo:
+  name: "Karma Sushi Bar Grill"
+  type: Restaurant
+  links: http://karmaflagstaff.com/
+description: "Looking for sushi in Flagstaff, Arizona? Check out Karma Sushi Bar Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJxWG05UOPLYcRVtp8yawRJJY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 2377
 website: http://karmaflagstaff.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

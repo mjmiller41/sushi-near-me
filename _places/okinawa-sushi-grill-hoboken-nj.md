@@ -5,6 +5,11 @@ permalink: /new-jersey/hoboken/okinawa-sushi-grill.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hoboken
+seo:
+  name: "Okinawa Sushi & Grill"
+  type: Restaurant
+  links: http://okinawahoboken.com/
+description: "Casual, contemporary eatery for specialty sushi rolls as well as Japanese, Thai & Chinese dishes. Looking for sushi in Hoboken, New Jersey? Check out Okinawa..."
 place_id: ChIJ-98Dk1tXwokRf5MAEqU_OW0
 photos:
   - name: >-
@@ -176,9 +181,6 @@ price_range: null
 rating: '4.1'
 rating_count: 365
 website: http://okinawahoboken.com/
-description: >-
-  Casual, contemporary eatery for specialty sushi rolls as well as Japanese,
-  Thai & Chinese dishes.
 reviews:
   - name: >-
       places/ChIJ-98Dk1tXwokRf5MAEqU_OW0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuLUx1S3RnRRAB
@@ -361,5 +363,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Casual, contemporary eatery for specialty sushi rolls as well as Japanese,
+  Thai & Chinese dishes.
 
 ---

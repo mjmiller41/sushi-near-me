@@ -5,6 +5,11 @@ permalink: /florida/riverview/ding-asian-cuisine.html
 stateAbbr: FL
 stateName: Florida
 cityName: Riverview
+seo:
+  name: "DING Asian Cuisine"
+  type: Restaurant
+  links: http://www.dingasian.com/
+description: "Looking for sushi in Riverview, Florida? Check out DING Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJRXpt7Z7RwogRPK18vve2X7k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 374
 website: http://www.dingasian.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

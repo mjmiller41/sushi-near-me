@@ -5,6 +5,11 @@ permalink: /ohio/mentor-on-the-lake/ninja-sushi-and-hibachi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Mentor-On-The-Lake
+seo:
+  name: "Ninja Sushi and Hibachi"
+  type: Restaurant
+  links: http://ninjainmentor.com/
+description: "Looking for sushi in Mentor-On-The-Lake, Ohio? Check out Ninja Sushi and Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJA_SNRXKvMYgRH7sTW6rAqzo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 677
 website: http://ninjainmentor.com/
-description: null
 reviews:
   - name: >-
       places/ChIJA_SNRXKvMYgRH7sTW6rAqzo/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MmVQdmV3EAE
@@ -374,5 +378,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

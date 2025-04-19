@@ -5,6 +5,11 @@ permalink: /indiana/west-lafayette/maru-sushi.html
 stateAbbr: IN
 stateName: Indiana
 cityName: West Lafayette
+seo:
+  name: "Maru Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in West Lafayette, Indiana? Check out Maru Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJZ1VkNqniEogRKIbWtRVfJd4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

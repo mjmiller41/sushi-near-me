@@ -5,6 +5,11 @@ permalink: /california/san-diego/pb-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "PB Sushi"
+  type: Restaurant
+  links: http://www.pbsushi.net/
+description: "Casual, colorful place with a long sushi bar for sashimi, nigiri & unique maki, plus imported beer. Looking for sushi in San Diego, California? Check out PB ..."
 place_id: ChIJfwGsO-sB3IARgC4QersmNIA
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 559
 website: http://www.pbsushi.net/
-description: >-
-  Casual, colorful place with a long sushi bar for sashimi, nigiri & unique
-  maki, plus imported beer.
 reviews:
   - name: >-
       places/ChIJfwGsO-sB3IARgC4QersmNIA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRMXY3ZTlnRRAB
@@ -374,5 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Casual, colorful place with a long sushi bar for sashimi, nigiri & unique
+  maki, plus imported beer.
 
 ---

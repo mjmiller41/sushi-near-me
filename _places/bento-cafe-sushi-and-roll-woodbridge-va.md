@@ -5,6 +5,11 @@ permalink: /virginia/woodbridge/bento-cafe-sushi-and-roll.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Woodbridge
+seo:
+  name: "Bento Cafe Sushi and Roll"
+  type: Restaurant
+  links: http://www.bentocafesushiandroll.com/
+description: "Japanese seafood specialties offered in a down-to-earth strip-mall bistro with free Wi-Fi. Looking for sushi in Woodbridge, Virginia? Check out Bento Cafe Su..."
 place_id: ChIJb8jIqnNWtokRporQk26qa4A
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 1350
 website: http://www.bentocafesushiandroll.com/
-description: >-
-  Japanese seafood specialties offered in a down-to-earth strip-mall bistro with
-  free Wi-Fi.
 reviews:
   - name: >-
       places/ChIJb8jIqnNWtokRporQk26qa4A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMGNIbnlBRRAB
@@ -390,5 +392,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Japanese seafood specialties offered in a down-to-earth strip-mall bistro with
+  free Wi-Fi.
 
 ---

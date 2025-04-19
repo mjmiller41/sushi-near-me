@@ -5,6 +5,11 @@ permalink: /new-york/new-york/okinii.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Okinii"
+  type: Restaurant
+  links: https://www.okiniiny.com/
+description: "Sashimi & creative maki, plus Japanese kitchen entrees, served in a laid-back space with a full bar. Looking for sushi in New York, New York? Check out Okini..."
 place_id: ChIJJQr1wJFZwokRD08Dy1xV9E8
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 583
 website: https://www.okiniiny.com/
-description: >-
-  Sashimi & creative maki, plus Japanese kitchen entrees, served in a laid-back
-  space with a full bar.
 reviews:
   - name: >-
       places/ChIJJQr1wJFZwokRD08Dy1xV9E8/reviews/ChZDSUhNMG9nS0VJQ0FnSURQZ3RUZ1NBEAE
@@ -420,5 +422,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sashimi & creative maki, plus Japanese kitchen entrees, served in a laid-back
+  space with a full bar.
 
 ---

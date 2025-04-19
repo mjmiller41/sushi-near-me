@@ -5,6 +5,11 @@ permalink: /illinois/arlington-heights/bistro-chen.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Arlington Heights
+seo:
+  name: "Bistro Chen"
+  type: Restaurant
+  links: http://bistrochen.com/
+description: "Spare, modern restaurant serving Chinese-Japanese fare (from dim sum to sushi) & tropical cocktails. Looking for sushi in Arlington Heights, Illinois? Check ..."
 place_id: ChIJT0xTAfK6D4gRtHzUpYzH_Tw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 479
 website: http://bistrochen.com/
-description: >-
-  Spare, modern restaurant serving Chinese-Japanese fare (from dim sum to sushi)
-  & tropical cocktails.
 reviews:
   - name: >-
       places/ChIJT0xTAfK6D4gRtHzUpYzH_Tw/reviews/ChdDSUhNMG9nS0VJQ0FnSURmeEpENHNnRRAB
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Spare, modern restaurant serving Chinese-Japanese fare (from dim sum to sushi)
+  & tropical cocktails.
 
 ---

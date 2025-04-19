@@ -5,6 +5,11 @@ permalink: /washington/seattle/sushi-katsu-ya.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Sushi Katsu-ya"
+  type: Restaurant
+  links: http://katsu-yagroup.com/
+description: "Looking for sushi in Seattle, Washington? Check out Sushi Katsu-ya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJBV8Qe9wVkFQRfpwZ8B2ERw4
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 462
 website: http://katsu-yagroup.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

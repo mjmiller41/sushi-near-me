@@ -5,6 +5,11 @@ permalink: /texas/austin/uroko.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "Uroko"
+  type: Restaurant
+  links: https://www.urokoaustin.com/
+description: "Looking for sushi in Austin, Texas? Check out Uroko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atm..."
 place_id: ChIJe5D78l-3RIYRPmrA68S_Mbg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.8'
 rating_count: 362
 website: https://www.urokoaustin.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

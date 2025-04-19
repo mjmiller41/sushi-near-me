@@ -5,6 +5,11 @@ permalink: /pennsylvania/west-chester/kooma-west-chester.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: West Chester
+seo:
+  name: "Kooma West Chester"
+  type: Restaurant
+  links: http://www.koomafusion.com/
+description: "Looking for sushi in West Chester, Pennsylvania? Check out Kooma West Chester for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJEeT7P0bxxokROiadR8LG_ys
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 620
 website: http://www.koomafusion.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

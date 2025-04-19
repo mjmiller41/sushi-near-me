@@ -5,6 +5,11 @@ permalink: /michigan/dearborn/koja-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Dearborn
+seo:
+  name: "Koja Sushi"
+  type: Restaurant
+  links: http://kojasushi.com/
+description: "Looking for sushi in Dearborn, Michigan? Check out Koja Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJlZKN6i81O4gRBVoslmLVBVs
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 484
 website: http://kojasushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJlZKN6i81O4gRBVoslmLVBVs/reviews/ChdDSUhNMG9nS0VJQ0FnTURJZ09MZDhnRRAB
@@ -382,5 +386,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

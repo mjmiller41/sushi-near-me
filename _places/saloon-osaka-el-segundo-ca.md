@@ -5,6 +5,11 @@ permalink: /california/el-segundo/saloon-osaka.html
 stateAbbr: CA
 stateName: California
 cityName: El Segundo
+seo:
+  name: "SALOON OSAKA"
+  type: Restaurant
+  links: https://www.saloonosaka.com/menu
+description: "Looking for sushi in El Segundo, California? Check out SALOON OSAKA for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJEaoVy1-xwoAR1wfNkEcX1dc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 109
 website: https://www.saloonosaka.com/menu
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

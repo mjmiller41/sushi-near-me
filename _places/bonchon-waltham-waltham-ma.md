@@ -5,6 +5,11 @@ permalink: /massachusetts/waltham/bonchon-waltham.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Waltham
+seo:
+  name: "Bonchon Waltham"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Waltham, Massachusetts? Check out Bonchon Waltham for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJew_4CEmD44kR_rIs0uaEYgA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

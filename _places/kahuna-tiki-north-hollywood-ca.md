@@ -5,6 +5,11 @@ permalink: /california/north-hollywood/kahuna-tiki.html
 stateAbbr: CA
 stateName: California
 cityName: North Hollywood
+seo:
+  name: "Kahuna Tiki"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in North Hollywood, California? Check out Kahuna Tiki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJTwdXbvOVwoARomqCBB1qJHA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /nebraska/omaha/ponzu-sushi-and-grill.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
+seo:
+  name: "Ponzu Sushi and Grill"
+  type: Restaurant
+  links: https://www.ponzusushiandgrill.com/
+description: "Trendy spot for contemporary takes on sushi, Asian  Fusion grilled plates & stylish cocktails. Looking for sushi in Omaha, Nebraska? Check out Ponzu Sushi an..."
 place_id: ChIJv6Y3BFKMk4cRLPMrSI3pOjY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 811
 website: https://www.ponzusushiandgrill.com/
-description: >-
-  Trendy spot for contemporary takes on sushi, Asian  Fusion grilled plates &
-  stylish cocktails.
 reviews:
   - name: >-
       places/ChIJv6Y3BFKMk4cRLPMrSI3pOjY/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cjk2clN3EAE
@@ -356,5 +358,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Trendy spot for contemporary takes on sushi, Asian  Fusion grilled plates &
+  stylish cocktails.
 
 ---

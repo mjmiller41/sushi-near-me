@@ -5,6 +5,11 @@ permalink: /california/santa-monica/noma-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
+seo:
+  name: "Noma Sushi"
+  type: Restaurant
+  links: http://www.nomasushi.com/
+description: "Looking for sushi in Santa Monica, California? Check out Noma Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJQ0q4u0u7woARTE_WdIUZVQ8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 736
 website: http://www.nomasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

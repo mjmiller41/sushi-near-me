@@ -5,6 +5,11 @@ permalink: /ohio/cuyahoga-falls/poke-roll.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cuyahoga Falls
+seo:
+  name: "Poke & Roll"
+  type: Restaurant
+  links: https://www.eatpokenroll.com/
+description: "Looking for sushi in Cuyahoga Falls, Ohio? Check out Poke & Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJi8fFfhwnMYgRPQ1HLtbMMVU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 65
 website: https://www.eatpokenroll.com/
-description: null
 reviews:
   - name: >-
       places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOHVhX1h3EAE
@@ -426,5 +430,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

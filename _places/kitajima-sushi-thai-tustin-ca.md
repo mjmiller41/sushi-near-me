@@ -5,6 +5,11 @@ permalink: /california/tustin/kitajima-sushi-thai.html
 stateAbbr: CA
 stateName: California
 cityName: Tustin
+seo:
+  name: "Kitajima Sushi & Thai"
+  type: Restaurant
+  links: http://www.kitajimasushi.com/
+description: "Familiar Thai fare shares the menu with specialty sushi rolls served in cozy, minimalist digs. Looking for sushi in Tustin, California? Check out Kitajima Su..."
 place_id: ChIJpzwGTufb3IAR2l10U1fneP8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 199
 website: http://www.kitajimasushi.com/
-description: >-
-  Familiar Thai fare shares the menu with specialty sushi rolls served in cozy,
-  minimalist digs.
 reviews:
   - name: >-
       places/ChIJpzwGTufb3IAR2l10U1fneP8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIenVDY3NRRRAB
@@ -398,5 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Familiar Thai fare shares the menu with specialty sushi rolls served in cozy,
+  minimalist digs.
 
 ---

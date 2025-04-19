@@ -5,6 +5,11 @@ permalink: /florida/wilton-manors/sushi-song-gaysha-wilton-manors.html
 stateAbbr: FL
 stateName: Florida
 cityName: Wilton Manors
+seo:
+  name: "Sushi Song - Gaysha Wilton Manors"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Wilton Manors, Florida? Check out Sushi Song - Gaysha Wilton Manors for a delightful Japanese dining experience. Enjoy a variety of sush..."
 place_id: ChIJCyZVu54B2YgRMzG9pivbHp8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

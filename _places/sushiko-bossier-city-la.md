@@ -5,6 +5,11 @@ permalink: /louisiana/bossier-city/sushiko.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Bossier City
+seo:
+  name: "Sushiko"
+  type: Restaurant
+  links: https://www.sushikoloveorder.com/
+description: "Looking for sushi in Bossier City, Louisiana? Check out Sushiko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJrwUGTdIyMYYRhSQE7ILcVEk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 758
 website: https://www.sushikoloveorder.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

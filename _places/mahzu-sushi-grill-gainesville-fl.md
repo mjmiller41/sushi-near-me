@@ -5,6 +5,11 @@ permalink: /florida/gainesville/mahzu-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Gainesville
+seo:
+  name: "Mahzu Sushi & Grill"
+  type: Restaurant
+  links: https://mahzusushi.com/
+description: "Relaxed, modern outpost for Japanese grilled fare, sushi, creative rolls & sake bombs. Looking for sushi in Gainesville, Florida? Check out Mahzu Sushi & Gri..."
 place_id: ChIJQ7mHV9ui6IgRhfIJHwKCyaY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 753
 website: https://mahzusushi.com/
-description: >-
-  Relaxed, modern outpost for Japanese grilled fare, sushi, creative rolls &
-  sake bombs.
 reviews:
   - name: >-
       places/ChIJQ7mHV9ui6IgRhfIJHwKCyaY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBeWNYNVZREAE
@@ -376,5 +378,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed, modern outpost for Japanese grilled fare, sushi, creative rolls &
+  sake bombs.
 
 ---

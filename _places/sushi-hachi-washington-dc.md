@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/sushi-hachi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Sushi Hachi"
+  type: Restaurant
+  links: http://www.sushihachidc.com/
+description: "Clever maki, unique cocktails & imported wines in a stylish, brick-lined space with a relaxed vibe. Looking for sushi in Washington, District of Columbia? Ch..."
 place_id: ChIJ-QXZ3My5t4kRVtWtEPPtsv4
 photos:
   - >-
@@ -69,9 +74,6 @@ price_range: null
 rating: '4.4'
 rating_count: 627
 website: http://www.sushihachidc.com/
-description: >-
-  Clever maki, unique cocktails & imported wines in a stylish, brick-lined space
-  with a relaxed vibe.
 reviews:
   - ChZDSUhNMG9nS0VJQ0FnSUNfdi1uMkxREAE
   - ChZDSUhNMG9nS0VJQ0FnSURmcVpYVkhBEAE
@@ -108,5 +110,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Clever maki, unique cocktails & imported wines in a stylish, brick-lined space
+  with a relaxed vibe.
 
 ---

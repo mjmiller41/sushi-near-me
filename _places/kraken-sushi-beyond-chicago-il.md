@@ -5,6 +5,11 @@ permalink: /illinois/chicago/kraken-sushi-beyond.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Kraken Sushi & Beyond"
+  type: Restaurant
+  links: http://www.krakenchicago.com/
+description: "Looking for sushi in Chicago, Illinois? Check out Kraken Sushi & Beyond for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJVRT-WyDTD4gR33tFaYfPBiA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 364
 website: http://www.krakenchicago.com/
-description: null
 reviews:
   - name: >-
       places/ChIJVRT-WyDTD4gR33tFaYfPBiA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbmJpZVVREAE
@@ -454,5 +458,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

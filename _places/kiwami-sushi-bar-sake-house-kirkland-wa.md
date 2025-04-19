@@ -5,6 +5,11 @@ permalink: /washington/kirkland/kiwami-sushi-bar-sake-house.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kirkland
+seo:
+  name: "KIWAMI Sushi Bar & Sake House"
+  type: Restaurant
+  links: http://kiwamisushi.com/
+description: "Looking for sushi in Kirkland, Washington? Check out KIWAMI Sushi Bar & Sake House for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJnS1Vft0SkFQRBrVP8FrrImI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 630
 website: http://kiwamisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

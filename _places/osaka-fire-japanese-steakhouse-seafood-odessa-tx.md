@@ -5,6 +5,11 @@ permalink: /texas/odessa/osaka-fire-japanese-steakhouse-seafood.html
 stateAbbr: TX
 stateName: Texas
 cityName: Odessa
+seo:
+  name: "Osaka Fire Japanese Steakhouse & Seafood"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Odessa, Texas? Check out Osaka Fire Japanese Steakhouse & Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJ6W8qZr3P-4YR7t0DDBU8iGA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

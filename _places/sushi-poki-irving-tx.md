@@ -5,6 +5,11 @@ permalink: /texas/irving/sushi-poki.html
 stateAbbr: TX
 stateName: Texas
 cityName: Irving
+seo:
+  name: "Sushi Poki"
+  type: Restaurant
+  links: http://www.sushipoki.com/
+description: "Looking for sushi in Irving, Texas? Check out Sushi Poki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJa85UyoQpTIYRq-mAT2UaJAQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 231
 website: http://www.sushipoki.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

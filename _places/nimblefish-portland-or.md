@@ -5,6 +5,11 @@ permalink: /oregon/portland/nimblefish.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
+seo:
+  name: "Nimblefish"
+  type: Restaurant
+  links: http://www.nimblefishpdx.com/
+description: "Looking for sushi in Portland, Oregon? Check out Nimblefish for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJIXLSW5mglVQRwgzqGQl2BAM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 424
 website: http://www.nimblefishpdx.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

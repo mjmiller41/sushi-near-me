@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/gtown-sushi-poke.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Gtown Sushi & Poke"
+  type: Restaurant
+  links: https://gtownsushipoke.com/
+description: "Looking for sushi in Washington, District of Columbia? Check out Gtown Sushi & Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJ8_PX4oq3t4kRi7rXiXDKd64
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.9'
 rating_count: 96
 website: https://gtownsushipoke.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ8_PX4oq3t4kRi7rXiXDKd64/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3aUpPc2lnRRAB
@@ -394,5 +398,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

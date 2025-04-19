@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/zeppelin.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Zeppelin"
+  type: Restaurant
+  links: http://www.zeppelindc.com/
+description: "Sushi & grilled Japanese fare with sake & cocktails in a dramatic, contemporary space with karaoke. Looking for sushi in Washington, District of Columbia? Ch..."
 place_id: ChIJQ3uHUsO3t4kR86UVegudjP4
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://www.zeppelindc.com/
-description: >-
-  Sushi & grilled Japanese fare with sake & cocktails in a dramatic,
-  contemporary space with karaoke.
 reviews:
   - name: >-
       places/ChIJQ3uHUsO3t4kR86UVegudjP4/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3NU5TZUd3EAE
@@ -387,5 +389,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi & grilled Japanese fare with sake & cocktails in a dramatic,
+  contemporary space with karaoke.
 
 ---

@@ -5,6 +5,11 @@ permalink: /massachusetts/westfield/tobiko-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Westfield
+seo:
+  name: "Tobiko Sushi"
+  type: Restaurant
+  links: https://www.tobikowestfield.com/
+description: "Looking for sushi in Westfield, Massachusetts? Check out Tobiko Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJp8oUn-Af54kRM8mcOkyBeJA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.tobikowestfield.com/
-description: null
 reviews:
   - name: >-
       places/ChIJp8oUn-Af54kRM8mcOkyBeJA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN0lDeHBnRRAB
@@ -390,5 +394,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/la-mesa/banbu-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: La Mesa
+seo:
+  name: "Banbu Sushi Bar & Grill"
+  type: Restaurant
+  links: http://banbusushi.com/
+description: "Looking for sushi in La Mesa, California? Check out Banbu Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJtfW99w1X2YARVojvQPkHYi4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 1421
 website: http://banbusushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

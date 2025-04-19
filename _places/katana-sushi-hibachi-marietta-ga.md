@@ -5,6 +5,11 @@ permalink: /georgia/marietta/katana-sushi-hibachi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
+seo:
+  name: "Katana Sushi & Hibachi"
+  type: Restaurant
+  links: https://katanamarietta.com/
+description: "Looking for sushi in Marietta, Georgia? Check out Katana Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJfcOFRVIN9YgRaqEuBDVG3W4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 159
 website: https://katanamarietta.com/
-description: null
 reviews:
   - name: >-
       places/ChIJfcOFRVIN9YgRaqEuBDVG3W4/reviews/ChdDSUhNMG9nS0VJQ0FnTURBbjhEQV9nRRAB
@@ -468,5 +472,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

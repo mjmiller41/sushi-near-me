@@ -5,6 +5,11 @@ permalink: /california/san-diego/kyodai-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Kyodai Sushi"
+  type: Restaurant
+  links: https://www.sushikyodai.com/
+description: "Casual strip-mall restaurant offering traditional sushi rolls & standard Japanese dishes. Looking for sushi in San Diego, California? Check out Kyodai Sushi ..."
 place_id: ChIJaSFC2AD624ARrII8rgVXb0Y
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 218
 website: https://www.sushikyodai.com/
-description: >-
-  Casual strip-mall restaurant offering traditional sushi rolls & standard
-  Japanese dishes.
 reviews:
   - name: >-
       places/ChIJaSFC2AD624ARrII8rgVXb0Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUREM3BIenFBRRAB
@@ -371,5 +373,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual strip-mall restaurant offering traditional sushi rolls & standard
+  Japanese dishes.
 
 ---

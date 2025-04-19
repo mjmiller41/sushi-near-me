@@ -5,6 +5,11 @@ permalink: /florida/fort-lauderdale/sushi-rock-las-olas.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Lauderdale
+seo:
+  name: "Sushi Rock Las Olas"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Fort Lauderdale, Florida? Check out Sushi Rock Las Olas for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJgXYy7E4A2YgRa-WgawQ9v3g
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

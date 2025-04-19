@@ -5,6 +5,11 @@ permalink: /new-jersey/boonton/boonton-sushi-house.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Boonton
+seo:
+  name: "Boonton Sushi House"
+  type: Restaurant
+  links: http://www.sushiboonton.com/
+description: "Looking for sushi in Boonton, New Jersey? Check out Boonton Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJUf48n5wIw4kR-KBK3i1NzXE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 328
 website: http://www.sushiboonton.com/
-description: null
 reviews:
   - name: >-
       places/ChIJUf48n5wIw4kR-KBK3i1NzXE/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3emVpQVJnEAE
@@ -458,5 +462,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

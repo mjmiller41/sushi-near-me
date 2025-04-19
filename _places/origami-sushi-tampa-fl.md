@@ -5,6 +5,11 @@ permalink: /florida/tampa/origami-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
+seo:
+  name: "Origami Sushi"
+  type: Restaurant
+  links: https://www.origamisushirestaurant.com/#/
+description: "Bare-bones sushi outfit offering creative & traditional rolls, plus other Japanese eats. Looking for sushi in Tampa, Florida? Check out Origami Sushi for a d..."
 place_id: ChIJC3zJU9nDwogRwY_md-FwzSY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1112
 website: https://www.origamisushirestaurant.com/#/
-description: >-
-  Bare-bones sushi outfit offering creative & traditional rolls, plus other
-  Japanese eats.
 reviews:
   - name: >-
       places/ChIJC3zJU9nDwogRwY_md-FwzSY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBdGVPWFpBEAE
@@ -354,5 +356,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Bare-bones sushi outfit offering creative & traditional rolls, plus other
+  Japanese eats.
 
 ---

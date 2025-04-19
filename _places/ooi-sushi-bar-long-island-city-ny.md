@@ -5,6 +5,11 @@ permalink: /new-york/long-island-city/ooi-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Long Island City
+seo:
+  name: "Ooi Sushi & Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Long Island City, New York? Check out Ooi Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJrZS3dCRZwokRaYYi83Rsiow
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

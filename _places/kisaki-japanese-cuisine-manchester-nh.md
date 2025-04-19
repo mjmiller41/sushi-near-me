@@ -5,6 +5,11 @@ permalink: /new-hampshire/manchester/kisaki-japanese-cuisine.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Manchester
+seo:
+  name: "Kisaki Japanese Cuisine"
+  type: Restaurant
+  links: http://kisakisushi.com/
+description: "Sushi, sashimi, rolls & classic Japanese cooked fare offered in à la carte & unlimited options. Looking for sushi in Manchester, New Hampshire? Check out Kis..."
 place_id: ChIJLzHCfNhO4okRaZDccfvRAJ8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 1016
 website: http://kisakisushi.com/
-description: >-
-  Sushi, sashimi, rolls & classic Japanese cooked fare offered in à la carte &
-  unlimited options.
 reviews:
   - name: >-
       places/ChIJLzHCfNhO4okRaZDccfvRAJ8/reviews/ChZDSUhNMG9nS0VJQ0FnSURQNlpfYWJ3EAE
@@ -434,5 +436,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, sashimi, rolls & classic Japanese cooked fare offered in à la carte &
+  unlimited options.
 
 ---

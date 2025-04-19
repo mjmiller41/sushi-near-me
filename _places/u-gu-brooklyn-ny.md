@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/u-gu.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "U-gu"
+  type: Restaurant
+  links: https://www.uguny.com/
+description: "Looking for sushi in Brooklyn, New York? Check out U-gu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
 place_id: ChIJm3h0jMBbwokRvvwglVp_ukQ
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: '4.4'
 rating_count: 226
 website: https://www.uguny.com/
-description: null
 reviews:
   - name: >-
       places/ChIJm3h0jMBbwokRvvwglVp_ukQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dzlEWk1REAE
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: null
 
 ---

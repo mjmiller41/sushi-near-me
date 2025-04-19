@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/waraji-japanese-restaurant.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Waraji Japanese Restaurant"
+  type: Restaurant
+  links: http://www.warajijapaneserestaurant.com/
+description: "Looking for sushi in Raleigh, North Carolina? Check out Waraji Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJkWDhFP32rIkRlpLTdf1yVNI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1776
 website: http://www.warajijapaneserestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

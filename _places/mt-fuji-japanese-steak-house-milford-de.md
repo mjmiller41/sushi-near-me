@@ -5,6 +5,11 @@ permalink: /delaware/milford/mt-fuji-japanese-steak-house.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Milford
+seo:
+  name: "Mt. Fuji Japanese Steak House"
+  type: Restaurant
+  links: http://www.fuji19963.com/
+description: "Looking for sushi in Milford, Delaware? Check out Mt. Fuji Japanese Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJY55Uk4eZuIkRUWSEv5G-rzY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 416
 website: http://www.fuji19963.com/
-description: null
 reviews:
   - name: >-
       places/ChIJY55Uk4eZuIkRUWSEv5G-rzY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRa195OFN3EAE
@@ -442,5 +446,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

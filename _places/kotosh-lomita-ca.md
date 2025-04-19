@@ -5,6 +5,11 @@ permalink: /california/lomita/kotosh.html
 stateAbbr: CA
 stateName: California
 cityName: Lomita
+seo:
+  name: "Kotosh"
+  type: Restaurant
+  links: http://kotoshrestaurant.com/
+description: "Looking for sushi in Lomita, California? Check out Kotosh for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJvYsq-vRK3YARv0sFTzZX6Gc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 614
 website: http://kotoshrestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

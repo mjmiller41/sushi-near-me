@@ -5,6 +5,11 @@ permalink: /california/santa-monica/mon-roll-house-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
+seo:
+  name: "Mon Roll House Sushi"
+  type: Restaurant
+  links: https://order.online/business/mon-roll-house-13588879
+description: "Looking for sushi in Santa Monica, California? Check out Mon Roll House Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJk77W7tGkwoARhDXtWiGXtJg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 405
 website: https://order.online/business/mon-roll-house-13588879
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

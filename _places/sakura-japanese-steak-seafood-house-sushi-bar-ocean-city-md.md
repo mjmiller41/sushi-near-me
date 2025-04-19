@@ -5,6 +5,11 @@ permalink: /maryland/ocean-city/sakura-japanese-steak-seafood-house-sushi-bar.ht
 stateAbbr: MD
 stateName: Maryland
 cityName: Ocean City
+seo:
+  name: "Sakura Japanese Steak, Seafood House & Sushi Bar"
+  type: Restaurant
+  links: http://www.sakurasteakhouse.com/
+description: "Looking for sushi in Ocean City, Maryland? Check out Sakura Japanese Steak, Seafood House & Sushi Bar for a delightful Japanese dining experience. Enjoy a va..."
 place_id: ChIJZ6PwtkwouYkRTFADvmmNIO4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 756
 website: http://www.sakurasteakhouse.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

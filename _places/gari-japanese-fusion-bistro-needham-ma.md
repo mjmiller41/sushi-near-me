@@ -5,6 +5,11 @@ permalink: /massachusetts/needham/gari-japanese-fusion-bistro.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Needham
+seo:
+  name: "Gari Japanese Fusion Bistro"
+  type: Restaurant
+  links: http://www.garifusion.com/
+description: "Modern Japanese & Asian fusion fare & sushi, plus a full bar, in stylish strip-mall digs. Looking for sushi in Needham, Massachusetts? Check out Gari Japanes..."
 place_id: ChIJPWDoq6eB44kRt8_GH0Cuofo
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 140
 website: http://www.garifusion.com/
-description: >-
-  Modern Japanese & Asian fusion fare & sushi, plus a full bar, in stylish
-  strip-mall digs.
 reviews:
   - name: >-
       places/ChIJPWDoq6eB44kRt8_GH0Cuofo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQteTdPWGlRRRAB
@@ -379,5 +381,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern Japanese & Asian fusion fare & sushi, plus a full bar, in stylish
+  strip-mall digs.
 
 ---

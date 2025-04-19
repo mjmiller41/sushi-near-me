@@ -5,6 +5,11 @@ permalink: /new-york/jamaica/ganda-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Jamaica
+seo:
+  name: "Ganda Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Jamaica, New York? Check out Ganda Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJrWNxygBhwokRWJ-_l-Dnf0s
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 188
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

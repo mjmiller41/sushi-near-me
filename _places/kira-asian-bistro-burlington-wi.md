@@ -5,6 +5,11 @@ permalink: /wisconsin/burlington/kira-asian-bistro.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Burlington
+seo:
+  name: "Kira Asian Bistro"
+  type: Restaurant
+  links: http://kiraasianburlington.com/
+description: "Looking for sushi in Burlington, Wisconsin? Check out Kira Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJua3o0emEBYgRFxBYQG4gHyU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 449
 website: http://kiraasianburlington.com/
-description: null
 reviews:
   - name: >-
       places/ChIJua3o0emEBYgRFxBYQG4gHyU/reviews/ChdDSUhNMG9nS0VJQ0FnTURndm9QVDdRRRAB
@@ -384,5 +388,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /north-carolina/high-point/yumi-sushi-tea-sake.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: High Point
+seo:
+  name: "YUMI 優美 sushi•tea•sake"
+  type: Restaurant
+  links: http://www.yumisushihp.com/
+description: "Looking for sushi in High Point, North Carolina? Check out YUMI 優美 sushi•tea•sake for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJTdeeYFgJU4gRfEZY36iByn0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 175
 website: http://www.yumisushihp.com/
-description: null
 reviews:
   - name: >-
       places/ChIJTdeeYFgJU4gRfEZY36iByn0/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaXUzc3pRRRAB
@@ -384,5 +388,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

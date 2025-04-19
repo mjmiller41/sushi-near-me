@@ -5,6 +5,11 @@ permalink: /virginia/chesapeake/inaka-sushi-and-hibachi-chesapeake.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesapeake
+seo:
+  name: "Inaka Sushi and Hibachi Chesapeake"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Chesapeake, Virginia? Check out Inaka Sushi and Hibachi Chesapeake for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJOypLh9O9uokR8Tp9SYZj9XY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

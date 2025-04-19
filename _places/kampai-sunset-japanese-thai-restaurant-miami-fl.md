@@ -5,6 +5,11 @@ permalink: /florida/miami/kampai-sunset-japanese-thai-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
+seo:
+  name: "Kampai Sunset Japanese & Thai Restaurant"
+  type: Restaurant
+  links: http://kampai-sunset.com/
+description: "Unfussy, local sushi joint serving a mix of Japanese & Thai standards for dining in or delivery. Looking for sushi in Miami, Florida? Check out Kampai Sunset..."
 place_id: ChIJt7QyeW7H2YgR5zjU9aBU23k
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 727
 website: http://kampai-sunset.com/
-description: >-
-  Unfussy, local sushi joint serving a mix of Japanese & Thai standards for
-  dining in or delivery.
 reviews:
   - name: >-
       places/ChIJt7QyeW7H2YgR5zjU9aBU23k/reviews/ChdDSUhNMG9nS0VJQ0FnSURKbktiQzNBRRAB
@@ -412,5 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Unfussy, local sushi joint serving a mix of Japanese & Thai standards for
+  dining in or delivery.
 
 ---

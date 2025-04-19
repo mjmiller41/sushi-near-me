@@ -5,6 +5,11 @@ permalink: /iowa/west-des-moines/sakura-sushi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: West Des Moines
+seo:
+  name: "Sakura Sushi"
+  type: Restaurant
+  links: http://www.sakurasushiwdm.com/
+description: "Japanese & Asian fusion dishes presented with decorative flair in a small storefront. Looking for sushi in West Des Moines, Iowa? Check out Sakura Sushi for ..."
 place_id: ChIJZfvwEc-f7ocRGaTIn13zIec
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 641
 website: http://www.sakurasushiwdm.com/
-description: >-
-  Japanese & Asian fusion dishes presented with decorative flair in a small
-  storefront.
 reviews:
   - name: >-
       places/ChIJZfvwEc-f7ocRGaTIn13zIec/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbU9qcE93EAE
@@ -394,5 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese & Asian fusion dishes presented with decorative flair in a small
+  storefront.
 
 ---

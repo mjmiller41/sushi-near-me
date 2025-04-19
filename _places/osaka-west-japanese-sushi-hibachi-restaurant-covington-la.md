@@ -5,6 +5,11 @@ permalink: /louisiana/covington/osaka-west-japanese-sushi-hibachi-restaurant.htm
 stateAbbr: LA
 stateName: Louisiana
 cityName: Covington
+seo:
+  name: "Osaka West | Japanese Sushi & Hibachi Restaurant"
+  type: Restaurant
+  links: https://www.osakawestla.com/osakawestla
+description: "Looking for sushi in Covington, Louisiana? Check out Osaka West | Japanese Sushi & Hibachi Restaurant for a delightful Japanese dining experience. Enjoy a va..."
 place_id: ChIJX4_B1QVcJ4YRRKAGmfl4BP8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '3.9'
 rating_count: 546
 website: https://www.osakawestla.com/osakawestla
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

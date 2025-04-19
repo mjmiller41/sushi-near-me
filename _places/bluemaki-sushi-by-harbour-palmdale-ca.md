@@ -5,6 +5,11 @@ permalink: /california/palmdale/bluemaki-sushi-by-harbour.html
 stateAbbr: CA
 stateName: California
 cityName: Palmdale
+seo:
+  name: "bluemaki sushi by HARBOUR"
+  type: Restaurant
+  links: https://bluemakisushi.com/
+description: "Looking for sushi in Palmdale, California? Check out bluemaki sushi by HARBOUR for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJZ4saLEJZwoAR6kpTRc7U0v0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 219
 website: https://bluemakisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJZ4saLEJZwoAR6kpTRc7U0v0/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2dWZUaEl3EAE
@@ -387,5 +391,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /illinois/chicago/mako.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Mako"
+  type: Restaurant
+  links: http://www.makochicago.com/
+description: "Elaborate, seasonal sushi presentations make up the multiple courses at this sleek, upscale eatery. Looking for sushi in Chicago, Illinois? Check out Mako fo..."
 place_id: ChIJDdy6PActDogRtHVYT64x2sY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 301
 website: http://www.makochicago.com/
-description: >-
-  Elaborate, seasonal sushi presentations make up the multiple courses at this
-  sleek, upscale eatery.
 reviews:
   - name: >-
       places/ChIJDdy6PActDogRtHVYT64x2sY/reviews/ChdDSUhNMG9nS0VJQ0FnSURQcTlfUjdBRRAB
@@ -480,5 +482,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Elaborate, seasonal sushi presentations make up the multiple courses at this
+  sleek, upscale eatery.
 
 ---

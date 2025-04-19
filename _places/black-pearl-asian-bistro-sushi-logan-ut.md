@@ -5,6 +5,11 @@ permalink: /utah/logan/black-pearl-asian-bistro-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Logan
+seo:
+  name: "Black Pearl Asian Bistro & Sushi"
+  type: Restaurant
+  links: https://www.blackpearl84341.com/
+description: "Looking for sushi in Logan, Utah? Check out Black Pearl Asian Bistro & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJQezNG5h9VIcRrYbZeXD6ZVw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 855
 website: https://www.blackpearl84341.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

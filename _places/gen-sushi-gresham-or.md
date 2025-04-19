@@ -5,6 +5,11 @@ permalink: /oregon/gresham/gen-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Gresham
+seo:
+  name: "Gen Sushi"
+  type: Restaurant
+  links: https://www.gensushipdx.com/
+description: "Looking for sushi in Gresham, Oregon? Check out Gen Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJHfhIe_yZlVQRyPkBPf8_PdU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 254
 website: https://www.gensushipdx.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

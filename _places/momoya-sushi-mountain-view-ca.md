@@ -5,6 +5,11 @@ permalink: /california/mountain-view/momoya-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Mountain View
+seo:
+  name: "Momoya Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Mountain View, California? Check out Momoya Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJJQZADky3j4ARmCVRWUYxALw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 252
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

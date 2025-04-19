@@ -5,6 +5,11 @@ permalink: /vermont/burlington/asiana-house.html
 stateAbbr: VT
 stateName: Vermont
 cityName: Burlington
+seo:
+  name: "Asiana House"
+  type: Restaurant
+  links: https://www.asianahouse.net/
+description: "Looking for sushi in Burlington, Vermont? Check out Asiana House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJtbUahPZ6ykwR1m0suhQ2CvU
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 180
 website: https://www.asianahouse.net/
-description: null
 reviews:
   - name: >-
       places/ChIJtbUahPZ6ykwR1m0suhQ2CvU/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMGNxLUdnEAE
@@ -355,5 +359,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

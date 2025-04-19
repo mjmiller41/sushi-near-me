@@ -5,6 +5,11 @@ permalink: /new-york/woodbury/moca-asian-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Woodbury
+seo:
+  name: "MoCA Asian Bistro"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Woodbury, New York? Check out MoCA Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJVUCC_g2CwokReIdOikc17Iw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

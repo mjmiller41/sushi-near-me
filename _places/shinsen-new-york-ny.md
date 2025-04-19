@@ -5,6 +5,11 @@ permalink: /new-york/new-york/shinsen.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Shinsen"
+  type: Restaurant
+  links: http://boweryshinsen.com/
+description: "Minimalist design Japanese restaurant, sushi bar & sake lounge in Chinatown. Looking for sushi in New York, New York? Check out Shinsen for a delightful Japa..."
 place_id: ChIJ__8OsCdawokRLgMZI2Ja0Mw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 316
 website: http://boweryshinsen.com/
-description: Minimalist design Japanese restaurant, sushi bar & sake lounge in Chinatown.
 reviews:
   - name: >-
       places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndVBHNThRRRAB
@@ -420,5 +424,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: Minimalist design Japanese restaurant, sushi bar & sake lounge in Chinatown.
 
 ---

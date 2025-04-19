@@ -5,6 +5,11 @@ permalink: /indiana/jasper/ohana-sushi-grill.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Jasper
+seo:
+  name: "Ohana Sushi & Grill"
+  type: Restaurant
+  links: https://www.ohanasushiandgrill.com/
+description: "Looking for sushi in Jasper, Indiana? Check out Ohana Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ0UHKnuNibogRhEfoTjl56EQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 546
 website: https://www.ohanasushiandgrill.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

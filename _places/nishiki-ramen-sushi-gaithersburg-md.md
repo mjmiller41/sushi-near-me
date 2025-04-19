@@ -5,6 +5,11 @@ permalink: /maryland/gaithersburg/nishiki-ramen-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
+seo:
+  name: "Nishiki Ramen & Sushi"
+  type: Restaurant
+  links: http://www.nishikiramenmd.com/
+description: "Looking for sushi in Gaithersburg, Maryland? Check out Nishiki Ramen & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJDRVcamsttokRJrY_JwkrjoY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 291
 website: http://www.nishikiramenmd.com/
-description: null
 reviews:
   - name: >-
       places/ChIJDRVcamsttokRJrY_JwkrjoY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRa2V1bnlRRRAB
@@ -362,5 +366,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

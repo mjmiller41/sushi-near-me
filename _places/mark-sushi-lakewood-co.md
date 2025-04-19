@@ -5,6 +5,11 @@ permalink: /colorado/lakewood/mark-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Lakewood
+seo:
+  name: "MARK SUSHI"
+  type: Restaurant
+  links: https://order.online/business/mark-sushi-13082355
+description: "Looking for sushi in Lakewood, Colorado? Check out MARK SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJn6uSXgCFa4cRTFXq2IcgAgA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 75
 website: https://order.online/business/mark-sushi-13082355
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

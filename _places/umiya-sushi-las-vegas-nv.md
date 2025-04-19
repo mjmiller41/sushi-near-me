@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/umiya-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "Umiya Sushi"
+  type: Restaurant
+  links: http://umiyalv.com/
+description: "Looking for sushi in Las Vegas, Nevada? Check out Umiya Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJ1RtP7ZfGyIAR1sccqiX79Vo
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 2559
 website: http://umiyalv.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

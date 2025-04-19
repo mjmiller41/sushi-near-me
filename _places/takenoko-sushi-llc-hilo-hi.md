@@ -5,6 +5,11 @@ permalink: /hawaii/hilo/takenoko-sushi-llc.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Hilo
+seo:
+  name: "Takenoko Sushi Llc"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Hilo, Hawaii? Check out Takenoko Sushi Llc for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJB--GNmZLUnkR9yLNQUWT9NM
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: '4.4'
 rating_count: 76
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

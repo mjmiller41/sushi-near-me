@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/sushi-nakazawa.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Sushi Nakazawa"
+  type: Restaurant
+  links: http://www.sushinakazawa.com/
+description: "Luxurious, Japanese omakase meals served in cozy, dark wood & gold surrounds, with a sushi counter. Looking for sushi in Washington, District of Columbia? Ch..."
 place_id: ChIJ-f__HJq3t4kRmvtJRiDzurk
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 0
 website: http://www.sushinakazawa.com/
-description: >-
-  Luxurious, Japanese omakase meals served in cozy, dark wood & gold surrounds,
-  with a sushi counter.
 reviews:
   - name: >-
       places/ChIJ-f__HJq3t4kRmvtJRiDzurk/reviews/ChZDSUhNMG9nS0VJQ0FnTURJaXVMNmJBEAE
@@ -492,5 +494,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
+summary: >-
+  Luxurious, Japanese omakase meals served in cozy, dark wood & gold surrounds,
+  with a sushi counter.
 
 ---

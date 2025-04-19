@@ -5,6 +5,11 @@ permalink: /nevada/stateline/sushi-pier-tahoe.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Stateline
+seo:
+  name: "Sushi Pier Tahoe"
+  type: Restaurant
+  links: http://tahoesushipier.com/
+description: "Looking for sushi in Stateline, Nevada? Check out Sushi Pier Tahoe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJaR_MrYWamYARGlO6c0kaV1o
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.0'
 rating_count: 1413
 website: http://tahoesushipier.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

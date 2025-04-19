@@ -5,6 +5,11 @@ permalink: /washington/spokane/umi-kitchen-and-sushi-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane
+seo:
+  name: "Umi Kitchen and Sushi Bar"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Spokane, Washington? Check out Umi Kitchen and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJof4Aa1wYnlQRNb2W2W_ROkY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

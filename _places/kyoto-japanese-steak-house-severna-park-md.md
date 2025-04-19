@@ -5,6 +5,11 @@ permalink: /maryland/severna-park/kyoto-japanese-steak-house.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Severna Park
+seo:
+  name: "Kyoto Japanese Steak House"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Severna Park, Maryland? Check out Kyoto Japanese Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJCaajaH_5t4kRDGYAv2QKIzg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

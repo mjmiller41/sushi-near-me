@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/ako-by-kenaki.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "AKO by KENAKI"
+  type: Restaurant
+  links: https://www.theroostsedc.com/akobykenaki
+description: "Looking for sushi in Washington, District of Columbia? Check out AKO by KENAKI for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJCUbHLAq5t4kRndasLznj1qE
 photos:
   - >-
@@ -68,7 +73,6 @@ price_range: $30 &mdash; 50
 rating: '4.9'
 rating_count: 24
 website: https://www.theroostsedc.com/akobykenaki
-description: null
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNuM09Yai1nRRAB
   - ChZDSUhNMG9nS0VJQ0FnSUN2bmJiX2ZREAE
@@ -101,5 +105,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

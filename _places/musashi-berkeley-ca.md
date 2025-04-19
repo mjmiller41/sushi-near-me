@@ -5,6 +5,11 @@ permalink: /california/berkeley/musashi.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
+seo:
+  name: "Musashi"
+  type: Restaurant
+  links: https://www.musashiofberkeley.com/index.html
+description: "Looking for sushi in Berkeley, California? Check out Musashi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJ2YNPYYJ-hYARcDk4kYAivYY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 327
 website: https://www.musashiofberkeley.com/index.html
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

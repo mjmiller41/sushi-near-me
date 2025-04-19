@@ -5,6 +5,11 @@ permalink: /texas/lewisville/kanzi-sushi-hibachi-restaurant.html
 stateAbbr: TX
 stateName: Texas
 cityName: Lewisville
+seo:
+  name: "KANZI | Sushi & Hibachi Restaurant"
+  type: Restaurant
+  links: https://kanzisushiandhibachi.com/
+description: "Looking for sushi in Lewisville, Texas? Check out KANZI | Sushi & Hibachi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJ5TAZmxIlTIYRJME_57l5vyg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 468
 website: https://kanzisushiandhibachi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

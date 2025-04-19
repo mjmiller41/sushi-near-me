@@ -5,6 +5,11 @@ permalink: /florida/tallahassee/royal-thai-and-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tallahassee
+seo:
+  name: "Royal Thai and Sushi"
+  type: Restaurant
+  links: https://royalthaisushi.com/
+description: "Low-key, easygoing eatery offering Asian fusion cuisine including Thai & Japanese options. Looking for sushi in Tallahassee, Florida? Check out Royal Thai an..."
 place_id: ChIJZapT5wD17IgRlz5QSwftJDo
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 360
 website: https://royalthaisushi.com/
-description: >-
-  Low-key, easygoing eatery offering Asian fusion cuisine including Thai &
-  Japanese options.
 reviews:
   - name: >-
       places/ChIJZapT5wD17IgRlz5QSwftJDo/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bTZuNlZ3EAE
@@ -394,5 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Low-key, easygoing eatery offering Asian fusion cuisine including Thai &
+  Japanese options.
 
 ---

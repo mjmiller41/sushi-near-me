@@ -5,6 +5,11 @@ permalink: /california/lake-elsinore/hana-sushi-canyon-hills.html
 stateAbbr: CA
 stateName: California
 cityName: Lake Elsinore
+seo:
+  name: "Hana Sushi Canyon Hills"
+  type: Restaurant
+  links: http://hanasushicanyonhills.com/
+description: "Looking for sushi in Lake Elsinore, California? Check out Hana Sushi Canyon Hills for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJ1QkJtnSc3IAREhx5o6Hw7Oo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 354
 website: http://hanasushicanyonhills.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ1QkJtnSc3IAREhx5o6Hw7Oo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRei1HWEZnEAE
@@ -374,5 +378,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: null
 
 ---

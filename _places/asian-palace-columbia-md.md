@@ -5,6 +5,11 @@ permalink: /maryland/columbia/asian-palace.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Columbia
+seo:
+  name: "Asian Palace"
+  type: Restaurant
+  links: https://www.asianpalacecolumbiamd.com/
+description: "Looking for sushi in Columbia, Maryland? Check out Asian Palace for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJhUpsshHft4kRcYO6scARUA4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 346
 website: https://www.asianpalacecolumbiamd.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

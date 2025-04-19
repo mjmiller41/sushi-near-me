@@ -5,6 +5,11 @@ permalink: /louisiana/new-orleans/royal-sushi-bar.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: New Orleans
+seo:
+  name: "Royal Sushi & Bar"
+  type: Restaurant
+  links: http://www.royalsushinola.com/
+description: "Looking for sushi in New Orleans, Louisiana? Check out Royal Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJExCguxmmIIYR7r_EsdB-wnc
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 895
 website: http://www.royalsushinola.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

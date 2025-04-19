@@ -5,6 +5,11 @@ permalink: /new-mexico/santa-fe/masa-sushi.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Santa Fe
+seo:
+  name: "Masa Sushi"
+  type: Restaurant
+  links: http://www.masasushisantafe.com/
+description: "Looking for sushi in Santa Fe, New Mexico? Check out Masa Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJxT8mnhJQGIcRTB4ECsEDQbg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 236
 website: http://www.masasushisantafe.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

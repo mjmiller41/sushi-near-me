@@ -5,6 +5,11 @@ permalink: /kansas/overland-park/hokibar.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Overland Park
+seo:
+  name: "Hokibar"
+  type: Restaurant
+  links: https://www.hokibarop.com/
+description: "Looking for sushi in Overland Park, Kansas? Check out Hokibar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJfx3HcbjBwIcRRK_O9UC1CeQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 129
 website: https://www.hokibarop.com/
-description: null
 reviews:
   - name: >-
       places/ChIJfx3HcbjBwIcRRK_O9UC1CeQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNReEl6cWV3EAE
@@ -364,5 +368,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

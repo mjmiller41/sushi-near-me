@@ -5,6 +5,11 @@ permalink: /kansas/lawrence/moriki-sushi.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Lawrence
+seo:
+  name: "Moriki Sushi"
+  type: Restaurant
+  links: http://www.morikisushi.com/
+description: "Looking for sushi in Lawrence, Kansas? Check out Moriki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJzRQDgBlnv4cR3NSrnVeknhM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.9'
 rating_count: 192
 website: http://www.morikisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJzRQDgBlnv4cR3NSrnVeknhM/reviews/ChZDSUhNMG9nS0VJQ0FnTURRMC1mU0lnEAE
@@ -371,5 +375,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /pennsylvania/philadelphia/to-kai-sushi-hibachi-steakhouse-and-bar.ht
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
+seo:
+  name: "To-Kai Sushi, Hibachi Steakhouse and Bar"
+  type: Restaurant
+  links: https://to-kaipa.com/
+description: "Japanese place with sushi bar that entertains diners with a chef show at the hibachi grill. Looking for sushi in Philadelphia, Pennsylvania? Check out To-Kai..."
 place_id: ChIJGRoqjcCzxokRGA-J3ORwNqk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1229
 website: https://to-kaipa.com/
-description: >-
-  Japanese place with sushi bar that entertains diners with a chef show at the
-  hibachi grill.
 reviews:
   - name: >-
       places/ChIJGRoqjcCzxokRGA-J3ORwNqk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRM0lHNkRnEAE
@@ -370,5 +372,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese place with sushi bar that entertains diners with a chef show at the
+  hibachi grill.
 
 ---

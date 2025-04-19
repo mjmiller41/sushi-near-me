@@ -5,6 +5,11 @@ permalink: /california/san-diego/shino-sushi-kappo.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Shino Sushi + Kappo"
+  type: Restaurant
+  links: https://www.facebook.com/people/Shino-Sushi/100041554766846/
+description: "Laid-back Japanese eatery serving sushi & rolls in simple, contemporary surrounds. Looking for sushi in San Diego, California? Check out Shino Sushi + Kappo ..."
 place_id: ChIJeSeoV6xU2YARSJzqWsZOSvU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 453
 website: https://www.facebook.com/people/Shino-Sushi/100041554766846/
-description: >-
-  Laid-back Japanese eatery serving sushi & rolls in simple, contemporary
-  surrounds.
 reviews:
   - name: >-
       places/ChIJeSeoV6xU2YARSJzqWsZOSvU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdVAtWnZ3RRAB
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Laid-back Japanese eatery serving sushi & rolls in simple, contemporary
+  surrounds.
 
 ---

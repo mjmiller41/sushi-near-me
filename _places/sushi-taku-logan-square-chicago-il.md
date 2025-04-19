@@ -5,6 +5,11 @@ permalink: /illinois/chicago/sushi-taku-logan-square.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Sushi Taku-Logan Square"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Chicago, Illinois? Check out Sushi Taku-Logan Square for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJ70lfDSbTD4gRNSeVe1Ubyac
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

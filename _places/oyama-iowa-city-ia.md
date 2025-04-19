@@ -5,6 +5,11 @@ permalink: /iowa/iowa-city/oyama.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Iowa City
+seo:
+  name: "Oyama"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Iowa City, Iowa? Check out Oyama for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJgxgpNW5q5IcRujUJ_l-7b4k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

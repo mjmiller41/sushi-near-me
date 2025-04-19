@@ -5,6 +5,11 @@ permalink: /washington/seattle/momiji-south-lake-union.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Momiji South Lake Union"
+  type: Restaurant
+  links: http://www.momijislu.com/
+description: "Looking for sushi in Seattle, Washington? Check out Momiji South Lake Union for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ4RRLcFUVkFQRv3D3JV4bwPE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 684
 website: http://www.momijislu.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

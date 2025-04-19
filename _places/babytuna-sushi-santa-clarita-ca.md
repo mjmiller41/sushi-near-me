@@ -5,6 +5,11 @@ permalink: /california/santa-clarita/babytuna-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Clarita
+seo:
+  name: "BABYTUNA Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Santa Clarita, California? Check out BABYTUNA Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJ7Zr1v8B9woARJxBbRx5E_wg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

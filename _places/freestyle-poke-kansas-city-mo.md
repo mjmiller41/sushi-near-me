@@ -5,6 +5,11 @@ permalink: /missouri/kansas-city/freestyle-poke.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
+seo:
+  name: "Freestyle Poke"
+  type: Restaurant
+  links: http://www.freestylepoke.com/
+description: "Looking for sushi in Kansas City, Missouri? Check out Freestyle Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJve-_HFzxwIcR3CGnzgTgLv8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 778
 website: http://www.freestylepoke.com/
-description: null
 reviews:
   - name: >-
       places/ChIJve-_HFzxwIcR3CGnzgTgLv8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRajQtZFhBEAE
@@ -411,5 +415,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

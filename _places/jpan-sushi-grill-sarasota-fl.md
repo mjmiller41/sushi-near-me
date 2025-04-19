@@ -5,6 +5,11 @@ permalink: /florida/sarasota/jpan-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Sarasota
+seo:
+  name: "Jpan Sushi & Grill"
+  type: Restaurant
+  links: https://www.jpanrestaurant.com/
+description: "Looking for sushi in Sarasota, Florida? Check out Jpan Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJh_eeTtw4w4gR1Ptck7apB8w
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1011
 website: https://www.jpanrestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

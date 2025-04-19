@@ -5,6 +5,11 @@ permalink: /virginia/blacksburg/green-s-grill-sushi-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Blacksburg
+seo:
+  name: "Green's Grill & Sushi Bar"
+  type: Restaurant
+  links: https://www.greensgrillsushibar.com/
+description: "Casual eatery serves eclectic offerings including Japanese, Mediterranean, Indian & American dishes. Looking for sushi in Blacksburg, Virginia? Check out Gre..."
 place_id: ChIJnTvHm3SVTYgRmbYn6HGBGXk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1053
 website: https://www.greensgrillsushibar.com/
-description: >-
-  Casual eatery serves eclectic offerings including Japanese, Mediterranean,
-  Indian & American dishes.
 reviews:
   - name: >-
       places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3c0wzOXR3RRAB
@@ -345,5 +347,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual eatery serves eclectic offerings including Japanese, Mediterranean,
+  Indian & American dishes.
 
 ---

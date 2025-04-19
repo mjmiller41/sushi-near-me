@@ -5,6 +5,11 @@ permalink: /georgia/midland/yamazaki-sushi-and-hibachi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Midland
+seo:
+  name: "Yamazaki Sushi and Hibachi"
+  type: Restaurant
+  links: https://www.yamazakisushiandhibachi.com/
+description: "Looking for sushi in Midland, Georgia? Check out Yamazaki Sushi and Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ62RwrhA084gRr-cm_VuLAVg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 297
 website: https://www.yamazakisushiandhibachi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-jersey/cranford/mr-bin-sushi-grill.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Cranford
+seo:
+  name: "Mr. Bin Sushi & Grill"
+  type: Restaurant
+  links: http://www.mrbin123.com/
+description: "Japanese eatery serving sushi, udon & classic entrees in a modest space with sidewalk seats. Looking for sushi in Cranford, New Jersey? Check out Mr. Bin Sus..."
 place_id: ChIJE6vXnSOyw4kRz0wmK7htk9w
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 389
 website: http://www.mrbin123.com/
-description: >-
-  Japanese eatery serving sushi, udon & classic entrees in a modest space with
-  sidewalk seats.
 reviews:
   - name: >-
       places/ChIJE6vXnSOyw4kRz0wmK7htk9w/reviews/ChRDSUhNMG9nS0VJQ0FnTURJOExNOBAB
@@ -374,5 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: >-
+  Japanese eatery serving sushi, udon & classic entrees in a modest space with
+  sidewalk seats.
 
 ---

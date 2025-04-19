@@ -5,6 +5,11 @@ permalink: /tennessee/nashville/hissho-sushi.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
+seo:
+  name: "Hissho Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Nashville, Tennessee? Check out Hissho Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJS1K3Q61uZIgR-E_0OZm1ikg
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

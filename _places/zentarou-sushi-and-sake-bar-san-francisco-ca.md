@@ -5,6 +5,11 @@ permalink: /california/san-francisco/zentarou-sushi-and-sake-bar.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Zentarou Sushi and Sake Bar"
+  type: Restaurant
+  links: https://www.zentarousf.com/
+description: "Looking for sushi in San Francisco, California? Check out Zentarou Sushi and Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJSf9KlMiHhYARjdG-GjPd-OE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.9'
 rating_count: 104
 website: https://www.zentarousf.com/
-description: null
 reviews:
   - name: >-
       places/ChIJSf9KlMiHhYARjdG-GjPd-OE/reviews/ChZDSUhNMG9nS0VJQ0FnSURfazV5Mlh3EAE
@@ -491,5 +495,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

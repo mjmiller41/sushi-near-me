@@ -5,6 +5,11 @@ permalink: /california/fresno/sake-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Fresno
+seo:
+  name: "Sake Japanese Cuisine"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Fresno, California? Check out Sake Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJRVPMAg1mlIAR-aXGQrryT9c
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 383
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJRVPMAg1mlIAR-aXGQrryT9c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIaGZxUVVBEAE
@@ -362,5 +366,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

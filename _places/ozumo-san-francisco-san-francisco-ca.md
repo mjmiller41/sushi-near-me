@@ -5,6 +5,11 @@ permalink: /california/san-francisco/ozumo-san-francisco.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Ozumo San Francisco"
+  type: Restaurant
+  links: https://www.ozumosanfrancisco.com/
+description: "Creative sushi, robata grilled items & an extensive sake menu in a contemporary space. Looking for sushi in San Francisco, California? Check out Ozumo San Fr..."
 place_id: ChIJJRHaqGWAhYARpXxUOdyMox0
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 1545
 website: https://www.ozumosanfrancisco.com/
-description: >-
-  Creative sushi, robata grilled items & an extensive sake menu in a
-  contemporary space.
 reviews:
   - name: >-
       places/ChIJJRHaqGWAhYARpXxUOdyMox0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfdkxTUWFREAE
@@ -406,5 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Creative sushi, robata grilled items & an extensive sake menu in a
+  contemporary space.
 
 ---

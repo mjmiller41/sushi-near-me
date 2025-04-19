@@ -5,6 +5,11 @@ permalink: /new-jersey/rutherford/yamada-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Rutherford
+seo:
+  name: "Yamada Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Rutherford, New Jersey? Check out Yamada Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJM_7yjr74wokRgnf-BP_VXSA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /ohio/cincinnati/kyoto-japanese-cuisine.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+seo:
+  name: "Kyoto Japanese Cuisine"
+  type: Restaurant
+  links: http://www.kyotosushibar.com/USA/
+description: "Looking for sushi in Cincinnati, Ohio? Check out Kyoto Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJGzn8ekNWQIgRw_UgovW5RsU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 851
 website: http://www.kyotosushibar.com/USA/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

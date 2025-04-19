@@ -5,6 +5,11 @@ permalink: /oregon/salem/oriental-chinese-sushi-restaurant.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Salem
+seo:
+  name: "Oriental Chinese & Sushi Restaurant"
+  type: Restaurant
+  links: http://www.orientalchinesesushi.com/
+description: "Looking for sushi in Salem, Oregon? Check out Oriental Chinese & Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJUV1gQOv-v1QRgoUzC_LbYYE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 442
 website: http://www.orientalchinesesushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

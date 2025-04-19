@@ -5,6 +5,11 @@ permalink: /colorado/denver/bluefin-sushi-bar-restaurant.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "BlueFin Sushi Bar & Restaurant"
+  type: Restaurant
+  links: https://bluefinsushirestaurant.com/
+description: "Looking for sushi in Denver, Colorado? Check out BlueFin Sushi Bar & Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJFbBsXYV7bIcR487Xd66Fqbg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 554
 website: https://bluefinsushirestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

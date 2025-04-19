@@ -5,6 +5,11 @@ permalink: /illinois/chicago/jinsei-motto.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Jinsei Motto"
+  type: Restaurant
+  links: https://www.jinseimotto.com/
+description: "Looking for sushi in Chicago, Illinois? Check out Jinsei Motto for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJHfUX-kstDogRvJwilXIwCmY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 255
 website: https://www.jinseimotto.com/
-description: null
 reviews:
   - name: >-
       places/ChIJHfUX-kstDogRvJwilXIwCmY/reviews/ChdDSUhNMG9nS0VJQ0FnTURBOXFhUHJ3RRAB
@@ -439,5 +443,6 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: null
 
 ---

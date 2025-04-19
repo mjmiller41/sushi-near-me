@@ -5,6 +5,11 @@ permalink: /massachusetts/amherst/house-of-teriyaki.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Amherst
+seo:
+  name: "House of Teriyaki"
+  type: Restaurant
+  links: http://www.houseofteriyakiorder.com/
+description: "Traditional Japanese dishes & sushi rolls served in easygoing, wood-paneled surrounds. Looking for sushi in Amherst, Massachusetts? Check out House of Teriya..."
 place_id: ChIJVQjRvIXS5okRTYqfalbuwsA
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 292
 website: http://www.houseofteriyakiorder.com/
-description: >-
-  Traditional Japanese dishes & sushi rolls served in easygoing, wood-paneled
-  surrounds.
 reviews:
   - name: >-
       places/ChIJVQjRvIXS5okRTYqfalbuwsA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmcXFHZ0xnEAE
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Traditional Japanese dishes & sushi rolls served in easygoing, wood-paneled
+  surrounds.
 
 ---

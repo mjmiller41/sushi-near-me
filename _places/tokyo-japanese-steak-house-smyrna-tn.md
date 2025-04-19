@@ -5,6 +5,11 @@ permalink: /tennessee/smyrna/tokyo-japanese-steak-house.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Smyrna
+seo:
+  name: "Tokyo Japanese Steak House"
+  type: Restaurant
+  links: http://www.tokyosmyrna.com/
+description: "Lively hibachi-style eatery also serves made-to-order sushi, sake & signature cocktails. Looking for sushi in Smyrna, Tennessee? Check out Tokyo Japanese Ste..."
 place_id: ChIJzeg6YekMZIgR1EiiaUUi7G8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 2677
 website: http://www.tokyosmyrna.com/
-description: >-
-  Lively hibachi-style eatery also serves made-to-order sushi, sake & signature
-  cocktails.
 reviews:
   - name: >-
       places/ChIJzeg6YekMZIgR1EiiaUUi7G8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYdU83VFJBEAE
@@ -403,5 +405,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Lively hibachi-style eatery also serves made-to-order sushi, sake & signature
+  cocktails.
 
 ---

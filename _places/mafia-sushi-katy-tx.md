@@ -5,6 +5,11 @@ permalink: /texas/katy/mafia-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Katy
+seo:
+  name: "Mafia Sushi"
+  type: Restaurant
+  links: http://mafiasushi.com/
+description: "Looking for sushi in Katy, Texas? Check out Mafia Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
 place_id: ChIJm_F1h3MnQYYRmI3bUxJ8r2E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.9'
 rating_count: 648
 website: http://mafiasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

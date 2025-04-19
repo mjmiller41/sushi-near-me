@@ -5,6 +5,11 @@ permalink: /pennsylvania/bloomsburg/fuji-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bloomsburg
+seo:
+  name: "Fuji Sushi"
+  type: Restaurant
+  links: https://www.fujibloomsburg.com/8xsfl32e/restaurant/order-online
+description: "Looking for sushi in Bloomsburg, Pennsylvania? Check out Fuji Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJvbl9joWHxYkRVizj9Qp9AUE
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 17
 website: https://www.fujibloomsburg.com/8xsfl32e/restaurant/order-online
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

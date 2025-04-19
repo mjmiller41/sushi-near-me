@@ -5,6 +5,11 @@ permalink: /new-york/troy/unagi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Troy
+seo:
+  name: "Unagi Sushi"
+  type: Restaurant
+  links: http://www.unagitroyny.com/
+description: "A menu featuring traditional & creative sushi rolls alongside Japanese classics in a modern space. Looking for sushi in Troy, New York? Check out Unagi Sushi..."
 place_id: ChIJydG02QcP3okRsO98h5vCUHY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 338
 website: http://www.unagitroyny.com/
-description: >-
-  A menu featuring traditional & creative sushi rolls alongside Japanese
-  classics in a modern space.
 reviews:
   - name: >-
       places/ChIJydG02QcP3okRsO98h5vCUHY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBME1TZ293RRAB
@@ -346,5 +348,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A menu featuring traditional & creative sushi rolls alongside Japanese
+  classics in a modern space.
 
 ---

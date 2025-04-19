@@ -5,6 +5,11 @@ permalink: /georgia/tybee-island/raw-ingredients.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Tybee Island
+seo:
+  name: "Raw Ingredients"
+  type: Restaurant
+  links: http://rawtybee.com/
+description: "Hip sushi restaurant with a graffitied blackboard making sashimi, nigiri & custom-made rolls. Looking for sushi in Tybee Island, Georgia? Check out Raw Ingre..."
 place_id: ChIJqYFH4qV_-4gR__CS_4cmTbk
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 760
 website: http://rawtybee.com/
-description: >-
-  Hip sushi restaurant with a graffitied blackboard making sashimi, nigiri &
-  custom-made rolls.
 reviews:
   - name: >-
       places/ChIJqYFH4qV_-4gR__CS_4cmTbk/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3a083bmRBEAE
@@ -367,5 +369,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Hip sushi restaurant with a graffitied blackboard making sashimi, nigiri &
+  custom-made rolls.
 
 ---

@@ -5,6 +5,11 @@ permalink: /oklahoma/oklahoma-city/roll-rock-sushi-and-hibachi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
+seo:
+  name: "Roll & Rock Sushi and Hibachi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Roll & Rock Sushi and Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
 place_id: ChIJj1HZjdAasocRXlMlJI0dV34
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 738
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

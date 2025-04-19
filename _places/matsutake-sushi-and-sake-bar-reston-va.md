@@ -5,6 +5,11 @@ permalink: /virginia/reston/matsutake-sushi-and-sake-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Reston
+seo:
+  name: "Matsutake Sushi and Sake Bar"
+  type: Restaurant
+  links: http://www.matsutakesushi.com/
+description: "Looking for sushi in Reston, Virginia? Check out Matsutake Sushi and Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJr06TTR43tokRCdtuyrw4tuA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 215
 website: http://www.matsutakesushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJr06TTR43tokRCdtuyrw4tuA/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NzZEQWtnRRAB
@@ -433,5 +437,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/new-york/yaki-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Yaki Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in New York, New York? Check out Yaki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJj7V_9TNZwokRPIeWTvkLCw0
 photos:
   - name: >-
@@ -74,7 +79,6 @@ price_range: $10 &ndash; $20
 rating: '3.4'
 rating_count: 12
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJj7V_9TNZwokRPIeWTvkLCw0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNINnN1cThnRRAB
@@ -219,5 +223,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

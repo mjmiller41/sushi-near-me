@@ -5,6 +5,11 @@ permalink: /california/seaside/sushi-time.html
 stateAbbr: CA
 stateName: California
 cityName: Seaside
+seo:
+  name: "Sushi Time"
+  type: Restaurant
+  links: http://sushitime.menu11.com/
+description: "Homey stop-in for creative sushi rolls & familiar Japanese chow, plus beer & sake in petite digs. Looking for sushi in Seaside, California? Check out Sushi T..."
 place_id: ChIJ3cc3CfzkjYARYKe54O0x788
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 847
 website: http://sushitime.menu11.com/
-description: >-
-  Homey stop-in for creative sushi rolls & familiar Japanese chow, plus beer &
-  sake in petite digs.
 reviews:
   - name: >-
       places/ChIJ3cc3CfzkjYARYKe54O0x788/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBZzdYN29BRRAB
@@ -386,5 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Homey stop-in for creative sushi rolls & familiar Japanese chow, plus beer &
+  sake in petite digs.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/daly-city/tomo-sushi-teriyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Daly City
+seo:
+  name: "Tomo Sushi & Teriyaki"
+  type: Restaurant
+  links: null
+description: "Straightforward pick for a large variety of creative rolls & hearty portions of classic Asian eats. Looking for sushi in Daly City, California? Check out Tom..."
 place_id: ChIJbzxsjEB8j4ARKzKIS39vhbQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 504
 website: null
-description: >-
-  Straightforward pick for a large variety of creative rolls & hearty portions
-  of classic Asian eats.
 reviews:
   - name: >-
       places/ChIJbzxsjEB8j4ARKzKIS39vhbQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3N19TaWhBRRAB
@@ -381,5 +383,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Straightforward pick for a large variety of creative rolls & hearty portions
+  of classic Asian eats.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-francisco/kusakabe.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "KUSAKABE"
+  type: Restaurant
+  links: http://www.kusakabe-sf.com/
+description: "This high-end sushi spot offers a light-soaked, Zen-like space for sushi, sake, wine & beer. Looking for sushi in San Francisco, California? Check out KUSAKA..."
 place_id: ChIJL9EdyIqAhYARMTuAjQDC7Bs
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 705
 website: http://www.kusakabe-sf.com/
-description: >-
-  This high-end sushi spot offers a light-soaked, Zen-like space for sushi,
-  sake, wine & beer.
 reviews:
   - name: >-
       places/ChIJL9EdyIqAhYARMTuAjQDC7Bs/reviews/ChZDSUhNMG9nS0VJQ0FnSURYa1BqblFnEAE
@@ -468,5 +470,8 @@ serves_lunch: false
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  This high-end sushi spot offers a light-soaked, Zen-like space for sushi,
+  sake, wine & beer.
 
 ---

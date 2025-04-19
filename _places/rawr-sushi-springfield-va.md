@@ -5,6 +5,11 @@ permalink: /virginia/springfield/rawr-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Springfield
+seo:
+  name: "RAWR Sushi"
+  type: Restaurant
+  links: http://www.rawrsushi.com/
+description: "Small, simple sushi bar turning out familiar rolls, plus Japanese kitchen entrees & bento boxes. Looking for sushi in Springfield, Virginia? Check out RAWR S..."
 place_id: ChIJ0wZ1DKmyt4kR0LWXHMY-5X4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 418
 website: http://www.rawrsushi.com/
-description: >-
-  Small, simple sushi bar turning out familiar rolls, plus Japanese kitchen
-  entrees & bento boxes.
 reviews:
   - name: >-
       places/ChIJ0wZ1DKmyt4kR0LWXHMY-5X4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3OHJEaXVnRRAB
@@ -370,5 +372,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: >-
+  Small, simple sushi bar turning out familiar rolls, plus Japanese kitchen
+  entrees & bento boxes.
 
 ---

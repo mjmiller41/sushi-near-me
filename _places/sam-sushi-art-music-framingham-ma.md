@@ -5,6 +5,11 @@ permalink: /massachusetts/framingham/sam-sushi-art-music.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Framingham
+seo:
+  name: "Sam Sushi Art & Music"
+  type: Restaurant
+  links: http://www.samsushiartmusic.com/
+description: "Looking for sushi in Framingham, Massachusetts? Check out Sam Sushi Art & Music for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJWakixs2J44kR193Hbro5VEM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.8'
 rating_count: 1549
 website: http://www.samsushiartmusic.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/hatsuhana-japanese-restaurant.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Hatsuhana Japanese Restaurant"
+  type: Restaurant
+  links: https://www.hatsuhanausa.com/
+description: "Looking for sushi in Honolulu, Hawaii? Check out Hatsuhana Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJE2-ZnPVtAHwR6P2bJEKeAoY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 770
 website: https://www.hatsuhanausa.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

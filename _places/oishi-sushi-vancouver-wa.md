@@ -5,6 +5,11 @@ permalink: /washington/vancouver/oishi-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Vancouver
+seo:
+  name: "Oishi Sushi"
+  type: Restaurant
+  links: https://oishisushi.godaddysites.com/
+description: "Looking for sushi in Vancouver, Washington? Check out Oishi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJK_WTgJOvlVQR7QpXVBlmWyU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 610
 website: https://oishisushi.godaddysites.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

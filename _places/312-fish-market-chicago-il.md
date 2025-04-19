@@ -5,6 +5,11 @@ permalink: /illinois/chicago/312-fish-market.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "312 Fish Market"
+  type: Restaurant
+  links: http://312fishmarket.com/
+description: "Looking for sushi in Chicago, Illinois? Check out 312 Fish Market for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJ38DgqNEtDogRM8KleUXhHCs
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: null
 rating: '4.6'
 rating_count: 346
 website: http://312fishmarket.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ38DgqNEtDogRM8KleUXhHCs/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3ajVlNzdnRRAB
@@ -372,5 +376,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

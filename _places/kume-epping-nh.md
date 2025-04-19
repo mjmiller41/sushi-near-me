@@ -5,6 +5,11 @@ permalink: /new-hampshire/epping/kume.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Epping
+seo:
+  name: "Kume"
+  type: Restaurant
+  links: https://www.kume-epping.com/
+description: "Looking for sushi in Epping, New Hampshire? Check out Kume for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJoQ0gf13x4okRkgWQ2pNNkNs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 750
 website: https://www.kume-epping.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

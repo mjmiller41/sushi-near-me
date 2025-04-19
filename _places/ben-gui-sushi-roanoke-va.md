@@ -5,6 +5,11 @@ permalink: /virginia/roanoke/ben-gui-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Roanoke
+seo:
+  name: "Ben Gui Sushi"
+  type: Restaurant
+  links: http://www.benguisushi.com/
+description: "Relaxed, stylish Japanese restaurant offering a variety of sushi, plus teriyaki, udon & bento boxes. Looking for sushi in Roanoke, Virginia? Check out Ben Gu..."
 place_id: ChIJd66bl8YMTYgRTuemx0gYodE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 432
 website: http://www.benguisushi.com/
-description: >-
-  Relaxed, stylish Japanese restaurant offering a variety of sushi, plus
-  teriyaki, udon & bento boxes.
 reviews:
   - name: >-
       places/ChIJd66bl8YMTYgRTuemx0gYodE/reviews/ChdDSUhNMG9nS0VJQ0FnSURYa0xQNjdRRRAB
@@ -448,5 +450,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed, stylish Japanese restaurant offering a variety of sushi, plus
+  teriyaki, udon & bento boxes.
 
 ---

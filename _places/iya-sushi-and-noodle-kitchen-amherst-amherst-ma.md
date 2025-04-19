@@ -5,6 +5,11 @@ permalink: /massachusetts/amherst/iya-sushi-and-noodle-kitchen-amherst.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Amherst
+seo:
+  name: "IYA Sushi and Noodle Kitchen - Amherst"
+  type: Restaurant
+  links: https://www.iyasushi.com/
+description: "Looking for sushi in Amherst, Massachusetts? Check out IYA Sushi and Noodle Kitchen - Amherst for a delightful Japanese dining experience. Enjoy a variety of..."
 place_id: ChIJNbZNzPDN5okR60x4CkT9NJw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 216
 website: https://www.iyasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /colorado/colorado-springs/kohnami-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
+seo:
+  name: "Kohnami Sushi"
+  type: Restaurant
+  links: http://kohnamisushi.epipay.com/
+description: "Looking for sushi in Colorado Springs, Colorado? Check out Kohnami Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJL86qTr1OE4cRVxmRq4ZQJkE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 694
 website: http://kohnamisushi.epipay.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

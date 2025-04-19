@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/sushi-robot.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Sushi Robot"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Honolulu, Hawaii? Check out Sushi Robot for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJswak5O1tAHwRoGLDlukrjMQ
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: '4.2'
 rating_count: 9
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

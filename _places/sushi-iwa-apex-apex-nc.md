@@ -5,6 +5,11 @@ permalink: /north-carolina/apex/sushi-iwa-apex.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Apex
+seo:
+  name: "Sushi Iwa Apex"
+  type: Restaurant
+  links: http://sushiiwabistro.com/
+description: "Looking for sushi in Apex, North Carolina? Check out Sushi Iwa Apex for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJ9xRGuSqTrIkR7IVRn4tf_Lk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1666
 website: http://sushiiwabistro.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

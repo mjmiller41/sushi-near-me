@@ -5,6 +5,11 @@ permalink: /kansas/olathe/sake-lounge.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Olathe
+seo:
+  name: "Sake Lounge"
+  type: Restaurant
+  links: http://www.sakeolathe.com/
+description: "Sushi is artfully presented, along with familiar Pan-Asian entrees, amid a hip, clubby atmosphere Looking for sushi in Olathe, Kansas? Check out Sake Lounge ..."
 place_id: ChIJgZubJHWVwIcRum9Hd86uDCE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 1625
 website: http://www.sakeolathe.com/
-description: >-
-  Sushi is artfully presented, along with familiar Pan-Asian entrees, amid a
-  hip, clubby atmosphere
 reviews:
   - name: >-
       places/ChIJgZubJHWVwIcRum9Hd86uDCE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJLTZmR3BBRRAB
@@ -376,5 +378,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi is artfully presented, along with familiar Pan-Asian entrees, amid a
+  hip, clubby atmosphere
 
 ---

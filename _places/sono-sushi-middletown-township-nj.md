@@ -5,6 +5,11 @@ permalink: /new-jersey/middletown-township/sono-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Middletown Township
+seo:
+  name: "Sono Sushi"
+  type: Restaurant
+  links: http://www.sonosushi.net/
+description: "Sushi, teriyaki, fried dishes & more at a longtime option in simple strip-mall surrounds. Looking for sushi in Middletown Township, New Jersey? Check out Son..."
 place_id: ChIJZy2TlUIxwokRttRJGEtDXU0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 310
 website: http://www.sonosushi.net/
-description: >-
-  Sushi, teriyaki, fried dishes & more at a longtime option in simple strip-mall
-  surrounds.
 reviews:
   - name: >-
       places/ChIJZy2TlUIxwokRttRJGEtDXU0/reviews/ChdDSUhNMG9nS0VJQ0FnSURfaTdYaHBBRRAB
@@ -476,5 +478,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Sushi, teriyaki, fried dishes & more at a longtime option in simple strip-mall
+  surrounds.
 
 ---

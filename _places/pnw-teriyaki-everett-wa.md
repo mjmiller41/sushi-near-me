@@ -5,6 +5,11 @@ permalink: /washington/everett/pnw-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Everett
+seo:
+  name: "PNW Teriyaki"
+  type: Restaurant
+  links: https://pnwteriyaki2.menu11.com/everett/order
+description: "Looking for sushi in Everett, Washington? Check out PNW Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJ-YFBJ9wGkFQRYnC_Z1Oy1L4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 164
 website: https://pnwteriyaki2.menu11.com/everett/order
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

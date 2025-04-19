@@ -5,6 +5,11 @@ permalink: /michigan/ypsilanti/sushi-dabu.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ypsilanti
+seo:
+  name: "Sushi Dabu"
+  type: Restaurant
+  links: https://order.toasttab.com/online/sushi-dabu-4037-carpenter-rd
+description: "Sushi rolls & sashimi round out the menu at this mellow Japanese hideaway in a strip mall. Looking for sushi in Ypsilanti, Michigan? Check out Sushi Dabu for..."
 place_id: ChIJk8-gY02vPIgRWdM1lPNcOII
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 499
 website: https://order.toasttab.com/online/sushi-dabu-4037-carpenter-rd
-description: >-
-  Sushi rolls & sashimi round out the menu at this mellow Japanese hideaway in a
-  strip mall.
 reviews:
   - name: >-
       places/ChIJk8-gY02vPIgRWdM1lPNcOII/reviews/ChdDSUhNMG9nS0VJQ0FnTURncC1tZ3d3RRAB
@@ -408,5 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi rolls & sashimi round out the menu at this mellow Japanese hideaway in a
+  strip mall.
 
 ---

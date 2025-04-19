@@ -5,6 +5,11 @@ permalink: /california/claremont/kazama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Claremont
+seo:
+  name: "Kazama Sushi"
+  type: Restaurant
+  links: https://www.kazamasushirestaurant.com/
+description: "Looking for sushi in Claremont, California? Check out Kazama Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJA1gu_MExw4AR7VffDKCXjVk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 603
 website: https://www.kazamasushirestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /maryland/deale/deale-umai-sushi-house.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Deale
+seo:
+  name: "Deale Umai Sushi House"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Deale, Maryland? Check out Deale Umai Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJe7h_0a2Ot4kRZWUSM1A7Rwo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 298
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

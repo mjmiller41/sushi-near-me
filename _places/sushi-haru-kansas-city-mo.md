@@ -5,6 +5,11 @@ permalink: /missouri/kansas-city/sushi-haru.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
+seo:
+  name: "Sushi Haru"
+  type: Restaurant
+  links: https://www.sushiharukc.com/#/
+description: "Shopping-center sushi joint with a big menu of hand rolls, sashimi, maki & nigiri, plus bento boxes. Looking for sushi in Kansas City, Missouri? Check out Su..."
 place_id: ChIJwcoaa3zCwIcRHFISp46EU1M
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 606
 website: https://www.sushiharukc.com/#/
-description: >-
-  Shopping-center sushi joint with a big menu of hand rolls, sashimi, maki &
-  nigiri, plus bento boxes.
 reviews:
   - name: >-
       places/ChIJwcoaa3zCwIcRHFISp46EU1M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYNGJuTEd3EAE
@@ -414,5 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Shopping-center sushi joint with a big menu of hand rolls, sashimi, maki &
+  nigiri, plus bento boxes.
 
 ---

@@ -5,6 +5,11 @@ permalink: /pennsylvania/grove-city/jin-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Grove City
+seo:
+  name: "JIN SUSHI"
+  type: Restaurant
+  links: https://jinsushigc.com/
+description: "Looking for sushi in Grove City, Pennsylvania? Check out JIN SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJAQBExER1M4gRcwyJe6aNC7U
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 602
 website: https://jinsushigc.com/
-description: null
 reviews:
   - name: >-
       places/ChIJAQBExER1M4gRcwyJe6aNC7U/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJb0pfaXFRRRAB
@@ -364,5 +368,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

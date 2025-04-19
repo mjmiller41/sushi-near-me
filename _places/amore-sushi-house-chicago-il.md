@@ -5,6 +5,11 @@ permalink: /illinois/chicago/amore-sushi-house.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "AMORE Sushi House"
+  type: Restaurant
+  links: https://www.toasttab.com/amore
+description: "Looking for sushi in Chicago, Illinois? Check out AMORE Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJv2jV2dbTD4gRXmXGzIWjNcQ
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 303
 website: https://www.toasttab.com/amore
-description: null
 reviews:
   - name: >-
       places/ChIJv2jV2dbTD4gRXmXGzIWjNcQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaXRHU1dREAE
@@ -389,5 +393,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

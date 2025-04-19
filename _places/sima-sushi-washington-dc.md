@@ -5,6 +5,12 @@ permalink: /district-of-columbia/washington/sima-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Sima Sushi"
+  type: Restaurant
+  links: https://sites.google.com/view/simasushi-dc/home
+description: "Casual, Korean-style conveyor belt sushi restaurant offering lunch and dinner in Downtown's Connecticut Ave/K Street neighborhood.
+The menu includes healthy ..."
 place_id: ChIJoS_hzr-3t4kR4Zw5TIzbIKw
 photos:
   - >-
@@ -70,16 +76,6 @@ price_range: $30 &mdash; 50
 rating: '4.5'
 rating_count: 271
 website: https://sites.google.com/view/simasushi-dc/home
-description: >-
-  Casual, Korean-style conveyor belt sushi restaurant offering lunch and dinner
-  in Downtown's Connecticut Ave/K Street neighborhood.
-
-  The menu includes healthy and vegetarian choices, along with beer, sake, and
-  cocktails. Sushi, sashimi, eel, and tonkotsu ramen are popular items, and
-  guests often order the DC sashimi bibimbap, mochi ice cream, and udon.
-
-  The place has a happy atmosphere and is good for kids. Guests say the service
-  is fast, friendly, and professional.
 reviews:
   - ChZDSUhNMG9nS0VJQ0FnTUNBaFlqM0VnEAE
   - ChdDSUhNMG9nS0VJQ0FnSUNYOUt5Vl9BRRAB
@@ -118,5 +114,15 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Casual, Korean-style conveyor belt sushi restaurant offering lunch and dinner
+  in Downtown's Connecticut Ave/K Street neighborhood.
+
+  The menu includes healthy and vegetarian choices, along with beer, sake, and
+  cocktails. Sushi, sashimi, eel, and tonkotsu ramen are popular items, and
+  guests often order the DC sashimi bibimbap, mochi ice cream, and udon.
+
+  The place has a happy atmosphere and is good for kids. Guests say the service
+  is fast, friendly, and professional.
 
 ---

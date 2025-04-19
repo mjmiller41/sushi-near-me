@@ -5,6 +5,11 @@ permalink: /california/san-francisco/ace-wasabi-san-francisco.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Ace Wasabi San Francisco"
+  type: Restaurant
+  links: https://www.acewasabisf.com/
+description: "Modern Japanese dishes, sushi & more in a trendy hangout featuring music & happy-hour bingo. Looking for sushi in San Francisco, California? Check out Ace Wa..."
 place_id: ChIJSU2s09CAhYARiWvgxQMge-k
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 462
 website: https://www.acewasabisf.com/
-description: >-
-  Modern Japanese dishes, sushi & more in a trendy hangout featuring music &
-  happy-hour bingo.
 reviews:
   - name: >-
       places/ChIJSU2s09CAhYARiWvgxQMge-k/reviews/ChdDSUhNMG9nS0VJQ0FnTURnblBHWGlBRRAB
@@ -355,5 +357,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern Japanese dishes, sushi & more in a trendy hangout featuring music &
+  happy-hour bingo.
 
 ---

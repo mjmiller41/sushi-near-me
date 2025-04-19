@@ -5,6 +5,11 @@ permalink: /new-york/floral-park/mann-sarka-asian-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Floral Park
+seo:
+  name: "MANN SARKA Asian Bistro"
+  type: Restaurant
+  links: https://www.mannsarkafloral.com/
+description: "Looking for sushi in Floral Park, New York? Check out MANN SARKA Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJISPf3K5jwokR3cvB91MXGiQ
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 285
 website: https://www.mannsarkafloral.com/
-description: null
 reviews:
   - name: >-
       places/ChIJISPf3K5jwokR3cvB91MXGiQ/reviews/ChRDSUhNMG9nS0VJQ0FnTUNndGR0dRAB
@@ -390,5 +394,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

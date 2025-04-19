@@ -5,6 +5,11 @@ permalink: /virginia/newport-news/okinii-hibachi-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Newport News
+seo:
+  name: "OKINII HIBACHI & SUSHI"
+  type: Restaurant
+  links: http://www.okiniinewportnews.com/
+description: "Looking for sushi in Newport News, Virginia? Check out OKINII HIBACHI & SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJeeYVo6d5sIkRfZ1I_fssMgs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 282
 website: http://www.okiniinewportnews.com/
-description: null
 reviews:
   - name: >-
       places/ChIJeeYVo6d5sIkRfZ1I_fssMgs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJeXNydFhBEAE
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

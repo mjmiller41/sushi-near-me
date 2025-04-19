@@ -5,6 +5,11 @@ permalink: /wisconsin/milwaukee/rice-n-roll-bistro-sushi-bar-thai-cuisine.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Milwaukee
+seo:
+  name: "Rice n Roll Bistro | Sushi Bar & Thai Cuisine"
+  type: Restaurant
+  links: https://ricenrollbistro.com/
+description: "Looking for sushi in Milwaukee, Wisconsin? Check out Rice n Roll Bistro | Sushi Bar & Thai Cuisine for a delightful Japanese dining experience. Enjoy a varie..."
 place_id: ChIJMymoLucYBYgR4bhgS7lymG4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 821
 website: https://ricenrollbistro.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

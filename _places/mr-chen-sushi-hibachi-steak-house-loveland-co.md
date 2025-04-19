@@ -5,6 +5,11 @@ permalink: /colorado/loveland/mr-chen-sushi-hibachi-steak-house.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Loveland
+seo:
+  name: "Mr chen sushi&hibachi steak house"
+  type: Restaurant
+  links: https://www.mrchensushihibachisteakhouse.com/?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Loveland, Colorado? Check out Mr chen sushi&hibachi steak house for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJtZXZxddTaYcRYEZMrmheehM
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.5'
 rating_count: 167
 website: >-
   https://www.mrchensushihibachisteakhouse.com/?utm_source=gmb&utm_medium=website
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

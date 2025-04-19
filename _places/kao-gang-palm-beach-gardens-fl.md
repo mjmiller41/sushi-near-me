@@ -5,6 +5,11 @@ permalink: /florida/palm-beach-gardens/kao-gang.html
 stateAbbr: FL
 stateName: Florida
 cityName: Palm Beach Gardens
+seo:
+  name: "KAO GANG"
+  type: Restaurant
+  links: http://www.kaogangpga.com/
+description: "Mellow venue with old-world decor specializing in Thai cooking, noodle bowls & sushi rolls. Looking for sushi in Palm Beach Gardens, Florida? Check out KAO G..."
 place_id: ChIJ_4qsnMAq34gRxlNKgWvluJA
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 730
 website: http://www.kaogangpga.com/
-description: >-
-  Mellow venue with old-world decor specializing in Thai cooking, noodle bowls &
-  sushi rolls.
 reviews:
   - name: >-
       places/ChIJ_4qsnMAq34gRxlNKgWvluJA/reviews/ChZDSUhNMG9nS0VJQ0FnSURmOV9ESU93EAE
@@ -405,5 +407,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Mellow venue with old-world decor specializing in Thai cooking, noodle bowls &
+  sushi rolls.
 
 ---

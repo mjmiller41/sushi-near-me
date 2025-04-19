@@ -5,6 +5,11 @@ permalink: /illinois/westmont/sushi-house-westmont.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Westmont
+seo:
+  name: "Sushi House - Westmont"
+  type: Restaurant
+  links: https://www.mysushihouse.com/sushi-house-westmont
+description: "Japanese chain serving sushi, noodles, bento boxes & hot entrees in a stylish, traditional setting. Looking for sushi in Westmont, Illinois? Check out Sushi ..."
 place_id: ChIJ1dfI6bxODogRgmjl-DIjCIc
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 280
 website: https://www.mysushihouse.com/sushi-house-westmont
-description: >-
-  Japanese chain serving sushi, noodles, bento boxes & hot entrees in a stylish,
-  traditional setting.
 reviews:
   - name: >-
       places/ChIJ1dfI6bxODogRgmjl-DIjCIc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNGE3UUVnEAE
@@ -374,5 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese chain serving sushi, noodles, bento boxes & hot entrees in a stylish,
+  traditional setting.
 
 ---

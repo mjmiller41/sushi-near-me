@@ -5,6 +5,11 @@ permalink: /new-york/staten-island/yaho-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
+seo:
+  name: "Yaho Sushi"
+  type: Restaurant
+  links: https://yahosushi.com/
+description: "Looking for sushi in Staten Island, New York? Check out Yaho Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJmX7bIj-1w4kRBjlmUe3QGYQ
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 64
 website: https://yahosushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJmX7bIj-1w4kRBjlmUe3QGYQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRNGRMTjRRRRAB
@@ -362,5 +366,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

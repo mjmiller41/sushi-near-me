@@ -5,6 +5,11 @@ permalink: /arizona/phoenix/o2-sushi-phoenix.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
+seo:
+  name: "O2 Sushi Phoenix"
+  type: Restaurant
+  links: https://www.o2sushiaz.com/
+description: "Looking for sushi in Phoenix, Arizona? Check out O2 Sushi Phoenix for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJ9ZX3WvxxK4cRwwNLjvmn9as
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 667
 website: https://www.o2sushiaz.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

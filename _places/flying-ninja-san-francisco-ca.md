@@ -5,6 +5,11 @@ permalink: /california/san-francisco/flying-ninja.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Flying Ninja"
+  type: Restaurant
+  links: http://www.sfflyingninja.com/
+description: "Looking for sushi in San Francisco, California? Check out Flying Ninja for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJj-yRoOGAhYARYrYxzGiJi0U
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 629
 website: http://www.sfflyingninja.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

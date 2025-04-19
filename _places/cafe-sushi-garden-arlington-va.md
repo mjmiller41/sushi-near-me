@@ -5,6 +5,11 @@ permalink: /virginia/arlington/cafe-sushi-garden.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+seo:
+  name: "Cafe Sushi Garden"
+  type: Restaurant
+  links: https://www.cafesushigarden.com/
+description: "Looking for sushi in Arlington, Virginia? Check out Cafe Sushi Garden for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJV0UeYtC3t4kRntRwy2P2ioU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.9'
 rating_count: 100
 website: https://www.cafesushigarden.com/
-description: null
 reviews:
   - name: >-
       places/ChIJV0UeYtC3t4kRntRwy2P2ioU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBbXZicF93RRAB
@@ -385,5 +389,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /colorado/denver/kassai-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
+seo:
+  name: "Kassai Sushi"
+  type: Restaurant
+  links: http://eatkassaisushi.com/
+description: "Cool sushi house crafting traditional rolls & Japanese entrees in an unassuming locale. Looking for sushi in Denver, Colorado? Check out Kassai Sushi for a d..."
 place_id: ChIJv7sw8Cl9bIcRit-qPNvcT9g
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 512
 website: http://eatkassaisushi.com/
-description: >-
-  Cool sushi house crafting traditional rolls & Japanese entrees in an
-  unassuming locale.
 reviews:
   - name: >-
       places/ChIJv7sw8Cl9bIcRit-qPNvcT9g/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2LVl6OGh3RRAB
@@ -373,5 +375,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Cool sushi house crafting traditional rolls & Japanese entrees in an
+  unassuming locale.
 
 ---

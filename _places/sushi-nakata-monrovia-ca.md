@@ -5,6 +5,11 @@ permalink: /california/monrovia/sushi-nakata.html
 stateAbbr: CA
 stateName: California
 cityName: Monrovia
+seo:
+  name: "Sushi NAKATA"
+  type: Restaurant
+  links: https://www.sushinakatamonrovia.com/
+description: "Looking for sushi in Monrovia, California? Check out Sushi NAKATA for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJ90qpdabZwoARSofvUXyAGXk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 104
 website: https://www.sushinakatamonrovia.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

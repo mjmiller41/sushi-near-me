@@ -5,6 +5,11 @@ permalink: /new-jersey/princeton/ajiten-princeton-japanese-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Princeton
+seo:
+  name: "Ajiten Princeton Japanese restaurant"
+  type: Restaurant
+  links: http://www.ajitenprinceton.com/
+description: "Japanese fare served in an unassuming basement setting with a BYOB policy. No parties over 4. Looking for sushi in Princeton, New Jersey? Check out Ajiten Pr..."
 place_id: ChIJ9bPHlsDmw4kRZh2Dex6Ipl0
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 195
 website: http://www.ajitenprinceton.com/
-description: >-
-  Japanese fare served in an unassuming basement setting with a BYOB policy. No
-  parties over 4.
 reviews:
   - name: >-
       places/ChIJ9bPHlsDmw4kRZh2Dex6Ipl0/reviews/ChZDSUhNMG9nS0VJQ0FnSURONmVLeVN3EAE
@@ -403,5 +405,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: false
 takeout: true
+summary: >-
+  Japanese fare served in an unassuming basement setting with a BYOB policy. No
+  parties over 4.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/gilroy/pearl-sushi-lovers.html
 stateAbbr: CA
 stateName: California
 cityName: Gilroy
+seo:
+  name: "Pearl Sushi Lovers"
+  type: Restaurant
+  links: http://pearlsushilovers.com/
+description: "Looking for sushi in Gilroy, California? Check out Pearl Sushi Lovers for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ703e66LjkYAREhNE5_-lvLY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 64
 website: http://pearlsushilovers.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

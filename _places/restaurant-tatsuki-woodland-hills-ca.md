@@ -5,6 +5,11 @@ permalink: /california/woodland-hills/restaurant-tatsuki.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
+seo:
+  name: "Restaurant Tatsuki"
+  type: Restaurant
+  links: https://tatsukirestaurants.com/?utm_source=google
+description: "Looking for sushi in Woodland Hills, California? Check out Restaurant Tatsuki for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJPXcGzr2ewoARkDd9fE0y9es
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 239
 website: https://tatsukirestaurants.com/?utm_source=google
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

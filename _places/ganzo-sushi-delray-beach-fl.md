@@ -5,6 +5,11 @@ permalink: /florida/delray-beach/ganzo-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Delray Beach
+seo:
+  name: "Ganzo Sushi"
+  type: Restaurant
+  links: http://ganzodelray.com/
+description: "Looking for sushi in Delray Beach, Florida? Check out Ganzo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJV6Bs3WIZ2YgRBnJ1yx3SJoY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 503
 website: http://ganzodelray.com/
-description: null
 reviews:
   - name: >-
       places/ChIJV6Bs3WIZ2YgRBnJ1yx3SJoY/reviews/ChdDSUhNMG9nS0VJQ0FnSURQM1Bhb3dnRRAB
@@ -353,5 +357,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/kyojin-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "KYOJIN Sushi"
+  type: Restaurant
+  links: https://www.kyojindc.com/
+description: "Cozy, non-traditional sushi restaurant serving Japanese small plates, sake, beer, and wine. Looking for sushi in Washington, District of Columbia? Check out ..."
 place_id: ChIJf57htim3t4kRAMbxTZCtjao
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 0
 website: https://www.kyojindc.com/
-description: >-
-  Cozy, non-traditional sushi restaurant serving Japanese small plates, sake,
-  beer, and wine.
 reviews:
   - name: >-
       places/ChIJf57htim3t4kRAMbxTZCtjao/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aU5YaWV3EAE
@@ -360,5 +362,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
+summary: >-
+  Cozy, non-traditional sushi restaurant serving Japanese small plates, sake,
+  beer, and wine.
 
 ---

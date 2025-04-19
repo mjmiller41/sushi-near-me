@@ -5,6 +5,11 @@ permalink: /indiana/bloomington/mura-sushi-korean-restaurant.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Bloomington
+seo:
+  name: "Mura Sushi & Korean Restaurant (무라 스시 & 한식당)"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Bloomington, Indiana? Check out Mura Sushi & Korean Restaurant (무라 스시 & 한식당) for a delightful Japanese dining experience. Enjoy a variet..."
 place_id: ChIJ90QG7XxnbIgRDf-NHIKeOtA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

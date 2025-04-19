@@ -5,6 +5,11 @@ permalink: /florida/deerfield-beach/hibachi-buffet.html
 stateAbbr: FL
 stateName: Florida
 cityName: Deerfield Beach
+seo:
+  name: "Hibachi Buffet"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Deerfield Beach, Florida? Check out Hibachi Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ7RNStFgc2YgROWSdvz6KKjE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

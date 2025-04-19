@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/shoto-washington-dc.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "SHŌTŌ Washington DC"
+  type: Restaurant
+  links: https://www.sevenrooms.com/reservations/shotowashingtondc/
+description: "Modern restaurant serving sushi, Wagyu steak & grilled robata-style skewers in a lavish dining room. Looking for sushi in Washington, District of Columbia? C..."
 place_id: ChIJJX6GeKS3t4kR6pg6rKnZ8LM
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.2'
 rating_count: 896
 website: https://www.sevenrooms.com/reservations/shotowashingtondc/
-description: >-
-  Modern restaurant serving sushi, Wagyu steak & grilled robata-style skewers in
-  a lavish dining room.
 reviews:
   - name: >-
       places/ChIJJX6GeKS3t4kR6pg6rKnZ8LM/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3b01MM2NnEAE
@@ -444,5 +446,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: false
+summary: >-
+  Modern restaurant serving sushi, Wagyu steak & grilled robata-style skewers in
+  a lavish dining room.
 
 ---

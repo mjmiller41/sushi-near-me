@@ -5,6 +5,11 @@ permalink: /missouri/kansas-city/prime-sushi-on-main.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
+seo:
+  name: "Prime Sushi On Main"
+  type: Restaurant
+  links: http://primesushikc.com/
+description: "Japanese plates & innovative sushi pair alongside signature cocktails in a casual dining room. Looking for sushi in Kansas City, Missouri? Check out Prime Su..."
 place_id: ChIJE0kybLzvwIcRv6hErUuH3cE
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1114
 website: http://primesushikc.com/
-description: >-
-  Japanese plates & innovative sushi pair alongside signature cocktails in a
-  casual dining room.
 reviews:
   - name: >-
       places/ChIJE0kybLzvwIcRv6hErUuH3cE/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3MllLWHJ3RRAB
@@ -378,5 +380,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese plates & innovative sushi pair alongside signature cocktails in a
+  casual dining room.
 
 ---

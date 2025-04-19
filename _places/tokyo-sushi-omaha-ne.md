@@ -5,6 +5,11 @@ permalink: /nebraska/omaha/tokyo-sushi.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
+seo:
+  name: "Tokyo Sushi"
+  type: Restaurant
+  links: https://www.tokyosushiomaha.com/
+description: "Relaxed place offering sushi & other popular Japanese dishes, plus an all-you-can-eat lunch option. Looking for sushi in Omaha, Nebraska? Check out Tokyo Sus..."
 place_id: ChIJjyp4Ga-Pk4cR7Ul9CFjDKQY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 1735
 website: https://www.tokyosushiomaha.com/
-description: >-
-  Relaxed place offering sushi & other popular Japanese dishes, plus an
-  all-you-can-eat lunch option.
 reviews:
   - name: >-
       places/ChIJjyp4Ga-Pk4cR7Ul9CFjDKQY/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaVBXV3l3RRAB
@@ -466,5 +468,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed place offering sushi & other popular Japanese dishes, plus an
+  all-you-can-eat lunch option.
 
 ---

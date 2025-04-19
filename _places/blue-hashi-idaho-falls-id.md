@@ -5,6 +5,11 @@ permalink: /idaho/idaho-falls/blue-hashi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Idaho Falls
+seo:
+  name: "Blue Hashi"
+  type: Restaurant
+  links: https://bluehashisushi.com/
+description: "Looking for sushi in Idaho Falls, Idaho? Check out Blue Hashi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJOaKkICJfVFMRsAjDTJUuQ9A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 947
 website: https://bluehashisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

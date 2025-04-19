@@ -5,6 +5,11 @@ permalink: /kansas/salina/koi-ramen.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Salina
+seo:
+  name: "Koi Ramen"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Salina, Kansas? Check out Koi Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJc0u2-QnJvIcRKdHzJftOboo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /arizona/tucson/shogun-japanese-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
+seo:
+  name: "Shogun Japanese Restaurant"
+  type: Restaurant
+  links: http://www.shoguntucson.com/
+description: "Looking for sushi in Tucson, Arizona? Check out Shogun Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJZ-2WLJhz1oYRdDehSda3sKM
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1063
 website: http://www.shoguntucson.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

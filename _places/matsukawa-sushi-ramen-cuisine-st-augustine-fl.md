@@ -5,6 +5,11 @@ permalink: /florida/st-augustine/matsukawa-sushi-ramen-cuisine.html
 stateAbbr: FL
 stateName: Florida
 cityName: St. Augustine
+seo:
+  name: "Matsukawa Sushi & Ramen Cuisine"
+  type: Restaurant
+  links: http://www.matsukawasushi.com/
+description: "Looking for sushi in St. Augustine, Florida? Check out Matsukawa Sushi & Ramen Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJ1SdTL7Mr5IgR2cjkyeg4frI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 578
 website: http://www.matsukawasushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ1SdTL7Mr5IgR2cjkyeg4frI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN1pTb2lBRRAB
@@ -370,5 +374,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

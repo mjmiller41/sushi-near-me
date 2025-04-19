@@ -5,6 +5,11 @@ permalink: /north-carolina/new-bern/kuma-sushi-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: New Bern
+seo:
+  name: "Kuma Sushi Bar"
+  type: Restaurant
+  links: https://www.kumasushibar.com/
+description: "Looking for sushi in New Bern, North Carolina? Check out Kuma Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJpXszpyPRqIkRtqtkcSj1VPg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 157
 website: https://www.kumasushibar.com/
-description: null
 reviews:
   - name: >-
       places/ChIJpXszpyPRqIkRtqtkcSj1VPg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2LS1XVnd3RRAB
@@ -417,5 +421,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

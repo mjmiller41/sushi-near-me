@@ -5,6 +5,11 @@ permalink: /florida/wellington/kontiki-wine-raw-bar-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Wellington
+seo:
+  name: "Kontiki Wine & Raw Bar Restaurant"
+  type: Restaurant
+  links: https://www.ilovekontiki.com/
+description: "Atmospheric wine bar serving global, Asian-tinged small & large plates plus sushi in sultry digs. Looking for sushi in Wellington, Florida? Check out Kontiki..."
 place_id: ChIJIzdZhPov2YgRrhOZMozT2ac
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 252
 website: https://www.ilovekontiki.com/
-description: >-
-  Atmospheric wine bar serving global, Asian-tinged small & large plates plus
-  sushi in sultry digs.
 reviews:
   - name: >-
       places/ChIJIzdZhPov2YgRrhOZMozT2ac/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmNi1DUjZBRRAB
@@ -400,5 +402,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Atmospheric wine bar serving global, Asian-tinged small & large plates plus
+  sushi in sultry digs.
 
 ---

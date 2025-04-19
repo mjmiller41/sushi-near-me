@@ -5,6 +5,11 @@ permalink: /new-york/scarsdale/akai-lounge-scarsdale.html
 stateAbbr: NY
 stateName: New York
 cityName: Scarsdale
+seo:
+  name: "Akai Lounge - Scarsdale"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Scarsdale, New York? Check out Akai Lounge - Scarsdale for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJGayI8h2TwokRmJVnK0ic1RE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

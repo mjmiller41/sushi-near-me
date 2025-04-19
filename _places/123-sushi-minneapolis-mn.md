@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/123-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "123 Sushi"
+  type: Restaurant
+  links: http://www.onetwothreesushi.com/
+description: "Casual, fast-food spot offering create-your-own sushi rolls, ramen & rice bowls in a modern space. Looking for sushi in Minneapolis, Minnesota? Check out 123..."
 place_id: ChIJ-TtOW5cys1IR3X6DwOwsWgA
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 141
 website: http://www.onetwothreesushi.com/
-description: >-
-  Casual, fast-food spot offering create-your-own sushi rolls, ramen & rice
-  bowls in a modern space.
 reviews:
   - name: >-
       places/ChIJ-TtOW5cys1IR3X6DwOwsWgA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEMkpTVTNnRRAB
@@ -370,5 +372,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Casual, fast-food spot offering create-your-own sushi rolls, ramen & rice
+  bowls in a modern space.
 
 ---

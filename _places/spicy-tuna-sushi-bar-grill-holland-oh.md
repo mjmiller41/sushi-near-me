@@ -5,6 +5,11 @@ permalink: /ohio/holland/spicy-tuna-sushi-bar-grill.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Holland
+seo:
+  name: "Spicy Tuna Sushi Bar & Grill"
+  type: Restaurant
+  links: http://www.spicytunasushi.com/
+description: "Minimalist eatery serving Asian-fusion dishes & sushi, featuring Asian beers & sake at the bar. Looking for sushi in Holland, Ohio? Check out Spicy Tuna Sush..."
 place_id: ChIJX0-Jr116PIgRedoinf_ry8E
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1017
 website: http://www.spicytunasushi.com/
-description: >-
-  Minimalist eatery serving Asian-fusion dishes & sushi, featuring Asian beers &
-  sake at the bar.
 reviews:
   - name: >-
       places/ChIJX0-Jr116PIgRedoinf_ry8E/reviews/ChZDSUhNMG9nS0VJQ0FnSURLNUtuYktBEAE
@@ -414,5 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Minimalist eatery serving Asian-fusion dishes & sushi, featuring Asian beers &
+  sake at the bar.
 
 ---

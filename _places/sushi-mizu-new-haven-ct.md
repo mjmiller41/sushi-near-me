@@ -5,6 +5,11 @@ permalink: /connecticut/new-haven/sushi-mizu.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Haven
+seo:
+  name: "Sushi Mizu"
+  type: Restaurant
+  links: https://eatsushimizu.com/
+description: "Unpretentious venue featuring an ample sushi menu, plus familiar Japanese entrees & noodles. Looking for sushi in New Haven, Connecticut? Check out Sushi Miz..."
 place_id: ChIJy6Ag3rHZ54kR8rgs0XQVYko
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '3.0'
 rating_count: 125
 website: https://eatsushimizu.com/
-description: >-
-  Unpretentious venue featuring an ample sushi menu, plus familiar Japanese
-  entrees & noodles.
 reviews:
   - name: >-
       places/ChIJy6Ag3rHZ54kR8rgs0XQVYko/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdWNhY2JnEAE
@@ -411,5 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Unpretentious venue featuring an ample sushi menu, plus familiar Japanese
+  entrees & noodles.
 
 ---

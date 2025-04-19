@@ -5,6 +5,11 @@ permalink: /florida/miami/sushi-express-catering-too.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
+seo:
+  name: "Sushi Express /Catering Too"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Miami, Florida? Check out Sushi Express /Catering Too for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJD2vY1IC52YgRPdo7UQlsUqY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

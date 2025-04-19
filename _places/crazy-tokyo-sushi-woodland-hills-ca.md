@@ -5,6 +5,11 @@ permalink: /california/woodland-hills/crazy-tokyo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
+seo:
+  name: "Crazy Tokyo Sushi"
+  type: Restaurant
+  links: https://crazytokyosushionline.com/
+description: "Looking for sushi in Woodland Hills, California? Check out Crazy Tokyo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJXxncg72ewoARc4rlpy1LeIs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 383
 website: https://crazytokyosushionline.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

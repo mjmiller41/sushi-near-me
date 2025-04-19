@@ -5,6 +5,11 @@ permalink: /virginia/charlottesville/now-zen.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
+seo:
+  name: "Now & Zen"
+  type: Restaurant
+  links: http://nowandzencville.square.site/
+description: "Looking for sushi in Charlottesville, Virginia? Check out Now & Zen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJc1w5xCWGs4kRkiYAXVOfS3s
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 504
 website: http://nowandzencville.square.site/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

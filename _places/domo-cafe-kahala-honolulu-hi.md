@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/domo-cafe-kahala.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Domo Cafe | Kahala"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Honolulu, Hawaii? Check out Domo Cafe | Kahala for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJw-k640ptAHwRmKZyzsfP1Vg
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

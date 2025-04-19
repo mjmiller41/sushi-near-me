@@ -37,6 +37,10 @@ cityName: ${city}
 }
 
 async function writePlace(stateName, stateAbbr, city, place) {
+  const placeDescription = place.description ? `${place.description} ` : ''
+  const seoDescription = `${placeDescription}Looking for sushi in ${city}, ${stateName}? Check out ${place.name} for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atmosphere, perfect for casual meals or special outings. A great spot for locals and visitors alike to explore authentic flavors in ${city}.`
+  place['summary'] = place.description
+  delete place.description
   const placeText = `---
 layout: place
 title: "${place.name.replaceAll('"', '')}"
@@ -44,6 +48,11 @@ permalink: /${slugify(stateName)}/${slugify(city)}/${slugify(place.name)}.html
 stateAbbr: ${stateAbbr}
 stateName: ${stateName}
 cityName: ${city}
+seo:
+  name: "${place.name}"
+  type: Restaurant
+  links: ${place.website}
+description: "${seoDescription.truncate(160).replaceAll('"', "'")}"
 ${objToYaml(place, 0)}
 ---`
   const placePath = path.join(__dirname, `../_places/`)

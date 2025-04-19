@@ -5,6 +5,11 @@ permalink: /north-carolina/mt-airy/kazoku-sushi-and-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Mt Airy
+seo:
+  name: "Kazoku Sushi and Bar"
+  type: Restaurant
+  links: https://linktr.ee/kazokuMA
+description: "Looking for sushi in Mt Airy, North Carolina? Check out Kazoku Sushi and Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJrau7z6g9UogRGnnECdgowdI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 384
 website: https://linktr.ee/kazokuMA
-description: null
 reviews:
   - name: >-
       places/ChIJrau7z6g9UogRGnnECdgowdI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzdlpHVTBBRRAB
@@ -380,5 +384,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

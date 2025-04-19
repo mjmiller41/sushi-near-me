@@ -5,6 +5,11 @@ permalink: /new-york/new-york/nakaji.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Nakaji"
+  type: Restaurant
+  links: http://www.nakajinyc.com/
+description: "Intimate, wood-accented venue for curated omakase sushi meals served at a chef's counter. Looking for sushi in New York, New York? Check out Nakaji for a del..."
 place_id: ChIJX20rB1VbwokRM2mtS1kd9u0
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.3'
 rating_count: 170
 website: http://www.nakajinyc.com/
-description: >-
-  Intimate, wood-accented venue for curated omakase sushi meals served at a
-  chef's counter.
 reviews:
   - name: >-
       places/ChIJX20rB1VbwokRM2mtS1kd9u0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6M082anRnRRAB
@@ -435,5 +437,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  Intimate, wood-accented venue for curated omakase sushi meals served at a
+  chef's counter.
 
 ---

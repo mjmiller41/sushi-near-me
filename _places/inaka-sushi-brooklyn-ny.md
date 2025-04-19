@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/inaka-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Inaka Sushi"
+  type: Restaurant
+  links: http://www.inaka83st.com/
+description: "Creative sushi rolls & other classic Japanese dishes are the draw at this snug, contemporary eatery. Looking for sushi in Brooklyn, New York? Check out Inaka..."
 place_id: ChIJEyNRiAJPwokR8PcCt1FrUhM
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 282
 website: http://www.inaka83st.com/
-description: >-
-  Creative sushi rolls & other classic Japanese dishes are the draw at this
-  snug, contemporary eatery.
 reviews:
   - name: >-
       places/ChIJEyNRiAJPwokR8PcCt1FrUhM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2Mm91M0xBEAE
@@ -378,5 +380,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Creative sushi rolls & other classic Japanese dishes are the draw at this
+  snug, contemporary eatery.
 
 ---

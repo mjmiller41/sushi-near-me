@@ -5,6 +5,11 @@ permalink: /new-york/monsey/kapao-by-wok-tov.html
 stateAbbr: NY
 stateName: New York
 cityName: Monsey
+seo:
+  name: "KAPAO BY WOK TOV"
+  type: Restaurant
+  links: https://kapaonow.com/
+description: "Looking for sushi in Monsey, New York? Check out KAPAO BY WOK TOV for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJvSbgNIDdwokRjbzY1YnxjB8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 94
 website: https://kapaonow.com/
-description: null
 reviews:
   - name: >-
       places/ChIJvSbgNIDdwokRjbzY1YnxjB8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSdnVLVjJnRRAB
@@ -345,5 +349,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

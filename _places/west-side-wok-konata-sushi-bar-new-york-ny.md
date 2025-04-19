@@ -5,6 +5,11 @@ permalink: /new-york/new-york/west-side-wok-konata-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "West Side Wok & Konata Sushi Bar"
+  type: Restaurant
+  links: https://www.westsidewok.com/
+description: "Looking for sushi in New York, New York? Check out West Side Wok & Konata Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJVYvJZV5ZwokRB_UCppYi50w
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 57
 website: https://www.westsidewok.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

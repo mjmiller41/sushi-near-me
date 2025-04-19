@@ -5,6 +5,11 @@ permalink: /virginia/fairfax-station/khao-hom-thai-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax Station
+seo:
+  name: "Khao Hom Thai & Sushi"
+  type: Restaurant
+  links: http://www.khaohomthaiandsushiva.com/
+description: "Looking for sushi in Fairfax Station, Virginia? Check out Khao Hom Thai & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJo60uUjFPtokRolea4YtasgA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 172
 website: http://www.khaohomthaiandsushiva.com/
-description: null
 reviews:
   - name: >-
       places/ChIJo60uUjFPtokRolea4YtasgA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOG91OC1nRRAB
@@ -368,5 +372,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

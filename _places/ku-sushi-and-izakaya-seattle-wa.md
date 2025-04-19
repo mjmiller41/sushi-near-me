@@ -5,6 +5,11 @@ permalink: /washington/seattle/ku-sushi-and-izakaya.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Ku Sushi and Izakaya"
+  type: Restaurant
+  links: http://www.kusushiizakaya.com/
+description: "Looking for sushi in Seattle, Washington? Check out Ku Sushi and Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJh3EmgGEUkFQRRlT-TDOYsTo
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 443
 website: http://www.kusushiizakaya.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

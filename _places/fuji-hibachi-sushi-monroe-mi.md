@@ -5,6 +5,11 @@ permalink: /michigan/monroe/fuji-hibachi-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Monroe
+seo:
+  name: "Fuji Hibachi & Sushi"
+  type: Restaurant
+  links: http://www.fujihibachiandsushi.com/
+description: "Looking for sushi in Monroe, Michigan? Check out Fuji Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJU_YoE_RvO4gRC0z6wVRrZIQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 615
 website: http://www.fujihibachiandsushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJU_YoE_RvO4gRC0z6wVRrZIQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRZ2Q3S1dBEAE
@@ -394,5 +398,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

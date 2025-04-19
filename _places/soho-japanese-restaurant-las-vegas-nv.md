@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/soho-japanese-restaurant.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "Soho Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Las Vegas, Nevada? Check out Soho Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJDzQ1Si_GyIARy_IPbqOOd70
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

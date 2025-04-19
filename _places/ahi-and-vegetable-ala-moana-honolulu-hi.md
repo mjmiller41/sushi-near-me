@@ -5,6 +5,11 @@ permalink: /hawaii/honolulu/ahi-and-vegetable-ala-moana.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+seo:
+  name: "Ahi and Vegetable - Ala Moana"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Honolulu, Hawaii? Check out Ahi and Vegetable - Ala Moana for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJ4TpwrfFtAHwR6YEHCHJg2Xo
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

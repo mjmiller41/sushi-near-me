@@ -5,6 +5,11 @@ permalink: /oregon/portland/mojos-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
+seo:
+  name: "Mojos Sushi"
+  type: Restaurant
+  links: https://mojossushi.com/
+description: "Looking for sushi in Portland, Oregon? Check out Mojos Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJU415wjqnlVQR1yzLv48tz48
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 250
 website: https://mojossushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

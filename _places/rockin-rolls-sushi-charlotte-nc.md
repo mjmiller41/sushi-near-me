@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/rockin-rolls-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "Rockin' Rolls Sushi"
+  type: Restaurant
+  links: http://rockinrollscharlotte.com/
+description: "Looking for sushi in Charlotte, North Carolina? Check out Rockin' Rolls Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJYdDMAy6fVogR7oY7qnLwrjk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 1230
 website: http://rockinrollscharlotte.com/
-description: null
 reviews:
   - name: >-
       places/ChIJYdDMAy6fVogR7oY7qnLwrjk/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6ei15MGhBRRAB
@@ -432,5 +436,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

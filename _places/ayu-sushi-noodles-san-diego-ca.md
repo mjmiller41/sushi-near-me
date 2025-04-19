@@ -5,6 +5,11 @@ permalink: /california/san-diego/ayu-sushi-noodles.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Ayu Sushi & Noodles"
+  type: Restaurant
+  links: http://www.ayusushiandnoodles.com/
+description: "Looking for sushi in San Diego, California? Check out Ayu Sushi & Noodles for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJkazo4_gJ3IARCBIc2sFg-sQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 84
 website: http://www.ayusushiandnoodles.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

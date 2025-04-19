@@ -5,6 +5,11 @@ permalink: /pennsylvania/monaca/shogun-hibachi-steakhouse.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Monaca
+seo:
+  name: "Shogun Hibachi Steakhouse"
+  type: Restaurant
+  links: http://shogunhibachisteakhousepa.com/
+description: "Looking for sushi in Monaca, Pennsylvania? Check out Shogun Hibachi Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJ5dntlKlvNIgRGvdnWt7YBKQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 752
 website: http://shogunhibachisteakhousepa.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

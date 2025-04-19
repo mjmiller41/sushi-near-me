@@ -5,6 +5,11 @@ permalink: /florida/tampa/ahi-asian-bistro.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
+seo:
+  name: "Ahi Asian Bistro"
+  type: Restaurant
+  links: http://www.ahiasianbistro.com/
+description: "Looking for sushi in Tampa, Florida? Check out Ahi Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJyeFTA8DBwogRpNbNsMFWuFE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 460
 website: http://www.ahiasianbistro.com/
-description: null
 reviews:
   - name: >-
       places/ChIJyeFTA8DBwogRpNbNsMFWuFE/reviews/ChZDSUhNMG9nS0VJQ0FnTURROVotbExBEAE
@@ -462,5 +466,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

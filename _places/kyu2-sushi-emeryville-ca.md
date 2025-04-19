@@ -5,6 +5,11 @@ permalink: /california/emeryville/kyu2-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Emeryville
+seo:
+  name: "​KYU2 Sushi"
+  type: Restaurant
+  links: http://kyu-2.com/
+description: "Looking for sushi in Emeryville, California? Check out ​KYU2 Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJJYqg-l5-hYARdtxLviAxIEM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 281
 website: http://kyu-2.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

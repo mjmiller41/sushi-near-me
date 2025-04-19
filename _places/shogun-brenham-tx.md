@@ -5,6 +5,11 @@ permalink: /texas/brenham/shogun.html
 stateAbbr: TX
 stateName: Texas
 cityName: Brenham
+seo:
+  name: "Shogun"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Brenham, Texas? Check out Shogun for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJWVo8r8ypRoYRK2GAdwYoc8g
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

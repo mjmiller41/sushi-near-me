@@ -5,6 +5,11 @@ permalink: /california/camarillo/yomama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Camarillo
+seo:
+  name: "Yomama Sushi"
+  type: Restaurant
+  links: https://yomamasushitogo.com/
+description: "Looking for sushi in Camarillo, California? Check out Yomama Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJaS78X1k26IARCo1UZlW6aVs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 275
 website: https://yomamasushitogo.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

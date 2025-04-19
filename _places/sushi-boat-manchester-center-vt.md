@@ -5,6 +5,11 @@ permalink: /vermont/manchester-center/sushi-boat.html
 stateAbbr: VT
 stateName: Vermont
 cityName: Manchester Center
+seo:
+  name: "Sushi Boat"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Manchester Center, Vermont? Check out Sushi Boat for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJBavDq0Ve4IkR6i8t4RldpRo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

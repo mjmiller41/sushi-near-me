@@ -5,6 +5,11 @@ permalink: /new-jersey/newark/sushi-house-21.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Newark
+seo:
+  name: "Sushi House 21"
+  type: Restaurant
+  links: https://www.sushihouse21.net/
+description: "Relaxed standby featuring sashimi & clever sushi rolls, along with Japanese kitchen entrees. Looking for sushi in Newark, New Jersey? Check out Sushi House 2..."
 place_id: ChIJKRkmE5pTwokRG5RiRgqUdtg
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 215
 website: https://www.sushihouse21.net/
-description: >-
-  Relaxed standby featuring sashimi & clever sushi rolls, along with Japanese
-  kitchen entrees.
 reviews:
   - name: >-
       places/ChIJKRkmE5pTwokRG5RiRgqUdtg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbWUtem5BRRAB
@@ -388,5 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Relaxed standby featuring sashimi & clever sushi rolls, along with Japanese
+  kitchen entrees.
 
 ---

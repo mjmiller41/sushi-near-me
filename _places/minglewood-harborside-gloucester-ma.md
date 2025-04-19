@@ -5,6 +5,11 @@ permalink: /massachusetts/gloucester/minglewood-harborside.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Gloucester
+seo:
+  name: "Minglewood Harborside"
+  type: Restaurant
+  links: https://www.minglewoodharborside.com/
+description: "Seafood & sushi in a quirky harborfront space, plus live music in an adjoining pub & deck dining. Looking for sushi in Gloucester, Massachusetts? Check out M..."
 place_id: ChIJNwXWnB4l44kRed2ESlZEDX4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1006
 website: https://www.minglewoodharborside.com/
-description: >-
-  Seafood & sushi in a quirky harborfront space, plus live music in an adjoining
-  pub & deck dining.
 reviews:
   - name: >-
       places/ChIJNwXWnB4l44kRed2ESlZEDX4/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dk92NktBEAE
@@ -363,5 +365,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Seafood & sushi in a quirky harborfront space, plus live music in an adjoining
+  pub & deck dining.
 
 ---

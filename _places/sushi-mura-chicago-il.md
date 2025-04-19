@@ -5,6 +5,11 @@ permalink: /illinois/chicago/sushi-mura.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Sushi Mura"
+  type: Restaurant
+  links: http://www.sushimurachicago.com/
+description: "Sushi restaurant with specialty maki rolls & other Japanese fare in an intimate, stylish space. Looking for sushi in Chicago, Illinois? Check out Sushi Mura ..."
 place_id: ChIJL0Z-j07SD4gRpczF7BBU0YY
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 278
 website: http://www.sushimurachicago.com/
-description: >-
-  Sushi restaurant with specialty maki rolls & other Japanese fare in an
-  intimate, stylish space.
 reviews:
   - name: >-
       places/ChIJL0Z-j07SD4gRpczF7BBU0YY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbmFuTmZ3EAE
@@ -353,5 +355,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi restaurant with specialty maki rolls & other Japanese fare in an
+  intimate, stylish space.
 
 ---

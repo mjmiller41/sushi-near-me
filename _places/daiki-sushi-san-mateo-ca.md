@@ -5,6 +5,11 @@ permalink: /california/san-mateo/daiki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Mateo
+seo:
+  name: "Daiki Sushi"
+  type: Restaurant
+  links: https://www.sanmateodaikisushi.com/jen1d7sj/restaurant/order-online
+description: "Bright, spacious setting providing a large selection of rolls for dine-in, takeout & delivery. Looking for sushi in San Mateo, California? Check out Daiki Su..."
 place_id: ChIJ-7aII_iej4ARV_TT46jMcrQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 386
 website: https://www.sanmateodaikisushi.com/jen1d7sj/restaurant/order-online
-description: >-
-  Bright, spacious setting providing a large selection of rolls for dine-in,
-  takeout & delivery.
 reviews:
   - name: >-
       places/ChIJ-7aII_iej4ARV_TT46jMcrQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQNElTWm9BRRAB
@@ -350,5 +352,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Bright, spacious setting providing a large selection of rolls for dine-in,
+  takeout & delivery.
 
 ---

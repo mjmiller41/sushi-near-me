@@ -5,6 +5,11 @@ permalink: /washington/shoreline/ichi-bento.html
 stateAbbr: WA
 stateName: Washington
 cityName: Shoreline
+seo:
+  name: "Ichi Bento"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Shoreline, Washington? Check out Ichi Bento for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJNT_jV1QQkFQRkB3CeeFwdxY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 562
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

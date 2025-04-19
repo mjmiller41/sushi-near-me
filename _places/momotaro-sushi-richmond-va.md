@@ -5,6 +5,11 @@ permalink: /virginia/richmond/momotaro-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Richmond
+seo:
+  name: "Momotaro Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Richmond, Virginia? Check out Momotaro Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJScJIn-QTsYkRtrYHIAa8T9s
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '3.8'
 rating_count: 233
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJScJIn-QTsYkRtrYHIAa8T9s/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqZ1BmWWJBEAE
@@ -410,5 +414,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

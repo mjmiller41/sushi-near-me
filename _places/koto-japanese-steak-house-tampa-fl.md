@@ -5,6 +5,11 @@ permalink: /florida/tampa/koto-japanese-steak-house.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
+seo:
+  name: "Koto Japanese Steak House"
+  type: Restaurant
+  links: http://www.kotosteakhouse.com/
+description: "Looking for sushi in Tampa, Florida? Check out Koto Japanese Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJo-6FVmTDwogRzG0bqGGIbrQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 877
 website: http://www.kotosteakhouse.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

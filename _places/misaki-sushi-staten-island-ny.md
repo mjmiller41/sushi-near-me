@@ -5,6 +5,11 @@ permalink: /new-york/staten-island/misaki-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
+seo:
+  name: "Misaki Sushi"
+  type: Restaurant
+  links: http://www.misakisi.com/
+description: "Looking for sushi in Staten Island, New York? Check out Misaki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJdfkC69BKwokRsjart24mzGY
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: '4.4'
 rating_count: 178
 website: http://www.misakisi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJdfkC69BKwokRsjart24mzGY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBcXFQZVdBEAE
@@ -359,5 +363,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /oklahoma/oklahoma-city/hefner-sushi-poke.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
+seo:
+  name: "Hefner Sushi & Poke"
+  type: Restaurant
+  links: https://www.hefnersushi.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1917875245380930929
+description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Hefner Sushi & Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJTQR7dTEFsocR9zHOxx5FniE
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.7'
 rating_count: 70
 website: >-
   https://www.hefnersushi.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1917875245380930929
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

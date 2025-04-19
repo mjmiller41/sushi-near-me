@@ -5,6 +5,11 @@ permalink: /maryland/nottingham/new-han-dynasty-restaurant.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Nottingham
+seo:
+  name: "New Han Dynasty Restaurant"
+  type: Restaurant
+  links: https://m.facebook.com/NewHanDynasty/
+description: "Looking for sushi in Nottingham, Maryland? Check out New Han Dynasty Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJE8MNyrUJyIkRb5qU9i8VY8g
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 144
 website: https://m.facebook.com/NewHanDynasty/
-description: null
 reviews:
   - name: >-
       places/ChIJE8MNyrUJyIkRb5qU9i8VY8g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwczhqS0hREAE
@@ -362,5 +366,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

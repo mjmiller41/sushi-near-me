@@ -5,6 +5,11 @@ permalink: /texas/bedford/pho-v-noodle-house-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Bedford
+seo:
+  name: "Pho V Noodle House & Sushi"
+  type: Restaurant
+  links: https://www.phovnoodlehouse.com/
+description: "Looking for sushi in Bedford, Texas? Check out Pho V Noodle House & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJMRtG7qt_ToYRbI4f1Rx4Sv4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 2445
 website: https://www.phovnoodlehouse.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

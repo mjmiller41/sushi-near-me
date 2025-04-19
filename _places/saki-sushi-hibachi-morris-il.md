@@ -5,6 +5,11 @@ permalink: /illinois/morris/saki-sushi-hibachi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Morris
+seo:
+  name: "Saki Sushi&Hibachi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Morris, Illinois? Check out Saki Sushi&Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJOa5bTa6ZDogR27BZpZaYH28
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 169
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJOa5bTa6ZDogR27BZpZaYH28/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbTVmbkNBEAE
@@ -455,5 +459,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

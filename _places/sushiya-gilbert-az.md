@@ -5,6 +5,11 @@ permalink: /arizona/gilbert/sushiya.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
+seo:
+  name: "Sushiya"
+  type: Restaurant
+  links: http://www.azsushiya.com/
+description: "Looking for sushi in Gilbert, Arizona? Check out Sushiya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJQ15S6hSpK4cRJLR4L3XsnYA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 468
 website: http://www.azsushiya.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

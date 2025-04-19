@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/bonchon-raleigh-capital-blvd.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Bonchon Raleigh - Capital Blvd"
+  type: Restaurant
+  links: https://locations.bonchon.com/ll/US/NC/Raleigh/6320-Capital-Blvd
+description: "Looking for sushi in Raleigh, North Carolina? Check out Bonchon Raleigh - Capital Blvd for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJJSCb8JJZrIkRGoeO2fyy7uY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 485
 website: https://locations.bonchon.com/ll/US/NC/Raleigh/6320-Capital-Blvd
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

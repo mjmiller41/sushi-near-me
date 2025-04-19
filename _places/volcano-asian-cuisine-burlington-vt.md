@@ -5,6 +5,11 @@ permalink: /vermont/burlington/volcano-asian-cuisine.html
 stateAbbr: VT
 stateName: Vermont
 cityName: Burlington
+seo:
+  name: "Volcano Asian Cuisine"
+  type: Restaurant
+  links: http://volcanovtasiancuisine.com/
+description: "Looking for sushi in Burlington, Vermont? Check out Volcano Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJ-VAouehvykwRB1yQLsjT3Gs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 106
 website: http://volcanovtasiancuisine.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ-VAouehvykwRB1yQLsjT3Gs/reviews/ChdDSUhNMG9nS0VJQ0FnTURBbjlERmxRRRAB
@@ -379,5 +383,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /nevada/reno/jazmine.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
+seo:
+  name: "Jazmine"
+  type: Restaurant
+  links: https://jazminereno.com/
+description: "Looking for sushi in Reno, Nevada? Check out Jazmine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming at..."
 place_id: ChIJLZ8FP2wVmYARfgKLLDlzDAQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 711
 website: https://jazminereno.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

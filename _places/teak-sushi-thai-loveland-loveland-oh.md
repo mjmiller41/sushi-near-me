@@ -5,6 +5,11 @@ permalink: /ohio/loveland/teak-sushi-thai-loveland.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Loveland
+seo:
+  name: "Teak Sushi & Thai Loveland"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Loveland, Ohio? Check out Teak Sushi & Thai Loveland for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJi5IIpkH5QIgRZb7GKCetGig
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/new-york/tenzan.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Tenzan"
+  type: Restaurant
+  links: null
+description: "Neighborhood Japanese restaurant offers sushi, sashimi & traditional cooked fare for lunch & dinner. Looking for sushi in New York, New York? Check out Tenza..."
 place_id: ChIJsSw70bpYwokR8of7Ji2tqiU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 224
 website: null
-description: >-
-  Neighborhood Japanese restaurant offers sushi, sashimi & traditional cooked
-  fare for lunch & dinner.
 reviews:
   - name: >-
       places/ChIJsSw70bpYwokR8of7Ji2tqiU/reviews/ChZDSUhNMG9nS0VJQ0FnTURROWJfYWVnEAE
@@ -366,5 +368,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Neighborhood Japanese restaurant offers sushi, sashimi & traditional cooked
+  fare for lunch & dinner.
 
 ---

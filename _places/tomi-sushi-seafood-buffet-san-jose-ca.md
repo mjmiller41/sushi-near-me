@@ -5,6 +5,11 @@ permalink: /california/san-jose/tomi-sushi-seafood-buffet.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+seo:
+  name: "Tomi Sushi & Seafood Buffet"
+  type: Restaurant
+  links: https://www.tomibuffet.com/
+description: "Looking for sushi in San Jose, California? Check out Tomi Sushi & Seafood Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJvyjeVaEyjoAR_jC7VpXs0Fo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '3.9'
 rating_count: 2464
 website: https://www.tomibuffet.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

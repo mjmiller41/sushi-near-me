@@ -5,6 +5,11 @@ permalink: /texas/cypress/taisho-japanese-grill-and-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Cypress
+seo:
+  name: "Taisho Japanese Grill and Sushi Bar"
+  type: Restaurant
+  links: http://www.itaisho.com/
+description: "Looking for sushi in Cypress, Texas? Check out Taisho Japanese Grill and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJtbCZImDWQIYRb8_78HkaVtk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.1'
 rating_count: 584
 website: http://www.itaisho.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

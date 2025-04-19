@@ -5,6 +5,11 @@ permalink: /illinois/chicago/kyoten.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Kyōten"
+  type: Restaurant
+  links: http://kyotenchicago.com/
+description: "An omakase menu with sake pairings is the highlight at this upscale Japanese eatery & sushi bar Looking for sushi in Chicago, Illinois? Check out Kyōten for ..."
 place_id: ChIJqbhk96bTD4gR4wJOg2blQYE
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 139
 website: http://kyotenchicago.com/
-description: >-
-  An omakase menu with sake pairings is the highlight at this upscale Japanese
-  eatery & sushi bar
 reviews:
   - name: >-
       places/ChIJqbhk96bTD4gR4wJOg2blQYE/reviews/ChZDSUhNMG9nS0VJQ0FnSURubHNmTGJREAE
@@ -462,5 +464,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  An omakase menu with sake pairings is the highlight at this upscale Japanese
+  eatery & sushi bar
 
 ---

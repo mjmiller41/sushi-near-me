@@ -5,6 +5,11 @@ permalink: /california/alameda/waki.html
 stateAbbr: CA
 stateName: California
 cityName: Alameda
+seo:
+  name: "Waki"
+  type: Restaurant
+  links: https://www.wakisushi1403.com/
+description: "Looking for sushi in Alameda, California? Check out Waki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
 place_id: ChIJkTHW2l6Bj4AR9ayFQ-J4Kqw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 98
 website: https://www.wakisushi1403.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

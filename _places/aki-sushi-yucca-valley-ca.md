@@ -5,6 +5,11 @@ permalink: /california/yucca-valley/aki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Yucca Valley
+seo:
+  name: "Aki Sushi"
+  type: Restaurant
+  links: https://www.akisushiyuccavalley.com/
+description: "Looking for sushi in Yucca Valley, California? Check out Aki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJ7Qjg2AnY2oARiIhybvttk5I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1468
 website: https://www.akisushiyuccavalley.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

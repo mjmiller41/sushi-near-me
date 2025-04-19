@@ -5,6 +5,11 @@ permalink: /california/long-beach/retroll-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
+seo:
+  name: "RetRoll Sushi"
+  type: Restaurant
+  links: https://order.toasttab.com/online/tbd-sushi-2023-e-4th-st
+description: "Looking for sushi in Long Beach, California? Check out RetRoll Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJ6bloLgAx3YAR1yULijGjel4
 photos:
   - name: >-
@@ -126,7 +131,6 @@ price_range: $20 &ndash; $30
 rating: '5.0'
 rating_count: 24
 website: https://order.toasttab.com/online/tbd-sushi-2023-e-4th-st
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -153,5 +157,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

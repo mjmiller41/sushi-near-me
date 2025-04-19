@@ -5,6 +5,11 @@ permalink: /california/tustin/tommy-s-sushi-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Tustin
+seo:
+  name: "Tommy's Sushi Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "This Japanese restaurant lets the sushi take the spotlight amid a no-frills ambiance. Looking for sushi in Tustin, California? Check out Tommy's Sushi Japane..."
 place_id: ChIJKej5hcLb3IARkfWYVttryh4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 434
 website: null
-description: >-
-  This Japanese restaurant lets the sushi take the spotlight amid a no-frills
-  ambiance.
 reviews:
   - name: >-
       places/ChIJKej5hcLb3IARkfWYVttryh4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuNnJQb0VREAE
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  This Japanese restaurant lets the sushi take the spotlight amid a no-frills
+  ambiance.
 
 ---

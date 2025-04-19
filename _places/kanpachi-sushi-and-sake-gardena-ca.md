@@ -5,6 +5,11 @@ permalink: /california/gardena/kanpachi-sushi-and-sake.html
 stateAbbr: CA
 stateName: California
 cityName: Gardena
+seo:
+  name: "Kanpachi sushi and sake"
+  type: Restaurant
+  links: http://www.kanpachigardena.com/
+description: "Looking for sushi in Gardena, California? Check out Kanpachi sushi and sake for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJjwetbSG1woAROgSA3HWnig8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 194
 website: http://www.kanpachigardena.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

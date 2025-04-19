@@ -5,6 +5,11 @@ permalink: /new-jersey/hoboken/asia-sushi-chinese.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hoboken
+seo:
+  name: "Asia Sushi & Chinese"
+  type: Restaurant
+  links: http://www.asiasushichinesenj.com/
+description: "Counter-serve storefront with a long menu featuring standard Chinese eats, sushi & lunch specials. Looking for sushi in Hoboken, New Jersey? Check out Asia S..."
 place_id: ChIJ0TXP6NhZwokRPsUPxsQkgwI
 photos:
   - name: >-
@@ -176,9 +181,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 117
 website: http://www.asiasushichinesenj.com/
-description: >-
-  Counter-serve storefront with a long menu featuring standard Chinese eats,
-  sushi & lunch specials.
 reviews:
   - name: >-
       places/ChIJ0TXP6NhZwokRPsUPxsQkgwI/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cktHMFpREAE
@@ -384,5 +386,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Counter-serve storefront with a long menu featuring standard Chinese eats,
+  sushi & lunch specials.
 
 ---

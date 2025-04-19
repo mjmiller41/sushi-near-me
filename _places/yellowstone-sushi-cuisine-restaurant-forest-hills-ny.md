@@ -5,6 +5,11 @@ permalink: /new-york/forest-hills/yellowstone-sushi-cuisine-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Forest Hills
+seo:
+  name: "Yellowstone Sushi Cuisine Restaurant"
+  type: Restaurant
+  links: http://www.yellowstonesushi.com/
+description: "Looking for sushi in Forest Hills, New York? Check out Yellowstone Sushi Cuisine Restaurant for a delightful Japanese dining experience. Enjoy a variety of s..."
 place_id: ChIJ6Qv6QQdfwokRM6_W83P-28o
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: '4.7'
 rating_count: 111
 website: http://www.yellowstonesushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

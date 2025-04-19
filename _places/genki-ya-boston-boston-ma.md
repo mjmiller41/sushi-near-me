@@ -5,6 +5,11 @@ permalink: /massachusetts/boston/genki-ya-boston.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
+seo:
+  name: "Genki Ya - Boston"
+  type: Restaurant
+  links: http://genkiyasushi.com/
+description: "Looking for sushi in Boston, Massachusetts? Check out Genki Ya - Boston for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJb5LCVHZ644kRxRiTfd2DGKw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 894
 website: http://genkiyasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

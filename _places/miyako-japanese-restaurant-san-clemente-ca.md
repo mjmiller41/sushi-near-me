@@ -5,6 +5,11 @@ permalink: /california/san-clemente/miyako-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: San Clemente
+seo:
+  name: "Miyako Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Clemente, California? Check out Miyako Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJt0bUY2Tx3IARdxszhvBIxqk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

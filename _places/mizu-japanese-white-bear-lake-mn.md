@@ -5,6 +5,11 @@ permalink: /minnesota/white-bear-lake/mizu-japanese.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: White Bear Lake
+seo:
+  name: "Mizu Japanese"
+  type: Restaurant
+  links: https://www.mizuwbl.com/
+description: "Looking for sushi in White Bear Lake, Minnesota? Check out Mizu Japanese for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJZ0NLcNnQslIRL53HKCxLLmM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 471
 website: https://www.mizuwbl.com/
-description: null
 reviews:
   - name: >-
       places/ChIJZ0NLcNnQslIRL53HKCxLLmM/reviews/ChZDSUhNMG9nS0VJQ0FnTURneXBuZFZREAE
@@ -385,5 +389,6 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

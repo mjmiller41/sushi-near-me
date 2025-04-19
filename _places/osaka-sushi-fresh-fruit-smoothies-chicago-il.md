@@ -5,6 +5,11 @@ permalink: /illinois/chicago/osaka-sushi-fresh-fruit-smoothies.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Osaka Sushi & Fresh Fruit Smoothies"
+  type: Restaurant
+  links: http://www.osaka2go.com/
+description: "Counter-serve restaurant serving sushi, smoothies & bubble teas in a small, simple space. Looking for sushi in Chicago, Illinois? Check out Osaka Sushi & Fre..."
 place_id: ChIJKYy9QKIsDogRwugOgMR561M
 photos:
   - name: >-
@@ -177,9 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 599
 website: http://www.osaka2go.com/
-description: >-
-  Counter-serve restaurant serving sushi, smoothies & bubble teas in a small,
-  simple space.
 reviews:
   - name: >-
       places/ChIJKYy9QKIsDogRwugOgMR561M/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2LUxPcGJ3EAE
@@ -371,5 +373,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Counter-serve restaurant serving sushi, smoothies & bubble teas in a small,
+  simple space.
 
 ---

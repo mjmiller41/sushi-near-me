@@ -5,6 +5,11 @@ permalink: /new-york/staten-island/kiku.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
+seo:
+  name: "Kiku"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Staten Island, New York? Check out Kiku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJg73kXKtLwokRzEL-VwIHpk0
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

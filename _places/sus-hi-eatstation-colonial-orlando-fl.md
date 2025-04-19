@@ -5,6 +5,11 @@ permalink: /florida/orlando/sus-hi-eatstation-colonial.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+seo:
+  name: "Sus Hi Eatstation - Colonial"
+  type: Restaurant
+  links: https://sushieatstation.com/
+description: "Looking for sushi in Orlando, Florida? Check out Sus Hi Eatstation - Colonial for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJsU7ioAl754gR9jB0Zs2n9tg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 737
 website: https://sushieatstation.com/
-description: null
 reviews:
   - name: >-
       places/ChIJsU7ioAl754gR9jB0Zs2n9tg/reviews/ChdDSUhNMG9nS0VJQ0FnTURJak5xbF9BRRAB
@@ -447,5 +451,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

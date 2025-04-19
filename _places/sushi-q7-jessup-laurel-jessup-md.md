@@ -5,6 +5,11 @@ permalink: /maryland/jessup/sushi-q7-jessup-laurel.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Jessup
+seo:
+  name: "Sushi Q7 Jessup Laurel"
+  type: Restaurant
+  links: http://www.sushiqmd.com/
+description: "Looking for sushi in Jessup, Maryland? Check out Sushi Q7 Jessup Laurel for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJ25ZiHqrht4kRPBkTuGjmx7I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 609
 website: http://www.sushiqmd.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ25ZiHqrht4kRPBkTuGjmx7I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnekxHMkpBEAE
@@ -356,5 +360,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

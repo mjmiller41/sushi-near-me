@@ -5,6 +5,11 @@ permalink: /connecticut/newtown/fusion-25.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Newtown
+seo:
+  name: "Fusion 25"
+  type: Restaurant
+  links: https://www.fusion25.com/
+description: "Looking for sushi in Newtown, Connecticut? Check out Fusion 25 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJGQvMQbD854kR4ztjnGJbjLA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.3'
 rating_count: 376
 website: https://www.fusion25.com/
-description: null
 reviews:
   - name: >-
       places/ChIJGQvMQbD854kR4ztjnGJbjLA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbTRLeEtREAE
@@ -370,5 +374,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

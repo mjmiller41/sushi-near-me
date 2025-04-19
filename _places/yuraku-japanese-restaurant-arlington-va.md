@@ -5,6 +5,11 @@ permalink: /virginia/arlington/yuraku-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+seo:
+  name: "Yuraku Japanese Restaurant"
+  type: Restaurant
+  links: http://www.yurakusushiarlington.com/
+description: "Looking for sushi in Arlington, Virginia? Check out Yuraku Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJ8dag0XG3t4kRBIianbwn-3Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 192
 website: http://www.yurakusushiarlington.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ8dag0XG3t4kRBIianbwn-3Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURfZzU2QUlREAE
@@ -432,5 +436,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

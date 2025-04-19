@@ -5,6 +5,11 @@ permalink: /california/san-francisco/fish-n-gari.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Fish N Gari"
+  type: Restaurant
+  links: http://orderfishngari.com/
+description: "Informal Japanese restaurant serving sushi, teriyaki & udon noodles for dine-in or delivery. Looking for sushi in San Francisco, California? Check out Fish N..."
 place_id: ChIJjTEnAuuAhYARB2g4qgYihJg
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: null
 rating: '4.2'
 rating_count: 119
 website: http://orderfishngari.com/
-description: >-
-  Informal Japanese restaurant serving sushi, teriyaki & udon noodles for
-  dine-in or delivery.
 reviews:
   - name: >-
       places/ChIJjTEnAuuAhYARB2g4qgYihJg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4c1lQMk13EAE
@@ -423,5 +425,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Informal Japanese restaurant serving sushi, teriyaki & udon noodles for
+  dine-in or delivery.
 
 ---

@@ -5,6 +5,11 @@ permalink: /virginia/fairfax/gyu-shige-japanese-bbq.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
+seo:
+  name: "Gyu Shige (牛繁) Japanese BBQ"
+  type: Restaurant
+  links: http://www.gyushigeus.com/
+description: "Looking for sushi in Fairfax, Virginia? Check out Gyu Shige (牛繁) Japanese BBQ for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJbxnQQfNLtokREjUJj7lkHDg
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 556
 website: http://www.gyushigeus.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

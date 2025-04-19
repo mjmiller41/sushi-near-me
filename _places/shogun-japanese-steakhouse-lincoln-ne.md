@@ -5,6 +5,11 @@ permalink: /nebraska/lincoln/shogun-japanese-steakhouse.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
+seo:
+  name: "Shogun Japanese Steakhouse"
+  type: Restaurant
+  links: http://shogunnebraska.com/
+description: "Looking for sushi in Lincoln, Nebraska? Check out Shogun Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJDbUtlheWlocR9ei3lhM8x68
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 716
 website: http://shogunnebraska.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

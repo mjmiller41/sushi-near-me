@@ -5,6 +5,11 @@ permalink: /new-york/new-york/bamboo-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Bamboo Sushi"
+  type: Restaurant
+  links: http://69bamboosushi.com/
+description: "Japanese eatery with brick-lined walls offering a wide selection of sushi, plus noodles & tempura. Looking for sushi in New York, New York? Check out Bamboo ..."
 place_id: ChIJ-T6nOsJYwokR37EthVIrwyI
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 250
 website: http://69bamboosushi.com/
-description: >-
-  Japanese eatery with brick-lined walls offering a wide selection of sushi,
-  plus noodles & tempura.
 reviews:
   - name: >-
       places/ChIJ-T6nOsJYwokR37EthVIrwyI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRaHFya2d3RRAB
@@ -375,5 +377,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese eatery with brick-lined walls offering a wide selection of sushi,
+  plus noodles & tempura.
 
 ---

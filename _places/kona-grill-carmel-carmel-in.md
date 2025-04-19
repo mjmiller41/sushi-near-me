@@ -5,6 +5,11 @@ permalink: /indiana/carmel/kona-grill-carmel.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Carmel
+seo:
+  name: "Kona Grill - Carmel"
+  type: Restaurant
+  links: https://konagrill.com/locations?locations=Carmel
+description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Looking for sushi in Carmel, Indiana? Check out Kona Grill ..."
 place_id: ChIJjyQv59WtFIgRNT6E-2aNBL0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 3953
 website: https://konagrill.com/locations?locations=Carmel
-description: >-
-  Sleek chain with a broad New American menu including low-calorie options, plus
-  sushi & cocktails.
 reviews:
   - name: >-
       places/ChIJjyQv59WtFIgRNT6E-2aNBL0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmeE5yUFhREAE
@@ -388,5 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sleek chain with a broad New American menu including low-calorie options, plus
+  sushi & cocktails.
 
 ---

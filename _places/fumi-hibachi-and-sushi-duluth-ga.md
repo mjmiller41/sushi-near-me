@@ -5,6 +5,11 @@ permalink: /georgia/duluth/fumi-hibachi-and-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Duluth
+seo:
+  name: "Fumi Hibachi and Sushi"
+  type: Restaurant
+  links: https://fumiatlanta.com/
+description: "Looking for sushi in Duluth, Georgia? Check out Fumi Hibachi and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJqTaBfxuj9YgR2yh-egDJcyM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 809
 website: https://fumiatlanta.com/
-description: null
 reviews:
   - name: >-
       places/ChIJqTaBfxuj9YgR2yh-egDJcyM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMjliTVBREAE
@@ -434,5 +438,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

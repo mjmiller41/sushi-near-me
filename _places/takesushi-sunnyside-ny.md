@@ -5,6 +5,11 @@ permalink: /new-york/sunnyside/takesushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Sunnyside
+seo:
+  name: "Takesushi"
+  type: Restaurant
+  links: http://www.takesushinyc.com/
+description: "This charming restaurant specializing in traditional Japanese food & sushi has daily lunch specials. Looking for sushi in Sunnyside, New York? Check out Take..."
 place_id: ChIJzWqEZdhewokRg3H5Q-5B90g
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 503
 website: http://www.takesushinyc.com/
-description: >-
-  This charming restaurant specializing in traditional Japanese food & sushi has
-  daily lunch specials.
 reviews:
   - name: >-
       places/ChIJzWqEZdhewokRg3H5Q-5B90g/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdTZpQTBRRRAB
@@ -456,5 +458,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  This charming restaurant specializing in traditional Japanese food & sushi has
+  daily lunch specials.
 
 ---

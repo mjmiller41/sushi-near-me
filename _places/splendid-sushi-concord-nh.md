@@ -5,6 +5,11 @@ permalink: /new-hampshire/concord/splendid-sushi.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Concord
+seo:
+  name: "Splendid Sushi"
+  type: Restaurant
+  links: https://order.online/business/splendid-sushi-12623271
+description: "Looking for sushi in Concord, New Hampshire? Check out Splendid Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ-Ybm9Nxr4okRJyFe4WcNWJE
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 332
 website: https://order.online/business/splendid-sushi-12623271
-description: null
 reviews:
   - name: >-
       places/ChIJ-Ybm9Nxr4okRJyFe4WcNWJE/reviews/ChZDSUhNMG9nS0VJQ0FnSURmcC15RldBEAE
@@ -367,5 +371,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

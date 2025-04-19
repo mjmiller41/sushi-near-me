@@ -5,6 +5,11 @@ permalink: /maryland/bethesda/kanpai-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Bethesda
+seo:
+  name: "Kanpai Sushi"
+  type: Restaurant
+  links: https://kanpaisushicarryout.com/
+description: "Unassuming resource for takeout sushi, plus a variety of Asian grocery items & beverages. Looking for sushi in Bethesda, Maryland? Check out Kanpai Sushi for..."
 place_id: ChIJze3rm1rKt4kRGpNiJ6EqD4s
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 75
 website: https://kanpaisushicarryout.com/
-description: >-
-  Unassuming resource for takeout sushi, plus a variety of Asian grocery items &
-  beverages.
 reviews:
   - name: >-
       places/ChIJze3rm1rKt4kRGpNiJ6EqD4s/reviews/ChZDSUhNMG9nS0VJQ0FnSURScFpxUGNnEAE
@@ -356,5 +358,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: >-
+  Unassuming resource for takeout sushi, plus a variety of Asian grocery items &
+  beverages.
 
 ---

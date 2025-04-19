@@ -5,6 +5,11 @@ permalink: /michigan/commerce-township/yummy-house.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Commerce Township
+seo:
+  name: "Yummy House"
+  type: Restaurant
+  links: https://www.smorefood.com/order-online/yummy-house-commerce-township-48390-fptqg3no?utm_source=gmb&utm_medium=website
+description: "Unassuming, compact eatery featuring classic Chinese dishes & sushi rolls in a low-key atmosphere. Looking for sushi in Commerce Township, Michigan? Check ou..."
 place_id: ChIJlx2GsiOlJIgRK1Qlv88DwUw
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.1'
 rating_count: 302
 website: >-
   https://www.smorefood.com/order-online/yummy-house-commerce-township-48390-fptqg3no?utm_source=gmb&utm_medium=website
-description: >-
-  Unassuming, compact eatery featuring classic Chinese dishes & sushi rolls in a
-  low-key atmosphere.
 reviews:
   - name: >-
       places/ChIJlx2GsiOlJIgRK1Qlv88DwUw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnNGFtcXR3RRAB
@@ -368,5 +370,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Unassuming, compact eatery featuring classic Chinese dishes & sushi rolls in a
+  low-key atmosphere.
 
 ---

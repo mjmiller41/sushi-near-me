@@ -5,6 +5,11 @@ permalink: /california/culver-city/uzumaki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Culver City
+seo:
+  name: "Uzumaki Sushi"
+  type: Restaurant
+  links: http://www.uzumaki-sushi.com/
+description: "Looking for sushi in Culver City, California? Check out Uzumaki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ15ypvj66woARULXCuoJZxrc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.7'
 rating_count: 455
 website: http://www.uzumaki-sushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

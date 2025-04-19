@@ -5,6 +5,11 @@ permalink: /virginia/glen-allen/tokyo-sushi-richmond.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Glen Allen
+seo:
+  name: "Tokyo Sushi Richmond"
+  type: Restaurant
+  links: https://tokyosushitogo.com/
+description: "Relaxed eatery with traditional decor offering sushi & other familiar Japanese dishes. Looking for sushi in Glen Allen, Virginia? Check out Tokyo Sushi Richm..."
 place_id: ChIJ0zbj3NA_sYkRVRK21QKGQmg
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 417
 website: https://tokyosushitogo.com/
-description: >-
-  Relaxed eatery with traditional decor offering sushi & other familiar Japanese
-  dishes.
 reviews:
   - name: >-
       places/ChIJ0zbj3NA_sYkRVRK21QKGQmg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJejRHQXNRRRAB
@@ -399,5 +401,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Relaxed eatery with traditional decor offering sushi & other familiar Japanese
+  dishes.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/new-hyde-park/sushi-republic.html
 stateAbbr: NY
 stateName: New York
 cityName: New Hyde Park
+seo:
+  name: "Sushi Republic"
+  type: Restaurant
+  links: https://www.sushirepublicny.com/
+description: "Low-key restaurant serving up typical sushi & sashimi options, plus Chinese & Japanese dishes. Looking for sushi in New Hyde Park, New York? Check out Sushi ..."
 place_id: ChIJ0RvLAQSIwokRhHs6DZJr7wI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 647
 website: https://www.sushirepublicny.com/
-description: >-
-  Low-key restaurant serving up typical sushi & sashimi options, plus Chinese &
-  Japanese dishes.
 reviews:
   - name: >-
       places/ChIJ0RvLAQSIwokRhHs6DZJr7wI/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzZ3JIUGlRRRAB
@@ -374,5 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Low-key restaurant serving up typical sushi & sashimi options, plus Chinese &
+  Japanese dishes.
 
 ---

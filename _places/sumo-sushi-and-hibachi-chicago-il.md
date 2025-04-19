@@ -5,6 +5,11 @@ permalink: /illinois/chicago/sumo-sushi-and-hibachi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Sumo Sushi and Hibachi"
+  type: Restaurant
+  links: http://www.sumosushichicago.com/info.html
+description: "Japanese fare including loads of sushi in a cozy, casual space with a bring-your-own-alcohol policy. Looking for sushi in Chicago, Illinois? Check out Sumo S..."
 place_id: ChIJOxqzQ6fTD4gRirnJRp-8wr8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 362
 website: http://www.sumosushichicago.com/info.html
-description: >-
-  Japanese fare including loads of sushi in a cozy, casual space with a
-  bring-your-own-alcohol policy.
 reviews:
   - name: >-
       places/ChIJOxqzQ6fTD4gRirnJRp-8wr8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNndlBqYkdnEAE
@@ -371,5 +373,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese fare including loads of sushi in a cozy, casual space with a
+  bring-your-own-alcohol policy.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-francisco/warakubune.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Warakubune"
+  type: Restaurant
+  links: null
+description: "Diners at this Japanese joint snag their sushi from boats that sail by on a conveyor belt. Looking for sushi in San Francisco, California? Check out Warakubu..."
 place_id: ChIJGQnGlh5-j4ARAXOJ0vGq53k
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 317
 website: null
-description: >-
-  Diners at this Japanese joint snag their sushi from boats that sail by on a
-  conveyor belt.
 reviews:
   - name: >-
       places/ChIJGQnGlh5-j4ARAXOJ0vGq53k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfOGF2S3B3RRAB
@@ -417,5 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Diners at this Japanese joint snag their sushi from boats that sail by on a
+  conveyor belt.
 
 ---

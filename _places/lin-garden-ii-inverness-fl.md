@@ -5,6 +5,11 @@ permalink: /florida/inverness/lin-garden-ii.html
 stateAbbr: FL
 stateName: Florida
 cityName: Inverness
+seo:
+  name: "Lin Garden II"
+  type: Restaurant
+  links: https://www.lingarden2.com/
+description: "Looking for sushi in Inverness, Florida? Check out Lin Garden II for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJC_8KAx5z6IgR0aIiHw2X_pA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.8'
 rating_count: 509
 website: https://www.lingarden2.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

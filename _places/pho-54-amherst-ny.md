@@ -5,6 +5,11 @@ permalink: /new-york/amherst/pho-54.html
 stateAbbr: NY
 stateName: New York
 cityName: Amherst
+seo:
+  name: "Pho 54"
+  type: Restaurant
+  links: https://www.pho54online.com/
+description: "Informal eatery serving an array of Vietnamese dishes alongside Thai curries & sushi rolls. Looking for sushi in Amherst, New York? Check out Pho 54 for a de..."
 place_id: ChIJKcVwLDFy04kRuw60-ojfLZg
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 544
 website: https://www.pho54online.com/
-description: >-
-  Informal eatery serving an array of Vietnamese dishes alongside Thai curries &
-  sushi rolls.
 reviews:
   - name: >-
       places/ChIJKcVwLDFy04kRuw60-ojfLZg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6cmZHUklBEAE
@@ -412,5 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Informal eatery serving an array of Vietnamese dishes alongside Thai curries &
+  sushi rolls.
 
 ---

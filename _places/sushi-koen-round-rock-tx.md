@@ -5,6 +5,11 @@ permalink: /texas/round-rock/sushi-koen.html
 stateAbbr: TX
 stateName: Texas
 cityName: Round Rock
+seo:
+  name: "Sushi Koen"
+  type: Restaurant
+  links: https://www.facebook.com/profile.php?id=100063732692392
+description: "Looking for sushi in Round Rock, Texas? Check out Sushi Koen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJiTKmcb_RRIYRM-HvMdIFeyQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.6'
 rating_count: 494
 website: https://www.facebook.com/profile.php?id=100063732692392
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

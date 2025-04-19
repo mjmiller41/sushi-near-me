@@ -5,6 +5,11 @@ permalink: /california/vacaville/okashi-fusion.html
 stateAbbr: CA
 stateName: California
 cityName: Vacaville
+seo:
+  name: "Okashi Fusion"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Vacaville, California? Check out Okashi Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJfeZfAc0ihYARbw8Ws0DN2iU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

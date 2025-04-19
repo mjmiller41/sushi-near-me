@@ -5,6 +5,11 @@ permalink: /massachusetts/quincy/bonchon-quincy-newport-ave.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Quincy
+seo:
+  name: "Bonchon Quincy-Newport Ave"
+  type: Restaurant
+  links: https://locations.bonchon.com/ll/US/MA/Quincy/65-Newport-Avenue
+description: "Looking for sushi in Quincy, Massachusetts? Check out Bonchon Quincy-Newport Ave for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJ96TrRrZ744kRPkXPH8chf2E
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 168
 website: https://locations.bonchon.com/ll/US/MA/Quincy/65-Newport-Avenue
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

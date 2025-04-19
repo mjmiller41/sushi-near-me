@@ -5,6 +5,11 @@ permalink: /california/san-francisco/ebisu-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Ebisu Restaurant"
+  type: Restaurant
+  links: https://ebisusushi.com/
+description: "Looking for sushi in San Francisco, California? Check out Ebisu Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJ93MU4FyHhYARNsN1cMElpgo
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 1157
 website: https://ebisusushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

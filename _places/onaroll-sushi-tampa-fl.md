@@ -5,6 +5,11 @@ permalink: /florida/tampa/onaroll-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
+seo:
+  name: "OnARoll Sushi"
+  type: Restaurant
+  links: http://www.onarollsushiandthai.com/
+description: "Bright, casual eatery offering creative, customizable rolls & specialties including sushi burritos. Looking for sushi in Tampa, Florida? Check out OnARoll Su..."
 place_id: ChIJ7aUBZozEwogR8TnbN0B5YQo
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 378
 website: http://www.onarollsushiandthai.com/
-description: >-
-  Bright, casual eatery offering creative, customizable rolls & specialties
-  including sushi burritos.
 reviews:
   - name: >-
       places/ChIJ7aUBZozEwogR8TnbN0B5YQo/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2Z0txdVV3EAE
@@ -379,5 +381,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Bright, casual eatery offering creative, customizable rolls & specialties
+  including sushi burritos.
 
 ---

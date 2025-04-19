@@ -5,6 +5,11 @@ permalink: /nevada/henderson/chinitas-tapas-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Henderson
+seo:
+  name: "Chinitas Tapas & Sushi"
+  type: Restaurant
+  links: http://www.chinitastapas.com/
+description: "Looking for sushi in Henderson, Nevada? Check out Chinitas Tapas & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJbQHfSvfXyIARU17iK0Spv1A
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 1007
 website: http://www.chinitastapas.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

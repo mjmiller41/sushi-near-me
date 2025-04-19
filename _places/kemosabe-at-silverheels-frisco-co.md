@@ -5,6 +5,11 @@ permalink: /colorado/frisco/kemosabe-at-silverheels.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Frisco
+seo:
+  name: "Kemosabe at Silverheels"
+  type: Restaurant
+  links: https://kemosabeatsilverheels.com/?utm_source=Google%20My%20Business&utm_medium=organic
+description: "Looking for sushi in Frisco, Colorado? Check out Kemosabe at Silverheels for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJ91PdoZBeaocRFTg2xkP6UMg
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.3'
 rating_count: 1442
 website: >-
   https://kemosabeatsilverheels.com/?utm_source=Google%20My%20Business&utm_medium=organic
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

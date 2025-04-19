@@ -5,6 +5,11 @@ permalink: /oregon/portland/uchu-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
+seo:
+  name: "UCHU Sushi"
+  type: Restaurant
+  links: http://uchusushi.com/
+description: "Looking for sushi in Portland, Oregon? Check out UCHU Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJrwNJUGqnlVQRx28O7kUy4Ec
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 982
 website: http://uchusushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /georgia/dunwoody/cuddlefish.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Dunwoody
+seo:
+  name: "Cuddlefish"
+  type: Restaurant
+  links: https://www.cuddlefishatl.com/
+description: "Looking for sushi in Dunwoody, Georgia? Check out Cuddlefish for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJtdKgDAcJ9YgRRp3VA6b9tGU
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: '4.3'
 rating_count: 30
 website: https://www.cuddlefishatl.com/
-description: null
 reviews:
   - name: >-
       places/ChIJtdKgDAcJ9YgRRp3VA6b9tGU/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aE9xNWVREAE
@@ -588,5 +592,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

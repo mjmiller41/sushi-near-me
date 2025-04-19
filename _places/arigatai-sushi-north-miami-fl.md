@@ -5,6 +5,11 @@ permalink: /florida/north-miami/arigatai-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: North Miami
+seo:
+  name: "Arigatai Sushi"
+  type: Restaurant
+  links: https://arigataisushi.com/
+description: "Looking for sushi in North Miami, Florida? Check out Arigatai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJgdE9LH-z2YgRzylx6tKl3sU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 1244
 website: https://arigataisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJgdE9LH-z2YgRzylx6tKl3sU/reviews/ChZDSUhNMG9nS0VJQ0FnTURnckpXZFVREAE
@@ -457,5 +461,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

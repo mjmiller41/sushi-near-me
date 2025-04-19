@@ -5,6 +5,14 @@ import yaml from 'js-yaml'
 import { glob } from 'glob'
 import { MONTH_MAP } from './constants.js'
 
+String.prototype.truncate = function (num) {
+  if (this.length <= num) {
+    return this
+  } else {
+    return this.slice(0, num - 3) + '...'
+  }
+}
+
 const __dirname = import.meta.dirname
 const dictionary = {
   '&': 'and',

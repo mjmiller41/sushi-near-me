@@ -5,6 +5,11 @@ permalink: /new-york/new-york/sushi-nonaka.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Sushi Nonaka"
+  type: Restaurant
+  links: http://www.sushinonaka.com/
+description: "Sushi & small plates are served at this warm, narrow Japanese eatery offering outdoor seating. Looking for sushi in New York, New York? Check out Sushi Nonak..."
 place_id: ChIJU-oKKh1ZwokR9HVy197A8mM
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 317
 website: http://www.sushinonaka.com/
-description: >-
-  Sushi & small plates are served at this warm, narrow Japanese eatery offering
-  outdoor seating.
 reviews:
   - name: >-
       places/ChIJU-oKKh1ZwokR9HVy197A8mM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJenVHSlp3EAE
@@ -531,5 +533,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi & small plates are served at this warm, narrow Japanese eatery offering
+  outdoor seating.
 
 ---

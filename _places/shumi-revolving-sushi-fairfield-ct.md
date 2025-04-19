@@ -5,6 +5,11 @@ permalink: /connecticut/fairfield/shumi-revolving-sushi.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Fairfield
+seo:
+  name: "SHUMI REVOLVING SUSHI"
+  type: Restaurant
+  links: http://shumirevolvingsushi.com/
+description: "Looking for sushi in Fairfield, Connecticut? Check out SHUMI REVOLVING SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJ4X-DTL0P6IkRYWOkjvx1YU0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 275
 website: http://shumirevolvingsushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ4X-DTL0P6IkRYWOkjvx1YU0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNneXMycjZ3RRAB
@@ -385,5 +389,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

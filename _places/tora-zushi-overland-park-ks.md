@@ -5,6 +5,11 @@ permalink: /kansas/overland-park/tora-zushi.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Overland Park
+seo:
+  name: "Tora Zushi"
+  type: Restaurant
+  links: https://www.strang.cc/torazushi
+description: "Looking for sushi in Overland Park, Kansas? Check out Tora Zushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJ7xngJ8ntwIcRN8MNrwloEAw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 19
 website: https://www.strang.cc/torazushi
-description: null
 reviews:
   - name: >-
       places/ChIJ7xngJ8ntwIcRN8MNrwloEAw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtLThQZkV3EAE
@@ -350,5 +354,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

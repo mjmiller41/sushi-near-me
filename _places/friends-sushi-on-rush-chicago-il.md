@@ -5,6 +5,11 @@ permalink: /illinois/chicago/friends-sushi-on-rush.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Friends Sushi on Rush"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Chicago, Illinois? Check out Friends Sushi on Rush for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJd2xyLVPTD4gRvgBiPq3ys3s
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

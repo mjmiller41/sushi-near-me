@@ -5,6 +5,11 @@ permalink: /maryland/baltimore/chiu-s-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
+seo:
+  name: "Chiu's Sushi"
+  type: Restaurant
+  links: https://www.newchiussushimd.com/
+description: "Looking for sushi in Baltimore, Maryland? Check out Chiu's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJ96QjBRcDyIkRD18zp4AK4DA
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 118
 website: https://www.newchiussushimd.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ96QjBRcDyIkRD18zp4AK4DA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnd3JQY2xnRRAB
@@ -356,5 +360,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

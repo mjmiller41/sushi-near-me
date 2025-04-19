@@ -5,6 +5,11 @@ permalink: /california/la-mesa/narumi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: La Mesa
+seo:
+  name: "Narumi Sushi"
+  type: Restaurant
+  links: https://order.toasttab.com/online/narumi-sushi-9118-fletcher-pkwy
+description: "Looking for sushi in La Mesa, California? Check out Narumi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJb4KlBHZX2YAR0tqQqWKtmXc
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 860
 website: https://order.toasttab.com/online/narumi-sushi-9118-fletcher-pkwy
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

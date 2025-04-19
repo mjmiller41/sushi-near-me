@@ -5,6 +5,11 @@ permalink: /michigan/rochester/sumo-sushi-seafood.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Rochester
+seo:
+  name: "Sumo Sushi & Seafood"
+  type: Restaurant
+  links: http://www.sumosushiandseafood.com/
+description: "Minimalist Japanese eatery with dark-wood tables also features Korean dishes & gluten-free fare. Looking for sushi in Rochester, Michigan? Check out Sumo Sus..."
 place_id: ChIJk49xwrnpJIgRwkcbu6Twfoo
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 705
 website: http://www.sumosushiandseafood.com/
-description: >-
-  Minimalist Japanese eatery with dark-wood tables also features Korean dishes &
-  gluten-free fare.
 reviews:
   - name: >-
       places/ChIJk49xwrnpJIgRwkcbu6Twfoo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnck1IZXZBRRAB
@@ -356,5 +358,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Minimalist Japanese eatery with dark-wood tables also features Korean dishes &
+  gluten-free fare.
 
 ---

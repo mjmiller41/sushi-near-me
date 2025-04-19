@@ -5,6 +5,11 @@ permalink: /texas/temple/kano-cafe.html
 stateAbbr: TX
 stateName: Texas
 cityName: Temple
+seo:
+  name: "Kano Cafe"
+  type: Restaurant
+  links: https://yoshihibachi.com/
+description: "Looking for sushi in Temple, Texas? Check out Kano Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
 place_id: ChIJiRF6TmJrRYYR35hjoLbqKqQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 597
 website: https://yoshihibachi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

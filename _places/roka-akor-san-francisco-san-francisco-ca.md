@@ -5,6 +5,11 @@ permalink: /california/san-francisco/roka-akor-san-francisco.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Roka Akor - San Francisco"
+  type: Restaurant
+  links: https://www.rokaakor.com/san-francisco/?utm_source=google&utm_medium=Yext
+description: "Upscale Japanese restaurant & bar supplying steak, seafood & sushi in a contemporary setting. Looking for sushi in San Francisco, California? Check out Roka ..."
 place_id: ChIJS87mHCiBhYARiPE2_wqmEr4
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 1271
 website: https://www.rokaakor.com/san-francisco/?utm_source=google&utm_medium=Yext
-description: >-
-  Upscale Japanese restaurant & bar supplying steak, seafood & sushi in a
-  contemporary setting.
 reviews:
   - name: >-
       places/ChIJS87mHCiBhYARiPE2_wqmEr4/reviews/ChdDSUhNMG9nS0VJQ0FnTURBamVYUHN3RRAB
@@ -365,5 +367,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Upscale Japanese restaurant & bar supplying steak, seafood & sushi in a
+  contemporary setting.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/los-angeles/tom-s-sushi-house.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Tom's Sushi House"
+  type: Restaurant
+  links: https://order.online/business/toms-sushi-house-11222735
+description: "Looking for sushi in Los Angeles, California? Check out Tom's Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJ94xlTkK7woARGXMmGc9CoCw
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 207
 website: https://order.online/business/toms-sushi-house-11222735
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

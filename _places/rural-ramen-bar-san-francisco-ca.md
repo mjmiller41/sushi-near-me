@@ -5,6 +5,11 @@ permalink: /california/san-francisco/rural-ramen-bar.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Rural Ramen Bar"
+  type: Restaurant
+  links: https://www.ruralramenbarca.com/l9h0w017/restaurant/order-online
+description: "Looking for sushi in San Francisco, California? Check out Rural Ramen Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJr_OH-WiBhYARfUXHwDqwdSo
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 348
 website: https://www.ruralramenbarca.com/l9h0w017/restaurant/order-online
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

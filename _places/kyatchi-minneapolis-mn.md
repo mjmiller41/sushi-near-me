@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/kyatchi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "Kyatchi"
+  type: Restaurant
+  links: http://kyatchi.com/
+description: "This contemporary eatery serves traditional & creative sushi, Japanese small plates & mains. Looking for sushi in Minneapolis, Minnesota? Check out Kyatchi f..."
 place_id: ChIJScokAsAn9ocRj9VZ_IsRrMc
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 1006
 website: http://kyatchi.com/
-description: >-
-  This contemporary eatery serves traditional & creative sushi, Japanese small
-  plates & mains.
 reviews:
   - name: >-
       places/ChIJScokAsAn9ocRj9VZ_IsRrMc/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3LXItWGVREAE
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  This contemporary eatery serves traditional & creative sushi, Japanese small
+  plates & mains.
 
 ---

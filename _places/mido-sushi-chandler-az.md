@@ -5,6 +5,11 @@ permalink: /arizona/chandler/mido-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
+seo:
+  name: "Mido Sushi"
+  type: Restaurant
+  links: http://www.midosushi.com/
+description: "Looking for sushi in Chandler, Arizona? Check out Mido Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJrRU-1VYHK4cRuPi2YfJUqko
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 1173
 website: http://www.midosushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

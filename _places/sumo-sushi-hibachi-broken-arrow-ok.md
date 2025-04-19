@@ -5,6 +5,11 @@ permalink: /oklahoma/broken-arrow/sumo-sushi-hibachi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Broken Arrow
+seo:
+  name: "Sumo Sushi & Hibachi"
+  type: Restaurant
+  links: http://sumosushibrokenarrow.com/
+description: "Looking for sushi in Broken Arrow, Oklahoma? Check out Sumo Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJaas6kayLtocRkq1EmydHFoY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 478
 website: http://sumosushibrokenarrow.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

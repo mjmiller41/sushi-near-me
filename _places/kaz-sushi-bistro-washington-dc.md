@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/kaz-sushi-bistro.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "KAZ Sushi Bistro"
+  type: Restaurant
+  links: http://www.kazsushi.com/
+description: "Sushi spot with familiar & specialty Japanese menu options, including chef's tasting menus. Looking for sushi in Washington, District of Columbia? Check out ..."
 place_id: ChIJ36o9Bbq3t4kR66FGn7eZBwI
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 0
 website: http://www.kazsushi.com/
-description: >-
-  Sushi spot with familiar & specialty Japanese menu options, including chef's
-  tasting menus.
 reviews:
   - name: >-
       places/ChIJ36o9Bbq3t4kR66FGn7eZBwI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReklQRmd3RRAB
@@ -386,5 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi spot with familiar & specialty Japanese menu options, including chef's
+  tasting menus.
 
 ---

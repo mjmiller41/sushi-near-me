@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/torai-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Torai Sushi"
+  type: Restaurant
+  links: http://toraisushi.com/
+description: "A menu specializing in Japanese ramen & comfort food, alongside sushi & poke bowls in a chill space. Looking for sushi in Washington, District of Columbia? C..."
 place_id: ChIJgbu76My5t4kR6JfRDDFyrqk
 photos:
   - name: >-
@@ -176,9 +181,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://toraisushi.com/
-description: >-
-  A menu specializing in Japanese ramen & comfort food, alongside sushi & poke
-  bowls in a chill space.
 reviews:
   - name: >-
       places/ChIJgbu76My5t4kR6JfRDDFyrqk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNna3FtZFhnEAE
@@ -396,5 +398,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A menu specializing in Japanese ramen & comfort food, alongside sushi & poke
+  bowls in a chill space.
 
 ---

@@ -5,6 +5,11 @@ permalink: /south-carolina/lexington/takosushi-lexington.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Lexington
+seo:
+  name: "TakoSushi- Lexington"
+  type: Restaurant
+  links: https://takosushi.com/
+description: "Looking for sushi in Lexington, South Carolina? Check out TakoSushi- Lexington for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJtxHedcyX-IgRzexF8C2YTtk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '3.8'
 rating_count: 90
 website: https://takosushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

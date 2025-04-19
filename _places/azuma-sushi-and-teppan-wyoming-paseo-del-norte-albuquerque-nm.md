@@ -5,6 +5,11 @@ permalink: /new-mexico/albuquerque/azuma-sushi-and-teppan-wyoming-paseo-del-nort
 stateAbbr: NM
 stateName: New Mexico
 cityName: Albuquerque
+seo:
+  name: "Azuma Sushi and Teppan Wyoming & Paseo Del Norte"
+  type: Restaurant
+  links: https://www.azuma-sushi-teppan-abq.com/
+description: "Looking for sushi in Albuquerque, New Mexico? Check out Azuma Sushi and Teppan Wyoming & Paseo Del Norte for a delightful Japanese dining experience. Enjoy a..."
 place_id: ChIJJZvaAJV1IocR4uyZN0dxI0k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 860
 website: https://www.azuma-sushi-teppan-abq.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

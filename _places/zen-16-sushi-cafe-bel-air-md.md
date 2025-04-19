@@ -5,6 +5,11 @@ permalink: /maryland/bel-air/zen-16-sushi-cafe.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Bel Air
+seo:
+  name: "Zen 16 Sushi Cafe"
+  type: Restaurant
+  links: http://www.zen16belair.com/
+description: "Established, unpretentious sushi bar preparing Japanese & other Asian options to eat in or take out. Looking for sushi in Bel Air, Maryland? Check out Zen 16..."
 place_id: ChIJDY7mNtvdx4kRr2v5dOxUHcQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 178
 website: http://www.zen16belair.com/
-description: >-
-  Established, unpretentious sushi bar preparing Japanese & other Asian options
-  to eat in or take out.
 reviews:
   - name: >-
       places/ChIJDY7mNtvdx4kRr2v5dOxUHcQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3X1ozZjd3RRAB
@@ -376,5 +378,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Established, unpretentious sushi bar preparing Japanese & other Asian options
+  to eat in or take out.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/great-neck/mr-poke.html
 stateAbbr: NY
 stateName: New York
 cityName: Great Neck
+seo:
+  name: "Mr.Poke"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Great Neck, New York? Check out Mr.Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJjeS7GV2JwokRfwd5jNCROqc
 photos:
   - name: >-
@@ -176,7 +181,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 135
 website: null
-description: null
 reviews:
   - name: >-
       places/ChIJjeS7GV2JwokRfwd5jNCROqc/reviews/ChZDSUhNMG9nS0VJQ0FnSURyeE5fR0FnEAE
@@ -370,5 +374,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

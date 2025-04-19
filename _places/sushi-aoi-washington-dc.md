@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/sushi-aoi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Sushi AOI"
+  type: Restaurant
+  links: http://www.thesushiaoi.com/
+description: "Colorful spot serving rolls, vegetarian entrees & noodle dishes, with a happy hour. Looking for sushi in Washington, District of Columbia? Check out Sushi AO..."
 place_id: ChIJkegJ-JO3t4kRZXSWL46fp3I
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.thesushiaoi.com/
-description: >-
-  Colorful spot serving rolls, vegetarian entrees & noodle dishes, with a happy
-  hour.
 reviews:
   - name: >-
       places/ChIJkegJ-JO3t4kRZXSWL46fp3I/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3b01pand3RRAB
@@ -359,5 +361,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Colorful spot serving rolls, vegetarian entrees & noodle dishes, with a happy
+  hour.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-jersey/sayreville/kendy-s-sushi-peking-garden.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Sayreville
+seo:
+  name: "Kendy's Sushi & Peking Garden"
+  type: Restaurant
+  links: http://kendyssushi881.com/
+description: "Looking for sushi in Sayreville, New Jersey? Check out Kendy's Sushi & Peking Garden for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
 place_id: ChIJZdSKRHvJw4kRx-c2aIfGe0Y
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 135
 website: http://kendyssushi881.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

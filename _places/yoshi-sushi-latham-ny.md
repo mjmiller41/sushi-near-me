@@ -5,6 +5,11 @@ permalink: /new-york/latham/yoshi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Latham
+seo:
+  name: "Yoshi Sushi"
+  type: Restaurant
+  links: http://yoshisushialbany.com/
+description: "Longtime local standby offers traditional rolls in a family-friendly setting with a BYOB policy. Looking for sushi in Latham, New York? Check out Yoshi Sushi..."
 place_id: ChIJERwd_DAM3okRVc4gxYJAiGo
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 283
 website: http://yoshisushialbany.com/
-description: >-
-  Longtime local standby offers traditional rolls in a family-friendly setting
-  with a BYOB policy.
 reviews:
   - name: >-
       places/ChIJERwd_DAM3okRVc4gxYJAiGo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUOC0yX3BBRRAB
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: >-
+  Longtime local standby offers traditional rolls in a family-friendly setting
+  with a BYOB policy.
 
 ---

@@ -5,6 +5,11 @@ permalink: /maryland/california/asahi-japanese-steak-seafood.html
 stateAbbr: MD
 stateName: Maryland
 cityName: California
+seo:
+  name: "Asahi Japanese Steak & Seafood"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in California, Maryland? Check out Asahi Japanese Steak & Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
 place_id: ChIJHby_lyBit4kRWGXTrDaxne4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

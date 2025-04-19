@@ -5,6 +5,11 @@ permalink: /maryland/glen-burnie/yama-sushi-bar-glen-burnie.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Glen Burnie
+seo:
+  name: "Yama Sushi Bar（Glen Burnie)"
+  type: Restaurant
+  links: https://www.yamasushibarglenburnie.com/
+description: "Looking for sushi in Glen Burnie, Maryland? Check out Yama Sushi Bar（Glen Burnie) for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
 place_id: ChIJGc1somn9t4kRXSK8V1bwMQY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 897
 website: https://www.yamasushibarglenburnie.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

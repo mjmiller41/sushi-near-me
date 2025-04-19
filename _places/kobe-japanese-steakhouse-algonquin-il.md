@@ -5,6 +5,11 @@ permalink: /illinois/algonquin/kobe-japanese-steakhouse.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Algonquin
+seo:
+  name: "Kobe Japanese Steakhouse"
+  type: Restaurant
+  links: https://eatatkobe.com/
+description: "Looking for sushi in Algonquin, Illinois? Check out Kobe Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJnY4nTG4SD4gRUsKnep0OB5s
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 592
 website: https://eatatkobe.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

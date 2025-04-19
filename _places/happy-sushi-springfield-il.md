@@ -5,6 +5,11 @@ permalink: /illinois/springfield/happy-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Springfield
+seo:
+  name: "Happy Sushi"
+  type: Restaurant
+  links: https://www.facebook.com/Happy-Sushi-180772915342734/
+description: "Relaxed, counter-serve eatery providing an array of cooked Japanese dishes & sushi rolls. Looking for sushi in Springfield, Illinois? Check out Happy Sushi f..."
 place_id: ChIJedF9Xr05dYgRjceVQrCURtI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 516
 website: https://www.facebook.com/Happy-Sushi-180772915342734/
-description: >-
-  Relaxed, counter-serve eatery providing an array of cooked Japanese dishes &
-  sushi rolls.
 reviews:
   - name: >-
       places/ChIJedF9Xr05dYgRjceVQrCURtI/reviews/ChdDSUhNMG9nS0VJQ0FnTURRbE55Y3V3RRAB
@@ -397,5 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Relaxed, counter-serve eatery providing an array of cooked Japanese dishes &
+  sushi rolls.
 
 ---

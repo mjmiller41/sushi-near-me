@@ -5,6 +5,11 @@ permalink: /massachusetts/haverhill/kobe-buddha-house.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Haverhill
+seo:
+  name: "Kobe Buddha House"
+  type: Restaurant
+  links: https://www.kobehaverhill.com/#footer
+description: "Looking for sushi in Haverhill, Massachusetts? Check out Kobe Buddha House for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJmbUDXVn_4okRRQ7LEU2LrIc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 463
 website: https://www.kobehaverhill.com/#footer
-description: null
 reviews:
   - name: >-
       places/ChIJmbUDXVn_4okRRQ7LEU2LrIc/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3OE5hSVdnEAE
@@ -422,5 +426,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

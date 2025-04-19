@@ -5,6 +5,11 @@ permalink: /california/san-francisco/rocket-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Rocket Sushi"
+  type: Restaurant
+  links: http://www.rocketsushisf.com/
+description: "Contemporary Japanese joint with a sushi train & patio seating, also preparing noodle & rice dishes. Looking for sushi in San Francisco, California? Check ou..."
 place_id: ChIJhecuAliBhYARyeSnN9PLdBE
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 489
 website: http://www.rocketsushisf.com/
-description: >-
-  Contemporary Japanese joint with a sushi train & patio seating, also preparing
-  noodle & rice dishes.
 reviews:
   - name: >-
       places/ChIJhecuAliBhYARyeSnN9PLdBE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmdXFTV3lnRRAB
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Contemporary Japanese joint with a sushi train & patio seating, also preparing
+  noodle & rice dishes.
 
 ---

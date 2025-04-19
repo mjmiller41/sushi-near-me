@@ -5,6 +5,11 @@ permalink: /illinois/chicago/kin-sushi-thai-cuisine.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Kin Sushi & Thai Cuisine"
+  type: Restaurant
+  links: http://www.kinsushiandthai.com/
+description: "Mixed Asian eats & BYOB in a clubby, low-lit setting with black walls, ductwork & a lounge area. Looking for sushi in Chicago, Illinois? Check out Kin Sushi ..."
 place_id: ChIJLy48c9HSD4gRLrpihKmHjRs
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 296
 website: http://www.kinsushiandthai.com/
-description: >-
-  Mixed Asian eats & BYOB in a clubby, low-lit setting with black walls,
-  ductwork & a lounge area.
 reviews:
   - name: >-
       places/ChIJLy48c9HSD4gRLrpihKmHjRs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfeTlMQkpREAE
@@ -403,5 +405,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Mixed Asian eats & BYOB in a clubby, low-lit setting with black walls,
+  ductwork & a lounge area.
 
 ---

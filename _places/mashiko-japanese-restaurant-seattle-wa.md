@@ -5,6 +5,11 @@ permalink: /washington/seattle/mashiko-japanese-restaurant.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Mashiko Japanese Restaurant"
+  type: Restaurant
+  links: http://www.mashikorestaurant.com/
+description: "Looking for sushi in Seattle, Washington? Check out Mashiko Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJKSsQ2ftAkFQR1nDs0cMK9w0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 841
 website: http://www.mashikorestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

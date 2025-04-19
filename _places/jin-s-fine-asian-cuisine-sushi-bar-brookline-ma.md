@@ -5,6 +5,11 @@ permalink: /massachusetts/brookline/jin-s-fine-asian-cuisine-sushi-bar.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Brookline
+seo:
+  name: "Jin’s fine Asian cuisine sushi bar"
+  type: Restaurant
+  links: https://jinsbrookline.com/
+description: "Looking for sushi in Brookline, Massachusetts? Check out Jin’s fine Asian cuisine sushi bar for a delightful Japanese dining experience. Enjoy a variety of s..."
 place_id: ChIJw-xam79544kRIgnwpyJn7y4
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 352
 website: https://jinsbrookline.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/richardson/akaya-sushi-izakaya-ramen.html
 stateAbbr: TX
 stateName: Texas
 cityName: Richardson
+seo:
+  name: "Akaya Sushi, Izakaya & Ramen"
+  type: Restaurant
+  links: http://www.akayaizakaya.com/
+description: "Looking for sushi in Richardson, Texas? Check out Akaya Sushi, Izakaya & Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJJwloXPEhTIYRboIzP_nrWi8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 592
 website: http://www.akayaizakaya.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /missouri/st-louis/cafe-mochi.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
+seo:
+  name: "Cafe Mochi"
+  type: Restaurant
+  links: null
+description: "Casual but stylish sushi bar serving inventive rolls plus Vietnamese & Chinese entrees. Looking for sushi in St. Louis, Missouri? Check out Cafe Mochi for a ..."
 place_id: ChIJu4L5Jmi02IcR_QnlRQCG2ss
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1536
 website: null
-description: >-
-  Casual but stylish sushi bar serving inventive rolls plus Vietnamese & Chinese
-  entrees.
 reviews:
   - name: >-
       places/ChIJu4L5Jmi02IcR_QnlRQCG2ss/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxOU9LaEdREAE
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual but stylish sushi bar serving inventive rolls plus Vietnamese & Chinese
+  entrees.
 
 ---

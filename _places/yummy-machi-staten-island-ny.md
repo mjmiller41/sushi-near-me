@@ -5,6 +5,11 @@ permalink: /new-york/staten-island/yummy-machi.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
+seo:
+  name: "Yummy Machi"
+  type: Restaurant
+  links: https://orderyummymachi.com/
+description: "Strip-mall counter serve providing sushi, bento & other Japanese fare, plus smoothies & bubble tea. Looking for sushi in Staten Island, New York? Check out Y..."
 place_id: ChIJO0HdG6xNwokRuPJFc8jebuI
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 345
 website: https://orderyummymachi.com/
-description: >-
-  Strip-mall counter serve providing sushi, bento & other Japanese fare, plus
-  smoothies & bubble tea.
 reviews:
   - name: >-
       places/ChIJO0HdG6xNwokRuPJFc8jebuI/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4OVltU3JRRRAB
@@ -394,5 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Strip-mall counter serve providing sushi, bento & other Japanese fare, plus
+  smoothies & bubble tea.
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/brooklyn/izakaya-sushi-lounge.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
+seo:
+  name: "Izakaya Sushi & Lounge"
+  type: Restaurant
+  links: https://www.izakayasushilounge.com/
+description: "Looking for sushi in Brooklyn, New York? Check out Izakaya Sushi & Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJ2z7-Y5RFwokRH1BRDyxe9vM
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 155
 website: https://www.izakayasushilounge.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ2z7-Y5RFwokRH1BRDyxe9vM/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3X2UtS213RRAB
@@ -388,5 +392,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

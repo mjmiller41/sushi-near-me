@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/masa-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "Masa sushi"
+  type: Restaurant
+  links: https://masasushitogo.com/
+description: "Looking for sushi in Charlotte, North Carolina? Check out Masa sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJcxKB7r6ZVogRowhIfz4SoV0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 227
 website: https://masasushitogo.com/
-description: null
 reviews:
   - name: >-
       places/ChIJcxKB7r6ZVogRowhIfz4SoV0/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNTRtZ1FnEAE
@@ -366,5 +370,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

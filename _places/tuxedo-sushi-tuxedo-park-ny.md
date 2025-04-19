@@ -5,6 +5,11 @@ permalink: /new-york/tuxedo-park/tuxedo-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Tuxedo Park
+seo:
+  name: "Tuxedo Sushi"
+  type: Restaurant
+  links: http://www.tuxedosushi.menu/
+description: "Looking for sushi in Tuxedo Park, New York? Check out Tuxedo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJJXCyERffwokRUM1WlxRozl4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 286
 website: http://www.tuxedosushi.menu/
-description: null
 reviews:
   - name: >-
       places/ChIJJXCyERffwokRUM1WlxRozl4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbHRXMzJBRRAB
@@ -365,5 +369,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

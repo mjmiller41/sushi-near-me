@@ -5,6 +5,11 @@ permalink: /arizona/tucson/mr-an-s-teppan-steak-seafood.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
+seo:
+  name: "Mr. An's Teppan Steak & Seafood"
+  type: Restaurant
+  links: https://www.mrantucson.com/
+description: "Looking for sushi in Tucson, Arizona? Check out Mr. An's Teppan Steak & Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJXwA9cGJz1oYR5az3BIG4EQE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 2631
 website: https://www.mrantucson.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /new-york/new-york/new-suki-ichiro-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "New Suki Ichiro Sushi"
+  type: Restaurant
+  links: https://www.sukiichiro.com/
+description: "Sushi, salads & soups along with Japanese cooked dishes served in a simple setting. Looking for sushi in New York, New York? Check out New Suki Ichiro Sushi ..."
 place_id: ChIJJ5Rs7-FZwokRzTB44Wg1q6k
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 362
 website: https://www.sukiichiro.com/
-description: >-
-  Sushi, salads & soups along with Japanese cooked dishes served in a simple
-  setting.
 reviews:
   - name: >-
       places/ChIJJ5Rs7-FZwokRzTB44Wg1q6k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcjhhYmpnRRAB
@@ -377,5 +379,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, salads & soups along with Japanese cooked dishes served in a simple
+  setting.
 
 ---

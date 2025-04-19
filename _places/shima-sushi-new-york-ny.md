@@ -5,6 +5,11 @@ permalink: /new-york/new-york/shima-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
+seo:
+  name: "Shima Sushi"
+  type: Restaurant
+  links: http://www.shimasushionline.com/
+description: "Sushi, noodles & other traditional Japanese delicacies plated in a chill, low-lit setting. Looking for sushi in New York, New York? Check out Shima Sushi for..."
 place_id: ChIJ9VmvaVNZwokRTwIQfnrX5l4
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 127
 website: http://www.shimasushionline.com/
-description: >-
-  Sushi, noodles & other traditional Japanese delicacies plated in a chill,
-  low-lit setting.
 reviews:
   - name: >-
       places/ChIJ9VmvaVNZwokRTwIQfnrX5l4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOU8tcFdBEAE
@@ -345,5 +347,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, noodles & other traditional Japanese delicacies plated in a chill,
+  low-lit setting.
 
 ---

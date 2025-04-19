@@ -5,6 +5,11 @@ permalink: /virginia/falls-church/koi-koi-sushi-and-roll.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Falls Church
+seo:
+  name: "Koi Koi Sushi and Roll"
+  type: Restaurant
+  links: http://koikoisushi.com/
+description: "Japanese find with an illustrated menu of cooked eats, plus tempura rolls & other specialty sushi. Looking for sushi in Falls Church, Virginia? Check out Koi..."
 place_id: ChIJ5SEG-MO0t4kRH_lTssh5TX0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 294
 website: http://koikoisushi.com/
-description: >-
-  Japanese find with an illustrated menu of cooked eats, plus tempura rolls &
-  other specialty sushi.
 reviews:
   - name: >-
       places/ChIJ5SEG-MO0t4kRH_lTssh5TX0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfeXVPQ1Z3EAE
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Japanese find with an illustrated menu of cooked eats, plus tempura rolls &
+  other specialty sushi.
 
 ---

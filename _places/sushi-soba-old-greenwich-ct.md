@@ -5,6 +5,11 @@ permalink: /connecticut/old-greenwich/sushi-soba.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Old Greenwich
+seo:
+  name: "Sushi Soba"
+  type: Restaurant
+  links: http://sushisobagreenwich.com/
+description: "Looking for sushi in Old Greenwich, Connecticut? Check out Sushi Soba for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ18w7KGeZwokREFtlbpVKzdA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 291
 website: http://sushisobagreenwich.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /tennessee/knoxville/chaiyo-thai-sushi-bar.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Knoxville
+seo:
+  name: "Chaiyo Thai & Sushi Bar"
+  type: Restaurant
+  links: http://www.chaiyosrestaurant.com/
+description: "Low-key Thai eatery offering curries, noodles & stir-fries, plus a variety of specialty sushi rolls. Looking for sushi in Knoxville, Tennessee? Check out Cha..."
 place_id: ChIJA8ZvS94XXIgRt6ENxwWib_M
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 898
 website: http://www.chaiyosrestaurant.com/
-description: >-
-  Low-key Thai eatery offering curries, noodles & stir-fries, plus a variety of
-  specialty sushi rolls.
 reviews:
   - name: >-
       places/ChIJA8ZvS94XXIgRt6ENxwWib_M/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJN19USUlnEAE
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Low-key Thai eatery offering curries, noodles & stir-fries, plus a variety of
+  specialty sushi rolls.
 
 ---

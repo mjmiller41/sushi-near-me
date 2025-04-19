@@ -5,6 +5,11 @@ permalink: /nebraska/bellevue/kaiyo-sushi.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Bellevue
+seo:
+  name: "Kaiyo Sushi"
+  type: Restaurant
+  links: https://kaiyosushinebraska.com/
+description: "Looking for sushi in Bellevue, Nebraska? Check out Kaiyo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJBTMCdwOJk4cRqBpQ5lJnQ20
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 244
 website: https://kaiyosushinebraska.com/
-description: null
 reviews:
   - name: >-
       places/ChIJBTMCdwOJk4cRqBpQ5lJnQ20/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfcFA3UE9nEAE
@@ -406,5 +410,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

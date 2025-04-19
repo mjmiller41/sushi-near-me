@@ -5,6 +5,11 @@ permalink: /illinois/vernon-hills/van-s-sushi-cafe.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Vernon Hills
+seo:
+  name: "Van's Sushi Cafe"
+  type: Restaurant
+  links: http://www.vanssushicafe.com/
+description: "Small, unpretentious counter-serve place specializing in pre-packaged sushi & sashimi. Looking for sushi in Vernon Hills, Illinois? Check out Van's Sushi Caf..."
 place_id: ChIJP4N0O_m_D4gRefyd7pclF8g
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 308
 website: http://www.vanssushicafe.com/
-description: >-
-  Small, unpretentious counter-serve place specializing in pre-packaged sushi &
-  sashimi.
 reviews:
   - name: >-
       places/ChIJP4N0O_m_D4gRefyd7pclF8g/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJb0xHR2NnEAE
@@ -370,5 +372,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: >-
+  Small, unpretentious counter-serve place specializing in pre-packaged sushi &
+  sashimi.
 
 ---

@@ -5,6 +5,11 @@ permalink: /maryland/gaithersburg/kenaki-sushi-counter.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
+seo:
+  name: "KENAKI Sushi Counter"
+  type: Restaurant
+  links: https://www.kenakisushi.com/
+description: "Looking for sushi in Gaithersburg, Maryland? Check out KENAKI Sushi Counter for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJHSzJWaMttokR1XC7LUxFYfM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 443
 website: https://www.kenakisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJHSzJWaMttokR1XC7LUxFYfM/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNTViSG93RRAB
@@ -472,5 +476,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

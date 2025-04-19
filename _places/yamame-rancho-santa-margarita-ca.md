@@ -5,6 +5,11 @@ permalink: /california/rancho-santa-margarita/yamame.html
 stateAbbr: CA
 stateName: California
 cityName: Rancho Santa Margarita
+seo:
+  name: "Yamame"
+  type: Restaurant
+  links: http://www.yamamersm.com/
+description: "Looking for sushi in Rancho Santa Margarita, California? Check out Yamame for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJ9Sir7hzr3IARNi0kRHih6XI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.7'
 rating_count: 177
 website: http://www.yamamersm.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ9Sir7hzr3IARNi0kRHih6XI/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5NktXRnFBRRAB
@@ -379,5 +383,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

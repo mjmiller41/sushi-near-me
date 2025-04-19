@@ -5,6 +5,11 @@ permalink: /new-jersey/lake-hopatcong/j-towne-tavern.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Lake Hopatcong
+seo:
+  name: "J Towne Tavern"
+  type: Restaurant
+  links: http://www.jtownetavern.com/
+description: "Upscale-casual restaurant/bar for steaks, burgers, seafood & pizza, plus craft brews & other drinks. Looking for sushi in Lake Hopatcong, New Jersey? Check o..."
 place_id: ChIJEUgkT1Rzw4kRda-cFSECL9U
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 330
 website: http://www.jtownetavern.com/
-description: >-
-  Upscale-casual restaurant/bar for steaks, burgers, seafood & pizza, plus craft
-  brews & other drinks.
 reviews:
   - name: >-
       places/ChIJEUgkT1Rzw4kRda-cFSECL9U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfMk9LQk1nEAE
@@ -364,5 +366,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Upscale-casual restaurant/bar for steaks, burgers, seafood & pizza, plus craft
+  brews & other drinks.
 
 ---

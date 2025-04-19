@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/wok-and-roll-restaurant-karaoke.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Wok and Roll Restaurant Karaoke"
+  type: Restaurant
+  links: https://www.wokandrolldc.com/
+description: "Casual spot featuring Chinese & Japanese fare, weekday happy hours & private karaoke rooms. Looking for sushi in Washington, District of Columbia? Check out ..."
 place_id: ChIJXyx03o23t4kR4yjB3SO7mC8
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $10 &ndash; $20
 rating: '3.8'
 rating_count: 1679
 website: https://www.wokandrolldc.com/
-description: >-
-  Casual spot featuring Chinese & Japanese fare, weekday happy hours & private
-  karaoke rooms.
 reviews:
   - name: >-
       places/ChIJXyx03o23t4kR4yjB3SO7mC8/reviews/ChZDSUhNMG9nS0VJQ0FnSURfLXZpVkJnEAE
@@ -387,5 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual spot featuring Chinese & Japanese fare, weekday happy hours & private
+  karaoke rooms.
 
 ---

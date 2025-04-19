@@ -5,6 +5,11 @@ permalink: /california/santa-ana/kaisen-kaiten.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Ana
+seo:
+  name: "Kaisen Kaiten"
+  type: Restaurant
+  links: https://kaitensushibar.com/
+description: "Looking for sushi in Santa Ana, California? Check out Kaisen Kaiten for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJz6_zKS_f3IAR1qn_i4-und8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 889
 website: https://kaitensushibar.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

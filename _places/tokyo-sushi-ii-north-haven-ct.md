@@ -5,6 +5,11 @@ permalink: /connecticut/north-haven/tokyo-sushi-ii.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: North Haven
+seo:
+  name: "Tokyo Sushi II"
+  type: Restaurant
+  links: https://www.tokyosushinorthhaven.com/
+description: "Casual, family-run eatery featuring inventive sushi rolls & traditional Japanese specialties. Looking for sushi in North Haven, Connecticut? Check out Tokyo ..."
 place_id: ChIJ4byv3TXQ54kR7bB_ftKufDw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 303
 website: https://www.tokyosushinorthhaven.com/
-description: >-
-  Casual, family-run eatery featuring inventive sushi rolls & traditional
-  Japanese specialties.
 reviews:
   - name: >-
       places/ChIJ4byv3TXQ54kR7bB_ftKufDw/reviews/ChdDSUhNMG9nS0VJQ0FnTURJd09XVF9BRRAB
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual, family-run eatery featuring inventive sushi rolls & traditional
+  Japanese specialties.
 
 ---

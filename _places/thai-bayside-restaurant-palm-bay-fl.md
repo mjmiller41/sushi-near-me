@@ -5,6 +5,11 @@ permalink: /florida/palm-bay/thai-bayside-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Palm Bay
+seo:
+  name: "Thai Bayside Restaurant"
+  type: Restaurant
+  links: https://www.thaibayside.com/
+description: "Looking for sushi in Palm Bay, Florida? Check out Thai Bayside Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
 place_id: ChIJgURcMexy3ogRY25dKMU22ho
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 444
 website: https://www.thaibayside.com/
-description: null
 reviews:
   - name: >-
       places/ChIJgURcMexy3ogRY25dKMU22ho/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuN1o3YktREAE
@@ -397,5 +401,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

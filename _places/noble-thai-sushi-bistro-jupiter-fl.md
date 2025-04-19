@@ -5,6 +5,11 @@ permalink: /florida/jupiter/noble-thai-sushi-bistro.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jupiter
+seo:
+  name: "Noble Thai & Sushi Bistro"
+  type: Restaurant
+  links: http://noblethaisushifl.com/
+description: "Restaurant specializing in Thai fare & sushi, with weekday lunch specials & a casual ambiance. Looking for sushi in Jupiter, Florida? Check out Noble Thai & ..."
 place_id: ChIJd_QbQmXW3ogR2qMmLuAFfsg
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 351
 website: http://noblethaisushifl.com/
-description: >-
-  Restaurant specializing in Thai fare & sushi, with weekday lunch specials & a
-  casual ambiance.
 reviews:
   - name: >-
       places/ChIJd_QbQmXW3ogR2qMmLuAFfsg/reviews/ChdDSUhNMG9nS0VJQ0FnSURfNDhyLW5RRRAB
@@ -384,5 +386,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Restaurant specializing in Thai fare & sushi, with weekday lunch specials & a
+  casual ambiance.
 
 ---

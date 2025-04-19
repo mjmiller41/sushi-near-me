@@ -5,6 +5,11 @@ permalink: /california/mountain-view/sushi-85.html
 stateAbbr: CA
 stateName: California
 cityName: Mountain View
+seo:
+  name: "Sushi 85"
+  type: Restaurant
+  links: null
+description: "Casual Japanese restaurant with ramen noodles & maki rolls, plus an all-you-can-eat sushi option. Looking for sushi in Mountain View, California? Check out S..."
 place_id: ChIJQSVQrde2j4ARUaikVDolfFs
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '3.7'
 rating_count: 364
 website: null
-description: >-
-  Casual Japanese restaurant with ramen noodles & maki rolls, plus an
-  all-you-can-eat sushi option.
 reviews:
   - name: >-
       places/ChIJQSVQrde2j4ARUaikVDolfFs/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3eXBxYnJnRRAB
@@ -438,5 +440,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: >-
+  Casual Japanese restaurant with ramen noodles & maki rolls, plus an
+  all-you-can-eat sushi option.
 
 ---

@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/kyoto-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "Kyoto Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Minneapolis, Minnesota? Check out Kyoto Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJYf5ffIgn9ocROt2iUjoMP_c
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /iowa/marion/mix-uptown-marion.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Marion
+seo:
+  name: "MIX - Uptown Marion"
+  type: Restaurant
+  links: http://mixsushikitchen.com/
+description: "Looking for sushi in Marion, Iowa? Check out MIX - Uptown Marion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJ3fApMDn35IcRvD2QC7xnbhk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 393
 website: http://mixsushikitchen.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ3fApMDn35IcRvD2QC7xnbhk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRb0pqaDlnRRAB
@@ -470,5 +474,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

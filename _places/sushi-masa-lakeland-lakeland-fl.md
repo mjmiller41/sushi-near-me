@@ -5,6 +5,11 @@ permalink: /florida/lakeland/sushi-masa-lakeland.html
 stateAbbr: FL
 stateName: Florida
 cityName: Lakeland
+seo:
+  name: "Sushi Masa Lakeland"
+  type: Restaurant
+  links: https://sushimasaus.com/
+description: "Looking for sushi in Lakeland, Florida? Check out Sushi Masa Lakeland for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJMwQbs7k73YgRD2ina1gpBOc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 1671
 website: https://sushimasaus.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

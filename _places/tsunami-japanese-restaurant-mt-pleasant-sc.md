@@ -5,6 +5,11 @@ permalink: /south-carolina/mt-pleasant/tsunami-japanese-restaurant.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Mt Pleasant
+seo:
+  name: "Tsunami Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Mt Pleasant, South Carolina? Check out Tsunami Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJkzD02Atx_ogRY5KmO0NtXyE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

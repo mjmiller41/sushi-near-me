@@ -5,6 +5,11 @@ permalink: /florida/jacksonville/sumo-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
+seo:
+  name: "Sumo Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Jacksonville, Florida? Check out Sumo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJvRPcLCu45YgRTtvXTy0afHU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

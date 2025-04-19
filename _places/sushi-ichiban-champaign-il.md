@@ -5,6 +5,11 @@ permalink: /illinois/champaign/sushi-ichiban.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Champaign
+seo:
+  name: "Sushi Ichiban"
+  type: Restaurant
+  links: https://www.sushiichiban.net/
+description: "Simple counter-serve place for sushi & Japanese basics like noodle soups & teriyaki dishes. Looking for sushi in Champaign, Illinois? Check out Sushi Ichiban..."
 place_id: ChIJm91feD_XDIgRGK707_uqJ-g
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 407
 website: https://www.sushiichiban.net/
-description: >-
-  Simple counter-serve place for sushi & Japanese basics like noodle soups &
-  teriyaki dishes.
 reviews:
   - name: >-
       places/ChIJm91feD_XDIgRGK707_uqJ-g/reviews/ChZDSUhNMG9nS0VJQ0FnTURRa2RMclRnEAE
@@ -412,5 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Simple counter-serve place for sushi & Japanese basics like noodle soups &
+  teriyaki dishes.
 
 ---

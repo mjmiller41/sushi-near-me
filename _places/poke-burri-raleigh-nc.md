@@ -5,6 +5,11 @@ permalink: /north-carolina/raleigh/poke-burri.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+seo:
+  name: "Poke Burri"
+  type: Restaurant
+  links: http://pokeburriraleigh.com/
+description: "Simple counter-serve spot preparing poke bowls, sushi burritos & other Asian fusion eats. Looking for sushi in Raleigh, North Carolina? Check out Poke Burri ..."
 place_id: ChIJSd5Wi7FZrIkRkX_1q6G0b3Q
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 680
 website: http://pokeburriraleigh.com/
-description: >-
-  Simple counter-serve spot preparing poke bowls, sushi burritos & other Asian
-  fusion eats.
 reviews:
   - name: >-
       places/ChIJSd5Wi7FZrIkRkX_1q6G0b3Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2azQya0p3EAE
@@ -370,5 +372,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Simple counter-serve spot preparing poke bowls, sushi burritos & other Asian
+  fusion eats.
 
 ---

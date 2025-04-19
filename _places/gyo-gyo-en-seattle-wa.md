@@ -5,6 +5,11 @@ permalink: /washington/seattle/gyo-gyo-en.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Gyo Gyo En"
+  type: Restaurant
+  links: https://gyogyoen.square.site/
+description: "Looking for sushi in Seattle, Washington? Check out Gyo Gyo En for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJTWfbSjkVkFQRZEuYnPjhnsU
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 191
 website: https://gyogyoen.square.site/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/corpus-christi/water-street-sushi-room.html
 stateAbbr: TX
 stateName: Texas
 cityName: Corpus Christi
+seo:
+  name: "Water Street Sushi Room"
+  type: Restaurant
+  links: http://www.waterstmarketcc.com/sushi-room
+description: "Looking for sushi in Corpus Christi, Texas? Check out Water Street Sushi Room for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJl9dWz-1faIYRVYm24gg-CDY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 304
 website: http://www.waterstmarketcc.com/sushi-room
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

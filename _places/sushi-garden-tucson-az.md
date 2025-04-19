@@ -5,6 +5,11 @@ permalink: /arizona/tucson/sushi-garden.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
+seo:
+  name: "Sushi Garden"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Tucson, Arizona? Check out Sushi Garden for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
 place_id: ChIJsZBm6LN01oYRML6QTTf65xQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

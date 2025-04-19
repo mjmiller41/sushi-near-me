@@ -5,6 +5,11 @@ permalink: /colorado/fort-collins/suehiro-japanese-restaurant.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Fort Collins
+seo:
+  name: "Suehiro Japanese Restaurant"
+  type: Restaurant
+  links: http://www.suehirojapaneserestaurant.com/
+description: "Looking for sushi in Fort Collins, Colorado? Check out Suehiro Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJjddaF1KzbocRH7wxWyiflqY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 781
 website: http://www.suehirojapaneserestaurant.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

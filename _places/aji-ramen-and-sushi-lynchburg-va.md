@@ -5,6 +5,11 @@ permalink: /virginia/lynchburg/aji-ramen-and-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Lynchburg
+seo:
+  name: "Aji Ramen and Sushi"
+  type: Restaurant
+  links: http://www.ajiramenandsushi.com/
+description: "Looking for sushi in Lynchburg, Virginia? Check out Aji Ramen and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
 place_id: ChIJzd8EX0TZsokRLY1NgLBycuE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 547
 website: http://www.ajiramenandsushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJzd8EX0TZsokRLY1NgLBycuE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMkt6OXV3RRAB
@@ -356,5 +360,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/allen/the-blue-fish-allen.html
 stateAbbr: TX
 stateName: Texas
 cityName: Allen
+seo:
+  name: "The Blue Fish Allen"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Allen, Texas? Check out The Blue Fish Allen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJo3V-oV0XTIYRb7l6k6CJnFo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

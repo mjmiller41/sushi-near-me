@@ -5,6 +5,11 @@ permalink: /south-carolina/summerville/sushi-201.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Summerville
+seo:
+  name: "Sushi 201"
+  type: Restaurant
+  links: https://sushi201summerville.com/
+description: "Looking for sushi in Summerville, South Carolina? Check out Sushi 201 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJXY74E2-L_ogR9adbY5UYsx8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 630
 website: https://sushi201summerville.com/
-description: null
 reviews:
   - name: >-
       places/ChIJXY74E2-L_ogR9adbY5UYsx8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBMjdULTZRRRAB
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

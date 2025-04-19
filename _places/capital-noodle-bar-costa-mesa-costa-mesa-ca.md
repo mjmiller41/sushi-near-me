@@ -5,6 +5,11 @@ permalink: /california/costa-mesa/capital-noodle-bar-costa-mesa.html
 stateAbbr: CA
 stateName: California
 cityName: Costa Mesa
+seo:
+  name: "Capital Noodle Bar | Costa Mesa"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Costa Mesa, California? Check out Capital Noodle Bar | Costa Mesa for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJw48k8Rjf3IARdhxJozO9Dig
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

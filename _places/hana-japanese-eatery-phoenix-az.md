@@ -5,6 +5,11 @@ permalink: /arizona/phoenix/hana-japanese-eatery.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
+seo:
+  name: "Hana Japanese Eatery"
+  type: Restaurant
+  links: http://www.hanajapaneseeatery.com/
+description: "Looking for sushi in Phoenix, Arizona? Check out Hana Japanese Eatery for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJI0Pm7s8SK4cR9W3TGUVRS-M
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 781
 website: http://www.hanajapaneseeatery.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

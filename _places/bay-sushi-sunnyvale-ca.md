@@ -5,6 +5,11 @@ permalink: /california/sunnyvale/bay-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
+seo:
+  name: "Bay Sushi"
+  type: Restaurant
+  links: https://baysushica.com/users/login
+description: "Looking for sushi in Sunnyvale, California? Check out Bay Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJnRuwrjO0j4ARBJWJqUwEPpE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 174
 website: https://baysushica.com/users/login
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

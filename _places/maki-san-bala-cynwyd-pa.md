@@ -5,6 +5,11 @@ permalink: /pennsylvania/bala-cynwyd/maki-san.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bala Cynwyd
+seo:
+  name: "Maki-San"
+  type: Restaurant
+  links: http://www.makisanpa.com/
+description: "Looking for sushi in Bala Cynwyd, Pennsylvania? Check out Maki-San for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJ4_M-O1HHxokROgFXDmoVws0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 178
 website: http://www.makisanpa.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

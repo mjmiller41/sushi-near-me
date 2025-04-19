@@ -5,6 +5,11 @@ permalink: /california/san-luis-obispo/poke-chef.html
 stateAbbr: CA
 stateName: California
 cityName: San Luis Obispo
+seo:
+  name: "POKE CHEF"
+  type: Restaurant
+  links: https://poke-chef.square.site/?location=11ef7ba2d19fc262ac3e3cecef6dbab4
+description: "Looking for sushi in San Luis Obispo, California? Check out POKE CHEF for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ77eqcanx7IAR69jF_cUTcl8
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 132
 website: https://poke-chef.square.site/?location=11ef7ba2d19fc262ac3e3cecef6dbab4
-description: null
 reviews:
   - name: >-
       places/ChIJ77eqcanx7IAR69jF_cUTcl8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYc3FfcmVBEAE
@@ -376,5 +380,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /oregon/beaverton/yuubi-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Beaverton
+seo:
+  name: "Yuubi Sushi"
+  type: Restaurant
+  links: http://yuubisushi.com/
+description: "Looking for sushi in Beaverton, Oregon? Check out Yuubi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJpQOi_dQNlVQRdjop_MQnfBw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.9'
 rating_count: 486
 website: http://yuubisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

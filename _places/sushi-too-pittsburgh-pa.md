@@ -5,6 +5,11 @@ permalink: /pennsylvania/pittsburgh/sushi-too.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
+seo:
+  name: "Sushi Too"
+  type: Restaurant
+  links: http://www.thesushitoo.com/
+description: "Cooked Japanese fare & varied sushi rolls are offered in compact, basic digs with a full bar. Looking for sushi in Pittsburgh, Pennsylvania? Check out Sushi ..."
 place_id: ChIJ3SMtprfzNIgRuLXGhg1SABA
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 442
 website: http://www.thesushitoo.com/
-description: >-
-  Cooked Japanese fare & varied sushi rolls are offered in compact, basic digs
-  with a full bar.
 reviews:
   - name: >-
       places/ChIJ3SMtprfzNIgRuLXGhg1SABA/reviews/ChdDSUhNMG9nS0VJQ0FnTURRc0l1WHRnRRAB
@@ -373,5 +375,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Cooked Japanese fare & varied sushi rolls are offered in compact, basic digs
+  with a full bar.
 
 ---

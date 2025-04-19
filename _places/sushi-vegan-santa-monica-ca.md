@@ -5,6 +5,11 @@ permalink: /california/santa-monica/sushi-vegan.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
+seo:
+  name: "Sushi Vegan"
+  type: Restaurant
+  links: https://www.sushiveganca.com/?utm_source=gmb&utm_medium=website
+description: "Looking for sushi in Santa Monica, California? Check out Sushi Vegan for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJqbNEGOu7woARSwjOCzcvgmE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 86
 website: https://www.sushiveganca.com/?utm_source=gmb&utm_medium=website
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

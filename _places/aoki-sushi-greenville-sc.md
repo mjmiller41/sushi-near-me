@@ -5,6 +5,11 @@ permalink: /south-carolina/greenville/aoki-sushi.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Greenville
+seo:
+  name: "Aoki Sushi"
+  type: Restaurant
+  links: http://aokigreenville.com/
+description: "Looking for sushi in Greenville, South Carolina? Check out Aoki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJJRC24k4pWIgRJN4LoKxbC90
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 324
 website: http://aokigreenville.com/
-description: null
 reviews:
   - name: >-
       places/ChIJJRC24k4pWIgRJN4LoKxbC90/reviews/ChdDSUhNMG9nS0VJQ0FnSURYeHVUNDJRRRAB
@@ -380,5 +384,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

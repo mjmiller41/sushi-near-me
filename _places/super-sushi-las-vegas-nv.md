@@ -5,6 +5,11 @@ permalink: /nevada/las-vegas/super-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+seo:
+  name: "Super Sushi"
+  type: Restaurant
+  links: http://www.supersushilv.com/
+description: "Eclectic art covers the walls at this informal Japanese eatery with specialty rolls & noodles. Looking for sushi in Las Vegas, Nevada? Check out Super Sushi ..."
 place_id: ChIJ____NuXGyIARdZNsxBDXBX0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 496
 website: http://www.supersushilv.com/
-description: >-
-  Eclectic art covers the walls at this informal Japanese eatery with specialty
-  rolls & noodles.
 reviews:
   - name: >-
       places/ChIJ____NuXGyIARdZNsxBDXBX0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2d3BEckp3EAE
@@ -487,5 +489,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Eclectic art covers the walls at this informal Japanese eatery with specialty
+  rolls & noodles.
 
 ---

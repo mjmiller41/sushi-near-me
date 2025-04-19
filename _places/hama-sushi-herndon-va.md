@@ -5,6 +5,11 @@ permalink: /virginia/herndon/hama-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Herndon
+seo:
+  name: "Hama Sushi"
+  type: Restaurant
+  links: http://www.hama-sushi.com/
+description: "Strip-mall restaurant serving creative rolls & other Japanese fare, with a midsized sake selection. Looking for sushi in Herndon, Virginia? Check out Hama Su..."
 place_id: ChIJwTDsH5dHtokRBKBkuT2VSt0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 445
 website: http://www.hama-sushi.com/
-description: >-
-  Strip-mall restaurant serving creative rolls & other Japanese fare, with a
-  midsized sake selection.
 reviews:
   - name: >-
       places/ChIJwTDsH5dHtokRBKBkuT2VSt0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbUtiM3RRRRAB
@@ -356,5 +358,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Strip-mall restaurant serving creative rolls & other Japanese fare, with a
+  midsized sake selection.
 
 ---

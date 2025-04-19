@@ -5,6 +5,11 @@ permalink: /louisiana/new-orleans/lin-s-sushi.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: New Orleans
+seo:
+  name: "Lin's Sushi"
+  type: Restaurant
+  links: https://linsushi.square.site/
+description: "Looking for sushi in New Orleans, Louisiana? Check out Lin's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJ73fjxvCnIIYRT37_4DUvuTA
 photos:
   - name: >-
@@ -112,7 +117,6 @@ price_range: $10 &ndash; $20
 rating: '5.0'
 rating_count: 6
 website: https://linsushi.square.site/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -139,5 +143,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

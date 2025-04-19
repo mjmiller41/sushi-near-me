@@ -5,6 +5,11 @@ permalink: /arizona/tempe/kuka-sushi-izakaya.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tempe
+seo:
+  name: "Kuka Sushi & Izakaya"
+  type: Restaurant
+  links: http://kukasushi.com/
+description: "Looking for sushi in Tempe, Arizona? Check out Kuka Sushi & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJzYZ61uIJK4cRtItvjQKWXGk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 655
 website: http://kukasushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

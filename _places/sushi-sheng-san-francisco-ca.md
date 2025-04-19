@@ -5,6 +5,11 @@ permalink: /california/san-francisco/sushi-sheng.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+seo:
+  name: "Sushi Sheng 鮨昇"
+  type: Restaurant
+  links: https://www.sushishengsf.com/
+description: "Looking for sushi in San Francisco, California? Check out Sushi Sheng 鮨昇 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJA3HyqV99j4ARVWqU5cHosYE
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 482
 website: https://www.sushishengsf.com/
-description: null
 reviews:
   - name: >-
       places/ChIJA3HyqV99j4ARVWqU5cHosYE/reviews/ChdDSUhNMG9nS0VJQ0FnSURidjZyMXhBRRAB
@@ -368,5 +372,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

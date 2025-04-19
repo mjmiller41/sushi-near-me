@@ -5,6 +5,11 @@ permalink: /pennsylvania/altoona/aki-japanese-steakhouse-and-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Altoona
+seo:
+  name: "Aki Japanese Steakhouse and Sushi Bar"
+  type: Restaurant
+  links: http://www.aki2118.com/
+description: "Sushi & dramatic tableside teppanyaki-grill dishes in a relaxed restaurant with modern decor. Looking for sushi in Altoona, Pennsylvania? Check out Aki Japan..."
 place_id: ChIJ49iN50CRy4kRAfhRX2QeDPI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1460
 website: http://www.aki2118.com/
-description: >-
-  Sushi & dramatic tableside teppanyaki-grill dishes in a relaxed restaurant
-  with modern decor.
 reviews:
   - name: >-
       places/ChIJ49iN50CRy4kRAfhRX2QeDPI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmb2NIbWxBRRAB
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: >-
+  Sushi & dramatic tableside teppanyaki-grill dishes in a relaxed restaurant
+  with modern decor.
 
 ---

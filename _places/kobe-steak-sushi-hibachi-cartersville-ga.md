@@ -5,6 +5,11 @@ permalink: /georgia/cartersville/kobe-steak-sushi-hibachi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Cartersville
+seo:
+  name: "Kobe Steak, Sushi, & Hibachi"
+  type: Restaurant
+  links: https://kobecartersville.com/
+description: "Looking for sushi in Cartersville, Georgia? Check out Kobe Steak, Sushi, & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJnWdJwgxP9YgR16e1yr8eYCU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 658
 website: https://kobecartersville.com/
-description: null
 reviews:
   - name: >-
       places/ChIJnWdJwgxP9YgR16e1yr8eYCU/reviews/ChdDSUhNMG9nS0VJQ0FnTURncklMVXdRRRAB
@@ -357,5 +361,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /maryland/columbia/sushi-king.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Columbia
+seo:
+  name: "Sushi King"
+  type: Restaurant
+  links: https://www.sushikingcolumbia.com/?utm_source=google&utm_medium=local&utm_campaign=website
+description: "Popular & unpretentious Japanese restaurant featuring sushi shuttled by servers in traditional garb. Looking for sushi in Columbia, Maryland? Check out Sushi..."
 place_id: ChIJ78Drnn7gt4kRhb1KczazmFc
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.7'
 rating_count: 1095
 website: >-
   https://www.sushikingcolumbia.com/?utm_source=google&utm_medium=local&utm_campaign=website
-description: >-
-  Popular & unpretentious Japanese restaurant featuring sushi shuttled by
-  servers in traditional garb.
 reviews:
   - name: >-
       places/ChIJ78Drnn7gt4kRhb1KczazmFc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdGZIdDhnRRAB
@@ -445,5 +447,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Popular & unpretentious Japanese restaurant featuring sushi shuttled by
+  servers in traditional garb.
 
 ---

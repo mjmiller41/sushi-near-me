@@ -5,6 +5,11 @@ permalink: /indiana/noblesville/koto-japanese-steakhouse.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Noblesville
+seo:
+  name: "Koto Japanese Steakhouse"
+  type: Restaurant
+  links: https://www.kotofishers.com/
+description: "Looking for sushi in Noblesville, Indiana? Check out Koto Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJT-xM6GHJFIgRSowJ0UO51e8
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1033
 website: https://www.kotofishers.com/
-description: null
 reviews:
   - name: >-
       places/ChIJT-xM6GHJFIgRSowJ0UO51e8/reviews/ChZDSUhNMG9nS0VJQ0FnSURmdkxQZ1VREAE
@@ -394,5 +398,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

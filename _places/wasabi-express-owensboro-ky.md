@@ -5,6 +5,11 @@ permalink: /kentucky/owensboro/wasabi-express.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Owensboro
+seo:
+  name: "Wasabi Express"
+  type: Restaurant
+  links: https://www.wasabiowensboro.com/
+description: "Casual, contemporary Japanese eatery offering sushi, hibachi & more for dine-in or carryout. Looking for sushi in Owensboro, Kentucky? Check out Wasabi Expre..."
 place_id: ChIJ20juHsi7b4gRLk8l5Xj8V7I
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1072
 website: https://www.wasabiowensboro.com/
-description: >-
-  Casual, contemporary Japanese eatery offering sushi, hibachi & more for
-  dine-in or carryout.
 reviews:
   - name: >-
       places/ChIJ20juHsi7b4gRLk8l5Xj8V7I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdS1Ya0Z3EAE
@@ -371,5 +373,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Casual, contemporary Japanese eatery offering sushi, hibachi & more for
+  dine-in or carryout.
 
 ---

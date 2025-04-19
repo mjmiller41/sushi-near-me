@@ -5,6 +5,11 @@ permalink: /pennsylvania/pittsburgh/itamae-thai-and-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
+seo:
+  name: "Itamae Thai and Sushi Bar"
+  type: Restaurant
+  links: https://www.itamaethaisushi.com/
+description: "Looking for sushi in Pittsburgh, Pennsylvania? Check out Itamae Thai and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJy1c2JOD3NIgRGMmNPXgbUmk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.9'
 rating_count: 107
 website: https://www.itamaethaisushi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJy1c2JOD3NIgRGMmNPXgbUmk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaWZLWFdBEAE
@@ -396,5 +400,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: null
 
 ---

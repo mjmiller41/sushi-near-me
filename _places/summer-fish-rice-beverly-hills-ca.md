@@ -5,6 +5,11 @@ permalink: /california/beverly-hills/summer-fish-rice.html
 stateAbbr: CA
 stateName: California
 cityName: Beverly Hills
+seo:
+  name: "Summer Fish & Rice"
+  type: Restaurant
+  links: https://www.summer.fish/
+description: "Looking for sushi in Beverly Hills, California? Check out Summer Fish & Rice for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJ469JZ1C5woARmhglgvz0LKU
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 217
 website: https://www.summer.fish/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /maine/waterville/mirakuya-sushi-steak-house.html
 stateAbbr: ME
 stateName: Maine
 cityName: Waterville
+seo:
+  name: "Mirakuya Sushi & Steak House"
+  type: Restaurant
+  links: http://mirakuyawaterville.com/
+description: "Lively Japanese steakhouse featuring hibachi tables, a sushi bar & cocktails amid red walls. Looking for sushi in Waterville, Maine? Check out Mirakuya Sushi..."
 place_id: ChIJlbk8dZTksUwROy4K-HM0rz8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 542
 website: http://mirakuyawaterville.com/
-description: >-
-  Lively Japanese steakhouse featuring hibachi tables, a sushi bar & cocktails
-  amid red walls.
 reviews:
   - name: >-
       places/ChIJlbk8dZTksUwROy4K-HM0rz8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJemR2ZHdnRRAB
@@ -378,5 +380,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Lively Japanese steakhouse featuring hibachi tables, a sushi bar & cocktails
+  amid red walls.
 
 ---

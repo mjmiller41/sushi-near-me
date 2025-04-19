@@ -5,6 +5,11 @@ permalink: /florida/jacksonville/tokyo-sushi-and-grill-at-normandy.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
+seo:
+  name: "Tokyo Sushi and Grill at Normandy"
+  type: Restaurant
+  links: http://www.tokyojacksonville.com/
+description: "Strip-mall sushi house offers hibachi-style meals, classic Japanese dishes & rolls amid Asian decor. Looking for sushi in Jacksonville, Florida? Check out To..."
 place_id: ChIJVZB4kMu45YgRqEolNQGg9MI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 538
 website: http://www.tokyojacksonville.com/
-description: >-
-  Strip-mall sushi house offers hibachi-style meals, classic Japanese dishes &
-  rolls amid Asian decor.
 reviews:
   - name: >-
       places/ChIJVZB4kMu45YgRqEolNQGg9MI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReE0yZjZnRRAB
@@ -373,5 +375,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Strip-mall sushi house offers hibachi-style meals, classic Japanese dishes &
+  rolls amid Asian decor.
 
 ---

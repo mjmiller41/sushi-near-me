@@ -5,6 +5,11 @@ permalink: /california/beverly-hills/seabutter-sushi-beverly-hills.html
 stateAbbr: CA
 stateName: California
 cityName: Beverly Hills
+seo:
+  name: "Seabutter Sushi - Beverly Hills"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Beverly Hills, California? Check out Seabutter Sushi - Beverly Hills for a delightful Japanese dining experience. Enjoy a variety of sus..."
 place_id: ChIJmfnhauu5woAReS6oPmE41Ps
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/montrose/sake-sushi-bar-lounge.html
 stateAbbr: CA
 stateName: California
 cityName: Montrose
+seo:
+  name: "Sake Sushi Bar Lounge"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Montrose, California? Check out Sake Sushi Bar Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJqeAonBLqwoAR2ePb8Oym-dI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.2'
 rating_count: 349
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

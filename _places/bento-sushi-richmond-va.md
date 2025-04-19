@@ -5,6 +5,11 @@ permalink: /virginia/richmond/bento-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Richmond
+seo:
+  name: "Bento Sushi"
+  type: Restaurant
+  links: https://www.bentosushi.com/
+description: "Looking for sushi in Richmond, Virginia? Check out Bento Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
 place_id: ChIJFZ0cDoERsYkRU8zed_6HkbE
 photos: null
 address: 298 N Laurel St, Richmond, VA 23220, USA
@@ -46,7 +51,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: https://www.bentosushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -73,5 +77,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /tennessee/murfreesboro/xiaos-hibachi-and-sushi.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Murfreesboro
+seo:
+  name: "Xiaos' Hibachi and Sushi"
+  type: Restaurant
+  links: http://xiaoshibachi.com/
+description: "Informal strip-mall outlet serving hibachi-style seafood & meat dishes plus creative sushi rolls. Looking for sushi in Murfreesboro, Tennessee? Check out Xia..."
 place_id: ChIJW_OTYqMHZIgRxJsOTh9yKGU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1030
 website: http://xiaoshibachi.com/
-description: >-
-  Informal strip-mall outlet serving hibachi-style seafood & meat dishes plus
-  creative sushi rolls.
 reviews:
   - name: >-
       places/ChIJW_OTYqMHZIgRxJsOTh9yKGU/reviews/ChdDSUhNMG9nS0VJQ0FnTURBb2NXaXV3RRAB
@@ -361,5 +363,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Informal strip-mall outlet serving hibachi-style seafood & meat dishes plus
+  creative sushi rolls.
 
 ---

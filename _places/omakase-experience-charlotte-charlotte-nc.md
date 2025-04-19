@@ -5,6 +5,11 @@ permalink: /north-carolina/charlotte/omakase-experience-charlotte.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+seo:
+  name: "Omakase Experience Charlotte"
+  type: Restaurant
+  links: http://omakaseclt.com/
+description: "Looking for sushi in Charlotte, North Carolina? Check out Omakase Experience Charlotte for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
 place_id: ChIJWxvHnjghVIgR2Iog3QuTHFo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 56
 website: http://omakaseclt.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

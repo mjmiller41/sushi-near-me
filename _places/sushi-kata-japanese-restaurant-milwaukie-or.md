@@ -5,6 +5,11 @@ permalink: /oregon/milwaukie/sushi-kata-japanese-restaurant.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Milwaukie
+seo:
+  name: "Sushi Kata Japanese Restaurant"
+  type: Restaurant
+  links: http://www.sushikataor.com/
+description: "Looking for sushi in Milwaukie, Oregon? Check out Sushi Kata Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJOeQSffB0lVQRD2NYOB8rdV4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 929
 website: http://www.sushikataor.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

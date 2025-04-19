@@ -5,6 +5,11 @@ permalink: /michigan/lansing/ohana-sushi-and-bar.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Lansing
+seo:
+  name: "Ohana Sushi and Bar"
+  type: Restaurant
+  links: https://ohanasushiandbar.com/
+description: "Looking for sushi in Lansing, Michigan? Check out Ohana Sushi and Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJoRxSh6qVIogRR5bgl6z4M6k
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1054
 website: https://ohanasushiandbar.com/
-description: null
 reviews:
   - name: >-
       places/ChIJoRxSh6qVIogRR5bgl6z4M6k/reviews/ChZDSUhNMG9nS0VJQ0FnTURna0lXWVhnEAE
@@ -375,5 +379,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

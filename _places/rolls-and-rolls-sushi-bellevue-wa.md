@@ -5,6 +5,11 @@ permalink: /washington/bellevue/rolls-and-rolls-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
+seo:
+  name: "Rolls and Rolls + Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Bellevue, Washington? Check out Rolls and Rolls + Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJpamWX4xskFQRritF68ngAmk
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 453
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

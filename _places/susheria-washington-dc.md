@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/susheria.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Susheria"
+  type: Restaurant
+  links: https://susheriadc.com/
+description: "Sushi, Latin cocktails & more are served in a posh, modern space that holds occasional DJ'd parties. Looking for sushi in Washington, District of Columbia? C..."
 place_id: ChIJmxMR7z23t4kR-sVnzbNuxuo
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 951
 website: https://susheriadc.com/
-description: >-
-  Sushi, Latin cocktails & more are served in a posh, modern space that holds
-  occasional DJ'd parties.
 reviews:
   - name: >-
       places/ChIJmxMR7z23t4kR-sVnzbNuxuo/reviews/ChdDSUhNMG9nS0VJQ0FnTURJN3J2cTZBRRAB
@@ -448,5 +450,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi, Latin cocktails & more are served in a posh, modern space that holds
+  occasional DJ'd parties.
 
 ---

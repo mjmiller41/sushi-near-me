@@ -5,6 +5,11 @@ permalink: /kentucky/louisville/samurai-sushi-and-hibachi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Louisville
+seo:
+  name: "Samurai Sushi And Hibachi"
+  type: Restaurant
+  links: https://www.toasttab.com/samurai-sushi-and-hibachi-12905-shelbyville-road/v3
+description: "Looking for sushi in Louisville, Kentucky? Check out Samurai Sushi And Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJXWFMULKYaYgRzZ_Da0VcHqQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 537
 website: https://www.toasttab.com/samurai-sushi-and-hibachi-12905-shelbyville-road/v3
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

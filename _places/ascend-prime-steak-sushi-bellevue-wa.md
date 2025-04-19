@@ -5,6 +5,11 @@ permalink: /washington/bellevue/ascend-prime-steak-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
+seo:
+  name: "Ascend Prime Steak & Sushi"
+  type: Restaurant
+  links: https://ascendprime.com/
+description: "Looking for sushi in Bellevue, Washington? Check out Ascend Prime Steak & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
 place_id: ChIJN6EN0whtkFQR1lYGeflDEFc
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.3'
 rating_count: 2222
 website: https://ascendprime.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

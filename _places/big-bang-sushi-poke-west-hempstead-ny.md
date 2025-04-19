@@ -5,6 +5,11 @@ permalink: /new-york/west-hempstead/big-bang-sushi-poke.html
 stateAbbr: NY
 stateName: New York
 cityName: West Hempstead
+seo:
+  name: "Big Bang Sushi&Poke"
+  type: Restaurant
+  links: http://bigbangsushipoke.com/
+description: "Looking for sushi in West Hempstead, New York? Check out Big Bang Sushi&Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJ98K3HtV8wokRfbKzioDkCM4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 217
 website: http://bigbangsushipoke.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

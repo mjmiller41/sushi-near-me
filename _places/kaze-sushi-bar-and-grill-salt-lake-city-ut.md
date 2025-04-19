@@ -5,6 +5,11 @@ permalink: /utah/salt-lake-city/kaze-sushi-bar-and-grill.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
+seo:
+  name: "Kaze Sushi Bar and Grill"
+  type: Restaurant
+  links: http://kazesushiut.com/menu
+description: "Looking for sushi in Salt Lake City, Utah? Check out Kaze Sushi Bar and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJeb0vv1f1UocRn_0_KML_xGI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 578
 website: http://kazesushiut.com/menu
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

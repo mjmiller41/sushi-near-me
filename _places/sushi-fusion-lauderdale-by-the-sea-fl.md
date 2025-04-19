@@ -5,6 +5,11 @@ permalink: /florida/lauderdale-by-the-sea/sushi-fusion.html
 stateAbbr: FL
 stateName: Florida
 cityName: Lauderdale-By-The-Sea
+seo:
+  name: "Sushi Fusion"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Lauderdale-By-The-Sea, Florida? Check out Sushi Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJZRgJX2P92IgRax8AKi55GEo
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

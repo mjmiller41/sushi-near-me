@@ -5,6 +5,11 @@ permalink: /north-carolina/greensboro/sushi-republic.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
+seo:
+  name: "Sushi Republic"
+  type: Restaurant
+  links: http://www.sushirepublicgso.com/
+description: "Dark-wood interior & a patio offer options to dine on creative maki rolls, bento boxes & noodles. Looking for sushi in Greensboro, North Carolina? Check out ..."
 place_id: ChIJF0nEpj8ZU4gR-WT1UDFdO48
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 994
 website: http://www.sushirepublicgso.com/
-description: >-
-  Dark-wood interior & a patio offer options to dine on creative maki rolls,
-  bento boxes & noodles.
 reviews:
   - name: >-
       places/ChIJF0nEpj8ZU4gR-WT1UDFdO48/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2OS1pRXdnRRAB
@@ -388,5 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Dark-wood interior & a patio offer options to dine on creative maki rolls,
+  bento boxes & noodles.
 
 ---

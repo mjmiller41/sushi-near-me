@@ -5,6 +5,11 @@ permalink: /florida/fruit-cove/wakame-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fruit Cove
+seo:
+  name: "Wakame Japanese Restaurant"
+  type: Restaurant
+  links: http://wakamefl.com/
+description: "Looking for sushi in Fruit Cove, Florida? Check out Wakame Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJI0-en4rO5YgR5I-jiQ0niUE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 438
 website: http://wakamefl.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

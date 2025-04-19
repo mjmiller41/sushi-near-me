@@ -5,6 +5,11 @@ permalink: /massachusetts/randolph/bamboo-moon-chinese-japanese-bubble-tea.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Randolph
+seo:
+  name: "Bamboo moon Chinese&japanese Bubble Tea"
+  type: Restaurant
+  links: https://bamboomoonchinese.com/
+description: "Looking for sushi in Randolph, Massachusetts? Check out Bamboo moon Chinese&japanese Bubble Tea for a delightful Japanese dining experience. Enjoy a variety ..."
 place_id: ChIJ7_Lbc_yC5IkRII9LQdwmsW4
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $10 &ndash; $20
 rating: '3.7'
 rating_count: 115
 website: https://bamboomoonchinese.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ7_Lbc_yC5IkRII9LQdwmsW4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJcmJTaW1nRRAB
@@ -425,5 +429,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /oklahoma/oklahoma-city/sushi-neko-robata-and-sushi-bar.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
+seo:
+  name: "Sushi Neko Robata and Sushi Bar"
+  type: Restaurant
+  links: http://www.sushineko.com/
+description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Sushi Neko Robata and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi..."
 place_id: ChIJbdXiZgMasocR-apoxaTgFB0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1742
 website: http://www.sushineko.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

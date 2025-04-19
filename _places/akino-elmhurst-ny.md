@@ -5,6 +5,11 @@ permalink: /new-york/elmhurst/akino.html
 stateAbbr: NY
 stateName: New York
 cityName: Elmhurst
+seo:
+  name: "Akino"
+  type: Restaurant
+  links: https://www.akinonewyork.com/
+description: "An extensive menu of causal Japanese udon, donburi, & sushi in a modern, industrial dining room. Looking for sushi in Elmhurst, New York? Check out Akino for..."
 place_id: ChIJc6fmxaxfwokRnKatMHUC1PA
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 1418
 website: https://www.akinonewyork.com/
-description: >-
-  An extensive menu of causal Japanese udon, donburi, & sushi in a modern,
-  industrial dining room.
 reviews:
   - name: >-
       places/ChIJc6fmxaxfwokRnKatMHUC1PA/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3bGE3LXV3RRAB
@@ -454,5 +456,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  An extensive menu of causal Japanese udon, donburi, & sushi in a modern,
+  industrial dining room.
 
 ---

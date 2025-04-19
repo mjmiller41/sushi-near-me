@@ -5,6 +5,11 @@ permalink: /new-jersey/metuchen/sushi-suzuki.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Metuchen
+seo:
+  name: "Sushi Suzuki"
+  type: Restaurant
+  links: https://www.sushisuzukinj.com/
+description: "Small joint providing sushi entrees & à la carte options along with other Japanese eats. Looking for sushi in Metuchen, New Jersey? Check out Sushi Suzuki fo..."
 place_id: ChIJAe6mm823w4kRf_PI4YSdLRU
 photos:
   - name: >-
@@ -178,9 +183,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 341
 website: https://www.sushisuzukinj.com/
-description: >-
-  Small joint providing sushi entrees & à la carte options along with other
-  Japanese eats.
 reviews:
   - name: >-
       places/ChIJAe6mm823w4kRf_PI4YSdLRU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMk9LaFh3EAE
@@ -350,5 +352,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: >-
+  Small joint providing sushi entrees & à la carte options along with other
+  Japanese eats.
 
 ---

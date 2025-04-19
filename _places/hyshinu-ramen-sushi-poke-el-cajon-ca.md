@@ -5,6 +5,11 @@ permalink: /california/el-cajon/hyshinu-ramen-sushi-poke.html
 stateAbbr: CA
 stateName: California
 cityName: El Cajon
+seo:
+  name: "Hyshinu Ramen, Sushi & Poke"
+  type: Restaurant
+  links: https://www.hyshinuramen.com/
+description: "Looking for sushi in El Cajon, California? Check out Hyshinu Ramen, Sushi & Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJiTBfW71b2YARzmVcjurlAkI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 269
 website: https://www.hyshinuramen.com/
-description: null
 reviews:
   - name: >-
       places/ChIJiTBfW71b2YARzmVcjurlAkI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNid3ZHdkxREAE
@@ -396,5 +400,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /virginia/arlington/ryu-izakaya.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+seo:
+  name: "Ryu Izakaya"
+  type: Restaurant
+  links: http://ryuizakayava.com/
+description: "Casual eatery featuring Japanese street food, including ramen and yakitori, plus sake. Looking for sushi in Arlington, Virginia? Check out Ryu Izakaya for a ..."
 place_id: ChIJl4eEHY63t4kRIgatQbyaXVU
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://ryuizakayava.com/
-description: >-
-  Casual eatery featuring Japanese street food, including ramen and yakitori,
-  plus sake.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNQMXFQVGhRRRAB
   - ChZDSUhNMG9nS0VJQ0FnSUNQbWJ6SEl3EAE
@@ -217,5 +219,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Casual eatery featuring Japanese street food, including ramen and yakitori,
+  plus sake.
 
 ---

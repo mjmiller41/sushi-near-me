@@ -5,6 +5,11 @@ permalink: /illinois/chicago/midori-japanese-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+seo:
+  name: "Midori Japanese Restaurant"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Chicago, Illinois? Check out Midori Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
 place_id: ChIJr9HKmg7OD4gRk5iWg0kSDYI
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 441
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /texas/austin/kublai-khan-crazy-mongolian-stir-fry-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "Kublai Khan Crazy Mongolian Stir Fry & Sushi Bar"
+  type: Restaurant
+  links: https://kublaikhan.kwickmenu.com/index.php
+description: "Looking for sushi in Austin, Texas? Check out Kublai Khan Crazy Mongolian Stir Fry & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety o..."
 place_id: ChIJeVbufgjPRIYRInemFrJx2QA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 1403
 website: https://kublaikhan.kwickmenu.com/index.php
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

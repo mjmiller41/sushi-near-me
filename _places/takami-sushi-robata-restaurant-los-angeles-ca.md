@@ -5,6 +5,11 @@ permalink: /california/los-angeles/takami-sushi-robata-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Takami Sushi & Robata Restaurant"
+  type: Restaurant
+  links: http://www.takamisushi.com/
+description: "Looking for sushi in Los Angeles, California? Check out Takami Sushi & Robata Restaurant for a delightful Japanese dining experience. Enjoy a variety of sush..."
 place_id: ChIJA7qR47PHwoARNmZh5luni-U
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 1066
 website: http://www.takamisushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

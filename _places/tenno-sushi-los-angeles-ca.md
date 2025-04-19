@@ -5,6 +5,11 @@ permalink: /california/los-angeles/tenno-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Tenno Sushi"
+  type: Restaurant
+  links: http://www.tennosushi.com/
+description: "Looking for sushi in Los Angeles, California? Check out Tenno Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
 place_id: ChIJmRcbbTjGwoARNiMWogDPMc8
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 1564
 website: http://www.tennosushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -206,5 +210,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

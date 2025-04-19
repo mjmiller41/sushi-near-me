@@ -5,6 +5,11 @@ permalink: /pennsylvania/north-wales/cho-cho-san-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: North Wales
+seo:
+  name: "Cho Cho San Sushi Bar"
+  type: Restaurant
+  links: https://smorefood.com/order-online/cho-cho-san-north-wales-19454-afub4s90?utm_source=gmb&utm_medium=website
+description: "Simple Japanese eatery with an ample selection of sushi rolls, plus bento boxes & hibachi fare. Looking for sushi in North Wales, Pennsylvania? Check out Cho..."
 place_id: ChIJd442DASkxokRn11CnXUbDPs
 photos:
   - name: >-
@@ -181,9 +186,6 @@ rating: '4.5'
 rating_count: 214
 website: >-
   https://smorefood.com/order-online/cho-cho-san-north-wales-19454-afub4s90?utm_source=gmb&utm_medium=website
-description: >-
-  Simple Japanese eatery with an ample selection of sushi rolls, plus bento
-  boxes & hibachi fare.
 reviews:
   - name: >-
       places/ChIJd442DASkxokRn11CnXUbDPs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnb3RXOVNnEAE
@@ -353,5 +355,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Simple Japanese eatery with an ample selection of sushi rolls, plus bento
+  boxes & hibachi fare.
 
 ---

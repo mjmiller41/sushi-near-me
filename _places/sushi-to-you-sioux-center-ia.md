@@ -5,6 +5,11 @@ permalink: /iowa/sioux-center/sushi-to-you.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Sioux Center
+seo:
+  name: "Sushi to You"
+  type: Restaurant
+  links: https://www.sushitoyou.shop/
+description: "Looking for sushi in Sioux Center, Iowa? Check out Sushi to You for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJoTPqy5czjIcRpi7gmWgYG9Q
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.9'
 rating_count: 42
 website: https://www.sushitoyou.shop/
-description: null
 reviews:
   - name: >-
       places/ChIJoTPqy5czjIcRpi7gmWgYG9Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURYNW9udGtRRRAB
@@ -359,5 +363,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+summary: null
 
 ---

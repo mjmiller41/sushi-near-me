@@ -5,6 +5,11 @@ permalink: /utah/murray/miyazaki.html
 stateAbbr: UT
 stateName: Utah
 cityName: Murray
+seo:
+  name: "Miyazaki"
+  type: Restaurant
+  links: https://miyazakislc.com/
+description: "Looking for sushi in Murray, Utah? Check out Miyazaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
 place_id: ChIJve8SzeGJUocRYjaBQT_Kgpc
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 1376
 website: https://miyazakislc.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

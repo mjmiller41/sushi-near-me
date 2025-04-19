@@ -5,6 +5,11 @@ permalink: /georgia/atlanta/eav-thai-and-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
+seo:
+  name: "EAV Thai and Sushi"
+  type: Restaurant
+  links: http://www.eavthaisushi.com/
+description: "Retro establishment with brick decor & splashy artwork whips up traditional Thai & sushi dishes. Looking for sushi in Atlanta, Georgia? Check out EAV Thai an..."
 place_id: ChIJ0dFAn1sB9YgRep7HiJOdbA8
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 1239
 website: http://www.eavthaisushi.com/
-description: >-
-  Retro establishment with brick decor & splashy artwork whips up traditional
-  Thai & sushi dishes.
 reviews:
   - name: >-
       places/ChIJ0dFAn1sB9YgRep7HiJOdbA8/reviews/ChZDSUhNMG9nS0VJQ0FnTURndzY3bEVnEAE
@@ -518,5 +520,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Retro establishment with brick decor & splashy artwork whips up traditional
+  Thai & sushi dishes.
 
 ---

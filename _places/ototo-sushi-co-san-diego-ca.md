@@ -5,6 +5,11 @@ permalink: /california/san-diego/ototo-sushi-co.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+seo:
+  name: "Ototo Sushi Co."
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Diego, California? Check out Ototo Sushi Co. for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJH1OfAXQA3IARsZjpRxopZKU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

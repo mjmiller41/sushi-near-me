@@ -5,6 +5,11 @@ permalink: /california/brea/oki-doki-roll-and-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Brea
+seo:
+  name: "Oki Doki roll and sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Brea, California? Check out Oki Doki roll and sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
 place_id: ChIJ_xclbjrV3IAR-5mvBXHhQYM
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 65
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

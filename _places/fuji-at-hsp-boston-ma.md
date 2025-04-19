@@ -5,6 +5,11 @@ permalink: /massachusetts/boston/fuji-at-hsp.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
+seo:
+  name: "Fuji at HSP"
+  type: Restaurant
+  links: http://www.fujiathsp.com/
+description: "Looking for sushi in Boston, Massachusetts? Check out Fuji at HSP for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJ8y5TSGtx44kRTpz5koxmTwM
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: null
 rating: '4.5'
 rating_count: 24
 website: http://www.fujiathsp.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ8y5TSGtx44kRTpz5koxmTwM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqeHBLZkV3EAE
@@ -348,5 +352,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+summary: null
 
 ---

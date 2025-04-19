@@ -5,6 +5,11 @@ permalink: /texas/austin/yuki-handroll-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+seo:
+  name: "YUKI Handroll Bar"
+  type: Restaurant
+  links: http://yukihandroll.com/
+description: "Looking for sushi in Austin, Texas? Check out YUKI Handroll Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
 place_id: ChIJAykSq3A1W4YRYca6HwwrKXw
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 216
 website: http://yukihandroll.com/
-description: null
 reviews:
   - name: >-
       places/ChIJAykSq3A1W4YRYca6HwwrKXw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnc3JYMEZREAE
@@ -373,5 +377,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: null
 
 ---

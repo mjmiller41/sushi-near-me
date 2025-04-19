@@ -5,6 +5,11 @@ permalink: /california/los-angeles/sushi-gala.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "Sushi Gala"
+  type: Restaurant
+  links: https://www.sushigala.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13754010678618380216
+description: "Looking for sushi in Los Angeles, California? Check out Sushi Gala for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJbwC37EfGwoARDBM2QlVU3a4
 photos:
   - name: >-
@@ -181,7 +186,6 @@ rating: '4.0'
 rating_count: 397
 website: >-
   https://www.sushigala.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13754010678618380216
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -208,5 +212,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

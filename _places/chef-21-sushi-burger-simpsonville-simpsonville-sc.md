@@ -5,6 +5,11 @@ permalink: /south-carolina/simpsonville/chef-21-sushi-burger-simpsonville.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Simpsonville
+seo:
+  name: "Chef 21 Sushi Burger Simpsonville"
+  type: Restaurant
+  links: https://www.chownow.com/order/28020/locations/41503
+description: "Looking for sushi in Simpsonville, South Carolina? Check out Chef 21 Sushi Burger Simpsonville for a delightful Japanese dining experience. Enjoy a variety o..."
 place_id: ChIJezHRK7onWIgRRrNSprWLR_I
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 550
 website: https://www.chownow.com/order/28020/locations/41503
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

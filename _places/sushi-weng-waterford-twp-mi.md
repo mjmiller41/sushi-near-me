@@ -5,6 +5,11 @@ permalink: /michigan/waterford-twp/sushi-weng.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Waterford Twp
+seo:
+  name: "Sushi Weng"
+  type: Restaurant
+  links: http://sushiwengmi.com/
+description: "Looking for sushi in Waterford Twp, Michigan? Check out Sushi Weng for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJ4x8xfua8JIgRv4dtnBhC4TY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 449
 website: http://sushiwengmi.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ4x8xfua8JIgRv4dtnBhC4TY/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3bnVmRW13RRAB
@@ -350,5 +354,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

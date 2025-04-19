@@ -5,6 +5,11 @@ permalink: /virginia/ashburn/asian-spice-cafe.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Ashburn
+seo:
+  name: "Asian Spice Cafe"
+  type: Restaurant
+  links: http://www.asianspicecafe.com/
+description: "Laid-back Chinese eatery with booth seating & a sushi bar supplying straightforward fare. Looking for sushi in Ashburn, Virginia? Check out Asian Spice Cafe ..."
 place_id: ChIJycbE9os_tokRMSTSjBBAhJU
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 262
 website: http://www.asianspicecafe.com/
-description: >-
-  Laid-back Chinese eatery with booth seating & a sushi bar supplying
-  straightforward fare.
 reviews:
   - name: >-
       places/ChIJycbE9os_tokRMSTSjBBAhJU/reviews/ChdDSUhNMG9nS0VJQ0FnSURfMXFpVXl3RRAB
@@ -352,5 +354,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+summary: >-
+  Laid-back Chinese eatery with booth seating & a sushi bar supplying
+  straightforward fare.
 
 ---

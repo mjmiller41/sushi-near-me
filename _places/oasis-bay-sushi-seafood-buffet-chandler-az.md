@@ -5,6 +5,11 @@ permalink: /arizona/chandler/oasis-bay-sushi-seafood-buffet.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
+seo:
+  name: "Oasis Bay Sushi + Seafood Buffet"
+  type: Restaurant
+  links: https://oasisbaybuffet.com/
+description: "Looking for sushi in Chandler, Arizona? Check out Oasis Bay Sushi + Seafood Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
 place_id: ChIJd73CsQ6rK4cRdhThGVoUUvE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 1995
 website: https://oasisbaybuffet.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

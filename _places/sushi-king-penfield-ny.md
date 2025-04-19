@@ -5,6 +5,11 @@ permalink: /new-york/penfield/sushi-king.html
 stateAbbr: NY
 stateName: New York
 cityName: Penfield
+seo:
+  name: "Sushi King"
+  type: Restaurant
+  links: http://www.penfieldsushiking.com/
+description: "Looking for sushi in Penfield, New York? Check out Sushi King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
 place_id: ChIJb5O0W2PL1okRfPwDF0d8gzE
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 313
 website: http://www.penfieldsushiking.com/
-description: null
 reviews:
   - name: >-
       places/ChIJb5O0W2PL1okRfPwDF0d8gzE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJc3ZtM2pnRRAB
@@ -360,5 +364,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

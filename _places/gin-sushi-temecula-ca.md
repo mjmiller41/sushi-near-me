@@ -5,6 +5,11 @@ permalink: /california/temecula/gin-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Temecula
+seo:
+  name: "Gin Sushi"
+  type: Restaurant
+  links: http://ginsushitemecula.com/
+description: "Sushi rolls, udon noodle soups, bento lunch boxes & all-you-can-eat specials in a casual space. Looking for sushi in Temecula, California? Check out Gin Sush..."
 place_id: ChIJkbCHzzt-24ARcZ7-f7K4fh0
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 768
 website: http://ginsushitemecula.com/
-description: >-
-  Sushi rolls, udon noodle soups, bento lunch boxes & all-you-can-eat specials
-  in a casual space.
 reviews:
   - name: >-
       places/ChIJkbCHzzt-24ARcZ7-f7K4fh0/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3M0s2dEpnEAE
@@ -413,5 +415,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Sushi rolls, udon noodle soups, bento lunch boxes & all-you-can-eat specials
+  in a casual space.
 
 ---

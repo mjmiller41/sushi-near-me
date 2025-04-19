@@ -5,6 +5,11 @@ permalink: /florida/fort-lauderdale/tee-jay-thai-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Lauderdale
+seo:
+  name: "Tee Jay Thai Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Fort Lauderdale, Florida? Check out Tee Jay Thai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
 place_id: ChIJ64Cr5W0C2YgRfk2b19h52DU
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

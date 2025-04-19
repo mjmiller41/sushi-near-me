@@ -5,6 +5,11 @@ permalink: /georgia/chamblee/mint-chinese-thai-cuisine.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Chamblee
+seo:
+  name: "Mint Chinese & Thai Cuisine"
+  type: Restaurant
+  links: https://www.mintchinesenthai.com/
+description: "Strip-mall spot for rice dishes, dumplings & more Chinese classics, plus Thai noodles & curries. Looking for sushi in Chamblee, Georgia? Check out Mint Chine..."
 place_id: ChIJJTqhMl4I9YgRAyuDOExyzbQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 273
 website: https://www.mintchinesenthai.com/
-description: >-
-  Strip-mall spot for rice dishes, dumplings & more Chinese classics, plus Thai
-  noodles & curries.
 reviews:
   - name: >-
       places/ChIJJTqhMl4I9YgRAyuDOExyzbQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURQeDkyRHNnRRAB
@@ -394,5 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+summary: >-
+  Strip-mall spot for rice dishes, dumplings & more Chinese classics, plus Thai
+  noodles & curries.
 
 ---

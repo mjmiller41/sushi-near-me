@@ -5,6 +5,11 @@ permalink: /california/los-angeles/sushistop-sawtelle-north.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
+seo:
+  name: "SushiStop Sawtelle North"
+  type: Restaurant
+  links: https://sushistop.com/locations/sawtelle-north/
+description: "Looking for sushi in Los Angeles, California? Check out SushiStop Sawtelle North for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
 place_id: ChIJc8oe33S7woARydw9HbWq-lA
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 446
 website: https://sushistop.com/locations/sawtelle-north/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

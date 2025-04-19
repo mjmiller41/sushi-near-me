@@ -5,6 +5,11 @@ permalink: /nebraska/omaha/baby-blue-sushi-sake-grill.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
+seo:
+  name: "Baby Blue Sushi Sake Grill"
+  type: Restaurant
+  links: http://www.bluesushisakegrill.com/
+description: "Modern, clubby restaurant featuring sushi & Japanese tapas, plus fancy mixed drinks. Looking for sushi in Omaha, Nebraska? Check out Baby Blue Sushi Sake Gri..."
 place_id: ChIJQwlWyAvxk4cR0lnR9TR2sIw
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: null
 rating: '4.5'
 rating_count: 1023
 website: http://www.bluesushisakegrill.com/
-description: >-
-  Modern, clubby restaurant featuring sushi & Japanese tapas, plus fancy mixed
-  drinks.
 reviews:
   - name: >-
       places/ChIJQwlWyAvxk4cR0lnR9TR2sIw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYOHVLR0NREAE
@@ -449,5 +451,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern, clubby restaurant featuring sushi & Japanese tapas, plus fancy mixed
+  drinks.
 
 ---

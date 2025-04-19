@@ -5,6 +5,11 @@ permalink: /california/south-lake-tahoe/kalani-s.html
 stateAbbr: CA
 stateName: California
 cityName: South Lake Tahoe
+seo:
+  name: "Kalani's"
+  type: Restaurant
+  links: http://kalanis.com/
+description: "Fine-dining spot at the Heavenly Mountain base featuring Hawaiian eats & a variety of sushi rolls. Looking for sushi in South Lake Tahoe, California? Check o..."
 place_id: ChIJRV9f9HaQmYARS-KagE_VWFA
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 790
 website: http://kalanis.com/
-description: >-
-  Fine-dining spot at the Heavenly Mountain base featuring Hawaiian eats & a
-  variety of sushi rolls.
 reviews:
   - name: >-
       places/ChIJRV9f9HaQmYARS-KagE_VWFA/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3am9lM0tREAE
@@ -419,5 +421,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Fine-dining spot at the Heavenly Mountain base featuring Hawaiian eats & a
+  variety of sushi rolls.
 
 ---

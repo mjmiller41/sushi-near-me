@@ -5,6 +5,11 @@ permalink: /south-dakota/rapid-city/fuji-sushi-sake-bar.html
 stateAbbr: SD
 stateName: South Dakota
 cityName: Rapid City
+seo:
+  name: "Fuji Sushi & Sake Bar"
+  type: Restaurant
+  links: http://fujisushisakebar.com/
+description: "A menu specializing in an array of sushi & sake with Japanese interior details & bar seating. Looking for sushi in Rapid City, South Dakota? Check out Fuji S..."
 place_id: ChIJmTk8UhpdfYcRGhLlMQMpXSM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 544
 website: http://fujisushisakebar.com/
-description: >-
-  A menu specializing in an array of sushi & sake with Japanese interior details
-  & bar seating.
 reviews:
   - name: >-
       places/ChIJmTk8UhpdfYcRGhLlMQMpXSM/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzME1qa3VBRRAB
@@ -406,5 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  A menu specializing in an array of sushi & sake with Japanese interior details
+  & bar seating.
 
 ---

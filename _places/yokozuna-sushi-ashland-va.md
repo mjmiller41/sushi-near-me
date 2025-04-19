@@ -5,6 +5,11 @@ permalink: /virginia/ashland/yokozuna-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Ashland
+seo:
+  name: "Yokozuna Sushi"
+  type: Restaurant
+  links: https://yokozunava.com/
+description: "Basic Japanese cafe with some Americanized fare plus beer, wine & sake & occasional piano music. Looking for sushi in Ashland, Virginia? Check out Yokozuna S..."
 place_id: ChIJzXdji2I5sYkR3T7z34g3E8g
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 235
 website: https://yokozunava.com/
-description: >-
-  Basic Japanese cafe with some Americanized fare plus beer, wine & sake &
-  occasional piano music.
 reviews:
   - name: >-
       places/ChIJzXdji2I5sYkR3T7z34g3E8g/reviews/ChdDSUhNMG9nS0VJQ0FnSURYN01hT3VBRRAB
@@ -370,5 +372,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Basic Japanese cafe with some Americanized fare plus beer, wine & sake &
+  occasional piano music.
 
 ---

@@ -5,6 +5,11 @@ permalink: /montana/bozeman/seven.html
 stateAbbr: MT
 stateName: Montana
 cityName: Bozeman
+seo:
+  name: "Seven"
+  type: Restaurant
+  links: https://www.7bozeman.com/
+description: "Looking for sushi in Bozeman, Montana? Check out Seven for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
 place_id: ChIJUwQBox1FRVMRbKRDF0mAlx0
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: '4.4'
 rating_count: 1179
 website: https://www.7bozeman.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

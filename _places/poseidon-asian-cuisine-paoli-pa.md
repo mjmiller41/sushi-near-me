@@ -5,6 +5,11 @@ permalink: /pennsylvania/paoli/poseidon-asian-cuisine.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Paoli
+seo:
+  name: "Poseidon Asian Cuisine"
+  type: Restaurant
+  links: http://poseidonpa.com/
+description: "Looking for sushi in Paoli, Pennsylvania? Check out Poseidon Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
 place_id: ChIJJStsU1btxokR21LWtcbbEF4
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 529
 website: http://poseidonpa.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

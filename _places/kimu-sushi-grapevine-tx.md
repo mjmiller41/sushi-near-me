@@ -5,6 +5,11 @@ permalink: /texas/grapevine/kimu-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Grapevine
+seo:
+  name: "Kimu Sushi"
+  type: Restaurant
+  links: http://orderkimusushi.com/
+description: "Looking for sushi in Grapevine, Texas? Check out Kimu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJT8PoQD8rTIYRZugwcw1fiaE
 photos:
   - name: >-
@@ -182,7 +187,6 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 76
 website: http://orderkimusushi.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -209,5 +213,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

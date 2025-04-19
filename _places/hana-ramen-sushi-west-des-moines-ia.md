@@ -5,6 +5,11 @@ permalink: /iowa/west-des-moines/hana-ramen-sushi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: West Des Moines
+seo:
+  name: "Hana Ramen Sushi"
+  type: Restaurant
+  links: http://www.hanaramensushi.com/
+description: "Busy Japanese standby offering sushi & ramen in a contemporary, yellow dining room with a full bar. Looking for sushi in West Des Moines, Iowa? Check out Han..."
 place_id: ChIJI49DhJAh7IcRJA_IzD2oWs4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 1163
 website: http://www.hanaramensushi.com/
-description: >-
-  Busy Japanese standby offering sushi & ramen in a contemporary, yellow dining
-  room with a full bar.
 reviews:
   - name: >-
       places/ChIJI49DhJAh7IcRJA_IzD2oWs4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfMHZTXy1nRRAB
@@ -382,5 +384,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Busy Japanese standby offering sushi & ramen in a contemporary, yellow dining
+  room with a full bar.
 
 ---

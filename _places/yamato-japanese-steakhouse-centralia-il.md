@@ -5,6 +5,11 @@ permalink: /illinois/centralia/yamato-japanese-steakhouse.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Centralia
+seo:
+  name: "Yamato Japanese Steakhouse"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Centralia, Illinois? Check out Yamato Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
 place_id: ChIJ8VKSA7WZdogRAHL3zh4IvLI
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

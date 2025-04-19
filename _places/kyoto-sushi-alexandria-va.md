@@ -5,6 +5,11 @@ permalink: /virginia/alexandria/kyoto-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
+seo:
+  name: "Kyoto Sushi"
+  type: Restaurant
+  links: http://www.kyotosushibox.com/
+description: "Easygoing, strip-mall destination for sushi, sashimi & cooked Japanese favorites. Looking for sushi in Alexandria, Virginia? Check out Kyoto Sushi for a deli..."
 place_id: ChIJoWSl_2A2tokRjG18NzuhBQM
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &mdash; 30
 rating: '4.3'
 rating_count: 0
 website: http://www.kyotosushibox.com/
-description: >-
-  Easygoing, strip-mall destination for sushi, sashimi & cooked Japanese
-  favorites.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNyNWFLa3lRRRAB
   - ChZDSUhNMG9nS0VJQ0FnSURfdWM3elNnEAE
@@ -218,5 +220,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Easygoing, strip-mall destination for sushi, sashimi & cooked Japanese
+  favorites.
 
 ---

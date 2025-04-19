@@ -5,6 +5,11 @@ permalink: /california/chula-vista/leo-s-kitchen.html
 stateAbbr: CA
 stateName: California
 cityName: Chula Vista
+seo:
+  name: "Leo's Kitchen"
+  type: Restaurant
+  links: https://leoskitchen.net/
+description: "Looking for sushi in Chula Vista, California? Check out Leo's Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
 place_id: ChIJ-SVZitlP2YARgyq7F9T0ims
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 118
 website: https://leoskitchen.net/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

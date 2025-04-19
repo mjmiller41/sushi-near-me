@@ -5,6 +5,11 @@ permalink: /connecticut/wethersfield/edo-ichi-sushi-hibachi-steakhouse.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Wethersfield
+seo:
+  name: "Edo Ichi Sushi & Hibachi Steakhouse"
+  type: Restaurant
+  links: https://www.edoichisushihibachi.com/
+description: "Modern, colorful Japanese restaurant serving sushi, noodles, hibachi fare & more. Looking for sushi in Wethersfield, Connecticut? Check out Edo Ichi Sushi & ..."
 place_id: ChIJx0Ev0WFS5okR-A-waMC2kkY
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 799
 website: https://www.edoichisushihibachi.com/
-description: >-
-  Modern, colorful Japanese restaurant serving sushi, noodles, hibachi fare &
-  more.
 reviews:
   - name: >-
       places/ChIJx0Ev0WFS5okR-A-waMC2kkY/reviews/ChdDSUhNMG9nS0VJQ0FnSURfcEx2bHlBRRAB
@@ -400,5 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Modern, colorful Japanese restaurant serving sushi, noodles, hibachi fare &
+  more.
 
 ---

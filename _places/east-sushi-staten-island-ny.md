@@ -5,6 +5,11 @@ permalink: /new-york/staten-island/east-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
+seo:
+  name: "East Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Staten Island, New York? Check out East Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
 place_id: ChIJMdmspK1LwokRkYEguoHA0jU
 photos:
   - name: >-
@@ -140,7 +145,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -167,5 +171,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

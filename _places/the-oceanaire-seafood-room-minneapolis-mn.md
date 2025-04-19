@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/the-oceanaire-seafood-room.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "The Oceanaire Seafood Room"
+  type: Restaurant
+  links: https://www.theoceanaire.com/location/minneapolis-mn/
+description: "High-end chain offering seafood, steaks & a deep wine list in sophisticated but lively environs. Looking for sushi in Minneapolis, Minnesota? Check out The O..."
 place_id: ChIJMYwGzL8ys1IR3HOaQldAnW4
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 1732
 website: https://www.theoceanaire.com/location/minneapolis-mn/
-description: >-
-  High-end chain offering seafood, steaks & a deep wine list in sophisticated
-  but lively environs.
 reviews:
   - name: >-
       places/ChIJMYwGzL8ys1IR3HOaQldAnW4/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3bEw3bDN3RRAB
@@ -433,5 +435,8 @@ serves_lunch: false
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+summary: >-
+  High-end chain offering seafood, steaks & a deep wine list in sophisticated
+  but lively environs.
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/redwood-city/ahisushi-steakhouse.html
 stateAbbr: CA
 stateName: California
 cityName: Redwood City
+seo:
+  name: "AhiSushi Steakhouse"
+  type: Restaurant
+  links: https://www.ahisushihibachica.com/
+description: "Chill dining space serving sushi & Japanese entrees such as hibachi & teriyaki, plus lunch specials. Looking for sushi in Redwood City, California? Check out..."
 place_id: ChIJP-i6Iaujj4ARZANvuhslxqQ
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 288
 website: https://www.ahisushihibachica.com/
-description: >-
-  Chill dining space serving sushi & Japanese entrees such as hibachi &
-  teriyaki, plus lunch specials.
 reviews:
   - name: >-
       places/ChIJP-i6Iaujj4ARZANvuhslxqQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2Xy1fNUJ3EAE
@@ -452,5 +454,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+summary: >-
+  Chill dining space serving sushi & Japanese entrees such as hibachi &
+  teriyaki, plus lunch specials.
 
 ---

@@ -5,6 +5,11 @@ permalink: /hawaii/kapolei/sushi-bay.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kapolei
+seo:
+  name: "Sushi Bay"
+  type: Restaurant
+  links: http://www.sushibaykapolei.com/
+description: "Looking for sushi in Kapolei, Hawaii? Check out Sushi Bay for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
 place_id: ChIJBdYnKxZjAHwRIeh6vUfmqBs
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 1088
 website: http://www.sushibaykapolei.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

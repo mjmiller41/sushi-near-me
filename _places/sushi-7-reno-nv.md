@@ -5,6 +5,11 @@ permalink: /nevada/reno/sushi-7.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
+seo:
+  name: "Sushi 7"
+  type: Restaurant
+  links: https://order.online/business/sushi7-416172
+description: "Looking for sushi in Reno, Nevada? Check out Sushi 7 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming at..."
 place_id: ChIJFYtOZH9AmYAReKlZPWHGYOQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 531
 website: https://order.online/business/sushi7-416172
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

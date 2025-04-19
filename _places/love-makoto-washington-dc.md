@@ -5,6 +5,11 @@ permalink: /district-of-columbia/washington/love-makoto.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+seo:
+  name: "Love, Makoto"
+  type: Restaurant
+  links: https://www.lovemakoto.com/
+description: "Looking for sushi in Washington, District of Columbia? Check out Love, Makoto for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
 place_id: ChIJUfkA14u3t4kR7KK4ltOvsbA
 photos:
   - name: >-
@@ -179,7 +184,6 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 1174
 website: https://www.lovemakoto.com/
-description: null
 reviews:
   - name: >-
       places/ChIJUfkA14u3t4kR7KK4ltOvsbA/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3eDVTZzhnRRAB
@@ -405,5 +409,6 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /california/san-ramon/sachi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Ramon
+seo:
+  name: "Sachi Sushi"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in San Ramon, California? Check out Sachi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
 place_id: ChIJXc-7NIDyj4ARhC2QYKXYq04
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /washington/seattle/sushi-suzuki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+seo:
+  name: "Sushi Suzuki"
+  type: Restaurant
+  links: http://sushisuzuki.com/
+description: "Looking for sushi in Seattle, Washington? Check out Sushi Suzuki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
 place_id: ChIJNdwddBEVkFQRFbOM_NGG6-8
 photos:
   - name: >-
@@ -178,7 +183,6 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 120
 website: http://sushisuzuki.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -205,5 +209,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

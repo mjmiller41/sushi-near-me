@@ -5,6 +5,11 @@ permalink: /new-york/whitestone/casa-asia.html
 stateAbbr: NY
 stateName: New York
 cityName: Whitestone
+seo:
+  name: "Casa Asia"
+  type: Restaurant
+  links: http://www.casabistrony.com/
+description: "Comfy destination for Thai, Chinese & Japanese classics, including curries & sushi. Looking for sushi in Whitestone, New York? Check out Casa Asia for a deli..."
 place_id: ChIJA2UX6ZSKwokRz6umsPuEkA4
 photos:
   - name: >-
@@ -179,9 +184,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 353
 website: http://www.casabistrony.com/
-description: >-
-  Comfy destination for Thai, Chinese & Japanese classics, including curries &
-  sushi.
 reviews:
   - name: >-
       places/ChIJA2UX6ZSKwokRz6umsPuEkA4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMeUtXUGp3RRAB
@@ -386,5 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Comfy destination for Thai, Chinese & Japanese classics, including curries &
+  sushi.
 
 ---

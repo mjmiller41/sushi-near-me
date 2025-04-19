@@ -5,6 +5,11 @@ permalink: /minnesota/minneapolis/ichiban-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
+seo:
+  name: "Ichiban Sushi"
+  type: Restaurant
+  links: https://www.ichibansushiedina.com/
+description: "Looking for sushi in Minneapolis, Minnesota? Check out Ichiban Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
 place_id: ChIJ5VJbdpwl9ocR1_Bmq_Rq2gk
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 440
 website: https://www.ichibansushiedina.com/
-description: null
 reviews:
   - name: >-
       places/ChIJ5VJbdpwl9ocR1_Bmq_Rq2gk/reviews/ChdDSUhNMG9nS0VJQ0FnTURnMTgtcF9nRRAB
@@ -380,5 +384,6 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
+summary: null
 
 ---

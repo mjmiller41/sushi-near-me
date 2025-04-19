@@ -5,6 +5,11 @@ permalink: /new-york/flushing/sushi-33.html
 stateAbbr: NY
 stateName: New York
 cityName: Flushing
+seo:
+  name: "Sushi 33"
+  type: Restaurant
+  links: http://www.regoparksushi33.com/
+description: "Looking for sushi in Flushing, New York? Check out Sushi 33 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
 place_id: ChIJGXvZjTdewokRyYCV4y3GYlo
 photos:
   - name: >-
@@ -177,7 +182,6 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 140
 website: http://www.regoparksushi33.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -204,5 +208,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

@@ -5,6 +5,11 @@ permalink: /virginia/centreville/tomo-izakaya-japanese-sushi-and-grill.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Centreville
+seo:
+  name: "Tomo Izakaya Japanese Sushi and Grill"
+  type: Restaurant
+  links: http://www.tomosushigrill.com/
+description: "Cozy, laid-back izakaya in a strip mall with late hours & a sushi bar, plus Japanese entrees & sake. Looking for sushi in Centreville, Virginia? Check out To..."
 place_id: ChIJNd7n5fxEtokR29eJKuaJ4iI
 photos:
   - name: >-
@@ -180,9 +185,6 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 891
 website: http://www.tomosushigrill.com/
-description: >-
-  Cozy, laid-back izakaya in a strip mall with late hours & a sushi bar, plus
-  Japanese entrees & sake.
 reviews:
   - name: >-
       places/ChIJNd7n5fxEtokR29eJKuaJ4iI/reviews/ChdDSUhNMG9nS0VJQ0FnTURBejRtWGd3RRAB
@@ -380,5 +382,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+summary: >-
+  Cozy, laid-back izakaya in a strip mall with late hours & a sushi bar, plus
+  Japanese entrees & sake.
 
 ---

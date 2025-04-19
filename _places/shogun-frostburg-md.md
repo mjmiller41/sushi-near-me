@@ -5,6 +5,11 @@ permalink: /maryland/frostburg/shogun.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Frostburg
+seo:
+  name: "Shogun"
+  type: Restaurant
+  links: null
+description: "Looking for sushi in Frostburg, Maryland? Check out Shogun for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
 place_id: ChIJ42tvO-6RyokRKZdYw-JcLjQ
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---

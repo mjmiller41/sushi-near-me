@@ -5,6 +5,11 @@ permalink: /south-carolina/greenville/the-bluefin.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Greenville
+seo:
+  name: "The BlueFin"
+  type: Restaurant
+  links: https://thebluefingreenville.com/
+description: "Looking for sushi in Greenville, South Carolina? Check out The BlueFin for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
 place_id: ChIJA0NYua4vWIgR7Ss5Hfa9HrY
 photos:
   - name: >-
@@ -180,7 +185,6 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 224
 website: https://thebluefingreenville.com/
-description: null
 reviews: null
 parking_options: null
 payment_options: null
@@ -207,5 +211,6 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+summary: null
 
 ---
