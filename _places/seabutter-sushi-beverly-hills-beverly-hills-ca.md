@@ -9,7 +9,7 @@ seo:
   name: "Seabutter Sushi - Beverly Hills"
   type: Restaurant
   links: null
-description: "Looking for sushi in Beverly Hills, California? Check out Seabutter Sushi - Beverly Hills for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "Seabutter Sushi - Beverly Hills serves delicious sushi in Beverly Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmfnhauu5woAReS6oPmE41Ps
 photos:
   - name: >-

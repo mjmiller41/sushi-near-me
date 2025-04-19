@@ -9,7 +9,7 @@ seo:
   name: "Oriental Chinese & Sushi Restaurant"
   type: Restaurant
   links: http://www.orientalchinesesushi.com/
-description: "Looking for sushi in Salem, Oregon? Check out Oriental Chinese & Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Oriental Chinese & Sushi Restaurant serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUV1gQOv-v1QRgoUzC_LbYYE
 photos:
   - name: >-

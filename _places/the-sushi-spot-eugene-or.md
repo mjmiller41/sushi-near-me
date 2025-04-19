@@ -9,7 +9,7 @@ seo:
   name: "The Sushi Spot"
   type: Restaurant
   links: https://www.thesushispoteugene.com/
-description: "Looking for sushi in Eugene, Oregon? Check out The Sushi Spot for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "The Sushi Spot serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb2_HIGsewVQRfur9BwaQB9E
 photos:
   - name: >-

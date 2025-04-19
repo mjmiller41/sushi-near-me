@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Plainsboro Township, New Jersey? Check out Ichiban Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Ichiban Sushi serves delicious sushi in Plainsboro Township, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKRaHoObdw4kRU9yXWogivlU
 photos:
   - name: >-

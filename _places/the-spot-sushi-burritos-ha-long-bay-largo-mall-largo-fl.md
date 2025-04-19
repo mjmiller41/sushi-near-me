@@ -9,7 +9,7 @@ seo:
   name: "The Spot Sushi Burritos Ha Long Bay Largo Mall"
   type: Restaurant
   links: http://www.spotsushiburrito.com/
-description: "Looking for sushi in Largo, Florida? Check out The Spot Sushi Burritos Ha Long Bay Largo Mall for a delightful Japanese dining experience. Enjoy a variety of..."
+description: "The Spot Sushi Burritos Ha Long Bay Largo Mall serves delicious sushi in Largo, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo-n_xlv6wogR6WkNjKuAHF8
 photos:
   - name: >-

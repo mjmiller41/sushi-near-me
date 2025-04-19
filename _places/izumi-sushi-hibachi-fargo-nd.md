@@ -9,7 +9,7 @@ seo:
   name: "Izumi Sushi & Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fargo, North Dakota? Check out Izumi Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Izumi Sushi & Hibachi serves delicious sushi in Fargo, North Dakota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXSRwpVrLyFIRHZZYB7F8fkA
 photos:
   - name: >-

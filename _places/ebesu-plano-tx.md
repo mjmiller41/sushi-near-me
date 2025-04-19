@@ -9,7 +9,7 @@ seo:
   name: "EBESU"
   type: Restaurant
   links: http://ebesu-usa.com/
-description: "Looking for sushi in Plano, Texas? Check out EBESU for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atmo..."
+description: "EBESU serves delicious sushi in Plano, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAwBQgxsZTIYRfiDFLMllic8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Senro Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Ramon, California? Check out Senro Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Senro Sushi serves delicious sushi in San Ramon, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjXu9R8fyj4AROsLsHNxU4N4
 photos:
   - name: >-

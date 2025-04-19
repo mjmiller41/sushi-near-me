@@ -9,7 +9,7 @@ seo:
   name: "Kai's Sushi & Grill Minnetonka"
   type: Restaurant
   links: http://kaisushigrill.com/
-description: "Looking for sushi in Minnetonka, Minnesota? Check out Kai's Sushi & Grill Minnetonka for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Kai's Sushi & Grill Minnetonka serves delicious sushi in Minnetonka, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJl8R-3Wod9ocRoTqo1CP4CKY
 photos:
   - name: >-

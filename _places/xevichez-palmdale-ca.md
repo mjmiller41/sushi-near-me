@@ -9,7 +9,7 @@ seo:
   name: "Xevichez"
   type: Restaurant
   links: https://www.xevichezpalmdale.com/
-description: "Looking for sushi in Palmdale, California? Check out Xevichez for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Xevichez serves delicious sushi in Palmdale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5xZHHo9ZwoARqxAcXvD-yn0
 photos:
   - name: >-

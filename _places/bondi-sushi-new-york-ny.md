@@ -9,7 +9,7 @@ seo:
   name: "Bondi sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Bondi sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Bondi sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb9AlFyhZwokRGGKmqrEq84s
 photos:
   - name: >-

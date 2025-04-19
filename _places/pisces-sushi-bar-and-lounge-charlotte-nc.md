@@ -9,7 +9,7 @@ seo:
   name: "Pisces Sushi Bar and Lounge"
   type: Restaurant
   links: http://piscessushi.com/
-description: "Looking for sushi in Charlotte, North Carolina? Check out Pisces Sushi Bar and Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Pisces Sushi Bar and Lounge serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ8sHeIyfVogRS_YS7LZ3hyw
 photos:
   - name: >-

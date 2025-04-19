@@ -9,7 +9,7 @@ seo:
   name: "Sultan Wok Highland Park"
   type: Restaurant
   links: null
-description: "Looking for sushi in Highland Park, New Jersey? Check out Sultan Wok Highland Park for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Sultan Wok Highland Park serves delicious sushi in Highland Park, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3WaPYMvHw4kRTmNQqAJKCIk
 photos:
   - name: >-

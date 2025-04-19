@@ -9,7 +9,7 @@ seo:
   name: "Ohana Sushi & Grill"
   type: Restaurant
   links: https://www.ohanasushiandgrill.com/
-description: "Looking for sushi in Jasper, Indiana? Check out Ohana Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Ohana Sushi & Grill serves delicious sushi in Jasper, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0UHKnuNibogRhEfoTjl56EQ
 photos:
   - name: >-

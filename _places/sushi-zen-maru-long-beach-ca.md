@@ -9,7 +9,7 @@ seo:
   name: "Sushi Zen Maru"
   type: Restaurant
   links: https://smorefood.com/order-online/sushi-zen-maru-long-beach-90802-rbyde5rh?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Long Beach, California? Check out Sushi Zen Maru for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Sushi Zen Maru serves delicious sushi in Long Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFV0VcTgx3YAR9nEeFncN22w
 photos:
   - name: >-

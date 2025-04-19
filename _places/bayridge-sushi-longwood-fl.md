@@ -9,7 +9,7 @@ seo:
   name: "Bayridge Sushi"
   type: Restaurant
   links: http://www.brsushi.com/
-description: "Looking for sushi in Longwood, Florida? Check out Bayridge Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Bayridge Sushi serves delicious sushi in Longwood, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF576zz9y54gRX-C3WqaUVEM
 photos:
   - name: >-

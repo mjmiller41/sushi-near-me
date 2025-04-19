@@ -9,7 +9,7 @@ seo:
   name: "Matsuri"
   type: Restaurant
   links: http://www.matsurimiami.com/
-description: "Homey joint featuring inventive sushi, hot entrees & a Japanese menu with less-common dishes. Looking for sushi in Miami, Florida? Check out Matsuri for a de..."
+description: "Homey joint featuring inventive sushi, hot entrees & a Japanese menu with less-common dishes. Matsuri serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCw0-ABq42YgR9sXS9kgio5A
 photos:
   - name: >-

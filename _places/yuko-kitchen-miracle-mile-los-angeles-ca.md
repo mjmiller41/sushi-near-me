@@ -9,7 +9,7 @@ seo:
   name: "Yuko Kitchen Miracle Mile"
   type: Restaurant
   links: http://www.yukokitchen.com/
-description: "Rice bowls & udon noodles are favorites at this arty cafe with an outdoor patio & free WiFi. Looking for sushi in Los Angeles, California? Check out Yuko Kit..."
+description: "Rice bowls & udon noodles are favorites at this arty cafe with an outdoor patio & free WiFi. Yuko Kitchen Miracle Mile serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDd6ViR-5woAR3GM-wHwBmu4
 photos:
   - name: >-

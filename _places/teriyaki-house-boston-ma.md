@@ -9,7 +9,7 @@ seo:
   name: "Teriyaki House"
   type: Restaurant
   links: http://www.teriyakihouse.info/
-description: "Looking for sushi in Boston, Massachusetts? Check out Teriyaki House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Teriyaki House serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJa4NAAER744kR_N-8rev0cf0
 photos:
   - name: >-

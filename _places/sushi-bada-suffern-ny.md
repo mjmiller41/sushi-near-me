@@ -9,7 +9,7 @@ seo:
   name: "Sushi Bada"
   type: Restaurant
   links: http://www.sushibada59.com/
-description: "Chic sushi spot with lunch plates & boxes plus beer, wine & sake served in a lively, low-lit space. Looking for sushi in Suffern, New York? Check out Sushi B..."
+description: "Chic sushi spot with lunch plates & boxes plus beer, wine & sake served in a lively, low-lit space. Sushi Bada serves delicious sushi in Suffern, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCUTeuEjnwokRALVbgZklijs
 photos:
   - name: >-

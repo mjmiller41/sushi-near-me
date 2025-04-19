@@ -9,7 +9,7 @@ seo:
   name: "Sushi UNI"
   type: Restaurant
   links: https://www.ordersushiuni.com/
-description: "Compact, busy strip-mall venue for traditional Japanese sushi, sashimi, salads & hot entrees. Looking for sushi in Lenexa, Kansas? Check out Sushi UNI for a ..."
+description: "Compact, busy strip-mall venue for traditional Japanese sushi, sashimi, salads & hot entrees. Sushi UNI serves delicious sushi in Lenexa, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJWQVgBqmUwIcRhxXieX6gsyY
 photos:
   - name: >-

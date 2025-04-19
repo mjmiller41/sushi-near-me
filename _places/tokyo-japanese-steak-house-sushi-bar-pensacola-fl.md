@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Japanese Steak House & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pensacola, Florida? Check out Tokyo Japanese Steak House & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "Tokyo Japanese Steak House & Sushi Bar serves delicious sushi in Pensacola, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ858p2QeVkIgR9p-emqugFQ8
 photos:
   - name: >-

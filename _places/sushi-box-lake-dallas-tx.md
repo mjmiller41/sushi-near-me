@@ -9,7 +9,7 @@ seo:
   name: "Sushi Box"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lake Dallas, Texas? Check out Sushi Box for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi Box serves delicious sushi in Lake Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD-ksHyczTIYRsUQYZsftGN4
 photos:
   - name: >-

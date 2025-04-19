@@ -9,7 +9,7 @@ seo:
   name: "Mitsuru Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Mitsuru Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Mitsuru Sushi & Grill serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW5-M2UfGwoARZhvSfIov81I
 photos:
   - name: >-

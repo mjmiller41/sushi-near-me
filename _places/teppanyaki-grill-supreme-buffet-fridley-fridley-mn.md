@@ -9,7 +9,7 @@ seo:
   name: "Teppanyaki Grill & Supreme Buffet - Fridley"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fridley, Minnesota? Check out Teppanyaki Grill & Supreme Buffet - Fridley for a delightful Japanese dining experience. Enjoy a variety o..."
+description: "Teppanyaki Grill & Supreme Buffet - Fridley serves delicious sushi in Fridley, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJARlPjAAvs1IRMbiTn-wGtFA
 photos:
   - name: >-

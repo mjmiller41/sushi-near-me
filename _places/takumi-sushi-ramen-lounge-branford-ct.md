@@ -9,7 +9,7 @@ seo:
   name: "Takumi Sushi Ramen&Lounge"
   type: Restaurant
   links: null
-description: "Looking for sushi in Branford, Connecticut? Check out Takumi Sushi Ramen&Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Takumi Sushi Ramen&Lounge serves delicious sushi in Branford, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyRYKwEbW54kRVDZnagGMVyA
 photos:
   - name: >-

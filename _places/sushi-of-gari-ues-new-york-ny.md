@@ -9,7 +9,7 @@ seo:
   name: "Sushi of Gari UES"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Sushi of Gari UES for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi of Gari UES serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs9JDurhYwokRSjnRF8h3US8
 photos:
   - name: >-

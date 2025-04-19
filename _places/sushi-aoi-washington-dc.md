@@ -9,7 +9,7 @@ seo:
   name: "Sushi AOI"
   type: Restaurant
   links: http://www.thesushiaoi.com/
-description: "Colorful spot serving rolls, vegetarian entrees & noodle dishes, with a happy hour. Looking for sushi in Washington, District of Columbia? Check out Sushi AO..."
+description: "Colorful spot serving rolls, vegetarian entrees & noodle dishes, with a happy hour. Sushi AOI serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJkegJ-JO3t4kRZXSWL46fp3I
 photos:
   - name: >-

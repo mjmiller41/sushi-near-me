@@ -9,7 +9,7 @@ seo:
   name: "Izakaya Fuku"
   type: Restaurant
   links: http://www.orderfukunyc.com/
-description: "Vibrant, compact restaurant with classic Japanese deep-fried & grilled dishes, plus noodles & bento. Looking for sushi in Jackson Heights, New York? Check ou..."
+description: "Vibrant, compact restaurant with classic Japanese deep-fried & grilled dishes, plus noodles & bento. Izakaya Fuku serves delicious sushi in Jackson Heights, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJP3cSeLRfwokRiQQ4MtBvdtA
 photos:
   - name: >-

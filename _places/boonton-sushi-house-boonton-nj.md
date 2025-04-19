@@ -9,7 +9,7 @@ seo:
   name: "Boonton Sushi House"
   type: Restaurant
   links: http://www.sushiboonton.com/
-description: "Looking for sushi in Boonton, New Jersey? Check out Boonton Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Boonton Sushi House serves delicious sushi in Boonton, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUf48n5wIw4kR-KBK3i1NzXE
 photos:
   - name: >-

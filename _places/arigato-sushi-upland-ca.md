@@ -9,7 +9,7 @@ seo:
   name: "Arigato Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Upland, California? Check out Arigato Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Arigato Sushi serves delicious sushi in Upland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmZ3ex0gxw4ARK77kQogbXtM
 photos:
   - name: >-

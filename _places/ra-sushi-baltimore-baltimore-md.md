@@ -9,7 +9,7 @@ seo:
   name: "RA Sushi Baltimore"
   type: Restaurant
   links: null
-description: "Looking for sushi in Baltimore, Maryland? Check out RA Sushi Baltimore for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "RA Sushi Baltimore serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJITb_STMDyIkRhSQOeG6r7l8
 photos: null
 address: '1 E Pratt St #103, Baltimore, MD 21202, USA'

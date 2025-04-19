@@ -9,7 +9,7 @@ seo:
   name: "Sushi Asahi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Riverside, California? Check out Sushi Asahi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Asahi serves delicious sushi in Riverside, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEzBIYbyw3IAR-rk1OALrLXU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Sunnyvale"
   type: Restaurant
   links: null
-description: "Looking for sushi in Sunnyvale, California? Check out Bonchon Sunnyvale for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Bonchon Sunnyvale serves delicious sushi in Sunnyvale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDblWdnq2j4ARlV_AvXov0bE
 photos:
   - name: >-

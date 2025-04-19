@@ -9,7 +9,7 @@ seo:
   name: "Sushi Land"
   type: Restaurant
   links: http://www.sushiland.us/
-description: "Popular, BYOB Japanese restaurant serving a variety of sushi, rolls & more in basic surroundings. Looking for sushi in Bryn Mawr, Pennsylvania? Check out Sus..."
+description: "Popular, BYOB Japanese restaurant serving a variety of sushi, rolls & more in basic surroundings. Sushi Land serves delicious sushi in Bryn Mawr, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJV9g8-_S_xokRspis9BTjVYE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mr. Sushi"
   type: Restaurant
   links: http://mrsushi.raniii.com/
-description: "Unadorned spot providing standard sushi options & other traditional Japanese eats. Looking for sushi in Arlington, Massachusetts? Check out Mr. Sushi for a d..."
+description: "Unadorned spot providing standard sushi options & other traditional Japanese eats. Mr. Sushi serves delicious sushi in Arlington, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM7cgC1B244kRGAxn21l8vJE
 photos:
   - name: >-

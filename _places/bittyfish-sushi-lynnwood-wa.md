@@ -9,7 +9,7 @@ seo:
   name: "BittyFish Sushi"
   type: Restaurant
   links: http://www.bittyfishsushi.com/
-description: "Looking for sushi in Lynnwood, Washington? Check out BittyFish Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "BittyFish Sushi serves delicious sushi in Lynnwood, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtT4oP_EFkFQRlaMRUl7KYoE
 photos:
   - name: >-

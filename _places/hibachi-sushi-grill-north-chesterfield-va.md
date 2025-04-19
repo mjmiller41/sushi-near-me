@@ -9,7 +9,7 @@ seo:
   name: "Hibachi & Sushi Grill"
   type: Restaurant
   links: http://www.hibachisushiva.com/
-description: "Looking for sushi in North Chesterfield, Virginia? Check out Hibachi & Sushi Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Hibachi & Sushi Grill serves delicious sushi in North Chesterfield, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU5MGvT1zsYkRFifLcZKDlkw
 photos:
   - name: >-

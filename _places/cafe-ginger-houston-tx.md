@@ -9,7 +9,7 @@ seo:
   name: "Café Ginger"
   type: Restaurant
   links: http://www.cafeginger.net/
-description: "Looking for sushi in Houston, Texas? Check out Café Ginger for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Café Ginger serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH_WngaTAQIYRkbIiCkpo-ts
 photos:
   - name: >-

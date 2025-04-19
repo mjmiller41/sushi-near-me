@@ -9,7 +9,7 @@ seo:
   name: "Ronin Restaurant"
   type: Restaurant
   links: http://roninsushiohio.com/
-description: "Sashimi, noodles & Japanese entrees in a cheerful space with an eat-at sushi bar & long happy hours. Looking for sushi in Dublin, Ohio? Check out Ronin Resta..."
+description: "Sashimi, noodles & Japanese entrees in a cheerful space with an eat-at sushi bar & long happy hours. Ronin Restaurant serves delicious sushi in Dublin, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8bV5fBqTOIgR6qizHwWhJOs
 photos:
   - name: >-

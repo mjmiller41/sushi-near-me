@@ -9,7 +9,7 @@ seo:
   name: "YouandI Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Temecula, California? Check out YouandI Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "YouandI Sushi serves delicious sushi in Temecula, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX8BSc5t_24AR8Bewx1VJr7Q
 photos:
   - name: >-

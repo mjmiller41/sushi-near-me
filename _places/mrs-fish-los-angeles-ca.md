@@ -9,7 +9,7 @@ seo:
   name: "Mrs. Fish"
   type: Restaurant
   links: http://www.mrsfish.com/
-description: "Japanese plates, sushi & whisky are presented in a contemporary space accented by colorful artwork. Looking for sushi in Los Angeles, California? Check out M..."
+description: "Japanese plates, sushi & whisky are presented in a contemporary space accented by colorful artwork. Mrs. Fish serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJITfiK7XHwoARG6IDkwlSETI
 photos:
   - name: >-

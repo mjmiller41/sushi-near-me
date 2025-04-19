@@ -9,7 +9,7 @@ seo:
   name: "Sake Lounge"
   type: Restaurant
   links: http://www.sakeolathe.com/
-description: "Sushi is artfully presented, along with familiar Pan-Asian entrees, amid a hip, clubby atmosphere Looking for sushi in Olathe, Kansas? Check out Sake Lounge ..."
+description: "Sushi is artfully presented, along with familiar Pan-Asian entrees, amid a hip, clubby atmosphere Sake Lounge serves delicious sushi in Olathe, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJgZubJHWVwIcRum9Hd86uDCE
 photos:
   - name: >-

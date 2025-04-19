@@ -9,7 +9,7 @@ seo:
   name: "Akino"
   type: Restaurant
   links: https://www.akinonewyork.com/
-description: "An extensive menu of causal Japanese udon, donburi, & sushi in a modern, industrial dining room. Looking for sushi in Elmhurst, New York? Check out Akino for..."
+description: "An extensive menu of causal Japanese udon, donburi, & sushi in a modern, industrial dining room. Akino serves delicious sushi in Elmhurst, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJc6fmxaxfwokRnKatMHUC1PA
 photos:
   - name: >-

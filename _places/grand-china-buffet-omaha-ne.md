@@ -9,7 +9,7 @@ seo:
   name: "Grand China Buffet"
   type: Restaurant
   links: http://www.grandchinabuffetne.com/
-description: "Looking for sushi in Omaha, Nebraska? Check out Grand China Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Grand China Buffet serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJIw9ek-Pzk4cRqqaqhmVpdGg
 photos:
   - name: >-

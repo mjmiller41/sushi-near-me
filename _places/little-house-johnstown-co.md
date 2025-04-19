@@ -9,7 +9,7 @@ seo:
   name: "Little House"
   type: Restaurant
   links: http://www.littlehouse417.com/
-description: "Looking for sushi in Johnstown, Colorado? Check out Little House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Little House serves delicious sushi in Johnstown, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUTd1DbypbocR31BfaG8NTCU
 photos:
   - name: >-

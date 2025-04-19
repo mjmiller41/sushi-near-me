@@ -9,7 +9,7 @@ seo:
   name: "Musashi Japanese Steak House"
   type: Restaurant
   links: https://musashinc.com/
-description: "Looking for sushi in Havelock, North Carolina? Check out Musashi Japanese Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Musashi Japanese Steak House serves delicious sushi in Havelock, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7caZc5LBqIkRBp3oeFbq0zg
 photos:
   - name: >-

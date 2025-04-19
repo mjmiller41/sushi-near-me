@@ -9,7 +9,7 @@ seo:
   name: "Idy Sushi Rolls"
   type: Restaurant
   links: null
-description: "Looking for sushi in Idyllwild-Pine Cove, California? Check out Idy Sushi Rolls for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Idy Sushi Rolls serves delicious sushi in Idyllwild-Pine Cove, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJQ_ixG8YT24AReYAQe_tJdY8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Quick Sushi Santa Rosa"
   type: Restaurant
   links: null
-description: "Looking for sushi in Santa Rosa, California? Check out Quick Sushi Santa Rosa for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Quick Sushi Santa Rosa serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_xlCrR85hIARogRUlsDJpn4
 photos:
   - name: >-

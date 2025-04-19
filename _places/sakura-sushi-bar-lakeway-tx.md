@@ -9,7 +9,7 @@ seo:
   name: "Sakura Sushi & Bar"
   type: Restaurant
   links: https://www.sakurasushibarlakeway.com/
-description: "Looking for sushi in Lakeway, Texas? Check out Sakura Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sakura Sushi & Bar serves delicious sushi in Lakeway, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO2Nxd9s5W4YRF9D8gn141Ak
 photos:
   - name: >-

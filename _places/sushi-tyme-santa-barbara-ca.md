@@ -9,7 +9,7 @@ seo:
   name: "Sushi Tyme"
   type: Restaurant
   links: null
-description: "Looking for sushi in Santa Barbara, California? Check out Sushi Tyme for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Tyme serves delicious sushi in Santa Barbara, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt5HOO3kU6YAR5-frHB_iIO8
 photos:
   - name: >-

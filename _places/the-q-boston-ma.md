@@ -9,7 +9,7 @@ seo:
   name: "The Q"
   type: Restaurant
   links: https://www.thequsa.com/?y_source=1_OTM1MjkzMjgtNzE1LWxvY2F0aW9uLndlYnNpdGU=
-description: "Mongolian hot pots share a menu of sushi & Chinese dishes at this hip airy eatery & lounge. Looking for sushi in Boston, Massachusetts? Check out The Q for a..."
+description: "Mongolian hot pots share a menu of sushi & Chinese dishes at this hip airy eatery & lounge. The Q serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF9jb7Hd644kRXiZZ_FXCqX4
 photos:
   - name: >-

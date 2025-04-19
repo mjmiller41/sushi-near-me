@@ -9,7 +9,7 @@ seo:
   name: "Aji Ramen and Sushi"
   type: Restaurant
   links: http://www.ajiramenandsushi.com/
-description: "Looking for sushi in Lynchburg, Virginia? Check out Aji Ramen and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Aji Ramen and Sushi serves delicious sushi in Lynchburg, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzd8EX0TZsokRLY1NgLBycuE
 photos:
   - name: >-

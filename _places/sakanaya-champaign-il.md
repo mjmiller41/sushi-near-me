@@ -9,7 +9,7 @@ seo:
   name: "Sakanaya"
   type: Restaurant
   links: http://www.sakanayarestaurant.com/
-description: "Inventive sushi, ramen, Japanese entrees & sake are presented in a stylish space. Looking for sushi in Champaign, Illinois? Check out Sakanaya for a delightf..."
+description: "Inventive sushi, ramen, Japanese entrees & sake are presented in a stylish space. Sakanaya serves delicious sushi in Champaign, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJyX1CkzjXDIgRR1ZMZb1javk
 photos:
   - name: >-

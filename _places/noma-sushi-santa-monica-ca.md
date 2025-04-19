@@ -9,7 +9,7 @@ seo:
   name: "Noma Sushi"
   type: Restaurant
   links: http://www.nomasushi.com/
-description: "Looking for sushi in Santa Monica, California? Check out Noma Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Noma Sushi serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ0q4u0u7woARTE_WdIUZVQ8
 photos:
   - name: >-

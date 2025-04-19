@@ -9,7 +9,7 @@ seo:
   name: "Freestyle Poke"
   type: Restaurant
   links: http://www.freestylepoke.com/
-description: "Looking for sushi in Kansas City, Missouri? Check out Freestyle Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Freestyle Poke serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJve-_HFzxwIcR3CGnzgTgLv8
 photos:
   - name: >-

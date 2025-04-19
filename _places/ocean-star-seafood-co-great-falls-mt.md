@@ -9,7 +9,7 @@ seo:
   name: "Ocean Star Seafood Co"
   type: Restaurant
   links: null
-description: "Looking for sushi in Great Falls, Montana? Check out Ocean Star Seafood Co for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Ocean Star Seafood Co serves delicious sushi in Great Falls, Montana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc1taMQBJQlMRuKVAlHFfDy8
 photos:
   - name: >-

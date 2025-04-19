@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ichiban"
   type: Restaurant
   links: https://www.sushiichiban.net/
-description: "Simple counter-serve place for sushi & Japanese basics like noodle soups & teriyaki dishes. Looking for sushi in Champaign, Illinois? Check out Sushi Ichiban..."
+description: "Simple counter-serve place for sushi & Japanese basics like noodle soups & teriyaki dishes. Sushi Ichiban serves delicious sushi in Champaign, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJm91feD_XDIgRGK707_uqJ-g
 photos:
   - name: >-

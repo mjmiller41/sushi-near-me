@@ -9,7 +9,7 @@ seo:
   name: "Happy Sushi"
   type: Restaurant
   links: https://www.happysushimenu.com/
-description: "Looking for sushi in Santa Clara, California? Check out Happy Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Happy Sushi serves delicious sushi in Santa Clara, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc7N9RQzKj4ARH9gEYX95_I0
 photos:
   - name: >-

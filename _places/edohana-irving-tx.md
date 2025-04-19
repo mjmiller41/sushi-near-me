@@ -9,7 +9,7 @@ seo:
   name: "Edohana"
   type: Restaurant
   links: null
-description: "Looking for sushi in Irving, Texas? Check out Edohana for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Edohana serves delicious sushi in Irving, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL4xCiDUoTIYRF-HBWE5g-08
 photos:
   - name: >-

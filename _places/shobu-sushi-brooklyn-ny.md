@@ -9,7 +9,7 @@ seo:
   name: "Shobu Sushi"
   type: Restaurant
   links: http://www.shobusushiincnyc.com/
-description: "Straightforward sushi bar supplying tempura & other Japanese dishes, plus some Thai options. Looking for sushi in Brooklyn, New York? Check out Shobu Sushi f..."
+description: "Straightforward sushi bar supplying tempura & other Japanese dishes, plus some Thai options. Shobu Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ93rmMohPwokRzPmDnke_t4I
 photos:
   - name: >-

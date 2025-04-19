@@ -9,7 +9,7 @@ seo:
   name: "Wasabi Restaurant & Bar"
   type: Restaurant
   links: https://www.wasabisaratogany.com/
-description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Looking for sushi in Saratoga Springs, New York? Check out Wasabi Re..."
+description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Wasabi Restaurant & Bar serves delicious sushi in Saratoga Springs, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvSBPCvo53okREIzRwDWS8ok
 photos:
   - name: >-

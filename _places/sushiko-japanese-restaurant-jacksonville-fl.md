@@ -9,7 +9,7 @@ seo:
   name: "Sushiko Japanese Restaurant"
   type: Restaurant
   links: http://sushikojax.com/
-description: "Intimate sushi house featuring a variety of rolls, Japanese fare & hibachi meals in a relaxed venue. Looking for sushi in Jacksonville, Florida? Check out Su..."
+description: "Intimate sushi house featuring a variety of rolls, Japanese fare & hibachi meals in a relaxed venue. Sushiko Japanese Restaurant serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsxgfBDu45YgRR853miKhx0E
 photos:
   - name: >-

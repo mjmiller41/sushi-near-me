@@ -9,7 +9,7 @@ seo:
   name: "Black Pearl Asian Bistro & Sushi"
   type: Restaurant
   links: https://www.blackpearl84341.com/
-description: "Looking for sushi in Logan, Utah? Check out Black Pearl Asian Bistro & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Black Pearl Asian Bistro & Sushi serves delicious sushi in Logan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQezNG5h9VIcRrYbZeXD6ZVw
 photos:
   - name: >-

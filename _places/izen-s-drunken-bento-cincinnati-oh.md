@@ -9,7 +9,7 @@ seo:
   name: "Izen's Drunken Bento"
   type: Restaurant
   links: https://www.drunkenbento.com/
-description: "Sushi rolls plus classic Korean dishes served in a bustling, compact space with a full bar. Looking for sushi in Cincinnati, Ohio? Check out Izen's Drunken B..."
+description: "Sushi rolls plus classic Korean dishes served in a bustling, compact space with a full bar. Izen's Drunken Bento serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDfc2HPWzQYgR4pBaFdYsOsg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Hana Ramen Sushi"
   type: Restaurant
   links: http://www.hanaramensushi.com/
-description: "Busy Japanese standby offering sushi & ramen in a contemporary, yellow dining room with a full bar. Looking for sushi in West Des Moines, Iowa? Check out Han..."
+description: "Busy Japanese standby offering sushi & ramen in a contemporary, yellow dining room with a full bar. Hana Ramen Sushi serves delicious sushi in West Des Moines, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJI49DhJAh7IcRJA_IzD2oWs4
 photos:
   - name: >-

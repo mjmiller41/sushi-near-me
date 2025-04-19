@@ -9,7 +9,7 @@ seo:
   name: "Yum Yum Sushi"
   type: Restaurant
   links: http://www.yumyumsushi123.com/
-description: "Looking for sushi in Muskegon, Michigan? Check out Yum Yum Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Yum Yum Sushi serves delicious sushi in Muskegon, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJaUQaHRvWG4gRPphhmD6Bm2E
 photos:
   - name: >-

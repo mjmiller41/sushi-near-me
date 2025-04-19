@@ -9,7 +9,7 @@ seo:
   name: "Sushi 85"
   type: Restaurant
   links: null
-description: "Casual Japanese restaurant with ramen noodles & maki rolls, plus an all-you-can-eat sushi option. Looking for sushi in Mountain View, California? Check out S..."
+description: "Casual Japanese restaurant with ramen noodles & maki rolls, plus an all-you-can-eat sushi option. Sushi 85 serves delicious sushi in Mountain View, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQSVQrde2j4ARUaikVDolfFs
 photos:
   - name: >-

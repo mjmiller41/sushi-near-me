@@ -9,7 +9,7 @@ seo:
   name: "Shiku Sushi"
   type: Restaurant
   links: https://shikusushi.com/?utm_source=google
-description: "Looking for sushi in Seattle, Washington? Check out Shiku Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Shiku Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW02WUcYVkFQRmqe50d7Uajg
 photos:
   - name: >-

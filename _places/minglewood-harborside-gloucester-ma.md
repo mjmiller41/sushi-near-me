@@ -9,7 +9,7 @@ seo:
   name: "Minglewood Harborside"
   type: Restaurant
   links: https://www.minglewoodharborside.com/
-description: "Seafood & sushi in a quirky harborfront space, plus live music in an adjoining pub & deck dining. Looking for sushi in Gloucester, Massachusetts? Check out M..."
+description: "Seafood & sushi in a quirky harborfront space, plus live music in an adjoining pub & deck dining. Minglewood Harborside serves delicious sushi in Gloucester, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNwXWnB4l44kRed2ESlZEDX4
 photos:
   - name: >-

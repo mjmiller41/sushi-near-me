@@ -9,7 +9,7 @@ seo:
   name: "Genki Ya - Somerville"
   type: Restaurant
   links: https://www.genkiyasushi.com/
-description: "Looking for sushi in Somerville, Massachusetts? Check out Genki Ya - Somerville for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Genki Ya - Somerville serves delicious sushi in Somerville, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqxQaeSF344kRSBzmUFgBY7k
 photos:
   - name: >-

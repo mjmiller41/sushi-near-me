@@ -9,7 +9,7 @@ seo:
   name: "SUGARFISH by sushi nozawa"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out SUGARFISH by sushi nozawa for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "SUGARFISH by sushi nozawa serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqWzcR7THwoARg7eO0wui4tM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Nobu Washington D.C."
   type: Restaurant
   links: https://www.noburestaurants.com/washingtondc/home/?utm_source=google&utm_medium=Yext
-description: "Celebrated, Japanese-Peruvian dining in urbane luxury, with a bar/lounge for high-end conviviality. Looking for sushi in Washington, District of Columbia? Ch..."
+description: "Celebrated, Japanese-Peruvian dining in urbane luxury, with a bar/lounge for high-end conviviality. Nobu Washington D.C. serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwdbx_rS3t4kRJ3t9EgT3ZeU
 photos:
   - name: >-

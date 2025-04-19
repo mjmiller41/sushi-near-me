@@ -9,7 +9,7 @@ seo:
   name: "Matsutake Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Arlington, Virginia? Check out Matsutake Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Matsutake Sushi serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFZy6PdOwt4kRhTqnMRa0Enc
 photos:
   - name: >-

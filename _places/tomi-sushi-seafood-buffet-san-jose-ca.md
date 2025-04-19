@@ -9,7 +9,7 @@ seo:
   name: "Tomi Sushi & Seafood Buffet"
   type: Restaurant
   links: https://www.tomibuffet.com/
-description: "Looking for sushi in San Jose, California? Check out Tomi Sushi & Seafood Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Tomi Sushi & Seafood Buffet serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvyjeVaEyjoAR_jC7VpXs0Fo
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Moshi Moshi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Waldwick, New Jersey? Check out Moshi Moshi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Moshi Moshi serves delicious sushi in Waldwick, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3_lo7njkwokR8MU9C_2sr-o
 photos:
   - name: >-

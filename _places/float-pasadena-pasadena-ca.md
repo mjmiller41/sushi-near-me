@@ -9,7 +9,7 @@ seo:
   name: "Float Pasadena"
   type: Restaurant
   links: http://www.floatcoffeeshop.com/
-description: "Looking for sushi in Pasadena, California? Check out Float Pasadena for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Float Pasadena serves delicious sushi in Pasadena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh0SGHV_DwoAR10qCbAdei0U
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Akeno Sushi Bar and Thai Alexandria"
   type: Restaurant
   links: null
-description: "Looking for sushi in Alexandria, Virginia? Check out Akeno Sushi Bar and Thai Alexandria for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "Akeno Sushi Bar and Thai Alexandria serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0eyx1Qqzt4kRJ3J3eZ_2ugk
 photos:
   - name: >-

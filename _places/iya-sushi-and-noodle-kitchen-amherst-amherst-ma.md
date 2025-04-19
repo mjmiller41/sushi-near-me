@@ -9,7 +9,7 @@ seo:
   name: "IYA Sushi and Noodle Kitchen - Amherst"
   type: Restaurant
   links: https://www.iyasushi.com/
-description: "Looking for sushi in Amherst, Massachusetts? Check out IYA Sushi and Noodle Kitchen - Amherst for a delightful Japanese dining experience. Enjoy a variety of..."
+description: "IYA Sushi and Noodle Kitchen - Amherst serves delicious sushi in Amherst, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNbZNzPDN5okR60x4CkT9NJw
 photos:
   - name: >-

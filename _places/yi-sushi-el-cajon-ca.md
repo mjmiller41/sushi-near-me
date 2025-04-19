@@ -9,7 +9,7 @@ seo:
   name: "Yi Sushi"
   type: Restaurant
   links: http://yisushisd.com/
-description: "Looking for sushi in El Cajon, California? Check out Yi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Yi Sushi serves delicious sushi in El Cajon, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJa2M82LVb2YARV2GaSQt51qY
 photos:
   - name: >-

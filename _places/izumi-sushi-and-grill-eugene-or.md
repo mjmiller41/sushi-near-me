@@ -9,7 +9,7 @@ seo:
   name: "Izumi Sushi and Grill"
   type: Restaurant
   links: http://www.izumisushieugene.com/
-description: "Looking for sushi in Eugene, Oregon? Check out Izumi Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Izumi Sushi and Grill serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJV_UlRTfiwFQRLetsnL0I-tY
 photos:
   - name: >-

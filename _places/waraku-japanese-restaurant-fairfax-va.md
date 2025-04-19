@@ -9,7 +9,7 @@ seo:
   name: "Waraku Japanese Restaurant"
   type: Restaurant
   links: https://order.toasttab.com/online/waraku-japanese-restaurant-9539-braddock-rd
-description: "A menu of ramen & small plates Japanese fare in a modern, rustic setting with a sake & shochu menu. Looking for sushi in Fairfax, Virginia? Check out Waraku ..."
+description: "A menu of ramen & small plates Japanese fare in a modern, rustic setting with a sake & shochu menu. Waraku Japanese Restaurant serves delicious sushi in Fairfax, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJh61VM_VNtokR1YXkjBjBMC8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Oishi Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in St. Louis, Missouri? Check out Oishi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Oishi Sushi serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtYbng6My34cRN-QXk3pRACI
 photos:
   - name: >-

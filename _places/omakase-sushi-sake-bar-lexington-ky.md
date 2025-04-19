@@ -9,7 +9,7 @@ seo:
   name: "Omakase Sushi & Sake Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lexington, Kentucky? Check out Omakase Sushi & Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Omakase Sushi & Sake Bar serves delicious sushi in Lexington, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZfX9J2ZFQogRygkd5WSrth4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kanji OTR"
   type: Restaurant
   links: http://kanjiotr.com/
-description: "Looking for sushi in Cincinnati, Ohio? Check out Kanji OTR for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Kanji OTR serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJhUrHtyuzQYgRC4P5fFGXVLo
 photos:
   - name: >-

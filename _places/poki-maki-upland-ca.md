@@ -9,7 +9,7 @@ seo:
   name: "Poki & Maki"
   type: Restaurant
   links: null
-description: "Looking for sushi in Upland, California? Check out Poki & Maki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Poki & Maki serves delicious sushi in Upland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr2k3Lu0xw4ARBn2cpKQbUgY
 photos:
   - name: >-

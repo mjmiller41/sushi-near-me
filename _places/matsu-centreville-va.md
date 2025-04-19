@@ -9,7 +9,7 @@ seo:
   name: "Matsu"
   type: Restaurant
   links: null
-description: "Looking for sushi in Centreville, Virginia? Check out Matsu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Matsu serves delicious sushi in Centreville, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ7ySPWFEtokRI6NLz2QJo7Q
 photos:
   - name: >-

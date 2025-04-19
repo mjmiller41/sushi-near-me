@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Express"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tell City, Indiana? Check out Tokyo Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Tokyo Express serves delicious sushi in Tell City, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJazMM34YDb4gR_fHL4ZJwnwQ
 photos:
   - name: >-

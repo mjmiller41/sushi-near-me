@@ -9,7 +9,7 @@ seo:
   name: "Momiji Sushi Restaurant - Hawthorne"
   type: Restaurant
   links: null
-description: "Looking for sushi in Salem, Oregon? Check out Momiji Sushi Restaurant - Hawthorne for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Momiji Sushi Restaurant - Hawthorne serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6QG7dmv_v1QR1tYEg_Owvc8
 photos:
   - name: >-

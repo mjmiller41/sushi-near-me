@@ -9,7 +9,7 @@ seo:
   name: "Sushi Sheng 鮨昇"
   type: Restaurant
   links: https://www.sushishengsf.com/
-description: "Looking for sushi in San Francisco, California? Check out Sushi Sheng 鮨昇 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Sushi Sheng 鮨昇 serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA3HyqV99j4ARVWqU5cHosYE
 photos:
   - name: >-

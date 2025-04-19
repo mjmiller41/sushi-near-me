@@ -9,7 +9,7 @@ seo:
   name: "Hajime"
   type: Restaurant
   links: null
-description: "Looking for sushi in Blaine, Minnesota? Check out Hajime for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Hajime serves delicious sushi in Blaine, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwdgOH3Aks1IRAzU3D3k1od8
 photos:
   - name: >-

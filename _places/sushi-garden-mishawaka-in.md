@@ -9,7 +9,7 @@ seo:
   name: "Sushi Garden"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mishawaka, Indiana? Check out Sushi Garden for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Garden serves delicious sushi in Mishawaka, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5xK3TD3SFogR1DddwfRZNQE
 photos:
   - name: >-

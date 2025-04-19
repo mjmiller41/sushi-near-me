@@ -9,7 +9,7 @@ seo:
   name: "Sushi En Twinsburg"
   type: Restaurant
   links: https://sushientwinsburg.toast.site/
-description: "Looking for sushi in Twinsburg, Ohio? Check out Sushi En Twinsburg for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi En Twinsburg serves delicious sushi in Twinsburg, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYVv3KSwfMYgRTKBdX_N4Bhk
 photos:
   - name: >-

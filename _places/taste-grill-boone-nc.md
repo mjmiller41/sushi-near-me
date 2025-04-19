@@ -9,7 +9,7 @@ seo:
   name: "Taste Grill"
   type: Restaurant
   links: https://www.tastegrillboonenc.com/
-description: "Looking for sushi in Boone, North Carolina? Check out Taste Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Taste Grill serves delicious sushi in Boone, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbdrFYUT6UIgRMKXKKtSyLCk
 photos:
   - name: >-

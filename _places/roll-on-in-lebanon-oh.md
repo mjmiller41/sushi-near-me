@@ -9,7 +9,7 @@ seo:
   name: "Roll On In"
   type: Restaurant
   links: https://rollonin.com/
-description: "Looking for sushi in Lebanon, Ohio? Check out Roll On In for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Roll On In serves delicious sushi in Lebanon, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmQYnoiL0QIgRU7pDQrla2Uk
 photos:
   - name: >-

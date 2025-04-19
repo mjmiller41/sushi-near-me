@@ -9,7 +9,7 @@ seo:
   name: "Kamasu by Kissaki"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Kamasu by Kissaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Kamasu by Kissaki serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVU9-Q5JZwokR6OX1_pbtH9M
 photos:
   - name: >-

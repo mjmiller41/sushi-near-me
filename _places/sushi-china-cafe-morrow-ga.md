@@ -9,7 +9,7 @@ seo:
   name: "Sushi China Cafe"
   type: Restaurant
   links: null
-description: "Looking for sushi in Morrow, Georgia? Check out Sushi China Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi China Cafe serves delicious sushi in Morrow, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRXmgmE759IgRvTVY64AHhn8
 photos:
   - name: >-

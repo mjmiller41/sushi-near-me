@@ -9,7 +9,7 @@ seo:
   name: "Sushi Zo"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Sushi Zo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Zo serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJT2osCNO7woARop0dYCa79OI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Ichi Bento"
   type: Restaurant
   links: null
-description: "Looking for sushi in Shoreline, Washington? Check out Ichi Bento for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Ichi Bento serves delicious sushi in Shoreline, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNT_jV1QQkFQRkB3CeeFwdxY
 photos:
   - name: >-

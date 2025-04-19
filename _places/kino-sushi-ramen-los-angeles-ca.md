@@ -9,7 +9,7 @@ seo:
   name: "Kino Sushi & Ramen"
   type: Restaurant
   links: http://www.kinosushihollywood.com/
-description: "Looking for sushi in Los Angeles, California? Check out Kino Sushi & Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Kino Sushi & Ramen serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_4YbcCO_woAR_-4U1EBfnmE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Dai Hachi Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Dai Hachi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Dai Hachi Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ_TyS1ZZwokRkOjP0LEQSVc
 photos:
   - name: >-

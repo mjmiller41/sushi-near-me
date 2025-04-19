@@ -9,7 +9,7 @@ seo:
   name: "East Hana Sushi Metuchen"
   type: Restaurant
   links: null
-description: "Looking for sushi in Metuchen, New Jersey? Check out East Hana Sushi Metuchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "East Hana Sushi Metuchen serves delicious sushi in Metuchen, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYz7fI5a3w4kR3Wzh3LU9E0w
 photos:
   - name: >-

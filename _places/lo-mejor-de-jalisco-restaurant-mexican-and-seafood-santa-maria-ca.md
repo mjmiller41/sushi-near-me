@@ -9,7 +9,7 @@ seo:
   name: "Lo Mejor De Jalisco Restaurant Mexican And Seafood"
   type: Restaurant
   links: null
-description: "Looking for sushi in Santa Maria, California? Check out Lo Mejor De Jalisco Restaurant Mexican And Seafood for a delightful Japanese dining experience. Enjoy..."
+description: "Lo Mejor De Jalisco Restaurant Mexican And Seafood serves delicious sushi in Santa Maria, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmf2BZJlr7IARKn9NvrY_FT0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "TOKYROLL Sushi & Poké - Salem Vista Place"
   type: Restaurant
   links: null
-description: "Looking for sushi in Salem, Oregon? Check out TOKYROLL Sushi & Poké - Salem Vista Place for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "TOKYROLL Sushi & Poké - Salem Vista Place serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDSsfa_wBwFQRvD2ACt2E9eY
 photos:
   - name: >-

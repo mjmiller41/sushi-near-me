@@ -9,7 +9,7 @@ seo:
   name: "Katana Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Miami Beach, Florida? Check out Katana Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Katana Japanese Restaurant serves delicious sushi in Miami Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhwkzruWy2YgRaGiGC_fXl2M
 photos:
   - name: >-

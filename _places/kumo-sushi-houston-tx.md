@@ -9,7 +9,7 @@ seo:
   name: "Kumo Sushi"
   type: Restaurant
   links: https://www.kumosushihouston.com/
-description: "Looking for sushi in Houston, Texas? Check out Kumo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Kumo Sushi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyV4HCpTNQIYRtY6_R8S6dxE
 photos:
   - name: >-

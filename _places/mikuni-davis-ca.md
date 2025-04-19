@@ -9,7 +9,7 @@ seo:
   name: "Mikuni"
   type: Restaurant
   links: null
-description: "Looking for sushi in Davis, California? Check out Mikuni for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Mikuni serves delicious sushi in Davis, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWe0S3XIphYARC_FlAsI8QJo
 photos:
   - name: >-

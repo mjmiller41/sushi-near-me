@@ -9,7 +9,7 @@ seo:
   name: "Shiso Sushi & Oyster Bar"
   type: Restaurant
   links: https://shisosushioysterbarco.com/
-description: "Looking for sushi in Edgewater, Colorado? Check out Shiso Sushi & Oyster Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Shiso Sushi & Oyster Bar serves delicious sushi in Edgewater, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyUDlkWqHa4cRDehR-ZeNuQ4
 photos:
   - name: >-

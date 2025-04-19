@@ -9,7 +9,7 @@ seo:
   name: "Miku Sushi"
   type: Restaurant
   links: http://www.mikuchicago.com
-description: "An extensive Japanese menu of creative maki rolls, small plates, ramen, unusual skewers & more. Looking for sushi in Chicago, Illinois? Check out Miku Sushi ..."
+description: "An extensive Japanese menu of creative maki rolls, small plates, ramen, unusual skewers & more. Miku Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXZFpVBDSD4gRsL98utDkMks
 photos:
   - name: >-

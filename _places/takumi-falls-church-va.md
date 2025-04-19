@@ -9,7 +9,7 @@ seo:
   name: "Takumi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Falls Church, Virginia? Check out Takumi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Takumi serves delicious sushi in Falls Church, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI23Xd8C0t4kRr22FmmkvosY
 photos:
   - name: >-

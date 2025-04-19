@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Dinkytown"
   type: Restaurant
   links: null
-description: "Looking for sushi in Minneapolis, Minnesota? Check out Bonchon Dinkytown for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Bonchon Dinkytown serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiXumPl8ts1IRDLwYpqdevIQ
 photos:
   - name: >-

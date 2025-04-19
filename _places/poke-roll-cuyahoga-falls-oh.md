@@ -9,7 +9,7 @@ seo:
   name: "Poke & Roll"
   type: Restaurant
   links: https://www.eatpokenroll.com/
-description: "Looking for sushi in Cuyahoga Falls, Ohio? Check out Poke & Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Poke & Roll serves delicious sushi in Cuyahoga Falls, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJi8fFfhwnMYgRPQ1HLtbMMVU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Creek"
   type: Restaurant
   links: null
-description: "Looking for sushi in Queen Creek, Arizona? Check out Sushi Creek for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Creek serves delicious sushi in Queen Creek, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ1I4SzxNKocRTf90qpVgWtQ
 photos:
   - name: >-

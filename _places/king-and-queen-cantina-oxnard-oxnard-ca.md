@@ -9,7 +9,7 @@ seo:
   name: "King and Queen Cantina Oxnard"
   type: Restaurant
   links: null
-description: "Looking for sushi in Oxnard, California? Check out King and Queen Cantina Oxnard for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "King and Queen Cantina Oxnard serves delicious sushi in Oxnard, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYS1xcuhN6IARy_n5m5V7NHQ
 photos:
   - name: >-

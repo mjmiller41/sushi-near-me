@@ -9,7 +9,7 @@ seo:
   name: "Suehiro Japanese Restaurant"
   type: Restaurant
   links: http://www.suehirojapaneserestaurant.com/
-description: "Looking for sushi in Fort Collins, Colorado? Check out Suehiro Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Suehiro Japanese Restaurant serves delicious sushi in Fort Collins, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjddaF1KzbocRH7wxWyiflqY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Watami"
   type: Restaurant
   links: https://watamiinmaine.com/
-description: "Looking for sushi in Brunswick, Maine? Check out Watami for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "Watami serves delicious sushi in Brunswick, Maine. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJGaWo_VGHrUwRioh5AaI9r0k
 photos:
   - name: >-

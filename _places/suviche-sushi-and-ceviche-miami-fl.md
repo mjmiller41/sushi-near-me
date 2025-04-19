@@ -9,7 +9,7 @@ seo:
   name: "SuViche – Sushi and Ceviche"
   type: Restaurant
   links: null
-description: "Looking for sushi in Miami, Florida? Check out SuViche – Sushi and Ceviche for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "SuViche – Sushi and Ceviche serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLe1Qway22YgRrteNP0IoMoE
 photos:
   - name: >-

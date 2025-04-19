@@ -9,7 +9,7 @@ seo:
   name: "Takosushi"
   type: Restaurant
   links: http://www.tako-sushi.com/
-description: "Looking for sushi in Columbia, South Carolina? Check out Takosushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Takosushi serves delicious sushi in Columbia, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD0xuuSu7-IgRRPLobupE2UY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Oishi Sushi and Ramen"
   type: Restaurant
   links: http://www.oishiindy.com/
-description: "Looking for sushi in Indianapolis, Indiana? Check out Oishi Sushi and Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Oishi Sushi and Ramen serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ12hvi5FRa4gRI-51S_kegRM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi King"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brooklyn, New York? Check out Sushi King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi King serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKYh0M5BdwokR-E4uw40hpi8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "KAZ Sushi Bistro"
   type: Restaurant
   links: http://www.kazsushi.com/
-description: "Sushi spot with familiar & specialty Japanese menu options, including chef's tasting menus. Looking for sushi in Washington, District of Columbia? Check out ..."
+description: "Sushi spot with familiar & specialty Japanese menu options, including chef's tasting menus. KAZ Sushi Bistro serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ36o9Bbq3t4kR66FGn7eZBwI
 photos:
   - name: >-

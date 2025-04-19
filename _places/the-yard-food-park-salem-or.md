@@ -9,7 +9,7 @@ seo:
   name: "The Yard Food Park"
   type: Restaurant
   links: http://theyardfoodpark.com/
-description: "Looking for sushi in Salem, Oregon? Check out The Yard Food Park for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "The Yard Food Park serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq6puzNT-v1QRcL-DcnprxME
 photos:
   - name: >-

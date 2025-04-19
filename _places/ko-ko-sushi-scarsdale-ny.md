@@ -9,7 +9,7 @@ seo:
   name: "Ko Ko Sushi"
   type: Restaurant
   links: http://www.sushikoko.com/
-description: "Looking for sushi in Scarsdale, New York? Check out Ko Ko Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Ko Ko Sushi serves delicious sushi in Scarsdale, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlRVi9m2TwokRlDr1NonP6tA
 photos:
   - name: >-

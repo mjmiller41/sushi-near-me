@@ -9,7 +9,7 @@ seo:
   name: "Akita Sushi"
   type: Restaurant
   links: https://www.akitasushila.com/3bby5tpw/restaurant/order-online
-description: "Looking for sushi in Franklinton, Louisiana? Check out Akita Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Akita Sushi serves delicious sushi in Franklinton, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7aQh2353J4YRebFeYH98udU
 photos:
   - name: >-

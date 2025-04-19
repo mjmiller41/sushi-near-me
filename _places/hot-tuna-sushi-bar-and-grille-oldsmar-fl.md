@@ -9,7 +9,7 @@ seo:
   name: "Hot Tuna Sushi Bar and Grille"
   type: Restaurant
   links: https://hottunasushi.com/
-description: "Sushi rolls, Japanese entrees & happy hour deals draw locals to this intimate, contemporary eatery. Looking for sushi in Oldsmar, Florida? Check out Hot Tuna..."
+description: "Sushi rolls, Japanese entrees & happy hour deals draw locals to this intimate, contemporary eatery. Hot Tuna Sushi Bar and Grille serves delicious sushi in Oldsmar, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6bB__E_swogRZUESzujtwFQ
 photos:
   - name: >-

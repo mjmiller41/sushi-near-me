@@ -9,7 +9,7 @@ seo:
   name: "Moontree Sushi And Tapas"
   type: Restaurant
   links: null
-description: "Looking for sushi in Seattle, Washington? Check out Moontree Sushi And Tapas for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Moontree Sushi And Tapas serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsYRXKbGqmlQRxJSq7KTm7o8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sapporo Japanese Grill & Sushi"
   type: Restaurant
   links: http://www.sapporolouisville.com/
-description: "Creative sushi, hibachi-cooked meats & other Japanese fare is served in a sleek, modern setting. Looking for sushi in Louisville, Kentucky? Check out Sapporo..."
+description: "Creative sushi, hibachi-cooked meats & other Japanese fare is served in a sleek, modern setting. Sapporo Japanese Grill & Sushi serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJN9YUsbcMaYgREsTvf024BSU
 photos:
   - name: >-

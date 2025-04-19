@@ -9,7 +9,7 @@ seo:
   name: "Mura Sushi & Korean Restaurant (무라 스시 & 한식당)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bloomington, Indiana? Check out Mura Sushi & Korean Restaurant (무라 스시 & 한식당) for a delightful Japanese dining experience. Enjoy a variet..."
+description: "Mura Sushi & Korean Restaurant (무라 스시 & 한식당) serves delicious sushi in Bloomington, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ90QG7XxnbIgRDf-NHIKeOtA
 photos:
   - name: >-

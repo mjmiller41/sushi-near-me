@@ -9,7 +9,7 @@ seo:
   name: "Soy's Sushi Bar & Grill"
   type: Restaurant
   links: http://www.soysushiutah.com/
-description: "Looking for sushi in Murray, Utah? Check out Soy's Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Soy's Sushi Bar & Grill serves delicious sushi in Murray, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv6ev8iSKUocRXb51FOz2VlY
 photos:
   - name: >-

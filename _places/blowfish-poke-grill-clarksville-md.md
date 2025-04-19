@@ -9,7 +9,7 @@ seo:
   name: "Blowfish Poke & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Clarksville, Maryland? Check out Blowfish Poke & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Blowfish Poke & Grill serves delicious sushi in Clarksville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPcNHVKPZt4kR5iyaXYU40cs
 photos:
   - name: >-

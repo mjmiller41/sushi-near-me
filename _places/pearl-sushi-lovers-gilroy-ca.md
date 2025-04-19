@@ -9,7 +9,7 @@ seo:
   name: "Pearl Sushi Lovers"
   type: Restaurant
   links: http://pearlsushilovers.com/
-description: "Looking for sushi in Gilroy, California? Check out Pearl Sushi Lovers for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Pearl Sushi Lovers serves delicious sushi in Gilroy, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ703e66LjkYAREhNE5_-lvLY
 photos:
   - name: >-

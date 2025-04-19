@@ -9,7 +9,7 @@ seo:
   name: "Yu-Mi Sushi"
   type: Restaurant
   links: https://yumisushitogo.com/
-description: "Looking for sushi in Chesapeake, Virginia? Check out Yu-Mi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Yu-Mi Sushi serves delicious sushi in Chesapeake, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJz39vCSqluokRIFMJu98xLM4
 photos:
   - name: >-

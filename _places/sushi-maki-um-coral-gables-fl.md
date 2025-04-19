@@ -9,7 +9,7 @@ seo:
   name: "Sushi Maki UM"
   type: Restaurant
   links: null
-description: "Looking for sushi in Coral Gables, Florida? Check out Sushi Maki UM for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi Maki UM serves delicious sushi in Coral Gables, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmzqgxwG42YgRAVvwieLDdaI
 photos:
   - name: >-

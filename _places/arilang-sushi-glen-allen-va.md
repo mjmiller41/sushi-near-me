@@ -9,7 +9,7 @@ seo:
   name: "Arilang Sushi"
   type: Restaurant
   links: http://www.arilangsushi.com/
-description: "Looking for sushi in Glen Allen, Virginia? Check out Arilang Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Arilang Sushi serves delicious sushi in Glen Allen, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ3_5l1mprsYkRrUBV0GQMJOU
 photos:
   - name: >-

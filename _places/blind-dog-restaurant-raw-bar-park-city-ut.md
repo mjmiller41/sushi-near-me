@@ -9,7 +9,7 @@ seo:
   name: "Blind Dog Restaurant & Raw Bar"
   type: Restaurant
   links: https://www.blinddogpc.com/
-description: "Looking for sushi in Park City, Utah? Check out Blind Dog Restaurant & Raw Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Blind Dog Restaurant & Raw Bar serves delicious sushi in Park City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo_Klm11tUocRcQGKvUfn008
 photos:
   - name: >-

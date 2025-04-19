@@ -9,7 +9,7 @@ seo:
   name: "California Roll Factory"
   type: Restaurant
   links: https://www.calrollfactory.com/
-description: "Looking for sushi in Los Angeles, California? Check out California Roll Factory for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "California Roll Factory serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5ZEHDW-7woARqqeC35KXFOw
 photos:
   - name: >-

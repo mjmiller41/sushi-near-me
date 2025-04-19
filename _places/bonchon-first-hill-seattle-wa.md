@@ -9,7 +9,7 @@ seo:
   name: "Bonchon First Hill"
   type: Restaurant
   links: https://locations.bonchon.com/ll/US/WA/Seattle/554-Broadway?utm_source=google-business-profile&utm_medium=organic&utm_campaign=business-listing&utm_content=seattle-broadway
-description: "Looking for sushi in Seattle, Washington? Check out Bonchon First Hill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Bonchon First Hill serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSbLlDMhqkFQRxYcqw_WK-rM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Takumi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Upland, California? Check out Sushi Takumi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Takumi serves delicious sushi in Upland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ93bTSQwxw4ARlZoqvEZbWjY
 photos:
   - name: >-

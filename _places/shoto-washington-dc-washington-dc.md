@@ -9,7 +9,7 @@ seo:
   name: "SHŌTŌ Washington DC"
   type: Restaurant
   links: https://www.sevenrooms.com/reservations/shotowashingtondc/
-description: "Modern restaurant serving sushi, Wagyu steak & grilled robata-style skewers in a lavish dining room. Looking for sushi in Washington, District of Columbia? C..."
+description: "Modern restaurant serving sushi, Wagyu steak & grilled robata-style skewers in a lavish dining room. SHŌTŌ Washington DC serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJJX6GeKS3t4kR6pg6rKnZ8LM
 photos:
   - name: >-

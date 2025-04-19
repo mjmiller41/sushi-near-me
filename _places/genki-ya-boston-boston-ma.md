@@ -9,7 +9,7 @@ seo:
   name: "Genki Ya - Boston"
   type: Restaurant
   links: http://genkiyasushi.com/
-description: "Looking for sushi in Boston, Massachusetts? Check out Genki Ya - Boston for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Genki Ya - Boston serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb5LCVHZ644kRxRiTfd2DGKw
 photos:
   - name: >-

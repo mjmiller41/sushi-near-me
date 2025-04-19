@@ -9,7 +9,7 @@ seo:
   name: "Crudo"
   type: Restaurant
   links: http://crudoboston.com/
-description: "Sleek bi-level spot swathed in reclaimed barn wood serving creative sushi & Pan-Asian small plates. Looking for sushi in Boston, Massachusetts? Check out Cru..."
+description: "Sleek bi-level spot swathed in reclaimed barn wood serving creative sushi & Pan-Asian small plates. Crudo serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXWEOK49w44kRd7d7F3skQJI
 photos:
   - name: >-

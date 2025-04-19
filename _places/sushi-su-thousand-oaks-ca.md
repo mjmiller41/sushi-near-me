@@ -9,7 +9,7 @@ seo:
   name: "Sushi Su"
   type: Restaurant
   links: https://www.sushisurestaurant.com/
-description: "Looking for sushi in Thousand Oaks, California? Check out Sushi Su for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Su serves delicious sushi in Thousand Oaks, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPQc8Sq0m6IAR1T8z940nJag
 photos:
   - name: >-

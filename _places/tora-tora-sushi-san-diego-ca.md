@@ -9,7 +9,7 @@ seo:
   name: "Tora Tora Sushi"
   type: Restaurant
   links: http://www.toratorasushi.com/
-description: "Looking for sushi in San Diego, California? Check out Tora Tora Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Tora Tora Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3dC9KF7524ARt2aB61zMLIg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Bonchon"
   type: Restaurant
   links: null
-description: "Looking for sushi in Reston, Virginia? Check out Bonchon for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Bonchon serves delicious sushi in Reston, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBc64fBBJtokREcKMB6n3N1w
 photos:
   - name: >-

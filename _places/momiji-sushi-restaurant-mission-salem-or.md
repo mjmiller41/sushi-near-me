@@ -9,7 +9,7 @@ seo:
   name: "Momiji Sushi Restaurant - Mission"
   type: Restaurant
   links: null
-description: "Looking for sushi in Salem, Oregon? Check out Momiji Sushi Restaurant - Mission for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Momiji Sushi Restaurant - Mission serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHfsiNef_v1QRj80CpmOiJ3M
 photos:
   - name: >-

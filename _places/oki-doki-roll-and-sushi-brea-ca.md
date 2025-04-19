@@ -9,7 +9,7 @@ seo:
   name: "Oki Doki roll and sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brea, California? Check out Oki Doki roll and sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Oki Doki roll and sushi serves delicious sushi in Brea, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_xclbjrV3IAR-5mvBXHhQYM
 photos:
   - name: >-

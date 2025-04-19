@@ -9,7 +9,7 @@ seo:
   name: "Kitajima Sushi & Thai"
   type: Restaurant
   links: http://www.kitajimasushi.com/
-description: "Familiar Thai fare shares the menu with specialty sushi rolls served in cozy, minimalist digs. Looking for sushi in Tustin, California? Check out Kitajima Su..."
+description: "Familiar Thai fare shares the menu with specialty sushi rolls served in cozy, minimalist digs. Kitajima Sushi & Thai serves delicious sushi in Tustin, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJpzwGTufb3IAR2l10U1fneP8
 photos:
   - name: >-

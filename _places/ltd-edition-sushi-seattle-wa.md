@@ -9,7 +9,7 @@ seo:
   name: "Ltd Edition Sushi"
   type: Restaurant
   links: http://www.ltdeditionsushi.com/
-description: "Looking for sushi in Seattle, Washington? Check out Ltd Edition Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Ltd Edition Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL08LlpJrkFQRFVj2C-D0EuI
 photos:
   - name: >-

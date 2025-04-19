@@ -9,7 +9,7 @@ seo:
   name: "Sushi Burrito Cafe"
   type: Restaurant
   links: https://sushi-burrito-and-thai.square.site/
-description: "Looking for sushi in Fargo, North Dakota? Check out Sushi Burrito Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sushi Burrito Cafe serves delicious sushi in Fargo, North Dakota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJd43pnVLJyFIRp26u36FTwqA
 photos:
   - name: >-

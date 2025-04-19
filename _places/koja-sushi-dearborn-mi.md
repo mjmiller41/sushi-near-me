@@ -9,7 +9,7 @@ seo:
   name: "Koja Sushi"
   type: Restaurant
   links: http://kojasushi.com/
-description: "Looking for sushi in Dearborn, Michigan? Check out Koja Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Koja Sushi serves delicious sushi in Dearborn, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlZKN6i81O4gRBVoslmLVBVs
 photos:
   - name: >-

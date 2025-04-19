@@ -9,7 +9,7 @@ seo:
   name: "Takara Sushi"
   type: Restaurant
   links: https://www.takarasushilogan.com/
-description: "Looking for sushi in Logan, Utah? Check out Takara Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Takara Sushi serves delicious sushi in Logan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1ZmI0ud9VIcRE77oTw3adB4
 photos:
   - name: >-

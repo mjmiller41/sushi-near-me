@@ -9,7 +9,7 @@ seo:
   name: "Mizu Sushi"
   type: Restaurant
   links: https://www.toasttab.com/mizu-sushi-99-e-8th-st-suite-110
-description: "Contemporary eatery for sashimi, udon noodles & other Japanese specialties, plus Korean entrees. Looking for sushi in Holland, Michigan? Check out Mizu Sushi..."
+description: "Contemporary eatery for sashimi, udon noodles & other Japanese specialties, plus Korean entrees. Mizu Sushi serves delicious sushi in Holland, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJFViHNq7yGYgRa47zuuQmRNQ
 photos:
   - name: >-

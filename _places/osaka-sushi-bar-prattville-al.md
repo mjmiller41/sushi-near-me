@@ -9,7 +9,7 @@ seo:
   name: "Osaka Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Prattville, Alabama? Check out Osaka Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Osaka Sushi Bar serves delicious sushi in Prattville, Alabama. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXQQrWoyPjogRv7GbsXW8-44
 photos:
   - name: >-

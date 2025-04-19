@@ -9,7 +9,7 @@ seo:
   name: "Sushi Maki FIU"
   type: Restaurant
   links: null
-description: "Looking for sushi in Miami, Florida? Check out Sushi Maki FIU for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Maki FIU serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0Z280Sy_2YgRVtdPjsT6c8o
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ushi Japanese Restaurant"
   type: Restaurant
   links: http://ushivalrico.com/
-description: "A Japanese menu including hibachi-grilled fare, teriyaki, sashimi & rolls, plus beer & sake. Looking for sushi in Valrico, Florida? Check out Sushi Ushi Japa..."
+description: "A Japanese menu including hibachi-grilled fare, teriyaki, sashimi & rolls, plus beer & sake. Sushi Ushi Japanese Restaurant serves delicious sushi in Valrico, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfQ3gbarNwogR9GSU8oXScFM
 photos:
   - name: >-

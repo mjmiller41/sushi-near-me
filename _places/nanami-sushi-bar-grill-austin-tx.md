@@ -9,7 +9,7 @@ seo:
   name: "Nanami Sushi Bar & Grill"
   type: Restaurant
   links: https://nanamisushi.com/
-description: "Looking for sushi in Austin, Texas? Check out Nanami Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Nanami Sushi Bar & Grill serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzR-XJnFMW4YRXQD8BnDS6IA
 photos:
   - name: >-

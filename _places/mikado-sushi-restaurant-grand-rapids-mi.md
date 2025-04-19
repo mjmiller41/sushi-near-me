@@ -9,7 +9,7 @@ seo:
   name: "Mikado Sushi Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Grand Rapids, Michigan? Check out Mikado Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Mikado Sushi Restaurant serves delicious sushi in Grand Rapids, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmQvu-gxNGIgRTqHViQKdX5Y
 photos:
   - name: >-

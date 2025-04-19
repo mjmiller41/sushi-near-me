@@ -9,7 +9,7 @@ seo:
   name: "Matsu Sushi"
   type: Restaurant
   links: https://matsusushionline.com/
-description: "Looking for sushi in Castaic, California? Check out Matsu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Matsu Sushi serves delicious sushi in Castaic, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJWW941B-woARodFRfy1Sgqg
 photos:
   - name: >-

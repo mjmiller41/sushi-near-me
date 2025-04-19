@@ -9,7 +9,7 @@ seo:
   name: "Gachi Sushi and Noodles"
   type: Restaurant
   links: https://www.gachisushi.com/
-description: "Looking for sushi in Philadelphia, Pennsylvania? Check out Gachi Sushi and Noodles for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Gachi Sushi and Noodles serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ1B0RE_FxokRlfsQmc27hbo
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kiki"
   type: Restaurant
   links: null
-description: "Looking for sushi in Goshen, New York? Check out Kiki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Kiki serves delicious sushi in Goshen, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU_KNjBosw4kR0PVM2cX45ds
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Zuki Hibachi Grill & Sushi (Zuki East)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Evansville, Indiana? Check out Zuki Hibachi Grill & Sushi (Zuki East) for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Zuki Hibachi Grill & Sushi (Zuki East) serves delicious sushi in Evansville, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW6-5iQYrbogRAj7jCx_sdzo
 photos:
   - name: >-

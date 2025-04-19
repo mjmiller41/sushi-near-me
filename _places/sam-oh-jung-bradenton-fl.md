@@ -9,7 +9,7 @@ seo:
   name: "Sam Oh Jung"
   type: Restaurant
   links: https://www.facebook.com/samohjung
-description: "Classic Japanese fare with sushi bar seating, Asian interior details, & colorful lighting. Looking for sushi in Bradenton, Florida? Check out Sam Oh Jung for..."
+description: "Classic Japanese fare with sushi bar seating, Asian interior details, & colorful lighting. Sam Oh Jung serves delicious sushi in Bradenton, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJa4hHgOUVw4gRN_vsFJwJR7U
 photos:
   - name: >-

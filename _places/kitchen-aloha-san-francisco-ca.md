@@ -9,7 +9,7 @@ seo:
   name: "Kitchen Aloha"
   type: Restaurant
   links: http://www.kitchenalohasf.com/
-description: "Looking for sushi in San Francisco, California? Check out Kitchen Aloha for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Kitchen Aloha serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXwQ8sESBhYARyMd5DM6PIyU
 photos:
   - name: >-

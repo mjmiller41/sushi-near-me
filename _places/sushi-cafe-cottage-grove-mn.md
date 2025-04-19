@@ -9,7 +9,7 @@ seo:
   name: "Sushi Café"
   type: Restaurant
   links: http://sushicafemn.com/
-description: "Looking for sushi in Cottage Grove, Minnesota? Check out Sushi Café for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi Café serves delicious sushi in Cottage Grove, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmSPuNULQ94cRHSDzpXfnzKo
 photos:
   - name: >-

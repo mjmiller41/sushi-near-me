@@ -9,7 +9,7 @@ seo:
   name: "Umami Sushi STX"
   type: Restaurant
   links: null
-description: "Looking for sushi in Christiansted, undefined? Check out Umami Sushi STX for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Umami Sushi STX serves delicious sushi in Christiansted, undefined. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjfCHWyO1GowRUtYmqdxeG-A
 photos:
   - name: >-

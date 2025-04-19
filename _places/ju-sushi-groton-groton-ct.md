@@ -9,7 +9,7 @@ seo:
   name: "JU-SUSHI​ Groton"
   type: Restaurant
   links: http://www.ju-sushi.com/
-description: "Looking for sushi in Groton, Connecticut? Check out JU-SUSHI​ Groton for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "JU-SUSHI​ Groton serves delicious sushi in Groton, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJTyt4ybUO5okR-Cfb61RDJLk
 photos:
   - name: >-

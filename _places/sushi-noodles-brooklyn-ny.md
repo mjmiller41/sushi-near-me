@@ -9,7 +9,7 @@ seo:
   name: "Sushi & Noodles"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brooklyn, New York? Check out Sushi & Noodles for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi & Noodles serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcXjFt2JdwokRa-oSWRXXTV4
 photos:
   - name: >-

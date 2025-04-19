@@ -9,7 +9,7 @@ seo:
   name: "Sake Steak House"
   type: Restaurant
   links: http://www.sakesteakhousema.com/
-description: "Looking for sushi in Mansfield, Massachusetts? Check out Sake Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Sake Steak House serves delicious sushi in Mansfield, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMS51Gjpi5IkRPrDteYyHfF0
 photos:
   - name: >-

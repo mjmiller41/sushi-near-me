@@ -9,7 +9,7 @@ seo:
   name: "Sushi House"
   type: Restaurant
   links: null
-description: "Looking for sushi in Yulee, Florida? Check out Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Sushi House serves delicious sushi in Yulee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYVy0WXoA5YgRF8kovqcHaR0
 photos:
   - name: >-

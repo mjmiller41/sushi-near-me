@@ -9,7 +9,7 @@ seo:
   name: "Kumori Sushi & Teppanyaki - San Antonio Potranco Plaza"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Antonio, Texas? Check out Kumori Sushi & Teppanyaki - San Antonio Potranco Plaza for a delightful Japanese dining experience. Enjoy ..."
+description: "Kumori Sushi & Teppanyaki - San Antonio Potranco Plaza serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ238XtQhDXIYR52CoqgSMLLg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Nama Sushi Bar - Cedar Bluff"
   type: Restaurant
   links: null
-description: "Looking for sushi in Knoxville, Tennessee? Check out Nama Sushi Bar - Cedar Bluff for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Nama Sushi Bar - Cedar Bluff serves delicious sushi in Knoxville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdfv4wGUlXIgRP7MvFe-c_iA
 photos:
   - name: >-

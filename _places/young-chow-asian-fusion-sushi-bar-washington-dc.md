@@ -9,7 +9,7 @@ seo:
   name: "Young Chow Asian Fusion Sushi Bar"
   type: Restaurant
   links: https://www.youngchowdc.com/
-description: "A mix of Asian classics, including sushi, share the sizable menu at this unpretentious eatery. Looking for sushi in Washington, District of Columbia? Check o..."
+description: "A mix of Asian classics, including sushi, share the sizable menu at this unpretentious eatery. Young Chow Asian Fusion Sushi Bar serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMzD4fi64t4kRf81PW3oK5Lk
 photos:
   - name: >-

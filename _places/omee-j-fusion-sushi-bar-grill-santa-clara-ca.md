@@ -9,7 +9,7 @@ seo:
   name: "Omee J Fusion Sushi Bar & Grill"
   type: Restaurant
   links: http://www.omeejfusionmenu.com/
-description: "Looking for sushi in Santa Clara, California? Check out Omee J Fusion Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Omee J Fusion Sushi Bar & Grill serves delicious sushi in Santa Clara, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWTJJg4_Kj4ARDmeGeg4fRog
 photos:
   - name: >-

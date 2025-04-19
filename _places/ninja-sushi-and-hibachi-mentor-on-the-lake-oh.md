@@ -9,7 +9,7 @@ seo:
   name: "Ninja Sushi and Hibachi"
   type: Restaurant
   links: http://ninjainmentor.com/
-description: "Looking for sushi in Mentor-On-The-Lake, Ohio? Check out Ninja Sushi and Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Ninja Sushi and Hibachi serves delicious sushi in Mentor-On-The-Lake, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA_SNRXKvMYgRH7sTW6rAqzo
 photos:
   - name: >-

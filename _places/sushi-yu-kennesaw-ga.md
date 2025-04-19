@@ -9,7 +9,7 @@ seo:
   name: "Sushi Yu"
   type: Restaurant
   links: https://www.sushiyukennesaw.com/
-description: "Informal sushi bar offering classic sushi rolls, with all-you-can-eat menus at lunch & dinner. Looking for sushi in Kennesaw, Georgia? Check out Sushi Yu for..."
+description: "Informal sushi bar offering classic sushi rolls, with all-you-can-eat menus at lunch & dinner. Sushi Yu serves delicious sushi in Kennesaw, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfYylsSEV9YgRnOWpqeIIwTI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mene Sushi"
   type: Restaurant
   links: http://www.menesushi.com/
-description: "Compact sushi house features traditional Japanese dishes & a range of rolls in a relaxed atmosphere. Looking for sushi in West Bloomfield Township, Michigan?..."
+description: "Compact sushi house features traditional Japanese dishes & a range of rolls in a relaxed atmosphere. Mene Sushi serves delicious sushi in West Bloomfield Township, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJtVQ0-0i6JIgRznUfPdSyKhE
 photos:
   - name: >-

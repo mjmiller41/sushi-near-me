@@ -9,7 +9,7 @@ seo:
   name: "The Cliff Dining Pub"
   type: Restaurant
   links: http://cliffdiningpub.com/
-description: "Looking for sushi in Draper, Utah? Check out The Cliff Dining Pub for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "The Cliff Dining Pub serves delicious sushi in Draper, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw1QSFmqHUocR-8kX2MWP9ew
 photos:
   - name: >-

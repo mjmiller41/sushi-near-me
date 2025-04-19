@@ -9,7 +9,7 @@ seo:
   name: "I Love Teriyaki"
   type: Restaurant
   links: null
-description: "Looking for sushi in Sacramento, California? Check out I Love Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "I Love Teriyaki serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5_t2EILZmoARoKfJRR4H9Q4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Ocean Snack"
   type: Restaurant
   links: null
-description: "Looking for sushi in Buena Park, California? Check out Ocean Snack for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Ocean Snack serves delicious sushi in Buena Park, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn0HNSvUr3YAR4l_2ZU3Iq7E
 photos:
   - name: >-

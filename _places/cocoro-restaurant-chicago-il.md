@@ -9,7 +9,7 @@ seo:
   name: "Cocoro Restaurant"
   type: Restaurant
   links: http://cocorosushi.squarespace.com/
-description: "Casual, dimly lit eatery serving Japanese dishes such as sushi, ramen, teriyaki & shabu shabu. Looking for sushi in Chicago, Illinois? Check out Cocoro Resta..."
+description: "Casual, dimly lit eatery serving Japanese dishes such as sushi, ramen, teriyaki & shabu shabu. Cocoro Restaurant serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL4_fuLQsDogRHULcy-O5gPg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "SUSHI STORY"
   type: Restaurant
   links: https://www.sushistorynj.com/
-description: "Looking for sushi in New Milford, New Jersey? Check out SUSHI STORY for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "SUSHI STORY serves delicious sushi in New Milford, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJU2q02DvxwokRyJvMevmVwqc
 photos:
   - name: >-

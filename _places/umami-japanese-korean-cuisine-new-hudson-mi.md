@@ -9,7 +9,7 @@ seo:
   name: "Umami Japanese & Korean Cuisine"
   type: Restaurant
   links: https://www.umamimichigan.com/
-description: "Looking for sushi in New Hudson, Michigan? Check out Umami Japanese & Korean Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Umami Japanese & Korean Cuisine serves delicious sushi in New Hudson, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQdRJ7ZRXI4gR-IMPtZyPduM
 photos:
   - name: >-

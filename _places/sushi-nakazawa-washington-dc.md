@@ -9,7 +9,7 @@ seo:
   name: "Sushi Nakazawa"
   type: Restaurant
   links: http://www.sushinakazawa.com/
-description: "Luxurious, Japanese omakase meals served in cozy, dark wood & gold surrounds, with a sushi counter. Looking for sushi in Washington, District of Columbia? Ch..."
+description: "Luxurious, Japanese omakase meals served in cozy, dark wood & gold surrounds, with a sushi counter. Sushi Nakazawa serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJ-f__HJq3t4kRmvtJRiDzurk
 photos:
   - name: >-

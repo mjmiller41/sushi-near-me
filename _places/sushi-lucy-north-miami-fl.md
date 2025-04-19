@@ -9,7 +9,7 @@ seo:
   name: "Sushi Lucy"
   type: Restaurant
   links: https://sushilucy.toast.site/
-description: "Looking for sushi in North Miami, Florida? Check out Sushi Lucy for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Lucy serves delicious sushi in North Miami, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJAaaFUnOy2YgRh5x0YouPMLA
 photos:
   - name: >-

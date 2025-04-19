@@ -9,7 +9,7 @@ seo:
   name: "Sushi Republic"
   type: Restaurant
   links: http://www.sushirepublicgso.com/
-description: "Dark-wood interior & a patio offer options to dine on creative maki rolls, bento boxes & noodles. Looking for sushi in Greensboro, North Carolina? Check out ..."
+description: "Dark-wood interior & a patio offer options to dine on creative maki rolls, bento boxes & noodles. Sushi Republic serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF0nEpj8ZU4gR-WT1UDFdO48
 photos:
   - name: >-

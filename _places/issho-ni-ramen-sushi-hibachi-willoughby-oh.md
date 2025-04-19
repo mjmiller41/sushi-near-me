@@ -9,7 +9,7 @@ seo:
   name: "Issho Ni Ramen, Sushi & Hibachi"
   type: Restaurant
   links: https://www.isshoniramen.com/
-description: "Looking for sushi in Willoughby, Ohio? Check out Issho Ni Ramen, Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Issho Ni Ramen, Sushi & Hibachi serves delicious sushi in Willoughby, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJn6jUVH-rMYgRCeF8_PBLrpc
 photos:
   - name: >-

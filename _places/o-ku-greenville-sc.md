@@ -9,7 +9,7 @@ seo:
   name: "O-Ku"
   type: Restaurant
   links: https://www.o-kusushi.com/location/o-ku-greenville/?y_source=1_MTAwMjQwNjU4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
-description: "Looking for sushi in Greenville, South Carolina? Check out O-Ku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "O-Ku serves delicious sushi in Greenville, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk04nlcoxWIgRHUOAILcbeWA
 photos:
   - name: >-

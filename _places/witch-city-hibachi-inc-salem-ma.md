@@ -9,7 +9,7 @@ seo:
   name: "Witch City Hibachi, Inc."
   type: Restaurant
   links: https://www.witchcityhibachi.com/
-description: "Looking for sushi in Salem, Massachusetts? Check out Witch City Hibachi, Inc. for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Witch City Hibachi, Inc. serves delicious sushi in Salem, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4diJ25gV44kRpRKwwN04iyE
 photos:
   - name: >-

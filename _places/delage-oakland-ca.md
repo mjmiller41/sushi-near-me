@@ -9,7 +9,7 @@ seo:
   name: "Delage"
   type: Restaurant
   links: http://www.delage-oakland.com/
-description: "Looking for sushi in Oakland, California? Check out Delage for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Delage serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7yAjSreAj4ARO3EqGPi6rZU
 photos:
   - name: >-

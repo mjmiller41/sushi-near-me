@@ -9,7 +9,7 @@ seo:
   name: "Minato Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Thousand Oaks, California? Check out Minato Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Minato Sushi serves delicious sushi in Thousand Oaks, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyyTxhgYw6IARoFj_znrkxrM
 photos:
   - name: >-

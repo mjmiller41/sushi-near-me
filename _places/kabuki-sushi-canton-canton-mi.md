@@ -9,7 +9,7 @@ seo:
   name: "Kabuki Sushi Canton"
   type: Restaurant
   links: null
-description: "Looking for sushi in Canton, Michigan? Check out Kabuki Sushi Canton for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Kabuki Sushi Canton serves delicious sushi in Canton, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLdjE5VdSO4gR__hqkz2bQaw
 photos:
   - name: >-

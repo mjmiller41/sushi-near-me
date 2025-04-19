@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Arlington"
   type: Restaurant
   links: null
-description: "Looking for sushi in Arlington, Virginia? Check out Bonchon Arlington for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Bonchon Arlington serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpeIs-o22t4kRCUm2YXiK4Ms
 photos:
   - name: >-

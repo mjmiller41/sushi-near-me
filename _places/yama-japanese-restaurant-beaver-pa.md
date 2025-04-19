@@ -9,7 +9,7 @@ seo:
   name: "Yama Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Beaver, Pennsylvania? Check out Yama Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Yama Japanese Restaurant serves delicious sushi in Beaver, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6bO_RcFvNIgRXPjCbC1xF-g
 photos:
   - name: >-

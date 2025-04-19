@@ -9,7 +9,7 @@ seo:
   name: "Hello Sushi Brea"
   type: Restaurant
   links: null
-description: "Looking for sushi in Placentia, California? Check out Hello Sushi Brea for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Hello Sushi Brea serves delicious sushi in Placentia, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ440OB9fV3IARw3_zQ96YwyY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Addison Sushi"
   type: Restaurant
   links: http://addisonsushi.com/
-description: "Looking for sushi in Addison, Texas? Check out Addison Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Addison Sushi serves delicious sushi in Addison, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7yKCrAMhTIYRmi3jQcAkZ2U
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Dragon Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Dragon Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Dragon Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYwW6R6L3wokRQ9H1nf7nn4g
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Ten"
   type: Restaurant
   links: http://www.ten-sushi.com/
-description: "Chill Japanese eatery dispensing sushi, sake & more in a sleek, contemporary setting. Looking for sushi in Charlottesville, Virginia? Check out Ten for a del..."
+description: "Chill Japanese eatery dispensing sushi, sake & more in a sleek, contemporary setting. Ten serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJgWf6LCSGs4kRS5YQDK8okOo
 photos:
   - name: >-

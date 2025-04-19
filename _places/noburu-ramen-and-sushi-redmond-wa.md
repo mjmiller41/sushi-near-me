@@ -9,7 +9,7 @@ seo:
   name: "Noburu Ramen and Sushi"
   type: Restaurant
   links: https://www.ordertogo.com/restaurants/nobururamensushiredmond/mesh
-description: "Looking for sushi in Redmond, Washington? Check out Noburu Ramen and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Noburu Ramen and Sushi serves delicious sushi in Redmond, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcfM2fsUNkFQRWNZrQyxcObQ
 photos:
   - name: >-

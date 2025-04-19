@@ -9,7 +9,7 @@ seo:
   name: "wasabiofbemidji"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bemidji, Minnesota? Check out wasabiofbemidji for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "wasabiofbemidji serves delicious sushi in Bemidji, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0TyckMgtuFIR295m98sIwhE
 photos:
   - name: >-

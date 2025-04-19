@@ -9,7 +9,7 @@ seo:
   name: "Tsunami Sushi Restaurant"
   type: Restaurant
   links: https://sites.google.com/view/tsunami-vista/home
-description: "Looking for sushi in Columbia, South Carolina? Check out Tsunami Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Tsunami Sushi Restaurant serves delicious sushi in Columbia, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzd4veC67-IgRilQne4jQNzs
 photos:
   - name: >-

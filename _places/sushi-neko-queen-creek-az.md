@@ -9,7 +9,7 @@ seo:
   name: "Sushi Neko"
   type: Restaurant
   links: https://sushi-neko.shop/
-description: "Looking for sushi in Queen Creek, Arizona? Check out Sushi Neko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Neko serves delicious sushi in Queen Creek, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_95nX5RSKocRbARw3wRcHOI
 photos:
   - name: >-

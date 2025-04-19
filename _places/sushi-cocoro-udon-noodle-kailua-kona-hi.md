@@ -9,7 +9,7 @@ seo:
   name: "SUSHI COCORO &UDON NOODLE"
   type: Restaurant
   links: null
-description: "Looking for sushi in Kailua-Kona, Hawaii? Check out SUSHI COCORO &UDON NOODLE for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "SUSHI COCORO &UDON NOODLE serves delicious sushi in Kailua-Kona, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrwAEMfkOVHkRWhE8-MP6_Cc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "SHō Sushi & Izakaya"
   type: Restaurant
   links: https://www.shosushimclean.com/
-description: "Looking for sushi in McLean, Virginia? Check out SHō Sushi & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "SHō Sushi & Izakaya serves delicious sushi in McLean, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJLyyd5p61t4kRvaq8p0kvlPI
 photos:
   - name: >-

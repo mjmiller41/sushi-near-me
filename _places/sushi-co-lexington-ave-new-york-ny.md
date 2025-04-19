@@ -9,7 +9,7 @@ seo:
   name: "Sushi & Co Lexington Ave"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Sushi & Co Lexington Ave for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Sushi & Co Lexington Ave serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC6IyZpRZwokRUPkkAhljCdI
 photos:
   - name: >-

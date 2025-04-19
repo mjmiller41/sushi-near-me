@@ -9,7 +9,7 @@ seo:
   name: "Sushi Junai 2"
   type: Restaurant
   links: https://sushijunai2.online/
-description: "Looking for sushi in Austin, Texas? Check out Sushi Junai 2 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Sushi Junai 2 serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl1QkySbMRIYR6q8_Ja2NAkc
 photos:
   - name: >-

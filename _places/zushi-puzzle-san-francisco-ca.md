@@ -9,7 +9,7 @@ seo:
   name: "Zushi Puzzle"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Zushi Puzzle for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Zushi Puzzle serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy-nXMNqAhYAR40z3pkUofL8
 photos:
   - name: >-

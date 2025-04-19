@@ -9,7 +9,7 @@ seo:
   name: "Blue Nami | Sushi & Sake House"
   type: Restaurant
   links: null
-description: "Looking for sushi in Orangevale, California? Check out Blue Nami | Sushi & Sake House for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Blue Nami | Sushi & Sake House serves delicious sushi in Orangevale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ4MPQsPgmoARBDvae_JqKTQ
 photos:
   - name: >-

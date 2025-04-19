@@ -9,7 +9,7 @@ seo:
   name: "JooN's Sushi"
   type: Restaurant
   links: http://joonssushi.com/
-description: "Warm, relaxed Japanese eatery serving all-you-can-eat sushi, plus noodles, teriyaki & more. Looking for sushi in Murrieta, California? Check out JooN's Sushi..."
+description: "Warm, relaxed Japanese eatery serving all-you-can-eat sushi, plus noodles, teriyaki & more. JooN's Sushi serves delicious sushi in Murrieta, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJx0xO_Hd-24ARy8v6Qdyy1Hg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi King - Little Creek"
   type: Restaurant
   links: null
-description: "Looking for sushi in Norfolk, Virginia? Check out Sushi King - Little Creek for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Sushi King - Little Creek serves delicious sushi in Norfolk, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKwyK9EyRuokRG-SIConuWmE
 photos:
   - name: >-

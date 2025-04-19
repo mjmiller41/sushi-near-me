@@ -9,7 +9,7 @@ seo:
   name: "BaGu Sushi & Thai"
   type: Restaurant
   links: https://bagusushi.com/
-description: "Looking for sushi in Minneapolis, Minnesota? Check out BaGu Sushi & Thai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "BaGu Sushi & Thai serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlT0LsdQn9ocR4MpC0xFDdgE
 photos:
   - name: >-

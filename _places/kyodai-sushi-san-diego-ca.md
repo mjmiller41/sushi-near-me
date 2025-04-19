@@ -9,7 +9,7 @@ seo:
   name: "Kyodai Sushi"
   type: Restaurant
   links: https://www.sushikyodai.com/
-description: "Casual strip-mall restaurant offering traditional sushi rolls & standard Japanese dishes. Looking for sushi in San Diego, California? Check out Kyodai Sushi ..."
+description: "Casual strip-mall restaurant offering traditional sushi rolls & standard Japanese dishes. Kyodai Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJaSFC2AD624ARrII8rgVXb0Y
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Poke Maki Ramen"
   type: Restaurant
   links: http://www.pokemakionline.com/
-description: "Looking for sushi in Glendale, Arizona? Check out Poke Maki Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Poke Maki Ramen serves delicious sushi in Glendale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYYa67xNpK4cRfxolwtOwrIw
 photos:
   - name: >-

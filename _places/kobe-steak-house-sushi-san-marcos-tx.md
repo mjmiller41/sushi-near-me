@@ -9,7 +9,7 @@ seo:
   name: "Kobe Steak House & Sushi"
   type: Restaurant
   links: https://www.kobesmtx.com/
-description: "Looking for sushi in San Marcos, Texas? Check out Kobe Steak House & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Kobe Steak House & Sushi serves delicious sushi in San Marcos, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe1Z-R22pXIYRGCg1bxr9UQ0
 photos:
   - name: >-

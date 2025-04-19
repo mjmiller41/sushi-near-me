@@ -9,7 +9,7 @@ seo:
   name: "Yamato Hibachi & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Norwood, Massachusetts? Check out Yamato Hibachi & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Yamato Hibachi & Sushi Bar serves delicious sushi in Norwood, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4fIGIid-5IkRwO8pgp_Ka7M
 photos:
   - name: >-

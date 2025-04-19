@@ -9,7 +9,7 @@ seo:
   name: "Jūn's Sushi and Bento"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bellingham, Washington? Check out Jūn's Sushi and Bento for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Jūn's Sushi and Bento serves delicious sushi in Bellingham, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ93YKHbyjhVQROhWqaC7ylGU
 photos:
   - name: >-

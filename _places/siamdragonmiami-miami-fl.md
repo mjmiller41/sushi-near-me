@@ -9,7 +9,7 @@ seo:
   name: "SiamdragonMiami"
   type: Restaurant
   links: https://siamdragonmiamifl.com/
-description: "Classic Thai dishes & Japanese sushi rolls served in a relaxed setting with modern flair. Looking for sushi in Miami, Florida? Check out SiamdragonMiami for ..."
+description: "Classic Thai dishes & Japanese sushi rolls served in a relaxed setting with modern flair. SiamdragonMiami serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQZQGWkjH2YgRnTRscLk8WxM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Greenlake Sushi and Roll"
   type: Restaurant
   links: https://greenlakesushi.square.site/
-description: "Looking for sushi in Seattle, Washington? Check out Greenlake Sushi and Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Greenlake Sushi and Roll serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpVIcS2gVkFQRKUdeJfFIHmY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Cilantro Thai & Sushi Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Akron, Ohio? Check out Cilantro Thai & Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Cilantro Thai & Sushi Restaurant serves delicious sushi in Akron, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9_AvzyXWMIgRN9Nf-r8BKeI
 photos:
   - name: >-

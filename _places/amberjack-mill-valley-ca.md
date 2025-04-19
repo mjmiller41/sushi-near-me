@@ -9,7 +9,7 @@ seo:
   name: "Amberjack"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mill Valley, California? Check out Amberjack for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Amberjack serves delicious sushi in Mill Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXcxkGHOQhYARcH4rgSpgDJg
 photos:
   - name: >-

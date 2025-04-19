@@ -9,7 +9,7 @@ seo:
   name: "Simply Thai and Sushi"
   type: Restaurant
   links: http://www.mysimplythai.com/
-description: "Looking for sushi in Elon, North Carolina? Check out Simply Thai and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Simply Thai and Sushi serves delicious sushi in Elon, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ310ezgEpU4gRnjmZO2w138E
 photos:
   - name: >-

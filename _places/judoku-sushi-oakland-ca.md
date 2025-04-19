@@ -9,7 +9,7 @@ seo:
   name: "Judoku Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Oakland, California? Check out Judoku Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Judoku Sushi serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwRdL9lWHj4ARdkHKSmcvV-w
 photos:
   - name: >-

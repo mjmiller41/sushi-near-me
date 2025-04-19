@@ -9,7 +9,7 @@ seo:
   name: "Lawrence Fish Market"
   type: Restaurant
   links: https://lawrencefish.com/
-description: "Looking for sushi in Chicago, Illinois? Check out Lawrence Fish Market for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Lawrence Fish Market serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJZhykdrND4gRuX65ROMOVDU
 photos:
   - name: >-

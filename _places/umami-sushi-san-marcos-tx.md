@@ -9,7 +9,7 @@ seo:
   name: "Umami Sushi"
   type: Restaurant
   links: https://www.umamiumami.com/
-description: "Looking for sushi in San Marcos, Texas? Check out Umami Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Umami Sushi serves delicious sushi in San Marcos, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7d9OzGuoXIYRjlJsfCbXUo8
 photos:
   - name: >-

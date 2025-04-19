@@ -9,7 +9,7 @@ seo:
   name: "Sushi Row"
   type: Restaurant
   links: https://sushi-row.com/
-description: "Looking for sushi in Colorado Springs, Colorado? Check out Sushi Row for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Row serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ15UOdyNFE4cRG_0UQ-35O-Q
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Nara Sushi"
   type: Restaurant
   links: http://www.narasushi.com/front.php
-description: "Looking for sushi in Virginia Beach, Virginia? Check out Nara Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Nara Sushi serves delicious sushi in Virginia Beach, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU8aMzlmUuokRVjWbBBzpDbw
 photos:
   - name: >-

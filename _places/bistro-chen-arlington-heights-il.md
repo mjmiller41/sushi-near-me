@@ -9,7 +9,7 @@ seo:
   name: "Bistro Chen"
   type: Restaurant
   links: http://bistrochen.com/
-description: "Spare, modern restaurant serving Chinese-Japanese fare (from dim sum to sushi) & tropical cocktails. Looking for sushi in Arlington Heights, Illinois? Check ..."
+description: "Spare, modern restaurant serving Chinese-Japanese fare (from dim sum to sushi) & tropical cocktails. Bistro Chen serves delicious sushi in Arlington Heights, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJT0xTAfK6D4gRtHzUpYzH_Tw
 photos:
   - name: >-

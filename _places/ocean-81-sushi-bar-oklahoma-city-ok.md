@@ -9,7 +9,7 @@ seo:
   name: "Ocean 81 Sushi Bar"
   type: Restaurant
   links: https://ocean81.com/
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Ocean 81 Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Ocean 81 Sushi Bar serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJidA6KVUasocRLezX80q1C1A
 photos:
   - name: >-

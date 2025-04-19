@@ -9,7 +9,7 @@ seo:
   name: "Osaka Hibachi Sushi & Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Sachse, Texas? Check out Osaka Hibachi Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Osaka Hibachi Sushi & Bar serves delicious sushi in Sachse, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHV5cj-scTIYR7_Fsl766lmU
 photos:
   - name: >-

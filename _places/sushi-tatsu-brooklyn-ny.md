@@ -9,7 +9,7 @@ seo:
   name: "Sushi Tatsu"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brooklyn, New York? Check out Sushi Tatsu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Tatsu serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1SDYOZlbwokRymzOWGaeUG0
 photos:
   - name: >-

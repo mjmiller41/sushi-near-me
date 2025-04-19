@@ -9,7 +9,7 @@ seo:
   name: "Thai Sushi House Noblesville"
   type: Restaurant
   links: https://www.toasttab.com/thai-sushi-house-59-s-9th-st
-description: "Looking for sushi in Noblesville, Indiana? Check out Thai Sushi House Noblesville for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Thai Sushi House Noblesville serves delicious sushi in Noblesville, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJId8kcQCxFIgRgGCyeQ_Sw3o
 photos:
   - name: >-

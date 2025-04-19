@@ -9,7 +9,7 @@ seo:
   name: "Sushi Up"
   type: Restaurant
   links: https://www.sushiuprestaurant.com/
-description: "Looking for sushi in Orem, Utah? Check out Sushi Up for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atm..."
+description: "Sushi Up serves delicious sushi in Orem, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY9sO-dmETYcRtucTPk1Nb3g
 photos:
   - name: >-

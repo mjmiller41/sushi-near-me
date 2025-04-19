@@ -9,7 +9,7 @@ seo:
   name: "YamaChen's Sushi"
   type: Restaurant
   links: http://www.yamachen.com/onlineorder.html
-description: "Looking for sushi in Virginia Beach, Virginia? Check out YamaChen's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "YamaChen's Sushi serves delicious sushi in Virginia Beach, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdfB_4f-UuokRJVDBmPlPKC8
 photos:
   - name: >-

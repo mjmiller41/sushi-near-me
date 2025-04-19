@@ -9,7 +9,7 @@ seo:
   name: "Konnichiwa"
   type: Restaurant
   links: https://www.konnichiwacharlotte.com/
-description: "Looking for sushi in Charlotte, North Carolina? Check out Konnichiwa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Konnichiwa serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkbGxEdWfVogREC3j2glYA1Y
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Plantation"
   type: Restaurant
   links: https://sushiplantations.com/
-description: "Clever maki & other Japanese fare doled out in casual, compact digs with sushi bar seating. Looking for sushi in Mission Viejo, California? Check out Sushi P..."
+description: "Clever maki & other Japanese fare doled out in casual, compact digs with sushi bar seating. Sushi Plantation serves delicious sushi in Mission Viejo, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJh7zREF_u3IARsnjQ3B_4zHY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Handroll Project"
   type: Restaurant
   links: https://www.handrollproject.com/
-description: "Looking for sushi in San Francisco, California? Check out Handroll Project for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Handroll Project serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJpbpAXz9_j4ARxhsZJbZpa-w
 photos:
   - name: >-

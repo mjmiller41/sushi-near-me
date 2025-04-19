@@ -9,7 +9,7 @@ seo:
   name: "Yeung II"
   type: Restaurant
   links: http://www.yeung2sushi.com/
-description: "Snug spot for dine-in or delivery Chinese & Japanese staples, plus sushi & vegetarian options. Looking for sushi in Hoboken, New Jersey? Check out Yeung II f..."
+description: "Snug spot for dine-in or delivery Chinese & Japanese staples, plus sushi & vegetarian options. Yeung II serves delicious sushi in Hoboken, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNTW-MthZwokRsyTH5DySbdk
 photos:
   - name: >-

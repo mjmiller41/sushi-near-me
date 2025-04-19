@@ -9,7 +9,7 @@ seo:
   name: "Fighting Fish Scott’s Addition"
   type: Restaurant
   links: http://fightingfishrva.com/
-description: "A menu with creative takes on Japanese sushi (bowls, burritos, & rolls) in a cozy, casual space. Looking for sushi in Richmond, Virginia? Check out Fighting ..."
+description: "A menu with creative takes on Japanese sushi (bowls, burritos, & rolls) in a cozy, casual space. Fighting Fish Scott’s Addition serves delicious sushi in Richmond, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJ10HqaoWsYkRxsycXWo2zVo
 photos:
   - name: >-

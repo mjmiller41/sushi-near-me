@@ -9,7 +9,7 @@ seo:
   name: "Mr. Sushi"
   type: Restaurant
   links: http://www.mrsushivalencia.com/
-description: "Looking for sushi in Valencia, California? Check out Mr. Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Mr. Sushi serves delicious sushi in Valencia, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoZCfPG2HwoAR3rlGT2r_shw
 photos:
   - name: >-

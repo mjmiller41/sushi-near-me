@@ -9,7 +9,7 @@ seo:
   name: "Sakura Bana"
   type: Restaurant
   links: https://sushiomaha.com/
-description: "Local haunt since 1986 serving sushi & classic Japanese dishes in a serene, blond-wood space. Looking for sushi in Omaha, Nebraska? Check out Sakura Bana for..."
+description: "Local haunt since 1986 serving sushi & classic Japanese dishes in a serene, blond-wood space. Sakura Bana serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJR2O7MwqNk4cR6kD2puCB1xQ
 photos:
   - name: >-

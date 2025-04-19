@@ -9,7 +9,7 @@ seo:
   name: "Momiji South Lake Union"
   type: Restaurant
   links: http://www.momijislu.com/
-description: "Looking for sushi in Seattle, Washington? Check out Momiji South Lake Union for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Momiji South Lake Union serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4RRLcFUVkFQRv3D3JV4bwPE
 photos:
   - name: >-

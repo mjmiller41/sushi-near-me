@@ -9,7 +9,7 @@ seo:
   name: "Jizake Sushi - 地酒すし"
   type: Restaurant
   links: null
-description: "Simply furnished Japanese eatery with an eat-at sushi bar, offering house rolls, noodles & tempura. Looking for sushi in Laguna Niguel, California? Check out..."
+description: "Simply furnished Japanese eatery with an eat-at sushi bar, offering house rolls, noodles & tempura. Jizake Sushi - 地酒すし serves delicious sushi in Laguna Niguel, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJo5wjAL3v3IARu9wk32l8TnQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sekai Sushi"
   type: Restaurant
   links: http://www.sekaisushi.net/
-description: "Looking for sushi in Mesa, Arizona? Check out Sekai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Sekai Sushi serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYazKf5aoK4cRBQNhtsVsrZk
 photos:
   - name: >-

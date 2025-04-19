@@ -9,7 +9,7 @@ seo:
   name: "Ninja Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lincoln, Nebraska? Check out Ninja Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Ninja Restaurant serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI3fLAme5locRGmy9PbjufsE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Eiji"
   type: Restaurant
   links: null
-description: "Housemade tofu is the specialty at this cozy Japanese spot that also serves a varied sushi menu. Looking for sushi in San Francisco, California? Check out Ei..."
+description: "Housemade tofu is the specialty at this cozy Japanese spot that also serves a varied sushi menu. Eiji serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJoRHxCxx-j4ARxvzlXQFASuM
 photos:
   - name: >-

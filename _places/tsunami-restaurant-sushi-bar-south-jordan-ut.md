@@ -9,7 +9,7 @@ seo:
   name: "Tsunami Restaurant & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in South Jordan, Utah? Check out Tsunami Restaurant & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Tsunami Restaurant & Sushi Bar serves delicious sushi in South Jordan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbac68DaGUocR9lLltBJXsdg
 photos:
   - name: >-

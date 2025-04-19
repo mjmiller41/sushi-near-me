@@ -9,7 +9,7 @@ seo:
   name: "Rice n Roll Bistro | Sushi Bar & Thai Cuisine"
   type: Restaurant
   links: https://ricenrollbistro.com/
-description: "Looking for sushi in Milwaukee, Wisconsin? Check out Rice n Roll Bistro | Sushi Bar & Thai Cuisine for a delightful Japanese dining experience. Enjoy a varie..."
+description: "Rice n Roll Bistro | Sushi Bar & Thai Cuisine serves delicious sushi in Milwaukee, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMymoLucYBYgR4bhgS7lymG4
 photos:
   - name: >-

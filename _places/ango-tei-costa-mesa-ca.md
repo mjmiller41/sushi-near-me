@@ -9,7 +9,7 @@ seo:
   name: "Ango Tei"
   type: Restaurant
   links: null
-description: "Intimate space for carefully presented Japanese fare plus sushi & other traditional entrees. Looking for sushi in Costa Mesa, California? Check out Ango Tei ..."
+description: "Intimate space for carefully presented Japanese fare plus sushi & other traditional entrees. Ango Tei serves delicious sushi in Costa Mesa, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvcPKzhjf3IARhK5pyLy3Z6g
 photos:
   - name: >-

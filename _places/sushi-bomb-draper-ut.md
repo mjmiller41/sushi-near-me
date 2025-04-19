@@ -9,7 +9,7 @@ seo:
   name: "sushi bomb"
   type: Restaurant
   links: http://www.sushibombsushi.com/
-description: "Looking for sushi in Draper, Utah? Check out sushi bomb for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "sushi bomb serves delicious sushi in Draper, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJuwV00E6HUocRihEIBufOYFI
 photos:
   - name: >-

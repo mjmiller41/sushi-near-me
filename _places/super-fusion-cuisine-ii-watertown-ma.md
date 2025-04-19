@@ -9,7 +9,7 @@ seo:
   name: "Super Fusion Cuisine II"
   type: Restaurant
   links: http://www.superfusionsushi.com/
-description: "Informal area-chain sushi bar & teriyaki house, with both takeout & dine-in available. Looking for sushi in Watertown, Massachusetts? Check out Super Fusion ..."
+description: "Informal area-chain sushi bar & teriyaki house, with both takeout & dine-in available. Super Fusion Cuisine II serves delicious sushi in Watertown, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9cpFHAV444kRixMnPo00qwU
 photos:
   - name: >-

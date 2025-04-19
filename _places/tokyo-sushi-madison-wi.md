@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi"
   type: Restaurant
   links: http://tokyosushimadison.com/
-description: "Looking for sushi in Madison, Wisconsin? Check out Tokyo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Tokyo Sushi serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjSx-WO9TBogRgSG4_kebsGI
 photos:
   - name: >-

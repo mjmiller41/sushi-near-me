@@ -9,7 +9,7 @@ seo:
   name: "Mr chen sushi&hibachi steak house"
   type: Restaurant
   links: https://www.mrchensushihibachisteakhouse.com/?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Loveland, Colorado? Check out Mr chen sushi&hibachi steak house for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Mr chen sushi&hibachi steak house serves delicious sushi in Loveland, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtZXZxddTaYcRYEZMrmheehM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Touka Japanese Sushi, Hibachi & Poke Bowl"
   type: Restaurant
   links: http://www.toukabuffalo.com/
-description: "Looking for sushi in East Aurora, New York? Check out Touka Japanese Sushi, Hibachi & Poke Bowl for a delightful Japanese dining experience. Enjoy a variety ..."
+description: "Touka Japanese Sushi, Hibachi & Poke Bowl serves delicious sushi in East Aurora, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF8rSYeqn04kRg0xeDLzH52k
 photos:
   - name: >-

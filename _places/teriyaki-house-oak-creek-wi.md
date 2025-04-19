@@ -9,7 +9,7 @@ seo:
   name: "Teriyaki House"
   type: Restaurant
   links: https://www.teriyakigrillsushi.com/
-description: "Looking for sushi in Oak Creek, Wisconsin? Check out Teriyaki House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Teriyaki House serves delicious sushi in Oak Creek, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe4HluCcVBYgRdSz3abdQ_EU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Voodoo Tuna Sushi Bar and Lounge"
   type: Restaurant
   links: http://voodootuna.com/
-description: "Asian fusion fare & inventive sushi rolls served with craft cocktails in a sleek space with a patio. Looking for sushi in Lakewood, Ohio? Check out Voodoo Tu..."
+description: "Asian fusion fare & inventive sushi rolls served with craft cocktails in a sleek space with a patio. Voodoo Tuna Sushi Bar and Lounge serves delicious sushi in Lakewood, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJ46K7pmvyMIgRkcNssl2WTyU
 photos:
   - name: >-

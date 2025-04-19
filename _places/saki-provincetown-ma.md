@@ -9,7 +9,7 @@ seo:
   name: "Saki"
   type: Restaurant
   links: http://www.sakiptown.com/
-description: "Looking for sushi in Provincetown, Massachusetts? Check out Saki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Saki serves delicious sushi in Provincetown, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCfxYmX6n_IkReo-J3SDXbdw
 photos:
   - name: >-

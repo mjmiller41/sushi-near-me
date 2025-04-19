@@ -9,7 +9,7 @@ seo:
   name: "Poseidon Asian Cuisine"
   type: Restaurant
   links: http://poseidonpa.com/
-description: "Looking for sushi in Paoli, Pennsylvania? Check out Poseidon Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Poseidon Asian Cuisine serves delicious sushi in Paoli, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJStsU1btxokR21LWtcbbEF4
 photos:
   - name: >-

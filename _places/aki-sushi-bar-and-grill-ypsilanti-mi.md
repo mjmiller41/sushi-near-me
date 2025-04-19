@@ -9,7 +9,7 @@ seo:
   name: "AKI SUSHI BAR AND GRILL"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ypsilanti, Michigan? Check out AKI SUSHI BAR AND GRILL for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "AKI SUSHI BAR AND GRILL serves delicious sushi in Ypsilanti, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQdGx1tinPIgRMnSDuxTg2JM
 photos:
   - name: >-

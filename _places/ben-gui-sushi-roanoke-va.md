@@ -9,7 +9,7 @@ seo:
   name: "Ben Gui Sushi"
   type: Restaurant
   links: http://www.benguisushi.com/
-description: "Relaxed, stylish Japanese restaurant offering a variety of sushi, plus teriyaki, udon & bento boxes. Looking for sushi in Roanoke, Virginia? Check out Ben Gu..."
+description: "Relaxed, stylish Japanese restaurant offering a variety of sushi, plus teriyaki, udon & bento boxes. Ben Gui Sushi serves delicious sushi in Roanoke, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJd66bl8YMTYgRTuemx0gYodE
 photos:
   - name: >-

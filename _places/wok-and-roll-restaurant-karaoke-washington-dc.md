@@ -9,7 +9,7 @@ seo:
   name: "Wok and Roll Restaurant Karaoke"
   type: Restaurant
   links: https://www.wokandrolldc.com/
-description: "Casual spot featuring Chinese & Japanese fare, weekday happy hours & private karaoke rooms. Looking for sushi in Washington, District of Columbia? Check out ..."
+description: "Casual spot featuring Chinese & Japanese fare, weekday happy hours & private karaoke rooms. Wok and Roll Restaurant Karaoke serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXyx03o23t4kR4yjB3SO7mC8
 photos:
   - name: >-

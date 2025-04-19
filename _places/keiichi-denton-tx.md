@@ -9,7 +9,7 @@ seo:
   name: "Keiichi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Denton, Texas? Check out Keiichi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Keiichi serves delicious sushi in Denton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs2j7dYnKTYYRyjbGeH0EOTk
 photos:
   - name: >-

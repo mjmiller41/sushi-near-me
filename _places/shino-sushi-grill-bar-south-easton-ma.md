@@ -9,7 +9,7 @@ seo:
   name: "Shino Sushi.Grill.Bar"
   type: Restaurant
   links: https://www.shino-restaurant.com/
-description: "Looking for sushi in South Easton, Massachusetts? Check out Shino Sushi.Grill.Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Shino Sushi.Grill.Bar serves delicious sushi in South Easton, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZ_DzB1yP5IkR9ePx7CrLEd0
 photos:
   - name: >-

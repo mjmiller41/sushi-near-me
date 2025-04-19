@@ -9,7 +9,7 @@ seo:
   name: "Ryu Sushi & Teppanyaki"
   type: Restaurant
   links: null
-description: "Looking for sushi in Gilbert, Arizona? Check out Ryu Sushi & Teppanyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Ryu Sushi & Teppanyaki serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhVQDqXasK4cR47nEhDrIYw8
 photos:
   - name: >-

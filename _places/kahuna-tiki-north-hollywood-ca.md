@@ -9,7 +9,7 @@ seo:
   name: "Kahuna Tiki"
   type: Restaurant
   links: null
-description: "Looking for sushi in North Hollywood, California? Check out Kahuna Tiki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Kahuna Tiki serves delicious sushi in North Hollywood, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTwdXbvOVwoARomqCBB1qJHA
 photos:
   - name: >-

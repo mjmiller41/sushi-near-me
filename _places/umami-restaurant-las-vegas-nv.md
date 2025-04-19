@@ -9,7 +9,7 @@ seo:
   name: "Umami Restaurant"
   type: Restaurant
   links: https://www.dragonfactories.com/umami
-description: "Looking for sushi in Las Vegas, Nevada? Check out Umami Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Umami Restaurant serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx3lNelWTyIAR2rIoHYUkGnU
 photos:
   - name: >-

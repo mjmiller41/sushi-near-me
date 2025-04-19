@@ -9,7 +9,7 @@ seo:
   name: "Ichi Sushi"
   type: Restaurant
   links: https://www.ichisushigreensboro.com/
-description: "Looking for sushi in Greensboro, North Carolina? Check out Ichi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Ichi Sushi serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9VXR9IscU4gRWmp6hNaghZw
 photos:
   - name: >-

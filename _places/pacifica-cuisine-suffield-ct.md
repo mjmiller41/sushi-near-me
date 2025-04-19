@@ -9,7 +9,7 @@ seo:
   name: "Pacifica Cuisine"
   type: Restaurant
   links: null
-description: "Looking for sushi in Suffield, Connecticut? Check out Pacifica Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Pacifica Cuisine serves delicious sushi in Suffield, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoR_CrML85okR0IwP3CothbQ
 photos:
   - name: >-

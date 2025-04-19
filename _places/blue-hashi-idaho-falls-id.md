@@ -9,7 +9,7 @@ seo:
   name: "Blue Hashi"
   type: Restaurant
   links: https://bluehashisushi.com/
-description: "Looking for sushi in Idaho Falls, Idaho? Check out Blue Hashi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Blue Hashi serves delicious sushi in Idaho Falls, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOaKkICJfVFMRsAjDTJUuQ9A
 photos:
   - name: >-

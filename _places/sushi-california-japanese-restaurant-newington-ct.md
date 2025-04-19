@@ -9,7 +9,7 @@ seo:
   name: "Sushi california Japanese Restaurant"
   type: Restaurant
   links: http://sushicaliforniact.com/
-description: "Simple eatery turning out sushi & sashimi, plus cooked Japanese classics like katsu & teppanyaki. Looking for sushi in Newington, Connecticut? Check out Sush..."
+description: "Simple eatery turning out sushi & sashimi, plus cooked Japanese classics like katsu & teppanyaki. Sushi california Japanese Restaurant serves delicious sushi in Newington, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJHc4nKIiy54kRICN8Ejz1xks
 photos:
   - name: >-

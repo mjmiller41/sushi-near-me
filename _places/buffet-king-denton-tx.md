@@ -9,7 +9,7 @@ seo:
   name: "Buffet King"
   type: Restaurant
   links: null
-description: "Looking for sushi in Denton, Texas? Check out Buffet King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Buffet King serves delicious sushi in Denton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5b47UybLTYYR6kkB36HLs7I
 photos:
   - name: >-

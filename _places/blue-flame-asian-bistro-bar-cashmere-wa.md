@@ -9,7 +9,7 @@ seo:
   name: "Blue Flame Asian Bistro & Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cashmere, Washington? Check out Blue Flame Asian Bistro & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Blue Flame Asian Bistro & Bar serves delicious sushi in Cashmere, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAWLOTdNKmlQRBnG07WgNZ9c
 photos:
   - name: >-

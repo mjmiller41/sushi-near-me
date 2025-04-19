@@ -9,7 +9,7 @@ seo:
   name: "Ban Ban Asian Bistro"
   type: Restaurant
   links: http://www.banbanasian.com/
-description: "Looking for sushi in Abington, Pennsylvania? Check out Ban Ban Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Ban Ban Asian Bistro serves delicious sushi in Abington, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2ce-HU-wxokRq4LlVmZjTXI
 photos:
   - name: >-

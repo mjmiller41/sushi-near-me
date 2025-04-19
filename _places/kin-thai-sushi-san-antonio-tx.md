@@ -9,7 +9,7 @@ seo:
   name: "Kin Thai & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Antonio, Texas? Check out Kin Thai & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Kin Thai & Sushi serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcQ03oAdlXIYRhfGC4fi9xmA
 photos:
   - name: >-

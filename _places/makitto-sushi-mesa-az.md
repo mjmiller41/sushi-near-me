@@ -9,7 +9,7 @@ seo:
   name: "Makitto Sushi"
   type: Restaurant
   links: https://makittosushiaz.wixsite.com/makitto-sushi
-description: "Looking for sushi in Mesa, Arizona? Check out Makitto Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Makitto Sushi serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ33zWFiwIK4cRthFGMgG-eDg
 photos:
   - name: >-

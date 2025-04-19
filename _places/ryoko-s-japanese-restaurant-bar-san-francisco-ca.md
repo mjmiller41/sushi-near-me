@@ -9,7 +9,7 @@ seo:
   name: "Ryoko's Japanese Restaurant & Bar"
   type: Restaurant
   links: https://www.ryokos-sf.com/
-description: "Compact, woodsy Japanese bar & restaurant offering a long sushi menu & draft beers. Looking for sushi in San Francisco, California? Check out Ryoko's Japanes..."
+description: "Compact, woodsy Japanese bar & restaurant offering a long sushi menu & draft beers. Ryoko's Japanese Restaurant & Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJUem7D46AhYARYUQXakltDSo
 photos:
   - name: >-

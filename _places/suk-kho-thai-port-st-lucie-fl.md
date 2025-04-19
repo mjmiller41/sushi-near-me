@@ -9,7 +9,7 @@ seo:
   name: "Suk Kho Thai"
   type: Restaurant
   links: null
-description: "Looking for sushi in Port St. Lucie, Florida? Check out Suk Kho Thai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Suk Kho Thai serves delicious sushi in Port St. Lucie, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW6HYI_Xt3ogRGjNJ_gl_918
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ran"
   type: Restaurant
   links: https://sushiran.com/
-description: "Looking for sushi in Sausalito, California? Check out Sushi Ran for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Ran serves delicious sushi in Sausalito, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC_5gglGEhYARrdLFpYh7ruo
 photos:
   - name: >-

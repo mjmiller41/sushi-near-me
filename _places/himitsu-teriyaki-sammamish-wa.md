@@ -9,7 +9,7 @@ seo:
   name: "Himitsu Teriyaki"
   type: Restaurant
   links: null
-description: "Looking for sushi in Sammamish, Washington? Check out Himitsu Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Himitsu Teriyaki serves delicious sushi in Sammamish, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn6_nXilukFQRRdUqWSpvR-8
 photos:
   - name: >-

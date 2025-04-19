@@ -9,7 +9,7 @@ seo:
   name: "Little Sakana All You Can Eat Sushi"
   type: Restaurant
   links: https://www.littlesakana.com/
-description: "Airy outpost offering a la carte & all-you-can-eat options for Japanese fare, plus sake & cocktails. Looking for sushi in San Diego, California? Check out Li..."
+description: "Airy outpost offering a la carte & all-you-can-eat options for Japanese fare, plus sake & cocktails. Little Sakana All You Can Eat Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsVfULDT524ARZEiOpgSLZBA
 photos:
   - name: >-

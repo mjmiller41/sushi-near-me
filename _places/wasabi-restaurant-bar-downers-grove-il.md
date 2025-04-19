@@ -9,7 +9,7 @@ seo:
   name: "Wasabi Restaurant & Bar"
   type: Restaurant
   links: https://www.wasabidownersgrove.com/?utm_source=google&utm_medium=website
-description: "Looking for sushi in Downers Grove, Illinois? Check out Wasabi Restaurant & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Wasabi Restaurant & Bar serves delicious sushi in Downers Grove, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8RW5CWNPDogRKM7XtTpyM9c
 photos:
   - name: >-

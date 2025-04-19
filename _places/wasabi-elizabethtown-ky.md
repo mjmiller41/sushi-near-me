@@ -9,7 +9,7 @@ seo:
   name: "Wasabi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Elizabethtown, Kentucky? Check out Wasabi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Wasabi serves delicious sushi in Elizabethtown, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCWWgBJnpaIgRk-9MUw9Nxlk
 photos:
   - name: >-

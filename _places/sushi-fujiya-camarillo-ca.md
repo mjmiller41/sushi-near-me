@@ -9,7 +9,7 @@ seo:
   name: "Sushi Fujiya"
   type: Restaurant
   links: https://m.facebook.com/pages/Sushi-Fujiya/121783931165695
-description: "Looking for sushi in Camarillo, California? Check out Sushi Fujiya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Fujiya serves delicious sushi in Camarillo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSwnMQhs26IARR9z5F0T67-0
 photos:
   - name: >-

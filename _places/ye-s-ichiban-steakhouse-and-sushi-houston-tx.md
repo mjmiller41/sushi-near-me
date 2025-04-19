@@ -9,7 +9,7 @@ seo:
   name: "Ye's Ichiban Steakhouse and Sushi"
   type: Restaurant
   links: https://yesichibanjapanese.com/
-description: "Looking for sushi in Houston, Texas? Check out Ye's Ichiban Steakhouse and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Ye's Ichiban Steakhouse and Sushi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsa3Djy7RQIYR9SpOmWcHV8o
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Umi Kitchen and Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Spokane, Washington? Check out Umi Kitchen and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Umi Kitchen and Sushi Bar serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJof4Aa1wYnlQRNb2W2W_ROkY
 photos:
   - name: >-

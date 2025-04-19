@@ -9,7 +9,7 @@ seo:
   name: "Sushi Haru"
   type: Restaurant
   links: https://www.sushiharukc.com/#/
-description: "Shopping-center sushi joint with a big menu of hand rolls, sashimi, maki & nigiri, plus bento boxes. Looking for sushi in Kansas City, Missouri? Check out Su..."
+description: "Shopping-center sushi joint with a big menu of hand rolls, sashimi, maki & nigiri, plus bento boxes. Sushi Haru serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwcoaa3zCwIcRHFISp46EU1M
 photos:
   - name: >-

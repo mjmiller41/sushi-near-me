@@ -9,7 +9,7 @@ seo:
   name: "Sushi Tomi"
   type: Restaurant
   links: http://www.sushitomiorlando.com/
-description: "Familiar Japanese restaurant & sushi bar offering a full menu including other Japanese specialties. Looking for sushi in Orlando, Florida? Check out Sushi To..."
+description: "Familiar Japanese restaurant & sushi bar offering a full menu including other Japanese specialties. Sushi Tomi serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJQ83xudV954gRnaZsKRtLWbg
 photos:
   - name: >-

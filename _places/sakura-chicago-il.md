@@ -9,7 +9,7 @@ seo:
   name: "Sakura"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Sakura for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Sakura serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7ySYHZvSD4gRgWCPHvWJ5Os
 photos:
   - name: >-

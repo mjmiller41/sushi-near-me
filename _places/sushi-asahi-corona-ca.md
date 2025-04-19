@@ -9,7 +9,7 @@ seo:
   name: "Sushi Asahi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Corona, California? Check out Sushi Asahi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Asahi serves delicious sushi in Corona, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVyPNw5O33IARwVwjvW8Qf1Y
 photos:
   - name: >-

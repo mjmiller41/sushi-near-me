@@ -9,7 +9,7 @@ seo:
   name: "Kabuki Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cerritos, California? Check out Kabuki Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Kabuki Japanese Restaurant serves delicious sushi in Cerritos, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6QXn7Z8t3YARLqr2YLU9Vkw
 photos:
   - name: >-

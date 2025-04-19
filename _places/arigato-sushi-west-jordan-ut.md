@@ -9,7 +9,7 @@ seo:
   name: "Arigato Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in West Jordan, Utah? Check out Arigato Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Arigato Sushi serves delicious sushi in West Jordan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKbb5roqJUocRbW5Pxqf2AJw
 photos:
   - name: >-

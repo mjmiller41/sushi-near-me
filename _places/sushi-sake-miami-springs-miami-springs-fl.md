@@ -9,7 +9,7 @@ seo:
   name: "Sushi Sake Miami Springs"
   type: Restaurant
   links: null
-description: "Looking for sushi in Miami Springs, Florida? Check out Sushi Sake Miami Springs for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Sushi Sake Miami Springs serves delicious sushi in Miami Springs, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk_ue2Qe72YgRZ2lBHVcRJwI
 photos:
   - name: >-

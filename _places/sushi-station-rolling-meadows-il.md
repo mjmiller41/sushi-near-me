@@ -9,7 +9,7 @@ seo:
   name: "Sushi Station"
   type: Restaurant
   links: null
-description: "Looking for sushi in Rolling Meadows, Illinois? Check out Sushi Station for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi Station serves delicious sushi in Rolling Meadows, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2VM72w6wD4gRX9ofcI4zkCc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Matsuhisa Denver"
   type: Restaurant
   links: https://www.matsuhisarestaurants.com/home/denver
-description: "Looking for sushi in Denver, Colorado? Check out Matsuhisa Denver for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Matsuhisa Denver serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq6r-G5p-bIcRvEcBmWPjIoo
 photos:
   - name: >-

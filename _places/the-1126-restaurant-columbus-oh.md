@@ -9,7 +9,7 @@ seo:
   name: "The 1126 Restaurant"
   type: Restaurant
   links: https://www.the1126restaurant.com/
-description: "Hot & cold starters, grilled fare, tempura & sushi highlight the menu at this modern Japanese spot. Looking for sushi in Columbus, Ohio? Check out The 1126 R..."
+description: "Hot & cold starters, grilled fare, tempura & sushi highlight the menu at this modern Japanese spot. The 1126 Restaurant serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgyQ_EvOPOIgRkbYGFy-pbkc
 photos:
   - name: >-

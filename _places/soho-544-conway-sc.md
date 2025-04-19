@@ -9,7 +9,7 @@ seo:
   name: "Soho 544"
   type: Restaurant
   links: https://soho544.ordering.ordercounter.com/
-description: "Looking for sushi in Conway, South Carolina? Check out Soho 544 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Soho 544 serves delicious sushi in Conway, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCUNa7DITAIkReCub6Ro6tYU
 photos:
   - name: >-

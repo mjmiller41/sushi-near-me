@@ -9,7 +9,7 @@ seo:
   name: "Osaka Sushi & Fresh Fruit Smoothies"
   type: Restaurant
   links: http://www.osaka2go.com/
-description: "Counter-serve restaurant serving sushi, smoothies & bubble teas in a small, simple space. Looking for sushi in Chicago, Illinois? Check out Osaka Sushi & Fre..."
+description: "Counter-serve restaurant serving sushi, smoothies & bubble teas in a small, simple space. Osaka Sushi & Fresh Fruit Smoothies serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKYy9QKIsDogRwugOgMR561M
 photos:
   - name: >-

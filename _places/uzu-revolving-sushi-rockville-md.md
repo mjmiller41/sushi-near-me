@@ -9,7 +9,7 @@ seo:
   name: "UZU Revolving Sushi"
   type: Restaurant
   links: http://www.uzu-sushi.com/
-description: "Looking for sushi in Rockville, Maryland? Check out UZU Revolving Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "UZU Revolving Sushi serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJMwnoAADNt4kR6qrR6uihPAs
 photos:
   - name: >-

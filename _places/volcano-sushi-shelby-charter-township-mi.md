@@ -9,7 +9,7 @@ seo:
   name: "Volcano Sushi"
   type: Restaurant
   links: null
-description: "Little Japanese restaurant serving sushi & kitchen entrees in a quaint strip-mall storefront. Looking for sushi in Shelby Charter Township, Michigan? Check o..."
+description: "Little Japanese restaurant serving sushi & kitchen entrees in a quaint strip-mall storefront. Volcano Sushi serves delicious sushi in Shelby Charter Township, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5ej6iXTeJIgROekQYOWMRDI
 photos:
   - name: >-

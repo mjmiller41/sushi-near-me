@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Sushi and Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in South Salt Lake, Utah? Check out Ichiban Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Ichiban Sushi and Grill serves delicious sushi in South Salt Lake, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUySktHqIUocRkBFFpX_9nyM
 photos:
   - name: >-

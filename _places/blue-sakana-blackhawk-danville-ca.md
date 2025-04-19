@@ -9,7 +9,7 @@ seo:
   name: "Blue Sakana Blackhawk"
   type: Restaurant
   links: https://bluesakanablackhawk.com/contact/
-description: "Looking for sushi in Danville, California? Check out Blue Sakana Blackhawk for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Blue Sakana Blackhawk serves delicious sushi in Danville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlzHETzfyj4AR-hT8V2EUlZI
 photos:
   - name: >-

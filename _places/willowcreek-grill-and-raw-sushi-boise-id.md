@@ -9,7 +9,7 @@ seo:
   name: "Willowcreek Grill and Raw Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Boise, Idaho? Check out Willowcreek Grill and Raw Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Willowcreek Grill and Raw Sushi serves delicious sushi in Boise, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEQr0VAv4rlQR7wZkG9eQ2lc
 photos:
   - name: >-

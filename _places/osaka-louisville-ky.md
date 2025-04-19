@@ -9,7 +9,7 @@ seo:
   name: "Osaka"
   type: Restaurant
   links: null
-description: "One of a small chain of casual Japanese eateries known for a selection of traditional sushi fare. Looking for sushi in Louisville, Kentucky? Check out Osaka ..."
+description: "One of a small chain of casual Japanese eateries known for a selection of traditional sushi fare. Osaka serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJRV-GzD5zaYgR2O7nFVtgykY
 photos:
   - name: >-

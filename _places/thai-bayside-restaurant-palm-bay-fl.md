@@ -9,7 +9,7 @@ seo:
   name: "Thai Bayside Restaurant"
   type: Restaurant
   links: https://www.thaibayside.com/
-description: "Looking for sushi in Palm Bay, Florida? Check out Thai Bayside Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Thai Bayside Restaurant serves delicious sushi in Palm Bay, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJgURcMexy3ogRY25dKMU22ho
 photos:
   - name: >-

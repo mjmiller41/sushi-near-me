@@ -9,7 +9,7 @@ seo:
   name: "Sushi Maeda"
   type: Restaurant
   links: http://www.sushimaedavt.com/
-description: "Looking for sushi in Burlington, Vermont? Check out Sushi Maeda for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Maeda serves delicious sushi in Burlington, Vermont. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJLVkd4YR7ykwRen8_sxO8JL0
 photos:
   - name: >-

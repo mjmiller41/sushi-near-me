@@ -9,7 +9,7 @@ seo:
   name: "Tomo Sushi & Teriyaki"
   type: Restaurant
   links: null
-description: "Straightforward pick for a large variety of creative rolls & hearty portions of classic Asian eats. Looking for sushi in Daly City, California? Check out Tom..."
+description: "Straightforward pick for a large variety of creative rolls & hearty portions of classic Asian eats. Tomo Sushi & Teriyaki serves delicious sushi in Daly City, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbzxsjEB8j4ARKzKIS39vhbQ
 photos:
   - name: >-

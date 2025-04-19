@@ -9,7 +9,7 @@ seo:
   name: "O'Sushi Japanese Restaurant Dearborn"
   type: Restaurant
   links: null
-description: "Looking for sushi in Dearborn, Michigan? Check out O'Sushi Japanese Restaurant Dearborn for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "O'Sushi Japanese Restaurant Dearborn serves delicious sushi in Dearborn, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-zfFF3hKO4gRQ4Ef1T2W6qw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sada Sushi & Izakaya"
   type: Restaurant
   links: http://www.sadasushi.com/
-description: "Looking for sushi in Corvallis, Oregon? Check out Sada Sushi & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sada Sushi & Izakaya serves delicious sushi in Corvallis, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrzQgg-tAwFQR-DA93mEWa4E
 photos:
   - name: >-

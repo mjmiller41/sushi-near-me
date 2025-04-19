@@ -9,7 +9,7 @@ seo:
   name: "Yo Fresh - Shogun Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ridgewood, New York? Check out Yo Fresh - Shogun Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Yo Fresh - Shogun Sushi serves delicious sushi in Ridgewood, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL2s9iEtdwokRsR1qHECOgPg
 photos:
   - name: >-

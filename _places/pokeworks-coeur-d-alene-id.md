@@ -9,7 +9,7 @@ seo:
   name: "Pokeworks"
   type: Restaurant
   links: null
-description: "Looking for sushi in Coeur d'Alene, Idaho? Check out Pokeworks for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Pokeworks serves delicious sushi in Coeur d'Alene, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSZ21m0bBYVMRVeYsbgnII1I
 photos:
   - name: >-

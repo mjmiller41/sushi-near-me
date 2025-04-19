@@ -9,7 +9,7 @@ seo:
   name: "reHARU Sushi"
   type: Restaurant
   links: https://m.facebook.com/reharusushi/
-description: "Looking for sushi in Anchorage, Alaska? Check out reHARU Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "reHARU Sushi serves delicious sushi in Anchorage, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM6YhhjKYyFYR6P9YYWQ229s
 photos:
   - name: >-

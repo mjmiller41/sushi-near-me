@@ -9,7 +9,7 @@ seo:
   name: "Sakura Ramen Orlando"
   type: Restaurant
   links: null
-description: "Looking for sushi in Orlando, Florida? Check out Sakura Ramen Orlando for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Sakura Ramen Orlando serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnbqgbtl_54gR70e7Up8Pr9I
 photos:
   - name: >-

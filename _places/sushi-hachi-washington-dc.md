@@ -9,7 +9,7 @@ seo:
   name: "Sushi Hachi"
   type: Restaurant
   links: http://www.sushihachidc.com/
-description: "Clever maki, unique cocktails & imported wines in a stylish, brick-lined space with a relaxed vibe. Looking for sushi in Washington, District of Columbia? Ch..."
+description: "Clever maki, unique cocktails & imported wines in a stylish, brick-lined space with a relaxed vibe. Sushi Hachi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-QXZ3My5t4kRVtWtEPPtsv4
 photos:
   - >-

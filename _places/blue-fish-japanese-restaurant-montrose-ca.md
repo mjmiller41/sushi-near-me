@@ -9,7 +9,7 @@ seo:
   name: "Blue Fish Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Montrose, California? Check out Blue Fish Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Blue Fish Japanese Restaurant serves delicious sushi in Montrose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDdEjfg3qwoARzqorel80tT4
 photos:
   - name: >-

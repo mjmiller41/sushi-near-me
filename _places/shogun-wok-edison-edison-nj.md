@@ -9,7 +9,7 @@ seo:
   name: "Shogun Wok Edison"
   type: Restaurant
   links: null
-description: "Looking for sushi in Edison, New Jersey? Check out Shogun Wok Edison for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Shogun Wok Edison serves delicious sushi in Edison, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnyhPvGy2w4kRng53c7RlEY0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Gojira Ramen & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bishop, California? Check out Gojira Ramen & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Gojira Ramen & Sushi serves delicious sushi in Bishop, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJP_tUKZsXvoARKVKyV3WjuDE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Ocean Sushi Japanese and Thai Restaurant"
   type: Restaurant
   links: http://www.oceansushimn.com/
-description: "Looking for sushi in Winona, Minnesota? Check out Ocean Sushi Japanese and Thai Restaurant for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Ocean Sushi Japanese and Thai Restaurant serves delicious sushi in Winona, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJaz73knht-YcROepKXXJ-VvQ
 photos:
   - name: >-

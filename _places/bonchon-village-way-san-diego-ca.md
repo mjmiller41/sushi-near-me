@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Village Way"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Diego, California? Check out Bonchon Village Way for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Bonchon Village Way serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBcFqXXoJ3IARmk4awANFQuo
 photos:
   - name: >-

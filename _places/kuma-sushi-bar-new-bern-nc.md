@@ -9,7 +9,7 @@ seo:
   name: "Kuma Sushi Bar"
   type: Restaurant
   links: https://www.kumasushibar.com/
-description: "Looking for sushi in New Bern, North Carolina? Check out Kuma Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Kuma Sushi Bar serves delicious sushi in New Bern, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJpXszpyPRqIkRtqtkcSj1VPg
 photos:
   - name: >-

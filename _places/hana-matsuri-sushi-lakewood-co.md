@@ -9,7 +9,7 @@ seo:
   name: "Hana Matsuri Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lakewood, Colorado? Check out Hana Matsuri Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Hana Matsuri Sushi serves delicious sushi in Lakewood, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_zCxWPmDa4cRN1wR_ivtdoo
 photos:
   - name: >-

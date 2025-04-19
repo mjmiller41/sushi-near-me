@@ -9,7 +9,7 @@ seo:
   name: "Kura Revolving Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Houston, Texas? Check out Kura Revolving Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Kura Revolving Sushi Bar serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAwoKbG6_QIYRSlYYeR6p1OA
 photos:
   - name: >-

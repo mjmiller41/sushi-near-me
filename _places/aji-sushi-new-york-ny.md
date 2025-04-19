@@ -9,7 +9,7 @@ seo:
   name: "Aji Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Aji Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Aji Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM8c5sHRZwokRXY_g--q0wpw
 photos:
   - name: >-

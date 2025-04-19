@@ -9,7 +9,7 @@ seo:
   name: "Happy Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Palm Springs, California? Check out Happy Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Happy Sushi serves delicious sushi in Palm Springs, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM8oDa-Qb24ARclrdy7Ns1Tw
 photos:
   - name: >-

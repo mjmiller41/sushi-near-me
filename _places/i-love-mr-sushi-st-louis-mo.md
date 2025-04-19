@@ -9,7 +9,7 @@ seo:
   name: "I Love Mr Sushi"
   type: Restaurant
   links: http://mrsushistl.com/
-description: "Japanese fare from sushi to noodles is offered in this chic, ocean-themed spot with a full bar. Looking for sushi in St. Louis, Missouri? Check out I Love Mr..."
+description: "Japanese fare from sushi to noodles is offered in this chic, ocean-themed spot with a full bar. I Love Mr Sushi serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8U69T2cz34cRNrEEXhtps6U
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Royal Sushi Grill & Thai（Edgewater）"
   type: Restaurant
   links: null
-description: "Looking for sushi in Edgewater, Florida? Check out Royal Sushi Grill & Thai（Edgewater） for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Royal Sushi Grill & Thai（Edgewater） serves delicious sushi in Edgewater, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgQUvBA0t54gR9GL_4xph0Mo
 photos:
   - name: >-

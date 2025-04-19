@@ -9,7 +9,7 @@ seo:
   name: "Neko Sushi & Korean and Japanese restaurant"
   type: Restaurant
   links: https://nekosushihydepark.com/
-description: "Looking for sushi in Cincinnati, Ohio? Check out Neko Sushi & Korean and Japanese restaurant for a delightful Japanese dining experience. Enjoy a variety of ..."
+description: "Neko Sushi & Korean and Japanese restaurant serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe11UEyizQYgR4jDhvEkZhYs
 photos:
   - name: >-

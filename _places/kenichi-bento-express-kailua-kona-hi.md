@@ -9,7 +9,7 @@ seo:
   name: "KENICHI BENTO EXPRESS"
   type: Restaurant
   links: null
-description: "Looking for sushi in Kailua-Kona, Hawaii? Check out KENICHI BENTO EXPRESS for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "KENICHI BENTO EXPRESS serves delicious sushi in Kailua-Kona, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVchNjDEFVHkRdoV3rRvyElk
 photos:
   - name: >-

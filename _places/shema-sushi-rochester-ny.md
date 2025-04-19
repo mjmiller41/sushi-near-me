@@ -9,7 +9,7 @@ seo:
   name: "Shema Sushi"
   type: Restaurant
   links: https://www.shema-sushi.com/
-description: "Calm, urban nook since 2007 offering Japanese noodle dishes, along with beer & sake. Looking for sushi in Rochester, New York? Check out Shema Sushi for a de..."
+description: "Calm, urban nook since 2007 offering Japanese noodle dishes, along with beer & sake. Shema Sushi serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJbfUNDALP1okRJ3K-FQQKEgE
 photos:
   - name: >-

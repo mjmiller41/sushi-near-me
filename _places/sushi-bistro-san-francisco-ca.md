@@ -9,7 +9,7 @@ seo:
   name: "Sushi Bistro"
   type: Restaurant
   links: http://sushibistro.com/
-description: "Neighborhood Japanese spot where unusual ingredients make for twists on traditional sushi. Looking for sushi in San Francisco, California? Check out Sushi Bi..."
+description: "Neighborhood Japanese spot where unusual ingredients make for twists on traditional sushi. Sushi Bistro serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJCcINQEl-j4ARRypIXsVSEZI
 photos:
   - name: >-

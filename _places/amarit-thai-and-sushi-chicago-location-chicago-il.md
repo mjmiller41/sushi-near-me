@@ -9,7 +9,7 @@ seo:
   name: "Amarit Thai and sushi (CHICAGO Location)"
   type: Restaurant
   links: http://www.amaritthai.com/
-description: "Bright, modestly decorated Thai eatery dishing up the standards plus a handful of Chinese entrees. Looking for sushi in Chicago, Illinois? Check out Amarit T..."
+description: "Bright, modestly decorated Thai eatery dishing up the standards plus a handful of Chinese entrees. Amarit Thai and sushi (CHICAGO Location) serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJS1pmk5csDogRliHY-TThIvE
 photos:
   - name: >-

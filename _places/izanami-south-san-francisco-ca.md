@@ -9,7 +9,7 @@ seo:
   name: "Izanami"
   type: Restaurant
   links: http://izanamitogo.com/
-description: "Industrial-chic Japanese restaurant with curvy wooden booths serving sushi, ramen & yakitori. Looking for sushi in South San Francisco, California? Check out..."
+description: "Industrial-chic Japanese restaurant with curvy wooden booths serving sushi, ramen & yakitori. Izanami serves delicious sushi in South San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIyNi3655j4ARGj3IaAUfGEM
 photos:
   - name: >-

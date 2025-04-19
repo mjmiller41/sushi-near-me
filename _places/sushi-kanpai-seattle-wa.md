@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kanpai"
   type: Restaurant
   links: https://order.online/business/sushi-kanpai-24560
-description: "Looking for sushi in Seattle, Washington? Check out Sushi Kanpai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Kanpai serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqYTCVbZqkFQR5MCBYcG91Sw
 photos:
   - name: >-

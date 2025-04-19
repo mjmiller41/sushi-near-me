@@ -9,7 +9,7 @@ seo:
   name: "Sumo Sushi & Grill AYCE - Tacoma"
   type: Restaurant
   links: https://www.sumoayce.com/
-description: "Looking for sushi in Tacoma, Washington? Check out Sumo Sushi & Grill AYCE - Tacoma for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Sumo Sushi & Grill AYCE - Tacoma serves delicious sushi in Tacoma, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj562OLJVkFQR8U7DmGIJvhE
 photos:
   - name: >-

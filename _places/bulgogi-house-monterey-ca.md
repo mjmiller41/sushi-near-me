@@ -9,7 +9,7 @@ seo:
   name: "Bulgogi House"
   type: Restaurant
   links: null
-description: "Looking for sushi in Monterey, California? Check out Bulgogi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Bulgogi House serves delicious sushi in Monterey, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2YKbdiXljYARYCHNJK7NfOY
 photos:
   - name: >-

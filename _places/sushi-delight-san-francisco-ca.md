@@ -9,7 +9,7 @@ seo:
   name: "Sushi Delight"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Sushi Delight for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi Delight serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg7wKdqCAhYARBbUvZ2FivM0
 photos:
   - name: >-

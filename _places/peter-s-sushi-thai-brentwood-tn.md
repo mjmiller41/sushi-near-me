@@ -9,7 +9,7 @@ seo:
   name: "Peter's Sushi & Thai"
   type: Restaurant
   links: http://petersushi.com/
-description: "Looking for sushi in Brentwood, Tennessee? Check out Peter's Sushi & Thai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Peter's Sushi & Thai serves delicious sushi in Brentwood, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWQm3kyJ7ZIgRTJXVBhEjtGo
 photos:
   - name: >-

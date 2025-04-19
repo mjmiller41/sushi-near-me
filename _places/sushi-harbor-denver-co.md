@@ -9,7 +9,7 @@ seo:
   name: "Sushi Harbor"
   type: Restaurant
   links: https://www.sushiharborco.com/
-description: "Looking for sushi in Denver, Colorado? Check out Sushi Harbor for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Harbor serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbXjxAx58bIcRloiV8sZYjus
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sora Sushi"
   type: Restaurant
   links: https://sorasushi.menu11.com/wood/order
-description: "Looking for sushi in Woodinville, Washington? Check out Sora Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sora Sushi serves delicious sushi in Woodinville, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJuy_L3bINkFQRZYyw00bv_QM
 photos:
   - name: >-

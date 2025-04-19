@@ -9,7 +9,7 @@ seo:
   name: "Okada Japanese Restaurant & Sushi Bar"
   type: Restaurant
   links: http://www.okadajapaneserestaurant.com/
-description: "Modern spot for sushi, hibachi dishes & other Japanese food, plus a full bar with a variety of sake. Looking for sushi in Ashburn, Virginia? Check out Okada ..."
+description: "Modern spot for sushi, hibachi dishes & other Japanese food, plus a full bar with a variety of sake. Okada Japanese Restaurant & Sushi Bar serves delicious sushi in Ashburn, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIxP8OFk5tokRPu8zgJlfbTw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Daichi Sushi and Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cedar Park, Texas? Check out Daichi Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Daichi Sushi and Grill serves delicious sushi in Cedar Park, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSUi3rJotW4YRmBQaChc6vTc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Gari Japanese Fusion Bistro"
   type: Restaurant
   links: http://www.garifusion.com/
-description: "Modern Japanese & Asian fusion fare & sushi, plus a full bar, in stylish strip-mall digs. Looking for sushi in Needham, Massachusetts? Check out Gari Japanes..."
+description: "Modern Japanese & Asian fusion fare & sushi, plus a full bar, in stylish strip-mall digs. Gari Japanese Fusion Bistro serves delicious sushi in Needham, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJPWDoq6eB44kRt8_GH0Cuofo
 photos:
   - name: >-

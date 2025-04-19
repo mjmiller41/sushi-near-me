@@ -9,7 +9,7 @@ seo:
   name: "MIX - Uptown Marion"
   type: Restaurant
   links: http://mixsushikitchen.com/
-description: "Looking for sushi in Marion, Iowa? Check out MIX - Uptown Marion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "MIX - Uptown Marion serves delicious sushi in Marion, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3fApMDn35IcRvD2QC7xnbhk
 photos:
   - name: >-

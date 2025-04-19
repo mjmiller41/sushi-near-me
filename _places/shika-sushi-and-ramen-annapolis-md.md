@@ -9,7 +9,7 @@ seo:
   name: "Shika Sushi And Ramen"
   type: Restaurant
   links: http://www.shikasushimd.com/
-description: "Looking for sushi in Annapolis, Maryland? Check out Shika Sushi And Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Shika Sushi And Ramen serves delicious sushi in Annapolis, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeWyTX5P2t4kRhCjp-kYRKmA
 photos:
   - name: >-

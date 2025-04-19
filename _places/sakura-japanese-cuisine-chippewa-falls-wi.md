@@ -9,7 +9,7 @@ seo:
   name: "Sakura Japanese Cuisine"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chippewa Falls, Wisconsin? Check out Sakura Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Sakura Japanese Cuisine serves delicious sushi in Chippewa Falls, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQY6A9A2m-IcR2VF3jTlQQ84
 photos:
   - name: >-

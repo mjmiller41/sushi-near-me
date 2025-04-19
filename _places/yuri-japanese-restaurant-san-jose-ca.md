@@ -9,7 +9,7 @@ seo:
   name: "Yuri Japanese Restaurant"
   type: Restaurant
   links: http://www.yurirestaurant.com/
-description: "Looking for sushi in San Jose, California? Check out Yuri Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Yuri Japanese Restaurant serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtUD0aXQtjoARtjeY5EX2l0Y
 photos:
   - name: >-

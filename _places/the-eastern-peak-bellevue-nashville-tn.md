@@ -9,7 +9,7 @@ seo:
   name: "The Eastern Peak - Bellevue"
   type: Restaurant
   links: null
-description: "Looking for sushi in Nashville, Tennessee? Check out The Eastern Peak - Bellevue for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "The Eastern Peak - Bellevue serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj18R3fCIZIgRxsuQKlJuFhU
 photos:
   - name: >-

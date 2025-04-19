@@ -9,7 +9,7 @@ seo:
   name: "Green Dragon BBQ Restaurant 绿龙 烧烤餐厅"
   type: Restaurant
   links: null
-description: "Looking for sushi in New Milford, New Jersey? Check out Green Dragon BBQ Restaurant 绿龙 烧烤餐厅 for a delightful Japanese dining experience. Enjoy a variety of s..."
+description: "Green Dragon BBQ Restaurant 绿龙 烧烤餐厅 serves delicious sushi in New Milford, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh45XWQDxwokRnKZPEH2UCPI
 photos:
   - name: >-

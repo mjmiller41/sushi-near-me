@@ -9,7 +9,7 @@ seo:
   name: "Ebisu Restaurant"
   type: Restaurant
   links: https://ebisusushi.com/
-description: "Looking for sushi in San Francisco, California? Check out Ebisu Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Ebisu Restaurant serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ93MU4FyHhYARNsN1cMElpgo
 photos:
   - name: >-

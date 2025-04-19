@@ -9,7 +9,7 @@ seo:
   name: "Sushi By Bou- DC @ CitizenM Hotel L'enfant Plaza"
   type: Restaurant
   links: https://sushibybou.com/
-description: "Located on the roof of the CitizenM Hotel, this trendy spot pairs sushi with sake and cocktails. Looking for sushi in Washington, District of Columbia? Check..."
+description: "Located on the roof of the CitizenM Hotel, this trendy spot pairs sushi with sake and cocktails. Sushi By Bou- DC @ CitizenM Hotel L'enfant Plaza serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJg1vmeHi3t4kR6Do3a7Tq4Tc
 photos:
   - name: >-

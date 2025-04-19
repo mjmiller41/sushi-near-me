@@ -9,7 +9,7 @@ seo:
   name: "Volcano Sushi Bar & Hibachi"
   type: Restaurant
   links: http://volcanook.com/
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Volcano Sushi Bar & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Volcano Sushi Bar & Hibachi serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXQyMjq4DsocR-8avyxYL60w
 photos:
   - name: >-

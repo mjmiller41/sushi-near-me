@@ -9,7 +9,7 @@ seo:
   name: "Takka Sushi Bar & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Santee, California? Check out Takka Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Takka Sushi Bar & Grill serves delicious sushi in Santee, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlftt9lX924ARoXnrFl1ZIJ4
 photos:
   - name: >-

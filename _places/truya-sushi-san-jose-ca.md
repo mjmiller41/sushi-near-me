@@ -9,7 +9,7 @@ seo:
   name: "Truya Sushi"
   type: Restaurant
   links: https://www.truyasushisj.com/
-description: "Looking for sushi in San Jose, California? Check out Truya Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Truya Sushi serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7_FjanQtjoARZ8I4Ea2ChWU
 photos:
   - name: >-

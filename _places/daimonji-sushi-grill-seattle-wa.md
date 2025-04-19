@@ -9,7 +9,7 @@ seo:
   name: "Daimonji Sushi & Grill"
   type: Restaurant
   links: https://daimonji.square.site/
-description: "Looking for sushi in Seattle, Washington? Check out Daimonji Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Daimonji Sushi & Grill serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJz6StMetBkFQR5RQJKxw12U0
 photos:
   - name: >-

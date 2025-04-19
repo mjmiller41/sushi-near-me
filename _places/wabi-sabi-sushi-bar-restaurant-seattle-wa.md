@@ -9,7 +9,7 @@ seo:
   name: "Wabi-Sabi Sushi Bar & Restaurant"
   type: Restaurant
   links: https://wabisabicolumbiacity.com/
-description: "Looking for sushi in Seattle, Washington? Check out Wabi-Sabi Sushi Bar & Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Wabi-Sabi Sushi Bar & Restaurant serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlZZYJwxqkFQRLEcWW-c_hGY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Full Moon Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tustin, California? Check out Full Moon Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Full Moon Sushi serves delicious sushi in Tustin, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCTdFUMPb3IARrLJpekso1cM
 photos:
   - name: >-

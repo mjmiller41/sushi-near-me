@@ -9,7 +9,7 @@ seo:
   name: "SUSHI SNOB"
   type: Restaurant
   links: https://sushisnob.us/
-description: "Sushi, udon & bento boxes & many Pan-Asian dishes dispensed with speed in a compact luncheonette. Looking for sushi in Washington, District of Columbia? Chec..."
+description: "Sushi, udon & bento boxes & many Pan-Asian dishes dispensed with speed in a compact luncheonette. SUSHI SNOB serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3xiis7i3t4kRNhZc2od2_-c
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Ms. Masaki"
   type: Restaurant
   links: https://www.msmasaki.com/
-description: "Looking for sushi in Cottonwood, Arizona? Check out Ms. Masaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Ms. Masaki serves delicious sushi in Cottonwood, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ2XBd4cPLYcRcLGdEx0misY
 photos:
   - name: >-

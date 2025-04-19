@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kai - East Village"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Sushi Kai - East Village for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Sushi Kai - East Village serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-2bPmWJZwokRj-ULhLI5lh0
 photos:
   - name: >-

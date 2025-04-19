@@ -9,7 +9,7 @@ seo:
   name: "Sushi Koi"
   type: Restaurant
   links: http://sushikoiny.com/
-description: "Unpretentious place offering typical sushi & Japanese entrees, plus all-you-can-eat specials. Looking for sushi in Forest Hills, New York? Check out Sushi Ko..."
+description: "Unpretentious place offering typical sushi & Japanese entrees, plus all-you-can-eat specials. Sushi Koi serves delicious sushi in Forest Hills, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-yMKWphgwokREQmPlSl4Cjg
 photos:
   - name: >-

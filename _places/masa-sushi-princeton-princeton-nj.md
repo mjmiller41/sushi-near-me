@@ -9,7 +9,7 @@ seo:
   name: "Masa Sushi-Princeton"
   type: Restaurant
   links: null
-description: "Looking for sushi in Princeton, New Jersey? Check out Masa Sushi-Princeton for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Masa Sushi-Princeton serves delicious sushi in Princeton, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJV2nrbXzhw4kRQcai6QdNVcg
 photos:
   - name: >-

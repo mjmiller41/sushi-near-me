@@ -9,7 +9,7 @@ seo:
   name: "Kabuki Sushi & Teryaki"
   type: Restaurant
   links: null
-description: "Relaxed Japanese restaurant serving sushi, noodles, entrees & cocktails in a hip, modern space. Looking for sushi in Washington, District of Columbia? Check ..."
+description: "Relaxed Japanese restaurant serving sushi, noodles, entrees & cocktails in a hip, modern space. Kabuki Sushi & Teryaki serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJf0sxzZm3t4kR7JzFR_HwVlk
 photos:
   - name: >-

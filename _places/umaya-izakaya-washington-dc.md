@@ -9,7 +9,7 @@ seo:
   name: "Umaya Izakaya"
   type: Restaurant
   links: https://www.umayadc.com/
-description: "Japanese comfort fare like robata grills & Asian-accented cocktails in a high-energy room. Looking for sushi in Washington, District of Columbia? Check out U..."
+description: "Japanese comfort fare like robata grills & Asian-accented cocktails in a high-energy room. Umaya Izakaya serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlWC6bJG3t4kRgVLUK6CRrbA
 photos:
   - name: >-

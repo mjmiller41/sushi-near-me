@@ -9,7 +9,7 @@ seo:
   name: "Hello Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fullerton, California? Check out Hello Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Hello Sushi serves delicious sushi in Fullerton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs5SSAwDW3IARGAPfCiasvfA
 photos:
   - name: >-

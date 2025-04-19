@@ -9,7 +9,7 @@ seo:
   name: "Sansu Sushi and Cocktails"
   type: Restaurant
   links: http://www.sansu-sushi.com/
-description: "Looking for sushi in East Lansing, Michigan? Check out Sansu Sushi and Cocktails for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Sansu Sushi and Cocktails serves delicious sushi in East Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoUMb9pfCIogREsFLu8wbi0I
 photos:
   - name: >-

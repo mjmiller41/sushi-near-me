@@ -9,7 +9,7 @@ seo:
   name: "Poke King - Northwest"
   type: Restaurant
   links: null
-description: "Looking for sushi in Reno, Nevada? Check out Poke King - Northwest for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Poke King - Northwest serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtY91ypVGmYARRtxfd9fiosE
 photos:
   - name: >-

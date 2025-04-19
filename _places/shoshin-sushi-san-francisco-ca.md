@@ -9,7 +9,7 @@ seo:
   name: "Shoshin Sushi"
   type: Restaurant
   links: https://www.shoshinsushi.com/
-description: "Looking for sushi in San Francisco, California? Check out Shoshin Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Shoshin Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh2ztUceHhYARDUiV7CU1sGQ
 photos:
   - name: >-

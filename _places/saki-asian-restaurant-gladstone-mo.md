@@ -9,7 +9,7 @@ seo:
   name: "Saki Asian Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Gladstone, Missouri? Check out Saki Asian Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Saki Asian Restaurant serves delicious sushi in Gladstone, Missouri. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkbf167z3wIcRy4DxTBv97ek
 photos:
   - name: >-

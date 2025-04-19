@@ -9,7 +9,7 @@ seo:
   name: "Wabi on Rose"
   type: Restaurant
   links: https://www.wabionrose.com/
-description: "Looking for sushi in Venice, California? Check out Wabi on Rose for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Wabi on Rose serves delicious sushi in Venice, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCezw1kK7woARKAQBxgyXgdc
 photos:
   - name: >-

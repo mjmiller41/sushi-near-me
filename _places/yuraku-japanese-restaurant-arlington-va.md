@@ -9,7 +9,7 @@ seo:
   name: "Yuraku Japanese Restaurant"
   type: Restaurant
   links: http://www.yurakusushiarlington.com/
-description: "Looking for sushi in Arlington, Virginia? Check out Yuraku Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Yuraku Japanese Restaurant serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8dag0XG3t4kRBIianbwn-3Q
 photos:
   - name: >-

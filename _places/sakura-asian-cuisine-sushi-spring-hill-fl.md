@@ -9,7 +9,7 @@ seo:
   name: "Sakura Asian Cuisine & Sushi"
   type: Restaurant
   links: http://www.sakuraspringhillfl.com/
-description: "Chinese hot plates & Japanese sushi menu & hibachi with lunch specials & casual, modern interiors. Looking for sushi in Spring Hill, Florida? Check out Sakur..."
+description: "Chinese hot plates & Japanese sushi menu & hibachi with lunch specials & casual, modern interiors. Sakura Asian Cuisine & Sushi serves delicious sushi in Spring Hill, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJq9QuhjqgwogRFiBkSzCi8zw
 photos:
   - name: >-

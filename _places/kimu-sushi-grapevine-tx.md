@@ -9,7 +9,7 @@ seo:
   name: "Kimu Sushi"
   type: Restaurant
   links: http://orderkimusushi.com/
-description: "Looking for sushi in Grapevine, Texas? Check out Kimu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Kimu Sushi serves delicious sushi in Grapevine, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJT8PoQD8rTIYRZugwcw1fiaE
 photos:
   - name: >-

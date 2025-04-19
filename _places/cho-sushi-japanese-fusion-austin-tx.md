@@ -9,7 +9,7 @@ seo:
   name: "Cho Sushi Japanese Fusion"
   type: Restaurant
   links: http://choaustin.com/
-description: "Looking for sushi in Austin, Texas? Check out Cho Sushi Japanese Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Cho Sushi Japanese Fusion serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWcQU-rI2W4YRXMinifixE8A
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Fin's Sushi & Grill"
   type: Restaurant
   links: http://www.finsboston.com/
-description: "Looking for sushi in Brighton, Massachusetts? Check out Fin's Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Fin's Sushi & Grill serves delicious sushi in Brighton, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN0-HelF444kRohdHRSj45jg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Shima Sushi"
   type: Restaurant
   links: http://www.shimasushionline.com/
-description: "Sushi, noodles & other traditional Japanese delicacies plated in a chill, low-lit setting. Looking for sushi in New York, New York? Check out Shima Sushi for..."
+description: "Sushi, noodles & other traditional Japanese delicacies plated in a chill, low-lit setting. Shima Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9VmvaVNZwokRTwIQfnrX5l4
 photos:
   - name: >-

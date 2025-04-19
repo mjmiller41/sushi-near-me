@@ -9,7 +9,7 @@ seo:
   name: "Hawaii Sushi"
   type: Restaurant
   links: https://hawaii-sushi.square.site/
-description: "Looking for sushi in Honolulu, Hawaii? Check out Hawaii Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Hawaii Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsbry8nxyAHwRnXRDGIlIrpU
 photos:
   - name: >-

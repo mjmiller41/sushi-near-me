@@ -9,7 +9,7 @@ seo:
   name: "Sushi Pop Restaurant"
   type: Restaurant
   links: http://sushipoprestaurant.com/
-description: "Japanese restaurant & sushi bar boasts an innovative menu & contemporary design. Looking for sushi in Oviedo, Florida? Check out Sushi Pop Restaurant for a d..."
+description: "Japanese restaurant & sushi bar boasts an innovative menu & contemporary design. Sushi Pop Restaurant serves delicious sushi in Oviedo, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJcfaipnBp54gRwjBAhT1hBTo
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "SUSHINOLA Sushi y Marisco estilo Sinaloa."
   type: Restaurant
   links: http://sushinolakent.com/
-description: "Looking for sushi in Kent, Washington? Check out SUSHINOLA Sushi y Marisco estilo Sinaloa. for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "SUSHINOLA Sushi y Marisco estilo Sinaloa. serves delicious sushi in Kent, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEcQkoDRakFQRgosC_NdBn3k
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Longboard Tacos"
   type: Restaurant
   links: null
-description: "Looking for sushi in Colorado Springs, Colorado? Check out Longboard Tacos for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Longboard Tacos serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq4ahZ1NNE4cR4Xx7tszD7u4
 photos:
   - name: >-

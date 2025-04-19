@@ -9,7 +9,7 @@ seo:
   name: "Hangar Kitchen + Bar"
   type: Restaurant
   links: https://www.hangarkitchenandbarstl.com/
-description: "Sushi & tacos, plus handcrafted cocktails, draft beer & champagne presented in a stylish setting. Looking for sushi in St. Louis, Missouri? Check out Hangar ..."
+description: "Sushi & tacos, plus handcrafted cocktails, draft beer & champagne presented in a stylish setting. Hangar Kitchen + Bar serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJff5FK2HL2IcRlbK5PgqBz-s
 photos:
   - name: >-

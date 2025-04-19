@@ -9,7 +9,7 @@ seo:
   name: "Sushi Xtreme"
   type: Restaurant
   links: https://www.sushixtreme.net/
-description: "Looking for sushi in Wilmington, Delaware? Check out Sushi Xtreme for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Xtreme serves delicious sushi in Wilmington, Delaware. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMwredh8Ax4kRTgkfYmhsBEw
 photos:
   - name: >-

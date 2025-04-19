@@ -9,7 +9,7 @@ seo:
   name: "Kissho Sushi"
   type: Restaurant
   links: https://smorefood.com/order-online/kissho-sushi-sparks-89434-jpv3od7s?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Sparks, Nevada? Check out Kissho Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Kissho Sushi serves delicious sushi in Sparks, Nevada. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJtXZTujg_mYARJY1cCe6gELg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Lounge"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hoboken, New Jersey? Check out Sushi Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Lounge serves delicious sushi in Hoboken, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiw2E3OFZwokRO0K8w8WyomY
 photos:
   - name: >-

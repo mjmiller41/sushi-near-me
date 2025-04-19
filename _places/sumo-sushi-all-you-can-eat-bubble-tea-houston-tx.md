@@ -9,7 +9,7 @@ seo:
   name: "Sumo Sushi All You Can Eat & Bubble Tea"
   type: Restaurant
   links: http://www.sumosushihouston.com/
-description: "Looking for sushi in Houston, Texas? Check out Sumo Sushi All You Can Eat & Bubble Tea for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Sumo Sushi All You Can Eat & Bubble Tea serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVfDeQWjRQIYR5Pv28CYUMtY
 photos:
   - name: >-

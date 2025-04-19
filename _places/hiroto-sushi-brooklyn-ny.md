@@ -9,7 +9,7 @@ seo:
   name: "Hiroto Sushi"
   type: Restaurant
   links: http://www.hirotosushi.com/
-description: "Looking for sushi in Brooklyn, New York? Check out Hiroto Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Hiroto Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ02b0ulbwokRW5ZY7MMGwI8
 photos:
   - name: >-

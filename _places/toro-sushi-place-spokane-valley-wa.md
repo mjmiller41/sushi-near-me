@@ -9,7 +9,7 @@ seo:
   name: "Toro Sushi Place"
   type: Restaurant
   links: https://www.facebook.com/torosushispokane/
-description: "Looking for sushi in Spokane Valley, Washington? Check out Toro Sushi Place for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Toro Sushi Place serves delicious sushi in Spokane Valley, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI7iql4TfYVMRNWjnv1AP4_Y
 photos:
   - name: >-

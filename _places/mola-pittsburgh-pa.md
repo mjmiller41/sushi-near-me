@@ -9,7 +9,7 @@ seo:
   name: "Mola"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pittsburgh, Pennsylvania? Check out Mola for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Mola serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPWcNTYrzNIgR37erh1gupOE
 photos:
   - name: >-

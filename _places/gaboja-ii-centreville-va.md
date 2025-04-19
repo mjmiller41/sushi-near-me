@@ -9,7 +9,7 @@ seo:
   name: "Gaboja II"
   type: Restaurant
   links: https://www.centrevillegaboja.com/
-description: "Looking for sushi in Centreville, Virginia? Check out Gaboja II for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Gaboja II serves delicious sushi in Centreville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ29QbjNVFtokRByJoLJnJcMo
 photos:
   - name: >-

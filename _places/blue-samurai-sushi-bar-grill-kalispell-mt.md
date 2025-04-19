@@ -9,7 +9,7 @@ seo:
   name: "Blue Samurai Sushi Bar & Grill"
   type: Restaurant
   links: https://www.bluesamuraimt.com/
-description: "Modern setting for Japanese appetizers, sushi & rolls including vegan options & some noodles. Looking for sushi in Kalispell, Montana? Check out Blue Samurai..."
+description: "Modern setting for Japanese appetizers, sushi & rolls including vegan options & some noodles. Blue Samurai Sushi Bar & Grill serves delicious sushi in Kalispell, Montana. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJDdd21MFQZlMRzgG5Imd2kx4
 photos:
   - name: >-

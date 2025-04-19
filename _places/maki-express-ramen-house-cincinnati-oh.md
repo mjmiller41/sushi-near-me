@@ -9,7 +9,7 @@ seo:
   name: "Maki Express Ramen House"
   type: Restaurant
   links: https://makiexpresscincinnati.com/
-description: "Looking for sushi in Cincinnati, Ohio? Check out Maki Express Ramen House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Maki Express Ramen House serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJW-JqKwCzQYgRfbeEL3wikyI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Otani"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Otani for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Otani serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb198a_lbwokRyJ4xmOr8kQE
 photos:
   - name: >-

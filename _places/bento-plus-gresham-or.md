@@ -9,7 +9,7 @@ seo:
   name: "Bento Plus"
   type: Restaurant
   links: null
-description: "Looking for sushi in Gresham, Oregon? Check out Bento Plus for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Bento Plus serves delicious sushi in Gresham, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQfxE7FaYlVQRTbe_82sdCeY
 photos:
   - name: >-

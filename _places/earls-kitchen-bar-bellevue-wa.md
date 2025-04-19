@@ -9,7 +9,7 @@ seo:
   name: "Earls Kitchen + Bar"
   type: Restaurant
   links: https://www.earls.ca/locations/bellevue
-description: "Looking for sushi in Bellevue, Washington? Check out Earls Kitchen + Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Earls Kitchen + Bar serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkTtnrYhskFQRuAW_QTilgLQ
 photos:
   - name: >-

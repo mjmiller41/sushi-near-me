@@ -9,7 +9,7 @@ seo:
   name: "Yamame"
   type: Restaurant
   links: http://www.yamamersm.com/
-description: "Looking for sushi in Rancho Santa Margarita, California? Check out Yamame for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Yamame serves delicious sushi in Rancho Santa Margarita, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ9Sir7hzr3IARNi0kRHih6XI
 photos:
   - name: >-

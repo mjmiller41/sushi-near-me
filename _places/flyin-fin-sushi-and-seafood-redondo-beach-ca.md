@@ -9,7 +9,7 @@ seo:
   name: "Flyin Fin Sushi and Seafood"
   type: Restaurant
   links: http://flyinfin.com/
-description: "Looking for sushi in Redondo Beach, California? Check out Flyin Fin Sushi and Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Flyin Fin Sushi and Seafood serves delicious sushi in Redondo Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYbSDRldL3YARTTOIqq4xnoE
 photos:
   - name: >-

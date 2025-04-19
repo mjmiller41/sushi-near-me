@@ -9,7 +9,7 @@ seo:
   name: "Hibachi Buffet"
   type: Restaurant
   links: null
-description: "Looking for sushi in Deerfield Beach, Florida? Check out Hibachi Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Hibachi Buffet serves delicious sushi in Deerfield Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7RNStFgc2YgROWSdvz6KKjE
 photos:
   - name: >-

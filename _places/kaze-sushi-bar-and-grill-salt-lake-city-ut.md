@@ -9,7 +9,7 @@ seo:
   name: "Kaze Sushi Bar and Grill"
   type: Restaurant
   links: http://kazesushiut.com/menu
-description: "Looking for sushi in Salt Lake City, Utah? Check out Kaze Sushi Bar and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Kaze Sushi Bar and Grill serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeb0vv1f1UocRn_0_KML_xGI
 photos:
   - name: >-

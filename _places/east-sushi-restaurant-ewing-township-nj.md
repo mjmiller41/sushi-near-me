@@ -9,7 +9,7 @@ seo:
   name: "East Sushi Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ewing Township, New Jersey? Check out East Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "East Sushi Restaurant serves delicious sushi in Ewing Township, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH1O4EudXwYkRAB8qaHXa1Fs
 photos:
   - name: >-

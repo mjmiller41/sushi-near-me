@@ -9,7 +9,7 @@ seo:
   name: "Drunken Fish sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Drunken Fish sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Drunken Fish sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJObtZqly7woARY87mJEYfKR4
 photos:
   - name: >-

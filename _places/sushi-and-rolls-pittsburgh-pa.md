@@ -9,7 +9,7 @@ seo:
   name: "Sushi and Rolls"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pittsburgh, Pennsylvania? Check out Sushi and Rolls for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Sushi and Rolls serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6XpPWDvxNIgRy_iCBCIKULs
 photos:
   - name: >-

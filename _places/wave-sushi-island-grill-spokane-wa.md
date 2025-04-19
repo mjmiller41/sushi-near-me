@@ -9,7 +9,7 @@ seo:
   name: "Wave Sushi Island Grill"
   type: Restaurant
   links: http://www.wavesushiislandgrill.com/
-description: "Looking for sushi in Spokane, Washington? Check out Wave Sushi Island Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Wave Sushi Island Grill serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRSmfE2EYnlQRjAhA-58BZzE
 photos:
   - name: >-

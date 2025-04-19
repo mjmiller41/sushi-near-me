@@ -9,7 +9,7 @@ seo:
   name: "J Sushi Orange"
   type: Restaurant
   links: null
-description: "Looking for sushi in Orange, California? Check out J Sushi Orange for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "J Sushi Orange serves delicious sushi in Orange, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8b7oYNDZ3IARA9WD6aLGkkg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Trapper's Sushi - Parkland"
   type: Restaurant
   links: null
-description: "Looking for sushi in Parkland, Washington? Check out Trapper's Sushi - Parkland for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Trapper's Sushi - Parkland serves delicious sushi in Parkland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtUuWxYcBkVQR78MUcnSaQPw
 photos:
   - name: >-

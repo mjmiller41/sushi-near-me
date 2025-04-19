@@ -9,7 +9,7 @@ seo:
   name: "Osaka Fire Japanese Steakhouse & Seafood"
   type: Restaurant
   links: null
-description: "Looking for sushi in Odessa, Texas? Check out Osaka Fire Japanese Steakhouse & Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Osaka Fire Japanese Steakhouse & Seafood serves delicious sushi in Odessa, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6W8qZr3P-4YR7t0DDBU8iGA
 photos:
   - name: >-

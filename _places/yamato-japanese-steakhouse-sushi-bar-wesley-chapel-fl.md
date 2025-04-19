@@ -9,7 +9,7 @@ seo:
   name: "Yamato Japanese Steakhouse & Sushi Bar"
   type: Restaurant
   links: http://www.yamatowesleychapel.com/
-description: "Looking for sushi in Wesley Chapel, Florida? Check out Yamato Japanese Steakhouse & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of..."
+description: "Yamato Japanese Steakhouse & Sushi Bar serves delicious sushi in Wesley Chapel, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPcu5atewwogRdiC-xx-q0fU
 photos:
   - name: >-

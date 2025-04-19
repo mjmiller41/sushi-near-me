@@ -9,7 +9,7 @@ seo:
   name: "Harney Sushi"
   type: Restaurant
   links: http://www.harneysushi.com/
-description: "Modern outfit with a buzzy vibe offering creative sushi rolls & other Japanese fare. Looking for sushi in San Diego, California? Check out Harney Sushi for a..."
+description: "Modern outfit with a buzzy vibe offering creative sushi rolls & other Japanese fare. Harney Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJtzf1QN6q3oARuVMH-L_HHTs
 photos:
   - name: >-

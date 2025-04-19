@@ -9,7 +9,7 @@ seo:
   name: "Unagi Sushi"
   type: Restaurant
   links: http://www.unagitroyny.com/
-description: "A menu featuring traditional & creative sushi rolls alongside Japanese classics in a modern space. Looking for sushi in Troy, New York? Check out Unagi Sushi..."
+description: "A menu featuring traditional & creative sushi rolls alongside Japanese classics in a modern space. Unagi Sushi serves delicious sushi in Troy, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJydG02QcP3okRsO98h5vCUHY
 photos:
   - name: >-

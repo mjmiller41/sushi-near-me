@@ -9,7 +9,7 @@ seo:
   name: "Kai Sushi & Sake Bar"
   type: Restaurant
   links: http://kaisushisakebar.com/
-description: "Low-key restaurant for specialty sushi rolls, plus a variety of Japanese & Korean entrees. Looking for sushi in Raleigh, North Carolina? Check out Kai Sushi ..."
+description: "Low-key restaurant for specialty sushi rolls, plus a variety of Japanese & Korean entrees. Kai Sushi & Sake Bar serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJwe_MrOP3rIkRkzWAFA26Kt8
 photos:
   - name: >-

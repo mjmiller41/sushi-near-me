@@ -9,7 +9,7 @@ seo:
   name: "Umami Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Vernon, Connecticut? Check out Umami Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Umami Japanese Restaurant serves delicious sushi in Vernon, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb7Qhmw_35okR-E9AWfDk92s
 photos:
   - name: >-

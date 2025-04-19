@@ -9,7 +9,7 @@ seo:
   name: "Stonefish Sushi"
   type: Restaurant
   links: http://stonefishsushi.com/
-description: "Looking for sushi in Cortez, Colorado? Check out Stonefish Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Stonefish Sushi serves delicious sushi in Cortez, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp1yz8JZvOYcRIwoI8haSB-Q
 photos:
   - name: >-

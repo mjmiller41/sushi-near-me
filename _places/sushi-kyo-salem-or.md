@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kyo"
   type: Restaurant
   links: null
-description: "Looking for sushi in Salem, Oregon? Check out Sushi Kyo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "Sushi Kyo serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0Rezmdn4v1QRVTbRx-ahHAI
 photos:
   - name: >-

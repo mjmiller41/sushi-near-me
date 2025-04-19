@@ -9,7 +9,7 @@ seo:
   name: "Crazy Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Elk Grove, California? Check out Crazy Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Crazy Sushi serves delicious sushi in Elk Grove, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDyuHTEnGmoAROlg1esg1JIo
 photos:
   - name: >-

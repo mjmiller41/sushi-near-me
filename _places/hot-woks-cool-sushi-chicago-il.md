@@ -9,7 +9,7 @@ seo:
   name: "Hot Woks Cool Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Hot Woks Cool Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Hot Woks Cool Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg4i4E6QsDogRouakuQx6drU
 photos:
   - name: >-

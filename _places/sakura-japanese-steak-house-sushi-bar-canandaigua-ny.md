@@ -9,7 +9,7 @@ seo:
   name: "Sakura Japanese Steak House & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Canandaigua, New York? Check out Sakura Japanese Steak House & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of..."
+description: "Sakura Japanese Steak House & Sushi Bar serves delicious sushi in Canandaigua, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8ZRsZo0m0YkRr84zK67BH90
 photos:
   - name: >-

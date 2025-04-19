@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kingdom"
   type: Restaurant
   links: http://www.sushikingdomgreenville.com/
-description: "Looking for sushi in Greenville, South Carolina? Check out Sushi Kingdom for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Sushi Kingdom serves delicious sushi in Greenville, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8-XhkAMvWIgRVUjozs-Dnzc
 photos:
   - name: >-

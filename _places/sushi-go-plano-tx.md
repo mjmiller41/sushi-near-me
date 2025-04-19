@@ -9,7 +9,7 @@ seo:
   name: "Sushi Go"
   type: Restaurant
   links: null
-description: "Looking for sushi in Plano, Texas? Check out Sushi Go for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Sushi Go serves delicious sushi in Plano, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-8TePMoiTIYRGzcXI2gMqW0
 photos:
   - name: >-

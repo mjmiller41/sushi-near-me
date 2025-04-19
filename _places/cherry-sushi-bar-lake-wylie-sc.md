@@ -9,7 +9,7 @@ seo:
   name: "Cherry Sushi Bar"
   type: Restaurant
   links: https://cherrysushiandhibachi.com/
-description: "Looking for sushi in Lake Wylie, South Carolina? Check out Cherry Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Cherry Sushi Bar serves delicious sushi in Lake Wylie, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcRsLGnqNVogRto5mQt2f8Ro
 photos:
   - name: >-

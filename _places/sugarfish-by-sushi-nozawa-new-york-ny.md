@@ -9,7 +9,7 @@ seo:
   name: "SUGARFISH by sushi nozawa"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out SUGARFISH by sushi nozawa for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "SUGARFISH by sushi nozawa serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe6Yde7VZwokRVbeUmR3iKfs
 photos:
   - name: >-

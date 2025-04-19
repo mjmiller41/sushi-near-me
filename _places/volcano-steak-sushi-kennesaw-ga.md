@@ -9,7 +9,7 @@ seo:
   name: "Volcano Steak & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Kennesaw, Georgia? Check out Volcano Steak & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Volcano Steak & Sushi serves delicious sushi in Kennesaw, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTd-nN2UV9YgR_vP0_lhOAGA
 photos:
   - name: >-

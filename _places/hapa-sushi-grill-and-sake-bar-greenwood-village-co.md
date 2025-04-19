@@ -9,7 +9,7 @@ seo:
   name: "Hapa Sushi Grill and Sake Bar"
   type: Restaurant
   links: http://hapasushi.com/
-description: "Looking for sushi in Greenwood Village, Colorado? Check out Hapa Sushi Grill and Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "Hapa Sushi Grill and Sake Bar serves delicious sushi in Greenwood Village, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5yHUc_qGbIcR8tPhhiXeNl4
 photos:
   - name: >-

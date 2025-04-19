@@ -9,7 +9,7 @@ seo:
   name: "Rockin' Rolls Sushi"
   type: Restaurant
   links: https://www.rockinrollssushi.com/
-description: "Looking for sushi in Raleigh, North Carolina? Check out Rockin' Rolls Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Rockin' Rolls Sushi serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM2_tBO5XrIkR06SVSGIp_7U
 photos:
   - name: >-

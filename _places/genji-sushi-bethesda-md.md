@@ -9,7 +9,7 @@ seo:
   name: "Genji Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bethesda, Maryland? Check out Genji Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Genji Sushi serves delicious sushi in Bethesda, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8WFgjLfLt4kR4mTaACZ3T94
 photos: null
 address: 5269 River Rd, Bethesda, MD 20816, USA

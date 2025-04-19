@@ -9,7 +9,7 @@ seo:
   name: "Good Time Sushi"
   type: Restaurant
   links: https://www.goodtimesushiny.com/
-description: "Looking for sushi in Manlius, New York? Check out Good Time Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Good Time Sushi serves delicious sushi in Manlius, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyfv5aa2O2YkRyO67Yd9bKBU
 photos:
   - name: >-

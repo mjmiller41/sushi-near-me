@@ -9,7 +9,7 @@ seo:
   name: "Wasabi House"
   type: Restaurant
   links: http://wasabihouse9988.com/
-description: "Looking for sushi in East Brunswick, New Jersey? Check out Wasabi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Wasabi House serves delicious sushi in East Brunswick, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2-58b2vPw4kRvJ8qsEupUmw
 photos:
   - name: >-

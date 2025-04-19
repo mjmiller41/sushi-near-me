@@ -9,7 +9,7 @@ seo:
   name: "The Basil Leaf Sushi and Thai Restaurant"
   type: Restaurant
   links: http://www.lovethaibasil.com/
-description: "Looking for sushi in High Point, North Carolina? Check out The Basil Leaf Sushi and Thai Restaurant for a delightful Japanese dining experience. Enjoy a vari..."
+description: "The Basil Leaf Sushi and Thai Restaurant serves delicious sushi in High Point, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3dfiG-IFU4gRs62aSPabENw
 photos:
   - name: >-

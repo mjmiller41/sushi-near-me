@@ -9,7 +9,7 @@ seo:
   name: "Taste of Tokyo"
   type: Restaurant
   links: https://www.clover.com/online-ordering/taste--of-tokyo-buffalo-grove
-description: "Casual restaurant featuring sushi delivered by floating boats, plus cooked Japanese dishes. Looking for sushi in Buffalo Grove, Illinois? Check out Taste of ..."
+description: "Casual restaurant featuring sushi delivered by floating boats, plus cooked Japanese dishes. Taste of Tokyo serves delicious sushi in Buffalo Grove, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2RICfKq-D4gRQKofOGcCqB8
 photos:
   - name: >-

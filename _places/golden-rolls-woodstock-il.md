@@ -9,7 +9,7 @@ seo:
   name: "Golden Rolls"
   type: Restaurant
   links: http://www.goldenrollssushi.com/
-description: "Chill Japanese bistro with a bar featuring creative sushi rolls, noodle dishes & teriyaki entrees. Looking for sushi in Woodstock, Illinois? Check out Golden..."
+description: "Chill Japanese bistro with a bar featuring creative sushi rolls, noodle dishes & teriyaki entrees. Golden Rolls serves delicious sushi in Woodstock, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJP7v519ZrD4gRHdSJyDJyc1k
 photos:
   - name: >-

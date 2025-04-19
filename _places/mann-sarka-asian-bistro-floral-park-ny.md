@@ -9,7 +9,7 @@ seo:
   name: "MANN SARKA Asian Bistro"
   type: Restaurant
   links: https://www.mannsarkafloral.com/
-description: "Looking for sushi in Floral Park, New York? Check out MANN SARKA Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "MANN SARKA Asian Bistro serves delicious sushi in Floral Park, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJISPf3K5jwokR3cvB91MXGiQ
 photos:
   - name: >-

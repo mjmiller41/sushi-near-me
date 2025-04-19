@@ -9,7 +9,7 @@ seo:
   name: "bluemaki sushi by HARBOUR"
   type: Restaurant
   links: https://bluemakisushi.com/
-description: "Looking for sushi in Palmdale, California? Check out bluemaki sushi by HARBOUR for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "bluemaki sushi by HARBOUR serves delicious sushi in Palmdale, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJZ4saLEJZwoAR6kpTRc7U0v0
 photos:
   - name: >-

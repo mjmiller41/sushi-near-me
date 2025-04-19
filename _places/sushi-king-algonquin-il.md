@@ -9,7 +9,7 @@ seo:
   name: "Sushi King"
   type: Restaurant
   links: https://www.sushiking2.com/
-description: "Looking for sushi in Algonquin, Illinois? Check out Sushi King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi King serves delicious sushi in Algonquin, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJTXspY_gND4gR_wZylVxpGis
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Hashi Sushi"
   type: Restaurant
   links: http://www.hashisushict.com/
-description: "Looking for sushi in New Canaan, Connecticut? Check out Hashi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Hashi Sushi serves delicious sushi in New Canaan, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUyvHpg2nwokRrY18P4gU84g
 photos:
   - name: >-

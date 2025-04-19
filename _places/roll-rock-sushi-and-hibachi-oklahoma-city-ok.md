@@ -9,7 +9,7 @@ seo:
   name: "Roll & Rock Sushi and Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Roll & Rock Sushi and Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Roll & Rock Sushi and Hibachi serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj1HZjdAasocRXlMlJI0dV34
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Little Madfish"
   type: Restaurant
   links: http://littlemadfishrwc.com/
-description: "Sushi rolls, bento box meals, ramen & other Japanese fare round out the menu at this snug fixture. Looking for sushi in Redwood City, California? Check out L..."
+description: "Sushi rolls, bento box meals, ramen & other Japanese fare round out the menu at this snug fixture. Little Madfish serves delicious sushi in Redwood City, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJg0Iyv7Kjj4AR3fWZ0B-Nhio
 photos:
   - name: >-

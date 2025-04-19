@@ -9,7 +9,7 @@ seo:
   name: "KA Sushi"
   type: Restaurant
   links: https://www.kasushi.com/
-description: "Looking for sushi in Houston, Texas? Check out KA Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "KA Sushi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbRSAzG3HQIYRfJ40p4-T1X4
 photos:
   - name: >-

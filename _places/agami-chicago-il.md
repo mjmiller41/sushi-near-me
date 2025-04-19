@@ -9,7 +9,7 @@ seo:
   name: "Agami"
   type: Restaurant
   links: http://www.agamisushi.com/
-description: "Chic sushi restaurant dishing creative rolls with a large bar pouring cocktails & Japanese beers. Looking for sushi in Chicago, Illinois? Check out Agami for..."
+description: "Chic sushi restaurant dishing creative rolls with a large bar pouring cocktails & Japanese beers. Agami serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJQZNALy3SD4gR0W9TjFPledA
 photos:
   - name: >-

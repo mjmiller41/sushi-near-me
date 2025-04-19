@@ -9,7 +9,7 @@ seo:
   name: "Poke Poku - Hawaiian Poke Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Las Vegas, Nevada? Check out Poke Poku - Hawaiian Poke Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Poke Poku - Hawaiian Poke Bar serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw3CHojjOyIARdpOD_oaZmCg
 photos:
   - name: >-

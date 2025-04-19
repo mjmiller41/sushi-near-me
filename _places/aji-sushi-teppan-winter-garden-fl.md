@@ -9,7 +9,7 @@ seo:
   name: "Aji Sushi Teppan"
   type: Restaurant
   links: http://www.ajisushi.com/
-description: "Contemporary Japanese gathering spot featuring made-to-order sushi, teppanyaki meals & cocktails. Looking for sushi in Winter Garden, Florida? Check out Aji ..."
+description: "Contemporary Japanese gathering spot featuring made-to-order sushi, teppanyaki meals & cocktails. Aji Sushi Teppan serves delicious sushi in Winter Garden, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-Q_bt-6D54gRRl_IqEKJ_MI
 photos:
   - name: >-

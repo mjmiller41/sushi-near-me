@@ -9,7 +9,7 @@ seo:
   name: "Sushi king Asian Fusion"
   type: Restaurant
   links: https://www.sushikingoh.com/
-description: "Looking for sushi in Columbus, Ohio? Check out Sushi king Asian Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sushi king Asian Fusion serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZz99Y86POIgRQG3qGey_S6g
 photos:
   - name: >-

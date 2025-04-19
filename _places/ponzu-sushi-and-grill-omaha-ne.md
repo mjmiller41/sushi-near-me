@@ -9,7 +9,7 @@ seo:
   name: "Ponzu Sushi and Grill"
   type: Restaurant
   links: https://www.ponzusushiandgrill.com/
-description: "Trendy spot for contemporary takes on sushi, Asian  Fusion grilled plates & stylish cocktails. Looking for sushi in Omaha, Nebraska? Check out Ponzu Sushi an..."
+description: "Trendy spot for contemporary takes on sushi, Asian  Fusion grilled plates & stylish cocktails. Ponzu Sushi and Grill serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJv6Y3BFKMk4cRLPMrSI3pOjY
 photos:
   - name: >-

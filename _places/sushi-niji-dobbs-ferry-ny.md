@@ -9,7 +9,7 @@ seo:
   name: "Sushi Niji"
   type: Restaurant
   links: http://www.73sushiniji.com/
-description: "Looking for sushi in Dobbs Ferry, New York? Check out Sushi Niji for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Niji serves delicious sushi in Dobbs Ferry, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtWjEgfXtwokRFAyvbEigIWI
 photos:
   - name: >-

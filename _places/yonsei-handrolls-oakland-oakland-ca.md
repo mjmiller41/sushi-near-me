@@ -9,7 +9,7 @@ seo:
   name: "Yonsei Handrolls - Oakland"
   type: Restaurant
   links: https://www.yonseihandrolls.com/
-description: "Looking for sushi in Oakland, California? Check out Yonsei Handrolls - Oakland for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Yonsei Handrolls - Oakland serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgUhKz2aBj4ARuN4px709pHY
 photos:
   - name: >-

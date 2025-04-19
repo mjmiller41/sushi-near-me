@@ -9,7 +9,7 @@ seo:
   name: "Eastern Palace"
   type: Restaurant
   links: https://www.toasttab.com/eastern-palace-2206-columbia-ave/v3
-description: "Looking for sushi in Lancaster, Pennsylvania? Check out Eastern Palace for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Eastern Palace serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8a5-R50mxokRsIBCQj1UuVQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mikado Sushi | Japanese Restaurant"
   type: Restaurant
   links: https://santamariamikado.com/
-description: "Looking for sushi in Santa Maria, California? Check out Mikado Sushi | Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Mikado Sushi | Japanese Restaurant serves delicious sushi in Santa Maria, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfR2xNYBr7IARZpToKRmOA4Y
 photos:
   - name: >-

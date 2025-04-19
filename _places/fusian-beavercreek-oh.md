@@ -9,7 +9,7 @@ seo:
   name: "FUSIAN"
   type: Restaurant
   links: null
-description: "Looking for sushi in Beavercreek, Ohio? Check out FUSIAN for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "FUSIAN serves delicious sushi in Beavercreek, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxwkznWCcQIgR3hmX76bfJOI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Hiroba Sushi"
   type: Restaurant
   links: http://hirobasushinv.com/
-description: "Looking for sushi in Sparks, Nevada? Check out Hiroba Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Hiroba Sushi serves delicious sushi in Sparks, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI-1XA7k-mYAR-vHkVFou5BI
 photos:
   - name: >-

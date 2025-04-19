@@ -9,7 +9,7 @@ seo:
   name: "Sushi Iwa Apex"
   type: Restaurant
   links: http://sushiiwabistro.com/
-description: "Looking for sushi in Apex, North Carolina? Check out Sushi Iwa Apex for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi Iwa Apex serves delicious sushi in Apex, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9xRGuSqTrIkR7IVRn4tf_Lk
 photos:
   - name: >-

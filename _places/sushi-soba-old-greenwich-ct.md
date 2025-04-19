@@ -9,7 +9,7 @@ seo:
   name: "Sushi Soba"
   type: Restaurant
   links: http://sushisobagreenwich.com/
-description: "Looking for sushi in Old Greenwich, Connecticut? Check out Sushi Soba for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Sushi Soba serves delicious sushi in Old Greenwich, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ18w7KGeZwokREFtlbpVKzdA
 photos:
   - name: >-

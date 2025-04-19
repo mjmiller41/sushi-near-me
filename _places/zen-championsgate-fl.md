@@ -9,7 +9,7 @@ seo:
   name: "Zen"
   type: Restaurant
   links: null
-description: "Looking for sushi in Championsgate, Florida? Check out Zen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Zen serves delicious sushi in Championsgate, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp-0DdUd63YgRXOh_MS_Dd1U
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi by M-East 5th st"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Sushi by M-East 5th st for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Sushi by M-East 5th st serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk2lnfqxZwokR33xBYJtyR_E
 photos:
   - name: >-

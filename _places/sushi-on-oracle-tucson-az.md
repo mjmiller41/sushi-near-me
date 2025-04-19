@@ -9,7 +9,7 @@ seo:
   name: "Sushi on Oracle"
   type: Restaurant
   links: https://www.sushionoracletucson.com/
-description: "Looking for sushi in Tucson, Arizona? Check out Sushi on Oracle for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi on Oracle serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVQb5yGxz1oYR_Fm911G7QKk
 photos:
   - name: >-

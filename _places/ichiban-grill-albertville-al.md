@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Albertville, Alabama? Check out Ichiban Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Ichiban Grill serves delicious sushi in Albertville, Alabama. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ17Jjis8CiogRbPttLG5BDgk
 photos:
   - name: >-

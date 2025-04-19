@@ -9,7 +9,7 @@ seo:
   name: "DELSUSHI"
   type: Restaurant
   links: https://www.delsushiorder.com/
-description: "Focused menu of sushi rolls from basic to deluxe offered for takeout or delivery only. Looking for sushi in La Jolla, California? Check out DELSUSHI for a de..."
+description: "Focused menu of sushi rolls from basic to deluxe offered for takeout or delivery only. DELSUSHI serves delicious sushi in La Jolla, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZwtuB84G3IARWhwYN_9SiQs
 photos:
   - name: >-

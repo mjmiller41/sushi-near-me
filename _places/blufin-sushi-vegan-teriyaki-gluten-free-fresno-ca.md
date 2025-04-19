@@ -9,7 +9,7 @@ seo:
   name: "blufin sushi Vegan Teriyaki & Gluten Free"
   type: Restaurant
   links: http://www.blufinsushifresno.com/
-description: "Looking for sushi in Fresno, California? Check out blufin sushi Vegan Teriyaki & Gluten Free for a delightful Japanese dining experience. Enjoy a variety of ..."
+description: "blufin sushi Vegan Teriyaki & Gluten Free serves delicious sushi in Fresno, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9wv3r1NdlIARpMQRXTwvrSk
 photos:
   - name: >-

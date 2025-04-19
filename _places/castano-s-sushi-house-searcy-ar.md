@@ -9,7 +9,7 @@ seo:
   name: "Castano's Sushi House"
   type: Restaurant
   links: https://www.facebook.com/CastanosHouse?mibextid=LQQJ4d
-description: "Looking for sushi in Searcy, Arkansas? Check out Castano's Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Castano's Sushi House serves delicious sushi in Searcy, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzcx3f_Kp04cRQj3CZE2cHHY
 photos:
   - name: >-

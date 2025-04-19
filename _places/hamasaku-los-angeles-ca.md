@@ -9,7 +9,7 @@ seo:
   name: "Hamasaku"
   type: Restaurant
   links: http://www.hamasakula.com/
-description: "Looking for sushi in Los Angeles, California? Check out Hamasaku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Hamasaku serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ6G-cHe7woARm0tCODdUL6U
 photos:
   - name: >-

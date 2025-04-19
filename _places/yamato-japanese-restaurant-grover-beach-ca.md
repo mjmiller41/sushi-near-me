@@ -9,7 +9,7 @@ seo:
   name: "Yamato Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Grover Beach, California? Check out Yamato Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Yamato Japanese Restaurant serves delicious sushi in Grover Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEVnDxrde7IARuX5d3IG_qb8
 photos:
   - name: >-

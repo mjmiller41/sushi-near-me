@@ -9,7 +9,7 @@ seo:
   name: "What the Fish"
   type: Restaurant
   links: https://whatthefishsushi.godaddysites.com/menu
-description: "Looking for sushi in Los Angeles, California? Check out What the Fish for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "What the Fish serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxZTPQcnAwoAR8fOdMs57a1Q
 photos:
   - name: >-

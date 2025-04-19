@@ -9,7 +9,7 @@ seo:
   name: "Zeppin Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Encino, California? Check out Zeppin Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Zeppin Sushi serves delicious sushi in Encino, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ33hsmaOZwoARsotuPOwW_dA
 photos:
   - name: >-

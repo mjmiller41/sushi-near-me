@@ -9,7 +9,7 @@ seo:
   name: "Karma"
   type: Restaurant
   links: https://www.karmaconcord.com/
-description: "Restaurant serving Pan-Asian fare & French-influenced sushi in a trendy space with a bar. Looking for sushi in Concord, Massachusetts? Check out Karma for a ..."
+description: "Restaurant serving Pan-Asian fare & French-influenced sushi in a trendy space with a bar. Karma serves delicious sushi in Concord, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXVhfvEGa44kRNl17dyMYpOw
 photos:
   - name: >-

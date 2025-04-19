@@ -9,7 +9,7 @@ seo:
   name: "Kuyi Sushi Japanese Restaurant"
   type: Restaurant
   links: https://www.kuyisushi.com/
-description: "Looking for sushi in Cromwell, Connecticut? Check out Kuyi Sushi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Kuyi Sushi Japanese Restaurant serves delicious sushi in Cromwell, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJd_gPim1L5okRSkSw0Ew-7-8
 photos:
   - name: >-

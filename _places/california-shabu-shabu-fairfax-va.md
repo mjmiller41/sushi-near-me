@@ -9,7 +9,7 @@ seo:
   name: "California Shabu Shabu"
   type: Restaurant
   links: https://www.calishabu.com/
-description: "Looking for sushi in Fairfax, Virginia? Check out California Shabu Shabu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "California Shabu Shabu serves delicious sushi in Fairfax, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6-WUOnVMtokRSAxsnM7vWBQ
 photos:
   - name: >-

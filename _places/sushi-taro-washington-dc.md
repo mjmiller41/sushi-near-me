@@ -9,7 +9,7 @@ seo:
   name: "Sushi Taro"
   type: Restaurant
   links: http://www.sushitaro.com/
-description: "High-end sushi spot with chef's choice dinners, bento-box lunch specials, sake & sho-chu. Looking for sushi in Washington, District of Columbia? Check out Su..."
+description: "High-end sushi spot with chef's choice dinners, bento-box lunch specials, sake & sho-chu. Sushi Taro serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJxSAeOsG3t4kR0DMcgNu5kVQ
 photos:
   - name: >-

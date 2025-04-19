@@ -9,7 +9,7 @@ seo:
   name: "Masa Sushi & Grill"
   type: Restaurant
   links: http://www.masasushiandgrill.com/
-description: "Looking for sushi in Allendale, New Jersey? Check out Masa Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Masa Sushi & Grill serves delicious sushi in Allendale, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjRQrbovjwokR7qxYH84Cvz0
 photos:
   - name: >-

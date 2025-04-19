@@ -9,7 +9,7 @@ seo:
   name: "Sushi Bay"
   type: Restaurant
   links: http://sushibaymiami.com/
-description: "Looking for sushi in Palmetto Bay, Florida? Check out Sushi Bay for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Bay serves delicious sushi in Palmetto Bay, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG4w6J3HF2YgRleKwfuB0mc4
 photos:
   - name: >-

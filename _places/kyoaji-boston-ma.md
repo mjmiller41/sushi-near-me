@@ -9,7 +9,7 @@ seo:
   name: "Kyoaji"
   type: Restaurant
   links: http://www.kyoajiallston.com/
-description: "Looking for sushi in Boston, Massachusetts? Check out Kyoaji for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Kyoaji serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ20Jovjh544kRRNcEV-hlOsQ
 photos:
   - name: >-

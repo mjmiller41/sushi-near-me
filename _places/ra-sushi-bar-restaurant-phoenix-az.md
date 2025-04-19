@@ -9,7 +9,7 @@ seo:
   name: "RA Sushi Bar Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Phoenix, Arizona? Check out RA Sushi Bar Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "RA Sushi Bar Restaurant serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-yhuDkcEK4cRHL3sL5pNhOE
 photos:
   - name: >-

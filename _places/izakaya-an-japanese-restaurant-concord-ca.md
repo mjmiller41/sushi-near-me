@@ -9,7 +9,7 @@ seo:
   name: "Izakaya An Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Concord, California? Check out Izakaya An Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Izakaya An Japanese Restaurant serves delicious sushi in Concord, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWS1AEjFhhYAR9Gaq0RIp03w
 photos:
   - name: >-

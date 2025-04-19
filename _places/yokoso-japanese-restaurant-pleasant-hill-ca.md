@@ -9,7 +9,7 @@ seo:
   name: "Yokoso Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pleasant Hill, California? Check out Yokoso Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Yokoso Japanese Restaurant serves delicious sushi in Pleasant Hill, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFUdfMTlhhYARIJHjak4OWRc
 photos:
   - name: >-

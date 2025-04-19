@@ -9,7 +9,7 @@ seo:
   name: "Tazaki Sushi"
   type: Restaurant
   links: http://tazakisushisf.com/
-description: "Casual, family-owned Japanese restaurant serving sushi, noodles & cooked fare amid typical decor. Looking for sushi in San Francisco, California? Check out T..."
+description: "Casual, family-owned Japanese restaurant serving sushi, noodles & cooked fare amid typical decor. Tazaki Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfwCq65uHhYARmkkict06u5s
 photos:
   - name: >-

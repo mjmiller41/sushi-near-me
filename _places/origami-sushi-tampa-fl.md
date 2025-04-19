@@ -9,7 +9,7 @@ seo:
   name: "Origami Sushi"
   type: Restaurant
   links: https://www.origamisushirestaurant.com/#/
-description: "Bare-bones sushi outfit offering creative & traditional rolls, plus other Japanese eats. Looking for sushi in Tampa, Florida? Check out Origami Sushi for a d..."
+description: "Bare-bones sushi outfit offering creative & traditional rolls, plus other Japanese eats. Origami Sushi serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJC3zJU9nDwogRwY_md-FwzSY
 photos:
   - name: >-

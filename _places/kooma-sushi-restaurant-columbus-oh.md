@@ -9,7 +9,7 @@ seo:
   name: "Kooma Sushi Restaurant"
   type: Restaurant
   links: http://www.koomacolumbus.com/
-description: "Looking for sushi in Columbus, Ohio? Check out Kooma Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Kooma Sushi Restaurant serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvXF8mCiPOIgR8zI0quVRANo
 photos:
   - name: >-

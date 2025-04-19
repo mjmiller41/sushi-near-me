@@ -9,7 +9,7 @@ seo:
   name: "Seong's Sushi Bar"
   type: Restaurant
   links: http://www.seongssushi.com/
-description: "Looking for sushi in Juneau, Alaska? Check out Seong's Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Seong's Sushi Bar serves delicious sushi in Juneau, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmUHKeYbfAFQRVMBL-u6A5R8
 photos:
   - name: >-

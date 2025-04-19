@@ -9,7 +9,7 @@ seo:
   name: "Sushi Oishii"
   type: Restaurant
   links: https://www.sushioishii.online/order?utm_source=googlemap&utm_medium=click&utm_campaign=orderrefer&sid=752176627143851520
-description: "Mainstay with traditional, minimalist decor known for inventive sushi & Japanese fare with a twist. Looking for sushi in Rockville, Maryland? Check out Sushi..."
+description: "Mainstay with traditional, minimalist decor known for inventive sushi & Japanese fare with a twist. Sushi Oishii serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9ytUobcytokRqm_02RzPgNM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "New Han Dynasty Restaurant"
   type: Restaurant
   links: https://m.facebook.com/NewHanDynasty/
-description: "Looking for sushi in Nottingham, Maryland? Check out New Han Dynasty Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "New Han Dynasty Restaurant serves delicious sushi in Nottingham, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJE8MNyrUJyIkRb5qU9i8VY8g
 photos:
   - name: >-

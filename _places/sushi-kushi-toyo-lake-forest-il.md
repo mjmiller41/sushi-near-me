@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kushi Toyo"
   type: Restaurant
   links: http://www.sushikushitoyo.com/
-description: "Sleek, stylish Japanese option serving sushi, skewers, noodle bowls, hot entrees & bento boxes. Looking for sushi in Lake Forest, Illinois? Check out Sushi K..."
+description: "Sleek, stylish Japanese option serving sushi, skewers, noodle bowls, hot entrees & bento boxes. Sushi Kushi Toyo serves delicious sushi in Lake Forest, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ-wgBH12VD4gR145Ab6loPvE
 photos:
   - name: >-

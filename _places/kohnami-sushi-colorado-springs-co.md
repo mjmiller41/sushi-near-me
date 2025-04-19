@@ -9,7 +9,7 @@ seo:
   name: "Kohnami Sushi"
   type: Restaurant
   links: http://kohnamisushi.epipay.com/
-description: "Looking for sushi in Colorado Springs, Colorado? Check out Kohnami Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Kohnami Sushi serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL86qTr1OE4cRVxmRq4ZQJkE
 photos:
   - name: >-

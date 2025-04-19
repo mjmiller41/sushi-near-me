@@ -9,7 +9,7 @@ seo:
   name: "Aniki's Sushi"
   type: Restaurant
   links: https://anikis.menu11.com/
-description: "Looking for sushi in Fremont, California? Check out Aniki's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Aniki's Sushi serves delicious sushi in Fremont, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJuWE7qZzAj4AR-iZTdSw870A
 photos:
   - name: >-

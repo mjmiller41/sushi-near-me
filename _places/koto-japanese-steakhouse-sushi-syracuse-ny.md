@@ -9,7 +9,7 @@ seo:
   name: "Koto Japanese Steakhouse & Sushi"
   type: Restaurant
   links: http://kotodestiny.com/
-description: "Contemporary, family-friendly Japanese eatery featuring hibachi fare, sushi rolls & fusion entrees. Looking for sushi in Syracuse, New York? Check out Koto J..."
+description: "Contemporary, family-friendly Japanese eatery featuring hibachi fare, sushi rolls & fusion entrees. Koto Japanese Steakhouse & Sushi serves delicious sushi in Syracuse, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ28pIXSny2YkR-V8fMR2tLyk
 photos:
   - name: >-

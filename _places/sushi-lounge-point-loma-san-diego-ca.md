@@ -9,7 +9,7 @@ seo:
   name: "Sushi Lounge Point Loma"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Diego, California? Check out Sushi Lounge Point Loma for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Sushi Lounge Point Loma serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1f0KcKOr3oAR_AU7TIPgW6k
 photos:
   - name: >-

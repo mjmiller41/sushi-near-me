@@ -9,7 +9,7 @@ seo:
   name: "R & R Poke"
   type: Restaurant
   links: https://www.rrpokewi.com/
-description: "Looking for sushi in Wauwatosa, Wisconsin? Check out R & R Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "R & R Poke serves delicious sushi in Wauwatosa, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcxmDZwcbBYgR2O3ij9o1f6I
 photos:
   - name: >-

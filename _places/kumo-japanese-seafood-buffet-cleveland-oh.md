@@ -9,7 +9,7 @@ seo:
   name: "Kumo Japanese Seafood Buffet"
   type: Restaurant
   links: http://kumobuffet.com/
-description: "Looking for sushi in Cleveland, Ohio? Check out Kumo Japanese Seafood Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Kumo Japanese Seafood Buffet serves delicious sushi in Cleveland, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlXogkmHvMIgRGF7TvOESC5Q
 photos:
   - name: >-

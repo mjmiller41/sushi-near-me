@@ -9,7 +9,7 @@ seo:
   name: "Oyama Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Walnut Creek, California? Check out Oyama Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Oyama Sushi serves delicious sushi in Walnut Creek, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW5hHt6RhhYARbte43vXdVdg
 photos:
   - name: >-

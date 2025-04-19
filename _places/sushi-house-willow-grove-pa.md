@@ -9,7 +9,7 @@ seo:
   name: "Sushi House"
   type: Restaurant
   links: https://www.sushihouse101.com/
-description: "Looking for sushi in Willow Grove, Pennsylvania? Check out Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sushi House serves delicious sushi in Willow Grove, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5xt7ZzGwxokRRMZB6pkklt4
 photos:
   - name: >-

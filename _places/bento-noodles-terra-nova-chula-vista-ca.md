@@ -9,7 +9,7 @@ seo:
   name: "Bento & Noodles Terra Nova"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chula Vista, California? Check out Bento & Noodles Terra Nova for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Bento & Noodles Terra Nova serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKaTH0DhO2YARVR-mSOPSMR0
 photos:
   - name: >-

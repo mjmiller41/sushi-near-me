@@ -9,7 +9,7 @@ seo:
   name: "Bluefin Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Portland, Oregon? Check out Bluefin Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Bluefin Sushi Bar serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHW7X4tmglVQRFXquN891TlQ
 photos:
   - name: >-

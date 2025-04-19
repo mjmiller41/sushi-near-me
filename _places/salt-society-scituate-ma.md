@@ -9,7 +9,7 @@ seo:
   name: "Salt Society"
   type: Restaurant
   links: http://saltsocietyma.com/
-description: "Looking for sushi in Scituate, Massachusetts? Check out Salt Society for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Salt Society serves delicious sushi in Scituate, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJDyH87Ixf44kR_-GrRGxWfHA
 photos:
   - name: >-

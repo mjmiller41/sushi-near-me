@@ -9,7 +9,7 @@ seo:
   name: "Alpine Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Alpine, California? Check out Alpine Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Alpine Sushi & Grill serves delicious sushi in Alpine, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW1Utto1g2YARkZpsLXtmePk
 photos:
   - name: >-

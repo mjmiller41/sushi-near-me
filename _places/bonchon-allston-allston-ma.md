@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Allston"
   type: Restaurant
   links: https://www.bonchon.com/locations/ll/us/ma/boston/123-brighton-avenue
-description: "Looking for sushi in Allston, Massachusetts? Check out Bonchon Allston for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Bonchon Allston serves delicious sushi in Allston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE1yxCcV544kRT4VT4R6rHzM
 photos:
   - name: >-

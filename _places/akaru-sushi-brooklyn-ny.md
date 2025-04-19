@@ -9,7 +9,7 @@ seo:
   name: "Akaru Sushi"
   type: Restaurant
   links: http://www.akarusushi.com/
-description: "Compact sushi joint in a subdued, exposed-brick space serving creative rolls & Japanese mains. Looking for sushi in Brooklyn, New York? Check out Akaru Sushi..."
+description: "Compact sushi joint in a subdued, exposed-brick space serving creative rolls & Japanese mains. Akaru Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJs5wt5h5cwokRIvxftd3N908
 photos:
   - name: >-

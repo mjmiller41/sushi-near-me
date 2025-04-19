@@ -9,7 +9,7 @@ seo:
   name: "Yama Sushi House - Phoenix"
   type: Restaurant
   links: null
-description: "Looking for sushi in Phoenix, Arizona? Check out Yama Sushi House - Phoenix for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Yama Sushi House - Phoenix serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU9abh-oSK4cROkql25LNHIg
 photos:
   - name: >-

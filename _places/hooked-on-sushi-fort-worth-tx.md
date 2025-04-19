@@ -9,7 +9,7 @@ seo:
   name: "Hooked on Sushi"
   type: Restaurant
   links: http://hookedonsushitx.com/
-description: "Looking for sushi in Fort Worth, Texas? Check out Hooked on Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Hooked on Sushi serves delicious sushi in Fort Worth, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_fPzgVJzToYRLEJKJfBFlPQ
 photos:
   - name: >-

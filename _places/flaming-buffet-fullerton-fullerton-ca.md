@@ -9,7 +9,7 @@ seo:
   name: "Flaming Buffet Fullerton"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fullerton, California? Check out Flaming Buffet Fullerton for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Flaming Buffet Fullerton serves delicious sushi in Fullerton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ07DI7-HX3IAR5WhI1wxdURs
 photos:
   - name: >-

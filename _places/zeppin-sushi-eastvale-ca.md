@@ -9,7 +9,7 @@ seo:
   name: "Zeppin Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Eastvale, California? Check out Zeppin Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Zeppin Sushi serves delicious sushi in Eastvale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdXdPxUPL3IARvFCXlEq2FWg
 photos:
   - name: >-

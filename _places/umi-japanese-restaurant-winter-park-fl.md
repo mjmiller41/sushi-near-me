@@ -9,7 +9,7 @@ seo:
   name: "Umi Japanese Restaurant"
   type: Restaurant
   links: http://www.umijapaneserestaurant.com/
-description: "Looking for sushi in Winter Park, Florida? Check out Umi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Umi Japanese Restaurant serves delicious sushi in Winter Park, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdQPyXwVw54gRWJg4VHN9Qnk
 photos:
   - name: >-

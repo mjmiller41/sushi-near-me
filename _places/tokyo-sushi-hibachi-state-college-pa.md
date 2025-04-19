@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi & Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in State College, Pennsylvania? Check out Tokyo Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Tokyo Sushi & Hibachi serves delicious sushi in State College, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJuQ93hqCozokRFByYLZQn4As
 photos:
   - name: >-

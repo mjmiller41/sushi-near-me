@@ -9,7 +9,7 @@ seo:
   name: "Bay Sushi"
   type: Restaurant
   links: http://www.baysushi6brooklyn.com/
-description: "Looking for sushi in Brooklyn, New York? Check out Bay Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Bay Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHUxVSvlPwokRL9WISyRYubA
 photos:
   - name: >-

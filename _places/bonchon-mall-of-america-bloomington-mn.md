@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Mall of America"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bloomington, Minnesota? Check out Bonchon Mall of America for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Bonchon Mall of America serves delicious sushi in Bloomington, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU2MA95Uv9ocRHjIVeBWxpnc
 photos:
   - name: >-

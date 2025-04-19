@@ -9,7 +9,7 @@ seo:
   name: "sushi 99"
   type: Restaurant
   links: null
-description: "Looking for sushi in Palm Coast, Florida? Check out sushi 99 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "sushi 99 serves delicious sushi in Palm Coast, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ27GBl02U5ogRd4bmq_VoRWk
 photos:
   - name: >-

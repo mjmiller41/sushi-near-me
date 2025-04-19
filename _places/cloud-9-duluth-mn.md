@@ -9,7 +9,7 @@ seo:
   name: "Cloud 9"
   type: Restaurant
   links: null
-description: "Looking for sushi in Duluth, Minnesota? Check out Cloud 9 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Cloud 9 serves delicious sushi in Duluth, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdbL9LutSrlIRSvRHjVB-vPI
 photos:
   - name: >-

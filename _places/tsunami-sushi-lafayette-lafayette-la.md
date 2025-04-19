@@ -9,7 +9,7 @@ seo:
   name: "Tsunami Sushi Lafayette"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lafayette, Louisiana? Check out Tsunami Sushi Lafayette for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Tsunami Sushi Lafayette serves delicious sushi in Lafayette, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-R_gMYWcJIYRJQX8WqCY--g
 photos:
   - name: >-

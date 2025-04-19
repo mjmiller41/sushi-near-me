@@ -9,7 +9,7 @@ seo:
   name: "Snow Pea - Sushi, Chinese & Asian Bistro"
   type: Restaurant
   links: http://snowpeaaustin.com/
-description: "Looking for sushi in Austin, Texas? Check out Snow Pea - Sushi, Chinese & Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Snow Pea - Sushi, Chinese & Asian Bistro serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7RBIQqAyW4YRTCI-38r6QFY
 photos:
   - name: >-

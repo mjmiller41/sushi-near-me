@@ -9,7 +9,7 @@ seo:
   name: "Embers Restaurant"
   type: Restaurant
   links: http://www.embersrestaurant.com/
-description: "A warm & polished spot offering upscale surf 'n' turf & sushi as well as a happy-hour menu. Looking for sushi in Cincinnati, Ohio? Check out Embers Restauran..."
+description: "A warm & polished spot offering upscale surf 'n' turf & sushi as well as a happy-hour menu. Embers Restaurant serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJhYjua0JTQIgRR0URtswNntM
 photos:
   - name: >-

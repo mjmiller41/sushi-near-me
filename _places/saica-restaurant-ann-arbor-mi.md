@@ -9,7 +9,7 @@ seo:
   name: "Saica Restaurant"
   type: Restaurant
   links: https://saicarestaurant.square.site/
-description: "Casual, contemporary restaurant specializing in Japanese & Korean fare with a focus on sushi. Looking for sushi in Ann Arbor, Michigan? Check out Saica Resta..."
+description: "Casual, contemporary restaurant specializing in Japanese & Korean fare with a focus on sushi. Saica Restaurant serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNfSjVH6uPIgRpBjzgO2XU_Y
 photos:
   - name: >-

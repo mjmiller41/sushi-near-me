@@ -9,7 +9,7 @@ seo:
   name: "Fontana Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Littleton, Colorado? Check out Fontana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Fontana Sushi serves delicious sushi in Littleton, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSyvh1xB_a4cRG5fqg4lavEM
 photos:
   - name: >-

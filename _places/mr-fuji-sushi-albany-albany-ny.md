@@ -9,7 +9,7 @@ seo:
   name: "Mr. Fuji Sushi - Albany"
   type: Restaurant
   links: null
-description: "Looking for sushi in Albany, New York? Check out Mr. Fuji Sushi - Albany for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Mr. Fuji Sushi - Albany serves delicious sushi in Albany, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm93ICC0L3okRsqIxgoNR29s
 photos:
   - name: >-

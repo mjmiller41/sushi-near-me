@@ -9,7 +9,7 @@ seo:
   name: "Hikari Sushi Chatsworth"
   type: Restaurant
   links: http://www.hikarisushichatsworth.com/
-description: "Looking for sushi in Chatsworth, California? Check out Hikari Sushi Chatsworth for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Hikari Sushi Chatsworth serves delicious sushi in Chatsworth, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZzezjLCcwoARqmIrRjnaHPE
 photos:
   - name: >-

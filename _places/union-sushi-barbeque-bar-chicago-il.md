@@ -9,7 +9,7 @@ seo:
   name: "Union Sushi + Barbeque Bar"
   type: Restaurant
   links: https://www.eatatunion.com/
-description: "Trendy, bustling restaurant with an upscale-urban vibe & a creative take on Japanese cuisine. Looking for sushi in Chicago, Illinois? Check out Union Sushi +..."
+description: "Trendy, bustling restaurant with an upscale-urban vibe & a creative take on Japanese cuisine. Union Sushi + Barbeque Bar serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdfRT5rQsDogRUqmb4zPRIK4
 photos:
   - name: >-

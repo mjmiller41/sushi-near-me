@@ -9,7 +9,7 @@ seo:
   name: "Masa sushi"
   type: Restaurant
   links: https://masasushitogo.com/
-description: "Looking for sushi in Charlotte, North Carolina? Check out Masa sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Masa sushi serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcxKB7r6ZVogRowhIfz4SoV0
 photos:
   - name: >-

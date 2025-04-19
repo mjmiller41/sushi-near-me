@@ -9,7 +9,7 @@ seo:
   name: "Royal Thai and Sushi"
   type: Restaurant
   links: https://royalthaisushi.com/
-description: "Low-key, easygoing eatery offering Asian fusion cuisine including Thai & Japanese options. Looking for sushi in Tallahassee, Florida? Check out Royal Thai an..."
+description: "Low-key, easygoing eatery offering Asian fusion cuisine including Thai & Japanese options. Royal Thai and Sushi serves delicious sushi in Tallahassee, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZapT5wD17IgRlz5QSwftJDo
 photos:
   - name: >-

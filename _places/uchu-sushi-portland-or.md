@@ -9,7 +9,7 @@ seo:
   name: "UCHU Sushi"
   type: Restaurant
   links: http://uchusushi.com/
-description: "Looking for sushi in Portland, Oregon? Check out UCHU Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "UCHU Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrwNJUGqnlVQRx28O7kUy4Ec
 photos:
   - name: >-

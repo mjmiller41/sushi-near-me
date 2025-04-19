@@ -9,7 +9,7 @@ seo:
   name: "Masa Hibachi Steakhouse & Sushi"
   type: Restaurant
   links: https://www.masahibachisteakhousemd.com/
-description: "Looking for sushi in Silver Spring, Maryland? Check out Masa Hibachi Steakhouse & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Masa Hibachi Steakhouse & Sushi serves delicious sushi in Silver Spring, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB0BbPrrIt4kRDLhB8yjpUzQ
 photos:
   - name: >-

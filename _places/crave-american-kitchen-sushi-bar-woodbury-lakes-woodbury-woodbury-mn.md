@@ -9,7 +9,7 @@ seo:
   name: "CRAVE American Kitchen & Sushi Bar (Woodbury Lakes - Woodbury)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Woodbury, Minnesota? Check out CRAVE American Kitchen & Sushi Bar (Woodbury Lakes - Woodbury) for a delightful Japanese dining experienc..."
+description: "CRAVE American Kitchen & Sushi Bar (Woodbury Lakes - Woodbury) serves delicious sushi in Woodbury, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXxxwPRfY94cRM_dHG1Qn0fQ
 photos:
   - name: >-

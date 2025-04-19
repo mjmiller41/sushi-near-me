@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kiku"
   type: Restaurant
   links: https://www.sushikikuatlanta.com/
-description: "Informal eatery presenting Japanese entrees & sushi rolls, plus tempura cheesecake for dessert. Looking for sushi in Atlanta, Georgia? Check out Sushi Kiku f..."
+description: "Informal eatery presenting Japanese entrees & sushi rolls, plus tempura cheesecake for dessert. Sushi Kiku serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMfxHNeIF9YgRwtPLtRoN47I
 photos:
   - name: >-

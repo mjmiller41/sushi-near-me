@@ -9,7 +9,7 @@ seo:
   name: "Umai Nori"
   type: Restaurant
   links: https://umainori.com/
-description: "Looking for sushi in Washington, District of Columbia? Check out Umai Nori for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Umai Nori serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwT6Soa63t4kRD3EFbLncYZ8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Cure Bar & Bistro"
   type: Restaurant
   links: https://www.curebarandbistro.com/
-description: "Looking for sushi in Washington, District of Columbia? Check out Cure Bar & Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Cure Bar & Bistro serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSzcUXpG3t4kRbjuqpcHzbGw
 photos:
   - name: >-

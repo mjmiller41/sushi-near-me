@@ -9,7 +9,7 @@ seo:
   name: "Blue Mountain (Sushi, Bar&Lounge)"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Blue Mountain (Sushi, Bar&Lounge) for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Blue Mountain (Sushi, Bar&Lounge) serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZb2XwatZwokRuvz8YCJ5VPs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Yamato"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brighton, Massachusetts? Check out Yamato for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Yamato serves delicious sushi in Brighton, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJV11_EU5444kRav_6dp9QGt4
 photos:
   - name: >-

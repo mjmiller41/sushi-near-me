@@ -9,7 +9,7 @@ seo:
   name: "Kanpai Sushi"
   type: Restaurant
   links: https://kanpaisushicarryout.com/
-description: "Unassuming resource for takeout sushi, plus a variety of Asian grocery items & beverages. Looking for sushi in Bethesda, Maryland? Check out Kanpai Sushi for..."
+description: "Unassuming resource for takeout sushi, plus a variety of Asian grocery items & beverages. Kanpai Sushi serves delicious sushi in Bethesda, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJze3rm1rKt4kRGpNiJ6EqD4s
 photos:
   - name: >-

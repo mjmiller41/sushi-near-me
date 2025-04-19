@@ -9,7 +9,7 @@ seo:
   name: "Oishi Sushi"
   type: Restaurant
   links: https://oishisushi.godaddysites.com/
-description: "Looking for sushi in Vancouver, Washington? Check out Oishi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Oishi Sushi serves delicious sushi in Vancouver, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK_WTgJOvlVQR7QpXVBlmWyU
 photos:
   - name: >-

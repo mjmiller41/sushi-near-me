@@ -9,7 +9,7 @@ seo:
   name: "Mikaku Sushi"
   type: Restaurant
   links: https://www.mikakusushiny.com/
-description: "Intimate location serving nigiri & rolled sushi, tempura, teriyaki & other Japanese standards. Looking for sushi in New York, New York? Check out Mikaku Sush..."
+description: "Intimate location serving nigiri & rolled sushi, tempura, teriyaki & other Japanese standards. Mikaku Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJp94Aw4hZwokRPTLbr8Vw5t8
 photos:
   - name: >-

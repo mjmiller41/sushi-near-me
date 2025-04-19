@@ -9,7 +9,7 @@ seo:
   name: "Asian Spice Cafe"
   type: Restaurant
   links: http://www.asianspicecafe.com/
-description: "Laid-back Chinese eatery with booth seating & a sushi bar supplying straightforward fare. Looking for sushi in Ashburn, Virginia? Check out Asian Spice Cafe ..."
+description: "Laid-back Chinese eatery with booth seating & a sushi bar supplying straightforward fare. Asian Spice Cafe serves delicious sushi in Ashburn, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJycbE9os_tokRMSTSjBBAhJU
 photos:
   - name: >-

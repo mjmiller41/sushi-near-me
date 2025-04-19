@@ -9,7 +9,7 @@ seo:
   name: "U-Me Sushi"
   type: Restaurant
   links: https://umesushiqueens.com/
-description: "Looking for sushi in Woodhaven, New York? Check out U-Me Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "U-Me Sushi serves delicious sushi in Woodhaven, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJncjM5PxdwokR9tFh1SRh_Go
 photos:
   - name: >-

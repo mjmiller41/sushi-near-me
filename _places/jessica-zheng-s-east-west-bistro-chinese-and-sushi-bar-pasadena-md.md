@@ -9,7 +9,7 @@ seo:
   name: "Jessica Zheng's East West Bistro - Chinese And Sushi Bar"
   type: Restaurant
   links: http://www.eastwestbistro.net/
-description: "White-tablecloth restaurant serving Asian fusion fare with vegetarian options & a wine list. Looking for sushi in Pasadena, Maryland? Check out Jessica Zheng..."
+description: "White-tablecloth restaurant serving Asian fusion fare with vegetarian options & a wine list. Jessica Zheng's East West Bistro - Chinese And Sushi Bar serves delicious sushi in Pasadena, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlx5DO3n8t4kRV1cLyMevJec
 photos:
   - name: >-

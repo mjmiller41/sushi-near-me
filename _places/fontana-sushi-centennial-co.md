@@ -9,7 +9,7 @@ seo:
   name: "Fontana Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Centennial, Colorado? Check out Fontana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Fontana Sushi serves delicious sushi in Centennial, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwXDavlaJbIcRJfTCbfi4RNE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mikomi Sushi Monrovia"
   type: Restaurant
   links: null
-description: "Looking for sushi in Monrovia, California? Check out Mikomi Sushi Monrovia for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Mikomi Sushi Monrovia serves delicious sushi in Monrovia, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk18KH2rZwoARTZyjbRI8fJs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Bluefish Bistro"
   type: Restaurant
   links: https://www.bluefishbistro.com/
-description: "Looking for sushi in Arlington, Virginia? Check out Bluefish Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Bluefish Bistro serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwxXo2-O1t4kR2ivrTvS1II4
 photos:
   - name: >-

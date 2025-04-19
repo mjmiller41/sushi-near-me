@@ -9,7 +9,7 @@ seo:
   name: "Mizu Sushi Bar & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mountain View, California? Check out Mizu Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Mizu Sushi Bar & Grill serves delicious sushi in Mountain View, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbdRr8Juwj4ARRFNrtLQtGjs
 photos:
   - name: >-

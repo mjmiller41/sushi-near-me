@@ -9,7 +9,7 @@ seo:
   name: "All You Can Eat Sushi & BBQ"
   type: Restaurant
   links: http://www.sushinbbq.com/
-description: "Looking for sushi in Los Angeles, California? Check out All You Can Eat Sushi & BBQ for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "All You Can Eat Sushi & BBQ serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpzvmKPy5woARsHjQlWfEbZs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Skokie"
   type: Restaurant
   links: null
-description: "Looking for sushi in Skokie, Illinois? Check out Bonchon Skokie for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Bonchon Skokie serves delicious sushi in Skokie, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3Zf5p83PD4gRARjTYSb3qKE
 photos:
   - name: >-

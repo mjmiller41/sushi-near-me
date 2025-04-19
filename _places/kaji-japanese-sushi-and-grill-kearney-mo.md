@@ -9,7 +9,7 @@ seo:
   name: "KaJi JAPANESE SUSHI AND GRILL"
   type: Restaurant
   links: http://www.kajikearney.com/?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Kearney, Missouri? Check out KaJi JAPANESE SUSHI AND GRILL for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "KaJi JAPANESE SUSHI AND GRILL serves delicious sushi in Kearney, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJGdcW6wWtwYcRhSuDb87vZCQ
 photos:
   - name: >-

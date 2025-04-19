@@ -9,7 +9,7 @@ seo:
   name: "Azian"
   type: Restaurant
   links: http://www.aziansushi.com/
-description: "Looking for sushi in Tucson, Arizona? Check out Azian for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Azian serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ-UC8SVw1oYRt7YD0Cq70G8
 photos:
   - name: >-

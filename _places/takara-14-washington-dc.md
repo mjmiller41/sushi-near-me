@@ -9,7 +9,7 @@ seo:
   name: "Takara 14"
   type: Restaurant
   links: https://www.takara14thst.com/
-description: "Looking for sushi in Washington, District of Columbia? Check out Takara 14 for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Takara 14 serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvZlhe9K3t4kR4zsnq95xpi0
 photos:
   - name: >-

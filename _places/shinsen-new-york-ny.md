@@ -9,7 +9,7 @@ seo:
   name: "Shinsen"
   type: Restaurant
   links: http://boweryshinsen.com/
-description: "Minimalist design Japanese restaurant, sushi bar & sake lounge in Chinatown. Looking for sushi in New York, New York? Check out Shinsen for a delightful Japa..."
+description: "Minimalist design Japanese restaurant, sushi bar & sake lounge in Chinatown. Shinsen serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ__8OsCdawokRLgMZI2Ja0Mw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Orient Sushi & Grill"
   type: Restaurant
   links: http://orientsushi.com/
-description: "Looking for sushi in Gilbert, Arizona? Check out Orient Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Orient Sushi & Grill serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB_4M07qpK4cRtCdqyVsUW-U
 photos:
   - name: >-

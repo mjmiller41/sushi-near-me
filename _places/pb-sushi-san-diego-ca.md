@@ -9,7 +9,7 @@ seo:
   name: "PB Sushi"
   type: Restaurant
   links: http://www.pbsushi.net/
-description: "Casual, colorful place with a long sushi bar for sashimi, nigiri & unique maki, plus imported beer. Looking for sushi in San Diego, California? Check out PB ..."
+description: "Casual, colorful place with a long sushi bar for sashimi, nigiri & unique maki, plus imported beer. PB Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfwGsO-sB3IARgC4QersmNIA
 photos:
   - name: >-

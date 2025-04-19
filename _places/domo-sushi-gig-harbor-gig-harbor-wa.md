@@ -9,7 +9,7 @@ seo:
   name: "Domo Sushi Gig Harbor"
   type: Restaurant
   links: https://www.facebook.com/642965925768324/
-description: "Looking for sushi in Gig Harbor, Washington? Check out Domo Sushi Gig Harbor for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Domo Sushi Gig Harbor serves delicious sushi in Gig Harbor, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQSsbzsyskVQRGdGH8mgTjbI
 photos:
   - name: >-

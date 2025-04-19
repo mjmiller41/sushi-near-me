@@ -9,7 +9,7 @@ seo:
   name: "Maki Yaki 22"
   type: Restaurant
   links: https://www.makiyaki22.com/
-description: "Looking for sushi in Loma Linda, California? Check out Maki Yaki 22 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Maki Yaki 22 serves delicious sushi in Loma Linda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc8k-YZ2r3IARMLn4uhqHznE
 photos:
   - name: >-

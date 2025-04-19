@@ -9,7 +9,7 @@ seo:
   name: "Xiaos' Hibachi and Sushi"
   type: Restaurant
   links: http://xiaoshibachi.com/
-description: "Informal strip-mall outlet serving hibachi-style seafood & meat dishes plus creative sushi rolls. Looking for sushi in Murfreesboro, Tennessee? Check out Xia..."
+description: "Informal strip-mall outlet serving hibachi-style seafood & meat dishes plus creative sushi rolls. Xiaos' Hibachi and Sushi serves delicious sushi in Murfreesboro, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJW_OTYqMHZIgRxJsOTh9yKGU
 photos:
   - name: >-

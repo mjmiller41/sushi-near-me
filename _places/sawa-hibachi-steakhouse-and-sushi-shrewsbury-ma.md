@@ -9,7 +9,7 @@ seo:
   name: "Sawa Hibachi Steakhouse and Sushi"
   type: Restaurant
   links: https://sawahibachima.com/
-description: "Modern Japanese eatery featuring steaks, sushi, cocktails & entertaining hibachi chefs. Looking for sushi in Shrewsbury, Massachusetts? Check out Sawa Hibach..."
+description: "Modern Japanese eatery featuring steaks, sushi, cocktails & entertaining hibachi chefs. Sawa Hibachi Steakhouse and Sushi serves delicious sushi in Shrewsbury, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwT4mfFMI5IkRPDpOrD67RlI
 photos:
   - name: >-

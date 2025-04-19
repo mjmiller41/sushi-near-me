@@ -9,7 +9,7 @@ seo:
   name: "Hanabi"
   type: Restaurant
   links: http://hanabi1888.com/
-description: "Snug Japanese eatery turning out sushi rolls, ramen & bento-boxes in an unadorned space. Looking for sushi in New York, New York? Check out Hanabi for a deli..."
+description: "Snug Japanese eatery turning out sushi rolls, ramen & bento-boxes in an unadorned space. Hanabi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJRY7bf79YwokRm9Y_m9XHTY4
 photos:
   - name: >-

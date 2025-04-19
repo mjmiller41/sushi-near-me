@@ -9,7 +9,7 @@ seo:
   name: "Manpuku"
   type: Restaurant
   links: null
-description: "Looking for sushi in Berkeley, California? Check out Manpuku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Manpuku serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU1Yn4s19hYARZJD8_1wy11Q
 photos:
   - name: >-

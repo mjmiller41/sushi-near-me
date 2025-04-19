@@ -9,7 +9,7 @@ seo:
   name: "MJ Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fremont, California? Check out MJ Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "MJ Sushi serves delicious sushi in Fremont, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY1GO3DXHj4ARs-GQKj-_R8M
 photos:
   - name: >-

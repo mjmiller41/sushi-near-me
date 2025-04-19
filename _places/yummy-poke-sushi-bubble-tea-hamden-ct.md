@@ -9,7 +9,7 @@ seo:
   name: "Yummy Poké Sushi Bubble Tea"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hamden, Connecticut? Check out Yummy Poké Sushi Bubble Tea for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Yummy Poké Sushi Bubble Tea serves delicious sushi in Hamden, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5-iqWrHb54kR1NgohWHJgEk
 photos:
   - name: >-

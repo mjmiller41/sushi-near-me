@@ -9,7 +9,7 @@ seo:
   name: "Saga Sushi"
   type: Restaurant
   links: https://www.mysagasushi.com/
-description: "Looking for sushi in West Yarmouth, Massachusetts? Check out Saga Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Saga Sushi serves delicious sushi in West Yarmouth, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ645LbAo7-4kRq7daEBF-3GE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Ninja Japanese and Chinese Restaurant"
   type: Restaurant
   links: https://ninjabarstow.com/?utm_source=google
-description: "Looking for sushi in Eau Claire, Wisconsin? Check out Ninja Japanese and Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of s..."
+description: "Ninja Japanese and Chinese Restaurant serves delicious sushi in Eau Claire, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwTTG8Pa8-IcRTks4keQTKsI
 photos:
   - name: >-

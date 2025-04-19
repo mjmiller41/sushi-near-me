@@ -9,7 +9,7 @@ seo:
   name: "Sushiya"
   type: Restaurant
   links: http://sushiya.raniii.com/
-description: "Storefront nook with a relaxed vibe making creative sushi rolls along with Japanese & Korean plates. Looking for sushi in Hanover, New Hampshire? Check out S..."
+description: "Storefront nook with a relaxed vibe making creative sushi rolls along with Japanese & Korean plates. Sushiya serves delicious sushi in Hanover, New Hampshire. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8bP0O-bJtEwROePWcygTqsg
 photos:
   - name: >-

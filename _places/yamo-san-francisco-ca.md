@@ -9,7 +9,7 @@ seo:
   name: "Yamo"
   type: Restaurant
   links: https://yamosf.net/
-description: "Hole-in-the-wall, cash-only Burmese restaurant for quick, cheap meals served from an open kitchen. Looking for sushi in San Francisco, California? Check out ..."
+description: "Hole-in-the-wall, cash-only Burmese restaurant for quick, cheap meals served from an open kitchen. Yamo serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJWdqFtzx-j4ARmbqOHjZACP4
 photos:
   - name: >-

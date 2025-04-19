@@ -9,7 +9,7 @@ seo:
   name: "Sushi Confidential - Campbell"
   type: Restaurant
   links: null
-description: "Looking for sushi in Campbell, California? Check out Sushi Confidential - Campbell for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Sushi Confidential - Campbell serves delicious sushi in Campbell, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXSk4Ed80joARdJg0Ada4Oe8
 photos:
   - name: >-

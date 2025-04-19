@@ -9,7 +9,7 @@ seo:
   name: "Kobe Japanese Steakhouse"
   type: Restaurant
   links: https://eatatkobe.com/
-description: "Looking for sushi in Algonquin, Illinois? Check out Kobe Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Kobe Japanese Steakhouse serves delicious sushi in Algonquin, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnY4nTG4SD4gRUsKnep0OB5s
 photos:
   - name: >-

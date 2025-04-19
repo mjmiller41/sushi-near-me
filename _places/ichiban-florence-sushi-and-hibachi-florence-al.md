@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Florence Sushi And Hibachi"
   type: Restaurant
   links: http://www.iloveichibanflorence.com/
-description: "Looking for sushi in Florence, Alabama? Check out Ichiban Florence Sushi And Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Ichiban Florence Sushi And Hibachi serves delicious sushi in Florence, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSe4NE71JfYgRvAEXE8c5BlI
 photos:
   - name: >-

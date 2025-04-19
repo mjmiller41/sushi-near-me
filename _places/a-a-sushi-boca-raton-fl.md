@@ -9,7 +9,7 @@ seo:
   name: "A&A SUSHI"
   type: Restaurant
   links: http://www.aasushitogo.com/
-description: "Looking for sushi in Boca Raton, Florida? Check out A&A SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "A&A SUSHI serves delicious sushi in Boca Raton, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0dUnWZob2YgRHAx-CM_ccjA
 photos:
   - name: >-

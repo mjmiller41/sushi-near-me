@@ -9,7 +9,7 @@ seo:
   name: "Nara Sushi & Grill"
   type: Restaurant
   links: https://narasushiandgrill.com/
-description: "Looking for sushi in Colorado Springs, Colorado? Check out Nara Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Nara Sushi & Grill serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLy5MOZlaE4cR8fi-6_0sYt0
 photos:
   - name: >-

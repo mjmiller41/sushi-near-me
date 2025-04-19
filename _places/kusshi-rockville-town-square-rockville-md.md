@@ -9,7 +9,7 @@ seo:
   name: "Kusshi Rockville Town Square"
   type: Restaurant
   links: null
-description: "Looking for sushi in Rockville, Maryland? Check out Kusshi Rockville Town Square for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Kusshi Rockville Town Square serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7UP_0jvNt4kRefVI27CZ8J8
 photos:
   - name: >-

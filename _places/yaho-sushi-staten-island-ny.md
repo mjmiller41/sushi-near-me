@@ -9,7 +9,7 @@ seo:
   name: "Yaho Sushi"
   type: Restaurant
   links: https://yahosushi.com/
-description: "Looking for sushi in Staten Island, New York? Check out Yaho Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Yaho Sushi serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmX7bIj-1w4kRBjlmUe3QGYQ
 photos:
   - name: >-

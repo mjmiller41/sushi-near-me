@@ -9,7 +9,7 @@ seo:
   name: "Sushinola Roll"
   type: Restaurant
   links: null
-description: "Looking for sushi in Phoenix, Arizona? Check out Sushinola Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushinola Roll serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMXCFov8UK4cRT9gFVpBcvdw
 photos:
   - name: >-

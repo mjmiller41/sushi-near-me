@@ -9,7 +9,7 @@ seo:
   name: "MOMO Sushi"
   type: Restaurant
   links: https://www.momosushimn.com/
-description: "Looking for sushi in Minneapolis, Minnesota? Check out MOMO Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "MOMO Sushi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMwMprTgts1IRfqqgfasVNqI
 photos:
   - name: >-

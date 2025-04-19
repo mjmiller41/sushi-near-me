@@ -9,7 +9,7 @@ seo:
   name: "South Bay Rice Things"
   type: Restaurant
   links: http://southbayricethings.com/
-description: "Looking for sushi in Redondo Beach, California? Check out South Bay Rice Things for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "South Bay Rice Things serves delicious sushi in Redondo Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqV2g9F-0woARdwO3JVfLfwo
 photos:
   - name: >-

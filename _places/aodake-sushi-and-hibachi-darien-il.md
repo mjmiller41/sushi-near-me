@@ -9,7 +9,7 @@ seo:
   name: "Aodake Sushi and Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Darien, Illinois? Check out Aodake Sushi and Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Aodake Sushi and Hibachi serves delicious sushi in Darien, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqaAlWfFPDogRoWV9PkEAkwc
 photos:
   - name: >-

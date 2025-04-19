@@ -9,7 +9,7 @@ seo:
   name: "Kai Sushi"
   type: Restaurant
   links: https://www.kaisushiatx.com/
-description: "Looking for sushi in Leander, Texas? Check out Kai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Kai Sushi serves delicious sushi in Leander, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL2re43EsW4YRbOyuzXNoJjs
 photos:
   - name: >-

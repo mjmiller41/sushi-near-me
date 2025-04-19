@@ -9,7 +9,7 @@ seo:
   name: "Roka Akor - San Francisco"
   type: Restaurant
   links: https://www.rokaakor.com/san-francisco/?utm_source=google&utm_medium=Yext
-description: "Upscale Japanese restaurant & bar supplying steak, seafood & sushi in a contemporary setting. Looking for sushi in San Francisco, California? Check out Roka ..."
+description: "Upscale Japanese restaurant & bar supplying steak, seafood & sushi in a contemporary setting. Roka Akor - San Francisco serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJS87mHCiBhYARiPE2_wqmEr4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Nara"
   type: Restaurant
   links: https://sushinaraca.com/
-description: "Looking for sushi in Morgan Hill, California? Check out Sushi Nara for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Nara serves delicious sushi in Morgan Hill, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbfMDB28gjoARnz_MK8ZS_xQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Deli 3"
   type: Restaurant
   links: https://www.sushideliusa.com/
-description: "Looking for sushi in San Diego, California? Check out Sushi Deli 3 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Deli 3 serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-8JNv-r_24ARznkkDswSYuw
 photos:
   - name: >-

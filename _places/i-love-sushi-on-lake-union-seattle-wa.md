@@ -9,7 +9,7 @@ seo:
   name: "I Love Sushi on Lake Union"
   type: Restaurant
   links: null
-description: "Looking for sushi in Seattle, Washington? Check out I Love Sushi on Lake Union for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "I Love Sushi on Lake Union serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4_fDyiQVkFQRkFxG9lkivhs
 photos:
   - name: >-

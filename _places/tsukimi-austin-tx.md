@@ -9,7 +9,7 @@ seo:
   name: "Tsukimi"
   type: Restaurant
   links: https://www.tsukimiaustin.com/
-description: "Looking for sushi in Austin, Texas? Check out Tsukimi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Tsukimi serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWW1mSSPPRIYRriBy7jZ9QgY
 photos:
   - name: >-

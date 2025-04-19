@@ -9,7 +9,7 @@ seo:
   name: "Go Fish Sushi"
   type: Restaurant
   links: https://www.facebook.com/gofishsushi322/
-description: "Looking for sushi in Burlington, Iowa? Check out Go Fish Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Go Fish Sushi serves delicious sushi in Burlington, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJBZ7GOHcx4YcRouX_0YmSbuA
 photos:
   - name: >-

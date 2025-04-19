@@ -9,7 +9,7 @@ seo:
   name: "Pacific East Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cleveland Heights, Ohio? Check out Pacific East Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "Pacific East Japanese Restaurant serves delicious sushi in Cleveland Heights, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4cHkcED8MIgRitsFijTX4bE
 photos:
   - name: >-

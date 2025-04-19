@@ -9,7 +9,7 @@ seo:
   name: "KazuNori: The Original Hand Roll Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Santa Monica, California? Check out KazuNori: The Original Hand Roll Bar for a delightful Japanese dining experience. Enjoy a variety of..."
+description: "KazuNori: The Original Hand Roll Bar serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN1tfUNCkwoARaYhj1p2_nac
 photos:
   - name: >-

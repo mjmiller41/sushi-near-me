@@ -9,7 +9,7 @@ seo:
   name: "Yuki Yama Sushi"
   type: Restaurant
   links: https://www.yukiyamasushi.com/
-description: "Looking for sushi in Park City, Utah? Check out Yuki Yama Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Yuki Yama Sushi serves delicious sushi in Park City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ97fKPL1yUocRqAACv0Qa0PU
 photos:
   - name: >-

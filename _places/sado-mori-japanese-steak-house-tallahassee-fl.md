@@ -9,7 +9,7 @@ seo:
   name: "Sado Mori Japanese Steak House"
   type: Restaurant
   links: null
-description: "Special-occasion Japanese steakhouse offering high-energy hibachi dining, sushi & classic dishes. Looking for sushi in Tallahassee, Florida? Check out Sado M..."
+description: "Special-occasion Japanese steakhouse offering high-energy hibachi dining, sushi & classic dishes. Sado Mori Japanese Steak House serves delicious sushi in Tallahassee, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJoX9oHMT17IgRxFvvy91gdog
 photos:
   - name: >-

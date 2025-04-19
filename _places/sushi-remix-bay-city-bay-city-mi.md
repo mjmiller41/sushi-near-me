@@ -9,7 +9,7 @@ seo:
   name: "Sushi Remix - Bay City"
   type: Restaurant
   links: http://sushiremix.com/
-description: "Looking for sushi in Bay City, Michigan? Check out Sushi Remix - Bay City for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Sushi Remix - Bay City serves delicious sushi in Bay City, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJydbdlk7hI4gRyovHWfRHXRk
 photos:
   - name: >-

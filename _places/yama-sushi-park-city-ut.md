@@ -9,7 +9,7 @@ seo:
   name: "Yama Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Park City, Utah? Check out Yama Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Yama Sushi serves delicious sushi in Park City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAQBAOf1yUocReb8aTyEz2fs
 photos:
   - name: >-

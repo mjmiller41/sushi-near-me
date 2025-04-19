@@ -9,7 +9,7 @@ seo:
   name: "Osaki’s"
   type: Restaurant
   links: http://www.osakisvail.com/
-description: "Looking for sushi in Vail, Colorado? Check out Osaki’s for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
+description: "Osaki’s serves delicious sushi in Vail, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAQDQNWlwaocRpMtV14sRdhk
 photos:
   - name: >-

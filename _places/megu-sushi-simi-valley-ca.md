@@ -9,7 +9,7 @@ seo:
   name: "Megu Sushi"
   type: Restaurant
   links: https://megusushi.net/
-description: "Looking for sushi in Simi Valley, California? Check out Megu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Megu Sushi serves delicious sushi in Simi Valley, California. Try fresh Japanese dishes for a great dining experience. Available for, delivery, lunch, and dinner."
 place_id: ChIJQ4NXghkp6IARuQqJjdlmwv4
 photos:
   - name: >-

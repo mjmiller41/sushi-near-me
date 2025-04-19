@@ -9,7 +9,7 @@ seo:
   name: "Sono Sushi"
   type: Restaurant
   links: http://www.sonosushi.net/
-description: "Sushi, teriyaki, fried dishes & more at a longtime option in simple strip-mall surrounds. Looking for sushi in Middletown Township, New Jersey? Check out Son..."
+description: "Sushi, teriyaki, fried dishes & more at a longtime option in simple strip-mall surrounds. Sono Sushi serves delicious sushi in Middletown Township, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZy2TlUIxwokRttRJGEtDXU0
 photos:
   - name: >-

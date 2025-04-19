@@ -9,7 +9,7 @@ seo:
   name: "Tabu Sushi Bar & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in El Cajon, California? Check out Tabu Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Tabu Sushi Bar & Grill serves delicious sushi in El Cajon, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ08nxeEta2YAR9U1ZvInUtAA
 photos:
   - name: >-

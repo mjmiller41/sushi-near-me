@@ -9,7 +9,7 @@ seo:
   name: "Xuan Fusion Sushi"
   type: Restaurant
   links: https://xuanfusionsushitogo.com/
-description: "Looking for sushi in Barboursville, West Virginia? Check out Xuan Fusion Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Xuan Fusion Sushi serves delicious sushi in Barboursville, West Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzf346XcHRogR_3h3WE0ZAZc
 photos:
   - name: >-

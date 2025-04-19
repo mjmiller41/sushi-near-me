@@ -9,7 +9,7 @@ seo:
   name: "Zoku Sushi"
   type: Restaurant
   links: http://www.zokuchicago.com/
-description: "Imaginative sushi rolls share the menu with cooked Japanese-Thai fare at this BYO spot with a patio. Looking for sushi in Chicago, Illinois? Check out Zoku S..."
+description: "Imaginative sushi rolls share the menu with cooked Japanese-Thai fare at this BYO spot with a patio. Zoku Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJqynxN1vND4gR5N6zeNlQIDE
 photos:
   - name: >-

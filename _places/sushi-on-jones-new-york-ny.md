@@ -9,7 +9,7 @@ seo:
   name: "Sushi on Jones"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Sushi on Jones for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi on Jones serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSYgFhZRZwokRdJ_SHWmaIfs
 photos:
   - name: >-

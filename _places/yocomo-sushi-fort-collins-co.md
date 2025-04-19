@@ -9,7 +9,7 @@ seo:
   name: "YOCOMO Sushi"
   type: Restaurant
   links: http://yocomosushi.com/
-description: "Looking for sushi in Fort Collins, Colorado? Check out YOCOMO Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "YOCOMO Sushi serves delicious sushi in Fort Collins, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJz17UOctLaYcRQEi_N7yLQtQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Royal Sushi & Bar"
   type: Restaurant
   links: http://www.royalsushinola.com/
-description: "Looking for sushi in New Orleans, Louisiana? Check out Royal Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Royal Sushi & Bar serves delicious sushi in New Orleans, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJExCguxmmIIYR7r_EsdB-wnc
 photos:
   - name: >-

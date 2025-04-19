@@ -9,7 +9,7 @@ seo:
   name: "Sam Sushi Art & Music"
   type: Restaurant
   links: http://www.samsushiartmusic.com/
-description: "Looking for sushi in Framingham, Massachusetts? Check out Sam Sushi Art & Music for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Sam Sushi Art & Music serves delicious sushi in Framingham, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWakixs2J44kR193Hbro5VEM
 photos:
   - name: >-

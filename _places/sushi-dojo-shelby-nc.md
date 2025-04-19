@@ -9,7 +9,7 @@ seo:
   name: "Sushi Dojo"
   type: Restaurant
   links: https://www.sushidojo.com/
-description: "Casual restaurant with a bar & Asian fare ranging from specialty rolls to Korean-inspired tacos. Looking for sushi in Shelby, North Carolina? Check out Sushi..."
+description: "Casual restaurant with a bar & Asian fare ranging from specialty rolls to Korean-inspired tacos. Sushi Dojo serves delicious sushi in Shelby, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKU23lhggV4gRESOTFvvezC4
 photos:
   - name: >-

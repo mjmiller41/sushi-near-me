@@ -9,7 +9,7 @@ seo:
   name: "BENTO Gainesville Midtown"
   type: Restaurant
   links: null
-description: "Looking for sushi in Gainesville, Florida? Check out BENTO Gainesville Midtown for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "BENTO Gainesville Midtown serves delicious sushi in Gainesville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgftRhg6j6IgRFeaNMkyW-ME
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Taipei Tokyo Cafe"
   type: Restaurant
   links: http://www.taipei-tokyo.net/
-description: "Longtime spot offering Chinese, Thai & Japanese fare including sushi in a casual setting. Looking for sushi in Rockville, Maryland? Check out Taipei Tokyo Ca..."
+description: "Longtime spot offering Chinese, Thai & Japanese fare including sushi in a casual setting. Taipei Tokyo Cafe serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIZrY4yTMt4kRZnmc1H0NFSs
 photos:
   - name: >-

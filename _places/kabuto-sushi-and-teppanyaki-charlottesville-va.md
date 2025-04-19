@@ -9,7 +9,7 @@ seo:
   name: "Kabuto Sushi and Teppanyaki"
   type: Restaurant
   links: http://www.kabutosushipantops.com/
-description: "Looking for sushi in Charlottesville, Virginia? Check out Kabuto Sushi and Teppanyaki for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Kabuto Sushi and Teppanyaki serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJhy6vxO-Is4kReLJSfMFCTXE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "KAMPAI SUSHI"
   type: Restaurant
   links: null
-description: "Looking for sushi in Oceanside, California? Check out KAMPAI SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "KAMPAI SUSHI serves delicious sushi in Oceanside, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSYCCo95x3IAR0-CjgOIyBJQ
 photos:
   - name: >-

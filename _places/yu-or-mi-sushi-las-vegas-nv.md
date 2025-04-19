@@ -9,7 +9,7 @@ seo:
   name: "Yu or Mi Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Las Vegas, Nevada? Check out Yu or Mi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Yu or Mi Sushi serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcRN95YnHyIARbQOP7veArJM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Nobi Sushi"
   type: Restaurant
   links: https://ajisushiny.com/
-description: "Creative rolls, sushi & cooked Japanese fare served in a space with traditional Asian decor. Looking for sushi in New York, New York? Check out Nobi Sushi fo..."
+description: "Creative rolls, sushi & cooked Japanese fare served in a space with traditional Asian decor. Nobi Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJscJ18whZwokRRVETYAZys7o
 photos:
   - name: >-

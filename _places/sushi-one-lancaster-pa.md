@@ -9,7 +9,7 @@ seo:
   name: "Sushi One‎"
   type: Restaurant
   links: https://sushioneonline.com/
-description: "Looking for sushi in Lancaster, Pennsylvania? Check out Sushi One‎ for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi One‎ serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnTlyn5wjxokRwnshmJaUMqU
 photos:
   - name: >-

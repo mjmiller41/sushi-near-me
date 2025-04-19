@@ -9,7 +9,7 @@ seo:
   name: "Sushi De Kanpai"
   type: Restaurant
   links: https://m.facebook.com/SushiDeKanpai/
-description: "Innovative sushi & Japanese entrees served with sake & cocktails in a simply appointed space. Looking for sushi in Salisbury, Maryland? Check out Sushi De Ka..."
+description: "Innovative sushi & Japanese entrees served with sake & cocktails in a simply appointed space. Sushi De Kanpai serves delicious sushi in Salisbury, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJH0vg28EDuYkRdtGuJBWICCQ
 photos:
   - name: >-

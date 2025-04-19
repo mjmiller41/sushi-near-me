@@ -9,7 +9,7 @@ seo:
   name: "California Sushi"
   type: Restaurant
   links: http://californiasushibar.com/
-description: "Looking for sushi in Chula Vista, California? Check out California Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "California Sushi serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQe8e_AdO2YARUbx2F8A53S4
 photos:
   - name: >-

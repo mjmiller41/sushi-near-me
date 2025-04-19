@@ -9,7 +9,7 @@ seo:
   name: "Sushi Umi Tysons"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tysons, Virginia? Check out Sushi Umi Tysons for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Umi Tysons serves delicious sushi in Tysons, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsetWhkZLtokRUTMEcxZQQg8
 photos:
   - name: >-

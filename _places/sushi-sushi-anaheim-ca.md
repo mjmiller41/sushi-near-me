@@ -9,7 +9,7 @@ seo:
   name: "Sushi@Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Anaheim, California? Check out Sushi@Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi@Sushi serves delicious sushi in Anaheim, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPSwy-yTR3IARyV_PgR17dc8
 photos:
   - name: >-

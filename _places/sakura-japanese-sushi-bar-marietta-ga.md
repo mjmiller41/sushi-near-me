@@ -9,7 +9,7 @@ seo:
   name: "Sakura Japanese Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Marietta, Georgia? Check out Sakura Japanese Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Sakura Japanese Sushi Bar serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6TUMxbsN9YgRly7sCtUCuTg
 photos:
   - name: >-

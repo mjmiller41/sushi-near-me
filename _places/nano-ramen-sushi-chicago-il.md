@@ -9,7 +9,7 @@ seo:
   name: "Nano Ramen & Sushi"
   type: Restaurant
   links: https://www.nanorestaurant.com/
-description: "Creative sushi & ramen plus Thai & Chinese eats, served in a chic, low-lit BYOB eatery. Looking for sushi in Chicago, Illinois? Check out Nano Ramen & Sushi ..."
+description: "Creative sushi & ramen plus Thai & Chinese eats, served in a chic, low-lit BYOB eatery. Nano Ramen & Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4-TjzrfTD4gRg3XbBo-jf1s
 photos:
   - name: >-

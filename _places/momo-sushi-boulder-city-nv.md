@@ -9,7 +9,7 @@ seo:
   name: "Momo Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Boulder City, Nevada? Check out Momo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Momo Sushi serves delicious sushi in Boulder City, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMRfzNTQryYARBu1d1SjOxdI
 photos:
   - name: >-

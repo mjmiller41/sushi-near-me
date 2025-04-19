@@ -9,7 +9,7 @@ seo:
   name: "Lion West Portal"
   type: Restaurant
   links: https://lionwestportal.com/
-description: "Looking for sushi in San Francisco, California? Check out Lion West Portal for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Lion West Portal serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJoTonKAB9j4AREVbqEuhgHYw
 photos:
   - name: >-

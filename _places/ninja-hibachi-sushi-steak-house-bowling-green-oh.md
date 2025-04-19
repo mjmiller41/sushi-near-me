@@ -9,7 +9,7 @@ seo:
   name: "Ninja hibachi sushi steak house"
   type: Restaurant
   links: http://www.ninjahibachibowlinggreen.com/
-description: "Looking for sushi in Bowling Green, Ohio? Check out Ninja hibachi sushi steak house for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Ninja hibachi sushi steak house serves delicious sushi in Bowling Green, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJq9OitdELPIgRSJ7ZYcRsQrU
 photos:
   - name: >-

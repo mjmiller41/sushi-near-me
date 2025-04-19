@@ -9,7 +9,7 @@ seo:
   name: "Sushi Hanabi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pleasanton, California? Check out Sushi Hanabi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi Hanabi serves delicious sushi in Pleasanton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOW-fVqHpj4ARAgaMRtO5Qu8
 photos:
   - name: >-

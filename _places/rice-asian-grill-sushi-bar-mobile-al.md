@@ -9,7 +9,7 @@ seo:
   name: "Rice Asian Grill & Sushi Bar"
   type: Restaurant
   links: https://riceasiangrilltogo.com/
-description: "Looking for sushi in Mobile, Alabama? Check out Rice Asian Grill & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Rice Asian Grill & Sushi Bar serves delicious sushi in Mobile, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3e7zT-5MmogRWzbj3jdGrLE
 photos:
   - name: >-

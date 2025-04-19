@@ -9,7 +9,7 @@ seo:
   name: "Sushi Hana"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Diego, California? Check out Sushi Hana for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Hana serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7xDnH8b524ARvHmyReNC5DY
 photos:
   - name: >-

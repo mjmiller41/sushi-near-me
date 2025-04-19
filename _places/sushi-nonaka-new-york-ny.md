@@ -9,7 +9,7 @@ seo:
   name: "Sushi Nonaka"
   type: Restaurant
   links: http://www.sushinonaka.com/
-description: "Sushi & small plates are served at this warm, narrow Japanese eatery offering outdoor seating. Looking for sushi in New York, New York? Check out Sushi Nonak..."
+description: "Sushi & small plates are served at this warm, narrow Japanese eatery offering outdoor seating. Sushi Nonaka serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJU-oKKh1ZwokR9HVy197A8mM
 photos:
   - name: >-

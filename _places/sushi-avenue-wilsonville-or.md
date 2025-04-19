@@ -9,7 +9,7 @@ seo:
   name: "Sushi Avenue"
   type: Restaurant
   links: https://www.sushiavenuewilsonville.com/
-description: "Looking for sushi in Wilsonville, Oregon? Check out Sushi Avenue for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Avenue serves delicious sushi in Wilsonville, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC4bNLexulVQRY_IAfI42nbk
 photos:
   - name: >-

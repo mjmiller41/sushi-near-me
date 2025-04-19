@@ -9,7 +9,7 @@ seo:
   name: "New Ocean Palace Restaurant"
   type: Restaurant
   links: https://www.newoceanpalacect.com/
-description: "Looking for sushi in Brooklyn, Connecticut? Check out New Ocean Palace Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "New Ocean Palace Restaurant serves delicious sushi in Brooklyn, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ_cacvSwq5IkRPL949rJrv8E
 photos:
   - name: >-

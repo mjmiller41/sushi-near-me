@@ -9,7 +9,7 @@ seo:
   name: "Kuru Kuru Sushi"
   type: Restaurant
   links: http://www.kurukurubellingham.com/
-description: "Looking for sushi in Bellingham, Washington? Check out Kuru Kuru Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Kuru Kuru Sushi serves delicious sushi in Bellingham, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbxdSb6ajhVQRLL3LSASiGwc
 photos:
   - name: >-

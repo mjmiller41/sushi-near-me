@@ -9,7 +9,7 @@ seo:
   name: "Shanghai Taste"
   type: Restaurant
   links: https://shanghaitaste1121.wixsite.com/website
-description: "Looking for sushi in Rockville, Maryland? Check out Shanghai Taste for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Shanghai Taste serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzTcYgkHNt4kRYYjHwMR0mmY
 photos:
   - name: >-

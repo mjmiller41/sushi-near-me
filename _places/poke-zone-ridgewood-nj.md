@@ -9,7 +9,7 @@ seo:
   name: "Poke Zone"
   type: Restaurant
   links: http://www.pokezone43.com/
-description: "Looking for sushi in Ridgewood, New Jersey? Check out Poke Zone for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Poke Zone serves delicious sushi in Ridgewood, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJpcQy4NjlwokRJRjUV4tQayo
 photos:
   - name: >-

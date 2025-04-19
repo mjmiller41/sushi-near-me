@@ -9,7 +9,7 @@ seo:
   name: "Sushi Boss"
   type: Restaurant
   links: null
-description: "Looking for sushi in West Lafayette, Indiana? Check out Sushi Boss for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Boss serves delicious sushi in West Lafayette, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ86GAd-7jEogRgrNCoq9LlYc
 photos:
   - name: >-

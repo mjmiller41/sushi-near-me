@@ -9,7 +9,7 @@ seo:
   name: "Watami Sushi Bistro"
   type: Restaurant
   links: https://watamisushibistrotogo.com/
-description: "Looking for sushi in North Ogden, Utah? Check out Watami Sushi Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Watami Sushi Bistro serves delicious sushi in North Ogden, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_Uyooo4MU4cRQi2iJBQ6RCc
 photos:
   - name: >-

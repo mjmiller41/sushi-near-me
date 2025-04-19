@@ -38,7 +38,13 @@ cityName: ${city}
 
 async function writePlace(stateName, stateAbbr, city, place) {
   const placeDescription = place.description ? `${place.description} ` : ''
-  const seoDescription = `${placeDescription}Looking for sushi in ${city}, ${stateName}? Check out ${place.name} for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atmosphere, perfect for casual meals or special outings. A great spot for locals and visitors alike to explore authentic flavors in ${city}.`
+  let availFor = ''
+  availFor += place.takeout ? ' takeout' : ''
+  availFor += place.delivery ? ', delivery' : ''
+  availFor += place.serves_lunch ? ', lunch' : ''
+  availFor += place.serves_dinner ? ', and dinner' : ''
+  availFor = availFor ? `Available for${availFor}.` : ''
+  const seoDescription = `${placeDescription}${place.name} serves delicious sushi in ${city}, ${stateName}. Try fresh Japanese dishes for a great dining experience. ${availFor}`
   place['summary'] = place.description
   delete place.description
   const placeText = `---
@@ -52,7 +58,7 @@ seo:
   name: "${place.name}"
   type: Restaurant
   links: ${place.website}
-description: "${seoDescription.truncate(160).replaceAll('"', "'")}"
+description: "${seoDescription.replaceAll('"', "'")}"
 ${objToYaml(place, 0)}
 ---`
   const placePath = path.join(__dirname, `../_places/`)

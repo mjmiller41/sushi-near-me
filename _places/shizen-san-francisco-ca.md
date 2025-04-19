@@ -9,7 +9,7 @@ seo:
   name: "Shizen"
   type: Restaurant
   links: https://www.shizensf.com/
-description: "Vegan fare from faux-sushi and ramen to meatless small plates, in an inventive and wood-decked space. Looking for sushi in San Francisco, California? Check o..."
+description: "Vegan fare from faux-sushi and ramen to meatless small plates, in an inventive and wood-decked space. Shizen serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJIVHOoCF-j4ARnw6y25XWmMA
 photos:
   - name: >-

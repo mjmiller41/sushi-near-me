@@ -9,7 +9,7 @@ seo:
   name: "Yanagi Sushi & Grill Dublin"
   type: Restaurant
   links: https://yanagisushitogo.com/
-description: "Looking for sushi in Dublin, California? Check out Yanagi Sushi & Grill Dublin for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Yanagi Sushi & Grill Dublin serves delicious sushi in Dublin, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF6xtaejtj4AROlWWiOVqwAA
 photos:
   - name: >-

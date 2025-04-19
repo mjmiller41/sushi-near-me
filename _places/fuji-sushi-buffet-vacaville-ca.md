@@ -9,7 +9,7 @@ seo:
   name: "Fuji Sushi Buffet"
   type: Restaurant
   links: null
-description: "Looking for sushi in Vacaville, California? Check out Fuji Sushi Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Fuji Sushi Buffet serves delicious sushi in Vacaville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWQKxGs0ihYARqDz19lo4iyI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi"
   type: Restaurant
   links: https://www.tokyosushiomaha.com/
-description: "Relaxed place offering sushi & other popular Japanese dishes, plus an all-you-can-eat lunch option. Looking for sushi in Omaha, Nebraska? Check out Tokyo Sus..."
+description: "Relaxed place offering sushi & other popular Japanese dishes, plus an all-you-can-eat lunch option. Tokyo Sushi serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjyp4Ga-Pk4cR7Ul9CFjDKQY
 photos:
   - name: >-

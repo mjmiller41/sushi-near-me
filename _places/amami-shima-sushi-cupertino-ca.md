@@ -9,7 +9,7 @@ seo:
   name: "Amami Shima Sushi"
   type: Restaurant
   links: https://amamishimasushi.com/
-description: "Looking for sushi in Cupertino, California? Check out Amami Shima Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Amami Shima Sushi serves delicious sushi in Cupertino, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ54EGBEK1j4AR4z6S5qbPulQ
 photos:
   - name: >-

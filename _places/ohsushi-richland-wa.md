@@ -9,7 +9,7 @@ seo:
   name: "OhSushi"
   type: Restaurant
   links: http://oh-sushi.com/
-description: "Looking for sushi in Richland, Washington? Check out OhSushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "OhSushi serves delicious sushi in Richland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ7v0mJp7mFQRt5DBXgMohiQ
 photos:
   - name: >-

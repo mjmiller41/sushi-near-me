@@ -9,7 +9,7 @@ seo:
   name: "Masa Sushi Japanese Cuisine Gilbert"
   type: Restaurant
   links: https://masasushigilbert.com/
-description: "Looking for sushi in Gilbert, Arizona? Check out Masa Sushi Japanese Cuisine Gilbert for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Masa Sushi Japanese Cuisine Gilbert serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZQF2Qh6pK4cRA8Tk5TODj-c
 photos:
   - name: >-

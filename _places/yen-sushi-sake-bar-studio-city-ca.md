@@ -9,7 +9,7 @@ seo:
   name: "Yen Sushi & Sake Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Studio City, California? Check out Yen Sushi & Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Yen Sushi & Sake Bar serves delicious sushi in Studio City, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWRR04PS9woARpu4qk8ctoFA
 photos:
   - name: >-

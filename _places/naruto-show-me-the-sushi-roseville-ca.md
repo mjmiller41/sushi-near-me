@@ -9,7 +9,7 @@ seo:
   name: "naruto show me the sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Roseville, California? Check out naruto show me the sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "naruto show me the sushi serves delicious sushi in Roseville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ3DtM5Uhm4AR3uLDcoq4PTs
 photos:
   - name: >-

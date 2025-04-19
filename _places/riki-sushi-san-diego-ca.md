@@ -9,7 +9,7 @@ seo:
   name: "Riki Sushi"
   type: Restaurant
   links: http://www.rikisushisd.com/
-description: "This casual yet contemporary Japanese eatery offers classic sushi & rolls, plus hot entrees. Looking for sushi in San Diego, California? Check out Riki Sushi..."
+description: "This casual yet contemporary Japanese eatery offers classic sushi & rolls, plus hot entrees. Riki Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJo2rLk_ZU2YARztPCQqhLzu0
 photos:
   - name: >-

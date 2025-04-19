@@ -9,7 +9,7 @@ seo:
   name: "Zen Ramen & Sushi Burrito - Downtown Tacoma"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tacoma, Washington? Check out Zen Ramen & Sushi Burrito - Downtown Tacoma for a delightful Japanese dining experience. Enjoy a variety o..."
+description: "Zen Ramen & Sushi Burrito - Downtown Tacoma serves delicious sushi in Tacoma, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSVIRm9lVkFQRMo3h2pa4xKc
 photos:
   - name: >-

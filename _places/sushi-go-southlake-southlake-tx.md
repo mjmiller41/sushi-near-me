@@ -9,7 +9,7 @@ seo:
   name: "Sushi Go Southlake"
   type: Restaurant
   links: null
-description: "Looking for sushi in Southlake, Texas? Check out Sushi Go Southlake for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi Go Southlake serves delicious sushi in Southlake, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK5aZjXvVTYYR-3h2-oljrJ8
 photos:
   - name: >-

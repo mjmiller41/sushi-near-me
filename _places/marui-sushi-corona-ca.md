@@ -9,7 +9,7 @@ seo:
   name: "Marui Sushi"
   type: Restaurant
   links: http://maruisushica.com/
-description: "Looking for sushi in Corona, California? Check out Marui Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Marui Sushi serves delicious sushi in Corona, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ8hJIW643IARkWmJPQGJ77Y
 photos:
   - name: >-

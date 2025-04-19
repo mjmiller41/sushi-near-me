@@ -9,7 +9,7 @@ seo:
   name: "Kona Grill - Denver"
   type: Restaurant
   links: https://konagrill.com/locations?locations=Denver,80206
-description: "Looking for sushi in Denver, Colorado? Check out Kona Grill - Denver for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Kona Grill - Denver serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX4Jmj5B-bIcRuvDQd9B-06k
 photos:
   - name: >-

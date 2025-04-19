@@ -9,7 +9,7 @@ seo:
   name: "Go-Go"
   type: Restaurant
   links: null
-description: "Looking for sushi in Middletown, New York? Check out Go-Go for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Go-Go serves delicious sushi in Middletown, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5abZWxItw4kRoSp0GcG-0lQ
 photos:
   - name: >-

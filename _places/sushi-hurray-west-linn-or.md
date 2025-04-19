@@ -9,7 +9,7 @@ seo:
   name: "Sushi Hurray"
   type: Restaurant
   links: http://www.sushihurray.net/
-description: "Looking for sushi in West Linn, Oregon? Check out Sushi Hurray for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Hurray serves delicious sushi in West Linn, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJacLu2LJ2lVQRuDa-LRaoL8o
 photos:
   - name: >-

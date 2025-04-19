@@ -9,7 +9,7 @@ seo:
   name: "Blu Fin Sushi & Bar"
   type: Restaurant
   links: https://m.facebook.com/Blufinsushibar/
-description: "Looking for sushi in Springdale, Arkansas? Check out Blu Fin Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Blu Fin Sushi & Bar serves delicious sushi in Springdale, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw_VQPcRsyYcREKqGm4Y_vr0
 photos:
   - name: >-

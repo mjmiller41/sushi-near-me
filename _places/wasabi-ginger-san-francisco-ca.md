@@ -9,7 +9,7 @@ seo:
   name: "Wasabi & Ginger"
   type: Restaurant
   links: http://www.wasabigingerca.com/
-description: "Traditional & creative raw fish plus grilled & fried Japanese dishes served in a casual space. Looking for sushi in San Francisco, California? Check out Wasa..."
+description: "Traditional & creative raw fish plus grilled & fried Japanese dishes served in a casual space. Wasabi & Ginger serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJDSCl1umAhYARyKXXByWjZ5g
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Fresh Ventura"
   type: Restaurant
   links: http://sushifreshventura.com/
-description: "Looking for sushi in Ventura, California? Check out Sushi Fresh Ventura for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi Fresh Ventura serves delicious sushi in Ventura, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_wIl6ray6YARq6S0V5iOwbw
 photos:
   - name: >-

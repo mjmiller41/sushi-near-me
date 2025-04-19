@@ -9,7 +9,7 @@ seo:
   name: "Taneda"
   type: Restaurant
   links: http://tanedaseattle.com/
-description: "Looking for sushi in Seattle, Washington? Check out Taneda for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Taneda serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXcM6TZwVkFQR_DSKVibXe2c
 photos:
   - name: >-

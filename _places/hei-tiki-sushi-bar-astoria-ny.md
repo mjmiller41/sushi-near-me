@@ -9,7 +9,7 @@ seo:
   name: "Hei Tiki & Sushi Bar"
   type: Restaurant
   links: https://www.instagram.com/heitikinyc?igsh=aWludmhtdTFueHM=
-description: "Looking for sushi in Astoria, New York? Check out Hei Tiki & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Hei Tiki & Sushi Bar serves delicious sushi in Astoria, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIRF9O0hfwokRnhQGHXWCinE
 photos:
   - name: >-

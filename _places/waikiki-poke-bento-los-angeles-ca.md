@@ -9,7 +9,7 @@ seo:
   name: "Waikiki Poke & Bento"
   type: Restaurant
   links: https://waikikipokeandbento.com/
-description: "Looking for sushi in Los Angeles, California? Check out Waikiki Poke & Bento for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Waikiki Poke & Bento serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIZUWSzm5woARzaoAjz2vPSU
 photos:
   - name: >-

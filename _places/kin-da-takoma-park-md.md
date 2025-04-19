@@ -9,7 +9,7 @@ seo:
   name: "Kin Da"
   type: Restaurant
   links: https://www.kindatakoma.com/
-description: "Green walls & soft lighting set the scene at this storefront serving sushi, curries & Thai fare. Looking for sushi in Takoma Park, Maryland? Check out Kin Da..."
+description: "Green walls & soft lighting set the scene at this storefront serving sushi, curries & Thai fare. Kin Da serves delicious sushi in Takoma Park, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJm4T1wYLIt4kRw8bZTo22tqs
 photos:
   - name: >-

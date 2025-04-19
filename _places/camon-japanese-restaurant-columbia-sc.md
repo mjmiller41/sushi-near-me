@@ -9,7 +9,7 @@ seo:
   name: "Camon Japanese Restaurant"
   type: Restaurant
   links: https://www.camonjapaneserestaurant.com/
-description: "Sushi bar offerings & Japanese cooked dishes in a comfortable space with traditional accents. Looking for sushi in Columbia, South Carolina? Check out Camon ..."
+description: "Sushi bar offerings & Japanese cooked dishes in a comfortable space with traditional accents. Camon Japanese Restaurant serves delicious sushi in Columbia, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJSe7SWiu7-IgRxZLKfZx4wKw
 photos:
   - name: >-

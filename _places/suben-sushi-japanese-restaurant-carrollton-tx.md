@@ -9,7 +9,7 @@ seo:
   name: "SUBEN Sushi (Japanese Restaurant)"
   type: Restaurant
   links: http://subencarrollton.com/
-description: "Looking for sushi in Carrollton, Texas? Check out SUBEN Sushi (Japanese Restaurant) for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "SUBEN Sushi (Japanese Restaurant) serves delicious sushi in Carrollton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpzXQ6V4lTIYRdKgJbN5Nvq8
 photos:
   - name: >-

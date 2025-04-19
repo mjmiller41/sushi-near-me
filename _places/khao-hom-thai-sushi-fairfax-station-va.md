@@ -9,7 +9,7 @@ seo:
   name: "Khao Hom Thai & Sushi"
   type: Restaurant
   links: http://www.khaohomthaiandsushiva.com/
-description: "Looking for sushi in Fairfax Station, Virginia? Check out Khao Hom Thai & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Khao Hom Thai & Sushi serves delicious sushi in Fairfax Station, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJo60uUjFPtokRolea4YtasgA
 photos:
   - name: >-

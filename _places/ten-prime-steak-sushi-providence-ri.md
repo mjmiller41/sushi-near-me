@@ -9,7 +9,7 @@ seo:
   name: "Ten Prime Steak & Sushi"
   type: Restaurant
   links: http://www.tenprimesteakandsushi.com/
-description: "Designer rolls & aged meats are the draw at this swank fixture, with a raw bar & happy-hour menu. Looking for sushi in Providence, Rhode Island? Check out Te..."
+description: "Designer rolls & aged meats are the draw at this swank fixture, with a raw bar & happy-hour menu. Ten Prime Steak & Sushi serves delicious sushi in Providence, Rhode Island. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJYeeUNhRF5IkRnrn5W9b_nvM
 photos:
   - name: >-

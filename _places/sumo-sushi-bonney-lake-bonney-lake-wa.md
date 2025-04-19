@@ -9,7 +9,7 @@ seo:
   name: "Sumo Sushi Bonney Lake"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bonney Lake, Washington? Check out Sumo Sushi Bonney Lake for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Sumo Sushi Bonney Lake serves delicious sushi in Bonney Lake, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBc6bD1n7kFQRV6nGNKTLdvI
 photos:
   - name: >-

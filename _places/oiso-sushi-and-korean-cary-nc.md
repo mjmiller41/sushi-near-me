@@ -9,7 +9,7 @@ seo:
   name: "Oiso Sushi and Korean"
   type: Restaurant
   links: http://oisosushi.com/
-description: "Looking for sushi in Cary, North Carolina? Check out Oiso Sushi and Korean for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Oiso Sushi and Korean serves delicious sushi in Cary, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq3KWIF_yrIkRqiavNb6DMxg
 photos:
   - name: >-

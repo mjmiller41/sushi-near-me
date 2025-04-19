@@ -9,7 +9,7 @@ seo:
   name: "Kon Asian Bistro & Hibachi Grill"
   type: Restaurant
   links: https://www.konasianbistro.com/
-description: "Looking for sushi in East Greenwich, Rhode Island? Check out Kon Asian Bistro & Hibachi Grill for a delightful Japanese dining experience. Enjoy a variety of..."
+description: "Kon Asian Bistro & Hibachi Grill serves delicious sushi in East Greenwich, Rhode Island. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEeFBbcpM5IkRiG6ful-BE1M
 photos:
   - name: >-

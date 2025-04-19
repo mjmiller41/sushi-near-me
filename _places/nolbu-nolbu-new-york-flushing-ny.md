@@ -9,7 +9,7 @@ seo:
   name: "Nolbu Nolbu New York"
   type: Restaurant
   links: null
-description: "Understated outlet serving an array of Korean sushi rolls at the counter in a compact, basic space. Looking for sushi in Flushing, New York? Check out Nolbu ..."
+description: "Understated outlet serving an array of Korean sushi rolls at the counter in a compact, basic space. Nolbu Nolbu New York serves delicious sushi in Flushing, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCUVccC5gwokRSHsDxyhj_dE
 photos:
   - name: >-

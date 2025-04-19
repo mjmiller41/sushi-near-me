@@ -9,7 +9,7 @@ seo:
   name: "Watami Sushi & Hibachi Steakhouse (Cape Girardeau)"
   type: Restaurant
   links: http://www.watamisushimo.com/
-description: "Looking for sushi in Cape Girardeau, Missouri? Check out Watami Sushi & Hibachi Steakhouse (Cape Girardeau) for a delightful Japanese dining experience. Enjo..."
+description: "Watami Sushi & Hibachi Steakhouse (Cape Girardeau) serves delicious sushi in Cape Girardeau, Missouri. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF6W38waId4gRuPfD1POkgrM
 photos:
   - name: >-

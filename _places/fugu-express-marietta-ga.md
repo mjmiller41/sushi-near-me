@@ -9,7 +9,7 @@ seo:
   name: "Fugu Express"
   type: Restaurant
   links: https://fuguexpress.kwickmenu.com/
-description: "Looking for sushi in Marietta, Georgia? Check out Fugu Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Fugu Express serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1epBypYR9YgRy4-1tKN1PKg
 photos:
   - name: >-

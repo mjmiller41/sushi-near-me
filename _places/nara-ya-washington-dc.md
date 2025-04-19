@@ -9,7 +9,7 @@ seo:
   name: "NaRa-Ya"
   type: Restaurant
   links: https://nara-ya.com/
-description: "Looking for sushi in Washington, District of Columbia? Check out NaRa-Ya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "NaRa-Ya serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJJYqfj563t4kRoItAIPV366A
 photos:
   - name: >-

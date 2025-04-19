@@ -9,7 +9,7 @@ seo:
   name: "Tanoshi Sushi Sake Bar"
   type: Restaurant
   links: http://tanoshisushinyc.com/?y_source=1_MjIzNzEyNzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "Small, low-key Japanese pick offering high-quality omakase meals & a BYO policy. Looking for sushi in New York, New York? Check out Tanoshi Sushi Sake Bar fo..."
+description: "Small, low-key Japanese pick offering high-quality omakase meals & a BYO policy. Tanoshi Sushi Sake Bar serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJd35w0MZYwokR7LgKqfX4tXM
 photos:
   - name: >-

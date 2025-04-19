@@ -9,7 +9,7 @@ seo:
   name: "Food For Life"
   type: Restaurant
   links: null
-description: "Looking for sushi in Edgewater, New Jersey? Check out Food For Life for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Food For Life serves delicious sushi in Edgewater, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFWUR-8v3wokRtaHkXO3gbZw
 photos:
   - name: >-

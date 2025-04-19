@@ -9,7 +9,7 @@ seo:
   name: "Matsu Sushi Bar"
   type: Restaurant
   links: http://www.matsuhouston.com/
-description: "Looking for sushi in Houston, Texas? Check out Matsu Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Matsu Sushi Bar serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf2hhU3PcQIYRjcfkQSGWb3g
 photos:
   - name: >-

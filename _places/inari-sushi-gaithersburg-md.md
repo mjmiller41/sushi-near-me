@@ -9,7 +9,7 @@ seo:
   name: "Inari Sushi"
   type: Restaurant
   links: http://www.inarisushitogo.com/
-description: "Looking for sushi in Gaithersburg, Maryland? Check out Inari Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Inari Sushi serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJrzopTNMttokR3QTyuvxf3Ug
 photos:
   - name: >-

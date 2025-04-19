@@ -9,7 +9,7 @@ seo:
   name: "Modesto Sukiyaki"
   type: Restaurant
   links: https://www.facebook.com/ModestoSukiyaki
-description: "Looking for sushi in Modesto, California? Check out Modesto Sukiyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Modesto Sukiyaki serves delicious sushi in Modesto, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfQAU2x5RkIARCb3KUB1FU7w
 photos:
   - name: >-

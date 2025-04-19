@@ -9,7 +9,7 @@ seo:
   name: "Bonchon North Stockton"
   type: Restaurant
   links: null
-description: "Looking for sushi in Stockton, California? Check out Bonchon North Stockton for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Bonchon North Stockton serves delicious sushi in Stockton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbfX3R_INkIAR13MRhnopJBI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Steakhouse & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hobbs, New Mexico? Check out Tokyo Steakhouse & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Tokyo Steakhouse & Sushi Bar serves delicious sushi in Hobbs, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVwuLeRqV_IYRJQ6pdmDfKdg
 photos:
   - name: >-

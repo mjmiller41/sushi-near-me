@@ -9,7 +9,7 @@ seo:
   name: "Tasu Asian Bistro"
   type: Restaurant
   links: http://shikitasu.com/
-description: "Looking for sushi in Raleigh, North Carolina? Check out Tasu Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Tasu Asian Bistro serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi6YaV4bwrIkR8xoapWozlNs
 photos:
   - name: >-

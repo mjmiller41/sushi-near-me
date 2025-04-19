@@ -9,7 +9,7 @@ seo:
   name: "AJI Sushi & Grill Newcastle"
   type: Restaurant
   links: https://ajisushigrill.com/
-description: "Looking for sushi in Newcastle, Washington? Check out AJI Sushi & Grill Newcastle for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "AJI Sushi & Grill Newcastle serves delicious sushi in Newcastle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZfvIaL5pkFQRDkekE42R07M
 photos:
   - name: >-

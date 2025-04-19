@@ -9,7 +9,7 @@ seo:
   name: "Okinii"
   type: Restaurant
   links: https://www.okiniiny.com/
-description: "Sashimi & creative maki, plus Japanese kitchen entrees, served in a laid-back space with a full bar. Looking for sushi in New York, New York? Check out Okini..."
+description: "Sashimi & creative maki, plus Japanese kitchen entrees, served in a laid-back space with a full bar. Okinii serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJQr1wJFZwokRD08Dy1xV9E8
 photos:
   - name: >-

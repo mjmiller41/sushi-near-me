@@ -9,7 +9,7 @@ seo:
   name: "Grain House"
   type: Restaurant
   links: https://www.grainhouseseattle.com/
-description: "Looking for sushi in Seattle, Washington? Check out Grain House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Grain House serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8zvG1jNrkFQRHgyfe6qtMEU
 photos:
   - name: >-

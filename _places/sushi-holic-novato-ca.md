@@ -9,7 +9,7 @@ seo:
   name: "Sushi Holic"
   type: Restaurant
   links: https://www.sushiholicnovato.com/
-description: "Looking for sushi in Novato, California? Check out Sushi Holic for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Holic serves delicious sushi in Novato, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv5cPJr-8hYARZ9a0RdRl-j8
 photos:
   - name: >-

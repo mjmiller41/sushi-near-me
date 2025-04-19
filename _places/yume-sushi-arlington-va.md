@@ -9,7 +9,7 @@ seo:
   name: "Yume Sushi"
   type: Restaurant
   links: http://www.yumesushiva.com/
-description: "Stylish, understated restaurant for sushi & sashimi featuring bold wall murals & an open kitchen. Looking for sushi in Arlington, Virginia? Check out Yume Su..."
+description: "Stylish, understated restaurant for sushi & sashimi featuring bold wall murals & an open kitchen. Yume Sushi serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJq6pqNO60t4kRfNZpCUNWjRs
 photos:
   - name: >-

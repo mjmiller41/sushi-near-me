@@ -9,7 +9,7 @@ seo:
   name: "Sushi Park"
   type: Restaurant
   links: https://www.exploretock.com/sushipark/
-description: "Looking for sushi in West Hollywood, California? Check out Sushi Park for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Sushi Park serves delicious sushi in West Hollywood, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW4fmrr2-woARCAUMyNnly3U
 photos:
   - name: >-

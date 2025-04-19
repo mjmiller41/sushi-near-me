@@ -9,7 +9,7 @@ seo:
   name: "Umai"
   type: Restaurant
   links: https://umaibostontogo.com/
-description: "Udon, sushi and a variety of other Japanese eats are served in casual, modern quarters with a bar. Looking for sushi in Boston, Massachusetts? Check out Umai..."
+description: "Udon, sushi and a variety of other Japanese eats are served in casual, modern quarters with a bar. Umai serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8x1_7Q5644kRhu20JIaczqs
 photos:
   - name: >-

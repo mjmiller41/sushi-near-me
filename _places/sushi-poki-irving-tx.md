@@ -9,7 +9,7 @@ seo:
   name: "Sushi Poki"
   type: Restaurant
   links: http://www.sushipoki.com/
-description: "Looking for sushi in Irving, Texas? Check out Sushi Poki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Sushi Poki serves delicious sushi in Irving, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa85UyoQpTIYRq-mAT2UaJAQ
 photos:
   - name: >-

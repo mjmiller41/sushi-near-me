@@ -9,7 +9,7 @@ seo:
   name: "Dao Sushi and Thai"
   type: Restaurant
   links: http://www.daosushiandthai.com/
-description: "Strip-mall spot serving sushi & other Japanese fare, Thai food & hibachi amid modern Asian decor. Looking for sushi in Burr Ridge, Illinois? Check out Dao Su..."
+description: "Strip-mall spot serving sushi & other Japanese fare, Thai food & hibachi amid modern Asian decor. Dao Sushi and Thai serves delicious sushi in Burr Ridge, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJDXeFPZhIDogRmRaD4VwozA0
 photos:
   - name: >-

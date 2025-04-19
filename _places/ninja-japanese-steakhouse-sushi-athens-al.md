@@ -9,7 +9,7 @@ seo:
   name: "Ninja Japanese Steakhouse & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Athens, Alabama? Check out Ninja Japanese Steakhouse & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Ninja Japanese Steakhouse & Sushi serves delicious sushi in Athens, Alabama. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnwDPKnOLYogRJw7Mo7EETGo
 photos:
   - name: >-

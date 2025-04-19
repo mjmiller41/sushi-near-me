@@ -9,7 +9,7 @@ seo:
   name: "Hibino"
   type: Restaurant
   links: https://www.hibino-brooklyn.com/
-description: "Looking for sushi in Brooklyn, New York? Check out Hibino for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Hibino serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC1fwCkVawokRNyLxaZ7tv-s
 photos:
   - name: >-

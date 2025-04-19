@@ -9,7 +9,7 @@ seo:
   name: "Hamono Sushi"
   type: Restaurant
   links: https://www.hamonosushi.com/
-description: "Looking for sushi in Portland, Oregon? Check out Hamono Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Hamono Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm-dwwvwLlVQRED2Nwtt8auI
 photos:
   - name: >-

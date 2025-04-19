@@ -9,7 +9,7 @@ seo:
   name: "Uzumaki Sushi"
   type: Restaurant
   links: http://www.uzumaki-sushi.com/
-description: "Looking for sushi in Culver City, California? Check out Uzumaki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Uzumaki Sushi serves delicious sushi in Culver City, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ15ypvj66woARULXCuoJZxrc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kraken Sushi & Beyond"
   type: Restaurant
   links: http://www.krakenchicago.com/
-description: "Looking for sushi in Chicago, Illinois? Check out Kraken Sushi & Beyond for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Kraken Sushi & Beyond serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVRT-WyDTD4gR33tFaYfPBiA
 photos:
   - name: >-

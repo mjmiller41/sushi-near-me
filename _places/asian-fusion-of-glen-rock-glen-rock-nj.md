@@ -9,7 +9,7 @@ seo:
   name: "asian fusion of glen rock"
   type: Restaurant
   links: null
-description: "Looking for sushi in Glen Rock, New Jersey? Check out asian fusion of glen rock for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "asian fusion of glen rock serves delicious sushi in Glen Rock, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4fxDNDb7wokR7KPsI9xGWyo
 photos:
   - name: >-

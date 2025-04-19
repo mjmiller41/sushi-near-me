@@ -9,7 +9,7 @@ seo:
   name: "Novant Health Cafeteria"
   type: Restaurant
   links: https://www.novanthealth.org/locations/medical-centers/presbyterian-medical-center/your-visit/
-description: "Looking for sushi in Charlotte, North Carolina? Check out Novant Health Cafeteria for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Novant Health Cafeteria serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8XxadACfVogRaza_bdMgcgU
 photos: null
 address: 200 Hawthorne Ln, Charlotte, NC 28204, USA

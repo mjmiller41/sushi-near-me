@@ -9,7 +9,7 @@ seo:
   name: "Fuji Hibachi & Sushi"
   type: Restaurant
   links: http://www.fujihibachiandsushi.com/
-description: "Looking for sushi in Monroe, Michigan? Check out Fuji Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Fuji Hibachi & Sushi serves delicious sushi in Monroe, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJU_YoE_RvO4gRC0z6wVRrZIQ
 photos:
   - name: >-

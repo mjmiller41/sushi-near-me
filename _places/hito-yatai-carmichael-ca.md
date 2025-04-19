@@ -9,7 +9,7 @@ seo:
   name: "HITO YATAI"
   type: Restaurant
   links: http://hitoyatai.com/
-description: "Looking for sushi in Carmichael, California? Check out HITO YATAI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "HITO YATAI serves delicious sushi in Carmichael, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg0dfW5ffmoAR9oGV9o0ReK4
 photos:
   - name: >-

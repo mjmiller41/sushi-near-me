@@ -9,7 +9,7 @@ seo:
   name: "Kenko Sushi"
   type: Restaurant
   links: http://kenkosushinj.com/home/
-description: "Looking for sushi in Lincoln Park, New Jersey? Check out Kenko Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Kenko Sushi serves delicious sushi in Lincoln Park, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2XvxBPwDw4kRh-NlmTebG4Y
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Factory"
   type: Restaurant
   links: https://sushifactorywa.com/
-description: "Looking for sushi in Vancouver, Washington? Check out Sushi Factory for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi Factory serves delicious sushi in Vancouver, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI5cI2pSvlVQRS82JHuIwC6M
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi King"
   type: Restaurant
   links: https://order.online/business/sushi-king-431729
-description: "Looking for sushi in Santa Monica, California? Check out Sushi King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi King serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO9bOhsqkwoARyKviwUDfR00
 photos:
   - name: >-

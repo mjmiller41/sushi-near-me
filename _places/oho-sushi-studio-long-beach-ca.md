@@ -9,7 +9,7 @@ seo:
   name: "OHO Sushi Studio"
   type: Restaurant
   links: null
-description: "Looking for sushi in Long Beach, California? Check out OHO Sushi Studio for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "OHO Sushi Studio serves delicious sushi in Long Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXyEpccAx3YARsUYvDtrREyE
 photos:
   - name: >-

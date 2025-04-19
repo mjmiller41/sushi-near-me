@@ -9,7 +9,7 @@ seo:
   name: "Akimi"
   type: Restaurant
   links: http://akimisushi.godaddysites.com/
-description: "Looking for sushi in Houston, Texas? Check out Akimi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming at..."
+description: "Akimi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZX6pnQGdQIYRta_8Fipk7_c
 photos:
   - name: >-

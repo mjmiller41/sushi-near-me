@@ -9,7 +9,7 @@ seo:
   name: "Kumori Sushi & Teppanyaki"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Antonio, Texas? Check out Kumori Sushi & Teppanyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Kumori Sushi & Teppanyaki serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1Uh5TmNCXIYR9UBN_fdM-lU
 photos:
   - name: >-

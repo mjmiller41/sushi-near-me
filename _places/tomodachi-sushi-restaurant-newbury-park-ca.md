@@ -9,7 +9,7 @@ seo:
   name: "Tomodachi Sushi Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Newbury Park, California? Check out Tomodachi Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Tomodachi Sushi Restaurant serves delicious sushi in Newbury Park, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl_jLp7ow6IARn4QImlGOLoQ
 photos:
   - name: >-

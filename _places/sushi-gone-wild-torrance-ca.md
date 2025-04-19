@@ -9,7 +9,7 @@ seo:
   name: "Sushi Gone Wild"
   type: Restaurant
   links: http://www.sushigonewild.com/
-description: "Looking for sushi in Torrance, California? Check out Sushi Gone Wild for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Gone Wild serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-V9LYxBL3YARPWVJDT--t_o
 photos:
   - name: >-

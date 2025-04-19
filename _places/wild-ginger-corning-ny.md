@@ -9,7 +9,7 @@ seo:
   name: "Wild Ginger"
   type: Restaurant
   links: http://www.gafferdistrict.com/businesses/wild-ginger
-description: "Looking for sushi in Corning, New York? Check out Wild Ginger for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Wild Ginger serves delicious sushi in Corning, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF_xff8tJ0IkRWj6_KcgIuFo
 photos:
   - name: >-

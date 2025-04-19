@@ -9,7 +9,7 @@ seo:
   name: "Oma's Sushi and Grill"
   type: Restaurant
   links: https://www.omassushi.com/
-description: "Looking for sushi in West Hempstead, New York? Check out Oma's Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Oma's Sushi and Grill serves delicious sushi in West Hempstead, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi2BjzjJjwokRbUhscEVl7-g
 photos:
   - name: >-

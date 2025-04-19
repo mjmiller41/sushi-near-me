@@ -9,7 +9,7 @@ seo:
   name: "SALOON OSAKA"
   type: Restaurant
   links: https://www.saloonosaka.com/menu
-description: "Looking for sushi in El Segundo, California? Check out SALOON OSAKA for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "SALOON OSAKA serves delicious sushi in El Segundo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEaoVy1-xwoAR1wfNkEcX1dc
 photos:
   - name: >-

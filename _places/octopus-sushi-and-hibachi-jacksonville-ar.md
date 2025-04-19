@@ -9,7 +9,7 @@ seo:
   name: "Octopus sushi and hibachi"
   type: Restaurant
   links: https://www.octopussushihibachi.com/
-description: "Looking for sushi in Jacksonville, Arkansas? Check out Octopus sushi and hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Octopus sushi and hibachi serves delicious sushi in Jacksonville, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3XtXkIDr0ocRObpZb4RVpK8
 photos:
   - name: >-

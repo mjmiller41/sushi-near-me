@@ -9,7 +9,7 @@ seo:
   name: "Ozora Sushi Restaurant"
   type: Restaurant
   links: http://ozora-sushi.com/
-description: "Looking for sushi in Concord, California? Check out Ozora Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Ozora Sushi Restaurant serves delicious sushi in Concord, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1bJ75vBghYARHWysXm4oJB0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Ginger Red Asian Bistro"
   type: Restaurant
   links: http://www.gingerred.com/
-description: "Stylish spot with red-accented decor furnishing Pan-Asian dishes, house cocktails & Sunday brunch. Looking for sushi in Mechanicsville, Virginia? Check out G..."
+description: "Stylish spot with red-accented decor furnishing Pan-Asian dishes, house cocktails & Sunday brunch. Ginger Red Asian Bistro serves delicious sushi in Mechanicsville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4wup0IoYsYkRvGyoQnlaEqk
 photos:
   - name: >-

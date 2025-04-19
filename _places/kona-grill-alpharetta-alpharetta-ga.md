@@ -9,7 +9,7 @@ seo:
   name: "Kona Grill - Alpharetta"
   type: Restaurant
   links: https://konagrill.com/locations?locations=Alpharetta
-description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Looking for sushi in Alpharetta, Georgia? Check out Kona Gr..."
+description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Kona Grill - Alpharetta serves delicious sushi in Alpharetta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJRRImroZ19YgRIuf_eUYDaMQ
 photos:
   - name: >-

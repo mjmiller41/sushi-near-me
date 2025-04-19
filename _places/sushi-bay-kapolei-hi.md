@@ -9,7 +9,7 @@ seo:
   name: "Sushi Bay"
   type: Restaurant
   links: http://www.sushibaykapolei.com/
-description: "Looking for sushi in Kapolei, Hawaii? Check out Sushi Bay for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Sushi Bay serves delicious sushi in Kapolei, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBdYnKxZjAHwRIeh6vUfmqBs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Yellowstone Sushi Cuisine Restaurant"
   type: Restaurant
   links: http://www.yellowstonesushi.com/
-description: "Looking for sushi in Forest Hills, New York? Check out Yellowstone Sushi Cuisine Restaurant for a delightful Japanese dining experience. Enjoy a variety of s..."
+description: "Yellowstone Sushi Cuisine Restaurant serves delicious sushi in Forest Hills, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6Qv6QQdfwokRM6_W83P-28o
 photos:
   - name: >-

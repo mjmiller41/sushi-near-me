@@ -9,7 +9,7 @@ seo:
   name: "Kizame AYCE Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in West Hills, California? Check out Kizame AYCE Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Kizame AYCE Sushi serves delicious sushi in West Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ15HCZmdwoARdc_WtHKZZRc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tokyo House Restaurant"
   type: Restaurant
   links: https://www.tokyohousepa.com/
-description: "Looking for sushi in Hummelstown, Pennsylvania? Check out Tokyo House Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Tokyo House Restaurant serves delicious sushi in Hummelstown, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8VV33P67yIkRCohe7Sc8Aqw
 photos:
   - name: >-

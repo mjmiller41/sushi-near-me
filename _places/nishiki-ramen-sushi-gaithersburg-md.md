@@ -9,7 +9,7 @@ seo:
   name: "Nishiki Ramen & Sushi"
   type: Restaurant
   links: http://www.nishikiramenmd.com/
-description: "Looking for sushi in Gaithersburg, Maryland? Check out Nishiki Ramen & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Nishiki Ramen & Sushi serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDRVcamsttokRJrY_JwkrjoY
 photos:
   - name: >-

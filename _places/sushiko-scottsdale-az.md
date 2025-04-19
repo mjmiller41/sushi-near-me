@@ -9,7 +9,7 @@ seo:
   name: "SushiKo"
   type: Restaurant
   links: null
-description: "Looking for sushi in Scottsdale, Arizona? Check out SushiKo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "SushiKo serves delicious sushi in Scottsdale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ19FeVT91K4cRrmcgvnYBpTE
 photos:
   - name: >-

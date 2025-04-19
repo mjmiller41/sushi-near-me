@@ -9,7 +9,7 @@ seo:
   name: "SushiMakio"
   type: Restaurant
   links: http://www.sushimakio.com/
-description: "Looking for sushi in Kingston, New York? Check out SushiMakio for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "SushiMakio serves delicious sushi in Kingston, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJP9VrSy4P3YkRP1WxjbQW5hI
 photos:
   - name: >-

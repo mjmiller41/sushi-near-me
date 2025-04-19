@@ -9,7 +9,7 @@ seo:
   name: "Dash Dashi Sushi and Sake Bar"
   type: Restaurant
   links: http://www.dashdashi.com/
-description: "Looking for sushi in Manhattan Beach, California? Check out Dash Dashi Sushi and Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "Dash Dashi Sushi and Sake Bar serves delicious sushi in Manhattan Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJezzXvaizwoARPOYT2mrqy3k
 photos:
   - name: >-

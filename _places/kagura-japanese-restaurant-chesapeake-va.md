@@ -9,7 +9,7 @@ seo:
   name: "Kagura Japanese Restaurant"
   type: Restaurant
   links: http://www.kagurajapanesesushi.com/?utm_source=gmb&utm_medium=website
-description: "Relaxed place offering all-you-can-eat lunch & dinner buffets of sushi & other Japanese fare. Looking for sushi in Chesapeake, Virginia? Check out Kagura Jap..."
+description: "Relaxed place offering all-you-can-eat lunch & dinner buffets of sushi & other Japanese fare. Kagura Japanese Restaurant serves delicious sushi in Chesapeake, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdRA04hq7uokR2DBxeV-k15A
 photos:
   - name: >-

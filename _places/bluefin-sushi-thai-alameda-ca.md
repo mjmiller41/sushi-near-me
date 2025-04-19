@@ -9,7 +9,7 @@ seo:
   name: "BLUEFIN SUSHI & THAI"
   type: Restaurant
   links: null
-description: "Looking for sushi in Alameda, California? Check out BLUEFIN SUSHI & THAI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "BLUEFIN SUSHI & THAI serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKZrUkpyGj4ARdeuZcKmRTQs
 photos:
   - name: >-

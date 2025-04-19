@@ -9,7 +9,7 @@ seo:
   name: "Sushi by Bou - Albany NY @ City Beer Hall"
   type: Restaurant
   links: null
-description: "Looking for sushi in Albany, New York? Check out Sushi by Bou - Albany NY @ City Beer Hall for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Sushi by Bou - Albany NY @ City Beer Hall serves delicious sushi in Albany, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ48hQ9CMK3okRmp3ZykDANsY
 photos:
   - name: >-

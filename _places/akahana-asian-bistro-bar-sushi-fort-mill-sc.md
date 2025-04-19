@@ -9,7 +9,7 @@ seo:
   name: "Akahana Asian Bistro Bar & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fort Mill, South Carolina? Check out Akahana Asian Bistro Bar & Sushi for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Akahana Asian Bistro Bar & Sushi serves delicious sushi in Fort Mill, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA3O8BWuFVogRyDpOXzXRM2k
 photos:
   - name: >-

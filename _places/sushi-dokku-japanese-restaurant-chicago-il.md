@@ -9,7 +9,7 @@ seo:
   name: "SUSHI DOKKU Japanese Restaurant"
   type: Restaurant
   links: http://www.sushidokku.com/
-description: "Sushi, sashimi & Japanese small plates plus sake & cocktails in a chic, minimalist setting. Looking for sushi in Chicago, Illinois? Check out SUSHI DOKKU Jap..."
+description: "Sushi, sashimi & Japanese small plates plus sake & cocktails in a chic, minimalist setting. SUSHI DOKKU Japanese Restaurant serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJa1x1zNosDogRWaWIsW63ktg
 photos:
   - name: >-

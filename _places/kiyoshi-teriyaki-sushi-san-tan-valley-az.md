@@ -9,7 +9,7 @@ seo:
   name: "Kiyoshi Teriyaki & Sushi"
   type: Restaurant
   links: https://www.kiyoshiteriyakisantanvalley.com/
-description: "Looking for sushi in San Tan Valley, Arizona? Check out Kiyoshi Teriyaki & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Kiyoshi Teriyaki & Sushi serves delicious sushi in San Tan Valley, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHex86uxIKocR0TvZqApubNI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mint Tapas and Sushi 4 (Sugar House)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Salt Lake City, Utah? Check out Mint Tapas and Sushi 4 (Sugar House) for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "Mint Tapas and Sushi 4 (Sugar House) serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGYQNTjuLUocRi6bsorHNI1g
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Fuji at HSP"
   type: Restaurant
   links: http://www.fujiathsp.com/
-description: "Looking for sushi in Boston, Massachusetts? Check out Fuji at HSP for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Fuji at HSP serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8y5TSGtx44kRTpz5koxmTwM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Poke House Austin"
   type: Restaurant
   links: null
-description: "Looking for sushi in Austin, Texas? Check out Poke House Austin for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Poke House Austin serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxfLIUYnMRIYRRUf3J4cWkTk
 photos:
   - name: >-

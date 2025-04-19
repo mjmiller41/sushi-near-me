@@ -9,7 +9,7 @@ seo:
   name: "Wasabi | Sushi, Bar & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Little Rock, Arkansas? Check out Wasabi | Sushi, Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Wasabi | Sushi, Bar & Grill serves delicious sushi in Little Rock, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn0AGfHy70ocRHQlFMwm8aH0
 photos:
   - name: >-

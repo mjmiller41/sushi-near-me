@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Gainesville"
   type: Restaurant
   links: null
-description: "Looking for sushi in Gainesville, Virginia? Check out Bonchon Gainesville for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Bonchon Gainesville serves delicious sushi in Gainesville, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcd_GEFRntokR8FB2vCfljWk
 photos:
   - name: >-

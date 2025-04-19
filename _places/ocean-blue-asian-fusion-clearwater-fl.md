@@ -9,7 +9,7 @@ seo:
   name: "Ocean Blue Asian Fusion"
   type: Restaurant
   links: https://oceanbluesushi.com/
-description: "Sushi, bento boxes & other Japanese dishes served in a small, bare-bones eatery. Looking for sushi in Clearwater, Florida? Check out Ocean Blue Asian Fusion ..."
+description: "Sushi, bento boxes & other Japanese dishes served in a small, bare-bones eatery. Ocean Blue Asian Fusion serves delicious sushi in Clearwater, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJw7sGc3XuwogRlg-BSbU99yI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Moonlight Sushi Bar & Grill"
   type: Restaurant
   links: null
-description: "Sizable restaurant serving sushi as well as teriyaki, tempura & Japanese faves in a stylish space. Looking for sushi in Kansas City, Missouri? Check out Moon..."
+description: "Sizable restaurant serving sushi as well as teriyaki, tempura & Japanese faves in a stylish space. Moonlight Sushi Bar & Grill serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJp4MnmvFVwIcRI0G0HemxHjQ
 photos:
   - name: >-

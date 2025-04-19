@@ -9,7 +9,7 @@ seo:
   name: "Sushi 33"
   type: Restaurant
   links: http://www.regoparksushi33.com/
-description: "Looking for sushi in Flushing, New York? Check out Sushi 33 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Sushi 33 serves delicious sushi in Flushing, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGXvZjTdewokRyYCV4y3GYlo
 photos:
   - name: >-

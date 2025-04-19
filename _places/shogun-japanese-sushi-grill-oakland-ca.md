@@ -9,7 +9,7 @@ seo:
   name: "Shogun Japanese Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Oakland, California? Check out Shogun Japanese Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Shogun Japanese Sushi & Grill serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpzC9FkOHj4ARGwW6sBm739Q
 photos:
   - name: >-

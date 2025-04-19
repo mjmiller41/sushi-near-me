@@ -9,7 +9,7 @@ seo:
   name: "Sumo Sushi and Hibachi"
   type: Restaurant
   links: http://www.sumosushichicago.com/info.html
-description: "Japanese fare including loads of sushi in a cozy, casual space with a bring-your-own-alcohol policy. Looking for sushi in Chicago, Illinois? Check out Sumo S..."
+description: "Japanese fare including loads of sushi in a cozy, casual space with a bring-your-own-alcohol policy. Sumo Sushi and Hibachi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOxqzQ6fTD4gRirnJRp-8wr8
 photos:
   - name: >-

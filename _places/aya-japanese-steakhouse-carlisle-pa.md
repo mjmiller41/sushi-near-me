@@ -9,7 +9,7 @@ seo:
   name: "Aya Japanese Steakhouse"
   type: Restaurant
   links: null
-description: "Traditional backdrop for hibachi grill tables & an extensive menu of Japanese dishes & sushi rolls. Looking for sushi in Carlisle, Pennsylvania? Check out Ay..."
+description: "Traditional backdrop for hibachi grill tables & an extensive menu of Japanese dishes & sushi rolls. Aya Japanese Steakhouse serves delicious sushi in Carlisle, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ5Vkyq8_hyIkRkM4tgINJGRQ
 photos:
   - name: >-

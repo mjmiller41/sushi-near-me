@@ -9,7 +9,7 @@ seo:
   name: "Sushi Neko"
   type: Restaurant
   links: https://www.fooddiscoveryapp.com/las-vegas/sushi-neko
-description: "Looking for sushi in Las Vegas, Nevada? Check out Sushi Neko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi Neko serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu-6Dv7fGyIAR_xocph6eidA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "O-Ku"
   type: Restaurant
   links: https://www.o-kusushi.com/location/o-ku-charleston/?y_source=1_ODE4NDQwNjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "Happening Japanese eatery & lounge with trendy environs sporting exposed brick & high ceilings. Looking for sushi in Charleston, South Carolina? Check out O-..."
+description: "Happening Japanese eatery & lounge with trendy environs sporting exposed brick & high ceilings. O-Ku serves delicious sushi in Charleston, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJdeGgrGt6_ogR0sJ-N72qXAs
 photos:
   - name: >-

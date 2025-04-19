@@ -9,7 +9,7 @@ seo:
   name: "Fish & Rice"
   type: Restaurant
   links: http://www.fishnrice.com/
-description: "Looking for sushi in Portland, Oregon? Check out Fish & Rice for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Fish & Rice serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY8MROHIJlVQR3NC3NJKPXmE
 photos:
   - name: >-

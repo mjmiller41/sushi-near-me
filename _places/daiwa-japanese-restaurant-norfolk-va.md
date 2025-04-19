@@ -9,7 +9,7 @@ seo:
   name: "Daiwa Japanese Restaurant"
   type: Restaurant
   links: https://www.daiwasushihibachi.com/
-description: "Looking for sushi in Norfolk, Virginia? Check out Daiwa Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Daiwa Japanese Restaurant serves delicious sushi in Norfolk, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJocpUnqObuokRiUa-HeIHxno
 photos:
   - name: >-

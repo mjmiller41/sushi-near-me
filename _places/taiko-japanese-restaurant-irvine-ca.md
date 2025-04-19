@@ -9,7 +9,7 @@ seo:
   name: "Taiko Japanese Restaurant"
   type: Restaurant
   links: http://www.taikooc.com/
-description: "Generous portions of carefully sourced Japanese cuisine including seafood star at this small spot. Looking for sushi in Irvine, California? Check out Taiko J..."
+description: "Generous portions of carefully sourced Japanese cuisine including seafood star at this small spot. Taiko Japanese Restaurant serves delicious sushi in Irvine, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJBcbCJB3d3IARI4jfyaHaUhQ
 photos:
   - name: >-

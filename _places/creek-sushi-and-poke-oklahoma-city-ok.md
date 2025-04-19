@@ -9,7 +9,7 @@ seo:
   name: "Creek Sushi and Poke"
   type: Restaurant
   links: https://www.creeksushiokc.com/
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Creek Sushi and Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Creek Sushi and Poke serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4z4LC7AFsocRSiQzGxtHXSY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "I Love Sushi Express"
   type: Restaurant
   links: null
-description: "Looking for sushi in Madison, Alabama? Check out I Love Sushi Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "I Love Sushi Express serves delicious sushi in Madison, Alabama. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSdjQ2tNvYogRDq0U0CaXwb0
 photos:
   - name: >-

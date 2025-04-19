@@ -9,7 +9,7 @@ seo:
   name: "Sushi Roku"
   type: Restaurant
   links: null
-description: "Looking for sushi in Newport Beach, California? Check out Sushi Roku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Roku serves delicious sushi in Newport Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIaMuSobg3IARivqjjjbwORE
 photos:
   - name: >-

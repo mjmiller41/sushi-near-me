@@ -9,7 +9,7 @@ seo:
   name: "Bravo"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Bravo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Bravo serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl76CPhFawokRq_2mhqZAcOQ
 photos:
   - name: >-

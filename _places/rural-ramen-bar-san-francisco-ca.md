@@ -9,7 +9,7 @@ seo:
   name: "Rural Ramen Bar"
   type: Restaurant
   links: https://www.ruralramenbarca.com/l9h0w017/restaurant/order-online
-description: "Looking for sushi in San Francisco, California? Check out Rural Ramen Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Rural Ramen Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr_OH-WiBhYARfUXHwDqwdSo
 photos:
   - name: >-

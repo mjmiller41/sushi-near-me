@@ -9,7 +9,7 @@ seo:
   name: "Ruk Sushi & Thai (Milwaukee Ave)"
   type: Restaurant
   links: http://www.ruksushi.com/
-description: "Thai & Japanese dishes plus sushi offered in a straightforward BYOB setting. Looking for sushi in Chicago, Illinois? Check out Ruk Sushi & Thai (Milwaukee Av..."
+description: "Thai & Japanese dishes plus sushi offered in a straightforward BYOB setting. Ruk Sushi & Thai (Milwaukee Ave) serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJf9T2bj7MD4gR0l8bHcHcvAQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Rockin' Rolls Sushi"
   type: Restaurant
   links: http://rockinrollscharlotte.com/
-description: "Looking for sushi in Charlotte, North Carolina? Check out Rockin' Rolls Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Rockin' Rolls Sushi serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJYdDMAy6fVogR7oY7qnLwrjk
 photos:
   - name: >-

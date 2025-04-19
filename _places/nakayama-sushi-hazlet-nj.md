@@ -9,7 +9,7 @@ seo:
   name: "Nakayama Sushi"
   type: Restaurant
   links: http://www.nakayamasushi.com/
-description: "Japanese restaurant offering a traditional menu of sushi rolls, teriyaki, tempura & more. Looking for sushi in Hazlet, New Jersey? Check out Nakayama Sushi f..."
+description: "Japanese restaurant offering a traditional menu of sushi rolls, teriyaki, tempura & more. Nakayama Sushi serves delicious sushi in Hazlet, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1wwjSIU0wokR4orBk1qGgrY
 photos:
   - name: >-

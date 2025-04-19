@@ -9,7 +9,7 @@ seo:
   name: "Hinata Sushi Kitchen"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hayward, California? Check out Hinata Sushi Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Hinata Sushi Kitchen serves delicious sushi in Hayward, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbbd-n6WTj4ARMu0vFPq9rUw
 photos:
   - name: >-

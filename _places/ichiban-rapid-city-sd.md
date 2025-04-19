@@ -9,7 +9,7 @@ seo:
   name: "Ichiban"
   type: Restaurant
   links: https://ichibanrapidcity.com/
-description: "Strip-mall sushi house offering specialty rolls & standard Japanese eats in an easygoing atmosphere. Looking for sushi in Rapid City, South Dakota? Check out..."
+description: "Strip-mall sushi house offering specialty rolls & standard Japanese eats in an easygoing atmosphere. Ichiban serves delicious sushi in Rapid City, South Dakota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXRnupc5cfYcRNLnS1rTq9PM
 photos:
   - name: >-

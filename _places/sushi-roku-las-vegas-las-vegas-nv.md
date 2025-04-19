@@ -9,7 +9,7 @@ seo:
   name: "Sushi Roku Las Vegas"
   type: Restaurant
   links: https://www.sushiroku.com/
-description: "Looking for sushi in Las Vegas, Nevada? Check out Sushi Roku Las Vegas for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sushi Roku Las Vegas serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNfF-iTvEyIARgFN2IABV5Ew
 photos:
   - name: >-

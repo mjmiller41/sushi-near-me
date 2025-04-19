@@ -9,7 +9,7 @@ seo:
   name: "Sushi Toni"
   type: Restaurant
   links: https://order.online/business/sushi-toni-4041
-description: "Sushi, sashimi & hot Japanese dishes plus sake in a brightly painted room with bar & table seating. Looking for sushi in San Francisco, California? Check out..."
+description: "Sushi, sashimi & hot Japanese dishes plus sake in a brightly painted room with bar & table seating. Sushi Toni serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUQVBLoyAhYARJFEwb5F0cjE
 photos:
   - name: >-

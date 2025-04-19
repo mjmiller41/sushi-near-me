@@ -9,7 +9,7 @@ seo:
   name: "Sushi Roku"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pasadena, California? Check out Sushi Roku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Roku serves delicious sushi in Pasadena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlw-aQnHDwoARi4Cuuo9wf1E
 photos:
   - name: >-

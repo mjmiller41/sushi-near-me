@@ -9,7 +9,7 @@ seo:
   name: "Kaiten Sushi Ginza Onodera"
   type: Restaurant
   links: https://www.sushionodera.com/kaiten-sushi-hawaii
-description: "Looking for sushi in Honolulu, Hawaii? Check out Kaiten Sushi Ginza Onodera for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Kaiten Sushi Ginza Onodera serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiQwrRQBtAHwR7lBp0WggVjE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sakana Japanese Restaurant"
   type: Restaurant
   links: https://ordersakanajapanese.com/
-description: "Cozy, low-key restaurant serving sushi, noodles & other traditional Japanese fare. Looking for sushi in Washington, District of Columbia? Check out Sakana Ja..."
+description: "Cozy, low-key restaurant serving sushi, noodles & other traditional Japanese fare. Sakana Japanese Restaurant serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgdiQZsi3t4kRCoDg2MBjqWg
 photos:
   - name: >-

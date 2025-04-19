@@ -9,7 +9,7 @@ seo:
   name: "Hatsuhana"
   type: Restaurant
   links: http://www.hatsuhana.com/
-description: "Japanese mainstay turning out fresh sushi & other basic fare in a simple setting. Looking for sushi in New York, New York? Check out Hatsuhana for a delightf..."
+description: "Japanese mainstay turning out fresh sushi & other basic fare in a simple setting. Hatsuhana serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJw47zKvxYwokRgD1Zt5Licyo
 photos:
   - name: >-

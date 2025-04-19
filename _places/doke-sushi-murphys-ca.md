@@ -9,7 +9,7 @@ seo:
   name: "Doke Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Murphys, California? Check out Doke Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Doke Sushi serves delicious sushi in Murphys, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVQXJsD68kIARU61bYFucxoA
 photos:
   - name: >-

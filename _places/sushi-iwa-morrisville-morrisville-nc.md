@@ -9,7 +9,7 @@ seo:
   name: "Sushi Iwa Morrisville"
   type: Restaurant
   links: https://sushiiwa.org/
-description: "Classy restaurant offering a variety of Asian dishes, including sushi, plus a wine list. Looking for sushi in Morrisville, North Carolina? Check out Sushi Iw..."
+description: "Classy restaurant offering a variety of Asian dishes, including sushi, plus a wine list. Sushi Iwa Morrisville serves delicious sushi in Morrisville, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9c0eX_rtrIkRWixXHK_ZFag
 photos:
   - name: >-

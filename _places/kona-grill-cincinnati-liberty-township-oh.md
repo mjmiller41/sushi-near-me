@@ -9,7 +9,7 @@ seo:
   name: "Kona Grill - Cincinnati"
   type: Restaurant
   links: null
-description: "Looking for sushi in Liberty Township, Ohio? Check out Kona Grill - Cincinnati for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Kona Grill - Cincinnati serves delicious sushi in Liberty Township, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTbGT2D9aQIgR56dzMTBN5g8
 photos:
   - name: >-

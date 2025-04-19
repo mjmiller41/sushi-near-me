@@ -9,7 +9,7 @@ seo:
   name: "Tsunami Restaurant and Sushi Bar - Sugarhouse"
   type: Restaurant
   links: null
-description: "Looking for sushi in Salt Lake City, Utah? Check out Tsunami Restaurant and Sushi Bar - Sugarhouse for a delightful Japanese dining experience. Enjoy a varie..."
+description: "Tsunami Restaurant and Sushi Bar - Sugarhouse serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq6pqbKCKUocRs8sfqRAAxrs
 photos:
   - name: >-

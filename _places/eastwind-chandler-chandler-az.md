@@ -9,7 +9,7 @@ seo:
   name: "Eastwind Chandler"
   type: Restaurant
   links: https://www.facebook.com/EastwindSushi/
-description: "Looking for sushi in Chandler, Arizona? Check out Eastwind Chandler for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Eastwind Chandler serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjXHIYhCqK4cRMcY6eXYJhGs
 photos:
   - name: >-

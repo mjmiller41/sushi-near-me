@@ -9,7 +9,7 @@ seo:
   name: "Maru Iyagi - Hendersonville"
   type: Restaurant
   links: https://maruiyagi-website.web.app/
-description: "Looking for sushi in Hendersonville, Tennessee? Check out Maru Iyagi - Hendersonville for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Maru Iyagi - Hendersonville serves delicious sushi in Hendersonville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJRd4HrXhHZIgRIInVPEFakDA
 photos:
   - name: >-

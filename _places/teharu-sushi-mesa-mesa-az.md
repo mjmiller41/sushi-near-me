@@ -9,7 +9,7 @@ seo:
   name: "Teharu Sushi Mesa"
   type: Restaurant
   links: https://teharu.com/
-description: "Looking for sushi in Mesa, Arizona? Check out Teharu Sushi Mesa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Teharu Sushi Mesa serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhy2RBDWuK4cR6PBBVOOYJz0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kawaii Sushi"
   type: Restaurant
   links: https://kawaiisushi.restaurant/?utm_source=google
-description: "Looking for sushi in La Mesa, California? Check out Kawaii Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Kawaii Sushi serves delicious sushi in La Mesa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx-qOq8ZV2YARY7Rr7dDp3Bw
 photos:
   - name: >-

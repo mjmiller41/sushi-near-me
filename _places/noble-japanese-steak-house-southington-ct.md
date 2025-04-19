@@ -9,7 +9,7 @@ seo:
   name: "Noble Japanese Steak House"
   type: Restaurant
   links: null
-description: "Looking for sushi in Southington, Connecticut? Check out Noble Japanese Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Noble Japanese Steak House serves delicious sushi in Southington, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSZS97RO354kRwTGRwdiv4ts
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Meijo Sushi"
   type: Restaurant
   links: http://meijosushi.weebly.com/
-description: "Looking for sushi in Imperial Beach, California? Check out Meijo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Meijo Sushi serves delicious sushi in Imperial Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEzfcXllM2YARYH9rZc43ndg
 photos:
   - name: >-

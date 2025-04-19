@@ -9,7 +9,7 @@ seo:
   name: "Ajisai"
   type: Restaurant
   links: https://www.ajisaionline.com/contact-us/
-description: "Sleek, modern space offering Pan-Asian plates, innovative Japanese sushi rolls & sake. Looking for sushi in New York, New York? Check out Ajisai for a deligh..."
+description: "Sleek, modern space offering Pan-Asian plates, innovative Japanese sushi rolls & sake. Ajisai serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0__KQe9YwokRtyLRmk1E9nA
 photos:
   - name: >-

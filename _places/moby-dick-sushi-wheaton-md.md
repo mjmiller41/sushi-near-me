@@ -9,7 +9,7 @@ seo:
   name: "Moby Dick Sushi"
   type: Restaurant
   links: http://www.mbdsushi.com/
-description: "Snug setting with a big menu of sushi, Japanese noodles & a few token Korean dishes. Looking for sushi in Wheaton, Maryland? Check out Moby Dick Sushi for a ..."
+description: "Snug setting with a big menu of sushi, Japanese noodles & a few token Korean dishes. Moby Dick Sushi serves delicious sushi in Wheaton, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJyeCMiRzPt4kRrma7Z0YjnuE
 photos:
   - name: >-

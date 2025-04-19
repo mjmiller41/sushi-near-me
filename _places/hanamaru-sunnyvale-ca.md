@@ -9,7 +9,7 @@ seo:
   name: "Hanamaru"
   type: Restaurant
   links: https://gohanamaru.com/?utm_source=google
-description: "Casual Japanese outfit in a strip center offers a lengthy list of specialty sushi rolls. Looking for sushi in Sunnyvale, California? Check out Hanamaru for a..."
+description: "Casual Japanese outfit in a strip center offers a lengthy list of specialty sushi rolls. Hanamaru serves delicious sushi in Sunnyvale, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2_drFum2j4ARdQ3ok0PiRrw
 photos:
   - name: >-

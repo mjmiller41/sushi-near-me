@@ -9,7 +9,7 @@ seo:
   name: "MoMo Sushi"
   type: Restaurant
   links: http://momosushimillcreek.com/
-description: "Looking for sushi in Mill Creek, Washington? Check out MoMo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "MoMo Sushi serves delicious sushi in Mill Creek, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv-y_9JAFkFQR3lgKB5AsWHA
 photos:
   - name: >-

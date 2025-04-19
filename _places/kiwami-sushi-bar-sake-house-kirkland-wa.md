@@ -9,7 +9,7 @@ seo:
   name: "KIWAMI Sushi Bar & Sake House"
   type: Restaurant
   links: http://kiwamisushi.com/
-description: "Looking for sushi in Kirkland, Washington? Check out KIWAMI Sushi Bar & Sake House for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "KIWAMI Sushi Bar & Sake House serves delicious sushi in Kirkland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnS1Vft0SkFQRBrVP8FrrImI
 photos:
   - name: >-

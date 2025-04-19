@@ -9,7 +9,7 @@ seo:
   name: "Yume Hibachi Steak and Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Unionville, Connecticut? Check out Yume Hibachi Steak and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Yume Hibachi Steak and Sushi serves delicious sushi in Unionville, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfXkBAZCv54kRagFq28PqbWE
 photos:
   - name: >-

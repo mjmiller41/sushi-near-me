@@ -9,7 +9,7 @@ seo:
   name: "Sushi Island"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Jose, California? Check out Sushi Island for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Island serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd5S4W6s1joARE51FdFCKIUY
 photos:
   - name: >-

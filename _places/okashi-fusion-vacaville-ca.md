@@ -9,7 +9,7 @@ seo:
   name: "Okashi Fusion"
   type: Restaurant
   links: null
-description: "Looking for sushi in Vacaville, California? Check out Okashi Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Okashi Fusion serves delicious sushi in Vacaville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfeZfAc0ihYARbw8Ws0DN2iU
 photos:
   - name: >-

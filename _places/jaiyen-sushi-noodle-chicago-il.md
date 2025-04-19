@@ -9,7 +9,7 @@ seo:
   name: "Jaiyen Sushi & Noodle"
   type: Restaurant
   links: http://www.jai-yen.com/
-description: "Minimalist Japanese restaurant offering a large menu of sushi & maki, plus Pan-Asian options. Looking for sushi in Chicago, Illinois? Check out Jaiyen Sushi ..."
+description: "Minimalist Japanese restaurant offering a large menu of sushi & maki, plus Pan-Asian options. Jaiyen Sushi & Noodle serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNbBEg4DND4gRmsZ31IgWGyQ
 photos:
   - name: >-

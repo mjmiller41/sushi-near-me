@@ -9,7 +9,7 @@ seo:
   name: "Hawaiian Poke"
   type: Restaurant
   links: null
-description: "Looking for sushi in Youngstown, Ohio? Check out Hawaiian Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Hawaiian Poke serves delicious sushi in Youngstown, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeVyPwsP7M4gRDcx4_jYFYpQ
 photos:
   - name: >-

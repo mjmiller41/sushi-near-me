@@ -9,7 +9,7 @@ seo:
   name: "Honshu"
   type: Restaurant
   links: http://www.honshulounge.com/
-description: "Modern Japanese eatery specializing in sushi & noodles served in a second-story space. Looking for sushi in Jersey City, New Jersey? Check out Honshu for a d..."
+description: "Modern Japanese eatery specializing in sushi & noodles served in a second-story space. Honshu serves delicious sushi in Jersey City, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgXR_NKlQwokR9uRHA0vNKDs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mojos Sushi"
   type: Restaurant
   links: https://mojossushi.com/
-description: "Looking for sushi in Portland, Oregon? Check out Mojos Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Mojos Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU415wjqnlVQR1yzLv48tz48
 photos:
   - name: >-

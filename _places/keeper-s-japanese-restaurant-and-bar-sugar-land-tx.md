@@ -9,7 +9,7 @@ seo:
   name: "Keeper's Japanese Restaurant and Bar"
   type: Restaurant
   links: https://keepersushi.com/
-description: "Looking for sushi in Sugar Land, Texas? Check out Keeper's Japanese Restaurant and Bar for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Keeper's Japanese Restaurant and Bar serves delicious sushi in Sugar Land, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5RUXPnTmQIYR_hxF_roJ73c
 photos:
   - name: >-

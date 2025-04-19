@@ -9,7 +9,7 @@ seo:
   name: "Gin Sushi"
   type: Restaurant
   links: http://ginsushitemecula.com/
-description: "Sushi rolls, udon noodle soups, bento lunch boxes & all-you-can-eat specials in a casual space. Looking for sushi in Temecula, California? Check out Gin Sush..."
+description: "Sushi rolls, udon noodle soups, bento lunch boxes & all-you-can-eat specials in a casual space. Gin Sushi serves delicious sushi in Temecula, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJkbCHzzt-24ARcZ7-f7K4fh0
 photos:
   - name: >-

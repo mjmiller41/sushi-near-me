@@ -9,7 +9,7 @@ seo:
   name: "Pacific Spice"
   type: Restaurant
   links: null
-description: "Looking for sushi in Acworth, Georgia? Check out Pacific Spice for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Pacific Spice serves delicious sushi in Acworth, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQTJ-2HRH9YgRdlmT_gsRaIM
 photos:
   - name: >-

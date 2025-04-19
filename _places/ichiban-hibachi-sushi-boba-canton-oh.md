@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Hibachi sushi & Boba"
   type: Restaurant
   links: https://ichibanoh.com/
-description: "Looking for sushi in Canton, Ohio? Check out Ichiban Hibachi sushi & Boba for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Ichiban Hibachi sushi & Boba serves delicious sushi in Canton, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrfBra_rZNogRECJzzN0rXM8
 photos:
   - name: >-

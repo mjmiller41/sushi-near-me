@@ -9,7 +9,7 @@ seo:
   name: "Umi Sushi & Seafood Buffet -Brandon FL"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brandon, Florida? Check out Umi Sushi & Seafood Buffet -Brandon FL for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Umi Sushi & Seafood Buffet -Brandon FL serves delicious sushi in Brandon, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS3lg_nvPwogRFNljpuXOLlw
 photos:
   - name: >-

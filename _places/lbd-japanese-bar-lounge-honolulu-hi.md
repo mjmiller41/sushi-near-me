@@ -9,7 +9,7 @@ seo:
   name: "LBD Japanese Bar & Lounge"
   type: Restaurant
   links: null
-description: "Looking for sushi in Honolulu, Hawaii? Check out LBD Japanese Bar & Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "LBD Japanese Bar & Lounge serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHefApcdtAHwRUmmkyrFwRO0
 photos:
   - name: >-

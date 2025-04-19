@@ -9,7 +9,7 @@ seo:
   name: "Hana Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Temecula, California? Check out Hana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Hana Sushi serves delicious sushi in Temecula, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXbjL3l9_24AR6WnalauMHUU
 photos:
   - name: >-

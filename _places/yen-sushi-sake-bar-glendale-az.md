@@ -9,7 +9,7 @@ seo:
   name: "Yen Sushi & Sake Bar"
   type: Restaurant
   links: http://yensushi.net/
-description: "Looking for sushi in Glendale, Arizona? Check out Yen Sushi & Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Yen Sushi & Sake Bar serves delicious sushi in Glendale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbeiQtylpK4cRG0ISLq2XEiI
 photos:
   - name: >-

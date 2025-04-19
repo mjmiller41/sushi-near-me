@@ -9,7 +9,7 @@ seo:
   name: "Yoshi (Downtown Indy)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Indianapolis, Indiana? Check out Yoshi (Downtown Indy) for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Yoshi (Downtown Indy) serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIwLQIXNRa4gRqv_0PYfVA0c
 photos:
   - name: >-

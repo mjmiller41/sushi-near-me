@@ -9,7 +9,7 @@ seo:
   name: "TakoSushi- Lexington"
   type: Restaurant
   links: https://takosushi.com/
-description: "Looking for sushi in Lexington, South Carolina? Check out TakoSushi- Lexington for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "TakoSushi- Lexington serves delicious sushi in Lexington, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtxHedcyX-IgRzexF8C2YTtk
 photos:
   - name: >-

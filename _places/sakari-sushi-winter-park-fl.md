@@ -9,7 +9,7 @@ seo:
   name: "Sakari Sushi"
   type: Restaurant
   links: http://www.sakarisushi.com/
-description: "Sushi, sashimi & other Japanese specialties offered in a shopping-mall spot with outdoor seating. Looking for sushi in Winter Park, Florida? Check out Sakari..."
+description: "Sushi, sashimi & other Japanese specialties offered in a shopping-mall spot with outdoor seating. Sakari Sushi serves delicious sushi in Winter Park, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvdpNf2tw54gR-yw9XK2VCEQ
 photos:
   - name: >-

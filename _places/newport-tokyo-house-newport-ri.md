@@ -9,7 +9,7 @@ seo:
   name: "Newport Tokyo House"
   type: Restaurant
   links: https://www.newporttokyohousenewport.com/
-description: "Casual Japanese restaurant featuring teppanyaki chefs cooking tabletop & a sushi menu. Looking for sushi in Newport, Rhode Island? Check out Newport Tokyo Ho..."
+description: "Casual Japanese restaurant featuring teppanyaki chefs cooking tabletop & a sushi menu. Newport Tokyo House serves delicious sushi in Newport, Rhode Island. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIU5xiz-v5YkROsvLCyhgnE0
 photos:
   - name: >-

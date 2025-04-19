@@ -9,7 +9,7 @@ seo:
   name: "Keyaki Sushi"
   type: Restaurant
   links: http://www.keyakisushiut.com/
-description: "Looking for sushi in Midvale, Utah? Check out Keyaki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Keyaki Sushi serves delicious sushi in Midvale, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiybCUpqLUocRNxccaEnP8_c
 photos:
   - name: >-

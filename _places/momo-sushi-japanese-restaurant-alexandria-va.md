@@ -9,7 +9,7 @@ seo:
   name: "Momo Sushi Japanese Restaurant"
   type: Restaurant
   links: http://momosushioldtown.com/
-description: "Sushi bar & kitchen with fresh rolls, teriyaki & noodles, plus lots of wine, sake & Japanese beers. Looking for sushi in Alexandria, Virginia? Check out Momo..."
+description: "Sushi bar & kitchen with fresh rolls, teriyaki & noodles, plus lots of wine, sake & Japanese beers. Momo Sushi Japanese Restaurant serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL3GvV_awt4kRVgK3mtw6keo
 photos:
   - >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Shack All You Can Eat of Plano"
   type: Restaurant
   links: https://www.4sushitogo.com/
-description: "Looking for sushi in Plano, Texas? Check out Sushi Shack All You Can Eat of Plano for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Sushi Shack All You Can Eat of Plano serves delicious sushi in Plano, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC7yyFIMiTIYRxhersE2uPu0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Poke Qube"
   type: Restaurant
   links: null
-description: "Looking for sushi in Vancouver, Washington? Check out Poke Qube for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Poke Qube serves delicious sushi in Vancouver, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmQTWp1OvlVQRhF0LKZHeXhw
 photos:
   - name: >-

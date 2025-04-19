@@ -9,7 +9,7 @@ seo:
   name: "sapporo japanese bistro"
   type: Restaurant
   links: https://sapporotx.com/
-description: "Sleek, contemporary spot for a full Japanese menu of sushi & cooked fare, with sake & cocktails. Looking for sushi in Magnolia, Texas? Check out sapporo japa..."
+description: "Sleek, contemporary spot for a full Japanese menu of sushi & cooked fare, with sake & cocktails. sapporo japanese bistro serves delicious sushi in Magnolia, Texas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJy9zH37svR4YRGLXs0Oc0dZs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Aoki Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in La Verne, California? Check out Aoki Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Aoki Japanese Restaurant serves delicious sushi in La Verne, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcw7PD00uw4ARN6bDyAScU2k
 photos:
   - name: >-

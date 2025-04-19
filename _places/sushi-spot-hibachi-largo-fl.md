@@ -9,7 +9,7 @@ seo:
   name: "Sushi Spot /hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Largo, Florida? Check out Sushi Spot /hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Spot /hibachi serves delicious sushi in Largo, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTfFXL6T6wogRvcor1F2LEBI
 photos:
   - name: >-

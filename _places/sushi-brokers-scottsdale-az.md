@@ -9,7 +9,7 @@ seo:
   name: "Sushi Brokers"
   type: Restaurant
   links: null
-description: "Looking for sushi in Scottsdale, Arizona? Check out Sushi Brokers for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Brokers serves delicious sushi in Scottsdale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJbT08iB0K4cRkPtazxTEqQk
 photos:
   - name: >-

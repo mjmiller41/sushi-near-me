@@ -9,7 +9,7 @@ seo:
   name: "Kin Sushi & Thai Cuisine"
   type: Restaurant
   links: http://www.kinsushiandthai.com/
-description: "Mixed Asian eats & BYOB in a clubby, low-lit setting with black walls, ductwork & a lounge area. Looking for sushi in Chicago, Illinois? Check out Kin Sushi ..."
+description: "Mixed Asian eats & BYOB in a clubby, low-lit setting with black walls, ductwork & a lounge area. Kin Sushi & Thai Cuisine serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJLy48c9HSD4gRLrpihKmHjRs
 photos:
   - name: >-

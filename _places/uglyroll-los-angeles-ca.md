@@ -9,7 +9,7 @@ seo:
   name: "UglyRoll"
   type: Restaurant
   links: https://uglyroll.com/
-description: "Looking for sushi in Los Angeles, California? Check out UglyRoll for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "UglyRoll serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGVSq8ku6woARRHMpYW5TZI4
 photos:
   - name: >-

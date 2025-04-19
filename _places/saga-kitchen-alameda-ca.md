@@ -9,7 +9,7 @@ seo:
   name: "SAGA Kitchen"
   type: Restaurant
   links: https://sagakitchen.com/
-description: "Looking for sushi in Alameda, California? Check out SAGA Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "SAGA Kitchen serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1Qs6-5SHj4ARQGTpIVmxgVU
 photos:
   - name: >-

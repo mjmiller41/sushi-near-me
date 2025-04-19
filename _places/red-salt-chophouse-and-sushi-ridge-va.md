@@ -9,7 +9,7 @@ seo:
   name: "Red Salt Chophouse and Sushi"
   type: Restaurant
   links: https://www.redsaltrva.com/
-description: "Steaks & sushi pair with global wines & unique cocktails at this industrial-chic American chophouse. Looking for sushi in Ridge, Virginia? Check out Red Salt..."
+description: "Steaks & sushi pair with global wines & unique cocktails at this industrial-chic American chophouse. Red Salt Chophouse and Sushi serves delicious sushi in Ridge, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOw7Y4gtqsYkR259v59tjrCE
 photos:
   - name: >-

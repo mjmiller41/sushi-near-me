@@ -9,7 +9,7 @@ seo:
   name: "Nori Ramen and Sushi Bar"
   type: Restaurant
   links: https://selflane.com/bizs/nori-ramen-and-sushi-bar_rio-rancho_nm
-description: "Looking for sushi in Rio Rancho, New Mexico? Check out Nori Ramen and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Nori Ramen and Sushi Bar serves delicious sushi in Rio Rancho, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx0hF8UFwIocRmtLYczRAvPM
 photos:
   - name: >-

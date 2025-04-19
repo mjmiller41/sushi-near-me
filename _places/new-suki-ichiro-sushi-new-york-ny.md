@@ -9,7 +9,7 @@ seo:
   name: "New Suki Ichiro Sushi"
   type: Restaurant
   links: https://www.sukiichiro.com/
-description: "Sushi, salads & soups along with Japanese cooked dishes served in a simple setting. Looking for sushi in New York, New York? Check out New Suki Ichiro Sushi ..."
+description: "Sushi, salads & soups along with Japanese cooked dishes served in a simple setting. New Suki Ichiro Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJ5Rs7-FZwokRzTB44Wg1q6k
 photos:
   - name: >-

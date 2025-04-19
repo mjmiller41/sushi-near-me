@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Hibachi & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pittsburgh, Pennsylvania? Check out Ichiban Hibachi & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Ichiban Hibachi & Sushi Bar serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ06KcDWTNIgR_KOB-hCyPO8
 photos:
   - name: >-

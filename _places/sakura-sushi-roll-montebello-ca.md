@@ -9,7 +9,7 @@ seo:
   name: "Sakura Sushi & Roll"
   type: Restaurant
   links: https://www.sakurasushiroll.com/
-description: "Looking for sushi in Montebello, California? Check out Sakura Sushi & Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Sakura Sushi & Roll serves delicious sushi in Montebello, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx2w_JxrOwoARyfFJ09rh_Z4
 photos:
   - name: >-

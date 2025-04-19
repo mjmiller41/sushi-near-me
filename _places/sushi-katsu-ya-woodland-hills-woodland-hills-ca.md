@@ -9,7 +9,7 @@ seo:
   name: "Sushi Katsu-ya Woodland Hills"
   type: Restaurant
   links: null
-description: "Looking for sushi in Woodland Hills, California? Check out Sushi Katsu-ya Woodland Hills for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "Sushi Katsu-ya Woodland Hills serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK9ukRSCcwoAR5c86_owdTJ8
 photos:
   - name: >-

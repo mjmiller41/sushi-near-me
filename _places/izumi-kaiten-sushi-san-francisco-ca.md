@@ -9,7 +9,7 @@ seo:
   name: "Izumi Kaiten Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Izumi Kaiten Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Izumi Kaiten Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp6hUL4mBhYARy4LV0kueG9g
 photos:
   - name: >-

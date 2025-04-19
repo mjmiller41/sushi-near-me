@@ -9,7 +9,7 @@ seo:
   name: "Sweet Fish Sushi Bar & Restaurant"
   type: Restaurant
   links: https://www.sweetfishsushi.com/
-description: "Looking for sushi in Los Angeles, California? Check out Sweet Fish Sushi Bar & Restaurant for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "Sweet Fish Sushi Bar & Restaurant serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI2ylGpqwwoARXf8ekhARgn8
 photos:
   - name: >-

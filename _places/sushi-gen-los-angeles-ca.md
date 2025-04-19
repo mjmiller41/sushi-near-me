@@ -9,7 +9,7 @@ seo:
   name: "Sushi Gen"
   type: Restaurant
   links: http://www.sushigen-dtla.com/
-description: "Looking for sushi in Los Angeles, California? Check out Sushi Gen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Gen serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnQsVUDjGwoARcEGiOJrPzZY
 photos:
   - name: >-

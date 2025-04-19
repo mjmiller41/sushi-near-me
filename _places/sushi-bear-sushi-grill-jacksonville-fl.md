@@ -9,7 +9,7 @@ seo:
   name: "Sushi Bear Sushi & Grill"
   type: Restaurant
   links: http://sushibearjax.com/
-description: "Grilled Japanese specialties & sushi are served in this lively, colorful family restaurant. Looking for sushi in Jacksonville, Florida? Check out Sushi Bear ..."
+description: "Grilled Japanese specialties & sushi are served in this lively, colorful family restaurant. Sushi Bear Sushi & Grill serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJO_KdM2i45YgRapsDIeWzMM8
 photos:
   - name: >-

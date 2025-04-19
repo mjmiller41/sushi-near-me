@@ -9,7 +9,7 @@ seo:
   name: "Susheria"
   type: Restaurant
   links: https://susheriadc.com/
-description: "Sushi, Latin cocktails & more are served in a posh, modern space that holds occasional DJ'd parties. Looking for sushi in Washington, District of Columbia? C..."
+description: "Sushi, Latin cocktails & more are served in a posh, modern space that holds occasional DJ'd parties. Susheria serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmxMR7z23t4kR-sVnzbNuxuo
 photos:
   - name: >-

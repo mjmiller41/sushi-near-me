@@ -9,7 +9,7 @@ seo:
   name: "Koto Japanese Steakhouse"
   type: Restaurant
   links: https://www.kotofishers.com/
-description: "Looking for sushi in Noblesville, Indiana? Check out Koto Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Koto Japanese Steakhouse serves delicious sushi in Noblesville, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJT-xM6GHJFIgRSowJ0UO51e8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "SKAI Sushi"
   type: Restaurant
   links: https://www.skaisushi.com/contact
-description: "Looking for sushi in Blaine, Washington? Check out SKAI Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "SKAI Sushi serves delicious sushi in Blaine, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVVVlYwrAhVQRnzoNRTdL7PM
 photos:
   - name: >-

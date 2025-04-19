@@ -9,7 +9,7 @@ seo:
   name: "Mujō"
   type: Restaurant
   links: https://www.mujoatl.com/
-description: "Looking for sushi in Atlanta, Georgia? Check out Mujō for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Mujō serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJIb9pCKMF9YgRWsQF-tZOGdI
 photos:
   - name: >-

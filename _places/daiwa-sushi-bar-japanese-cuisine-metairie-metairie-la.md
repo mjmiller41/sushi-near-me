@@ -9,7 +9,7 @@ seo:
   name: "Daiwa Sushi Bar & Japanese Cuisine - Metairie"
   type: Restaurant
   links: null
-description: "Looking for sushi in Metairie, Louisiana? Check out Daiwa Sushi Bar & Japanese Cuisine - Metairie for a delightful Japanese dining experience. Enjoy a variet..."
+description: "Daiwa Sushi Bar & Japanese Cuisine - Metairie serves delicious sushi in Metairie, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4URFboyxIIYR9y63APV3JcA
 photos:
   - name: >-

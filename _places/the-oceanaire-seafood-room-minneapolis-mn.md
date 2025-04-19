@@ -9,7 +9,7 @@ seo:
   name: "The Oceanaire Seafood Room"
   type: Restaurant
   links: https://www.theoceanaire.com/location/minneapolis-mn/
-description: "High-end chain offering seafood, steaks & a deep wine list in sophisticated but lively environs. Looking for sushi in Minneapolis, Minnesota? Check out The O..."
+description: "High-end chain offering seafood, steaks & a deep wine list in sophisticated but lively environs. The Oceanaire Seafood Room serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJMYwGzL8ys1IR3HOaQldAnW4
 photos:
   - name: >-

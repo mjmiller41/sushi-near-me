@@ -9,7 +9,7 @@ seo:
   name: "Urban Sushi Kitchen"
   type: Restaurant
   links: http://www.urbansushikitchen.com/
-description: "Looking for sushi in Seattle, Washington? Check out Urban Sushi Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Urban Sushi Kitchen serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-4RhGUsVkFQRllCF99g9t_M
 photos:
   - name: >-

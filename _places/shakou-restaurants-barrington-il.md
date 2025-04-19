@@ -9,7 +9,7 @@ seo:
   name: "Shakou Restaurants"
   type: Restaurant
   links: null
-description: "Looking for sushi in Barrington, Illinois? Check out Shakou Restaurants for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Shakou Restaurants serves delicious sushi in Barrington, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL9bU49qgD4gRVOkkdzfsf8Q
 photos:
   - name: >-

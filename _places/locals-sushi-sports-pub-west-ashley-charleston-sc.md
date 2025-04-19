@@ -9,7 +9,7 @@ seo:
   name: "Locals Sushi & Sports Pub - West Ashley"
   type: Restaurant
   links: http://www.localssushi.com/
-description: "Looking for sushi in Charleston, South Carolina? Check out Locals Sushi & Sports Pub - West Ashley for a delightful Japanese dining experience. Enjoy a varie..."
+description: "Locals Sushi & Sports Pub - West Ashley serves delicious sushi in Charleston, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6R2WXq97_ogRzqxo5MBMfEQ
 photos:
   - name: >-

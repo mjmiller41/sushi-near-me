@@ -9,7 +9,7 @@ seo:
   name: "Trapper's Sushi - Bonney Lake"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bonney Lake, Washington? Check out Trapper's Sushi - Bonney Lake for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Trapper's Sushi - Bonney Lake serves delicious sushi in Bonney Lake, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU8rO_en6kFQRKY-MtcDbQas
 photos:
   - name: >-

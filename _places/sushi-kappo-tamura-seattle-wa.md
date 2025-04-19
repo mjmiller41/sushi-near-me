@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kappo Tamura"
   type: Restaurant
   links: http://www.sushikappotamura.com/
-description: "Looking for sushi in Seattle, Washington? Check out Sushi Kappo Tamura for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sushi Kappo Tamura serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd1iy3uQUkFQRe6Yz_UHNbKI
 photos:
   - name: >-

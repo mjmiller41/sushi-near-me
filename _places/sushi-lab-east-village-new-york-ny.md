@@ -9,7 +9,7 @@ seo:
   name: "Sushi Lab - East Village"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Sushi Lab - East Village for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Sushi Lab - East Village serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8-4_b-xZwokRk5I1tZqJLtA
 photos:
   - name: >-

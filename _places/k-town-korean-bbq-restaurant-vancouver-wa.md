@@ -9,7 +9,7 @@ seo:
   name: "K-Town Korean BBQ Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Vancouver, Washington? Check out K-Town Korean BBQ Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "K-Town Korean BBQ Restaurant serves delicious sushi in Vancouver, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLylRffevlVQRmr4daFuXVM0
 photos:
   - name: >-

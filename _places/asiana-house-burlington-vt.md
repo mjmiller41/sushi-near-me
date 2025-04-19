@@ -9,7 +9,7 @@ seo:
   name: "Asiana House"
   type: Restaurant
   links: https://www.asianahouse.net/
-description: "Looking for sushi in Burlington, Vermont? Check out Asiana House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Asiana House serves delicious sushi in Burlington, Vermont. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJtbUahPZ6ykwR1m0suhQ2CvU
 photos:
   - name: >-

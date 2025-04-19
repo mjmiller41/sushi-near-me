@@ -9,7 +9,7 @@ seo:
   name: "Sushi Huku"
   type: Restaurant
   links: http://sushihuku.net/
-description: "Serving Japanese cuisine in a tranquil wood-paneled dining room with a polished wood sushi bar. Looking for sushi in San Marcos, California? Check out Sushi ..."
+description: "Serving Japanese cuisine in a tranquil wood-paneled dining room with a polished wood sushi bar. Sushi Huku serves delicious sushi in San Marcos, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ3XAbzVB13IARIjOEq368FRE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Asahi Japanese Steak & Seafood"
   type: Restaurant
   links: null
-description: "Looking for sushi in California, Maryland? Check out Asahi Japanese Steak & Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Asahi Japanese Steak & Seafood serves delicious sushi in California, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHby_lyBit4kRWGXTrDaxne4
 photos:
   - name: >-

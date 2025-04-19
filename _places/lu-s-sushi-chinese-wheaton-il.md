@@ -9,7 +9,7 @@ seo:
   name: "Lu's Sushi & Chinese"
   type: Restaurant
   links: http://lussushiandchinese.com/
-description: "Simple shopping plaza destination for sushi & Chinese food as well as beer, wine & sake. Looking for sushi in Wheaton, Illinois? Check out Lu's Sushi & Chine..."
+description: "Simple shopping plaza destination for sushi & Chinese food as well as beer, wine & sake. Lu's Sushi & Chinese serves delicious sushi in Wheaton, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJs6IHWalTDogRYLUAaYSyM40
 photos:
   - name: >-

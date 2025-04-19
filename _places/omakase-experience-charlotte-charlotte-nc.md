@@ -9,7 +9,7 @@ seo:
   name: "Omakase Experience Charlotte"
   type: Restaurant
   links: http://omakaseclt.com/
-description: "Looking for sushi in Charlotte, North Carolina? Check out Omakase Experience Charlotte for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Omakase Experience Charlotte serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWxvHnjghVIgR2Iog3QuTHFo
 photos:
   - name: >-

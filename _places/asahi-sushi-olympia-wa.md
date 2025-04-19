@@ -9,7 +9,7 @@ seo:
   name: "Asahi Sushi"
   type: Restaurant
   links: https://asahisushiolympia.com/
-description: "Looking for sushi in Olympia, Washington? Check out Asahi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Asahi Sushi serves delicious sushi in Olympia, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVW-dpaB1kVQR7GkEIBBF6Bc
 photos:
   - name: >-

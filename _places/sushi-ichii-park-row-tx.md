@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ichii"
   type: Restaurant
   links: https://sushiichii.kwickmenu.com/
-description: "Looking for sushi in Park Row, Texas? Check out Sushi Ichii for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Sushi Ichii serves delicious sushi in Park Row, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj6qHCUInQYYR4o3P4jYBM14
 photos:
   - name: >-

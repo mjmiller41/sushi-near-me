@@ -9,7 +9,7 @@ seo:
   name: "Sakura Blue"
   type: Restaurant
   links: http://sakurabluelouisville.com/
-description: "Relaxed restaurant offering classic Japanese cuisine at the sushi bar or hibachi tables. Looking for sushi in Louisville, Kentucky? Check out Sakura Blue for..."
+description: "Relaxed restaurant offering classic Japanese cuisine at the sushi bar or hibachi tables. Sakura Blue serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnyANjzt1aYgRK8fWJDri2sw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Elephant #8 Thai Cuisine & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Sharon, Pennsylvania? Check out Elephant #8 Thai Cuisine & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Elephant #8 Thai Cuisine & Sushi serves delicious sushi in Sharon, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCc_FX1rBM4gRL3AYqTpisyg
 photos:
   - name: >-

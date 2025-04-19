@@ -9,7 +9,7 @@ seo:
   name: "The Hamilton"
   type: Restaurant
   links: https://www.thehamiltondc.com/
-description: "Hip American eatery with late hours, plus plenty of room in a live music space downstairs. Looking for sushi in Washington, District of Columbia? Check out T..."
+description: "Hip American eatery with late hours, plus plenty of room in a live music space downstairs. The Hamilton serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0zjVx5e3t4kRPiQqmswuh9c
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kee's Teriyaki & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in El Paso, Texas? Check out Kee's Teriyaki & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Kee's Teriyaki & Sushi serves delicious sushi in El Paso, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgfnAuGhE54YRcreq3Eo5wto
 photos:
   - name: >-

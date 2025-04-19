@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi & hibachi"
   type: Restaurant
   links: http://www.tokyomankato.com/
-description: "Casual Japanese restaurant offering a sizable selection of sushi along with hibachi tables. Looking for sushi in Mankato, Minnesota? Check out Tokyo Sushi & ..."
+description: "Casual Japanese restaurant offering a sizable selection of sushi along with hibachi tables. Tokyo Sushi & hibachi serves delicious sushi in Mankato, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJBccBzWQ69IcRMOsBeNHZ_pM
 photos:
   - name: >-

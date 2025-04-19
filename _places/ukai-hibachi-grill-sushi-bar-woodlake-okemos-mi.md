@@ -9,7 +9,7 @@ seo:
   name: "Ukai Hibachi Grill & Sushi Bar Woodlake"
   type: Restaurant
   links: null
-description: "Looking for sushi in Okemos, Michigan? Check out Ukai Hibachi Grill & Sushi Bar Woodlake for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "Ukai Hibachi Grill & Sushi Bar Woodlake serves delicious sushi in Okemos, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJR6bNWtLcIogRihTckpvCGDw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "W-Tao Sushi"
   type: Restaurant
   links: https://www.w-taosushi.com/
-description: "Sushi, hot Japanese fare & cocktails served in a sleek, dark space with traditional decor touches. Looking for sushi in Des Moines, Iowa? Check out W-Tao Sus..."
+description: "Sushi, hot Japanese fare & cocktails served in a sleek, dark space with traditional decor touches. W-Tao Sushi serves delicious sushi in Des Moines, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSxqSXACZ7ocRxoUG0zoY6gE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "ZENSHI Handcrafted Sushi"
   type: Restaurant
   links: https://www.zenshisushi.com/
-description: "Looking for sushi in South Easton, Massachusetts? Check out ZENSHI Handcrafted Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "ZENSHI Handcrafted Sushi serves delicious sushi in South Easton, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpYS576KJ5IkRfVol7SaCydg
 photos:
   - name: >-

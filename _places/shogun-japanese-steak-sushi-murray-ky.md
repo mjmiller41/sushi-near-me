@@ -9,7 +9,7 @@ seo:
   name: "Shogun Japanese Steak & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Murray, Kentucky? Check out Shogun Japanese Steak & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Shogun Japanese Steak & Sushi serves delicious sushi in Murray, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA29RMphSeogRzxcESBzAJSw
 photos:
   - name: >-

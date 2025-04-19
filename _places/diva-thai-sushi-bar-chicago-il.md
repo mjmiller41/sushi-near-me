@@ -9,7 +9,7 @@ seo:
   name: "Diva Thai & Sushi Bar"
   type: Restaurant
   links: http://www.divathaisushibar.com/
-description: "Casual, late-night BYOB spot serving a menu of Thai faves & sushi with many vegetarian options. Looking for sushi in Chicago, Illinois? Check out Diva Thai &..."
+description: "Casual, late-night BYOB spot serving a menu of Thai faves & sushi with many vegetarian options. Diva Thai & Sushi Bar serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJqwO7QbDTD4gRcu1R7fD5Je4
 photos:
   - name: >-

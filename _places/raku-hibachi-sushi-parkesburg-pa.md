@@ -9,7 +9,7 @@ seo:
   name: "Raku Hibachi & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Parkesburg, Pennsylvania? Check out Raku Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Raku Hibachi & Sushi serves delicious sushi in Parkesburg, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS6MgNadFxokR8x76blQuODM
 photos:
   - name: >-

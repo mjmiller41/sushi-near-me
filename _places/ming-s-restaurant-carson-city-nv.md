@@ -9,7 +9,7 @@ seo:
   name: "Ming's Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Carson City, Nevada? Check out Ming's Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Ming's Restaurant serves delicious sushi in Carson City, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh9yYhxSgmYAR3B5_YER2BFc
 photos:
   - name: >-

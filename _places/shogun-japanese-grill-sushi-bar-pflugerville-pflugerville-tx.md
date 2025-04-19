@@ -9,7 +9,7 @@ seo:
   name: "Shogun Japanese Grill & Sushi Bar (Pflugerville)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pflugerville, Texas? Check out Shogun Japanese Grill & Sushi Bar (Pflugerville) for a delightful Japanese dining experience. Enjoy a var..."
+description: "Shogun Japanese Grill & Sushi Bar (Pflugerville) serves delicious sushi in Pflugerville, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8bsv6GnFRIYRUjk88wKJKGI
 photos:
   - name: >-

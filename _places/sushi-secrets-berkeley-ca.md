@@ -9,7 +9,7 @@ seo:
   name: "Sushi Secrets"
   type: Restaurant
   links: http://sushisecrets.net/
-description: "Looking for sushi in Berkeley, California? Check out Sushi Secrets for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Secrets serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4-b6gZ5-hYAR4uHSfbjytr4
 photos:
   - name: >-

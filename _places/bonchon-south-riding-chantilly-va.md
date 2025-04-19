@@ -9,7 +9,7 @@ seo:
   name: "Bonchon South Riding"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chantilly, Virginia? Check out Bonchon South Riding for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Bonchon South Riding serves delicious sushi in Chantilly, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJixlXK6RBtokRcAGy-zElk0Q
 photos:
   - name: >-

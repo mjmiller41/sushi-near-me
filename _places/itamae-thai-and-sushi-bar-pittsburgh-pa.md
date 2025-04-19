@@ -9,7 +9,7 @@ seo:
   name: "Itamae Thai and Sushi Bar"
   type: Restaurant
   links: https://www.itamaethaisushi.com/
-description: "Looking for sushi in Pittsburgh, Pennsylvania? Check out Itamae Thai and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Itamae Thai and Sushi Bar serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJy1c2JOD3NIgRGMmNPXgbUmk
 photos:
   - name: >-

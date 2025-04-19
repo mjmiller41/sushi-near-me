@@ -9,7 +9,7 @@ seo:
   name: "Momokawa"
   type: Restaurant
   links: http://www.momokawanyc.com/
-description: "Traditional techniques are used at this compact local restaurant for Japanese favorites. Looking for sushi in New York, New York? Check out Momokawa for a de..."
+description: "Traditional techniques are used at this compact local restaurant for Japanese favorites. Momokawa serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJc_k9q8BYwokR_h64b37WXD8
 photos:
   - name: >-

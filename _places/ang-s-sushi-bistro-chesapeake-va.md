@@ -9,7 +9,7 @@ seo:
   name: "Ang's Sushi Bistro"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chesapeake, Virginia? Check out Ang's Sushi Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Ang's Sushi Bistro serves delicious sushi in Chesapeake, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbf2qlIG7uokRETOWRByFRwE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Izu Sushi Asian fusion"
   type: Restaurant
   links: https://www.izusushi-online.com/
-description: "Looking for sushi in Lansdale, Pennsylvania? Check out Izu Sushi Asian fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Izu Sushi Asian fusion serves delicious sushi in Lansdale, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS4qXTpyjxokRoxCOg2uXUsE
 photos:
   - name: >-

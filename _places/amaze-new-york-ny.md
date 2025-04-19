@@ -9,7 +9,7 @@ seo:
   name: "Amaze"
   type: Restaurant
   links: http://www.amazerestaurant.com/
-description: "Pan-Asian hub for creative sushi & sashimi bites with a simple bar & dimly lit atmosphere. Looking for sushi in New York, New York? Check out Amaze for a del..."
+description: "Pan-Asian hub for creative sushi & sashimi bites with a simple bar & dimly lit atmosphere. Amaze serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9cDQ-QJZwokRY1mXBDuFNag
 photos:
   - name: >-

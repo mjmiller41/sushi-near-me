@@ -9,7 +9,7 @@ seo:
   name: "Yummy Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Robbinsville Twp, New Jersey? Check out Yummy Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Yummy Sushi serves delicious sushi in Robbinsville Twp, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ54D3YrBfwYkRsO7c0HVKPOs
 photos:
   - name: >-

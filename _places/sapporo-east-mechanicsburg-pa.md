@@ -9,7 +9,7 @@ seo:
   name: "Sapporo East"
   type: Restaurant
   links: http://www.sapporoeastsushi.com/
-description: "Outpost of a small Japanese-food chain offering sushi, hibachi dishes, teriyaki & tempura. Looking for sushi in Mechanicsburg, Pennsylvania? Check out Sappor..."
+description: "Outpost of a small Japanese-food chain offering sushi, hibachi dishes, teriyaki & tempura. Sapporo East serves delicious sushi in Mechanicsburg, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJt5YAUGDCyIkRnIZE8ymIXpI
 photos:
   - name: >-

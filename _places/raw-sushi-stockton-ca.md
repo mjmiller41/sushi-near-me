@@ -9,7 +9,7 @@ seo:
   name: "Raw Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Stockton, California? Check out Raw Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Raw Sushi serves delicious sushi in Stockton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGdBoxpgJkIARiO-x0kzQgkE
 photos:
   - name: >-

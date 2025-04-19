@@ -9,7 +9,7 @@ seo:
   name: "Shino Sushi + Kappo"
   type: Restaurant
   links: https://www.facebook.com/people/Shino-Sushi/100041554766846/
-description: "Laid-back Japanese eatery serving sushi & rolls in simple, contemporary surrounds. Looking for sushi in San Diego, California? Check out Shino Sushi + Kappo ..."
+description: "Laid-back Japanese eatery serving sushi & rolls in simple, contemporary surrounds. Shino Sushi + Kappo serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJeSeoV6xU2YARSJzqWsZOSvU
 photos:
   - name: >-

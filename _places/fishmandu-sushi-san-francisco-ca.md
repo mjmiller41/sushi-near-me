@@ -9,7 +9,7 @@ seo:
   name: "Fishmandu Sushi"
   type: Restaurant
   links: http://fishmandusushi.com/
-description: "A pint-sized neighborhood destination serving sushi & seafood, plus a few American standards. Looking for sushi in San Francisco, California? Check out Fishm..."
+description: "A pint-sized neighborhood destination serving sushi & seafood, plus a few American standards. Fishmandu Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2WRB2X2BhYAR6BvcLClEdqo
 photos:
   - name: >-

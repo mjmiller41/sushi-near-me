@@ -9,7 +9,7 @@ seo:
   name: "Sushi Hana Boulder"
   type: Restaurant
   links: null
-description: "Looking for sushi in Boulder, Colorado? Check out Sushi Hana Boulder for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Hana Boulder serves delicious sushi in Boulder, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ__px7DDsa4cRGWV9PGYYhW4
 photos:
   - name: >-

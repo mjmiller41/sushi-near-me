@@ -9,7 +9,7 @@ seo:
   name: "Ahi Ahi Sushi Bar and Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Foothill Ranch, California? Check out Ahi Ahi Sushi Bar and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Ahi Ahi Sushi Bar and Grill serves delicious sushi in Foothill Ranch, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ48BuLeDp3IARRqab1Wuvfb4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sakari Sushi"
   type: Restaurant
   links: https://sakarisushibuffet.wixsite.com/sakarisushisuffolk/menu
-description: "Looking for sushi in Suffolk, Virginia? Check out Sakari Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sakari Sushi serves delicious sushi in Suffolk, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJH_LM5TOfuokR8q49IoEszfw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "YUKI Handroll Bar"
   type: Restaurant
   links: http://yukihandroll.com/
-description: "Looking for sushi in Austin, Texas? Check out YUKI Handroll Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "YUKI Handroll Bar serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJAykSq3A1W4YRYca6HwwrKXw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kawa Revolving Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cincinnati, Ohio? Check out Kawa Revolving Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Kawa Revolving Sushi serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIetmZgCtQYgR7COIP2LEQUk
 photos:
   - name: >-

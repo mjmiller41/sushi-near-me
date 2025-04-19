@@ -9,7 +9,7 @@ seo:
   name: "Montira Thai and Sushi"
   type: Restaurant
   links: http://montirathaiandsushi.com/
-description: "Quaint kitchen offering Thai curries, soups & noodles in brick-lined digs with outdoor tables. Looking for sushi in Glenview, Illinois? Check out Montira Tha..."
+description: "Quaint kitchen offering Thai curries, soups & noodles in brick-lined digs with outdoor tables. Montira Thai and Sushi serves delicious sushi in Glenview, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJYxoV-ObHD4gRA8xzvR8ejv4
 photos:
   - name: >-

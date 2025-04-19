@@ -9,7 +9,7 @@ seo:
   name: "Kano Cafe"
   type: Restaurant
   links: https://yoshihibachi.com/
-description: "Looking for sushi in Temple, Texas? Check out Kano Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "Kano Cafe serves delicious sushi in Temple, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiRF6TmJrRYYR35hjoLbqKqQ
 photos:
   - name: >-

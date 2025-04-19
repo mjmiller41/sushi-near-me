@@ -9,7 +9,7 @@ seo:
   name: "Sumo Sushi & Hibachi"
   type: Restaurant
   links: http://www.sumomidland.com/
-description: "Looking for sushi in Midland, Texas? Check out Sumo Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sumo Sushi & Hibachi serves delicious sushi in Midland, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW7alNi7Z-4YRQqheJ1I2Yls
 photos:
   - name: >-

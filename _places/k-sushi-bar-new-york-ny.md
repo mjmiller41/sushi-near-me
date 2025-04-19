@@ -9,7 +9,7 @@ seo:
   name: "K SUSHI & BAR"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out K SUSHI & BAR for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "K SUSHI & BAR serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh40VCABZwokRqBpRmqN-C1M
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mio Sushi 23rd Johnson St."
   type: Restaurant
   links: null
-description: "Looking for sushi in Portland, Oregon? Check out Mio Sushi 23rd Johnson St. for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Mio Sushi 23rd Johnson St. serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLeOt8PAJlVQRM3w1RYgCYSo
 photos:
   - name: >-

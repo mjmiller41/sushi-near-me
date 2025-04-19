@@ -9,7 +9,7 @@ seo:
   name: "Sushi Anza"
   type: Restaurant
   links: http://www.sushianza.com/cms/
-description: "Looking for sushi in Torrance, California? Check out Sushi Anza for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Anza serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdRc6rs60woARCDWh5nBWrq8
 photos:
   - name: >-

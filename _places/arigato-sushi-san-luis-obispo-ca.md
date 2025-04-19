@@ -9,7 +9,7 @@ seo:
   name: "Arigato Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Luis Obispo, California? Check out Arigato Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Arigato Sushi serves delicious sushi in San Luis Obispo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb_uspLvx7IARTwaI7_ohIB0
 photos:
   - name: >-

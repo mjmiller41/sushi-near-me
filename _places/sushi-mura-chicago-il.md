@@ -9,7 +9,7 @@ seo:
   name: "Sushi Mura"
   type: Restaurant
   links: http://www.sushimurachicago.com/
-description: "Sushi restaurant with specialty maki rolls & other Japanese fare in an intimate, stylish space. Looking for sushi in Chicago, Illinois? Check out Sushi Mura ..."
+description: "Sushi restaurant with specialty maki rolls & other Japanese fare in an intimate, stylish space. Sushi Mura serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL0Z-j07SD4gRpczF7BBU0YY
 photos:
   - name: >-

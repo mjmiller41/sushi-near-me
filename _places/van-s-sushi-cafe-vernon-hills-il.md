@@ -9,7 +9,7 @@ seo:
   name: "Van's Sushi Cafe"
   type: Restaurant
   links: http://www.vanssushicafe.com/
-description: "Small, unpretentious counter-serve place specializing in pre-packaged sushi & sashimi. Looking for sushi in Vernon Hills, Illinois? Check out Van's Sushi Caf..."
+description: "Small, unpretentious counter-serve place specializing in pre-packaged sushi & sashimi. Van's Sushi Cafe serves delicious sushi in Vernon Hills, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJP4N0O_m_D4gRefyd7pclF8g
 photos:
   - name: >-

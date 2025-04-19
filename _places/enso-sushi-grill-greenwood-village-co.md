@@ -9,7 +9,7 @@ seo:
   name: "Enso Sushi & Grill"
   type: Restaurant
   links: https://www.ensosushigrill.com/?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Greenwood Village, Colorado? Check out Enso Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Enso Sushi & Grill serves delicious sushi in Greenwood Village, Colorado. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJy08rT4OHbIcRkZYXu42cz_c
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi-Rama RiNo"
   type: Restaurant
   links: https://sushi-rama.com/sushi-restaurants/sushi-rino/
-description: "Looking for sushi in Denver, Colorado? Check out Sushi-Rama RiNo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi-Rama RiNo serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3Uan-R95bIcRv7tavBDdeO0
 photos:
   - name: >-

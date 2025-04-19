@@ -9,7 +9,7 @@ seo:
   name: "Kyoto Japanese Cuisine"
   type: Restaurant
   links: http://www.kyotosushibar.com/USA/
-description: "Looking for sushi in Cincinnati, Ohio? Check out Kyoto Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Kyoto Japanese Cuisine serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGzn8ekNWQIgRw_UgovW5RsU
 photos:
   - name: >-

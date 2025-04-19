@@ -9,7 +9,7 @@ seo:
   name: "King Pho Sushi Bar"
   type: Restaurant
   links: https://www.facebook.com/kingphosushibar/
-description: "Looking for sushi in Fort Worth, Texas? Check out King Pho Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "King Pho Sushi Bar serves delicious sushi in Fort Worth, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ80fS6eTYTYYRa_AKdMpU89Q
 photos:
   - name: >-

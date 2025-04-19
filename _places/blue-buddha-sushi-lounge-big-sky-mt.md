@@ -9,7 +9,7 @@ seo:
   name: "Blue Buddha Sushi Lounge"
   type: Restaurant
   links: http://bigskybluebuddha.com/
-description: "Looking for sushi in Big Sky, Montana? Check out Blue Buddha Sushi Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Blue Buddha Sushi Lounge serves delicious sushi in Big Sky, Montana. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJ9xyts6sRUFMRhTfUrkmAZHM
 photos:
   - name: >-

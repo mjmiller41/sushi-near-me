@@ -9,7 +9,7 @@ seo:
   name: "Rocky Yama Sushi"
   type: Restaurant
   links: http://rockyyamasushi.com/
-description: "Looking for sushi in Denver, Colorado? Check out Rocky Yama Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Rocky Yama Sushi serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ07g_vgl_bIcRNkAPTgdepzw
 photos:
   - name: >-

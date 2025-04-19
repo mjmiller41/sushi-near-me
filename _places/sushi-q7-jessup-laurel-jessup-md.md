@@ -9,7 +9,7 @@ seo:
   name: "Sushi Q7 Jessup Laurel"
   type: Restaurant
   links: http://www.sushiqmd.com/
-description: "Looking for sushi in Jessup, Maryland? Check out Sushi Q7 Jessup Laurel for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi Q7 Jessup Laurel serves delicious sushi in Jessup, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ25ZiHqrht4kRPBkTuGjmx7I
 photos:
   - name: >-

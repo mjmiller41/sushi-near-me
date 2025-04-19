@@ -9,7 +9,7 @@ seo:
   name: "1 STOP SUSHI EXPRESS"
   type: Restaurant
   links: https://1stopsushi.com/
-description: "Looking for sushi in St. Louis, Missouri? Check out 1 STOP SUSHI EXPRESS for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "1 STOP SUSHI EXPRESS serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJxcRx5aS12IcRU44A6O-cQIg
 photos:
   - name: >-

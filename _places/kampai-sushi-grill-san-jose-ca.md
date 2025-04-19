@@ -9,7 +9,7 @@ seo:
   name: "Kampai Sushi & Grill"
   type: Restaurant
   links: http://www.kampai3.com/
-description: "Looking for sushi in San Jose, California? Check out Kampai Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Kampai Sushi & Grill serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJewx-jBgyjoARi_UjJT3X_qI
 photos:
   - name: >-

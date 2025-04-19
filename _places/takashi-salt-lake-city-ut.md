@@ -9,7 +9,7 @@ seo:
   name: "Takashi"
   type: Restaurant
   links: http://takashisushi.com/
-description: "Looking for sushi in Salt Lake City, Utah? Check out Takashi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Takashi serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJySRBGhD1UocRvck4jYN0_jA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Maple Grove"
   type: Restaurant
   links: null
-description: "Looking for sushi in Maple Grove, Minnesota? Check out Bonchon Maple Grove for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Bonchon Maple Grove serves delicious sushi in Maple Grove, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAYjuILc3s1IRtnYbi2NNhpg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mikado Sushi & Grill"
   type: Restaurant
   links: http://mikadosushigrill.com/
-description: "Looking for sushi in Orlando, Florida? Check out Mikado Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Mikado Sushi & Grill serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAyu6dh5554gR25xnvSlXRyo
 photos:
   - name: >-

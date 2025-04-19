@@ -9,7 +9,7 @@ seo:
   name: "Kume"
   type: Restaurant
   links: https://www.kume-epping.com/
-description: "Looking for sushi in Epping, New Hampshire? Check out Kume for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Kume serves delicious sushi in Epping, New Hampshire. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoQ0gf13x4okRkgWQ2pNNkNs
 photos:
   - name: >-

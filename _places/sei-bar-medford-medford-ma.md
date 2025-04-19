@@ -9,7 +9,7 @@ seo:
   name: "Sei Bar Medford"
   type: Restaurant
   links: http://www.seibar.com/
-description: "Looking for sushi in Medford, Massachusetts? Check out Sei Bar Medford for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sei Bar Medford serves delicious sushi in Medford, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq3hj3cV244kR3j-zjw-X-do
 photos:
   - name: >-

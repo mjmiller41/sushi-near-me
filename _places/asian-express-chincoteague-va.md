@@ -9,7 +9,7 @@ seo:
   name: "Asian Express"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chincoteague, Virginia? Check out Asian Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Asian Express serves delicious sushi in Chincoteague, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi9TXZDtouYkRkksj1GZu0fk
 photos:
   - name: >-

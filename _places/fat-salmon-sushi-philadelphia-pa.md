@@ -9,7 +9,7 @@ seo:
   name: "Fat Salmon Sushi"
   type: Restaurant
   links: http://www.fatsalmonsushi.com/
-description: "Looking for sushi in Philadelphia, Pennsylvania? Check out Fat Salmon Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Fat Salmon Sushi serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRbkRtILIxokRnKrVYpaCpiI
 photos:
   - name: >-

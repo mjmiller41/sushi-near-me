@@ -9,7 +9,7 @@ seo:
   name: "Fuji Revolving Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Alamitos, California? Check out Fuji Revolving Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Fuji Revolving Sushi Bar serves delicious sushi in Los Alamitos, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ5EmQ8Iu3YARrLRkgI2U86c
 photos:
   - name: >-

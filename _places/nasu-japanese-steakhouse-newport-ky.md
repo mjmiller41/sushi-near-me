@@ -9,7 +9,7 @@ seo:
   name: "Nasu Japanese Steakhouse"
   type: Restaurant
   links: https://www.nasusteakhousenewport.com/
-description: "Looking for sushi in Newport, Kentucky? Check out Nasu Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Nasu Japanese Steakhouse serves delicious sushi in Newport, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJN_HYruuxQYgR3_Kv8U9j4Q8
 photos:
   - name: >-

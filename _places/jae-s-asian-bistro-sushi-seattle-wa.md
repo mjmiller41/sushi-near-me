@@ -9,7 +9,7 @@ seo:
   name: "Jae's Asian Bistro & Sushi"
   type: Restaurant
   links: https://www.jaesasianbistroandsushi-seattle.com/
-description: "Looking for sushi in Seattle, Washington? Check out Jae's Asian Bistro & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Jae's Asian Bistro & Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn9xP1iVrkFQRG2E9qB4cD54
 photos:
   - name: >-

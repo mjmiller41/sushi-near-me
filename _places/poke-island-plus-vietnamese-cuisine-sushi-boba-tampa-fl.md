@@ -9,7 +9,7 @@ seo:
   name: "Poke Island Plus Vietnamese Cuisine, Sushi & Boba"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tampa, Florida? Check out Poke Island Plus Vietnamese Cuisine, Sushi & Boba for a delightful Japanese dining experience. Enjoy a variety..."
+description: "Poke Island Plus Vietnamese Cuisine, Sushi & Boba serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyTUAVfW3wogRwEQEsa0sfk0
 photos:
   - name: >-

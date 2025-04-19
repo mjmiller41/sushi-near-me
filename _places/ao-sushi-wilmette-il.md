@@ -9,7 +9,7 @@ seo:
   name: "AO Sushi"
   type: Restaurant
   links: http://aosushi.com/
-description: "Snug stop with sushi to go & a few dine-in seats, plus a small Japanese grocery & fish market. Looking for sushi in Wilmette, Illinois? Check out AO Sushi fo..."
+description: "Snug stop with sushi to go & a few dine-in seats, plus a small Japanese grocery & fish market. AO Sushi serves delicious sushi in Wilmette, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR1upE7_FD4gRlj-4mRNqRRE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mint Tapas and Sushi 3 (Holladay)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Holladay, Utah? Check out Mint Tapas and Sushi 3 (Holladay) for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Mint Tapas and Sushi 3 (Holladay) serves delicious sushi in Holladay, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_yJWm3VjUocRM1VNJUjXwzI
 photos:
   - name: >-

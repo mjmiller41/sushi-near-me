@@ -9,7 +9,7 @@ seo:
   name: "Mori Sushi"
   type: Restaurant
   links: https://morisushirestaurant.com/
-description: "Casual sushi spot with traditional & creative entrees, including mori rolls & black rice. Looking for sushi in Lake in the Hills, Illinois? Check out Mori Su..."
+description: "Casual sushi spot with traditional & creative entrees, including mori rolls & black rice. Mori Sushi serves delicious sushi in Lake in the Hills, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJLVOHHnoSD4gRg7_C6eEwTuM
 photos:
   - name: >-

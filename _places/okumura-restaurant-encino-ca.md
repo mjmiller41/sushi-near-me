@@ -9,7 +9,7 @@ seo:
   name: "Okumura Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Encino, California? Check out Okumura Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Okumura Restaurant serves delicious sushi in Encino, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvUgMC0qYwoARFUUg7uLiVwM
 photos:
   - name: >-

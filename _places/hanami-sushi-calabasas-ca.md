@@ -9,7 +9,7 @@ seo:
   name: "Hanami Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Calabasas, California? Check out Hanami Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Hanami Sushi serves delicious sushi in Calabasas, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdZCo9cYg6IARVledR2hg9U8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kontiki Wine & Raw Bar Restaurant"
   type: Restaurant
   links: https://www.ilovekontiki.com/
-description: "Atmospheric wine bar serving global, Asian-tinged small & large plates plus sushi in sultry digs. Looking for sushi in Wellington, Florida? Check out Kontiki..."
+description: "Atmospheric wine bar serving global, Asian-tinged small & large plates plus sushi in sultry digs. Kontiki Wine & Raw Bar Restaurant serves delicious sushi in Wellington, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJIzdZhPov2YgRrhOZMozT2ac
 photos:
   - name: >-

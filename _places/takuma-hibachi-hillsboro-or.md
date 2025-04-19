@@ -9,7 +9,7 @@ seo:
   name: "Takuma Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hillsboro, Oregon? Check out Takuma Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Takuma Hibachi serves delicious sushi in Hillsboro, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ43IU9SMFlVQRN2mqIT1H9WE
 photos:
   - name: >-

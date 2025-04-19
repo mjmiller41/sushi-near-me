@@ -9,7 +9,7 @@ seo:
   name: "Osaka Hibachi & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Knoxville, Tennessee? Check out Osaka Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Osaka Hibachi & Sushi serves delicious sushi in Knoxville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgYCg_9c8XIgRKVZ_rRha5oc
 photos:
   - name: >-

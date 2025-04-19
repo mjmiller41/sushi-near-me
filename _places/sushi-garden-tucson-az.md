@@ -9,7 +9,7 @@ seo:
   name: "Sushi Garden"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tucson, Arizona? Check out Sushi Garden for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi Garden serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsZBm6LN01oYRML6QTTf65xQ
 photos:
   - name: >-

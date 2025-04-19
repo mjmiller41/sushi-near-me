@@ -9,7 +9,7 @@ seo:
   name: "Sushi choo choo"
   type: Restaurant
   links: http://www.sushichoochoo.com/
-description: "Looking for sushi in Houston, Texas? Check out Sushi choo choo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi choo choo serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1xMqWszRQIYR2U6mYqnByCE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kokku"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Luis Obispo, California? Check out Sushi Kokku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi Kokku serves delicious sushi in San Luis Obispo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzd-__1Dx7IARdzbVDeQVV-k
 photos:
   - name: >-

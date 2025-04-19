@@ -9,7 +9,7 @@ seo:
   name: "Seoul Garden Temple"
   type: Restaurant
   links: null
-description: "Looking for sushi in Temple, Texas? Check out Seoul Garden Temple for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Seoul Garden Temple serves delicious sushi in Temple, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJazvl-xJrRYYRttSATckx5Pk
 photos:
   - name: >-

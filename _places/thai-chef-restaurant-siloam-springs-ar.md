@@ -9,7 +9,7 @@ seo:
   name: "Thai Chef Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Siloam Springs, Arkansas? Check out Thai Chef Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Thai Chef Restaurant serves delicious sushi in Siloam Springs, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf0sn_PyZyYcRQ5abIhFHAzE
 photos:
   - name: >-

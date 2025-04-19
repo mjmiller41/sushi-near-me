@@ -9,7 +9,7 @@ seo:
   name: "Sushi Sapporo"
   type: Restaurant
   links: null
-description: "Looking for sushi in Portland, Oregon? Check out Sushi Sapporo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Sapporo serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8-HnN7ehlVQRsgjBPJ-DBKI
 photos:
   - name: >-

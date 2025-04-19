@@ -9,7 +9,7 @@ seo:
   name: "Sushi House 21"
   type: Restaurant
   links: https://www.sushihouse21.net/
-description: "Relaxed standby featuring sashimi & clever sushi rolls, along with Japanese kitchen entrees. Looking for sushi in Newark, New Jersey? Check out Sushi House 2..."
+description: "Relaxed standby featuring sashimi & clever sushi rolls, along with Japanese kitchen entrees. Sushi House 21 serves delicious sushi in Newark, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKRkmE5pTwokRG5RiRgqUdtg
 photos:
   - name: >-

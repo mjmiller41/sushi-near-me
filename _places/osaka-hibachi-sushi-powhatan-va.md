@@ -9,7 +9,7 @@ seo:
   name: "Osaka Hibachi & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Powhatan, Virginia? Check out Osaka Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Osaka Hibachi & Sushi serves delicious sushi in Powhatan, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr9rkId9isYkRrMezE7GnXvA
 photos:
   - name: >-

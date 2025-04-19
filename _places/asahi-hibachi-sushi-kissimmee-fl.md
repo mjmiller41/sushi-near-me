@@ -9,7 +9,7 @@ seo:
   name: "Asahi Hibachi & Sushi"
   type: Restaurant
   links: https://www.asahi-hibachisushi.com/
-description: "Looking for sushi in Kissimmee, Florida? Check out Asahi Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Asahi Hibachi & Sushi serves delicious sushi in Kissimmee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhX9Pr2qD3YgRl_zDp1MGocU
 photos:
   - name: >-

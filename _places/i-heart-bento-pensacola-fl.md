@@ -9,7 +9,7 @@ seo:
   name: "I Heart Bento"
   type: Restaurant
   links: http://www.iheartbentopensacola.com/
-description: "Looking for sushi in Pensacola, Florida? Check out I Heart Bento for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "I Heart Bento serves delicious sushi in Pensacola, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6Zs-RheVkIgRgTs-aah9Tws
 photos:
   - name: >-

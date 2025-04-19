@@ -9,7 +9,7 @@ seo:
   name: "Nomzilla! sushi et cetera"
   type: Restaurant
   links: https://www.nomzilla.com/
-description: "Cozy, bright-green eatery serving design-your-own maki rolls plus classic rolls, noodles & tea. Looking for sushi in Nashville, Tennessee? Check out Nomzilla..."
+description: "Cozy, bright-green eatery serving design-your-own maki rolls plus classic rolls, noodles & tea. Nomzilla! sushi et cetera serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJG4AhtppmZIgRa3fWev10umw
 photos:
   - name: >-

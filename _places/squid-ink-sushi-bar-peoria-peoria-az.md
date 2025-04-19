@@ -9,7 +9,7 @@ seo:
   name: "Squid Ink Sushi Bar - Peoria"
   type: Restaurant
   links: http://www.squidinksushi.com/
-description: "Looking for sushi in Peoria, Arizona? Check out Squid Ink Sushi Bar - Peoria for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Squid Ink Sushi Bar - Peoria serves delicious sushi in Peoria, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK00X6aVdK4cR_JTJqoPMcAI
 photos:
   - name: >-

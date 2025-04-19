@@ -9,7 +9,7 @@ seo:
   name: "Tomi Sushi Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Jose, California? Check out Tomi Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Tomi Sushi Restaurant serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx1-L_5bKj4AR3MAV51XYn2U
 photos:
   - name: >-

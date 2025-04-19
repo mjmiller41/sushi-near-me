@@ -9,7 +9,7 @@ seo:
   name: "Plum House"
   type: Restaurant
   links: https://www.plumhouse686.com/
-description: "Looking for sushi in Rochester, New York? Check out Plum House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Plum House serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR3DQ6w211okRvHfN_2U2pyg
 photos:
   - name: >-

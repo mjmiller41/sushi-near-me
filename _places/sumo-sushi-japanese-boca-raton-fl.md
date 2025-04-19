@@ -9,7 +9,7 @@ seo:
   name: "Sumo Sushi & Japanese"
   type: Restaurant
   links: null
-description: "Looking for sushi in Boca Raton, Florida? Check out Sumo Sushi & Japanese for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Sumo Sushi & Japanese serves delicious sushi in Boca Raton, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhYy0DacZ2YgRGALjz5taam0
 photos:
   - name: >-

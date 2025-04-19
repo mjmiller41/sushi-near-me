@@ -9,7 +9,7 @@ seo:
   name: "Bento Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Wayne, New Jersey? Check out Bento Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Bento Sushi serves delicious sushi in Wayne, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXaTighD9wokROOOJgmYwWI8
 photos: null
 address: 300 Pompton Rd, Wayne, NJ 07474, USA

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Maru"
   type: Restaurant
   links: https://www.sushimarusj.com/
-description: "Looking for sushi in San Jose, California? Check out Sushi Maru for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Maru serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7e2sHYXMj4ARS7brxDJLtpQ
 photos:
   - name: >-

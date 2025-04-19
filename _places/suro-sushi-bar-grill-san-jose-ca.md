@@ -9,7 +9,7 @@ seo:
   name: "Suro Sushi Bar & Grill"
   type: Restaurant
   links: https://surosushisj.com/
-description: "Looking for sushi in San Jose, California? Check out Suro Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Suro Sushi Bar & Grill serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEX7RY1DLj4ARBPH22ehr8bU
 photos:
   - name: >-

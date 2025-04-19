@@ -9,7 +9,7 @@ seo:
   name: "TakoSushi Verdae"
   type: Restaurant
   links: https://tako-sushi.com/
-description: "Looking for sushi in Greenville, South Carolina? Check out TakoSushi Verdae for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "TakoSushi Verdae serves delicious sushi in Greenville, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOUljPAAvWIgRJhjAVuOB7bs
 photos:
   - name: >-

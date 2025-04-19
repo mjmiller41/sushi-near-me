@@ -9,7 +9,7 @@ seo:
   name: "Sakana Sushi Bar & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Sakana Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Sakana Sushi Bar & Grill serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhb7OEI6AhYAR0erQPfGXf5c
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Paradise Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Santa Rosa, California? Check out Paradise Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Paradise Sushi & Grill serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2fUXOAA4hIAR52X0NOQK1tk
 photos:
   - name: >-

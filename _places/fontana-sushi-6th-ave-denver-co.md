@@ -9,7 +9,7 @@ seo:
   name: "Fontana Sushi (6th Ave)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Denver, Colorado? Check out Fontana Sushi (6th Ave) for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Fontana Sushi (6th Ave) serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2xGQToZ_bIcRPwAUCm09cCQ
 photos:
   - name: >-

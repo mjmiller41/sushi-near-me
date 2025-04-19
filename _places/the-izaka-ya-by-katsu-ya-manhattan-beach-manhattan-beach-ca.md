@@ -9,7 +9,7 @@ seo:
   name: "The Izaka-ya by Katsu-ya Manhattan Beach"
   type: Restaurant
   links: null
-description: "Looking for sushi in Manhattan Beach, California? Check out The Izaka-ya by Katsu-ya Manhattan Beach for a delightful Japanese dining experience. Enjoy a var..."
+description: "The Izaka-ya by Katsu-ya Manhattan Beach serves delicious sushi in Manhattan Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXVWlh-yzwoAR00a54Y-G4MM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mo's Chinese Kitchen"
   type: Restaurant
   links: null
-description: "Looking for sushi in Orland Park, Illinois? Check out Mo's Chinese Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Mo's Chinese Kitchen serves delicious sushi in Orland Park, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrYEe0JI_DogR1W20pTQtaOs
 photos:
   - name: >-

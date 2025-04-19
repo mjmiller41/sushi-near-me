@@ -9,7 +9,7 @@ seo:
   name: "Shoyu Sushi (Parker)"
   type: Restaurant
   links: http://shoyuparker.com/
-description: "Looking for sushi in Parker, Colorado? Check out Shoyu Sushi (Parker) for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Shoyu Sushi (Parker) serves delicious sushi in Parker, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFQscQNyRbIcRvM7CG5rUfS4
 photos:
   - name: >-

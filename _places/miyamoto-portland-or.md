@@ -9,7 +9,7 @@ seo:
   name: "Miyamoto"
   type: Restaurant
   links: https://miyamotosushi.com/?fbclid=IwAR20lmUwANhIYQBu-LXcRySlO1rppLIxRLE1Zb4KTMP5EYbxp7DNU9awhvM
-description: "Looking for sushi in Portland, Oregon? Check out Miyamoto for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Miyamoto serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzXCO4wahlVQRTbyQocyYGng
 photos:
   - name: >-

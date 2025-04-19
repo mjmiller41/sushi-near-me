@@ -9,7 +9,7 @@ seo:
   name: "Nagoya Sushi & Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Davenport, Florida? Check out Nagoya Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Nagoya Sushi & Hibachi serves delicious sushi in Davenport, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0_stJsh73YgRQJOSMrwH4UY
 photos:
   - name: >-

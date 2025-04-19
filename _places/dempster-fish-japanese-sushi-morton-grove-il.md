@@ -9,7 +9,7 @@ seo:
   name: "Dempster Fish | Japanese Sushi, 일식당, 일식맛집, 맛집"
   type: Restaurant
   links: http://dempsterfish.com/
-description: "Modest Japanese restaurant serving fresh sushi & maki to stay or for takeout. Looking for sushi in Morton Grove, Illinois? Check out Dempster Fish | Japanese..."
+description: "Modest Japanese restaurant serving fresh sushi & maki to stay or for takeout. Dempster Fish | Japanese Sushi, 일식당, 일식맛집, 맛집 serves delicious sushi in Morton Grove, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJqaYtg0vPD4gRphTkwCPJG2w
 photos:
   - name: >-

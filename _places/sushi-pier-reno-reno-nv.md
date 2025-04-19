@@ -9,7 +9,7 @@ seo:
   name: "Sushi Pier (Reno)"
   type: Restaurant
   links: http://www.sushipier1.com/
-description: "Looking for sushi in Reno, Nevada? Check out Sushi Pier (Reno) for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Pier (Reno) serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-_o2ans_mYAR4ZVitwXHKTE
 photos:
   - name: >-

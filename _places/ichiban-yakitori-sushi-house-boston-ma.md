@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Yakitori Sushi House"
   type: Restaurant
   links: null
-description: "Looking for sushi in Boston, Massachusetts? Check out Ichiban Yakitori Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Ichiban Yakitori Sushi House serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoeSvGRp644kRvftBz8KnUzQ
 photos:
   - name: >-

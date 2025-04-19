@@ -9,7 +9,7 @@ seo:
   name: "Oishii Mika Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Portland, Oregon? Check out Oishii Mika Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Oishii Mika Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiyXevxEKlVQR4SHBas0xiTE
 photos:
   - name: >-

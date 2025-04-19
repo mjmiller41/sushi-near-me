@@ -9,7 +9,7 @@ seo:
   name: "Thai House II"
   type: Restaurant
   links: https://www.thaihouse2.com/
-description: "Enduring option for Thai cuisine & sushi served in a dining room filled with curios from Asia. Looking for sushi in North Miami Beach, Florida? Check out Tha..."
+description: "Enduring option for Thai cuisine & sushi served in a dining room filled with curios from Asia. Thai House II serves delicious sushi in North Miami Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJf9xDR7ut2YgRPI88Qt35yXU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Express"
   type: Restaurant
   links: null
-description: "Japanese counter serve in an office complex selling grab-&-go maki rolls & lunch combos. Looking for sushi in Washington, District of Columbia? Check out Sus..."
+description: "Japanese counter serve in an office complex selling grab-&-go maki rolls & lunch combos. Sushi Express serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJB8lD-bm3t4kRCozAP7vQbLU
 photos:
   - name: >-

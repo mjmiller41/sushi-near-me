@@ -9,7 +9,7 @@ seo:
   name: "Happy Salmon"
   type: Restaurant
   links: https://www.facebook.com/HappySalmonBar/
-description: "Looking for sushi in Safety Harbor, Florida? Check out Happy Salmon for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Happy Salmon serves delicious sushi in Safety Harbor, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJ_xawMGDuwogRh8KSyGeUImM
 photos:
   - name: >-

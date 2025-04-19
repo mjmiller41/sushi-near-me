@@ -9,7 +9,7 @@ seo:
   name: "Yoki Express - Asian kitchen & Poke Bowls"
   type: Restaurant
   links: https://www.yokiexpress.com/
-description: "Fast-casual kitchen offering build-your-own sushi burritos & poke bowls in a bright, airy setting. Looking for sushi in Boston, Massachusetts? Check out Yoki..."
+description: "Fast-casual kitchen offering build-your-own sushi burritos & poke bowls in a bright, airy setting. Yoki Express - Asian kitchen & Poke Bowls serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIZiNa39w44kRzf7S0oaqJ1c
 photos:
   - name: >-

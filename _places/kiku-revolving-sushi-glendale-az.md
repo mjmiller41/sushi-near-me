@@ -9,7 +9,7 @@ seo:
   name: "KiKu Revolving Sushi"
   type: Restaurant
   links: http://www.kikusushiaz.com/
-description: "Looking for sushi in Glendale, Arizona? Check out KiKu Revolving Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "KiKu Revolving Sushi serves delicious sushi in Glendale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJce0UNBxoK4cRvWZSYgT6g54
 photos:
   - name: >-

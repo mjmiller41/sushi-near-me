@@ -9,7 +9,7 @@ seo:
   name: "Sabeing Boone King"
   type: Restaurant
   links: http://sabeingbooneking.com/
-description: "Classic Thai & Vietnamese dishes, plus sushi rolls, served in an informal establishment. Looking for sushi in Boone, North Carolina? Check out Sabeing Boone ..."
+description: "Classic Thai & Vietnamese dishes, plus sushi rolls, served in an informal establishment. Sabeing Boone King serves delicious sushi in Boone, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJk01ACA76UIgRdPNLzV2iPnU
 photos:
   - name: >-

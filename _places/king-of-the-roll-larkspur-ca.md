@@ -9,7 +9,7 @@ seo:
   name: "King of the Roll"
   type: Restaurant
   links: https://kingoftherollsushi6.wixsite.com/sushi
-description: "Looking for sushi in Larkspur, California? Check out King of the Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "King of the Roll serves delicious sushi in Larkspur, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTWaHgXeahYAROxIj4xxrOB0
 photos:
   - name: >-

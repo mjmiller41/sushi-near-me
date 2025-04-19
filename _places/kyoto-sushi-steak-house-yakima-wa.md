@@ -9,7 +9,7 @@ seo:
   name: "Kyoto Sushi & Steak House"
   type: Restaurant
   links: http://www.kyotoatyakima.com/
-description: "Looking for sushi in Yakima, Washington? Check out Kyoto Sushi & Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Kyoto Sushi & Steak House serves delicious sushi in Yakima, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf2Fq4Qx9l1QR14RBMsRHdKk
 photos:
   - name: >-

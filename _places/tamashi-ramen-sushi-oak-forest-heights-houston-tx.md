@@ -9,7 +9,7 @@ seo:
   name: "Tamashi Ramen Sushi- Oak Forest/Heights"
   type: Restaurant
   links: null
-description: "Looking for sushi in Houston, Texas? Check out Tamashi Ramen Sushi- Oak Forest/Heights for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Tamashi Ramen Sushi- Oak Forest/Heights serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5wdW5NvHQIYRS2bA8406bow
 photos:
   - name: >-

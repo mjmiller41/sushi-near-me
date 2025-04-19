@@ -9,7 +9,7 @@ seo:
   name: "Bonchon San Mateo"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Mateo, California? Check out Bonchon San Mateo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Bonchon San Mateo serves delicious sushi in San Mateo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6zDxjXCej4AROgj36_xUWgM
 photos:
   - name: >-

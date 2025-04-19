@@ -9,7 +9,7 @@ seo:
   name: "Ginza Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Honolulu, Hawaii? Check out Ginza Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Ginza Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxfZYk_xtAHwRS0FCQtovSeY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "SushiNati - Beechmont Ave"
   type: Restaurant
   links: http://www.sushinatibeechmont.com/
-description: "Looking for sushi in Cincinnati, Ohio? Check out SushiNati - Beechmont Ave for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "SushiNati - Beechmont Ave serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJg2p-BzSpQYgRPMzHw7nmnmQ
 photos:
   - name: >-

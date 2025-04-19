@@ -9,7 +9,7 @@ seo:
   name: "ROLL SPOT sushi & desserts Tokyo Haus Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out ROLL SPOT sushi & desserts Tokyo Haus Sushi & Grill for a delightful Japanese dining experience. Enjo..."
+description: "ROLL SPOT sushi & desserts Tokyo Haus Sushi & Grill serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO8cmfLDHwoAR_NGUqkx1c2s
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tobiko Sushi"
   type: Restaurant
   links: https://www.tobikowestfield.com/
-description: "Looking for sushi in Westfield, Massachusetts? Check out Tobiko Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Tobiko Sushi serves delicious sushi in Westfield, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJp8oUn-Af54kRM8mcOkyBeJA
 photos:
   - name: >-

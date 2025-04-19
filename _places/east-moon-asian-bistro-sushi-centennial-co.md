@@ -9,7 +9,7 @@ seo:
   name: "East Moon Asian Bistro & sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Centennial, Colorado? Check out East Moon Asian Bistro & sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "East Moon Asian Bistro & sushi serves delicious sushi in Centennial, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbx8LwROEbIcRAAN1THikgaA
 photos:
   - name: >-

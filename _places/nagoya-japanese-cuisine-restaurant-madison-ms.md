@@ -9,7 +9,7 @@ seo:
   name: "Nagoya Japanese Cuisine Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Madison, Mississippi? Check out Nagoya Japanese Cuisine Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Nagoya Japanese Cuisine Restaurant serves delicious sushi in Madison, Mississippi. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW20zjdzRKYYRFlMKqCEflGw
 photos:
   - name: >-

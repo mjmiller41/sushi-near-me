@@ -9,7 +9,7 @@ seo:
   name: "Kura Revolving Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Plano, Texas? Check out Kura Revolving Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Kura Revolving Sushi Bar serves delicious sushi in Plano, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1WtT6cQZTIYR20d0hqfpVwg
 photos:
   - name: >-

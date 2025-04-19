@@ -9,7 +9,7 @@ seo:
   name: "Tabemono Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Phoenix, Arizona? Check out Tabemono Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Tabemono Japanese Restaurant serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGQphlWYEK4cRCZKh2mZLJsA
 photos:
   - name: >-

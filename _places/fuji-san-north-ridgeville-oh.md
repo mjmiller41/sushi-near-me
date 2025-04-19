@@ -9,7 +9,7 @@ seo:
   name: "Fuji San"
   type: Restaurant
   links: http://www.fujisanoh.com/
-description: "Looking for sushi in North Ridgeville, Ohio? Check out Fuji San for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Fuji San serves delicious sushi in North Ridgeville, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery."
 place_id: ChIJtWtzLACXMIgRDfUAb0hUezI
 photos:
   - name: >-

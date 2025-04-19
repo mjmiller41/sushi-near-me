@@ -9,7 +9,7 @@ seo:
   name: "Waraji Japanese Restaurant"
   type: Restaurant
   links: http://www.warajijapaneserestaurant.com/
-description: "Looking for sushi in Raleigh, North Carolina? Check out Waraji Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Waraji Japanese Restaurant serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkWDhFP32rIkRlpLTdf1yVNI
 photos:
   - name: >-

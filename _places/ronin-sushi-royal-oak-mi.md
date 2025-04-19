@@ -9,7 +9,7 @@ seo:
   name: "Ronin Sushi"
   type: Restaurant
   links: https://roninsushi.com/?y_source=1_MTk5MTUxNjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "Stylish sushi place & happy hour hot spot offers Japanese & fusion fare, plus an intimate lounge. Looking for sushi in Royal Oak, Michigan? Check out Ronin S..."
+description: "Stylish sushi place & happy hour hot spot offers Japanese & fusion fare, plus an intimate lounge. Ronin Sushi serves delicious sushi in Royal Oak, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJjW8NQUHPJIgRcdSP933HGco
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kodo Sushi Sake"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chandler, Arizona? Check out Kodo Sushi Sake for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Kodo Sushi Sake serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-w-TRx6rK4cRo3IGJYHIOLE
 photos:
   - name: >-

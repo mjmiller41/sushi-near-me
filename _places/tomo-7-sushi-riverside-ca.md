@@ -9,7 +9,7 @@ seo:
   name: "Tomo 7 Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Riverside, California? Check out Tomo 7 Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Tomo 7 Sushi serves delicious sushi in Riverside, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ98ydGS2x3IARjmlY1GuScxI
 photos:
   - name: >-

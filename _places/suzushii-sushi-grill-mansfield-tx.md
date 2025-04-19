@@ -9,7 +9,7 @@ seo:
   name: "Suzushii Sushi & Grill"
   type: Restaurant
   links: http://suzushiisushiandgrill.com/
-description: "Looking for sushi in Mansfield, Texas? Check out Suzushii Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Suzushii Sushi & Grill serves delicious sushi in Mansfield, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSW0HR2RhToYReKiGp6yiXVc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "O-Ku"
   type: Restaurant
   links: https://www.o-kusushi.com/location/o-ku-washington-dc/?y_source=1_ODE4NDQwNTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "A menu focused on Japanese robata-style dishes & sushi in an elevated setting with modernist decor. Looking for sushi in Washington, District of Columbia? Ch..."
+description: "A menu focused on Japanese robata-style dishes & sushi in an elevated setting with modernist decor. O-Ku serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJVzXSswW5t4kRVrNbXqA_Vnw
 photos:
   - >-

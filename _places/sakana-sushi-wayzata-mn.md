@@ -9,7 +9,7 @@ seo:
   name: "Sakana Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Wayzata, Minnesota? Check out Sakana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sakana Sushi serves delicious sushi in Wayzata, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs4fP9ZlMs1IRWWVfok_Sw74
 photos:
   - name: >-

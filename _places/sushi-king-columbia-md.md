@@ -9,7 +9,7 @@ seo:
   name: "Sushi King"
   type: Restaurant
   links: https://www.sushikingcolumbia.com/?utm_source=google&utm_medium=local&utm_campaign=website
-description: "Popular & unpretentious Japanese restaurant featuring sushi shuttled by servers in traditional garb. Looking for sushi in Columbia, Maryland? Check out Sushi..."
+description: "Popular & unpretentious Japanese restaurant featuring sushi shuttled by servers in traditional garb. Sushi King serves delicious sushi in Columbia, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ78Drnn7gt4kRhb1KczazmFc
 photos:
   - name: >-

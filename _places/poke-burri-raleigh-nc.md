@@ -9,7 +9,7 @@ seo:
   name: "Poke Burri"
   type: Restaurant
   links: http://pokeburriraleigh.com/
-description: "Simple counter-serve spot preparing poke bowls, sushi burritos & other Asian fusion eats. Looking for sushi in Raleigh, North Carolina? Check out Poke Burri ..."
+description: "Simple counter-serve spot preparing poke bowls, sushi burritos & other Asian fusion eats. Poke Burri serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSd5Wi7FZrIkRkX_1q6G0b3Q
 photos:
   - name: >-

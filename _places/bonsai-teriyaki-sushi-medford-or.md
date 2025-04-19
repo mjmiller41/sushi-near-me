@@ -9,7 +9,7 @@ seo:
   name: "Bonsai Teriyaki & Sushi"
   type: Restaurant
   links: https://www.facebook.com/Bonsai-Teriyaki-Sushi-Medford-OR-120030958187660/
-description: "Looking for sushi in Medford, Oregon? Check out Bonsai Teriyaki & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Bonsai Teriyaki & Sushi serves delicious sushi in Medford, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVzm7_gx6z1QR8PazD_v4fJ4
 photos:
   - name: >-

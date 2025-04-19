@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Maplewood, Minnesota? Check out Tokyo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Tokyo Sushi serves delicious sushi in Maplewood, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ26Ot2PvTslIRKEzIMKV2dxc
 photos:
   - name: >-

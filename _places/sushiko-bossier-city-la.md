@@ -9,7 +9,7 @@ seo:
   name: "Sushiko"
   type: Restaurant
   links: https://www.sushikoloveorder.com/
-description: "Looking for sushi in Bossier City, Louisiana? Check out Sushiko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushiko serves delicious sushi in Bossier City, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrwUGTdIyMYYRhSQE7ILcVEk
 photos:
   - name: >-

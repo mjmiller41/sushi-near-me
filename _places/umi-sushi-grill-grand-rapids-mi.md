@@ -9,7 +9,7 @@ seo:
   name: "Umi Sushi&Grill"
   type: Restaurant
   links: http://umisushigrill.com/
-description: "Looking for sushi in Grand Rapids, Michigan? Check out Umi Sushi&Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Umi Sushi&Grill serves delicious sushi in Grand Rapids, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJxb0dwVG1GYgRCfannlgm8wk
 photos:
   - name: >-

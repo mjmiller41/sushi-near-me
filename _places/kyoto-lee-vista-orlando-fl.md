@@ -9,7 +9,7 @@ seo:
   name: "Kyoto- Lee Vista"
   type: Restaurant
   links: null
-description: "Looking for sushi in Orlando, Florida? Check out Kyoto- Lee Vista for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Kyoto- Lee Vista serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkUWrGm1j54gR30lj1odwDRk
 photos:
   - name: >-

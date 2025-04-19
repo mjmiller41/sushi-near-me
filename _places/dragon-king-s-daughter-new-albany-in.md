@@ -9,7 +9,7 @@ seo:
   name: "Dragon King's Daughter"
   type: Restaurant
   links: null
-description: "Looking for sushi in New Albany, Indiana? Check out Dragon King's Daughter for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Dragon King's Daughter serves delicious sushi in New Albany, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJP1QcJ1lsaYgR0LALJNQFowY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "KENAKI Sushi Counter"
   type: Restaurant
   links: https://www.kenakisushi.com/
-description: "Looking for sushi in Gaithersburg, Maryland? Check out KENAKI Sushi Counter for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "KENAKI Sushi Counter serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJHSzJWaMttokR1XC7LUxFYfM
 photos:
   - name: >-

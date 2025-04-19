@@ -9,7 +9,7 @@ seo:
   name: "Got Sushi?"
   type: Restaurant
   links: http://www.gotsushimesa.com/
-description: "Looking for sushi in Mesa, Arizona? Check out Got Sushi? for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Got Sushi? serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQeZXdCSlK4cReJ3Z7eP0rQ4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Omiya"
   type: Restaurant
   links: https://order.online/business/sushi-omiya-787248
-description: "Looking for sushi in Tukwila, Washington? Check out Sushi Omiya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Omiya serves delicious sushi in Tukwila, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1WAbhcBdkFQRJJSnbWqnCf0
 photos:
   - name: >-

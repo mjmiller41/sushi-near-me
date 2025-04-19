@@ -9,7 +9,7 @@ seo:
   name: "Raku Sushi & Asian Bistro"
   type: Restaurant
   links: https://rakusushiaustin.com/
-description: "Looking for sushi in Austin, Texas? Check out Raku Sushi & Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Raku Sushi & Asian Bistro serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHxYbZ3e1RIYRTInKd1PYwFg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Eve's Sushi & Hibachi"
   type: Restaurant
   links: https://www.evessushi.com/
-description: "Looking for sushi in Woodhaven, Michigan? Check out Eve's Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Eve's Sushi & Hibachi serves delicious sushi in Woodhaven, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnTuNboQ5O4gRHr9g87OVRTU
 photos:
   - name: >-

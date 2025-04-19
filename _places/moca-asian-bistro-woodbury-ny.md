@@ -9,7 +9,7 @@ seo:
   name: "MoCA Asian Bistro"
   type: Restaurant
   links: null
-description: "Looking for sushi in Woodbury, New York? Check out MoCA Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "MoCA Asian Bistro serves delicious sushi in Woodbury, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVUCC_g2CwokReIdOikc17Iw
 photos:
   - name: >-

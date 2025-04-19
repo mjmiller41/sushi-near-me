@@ -9,7 +9,7 @@ seo:
   name: "Hunan House"
   type: Restaurant
   links: http://palmertonhunanhouse.com/
-description: "Looking for sushi in Palmerton, Pennsylvania? Check out Hunan House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Hunan House serves delicious sushi in Palmerton, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO6s6vJFOxIkRkI0918uQKSQ
 photos:
   - name: >-

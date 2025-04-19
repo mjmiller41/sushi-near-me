@@ -9,7 +9,7 @@ seo:
   name: "Tsukiji Sushi Sen"
   type: Restaurant
   links: null
-description: "Looking for sushi in Santa Monica, California? Check out Tsukiji Sushi Sen for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Tsukiji Sushi Sen serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLYbxHdK6woARk8ZRhofs4eA
 photos:
   - name: >-

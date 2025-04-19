@@ -9,7 +9,7 @@ seo:
   name: "AKO by KENAKI"
   type: Restaurant
   links: https://www.theroostsedc.com/akobykenaki
-description: "Looking for sushi in Washington, District of Columbia? Check out AKO by KENAKI for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "AKO by KENAKI serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJCUbHLAq5t4kRndasLznj1qE
 photos:
   - >-

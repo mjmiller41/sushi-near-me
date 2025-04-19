@@ -9,7 +9,7 @@ seo:
   name: "Yugen Sushi NYC"
   type: Restaurant
   links: http://yugensushinyc.com/
-description: "Looking for sushi in Brooklyn, New York? Check out Yugen Sushi NYC for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Yugen Sushi NYC serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJCcO5mBFdwokRo6SlfqrctSc
 photos:
   - name: >-

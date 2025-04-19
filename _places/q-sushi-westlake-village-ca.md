@@ -9,7 +9,7 @@ seo:
   name: "Q Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Westlake Village, California? Check out Q Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Q Sushi serves delicious sushi in Westlake Village, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs9QTQWwk6IARZiMs-PYB__8
 photos:
   - name: >-

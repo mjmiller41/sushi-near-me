@@ -9,7 +9,7 @@ seo:
   name: "The Moon Korean BBQ & Hot Pot 더문 샤부샤부 & 바베큐"
   type: Restaurant
   links: https://www.themoonkbbq.com/
-description: "Looking for sushi in Hackensack, New Jersey? Check out The Moon Korean BBQ & Hot Pot 더문 샤부샤부 & 바베큐 for a delightful Japanese dining experience. Enjoy a varie..."
+description: "The Moon Korean BBQ & Hot Pot 더문 샤부샤부 & 바베큐 serves delicious sushi in Hackensack, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJJ6UnW0PxwokRdqg1kPlbs5s
 photos:
   - name: >-

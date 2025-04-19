@@ -9,7 +9,7 @@ seo:
   name: "Koi Sushi & Steakhouse"
   type: Restaurant
   links: http://www.koisiouxcity.com/
-description: "Looking for sushi in Sioux City, Iowa? Check out Koi Sushi & Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Koi Sushi & Steakhouse serves delicious sushi in Sioux City, Iowa. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf92EpA4HjocRaZxXCnrwVyo
 photos:
   - name: >-

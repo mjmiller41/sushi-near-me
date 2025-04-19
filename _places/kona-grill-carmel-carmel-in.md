@@ -9,7 +9,7 @@ seo:
   name: "Kona Grill - Carmel"
   type: Restaurant
   links: https://konagrill.com/locations?locations=Carmel
-description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Looking for sushi in Carmel, Indiana? Check out Kona Grill ..."
+description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Kona Grill - Carmel serves delicious sushi in Carmel, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjyQv59WtFIgRNT6E-2aNBL0
 photos:
   - name: >-

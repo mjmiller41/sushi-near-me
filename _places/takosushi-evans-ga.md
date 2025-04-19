@@ -9,7 +9,7 @@ seo:
   name: "Takosushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Evans, Georgia? Check out Takosushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Takosushi serves delicious sushi in Evans, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk4dztqbU-YgRpFlWMl5Ph1w
 photos:
   - name: >-

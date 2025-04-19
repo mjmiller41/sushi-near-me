@@ -9,7 +9,7 @@ seo:
   name: "Amici Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lathrop, California? Check out Amici Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Amici Sushi serves delicious sushi in Lathrop, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5SAMmWYVkIARY6GgecA_u-g
 photos:
   - name: >-

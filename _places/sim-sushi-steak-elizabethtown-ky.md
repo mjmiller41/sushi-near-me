@@ -9,7 +9,7 @@ seo:
   name: "Sim Sushi & Steak"
   type: Restaurant
   links: null
-description: "Looking for sushi in Elizabethtown, Kentucky? Check out Sim Sushi & Steak for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Sim Sushi & Steak serves delicious sushi in Elizabethtown, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJlyQ27lTvaIgRwB4-3E20hDw
 photos:
   - name: >-

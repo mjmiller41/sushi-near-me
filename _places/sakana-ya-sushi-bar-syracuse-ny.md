@@ -9,7 +9,7 @@ seo:
   name: "Sakana-Ya Sushi Bar"
   type: Restaurant
   links: http://www.syracusesushi.com/
-description: "A wide selection of sushi, sashimi & rolls prepared in a flashy space, plus wine, beer & sake. Looking for sushi in Syracuse, New York? Check out Sakana-Ya S..."
+description: "A wide selection of sushi, sashimi & rolls prepared in a flashy space, plus wine, beer & sake. Sakana-Ya Sushi Bar serves delicious sushi in Syracuse, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJaf5es8Dz2YkRRqV2IfSjXj0
 photos:
   - name: >-

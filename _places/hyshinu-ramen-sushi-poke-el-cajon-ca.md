@@ -9,7 +9,7 @@ seo:
   name: "Hyshinu Ramen, Sushi & Poke"
   type: Restaurant
   links: https://www.hyshinuramen.com/
-description: "Looking for sushi in El Cajon, California? Check out Hyshinu Ramen, Sushi & Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Hyshinu Ramen, Sushi & Poke serves delicious sushi in El Cajon, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJiTBfW71b2YARzmVcjurlAkI
 photos:
   - name: >-

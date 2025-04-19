@@ -9,7 +9,7 @@ seo:
   name: "Arashi Yama sushi & hibachi lounge"
   type: Restaurant
   links: null
-description: "Looking for sushi in Gainesville, Florida? Check out Arashi Yama sushi & hibachi lounge for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Arashi Yama sushi & hibachi lounge serves delicious sushi in Gainesville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJiYXcMY-76IgRBXkyJ0-y_HQ
 photos:
   - name: >-

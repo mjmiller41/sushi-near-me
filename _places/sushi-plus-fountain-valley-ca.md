@@ -9,7 +9,7 @@ seo:
   name: "Sushi Plus"
   type: Restaurant
   links: https://yukitheoddy.wixsite.com/sushi-plus
-description: "Looking for sushi in Fountain Valley, California? Check out Sushi Plus for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sushi Plus serves delicious sushi in Fountain Valley, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJsdopgzQn3YAR1d7TntJU3ww
 photos:
   - name: >-

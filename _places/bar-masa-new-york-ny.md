@@ -9,7 +9,7 @@ seo:
   name: "Bar Masa"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Bar Masa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Bar Masa serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM26HnlhYwokR4IfXFz-AuCA
 photos:
   - name: >-

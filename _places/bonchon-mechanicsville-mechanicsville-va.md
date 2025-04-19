@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Mechanicsville"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mechanicsville, Virginia? Check out Bonchon Mechanicsville for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Bonchon Mechanicsville serves delicious sushi in Mechanicsville, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8-TxE0cYsYkRzAEqi16fKzM
 photos:
   - name: >-

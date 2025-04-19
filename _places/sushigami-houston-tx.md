@@ -9,7 +9,7 @@ seo:
   name: "Sushigami"
   type: Restaurant
   links: http://sushigamigalleria.com/
-description: "Looking for sushi in Houston, Texas? Check out Sushigami for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Sushigami serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkTCex27BQIYRsP3LQzDPRjY
 photos:
   - name: >-

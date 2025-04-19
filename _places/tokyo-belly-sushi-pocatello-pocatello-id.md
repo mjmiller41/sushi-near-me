@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Belly Sushi Pocatello"
   type: Restaurant
   links: https://tokyobelly-pocatello.com/
-description: "Looking for sushi in Pocatello, Idaho? Check out Tokyo Belly Sushi Pocatello for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Tokyo Belly Sushi Pocatello serves delicious sushi in Pocatello, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbfEd1lBPVVMR-3fJEwAf36U
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Wasabi Zen"
   type: Restaurant
   links: http://www.wasabizenjapanese.com/
-description: "Down-to-earth strip-mall establishment providing sushi & other Japanese eats, including bento boxes. Looking for sushi in Olney, Maryland? Check out Wasabi Z..."
+description: "Down-to-earth strip-mall establishment providing sushi & other Japanese eats, including bento boxes. Wasabi Zen serves delicious sushi in Olney, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJi3fdxRnRt4kR3odLRBhkZIw
 photos:
   - name: >-

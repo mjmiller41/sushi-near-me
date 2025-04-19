@@ -9,7 +9,7 @@ seo:
   name: "Nori Maki Bar"
   type: Restaurant
   links: https://www.norimakibar.com/
-description: "Looking for sushi in Fort Collins, Colorado? Check out Nori Maki Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Nori Maki Bar serves delicious sushi in Fort Collins, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ24cOIkCzbocR_so_n_gr4hU
 photos:
   - name: >-

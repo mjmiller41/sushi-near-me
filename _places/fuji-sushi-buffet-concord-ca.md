@@ -9,7 +9,7 @@ seo:
   name: "Fuji Sushi Buffet"
   type: Restaurant
   links: null
-description: "Looking for sushi in Concord, California? Check out Fuji Sushi Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Fuji Sushi Buffet serves delicious sushi in Concord, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsSyhZppnhYARY3sRkwSShbM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Masa Lakeland"
   type: Restaurant
   links: https://sushimasaus.com/
-description: "Looking for sushi in Lakeland, Florida? Check out Sushi Masa Lakeland for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Sushi Masa Lakeland serves delicious sushi in Lakeland, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMwQbs7k73YgRD2ina1gpBOc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Haha Sushi"
   type: Restaurant
   links: https://hahasushicatogo.com/
-description: "Looking for sushi in Santa Maria, California? Check out Haha Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Haha Sushi serves delicious sushi in Santa Maria, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa6dbtTMT7IARgJD_rmj-qvA
 photos:
   - name: >-

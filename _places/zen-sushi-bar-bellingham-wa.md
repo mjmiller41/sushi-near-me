@@ -9,7 +9,7 @@ seo:
   name: "Zen Sushi & Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bellingham, Washington? Check out Zen Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Zen Sushi & Bar serves delicious sushi in Bellingham, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd_iErH6khVQRK4kJzi6HJKk
 photos:
   - name: >-

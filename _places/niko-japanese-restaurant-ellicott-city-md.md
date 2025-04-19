@@ -9,7 +9,7 @@ seo:
   name: "Niko Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ellicott City, Maryland? Check out Niko Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Niko Japanese Restaurant serves delicious sushi in Ellicott City, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1za2umsfyIkRnOoRF90yPe4
 photos:
   - name: >-

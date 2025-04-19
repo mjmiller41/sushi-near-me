@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ten"
   type: Restaurant
   links: https://sushiten.japanmarketplace.com/
-description: "Market-based sushi spot with an extensive menu of raw fish & rolls plus poke, edamame & miso soup. Looking for sushi in Columbus, Ohio? Check out Sushi Ten f..."
+description: "Market-based sushi spot with an extensive menu of raw fish & rolls plus poke, edamame & miso soup. Sushi Ten serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJk2BtvaSNOIgRLlLzt9uNiHs
 photos:
   - name: >-

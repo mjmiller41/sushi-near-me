@@ -9,7 +9,7 @@ seo:
   name: "Karma Sushi Bar Grill"
   type: Restaurant
   links: http://karmaflagstaff.com/
-description: "Looking for sushi in Flagstaff, Arizona? Check out Karma Sushi Bar Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Karma Sushi Bar Grill serves delicious sushi in Flagstaff, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxWG05UOPLYcRVtp8yawRJJY
 photos:
   - name: >-

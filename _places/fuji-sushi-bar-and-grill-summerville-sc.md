@@ -9,7 +9,7 @@ seo:
   name: "Fuji sushi bar and grill"
   type: Restaurant
   links: http://www.fujicharleston.com/
-description: "Looking for sushi in Summerville, South Carolina? Check out Fuji sushi bar and grill for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Fuji sushi bar and grill serves delicious sushi in Summerville, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg-5tGtaK_ogRC6B2CouqNyc
 photos:
   - name: >-

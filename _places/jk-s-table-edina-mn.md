@@ -9,7 +9,7 @@ seo:
   name: "JK's Table"
   type: Restaurant
   links: http://www.jkstable.com/
-description: "Weekday breakfast & lunch spot for sushi, Asian bowls & American deli sandwiches in low-key digs. Looking for sushi in Edina, Minnesota? Check out JK's Table..."
+description: "Weekday breakfast & lunch spot for sushi, Asian bowls & American deli sandwiches in low-key digs. JK's Table serves delicious sushi in Edina, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4zufmuUj9ocRVTkKIA3N8xA
 photos:
   - name: >-

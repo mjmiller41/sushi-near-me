@@ -9,7 +9,7 @@ seo:
   name: "Ken Sushi Workshop"
   type: Restaurant
   links: https://kensushiworkshop.shop/
-description: "Japanese fusion fare like clever sushi rolls are served in a sleek, compact space with bar seats. Looking for sushi in San Diego, California? Check out Ken S..."
+description: "Japanese fusion fare like clever sushi rolls are served in a sleek, compact space with bar seats. Ken Sushi Workshop serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJtRPOWEcG3IAROZN1_3t-Jd8
 photos:
   - name: >-

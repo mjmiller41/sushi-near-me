@@ -9,7 +9,7 @@ seo:
   name: "Pita Land"
   type: Restaurant
   links: null
-description: "Looking for sushi in Airmont, New York? Check out Pita Land for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Pita Land serves delicious sushi in Airmont, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM6mqDG7nwokRBGYQXAMjaeg
 photos:
   - name: >-

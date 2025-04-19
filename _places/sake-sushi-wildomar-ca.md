@@ -9,7 +9,7 @@ seo:
   name: "Sake Sushi"
   type: Restaurant
   links: http://sakesushiwildomar.com/
-description: "Looking for sushi in Wildomar, California? Check out Sake Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sake Sushi serves delicious sushi in Wildomar, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbbIg_kaD3IARLpUyhp2zruo
 photos:
   - name: >-

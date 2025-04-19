@@ -9,7 +9,7 @@ seo:
   name: "Fuji Sushi Bar"
   type: Restaurant
   links: http://www.fujisushibarau.com/
-description: "Laid-back eatery serving familiar sushi rolls, teriyaki & other Japanese mains, with lunch specials. Looking for sushi in Auburn, Alabama? Check out Fuji Sus..."
+description: "Laid-back eatery serving familiar sushi rolls, teriyaki & other Japanese mains, with lunch specials. Fuji Sushi Bar serves delicious sushi in Auburn, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJG7kx77zzjIgRb1WBuFYam0Q
 photos:
   - name: >-

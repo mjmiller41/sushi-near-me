@@ -9,7 +9,7 @@ seo:
   name: "Blufish"
   type: Restaurant
   links: null
-description: "Looking for sushi in Glenview, Illinois? Check out Blufish for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Blufish serves delicious sushi in Glenview, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7yQy63vHD4gR9RTVl92EmFA
 photos:
   - name: >-

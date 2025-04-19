@@ -9,7 +9,7 @@ seo:
   name: "Eatjoy"
   type: Restaurant
   links: https://www.eatjoystorrs.com/
-description: "Looking for sushi in Storrs, Connecticut? Check out Eatjoy for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Eatjoy serves delicious sushi in Storrs, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJZ1WQXdSL5okR-8FLvMRNzUk
 photos:
   - name: >-

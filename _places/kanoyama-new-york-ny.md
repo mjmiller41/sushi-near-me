@@ -9,7 +9,7 @@ seo:
   name: "Kanoyama"
   type: Restaurant
   links: http://www.kanoyama.com/
-description: "Basic space serving broad variety of fish (plus vegetarian options), with adjacent sake/oyster bar. Looking for sushi in New York, New York? Check out Kanoya..."
+description: "Basic space serving broad variety of fish (plus vegetarian options), with adjacent sake/oyster bar. Kanoyama serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJQzryKJxZwokRYH9Qt5wh3ZY
 photos:
   - name: >-

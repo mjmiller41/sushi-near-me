@@ -9,7 +9,7 @@ seo:
   name: "Sushi Boss"
   type: Restaurant
   links: null
-description: "Looking for sushi in Indianapolis, Indiana? Check out Sushi Boss for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Boss serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJP614buhRa4gRhZzLFUzI9jY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi King"
   type: Restaurant
   links: http://www.penfieldsushiking.com/
-description: "Looking for sushi in Penfield, New York? Check out Sushi King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi King serves delicious sushi in Penfield, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJb5O0W2PL1okRfPwDF0d8gzE
 photos:
   - name: >-

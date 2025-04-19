@@ -9,7 +9,7 @@ seo:
   name: "Sakana Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Carrollton, Virginia? Check out Sakana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sakana Sushi serves delicious sushi in Carrollton, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJh9_EKxx0sIkRXKnwN9WRV7Y
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Takara 88"
   type: Restaurant
   links: https://www.smorefood.com/order-online/takara-88-middleton-53562-lxjzw017?utm_source=gmb&utm_medium=website
-description: "Stylish, contemporary space for traditional Japanese dishes, hibachi-grill specialties & sushi. Looking for sushi in Middleton, Wisconsin? Check out Takara 8..."
+description: "Stylish, contemporary space for traditional Japanese dishes, hibachi-grill specialties & sushi. Takara 88 serves delicious sushi in Middleton, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCVdF1CqvB4gR0b2b5SsQt-A
 photos:
   - name: >-

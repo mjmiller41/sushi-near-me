@@ -9,7 +9,7 @@ seo:
   name: "Agua Chiles Sushi Bar"
   type: Restaurant
   links: https://www.aguachilessushi.com/
-description: "Looking for sushi in Northridge, California? Check out Agua Chiles Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Agua Chiles Sushi Bar serves delicious sushi in Northridge, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeU2-n6ubwoARSg6R4MqwH3g
 photos:
   - name: >-

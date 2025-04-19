@@ -9,7 +9,7 @@ seo:
   name: "Biwako Sushi"
   type: Restaurant
   links: https://biwakosushitogo.com/
-description: "Informal eatery serving up traditional Japanese & Korean fare, including sushi, in woody digs. Looking for sushi in Saline, Michigan? Check out Biwako Sushi ..."
+description: "Informal eatery serving up traditional Japanese & Korean fare, including sushi, in woody digs. Biwako Sushi serves delicious sushi in Saline, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9yU67TK7PIgRt8LLCPmTncY
 photos:
   - name: >-

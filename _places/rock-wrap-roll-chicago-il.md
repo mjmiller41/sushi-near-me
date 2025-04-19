@@ -9,7 +9,7 @@ seo:
   name: "Rock Wrap & Roll"
   type: Restaurant
   links: https://rockwrapandroll.com/
-description: "Casual eatery with Thai dishes & sushi in a modern space with a bring-your-own-alcohol policy. Looking for sushi in Chicago, Illinois? Check out Rock Wrap & ..."
+description: "Casual eatery with Thai dishes & sushi in a modern space with a bring-your-own-alcohol policy. Rock Wrap & Roll serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9__BGuTSD4gRLgeMsGFy3JY
 photos:
   - name: >-

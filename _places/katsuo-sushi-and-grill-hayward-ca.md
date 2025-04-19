@@ -9,7 +9,7 @@ seo:
   name: "Katsuo Sushi and Grill"
   type: Restaurant
   links: http://www.katsuosushigrill.com/
-description: "Looking for sushi in Hayward, California? Check out Katsuo Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Katsuo Sushi and Grill serves delicious sushi in Hayward, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5Raq63yXj4ARPQEYflsBJNk
 photos:
   - name: >-

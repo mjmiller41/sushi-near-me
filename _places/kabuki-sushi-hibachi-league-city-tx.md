@@ -9,7 +9,7 @@ seo:
   name: "Kabuki Sushi & Hibachi"
   type: Restaurant
   links: https://www.kabukilc.com/
-description: "Looking for sushi in League City, Texas? Check out Kabuki Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Kabuki Sushi & Hibachi serves delicious sushi in League City, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ-0tfHeDQIYR6d58HSd3HWM
 photos:
   - name: >-

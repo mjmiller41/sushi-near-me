@@ -9,7 +9,7 @@ seo:
   name: "Takumi Sushi and Hibachi"
   type: Restaurant
   links: http://takumisushihibachi.com/
-description: "Looking for sushi in Zionsville, Indiana? Check out Takumi Sushi and Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Takumi Sushi and Hibachi serves delicious sushi in Zionsville, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM1C44iNTE4gRHZDKwKQAiQE
 photos:
   - name: >-

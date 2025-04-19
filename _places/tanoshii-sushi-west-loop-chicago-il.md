@@ -9,7 +9,7 @@ seo:
   name: "Tanoshii Sushi West Loop"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Tanoshii Sushi West Loop for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Tanoshii Sushi West Loop serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrQeRbsUsDogR18xrTa6RRvQ
 photos:
   - name: >-

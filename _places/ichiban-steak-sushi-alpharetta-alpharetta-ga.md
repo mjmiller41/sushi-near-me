@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Steak & Sushi Alpharetta"
   type: Restaurant
   links: null
-description: "Looking for sushi in Alpharetta, Georgia? Check out Ichiban Steak & Sushi Alpharetta for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Ichiban Steak & Sushi Alpharetta serves delicious sushi in Alpharetta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm4E4B_V19YgRca9YFc8n2zM
 photos:
   - name: >-

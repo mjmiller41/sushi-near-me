@@ -9,7 +9,7 @@ seo:
   name: "Sabi Sushi"
   type: Restaurant
   links: http://www.sabisushinyc.com/
-description: "Looking for sushi in Piermont, New York? Check out Sabi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sabi Sushi serves delicious sushi in Piermont, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ9xEYSJfrwokR5OcHXj410G8
 photos:
   - name: >-

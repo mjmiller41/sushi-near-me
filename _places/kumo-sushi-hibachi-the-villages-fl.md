@@ -9,7 +9,7 @@ seo:
   name: "KUMO SUSHI &HIBACHI"
   type: Restaurant
   links: http://www.kumothevillagesfl.com/
-description: "Looking for sushi in The Villages, Florida? Check out KUMO SUSHI &HIBACHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "KUMO SUSHI &HIBACHI serves delicious sushi in The Villages, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPXcEsajD54gRq_VrUJQ7cyI
 photos:
   - name: >-

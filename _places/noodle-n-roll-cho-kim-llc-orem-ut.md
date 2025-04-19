@@ -9,7 +9,7 @@ seo:
   name: "Noodle-n-Roll/Cho&Kim LLC"
   type: Restaurant
   links: null
-description: "Looking for sushi in Orem, Utah? Check out Noodle-n-Roll/Cho&Kim LLC for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Noodle-n-Roll/Cho&Kim LLC serves delicious sushi in Orem, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9ztgH4ibTYcRZBBUlL1FYbw
 photos:
   - name: >-

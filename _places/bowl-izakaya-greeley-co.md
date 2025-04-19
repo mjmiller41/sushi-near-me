@@ -9,7 +9,7 @@ seo:
   name: "Bowl Izakaya"
   type: Restaurant
   links: null
-description: "Looking for sushi in Greeley, Colorado? Check out Bowl Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Bowl Izakaya serves delicious sushi in Greeley, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7Zk8cQCjbocR2USFdOqJy3Y
 photos:
   - name: >-

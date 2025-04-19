@@ -9,7 +9,7 @@ seo:
   name: "Hokkaido Ramen & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Evanston, Illinois? Check out Hokkaido Ramen & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Hokkaido Ramen & Sushi Bar serves delicious sushi in Evanston, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE-j5bN_RD4gRPtRPDfGmy14
 photos:
   - name: >-

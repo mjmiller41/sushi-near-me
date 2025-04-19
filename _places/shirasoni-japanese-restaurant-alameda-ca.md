@@ -9,7 +9,7 @@ seo:
   name: "Shirasoni Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Alameda, California? Check out Shirasoni Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Shirasoni Japanese Restaurant serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg2-nJcWAj4AR8klmjD_fF7A
 photos:
   - name: >-

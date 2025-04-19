@@ -9,7 +9,7 @@ seo:
   name: "Sushi Wasabi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tustin, California? Check out Sushi Wasabi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Wasabi serves delicious sushi in Tustin, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBab9wOPb3IARqCE0Y2YgBhg
 photos:
   - name: >-

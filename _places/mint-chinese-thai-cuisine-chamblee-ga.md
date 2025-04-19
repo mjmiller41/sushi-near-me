@@ -9,7 +9,7 @@ seo:
   name: "Mint Chinese & Thai Cuisine"
   type: Restaurant
   links: https://www.mintchinesenthai.com/
-description: "Strip-mall spot for rice dishes, dumplings & more Chinese classics, plus Thai noodles & curries. Looking for sushi in Chamblee, Georgia? Check out Mint Chine..."
+description: "Strip-mall spot for rice dishes, dumplings & more Chinese classics, plus Thai noodles & curries. Mint Chinese & Thai Cuisine serves delicious sushi in Chamblee, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJTqhMl4I9YgRAyuDOExyzbQ
 photos:
   - name: >-

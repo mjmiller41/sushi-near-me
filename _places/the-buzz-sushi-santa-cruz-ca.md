@@ -9,7 +9,7 @@ seo:
   name: "The Buzz sushi"
   type: Restaurant
   links: https://www.thebuzzsushi.com/
-description: "Looking for sushi in Santa Cruz, California? Check out The Buzz sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "The Buzz sushi serves delicious sushi in Santa Cruz, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf7st-jpBjoARMuT48DmtTbs
 photos:
   - name: >-

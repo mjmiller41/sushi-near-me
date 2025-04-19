@@ -9,7 +9,7 @@ seo:
   name: "Best Sushi & Teriyaki"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lynnwood, Washington? Check out Best Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Best Sushi & Teriyaki serves delicious sushi in Lynnwood, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ78VflDYFkFQRvw-HG9--3m0
 photos:
   - name: >-

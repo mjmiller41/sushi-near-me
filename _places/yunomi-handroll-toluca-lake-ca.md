@@ -9,7 +9,7 @@ seo:
   name: "Yunomi Handroll"
   type: Restaurant
   links: null
-description: "Looking for sushi in Toluca Lake, California? Check out Yunomi Handroll for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Yunomi Handroll serves delicious sushi in Toluca Lake, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXY11W9a_woARs23W5MgCD5k
 photos:
   - name: >-

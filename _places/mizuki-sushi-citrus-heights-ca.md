@@ -9,7 +9,7 @@ seo:
   name: "Mizuki Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Citrus Heights, California? Check out Mizuki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Mizuki Sushi serves delicious sushi in Citrus Heights, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgVROqhnemoARSPyEJQS4NfQ
 photos:
   - name: >-

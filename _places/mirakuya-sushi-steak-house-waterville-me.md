@@ -9,7 +9,7 @@ seo:
   name: "Mirakuya Sushi & Steak House"
   type: Restaurant
   links: http://mirakuyawaterville.com/
-description: "Lively Japanese steakhouse featuring hibachi tables, a sushi bar & cocktails amid red walls. Looking for sushi in Waterville, Maine? Check out Mirakuya Sushi..."
+description: "Lively Japanese steakhouse featuring hibachi tables, a sushi bar & cocktails amid red walls. Mirakuya Sushi & Steak House serves delicious sushi in Waterville, Maine. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJlbk8dZTksUwROy4K-HM0rz8
 photos:
   - name: >-

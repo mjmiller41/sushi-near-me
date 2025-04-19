@@ -9,7 +9,7 @@ seo:
   name: "Asian Island"
   type: Restaurant
   links: null
-description: "Looking for sushi in Sparta, New Jersey? Check out Asian Island for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Asian Island serves delicious sushi in Sparta, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbcPt5YZyw4kRZhhiTpwGcCE
 photos:
   - name: >-

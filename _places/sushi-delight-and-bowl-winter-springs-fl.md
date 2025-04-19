@@ -9,7 +9,7 @@ seo:
   name: "Sushi Delight and Bowl"
   type: Restaurant
   links: https://www.sushidelightandbowl.com/
-description: "Looking for sushi in Winter Springs, Florida? Check out Sushi Delight and Bowl for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Sushi Delight and Bowl serves delicious sushi in Winter Springs, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-y3s18Vt54gR2iQNlAgBVgw
 photos:
   - name: >-

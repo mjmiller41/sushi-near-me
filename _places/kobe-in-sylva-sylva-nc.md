@@ -9,7 +9,7 @@ seo:
   name: "Kobe In Sylva"
   type: Restaurant
   links: https://zmenu.com/kobe-express-sylva-online-menu/
-description: "Looking for sushi in Sylva, North Carolina? Check out Kobe In Sylva for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Kobe In Sylva serves delicious sushi in Sylva, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyXqFh9kUWYgR1adIJqrqDRg
 photos:
   - name: >-

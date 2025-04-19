@@ -9,7 +9,7 @@ seo:
   name: "Sushiya"
   type: Restaurant
   links: https://www.sushiyanm.com/
-description: "Looking for sushi in Albuquerque, New Mexico? Check out Sushiya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushiya serves delicious sushi in Albuquerque, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi7j6wB6gGIcReRy704cE-mg
 photos:
   - name: >-

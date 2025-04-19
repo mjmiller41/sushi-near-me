@@ -9,7 +9,7 @@ seo:
   name: "Sakura Japanese Steakhouse"
   type: Restaurant
   links: null
-description: "Looking for sushi in St. George, Utah? Check out Sakura Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Sakura Japanese Steakhouse serves delicious sushi in St. George, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1cL9qC9byoAREPC-LkJ7mto
 photos:
   - name: >-

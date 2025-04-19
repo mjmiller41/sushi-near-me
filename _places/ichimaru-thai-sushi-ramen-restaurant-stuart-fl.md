@@ -9,7 +9,7 @@ seo:
   name: "ICHIMARU Thai Sushi Ramen Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Stuart, Florida? Check out ICHIMARU Thai Sushi Ramen Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "ICHIMARU Thai Sushi Ramen Restaurant serves delicious sushi in Stuart, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGTGu9Qjd3ogRwH26fzPL5ZQ
 photos:
   - name: >-

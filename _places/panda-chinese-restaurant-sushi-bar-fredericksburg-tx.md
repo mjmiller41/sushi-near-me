@@ -9,7 +9,7 @@ seo:
   name: "Panda Chinese Restaurant & Sushi Bar"
   type: Restaurant
   links: https://www.pandachineserestaurantfb.com/
-description: "Looking for sushi in Fredericksburg, Texas? Check out Panda Chinese Restaurant & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Panda Chinese Restaurant & Sushi Bar serves delicious sushi in Fredericksburg, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEZZpH1nAW4YRUTCpYEhyQQY
 photos:
   - name: >-

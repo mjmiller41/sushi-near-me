@@ -9,7 +9,7 @@ seo:
   name: "Okada Japanese Steak & Seafood"
   type: Restaurant
   links: http://www.okadasteakhouse.com/
-description: "Upscale Asian surf 'n' turf dining stars grill chefs in sleek, modern surroundings. Looking for sushi in California, Maryland? Check out Okada Japanese Steak..."
+description: "Upscale Asian surf 'n' turf dining stars grill chefs in sleek, modern surroundings. Okada Japanese Steak & Seafood serves delicious sushi in California, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJSVPbhutjt4kRcGSf__E6fTU
 photos:
   - name: >-

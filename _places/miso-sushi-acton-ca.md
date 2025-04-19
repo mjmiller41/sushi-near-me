@@ -9,7 +9,7 @@ seo:
   name: "Miso Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Acton, California? Check out Miso Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Miso Sushi serves delicious sushi in Acton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA9NwlHz2woARYMuee50lvV0
 photos:
   - name: >-

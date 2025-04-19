@@ -9,7 +9,7 @@ seo:
   name: "Kona Grill - Eden Prairie"
   type: Restaurant
   links: null
-description: "Looking for sushi in Eden Prairie, Minnesota? Check out Kona Grill - Eden Prairie for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Kona Grill - Eden Prairie serves delicious sushi in Eden Prairie, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnW4txKIY9ocR4QoonRZmb6Q
 photos:
   - name: >-

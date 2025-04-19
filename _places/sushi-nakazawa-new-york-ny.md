@@ -9,7 +9,7 @@ seo:
   name: "Sushi Nakazawa"
   type: Restaurant
   links: http://sushinakazawa.com/
-description: "Destination sushi spot for high-end omakase (multicourse, chef's choice meals) in spare digs. Looking for sushi in New York, New York? Check out Sushi Nakaza..."
+description: "Destination sushi spot for high-end omakase (multicourse, chef's choice meals) in spare digs. Sushi Nakazawa serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJsw80F5NZwokRcDtxajLLOeA
 photos:
   - name: >-

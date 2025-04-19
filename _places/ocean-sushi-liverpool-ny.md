@@ -9,7 +9,7 @@ seo:
   name: "Ocean Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Liverpool, New York? Check out Ocean Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Ocean Sushi serves delicious sushi in Liverpool, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPay5mbLv2YkRYkG8WXIxDHs
 photos:
   - name: >-

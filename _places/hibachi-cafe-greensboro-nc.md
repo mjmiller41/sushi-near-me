@@ -9,7 +9,7 @@ seo:
   name: "Hibachi Cafe"
   type: Restaurant
   links: https://www.hibachicafenorthcarolina.com/zdoq28ba/hibachi-cafe-greensboro-27401/order-online
-description: "Looking for sushi in Greensboro, North Carolina? Check out Hibachi Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Hibachi Cafe serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJuSVHIR8ZU4gR7aC73NHmlCs
 photos:
   - name: >-

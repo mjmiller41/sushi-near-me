@@ -9,7 +9,7 @@ seo:
   name: "Sushi Spot Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tarzana, California? Check out Sushi Spot Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Sushi Spot Restaurant serves delicious sushi in Tarzana, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA5korECZwoAR72OrTPsjRy8
 photos:
   - name: >-

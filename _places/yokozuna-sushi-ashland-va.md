@@ -9,7 +9,7 @@ seo:
   name: "Yokozuna Sushi"
   type: Restaurant
   links: https://yokozunava.com/
-description: "Basic Japanese cafe with some Americanized fare plus beer, wine & sake & occasional piano music. Looking for sushi in Ashland, Virginia? Check out Yokozuna S..."
+description: "Basic Japanese cafe with some Americanized fare plus beer, wine & sake & occasional piano music. Yokozuna Sushi serves delicious sushi in Ashland, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJzXdji2I5sYkR3T7z34g3E8g
 photos:
   - name: >-

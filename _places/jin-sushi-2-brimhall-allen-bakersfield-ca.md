@@ -9,7 +9,7 @@ seo:
   name: "JIN SUSHI #2 (Brimhall & Allen)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bakersfield, California? Check out JIN SUSHI #2 (Brimhall & Allen) for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "JIN SUSHI #2 (Brimhall & Allen) serves delicious sushi in Bakersfield, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa_LpZQZF6oARkzzXudAqh_o
 photos:
   - name: >-

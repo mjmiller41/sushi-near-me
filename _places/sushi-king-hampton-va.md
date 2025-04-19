@@ -9,7 +9,7 @@ seo:
   name: "Sushi King"
   type: Restaurant
   links: http://www.sushikingptc.com/
-description: "Looking for sushi in Hampton, Virginia? Check out Sushi King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi King serves delicious sushi in Hampton, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLeiv1xWDuokRY7VcKRfHRjY
 photos:
   - name: >-

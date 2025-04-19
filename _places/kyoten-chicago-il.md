@@ -9,7 +9,7 @@ seo:
   name: "Kyōten"
   type: Restaurant
   links: http://kyotenchicago.com/
-description: "An omakase menu with sake pairings is the highlight at this upscale Japanese eatery & sushi bar Looking for sushi in Chicago, Illinois? Check out Kyōten for ..."
+description: "An omakase menu with sake pairings is the highlight at this upscale Japanese eatery & sushi bar Kyōten serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJqbhk96bTD4gR4wJOg2blQYE
 photos:
   - name: >-

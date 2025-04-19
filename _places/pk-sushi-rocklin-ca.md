@@ -9,7 +9,7 @@ seo:
   name: "PK Sushi"
   type: Restaurant
   links: http://www.pksushi.com/
-description: "Looking for sushi in Rocklin, California? Check out PK Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "PK Sushi serves delicious sushi in Rocklin, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU5tR0Bwim4ARqfIn-uON11c
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kadan"
   type: Restaurant
   links: https://sushi-kadan.com/
-description: "Looking for sushi in Carrollton, Texas? Check out Sushi Kadan for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Kadan serves delicious sushi in Carrollton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH_ugWdUlTIYRZ1cNtufHHBA
 photos:
   - name: >-

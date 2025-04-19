@@ -9,7 +9,7 @@ seo:
   name: "Fuku Sushi"
   type: Restaurant
   links: https://www.fukuaz.com/
-description: "Looking for sushi in Tucson, Arizona? Check out Fuku Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Fuku Sushi serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl7pWBQRx1oYRBKDRC-iVz7A
 photos:
   - name: >-

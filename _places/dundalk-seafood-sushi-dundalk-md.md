@@ -9,7 +9,7 @@ seo:
   name: "Dundalk Seafood & Sushi"
   type: Restaurant
   links: http://www.dundalksushi.com/
-description: "Looking for sushi in Dundalk, Maryland? Check out Dundalk Seafood & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Dundalk Seafood & Sushi serves delicious sushi in Dundalk, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNXeWqSwByIkRDNugz1MXbmg
 photos:
   - name: >-

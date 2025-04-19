@@ -9,7 +9,7 @@ seo:
   name: "Sushi Wen"
   type: Restaurant
   links: http://www.sushiwenny.com/
-description: "Looking for sushi in Staten Island, New York? Check out Sushi Wen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Wen serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJc7n80ghPwokRLdflrYWY0m0
 photos:
   - name: >-

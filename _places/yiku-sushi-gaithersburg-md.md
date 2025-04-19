@@ -9,7 +9,7 @@ seo:
   name: "Yiku Sushi"
   type: Restaurant
   links: https://yiku818.com/
-description: "Food is available to order online for fast delivery at this neighborhood Japanese restaurant. Looking for sushi in Gaithersburg, Maryland? Check out Yiku Sus..."
+description: "Food is available to order online for fast delivery at this neighborhood Japanese restaurant. Yiku Sushi serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJI4JnZdgttokRqiNk9UDbFR8
 photos:
   - name: >-

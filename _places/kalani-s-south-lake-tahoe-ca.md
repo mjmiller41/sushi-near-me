@@ -9,7 +9,7 @@ seo:
   name: "Kalani's"
   type: Restaurant
   links: http://kalanis.com/
-description: "Fine-dining spot at the Heavenly Mountain base featuring Hawaiian eats & a variety of sushi rolls. Looking for sushi in South Lake Tahoe, California? Check o..."
+description: "Fine-dining spot at the Heavenly Mountain base featuring Hawaiian eats & a variety of sushi rolls. Kalani's serves delicious sushi in South Lake Tahoe, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJRV9f9HaQmYARS-KagE_VWFA
 photos:
   - name: >-

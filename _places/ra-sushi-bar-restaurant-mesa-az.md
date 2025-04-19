@@ -9,7 +9,7 @@ seo:
   name: "RA Sushi Bar Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mesa, Arizona? Check out RA Sushi Bar Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "RA Sushi Bar Restaurant serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK2mg4DGvK4cRpLDe8wm4Qss
 photos:
   - name: >-

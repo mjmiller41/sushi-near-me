@@ -9,7 +9,7 @@ seo:
   name: "ATO SUSHI Korean & Japanese Cuisine"
   type: Restaurant
   links: https://www.atosushigr.com/
-description: "Compact cafe mixing classic Korean & Japanese fare including BBQ, noodles, sushi & bento boxes. Looking for sushi in Grand Rapids, Michigan? Check out ATO SU..."
+description: "Compact cafe mixing classic Korean & Japanese fare including BBQ, noodles, sushi & bento boxes. ATO SUSHI Korean & Japanese Cuisine serves delicious sushi in Grand Rapids, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ___veMWtGYgR2hdjnPXd58g
 photos:
   - name: >-

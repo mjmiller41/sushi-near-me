@@ -9,7 +9,7 @@ seo:
   name: "Hatsuhana Japanese Restaurant"
   type: Restaurant
   links: https://www.hatsuhanausa.com/
-description: "Looking for sushi in Honolulu, Hawaii? Check out Hatsuhana Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Hatsuhana Japanese Restaurant serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE2-ZnPVtAHwR6P2bJEKeAoY
 photos:
   - name: >-

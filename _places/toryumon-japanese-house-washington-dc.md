@@ -9,7 +9,7 @@ seo:
   name: "Toryumon Japanese House"
   type: Restaurant
   links: https://www.toryumonjapanese.com/
-description: "Grilled dishes, ramen, sushi & bento lunch specials round at the menu at this contemporary option. Looking for sushi in Washington, District of Columbia? Che..."
+description: "Grilled dishes, ramen, sushi & bento lunch specials round at the menu at this contemporary option. Toryumon Japanese House serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJj9dFYl23t4kRtofPHMPFewA
 photos:
   - name: >-

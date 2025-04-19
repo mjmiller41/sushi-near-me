@@ -9,7 +9,7 @@ seo:
   name: "Yum Sushi Burrito and Poke"
   type: Restaurant
   links: https://www.yumpokespot.com/
-description: "Looking for sushi in Duncan, South Carolina? Check out Yum Sushi Burrito and Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Yum Sushi Burrito and Poke serves delicious sushi in Duncan, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCZ_MV3qDV4gRtPIQ2Wk79mY
 photos:
   - name: >-

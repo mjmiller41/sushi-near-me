@@ -9,7 +9,7 @@ seo:
   name: "Sushi Totoro"
   type: Restaurant
   links: http://www.sushitotoro.net/
-description: "Looking for sushi in Aurora, Colorado? Check out Sushi Totoro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Totoro serves delicious sushi in Aurora, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiRRS1ACJbIcRFNWe_sMUmm8
 photos:
   - name: >-

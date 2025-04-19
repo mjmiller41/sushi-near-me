@@ -9,7 +9,7 @@ seo:
   name: "Fusion 2 Any 1 Sushi & Roll"
   type: Restaurant
   links: http://fusion2any1.com/
-description: "Looking for sushi in Diamond Bar, California? Check out Fusion 2 Any 1 Sushi & Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Fusion 2 Any 1 Sushi & Roll serves delicious sushi in Diamond Bar, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ63KrFpIsw4AR-svIuexDC-Q
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "AI Fusion Sushi & Grill"
   type: Restaurant
   links: http://ai-fusion.com/
-description: "Japanese & Korean fare, including sushi, is served in an airy space with Western & Asian elements. Looking for sushi in East Lansing, Michigan? Check out AI ..."
+description: "Japanese & Korean fare, including sushi, is served in an airy space with Western & Asian elements. AI Fusion Sushi & Grill serves delicious sushi in East Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIVTKuajCIogR1fbN8Gd-gKg
 photos:
   - name: >-

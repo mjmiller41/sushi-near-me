@@ -9,7 +9,7 @@ seo:
   name: "Sequoia"
   type: Restaurant
   links: http://sequoiamadison.com/
-description: "Looking for sushi in Madison, Wisconsin? Check out Sequoia for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Sequoia serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJC9-fKyOtB4gRTRWoczVO-YI
 photos:
   - name: >-

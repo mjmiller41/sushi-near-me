@@ -9,7 +9,7 @@ seo:
   name: "Kruba"
   type: Restaurant
   links: http://krubathai.com/
-description: "Thai dishes, sushi & sashimi served amid teak tables, carved-wood decor & a convivial bar scene. Looking for sushi in Washington, District of Columbia? Check..."
+description: "Thai dishes, sushi & sashimi served amid teak tables, carved-wood decor & a convivial bar scene. Kruba serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJGYRr_9C5t4kRVgyzuVBkCRg
 photos:
   - >-

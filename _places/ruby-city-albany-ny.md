@@ -9,7 +9,7 @@ seo:
   name: "Ruby City"
   type: Restaurant
   links: http://www.rubyalbany.com/
-description: "Casual eatery serving Pan-Asian eats including sushi & lunchtime bentos, plus sake & bubble tea. Looking for sushi in Albany, New York? Check out Ruby City f..."
+description: "Casual eatery serving Pan-Asian eats including sushi & lunchtime bentos, plus sake & bubble tea. Ruby City serves delicious sushi in Albany, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJd_6ZKE4K3okRK-68YleE0As
 photos:
   - name: >-

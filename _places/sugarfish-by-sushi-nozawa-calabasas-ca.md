@@ -9,7 +9,7 @@ seo:
   name: "SUGARFISH by sushi nozawa"
   type: Restaurant
   links: null
-description: "Looking for sushi in Calabasas, California? Check out SUGARFISH by sushi nozawa for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "SUGARFISH by sushi nozawa serves delicious sushi in Calabasas, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_zMqb2mewoARzy0_Hi3P0AY
 photos:
   - name: >-

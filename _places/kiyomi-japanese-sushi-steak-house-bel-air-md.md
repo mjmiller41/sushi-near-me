@@ -9,7 +9,7 @@ seo:
   name: "Kiyomi Japanese Sushi & Steak House"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bel Air, Maryland? Check out Kiyomi Japanese Sushi & Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Kiyomi Japanese Sushi & Steak House serves delicious sushi in Bel Air, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDaT_i5vex4kRVLzqF2jv9NU
 photos:
   - name: >-

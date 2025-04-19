@@ -9,7 +9,7 @@ seo:
   name: "Sushi | Bar Dallas"
   type: Restaurant
   links: null
-description: "Looking for sushi in Dallas, Texas? Check out Sushi | Bar Dallas for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi | Bar Dallas serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJw6wqw6ZToYRmI8tKSB_SE0
 photos:
   - name: >-

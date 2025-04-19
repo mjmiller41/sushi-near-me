@@ -9,7 +9,7 @@ seo:
   name: "URBN Sushi - La Jolla"
   type: Restaurant
   links: http://urbnsushi.com/
-description: "Looking for sushi in San Diego, California? Check out URBN Sushi - La Jolla for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "URBN Sushi - La Jolla serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJN3RrLt8B3IAR-qfPvselheA
 photos:
   - name: >-

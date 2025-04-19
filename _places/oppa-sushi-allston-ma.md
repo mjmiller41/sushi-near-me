@@ -9,7 +9,7 @@ seo:
   name: "Oppa Sushi"
   type: Restaurant
   links: https://order.toasttab.com/online/oppa-sushi-185-harvard-ave
-description: "This snug restaurant serves Japanese & Korean classics such as rolls, sashimi, ramen & bulgogi. Looking for sushi in Allston, Massachusetts? Check out Oppa S..."
+description: "This snug restaurant serves Japanese & Korean classics such as rolls, sashimi, ramen & bulgogi. Oppa Sushi serves delicious sushi in Allston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdci13cV544kRorom9FoI6sw
 photos:
   - name: >-

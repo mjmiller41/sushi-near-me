@@ -9,7 +9,7 @@ seo:
   name: "Aikan Sushi - Premium All You Can Eat"
   type: Restaurant
   links: null
-description: "Looking for sushi in Long Beach, California? Check out Aikan Sushi - Premium All You Can Eat for a delightful Japanese dining experience. Enjoy a variety of ..."
+description: "Aikan Sushi - Premium All You Can Eat serves delicious sushi in Long Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs4R4MkMx3YARaMrkytOR4pM
 photos:
   - name: >-

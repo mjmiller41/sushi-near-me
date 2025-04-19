@@ -9,7 +9,7 @@ seo:
   name: "Mika Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Camarillo, California? Check out Mika Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Mika Sushi serves delicious sushi in Camarillo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8z-iRv016IARG5TkFM5nozY
 photos:
   - name: >-

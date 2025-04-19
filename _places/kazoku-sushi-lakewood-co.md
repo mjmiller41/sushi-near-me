@@ -9,7 +9,7 @@ seo:
   name: "Kazoku Sushi"
   type: Restaurant
   links: https://www.kazokusushiorder.com/
-description: "Looking for sushi in Lakewood, Colorado? Check out Kazoku Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Kazoku Sushi serves delicious sushi in Lakewood, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH1bAY6KGa4cRoek_gcuo2cY
 photos:
   - name: >-

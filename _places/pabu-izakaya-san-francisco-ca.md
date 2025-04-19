@@ -9,7 +9,7 @@ seo:
   name: "PABU Izakaya"
   type: Restaurant
   links: https://theminagroup.com/restaurants/pabu-izakaya/
-description: "A sleek space with a buzzy ambiance, this high-end spot offers classic Japanese cuisine in style. Looking for sushi in San Francisco, California? Check out P..."
+description: "A sleek space with a buzzy ambiance, this high-end spot offers classic Japanese cuisine in style. PABU Izakaya serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ44TmfmGAhYARtt8NOeJ9kLo
 photos:
   - name: >-

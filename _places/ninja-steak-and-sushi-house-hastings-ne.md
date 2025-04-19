@@ -9,7 +9,7 @@ seo:
   name: "Ninja Steak and Sushi House"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hastings, Nebraska? Check out Ninja Steak and Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Ninja Steak and Sushi House serves delicious sushi in Hastings, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKUkTvfyjmYcRVdzMTtHWacw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kodiak Hana Restaurant"
   type: Restaurant
   links: http://kodiakhana.com/
-description: "Looking for sushi in Kodiak, Alaska? Check out Kodiak Hana Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Kodiak Hana Restaurant serves delicious sushi in Kodiak, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO0YN1WfE6lYRYWt_L_KdMCw
 photos:
   - name: >-

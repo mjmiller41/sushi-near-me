@@ -9,7 +9,7 @@ seo:
   name: "Duck Sushi"
   type: Restaurant
   links: https://www.ducksushieugeneor.com/
-description: "Looking for sushi in Eugene, Oregon? Check out Duck Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Duck Sushi serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzUUawT4ewVQRZQ1-lzqQ1EU
 photos:
   - name: >-

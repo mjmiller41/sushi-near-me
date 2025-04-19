@@ -9,7 +9,7 @@ seo:
   name: "Green Tea sushi"
   type: Restaurant
   links: https://greenteasushitogo.com/
-description: "Sushi house with Japanese decor for a variety of rolls, plus entrees such as teriyaki beef. Looking for sushi in Manhattan, Kansas? Check out Green Tea sushi..."
+description: "Sushi house with Japanese decor for a variety of rolls, plus entrees such as teriyaki beef. Green Tea sushi serves delicious sushi in Manhattan, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIcDQnnnSvYcRFbvShmUS5bI
 photos:
   - name: >-

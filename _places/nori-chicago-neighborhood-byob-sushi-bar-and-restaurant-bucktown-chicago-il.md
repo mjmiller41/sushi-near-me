@@ -9,7 +9,7 @@ seo:
   name: "Nori Chicago | Neighborhood BYOB Sushi Bar and Restaurant | Bucktown"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Nori Chicago | Neighborhood BYOB Sushi Bar and Restaurant | Bucktown for a delightful Japanese dining exper..."
+description: "Nori Chicago | Neighborhood BYOB Sushi Bar and Restaurant | Bucktown serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPRW4wsXSD4gRLJyXTTPMr-8
 photos:
   - name: >-

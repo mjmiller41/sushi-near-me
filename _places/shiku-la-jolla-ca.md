@@ -9,7 +9,7 @@ seo:
   name: "Shiku"
   type: Restaurant
   links: null
-description: "Looking for sushi in La Jolla, California? Check out Shiku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Shiku serves delicious sushi in La Jolla, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtaeyU_wD3IARUSCg9YElD8U
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Yamachen Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Yorktown, Virginia? Check out Yamachen Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Yamachen Sushi serves delicious sushi in Yorktown, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkRZgS1N_sIkRttj365_Pqj4
 photos:
   - name: >-

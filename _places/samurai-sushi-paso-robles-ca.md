@@ -9,7 +9,7 @@ seo:
   name: "Samurai Sushi"
   type: Restaurant
   links: https://www.facebook.com/pages/Samurai-Sushi-Roll/117333408284405
-description: "Looking for sushi in Paso Robles, California? Check out Samurai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Samurai Sushi serves delicious sushi in Paso Robles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj-Yzf6HF7IARB3h3jhYxNHY
 photos:
   - name: >-

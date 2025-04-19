@@ -9,7 +9,7 @@ seo:
   name: "Sushi Capitol"
   type: Restaurant
   links: http://www.sushicapitol.com/
-description: "Traditional cuts & creative rolls fill the menu at this sleek Japanese storefront with a view. Looking for sushi in Washington, District of Columbia? Check o..."
+description: "Traditional cuts & creative rolls fill the menu at this sleek Japanese storefront with a view. Sushi Capitol serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7QwI0S24t4kRlJqAPWb4mVg
 photos:
   - name: >-

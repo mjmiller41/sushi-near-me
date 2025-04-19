@@ -9,7 +9,7 @@ seo:
   name: "Kaito Sushi"
   type: Restaurant
   links: http://www.kaitorestaurant.net/
-description: "Basic sushi bar featuring exotic raw dishes prepared in the culinary traditions of Tokyo. Looking for sushi in Encinitas, California? Check out Kaito Sushi f..."
+description: "Basic sushi bar featuring exotic raw dishes prepared in the culinary traditions of Tokyo. Kaito Sushi serves delicious sushi in Encinitas, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJjV2ow4wL3IARbkNsF-qcsTw
 photos:
   - name: >-

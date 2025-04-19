@@ -9,7 +9,7 @@ seo:
   name: "Kai Sushi Fusion Roll &Sake"
   type: Restaurant
   links: https://kai-sushi.com/
-description: "Looking for sushi in Everett, Washington? Check out Kai Sushi Fusion Roll &Sake for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Kai Sushi Fusion Roll &Sake serves delicious sushi in Everett, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrQvpS5iqmlQRgFPFQqOUEHo
 photos:
   - name: >-

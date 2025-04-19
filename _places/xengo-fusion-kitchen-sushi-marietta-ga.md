@@ -9,7 +9,7 @@ seo:
   name: "XenGo Fusion Kitchen & Sushi"
   type: Restaurant
   links: http://www.ilovexengo.com/
-description: "Everyday sushi restaurant offering Asian classics with a Latin twist, plus outdoor seating. Looking for sushi in Marietta, Georgia? Check out XenGo Fusion Ki..."
+description: "Everyday sushi restaurant offering Asian classics with a Latin twist, plus outdoor seating. XenGo Fusion Kitchen & Sushi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJH8SBW0sN9YgRbdgN3fLvj1s
 photos:
   - name: >-

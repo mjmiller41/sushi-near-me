@@ -9,7 +9,7 @@ seo:
   name: "Kondu"
   type: Restaurant
   links: http://kondustatecollege.com/
-description: "Looking for sushi in State College, Pennsylvania? Check out Kondu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Kondu serves delicious sushi in State College, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJhZxiuJiozokRhJJEB307MJM
 photos:
   - name: >-

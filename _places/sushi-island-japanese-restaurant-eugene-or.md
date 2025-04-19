@@ -9,7 +9,7 @@ seo:
   name: "Sushi Island Japanese Restaurant"
   type: Restaurant
   links: https://pos.chowbus.com/online-ordering/store/15424
-description: "Looking for sushi in Eugene, Oregon? Check out Sushi Island Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Sushi Island Japanese Restaurant serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu-KaFz8ewVQRWj4obSC55oA
 photos:
   - name: >-

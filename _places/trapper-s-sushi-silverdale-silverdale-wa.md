@@ -9,7 +9,7 @@ seo:
   name: "Trapper's Sushi - Silverdale"
   type: Restaurant
   links: null
-description: "Looking for sushi in Silverdale, Washington? Check out Trapper's Sushi - Silverdale for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Trapper's Sushi - Silverdale serves delicious sushi in Silverdale, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0YzWOFU7kFQRQiTZyJjO3Iw
 photos:
   - name: >-

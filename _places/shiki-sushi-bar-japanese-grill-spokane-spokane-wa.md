@@ -9,7 +9,7 @@ seo:
   name: "Shiki Sushi Bar & Japanese Grill - Spokane"
   type: Restaurant
   links: null
-description: "Looking for sushi in Spokane, Washington? Check out Shiki Sushi Bar & Japanese Grill - Spokane for a delightful Japanese dining experience. Enjoy a variety o..."
+description: "Shiki Sushi Bar & Japanese Grill - Spokane serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv3Ci9PIZnlQRW-RlGl2_4K8
 photos:
   - name: >-

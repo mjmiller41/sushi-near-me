@@ -9,7 +9,7 @@ seo:
   name: "The Lobster Club"
   type: Restaurant
   links: http://www.thelobsterclub.com//?utm_medium=Click&utm_source=GoogleMyBusiness
-description: "High-end Japanese locale serving sushi & teppanyaki dishes in a sophisticated, lounge-style setting. Looking for sushi in New York, New York? Check out The L..."
+description: "High-end Japanese locale serving sushi & teppanyaki dishes in a sophisticated, lounge-style setting. The Lobster Club serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJO3lUXPtYwokRHcU_YPcKvcY
 photos:
   - name: >-

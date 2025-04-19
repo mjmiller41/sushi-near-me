@@ -9,7 +9,7 @@ seo:
   name: "MoMo Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out MoMo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "MoMo Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQZNjl6FZwokRkvYLX1eD_UQ
 photos:
   - name: >-

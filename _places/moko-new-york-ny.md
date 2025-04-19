@@ -9,7 +9,7 @@ seo:
   name: "Moko"
   type: Restaurant
   links: http://mokonyc.com/
-description: "Looking for sushi in New York, New York? Check out Moko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "Moko serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, delivery, lunch, and dinner."
 place_id: ChIJKcTI8OxZwokRtK-tImLBAcc
 photos:
   - name: >-

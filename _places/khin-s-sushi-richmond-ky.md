@@ -9,7 +9,7 @@ seo:
   name: "Khin's Sushi"
   type: Restaurant
   links: null
-description: "Simple set-up for a menu of sushi rolls, a few Japanese starters & some classic Burmese items. Looking for sushi in Richmond, Kentucky? Check out Khin's Sush..."
+description: "Simple set-up for a menu of sushi rolls, a few Japanese starters & some classic Burmese items. Khin's Sushi serves delicious sushi in Richmond, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQSB9yvT9QogRljLw9bQpcrk
 photos:
   - name: >-

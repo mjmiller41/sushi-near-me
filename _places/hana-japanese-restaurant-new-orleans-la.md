@@ -9,7 +9,7 @@ seo:
   name: "Hana Japanese Restaurant"
   type: Restaurant
   links: https://hanasushinola.com/
-description: "Looking for sushi in New Orleans, Louisiana? Check out Hana Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Hana Japanese Restaurant serves delicious sushi in New Orleans, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE8s9OTylIIYRFj9-BwnP-mA
 photos:
   - name: >-

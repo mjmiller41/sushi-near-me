@@ -9,7 +9,7 @@ seo:
   name: "Jessie's Sushi & Teriyaki"
   type: Restaurant
   links: https://www.sushiyakima.com/
-description: "Looking for sushi in Yakima, Washington? Check out Jessie's Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Jessie's Sushi & Teriyaki serves delicious sushi in Yakima, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvf53jM7XmVQR1t2OEd65_uY
 photos:
   - name: >-

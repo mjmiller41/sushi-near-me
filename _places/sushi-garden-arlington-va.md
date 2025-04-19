@@ -9,7 +9,7 @@ seo:
   name: "Sushi Garden"
   type: Restaurant
   links: https://www.sushigardencrystalcity.com/
-description: "Looking for sushi in Arlington, Virginia? Check out Sushi Garden for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Garden serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDY9HNyS3t4kRRx2rrw7YZfM
 photos:
   - name: >-

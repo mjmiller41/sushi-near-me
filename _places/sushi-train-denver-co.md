@@ -9,7 +9,7 @@ seo:
   name: "Sushi Train"
   type: Restaurant
   links: https://facebook.com/SushiTraindenver
-description: "Looking for sushi in Denver, Colorado? Check out Sushi Train for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi Train serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo3St02mHbIcR0xVZsKBxlLA
 photos:
   - name: >-

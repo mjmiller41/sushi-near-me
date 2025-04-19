@@ -9,7 +9,7 @@ seo:
   name: "Benkay Japanese Restaurant And Sushi Bar"
   type: Restaurant
   links: http://sushiman.com/
-description: "Long-standing local Japanese restaurant with traditional decor prepares sushi & other favorites. Looking for sushi in Portland, Maine? Check out Benkay Japan..."
+description: "Long-standing local Japanese restaurant with traditional decor prepares sushi & other favorites. Benkay Japanese Restaurant And Sushi Bar serves delicious sushi in Portland, Maine. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ_6q4AkGcskwR8QV_pTDjBtg
 photos:
   - name: >-

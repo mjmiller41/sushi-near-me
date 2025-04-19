@@ -9,7 +9,7 @@ seo:
   name: "Sushi Planet"
   type: Restaurant
   links: https://www.sushiplanetpa.com/
-description: "Looking for sushi in Philadelphia, Pennsylvania? Check out Sushi Planet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi Planet serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu5zJOZnIxokR_r7ddl10niM
 photos:
   - name: >-

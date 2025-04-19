@@ -9,7 +9,7 @@ seo:
   name: "Hajime St.Cloud"
   type: Restaurant
   links: http://hajimestc.com/
-description: "Stylish Japanese outpost with a full bar offering specialty rolls, traditional entrees & happy hour. Looking for sushi in St Cloud, Minnesota? Check out Haji..."
+description: "Stylish Japanese outpost with a full bar offering specialty rolls, traditional entrees & happy hour. Hajime St.Cloud serves delicious sushi in St Cloud, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJAQCExxpftFIRl-ph5BXrefY
 photos:
   - name: >-

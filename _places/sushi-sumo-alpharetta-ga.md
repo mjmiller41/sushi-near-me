@@ -9,7 +9,7 @@ seo:
   name: "Sushi Sumo"
   type: Restaurant
   links: null
-description: "Looking for sushi in Alpharetta, Georgia? Check out Sushi Sumo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Sumo serves delicious sushi in Alpharetta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBbP2KFV19YgRoxUjss5fgcY
 photos:
   - name: >-

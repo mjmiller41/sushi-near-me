@@ -9,7 +9,7 @@ seo:
   name: "Sushi Palace"
   type: Restaurant
   links: null
-description: "Looking for sushi in Summit, New Jersey? Check out Sushi Palace for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Palace serves delicious sushi in Summit, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkQFUFE2uw4kR1KbW59ndk_s
 photos:
   - name: >-

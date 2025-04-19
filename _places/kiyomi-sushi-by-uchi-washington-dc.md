@@ -9,7 +9,7 @@ seo:
   name: "KIYOMI Sushi by Uchi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Washington, District of Columbia? Check out KIYOMI Sushi by Uchi for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "KIYOMI Sushi by Uchi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJdb35KAC3t4kRYXSLFGT7IJc
 photos:
   - name: >-

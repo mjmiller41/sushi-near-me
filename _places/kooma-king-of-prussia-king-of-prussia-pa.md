@@ -9,7 +9,7 @@ seo:
   name: "Kooma - King of Prussia"
   type: Restaurant
   links: http://koomakop.com/
-description: "Looking for sushi in King of Prussia, Pennsylvania? Check out Kooma - King of Prussia for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Kooma - King of Prussia serves delicious sushi in King of Prussia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA4OZqVSVxokRJdPX9NTOu8Y
 photos:
   - name: >-

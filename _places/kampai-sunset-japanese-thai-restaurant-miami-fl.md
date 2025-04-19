@@ -9,7 +9,7 @@ seo:
   name: "Kampai Sunset Japanese & Thai Restaurant"
   type: Restaurant
   links: http://kampai-sunset.com/
-description: "Unfussy, local sushi joint serving a mix of Japanese & Thai standards for dining in or delivery. Looking for sushi in Miami, Florida? Check out Kampai Sunset..."
+description: "Unfussy, local sushi joint serving a mix of Japanese & Thai standards for dining in or delivery. Kampai Sunset Japanese & Thai Restaurant serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt7QyeW7H2YgR5zjU9aBU23k
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Pisces"
   type: Restaurant
   links: null
-description: "Looking for sushi in Manhattan Beach, California? Check out Pisces for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Pisces serves delicious sushi in Manhattan Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgUxBJ96zwoARe0NzkFF7l_g
 photos:
   - name: >-

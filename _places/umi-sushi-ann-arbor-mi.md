@@ -9,7 +9,7 @@ seo:
   name: "UMI SUSHI"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ann Arbor, Michigan? Check out UMI SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "UMI SUSHI serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe7onUBmsPIgRx4yu0EsDLIM
 photos:
   - name: >-

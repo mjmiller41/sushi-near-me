@@ -9,7 +9,7 @@ seo:
   name: "Shogun Hibachi Steakhouse"
   type: Restaurant
   links: http://shogunhibachisteakhousepa.com/
-description: "Looking for sushi in Monaca, Pennsylvania? Check out Shogun Hibachi Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Shogun Hibachi Steakhouse serves delicious sushi in Monaca, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5dntlKlvNIgRGvdnWt7YBKQ
 photos:
   - name: >-

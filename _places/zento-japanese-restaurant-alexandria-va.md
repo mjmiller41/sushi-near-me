@@ -9,7 +9,7 @@ seo:
   name: "Zento Japanese Restaurant"
   type: Restaurant
   links: http://www.zentorestaurant.com/index.html
-description: "Sushi, ramen & more in a modern Japanese eatery with exposed beams, brick accents & Asian touches. Looking for sushi in Alexandria, Virginia? Check out Zento..."
+description: "Sushi, ramen & more in a modern Japanese eatery with exposed beams, brick accents & Asian touches. Zento Japanese Restaurant serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7cAVevqwt4kRB3LFDhAHGCA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi 101"
   type: Restaurant
   links: https://www.sushi101tempe.com/
-description: "Looking for sushi in Tempe, Arizona? Check out Sushi 101 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Sushi 101 serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJATplIecIK4cR5UuBpX7I8L4
 photos:
   - name: >-

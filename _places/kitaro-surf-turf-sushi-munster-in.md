@@ -9,7 +9,7 @@ seo:
   name: "Kitaro Surf & Turf & Sushi"
   type: Restaurant
   links: https://www.kitarosurfandturf.com/
-description: "Looking for sushi in Munster, Indiana? Check out Kitaro Surf & Turf & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Kitaro Surf & Turf & Sushi serves delicious sushi in Munster, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ64EkzK_hEYgRBx9J1vuxOMc
 photos:
   - name: >-

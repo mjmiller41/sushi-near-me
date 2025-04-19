@@ -9,7 +9,7 @@ seo:
   name: "Sushi Hai"
   type: Restaurant
   links: https://sushihai.com/
-description: "Looking for sushi in Denver, Colorado? Check out Sushi Hai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Sushi Hai serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC5x402KHa4cRyDdbfVDXrog
 photos:
   - name: >-

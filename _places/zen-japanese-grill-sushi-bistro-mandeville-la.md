@@ -9,7 +9,7 @@ seo:
   name: "Zen Japanese Grill & Sushi Bistro"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mandeville, Louisiana? Check out Zen Japanese Grill & Sushi Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Zen Japanese Grill & Sushi Bistro serves delicious sushi in Mandeville, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1wu-KNtbJ4YRKftLUfvhJQA
 photos:
   - name: >-

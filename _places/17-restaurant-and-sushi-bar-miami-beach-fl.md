@@ -9,7 +9,7 @@ seo:
   name: "17 Restaurant and Sushi Bar"
   type: Restaurant
   links: https://17restaurant.com/
-description: "Kosher go-to featuring an eclectic menu of sushi & rustic Italian fare in simple, bright environs. Looking for sushi in Miami Beach, Florida? Check out 17 Re..."
+description: "Kosher go-to featuring an eclectic menu of sushi & rustic Italian fare in simple, bright environs. 17 Restaurant and Sushi Bar serves delicious sushi in Miami Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJC4EJc4e02YgRsrTV2vNkhaQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sakura Japanese Steak, Seafood House & Sushi Bar"
   type: Restaurant
   links: http://www.sakurasteakhouse.com/
-description: "Looking for sushi in Ocean City, Maryland? Check out Sakura Japanese Steak, Seafood House & Sushi Bar for a delightful Japanese dining experience. Enjoy a va..."
+description: "Sakura Japanese Steak, Seafood House & Sushi Bar serves delicious sushi in Ocean City, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ6PwtkwouYkRTFADvmmNIO4
 photos:
   - name: >-

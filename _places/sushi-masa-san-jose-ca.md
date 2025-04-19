@@ -9,7 +9,7 @@ seo:
   name: "Sushi Masa"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Jose, California? Check out Sushi Masa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Masa serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr3c9AwE0joARRm3plJcrCKY
 photos:
   - name: >-

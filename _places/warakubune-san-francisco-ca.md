@@ -9,7 +9,7 @@ seo:
   name: "Warakubune"
   type: Restaurant
   links: null
-description: "Diners at this Japanese joint snag their sushi from boats that sail by on a conveyor belt. Looking for sushi in San Francisco, California? Check out Warakubu..."
+description: "Diners at this Japanese joint snag their sushi from boats that sail by on a conveyor belt. Warakubune serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJGQnGlh5-j4ARAXOJ0vGq53k
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kura Revolving Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Carle Place, New York? Check out Kura Revolving Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Kura Revolving Sushi Bar serves delicious sushi in Carle Place, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_WtkxRuHwokRckMLJfWUP4k
 photos:
   - name: >-

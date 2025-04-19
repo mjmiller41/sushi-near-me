@@ -9,7 +9,7 @@ seo:
   name: "SUSHI MORI"
   type: Restaurant
   links: https://www.sushimorisantacruz.com/
-description: "Looking for sushi in Santa Cruz, California? Check out SUSHI MORI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "SUSHI MORI serves delicious sushi in Santa Cruz, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBQEsGsNBjoARyz07FQkOgFw
 photos:
   - name: >-

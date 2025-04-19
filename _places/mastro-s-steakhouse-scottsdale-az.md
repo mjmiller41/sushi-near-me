@@ -9,7 +9,7 @@ seo:
   name: "Mastro's Steakhouse"
   type: Restaurant
   links: null
-description: "Looking for sushi in Scottsdale, Arizona? Check out Mastro's Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Mastro's Steakhouse serves delicious sushi in Scottsdale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ-5FB7F3K4cRB9kOcZQQGBI
 photos:
   - name: >-

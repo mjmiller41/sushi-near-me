@@ -9,7 +9,7 @@ seo:
   name: "Genki sushi and grill"
   type: Restaurant
   links: http://www.genkisushiandgrill.com/
-description: "Looking for sushi in Lancaster, Pennsylvania? Check out Genki sushi and grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Genki sushi and grill serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRaxQArUjxokR2JhU-KOt5pQ
 photos:
   - name: >-

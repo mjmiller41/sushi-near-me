@@ -9,7 +9,7 @@ seo:
   name: "Sushi Court"
   type: Restaurant
   links: null
-description: "This warmly lit Japanese restaurant serves sushi rolls & hot items like teriyaki, hibachi & noodles. Looking for sushi in Fayetteville, North Carolina? Check..."
+description: "This warmly lit Japanese restaurant serves sushi rolls & hot items like teriyaki, hibachi & noodles. Sushi Court serves delicious sushi in Fayetteville, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJC016PzZrq4kRp1QkARm4KYE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "KI SUSHI"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brooklyn, New York? Check out KI SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "KI SUSHI serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiXgxF05awokRzcgnxMbCR9U
 photos:
   - name: >-

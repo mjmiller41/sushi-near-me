@@ -9,7 +9,7 @@ seo:
   name: "Happy Sushi"
   type: Restaurant
   links: https://www.facebook.com/Happy-Sushi-180772915342734/
-description: "Relaxed, counter-serve eatery providing an array of cooked Japanese dishes & sushi rolls. Looking for sushi in Springfield, Illinois? Check out Happy Sushi f..."
+description: "Relaxed, counter-serve eatery providing an array of cooked Japanese dishes & sushi rolls. Happy Sushi serves delicious sushi in Springfield, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJedF9Xr05dYgRjceVQrCURtI
 photos:
   - name: >-

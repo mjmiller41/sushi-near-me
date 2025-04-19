@@ -9,7 +9,7 @@ seo:
   name: "Kuka Sushi & Izakaya"
   type: Restaurant
   links: http://kukasushi.com/
-description: "Looking for sushi in Tempe, Arizona? Check out Kuka Sushi & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Kuka Sushi & Izakaya serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzYZ61uIJK4cRtItvjQKWXGk
 photos:
   - name: >-

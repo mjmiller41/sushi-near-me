@@ -9,7 +9,7 @@ seo:
   name: "Fish Face Poke Bar"
   type: Restaurant
   links: http://www.fishfacepokebar.com/
-description: "Looking for sushi in Sacramento, California? Check out Fish Face Poke Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Fish Face Poke Bar serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXz2huCbRmoARo1hjlaU4-mc
 photos:
   - name: >-

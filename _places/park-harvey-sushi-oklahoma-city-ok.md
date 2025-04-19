@@ -9,7 +9,7 @@ seo:
   name: "Park Harvey Sushi"
   type: Restaurant
   links: http://www.parkharveysushi.com/
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Park Harvey Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Park Harvey Sushi serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPQN6zy4XsocRq38z02GWX4w
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "SushiMan"
   type: Restaurant
   links: null
-description: "Looking for sushi in Honolulu, Hawaii? Check out SushiMan for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "SushiMan serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGyWJjcFtAHwRf8SPe8fuHBY
 photos:
   - name: >-

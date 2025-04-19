@@ -9,7 +9,7 @@ seo:
   name: "Sushi on Tatum"
   type: Restaurant
   links: https://sushiontatumaz.kwickmenu.com/
-description: "Looking for sushi in Phoenix, Arizona? Check out Sushi on Tatum for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi on Tatum serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi4GexeFwK4cRCThRJrwkNIs
 photos:
   - name: >-

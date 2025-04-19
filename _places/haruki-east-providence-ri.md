@@ -9,7 +9,7 @@ seo:
   name: "Haruki East"
   type: Restaurant
   links: http://www.harukisushiri.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16105084728213958698
-description: "Noodle soups, sashimi & house specialty rolls are served in this relaxed Japanese restaurant. Looking for sushi in Providence, Rhode Island? Check out Haruki..."
+description: "Noodle soups, sashimi & house specialty rolls are served in this relaxed Japanese restaurant. Haruki East serves delicious sushi in Providence, Rhode Island. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJf2_rnS5F5IkR_5NcVTK0gC8
 photos:
   - name: >-

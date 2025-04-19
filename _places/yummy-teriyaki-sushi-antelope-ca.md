@@ -9,7 +9,7 @@ seo:
   name: "Yummy Teriyaki & Sushi"
   type: Restaurant
   links: https://yummyteriyaki.menu11.com/
-description: "Looking for sushi in Antelope, California? Check out Yummy Teriyaki & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Yummy Teriyaki & Sushi serves delicious sushi in Antelope, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsViscyonm4ARjR0S-HBB2zI
 photos:
   - name: >-

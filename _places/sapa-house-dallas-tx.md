@@ -9,7 +9,7 @@ seo:
   name: "Sapa House"
   type: Restaurant
   links: https://www.ordersapahousedallas.com/
-description: "Looking for sushi in Dallas, Texas? Check out Sapa House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Sapa House serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhQE8TR-ZToYRsF0rtTyJEmQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Heemo Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Duarte, California? Check out Heemo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Heemo Sushi serves delicious sushi in Duarte, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVU9ZgrHZwoARmcA6vg0akIg
 photos:
   - name: >-

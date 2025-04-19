@@ -9,7 +9,7 @@ seo:
   name: "Shogun"
   type: Restaurant
   links: https://www.shogunburnsvillemn.com/
-description: "Contemporary restaurant offering lively hibachi meals, sushi & cocktails in a low-lit dining room. Looking for sushi in Burnsville, Minnesota? Check out Shog..."
+description: "Contemporary restaurant offering lively hibachi meals, sushi & cocktails in a low-lit dining room. Shogun serves delicious sushi in Burnsville, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJrbubPDY69ocR-1UQTiTXAwU
 photos:
   - name: >-

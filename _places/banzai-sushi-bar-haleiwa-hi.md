@@ -9,7 +9,7 @@ seo:
   name: "Banzai Sushi Bar"
   type: Restaurant
   links: http://www.banzaisushibarhawaii.com/
-description: "Looking for sushi in Haleiwa, Hawaii? Check out Banzai Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Banzai Sushi Bar serves delicious sushi in Haleiwa, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6-5QkixfAHwRu4mWMnXfyD8
 photos:
   - name: >-

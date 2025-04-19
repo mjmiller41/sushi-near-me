@@ -9,7 +9,7 @@ seo:
   name: "Sushi Den"
   type: Restaurant
   links: http://sushidenindy.com/
-description: "Looking for sushi in Indianapolis, Indiana? Check out Sushi Den for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Den serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnSMbRQBRa4gRBvOeKc8CDlo
 photos:
   - name: >-

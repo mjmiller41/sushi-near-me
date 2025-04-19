@@ -9,7 +9,7 @@ seo:
   name: "Gyu Shige (牛繁) Japanese BBQ"
   type: Restaurant
   links: http://www.gyushigeus.com/
-description: "Looking for sushi in Fairfax, Virginia? Check out Gyu Shige (牛繁) Japanese BBQ for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Gyu Shige (牛繁) Japanese BBQ serves delicious sushi in Fairfax, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbxnQQfNLtokREjUJj7lkHDg
 photos:
   - name: >-

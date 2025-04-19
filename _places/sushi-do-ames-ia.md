@@ -9,7 +9,7 @@ seo:
   name: "Sushi Do"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ames, Iowa? Check out Sushi Do for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atm..."
+description: "Sushi Do serves delicious sushi in Ames, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJy_RqcwBx7ocRD5i1M36_pdA
 photos:
   - name: >-

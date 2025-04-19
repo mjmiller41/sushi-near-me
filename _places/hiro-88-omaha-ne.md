@@ -9,7 +9,7 @@ seo:
   name: "Hiro 88"
   type: Restaurant
   links: null
-description: "Looking for sushi in Omaha, Nebraska? Check out Hiro 88 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "Hiro 88 serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNcTj266Pk4cREKjfc4gZGWE
 photos:
   - name: >-

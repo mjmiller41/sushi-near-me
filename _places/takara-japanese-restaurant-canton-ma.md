@@ -9,7 +9,7 @@ seo:
   name: "Takara Japanese Restaurant"
   type: Restaurant
   links: http://www.takarajapaneserestaurant.com/
-description: "Looking for sushi in Canton, Massachusetts? Check out Takara Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Takara Japanese Restaurant serves delicious sushi in Canton, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj2oWON-A5IkR-UfQbR4zyug
 photos:
   - name: >-

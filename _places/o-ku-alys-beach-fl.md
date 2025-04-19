@@ -9,7 +9,7 @@ seo:
   name: "O-Ku"
   type: Restaurant
   links: null
-description: "Looking for sushi in Alys Beach, Florida? Check out O-Ku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "O-Ku serves delicious sushi in Alys Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr3QMS77vk4gRdWQjC5hsSpU
 photos:
   - name: >-

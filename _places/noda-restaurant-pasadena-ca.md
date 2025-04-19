@@ -9,7 +9,7 @@ seo:
   name: "Noda Restaurant"
   type: Restaurant
   links: http://noda.lany.io/
-description: "Looking for sushi in Pasadena, California? Check out Noda Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Noda Restaurant serves delicious sushi in Pasadena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5VWQm6DEwoARWXUXFoaxr_k
 photos:
   - name: >-

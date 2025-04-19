@@ -9,7 +9,7 @@ seo:
   name: "Kyoto Sushi"
   type: Restaurant
   links: http://www.kyotosushibox.com/
-description: "Easygoing, strip-mall destination for sushi, sashimi & cooked Japanese favorites. Looking for sushi in Alexandria, Virginia? Check out Kyoto Sushi for a deli..."
+description: "Easygoing, strip-mall destination for sushi, sashimi & cooked Japanese favorites. Kyoto Sushi serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJoWSl_2A2tokRjG18NzuhBQM
 photos:
   - name: >-

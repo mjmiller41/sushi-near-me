@@ -9,7 +9,7 @@ seo:
   name: "Waki"
   type: Restaurant
   links: https://www.wakisushi1403.com/
-description: "Looking for sushi in Alameda, California? Check out Waki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Waki serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkTHW2l6Bj4AR9ayFQ-J4Kqw
 photos:
   - name: >-

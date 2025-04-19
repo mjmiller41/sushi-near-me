@@ -9,7 +9,7 @@ seo:
   name: "123 Sushi"
   type: Restaurant
   links: http://www.onetwothreesushi.com/
-description: "Casual, fast-food spot offering create-your-own sushi rolls, ramen & rice bowls in a modern space. Looking for sushi in Minneapolis, Minnesota? Check out 123..."
+description: "Casual, fast-food spot offering create-your-own sushi rolls, ramen & rice bowls in a modern space. 123 Sushi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-TtOW5cys1IR3X6DwOwsWgA
 photos:
   - name: >-

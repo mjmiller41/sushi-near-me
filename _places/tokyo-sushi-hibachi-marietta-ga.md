@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi & Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Marietta, Georgia? Check out Tokyo Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Tokyo Sushi & Hibachi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAU7gTR4V9YgRuXzcB6AGZ2I
 photos:
   - name: >-

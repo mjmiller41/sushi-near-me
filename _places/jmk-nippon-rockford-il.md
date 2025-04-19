@@ -9,7 +9,7 @@ seo:
   name: "JMK Nippon"
   type: Restaurant
   links: http://jmkrockford.com/
-description: "Sleek Japanese spot featuring tableside grills, sushi, traditional Japanese mains & bento boxes. Looking for sushi in Rockford, Illinois? Check out JMK Nippo..."
+description: "Sleek Japanese spot featuring tableside grills, sushi, traditional Japanese mains & bento boxes. JMK Nippon serves delicious sushi in Rockford, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJxcyzlp25CIgROtsywk16nR0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Summer Fish & Rice"
   type: Restaurant
   links: https://www.summer.fish/
-description: "Looking for sushi in Beverly Hills, California? Check out Summer Fish & Rice for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Summer Fish & Rice serves delicious sushi in Beverly Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ469JZ1C5woARmhglgvz0LKU
 photos:
   - name: >-

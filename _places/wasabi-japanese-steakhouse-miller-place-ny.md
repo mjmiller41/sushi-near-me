@@ -9,7 +9,7 @@ seo:
   name: "Wasabi Japanese SteakHouse"
   type: Restaurant
   links: http://www.wasabimillerplace.com/
-description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Looking for sushi in Miller Place, New York? Check out Wasabi Japane..."
+description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Wasabi Japanese SteakHouse serves delicious sushi in Miller Place, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJYWlc0BVC6IkRGfzvVOzQDvE
 photos:
   - name: >-

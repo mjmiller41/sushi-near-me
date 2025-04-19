@@ -9,7 +9,7 @@ seo:
   name: "Toshi's Cafe"
   type: Restaurant
   links: http://www.toshiscafe.com/
-description: "Looking for sushi in Greensboro, North Carolina? Check out Toshi's Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Toshi's Cafe serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8w66dqIaU4gRifbD8WqBuvQ
 photos:
   - name: >-

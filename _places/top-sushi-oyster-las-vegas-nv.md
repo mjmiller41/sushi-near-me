@@ -9,7 +9,7 @@ seo:
   name: "Top Sushi & Oyster"
   type: Restaurant
   links: https://topsushi.top/
-description: "Looking for sushi in Las Vegas, Nevada? Check out Top Sushi & Oyster for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Top Sushi & Oyster serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD48i9NPPyIARfPCAEeZCzxk
 photos:
   - name: >-

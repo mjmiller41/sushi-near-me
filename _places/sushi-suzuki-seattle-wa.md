@@ -9,7 +9,7 @@ seo:
   name: "Sushi Suzuki"
   type: Restaurant
   links: http://sushisuzuki.com/
-description: "Looking for sushi in Seattle, Washington? Check out Sushi Suzuki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Suzuki serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNdwddBEVkFQRFbOM_NGG6-8
 photos:
   - name: >-

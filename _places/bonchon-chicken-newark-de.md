@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Chicken"
   type: Restaurant
   links: null
-description: "Looking for sushi in Newark, Delaware? Check out Bonchon Chicken for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Bonchon Chicken serves delicious sushi in Newark, Delaware. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTcj7Ggmrx4kR3BNM0OAstqc
 photos:
   - name: >-

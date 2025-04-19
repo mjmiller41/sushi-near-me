@@ -9,7 +9,7 @@ seo:
   name: "SHUMI REVOLVING SUSHI"
   type: Restaurant
   links: http://shumirevolvingsushi.com/
-description: "Looking for sushi in Fairfield, Connecticut? Check out SHUMI REVOLVING SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "SHUMI REVOLVING SUSHI serves delicious sushi in Fairfield, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4X-DTL0P6IkRYWOkjvx1YU0
 photos:
   - name: >-

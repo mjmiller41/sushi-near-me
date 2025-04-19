@@ -9,7 +9,7 @@ seo:
   name: "House of Teriyaki"
   type: Restaurant
   links: http://www.houseofteriyakiorder.com/
-description: "Traditional Japanese dishes & sushi rolls served in easygoing, wood-paneled surrounds. Looking for sushi in Amherst, Massachusetts? Check out House of Teriya..."
+description: "Traditional Japanese dishes & sushi rolls served in easygoing, wood-paneled surrounds. House of Teriyaki serves delicious sushi in Amherst, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVQjRvIXS5okRTYqfalbuwsA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Zen Sushi & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Aliso Viejo, California? Check out Zen Sushi & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Zen Sushi & Sushi Bar serves delicious sushi in Aliso Viejo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5XvTETrv3IARc-oVpd4zpmc
 photos:
   - name: >-

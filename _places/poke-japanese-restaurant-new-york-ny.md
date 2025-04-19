@@ -9,7 +9,7 @@ seo:
   name: "Poke Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Poke Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Poke Japanese Restaurant serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu25Iu7tYwokRS9eaSuLSwxE
 photos:
   - name: >-

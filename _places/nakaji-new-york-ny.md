@@ -9,7 +9,7 @@ seo:
   name: "Nakaji"
   type: Restaurant
   links: http://www.nakajinyc.com/
-description: "Intimate, wood-accented venue for curated omakase sushi meals served at a chef's counter. Looking for sushi in New York, New York? Check out Nakaji for a del..."
+description: "Intimate, wood-accented venue for curated omakase sushi meals served at a chef's counter. Nakaji serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJX20rB1VbwokRM2mtS1kd9u0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Koma Sushi"
   type: Restaurant
   links: https://komasushiportolavalley.com/
-description: "Looking for sushi in Portola Valley, California? Check out Koma Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Koma Sushi serves delicious sushi in Portola Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9ddDlXWlj4ARh9MgODrh-hg
 photos:
   - name: >-

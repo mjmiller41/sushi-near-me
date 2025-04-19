@@ -9,7 +9,7 @@ seo:
   name: "KANBU Sushi Downtown"
   type: Restaurant
   links: http://kanbu-annarbor.com/
-description: "Standard Japanese restaurant serving sushi, poke bowls & seafood noodle soups in relaxed surrounds. Looking for sushi in Ann Arbor, Michigan? Check out KANBU..."
+description: "Standard Japanese restaurant serving sushi, poke bowls & seafood noodle soups in relaxed surrounds. KANBU Sushi Downtown serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgwPltO6vPIgRPHbn-kwcNFE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Fumi Hibachi and Sushi"
   type: Restaurant
   links: https://fumiatlanta.com/
-description: "Looking for sushi in Duluth, Georgia? Check out Fumi Hibachi and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Fumi Hibachi and Sushi serves delicious sushi in Duluth, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJqTaBfxuj9YgR2yh-egDJcyM
 photos:
   - name: >-

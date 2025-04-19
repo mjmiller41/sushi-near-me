@@ -9,7 +9,7 @@ seo:
   name: "Yoshi Sushi"
   type: Restaurant
   links: http://yoshisushialbany.com/
-description: "Longtime local standby offers traditional rolls in a family-friendly setting with a BYOB policy. Looking for sushi in Latham, New York? Check out Yoshi Sushi..."
+description: "Longtime local standby offers traditional rolls in a family-friendly setting with a BYOB policy. Yoshi Sushi serves delicious sushi in Latham, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJERwd_DAM3okRVc4gxYJAiGo
 photos:
   - name: >-

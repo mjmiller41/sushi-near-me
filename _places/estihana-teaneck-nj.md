@@ -9,7 +9,7 @@ seo:
   name: "Estihana"
   type: Restaurant
   links: http://www.estihana.com/
-description: "Looking for sushi in Teaneck, New Jersey? Check out Estihana for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Estihana serves delicious sushi in Teaneck, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI9rE_KXwwokR2x1bWIHR-pU
 photos:
   - name: >-

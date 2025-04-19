@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Aurora - S Cornerstar Way"
   type: Restaurant
   links: null
-description: "Looking for sushi in Aurora, Colorado? Check out Bonchon Aurora - S Cornerstar Way for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Bonchon Aurora - S Cornerstar Way serves delicious sushi in Aurora, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZyo3TAqPbIcRzwp-zuMLA7k
 photos:
   - name: >-

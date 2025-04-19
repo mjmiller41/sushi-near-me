@@ -9,7 +9,7 @@ seo:
   name: "Sushi Heaven"
   type: Restaurant
   links: https://sushiheavenlancaster.com/
-description: "Looking for sushi in Lancaster, Pennsylvania? Check out Sushi Heaven for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Heaven serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF8dMxrg7xokRSyi8UMAy94Q
 photos:
   - name: >-

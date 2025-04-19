@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Hyattsville"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hyattsville, Maryland? Check out Bonchon Hyattsville for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Bonchon Hyattsville serves delicious sushi in Hyattsville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRT_u9-_Gt4kRTrclifaqYWo
 photos:
   - name: >-

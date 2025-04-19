@@ -9,7 +9,7 @@ seo:
   name: "Ginza"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fullerton, California? Check out Ginza for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Ginza serves delicious sushi in Fullerton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkzhaf5zV3IAR3kAN4rLZ6wI
 photos:
   - name: >-

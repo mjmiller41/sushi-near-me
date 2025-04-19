@@ -9,7 +9,7 @@ seo:
   name: "Mr Teriyaki Sushi"
   type: Restaurant
   links: https://www.mrteriyakisushi.com/
-description: "Looking for sushi in Burlingame, California? Check out Mr Teriyaki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Mr Teriyaki Sushi serves delicious sushi in Burlingame, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO0YAtNJ3j4ARqmqR_BuLb4U
 photos:
   - name: >-

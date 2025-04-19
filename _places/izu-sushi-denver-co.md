@@ -9,7 +9,7 @@ seo:
   name: "Izu-Sushi"
   type: Restaurant
   links: https://orderizusushi.com/
-description: "Looking for sushi in Denver, Colorado? Check out Izu-Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Izu-Sushi serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0_g-u8x-bIcRdpNarLju3TY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Fuji Sushi & Sake Bar"
   type: Restaurant
   links: http://fujisushisakebar.com/
-description: "A menu specializing in an array of sushi & sake with Japanese interior details & bar seating. Looking for sushi in Rapid City, South Dakota? Check out Fuji S..."
+description: "A menu specializing in an array of sushi & sake with Japanese interior details & bar seating. Fuji Sushi & Sake Bar serves delicious sushi in Rapid City, South Dakota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmTk8UhpdfYcRGhLlMQMpXSM
 photos:
   - name: >-

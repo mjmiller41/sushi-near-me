@@ -9,7 +9,7 @@ seo:
   name: "Thai Taste of West Chester"
   type: Restaurant
   links: null
-description: "Looking for sushi in West Chester Township, Ohio? Check out Thai Taste of West Chester for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Thai Taste of West Chester serves delicious sushi in West Chester Township, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ10vI-n1aQIgRwD6XHolzgoI
 photos:
   - name: >-

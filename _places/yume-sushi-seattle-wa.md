@@ -9,7 +9,7 @@ seo:
   name: "Yume Sushi"
   type: Restaurant
   links: https://hnchoi0509.wixsite.com/yume
-description: "Looking for sushi in Seattle, Washington? Check out Yume Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Yume Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAQB7X4AVkFQRDl-kSXjiVfc
 photos:
   - name: >-

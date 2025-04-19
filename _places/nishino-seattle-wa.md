@@ -9,7 +9,7 @@ seo:
   name: "Nishino"
   type: Restaurant
   links: https://nishinorestaurant.com/m/
-description: "Looking for sushi in Seattle, Washington? Check out Nishino for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Nishino serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJT_OIq9IUkFQRyxvBIQWRZg8
 photos:
   - name: >-

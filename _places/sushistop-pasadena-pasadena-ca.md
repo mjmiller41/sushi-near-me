@@ -9,7 +9,7 @@ seo:
   name: "SushiStop Pasadena"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pasadena, California? Check out SushiStop Pasadena for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "SushiStop Pasadena serves delicious sushi in Pasadena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu7_rsHHDwoAR-q0s26NmSbk
 photos:
   - name: >-

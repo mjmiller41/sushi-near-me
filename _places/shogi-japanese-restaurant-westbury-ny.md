@@ -9,7 +9,7 @@ seo:
   name: "Shogi Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Westbury, New York? Check out Shogi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Shogi Japanese Restaurant serves delicious sushi in Westbury, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrWRo1UWHwokReEQaRCE4aQk
 photos:
   - name: >-

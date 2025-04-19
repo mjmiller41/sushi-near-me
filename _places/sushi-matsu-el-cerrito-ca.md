@@ -9,7 +9,7 @@ seo:
   name: "Sushi Matsu"
   type: Restaurant
   links: null
-description: "Looking for sushi in El Cerrito, California? Check out Sushi Matsu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Matsu serves delicious sushi in El Cerrito, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYd_ewwR5hYARgFWA52KpyTg
 photos:
   - name: >-

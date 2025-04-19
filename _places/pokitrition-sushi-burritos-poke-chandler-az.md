@@ -9,7 +9,7 @@ seo:
   name: "Pokitrition - Sushi Burritos & Poke"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chandler, Arizona? Check out Pokitrition - Sushi Burritos & Poke for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Pokitrition - Sushi Burritos & Poke serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6dIkMCQHK4cRnflUfffQE18
 photos:
   - name: >-

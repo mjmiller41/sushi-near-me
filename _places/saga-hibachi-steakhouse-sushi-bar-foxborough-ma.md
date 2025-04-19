@@ -9,7 +9,7 @@ seo:
   name: "Saga Hibachi Steakhouse & Sushi Bar"
   type: Restaurant
   links: https://sagahibachisteakhousema.com/
-description: "Modern place with a neon-lit bar for hibachi dishes, creative sushi rolls & other Japanese classics. Looking for sushi in Foxborough, Massachusetts? Check ou..."
+description: "Modern place with a neon-lit bar for hibachi dishes, creative sushi rolls & other Japanese classics. Saga Hibachi Steakhouse & Sushi Bar serves delicious sushi in Foxborough, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDfk4c7Z85IkRq0Qna_XRn6g
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "FreshFin | Madison Downtown"
   type: Restaurant
   links: null
-description: "Looking for sushi in Madison, Wisconsin? Check out FreshFin | Madison Downtown for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "FreshFin | Madison Downtown serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ0Izf8tTBogRBAgMRjOddP8
 photos:
   - name: >-

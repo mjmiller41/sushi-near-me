@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi And Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Orlando, Florida? Check out Tokyo Sushi And Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Tokyo Sushi And Grill serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhe3zmmmA3YgRz6SBii1DZxs
 photos:
   - name: >-

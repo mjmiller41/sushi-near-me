@@ -9,7 +9,7 @@ seo:
   name: "Ahi Asian Bistro"
   type: Restaurant
   links: http://www.ahiasianbistro.com/
-description: "Looking for sushi in Tampa, Florida? Check out Ahi Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Ahi Asian Bistro serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJyeFTA8DBwogRpNbNsMFWuFE
 photos:
   - name: >-

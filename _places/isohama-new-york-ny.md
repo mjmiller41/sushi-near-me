@@ -9,7 +9,7 @@ seo:
   name: "Isohama"
   type: Restaurant
   links: http://www.isohama.com/
-description: "Tranquil find with dark-wood decor offering a sushi selection plus cooked Japanese dishes. Looking for sushi in New York, New York? Check out Isohama for a d..."
+description: "Tranquil find with dark-wood decor offering a sushi selection plus cooked Japanese dishes. Isohama serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0xo0S6RYwokR3Bf7nu0vPFs
 photos:
   - name: >-

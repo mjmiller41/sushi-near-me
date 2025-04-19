@@ -9,7 +9,7 @@ seo:
   name: "Soho Japanese Bistro"
   type: Restaurant
   links: http://www.sohojapanesegranger.com/
-description: "Looking for sushi in Granger, Indiana? Check out Soho Japanese Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Soho Japanese Bistro serves delicious sushi in Granger, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJVxXLKBTTFogR8xdPIVEkQuM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "MASA sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Branchburg, New Jersey? Check out MASA sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "MASA sushi serves delicious sushi in Branchburg, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYyDBymSTw4kRQxol2MBrABY
 photos:
   - name: >-

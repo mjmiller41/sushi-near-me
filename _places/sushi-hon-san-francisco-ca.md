@@ -9,7 +9,7 @@ seo:
   name: "Sushi Hon"
   type: Restaurant
   links: https://www.sushihon-sf.com/
-description: "Elevated bistro serving sushi, à la carte Japanese classics & an omakase menu in modern environs. Looking for sushi in San Francisco, California? Check out S..."
+description: "Elevated bistro serving sushi, à la carte Japanese classics & an omakase menu in modern environs. Sushi Hon serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJE2a89jd-j4ARog5W0hCaIss
 photos:
   - name: >-

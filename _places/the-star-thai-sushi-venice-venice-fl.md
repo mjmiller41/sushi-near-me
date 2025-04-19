@@ -9,7 +9,7 @@ seo:
   name: "The Star Thai & Sushi Venice"
   type: Restaurant
   links: null
-description: "Looking for sushi in Venice, Florida? Check out The Star Thai & Sushi Venice for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "The Star Thai & Sushi Venice serves delicious sushi in Venice, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5WzPaalbw4gRJzVCdkZm9I4
 photos:
   - name: >-

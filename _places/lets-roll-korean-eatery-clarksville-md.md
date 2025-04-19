@@ -9,7 +9,7 @@ seo:
   name: "Lets Roll Korean Eatery"
   type: Restaurant
   links: https://www.letsrollmrld.com/
-description: "Looking for sushi in Clarksville, Maryland? Check out Lets Roll Korean Eatery for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Lets Roll Korean Eatery serves delicious sushi in Clarksville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsdzuhjfZt4kRLXv5DFKUx4I
 photos:
   - name: >-

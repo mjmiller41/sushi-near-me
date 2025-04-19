@@ -9,7 +9,7 @@ seo:
   name: "Nida's Sushi"
   type: Restaurant
   links: https://www.nidasushinorthmarket.com/
-description: "Southeast Asian fare & cocktails offered in a colorful, contemporary setting with a sushi bar. Looking for sushi in Columbus, Ohio? Check out Nida's Sushi fo..."
+description: "Southeast Asian fare & cocktails offered in a colorful, contemporary setting with a sushi bar. Nida's Sushi serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt3XuLiaPOIgRINqETmIaGL0
 photos:
   - name: >-

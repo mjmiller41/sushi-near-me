@@ -9,7 +9,7 @@ seo:
   name: "Tenno Sushi"
   type: Restaurant
   links: http://www.tennosushi.com/
-description: "Looking for sushi in Los Angeles, California? Check out Tenno Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Tenno Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmRcbbTjGwoARNiMWogDPMc8
 photos:
   - name: >-

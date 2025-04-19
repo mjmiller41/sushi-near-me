@@ -9,7 +9,7 @@ seo:
   name: "MIKA SUSHI"
   type: Restaurant
   links: https://mikasushi.menu11.com/
-description: "Looking for sushi in Carmel Valley, California? Check out MIKA SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "MIKA SUSHI serves delicious sushi in Carmel Valley, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJR4okikzzjYARvBgTwV3-5Fc
 photos:
   - name: >-

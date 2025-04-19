@@ -9,7 +9,7 @@ seo:
   name: "KANZI | Sushi & Hibachi Restaurant"
   type: Restaurant
   links: https://kanzisushiandhibachi.com/
-description: "Looking for sushi in Lewisville, Texas? Check out KANZI | Sushi & Hibachi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "KANZI | Sushi & Hibachi Restaurant serves delicious sushi in Lewisville, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5TAZmxIlTIYRJME_57l5vyg
 photos:
   - name: >-

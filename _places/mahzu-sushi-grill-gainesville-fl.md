@@ -9,7 +9,7 @@ seo:
   name: "Mahzu Sushi & Grill"
   type: Restaurant
   links: https://mahzusushi.com/
-description: "Relaxed, modern outpost for Japanese grilled fare, sushi, creative rolls & sake bombs. Looking for sushi in Gainesville, Florida? Check out Mahzu Sushi & Gri..."
+description: "Relaxed, modern outpost for Japanese grilled fare, sushi, creative rolls & sake bombs. Mahzu Sushi & Grill serves delicious sushi in Gainesville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQ7mHV9ui6IgRhfIJHwKCyaY
 photos:
   - name: >-

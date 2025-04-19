@@ -9,7 +9,7 @@ seo:
   name: "Shintaro Sushi and Japanese Restaurant"
   type: Restaurant
   links: http://www.shintarosushi.com/
-description: "Looking for sushi in Los Angeles, California? Check out Shintaro Sushi and Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety o..."
+description: "Shintaro Sushi and Japanese Restaurant serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSaTnhSK_woARtahbUktUF1o
 photos:
   - name: >-

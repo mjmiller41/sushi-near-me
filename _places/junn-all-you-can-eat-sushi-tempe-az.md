@@ -9,7 +9,7 @@ seo:
   name: "Junn All You Can Eat Sushi"
   type: Restaurant
   links: https://www.junnsushi.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb
-description: "Looking for sushi in Tempe, Arizona? Check out Junn All You Can Eat Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Junn All You Can Eat Sushi serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJR8SfOekJK4cRx7JfG8l8gno
 photos:
   - name: >-

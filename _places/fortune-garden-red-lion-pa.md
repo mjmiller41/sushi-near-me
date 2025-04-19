@@ -9,7 +9,7 @@ seo:
   name: "Fortune Garden"
   type: Restaurant
   links: null
-description: "Looking for sushi in Red Lion, Pennsylvania? Check out Fortune Garden for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Fortune Garden serves delicious sushi in Red Lion, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqUIMWrWHyIkRDi1Jnwj6lgk
 photos:
   - name: >-

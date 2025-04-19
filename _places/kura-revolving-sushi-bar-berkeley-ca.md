@@ -9,7 +9,7 @@ seo:
   name: "Kura Revolving Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Berkeley, California? Check out Kura Revolving Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Kura Revolving Sushi Bar serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPX9pZyx_hYARTlOgUIKyE8U
 photos:
   - name: >-

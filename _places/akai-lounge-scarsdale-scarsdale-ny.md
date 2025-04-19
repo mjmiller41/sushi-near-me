@@ -9,7 +9,7 @@ seo:
   name: "Akai Lounge - Scarsdale"
   type: Restaurant
   links: null
-description: "Looking for sushi in Scarsdale, New York? Check out Akai Lounge - Scarsdale for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Akai Lounge - Scarsdale serves delicious sushi in Scarsdale, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGayI8h2TwokRmJVnK0ic1RE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi and Grill at Normandy"
   type: Restaurant
   links: http://www.tokyojacksonville.com/
-description: "Strip-mall sushi house offers hibachi-style meals, classic Japanese dishes & rolls amid Asian decor. Looking for sushi in Jacksonville, Florida? Check out To..."
+description: "Strip-mall sushi house offers hibachi-style meals, classic Japanese dishes & rolls amid Asian decor. Tokyo Sushi and Grill at Normandy serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVZB4kMu45YgRqEolNQGg9MI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tsunami sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fairfield, California? Check out Tsunami sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Tsunami sushi serves delicious sushi in Fairfield, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiSHGc0MXhYARUZBgpfTa4tA
 photos:
   - name: >-

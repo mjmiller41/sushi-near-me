@@ -9,7 +9,7 @@ seo:
   name: "Super Fusion Brookline"
   type: Restaurant
   links: http://www.superfusionbrookline.com/
-description: "Looking for sushi in Brookline, Massachusetts? Check out Super Fusion Brookline for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Super Fusion Brookline serves delicious sushi in Brookline, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYe2gXbB544kR7TGExpF5l6I
 photos:
   - name: >-

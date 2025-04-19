@@ -9,7 +9,7 @@ seo:
   name: "Heart Rock Sushi and thai"
   type: Restaurant
   links: https://www.heartrocksushithai.com/
-description: "Cozy Asian eatery with modern decor & a lounge feel serving rolls, tempura, noodle & Thai dishes. Looking for sushi in Fort Lauderdale, Florida? Check out He..."
+description: "Cozy Asian eatery with modern decor & a lounge feel serving rolls, tempura, noodle & Thai dishes. Heart Rock Sushi and thai serves delicious sushi in Fort Lauderdale, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJuffLEMgB2YgRetQnYBMsw60
 photos:
   - name: >-

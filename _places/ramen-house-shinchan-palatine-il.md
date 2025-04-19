@@ -9,7 +9,7 @@ seo:
   name: "Ramen House Shinchan"
   type: Restaurant
   links: null
-description: "Looking for sushi in Palatine, Illinois? Check out Ramen House Shinchan for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Ramen House Shinchan serves delicious sushi in Palatine, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcbUNFw-lD4gRP_SmomQnqHs
 photos:
   - name: >-

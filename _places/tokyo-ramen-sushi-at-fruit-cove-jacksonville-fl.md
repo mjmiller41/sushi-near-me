@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Ramen & Sushi At Fruit Cove"
   type: Restaurant
   links: https://tokyoramenburrito1.com/
-description: "Looking for sushi in Jacksonville, Florida? Check out Tokyo Ramen & Sushi At Fruit Cove for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Tokyo Ramen & Sushi At Fruit Cove serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJxy8Cyl_O5YgR0-Dz-m3z91U
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Station Sushi"
   type: Restaurant
   links: https://www.stationsushi.com/
-description: "Sports bar serving up Japanese fare amid a flurry of festive events & plenty of TVs. Looking for sushi in Solana Beach, California? Check out Station Sushi f..."
+description: "Sports bar serving up Japanese fare amid a flurry of festive events & plenty of TVs. Station Sushi serves delicious sushi in Solana Beach, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZfE6wM0O3IARcWH6bYpLaTE
 photos:
   - name: >-

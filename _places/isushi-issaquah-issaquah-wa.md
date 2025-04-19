@@ -9,7 +9,7 @@ seo:
   name: "iSushi Issaquah"
   type: Restaurant
   links: null
-description: "Looking for sushi in Issaquah, Washington? Check out iSushi Issaquah for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "iSushi Issaquah serves delicious sushi in Issaquah, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBR-BWaBvkFQRMOchSjA5fms
 photos:
   - name: >-

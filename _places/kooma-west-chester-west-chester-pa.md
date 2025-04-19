@@ -9,7 +9,7 @@ seo:
   name: "Kooma West Chester"
   type: Restaurant
   links: http://www.koomafusion.com/
-description: "Looking for sushi in West Chester, Pennsylvania? Check out Kooma West Chester for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Kooma West Chester serves delicious sushi in West Chester, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEeT7P0bxxokROiadR8LG_ys
 photos:
   - name: >-

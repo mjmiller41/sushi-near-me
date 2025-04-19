@@ -9,7 +9,7 @@ seo:
   name: "Sushi Republic"
   type: Restaurant
   links: https://www.sushirepublicny.com/
-description: "Low-key restaurant serving up typical sushi & sashimi options, plus Chinese & Japanese dishes. Looking for sushi in New Hyde Park, New York? Check out Sushi ..."
+description: "Low-key restaurant serving up typical sushi & sashimi options, plus Chinese & Japanese dishes. Sushi Republic serves delicious sushi in New Hyde Park, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0RvLAQSIwokRhHs6DZJr7wI
 photos:
   - name: >-

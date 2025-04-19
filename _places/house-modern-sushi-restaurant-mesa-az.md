@@ -9,7 +9,7 @@ seo:
   name: "HOUSE - Modern Sushi Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mesa, Arizona? Check out HOUSE - Modern Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "HOUSE - Modern Sushi Restaurant serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn2Jsh_OoK4cRmK-SPum9GY8
 photos:
   - name: >-

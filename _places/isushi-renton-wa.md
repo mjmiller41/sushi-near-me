@@ -9,7 +9,7 @@ seo:
   name: "iSushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Renton, Washington? Check out iSushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "iSushi serves delicious sushi in Renton, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4xY0AaNnkFQR76TTOxuMPD8
 photos:
   - name: >-

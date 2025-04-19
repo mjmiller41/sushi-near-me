@@ -9,7 +9,7 @@ seo:
   name: "Sushi Go 55"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Sushi Go 55 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi Go 55 serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyy_0pjnGwoAR9O-lN9DuOJc
 photos:
   - name: >-

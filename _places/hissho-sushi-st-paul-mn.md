@@ -9,7 +9,7 @@ seo:
   name: "Hissho Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in St Paul, Minnesota? Check out Hissho Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Hissho Sushi serves delicious sushi in St Paul, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJazbnaiwp9ocRScEUUuXkQB4
 photos:
   - name: >-

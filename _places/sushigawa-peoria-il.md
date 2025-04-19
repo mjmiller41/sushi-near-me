@@ -9,7 +9,7 @@ seo:
   name: "Sushigawa"
   type: Restaurant
   links: https://order.mealkeyway.com/merchant/5264324853707a6a6d697a3479317851774158746d513d3d/main
-description: "Looking for sushi in Peoria, Illinois? Check out Sushigawa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Sushigawa serves delicious sushi in Peoria, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ74zotNldCogRX39nxz7Yc2A
 photos:
   - name: >-

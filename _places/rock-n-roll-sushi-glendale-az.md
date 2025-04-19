@@ -9,7 +9,7 @@ seo:
   name: "Rock N Roll Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Glendale, Arizona? Check out Rock N Roll Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Rock N Roll Sushi serves delicious sushi in Glendale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNYZP5NdBK4cRieU4wpHkW1E
 photos:
   - name: >-

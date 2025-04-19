@@ -9,7 +9,7 @@ seo:
   name: "Kuma Sushi Noodles & Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Charlottesville, Virginia? Check out Kuma Sushi Noodles & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Kuma Sushi Noodles & Bar serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJP5mmZUiGs4kR-Ui1EX2jWyI
 photos:
   - name: >-

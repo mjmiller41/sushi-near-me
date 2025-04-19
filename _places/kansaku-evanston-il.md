@@ -9,7 +9,7 @@ seo:
   name: "KANSAKU"
   type: Restaurant
   links: http://www.kansakusushi.com/
-description: "Market-fresh sushi, noodles & Japanese standards prepared in a contemporary, intimate space. Looking for sushi in Evanston, Illinois? Check out KANSAKU for a..."
+description: "Market-fresh sushi, noodles & Japanese standards prepared in a contemporary, intimate space. KANSAKU serves delicious sushi in Evanston, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQUft9g3QD4gR9cK3YiR4HLo
 photos:
   - name: >-

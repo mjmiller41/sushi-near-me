@@ -9,7 +9,7 @@ seo:
   name: "Soho Sushi and Teppanyaki"
   type: Restaurant
   links: http://sohoteppanyaki.com/
-description: "Looking for sushi in Roseville, California? Check out Soho Sushi and Teppanyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Soho Sushi and Teppanyaki serves delicious sushi in Roseville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyf7Tp_Ufm4AR-vA_WEqPqQM
 photos:
   - name: >-

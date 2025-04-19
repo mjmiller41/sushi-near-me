@@ -9,7 +9,7 @@ seo:
   name: "Sushi-2-Go University"
   type: Restaurant
   links: http://www.sushi2go.com/
-description: "Casual restaurant serving sushi rolls, dumplings & egg rolls for dine-in, takeout or delivery. Looking for sushi in Gainesville, Florida? Check out Sushi-2-G..."
+description: "Casual restaurant serving sushi rolls, dumplings & egg rolls for dine-in, takeout or delivery. Sushi-2-Go University serves delicious sushi in Gainesville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ41ggbI-j6IgRz-2fxT-tEMM
 photos:
   - name: >-

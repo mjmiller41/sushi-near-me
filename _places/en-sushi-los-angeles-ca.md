@@ -9,7 +9,7 @@ seo:
   name: "En Sushi"
   type: Restaurant
   links: http://ensushisantamonica.com/
-description: "Looking for sushi in Los Angeles, California? Check out En Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "En Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlb5tDG-7woARIuoQ-utARi8
 photos:
   - name: >-

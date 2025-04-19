@@ -9,7 +9,7 @@ seo:
   name: "Miyako Steakhouse and Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Crescent Springs, Kentucky? Check out Miyako Steakhouse and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Miyako Steakhouse and Sushi serves delicious sushi in Crescent Springs, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB8w9p5e3QYgRvStO5ZzVsq0
 photos:
   - name: >-

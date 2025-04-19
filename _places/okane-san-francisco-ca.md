@@ -9,7 +9,7 @@ seo:
   name: "Okane"
   type: Restaurant
   links: http://www.okanesf.com/
-description: "Cafe for refined Japanese comfort food with shareable dishes, handmade rolls & other Asian staples. Looking for sushi in San Francisco, California? Check out..."
+description: "Cafe for refined Japanese comfort food with shareable dishes, handmade rolls & other Asian staples. Okane serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjaWT5yx-j4AR0S6cwdgnD4Q
 photos:
   - name: >-

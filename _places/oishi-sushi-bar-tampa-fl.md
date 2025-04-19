@@ -9,7 +9,7 @@ seo:
   name: "Oishi Sushi Bar"
   type: Restaurant
   links: https://www.oishisushithaioldsmar.com/
-description: "Straightforward setting for Thai classics & sushi with lunch specials, beer, wine & happy hour. Looking for sushi in Tampa, Florida? Check out Oishi Sushi Ba..."
+description: "Straightforward setting for Thai classics & sushi with lunch specials, beer, wine & happy hour. Oishi Sushi Bar serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJU7UdBkXswogRIXTTR4OQKf4
 photos:
   - name: >-

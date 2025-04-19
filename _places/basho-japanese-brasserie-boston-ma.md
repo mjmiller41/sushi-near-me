@@ -9,7 +9,7 @@ seo:
   name: "Basho Japanese Brasserie"
   type: Restaurant
   links: https://bashosushi.com/
-description: "Looking for sushi in Boston, Massachusetts? Check out Basho Japanese Brasserie for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Basho Japanese Brasserie serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGd-A_PV544kRrzXzAHiOHsA
 photos:
   - name: >-

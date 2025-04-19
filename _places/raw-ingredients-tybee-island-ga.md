@@ -9,7 +9,7 @@ seo:
   name: "Raw Ingredients"
   type: Restaurant
   links: http://rawtybee.com/
-description: "Hip sushi restaurant with a graffitied blackboard making sashimi, nigiri & custom-made rolls. Looking for sushi in Tybee Island, Georgia? Check out Raw Ingre..."
+description: "Hip sushi restaurant with a graffitied blackboard making sashimi, nigiri & custom-made rolls. Raw Ingredients serves delicious sushi in Tybee Island, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJqYFH4qV_-4gR__CS_4cmTbk
 photos:
   - name: >-

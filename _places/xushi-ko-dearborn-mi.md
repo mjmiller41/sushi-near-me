@@ -9,7 +9,7 @@ seo:
   name: "Xushi Ko"
   type: Restaurant
   links: http://xushi-ko.com/
-description: "Looking for sushi in Dearborn, Michigan? Check out Xushi Ko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Xushi Ko serves delicious sushi in Dearborn, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn0S82-A0O4gRKqTmrb-cz94
 photos:
   - name: >-

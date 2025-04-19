@@ -9,7 +9,7 @@ seo:
   name: "Kansai Japanese Steakhouse"
   type: Restaurant
   links: null
-description: "Looking for sushi in Elizabethtown, Kentucky? Check out Kansai Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Kansai Japanese Steakhouse serves delicious sushi in Elizabethtown, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqUWRkJLoaIgR2z67n3rsaMU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Blōōfin Spring"
   type: Restaurant
   links: https://bloofinsushi.com/
-description: "Looking for sushi in Spring, Texas? Check out Blōōfin Spring for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Blōōfin Spring serves delicious sushi in Spring, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiW0v7f8yR4YRAo6_a6GPtBc
 photos:
   - name: >-

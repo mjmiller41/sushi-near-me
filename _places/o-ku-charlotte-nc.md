@@ -9,7 +9,7 @@ seo:
   name: "O-Ku"
   type: Restaurant
   links: https://www.o-kusushi.com/location/o-ku-charlotte/?y_source=1_ODE4NDQwNjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "A chic option for sushi & unique Japanese dishes, plus sake, beer & cocktails. Looking for sushi in Charlotte, North Carolina? Check out O-Ku for a delightfu..."
+description: "A chic option for sushi & unique Japanese dishes, plus sake, beer & cocktails. O-Ku serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJaaSMp3CfVogRpYMMsxTAWhQ
 photos:
   - name: >-

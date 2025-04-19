@@ -9,7 +9,7 @@ seo:
   name: "Sakura Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Newburgh, Indiana? Check out Sakura Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Sakura Japanese Restaurant serves delicious sushi in Newburgh, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDe4G4EYtbogRxru4HGXHmCE
 photos:
   - name: >-

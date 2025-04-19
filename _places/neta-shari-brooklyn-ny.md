@@ -9,7 +9,7 @@ seo:
   name: "Neta Shari"
   type: Restaurant
   links: http://www.netashari.nyc/
-description: "Looking for sushi in Brooklyn, New York? Check out Neta Shari for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Neta Shari serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7VOxKVBFwokRO4Zf1ESGNAE
 photos:
   - name: >-

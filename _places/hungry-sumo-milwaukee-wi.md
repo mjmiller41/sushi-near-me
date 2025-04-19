@@ -9,7 +9,7 @@ seo:
   name: "Hungry Sumo"
   type: Restaurant
   links: http://www.hungrysumosushibar.com/
-description: "Traditional & creative sushi, Japanese & Thai small plates, rice bowls & ramen in a modern space. Looking for sushi in Milwaukee, Wisconsin? Check out Hungry..."
+description: "Traditional & creative sushi, Japanese & Thai small plates, rice bowls & ramen in a modern space. Hungry Sumo serves delicious sushi in Milwaukee, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ-1Njv34XBYgRmYuSaobePGA
 photos:
   - name: >-

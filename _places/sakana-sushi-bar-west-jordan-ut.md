@@ -9,7 +9,7 @@ seo:
   name: "Sakana Sushi Bar"
   type: Restaurant
   links: https://sakanasushibar.com/
-description: "Looking for sushi in West Jordan, Utah? Check out Sakana Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sakana Sushi Bar serves delicious sushi in West Jordan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8xaiIumOUocRfLMbXRYjSzw
 photos:
   - name: >-

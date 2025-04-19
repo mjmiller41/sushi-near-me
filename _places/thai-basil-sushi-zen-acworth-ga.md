@@ -9,7 +9,7 @@ seo:
   name: "Thai Basil & Sushi Zen"
   type: Restaurant
   links: http://www.thaibasilsushizenacworth.com/
-description: "Looking for sushi in Acworth, Georgia? Check out Thai Basil & Sushi Zen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Thai Basil & Sushi Zen serves delicious sushi in Acworth, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD3nZdlc_9YgRCeqU5b2Bh4c
 photos:
   - name: >-

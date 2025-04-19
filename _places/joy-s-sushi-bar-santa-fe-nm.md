@@ -9,7 +9,7 @@ seo:
   name: "Joy's Sushi Bar"
   type: Restaurant
   links: https://www.joyssushibarnm.com/
-description: "Looking for sushi in Santa Fe, New Mexico? Check out Joy's Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Joy's Sushi Bar serves delicious sushi in Santa Fe, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG24cYwBbGIcRrEXq23eWAw0
 photos:
   - name: >-

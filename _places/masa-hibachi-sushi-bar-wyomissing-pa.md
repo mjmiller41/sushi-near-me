@@ -9,7 +9,7 @@ seo:
   name: "Masa Hibachi Sushi & Bar"
   type: Restaurant
   links: http://www.masahibachiwyomissing.com/
-description: "Looking for sushi in Wyomissing, Pennsylvania? Check out Masa Hibachi Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Masa Hibachi Sushi & Bar serves delicious sushi in Wyomissing, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJc_xB8aR2xokR9Q2Wa7En5ys
 photos:
   - name: >-

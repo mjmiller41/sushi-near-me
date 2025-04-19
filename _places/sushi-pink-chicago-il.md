@@ -9,7 +9,7 @@ seo:
   name: "Sushi Pink"
   type: Restaurant
   links: https://www.sushipink.com/
-description: "Compact Japanese restaurant & sushi bar serving creative rolls & cocktails in a modern setting. Looking for sushi in Chicago, Illinois? Check out Sushi Pink ..."
+description: "Compact Japanese restaurant & sushi bar serving creative rolls & cocktails in a modern setting. Sushi Pink serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsTAsA9ssDogRpQcLXLHRJjk
 photos:
   - name: >-

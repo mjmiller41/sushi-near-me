@@ -9,7 +9,7 @@ seo:
   name: "Wow Sushi"
   type: Restaurant
   links: https://wowsushitogo.com/
-description: "Low-key eatery prepping sushi, rolls & other Japanese dishes plus lunch specials. Looking for sushi in Troy, Michigan? Check out Wow Sushi for a delightful J..."
+description: "Low-key eatery prepping sushi, rolls & other Japanese dishes plus lunch specials. Wow Sushi serves delicious sushi in Troy, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZX-qaHvEJIgRKckziM6t_vc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Love, Makoto"
   type: Restaurant
   links: https://www.lovemakoto.com/
-description: "Looking for sushi in Washington, District of Columbia? Check out Love, Makoto for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Love, Makoto serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUfkA14u3t4kR7KK4ltOvsbA
 photos:
   - name: >-

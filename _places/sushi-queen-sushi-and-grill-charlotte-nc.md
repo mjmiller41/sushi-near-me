@@ -9,7 +9,7 @@ seo:
   name: "Sushi Queen Sushi and Grill"
   type: Restaurant
   links: http://sushiqueengrill.weebly.com/
-description: "Looking for sushi in Charlotte, North Carolina? Check out Sushi Queen Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Sushi Queen Sushi and Grill serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ8yzvPu4PVIgR2UduuT0seg8
 photos:
   - name: >-

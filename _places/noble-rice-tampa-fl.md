@@ -9,7 +9,7 @@ seo:
   name: "Noble Rice"
   type: Restaurant
   links: http://www.noblericeco.com/
-description: "Looking for sushi in Tampa, Florida? Check out Noble Rice for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Noble Rice serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJu6oEyYTEwogRAE4Dg9Q-AH4
 photos:
   - name: >-

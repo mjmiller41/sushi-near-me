@@ -9,7 +9,7 @@ seo:
   name: "Ryo Sushi"
   type: Restaurant
   links: http://ryosushi.com/
-description: "Contemporary spot offering sushi & Japanese kitchen entrees, plus open-air views of sidewalk tables. Looking for sushi in Chicago, Illinois? Check out Ryo Su..."
+description: "Contemporary spot offering sushi & Japanese kitchen entrees, plus open-air views of sidewalk tables. Ryo Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0WOwWqQsDogR15rEDd2YmmM
 photos:
   - name: >-

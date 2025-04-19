@@ -9,7 +9,7 @@ seo:
   name: "Ginger Wasabi Sushi + Grill"
   type: Restaurant
   links: http://ilovegingerwasabi.com/
-description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Looking for sushi in Lexington, Kentucky? Check out Ginger Wasabi Su..."
+description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Ginger Wasabi Sushi + Grill serves delicious sushi in Lexington, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJneLLQAFFQogRxNTawIsIMxY
 photos:
   - name: >-

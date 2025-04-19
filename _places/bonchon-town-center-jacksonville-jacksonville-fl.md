@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Town Center Jacksonville"
   type: Restaurant
   links: null
-description: "Looking for sushi in Jacksonville, Florida? Check out Bonchon Town Center Jacksonville for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Bonchon Town Center Jacksonville serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIzFiqmC15YgRyLVUdcCH-zY
 photos:
   - name: >-

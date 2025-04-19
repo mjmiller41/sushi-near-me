@@ -9,7 +9,7 @@ seo:
   name: "IchiUmi Sushi (Haru Sushi)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Austin, Texas? Check out IchiUmi Sushi (Haru Sushi) for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "IchiUmi Sushi (Haru Sushi) serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbQlC9qXLRIYRbjTIRrVzBYo
 photos:
   - name: >-

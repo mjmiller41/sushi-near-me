@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ogawa 鮨小川"
   type: Restaurant
   links: http://www.sushiogawadc.com/
-description: "Looking for sushi in Washington, District of Columbia? Check out Sushi Ogawa 鮨小川 for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Sushi Ogawa 鮨小川 serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX9DqKtC3t4kRrSd1aFosigo
 photos:
   - name: >-

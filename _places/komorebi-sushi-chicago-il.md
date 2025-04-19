@@ -9,7 +9,7 @@ seo:
   name: "Komorebi Sushi"
   type: Restaurant
   links: http://www.komorebisushi.com/
-description: "Japanese restaurant with elegantly plated sushi, rolls & cooked fare in a rustic-chic storefront. Looking for sushi in Chicago, Illinois? Check out Komorebi ..."
+description: "Japanese restaurant with elegantly plated sushi, rolls & cooked fare in a rustic-chic storefront. Komorebi Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJI3g0gs_SD4gRdpbA9ygL_K4
 photos:
   - name: >-

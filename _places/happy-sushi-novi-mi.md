@@ -9,7 +9,7 @@ seo:
   name: "Happy Sushi"
   type: Restaurant
   links: https://www.happysushinovi.com/
-description: "Cozy, unassuming sushi house offering a variety of maki, sashimi & nigiri, plus lunch specials. Looking for sushi in Novi, Michigan? Check out Happy Sushi fo..."
+description: "Cozy, unassuming sushi house offering a variety of maki, sashimi & nigiri, plus lunch specials. Happy Sushi serves delicious sushi in Novi, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUXZpAVyuJIgRkLJtPijE7Lc
 photos:
   - name: >-

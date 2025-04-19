@@ -9,7 +9,7 @@ seo:
   name: "Floating Sushi Boat"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Floating Sushi Boat for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Floating Sushi Boat serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMQgObouAhYARG_ROpgr3NNg
 photos:
   - name: >-

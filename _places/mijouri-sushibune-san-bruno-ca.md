@@ -9,7 +9,7 @@ seo:
   name: "Mijouri SushiBune"
   type: Restaurant
   links: http://www.mijourisushibune1230b.com/
-description: "Sushi rolls, classic Japanese fare & sake are dispensed in an unassuming strip-mall setting. Looking for sushi in San Bruno, California? Check out Mijouri Su..."
+description: "Sushi rolls, classic Japanese fare & sake are dispensed in an unassuming strip-mall setting. Mijouri SushiBune serves delicious sushi in San Bruno, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJk7Cgmb95j4ARLgQRsr2ljuY
 photos:
   - name: >-

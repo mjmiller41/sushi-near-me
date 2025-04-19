@@ -9,7 +9,7 @@ seo:
   name: "Lalla Grill Del Monte"
   type: Restaurant
   links: null
-description: "Looking for sushi in Monterey, California? Check out Lalla Grill Del Monte for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Lalla Grill Del Monte serves delicious sushi in Monterey, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh1XT7CzkjYAR3pWOcFHrjp4
 photos:
   - name: >-

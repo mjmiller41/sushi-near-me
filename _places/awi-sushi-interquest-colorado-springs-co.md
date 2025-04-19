@@ -9,7 +9,7 @@ seo:
   name: "Awi Sushi (Interquest)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Colorado Springs, Colorado? Check out Awi Sushi (Interquest) for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Awi Sushi (Interquest) serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-XziDmFNE4cRR7HcJtIdSTY
 photos:
   - name: >-

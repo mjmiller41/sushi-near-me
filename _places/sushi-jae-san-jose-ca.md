@@ -9,7 +9,7 @@ seo:
   name: "Sushi Jae"
   type: Restaurant
   links: http://www.sushijae.com/
-description: "Looking for sushi in San Jose, California? Check out Sushi Jae for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Jae serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVai8uvYzjoAR9AxAkSUOt7M
 photos:
   - name: >-

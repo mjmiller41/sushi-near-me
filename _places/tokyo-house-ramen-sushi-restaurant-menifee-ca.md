@@ -9,7 +9,7 @@ seo:
   name: "Tokyo House Ramen & Sushi Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Menifee, California? Check out Tokyo House Ramen & Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "Tokyo House Ramen & Sushi Restaurant serves delicious sushi in Menifee, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl0gjf_Sd3IARzkfuPPpoPTc
 photos:
   - name: >-

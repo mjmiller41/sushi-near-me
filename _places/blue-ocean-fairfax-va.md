@@ -9,7 +9,7 @@ seo:
   name: "Blue Ocean"
   type: Restaurant
   links: https://www.blueoceanizakaya.com/
-description: "Long-running eatery in a modest strip-mall space offering sushi, bento boxes & Japanese entrees. Looking for sushi in Fairfax, Virginia? Check out Blue Ocean..."
+description: "Long-running eatery in a modest strip-mall space offering sushi, bento boxes & Japanese entrees. Blue Ocean serves delicious sushi in Fairfax, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJAWTXzDtMtokRp2bG-hOGcRw
 photos:
   - name: >-

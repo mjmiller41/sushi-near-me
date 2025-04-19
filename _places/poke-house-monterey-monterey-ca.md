@@ -9,7 +9,7 @@ seo:
   name: "Poke House - Monterey"
   type: Restaurant
   links: null
-description: "Looking for sushi in Monterey, California? Check out Poke House - Monterey for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Poke House - Monterey serves delicious sushi in Monterey, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk6UKdALljYAROTK4TgTu9Vg
 photos:
   - name: >-

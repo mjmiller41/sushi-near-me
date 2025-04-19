@@ -9,7 +9,7 @@ seo:
   name: "Ronin Sushi And Bar"
   type: Restaurant
   links: https://www.roninsushibarac.com/
-description: "Looking for sushi in Alexander City, Alabama? Check out Ronin Sushi And Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Ronin Sushi And Bar serves delicious sushi in Alexander City, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2UX6rAwNjIgRozqWpJmBx2Y
 photos:
   - name: >-

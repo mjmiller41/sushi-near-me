@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Tempe - ASU"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tempe, Arizona? Check out Bonchon Tempe - ASU for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Bonchon Tempe - ASU serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiejfhhIJK4cRPMyrPWTkgVw
 photos:
   - name: >-

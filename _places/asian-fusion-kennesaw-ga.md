@@ -9,7 +9,7 @@ seo:
   name: "Asian Fusion"
   type: Restaurant
   links: http://asianfusionatl.com/
-description: "Looking for sushi in Kennesaw, Georgia? Check out Asian Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Asian Fusion serves delicious sushi in Kennesaw, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm3Xw33gV9YgRyeZj-CWIILo
 photos:
   - name: >-

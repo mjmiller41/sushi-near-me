@@ -9,7 +9,7 @@ seo:
   name: "Maki of Japan Teriyaki Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Buford, Georgia? Check out Maki of Japan Teriyaki Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Maki of Japan Teriyaki Grill serves delicious sushi in Buford, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJubqje5mV9YgRk7rsAjlaIIQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tenzan"
   type: Restaurant
   links: null
-description: "Neighborhood Japanese restaurant offers sushi, sashimi & traditional cooked fare for lunch & dinner. Looking for sushi in New York, New York? Check out Tenza..."
+description: "Neighborhood Japanese restaurant offers sushi, sashimi & traditional cooked fare for lunch & dinner. Tenzan serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsSw70bpYwokR8of7Ji2tqiU
 photos:
   - name: >-

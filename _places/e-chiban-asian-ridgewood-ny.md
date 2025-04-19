@@ -9,7 +9,7 @@ seo:
   name: "E-Chiban Asian"
   type: Restaurant
   links: http://www.e-chibanny.com/
-description: "Casual choice dispensing an eclectic menu of Chinese, Thai & Japanese eats, including sushi. Looking for sushi in Ridgewood, New York? Check out E-Chiban Asi..."
+description: "Casual choice dispensing an eclectic menu of Chinese, Thai & Japanese eats, including sushi. E-Chiban Asian serves delicious sushi in Ridgewood, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJPYNsm4NewokReFWl6Dr7sYU
 photos:
   - name: >-

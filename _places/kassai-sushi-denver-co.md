@@ -9,7 +9,7 @@ seo:
   name: "Kassai Sushi"
   type: Restaurant
   links: http://eatkassaisushi.com/
-description: "Cool sushi house crafting traditional rolls & Japanese entrees in an unassuming locale. Looking for sushi in Denver, Colorado? Check out Kassai Sushi for a d..."
+description: "Cool sushi house crafting traditional rolls & Japanese entrees in an unassuming locale. Kassai Sushi serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJv7sw8Cl9bIcRit-qPNvcT9g
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Goshi Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Paso Robles, California? Check out Goshi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Goshi Japanese Restaurant serves delicious sushi in Paso Robles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcyFtHGrF7IARJx2gh_3WRyM
 photos:
   - name: >-

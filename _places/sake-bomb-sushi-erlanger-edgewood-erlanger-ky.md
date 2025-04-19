@@ -9,7 +9,7 @@ seo:
   name: "Sake Bomb Sushi Erlanger/Edgewood"
   type: Restaurant
   links: null
-description: "Looking for sushi in Erlanger, Kentucky? Check out Sake Bomb Sushi Erlanger/Edgewood for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Sake Bomb Sushi Erlanger/Edgewood serves delicious sushi in Erlanger, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmeg8Gxm4QYgRbgXOeKvBE2Q
 photos:
   - name: >-

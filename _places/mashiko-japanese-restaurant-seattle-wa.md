@@ -9,7 +9,7 @@ seo:
   name: "Mashiko Japanese Restaurant"
   type: Restaurant
   links: http://www.mashikorestaurant.com/
-description: "Looking for sushi in Seattle, Washington? Check out Mashiko Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Mashiko Japanese Restaurant serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKSsQ2ftAkFQR1nDs0cMK9w0
 photos:
   - name: >-

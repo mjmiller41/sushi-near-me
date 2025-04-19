@@ -9,7 +9,7 @@ seo:
   name: "Hy-Vee Market Grille"
   type: Restaurant
   links: null
-description: "Looking for sushi in Shakopee, Minnesota? Check out Hy-Vee Market Grille for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Hy-Vee Market Grille serves delicious sushi in Shakopee, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC-BR-IoQ9ocRM91S1V6i6Uc
 photos:
   - name: >-

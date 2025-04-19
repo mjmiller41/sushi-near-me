@@ -9,7 +9,7 @@ seo:
   name: "Ninja Sushi Mililani"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mililani, Hawaii? Check out Ninja Sushi Mililani for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Ninja Sushi Mililani serves delicious sushi in Mililani, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy59i1g5nAHwRXC4KaUcvhms
 photos:
   - name: >-

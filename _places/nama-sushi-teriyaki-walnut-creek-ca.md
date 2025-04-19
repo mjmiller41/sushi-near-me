@@ -9,7 +9,7 @@ seo:
   name: "Nama Sushi & Teriyaki"
   type: Restaurant
   links: https://order.online/business/nama-sushi--teriyaki-22209
-description: "Looking for sushi in Walnut Creek, California? Check out Nama Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Nama Sushi & Teriyaki serves delicious sushi in Walnut Creek, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN_JkpnJhhYARxs-IHYDx4y8
 photos:
   - name: >-

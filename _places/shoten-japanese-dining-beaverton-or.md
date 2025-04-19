@@ -9,7 +9,7 @@ seo:
   name: "Shoten Japanese Dining"
   type: Restaurant
   links: http://shotensushi.com/
-description: "Looking for sushi in Beaverton, Oregon? Check out Shoten Japanese Dining for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Shoten Japanese Dining serves delicious sushi in Beaverton, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB5YnPSAPlVQRDHWYSpSDpZc
 photos:
   - name: >-

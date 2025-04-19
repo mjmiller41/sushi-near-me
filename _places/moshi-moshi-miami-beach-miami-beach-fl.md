@@ -9,7 +9,7 @@ seo:
   name: "Moshi Moshi Miami Beach"
   type: Restaurant
   links: null
-description: "Looking for sushi in Miami Beach, Florida? Check out Moshi Moshi Miami Beach for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Moshi Moshi Miami Beach serves delicious sushi in Miami Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB4im44-02YgR5BMCzymF7Ks
 photos:
   - name: >-

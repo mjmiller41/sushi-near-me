@@ -9,7 +9,7 @@ seo:
   name: "Top Sushi & Oyster Henderson"
   type: Restaurant
   links: null
-description: "Looking for sushi in Henderson, Nevada? Check out Top Sushi & Oyster Henderson for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Top Sushi & Oyster Henderson serves delicious sushi in Henderson, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-SgdQ4TRyIAR0ltOCmtcBq0
 photos:
   - name: >-

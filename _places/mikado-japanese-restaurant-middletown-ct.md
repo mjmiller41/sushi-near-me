@@ -9,7 +9,7 @@ seo:
   name: "MIKADO JAPANESE RESTAURANT"
   type: Restaurant
   links: null
-description: "Looking for sushi in Middletown, Connecticut? Check out MIKADO JAPANESE RESTAURANT for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "MIKADO JAPANESE RESTAURANT serves delicious sushi in Middletown, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ06U_dHdL5okRAObgip7N4vo
 photos:
   - name: >-

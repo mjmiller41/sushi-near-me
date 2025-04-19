@@ -9,7 +9,7 @@ seo:
   name: "Yamato Sushi"
   type: Restaurant
   links: http://www.yamatosushimd.com/
-description: "This hopping, BYO sushi scene boasts a huge array of signature rolls, plus some Thai offerings. Looking for sushi in Timonium, Maryland? Check out Yamato Sus..."
+description: "This hopping, BYO sushi scene boasts a huge array of signature rolls, plus some Thai offerings. Yamato Sushi serves delicious sushi in Timonium, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJLdPZHxEOyIkRytz7qCGNWuY
 photos:
   - name: >-

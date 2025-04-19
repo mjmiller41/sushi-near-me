@@ -9,7 +9,7 @@ seo:
   name: "Zushi"
   type: Restaurant
   links: http://www.zushibistro.com/
-description: "Chill Japanese eatery & sushi bar featuring eclectic rolls & drinks in lounge-like surrounds. Looking for sushi in Virginia Beach, Virginia? Check out Zushi ..."
+description: "Chill Japanese eatery & sushi bar featuring eclectic rolls & drinks in lounge-like surrounds. Zushi serves delicious sushi in Virginia Beach, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJrVD46p-VuokR-tbg2aGaV2I
 photos:
   - name: >-

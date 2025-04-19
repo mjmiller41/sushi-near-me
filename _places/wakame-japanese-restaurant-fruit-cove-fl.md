@@ -9,7 +9,7 @@ seo:
   name: "Wakame Japanese Restaurant"
   type: Restaurant
   links: http://wakamefl.com/
-description: "Looking for sushi in Fruit Cove, Florida? Check out Wakame Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Wakame Japanese Restaurant serves delicious sushi in Fruit Cove, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI0-en4rO5YgR5I-jiQ0niUE
 photos:
   - name: >-

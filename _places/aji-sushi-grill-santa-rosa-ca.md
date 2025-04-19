@@ -9,7 +9,7 @@ seo:
   name: "Aji Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Santa Rosa, California? Check out Aji Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Aji Sushi & Grill serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ26uyAsRHhIARcr3zWuO8tyU
 photos:
   - name: >-

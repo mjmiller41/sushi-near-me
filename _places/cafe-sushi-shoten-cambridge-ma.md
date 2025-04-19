@@ -9,7 +9,7 @@ seo:
   name: "Cafe Sushi Shoten"
   type: Restaurant
   links: http://www.cafesushicambridge.com/
-description: "Looking for sushi in Cambridge, Massachusetts? Check out Cafe Sushi Shoten for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Cafe Sushi Shoten serves delicious sushi in Cambridge, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDboHOFt344kRRpT1TjLUuTM
 photos:
   - name: >-

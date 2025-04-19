@@ -9,7 +9,7 @@ seo:
   name: "Suishin Sushi"
   type: Restaurant
   links: http://suishin916.com/
-description: "Looking for sushi in Folsom, California? Check out Suishin Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Suishin Sushi serves delicious sushi in Folsom, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk9KgWJnmmoARB3tDHMKYYNA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Honda Sushi and Japanese Dining"
   type: Restaurant
   links: null
-description: "Looking for sushi in Torrance, California? Check out Honda Sushi and Japanese Dining for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Honda Sushi and Japanese Dining serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo6th8AJL3YARzY1x5TLILb4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "SUSHIE!"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Gatos, California? Check out SUSHIE! for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "SUSHIE! serves delicious sushi in Los Gatos, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv03jPGU1joARBWNl1yiCtkU
 photos:
   - name: >-

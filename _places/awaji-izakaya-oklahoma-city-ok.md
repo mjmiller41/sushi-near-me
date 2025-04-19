@@ -9,7 +9,7 @@ seo:
   name: "Awaji Izakaya"
   type: Restaurant
   links: http://www.awaji-izakaya.com/
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Awaji Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Awaji Izakaya serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoYE5CM0DsocRQkDfJAhhWek
 photos:
   - name: >-

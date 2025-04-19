@@ -9,7 +9,7 @@ seo:
   name: "Edohana Hibachi Sushi"
   type: Restaurant
   links: https://edohanafw.site/
-description: "Looking for sushi in Fort Worth, Texas? Check out Edohana Hibachi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Edohana Hibachi Sushi serves delicious sushi in Fort Worth, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK7ONF5xyToYRT-PbzhL0ve4
 photos:
   - name: >-

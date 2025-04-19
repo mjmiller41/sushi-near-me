@@ -9,7 +9,7 @@ seo:
   name: "MARK SUSHI"
   type: Restaurant
   links: https://order.online/business/mark-sushi-13082355
-description: "Looking for sushi in Lakewood, Colorado? Check out MARK SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "MARK SUSHI serves delicious sushi in Lakewood, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn6uSXgCFa4cRTFXq2IcgAgA
 photos:
   - name: >-

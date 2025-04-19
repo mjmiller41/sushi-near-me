@@ -9,7 +9,7 @@ seo:
   name: "Sushi-san"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Sushi-san for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Sushi-san serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx5enN7IsDogRlQ9Sx_28t8Q
 photos:
   - name: >-

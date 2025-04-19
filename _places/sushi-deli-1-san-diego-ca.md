@@ -9,7 +9,7 @@ seo:
   name: "Sushi Deli 1"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Diego, California? Check out Sushi Deli 1 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Deli 1 serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd3uSM9FU2YARJVqC_aLjqdA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Big Bang Sushi&Poke"
   type: Restaurant
   links: http://bigbangsushipoke.com/
-description: "Looking for sushi in West Hempstead, New York? Check out Big Bang Sushi&Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Big Bang Sushi&Poke serves delicious sushi in West Hempstead, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ98K3HtV8wokRfbKzioDkCM4
 photos:
   - name: >-

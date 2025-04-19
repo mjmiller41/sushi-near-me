@@ -9,7 +9,7 @@ seo:
   name: "Kao Sushi & Grill"
   type: Restaurant
   links: http://www.kaosushigrill.com/
-description: "Looking for sushi in Coral Gables, Florida? Check out Kao Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Kao Sushi & Grill serves delicious sushi in Coral Gables, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXb2T1Jm32YgRZjNIivNJGeI
 photos:
   - name: >-

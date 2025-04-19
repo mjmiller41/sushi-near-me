@@ -9,7 +9,7 @@ seo:
   name: "Finn’s"
   type: Restaurant
   links: null
-description: "Looking for sushi in Troy, New York? Check out Finn’s for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Finn’s serves delicious sushi in Troy, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxy4Aj_4P3okRhFX0R8Za4yg
 photos:
   - name: >-

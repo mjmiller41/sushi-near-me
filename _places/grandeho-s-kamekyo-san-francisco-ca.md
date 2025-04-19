@@ -9,7 +9,7 @@ seo:
   name: "Grandeho's Kamekyo"
   type: Restaurant
   links: http://www.gksushi.com/
-description: "A big menu offers Japanese classics & some unique dishes including sushi rolls, in a simple setting. Looking for sushi in San Francisco, California? Check ou..."
+description: "A big menu offers Japanese classics & some unique dishes including sushi rolls, in a simple setting. Grandeho's Kamekyo serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6ZHYPOGAhYARDFbfGSxE8o4
 photos:
   - name: >-

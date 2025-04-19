@@ -9,7 +9,7 @@ seo:
   name: "Sakebomb izakaya n oyster bar"
   type: Restaurant
   links: http://www.sakebombsushi.net/
-description: "Looking for sushi in Sunnyvale, California? Check out Sakebomb izakaya n oyster bar for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Sakebomb izakaya n oyster bar serves delicious sushi in Sunnyvale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc9rSrFS1j4ARicq8m05CKOw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Splendid Sushi"
   type: Restaurant
   links: https://order.online/business/splendid-sushi-12623271
-description: "Looking for sushi in Concord, New Hampshire? Check out Splendid Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Splendid Sushi serves delicious sushi in Concord, New Hampshire. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-Ybm9Nxr4okRJyFe4WcNWJE
 photos:
   - name: >-

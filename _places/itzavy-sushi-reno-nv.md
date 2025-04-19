@@ -9,7 +9,7 @@ seo:
   name: "Itzavy Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Reno, Nevada? Check out Itzavy Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Itzavy Sushi serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7Sn_FR9HmYARbg3tMLMFQIg
 photos:
   - name: >-

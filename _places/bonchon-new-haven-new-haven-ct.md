@@ -9,7 +9,7 @@ seo:
   name: "Bonchon New Haven"
   type: Restaurant
   links: null
-description: "Looking for sushi in New Haven, Connecticut? Check out Bonchon New Haven for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Bonchon New Haven serves delicious sushi in New Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH4Q-70zY54kRkmpOyuakZmA
 photos:
   - name: >-

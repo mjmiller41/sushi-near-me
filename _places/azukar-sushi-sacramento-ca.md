@@ -9,7 +9,7 @@ seo:
   name: "Azukar Sushi"
   type: Restaurant
   links: https://www.azukar-sushi.com/
-description: "Looking for sushi in Sacramento, California? Check out Azukar Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Azukar Sushi serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc-tXP-PWmoARC-OnnF7PZ3M
 photos:
   - name: >-

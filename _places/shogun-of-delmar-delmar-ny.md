@@ -9,7 +9,7 @@ seo:
   name: "Shogun of Delmar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Delmar, New York? Check out Shogun of Delmar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Shogun of Delmar serves delicious sushi in Delmar, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZV-3vxHg3YkR3L4vdCoDCDc
 photos:
   - name: >-

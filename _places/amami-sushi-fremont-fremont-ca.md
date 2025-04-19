@@ -9,7 +9,7 @@ seo:
   name: "Amami Sushi Fremont"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fremont, California? Check out Amami Sushi Fremont for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Amami Sushi Fremont serves delicious sushi in Fremont, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5aQHja_Hj4ARDN7TBmv_Rfs
 photos:
   - name: >-

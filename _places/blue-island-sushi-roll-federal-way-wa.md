@@ -9,7 +9,7 @@ seo:
   name: "Blue Island Sushi & Roll"
   type: Restaurant
   links: http://www.blueislandsushi.com/
-description: "Looking for sushi in Federal Way, Washington? Check out Blue Island Sushi & Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Blue Island Sushi & Roll serves delicious sushi in Federal Way, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr__HWchXkFQRW5RrrNfqZdM
 photos:
   - name: >-

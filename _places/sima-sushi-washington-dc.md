@@ -10,7 +10,8 @@ seo:
   type: Restaurant
   links: https://sites.google.com/view/simasushi-dc/home
 description: "Casual, Korean-style conveyor belt sushi restaurant offering lunch and dinner in Downtown's Connecticut Ave/K Street neighborhood.
-The menu includes healthy ..."
+The menu includes healthy and vegetarian choices, along with beer, sake, and cocktails. Sushi, sashimi, eel, and tonkotsu ramen are popular items, and guests often order the DC sashimi bibimbap, mochi ice cream, and udon.
+The place has a happy atmosphere and is good for kids. Guests say the service is fast, friendly, and professional. Sima Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJoS_hzr-3t4kR4Zw5TIzbIKw
 photos:
   - >-

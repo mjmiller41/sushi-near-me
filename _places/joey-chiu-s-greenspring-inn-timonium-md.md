@@ -9,7 +9,7 @@ seo:
   name: "Joey Chiu's Greenspring Inn"
   type: Restaurant
   links: https://www.joeychiurestaurant.com/
-description: "Old-fashioned setting for familiar Chinese dishes, sushi & a renowned Sunday brunch buffet. Looking for sushi in Timonium, Maryland? Check out Joey Chiu's Gr..."
+description: "Old-fashioned setting for familiar Chinese dishes, sushi & a renowned Sunday brunch buffet. Joey Chiu's Greenspring Inn serves delicious sushi in Timonium, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJWUDNdbQRyIkR-8ulMk9zZw4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Zeppelin"
   type: Restaurant
   links: http://www.zeppelindc.com/
-description: "Sushi & grilled Japanese fare with sake & cocktails in a dramatic, contemporary space with karaoke. Looking for sushi in Washington, District of Columbia? Ch..."
+description: "Sushi & grilled Japanese fare with sake & cocktails in a dramatic, contemporary space with karaoke. Zeppelin serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJQ3uHUsO3t4kR86UVegudjP4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Yuan Japanese Asian Restaurant"
   type: Restaurant
   links: http://www.yuanjapanese.com/?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Cohoes, New York? Check out Yuan Japanese Asian Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Yuan Japanese Asian Restaurant serves delicious sushi in Cohoes, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbflwyyoQ3okRy2ypDnhu2QE
 photos:
   - name: >-

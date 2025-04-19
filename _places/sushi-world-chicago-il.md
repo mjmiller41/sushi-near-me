@@ -9,7 +9,7 @@ seo:
   name: "Sushi World"
   type: Restaurant
   links: http://sushiworldchicago.com/
-description: "Looking for sushi in Chicago, Illinois? Check out Sushi World for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi World serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR9l6007PD4gRvk6Sk_bxcx4
 photos:
   - name: >-

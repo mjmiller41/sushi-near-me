@@ -9,7 +9,7 @@ seo:
   name: "Kira Asian Bistro"
   type: Restaurant
   links: http://kiraasianburlington.com/
-description: "Looking for sushi in Burlington, Wisconsin? Check out Kira Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Kira Asian Bistro serves delicious sushi in Burlington, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJua3o0emEBYgRFxBYQG4gHyU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Rakkii Sushi & Ramen"
   type: Restaurant
   links: null
-description: "Looking for sushi in Malvern, Pennsylvania? Check out Rakkii Sushi & Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Rakkii Sushi & Ramen serves delicious sushi in Malvern, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv356CgDzxokR-gX71eEmmKI
 photos:
   - name: >-

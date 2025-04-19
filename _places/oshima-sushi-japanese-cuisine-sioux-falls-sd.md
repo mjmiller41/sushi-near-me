@@ -9,7 +9,7 @@ seo:
   name: "Oshima Sushi Japanese Cuisine"
   type: Restaurant
   links: https://oshimasiouxfalls.com/
-description: "Casual nook with inventive sushi rolls & classic Japanese entrees, plus lunch specials & bubble tea. Looking for sushi in Sioux Falls, South Dakota? Check ou..."
+description: "Casual nook with inventive sushi rolls & classic Japanese entrees, plus lunch specials & bubble tea. Oshima Sushi Japanese Cuisine serves delicious sushi in Sioux Falls, South Dakota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfeM-xqK1jocRpqTKI95G77s
 photos:
   - name: >-

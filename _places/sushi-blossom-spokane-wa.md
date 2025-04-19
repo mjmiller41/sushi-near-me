@@ -9,7 +9,7 @@ seo:
   name: "Sushi Blossom"
   type: Restaurant
   links: null
-description: "Looking for sushi in Spokane, Washington? Check out Sushi Blossom for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Blossom serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZew9sRgZnlQR4_VvAZ8W5Tc
 photos:
   - name: >-

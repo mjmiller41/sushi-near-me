@@ -9,7 +9,7 @@ seo:
   name: "Kotta Sushi Lounge"
   type: Restaurant
   links: http://kottasushilounge.com/
-description: "Looking for sushi in Frisco, Texas? Check out Kotta Sushi Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Kotta Sushi Lounge serves delicious sushi in Frisco, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjS0UpmQ8TIYRAwVu5cOtSxo
 photos:
   - name: >-

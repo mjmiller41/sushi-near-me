@@ -9,7 +9,7 @@ seo:
   name: "Kitaro Sushi"
   type: Restaurant
   links: https://www.kitarosushitogo.com/
-description: "Traditional Japanese venue specializing in sushi served alongside sashimi, teriyaki & noodles. Looking for sushi in New York, New York? Check out Kitaro Sush..."
+description: "Traditional Japanese venue specializing in sushi served alongside sashimi, teriyaki & noodles. Kitaro Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKRFZOIRYwokR_uw6rPg9wgI
 photos:
   - name: >-

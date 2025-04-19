@@ -9,7 +9,7 @@ seo:
   name: "Ninja Japanese Sushi Bar & Steakhouse"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chesterfield, Missouri? Check out Ninja Japanese Sushi Bar & Steakhouse for a delightful Japanese dining experience. Enjoy a variety of ..."
+description: "Ninja Japanese Sushi Bar & Steakhouse serves delicious sushi in Chesterfield, Missouri. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO7UVbYvV2IcRGEw0pxjmYkc
 photos:
   - name: >-

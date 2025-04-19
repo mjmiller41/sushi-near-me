@@ -9,7 +9,7 @@ seo:
   name: "Yo Poké Fusion"
   type: Restaurant
   links: http://www.yopokefusion.com/
-description: "Looking for sushi in Bozeman, Montana? Check out Yo Poké Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Yo Poké Fusion serves delicious sushi in Bozeman, Montana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJkTAggdVFRVMRy_irvYKBDmM
 photos:
   - name: >-

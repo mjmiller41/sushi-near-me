@@ -9,7 +9,7 @@ seo:
   name: "Hibachi Sushi Buffet"
   type: Restaurant
   links: http://www.hibachisushibuffets.com/
-description: "Straightforward buffet-style spot for familiar Chinese & Japanese dishes, along with sushi rolls. Looking for sushi in Waterloo, Iowa? Check out Hibachi Sush..."
+description: "Straightforward buffet-style spot for familiar Chinese & Japanese dishes, along with sushi rolls. Hibachi Sushi Buffet serves delicious sushi in Waterloo, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJD29zjTxS5YcRaQVua6IOSOY
 photos:
   - name: >-

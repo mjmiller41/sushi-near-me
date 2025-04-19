@@ -9,7 +9,7 @@ seo:
   name: "Miyozen"
   type: Restaurant
   links: https://miyozen.com/?utm_source=google
-description: "Looking for sushi in Emeryville, California? Check out Miyozen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Miyozen serves delicious sushi in Emeryville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsRZNpRN-hYARdUznQKJzt5k
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Crazy Rock'n Sushi - Glendale"
   type: Restaurant
   links: http://www.crazyrockinsushigd.com/
-description: "Looking for sushi in Glendale, California? Check out Crazy Rock'n Sushi - Glendale for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Crazy Rock'n Sushi - Glendale serves delicious sushi in Glendale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3-grTt3BwoAR-nXSpbOYloA
 photos:
   - name: >-

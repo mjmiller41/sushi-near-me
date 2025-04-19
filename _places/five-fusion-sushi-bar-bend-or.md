@@ -9,7 +9,7 @@ seo:
   name: "Five Fusion & Sushi Bar"
   type: Restaurant
   links: http://www.5fusion.com/
-description: "Looking for sushi in Bend, Oregon? Check out Five Fusion & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Five Fusion & Sushi Bar serves delicious sushi in Bend, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy24cTJ3IuFQRYAzcnaoOno0
 photos:
   - name: >-

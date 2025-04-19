@@ -9,7 +9,7 @@ seo:
   name: "Torigo"
   type: Restaurant
   links: https://www.torigorestaurant.com/
-description: "Casual Japanese outpost offering a roster of rolls & tempura, plus fried ice cream for dessert. Looking for sushi in Floral Park, New York? Check out Torigo ..."
+description: "Casual Japanese outpost offering a roster of rolls & tempura, plus fried ice cream for dessert. Torigo serves delicious sushi in Floral Park, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL33hHVliwokRc8B-PlqI2Xs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Miyako Sushi"
   type: Restaurant
   links: https://www.miyakosushimaui.com/
-description: "Looking for sushi in Wailuku, Hawaii? Check out Miyako Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Miyako Sushi serves delicious sushi in Wailuku, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9a3guUDTVHkR-Rz6-JYSurs
 photos:
   - name: >-

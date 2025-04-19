@@ -9,7 +9,7 @@ seo:
   name: "Koi Sushi & Hibachi"
   type: Restaurant
   links: https://koisushihibachi.com/
-description: "Looking for sushi in Durham, North Carolina? Check out Koi Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Koi Sushi & Hibachi serves delicious sushi in Durham, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJH7xaP0rlrIkRaQ81DMX4uKU
 photos:
   - name: >-

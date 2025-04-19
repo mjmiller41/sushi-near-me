@@ -9,7 +9,7 @@ seo:
   name: "Torched Kitchen & Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Taunton, Massachusetts? Check out Torched Kitchen & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Torched Kitchen & Bar serves delicious sushi in Taunton, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsQ76HBSN5IkRQXBTThbmJg8
 photos:
   - name: >-

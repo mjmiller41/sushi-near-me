@@ -9,7 +9,7 @@ seo:
   name: "Kawa Sushi and Grill"
   type: Restaurant
   links: http://www.kawarockford.com/
-description: "Looking for sushi in Rockford, Michigan? Check out Kawa Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Kawa Sushi and Grill serves delicious sushi in Rockford, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJLX_rnPr_GIgRMWK9NLvZzX8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Simply Sushi"
   type: Restaurant
   links: https://www.simplysushi.us/
-description: "Looking for sushi in West Jordan, Utah? Check out Simply Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Simply Sushi serves delicious sushi in West Jordan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN56EEDqJUocRk0-Ny6PkFcc
 photos:
   - name: >-

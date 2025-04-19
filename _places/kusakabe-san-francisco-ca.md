@@ -9,7 +9,7 @@ seo:
   name: "KUSAKABE"
   type: Restaurant
   links: http://www.kusakabe-sf.com/
-description: "This high-end sushi spot offers a light-soaked, Zen-like space for sushi, sake, wine & beer. Looking for sushi in San Francisco, California? Check out KUSAKA..."
+description: "This high-end sushi spot offers a light-soaked, Zen-like space for sushi, sake, wine & beer. KUSAKABE serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJL9EdyIqAhYARMTuAjQDC7Bs
 photos:
   - name: >-

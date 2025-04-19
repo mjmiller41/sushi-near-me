@@ -9,7 +9,7 @@ seo:
   name: "Nama Sushi Bar - Downtown Knoxville"
   type: Restaurant
   links: null
-description: "Looking for sushi in Knoxville, Tennessee? Check out Nama Sushi Bar - Downtown Knoxville for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "Nama Sushi Bar - Downtown Knoxville serves delicious sushi in Knoxville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx4b3XsUXXIgR6938FJlDWao
 photos:
   - name: >-

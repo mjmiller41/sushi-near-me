@@ -9,7 +9,7 @@ seo:
   name: "Wasabi5"
   type: Restaurant
   links: http://wasabi5pa.com/
-description: "Looking for sushi in Exton, Pennsylvania? Check out Wasabi5 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Wasabi5 serves delicious sushi in Exton, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdzb1FPT1xokRZMolKe3Ce_Q
 photos:
   - name: >-

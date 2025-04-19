@@ -9,7 +9,7 @@ seo:
   name: "Zwei Restaurant"
   type: Restaurant
   links: https://zweiexton.kwickmenu.com/index.php
-description: "Simple spot offering an extensive selection of Chinese, Japanese & Thai basics, plus a sushi bar. Looking for sushi in Exton, Pennsylvania? Check out Zwei Re..."
+description: "Simple spot offering an extensive selection of Chinese, Japanese & Thai basics, plus a sushi bar. Zwei Restaurant serves delicious sushi in Exton, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe02LFoX0xokRDQrB80HGIuk
 photos:
   - name: >-

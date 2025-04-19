@@ -9,7 +9,7 @@ seo:
   name: "Sushi Zone"
   type: Restaurant
   links: https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=2c526e43-f377-4024-b272-3ad424c9a91e&dine_in=true
-description: "Looking for sushi in Eastpointe, Michigan? Check out Sushi Zone for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Zone serves delicious sushi in Eastpointe, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJtSTkaqfXJIgR9TdI0qP96NA
 photos:
   - name: >-

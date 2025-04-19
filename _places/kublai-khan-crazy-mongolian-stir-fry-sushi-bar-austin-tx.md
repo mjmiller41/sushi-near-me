@@ -9,7 +9,7 @@ seo:
   name: "Kublai Khan Crazy Mongolian Stir Fry & Sushi Bar"
   type: Restaurant
   links: https://kublaikhan.kwickmenu.com/index.php
-description: "Looking for sushi in Austin, Texas? Check out Kublai Khan Crazy Mongolian Stir Fry & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety o..."
+description: "Kublai Khan Crazy Mongolian Stir Fry & Sushi Bar serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeVbufgjPRIYRInemFrJx2QA
 photos:
   - name: >-

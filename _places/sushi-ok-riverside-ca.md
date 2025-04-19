@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ok"
   type: Restaurant
   links: null
-description: "Casual eatery in a strip mall provides a wide array of sushi & classic Japanese entrees, plus sake. Looking for sushi in Riverside, California? Check out Sus..."
+description: "Casual eatery in a strip mall provides a wide array of sushi & classic Japanese entrees, plus sake. Sushi Ok serves delicious sushi in Riverside, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJhYkt7wOx3IARyQD8ZdLcbA0
 photos:
   - name: >-

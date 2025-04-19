@@ -9,7 +9,7 @@ seo:
   name: "Sushi Dabu"
   type: Restaurant
   links: https://order.toasttab.com/online/sushi-dabu-4037-carpenter-rd
-description: "Sushi rolls & sashimi round out the menu at this mellow Japanese hideaway in a strip mall. Looking for sushi in Ypsilanti, Michigan? Check out Sushi Dabu for..."
+description: "Sushi rolls & sashimi round out the menu at this mellow Japanese hideaway in a strip mall. Sushi Dabu serves delicious sushi in Ypsilanti, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJk8-gY02vPIgRWdM1lPNcOII
 photos:
   - name: >-

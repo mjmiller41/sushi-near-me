@@ -9,7 +9,7 @@ seo:
   name: "Asia Nation"
   type: Restaurant
   links: https://pos.chowbus.com/online-ordering/store/15208
-description: "Looking for sushi in Rochester, New York? Check out Asia Nation for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Asia Nation serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJO77WRQBT0YkRKxsnoMmxTOk
 photos:
   - name: >-

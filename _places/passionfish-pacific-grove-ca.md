@@ -9,7 +9,7 @@ seo:
   name: "Passionfish"
   type: Restaurant
   links: http://www.passionfish.net/
-description: "Californian-inspired fare featuring seafood along with hard-to-find wines in a small, modern room. Looking for sushi in Pacific Grove, California? Check out ..."
+description: "Californian-inspired fare featuring seafood along with hard-to-find wines in a small, modern room. Passionfish serves delicious sushi in Pacific Grove, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJpXXm5EjhjYAR47VvED9RA0M
 photos:
   - name: >-

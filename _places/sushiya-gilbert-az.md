@@ -9,7 +9,7 @@ seo:
   name: "Sushiya"
   type: Restaurant
   links: http://www.azsushiya.com/
-description: "Looking for sushi in Gilbert, Arizona? Check out Sushiya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Sushiya serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ15S6hSpK4cRJLR4L3XsnYA
 photos:
   - name: >-

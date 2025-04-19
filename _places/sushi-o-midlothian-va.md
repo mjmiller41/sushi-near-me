@@ -9,7 +9,7 @@ seo:
   name: "Sushi-O"
   type: Restaurant
   links: http://www.sushiomidlothian.com/
-description: "Looking for sushi in Midlothian, Virginia? Check out Sushi-O for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi-O serves delicious sushi in Midlothian, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5WcaRXRtsYkRy1hx1NtAZoM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Shu Sushi Ramen & Grill"
   type: Restaurant
   links: https://www.shusushigrillramen.com/#/
-description: "Looking for sushi in Chandler, Arizona? Check out Shu Sushi Ramen & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Shu Sushi Ramen & Grill serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK689ATEHK4cR8n1nuBHOjp0
 photos:
   - name: >-

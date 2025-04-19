@@ -9,7 +9,7 @@ seo:
   name: "MAAK: Sushi & Woks"
   type: Restaurant
   links: https://themaak.com/
-description: "Looking for sushi in Mt Pleasant, Texas? Check out MAAK: Sushi & Woks for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "MAAK: Sushi & Woks serves delicious sushi in Mt Pleasant, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvzxaCQf6NYYR1FvlimWZqcY
 photos:
   - name: >-

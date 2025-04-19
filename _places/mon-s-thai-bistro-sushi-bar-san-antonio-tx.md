@@ -9,7 +9,7 @@ seo:
   name: "Mon's Thai Bistro & Sushi Bar"
   type: Restaurant
   links: http://www.monsthai.com/
-description: "Looking for sushi in San Antonio, Texas? Check out Mon's Thai Bistro & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Mon's Thai Bistro & Sushi Bar serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6_ntwZ_1XIYRG0r71Wy2k7Q
 photos:
   - name: >-

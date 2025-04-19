@@ -9,7 +9,7 @@ seo:
   name: "Sushi & Thai Express"
   type: Restaurant
   links: null
-description: "Looking for sushi in North Babylon, New York? Check out Sushi & Thai Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Sushi & Thai Express serves delicious sushi in North Babylon, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY2R17gAt6IkRovScWpP-17w
 photos:
   - name: >-

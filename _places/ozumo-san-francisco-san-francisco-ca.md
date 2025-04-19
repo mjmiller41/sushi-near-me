@@ -9,7 +9,7 @@ seo:
   name: "Ozumo San Francisco"
   type: Restaurant
   links: https://www.ozumosanfrancisco.com/
-description: "Creative sushi, robata grilled items & an extensive sake menu in a contemporary space. Looking for sushi in San Francisco, California? Check out Ozumo San Fr..."
+description: "Creative sushi, robata grilled items & an extensive sake menu in a contemporary space. Ozumo San Francisco serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJRHaqGWAhYARpXxUOdyMox0
 photos:
   - name: >-

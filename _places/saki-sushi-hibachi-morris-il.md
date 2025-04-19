@@ -9,7 +9,7 @@ seo:
   name: "Saki Sushi&Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Morris, Illinois? Check out Saki Sushi&Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Saki Sushi&Hibachi serves delicious sushi in Morris, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJOa5bTa6ZDogR27BZpZaYH28
 photos:
   - name: >-

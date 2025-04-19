@@ -9,7 +9,7 @@ seo:
   name: "YAMA Waverly"
   type: Restaurant
   links: http://yamawaverly.com/
-description: "Looking for sushi in Charlotte, North Carolina? Check out YAMA Waverly for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "YAMA Waverly serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVTjcp80nVIgR2Bx42hybxvk
 photos:
   - name: >-

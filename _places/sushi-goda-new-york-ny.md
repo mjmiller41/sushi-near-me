@@ -9,7 +9,7 @@ seo:
   name: "Sushi Goda"
   type: Restaurant
   links: https://www.sushigoda.com/
-description: "Looking for sushi in New York, New York? Check out Sushi Goda for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Goda serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM_t1kYpZwokRfJS9jGe1I04
 photos:
   - name: >-

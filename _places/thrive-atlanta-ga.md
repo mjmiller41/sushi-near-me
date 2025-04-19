@@ -9,7 +9,7 @@ seo:
   name: "Thrive"
   type: Restaurant
   links: http://thriveatl.com/
-description: "Looking for sushi in Atlanta, Georgia? Check out Thrive for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "Thrive serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAxtFwoAD9YgRn6a9GRgXY-k
 photos:
   - name: >-

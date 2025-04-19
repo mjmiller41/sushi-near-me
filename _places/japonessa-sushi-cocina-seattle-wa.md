@@ -9,7 +9,7 @@ seo:
   name: "Japonessa Sushi Cocina"
   type: Restaurant
   links: null
-description: "Looking for sushi in Seattle, Washington? Check out Japonessa Sushi Cocina for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Japonessa Sushi Cocina serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUwksT7JqkFQR3kjlZYrA0XY
 photos:
   - name: >-

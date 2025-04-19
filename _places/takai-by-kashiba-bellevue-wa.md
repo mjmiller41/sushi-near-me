@@ -9,7 +9,7 @@ seo:
   name: "Takai by Kashiba"
   type: Restaurant
   links: https://takaibykashiba.com/
-description: "Looking for sushi in Bellevue, Washington? Check out Takai by Kashiba for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Takai by Kashiba serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB8PPeYdskFQRKkBJfiZLuXE
 photos:
   - name: >-

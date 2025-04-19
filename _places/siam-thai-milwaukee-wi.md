@@ -9,7 +9,7 @@ seo:
   name: "Siam Thai"
   type: Restaurant
   links: null
-description: "Looking for sushi in Milwaukee, Wisconsin? Check out Siam Thai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Siam Thai serves delicious sushi in Milwaukee, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_WsOwooaBYgRz_QyUbSkwHw
 photos:
   - name: >-

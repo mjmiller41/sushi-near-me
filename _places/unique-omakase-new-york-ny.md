@@ -9,7 +9,7 @@ seo:
   name: "Unique Omakase"
   type: Restaurant
   links: https://www.uniqueomakase.com/
-description: "Looking for sushi in New York, New York? Check out Unique Omakase for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Unique Omakase serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ0auDar5ZwokR9HNRKrz9OsE
 photos:
   - name: >-

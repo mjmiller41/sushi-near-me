@@ -9,7 +9,7 @@ seo:
   name: "Sakura Sushi"
   type: Restaurant
   links: http://www.sakurasushiwdm.com/
-description: "Japanese & Asian fusion dishes presented with decorative flair in a small storefront. Looking for sushi in West Des Moines, Iowa? Check out Sakura Sushi for ..."
+description: "Japanese & Asian fusion dishes presented with decorative flair in a small storefront. Sakura Sushi serves delicious sushi in West Des Moines, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZfvwEc-f7ocRGaTIn13zIec
 photos:
   - name: >-

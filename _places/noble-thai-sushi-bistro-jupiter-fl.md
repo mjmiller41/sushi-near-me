@@ -9,7 +9,7 @@ seo:
   name: "Noble Thai & Sushi Bistro"
   type: Restaurant
   links: http://noblethaisushifl.com/
-description: "Restaurant specializing in Thai fare & sushi, with weekday lunch specials & a casual ambiance. Looking for sushi in Jupiter, Florida? Check out Noble Thai & ..."
+description: "Restaurant specializing in Thai fare & sushi, with weekday lunch specials & a casual ambiance. Noble Thai & Sushi Bistro serves delicious sushi in Jupiter, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJd_QbQmXW3ogR2qMmLuAFfsg
 photos:
   - name: >-

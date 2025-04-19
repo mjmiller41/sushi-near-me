@@ -9,7 +9,7 @@ seo:
   name: "Dosirak House"
   type: Restaurant
   links: null
-description: "Relaxed venue with a sushi bar offering traditional Japanese & Korean dishes along with sake & beer. Looking for sushi in Fort Walton Beach, Florida? Check o..."
+description: "Relaxed venue with a sushi bar offering traditional Japanese & Korean dishes along with sake & beer. Dosirak House serves delicious sushi in Fort Walton Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJJ-39vfQ-kYgR8RtY5bagpOg
 photos:
   - name: >-

@@ -9,7 +9,8 @@ seo:
   name: "Kusshi Sushi WestPost"
   type: Restaurant
   links: https://www.kusshisushi.com/
-description: "Japanese restaurant in Aurora Highlands offering sushi, sashimi, and ramen for dine-in and takeout. There are also happy hour drinks. The menu includes healt..."
+description: "Japanese restaurant in Aurora Highlands offering sushi, sashimi, and ramen for dine-in and takeout. There are also happy hour drinks. The menu includes healthy choices and small plates, as well as beer, wine, sake, and cocktails. Popular items include the takoyaki, spicy tuna roll, and 12-piece nigiri assortment.
+Open for lunch and dinner, the venue has a welcoming atmosphere with a bar, outdoor seating, and high chairs for kids. Reviews often mention the presentation of the food and say the service is excellent. Kusshi Sushi WestPost serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJHfgx4Z23t4kRIEGmxxJOnwQ
 photos:
   - name: >-

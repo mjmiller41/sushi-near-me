@@ -9,7 +9,7 @@ seo:
   name: "Pho V Noodle House & Sushi"
   type: Restaurant
   links: https://www.phovnoodlehouse.com/
-description: "Looking for sushi in Bedford, Texas? Check out Pho V Noodle House & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Pho V Noodle House & Sushi serves delicious sushi in Bedford, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMRtG7qt_ToYRbI4f1Rx4Sv4
 photos:
   - name: >-

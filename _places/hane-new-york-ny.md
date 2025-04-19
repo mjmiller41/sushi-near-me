@@ -9,7 +9,7 @@ seo:
   name: "Hane"
   type: Restaurant
   links: https://www.hanenyc.com/
-description: "Looking for sushi in New York, New York? Check out Hane for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "Hane serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq4cP1HRZwokRvklrlW28QGc
 photos:
   - name: >-

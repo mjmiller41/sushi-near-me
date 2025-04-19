@@ -9,7 +9,7 @@ seo:
   name: "Bluebei Sushi & Grill"
   type: Restaurant
   links: http://bluebeisushi.com/
-description: "Looking for sushi in Las Vegas, Nevada? Check out Bluebei Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Bluebei Sushi & Grill serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8WxBwPXJyIARJ8CJ79NCYy0
 photos:
   - name: >-

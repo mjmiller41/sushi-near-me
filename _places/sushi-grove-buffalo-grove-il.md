@@ -9,7 +9,7 @@ seo:
   name: "Sushi Grove"
   type: Restaurant
   links: https://www.eatmenu24.com/forward?route=sushigrove_gs5d4hg5sd4hb5sd4g5
-description: "Looking for sushi in Buffalo Grove, Illinois? Check out Sushi Grove for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi Grove serves delicious sushi in Buffalo Grove, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-z699mi8D4gROPLJUdu_ONw
 photos:
   - name: >-

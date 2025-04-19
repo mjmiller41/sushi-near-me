@@ -9,7 +9,7 @@ seo:
   name: "Sushi En Downtown"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cleveland, Ohio? Check out Sushi En Downtown for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi En Downtown serves delicious sushi in Cleveland, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiVzt1ej7MIgRmJIC-9l4gIA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "El Tataki Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Avondale, Arizona? Check out El Tataki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "El Tataki Sushi serves delicious sushi in Avondale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn_zLGYFAK4cR4iGUgJLzVAI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Fuji Sushi"
   type: Restaurant
   links: https://www.fujibloomsburg.com/8xsfl32e/restaurant/order-online
-description: "Looking for sushi in Bloomsburg, Pennsylvania? Check out Fuji Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Fuji Sushi serves delicious sushi in Bloomsburg, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvbl9joWHxYkRVizj9Qp9AUE
 photos:
   - name: >-

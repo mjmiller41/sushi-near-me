@@ -9,7 +9,7 @@ seo:
   name: "Neveyah Thai & Sushi Restaurant"
   type: Restaurant
   links: https://www.neveyahsushi.com/
-description: "Casual family-operated restaurant preparing classic Thai dishes as well as specialty sushi rolls. Looking for sushi in Orlando, Florida? Check out Neveyah Th..."
+description: "Casual family-operated restaurant preparing classic Thai dishes as well as specialty sushi rolls. Neveyah Thai & Sushi Restaurant serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt7m8V-J654gRfBSvZCfb-mo
 photos:
   - name: >-

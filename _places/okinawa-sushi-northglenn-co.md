@@ -9,7 +9,7 @@ seo:
   name: "Okinawa Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Northglenn, Colorado? Check out Okinawa Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Okinawa Sushi serves delicious sushi in Northglenn, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxUtjDTF0bIcRtXq2yokvTWU
 photos:
   - name: >-

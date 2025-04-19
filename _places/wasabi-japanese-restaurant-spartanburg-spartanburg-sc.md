@@ -9,7 +9,7 @@ seo:
   name: "Wasabi Japanese Restaurant (Spartanburg)"
   type: Restaurant
   links: https://wasabispartanburg.wixsite.com/menu
-description: "Looking for sushi in Spartanburg, South Carolina? Check out Wasabi Japanese Restaurant (Spartanburg) for a delightful Japanese dining experience. Enjoy a var..."
+description: "Wasabi Japanese Restaurant (Spartanburg) serves delicious sushi in Spartanburg, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3R-Ns8CdV4gRz59awV7YvSE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sato Seafood"
   type: Restaurant
   links: https://www.instagram.com/satoseafood808/
-description: "Looking for sushi in Honolulu, Hawaii? Check out Sato Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sato Seafood serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFwvGmU5tAHwRnJoJ8bt9-x0
 photos:
   - name: >-

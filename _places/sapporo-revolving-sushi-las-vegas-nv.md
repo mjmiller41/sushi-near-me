@@ -9,7 +9,7 @@ seo:
   name: "Sapporo Revolving Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Las Vegas, Nevada? Check out Sapporo Revolving Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Sapporo Revolving Sushi serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW3WJerrGyIARm0BdZRsjhY4
 photos:
   - name: >-

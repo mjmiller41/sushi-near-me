@@ -9,7 +9,7 @@ seo:
   name: "Dynasty Super Buffet"
   type: Restaurant
   links: https://dynastysupertn.com/
-description: "All-you-can-eat Asian spread (available for carry-out) plus hibachi grill, sushi & lunch specials. Looking for sushi in Nashville, Tennessee? Check out Dynas..."
+description: "All-you-can-eat Asian spread (available for carry-out) plus hibachi grill, sushi & lunch specials. Dynasty Super Buffet serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ40x90ttvZIgRjQvXyAmhU4Y
 photos:
   - name: >-

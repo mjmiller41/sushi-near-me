@@ -9,7 +9,7 @@ seo:
   name: "Asaka Sushi and Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Redondo Beach, California? Check out Asaka Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Asaka Sushi and Grill serves delicious sushi in Redondo Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd2R1BFpL3YARAQVURKSVFpw
 photos:
   - name: >-

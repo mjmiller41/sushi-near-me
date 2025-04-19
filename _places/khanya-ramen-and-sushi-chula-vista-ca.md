@@ -9,7 +9,7 @@ seo:
   name: "Khanya Ramen And Sushi"
   type: Restaurant
   links: http://khanyaramen.com/
-description: "Looking for sushi in Chula Vista, California? Check out Khanya Ramen And Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Khanya Ramen And Sushi serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQdz5RBFF2YARFvTXM2j21Lg
 photos:
   - name: >-

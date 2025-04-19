@@ -9,7 +9,7 @@ seo:
   name: "Pisces Sushi Bar & Lounge-Lake Norman"
   type: Restaurant
   links: http://piscessushi.com/
-description: "Looking for sushi in Mooresville, North Carolina? Check out Pisces Sushi Bar & Lounge-Lake Norman for a delightful Japanese dining experience. Enjoy a variet..."
+description: "Pisces Sushi Bar & Lounge-Lake Norman serves delicious sushi in Mooresville, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEwh9UetUUYgRJF9ehTudCj4
 photos:
   - name: >-

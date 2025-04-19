@@ -9,7 +9,7 @@ seo:
   name: "Musashi Sushi & Bento"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bellevue, Washington? Check out Musashi Sushi & Bento for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Musashi Sushi & Bento serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvbTdBSptkFQRlTNieGsQdKk
 photos:
   - name: >-

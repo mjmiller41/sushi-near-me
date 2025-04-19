@@ -9,7 +9,7 @@ seo:
   name: "Korea House Restaurant"
   type: Restaurant
   links: https://koreahouse.us/index.html
-description: "Simple, wood-paneled establishment with a sushi bar & menu of familiar Korean & Japanese entrees. Looking for sushi in East Lansing, Michigan? Check out Kore..."
+description: "Simple, wood-paneled establishment with a sushi bar & menu of familiar Korean & Japanese entrees. Korea House Restaurant serves delicious sushi in East Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQ0J7sm3CIogRdTmr8EWuMb8
 photos:
   - name: >-

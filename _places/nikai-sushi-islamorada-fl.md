@@ -9,7 +9,7 @@ seo:
   name: "Nikai Sushi"
   type: Restaurant
   links: http://www.cheeca.com/dining/nikai
-description: "Sushi & a wide selection of sake & beer are artfully presented in a bamboo-accented resort setting. Looking for sushi in Islamorada, Florida? Check out Nikai..."
+description: "Sushi & a wide selection of sake & beer are artfully presented in a bamboo-accented resort setting. Nikai Sushi serves delicious sushi in Islamorada, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJA2FTi18314gRpi9BXX6-SIs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Siam Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tallahassee, Florida? Check out Siam Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Siam Sushi serves delicious sushi in Tallahassee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTY0_75D17IgRvchpKRwQ6GY
 photos:
   - name: >-

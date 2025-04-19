@@ -9,7 +9,7 @@ seo:
   name: "Basil Thai and Sushi"
   type: Restaurant
   links: http://basilthaiandsushi.com/hello-world
-description: "Stylish eatery serving sushi, pho & familiar Thai mains, including curry, in modern surrounds. Looking for sushi in Brunswick, Georgia? Check out Basil Thai ..."
+description: "Stylish eatery serving sushi, pho & familiar Thai mains, including curry, in modern surrounds. Basil Thai and Sushi serves delicious sushi in Brunswick, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDXz6DBbY5IgREAr8L5Gikr8
 photos:
   - name: >-

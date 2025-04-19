@@ -9,7 +9,7 @@ seo:
   name: "Arigato Sushi"
   type: Restaurant
   links: http://arigato.menu11.com/
-description: "Looking for sushi in Seattle, Washington? Check out Arigato Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Arigato Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPYFg7r8VkFQRkg8R73KpsEg
 photos:
   - name: >-

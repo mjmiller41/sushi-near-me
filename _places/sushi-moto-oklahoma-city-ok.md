@@ -9,7 +9,7 @@ seo:
   name: "SUSHI MOTO"
   type: Restaurant
   links: https://www.eatsushimoto.com/
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out SUSHI MOTO for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "SUSHI MOTO serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLT1WkTMXsocRbC28_xFFqbg
 photos:
   - name: >-

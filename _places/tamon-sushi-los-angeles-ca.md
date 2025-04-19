@@ -9,7 +9,7 @@ seo:
   name: "Tamon Sushi"
   type: Restaurant
   links: https://group.bishamon-ten.com/tamon
-description: "Looking for sushi in Los Angeles, California? Check out Tamon Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Tamon Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN4KVwkfGwoARiQrEIwQLKeQ
 photos:
   - name: >-

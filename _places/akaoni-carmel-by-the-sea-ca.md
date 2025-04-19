@@ -9,7 +9,7 @@ seo:
   name: "Akaoni"
   type: Restaurant
   links: null
-description: "Looking for sushi in Carmel-By-The-Sea, California? Check out Akaoni for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Akaoni serves delicious sushi in Carmel-By-The-Sea, California. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJXVDj0BTmjYARSKBot4I8_Xc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Poke Sushi Bowl UVA"
   type: Restaurant
   links: null
-description: "Looking for sushi in Charlottesville, Virginia? Check out Poke Sushi Bowl UVA for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Poke Sushi Bowl UVA serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0ZGiw0eGs4kRrrlFxg4blzQ
 photos:
   - name: >-

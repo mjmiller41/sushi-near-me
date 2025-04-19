@@ -9,7 +9,7 @@ seo:
   name: "Revolving Sushi Factory"
   type: Restaurant
   links: null
-description: "Looking for sushi in Kennesaw, Georgia? Check out Revolving Sushi Factory for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Revolving Sushi Factory serves delicious sushi in Kennesaw, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMZt9UnQV9YgRmqu3ZY8fXFY
 photos:
   - name: >-

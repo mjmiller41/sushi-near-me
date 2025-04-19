@@ -9,7 +9,7 @@ seo:
   name: "Yuno"
   type: Restaurant
   links: http://www.yunosushi.com/
-description: "Down-to-earth venue for specialty sushi rolls, plus other Japanese & Korean fare. Looking for sushi in Nolensville, Tennessee? Check out Yuno for a delightfu..."
+description: "Down-to-earth venue for specialty sushi rolls, plus other Japanese & Korean fare. Yuno serves delicious sushi in Nolensville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJU7QHp0hxZIgRo8Fr2CdRFQY
 photos:
   - name: >-

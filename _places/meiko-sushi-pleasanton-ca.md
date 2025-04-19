@@ -9,7 +9,7 @@ seo:
   name: "Meiko Sushi"
   type: Restaurant
   links: https://meikosushi.com/
-description: "Looking for sushi in Pleasanton, California? Check out Meiko Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Meiko Sushi serves delicious sushi in Pleasanton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9fWmJAzpj4ARP30cNUBpaO4
 photos:
   - name: >-

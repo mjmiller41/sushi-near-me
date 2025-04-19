@@ -9,7 +9,7 @@ seo:
   name: "Sumo II Steakhouse of Japan"
   type: Restaurant
   links: https://sumoiisteakhouse.com/
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Sumo II Steakhouse of Japan for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Sumo II Steakhouse of Japan serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf1WkG-wEsocRS6D2BdcUOyg
 photos:
   - name: >-

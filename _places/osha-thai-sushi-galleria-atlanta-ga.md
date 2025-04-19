@@ -9,7 +9,7 @@ seo:
   name: "Osha Thai Sushi Galleria"
   type: Restaurant
   links: https://oshathaiatl.com/?utm_source=google
-description: "Looking for sushi in Atlanta, Georgia? Check out Osha Thai Sushi Galleria for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Osha Thai Sushi Galleria serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp6OZ5aoF9YgRS5noeK7TMo0
 photos:
   - name: >-

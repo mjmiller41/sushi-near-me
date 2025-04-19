@@ -9,7 +9,7 @@ seo:
   name: "Poseidon Sushi & Hibachi"
   type: Restaurant
   links: https://poseidonsushihibachi.com/
-description: "Looking for sushi in Stephenville, Texas? Check out Poseidon Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Poseidon Sushi & Hibachi serves delicious sushi in Stephenville, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVx7wJpOxUYYRQstqvRzTIXU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Moonlight Sushi Bar and Grill"
   type: Restaurant
   links: http://moonlightsushibargrillmiddletown.com/
-description: "Looking for sushi in Middletown, Connecticut? Check out Moonlight Sushi Bar and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Moonlight Sushi Bar and Grill serves delicious sushi in Middletown, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxTx7vf815okR5m4q-dKEWZs
 photos:
   - name: >-

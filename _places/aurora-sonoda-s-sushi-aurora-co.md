@@ -9,7 +9,7 @@ seo:
   name: "Aurora Sonoda's Sushi"
   type: Restaurant
   links: https://aurorasonodassushi.com/
-description: "Looking for sushi in Aurora, Colorado? Check out Aurora Sonoda's Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Aurora Sonoda's Sushi serves delicious sushi in Aurora, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKVx5E-SHbIcR7cD3UTrLAGI
 photos:
   - name: >-

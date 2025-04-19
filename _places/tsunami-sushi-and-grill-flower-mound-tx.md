@@ -9,7 +9,7 @@ seo:
   name: "Tsunami Sushi and Grill"
   type: Restaurant
   links: https://www.tsunamiflowermound.com/
-description: "Looking for sushi in Flower Mound, Texas? Check out Tsunami Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Tsunami Sushi and Grill serves delicious sushi in Flower Mound, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ78R2lGotTIYRP5p748u5qC4
 photos:
   - name: >-

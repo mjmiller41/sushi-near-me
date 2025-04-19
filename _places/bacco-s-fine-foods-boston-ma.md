@@ -9,7 +9,7 @@ seo:
   name: "Bacco's Fine Foods"
   type: Restaurant
   links: https://www.baccoswineandcheese.com/
-description: "Looking for sushi in Boston, Massachusetts? Check out Bacco's Fine Foods for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Bacco's Fine Foods serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for, delivery."
 place_id: ChIJz5lekXR644kRd_eEcvbMeN0
 photos:
   - name: >-

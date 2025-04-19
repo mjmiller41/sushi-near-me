@@ -9,7 +9,7 @@ seo:
   name: "CreAsian"
   type: Restaurant
   links: https://www.creasiansushi.com/home
-description: "Looking for sushi in Morgan Hill, California? Check out CreAsian for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "CreAsian serves delicious sushi in Morgan Hill, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfVoM2_EgjoAR-KaCQr5d7Ig
 photos:
   - name: >-

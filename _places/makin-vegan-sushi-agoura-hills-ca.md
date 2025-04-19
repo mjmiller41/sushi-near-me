@@ -9,7 +9,7 @@ seo:
   name: "MaKin Vegan Sushi"
   type: Restaurant
   links: http://makinvegan.com/
-description: "Looking for sushi in Agoura Hills, California? Check out MaKin Vegan Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "MaKin Vegan Sushi serves delicious sushi in Agoura Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL0k28zwl6IARmYU16Td-nfU
 photos:
   - name: >-

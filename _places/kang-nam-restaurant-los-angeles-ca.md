@@ -9,7 +9,7 @@ seo:
   name: "Kang Nam Restaurant"
   type: Restaurant
   links: http://www.kangnamrestaurant.com/
-description: "Looking for sushi in Los Angeles, California? Check out Kang Nam Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Kang Nam Restaurant serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXfLuuYy4woARpT6--tyINLk
 photos:
   - name: >-

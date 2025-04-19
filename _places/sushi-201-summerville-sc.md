@@ -9,7 +9,7 @@ seo:
   name: "Sushi 201"
   type: Restaurant
   links: https://sushi201summerville.com/
-description: "Looking for sushi in Summerville, South Carolina? Check out Sushi 201 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Sushi 201 serves delicious sushi in Summerville, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXY74E2-L_ogR9adbY5UYsx8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "ENSUI SUSHI"
   type: Restaurant
   links: http://ensuisushi.com/
-description: "Looking for sushi in Del Mar, California? Check out ENSUI SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "ENSUI SUSHI serves delicious sushi in Del Mar, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbzpNVp4J3IAR4yW9VcEAhoA
 photos:
   - name: >-

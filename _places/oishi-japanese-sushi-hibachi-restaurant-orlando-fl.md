@@ -9,7 +9,7 @@ seo:
   name: "Oishi Japanese Sushi & Hibachi Restaurant"
   type: Restaurant
   links: https://www.oishiorlando.com/
-description: "Looking for sushi in Orlando, Florida? Check out Oishi Japanese Sushi & Hibachi Restaurant for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Oishi Japanese Sushi & Hibachi Restaurant serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM5jKSid-54gRmnqkuvp0TTk
 photos:
   - name: >-

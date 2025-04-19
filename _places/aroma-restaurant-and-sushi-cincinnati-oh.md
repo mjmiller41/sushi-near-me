@@ -9,7 +9,7 @@ seo:
   name: "Aroma Restaurant and Sushi"
   type: Restaurant
   links: https://aromasushi.com/
-description: "Looking for sushi in Cincinnati, Ohio? Check out Aroma Restaurant and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Aroma Restaurant and Sushi serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAQAAwD9TQIgRixhnv3Fs2_k
 photos:
   - name: >-

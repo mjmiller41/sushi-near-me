@@ -9,7 +9,7 @@ seo:
   name: "Tsuki Boba & More"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tallahassee, Florida? Check out Tsuki Boba & More for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Tsuki Boba & More serves delicious sushi in Tallahassee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJse5j9qRf7IgRE3tRNmDHsTc
 photos:
   - name: >-

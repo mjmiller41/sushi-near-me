@@ -9,7 +9,7 @@ seo:
   name: "Sumu Tokyo ramen & Sushi"
   type: Restaurant
   links: http://www.sumuramen.com/
-description: "Relaxed Japanese spot serving homemade ramen noodles & other classics in a narrow, dimly lit space. Looking for sushi in Chicago, Illinois? Check out Sumu To..."
+description: "Relaxed Japanese spot serving homemade ramen noodles & other classics in a narrow, dimly lit space. Sumu Tokyo ramen & Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSwc5RmUtDogRzk1BJTszG8U
 photos:
   - name: >-

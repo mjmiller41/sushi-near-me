@@ -9,7 +9,7 @@ seo:
   name: "Volcano Korean BBQ & SUSHI (All You Can Eat)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Odessa, Texas? Check out Volcano Korean BBQ & SUSHI (All You Can Eat) for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Volcano Korean BBQ & SUSHI (All You Can Eat) serves delicious sushi in Odessa, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2VF8ZDTJ-4YRBIQDobPA4ww
 photos:
   - name: >-

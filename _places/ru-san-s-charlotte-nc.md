@@ -9,7 +9,7 @@ seo:
   name: "Ru San's"
   type: Restaurant
   links: http://www.rusans.com/
-description: "Casual Japanese eatery with a large menu including yakitori, creative sushi rolls & seafood. Looking for sushi in Charlotte, North Carolina? Check out Ru San..."
+description: "Casual Japanese eatery with a large menu including yakitori, creative sushi rolls & seafood. Ru San's serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM1LSIKCfVogRYMBZFPBlvnU
 photos:
   - name: >-

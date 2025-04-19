@@ -9,7 +9,7 @@ seo:
   name: "Mr. An's Teppan Steak & Seafood"
   type: Restaurant
   links: https://www.mrantucson.com/
-description: "Looking for sushi in Tucson, Arizona? Check out Mr. An's Teppan Steak & Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Mr. An's Teppan Steak & Seafood serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXwA9cGJz1oYR5az3BIG4EQE
 photos:
   - name: >-

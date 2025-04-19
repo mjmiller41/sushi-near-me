@@ -9,7 +9,7 @@ seo:
   name: "Tomoya Sushi & Izakaya"
   type: Restaurant
   links: https://tomoyausa.com/?utm_source=google
-description: "Lively, modern eatery featuring an extensive menu of creative sushi, cooked Japanese fare & sake. Looking for sushi in Woodland Hills, California? Check out ..."
+description: "Lively, modern eatery featuring an extensive menu of creative sushi, cooked Japanese fare & sake. Tomoya Sushi & Izakaya serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJecApyqaewoARvLHyyK-qNnU
 photos:
   - name: >-

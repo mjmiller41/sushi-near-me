@@ -9,7 +9,7 @@ seo:
   name: "Misaki Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in South Bethany, Delaware? Check out Misaki Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Misaki Restaurant serves delicious sushi in South Bethany, Delaware. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPaB4f-HNuIkRmj2IfqCdQP8
 photos:
   - name: >-

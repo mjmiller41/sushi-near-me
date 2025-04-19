@@ -9,7 +9,7 @@ seo:
   name: "Bonchon"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Bonchon for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Bonchon serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbeU4mI8tDogRLwgldZC7UQw
 photos:
   - name: >-

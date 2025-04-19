@@ -9,7 +9,7 @@ seo:
   name: "Mikado Sushi"
   type: Restaurant
   links: http://www.mikadosushiaz.com/
-description: "Looking for sushi in Chandler, Arizona? Check out Mikado Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Mikado Sushi serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTUL1c3gAK4cRT9lpRK3VjTs
 photos:
   - name: >-

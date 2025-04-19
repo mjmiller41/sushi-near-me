@@ -9,7 +9,7 @@ seo:
   name: "Katana Sushi"
   type: Restaurant
   links: https://www.facebook.com/MidlothianKatanaSushi?ref=hl
-description: "Looking for sushi in Midlothian, Virginia? Check out Katana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Katana Sushi serves delicious sushi in Midlothian, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJZUoZKgFusYkRmqxeJ-J-Cp0
 photos:
   - name: >-

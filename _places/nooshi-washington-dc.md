@@ -9,7 +9,7 @@ seo:
   name: "Nooshi"
   type: Restaurant
   links: http://www.nooshidc.com/
-description: "Contemporary outfit fixing up Asian specialties like sushi, noodles & spring rolls, plus cocktails. Looking for sushi in Washington, District of Columbia? Ch..."
+description: "Contemporary outfit fixing up Asian specialties like sushi, noodles & spring rolls, plus cocktails. Nooshi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUUIrNbi3t4kRPxF3_OEM4Ts
 photos:
   - name: >-

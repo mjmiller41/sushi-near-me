@@ -9,7 +9,7 @@ seo:
   name: "Soho Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Las Vegas, Nevada? Check out Soho Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Soho Japanese Restaurant serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDzQ1Si_GyIARy_IPbqOOd70
 photos:
   - name: >-

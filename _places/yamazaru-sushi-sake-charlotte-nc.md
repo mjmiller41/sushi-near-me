@@ -9,7 +9,7 @@ seo:
   name: "Yamazaru Sushi & Sake"
   type: Restaurant
   links: https://yamazarusouthend.com/
-description: "Stylish restaurant offering a Japanese menu of noodles, ramen & sushi plus cocktails, sake & beer. Looking for sushi in Charlotte, North Carolina? Check out ..."
+description: "Stylish restaurant offering a Japanese menu of noodles, ramen & sushi plus cocktails, sake & beer. Yamazaru Sushi & Sake serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL1q3ZXCfVogRT2gZETIrv-0
 photos:
   - name: >-

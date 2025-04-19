@@ -9,7 +9,7 @@ seo:
   name: "Ginza Asian Bistro"
   type: Restaurant
   links: https://www.ginzaasianbistroky.com/
-description: "Looking for sushi in Louisville, Kentucky? Check out Ginza Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Ginza Asian Bistro serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1Yr5pryfaYgRuxmT7HgvoC0
 photos:
   - name: >-

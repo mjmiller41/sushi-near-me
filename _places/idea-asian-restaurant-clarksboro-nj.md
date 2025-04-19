@@ -9,7 +9,7 @@ seo:
   name: "Idea Asian Restaurant"
   type: Restaurant
   links: https://m.facebook.com/people/Idea-Asian/100057585603666/
-description: "Looking for sushi in Clarksboro, New Jersey? Check out Idea Asian Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Idea Asian Restaurant serves delicious sushi in Clarksboro, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJZ2dZJQ3bxokRNYHZtbOl7d4
 photos:
   - name: >-

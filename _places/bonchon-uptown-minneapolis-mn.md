@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Uptown"
   type: Restaurant
   links: null
-description: "Looking for sushi in Minneapolis, Minnesota? Check out Bonchon Uptown for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Bonchon Uptown serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2Rkg668n9ocRiso4CVuIVeY
 photos:
   - name: >-

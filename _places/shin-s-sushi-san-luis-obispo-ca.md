@@ -9,7 +9,7 @@ seo:
   name: "Shin's Sushi"
   type: Restaurant
   links: https://www.shinssushibar.com/
-description: "No-frills sushi spot with diverse menu, affordable prices & daily happy-hour specials. Looking for sushi in San Luis Obispo, California? Check out Shin's Sus..."
+description: "No-frills sushi spot with diverse menu, affordable prices & daily happy-hour specials. Shin's Sushi serves delicious sushi in San Luis Obispo, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJHevd-gPx7IARriWqbh-xdfA
 photos:
   - name: >-

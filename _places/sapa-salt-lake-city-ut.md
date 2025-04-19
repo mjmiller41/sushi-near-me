@@ -9,7 +9,7 @@ seo:
   name: "Sapa"
   type: Restaurant
   links: https://www.sapabarandgrill.com/
-description: "Looking for sushi in Salt Lake City, Utah? Check out Sapa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Sapa serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9Qb8ij31UocRYN6St9xX_EY
 photos:
   - name: >-

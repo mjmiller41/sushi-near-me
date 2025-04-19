@@ -9,7 +9,7 @@ seo:
   name: "Poke House - Walnut Creek"
   type: Restaurant
   links: null
-description: "Looking for sushi in Walnut Creek, California? Check out Poke House - Walnut Creek for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Poke House - Walnut Creek serves delicious sushi in Walnut Creek, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwxC4USJhhYAR8LwjNgRKXYA
 photos:
   - name: >-

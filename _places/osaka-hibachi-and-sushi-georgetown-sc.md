@@ -9,7 +9,7 @@ seo:
   name: "Osaka Hibachi and Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Georgetown, South Carolina? Check out Osaka Hibachi and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Osaka Hibachi and Sushi serves delicious sushi in Georgetown, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUWlGIAItAIkRiFp-MISzXcw
 photos:
   - name: >-

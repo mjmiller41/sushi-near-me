@@ -9,7 +9,7 @@ seo:
   name: "Bonsai"
   type: Restaurant
   links: https://www.bonsaioh.com/
-description: "Down-to-earth outpost serving Korean bowls alongside sushi rolls & cooked Japanese fare. Looking for sushi in Upper Arlington, Ohio? Check out Bonsai for a d..."
+description: "Down-to-earth outpost serving Korean bowls alongside sushi rolls & cooked Japanese fare. Bonsai serves delicious sushi in Upper Arlington, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJC_K_MOCNOIgRfLimQxQDjc4
 photos:
   - name: >-

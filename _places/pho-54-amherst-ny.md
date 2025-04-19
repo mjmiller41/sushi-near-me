@@ -9,7 +9,7 @@ seo:
   name: "Pho 54"
   type: Restaurant
   links: https://www.pho54online.com/
-description: "Informal eatery serving an array of Vietnamese dishes alongside Thai curries & sushi rolls. Looking for sushi in Amherst, New York? Check out Pho 54 for a de..."
+description: "Informal eatery serving an array of Vietnamese dishes alongside Thai curries & sushi rolls. Pho 54 serves delicious sushi in Amherst, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKcVwLDFy04kRuw60-ojfLZg
 photos:
   - name: >-

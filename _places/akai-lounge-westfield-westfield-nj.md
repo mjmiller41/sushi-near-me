@@ -9,7 +9,7 @@ seo:
   name: "Akai Lounge Westfield"
   type: Restaurant
   links: https://www.akailounge.com/
-description: "Looking for sushi in Westfield, New Jersey? Check out Akai Lounge Westfield for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Akai Lounge Westfield serves delicious sushi in Westfield, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9eRl-Kixw4kRaRD3EPVud80
 photos:
   - name: >-

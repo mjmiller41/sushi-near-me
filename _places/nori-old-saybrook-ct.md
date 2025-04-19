@@ -9,7 +9,7 @@ seo:
   name: "Nori"
   type: Restaurant
   links: null
-description: "Looking for sushi in Old Saybrook, Connecticut? Check out Nori for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Nori serves delicious sushi in Old Saybrook, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx6LSK_cj5okR0MJbvv7z8DY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Coach Sushi"
   type: Restaurant
   links: https://www.coachsushius.com/
-description: "Looking for sushi in Oakland, California? Check out Coach Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Coach Sushi serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk-MAj0aHj4ARajSMdt4JfGY
 photos:
   - name: >-

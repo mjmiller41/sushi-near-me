@@ -9,7 +9,7 @@ seo:
   name: "Khin’s Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Washington, District of Columbia? Check out Khin’s Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Khin’s Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ78NrNQW3t4kRGYiDa-IJK4A
 photos:
   - name: >-

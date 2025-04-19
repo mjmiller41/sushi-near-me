@@ -9,7 +9,7 @@ seo:
   name: "JIN SUSHI"
   type: Restaurant
   links: https://jinsushigc.com/
-description: "Looking for sushi in Grove City, Pennsylvania? Check out JIN SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "JIN SUSHI serves delicious sushi in Grove City, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJAQBExER1M4gRcwyJe6aNC7U
 photos:
   - name: >-

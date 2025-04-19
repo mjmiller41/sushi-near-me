@@ -9,7 +9,7 @@ seo:
   name: "Kibatsu"
   type: Restaurant
   links: https://www.kibatsusushi.com/
-description: "Looking for sushi in San Francisco, California? Check out Kibatsu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Kibatsu serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJ_6lGs5OBhYARMZbrb4T5Os4
 photos:
   - name: >-

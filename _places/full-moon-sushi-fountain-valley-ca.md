@@ -9,7 +9,7 @@ seo:
   name: "Full Moon Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fountain Valley, California? Check out Full Moon Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Full Moon Sushi serves delicious sushi in Fountain Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-yATIzEn3YARGgM4GOwAGzA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Hana Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bothell, Washington? Check out Hana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Hana Sushi serves delicious sushi in Bothell, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOWk60GsOkFQR7kj7DqOvI9Y
 photos:
   - name: >-

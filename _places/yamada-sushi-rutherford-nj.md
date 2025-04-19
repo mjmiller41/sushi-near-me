@@ -9,7 +9,7 @@ seo:
   name: "Yamada Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Rutherford, New Jersey? Check out Yamada Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Yamada Sushi serves delicious sushi in Rutherford, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM_7yjr74wokRgnf-BP_VXSA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Umigawa Sushi"
   type: Restaurant
   links: https://www.umigawasushi.com/
-description: "Looking for sushi in Kirkland, Washington? Check out Umigawa Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Umigawa Sushi serves delicious sushi in Kirkland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv1FDNIQNkFQRPMG4Ur4Nn8Q
 photos:
   - name: >-

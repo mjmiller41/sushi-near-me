@@ -9,7 +9,7 @@ seo:
   name: "Hissho Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Nashville, Tennessee? Check out Hissho Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Hissho Sushi serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS1K3Q61uZIgR-E_0OZm1ikg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Zentarou Sushi and Sake Bar"
   type: Restaurant
   links: https://www.zentarousf.com/
-description: "Looking for sushi in San Francisco, California? Check out Zentarou Sushi and Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Zentarou Sushi and Sake Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSf9KlMiHhYARjdG-GjPd-OE
 photos:
   - name: >-

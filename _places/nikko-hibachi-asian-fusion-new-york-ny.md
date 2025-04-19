@@ -9,7 +9,7 @@ seo:
   name: "Nikko Hibachi Asian Fusion"
   type: Restaurant
   links: https://nikkohibachiasianfusion.shop/
-description: "Modern Asian-fusion restaurant offering sushi, stir-fries, noodle soups & sake, plus lunch specials. Looking for sushi in New York, New York? Check out Nikko..."
+description: "Modern Asian-fusion restaurant offering sushi, stir-fries, noodle soups & sake, plus lunch specials. Nikko Hibachi Asian Fusion serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJu3iXyGr2wokR29wWAqLfn8Q
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi You"
   type: Restaurant
   links: null
-description: "Looking for sushi in Oakland Gardens, New York? Check out Sushi You for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi You serves delicious sushi in Oakland Gardens, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJuXV3eY1hwokR-twu4LiPaRI
 photos:
   - name: >-

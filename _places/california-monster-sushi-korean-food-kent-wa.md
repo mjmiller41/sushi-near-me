@@ -9,7 +9,7 @@ seo:
   name: "California Monster Sushi & Korean Food"
   type: Restaurant
   links: null
-description: "Looking for sushi in Kent, Washington? Check out California Monster Sushi & Korean Food for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "California Monster Sushi & Korean Food serves delicious sushi in Kent, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6VDjarZekFQR1ZXJGuVj1Gk
 photos:
   - name: >-

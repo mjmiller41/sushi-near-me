@@ -9,7 +9,7 @@ seo:
   name: "Fuji Sushi & Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Middleton, Wisconsin? Check out Fuji Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Fuji Sushi & Hibachi serves delicious sushi in Middleton, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK5y3mTavB4gRTX7Sz42jjY8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kaito Sushi NY"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bronxville, New York? Check out Kaito Sushi NY for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Kaito Sushi NY serves delicious sushi in Bronxville, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr103-rGSwokReSFy8SWUMpY
 photos:
   - name: >-

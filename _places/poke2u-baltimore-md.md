@@ -9,7 +9,7 @@ seo:
   name: "Poke2u"
   type: Restaurant
   links: null
-description: "Looking for sushi in Baltimore, Maryland? Check out Poke2u for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Poke2u serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt8g3IgAFyIkRCf7tx_qnsE4
 photos:
   - name: >-

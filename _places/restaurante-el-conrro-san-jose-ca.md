@@ -9,7 +9,7 @@ seo:
   name: "Restaurante El Conrro"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Jose, California? Check out Restaurante El Conrro for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Restaurante El Conrro serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkxPw_vHNj4AR3kWX9y1LFho
 photos:
   - name: >-

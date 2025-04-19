@@ -9,7 +9,7 @@ seo:
   name: "Sakana Sushi & Grill"
   type: Restaurant
   links: http://www.sakanalacanada.com/
-description: "Looking for sushi in La Cañada Flintridge, California? Check out Sakana Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Sakana Sushi & Grill serves delicious sushi in La Cañada Flintridge, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5zV2t0DqwoARGxbpVqVHjWA
 photos:
   - name: >-

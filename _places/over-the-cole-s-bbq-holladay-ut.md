@@ -9,7 +9,7 @@ seo:
   name: "Over the Cole’s BBQ"
   type: Restaurant
   links: null
-description: "Looking for sushi in Holladay, Utah? Check out Over the Cole’s BBQ for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Over the Cole’s BBQ serves delicious sushi in Holladay, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMYYWXYxhUocRAJf-j2dZMvA
 photos:
   - name: >-

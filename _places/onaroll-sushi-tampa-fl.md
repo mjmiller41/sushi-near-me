@@ -9,7 +9,7 @@ seo:
   name: "OnARoll Sushi"
   type: Restaurant
   links: http://www.onarollsushiandthai.com/
-description: "Bright, casual eatery offering creative, customizable rolls & specialties including sushi burritos. Looking for sushi in Tampa, Florida? Check out OnARoll Su..."
+description: "Bright, casual eatery offering creative, customizable rolls & specialties including sushi burritos. OnARoll Sushi serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7aUBZozEwogR8TnbN0B5YQo
 photos:
   - name: >-

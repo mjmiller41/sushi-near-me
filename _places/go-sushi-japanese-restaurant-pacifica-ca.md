@@ -9,7 +9,7 @@ seo:
   name: "Go Sushi Japanese Restaurant"
   type: Restaurant
   links: https://gosushitogo.com/
-description: "Relaxed place with paper lanterns highlighting an extensive Japanese menu plus wine, sake & beer. Looking for sushi in Pacifica, California? Check out Go Sus..."
+description: "Relaxed place with paper lanterns highlighting an extensive Japanese menu plus wine, sake & beer. Go Sushi Japanese Restaurant serves delicious sushi in Pacifica, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJs0YDOlR6j4ARHBVhsh5QdsI
 photos:
   - name: >-

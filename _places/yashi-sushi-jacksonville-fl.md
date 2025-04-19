@@ -9,7 +9,7 @@ seo:
   name: "Yashi Sushi"
   type: Restaurant
   links: http://www.yashisushi4820.com/
-description: "Easygoing shopping-center eatery serving Japanese classics like sushi, teriyaki & hibachi meals. Looking for sushi in Jacksonville, Florida? Check out Yashi ..."
+description: "Easygoing shopping-center eatery serving Japanese classics like sushi, teriyaki & hibachi meals. Yashi Sushi serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbR_zH3y15YgRXWdCN4NpnnI
 photos:
   - name: >-

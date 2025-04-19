@@ -9,7 +9,7 @@ seo:
   name: "Sushi Takatsu"
   type: Restaurant
   links: null
-description: "Modest counter-serve standby serving Japanese bites including sushi, noodle soups & rice bowls. Looking for sushi in Minneapolis, Minnesota? Check out Sushi ..."
+description: "Modest counter-serve standby serving Japanese bites including sushi, noodle soups & rice bowls. Sushi Takatsu serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZdv4Xpcys1IRYfc8uoIWoOs
 photos:
   - name: >-

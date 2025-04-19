@@ -9,7 +9,7 @@ seo:
   name: "Mikado sushi restaurant"
   type: Restaurant
   links: http://www.mikado355.com/
-description: "Looking for sushi in Lynbrook, New York? Check out Mikado sushi restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Mikado sushi restaurant serves delicious sushi in Lynbrook, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjdCJP7xkwokRtKEw_T08wFQ
 photos:
   - name: >-

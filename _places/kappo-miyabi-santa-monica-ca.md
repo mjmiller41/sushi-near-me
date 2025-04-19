@@ -9,7 +9,7 @@ seo:
   name: "Kappo Miyabi"
   type: Restaurant
   links: http://kappomiyabisantamonica.com/
-description: "Looking for sushi in Santa Monica, California? Check out Kappo Miyabi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Kappo Miyabi serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRcW0Y7WlwoAR6AK2Zv9QpEk
 photos:
   - name: >-

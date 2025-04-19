@@ -9,7 +9,7 @@ seo:
   name: "Kazoku Sushi and Bar"
   type: Restaurant
   links: https://linktr.ee/kazokuMA
-description: "Looking for sushi in Mt Airy, North Carolina? Check out Kazoku Sushi and Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Kazoku Sushi and Bar serves delicious sushi in Mt Airy, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJrau7z6g9UogRGnnECdgowdI
 photos:
   - name: >-

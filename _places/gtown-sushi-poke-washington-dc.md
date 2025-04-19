@@ -9,7 +9,7 @@ seo:
   name: "Gtown Sushi & Poke"
   type: Restaurant
   links: https://gtownsushipoke.com/
-description: "Looking for sushi in Washington, District of Columbia? Check out Gtown Sushi & Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Gtown Sushi & Poke serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8_PX4oq3t4kRi7rXiXDKd64
 photos:
   - name: >-

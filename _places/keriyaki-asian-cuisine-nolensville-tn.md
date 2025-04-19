@@ -9,7 +9,7 @@ seo:
   name: "Keriyaki Asian Cuisine"
   type: Restaurant
   links: null
-description: "Looking for sushi in Nolensville, Tennessee? Check out Keriyaki Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Keriyaki Asian Cuisine serves delicious sushi in Nolensville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA9M72ENxZIgR65YdBAFhEkg
 photos:
   - name: >-

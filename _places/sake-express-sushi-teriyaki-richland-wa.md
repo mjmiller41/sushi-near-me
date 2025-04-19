@@ -9,7 +9,7 @@ seo:
   name: "Sake Express Sushi & Teriyaki"
   type: Restaurant
   links: https://sakeexpresssushi.com/?utm_source=google
-description: "Looking for sushi in Richland, Washington? Check out Sake Express Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Sake Express Sushi & Teriyaki serves delicious sushi in Richland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ5knVmhxmFQRgRVi3X_V0js
 photos:
   - name: >-

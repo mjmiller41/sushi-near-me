@@ -9,7 +9,7 @@ seo:
   name: "Hanabi Hibachi and Sushi"
   type: Restaurant
   links: http://www.hanabi-hibachi-sushi.com/
-description: "Looking for sushi in Fort Worth, Texas? Check out Hanabi Hibachi and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Hanabi Hibachi and Sushi serves delicious sushi in Fort Worth, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN-I0uo3YTYYRwOQjhjc62Cw
 photos:
   - name: >-

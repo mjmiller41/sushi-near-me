@@ -9,7 +9,7 @@ seo:
   name: "Taichi Bubble Tea, Ramen and Poke Bowl - College town"
   type: Restaurant
   links: null
-description: "Looking for sushi in Rochester, New York? Check out Taichi Bubble Tea, Ramen and Poke Bowl - College town for a delightful Japanese dining experience. Enjoy ..."
+description: "Taichi Bubble Tea, Ramen and Poke Bowl - College town serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ120_5dG01okRMTkrkrGwhZ8
 photos:
   - name: >-

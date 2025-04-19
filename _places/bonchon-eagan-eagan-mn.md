@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Eagan"
   type: Restaurant
   links: null
-description: "Looking for sushi in Eagan, Minnesota? Check out Bonchon Eagan for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Bonchon Eagan serves delicious sushi in Eagan, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmeCG_jEt9ocRYnl5TvRmLj0
 photos:
   - name: >-

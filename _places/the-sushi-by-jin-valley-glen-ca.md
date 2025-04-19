@@ -9,7 +9,7 @@ seo:
   name: "The Sushi by Jin"
   type: Restaurant
   links: https://thesushibyjin.com/
-description: "Looking for sushi in Valley Glen, California? Check out The Sushi by Jin for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "The Sushi by Jin serves delicious sushi in Valley Glen, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0Uyc9naWwoARkwmjYkWgLuU
 photos:
   - name: >-

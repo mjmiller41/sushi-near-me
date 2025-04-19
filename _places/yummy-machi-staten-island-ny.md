@@ -9,7 +9,7 @@ seo:
   name: "Yummy Machi"
   type: Restaurant
   links: https://orderyummymachi.com/
-description: "Strip-mall counter serve providing sushi, bento & other Japanese fare, plus smoothies & bubble tea. Looking for sushi in Staten Island, New York? Check out Y..."
+description: "Strip-mall counter serve providing sushi, bento & other Japanese fare, plus smoothies & bubble tea. Yummy Machi serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJO0HdG6xNwokRuPJFc8jebuI
 photos:
   - name: >-

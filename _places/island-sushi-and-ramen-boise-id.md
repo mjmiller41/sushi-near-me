@@ -9,7 +9,7 @@ seo:
   name: "Island Sushi and Ramen"
   type: Restaurant
   links: http://www.islandsushiandramen.com/
-description: "Looking for sushi in Boise, Idaho? Check out Island Sushi and Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Island Sushi and Ramen serves delicious sushi in Boise, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTULJ55NXrlQRu-7fMuWTe-c
 photos:
   - name: >-

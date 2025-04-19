@@ -9,7 +9,7 @@ seo:
   name: "Sushi by Scratch Restaurants: Miami"
   type: Restaurant
   links: https://www.exploretock.com/sushi-by-scratch-restaurants-miami
-description: "Looking for sushi in Coconut Grove, Florida? Check out Sushi by Scratch Restaurants: Miami for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Sushi by Scratch Restaurants: Miami serves delicious sushi in Coconut Grove, Florida. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJP8aLkeW32YgRfmPsVXObIvI
 photos:
   - name: >-

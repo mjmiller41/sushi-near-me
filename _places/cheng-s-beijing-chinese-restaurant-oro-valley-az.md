@@ -9,7 +9,7 @@ seo:
   name: "Cheng's Beijing Chinese Restaurant"
   type: Restaurant
   links: http://www.chengsbeijingtucson.com/
-description: "Looking for sushi in Oro Valley, Arizona? Check out Cheng's Beijing Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Cheng's Beijing Chinese Restaurant serves delicious sushi in Oro Valley, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm4bfiEpz1oYRfiIibMgZulc
 photos:
   - name: >-

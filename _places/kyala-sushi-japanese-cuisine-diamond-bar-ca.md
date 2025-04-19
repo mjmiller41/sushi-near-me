@@ -9,7 +9,7 @@ seo:
   name: "Kyala Sushi & Japanese Cuisine"
   type: Restaurant
   links: https://morisendb.com/
-description: "Looking for sushi in Diamond Bar, California? Check out Kyala Sushi & Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Kyala Sushi & Japanese Cuisine serves delicious sushi in Diamond Bar, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMS3Zn40sw4ARKHqe8k0BLKw
 photos:
   - name: >-

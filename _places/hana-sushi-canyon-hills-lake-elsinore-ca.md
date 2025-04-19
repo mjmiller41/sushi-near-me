@@ -9,7 +9,7 @@ seo:
   name: "Hana Sushi Canyon Hills"
   type: Restaurant
   links: http://hanasushicanyonhills.com/
-description: "Looking for sushi in Lake Elsinore, California? Check out Hana Sushi Canyon Hills for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Hana Sushi Canyon Hills serves delicious sushi in Lake Elsinore, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1QkJtnSc3IAREhx5o6Hw7Oo
 photos:
   - name: >-

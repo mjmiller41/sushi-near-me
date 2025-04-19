@@ -9,7 +9,7 @@ seo:
   name: "Casa Asia"
   type: Restaurant
   links: http://www.casabistrony.com/
-description: "Comfy destination for Thai, Chinese & Japanese classics, including curries & sushi. Looking for sushi in Whitestone, New York? Check out Casa Asia for a deli..."
+description: "Comfy destination for Thai, Chinese & Japanese classics, including curries & sushi. Casa Asia serves delicious sushi in Whitestone, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA2UX6ZSKwokRz6umsPuEkA4
 photos:
   - name: >-

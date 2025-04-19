@@ -9,7 +9,7 @@ seo:
   name: "One Ramen And Sushi"
   type: Restaurant
   links: http://oneramensushi.com/
-description: "Compact sushi bar & ramen house (popular for takeout) with lunch specials available. Looking for sushi in Cambridge, Massachusetts? Check out One Ramen And S..."
+description: "Compact sushi bar & ramen house (popular for takeout) with lunch specials available. One Ramen And Sushi serves delicious sushi in Cambridge, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMTKDQT5344kRdia0GkUoJto
 photos:
   - name: >-

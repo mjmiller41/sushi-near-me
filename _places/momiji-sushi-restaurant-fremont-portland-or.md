@@ -9,7 +9,7 @@ seo:
   name: "Momiji Sushi Restaurant - Fremont"
   type: Restaurant
   links: null
-description: "Looking for sushi in Portland, Oregon? Check out Momiji Sushi Restaurant - Fremont for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Momiji Sushi Restaurant - Fremont serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8Xdgu8ynlVQRJ7pciH-9WKw
 photos:
   - name: >-

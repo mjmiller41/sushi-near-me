@@ -9,7 +9,7 @@ seo:
   name: "Sushi Jin Next Door"
   type: Restaurant
   links: http://www.sushijinnextdoor.com/
-description: "Casual eatery serving a menu of traditional Japanese fare that includes sushi and ramen. Looking for sushi in Alexandria, Virginia? Check out Sushi Jin Next ..."
+description: "Casual eatery serving a menu of traditional Japanese fare that includes sushi and ramen. Sushi Jin Next Door serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJFb0toaizt4kRofBrPnz-dNM
 photos:
   - name: >-

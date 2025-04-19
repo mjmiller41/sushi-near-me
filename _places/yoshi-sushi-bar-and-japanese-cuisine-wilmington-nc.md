@@ -9,7 +9,7 @@ seo:
   name: "Yoshi Sushi Bar and Japanese Cuisine"
   type: Restaurant
   links: https://yoshisushibartogo.com/
-description: "Looking for sushi in Wilmington, North Carolina? Check out Yoshi Sushi Bar and Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety ..."
+description: "Yoshi Sushi Bar and Japanese Cuisine serves delicious sushi in Wilmington, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQYUlT8L0qYkRxTJ3kbOwXC8
 photos:
   - name: >-

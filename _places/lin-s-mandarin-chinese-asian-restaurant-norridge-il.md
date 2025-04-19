@@ -9,7 +9,7 @@ seo:
   name: "Lin's Mandarin Chinese & Asian Restaurant"
   type: Restaurant
   links: https://www.smorefood.com/order-online/lins-mandarin-chinese-and-asian-restaurant-norridge-60706-8qbgl32e?utm_source=gmb&utm_medium=website
-description: "Casual eatery offering a large menu of modern & traditional Chinese fare in simple surrounds. Looking for sushi in Norridge, Illinois? Check out Lin's Mandar..."
+description: "Casual eatery offering a large menu of modern & traditional Chinese fare in simple surrounds. Lin's Mandarin Chinese & Asian Restaurant serves delicious sushi in Norridge, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJiVtu-RjKD4gRewhKKxwDJTs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Neko Robata and Sushi Bar"
   type: Restaurant
   links: http://www.sushineko.com/
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Sushi Neko Robata and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Sushi Neko Robata and Sushi Bar serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbdXiZgMasocR-apoxaTgFB0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Azuma Sushi and Teppan Wyoming & Paseo Del Norte"
   type: Restaurant
   links: https://www.azuma-sushi-teppan-abq.com/
-description: "Looking for sushi in Albuquerque, New Mexico? Check out Azuma Sushi and Teppan Wyoming & Paseo Del Norte for a delightful Japanese dining experience. Enjoy a..."
+description: "Azuma Sushi and Teppan Wyoming & Paseo Del Norte serves delicious sushi in Albuquerque, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJZvaAJV1IocR4uyZN0dxI0k
 photos:
   - name: >-

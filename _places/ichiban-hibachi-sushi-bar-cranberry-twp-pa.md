@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Hibachi & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cranberry Twp, Pennsylvania? Check out Ichiban Hibachi & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Ichiban Hibachi & Sushi Bar serves delicious sushi in Cranberry Twp, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZQgNqlZ9NIgR5I-1s-p9U20
 photos:
   - name: >-

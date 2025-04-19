@@ -9,7 +9,7 @@ seo:
   name: "Ginzaya Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in La Mirada, California? Check out Ginzaya Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Ginzaya Sushi serves delicious sushi in La Mirada, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfdjIfGgr3YAR4IBwLELflp8
 photos:
   - name: >-

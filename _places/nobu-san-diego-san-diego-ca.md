@@ -9,7 +9,7 @@ seo:
   name: "Nobu San Diego"
   type: Restaurant
   links: https://www.noburestaurants.com/sandiego/home/?utm_source=google&utm_medium=Yext
-description: "Looking for sushi in San Diego, California? Check out Nobu San Diego for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Nobu San Diego serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJTTePWlpT2YARQlYBgNZDN7Q
 photos:
   - name: >-

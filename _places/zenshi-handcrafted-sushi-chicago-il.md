@@ -9,7 +9,7 @@ seo:
   name: "ZENSHI Handcrafted Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out ZENSHI Handcrafted Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "ZENSHI Handcrafted Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg0D3aZbTD4gRTV0lEle4zkA
 photos:
   - name: >-

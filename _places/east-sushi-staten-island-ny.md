@@ -9,7 +9,7 @@ seo:
   name: "East Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Staten Island, New York? Check out East Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "East Sushi serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMdmspK1LwokRkYEguoHA0jU
 photos:
   - name: >-

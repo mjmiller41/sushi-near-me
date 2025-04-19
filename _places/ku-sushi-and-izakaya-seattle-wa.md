@@ -9,7 +9,7 @@ seo:
   name: "Ku Sushi and Izakaya"
   type: Restaurant
   links: http://www.kusushiizakaya.com/
-description: "Looking for sushi in Seattle, Washington? Check out Ku Sushi and Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Ku Sushi and Izakaya serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh3EmgGEUkFQRRlT-TDOYsTo
 photos:
   - name: >-

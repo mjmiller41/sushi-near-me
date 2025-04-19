@@ -9,7 +9,7 @@ seo:
   name: "Akira"
   type: Restaurant
   links: null
-description: "Looking for sushi in Riverview, Florida? Check out Akira for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Akira serves delicious sushi in Riverview, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH2WkZ1LSwogR5TJcDPr7BdE
 photos:
   - name: >-

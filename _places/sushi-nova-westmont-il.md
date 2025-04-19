@@ -9,7 +9,7 @@ seo:
   name: "Sushi Nova"
   type: Restaurant
   links: null
-description: "Looking for sushi in Westmont, Illinois? Check out Sushi Nova for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Nova serves delicious sushi in Westmont, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJleMRE0xPDogRMWwWjSMKH8U
 photos:
   - name: >-

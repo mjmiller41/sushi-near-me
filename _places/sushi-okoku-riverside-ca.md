@@ -9,7 +9,7 @@ seo:
   name: "Sushi Okoku"
   type: Restaurant
   links: http://www.sushiokoku.com/
-description: "Strip-mall Japanese eatery serving sushi, noodles & curries, plus sake & beer, in a relaxed space. Looking for sushi in Riverside, California? Check out Sush..."
+description: "Strip-mall Japanese eatery serving sushi, noodles & curries, plus sake & beer, in a relaxed space. Sushi Okoku serves delicious sushi in Riverside, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3z8gFTa33IARQYqYD5e4qQ0
 photos:
   - name: >-

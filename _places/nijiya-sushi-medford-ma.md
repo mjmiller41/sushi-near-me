@@ -9,7 +9,7 @@ seo:
   name: "Nijiya Sushi"
   type: Restaurant
   links: http://www.nijiyasushi.net/
-description: "Laid-back locale offering all-you-can-eat sushi & other Japanese dishes, plus sake & lunch specials. Looking for sushi in Medford, Massachusetts? Check out N..."
+description: "Laid-back locale offering all-you-can-eat sushi & other Japanese dishes, plus sake & lunch specials. Nijiya Sushi serves delicious sushi in Medford, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJO9QXBrh244kRA0kF9QiZqXQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Musashi Sushiya"
   type: Restaurant
   links: http://www.musashisushiya.com/
-description: "Dimly lit Japanese eatery providing creative rolls & sushi plus a happy hour in relaxed environs. Looking for sushi in Lake Forest, California? Check out Mus..."
+description: "Dimly lit Japanese eatery providing creative rolls & sushi plus a happy hour in relaxed environs. Musashi Sushiya serves delicious sushi in Lake Forest, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJw1192Pvo3IARPVqFayAZ19k
 photos:
   - name: >-

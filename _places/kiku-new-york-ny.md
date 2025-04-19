@@ -9,7 +9,7 @@ seo:
   name: "Kiku"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Kiku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "Kiku serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxVVtJ_pYwokRwjrP0SjP1nU
 photos:
   - name: >-

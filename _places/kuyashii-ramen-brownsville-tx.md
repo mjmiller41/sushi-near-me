@@ -9,7 +9,7 @@ seo:
   name: "Kuyashii Ramen"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brownsville, Texas? Check out Kuyashii Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Kuyashii Ramen serves delicious sushi in Brownsville, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM3YlIiuVb4YRJuqVO3kebF0
 photos:
   - name: >-

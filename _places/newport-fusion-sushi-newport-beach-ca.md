@@ -9,7 +9,7 @@ seo:
   name: "Newport Fusion Sushi"
   type: Restaurant
   links: https://newportfusionsushi.com/
-description: "Unique sushi preparations & Japanese entrees served in an intimate space with contemporary decor. Looking for sushi in Newport Beach, California? Check out N..."
+description: "Unique sushi preparations & Japanese entrees served in an intimate space with contemporary decor. Newport Fusion Sushi serves delicious sushi in Newport Beach, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJb7SktzPn3IAReDAzqjXkh6M
 photos:
   - name: >-

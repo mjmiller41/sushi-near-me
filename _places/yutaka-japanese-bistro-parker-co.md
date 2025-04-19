@@ -9,7 +9,7 @@ seo:
   name: "Yutaka Japanese Bistro"
   type: Restaurant
   links: https://www.yutakaparker.com/
-description: "Looking for sushi in Parker, Colorado? Check out Yutaka Japanese Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Yutaka Japanese Bistro serves delicious sushi in Parker, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN7vKju6RbIcRfX-oHOJqwAk
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Gold Fish Asian Bistro & Sushi"
   type: Restaurant
   links: https://goldfishasianbistro.com/
-description: "Looking for sushi in Herriman, Utah? Check out Gold Fish Asian Bistro & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Gold Fish Asian Bistro & Sushi serves delicious sushi in Herriman, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY9VZqzWFUocRCUNVS9AGd4I
 photos:
   - name: >-

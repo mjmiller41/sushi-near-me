@@ -9,7 +9,7 @@ seo:
   name: "Asahi Sushi Bar & Restaurant"
   type: Restaurant
   links: https://www.asahiutah.com/order-online
-description: "Looking for sushi in Orem, Utah? Check out Asahi Sushi Bar & Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Asahi Sushi Bar & Restaurant serves delicious sushi in Orem, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZxdwzhiFTYcRaQIoUjKuZ0E
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Okawa Sushi and Grill"
   type: Restaurant
   links: https://www.okawasushigrill.com/
-description: "Looking for sushi in Modesto, California? Check out Okawa Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Okawa Sushi and Grill serves delicious sushi in Modesto, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4SMBCnpXkIARO0rSHY3Q0QE
 photos:
   - name: >-

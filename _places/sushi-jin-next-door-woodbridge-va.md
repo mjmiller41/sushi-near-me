@@ -9,7 +9,7 @@ seo:
   name: "Sushi Jin Next Door"
   type: Restaurant
   links: null
-description: "Looking for sushi in Woodbridge, Virginia? Check out Sushi Jin Next Door for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Sushi Jin Next Door serves delicious sushi in Woodbridge, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ21jtyQBWtokR44XBjwhEsT0
 photos:
   - name: >-

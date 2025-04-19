@@ -9,7 +9,7 @@ seo:
   name: "Rain Thai Sushi Cuisine"
   type: Restaurant
   links: http://www.rainthaimesquite.com/
-description: "Looking for sushi in Mesquite, Nevada? Check out Rain Thai Sushi Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Rain Thai Sushi Cuisine serves delicious sushi in Mesquite, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr98wmZwryoARRaITDRzzNe0
 photos:
   - name: >-

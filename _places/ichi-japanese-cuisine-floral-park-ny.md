@@ -9,7 +9,7 @@ seo:
   name: "Ichi Japanese cuisine"
   type: Restaurant
   links: null
-description: "Looking for sushi in Floral Park, New York? Check out Ichi Japanese cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Ichi Japanese cuisine serves delicious sushi in Floral Park, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLXUSAlJjwokRLLpPBaKNX6s
 photos:
   - name: >-

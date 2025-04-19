@@ -9,7 +9,7 @@ seo:
   name: "Momiji Sushi Restaurant - West Salem"
   type: Restaurant
   links: null
-description: "Looking for sushi in Salem, Oregon? Check out Momiji Sushi Restaurant - West Salem for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Momiji Sushi Restaurant - West Salem serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTduzznn_v1QRdfECSrlQNVI
 photos:
   - name: >-

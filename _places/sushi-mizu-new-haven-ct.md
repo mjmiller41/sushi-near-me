@@ -9,7 +9,7 @@ seo:
   name: "Sushi Mizu"
   type: Restaurant
   links: https://eatsushimizu.com/
-description: "Unpretentious venue featuring an ample sushi menu, plus familiar Japanese entrees & noodles. Looking for sushi in New Haven, Connecticut? Check out Sushi Miz..."
+description: "Unpretentious venue featuring an ample sushi menu, plus familiar Japanese entrees & noodles. Sushi Mizu serves delicious sushi in New Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJy6Ag3rHZ54kR8rgs0XQVYko
 photos:
   - name: >-

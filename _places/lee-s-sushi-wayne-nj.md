@@ -9,7 +9,7 @@ seo:
   name: "Lee's Sushi"
   type: Restaurant
   links: https://leesushiwayne.com/
-description: "Informal, family-friendly destination for hand rolls plus other Japanese & Korean standard dishes. Looking for sushi in Wayne, New Jersey? Check out Lee's Su..."
+description: "Informal, family-friendly destination for hand rolls plus other Japanese & Korean standard dishes. Lee's Sushi serves delicious sushi in Wayne, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ_3XU6rUDw4kR7QEXlrdCDtM
 photos:
   - name: >-

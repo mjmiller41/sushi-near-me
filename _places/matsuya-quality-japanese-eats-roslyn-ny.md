@@ -9,7 +9,7 @@ seo:
   name: "Matsuya Quality Japanese Eats"
   type: Restaurant
   links: null
-description: "Looking for sushi in Roslyn, New York? Check out Matsuya Quality Japanese Eats for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Matsuya Quality Japanese Eats serves delicious sushi in Roslyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGcr1m5eJwokRoTqqrFI8DUw
 photos:
   - name: >-

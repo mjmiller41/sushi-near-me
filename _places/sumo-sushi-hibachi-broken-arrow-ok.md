@@ -9,7 +9,7 @@ seo:
   name: "Sumo Sushi & Hibachi"
   type: Restaurant
   links: http://sumosushibrokenarrow.com/
-description: "Looking for sushi in Broken Arrow, Oklahoma? Check out Sumo Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Sumo Sushi & Hibachi serves delicious sushi in Broken Arrow, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaas6kayLtocRkq1EmydHFoY
 photos:
   - name: >-

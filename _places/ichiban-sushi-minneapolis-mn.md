@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Sushi"
   type: Restaurant
   links: https://www.ichibansushiedina.com/
-description: "Looking for sushi in Minneapolis, Minnesota? Check out Ichiban Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Ichiban Sushi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJ5VJbdpwl9ocR1_Bmq_Rq2gk
 photos:
   - name: >-

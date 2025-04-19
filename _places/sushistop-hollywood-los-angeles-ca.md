@@ -9,7 +9,7 @@ seo:
   name: "SushiStop Hollywood"
   type: Restaurant
   links: https://sushistop.com/locations/hollywood/
-description: "Looking for sushi in Los Angeles, California? Check out SushiStop Hollywood for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "SushiStop Hollywood serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPdKmy0a_woAR4rzPHGegdkE
 photos:
   - name: >-

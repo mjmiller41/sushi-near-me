@@ -9,7 +9,7 @@ seo:
   name: "Hana Japanese Eatery"
   type: Restaurant
   links: http://www.hanajapaneseeatery.com/
-description: "Looking for sushi in Phoenix, Arizona? Check out Hana Japanese Eatery for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Hana Japanese Eatery serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI0Pm7s8SK4cR9W3TGUVRS-M
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Poke Poke Sushi Bowl & Bubble Tea"
   type: Restaurant
   links: http://pokepokesushibowlbubbletea.com/?utm_source=gmb&utm_medium=referral
-description: "Looking for sushi in Port St. Lucie, Florida? Check out Poke Poke Sushi Bowl & Bubble Tea for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "Poke Poke Sushi Bowl & Bubble Tea serves delicious sushi in Port St. Lucie, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJW2_kLhPr3ogRZB3-Yp6F8QA
 photos:
   - name: >-

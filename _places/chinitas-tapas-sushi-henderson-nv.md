@@ -9,7 +9,7 @@ seo:
   name: "Chinitas Tapas & Sushi"
   type: Restaurant
   links: http://www.chinitastapas.com/
-description: "Looking for sushi in Henderson, Nevada? Check out Chinitas Tapas & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Chinitas Tapas & Sushi serves delicious sushi in Henderson, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbQHfSvfXyIARU17iK0Spv1A
 photos:
   - name: >-

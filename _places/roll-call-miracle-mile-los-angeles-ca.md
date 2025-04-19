@@ -9,7 +9,7 @@ seo:
   name: "Roll Call - Miracle Mile"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Roll Call - Miracle Mile for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Roll Call - Miracle Mile serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy49RN4G5woARHZCc5m_LnL8
 photos:
   - name: >-

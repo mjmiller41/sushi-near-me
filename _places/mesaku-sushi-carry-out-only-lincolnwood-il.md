@@ -9,7 +9,7 @@ seo:
   name: "Mesaku Sushi (Carry Out Only)"
   type: Restaurant
   links: http://www.mesaku.com/
-description: "Looking for sushi in Lincolnwood, Illinois? Check out Mesaku Sushi (Carry Out Only) for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Mesaku Sushi (Carry Out Only) serves delicious sushi in Lincolnwood, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ1ZYqqfzOD4gRLDfLleXleLc
 photos:
   - name: >-

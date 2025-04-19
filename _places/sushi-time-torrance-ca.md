@@ -9,7 +9,7 @@ seo:
   name: "Sushi Time"
   type: Restaurant
   links: null
-description: "Looking for sushi in Torrance, California? Check out Sushi Time for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Time serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXUaPQm9L3YARxRDGcpdK0uM
 photos:
   - name: >-

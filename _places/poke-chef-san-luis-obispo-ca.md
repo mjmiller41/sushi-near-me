@@ -9,7 +9,7 @@ seo:
   name: "POKE CHEF"
   type: Restaurant
   links: https://poke-chef.square.site/?location=11ef7ba2d19fc262ac3e3cecef6dbab4
-description: "Looking for sushi in San Luis Obispo, California? Check out POKE CHEF for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "POKE CHEF serves delicious sushi in San Luis Obispo, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ77eqcanx7IAR69jF_cUTcl8
 photos:
   - name: >-

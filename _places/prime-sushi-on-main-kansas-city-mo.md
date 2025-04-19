@@ -9,7 +9,7 @@ seo:
   name: "Prime Sushi On Main"
   type: Restaurant
   links: http://primesushikc.com/
-description: "Japanese plates & innovative sushi pair alongside signature cocktails in a casual dining room. Looking for sushi in Kansas City, Missouri? Check out Prime Su..."
+description: "Japanese plates & innovative sushi pair alongside signature cocktails in a casual dining room. Prime Sushi On Main serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJE0kybLzvwIcRv6hErUuH3cE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Chopstix"
   type: Restaurant
   links: http://www.chopstixgourmetnc.com/
-description: "Looking for sushi in Raleigh, North Carolina? Check out Chopstix for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Chopstix serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd-IfGKT3rIkR5de9q2DX4C0
 photos:
   - name: >-

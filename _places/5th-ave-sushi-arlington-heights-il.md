@@ -9,7 +9,7 @@ seo:
   name: "5th Ave Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Arlington Heights, Illinois? Check out 5th Ave Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "5th Ave Sushi serves delicious sushi in Arlington Heights, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLxsqAA-7D4gRMqjdBXd3JJo
 photos:
   - name: >-

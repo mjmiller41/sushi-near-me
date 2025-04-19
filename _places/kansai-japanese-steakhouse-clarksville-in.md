@@ -9,7 +9,7 @@ seo:
   name: "Kansai Japanese Steakhouse"
   type: Restaurant
   links: null
-description: "Looking for sushi in Clarksville, Indiana? Check out Kansai Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Kansai Japanese Steakhouse serves delicious sushi in Clarksville, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6RDkWfdxaYgRO9mIkIYsEWs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Neta Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Park Ridge, Illinois? Check out Neta Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Neta Sushi serves delicious sushi in Park Ridge, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVSTVi5zJD4gRFI6zE7OR_jo
 photos:
   - name: >-

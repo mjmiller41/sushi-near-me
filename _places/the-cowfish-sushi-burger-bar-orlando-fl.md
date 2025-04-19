@@ -9,7 +9,7 @@ seo:
   name: "The Cowfish® Sushi Burger Bar"
   type: Restaurant
   links: https://www.universalorlando.com/web/en/us/things-to-do/dining/the-cowfish
-description: "Bustling, family-friendly fusion eatery at Universal CityWalk with burgers, sushi & a full bar. Looking for sushi in Orlando, Florida? Check out The Cowfish®..."
+description: "Bustling, family-friendly fusion eatery at Universal CityWalk with burgers, sushi & a full bar. The Cowfish® Sushi Burger Bar serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJSfXhPed-54gR5flbxVwTdyc
 photos:
   - name: >-

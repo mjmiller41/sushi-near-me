@@ -9,7 +9,7 @@ seo:
   name: "Hapa Sushi Grill and Sake Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Boulder, Colorado? Check out Hapa Sushi Grill and Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Hapa Sushi Grill and Sake Bar serves delicious sushi in Boulder, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_UWoVybsa4cRpjH2zcbPG-A
 photos:
   - name: >-

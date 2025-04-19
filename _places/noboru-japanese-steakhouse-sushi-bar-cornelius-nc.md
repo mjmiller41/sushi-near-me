@@ -9,7 +9,7 @@ seo:
   name: "Noboru Japanese Steakhouse & Sushi Bar"
   type: Restaurant
   links: http://noborusteakhouse.com/
-description: "Looking for sushi in Cornelius, North Carolina? Check out Noboru Japanese Steakhouse & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety..."
+description: "Noboru Japanese Steakhouse & Sushi Bar serves delicious sushi in Cornelius, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvagaupSpVogRy_Cy9jUh-A0
 photos:
   - name: >-

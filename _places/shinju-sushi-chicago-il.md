@@ -9,7 +9,7 @@ seo:
   name: "Shinju Sushi"
   type: Restaurant
   links: http://www.shinjusushichicago.com/
-description: "Casual spot for raw & cooked Japanese fare with all-you-can-eat sushi plus lunch & dinner buffets. Looking for sushi in Chicago, Illinois? Check out Shinju S..."
+description: "Casual spot for raw & cooked Japanese fare with all-you-can-eat sushi plus lunch & dinner buffets. Shinju Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmU3XOWwpDogRxlrGyntgjao
 photos:
   - name: >-

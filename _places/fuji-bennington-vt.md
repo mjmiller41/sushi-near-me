@@ -9,7 +9,7 @@ seo:
   name: "Fuji"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bennington, Vermont? Check out Fuji for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Fuji serves delicious sushi in Bennington, Vermont. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ8hfcu2W4IkRQJaphiDac_8
 photos:
   - name: >-

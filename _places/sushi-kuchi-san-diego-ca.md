@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kuchi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Diego, California? Check out Sushi Kuchi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Kuchi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAzBGu-7_24ARYJqSQB8Njqk
 photos:
   - name: >-

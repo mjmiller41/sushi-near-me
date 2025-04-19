@@ -9,7 +9,7 @@ seo:
   name: "Shogun Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Carmichael, California? Check out Shogun Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Shogun Sushi serves delicious sushi in Carmichael, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWXKnmyDcmoARhypF-IlQaoE
 photos:
   - name: >-

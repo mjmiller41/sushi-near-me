@@ -9,7 +9,7 @@ seo:
   name: "Teharu Sushi Restaurant"
   type: Restaurant
   links: https://teharusushi.shop/
-description: "Looking for sushi in Tempe, Arizona? Check out Teharu Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Teharu Sushi Restaurant serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy6OQlSQEK4cRMYThPv_raxs
 photos:
   - name: >-

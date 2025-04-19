@@ -9,7 +9,7 @@ seo:
   name: "Tataki Ramen & Sushi"
   type: Restaurant
   links: https://order.mealkeyway.com/merchant/584964516c554339506764544b796c72796e4c5274413d3d/main
-description: "Looking for sushi in Philadelphia, Pennsylvania? Check out Tataki Ramen & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Tataki Ramen & Sushi serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD1diuaPHxokRkEESK041Yaw
 photos:
   - name: >-

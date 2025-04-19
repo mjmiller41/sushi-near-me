@@ -9,7 +9,7 @@ seo:
   name: "Oishi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Redmond, Oregon? Check out Oishi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Oishi serves delicious sushi in Redmond, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPdBp-tkqv1QR2NREwgiIowk
 photos:
   - name: >-

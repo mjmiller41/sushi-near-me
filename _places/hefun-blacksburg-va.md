@@ -9,7 +9,7 @@ seo:
   name: "Hefun"
   type: Restaurant
   links: https://blacksburghefun.com/
-description: "Looking for sushi in Blacksburg, Virginia? Check out Hefun for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Hefun serves delicious sushi in Blacksburg, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQZw4VGOVTYgRizx5s-PVKHA
 photos:
   - name: >-

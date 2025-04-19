@@ -9,7 +9,7 @@ seo:
   name: "Koi Koi Sushi and Roll"
   type: Restaurant
   links: http://koikoisushi.com/
-description: "Japanese find with an illustrated menu of cooked eats, plus tempura rolls & other specialty sushi. Looking for sushi in Falls Church, Virginia? Check out Koi..."
+description: "Japanese find with an illustrated menu of cooked eats, plus tempura rolls & other specialty sushi. Koi Koi Sushi and Roll serves delicious sushi in Falls Church, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5SEG-MO0t4kRH_lTssh5TX0
 photos:
   - name: >-

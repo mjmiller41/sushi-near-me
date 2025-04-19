@@ -9,7 +9,7 @@ seo:
   name: "Neon Kitten Izakaya"
   type: Restaurant
   links: http://neonkittendallas.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8269973434941890337
-description: "Looking for sushi in Dallas, Texas? Check out Neon Kitten Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Neon Kitten Izakaya serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW6rHnJCZToYRR-e3oWjRPVw
 photos:
   - name: >-

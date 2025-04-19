@@ -9,7 +9,7 @@ seo:
   name: "Koto Japanese Steak House"
   type: Restaurant
   links: http://www.kotosteakhouse.com/
-description: "Looking for sushi in Tampa, Florida? Check out Koto Japanese Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Koto Japanese Steak House serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo-6FVmTDwogRzG0bqGGIbrQ
 photos:
   - name: >-

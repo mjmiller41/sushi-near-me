@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Hanover"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hanover, Maryland? Check out Bonchon Hanover for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Bonchon Hanover serves delicious sushi in Hanover, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaTFNe-bjt4kRCZEFXKFHYhA
 photos:
   - name: >-

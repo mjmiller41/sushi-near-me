@@ -9,7 +9,7 @@ seo:
   name: "Marumi"
   type: Restaurant
   links: https://www.marumi.nyc/
-description: "Along with sushi, this Japanese joint offers bento boxes, udon noodles & other cooked fare. Looking for sushi in New York, New York? Check out Marumi for a d..."
+description: "Along with sushi, this Japanese joint offers bento boxes, udon noodles & other cooked fare. Marumi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM_hKtpFZwokRBMH-ozSrBNQ
 photos:
   - name: >-

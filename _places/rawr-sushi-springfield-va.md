@@ -9,7 +9,7 @@ seo:
   name: "RAWR Sushi"
   type: Restaurant
   links: http://www.rawrsushi.com/
-description: "Small, simple sushi bar turning out familiar rolls, plus Japanese kitchen entrees & bento boxes. Looking for sushi in Springfield, Virginia? Check out RAWR S..."
+description: "Small, simple sushi bar turning out familiar rolls, plus Japanese kitchen entrees & bento boxes. RAWR Sushi serves delicious sushi in Springfield, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0wZ1DKmyt4kR0LWXHMY-5X4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Hiramasa"
   type: Restaurant
   links: https://www.hiramasapa.com/
-description: "Looking for sushi in Newtown Square, Pennsylvania? Check out Hiramasa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Hiramasa serves delicious sushi in Newtown Square, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJo1rtnFvrxokRVTvQe_Nuihk
 photos:
   - name: >-

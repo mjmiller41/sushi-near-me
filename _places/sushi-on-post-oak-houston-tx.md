@@ -9,7 +9,7 @@ seo:
   name: "Sushi On Post Oak"
   type: Restaurant
   links: https://sopohouston.com/
-description: "Looking for sushi in Houston, Texas? Check out Sushi On Post Oak for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi On Post Oak serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe5qsjvfBQIYR-XEHm31kAvs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "SUGARFISH by sushi nozawa"
   type: Restaurant
   links: null
-description: "Looking for sushi in Marina Del Rey, California? Check out SUGARFISH by sushi nozawa for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "SUGARFISH by sushi nozawa serves delicious sushi in Marina Del Rey, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoQYoin-6woARD9eSq3OWN8w
 photos:
   - name: >-

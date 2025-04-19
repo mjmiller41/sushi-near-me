@@ -9,7 +9,7 @@ seo:
   name: "The Blue Fish Allen"
   type: Restaurant
   links: null
-description: "Looking for sushi in Allen, Texas? Check out The Blue Fish Allen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "The Blue Fish Allen serves delicious sushi in Allen, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo3V-oV0XTIYRb7l6k6CJnFo
 photos:
   - name: >-

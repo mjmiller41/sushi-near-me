@@ -9,7 +9,7 @@ seo:
   name: "ippin ramen & sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Broken Arrow, Oklahoma? Check out ippin ramen & sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "ippin ramen & sushi serves delicious sushi in Broken Arrow, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc_5-VeeLtocRNuF8ve8LbME
 photos:
   - name: >-

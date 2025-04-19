@@ -9,7 +9,7 @@ seo:
   name: "So Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tarzana, California? Check out So Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "So Sushi serves delicious sushi in Tarzana, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYVlCgkCZwoARpYOR1kXW1ns
 photos:
   - name: >-

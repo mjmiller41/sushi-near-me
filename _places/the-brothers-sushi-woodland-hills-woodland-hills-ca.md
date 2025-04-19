@@ -9,7 +9,7 @@ seo:
   name: "The Brothers Sushi Woodland Hills"
   type: Restaurant
   links: null
-description: "Looking for sushi in Woodland Hills, California? Check out The Brothers Sushi Woodland Hills for a delightful Japanese dining experience. Enjoy a variety of ..."
+description: "The Brothers Sushi Woodland Hills serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIWGWwLSfwoARZIgfhtnSQsk
 photos:
   - name: >-

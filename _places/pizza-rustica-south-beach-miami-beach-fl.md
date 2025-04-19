@@ -9,7 +9,7 @@ seo:
   name: "Pizza Rustica South Beach"
   type: Restaurant
   links: null
-description: "Looking for sushi in Miami Beach, Florida? Check out Pizza Rustica South Beach for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Pizza Rustica South Beach serves delicious sushi in Miami Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5Xezn4202YgRcx9NTyuGQPo
 photos:
   - name: >-

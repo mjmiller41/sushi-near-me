@@ -9,7 +9,7 @@ seo:
   name: "W & Z Asian bistro & sushi bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Payson, Arizona? Check out W & Z Asian bistro & sushi bar for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "W & Z Asian bistro & sushi bar serves delicious sushi in Payson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkxCPBf0RLIcR0Cru9jCRFVU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Beijing Chinese Restaurant"
   type: Restaurant
   links: https://www.beijingchinesedining.com/
-description: "Looking for sushi in Lexington, Massachusetts? Check out Beijing Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Beijing Chinese Restaurant serves delicious sushi in Lexington, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq4k-NcWd44kR5FSQUYXKP7w
 photos:
   - name: >-

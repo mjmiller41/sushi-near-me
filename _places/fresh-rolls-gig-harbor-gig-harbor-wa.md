@@ -9,7 +9,7 @@ seo:
   name: "Fresh Rolls Gig Harbor"
   type: Restaurant
   links: null
-description: "Looking for sushi in Gig Harbor, Washington? Check out Fresh Rolls Gig Harbor for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Fresh Rolls Gig Harbor serves delicious sushi in Gig Harbor, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiUGd9S1TkFQRFFdzp9XUwcg
 photos:
   - name: >-

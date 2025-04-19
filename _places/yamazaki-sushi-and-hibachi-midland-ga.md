@@ -9,7 +9,7 @@ seo:
   name: "Yamazaki Sushi and Hibachi"
   type: Restaurant
   links: https://www.yamazakisushiandhibachi.com/
-description: "Looking for sushi in Midland, Georgia? Check out Yamazaki Sushi and Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Yamazaki Sushi and Hibachi serves delicious sushi in Midland, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ62RwrhA084gRr-cm_VuLAVg
 photos:
   - name: >-

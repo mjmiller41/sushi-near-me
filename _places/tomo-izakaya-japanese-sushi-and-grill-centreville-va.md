@@ -9,7 +9,7 @@ seo:
   name: "Tomo Izakaya Japanese Sushi and Grill"
   type: Restaurant
   links: http://www.tomosushigrill.com/
-description: "Cozy, laid-back izakaya in a strip mall with late hours & a sushi bar, plus Japanese entrees & sake. Looking for sushi in Centreville, Virginia? Check out To..."
+description: "Cozy, laid-back izakaya in a strip mall with late hours & a sushi bar, plus Japanese entrees & sake. Tomo Izakaya Japanese Sushi and Grill serves delicious sushi in Centreville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNd7n5fxEtokR29eJKuaJ4iI
 photos:
   - name: >-

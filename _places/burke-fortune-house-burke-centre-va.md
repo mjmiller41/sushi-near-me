@@ -9,7 +9,7 @@ seo:
   name: "Burke Fortune House"
   type: Restaurant
   links: https://www.facebook.com/Burke-Fortune-House-195764490464708/
-description: "Relaxed Japanese eatery serving sushi, noodles & teriyaki in a narrow, traditional space. Looking for sushi in Burke Centre, Virginia? Check out Burke Fortun..."
+description: "Relaxed Japanese eatery serving sushi, noodles & teriyaki in a narrow, traditional space. Burke Fortune House serves delicious sushi in Burke Centre, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJecNpFONRtokR9sqXMb2Ypts
 photos:
   - name: >-

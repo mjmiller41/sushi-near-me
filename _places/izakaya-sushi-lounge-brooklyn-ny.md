@@ -9,7 +9,7 @@ seo:
   name: "Izakaya Sushi & Lounge"
   type: Restaurant
   links: https://www.izakayasushilounge.com/
-description: "Looking for sushi in Brooklyn, New York? Check out Izakaya Sushi & Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Izakaya Sushi & Lounge serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2z7-Y5RFwokRH1BRDyxe9vM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "RA Sushi Bar Restaurant"
   type: Restaurant
   links: https://rasushi.com/
-description: "Looking for sushi in Las Vegas, Nevada? Check out RA Sushi Bar Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "RA Sushi Bar Restaurant serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfVxGHxTEyIAR64bEFf7buxw
 photos:
   - name: >-

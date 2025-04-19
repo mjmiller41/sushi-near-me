@@ -9,7 +9,7 @@ seo:
   name: "Ike's Japanese Kitchen"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Ike's Japanese Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Ike's Japanese Kitchen serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkaNdBZeAhYARMYOh91wB560
 photos:
   - name: >-

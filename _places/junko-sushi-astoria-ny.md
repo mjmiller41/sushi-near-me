@@ -9,7 +9,7 @@ seo:
   name: "Junko Sushi"
   type: Restaurant
   links: https://www.junkosushi-astoria.com/?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Astoria, New York? Check out Junko Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Junko Sushi serves delicious sushi in Astoria, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmzOcKQxfwokRReun14IvXz4
 photos:
   - name: >-

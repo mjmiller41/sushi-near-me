@@ -9,7 +9,7 @@ seo:
   name: "Kumori Sushi & Teppanyaki Palms Crossing"
   type: Restaurant
   links: null
-description: "Looking for sushi in McAllen, Texas? Check out Kumori Sushi & Teppanyaki Palms Crossing for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Kumori Sushi & Teppanyaki Palms Crossing serves delicious sushi in McAllen, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_bTq5HCnZYYRvDk0b0I-2KE
 photos:
   - name: >-

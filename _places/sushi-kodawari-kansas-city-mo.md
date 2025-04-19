@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kodawari"
   type: Restaurant
   links: http://www.sushikodawari.com/
-description: "Looking for sushi in Kansas City, Missouri? Check out Sushi Kodawari for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Kodawari serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJ3ZC-RRfxwIcREBi1SUGMQdE
 photos:
   - name: >-

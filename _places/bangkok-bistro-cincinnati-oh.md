@@ -9,7 +9,7 @@ seo:
   name: "Bangkok Bistro"
   type: Restaurant
   links: http://www.bkkhydepark.com/
-description: "Casual eatery fixing up hearty noodle, sushi, tempura & curry dishes for dine-in or takeout. Looking for sushi in Cincinnati, Ohio? Check out Bangkok Bistro ..."
+description: "Casual eatery fixing up hearty noodle, sushi, tempura & curry dishes for dine-in or takeout. Bangkok Bistro serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5WliN5-tQYgRtVOSoPjh5pE
 photos:
   - name: >-

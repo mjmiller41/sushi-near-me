@@ -9,7 +9,7 @@ seo:
   name: "Ikiiki Sushi Bar Japanese & Chinese Cuisine"
   type: Restaurant
   links: null
-description: "Looking for sushi in Seattle, Washington? Check out Ikiiki Sushi Bar Japanese & Chinese Cuisine for a delightful Japanese dining experience. Enjoy a variety ..."
+description: "Ikiiki Sushi Bar Japanese & Chinese Cuisine serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnxblcRIVkFQRR9RjWQYUMUc
 photos:
   - name: >-

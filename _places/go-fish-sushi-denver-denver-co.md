@@ -9,7 +9,7 @@ seo:
   name: "Go Fish Sushi Denver"
   type: Restaurant
   links: null
-description: "Looking for sushi in Denver, Colorado? Check out Go Fish Sushi Denver for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Go Fish Sushi Denver serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw8dMmh9_bIcRZMATPy9nWwo
 photos:
   - name: >-

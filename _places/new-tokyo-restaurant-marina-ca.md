@@ -9,7 +9,7 @@ seo:
   name: "New Tokyo Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Marina, California? Check out New Tokyo Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "New Tokyo Restaurant serves delicious sushi in Marina, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJLTIVp9n8jYARboyvnB7tN00
 photos:
   - name: >-

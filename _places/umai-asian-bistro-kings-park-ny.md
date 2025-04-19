@@ -9,7 +9,7 @@ seo:
   name: "Umai Asian Bistro"
   type: Restaurant
   links: https://www.umaiasianbistro.com/
-description: "Looking for sushi in Kings Park, New York? Check out Umai Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Umai Asian Bistro serves delicious sushi in Kings Park, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJASU3RgE76IkR21r-pwyqUao
 photos:
   - name: >-

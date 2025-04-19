@@ -9,7 +9,7 @@ seo:
   name: "Sushi & Sub"
   type: Restaurant
   links: null
-description: "Looking for sushi in Jacksonville, Florida? Check out Sushi & Sub for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi & Sub serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJufmmkne25YgRZwHaseDL4Pk
 photos:
   - name: >-

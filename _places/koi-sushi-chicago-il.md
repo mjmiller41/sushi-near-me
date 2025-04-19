@@ -9,7 +9,7 @@ seo:
   name: "Koi Sushi"
   type: Restaurant
   links: https://www.koisushiillinois.com/
-description: "Modern restaurant showcasing creative sushi, appetizers & all-you-can-eat dishes in a breezy space. Looking for sushi in Chicago, Illinois? Check out Koi Sus..."
+description: "Modern restaurant showcasing creative sushi, appetizers & all-you-can-eat dishes in a breezy space. Koi Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzTV8o1rTD4gRlRwypjCllm0
 photos:
   - name: >-

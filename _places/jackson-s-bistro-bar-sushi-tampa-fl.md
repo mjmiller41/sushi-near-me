@@ -9,7 +9,7 @@ seo:
   name: "Jackson's Bistro, Bar & Sushi"
   type: Restaurant
   links: https://www.jacksonsbistro.com/
-description: "Looking for sushi in Tampa, Florida? Check out Jackson's Bistro, Bar & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Jackson's Bistro, Bar & Sushi serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF3KEwZLEwogRaqYCFY7x_0k
 photos:
   - name: >-

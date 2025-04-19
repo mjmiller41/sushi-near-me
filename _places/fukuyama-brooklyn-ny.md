@@ -9,7 +9,7 @@ seo:
   name: "Fukuyama"
   type: Restaurant
   links: http://www.fukuyamaasianfusion.com/?utm_source=gmb&utm_medium=website
-description: "Compact, casual Japanese eatery serving sushi & sashimi, plus ramen, teriyaki & more. Looking for sushi in Brooklyn, New York? Check out Fukuyama for a delig..."
+description: "Compact, casual Japanese eatery serving sushi & sashimi, plus ramen, teriyaki & more. Fukuyama serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe6p921lZwokRhA50_MIlfR0
 photos:
   - name: >-

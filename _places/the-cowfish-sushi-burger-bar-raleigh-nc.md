@@ -9,7 +9,7 @@ seo:
   name: "The Cowfish Sushi Burger Bar"
   type: Restaurant
   links: http://thecowfish.com/
-description: "Gourmet burgers & sushi, & fusion combos of the 2, plus beer & spirits in a vibrant, colorful space. Looking for sushi in Raleigh, North Carolina? Check out ..."
+description: "Gourmet burgers & sushi, & fusion combos of the 2, plus beer & spirits in a vibrant, colorful space. The Cowfish Sushi Burger Bar serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ660nrZZYrIkRP9AQVS2sBHI
 photos:
   - name: >-

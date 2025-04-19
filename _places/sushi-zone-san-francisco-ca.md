@@ -9,7 +9,7 @@ seo:
   name: "Sushi Zone"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Sushi Zone for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Zone serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ2XZ-Z-AhYARIPyY07HwxVg
 photos:
   - name: >-

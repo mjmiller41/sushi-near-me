@@ -9,7 +9,7 @@ seo:
   name: "Sushi One"
   type: Restaurant
   links: http://www.sushionepdx.com/
-description: "Looking for sushi in Portland, Oregon? Check out Sushi One for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Sushi One serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJzUxPqGnlVQRG8HkL8en8go
 photos:
   - name: >-

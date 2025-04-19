@@ -9,7 +9,7 @@ seo:
   name: "Hanabishi Japanese Cuisine"
   type: Restaurant
   links: http://www.hanabishi-restaurant.com/
-description: "Looking for sushi in Livermore, California? Check out Hanabishi Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Hanabishi Japanese Cuisine serves delicious sushi in Livermore, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsWQvA77nj4AR_kZCf64gg0s
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Edamami"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Diego, California? Check out Edamami for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Edamami serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv3dOZ2n-24ARkqdERvqRYfY
 photos:
   - name: >-

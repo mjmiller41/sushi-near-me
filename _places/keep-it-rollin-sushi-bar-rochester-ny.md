@@ -9,7 +9,7 @@ seo:
   name: "Keep it Rollin' Sushi Bar"
   type: Restaurant
   links: http://www.keepitrollinsushibar.com/
-description: "Looking for sushi in Rochester, New York? Check out Keep it Rollin' Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Keep it Rollin' Sushi Bar serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ14ibI0O11okRjTFWH9XLUDw
 photos:
   - name: >-

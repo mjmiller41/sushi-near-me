@@ -9,7 +9,7 @@ seo:
   name: "Izu Sushi Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Long Branch, New Jersey? Check out Izu Sushi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Izu Sushi Japanese Restaurant serves delicious sushi in Long Branch, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd49OPgIlwokRUcvx7t7FSU8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Wild Rice Sushi and Grill"
   type: Restaurant
   links: http://www.wildricesushi.net/
-description: "Looking for sushi in Naperville, Illinois? Check out Wild Rice Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Wild Rice Sushi and Grill serves delicious sushi in Naperville, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9TXG7oxXDogRZFhKm2ai0fw
 photos:
   - name: >-

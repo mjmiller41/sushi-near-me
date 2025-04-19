@@ -9,7 +9,7 @@ seo:
   name: "Señor Sushi & Teppanyaki"
   type: Restaurant
   links: null
-description: "Looking for sushi in Peoria, Arizona? Check out Señor Sushi & Teppanyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Señor Sushi & Teppanyaki serves delicious sushi in Peoria, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVTrzGeZrK4cRZlQOr5T7SrA
 photos:
   - name: >-

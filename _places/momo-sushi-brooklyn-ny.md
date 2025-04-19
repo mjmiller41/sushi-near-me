@@ -9,7 +9,7 @@ seo:
   name: "Momo Sushi"
   type: Restaurant
   links: https://www.momosushibrooklyn.com/
-description: "Looking for sushi in Brooklyn, New York? Check out Momo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Momo Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlac2emFbwokRVv6A4pREVmE
 photos:
   - name: >-

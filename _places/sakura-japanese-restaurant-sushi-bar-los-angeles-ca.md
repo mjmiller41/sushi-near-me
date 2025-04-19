@@ -9,7 +9,7 @@ seo:
   name: "Sakura Japanese Restaurant & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Sakura Japanese Restaurant & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety o..."
+description: "Sakura Japanese Restaurant & Sushi Bar serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ46_3-HG6woARcsGxXVJhqoo
 photos:
   - name: >-

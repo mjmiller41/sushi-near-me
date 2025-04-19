@@ -9,7 +9,7 @@ seo:
   name: "Tsuke Edomae"
   type: Restaurant
   links: http://www.tsukeedo.com/
-description: "Looking for sushi in Austin, Texas? Check out Tsuke Edomae for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Tsuke Edomae serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp30jG-S1RIYRmjvTat08Eno
 photos:
   - name: >-

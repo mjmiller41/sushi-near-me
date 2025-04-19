@@ -9,7 +9,7 @@ seo:
   name: "Bonsai Korean Cuisine"
   type: Restaurant
   links: https://www.bonsaimn.com/
-description: "Restaurant for a wide range of Korean dishes in a small, contemporary interior. Looking for sushi in Chanhassen, Minnesota? Check out Bonsai Korean Cuisine f..."
+description: "Restaurant for a wide range of Korean dishes in a small, contemporary interior. Bonsai Korean Cuisine serves delicious sushi in Chanhassen, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgQPfE5ob9ocRA9Juobe6sFs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Komé Sushi and Handroll Bar"
   type: Restaurant
   links: https://komedallas.com/
-description: "Looking for sushi in Dallas, Texas? Check out Komé Sushi and Handroll Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Komé Sushi and Handroll Bar serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_4ff0SCfToYRlen7iRUXYiw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Miyabi Sushi & Asian Bistro"
   type: Restaurant
   links: http://www.miyabiexcelsior.com/
-description: "Creative sushi rolls share the menu with Japanese, Chinese & Thai entrees in a relaxed space. Looking for sushi in Excelsior, Minnesota? Check out Miyabi Sus..."
+description: "Creative sushi rolls share the menu with Japanese, Chinese & Thai entrees in a relaxed space. Miyabi Sushi & Asian Bistro serves delicious sushi in Excelsior, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSbYhtdsc9ocRftkMpW88M60
 photos:
   - name: >-

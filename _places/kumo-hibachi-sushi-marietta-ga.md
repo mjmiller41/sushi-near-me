@@ -9,7 +9,7 @@ seo:
   name: "Kumo Hibachi Sushi"
   type: Restaurant
   links: http://www.kumomarietta.com/
-description: "Relaxed, contemporary Japanese place offering sushi rolls & grilled fare, plus lunch specials. Looking for sushi in Marietta, Georgia? Check out Kumo Hibachi..."
+description: "Relaxed, contemporary Japanese place offering sushi rolls & grilled fare, plus lunch specials. Kumo Hibachi Sushi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsRgi_DsT9YgRNewJDMaBglc
 photos:
   - name: >-

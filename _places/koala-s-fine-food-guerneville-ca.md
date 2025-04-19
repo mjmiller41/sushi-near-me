@@ -9,7 +9,7 @@ seo:
   name: "Koala's Fine Food"
   type: Restaurant
   links: null
-description: "Looking for sushi in Guerneville, California? Check out Koala's Fine Food for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Koala's Fine Food serves delicious sushi in Guerneville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ84aygFcfhIAR_fpGmRtarFw
 photos:
   - name: >-

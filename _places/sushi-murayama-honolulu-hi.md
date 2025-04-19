@@ -9,7 +9,7 @@ seo:
   name: "Sushi Murayama"
   type: Restaurant
   links: null
-description: "Looking for sushi in Honolulu, Hawaii? Check out Sushi Murayama for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Murayama serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvxR84u5tAHwRktnaAYbh-i0
 photos:
   - name: >-

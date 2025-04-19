@@ -9,7 +9,7 @@ seo:
   name: "Kim's Bap Yeoubi(K-food)"
   type: Restaurant
   links: https://www.toasttab.com/hankki
-description: "Looking for sushi in Orion Twp, Michigan? Check out Kim's Bap Yeoubi(K-food) for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Kim's Bap Yeoubi(K-food) serves delicious sushi in Orion Twp, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR25e3buVJIgRvzeLE5hNHbI
 photos:
   - name: >-

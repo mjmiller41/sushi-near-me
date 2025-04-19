@@ -9,7 +9,7 @@ seo:
   name: "Kona Grill - Kansas City"
   type: Restaurant
   links: https://konagrill.com/locations?locations=Kansas-City,64112
-description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Looking for sushi in Kansas City, Missouri? Check out Kona ..."
+description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Kona Grill - Kansas City serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJX-ddzrnvwIcRt8BxRSdH56Y
 photos:
   - name: >-

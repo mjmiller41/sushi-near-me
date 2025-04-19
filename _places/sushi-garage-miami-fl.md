@@ -9,7 +9,7 @@ seo:
   name: "Sushi Garage"
   type: Restaurant
   links: null
-description: "Looking for sushi in Miami, Florida? Check out Sushi Garage for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Sushi Garage serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD7hAZwC12YgRMrW7-kdUafE
 photos: null
 address: 401 Biscayne Blvd, Miami, FL 33132, USA

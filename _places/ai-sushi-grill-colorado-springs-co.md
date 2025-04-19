@@ -9,7 +9,7 @@ seo:
   name: "AI Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Colorado Springs, Colorado? Check out AI Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "AI Sushi & Grill serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcXEQrYJIE4cRFLsqdbhEsEM
 photos:
   - name: >-

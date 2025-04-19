@@ -9,7 +9,7 @@ seo:
   name: "Poke Poke - Sushi Unrolled"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ann Arbor, Michigan? Check out Poke Poke - Sushi Unrolled for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Poke Poke - Sushi Unrolled serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbYoAS0WvPIgRYIx-o2hX2kQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "UMI Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ellicott City, Maryland? Check out UMI Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "UMI Sushi serves delicious sushi in Ellicott City, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJabcgRYcfyIkRHMA3UtzF03E
 photos:
   - name: >-

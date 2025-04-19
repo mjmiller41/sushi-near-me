@@ -9,7 +9,7 @@ seo:
   name: "Hashtag Poki"
   type: Restaurant
   links: https://www.hashtagpoki.com/
-description: "Looking for sushi in Berkeley, California? Check out Hashtag Poki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Hashtag Poki serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ5YuVdF9hYARogcGnKrY_Q0
 photos:
   - name: >-

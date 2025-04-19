@@ -9,7 +9,7 @@ seo:
   name: "Ajisai"
   type: Restaurant
   links: http://www.ajisai3.com/
-description: "Modern restaurant featuring a variety of sushi rolls & other Japanese dishes in a moody atmosphere. Looking for sushi in Raleigh, North Carolina? Check out A..."
+description: "Modern restaurant featuring a variety of sushi rolls & other Japanese dishes in a moody atmosphere. Ajisai serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVdwS3Ir1rIkRG8WjkAkvYN8
 photos:
   - name: >-

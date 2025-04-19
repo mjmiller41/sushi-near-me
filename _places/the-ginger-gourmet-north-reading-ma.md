@@ -9,7 +9,7 @@ seo:
   name: "The Ginger Gourmet"
   type: Restaurant
   links: https://thegingergourmet.com/
-description: "Looking for sushi in North Reading, Massachusetts? Check out The Ginger Gourmet for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "The Ginger Gourmet serves delicious sushi in North Reading, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJZ_aDl8J44kRgGRgHyadIzo
 photos:
   - name: >-

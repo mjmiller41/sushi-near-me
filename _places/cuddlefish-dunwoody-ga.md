@@ -9,7 +9,7 @@ seo:
   name: "Cuddlefish"
   type: Restaurant
   links: https://www.cuddlefishatl.com/
-description: "Looking for sushi in Dunwoody, Georgia? Check out Cuddlefish for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Cuddlefish serves delicious sushi in Dunwoody, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery."
 place_id: ChIJtdKgDAcJ9YgRRp3VA6b9tGU
 photos:
   - name: >-

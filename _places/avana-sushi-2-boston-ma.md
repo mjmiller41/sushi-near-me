@@ -9,7 +9,7 @@ seo:
   name: "Avana Sushi 2"
   type: Restaurant
   links: http://www.avanaboston.com/
-description: "Looking for sushi in Boston, Massachusetts? Check out Avana Sushi 2 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Avana Sushi 2 serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm6CxbAZx44kRDEILxKgf2Rw
 photos:
   - name: >-

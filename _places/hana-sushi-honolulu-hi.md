@@ -9,7 +9,7 @@ seo:
   name: "Hana Sushi"
   type: Restaurant
   links: http://hanasushihawaii.com/
-description: "Looking for sushi in Honolulu, Hawaii? Check out Hana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Hana Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK6v1W2cSAHwRrGungn6hbpI
 photos:
   - name: >-

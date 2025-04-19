@@ -9,7 +9,7 @@ seo:
   name: "Messi Soul Kitchen - Riverside"
   type: Restaurant
   links: null
-description: "Looking for sushi in Riverside, California? Check out Messi Soul Kitchen - Riverside for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Messi Soul Kitchen - Riverside serves delicious sushi in Riverside, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1W4_cAC33IARcRU29HT3boE
 photos:
   - name: >-

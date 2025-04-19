@@ -9,7 +9,7 @@ seo:
   name: "Quickway Japanese Hibachi"
   type: Restaurant
   links: https://quickwayhibachi.com/
-description: "Japanese chain preparing teppanyaki and sushi for lunch and dinner in casual environs. Looking for sushi in Oxon Hill, Maryland? Check out Quickway Japanese ..."
+description: "Japanese chain preparing teppanyaki and sushi for lunch and dinner in casual environs. Quickway Japanese Hibachi serves delicious sushi in Oxon Hill, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUT2uUme7t4kRXAlxiU5rJdw
 photos:
   - name: >-

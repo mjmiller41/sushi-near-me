@@ -9,7 +9,7 @@ seo:
   name: "Sushi Station Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Eugene, Oregon? Check out Sushi Station Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Sushi Station Japanese Restaurant serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlZF8gBEewVQRYO3qS-z6U00
 photos:
   - name: >-

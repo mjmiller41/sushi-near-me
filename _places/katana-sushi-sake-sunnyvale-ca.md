@@ -9,7 +9,7 @@ seo:
   name: "Katana Sushi & Sake"
   type: Restaurant
   links: http://katanasushi.com/
-description: "Sushi & rolls plus sake drinks served in a space with exposed ceiling joists & Japanese flourishes. Looking for sushi in Sunnyvale, California? Check out Kat..."
+description: "Sushi & rolls plus sake drinks served in a space with exposed ceiling joists & Japanese flourishes. Katana Sushi & Sake serves delicious sushi in Sunnyvale, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIXcwTWW2j4ARVDz5yTgT9Nw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mako"
   type: Restaurant
   links: http://www.makochicago.com/
-description: "Elaborate, seasonal sushi presentations make up the multiple courses at this sleek, upscale eatery. Looking for sushi in Chicago, Illinois? Check out Mako fo..."
+description: "Elaborate, seasonal sushi presentations make up the multiple courses at this sleek, upscale eatery. Mako serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJDdy6PActDogRtHVYT64x2sY
 photos:
   - name: >-

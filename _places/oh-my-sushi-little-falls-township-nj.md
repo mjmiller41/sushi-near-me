@@ -9,7 +9,7 @@ seo:
   name: "Oh My Sushi"
   type: Restaurant
   links: https://www.ohmysushinj.com/
-description: "Looking for sushi in Little Falls Township, New Jersey? Check out Oh My Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Oh My Sushi serves delicious sushi in Little Falls Township, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJFT9peZIBw4kR4KYZxuMCREA
 photos:
   - name: >-

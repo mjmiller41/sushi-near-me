@@ -9,7 +9,7 @@ seo:
   name: "Queen Sushi"
   type: Restaurant
   links: https://www.queensushi.us/
-description: "No-frills Asian eatery with a long menu covering various Chinese, Japanese & Thai staples. Looking for sushi in Glenside, Pennsylvania? Check out Queen Sushi..."
+description: "No-frills Asian eatery with a long menu covering various Chinese, Japanese & Thai staples. Queen Sushi serves delicious sushi in Glenside, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsT81a5uwxokRy1bIrGDV4RE
 photos:
   - name: >-

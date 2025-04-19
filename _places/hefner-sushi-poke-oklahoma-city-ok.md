@@ -9,7 +9,7 @@ seo:
   name: "Hefner Sushi & Poke"
   type: Restaurant
   links: https://www.hefnersushi.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1917875245380930929
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out Hefner Sushi & Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Hefner Sushi & Poke serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTQR7dTEFsocR9zHOxx5FniE
 photos:
   - name: >-

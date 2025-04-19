@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Convoy"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Diego, California? Check out Bonchon Convoy for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Bonchon Convoy serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH4ILl0v_24ARDgQ9mQLdpds
 photos:
   - name: >-

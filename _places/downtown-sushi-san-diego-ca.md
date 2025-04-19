@@ -9,7 +9,7 @@ seo:
   name: "Downtown Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Diego, California? Check out Downtown Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Downtown Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt7rN8KdU2YARMBTEKjU3Owc
 photos:
   - name: >-

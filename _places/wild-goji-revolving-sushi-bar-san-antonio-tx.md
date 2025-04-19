@@ -9,7 +9,7 @@ seo:
   name: "Wild Goji Revolving Sushi & Bar"
   type: Restaurant
   links: http://www.wildgojisatx.com/
-description: "Looking for sushi in San Antonio, Texas? Check out Wild Goji Revolving Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Wild Goji Revolving Sushi & Bar serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyVw1qAxgXIYRqHIevc40B84
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Greenland Grill"
   type: Restaurant
   links: http://www.greenlandgrill.com/
-description: "Looking for sushi in Land O' Lakes, Florida? Check out Greenland Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Greenland Grill serves delicious sushi in Land O' Lakes, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLZdBo9a7wogRK5DPSWkQwXc
 photos:
   - name: >-

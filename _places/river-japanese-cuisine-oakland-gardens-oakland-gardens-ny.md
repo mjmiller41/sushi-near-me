@@ -9,7 +9,7 @@ seo:
   name: "River Japanese Cuisine - Oakland Gardens"
   type: Restaurant
   links: null
-description: "Looking for sushi in Oakland Gardens, New York? Check out River Japanese Cuisine - Oakland Gardens for a delightful Japanese dining experience. Enjoy a varie..."
+description: "River Japanese Cuisine - Oakland Gardens serves delicious sushi in Oakland Gardens, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3ZAJw_NhwokR1mTTDhMQHxU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Lin L.E.S"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Sushi Lin L.E.S for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Lin L.E.S serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgZfkWaBZwokRWn_xCzY2gRg
 photos:
   - name: >-

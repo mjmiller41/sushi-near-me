@@ -9,7 +9,7 @@ seo:
   name: "888"
   type: Restaurant
   links: https://www.888nashville.com/
-description: "Looking for sushi in Nashville, Tennessee? Check out 888 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "888 serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJLza7xQxnZIgREuqfmswhlFI
 photos:
   - name: >-

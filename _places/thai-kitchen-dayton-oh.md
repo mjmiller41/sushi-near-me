@@ -9,7 +9,7 @@ seo:
   name: "Thai Kitchen"
   type: Restaurant
   links: null
-description: "Looking for sushi in Dayton, Ohio? Check out Thai Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Thai Kitchen serves delicious sushi in Dayton, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIba_kAGJQIgRvQk6F-Gcq_g
 photos:
   - name: >-

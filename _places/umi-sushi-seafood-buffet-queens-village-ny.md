@@ -9,7 +9,7 @@ seo:
   name: "Umi Sushi & Seafood Buffet"
   type: Restaurant
   links: null
-description: "Looking for sushi in Queens Village, New York? Check out Umi Sushi & Seafood Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Umi Sushi & Seafood Buffet serves delicious sushi in Queens Village, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ58k0dcFjwokR-LPExHJ8RcY
 photos:
   - name: >-

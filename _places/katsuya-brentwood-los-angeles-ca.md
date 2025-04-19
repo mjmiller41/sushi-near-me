@@ -9,7 +9,7 @@ seo:
   name: "Katsuya Brentwood"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Katsuya Brentwood for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Katsuya Brentwood serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf-AasaC8woARt359qhgvQm8
 photos:
   - name: >-

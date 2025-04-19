@@ -9,7 +9,7 @@ seo:
   name: "Kura Revolving Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tacoma, Washington? Check out Kura Revolving Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Kura Revolving Sushi Bar serves delicious sushi in Tacoma, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNwwOaTkBkVQRuerTUQ9S1BQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Jade Island"
   type: Restaurant
   links: https://www.jadeislandwarrington.com/
-description: "Looking for sushi in Warrington, Pennsylvania? Check out Jade Island for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Jade Island serves delicious sushi in Warrington, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJodmIMr-oxokRu6OD_Yx3g00
 photos:
   - name: >-

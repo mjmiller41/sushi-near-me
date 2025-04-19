@@ -9,7 +9,7 @@ seo:
   name: "Matsukawa Sushi & Ramen Cuisine"
   type: Restaurant
   links: http://www.matsukawasushi.com/
-description: "Looking for sushi in St. Augustine, Florida? Check out Matsukawa Sushi & Ramen Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Matsukawa Sushi & Ramen Cuisine serves delicious sushi in St. Augustine, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1SdTL7Mr5IgR2cjkyeg4frI
 photos:
   - name: >-

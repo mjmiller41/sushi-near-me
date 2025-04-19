@@ -9,7 +9,7 @@ seo:
   name: "Sushi X"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ridgewood, New Jersey? Check out Sushi X for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi X serves delicious sushi in Ridgewood, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9ZHQwKjkwokRMygSqFxBfD8
 photos:
   - name: >-

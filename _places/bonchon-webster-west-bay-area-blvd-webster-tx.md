@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Webster - West Bay Area Blvd"
   type: Restaurant
   links: null
-description: "Looking for sushi in Webster, Texas? Check out Bonchon Webster - West Bay Area Blvd for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Bonchon Webster - West Bay Area Blvd serves delicious sushi in Webster, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQZ7gJHedQIYRgn87iCXXRqM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Nobu Los Angeles"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Nobu Los Angeles for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Nobu Los Angeles serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsdk0FLq-woARme24S_VU8Kg
 photos:
   - name: >-

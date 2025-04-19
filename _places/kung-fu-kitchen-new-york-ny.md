@@ -9,7 +9,7 @@ seo:
   name: "Kung Fu Kitchen"
   type: Restaurant
   links: https://www.kfkitchennyc.com/
-description: "Dumplings, hand-pulled ramen, and other Chinese staples round out the menu at this relaxed restaurant. Looking for sushi in New York, New York? Check out Kun..."
+description: "Dumplings, hand-pulled ramen, and other Chinese staples round out the menu at this relaxed restaurant. Kung Fu Kitchen serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2_UcxqxZwokRf5dbeh2oSe8
 photos:
   - name: >-

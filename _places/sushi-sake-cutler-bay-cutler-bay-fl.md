@@ -9,7 +9,7 @@ seo:
   name: "Sushi Sake Cutler Bay"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cutler Bay, Florida? Check out Sushi Sake Cutler Bay for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Sushi Sake Cutler Bay serves delicious sushi in Cutler Bay, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS7osPHDE2YgRg5CZLjQCHXc
 photos:
   - name: >-

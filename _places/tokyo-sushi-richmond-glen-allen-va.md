@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi Richmond"
   type: Restaurant
   links: https://tokyosushitogo.com/
-description: "Relaxed eatery with traditional decor offering sushi & other familiar Japanese dishes. Looking for sushi in Glen Allen, Virginia? Check out Tokyo Sushi Richm..."
+description: "Relaxed eatery with traditional decor offering sushi & other familiar Japanese dishes. Tokyo Sushi Richmond serves delicious sushi in Glen Allen, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0zbj3NA_sYkRVRK21QKGQmg
 photos:
   - name: >-

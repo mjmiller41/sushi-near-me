@@ -9,7 +9,7 @@ seo:
   name: "Bai Sushi Japanese Restaurant"
   type: Restaurant
   links: https://baisushitogo.com/
-description: "Compact sushi joint serving traditional Japanese plates, plus a selection of unique rolls. Looking for sushi in Astoria, New York? Check out Bai Sushi Japane..."
+description: "Compact sushi joint serving traditional Japanese plates, plus a selection of unique rolls. Bai Sushi Japanese Restaurant serves delicious sushi in Astoria, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjdCEuDtfwokRlrAKrJvk8Yk
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "House of Kirin Chinese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brooklyn Park, Minnesota? Check out House of Kirin Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "House of Kirin Chinese Restaurant serves delicious sushi in Brooklyn Park, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBWuU1Fg7s1IR_uZrDtJb5Bs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tsuri Sushi"
   type: Restaurant
   links: http://www.tsurionmelrose.com/
-description: "Looking for sushi in Los Angeles, California? Check out Tsuri Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Tsuri Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnVTlKdW4woAR-W0AELGA3S4
 photos:
   - name: >-

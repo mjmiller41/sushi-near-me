@@ -9,7 +9,7 @@ seo:
   name: "Hokibar"
   type: Restaurant
   links: https://www.hokibarop.com/
-description: "Looking for sushi in Overland Park, Kansas? Check out Hokibar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Hokibar serves delicious sushi in Overland Park, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfx3HcbjBwIcRRK_O9UC1CeQ
 photos:
   - name: >-

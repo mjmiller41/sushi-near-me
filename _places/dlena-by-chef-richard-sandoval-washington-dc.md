@@ -9,7 +9,7 @@ seo:
   name: "dLeña by Chef Richard Sandoval"
   type: Restaurant
   links: null
-description: "Looking for sushi in Washington, District of Columbia? Check out dLeña by Chef Richard Sandoval for a delightful Japanese dining experience. Enjoy a variety ..."
+description: "dLeña by Chef Richard Sandoval serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY4Ci_Iy3t4kRpYIPI3wP6eY
 photos:
   - name: >-

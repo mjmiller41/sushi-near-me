@@ -9,7 +9,7 @@ seo:
   name: "Yummi Yummi Mongolian Grill & Sushi"
   type: Restaurant
   links: http://yummimongolian.com/
-description: "Looking for sushi in College Station, Texas? Check out Yummi Yummi Mongolian Grill & Sushi for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Yummi Yummi Mongolian Grill & Sushi serves delicious sushi in College Station, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrRFULGyERoYRVjXp1ZI8pQQ
 photos:
   - name: >-

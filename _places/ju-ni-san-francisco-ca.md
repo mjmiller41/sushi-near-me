@@ -9,7 +9,7 @@ seo:
   name: "Ju-Ni"
   type: Restaurant
   links: http://www.junisf.com/
-description: "Contemporary, upscale bistro with clean lines &  counter seats serving elevated omakase sushi. Looking for sushi in San Francisco, California? Check out Ju-N..."
+description: "Contemporary, upscale bistro with clean lines &  counter seats serving elevated omakase sushi. Ju-Ni serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJC97OyLGAhYAR4Y3wyxVMk8c
 photos:
   - name: >-

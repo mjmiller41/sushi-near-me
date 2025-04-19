@@ -9,7 +9,7 @@ seo:
   name: "Sushi Bang Bang"
   type: Restaurant
   links: http://www.sushibangbangtx.com/
-description: "Looking for sushi in Austin, Texas? Check out Sushi Bang Bang for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Bang Bang serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp_QAsqcyW4YRFoxC2A0UTM8
 photos:
   - name: >-

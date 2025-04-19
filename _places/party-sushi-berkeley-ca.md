@@ -9,7 +9,7 @@ seo:
   name: "Party Sushi"
   type: Restaurant
   links: http://www.partysushisf.com/
-description: "Looking for sushi in Berkeley, California? Check out Party Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Party Sushi serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7Zxke59-hYAR7EP2l9MAVfQ
 photos:
   - name: >-

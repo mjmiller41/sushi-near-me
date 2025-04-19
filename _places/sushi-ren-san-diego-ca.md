@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ren"
   type: Restaurant
   links: https://fooddiscoveryapp.com/san-diego/sushi-ren
-description: "Looking for sushi in San Diego, California? Check out Sushi Ren for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Ren serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR-Q-DFT324ARpmUTHl4rIxg
 photos:
   - name: >-

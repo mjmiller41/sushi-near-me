@@ -9,7 +9,7 @@ seo:
   name: "ETCetera Sushi & Thai Bites"
   type: Restaurant
   links: http://etcsushi.com/
-description: "Looking for sushi in Corona, California? Check out ETCetera Sushi & Thai Bites for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "ETCetera Sushi & Thai Bites serves delicious sushi in Corona, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm6Wt0h7H3IAR8RBARn7bamo
 photos:
   - name: >-

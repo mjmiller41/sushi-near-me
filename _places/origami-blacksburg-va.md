@@ -9,7 +9,7 @@ seo:
   name: "Origami"
   type: Restaurant
   links: http://dining.vt.edu/dining_centers/turner.html
-description: "Looking for sushi in Blacksburg, Virginia? Check out Origami for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Origami serves delicious sushi in Blacksburg, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJK0z-bG2VTYgRLQqEb_SuieE
 photos:
   - name: >-

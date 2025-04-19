@@ -9,7 +9,7 @@ seo:
   name: "Sushi Bay 17"
   type: Restaurant
   links: https://www.sushibay17denverco.com/
-description: "Looking for sushi in Denver, Colorado? Check out Sushi Bay 17 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Bay 17 serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHx_A8zR5bIcRAatKtim5xpY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Rocket Sushi"
   type: Restaurant
   links: http://www.rocketsushisf.com/
-description: "Contemporary Japanese joint with a sushi train & patio seating, also preparing noodle & rice dishes. Looking for sushi in San Francisco, California? Check ou..."
+description: "Contemporary Japanese joint with a sushi train & patio seating, also preparing noodle & rice dishes. Rocket Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJhecuAliBhYARyeSnN9PLdBE
 photos:
   - name: >-

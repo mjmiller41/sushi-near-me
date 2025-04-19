@@ -9,7 +9,7 @@ seo:
   name: "Buffet King"
   type: Restaurant
   links: null
-description: "Looking for sushi in Odessa, Texas? Check out Buffet King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Buffet King serves delicious sushi in Odessa, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgzIT0i7P-4YRzOsZAqlU9L8
 photos:
   - name: >-

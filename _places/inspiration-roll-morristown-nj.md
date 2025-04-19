@@ -9,7 +9,7 @@ seo:
   name: "Inspiration Roll"
   type: Restaurant
   links: https://www.inspirationroll.com/
-description: "Japanese eatery specializing in house & build-your-own 'sushi burritos,' ramen bowls & fruit drinks. Looking for sushi in Morristown, New Jersey? Check out I..."
+description: "Japanese eatery specializing in house & build-your-own 'sushi burritos,' ramen bowls & fruit drinks. Inspiration Roll serves delicious sushi in Morristown, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNzGBk7ymw4kR3xTs-JLezwU
 photos:
   - name: >-

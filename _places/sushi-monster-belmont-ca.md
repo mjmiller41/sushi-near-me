@@ -9,7 +9,7 @@ seo:
   name: "Sushi Monster"
   type: Restaurant
   links: http://sushi-monster.com/
-description: "This Japanese standby supplies a creative sushi lineup in a simple, well-spaced setting. Looking for sushi in Belmont, California? Check out Sushi Monster fo..."
+description: "This Japanese standby supplies a creative sushi lineup in a simple, well-spaced setting. Sushi Monster serves delicious sushi in Belmont, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJo0zIq1qfj4ARPShwwLZ-bDM
 photos:
   - name: >-

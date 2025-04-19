@@ -9,7 +9,7 @@ seo:
   name: "IJ Sushi Burrito - UW"
   type: Restaurant
   links: null
-description: "Looking for sushi in Seattle, Washington? Check out IJ Sushi Burrito - UW for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "IJ Sushi Burrito - UW serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4xIgPeQVkFQR2E4YMjoFsJk
 photos:
   - name: >-

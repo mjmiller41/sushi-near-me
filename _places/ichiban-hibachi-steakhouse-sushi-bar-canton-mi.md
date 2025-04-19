@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Hibachi Steakhouse & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Canton, Michigan? Check out Ichiban Hibachi Steakhouse & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Ichiban Hibachi Steakhouse & Sushi Bar serves delicious sushi in Canton, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi81HvK5TO4gRA7kDvI9UbbY
 photos:
   - name: >-

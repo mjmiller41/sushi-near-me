@@ -9,7 +9,7 @@ seo:
   name: "Daiki Sushi"
   type: Restaurant
   links: https://www.sanmateodaikisushi.com/jen1d7sj/restaurant/order-online
-description: "Bright, spacious setting providing a large selection of rolls for dine-in, takeout & delivery. Looking for sushi in San Mateo, California? Check out Daiki Su..."
+description: "Bright, spacious setting providing a large selection of rolls for dine-in, takeout & delivery. Daiki Sushi serves delicious sushi in San Mateo, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-7aII_iej4ARV_TT46jMcrQ
 photos:
   - name: >-

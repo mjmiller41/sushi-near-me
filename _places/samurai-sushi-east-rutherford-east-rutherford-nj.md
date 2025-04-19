@@ -9,7 +9,7 @@ seo:
   name: "Samurai Sushi East Rutherford"
   type: Restaurant
   links: null
-description: "Looking for sushi in East Rutherford, New Jersey? Check out Samurai Sushi East Rutherford for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "Samurai Sushi East Rutherford serves delicious sushi in East Rutherford, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_UpxfZX4wokRLiaJWTVSLhE
 photos:
   - name: >-

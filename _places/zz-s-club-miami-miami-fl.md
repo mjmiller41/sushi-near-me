@@ -9,7 +9,7 @@ seo:
   name: "ZZ's Club Miami"
   type: Restaurant
   links: https://zzsclub.com/?utm_medium=Click&utm_source=GoogleMyBusiness
-description: "Looking for sushi in Miami, Florida? Check out ZZ's Club Miami for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "ZZ's Club Miami serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJs7ptcSix2YgRV8Ptx4caiVE
 photos:
   - name: >-

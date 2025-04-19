@@ -9,7 +9,7 @@ seo:
   name: "Sushi Mori"
   type: Restaurant
   links: http://www.sushimoriwa.com/
-description: "Looking for sushi in Kennewick, Washington? Check out Sushi Mori for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Mori serves delicious sushi in Kennewick, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm0R7Fh56mFQR77jHv3Uae-Q
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tommy's Sushi Japanese Restaurant"
   type: Restaurant
   links: null
-description: "This Japanese restaurant lets the sushi take the spotlight amid a no-frills ambiance. Looking for sushi in Tustin, California? Check out Tommy's Sushi Japane..."
+description: "This Japanese restaurant lets the sushi take the spotlight amid a no-frills ambiance. Tommy's Sushi Japanese Restaurant serves delicious sushi in Tustin, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKej5hcLb3IARkfWYVttryh4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Miyama Sushi & Steakhouse"
   type: Restaurant
   links: https://www.miyamany.com/
-description: "Looking for sushi in Ridgewood, New York? Check out Miyama Sushi & Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Miyama Sushi & Steakhouse serves delicious sushi in Ridgewood, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVTt_AV5dwokRp20H8tjdav4
 photos:
   - name: >-

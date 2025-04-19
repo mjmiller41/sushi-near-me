@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Orem - E. University Pkwy"
   type: Restaurant
   links: null
-description: "Looking for sushi in Orem, Utah? Check out Bonchon Orem - E. University Pkwy for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Bonchon Orem - E. University Pkwy serves delicious sushi in Orem, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqZlpvX-bTYcRvz9Z8GVnSPU
 photos:
   - name: >-

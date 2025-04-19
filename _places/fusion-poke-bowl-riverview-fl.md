@@ -9,7 +9,7 @@ seo:
   name: "Fusion Poke Bowl"
   type: Restaurant
   links: null
-description: "Looking for sushi in Riverview, Florida? Check out Fusion Poke Bowl for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Fusion Poke Bowl serves delicious sushi in Riverview, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0wrR5nfRwogRw5nwv588zsQ
 photos:
   - name: >-

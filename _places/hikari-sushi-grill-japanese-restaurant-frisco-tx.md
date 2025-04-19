@@ -9,7 +9,7 @@ seo:
   name: "Hikari Sushi & Grill Japanese Restaurant"
   type: Restaurant
   links: https://www.myhikarisushi.com/
-description: "Looking for sushi in Frisco, Texas? Check out Hikari Sushi & Grill Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Hikari Sushi & Grill Japanese Restaurant serves delicious sushi in Frisco, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGxuEcfk7TIYRHJSYRQN_Llw
 photos:
   - name: >-

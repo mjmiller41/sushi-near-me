@@ -9,7 +9,7 @@ seo:
   name: "Gen Ramen"
   type: Restaurant
   links: https://www.instagram.com/genramen_raleigh/?hl=en
-description: "Looking for sushi in Raleigh, North Carolina? Check out Gen Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Gen Ramen serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJWxGcI-JZrIkRTd8zHnU6WSY
 photos:
   - name: >-

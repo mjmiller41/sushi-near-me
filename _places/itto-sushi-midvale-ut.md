@@ -9,7 +9,7 @@ seo:
   name: "Itto Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Midvale, Utah? Check out Itto Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Itto Sushi serves delicious sushi in Midvale, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrV_0Ni2IUocRX6CEmvGs6R0
 photos:
   - name: >-

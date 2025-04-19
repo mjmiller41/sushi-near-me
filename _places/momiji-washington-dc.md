@@ -9,7 +9,7 @@ seo:
   name: "Momiji"
   type: Restaurant
   links: http://www.momijidc.com/
-description: "2-level spot with deck turning out hibachi dishes & creatively named rolls, plus handmade cocktails. Looking for sushi in Washington, District of Columbia? C..."
+description: "2-level spot with deck turning out hibachi dishes & creatively named rolls, plus handmade cocktails. Momiji serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJeyECzY23t4kRd6wE5kbVDzo
 photos:
   - >-

@@ -9,7 +9,7 @@ seo:
   name: "Bottle Rocket Fine Food and Beverage"
   type: Restaurant
   links: http://www.bottlerocketatl.com/
-description: "Trendy hangout offering sushi & Japanese-American–fusion dishes, plus creative cocktails. Looking for sushi in Atlanta, Georgia? Check out Bottle Rocket Fine..."
+description: "Trendy hangout offering sushi & Japanese-American–fusion dishes, plus creative cocktails. Bottle Rocket Fine Food and Beverage serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJJQEcinkD9YgRw46X2vrQ7rA
 photos:
   - name: >-

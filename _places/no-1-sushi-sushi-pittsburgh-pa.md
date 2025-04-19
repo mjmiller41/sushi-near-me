@@ -9,7 +9,7 @@ seo:
   name: "No. 1 Sushi Sushi"
   type: Restaurant
   links: http://no1sushisushii.com/
-description: "Unassuming Japanese eatery turning out basic & specialty sushi rolls along with miso soup & salads. Looking for sushi in Pittsburgh, Pennsylvania? Check out ..."
+description: "Unassuming Japanese eatery turning out basic & specialty sushi rolls along with miso soup & salads. No. 1 Sushi Sushi serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKYXik1bxNIgRbgJ_mtNfjoM
 photos:
   - name: >-

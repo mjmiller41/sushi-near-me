@@ -9,7 +9,7 @@ seo:
   name: "Sushi ATARASHI"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pittsburgh, Pennsylvania? Check out Sushi ATARASHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi ATARASHI serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnYeF6ynyNIgRpvE8GG_enX0
 photos:
   - name: >-

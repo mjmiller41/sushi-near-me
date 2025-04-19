@@ -9,7 +9,7 @@ seo:
   name: "Sushi Akio"
   type: Restaurant
   links: null
-description: "Looking for sushi in Forest Hills, New York? Check out Sushi Akio for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Akio serves delicious sushi in Forest Hills, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOzH3vDxewokRQfBYytjeUIc
 photos:
   - name: >-

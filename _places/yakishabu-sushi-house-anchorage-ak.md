@@ -9,7 +9,7 @@ seo:
   name: "Yakishabu Sushi House"
   type: Restaurant
   links: http://www.yakishabu.com/
-description: "Looking for sushi in Anchorage, Alaska? Check out Yakishabu Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Yakishabu Sushi House serves delicious sushi in Anchorage, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMdQzoAOZyFYR1rEIFO_2Wyo
 photos:
   - name: >-

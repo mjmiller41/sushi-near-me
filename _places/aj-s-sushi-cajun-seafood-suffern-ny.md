@@ -9,7 +9,7 @@ seo:
   name: "AJ’S Sushi & Cajun Seafood"
   type: Restaurant
   links: http://www.ajsushiny.com/
-description: "Looking for sushi in Suffern, New York? Check out AJ’S Sushi & Cajun Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "AJ’S Sushi & Cajun Seafood serves delicious sushi in Suffern, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJpfXU00jnwokRWf7-9_UhgUk
 photos:
   - name: >-

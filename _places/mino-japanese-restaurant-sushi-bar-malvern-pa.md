@@ -9,7 +9,7 @@ seo:
   name: "Mino Japanese Restaurant & Sushi Bar"
   type: Restaurant
   links: http://www.minosushi.com/
-description: "Cozy BYOB spot offering creative sushi rolls, kitchen entrees & an all-you-can-eat option. Looking for sushi in Malvern, Pennsylvania? Check out Mino Japanes..."
+description: "Cozy BYOB spot offering creative sushi rolls, kitchen entrees & an all-you-can-eat option. Mino Japanese Restaurant & Sushi Bar serves delicious sushi in Malvern, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXzD5lLfyxokR5W9vQBJJLVY
 photos:
   - name: >-

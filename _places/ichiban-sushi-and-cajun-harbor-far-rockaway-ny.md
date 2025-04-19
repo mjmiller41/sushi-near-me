@@ -9,7 +9,7 @@ seo:
   name: "Ichiban sushi and cajun harbor"
   type: Restaurant
   links: null
-description: "Looking for sushi in Far Rockaway, New York? Check out Ichiban sushi and cajun harbor for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Ichiban sushi and cajun harbor serves delicious sushi in Far Rockaway, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0XgEcNlpwokR4mebsuU2sQ0
 photos:
   - name: >-

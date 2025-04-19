@@ -9,7 +9,7 @@ seo:
   name: "Ikko Japanese Steakhouse"
   type: Restaurant
   links: http://www.ikkosteakhouse.com/
-description: "Japanese fixture with hibachi chefs grilling tabletop & a sushi menu with specialty rolls. Looking for sushi in Brick Township, New Jersey? Check out Ikko Ja..."
+description: "Japanese fixture with hibachi chefs grilling tabletop & a sushi menu with specialty rolls. Ikko Japanese Steakhouse serves delicious sushi in Brick Township, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUcdtlnaDwYkRnIBpqoeOC0k
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "ZumoThai"
   type: Restaurant
   links: http://www.zumothai.com/
-description: "Looking for sushi in Washington, District of Columbia? Check out ZumoThai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "ZumoThai serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJc95zD923t4kRNYhZV4yPlAs
 photos:
   - name: >-

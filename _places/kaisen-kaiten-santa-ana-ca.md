@@ -9,7 +9,7 @@ seo:
   name: "Kaisen Kaiten"
   type: Restaurant
   links: https://kaitensushibar.com/
-description: "Looking for sushi in Santa Ana, California? Check out Kaisen Kaiten for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Kaisen Kaiten serves delicious sushi in Santa Ana, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJz6_zKS_f3IAR1qn_i4-und8
 photos:
   - name: >-

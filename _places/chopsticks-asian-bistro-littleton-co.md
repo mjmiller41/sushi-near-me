@@ -9,7 +9,7 @@ seo:
   name: "Chopsticks Asian Bistro"
   type: Restaurant
   links: null
-description: "Looking for sushi in Littleton, Colorado? Check out Chopsticks Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Chopsticks Asian Bistro serves delicious sushi in Littleton, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4dl7NmV5a4cR7csKccf7BhQ
 photos:
   - name: >-

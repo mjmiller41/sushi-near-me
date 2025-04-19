@@ -9,7 +9,7 @@ seo:
   name: "Yen Sushi & Sake Bar"
   type: Restaurant
   links: http://yen-hillhurst.com/
-description: "Looking for sushi in Los Angeles, California? Check out Yen Sushi & Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Yen Sushi & Sake Bar serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG2cUM6XAwoARsUzj7AARfmM
 photos:
   - name: >-

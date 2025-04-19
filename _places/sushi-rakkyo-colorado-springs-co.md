@@ -9,7 +9,7 @@ seo:
   name: "Sushi Rakkyo"
   type: Restaurant
   links: http://sushirakkyocoloradosprings.com/
-description: "Looking for sushi in Colorado Springs, Colorado? Check out Sushi Rakkyo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi Rakkyo serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0bAT5BdNE4cRo4PcxXqPeEM
 photos:
   - name: >-

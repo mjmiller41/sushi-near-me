@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kei"
   type: Restaurant
   links: https://407sushikei.wixsite.com/sushikei
-description: "Looking for sushi in Millbrae, California? Check out Sushi Kei for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Kei serves delicious sushi in Millbrae, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwWkODtJ3j4ARuNZROGAoy4Y
 photos:
   - name: >-

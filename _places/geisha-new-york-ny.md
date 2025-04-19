@@ -9,7 +9,7 @@ seo:
   name: "Geisha"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Geisha for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Geisha serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFalicmT2wokR02HksZFX9VA
 photos:
   - name: >-

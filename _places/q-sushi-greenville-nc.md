@@ -9,7 +9,7 @@ seo:
   name: "Q Sushi"
   type: Restaurant
   links: https://www.qsushigreenville.com/
-description: "Looking for sushi in Greenville, North Carolina? Check out Q Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Q Sushi serves delicious sushi in Greenville, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJi-ttbznDrokR1IVFhcOS35A
 photos:
   - name: >-

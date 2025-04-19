@@ -9,7 +9,7 @@ seo:
   name: "The Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in McCall, Idaho? Check out The Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "The Sushi Bar serves delicious sushi in McCall, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoy7vtiBnplQRo0k1l3ePRC4
 photos:
   - name: >-

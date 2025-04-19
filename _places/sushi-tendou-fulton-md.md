@@ -9,7 +9,7 @@ seo:
   name: "Sushi Tendou"
   type: Restaurant
   links: http://www.ezordernow.com/sushitendou
-description: "Sushi & other Japanese dishes such as teriyaki served in a casual eatery with contemporary decor. Looking for sushi in Fulton, Maryland? Check out Sushi Tend..."
+description: "Sushi & other Japanese dishes such as teriyaki served in a casual eatery with contemporary decor. Sushi Tendou serves delicious sushi in Fulton, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIZ-HggXct4kR6Zfuu-exvIM
 photos:
   - name: >-

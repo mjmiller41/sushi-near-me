@@ -9,7 +9,7 @@ seo:
   name: "Sushi Rock Las Olas"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fort Lauderdale, Florida? Check out Sushi Rock Las Olas for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Sushi Rock Las Olas serves delicious sushi in Fort Lauderdale, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgXYy7E4A2YgRa-WgawQ9v3g
 photos:
   - name: >-

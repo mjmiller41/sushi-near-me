@@ -9,7 +9,7 @@ seo:
   name: "Oops! Sushi & Sake Bar"
   type: Restaurant
   links: http://oopssushi.com/
-description: "Looking for sushi in Los Angeles, California? Check out Oops! Sushi & Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Oops! Sushi & Sake Bar serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2bg1jwi7woARDqDZbO7YxeM
 photos:
   - name: >-

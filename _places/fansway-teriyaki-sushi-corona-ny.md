@@ -9,7 +9,7 @@ seo:
   name: "Fansway Teriyaki & Sushi"
   type: Restaurant
   links: https://www.fanswayteriyaki.com/
-description: "Looking for sushi in Corona, New York? Check out Fansway Teriyaki & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Fansway Teriyaki & Sushi serves delicious sushi in Corona, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpYRmPPtfwokR0bAk7cdHEiQ
 photos:
   - name: >-

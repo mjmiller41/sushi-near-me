@@ -9,7 +9,7 @@ seo:
   name: "Shiso"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Shiso for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Shiso serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJf34uKvxZwokREkMqa6NpYTE
 photos:
   - name: >-

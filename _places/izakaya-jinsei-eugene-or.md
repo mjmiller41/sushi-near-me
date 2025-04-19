@@ -9,7 +9,7 @@ seo:
   name: "Izakaya Jinsei"
   type: Restaurant
   links: https://izakayajinsei.com/
-description: "Looking for sushi in Eugene, Oregon? Check out Izakaya Jinsei for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Izakaya Jinsei serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCUauTkYfwVQRmyB66nzsViQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Genki Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Kapolei, Hawaii? Check out Genki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Genki Sushi serves delicious sushi in Kapolei, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs4DysCdjAHwR0oS4uKxUYNU
 photos:
   - name: >-

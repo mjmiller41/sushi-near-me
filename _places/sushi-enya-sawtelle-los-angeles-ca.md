@@ -9,7 +9,7 @@ seo:
   name: "Sushi Enya Sawtelle"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Sushi Enya Sawtelle for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Sushi Enya Sawtelle serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-VPXxbu7woAR_JUaFfQXcuE
 photos:
   - name: >-

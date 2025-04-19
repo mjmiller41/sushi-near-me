@@ -9,7 +9,7 @@ seo:
   name: "Wasabi Japanese Steakhouse & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Goshen, Indiana? Check out Wasabi Japanese Steakhouse & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Wasabi Japanese Steakhouse & Sushi serves delicious sushi in Goshen, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY_7vdhzsFogRzkR5RAF7HH4
 photos:
   - name: >-

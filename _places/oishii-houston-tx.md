@@ -9,7 +9,7 @@ seo:
   name: "Oishii"
   type: Restaurant
   links: https://order.mealkeyway.com/customer/release/index?mid=5565326d346a364a46414451364158755769334a4e413d3d
-description: "Looking for sushi in Houston, Texas? Check out Oishii for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Oishii serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN2_piwLBQIYR2r11O3MY79Q
 photos:
   - name: >-

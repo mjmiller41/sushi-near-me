@@ -9,7 +9,7 @@ seo:
   name: "Hana Dragon Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Hana Dragon Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Hana Dragon Restaurant serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPQGrvhotDogRw9dJIdwhmNE
 photos:
   - name: >-

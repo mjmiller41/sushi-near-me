@@ -9,7 +9,7 @@ seo:
   name: "Mainichi Sushi"
   type: Restaurant
   links: https://mainichisushi.menu11.com/berkeley/order
-description: "Looking for sushi in Berkeley, California? Check out Mainichi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Mainichi Sushi serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNTEVhBV5hYARjZvmA_YbiMM
 photos:
   - name: >-

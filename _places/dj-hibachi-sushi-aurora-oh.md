@@ -9,7 +9,7 @@ seo:
   name: "DJ HIBACHI & SUSHI"
   type: Restaurant
   links: https://djhibachisushiaurora.com/
-description: "Looking for sushi in Aurora, Ohio? Check out DJ HIBACHI & SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "DJ HIBACHI & SUSHI serves delicious sushi in Aurora, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnR91-BkZMYgRAHczXHUdBj8
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Bozu"
   type: Restaurant
   links: http://www.bozubrooklyn.com/
-description: "Japanese tapas bar serving sushi, sake & cocktails in a hip setting with a bi-level patio. Looking for sushi in Brooklyn, New York? Check out Bozu for a deli..."
+description: "Japanese tapas bar serving sushi, sake & cocktails in a hip setting with a bi-level patio. Bozu serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfXcUkV9ZwokRe1dEXRBJzuk
 photos:
   - name: >-

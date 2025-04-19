@@ -9,7 +9,7 @@ seo:
   name: "Koibito One Sushi & Teriyaki"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lacey, Washington? Check out Koibito One Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Koibito One Sushi & Teriyaki serves delicious sushi in Lacey, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9wslUjYLkVQRRoVW69o_zq0
 photos:
   - name: >-

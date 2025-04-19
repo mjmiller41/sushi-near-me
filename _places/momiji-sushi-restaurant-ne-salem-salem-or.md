@@ -9,7 +9,7 @@ seo:
   name: "Momiji Sushi Restaurant - NE Salem"
   type: Restaurant
   links: null
-description: "Looking for sushi in Salem, Oregon? Check out Momiji Sushi Restaurant - NE Salem for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Momiji Sushi Restaurant - NE Salem serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxULNM4D-v1QR70E3kRMFiZE
 photos:
   - name: >-

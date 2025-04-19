@@ -9,7 +9,7 @@ seo:
   name: "Udon Thai and Sushi"
   type: Restaurant
   links: http://www.udonthaisushi.com/
-description: "Looking for sushi in West Chester Township, Ohio? Check out Udon Thai and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Udon Thai and Sushi serves delicious sushi in West Chester Township, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM58FDARPQIgR5_B6E39CPU8
 photos:
   - name: >-

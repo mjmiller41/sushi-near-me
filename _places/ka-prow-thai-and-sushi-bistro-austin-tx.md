@@ -9,7 +9,7 @@ seo:
   name: "Ka-Prow Thai and Sushi Bistro"
   type: Restaurant
   links: https://kaprowleaf.com/
-description: "Looking for sushi in Austin, Texas? Check out Ka-Prow Thai and Sushi Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Ka-Prow Thai and Sushi Bistro serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvZdyvO7ORIYR8QLLhCHltmg
 photos:
   - name: >-

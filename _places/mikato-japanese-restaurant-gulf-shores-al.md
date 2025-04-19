@@ -9,7 +9,7 @@ seo:
   name: "Mikato Japanese Restaurant"
   type: Restaurant
   links: http://mikatojapanese.com/
-description: "Spacious, contemporary Japanese choice for hibachi-cooked fare, creative sushi rolls & cocktails. Looking for sushi in Gulf Shores, Alabama? Check out Mikato..."
+description: "Spacious, contemporary Japanese choice for hibachi-cooked fare, creative sushi rolls & cocktails. Mikato Japanese Restaurant serves delicious sushi in Gulf Shores, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJt5WsAUQFmogR-4RcQYxem7o
 photos:
   - name: >-

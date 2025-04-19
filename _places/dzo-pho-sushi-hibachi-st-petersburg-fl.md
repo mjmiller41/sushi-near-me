@@ -9,7 +9,7 @@ seo:
   name: "Dzo Pho - Sushi - Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in St. Petersburg, Florida? Check out Dzo Pho - Sushi - Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Dzo Pho - Sushi - Hibachi serves delicious sushi in St. Petersburg, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBVjygUHjwogRuQhVbI_Y7Eo
 photos:
   - name: >-

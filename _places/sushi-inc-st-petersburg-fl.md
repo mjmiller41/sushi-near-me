@@ -9,7 +9,7 @@ seo:
   name: "Sushi Inc"
   type: Restaurant
   links: http://sushiincorporated.com/
-description: "Casual option dispensing traditional sushi, signature rolls & cooked Japanese fare including ramen. Looking for sushi in St. Petersburg, Florida? Check out S..."
+description: "Casual option dispensing traditional sushi, signature rolls & cooked Japanese fare including ramen. Sushi Inc serves delicious sushi in St. Petersburg, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMSqPz5zhwogRQtowQFK5GNc
 photos:
   - name: >-

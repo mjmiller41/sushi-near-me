@@ -9,7 +9,7 @@ seo:
   name: "Rice Bowl Asian House"
   type: Restaurant
   links: https://ricebowlasianhousefl.kwickmenu.com/index.php
-description: "Casual eatery with bright decor, offering classic sushi options & Japanese rice & noodle bowls. Looking for sushi in Bradenton, Florida? Check out Rice Bowl ..."
+description: "Casual eatery with bright decor, offering classic sushi options & Japanese rice & noodle bowls. Rice Bowl Asian House serves delicious sushi in Bradenton, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJD9LRCvw7w4gRo7b8Ih_JRWU
 photos:
   - name: >-

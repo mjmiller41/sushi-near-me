@@ -9,7 +9,7 @@ seo:
   name: "KazuNori: The Original Hand Roll Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Marina Del Rey, California? Check out KazuNori: The Original Hand Roll Bar for a delightful Japanese dining experience. Enjoy a variety ..."
+description: "KazuNori: The Original Hand Roll Bar serves delicious sushi in Marina Del Rey, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOygb-q67woAR3bO7fi_yXkA
 photos:
   - name: >-

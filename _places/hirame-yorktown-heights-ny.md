@@ -9,7 +9,7 @@ seo:
   name: "Hirame"
   type: Restaurant
   links: https://www.hiramesushi.com/
-description: "Looking for sushi in Yorktown Heights, New York? Check out Hirame for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Hirame serves delicious sushi in Yorktown Heights, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF0730xy3wokR8sBlnVREGv0
 photos:
   - name: >-

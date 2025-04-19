@@ -9,7 +9,7 @@ seo:
   name: "Ocean Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Staten Island, New York? Check out Ocean Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Ocean Sushi serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlQwTFfxKwokRhj9ExJdD4js
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Hunter Izakaya"
   type: Restaurant
   links: http://www.sushihunternewberg.com/
-description: "Looking for sushi in Newberg, Oregon? Check out Sushi Hunter Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Hunter Izakaya serves delicious sushi in Newberg, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJITfAB3tqlVQRMAcbCnNalak
 photos:
   - name: >-

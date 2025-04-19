@@ -9,7 +9,7 @@ seo:
   name: "Ahi Sushi"
   type: Restaurant
   links: https://ahisushi.kwickmenu.com/index.php
-description: "Sushi is the focus of this simple Japanese restaurant with a casual vibe & lunch specials. Looking for sushi in Philadelphia, Pennsylvania? Check out Ahi Sus..."
+description: "Sushi is the focus of this simple Japanese restaurant with a casual vibe & lunch specials. Ahi Sushi serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJBeUxKk2yxokRPIt97SqDG14
 photos:
   - name: >-

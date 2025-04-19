@@ -9,7 +9,7 @@ seo:
   name: "RA Sushi Bar Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pembroke Pines, Florida? Check out RA Sushi Bar Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "RA Sushi Bar Restaurant serves delicious sushi in Pembroke Pines, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-XLJNpym2YgRi2xJf8m_LaI
 photos:
   - name: >-

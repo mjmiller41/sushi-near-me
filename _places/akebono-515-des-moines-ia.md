@@ -9,7 +9,7 @@ seo:
   name: "Akebono 515"
   type: Restaurant
   links: http://akebono515.com/
-description: "Sleek, contemporary restaurant & bar offering sushi, cooked Japanese dishes & cocktails. Looking for sushi in Des Moines, Iowa? Check out Akebono 515 for a d..."
+description: "Sleek, contemporary restaurant & bar offering sushi, cooked Japanese dishes & cocktails. Akebono 515 serves delicious sushi in Des Moines, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJE7pwewKZ7ocRXbpT1yCr91k
 photos:
   - name: >-

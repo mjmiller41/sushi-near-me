@@ -9,7 +9,7 @@ seo:
   name: "Sushi Spot"
   type: Restaurant
   links: null
-description: "Looking for sushi in Colorado Springs, Colorado? Check out Sushi Spot for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Sushi Spot serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-2H_OrhFE4cR8hBCd-390pc
 photos:
   - name: >-

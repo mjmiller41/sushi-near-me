@@ -9,7 +9,7 @@ seo:
   name: "Momoyama"
   type: Restaurant
   links: https://www.facebook.com/momoyamadc/
-description: "This hideaway sushi spot also features cooked Japanese fare plus bento boxes & happy hour specials. Looking for sushi in Washington, District of Columbia? Ch..."
+description: "This hideaway sushi spot also features cooked Japanese fare plus bento boxes & happy hour specials. Momoyama serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJt1JwK4a3t4kRq4L61cpSMaU
 photos:
   - name: >-

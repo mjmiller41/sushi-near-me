@@ -9,7 +9,7 @@ seo:
   name: "Menya Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Greenwood Village, Colorado? Check out Menya Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Menya Sushi Bar serves delicious sushi in Greenwood Village, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg7yPijyBbIcR4XRIGYRVXo4
 photos:
   - name: >-

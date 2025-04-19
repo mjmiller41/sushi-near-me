@@ -9,7 +9,7 @@ seo:
   name: "Kiku Sushi Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Baltimore, Maryland? Check out Kiku Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Kiku Sushi Restaurant serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX3uL_WUDyIkRRC9wVKOWDrw
 photos:
   - name: >-

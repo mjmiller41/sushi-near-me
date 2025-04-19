@@ -9,7 +9,7 @@ seo:
   name: "Kobe Steak, Sushi, & Hibachi"
   type: Restaurant
   links: https://kobecartersville.com/
-description: "Looking for sushi in Cartersville, Georgia? Check out Kobe Steak, Sushi, & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Kobe Steak, Sushi, & Hibachi serves delicious sushi in Cartersville, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnWdJwgxP9YgR16e1yr8eYCU
 photos:
   - name: >-

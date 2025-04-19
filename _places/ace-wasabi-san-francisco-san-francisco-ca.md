@@ -9,7 +9,7 @@ seo:
   name: "Ace Wasabi San Francisco"
   type: Restaurant
   links: https://www.acewasabisf.com/
-description: "Modern Japanese dishes, sushi & more in a trendy hangout featuring music & happy-hour bingo. Looking for sushi in San Francisco, California? Check out Ace Wa..."
+description: "Modern Japanese dishes, sushi & more in a trendy hangout featuring music & happy-hour bingo. Ace Wasabi San Francisco serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJSU2s09CAhYARiWvgxQMge-k
 photos:
   - name: >-

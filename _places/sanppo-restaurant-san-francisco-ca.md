@@ -9,7 +9,7 @@ seo:
   name: "Sanppo Restaurant"
   type: Restaurant
   links: http://sanpposushisf.com/
-description: "Japanese eatery offering a diverse selection of sushi & custom maki rolls, plus tempura & teriyaki. Looking for sushi in San Francisco, California? Check out..."
+description: "Japanese eatery offering a diverse selection of sushi & custom maki rolls, plus tempura & teriyaki. Sanppo Restaurant serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJn1sm1LiAhYARosRri7ggk3w
 photos:
   - name: >-

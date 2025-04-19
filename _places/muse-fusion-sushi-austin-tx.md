@@ -9,7 +9,7 @@ seo:
   name: "Muse Fusion + Sushi"
   type: Restaurant
   links: http://www.musefusionsushiatx.com/
-description: "Looking for sushi in Austin, Texas? Check out Muse Fusion + Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Muse Fusion + Sushi serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm4FCsbVLW4YROYdCHI2vVq8
 photos:
   - name: >-

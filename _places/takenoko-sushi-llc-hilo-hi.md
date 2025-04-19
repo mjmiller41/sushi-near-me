@@ -9,7 +9,7 @@ seo:
   name: "Takenoko Sushi Llc"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hilo, Hawaii? Check out Takenoko Sushi Llc for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Takenoko Sushi Llc serves delicious sushi in Hilo, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB--GNmZLUnkR9yLNQUWT9NM
 photos:
   - name: >-

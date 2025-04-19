@@ -9,7 +9,7 @@ seo:
   name: "Pearl Sushi At Mohegan Sun"
   type: Restaurant
   links: https://moheganpa.com/poi/dining/pearl.html
-description: "Looking for sushi in Wilkes-Barre, Pennsylvania? Check out Pearl Sushi At Mohegan Sun for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Pearl Sushi At Mohegan Sun serves delicious sushi in Wilkes-Barre, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtWFbFuUbxYkRb3sgx2slMIk
 photos:
   - name: >-

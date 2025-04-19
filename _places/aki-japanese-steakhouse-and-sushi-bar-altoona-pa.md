@@ -9,7 +9,7 @@ seo:
   name: "Aki Japanese Steakhouse and Sushi Bar"
   type: Restaurant
   links: http://www.aki2118.com/
-description: "Sushi & dramatic tableside teppanyaki-grill dishes in a relaxed restaurant with modern decor. Looking for sushi in Altoona, Pennsylvania? Check out Aki Japan..."
+description: "Sushi & dramatic tableside teppanyaki-grill dishes in a relaxed restaurant with modern decor. Aki Japanese Steakhouse and Sushi Bar serves delicious sushi in Altoona, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ49iN50CRy4kRAfhRX2QeDPI
 photos:
   - name: >-

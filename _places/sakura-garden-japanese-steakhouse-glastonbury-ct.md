@@ -9,7 +9,7 @@ seo:
   name: "Sakura Garden Japanese Steakhouse"
   type: Restaurant
   links: null
-description: "Looking for sushi in Glastonbury, Connecticut? Check out Sakura Garden Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Sakura Garden Japanese Steakhouse serves delicious sushi in Glastonbury, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ5fFo49R5okRkbDsIEAHh3Y
 photos:
   - name: >-

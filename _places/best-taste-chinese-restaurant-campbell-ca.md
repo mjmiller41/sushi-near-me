@@ -9,7 +9,7 @@ seo:
   name: "Best Taste Chinese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Campbell, California? Check out Best Taste Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Best Taste Chinese Restaurant serves delicious sushi in Campbell, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQQClBJ01joARdnzM_GshlkI
 photos:
   - name: >-

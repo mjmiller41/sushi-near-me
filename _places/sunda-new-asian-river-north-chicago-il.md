@@ -9,7 +9,7 @@ seo:
   name: "Sunda New Asian - River North"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Sunda New Asian - River North for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Sunda New Asian - River North serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpdvW2rMsDogRmOSgw59PVdo
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kochi Sushi & Steakhouse"
   type: Restaurant
   links: https://www.kochicranston.com/
-description: "Looking for sushi in Cranston, Rhode Island? Check out Kochi Sushi & Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Kochi Sushi & Steakhouse serves delicious sushi in Cranston, Rhode Island. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDUN_ScJI5IkRxyz9hPnI3HQ
 photos:
   - name: >-

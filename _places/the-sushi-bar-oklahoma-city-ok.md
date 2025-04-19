@@ -9,7 +9,7 @@ seo:
   name: "The Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Oklahoma City, Oklahoma? Check out The Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "The Sushi Bar serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWXFboUADsocRMdmf4KZqsTU
 photos:
   - name: >-

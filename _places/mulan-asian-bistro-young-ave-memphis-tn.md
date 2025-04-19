@@ -9,7 +9,7 @@ seo:
   name: "Mulan Asian Bistro - Young Ave"
   type: Restaurant
   links: null
-description: "Looking for sushi in Memphis, Tennessee? Check out Mulan Asian Bistro - Young Ave for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Mulan Asian Bistro - Young Ave serves delicious sushi in Memphis, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeeWY2FGHf4gRLHHHkajJMaM
 photos:
   - name: >-

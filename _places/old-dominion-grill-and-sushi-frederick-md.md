@@ -9,7 +9,7 @@ seo:
   name: "Old Dominion Grill and Sushi"
   type: Restaurant
   links: http://www.olddominiongrillsushi.com/
-description: "Casual, modern restaurant featuring Thai, Japanese & American standards, plus lots of beers on tap. Looking for sushi in Frederick, Maryland? Check out Old D..."
+description: "Casual, modern restaurant featuring Thai, Japanese & American standards, plus lots of beers on tap. Old Dominion Grill and Sushi serves delicious sushi in Frederick, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJV1uzyTvayYkRXflZbOZk5UE
 photos:
   - name: >-

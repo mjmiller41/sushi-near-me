@@ -9,7 +9,7 @@ seo:
   name: "jony's sushi"
   type: Restaurant
   links: http://www.jonyssushi.com/
-description: "Looking for sushi in Columbus, Ohio? Check out jony's sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "jony's sushi serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ333LX0yJOIgRlnRAQu2EURo
 photos:
   - name: >-

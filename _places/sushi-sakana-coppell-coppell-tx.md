@@ -9,7 +9,7 @@ seo:
   name: "Sushi Sakana Coppell"
   type: Restaurant
   links: null
-description: "Looking for sushi in Coppell, Texas? Check out Sushi Sakana Coppell for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sushi Sakana Coppell serves delicious sushi in Coppell, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4RFhISUpTIYRk0bJlmO26eA
 photos:
   - name: >-

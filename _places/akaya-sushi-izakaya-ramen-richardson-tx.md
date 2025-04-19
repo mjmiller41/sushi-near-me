@@ -9,7 +9,7 @@ seo:
   name: "Akaya Sushi, Izakaya & Ramen"
   type: Restaurant
   links: http://www.akayaizakaya.com/
-description: "Looking for sushi in Richardson, Texas? Check out Akaya Sushi, Izakaya & Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Akaya Sushi, Izakaya & Ramen serves delicious sushi in Richardson, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJwloXPEhTIYRboIzP_nrWi8
 photos:
   - name: >-

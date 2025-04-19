@@ -9,7 +9,7 @@ seo:
   name: "Bei Sushi Express"
   type: Restaurant
   links: https://www.beiexpress.com/
-description: "Looking for sushi in Scottsdale, Arizona? Check out Bei Sushi Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Bei Sushi Express serves delicious sushi in Scottsdale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWdlrbrULK4cRYeL_Qn5KtuU
 photos:
   - name: >-

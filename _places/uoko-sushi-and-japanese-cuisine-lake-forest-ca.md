@@ -9,7 +9,7 @@ seo:
   name: "Uoko Sushi and Japanese Cuisine"
   type: Restaurant
   links: http://uokolakeforest.com/
-description: "Looking for sushi in Lake Forest, California? Check out Uoko Sushi and Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi..."
+description: "Uoko Sushi and Japanese Cuisine serves delicious sushi in Lake Forest, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9dpTZGbo3IAR8zOL50H7_X0
 photos:
   - name: >-

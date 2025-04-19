@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ukai"
   type: Restaurant
   links: null
-description: "Looking for sushi in La Grange, Illinois? Check out Sushi Ukai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Ukai serves delicious sushi in La Grange, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3XI8n_NJDogRI00IQVeU1L0
 photos:
   - name: >-

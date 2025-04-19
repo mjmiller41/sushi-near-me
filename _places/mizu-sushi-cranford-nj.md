@@ -9,7 +9,7 @@ seo:
   name: "Mizu Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cranford, New Jersey? Check out Mizu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Mizu Sushi serves delicious sushi in Cranford, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ17O0gCOyw4kRc7X3AQTJ-nc
 photos:
   - name: >-

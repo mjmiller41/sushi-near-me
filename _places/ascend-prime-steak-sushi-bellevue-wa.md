@@ -9,7 +9,7 @@ seo:
   name: "Ascend Prime Steak & Sushi"
   type: Restaurant
   links: https://ascendprime.com/
-description: "Looking for sushi in Bellevue, Washington? Check out Ascend Prime Steak & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Ascend Prime Steak & Sushi serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN6EN0whtkFQR1lYGeflDEFc
 photos:
   - name: >-

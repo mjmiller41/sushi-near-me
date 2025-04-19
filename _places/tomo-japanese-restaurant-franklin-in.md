@@ -9,7 +9,7 @@ seo:
   name: "TOMO JAPANESE RESTAURANT"
   type: Restaurant
   links: null
-description: "Looking for sushi in Franklin, Indiana? Check out TOMO JAPANESE RESTAURANT for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "TOMO JAPANESE RESTAURANT serves delicious sushi in Franklin, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWWV6bDFva4gR31HMMUuPA4k
 photos:
   - name: >-

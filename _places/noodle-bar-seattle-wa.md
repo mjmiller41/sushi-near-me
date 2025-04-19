@@ -9,7 +9,7 @@ seo:
   name: "Noodle/Bar"
   type: Restaurant
   links: http://noodlebarseattle.com/
-description: "Looking for sushi in Seattle, Washington? Check out Noodle/Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Noodle/Bar serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvQquFugVkFQRwl1XPhWCkR4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sakamoto Japanese Grill and Sushi"
   type: Restaurant
   links: https://www.sakamotofun.com/
-description: "Looking for sushi in Oswego, Illinois? Check out Sakamoto Japanese Grill and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Sakamoto Japanese Grill and Sushi serves delicious sushi in Oswego, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK4tgHdrxDogRPTvWm6n4BTY
 photos:
   - name: >-

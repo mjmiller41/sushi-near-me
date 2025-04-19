@@ -9,7 +9,7 @@ seo:
   name: "Brooklyn Bagel"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brooklyn, New York? Check out Brooklyn Bagel for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Brooklyn Bagel serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp8PEe8JbwokRoj3MDjtq1-U
 photos:
   - name: >-

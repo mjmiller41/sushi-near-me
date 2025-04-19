@@ -9,7 +9,7 @@ seo:
   name: "Great Wall Chinese - Thai and Sushi"
   type: Restaurant
   links: http://www.greatwallchinesesushi.com/
-description: "Looking for sushi in Marietta, Georgia? Check out Great Wall Chinese - Thai and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Great Wall Chinese - Thai and Sushi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOXkfdRkR9YgRMKVqyOPe3yA
 photos:
   - name: >-

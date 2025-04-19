@@ -9,7 +9,7 @@ seo:
   name: "Johnny's Sushi House"
   type: Restaurant
   links: http://johnnysushihouse.com/
-description: "Looking for sushi in Perryville, Maryland? Check out Johnny's Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Johnny's Sushi House serves delicious sushi in Perryville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVY84EZa4x4kRlIgSf5x2rdA
 photos:
   - name: >-

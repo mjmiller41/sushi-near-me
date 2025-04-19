@@ -9,7 +9,7 @@ seo:
   name: "Chopfin"
   type: Restaurant
   links: http://www.chopfin.com/
-description: "Looking for sushi in Allentown, Pennsylvania? Check out Chopfin for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Chopfin serves delicious sushi in Allentown, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDcxw3JE3xIkRWnNoCjC-Jv4
 photos:
   - name: >-

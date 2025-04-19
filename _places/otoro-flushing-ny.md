@@ -9,7 +9,7 @@ seo:
   name: "Otoro"
   type: Restaurant
   links: https://otoronyc.com/
-description: "Looking for sushi in Flushing, New York? Check out Otoro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Otoro serves delicious sushi in Flushing, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJRzuH785hwokREHerxbm4RsM
 photos:
   - name: >-

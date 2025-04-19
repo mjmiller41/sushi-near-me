@@ -9,7 +9,7 @@ seo:
   name: "Sushi Plus Rotary Sushi Bar Boystown"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Sushi Plus Rotary Sushi Bar Boystown for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Sushi Plus Rotary Sushi Bar Boystown serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxz_9GqTTD4gR44QMPax89Sg
 photos:
   - name: >-

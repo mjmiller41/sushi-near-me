@@ -9,7 +9,7 @@ seo:
   name: "The BlueFin"
   type: Restaurant
   links: https://thebluefingreenville.com/
-description: "Looking for sushi in Greenville, South Carolina? Check out The BlueFin for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "The BlueFin serves delicious sushi in Greenville, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA0NYua4vWIgR7Ss5Hfa9HrY
 photos:
   - name: >-

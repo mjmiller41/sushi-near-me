@@ -9,7 +9,7 @@ seo:
   name: "A-Aki Sushi & Steakhouse - Florida Mall"
   type: Restaurant
   links: https://a-akisushi.com/
-description: "Looking for sushi in Orlando, Florida? Check out A-Aki Sushi & Steakhouse - Florida Mall for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "A-Aki Sushi & Steakhouse - Florida Mall serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJna8wekt854gRln3C5E1fq-E
 photos:
   - name: >-

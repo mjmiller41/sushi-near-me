@@ -9,7 +9,7 @@ seo:
   name: "Blu Sushi"
   type: Restaurant
   links: http://www.blusushi.com/
-description: "Japanese eatery serving creative sushi & specialty cocktails in a chic setting with a bustling vibe. Looking for sushi in Fort Myers, Florida? Check out Blu ..."
+description: "Japanese eatery serving creative sushi & specialty cocktails in a chic setting with a bustling vibe. Blu Sushi serves delicious sushi in Fort Myers, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe8Ld8nQ_24gRDZcxdse--_o
 photos:
   - name: >-

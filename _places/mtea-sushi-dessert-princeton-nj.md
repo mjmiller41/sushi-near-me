@@ -9,7 +9,7 @@ seo:
   name: "MTea Sushi & Dessert"
   type: Restaurant
   links: https://www.princetonmteasushidessert.com/
-description: "Looking for sushi in Princeton, New Jersey? Check out MTea Sushi & Dessert for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "MTea Sushi & Dessert serves delicious sushi in Princeton, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt97I6uznw4kRmbQE8lwuiS0
 photos:
   - name: >-

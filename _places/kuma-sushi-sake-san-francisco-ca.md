@@ -9,7 +9,7 @@ seo:
   name: "Kuma Sushi + Sake"
   type: Restaurant
   links: http://www.kumasf.com/
-description: "Minimalist neighborhood locale for nigiri, sashimi & Japanese small bites. Looking for sushi in San Francisco, California? Check out Kuma Sushi + Sake for a ..."
+description: "Minimalist neighborhood locale for nigiri, sashimi & Japanese small bites. Kuma Sushi + Sake serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQ4nkGJSAhYARNPU7phma2gE
 photos:
   - name: >-

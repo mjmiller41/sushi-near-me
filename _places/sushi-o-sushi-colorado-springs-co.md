@@ -9,7 +9,7 @@ seo:
   name: "Sushi O Sushi"
   type: Restaurant
   links: https://www.sushiosushico.com/
-description: "Looking for sushi in Colorado Springs, Colorado? Check out Sushi O Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Sushi O Sushi serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQXMlYGtDE4cRJkeb_9TD2sk
 photos:
   - name: >-

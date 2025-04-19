@@ -9,7 +9,7 @@ seo:
   name: "ITO"
   type: Restaurant
   links: https://itotribeca.com/
-description: "Looking for sushi in New York, New York? Check out ITO for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
+description: "ITO serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJiW_7kM9bwokR9qMrG4XITL8
 photos:
   - name: >-

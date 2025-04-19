@@ -9,7 +9,7 @@ seo:
   name: "Trapper's Sushi - Avondale"
   type: Restaurant
   links: null
-description: "Looking for sushi in Avondale, Arizona? Check out Trapper's Sushi - Avondale for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Trapper's Sushi - Avondale serves delicious sushi in Avondale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJP_tWuRo_K4cRUKrtwt_DbM8
 photos:
   - name: >-

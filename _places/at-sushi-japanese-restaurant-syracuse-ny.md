@@ -9,7 +9,7 @@ seo:
   name: "AT Sushi Japanese Restaurant"
   type: Restaurant
   links: https://www.facebook.com/profile.php?id=100089737989989&mibextid=ZbWKwL
-description: "Looking for sushi in Syracuse, New York? Check out AT Sushi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "AT Sushi Japanese Restaurant serves delicious sushi in Syracuse, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJPTvQgOjz2YkRXF4SvivRfX4
 photos:
   - name: >-

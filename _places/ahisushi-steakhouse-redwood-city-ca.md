@@ -9,7 +9,7 @@ seo:
   name: "AhiSushi Steakhouse"
   type: Restaurant
   links: https://www.ahisushihibachica.com/
-description: "Chill dining space serving sushi & Japanese entrees such as hibachi & teriyaki, plus lunch specials. Looking for sushi in Redwood City, California? Check out..."
+description: "Chill dining space serving sushi & Japanese entrees such as hibachi & teriyaki, plus lunch specials. AhiSushi Steakhouse serves delicious sushi in Redwood City, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJP-i6Iaujj4ARZANvuhslxqQ
 photos:
   - name: >-

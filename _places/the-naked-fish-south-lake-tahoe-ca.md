@@ -9,7 +9,7 @@ seo:
   name: "The Naked Fish"
   type: Restaurant
   links: http://thenakedfish.com/
-description: "Hawaiian-influenced Japanese spot with next-door lounge known for its sushi & creative fish dishes. Looking for sushi in South Lake Tahoe, California? Check ..."
+description: "Hawaiian-influenced Japanese spot with next-door lounge known for its sushi & creative fish dishes. The Naked Fish serves delicious sushi in South Lake Tahoe, California. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJd10vDnSQmYARZUHCBveMLm8
 photos:
   - name: >-

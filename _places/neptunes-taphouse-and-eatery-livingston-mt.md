@@ -9,7 +9,7 @@ seo:
   name: "Neptunes Taphouse and Eatery"
   type: Restaurant
   links: https://neptunestaphouse.com/
-description: "Looking for sushi in Livingston, Montana? Check out Neptunes Taphouse and Eatery for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Neptunes Taphouse and Eatery serves delicious sushi in Livingston, Montana. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ0yMJ0A17RVMRuRvt9PK8JuI
 photos:
   - name: >-

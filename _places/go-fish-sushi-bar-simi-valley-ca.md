@@ -9,7 +9,7 @@ seo:
   name: "Go Fish Sushi Bar"
   type: Restaurant
   links: https://gofishsushibar.com/
-description: "Looking for sushi in Simi Valley, California? Check out Go Fish Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Go Fish Sushi Bar serves delicious sushi in Simi Valley, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdd6hKrQu6IARpq7Es4NFoEg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kocina Stingray Sushifusion 2Go"
   type: Restaurant
   links: https://stingraysushifusion.com/?utm_source=google
-description: "Looking for sushi in Rochester, New York? Check out Kocina Stingray Sushifusion 2Go for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Kocina Stingray Sushifusion 2Go serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmU9aJoS11okRMDV-DkI9HqI
 photos:
   - name: >-

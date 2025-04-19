@@ -9,7 +9,7 @@ seo:
   name: "Kobe Buddha House"
   type: Restaurant
   links: https://www.kobehaverhill.com/#footer
-description: "Looking for sushi in Haverhill, Massachusetts? Check out Kobe Buddha House for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Kobe Buddha House serves delicious sushi in Haverhill, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmbUDXVn_4okRRQ7LEU2LrIc
 photos:
   - name: >-

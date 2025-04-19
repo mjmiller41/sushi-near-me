@@ -9,7 +9,7 @@ seo:
   name: "Sushi Hashiri"
   type: Restaurant
   links: http://hashirisf.com/
-description: "Highbrow, multicourse Japanese sushi & seasonal mains offered in sleek, modern quarters. Looking for sushi in San Francisco, California? Check out Sushi Hash..."
+description: "Highbrow, multicourse Japanese sushi & seasonal mains offered in sleek, modern quarters. Sushi Hashiri serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJhSGf1oWAhYARAMBHjcaw_RI
 photos:
   - name: >-

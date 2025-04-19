@@ -9,7 +9,7 @@ seo:
   name: "Octopus Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Burbank, California? Check out Octopus Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Octopus Japanese Restaurant serves delicious sushi in Burbank, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOXkXblCVwoARLHzsn0Jpi8Q
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Teppanyaki Buffet"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fredericksburg, Virginia? Check out Teppanyaki Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Teppanyaki Buffet serves delicious sushi in Fredericksburg, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE_1fn7jBtokRwV9u9Y4ENOI
 photos:
   - name: >-

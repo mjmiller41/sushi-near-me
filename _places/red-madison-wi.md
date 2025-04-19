@@ -9,7 +9,7 @@ seo:
   name: "RED"
   type: Restaurant
   links: null
-description: "Looking for sushi in Madison, Wisconsin? Check out RED for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
+description: "RED serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF7BcvT9TBogRGZBK76Eida0
 photos:
   - name: >-

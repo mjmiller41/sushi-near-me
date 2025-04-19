@@ -9,7 +9,7 @@ seo:
   name: "Izumi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Washington, District of Columbia? Check out Izumi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Izumi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb1cejg-3t4kR_eaUBwPDK2k
 photos:
   - name: >-

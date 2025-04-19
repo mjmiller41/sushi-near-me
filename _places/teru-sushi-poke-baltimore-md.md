@@ -9,7 +9,7 @@ seo:
   name: "Teru Sushi & Poke"
   type: Restaurant
   links: https://www.teru-sushi.com/
-description: "Looking for sushi in Baltimore, Maryland? Check out Teru Sushi & Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Teru Sushi & Poke serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJyd1sz4sFyIkRpIEV24MjC6k
 photos:
   - name: >-

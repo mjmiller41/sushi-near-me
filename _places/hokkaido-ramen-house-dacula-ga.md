@@ -9,7 +9,7 @@ seo:
   name: "Hokkaido Ramen House"
   type: Restaurant
   links: null
-description: "Looking for sushi in Dacula, Georgia? Check out Hokkaido Ramen House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Hokkaido Ramen House serves delicious sushi in Dacula, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlf9eGQDr9YgRbpOz2ztFE7M
 photos:
   - name: >-

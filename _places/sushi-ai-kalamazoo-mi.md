@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ai"
   type: Restaurant
   links: null
-description: "Looking for sushi in Kalamazoo, Michigan? Check out Sushi Ai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi Ai serves delicious sushi in Kalamazoo, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFWh3HT53F4gR6i5Unygorr8
 photos:
   - name: >-

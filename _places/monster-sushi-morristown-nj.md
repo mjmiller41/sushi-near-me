@@ -9,7 +9,7 @@ seo:
   name: "Monster Sushi"
   type: Restaurant
   links: https://monstersushinj.com/
-description: "Contemporary BYOB mainstay with polished decor offering creative sushi rolls & outdoor seating. Looking for sushi in Morristown, New Jersey? Check out Monste..."
+description: "Contemporary BYOB mainstay with polished decor offering creative sushi rolls & outdoor seating. Monster Sushi serves delicious sushi in Morristown, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJw3ud0qKmw4kR3QbI_u0LgRk
 photos:
   - name: >-

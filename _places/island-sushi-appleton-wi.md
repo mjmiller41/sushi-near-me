@@ -9,7 +9,7 @@ seo:
   name: "Island Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Appleton, Wisconsin? Check out Island Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Island Sushi serves delicious sushi in Appleton, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcSD0cXKwA4gRXs5E9t6NOyk
 photos:
   - name: >-

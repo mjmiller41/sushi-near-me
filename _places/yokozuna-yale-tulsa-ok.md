@@ -9,7 +9,7 @@ seo:
   name: "Yokozuna Yale"
   type: Restaurant
   links: null
-description: "Looking for sushi in Tulsa, Oklahoma? Check out Yokozuna Yale for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Yokozuna Yale serves delicious sushi in Tulsa, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy4hxYyCStocRxKPwAyzwz3o
 photos:
   - name: >-

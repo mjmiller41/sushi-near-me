@@ -9,7 +9,7 @@ seo:
   name: "Migi Sushi Restaurant"
   type: Restaurant
   links: https://www.migisushibradenton.com//?utm_source=gmb&utm_medium=referral
-description: "Looking for sushi in Bradenton, Florida? Check out Migi Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Migi Sushi Restaurant serves delicious sushi in Bradenton, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJyWPn9u09w4gRUJLQ-QZdmbU
 photos:
   - name: >-

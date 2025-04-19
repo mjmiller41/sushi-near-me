@@ -9,7 +9,7 @@ seo:
   name: "Kuroshio Sushi Bar and Grille-Kennesaw"
   type: Restaurant
   links: null
-description: "Looking for sushi in Kennesaw, Georgia? Check out Kuroshio Sushi Bar and Grille-Kennesaw for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "Kuroshio Sushi Bar and Grille-Kennesaw serves delicious sushi in Kennesaw, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQaUZiRcV9YgRQGSZ88stkLk
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi & Wasabi"
   type: Restaurant
   links: http://www.sushi-wasabi.com/
-description: "Looking for sushi in Agoura Hills, California? Check out Sushi & Wasabi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi & Wasabi serves delicious sushi in Agoura Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5WcmwKQm6IARKMnjHihlGFk
 photos:
   - name: >-

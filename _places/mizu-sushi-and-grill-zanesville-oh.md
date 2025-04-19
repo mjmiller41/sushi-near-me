@@ -9,7 +9,7 @@ seo:
   name: "Mizu Sushi And Grill"
   type: Restaurant
   links: http://mizuzanesville.com/
-description: "Looking for sushi in Zanesville, Ohio? Check out Mizu Sushi And Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Mizu Sushi And Grill serves delicious sushi in Zanesville, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIz2nZpntN4gR6-4PsQO1k3I
 photos:
   - name: >-

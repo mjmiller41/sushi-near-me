@@ -9,7 +9,7 @@ seo:
   name: "Sake House | Sushi & Hibachi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Watertown, Wisconsin? Check out Sake House | Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Sake House | Sushi & Hibachi serves delicious sushi in Watertown, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvW3wPTgrBIgRW79TWo5xyuE
 photos:
   - name: >-

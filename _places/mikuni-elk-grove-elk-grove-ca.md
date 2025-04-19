@@ -9,7 +9,7 @@ seo:
   name: "Mikuni | Elk Grove"
   type: Restaurant
   links: null
-description: "Looking for sushi in Elk Grove, California? Check out Mikuni | Elk Grove for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Mikuni | Elk Grove serves delicious sushi in Elk Grove, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSz0KZRzHmoAR98MiO8IsxBc
 photos:
   - name: >-

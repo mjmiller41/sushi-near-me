@@ -9,7 +9,7 @@ seo:
   name: "Asakuma sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Asakuma sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Asakuma sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU6P-z2i7woARGoyxShUYSZk
 photos:
   - name: >-

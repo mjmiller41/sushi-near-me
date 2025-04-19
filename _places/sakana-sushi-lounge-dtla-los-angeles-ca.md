@@ -9,7 +9,7 @@ seo:
   name: "Sakana Sushi Lounge DTLA"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Sakana Sushi Lounge DTLA for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Sakana Sushi Lounge DTLA serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt2HpD8rHwoARfrY2malhAEY
 photos:
   - name: >-

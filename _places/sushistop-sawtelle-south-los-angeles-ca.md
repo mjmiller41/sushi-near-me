@@ -9,7 +9,7 @@ seo:
   name: "SushiStop Sawtelle South"
   type: Restaurant
   links: https://sushistop.com/locations/sawtelle-south/
-description: "Looking for sushi in Los Angeles, California? Check out SushiStop Sawtelle South for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "SushiStop Sawtelle South serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRa2NlQq7woARLQVaFJQsNOg
 photos:
   - name: >-

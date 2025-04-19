@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Division St"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Bonchon Division St for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Bonchon Division St serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD_T95M7SD4gRN7RYyH3-eE8
 photos:
   - name: >-

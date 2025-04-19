@@ -9,7 +9,7 @@ seo:
   name: "Kona Grill - Gilbert"
   type: Restaurant
   links: https://konagrill.com/locations?locations=Gilbert,85295
-description: "Looking for sushi in Gilbert, Arizona? Check out Kona Grill - Gilbert for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Kona Grill - Gilbert serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa5JiB2ysK4cRAuHjaYAcUGU
 photos:
   - name: >-

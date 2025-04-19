@@ -9,7 +9,7 @@ seo:
   name: "Sushi Doraku"
   type: Restaurant
   links: http://www.sushidoraku.us/
-description: "Looking for sushi in Peoria, Arizona? Check out Sushi Doraku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi Doraku serves delicious sushi in Peoria, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi74YkaVdK4cROuwHBaYJsdw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Super Sushi"
   type: Restaurant
   links: http://www.supersushilv.com/
-description: "Eclectic art covers the walls at this informal Japanese eatery with specialty rolls & noodles. Looking for sushi in Las Vegas, Nevada? Check out Super Sushi ..."
+description: "Eclectic art covers the walls at this informal Japanese eatery with specialty rolls & noodles. Super Sushi serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ____NuXGyIARdZNsxBDXBX0
 photos:
   - name: >-

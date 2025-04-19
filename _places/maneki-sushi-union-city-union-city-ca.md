@@ -9,7 +9,7 @@ seo:
   name: "Maneki Sushi Union City"
   type: Restaurant
   links: http://www.emaneki.com/
-description: "Looking for sushi in Union City, California? Check out Maneki Sushi Union City for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Maneki Sushi Union City serves delicious sushi in Union City, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq4HKHuiVj4ARfpcADKdGszU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Osphere Neighborhood Grill and Bar"
   type: Restaurant
   links: https://ospheregrillbar.com/
-description: "Eclectic New American dishes served in airy surrounds with outdoor seats overlooking the lake. Looking for sushi in Orlando, Florida? Check out Osphere Neigh..."
+description: "Eclectic New American dishes served in airy surrounds with outdoor seats overlooking the lake. Osphere Neighborhood Grill and Bar serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJm2MMsLV754gRVhxJcIwBPWc
 photos:
   - name: >-

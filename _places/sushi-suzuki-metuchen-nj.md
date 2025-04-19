@@ -9,7 +9,7 @@ seo:
   name: "Sushi Suzuki"
   type: Restaurant
   links: https://www.sushisuzukinj.com/
-description: "Small joint providing sushi entrees & à la carte options along with other Japanese eats. Looking for sushi in Metuchen, New Jersey? Check out Sushi Suzuki fo..."
+description: "Small joint providing sushi entrees & à la carte options along with other Japanese eats. Sushi Suzuki serves delicious sushi in Metuchen, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJAe6mm823w4kRf_PI4YSdLRU
 photos:
   - name: >-

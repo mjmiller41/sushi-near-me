@@ -9,7 +9,7 @@ seo:
   name: "Sanraku"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Sanraku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sanraku serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6frH_I2AhYAR4oxOqkmBy7A
 photos:
   - name: >-

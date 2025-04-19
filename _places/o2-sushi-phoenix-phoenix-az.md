@@ -9,7 +9,7 @@ seo:
   name: "O2 Sushi Phoenix"
   type: Restaurant
   links: https://www.o2sushiaz.com/
-description: "Looking for sushi in Phoenix, Arizona? Check out O2 Sushi Phoenix for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "O2 Sushi Phoenix serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9ZX3WvxxK4cRwwNLjvmn9as
 photos:
   - name: >-

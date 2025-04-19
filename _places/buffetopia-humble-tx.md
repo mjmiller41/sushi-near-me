@@ -9,7 +9,7 @@ seo:
   name: "Buffetopia"
   type: Restaurant
   links: https://www.buffetopiatx.com/
-description: "Looking for sushi in Humble, Texas? Check out Buffetopia for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Buffetopia serves delicious sushi in Humble, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0fC3r6azQIYRqyFIwT6FswY
 photos:
   - name: >-

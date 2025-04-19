@@ -9,7 +9,7 @@ seo:
   name: "The Pearl Chinese and Thai"
   type: Restaurant
   links: https://www.thepearlchinesethaiga.com/
-description: "No-nonsense venue in a strip mall serving a large menu of Asian favorites & a Sunday lunch buffet. Looking for sushi in Alpharetta, Georgia? Check out The Pe..."
+description: "No-nonsense venue in a strip mall serving a large menu of Asian favorites & a Sunday lunch buffet. The Pearl Chinese and Thai serves delicious sushi in Alpharetta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJRX6iq0B19YgRTWT3gKah7EI
 photos:
   - name: >-

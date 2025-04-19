@@ -9,7 +9,7 @@ seo:
   name: "HRB Experience Century City"
   type: Restaurant
   links: https://www.thehrbexperience.com/
-description: "Looking for sushi in Los Angeles, California? Check out HRB Experience Century City for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "HRB Experience Century City serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw524c8-_woARqgzxRcy5zhM
 photos:
   - name: >-

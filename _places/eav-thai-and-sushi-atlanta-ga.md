@@ -9,7 +9,7 @@ seo:
   name: "EAV Thai and Sushi"
   type: Restaurant
   links: http://www.eavthaisushi.com/
-description: "Retro establishment with brick decor & splashy artwork whips up traditional Thai & sushi dishes. Looking for sushi in Atlanta, Georgia? Check out EAV Thai an..."
+description: "Retro establishment with brick decor & splashy artwork whips up traditional Thai & sushi dishes. EAV Thai and Sushi serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0dFAn1sB9YgRep7HiJOdbA8
 photos:
   - name: >-

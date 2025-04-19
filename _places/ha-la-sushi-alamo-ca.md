@@ -9,7 +9,7 @@ seo:
   name: "Ha-La Sushi"
   type: Restaurant
   links: http://www.halasushi.com/
-description: "Looking for sushi in Alamo, California? Check out Ha-La Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Ha-La Sushi serves delicious sushi in Alamo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc4I6O_6Kj4ARYd9LztY2Gxw
 photos:
   - name: >-

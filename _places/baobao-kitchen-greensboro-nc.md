@@ -9,7 +9,7 @@ seo:
   name: "BaoBao Kitchen"
   type: Restaurant
   links: https://baobaokitchen.com/?utm_source=google
-description: "Looking for sushi in Greensboro, North Carolina? Check out BaoBao Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "BaoBao Kitchen serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa7s-JV4fU4gR1F6jtYxEq1k
 photos:
   - name: >-

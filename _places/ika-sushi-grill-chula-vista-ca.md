@@ -9,7 +9,7 @@ seo:
   name: "Ika Sushi & Grill"
   type: Restaurant
   links: http://ikasushigrill.com/
-description: "Looking for sushi in Chula Vista, California? Check out Ika Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Ika Sushi & Grill serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJEWgdWURF2YARetLpazC8eiY
 photos:
   - name: >-

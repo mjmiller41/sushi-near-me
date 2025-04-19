@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Hibachi & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Winchester, Kentucky? Check out Tokyo Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Tokyo Hibachi & Sushi serves delicious sushi in Winchester, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSb2AKHSyQ4gRoDwrv2Xrskg
 photos:
   - name: >-

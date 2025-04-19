@@ -9,7 +9,7 @@ seo:
   name: "Wonita Sushi Seafood and Bar-All you can eat table service"
   type: Restaurant
   links: http://www.wonitasushiseafood.com/
-description: "Looking for sushi in Brookfield, Wisconsin? Check out Wonita Sushi Seafood and Bar-All you can eat table service for a delightful Japanese dining experience...."
+description: "Wonita Sushi Seafood and Bar-All you can eat table service serves delicious sushi in Brookfield, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ683k2-gHBYgR4BUq8XB6_JU
 photos:
   - name: >-

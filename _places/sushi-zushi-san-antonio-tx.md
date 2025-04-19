@@ -9,7 +9,7 @@ seo:
   name: "Sushi Zushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Antonio, Texas? Check out Sushi Zushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Zushi serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgcWkKrhgXIYRC6mCCvTxGhw
 photos:
   - name: >-

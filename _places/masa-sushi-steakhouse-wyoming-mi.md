@@ -9,7 +9,7 @@ seo:
   name: "Masa Sushi & Steakhouse"
   type: Restaurant
   links: http://www.masasushimichigan.com/
-description: "Looking for sushi in Wyoming, Michigan? Check out Masa Sushi & Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Masa Sushi & Steakhouse serves delicious sushi in Wyoming, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9cuURAK3GYgRQTTXW9IamPs
 photos:
   - name: >-

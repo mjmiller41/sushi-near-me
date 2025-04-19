@@ -9,7 +9,7 @@ seo:
   name: "Ninja Sushi Koʻolau"
   type: Restaurant
   links: null
-description: "Looking for sushi in Kaneohe, Hawaii? Check out Ninja Sushi Koʻolau for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Ninja Sushi Koʻolau serves delicious sushi in Kaneohe, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCZ7bEEJqAHwR4pAk57ydJwk
 photos:
   - name: >-

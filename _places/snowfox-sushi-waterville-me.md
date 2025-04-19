@@ -9,7 +9,7 @@ seo:
   name: "SNOWFOX Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Waterville, Maine? Check out SNOWFOX Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "SNOWFOX Sushi serves delicious sushi in Waterville, Maine. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM8o-SvvlsUwR5E-v8lqa0NU
 photos:
   - name: >-

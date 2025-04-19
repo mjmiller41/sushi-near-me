@@ -9,7 +9,7 @@ seo:
   name: "Good Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lincolnshire, Illinois? Check out Good Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Good Sushi serves delicious sushi in Lincolnshire, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4WIgu_S_D4gRpxRiSzs9bQs
 photos:
   - name: >-

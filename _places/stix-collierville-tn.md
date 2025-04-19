@@ -9,7 +9,7 @@ seo:
   name: "Stix"
   type: Restaurant
   links: null
-description: "Looking for sushi in Collierville, Tennessee? Check out Stix for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Stix serves delicious sushi in Collierville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQQ0wu-2Xf4gR71V74TQEpog
 photos:
   - name: >-

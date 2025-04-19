@@ -9,7 +9,7 @@ seo:
   name: "Musashi Japanese Steakhouse"
   type: Restaurant
   links: http://musashijs.com/
-description: "Convivial stop for meat & seafood cooked on tableside hibachi grills, plus a sushi bar. Looking for sushi in Gainesville, Virginia? Check out Musashi Japanes..."
+description: "Convivial stop for meat & seafood cooked on tableside hibachi grills, plus a sushi bar. Musashi Japanese Steakhouse serves delicious sushi in Gainesville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJT1VVVUVmtokRpotXPBtQY6o
 photos:
   - name: >-

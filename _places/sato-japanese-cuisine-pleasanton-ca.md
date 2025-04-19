@@ -9,7 +9,7 @@ seo:
   name: "Sato Japanese Cuisine"
   type: Restaurant
   links: https://sites.google.com/view/satojapanesecuisine
-description: "Looking for sushi in Pleasanton, California? Check out Sato Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Sato Japanese Cuisine serves delicious sushi in Pleasanton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj7r-wmPpj4ARzr-bbLWqSqc
 photos:
   - name: >-

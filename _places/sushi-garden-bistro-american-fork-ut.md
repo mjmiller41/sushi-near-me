@@ -9,7 +9,7 @@ seo:
   name: "Sushi Garden Bistro"
   type: Restaurant
   links: https://www.smorefood.com/order-online/sushi-garden-bistro-american-fork-84003-ji1gd7sj?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in American Fork, Utah? Check out Sushi Garden Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi Garden Bistro serves delicious sushi in American Fork, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg5iOZmeBTYcRDSeUxMvB8C8
 photos:
   - name: >-

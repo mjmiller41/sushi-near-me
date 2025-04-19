@@ -9,7 +9,7 @@ seo:
   name: "Momiji Sushi Restaurant - Hyacinth"
   type: Restaurant
   links: null
-description: "Looking for sushi in Salem, Oregon? Check out Momiji Sushi Restaurant - Hyacinth for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Momiji Sushi Restaurant - Hyacinth serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa_QBU7b_v1QR3wX8EuRNiJI
 photos:
   - name: >-

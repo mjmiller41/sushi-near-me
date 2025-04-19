@@ -9,7 +9,7 @@ seo:
   name: "Deep Sushi"
   type: Restaurant
   links: https://deepsushi.site/
-description: "Veteran Japanese eatery with specialty rolls,  happy hour & lunch deals in modern digs with a patio. Looking for sushi in Dallas, Texas? Check out Deep Sushi..."
+description: "Veteran Japanese eatery with specialty rolls,  happy hour & lunch deals in modern digs with a patio. Deep Sushi serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ44ttwN2YToYRb0eFQ3ykLVk
 photos:
   - name: >-

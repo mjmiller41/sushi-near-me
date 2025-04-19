@@ -9,7 +9,7 @@ seo:
   name: "Sushi Maru"
   type: Restaurant
   links: https://brandonsushimaru.com/
-description: "Chic spot in a strip mall with clever sushi rolls & other Japanese & Korean fare, plus sake flights. Looking for sushi in Brandon, Florida? Check out Sushi M..."
+description: "Chic spot in a strip mall with clever sushi rolls & other Japanese & Korean fare, plus sake flights. Sushi Maru serves delicious sushi in Brandon, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJv8-wBmTOwogRvi5bHHuMaI8
 photos:
   - name: >-

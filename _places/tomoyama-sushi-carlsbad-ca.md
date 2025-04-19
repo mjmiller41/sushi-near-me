@@ -9,7 +9,7 @@ seo:
   name: "Tomoyama sushi"
   type: Restaurant
   links: http://www.tomoyamasushi.com/
-description: "Offering specials at lunch, this outfit with a full bar serves sushi & classic Japanese fare. Looking for sushi in Carlsbad, California? Check out Tomoyama s..."
+description: "Offering specials at lunch, this outfit with a full bar serves sushi & classic Japanese fare. Tomoyama sushi serves delicious sushi in Carlsbad, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUe4hkFUL3IARfby9S6jKyjQ
 photos:
   - name: >-

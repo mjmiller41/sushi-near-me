@@ -9,7 +9,7 @@ seo:
   name: "Crazy Tokyo Sushi"
   type: Restaurant
   links: https://crazytokyosushionline.com/
-description: "Looking for sushi in Woodland Hills, California? Check out Crazy Tokyo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Crazy Tokyo Sushi serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXxncg72ewoARc4rlpy1LeIs
 photos:
   - name: >-

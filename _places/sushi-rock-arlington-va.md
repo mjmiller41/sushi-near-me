@@ -9,7 +9,7 @@ seo:
   name: "Sushi Rock"
   type: Restaurant
   links: http://www.sushirockva.com/
-description: "Trendy sushi bar & performance venue with bands in the basement & Asian-themed drinks at the bar. Looking for sushi in Arlington, Virginia? Check out Sushi R..."
+description: "Trendy sushi bar & performance venue with bands in the basement & Asian-themed drinks at the bar. Sushi Rock serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJobliPGC2t4kR9Vb7dzIslz8
 photos:
   - name: >-

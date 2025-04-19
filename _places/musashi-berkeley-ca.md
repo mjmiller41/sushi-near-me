@@ -9,7 +9,7 @@ seo:
   name: "Musashi"
   type: Restaurant
   links: https://www.musashiofberkeley.com/index.html
-description: "Looking for sushi in Berkeley, California? Check out Musashi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Musashi serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2YNPYYJ-hYARcDk4kYAivYY
 photos:
   - name: >-

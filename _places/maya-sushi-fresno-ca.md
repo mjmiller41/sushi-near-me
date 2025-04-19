@@ -9,7 +9,7 @@ seo:
   name: "Maya Sushi"
   type: Restaurant
   links: https://www.mayasushifresno.com/
-description: "Looking for sushi in Fresno, California? Check out Maya Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Maya Sushi serves delicious sushi in Fresno, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA-8zVUNDlIARmK1_7QIoMYs
 photos:
   - name: >-

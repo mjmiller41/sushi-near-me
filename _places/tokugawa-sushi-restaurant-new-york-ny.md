@@ -9,7 +9,7 @@ seo:
   name: "Tokugawa Sushi Restaurant"
   type: Restaurant
   links: https://www.tokugawanyc.com/
-description: "Looking for sushi in New York, New York? Check out Tokugawa Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Tokugawa Sushi Restaurant serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJU_L5wepZwokR0_p3hTDnWx8
 photos:
   - name: >-

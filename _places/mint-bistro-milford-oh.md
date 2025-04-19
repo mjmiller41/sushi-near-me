@@ -9,7 +9,7 @@ seo:
   name: "Mint Bistro"
   type: Restaurant
   links: https://www.mintbistromilford.com/
-description: "Looking for sushi in Milford, Ohio? Check out Mint Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Mint Bistro serves delicious sushi in Milford, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ0xN2Sp-qQYgRDr0NlQ9ybX8
 photos:
   - name: >-

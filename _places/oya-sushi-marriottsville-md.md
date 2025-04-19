@@ -9,7 +9,7 @@ seo:
   name: "Oya Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Marriottsville, Maryland? Check out Oya Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Oya Sushi serves delicious sushi in Marriottsville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjYA1JgAhyIkRQpa_RGgryVQ
 photos:
   - name: >-

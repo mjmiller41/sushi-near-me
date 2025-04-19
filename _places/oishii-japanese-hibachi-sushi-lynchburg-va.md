@@ -9,7 +9,7 @@ seo:
   name: "Oishii! Japanese Hibachi & Sushi"
   type: Restaurant
   links: http://facebook.com/oishiiVA
-description: "Looking for sushi in Lynchburg, Virginia? Check out Oishii! Japanese Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Oishii! Japanese Hibachi & Sushi serves delicious sushi in Lynchburg, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh93s9M3RsokRjgUazohIEwQ
 photos:
   - name: >-

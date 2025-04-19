@@ -9,7 +9,7 @@ seo:
   name: "Hikari Bullet Train Sushi & Bar"
   type: Restaurant
   links: null
-description: "Modern Japanese & sushi destination with booths, counter seats & train-style conveyor delivery. Looking for sushi in San Francisco, California? Check out Hik..."
+description: "Modern Japanese & sushi destination with booths, counter seats & train-style conveyor delivery. Hikari Bullet Train Sushi & Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJoeSh17iAhYARoPm11rjW2nE
 photos:
   - name: >-

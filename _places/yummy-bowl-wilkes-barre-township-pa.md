@@ -9,7 +9,7 @@ seo:
   name: "Yummy Bowl"
   type: Restaurant
   links: http://yummybowl.us/
-description: "Looking for sushi in Wilkes-Barre Township, Pennsylvania? Check out Yummy Bowl for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Yummy Bowl serves delicious sushi in Wilkes-Barre Township, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpT_XN0AbxYkRSh1AVszs1XU
 photos:
   - name: >-

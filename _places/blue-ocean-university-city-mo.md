@@ -9,7 +9,7 @@ seo:
   name: "Blue Ocean"
   type: Restaurant
   links: http://www.blueoceanstl.com/
-description: "Looking for sushi in University City, Missouri? Check out Blue Ocean for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Blue Ocean serves delicious sushi in University City, Missouri. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGwWfcFQ134cRQbEflNGSMg4
 photos:
   - name: >-

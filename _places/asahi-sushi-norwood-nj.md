@@ -9,7 +9,7 @@ seo:
   name: "Asahi Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Norwood, New Jersey? Check out Asahi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Asahi Sushi serves delicious sushi in Norwood, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF2oGiJHuwokR27Uv35ymNvk
 photos:
   - name: >-

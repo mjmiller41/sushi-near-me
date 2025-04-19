@@ -9,7 +9,7 @@ seo:
   name: "Ninja Steak and Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Braselton, Georgia? Check out Ninja Steak and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Ninja Steak and Sushi serves delicious sushi in Braselton, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOzbEWIzu9YgR4-8NLYEBZKU
 photos:
   - name: >-

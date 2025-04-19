@@ -9,7 +9,7 @@ seo:
   name: "Sushi Zen & Izakaya"
   type: Restaurant
   links: http://www.sushizenizakaya.com/
-description: "Looking for sushi in Sunny Isles Beach, Florida? Check out Sushi Zen & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Sushi Zen & Izakaya serves delicious sushi in Sunny Isles Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJqQ097eCs2YgRCI61kwalR4A
 photos:
   - name: >-

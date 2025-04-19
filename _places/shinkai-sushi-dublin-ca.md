@@ -9,7 +9,7 @@ seo:
   name: "Shinkai Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Dublin, California? Check out Shinkai Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Shinkai Sushi serves delicious sushi in Dublin, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU0jqKwDpj4ARlNbiJegzYL8
 photos:
   - name: >-

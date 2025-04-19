@@ -9,7 +9,7 @@ seo:
   name: "Leo's Kitchen"
   type: Restaurant
   links: https://leoskitchen.net/
-description: "Looking for sushi in Chula Vista, California? Check out Leo's Kitchen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Leo's Kitchen serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-SVZitlP2YARgyq7F9T0ims
 photos:
   - name: >-

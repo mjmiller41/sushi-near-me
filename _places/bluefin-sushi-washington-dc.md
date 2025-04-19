@@ -9,7 +9,7 @@ seo:
   name: "Bluefin Sushi"
   type: Restaurant
   links: http://bluefingeorgetown.com/
-description: "Maki, nigiri & specialty rolls in a snug spot with limited seating, plus takeout & delivery options. Looking for sushi in Washington, District of Columbia? C..."
+description: "Maki, nigiri & specialty rolls in a snug spot with limited seating, plus takeout & delivery options. Bluefin Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJaRMy80u2t4kRJ4nZjxmT5BY
 photos:
   - name: >-

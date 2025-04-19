@@ -9,7 +9,7 @@ seo:
   name: "Avana sushi 3 & seafood restaurant"
   type: Restaurant
   links: https://www.avanasushi3reading.com/
-description: "Looking for sushi in Reading, Massachusetts? Check out Avana sushi 3 & seafood restaurant for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "Avana sushi 3 & seafood restaurant serves delicious sushi in Reading, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJBXpbjOcL44kRSET9D7fe_m0
 photos:
   - name: >-

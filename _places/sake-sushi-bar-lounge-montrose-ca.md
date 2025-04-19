@@ -9,7 +9,7 @@ seo:
   name: "Sake Sushi Bar Lounge"
   type: Restaurant
   links: null
-description: "Looking for sushi in Montrose, California? Check out Sake Sushi Bar Lounge for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Sake Sushi Bar Lounge serves delicious sushi in Montrose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqeAonBLqwoAR2ePb8Oym-dI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "YU/MI Sushi"
   type: Restaurant
   links: http://www.yumisushibh.com/
-description: "Looking for sushi in Beverly Hills, California? Check out YU/MI Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "YU/MI Sushi serves delicious sushi in Beverly Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0XlHdAi8woAR7XWHdhCvL4c
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi In Joy"
   type: Restaurant
   links: https://sijbellevue.com/
-description: "Looking for sushi in Bellevue, Washington? Check out Sushi In Joy for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi In Joy serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEV-SJMBskFQRB6cEdcEWLPs
 photos:
   - name: >-

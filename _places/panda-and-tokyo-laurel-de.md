@@ -9,7 +9,7 @@ seo:
   name: "Panda And Tokyo"
   type: Restaurant
   links: https://www.ezordernow.com/pandatokyode
-description: "Looking for sushi in Laurel, Delaware? Check out Panda And Tokyo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Panda And Tokyo serves delicious sushi in Laurel, Delaware. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJEQfP7I76uIkR5qwvixG4F_s
 photos:
   - name: >-

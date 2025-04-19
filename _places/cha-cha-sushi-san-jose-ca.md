@@ -9,7 +9,7 @@ seo:
   name: "Cha Cha Sushi"
   type: Restaurant
   links: http://www.chachasushi.com/
-description: "Looking for sushi in San Jose, California? Check out Cha Cha Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Cha Cha Sushi serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZXPuq0syjoAR8Y9FHnWb86o
 photos:
   - name: >-

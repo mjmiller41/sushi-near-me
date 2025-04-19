@@ -9,7 +9,7 @@ seo:
   name: "Sushi Vegan"
   type: Restaurant
   links: https://www.sushiveganca.com/?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Santa Monica, California? Check out Sushi Vegan for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Vegan serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqbNEGOu7woARSwjOCzcvgmE
 photos:
   - name: >-

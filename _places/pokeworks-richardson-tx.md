@@ -9,7 +9,7 @@ seo:
   name: "Pokeworks"
   type: Restaurant
   links: null
-description: "Looking for sushi in Richardson, Texas? Check out Pokeworks for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Pokeworks serves delicious sushi in Richardson, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJV4Ti7fofTIYRg71Tub7sda0
 photos:
   - name: >-

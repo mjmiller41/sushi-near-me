@@ -9,7 +9,7 @@ seo:
   name: "Yuzu Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chamblee, Georgia? Check out Yuzu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Yuzu Sushi serves delicious sushi in Chamblee, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRweV364J9YgROFdCqJ7x0Og
 photos:
   - name: >-

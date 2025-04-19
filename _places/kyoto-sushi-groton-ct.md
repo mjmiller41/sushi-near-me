@@ -9,7 +9,7 @@ seo:
   name: "Kyoto Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Groton, Connecticut? Check out Kyoto Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Kyoto Sushi serves delicious sushi in Groton, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ76dLlbYO5okR_HYOZde3KWU
 photos:
   - name: >-

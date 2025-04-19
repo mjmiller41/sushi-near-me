@@ -9,7 +9,7 @@ seo:
   name: "Sushi Garage Cocowalk"
   type: Restaurant
   links: https://www.sushigarage.com/
-description: "Looking for sushi in Coconut Grove, Florida? Check out Sushi Garage Cocowalk for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Sushi Garage Cocowalk serves delicious sushi in Coconut Grove, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJ9VWp6e32YgRVABD8eBz9p0
 photos:
   - name: >-

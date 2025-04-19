@@ -9,7 +9,7 @@ seo:
   name: "Ying's Thai-Sushi"
   type: Restaurant
   links: https://yingsthaisushisandy.com/
-description: "Looking for sushi in Sandy, Utah? Check out Ying's Thai-Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Ying's Thai-Sushi serves delicious sushi in Sandy, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu_ftL-KHUocRFgTqElV9Qyc
 photos:
   - name: >-

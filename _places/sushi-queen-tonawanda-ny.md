@@ -9,7 +9,7 @@ seo:
   name: "Sushi Queen"
   type: Restaurant
   links: https://www.sushiqueenny.com/
-description: "Looking for sushi in Tonawanda, New York? Check out Sushi Queen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Queen serves delicious sushi in Tonawanda, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMVOMdQpt04kRYAZPPigFjYU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Poke Sushi"
   type: Restaurant
   links: http://diypokesushi.com/
-description: "Looking for sushi in Brooklyn, New York? Check out Poke Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Poke Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_8973oREwokR_EfLjyx_NAQ
 photos:
   - name: >-

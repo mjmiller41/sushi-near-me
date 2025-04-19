@@ -9,7 +9,7 @@ seo:
   name: "Asian Express"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lawrenceville, Georgia? Check out Asian Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Asian Express serves delicious sushi in Lawrenceville, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWV3Lehe89YgRK-fqCUoOtD0
 photos:
   - name: >-

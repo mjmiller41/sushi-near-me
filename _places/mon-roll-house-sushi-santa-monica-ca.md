@@ -9,7 +9,7 @@ seo:
   name: "Mon Roll House Sushi"
   type: Restaurant
   links: https://order.online/business/mon-roll-house-13588879
-description: "Looking for sushi in Santa Monica, California? Check out Mon Roll House Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Mon Roll House Sushi serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk77W7tGkwoARhDXtWiGXtJg
 photos:
   - name: >-

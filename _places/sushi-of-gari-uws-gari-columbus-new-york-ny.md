@@ -9,7 +9,7 @@ seo:
   name: "Sushi of Gari UWS (Gari Columbus)"
   type: Restaurant
   links: https://www.sushiofgari.com/
-description: "Minimalist branch of a local upscale sushi chain offering creative rolls, Japanese fare & sake. Looking for sushi in New York, New York? Check out Sushi of G..."
+description: "Minimalist branch of a local upscale sushi chain offering creative rolls, Japanese fare & sake. Sushi of Gari UWS (Gari Columbus) serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJRf0k0Y5YwokR7hh2IBTl3LY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Miyabiya Sushi & Grill"
   type: Restaurant
   links: http://www.miyabiyasf.com/
-description: "Contemporary Japanse restaurant serving sushi, sashimi, and nigiri, plus teriyaki and yakitori. Looking for sushi in San Francisco, California? Check out Miy..."
+description: "Contemporary Japanse restaurant serving sushi, sashimi, and nigiri, plus teriyaki and yakitori. Miyabiya Sushi & Grill serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6VfSbo-AhYAR9UO_OvUIaw8
 photos:
   - name: >-

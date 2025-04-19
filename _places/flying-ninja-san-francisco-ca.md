@@ -9,7 +9,7 @@ seo:
   name: "Flying Ninja"
   type: Restaurant
   links: http://www.sfflyingninja.com/
-description: "Looking for sushi in San Francisco, California? Check out Flying Ninja for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Flying Ninja serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj-yRoOGAhYARYrYxzGiJi0U
 photos:
   - name: >-

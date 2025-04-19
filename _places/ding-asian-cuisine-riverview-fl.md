@@ -9,7 +9,7 @@ seo:
   name: "DING Asian Cuisine"
   type: Restaurant
   links: http://www.dingasian.com/
-description: "Looking for sushi in Riverview, Florida? Check out DING Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "DING Asian Cuisine serves delicious sushi in Riverview, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRXpt7Z7RwogRPK18vve2X7k
 photos:
   - name: >-

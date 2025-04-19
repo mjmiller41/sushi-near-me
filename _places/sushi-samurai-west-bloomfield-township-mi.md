@@ -9,7 +9,7 @@ seo:
   name: "Sushi Samurai"
   type: Restaurant
   links: null
-description: "Looking for sushi in West Bloomfield Township, Michigan? Check out Sushi Samurai for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Sushi Samurai serves delicious sushi in West Bloomfield Township, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ48yKFpS7JIgRQOTxqDxV_W4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushiko"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Sushiko for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushiko serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH7P76-G7woARLGaf5dWSGvk
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sake Bar Hagi"
   type: Restaurant
   links: http://www.sakebar-hagi.com/
-description: "Cozy, brick-walled Japanese eatery and sake bar, offering yakitori, noodles, and sushi, plus happy hours. Looking for sushi in New York, New York? Check out ..."
+description: "Cozy, brick-walled Japanese eatery and sake bar, offering yakitori, noodles, and sushi, plus happy hours. Sake Bar Hagi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJx-Yt5lNYwokRzwFhNuRwCwQ
 photos:
   - name: >-

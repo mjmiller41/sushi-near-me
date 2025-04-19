@@ -9,7 +9,7 @@ seo:
   name: "Sansei Seafood Restaurant & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Honolulu, Hawaii? Check out Sansei Seafood Restaurant & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Sansei Seafood Restaurant & Sushi Bar serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeRjBxXByAHwRKszR5Ib3vg4
 photos:
   - name: >-

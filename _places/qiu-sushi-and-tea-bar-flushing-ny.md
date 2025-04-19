@@ -9,7 +9,7 @@ seo:
   name: "Qiu Sushi and Tea Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Flushing, New York? Check out Qiu Sushi and Tea Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Qiu Sushi and Tea Bar serves delicious sushi in Flushing, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS-T0TbhhwokRAS-BW4R9WIg
 photos:
   - name: >-

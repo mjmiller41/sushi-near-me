@@ -9,7 +9,7 @@ seo:
   name: "Keeaumoku Seafood"
   type: Restaurant
   links: null
-description: "Looking for sushi in Honolulu, Hawaii? Check out Keeaumoku Seafood for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Keeaumoku Seafood serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeTYzfultAHwR-ksDQE7Tn7s
 photos:
   - name: >-

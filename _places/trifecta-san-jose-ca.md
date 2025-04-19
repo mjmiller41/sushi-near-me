@@ -9,7 +9,7 @@ seo:
   name: "Trifecta"
   type: Restaurant
   links: https://www.trifectaomakase.com/
-description: "Looking for sushi in San Jose, California? Check out Trifecta for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Trifecta serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJz0CQR38tjoAR6ML_ec0ctPk
 photos:
   - name: >-

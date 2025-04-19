@@ -9,7 +9,7 @@ seo:
   name: "Sushi Sho"
   type: Restaurant
   links: http://www.ritzcarlton.com/en/hotels/hawaii/waikiki/dining/sushi-sho?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
-description: "Looking for sushi in Honolulu, Hawaii? Check out Sushi Sho for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Sushi Sho serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI21nVoptAHwRLy8f_u6hZdQ
 photos:
   - name: >-

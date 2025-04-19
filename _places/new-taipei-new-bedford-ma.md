@@ -9,7 +9,7 @@ seo:
   name: "New Taipei"
   type: Restaurant
   links: https://www.newtaipeima.com/
-description: "Looking for sushi in New Bedford, Massachusetts? Check out New Taipei for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "New Taipei serves delicious sushi in New Bedford, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1b0kIrjj5IkR86xg3esw8Yk
 photos:
   - name: >-

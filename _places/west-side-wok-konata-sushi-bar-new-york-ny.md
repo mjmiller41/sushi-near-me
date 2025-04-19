@@ -9,7 +9,7 @@ seo:
   name: "West Side Wok & Konata Sushi Bar"
   type: Restaurant
   links: https://www.westsidewok.com/
-description: "Looking for sushi in New York, New York? Check out West Side Wok & Konata Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "West Side Wok & Konata Sushi Bar serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVYvJZV5ZwokRB_UCppYi50w
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Sasabune"
   type: Restaurant
   links: https://sasabuneh.com/
-description: "Looking for sushi in Honolulu, Hawaii? Check out Sushi Sasabune for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Sasabune serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUVThrO5tAHwRiAxoNC_pE5M
 photos:
   - name: >-

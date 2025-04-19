@@ -9,7 +9,7 @@ seo:
   name: "라스베가스 횟집/활어(Sea Salt Live Sashimi)"
   type: Restaurant
   links: http://www.seasaltlivesashimi.com/
-description: "Looking for sushi in Las Vegas, Nevada? Check out 라스베가스 횟집/활어(Sea Salt Live Sashimi) for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "라스베가스 횟집/활어(Sea Salt Live Sashimi) serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl5qW-a_GyIAR46Q96cWxHp8
 photos:
   - name: >-

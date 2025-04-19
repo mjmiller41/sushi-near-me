@@ -9,7 +9,7 @@ seo:
   name: "CoBo Sushi Bistro & Bar"
   type: Restaurant
   links: http://cobosushi.com/
-description: "Looking for sushi in Boone, North Carolina? Check out CoBo Sushi Bistro & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "CoBo Sushi Bistro & Bar serves delicious sushi in Boone, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy2G8tA76UIgRmJXILJdCMS8
 photos:
   - name: >-

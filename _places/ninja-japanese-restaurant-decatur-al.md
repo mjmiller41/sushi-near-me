@@ -9,7 +9,7 @@ seo:
   name: "Ninja Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Decatur, Alabama? Check out Ninja Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Ninja Japanese Restaurant serves delicious sushi in Decatur, Alabama. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcw_DK7OGYogRkBb_ThvKieg
 photos:
   - name: >-

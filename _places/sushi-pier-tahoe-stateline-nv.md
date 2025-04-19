@@ -9,7 +9,7 @@ seo:
   name: "Sushi Pier Tahoe"
   type: Restaurant
   links: http://tahoesushipier.com/
-description: "Looking for sushi in Stateline, Nevada? Check out Sushi Pier Tahoe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Pier Tahoe serves delicious sushi in Stateline, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaR_MrYWamYARGlO6c0kaV1o
 photos:
   - name: >-

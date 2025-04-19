@@ -9,7 +9,7 @@ seo:
   name: "Miyazaki Sushi & Ramen"
   type: Restaurant
   links: https://www.miyazakitx66.com/
-description: "Looking for sushi in Spring, Texas? Check out Miyazaki Sushi & Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Miyazaki Sushi & Ramen serves delicious sushi in Spring, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS7tQ40PNQIYRmOiuyfza2uA
 photos:
   - name: >-

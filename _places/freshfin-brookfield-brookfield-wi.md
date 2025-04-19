@@ -9,7 +9,7 @@ seo:
   name: "FreshFin | Brookfield"
   type: Restaurant
   links: null
-description: "Looking for sushi in Brookfield, Wisconsin? Check out FreshFin | Brookfield for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "FreshFin | Brookfield serves delicious sushi in Brookfield, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdUSF-yMHBYgR7aL1NzAsSfE
 photos:
   - name: >-

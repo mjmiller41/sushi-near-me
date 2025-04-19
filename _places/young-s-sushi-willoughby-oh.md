@@ -9,7 +9,7 @@ seo:
   name: "Young's Sushi"
   type: Restaurant
   links: http://youngssushi.com/
-description: "Rolls, sashimi & party plates round out the menu at this informal Japanese restaurant. Looking for sushi in Willoughby, Ohio? Check out Young's Sushi for a d..."
+description: "Rolls, sashimi & party plates round out the menu at this informal Japanese restaurant. Young's Sushi serves delicious sushi in Willoughby, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnXfNV3SpMYgRjJRMyhgsSEY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Jellyfish"
   type: Restaurant
   links: https://www.jellyfishsushi.com/
-description: "Looking for sushi in Houston, Texas? Check out Jellyfish for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Jellyfish serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxS3PrZTHQIYRRcF3dvSBM_U
 photos:
   - name: >-

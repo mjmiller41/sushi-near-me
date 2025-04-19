@@ -9,7 +9,7 @@ seo:
   name: "Happy Teriyaki"
   type: Restaurant
   links: https://www.toasttab.com/happy/v3/
-description: "Looking for sushi in Tacoma, Washington? Check out Happy Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Happy Teriyaki serves delicious sushi in Tacoma, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDaVecYgBkVQRtqEcC4S6f0A
 photos:
   - name: >-

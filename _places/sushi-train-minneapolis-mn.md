@@ -9,7 +9,7 @@ seo:
   name: "Sushi Train"
   type: Restaurant
   links: null
-description: "Looking for sushi in Minneapolis, Minnesota? Check out Sushi Train for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Train serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaWBlZ0szs1IRQXa3mainSO4
 photos:
   - name: >-

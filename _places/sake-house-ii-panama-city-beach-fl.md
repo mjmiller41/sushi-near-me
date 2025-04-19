@@ -9,7 +9,7 @@ seo:
   name: "Sake House II"
   type: Restaurant
   links: https://www.smorefood.com/order-online/sake-house-ii-panama-city-beach-32408-h28yoht0?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Panama City Beach, Florida? Check out Sake House II for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Sake House II serves delicious sushi in Panama City Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJSU0SQASGk4gR_5XM4nbqlK8
 photos:
   - name: >-

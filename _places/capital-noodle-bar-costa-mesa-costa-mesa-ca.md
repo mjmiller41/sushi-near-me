@@ -9,7 +9,7 @@ seo:
   name: "Capital Noodle Bar | Costa Mesa"
   type: Restaurant
   links: null
-description: "Looking for sushi in Costa Mesa, California? Check out Capital Noodle Bar | Costa Mesa for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Capital Noodle Bar | Costa Mesa serves delicious sushi in Costa Mesa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw48k8Rjf3IARdhxJozO9Dig
 photos:
   - name: >-

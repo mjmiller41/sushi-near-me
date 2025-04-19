@@ -9,7 +9,7 @@ seo:
   name: "Rooftop at Nobu Hotel Chicago"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Rooftop at Nobu Hotel Chicago for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Rooftop at Nobu Hotel Chicago serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeX3F8eUtDogRIlPIC1Si8dM
 photos:
   - name: >-

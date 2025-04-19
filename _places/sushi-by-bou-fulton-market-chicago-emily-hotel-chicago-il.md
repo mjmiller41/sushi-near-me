@@ -9,7 +9,7 @@ seo:
   name: "Sushi by Bou- Fulton Market Chicago @ Emily Hotel"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Sushi by Bou- Fulton Market Chicago @ Emily Hotel for a delightful Japanese dining experience. Enjoy a vari..."
+description: "Sushi by Bou- Fulton Market Chicago @ Emily Hotel serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGzrP6dAsDogRu7c8qQOHJlI
 photos:
   - name: >-

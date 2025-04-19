@@ -9,7 +9,7 @@ seo:
   name: "Davenport Sashimi Fusion"
   type: Restaurant
   links: https://davenportsashimifusion.com/
-description: "Looking for sushi in Davenport, Florida? Check out Davenport Sashimi Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Davenport Sashimi Fusion serves delicious sushi in Davenport, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8-ce-Cd53YgRYOZgsfATQvg
 photos:
   - name: >-

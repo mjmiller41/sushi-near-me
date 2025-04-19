@@ -9,7 +9,7 @@ seo:
   name: "Kiraku Sushi & Ramen"
   type: Restaurant
   links: https://www.kirakullc.com/
-description: "Looking for sushi in Santa Rosa, California? Check out Kiraku Sushi & Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Kiraku Sushi & Ramen serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqSjH3og5hIAR9v9d-elHuco
 photos:
   - name: >-

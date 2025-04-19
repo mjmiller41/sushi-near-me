@@ -9,7 +9,7 @@ seo:
   name: "Hokkaido Sushi"
   type: Restaurant
   links: http://www.hokkaido1623.com/
-description: "Looking for sushi in Elizabethtown, Pennsylvania? Check out Hokkaido Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Hokkaido Sushi serves delicious sushi in Elizabethtown, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk0F14_yYyIkRDF5Y1A8I37k
 photos:
   - name: >-

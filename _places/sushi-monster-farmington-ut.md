@@ -9,7 +9,7 @@ seo:
   name: "Sushi Monster"
   type: Restaurant
   links: null
-description: "Looking for sushi in Farmington, Utah? Check out Sushi Monster for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Monster serves delicious sushi in Farmington, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7Uu_Y-D-UocRlYIVmwmR03c
 photos:
   - name: >-

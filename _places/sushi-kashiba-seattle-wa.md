@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kashiba"
   type: Restaurant
   links: https://sushikashiba.com/
-description: "Looking for sushi in Seattle, Washington? Check out Sushi Kashiba for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Kashiba serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFS-l3bJqkFQRLsPudqgFD-4
 photos:
   - name: >-

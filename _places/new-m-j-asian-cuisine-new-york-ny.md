@@ -9,7 +9,7 @@ seo:
   name: "New M & J Asian Cuisine"
   type: Restaurant
   links: http://www.mjasiancuisinenyc.com/?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in New York, New York? Check out New M & J Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "New M & J Asian Cuisine serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOUilh8xZwokRxw3WBcGT0pk
 photos:
   - name: >-

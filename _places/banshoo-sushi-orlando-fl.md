@@ -9,7 +9,7 @@ seo:
   name: "Banshoo Sushi"
   type: Restaurant
   links: http://www.rosencentre.com/dining-and-recreation/banshoo-sushi-bar/
-description: "Modern sushi bar in the Rosen Centre Hotel serving inventive maki & Japanese-style seafood dishes. Looking for sushi in Orlando, Florida? Check out Banshoo S..."
+description: "Modern sushi bar in the Rosen Centre Hotel serving inventive maki & Japanese-style seafood dishes. Banshoo Sushi serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJab2b9zZ-54gR1tZL34SkRx0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Ahi and Vegetable - Kapalama"
   type: Restaurant
   links: null
-description: "Looking for sushi in Honolulu, Hawaii? Check out Ahi and Vegetable - Kapalama for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Ahi and Vegetable - Kapalama serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc19aMWRuAHwRzzBT-a5wTuw
 photos:
   - name: >-

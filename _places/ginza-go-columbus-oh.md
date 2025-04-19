@@ -9,7 +9,7 @@ seo:
   name: "Ginza Go"
   type: Restaurant
   links: https://www.ginzagocolumbus.com/
-description: "Unfussy counter-serve joint dispensing casual Japanese grub, including sushi & tempura. Looking for sushi in Columbus, Ohio? Check out Ginza Go for a delight..."
+description: "Unfussy counter-serve joint dispensing casual Japanese grub, including sushi & tempura. Ginza Go serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJa425nAyLOIgR2r4qazvHs0I
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "J Towne Tavern"
   type: Restaurant
   links: http://www.jtownetavern.com/
-description: "Upscale-casual restaurant/bar for steaks, burgers, seafood & pizza, plus craft brews & other drinks. Looking for sushi in Lake Hopatcong, New Jersey? Check o..."
+description: "Upscale-casual restaurant/bar for steaks, burgers, seafood & pizza, plus craft brews & other drinks. J Towne Tavern serves delicious sushi in Lake Hopatcong, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJEUgkT1Rzw4kRda-cFSECL9U
 photos:
   - name: >-

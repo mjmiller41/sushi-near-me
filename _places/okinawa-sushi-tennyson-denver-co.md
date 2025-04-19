@@ -9,7 +9,7 @@ seo:
   name: "Okinawa Sushi Tennyson"
   type: Restaurant
   links: null
-description: "Looking for sushi in Denver, Colorado? Check out Okinawa Sushi Tennyson for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Okinawa Sushi Tennyson serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-_mFQHyHa4cRk98QFCcbgyM
 photos:
   - name: >-

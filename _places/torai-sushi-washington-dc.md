@@ -9,7 +9,7 @@ seo:
   name: "Torai Sushi"
   type: Restaurant
   links: http://toraisushi.com/
-description: "A menu specializing in Japanese ramen & comfort food, alongside sushi & poke bowls in a chill space. Looking for sushi in Washington, District of Columbia? C..."
+description: "A menu specializing in Japanese ramen & comfort food, alongside sushi & poke bowls in a chill space. Torai Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgbu76My5t4kR6JfRDDFyrqk
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Naree Kitchen Thai & Sushi"
   type: Restaurant
   links: http://www.nareekitchen.com/
-description: "Looking for sushi in Kansas City, Kansas? Check out Naree Kitchen Thai & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Naree Kitchen Thai & Sushi serves delicious sushi in Kansas City, Kansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnfPj7RyNwIcRZqGNChvNvFs
 photos:
   - name: >-

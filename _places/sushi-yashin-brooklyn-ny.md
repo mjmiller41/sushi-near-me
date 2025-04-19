@@ -9,7 +9,7 @@ seo:
   name: "Sushi Yashin"
   type: Restaurant
   links: https://www.sushiyashin.com/
-description: "Chill, compact spot offering sushi rolls & sashimi, plus chef's-choice & lunch specials. Looking for sushi in Brooklyn, New York? Check out Sushi Yashin for ..."
+description: "Chill, compact spot offering sushi rolls & sashimi, plus chef's-choice & lunch specials. Sushi Yashin serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSdgc3f1awokRq3dr7RS4D4g
 photos:
   - name: >-

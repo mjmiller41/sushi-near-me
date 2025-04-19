@@ -9,7 +9,7 @@ seo:
   name: "Katsu"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mountain View, California? Check out Katsu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Katsu serves delicious sushi in Mountain View, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp6_gcIK3j4ARGYrA3vLG4OE
 photos:
   - name: >-

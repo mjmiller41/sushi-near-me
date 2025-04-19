@@ -9,7 +9,7 @@ seo:
   name: "Sushi Village"
   type: Restaurant
   links: https://www.sushivillageharrisonburg.com/
-description: "Looking for sushi in Harrisonburg, Virginia? Check out Sushi Village for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Village serves delicious sushi in Harrisonburg, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIQF6YZaStIkRoCtn7V3SwUA
 photos:
   - name: >-

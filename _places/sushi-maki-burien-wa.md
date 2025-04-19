@@ -9,7 +9,7 @@ seo:
   name: "Sushi Maki"
   type: Restaurant
   links: null
-description: "Looking for sushi in Burien, Washington? Check out Sushi Maki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Maki serves delicious sushi in Burien, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp-VvoZ9EkFQRhPhgn6t-0F4
 photos:
   - name: >-

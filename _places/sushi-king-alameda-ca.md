@@ -9,7 +9,7 @@ seo:
   name: "Sushi King"
   type: Restaurant
   links: null
-description: "Looking for sushi in Alameda, California? Check out Sushi King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi King serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLQS_-JSGj4ARMSo3akLmz48
 photos:
   - name: >-

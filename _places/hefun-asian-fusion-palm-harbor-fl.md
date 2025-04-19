@@ -9,7 +9,7 @@ seo:
   name: "HeFun Asian Fusion"
   type: Restaurant
   links: null
-description: "Looking for sushi in Palm Harbor, Florida? Check out HeFun Asian Fusion for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "HeFun Asian Fusion serves delicious sushi in Palm Harbor, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3dHw1EPtwogRGtKthTSDcQM
 photos:
   - name: >-

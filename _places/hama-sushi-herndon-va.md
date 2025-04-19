@@ -9,7 +9,7 @@ seo:
   name: "Hama Sushi"
   type: Restaurant
   links: http://www.hama-sushi.com/
-description: "Strip-mall restaurant serving creative rolls & other Japanese fare, with a midsized sake selection. Looking for sushi in Herndon, Virginia? Check out Hama Su..."
+description: "Strip-mall restaurant serving creative rolls & other Japanese fare, with a midsized sake selection. Hama Sushi serves delicious sushi in Herndon, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwTDsH5dHtokRBKBkuT2VSt0
 photos:
   - name: >-

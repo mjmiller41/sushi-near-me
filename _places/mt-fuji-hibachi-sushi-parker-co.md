@@ -9,7 +9,7 @@ seo:
   name: "Mt Fuji Hibachi & Sushi"
   type: Restaurant
   links: https://www.mtfujiparker.com/?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Parker, Colorado? Check out Mt Fuji Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Mt Fuji Hibachi & Sushi serves delicious sushi in Parker, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaSIki_yPbIcReiGODyVq2qk
 photos:
   - name: >-

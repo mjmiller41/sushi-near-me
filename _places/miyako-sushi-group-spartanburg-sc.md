@@ -9,7 +9,7 @@ seo:
   name: "Miyako Sushi Group"
   type: Restaurant
   links: http://www.miyakosushigroup.com/
-description: "Comfy Japanese eatery offering a sizable selection of traditional dishes & specialty rolls. Looking for sushi in Spartanburg, South Carolina? Check out Miyak..."
+description: "Comfy Japanese eatery offering a sizable selection of traditional dishes & specialty rolls. Miyako Sushi Group serves delicious sushi in Spartanburg, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ7_q84vR1V4gRdEFXZBoFxK0
 photos:
   - name: >-

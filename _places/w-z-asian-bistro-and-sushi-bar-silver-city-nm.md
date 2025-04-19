@@ -9,7 +9,7 @@ seo:
   name: "W&Z Asian Bistro and Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Silver City, New Mexico? Check out W&Z Asian Bistro and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "W&Z Asian Bistro and Sushi Bar serves delicious sushi in Silver City, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt9HVCSHH2IYRqPXWu_cWfoE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Top Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Houston, Texas? Check out Top Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Top Sushi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9c10p6bDQIYRy_EokfjexHs
 photos:
   - name: >-

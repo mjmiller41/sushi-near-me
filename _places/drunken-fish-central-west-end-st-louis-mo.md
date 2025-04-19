@@ -9,7 +9,7 @@ seo:
   name: "Drunken Fish - Central West End"
   type: Restaurant
   links: null
-description: "Looking for sushi in St. Louis, Missouri? Check out Drunken Fish - Central West End for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Drunken Fish - Central West End serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8Xi1LNa02IcRhTijmlaR_oQ
 photos:
   - name: >-

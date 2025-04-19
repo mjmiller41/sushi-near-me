@@ -9,7 +9,7 @@ seo:
   name: "Midori Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Midori Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Midori Japanese Restaurant serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr9HKmg7OD4gRk5iWg0kSDYI
 photos:
   - name: >-

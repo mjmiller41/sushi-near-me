@@ -9,7 +9,7 @@ seo:
   name: "Fish N Gari"
   type: Restaurant
   links: http://orderfishngari.com/
-description: "Informal Japanese restaurant serving sushi, teriyaki & udon noodles for dine-in or delivery. Looking for sushi in San Francisco, California? Check out Fish N..."
+description: "Informal Japanese restaurant serving sushi, teriyaki & udon noodles for dine-in or delivery. Fish N Gari serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjTEnAuuAhYARB2g4qgYihJg
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "40 West Cafe"
   type: Restaurant
   links: null
-description: "Looking for sushi in Vernon, Connecticut? Check out 40 West Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "40 West Cafe serves delicious sushi in Vernon, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ9Maz5n35okR7WAl8bFiSDg
 photos:
   - name: >-

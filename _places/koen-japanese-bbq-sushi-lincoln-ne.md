@@ -9,7 +9,7 @@ seo:
   name: "Koen Japanese BBQ & Sushi"
   type: Restaurant
   links: http://www.koenlincoln.com/
-description: "Looking for sushi in Lincoln, Nebraska? Check out Koen Japanese BBQ & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Koen Japanese BBQ & Sushi serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqdHGLdeVlocRgzgIQavcyac
 photos:
   - name: >-

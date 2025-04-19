@@ -9,7 +9,7 @@ seo:
   name: "RICE Bistro & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Littleton, Colorado? Check out RICE Bistro & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "RICE Bistro & Sushi serves delicious sushi in Littleton, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgfW_geSBbIcR8hxka-SmzNo
 photos:
   - name: >-

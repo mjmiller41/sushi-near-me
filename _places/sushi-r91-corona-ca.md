@@ -9,7 +9,7 @@ seo:
   name: "Sushi R91"
   type: Restaurant
   links: null
-description: "Looking for sushi in Corona, California? Check out Sushi R91 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi R91 serves delicious sushi in Corona, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH-vTHW-43IARzy2kkRJeItE
 photos:
   - name: >-

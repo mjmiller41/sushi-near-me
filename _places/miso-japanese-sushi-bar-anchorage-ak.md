@@ -9,7 +9,7 @@ seo:
   name: "MISO Japanese sushi & bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Anchorage, Alaska? Check out MISO Japanese sushi & bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "MISO Japanese sushi & bar serves delicious sushi in Anchorage, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzTQNrw6ZyFYR7Cybbn8QQGk
 photos:
   - name: >-

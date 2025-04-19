@@ -9,7 +9,7 @@ seo:
   name: "OKINII HIBACHI & SUSHI"
   type: Restaurant
   links: http://www.okiniinewportnews.com/
-description: "Looking for sushi in Newport News, Virginia? Check out OKINII HIBACHI & SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "OKINII HIBACHI & SUSHI serves delicious sushi in Newport News, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJeeYVo6d5sIkRfZ1I_fssMgs
 photos:
   - name: >-

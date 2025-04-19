@@ -9,7 +9,7 @@ seo:
   name: "Ebisu Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Palm Beach Gardens, Florida? Check out Ebisu Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Ebisu Japanese Restaurant serves delicious sushi in Palm Beach Gardens, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS-KHSy7V3ogRMQoh6UkGnKU
 photos:
   - name: >-

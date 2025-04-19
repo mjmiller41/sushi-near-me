@@ -9,7 +9,7 @@ seo:
   name: "Cafe Mochi"
   type: Restaurant
   links: null
-description: "Casual but stylish sushi bar serving inventive rolls plus Vietnamese & Chinese entrees. Looking for sushi in St. Louis, Missouri? Check out Cafe Mochi for a ..."
+description: "Casual but stylish sushi bar serving inventive rolls plus Vietnamese & Chinese entrees. Cafe Mochi serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJu4L5Jmi02IcR_QnlRQCG2ss
 photos:
   - name: >-

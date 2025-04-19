@@ -9,7 +9,7 @@ seo:
   name: "Koko sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mission Viejo, California? Check out Koko sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Koko sushi serves delicious sushi in Mission Viejo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNcbJTTvv3IARvdADb14gYvM
 photos:
   - name: >-

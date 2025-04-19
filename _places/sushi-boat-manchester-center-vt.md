@@ -9,7 +9,7 @@ seo:
   name: "Sushi Boat"
   type: Restaurant
   links: null
-description: "Looking for sushi in Manchester Center, Vermont? Check out Sushi Boat for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Sushi Boat serves delicious sushi in Manchester Center, Vermont. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBavDq0Ve4IkR6i8t4RldpRo
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "East Sushi Bistro"
   type: Restaurant
   links: https://www.facebook.com/East-Sushi-Bistro-Inc-113798351984306/
-description: "Looking for sushi in Brooklyn, New York? Check out East Sushi Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "East Sushi Bistro serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlyfBlo5EwokRUvxnUsU7z-A
 photos:
   - name: >-

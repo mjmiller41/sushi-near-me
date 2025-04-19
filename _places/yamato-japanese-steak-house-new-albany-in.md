@@ -9,7 +9,7 @@ seo:
   name: "Yamato Japanese Steak House"
   type: Restaurant
   links: https://yamatonewalbany.com/
-description: "Looking for sushi in New Albany, Indiana? Check out Yamato Japanese Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Yamato Japanese Steak House serves delicious sushi in New Albany, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdzE5J8VtaYgRsgso36Rc_dM
 photos:
   - name: >-

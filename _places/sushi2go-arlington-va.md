@@ -9,7 +9,7 @@ seo:
   name: "Sushi2Go"
   type: Restaurant
   links: https://sushi2gova.com/
-description: "Looking for sushi in Arlington, Virginia? Check out Sushi2Go for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi2Go serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA3alASW0t4kR6IEqDl0fTpk
 photos:
   - name: >-

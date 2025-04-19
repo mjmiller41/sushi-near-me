@@ -9,7 +9,7 @@ seo:
   name: "The Joint Sushi & Tapas"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Diego, California? Check out The Joint Sushi & Tapas for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "The Joint Sushi & Tapas serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBWTtUDeq3oAR9qCdpu5szcI
 photos:
   - name: >-

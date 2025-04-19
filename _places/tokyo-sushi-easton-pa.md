@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Easton, Pennsylvania? Check out Tokyo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Tokyo Sushi serves delicious sushi in Easton, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBT4Dk49txIkReb8EA7aDQE4
 photos:
   - name: >-

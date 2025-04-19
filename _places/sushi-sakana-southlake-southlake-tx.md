@@ -9,7 +9,7 @@ seo:
   name: "Sushi Sakana Southlake"
   type: Restaurant
   links: null
-description: "Looking for sushi in Southlake, Texas? Check out Sushi Sakana Southlake for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi Sakana Southlake serves delicious sushi in Southlake, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJad0RPmbVTYYRKK-BPWh9xOs
 photos:
   - name: >-

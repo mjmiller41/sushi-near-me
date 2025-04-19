@@ -9,7 +9,7 @@ seo:
   name: "Oma Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Oma Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Oma Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPSa0sI-AhYARmg6ic389cNI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Katana Sushi & Hibachi"
   type: Restaurant
   links: https://katanamarietta.com/
-description: "Looking for sushi in Marietta, Georgia? Check out Katana Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Katana Sushi & Hibachi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfcOFRVIN9YgRaqEuBDVG3W4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kyatchi"
   type: Restaurant
   links: http://kyatchi.com/
-description: "This contemporary eatery serves traditional & creative sushi, Japanese small plates & mains. Looking for sushi in Minneapolis, Minnesota? Check out Kyatchi f..."
+description: "This contemporary eatery serves traditional & creative sushi, Japanese small plates & mains. Kyatchi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJScokAsAn9ocRj9VZ_IsRrMc
 photos:
   - name: >-

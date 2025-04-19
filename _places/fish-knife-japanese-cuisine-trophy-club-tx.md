@@ -9,7 +9,7 @@ seo:
   name: "Fish & Knife Japanese Cuisine"
   type: Restaurant
   links: http://fishknife99.com/
-description: "Looking for sushi in Trophy Club, Texas? Check out Fish & Knife Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Fish & Knife Japanese Cuisine serves delicious sushi in Trophy Club, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs-ClE27RTYYRRrx3LGW592s
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Awi Sushi"
   type: Restaurant
   links: https://awisushimilwaukee.com/
-description: "Looking for sushi in Milwaukee, Wisconsin? Check out Awi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Awi Sushi serves delicious sushi in Milwaukee, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvSjYaQAZBYgRiiBBM4MYg3E
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Thai Bay & Sushi Restaurant"
   type: Restaurant
   links: http://www.thaibaysushi.com/
-description: "Homey find serving up Thai fare, sushi & other eats, plus booze, in a woody, traditional setting. Looking for sushi in Largo, Florida? Check out Thai Bay & S..."
+description: "Homey find serving up Thai fare, sushi & other eats, plus booze, in a woody, traditional setting. Thai Bay & Sushi Restaurant serves delicious sushi in Largo, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe4ddTIH6wogRoj_CefbKlcY
 photos:
   - name: >-

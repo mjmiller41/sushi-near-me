@@ -9,7 +9,7 @@ seo:
   name: "Ronin Sushi & Bar"
   type: Restaurant
   links: http://roninsushibar111.com/
-description: "Looking for sushi in Daytona Beach, Florida? Check out Ronin Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Ronin Sushi & Bar serves delicious sushi in Daytona Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJidBlLCba5ogR278sGTt28Aw
 photos:
   - name: >-

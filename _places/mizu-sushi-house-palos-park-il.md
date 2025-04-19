@@ -9,7 +9,7 @@ seo:
   name: "Mizu Sushi House"
   type: Restaurant
   links: null
-description: "Looking for sushi in Palos Park, Illinois? Check out Mizu Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Mizu Sushi House serves delicious sushi in Palos Park, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpSKfE6hADogR_nCbAFnuGe8
 photos:
   - name: >-

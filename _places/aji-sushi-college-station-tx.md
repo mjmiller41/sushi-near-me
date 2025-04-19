@@ -9,7 +9,7 @@ seo:
   name: "Aji Sushi"
   type: Restaurant
   links: https://direct.chownow.com/order/24014/locations/35247
-description: "Looking for sushi in College Station, Texas? Check out Aji Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Aji Sushi serves delicious sushi in College Station, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRygRQXqERoYREnBbnmOW-CY
 photos:
   - name: >-

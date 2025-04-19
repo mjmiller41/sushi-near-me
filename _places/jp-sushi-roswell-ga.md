@@ -9,7 +9,7 @@ seo:
   name: "JP Sushi"
   type: Restaurant
   links: http://www.jpsushi.com/
-description: "Casual, contemporary Japanese eatery serving sushi, noodles & teriyaki, plus sake & wine. Looking for sushi in Roswell, Georgia? Check out JP Sushi for a del..."
+description: "Casual, contemporary Japanese eatery serving sushi, noodles & teriyaki, plus sake & wine. JP Sushi serves delicious sushi in Roswell, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ54FxoywL9YgRC2OPDDSpk08
 photos:
   - name: >-

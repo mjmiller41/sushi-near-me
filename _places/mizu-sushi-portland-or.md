@@ -9,7 +9,7 @@ seo:
   name: "Mizu Sushi"
   type: Restaurant
   links: http://mizusuhi.weebly.com/
-description: "Looking for sushi in Portland, Oregon? Check out Mizu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Mizu Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRe_jyxEKlVQRAiKGn-d3lqI
 photos:
   - name: >-

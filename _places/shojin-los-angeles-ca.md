@@ -9,7 +9,7 @@ seo:
   name: "Shojin"
   type: Restaurant
   links: http://www.theshojin.com/
-description: "Upscale eatery offering creative macrobiotic & vegan Japanese dishes, plus saki & wine. Looking for sushi in Los Angeles, California? Check out Shojin for a ..."
+description: "Upscale eatery offering creative macrobiotic & vegan Japanese dishes, plus saki & wine. Shojin serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQ5t7EGa6woARF68rhqYIX5k
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Man"
   type: Restaurant
   links: null
-description: "Looking for sushi in Champaign, Illinois? Check out Sushi Man for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Man serves delicious sushi in Champaign, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM60MJa3bDIgRMrPAkYSGCZ0
 photos:
   - name: >-

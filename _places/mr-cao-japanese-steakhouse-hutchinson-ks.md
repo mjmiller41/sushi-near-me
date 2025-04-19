@@ -9,7 +9,7 @@ seo:
   name: "Mr Cao Japanese Steakhouse"
   type: Restaurant
   links: https://www.mrcaojapanesesteakhouse.com/order
-description: "Booth-lined shopping-center venue for a range of Japanese fare, from sushi & grilled meats to udon. Looking for sushi in Hutchinson, Kansas? Check out Mr Cao..."
+description: "Booth-lined shopping-center venue for a range of Japanese fare, from sushi & grilled meats to udon. Mr Cao Japanese Steakhouse serves delicious sushi in Hutchinson, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcSFDnDi2pIcRayogVEReoZo
 photos:
   - name: >-

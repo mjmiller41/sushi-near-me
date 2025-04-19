@@ -9,7 +9,7 @@ seo:
   name: "Sushi Chiyo"
   type: Restaurant
   links: null
-description: "Looking for sushi in Beaverton, Oregon? Check out Sushi Chiyo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Chiyo serves delicious sushi in Beaverton, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfzLYCbsOlVQRXXsI4dBBEww
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Iekei"
   type: Restaurant
   links: https://www.humbleiekei.com/
-description: "Looking for sushi in Humble, Texas? Check out Iekei for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atm..."
+description: "Iekei serves delicious sushi in Humble, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvZ9Z6zuxQIYRnuQ7h5htJZY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Pokenori"
   type: Restaurant
   links: https://www.pokenori.co/
-description: "Made-to-order poke bowls & sushi burritos offered in a cool, brick-lined space with counter-service. Looking for sushi in Spartanburg, South Carolina? Check ..."
+description: "Made-to-order poke bowls & sushi burritos offered in a cool, brick-lined space with counter-service. Pokenori serves delicious sushi in Spartanburg, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA1PP0vR1V4gRHGG8DzxALeY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Fusion Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hermosa Beach, California? Check out Fusion Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Fusion Sushi serves delicious sushi in Hermosa Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW-Ej04G0woARcMtTUdEY8Q8
 photos:
   - name: >-

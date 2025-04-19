@@ -9,7 +9,7 @@ seo:
   name: "Sushi Yama (Yama Japanese Restaurant)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Vienna, Virginia? Check out Sushi Yama (Yama Japanese Restaurant) for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Sushi Yama (Yama Japanese Restaurant) serves delicious sushi in Vienna, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ00OgFsRLtokRrrExBfkX3hw
 photos:
   - name: >-

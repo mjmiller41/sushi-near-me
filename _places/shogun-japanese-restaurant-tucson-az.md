@@ -9,7 +9,7 @@ seo:
   name: "Shogun Japanese Restaurant"
   type: Restaurant
   links: http://www.shoguntucson.com/
-description: "Looking for sushi in Tucson, Arizona? Check out Shogun Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Shogun Japanese Restaurant serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ-2WLJhz1oYRdDehSda3sKM
 photos:
   - name: >-

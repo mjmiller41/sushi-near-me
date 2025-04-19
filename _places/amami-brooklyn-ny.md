@@ -9,7 +9,7 @@ seo:
   name: "Amami"
   type: Restaurant
   links: http://www.amamibk.com/
-description: "Cozy Japanese eatery with rustic-chic decor offering a contemporary menu of sushi, yakitori & ramen. Looking for sushi in Brooklyn, New York? Check out Amami..."
+description: "Cozy Japanese eatery with rustic-chic decor offering a contemporary menu of sushi, yakitori & ramen. Amami serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJl-2pikRZwokRNxfAFUMHmjc
 photos:
   - name: >-

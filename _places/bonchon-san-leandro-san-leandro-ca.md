@@ -9,7 +9,7 @@ seo:
   name: "Bonchon San Leandro"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Leandro, California? Check out Bonchon San Leandro for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Bonchon San Leandro serves delicious sushi in San Leandro, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaazAoGiPj4ARTT2e_x6luoo
 photos:
   - name: >-

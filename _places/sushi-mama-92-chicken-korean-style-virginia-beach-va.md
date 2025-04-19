@@ -9,7 +9,7 @@ seo:
   name: "Sushi Mama & 92 Chicken korean style"
   type: Restaurant
   links: https://sushimama.menu11.com/
-description: "Chain teppanyaki grill serving steaks & seafood, plus sushi & a traditional Japanese menu. Looking for sushi in Virginia Beach, Virginia? Check out Sushi Mam..."
+description: "Chain teppanyaki grill serving steaks & seafood, plus sushi & a traditional Japanese menu. Sushi Mama & 92 Chicken korean style serves delicious sushi in Virginia Beach, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ66NmUt-VuokRrFnD3Q4G39Q
 photos:
   - name: >-

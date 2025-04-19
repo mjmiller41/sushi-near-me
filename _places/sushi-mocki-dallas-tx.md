@@ -9,7 +9,7 @@ seo:
   name: "Sushi Mockï"
   type: Restaurant
   links: http://www.sushimocki.com/
-description: "Looking for sushi in Dallas, Texas? Check out Sushi Mockï for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Sushi Mockï serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXxuNPYufToYRBgZIGca1e7A
 photos:
   - name: >-

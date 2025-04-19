@@ -9,7 +9,7 @@ seo:
   name: "Maki-San"
   type: Restaurant
   links: http://www.makisanpa.com/
-description: "Looking for sushi in Bala Cynwyd, Pennsylvania? Check out Maki-San for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Maki-San serves delicious sushi in Bala Cynwyd, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4_M-O1HHxokROgFXDmoVws0
 photos:
   - name: >-

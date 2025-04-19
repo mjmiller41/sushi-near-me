@@ -9,7 +9,7 @@ seo:
   name: "Poke Bowl Station"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lancaster, Pennsylvania? Check out Poke Bowl Station for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Poke Bowl Station serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI5eZ3dUlxokRWUaNP1NxhDc
 photos:
   - name: >-

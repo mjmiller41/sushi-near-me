@@ -9,7 +9,7 @@ seo:
   name: "Haku Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Santa Rosa, California? Check out Haku Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Haku Sushi serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2aQNN_9HhIARrVjwyxLAd0Q
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Miyabi Sushi"
   type: Restaurant
   links: http://miyabisushi.com/
-description: "Looking for sushi in Tukwila, Washington? Check out Miyabi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Miyabi Sushi serves delicious sushi in Tukwila, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgfl9S85ckFQRonest40Vj8c
 photos:
   - name: >-

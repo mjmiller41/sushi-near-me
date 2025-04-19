@@ -9,7 +9,7 @@ seo:
   name: "PNW Teriyaki"
   type: Restaurant
   links: https://pnwteriyaki2.menu11.com/everett/order
-description: "Looking for sushi in Everett, Washington? Check out PNW Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "PNW Teriyaki serves delicious sushi in Everett, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-YFBJ9wGkFQRYnC_Z1Oy1L4
 photos:
   - name: >-

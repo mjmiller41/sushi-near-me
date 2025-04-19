@@ -9,7 +9,7 @@ seo:
   name: "Camas Mio Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Camas, Washington? Check out Camas Mio Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Camas Mio Sushi serves delicious sushi in Camas, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD7Qi8Ei7lVQRuShBd_6iJ2M
 photos:
   - name: >-

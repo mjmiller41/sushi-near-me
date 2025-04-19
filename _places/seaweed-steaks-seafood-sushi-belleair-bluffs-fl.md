@@ -9,7 +9,7 @@ seo:
   name: "Seaweed Steaks, Seafood & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Belleair Bluffs, Florida? Check out Seaweed Steaks, Seafood & Sushi for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "Seaweed Steaks, Seafood & Sushi serves delicious sushi in Belleair Bluffs, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxR1O7FT7wogR93Z_TebaPPY
 photos:
   - name: >-

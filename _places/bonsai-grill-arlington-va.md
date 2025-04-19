@@ -9,7 +9,7 @@ seo:
   name: "Bonsai Grill"
   type: Restaurant
   links: http://www.crystalbonsaisushirestaurant.com/
-description: "Cozy sushi house that offers bonsai boats, bento boxes, Japanese beers & other favorite dishes. Looking for sushi in Arlington, Virginia? Check out Bonsai Gr..."
+description: "Cozy sushi house that offers bonsai boats, bento boxes, Japanese beers & other favorite dishes. Bonsai Grill serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJJf3fuCm3t4kRCr8rILYLOTE
 photos:
   - name: >-

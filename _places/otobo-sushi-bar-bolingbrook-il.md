@@ -9,7 +9,7 @@ seo:
   name: "OTOBO Sushi & Bar"
   type: Restaurant
   links: http://www.otobosushibar.com/
-description: "Easygoing eatery & sushi bar offering specialty rolls, ramen, Asian fusion dishes, cocktails & beer. Looking for sushi in Bolingbrook, Illinois? Check out OT..."
+description: "Easygoing eatery & sushi bar offering specialty rolls, ramen, Asian fusion dishes, cocktails & beer. OTOBO Sushi & Bar serves delicious sushi in Bolingbrook, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCamjpiFZDogR0dVSiJ8Cffk
 photos:
   - name: >-

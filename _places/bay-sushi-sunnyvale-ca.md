@@ -9,7 +9,7 @@ seo:
   name: "Bay Sushi"
   type: Restaurant
   links: https://baysushica.com/users/login
-description: "Looking for sushi in Sunnyvale, California? Check out Bay Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Bay Sushi serves delicious sushi in Sunnyvale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnRuwrjO0j4ARBJWJqUwEPpE
 photos:
   - name: >-

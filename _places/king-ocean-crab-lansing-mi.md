@@ -9,7 +9,7 @@ seo:
   name: "King Ocean Crab"
   type: Restaurant
   links: https://www.kingoceancrablansing.com/
-description: "Roomy, contemporary option for varied seafood meals, from boils & fried baskets to po’ boys & sushi. Looking for sushi in Lansing, Michigan? Check out King O..."
+description: "Roomy, contemporary option for varied seafood meals, from boils & fried baskets to po’ boys & sushi. King Ocean Crab serves delicious sushi in Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcxUroQXBIogRisX1wru3nXk
 photos:
   - name: >-

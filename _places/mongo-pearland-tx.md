@@ -9,7 +9,7 @@ seo:
   name: "Mongo"
   type: Restaurant
   links: http://www.bestmongolian.com/
-description: "Looking for sushi in Pearland, Texas? Check out Mongo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming a..."
+description: "Mongo serves delicious sushi in Pearland, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK5vBeDKTQIYRkcmESAnmQFA
 photos:
   - name: >-

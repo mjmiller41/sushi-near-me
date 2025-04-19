@@ -9,7 +9,7 @@ seo:
   name: "Yaba Sushi and Steak"
   type: Restaurant
   links: https://www.yabasushi.com/
-description: "Looking for sushi in Roscoe, Illinois? Check out Yaba Sushi and Steak for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Yaba Sushi and Steak serves delicious sushi in Roscoe, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVVVmJ_GjCIgRe5IG-03debA
 photos:
   - name: >-

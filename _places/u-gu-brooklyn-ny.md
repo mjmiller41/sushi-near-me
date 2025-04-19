@@ -9,7 +9,7 @@ seo:
   name: "U-gu"
   type: Restaurant
   links: https://www.uguny.com/
-description: "Looking for sushi in Brooklyn, New York? Check out U-gu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "U-gu serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJm3h0jMBbwokRvvwglVp_ukQ
 photos:
   - name: >-

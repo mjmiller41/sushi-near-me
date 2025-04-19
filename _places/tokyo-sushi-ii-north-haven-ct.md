@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi II"
   type: Restaurant
   links: https://www.tokyosushinorthhaven.com/
-description: "Casual, family-run eatery featuring inventive sushi rolls & traditional Japanese specialties. Looking for sushi in North Haven, Connecticut? Check out Tokyo ..."
+description: "Casual, family-run eatery featuring inventive sushi rolls & traditional Japanese specialties. Tokyo Sushi II serves delicious sushi in North Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4byv3TXQ54kR7bB_ftKufDw
 photos:
   - name: >-

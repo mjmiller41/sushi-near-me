@@ -9,7 +9,7 @@ seo:
   name: "BlueFin Sushi Bar & Restaurant"
   type: Restaurant
   links: https://bluefinsushirestaurant.com/
-description: "Looking for sushi in Denver, Colorado? Check out BlueFin Sushi Bar & Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "BlueFin Sushi Bar & Restaurant serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFbBsXYV7bIcR487Xd66Fqbg
 photos:
   - name: >-

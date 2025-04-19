@@ -9,7 +9,7 @@ seo:
   name: "ZEN Kitchen & Bar"
   type: Restaurant
   links: https://zenkitchenandbar.com/?utm_source=google
-description: "Looking for sushi in New Port Richey, Florida? Check out ZEN Kitchen & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "ZEN Kitchen & Bar serves delicious sushi in New Port Richey, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJefpAhamRwogRI8Q5oz4h33Y
 photos:
   - name: >-

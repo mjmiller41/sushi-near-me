@@ -9,7 +9,7 @@ seo:
   name: "Thaicoon & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Marietta, Georgia? Check out Thaicoon & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Thaicoon & Sushi Bar serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjRlOFyUU9YgRnjX1IOy8Mg0
 photos:
   - name: >-

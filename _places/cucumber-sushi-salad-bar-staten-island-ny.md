@@ -9,7 +9,7 @@ seo:
   name: "Cucumber Sushi & Salad Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Staten Island, New York? Check out Cucumber Sushi & Salad Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Cucumber Sushi & Salad Bar serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQbuw4bhKwokRgh9rEB77Z9k
 photos:
   - name: >-

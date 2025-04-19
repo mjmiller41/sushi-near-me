@@ -9,7 +9,7 @@ seo:
   name: "Now & Zen"
   type: Restaurant
   links: http://nowandzencville.square.site/
-description: "Looking for sushi in Charlottesville, Virginia? Check out Now & Zen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Now & Zen serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc1w5xCWGs4kRkiYAXVOfS3s
 photos:
   - name: >-

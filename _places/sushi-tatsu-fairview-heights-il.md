@@ -9,7 +9,7 @@ seo:
   name: "Sushi Tatsu"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fairview Heights, Illinois? Check out Sushi Tatsu for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sushi Tatsu serves delicious sushi in Fairview Heights, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRV3XCuwBdogRozH2a-QcvFU
 photos:
   - name: >-

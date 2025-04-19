@@ -9,7 +9,7 @@ seo:
   name: "Mikasa | Japanese Bistro"
   type: Restaurant
   links: http://www.mikasasushilathrop.com/
-description: "Looking for sushi in Lathrop, California? Check out Mikasa | Japanese Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Mikasa | Japanese Bistro serves delicious sushi in Lathrop, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxerF3WoVkIAR6ckAj0WCOeA
 photos:
   - name: >-

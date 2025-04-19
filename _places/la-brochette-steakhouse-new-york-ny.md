@@ -9,7 +9,7 @@ seo:
   name: "La Brochette Steakhouse"
   type: Restaurant
   links: http://labrochetteny.com/
-description: "Upscale kosher steakhouse showcasing dry-aged beef, veal & sushi in an elegant, multifloor setting. Looking for sushi in New York, New York? Check out La Bro..."
+description: "Upscale kosher steakhouse showcasing dry-aged beef, veal & sushi in an elegant, multifloor setting. La Brochette Steakhouse serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZ38QVwFZwokRHFXpGj9Q9VI
 photos:
   - name: >-

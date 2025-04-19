@@ -9,7 +9,7 @@ seo:
   name: "Ohana Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Suffolk, Virginia? Check out Ohana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Ohana Sushi serves delicious sushi in Suffolk, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEzef05KfuokRLxj4nJKsS4k
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi & Rolls"
   type: Restaurant
   links: http://www.mimealtime.com/restaurant/sushiandrolls
-description: "Down-to-earth sushi bar offering sashimi, clever rolls & other Japanese eats in a narrow space. Looking for sushi in Livonia, Michigan? Check out Sushi & Rol..."
+description: "Down-to-earth sushi bar offering sashimi, clever rolls & other Japanese eats in a narrow space. Sushi & Rolls serves delicious sushi in Livonia, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ78M3ApCtJIgRkvJPIlsfJ90
 photos:
   - name: >-

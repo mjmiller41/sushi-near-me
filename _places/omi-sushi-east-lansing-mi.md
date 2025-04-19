@@ -9,7 +9,7 @@ seo:
   name: "Omi Sushi"
   type: Restaurant
   links: http://omisushimi.com/
-description: "Sleek sushi house with modern decor offers a wide selection of classic fare & house rolls. Looking for sushi in East Lansing, Michigan? Check out Omi Sushi f..."
+description: "Sleek sushi house with modern decor offers a wide selection of classic fare & house rolls. Omi Sushi serves delicious sushi in East Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ228PwNTpIogRjzg_eVcPCR0
 photos:
   - name: >-

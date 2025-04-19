@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Pasadena"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pasadena, Maryland? Check out Bonchon Pasadena for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Bonchon Pasadena serves delicious sushi in Pasadena, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG0-XnB_9t4kRaznkXMPU81A
 photos:
   - name: >-

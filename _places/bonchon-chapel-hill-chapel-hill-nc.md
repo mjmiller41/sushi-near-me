@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Chapel Hill"
   type: Restaurant
   links: https://locations.bonchon.com/ll/US/NC/Chapel-Hill/205-E-Franklin-St
-description: "Looking for sushi in Chapel Hill, North Carolina? Check out Bonchon Chapel Hill for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Bonchon Chapel Hill serves delicious sushi in Chapel Hill, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs4gdt8LCrIkRDKRxgN3z02E
 photos:
   - name: >-

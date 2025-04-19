@@ -9,7 +9,7 @@ seo:
   name: "Bamboo Asian Cuisine"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ocoee, Florida? Check out Bamboo Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Bamboo Asian Cuisine serves delicious sushi in Ocoee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9Uz_NqKC54gRvEzzg9EYP78
 photos:
   - name: >-

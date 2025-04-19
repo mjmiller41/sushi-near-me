@@ -9,7 +9,7 @@ seo:
   name: "Sushi Chiyo"
   type: Restaurant
   links: null
-description: "Looking for sushi in Portland, Oregon? Check out Sushi Chiyo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi Chiyo serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs6iaTdeglVQRW6SRkw5BPx4
 photos:
   - name: >-

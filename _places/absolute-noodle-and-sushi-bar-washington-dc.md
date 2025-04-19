@@ -9,7 +9,7 @@ seo:
   name: "Absolute Noodle and Sushi Bar"
   type: Restaurant
   links: https://absolutenoodlesushi.com/
-description: "Custom noodle bowls plus classic & inventive Pan-Asian dishes served in a relaxed, modern space. Looking for sushi in Washington, District of Columbia? Check..."
+description: "Custom noodle bowls plus classic & inventive Pan-Asian dishes served in a relaxed, modern space. Absolute Noodle and Sushi Bar serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ14Ze0423t4kRtHBdW7SIpcM
 photos:
   - >-

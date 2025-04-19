@@ -9,7 +9,7 @@ seo:
   name: "Szechuan Inn"
   type: Restaurant
   links: null
-description: "Looking for sushi in Severna Park, Maryland? Check out Szechuan Inn for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Szechuan Inn serves delicious sushi in Severna Park, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTbg-d637t4kR1UMX-7qxuBQ
 photos:
   - name: >-

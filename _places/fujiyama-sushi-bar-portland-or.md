@@ -9,7 +9,7 @@ seo:
   name: "Fujiyama Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Portland, Oregon? Check out Fujiyama Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Fujiyama Sushi Bar serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHQtUI6KhlVQRRKjJsQadbAw
 photos:
   - name: >-

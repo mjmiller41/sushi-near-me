@@ -9,7 +9,7 @@ seo:
   name: "Kinoko Ramen"
   type: Restaurant
   links: null
-description: "Looking for sushi in Morrisville, North Carolina? Check out Kinoko Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Kinoko Ramen serves delicious sushi in Morrisville, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_2VoufPtrIkRmMe71PvJk48
 photos:
   - name: >-

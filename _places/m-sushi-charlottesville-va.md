@@ -9,7 +9,7 @@ seo:
   name: "M Sushi"
   type: Restaurant
   links: http://msushiva.com/
-description: "Contemporary Japanese eatery with a casual ambiance known for all-you-can-eat sushi. Looking for sushi in Charlottesville, Virginia? Check out M Sushi for a ..."
+description: "Contemporary Japanese eatery with a casual ambiance known for all-you-can-eat sushi. M Sushi serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIxZkQd2Hs4kRTTEB-8XJHvk
 photos:
   - name: >-

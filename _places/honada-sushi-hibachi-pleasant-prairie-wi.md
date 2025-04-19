@@ -9,7 +9,7 @@ seo:
   name: "Honada Sushi & Hibachi"
   type: Restaurant
   links: http://www.honadawi.com/
-description: "Intimate Japanese eatery where chefs show off at the hibachi tables & roll sushi at the bar. Looking for sushi in Pleasant Prairie, Wisconsin? Check out Hona..."
+description: "Intimate Japanese eatery where chefs show off at the hibachi tables & roll sushi at the bar. Honada Sushi & Hibachi serves delicious sushi in Pleasant Prairie, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJW7JpZKFhBYgR_qzq54sDRpQ
 photos:
   - name: >-

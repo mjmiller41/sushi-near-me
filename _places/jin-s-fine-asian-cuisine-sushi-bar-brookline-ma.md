@@ -9,7 +9,7 @@ seo:
   name: "Jin’s fine Asian cuisine sushi bar"
   type: Restaurant
   links: https://jinsbrookline.com/
-description: "Looking for sushi in Brookline, Massachusetts? Check out Jin’s fine Asian cuisine sushi bar for a delightful Japanese dining experience. Enjoy a variety of s..."
+description: "Jin’s fine Asian cuisine sushi bar serves delicious sushi in Brookline, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw-xam79544kRIgnwpyJn7y4
 photos:
   - name: >-

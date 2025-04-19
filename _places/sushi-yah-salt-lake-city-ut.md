@@ -9,7 +9,7 @@ seo:
   name: "Sushi Yah"
   type: Restaurant
   links: https://mysushiyah.com/?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Salt Lake City, Utah? Check out Sushi Yah for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Yah serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn_R9XvBiUocRw9KZg-oj800
 photos:
   - name: >-

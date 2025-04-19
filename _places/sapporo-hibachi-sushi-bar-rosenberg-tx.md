@@ -9,7 +9,7 @@ seo:
   name: "Sapporo Hibachi & Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Rosenberg, Texas? Check out Sapporo Hibachi & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Sapporo Hibachi & Sushi Bar serves delicious sushi in Rosenberg, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQRTt7wwdQYYR1B3hJJtAqlg
 photos:
   - name: >-

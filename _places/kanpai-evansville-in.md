@@ -9,7 +9,7 @@ seo:
   name: "Kanpai"
   type: Restaurant
   links: null
-description: "Looking for sushi in Evansville, Indiana? Check out Kanpai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Kanpai serves delicious sushi in Evansville, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIQzbVS8rbogRXCPqJP9tu2w
 photos:
   - name: >-

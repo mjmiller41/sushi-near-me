@@ -9,7 +9,7 @@ seo:
   name: "Pattaya | Sushi & Thai Restaurant"
   type: Restaurant
   links: https://www.clover.com/online-ordering/pattaya-sushi-restaurant-wasilla
-description: "Looking for sushi in Wasilla, Alaska? Check out Pattaya | Sushi & Thai Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Pattaya | Sushi & Thai Restaurant serves delicious sushi in Wasilla, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYa0lTRPeyFYRk037iqC1_7E
 photos:
   - name: >-

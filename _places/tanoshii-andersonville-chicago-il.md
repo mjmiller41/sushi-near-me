@@ -9,7 +9,7 @@ seo:
   name: "Tanoshii Andersonville"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Tanoshii Andersonville for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Tanoshii Andersonville serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5_FPg4_RD4gRYqCP-6QJtMQ
 photos:
   - name: >-

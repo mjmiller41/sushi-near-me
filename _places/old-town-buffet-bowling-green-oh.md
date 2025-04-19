@@ -9,7 +9,7 @@ seo:
   name: "Old Town Buffet"
   type: Restaurant
   links: https://www.bgoldtownbuffet.com/
-description: "Looking for sushi in Bowling Green, Ohio? Check out Old Town Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Old Town Buffet serves delicious sushi in Bowling Green, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ-6lz7hELPIgRqwfjWq8Ypi4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Cruise"
   type: Restaurant
   links: http://www.sushi-cruise.com/
-description: "Japanese eats & sushi selected off a conveyor belt in a riverside setting with a patio & NYC views. Looking for sushi in Edgewater, New Jersey? Check out Sus..."
+description: "Japanese eats & sushi selected off a conveyor belt in a riverside setting with a patio & NYC views. Sushi Cruise serves delicious sushi in Edgewater, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZ5fe_Uv2wokRUEQShWZJFHI
 photos:
   - name: >-

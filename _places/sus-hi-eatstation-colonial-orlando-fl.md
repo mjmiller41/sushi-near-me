@@ -9,7 +9,7 @@ seo:
   name: "Sus Hi Eatstation - Colonial"
   type: Restaurant
   links: https://sushieatstation.com/
-description: "Looking for sushi in Orlando, Florida? Check out Sus Hi Eatstation - Colonial for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Sus Hi Eatstation - Colonial serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsU7ioAl754gR9jB0Zs2n9tg
 photos:
   - name: >-

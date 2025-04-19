@@ -9,7 +9,7 @@ seo:
   name: "Chopstick King"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lake Hopatcong, New Jersey? Check out Chopstick King for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Chopstick King serves delicious sushi in Lake Hopatcong, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEUgkT1Rzw4kRk46IX9qTFZE
 photos:
   - name: >-

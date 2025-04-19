@@ -9,7 +9,7 @@ seo:
   name: "Kantaro Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Torrance, California? Check out Kantaro Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Kantaro Sushi serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJETTd_KNK3YARQNroUoSKkpk
 photos:
   - name: >-

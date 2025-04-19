@@ -9,7 +9,7 @@ seo:
   name: "The Room Sushi Bar"
   type: Restaurant
   links: https://www.theroomsushi.com/
-description: "Looking for sushi in Los Angeles, California? Check out The Room Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "The Room Sushi Bar serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ10eY85y7woARDosjyqpRdf4
 photos:
   - name: >-

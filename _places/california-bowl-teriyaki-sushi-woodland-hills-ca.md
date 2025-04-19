@@ -9,7 +9,7 @@ seo:
   name: "California Bowl Teriyaki Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Woodland Hills, California? Check out California Bowl Teriyaki Sushi for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "California Bowl Teriyaki Sushi serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDeDExRycwoARGClxQFYnt7Q
 photos:
   - name: >-

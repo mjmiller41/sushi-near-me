@@ -9,7 +9,7 @@ seo:
   name: "Sapporo"
   type: Restaurant
   links: null
-description: "Looking for sushi in Houston, Texas? Check out Sapporo for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming ..."
+description: "Sapporo serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ15Jh3C-_QIYRbhbJff6Ko2s
 photos:
   - name: >-

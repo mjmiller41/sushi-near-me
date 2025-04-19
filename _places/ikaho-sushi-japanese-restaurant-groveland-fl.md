@@ -9,7 +9,7 @@ seo:
   name: "Ikaho Sushi Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Groveland, Florida? Check out Ikaho Sushi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Ikaho Sushi Japanese Restaurant serves delicious sushi in Groveland, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRfzuGlaM54gRzOdqbBECjLk
 photos:
   - name: >-

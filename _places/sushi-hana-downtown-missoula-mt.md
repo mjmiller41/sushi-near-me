@@ -9,7 +9,7 @@ seo:
   name: "Sushi Hana Downtown"
   type: Restaurant
   links: https://sushimissoula.com/
-description: "Casual Japanese bistro serving rolls, teriyaki, tempura & noodle dishes in an art-adorned setting. Looking for sushi in Missoula, Montana? Check out Sushi Ha..."
+description: "Casual Japanese bistro serving rolls, teriyaki, tempura & noodle dishes in an art-adorned setting. Sushi Hana Downtown serves delicious sushi in Missoula, Montana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ07j3EirMXVMRMJ3xm2oNzuI
 photos:
   - name: >-

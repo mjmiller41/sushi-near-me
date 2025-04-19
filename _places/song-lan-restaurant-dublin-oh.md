@@ -9,7 +9,7 @@ seo:
   name: "Song Lan Restaurant"
   type: Restaurant
   links: http://songlanrestaurant.com/
-description: "Looking for sushi in Dublin, Ohio? Check out Song Lan Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Song Lan Restaurant serves delicious sushi in Dublin, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsVCPb-2TOIgR15Zp9i3HpFA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "The Goblin Detroit"
   type: Restaurant
   links: null
-description: "Looking for sushi in Detroit, Michigan? Check out The Goblin Detroit for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "The Goblin Detroit serves delicious sushi in Detroit, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd3kyp5MtO4gRg5RgD1YigHw
 photos:
   - name: >-

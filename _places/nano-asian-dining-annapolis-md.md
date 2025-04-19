@@ -9,7 +9,7 @@ seo:
   name: "Nano Asian Dining"
   type: Restaurant
   links: http://www.nanoasian.com/
-description: "Brightly decorated hangout known for its long sushi bar, Pan-Asian menu & traditional tatami room. Looking for sushi in Annapolis, Maryland? Check out Nano A..."
+description: "Brightly decorated hangout known for its long sushi bar, Pan-Asian menu & traditional tatami room. Nano Asian Dining serves delicious sushi in Annapolis, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvdRS4U_2t4kRx2rHUYzCJ8Y
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Villa"
   type: Restaurant
   links: https://www.sushivillaca.com/
-description: "Looking for sushi in Oakland, California? Check out Sushi Villa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Villa serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYfGyDrOAj4ART1yz1GPLYss
 photos:
   - name: >-

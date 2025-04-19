@@ -9,7 +9,7 @@ seo:
   name: "Masa's Sushi"
   type: Restaurant
   links: https://facebook.com/Masas-Sushi-111672018872035/
-description: "Simple sushi spot fixing up familiar maki, nigiri & sashimi in compact quarters. Looking for sushi in Buffalo Grove, Illinois? Check out Masa's Sushi for a d..."
+description: "Simple sushi spot fixing up familiar maki, nigiri & sashimi in compact quarters. Masa's Sushi serves delicious sushi in Buffalo Grove, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ7YRdgEK8D4gRawyScMOLtdk
 photos:
   - name: >-

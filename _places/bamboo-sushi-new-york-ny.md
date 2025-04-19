@@ -9,7 +9,7 @@ seo:
   name: "Bamboo Sushi"
   type: Restaurant
   links: http://69bamboosushi.com/
-description: "Japanese eatery with brick-lined walls offering a wide selection of sushi, plus noodles & tempura. Looking for sushi in New York, New York? Check out Bamboo ..."
+description: "Japanese eatery with brick-lined walls offering a wide selection of sushi, plus noodles & tempura. Bamboo Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-T6nOsJYwokR37EthVIrwyI
 photos:
   - name: >-

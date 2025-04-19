@@ -9,7 +9,7 @@ seo:
   name: "JR Sushi"
   type: Restaurant
   links: http://www.jrsushi.com/?utm_source=gmb&utm_medium=website
-description: "Snug nook featuring sashimi & creative rolls plus bubble teas, flavored iced teas & yogurt drinks. Looking for sushi in New York, New York? Check out JR Sush..."
+description: "Snug nook featuring sashimi & creative rolls plus bubble teas, flavored iced teas & yogurt drinks. JR Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDaXc2B5awokRZLdRComJ-C0
 photos:
   - name: >-

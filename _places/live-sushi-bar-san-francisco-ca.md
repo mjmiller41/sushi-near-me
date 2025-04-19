@@ -9,7 +9,7 @@ seo:
   name: "Live Sushi Bar"
   type: Restaurant
   links: http://www.livesushibar.com/
-description: "Wood-paneled Japanese neighborhood venue serving rolls, sashimi, live preparations & bento boxes. Looking for sushi in San Francisco, California? Check out L..."
+description: "Wood-paneled Japanese neighborhood venue serving rolls, sashimi, live preparations & bento boxes. Live Sushi Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJtSa-BDN-j4ARVOuKy9mDdhw
 photos:
   - name: >-

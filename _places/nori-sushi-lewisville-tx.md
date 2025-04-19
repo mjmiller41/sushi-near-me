@@ -9,7 +9,7 @@ seo:
   name: "Nori Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lewisville, Texas? Check out Nori Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Nori Sushi serves delicious sushi in Lewisville, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUUZjfpQtTIYRrrbMTnfnl_Q
 photos:
   - name: >-

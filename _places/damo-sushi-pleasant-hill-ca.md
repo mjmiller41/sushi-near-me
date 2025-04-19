@@ -9,7 +9,7 @@ seo:
   name: "Damo Sushi"
   type: Restaurant
   links: https://damosushipleasanthill.com/
-description: "Looking for sushi in Pleasant Hill, California? Check out Damo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Damo Sushi serves delicious sushi in Pleasant Hill, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJT6kKEpFmhYARSykyQc1xdvc
 photos:
   - name: >-

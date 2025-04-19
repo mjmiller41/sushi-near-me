@@ -9,7 +9,7 @@ seo:
   name: "New Sushi & Teriyaki"
   type: Restaurant
   links: http://www.sushiandteriyaki.com/
-description: "Looking for sushi in Lacey, Washington? Check out New Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "New Sushi & Teriyaki serves delicious sushi in Lacey, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7x9PfD9zkVQRR6zo2LAVx7E
 photos:
   - name: >-

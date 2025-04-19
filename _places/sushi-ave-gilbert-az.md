@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ave"
   type: Restaurant
   links: http://sushiave.net/
-description: "Looking for sushi in Gilbert, Arizona? Check out Sushi Ave for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Sushi Ave serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-_7KjJNxK4cRcZd3QSLdRtc
 photos:
   - name: >-

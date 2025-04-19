@@ -9,7 +9,7 @@ seo:
   name: "Yakiniku Futago Soho"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Yakiniku Futago Soho for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Yakiniku Futago Soho serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu3Wh21NZwokRCU0GNFqPbeU
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "The Spot sushi bar (former Sushi Uchi)"
   type: Restaurant
   links: http://restaurantwebexperts.com/SushiUchi/
-description: "Relaxed restaurant turning out an array of sushi & hot Japanese plates in cozy quarters. Looking for sushi in Alpharetta, Georgia? Check out The Spot sushi b..."
+description: "Relaxed restaurant turning out an array of sushi & hot Japanese plates in cozy quarters. The Spot sushi bar (former Sushi Uchi) serves delicious sushi in Alpharetta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ43hYvYIK9YgR9OI-nSrsZrs
 photos:
   - name: >-

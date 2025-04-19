@@ -9,7 +9,7 @@ seo:
   name: "Gachi House of Sushi"
   type: Restaurant
   links: http://gachisushi.com/
-description: "Rolls, sashimi, salads & cooked Japanese fare served in a contemporary setting with a sushi bar. Looking for sushi in Baltimore, Maryland? Check out Gachi Ho..."
+description: "Rolls, sashimi, salads & cooked Japanese fare served in a contemporary setting with a sushi bar. Gachi House of Sushi serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJve_XZPLit4kRuOIy-D7bq78
 photos:
   - name: >-

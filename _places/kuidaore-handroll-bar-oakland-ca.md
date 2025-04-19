@@ -9,7 +9,7 @@ seo:
   name: "Kuidaore Handroll Bar"
   type: Restaurant
   links: https://www.kuidaorehandrollbar.com/
-description: "Looking for sushi in Oakland, California? Check out Kuidaore Handroll Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Kuidaore Handroll Bar serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWwpdKRyBj4ARWO1klikQgOs
 photos:
   - name: >-

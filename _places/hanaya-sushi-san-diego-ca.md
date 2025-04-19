@@ -9,7 +9,7 @@ seo:
   name: "Hanaya Sushi"
   type: Restaurant
   links: null
-description: "Spare Japanese eatery offering enormous, artfully presented sashimi platters & sushi rolls. Looking for sushi in San Diego, California? Check out Hanaya Sush..."
+description: "Spare Japanese eatery offering enormous, artfully presented sashimi platters & sushi rolls. Hanaya Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJS5Q8bGwH3IARUgHZHDblw1M
 photos:
   - name: >-

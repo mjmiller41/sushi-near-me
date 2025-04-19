@@ -9,7 +9,7 @@ seo:
   name: "Kamameshi House"
   type: Restaurant
   links: https://www.vibewit.me/kamameshi
-description: "Looking for sushi in Daly City, California? Check out Kamameshi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Kamameshi House serves delicious sushi in Daly City, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJkZ_PltN7j4ARzLuj22Pr0gk
 photos:
   - name: >-

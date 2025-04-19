@@ -9,7 +9,7 @@ seo:
   name: "Sushi Yummy"
   type: Restaurant
   links: http://www.sushiyummy.net/
-description: "Looking for sushi in Orlando, Florida? Check out Sushi Yummy for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi Yummy serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJp9lVvbJ954gRZrJlwp7Ds0s
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "RA Sushi Bar Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Scottsdale, Arizona? Check out RA Sushi Bar Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "RA Sushi Bar Restaurant serves delicious sushi in Scottsdale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3-SHecALK4cRss2rrDHpdwU
 photos:
   - name: >-

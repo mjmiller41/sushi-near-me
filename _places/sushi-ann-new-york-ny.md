@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ann"
   type: Restaurant
   links: http://www.sushiann.net/
-description: "Sushi & sashimi served amid traditional decor in an upscale restaurant popular for business lunches. Looking for sushi in New York, New York? Check out Sushi..."
+description: "Sushi & sashimi served amid traditional decor in an upscale restaurant popular for business lunches. Sushi Ann serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZ9VmYvxYwokRxTMyUoH3dKM
 photos:
   - name: >-

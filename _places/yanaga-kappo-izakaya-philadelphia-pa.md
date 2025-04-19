@@ -9,7 +9,7 @@ seo:
   name: "Yanaga Kappo Izakaya"
   type: Restaurant
   links: https://www.ykisushi.com/
-description: "Looking for sushi in Philadelphia, Pennsylvania? Check out Yanaga Kappo Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Yanaga Kappo Izakaya serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8WFysm3JxokROk0L9fMzvLI
 photos:
   - name: >-

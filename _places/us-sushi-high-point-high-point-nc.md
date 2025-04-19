@@ -9,7 +9,7 @@ seo:
   name: "US SUSHI（High Point)"
   type: Restaurant
   links: null
-description: "Looking for sushi in High Point, North Carolina? Check out US SUSHI（High Point) for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "US SUSHI（High Point) serves delicious sushi in High Point, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ943JjpsFU4gRqMaO4eyq-x4
 photos:
   - name: >-

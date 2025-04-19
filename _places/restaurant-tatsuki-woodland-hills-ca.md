@@ -9,7 +9,7 @@ seo:
   name: "Restaurant Tatsuki"
   type: Restaurant
   links: https://tatsukirestaurants.com/?utm_source=google
-description: "Looking for sushi in Woodland Hills, California? Check out Restaurant Tatsuki for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Restaurant Tatsuki serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPXcGzr2ewoARkDd9fE0y9es
 photos:
   - name: >-

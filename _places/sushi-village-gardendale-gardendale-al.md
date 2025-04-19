@@ -9,7 +9,7 @@ seo:
   name: "Sushi Village Gardendale"
   type: Restaurant
   links: null
-description: "Looking for sushi in Gardendale, Alabama? Check out Sushi Village Gardendale for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Sushi Village Gardendale serves delicious sushi in Gardendale, Alabama. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmWAnSAgEiYgRV4fpkSLOb-Y
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sora Japanese Cuisine & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Newark, New Jersey? Check out Sora Japanese Cuisine & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Sora Japanese Cuisine & Sushi serves delicious sushi in Newark, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk4gApe9SwokRIeNeVPo-z98
 photos:
   - name: >-

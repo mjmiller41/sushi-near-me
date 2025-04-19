@@ -9,7 +9,7 @@ seo:
   name: "Sunflower Cafe Inc"
   type: Restaurant
   links: null
-description: "Looking for sushi in Valrico, Florida? Check out Sunflower Cafe Inc for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Sunflower Cafe Inc serves delicious sushi in Valrico, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2W7CiZ7SwogRLKFUb-vnpxc
 photos:
   - name: >-

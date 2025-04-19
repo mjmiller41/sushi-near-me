@@ -9,7 +9,7 @@ seo:
   name: "Sushi Jip Restaurant"
   type: Restaurant
   links: https://www.sushijip.com/
-description: "Looking for sushi in Arlington, Virginia? Check out Sushi Jip Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Sushi Jip Restaurant serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6QexH6u3t4kRuv0pu_hTV_g
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Bodeli Sushi"
   type: Restaurant
   links: http://www.bodelisushi.com/
-description: "Japanese dishes, maki & imported beer offered in laid-back surrounds with ample sushi bar seating. Looking for sushi in Franklin, Tennessee? Check out Bodeli..."
+description: "Japanese dishes, maki & imported beer offered in laid-back surrounds with ample sushi bar seating. Bodeli Sushi serves delicious sushi in Franklin, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJTbuT5F15ZIgRDYMWj-QwUCQ
 photos:
   - name: >-

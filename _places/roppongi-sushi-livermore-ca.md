@@ -9,7 +9,7 @@ seo:
   name: "Roppongi Sushi"
   type: Restaurant
   links: https://www.roppongisushilivermore.com/
-description: "Looking for sushi in Livermore, California? Check out Roppongi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Roppongi Sushi serves delicious sushi in Livermore, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWQ34a5_nj4ARjEFBAOEc-U0
 photos:
   - name: >-

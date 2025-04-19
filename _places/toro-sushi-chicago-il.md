@@ -9,7 +9,7 @@ seo:
   name: "Toro Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Chicago, Illinois? Check out Toro Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Toro Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkzXUFwzTD4gRxl3uFgUEFe4
 photos:
   - name: >-

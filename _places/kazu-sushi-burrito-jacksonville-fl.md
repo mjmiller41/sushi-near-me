@@ -9,7 +9,7 @@ seo:
   name: "Kazu Sushi Burrito"
   type: Restaurant
   links: null
-description: "Looking for sushi in Jacksonville, Florida? Check out Kazu Sushi Burrito for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Kazu Sushi Burrito serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj3ubfhzK5YgR2_KzbSnZduA
 photos:
   - name: >-

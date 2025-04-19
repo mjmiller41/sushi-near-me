@@ -9,7 +9,7 @@ seo:
   name: "Anaya Sushi & Ramen"
   type: Restaurant
   links: https://www.orderanayact.com/
-description: "Looking for sushi in New Haven, Connecticut? Check out Anaya Sushi & Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Anaya Sushi & Ramen serves delicious sushi in New Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5ydNwLLZ54kR3PKhEdmkceE
 photos:
   - name: >-

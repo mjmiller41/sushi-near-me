@@ -9,7 +9,7 @@ seo:
   name: "Bayridge Sushi"
   type: Restaurant
   links: http://www.bayridgesushibk.com/
-description: "Informal Japanese eatery offering sushi & bento boxes, plus lunch specials & party trays. Looking for sushi in Brooklyn, New York? Check out Bayridge Sushi f..."
+description: "Informal Japanese eatery offering sushi & bento boxes, plus lunch specials & party trays. Bayridge Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ29s96VZFwokRdHaE-Atft-E
 photos:
   - name: >-

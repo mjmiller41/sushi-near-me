@@ -9,7 +9,7 @@ seo:
   name: "Nobu Restaurant Las Vegas"
   type: Restaurant
   links: null
-description: "Looking for sushi in Las Vegas, Nevada? Check out Nobu Restaurant Las Vegas for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Nobu Restaurant Las Vegas serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAXK2ZzvEyIAR2ZN4cdxmSjQ
 photos:
   - name: >-

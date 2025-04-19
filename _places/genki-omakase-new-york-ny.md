@@ -9,7 +9,7 @@ seo:
   name: "Genki omakase"
   type: Restaurant
   links: http://www.genkiomakase.com/
-description: "Looking for sushi in New York, New York? Check out Genki omakase for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Genki omakase serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJx232mt9ZwokR7MuLz8Vpqr0
 photos:
   - name: >-

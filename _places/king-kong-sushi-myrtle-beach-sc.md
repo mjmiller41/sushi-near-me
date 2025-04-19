@@ -9,7 +9,7 @@ seo:
   name: "King Kong Sushi"
   type: Restaurant
   links: http://www.kingkongsushi.com/
-description: "Looking for sushi in Myrtle Beach, South Carolina? Check out King Kong Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "King Kong Sushi serves delicious sushi in Myrtle Beach, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJixuBjN9oAIkRjMlc0-JW5Ag
 photos:
   - name: >-

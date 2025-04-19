@@ -9,7 +9,7 @@ seo:
   name: "Dake Sushi"
   type: Restaurant
   links: https://dakesushi.smartonlineorder.com/
-description: "Looking for sushi in Simi Valley, California? Check out Dake Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Dake Sushi serves delicious sushi in Simi Valley, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL6FNwKAv6IAR5iO9583fFS0
 photos:
   - name: >-

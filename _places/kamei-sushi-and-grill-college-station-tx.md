@@ -9,7 +9,7 @@ seo:
   name: "Kamei Sushi and Grill"
   type: Restaurant
   links: https://www.kameisushiandgrilltx.com/
-description: "Looking for sushi in College Station, Texas? Check out Kamei Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Kamei Sushi and Grill serves delicious sushi in College Station, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIenJccqaRoYR7ai1JDjVCkk
 photos:
   - name: >-

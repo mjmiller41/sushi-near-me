@@ -9,7 +9,7 @@ seo:
   name: "Sushi Joe"
   type: Restaurant
   links: null
-description: "Looking for sushi in Doral, Florida? Check out Sushi Joe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Sushi Joe serves delicious sushi in Doral, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe_xDVVi52YgRFG_0CHW-lDM
 photos:
   - name: >-

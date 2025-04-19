@@ -9,7 +9,7 @@ seo:
   name: "Sushi & Shabu Time"
   type: Restaurant
   links: http://sushitime.vegas/
-description: "Looking for sushi in Las Vegas, Nevada? Check out Sushi & Shabu Time for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi & Shabu Time serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJP2pS7lTHyIARVXcWSggKJRc
 photos:
   - name: >-

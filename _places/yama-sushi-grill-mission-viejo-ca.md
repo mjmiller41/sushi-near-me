@@ -9,7 +9,7 @@ seo:
   name: "Yama Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Mission Viejo, California? Check out Yama Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Yama Sushi & Grill serves delicious sushi in Mission Viejo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaW5umn7p3IARetALWg9wikU
 photos:
   - name: >-

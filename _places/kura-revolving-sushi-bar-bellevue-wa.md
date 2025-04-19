@@ -9,7 +9,7 @@ seo:
   name: "Kura Revolving Sushi Bar"
   type: Restaurant
   links: https://kurasushi.com/locations/bellevue-wa/
-description: "Looking for sushi in Bellevue, Washington? Check out Kura Revolving Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Kura Revolving Sushi Bar serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa-kOxDltkFQRg7A5nJLZM5w
 photos:
   - name: >-

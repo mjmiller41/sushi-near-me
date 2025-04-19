@@ -9,7 +9,7 @@ seo:
   name: "Yotsuba Japanese Restaurant"
   type: Restaurant
   links: http://www.yotsuba-restaurant.com/
-description: "Modern, minimalist space for sushi, teriyaki & more served in booths or traditional tatami rooms. Looking for sushi in Ann Arbor, Michigan? Check out Yotsuba..."
+description: "Modern, minimalist space for sushi, teriyaki & more served in booths or traditional tatami rooms. Yotsuba Japanese Restaurant serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJAeSKkSuvPIgRyMyCKfNQKv0
 photos:
   - name: >-

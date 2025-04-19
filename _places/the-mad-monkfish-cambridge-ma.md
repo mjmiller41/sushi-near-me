@@ -9,7 +9,7 @@ seo:
   name: "The Mad Monkfish"
   type: Restaurant
   links: https://themadmonkfish.com/?utm_source=google
-description: "Creatively named sushi, including rolls inspired by fairy tales, & Pan-Asian plates in simple digs. Looking for sushi in Cambridge, Massachusetts? Check out ..."
+description: "Creatively named sushi, including rolls inspired by fairy tales, & Pan-Asian plates in simple digs. The Mad Monkfish serves delicious sushi in Cambridge, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ837FC1R344kRVlYqVsoSQew
 photos:
   - name: >-

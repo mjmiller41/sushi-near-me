@@ -9,7 +9,7 @@ seo:
   name: "Sushigirl Kauai"
   type: Restaurant
   links: https://www.sushigirlkauai.com/
-description: "Looking for sushi in Kilauea, Hawaii? Check out Sushigirl Kauai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushigirl Kauai serves delicious sushi in Kilauea, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYX2sdoLlBnwR8E8krPuR-r4
 photos:
   - name: >-

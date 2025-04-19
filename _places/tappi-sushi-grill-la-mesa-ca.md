@@ -9,7 +9,7 @@ seo:
   name: "Tappi Sushi & Grill"
   type: Restaurant
   links: http://tappisushi.com
-description: "Looking for sushi in La Mesa, California? Check out Tappi Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Tappi Sushi & Grill serves delicious sushi in La Mesa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ45C2Dzxa2YARi0pinfZn32o
 photos:
   - name: >-

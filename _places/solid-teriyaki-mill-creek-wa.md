@@ -9,7 +9,7 @@ seo:
   name: "SOLID teriyaki"
   type: Restaurant
   links: http://www.solid-mt.com/
-description: "Looking for sushi in Mill Creek, Washington? Check out SOLID teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "SOLID teriyaki serves delicious sushi in Mill Creek, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVVWFCtgFkFQRxGTTIxnS0B4
 photos:
   - name: >-

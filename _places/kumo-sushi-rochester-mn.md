@@ -9,7 +9,7 @@ seo:
   name: "Kumo Sushi"
   type: Restaurant
   links: http://www.kumosushirochester.com/
-description: "Looking for sushi in Rochester, Minnesota? Check out Kumo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Kumo Sushi serves delicious sushi in Rochester, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXTNUJltf94cRndLvvAqcmzU
 photos:
   - name: >-

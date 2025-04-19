@@ -9,7 +9,7 @@ seo:
   name: "Shiroi Sushi 한국횟집"
   type: Restaurant
   links: https://www.shiroisushi.com/
-description: "Looking for sushi in Glenview, Illinois? Check out Shiroi Sushi 한국횟집 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Shiroi Sushi 한국횟집 serves delicious sushi in Glenview, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH8nN5AnID4gR6RvxFX8vs38
 photos:
   - name: >-

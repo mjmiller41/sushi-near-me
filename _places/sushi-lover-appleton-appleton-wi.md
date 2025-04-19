@@ -9,7 +9,7 @@ seo:
   name: "Sushi Lover Appleton"
   type: Restaurant
   links: null
-description: "Looking for sushi in Appleton, Wisconsin? Check out Sushi Lover Appleton for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Sushi Lover Appleton serves delicious sushi in Appleton, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgeQYe0i3A4gRZEbuVp6ZdzU
 photos:
   - name: >-

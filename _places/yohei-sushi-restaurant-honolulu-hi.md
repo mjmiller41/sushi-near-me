@@ -9,7 +9,7 @@ seo:
   name: "Yohei Sushi Restaurant"
   type: Restaurant
   links: http://www.yoheisushi.com/
-description: "Looking for sushi in Honolulu, Hawaii? Check out Yohei Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Yohei Sushi Restaurant serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt1HpumVuAHwRj79yRZ3-OPo
 photos:
   - name: >-

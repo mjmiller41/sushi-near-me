@@ -9,7 +9,7 @@ seo:
   name: "Moriki Sushi"
   type: Restaurant
   links: http://www.morikisushi.com/
-description: "Looking for sushi in Lawrence, Kansas? Check out Moriki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Moriki Sushi serves delicious sushi in Lawrence, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzRQDgBlnv4cR3NSrnVeknhM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Bonchon San Gabriel"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Gabriel, California? Check out Bonchon San Gabriel for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Bonchon San Gabriel serves delicious sushi in San Gabriel, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmbmqAJbbwoARC-j6I1eEo0w
 photos:
   - name: >-

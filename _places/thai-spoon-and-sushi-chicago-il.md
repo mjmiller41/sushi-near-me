@@ -9,7 +9,7 @@ seo:
   name: "Thai Spoon and Sushi"
   type: Restaurant
   links: https://www.thaispoonsushichicago.com/?utm_source=google&utm_medium=gmb&utm_campaign=thaispoon
-description: "Casual restaurant with colorful decor serving traditional Thai cuisine, plus sushi. Looking for sushi in Chicago, Illinois? Check out Thai Spoon and Sushi fo..."
+description: "Casual restaurant with colorful decor serving traditional Thai cuisine, plus sushi. Thai Spoon and Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdxokPaAtDogRwy7RMkjsfM0
 photos:
   - name: >-

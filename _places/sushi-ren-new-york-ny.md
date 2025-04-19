@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ren"
   type: Restaurant
   links: https://www.sushiren.getsauce.com/?utm_source=GMB&utm_medium=Website+Button&utm_id=sushiren
-description: "Familiar Japanese dishes, sushi & cocktails in a modern space with a neon-lit bar & outdoor seats. Looking for sushi in New York, New York? Check out Sushi R..."
+description: "Familiar Japanese dishes, sushi & cocktails in a modern space with a neon-lit bar & outdoor seats. Sushi Ren serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJY70GVLlYwokRH_QuxZjGWec
 photos:
   - name: >-

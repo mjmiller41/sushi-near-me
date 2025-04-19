@@ -9,7 +9,7 @@ seo:
   name: "Shokunin Sushi and Japanese Cuisine"
   type: Restaurant
   links: http://facebook.com/Shokunin.Lincoln/
-description: "Looking for sushi in Lincoln, Nebraska? Check out Shokunin Sushi and Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi a..."
+description: "Shokunin Sushi and Japanese Cuisine serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0xHt_o-_locR5OM_Gx_-zcs
 photos:
   - name: >-

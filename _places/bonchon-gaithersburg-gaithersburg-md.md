@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Gaithersburg"
   type: Restaurant
   links: null
-description: "Looking for sushi in Gaithersburg, Maryland? Check out Bonchon Gaithersburg for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Bonchon Gaithersburg serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcRm3inkttokRZEKjctKCCVM
 photos:
   - name: >-

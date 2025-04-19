@@ -9,7 +9,7 @@ seo:
   name: "World Wrapps"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out World Wrapps for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "World Wrapps serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDTcVeoGBhYARn06UFK87o7E
 photos:
   - name: >-

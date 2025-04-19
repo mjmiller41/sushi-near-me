@@ -9,7 +9,7 @@ seo:
   name: "Sushimono"
   type: Restaurant
   links: null
-description: "Looking for sushi in Elk Grove, California? Check out Sushimono for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushimono serves delicious sushi in Elk Grove, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbf5SWbfHmoARCBC88WTVfBM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Roku Manhattan Beach"
   type: Restaurant
   links: null
-description: "Looking for sushi in Manhattan Beach, California? Check out Sushi Roku Manhattan Beach for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Sushi Roku Manhattan Beach serves delicious sushi in Manhattan Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZW81ao2zwoARsBy6gYQiQuw
 photos:
   - name: >-

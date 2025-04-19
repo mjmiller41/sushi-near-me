@@ -9,7 +9,7 @@ seo:
   name: "Sushi Too"
   type: Restaurant
   links: http://www.thesushitoo.com/
-description: "Cooked Japanese fare & varied sushi rolls are offered in compact, basic digs with a full bar. Looking for sushi in Pittsburgh, Pennsylvania? Check out Sushi ..."
+description: "Cooked Japanese fare & varied sushi rolls are offered in compact, basic digs with a full bar. Sushi Too serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3SMtprfzNIgRuLXGhg1SABA
 photos:
   - name: >-

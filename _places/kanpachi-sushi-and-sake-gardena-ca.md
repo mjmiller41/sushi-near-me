@@ -9,7 +9,7 @@ seo:
   name: "Kanpachi sushi and sake"
   type: Restaurant
   links: http://www.kanpachigardena.com/
-description: "Looking for sushi in Gardena, California? Check out Kanpachi sushi and sake for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Kanpachi sushi and sake serves delicious sushi in Gardena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjwetbSG1woAROgSA3HWnig8
 photos:
   - name: >-

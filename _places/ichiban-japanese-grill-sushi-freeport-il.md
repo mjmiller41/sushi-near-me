@@ -9,7 +9,7 @@ seo:
   name: "Ichiban Japanese Grill & Sushi"
   type: Restaurant
   links: https://m.facebook.com/IchibanJapaneseGrillAndSushi
-description: "Looking for sushi in Freeport, Illinois? Check out Ichiban Japanese Grill & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Ichiban Japanese Grill & Sushi serves delicious sushi in Freeport, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGfyiGIVrCIgRXrTFLGQexag
 photos:
   - name: >-

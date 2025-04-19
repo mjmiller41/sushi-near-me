@@ -9,7 +9,7 @@ seo:
   name: "Sei Sushi"
   type: Restaurant
   links: http://www.sei-sushi.com/
-description: "Modest eatery & bar turning out rolls, rice bowls, noodles, salads & sides, plus sake & beer. Looking for sushi in San Diego, California? Check out Sei Sushi..."
+description: "Modest eatery & bar turning out rolls, rice bowls, noodles, salads & sides, plus sake & beer. Sei Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-5r0ipdX2YARZiijarRaiLU
 photos:
   - name: >-

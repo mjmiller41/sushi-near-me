@@ -9,7 +9,7 @@ seo:
   name: "Sushi Zono"
   type: Restaurant
   links: http://www.sushizono.com/
-description: "Looking for sushi in Campbell, California? Check out Sushi Zono for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Zono serves delicious sushi in Campbell, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIZ30hjM1joARhtDryKcLOf8
 photos:
   - name: >-

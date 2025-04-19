@@ -9,7 +9,7 @@ seo:
   name: "Mint Tapas and Sushi 2 (Cottonwood Heights)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Holladay, Utah? Check out Mint Tapas and Sushi 2 (Cottonwood Heights) for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Mint Tapas and Sushi 2 (Cottonwood Heights) serves delicious sushi in Holladay, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqWMmvR1jUocREYyiBvHS1k0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Volcano Asian Cuisine"
   type: Restaurant
   links: http://volcanovtasiancuisine.com/
-description: "Looking for sushi in Burlington, Vermont? Check out Volcano Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Volcano Asian Cuisine serves delicious sushi in Burlington, Vermont. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-VAouehvykwRB1yQLsjT3Gs
 photos:
   - name: >-

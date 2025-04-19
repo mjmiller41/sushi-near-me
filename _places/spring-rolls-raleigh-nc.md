@@ -9,7 +9,7 @@ seo:
   name: "Spring Rolls"
   type: Restaurant
   links: https://springrollsrestaurant.com/
-description: "Looking for sushi in Raleigh, North Carolina? Check out Spring Rolls for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Spring Rolls serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw0s1SRf0rIkRVOKY7OWzFZs
 photos:
   - name: >-

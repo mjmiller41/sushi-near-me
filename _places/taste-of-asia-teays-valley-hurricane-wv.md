@@ -9,7 +9,7 @@ seo:
   name: "Taste of Asia Teays Valley"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hurricane, West Virginia? Check out Taste of Asia Teays Valley for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Taste of Asia Teays Valley serves delicious sushi in Hurricane, West Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsbLFxR-0SIgR_dUgOqOHx_0
 photos:
   - name: >-

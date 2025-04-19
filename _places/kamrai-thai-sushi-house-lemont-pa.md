@@ -9,7 +9,7 @@ seo:
   name: "Kamrai Thai&Sushi House"
   type: Restaurant
   links: https://www.kamraithairestaurant.com/
-description: "Sushi rolls & classic Thai entrees are the headliners at this quaint restaurant with a mellow vibe. Looking for sushi in Lemont, Pennsylvania? Check out Kamr..."
+description: "Sushi rolls & classic Thai entrees are the headliners at this quaint restaurant with a mellow vibe. Kamrai Thai&Sushi House serves delicious sushi in Lemont, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJiTaWQLGlzokRKe8zVgqofOg
 photos:
   - name: >-

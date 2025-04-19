@@ -9,7 +9,7 @@ seo:
   name: "Tabu Shabu Bressi Ranch"
   type: Restaurant
   links: null
-description: "Looking for sushi in Carlsbad, California? Check out Tabu Shabu Bressi Ranch for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Tabu Shabu Bressi Ranch serves delicious sushi in Carlsbad, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYajZJo113IARX_WTlhBjOHg
 photos:
   - name: >-

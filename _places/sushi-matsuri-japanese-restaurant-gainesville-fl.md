@@ -9,7 +9,7 @@ seo:
   name: "Sushi Matsuri Japanese Restaurant"
   type: Restaurant
   links: https://www.facebook.com/SushiMatsuriGainesville
-description: "Japanese dishes & sushi served in a strip-mall setting lit by paper lanterns. Looking for sushi in Gainesville, Florida? Check out Sushi Matsuri Japanese Res..."
+description: "Japanese dishes & sushi served in a strip-mall setting lit by paper lanterns. Sushi Matsuri Japanese Restaurant serves delicious sushi in Gainesville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJwXj06iSj6IgRXtXiGBY3RhI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Katana Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Turlock, California? Check out Katana Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Katana Sushi serves delicious sushi in Turlock, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAVWGfB0HkYARz-7kWC2k2dQ
 photos:
   - name: >-

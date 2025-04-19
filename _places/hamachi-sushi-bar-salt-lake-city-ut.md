@@ -9,7 +9,7 @@ seo:
   name: "Hamachi Sushi Bar"
   type: Restaurant
   links: http://hamachisushibar.com/
-description: "Looking for sushi in Salt Lake City, Utah? Check out Hamachi Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Hamachi Sushi Bar serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa2EtXHL1UocR97Fe6fMNgwQ
 photos:
   - name: >-

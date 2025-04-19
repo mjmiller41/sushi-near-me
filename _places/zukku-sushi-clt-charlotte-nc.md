@@ -9,7 +9,7 @@ seo:
   name: "Zukku Sushi CLT"
   type: Restaurant
   links: https://www.zukkusushi.com/
-description: "Looking for sushi in Charlotte, North Carolina? Check out Zukku Sushi CLT for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Zukku Sushi CLT serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9_88FzihVogR3HsqRuKeBjY
 photos:
   - name: >-

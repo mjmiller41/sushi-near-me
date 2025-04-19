@@ -9,7 +9,7 @@ seo:
   name: "Kumo Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in New Milford, Connecticut? Check out Kumo Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Kumo Japanese Restaurant serves delicious sushi in New Milford, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKfGpTl_254kRIkXQrOuJTX8
 photos:
   - name: >-

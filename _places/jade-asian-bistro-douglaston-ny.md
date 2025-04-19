@@ -9,7 +9,7 @@ seo:
   name: "Jade Asian Bistro"
   type: Restaurant
   links: null
-description: "Looking for sushi in Douglaston, New York? Check out Jade Asian Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Jade Asian Bistro serves delicious sushi in Douglaston, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6T4A9WuJwokR7QVTDMQvYTE
 photos:
   - name: >-

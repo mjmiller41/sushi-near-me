@@ -9,7 +9,7 @@ seo:
   name: "Green Leaf"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cockeysville, Maryland? Check out Green Leaf for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Green Leaf serves delicious sushi in Cockeysville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA9mzn30SyIkRKLMEcIG-ny0
 photos:
   - name: >-

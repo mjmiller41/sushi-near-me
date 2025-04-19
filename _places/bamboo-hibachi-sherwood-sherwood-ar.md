@@ -9,7 +9,7 @@ seo:
   name: "Bamboo Hibachi Sherwood"
   type: Restaurant
   links: http://bamboohibachi.weebly.com/
-description: "Looking for sushi in Sherwood, Arkansas? Check out Bamboo Hibachi Sherwood for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Bamboo Hibachi Sherwood serves delicious sushi in Sherwood, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ4JFuoS90ocRByf6hpady7o
 photos:
   - name: >-

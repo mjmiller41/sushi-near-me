@@ -9,7 +9,7 @@ seo:
   name: "Sen Sushi & Hibachi Grill"
   type: Restaurant
   links: https://sensushihibachi.com/
-description: "Looking for sushi in Marion, Arkansas? Check out Sen Sushi & Hibachi Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Sen Sushi & Hibachi Grill serves delicious sushi in Marion, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE3Tovh521YcRrZqm8Ytiv-s
 photos:
   - name: >-

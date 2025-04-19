@@ -9,7 +9,7 @@ seo:
   name: "Sarku Japan"
   type: Restaurant
   links: null
-description: "Looking for sushi in Owings Mills, Maryland? Check out Sarku Japan for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sarku Japan serves delicious sushi in Owings Mills, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN9o3IQwXyIkRky6EJu8-7zk
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Nippon Sushi - Bloomfield Hills"
   type: Restaurant
   links: https://www.nipponsushibar.com/
-description: "Looking for sushi in Bloomfield Hills, Michigan? Check out Nippon Sushi - Bloomfield Hills for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Nippon Sushi - Bloomfield Hills serves delicious sushi in Bloomfield Hills, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwWjT3N2-JIgRBU4IE7IuVs0
 photos:
   - name: >-

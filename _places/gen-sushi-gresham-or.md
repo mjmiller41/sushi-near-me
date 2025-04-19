@@ -9,7 +9,7 @@ seo:
   name: "Gen Sushi"
   type: Restaurant
   links: https://www.gensushipdx.com/
-description: "Looking for sushi in Gresham, Oregon? Check out Gen Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Gen Sushi serves delicious sushi in Gresham, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHfhIe_yZlVQRyPkBPf8_PdU
 photos:
   - name: >-

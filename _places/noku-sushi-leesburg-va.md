@@ -9,7 +9,7 @@ seo:
   name: "Noku Sushi"
   type: Restaurant
   links: http://nokusushi.com/
-description: "Modern yet modest, light-filled mainstay for creative & classic sushi, plus standard Japanese bites. Looking for sushi in Leesburg, Virginia? Check out Noku ..."
+description: "Modern yet modest, light-filled mainstay for creative & classic sushi, plus standard Japanese bites. Noku Sushi serves delicious sushi in Leesburg, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUQhjBkA8tokRJidROZQ6nvM
 photos:
   - name: >-

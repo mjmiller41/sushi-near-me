@@ -9,7 +9,7 @@ seo:
   name: "Taka Sushi Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Summit, New Jersey? Check out Taka Sushi Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Taka Sushi Restaurant serves delicious sushi in Summit, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH9_Cdk2uw4kRfi0xmzdd6j4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Rice Asian House, Sushi & Thai"
   type: Restaurant
   links: https://riceasianhouse.com/
-description: "Informal, modern Thai-Japanese destination with Asian decorative flourishes & a sushi bar. Looking for sushi in Sunny Isles Beach, Florida? Check out Rice As..."
+description: "Informal, modern Thai-Japanese destination with Asian decorative flourishes & a sushi bar. Rice Asian House, Sushi & Thai serves delicious sushi in Sunny Isles Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbwK_KB-t2YgRW5i0A-iEqfw
 photos:
   - name: >-

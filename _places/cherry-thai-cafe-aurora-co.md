@@ -9,7 +9,7 @@ seo:
   name: "Cherry Thai Cafe"
   type: Restaurant
   links: http://www.cherrythaicafe.com/
-description: "Looking for sushi in Aurora, Colorado? Check out Cherry Thai Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Cherry Thai Cafe serves delicious sushi in Aurora, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6xJ1P-CJbIcRBjfsfTfUgsM
 photos:
   - name: >-

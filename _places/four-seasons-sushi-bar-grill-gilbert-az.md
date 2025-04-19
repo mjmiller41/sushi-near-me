@@ -9,7 +9,7 @@ seo:
   name: "Four Seasons Sushi Bar & Grill"
   type: Restaurant
   links: https://4seasonsushiaz.com/
-description: "Looking for sushi in Gilbert, Arizona? Check out Four Seasons Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Four Seasons Sushi Bar & Grill serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgeLNg_2uK4cRrgbVXnPAp84
 photos:
   - name: >-

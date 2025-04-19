@@ -9,7 +9,7 @@ seo:
   name: "Inaka Sushi"
   type: Restaurant
   links: http://www.inaka83st.com/
-description: "Creative sushi rolls & other classic Japanese dishes are the draw at this snug, contemporary eatery. Looking for sushi in Brooklyn, New York? Check out Inaka..."
+description: "Creative sushi rolls & other classic Japanese dishes are the draw at this snug, contemporary eatery. Inaka Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJEyNRiAJPwokR8PcCt1FrUhM
 photos:
   - name: >-

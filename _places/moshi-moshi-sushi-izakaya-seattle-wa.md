@@ -9,7 +9,7 @@ seo:
   name: "Moshi Moshi Sushi & Izakaya"
   type: Restaurant
   links: http://www.moshimoshiseattle.com/
-description: "Looking for sushi in Seattle, Washington? Check out Moshi Moshi Sushi & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Moshi Moshi Sushi & Izakaya serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJExxdWsYVkFQR4LcgpT7JVBg
 photos:
   - name: >-

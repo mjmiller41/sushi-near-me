@@ -9,7 +9,7 @@ seo:
   name: "New Dragon Express"
   type: Restaurant
   links: http://www.newdragonexpress.com/
-description: "Looking for sushi in Bridgeville, Pennsylvania? Check out New Dragon Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "New Dragon Express serves delicious sushi in Bridgeville, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJz4_9nMNXNIgRWTufdHAZ2DU
 photos:
   - name: >-

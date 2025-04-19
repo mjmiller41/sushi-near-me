@@ -9,7 +9,7 @@ seo:
   name: "Izumi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fargo, North Dakota? Check out Izumi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Izumi serves delicious sushi in Fargo, North Dakota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5_UCZ4jMyFIRp2evCi3YGVU
 photos:
   - name: >-

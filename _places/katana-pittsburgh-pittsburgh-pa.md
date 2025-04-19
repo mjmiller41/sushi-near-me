@@ -9,7 +9,7 @@ seo:
   name: "Katana Pittsburgh"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pittsburgh, Pennsylvania? Check out Katana Pittsburgh for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Katana Pittsburgh serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVVVVVQn3NIgRT3nwUqQnoTk
 photos:
   - name: >-

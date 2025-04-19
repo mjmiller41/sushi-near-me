@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kabar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Northfield, Minnesota? Check out Sushi Kabar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Sushi Kabar serves delicious sushi in Northfield, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNSJDPcpT9ocRCTLn5x_SmhA
 photos: null
 address: Family Fare, Northfield, MN 55057, USA

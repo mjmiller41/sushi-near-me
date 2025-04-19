@@ -9,7 +9,7 @@ seo:
   name: "Alley Connection Restaurant"
   type: Restaurant
   links: https://www.facebook.com/AlleyConnection/
-description: "Looking for sushi in Kalispell, Montana? Check out Alley Connection Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Alley Connection Restaurant serves delicious sushi in Kalispell, Montana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmVndAcBQZlMRuKFlb7qzYiw
 photos:
   - name: >-

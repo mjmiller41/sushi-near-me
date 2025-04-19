@@ -9,7 +9,7 @@ seo:
   name: "541 Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Eugene, Oregon? Check out 541 Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "541 Sushi Bar serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzZOR-hQewVQRs2ZMzcKq6R0
 photos:
   - name: >-

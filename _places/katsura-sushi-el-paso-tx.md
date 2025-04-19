@@ -9,7 +9,7 @@ seo:
   name: "Katsura Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in El Paso, Texas? Check out Katsura Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Katsura Sushi serves delicious sushi in El Paso, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL5TEeBBE54YReS-Gp2v_VjE
 photos:
   - name: >-

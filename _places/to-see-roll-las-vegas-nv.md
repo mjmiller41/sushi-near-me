@@ -9,7 +9,7 @@ seo:
   name: "To See Roll"
   type: Restaurant
   links: http://toseeroll.com/
-description: "Looking for sushi in Las Vegas, Nevada? Check out To See Roll for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "To See Roll serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJFU-AGMzHyIARrJndeZWtDmQ
 photos:
   - name: >-

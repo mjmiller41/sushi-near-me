@@ -9,7 +9,7 @@ seo:
   name: "Umiya Sushi"
   type: Restaurant
   links: http://umiyalv.com/
-description: "Looking for sushi in Las Vegas, Nevada? Check out Umiya Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Umiya Sushi serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1RtP7ZfGyIAR1sccqiX79Vo
 photos:
   - name: >-

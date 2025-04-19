@@ -9,7 +9,7 @@ seo:
   name: "Jesushi Santa Fe LLC (Food Truck)"
   type: Restaurant
   links: https://order.online/business/jesushi-13887887
-description: "Looking for sushi in Santa Fe, New Mexico? Check out Jesushi Santa Fe LLC (Food Truck) for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Jesushi Santa Fe LLC (Food Truck) serves delicious sushi in Santa Fe, New Mexico. Try fresh Japanese dishes for a great dining experience. Available for takeout."
 place_id: ChIJVyUTBapbGIcRSai0KQdDEhA
 photos:
   - name: >-

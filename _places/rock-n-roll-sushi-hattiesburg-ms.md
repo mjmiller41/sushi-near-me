@@ -9,7 +9,7 @@ seo:
   name: "Rock N Roll Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hattiesburg, Mississippi? Check out Rock N Roll Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Rock N Roll Sushi serves delicious sushi in Hattiesburg, Mississippi. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5ZtnoRbfnIgRU4BO8o-Hrjo
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sumi Sushi & Hibachi"
   type: Restaurant
   links: https://www.sumileesburg.com/
-description: "Looking for sushi in Leesburg, Florida? Check out Sumi Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sumi Sushi & Hibachi serves delicious sushi in Leesburg, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0R2l6UvB54gRIOGoUgOR7zE
 photos:
   - name: >-

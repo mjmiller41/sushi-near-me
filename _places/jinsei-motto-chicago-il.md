@@ -9,7 +9,7 @@ seo:
   name: "Jinsei Motto"
   type: Restaurant
   links: https://www.jinseimotto.com/
-description: "Looking for sushi in Chicago, Illinois? Check out Jinsei Motto for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Jinsei Motto serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJHfUX-kstDogRvJwilXIwCmY
 photos:
   - name: >-

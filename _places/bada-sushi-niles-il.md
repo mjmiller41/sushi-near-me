@@ -9,7 +9,7 @@ seo:
   name: "Bada sushi"
   type: Restaurant
   links: https://www.badasushi.com/
-description: "Looking for sushi in Niles, Illinois? Check out Bada sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Bada sushi serves delicious sushi in Niles, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ40aPF_jJD4gRlcioLhAzAjc
 photos:
   - name: >-

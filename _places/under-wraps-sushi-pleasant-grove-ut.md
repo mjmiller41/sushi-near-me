@@ -9,7 +9,7 @@ seo:
   name: "Under Wraps Sushi"
   type: Restaurant
   links: http://underwrapssushi.com/
-description: "Looking for sushi in Pleasant Grove, Utah? Check out Under Wraps Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Under Wraps Sushi serves delicious sushi in Pleasant Grove, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCaEzQVODTYcRxdDBoSWgNLs
 photos:
   - name: >-

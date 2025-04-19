@@ -9,7 +9,7 @@ seo:
   name: "Nori Sushi Chicago"
   type: Restaurant
   links: https://www.norichicago.com/menus/lakeview-menu
-description: "Creative rolls are served at this busy Japanese restaurant with a bring your own beverage policy. Looking for sushi in Chicago, Illinois? Check out Nori Sush..."
+description: "Creative rolls are served at this busy Japanese restaurant with a bring your own beverage policy. Nori Sushi Chicago serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ44ZvKQHTD4gRRr2X2NupaWc
 photos:
   - name: >-

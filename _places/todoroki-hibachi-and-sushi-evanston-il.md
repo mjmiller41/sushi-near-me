@@ -9,7 +9,7 @@ seo:
   name: "Todoroki Hibachi and Sushi"
   type: Restaurant
   links: http://www.mytodorokievanston.com/
-description: "Japanese dining favorites highlighted in modern & minimalist surroundings with leather chairs. Looking for sushi in Evanston, Illinois? Check out Todoroki Hi..."
+description: "Japanese dining favorites highlighted in modern & minimalist surroundings with leather chairs. Todoroki Hibachi and Sushi serves delicious sushi in Evanston, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUamLaQ3QD4gR9XQZnxkitSM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Stevenson's Library"
   type: Restaurant
   links: https://www.hyatt.com/en-US/hotel/hawaii/grand-hyatt-kauai-resort-and-spa/kauai/dining
-description: "Looking for sushi in Koloa, Hawaii? Check out Stevenson's Library for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Stevenson's Library serves delicious sushi in Koloa, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG0L6q40aB3wRWOZUozVhOOc
 photos:
   - name: >-

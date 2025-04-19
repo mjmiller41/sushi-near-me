@@ -9,7 +9,7 @@ seo:
   name: "Sus Hi Eatstation - Millenia"
   type: Restaurant
   links: https://sushieatstation.com/
-description: "Looking for sushi in Orlando, Florida? Check out Sus Hi Eatstation - Millenia for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Sus Hi Eatstation - Millenia serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4eHsWq1954gR2VL7PDn0PK4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mango Tree Thai & Sushi"
   type: Restaurant
   links: http://www.mangotreemariemont.com/
-description: "Modern storefront cafe mixing classic Thai & other Asian eats including sushi for dine-in or to-go. Looking for sushi in Cincinnati, Ohio? Check out Mango Tr..."
+description: "Modern storefront cafe mixing classic Thai & other Asian eats including sushi for dine-in or to-go. Mango Tree Thai & Sushi serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzRqKEIisQYgR-cN3zG3he6Q
 photos:
   - name: >-

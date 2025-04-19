@@ -9,7 +9,7 @@ seo:
   name: "idashi Omakase"
   type: Restaurant
   links: https://www.idashiomakase.com/
-description: "Looking for sushi in Brooklyn, New York? Check out idashi Omakase for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "idashi Omakase serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJca2ebQBbwokRTjTkh72DWPE
 photos:
   - name: >-

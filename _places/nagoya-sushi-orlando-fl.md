@@ -9,7 +9,7 @@ seo:
   name: "Nagoya Sushi"
   type: Restaurant
   links: http://www.nagoyasushi.com/
-description: "Looking for sushi in Orlando, Florida? Check out Nagoya Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Nagoya Sushi serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAafu6qB_54gRrps9R8-5RH4
 photos:
   - name: >-

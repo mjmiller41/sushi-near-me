@@ -9,7 +9,7 @@ seo:
   name: "Wasabi's"
   type: Restaurant
   links: null
-description: "Looking for sushi in Roanoke, Virginia? Check out Wasabi's for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcom..."
+description: "Wasabi's serves delicious sushi in Roanoke, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO927AZUNTYgRJvUeW6_mdDI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "AMA Sushi"
   type: Restaurant
   links: https://order.toasttab.com/online/ama-sushi-5033-france-ave-s
-description: "Looking for sushi in Minneapolis, Minnesota? Check out AMA Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "AMA Sushi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfahPpyQn9ocR1TzXUWiK3M8
 photos:
   - name: >-

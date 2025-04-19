@@ -9,7 +9,7 @@ seo:
   name: "Matsutake Sushi and Sake Bar"
   type: Restaurant
   links: http://www.matsutakesushi.com/
-description: "Looking for sushi in Reston, Virginia? Check out Matsutake Sushi and Sake Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Matsutake Sushi and Sake Bar serves delicious sushi in Reston, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJr06TTR43tokRCdtuyrw4tuA
 photos:
   - name: >-

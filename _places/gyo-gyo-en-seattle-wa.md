@@ -9,7 +9,7 @@ seo:
   name: "Gyo Gyo En"
   type: Restaurant
   links: https://gyogyoen.square.site/
-description: "Looking for sushi in Seattle, Washington? Check out Gyo Gyo En for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Gyo Gyo En serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTWfbSjkVkFQRZEuYnPjhnsU
 photos:
   - name: >-

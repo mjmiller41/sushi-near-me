@@ -9,7 +9,7 @@ seo:
   name: "Fancy Sushi and Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Yulee, Florida? Check out Fancy Sushi and Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Fancy Sushi and Grill serves delicious sushi in Yulee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX6fDtXYA5YgRUK5D8sKsETs
 photos:
   - name: >-

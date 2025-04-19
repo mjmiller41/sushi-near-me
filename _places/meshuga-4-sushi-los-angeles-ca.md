@@ -9,7 +9,7 @@ seo:
   name: "Meshuga 4 Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Los Angeles, California? Check out Meshuga 4 Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Meshuga 4 Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5VEpgF65woARKTQZvAx1vUI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushiko"
   type: Restaurant
   links: http://www.sushi-ko.net/
-description: "Bright eatery with an extensive menu of traditional & specialty sushi & other Japanese dishes. Looking for sushi in Columbus, Ohio? Check out Sushiko for a d..."
+description: "Bright eatery with an extensive menu of traditional & specialty sushi & other Japanese dishes. Sushiko serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKXuSzEDzOIgRXeXFDqWelYg
 photos:
   - name: >-

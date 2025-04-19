@@ -9,7 +9,7 @@ seo:
   name: "Bamboo moon Chinese&japanese Bubble Tea"
   type: Restaurant
   links: https://bamboomoonchinese.com/
-description: "Looking for sushi in Randolph, Massachusetts? Check out Bamboo moon Chinese&japanese Bubble Tea for a delightful Japanese dining experience. Enjoy a variety ..."
+description: "Bamboo moon Chinese&japanese Bubble Tea serves delicious sushi in Randolph, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7_Lbc_yC5IkRII9LQdwmsW4
 photos:
   - name: >-

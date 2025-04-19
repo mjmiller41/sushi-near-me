@@ -9,7 +9,7 @@ seo:
   name: "Ayu Sushi & Noodles"
   type: Restaurant
   links: http://www.ayusushiandnoodles.com/
-description: "Looking for sushi in San Diego, California? Check out Ayu Sushi & Noodles for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Ayu Sushi & Noodles serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkazo4_gJ3IARCBIc2sFg-sQ
 photos:
   - name: >-

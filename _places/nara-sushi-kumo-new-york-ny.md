@@ -9,7 +9,7 @@ seo:
   name: "Nara Sushi/Kumo"
   type: Restaurant
   links: http://narasushi76.com/
-description: "Straightforward, cozy restaurant with classic sushi & sashimi offerings, plus teriyaki & tempura. Looking for sushi in New York, New York? Check out Nara Sus..."
+description: "Straightforward, cozy restaurant with classic sushi & sashimi offerings, plus teriyaki & tempura. Nara Sushi/Kumo serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2RlwJAJbwokR0Eb2TdnRAIU
 photos:
   - name: >-

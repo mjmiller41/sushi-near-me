@@ -9,7 +9,7 @@ seo:
   name: "Omakase SUSHI DAIRO"
   type: Restaurant
   links: https://omakasesushidairo.com/
-description: "Looking for sushi in New York, New York? Check out Omakase SUSHI DAIRO for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Omakase SUSHI DAIRO serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJub3k-H9ZwokReqic2hvVbgE
 photos:
   - name: >-

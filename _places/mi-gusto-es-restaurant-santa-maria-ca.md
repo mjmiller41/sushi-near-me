@@ -9,7 +9,7 @@ seo:
   name: "Mi Gusto Es Restaurant"
   type: Restaurant
   links: http://www.migustoesrestaurant.com/
-description: "Looking for sushi in Santa Maria, California? Check out Mi Gusto Es Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Mi Gusto Es Restaurant serves delicious sushi in Santa Maria, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH9zH54Nr7IAR1O1nNQOMtfg
 photos:
   - name: >-

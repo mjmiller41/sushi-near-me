@@ -9,7 +9,7 @@ seo:
   name: "Jojo's Raw Bar & Grill"
   type: Restaurant
   links: http://jojosrawbar.com/contact.html
-description: "Low-key seafood joint with daily specials & happy hours, plus TVs showing sports & an outdoor patio. Looking for sushi in Wellington, Florida? Check out Jojo..."
+description: "Low-key seafood joint with daily specials & happy hours, plus TVs showing sports & an outdoor patio. Jojo's Raw Bar & Grill serves delicious sushi in Wellington, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJj8z81_ov2YgR6lZBIcWYDFA
 photos:
   - name: >-

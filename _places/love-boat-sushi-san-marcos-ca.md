@@ -9,7 +9,7 @@ seo:
   name: "Love Boat Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Marcos, California? Check out Love Boat Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Love Boat Sushi serves delicious sushi in San Marcos, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHS9sZUF13IAR27kQUA2aBu0
 photos:
   - name: >-

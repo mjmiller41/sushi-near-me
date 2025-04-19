@@ -9,7 +9,7 @@ seo:
   name: "Ocean Wave Sushi By Harry and Sons"
   type: Restaurant
   links: http://surinofthailand.com/locations/ocean-wave/
-description: "An exposed-brick wall & outdoor patio set the scene at this Thai restaurant & sushi bar. Looking for sushi in Atlanta, Georgia? Check out Ocean Wave Sushi By..."
+description: "An exposed-brick wall & outdoor patio set the scene at this Thai restaurant & sushi bar. Ocean Wave Sushi By Harry and Sons serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ55RQXaAG9YgRMcp5CxsHkjI
 photos:
   - name: >-

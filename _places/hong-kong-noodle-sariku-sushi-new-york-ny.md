@@ -9,7 +9,7 @@ seo:
   name: "Hong Kong Noodle & Sariku Sushi"
   type: Restaurant
   links: https://hongkongnoodleny.com/
-description: "Unassuming sit-down restaurant offering familiar Chinese & Japanese eats, including sushi. Looking for sushi in New York, New York? Check out Hong Kong Noodl..."
+description: "Unassuming sit-down restaurant offering familiar Chinese & Japanese eats, including sushi. Hong Kong Noodle & Sariku Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-WCDcghZwokRafqiRaOW0JA
 photos:
   - name: >-

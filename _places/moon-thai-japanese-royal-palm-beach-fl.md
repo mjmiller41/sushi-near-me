@@ -9,7 +9,7 @@ seo:
   name: "Moon Thai & Japanese"
   type: Restaurant
   links: null
-description: "Looking for sushi in Royal Palm Beach, Florida? Check out Moon Thai & Japanese for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Moon Thai & Japanese serves delicious sushi in Royal Palm Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJifgqWg8v2YgR7DiIFKb_qfY
 photos:
   - name: >-

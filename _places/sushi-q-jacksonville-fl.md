@@ -9,7 +9,7 @@ seo:
   name: "Sushi Q"
   type: Restaurant
   links: null
-description: "Looking for sushi in Jacksonville, Florida? Check out Sushi Q for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Q serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZYmQw3jL5YgRXID2ZhQ7dhM
 photos:
   - name: >-

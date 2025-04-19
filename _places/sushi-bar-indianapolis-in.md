@@ -9,7 +9,7 @@ seo:
   name: "Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Indianapolis, Indiana? Check out Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Bar serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt6XZGK9Ta4gRboHbFgeiRI4
 photos:
   - name: >-

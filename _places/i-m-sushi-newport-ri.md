@@ -9,7 +9,7 @@ seo:
   name: "I'm Sushi"
   type: Restaurant
   links: https://www.im-sushi.com/
-description: "Looking for sushi in Newport, Rhode Island? Check out I'm Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "I'm Sushi serves delicious sushi in Newport, Rhode Island. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5wq8XVyv5YkRdJzMFbiIvQ8
 photos:
   - name: >-

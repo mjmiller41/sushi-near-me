@@ -9,7 +9,7 @@ seo:
   name: "Aya Sushi"
   type: Restaurant
   links: http://www.ayasushinewyork.com/
-description: "Tiny, unadorned sushi place also preparing a long menu of familiar Japanese entrees. Looking for sushi in New York, New York? Check out Aya Sushi for a delig..."
+description: "Tiny, unadorned sushi place also preparing a long menu of familiar Japanese entrees. Aya Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJM3uuJq1ZwokRyQ7JC-KW_6w
 photos:
   - name: >-

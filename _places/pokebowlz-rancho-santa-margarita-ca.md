@@ -9,7 +9,7 @@ seo:
   name: "PokeBowlz"
   type: Restaurant
   links: null
-description: "Looking for sushi in Rancho Santa Margarita, California? Check out PokeBowlz for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "PokeBowlz serves delicious sushi in Rancho Santa Margarita, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIYQylQfr3IARSwxoqy7HJrk
 photos:
   - name: >-

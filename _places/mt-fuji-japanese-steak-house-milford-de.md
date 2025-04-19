@@ -9,7 +9,7 @@ seo:
   name: "Mt. Fuji Japanese Steak House"
   type: Restaurant
   links: http://www.fuji19963.com/
-description: "Looking for sushi in Milford, Delaware? Check out Mt. Fuji Japanese Steak House for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Mt. Fuji Japanese Steak House serves delicious sushi in Milford, Delaware. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJY55Uk4eZuIkRUWSEv5G-rzY
 photos:
   - name: >-

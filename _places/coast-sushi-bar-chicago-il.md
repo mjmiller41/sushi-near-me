@@ -9,7 +9,7 @@ seo:
   name: "Coast Sushi Bar"
   type: Restaurant
   links: http://coastsushi.net/coastsushi/default.asp
-description: "Cooked Japanese fare & creative sushi rolls served in a lively, contemporary setting. Looking for sushi in Chicago, Illinois? Check out Coast Sushi Bar for a..."
+description: "Cooked Japanese fare & creative sushi rolls served in a lively, contemporary setting. Coast Sushi Bar serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzz1aLOvSD4gRq-BexNb_hV4
 photos:
   - name: >-

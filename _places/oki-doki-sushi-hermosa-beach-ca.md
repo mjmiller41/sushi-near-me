@@ -9,7 +9,7 @@ seo:
   name: "Oki Doki Sushi"
   type: Restaurant
   links: https://www.okidokisushitogo.com/
-description: "Looking for sushi in Hermosa Beach, California? Check out Oki Doki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Oki Doki Sushi serves delicious sushi in Hermosa Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0dbq6IK0woARGPwOnFSc0S0
 photos:
   - name: >-

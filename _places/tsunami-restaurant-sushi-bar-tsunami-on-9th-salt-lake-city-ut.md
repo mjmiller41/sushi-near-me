@@ -9,7 +9,7 @@ seo:
   name: "Tsunami Restaurant & Sushi Bar - Tsunami on 9th"
   type: Restaurant
   links: null
-description: "Looking for sushi in Salt Lake City, Utah? Check out Tsunami Restaurant & Sushi Bar - Tsunami on 9th for a delightful Japanese dining experience. Enjoy a var..."
+description: "Tsunami Restaurant & Sushi Bar - Tsunami on 9th serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGTDcsWT1UocRq3lI1lfbPmc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Lilli and Loo"
   type: Restaurant
   links: https://lilliandloonyc.com/
-description: "An array of Pan-Asian eats (plus gluten-free options) served in a bi-level setting. Looking for sushi in New York, New York? Check out Lilli and Loo for a de..."
+description: "An array of Pan-Asian eats (plus gluten-free options) served in a bi-level setting. Lilli and Loo serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7bhwa-9YwokRcWqrsCk632M
 photos:
   - name: >-

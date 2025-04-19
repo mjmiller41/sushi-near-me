@@ -9,7 +9,7 @@ seo:
   name: "Rolls N Bowls"
   type: Restaurant
   links: http://rollsnbowlschicago.com/
-description: "Snug restaurant serving sushi & traditional Japanese mains such as yakisoba & bento boxes. Looking for sushi in Chicago, Illinois? Check out Rolls N Bowls fo..."
+description: "Snug restaurant serving sushi & traditional Japanese mains such as yakisoba & bento boxes. Rolls N Bowls serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA6L5oBrSD4gRlOqsMYbT3vo
 photos:
   - name: >-

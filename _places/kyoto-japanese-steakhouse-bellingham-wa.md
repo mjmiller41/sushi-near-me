@@ -9,7 +9,7 @@ seo:
   name: "Kyoto Japanese Steakhouse"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bellingham, Washington? Check out Kyoto Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Kyoto Japanese Steakhouse serves delicious sushi in Bellingham, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVStyEsWjhVQRx3bd96SbrNE
 photos:
   - name: >-

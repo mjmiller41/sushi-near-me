@@ -9,7 +9,7 @@ seo:
   name: "Pokémoto"
   type: Restaurant
   links: http://www.pokemoto.com/
-description: "Looking for sushi in Franklin, Massachusetts? Check out Pokémoto for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Pokémoto serves delicious sushi in Franklin, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcQDRs9pv5IkRzNZE4t2IAD8
 photos:
   - name: >-

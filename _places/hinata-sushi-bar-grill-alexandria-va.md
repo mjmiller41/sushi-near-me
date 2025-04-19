@@ -9,7 +9,7 @@ seo:
   name: "Hinata Sushi Bar &Grill"
   type: Restaurant
   links: http://www.clover.com/online-ordering/hinata-alexandria/
-description: "Relaxed locale dishing up traditional Japanese cuisine, including rolls, sashimi & tempura. Looking for sushi in Alexandria, Virginia? Check out Hinata Sushi..."
+description: "Relaxed locale dishing up traditional Japanese cuisine, including rolls, sashimi & tempura. Hinata Sushi Bar &Grill serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbzxVIsyxt4kRDvR65e416n0
 photos:
   - name: >-

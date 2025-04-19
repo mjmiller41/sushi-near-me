@@ -9,7 +9,7 @@ seo:
   name: "Ginban Asian Bistro"
   type: Restaurant
   links: http://www.ginbanmamaroneck.com/
-description: "Sushi & Asian fare is served in a hip, blue-lit room behind a modest storefront facade. Looking for sushi in Mamaroneck, New York? Check out Ginban Asian Bis..."
+description: "Sushi & Asian fare is served in a hip, blue-lit room behind a modest storefront facade. Ginban Asian Bistro serves delicious sushi in Mamaroneck, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJxy4YTYORwokRgd-fiNwNF3E
 photos:
   - name: >-

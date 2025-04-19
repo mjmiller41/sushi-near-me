@@ -9,7 +9,7 @@ seo:
   name: "Blue Ribbon Sushi & Sake"
   type: Restaurant
   links: https://www.blueribbonsushiandsake.com/
-description: "Looking for sushi in New York, New York? Check out Blue Ribbon Sushi & Sake for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Blue Ribbon Sushi & Sake serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, delivery, and dinner."
 place_id: ChIJkSzaOlZZwokRyqFI9Uj1brc
 photos:
   - name: >-

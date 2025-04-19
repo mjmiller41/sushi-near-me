@@ -9,7 +9,7 @@ seo:
   name: "Kumo Asian Bistro"
   type: Restaurant
   links: http://www.kumoasianbistro.com/
-description: "A mix of traditional chow & hibachi dinners offered in a chic & modern setting with a sushi bar. Looking for sushi in North Wales, Pennsylvania? Check out Ku..."
+description: "A mix of traditional chow & hibachi dinners offered in a chic & modern setting with a sushi bar. Kumo Asian Bistro serves delicious sushi in North Wales, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJubRwll-kxokRzZY12_JHR_M
 photos:
   - name: >-

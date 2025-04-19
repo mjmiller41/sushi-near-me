@@ -9,7 +9,7 @@ seo:
   name: "[50% OFF ROLLS!] Koisan Sushi Bar and Japanese Cuisine"
   type: Restaurant
   links: https://www.koisansushibar.com/
-description: "Looking for sushi in Orange, California? Check out [50% OFF ROLLS!] Koisan Sushi Bar and Japanese Cuisine for a delightful Japanese dining experience. Enjoy ..."
+description: "[50% OFF ROLLS!] Koisan Sushi Bar and Japanese Cuisine serves delicious sushi in Orange, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ4cq6U_X3IARHdCeExIeZfE
 photos:
   - name: >-

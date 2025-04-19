@@ -9,7 +9,7 @@ seo:
   name: "Sumo Sushi Maple Valley"
   type: Restaurant
   links: null
-description: "Looking for sushi in Maple Valley, Washington? Check out Sumo Sushi Maple Valley for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Sumo Sushi Maple Valley serves delicious sushi in Maple Valley, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJuYTAL11gkFQRbWjpYVJpgF4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushiman"
   type: Restaurant
   links: null
-description: "Looking for sushi in Pearl City, Hawaii? Check out Sushiman for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Sushiman serves delicious sushi in Pearl City, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ8P0T3NmAHwR3PDISSXfg2Y
 photos:
   - name: >-

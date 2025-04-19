@@ -9,7 +9,7 @@ seo:
   name: "Friends Sushi & Bento Place"
   type: Restaurant
   links: https://friendssushi.menufy.com/
-description: "Welcoming outfit offers a range of sushi & hot Japanese cooking, plus lunch specials. Looking for sushi in Kansas City, Missouri? Check out Friends Sushi & B..."
+description: "Welcoming outfit offers a range of sushi & hot Japanese cooking, plus lunch specials. Friends Sushi & Bento Place serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4_0sYSzuwIcRlspiSk9Md3Y
 photos:
   - name: >-

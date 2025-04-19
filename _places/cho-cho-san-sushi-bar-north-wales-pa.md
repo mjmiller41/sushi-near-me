@@ -9,7 +9,7 @@ seo:
   name: "Cho Cho San Sushi Bar"
   type: Restaurant
   links: https://smorefood.com/order-online/cho-cho-san-north-wales-19454-afub4s90?utm_source=gmb&utm_medium=website
-description: "Simple Japanese eatery with an ample selection of sushi rolls, plus bento boxes & hibachi fare. Looking for sushi in North Wales, Pennsylvania? Check out Cho..."
+description: "Simple Japanese eatery with an ample selection of sushi rolls, plus bento boxes & hibachi fare. Cho Cho San Sushi Bar serves delicious sushi in North Wales, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJd442DASkxokRn11CnXUbDPs
 photos:
   - name: >-

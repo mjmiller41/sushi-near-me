@@ -9,7 +9,7 @@ seo:
   name: "Peking China Buffet"
   type: Restaurant
   links: null
-description: "Looking for sushi in Plainfield, Indiana? Check out Peking China Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Peking China Buffet serves delicious sushi in Plainfield, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf0rOhTSkbIgRo0E3YI7xBY4
 photos:
   - name: >-

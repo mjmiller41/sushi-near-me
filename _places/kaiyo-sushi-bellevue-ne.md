@@ -9,7 +9,7 @@ seo:
   name: "Kaiyo Sushi"
   type: Restaurant
   links: https://kaiyosushinebraska.com/
-description: "Looking for sushi in Bellevue, Nebraska? Check out Kaiyo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Kaiyo Sushi serves delicious sushi in Bellevue, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJBTMCdwOJk4cRqBpQ5lJnQ20
 photos:
   - name: >-

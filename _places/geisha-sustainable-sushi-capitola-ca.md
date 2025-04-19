@@ -9,7 +9,7 @@ seo:
   name: "Geisha Sustainable Sushi"
   type: Restaurant
   links: https://www.geishasushicapitola.com/
-description: "Looking for sushi in Capitola, California? Check out Geisha Sustainable Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Geisha Sustainable Sushi serves delicious sushi in Capitola, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDQ0nIAsVjoARGMguAiwnWAc
 photos:
   - name: >-

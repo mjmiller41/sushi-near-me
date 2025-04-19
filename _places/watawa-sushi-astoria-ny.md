@@ -9,7 +9,7 @@ seo:
   name: "Watawa Sushi"
   type: Restaurant
   links: http://www.watawasushi.com/
-description: "Looking for sushi in Astoria, New York? Check out Watawa Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Watawa Sushi serves delicious sushi in Astoria, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8UiXM2ZfwokRS7Nvdr-5rT0
 photos:
   - name: >-

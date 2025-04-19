@@ -9,7 +9,7 @@ seo:
   name: "Nimblefish"
   type: Restaurant
   links: http://www.nimblefishpdx.com/
-description: "Looking for sushi in Portland, Oregon? Check out Nimblefish for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Nimblefish serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIXLSW5mglVQRwgzqGQl2BAM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Basil Cafe Asian Cuisine"
   type: Restaurant
   links: http://www.basilcaferockwall.com/
-description: "Looking for sushi in Rockwall, Texas? Check out Basil Cafe Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Basil Cafe Asian Cuisine serves delicious sushi in Rockwall, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq0sdHECqToYRI8YI5P5TqDM
 photos:
   - name: >-

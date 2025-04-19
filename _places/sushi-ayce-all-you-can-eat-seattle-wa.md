@@ -9,7 +9,7 @@ seo:
   name: "Sushi%AYCE/All You Can Eat"
   type: Restaurant
   links: https://www.sushiayceus.com/
-description: "Looking for sushi in Seattle, Washington? Check out Sushi%AYCE/All You Can Eat for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Sushi%AYCE/All You Can Eat serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqxb_7GhrkFQRvomAw9GALrM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Oishi Japanese Cuisine"
   type: Restaurant
   links: null
-description: "Looking for sushi in Arnold, Maryland? Check out Oishi Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Oishi Japanese Cuisine serves delicious sushi in Arnold, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHxKqM373t4kRfNPRtr5aDh0
 photos:
   - name: >-

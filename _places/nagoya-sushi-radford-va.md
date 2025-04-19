@@ -9,7 +9,7 @@ seo:
   name: "Nagoya Sushi"
   type: Restaurant
   links: https://www.nagoyaradford.com/
-description: "Casual restaurant serving specialty rolls & Chinese standards such as orange chicken & curry beef. Looking for sushi in Radford, Virginia? Check out Nagoya S..."
+description: "Casual restaurant serving specialty rolls & Chinese standards such as orange chicken & curry beef. Nagoya Sushi serves delicious sushi in Radford, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJqwSK4Y7uTYgRBJOpJjlBs20
 photos:
   - name: >-

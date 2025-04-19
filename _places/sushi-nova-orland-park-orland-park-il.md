@@ -9,7 +9,7 @@ seo:
   name: "Sushi Nova - Orland Park"
   type: Restaurant
   links: null
-description: "Looking for sushi in Orland Park, Illinois? Check out Sushi Nova - Orland Park for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Sushi Nova - Orland Park serves delicious sushi in Orland Park, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-2KAAX0_DogRIKTVCo5zb6k
 photos:
   - name: >-

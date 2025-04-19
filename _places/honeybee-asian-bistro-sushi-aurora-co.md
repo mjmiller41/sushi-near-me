@@ -9,7 +9,7 @@ seo:
   name: "HoneyBee Asian Bistro & Sushi"
   type: Restaurant
   links: https://www.honeybeeasianbistro.com/
-description: "Looking for sushi in Aurora, Colorado? Check out HoneyBee Asian Bistro & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "HoneyBee Asian Bistro & Sushi serves delicious sushi in Aurora, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKfO1pZmJbIcRqWu2X-yioXc
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Nakano"
   type: Restaurant
   links: http://sushinakano.com/
-description: "Looking for sushi in Phoenix, Arizona? Check out Sushi Nakano for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Nakano serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJda-DUGEEK4cRJZYZfJMURsg
 photos:
   - name: >-

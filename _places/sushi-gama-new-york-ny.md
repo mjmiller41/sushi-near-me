@@ -9,7 +9,7 @@ seo:
   name: "Sushi Gama"
   type: Restaurant
   links: https://www.smorefood.com/order-online/sushi-gama-new-york-10021-ok4kmrpz??utm_source=gmb&utm_medium=website
-description: "Japanese restaurant with a tavern vibe & bar offering a mix of sushi, rolls & kitchen-cooked plates. Looking for sushi in New York, New York? Check out Sushi..."
+description: "Japanese restaurant with a tavern vibe & bar offering a mix of sushi, rolls & kitchen-cooked plates. Sushi Gama serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJw9uiOMBYwokR7zqSs85PFUs
 photos:
   - name: >-

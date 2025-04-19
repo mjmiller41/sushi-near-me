@@ -9,7 +9,7 @@ seo:
   name: "Sushi Time"
   type: Restaurant
   links: https://www.sushitimeidaho.com/
-description: "Looking for sushi in Idaho Falls, Idaho? Check out Sushi Time for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Time serves delicious sushi in Idaho Falls, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS_9RSyNfVFMR1Y7c8nuW4sI
 photos:
   - name: >-

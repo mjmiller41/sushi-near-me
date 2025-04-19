@@ -9,7 +9,7 @@ seo:
   name: "Ajiten Princeton Japanese restaurant"
   type: Restaurant
   links: http://www.ajitenprinceton.com/
-description: "Japanese fare served in an unassuming basement setting with a BYOB policy. No parties over 4. Looking for sushi in Princeton, New Jersey? Check out Ajiten Pr..."
+description: "Japanese fare served in an unassuming basement setting with a BYOB policy. No parties over 4. Ajiten Princeton Japanese restaurant serves delicious sushi in Princeton, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ9bPHlsDmw4kRZh2Dex6Ipl0
 photos:
   - name: >-

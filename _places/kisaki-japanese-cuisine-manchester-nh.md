@@ -9,7 +9,7 @@ seo:
   name: "Kisaki Japanese Cuisine"
   type: Restaurant
   links: http://kisakisushi.com/
-description: "Sushi, sashimi, rolls & classic Japanese cooked fare offered in à la carte & unlimited options. Looking for sushi in Manchester, New Hampshire? Check out Kis..."
+description: "Sushi, sashimi, rolls & classic Japanese cooked fare offered in à la carte & unlimited options. Kisaki Japanese Cuisine serves delicious sushi in Manchester, New Hampshire. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJLzHCfNhO4okRaZDccfvRAJ8
 photos:
   - name: >-

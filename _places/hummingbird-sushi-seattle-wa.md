@@ -9,7 +9,7 @@ seo:
   name: "Hummingbird Sushi"
   type: Restaurant
   links: https://www.hummingbirdsushi.com/
-description: "Looking for sushi in Seattle, Washington? Check out Hummingbird Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Hummingbird Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ82HkJwAVkFQRTVtFMY60XvA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tom's Sushi House"
   type: Restaurant
   links: https://order.online/business/toms-sushi-house-11222735
-description: "Looking for sushi in Los Angeles, California? Check out Tom's Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Tom's Sushi House serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ94xlTkK7woARGXMmGc9CoCw
 photos:
   - name: >-

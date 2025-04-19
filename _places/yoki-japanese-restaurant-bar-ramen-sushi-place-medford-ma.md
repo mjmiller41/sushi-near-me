@@ -9,7 +9,7 @@ seo:
   name: "YōKi Japanese Restaurant & Bar - Ramen & Sushi Place"
   type: Restaurant
   links: http://www.yokirestaurant.com/
-description: "Japanese choice with long multicolored bar, creative sushi (including sports-team rolls) & entrees. Looking for sushi in Medford, Massachusetts? Check out Yō..."
+description: "Japanese choice with long multicolored bar, creative sushi (including sports-team rolls) & entrees. YōKi Japanese Restaurant & Bar - Ramen & Sushi Place serves delicious sushi in Medford, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOzhVcFR344kRSXJ5gaZ2Eo4
 photos:
   - name: >-

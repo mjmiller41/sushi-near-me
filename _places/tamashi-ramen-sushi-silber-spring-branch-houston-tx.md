@@ -9,7 +9,7 @@ seo:
   name: "Tamashi Ramen Sushi- Silber Spring Branch"
   type: Restaurant
   links: null
-description: "Looking for sushi in Houston, Texas? Check out Tamashi Ramen Sushi- Silber Spring Branch for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "Tamashi Ramen Sushi- Silber Spring Branch serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHzNoNKPGQIYRH7ZfUUEhFoc
 photos:
   - name: >-

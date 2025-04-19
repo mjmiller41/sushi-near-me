@@ -9,7 +9,7 @@ seo:
   name: "Mr. Sushi"
   type: Restaurant
   links: http://www.mrsushidallas.com/
-description: "Looking for sushi in Dallas, Texas? Check out Mr. Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "Mr. Sushi serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxeoMXDEhTIYRgfT6BvvgolM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tee Jay Thai Sushi | Wilton Manors"
   type: Restaurant
   links: null
-description: "Looking for sushi in Wilton Manors, Florida? Check out Tee Jay Thai Sushi | Wilton Manors for a delightful Japanese dining experience. Enjoy a variety of sus..."
+description: "Tee Jay Thai Sushi | Wilton Manors serves delicious sushi in Wilton Manors, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2Zo0qZ4B2YgRlk6vlfdiEm8
 photos:
   - name: >-

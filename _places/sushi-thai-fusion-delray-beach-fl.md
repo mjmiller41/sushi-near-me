@@ -9,7 +9,7 @@ seo:
   name: "SUSHI THAI FUSION"
   type: Restaurant
   links: null
-description: "Looking for sushi in Delray Beach, Florida? Check out SUSHI THAI FUSION for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "SUSHI THAI FUSION serves delicious sushi in Delray Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7dtb20Hg2IgRu8suhNvjJL4
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Taiko Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Folsom, California? Check out Taiko Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Taiko Sushi serves delicious sushi in Folsom, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4f0m9v_kmoARbEMNpw_N-lU
 photos:
   - name: >-

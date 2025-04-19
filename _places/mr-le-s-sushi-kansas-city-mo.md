@@ -9,7 +9,7 @@ seo:
   name: "Mr Le's Sushi"
   type: Restaurant
   links: https://www.mrlessushi.com/
-description: "Compact, unassuming strip-mall restaurant offering Vietnamese dishes, sushi & other Japanese fare. Looking for sushi in Kansas City, Missouri? Check out Mr L..."
+description: "Compact, unassuming strip-mall restaurant offering Vietnamese dishes, sushi & other Japanese fare. Mr Le's Sushi serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2YVRv3X5wIcRI3Nga8Le_38
 photos:
   - name: >-

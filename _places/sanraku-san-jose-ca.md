@@ -9,7 +9,7 @@ seo:
   name: "Sanraku"
   type: Restaurant
   links: http://www.sanraku.com/
-description: "Looking for sushi in San Jose, California? Check out Sanraku for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sanraku serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh3U4FNYzjoAR5GxY75e8X6A
 photos:
   - name: >-

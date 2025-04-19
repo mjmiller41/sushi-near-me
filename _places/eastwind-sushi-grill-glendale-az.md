@@ -9,7 +9,7 @@ seo:
   name: "Eastwind Sushi & Grill"
   type: Restaurant
   links: https://www.eastwindglendale.com/
-description: "Looking for sushi in Glendale, Arizona? Check out Eastwind Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Eastwind Sushi & Grill serves delicious sushi in Glendale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwf8PEPRoK4cRvuljBLlDneA
 photos:
   - name: >-

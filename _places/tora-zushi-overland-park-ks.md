@@ -9,7 +9,7 @@ seo:
   name: "Tora Zushi"
   type: Restaurant
   links: https://www.strang.cc/torazushi
-description: "Looking for sushi in Overland Park, Kansas? Check out Tora Zushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Tora Zushi serves delicious sushi in Overland Park, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ7xngJ8ntwIcRN8MNrwloEAw
 photos:
   - name: >-

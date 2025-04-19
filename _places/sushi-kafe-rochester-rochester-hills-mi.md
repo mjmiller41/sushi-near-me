@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kafe Rochester"
   type: Restaurant
   links: http://www.sushikafe.com/
-description: "Looking for sushi in Rochester Hills, Michigan? Check out Sushi Kafe Rochester for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Sushi Kafe Rochester serves delicious sushi in Rochester Hills, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK5B9UJLpJIgRWMYtCHWMl5s
 photos:
   - name: >-

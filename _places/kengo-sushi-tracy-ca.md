@@ -9,7 +9,7 @@ seo:
   name: "Kengo Sushi"
   type: Restaurant
   links: https://www.kengosushi4u.com/
-description: "Looking for sushi in Tracy, California? Check out Kengo Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Kengo Sushi serves delicious sushi in Tracy, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGRlTb1A9kIARaz9vQWawOHI
 photos:
   - name: >-

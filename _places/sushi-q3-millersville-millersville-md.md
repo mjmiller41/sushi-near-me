@@ -9,7 +9,7 @@ seo:
   name: "Sushi Q3 Millersville"
   type: Restaurant
   links: http://www.sushiqmd.com/
-description: "Looking for sushi in Millersville, Maryland? Check out Sushi Q3 Millersville for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Sushi Q3 Millersville serves delicious sushi in Millersville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJebPYLVD7t4kR819qL7wprdE
 photos:
   - name: >-

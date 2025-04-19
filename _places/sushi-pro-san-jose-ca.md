@@ -9,7 +9,7 @@ seo:
   name: "Sushi Pro"
   type: Restaurant
   links: http://sushiprosj.com/
-description: "Looking for sushi in San Jose, California? Check out Sushi Pro for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Pro serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzYHJv37Nj4ARm7OZ9YxdsxI
 photos:
   - name: >-

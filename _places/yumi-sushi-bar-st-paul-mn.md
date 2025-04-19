@@ -9,7 +9,7 @@ seo:
   name: "Yumi Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in St Paul, Minnesota? Check out Yumi Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Yumi Sushi Bar serves delicious sushi in St Paul, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ64pmoOwr9ocRzTXp666oVZE
 photos:
   - name: >-

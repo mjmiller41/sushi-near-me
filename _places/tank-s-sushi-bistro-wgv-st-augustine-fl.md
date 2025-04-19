@@ -9,7 +9,7 @@ seo:
   name: "Tank's sushi bistro(WGV)"
   type: Restaurant
   links: null
-description: "Looking for sushi in St. Augustine, Florida? Check out Tank's sushi bistro(WGV) for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Tank's sushi bistro(WGV) serves delicious sushi in St. Augustine, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUb77Vmgr5IgR5gPjV7HmZDo
 photos:
   - name: >-

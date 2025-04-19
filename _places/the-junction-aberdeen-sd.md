@@ -9,7 +9,7 @@ seo:
   name: "The Junction"
   type: Restaurant
   links: null
-description: "Looking for sushi in Aberdeen, South Dakota? Check out The Junction for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "The Junction serves delicious sushi in Aberdeen, South Dakota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkw4sbeFE0lIRHzafY7Yb7as
 photos:
   - name: >-

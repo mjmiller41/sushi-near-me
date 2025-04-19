@@ -9,7 +9,7 @@ seo:
   name: "Blue Fin Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bellingham, Washington? Check out Blue Fin Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Blue Fin Sushi serves delicious sushi in Bellingham, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG7vIOMWjhVQRfE5HH3J8n9I
 photos:
   - name: >-

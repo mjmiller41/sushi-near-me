@@ -9,7 +9,7 @@ seo:
   name: "Kawa Ramen and Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Milwaukee, Wisconsin? Check out Kawa Ramen and Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Kawa Ramen and Sushi serves delicious sushi in Milwaukee, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDSTsvFwZBYgRTxAtAe2UrtY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Maru Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Grand Rapids, Michigan? Check out Maru Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Maru Sushi & Grill serves delicious sushi in Grand Rapids, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjx3a46CtGYgRkaosLxBukuY
 photos:
   - name: >-

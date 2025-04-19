@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Royal Oak, Michigan? Check out Tokyo Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Tokyo Sushi & Grill serves delicious sushi in Royal Oak, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC0jAj0HPJIgRVfW9iJAWRGU
 photos:
   - name: >-

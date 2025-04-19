@@ -9,7 +9,7 @@ seo:
   name: "Kyoto Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Minneapolis, Minnesota? Check out Kyoto Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Kyoto Sushi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYf5ffIgn9ocROt2iUjoMP_c
 photos:
   - name: >-

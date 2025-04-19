@@ -9,7 +9,7 @@ seo:
   name: "New Light & Healthy Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Woodland Hills, California? Check out New Light & Healthy Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sush..."
+description: "New Light & Healthy Sushi Bar serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCfNhbUeZwoARqwQEvBOcdlo
 photos:
   - name: >-

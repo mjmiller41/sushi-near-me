@@ -9,7 +9,7 @@ seo:
   name: "Mr. Pi's Sushi"
   type: Restaurant
   links: https://mrpisushi.com/
-description: "Modest Japanese restaurant featuring wood-trimmed booth seating & a sushi bar in a narrow space. Looking for sushi in Highland Park, New Jersey? Check out Mr..."
+description: "Modest Japanese restaurant featuring wood-trimmed booth seating & a sushi bar in a narrow space. Mr. Pi's Sushi serves delicious sushi in Highland Park, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJww_7-VG5w4kRhuFBf8Gu2LA
 photos:
   - name: >-

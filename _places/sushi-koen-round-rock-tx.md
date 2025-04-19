@@ -9,7 +9,7 @@ seo:
   name: "Sushi Koen"
   type: Restaurant
   links: https://www.facebook.com/profile.php?id=100063732692392
-description: "Looking for sushi in Round Rock, Texas? Check out Sushi Koen for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Sushi Koen serves delicious sushi in Round Rock, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiTKmcb_RRIYRM-HvMdIFeyQ
 photos:
   - name: >-

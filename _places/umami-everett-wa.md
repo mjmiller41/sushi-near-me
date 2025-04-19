@@ -9,7 +9,7 @@ seo:
   name: "Umami"
   type: Restaurant
   links: null
-description: "Looking for sushi in Everett, Washington? Check out Umami for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Umami serves delicious sushi in Everett, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_TTdYe2rmlQRiTlJLw5UkQg
 photos:
   - name: >-

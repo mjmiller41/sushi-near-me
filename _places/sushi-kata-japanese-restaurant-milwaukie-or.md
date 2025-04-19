@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kata Japanese Restaurant"
   type: Restaurant
   links: http://www.sushikataor.com/
-description: "Looking for sushi in Milwaukie, Oregon? Check out Sushi Kata Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Sushi Kata Japanese Restaurant serves delicious sushi in Milwaukie, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOeQSffB0lVQRD2NYOB8rdV4
 photos:
   - name: >-

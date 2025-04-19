@@ -9,7 +9,7 @@ seo:
   name: "Umi North Kitchen and Sushi Bar"
   type: Restaurant
   links: https://umispokane.com/
-description: "Looking for sushi in Spokane, Washington? Check out Umi North Kitchen and Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Umi North Kitchen and Sushi Bar serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY-G0-WgdnlQRoc8HK9rLemU
 photos:
   - name: >-

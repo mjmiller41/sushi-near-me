@@ -9,7 +9,7 @@ seo:
   name: "Sushi Para II"
   type: Restaurant
   links: https://sushipararestaurant.com/
-description: "Bustling Japanese spot with all-you-can-eat sushi & a traditional menu with teriyaki & tonkatsu. Looking for sushi in Chicago, Illinois? Check out Sushi Para..."
+description: "Bustling Japanese spot with all-you-can-eat sushi & a traditional menu with teriyaki & tonkatsu. Sushi Para II serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJYnU3BLTD4gRlBhCX-Sp_ZU
 photos:
   - name: >-

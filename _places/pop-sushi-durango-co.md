@@ -9,7 +9,7 @@ seo:
   name: "Pop Sushi"
   type: Restaurant
   links: http://www.popsushidurango.com/
-description: "Looking for sushi in Durango, Colorado? Check out Pop Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Pop Sushi serves delicious sushi in Durango, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxWnKdOanPocRxNgzFnUP3x0
 photos:
   - name: >-

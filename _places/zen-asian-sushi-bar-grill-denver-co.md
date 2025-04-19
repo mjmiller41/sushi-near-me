@@ -9,7 +9,7 @@ seo:
   name: "Zen Asian Sushi Bar & Grill"
   type: Restaurant
   links: http://zensushinorthfield.com/
-description: "Looking for sushi in Denver, Colorado? Check out Zen Asian Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Zen Asian Sushi Bar & Grill serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6eg6fql7bIcRo8C5mX5WVLw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "The Poké Company"
   type: Restaurant
   links: null
-description: "Looking for sushi in Boca Raton, Florida? Check out The Poké Company for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "The Poké Company serves delicious sushi in Boca Raton, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN-j7Kx3i2IgRVdDTkO_0P80
 photos:
   - name: >-

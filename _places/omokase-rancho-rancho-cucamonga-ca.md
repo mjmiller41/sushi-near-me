@@ -9,7 +9,7 @@ seo:
   name: "Omokase Rancho"
   type: Restaurant
   links: null
-description: "Looking for sushi in Rancho Cucamonga, California? Check out Omokase Rancho for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Omokase Rancho serves delicious sushi in Rancho Cucamonga, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsy0Ui941w4ARh6-fZWZr6g0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "HandoSake Sushi"
   type: Restaurant
   links: https://handosake.com/
-description: "Looking for sushi in Salt Lake City, Utah? Check out HandoSake Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "HandoSake Sushi serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL830sJb1UocRE_Hnh_RBybE
 photos:
   - name: >-

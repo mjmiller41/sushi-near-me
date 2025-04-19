@@ -9,7 +9,7 @@ seo:
   name: "Amber 80st"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Amber 80st for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Amber 80st serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3z5OOHtZwokRQdngJLkFcaA
 photos:
   - name: >-

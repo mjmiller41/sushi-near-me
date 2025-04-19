@@ -9,7 +9,7 @@ seo:
   name: "Sakana Asian Cuisine"
   type: Restaurant
   links: http://www.sakanaasiancuisine.com/
-description: "Looking for sushi in Hamilton Township, New Jersey? Check out Sakana Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Sakana Asian Cuisine serves delicious sushi in Hamilton Township, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZ9c6PTNZwYkRsEB50dtBgQ4
 photos:
   - name: >-

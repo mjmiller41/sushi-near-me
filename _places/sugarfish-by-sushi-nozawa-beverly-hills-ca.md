@@ -9,7 +9,7 @@ seo:
   name: "SUGARFISH by sushi nozawa"
   type: Restaurant
   links: null
-description: "Looking for sushi in Beverly Hills, California? Check out SUGARFISH by sushi nozawa for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "SUGARFISH by sushi nozawa serves delicious sushi in Beverly Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMdtjLv-7woARY1Qx1otbqZI
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Mizu Japanese"
   type: Restaurant
   links: https://www.mizuwbl.com/
-description: "Looking for sushi in White Bear Lake, Minnesota? Check out Mizu Japanese for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Mizu Japanese serves delicious sushi in White Bear Lake, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJZ0NLcNnQslIRL53HKCxLLmM
 photos:
   - name: >-

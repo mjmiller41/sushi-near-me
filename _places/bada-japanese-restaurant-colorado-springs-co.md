@@ -9,7 +9,7 @@ seo:
   name: "Bada Japanese Restaurant"
   type: Restaurant
   links: http://badajapaneserestaurant.com/
-description: "Looking for sushi in Colorado Springs, Colorado? Check out Bada Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Bada Japanese Restaurant serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm0tJBHpEE4cR0_nPKWEs9dQ
 photos:
   - name: >-

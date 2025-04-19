@@ -9,7 +9,7 @@ seo:
   name: "Akeno Sushi Bar and Thai at Capitol Hill"
   type: Restaurant
   links: https://akenosushibar.com/akenosushibarandthaiatcapitolhill?utm_source=google
-description: "Sushi and Thai fare, plus drinks, offered in a chill space featuring a rooftop. Looking for sushi in Washington, District of Columbia? Check out Akeno Sushi ..."
+description: "Sushi and Thai fare, plus drinks, offered in a chill space featuring a rooftop. Akeno Sushi Bar and Thai at Capitol Hill serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzZX3JGe5t4kRAkx2g1Q4y_8
 photos:
   - name: >-

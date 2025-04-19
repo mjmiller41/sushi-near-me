@@ -9,7 +9,7 @@ seo:
   name: "Wa Sushi & Izakaya"
   type: Restaurant
   links: null
-description: "Looking for sushi in Alhambra, California? Check out Wa Sushi & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Wa Sushi & Izakaya serves delicious sushi in Alhambra, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpRUAIQfFwoARpC9v5H9lPbM
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kuru Kuru Sushi"
   type: Restaurant
   links: https://www.clover.com/online-ordering/kuru-kuru-burbank?utm_source=web-dashboard&utm_medium=qrcode&utm_campaign=olo-qr-template
-description: "Looking for sushi in Burbank, California? Check out Kuru Kuru Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Kuru Kuru Sushi serves delicious sushi in Burbank, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFXz_g9S_woARZeFRKFSs-dM
 photos:
   - name: >-

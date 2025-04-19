@@ -9,7 +9,7 @@ seo:
   name: "Osaka West | Japanese Sushi & Hibachi Restaurant"
   type: Restaurant
   links: https://www.osakawestla.com/osakawestla
-description: "Looking for sushi in Covington, Louisiana? Check out Osaka West | Japanese Sushi & Hibachi Restaurant for a delightful Japanese dining experience. Enjoy a va..."
+description: "Osaka West | Japanese Sushi & Hibachi Restaurant serves delicious sushi in Covington, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX4_B1QVcJ4YRRKAGmfl4BP8
 photos:
   - name: >-

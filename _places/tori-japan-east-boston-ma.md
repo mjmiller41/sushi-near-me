@@ -9,7 +9,7 @@ seo:
   name: "Tori Japan"
   type: Restaurant
   links: https://www.torijapan.com/
-description: "Looking for sushi in East Boston, Massachusetts? Check out Tori Japan for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Tori Japan serves delicious sushi in East Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_QQe84Vx44kRWLifkA3KAss
 photos:
   - name: >-

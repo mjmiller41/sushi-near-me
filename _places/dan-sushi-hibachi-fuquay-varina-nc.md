@@ -9,7 +9,7 @@ seo:
   name: "Dan Sushi & Hibachi"
   type: Restaurant
   links: http://www.dansushihibachi.com/
-description: "Looking for sushi in Fuquay-Varina, North Carolina? Check out Dan Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Dan Sushi & Hibachi serves delicious sushi in Fuquay-Varina, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDb_1aRGPrIkRjGitW1QNA0o
 photos:
   - name: >-

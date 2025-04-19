@@ -9,7 +9,7 @@ seo:
   name: "Narumi Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Rancho Cordova, California? Check out Narumi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Narumi Sushi serves delicious sushi in Rancho Cordova, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGZgcnqrnmoARAgyhVGbKxZo
 photos:
   - name: >-

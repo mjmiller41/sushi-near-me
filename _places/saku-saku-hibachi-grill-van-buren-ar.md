@@ -9,7 +9,7 @@ seo:
   name: "Saku Saku Hibachi Grill"
   type: Restaurant
   links: https://m.facebook.com/sakusakuonwheels/?ref=content_filter
-description: "Looking for sushi in Van Buren, Arkansas? Check out Saku Saku Hibachi Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Saku Saku Hibachi Grill serves delicious sushi in Van Buren, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZS191si1y4cR5JJS_wZnrww
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "GO FISH POKE - LAS COLINAS"
   type: Restaurant
   links: null
-description: "Looking for sushi in Irving, Texas? Check out GO FISH POKE - LAS COLINAS for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "GO FISH POKE - LAS COLINAS serves delicious sushi in Irving, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG96qnGODToYRFstYT5XRhiw
 photos:
   - name: >-

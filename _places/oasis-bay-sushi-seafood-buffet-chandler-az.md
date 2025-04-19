@@ -9,7 +9,7 @@ seo:
   name: "Oasis Bay Sushi + Seafood Buffet"
   type: Restaurant
   links: https://oasisbaybuffet.com/
-description: "Looking for sushi in Chandler, Arizona? Check out Oasis Bay Sushi + Seafood Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Oasis Bay Sushi + Seafood Buffet serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd73CsQ6rK4cRdhThGVoUUvE
 photos:
   - name: >-

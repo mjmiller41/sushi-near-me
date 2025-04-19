@@ -9,7 +9,7 @@ seo:
   name: "Sushi Tango Woodbury"
   type: Restaurant
   links: https://sushitangorestaurant.com/
-description: "Casual, upbeat strip-mall restaurant featuring a large menu of sushi & other Japanese specialties. Looking for sushi in Woodbury, Minnesota? Check out Sushi ..."
+description: "Casual, upbeat strip-mall restaurant featuring a large menu of sushi & other Japanese specialties. Sushi Tango Woodbury serves delicious sushi in Woodbury, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7w_kLSDY94cRYTNjiDPPJa8
 photos:
   - name: >-

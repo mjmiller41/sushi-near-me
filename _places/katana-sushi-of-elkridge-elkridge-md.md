@@ -9,7 +9,7 @@ seo:
   name: "Katana Sushi of Elkridge"
   type: Restaurant
   links: null
-description: "Looking for sushi in Elkridge, Maryland? Check out Katana Sushi of Elkridge for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Katana Sushi of Elkridge serves delicious sushi in Elkridge, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJldYHIUzht4kRCmvKta4tHjw
 photos:
   - name: >-

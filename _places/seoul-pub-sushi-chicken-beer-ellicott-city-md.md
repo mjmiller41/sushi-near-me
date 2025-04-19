@@ -9,7 +9,7 @@ seo:
   name: "Seoul Pub Sushi Chicken & Beer"
   type: Restaurant
   links: https://www.marylandkoreanway.com/seoul-pub-sushi-chicken-beer
-description: "Looking for sushi in Ellicott City, Maryland? Check out Seoul Pub Sushi Chicken & Beer for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Seoul Pub Sushi Chicken & Beer serves delicious sushi in Ellicott City, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJcfpTB4AfyIkRJLB5yVpKG60
 photos:
   - name: >-

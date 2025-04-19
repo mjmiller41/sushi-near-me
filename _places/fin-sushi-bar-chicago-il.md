@@ -9,7 +9,7 @@ seo:
   name: "Fin Sushi Bar"
   type: Restaurant
   links: http://www.finsushibar.com/
-description: "Pan-Asian BYOB spot serving Thai food & sushi in a contemporary space with outdoor seating. Looking for sushi in Chicago, Illinois? Check out Fin Sushi Bar f..."
+description: "Pan-Asian BYOB spot serving Thai food & sushi in a contemporary space with outdoor seating. Fin Sushi Bar serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ79sBVDvSD4gR7Gqkd4aoa64
 photos:
   - name: >-

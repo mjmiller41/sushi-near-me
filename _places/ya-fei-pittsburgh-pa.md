@@ -9,7 +9,7 @@ seo:
   name: "Ya Fei"
   type: Restaurant
   links: http://www.yafeipgh.com/
-description: "Basic pick for familiar Chinese & Japanese fare such as sushi & sashimi offering local delivery. Looking for sushi in Pittsburgh, Pennsylvania? Check out Ya ..."
+description: "Basic pick for familiar Chinese & Japanese fare such as sushi & sashimi offering local delivery. Ya Fei serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJ1pDcElZNIgRAHhPpbSaYI8
 photos:
   - name: >-

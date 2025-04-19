@@ -9,7 +9,7 @@ seo:
   name: "Sushi Camp"
   type: Restaurant
   links: http://www.sushicamptemecula.com/
-description: "Looking for sushi in Temecula, California? Check out Sushi Camp for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi Camp serves delicious sushi in Temecula, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbwF8uE-A24ARVFPsJxTR8ME
 photos:
   - name: >-

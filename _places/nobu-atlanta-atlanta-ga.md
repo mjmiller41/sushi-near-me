@@ -9,7 +9,7 @@ seo:
   name: "Nobu Atlanta"
   type: Restaurant
   links: https://www.noburestaurants.com/atlanta/reservations/
-description: "Looking for sushi in Atlanta, Georgia? Check out Nobu Atlanta for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Nobu Atlanta serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJB6y-jFAP9YgRKx_83w2FA4U
 photos:
   - name: >-

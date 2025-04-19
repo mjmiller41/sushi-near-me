@@ -9,7 +9,7 @@ seo:
   name: "Yama Sushi & Asian Cuisine"
   type: Restaurant
   links: null
-description: "Looking for sushi in Peoria, Arizona? Check out Yama Sushi & Asian Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Yama Sushi & Asian Cuisine serves delicious sushi in Peoria, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeftzkyRBK4cR7cfOLc4n2Oc
 photos:
   - name: >-

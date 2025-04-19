@@ -9,7 +9,7 @@ seo:
   name: "Takesushi"
   type: Restaurant
   links: http://www.takesushinyc.com/
-description: "This charming restaurant specializing in traditional Japanese food & sushi has daily lunch specials. Looking for sushi in Sunnyside, New York? Check out Take..."
+description: "This charming restaurant specializing in traditional Japanese food & sushi has daily lunch specials. Takesushi serves delicious sushi in Sunnyside, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzWqEZdhewokRg3H5Q-5B90g
 photos:
   - name: >-

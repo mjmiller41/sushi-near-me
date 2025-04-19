@@ -9,7 +9,7 @@ seo:
   name: "Sakura Sushi & Poke"
   type: Restaurant
   links: null
-description: "Looking for sushi in Gardnerville, Nevada? Check out Sakura Sushi & Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Sakura Sushi & Poke serves delicious sushi in Gardnerville, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlwdTAaq_mYARRcqeLELuQbo
 photos:
   - name: >-

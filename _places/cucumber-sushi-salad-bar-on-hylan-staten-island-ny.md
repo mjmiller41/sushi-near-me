@@ -9,7 +9,7 @@ seo:
   name: "Cucumber Sushi & Salad Bar on Hylan"
   type: Restaurant
   links: null
-description: "Looking for sushi in Staten Island, New York? Check out Cucumber Sushi & Salad Bar on Hylan for a delightful Japanese dining experience. Enjoy a variety of s..."
+description: "Cucumber Sushi & Salad Bar on Hylan serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv6TotUtKwokRkwAZ1IWd1GA
 photos:
   - name: >-

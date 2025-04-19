@@ -9,7 +9,7 @@ seo:
   name: "Gourmet House Japanese Cuisine"
   type: Restaurant
   links: https://www.gourmethousene.com/
-description: "Looking for sushi in Kearney, Nebraska? Check out Gourmet House Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Gourmet House Japanese Cuisine serves delicious sushi in Kearney, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJT4Fks7ZOmYcRaD_q4Wx-XNo
 photos:
   - name: >-

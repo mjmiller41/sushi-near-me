@@ -9,7 +9,7 @@ seo:
   name: "Sushi Jooa"
   type: Restaurant
   links: http://www.sushijooa.com/
-description: "Looking for sushi in Loveland, Colorado? Check out Sushi Jooa for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Jooa serves delicious sushi in Loveland, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrynqAvdSaYcRgqvpEJF3_-I
 photos:
   - name: >-

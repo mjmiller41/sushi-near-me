@@ -9,7 +9,7 @@ seo:
   name: "Tian Fu Bellevue"
   type: Restaurant
   links: null
-description: "Looking for sushi in Bellevue, Washington? Check out Tian Fu Bellevue for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Tian Fu Bellevue serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL08JSMJvkFQRuLmko_ShQos
 photos:
   - name: >-

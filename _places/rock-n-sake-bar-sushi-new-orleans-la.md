@@ -9,7 +9,7 @@ seo:
   name: "Rock-n-Saké Bar & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in New Orleans, Louisiana? Check out Rock-n-Saké Bar & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Rock-n-Saké Bar & Sushi serves delicious sushi in New Orleans, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf4ps4XGmIIYRdNj7jB00zlI
 photos:
   - name: >-

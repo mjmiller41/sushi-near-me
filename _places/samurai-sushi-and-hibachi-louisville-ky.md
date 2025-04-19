@@ -9,7 +9,7 @@ seo:
   name: "Samurai Sushi And Hibachi"
   type: Restaurant
   links: https://www.toasttab.com/samurai-sushi-and-hibachi-12905-shelbyville-road/v3
-description: "Looking for sushi in Louisville, Kentucky? Check out Samurai Sushi And Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Samurai Sushi And Hibachi serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXWFMULKYaYgRzZ_Da0VcHqQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "18-8 Sushi"
   type: Restaurant
   links: http://www.18-8sushi.com/
-description: "Looking for sushi in Baltimore, Maryland? Check out 18-8 Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "18-8 Sushi serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTwD1S68FyIkRH3l_pJP-O64
 photos:
   - name: >-

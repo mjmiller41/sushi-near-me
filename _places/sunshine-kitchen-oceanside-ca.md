@@ -9,7 +9,7 @@ seo:
   name: "Sunshine Kitchen"
   type: Restaurant
   links: https://sunshinekitchenoceanside.com/
-description: "Bright, informal outpost serving quick-serve poke bowls alongside standard sushi rolls. Looking for sushi in Oceanside, California? Check out Sunshine Kitche..."
+description: "Bright, informal outpost serving quick-serve poke bowls alongside standard sushi rolls. Sunshine Kitchen serves delicious sushi in Oceanside, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL2EHq9Vv3IARO1vmyi_6s6A
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "KENKA"
   type: Restaurant
   links: null
-description: "Japanese restaurant known for street-food-style fare & inexpensive beer, along with flashy decor. Looking for sushi in New York, New York? Check out KENKA fo..."
+description: "Japanese restaurant known for street-food-style fare & inexpensive beer, along with flashy decor. KENKA serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJiRfje5xZwokR474atxPrCwE
 photos:
   - name: >-

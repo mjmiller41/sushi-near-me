@@ -9,7 +9,7 @@ seo:
   name: "Blowfish Sushi & Ramen"
   type: Restaurant
   links: http://blowfishchicago.com/
-description: "Creative Asian-fusion fare & sushi in modern, minimalist digs with a BYO policy. Looking for sushi in Chicago, Illinois? Check out Blowfish Sushi & Ramen for..."
+description: "Creative Asian-fusion fare & sushi in modern, minimalist digs with a BYO policy. Blowfish Sushi & Ramen serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJo6S8k4LRD4gRdaIrevdrc_Y
 photos:
   - name: >-

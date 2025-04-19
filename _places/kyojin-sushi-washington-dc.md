@@ -9,7 +9,7 @@ seo:
   name: "KYOJIN Sushi"
   type: Restaurant
   links: https://www.kyojindc.com/
-description: "Cozy, non-traditional sushi restaurant serving Japanese small plates, sake, beer, and wine. Looking for sushi in Washington, District of Columbia? Check out ..."
+description: "Cozy, non-traditional sushi restaurant serving Japanese small plates, sake, beer, and wine. KYOJIN Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJf57htim3t4kRAMbxTZCtjao
 photos:
   - name: >-

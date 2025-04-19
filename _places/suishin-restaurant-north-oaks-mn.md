@@ -9,7 +9,7 @@ seo:
   name: "Suishin Restaurant"
   type: Restaurant
   links: http://www.suishinmn.com/
-description: "Sleek Japanese restaurant offering a sushi bar, cocktails & hot pots in contemporary cool digs. Looking for sushi in North Oaks, Minnesota? Check out Suishin..."
+description: "Sleek Japanese restaurant offering a sushi bar, cocktails & hot pots in contemporary cool digs. Suishin Restaurant serves delicious sushi in North Oaks, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJPSLbOCYos1IRoC14kJJZO2Q
 photos:
   - name: >-

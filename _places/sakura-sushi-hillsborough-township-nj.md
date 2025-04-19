@@ -9,7 +9,7 @@ seo:
   name: "Sakura Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hillsborough Township, New Jersey? Check out Sakura Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Sakura Sushi serves delicious sushi in Hillsborough Township, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJER66qL_rw4kRPm70U7f7_OU
 photos:
   - name: >-

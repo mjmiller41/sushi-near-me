@@ -9,7 +9,7 @@ seo:
   name: "Zushi Sushi and Ramen"
   type: Restaurant
   links: https://zushisushiandramen.com/
-description: "Looking for sushi in Webster Groves, Missouri? Check out Zushi Sushi and Ramen for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Zushi Sushi and Ramen serves delicious sushi in Webster Groves, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQcQJdLHL2IcRHJv4klexD2U
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Minato Sushi Bar"
   type: Restaurant
   links: https://www.minatosushibar.com/
-description: "Looking for sushi in Baltimore, Maryland? Check out Minato Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Minato Sushi Bar serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJryAEWZYEyIkRHS4czCSrM9Q
 photos:
   - name: >-

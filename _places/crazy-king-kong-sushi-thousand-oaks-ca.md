@@ -9,7 +9,7 @@ seo:
   name: "Crazy King Kong Sushi"
   type: Restaurant
   links: http://www.facebook.com/crazykingkongsushi
-description: "Looking for sushi in Thousand Oaks, California? Check out Crazy King Kong Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and oth..."
+description: "Crazy King Kong Sushi serves delicious sushi in Thousand Oaks, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8TfMYbs66IAR--Ur2eDgHjY
 photos:
   - name: >-

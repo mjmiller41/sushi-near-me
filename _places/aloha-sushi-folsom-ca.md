@@ -9,7 +9,7 @@ seo:
   name: "Aloha Sushi"
   type: Restaurant
   links: http://alohasushibar.com/
-description: "Looking for sushi in Folsom, California? Check out Aloha Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Aloha Sushi serves delicious sushi in Folsom, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa4FE6wDlmoARoeptcunf8HQ
 photos:
   - name: >-

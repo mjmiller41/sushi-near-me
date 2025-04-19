@@ -9,7 +9,7 @@ seo:
   name: "Douska"
   type: Restaurant
   links: null
-description: "Snug spot for hand rolls & make-your-own platters plus omakase menus. Looking for sushi in New York, New York? Check out Douska for a delightful Japanese din..."
+description: "Snug spot for hand rolls & make-your-own platters plus omakase menus. Douska serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJN2P817hZwokRy8cUeMS_ETk
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Volcano Hibachi Express & Sushi"
   type: Restaurant
   links: http://www.volcanosushinewportnews.com/
-description: "Looking for sushi in Newport News, Virginia? Check out Volcano Hibachi Express & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Volcano Hibachi Express & Sushi serves delicious sushi in Newport News, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmcH-rNF-sIkRpjuEB9ZAAlA
 photos:
   - name: >-

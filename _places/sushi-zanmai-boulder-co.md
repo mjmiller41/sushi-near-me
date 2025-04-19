@@ -9,7 +9,7 @@ seo:
   name: "Sushi Zanmai"
   type: Restaurant
   links: https://www.izakayaamu.com/
-description: "Looking for sushi in Boulder, Colorado? Check out Sushi Zanmai for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Sushi Zanmai serves delicious sushi in Boulder, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxWMcuifsa4cRjjP8d1UTftc
 photos:
   - name: >-

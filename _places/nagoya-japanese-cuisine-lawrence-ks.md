@@ -9,7 +9,7 @@ seo:
   name: "Nagoya Japanese Cuisine"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lawrence, Kansas? Check out Nagoya Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Nagoya Japanese Cuisine serves delicious sushi in Lawrence, Kansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY7eIg7lov4cRUSRYIMRDlbg
 photos:
   - name: >-

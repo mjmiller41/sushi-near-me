@@ -9,7 +9,7 @@ seo:
   name: "Fish In A Bottle Sushi & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cypress, California? Check out Fish In A Bottle Sushi & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Fish In A Bottle Sushi & Grill serves delicious sushi in Cypress, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj29Y2bcu3YAR8Y6p_ffewIY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Ooi Sushi & Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in Long Island City, New York? Check out Ooi Sushi & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Ooi Sushi & Bar serves delicious sushi in Long Island City, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrZS3dCRZwokRaYYi83Rsiow
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Asian Paradise"
   type: Restaurant
   links: http://www.asianparadiserestaurant.com/
-description: "Chinese & Asian fusion specialties served in a modern space with a large tree in the dining room. Looking for sushi in Loveland, Ohio? Check out Asian Paradi..."
+description: "Chinese & Asian fusion specialties served in a modern space with a large tree in the dining room. Asian Paradise serves delicious sushi in Loveland, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ64dDfURWQIgRztL_OZvFbgM
 photos:
   - name: >-

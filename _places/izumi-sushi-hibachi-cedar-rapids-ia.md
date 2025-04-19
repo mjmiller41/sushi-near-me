@@ -9,7 +9,7 @@ seo:
   name: "Izumi Sushi & Hibachi"
   type: Restaurant
   links: http://www.izumirestaurant.com/
-description: "Looking for sushi in Cedar Rapids, Iowa? Check out Izumi Sushi & Hibachi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Izumi Sushi & Hibachi serves delicious sushi in Cedar Rapids, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJefm07iP35IcRd5nIW8driN8
 photos:
   - name: >-

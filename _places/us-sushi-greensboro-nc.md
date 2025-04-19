@@ -9,7 +9,7 @@ seo:
   name: "US Sushi"
   type: Restaurant
   links: http://www.us-sushi.biz/
-description: "Looking for sushi in Greensboro, North Carolina? Check out US Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "US Sushi serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5ba6x_0bU4gRCMZ_f4L4uww
 photos:
   - name: >-

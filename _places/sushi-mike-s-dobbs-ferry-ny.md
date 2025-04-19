@@ -9,7 +9,7 @@ seo:
   name: "Sushi Mike's"
   type: Restaurant
   links: https://sushimikes.com/?utm_source=google
-description: "Creative specialty rolls & more standard Japanese fare served in a tricked-out, modern space. Looking for sushi in Dobbs Ferry, New York? Check out Sushi Mik..."
+description: "Creative specialty rolls & more standard Japanese fare served in a tricked-out, modern space. Sushi Mike's serves delicious sushi in Dobbs Ferry, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM6nYZGLrwokRO8me2evI8O4
 photos:
   - name: >-

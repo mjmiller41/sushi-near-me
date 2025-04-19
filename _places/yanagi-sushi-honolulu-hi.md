@@ -9,7 +9,7 @@ seo:
   name: "Yanagi Sushi"
   type: Restaurant
   links: https://www.fooddiscoveryapp.com/honolulu/yanagi-sushi
-description: "Looking for sushi in Honolulu, Hawaii? Check out Yanagi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Yanagi Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeeE8guFtAHwRYFJZ0B4YQGs
 photos:
   - name: >-

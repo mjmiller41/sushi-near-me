@@ -9,7 +9,7 @@ seo:
   name: "Kokoro Maki House"
   type: Restaurant
   links: https://www.kokoromaki.com/
-description: "Intimate destination for sushi, as well as Japanese & Korean classics such as bibimbap & teriyaki. Looking for sushi in Kansas City, Missouri? Check out Koko..."
+description: "Intimate destination for sushi, as well as Japanese & Korean classics such as bibimbap & teriyaki. Kokoro Maki House serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJVYvoSyXvwIcR0miqLdGULDQ
 photos:
   - name: >-

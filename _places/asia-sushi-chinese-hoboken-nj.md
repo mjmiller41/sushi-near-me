@@ -9,7 +9,7 @@ seo:
   name: "Asia Sushi & Chinese"
   type: Restaurant
   links: http://www.asiasushichinesenj.com/
-description: "Counter-serve storefront with a long menu featuring standard Chinese eats, sushi & lunch specials. Looking for sushi in Hoboken, New Jersey? Check out Asia S..."
+description: "Counter-serve storefront with a long menu featuring standard Chinese eats, sushi & lunch specials. Asia Sushi & Chinese serves delicious sushi in Hoboken, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0TXP6NhZwokRPsUPxsQkgwI
 photos:
   - name: >-

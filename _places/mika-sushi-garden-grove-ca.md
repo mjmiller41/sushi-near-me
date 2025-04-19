@@ -9,7 +9,7 @@ seo:
   name: "Mika Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Garden Grove, California? Check out Mika Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Mika Sushi serves delicious sushi in Garden Grove, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt_Cy8ygv3YARbohNCNG8gMA
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Umi Japanese Steakhouse"
   type: Restaurant
   links: null
-description: "Looking for sushi in Victor, New York? Check out Umi Japanese Steakhouse for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Umi Japanese Steakhouse serves delicious sushi in Victor, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5_8_zMQz0YkRvD7nk-9yrNE
 photos:
   - name: >-

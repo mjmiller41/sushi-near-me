@@ -9,7 +9,7 @@ seo:
   name: "Pho An & Sushi Bar"
   type: Restaurant
   links: http://phoansushibar.com/
-description: "Looking for sushi in Conroe, Texas? Check out Pho An & Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Pho An & Sushi Bar serves delicious sushi in Conroe, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgTj1yxQ3R4YRaPFrNrHPRAo
 photos:
   - name: >-

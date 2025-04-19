@@ -9,7 +9,7 @@ seo:
   name: "Takara Sushi SF"
   type: Restaurant
   links: https://tekkamakisushi.com/
-description: "Snug sushi bar & Japanese restaurant offering happy hour & lunch specials, takeout & delivery. Looking for sushi in San Francisco, California? Check out Taka..."
+description: "Snug sushi bar & Japanese restaurant offering happy hour & lunch specials, takeout & delivery. Takara Sushi SF serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJI3qY6gR-j4ARZ3tFMyvyAK0
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "FYSH Sushi and Poke"
   type: Restaurant
   links: http://fyshsushi.com/
-description: "Looking for sushi in Malvern, Pennsylvania? Check out FYSH Sushi and Poke for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "FYSH Sushi and Poke serves delicious sushi in Malvern, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1XmnYBjtxokRhikx03X9_6Y
 photos:
   - name: >-

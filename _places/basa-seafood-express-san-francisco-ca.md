@@ -9,7 +9,7 @@ seo:
   name: "Basa Seafood Express"
   type: Restaurant
   links: https://basaexpress.square.site/
-description: "Compact seafood market & restaurant serving fresh-caught fish sandwiches, ceviche & clam chowder. Looking for sushi in San Francisco, California? Check out B..."
+description: "Compact seafood market & restaurant serving fresh-caught fish sandwiches, ceviche & clam chowder. Basa Seafood Express serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsWzH0kd-j4ARcZzDCbBrFA4
 photos:
   - name: >-

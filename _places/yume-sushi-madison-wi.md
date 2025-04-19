@@ -9,7 +9,7 @@ seo:
   name: "Yume Sushi"
   type: Restaurant
   links: https://www.yumesushimadison.com/
-description: "Casual eatery serving sushi rolls, noodle dishes & other Japanese staples in simple digs. Looking for sushi in Madison, Wisconsin? Check out Yume Sushi for a..."
+description: "Casual eatery serving sushi rolls, noodle dishes & other Japanese staples in simple digs. Yume Sushi serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJ-zlczZTBogRM3JXw0WwV3I
 photos:
   - name: >-

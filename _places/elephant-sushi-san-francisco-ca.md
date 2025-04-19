@@ -9,7 +9,7 @@ seo:
   name: "Elephant Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Elephant Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Elephant Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcVyMiSmBhYARK9hpjwu_JcQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi House - Westmont"
   type: Restaurant
   links: https://www.mysushihouse.com/sushi-house-westmont
-description: "Japanese chain serving sushi, noodles, bento boxes & hot entrees in a stylish, traditional setting. Looking for sushi in Westmont, Illinois? Check out Sushi ..."
+description: "Japanese chain serving sushi, noodles, bento boxes & hot entrees in a stylish, traditional setting. Sushi House - Westmont serves delicious sushi in Westmont, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1dfI6bxODogRgmjl-DIjCIc
 photos:
   - name: >-

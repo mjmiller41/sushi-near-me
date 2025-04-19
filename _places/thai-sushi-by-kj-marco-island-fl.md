@@ -9,7 +9,7 @@ seo:
   name: "Thai Sushi By KJ"
   type: Restaurant
   links: http://kjthaisushi.com/
-description: "Relaxed locale for a mix of Thai & Japanese fare with classic & modern options plus beer & wine. Looking for sushi in Marco Island, Florida? Check out Thai S..."
+description: "Relaxed locale for a mix of Thai & Japanese fare with classic & modern options plus beer & wine. Thai Sushi By KJ serves delicious sushi in Marco Island, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJu7FWHVXu2ogRY5vrhxgdj5A
 photos:
   - name: >-

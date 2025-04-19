@@ -9,7 +9,7 @@ seo:
   name: "Lotus Chinese Restaurant"
   type: Restaurant
   links: https://lotusasianrestaurant.com/
-description: "Looking for sushi in Redondo Beach, California? Check out Lotus Chinese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Lotus Chinese Restaurant serves delicious sushi in Redondo Beach, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXYNx3ttL3YARY-quNETKXho
 photos:
   - name: >-

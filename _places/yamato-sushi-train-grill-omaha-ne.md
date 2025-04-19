@@ -9,7 +9,7 @@ seo:
   name: "Yamato Sushi Train & Grill"
   type: Restaurant
   links: https://yamatosushiomaha.com/
-description: "Looking for sushi in Omaha, Nebraska? Check out Yamato Sushi Train & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Yamato Sushi Train & Grill serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJv02H0QCNk4cR-KNFhXEnf4A
 photos:
   - name: >-

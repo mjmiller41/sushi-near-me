@@ -9,7 +9,7 @@ seo:
   name: "Bonchon Ellicott City"
   type: Restaurant
   links: null
-description: "Looking for sushi in Ellicott City, Maryland? Check out Bonchon Ellicott City for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Bonchon Ellicott City serves delicious sushi in Ellicott City, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXS_WNtIhyIkRxjTRafbsWuk
 photos:
   - name: >-

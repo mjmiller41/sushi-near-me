@@ -9,7 +9,7 @@ seo:
   name: "Murakami Sushi"
   type: Restaurant
   links: http://murakamimelrose.com/
-description: "Looking for sushi in Los Angeles, California? Check out Murakami Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Murakami Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM3PvUtW4woAR1F1gwwh3HHE
 photos:
   - name: >-

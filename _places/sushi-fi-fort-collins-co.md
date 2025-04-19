@@ -9,7 +9,7 @@ seo:
   name: "Sushi-Fi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fort Collins, Colorado? Check out Sushi-Fi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Sushi-Fi serves delicious sushi in Fort Collins, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpUCjJEZKaYcRSJFdSiCcV7I
 photos:
   - name: >-

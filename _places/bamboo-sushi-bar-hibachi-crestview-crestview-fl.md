@@ -9,7 +9,7 @@ seo:
   name: "Bamboo Sushi Bar & Hibachi ( Crestview)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Crestview, Florida? Check out Bamboo Sushi Bar & Hibachi ( Crestview) for a delightful Japanese dining experience. Enjoy a variety of su..."
+description: "Bamboo Sushi Bar & Hibachi ( Crestview) serves delicious sushi in Crestview, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj1K-oENzkYgRqr9lijHCao0
 photos:
   - name: >-

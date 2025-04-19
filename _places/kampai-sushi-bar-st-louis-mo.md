@@ -9,7 +9,7 @@ seo:
   name: "Kampai Sushi Bar"
   type: Restaurant
   links: https://kampaisushibarstl.com/
-description: "Cheery venue, with floor table options, offers creative rolls, nigiri & other Japanese standards. Looking for sushi in St. Louis, Missouri? Check out Kampai ..."
+description: "Cheery venue, with floor table options, offers creative rolls, nigiri & other Japanese standards. Kampai Sushi Bar serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOdAadSi12IcR7yUw42Qq_Os
 photos:
   - name: >-

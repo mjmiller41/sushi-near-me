@@ -9,7 +9,7 @@ seo:
   name: "Harmony Cuisine 2B1"
   type: Restaurant
   links: https://www.hc2b1.com/
-description: "Looking for sushi in San Diego, California? Check out Harmony Cuisine 2B1 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dis..."
+description: "Harmony Cuisine 2B1 serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJAQDQQen_24ARyTSFJ-YYX9k
 photos:
   - name: >-

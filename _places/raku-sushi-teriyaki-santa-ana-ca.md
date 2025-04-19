@@ -9,7 +9,7 @@ seo:
   name: "Raku Sushi & Teriyaki"
   type: Restaurant
   links: https://ramenmura.us/
-description: "Looking for sushi in Santa Ana, California? Check out Raku Sushi & Teriyaki for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Raku Sushi & Teriyaki serves delicious sushi in Santa Ana, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJb6T5E6nf3IARXFMMXvtHPgA
 photos:
   - name: >-

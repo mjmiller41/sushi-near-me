@@ -9,7 +9,7 @@ seo:
   name: "Kippu"
   type: Restaurant
   links: http://www.kippusushi.com/
-description: "Specialty sushi rolls, sashimi & bento boxes round out the menu at this compact, informal outpost. Looking for sushi in San Francisco, California? Check out ..."
+description: "Specialty sushi rolls, sashimi & bento boxes round out the menu at this compact, informal outpost. Kippu serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmXDZ1LiAhYAR22DvqGrzhik
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Yoji Sushi House"
   type: Restaurant
   links: https://www.yojisushi.com/
-description: "Narrow Japanese choice with contemporary decor presenting innovative sushi rolls & noodle soups. Looking for sushi in San Francisco, California? Check out Yo..."
+description: "Narrow Japanese choice with contemporary decor presenting innovative sushi rolls & noodle soups. Yoji Sushi House serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJa_emcu99j4ARNnzogUmoUXQ
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Baby Blue Sushi Sake Grill"
   type: Restaurant
   links: http://www.bluesushisakegrill.com/
-description: "Modern, clubby restaurant featuring sushi & Japanese tapas, plus fancy mixed drinks. Looking for sushi in Omaha, Nebraska? Check out Baby Blue Sushi Sake Gri..."
+description: "Modern, clubby restaurant featuring sushi & Japanese tapas, plus fancy mixed drinks. Baby Blue Sushi Sake Grill serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQwlWyAvxk4cR0lnR9TR2sIw
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "YANAGI SUSHI"
   type: Restaurant
   links: http://www.yanagisushiaz.com/
-description: "Looking for sushi in Gilbert, Arizona? Check out YANAGI SUSHI for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "YANAGI SUSHI serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn0LYLnapK4cRRrVTGZI-hz8
 photos:
   - name: >-

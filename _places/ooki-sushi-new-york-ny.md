@@ -9,7 +9,7 @@ seo:
   name: "Ooki Sushi"
   type: Restaurant
   links: https://www.ookisushi.us/home
-description: "Looking for sushi in New York, New York? Check out Ooki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Ooki Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOyYZTbtYwokRCaK3C_Zm9Sc
 photos:
   - name: >-

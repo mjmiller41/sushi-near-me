@@ -9,7 +9,7 @@ seo:
   name: "Grand Buffet"
   type: Restaurant
   links: null
-description: "Expansive buffet of all-you-can-eat sushi, seafood & Chinese/American favorites in a roomy space. Looking for sushi in Naples, Florida? Check out Grand Buffe..."
+description: "Expansive buffet of all-you-can-eat sushi, seafood & Chinese/American favorites in a roomy space. Grand Buffet serves delicious sushi in Naples, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ5w0dWdHj2ogRhUlY6DOASp8
 photos:
   - name: >-

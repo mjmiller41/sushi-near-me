@@ -9,7 +9,7 @@ seo:
   name: "Koto Sushi & Steakhouse Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cape Coral, Florida? Check out Koto Sushi & Steakhouse Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Koto Sushi & Steakhouse Grill serves delicious sushi in Cape Coral, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6zM9_eZD24gRuroNqyFOh4M
 photos:
   - name: >-

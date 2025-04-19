@@ -9,7 +9,7 @@ seo:
   name: "Kaki Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Diego, California? Check out Kaki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Kaki Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwzz3tj_-24AR5RkGCuMbLVc
 photos:
   - name: >-

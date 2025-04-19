@@ -9,7 +9,7 @@ seo:
   name: "Mr. Sushi & Mrs. Roll(Lansdowne)"
   type: Restaurant
   links: null
-description: "Looking for sushi in Leesburg, Virginia? Check out Mr. Sushi & Mrs. Roll(Lansdowne) for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Mr. Sushi & Mrs. Roll(Lansdowne) serves delicious sushi in Leesburg, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxZkqUkA8tokRapIN0mACDCc
 photos:
   - name: >-

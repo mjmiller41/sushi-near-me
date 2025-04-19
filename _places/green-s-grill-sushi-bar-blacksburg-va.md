@@ -9,7 +9,7 @@ seo:
   name: "Green's Grill & Sushi Bar"
   type: Restaurant
   links: https://www.greensgrillsushibar.com/
-description: "Casual eatery serves eclectic offerings including Japanese, Mediterranean, Indian & American dishes. Looking for sushi in Blacksburg, Virginia? Check out Gre..."
+description: "Casual eatery serves eclectic offerings including Japanese, Mediterranean, Indian & American dishes. Green's Grill & Sushi Bar serves delicious sushi in Blacksburg, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnTvHm3SVTYgRmbYn6HGBGXk
 photos:
   - name: >-

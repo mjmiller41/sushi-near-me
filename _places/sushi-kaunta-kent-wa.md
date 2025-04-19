@@ -9,7 +9,7 @@ seo:
   name: "Sushi Kaunta"
   type: Restaurant
   links: http://www.sushikaunta.com/
-description: "Looking for sushi in Kent, Washington? Check out Sushi Kaunta for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "Sushi Kaunta serves delicious sushi in Kent, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq08bRXZZkFQRs_u9SvvslCA
 photos:
   - name: >-

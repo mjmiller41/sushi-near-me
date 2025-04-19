@@ -9,7 +9,7 @@ seo:
   name: "Yamato Steak House of Japan"
   type: Restaurant
   links: null
-description: "Looking for sushi in Somerset, Pennsylvania? Check out Yamato Steak House of Japan for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Yamato Steak House of Japan serves delicious sushi in Somerset, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmem0t4LeyokRGDIr-daiT_E
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Poke Fresh"
   type: Restaurant
   links: null
-description: "Looking for sushi in Houston, Texas? Check out Poke Fresh for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Poke Fresh serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYZQFW-i_QIYRS1Q2x-qxC9Q
 photos:
   - name: >-

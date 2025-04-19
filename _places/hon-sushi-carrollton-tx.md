@@ -9,7 +9,7 @@ seo:
   name: "Hon Sushi"
   type: Restaurant
   links: https://honsushitexas.com/
-description: "Looking for sushi in Carrollton, Texas? Check out Hon Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Hon Sushi serves delicious sushi in Carrollton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrS__JEMmTIYRFarJvaNak0w
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Sushi Ramen & Bar"
   type: Restaurant
   links: https://www.tokyosushiramenme.com/
-description: "Looking for sushi in Portland, Maine? Check out Tokyo Sushi Ramen & Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Tokyo Sushi Ramen & Bar serves delicious sushi in Portland, Maine. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1T7CXM6dskwR8Iud0lCP-q8
 photos:
   - name: >-

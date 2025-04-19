@@ -9,7 +9,7 @@ seo:
   name: "Aikou"
   type: Restaurant
   links: null
-description: "Looking for sushi in Warren, New Jersey? Check out Aikou for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomin..."
+description: "Aikou serves delicious sushi in Warren, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ42VvB025w4kRL5_jB1_LPlc
 photos:
   - name: >-

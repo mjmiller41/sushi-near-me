@@ -9,7 +9,7 @@ seo:
   name: "Daily Sushi"
   type: Restaurant
   links: https://www.dailysushiyummy.com/
-description: "Looking for sushi in Parkville, Maryland? Check out Daily Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a w..."
+description: "Daily Sushi serves delicious sushi in Parkville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKd9c-SoPyIkR80Uqx6xgte0
 photos:
   - name: >-

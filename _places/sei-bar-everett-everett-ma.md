@@ -9,7 +9,7 @@ seo:
   name: "Sei Bar Everett"
   type: Restaurant
   links: http://www.seibar.com/
-description: "Looking for sushi in Everett, Massachusetts? Check out Sei Bar Everett for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sei Bar Everett serves delicious sushi in Everett, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkfOBAIRx44kR-F-9oVecEP8
 photos:
   - name: >-

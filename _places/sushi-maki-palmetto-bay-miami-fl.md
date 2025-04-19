@@ -9,7 +9,7 @@ seo:
   name: "Sushi Maki - Palmetto Bay"
   type: Restaurant
   links: null
-description: "Looking for sushi in Miami, Florida? Check out Sushi Maki - Palmetto Bay for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Sushi Maki - Palmetto Bay serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJV8ZsKprG2YgRxNf16gni5Pk
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Kendy's Sushi & Peking Garden"
   type: Restaurant
   links: http://kendyssushi881.com/
-description: "Looking for sushi in Sayreville, New Jersey? Check out Kendy's Sushi & Peking Garden for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Kendy's Sushi & Peking Garden serves delicious sushi in Sayreville, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZdSKRHvJw4kRx-c2aIfGe0Y
 photos:
   - name: >-

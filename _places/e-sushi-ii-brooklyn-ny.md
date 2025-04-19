@@ -9,7 +9,7 @@ seo:
   name: "E Sushi II"
   type: Restaurant
   links: https://www.esushi2.com/
-description: "Looking for sushi in Brooklyn, New York? Check out E Sushi II for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a wel..."
+description: "E Sushi II serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQdooxllDwokR0slzWjBMCxc
 photos:
   - name: >-

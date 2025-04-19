@@ -9,7 +9,7 @@ seo:
   name: "Sushi Noguchi"
   type: Restaurant
   links: http://www.sushinoguchi.com/
-description: "Looking for sushi in Yorba Linda, California? Check out Sushi Noguchi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Sushi Noguchi serves delicious sushi in Yorba Linda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwxTh-N_T3IARGsQw6YQV1io
 photos:
   - name: >-

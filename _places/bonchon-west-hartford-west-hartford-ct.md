@@ -9,7 +9,7 @@ seo:
   name: "Bonchon West Hartford"
   type: Restaurant
   links: null
-description: "Looking for sushi in West Hartford, Connecticut? Check out Bonchon West Hartford for a delightful Japanese dining experience. Enjoy a variety of sushi and ot..."
+description: "Bonchon West Hartford serves delicious sushi in West Hartford, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJORx-3eWt54kR3tCUVQWxWHY
 photos:
   - name: >-

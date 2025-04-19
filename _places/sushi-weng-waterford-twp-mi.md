@@ -9,7 +9,7 @@ seo:
   name: "Sushi Weng"
   type: Restaurant
   links: http://sushiwengmi.com/
-description: "Looking for sushi in Waterford Twp, Michigan? Check out Sushi Weng for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Sushi Weng serves delicious sushi in Waterford Twp, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4x8xfua8JIgRv4dtnBhC4TY
 photos:
   - name: >-

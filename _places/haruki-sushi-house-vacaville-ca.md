@@ -9,7 +9,7 @@ seo:
   name: "Haruki Sushi House"
   type: Restaurant
   links: http://harukisushihouse.com/
-description: "Looking for sushi in Vacaville, California? Check out Haruki Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Haruki Sushi House serves delicious sushi in Vacaville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxSO_et8XhYARkutMG4xPdAE
 photos:
   - name: >-

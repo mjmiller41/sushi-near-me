@@ -9,7 +9,7 @@ seo:
   name: "Black Pine Tree Sushi Bar"
   type: Restaurant
   links: null
-description: "Snug sushi house earns buzz for its unique rolls & classic Japanese fare in a relaxed, simple space. Looking for sushi in Southgate, Michigan? Check out Blac..."
+description: "Snug sushi house earns buzz for its unique rolls & classic Japanese fare in a relaxed, simple space. Black Pine Tree Sushi Bar serves delicious sushi in Southgate, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJEbpg-YU3O4gRF1-sn0l06Io
 photos:
   - name: >-

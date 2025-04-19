@@ -9,7 +9,7 @@ seo:
   name: "Sushi Star"
   type: Restaurant
   links: null
-description: "Looking for sushi in Huntersville, North Carolina? Check out Sushi Star for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Sushi Star serves delicious sushi in Huntersville, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRw4jV46oVogR5o6hShfepG4
 photos:
   - name: >-

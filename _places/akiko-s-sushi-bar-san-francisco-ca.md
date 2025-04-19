@@ -9,7 +9,7 @@ seo:
   name: "Akiko's Sushi Bar"
   type: Restaurant
   links: null
-description: "Looking for sushi in San Francisco, California? Check out Akiko's Sushi Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Akiko's Sushi Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjb7dfI6AhYARRxe1nASI1oY
 photos:
   - name: >-

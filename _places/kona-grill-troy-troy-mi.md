@@ -9,7 +9,7 @@ seo:
   name: "Kona Grill - Troy"
   type: Restaurant
   links: https://konagrill.com/locations?locations=Troy
-description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Looking for sushi in Troy, Michigan? Check out Kona Grill -..."
+description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Kona Grill - Troy serves delicious sushi in Troy, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF_YSkRXEJIgRHeg4LoOqVrw
 photos:
   - name: >-

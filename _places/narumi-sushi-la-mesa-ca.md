@@ -9,7 +9,7 @@ seo:
   name: "Narumi Sushi"
   type: Restaurant
   links: https://order.toasttab.com/online/narumi-sushi-9118-fletcher-pkwy
-description: "Looking for sushi in La Mesa, California? Check out Narumi Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Narumi Sushi serves delicious sushi in La Mesa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb4KlBHZX2YAR0tqQqWKtmXc
 photos:
   - name: >-

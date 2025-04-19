@@ -9,7 +9,7 @@ seo:
   name: "Komorebi Sushi & Rolls"
   type: Restaurant
   links: https://www.clover.com/online-ordering/komorebi-sushi--rolls-kirkland
-description: "Looking for sushi in Kirkland, Washington? Check out Komorebi Sushi & Rolls for a delightful Japanese dining experience. Enjoy a variety of sushi and other d..."
+description: "Komorebi Sushi & Rolls serves delicious sushi in Kirkland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeUAC_HETkFQR1TJwdOMDLLc
 photos:
   - name: >-

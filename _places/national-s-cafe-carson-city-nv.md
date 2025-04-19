@@ -9,7 +9,7 @@ seo:
   name: "National’s Cafe"
   type: Restaurant
   links: http://nationalscafesushi.com/
-description: "Looking for sushi in Carson City, Nevada? Check out National’s Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "National’s Cafe serves delicious sushi in Carson City, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ12fg4r0KmYARWw1sTH0Jj20
 photos:
   - name: >-

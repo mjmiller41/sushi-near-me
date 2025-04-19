@@ -9,7 +9,7 @@ seo:
   name: "Sakura Japanese Hibachi & Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Rushville, Indiana? Check out Sakura Japanese Hibachi & Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and ..."
+description: "Sakura Japanese Hibachi & Sushi serves delicious sushi in Rushville, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxYtMQ03daogRAG076sgFOQI
 photos:
   - name: >-

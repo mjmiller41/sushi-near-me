@@ -9,7 +9,7 @@ seo:
   name: "Japan Sushi House"
   type: Restaurant
   links: https://www.japansushihouseva.com/?utm_source=gmb&utm_medium=website
-description: "Looking for sushi in Hampton, Virginia? Check out Japan Sushi House for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Japan Sushi House serves delicious sushi in Hampton, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8zOSvfGCuokRWhbBG5YHNm8
 photos:
   - name: >-

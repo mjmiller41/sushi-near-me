@@ -9,7 +9,7 @@ seo:
   name: "Sushi House 스시하우스"
   type: Restaurant
   links: null
-description: "Looking for sushi in Fort Lee, New Jersey? Check out Sushi House 스시하우스 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes..."
+description: "Sushi House 스시하우스 serves delicious sushi in Fort Lee, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpQpcuuj2wokRyg15qL_5raU
 photos:
   - name: >-

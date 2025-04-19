@@ -9,7 +9,7 @@ seo:
   name: "Sushi One"
   type: Restaurant
   links: http://www.sushi1.net/
-description: "Looking for sushi in Greeley, Colorado? Check out Sushi One for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welco..."
+description: "Sushi One serves delicious sushi in Greeley, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLz4kffqjbocRXmreQsKrUow
 photos:
   - name: >-

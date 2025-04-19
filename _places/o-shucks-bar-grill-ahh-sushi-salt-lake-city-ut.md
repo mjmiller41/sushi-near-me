@@ -9,7 +9,7 @@ seo:
   name: "O'Shucks Bar & Grill Ahh Sushi"
   type: Restaurant
   links: https://www.oshucksutah.com/
-description: "Looking for sushi in Salt Lake City, Utah? Check out O'Shucks Bar & Grill Ahh Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "O'Shucks Bar & Grill Ahh Sushi serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEYfzLw_1UocRv24bT0Bso3E
 photos:
   - name: >-

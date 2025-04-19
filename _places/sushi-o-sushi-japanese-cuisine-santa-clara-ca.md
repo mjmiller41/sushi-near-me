@@ -9,7 +9,7 @@ seo:
   name: "Sushi O Sushi Japanese Cuisine"
   type: Restaurant
   links: null
-description: "Looking for sushi in Santa Clara, California? Check out Sushi O Sushi Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi ..."
+description: "Sushi O Sushi Japanese Cuisine serves delicious sushi in Santa Clara, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj5rFQBPKj4AR1IU4bKscQCs
 photos:
   - name: >-

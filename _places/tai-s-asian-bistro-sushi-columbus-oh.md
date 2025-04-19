@@ -9,7 +9,7 @@ seo:
   name: "Tai's Asian Bistro & Sushi"
   type: Restaurant
   links: https://www.taisasianbistrocbus.com/
-description: "A straightforward outlet dishing up Asian fare from wontons to pad Thai to sushi. Looking for sushi in Columbus, Ohio? Check out Tai's Asian Bistro & Sushi f..."
+description: "A straightforward outlet dishing up Asian fare from wontons to pad Thai to sushi. Tai's Asian Bistro & Sushi serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzfW8AmWOOIgR1-wo-7bwcl8
 photos:
   - name: >-

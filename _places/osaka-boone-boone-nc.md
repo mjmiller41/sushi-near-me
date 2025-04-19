@@ -9,7 +9,7 @@ seo:
   name: "Osaka Boone"
   type: Restaurant
   links: https://www.ezordernow.com/osakaboone
-description: "Looking for sushi in Boone, North Carolina? Check out Osaka Boone for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "Osaka Boone serves delicious sushi in Boone, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIUz15lr6UIgRpluDNnF-6Ys
 photos:
   - name: >-

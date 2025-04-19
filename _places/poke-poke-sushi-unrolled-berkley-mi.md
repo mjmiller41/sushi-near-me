@@ -9,7 +9,7 @@ seo:
   name: "Poke Poke - Sushi Unrolled"
   type: Restaurant
   links: null
-description: "Looking for sushi in Berkley, Michigan? Check out Poke Poke - Sushi Unrolled for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Poke Poke - Sushi Unrolled serves delicious sushi in Berkley, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoQ7bSibJJIgRsSCmuHLWx_E
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi 7"
   type: Restaurant
   links: https://order.online/business/sushi7-416172
-description: "Looking for sushi in Reno, Nevada? Check out Sushi 7 for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming at..."
+description: "Sushi 7 serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFYtOZH9AmYAReKlZPWHGYOQ
 photos:
   - name: >-

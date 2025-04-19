@@ -9,7 +9,7 @@ seo:
   name: "Ohana Sushi and Bar"
   type: Restaurant
   links: https://ohanasushiandbar.com/
-description: "Looking for sushi in Lansing, Michigan? Check out Ohana Sushi and Bar for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes ..."
+description: "Ohana Sushi and Bar serves delicious sushi in Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJoRxSh6qVIogRR5bgl6z4M6k
 photos:
   - name: >-

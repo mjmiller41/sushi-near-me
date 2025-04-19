@@ -9,7 +9,7 @@ seo:
   name: "Wakame Sushi & Asian Bistro"
   type: Restaurant
   links: http://www.wakamebistro.com/
-description: "Casual Japanese sushi & Thai eatery for classic fare in a stylish space with an outdoor patio. Looking for sushi in Minneapolis, Minnesota? Check out Wakame ..."
+description: "Casual Japanese sushi & Thai eatery for classic fare in a stylish space with an outdoor patio. Wakame Sushi & Asian Bistro serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR7mcJVwn9ocRJ9cEEU23_C8
 photos:
   - name: >-

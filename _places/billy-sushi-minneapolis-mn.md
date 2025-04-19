@@ -9,7 +9,7 @@ seo:
   name: "Billy Sushi ビリー寿司"
   type: Restaurant
   links: http://www.billysushi.net/
-description: "Stylish, contemporary restaurant serving sushi specialties, plus sake & cocktails. Looking for sushi in Minneapolis, Minnesota? Check out Billy Sushi ビリー寿司 f..."
+description: "Stylish, contemporary restaurant serving sushi specialties, plus sake & cocktails. Billy Sushi ビリー寿司 serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJnY_UZi8zs1IR_3B_nM1zE04
 photos:
   - name: >-

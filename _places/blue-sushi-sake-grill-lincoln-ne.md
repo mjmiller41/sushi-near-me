@@ -9,7 +9,7 @@ seo:
   name: "Blue Sushi Sake Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Lincoln, Nebraska? Check out Blue Sushi Sake Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishe..."
+description: "Blue Sushi Sake Grill serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPYSdURy_locRrnP09JipyCs
 photos:
   - name: >-

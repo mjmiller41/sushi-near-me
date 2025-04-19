@@ -9,7 +9,7 @@ seo:
   name: "Joel's Asian Grill"
   type: Restaurant
   links: https://joelsgrill.com/
-description: "Hip choice showcasing Filipino favorites & sushi as well as Chinese & Vietnamese fare, plus a patio Looking for sushi in Mooresville, North Carolina? Check o..."
+description: "Hip choice showcasing Filipino favorites & sushi as well as Chinese & Vietnamese fare, plus a patio Joel's Asian Grill serves delicious sushi in Mooresville, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-_yIs8BUUYgRDOHgrbwb-LQ
 photos:
   - name: >-

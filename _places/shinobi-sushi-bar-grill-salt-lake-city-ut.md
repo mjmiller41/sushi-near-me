@@ -9,7 +9,7 @@ seo:
   name: "Shinobi Sushi Bar & Grill"
   type: Restaurant
   links: https://shinobislc.com/
-description: "Looking for sushi in Salt Lake City, Utah? Check out Shinobi Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and othe..."
+description: "Shinobi Sushi Bar & Grill serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc8BLAhf1UocRVu_zhW-Gfrc
 photos:
   - name: >-

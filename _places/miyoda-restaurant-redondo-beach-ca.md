@@ -9,7 +9,7 @@ seo:
   name: "Miyoda Restaurant"
   type: Restaurant
   links: https://www.miyodajapanese.com/
-description: "Sushi & hearty Japanese fare served in an upbeat, strip-mall setting with simple decor. Looking for sushi in Redondo Beach, California? Check out Miyoda Rest..."
+description: "Sushi & hearty Japanese fare served in an upbeat, strip-mall setting with simple decor. Miyoda Restaurant serves delicious sushi in Redondo Beach, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJiQp9AZq0woARgxBLNifYHT0
 photos:
   - name: >-

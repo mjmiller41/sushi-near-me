@@ -9,7 +9,7 @@ seo:
   name: "Sakura"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cornwall, New York? Check out Sakura for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Sakura serves delicious sushi in Cornwall, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVVTMXlIt3YkRgRbKMqDjfg8
 photos:
   - name: >-

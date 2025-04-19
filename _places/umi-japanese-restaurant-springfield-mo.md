@@ -9,7 +9,7 @@ seo:
   name: "Umi Japanese Restaurant"
   type: Restaurant
   links: null
-description: "Looking for sushi in Springfield, Missouri? Check out Umi Japanese Restaurant for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Umi Japanese Restaurant serves delicious sushi in Springfield, Missouri. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJddoEtZtkz4cRWvioylgIQlc
 photos:
   - name: >-

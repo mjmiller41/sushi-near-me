@@ -9,7 +9,7 @@ seo:
   name: "Riccota Fin And Scale"
   type: Restaurant
   links: https://www.ricotta-kosher.com/
-description: "Looking for sushi in New Haven, Connecticut? Check out Riccota Fin And Scale for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Riccota Fin And Scale serves delicious sushi in New Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt-_h5-jZ54kRvL0yASE4LSc
 photos:
   - name: >-

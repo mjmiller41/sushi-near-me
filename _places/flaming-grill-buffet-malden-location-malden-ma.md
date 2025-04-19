@@ -9,7 +9,7 @@ seo:
   name: "FLAMING GRILL BUFFET (Malden Location)"
   type: Restaurant
   links: https://flaminggrillbuffet.net/
-description: "Looking for sushi in Malden, Massachusetts? Check out FLAMING GRILL BUFFET (Malden Location) for a delightful Japanese dining experience. Enjoy a variety of ..."
+description: "FLAMING GRILL BUFFET (Malden Location) serves delicious sushi in Malden, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUSnBmrZx44kRKEqt_tHpTi8
 photos:
   - name: >-

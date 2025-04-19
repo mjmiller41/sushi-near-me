@@ -9,7 +9,7 @@ seo:
   name: "Tokyo Express"
   type: Restaurant
   links: null
-description: "Looking for sushi in Newark, Delaware? Check out Tokyo Express for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Tokyo Express serves delicious sushi in Newark, Delaware. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJf7b6ErsAx4kRV93Qodn7ynI
 photos:
   - name: >-

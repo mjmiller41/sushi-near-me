@@ -9,7 +9,7 @@ seo:
   name: "H2O Sushi & Izakaya"
   type: Restaurant
   links: http://h2osushiizakaya.com/
-description: "Looking for sushi in Northridge, California? Check out H2O Sushi & Izakaya for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "H2O Sushi & Izakaya serves delicious sushi in Northridge, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSQx8sHSbwoARJICf-8MvYV8
 photos:
   - name: >-

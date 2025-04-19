@@ -9,7 +9,7 @@ seo:
   name: "Aki Sushi"
   type: Restaurant
   links: https://www.akisushiyuccavalley.com/
-description: "Looking for sushi in Yucca Valley, California? Check out Aki Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in ..."
+description: "Aki Sushi serves delicious sushi in Yucca Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7Qjg2AnY2oARiIhybvttk5I
 photos:
   - name: >-

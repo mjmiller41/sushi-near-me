@@ -9,7 +9,7 @@ seo:
   name: "Edoboy"
   type: Restaurant
   links: https://www.edoboysushi.com/
-description: "Looking for sushi in Orlando, Florida? Check out Edoboy for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming..."
+description: "Edoboy serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJS1vTKRd754gRCsTbJUc7AZE
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "A1 Kings Buffet"
   type: Restaurant
   links: http://a1kingbuffet.restaurant888.com/
-description: "Looking for sushi in Massena, New York? Check out A1 Kings Buffet for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a..."
+description: "A1 Kings Buffet serves delicious sushi in Massena, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJuWMLQtk_zEwRIg-keJaWbDs
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Heights"
   type: Restaurant
   links: null
-description: "Looking for sushi in New York, New York? Check out Sushi Heights for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Sushi Heights serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ01zHgD1wokRgg58n7n6r7E
 photos:
   - name: >-

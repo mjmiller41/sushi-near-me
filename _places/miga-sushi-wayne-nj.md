@@ -9,7 +9,7 @@ seo:
   name: "Miga Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Wayne, New Jersey? Check out Miga Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welc..."
+description: "Miga Sushi serves delicious sushi in Wayne, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSS-xezgDw4kRRdhg-1d-Z-I
 photos:
   - name: >-

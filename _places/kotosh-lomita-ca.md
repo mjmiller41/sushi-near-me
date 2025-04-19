@@ -9,7 +9,7 @@ seo:
   name: "Kotosh"
   type: Restaurant
   links: http://kotoshrestaurant.com/
-description: "Looking for sushi in Lomita, California? Check out Kotosh for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcomi..."
+description: "Kotosh serves delicious sushi in Lomita, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvYsq-vRK3YARv0sFTzZX6Gc
 photos:
   - name: >-

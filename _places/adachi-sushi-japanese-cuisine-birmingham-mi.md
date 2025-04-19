@@ -9,7 +9,7 @@ seo:
   name: "Adachi Sushi & Japanese Cuisine"
   type: Restaurant
   links: http://adachirestaurant.com/
-description: "Looking for sushi in Birmingham, Michigan? Check out Adachi Sushi & Japanese Cuisine for a delightful Japanese dining experience. Enjoy a variety of sushi an..."
+description: "Adachi Sushi & Japanese Cuisine serves delicious sushi in Birmingham, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyyI93fLHJIgRjM4FluYqPT4
 photos:
   - name: >-

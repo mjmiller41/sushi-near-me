@@ -9,7 +9,7 @@ seo:
   name: "YUMI 優美 sushi•tea•sake"
   type: Restaurant
   links: http://www.yumisushihp.com/
-description: "Looking for sushi in High Point, North Carolina? Check out YUMI 優美 sushi•tea•sake for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "YUMI 優美 sushi•tea•sake serves delicious sushi in High Point, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJTdeeYFgJU4gRfEZY36iByn0
 photos:
   - name: >-

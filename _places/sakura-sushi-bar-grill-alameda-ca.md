@@ -9,7 +9,7 @@ seo:
   name: "Sakura Sushi Bar & Grill"
   type: Restaurant
   links: null
-description: "Looking for sushi in Alameda, California? Check out Sakura Sushi Bar & Grill for a delightful Japanese dining experience. Enjoy a variety of sushi and other ..."
+description: "Sakura Sushi Bar & Grill serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaT5A5pWGj4AREkzNmz6sOE0
 photos:
   - name: >-

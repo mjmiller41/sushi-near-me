@@ -9,7 +9,7 @@ seo:
   name: "Mizu Sushi"
   type: Restaurant
   links: null
-description: "Looking for sushi in Hyde Park, New York? Check out Mizu Sushi for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a we..."
+description: "Mizu Sushi serves delicious sushi in Hyde Park, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE5kaGCEU3YkRoiva-HBjs4Q
 photos:
   - name: >-

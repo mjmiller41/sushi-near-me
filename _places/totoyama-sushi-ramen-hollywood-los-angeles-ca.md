@@ -9,7 +9,7 @@ seo:
   name: "Totoyama Sushi & Ramen Hollywood"
   type: Restaurant
   links: https://www.totoyamasushi.com/
-description: "Compact option for sushi, ramen, Japanese classics or an omakase tasting menu with beer & wine. Looking for sushi in Los Angeles, California? Check out Totoy..."
+description: "Compact option for sushi, ramen, Japanese classics or an omakase tasting menu with beer & wine. Totoyama Sushi & Ramen Hollywood serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJetq1HG_woAR0TzOtLw6fK8
 photos:
   - name: >-

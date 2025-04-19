@@ -9,7 +9,7 @@ seo:
   name: "Sushi Ryusei"
   type: Restaurant
   links: https://sushiryusei.com/
-description: "Sashimi & sushi with omakase options presented in a sophisticated, minimalist-chic atmosphere. Looking for sushi in New York, New York? Check out Sushi Ryuse..."
+description: "Sashimi & sushi with omakase options presented in a sophisticated, minimalist-chic atmosphere. Sushi Ryusei serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJqTLS3nJZwokRGdkiM6Hj-BU
 photos:
   - name: >-

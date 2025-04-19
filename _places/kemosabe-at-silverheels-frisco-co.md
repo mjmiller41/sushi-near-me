@@ -9,7 +9,7 @@ seo:
   name: "Kemosabe at Silverheels"
   type: Restaurant
   links: https://kemosabeatsilverheels.com/?utm_source=Google%20My%20Business&utm_medium=organic
-description: "Looking for sushi in Frisco, Colorado? Check out Kemosabe at Silverheels for a delightful Japanese dining experience. Enjoy a variety of sushi and other dish..."
+description: "Kemosabe at Silverheels serves delicious sushi in Frisco, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ91PdoZBeaocRFTg2xkP6UMg
 photos:
   - name: >-

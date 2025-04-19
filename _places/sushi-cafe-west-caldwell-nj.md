@@ -9,7 +9,7 @@ seo:
   name: "Sushi Cafe"
   type: Restaurant
   links: http://www.sushicafewestcaldwell.com/
-description: "Looking for sushi in West Caldwell, New Jersey? Check out Sushi Cafe for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes i..."
+description: "Sushi Cafe serves delicious sushi in West Caldwell, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJl-dK37wAw4kRiTEAcjjp51o
 photos:
   - name: >-

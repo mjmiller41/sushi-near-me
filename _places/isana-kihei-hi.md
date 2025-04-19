@@ -9,7 +9,7 @@ seo:
   name: "Isana"
   type: Restaurant
   links: http://www.isanarestaurant.net/
-description: "Looking for sushi in Kihei, Hawaii? Check out Isana for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a welcoming atm..."
+description: "Isana serves delicious sushi in Kihei, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwWI08EzQVHkRo9lFVIJDmYo
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Water Street Sushi Room"
   type: Restaurant
   links: http://www.waterstmarketcc.com/sushi-room
-description: "Looking for sushi in Corpus Christi, Texas? Check out Water Street Sushi Room for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Water Street Sushi Room serves delicious sushi in Corpus Christi, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl9dWz-1faIYRVYm24gg-CDY
 photos:
   - name: >-

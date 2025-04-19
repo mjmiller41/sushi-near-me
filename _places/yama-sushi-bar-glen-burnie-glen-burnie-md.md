@@ -9,7 +9,7 @@ seo:
   name: "Yama Sushi Bar（Glen Burnie)"
   type: Restaurant
   links: https://www.yamasushibarglenburnie.com/
-description: "Looking for sushi in Glen Burnie, Maryland? Check out Yama Sushi Bar（Glen Burnie) for a delightful Japanese dining experience. Enjoy a variety of sushi and o..."
+description: "Yama Sushi Bar（Glen Burnie) serves delicious sushi in Glen Burnie, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGc1somn9t4kRXSK8V1bwMQY
 photos:
   - name: >-

@@ -9,7 +9,7 @@ seo:
   name: "Sushi Zen Japanese Bistro"
   type: Restaurant
   links: null
-description: "Looking for sushi in Southlake, Texas? Check out Sushi Zen Japanese Bistro for a delightful Japanese dining experience. Enjoy a variety of sushi and other di..."
+description: "Sushi Zen Japanese Bistro serves delicious sushi in Southlake, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGRKaocHUTYYRuLKalEEtD44
 photos:
   - name: >-

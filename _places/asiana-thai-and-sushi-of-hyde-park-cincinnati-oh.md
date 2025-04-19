@@ -9,7 +9,7 @@ seo:
   name: "Asiana Thai and Sushi of Hyde Park"
   type: Restaurant
   links: null
-description: "Looking for sushi in Cincinnati, Ohio? Check out Asiana Thai and Sushi of Hyde Park for a delightful Japanese dining experience. Enjoy a variety of sushi and..."
+description: "Asiana Thai and Sushi of Hyde Park serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ30muaoGyQYgRrX0KTqNEgU4
 photos:
   - name: >-

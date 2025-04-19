@@ -9,7 +9,7 @@ seo:
   name: "To-Kai Sushi, Hibachi Steakhouse and Bar"
   type: Restaurant
   links: https://to-kaipa.com/
-description: "Japanese place with sushi bar that entertains diners with a chef show at the hibachi grill. Looking for sushi in Philadelphia, Pennsylvania? Check out To-Kai..."
+description: "Japanese place with sushi bar that entertains diners with a chef show at the hibachi grill. To-Kai Sushi, Hibachi Steakhouse and Bar serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJGRoqjcCzxokRGA-J3ORwNqk
 photos:
   - name: >-

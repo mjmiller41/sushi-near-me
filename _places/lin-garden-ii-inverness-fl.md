@@ -9,7 +9,7 @@ seo:
   name: "Lin Garden II"
   type: Restaurant
   links: https://www.lingarden2.com/
-description: "Looking for sushi in Inverness, Florida? Check out Lin Garden II for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in a ..."
+description: "Lin Garden II serves delicious sushi in Inverness, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC_8KAx5z6IgR0aIiHw2X_pA
 photos:
   - name: >-

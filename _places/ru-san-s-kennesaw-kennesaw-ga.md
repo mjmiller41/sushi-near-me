@@ -9,7 +9,7 @@ seo:
   name: "Ru San's Kennesaw"
   type: Restaurant
   links: null
-description: "Looking for sushi in Kennesaw, Georgia? Check out Ru San's Kennesaw for a delightful Japanese dining experience. Enjoy a variety of sushi and other dishes in..."
+description: "Ru San's Kennesaw serves delicious sushi in Kennesaw, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs4hPzt8U9YgRswAMroK3c3w
 photos:
   - name: >-

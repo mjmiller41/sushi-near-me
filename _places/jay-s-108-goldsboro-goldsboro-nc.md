@@ -9,7 +9,7 @@ seo:
   name: "Jay's 108 Goldsboro"
   type: Restaurant
   links: https://jaysnc.com/locations/jays-108-goldsboro/
-description: "Looking for sushi in Goldsboro, North Carolina? Check out Jay's 108 Goldsboro for a delightful Japanese dining experience. Enjoy a variety of sushi and other..."
+description: "Jay's 108 Goldsboro serves delicious sushi in Goldsboro, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPZsAYGoBrIkRjql4y7Yo5Pg
 photos:
   - name: >-
