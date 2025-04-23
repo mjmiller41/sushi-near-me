@@ -3,7 +3,7 @@ import { saveObjectToFile } from './lib/fileIO.js'
 import { Place } from './lib/Place.js'
 
 async function run() {
-  const { rows, fields, rowCount } = await getAllPlaces('1 second')
+  const { rows, rowCount } = await getAllPlaces('0')
   console.log(`${rowCount} rows read from database.`)
 
   const places = []

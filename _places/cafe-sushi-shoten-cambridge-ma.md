@@ -13,7 +13,7 @@ description: "Cafe Sushi Shoten serves delicious sushi in Cambridge, Massachuset
 place_id: ChIJDboHOFt344kRRpT1TjLUuTM
 photos:
   - name: >-
-      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcJBZpUzDnO8QjtfqMql1tJEclWd56jvr-PLzzlzvn6OWQ5UakL1mP5hN3yYUEYV6RECDwS0X08QvF2LRRxqzMXeUI__cpk-KDVvIsFK5HetKVVMqlW4He_1nUi6zPirBHFlXvMseIeFr0H614L3Hfxd_CwaY6u5PahYi_jF2j8YN_yFDoHOYXw37ndWklxmMnyUyaxcokumgWIHZ03XvJA7CvYdEKBVlEerzisHeMi_bLPDXAJFy-moTjQTbipPhC7BDwFzKRZg6VLi9R-ljeYZuGos_330u_eAQs93jmKmGQA6tX3jNzFwAUbbQGRTpGFhKstQ0vvD4DwZX5MdnLBWofTMlTIC8VYfcX-dI-N_Gq_s5JSJk11rl_wdPjwjAKe4xfsOCF0O28eXgiWQmRK1t7oEMhf1LSK-vmAxzDH5mw
+      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcIdJGraYlmgS7P54ovoR0ZX7II4OaG2lZVwZCpcfVNGaLNzr7A2VMdDby8YfbYbCUeXE9pL-QVbjEUObVrSh_ir88viwh11Tbl2po3daD-Uu4eb3Db0pDD9xHj0mj62sAzKfi_kmX7BAKR854Vg5th2lTl7_tI1IH5aaomYFBK-xuYDBfLdKM2fyZ-KNWMqZ4vuv3FD6RiuNpfdjWeQPNelBtfiJ3k9PXH97eTn8E6-tYk2WGPkD-BwhHTOpYPzSD3Y6KkLf8IJEoV8gnJUdUiDd-OwXtOzctK9MNVNrqyBeHsIm2b2xE0IcVqnObZMcKHAYykJAmfLQo5oGdVtx7rx4dF2bS8rpLWGQR7-v9Cgi1Ogj2g3ATW7gOJGn5BvCMqELJeoIgtT3NVKszvg7CkHOCg_pY5tpbwjgSqoSi3nUQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMgueYEA!2e10!4m2!3m1!1s0x89e3775b3807ba0d:0x33b9d4324ef59446
   - name: >-
-      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcKiIV_JfpdpdasP7FnoWyFR1QL-9DtkT7GlN-4W4zys2hWx9uB4JHhy5sO05scRNL2C2AQaTkW0ScrVCUdm7fc534iBxiI7lhdmhzWyxiLbZmhsP8cYhh12plf8eAqzhWFCxoXbSjNR3mOz50bTBoWmY7uaoy5n8cT3ZBmiX-Ex6CWKCq7VMdOS-7tUrha42YU_KGngk9dp8NcmXdfeKUSeni99d1nQhxVnQXR22Whftf9lsZnuXkmBO8rgYXSl165CDkINGBMuGvtEMdybVAQGIO_K_E3_jUfvJTMusdke9w
+      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcKwkm_f0k1o452nYdx9vjRgyaferv9GXreOBL98lRmUW6wQNw4lOFGxjrsddv_IE3Q2LwijRU-e5SBBTdAP9vdBLQ3p63AvZoZJJOCnjE7D1_C7INAoNqb6i5atJ4RcEsubN39T4Rbwc2T3VOEwqunG5Yb-CbpSYaU35onHiJmAdGNm2td21PtAU-eOuZpi3NSd1s9v1vifKr5P1vfxu9EoSCz_i6dEWNhOxc7_IcSJ6NNxdgvkI0Fx7DUU9tbn8fXZGxEfe1JUTVgR8iO51JYsVTxp3e55LerHsm8Y4K0eQA
     widthPx: 4000
     heightPx: 2667
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPsyObOb7qw9nXNhr_3HW6AeMDTyc46uXlxaXIz!2e10!4m2!3m1!1s0x89e3775b3807ba0d:0x33b9d4324ef59446
   - name: >-
-      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcIp525X9saj_rzRZJ3rRoznYxf9gOxB4eoVD3Op2yl2Z6SABdAVb5Tp4STThuEVvId0JMz42fbMYQZhTZn5okrJkCUTwg4igM-vOXnhG-4PCI0BJS08ZTwVRo8nPDr0ZGQaSPBGwlFswu5rTIek_eTQW1kdBeg30GVMgZXr0nnHI6X26lGdHoysyZlD3tnHAOdi9Bbf3XYO0n0-bBN6Xpg-mmtriJcnG1ZwYsFX4N5_gv8F49vnlsTm68rhgUu5kvZnwQZ1w9HTD0b9t9pLSsX84dDbLnACtR6v-WkzD6z4dlYREkxk9d9yG9pll0SbSjj0BSSc5QZ-aWo-vD8wdLx5WYrNmSLJ1FFFAjh3CiCNRj1QguWmN6fCAuLDDPvknx4i112WbrJFMEb8zEKGzX2o6PMW2QA8vDZnorQXsUMnzw
+      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcLfoK8I98ElwIm7ia2aT5JzCt2uqYTv4VaNLYkoWXfxgb7Kd3kGf6J1RNX4As6xRntYMUoeVVdoaWMAj6E0NPpQMYhxv63-Sztun5XzES2nJSQ84mCYNM78XgG8APoTuYZ1KwwKEv-b_YdyezhQQOulBxoeE7s5wAx-sdmL5rFlDRNMCEI03lbYbVxQBzXipf2IJ4c3K5Uu8W6akKc5ms8chf8pqWTCRCNBa3DwWpIOM6acE3E__O865uCOV0SzrXOHTwXvYgNHZkBSNlvsz6lDq2hFHURXJiQC-QPywixdY6g7R4VQPk_FpujOocB2oxr43eFpUTs_dLeghN5uFzzh95HqXXasUh7Q1Gg0ZEkSbyjzADqMe_X1W9Vt-fbUly9CdZDMAxRicyM4ock8tSUYQn_5DYjH4Vf8WT6nYDcbjw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5kZakJA!2e10!4m2!3m1!1s0x89e3775b3807ba0d:0x33b9d4324ef59446
   - name: >-
-      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcKJKrYw0wdtD4PzgxvFvKiPNWekPCWm5qghsWyX7lK4WwdwVL13RTZmKP9KXLsluutecB-6C0c2HmpkLU7hbjoc8l1ExWbf_ztwGMbf6Tj2vOSyvzp6sSCBPYhUsFVqG2tOlpC7x_WtH4SOiGh83V6_qy16s1lxMD7d3I-CzOq6JCzVzMQpzocw53yt2CAlC7CTQ3NMBdp_d2xJyLi8dCM_17kK08VEw1-l53lcQzaxqru_p7zlX0XTL9oVKu3OHVgc1w6rjdkoBSBv6VQZhEyZflRRjPUyr0n4dEGPWbTEMeG6rNM1E-RcytfEgMplf6wd3wcRVZVw3wS-gr37oYt8mT3ZIovmZCLhd6bE1D_7WdhB0-NH5TsMXW4_c-urmBCsSarp47zO3tIpPwMC37HruFkSknn7fUAJEKcKXmzP2Q
+      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcJB7VDPbO-9-3u8MyUpyhE498Ly8j0s9_IuXTOu-PM0Mg2SZEtr7_AgEO36wWNd57wbJnY0kC_FAlnrb3ox4k913gXdxUdN-FCRZAdj7A2kACIvIKC5ywWuUoo_6EcWewH-Ct6Yptue4e4-m7nwk0dh6eeuEp2vk4CEidiNP6lHb7HlgO42f_drHyAft-AvzRaajEEQSCDxnqPEhgJcPjZ7ByPTmDidWhMkP2SX8-qpX25vnNeXXoP4OuECZRObE0M65lL23ZVi4S16K_SznH7XqxMSTkq4MKlrYCaONLun2cdo6bm6RE4mdXFhkPjpuvM49nvzlMbBTURa043sjFn1M5W6xUmPaiqEmDWxIxx11v2Rn2GyKiPUNxxsoPDzGnHiYINH3Todl5NHbi3ggzZBJVImEhHNJIpSSXwdGHnedg
     widthPx: 750
     heightPx: 563
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICprsHXQg!2e10!4m2!3m1!1s0x89e3775b3807ba0d:0x33b9d4324ef59446
   - name: >-
-      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcJTAOgKlaDyeytg9GjvfmK1Sc0Ow7GsaEiDcAvWc3myFYIcX7p0ntJ8DQNhwpPkZBwhkgFekSQoavnYkqIPEvu67_U7l1Z5ph_580byx9XuwRKhvA72MdYqjGECVi6Hp9WNtwFwumONxvuVmrRo1BGk_wDkTeQGjDBPOhbF1dg_8d3OAVtBiGfVaKFQjarEX_GulhlwKY_erhGX2oTpQVJTiQkK9fBUpjhJw8VSmy7s69xLhyWbciYuWSz6P3C9JpLyBXxXf0uudtUsQxfGpToB6hVV6cKS8ACbor6J2xewORIA1vbSNkxMLpnPZI8Yf4IiGfA5kIhtfHt6cPYsVl_tZdHetqHtXmLjYk5mYn_-TNzlbuC5xk_NWPrnLxp6GyLiXxGxtx1d5p0djgL9-_T6tIWyhGPk7GEwPPDdz8M
+      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcIaJFo2iO122IEowtNltsbi5YsFku7HfJ-ZQYnNWJoiLXgS6NN0VUvMtuswL9xqQFDajNIPrKifUtfXqG5gUmFyufp99xMBoTqKdREb5ZMkhgv261qX6BlBOavFGjyv8yLgmkbmGKd0RteMsuQsSY0fyxs3sJbiM75ThlkfXDbHTi2tUtHefbVfjjQwuZRtLHnfChvB_HbS_rRDqsd30BHwTOPT1NaLAT4KLY0kzAzhxuO3JksJ0z5ynXhfVjuTvi3XfP215b369Xe9YUphIHTFRqrQMy7CDoEp732t5O5ywt4SOOCuBeOVPg28jAMsrvc1VwwpT5p5-AnNqM4G85zVMFsxirK1nD24Kwgj3HR2-HD2d40Gj76Si9mOQcePTdVBIT3AtWflEMvtQHSKFi6jAx16VYe0gfKb5lstEF4
     widthPx: 2115
     heightPx: 1586
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxrpu5OQ!2e10!4m2!3m1!1s0x89e3775b3807ba0d:0x33b9d4324ef59446
   - name: >-
-      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcJ6KNls6edum4vlQvv7bJ_Aw3T_ho1ZpKTgCdOTO-SWsqdtU0I5xajmMi15vd-wn1PwGTsknwfdTZKQiHCeGE8cn447hqXayot5zCr-8qzkmzDvNr6qSr4Pfit7_ay711Mn7pXyIIytbjWqkZuZ3treFFYfkgrdwhpxUvRiBhe5GWfAa4fPrLXH34ph_P8CG0sAe2xi0GD03Ea2nukmnAdXuJkvrjeOukiH_CpYGOcKYBis33uOVyFI1Q_xJs0Gf_IDzm5OtyZtYGN6Qum3xvAQIrrazxawZPp2TQLxxO87Ey7hrr-rZoJpJDiG_A6IzL_s8y1Y61gcWZMMoNUaDHbNm0-ASFAEdsuiypaO1Xh1hf5gYiXuY4QFhTYKxD3N13dbtZ97lTG1eL4k5zEiuuBzeqASa0WWQ0kc0bbOoUE
+      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcKd0pZtRzyubm5BG5ZdoAgyO8p7vlnZKTX_fUXmMd8GUAsOeDGaq_FkoQCw47DVetjFcQRLjef5YGnpPQPTfdfh-frkk_VzkXwM68RxTqgIm4glOSQkeXKHLJz2if-Li-evutzT2asea-kDklxMMMxT48n4cF8c0QlvG_xZ_pGyVOPC99yxyz4XVxMm4ejhFQ2_wlofQzXu8PTykZiLQ9-0DdgluNhDyHNHuNqoGLHEQusemt030AZzV27swEs23MNary6aTffn34dDF6441jeKTnAAyrOIZGVM0txXwxoXwcPDpRiU9EUzgcYHDQpwtyAyfEWW0YG61YFhsH7LSa2D1EQr5uI0GKR4VvWC-Ke7OMFAWRzHwCQHHhjr0TvhjszVkvVOWoQVeJl5yRS9GT62mkZ6qJ-ToJjbWXkzFlE
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDgMGPFg!2e10!4m2!3m1!1s0x89e3775b3807ba0d:0x33b9d4324ef59446
   - name: >-
-      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcI2imqd9vdXEuif-ZEfKmfZJsCAe_Fx9LPzBlXDpLhn8GOYrEP_Ds7vo11XSXXkC7-ftSCART0wMnj5iK7-ehH-omkmUs6UCXKKpBhnhf3zb1i5MxlnopO0JRbJ9oJKuYFg5EN-OQhTbPXS7_2faddIT3AcpWTfP7rENj8dAJHSe8gmlp1InW3T_m9_uu4Wj1ZOtBQcjYEPAg78XKcHyOCTl7KbqU70vj6zF9VE81FFtJmwCkfyFlR9Li5Nu1uhqNpksG5QX5-FyPtICL0bt719qGekZBdn-ogpfB_NxbRaedX6zNNfl7O2yKwvF_bo6qZkrqmxIQuDVOis0T0kEWzJroW0pH_Y-qUXYlgtNsnDwzVp4YNtNK2sPli50SNjJtqUbdgaGuTVEp7Rghl1R_LzBKa0nSfUPNisHwzQcNhMA2g7
+      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcLXNVL_WXAmQxIowSEFhMJSUkpibUHC5WQB2jq1YLENOn1owKYoE1--QI6W9cFyMKtTjZJXj2_LT4QYKV4lLjX2EEKWiAXN9pNIepaILzoeaWLSQj5MQkGJBiIaOtU5QmHvTUhuMoPXhHcOjZeoqeNZK3SkiVuPDO4kW8QKPHkJHf1xJK09iARkDHVivSHY_9CQRHL7_BAuaEM_fkQb_iBinsOiLgSBQChWETYScY6X9VJucWyEaxTFvqpRmILkuruhiZcuXtr_tW1YHFyBizlT3bQ67EeNWsLxFpmp3pJI0oBizwza6HR43azEZi3Ath9NP6FzNb7EiZHubAAeH17auADwuWf_tbQC7MWciuG0lHw7G1kE4-1bVQOXkOMdNxzYRiYEwi9eZclcoNxEBWJCsaVRhHr3m_-xiHEFSoJxKl8g
     widthPx: 3024
     heightPx: 3024
     authorAttributions:
@@ -104,20 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkzL7KzQE!2e10!4m2!3m1!1s0x89e3775b3807ba0d:0x33b9d4324ef59446
   - name: >-
-      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcL09oCzZ1leuFm0Irq9_0FGdLvI__mvKlumo-rHl-kBsKCjSC5uFbpmZgeo4eZ25HCRjP0iTX6xIn5kNUk6rh4GD-rEQxAcnzrC0dEkQXNk_Uy0l_bYqiDafDBArEEKJxaUg4_lZ95PcC5VPQ73K0sQMmO5yT5xEqcuVYYDv0jp249nEN_K2AnSCldMfoEPXxF_LkKAmdQAZXAT-OMIN2GsWVj2A8esrgh-scLlW8NqQfhKRKHavs3dG9Xy7GpkXbB5xvIO-AOsT-pX-JDRqE5OrDR1eSd3Y3QOLAJA0shvlw
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Cafe Sushi Shoten
-        uri: https://maps.google.com/maps/contrib/102618920749752821368
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLXKPOKKMIILXA1pyFEH5un2fm6nQzqhkoXKojQchYiUtwfsw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOT7ykFh6FIVudKJNTuMh-GRkPbR2qzJ_SNTrNe&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOT7ykFh6FIVudKJNTuMh-GRkPbR2qzJ_SNTrNe!2e10!4m2!3m1!1s0x89e3775b3807ba0d:0x33b9d4324ef59446
-  - name: >-
-      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcIpqXGxlNi80epuhlvXbvuUYDujFookD9tXmbItzD-MKDbxcE2l72tKGKI-_aeAHcEcXh92lgU031K7c-whFadZP4QgGz4prJte_ZVJ39mQQpU-jJIu51wsHeT7xp5vfh6WH2iItsXRR31UmgmbuXqZcXfIF4C4ZPUTbSRf9GtyQr27Iswqxoqvc7a2s1CCXIFaLZoll9T18ar4lol7t5RI9g1mMHCd2gzUu1kjKvDvSWBK0YWdtlY7GRuKj-KpBsOgofj5guhRRnY4CelLzoz-NMi1n9ReNqp9w9WY-NNsUF30HYcH35uqMNyuCBffid9vJq82Dtj_2MA5EnSU1bQJ9DzpyiUBmo-sgrkmbsUEBbcyQjbHcduPZ5VozFxn8OsXzl63QVkoJreoTup40_OZlnDaTf0Ta40GZh4sgCLHxQ
+      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcJUjYCl3inEnd-1XzwFV-TnMnmleuLu8sLwPPmPOj4PE35XNnxyQXXaOwao0ljj6OXi6dHdfPb8giYLELdLMtabmgshOedMhjd3CAz1IEqFb9g0oFPPiiE0ReL-K-IVAIGebkPht36AA2-BmEnvriIe9r0elFN46IkBMMTmWAkfBAIMofRiNjRxjNwwQMkHQVDaQkDGApn1cdLw3xF0hLOzh9NXc0urvMrvCI78VWvpNIxJ1Em99ELWrx93mbWtBhE_5ORicC2tz01DqpWb0fCQxDeSimfWCDFqhoODxLX58SPHnpa8QW1tIwDcGb7gxYfNYgtLSvWp4oLocBecawdPU7nlKZA82XzWq36FF4q-I9cvFmZ_HQswhaLJQvM-a-qnqeMB8EeA_6hiIs10XOu2terQz3soCBYyFxNBHYuhJg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEpMCrOA!2e10!4m2!3m1!1s0x89e3775b3807ba0d:0x33b9d4324ef59446
   - name: >-
-      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcJIrVc5QZBFATond3KUm57P2HSmfnUDx7gKyf3JXcvHkz9hOmJLtJmiVjbiHAP76vZPYgkdxIGFDxcCJYGW9rzXcQhhKN0VyIJ2D3GNdOUPdp-C7y2Y2Hqb0HcmafsTNf0eRsVI2QuSgDAFwMjRxJ-uiLppr8r9QA-1mtCiKAUrta6zF17_EZbRZ9ia8UPF7ojYjfiNolDOz_piBiV2u22UnaTofzBbt0Wxs6GjpMEFkH3t9-DRbXYS4dDcfen0RWrbzWDU-PkZ1qMkpVdGxydf40JsHUxOKZoyb2TjjNHbKWyArltyw_AEIWH_UfbNkkt9Cvj2_xczGCbg58WQTqUNnDKezKg_EynTqg6fQkzbK2TXfyONSs7QiuBnv2GcjC5TS0N1rEHfHfUEH0jE4aoPuwlx5BN4xtz2bzEuBRTnlg
+      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcKbrGjWODRpF06FBwCpZV9qX8vjgo3W9gofLd6XItPNhQa78OSTsbgS5y9YQvhrV429c6iYsRF7fCXqwGkn-uqrVGVPBHdNFZSp8BA7iBfl9iI6jxLgwNZAe7kB85mMPnTCt2spW_RYgs_kdMwW6nmMy6Ev-lxFRHmmXnguXF_HRTcklkq20a6ILyYRIqjUEb5CqroH0dkq3bV3stlKUBq42UaVJ41yvcCST7u9G9Qya-uXlKJb4Y_tQlIQVkNoAFW7j2Hxtq4zm1RL_08mIDKOdfVvW_eDNaDiuBdnhqUWgw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Cafe Sushi Shoten
+        uri: https://maps.google.com/maps/contrib/102618920749752821368
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLXKPOKKMIILXA1pyFEH5un2fm6nQzqhkoXKojQchYiUtwfsw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNI4foOmjlWNUJvpdbqBjY6icOAABKxoWbr4x2Q&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNI4foOmjlWNUJvpdbqBjY6icOAABKxoWbr4x2Q!2e10!4m2!3m1!1s0x89e3775b3807ba0d:0x33b9d4324ef59446
+  - name: >-
+      places/ChIJDboHOFt344kRRpT1TjLUuTM/photos/AeeoHcKaTWrIWdxATSQUt6gmfHQhBs0cz7z3wcjO3-B_WY0zdjCFtTi26Yw1qJkpYH1S6rHi-es5qlT5I6BExMpyDp9KiFM1LJT_zJ34TsNP7HkkoB8PHlDhUIwOGWL6QUod9Qk6kqpvZnc5EPBZK5nZ_KGXw1XRBriQo0kRLp9-QZpSI27zm8tloIxqJ4QQl1_vK2BKCoZawOg0KspR9W7Owx9ksjJm0OIT9g8H0BFZEkVydocb55eWcGOeULQAz3JmOYmHgXhCpwRvJAvwyYJ2UAdPkgDp7o3WaPNywo_-uw7ZZ1Dlb78K6EW8vEnyj6odpcxFQD4_NCCokk5BeF4bM1FWutA7cblTDzcrFEyZNxKSitNL_RAGFP2Sk3xHprI_YsqffIHDE-H4bjlkldlCvVx47tqyud0JmpVpPKYrB9S9ug
     widthPx: 3024
     heightPx: 3024
     authorAttributions:
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e3775b3807ba0d:0x33b9d4324ef59446!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 9:00 PM'
+    - 'Wednesday: 12:00 – 9:00 PM'
+    - 'Thursday: 12:00 – 9:00 PM'
+    - 'Friday: 12:00 – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: Closed'
+  current:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 9:00 PM'
+    - 'Wednesday: 12:00 – 9:00 PM'
+    - 'Thursday: 12:00 – 9:00 PM'
+    - 'Friday: 12:00 – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: Closed'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (617) 492-0434
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 959
+rating_count: 0
 website: http://www.cafesushicambridge.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

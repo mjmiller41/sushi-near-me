@@ -13,7 +13,7 @@ description: "Kiraku Sushi & Ramen serves delicious sushi in Santa Rosa, Califor
 place_id: ChIJqSjH3og5hIAR9v9d-elHuco
 photos:
   - name: >-
-      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcLIQgfpvQ1qCqX_H955m4hHb3g_n2qAMNQZj2bYkF1aWBccb-djZwc3rRYE0-p-tmCBRnF1knWwmfPQm_4WwdjPTL_k5azEL81rJNkHYcCRpaTh4mMd2n_oO8_g-Y7xH_eqCWfpdqOqwJzIIaewQgfu6StEkcWSRa9RhD07qi_p3s8uwrVUHkT5BEmguGYH8mZWtSi78jIwcXAcZFzCuo2mudnFyLMBU2x5ykFJtofcVqfd6nQu-wqG6s6Tqtgu-qmf7Ehm2Ro4n64xj2FJeuXoFtxgk8LK_iqTcH1PojU3mQ
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcKGPeCTrblllbz0Qo5yAJyiBg_Fmsfkrdadu_Y1np6mXmZPkSTlyCnci_7fQSx8MFfJD_as5z7rkYVg7StxwUPeKhbPbjxGoTzdAQkhDa3z0QO-NV5q54K7E0OEnebzZCO-uLMu8btGhiUozUGMHphELs-MFvmeVR63fzeuCxBgOC_ZQVt5nzBvb2rFmHLyk3wGM4e5zAtZQJNhX5JQgVifI5JXGhEDpmGzPor_kTM5UaGbqNNFmC2x53hnj_lki7BrKez8Svh-9SGv09Uj9AO9Pb8HNW3V0cWwUOwgRCGr1w
     widthPx: 1242
     heightPx: 699
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO2v2cLS4h0lAOrWm2S4MClhNFULvibN2v9knF0!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
   - name: >-
-      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcJ_6OkHWPKiNE5cxDdX0C9CkBky2xc9Zq0VsaOvbq5HTBcplz0dzZI9rO20kEZMl-8Wt_HmmTqQ7tzERAdZ6SzwgFGibG9lku4ofG2WazkzMXHe7zFj9r6HPRtMzJa5Pugq3F-ouCNYS5Xt4qmP2rTwSs6xXgmBF72kzKSkfEp3faeMz7199nFhke4o0UuBzgKamNYK3hSWTtOTQqcNkzmpY1ZzD34LPRszstUSKKQae8S3q7Xw7ZIkz5GWkhS1ngex8kOlMX8hCaESa9c9ZrVYLtxVZN8PVR9pjhXE4LEA8g
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcKfo0TevFoB2wD6CAl73kYftfapBRxrbtIddAO9HulW_Mh-7WCzvEZBKySxj9QgtwkTXPGsQx0SbUhuX1r0ZsTFZp5JRgTraknBUITGl5JSUEQQEyGkzhQM5h1TTRPgCii58MxUJLedND0r9MbzAlbzicvBGXb9wWp0ORJn5_9IFclI95sLb3uwr51jnJSKF7Qk1vJ8yXXmdk-TV0KlwbysJT614nQ2eFY7ftFgh_rpQKzZpVkEzEeCaaJeid56jFXVCZJcQtZgL5KQtxPN3bk-bSDRMQkQvDef3fUwkePvyA
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -35,11 +35,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjU7tSksh3n2VQ-LY7C7Dqbf7F743h3_ZP1KKmpehcfm5HJfv1w=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMNOxoAKjcUE7erTtoPC-8xayZqn2fkghzVv23Q&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP4cwuwIUvWjeg6AtjwtnPf7rNaudU1OeKX0ccA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMNOxoAKjcUE7erTtoPC-8xayZqn2fkghzVv23Q!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP4cwuwIUvWjeg6AtjwtnPf7rNaudU1OeKX0ccA!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
   - name: >-
-      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcILksHeKwtFrR1D7ylTead8MOO1u0jR7bSz_tdwUS61oca_BUFaQNycOEuJpSuOzeiiUcoFlvJMv0YWWfkT7UxeWwDm1VothAfT9tFgdrJec0NBGIFVMrSh_IG3t-HHnhi0TRWMY3szt5XwWp5JuGVJeRDNe6bOz5MpMSMIPV5kicmv9bN929mfrDE9KEXoxDhFP9rh0RnNF_Yx9lo_604QWPIGGH4ta70B9h9RcR-EjbG4ciRpoaFNUBUHPPQ8B0_UJ5su_FKzxO5q84d3g-844Or79vJqIMNIMmo7fOoYnw
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcI_gAhyRvZ6UoYM_QFce73n5SUmg8AaPkAmoFxsWjsvgrBLdjR_8N5eBduG01S81sYSN7lFaTmemQFs1s7_56thL8Gk0nhem0njSs51gl-80dtL6VL7runvs8hLZdI-7uc_U2E_Zco8Z4QDkXjfFR5HXAW-mCuFhJlbL5gExvVE05ZW8ZeNhBRUIAVHG8puyK97E-6E1Qp6d08sLk2HnON08FSpQMrZgv_6lZ3GCZKHDEupyteosPhRkBoX2GdIEknL2W9bjgr9Yw-Q9z0WWtqBmdmmclt_kkUoU9Ua5Uw20g
     widthPx: 2048
     heightPx: 1365
     authorAttributions:
@@ -52,33 +52,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOqO26kBFKjEgKgrzQpiYUbNrYg0N6QacnoJKhC!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
   - name: >-
-      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcIbWCFF_C_XSALWP3SJ3ukRDKZoyhDXru7O417YKeQta9t8pbjFkX4oTAQWze5MLNBoYPNn76uOk_eVtv9riRTKX66Q84jgzu_nFqnVg6Ds30q1VXOIUjM2RpllxjGtPtrBA76w5laIBrCSwn2x-Os7aA7ruyC7V2nieZfuQGB8WTaG2h9Lno7918mKjc3Q91-2O3WPgjOIcypYf8aE7qrRDhL6IfsIFFqlSOPH7Jl2WwmbGvz5QxMyv21JdyupaT9nWEO59IZ2vtEK5HQYBfusvN6FBHhSQqyjM8aGZq0z5s11QJZw0lGWxm5eTkLI6U8l2KkSZ_9QlCdh6vcng85IgmjxY5uyKATW3mMwlxCPfpm5M36CEwwG_ig5EnONy6vWed8sb-nn2eZeBAb2a-VaAgLCDbQ1ah_ZqpRYMYhDeA
-    widthPx: 3000
-    heightPx: 4000
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcIp61WlvsRulV1OS8cdODx5MDaOkYVIfpu6nJQl-vwDg_2N9gJh5WZK9stgmnslQ3e3H37LGY7SZJ9AibTsTNz9ieI8J-BpR9QK16crmEnKGJfCOh0W0CfJseXpS0JEV0wZZWTUkoSo6QplKT_2mM9TLFIte167CJPqRkW6ifpBdtvQXFAtzKDPZDyeiecmedSkzqxNgdA-B_jmlw240f6IjU0WwzKVFMX-HA2jUASVEHPsnDm6J2e7EqW6kiXSR6OTbKYc6EzLjllJZtGEoc5gM7jlvSe8yWhoo4BHoKFtCFhshH3TkVsFgirDpwnxVL1_IVquFj-zIilrKARFbV091Y1wOLUPSgO_iGSdVfSKxUvxpTmlyG2MH2tLqRe5suDwsLBf2BH90DMbQKbdt58hx80IdAiwMx9mEW3qRI_68Q
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
-      - displayName: Surendra Malakar
-        uri: https://maps.google.com/maps/contrib/116984408032480865063
+      - displayName: Taro Doboba
+        uri: https://maps.google.com/maps/contrib/112533616381338223699
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJiv80246C3LTIvmEFTict8ZNbISe2V-1Gt666C23qAVkINQyY5=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX4xMbsSwH0PD2NXJU1cwNj6w46jlm1CMpaCJNXxvI9CGNbBo_-=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIo-L4Yw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCo_5e6WQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIo-L4Yw!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCo_5e6WQ!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
   - name: >-
-      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcIJiVK3DpDaTaS3IceSZ2c9RP-kqPv3YQujDOUKzPm3jnnp2cGQ2LKb5SswNM0PyP6d_W4rxM2KeaWwQtuAWx9syoohC3_5c6NMKNqYcfI-YGtZ30-8OcnYJg3ROObAsvKYHGJAJR1rIkJ6yB81CxNH6jbzrotBUMvIrKz3rDMUC-8NBcHqZojm-FQols2G3Sx8SU97cuB8_6WuboX4r30g4zsKTIKlZhTZ5LKbxsLfqk_mFz3ugcGvEzpa7bbZLo2aq9kP4u-cxMkMoqtewhT2hXivefikf--Ufyd__fOiSyL301ufFDqpHmS0ZErRfXNTWYvzKw4aSLtr4UwCmc8M9Rh7OJF5Wbfjpde16iEkuyfvRG6DRfK6LJDDfj1PcOOaRTuohv7rzPqzYW-EaPQm_9UOtvd65g_8YDR3EvzUxrfpZwEPMvh-Cr-ZXA
-    widthPx: 3264
-    heightPx: 2448
-    authorAttributions:
-      - displayName: Tim Lin
-        uri: https://maps.google.com/maps/contrib/112973014767314375592
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocK4vwdkoHnL19JSvDi-uLhPcALBIh3e2hjX1COk3gvbh1re45D8=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzdCflJGffUV4AAWdp&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzdCflJGffUV4AAWdp!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
-  - name: >-
-      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcLJ-xKqS6iS2oJdKWTOtdOYnrLOZGJ0r5i7j0_6T93C-7r_BDFlINkJShkqYr74MB-znqkVOO_zeIsR3iN6gj73xum6nB2grWA00jUG1BFLlzMcMzrY0MNSTZaUOm5Ye26DJE_a68fjsdGRx0NIxU7ru-G6GkkR4tpYDfdUagTA88l_9N2buNM4ZHaNnbArdHCKyTW3t50zWOCgkw9U4SKvUArQUDZuSx7jHibrpteoOsMJBC24iEryFmbDWDS2MGk33aXecAuQuJXd_ctHX13qRNrKGPiElHcrfhw_HFQ_eQ
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcKT1Vlrc1A4PpFzK5JWsqHPmC6Caw-oRnnWXvDRU-3oamvIbiaTpb-6gXzJpbAAy3CTixXLeZr3lYN0GfuxRGffxMAOtcqR-ct_I0733lnAJWOspEz7SFmavak3svvHOZFyrtDQnNBVJnVR4QC94SotErrhuCQZwETpha4zulQCJZinCcbqPczAMPUhOMS5uMVQ2VAA0xeEd8AHv1_8wcoUmKei1Jd0NXXthVEEmDZ9MjwVrludNoTusxvrLN_vC7hyEOwWCI0ixidLgDARPA7rt3fC6Gh4yRHKWnZcEVbCNg
     widthPx: 1242
     heightPx: 699
     authorAttributions:
@@ -91,7 +78,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNQaUI4BACSKRrgxNWC0BjHamv-eBDntF82De6s!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
   - name: >-
-      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcJGdBV4vMgzMRk1DLt87X8bKPA59fATgbcWD12SqkImbp1z_fw4_Uu9k7c4y52Gp5YKSldUbq-NS-2ZC0liravxDUJGHyRA6JN6g8MTLMlGZ4129IlmBJeY6b53PUiB_HBA3Hznky6HIFfn5DZ7882GRMq2kw7PSH6gijBTIXW2JAMf6ZLNdnkpSr7bGPCjQo4Hphl2ESs_2jVDpFqSRr88JNSjxVYCdY5uihbz_k66JEoFkx6mUbQRJZrJhl-tEiRm9frVjYqx1WRtPGAUOEPxEzElkuww3mxotRxXJrfQYz1TagOPBkqmBT_APAVMkyQjqlmFbRCdKrCaJLj-PDgP2MLwE2ZmdgbfqUQeoIksxB3zs0kHJxtCaL8X9p7BygOoi49-l4Yu1lMFuEDxyIXMrSzZRT9JZIQzIpZswveQMYLQ
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcIgNUUVteipKcbiIYuJwNE7sStXvgKLM8wf-b9puQtpYAScknwAI2DL7Cje__twTWR-KDWQBww7YJD_j4uCrVCgga5NuP_TZ99DRkb_oh0oFuOiu8a2a1h98I9BorEs9ghohf9ISw1RYsNs7JNJvfE5IKf2y-SeMEsuTMppvxJvk3bItNjjZiDX5GQvhMA3zwa0RWRLHYPUZ-HnDWGC62yYYUDdKV69pyRlsxrkMNsD4y5Eh8rUIoTKJPXwno8WpDwfm8bJTPajVZFs4Tkz9QaMdCStvMO3gY87NHf7yByPUwK1doxZQOrCJejIXBo-kHMPMOEfpPJ0-wODtaaqrYazt2Gq8NUmkLfQ-nF29keXoK9uSsBjquAm2U6Dnx_h-iQHp-_P80nCuAbyz63i_ogJUkWRUnrVOU9ohof3pwuWhJ9J
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Carolyn N.
+        uri: https://maps.google.com/maps/contrib/105736628316132718756
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVYR9QsjOHVTwxmLrls9UhqzL5gd25AjhXdxTqgdBCEuL3LeQ2Y=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDGnPD53gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGnPD53gE!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+  - name: >-
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcJ5WsV_avUH7eqXGl-NxXbBBn62UQZSm_F_whCAhdqlnrsyvC4SvxJw2oQ1xwf8LmebS-gQ3VBQnAYcqWUjG5EcL9f4kaalZ56vM4A-IRiR4EnxGLWBQI_Dd5Tw8dWMPbel29aQlgtiDJZPsjonaBqYfKfKbK04kmSddAmbZAYE6Awlllw7ZrB8oGA0GfocIE6x5N8RoTtjdj8WscSckZ79FKtxknA3vzv1JnPc61bvhPuIPmge8iCHm6qlyPDvwbE7H9E8PA84Bk1Pm7eZ3lrVEjnsKfb8i5H5ovaMyC-bFqhJzOMatkqT8rB9F6icIrTe1euc76pQhwo1wlvNXN5INn5qXjk9SAdAbn2Pu_p0h_FPKjMmjYYyRrexBp-WdVB1LV2N92vSSLDPrDwEyogGgMuChd_1uAuv9tX5Emz9ZSRw
     widthPx: 3309
     heightPx: 2713
     authorAttributions:
@@ -104,44 +104,44 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDnZu6mQE!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
   - name: >-
-      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcKeWZyoBQZ3JzdNaJfwVQIgCWSVNFAxLWImIfPlAKxVVPpzzHrSX6WxmYGvTMmO-QemT5Lo1J2gxuWTneD_mhBr191CJtMG3pDhDt2H9WFTOzXTOIDHoHpn4QicKJBCay0gpUfnUUoj93NZXzr3qFHoQ8GP0WtCDMmzUJuuLMfjZhTpzFht5Ecd1p2mL9h6bISLfYNcnvsY5UjqM5J5HPmZ4qdVRSHoRs3o4J5E1biDdE09kX_FrtU-lQ-uDVsz_CkW8Kg_hAv8MQFDKGhMrHHlNeVtJEEjNmruhYC4RB3hihWXrD8jWZ1ahmTng0xXmHtl2XpXFRAoTla8xX_DRnd_gZ9YbQDiorxskrNvMcmBughCtqy3y_IEke1HOk4rKQO3FB3bgx3Fr2PVO6hVfBP3UhH1e7SQWr2h7icOnVc4RnA
-    widthPx: 4080
-    heightPx: 3072
-    authorAttributions:
-      - displayName: Ché Glenn
-        uri: https://maps.google.com/maps/contrib/105673245344272743149
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUcmlV3BPokoHBzIFPqDdtNuRh_w56TA_dlqKVw2E_qDSybHoKxpA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDmzevznQE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmzevznQE!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
-  - name: >-
-      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcJZ2qz9gOCh2LgNuSk6K1Ox33VKqlyoEsFM0FSo90rQjrOFPbe_fK5W1d92VDEhBWVorXlx5DfVNbve1WvL6i8MJ-1mIrBrlHfxqmuTkywcLS6l06HxDyKyVL6lLQxnvGwTzUmr-9tD_PIq8Bd53TSBsttIPiXvYqlmHaClFuS0mWxCAQczibRRhaDh3jpFXYvSP1J7YVS60k_BUg3gkJSnwVHSUkOQXLMhuyyNy2mgMq813-cCFJBpIuNCwFDI4tUNxkhEocgNvwbzOsQTbgDfV-OS1SQ5AOpuOyNg3clbjA
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcLL65rTnS0lOzjXtyXHyXIqvFAsyVm-EZKMFvo2U67t8AezAK54ZEYOEIgdDbpaaIwAOGesML8bzqhkCX39cG1206SkGgpWK0GS-RwUm7fNkpHMd7Zfv7R2M1IvxFHvS8N8nsbUPsJ4fzC2HojVydcCTJq1COty53KbadxS662Xo4juVcGfPPdWzcQzG4ritOBAkgWd8EFWyJZw8NwZLQdHjSt7rt1bsbezR9P1pHwevIfPLVYrELbXvOOg-e_xZFoFj7dDd04fwENkrfLDbZT6nwLz4D262OKeR5GnS9KZ67aZGqiKUAt7iGm906IfvoRaqq_Z3W-t5N9vimkJcfylO5oSuJzlkp1EoL5BGKerDxRKTxruAV9b-J09Mj0R71GSNzeZQ0G9ihe3wDsvVzZKq7YYrk6RF16DRNa1206QaUyu
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Kiraku Sushi & Ramen
-        uri: https://maps.google.com/maps/contrib/108209731391010034444
+      - displayName: Abby Zhang
+        uri: https://maps.google.com/maps/contrib/109045900708115539231
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU7tSksh3n2VQ-LY7C7Dqbf7F743h3_ZP1KKmpehcfm5HJfv1w=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocIepMoc99XzSyHcaKgkSN61VPu0ObyEuR7n3tUSCn3nHCoQcw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNqX--tDyc5sryvjHXD4vAXLAUisb46xUkIOv4E&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDp9P3nQE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNqX--tDyc5sryvjHXD4vAXLAUisb46xUkIOv4E!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDp9P3nQE!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
   - name: >-
-      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcLEyB06I90VjKs2n06wd3FSzATHDULHEq8SgDCWRFScFvoH_rcXi4cJf9jPnszhkPdAPpOm_fSb0OkHZUt_bTdghw1uFpf_TiuZTX2sDH1izMIHOYMXcAk0ufUbB42REjGBd1m57R6UmmxIWTRPvIk_TLrYmVq3mdUeKtWBeEme2mLOXQMFJQnbME05k7pvkb2oGcbcxaeBvJGG0VKj4nCsoc_NXJVSUbaXzeeYhuaZKA_wTe60q2sC0txTfayLo5D0ZHsAsmldxVch5GELv8iOux9z7jd2wmATfpw8XZJgiQ
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcLjoHl_VJBnbIwEDFlLtvz3bWZCyp82A9m6LTKHrVBLuNpwTTqHyifjntvr37zkd1oxtH3wWsF2B1wGI6hzsRVrwfOD_8QRY1VWe9RzBeY-wCpJ30s0avBAxKtbwLg-2Nm6wdyRf_ncQtrFuHsL--uB_yWhAQ47kQcLQv3jHMNrBaLFKpqIMgTPWG4B-fVTWhltNIZBKpDNDDIwfFy_MW3XpimBtsItYn78aY0h4RZvFaaKGpcWvNMu2dDL5LjoteO7FA1QQeZX8od5twU6A-a9k0Tl1Ea1ugulOfAvU3XJOyqUOATIauBLVZZtAb-eqznrkb-8wF92g2eTvnKfvyXsatBSROHUUPHqMQxAUrq0zajf5fNuMiAStduyWoF4gQA1jFB1vFYe9kNBqkzUYL7PAiPmEHbuR0jHMpnc5DaIDHE
+    widthPx: 3872
+    heightPx: 2581
     authorAttributions:
-      - displayName: Kiraku Sushi & Ramen
-        uri: https://maps.google.com/maps/contrib/108209731391010034444
+      - displayName: Mason Lin
+        uri: https://maps.google.com/maps/contrib/104597167432263675552
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU7tSksh3n2VQ-LY7C7Dqbf7F743h3_ZP1KKmpehcfm5HJfv1w=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocIcG0ki6ej78gMBvsGxDvKFlC1oOsvc2BhGQYoGQqc3PJY9qQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOMB6Ks9ed22Z7oT0X4oTFhReQnlgiKeIqaLQ3r&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICih5HjwAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOMB6Ks9ed22Z7oT0X4oTFhReQnlgiKeIqaLQ3r!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICih5HjwAE!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+  - name: >-
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/photos/AeeoHcIY1rQNBmpnrSYwaWJmDHd93GBnThuxoZy0n8uVfrvnDZoH3ZzfNwjRw_ChMau4vNtjR9PibqDmveZG9d8ev_P_CmAjxa2KI-nilf6-uuKcplNNUhEpKrFXmjYA0p_ruBUMl8UkCOpv-VTWMR-SeDMOFBlgFP0PbiIDF041KKEY8BDekExh2WrcAdxSItXMPOnLEe5RhR4-rSt2xJnPpW6VMOTfINAAzGQNtclqV6POMWE9oRASe8UJPq5X2t8TEn6Rq4kdJcRf8L2Grb9kU1X6wp5_AFrUDlkygb2k409klfKZbHAQmFKO61ZoZzuqX7gUhnBCqRtQnwlIXMZsKVdPc1CzThNNPDOX-zks-4GXrp3nvIYKEXTf8JRj2jzU37OmRfmGZXEROy9RN1NTrPg2_YR3JV5FYaM9ixlfGIw
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Jennifer Nash
+        uri: https://maps.google.com/maps/contrib/110360256041471204444
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVs9ZXuROtZH_3_xGdtnMtBwaUoltQ_7yOzkmJWJIDiTGFmK_4IOQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw0svsEg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw0svsEg!2e10!4m2!3m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
 address: 1985 Mendocino Ave, Santa Rosa, CA 95401, USA
 street: 1985 Mendocino Ave
 city: Santa Rosa
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80843988dec728a9:0xcab947e9f95dfff6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  current:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (707) 800-7699
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 305
+rating_count: 0
 website: https://www.kirakullc.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

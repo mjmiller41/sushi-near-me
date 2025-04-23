@@ -13,7 +13,7 @@ description: "Sushi Maki UM serves delicious sushi in Coral Gables, Florida. Try
 place_id: ChIJmzqgxwG42YgRAVvwieLDdaI
 photos:
   - name: >-
-      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcJCC8EmiHtO_KKQ-NBm_1_QPZIWBlaAToRQYiKglaZVnz49B3oSmUy-ttkUkS2PQW2743cxUysqniGuda362m20xLW2CJ1ijNMGmMHJa4KKmsqtwmGNU4vpIgoo3usFlm30CBgizR79F_taS00vMvOt0GwV9dHONywBNdZ4XMqum-JsKjU7XzM1CBgKAPld0UeLBGPZ2TECnYkvKHd3bXLqk6-eS2Dn23iTtP_8xvbkHbnL_QvfImzJ1JfVYph2Ceq03bXYq-x-OZ3brsBqseYY-oSYjBGQk0M-1xHRHsf6ZA
+      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcI1RS3u0gj7fg6Q8ZCvgESxUdn0TIkD6Zxw2r-djPuy2mRLo3Cf-2ZrrGUlMeVQcBMmQrchnNwN9AcdvFC8cBjPAVTnZeanQXGiDpsEoWdvohalfulI7ZQdaSgbnIWKE6MS-jQTiRMH4jBCYI6-sGq1rQv1d-RPOi-H-YEx8qUjONeQnXQA4GIPv5ZBNxYqRy4Cf6NQF7lLf6VY-iMsvWbcyumB1YIoQ-k0oxf2jGtXeYH8TAMoa1dEm2M3dI3ij7C7KufNbt7IFuQWwbyEkMo8QFDDVYvDM9zpVOwNAG7F4A
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOgmEq_-dsOcquV6evTeF8uwfuqUe4Ay5_6J4is!2e10!4m2!3m1!1s0x88d9b801c7a03a9b:0xa275c3e289f05b01
   - name: >-
-      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcJPlWW1Xa9jvk_nwJo9sYGVHskPue683tRzHbELxrPgSuPsiV477G85kvVCr2Lm8dmRB0nh-_x4rtWcrYwbpZ4ge1T-cvyukzmdgHWVWKW-5kJgeRBz-unQLDqNFPFS8mIGwoFTAGpeUf8I27LQGZ3nsQpyDpuDP7PzwQzEr-uPiOujEOUsxVrsTudHHbBfUsyQ4pT4C9K6SOGSlCoeXELfHoQeSfMl1EtxAGkhrKIOzD2tVUosWFJk_68jhFKq2yrMymuuVb-sov8OTRI0d8v1IpJo5A_bWq1WjNCqJial3pbhNG1x1QAyutCkHFehnU7m3ZUHyj74W_t4-FRgaWHnkCaowFHD_U6P7CKuhUocv6SU3qca0xBUrOr7HF4L1ANN1HFyqCObsGO0EBNKVNSyjFYU6r6btnTH9nSWVeo
+      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcL8ohtBZzpCxJaIvqFyjJRc-k1CD5NfOKZ8uqm9llZGa0TaDoHJQ3L1dFqEwH27otaexvOfln9IQAZR0EuHNFMUcyjB8ZtaM3a1hTJExap_ha5g3WmlzShkSL6IzaEQYAFuzIFmRDv1jotEoD9m8GQbpbJwOnN1Uxg5UXa9UOaOT6r9nzpiEpGZcTOOm3NlKTd-Q0VQos9-fssm641UK9fcwsVq8hLKg_UfHrInCU1nb_yKI-4gv5XHGg_OgWOVnCZXY4wzxc0p21jFdp7ly4XAVdlDyrAKzagtsXNgAwH1LxXAGzHqQ6reCMe5eBm4fxZybbwl7bA-dfUtdh4yizfDESDjyABOj0hUdQ_CmVTBZ0NQmPB5lskJRlEy6UqnQ9UCpvUUlLcoTdmWorD7AJcNVDXVU8UBX5x1cANo31E
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj7ZnzWg!2e10!4m2!3m1!1s0x88d9b801c7a03a9b:0xa275c3e289f05b01
   - name: >-
-      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcLeTzjz9uWSIvfKmI2OKSz2OMBrDKk5HJu4phF202J6ibfPpKJ4Eic5PZHKO1vu_XLuRxCxyW5DKl2sB04QraI0Kgg59bWJbXoxp4OmGeU82Vd7vN5cjIA9sZ-R_efx9B6wDThL-uZ1sozaFjBprVZCgAi4PBR97OEbp5wEbIziZcnTSaLhSXNKNjghSvpu3fBcDoqpqz3gviIPd18m_do2bKACe-LtNE2DfQn-RL8XPaxep_slr0M_5lHXcM_lu--3JM3aPf1Gz0kfeuxCgsoBdX5FPKOYNAu86Z1jKMtf0g
+      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcIvCeMFxbHtIRymhlSpo-pFeyut-Z2XKV2VOcAUepvyJgM6q4OcV72Nx01ePu0EjVtXceZpWfgqz39XxnBqea3a2Ap0EVvUVQ8dkPAylLCDXprtfqahp7X5TbDdcmaFnwyk7p5_jWh9AFddbQWsOPkSE4NpjM1gDwn3BsWd10qJuD6C_KgAUah6f4WqrC_YctJcxfD579110FzZy77fRf7ZD1nZVIGEzxBYlAH1dwx_90G6zZWUsIA89d2WGAbAxfif6t7LKZi7WA69QMK7HIuVaE2_QYuViTDVvNjUAO8qww
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPPVpiJDPQ0V_DDvg2QhiKb0lucMlOGZkHrCNnp!2e10!4m2!3m1!1s0x88d9b801c7a03a9b:0xa275c3e289f05b01
   - name: >-
-      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcIcz2tgwgkQykjI0AZYZYrsVvYAq92iBAjog-wVR1sFqiByCxpW17UaqLTaLyPVW8No_Zi3WieRtAIpjy_QOOV-DQzb7fyT1hdalm1G4dD3KgGN8nIeB_h90yh0f0PS6LM98eoB-RuteLouXbpB6LVLZgJm0idbqbdytQTvGeCfJooB9giJ_9PeHItqo2X6_eHuKrGzxNMDkQH8uA4ANohE5TvoR4Asa4Ki5Wr5wlHBcpbpbN2P79Crx3pUP7Ik8alFSLQPtH-jNT-gA5YQ0dEqCN8W1qKKyT3mMPjf259vcA
+      places/ChIJmzqgxwG42YgRAVvwieLDdaI/photos/AeeoHcIoR4jB03x9Zmwuvl24NIq-8JqaMmzwQ-wARf00n9eULgOxBlvR29o55X6TT9EAmy0syAovk_CUmfv5QF2NhOsjYuaBjQXH6P1bI5CYHK_of8lYOy8LpRcjjA-Y_X2tikOaGfBnVkQrx1-2V4QXEL7UBIH4mRX1mOKgC2XYB6pcCogtUfLVGtOr8f0F0EGBu_xfw_OP48WCEjtdkcKU9B-SKdhupOfZcIGBxKdsfW1_TOeys43iKRzZeCC9yIAwlUPvosM1kzhYQ_Gr0cq3KPEcCfKekPcv6fmMDMXw8qdi0A
     widthPx: 1728
     heightPx: 2304
     authorAttributions:
@@ -132,6 +132,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

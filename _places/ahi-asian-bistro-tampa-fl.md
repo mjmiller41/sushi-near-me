@@ -13,7 +13,7 @@ description: "Ahi Asian Bistro serves delicious sushi in Tampa, Florida. Try fre
 place_id: ChIJyeFTA8DBwogRpNbNsMFWuFE
 photos:
   - name: >-
-      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcLf3wWs8alH8k8z5561MIxyU9LAjZUQbmDGzx_QV38Xu_cKHaPhJBgT2W8Vs8QjApHS4YeSVuNL5NOxRJjkxmyr7WJaAIGMrzY0ClrzNKuP18xBgyOp3992mmqaFThG1LNEwtu1OBNMtMlVUwXl0laXttjDE7HLmO9vZgUg1SvjFKzDaELJ_-XmjsNuuZTKWkkoswLfKc896Lxp16d9wRhUxunibMlgXPvIx7LCJNRhDgmwpS_0p05wiKru36PBAFjPgbCzk4bksrsRqIhuplf3ibQ7bUdUnimL8kxt4mp8Cw
+      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcIK5x68AyMwqDl5Rw4JNIE7Lm2dGA8rxHHjvkqSCIGaFbLWnvdMZ566e5ODXzei_rX-9wzZouz_M-u5jdNiZZJWj8J3PbfVlTqzOPAnnSOq5VtCW0HO_Dr8YyTeXRZmMlZm6UTTx1i5Ul_57Iek9AJfuxtaOn0xQX7BkamCPXSzGAqQTPVR0zKaFC_i5jmmthATLUhfpGp5IYVl-cC1iND3Ze-AgjBHFKj4ATpB322hD0QiIubG6PuQRf3hrnmOLglC9GtRM627udABOyr1IsRPH6SZSeAUnJxdUdBB1WY6oQ
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOlj2z7j2r3Xm8VDXKe38cMEVS5yKBCQBDMA8Wn!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
   - name: >-
-      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcK7quDK4mQp4je5KdQql_XrZJ2PuMyHsADYfSwhiNJiEt36yDjr0XAzontaRNorneBk-GAy2r1jsB5wTbywr_MicGqyDLdDTj6Uy4sVn6ea_a6ISnvyQkqSL_Au46EDvUHNFD4FKJsy3Sufb7-R-1rupiVGyeABpDvSDl7-yrSuz4IAxW8F6CaMrke9s9bFIb1zJ9b77GrC3Rzew-Det0Smghd4iGpXSEhIa8_lmxd7Hr9G2lIv3rozvgVt5TIdoe34a9DOiW7sI0zJ19seuMlKMlZ4ihZGtwOzlOO6HKlr6w
+      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcL39WV72AMj7U-RUxZAQLyTnC86nWepYJhYr8X8PDInP6qHD8PiGFMqqpo_wPwGcmjeC3hI4Jy2u7w-94_704y7J-hu6svxd1g3yuc5pW_xTP7p2Q3OlmqxVzEvTzCjv2aKqZy2YOpGi2y8VUtIvvZP-oToFT4-QGsxf_h1ytWzzoT9x-BCOywn1HC1Cs1Uja32guIg5SgTQebe8Beo3Fscj728LesjbKx_bhOF4Pkuyd7Ki1HNXVWPtGx2r_2k35vL4GEomI6Drg9xFVZDHvY2jh-aGAjrInfSySzFwWf4iw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFuCDABffzpJkSQTrDAogTE3RmoKehhNcBdJpA!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
   - name: >-
-      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcKJGbWyFC8iRaFe9J-eQPiVwJlLxIZXz5k_ehadvpHVdvjTId1s0k0FsxDc1F1pPVCYzbke7w3mP_xr9D4npBHujdAZ90TiFQtbBSQphQH-_fzQUlt3WZzp0ISIl6gFo2d_7VBEH9QuiyTra-7h6ZWuQ9joHReWgqNMnP18GArQYBI8jr5tDhrBAKDgjoRRJiBgFnxcsXjMrgGIZ1u8lbu-H0wtcswPOPd33pC7qlVQ0j0aYunCUHlHDaNeDcm4FiDaKQoM4nJH9XaxfJAmwutw5ikCSJwc7NkLBrDz-BSP6OQ3EmCwRHQbDW5-Al8st86ApfON4F-RL8lajAsQb-g5qpefV6012qzW_t-7jjznxwZEWKXtakT9OdI0Z2TSJ9cNzC31xx9XdL2nN9OrZrZpTNk_lNdC7R6NSzpsIM75kLQ
+      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcIn3B4_idjBjd4jm6V5HacOwj--GPFdFWOixzCR4hRSSh8TtVeBcITW6iFgC9k-JUROKL8aj6W9OkXxUdGZip1Jp9dJ3bEzbemZU1dHGJK1aItu1BJwncCVw4QS7u0ZxoNDmM61wVH1pZptjrt2fdwYPwUh47ErheQkcXIAm03QEUNMA5miUswQpHD81GM1yupNjLMC-PkmhjA30NUOfN9qi5tT2uuRvjTZ-Xi0P3_eQvP0MAKqBIrhD10wumDdOiC_GEYN968RLnvnVVD3tGi1M75C8rYDYqKOVZTT4YttTw4LWYdf2KXXcQfmNe3kFh8SFmtsBZ2w-JRbzNU8JRtqY2YnggxL4LEJxtzoKe5T8UtNF85W6MBHJTEJU1goys1p7Y4Elaa1CH9wDQTrsWUn7JUnslgijwZLW1jy-ccoBEY
     widthPx: 1151
     heightPx: 1435
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXnpqM0wE!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
   - name: >-
-      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcIEucqqplyCiPwVSF6PELqj-BPF6N6mcQ-0T3twmBbBat_NY5TMB-4O40F58j77TSOtX-EvepbOiS4EjBdr6JdE2ASdbgBJxMRqxvw7ASse98wXc8KYosPWVxPmGoRq2N831tMC1jR1VX1xufooaeICgXanEGi7SKZbNWyl8vDz1BADwOdqRX5VceDbdLWnSrHjK4YsnDYcsfzcGnA022WHi8YEP9EdtgGx1sdoovIwuHc7qdWcJbcGskwvvac4sKnL7JYEpxRxHGsskff7Cjd3RdOB6wECflwrWdFgBvJh7DvzZdAyzH0YR86FhFDn9nBbt0uWVCMazN947Gq4Idpc2cvsixyH36lPA3HC0dGeL1Adwfh_zasb0aeZ5lXoKvXEsn6iPy1JnR-D2Fo3X_Yf4x5tbDZIS64FOqGRt8a_5A
+      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcJyQNUSGOi4R5vKeHr9IBJjm1NrDTT5goC5U3mIVpjh8p4fDKGutLhlSB41O6W1SUS_uqyZx_PTWu_wpe5T5siv4sOTqzOwwTBxndAztWkq-iAZ3N5cfaR74nPj5Q26ev2zaZrFFFTt9_2TH7O77V99MhnhiOIyheFFjKjEimJX55L30NqL64DLiQI2xUx1_1lbqzB5aDXbn1vQuBaSM8nW7qLflG5Hko5GJRw4LnZDJ2Lih4ZBrjbnFgoEsfaLR-cIMo9vMpVon9lTUcc4MdYhTq0qLeCDsw1BDtvivK9B48r2hAS67QRHPI2Q8F715IRRGFvDrvYUDWgqMHMRPfyWJamDeBcErnNG283-RCGZYTLEMP9xs8sGcq3MZR41gt3UMbWHFo_CUyk6ODBXOFXhIkD6Pk1Ugw-MvUwfm76dqw
     widthPx: 1629
     heightPx: 1804
     authorAttributions:
@@ -65,33 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv0KbOJA!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
   - name: >-
-      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcIoDWthNcfXE48maRADwoEyHfFhKLKn0jeK-08AqjAn-nf4kE4H1FTSkb5loyl2vqdF__1Kca8-MA8LliWB_FERQAYmEqWjiYuUx1vHwcDU5KQejjVCLwZPFpukdTNZAWWWtoq8z8hqcUzl0I-h6nd9Z4mAQ-pZm8QzEHtmifHEtDWs6S2TBF0HqgRRgshYmnJqiyYV3n3_7iZGTnDSLNY16Vf2099TpWtnsOLc3C_t-ZLV8oUZjiWWyPxdLfKtcN3QNRAXG9Owrn_8ecfhCPHDXOjdabFUdMBIO5Z0yFKQA16mgrPoq4Md-pSnoISjBhMT8Z1qKF49zwP-eKUPqJDzcx_RElXS6dfDHf2ktamxxwhUbAGNacH733aLX_4Tp38-NflQ-fBcnLONvtE2MZa-ZSFw4Z6uUhOiqyudJDLNqTv-
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Daniel Giancola
-        uri: https://maps.google.com/maps/contrib/114737369977806647799
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJ_RXsfOUd5i-bvqliOKjJRBFY3J3dPzXMXsybpGoZh4Hc_kw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID1nKnRvgE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID1nKnRvgE!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
-  - name: >-
-      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcJfFSlCv0ln1f7VzWAf--mhbPCGAKPlLOb1b9Mnr10pYDvTugEyj7OboOqowsxAPa2CgVDA4iBXpjNydMLqW0nvaIu0X_7xC1hTuCGf4E41nVQLIndFis7pBoegs6a7-EmCVD4A_lXCvBUGs9PgWjSLO48sRJwVqb2odQZGhS7IlOMnv3vpe7VwpMdTbeSFqFq_1ex-YEmGi6piQ8O2-snDyd5pXz2ADX-TSVMmMk6Fo3R-QP6d9HvaunNH8l_uC6yWtzUYIynlqt90SBWGBh-JVetsP5PbV1JUcqNws-rGb6p7-Cjx58qFjEotwBpQt_0eTLKJwYPAI_7al3reb2ekbTQPbEi_5mqohzADRcEQp_XSZf6IxTjSTO6OP6PivstTkOD-3qvWXACDyeKQDpoiCtos0h0EIXFGntEvUgPlsA
-    widthPx: 2936
-    heightPx: 2161
-    authorAttributions:
-      - displayName: Robert Negron
-        uri: https://maps.google.com/maps/contrib/108355879802583536012
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJY901RFiyJmfkX4v7qRt4pwKXYgcZ1Nb4eXurqHX7TVkQrCQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv0KbOZA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv0KbOZA!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
-  - name: >-
-      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcJXUeuu_FjkKA0rzyQApVqQ-sicuews07D-jODASv41U_9JeTOsO71YS5OG17z45oTKbIpQu-3--13ekzjT9wEbqO1RgHawpgqxa0CxH_EE514VMXkjFkZhW_WHTNDoU2qQIgwY7-UThUAGZjg1SNQ8pjmQ6Vss06Rcb9J0r_YVSfISJIZhUqZCBofsOtR--sf7xUGfQ7YhFx8HUjPhIDXmWO17ARELCvhRk_g9J_-hSnAv_aUBCKEx-ZCRFLdsxXObAwbthANAKECK-s7BdlrOKVIu2spxucuSGceHUUINAn0qR1j2giiM72fag3mbAmGc_DUHxlK2bJrnKDWQcalQOiN42jJFFWR4lqZElpE3BYtAVbVnl_LA2TOW_lV3kCDVyoxs7vz-itEWOP0nPOuMZEIt_fC0ooOXO5c2g407w5Vm
+      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcKreQNGFom92-XDKurQKwITSQX8dyq5dijjINehtCxVU1Qm6g2YC4DVbHwzxB-WItRIxzPg6rdcTyeM8dfLn6iHIX0QiNa9d-rnEOq3T9aHwqZYd0Kofti-oQgCbTrulu4KYS4xm5cegtuz4PN9buwuCiEo6zJApeylmPgm3R4yX26utrGnsPzibx8d2usEsmeHj0ULOFg-jvXyvozyEFX0Y2bZQLeIwXr7GUAA33quGGchZWAwZjiTljg7hcDkC5eWOyjEyDRLwRJ_D_Igf4mbjgxexyLiyG-0cDBAcfPdtOJAM7e_mORzMAe74bqLfU7lhy5E60TtCjFLG6VoXMA4JdIw1abdyWosgzLPx7iXVrHc6pKw-aMh_wSNy1xOoWPm_fGEfrmwj0j9vLE8F3etQkqkv7HkJhgJ7Y7GvieNvI96
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,20 +78,46 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID25LL4tQE!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
   - name: >-
-      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcJxf9xY9n-zcQGqbhOIkfF4CwISWvFUgUZTDQGx9bekPD4VzrPLFCaZjeWiuiqAuNQ0rGjnFHuIfxjp4Nmz8hL5VQLyqQ1mjI59ZIhKsom6zLhehtbCle7R7yuKGBQwKr5EfDtaje5Qir5CfmCqwKG0tK4ZJq8UKRLxbmVj-7X67_UEkfKUCrv1IvZrlhbvC8Kk2-B085pipZYOgWTHcS1secFBM2Wy_uD-s8UQUrQ-4hZNQFggF_dGgemf7Z55l5lJZSQkB1LvL1GVmNStfS5vq1L8ojqZPwfbhzwDozCfzXrzsY4PUc64hVoKFRfwV4KfIOkffGsRFymDYjYBH-lhMMgpBMC71ac1b3Hue_8uegkAAj5wmzjMS8bJ1zZ3tqfmlI_vD9156pwYSeW0Gk0LD5GJ-R_QuIXpw3JJbZrfHLyr
-    widthPx: 4080
-    heightPx: 3072
+      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcKCIajnDxlEiIBGj6JZZaQEPbI0yB_AVNfvYtc1TA36MGid-pVU7haZtnTDwwA8C82bqJk7r4yb6Jx4_mu38a5zlFvB8b1dJJHEX1VVk2AWLLqMc7988ESc9yTLveXowNE33NyqQH81BrdwRe08Wsbxh4y0ouF6PY8rIhZShvwMEQBgYY3tV-tQlzroSj69tF8b2I57Jvr-7M9kbq6vLZb_4NoulCMkSLHnsVukaBL3-Y7fFnT74BmfKsYWztEG60Yes-MCf_g1qWFAS8i1F4YkwcSopqdWtCsbZIpQQ3rllVWUuqx0oe0rmA2U8UN1j6NbJsfbuZj3IC2Y3RA8x42dPt-KsCR6dxad80wwIjmGj8gxOygDOLxAdjr3Ct3psxIvMk62q9TXc8aQWM7pzdpGGtHabzjnCcEfCwWjC-Fd-UNz
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Tom Wood
-        uri: https://maps.google.com/maps/contrib/106021179423230574162
+      - displayName: Daniel Giancola
+        uri: https://maps.google.com/maps/contrib/114737369977806647799
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUHiAj2ry5EyILvmCF0Zg3oln83gvMDrXbHmzy_nD_baVMQhEaEfA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJ_RXsfOUd5i-bvqliOKjJRBFY3J3dPzXMXsybpGoZh4Hc_kw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDyuvs3AE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID1nKnRvgE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDyuvs3AE!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID1nKnRvgE!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
   - name: >-
-      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcJn-KaNA21rqIXZeF5CkPRm1D1RO4g869hSVEY30jA9W72vJmS0Aeyxe1nMyxhJ6wgeHX_nXT2Fy03MrxlH9Sg13RWZqtFM_CpHsJTaL3ZkSzulKxszo-hIEKNalgaGUjDEaFcHoLEXma0jROY6lxXQKWxPNQcrm-5g_kChuz45XyFn_o7dLEIk4NfS1fTseHv8It2q4iPsuIkpytj7pEa09K0HV0ZhcHG7BOa402DmBev6FJP7ibMcf4YZ_djsvCDuYKB-4jD-lM9MlBlmfueKsK7gN_ll3NDdnnNn6zj35DPmi9YpuUIlTcN_4mUOya3DYtiF3_Ud6oMOgWFAUFISI84PzSWsYWSwzrH0pq0pBPt30eD23V8Bwsn7Q6QbtMlnD-7Nq9GjZ_sUaSFFH2l4NnfOOLDle6ypG1QGSVb6TEa7
+      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcLvmjywVtoLPA8BIg5gbOwel4wJJxI7arfdbNE6pAvqDIQTweB-ghWDfZrNefWt73gdG-Q4C5y7gkN7BNDoTC51CGxE-wfVKQyR6rdFFPJArkGjiWAEEoUBirnKXOBtLIYEUy6Eju5uMn8JNswbBbf2lLLXGYORFOIoKSBoN4a8X3MsvyINh2rurlGanOFmZIKe5MFiIPBrvJAk4dttz1XfVbhmbw2oe6Kk1FKqo9er2trmui4DNQ3j6ViUGOej1inIkwSaqbwKZsC4qbr48SHqpM9EBsP1Ls42D4a48t9eaRLFnXJyBGpVf40-pths81rg2_hNc_23W26e_bGNsz3wtXTnlS2IYyAUscvVVYja4O_DfRBXR4kyF0cSUJI66L78lqgk_g8LfitKKggHG75DiQSdYo_xHcb88XdqY7GApw
+    widthPx: 2936
+    heightPx: 2161
+    authorAttributions:
+      - displayName: Robert Negron
+        uri: https://maps.google.com/maps/contrib/108355879802583536012
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJY901RFiyJmfkX4v7qRt4pwKXYgcZ1Nb4eXurqHX7TVkQrCQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv0KbOZA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv0KbOZA!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
+  - name: >-
+      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcLmPKijx0aWzu1EF82JuSIdW2azzIrlNVyCvnL3XV59HZIpvZr6UtSX9iyhWmMxVoJEkiFfutT-5OJE5HA-_PxkwEBl-0BkEehXgynbge6enJqW7Rgefhszh5MS_nEqCV4XzYmZktc_asxhw_oBBUH5ONmD7yuNx0ilL0sk_wKolShUPinppNFVSknsgybmk0wwLnQhAGYB3BMtDOvwOAS_BOX93dWKtzB32gJPwANZU3UsQMqUUfKJvn27Aez2erInAuREzz0O6bT0GZTSbboI71vS_V51gIZQiVuNvMTQ4auuE5ELOuMvN0i8vcAWZDCACupxtTLV4917eoyMdX6GHlwcEuAGjn9nglLlSayG_Ta76iY0K6WGRD9aetbEu7In6hUlj0Uxvu8oYWtMEBeoNDOmD4EtRXjo7J1agtYQ2w
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Chris and Tanya
+        uri: https://maps.google.com/maps/contrib/108188748406171883234
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVq8zuCRyFrSxYOMPUpXL27uQKW9Rb-eDlFZpIS4WOki90Igl06bg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIib_bKg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIib_bKg!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
+  - name: >-
+      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcKTEvmUocepn9XekGjCUrwaLBS0L2mMh_9ske7V2sJORQCZp83rUmgYXjIJmYj96URfHr3L_v-2UC1Q-VMNdZTJaJBh33dzs3pRLjk8iPRZ55h89oqYKg3VGWkSeL2_dX2jo65UMziPMk4iC3Cv17biZc3y7sNDxzXEewAfm8y_Ft14IngewPMxaG7Pm15kbzCaXefATadsNM9STrlO94egEVHFY8atqWHPh6Ogln_Qgr-6wiBbwycsvO-LjnMX3zUbFIw3Go9YCImHWgugKOFgKwsuvWtfB7KDBrlMTjwywzjc11DzsA7Zp6eI-HPwz4gEs-5Ymwflkd-MKHgQBR8sakY4FOvKUyW0D9842lCjTuJEcRIqzmE4aLdV2bOi0AEH8Y_HvOmbnkqstpathHm7YINiTjizV8xODUPKqRoAIdWa
     widthPx: 3206
     heightPx: 1936
     authorAttributions:
@@ -130,18 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv0KbOpAE!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
   - name: >-
-      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcJ_uqxbRFM_nLzmgA3-Ow_ZEXQoy4b0TQUpezGaiCO1RGniyywHJpriYtHXfnheZSkiZcM5OKodFLqStfQQEpPH5pN6DQD_HOIoq3VfWtIzo5wzC5EsBPUhvOxToEOGT9gd-rDS4UphLV2gQ3y7qdyj6GQ-gGfIAwUl44SiErPJdx_M3pG6ImlqB4tb5BRU-skK0ZlCewKgBoo4fLz1EYvNjtpwwDcgUp_z9rjQ6VAnHCJVgcTB40Sd_wkcMbhNex0S0eRg9VihzTR5A8vTfGehE4LntNZ47nCKIjxJsn9DJfc0p-BsnxILGexBMYC4Nka7sITLzMyTCeZx0Ueag3Vrjk7IgnnZCaqZozETpacEfmWWMJ5hYfRwHz9jqn88S_mdXicxwpoLEHSoML60RonAoCMlYV9xj-J3o5Eeu6U
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJyeFTA8DBwogRpNbNsMFWuFE/photos/AeeoHcLfe0m65k0tPYXGpzuzZOk1xiRQSykgrlIQ491YeCNj0qkKcioyE4WPVqnlHgHzoMkCaWYZzfiLQ9LroK6NgqjsklTkoD7t-3lsXm9ziBqrNnGLhkyOp6iRU78nSoA_QomU6Dqjx-nOskWnPBVwjUq2Ljf-fIalcT6NKKVHwX4zlwdOavbalXbnZ9YQ8amPsRlziVYv2OXrQ54ls7sorm4CER6B06gwrUGNIHlhEupkq7WHfWrM2Oq8u9xZZ4RT5v8d4RCA5DYVO6RLOUck5yYvI7xNHtfYRguWFQa0rFZkGAod-ka9HFH43S1SpXoB6k9566gt_IaPSfVocMRuZ8_IuJ14d157ktcSMEtTVztOV9nWez0Yi0U-DDNbxAIkPxpESLdJKUhBHXTzBcWIrHBVOI_W2j_5gMO93K6QjaXPRnE
+    widthPx: 2992
+    heightPx: 2992
     authorAttributions:
-      - displayName: Ahi Asian Bistro Restaurant
-        uri: https://maps.google.com/maps/contrib/106764160154992890240
+      - displayName: Kristin Zemlicka
+        uri: https://maps.google.com/maps/contrib/114004325105487158218
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVMc3xA-CuD3czUikQHkyKT1TarPQX61TPaEMiYxm1U-_Cy0K8=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocIDFyKUhlhc0J0Hyr2ZqaRFTZsVJsG1Sd5sUaCgaY1WURos=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDkz_fJZg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI6MvM3AE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDkz_fJZg!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI6MvM3AE!2e10!4m2!3m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
 address: 14841 N Dale Mabry Hwy, Tampa, FL 33618, USA
 street: 14841 N Dale Mabry Hwy
 city: Tampa
@@ -183,7 +183,7 @@ phone: (813) 374-5756
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 460
+rating_count: 0
 website: http://www.ahiasianbistro.com/
 reviews:
   - name: >-
@@ -466,6 +466,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

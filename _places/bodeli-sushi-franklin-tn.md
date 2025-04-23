@@ -13,7 +13,7 @@ description: "Japanese dishes, maki & imported beer offered in laid-back surroun
 place_id: ChIJTbuT5F15ZIgRDYMWj-QwUCQ
 photos:
   - name: >-
-      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcJkJrm4ZhEBKSD7heR4KJpJ46-XT8p_hkwDIeeEbuaKeREJFKvI6OXXR1ZE1YmeNXWdUV8wbFSeT_MdimJaPVIfjRwen6eEnyuDyBE_IlsdXiROsysCVFrWHh6JAB4dhShFmIjczmS08mF1eBGLe_4Pk_aVt3_SILPCF2w1TL8Ble156nZUS-3VMBNlRXEF6JzzFCrxDIU6bp8Ksu6SYrwn6AEblaYQPVCPiPlCRvhUzprIXTkIjCBPQMHW3uDe6prnUt-GbXro8OGbCzYooi5clDeoVJgZ7UyWtakD9v9n_g
+      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcInHLXG2tLwysfISzMMrAvIxNGbz-_MvtZxoB4CV3eFV_9z6o_Q5G2be4gw5sinr-A9CJEAMXHt2uKQU_W5F1pYKymVQw8KF107ZqTZ8cEjx0itg8S9EmLfwOweTva__c_ku1zfL5viUKyyZNSCPC-ZAvObfyMIyQv87iaYBAR4meAbx1bU1FbdeUmuELe7rswqfTw1HVTRn2ZxRv3nc0SjODu5rem0ENtNtR0EjPmwLYdspGCdx1zBcGL0xrWRIba957v-llEzVF2igZTmjLuayoWl0uITfF4FWlKF8So5jA
     widthPx: 700
     heightPx: 525
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP-u4FOdv3D-UYcpcBEbl3Cf5iwQLXeukgeM2kM!2e10!4m2!3m1!1s0x8864795de493bb4d:0x245030e48f16830d
   - name: >-
-      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcIffMxi2DbRHzN-ylHhpD4ErKwqu4LFzubFa2fX9hwRqKkYKD6XetkoQ-6mkES-snMGl7aRNNA2tdWr6sLQsmDx5h5WCw2zsTJ-tJ1gqxfSEFCcyxaIpg_x9Hum6o7OvRSTRKMRPYh_FDqw-AVXK5Z0K9lXf0noK89TX0v6N16zu-tZA4yjVGJ39LDpQhGgHO-CPJ_iwAGvwAXFszC9KGC5T5R2g6TVC5whKX9pCKzFKPgYW1oxBASxzzhCvPLRhgacCPz116r8lDew2R5vMJXNFz9leGAPCK3QiNdUASAA2g
+      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcLJYqUoc8KTyw6zq3XPY2vfkUbuMNbn63_8JLNa45WMT1RlHUMm295N3ZaV1KqZ_p_iEFqtpI2MeLV5jyCSKo2Y9MzLijUcsLK_3FWDOjD7o18sRmlx4KRXBENjY_ub_aN93HS1EObMl06H-miLfsmRYMDbNoY8KzXPu1RgBpOIjr4I8JcEv8ucj1VvGYkUgbQX4lOKzKa1BHZEiDSRuNVgAe7M8aYf_SbDKSjvsqwiGfq4XxIah7BnYN5z1HKdmsmupQaipndhqSpnzuF-Lwon-FRm9-5WAidSde2mTzBA8w
     widthPx: 604
     heightPx: 453
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPdvcRQsoJccojIiKzgR8EST9UBoS6DgEb0xKUw!2e10!4m2!3m1!1s0x8864795de493bb4d:0x245030e48f16830d
   - name: >-
-      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcIJaI-fRUvuqyrtwvO1bRIlkjEEtqSdFvv1go4Pv8NR44loVL3UU5-w6iyr0GfS6517XaO7OkYW53iLfdupsrzfXZ2_8n8xUWgXkLIvj3q5oGKIJA2DEzxLMkuwjS7RZxcHl3ZQOLSxpTH7E04BbRbxFpm60IpzKg7H7HXfPr5K6qeeBHFevfkixnPruwEiYQSFZDzTXJHec5fbzGI4NTNrJmvYd0TcQ6X6AD9uGV0Y6PlY_2hjcnWE71l7PAbjq3ZbnnSaM3W_OFkKmKJMJQQVWvD5_UI9jAIYwcXOb4Od8ibChpNEazmDdVugMA-0zETb8oRmes0dGdVOJ8-YF5ApemnIuTPwuaCf2_x-4qWYIZPKcTBmtJ-JMmdnLgRo77nWeXdqCJy_lE2jfT2ppGC2PwUgbKmeu6h1Uf0niLtdFajL
+      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcL5YbC4w4siSKkZgrirq7hUYU-Qhs52f_MNgRShhOo1H5Pl-eAgFQgL5xIv8t5DPZz1i0DCIPWKp3Q2ib7yqrMPih8e7sO7nWgi73YhKPPnbgjGd5s_SA9-ViCwt8dOP-sU7AORUY_tDGwltOFvP-hibL91_EFBvlgR7laPB-Mw0RfQPotPMAqPZAc1g9jB7l9AIjg6OuDtdNcABnEuSB9TBaGDdkPmMmyGtakugzFNzRgdkyBkYSYIJ4t0ictO-Kxm6cgoFD_9Um2XDzVZWyenvowZeZH4setiFhBIGrCuGWXTo2wWv9cDkn3FcoShM_tljdTxL7_6p7Prsn_YL7vOyKImS0RdNbXjXDOZSv0nQLYq_wqPXzACDbDzeEe1iApoEkIPnRz41RfcyQOog64mOyFKjmlDerWZL9fcX14XnhYG
     widthPx: 4000
     heightPx: 1868
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIzrCa0AE!2e10!4m2!3m1!1s0x8864795de493bb4d:0x245030e48f16830d
   - name: >-
-      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcIfB1TEC6xv0Pqox8WYoOxqCpb8jAn21Xa-BrRtvjJlLIca0e-VdZlldJmImu3x5y1vBkD-7m2tR_gDK9WLFqD_uuZrIc3L57-rvW3nJOkgLuYQwAyLfUZqUy7w-JZnMjhI_fRH-B4MUj7-LSML22ELJrvshGiWuAA8K-PMRNMynuPATBxNfYBNgbw6ZuwAbcTll2-9P5YBbedYsOQqd2avyYSVzo8hTOPQp9IKj_C0EllOSkZQbOTc40ifn9cX9AJ75zuBrDYJh4Emt8gQCBJhtCjPNmxmKcgPP4j2tQxiLNfHv2k2g2inUS4DXybb3y2OlSpLY4mYIxzJyKDQMMo87n4DkDRdOMbx1rvWcniasnRXz49GRr9Qbeln-5UELABM62SaWF8Pxun4nULOLwE95LOcHFF9ge8Mj39cdAA
+      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcLMWTY8VLjdjPJC1--fpPlsWnSmmVNUjYC59DSIBCgQuSzDpnVmE1emdAYbi7z7BzvR6VDy1Jk_c-YoW7WLbrJZn-bZpOrICwAhFR5VGo60URod9YP3h4fqC0GIUqdY1wgiW0nrZnK8JlfAIIntRr_AQhM8ulctbt8Ip8APvG9af3p3DOpa2PvqOQ_86z9tmciaIwtTcYLCd70kB8qxPFOnkchKPERLBCB3doNE-h5yLP3EL8kU31SK4qzTX06EftzrgllaPVMPLLmMRxW13vl9XRH80tl8GlWHNArtd8Dttg82jvNULx1otUOqGQ_IiromWFckfG6Izx1jeQqVGXVTsh9TBufGNgbLiAbPDgGXrd4M61DhElV4TRUTU2Et3931XuhDBjnIJGDCJpHvUbNjCXDmQ8a99YNFBJVPnC0
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICng7CBcg!2e10!4m2!3m1!1s0x8864795de493bb4d:0x245030e48f16830d
   - name: >-
-      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcKYEtAWBQ4I-72fI9DKZepDmJ1tLhAiCNc-6SotSICbNw-BgreOlv5GsN7MKlY2Vk54J6a0kgD3AEtrjXVFozsah6_7hQmzjD-XrV6P_qN29G_PDeyVvxbmQqsuUxGyup570q9HMSAflFk4vJGY4TAD2S_QqjR1x-7zV480_S5bvl6IaRreTtNQ_zwbXGRb0ZxTxMB4ki5sKFxCCv2KJOwSOsz60iMTBBEDOn_recLpBh4G1Ktqt7L_zkkBa_bg7kpBR3MgSVlBO0TUbuUqeV7M98MBZeEezhVOatBAhyBnemTgbGvw72aN2_MXQUePjDame6W7fKYQQqGwQwGt5mJKF2ChYZZr8RnxMHFJlctk6yegNbwFPXmX0xbLRxRGvWY1fiUG7I_PRJH0Z_oYtOjetiLDqvE_UF8eQAFOXaTewv1a
+      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcI3C5X7L8vf16lqP-nRsVnR1jv426gDvZOTcJaaud7ooD7dliOjoOYFX31jNDVrwhXAC6JBMqyMePXAetRIpskfyJcdUFIc3iP71vC463uOJlmLnEsv9qDlQ69YVGx0oUhhyFc3s9nIDuUkTZHzsdZXexCAq7Y0iNLmJIqqivPaLsNcAPM4tYx1sOlZrRktMc4IfAbmKcYplz3kzTytW3CchPjL23IJPa21s_K7dnUyNXRGnBsFq1mV1ovsmRHmqr5xesA2CpGtu-42UY7dI8v2iyFTfm_ldZ502ATh51fnVBoga9T0Eb-GAu98rkkkHnbeJYpaJkomBZRqjIU_P3yke70upJeLAiAKlDQjSi-2DFvA81PQNdmEals9-pG6mAbUbqm_vhBN2VJE_wDVC0rEku7UzLjjE8nQb3E9h9DxcT26
     widthPx: 2608
     heightPx: 3453
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf9vi3vgE!2e10!4m2!3m1!1s0x8864795de493bb4d:0x245030e48f16830d
   - name: >-
-      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcL3_rM-h4mGulYjsW90QUMKR1YBj0Aj-fq8ZtY7h-g9L_sy5RMFr2RzEAL7OC2Qu0RokgXITZsrYP4VsDpgrAZV4-JFJd0g4eMKb6B1yQ8n47KeRvEq_yfI8ZxMZy1vV8xAb6Ynvfk9Gy8UvnTYA2vn7aw6OC8g_NwlwxKBY17CPqjAHs5sT-kFWB6NaRQ_pnyzaQfyjpuy6HOWdVbjeRiryydlzR725jR6KmUDP9vYWeCDH5Pj1Fw7YwcX4gKoIBGV8-v_HsiDggQw--vJbkkOGhlPlM3sLZs04Acb9KHk6Ybfiz_J8DvQFE2YElusrJ2-GyDPJwvb4MFgDtcpQnKt0DxUaihCVP7ZVdadCJE9TK7RxFnwdlNMs-IS-ggdKpRarsh8Myl4IAzUNg2_6rQWoCzTHeKvtWx8jaHfvfFV5w
+      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcKnJMNgcz_T3pMI9GoW4Kc7mdhLaLJWwOvNHoKkXZ4_ES8-NxQK9juT90A4_ZX_YguBZN-LGCstRyy3eCeiXVJw8TjECGzt-yaShIh20Ttc57oX3F2harMjH-eBSr7TsoZoyNtkPsUwKNJzaB-g-K_V2b4Hw07OwhHRzraVXS9yg61XNKhceITXs50TxoSHsMOFb8Fo0ctQ0iN2xtPA4yZWGjapsgWLzOHJ5d21fhU5z_X8vERjLE3iYaAfLgZVcPoOZe4peIyQPINWZrjow4nIYcAPixdMQdqh77c3OjL44VTQgK0G8cRSrGgVZb2SU9aC9LmIY72dX46RP_eOkNILk3Rfq9FZS2z13bSyNS-yoIEiAyawD14aZAxHh60pR27qQmB9OzmMjn92GJ4wflu1MOQtCzRHtvHoKzaVeFus-Q
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIzpCBDQ!2e10!4m2!3m1!1s0x8864795de493bb4d:0x245030e48f16830d
   - name: >-
-      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcJqULP3WiFoUbif4Ffe7022rxemeMOwkLJZ0pHLD1rWyYgv-E_fPNXtzrNbIW2cBrEgYj-A6MhpvktZC7whRH0VnRg0sI_NgWcv7Gi7y9_dgLU8e6OEwKoZmpvkGm6GahI_RQYh-2z1KhErxIiWGPCEzw1I_Xbad3ZuJZud-9-eFdeaaSple9Ns5NVqU-9jPoumHNOy4bCjMT16SquBOtEEhKYnopRTU_c650xA54SJeJT1CDpCOrKLRtWdG-Fz5mMg5oDKFnJevF4oydvmkWlgK5dLNk4jRl1NgVDFF8b9yzZ6jwiL6bwpdRvT9aWOicrTi6kZocSN_Nk6OKD8NSmNwS7zFPTweBsTwjpFB99f3SDDyKDjG4pSV_X07Aj8GvOt2t4T7_LeSbb14OOUSXzMf7BqP895PIz8zVKjj4Vct7Pj
+      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcIOgjuf7FsP1MmlQihUuAADj0WF8nX52xb8HHA0sgUzKsjwJj9M-h31ZRmWCEeWt9LbW0RzCSfD_jKU0S_J_sVeD8ewelaFa1XClmiN-MZAWEJJFOmw3DPH5RsqqAfOhTJnJj2h5jSqF_J9cXhdM_PqwHwjGHvabmHOpClA5YT7Mf0vDljE16KMHKA6C76UncA0e1mdTnyUIR4-pgA2MMP30h1KfUz1gzxZ0IfAME6ahoTp0ktopbHmqgAzXnRfwkc3VZniyvGbuLd8nCd02azZ5c2eOL76uPkcT7PWJeMjj51Tr9Y_HDwsHk4nX7nX6D0_O-gdC99ir0swWd5tzFSBUIOtSvkQwCO7AzMu3sweHyUz5OTUTKvV1VQ2CSA_iooGjCtAkSkzevKxEyITdd4PVBR84CUsfRcd_kzNeblNa99I
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ0KrzowE!2e10!4m2!3m1!1s0x8864795de493bb4d:0x245030e48f16830d
   - name: >-
-      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcJZs1Vu91MU0QdYcaaBfV4iHZmff8t8hhXFc_XoMk1la0_uxU21r0C43WpckR3e1_GwNGRxnU9srNe3eY7fSPw9JVoSTRDpHTg-pBRxDfl30Iv4akZrS730HC66fK29cptX7fkmvfkk9U-WpBIWBolx3Em2GLSG8yhKsIs6gtjCuCvJocaPFlb9iastrutfiKNyuYLtv6TNtjtivHJkRSRLgP66xmKmC3_37kpT0Qjn9v3cqr2KjBKrpG90N6iJ4oWs2fRqp4bV35eBzgJ3KEK2Q0g2A2aQ9ntUlEaE1G4qcsBa3h1QH9egZj_pGUNOhfHQJc8L_GlXIFJzSmWttGuW0rqBwJGcg60Xn9T_2imkmmT7d-c_bpWzZffiqnBDFexuXvnFJgjCNO4dZkLiAkpoXyhyYFjXOFK68xDVgl1q0Eyu
+      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcJjK01bTipG23ij4KEf2fC7pPyokOjs6oOIW-xCooyDZHrVWlrgt_HB7E7IzWKGg1frwznwSAUgiujc2sa7dgtNVL9l_6C7tGWZzRWYfO4kYaeRt00Cj5hXU1ycE_AzBkGtKekziWCs9ITtQD_BSUz9xlTqY4xkRa9QQN-d9dMrVDsmeMrendmIN-oq6P20w-3jRp_y5PEZT4vOAQlxqlKOmBK6ULRWK3Ti7kTGgwKe1grqDmGK9dxw59YpOu4CKs-kfuSDsOatUCmktOdS9hd8CbJUAc9AYnGJZq6kQOPmN5dM4bR-Gft1fvnvA97NhN8hhFEc_mB-ya54GpwwZan6c1Q8N-aYIlfhD09SyDytywtZX_kZz9XNlRvZczmxG-UTGDEFTe_v43GPHfcVJXisxUNwqDtJsr2fGqkR1WJXivUz
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ4dri7gE!2e10!4m2!3m1!1s0x8864795de493bb4d:0x245030e48f16830d
   - name: >-
-      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcJTNb_5GyANrk1CV_dzzgkB6hHIIyo-nmNdsTVKzAab-ClCHOctyvMcK43HdaLyWU3G3v1-oCnJwfajetyAidv8gaIXopPMkKCS-LFG7fXy-8D0rLhD1bCoIeikTa25ATGKOYR6OSu3awZuukmwdcC453GJH2gSKmKVww78pHevE9b9xBpovAFt1AZF2lmcPSHl2vAriF3o0RmUZsixTNRosc6Rkok96qyZV1JKcy3teDvY2K_BsGd_Dya1RL3OIgeOUSSTbMhbFvx5G6T03s-t665HiNRBkHf1bShzpB1yINhyb-QCd4V7c3gkK2vqWD87s8VDHUTqEs3Az8JMTASjdKpNy27EOK59CdALwkuf5C-Mq6GwdYvyQhhwJXVNrAyUa1jU95jdI61qvIR1KLUmf99S5BBjrM-47w
+      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcLJK9mfhgGM1diQyq1awQjAoEeSx0lgioQ5gB0J48JRZlp4epCckCZzkorg8nYVeAscVKwFyQ-ImafmAM_3e-N9YynToDJ7-NJw1FNapIkUHpCKH8aXzYawfv7F03XggnXi5I_ZkbZrHKkFoWpVJACsnT1DPH4DX-G6ClmvX_zAFZBdcmRsc87TA4Y6YChnaIxZaeKoEqV43jKtLxaqSgi4-smBuAMaHSn13_-1OI3S18pLP2dJm0ZyGpT-ou6-XtUm_j9ynaWETKmP56gnbFVELzsPFXQM0mQiZrRRVRn6niEsEQQmPhYNxkw_77yLROSfZ9VPSvWE7JXRzVWI19klf_-PLX4jMCuob0U-vQW9E4XUupRlbD-QaIL-m_HeOEmDmq_XPBMW9VxrbgtzhsJVWTSveS59t7QjCw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC42tpv!2e10!4m2!3m1!1s0x8864795de493bb4d:0x245030e48f16830d
   - name: >-
-      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcJ1RvWq0RtP5Bt-Yy8GEziizOFsRUIjKw4q22nIEx2UMeDjduZC71LE4Z-Ij05e2mUgMhLfnUdU2CCf0nwHf9wMDmpUN25EnyCbmn-YmUj46PWyLUE-61EBK6YWPcYRW5kJ0QDizBWJKwUXwtCCt9ul0U2UIDraCkkVfPmBRRvk0AM1HbNZJjjWAnQ0FrXmKwbJ1kFjNEn0qSIfXMUaBIAHrHDOOPIa2IUzQOZIDyj2xAzsy_iyqUVZ4dDlHaIX2HVhRNApMDUjYa5H6DtzmB-gVboOUgeNwq5xFpnJLHeUQvuC6m-0aYL2-Kpa5cx0GAvoucGIu9LoIeD2vdAGEIuw9CqMrPPQqcID_5OG79dYxOq_67rvZsmdp2Mg3vOi-xT0z85vsK8U80ZVre7u_5CoHjPexmYCeHqouOmA9gN7Kw
+      places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/photos/AeeoHcK85W5BopnGQVYiWVVb7I6u1IfFtbhJRax5rEX0mR13kKErbfXY4GpIhz2S18xg1KYBHeTV4Zpjm4M8Nh8K4JlBJfhXxXaByBY7rGn5hQiHjkapgnVgvLzu3Nr1vNhO90hGl701-gRooZE76PRO0QjoVBKsDOlYwQsK1vHZOk2ib3aYYMNdxUQGh9T0N8jv_t_7NFD0L8ORrTj1GIqrPqymtOrPaREmqPisD3b4hKdiJnRaGOZZ_O2xtwJuKqJtk5O0cfaMuj5aKHZ29Mb4W2TGikEIjQ0R27fboyoE8-MmPepxtKmpiSakDql_2G1P8g-v1uIdV0Ua1VweUvhMwmZMW6XERaC3tkWq9HiJyXDYkFOXa-FTGFI0y_Tqmboscic_BMMrqAlT6oqwn-SivFnm3zX_7SD2OhSRZJuHX_Uzyw
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -183,7 +183,7 @@ phone: (615) 503-9902
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 515
+rating_count: 0
 website: http://www.bodelisushi.com/
 reviews:
   - name: >-
@@ -368,6 +368,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Japanese dishes, maki & imported beer offered in laid-back surrounds with
   ample sushi bar seating.

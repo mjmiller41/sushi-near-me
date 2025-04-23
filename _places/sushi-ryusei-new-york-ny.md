@@ -13,7 +13,7 @@ description: "Sashimi & sushi with omakase options presented in a sophisticated,
 place_id: ChIJqTLS3nJZwokRGdkiM6Hj-BU
 photos:
   - name: >-
-      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcLYuV3z9_5Cj4PJrBb0GufWiH4_fPG8T2Vs_JR4S9V8OCrU2o7qCwseb9jScN7pc1mC7uaEFXB0jrWDmZs-w-ETL7Hp7O1PM_EUmPmeQjr5fBSypMcKCV_Iod4jYSFzDco-bYuXwt7NayGN1LLfWa1RDqJbUY828CeF12-g7__rxQ79mD_P9reGK6-KE7ecnUKFndLhnE2r2a1NiQip44tukVMESD6bhggeqNfAIS_H-WhikbfppUoLyfCI9jxhzIccGVwpmp2pOgYbkeZKQJzS-qIPWpcyU4NYmmNU2Ojq8w
+      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcJK0L_thVBuTdejD2aQchhZSne3-bHg4gw_mKMNZXt3FJ6GwV64Etz7jCBqWYkQbO2aO61sxrSoSBECPaIOSmGZgcJ8knsi1WLbmpdh70y-u_LriEz-90MHo8dKWFk3WYL7aRgOI90CvjyWQfeWucHp7X1G-2McIlGOiVoYMdNfXD4fG3BE3Bp1mZierzER4Ht-6aB6aNvIWeM5sHxfpVsgmIvpVK6O9_wlk6a9S496Whd3IvhwoNC2D1465cscV7cfMIHQXtxV-u7vJeSxlsUZ9QYhWUtsOiEn-dIWyrAO-A
     widthPx: 2560
     heightPx: 1707
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMSDm7m2nTO8t5bxyQ4fxVSo0ROULfOAECrHodt!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
   - name: >-
-      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcKonAgUZuFuTM-8NcOyqUvVqAXj_nLSZ0sHaDdB3lN25X1ZpjOj8ekJhaKG9dCRd39KhUIwXy7F-D2Qfcuxjsjy5cQzYQS8bsdl-2RXHHGac7KegSJVuR3_Mtr2505oGIKB0Ick02s-XHggsYDkLe5syZxN-EA1-mqxW2zsAEUJXdDC3NjcWEF-H9TNNu2P-7qUvmqB0cklyISQIH0d5MOecP77bS6n2Qy2jJyw8eIb0UgkdZj50EXdgpJVVSoBBBhEXHFLx5mxSLrG0-6KneFzaIEAgbDN1NWBMBaqAHfGrw
+      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcLww7m28pnXVNGJ8HlEXrC2AVNODSqesMxeQkvOXONnhDv1WhcFrtvseUI2Ao_lx89jG2upytXpC3oPXCXpQIbG_yto9qpfrOB9MftoEjXH1TbtEEGFPsgjWOM5WOXZ9icolWoAYEyvoKZXpvlCfN-JiABNNfMAg05Z6D_o468hrUGdx3XgnJgD0TSzEJdG8_-GRwz2Tbkl5KkzBYL7jHIA_S4hbtNFzELpBd_Uncp2HPHqS2Pe_NJPWA2KkuJ86dOGseH78_m0down7hYPqXAHTCIbmQgdMt1IKeN_Sh6ZfQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO5UMjv-Idz4Djk4iD_ya5va-nBYpumBdy-x3jE!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
   - name: >-
-      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcI39Tk4mSDdH2iIMUSfrWY_MGrlId8zFJTyymsX7qSA95LE6JYcxWSIY6WmloGEbKHC5s4hmDIIV53hL_cCac8k4pWIFwWGk6QP7uFCuP4X9IC075UV0O02rVIIm_KgdNAMZr1EJHaTeJgWXW5CjwVbamMjOjsQ2T7kRpLhAsh92P9lR3P7M4td5XtpxrRhsbeEEFJItTAT0UMKo1PKLtxMbT8P91bFtlTdk0eiQBQOfhvvSLht2JvpU_QcoTdqRSJD3FQjBZXbZk3Llurtn75bEtZD3cBTxHUdoELAy_4aWQ
+      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcISLm0nDiLmK1QqwVlIqSkfD_HUQlZAfh36kkjvitfdmxTcqj-q8J7h2DnaRbVgpUIybw0nwEvs2mNRZqJ18CG6-m7IQpKXhClarUZ90zc1bSGtdVXZF1c9egdTiVV0pTaurC_6Qhl5IChTkHci0inMEd8oP8ZMgHqbepm2t3IVaVrghv5KTfqgYnw1HM2xfhoWJCplv7R-wzdpE9LGLxq5eXkSDOjzgNG0GQ_ySYctcLnoUMjxQ-j_hTv1tKAFeo6Y_scwGmZ8LyA8XC2yIdhpErhHfZuyjM8O4SyMp-2vbw
     widthPx: 1080
     heightPx: 608
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOX1hrb8uiQAnqzsgdb-LpJlNSAeqidFPpLDL9G!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
   - name: >-
-      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcJ1MALHDIpvMN3kDFq4-0XTUOOxvafIPBaSWZvdd66QEhMiwLk8pZop7pITne2sq8vi5E1q-TOLp783sLM2VVRvzD3m5T1sIAmma6ZV08aw11mzoRDNoEaCXBVZ9dUhskNHZAMpUo9P1FPD1F6V3TW_6LjR9QL5FPj0ickWkWMs6haec0F7kvjidFFPzQob_gJqmoQsC0Zrb3IKQbWv-FHntXfxAAFMitB-QWz2wCJ_RprPwhWLLXDrB_WiwlZPcqgFm4OaJ1sXkM4Hr1DGQ6SR6_0sUZ72SOlLsnQn-hl36w
+      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcI5k0GDIsePJAH9IvAxLvTQ9DnDaoQR5YcuqDynBgSaJw_eOymkGwMUmsHQPaVHuR7LyE7u1nfG4FeghmaTA9C9iuFZwU4Hpodi2YmyYIJpMKKfpdtgxZgS_h1y8yxxH6OysIiIM53BEc2YY2anTnxU7Jng2db5b9wuxsyyEk3YoKcxtzScnqDoNdGQ-W2rPjFqFwtikZmZgG53gWboLTDlfw4Sf0lkYtUCODDww_UNW7_fMFiQGTNF1-sk1JP8tXM33xPnfF9Dux4jGhGbAQgKsjC_iHdcZf6S09BcHgl_vA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,20 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPfIE3aPmUmt54uqnqQUJ9j8iZZNcT9rc6TWb4p!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
   - name: >-
-      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcJdWS0LQ_0iZasesfyXisz-pt13byoeJl7pob5dBTlm6b1e0PW_v_l8L8tpu7luM1XkyAieckwCIfROWJVeSl2t7S5dCIpSm4_hPNEwlKL0V5Hu1qqBupmsrC4EnklodzaVaIDSdx9c3XKE03O9J3i5RemiqXDpGV45Q-vEcvk8MQ_D29OWXGXZw-zK4XHR-sasNVP-L-UDbpIgZKSEvQPdqLS0f9MUPol6yWx0tvGUmRqEqeFGLowU3sfcOqMx8zaSFcFnYynEfzrHdyqB2j4pdt6Fxoyyai5_jxbp8LfiZg
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Sushi Ryusei
-        uri: https://maps.google.com/maps/contrib/116889949762192180910
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV7afQRsCITvIdcJ8wWo2LZ0KPnXYH6ifSXJtMxWjgudmCOTqw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNqElVqvJijCqBpQIqSjzdqmTy4L3XMSBHT9fvx&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNqElVqvJijCqBpQIqSjzdqmTy4L3XMSBHT9fvx!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
-  - name: >-
-      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcLQVCYkyEUQgIAzyzjc0Hhd7GXQoq1b6eH_uMGfPxXo0tXf0dSNpqfiRFqw-nNyxHGD93OMc9dT-j-mCem3ovfR2AemcxM7DEeIGZoTi_1_tFTjX2Rw6eeGycccvhKEX78-yIpfbSLCOI9SlawkuvLvvFhe8f7jLZPgs-ksSM0KwuN4DMxjFxX9qsiWu8elEhe2GyXPK1Fko1-Q7OY4nIWpZjLjFVH1fUU2CHg9OYVrZDGom4H8wneY6UsWanj8QhrYp4kzo9merVDH2r1-YKWNk_fteiYDbn79uWE6xd9Nww
+      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcJpHYUzO1KhORPTEQMFAyUlkm7acZ0anP9Z4qHgv34kcSq1L2qDF4XXod1NakAr7bYx8SgYhmV72iIAVIx09F4iX3rwVWWMM8FSuyS31H5g7-MzaF31aLp1UU4Drbxph2q18xb-nate7lLvtIC7XIAcgALwLVNfkd_HrZfoVQtHyxoX_YdjvtATR-oR6rVNJcaCTEBxVtecnFk9DXdlagl6PR2nzR7zAX63Nd0AwqXteBQ8Gu3NFJ5Y34DX0mZEg4YqDfquSL7v6ggO3i-TFHq_46UFiqQ6h2c2jOe88aecHQ
     widthPx: 2520
     heightPx: 2897
     authorAttributions:
@@ -91,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNmu9nREfkLAq3XMry7srUycCxAdAAsGQI3hPr8!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
   - name: >-
-      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcLjeAuX4c1qcIJQ_XGjpbKV8Wyi-S7HS_w1ovT7qjigFMUNYyxnCEKAjAKM5Nbs4sK9QN_-hMlqugrMQq3aRoiN-wszn99z66uWnSL7agnrGhny0ACEozS_N1sEZ60LfOittnff02Ee6hk_24ExAJW0tqFWVicevdUA9tQblcyw3b1-QmS6Q2faADxjW18H4t8VxhK2qYEkfVNdmSbJ0BY9PW1YRbJw35l3TvUwimJKf8PjDO76B7Jbbi5_76I3me5q2-GJai7hqnK7L6sx5OYSw7ot7RstcKq-kdBVWFSXqw
+      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcIQPDdtYHUH7T2X2G0vfPEDYx7cmrYlOgtCASD5HoP3L738Ke20rqxWZCARCyXyKfdqAifXvQQUgYIjnCr1f6wyqIz12WQxy0dOL9xU1f5n9zEKCifRwRlhJ6rWGurpbWrzBsigR4XmsfLHvE7J_gJiLHyzjp9ZbXcWTc7k9iffM9jU3XhjWp2oonv2AI3-9dfYdpmhP04eGjg-YlwElF_pTcu1xKpzxUrqYySisU0OVOT43m-QAwC5rjy2dr0YO6RhK-EKuQv02nrNxTy_n6lpeUzBlDaF7rIvayYNuhkHCQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -104,7 +91,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwju_yxWUst46QjEKWvxr_gTDb4ifCqwFcUV_e!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
   - name: >-
-      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcJY0Kndp1uC5nxXl58SnH_MvgWLp4n1RSRK741wpGRt75uC11Zp6lyL099QY8924CQYsOj52T6jxdxdkMMZGVMjFEoJZTxfa_2pWe0nivt7UlkPfizBBjwqmDOF5ptBPDcg9vvQ4EXGkpmAwzg1NkW3LaWB76YwR5mreHw0EATUWlTf5FirMB_tlTXlMoKZbi6UFd2g3drWg7qj3pgvndvxNCZwnizMkUZVTs80FT7_xqOrZ1cT56vseXRcw1ySUXttEFg1CGEBSGJG9mXlym50Uvr-usOSH9SNqkffw2Wj8Q
+      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcKC4zXSanxIeWcdVFim8MMN_DinBpbkhClQl1XHv8ZON2-NsgkG6ScbJoZEnrYgEXKHi9vR8Gj-_IV9pInV-AfFn3fdQ91MNxardfnV-nESYMqoLrUWbG-Ab1MxGesjXkD0cnk1YCwFC6kabIPo8At_NYrzPTMtc_aI9I7HHeagsREYkjAiukvaIvviQE2V07zSahvMj6nzKUGYIqGQJBeTHTIcluL5SjNlgcgx3gTg5YYfeNc60rIbIwp5xEKVKzKoq3sU_HN8FUKcyFwLXNEG754AnO0qvKf-r4YJcOaRSA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sushi Ryusei
+        uri: https://maps.google.com/maps/contrib/116889949762192180910
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV7afQRsCITvIdcJ8wWo2LZ0KPnXYH6ifSXJtMxWjgudmCOTqw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNqElVqvJijCqBpQIqSjzdqmTy4L3XMSBHT9fvx&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNqElVqvJijCqBpQIqSjzdqmTy4L3XMSBHT9fvx!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
+  - name: >-
+      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcI-mSJs4Pu16Nzj7wMrbb5o1BUa78CIqLyHxHyev04P_TEkSZo7Nap-o3jiD3PpQaK8hlWlYsmX297JwGyMXpCVqyb8f4ZD3eHrg85b9Jprp4Lzzzh67eKCvkX7pAdx0XxgvU_mAehbJaN0clrklOkeH_B-MoeFxkh90KCi7CUQg3tUdPhQ2IqVR8d0CIHuCpzu-gLnUE7-7t4cFHkZMOPRFEt5w728YsViEdKFhdm4QfAnE8GMA76olKKLhhzgm2rpkb1c4Ki7BeVwhU8SK3N_OUjeHOGDkEmxWfJTEOo10Q
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sushi Ryusei
+        uri: https://maps.google.com/maps/contrib/116889949762192180910
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV7afQRsCITvIdcJ8wWo2LZ0KPnXYH6ifSXJtMxWjgudmCOTqw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNwx4pJ8kewAb7g1QMCMbpMhumAEJbjqb44VRU7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwx4pJ8kewAb7g1QMCMbpMhumAEJbjqb44VRU7!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
+  - name: >-
+      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcK0hTVOEHknvvPTgMm51E0Xim9fhBu0QPa6Q_lDJoiTtJHg4X0yBIvs2P-GtCo1rfIlqTUp1Vbec6RaCifrMfNZQG8Dy5IfBRCujtE41L7AS-rsbY4oNrQ-xPzQZbb1rksBfOMJj8kVlGWZKnctMVgElOkPlJZSWXBrhZ6F88JqUfjRL4ERqk9rLNG5brBuTVK8e61deCAj8SFleIyH2aMudii-stkLIknuUCloiOPmmSWjiFjdKD7L9v-eq9VgsLezl6cYgZefFfjntF4cm9b0JnaSGKYAZ1ttDiyzFn32JQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMUz84iiYeC-QPgX2tQB3p71LxR_zTv3xlYX3uH!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
   - name: >-
-      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcJU5OdjuJrdQevdNUv1ZM0DdOFS89XK6KOkXFxPUEFCRebxl1p_EsTpnLP7SZBU2t__I_bzb9T9DCsPTN43NTSOyTRJsGRPpag3PtyqA0tGNSIJmRSh8zK5mf51nuGmw0xTT3jFSYu2LXjF-irgzX1hH2TJ87v402wVJgQlIPIxXBqPvHjZBdvWNsZWzj54XU5WGHw5k39ABDP-0bNdGBs1p9MQb0GYS--6M8kqDiNDBQtNog4oU0xfrj_dVCTjJdTgwPSqKDFP_YQ0u2bCYdvKl2tq34YIH_IOCQdW_frRxmN7DaPebAhUzDVzVmbQFTp6B53uNx1VKWUtff7_deUVOKhzCIANevxjKHDI1d7llg2RDQ5XzD0pwDPIl0uF08AUY0w2WNi1Pe-lAs0g7rYKxB0ssVRhQHE3ldZyLscRLg
+      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcKKdGONHnYjOZPRQHbhxv659rRkM8dt8svD8KUmJ7EO_ApqnS5gKNAX7BONWkCJf48SygXsCYq74_-9f1ShKT9gDSlcoG05xWYrJ4dUlZAjFy2QkUBRrhyEHcczz8CDWHeGWmY-ce-5giU1O6JOJQbHuEiDr6cL_QFMIaLObSyYIXJ6kmocgmnMxLoX6kO2IjMz7xxMYngxTnbn2ov3qJPjjdh6Ij3EF_WaAbo2UU57G060M-hl57JvNX8su8C8TvnwxgQwCW-aUY3he4QKWLuR--iKeAMVKbHzm9vmrcG-zf1hBiCbAXt7aPxdjcNrpyNAzMzVb_VUClClv7819N0jHbCSWoiRVck5tDn_--bKVFDSeA1AG5QFkWauwXFUd8Su_eZzYtlwQj8g9lFi_obfIy7U4kY6VdDBKEmqB3xTKQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICusceXag&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICusceXag!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
-  - name: >-
-      places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/photos/AeeoHcJSumTTt3ZikwGRbuZYCPXcvfzaVWKF5GAOQDjrJ4CtR5iSiggu7gwz95i_HMX_vT-xZ9cJbzhp4MNwrArZq3JliOGo5T69rlpvW6eTBBZR1pd_zgGqhBEgtLT9g0pnTxmLE_S-4b-3EKhZR5PDu-VCRFUgp8v6sYQZ3xe7sRpMM-ThX33AJqVWRRWPDOWJz5-fbH3cI-lkRfQF9vEc0FUhN088aicbL5pSLQ-NoRWuuZvg6uq5BGk6QER3DijxHeOSVbMeJoksfccJR4zhmznyNR2oHL5dUs8RK8LIu10LNw
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Sushi Ryusei
-        uri: https://maps.google.com/maps/contrib/116889949762192180910
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV7afQRsCITvIdcJ8wWo2LZ0KPnXYH6ifSXJtMxWjgudmCOTqw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNWo0Kc6qw1BKDddCDOdCnb6Qsj4mn39UhKTDau&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNWo0Kc6qw1BKDddCDOdCnb6Qsj4mn39UhKTDau!2e10!4m2!3m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
 address: 216 E 39th St, New York, NY 10016, USA
 street: 216 E 39th St
 city: New York
@@ -183,7 +183,7 @@ phone: (212) 983-8880
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.5'
-rating_count: 238
+rating_count: 0
 website: https://sushiryusei.com/
 reviews:
   - name: >-
@@ -405,6 +405,7 @@ serves_lunch: false
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Sashimi & sushi with omakase options presented in a sophisticated,
   minimalist-chic atmosphere.

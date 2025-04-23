@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /privacy
+sitemap: false
 ---
 
 # Privacy Policy

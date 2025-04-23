@@ -13,7 +13,7 @@ description: "Miyazaki Sushi & Ramen serves delicious sushi in Spring, Texas. Tr
 place_id: ChIJS7tQ40PNQIYRmOiuyfza2uA
 photos:
   - name: >-
-      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcIe_4iOB1jkVF5wwfPXXhiiodU9TsPGte8dlFWJAotA3m9UZJrLetiqKcb6ogNVJlKB6fKhn1CC5eqtsslfu2ReJntLEFKzxHwSIghBsEYiw7c_L1PXatoPFk-XKBr4AMhht1svZ_gZ3N8QwRrFoKJR7lu9nnuX7NLxI3e8i_YYDY_Pc8QJmFqHWVkRcsv0UvULf865lO9XTnCz9xT9HYqqFppBI1X63kzi-b49tEufKi44CcHB4cCkmGNQWT4IXsDsh8kc47R5yx6kkc1XB5EiGeHz6KK27Yofa7OwQPpAaw
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcI6TUbofBRt-j5NWMtl5KtuBHVMHTqryn7mYR3Xt-YgFXJkw-vYlQml_1xTkLsYOLldjAB428dvU5S1alQkep2L-bVRTgbSLJJ32TCMWaZJnQxjrUXBl86i4c9FYB3KBWsVwIoYVl93odfYJ_0sHZWoygpbBGUznqSGeufFM-X28QZOMV7DV-6YQMgAhOGC2TIXd7Kk1vFCRHRgCGy2_ep8e4mggdZh6Llmzv-TiEZAbDYl-R4x13jMb95kmt7qaSYIT9Xjkuhb6rfGLySaL05JMV6o_-vF6oPj_UVPt7WGTw
     widthPx: 1080
     heightPx: 1920
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOEBppRCQ0LqV16d4GOyPxSY2zvLPutyK3Pi9L3!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
   - name: >-
-      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcJpzg-TriWWXZnpDf_NZRY0WPzCoXpe33eaiV-m8RthlIm0m5mzZKDsUdgu_lxNlOSpwosSBgLFRVN3nRKpx-JTE030-13PzlojkdIxPKi_aXvpfpLairao_AgBCSCvyK7HgsRkjoyLZn_sVInHjvUzjB77IsK_qpBfrgZUZlr_d_NLdfY0HkrsdOD3GVuvOvFZFKLUipE0f-cH0VdpNoaCY4gBSuyPUo_-YK--lkhEhYIoaw0tmyjHxVOLnuCwu6n6C-EeWpGl9PDYVKLuLIZwOrunhmpfwSxlrEguBMzbwQ
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcKtt1r4c8FQOClf7KPpz-cLZP85fabkPeYFEEdfS3bBT4xd_EF8r97zPqrIpfBxNJYKcapUGCLiLOSCcPCRIB9olWDOepf1D5kMJr1RPOjMffEM3q2y22QMrI4vB2IOvYo5-m8-R_GihHyzeJFWCM-TIQKS5qZMV8HOqdbfHq3n5o2hdZONmYp78sior63jWkWqQXAANvtFpJOtV3vcziul2A7vvri4eVXSaVaqCLCQ1gs8G6Tj_WoFdGk55He0Z8m-Ro9t2t1ptEeHE9XFSVtK5pAXFIk32T--4Qcztt-bNw
     widthPx: 3482
     heightPx: 4347
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP09cL_tjjyC5l12QilCk9X7sFCPHgrEAuDnnQQ!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
   - name: >-
-      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcIh95ZD6F6U68PYD1Pe7wfTXEIHJP6g1X7VXHK-VFqQDUNS3XOUvmfH7ORt3l_RHBdd3ojotAUMABWICVQtzr2qxoQyb9RUCiA9D35UvV-sneLAWCxJ9rJxF_V4Z2P59AQCRBi8LbkexZK6FE1kA35tX71UwZIEzikYHKNBiPbQ2X2ua8oZDSG0kFZRP0i4SOITwdjrxjVGZr4ZTMns98XAANjF0Bl69thsIHMYQWoWRnDZUkRjbzAl-UB_586UHxYvkCd0nBZR6DYHvpPwtyPdKzfcIz191u6SUqRg4R0xwqC3GofCrejUy3MvolJvHOPpJUfSeIj7EsfMy1uqdt8rurab1eAosaHKugokaFsPfF8CSfvlTzGRkjipyiAMMNVpm4vy0JbxRO8E0Z9VmKJB9zxdym1jJei-6u2o3ek
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcKH6his_Xy-c9xwiDvzf91ENy5ocNL1Ok2NP1vQpk-IUeSfaLT1aGIOIiwus3g0oHPrq5o_Y0QW0JvN8R8vb2nQzfpUQLSuBGEwfx4V3hDxDev8GNuZ7D6TibwVb9DU4vmJaJMhKSJvdgbNNHOo-Q5y00jZMlDNyEo_dhj_UOh9amLZ8ReaTpoS0m7wjigjgk4Wj9sPbBahlMDE3PPXkIaM271QM6v8gFx7qIGFAV8uJyAPmbKCpgDdeDlA4DvhQw-UpRbFXlYvMY9g4U6nfyneLXoOoYuGPBx0nzvsrPuEKKNncPh5BqwjR74AsgGmH2GbPLkqUgI5yl7Czq-BRvnLRbYszxcXEcEcTdChmUmS2iGNIybD8iIDMyQ41CO9PW9kSAAUMOdUlW0xsAJPwf354W6c378NpLh8aPVPRro
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwotqcMg!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
   - name: >-
-      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcLWhBZ43JrQ3gvo9gIP9GX13KHZ0pdH5GxcPEQDkillYnqBHmSwiBsG0QDla6y6py5BeludkyRPruO9F-mc9VnaVQRzx0nWNdlTD4dPZ1sdmaIbmGXyrwwiB8ycWlw-a-J7-f_2nKkmlghQ993F7HIGGnpRluBFFvOvAR7bLnMvRo9CZJe9JJ-FyC-4llZAi5K5Iv7S5mCAAjuLFv50P6sybJDgrahqFr7toMyKrSyBl9wl3qstZ-phLN0KH_qJPmGHUFxL1Nr0RTPxTmLp0xi9o7pQ6Tz2f5zyMY9C-krCGKmArQsY9CmHMWRdNoCWNj_HpAkxnosZJ0NXMt2O2Mc7ORMq44IITX0hE8fx0RcMot3mFV2mH7LSCtNTkqe32GVnD6UVMnY-cd1VmXQtQ5CW9lX8Dvzk1gSDZGLQBg-OMkQb
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcLcw3mDGvvz7l_1XZEqHP7AmJ6hQ9ttWQNZO0rVrDxPDWLlHIXOnVzxQMGox-F1y4VVeRHQWrUZULyjxVWv6GlIpsk3ZYXMhaVZzGcCjrjHvhTOyzq2UbND8NC0QCTRt7GZQ3EmFMRCsbw_et-36_lQDe71J4UkUwXXD6muaND89tcunyTRhiQrL1jh5ne0vTNeKFdFK9wHpFwicBrxdP2zUU74JHdY9oGgiOibkc7d0FILAcJap65vzgKnnz8ACJTgUJwjyumtA9cX3BlhqfwiS3l8tEeC7FjUV1fCO_COH4A_t0fhUS0xC5MvhAT-PXyeKef8IpY6uJP1AEV7C0dXNEE6Gc0mH20ceyCSXKECv6cb-7rOcCyuSJg58goplg48FUaP3bSbyvGqZL4unIVUasXZa6-mrEVhsZryzzJ8lGTj
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnpM7nlAE!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
   - name: >-
-      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcI8OspENRhhH8Q-iWmx51UkKHuAlCaJqadrtb1Z6c0D3tiVGMAczv0EsmZOhZJdM_VSYh8OLiOLCZYEvuM0ueh1HRIJRibhI-n2QmCcHojSNcaraS5GRXvU4NAQprEmcvBl-lk9vSy5E2gFX800tR4YWqy-NwR1ZVk6vzRWlO6G2AVR2lrr_D6UfBB3Exg9SFCqF3CQOTnvYYvzByViR0_iDeSIho70ptTDAFJIyNpvG6RYX11-qzujBAgcn69fLK4XsLj9DA19Wn0Ar3dSPzvU2CVJBuZRL2IyhzzVBPvpoA
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcJ582S2Nnqj9ZzrtltAmyH1Hv30G0ePQoO2oBI1TpAJVO_lfYC4RsqVehNkSFgaVYls6nRZ1Hsp4MyNi7HmUYXHpD5jdm9-RCIeJknRiqc1OWfsq139g46vtilnxFezHYqR03Qbt3uBz-XOKwGlPgTagWTfmbaEtDVgS6_naJjNrpTmK3NFJCjok8ff-0c3NMaqth1sCrtnBEpCen8ReYMTa9EO1MnsIAB3Xzwjj8D99ncgVYxYoSGGiQsOGH6yXkVDeWh8x6TRSK0NcavVGND5Zk2GjKe38n3XW1yPCK2Fmw
     widthPx: 1280
     heightPx: 1707
     authorAttributions:
@@ -78,7 +78,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPYX_rNtEzDLCn-U9598WgPMQcDW8LAgzZ6n5Y7!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
   - name: >-
-      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcIVgpegn1crCHWMyfEEN-f3GDjRniDovCjKNTiDt19x7XPj5rjhFdt6B36prAxwpr6ofugzWhUJoGDVRhON8W6oi2pbEPzG0vvUI8_fAsJ_qHXxVwUA2IyXcoYk4tormTj0m1NU0WHHuWkeL_e3nnow8Y4KHAs6JeH6vjOhHXDeCIlKJeHhQyM_WHhnbMd7DzqdNcV-hbvcTXE-kv9HmouPGjgHbHwBA1WXNLXqHS55Nmgwm512QNjYRn1QkNZTbET-CCT-ZvZiBumODQ9R8xp-GGp7AzDxgwAIoMHPOMdJ4r8nSzyNT4uUMGrXqYuy_15kkWGVHECi4VmRys1_lGHJ8sDQgQWWePPJnBoyLeQlzt3aoRe1ZH15ud-WoPm3KeZ-UKc-tsPAQpwfDX-8AD_zluQYLvc-cST7-d3nmRRE0A
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcJ8SqrQr9rApHxTnfDEP-F7d50XAtnRkT9lgIcIrasowAZZjivU_6SOhvOdqghE1JT4tt643qMTgbYA8Bajruiv_iKmdN_e9NmT91uAyeGVdiiWpjIgSomxpgUDCUxEDRiH97ogn8DHXuZ9yCu7zIwP7GEboqpy6nyTuCV5M6bykoUwLhuEpfo6X5ODx8HEiePl4qLw8kghFT5vjekf168Lp2VdAwXGkipUKxxcmFVYBhOrUu05IyOg1YuPIkd-YJG4b40kRW8qSfuVM9FOd3fUvWMr27z_tbTmuI-Kxl7fNFLk9U49Eh1vEUjLVs68lmHLBrPzRnWLLVKSyZoAWnqrmjRLaYgSE8r_s2CtTNY0vbTxTuXiFE46oZ_mevpf5eP5HNHt1K4u6IVovji8tu6iWxFqewWgvBf6zn9rzLM
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Dan “Lokir” Starr
+        uri: https://maps.google.com/maps/contrib/110393821261846069125
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVGXCTvGZF8v78bjqF0MQSJMXFZCPrd2fUxgtiifvFzNvBfmnuLFg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP06fRBA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP06fRBA!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
+  - name: >-
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcL6-G5p7APGnmIXEzbke5Nmg3mgNmD4m5uGd5aLtbD3Wu0CXyopt14IIw_Q8PlWgyyViwrgMDlz_GtwzSjATPPj5OdWeCafecsPxueNpMKgheh3MNSSH3lkMwv-6ltfLrNkidSvuVyitoF39wrjMj1xW2dmxvNMA3g5BZ4D12QaQoGVXe029hpgtnUfi5bpNRNedJ5JRjW5yz9y1N1Yh7DnWJ2zahyaOjxgovEZR1l2bhhSgJv49e1pzxcNHAYRCigIOr_7GaFphpWP8gtvcTUyuhue-XU0H9O49kxY0lYjd1WzNAJ4Z907gz7qQkkx4dJzpxZdJWHLD0qH8VrAnOmN_0B2Tekcs-4NsAdV19EdbUke4GPprsUNI4F_TAIPGLuHsWYydrMBekZqMGyCeLX9Bbyq9grMfBTMW5RJqERyMQ
     widthPx: 4800
     heightPx: 2700
     authorAttributions:
@@ -91,20 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbvvn7RQ!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
   - name: >-
-      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcLbctcoFUOayffHJZ7_aLywK76UvNLSiCe6X34PoIqJ_y5DHe6-k4r4Yj_T9buRwibn0erpoj5Ppdt2MbBMp8XfeFztSOdFk-RWggdNSM4osRkAfGXkjCviPIAyhisJSyTjs2R4P-2ImeBaYnkF3AZRRsaU5ZaQPWnYwqPvsQRVXA5bWh1O-oZoY9TsppQQF7HFR-BLpt44BBs3drLhEVD5M3oV5R1zrlK-mipOVYPJk0BFmH83JNe14uu99RKs8IzeHXdd9GbfdvTZ-Z9sLWjrfCtjs_HBumzjXv6TO0TL3gAdP9kNuxPERNINMbB-XUJih9xjecUK8g3WE39Cx0bEABrs0mo-jwt8BAsGWUZElggwKfy81CJzLA6Hr3_1cRasJ0m8ICLzAxLHWSBfrMDLD4EfuMxWfADa2yKqP1Q
-    widthPx: 2992
-    heightPx: 2992
-    authorAttributions:
-      - displayName: Dan “Lokir” Starr
-        uri: https://maps.google.com/maps/contrib/110393821261846069125
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXyPueHQ-TRKsGRO3qvWXfwqet4ENZUeypHoYVnTwVYf05MQ2RqGw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP06fRBA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP06fRBA!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
-  - name: >-
-      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcIiBZBq5avIUN2YKsuvgnTqbpHjO0fMrCZhY7P-Gk4rBKiSPD1t7V1EdUIJYU_ju18jRK_Qd2CHwaJeeCXyzViOkvh6M7Sk3EskFnraQetHjlxMLjUlq-6vXIOotbn4NKwJbeZ3Mmd2la8hvNpxT-6LIj7ZDSFTrrZ2_1ixurNXJ4f6jgxOtG_v3UIaoa18TvL1vMn9947yLyQpekSzBZ33qrSmDFBgYP02QBe6NZOVlgICKDSgHZk9E1LJgMWOc2sTuAJWOkn9O__vXSJyNEuO0oGWhuRxvn1D_4ih6YI5_w
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcL0P2vZp_rMVH20qfP8d2wgLXoqxlfx01b6jwcAKwBYc2KaaBX8Ry57wEA-SJVxYczMIOZ8Flq9PmYRNTZoyV3f8TsGKx36jn3jVvsl_mrkaX6DPzD_vuZDywvu3Kcd8kXiy15kUQX4THSwNgLm6al9Uo14Rgi6ehGSle4_2Mut3cWeGWaTlM0JHOQA4yMvwxTXofSW2cKNnRCCUqao-Leyca20IQcrvFQu4g7KQ0N7UlE3JXtk7UrjoJydcyUjUKbPKh8lG5-fbMeDirkvsP59SPeZ8HkdqzALAc_QZBdwYQ
     widthPx: 1170
     heightPx: 1555
     authorAttributions:
@@ -117,31 +117,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMZCRy1YAVtCQy8ip2TGNfcTf-h1PbySfKhdkVp!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
   - name: >-
-      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcLEcrFmJgXWlKZ1QfutiiRKpqHgDB60u4xdLL8ylw6N0IOOCijLyUgLUAGFauXnFIFcS-vB8nT-wZhfXlsvNjB7sZP4Z2_3meaUnoMHR-5b1CNCurGV9d4EqyjpyT-Ig9NsWY2W_7C7FYBMTTJfbhBhMngkLpBmmBjw9CCCAfjOZku8uSnqIWAc0E5SivTGtL3yVw-j_BhM5FLQX6JP87wIWtboDsry3pKVSp8PbjBd56NG8QU7TDZqLjwDtTNAeCoJ53PYY_uzzba1lrfQypVV3ov4sXoSB1hllHBCqg5bEemKw4HSwK7s0hpSbgN7tQ4HOxJDv6_sDMv12573aBf4Y7P1WuHFGXWBK93k3XwYnllvwcxWllhlUxJ0orr9p5xuxkSO2OhYl8_OOPmKoA7ZPG6DL_ft6VWQZo7WdCYsprku
-    widthPx: 1536
-    heightPx: 2048
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcKxXdZH_jRqB0i6Nxji1nuLiDHpVD3k4f_GaiK9xl7kyv1GdM3Sx1-K65vjsCj1lcijZlAtxdhaOPkIRdUvhn7664Xf3P0COcPpLPvyg-QomtBhyisEYbOlEUMsOFLIAYiqr4fDl18tkKUFiO3PhVtL-z5xvKf3Ra6VOOQQkufI4UrnEOUjMRjEheeFfqVUrQ71Z7Dnh7mYwmFH6HBY-54zjgwV2Sl2Zpe2m5j5asStHaCx027chnvduIdLLr4tOc-VtpKx8jGRnIktR4JxC_HmH5hdLTYS1rD-B6IZDxYofo_0uMrzagvnJD5otc86LgJ5jPLZoOCpGbZMEWJSIMNw0QGv1zXoqBffdD9IrHfkm6PzhEKF2t-VXgXzhZ3YrIpdTb4MT__6kfUOMcOVpc8Zeox1xD5h0L0VS1gpoWGwp6yn
+    widthPx: 4080
+    heightPx: 3072
     authorAttributions:
-      - displayName: Gerald Points
-        uri: https://maps.google.com/maps/contrib/113161954166138510129
+      - displayName: Yeda Ramirez
+        uri: https://maps.google.com/maps/contrib/116920127489620539667
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWnwEeuzDC8FaHYLlGf1PRn3RNbTwl_TlYWFD4Z1TbbV0HKkF472g=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXdF9X3YUXVOzs9YD4NZrj1EaSY8_69rt_ZZNPSYQuoXPysGJXTLg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDT5OzsqwE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7-_KboQE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT5OzsqwE!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7-_KboQE!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
   - name: >-
-      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcJVFn_1urU67uhz1ZmkFNeqZDvsHGmBj58TL6JgNBzs7VflWY0xDIDO03qNAumMKsYzaLn_V-3FB7ONiSo37hR80EJTk8HaVeKAJJPfcw8znL_6swc74Fd0zRtfDlcrZFL8HEFT90WV-DOshE2NMXHvoecjEjty0PoM7SlRjZ6mBfJNs-S1BCqAY5aD2_JQu1DpWm5-aZqUeN3yxSdFRgecikjgi1fS8qcAGnGIo2I3PUM8FYoK7q2UH0Q73iYS21fOIxM0Si8rLMlnWgX3lDsh0gYpeb3YbR1qPVQBRlzSaw
-    widthPx: 2961
-    heightPx: 3187
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/photos/AeeoHcL0ifyn9z1EHOo8kAo198PIoq0OdywknJIZBndEigzshAC9RHmkp-lnIwz-7PQpF1MNPmPUUV6-vEAlO6xWvRtVGlfmXoL6bDwZ1fbsmMA61INlimgggtb-lRBTmkGxWnNAFxNly88LMgNBpYWMlT9ipULWECilIWYna2D1nz_tQxHCh2F1LZ49NoPRMOYFecnK--6s1MMxPdGY-X5vYe4giMnSWVmcoTcLTD6_3-uK5q9IJLm-d41JVd_gSJdICJFbYebHqNsPaQJCwqxc0wo1j0reSXBe6GvNZ26oI5EaB--4FAOdQzhflVDzFF4-pD96dwU76EBCxxpbsfcPmLPX93cj8D5L3oq3VFc4-OKf5OgNr1aSzYTkPtOGYNo_bGDTWjUM1__-bbVAca5RXt6UX4UGT7hpdvptxL3keKE
+    widthPx: 2758
+    heightPx: 4080
     authorAttributions:
-      - displayName: Miyazaki Sushi & Ramen
-        uri: https://maps.google.com/maps/contrib/112658479430635690246
+      - displayName: Frank Javier (FTTPRO)
+        uri: https://maps.google.com/maps/contrib/106566352525177463314
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW7p7m1Qhn0TFA7GPy6rrUAGbnb6kqJAGNuiE7D1rHgRGKo__I=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjV3jWN95n6mikMrPWmAqEazNeVayOL2p9ZrpSHuLqt000sjV4aWcQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNUoykQRIgKkQVlG9p5vLv_UdbFe9-TYxq6rtfE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH6aaLUg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUoykQRIgKkQVlG9p5vLv_UdbFe9-TYxq6rtfE!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH6aaLUg!2e10!4m2!3m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
 address: 15824 Champion Forest Dr, Spring, TX 77379, USA
 street: 15824 Champion Forest Dr
 city: Spring
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (281) 374-8838
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.9'
-rating_count: 274
+rating_count: 0
 website: https://www.miyazakitx66.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

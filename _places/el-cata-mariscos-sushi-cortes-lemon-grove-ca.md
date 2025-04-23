@@ -13,7 +13,7 @@ description: "El Cata Mariscos Sushi & Cortes serves delicious sushi in Lemon Gr
 place_id: ChIJ5QlpCABR2YARvhAQg4aOOuY
 photos:
   - name: >-
-      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcK6H7AAagqiyz4gN8xDaj2E_PiBYtIJ6RyuaDjGHkf62p4jrKNNlB6QKDQPhs2yPn4o0rAk9gF9GIW9DhneaFKyqke6xJPU7o27KYqDL686cF7fTMkeLRYm_PebuzwmeDOozyh6UZEM9ebakSwZtAHQmU7q5tiqzK9qajTYjb2VAduMxFgUx6eJTC_lpbF1DselIGfL_vgpTgtuiYUolRUfQNUIhf1EsY8-G5y_5nws4mSznQnwcz9zFPHSK7GPfdXLYW9cNdxn7_9zuZcCzj9L8CanhPi_yRRna3n7WvpvEw
+      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcLHlj9f8DKj6uW9w9-_CwqoGFVX3uVb3poSClRvXwwYVU-hASqELovux_4EsMB62DXTvlN2aU7KMMD5-tv5lpNqQdfdv5zvsgeJy29m4Hg8M2EfsjU-u9j7mdDsj6bPzNWtTE44uMOhx8xl7j9jgEP0UP8DLhlDWEdAcPyr8i0bvYEcwKj4c0z76Pn1fAJyzId2bOa2uVmkKk2Jx5vJIuWQChwGGLyDoFxEuYwjOcqbpYnXwv-zxosoV6zKRTR71hXcdiLSYBXKTxsq0E4jKsY7tiRtkTzc4n-en0l_ZETtaQ
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMgQgpf_OS276rDzhUJ-jWPEsMBi0klsmBZvwwR!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
   - name: >-
-      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcLud2OUerLE5F1YIOgDkbfE0XSySP4yyqJ2_dZ4-ldUQPyisYAzh8VvKeWGcY5mAmrRWbYV71j5hz17Yqj-kxExnoiD49O0KwFXYSQNFcwCVBPxFQuUw_LgRxhOapwSPrrJee4Qo3pgNujBAGwUZFcz6K3jDRlggZoHiG7xRtub_JGyED39scfR9XrBtlcLifU9uPIwOxWx2mhUdvslGI_S4TiDmdNLeA7MI2lbCkP-T9lbR4chGLGDSb-iflpAefKRqTQx2XPV1M9xay7lp-ByZ0_6Z5YJ-u4IanWEfsoi-g
+      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcJj0BJ3Or8E8jn0pzfevFwa6TWEcF1LPpf7XC4o4L9h0lat2GpP1gpJ4UQH7oAJ5DZI6WDZfuXaUZHyPz6hy_vSplCmtSA4tR6dWGcCTwjkODYtg7Y4hSPn-dLjOILjnSou4PkONRkNx42OpjTMnMKZN6uwAbcdN-S4kAKLpeRBjMSNF9Shhfla4z5tRn-xszxR1tkenlaAxEYfIzA2JGvEa-rRJ8cox6zu4ryoVvwccHgGSEMKQUrH5ZEp-yMfPDpahlxCsUdhrABJA6r6KU8cQFDFGVk4n0tZr_luLJ6K7Q
     widthPx: 1508
     heightPx: 1600
     authorAttributions:
@@ -39,7 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMpADrskDob_WAa5caZbNWuDCTGM-yNodOB8O_R!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
   - name: >-
-      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcInmAB4o4KmRvUrC5BzqlmPYiC6wg9JV5A5okf72RCYoaprxh_9Ls6DsD4XBQILBFYIhkrSfcjwGmpaKLB1jOR-3TAqG57RHjJTbGOU5-mtZ9peotczTqIJV5hrjvL7GDv3HYNp2JNq0nSoZXT6QJOI8ATeosuWKnan7z3F8qs3yiGrsBXzJ1j4FU07YaDeaJN_5KFEI6VNlP8UaV80OdvGdwY7UHtKOMWAWVRyosK-dUuU0o3DHfxNG2nWj0U1ed-56Yypwd4ajind3XeVQUvfbSRjwqjwW4WHFhnCe1rxRQ
+      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcJEWbEshBXQEzgmzzToMipQG8AYw4KJ_2351ETDkwCuz3VCPlSn-ugxcmO-uTXY8WPeJKUbSvMOVyhsRtbGp3fNQ_ka28z-Zf1xDgU67PTaBBnKfmtseb0Gnm_6CFnTN94IzDhKB7AaloLTvhT9ly4RswDtEfREQNg5aub0sDuQIApnskZ0wYgi_i4R_Kb1v-FLb1C9lzV4M4wLfcor5W1VaDQ2yu1_UJcgFkzR7i3No0ITHzyKD5DtEh_Wb-OU5IoDoTL1cB8ljz4BCMQWMjwo4I2UZxVNizTOQFkZrXSloHHhOS3X0npUOxboAJJ0zd2s9Rk0RRpQdghoCegHLRBUPPARv-hmir42c7gPsZG5oVqjqngHMFRBOLy7YQSwxXTYa4mjQP5gcy4KSnmB_7gkWXMNajISLi-vy2xdlWvkR4xV
+    widthPx: 1080
+    heightPx: 1616
+    authorAttributions:
+      - displayName: Cero Grubs
+        uri: https://maps.google.com/maps/contrib/104993850679341114875
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUkAvY7sqZPNVkciX6sLYJEkqM9SaTUhWaodW_0TzNpIQfLfylKjQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCow-e1hgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCow-e1hgE!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
+  - name: >-
+      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcI5SZpTNWIBF3it1SFrW4viikOujqYEzyoRjqyqV0WzvQfzZzOAbKFwC8677GPdzpm6q5Qiw8MJB23Ou0KaI1efdTdD1NohfZXfRKoyPMRgsMSQB_8QwfHpabzJl5M7aeAELyzc5J1VQ-5Fsnfr7-Cx3_gUGm-7YQbwA-sRkxo6kqNAS2tZevbeG-KPPYE9vNChJ2Rdo_5nfLECDkGAOIzy08nVPT5SRrDhjHey2fWmfakyd263GFElW_K4S2UN-uiLbl0mOdtjgDA1ONexxSDsskudJ2QVnfKY2_4e_oT3_g
     widthPx: 957
     heightPx: 960
     authorAttributions:
@@ -52,20 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO07jU0ctaYNscgEOkEGJk_nYsd4GDFUIhftBN0!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
   - name: >-
-      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcLACV8Mt4taOPJojPOvJ3oYCQokujsN1OiEChP06zCMAaKPA2BUZCMyY8HZr9KkxKZ21_3wegKbVityvwxYPtSeufkZtbYwDFewkL48YOUqDcZvEYAvzX06l0Ikf4eBgJv0WhIyepkRwULD1W5oLh5Ti7kheeBiLFJLKPSMoiF7HXEfqUuDlc5zSFJgEc4ERrXdI_L_D2IjkZy026-9qnDfp3Oye_uVLav7xHFe4M3-rM-9BbDoNbL9AR6yjJpNvN8asfWxsTJqpN0AXQVCzIFlsGtASgRPuOw907vQwzMfvg
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: El Cata Mariscos Sushi & Cortes
-        uri: https://maps.google.com/maps/contrib/109107247745343786911
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWdnjw1nWkfHo-aM4iOKNQqtb9GrKmBiTX4sFCrIKxopoV_3iI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPzw4BgHclvmrWSa9jZ_qjIunIJRxSCOmffnLjJ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPzw4BgHclvmrWSa9jZ_qjIunIJRxSCOmffnLjJ!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
-  - name: >-
-      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcLEJT_IkRrUv1eAmvSHXzvckMOdfrEPA_ROgjx4h8Eu-jr2AzV6Y1SSXDY6kIGLpjIrivwMNxIUHimR6jYEAo4K_3XReFNiwodSHWPX9xwGxJ7GQeXmzushGv5cZyewnY-jfgAbHwj014jSpRSNJiks5iTXqu7-wbuWIdaHj9-KJjZyrLssE_amcOBi0BTArGdEN39ozhbUJXknr1Ggr0sf-gFimPekscRIqgfYyTD0Zc9A_207DI0hNhGuojoZktzczXC1n2tZij98hbp_zF5VWRDupU3uggMKf-YQrhltvk2l4gZm74KwdI5GCfXsU1zS1X7wROPuAbvGp8kZWt3SJ2HCA5n1mB6Z0X9Kmn_JxmtXkuv-2neL7Bb3Uqeq3-dCQNhmkwjYiLu7kw4VJWCqOzchLs2jvGIn3v_LMocrviSmVvI8wgcBO3v5lg
+      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcIaRNPwpJwDCCSGM8QxyC-vTz1qEin975bziTb3JmgtJwQDTWegd_BTfhY-4-FNQjK0mOsY-nQZ9zo-vb0Z9XcCcEEm_ZYOk4wq6QPexRTIdCKXInffgwV0OkpDgtR7B7JAR2rT1f-Xz5X_qSOajG1ynpK3ha6m38tP9VzGoouZZcl8K-EhpE3hhD_iMkOnBhdwJNR09tW6ggqy5EOY8PDCK_d0bdpSU6mCWCV93tsvCeQonQ-gVMGx-72MtdhDawSCDwn9wNOg2KEWkA-CxBd9J254P9E9UO_OW9flx9QeRQGRjqZcimeT-YzrDjp5yDbUP2DDaZSUN5wsK5U6h7o5plubFU7ZJsXBvvW1U8DQJ7Kmr2ev-Yrt-p41mDDtxBBeDy4Yl8XZ0kw1t_br3p_IJl_9pelE8qGAo0cKrAxAcWC7oYPXZHGzL7aWfA
     widthPx: 4000
     heightPx: 3008
     authorAttributions:
@@ -78,7 +78,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERBDgdHGfkS6gADUfN!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
   - name: >-
-      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcJkcxcZ6OY01xwKjNqwRIkZP87lSk11Z_tbZMT6fEHWR-aEqGCLfHWJXSiCPtH9A8VjCssw9RJrvneDAg-A8Nt-b-Z5XbXStHlMU30CbCeFiS9PaX8m7tB_gt5mO-H9y95XEo2eb88PyhFQ4zID2ZGO0hr9qVVTT38F5_i8BibkOPIGiRM6yxAfwRTD4kWhn-F6PG7AhR9svI3CPg8zcct_SvnA4PlczOFYvddCJzliB66zdYUe3clvO3qu_PT_5pt8Q_i6Wh3_5WuktkI3Xrm4Mv9NHBE09H-oedBVoRF_yR9aou-bpO7lqPWTkgD0jZovMYzC1mansTQBbdwaFSV-39NZNJqEuvsYPwYWom597ijlfFwkBoBx3GXmRqwwV9RrI2nZ1ZDsHoWcjF5iXh7gH80wplEjukkkjkJ1FY_Hv_-a63dREGCkPwSyKw
+      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcIKTibJmKyXI5UVXwTNmejgIKugnbOrHmEx9giEIBCOMTOcEOrp4kRP8tt8NcvZZv2acfWIvZujJfM2GVa6IjkcNL4Ttl841jm_lyG9I9Iu5lQWK5dBASQjdLQ6F-4fYl19_503sjAA6XKjeWBLIi3wJ7k2TtQhqHFqSfwLd1ymkeuDEWqTE-lc24wyh7HJeNM1rJNWOWd9Q1c17tUbfEf4gyVziQLmNpE9fBBAWvfw6O0vETB4Hih_vkv1rap7tEpNGDtFhtiZC3IxRtC6JPZJ6zmeE8j4E4RbFT4d8owkXg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: El Cata Mariscos Sushi & Cortes
+        uri: https://maps.google.com/maps/contrib/109107247745343786911
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWdnjw1nWkfHo-aM4iOKNQqtb9GrKmBiTX4sFCrIKxopoV_3iI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPzw4BgHclvmrWSa9jZ_qjIunIJRxSCOmffnLjJ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPzw4BgHclvmrWSa9jZ_qjIunIJRxSCOmffnLjJ!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
+  - name: >-
+      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcKifQL5njz7b_6EoEIyhQmKHD7UagBOYLqBXlzydTuus-y37RIibqubXDUa88JLn7Js3NHZWV7jeGkdugRDBFiZSlyyqq66o3MzCI-_m2DnzgKhW_4Och-DtvUI5OXmrJFZY2INuyECtzaXODib15WxGK3cvEpXJtRalc3RZ8J145sc9uZw1-7vpmIdV8jDPloo3DhCE6MbXuPZFvGFYPIx7PD2UTVv-Dx1mCbP_tJtXvS95qCsEkzqycLb_cwAPyPWYkYlWs3U2DV5oE2nBVq4EtFdubo4ECjBJEYlbiG8d9VAGly-nsL-XcDdt7ZMsBQOB8dtSBgM46wb7Y8sM0lQVP4vkFoi3V6VKj9mKh_ixbpakjivig2Zrivar1o0GIEfkH4csYtXZsXL48xV-CbaY4LmhwHPjfjeJp598WtSKDj-33Qq-cVxgW4d8Q
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -91,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3iUeGSYtFWemqNoAA0-f!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
   - name: >-
-      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcJXzwX4ibMUto-fKIIBy0veNr04Jaij_5CL5904CFLKbpDPHiWmJBiUFPraSMHTc29u-eJwQ9UADNABZGCme4l-EwxTiHyjzYvPi0dnjpkL4gfCTbZVV_jzAKPZeW-p_riIOgD1NfSGBiysYDWGhc12f-BPfc2ksybwf4LaiCMbjgOh9COD1T5cTKatKXfHTPtpi8DCilZlzgdiqTWMF2ABlkjHzowjm7HfT5iAsJM__Y8JlOHVBuwwWOgcHeXVXGPKV8NpT1-20yCPU7CZ2uHvKkRbpCjDJWvgumumJyvW4A
+      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcITD5FTMPXpH6gx5BWo5Y9JcoltAD6spHVOGNXhAP480sOjvEjEidewxR0PuZepQuLCgC2COavlbItviNKYLNLxi6nMqrVNxv7DdEOZFkXHqHWGcA-SimFUKlQ7lbLR2ZnP7PPozJpilgNSCuDAqAaJryKwhl8Rczfjjw23S26o00hXgR6701PDWAQ9_DcEPw9KleTjKeCCbzlZAA12qN3k1c5z0_FzjXfwlJdZRlsSh_hKc4loI8_TleslAs3cPHo9klRIsT0gW26F6wO63CkBzqM822nwSg958n34wNZ1lw
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNXrGWGh6r1h-WPCnFwhH06R_fVYu7z2AsQnqsJ!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
   - name: >-
-      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcKGGbi5SWoSZP8SSaNjAsOG1u-rGODYsKYtsTbtEReCRe14CqN4F_B3JbKRRr36b_uJqd4Q_swc87XdZ46CyrJTQLSbejl8mL4Fm0nDN0WF2OSq34h1KmL9Ki5qgUB-YrI9xFUbZKBMSVNcKxAnweIX-4ADP7hKpNtRi3v1nXYz6lLbp9AEn1v3lXWd1Jk2t0cfCNWO7ZEsXnPEfLBtq8UZTt4QAp5-8kOl537yh0ZTNk2_xfnV1TeVOhF9guUzlPLX3dhdd-qZBFN5NFMlS3i9ZEnrB5UM3SOAt6keezHzwA
+      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcKAMzotO9gv_FD9xNcpTJMSOTs450iay0eXwTFTr6-ttvyZX2JYqo3cnEzbrRP7Eei2Fj9blkSr81JYSfAoHcD4UMOZLrnQl8ujMZN4c1SZINYCEjkjW0VObvTbbOXFcQBxnvTJduxnZ5ol-2WeJqPf0Hf__R1fCDxwUafEhS4RFK4q9pKtcCEtVfCo3WRjvf--2cWkJG4KDVNRh3eEdaGa0dkYyYXsBbQEDONIKANpClcp5bTTW-H_EUMwwJkcqT6dyt9Vu7kTEWfHuCtb9I1yJI06IMuXGw3WkpkOiMuaww
     widthPx: 954
     heightPx: 954
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO8fWHtEyIjd8Xra_m6njwgPD9eyqmiE7cnWYKt!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
   - name: >-
-      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcLpeUudPhse_oYHbmnT4IX4SHwyWjmUMDuIOJKTZuboQuyL7mgLQ_aa6oS5OyZUoFn6N-jWWbqWxWp1zlgbM8_6OOETw8H7IE-t6Kof7J-EF3IlUKpTWQ3xUMO7LFv3tmAUnPO5wzp0IC_t730DNEVFUOqsRYBPBhotSbONKc4cYlzvz3fvHKxYKwqnYEAEU28e2XYmUBXPRs4eQcU6wtpowQL8x79e4kqlaMgZdht3ItJT-R25Iqjc2oOrxDB49NrGeRH0CHKt-M4kn08pcLcAT3vJDHOXrQJEjOmOkrtdC3GcSdhHuRR2F49Mc9dKwi3tOWwvbTxlMu67nWG-vUBieIjOa399tYimPCowdJH1eS9oLUs-Yn3RSIx1nrz_iNuCPRzTtV9dnKAFYvY86jgq9Xv1uo5Z_Gtpxt-ey5VF9A
+      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcLJjWKbZ42W1pxa47xqgFQpVhiFOds3SI9Sfxu3gXNS8c0Tbqzr9jFBhymJruCAqXwgcFxvqL_mGAGlwaoywsKskFZu_W6CQq3hWiDLKwu7bVSaMrxgLILmZnfB0zJmuim9RJ47Mu1AVovQINIK9MBxF9JyciI3SkSgxdOQEJq2J7u2b8cgxtU66u8TKUUgjNPuh6LN8KOuPPaZBEbYKnfN0MZ_QQ5GXTZ9W8chgzsD8qRhNFpHdf5e5ISoAxN6utLRic0PgkXkVmEIo263yznTPpnvwMavqhGvtBIZFxkLnDLUN0jWO2xAWKOcddUfFvW2wMmDxTSjV1MF--xE6T9_FJ5VVIlOSY4qK4q9WKFI5q6My3Q_LMDcb0o41E9cwh4Cwwmd5TugINHCHwJM5bCdl8WPLKDQZp9N_mVC1bNXCg
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_45veXA&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_45veXA!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
-  - name: >-
-      places/ChIJ5QlpCABR2YARvhAQg4aOOuY/photos/AeeoHcKPpcHGmDSE7jAIH00aHcUxImlOeHLbGFsoHcz5iZvJ-jHyvLZQMtmgq0H6yhO6wFezwKjOBMQA3nitAOZH2A5tV6a33Ttaei9SpcDXa2obs76ZkkAm7jFfLY5HuTlpWN27nEF3VsvV2I_lHy9y1r0IGs5CrSgg6fIcOzjymrIB2D3g8JTTuo4hi_t_L70RhIrZ4NJJw1b2degrh0Q7oSWacg0ePcvGuur8XlgeIZeg-_JLjhvPCNTmMK0qwZqeMNDGMboWGNYITJQRp3JVmhhTb3PfknUEPbydeX2gljA99y_SBQ3XwvRVpHkVQZKZVW5Wuv729IO09f4P2rhrfGIPqzxweUMpkekfAH5b_fOSFlGgKsTNhCV7Nrk1LZO9YGJ8tLm5Dv9Lk__UIFwiCb01T4I-jG5YOB8nyxDHGY_ohQ
-    widthPx: 2316
-    heightPx: 3088
-    authorAttributions:
-      - displayName: Viridiana Castañeda
-        uri: https://maps.google.com/maps/contrib/117824718482351545954
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIYVQHhiDSUVPvzGlWzFgyxir3z9ho6H7lMGxW5XDd8KowtQag=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQuYiicA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQuYiicA!2e10!4m2!3m1!1s0x80d95100086909e5:0xe63a8e86831010be
 address: 8099 Broadway, Lemon Grove, CA 91945, USA
 street: 8099 Broadway
 city: Lemon Grove
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

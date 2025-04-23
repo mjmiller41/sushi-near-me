@@ -13,20 +13,20 @@ description: "HoneyBee Asian Bistro & Sushi serves delicious sushi in Aurora, Co
 place_id: ChIJKfO1pZmJbIcRqWu2X-yioXc
 photos:
   - name: >-
-      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcJf2aQ97MugHH1YhOj7za8Tkp-wRGWA6tOi7VHxrVLZrtdymZaGjjxnxYNCknkZeiJuoBQ2Tzm9uVJVBGVZ6A3LHe_GXvKSntwaGvCKHqsnLgToSG9lkKO4C791wGIYgJS6bHbN8hXZYzI3lAMKmGQPH834RQHjTC130D0qQzBt9ClksRX3b0MzLPHISICRRkRnXvheXO0ZpHKt6lisZIyensl6YiafyI6Cgq_ZCIYllvNgCIXmOPtYosNySDu0grREmhbRUCvL6fFAv0_2nwEQSMMxxITdlEnEmnXHTb3hAb3eCRgc7aXTe9LxaIWfteBY1eMgbl8rnx3ouFFl5wqYCa7J3f4c1sMHIk5Nv0iMftUc3I_C_nbORa4XQ2Ld_ZvjBu4gm0Z_M0oJ-_WJis7fRhGp7y1aOUx_luMud7wVM-LB
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcISRohMOGSbvz7pNyMij29QP3uZ_oMZtz42_Gk_P7bOJnJw2SkXz0EVrkmjw_AitcouJNtnI48bsp5gnPyCBQqo5ljn3qTwH5_vWI1oBJX-0xy-zxb3iuqgFzajSHItfCcLQgdGgAec8Ze-kCho3EJZbQz75JfECYIbpLjwyBy5oHrTs3Ei4EpNCAWisa6p0d7vQDLGQKR151Ki-7uHJ7gdlGFGMN4kuVGuukOCNw_UaHdNto5zSPIhlvBxiDkHG4tWJztxR63GrfJaNDfirMwcy5F2PEsd3_HMSMQn5Dv1Dc4VdlQeWcJfyXPDDQPgAEiZ1bnIWtrbzSHkZtHBkb6VpnZKv64hKCt6Z2uK4GhzrQ1hanZlS6lj1gYOEOdyYEppFrkg_aVNUUBB8qldnUYysTpI4ach9Orm8Beah-NujQ
+    widthPx: 4128
+    heightPx: 2322
     authorAttributions:
-      - displayName: A D
-        uri: https://maps.google.com/maps/contrib/105581815429916087481
+      - displayName: Bryan Peterson
+        uri: https://maps.google.com/maps/contrib/100190139404279555256
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWCGwToKfoeb8aqJvAbAAdrj0GH3H79ATWHxTH1jcIsQt336WHVaA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXXoUIjZksxZKQ0-Hp54RXmVJZ8G7_-IMTOAAKI9jdIGQlfs_CP=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-jvDhswE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDcndLxSQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-jvDhswE!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcndLxSQ!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
   - name: >-
-      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcIVfFYO10jgsCQMrlDYYDGLRzD8OkxGg2T_SE7Ru_4v-l8TdZJdqwBvcJvFpvJM9DzxHwHq-ES07sEG9JAw8M-WW13qYG6YbIsPcwrIoGzABSi8X9z2MSCASHqhc7dJwREfTuG9hYcd1Hv0ptYNvssM6aICVBFmo7Ij08EN-RLtGwTgZUZhDs4VXHc5vVOFS0pjOh9qOj8TYr7XuVaUmHpxCJA0Bxv8VGJgFpNRe4lISEykCrFL8UAHcsnffxsR8eBAxrRhN976m8APvZNZyMUvydYoYLx2Rk5mK5WUPB_t5A
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcLJSCtDIk-6dTnvJm5TZ3sMyKGmRtRZD05TgqwRwr7lbEBE_dDy0Qc4VArbi8qSi2qdGBmzdSdFqY72DPX2Jx_t-Zp38EZnfpB2dJ3FvP4tzLU6iPnPJhbjzTwD210fSqPsZ7AQvK0oEdvtagdyG-UpGKn0ZamqecTnA5x0NYQa-mmmxrBC8f30QGxxLQyzUJ2F8EkUXZeRrWseT47CAc_GywCkh_Qi7kusTWc-0AS7BN623R_pBVTVtX95kqddKJcPPhN_ogHgLbpQOl7V3bQH9SSl2v94PB0QW87cDLJQHA
     widthPx: 1066
     heightPx: 767
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMWLFZ9eYjefASk1XkSaLaOB8Ue1BEz3Yq22T5n!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
   - name: >-
-      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcJN8wJOG6QD1u_o1nDYmm-D4c5JTA8_pOQsSAEHCOc_2N4DeSVTnfgd93BuuApSilR0tu_NVMtwCKz31cu2tZlCcdon2sUkiq-nTLyWMiONBMRl6hdHMCwk-v-oQuhhZ0y-SGZ2sY1QbvUeYUSs2SPgWoZNgTpCSiQHJmGRX1AOgfvAaDRF21LoutJkTCxaDCK4rShfPLewSdfUJ17Yo7_6DJNXAbnzCAXXy-vFYMzhTRQEpnHVdFcvuV4Yz2YTsCNTwuKTRzC4EjR-PwPREguzE7Vl7C0cv-3g7yGFucGQNTFuI0N23npPyX1HevTzp0fYU3Wn_ZoGNODSiQdUhakjQfJVjQc2Oygt0AMTXYZPmGuE9_syS1enVDhzEIng7gKH2zMA6bvt5QTisNyop9Nv9dz88py8giF_g5-AmMJ6DgN3Kcz3ieoAgJXQdA
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcKkNOu_Q3IS4pwRTVZRlmJBaxEj8xaum0cssjAgk6IBRIuhLIuolZ-g6QRPjjt7HZfhxGF0tSVBWZjyR6ZxwgKovgGbZ7P8WFlyq_vdOUp6gM7PDxGSMYs2XCrRvtQpH9KisRrxThmmxFlQAe4vPnQIQWdjyTxE18yPCNvYaKGnmxmyXcAO7zy7cmlghdVKNsdkRM2_iirw5pGY9By3PK1bpCL_PzaWeM0KqJfkYN9OP96iHEizlHzrxAgSgb4F-AnGqZlEyCBrfzK9o8z0GHjhkMZNGQ1fiwGvfvHBI7BRIEGw6K3X_X12xSTLenu5si7ocoWNUA_8XkjNrre7p6mDK0OchCC04Dr0w7DnpVI3tAsVXJ1OKPeFd4ZN_bNZKUIUX4kjkWEAPA0EgJhTtqkXs85NRxw6fw6QppAUU8V2y0uTfqAaqESHH-U0Gw
     widthPx: 2588
     heightPx: 2808
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQ8wRH42f8KP4AD0Ei!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
   - name: >-
-      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcKffxXBx3c3OryXEovScnpJ90yFtafQtxoyQ1qrKocvolkL5vFzOm5D2eSk2RrbNZylaIu0BimZS9lEKQPPoXLGBn38Pr7Tgwu-LY3nWIdegQQOVJeTizOo8ZGv9dhCxZNHcAu2aYLbot45oNTJRJ6Mq-TaNyC2_2IKeOOjUViEne69DywNp75RInguVx1PQWeJucisvME1ZHRfrILZ3eBvWtX8YLwN-VaPLHEB1ZoFK_7os2WjFKivMLRKNd1qeUpXmvh7qKusgpXSDDp2dN3T51Vm8uy-Usq5o8xVXbFx_0F72MFUH0zX3zV98Dtzi9znrw3UHVuFXgtiiclf4d-IYcmr8zp5_XKeFNBaHYY12cZIOtVtRVqbJF_X5OCpZaAc2Ml4aTVdnsRvyKMTDr5OpEminNhm_6wtr-YHAfeEaHZi
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcLKFtWdXwsNEvrKmoPV8w75JatC9KjFxzt7rNu0tub0iDNTem-0koLDHGVe2NKrPuglFJe7zTKS4TV9usoVRQcFx4qNwWdNCIc5wQrcLSg6J82ooQDfvNJL3CETXs06CQ6_I4sQ5uU5407t6zWT0B_JWtKTTsoOtWL6x7UzrpKWua9Z0rzYYoYI2OTfOD8AQRbBvunr21gdnigTa8M-4_hjIufSwE5VZk_5yOtvfmlh3Hs02q1k6Pel7V_-8bb--VTG85U2FKsGS9ZoHMlcjImMnguWnq0W4aM8erfI9Y4UUsZ1BY6w2-QJM6w4aHyaFTcJEMDwXuSQ61tHcNYYA1vPRYaG0NU56JW3eoZSbTHi70hw_-HGr64jDWb6_Z6LlECyQBwlRth03MfAKzo4T1F4wYWkajijHm83FexMA8BNd8mQ
     widthPx: 3456
     heightPx: 4608
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLkLKJigE!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
   - name: >-
-      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcLYR87AtFq99ClfRmZxOccmY1n5S36vMtGY1QHKyUSPt6EGXp0tIROVzMzDng2HeHizNgFoe0hFbae16lhrwcXGubuhrcZSNazqQ0V5ug63DTrSxzb4eCvW3hRJDw5-c7vVykYjEkGttHbZAq_sX7wex3LwL0Mk5CDQYnYXJith3USh9udyQzzIdpdQxXmtyfWC-lqsvLW_3yZz35SOtGMxa0GqRh178qhP2QLXBPLwb7INPELQUVRMffF105Uk-HLyZivF2kwqC4VGLWjrcM_Cq0MkOODM8q-Y-Uf0e0B2tCv-EMyg12Hqc7DoukyhYA8n5DPd4eYHeXuIUL6KUu1Agt4o3tfOjjoXKklsn3KooRi0DWM2QdJixaRm3rlrLk6P8haUAu4_AmlfCr3HBHHaWzpPrMb26UTxGkamX9LRWl_b
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcLVTEKLqRtTrkqmPgCF_TlwMIOsgTEbEyMEmm5sCQIGFeukgENnt0xAsYV4oW3W94Aq44_j72OM-CaQ1Y7iJTd2CcLazN7sO7E0viOrDcy0mfIIRdWVjVTVR2ML47dD2Wgo2rzn6iKmnR4xDR4Gou7q6BPptuMnFZSuvMR3m-ScNJFDchTUOz8BmiP8xfVZYP2ycT22gUF9SfMICroiWggLU48vtCybYsTYT0qSvbGuwkUaEFVl573XVSI8v7qwPPvJ2v9P3i71ocYIZTp4uCU3wMlv7qu7Et342SM-EwTOrgww_2laVc9sZPSt4-NtC04mVoq2grAZ7bDi60GgLv1QxVeE8WVsP6NOQUcxsvNt4KAJ-Zabv8DcZygA5waEDMfYzS3zbuo-CkCb8Dn3XLKE1OPq4qoo7AilD4hY0NOT3S82
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,59 +78,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfpP33zwE!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
   - name: >-
-      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcK0uS1QgERE-QwZ7AZXe3J695F2LwijfBcshJoPVjLY9FmtNfoxD9gAaMhswJkJC5QxggK-YOZ9Aaz_spDpGNS_d8VrTWsvfo1VubwyeUnC4ZVq0h7XB1x_G0cftGIde-CSlMWBo-sdoBC_y2SNSVKbzakUP16TU45dIxpgSEsDstDYk9zae9L-bQBGsNbDjdum_lvXfGMSTFSh17XYMamp4PaZfXA4JQprLwgq09vIPeBXvvwMr0azPvWb5xzeJcFrhavGTx86wshS4HJq4DqQLPtzUJUxZUiU1B5cYbr_MOiYD23y-xbDZwA6HDAmsG4TV0fgoCKtvFSH8J9lgiMzaqjs64HnEFMJiB3Vzlb0QEqSWCxjKNdg-uoMG5wD2iK85J8Z21hGFhdpRtY9V8exFI23hWJocmfK5NYISPR5l_HZ
-    widthPx: 1200
-    heightPx: 1600
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcKDOnnnBftDjvLLM-baFcAesVKEVTrT3Ng4n3GZ4oJTVBJLTrtuq1XEWsXSZRchQMPHtg5t2lLmZ8gbiGpLKtsG57sfjjdc36UIeRiSV1QPswhhsbvJK8BkDLta8785z-GnwSEVf4Ag49rxjTa21wZUsxD5LlEWMU_0_bv40k-bVZza6s-IoENUoxloF77ggTy6u4k8BsQiK2iTcCOb5_q0BiybIEkxrd8u93Yerv6dOxWMqa1uRMrQA9_lD8PBO5pj9B8aHg5yw9YfLE_8YtR6Kgio5JwJsOJ1r3xJxWekzg
+    widthPx: 1125
+    heightPx: 1125
     authorAttributions:
-      - displayName: Felix Budiman
-        uri: https://maps.google.com/maps/contrib/117472250072427932089
+      - displayName: HoneyBee Asian Bistro & Sushi
+        uri: https://maps.google.com/maps/contrib/108581986906382829298
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWrd5ajzB1aMwamBl7Ad4MghaXnljMcYoZJ_PrPemb5fBe9p876=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocICP7J_fbKp0XVElPR--zpTAq5LiulUODDZ3AZ8ZMXHwxIMwA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH1qW4ywE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPsku7JG5AuZPDT4AYTSZIeZspwZwQF01iIJj50&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH1qW4ywE!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPsku7JG5AuZPDT4AYTSZIeZspwZwQF01iIJj50!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
   - name: >-
-      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcKGG1Tl0iUIWkUw-u_771dzNHGetS_uzz-MV6dfnbOYbpGxQ-7c4p5uXAJxdJhx9-NWLGDGtYr2W1n_K-Izn21dApBpDPdnqgttglVh6RDRheDZuE2tAVjw2bSbZFqkxTrIPisn57O1E2p0viZmeE5fFnvx0I_2LoBzLlTm4Rf8f2ci-3jgFVUJCdUkkqDfhK0B9wf5AX9AnVRDmrpiNHrZMZqa52Gg7KNtJWgIb9V9lq_dhLEBH8T4RwzWtrdsAvIJUvJABCksc0uKTGRom2qUex3vJ76FB-rwDhMwM0R3__ZjU28wTpQp0fdmEo7bn_wwLrWUenAbVU4rjsuYQFDNIAAR6f2l0VVtW1Bp8EMPLjYFdjn0vWbfFmWFQ_ffSmhKSzR4WMBF2B5g_YGxLTXWDCO0R9g8rQw09L0cUq4njw
-    widthPx: 1600
-    heightPx: 1200
-    authorAttributions:
-      - displayName: Felix Budiman
-        uri: https://maps.google.com/maps/contrib/117472250072427932089
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWrd5ajzB1aMwamBl7Ad4MghaXnljMcYoZJ_PrPemb5fBe9p876=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH1sX_DQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH1sX_DQ!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
-  - name: >-
-      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcJnE5wZZWTYCJhaV-RV09S6YlrB4nEmu2l-Nc0pLDRpmgfYOgOqKlDN3xGZQGPgUEE_TvEmSgNiP3bEcCuJdoG8u9ZF43j-XKQ0XUMPVHI7y598842tgH7Yp9QBNo3h7IlOhPVdy6RaLbgYcFD9YAP-nK1tzTwSSrYsa7XK2CtRKWKH-ePJFUXlGj8P1uW2mLslDs8yzbMllv3fSW70auho2aG3FA9AnnuGGqZbQWxfj2P_53k1FZd5oz_fTkywJRrNwkTJnUVUEHQBeANDgJ-tQk0LawR9Syire4ksAKzRY0mkIllS9ig2ajfXptS6_m7CVc_6xJIyQR0_JJafxxd6jvpqB269gAn7akd41ZHmhJFK5RZa5Gr1rziTU9Xdwq2WPbsOgjXwx_S25I4YKAuj2uaZMUetsphV7lz1yK8Njo50
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Zesty Zebras
-        uri: https://maps.google.com/maps/contrib/108047465888102513371
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWcU9Kjd8Bube2DScEtDzQnkJhfiCNRiLRVji5uFfpI2WnGlk81=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID2jKXchgE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2jKXchgE!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
-  - name: >-
-      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcIdybCbPuAgrxqX8Ykdm39JdROJuENhhpLsi7vCXXVxqUTaWwoXtHn5_rTbpldwaFUrwUGeL2d_PMg3SjNK33upsnIhAjAqzZP2zE8fdFDvSo8aBeQUR771DrgJIJQ_Aesx4hGF6zm9GenD_SwrXFJ_gCT0nfoJLRBI2M5LVegvHGyO4DNAAcjLXbgbmM3NrfI-3oKZ6muMhinZK3vGmAqhBSxd5juwcAVdf8QrHy3nCmy0Ne8tuc9jl4DF8C3_CCmPyVVAFalyd-KcycIFqAwYe3DQ1lPUHO8WFv5zvL6Wr2jy54hni9GsHbt63HtEYxEYnnJX694vXNXYtr7xsTM3jwMa4xbNMjacqyx_EEz4HmO_g8VhKsICWFIvKT2tNTIzoxw7G6yin1Gh1LPchDO0fehqgCjreM66x421aCs
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcK15n7tq_Pf6nHDNcrx4e-zAxBOjExvHXJIp-soZkgXZf_RGNSOG9GEdKVSBBomCD7zTyQKeyLQ-vVfZKOW1yZfsZIj0h-AKeZeFZx0Zj0mPzhIqFBHiIcl1R0tGKh3BcgAg-29DAsdke1H-80p3QSsLCfPPk5SmyczMU45rvX1eSu23WQv919eQDcT4sxmFlEisEMUYX9o0kXy3FElxbVnuKxjWwLB66tzwC8-Ek1JTMFeRnLAH3o3xcCpRHgrnAvhKhNPqMoF_K7fdG4AW7qpYWAS5wZz5xcMlyvLwLcg8TJVdwK0l0XsjioQus0ATS8rGuD2coKc29WuL3nY1_aFjeRnm_nURKXRyfha85GOtgLh8ROtHIEezIM1KqU14doY7_fp2zRxdUzp5L7Q0bLdt_GuJ1Bx1SvfAObcQew
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
-      - displayName: S Bridge (GamerTech)
-        uri: https://maps.google.com/maps/contrib/104447687085754219098
+      - displayName: Christine Tomas
+        uri: https://maps.google.com/maps/contrib/110596685927347461477
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWaEsdMl_PBKbDWMabkoqlfBCpn3qMpyEqX2v_-etVKb161_wSxrw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUbuVm7X9DsumO_OOMuN3YCAJLSCspvUaSWrJ23rWp392oVY4WXSA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPxsfvDg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZvLbpNg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPxsfvDg!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZvLbpNg!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
   - name: >-
-      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcL-nHaTn3abmU4j-Cf8v0MIEzjA8ND7tXjAg5cRT-x5G2Hk51R9Q9KeRrvJO5vsjcqfjT63W8uJ4E4abud6Fh5PL1vKbMwDZHSo7wZzQyRlCjZOqTeyMd1kOHHwGXqd2EmOGt01Y1fUaV46KLarsgzY7BAA3FyJt_8301LGzROu64J763MjoKPTMKtiCTP4piHqjXnK5o2jK7hfYPbCUidNmw5nW1LasJW7VjHHc8NnL7gYR1mLr3BNd2daDkyMisa8ubOTCXlxS-8vsr0mEAPTUSFEj67ub916-kvZoRlMTRn694o_wJ5g5Iut0pzQgbBVHL0fxvtDUwjieHxdlLH9E2aZmWdcz-lhstX1Ly0mNDv42zMe25X1x4sUHsOwJF8MLzZGflsSyC6c5QY10G0_3Lva35w85veViSygd8EG45Cr
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcL306uY1Z66wTO2KbzWozmVpje5hAMcW6gwH1qnclFMCh4CfrDHN96Ac20wtWCrlHTY00mrjZ_89wedzXPIz5TJFCwtx35TXOmQLjRsrNVY5Y9xGiS2vqO5cNnK22xDEz2JkAYcEbM5Zh6VeprYRC6ZY0wwYrasSt3rCgAjPA8q1Kk2yab0n-xvaNlWtSce4hoxn0QgcgSfkl9flS8sAHb5aZC04hjqmXRSRwVAfy_oOnkv4Ut4PL1-WephQUkS9Yn1yHv34fQIjS5Loqr-Nt6a2D8GDe9HYz6Lkbrg33B7MiuEZar-w20LjxbW6aoLNx9hfHNQwvdRYA-odeQx5t9Se0k0sufMgXnwfGEU0Of1nCgORJDG1LiSi1oXdRBMPUsL9zaUQLyuh_elgfZanP5T5G323acFTk3AdAPlmxHJnD_x
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -142,6 +116,32 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICL1KqP_AE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICL1KqP_AE!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
+  - name: >-
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcLxXJgEjMokHXDI_zxzgCrE6m-TiiptsQGDF3cBY4VXt_Ap1cseLCa7ImnPoSTtCGF1gGXkKD0y9XiiuqqmHcNj_OO292_M-EPGaMtI5nxJohRtSFcxFXOBvsmCC50AAKzW07-Fbw6yEePFI44o5GK1rPn-aM3bm4ZI1Vl8YN6OVEg7b8sNtW7T_q9y5iwI99Rp2jybz3zNFLRvefI2GbwMZY7dFJRDflv7BWojlrnQKQpKXvV11XpeJ38aZemAcSV9T1ZdhsaNAZXwV6rUL6RUhkG5q_Gk5Au2dsx9Tq2rCif1dWW-DaDjalS0D6RdtiI4kaTmg5sAV-rh48-wzVNBy6Fbj94ngdtPL84_ZbGxcQa-oceJE83Sukn0P3VNd1rhgNWhzy2uqpddqQIlJ-eJp8EjqvnYP9odb7wLQTM
+    widthPx: 4800
+    heightPx: 2711
+    authorAttributions:
+      - displayName: David Jimenez
+        uri: https://maps.google.com/maps/contrib/111647772880522725592
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUx3yC4Ljl_EP1AfD12eUkI2rM05bj4O5ekMKCJvCpbVuZxAVt6=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICknbrhKQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICknbrhKQ!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
+  - name: >-
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/photos/AeeoHcLknVK0mX34cNwme5cplxADki5b1C9z0Vze2Z4VOHJXiBurIB2OXfcEaKkuLk0wjIL5spCqDb7apqSn0xsJeHmPsVMqySN0N2jEdJ79HiWNDwA4rTt_gjLMsgHpPI5jfyQ4dnkyAvGZdQXauUHR9RuCSdXlP1eT8mgk_ebzQ5cVcKUB3zQmZL5SeKyipxF0uNYb_iyRqALYJe-AsnqQ1NhuKgKuK1uESDhvfiiJ-D5vIrfr7pWHAr2KTQkOnohq0yHbswWADyaJcUKkK9-N8waxPHYdTw8_qsTvXVAt9wxLbjlCtGPpPGqn2RB3oETn1hhdqmsGlp1neBLKrRtiGepH11IbgiFgcPfSJspXOcDih_pl-F2vpPEmJkMyPrRZozRr9OVTU83pGb_vdCnlYfKsMRP3-AIHepg8bmbGtEqg7w
+    widthPx: 4608
+    heightPx: 3456
+    authorAttributions:
+      - displayName: Julia Bilderback
+        uri: https://maps.google.com/maps/contrib/100288914062993878571
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW_2sOulOow0gGU8uBH428vY6lu8PtIb6I0l4Zaab2UHa0pgXQb=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLkLKJBg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLkLKJBg!2e10!4m2!3m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
 address: 18541 E Hampden Ave Ste 126, Aurora, CO 80013, USA
 street: 18541 E Hampden Ave Ste 126
 city: Aurora
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (303) 400-6117
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 781
+rating_count: 0
 website: https://www.honeybeeasianbistro.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

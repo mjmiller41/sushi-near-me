@@ -13,7 +13,7 @@ description: "Momiji Sushi Restaurant - NE Salem serves delicious sushi in Salem
 place_id: ChIJxULNM4D-v1QR70E3kRMFiZE
 photos:
   - name: >-
-      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcL8E72NnVJh7nk8dgBNf3SYD_UdWRVkHx8cFm_JeWVkt6-aW9gkSjYAhePoRg4tgg1OTALHBx_JwHv7GQ65KGWcla-JQGiufQgkpCLshCPXVtv4L7h6m6Wj9I_NPxDF4wUmOnxTf-7td_fxq_hbVFr4Za1G8MjI9klH6A-fz7YcNHH6tzCO8uMQw0brNJTqPd7MhTzpdS-i72L521TlVskuCX8xCcGp8sWCCtZEhiH5slz6qkeoAJRq8hXqn-kQVlV5zM7GNVosJONlToDnN133CHXd_u3WXIzrR_QO7a49Fw
+      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcLB4dehcoHU99q-5hy0LMCzwCVX4F8JSQsVNy3VOgA8sqU1Sdwmh34YFNfsNgK5MQS2NL7U6WTegHS0adsZFb1MyfEXLBbJSOPWNOWScpTiuhymRUIRWng1zq9zomIxOTkjos2a8WgvBio4eT2-Ttx1ONJW0tXYaRT1yrU3D647-gwwGkQofFcVNLKelLlykJD8u_euSG7U_8AdCgt1I8INa7rQiW3iqNSEqj1B-qhPOcm5FRRigRSdpcP0kgR8KJ80mZAAaRAh-zdgEjBj662VONAbeRgcSdnbQ8ID7OjjaQ
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -26,20 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO9aUJkDIfU2L8x_duMaALoxGhNvwDEpxdz2MHl!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
   - name: >-
-      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcLwrunqM72PpsvyfNFmBUjpafdflWWgCYu-w4TJ6EWPwpNva4Qz3fiZ-a3cfZbiYR46OrT_RoPpooyel7dV-IWEyc6evQmQwfblfWC79pSgvE0uZb6JjVTJFLuZYlf7-n_zVnRBBdRaBJlqyOgecmBvw4_FFf5km4l166qGdZJ3oeAvlnF-RekqC7_g_9CVEFtTjvNd8dfzFAKM2fGwkP-vszNq5DvQKA7ATRHTm7sUhSiJsFO1X4-wvLrSyV8CpqsQLeceLTCwWlwwHkqJdfwiR9y6GVBiOfKlBlNIJYNeqQ
-    widthPx: 1024
-    heightPx: 576
+      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcJMGmsFIgs63crb-StTmchyiGmbT2tkPpDo9VkULN5TPuMcyuBmkfCmICP964zF19WKw01G6kk6eVWIH_Xmh8jWIDCBMonMJnAYBswmbGkeRPJPXpi5NdNu-o6TdA4EFaasWdyqzGgWgmoSKKBXFbBDP_z-Cq9TPr_AkQyJBEkHmDpyr51RuFlbk-N4jPErA7zPDc4HZxkx4JOrc6w-caSGYQ3GyucpUaPTX3TjBZ6Q2Q3Ku5jEdFVItJxQv0N8qmymLVHopuaxffHNlB077UAsqs3mqQtzoKrilXPtpAv92A
+    widthPx: 4800
+    heightPx: 3200
     authorAttributions:
       - displayName: Momiji Sushi Restaurant - NE Salem
         uri: https://maps.google.com/maps/contrib/113364370192277179918
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXeLs4L7s1pgptr6mayLBQI78qIpXxCKRa6cFv5Jphb12yi3M1z=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP0TyPS8RVHdVQCNYtI2D9TA05RYx4f5VbLg6N3&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNCE2dOrqlU21_PQ2xPAQMOellZDakM6ugY7emu&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP0TyPS8RVHdVQCNYtI2D9TA05RYx4f5VbLg6N3!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNCE2dOrqlU21_PQ2xPAQMOellZDakM6ugY7emu!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
   - name: >-
-      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcKK6bN3dVMovOujOSJAfCVK_qzHcxjM3sdGq2XIdD_WQ4FyJiH0a6Rxhzq5-XTTPHmP5_XF_HaPEm8M1fdaO0PJq3DYwqY3Trzv3f7MmeHUPFtNgUAtVn0u-tgj3WsahzauYS3dGE1YktFxNFkBmSNTVJuzhiPElbxDe8PGJ9TtB5PjPhRhqzYqOhX-kaOtHepAhdeI8XE05wkiv43LZIotm9qpkZVB7cW2QiSagIGcZn0Abi5OrwIkxkFZljdsRTjFGGiGKxhVWaHB2MiQt3B9igPDRCKPlff8Uo9VJVRv7A
+      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcJrWpRmLboMyodvpiCoAxUQxfgp7q6U6RIWHve8Uv9ZioG2wNks4nXo0YnOBVtZ-9hE_7qmYllGy__aQIOodRITVNzX9Yszr4eCT2Fs4lwOgmMux_Jk20nCUtQR32Jip8e5GfXS3-BmIZyTSooPDZAkCK-qF5Dp_KEeJ9q_MH_WxP1kLDbQJotw-tQ5eDZ01x7ShnR8Mgmk5J4P6T6AqJCU_6VwHRpg0_PXAAwN6RabnP3v4MaoC4zIfmM1djUihWGMpEtgT3yHiLk7tRbsREISloUcBoMdiiryFHlLdyLEsw
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -52,20 +52,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN6nIENdbX_VkcmMI2RPvgMRkirMHR2l9bG_vxf!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
   - name: >-
-      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcJ5BIGmG9z6AONAhpm9HYlyrDV3Vz_ULKVXPYOtOS4c2Hf64wUR2waIM-4KXDh-uI3d9IuFODdA4lDA885np0rRSKPrZ5lUCXsbPgjNiTzIGncC50zrSjMbQp_3GIBvDNGSjRGG2e69WLF52AotkM8tBPct0Chb1naleGqqjmq0wrN9ttqFe_XfVhT2sR07lUB_64nFZ29qm-D9ri3ttiSCojGlW_77GkMcPOyfxUCdtOAKxZgE5jRUFpPePBjnLFypm9WOOsiwdpfVt7CpxEYFEoR9cjI0ENZRQXxZWKxbELoT2TczhLNtPaW1dzcGI8Em7_FaDHwRGoWY37hMoXY_HBB6s3BPnzQbMLbZV9ejO_A3dCli0JnwYcBrmVvIPV6F8Cgrp_X3sIuIibNvYwhvQywgRnc4w_o621jXvehihMp6
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcJDvEQnCBbls8FECSMRRct4aoRdPmr5DzguXC2J7xDvhaeA2SopyKjlx4rsUIUJyekfHyNQ4i-eugRqOLx-2Ev4_YMyIPq7m2nBqW9qdgW6SAe3YX3uLToAXG4OcFQeWYteHolbN7czfwNVXJLr5xMhsWVLjPA-a5k4lBNg_h1Eb1KmRSUoP-RDkgBnT12bdbkZD-Bcl79lTopof_0stN21btlLQF0Khs5zke2jw0roMxRbyJtBLfpvenqNCuXX30eYhb0RfvsMrczuC7zAkZzWRHkJew2twRaqXpFM3YaWyA
+    widthPx: 800
+    heightPx: 800
     authorAttributions:
-      - displayName: Dane Caccamise
-        uri: https://maps.google.com/maps/contrib/100378953155840354340
+      - displayName: Momiji Sushi Restaurant - NE Salem
+        uri: https://maps.google.com/maps/contrib/113364370192277179918
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKo-WsD-6uuNoEA5scwJ8PWE1Uz4xHk1iLrH025XoKdlWhBdQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXeLs4L7s1pgptr6mayLBQI78qIpXxCKRa6cFv5Jphb12yi3M1z=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg5_nA-AE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO59KnD5_kTpRuTfBrwfhbJflM2i9SPBVyG1drf&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg5_nA-AE!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO59KnD5_kTpRuTfBrwfhbJflM2i9SPBVyG1drf!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
   - name: >-
-      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcJYRoYhvec9qlD5t7ItbU3XYP4d8f3_qttSndloCe_vB7v9PAeM1T6wOo9dT6BR_qZpmHGfB8jdK7O40q4K5sTmSH8V-sakKunY5o3GPYC3zFvHGhDo3eGkh48ZgTuWeS99VwIY6IEupA4MfkQ_DFGGo0UjkoPm5WsW1QYq7HKnnlNTeQ6DtYZAESRe7I863HOXzvyYAEIkDA9w5SXGbeB3-4K-0JWmC2830CbSvGB8cCryCbx0iPmOvl1-br_q3DdVc4ZrKcZZs7RfzI4hD1suV7OGTFobqbdTL3bxwR4Amw
+      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcKQPu7Uc0Nbuot4tDNv2drD9Uj576qQzAImZT8LGsqDD9a-nRRPWSqOnLuhgHL8063-ZhJXv3TIF9vgKqi6C8rAzBpkGls9YoBfMzGazNb2FTnasNZmQkWX45jTBeyfrJhcmM8iiwhbXKbqODviyPjfFzEZUlN5Hv1Tp2UzjgMSG1dBuj7Qi2Yi04-9oGNS4FIxaTSt-LHIS0FrNOZeqQIC3tAg-XvsB51IkDyEvWrvNeP6PmFaLo4d7ODezsq9vNej71_DqyBx8xHMIx8HelzMHs5PfnTMpqCOYGxX3FPA3w
     widthPx: 1000
     heightPx: 1000
     authorAttributions:
@@ -78,7 +78,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPRqyh8nCnd0T8uyBZtjXISGTaJF1ywQlk4trid!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
   - name: >-
-      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcKX2tRqiwl7-ZD3ritybwelDhSEUIsjviDAjG9OukHLMmvYZ20d9Yoy8cHDEuD1SWNXGFDIOKE8GdMK8dfjQZF3SwMQEvnRAeBL4jaSk3U_hVtcVeXpMySTmBEXZhVanSW4j6QXxC9C3slR-w4zQVfQw0RRqLNGXVPN8FmEH7LShZEzy8V_VzhN2q2Q5ScoYp7NxWqb1rxX8ZANnB-kyMyer8P08zQBlZ6Es-WDSJit3zDbvqzhOaQWXO6jhB9QVTPq87Jc73R21RX_9-YB1dxbb5QJS2GVQPIzzNcNIFIQtw
+      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcL1_t6nlIdatAQUv96Wkv8s9jq5_GvToUcWANdT-Tmi7MAkXPUaRx_5CpTxpZvGgyEcy75eKBGT-PHC0h7m6K3YMazhOzNzl4olyEedGTI67RBg-kFHx-8COILzHFLSx6ASOWv7OYFnpi3La-9BqHtzGZSakEOxGVPPB2LMQJnJudHZYYrhyd0zpiw3kFO6BRWJnZ5SJz8UAgy_nWv0zdyYes7vLaU8mOp5elDMamoLVArtir5eXAAhYdpbZJimzPQ8y5QGU-iLAOSYp6YAtk5PRuvxcpBC90ftxqIJd3NLslRu1y-U8c7SoZRytLGxNESydLE5bFpEhYCq6XyPI1_RlL1G9rlizPwd3jDq5J8V2OMaIRSMxlh9_CBlsA0oR19TOeS0xNs5XckkUNfMSxfSmGf-lj33DeD3xqYuNYWSanD1
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Dane Caccamise
+        uri: https://maps.google.com/maps/contrib/100378953155840354340
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKo-WsD-6uuNoEA5scwJ8PWE1Uz4xHk1iLrH025XoKdlWhBdQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg5_nA-AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg5_nA-AE!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
+  - name: >-
+      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcKevHQpkSAkkkuodosVjJEuVgSL5bp7SOG3Pq8pn5W7FvCc_ToKM-waKWnHqUbkqz_5_THZIvZ9W5N4yi4UAL1C68ZkmqK7hbovA-9Dl1AAQa1jAYKkdysBHdf7h_fkA84AEC5nf87ZuZkuGONZKavZXWrsqW1xEKfasuUwe48c5uJeLhF3O94p-IyLpihcwBo5jBPROFPk8H9uOnAcMM-vvMp8EqxCeOZv_hYpoBtNjMQ7HENrURaWhw71nCyLcDEoRLHOfYXe1Ihb-zhO93GrMi6LKA0EQq883vstTu-3qw
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -91,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO0MEZZKOEK4_2UvHhsGswZTsxP2yTeO5iOFlRS!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
   - name: >-
-      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcLkkawaZ2YYCFBzvqm4lRkkCOI310gkRJ9bj9bz0rWSuTqwL7U4Vt8XTfty9z-uzlliyIn6jb4V-iwSf1UT-BlOgY66kfLYNCxLS4L9oWGNlQgqQwYIf2uehEjwKQuYPfm-Mp3gLsM9seMuciNlENq9m8PUOFa9zctLBqLpQYqmJaCMSs8I9w6SURaNEl2-Dbo8_1BhXuvD7ZPQNaBxRrctMVXaLXR8hqjLSAvTwv8jqxcuTQF81gYybWqbwcMtLEwrJJ-W94pD4DwfxgFyCITOM6EULihpHQNlAfLreFnJ5ioH_HcFNFnSnTpAyVUFlD0h7dSVkJIxx3U7NBjkArHGrOS2X6lCzfFmyJAM5vQIndSdbjGGSlJy743fB0nuydMitphfZ92YFlyrm7IyfcmE17Oo4DsjYDXsulUCMOJT6MEb
+      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcK6GiGlNdeisK_6QfUgdRvyKadj4EtazROUAQ0VZ2BkIxTKq7_ZXBCBnzzZGpw_dk_dXM2eghEAkWDlfG3YJUb5q4aM_MW6o88nPkjCtmsdOYl2KHCdjLx9kwqbJoR2zjprNus4_hZtU5fsqbi-onliWXnpIeuVuilpCAXGeIzb8csHDN__uQ-WnsxYolZKG9KTJJ8U9f038kUjLk2M1ADKjseJWPbd7jg-3611-C-f34SHRtw8nwJy4FFeCgZpGHxLycLg-DIdO-kwbKL0iIaexd2FLqFLOeYSb4_gQEsBXQ
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - NE Salem
+        uri: https://maps.google.com/maps/contrib/113364370192277179918
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXeLs4L7s1pgptr6mayLBQI78qIpXxCKRa6cFv5Jphb12yi3M1z=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOzNsruoRrAAwLDfE65AKyvP-tOySi1fqfbRjI6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOzNsruoRrAAwLDfE65AKyvP-tOySi1fqfbRjI6!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
+  - name: >-
+      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcICBTNdeGA5wMkzhExrXrfJ2tFQF9lABSPZqQfQaa35iSpEOT1csxm4RKSI4v70WBcq2LsUnTpFmqSgOd4l4dmqO6ZOaXj6lVY8I__Tq8iYypDSTkeLKraIkBQ_vhTe6LZiYWdjiGQR0K9MkLkYv1vPxeMvhsVtLhuuLlT1Z7LRDg0apqHu0OTr7NE5wFyQwy99tEESNpT3gkZpmeuRQk4nprC7yx-a-eX-UqsR50sJJlnMtZ-YjA3opDOvcRmGkLECN54cFrXdJAWsP8Yn0Z3mjUNmUYQbinrvi-SGy9aEf4HxKEo10sjjaeaTUh98vp4UKo6-8Z3jj6JmMD7iHf1LV7Ib39gNpuG9EcjW7zS8qyM4C3qgGEbf1XouqC7dYcF7-Lt8-u3NOfgGQcmWElAqQzNC8oGshm-YI0JbdyaTNIr-
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIqI_frgE!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
   - name: >-
-      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcLEQk1SJBgZslTshCARaKDULos4Mn4NnnCPn8Z_CxjXS-SS_FKF5uEFuHzJk_cZwbDLvIYI-pfa9J21pcP8kBcf4Fiz7q0VyZj7Aa_M2XAulYp26bLyEGmaAPOjRGAMuMNWyhKrk5uV5GgxAhSvSTKAlxIzAUL-Yfyv_QCgcQBT1KtsxdSOsanFg5chtdGTzGA2fgCX_x_idhyS4wVYnXFGYdLzWFNE6J4GCzaCtUm4Whz2M41OsqBpcmRd0sso2PhfFth0ToA4J6gFoKGZBncUCrYfDaSK4dT2Hfa3Uy7s3uYV0QZXM74gSSeAQ2wr5UCruf69sVEPK7WslJzaPH-_XyOkseY1PvnHbsofdAOrcSeKJivIzfPhTyAOnCoHJHqi7mR2t0SpH-qg-6pnzeY311NQMEFG_eITzgqzgagT5Q
+      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcK4FgT4oUjJ4tqhMHzAvPNYhcpTpMz_ZlqIzDu1hAJ3QIzr02nEBBaVjB48WkIiFrykxdviVQaCef1GCRRbJAW7G3WhWT_xFTio8jOafGKKpuSq_pGb6xmqW56dcGFnleRPEkZm12by6fyPtY0fmDWMUy26BlgdbMpf2u_ittTlQUkNNRdxnGMnIa53vJ7Scwgj-6rkLT_iyJ4NrDYpwzfhDpChhYP2ldrIedqYMvJK6vM94ugxbheJpih0xO4ANq6eNt0etEEj555ijdNOuGuba30ZkuNJ_-m7YEFquESyowNu0LV8Z1jdJLDW4Kz55DPekTNfmzQlQej04Aj-G4uB414OtyomNQXchvYKle8id2pXfwECXfaLaSUaYk0_BiBas08IY9M1Gv5GWzU5yA79ECjl0mvglcKX3Un2R_NhGw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -116,32 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC06-O9HQ&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC06-O9HQ!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
-  - name: >-
-      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcLObMkHP-akjMN25dgiBftFW2wPfpsYHYyKfIToGWHPgGgk710DXk1CLa5ncmyspmL30D7M02TsnaxhzWcP1RFet_CAk1VOHVq59jyW51mG-L49H058JhVVp5_P4tevWjpE_zaS07LGMq2EWKXmXYpAH5UTAWs492nyKXmwODPE0QqXoX6jAFZNRKU7MWPu9xN9gkSpqUVm0POU2rSpzj7mPMuWwKG4HX05wDMMvKx3Nnktb3HWBXLGhhiJc-7JtsxGTfhgovYBD-dXq5vHi5zzel2BvDcqLfssPcokEd4xj7nSoqkBxZanQ3YgtlzIfHzl7nLpOeXGh1yrTCyHKyNuaGv6d4JbddsAFfuY-BKq_cey0hI99zpw82R25KS20MvMZuhsIr8IiQVgK8r2O3tp7ANgvTqRfmBNQaxmnUVZlg
-    widthPx: 4048
-    heightPx: 3036
-    authorAttributions:
-      - displayName: Amber Lockwood
-        uri: https://maps.google.com/maps/contrib/101343112880057132338
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXTB5ttF6dNkFSQWI8a9Hib3YVVWFI6yGJ0uKOqBbTcxK7jy33tVg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4z7v4Cg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4z7v4Cg!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
-  - name: >-
-      places/ChIJxULNM4D-v1QR70E3kRMFiZE/photos/AeeoHcK7JEl-jkPLFAS7HN-bO4bd9usPnN63GvsGBfWhmaSIrJEQ1Awjpzdg-zCr2Rsdrwfawj0Bc29SRMg2_fv2mW1Hxl9yvZ28zonfB86d7oFYayMI_iQUsE8Kq6iT_-p7BULcXMRMuQzcfutmQK1SjNejAxwXemGhfhMxiMQtW28S-KZSXO4qA4bZpEdtxM6f2Il9nIfD4vWkjEMGuavFSTIIwquBwIHllfrCODq-0NE5Wdc0IX1crMEdLXopc6cwgjslAau-d-V757eh8HT0RTdfZAlue28qfiDqplMRs6pHDAoJKgWVFewtMZdgdE7J-Kre6grcvkBoBAEE0MFoS53-hFD8m6sRPZtYOf_sXgiplR0tm_3Z_72RxWJglb1SXRE6ULArIF_VDLofJvMyBdHRKGpOWXlrAX4SfZy_aPRVIA
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: David Maiolo
-        uri: https://maps.google.com/maps/contrib/114265093756961302888
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWWusynsryq_kkKO_5NwmAjIFmRWXGOCX13OZfPqpV76Uczi1fryw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC06-ODLQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC06-ODLQ!2e10!4m2!3m1!1s0x54bffe8033cd42c5:0x91890513913741ef
 address: 4590 Silverton Rd NE, Salem, OR 97305, USA
 street: 4590 Silverton Rd NE
 city: Salem
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

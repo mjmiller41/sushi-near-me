@@ -13,7 +13,7 @@ description: "ZENSHI Handcrafted Sushi serves delicious sushi in South Easton, M
 place_id: ChIJpYS576KJ5IkRfVol7SaCydg
 photos:
   - name: >-
-      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcL4Cp09wW4tGkuURs7zsq0twuSElxSy8bmISWZprdMsk3vdxU37P6ImVNvcaGvrZljmMyME7Iind6RmiDeHTzpPVZHkBGwaiQxFAu2cJvaWoa3MjaGOvsNipFsXts8cqcpLjy2QKUYY_7k02Ylq_z42IgPY2IkQK7cZg3vCWqII84_gPmNCCp_JI35UXZGr9OAE0KsopIQ5gWQz4a8UUpN-9l5tCPBd_h81rwL1wiaHwDybIRJPtwNKyLo1kcKIr5WW16NQTuXQ7uee4W10Ip0Uo-2erBsNFUoMnT_YEo37ag
+      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcI_qcUvLICUOFS05_GmjQsT_l0xGxLszqG3uWAmOD-Z853oYIl3mHqMMfb2ZCGQ3muoZV2aR37yvwKOnwcSzQHo2ZVUSFLO0A67H8gSkqKz7EjPC0XxzkIgHpZ8UPs9ygpMBhIubBJU5wnYs8SRY_Z14YdRFAtAu0_ZrZ-lD08Bu0V71BgRTBkVPhtS8JEVHIeNuK6OGR1YvNTqzxOuClNUV7Hf8h3TH9JHfuslij5UnUY5pEVacJxgrP2cule_SKwoS81WAmaVbsrQpyCIOeou6m6J3UI1df71B0LYBkSJNg
     widthPx: 2120
     heightPx: 1192
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO9dZwCbMnxrD3yWcgfa_hUU9U1kzNbn9KTU0l7!2e10!4m2!3m1!1s0x89e489a2efb984a5:0xd8c98226ed255a7d
   - name: >-
-      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcJF_MbPv4ENMm9mPGE8RhRZhHzftY6yYhgXLmJcwfFmmfwTAjzL4S1KksZd13aHznA_D6i9S7Qfn6LZ9W-ZfX3rqahKrI_dzAuOFl6wQzvMqZ8APhEYi_-td1iOl3ygGpy8CIGDF4Bpuq5g6jSmDYtLZ_ok7KLoPBGgs500yHdgaVB6M4Vgzhl4X36UUPtGEdh87CRN96Luqvbbc91ALn9NGaoBN0pKWcA27rrpn4KLQxlAaxPEDKi_nOKCXSCp-fDuivhyPCbyajoadCxC5QnuR-CJBGtdXr5K8l3Jm625dg
+      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcJg6JVTwTtTrlDkbOC7TpPTPc0t5yACuZnbIyHLgWHCOyLmOIyezxlqgDFnyMbKXWxshiqJVmzlNwCcyf2luP_ksTEZpW6_fNFux-iUIuLFugDNrY8rEpcGLP80N8QPuAblnoB4FWeE8o8U1IHXpNo_ajfeYG6BXEsa-VIB8n1L2iIp2-5f4n7vnsS3cTIgHqYk1zBwhDLFiN8otjJnN2eVU7ze_2eG-ArYJ-whmo4-xEfr3qoLw2dxqmvixjain4asyPV4vSslJ9aypMxk3JLeZQda1u36Vd4jBuhAWa1dgw
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO0SB-ivUgf1pJ4lnrs0el_pcm3DUrBw9P6hpTO!2e10!4m2!3m1!1s0x89e489a2efb984a5:0xd8c98226ed255a7d
   - name: >-
-      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcKfZbhLwASBVqBNnRSuIh_4S-xiNXNDhNKqU8hbKzTZzsdWiubN-1uObMHk7h0Pwmb1vULGAFXZcgt3qlHoxVKd6mjHo1R3cVdO5fym7WyoaTXXejIfMEiJOC1-xnKNuT4x1qNtw8QFi5GEzxNmGX78Z5Tut-aeZ3RD5_rxZsBDobWdqkR3FJXqC20Y6sdJpP63mAY-MxaLQqdUYUXaRXgI4PG2x0LpXJA0V3-eKNXznRs7TquWDVwkKscYiXGBRUR3JSL64dcnabY9xclhdvr8-kp1u5Z3KLJtMUKuH9Mpng
+      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcKnZGY424Ygw9LiEqNpgYZuRXZHLyhbHMv1o6xM2RjBxtn7ZqjxZC6uNIrrE3ASzhfLxI_IGHkcL3w3Xvglo81YNdABxo_O02jDVmvk6BOFJsWrBLzJbQw5JvwKuZju6gy1XgjXs3r6DB-VzetZuBZ8XgV-CDhqKPzfFtYc7D499KuuWZX9zL4rKM4AR0O0Pns2OytR1CSDiznBPixqhFViMjFE3pTGz0OiARh4ri29-YbjrJkHKBI9v-C8g2skesbVtGCmBLwNd53EGYpI90Ub9JZ8jehK3lWXXF-NHl1_tw
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOOVWsDrZu3ngov2RC3hSnJOY7RbAiT0IyhVaQ3!2e10!4m2!3m1!1s0x89e489a2efb984a5:0xd8c98226ed255a7d
   - name: >-
-      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcK2kkTFL5wNOff8vRad9Zke6ckZc3VuElTdSCknrWrGRyxw9cPakOQUBsAHQxLoV3F0O1ngciTMohEeWl0-EBm6Ak2SxHVrps9Vcfis4w7WLu5svFmXa0L6bYlZgyw9UI4CM7hCqifg6sTEwFHuWGz-lzN8OhGbHJWWwl2USIEmLD3oowOr6ylZOMOLFwUDIUVRMWNHZYDZDXqb7MyLw3dRI5Zo-HnWrKc8FyDdCcROy2uwqsmvEdf6YWUBOsN7Ezhey2DialuUdsy-YozqAEGbR-9VLxJv2zvMzHtVcFwlUg
+      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcK4eS9u9BgeZFw6cnh6KmWF_eporjlVRyeHmTjcRzK6Lm643gdOJGLGbMYS279umCc8ug66FJHo8H0RdgHV0PYxaqOK2MrCJmJG-2OGEW4JGcXcggipCIBhNeeLqu1ji9gUAd1q9UNMP1w1Ou84sMFBQbczHBwmq59tvjeMewXU1e-mOeNOZKprNYNarB020GpaqmVAThxenlG4yNPvC89Bqz2NXHMF1KdHdK_2q8PcZQCKW0Ld7Bnvs18dx396oaQhDPHPa8sKGiWuwg6cJnAAmNdB-FnChowPodlFGnCK2A
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN_6z4FG2IBaeHAURHlihVdxraNpCY1BSQJEgXv!2e10!4m2!3m1!1s0x89e489a2efb984a5:0xd8c98226ed255a7d
   - name: >-
-      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcL13Wdl4YgvIeiBZKM5EAItpV_Eo8JI4xBsrb8q3VEHduP4jUKcdnNDLs2GOj6QILT-170xAZBu1jm2Uki83m0z2LPLyC6BwRA5XUpkwk6WoonXiQcJYlIKyOOVnWu85x89Bti1pTwImPHfJGujFaWbQcOFJJOuBU8ZBIx2mbVsqEg2WxhGE5EiyeuQJDZBGABw3g_3uw9P82KYKp_yau8rvNeHb_wRvBIFEItMrTVz0y7I2klOH5oD9GA8WXDi_S3ftFUHkr99Jxh43M6ZtExU1ZjKVIc8wA4_Tndpuwelkw
+      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcL-PCRlUVTGCu8PwpWSqSE-8-AtYfNt3FDGcqpgbF-cormCMmvNgts8uFHgH1_54_MWhRYw8Ld7UdicrTD1KZdYhBWwvQ5H_Q0sfLLhsky8oY6u0L-oPN1Wk2WQXsU2jFzKa2EEzq9heRFKGFjK4Pn0aPSjWJodgeINmk4eKPK6B7NRwtEFQ3iCtYPV8CXxfv40hEknByo1naB-ZIckC76bFYJtBAxu3sZOKcgftQH_ZLSg3m6LhYvp-ZM7ZUYj5YsHD3TKM_LQmecjsPefV4xEdAjKZ-57FP25vzJLwdpx4A
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMIofph1TrgqC9qmNur6M0gcLJ3ErkF-JxHBZMp!2e10!4m2!3m1!1s0x89e489a2efb984a5:0xd8c98226ed255a7d
   - name: >-
-      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcJrPdBbYE85nfJuIHQxabEOlfSG8ysjScyYZAgevCzUwA5JZtYd8sgPTj7xlsq8vQLa8BeIgUc9T8KLScGJCIKxjXHIhQkRnvvE6F3akNrE_wNgyI4icgwSjIL1Emewr4HgaAnlaAMj-oBIBl9-80BT8l8DSj5lAOlGnAfkNVuTMe3NuedQMpsIdxUeKrgnNKgNGDGCCJowpk2d1zRWY_4NxLZTsLOMqEJ5TGJtDO4ifrnIHO971nb7b2B-NQxUzuKPCg10ju6atIUVPCfTn7tjktTh3FUObw7mEvu_GBtrLw
+      places/ChIJpYS576KJ5IkRfVol7SaCydg/photos/AeeoHcJKQkRvHqQL4JaevrEaIaC51ClvwLe0exFnbsYtkVH4S9w30xbRgmVEq7xnpvP-VDaHkT5-LL1rt6qn6tBaFgiEqgVWUvtu1Q67yEfw4CkxOHCxVVmj62s97oMwZSpCNsrtQHgcmFScfniy-0vxUO8qfA2mkQYAfKQOA5-DrdBtdOHxkgEb5yfcaE48zjZ4kPksOSAEvo6TH2dYhRsx55wo9XlwjN9esGR1DTPU0TC9gTL9vKARcQrWURVA8pXFCHmTAi5ufyR5JhlPYHYDGEnR6zlONPtrCCxPSQw8priUzw
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -116,8 +116,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e489a2efb984a5:0xd8c98226ed255a7d!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
+  current:
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -157,6 +171,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

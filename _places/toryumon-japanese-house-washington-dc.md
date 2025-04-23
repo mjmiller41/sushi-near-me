@@ -13,7 +13,7 @@ description: "Grilled dishes, ramen, sushi & bento lunch specials round at the m
 place_id: ChIJj9dFYl23t4kRtofPHMPFewA
 photos:
   - name: >-
-      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcLGJySFsa-625Nnw2FUcJYuhYNsIllaTYRG0Oc6cwIb4J0q_8iG6440oM-d1z9v8bCIipG5GEprm4s3DKTMXkPSyXaW94vO1M-lvxo_sDXRrRA4tVG8xhwsrvQbH-4BJ4YSYNJtKeFCssy-KdA8mboIQ9EW2fmfTLWOj9hUgQ7pDHF9_xBnINDVs8PmJGNrwl_vNeB4mdIUAYIq8wB3NdpqF-TDRZEKOUKtX29F9odJLTXZpX6m5w014JGXIttaaij2DIqmFcP8B8SXMOF2lN1lneLXFCvYKVRMC2oP615NIA
+      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcIc4mZAx-FrA8-IDLgCVSp4dN1353wtwWDzJQnWpg1_gXInqJf-TruX-MGz47iHlgAsiERuilPnX9B_ywWRQRSn4wRDX-9AZu6OhZfgLL1LaSNcIChTYfTVpsXwgYy3OvbPiuw9vPJ6KAQuZ0TW673Xoiw_Swr9WPVJjjJbmKBFsvLutkqKj6-Y8iUrVvkpF9QjhQghwvbiEPL8JW2LRb59VCUbdvTId_euSjbpVl-kZTonnnSD7LTVPabXgenlG6iT3HAJABwt2p_Y0cKUBJ-2Z52qU-RoEqepF8RffJPH9A
     widthPx: 1890
     heightPx: 1078
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOJJ1Rigj18B5eRPYFAOTG74qfHQHkU16Rh8Ik_!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
   - name: >-
-      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcLOJF1qJU7O1xz3a5Ff3v_SLOk_5B7uQHpDu1vUjPAAwYrAcRc5sfBWUczOTuiEh_7J0mb07DSbgkixL-VYagh9rbmvzSJG-R3JuUrnxiSqdCCdn7da65_gMG6_UxuhLi-8WcXXxlzQScmS_ri7HttpG8DbuU558T6e644xKRx6YqZmtN4bJ5B2jMGa0cYAIoIAx5_DA_1ClF6Q6atOqkdt-YoP3m7Vv70fz_Odl2svl1xjm_LVTQouEwusLuYafq2eSoBcj8rcM6sF_N6S3KBSUF8v5X_9BUH62QhU0aSQ9A
+      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcIPPUDAVeib1gaDO_mbyMX5vwVMRzKBNaEXlosCMpTPADBqJLoWLEOakGYCJXD3CZnPSbhHnm2hmEtggXFlq3o3VOpA9e5Ue5dGKg0_9byFC9e8eWjmy277lfWCKI4SUDp0U3uo8sdcmNE65I5M8TSi8nY9H4-3AO87KdhA4cSD-cQMaHzdQpTbeSDNXNu_0UBAkvV8dM5PzYDMywTK7a5QZdXrxhVu36OrZfEy-Ncw53_0zSQwtCd0Np6OP2MBwn0UWy6iXT8qD3XzW-CfO0uCnEYWGqB0Ikvud-kBiBSzBg
     widthPx: 1080
     heightPx: 1920
     authorAttributions:
@@ -39,46 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN2kZdgCNFwWCSBhfiSp00iXuEkn3MgLtsQTlYU!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
   - name: >-
-      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcJ_H2vPyFnm1pTGh_H1G8E5f284cw_RFHbombiIm2jdog-s2v4dLFrrbQoeyZGCueYfagd1K6yzBkurO4bFc9i0VK-jv6XCiKRdvQnmHkElNAIVQzBvVWKwIN1OBdJp4eF857xroCHIX5c0bIgxsBNIeZO339XU8PXKYXyGpE2spiL6h0tcCdwCn4hSS1DSJPldIQ7f4p1c2uC1Gks8_cmzPzpocC-jI6cbJu_tDD_UU_ezqe9aXzsMCfQAWYvaJZ4jTnqxkUe7McTN_kxMG6dwioZvw-bYaQuc0GGm2sr_ng
-    widthPx: 616
-    heightPx: 576
+      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcKHNzapb3lo7HVdrqF1YddyxJWW4pdxK2sQtwUAqqibqjtBD6M8p97btfCt0-yfY7QXCnO2q62haZnB7aEeEAM3ZljMXQjS43prre3Vpn9QRsSwowTYaft4UHqaEAxLRr51E4s96L0RyQqrXKs47g0TGU1FURPoyckY6nmAfuUWeNVnNHNQDMbOnyH5TnQEgX4PkgVNjH_G36fj0H9xA5-a7X32AGs89HZWgBRnNP4L9x0GMKkFvPKRNkm5pD8mi7hXNHrfYl01_I_eRCuTpN7k-b_APXAzeEDm6GX2Pn7Irw
+    widthPx: 1607
+    heightPx: 1132
     authorAttributions:
       - displayName: Toryumon Japanese House
         uri: https://maps.google.com/maps/contrib/100609488828992243492
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWs5qkS3plCbRuUpa3LcVMZMcelaYE_xQ853LQVwYZIKEFOzoiU=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMp2795pfkXdsMOBvCME7XV23gETrYDPL5KlLoo&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM2KgrbpOT47TNufaA7HqyHAGDWax6d3X7eW2wy&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMp2795pfkXdsMOBvCME7XV23gETrYDPL5KlLoo!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM2KgrbpOT47TNufaA7HqyHAGDWax6d3X7eW2wy!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
   - name: >-
-      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcLGvrnfshN25bij41SqOuQW90ttB7BUrYrrV22MDp6oZG8NS_8sEHqKnHkMngStJAjrfL5Yaf9InxrnbAlvgEqA5K8JmQWB9rtxTJFe7xlQlmug1cg0erfCb_NU-GdiT63oB2JrVIXzZtFZspBLntwNKjO0ju1QRG-iTTslpO5yATW0W3rceW7gk-93HozY4TLgDcoyGtn_Oirahe0fK9sfZ0wroqA_welKxt8l7LzCPX5pRiwZlEkP0joRXkgPwCBUXY5AX0J6ifgfbyYVUA908VMmWvEcmQpQ6UIZmOb74w
-    widthPx: 1182
-    heightPx: 903
-    authorAttributions:
-      - displayName: Toryumon Japanese House
-        uri: https://maps.google.com/maps/contrib/100609488828992243492
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWs5qkS3plCbRuUpa3LcVMZMcelaYE_xQ853LQVwYZIKEFOzoiU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM0qoJN7dvFPobzMsbHAl_XwDJ8Dr2BA1nqYIDq&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM0qoJN7dvFPobzMsbHAl_XwDJ8Dr2BA1nqYIDq!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
-  - name: >-
-      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcLgcl7T9lJXxIL_CUXXhw3OEdbmXTkemwvIqmcOZVsUzstjGHnuWX2x-04Bx1ts_XJ6zPo6VTrkfZpSBxmPHQPkuY0bJmcncpmQNOp07U6RNdgMUxe3j2Cg9P1Jb-azAAZH2wmI22aYBq1xSaeZ4ulO5CVEFUinPaltzfogGp9ABOpLSwFrwX3_HlAkw0kzHwppbH3lsNbSSIZ4hJuMl_xzkw1jG5A88Dlp48zGn38zzxhKiTF-XJaCGrnrfd-Ui5U8jMq77h8GddcL8WPuMaVCA0_ETqtTvXlymWuEznfqWfbEJNGM1mYZ-prXPbM_fH-DmcNByeh2f9myb1zuK7r_cqOyXWK_k61u2HyoAQ_WIhJ_0LNL31Zqo8XHI63cyQkByhSVVhPJ9NkAXKWKnNzOiWw5E6pI9O_H4wa9elKKsw
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Arina
-        uri: https://maps.google.com/maps/contrib/112423762916189676485
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXGPLaNSRed-2MAJyFh2NaPHwLI8z6P_zPqAtDwQGIp3_g4K0jzcQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIrPCrPQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIrPCrPQ!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
-  - name: >-
-      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcKKGk7k7IUTfU5sntykmhcT4qWinTe2VkQe7sz7V-Kk4TmTfFfAY69l_FQoli_Qb7zHFLOhtyGBFNzQir1LYDX2Rt2WYvb3yOFuYift74dAZL-yDa6S35YKb0Yd3_iw6J0TGt1lNZmeh3uxVPffhqGzhtk7kukZbhE5HEwBLmjsntrAydQ7elxh3OMRq2rET8gMOPDFx_EYIS_rM12w6kz8sb_bGE5Es2wBwY-2-0_fbkB2z4OIFkFgjVx5gSNt3zkbQrK9E152C0akwTC4zvgaMpyWopqBIyBFVs73hRuNBw
+      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcJwUJ9IWH6v6kRAHGV035hb9oO-gA3Qr7A0_7gKDHLI9Jm0_OxGViVdoeX6JxJ37MfVkRlP3kd8YbGhntEQFRT4mAGDwsFSR_NBJZUiwMVCXPBW7Z4BFvml_c5NQAFoRGyWEw2WUtwsxktJthvCQo53rZ9m9Vj6cPf43f241xAlHWDkevf2qpQHA0vYKRq0kfaUPNx_X2sCj4mI9I1ZNAyJfI7cdTWvewG_zq_ewFiO3UNMCGRrMPgSMMGGvV_hxUyR08p_IwTKYDnOhxKGQTp-KMQcxNtlNL0itaYaTvtqeA
     widthPx: 932
     heightPx: 755
     authorAttributions:
@@ -91,7 +65,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNFBpQ01DGL_ur_VtO1EHzruw4nkToI_DCaeOhT!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
   - name: >-
-      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcIjdema7ui67NGe0JtOMK1vSPAgEhQ2m7BJJW14F1h-N-4IVFgOI9D9DfgoYAB7YiemLnDXFU22MPACJNLeoSgLwuNb8sFXT32CUddpHaZ-fP0tBCHmtdeaJ8OcZEo9pcfGeDKd9Jjvd_5IZNuDyrxk8CpDx4Uw3DBOZAO0mKkwLNM9MnvY-vSaAREWmrO3UwN8N0J_7L3dxleL8XKHvO2eWnX1Jazj4bNE72UCL9OQYmsLgmgaOcKKiAVh8K2B_Za2qz4azBogomyEUK7h9FPjITb3PXQEKXEc41XVEk2BNQ
+      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcJafdBt9bD3vPljVNxwOoIlZ7eSYD_F7vLuMQga49jtGGWdVuiIHiYvK5VTrAqBIUvclgxS084MFdq68yJ3lk-5Yyxeg53LGrKMqtNIdGyUZIvq77FJyB5uZeMDtV3JPe4qJtg2pngGEsMG0nh0IW1CRfmQAeACZ2dthTQLqaMvXRkorcFI4-KtBoWdU2dM_QJwhiIHRfQ6oeZRyLlK_N9tV-8rJ4KmjCm_fHckr_YExjwmDnI8RUSuSUXk8UvmpYHHFFX5dFZ1xHpJ8yADNX7-qL_e-nLRQ_lnLShgN_U4jA
+    widthPx: 1420
+    heightPx: 1186
+    authorAttributions:
+      - displayName: Toryumon Japanese House
+        uri: https://maps.google.com/maps/contrib/100609488828992243492
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWs5qkS3plCbRuUpa3LcVMZMcelaYE_xQ853LQVwYZIKEFOzoiU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO8KK0YbULHkhFrHGvmH9cIJaxVJr3VcbvK_-fD&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO8KK0YbULHkhFrHGvmH9cIJaxVJr3VcbvK_-fD!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
+  - name: >-
+      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcJ0ELS5FFXvnOHygBVYPdmGrDhB-hFTfh1RrvOcR5K0ANi_XIya15Z4xYE3GNjQbX_CVsuKfShJiDvjK3nMGKe6ZxMjos6Yu-I8jayvVpn9B2zMm7FvTJzwmjSbixwuLmsUH9dHiUvge90B0Iw3YlLLNjKhRgIn4QCbATKh3ywvLDZtNduKWfluQBTGgtr8p9d_NTjtOuFTGLbC5LTs-XB6Tl5rzhHhYMG_slWVHwWByutwvXQUfrnWppsOdAi-6_mtL6XaxOg94RqPE5ODIwUEWQCgmDgNnqzXRysqgmxnLw
+    widthPx: 616
+    heightPx: 576
+    authorAttributions:
+      - displayName: Toryumon Japanese House
+        uri: https://maps.google.com/maps/contrib/100609488828992243492
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWs5qkS3plCbRuUpa3LcVMZMcelaYE_xQ853LQVwYZIKEFOzoiU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMp2795pfkXdsMOBvCME7XV23gETrYDPL5KlLoo&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMp2795pfkXdsMOBvCME7XV23gETrYDPL5KlLoo!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
+  - name: >-
+      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcJm1oyq4Vyhdf1Mpn21CORu81-TwpfFiftG45dfWkosqwz4ejUVNdr_1Wsa71ZESzSoM_DsjlktwoIlS8xvDNFIdNmwxotmgkVImF8iEaonVETofjSScXD9bjLS4ACjtuLE8khG8dGrZYahg0yVTkFk5X0EEyGkSSLgC71slBGKC6bmQ7pEdRSOGevNkykGWmobYoykq0murkwB_Odtrsz3JrX8XHs9rb6MwtmKm1yWR0M4mYnzJ7OqpQMlp08FSqS0MRIy37N25Tkc5HcZ4YHMZK9L7heh6Sx0CnhEenQKfw
     widthPx: 1081
     heightPx: 786
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNi2UKgkp8NXATuMybfoM9qQ4Bzp3grVohQE9JC!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
   - name: >-
-      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcJuzZawl1-KiKXAoQnx8Pv4sUJaTxstoqCdTiT8CdFB7Vj1TGVH1dqWMh653CJ7FkerBS9SaVVwsDfYqzsH-ub7gaOem6TMV9hIPF8ekEyBkVeuLPKKrWlV0Pcdrk-vvI60DR6-esr1uYBuEBk6UFaBEgVE7iLW_q4KTeSMyxvhYRAro370pQGnmjXdqDnRyupB5M8A6WeWzJxZ7J0_9WhG9l4_P-I4vugaSllMitK7CJF3PcEinBIM5qZx2H9G5g1W7gfi6UFihAAQ7HWB-5uG8xyBsVPQ6hcOpiEal0a1PA
+      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcLeNr03wd4O1c54qIbrYJGRPVZQOleIo3ItDXxy6bT2GYfR4QEgYVWa02GlWGTw2H5fTJuKvXuh4-MX-a4JoO9C_eDDPAlfXlBvzC7SOJTwcwS8azH3KI32rTMDtiT-epnDlpfjk1jnZwBMfhOM84IKzJl3bDii_BplLxu33PjgDV1PX890GH8DrFmhrjYpYXzPmxaVnXdNei9tl2ATahcY3sWrxJxGFF5E1FwgRMkcG_adIsS6UWArhcKaD9VfY2JDaI5QZrlyhgO1MvoN-2yGKFWuoibsFWw5W-suHasRwg
     widthPx: 1010
     heightPx: 829
     authorAttributions:
@@ -117,20 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN0g-ZNxKAEEYmHpKU0q0iI8XL0O4uTRsq1UrZh!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
   - name: >-
-      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcKBrAXIIZqNWGhn1bKTElb2tMmhW4WEGS79gW55fsiRCvXHWVNybXiqMPt92f-K9DFfSF23ZdUXxuNTh5_kuipIEb75fk7j2zVNUgFxErL2R30vtRp1JLEcG_yA2izRSk3PKrYINdNN2SsFKiEdUjEke9Ieh9cZ43jkf0yFh38vAntAbop38cmDVbSx__SfOLSTBkzPhq6NkPPtba_ZxZOWzShyRu10njlpkqiilkcm3TpDV8yVF9opUuOeHPqvKESPK5ygAquOQbt5CXBuBrrJvALhERqion8FGkC_Ce2XQw
-    widthPx: 1007
-    heightPx: 748
+      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcII_dLm2-u_AzZzoW1V-F6XTwUHwyyV1tvnZdeBr_szszofUDihGITbRFzYCUIdWnlN4OiGo-w7iGq5tX6ue2rPJyIPAQ3Gmvgy_jKdiZQdkUjl7rfxJMDsbfIfkGuaZwK4ibzS5HaZA-f6n0-Zee-X8bfs2FLMLeBYxNKljPn7H0XqIRx4WRm0QifNlx4FBtfLYL9Db0AA9SuFZwJv-h_eFk3XnhUXkQqRRuJAcXoHr5nVl1O4_TXmoVCRmi-wQY5TbAf9ylFcSi9ROUVjAfvuE6_WIHiLGEIwGNpqavvnqg
+    widthPx: 1067
+    heightPx: 786
     authorAttributions:
       - displayName: Toryumon Japanese House
         uri: https://maps.google.com/maps/contrib/100609488828992243492
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWs5qkS3plCbRuUpa3LcVMZMcelaYE_xQ853LQVwYZIKEFOzoiU=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOmQ_jlelrCPQOKDB9UM_5SxXawtPjf4p2R9S1E&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM3Y6IAzLetfhicihgExO4eEet2EiOYrM1FtNmO&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOmQ_jlelrCPQOKDB9UM_5SxXawtPjf4p2R9S1E!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM3Y6IAzLetfhicihgExO4eEet2EiOYrM1FtNmO!2e10!4m2!3m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
   - name: >-
-      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcIIgFx4OvrQBASo47ZDM6Ubs_kqstDy_4S16OXmJTfwKp5Ouako8S49eKfjpMZZ7jbc8af4JZTD-HNHMonqzlw8GfU6sFELW1LWamksXL0EoCpXuFbDxV5iPmIJIF6lk22H7FOfWhUYNI7EmnyTHccyzbt4NFub5SYTROEa3mOZLCwu3gehNGotPy0RN0WC5V0AnSfe8TGOzZhtYc4sSe_Q7AX2iwvYeXOGjX-tfjPNExSDmkKbb9Lo9iEBkfkpbNEX-DppUAJ3snFleR-vkIStsn5ggm_0uD_x2rTjD7U_sA
+      places/ChIJj9dFYl23t4kRtofPHMPFewA/photos/AeeoHcL2KE5igvdcZyzfUPZdhwampqtu_qniJIJgksxFXGksxMpmAMqcfQNBhzvYk5aQBcf1oFDxXmQCWrpwEuW6HhviV2MSuOxQlvQzRwHcrccTjjERxOaY7BGOVCEq1kn1Pv8OPQEMtRli0cFhQ1QGjQtG2IV1pLyUaFHcUxX7VH6KxcRJq9D7aThYHbNCMX-vNC81U-UwtDc5L4w2ogcft9c9gOB1TZ5Yriu7Keus8ae2K9dTeWWUMZBuIrqJkob0drAoh-gURCYT99kY2bjN_hgZkD3G1Q7fSIn0YPwjOXON9A
     widthPx: 1050
     heightPx: 795
     authorAttributions:
@@ -182,7 +182,7 @@ phone: (202) 785-4600
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 821
+rating_count: 0
 website: https://www.toryumonjapanese.com/
 reviews:
   - name: >-
@@ -408,6 +408,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Grilled dishes, ramen, sushi & bento lunch specials round at the menu at this
   contemporary option.

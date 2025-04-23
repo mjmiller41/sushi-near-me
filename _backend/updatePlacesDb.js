@@ -1,64 +1,70 @@
-import { getAllPlaces, upsertPlace, upsertPlacesApiSkuData } from './lib/db.js'
-import { checkWithinCostLimit, getCurrentSkuData } from './lib/Sku.js'
+import { fileURLToPath } from 'node:url'
+import * as db from './lib/db.js'
+import {
+  filterActiveSkus,
+  filterUpdateSkus,
+  getCurrentSkuData,
+  SKU_FUNCS,
+  Sku
+} from './lib/Sku.js'
 import { Place } from './lib/Place.js'
-import { config } from './lib/config.js'
 import { getPlaceDetails } from './lib/google.js'
-import { instancesEqualExcluding } from './lib/utils.js'
+import { registerShutdown } from './lib/utils.js'
 
-async function run() {
+const saveDataCbs = []
+async function updatePlacesDb(_places) {
+  registerShutdown(saveDataCbs)
+  const places = _places ?? (await db.getAllPlaces('0', 'IS NULL', 'DESC'))
   const currentSkuData = await getCurrentSkuData()
-  console.log(`Sku data retrieved from db.`)
-  if (!checkWithinCostLimit(currentSkuData)) throw Error('Costs Exceeded')
+  Place.validatePlaces(places)
 
-  const places = []
-  const { rows } = await getAllPlaces('1 second')
-  if (rows) {
-    iterRows: for (const row of rows) {
-      try {
-        const place = new Place(row)
-        places.push(place)
-      } catch (error) {
-        console.error(error)
-        continue iterRows
-      }
-    }
+  // Data and CBs for shutdown event
+  saveDataCbs.push({ data: currentSkuData, cb: Sku.saveCurrentSkuData })
+
+  const placeDetailsSkus = currentSkuData
+    .filter(sku => sku.func === SKU_FUNCS.PLACE_DETAILS)
+    .sort((a, b) => a.cost_level - b.cost_level)
+
+  let upsertCount = 0
+  for (let place of places) {
+    // Skus with free requests available
+    const activeSkus = filterActiveSkus(placeDetailsSkus)
+    const updateSkus = filterUpdateSkus(place.update_category, activeSkus)
+    if (!updateSkus) continue
+
+    const currentSku = updateSkus.at(-1)
+    const fields = updateSkus.map(sku => sku.fields).join(',')
+    const id = place.place_id
     console.log(
-      `${rows.length} rows retrieved from db. ${places.length} usable.`
+      `Updating ${place.place_id} from ${place.update_category} to ${currentSku.category}`
     )
-  }
-
-  let placeDetailsSkuData = currentSkuData.slice(2, -1)
-  placeDetailsSkuData.sort((a, b) => a.cost_level - b.cost_level)
-
-  console.log('\n', 'Sku request counts at start:')
-  for (const sku of placeDetailsSkuData) {
-    console.log('\t', sku.description, sku.request_count)
-  }
-
-  let activeSkus
-  let currentSku
-  iterPlaces: for (const place of places.slice(22)) {
-    activeSkus = placeDetailsSkuData.filter(
-      sku => sku.request_count < sku.usage_caps[0]
-    )
-    const fields = activeSkus.map(sku => sku.fields).join(',')
-    currentSku = activeSkus.slice(-1)[0]
-
     try {
-      const data = await getPlaceDetails(place.place_id, fields)
+      const data = await getPlaceDetails(id, fields)
       currentSku.increment()
-      console.log(
-        `${currentSku.description}: request ${currentSku.request_count} of ${currentSku.usage_caps[0]}`
-      )
+      data.update_category = currentSku.category
+      console.log(`${currentSku.description}:
+        request ${currentSku.request_count} of ${currentSku.usage_caps[0]}`)
       const newPlace = new Place(data)
-      await upsertPlace(newPlace)
+      upsertCount += await db.upsertPlace(newPlace)
     } catch (error) {
       console.error(error)
-      continue iterPlaces
     }
   }
-  console.log(placeDetailsSkuData)
-  await upsertPlacesApiSkuData(currentSkuData)
+  console.log(`${upsertCount} place(s) upserted.`)
+  await db.upsertPlacesApiSkuData(currentSkuData)
 }
 
-run().catch(console.error)
+// Determine if cli or module execution
+if (import.meta.url.startsWith('file:')) {
+  const modulePath = fileURLToPath(import.meta.url)
+  if (process.argv[1] === modulePath) {
+    // The module was executed directly from the command line
+    await updatePlacesDb()
+    db.end()
+  } else {
+    // The module was imported by another module
+    console.log('Module is not running as main')
+  }
+}
+
+export { updatePlacesDb }

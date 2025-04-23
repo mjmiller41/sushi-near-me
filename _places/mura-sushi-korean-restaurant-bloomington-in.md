@@ -13,7 +13,7 @@ description: "Mura Sushi & Korean Restaurant (무라 스시 & 한식당) serves 
 place_id: ChIJ90QG7XxnbIgRDf-NHIKeOtA
 photos:
   - name: >-
-      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcKGtl8tYr6fFQEXLylCIpqiXNHiCWmqO57T2XQoZo4hZ1RZRHAx7Ts6WWDCA5w5UMbHeBw69cwvkl3DfslKrk2bAtvngFMMRrgjs6dx_Ep_fKDoSBx4Uty6yKyMsuWBEfslj9MVk7uGMdUxnFWtNUX2jItTIHod7y6mu-WuMxaCuG6Cuoi1_rCDAmtsgxfkWCUx_SalHEfuJFD61JAWc9hogTyab6Ioc4rtPYKz7VggOAxaDMG4XsbjTjUVBBUV10v0LnucBd6O5VbP2HXLxWT4gyGhZGnAUVUvTUfM8JGgzg
+      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcKpwLH5AIeav4R99Fa9zOxAUitKFcVRAIpXJ4dSD_IBFQNjnyixFR_RfsjiqIu0QhWfFaH9b7E-ikNuTqIwJYk0x7he0M1bcWa4sroRj9oX6Ilw1fA3ehHeE22Mn76Kb_M4u3liEIy7ydlAXJQDlsRV45bXgjAk33LAMmizcTQlgnj7m-iw4KX-IwOlCJLNAK3VAowq0TbLJ7qW4QLzpjHz-Bck8IP55f8Gl5r6gg8sEz-S1bJfncrgJSjPDK85rpRQvQlUZomYW9pubI33nUe89B9vZ6_XW5EQvAkrB304nQ
     widthPx: 960
     heightPx: 540
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNNWFtWLTX0zqoOf8Urq5zI6K-2QOpokvG_vXCk!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
   - name: >-
-      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcLVh0sC9XhtqtuAOqg9kuJ37vmzUoDSfcqf-p59sAOhDY-nf1-jwBGyTf80DpqfJ29LqhYa75TRjx2NPQEZ8NexXeSi8dLkIZf6yxEcpNlSiZIrnWjEmM3FQ2kWDNXnSqAeL3pG5qTsLSQDtqfta76ng7HFyu-nbY5R3gNNkan467_FiqTLFSOLO4H2_eOH_twYTgedFCdcU_JDG6BB79AW5lPIjtgIyvqmHfb2ir8w9gLDiJDYujQvPK1SqnXao1qv3ODJ6AFTfNK8H6GelseQlFGTWJ_ye6AZZqxWvgS8TQ
+      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcLab9XSAAhsVKYWzU1bU1t-oIDIXNFDXag0eFDj-7xOvNmr3svNZibyTkQK1um85ny0XWP86dyaavN7oNwybRluJ9nI-yWGOF6a5mbPGwc3k5VIBNQu9dn83aE8u6vLsItwpb8V7lo64o32Re7tSQ4J5WHNORJ2FK6AukIplKKjJTkxcPdguC1DfNI0-C0_uAoDsxd3myBh1UyRiFo2CrY0TRKWWNRphD649mOH72REjFLtGw8hLwIicfm30NxUOdqK25Cr_-vppqgk9wrjMm-BEtZEKmtaHtdYmixiZIMXMA
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -39,20 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO0AZIgAQWiAoK4hMd-k7YlrWqResLr6mCKgohk!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
   - name: >-
-      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcJP_mofnSHA9y0fHiEOhO4AmGeFkCGlp9qInXqu30SLzjg1VvMlVVXC_BJUveCZXkFHQ7IMdRrncPXuRQi9zjz-RW8bON-Kzgb5rM8zymXKmWn1KrkUD_f33G-YWnHVevJ7IiafAZKdeksg4zB9jeyHct8oSh1QdRxTbp2gOHKBQM6g7i3IYFYZ3FaJ1htjGLdeRD1-XtrF2DyPjpTOzTRAknYeDAgu-kVzHCZEBUeMpeXYm9Qe7vLyhnF_qI3t4EnpzQMH64Bu-3oJlVYj2vdEDn_dNRce8Hl6Nbq0sumkhg
-    widthPx: 960
-    heightPx: 1280
+      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcL5whUubIRp8rufs8xXbsXNSQTc5WIf-aC2YcfwPkqPqjpreIiTpdlcNre654iJB1whLdJGWlNFB3uHmNxNxN_RAzdFCDDZSRFyBIuXV_VhWrvOBOdf109o3WY5DO4o2AtU8sszDBFjQjh8DIs-IxoHVV8f5TJj8q0LTm-aqqnLqvnJr3mMTzD9nIPkwT5HIK90p98xdkDROZvwDt4I54wq9HdRolieCsowCOnvYtv8maaoBqdx5ASyZoUJbRVeuMJZIkPv0XNdZZYfKG9YscbdaC-jNZY0deIx5iBaBxxWzA
+    widthPx: 825
+    heightPx: 856
     authorAttributions:
       - displayName: Mura Sushi & Korean Restaurant (무라 스시 & 한식당)
         uri: https://maps.google.com/maps/contrib/111649670841983904155
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVH0yB1pyFOxKzgSm_pJUpeWwaVy6qt7DBhPZPPjTxqlVvIcEw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM1d9JmAYBKq7niCndSNE-Berxczvgv8ZaQzfvO&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPlaBgI4HhapU7J4WwK6G53JUs1xjsZAdWWiHX2&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM1d9JmAYBKq7niCndSNE-Berxczvgv8ZaQzfvO!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPlaBgI4HhapU7J4WwK6G53JUs1xjsZAdWWiHX2!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
   - name: >-
-      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcL3YqyOXNebZpiT6ZoUB7hJ7XgAaZ929jDn1EJhWK20CHax_7g3-iatwAiJm4jZWcRMVEPTiw6onHnM_57YPPd9_Z66tqRYHkdmyQu_Gi24l16vNWAFnwpbCzSmAYOFlrpsNX1Vg-cN8qw-mcpgHTLxu3I8ttmE0Wh9URI3SGIbKqN8HypMQfQ64uvz8ROWrf1ZXe92FZhXrdB3KkvuU7Zbj_YUxbUDJ0ttoM8ikAW4mkmXtqg9CoLpnqJgGBihu_YQi_H0DY3FitMhdpdQCPgnUoz5vP9-wqFQ4EqXj-6UMpU3vOGOBbPnMKWO0YL44YSUkFWOP2YcmsULuITSd7fUz9bOmR6mnlIXk_DAf8jRv8TOvQroQ-2x7QbU-lAM2Ejk7W5cDSKynO9SPEKm69JVTK-b2EzWvcX18YwI212b8vXK
+      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcKNNM68VOEiGyZDuCgv7LHNfTkzto4mW2Z27E3YDXabU_AQ2JyYbeDiMboLPHzGD9hFmlhSaeuawWL2pqCrvyfaM3QnpfoEYuj4bX_Tfb7BnDzYaF4k6zjz3FbLa5HoCoBfMyr-gSgyC2B8R2eANmlCbYJSYydbEFNnoexPDeZVSoFUC6P8GjtACBWUwlpxUvg4ONUqtzRgE86D73PzNXUpAmEUp6b-i7RsDEOP7995WHGsgLmysaUj9YUDIYUjZyKx9Yrcai4NtFzZ5Pzr-DLHNMKaaT3j0geuEAgIL2B5bBfLr1yAyPswsORIyfLtChvBStY0iAtyLk58aP0e8teumEo3dlXK27bx7ryy2I9IhVZuKPOYJtb0XLuORRUG08jzTj9n09NtTlPwS7YDlmNrRrA7z9zjYUYT3K2cYIE22SOh
     widthPx: 3023
     heightPx: 2564
     authorAttributions:
@@ -65,20 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICd44C1mgE!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
   - name: >-
-      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcJrSlq9r6Jf4JoF-LoARhw0zBxVbFI9CzWQiRt-8l6U2Bcoh4vOGlI4W9XLfddqIVmevXO-8k7vVtHU41Xh8htRNg1zRxOHT-3Mt5OjDphqappcC4uDWZP_u-r-UTVtj9ufxTkYwqCeKcY8LzPIowtbu8uWfxh5Qe1HjhMjlcgbdP_2JlFFOXdx6apOpHx4kR0haqXtba_BzbIXhBIMtnnJP9F6L283M17r5Id869AkYCOp32pgZr3G0J8wL2RfRYhJF89g5oHr4Pc6f-3KlXA87Sl9A7zwatwn0T4Mf5A03w
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Mura Sushi & Korean Restaurant (무라 스시 & 한식당)
-        uri: https://maps.google.com/maps/contrib/111649670841983904155
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVH0yB1pyFOxKzgSm_pJUpeWwaVy6qt7DBhPZPPjTxqlVvIcEw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLkvS5kMvh2AJgG8R1i_afrQh7yM-eLUEOQWbd&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLkvS5kMvh2AJgG8R1i_afrQh7yM-eLUEOQWbd!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
-  - name: >-
-      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcJNSRXR3vNrxBLD3QecXl-OQdYPqgv20hy-k5YxiG5ka7kWA7KwS00JtmCDDooqf3eAHOwivLCzUMptcH56DHq7WVEK5t_V-WlnNlQg7Er5Pn62ZTSexoIauUUSqZsrZrF3cH-lmjeIhc-ee0cpjcSrO0_KeDzIG00za_RDJqNgDOvNfJ2cKDFChQy9RF-g-EQ3JPbe2FUpGkeqGkhxUeUGjjQdPgdwtYzCGIm6Xf8_WT5bDwUyxprGf4Gyw_VzPiau-T2V5kDF749SNR-KRBitnFhIRU_-1RgL-6yrkeO0bQ
+      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcLQZ9Flwioe6WmvvGjMvKvXSKLI32ZWzBFLXqZbmE4oI738i4pcS35b8tsoh_lK8fjyqJtZDHPWV6VbrJmrzCP6AB4AOyFHx0ZeomHPU481CQGRVKHaeWbPfgE7scxiNq0HbGYsQVaIhetpcXdNKw6svfOQWUrhmzkfrgfpJgbibiqVP8SjtYaIXgw8S3YinNdSEt51UmNG-pGahLI5RJqGZbu8mVtax22Vplzgnr2-ZsTUB1kjpyYjOhGPe9BkvVlHkAs5Tc9w35oVzTg7LHGm9BQtKsw1ub0ZXHYBiLQQzQ
     widthPx: 1440
     heightPx: 1080
     authorAttributions:
@@ -91,20 +78,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPALri9ztK6eQhglRTK7uIjLtVV4hmsIksnfVeN!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
   - name: >-
-      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcIgmkGh-OEohSudfa44KAljMdbJw8VyaTNXeXmIjQTv71hNKifA-LFeTbMhi95SCHqCkDzggljiUli0CFMAVw0pu97piaBicPhoHQysfFLlvHoZtW7D28Hw-yWUpzRz7So2nPG4EfgzWz4Szd8uW7ibUowj-trkhmFBUMmMWtMmsuWUmFhsXAy_0fWex4uvNrJZ7R7_Y0taYA6SmdoMF-GZ9fd8Dz5VwwYXibu8x9L4Tv38Kzd9w9UaN4JGOM2nc1wKrHWIjfQS6U3R7kXGP2aisLLZk28SkEnDn8XWY926BMbpO9nQpl5gPg6-m5WNG9_J0Lzlq_CSrV1gLPrDwzY94oDLqIXNo-fDaa_67ej0xriErZBFPLU6CNjD0D3jZTngS3nmUjpQK2bF3NR0XpCFoXiDlirvbN4eoFWNJsRxyhMU
-    widthPx: 4624
-    heightPx: 3472
+      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcJt8_Bu_XsTekFXvozgqNl6fYdIahtrtwLqq_47ZpAMvoTGYL4DrlrbwpnJX9sJ3-2O0UFAKy1CI1_9xb-XMa-gttYh85B_ZEPAz8ykx5Knc8A4nBUCoN94w8yIW8qOWvRP2Uro2fo_NBQ92I0H2A4B0gaDxGplxG8lfbEQxPyqo_LmWTu5JI-0Bpwovmdm0F4PkOens7bqvyGa37rt6S2P7h4zmcXMVaWKtY7cJ2fZrnhr-YUnWyvIhIX2feb0zEJeWdRVKrPEGK55Qj7AUfE5i0ej5FGoinSXq5xNVqkGhw
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Walos Tsai
-        uri: https://maps.google.com/maps/contrib/104336050782947152571
+      - displayName: Mura Sushi & Korean Restaurant (무라 스시 & 한식당)
+        uri: https://maps.google.com/maps/contrib/111649670841983904155
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJvZnJGjS7bIforkW5yEoGfZTTAvCuP_4UuUPigtwp3S2aRKQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVH0yB1pyFOxKzgSm_pJUpeWwaVy6qt7DBhPZPPjTxqlVvIcEw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCAyMGwiwE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLkvS5kMvh2AJgG8R1i_afrQh7yM-eLUEOQWbd&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAyMGwiwE!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLkvS5kMvh2AJgG8R1i_afrQh7yM-eLUEOQWbd!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
   - name: >-
-      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcKxYoLnOqmqsIIFyGivXS7T4YolHHD9AGfLCSNmcsJttQo-QytRGPPUnB4Xz6qDKi7GeS6bgjz5JZkRJPkQScY-5D2ZLwkr_VMXNdtYiyVchpzsylsYs-Wqertw7Z7WZYEr6eoLOA1ve0X2p7vTZd8GUZTC9-XDHW62GzGfKZedWRgPW3aeEJIEch40l29Dx4cBy0hgevjwS1YU-N1EyenG5Rp5GcnuURa0X32ejVyWYhIziBxzd2UWT0RJfzuqgFDuUSSlUv8DvwIoQJq9oT2nHM8GgKWzhKnsJdRUKmtscNCvqJdW8irlv8TF9XfBhd1pfHUcnGxNZaZsRqzRp_Yzi4z7htucTzo8FCi5MlOFsoQ1qDLVGeLDdfMcTFW8o8nOo2jAz9xPvItntmQQz1LA7I1iDoXTNR9hocb9T4zh9xU
+      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcJrx3PlMpwCR0WNjP-eU7yOs_NCleVDPqGfdjCu5ZXg8BJDWqJbsfSLfzWWosnsvMehBNedqsC93-Qt3Act-6mRVBQgnllX24YR0YvLtYULBIF62qWMtTALK5ZyO6IFK-YlMjbkR_6k2KRuFud8ClXlrVDLfNjPofaijaiHl7L0WwankcwX_10eUDedXGJV6UUXwE3Jd9f_t7aBJEyqKZbM60gAdivRcrFZ2PRC9atDEyD88b8MsjkmbFDqnRBksXy7-hfklZT4lfAVbyBva-lQx_YW1b2W_AN_UylnC6Fj4vJ4BXnYzFxOzy0Qljn-go0e6_73mZM6g4W4if5TQzkyoaQMlLb1E4sIRw-yCVXpKiQmg67Av8WpSC6D0nT8xC9BR4IMu4LVZZ3KBdBZI7AkvkFSBNffuZXzqnKTxzkijx4
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -117,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC15eKInwE!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
   - name: >-
-      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcJvwTcoMkhME93hp9yTByWFH2t13n3tju2DUgYdUPAhPd_3cWGeg61V_EaSoPj1XlGrh-znStQ2yHRdMStNTKc-Q1aW6D7E1gy81bXoFqGW7XUyozuiR4FJsKdYuZa_r8PV_UuY2fIheZ0hRId14EzUvKhIWUOd8PT8J2pmIiyWJ_aFLztI91a0JSxsnYe1-HZH8Cy4NVIi4d7pT-CoHDAYvMr9pdCLgnu-cpz0_v2PbPMCL1pdTNE13Lp1OlF64GQzqZYD1T8f9tCWWxo7jfddtwffI0GDH9Jdr5CPdcmBR8uZU4nMqULSiHjHh1fZ6sfCJQbE2ENNOYXnVbn1YOTyKLFsmn661XwBmpD43pqXw-aF_nSNTwkF3B3tgTGaVvl_swlxQyrg9YPwdDlfZglrPbQHkkurEjFpfEyG8qa_1g
+      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcITXQa-G7AbxUOtoXQGGt3bqeOHJOzgFF3bkHudgka4lr2x5q-vXhlxxK778g7xNS72_87evELLkeSbYmqkBjQeZmfFZV-4XV-M5wDqJ1wDtfB18WKkgMgewzd9Xud9QBYw8COrFcPm_7Mr_gmNrVF7-Zhtt-N9ZZLrYdsiN8HLUCrg58qd3-LnVcgqUcd_9znL3s7VbOVCn0tFZZrxNqo8-NsUhqJwlbdoDntuGUZgdjUcKZEYvOYQW4glfyUFujVOHhxOXAbhT746ehODUsMnLTFJJ0NZbPXwp8SZuOuNpnLxNt4ycFNkCVd4XxBiuZ0QCckxTuHjHPH-J0v0Tn0-VucplgPqssIJSav5ULkVshI-0vrutpPgTbPwMBcDwdI8Rd3eH_an1fIXvzMaLdFr9pCRImp5uw_OuMWUl2mhtg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,18 +117,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA_vfuKw!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
   - name: >-
-      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcJ9Zg6UUE7KW79o9nt90_y_nisxsdI6IV7gqhtXpLQZ8VT9yIAN2S6RxTZnlvndBZXj1hxQBkV42VQZ4DjfYbCYnFyinwGES7mh4Ji993YnQGrsca3bVPebOK17z02IlYdpWPZD2GnAB0xRos_zC5eSEsYCnvSMCEiWkA8vC60tUbACsiDERfSmNBUfC3jmB5TQaLy32SE42hodrOHoHhfaLZhP6kYqSqKpADVksQiHAi18qGW9RKO50SlbtG5BoqNeNKgh-d-Z-fRUBkHbg9WLFgQimc-03A6DsH63gcpJBQ
-    widthPx: 883
-    heightPx: 933
+      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcLVMOe4tIw7S3-B9OU7Y7LitT5nkDgId44lOzBeZ7MPFfrRah5nxaUZIa5JMYpf0VPQ_r01UlugRixX2ZRN7VJS8R4VHoAlIJ1PGq77DFQfONCnjWS8XIR7lygWMe2nJYuE2kX8lJvLvK70U39O41dQ6JMXjgNNjzPo46mSoHmXh0h8epK7fjIVU4Az6jWjxNwCTl_US27SI58oLn1utMYo2_uGHKVeTQ_rkI4s3nWVSdsBD1qJ3lJj46_Z-2P87ShOh_a9YnxlNqDH0AmbLR_r-fCQPfdoMHZL81Ofkjj29pmkU5kcVbr6hLto7UnenPvTJWP4daIpyAp0KgOa7iGAYPt4ANN8oaaNKE5OgUAZvz93HplACYd9zsjsS0AYM_NeNhMPfF3L5nDdtr2uqDg9NSEWlyicSQcvZulvx3FZ6hpF
+    widthPx: 4624
+    heightPx: 3472
+    authorAttributions:
+      - displayName: Walos Tsai
+        uri: https://maps.google.com/maps/contrib/104336050782947152571
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJvZnJGjS7bIforkW5yEoGfZTTAvCuP_4UuUPigtwp3S2aRKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCAyMGwiwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAyMGwiwE!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
+  - name: >-
+      places/ChIJ90QG7XxnbIgRDf-NHIKeOtA/photos/AeeoHcJ6FebKwHvZNKiP7WJsGrK7TjfWlqXEl0JRyDGoOK6gLXh0oghKRAGTkcA_CY3Ih0xIdd0uMwaSXQGwdqvnZSD_p7LCKSWK3TPvwH9cMrT9xAgW6Ef86NECentkg4wvzqoH7s_AHIzOWYZS8u6y2JPHOs7y2UJ0nXGtPVfbqETudDHTo0cKjcHMxqcw2du3R5vGxKMmqq6K1JMP-dV3qPuce-Uh-gLf4dtkjvKUI11ONgZF0YncAHgtifnxKvBm4lBzzHGrOQmXeOJp5OAABofw43E-qIqDSvoTLg8wTVrWhg
+    widthPx: 709
+    heightPx: 862
     authorAttributions:
       - displayName: Mura Sushi & Korean Restaurant (무라 스시 & 한식당)
         uri: https://maps.google.com/maps/contrib/111649670841983904155
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVH0yB1pyFOxKzgSm_pJUpeWwaVy6qt7DBhPZPPjTxqlVvIcEw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipME7ThbxIKRjCv7q8KTnFSF1cL10iM7qaqlQ1tn&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOKGcLXG_G55IlZzdDq295thffcjNCxwwTnW5jE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipME7ThbxIKRjCv7q8KTnFSF1cL10iM7qaqlQ1tn!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOKGcLXG_G55IlZzdDq295thffcjNCxwwTnW5jE!2e10!4m2!3m1!1s0x886c677ced0644f7:0xd03a9e821c8dff0d
 address: 1793 E 10th St, Bloomington, IN 47408, USA
 street: 1793 E 10th St
 city: Bloomington
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

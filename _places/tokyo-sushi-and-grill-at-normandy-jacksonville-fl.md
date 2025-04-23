@@ -13,7 +13,7 @@ description: "Strip-mall sushi house offers hibachi-style meals, classic Japanes
 place_id: ChIJVZB4kMu45YgRqEolNQGg9MI
 photos:
   - name: >-
-      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcLA1hukXkOMhvZenOF0KaiKr1alsYXAdKJ8TATzmCJMXvFXag_YjJkWe487pKfQYfdv6OP9Ot2NC0RLTDCN9LjgucQq-zJASJUk0eF992fFxgjgODJEwUsyebq8Y5nBjn-YKxfZVp-REuKPzT6iCXD3ZxDO6wTwZPV8Iir5T_ufDvsEQFjEcuf2OAQfdefagSVuZCEuH91mIM1656lv9iN0AR3--481ejEneS53VX3Xt5f_MSB03Z1Urr1TGM8KkqIrLprHm3MewPYnaem-mRSdDoHdNG_OGrwNDjIYCSOPfQ
+      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcLH66inkgwKXokBVfywcdOw69rDW2p_vALzgU56e6qSncbbk_8loy4Bn3eH4cUF9pyhy48uH8WK6-WEkgpMYmGXygiPC61Faej6J9iaezd0c8qKN0kk6DliN_tXMIDobB0j9tPoqhjj-mVy77ElhcctqB24IOSOEr91PtEpSAvcZGMCsg3W4sWnR4sNGoMWl51bXYPAXFVFuwZyps_nHFYgj2vo_5CJW9pynPqWXRWFr16uetJzAP-rkhQonKnJm0D3gYF49WlvrzFrzEpW1v9dAIZtRm1hH1ajJCK7xr4HSg
     widthPx: 960
     heightPx: 720
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7taCMIxxOxcVNzHDs5dAV_to0OTDhT7Vdhmw0!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
   - name: >-
-      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcLdp2LVDNHq_xD8AX6Jp-Lu1wmbMD9Vx8MdAKAvHjFsYQ3HGwrn0XN09D3TN4ehUygNiRCDODWIej8MDnU10Sr--ApW0lZzj2lVv-rE_vE7balgSrQ_ZgcjOdChUxTR-usjZd5v3xXeF6nKUNm0FVXbVgZRIvO_QS_LqeSNGp6fsjuuS3AC9kDTPePmY4klSBiPhhMRmfjRgd8-ptb582BqgfxptvncGlXUILC5rjyifi4GU1VGxrU_h5t8jJTzdpDiJCvmn0dh2mUihkh1_RxFLsIYtC4s46tZlqRxUW282Q
+      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcIWJj-qgcIdzWz1qvGAyEZIznESOY_4w7QkZAGiTVmNRdu27GfleM4GVwqMop0MVu0Y7ckRT-_FLFa_AImv8CS3-pklVx3b71rpBM0V6x08Kp0Hj5YQ3vMRar5QyGhLsJBxlaHA3ZbJ0So-lmobV8aHgifU0RGM6U62mGUhaPmCvXmVGvR0YeJsPUz52aos48_bcSYC4BoBz7oAadS1GkITC0NUVrllxzN2wb24DY3w_vodFWnCXpLkrfexuL6VrKIsd-qy328-nhd6nbuzfoX2byRjl5xDYzmPr_N3oXuePA
     widthPx: 960
     heightPx: 658
     authorAttributions:
@@ -39,7 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM_PckZ99GwFU6yLS63fMbxY4M754f_iz2xFl_n!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
   - name: >-
-      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcI7D6c3g971HGNAZ4U8BsAy2q1vQb5GDltPWPJlD_hs83ss0VNFs7CGKQ-zWfdW2XixMVp9-SuSDMfydbCT5XJE4cj-g5kDvXBmFSMYwtTsts9JL2slBcsG_k2_jHGfOt3fLAXLa3Bj7-iv1xBr_dNVyNsBWZeipnXoU4oS-Iv9ve0x4cUk4b-SpuyCltHES3XNNsz6nR_FxsxAzfxm1abKKBSTxmL5hoA4azWor7T0bULeN17lA2UCCBp5zLs7tujrBFEUpL1d8IUqNbyMr1RtK2mOasous2QL9_opsUlE75DAm0JQZvygaS9xmvAyIpRyrElEf9eQ8xQAs9zHxd2Un60iKBskPh64ogt-OWJMSJBXFm1ZvQbJ2plb2Lc1p4Cv1H4sD5xQZ4IzAg5UMgEl0OoocVr32If1LZUcR3as0yLL
+      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcJjb4MwZRHQB02fzvN6iTTBE4wcq0O06BtEX-GA_oXoemaLGaBFOtiFmiMot6bzLznp2vL4GOH2Jcya1JiKuohhSbNGx897OO2km11e8eAX9uOggq2Ev0Fjh4WVnzDEh3eGBcF9nS1wtI0vYQ5OMcsnIla4feSk3Bzm5sPzaZe3so1TapAOY2CwJKgvEXIngJN0xKRgI4dToMeFJIIGw9DathsKZxaWoh4ULoWbgo-hCmlVVuwPvVB62ZMY2IIx_AD8GL0vFXth-FS0w6gWd-46r3OFNKA5vK0vKeTpDCAscqUnFL59TlaAbw7Sy6DdVwZfxC4DyzDlebyJGaPsLt12AKwMs1-cCLRFn8D1QklxTlgAHD9JAmCb-IoETxPp0nlS6CzHzyyYQcHfdCJk_lS3npKjdXQ-aJ7ZBXvfvAaoPN3PcTrJrFtfOk2gT44Y
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Terry Peoples
+        uri: https://maps.google.com/maps/contrib/102487806982342529873
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWqI6Hpkxfnw9jPTB5tPLLYqlJ6AaUMGptnEFOgE7emkMf9SFRDAg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAIN0uGMB7jSmfuoS0ACYSA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAIN0uGMB7jSmfuoS0ACYSA!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
+  - name: >-
+      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcKsfmxMgjvH_iFjp8fZvgYZS4VLAbd9VfPvZ_742-CY1MTxfXmktg5G2yFXQNSsiL9eNyID1O07iRrlQ0uJFCR1LpJ_fx53FtDzk_5Ao7MGHym8F-46AztlxndPF6KRokBgQFxw_iUBIWhII3pjBoCRuSiplCFLqpvAzHyZ9YApkfK2G5QF7SUV6CzScr1vzP6rmP3inJBQK5OWvQYfaQwREQXOtjJHnsoJB-sYtNJiGxnmhe2-HFPlSj6kmU0VtJ2Rw0Z_2fKPMTaApQ5LNyV9fryd0Z1PEt4nKqgBz5zIGRA9P9wmO32y0XNLVZkHOOR69fl5OTM06AEFdXFhAe7eTUOa4WQLD7Swxq3XWuUIZhbSBTjd0kgxYFEaaV9CtQ0kM9qgdVMPXuybdg3ZWON6gyDHW2JqYUN5MRvukFZ-EZtP
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -52,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw8s3_0AE!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
   - name: >-
-      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcI_beEa2-5-acL1w4bbwF0o029y_-Zfa_XLczDpz1hSnJD9Zj4J2VkIx-KBu6H536R3TKlxnyVoSqHBQiaUlhff7v8cMGIQAy_v2ESNZx0Hiio9yUFlSCPOHxBeUVrvo_X-T0-k9-Rd20fjtDsVQi5wXcC7WLA3Ni67alx7AbOcP7ht-kVDDU4AA3kVkAt1Wg2dnN3n_ZZ7JpXhDrB0ecIX47w7Ooq46-LQAN0ShOIPNnJWpnIGOvTod_sbWTX309Qhsga9mopPzTcHPmdmY6uZY94JvNlorfAkIZpzCkuGEkqUZmszwFmWrOtMKxVX34MjlV1OeYgAACaSsAaypEiJL83CpRRcPjEkVmYgrMbtA3Y-da6vfDY8dU-wWsiNfkSSlOooZQB9iHD7GfaShX-b-zQCq4PA0HnhVrV0sjQ
+      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcKFjI7XPLYSUvasSbYioSut-0Y64ZJUbEkXrFUkFmX4LPnFMQAoEEeXwQ9CHNsffG9PNo_v7dNa-tOeGkOLHfZteqsnU_6iLU7okIYp0F1WoAnoSbLV33To4xW6F_PdyKhMIQWWJ1asa7z1nXWLVrS-i_S9hxf_OqXXaQs5Lv7lo1zCr3VqaqE9qKXt_SDexDaaMEFoeqhtMBaFEqcmXcwP5wOTTyAK1XXYgEIp_jtrkE24bIxir-5FVkOQu6dR5_NiaYH8Q3RwOeRqh7xL-Hlq8897SEPfnvti8wuH8E-R5ilEMEfwmcUM4REWFSNLvLCvKFKN37TzRsRJGh-bBGjKkrj_JZkHJTGv2bo4ybwrDkLnQ1eGRMeH0xXy3U27bM6_Y3t03fc5zf2Bnv2Wv30r5IgK0tMp0VVofVTF-Xy295SYNQcJ6IgY3SEsOlED
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Terry Peoples
+        uri: https://maps.google.com/maps/contrib/102487806982342529873
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWqI6Hpkxfnw9jPTB5tPLLYqlJ6AaUMGptnEFOgE7emkMf9SFRDAg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyfQzCqIgmfuoS8ADf29&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQzCqIgmfuoS8ADf29!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
+  - name: >-
+      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcKxHiXx4mdWvJqq9rJ2opDEJrVVMBCpXTc-jObQjW5KWDzYQI-KD_3qgBfvO86O1w-b3ckPNmJGZ8brmYk4ZUaOY1gRbboqV-1I19-Q6EKJ7u_rNBa075xM7a2tTobkjhQ9Lzlw4HvUHeoFXHvRhkqHc8UPzqUUFL0AeErK4fZnMNwAeR4faXGBe1dzuXvg5uTx1ScxvTSonpMQBsHgPq31RHkiljpN--Zqix2s_VKX8U7IVNH3Hra4ZQQCKu5avrw4apRW0Rk18V2NgTQ8dqC3j2oQctTLmrs6Adc1cuLhfZB4h88NLdZINJO61t26DSzFaPclmoIDiFb5YQvW1H4NpW6traA2XpVYmBD9qCByM26C-NUyHtPLcKxtUb0fcm4bokS2V25tCLMBSxp73b-KvL9YGo3htjjhNBDqNh4
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -65,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDdvcHpEA!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
   - name: >-
-      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcJaNuJ2OHZPIQRLS7S51ZWta_lFbG6rVQbn8ZJMiIqkSJIbZ_OsWdQnYTa50o9UHRJPnFHuLCMOFbpHPals6KRb3i9fvEeUzeSVAoS3nQCZL89VQ2PMOJe0OIyONk5KJrIRG8rpnOwYlJUpxoYlzUiSCMhO-7gKO3hqMjDz7CTybApNoNf-5D2NUcleE5iru6SBkvIVGcQBU8wxTJ2ebOGsqlUzrhJgbEzYNlYVlZeX38sIaXuvc8tjZm88DKNbllqba3N9n7cOW-P8urrvEJLZTjXzAdnrDpmNmkF4oZ8l4QpJv78O6QmZzjJ8ayxnC-fssWx2hjbQ34q6_mgUB1y42x2YrHYxg7DdHKOfy4jNgPotD67gU72OP-y4EFzFWHrhJh4_eIJLER_FCpjublAHqP8ye0-uQZm9se02H7kyhw
+      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcL41MeTdEyAHSLVlF9wWJAGTQlDgQ7JXmK_k0kSURRJKRdNZXWnoclLRb-v_d-60eY5tlQWNgr9vdZZVeYnwloPDm7SL5HzeJgpu6_fCBCrfIgH-RbOG3wLjTbHpuwly4k2fx465PbLHhYQUm7RuhSDioij8Lu8iZV3Kp-W9ox35J0pKwGSBShJeI2bAfuObBNMjOGAdCcJuxcZ6TS1TLJtj2HbHSjB_YnWH0u3WuC0wYTs8xI-8NMQbFHO8nK-_A1UlYo9URUGpavcWkR-jMXY_uzCjhaOM5oygQQi3f7C5QugEa2Lx8ztGPNfm0o66W-UnPg9RdqefXgbr7tropZrVCzRTLnRGZps1u3wbGCIqV6c7PlvSjLLmFZGaAsXkEwg7OauMcIyxvMvhcEcFQK9KGECUgq9LyiF95qXKaPIaQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBlPLoDQ!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
   - name: >-
-      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcJdY7aUbFa_ZS8uKC7TVnm2qL9fBzydLHQahmwV_fZHiKF6f_7i62kfaJhUbT-Oeut_2mLp4P8I_PvE9xfCiEcRuWvEhDhSrlUhii8dfrEYI4u6v_BWS7-J7mM-O5kteozrgvkr02-tToCOdZXRKMBH9zjuiT6jhCR-k4V86ATBpYOow1IRclK1NOzNqEcY6gzp7iWvyIeT1WgEjaxzpLT-zGtykEUfPC0qfF8iwydJPbCeFJUEikB2IfM6N3nh_UueqXJFNNE-YLj-wFeFK-ih8Nhr8z0LN-8u4e2mH5s3tA3K4ch_ZW82HfkqK6FMAv03RXz8h3pVSVRwwah_nYgKMDno1Z-HJfZgXHwEf796KkS4UhsmQZDwEfwbp42XOzMhr50QWuWq2augZQ5MIlPpeCkSIWYh0z_Bb7vFia7CKz9Z
+      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcIyb7vPRLnjuJM7-wVRAybRGYTmJl7TJw8UVAeof7IotiX_ghrgr1tSBtt0GwHGAhvZP4COkHa8v__XZgA2ZOEEFVgAq0Wrg528YiKmKWTgOHtSHQlXSd8olwG7t1U8W6wqTSBwW7Q2X8Bjfgwn22-C8oz6yjqCnqL3hldS7E6H77eTRkbuiZoqopMaXdMffW_zmjm_XqbK6i9bNvN5HZ2FRrKxbx9xOqyBqURxp_YqMhbGLnzjClwCrJDdQDxp2Kzo5scu5BxBcXI6sIGwwcdw_-kGP_7bCstGl-ssXN-S9XiUleJHKcQ-NNakgOf3zJwueFo362dVQPsjUrLSVDoc-c09Lx2oWDbCOQgVejPzP8550Afy1ISuEPQ8UwjWDDu1j7HhjitgIkCex2N2sJsnXvzhPZi9YJwTp1mJswDUsZPj
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -91,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZiN73ywE!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
   - name: >-
-      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcKkpBAWA1VjoFI4cfV5zSoMQlExe98LXx6AyF-BO56u603QhXPIsxYdf--Ga2_7toHvOQD6nX-FN07X4Z8-ACFDfxui-1b3j-9wOJE4zNFFCGev_ayqqquqfJpzDX2kigEVuM1iEfIzCWTeC2ma5Tws4F9EsLdHioSrk9b0tfZGQ394ANRgb-cmAutXJfyvFhi1LlVIEBVTjwClKDiq8PaoNlG2ercPl6A-EqYrHkg8-e6uFB_MsTlqwjndh7jFnrACD3xxK0LEkPua04yGvXQBNtNhcnr0X3-WYJI2tfltKg
+      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcI9E3izGXSb_OUx2HWc-FtoytbIIB_FmyOmtnQ-LNJFWWnEGlTW_z_5GmlViM23AMcQIDbRhhfKgkNztdhilhdQx3ALYrTGE0inu2l-9tBERotiFz_wFgt33jC-B-cYAUFW-G9bJ8XxFyy3PZIjm1StSEAHMD7f59ruoBgXsu2OWzA--DTGkWAU15Mdgrn2CCdJuRTOZ8IhDhUcxeFVZOR06Njs2FrScAsPe7e8SzPLlU6VUxAEjpeiWqj5Ol2bwB3P1rsuxm6yVwzP0Il7rsApFRkJBpTNyjoih1FydVctKw
     widthPx: 960
     heightPx: 720
     authorAttributions:
@@ -104,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMeeVSsOU8WRFnlma39bx9U6XkRZNgEeZOhHpMy!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
   - name: >-
-      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcJ-G7F7drssMio2n9x1tcVunNWxBofUwowlVgO0qUr3bNPXEClf2RfVI6U8t-3MxFuKj8QHjeL03IezPIYXC2EMIvnw60Q1Hcm0j-tlpwKjktvmvoAinkdZcI9LyjehhUihNAb06iq7n3L3v_7iQbGcHOPVI-5RSFTUigjf3H3QnajSXgLItLEFHhrUwkVVqW1DqNSm9K1ZjqtEbiI8rDIp1cMAg_HabMKj8Lxg5Wo_avFYjEd-70evesECAJWcv_SezT0q4P1CkH4TGX-2eFbu2oYhASgLmV-nrCaQXMl0aw
+      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcKTv730RNoYcPys5N2bLO57c_ZSI9X1DiuwBqZwhf2W24yIUrObtisch8MyD2pIWv3mGLp4lEjQztjsYpfHUCrOzYxf1dl1roOb4apSB0pM3yqRvrOcuYgjVQVy9kJMd4nypdT4yjov4mMz8kIoQLmTGy4-CTpx_YHRUB7RwHkbekXOhJVivtylocjB1SthjDoz3lflMXifZDn45dCOobVz-NJy9MSdkWJ_EY3QocQoNcXKXjMVGge07_NyzJi-w6GQQJi0XGLoYO0UVw90gOPpPFbKJZAlm0LKovVk3mf2gQ
     widthPx: 720
     heightPx: 960
     authorAttributions:
@@ -116,32 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPdZA1LBkIv0QE5T5pn0yykMhyrfQioRPSLqLkb&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPdZA1LBkIv0QE5T5pn0yykMhyrfQioRPSLqLkb!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
-  - name: >-
-      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcK2g9LQVtK_6hkkFor1RA7zY1MGKk5n_WZpHYcQ6JHb_JpBvFHhQ2yF2AgG-n67S7IZXo2c5ow-MFU2Oq9ngoGfcFtXNaUNFFpKVKY4EsPVM_zaRI_RVHO63rIEar_p7jVKs2OFQwbgV5wU0aDjp3YiJrnujv_O2pfYgST_JJmJH6VTfWhCKv3dTd8KJC9UJ0sJsx67dCFjtKJB8xdhD7SwSMfLuEjntM5qPwWW9qI6EDZnvmuhrg5058Titx9y3WR1EhI2-Ss4iWpv_-SpUHPMXOdHM5zRX2l9tAChM12JUA
-    widthPx: 720
-    heightPx: 960
-    authorAttributions:
-      - displayName: Tokyo Sushi and Grill at Normandy
-        uri: https://maps.google.com/maps/contrib/107447235643358231438
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV6VPoMhpMbU0N6YcqNkbk6TWzgs2uNGCFE6J2x1zr578hmSult=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMnTVgRCWvtxJEVJtx1THo_deDkapWP2DZbIiFj&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMnTVgRCWvtxJEVJtx1THo_deDkapWP2DZbIiFj!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
-  - name: >-
-      places/ChIJVZB4kMu45YgRqEolNQGg9MI/photos/AeeoHcK3H_8IWCPw49qDex3bkelnSp5GQC17VtQrr6y2kdfL5HPpTbznt_2k9TX5RHDh85JUIJWJNtti-eACgpP3B5lG95Hca12fKUnCTf7f9M7g3lo0-9kqhJKQ0FXuKAE-rMXzdtYstC3eQ--jf6JJKZlp_MAeUByMMQg59qjsR1gjiUqvmJSfWUC6Wze-1FAZy-0s_E7JlembCBBYaWp3sshHQkHSmKR_ME1WBq_mfnIESin5vfLYb-YLG3MDPDrkcllQX-aFSW1TUbfxMidmWrLLwsNW0dDD_FNwIZPTTzgKTQ
-    widthPx: 720
-    heightPx: 960
-    authorAttributions:
-      - displayName: Tokyo Sushi and Grill at Normandy
-        uri: https://maps.google.com/maps/contrib/107447235643358231438
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV6VPoMhpMbU0N6YcqNkbk6TWzgs2uNGCFE6J2x1zr578hmSult=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNoDtW3OPBL-kXANooDOiQSALmw-bMxMWXujDY6&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNoDtW3OPBL-kXANooDOiQSALmw-bMxMWXujDY6!2e10!4m2!3m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
 address: 7749 Normandy Blvd Ste 119, Jacksonville, FL 32221, USA
 street: 7749 Normandy Blvd Ste 119
 city: Jacksonville
@@ -183,7 +183,7 @@ phone: (904) 407-3333
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 538
+rating_count: 0
 website: http://www.tokyojacksonville.com/
 reviews:
   - name: >-
@@ -375,6 +375,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Strip-mall sushi house offers hibachi-style meals, classic Japanese dishes &
   rolls amid Asian decor.

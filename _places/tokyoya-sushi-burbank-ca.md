@@ -13,7 +13,7 @@ description: "Tokyoya Sushi serves delicious sushi in Burbank, California. Try f
 place_id: ChIJ_YeOpTOVwoAR00pJdV1lhUQ
 photos:
   - name: >-
-      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcJb8er6dlzMiVrCNUKq2qXGUkParGukKpsXeBV5MFhWxz1LVIpWrAh0YwmVRCDM8BCXiAdkpacjNLs4ouZRD0KD8pGqfkLCMsMdapcSQEt6J_YrzmQIp1pAW3GZQ4SxBa4nDxHTNUK6MVNKFa09UweaLEQf4lKv9O-ZYtYicCfIYXbNSzc5k7gJnSP1QI9O4P3RnDUPDizk_xTOnrkgxv_tyavjpdJ45LTFCXdvKgPZtyAD3IdLoM3GeGdvDRv_lSYAL4dfoY0ivyTyI4arr-vZp364aNNqqvhy6tKfD6p2jNVyX8SKrWK9jAwzd43QCxUgIDvNaMcafEdH_wXgiibyQmhrgp7WHkRNEgzwz9Np3pB1HNXiM-O7RySQET9vbPqvjOwVU99Y-seSGV69eVZYwNRD2073Fln-wHQnPzfNBg
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcIZsY3_G-P8VC5cmKpgQA1-xgT7pmML-PJR3aB40_9QtJUSV7GaiopvtwPqL_NUDIcnerPvr4ExZMiz8ccbbwnp4ef5dja5NZ8J-X4uVlbuKFH7MI8Ori8I2ou0Sf9eIsU8nYQ9s_vUk4buwL0tw8PxyLe6MRC9o-GkMZ1HAq6jJ7siFktcUNIgWQCblV45wYY2dqvlOsMEDBck8i7xZnqP4jBvnTp20_REkxJnw2svs9rjh3O3n5rayv9aKzLse2lCXIer4shbgkh5TCW62s9ns1tRXm_EpKYuR3NEBZmQvcjFIHb4Ua4xX14wdwd0LdpGt0i2rySx2TrGjxizs9lqjtQgzaaYqAJ0ZjUnURx64uZzJOeJSVDkFHx8gHGRgs1yT2J3lGxFAYwVnIHgcU8D5ulUICz3J_YHEv5PdrJANw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk5oq3Eg!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
   - name: >-
-      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcJBQxqQFsoyv9E8HD1lOMpgB1ewoXQMyKdp51MbewUZ4G00WX3Xwe0myjI3RSxiQ9z-O595P_yMk55D5dz7K4S70U6K5AhzFO0FvPfUHGn58zOXCXA-4C3CEMUpU4C-ADynG4BhRgdQw0YCMuwgqm6fb5p8aWSNKDYXo9tTF_vnndm8MIGMNME71-2Wg_Jx33oS45bhsNneTo6wK_SwHT5RONeExVIK2fCXrCj-AfU5SZ3oU3QQ-Dr2S99BepTac09zzefJM5nFxlxr9TNpnFXR_ESfDA_6qEuXUml2hpZS8w
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcIM-X6WvtzrvmGeRs3QJog6Pit-Zf9MJs3C5lkO6S1Mx2xUyM7DK3mkv5UGxOVgnZkfyc1OOG67f1tpQKS7mwNfo8yR9_JrksccJ9NaAV3qvvCUuuAsFkNcjOlyZ5W9JZRgyd5CiOHdxE2-v_7L-EU8mt4swX9ABhW0pwnpxH7zwVRTO4FlOBBvnGbDH12FH5maHJjtXUzjubUblogOeo25kGdqJK1fVZUhbxjhDr2mDEXmNpizNswX-mZ9Goez67u9jUVGfzFEJQsi_qGhDhmW1jRa8yS9T5bAqKER7ygdTw
     widthPx: 3024
     heightPx: 3025
     authorAttributions:
@@ -39,20 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP9EUSnyNvgYXQpVyEF8KlZIZpXSu2dy8E402nl!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
   - name: >-
-      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcLcgtyt49TDv0ZE5JDLPPA2Yx9oziNyha-SE8F6WStsUMPEvBCEie6KMVEnIaOjgo_jI2p5zvN-ixmPK312s2rn2BtUtVoHr1pKyVGf9ByWHNlMImcsv7iiwk1roGDbfq33TspJrzlg0TSUmS3L7ZKmOW2QVA50NmQmZsuV648jcAxnft5yttDa0cgY8VRNaWZ7gfuJWhLuGYThbYWBFVnic7hfXuxEJ0ftGyak-gzkTTEC3aeD7skk3aVaFY1bw31gfuTploZRyG87-8BsiegBsugC3SPtWobq04xzHJZ3hVOZkxwvhvpymTVP2Ea-Ipb49MSpckFMbBmNBm3N0mon5EfI-SifZ75NzqNbw-nF4igwjaAyzqzStcVD1s9ssL4DLzHbFek6ML8n9goVRFaJ8TRFz_ORgWnh5fxE0TG-Xw
-    widthPx: 4032
-    heightPx: 2268
-    authorAttributions:
-      - displayName: Terence Kyaw
-        uri: https://maps.google.com/maps/contrib/117173542067236667671
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUJT-4a4dK6jiQbcDnTvhMSU9XZk-lcDFlkPTPTUSVa7bWLPBz2=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw87mTAw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw87mTAw!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
-  - name: >-
-      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcL1-RN-Ta2lNTSxmVTw-Fev1rwkCMWlbrmroyOjbUvAbj02e0XCPzmWu4Y2cYfSt19E-4il3FIBquGQOFmZe10p77VCWK8INW01AQzZnrED4cc8gkLkozTar4rWwyIAquuyob1vs2L3_xIcibEk_dJKZwK1rwDrj8BhBHr_NLyArOUyh6QXdQOvXqggUlmbLpbrBOf2DQEF5oaNlRufP0oAdaZPQ4LkUAEXV-GegpOm7UjE_NnWqhZqawN6cD2X5ZLlD49DaotQ89MrXdG-o3X56maB8yupGCZHpY2iMCNlew
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcKmtcrn-icSFqK45FkS32b4qi17rYLR960mugwucCxy0m6XXp-s81GEv30czf39d7lHhFyBdB9a8zheedidnhA67RsV8t6Je5QxDTeSNAHECugzc6b1cVULBaHqxizTE9r6pmBZrS06sUFh1AUW4W33A5VVQk17XMCJjJ3X7Sh6sJ-mECczG0fXzy0ba3-FLAKh_Uc64KA1Uk5PM0WUHrQiALA-IhyumW0TWuy-m-mtm8Y761Po3532tEIQEI_WC3f-wGv_sTQjZishqijth4YdKsWK_AlipYF4CBzjyylMBg
     widthPx: 1123
     heightPx: 632
     authorAttributions:
@@ -65,20 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMcaCDEi5fL9NfctX2DLB53WXE2lGho1t21xsfg!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
   - name: >-
-      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcJWgFGKWIlTuc2ImGT0yWzGbzfQFLVKHTAxmJWpqQ7RYvn079cexflX8i2DhG8_i3z3V9nI2BVMWCwGrbP41zzGYd2THCcnm-CMRZaPWXXQODXHQ4swb6ByTfWDuJUK5GNUhLknMQ-GGKfmEPtty6V_maD5P73MjdNr2i5Iuh1uACsONie1PZShsnlDsud6-Cz09qI1-X5Q9HMOHrFD1TrNycbqffCrjc9MNEzFvrR3ecrjMnuQ6sR1FNoXbrcHhV0lHtT1xaK-GeCp2uvNl6cqY4VuSkTJbdqBKr-fgvI8wJ9gH8Jh1cic0RlT-yQNymGZr0f5aeiClRtXmk5HD_8jk4Dfx7JvwuMFc71fVVFvKZZYam6odHi7BBT5PyEzcCKHmC2h_o1Nc68O17BLHIYLpRtpe02TjgYF8DTboAeGep6C
-    widthPx: 4032
-    heightPx: 2268
-    authorAttributions:
-      - displayName: Terence Kyaw
-        uri: https://maps.google.com/maps/contrib/117173542067236667671
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUJT-4a4dK6jiQbcDnTvhMSU9XZk-lcDFlkPTPTUSVa7bWLPBz2=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw87mTgwE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw87mTgwE!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
-  - name: >-
-      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcKIzUjOM_MoAboHNkelLeBKKzKjdXgX90Pi_huSNzua38tOVFMxew-PTwVwZZD-Y30Ke3f9Ik3E0XHon9rnsRmHFvgzulZht5oweDvVhm_uwDBeuZY9NTBY3JN2icXqyq36PxiqPVJGg-jqL-iI9-4aipXSdVQtUQIg5QkPKEOixtWtMiATDbg6y4Hl4BXPsAad6X_MdxfNaCHLdH7YINcqZC5rfdMMlapN48q4FXFYN8GpFK5GobBWe5nkpVe5StdRTeMJNbqgOTP2K5xK5_pZx3nZjg3EMXvAi4SPj9Ah9-hcESIt2W0oNxkMoqZo7fEIDQBq6wy1VHbzWNnKUjg92daJdSA9B_wyKpz7U75dSL7xIRpBJzmzGTa4folkPIC3X1bxnqKgrtPDAnrURsvIoTJljEEnKpovB6Lh6m9MwMAJ
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcJxvaOp9e23vvLSi4BXAlA24U9KTLWgiqiV8FL-_b08zXrwJrnlV9as1ngSBMtujtt364rievhYE3GZWaI9I2jvjYv11N00e2cCueDbZweQafkkQ-6VgLKlgP9tt6Px1DMSd4pEv19JnnS8N5KuBFBQQULSIoW3s5wxJzqXO_pIh3tIzSxrp-VH3yO04hGsQtWKw3Gah5N_pqHR3E2dGGy2HQM9lnjisNCYelgsEAaE6MSWgbGwUvtnpLaDarf-i9vQgMfhe27oYNDstc8jVfYiI95hqPdoU72v5RVRsLaUWhS0KHwJ5Mq_ubTw2H3iwdvtI7gbmNWSrVrJF5nJ100kAYW8nIsUJapkTa_X7x9gfEH5gM7A5EsG8xdSQq-zQiC06FaQIy12McuGfl1i3z_2bOgGd8939um6wUOG6FrhIZud
     widthPx: 4501
     heightPx: 3379
     authorAttributions:
@@ -91,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDr8rOkAE!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
   - name: >-
-      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcLlGnU_YpR3WVCyjnbdKsSsKkm3WxfxdZjUXGtVDYULgee_mXe-ZLF-Uo0YJC4i3EibvEsBQRyA0vQ_HGwS6xl7KwGHK3VmJe635Etv9TcoIUrjHyjUD99kbkngXjSLb0ueJJBifsy7OWn4WyM5VT_eoRocr1kVd6FK9BmPjeIcEoGQTLLmza_wpY0rZ7wXzlsxLexJhgZttlFhtxTCnLy9mCqJnREe4DYwElUbirh83WIfbZVsLOeRRLQL05UVvF5BbzDiHfTSgMDLQ_DgaDpWO3s5YVU6jdV9Gu9pkC9rKBYvZ13rbabKyfd-9_Y0eTN6jUMrmE02H0zMQKcovQLi3rIrIOhX-NiXUznu7Mt-5d3b0SlC9DXQYG0g__2YvU5Qh8cMX0IralfjuKM2zptGdyAjIcphg5w6r3S_XBivSOn9
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcJ5-fEQrPnrWpL-vKoLtvrpiS6DAglMhFqU5ptWW4EiqWh--K_JgTXcRt-nV3ZBxrL_1vCip2HTf787LGAeyiGN1xdOdqdMoGkyhEjtNXFP9lX9ixgqJtrRc9svYPzc7-RMYvLpJVwuG22U9im-Bws-bTXwFx6vKUw4f6i24G4nt1wBgvzJYzzmloVfn-xzCRdCfC4kt1WLHTR55lheB6eYAPePdf39XSkjGdZfaDBr3hgUP88Dmjz7fGXrpCT1Mu3PsfH2vq4nxaNgGQEgci9OhW0dQ1NNJyIMtH0fRDF27wO1FUMPnHR8oK_GjL4SmuDafToYEPHmr7hMzZCABwwv1wGmO2PPNUMe9iKHLbs3Ti7lcWMNXmWVEogM_acYpShhFcmH_yH51iRlY6qgT28se_qV04HDOqz8aTfqXb23fA
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Terence Kyaw
+        uri: https://maps.google.com/maps/contrib/117173542067236667671
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUJT-4a4dK6jiQbcDnTvhMSU9XZk-lcDFlkPTPTUSVa7bWLPBz2=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw87mTAw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw87mTAw!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
+  - name: >-
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcJvTIs_fM1c0EwwBuaqE0eITAHWxDgY-uAd6mEsllxhfopVp2T1Ms4RldfZuHdrUSTIbc32CZJshHEzZp8DXtL_4Kr51auCuTAe6w7XRqcD5q_ciVJARqOvXF2yVCu1hHfQ5NRB4S_Lc39VMZ1gONkogJE6y5jDpMlovliIf2NJpwi66xF1xhzAf_L2Eb5DbjkYUlg9q7nQAHFiBI719PALYZO2w7Cc04DvyeukpamVD_1JB6uxQsDta0BwQZEOilcyms_mciOvm-E8yFeo4HOClK5CjRPr5I_QOUcov_-AoP1YF5Yqee28ZE16kEluk4552wBwtqCaHQLRs8EeZuN0Z6L43JXvoHGFWGsZupWQ__T6jnDLXbL_bwhScU8CUwhqCLyi5f7d2dDboDfmtUkMZeXdcYhPif_RfPkNoiImKDez
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClw_bT8QE!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
   - name: >-
-      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcKkYxG0DD-orw2vRki1HDYnbpud8z28bflhbBH3S8x2GKmnSvUn1PuDIVKikQCOvVej-3vZhNQjllaqvMloUvT7rx_ORrebYOoRuRCMnWWWiLYhbvtaDrJT4UGjHptsIAaWxOEZhZonZcW76aPYox0ismwl2znbrMFRLipNFAhvyq7NlibLudh3X4Lrc4rJVQfwB1ZckfgQNaMkhxi2c7ZoBIRKxQBtJSgf4bC5yimwffciuf-epU1AUtGtvcmQRSyDEPOFLZ9O1g9UoI9Y5I7ktXtsU6nk7U0Dtjdq4Jos2o-Hg4VITbilerWRJcsNsXrfpWdzdJEyMtypT-nPMYP1zZ7AJxQpS9u9vNGek5liC4HQfScyd3bpp9YXNYtzMZH7b5W06S4nrE4ERlFc4Mb2Iqsl7jQpl6lrCi8BCMCWzio
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcL2ry4GMt_T_Ned19g3Ndhs2WI7ToW2nO6OaXKqo8qfKCYjW11doIbEqmPaqTNZPbu4rcfkevaMYD2J9lY4lx-3mYH01MEWPX2jTphElXvVOsabzH43K0bxsYAgCpg-kQOj93yN7bXPy-4N9TkUAWXU-VQ-JuG3ZIEN5Z6XWY3IlGyDTAcscUT0tKtaYk3DBERljbtGY7lvgUgCUqxuxaf0wwiEbT4ZWSz3Senp8EZwRbEgaj4Xe1ZcDM5YThdYdEu240k5Zn__JR4EOKrQO-S5gKEgsbwkPASQicVTIdtMuxvr_l1-Mz4B9nVLryyp3-ncSvV3nWCv-H2uqf6BExUtC4f11wzQxsfRikLdZsSVLyuBWMFZTl1YXv5hBdPcMtDmWdGPPqbGFDJ9qjxlqNfF5jJYMavaCdgXWZ_38BNRBes
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -117,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh-a-g2AE!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
   - name: >-
-      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcIB8xVaZAMrACX1dmwuilDBF_yws66Sh-G3bgKGgtDYMj4TO9yhOwTh9_289dPRympvvURl5rIlKemI_EHOlMcTPCUZb6PIGCT7IhiADA7qnKknI7hhGSM1himjViemeJmBGaEdJJLIlsYK7Gvi_YjkWpKLeNPFtbbHjZteI_3Z_j9T5MsD97ymEI52AP5_m2yTRnh7SS9gq9VCmHXYdRSVMfZfNL-w-JJ7vUMk46lsDdUIY5tom53_yWus5cPirO5dQC0fe0kEr0Z6mF16iZy6MAXboQHhtePi1QPkXgKljGDstQcPeL7Ny-gnoAncIg6MzStDi_G0EJPPNPPYW0zXSuBX5pyMCXiNxA-NN78RRPHE7bbr5Mp7_DseptZ6nqrywHWeVIttfnq5ZeorzgrdSqV26PIUloML6y5zKK9-8g
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcJ6fM-ywm8Qgs_bB9PgJftxi9yO7lUxqcN4P36VHM82-mMzJX-qVvEePKfY1qqpIGsDbcvNQA_5CwqlhxJ2DmETur_w-1y7kP908hocsc0ruN02CUCX5IpfCDmpmhYd1wji_JskJVumexOpz5ITHXnuYylJJfcfVSSIgDIBRpD4h42BnDETPoALt4NgD3Bstd8Gwsf884HE7N7H-ll7Pff5g-8_sWekol3vZSnn-ZMtp_bVTdn6cR3lvVlvu73q2bJA16S3EvlrpKc6qbiQ112j-by3TIzKvEiGVM1encTvupXPIIV46vdtzuAoc7JxcD1vdFhhaoqQxaHfIgjtkmh-IHw1koBKZUVK4aHNXzQ8WSeBMnpNBq9adNwWe4FESk08PeRfgdRyKhOz4aRi8czqLWvh2iAGzWGttBmXLLd6cg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClw-qkTg!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
   - name: >-
-      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcLWdOkEdQeTq2z2KDvBTWWICfayUceThJKkuhUn9cLJCt_xxYviMWpSgRQos4SVo3Ys12eBd1t6cElHcRU2zZsbKJzN3fUP7gejB2JjZrwBWbccvqNmx7nLMkF2Xqz5a0LpKbW0-PRhIrz5FttpYj0MRwZdPZrx_wpb7MvGYUqjXKZeFoEgDGIqfHLV5Bh9mNH4OiYT5jCalEGsjgWR57CE_aIt1l7hK7jTo-xjXWIeUuUSwnmFF1BzTdCuVB9W9BCdbajy9zV-J6_NLvjhLbu6VgcUFdKiT8LqcPlzxRZVSqTxdcciX4joyycsvtqtttoV5axgmNs8BZHrWn7QIRO2aL3rLx2SE-t_h8-AijGFwgrgSfIYXpWlkZY2GVWG9JlGPqc2qacuJltcDbhfnSQEirAtMFi9MoUkPbnyklgqdQ
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcKNWVrAHOKWhndA6urJLzILnmETCsV19kHwYBw3mfS1gPAiZdGTXLGmZdR_wyaKOfcGg8dyGktYk74lT6mK6a48xlwNIYNaU75UcEQnQgAspFn_-vAIFryTw7AtyrBTKiRItcm-wvgABLSVkntHy1fjJwIXmKZMTZNqwy3fs8PkhTs3bjiXtzDi1iENTLF4L1c5zAq24dnWhqkPHhFZTdpaP0R7UDU0kmwgrQpyFUIplilXVEszEnO6LUcYhDsy4VbsFXTyxvyodsamOgHkNESHEqK8rfSJLqxTj4T5K5f_E-2INYaamPBDu_XFkfdYUKgReJKei5VXWzC9MTcqe98-F0wNa-ecQozg79jKvME8bS1xCCkVTZ1aLmTq3GD6YFw82OvNvzMN0xoVoCqCpOCjnG6Le_3IQKyAvmzcZZgO9Q
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb_OvDEg&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb_OvDEg!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
+  - name: >-
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/photos/AeeoHcLM0WP5yVrUNzBn9masliY-J94zzq6ZBsiMXFo5eMq56-G6b0m2BscuhHd6RTOE7RtnvNUyEo0jwSSoownyg4QtbnD8Zj4aC6KaYTm6k5LgfXDeM87bdVrMeSXwDepAyTVB0_M_P3tRb7GtGkmAvjBkWGhl0oF8AWRUm970zdLBWoSgAtVkib8Wm0J-ALXwgUFW9Tt7mMmNwuRbT6AzmdsZdLJ_1O3UCSDGg7xDCVoLpBldplWmyKgY1awYO2xVsMpy5dS0KcJPwJ9COCPnRE4fsJhnw5v9BLDVc__G20elqYt6Dz9UaTPAE0LxQ3CubV_vfCf1h7b8h_gYD1oISjhM9ZAHjZxhlBL7hptU3uYOj_i82866C2vO-5qi6U3TYx9CuIiCVJ49hSlnwBj2AVLt7_MkJksRt0K71SjXMxiF5w
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Eddie B
+        uri: https://maps.google.com/maps/contrib/109485296866355472970
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXhU1ZsL1pf97bnggUu9ghovhetdAwS02vYtZWbm5M8PBLalRCAKQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICu0NKuaw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu0NKuaw!2e10!4m2!3m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
 address: 520 S Glenoaks Blvd, Burbank, CA 91501, USA
 street: 520 S Glenoaks Blvd
 city: Burbank
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29533a58e87fd:0x4485655d75494ad3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  current:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (818) 562-7858
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 295
+rating_count: 0
 website: https://tokyoyasushi.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

@@ -13,7 +13,7 @@ description: "Lazy Moon Pizza serves delicious sushi in Orlando, Florida. Try fr
 place_id: ChIJ7Rq5F-l654gRSUmkdydY2ZQ
 photos:
   - name: >-
-      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcK-feDR5BVR5xDBaqeTtoRN0LLiAzWIS3QBunwyefExrSxRrg7iwFfOwf6HjVMyhh4v2iHF8L_OaK-wQxRHYdl0DxaOHsbzt9PyI4rqQDWomvcuAE9UKro8KZAvDYGeml_Jl22s3Dxigz8GWhrfR_P7pt2jlPIkmWleLVbeObrMfO0BkVvZ9wQZNiBX7dNTY0iyyN5lBespXTNmruh85inmaOeWhYz7NniMj5G4QfTUc9qg59lw4BV5u8JBb8_3cROJEa4EAIHsqirigLAx3v5GIyhSNWsh9C1APQ14s6rFIg
+      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcJACd15WYAHutDGmO6xLH59h5PJsotML_98HmCF6SoJRGjAOxou5GqqGZpxZVlduH2CXxcQc0fNrgck782irlVrMXlznOq2pEhdATvX4L2lNuBUncDaW_goUghNTF1HTzlIDnO0yTBlrf3rWjxEfoelsdW-TAG_uPBUJMrT3ozRvWelun5BV8qLHe_kKzfQExIK1IDuwly27zPWCmD2SXc6Mnk3xw7Uwj-1Slp_6jJSSi-yFFlTqaL4f00l_MxKN-kaRYQ1vdmHdp9iitSnCwZ1kU0eLp0IgbZpHq_65jatNQ
     widthPx: 4592
     heightPx: 3064
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPKbDd402tlY-5hDXBIU16kh5wvFQp7g4-TQ_Nu!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
   - name: >-
-      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcLxNULROzM9x3NvBrK-fI5LkYoXSxntXTjTmF8NKETUzxKGxIqbomdBA7IbeK7GD0cG-P3qq0Unwgcm0vm4e0oiOZqWFPrD99si0Om2O-oRHi8TWOZqZx9gyXLLwYAaECybOWi98ucBso6v5hjmE-CLRTyFLhVD8PsvWSuFIqOu4XOCEi28osGHxwp70zJ0HFyHckHzq1EdxPzG3YlN1KDTQVb57BF-jxm0pAJgv6dijflhmYLvyGJ9S_nrVZvj2AA3Kv-shQsnIslSdLvcrswZWtBz2Bs2oceTXuIKZanPCQ
+      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcI2-aEtR3ZruOH0O1TCsV67_LBoAIRCX-bu1numyO_DgS800rlT7HEMh7TaEa8ikeXWZi-AY6qTV5PNXp7puIIxQBdvarTBVT37PyTLqRYyvKjIaqFH06OkuyWc3QpWZx37dCCOXdTuXKZNWXs_wj5GUHgIjli4cRDBeKxkXeFeyPbFYN775LROtdZKiBkbzN015_IODuJfsc7h6mdJZvg98MHoJXmU_2qjNh4GMC7Mjwx1Mkqn4xzlIlFqecwcS5kHBXcURZWf_AfLc6bye0UkpzYiSXJwBnfhPunrIfMMuQ
     widthPx: 550
     heightPx: 550
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNkdIBXID3TfbiTUF2lvQ5xs9ZBFVA0YFo1FMYi!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
   - name: >-
-      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcIb-Bvhq1qNLj0zOvV_WSdT6Z9n1VfvSQYDKQTeZT4t7cRE0a88odC7JXsyBJ-ZxYM9nBY-jPS5QJhqE1ItYc2O1B8yi2CpmY74LXmT3A3GmYNGFPmW9zhMRqj6kkZlJVD9N1zMbI2kK32-HMP91mBW4RUp5NUVuHK-nMRSICoSO541V5YS7pqcK_IVLu38emhgIL0t2NTs2u81eni1cz57uoSnVuYGNUfVQ_sIEcfs4Yxh9FlP7Kn-pctZ3j05d8LXQXViZ4vsVFGrgDtV4iTwooX5iqYJ3lO9w9WLh3G6OuVHGT1mWdAyyTDBiDYm2Abu-ARRW9O7Rq8jb5sGvdNJXMJgVIWiOp0EB2m23ZQmt2FPQv71SJdb5aYw6Qze9iG3-CrrhIr9TmF45WPmNMXHX-awjtTyRD__bi-Ja9-kyQ
+      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcItjEhWuWC_p32vkWouXWbc0_TNFumIxAp2q-r6qw5rFCIT7Nlsr2BSMcAeGX1SxoEjitTpk898VDV2-KgUnVuwZy_BBrRTzR4cdtbFrzG71W_9ClQ0WZNklUqy4E-4NbkxpmnYU2j9yrlFYS72Tc9ZqDWpwlwe-W8Yz90OjEcaFqnJeORs9ldU8vTWaTcnkBvQiJaAHd2qp8tklxIbvrKzdcBEAJiF5UvlFuT2TBL7PLADUAZIZcPc5VA0EhV_h-Qq6xX7B7pEopjDuHUrReNagKPC7ddsRuHDi2Cdg9gL9m0128mn4Y9vGsAo3TqTf1fUiAT6MrxYsMGp4TwLx6uJrnP1NedR73tZat5r2hiP0d1h_YiFip9M_7Ed6cuncnvicdjLoLI1uD1bTS7xMvvD7AAlNawjIr4Io330VkhpOQ
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI8p_uBw!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
   - name: >-
-      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcJgdCKqkdo_TVhXgTItclXTm5BbcClyunxmQZlJqwpJtcoyko0eDNaaDjRXDdQ_kuo_H6j0yv1IHs3MuBlg3nwybbSGJHY-csrugxJApun4du0mGmAmjmZ8z87oExDBEFsHtHRjzCDC_6DgQniW0GULqloAl4DyAiNKUMpnjtVKrEWS_M8CqAfV3MkHgi1dqfhAWTJdhwyYWFj0Lt32B_pxfFQELh-SVkSVKznj6V0EUiiGwRB0msEPZfGQ_ZHDC6uG4YrH1DpYXkFU2iXhVYZFHkiQw3USs1NSSoUUYJ5xXw
+      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcJU9aINUl-B-G4NQL-8HcVkEm5NE_b7rL4tinIF6doNRhOHX-d7rNcJ7z0p16yMqpcdgOfXGICQSZVt8gL2GTnoM3WitYqQbNJ0mdhsCNCDdj9xuOs9Uuw1-mR-o49a8J-MCfZFr1lAPUDdvKEIBoM1IneMmlrsgVHCFGwQ-BMoR1nG5IP2Y-rcgIR5vPsGbMtSAKl0jfCiG_yJW7kdXDHwyPVkSDvwk3giN7MziYkV1FSlXHQdZoZRQzQmCajZyxvPkZcQIchfUVpuJCdxLhPPtErdm4ice5JzUyAiFHyMJA
     widthPx: 2048
     heightPx: 1538
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNV0WvBXv5siG68dWP4Z2lgHza5ldVE_MZOAUMZ!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
   - name: >-
-      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcKp3O4X_Z09wyyhd4Lz6PjCHXfPjqIPeHpItDZOwU3bV6GMOza65os9EQtGzuizYRwLC8uVRQVsjnqqGC1r5PfCmp9u7a-cdrjX_172dmzAySB7__LkzAFMuLdMTUI9YcEqgvJNKcwQFBrjUtx-GxXU7Ny1ebdL4oM3Vfz5JBj4DIwjTGyZkyWGzlh9mlKbvjbOTfvQgxfm8ajJ6-RB73uFSFWxV62chPog4FxBwwIN9OM-vJ2eQ9uDdRfm5DvuKWViAffqwU0xvnqiU-r2iV5MVLMil06Ozg8K3t-o3cjB3bUdwDsNr_BYQWtoWV0YAuuGi-YF9g5ir8m7j7sJUyw4nrqX5vifrQlVEEo90EgfqAzkZ24ueChfo3BK4wrKL2wj800eh0YeMjquUg0a6TH25JhoJ3dSL95AZ1Uvqr7naziN
+      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcId_vZcRs5B1B840VmvVsrHBc4ItLvFPD9rWgeddfoLBKVShh-cMOSS8J1GNYMWsVVdOloOvR00VcZZCkS5HtIxreyxCXArNNHrhrnuRzsCHYGdA-A503uQSLlTlZRQn2niAuLCSrpZKfAsqbJr-_srNmcu5bprUWOD4hQ8VaHnVuaQzJtxu6w3pHpeQJ5w73uTTn7P7gzfnsahd3De5sLDaYq_jiVJuVenXKoayYu2-8wYfay-hedV0OnHYmsGlOSnDEzSQRvcBTrJy9h0mxnIhNpJTY8a3SM4dOLJlNQbpgbKm2talsts_PAUhDPh6K_ow5a_7Aev-brTeiY5PhSBvy7DKjGJtzwoLFCkuvBZP5-d1MaV6AMOupkV4Y4xUdtogRpTHsIzHajaGTTk4zTQ5dMiHct1hYKoBrqvLvV_2h9t
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwmvKS0gE!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
   - name: >-
-      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcLUAFqiF5vlCvgfGNWyWKavfFtxLRVCMJzuPk1EOL6TkVqcXEOwtkq7ftZxwMJpW11cUP1mgQzBlJzIWRP2EJXQlkfGrKFAD-3DVqJg-QUOpogsR3LHC6oGOmoWujsOlu_SQpuhRQulryOTQH_MktH0CmYOCaatgJ7zjfweJcQXfVGvPZGZuJqfr-9A4N_u3OUJW--LE5S2un6U5uJIJ8uJNbx9O9UHV5rzn_iAmmfgMPOUOSe8sBrXIFNaHRYBq-kjCFIgf_XTFVVgDI-RGmRv87ORSGbtJYS6IfbX0ZwW8q7COc7guylcR4MdNEFuXYu1y2vdDwAMSpRzq08PXHeAvsRjTimFGmTssZl1HWlnfjgzudLknagyHO64fESDTszyf2F1D73ukhRj0fiM-BpU5ok0iEUhVEOo8sdKOtfeKQ
+      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcKPWY4NotPWM6zhwWBSwsk_0ziGaUZoJ52w6iS8sLXngD03CMyz-ag5ymbefuvrNDr1Fesl3Cl5aLONJckH0Mjj_ZbeB8_J3Cny_LcEPEpkL37Z7VXuvA6aLQlmPoI3da3R2O1ogkn5UzXUiq0Eh-McGitb7xLcdIiEU_egG7q20Vw1ixttiheaFE5u16Vr0B5FBLzOZZtO9cQE58sUSW-md9wjNMHjCJ8icJlVwiipVb4EF5g7GDZU7RVCTuGKxhnYWOO4POzPIxJo06f0C8mUtN0iYHTOgl19quaCpUE7gpMNVHLBa898np8dOk8V6dnfMxlyYb6u32DonmCMhXh0Xad7xH0db8PCGiYYKjsVFyoakw7CTIo4UwyuowplAtku2YvLa-JqKIAfLq7wJgw_pxzntq47EdXaaDoQ9VSQjQ
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwmvKSUg!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
   - name: >-
-      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcKgqjMjESTZF_hQVR4vtiXOpLswvcfMHMlU0yUwsP49drOUixrbDXid-n6IezKu3oB8chejaObrBkekfMELIeNUUttWPfdM0i_zz_mM4lDEjxq_cHD6W6HXjUAZtib2sacjCFgG7NDMhvqYbcmt65uIVdyzSa0gKOClyHtEkPNKlBr2wMD9erZmEpNhrx2sXbBrOxH2JyjS57NvsiIDrU_U1Rc39-SitaSpjPMp13e4BhphfqLcPX7R1psFEQ8zskOi20sBQLmqPjvXjWlfs60w4z7AHGwE0az1_z9eu2cwR1qOwTGEnvO2XdWy02_zBNKUxGRXfZXTZ16tGTkXkUbQU4ByB_XmyGUASIM5VyAc_GqVXVHitZSu0_cN2GwbIoip-6OvsAlDl5cCbCSEJO20oBg5jAVWYkoUSGpLW_F41i5n
+      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcJzGP2jjfxVt5BibfJdazV468qhXElzYb2-DD68jZv54n5iuh2bTPALSvKCWpdlqoJu7imd6CZXTDKlaoNaYiRYvHes7esY8X2amiDtkPAzWXlReJnasVRFE83qrdL3i8yM4L-Jk8SPkcEHMO-qtdVRQ2xCyF8NVxhorQNXDIevPjQ0UCl_MbYcnP__Xvyzv844IzsysnIOjzEvYONZN6hCCoW-4K-RQEYs3fo-9nA6ObSFUJ_FoemZXJg0zrI9cvyWd34T_GLwTD8L5PufNKJKPdkkpdqqL1ZMvzNieQJhdoJ2da5MlQQc2FR6psoOnyvAnc8DYhBaukg9JVUNcVKO_UCg6UvSP17vZ1C2nk5hxgAXYA4X0QkEzf88_vuKbODwSNDOCy3xZ3QS8mwGe-UeGKbLuEFxoyaGK4lQ1dqhuv0S
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx95H5lQE!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
   - name: >-
-      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcLwK89weTZOUghJqFd8gkaTOESOYG1UKxsKxHW-FaeH1JilAO6BtcAtPow03rMsKCAhz5kO0M5zkznwJdV_EYzCWw-PPMztopf_N7Z-sJloKnWC0GZ2yXRsEYv_ZpzjfsMYmOJ2TzyccEG24IWz9DJwkJXO9UEeY_-2gUiMJaDCTHoI1JcxyF6UaBe3YVp7SL0a-Xzvs-MHOF88CRSqwcupj5tFYsynLn6Tp5iTkpbKDG0ZJmGMqd0KpQlBtx6nxwdx0t_hLu7o5xzxZlfEfOWJS0MJWPzpKue6mQOIabS9QqCCma1_LzeYmboFVpXX0wn8mBpjWs7q2JIeNv65uUTiZ5MVcngYn__qySzh6Mb6UEYSAN70yuy18YFDL8BvqjTKHu0FFByLtsLwVfCFiNHZyE0MY5lN-k9vCroefXU
+      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcKpPhY45hYFXwEVQUznjH_28JUINhB1Ng-IMUFu2wMrRcLndNlctexOrbnYT5xuHOV8VVb-pHqkzAlIEpVtmwEt0uC6KV13cMpDRRhbdU5AR8_qZwBhnsQJkp0ipKfvST8dxEEGMXaLHDiLFvEw_eEou1KGOGg5LLrpTgbYiQIzSZ0HAZ0HF0CcitRKr9LhUXDbTy9GaQGeEWdksJTTYdMvzgHMNKPJPtDp1Z35v4wSjB1MQ6Ve_js24bH1XruU42JqBDSORz2IqineN8MeYtsjWRqPxIorv9DdN9SOwerJVNyHZRIadqMVbtfrDE6CL5i8i04Kl1_Y0D1S_-yeSkZ8lp964M2u93FspCtQugEqMhpkXq4GkIhCcPVJpauMjwLVB1la3sUEZNTtMGxeUyf1WAgdX0zEPar3dfnqfJ4
     widthPx: 4800
     heightPx: 3599
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA74Pdeg!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
   - name: >-
-      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcJMiWr38N-lThCqKr7EPatoVAZYRAQ9IY4O2i0n-z_thenGLBZDHWM1jId9RotmuS3mCl1yb-Sey9WOCKYXaSYLVCyZ1PuJgmG4gplVRdY0oQF5qutiKEPwjeVagKSFJm1_m-Y2xhEKgIbzEpEqczl-CuOJrtZSZpD1WLZBxGHbtAgBKyXpMnV3Wu8-3QvL-Mh5lqyGc1-Zy5pAJKua_BCxieQLmbXYXfee5jukWLQX7CRUKIa12Ml0Oby30x0GXeJVhMIeiMRenM4A0tpMfRy7gxf9-CouHb6jgeosZqopiQ
+      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcJzFf4XkaWoAEPOorUOQuW7PuumoVCn2Y8jUQTwON9KFkXrSAr1j-oOxa6Qg1BsJdQCbQNSp3LW7VEi8RHDyUUd8GHN_YjFmwK8DXM7eoHyDKGmqyF_DndxywhKASkyGlvDGzZA8vfZ7YS9GmsOt4S1v0M6-R4E4O0sFkvXjBmxyby55N9j9Y6sETDaBcLqzHSUEjrdwNza-IjbmgPfDOtTlQ2MAPuaRtbKzJDQME_wz_lV1feym_W5D7qXb8Bu48em0anILzAStRrEy-WwNveX9EwkBN7VMzmloSc408B0oQ
     widthPx: 550
     heightPx: 440
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNqKq3Htg3DsO9IX0olwmVt7c2y_Uu1K8G1gq_M!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
   - name: >-
-      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcIWCXMLG9hYiJNTIBKl8Kv3Omzv82rvZrAzCnCuS3OJRkzaHetb58taIZiL3_Yzd1BuWs9oiye0y6rW3mtr994hLy2jf14Ywqf-6DRuvxo7Pi4_u4R0ZNvf3faeHQEg-O2WZ19CCypbIJjuaDIMccDpcWO9uivw-GOupcuQQRISQelucIg-T0my9imnwzZxwywycYz4lrIZ08A3tYKU7nzkp00eeCfhAHGKj2CNDM8fEJtvQ8GclPAjSNckZYHIwZPRmpZcZxklm2eYy1X3DWrbqBftZf6jDQe1hCKy4w9dnw
+      places/ChIJ7Rq5F-l654gRSUmkdydY2ZQ/photos/AeeoHcJZK-ZbFDULhBugO2vo2phLiiFuWhyUVYhwV-CLU1jTpaly2vfpnoSthUG8CjAMFKzlgb8-GWDB4JPmqTlFsU-_MGqOeKl6saSJ55axxAIUKUgEOsh97ZwOCqVavUErcNvSCy9SgrC1mpDhdNqqiIAa7B3DDtiZwYGaduaIxtd4DE_7M1WB_JTsiMjEaJ84PydBXBx3Fx9KTgaWdDdJihgvMw1XEXTKjnOZz4kNPQjhz35WhFey-UNjt44kBkeSlPLOF_G1sQwdTMb03HkebM2pGo0FBFrAbQjzxDixxf1IRw
     widthPx: 550
     heightPx: 440
     authorAttributions:
@@ -139,9 +139,9 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUHWbLh6riuMe0ICUOL_i4GJR4cg9leHrBdw6FamaxYHfInCGk=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOZIe8wMdeJoN_o07F37j9ECmRnQ1jNM1f8-Y7e&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPqK8smXc9Mo0ltPkRFbR6hMANxodSB21cfAgI4&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOZIe8wMdeJoN_o07F37j9ECmRnQ1jNM1f8-Y7e!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqK8smXc9Mo0ltPkRFbR6hMANxodSB21cfAgI4!2e10!4m2!3m1!1s0x88e77ae917b91aed:0x94d9582777a44949
 address: 1011 E Colonial Dr, Orlando, FL 32803, USA
 street: 1011 E Colonial Dr
 city: Orlando
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e77ae917b91aed:0x94d9582777a44949!10e5
 primary_type: Pizza Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 12:00 AM'
+    - 'Tuesday: 11:00 AM – 12:00 AM'
+    - 'Wednesday: 11:00 AM – 12:00 AM'
+    - 'Thursday: 11:00 AM – 12:00 AM'
+    - 'Friday: 11:00 AM – 2:30 AM'
+    - 'Saturday: 11:00 AM – 2:30 AM'
+    - 'Sunday: 11:00 AM – 12:00 AM'
+  current:
+    - 'Monday: 11:00 AM – 12:00 AM'
+    - 'Tuesday: 11:00 AM – 12:00 AM'
+    - 'Wednesday: 11:00 AM – 12:00 AM'
+    - 'Thursday: 11:00 AM – 12:00 AM'
+    - 'Friday: 11:00 AM – 2:30 AM'
+    - 'Saturday: 11:00 AM – 2:30 AM'
+    - 'Sunday: 11:00 AM – 12:00 AM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (407) 412-6222
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: null
 rating: '4.6'
-rating_count: 4166
+rating_count: 0
 website: https://www.lazymoonpizza.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

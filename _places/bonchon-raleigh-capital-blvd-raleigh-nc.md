@@ -13,7 +13,7 @@ description: "Bonchon Raleigh - Capital Blvd serves delicious sushi in Raleigh, 
 place_id: ChIJJSCb8JJZrIkRGoeO2fyy7uY
 photos:
   - name: >-
-      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcJXg0GtkMYbYcyBFA_ffVN9cEBV0vFURGMuD3A8xMKinPtMICcXAJUka1K2Q2NGGwn9DxHA7cxfphbgF6wn-VNxeH5y1KTC7XZcTBs1czsa8KH2RR0-YBMvRgc4nMEcCLJALaefDjUL4A4MKiKkHB6Qu1z3hLiyzhWZXrzlMkerAapctrZfQko17YZ-OHoiWZ-h8l7ZhK_QpY-34SVlZZZfp5bs5X7pNrXojdeRH4S-N7HI5vSsKBCvCvUrHEsI5EXpVR0Ebxyq0lVABfK96VB5HjZqSfMqyg2dJOLVLQ0
+      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcKoWm_lVk8hrqIhnMAv7Pk4wOz8vilOWM8MIlayDyQ3eIvv-FA3pzm_OcsfCA_lEcCDZpL7gB76ErlTf1wWSTuBMXV_KC3vl8kgAGH7uT9qpMUYaxJDkn56iJ7u3UHEr5SaQOTxsBgj3pulTW9QDJ4haFTNJqucLqS3XtGg5kqqseY1EBvacWvf1k6Fm_D1kT2trUrN-VD0z7f501iroIaBSxN8Dsm4HYHrYHeEQTYeE3D_BhSKQz1EKJ1mFGNwXnKEIx-PecrwcYPmMro2jTsgc0clmZZNwaUBFoshIfU
     widthPx: 1708
     heightPx: 2089
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM37BT3SfC6q71t9mqN0ekT2GXZx7aTeuHAdyE!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
   - name: >-
-      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcLKhjRsb7W9RDQwH_g98O7vDU_vkXRQ964ECvOqaVG7XQ96tYSFbx8wR1uktKXKwtIFPeCDsWGNDOhMds5qE7ISKyt9nRihs1zm6TZQExUPSWLlt-oq-3HS_nfwUidzbRM7Yv4up-7-A64v9OGVLBQx2AZZZxBBM0b7MxcYLiiPc4tFGj8hOD9t-8fSDy8wRxvfzyJNh9gRog3Z0CoJVmsbZNLivC4SM65aUz1Z8LmzwDdxI3VrWmt3uaT2Z0Zh8llQYvybFTtIedh0HVlQ4NWh164NncpmOe5k4DP7RRU
+      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcJzEXba9Ny0RQYxvO6YjkuRlx33Vd1qGIcFt-BQKtC8XuT_tTTiJUjbhUehbB6a48s-EOv2RO4CgVVB6eraZ7qYPYIBAB0zLn-ANuEM-_8uuRHAOMJdqIAItUECItMP1UZ_PlMcU3dEb2Mnd6Ch-wgN22l5Q_IQVC5EnfDySkn79UTNqUK4IVKKkD4DWDuCmKf7ELz9D1lHQ0gumB1LfzVakBpYdPANRq6eeXb5_4bj-o8UvmAgkEXTn2ik8SswxXuDDXf-XKGyBS-eYZrGfU8esKCi0xWeRZBwO5JAgs0
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO4_WdGzH_wByfyPJGG_nOzugyvpMrbHwRvaRg!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
   - name: >-
-      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcJ5hIYk0MVr_trkAPb3ivp3rtF_vsDpRIEEv5fPhtLGGAFjSLBSnEMUi057FMbYjZ8SJuLbomKpt82xj-obmc2Uf_FYOOuKmzygWP0zP2DF1yv-GWz3JMu5PoI0HhX876bG-R-U-iFiJ_2YaUGevt0k9PwPGr1jOuTk2vmYGlxx5lLqFVQu6CCz1Eo2OuFy0imr4ugPe3EvbZeIEX5mT5tbBjSq8N1uHqGGuKzTzk3uzk0WD4dqAR3PZ3ySKqb5YAsQurgEjPXMGcpQZAt4AEYr8FHpk_63dwVEN-pGUBE
+      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcJlgur2ZMK0Kwfaat0NYgd1zVRfCVTnDYKSZOidJSe7X-xfcOMKwVykuIkXfEAFHugHfs6eP60fPAVQKeC5b4xyYRVuhj67hsGDfUZIJ-6Rqpinp9yMTN6-ApdDH2VzDnNu_KXuIPxBv10JQChRMZrql0dCw-obWyYmw0hhkBgFmg-zTFqI9sj1Bz3JR_iKm_atgBkmNkUJ1o5d3KfTXALkbC64PFj5CByGt7lP6mhRisZbq8lrEkqzZ2sISvtXbDyaoZ0R9ySuyE53wDwr0t-fb76ImVo9pAfVJPVIzC8
     widthPx: 1232
     heightPx: 693
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNcOHx625nZM2OjfYpcaXfsQG_cVFqnyBWYLAU!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
   - name: >-
-      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcJp3cXHmOgdyPl2moh3rhCVKd1XCfuDeuuSVazAyzmWRFVnxpuWOVv7xiIAQneY8i9LzxsjZfbte5-IHp-tebYJthz1VKW63mIqwyUs7z63BJDF4vjZVNpsVzsa9WDC7EExq9HFfdrDzD6E45MGG5RyzErSGbUJxAzgd0DOHm4VADpP-aJ6E2w9YvU2IqAtwOTr_BSUqgCeDhwA3-po0eGS1II_XGNAbRR3HkUUoQdBkKDYruzOZLC9PkVsoBAzhXNS5YARKZiXkfTIJAajAXCTPnnOmin1tVHbFubtOjvhGxjHteZdZuSZGaJHVsWARacrpbb6V3dBelPd9imMveQw8yT4XkXLs7UzfMTNZXTZA2amCwyyTb_ePAQo7GBZmjs0RuWpe_Grewb8joixL5lvGxgkCS8ztCHMnnB__Dpg6M5j
+      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcLnYQsdKfQkfHONh431bmPhEaGtkfzJAQHvanNVLE3Bx_hzEgPxcGjEp5iub0FM7LtwU5qbHjr9RaSZMmiKeQfKvTP5lNOrtfEyI4REUGkofM6RAscO0iOrIiYJNvxywaDLS0jwsJE6HnMgneCmUv-h6mIbcGOSX8HGxfN4yDUv-EvqZYbRLAG93q0nMIij3SrqAroavIAgXaxjX3VgXC7QABYtk1JlEuky7LfUDinstZuqIQJ3jzI8V1Gmp31LtsBAGt1Rx-Tqk4gLGovS1M35NRmxINfN4c1Ngt9R9d_Z6M4EOeLJari8K63GHmwpDGhmPAZdc9saRDk10tdX4D4QSDkdcXvcUFH-9EtOXNkZOGqm-gBgg3QfNdWTIVdLwOrVwldVeEgQQW3Y-zUNRimsJ7VRTFoQNexo75wP5BREik7f
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw4PWwsgE!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
   - name: >-
-      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcK4x7VU299z6oJWEnKPJtg0dtGTQixcbQnpnwxV7Xun26Dbyoa_PlE4Z5s6cj7FVLOoaUctXlpl4a1tZSGg3txtocjt2q9l2Cshloqy5158sDj7YALE76eoq1aGSxEU_qJS__T88tAhKmirl2vLUvh6gWfk20OEfEkb57wFGRr5VfqTZNogVe1fWRJosMXKvZjb_cfFJ7RYKB-p1xRceNCA0EfthVuJSiFpIBl0j2U4606knEmerOuIAiDAelFlXaKiCP-p_7S9L1ANdg1zFOi4VimvwZLNZP57t1U_tZ4
+      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcIomVmhgni7WgnjgXXx5VEp2zQKwVv-uYqMA44nSd2txmi8RAfvMMpbSLANJLU5EJWaD9WH6fdkQDPwNCrINH5qb1Be7vffItLUm8SqGGxcxlkMyHl0iRmpqt6iUQPjwsJb9p0NA3uaJrORcwUUg7RjIEYXiUHE8GMCajuWG1ZjAVCq9MUAV5fz9VEzRozYq5MhR5RZX1L9hzLkeZEtyGCeivdpaLimjr7w6STbkaUgn92IuyVrSH0ZRVuHFsKj3yyAUhGxUdJOOBuz9-dVKyfvkL_fIokoL3ym8XYvS5s
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -74,11 +74,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWqr0PNxkIm8NC3-OrU-zmMZhrDFPTH8_b9jN3ENYpemgz7UIM=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNUm3yKzc1f3xQxRQrvfEe5D9eEtWYtDD8vxtM&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOwAnmZPcgrjkJcxBVXJr7eLZaKUPv6eMW1VrQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUm3yKzc1f3xQxRQrvfEe5D9eEtWYtDD8vxtM!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOwAnmZPcgrjkJcxBVXJr7eLZaKUPv6eMW1VrQ!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
   - name: >-
-      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcKZW1mKlXOKoy9o804uHBIIoCbEzIbEB89TL_zYjdwHSLGWnxTzVXyKBDwOqLEsRXTnt3t-VDYrIIDg882x-6rw7gSDbtWnqa93r4HswGGFFp0suVwYbqLmiGO-O7_2fnJD4k2fDdnl6P7SyJ89BHNGB_unzEWFyBprsAWVfO156N3MTuXv5e_gCeuKr6bj2e_ffM_oLYwLBneIULHf0zt_lFzqOr59qoyU1DizKJfClW0hDwrTkDL1ZP4un_gmCfGmFZ44wHJvKyja6tIJNj53sJYsY1ZWgoXJUxAM4sA
+      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcLvhf3f-tmw7f88KqwqiazVn58tuIl36lSvzuqC-K0SYNMdn6Vt6ewf0B6MGPLM5nEJdXRlwz9IvgMaEEMq-iXnfWhKpYhXiZDblNg5nVhQSebsTy3poFcW8UaaT4irl9pu8PpXs9H4cZOXOve5OgFJYumax5SWkAm471wEiVGUBiCoLK0JQYTS8icJ_-p4Oi8C1VJ04l8l4inGqh8MFPBv5lybgb8BaWA38UdEwc7tw7klI1zXXEUu3xuzHmwwiao58SmajH47P8-wmkoepD1sdUBbkpjWt6p5JSBT99U
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -91,20 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPKjWifnqg8qGEhlSA6-udv_E8BXU0PTyNvPg8!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
   - name: >-
-      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcLVVOpqUyahWXEflJXYGPWIH8KiT6f9kANi2xZzRsLvvwgAiU_8gOkHK67dnt4Rrgun3ViCf5fU6n3rfV-ZtDaKzGP3LKVO3nlHm8r8wgdQvjj4LkG7VA86d5i8LtcpaBEKo7u8rnsJsceaDZc2wOr7BF22Vvh1jwM2mBxpPjpQswgxDc5BYhghCk8zkdUBBggEsOdFUPtZUjO2L6LkB2ce9a97P3K-Jzd26l4RTp9rqOQUTkbpV3pLtL5_itgY29cIVKS7nEk_ftRi5Z5dwUCD0zBiDfK2Vq5ak_brjLo
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon Raleigh - Capital Blvd
-        uri: https://maps.google.com/maps/contrib/101494184075058437259
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWqr0PNxkIm8NC3-OrU-zmMZhrDFPTH8_b9jN3ENYpemgz7UIM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMCkSAxLkh7sCdPs6srz6j1Zj0ZRvKQNftzOf8&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMCkSAxLkh7sCdPs6srz6j1Zj0ZRvKQNftzOf8!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
-  - name: >-
-      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcIITxE64sWMT8NC0sKtuc83c_c9gMiEo60W508FQM6YrjN806pnDxPg537MR06M298h9KnK3SbeksRSf7vLjMFRM2FK0-VzD4-3tP7hvB7oc2SotC935q5emMyz-774aLP82D_Muji23Y-SVf5wH30--jZv0U0J6KneGO4o00D4pgCpSaSsSTIbF3O0UiBThXCdwlI5H1CuJBVNXfFXZRhBw2u6-IAreFbp7UN0QHtR6K0-CDjHO9hcoo3gYAg6YHS86GHKPnB6ZJGoBYTKpb8aw3JBTlide4QzJbVuSvw
+      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcLMLguHbGN6oJGn394dHEe2OG80m2Zm2k_XfeNPAZssebbXcNGDOpqunthLJVIv2abCaWrtXWDLrL6y72hXADYk5Y0qDShVLEqmjCuquWf8bW2hsrpTA6wM00BIWlMfh9YsKapcu0CGkySKWKtiP4giHYkWMFIrWJ3El0baqEmQ_TSD9ep8NfnrUsgIdKBm45w7BfUMr-tBbZLD1PD0IDYMQ_iDwx0-JNu50Vzi_IgpsfnB3jN07qut68UGb83cWJxCPnwwTsQfJB0Q9Y09kRF2V5FPt5TI_oKu70Jxi9A
     widthPx: 1335
     heightPx: 2000
     authorAttributions:
@@ -117,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOwXBLvuy3um2mKpvv79_jUo6a2WonqwRlo-1E!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
   - name: >-
-      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcJfTRr1UaWBfb6H9HPxDFKye4PrFt1wHMj07btrZoiRsi9S7bIjxmsaP6SQPLNzqQONxhw1f4ys5w3sW-6_8F7FGyXHdyDtnDeaOcz0VJbKIligx3w67JYGNlO1JnPNg19YJikkQGb1yAQbClMZDoRouTNH8DG_H-71A8Kp060pjv8aPFwsw9mnhPqvyqoa7DlYm6wmgV8I048swRhn03yQzkjcp4Ni0T0NneZx4l5UOKktF1m3lWLpFHA7zZpMrXHWvwdbok8XhqUZKFGaaUT4gMd9WOlzx3HEvMR2n8o
+      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcLkgNTwOAtVv61mA60EjBVXc2G_Z49eKvzkgYCnymQMbpZsCtque1_47NKolJ2HIlCFCzGMIjqP2MXo8niI7lUbql8Ffeav_hlrGieYFwLedZ_JguJ69NmVOzN7TLlxDPAMY74jTGRWKe6kUsSWV1JEInV-5ljHoHS3YJx6-mQON71mTYjNFt8gfpL91msR7t3kWpFMUqpRhGLNu14VMifHDA8sfz2dEwpC7QGKm_QY_F9v7Twf5Haji248SVUFgHWn9klgmoCNcYCUuyK3A9f2wxroK2qeVF_EDLlzDeo
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -130,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVY0PzUEu7ZNkKj6OKwpcbC-8zuabVed6lcAs!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
   - name: >-
-      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcJx0opra8w4EuODtAlrksJ2pm4mA6u50YDYwa3pwMx6scxsHVBUow2RH9fPtQVIZAo4OixHD8Bv5YaV7R9sfsEasGOHkIn-_mR9u5TPEvuZZlYnHUs4hMH80zCHTE_RJ0wGdcioSbWuUVfhzJ0EJwmx87NwOzk1LKAoAlxAPSjxE4WVwZeM3HfiPINDK6Qc4l6q8PAcIlrJaGjIr0DZ3lizN2nVtJ9Dnqeh4scejwACQu8u5kgEbXqRjKcsldOUVVWaJl7mYMGwhHWb9N51wKwD-7dXCq61775_DUyXaD855oYPVEvOJOqyTbZALB-1EVQS5R3qfKXFYXT0FwDVYF3_4t_UVaLfXNWPhb4dDack4OLbLGm0TW_iERRDFmteq401xuBRevk4VMBgVML1sX6Y8U3U0VpvUDTW12o5Jo5uLoEk
+      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcK4PWPIoIotdtCCWc-6T4WRHTb87_kbSHZRr5q1jwopg575Yw0ZaEez3o8gS8cjNSr9xv0b7IqHxUL0n0h7WqHCwFQFAOoc6NuPP-DlauBUHu0n8tCWIoCipOlkFOACZfBZvmYKd1ALtUmZAj5q_sHHjveKwNKREYBcTFfithapyeWuCVt_cPe8EdS2jKDAP74YEjKsdvE1qCBg6_EnS-bfC2QfJQ4G0tVAwnv6YLo7ukD2vTDkEJyGjIDe5SMnt2DCLPPJoxyb4zgutzZXOBitRIK1D-4ccx__Uu58Y7p7-H4jHHNlUNLsMlNNRR4dpDTjj0avq7RiAV48d8seFhkH3IC6YwYa1vVS_3zcx9Rx56oPy_iL0wLHtwguguNRJiiB1ZN1Vgm7Fafl0gwJ9LR1LV68VP6-UzMk912JxBBqxOEE
     widthPx: 2989
     heightPx: 2682
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDws8COswE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDws8COswE!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
+  - name: >-
+      places/ChIJJSCb8JJZrIkRGoeO2fyy7uY/photos/AeeoHcImUkXW4LkvEGP9X1ALKsdLYZDlD_rYsglXdZlQZoK_DvsGmpiMbtct_ommZovt9XqqnglDDNXHi20cT_0Wo-M6utJ1en5CLRJPw-ScpZ4I3zST3n4aD1jVgkqgc1lTIddYMrEV_bn8yOuSK6fq0Tq1tBmQt-Bi2bCygqqF3WqRsANx8JC3alRRHq3epZFqVGOhy8e6Wd7ZAl05yXoevJB_tsXZP7v7XUfQxYNi-7F6uccjRpa3P2nnpSz2ECqhJ4xYk1DgDdYjkro4LAnGjJWaz3J27qlljuSMWoY9roY
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Bonchon Raleigh - Capital Blvd
+        uri: https://maps.google.com/maps/contrib/101494184075058437259
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWqr0PNxkIm8NC3-OrU-zmMZhrDFPTH8_b9jN3ENYpemgz7UIM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNQbZBfnKFqHqQdsdDuQO9TPjYkZJZWCZqWv3Y&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNQbZBfnKFqHqQdsdDuQO9TPjYkZJZWCZqWv3Y!2e10!4m2!3m1!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a
 address: 6320 Capital Blvd suite 104, Raleigh, NC 27616, USA
 street: 6320 Capital Blvd suite 104
 city: Raleigh
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (919) 825-4598
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 485
+rating_count: 0
 website: https://locations.bonchon.com/ll/US/NC/Raleigh/6320-Capital-Blvd
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

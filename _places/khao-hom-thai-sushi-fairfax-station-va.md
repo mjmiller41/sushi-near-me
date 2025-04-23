@@ -13,7 +13,7 @@ description: "Khao Hom Thai & Sushi serves delicious sushi in Fairfax Station, V
 place_id: ChIJo60uUjFPtokRolea4YtasgA
 photos:
   - name: >-
-      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcL4NTGOiLwiX9csU2HFu0eFn18nNuToLUo_SnzWNutabyQQqXeI11gk7UNOMkkqA26O14BpAOBcWOS5Yys89HAL6O8RCMQSzPNM-YW3fH8SqeZwdSCFzT7_hqP1o3F3950EahmuAl3NqQJ88HlpOo2r-ejhkpxP1QskHgFE14XIXhDvpjQeYteO6jVxPIafWRMZwoCzsSpUZG2cyTb8cpWZ9LowW-Twc8NecpB7tdUV3lMkJtc7auQ1v_09BlwQYbToNaH5cUA8E14XuOUovhaZGdjtq7oI6XGOFRpA18ZoS_P6hprKVmkmmbGmZc1ghgww7g4mPdd4EyKsoPEpDSaNOOEbZrYa7udp-zfQVPY8LCrfeG7zSDe9yoLYDCmansJNIvwRDw8gaLk3KNxy-mSaY7e3uWwKhyNF9g
+      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcIy5Hd5O13gJEs8SNZ_VWNL7otuk990lxJEV_6YoCZiOVDQXQd9Xeg5mwuqWgPXhh73uSD2WfFXPIltsa04AopP0pVOxJK-IBRUQzIq1Y-1Az6-tfw5hl2QIsjUuewgOrt_r4lAaAIzNDiXtvPPzt2GZdQNZ0e_6U75U4jChhNtLwiDpSbPXLwPNxz6IrKfYCthBMj4YsnCRXuZYvYl77RrCdL8Rl63Y6dn_vBc34tpBg7igK5KIhRAHk7esDPgdWAddAz-PX27OnqzghrXtLGZQtQduMqUDT9izzkJbRIg77kkdWEHTLyNqSbKATE6KX9ppRFtru2uAtNmGYKwSWN8HkQQv56Bbcu0-Gi5RPiVYyzRKEOpBYgvcpsTAOhqAaEp7IRlbMU5znWemJ1q28Ap824V87gFmXe4Hw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,20 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-htAX!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
   - name: >-
-      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcJSAMEsO_FY3AmHw_oxASI8h18zMAkwxF9VV6vl2j-QQ_RBjvImtdXSj2o076kYaa2ch1Z4iRAJLeTl44OS3HTxs5QXjedWhZRMI5t2dzjnvdZmnPC7kyRk7dyci4YuStxaxvT0smtFvIf9TjYi6OSqI7Pm4JNM9ripfmFv1cVoUD5mVj4XX6etadqipxlUAubC95YSvcOa8la9gv9OlGzAnK47gkxiadazKhRAu_jEds4sasXl5zWJ-fF6OE5RGKgO0ey404tCrwnaS_e03689Qcgiy7_FnuaFa2lbMc-yJ91tryF9rWgTUp75-3oZJtfQv2kp8KUXSvn7o-_WSWne68VTxRg3PeoLYx73V8MzbQNjTvDkJYvWSZvNG-joMG7prlHqouwRUtM7hkabI5_8j_v7EWZX7kylcy9_VivJ7g
-    widthPx: 3326
-    heightPx: 1719
+      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcKorAQ2pDcFMfOVpDP-nuXK_jqX8HIhcnejUMwKA4yWhYDXn6mn-GIo4lnBpwxrvU84yeq0DjunXOePJKEXiXHJWhluPAOpzAbCyjWQod18NTgcqbHoGSNlubaCQfZkXq3sXqyGQ82PlbfvlXLp0zTknOnLEhtqplzn7-7GcX2cLAarDH_rOpI4umdo7FK3K5YovKYFZMIy4s60Va77PM3xNVoJNn0vls_HW0HbfTiADyjMMrxbZJRo3JOMT6K4q2uGo-aidyadtjRmwfM25ETpR2mLmvf79Z_eR-DAmi5ewHP-NOTr1d-R8Dd-Kw443cySE2BTXFoOVVccH9IJTkQT9EUvTgavt8rFExopy9uOTZvkItl4dipoDBsejmsAsBMlQKJ-XgIzfcluaLuipqyUqtBAzMVUjfy8As-Xp-ujGPEGoEPbpPEj0hio3Ddg
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
       - displayName: Kamolrat Deedanklang
         uri: https://maps.google.com/maps/contrib/109731123332888700109
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocJtE0ueC0hWWeR8kdVt5gTc8V4TxGv8LI3VufnE07KDR-r21w=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBxOGREQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydVgTAiII2gDLCcABD_L&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBxOGREQ!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydVgTAiII2gDLCcABD_L!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
   - name: >-
-      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcKfSPkkGGWY4vAnOoGYtuGvrcN3P84rwnhNLSXkOHhmsgHgr93_yzvLI4Y3KM7_UCWHElGb0hDX7po6m8AYv_t6vvxEIYX4kDYv4cnmoCWT0QhhmBA9xW5esPYv1Ms6Or1MBZ3gxgZ_8mZ_LQ2U96voNF8WjqjYoqlv-vmhrqD6xtoXR6jX24LmuejSypQ9H4t1E4Vn4bnYzF5grtEW4CKivF_4QJCzxf9Be3FGk9JNqVASTgpBilCm6XC5fdbKGSNjxCCxlEntcWLQTodxK5L2tEXrnauLUjLDAGD4LPufohpB5gA47HGUPYyOP_s8IFd5hjV9EghkFtdNwRrC84-xFs_7H3eytkvaGX5e9kyOzahXucycftO0wff_cxcUN9ZAN5V5HMYofWocIft3UW4_quQ78-J0NVIS92IGSuwa3w
+      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcJsQGpNJmzxTBTromfMK6hMUcWPDppWAgALQGiqilaD1KXLic-CP7_z69ZSfpzBaEA_4osatctwASvvwaIM7vlZTEG9KgcNHufHMApqJjtg32I0jStRf4_W_s9P8U0GxeBqRbKYFWrLyJO_mPFp8qgh4f1ge1pjblE_EAlTrhoHN6IArhIfhPe7phfCd64G8s3K-PF80knW9juUuxuUTRsW8WtHG7vnI55_8KoVXP4XAnUk5jrogUM4mjfI_LAyI0FpukQFvCG1sa8ebrRJQbtUwWaOqQqb16yH2qyTdKLXyxxKEvSmooZ5-r7dW0C8gm0SWWrvpAShB5qHt0RGmSoP9VuCttE_N9beOqNOK66nYVHuYyhxQtZ-5AVbxPdLSuq-78w-vqCDUhkhzpr-HqYjiddhBzKc2hujha_swGIeIQ
     widthPx: 3998
     heightPx: 2174
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb7t3RXg!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
   - name: >-
-      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcInhGZbPqaqjqAFnZYwMz_Y4ZGWBB1eILTZO1TQ-luDwDXjYCu9gbCBVBKa0wds7PlN9dU6fsAa5qJs8qKUlaqPgSaP9eyDizRajrmdHsnUUxOWw7FrQhwth-fgsOfjxmvikgyC31rTdWJIsTsVvFOMP3PqrPiCY5KrBgps5Vzk61MZUH3oyfw_Mtuhr6mhgYXIOpOTO10ZxJh_Cl18C4AsQBy6IzJO4ZgbGXsAJFT64K81EzkksskUoDxa3aLmD-czHyvCpbrkvLF0CSU5elscY7zlT3JkYqFzeqD2NBGz4uAdhM543oQQb1eRAVx36puKBQ0Uv3zfmMO8gpgNjthKm5k0gHfSAEai5yHOGoPqrsIwbVIB7PZUDk6lE8EOd4pVkUu0XodIjMxow8g3seu8Ewnm1p4u_3AeGqOp9r6v-Q
+      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcLbKFHRbsAF8oWW-d7uoR1TMxMA1KoznhO4Hx5QtkwS0dJQpaOKiv0Pvil1jMqaBrWQUDAFTFpUwhVV8JMnSwYi_t1wp3CP8xmn9zhz96Om9hcKI3ZRlF1SUG5P20DXTrbFrjgd_XpqvmpiEN7pKnEDeYpFTnS19AlrSTyGPOZst5zsb_RvyfMAbAx6NnVKK4xmTPH4rW4ra_h-X7rzg5UEo8WlTs1NBdcLZ7mprGuvYqE4JCeTeDM9XZN5tbtfYmXp4t1Z2j_ZQgt3jNoWBaFQ_gLyWX4foqRlhXB-urvohl_zhVVaO3U-DtX9MJHTmonxOv-kqe-37bgxcYzm4qUCIeG2wr8GWIqxypPK4zBSW-oG1L7ox_uahE9pqMFR61E2N5FuhqCS6CZFDfdl5jzxiSZiz_ZNRlEERH64C5eJaA
     widthPx: 1108
     heightPx: 1477
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr1MnfHg!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
   - name: >-
-      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcISkkkI0a8i7zuKweQd0VtHceBgzNIO6PizxGK0N0uxFoKTWz_ZFDaDDSo7C2365rCWgAA2uYZeS4el5JSbmsN1xiX9I6xBAVobUU55orkWd8a2F-NkR-x4oJwzvUyFCbAb55NJaFj6R_KXkcESWzH4S6ARV1Xu-QYfNI5fk-xMMI01zEd2McbwXUGFUfDKeg8wZEAmeNmtS-ovRGdqAz863Hzp07i2uZyojXrReWwdFx6LlVFHvnz9SdrejOncAFANpZGYFin-vo8KmkeZjTcdOj0OCmw6NqLbm4khiABy5RaEZhqtAnjFFrPItf2BMFauAQOC2NIWw_nkpijw06amPireCVVAngG9ltK6VfvW5eu1eeVP9QDcEQgWaD_6WKT819usvLA3VG_66eBByQu7phf3r4-89QtoQm6B5bGj9A
+      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcKX3uPg2SdK82PNkrL9RVh27xODaGApUSfXtue4QFw3KZVL8Hf451qwOwEpu6WYPwHOdgzq5ycWf3WDtV4c5HE7cm2Urj4bzQtC11B6fw01-pcFHHoJlv_Je-WtavcWtuPLmaX6ZsOWJXmoDend96hxcmFBTYiTnSfX287TMD92xAOvzDSIsdYjqJjYW8Y9CyP2FGw9SWLQQpCXmVfh6w2nKfikpJgamww5Vzkcm1d8d3xoPTXZzWLGuI3rMXEvs-T-SCWlDb4ZnFo8_dA5xjRi7MfqtkHapvMJDcD9iFmHGws_R5pcek6-mMgpSuL11Nwh0UzdBNVq_Mokd39FcT1xu881dk2lrRiTckIOk04sowsp3au3alFleY0hj_dxXI__CMLBW3cLgt_QYkRctNXZlWsMEE7-0D165uxxplBkVQ
     widthPx: 4029
     heightPx: 2985
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpxsTlGA!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
   - name: >-
-      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcLe-ZBw21BYAjV5FFyNOTpfy-iIKhTzpU5NS-DEiUQfdyvMhEdHtM1qDEQGTswawg4qUiKnSvSMNzmglf0knCqWGelf3nFr_IZHucGFhCZPizFtSZXLztNMrJk3o-IVuSRUEZg_Koh9caGHcAf5zjYGHn1OJa3MBWGlOLxF8Rp_Sg_HRy7PLiMjFtP6liMUxyfnxKeYLmzob7v2_-O1CBNl6Kdz2lT22mkPf6MGPp6NgilOO6fw4FD5nXqVzfCRJH7mwQ3IRe1bROs2AjYnXY8p6oAYXgMC7oPldd_mn68INvD6ULc5iRUzmblxvNnC7gntIJ7KbxqQvoWuIM7Y26wi0CNg9z1c0053ecv-nC4aPWthHdQCrrpB7n5yffaC9ZjuTdwFxeFI4t3klQ1W57Y4oauK2osQp6Nfzf2xqDQ3Iw
+      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcIhSNEY5t5PNluP9eAIodG_R6BocLqjvJnU6c3kJO4Es3FB_v2CfTjK7S4Xtl2UD7iZrwT8GdgmbA4l_FGXOoElLQAu-vmUG9F0PwefAadKWaNYy1XYOEmrVf4VCfeB6tABvhMoeoNfWeXjEibEO_RM96PTU63bUq6qLQL22nPIo6GVf6QQi_9t3JmMayv9E1nr9FElFJp4hL8xRLYQZjaQrDOAwL1MnJnjZix5p6olOp451m7rHZJm_zelIY6qzqDDiVrOA4Y9vAiBTKEdTFm08EWDC5bxwmr0bmHA4oEKZI2oIt5QbPwN0y32GEK4uv6bJXIWPTzdovKbApHhkEDEGXapOlg9vyfdenhegNdq-f8ohyF8ZgX9V-5-_gBntvbnmgho3RYY44ONqIelbaqa-tzIl6BJ0C6dX8XvUXXJPA
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXwOLLeg!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
   - name: >-
-      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcKHmT_uSBD_78AGsZlQEW0Jct4Q_I-p1u7eno8mXqKhXrHWizRBUHz6oJKfiKz8ZyzkYiGacD33EFdn81oV3VhGFekG4-w7WUV4CSdFftMnciWq7Jj5lqLxRJ679wSPNQ1nrzzsuvpJ-jzakUusKDaPZ2VeuhiwmZO39KP_uwTYL7I1o3iiZyImGIbPxtRZEDIu6MHgDi5nyRWY_QcNDCRADterL8asezWjAvl_bh4_r9dPWCT8PU6Txp-TlzxzGHB5Ee8sdyi_tPFjLrgdZqgpnDAsh71TLe5xbGJo_LKGmI6mjEism27ea-KQsMuP-Xg8kcc6dCC9KFDjcJGIndtq4KdgOuXDQaPWCKBgAS_F8gKwE8ZabgTaNv2yE98ekd5-b0AQbePqeqeWwReZ50_TY2EjcpyD_U0jJSqDBBvjMA
+      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcKrAR0VKWFYoqmWjhAAljJrn6pNlaPtwf3WP5vb-EdSGydL77zE5cPiC63Vgx_QDkqa-nwlDTTG4bXAqMgi59J_K-6iYlAXlGLb0Uwv6pii7vGzCka9EdPPA3sq6sw29UffcydUgPB48Jl6EkTdRVErPUT4HL61dFdlI8gtR-1netsD9nddzeMm4yc3xHB7O_8lLpKtf4L2M_Lgl52S2xh7AszoOKxF4cce-Cwj_Scbn_-_dXZQfxF8LGm5spOZ-dv7E6BaI5_ypr7WHEq0qkVYSkG4M1kSTcHLcnCAcJdPfwynb276v9HO7Z3BhkVQq0MD55MZbISl6oll34vqEadPSP2B52VVhEo1okbIgdjU4iD0ZSggDfAcfGFKYpc3bfhU_bL4fwco6Jv8X5y6Mws1k0qmIUxkN2p-Oji599jgiA
     widthPx: 3638
     heightPx: 2482
     authorAttributions:
@@ -104,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBxOH3QQ!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
   - name: >-
-      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcI4KVVCXobgc95qyWCCaScLUk0_5nJu7h_yx468moGV6az_k6_jSrFxew4kVRqDLxs-frcHrf_GQsaCXH-mcFrFjGfjNgXJ1zP-gsZqRwBM5z6p7e5ly6L-o5pigpyJi1mAb5emB7Xn4avu3kP3v-RVBg725PD1kKOMhw1MGgPoVkUyOXsudgEUHOgMJbKMN3UZUuM1mOQG00sYqEVspr105mRGfaCshF5S68uLDAebSqyrNbZWou2RKBr9g7pxHBR6z9kn8Ynv_cZW9L9v5IPZRJVUZVfFMh5DWbjg6UCDr7oWYGM4mConZPrDTPc5qvw17-FKrl5g7C2imNWMZ24oe3r_Aqj7hkvhOeYOB233wnnzqCQlsmX_X-jkLltsW-1FYuoTl9yq5rrjH6HZwg8ctmj6JTJTV8dDJhq-rxM
+      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcLsnb_I2icDdOWvZiwMEBJwlz3HNPmVGRGq-QVHnzpFni4haDfI0guPPS60UJQoB80qXjHJfkpSkpLsGXTVVc0unu0EOQOuS8ME6scURchf5FpzKCOVKaRbePsAXxVuCmYgIKpUW52xWQW4fc9G3G2gT0mY6RvSvzcq4qLE5anxz11MtB18FGJFEojE7qix-tYaaLBavvZHlcY06uqSYteyyB81A-HhbwlfMH7qxq5G8l1-oVSsJ8ttkPipajF62HPwh9yzSKSRKKW1-QUQk2as1jiOqGFHYpIkZDjcuVdsnfNnkihDMLcI3Q-c2qwaCFMnj--dq3dyHtBa9qE6H-w30OjZCE9xz_wF8krCBzC5zvQXoXzF8fvjmhnUH3R_CZDzoaqJT8G-REgdt6TnJITqSMmkU3LoFFgVk3It_HGhqg
+    widthPx: 3326
+    heightPx: 1719
+    authorAttributions:
+      - displayName: Kamolrat Deedanklang
+        uri: https://maps.google.com/maps/contrib/109731123332888700109
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJtE0ueC0hWWeR8kdVt5gTc8V4TxGv8LI3VufnE07KDR-r21w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBxOGREQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBxOGREQ!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
+  - name: >-
+      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcKNZkF4rhlyL-tNFvZuMJqIilZWnSi9Z94q6wO0PXnwQ9pPEowDvxhlKxGbzk51DGMmjJlH8NLGdtXq79vre8sW9tRYaBU8HaZYGC0qAxnsWKl4T0nmxDdmkacuWYrTUqYyDuJ2ZNCE9FMCfefgZEHv7yzVR1Lgs5fR58BOGYqAs6A3YDGSX90YIoXe1B8uXiCtylbW5Xc7HcvOX-n7ru2vRqe5E7oi1VTgJ2IGakwqgYJQAGLSvYeeIiOYhAbRfNau-W57p4eF3Ob3gxZA5LWTWLccy68XjgEFd9hDiRGTenY91-SaEt4vNa3QYpo4FMGxk-UGqw-OQJ32d8iT64NcQxa7BI9aPYMzNJkKE10EubY5o1qzKMay2DueUfONwweTL5N6p6L8USpfm3gewL5REbKTh_P8pZY3NHIkUXQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-htCXEA!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
   - name: >-
-      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcLLrPP1npvmCejCY-MP93IgdeYjCFQcO_sA9mO9TgyQUAl1lAX_mcNg53a6cFdLb13lUzvv7aQ0tXdVN6CRmeMUeFUpQbgO_Ctn5vbff7tt5U9un6fBK6bFUJDugbkIHF0Qs4zc1ymyd6AJgG4cYm0Cprg2r36PSaoT5s5fyonc-VQB79bUmtRr6_ghYbyCHmMcOTFDeDJkLMNUuDBxGRADzaZd13VwbEhavv81nZ_PEa0MCAx9XxJUC3_Y6kGlkfWb-HthkxugmL_Msx_O1cZJ6ABA50kgXYIh_ZOOY6rbKZD6gbJ1lKxXW3bLwL8EwZVUVjV3jyYMMB399hk9XwyMzf7BMDQoXWfPb07DSMoeKe2FRpbiAdX-a8EqexBpYFpy2crhwgbNxiO4UyLv7_Iov55Cr81tgA3qMBCGjWkV6HY
+      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcLI0YSv6RbIMIOG2T-67zFdWrKoQ9xJO91PNmwVy90qndGZpFjEJPj-UznB8dDVTWwX0n6UDn6aOGNpegUQm8sFgm58GEE5u--42LhnckQ6JP-y1xh-52xmxQjjO7TMoc9-Mi1bRuqJGc9dURJLhD0nC3elfXPfq0MxohF8-Sou_2cf7P5AOXVkDzsH6YBpUk-QTRXUDPz0lyURQ1RhOfwJOCMXJdbbvw4MH1NFuUE1lRHEdGwhPJplpcG5JscbkK56CtxOVHnNCxVsFdnhUOR9_PrG3R2QAJn34ZXlwiQ01IFSuyufsHj_bRyB55unDN9lSwmcWOg2zLntocDDRC4skCVaDQXrs_p9xy5qLUvqspXuDFQihhLGsdr34dBw3rgVS92SDCASnzGgJvQBjqt1l9tdUH5qrxpvV8BGKmgKuxM
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDW4b7xgQE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW4b7xgQE!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
-  - name: >-
-      places/ChIJo60uUjFPtokRolea4YtasgA/photos/AeeoHcIakTEwbF3f-pMwz2eXDWmNV9nEfX9Q4iTAmdH8F_PqQrT1V_byJuF-vpRvcat8EgzsvHoKWrEsvIBRM-JXaW67SBgX86esF20H5kpj85-QmV7iJ1i2gqXYcra3MoDvT_KQm-wx1IKXOak_KQRuJY1FgdxoeGqZh-RWrjszIDo8tISPERuxrmJZ3x3u6y0e0CxzXRetlSZamuiF3HkA1ye5FIhpYlHi4i9vXPX0BkSlAeJn1JXk7TMKdCj0QzrTCqvxrGnX-lQw99MhvDr1221T8apJ5_h-HigOmggqQ9VnqbQZZzvmLtCcxwjrjP45GzpyTRnTLHDLwOiTUCVtp64VvGUbFSFoYUJQmpGqJuwtmiArWgUAIAs6gh0GhXtPAxcLOW4TyWh_15dAizloqzaj9U3hkN_u9IRKlxKvDREjVg
-    widthPx: 1280
-    heightPx: 719
-    authorAttributions:
-      - displayName: Kamolrat Deedanklang
-        uri: https://maps.google.com/maps/contrib/109731123332888700109
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJtE0ueC0hWWeR8kdVt5gTc8V4TxGv8LI3VufnE07KDR-r21w=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICChPnOOg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICChPnOOg!2e10!4m2!3m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
 address: 5624 Ox Rd, Fairfax Station, VA 22039, USA
 street: 5624 Ox Rd
 city: Fairfax Station
@@ -183,7 +183,7 @@ phone: (703) 261-6546
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 172
+rating_count: 0
 website: http://www.khaohomthaiandsushiva.com/
 reviews:
   - name: >-
@@ -372,6 +372,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

@@ -13,7 +13,7 @@ description: "Neko Sushi & Korean and Japanese restaurant serves delicious sushi
 place_id: ChIJe11UEyizQYgR4jDhvEkZhYs
 photos:
   - name: >-
-      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcL_yddBaybl6J0E6Uw22KA_0ZC6bZKC9yJWJv56kLrgiLle6kW5-EsNpPntq1BFPWxj7rXh-KAp_bF7tQK-zV2KDZRBgYaSJy2YRBcHkwSuzFNHL93C-WDnA1buIikn7m43xYElfV9HAQS4mEQ3zfE59UP--R1fKb3aw73-53ctHlfR5f8iQOKyCicuxJihOEQilkwsJ7pMhX1cn0Lr6wgPXBZ6-3dt8EyjvdxoDhTrxEf1LwD5sRe1daHq24lOfy9eeUPKuxZoCn6yorSlPSgyhvSPh4JmBJJ9hfcUQ-1CaQ
+      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcLALgkVH0DP_v6xDR5QupXH21zmmzVpUvjZQqVgFJUA6cdQlzio7t8dFsbiMta36xqirW1VzL3UZTLYw1MEgUhjGJmobqqeBmuKuHEMpl3fl18Dmqkz8OqECsyPVcHbzumRXELKUGxH0M5H8zdWBE57QG1Lv71aoR9P0i04pput0d2K549HgvFGQ3nqxOmsEXhfbIEKjQ6TOFXRgLZ9r4H9vyXBJzFDA3fKeL1PQKTpNBnWeaDOK9IZdLBNyyG0_KscSFkgUtb7Gp89RiFbwO6B2WO1VyaVBB6-bWU-kkjm_w
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPVS72Ta1oARPrezB3jXjJ6AyM6i9sdi-4erxc3!2e10!4m2!3m1!1s0x8841b32813545d7b:0x8b851949bce130e2
   - name: >-
-      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcLuPUdQ5um2mZNvOiQ6KtzvgFv9fblLOP844ggpfws0E1wBsqViS2pRqwgeclDRGuYABnMsaZiGvHdja86ApmoKY9At4TMd-MBMLcygq7eQ4KkD8SKaVlvcVP-ihwcgz3J-Ua7lHfU51AHQnNIhinsdWDOE673d7RtI8AFvnsmTMfLOVW0feuHGCLyTY7FLW_ICEmdjRRjieTemBecPKvs9zQOb8eKAcAjg13UtIgFYE4rwPBMgHDurlwPPq867nNiihPEr4H46x-xl20Wr1sWMAEQjlF6hKV8iqq_LWw0EfA
+      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcIC7cdcSRpvMAjxdcqqwj3rGLAaszu1Q-w5xolvYpwWHO_XHmYZnjq1PXA7StyXBMpsDYo7-WhNHsJ3okHXoI08125bzxVC5woe-BmgMnG54V2htW6M5VmTnCbRevahKblVhfsh1LZOrvbgGSAHj3hEFW8ywkukRMBWp88Ah21-p2qAR-N52yWu92-qwu2GAPMkVVGbL65qvjOEh5HFS15_aMrVC6kbRVGv9QAtoqBCXCZY0S6XeMm1gpnCci7uI5OoaYgdis1IQw-MT7O6t2WvaZ2TFVILbrFK9oLp09uD-w
     widthPx: 3786
     heightPx: 2311
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOd4H-opg2CAD7BBY13NzvoaaghcnKMOj209jUl!2e10!4m2!3m1!1s0x8841b32813545d7b:0x8b851949bce130e2
   - name: >-
-      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcJljo_ezezZgCiURx0c2RKb-Gg7h41vdSiFDE5DI9HDIrv4RGOODL9mg0WfUwXVAdbD91xxWHacQf6Yy5fjrQkggv9eGGX-Y5O_kRdGJ11UDJVZrdE-o3S7lHMb-Vff41i7lAQOiV5odnHt5W3llZvH-mr4HwJHiieI04t6rA9WOGoQTOnQyR8ga2NEljhjJqQNTuIxKSh9BRbMenm4TtrCqBmga7ocgpekEmma46cZ67dFET9qiuUuTkqe6dHgEPvgK1_WKMNIXAH2oMqvoHBqk7_fFUjEsLJe77Zn10fUO5LVlJqWSRWiwNpAueMl5SaCCADmwbkxVOhFLsCGR_5vEJpSpbvoosLlWKfwm8p85U0KQoVzDNtnmnrGaDglbpcNLF1Ep79r0V72ASfTpfokXGyWYNQtjJajPLOsaET7Kw
+      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcId07WoTh1Yn06f3aH6JSI-xoMU3ifH5B-i6A3A_Pz8St4sHpDjhnBwnn4JyvpG3-T37ndrdsNenVxI033N91GdT6Upo7qV71-Lzgtijd2dy6JaPhufg2aHg2fdKJY3lHiNcdItuI7hU1gR1bI0pt6fQb-LGzOU4CjCu-dWozX22ps9ARBO6OIheQJdkdCIk6GrNAbJyfxq7v5MfXL_qSVnvmOENmTCL6784iXFeLh6nyMHEjfLvY4DX5mvxdm69P7-HQFac4b_1HV4ocetFycyGNfLVKzk-_VBVPw85nsXOXpqV6io8Q1AT7XSlTBL3eiPl7m-0lQdfmSsh4PkA9M5BKHHbpuNC95AKJqeldmB54Z9J3fQieRkS_bSJjUXkppus8lhC7zlmzYMrMCyu2tSfkO3VoB9G0mwbL4732ygBA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,20 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb6b6SJA!2e10!4m2!3m1!1s0x8841b32813545d7b:0x8b851949bce130e2
   - name: >-
-      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcIdHS-oF6W1Hax1CHWU6MGrIi_dFlULHM1db1Pnq_rrYMW9bhPluPOPyPsQ89cpcH38RO9y50sS7MZmSWX6RdfitgLlDRtCo7b6L1engL3V_0PvrS4YNEKWpe1Oz4zWIVIiWBvsefc-hIW34aJRl0mIx14RvtGU8nebpCQaZ_yqUtzukEubQkvtGtF2DVT63oTcRFN9k8aQTgYIMHmsmrh9oKweS_audwwuzh_fw0sRnfbBrafhhrOO-PUAlATF7trCPB2WUzgMVtJBmRsuDK3t7G69Ti-3_zHeXbNyuIH9vg
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Neko Sushi & Korean and Japanese restaurant
-        uri: https://maps.google.com/maps/contrib/112435622412745082701
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJGPxM41w21UBTaUR5dYl6I5QD3qaQwko_bQN14E2SvN0m6Ew=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMlaVtmHdCmxS8mPlATnWiC7FeZ4DGF45_jD37F&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMlaVtmHdCmxS8mPlATnWiC7FeZ4DGF45_jD37F!2e10!4m2!3m1!1s0x8841b32813545d7b:0x8b851949bce130e2
-  - name: >-
-      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcIJA5GxxtGb1ABFHqe5lAm7QzANBmr5FCIPRvDS8tUCsxrVVHHNK4iIHXF8MhZsyySKH-gHuG8-n5wHp73VmWLdAWoHP6F8oH0NexUGo6SMQf6-qa7lrFsWHNofuw_CROxioNXXKJ5z8qkSqEjxuc9Xe72PLAr0JEZGtrBrAf5YhQpnzLC7s-0lCw2XcnpmUNFJpqbtUQ6h1rDWpwUeYapv7E_M0lS2O0d8lAnD4-ocMNDllvTT1oLyGv1X38ndpzKvV4JkFJ6nfFbQaX46HO4gKV3JEdXnTM7ABveR-qKxCg
+      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcLCNF_vGOx6XkR7YAxenOYWdNwd-5lnQJCSShS3wgJlB2v2q2rMpVuFKsoOnkbEhhJv2AX7FZcyyMKSq2zch9S4jH8gW5IvBNO-VFSyg-l04Z0pXfwYBtBzQU4YkLLdYUU5SuXxMyNm1ZJLorV2ALeOyReHnzxHN3ZrlR289qV2oHSr4OLd_JUs6ouiZqtzL-6_D0l3ZGNq9I_z0Xptg4bFIcC8jg0LKtc47BQrDv4Tgs4eXSk1Kh2cingh8agjUEZxAzf7IlbYnk50h4tY3hiVQuqz4zuqfiBc3e6RrWFetg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNPhpdHxmQqQlUFpsk3wnb7lbU2tzJWQHc0RI5i!2e10!4m2!3m1!1s0x8841b32813545d7b:0x8b851949bce130e2
   - name: >-
-      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcLlTuXSqIVHtFpNDrgnl-pUoULj9hF1Yo9_ITXk6J4guryBQ0kRhrCyzx3UiGmNGxTqMDJRp6sUS0MouMRPa-W6bxyeRtB4wQbx0MpA3qqDG0Q3RgLRosymruD4cKM8UUtq3DdRPIB6ee0uSLYyylRl7c_yGaBcnnY9VGudlj-2xZwciOJBfv7X7C2cfxH5GoFdf6kx6wIvTX-YRZzPjf5KT31nPrDmS2e0m4q9dejZtMQgJxXnR6Xj4dhsVTg0DE8WwCtlP5QxAKrdZ7qnX26OZkBX-5tXjMrWuagqouVs1ol2Dd7ez94MDM6a0JY3x34TjMZCu94tqishd_giIp9SQLJ4AqcSTB6jGGToNuoipYfuaaCUMWUeZ5kdv23K8UOZYEebCujLJpozO-r5liLeZ8IuAP8s0Uap3eSw8GeEj331
+      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcKlr8PC6QbYQVZ3K7hYLTzUwY4Vx6bPylPv_oSaJ5ohWzPr2h009S38uRRzpkm6zCFD-uRttTSOMVo0n5v-R7Rk_tXEy60nZLFocguTCfaKTG88WBswxlwjZXXtgGHDDrTSApL5f5_Vb48-gGXWz8r_UZqn0JRDEkFeQt6jzph3CQLUKCsP8oSTdbO3T2KQ3OwIzMatqU02OpNsr39GCMN2Qve5fj2W4zr9KBlXDrm1L58LoA2MTF6qTOsl5KvUADIoO0iJ1mfPIrA3_m14bjQxUjTf9ss0_twKzjOkDOOv9w
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Neko Sushi & Korean and Japanese restaurant
+        uri: https://maps.google.com/maps/contrib/112435622412745082701
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJGPxM41w21UBTaUR5dYl6I5QD3qaQwko_bQN14E2SvN0m6Ew=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNIBeXKeXwPEluCD-FGZrs_Ucr3kW1U50gxdwOO&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNIBeXKeXwPEluCD-FGZrs_Ucr3kW1U50gxdwOO!2e10!4m2!3m1!1s0x8841b32813545d7b:0x8b851949bce130e2
+  - name: >-
+      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcJPdevyzWbHu8z2tbvIrA_MgYUrzBLBwCwutaZfbED6Q4JM85d9h5kHhuXxWrXpHwKrbNxzK4L7h_NRQJ7uSCpSjyfmGNwCaZd2K28a3YTl8ob6DOErKZrLda_PU2eZwfpiYRw2jiUtb1GMg4WePaASzlXHz_xfubqKASJlCtDapny2uHGjPLIAueMRvRzFFlzRRiqFwDThH6Pc5-F3_Nh8mbpPs3b_138_EMqfdz_rtFQOQEO4cncgKYGpRMyLzCEG8qXT5RvZ7fO75W6zxZ59GAXw403AO2d0CJiSnXZP--GJI_lKZC1WtfXGxTcjWzGVsLbKTHdKUie-F_1VLgE76PxTR8vovrfCXtDUcl-HnechPdhJArXQzFiUSbYENxt720THi0RgWvN5lx862GRioSuE5Kdhl8Oaod4sJAo5huJo
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJhNGGtQE!2e10!4m2!3m1!1s0x8841b32813545d7b:0x8b851949bce130e2
   - name: >-
-      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcLrkVlgMD5YZhFoQBzZFawgc2TiQJx8u-r_5_62WgDitGJVe_JJUZbuvleZqhQZhNomebjAuuJISltw3gH2-9_3Rxnx10Jb6xForkQk_vfshp1IG4HOJm1mDtFwV7AtpVdfPyMwgsvaI4IMrvRnzuPIsk5djQMoAPCmskoMLEKgy8dzI5jfPlGwDLveO-hTWjX_cRAmt8SBB2aeHHhlsUoBKHhXqeNctz3f-LA3ZBYFwN94hYKTpQm2Nt1Xb8OMBrm1SASC_Y0ME8XfCdrCbM6mRaSkd7jvFo-FUI9RGaY0gBHg3stXV1yLjZb0s6XgoYON0L1ivocnFhJxrjKgwXnE0Qd6630-mwPAlKUHoW9nEhsNRr8TzLOvSHAX678h0tC-EnziTxgAhhKDq7dabHC2k9z4fubuankKa3YTYsE
+      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcJIRBCrM_IP8AqttR5nKs9_SgTBv1vngWZvsh4XBuQyNG-waOcWMtiiv-r1iMrUL79TRu7J-u5uJP3wrA4Jye8Y4Z8xWghfC4SpwSyCCUg_xdWAduxoC_hn4LNGpipe4VYiDw1rHdG4Vr4B7HMuphTenZoU2xBNP7dYxCm7u5IVgiW3QMZ6PfIrK4B_pALyHhu_uQ5E7VbNrPZX1szp90Mha_CAqlT6rcYqC5p5_w8b4hzfMWwEmjc3mlaL_tmxPmnN6RQOBcCCxZoIT-9FEROaFzL1pedHiYDlNgtq-FAU8_g_dMKDHSSd1ZjJmmPdiMq8Q23GGKob2SNWWngf-pId9RhYnAWDCkEqP8eSylyISfrrjMQSTHYpuc-MTnUDPb6lRA2ykh2pAmCc53AHSYUDHu1A8zPm-q_hxfkqymM
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ7ZWPMg!2e10!4m2!3m1!1s0x8841b32813545d7b:0x8b851949bce130e2
   - name: >-
-      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcLJ12ScIpZyRxzCLGYQj8DjCeJJNOwm5UfvaF2VLXJhrqwgh4kVAz7lXntzysSxEdupeXRa4mM6oB3B03pKvxCbIjaDgGFtoGxgekNyocT2EMTHvfBrpruCRZfi5NLmXSNhEKfnY7wTxfS3fAFL3kixLVW498Y1fo72leIB4tTjqmIKV8nLWMzqDBHICnarHxE-V8jATYcr8jt9RIclQKnhQyiPu4K2z1luhq9ZWyoc099teg_XZsvI7bNzWeY4Xtgec-CcTgepSwpA-_ZbYAdW2WWuVr6I_ip8EST_B2zmqv_jec6Y5Del72R566rngeFU4xvrh0XqKxaBvGfsCaNISCge0hDNluttoTNt0l7lebCEYt1YmxkNIP5eRfHBHC-yO29XYr2XvDsWH1zBC5JgVr4-WEnnwzleGYAdIHY
+      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcIwBhKBHr5gxAkBa0rBpTIDqq-xZxQ0tW3FN2sdXdjW91R_x-fitueVGox2moNv9GWJ8_XdMKyvBlF24Q3-o-Dziqy8-lwin4pDLP5oRFQg8bD_wx8dLGYLnV1ExvTGUwaXPFl9jpS8q99ebsuvI26XOS_N57yqbm1zKwwrkX3n7ulaEXbTZprrkVNh1k9HoceXqPtVvOJNFZ4zjCOVMMoX12TIv_I67XMq8UC79976jOgE6O7bIH7MwxjWZE2BfO3jzorN-Q8wKrkjHwebsTAL0qXC1p4FkW3CLHCb-Qi6iaA_TQgOECdLB6bGHC82zDgOTgmQle_iAQgKnALUymKvydvwNE_p6-vjHmgZttw4_uXo0jFgrDZswTMQ26tFca1Swkw5oeKjHlE0LvDd67LCUXQHRE0JOV8XJ7eJVCA
     widthPx: 1242
     heightPx: 2208
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_9YC-bw!2e10!4m2!3m1!1s0x8841b32813545d7b:0x8b851949bce130e2
   - name: >-
-      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcJTvPU9SggtWCosXYwLO3P_kd1ZFViy0Iq5ZoyGqdPi7on1MEsuQ3RW2lEwx-mepN7jFuISmFgvYPDkak2jgGn1hQljZT_GhtDHeO50n_54KsA5SSDELnPAqtXXSN3sbS84Q5u0OM9oTg7d-3CbBywuG3WVssOo6fKpGLU-eLp9BDz7YfEx1tzWt4NyHjYsxYeaSTMvtBMvwNP7Aqmkxhkb6pb_xRU_PVgANCjA5NaCNR-T6A9NH6PLEZR_UrZ6eh77BwDaRVAlBn2vgCrIrmtOd3ink5RVwdGjwOQxQImNfWGk5VBkukcUxKctibXUt7CYgityubuyVcZDl9tjBCSjpTbKL47sNpPLeW--F3xej_9CHCaIku0vGuMu78C_nG0MS1FV1u3WI-YgIq33dTtyovKL5e4YbyeOhNBaHbMvNUVh
+      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcK7GPj_oWkBsw5_wr0yUDx6HiBgUs9Oqi6dtvfmIx62zznnVoVbjq8XoygYxAZ_YbM84A6Yy6MH-DmX4feQIvP02AiKbVonnOb7eFisVZ6Gxn3aQvPzzGg1RnvTdh-v40XllptYrixL8yyin70yFLZwyKCGpRzqRS869PI7OhTuk6D1MIDZtWiK7LXozK-kA8VQGAa3FRPcq3y1Q0oHzIK_rMRh7endjULr5M_1OLguFttuBb9vEwnkPJ7i2JwB5L1gYLNPnHSzwc6zV5Opf_ZB7dPoTeXW3kX4An7ZL9MaEOCGteWY9lvbX1i3YQuKacSUs4_HWuiJD9wzORTY7m9YoKAvBzwHBrk8wuCry1qFcF4whWVe6nsrAwca3N-1xNO5SvZ0x_0MM4xsfa7Zcg_45AgfN56HFdZHgdmsYPivc7OU
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ8v6V6wE!2e10!4m2!3m1!1s0x8841b32813545d7b:0x8b851949bce130e2
   - name: >-
-      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcKYsmQwC-LwYczc9UWBz-qEP1KweXxGY93hw-yup9TddjXtKwDYKiQwtzJjwAb7PAcRDYolIIEdrjxoFySD9xDeD7Wb6YttKLamh33GEf7LffGQyK6cR0D5lgPeIZ2WmP-yLog2zZmLwu04VXWsc7b2cAvD8RR44RPre_sxiz7_-rOxM-Y_0QuqWGmtiMPwgWBXZ_wEM0s8zu0J20Gsc_EYLUExBjFp27bngnH70uAD-06W8XmZ6db4Pt1t9EWtAQzzpohfv3o2CqZTdacde4ThqdDs11KKOzJx9eCGBYeAsg5s3oyjyVKo6376ThmxcE6EPHx49daN-mKycBWqK8z1ztsIBQvg-ytiVjPYNCenEhTy2_OVAYh2ESQuRySBGGVI2n-4LnZszip4pNrYBzdz4Qb1sTKaq_iyDBDbucLY6Q
+      places/ChIJe11UEyizQYgR4jDhvEkZhYs/photos/AeeoHcIF4Jlw7YWSPv4SPm3fZlMFIntJlGS8MhWs2kAC1dPpnCXWh11MpOtUIgwmSSld2MvKqrs48hx9ikUuRAirJ0b08e21ZThsil2rFttjXp3DAMx4EHfNyPQAec-2GBzeIXs5kb-X9HlkPQglVgTt-d43fgFeq6HEBo8uMkrizl6tGeZoM0OGERYNEPMxvWlEUEQWBWCtOxbLvgMJazVZVhxnksrgn-xpCdFafvj-B0szlPBY4Bvo7XnFqgn8sHDs6YCDt6EgOiRNe-0VCuXdmBe6Xr2PUrnWUXuc5ILF_ksoR902_X8_y0lauVkR29iU_SKd4BjssVyAkaS3kMgHjA9b4eXh6RILvpou_4pNJ3d1Cd1iuGnQqR04wwFwI4VZZQJ_tVwCeX9-NzboVnf4rp308NUr729_YcIhb-c_3ji7mw
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -183,7 +183,7 @@ phone: (513) 533-1234
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 254
+rating_count: 0
 website: https://nekosushihydepark.com/
 reviews:
   - name: >-
@@ -365,6 +365,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

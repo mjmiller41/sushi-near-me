@@ -13,7 +13,7 @@ description: "Yaki Sushi serves delicious sushi in New York, New York. Try fresh
 place_id: ChIJj7V_9TNZwokRPIeWTvkLCw0
 photos:
   - name: >-
-      places/ChIJj7V_9TNZwokRPIeWTvkLCw0/photos/AeeoHcITYffUXUZqsnM8VRHLZVywrn8cBDC0FNaEk3fhKBvlN6kSs4acMXL3u7-HhgbCiyRselHAmpb_I6XBLEMyvOcHeI7tawqwGazzrySutjF8A-emlzQPUEC-FmRyTnJMnasySXWfhzf5k6DrYMqenDR47YuX3DzL28mXNIUFKmitycDBUZ4ZbBsUapL-9WYC7U1ZktY6t-KgAAnRJLCDpU7x3d0xsyonEeykSo42Wz8Uv5kKx0nnyaGtg8ADhhCfrAdNgjoF_X6Jot8fZgBC-K-GG98WeHb3RgRZuQOltigp5w
+      places/ChIJj7V_9TNZwokRPIeWTvkLCw0/photos/AeeoHcK9bj9Ee4HnyuG4r5XJZCbELcDFFEAggIjyXh6yJom2spOk25737clq-LUdT71DKfxOT7ynVpxmXW7aYUzwOC7ZOgsHdGvNBDT02BocVZNO9_rDYCHyrpLP-LtSIpVFFtzNp7sWG45XPIzlMNQ99obMfVmz4ncrT346DcJqRTQcDgaEgShDjYgLwYVyQedZ9vW1ScLNfOVBTnDdpJvJQtCGCSMXXchL5hp8ncBIBMRv1pzUkafIaa9c7gcZw31wWE6jrUXJrOZjWlEardQ9rLe9Y9ycCUYtjALYo2xmCuhJkg
     widthPx: 1080
     heightPx: 1920
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN2wkPm9xbitBMAuTruXHmtcCcnawoRgZnMFWV3!2e10!4m2!3m1!1s0x89c25933f57fb58f:0xd0b0bf94e96873c
   - name: >-
-      places/ChIJj7V_9TNZwokRPIeWTvkLCw0/photos/AeeoHcKExh_Nna1POqeGmbjCkjx6-tdZ3-vF6ecjKGQJmy2Ctx7eK68mxXnR2tM1-jWHEUkoGjL5538Hvt0m4XyMb1Zrw2_L5kSlqwvl8oZlmWX2MN_s6ABVHdR5SUHvLBuDUx2D8nAMjtSD4RH3rFzOGmdNnmcKoWyUayZZtB7mLwruP5YuwNL_nRPK3OnNLcvmsKV_u3bBFy6xkhQFYHDniruURaVg2XCuDb4jz31H1VyyyYSOx3f8szD7_1cYAbi3ZEOApsgkC9b15PI4aSZSU7We03_A7Xv9Q1jwAHt5iaF0W9hbNQEym2rf9Nsz91bpctzywBkmnlRBPLOoVRyWSWti5w-1aetesLqwEJtsoh6HtlP_6Q6g5GYvIQ_6wvPxQmtfzCuXSB865JAjf0fQtWFcHAJ-mc4spcfyahoR3E0lcQ
+      places/ChIJj7V_9TNZwokRPIeWTvkLCw0/photos/AeeoHcLRIeLywmDnhAO03No4gwGLtPnZrYYegHURxKO-mu9H9Mb3MlxcYpaGTjZKUwZhqgLItNtAbQfCfzUDO33xnAviZsj89ukBgL9xNV_hwpN0_bV33WrkZoLLYrUyO2va8eKmDr2y6RuXVi4lO8PkJZo4FkW1UKKoaNQWSOUlkBGeOOZkTJNcjYTLdjtxLL96MWdLmAjwXK2VXdhXmItRfkk0qLuBRljo-AW8UCTfnUFeRYWbaerNclOMsR1u3pH0mKd5Ry6P16RNT_ZcLej7Bi8O8amlZu4HoRGP1Lj1-ZrDlfQ1kwe3cwSXQhC9DW5rkD6iC2ePsz6h1Dbw5mlEICFaoQDbbsYDY5T8-ST9oPFGZGPfmE1fmfKKnWCDiskfPDV8J7Ul4-IJ6x13zP8utoRVevV_n2hMv4eViEg7l46lUQ
     widthPx: 1080
     heightPx: 1920
     authorAttributions:
@@ -77,7 +77,7 @@ phone: (929) 468-7888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '3.4'
-rating_count: 12
+rating_count: 0
 website: null
 reviews:
   - name: >-
@@ -223,6 +223,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+update_category: essentials
 summary: null
 
 ---

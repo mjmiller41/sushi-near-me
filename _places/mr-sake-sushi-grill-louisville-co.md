@@ -13,7 +13,7 @@ description: "Mr. Sake Sushi & Grill serves delicious sushi in Louisville, Color
 place_id: ChIJ-0gfSZmKa4cRmzKYOiPnQDk
 photos:
   - name: >-
-      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcItUrW9nBJON0Bd9GCR12ej1WkLtRIzdvqmgXdqZrtL3Iv0yx10s1hPvnXQq5uI6JWZXbcapgrOWTjQYgsOaViwTi9sxc9pfvMVdhbTH2heyENMiFBkESZ0hX7RD6QqtghUNzYvjBqBS8ZONUxcIJUe1-We-rbJN8UY4F7Hb6hMKMqjuoMb0GgtBy2We2AdWQuxlykjkxw-zFKXqLWPx-gubs66Uka-PXtVv6Gc9Z7y0AmuqKvNT46BJkCGgOLjxL3gTYKEPviG7HZ3fqrBnUvCVbBTzQ5kYSOT-a1aQjMn3PM61GZP7narnUercgsAC16IPTuY9mGrssmqNP5ikScxwtLKTjfqAbVlvrGHorhah6vzD5Ejm1FRk7N2rTZaedtdjE6vENJQsNQ2XZV2Dya1BedA8wi7a4vrX1plHOPXHw
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcJ6VC34LqSKzAJnZJjsHHfUlyeaNtwudkCz9tM7pa0tAuS4VHccCdSaMB6utckP1hLB_s1Dw0rAZ6Hgo996YpIZlU2mc2yGWmM8nbsVgL76pUXTxsqeqFji5RD1Gd4AEiWH8fUTkZI5oF6zNbWFFzeRn_OLc6pud3ktxlQWz_xx6GN0t9tTUwTaMX4jB8yzyK6mulyoqWJuORc1NHL0pG6dUQfB29fSUDswS6IIrdlzEB1V4qcX7LSVNusWG8MUuY2egOh5-KDa7x1d-Cmze7EJLZaX_51nB0ZlMuC29XWCh-hknDJAIAVip_SsaJ7t3P_WWdBB7HJBOvH5EISfagJZii-ksuohOOblXyYR1pQFXbsyB_ncjhXpEwdit-ibPfRtlgNCmBygIS7EnNw_AQOjUtfQ5CuhjHafw3Z9iCEBPw
     widthPx: 3264
     heightPx: 2448
     authorAttributions:
@@ -26,33 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEpfX8cA!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
   - name: >-
-      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcKjtf6AMCZVs7gDJV_InwvyLt20Ko44Q2LcwXbXAAQ_9b9baryt_tcu67cUjRLYorAblKFDlc141pGLWaag-0H5bZgP2FIh6BfACiThzK1fwowJI3LQ5KTcgfk0FFeSfc2gQn1rzcqbkfFGdN-py9Imbem1gs2NrJofO9lWg_ENdKEgAC2hKeZO13IRi2BVnvvUOsQ2QKSfemsmEfHnLjyS-sorBzMvcBpOIYfRYqJZ31d2ukh1AbzRc1KAIe_Oeg1Q1vzLQJ9Ckas7PJTPdD1nb8JAAo9FKyN-6SXXs1jT-w
-    widthPx: 1702
-    heightPx: 1276
-    authorAttributions:
-      - displayName: Mr. Sake Sushi & Grill
-        uri: https://maps.google.com/maps/contrib/101153744959343006609
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIHomJBZvjFn789UlCyGBqFUt_-hyf72dQ6cIZ3zie0zkgsXA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPVBhWHrJHfwiz8togsjt6Vi8YSwGgIefLh0rYr&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPVBhWHrJHfwiz8togsjt6Vi8YSwGgIefLh0rYr!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
-  - name: >-
-      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcJqOyzqfmnGZ4Wlx7fBv25XOzyDRM-MdYzlM7oR08Eye913eftG56LbxltHH4xFdriizsQAHTvjebiyUkLmka7x1HA1Dneh6G5lFLNbdQfNGPRRIy0Z03UgqHOuAy8KYWOfvIbitmkqY87vUdgX_gErzFhVHbAnlAfD0Zv8q2rq6L6HQjoGE6mAPtkzhUzQ9yVFZfBa26_H0-jwURTZ-G4rlT3pqhSIraPH_wrx6aVfXaUVPYTtSmhy2thqrreJEW05GuDKMPBCFJZ8MCoevurVmHyXhChejUOvp0hEl4V9vQ
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcIN4aoVOgCduzIuPDqujoyMU3R7wHCHTHmdBz32_PFwEGzg_Mo8pmwDSm8A9pVBSzl15pO4iVY2a6PhVEO-J-o9zGyvs1cIGqze649ZBwL3PUVkS8s7TG36lExoE3nY7-G0-526skdeDxcQmtqREXgTZoUUC5Spgoyocv-Fre7OePug7m7RLaNiLKVkQIqW5a7u-4thCq-jUpAb1EUhO-B8KBNVNhF5ZqYqNBlE5ASFbyb_GJqOXa44hBhvziNXhHz19nh7pCR-ZjG1CYKGW-ofFncV6NKR2Um7Lwllu3v29ha7xCWvcNN7Ffxi1ocPzyqES9dBKu9O3xB36LrL5-kWa9jIE0IQeA1oEwPg36QNM7IvOvaFWtinxSbyekqrYYKmFFEpza8lNn9bCV-YRsoUjTRJacnZm2PhvKt8G4dqSA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Mr. Sake Sushi & Grill
-        uri: https://maps.google.com/maps/contrib/101153744959343006609
+      - displayName: xiangjun shen
+        uri: https://maps.google.com/maps/contrib/100161416132605458197
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIHomJBZvjFn789UlCyGBqFUt_-hyf72dQ6cIZ3zie0zkgsXA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJuo8CV0Dk-Px5equmqyzSXHetun27dhZXQPI8LXx9crecodA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOt32BbVfn1248laNcchB3unuDX_fTz7-4t9UQ0&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICVr--2FA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOt32BbVfn1248laNcchB3unuDX_fTz7-4t9UQ0!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICVr--2FA!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
   - name: >-
-      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcLcM9J1hbZzyZycpW0lLYU5tjlRTsdPBe_ahw1MFwAEgVUHNhHENSsnpOSRIgtQOoK4M2B1ZDUexaqLN6KvsHkj_l5fa2pBegHzuRxlZ7lpEeonSWxLK-260_ZrPUHNo0GfcPmZqBjKebx2tCWqMfg0iJNgy2kChY1yCyqNjJhr6Nd4dAY047ItPDv0E99COiBTRbIQla7qIsnXcSlvhjvCetoT9vG1jm_NRGlIgF8PRluPNiMyNzOV87x0KbAoURpP68dkVrosoxUJ4LlVZevWRWElUOuWjUO2FPH6uQ7_Hu3iQuWlWabDs9iXxY_VGhy5C5UjI_JvRWj7PCBCRVS6gpq2l2Es3I5pkyancmKbY206lmzraQGgRVeqJYdR0pB0Kr8SG8iSfUDWsdl6NMB0vYLPUmocCUswcsUVu6wFPA
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcLoeR8QPtyMPSz9EpNJW5uiOTZgE6AU8Gu3FZgcXJvFlNFxE2clkFXGWJVPMmKfGxWL0XMwjQGcLCWKpZRWwhROy-SewSsNAoWEe8AmqT5EJ-Xq0SlzTOYBlUBzQocbtoYiBBe1mNjN7Wpr6iTKVtTblkC4djpUp2_k6RyjgWp-S53apGpbiRvXO_t7zLDyGBXM5n5vNU1CY3fgUaCzyuWqz5lAALZ3jXTt5P6NGV7TbnTN6NRjMm8d16OcLwjKyrheXypGheqIwKZfY7U1LhPQvt8H5rm70cybAmNdECFQdRyT3m6sCyoK3zDo1L1Zn1xxpzhXTBtVM3n2Y49HK8_0rE9n8Bqj6_0E7OPHHd2LiekgByPeNVAHqIhFc3PG8cTytn7RMHlvSBQXNQzsyzzCtHHeCbsAZ4nUuaHOpmv0Ng
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -65,72 +52,46 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPkqn-BQ!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
   - name: >-
-      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcKFjekKkhekiSP0PHMa56s7QYFVyiUf_VOd-2fKtAFgj9FtUjZD_sMFkvwjWB14PzvYy7pvwV9aD9oew6hFp6uo0mDpW4FjFVunhil00-1pWCEeq3vEokcPh-dO7s0Q3yPEnYiI4XZzYvvEhPUQWtRrR1rTrn8Ls0GTLLL6tNBXUYZXm6bxv1yV1APj4b6r0rWjwJ805Igsz_3Fa4nyiwfXsq2W5mSzFDUPqKtaKxihBDvmwtsKNvTPgQWgk-ocg7QMcZu-7oQX9-HxwGpI90zDl-zfGnAzP941W-95PmTEbw
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcLVigAgMKptsl9epHmVirXDkFj-kLzCae2acjGjgykVI0Rjl-tu_NkGmpkRjywEYkj1V2Xbh2qj2hM-SMc4u6auiHlQCX48Hw4xvXO5cbu-st8wifqa5V2tRoNZeuWMLkBAY2zs5wmiVE5xS8Tp-MF4huWr-sTMXMJ8VxEe96E4gxgGA1xLy3fn6guPqn569ZRQfIgwhv8EEOdMNKyTFbHYzFtSVy-p2XDqKOW64rz8q-8Cn8utr_lP0YjEXMk9hkCLmysLSAsWgP18Ypj0WgAcqmeSPIL2zv0POmQU0J1zItURdmqJQFf_j4222W7gBi2LfdPw3NpII12_iM5uKchykSM8Gm8ibzy5zMMvBbZknczC-N6nj1CI44GgL-iputD7GNC1XhzvxuuDUPAS_9V_YubS9qsQ0tt9pYXJPK5lgRZE
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Mr. Sake Sushi & Grill
-        uri: https://maps.google.com/maps/contrib/101153744959343006609
+      - displayName: shen xiangjun
+        uri: https://maps.google.com/maps/contrib/113076093207701733693
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIHomJBZvjFn789UlCyGBqFUt_-hyf72dQ6cIZ3zie0zkgsXA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWi86gTTqZzDrfZbmUDVAgzJnl7OsF8GtqVRltSPXLHatWcZr4=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOOTiNUXkJri6dqHT0ScEIC7oLpW7wc99Q5AMwK&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDzY-N5AE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOOTiNUXkJri6dqHT0ScEIC7oLpW7wc99Q5AMwK!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDzY-N5AE!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
   - name: >-
-      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcKbqqQBwpv8Y7h7veo9_MUjIXxB0zvbq9nrJG-Lhuk95VehM8vDr1Kzi3gX2kmSOoVGPC0jMmhqHqOgjzjoyaBLJVLJyG1-qguLo4eaFZYD-3WTs8rr4pz7c-GmAX5cBF24xnxJP1H0PV2aBV0me03OQ4MbOOhK8wng2KFBxIWYbkQ3fSvE_Spc2cyjMR5ho-OlF84R1Ls3PvLlaZuErO95JkNupFPMn5rhNkwBGcPVcNa9JSVyHIwI9qTVSL9oUMsBDAmWmCoTK--hGIUXBWiKihwfHxXZPUvnKDcIpMXGqA
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Mr. Sake Sushi & Grill
-        uri: https://maps.google.com/maps/contrib/101153744959343006609
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIHomJBZvjFn789UlCyGBqFUt_-hyf72dQ6cIZ3zie0zkgsXA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPDRpGILmFrxy4zi4mhkWrDSSwCbSuij6fSwVv2&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPDRpGILmFrxy4zi4mhkWrDSSwCbSuij6fSwVv2!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
-  - name: >-
-      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcIrpga9PCkaJPExOVvRsS9RTH_So8dhBtL293Q9slG0qM9tjpO64ijNI6M1PassmPm1Z6p35tA8RX90vDY-TUxr5wmenQD-DuZFISSSvAOtIz_ntEWMc4PvG7RTFH4nKqiOPR1rUIP-mQ6pKI7BaZvpjaSAHeq7Fhb4acwogBkm0EHwy0R1Ol5A6bzh1liRq3ckimtDS1Ew3et7sMKnCw28_ifKd5E5cCz6y7P61r03bnuBRwN5uMXuy1S6LwGux12AFEY-YKfhJPZsZWSCvqBXfnY_HaLyvrmwNEbLUBvwUw
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Mr. Sake Sushi & Grill
-        uri: https://maps.google.com/maps/contrib/101153744959343006609
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIHomJBZvjFn789UlCyGBqFUt_-hyf72dQ6cIZ3zie0zkgsXA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNcbepujdqyIWkRvJ3UIknyU5q5Al52PS32zPf0&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNcbepujdqyIWkRvJ3UIknyU5q5Al52PS32zPf0!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
-  - name: >-
-      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcLx92oTbrHtzjCwXh7ynPhSwoOQDROCwxNcnuQvaEfMySwQ2g13RqkMqTfxLOBQHnYUVNIcmX6CTdZVT9QJbjS_sdmOTT7QS3Tja9T81Zq5ROFfkiP2oQQi4R2nwqly_81Vc5zTebcKiIQ-3tGK29w_8y3xzvf28x46NFwbYolgcHNMyJCs8UvEh-VT0e4ItNuYFzQ9XVL6iloTOojarRYjnU2XNzfNYobhge1ImzSpglrchQvoUTorcts38vLjYShpPl5lIc_ngUanBe9wf0q6feKM3EU7-tvgRg9cqDn8qQ
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Mr. Sake Sushi & Grill
-        uri: https://maps.google.com/maps/contrib/101153744959343006609
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIHomJBZvjFn789UlCyGBqFUt_-hyf72dQ6cIZ3zie0zkgsXA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOhaN9xtQkSXV1Gsf6TMu_yGdSBmjUeSlx3jZQf&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOhaN9xtQkSXV1Gsf6TMu_yGdSBmjUeSlx3jZQf!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
-  - name: >-
-      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcJJ0j5CzfL9ywtDhYOnnSQL8ukuyrUjigf3Saf2Wi9iuQ9MZfyQvGLtyBLZEj8rRlWvFzsSo2i3q9LD4L3yhxfRmcevvryR0oqlYdx7hE_Do7WXvaiMS71k8SHrBTQZmIA9dBBlDIJ8TD_tNraItDTd2KCthy3Sh-T6C1SsNJOYPqGyjhVEAaKBDpU6Zegq_Wp4UcCr3i02q9fHv06R9Hi5A06KtgpwkYI4ZfzhM5VydJHi423c3KiFGvV-qT60VG6KS4IyhECWgnxXg0qScBKSRk-ClAlmddTXlpdOLy3AOA
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcIX_w-Kix8c_b3hs0HghbiTDaXAFAl_U1aYZ7X3wbbd0HZSZveO0i5Qfs8OC58DlSsEe8A6L6al9p6BT7c1ddUY95YHTlu0sJNiffYTvo8sv0b-h8Eg1mSlPxWZ-QItqDRlg4JaJvuw6LBnp2XFKZAPW-3YCodKwpyrj4rIgcciKlWv8S-P8rF0owqcVymYz_dpkWf-caiVEplG_pEnQIGiaGcZiMaQbAdzWvjoYnAApC11RmSU89cJy7N_1aysHXJQR1B_4j3Xlj8j9_OsnGCYraEC_f_7np0fKX90xXipvmrs3x-RmLmeY_LM1_M48AvMOlZFloldliQt3y5ZI7Ds8OMokdnFKeVjNzwZM-VyAgEHIMHokv9xt1IhVc59fSSDAz7QHFSQ2PdZ-7vOTo5ybd_eoMCEd8jnVOcmFKcS0lOP
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
-      - displayName: Mr. Sake Sushi & Grill
-        uri: https://maps.google.com/maps/contrib/101153744959343006609
+      - displayName: Annette Cormier
+        uri: https://maps.google.com/maps/contrib/114244647720292709737
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIHomJBZvjFn789UlCyGBqFUt_-hyf72dQ6cIZ3zie0zkgsXA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJNElOs-DLEC--GbP3EQ7GFLUAj5kPUFeMUkthGlGgrb1WEdQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM4cqRQ6SoswZdCCokgFuZerQTRYWL83k7GmV7j&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDH_qDx2QE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM4cqRQ6SoswZdCCokgFuZerQTRYWL83k7GmV7j!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH_qDx2QE!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
   - name: >-
-      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcKigbHe_r_QDXozYOpYqYjIrrUv_1ZfoscF0OMWULP8gTCvxaGqmZr1VYT9E9Xi9zqoVisQG3V_B3YTtWA_xPgfyX5EC0FzrYVFCBrF3TF-i35siCrTYnr7wJ8J17PTdZ3BRjhDvx9GPAdDmUMpyBB2TD7tmglNHpeIgbgIlWnpzNHDi-2imC62I-nxmBv-A0MoSjsj1uTkXtaKQvX5bQlYoROiHQcKol4XnqFiXiXGAS2iVp2tiwQpgW-mVyeV9C9f92bcS1VJyQrlPg-cKVT6IH9vAXt5AX1hMLknHPCDtv9taVik8AMB6wSqYs-ur_B1Xr9JMbrovdpHfrRm3eU3EA_0HBb2pJVdeFsysCIvrs71aiTkelCbjx55A14G_ajquzyrpgLm4vvqAssQLgzB6lQqJRjR-1GPdsMGM04
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcIv8O3xXSFhz-M0Hqbln0mOCOcQ-LeqK6XsUNJvzEZ9a8YFzmbv-K9FLT6LC7vmslgSbVrFBZNVG1rqzMl1Ssky0_VIIIW0f6pRQWzBWOZHfN1O1Z_3Bv9B06xWldy5yJGU23xrn7_yZQT7RoBAUhUI7Jcr3QevVcQMQ-RnHnUx3VugOWt50WM9xHnKgWxBKu9PHsTocofqrAFgP4eDRV7jyaoJGEv_9A6nO0kMDba8w7UDeyL2on_F_hkmeHrLPcCeDpP1nEX7qvIH8EgXm2NTNXwv3CHMxrfaPcaTb4P_Tvo4LHHuQpcHuVvphwhSBFN7_Tk8Tt3Ocs7zSetfDyT766nGnio4ECCk4Kd8WaLyaNYIk3EIt3ZclLwsBYMqP-VPbGezJ087Zzpa6Up8PUpPm1P4S8BcnB3369LPNdSt9E1d
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Robbie Deckard
+        uri: https://maps.google.com/maps/contrib/112830254459796079468
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKDL0kC2-iBZ0sJ9zoiLEiIJNVWK7Tg6aJHWFgXeI8R127dSA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJkLbKmQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJkLbKmQE!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+  - name: >-
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcLheDRKrapXLCny5dmbW2I19VWb4s8V5URJIQUpYJUtWiafJkw6LwxXBJCsX4qOtDMS1IHzU6uSWX591XdQz01fZcWgeLb4GiyLy7C8ECcY4cDi6pn-66xdxbTha2iRapCi3D5-IYPPAHX9eC-exH48598b1AL4IetmHBf4HfiVkMYXFZrV2W6_cN4B8kd2nteMB9BwEzQPMTRDNyjTCeZn-YJWn4cBsp3VnwrDobzEsst-CIC_29bl5xkFGrLqUvmPDB0pX1LK513lelJ30Yz5so7ldYAW4rffZ6Y7yWMBgTNicksPFZMuSWIIjiBcYZgeEjwM9lZFgxx4fycULlk0AdDzvf0HY5MYPb4hZiG9SkF1eZxrmiPP7zyNMt13_WrwVbGlyhxGmN2upYJ4gicPcaVIUKDFVmP8Ri9Bs5I
     widthPx: 3024
     heightPx: 2389
     authorAttributions:
@@ -142,6 +103,45 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICVr-_yKA&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICVr-_yKA!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+  - name: >-
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcKYX6-25qY-pecppml_U-QMA5x5CwLZIuQbC9_DYd6EpMb0L57qtKdsVqojcR8S5c-f9bEREG0KrbsDbSbc37K-H99eTN8_s4bRXIrSn8URSUxCjzjVx7vzMimTOcB4m3dkN8IzdxW6zE8Rh6JAZ7GipKLjZwyBw6ZGp2oaH-MkKd4xbd1aikE5WtbvlDTNl_hBddE4rSyYa_upedzFGEU-zIGIrjbA4fnBqHr7i06iU4fYCacThoeMODunhxnCxDI5rzSej-iMeEKOnfnI0ou1xW-usn6URopkBJu2bSak6AyMDSVOmjKZrpSrGG44pwTY3Tw3aK6gZICbE2QIfoyOcGWXIJ0T8pbxTL7l8raiZQGbjF0otGXJ6Sd9E__toUmJ0ShtWxOHJwBPEN3KWGdyY2zlX0VT7nbWe8sULtapujt1
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: xiangjun shen
+        uri: https://maps.google.com/maps/contrib/100161416132605458197
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJuo8CV0Dk-Px5equmqyzSXHetun27dhZXQPI8LXx9crecodA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDh-uO-_wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh-uO-_wE!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+  - name: >-
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcLxdQHD52aNsvtnt3Wt--eptqhGx-tdgCbabFA_LeYH3qYyWvZ9oWqoEreMLvs98lp1l37pC38ZTYgR_ksX6gUQ3W_-HehG7L2ILgPG5q4ZsgRUADM-y7KmsbljFIqOdOvp2w2wB1n_2cvR-v-_NhzpxKPf-rezOM7UxpCfQ-hyVNnEuTPkRPn8FqylLcQSGP7-_4h7U8laQZAwCanoimzemHttHYyFcJtF54m81ExB_ZIo6rw1Uc3HbSjdD7ECURnqtTRaQMK1VzY2zhfwrXIX4vrrP7bCnp0zP9rGOvHO-MnHdOUmcz6_C1z7I6B14XWaLYULXyEUI0Ag8sIg3wA1cRPbBg33LWZdfeSvNHJ_cYGXq15UEs42ZyKwCx54iB1UrEv7tiSuySUzITNU2iLM9q_WGHo0j3YaJSKEkMLDKw
+    widthPx: 3024
+    heightPx: 3177
+    authorAttributions:
+      - displayName: Elaine Fong
+        uri: https://maps.google.com/maps/contrib/107755811158357191574
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUN-ZIqw7C7bQvXHDQf-7uI3iaAT1CU711qtEIcT02bTCB-rUdYXw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDahszyEg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDahszyEg!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+  - name: >-
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/photos/AeeoHcI2QNLzkcP_YdMr6lY2yQYjcneixvl_U8phF-yx-8SYsBsK4mHLBAehEMgssaK9Zw53dO-I87RDNK0emWl8FKgrBqKFvWHAR4Tdr29pupT0U01c9DzVXv7yRJfep9xrsTgiA3hDK429T0dJWzyqvDs_Tvwwjb7TsjYLd_BHEDf4fXYiom5N0Zlml5qgMErokAQW0rm6tKxjl3_X0qW_-v_fq5ExYAO2lkH7XYWrkjd7Tadv78EFC6x0xWzDl8jWDZeGYehHLmGfnyqWaURwKsh_xW96gQl80fcTeaDV4LlV0tBNyMDoKdTd7AyeAqMDLCUfAKfyhlG-yPf_kYZ6OE4SkoC5javM17sDDHncEIbzIIM3HsgwLQTwIQZpo2kHZ6PbgF2FszZDTggsO3K9MqOa6ckSp6A2jklHZKl1bhlATuq9
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Rick
+        uri: https://maps.google.com/maps/contrib/108450051853134689021
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWCHa1SGgkOl3hlyhE1aXeL0uOjNGLoir_BXnKzq21EcRp1tw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9kseR_AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9kseR_AE!2e10!4m2!3m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
 address: 1387 E South Boulder Rd Unit G, Louisville, CO 80027, USA
 street: 1387 E South Boulder Rd Unit G
 city: Louisville
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876b8a99491f48fb:0x3940e7233a98329b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (303) 604-9999
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 313
+rating_count: 0
 website: http://www.mrsakesushigrill.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

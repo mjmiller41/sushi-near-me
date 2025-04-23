@@ -13,7 +13,7 @@ description: "Kimu Sushi serves delicious sushi in Grapevine, Texas. Try fresh J
 place_id: ChIJT8PoQD8rTIYRZugwcw1fiaE
 photos:
   - name: >-
-      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcJAx0tVPvayoZTNboA0O3VKwlTn4TIOg9Y9hoTiRuSHryG5dw1135vot2S_zZq7cScdkMtzVbB8p1WClzHeBIwVsPEo8JANd75LLqbADgGNgYLMtkWn0weJSqUJgwEieIhYxX7IV5KR0nA-DkdkwmQ41LQftoCY_hmgsSkDyO0nqlSQFhFe1qu71pZ5n3VPniVn9YdP6J76deknGAoePV1XhV20pJ5h6dwh8ZM1uqriKUNh3eN9eIpGHBcDxDPp1oqEV0NMzL0OYLjleXh9FWiAJ4TYiB5GSxIuOM9dw4M1DRmP7UamKPMVVV4vIJgBa2eYs4RKyrHBBELgEEFcbEWQgOLsDk8EPP0oXFlcCuyQLOX1e7ahDCfnOPC5tC1aI-SpIxIGVtik7vNBca-_trNSj-VNHJo5eGOXQ5jdrsm8y0_7
+      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcL1vlfd15Ix572g_mEUiWtrsM1Joe8UTzm5mLcSA24MsW5ty8qRAZoVknizDc-_KN46j71cyEBCKdWO8t1OlqQSWNLPok5dDe0thqpr9XX9dwFSNyLnTvmKmXh3VoZjJYhBnaY8NV9rKqouRlqn2H5S6CszqbSmV8RSGEEUwpm28YpTThWutAT947dDgR2rVxBe9NdRBXS2l3BbkuAIsex7yS31xI2YX5Gedeh657bNY3d8Q0_k7pYoRbnh2aukyFYbPq29i3LsZHnerfMSKUfHXUKeC8P2c2kgDiYl9pJWlxGUJi7haNhfEQH0HEQ-U6OLnCgLMQUZsDqIB_bzOZPaSiw0U3f--3A07yHGxUxFWep9Av2h9u40R5Uf0stkSdeobcxSD-AzGwlvDLVfCky42C4-KGjfssSxNXazEybn38bl
     widthPx: 2048
     heightPx: 1365
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEzpjh4wE!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
   - name: >-
-      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcJj90SyfSv4YaxO6ejOlDIkia-VMZaXXV9oyN1KVY11dqXV2YwwDFbxttgsIGdCSNyu_iL78HBdwjDwOnfaDZTH14KnCRi3wQB6Oe0p5fhnS--rQ1Nj4gonQg7KI58_Nbs-kDLKD14-9Uqu1tXJJPJmvxabhuJ2thu_vH7cFm1KjuJThuk3pSA8oztEE0by6YYCHAM7Il26FWH-qCyL5NABKxLx5_6PHakZS73gluiztKFxfZCCM_2TBBG6DUBa1XpLO3JvGzC657ogBio0BId_IpFyHDVyge1iERT9vBSuwQ
+      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcJkmRDSI29rsJqaHqXf0TyqBWb8SmnVuSAfZcgmhr-MJpAVKASq41VAUee1QhGT6vQRTIbvWhPCxTaIyOnvslefL_PYUW1nK6cYAlgO2tYtoSASYZ-6ew4fIaOTlqX0IA8r4eItFA1Z1BbvLffD1S88waeycGSTcSz8jOSm2l0qPMethiA7KpcrsfCSuelhwf-KLPasWntgqPdRsToUILS2jykuY3mlQwlTTanCUC7sZCZmh4wLhGQZBr94iQwszRRX6CrDRePrhwvCdSjYrsyX0tCb1uEbS1FVtxkYUnYYmw
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO7-sly3fe-wxKMFPBxziAYf2aGrjkGuGo_3fUe!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
   - name: >-
-      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcKSsrMobglncD2drRvQWaslKz0FWMWWhf0VpbBHjc6Hf-l8vX4k1uSow1D6mXjudzKyaJTONdczPYAMVE-iTpmJY-BExN_oQn7cFUd3IkAmjx4xxipBgphdZY-n_d5jSsKhQzpEGUJpM5z7RjSUsOtoMzDTOmc8Atc4g-dx8U3vlLc5-ewxwwzOn7qC7naMgi_OSFYY3tvhfMQ32d8DndJ5i8kSxxfARqzSAQfvtVpYUDlHgsdVV_i2shmaa5XSGYJXPjf8NpPrIYGtIwpoaU9xtnoh_cYqLDKx2qbKV2jkEh0WUZeTCxNpEpIIj7OjdrH6noPlcNQtfdMHocbViEVaNFB-EypE_-6UkzguBAkkmprtfUmyw87mKmvFExJA5XhdUnOW_Le2yBxS3bEqDaOU6qV248OHGXTJ8wCVR1Q-Mw
+      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcJqsRaPaiJhiy_IIV9WxYGrhdFPRSU7OAWSycF2_6hP8V8k-rKnI0KIv_I23T7X5SrC3tF-ZbrHNO_8MwOMr3X0W9S7HifVR7R_9AHHZVYSxRQPmFktc5V-ZOZPSBP4eq7xIjtR1nJarosMB9QbWEeMx2o1rkwDfgSqxx-aFgwc_iSf4U-hgfmai1Ahb5zoqjooiUFN26JtfLbCDch4WPAhVg7KSBmZ_YujBZ6-vaFzAWx9sDBd5nlIO-IbpiyPWp-nfZKZ5ZhQH79Bm_7aM2jAOT3NcwT-AZCYNkixDp7aLL62kh7MhIvRcgsYl2-XUPWCQEMqD8xDvqFj4SR4e-FxLfyvoEb7FMM62cKIw3wYMIyyU82eLjaWhNe-5ZYHcrOlRLDKaC0PcyHNHZv6J2BMdW1mGor0XOaZVySh0zjVXw
     widthPx: 2688
     heightPx: 1512
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg_Y7UAg!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
   - name: >-
-      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcIjBgh0cM-1RNncwEP_RG7VAvJFeL0F_XmmrqH-a1Y9I0xdwzPDlNjuF90kdXxFSbHT6SL-JB_W3gtDrX9E7ZvaefiAaIZl8HyzuuCa6z9AS_PLxUx5pvQBiak816yvULEyCE29hpdRnjwRkKxZ-o5T1REB31FzMliTQFY_2AJXE6xrY49LgFgU5eKnu0xT-DGvGCTvQ4OFEP7N3n6cEWW7TpDbL_AM8puK0Az7m_pO9d0vufBnADVQz2KtyjkXXS5y-EdMxvyCkML8lmBtUtJwPWT34ROZsmaEYPkBorRZAY2N92OyLRHkC6zki86IxH_7xp5vr5ADTpsU89JdpQHboWNntGYohZx9DeMdobX15s7M6oUApIJ-Zky4CQyNtKXviaTTjMAapQJU7T637o2VAc5b0qw8ctHDz9vWjyj_Qw
+      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcJkwszXPnqvxlqbx2WtOQQbPvmNquLFeki4KysgwOUReIiTLHSADeUUjiBUF9ANcszojUO5opJEBjDmQOYkor_ku4tKmhGur7uwBsD4ij4DajGeWVwTxlzQA77xcxugTLyJtwH8ddoDrITus48Um9qwx4cjYHePJrfzDW8aMp6kY5onfkVdjhXsh3YaUXIGROs_oIiBm8ba8kqNrk0c0b-2gHKr75to_Kis13T9Bh-mqpyawWDsy-W0xL0fHMtmIpiZH2ef_ulvK60se2Mv8mjAYYZM-Dre8kdBtZuYLIeoRi4S-tWuVF5SEiNnRg9HLzE9NCBl-zi6RqQave7GS4SnxOgl_8R-OdFUthUs4CvF_zKFZX9YT3MluNk9ofRpUTSKyevQqy8MjEqFfFciPmlP7qijMs9C2V_qpHrZloIYZg
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -65,20 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjodTqXw!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
   - name: >-
-      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcKgG2XswKriUVSvqQI4lqRWgOncu040HClOCIsVy_G22IF1BiA4AK-JxWoIA8F7oGQl-DM_ekPrZ5Vyov-zGLV2DMf0tipmY3nhezRhGmBal8mddCmIoGkafYunKgPItG55PvomF1Luk4p_moARpuDqC3WtDkaMV5FDwbDlCIOzvS0FOiCLPjUbDeapJbtxSqzMeZ4PJZsH02zby2JaMkNGZtRKOZIPKcKsKPU5FCDiggXH1xGX8oOX0wjTEJAJ27TSJ09PIANsY68SYiOdU_xaYFleWMGyqlQf0NPSVb9uqDjNtNHE5iRQwwfKIIUIQvvcQ8M5pR89sbzQo5FFHCZYyiGoreAG_bCZbr2aJpUlp5BGjG8-nh4ZhFztS0oGHYroSOc0NxkqXsYsI6idIDvXPYrjYOdMtd7hVQlxBTGTKM3z
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Kerrie C
-        uri: https://maps.google.com/maps/contrib/112987729720020998970
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJPwZOqsUrT3hyEMk-cm7aIfT3HH6P26aGZIYNrBY7-gWYh7A=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw8ICMzQE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw8ICMzQE!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
-  - name: >-
-      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcJuCEkUq7E56mZ4ILyjlbBylLfJ5ECwGGyEvvlIIJ5O37qwEI8sX_Ay4WUZ2OjTBONv_SaDm0YP224PkVgBu8fNGcUzVYwksCWH9alY8T4gyOU12oXZKzSZ3yM3xFGPtM1h5rRre3cy4avooG2HC1hoMUGbUPvRx5pihjPIelZFocCdsztqbd9rf3fAHHWxOBtL5Keb30m2zYwsRFTu9jxYHbLELndl5JPa0404UXrLZwkHeuSxkO6rhWntqvsg7KK2HqYVZ3G50GFHSCz-uQKzTCjnjGTSRN6KC2wmENh0nw
+      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcJnJRSAwIcllYHwVRaYwLi1vRKRNEc0HjxL0r6Dk6K53umDE1ZpKXn6Uz_85yTaEpP2_yG-PDaCtPEgUqPzSkVEPrk-v2jq3Zg9mFGrsXMt8KDLjUtsRaX3n9cYcthgLaJla37bwpYgYm58WFnrzi9XzFMpkwsNx8h57CIKUWB3fQY1tM-wggt-aOeOOLFSwQRBpD4znattJnC_cRhg1kiTs9tLoTd-bhaebevl95pldCdiHlfUErUsuCBOH45e7hLDQ4cF1plLYxygLD7kP2RIjniPD-1r8oFD5qUbdj-KSQ
     widthPx: 3000
     heightPx: 3555
     authorAttributions:
@@ -91,7 +78,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMc1RijZR-Su4vE0GdH46jhkVIXBnDAsVxShQC0!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
   - name: >-
-      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcLeyw5L9cenSJOKW-AtKUjXExMPytV09i6EjwelJU3CDyvjGpfyy2MpHRaN9e7Aov7CDAJDbBvLhtvZrDUtfGOX443OmMr2I3Q15m6Ouio7lkBjlanIRN_JkGP3jIXIvWZpjuy9s3mCs6jP7lz3LuOnLcd44QgfceldA1wvqSBtzPu2v_grMeJ0IiQ4NxLttPP6PI-qb79hrZh9rb4LOFLmHHaeyAOsJZGRmMEgFA6_F3xV20B031-hYNEktcxOk-KO93rnijWKOCwZYo44X1KI_KA9AjDCyUvNUji4isQkPI1PCE1mEWmxsHNRm6elwfRdQp8FJ-3nlyDxnJrSnNXB9JGWZtf1_WUg9LKTyJvCjjak-SraL2jMuNc1Oap_qEdmyUa3HjQXeApKoS2O1YrPMj9kDxB42Nbee64c0X1_1fNq
+      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcLIN4vP3ammSTnjioUBYH7hTv_vO1dX477Af_NI2Id5wAlHXlg1XZPV2qCSMfoqcf_DwSTupdNYqqfYA_IWBb3CUKtEmdptK-wDZ5Ra63CrHQaz4MVpfuaDgLu28T3GoD3Y2xa6GxuEtVsJMkSPi5mkd0sWKq4v52IDYM-0ZtmO8EdcXM7q4EvVhCpACBfDOBN-UwE7IhT5zlO3zTSqJMTIX3Konw8FJ5esg-wBaA8xLhjC12F_77EFZ041vR2CAomE-P_lmUcCLscgqoEmqpgCFTGOrg4YU29-n253WIXf-EPtXMV5uE9i8wlOBWiCujeq1xSm0zUOZq1pCwA63LaYje4z736l1ZmuSZ8trUn9eW0L0XtnLtkj_cssOJ3eLZQHATh51iX5lsDfeNxpcuOYnwEjUmw4k-vCJM9mTI5cQ1Vo
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Kerrie C
+        uri: https://maps.google.com/maps/contrib/112987729720020998970
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJPwZOqsUrT3hyEMk-cm7aIfT3HH6P26aGZIYNrBY7-gWYh7A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw8ICMzQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw8ICMzQE!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
+  - name: >-
+      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcIeVXpkMOr81dAV2X3ZdrKJPUMI1ZAZCa-rwmhW2LQa1mE5KxuOogDDq9MfvAbTFnnODz9jbR5voIZOZfKsSh09LDhwvEO3eQq2U_qq-fVt8M0XY0ob2zHzeiYr3uVhWarOfwiec_cfdRfU2zMoxGfpLFavyFKuKW0t-860KWVDnsh_otXrYgzss3mOoysq7MbRZKFK27RW531TkFOBCj7EiwmqSSzTHdBKi861UjcG-zzyuHXHNfFt73Ikcx-Vrtsi49L8fFasXCNLFcLPnbXI_0C8IiXzsYyZO1JOaMRvwhCrMDKtKgqe9ACfpsJeB5CHdZWTcT_Oq6Vo4Ar65MO9lm0LVVXA26X2gxjwR9XvwnVhVUROjbG6KjUC91ExKPkNZ2JMnP40gkEXBeSauZHlZlJjXG6rSnT3F1A-SLAOEsfG
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP-4TFxwE!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
   - name: >-
-      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcL4yXgati9U9sEEEtimIKGnksh3mKAVCwz1iycE1V3QqNi_ZJQxbFg9GyycuC3x75cZ2ugzH2HKl_NCbGH5v2AcD53cZ3Ke7YeE2g1SItSjQ0tmJz_yoBho2O-n6YuHVFY2JH5vidNoibMn-3_DRKYy3PK7AgW-uNfaWbFGdQyNIGdQd9ItJnGLFaLlJvMyf92ReEBRQ-weydevmUYcH2bBDb8KPzDp-OpYHELDyj6dED2wCKteypaHqUTtKLQM0gpSoTYe-k6oaD9XkXS7K61LaLzccG5b7J4XcTFDLoLQqw
+      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcKodVpkjZrF0jbTq-3ZwBx4YS-sTTYdxbbshsSsBhxmfBDxsXxPzfQF2nzZdsTN-dFdtMyTtX1QB5-DuYr3zt7GCgk58_ScGlqSA941N44rxpHN_fsd763Oh2f2-Nq719bE6lkc9azcsoldDjQ0Vkgpa3QC77txDyCDGVMYxp2YV92x0ukETbRPoRXdgUK9WTBWIfHis0YZsq6WjpKLEI6Xe9ogRlpEzHm3exzJjA5SCOAPEm8LwW9o7ktysqP80gjwtZ-bjGKYoM3vSNKo6Cx3w90Gg_x2oR6v6fQcwQhoow
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMkpMOxp1i9kpMQkKLZo12URCvP0cZas0FKNuja!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
   - name: >-
-      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcJkZhAWIZiQm-VhsKJofgT4Ls8ZMbgF0quj1Tuzh4_yiQ6bcwmZ8mNkOLiRbNIAGKVBr_yH9i2Dh4HysstD1B30_xvbgHnb1VKRIUNkhUDt7KSl9-R6_eCxpsg64Zm6ML0Z4zLXRQaXLDwMAl_VbZreQbD6rBa512LFtZBHajFj9fzNjx-5RHeb_6Pq-GVX1M5mAdJbIJpZPHmf97SNkgA-jAELRnyeFIRKtXrtAUaFc1URJB2XIlqoEqxt0_8FaUeGefSRrHNAiTXSVbZ6sa-zGDHb1k5W_sOfRdRrM11eTa9gufZuc1eJlgIH4vxO-YQUSZc-c_0dTZFuo7VeLBvZI2MklGfg2GGKpDS5VmQOaUH5VNM9C6wjC6RzrBzza0MP4n4De0aXKk6GeWi0dpE0Pe8fajnBfPJYQEnbKWLyYpmp
+      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcIzGvA0Pl6XL7ypTHLKk0pIDdZuuLOEZt8r3KYBxe2tmmu01kt5UaqoB9eiT0yy2jSFiVD0eYSqZ34K-QRhn2HQCnI4Jnv0FvcQpnvi8tppIxMky0A2FLzkQCJyLsg_sPQa4YgYo8Ma7qK-RujCLfZhlmZIjVpKYuMoh_8W02gvs7ZQyvmKRWBjMddkUv9rk2Zo4JkOR03WH1ILP2HCalbiUQDoj--Cbh_FOBjfVPqGBcqjAh6ADeg0IRhDUR5L1bpXXL4K1KmmnC3PuxYX1QL7X65i8L0qnh7q7qQX9jk3MiKq8voT85yCNT4AYnW_idlWw0HWlheu92ZW99lMJ-SwsIR0GZbB0shWOWiYWzXWVr-Ncyw17W5NI2I8H7deEAIG6Wu6e66ALGgOHnpbzM1mlLOFkr5uBAEx0kQokE5xAu4Q
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -130,18 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpl-P8xQE!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
   - name: >-
-      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcIFMjCwOvn8gBGNc-8HaVzioYzOQSRMpgsuA8YXnEsXpPhE6wENGuKgeTqSNw9GWnr832LxRf9hdwYbjGxcXqpptbbW7GHVhR0HShX5f-lcz6oqIGR401verMZnaFowLJNrNyFrAXK4J5HRri30lAhHs-WYv9B_5qbp-FIGxzNSi220jfCHivDv4Uplta1EmQO1y8K90nHPbBBpSMZapsiUeCRd3bKNsvbmy7L0QazPg5vWUesKk2DiIqryAUzOMbDJ7yRJMkltPpIt5L579PSASuxpCxM4TxsmZ3KlJ1iaLQ
-    widthPx: 3984
-    heightPx: 2656
+      places/ChIJT8PoQD8rTIYRZugwcw1fiaE/photos/AeeoHcKpAgAUAsYpcFvkTtNFJNKqCEDX01fEOzXBSvieFSpJ-nQlfmWkL-CUYvhz2iaSO7JfVmMZ7jdoVsbBKD8NU2T_6QwRhUN1hlY5YN8NvHqlFQHYrJKgO94gJV2ndpC6czej23XA4yhhVhWDgX2jZjlTj5cQN6LtyM2MZUaoWV1mFk-DNABJSw9JZic2lIpVJgD80G0_35EEHDKw_hOMMG8yqO1nx7bsnu-CS-8Dnd0GwvjBVfCoyumR-EMr6xTCSDn8tS0mRzGIYdsZU97Yma_ksPpN3I7_LFySJCng-vnxuQ
+    widthPx: 4800
+    heightPx: 3200
     authorAttributions:
       - displayName: Kimu Sushi
         uri: https://maps.google.com/maps/contrib/115498770107461894926
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocL7-5oKN7jsl4gDjTsgNJubm2TqptEOps5zkhAz5r1d0AKpWw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMeOpV1kwgetOZt53Mc5RRa5Uf8MR3_osEpI44k&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNxyA3gwgrU4Ff1VzMftVbOr1Plg-FbHZD7agvZ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMeOpV1kwgetOZt53Mc5RRa5Uf8MR3_osEpI44k!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNxyA3gwgrU4Ff1VzMftVbOr1Plg-FbHZD7agvZ!2e10!4m2!3m1!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866
 address: >-
   327 By Enter #3 ( Next to Field House, 3000 Grapevine Mills Pkwy, Grapevine,
   TX 76051, USA
@@ -172,8 +172,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c2b3f40e8c34f:0xa1895f0d7330e866!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 7:00 PM'
+    - 'Tuesday: 11:00 AM – 7:00 PM'
+    - 'Wednesday: 11:00 AM – 7:00 PM'
+    - 'Thursday: 11:00 AM – 7:00 PM'
+    - 'Friday: 11:00 AM – 7:00 PM'
+    - 'Saturday: 11:00 AM – 7:00 PM'
+    - 'Sunday: 12:00 – 6:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 7:00 PM'
+    - 'Tuesday: 11:00 AM – 7:00 PM'
+    - 'Wednesday: 11:00 AM – 7:00 PM'
+    - 'Thursday: 11:00 AM – 7:00 PM'
+    - 'Friday: 11:00 AM – 7:00 PM'
+    - 'Saturday: 11:00 AM – 7:00 PM'
+    - 'Sunday: 12:00 – 6:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -185,7 +199,7 @@ phone: (214) 285-8317
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 76
+rating_count: 0
 website: http://orderkimusushi.com/
 reviews: null
 parking_options: null
@@ -213,6 +227,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

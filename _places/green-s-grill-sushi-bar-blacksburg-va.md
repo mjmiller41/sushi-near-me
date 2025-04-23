@@ -13,7 +13,7 @@ description: "Casual eatery serves eclectic offerings including Japanese, Medite
 place_id: ChIJnTvHm3SVTYgRmbYn6HGBGXk
 photos:
   - name: >-
-      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcLW4DRDTRpn6DbTHx-6t6iF_0LB5__v2Vi4PfFlWeikbKNis6dUCRjY7oKRhpUhA3FxkvQPQkLEBJ-Sy9D0AOeAT5fNK7b9EfEbHbirsHR23EWKittTy4LQjmxMmhCkTwNcpmTGyRIo4eEF9VIJ5xp-07I1YY4PUfnms_sUXCfOhlgQKo3K_OdfnY-D24EjCxyz8SMLrqtlbgRlhnAZdufHA_yLIlQoT3k32JmB8EucyHE9TuJB3SvD36H6buQUx4vJVwd8R1Bmi2fXDe5ooeCNoLojjRFfpOGzw8TKTAEDXQ
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcJHhw2djWmM_uPKzBYsLCOTfvCg1Ze5LZibEopCoZqr59XJZAQ4TjGoXO1W4F3PktvZTN8zwH30kktRuPcG99_lpBuTjuFJQ6BHJWvgbWFEgMow7g0tvJIwUT9qP_fFPKcm7xExejg757Hm4RYKjfc9XymdfH6YcdqCWfLa4JmK665usC1KTJCG3TD_kT5WPh507OBnFQlm_OB8p0Kdh2jjLHimAi3LETY41InW7Wb0SS9AwUL-MdXk0waTMkxPbGJ8S4UV-bCKcwKP3kzki0z29zaC9zWZCKZnoHrpSK2-bQ
     widthPx: 1284
     heightPx: 739
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOChcy6hS_-RvwyKedOT8ZTbCAtEQYXZtXpS8yJ!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
   - name: >-
-      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcLOco01msWR8UqrpEoTGBn9eEzGQBkY-85tShcKibgyK3vqz3GnbSl3VdH9n9z0tGPdRSh-yKu0ws7oC2Rulj0C6ds37b_QMtVqr8bBpphkfBqTgbEWGQLABtr43sjIa9V3fclyqW1tYFtJzl_I4s6W8UJDdaBRTjwYDyTNHIrNW3zGwiZC0SCjsWX6btFNFkXngvJqF4k0YOTr4kiWDV121Ho-wqxLLK_lbgKmfpSA4URoLO75xhru7aMrbJ8VgQS9wFWsCPJL9JW7d4xROHvpzVvqDkJkubES0GmfSiLtFg
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcLyG4_Q4ngcZNLwLMGzyx-abqNFYYreJcz6yxrYLR0Kjsoh9p7Pzk0dJnZy3v7tVqHVdd2tHKEh6L7uYw7kKh40c1Nz2G_6CFkTiWZeAfphlKId4Zyb890rpQrXRofqbUkqFpdN5AC8-bkDsyQWKi5IqfiH_kMwSznd_8VHo6wrbDpcS7ezYKCS2zJlw5BdizAg9GHMpOJOlUK7iafvd2cx1onny5kU8fKGZWRpcqspiMC2L4uq-ZCCLNsQpq1AEY17och5F6pb7i32Hahpq6MbL3lH7DoDPji6m-0tTImrFA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -39,46 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMM6u9B5-wiLXwKggQfRTCfv6EvaEeHt5CsCUSd!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
   - name: >-
-      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcKFdTr4MoI6rqlFqisjFZhWdv97uePtGz_Ftx0yhqGLvXgelU3xMn3ELjIihn_2yVDuselU1-FUEbehm4HeKu0dW8ErgeYTZ2SJKodk1kUY8yDwriHD8wPR6u2-cx00wyQgvdyc1WZyxzd66PDBfsDID37OFzbxmkGBRfHCnkFJR37E4YPTqJKfUelKO20vJYASkgFGgSmH-1lA5frUHePZem0nBTAfK91cVky0UiFuItZZTGmRC6w_yagPQpZlainaYWHPvbsUpIy1kW14i6ebx1tmjPV3vlKv3zLGIOSYA6wV4xcmaUbfGQSiuhz7_WaBrjioX0Adl09VrzRfqpQJamnUNoU7LwSUTJyG5CXwI1dUuCaXphbQzCO7nh5ME5U66PdK14iPN1wLC1F4G5KSJryNj5965_kVNfu4cUjvcA
-    widthPx: 3024
-    heightPx: 2351
-    authorAttributions:
-      - displayName: Music Craftsman
-        uri: https://maps.google.com/maps/contrib/100357907857695019136
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjULzFfxEjVDqJPh3Q5VyBPyu_cEJxmVBgTZLqt2Kccva7QWSd-C=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwsL39Dw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwsL39Dw!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
-  - name: >-
-      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcITN1sCLaqAnotAXenqQN6dwOmtXO-2UMF4ceumLBGhrltsZCn8eYrjBWfl6PwZf7-5JHckykcLWXVegocpoMwx_R4ZpQdkaDk38GlrfmCJM7HAUNySN971lwl2GSLjFUvaVbw-HC5GbgZMAA3PysCojggB-38iKUQ8YACc7Ldm-b7h9TkQOBlnxZ-1_wru3LnJl9777MrTr2D0XviiEfETxtR0Kg__psucSvLOMVMpzsUELEEcLh9RQW1ffYCRhIffKtFmVHQFrDymJA88rm4RzaMfP-BiPPe5KKMI13yaVg
-    widthPx: 1152
-    heightPx: 2048
-    authorAttributions:
-      - displayName: Green's Grill & Sushi Bar
-        uri: https://maps.google.com/maps/contrib/114914001794428442814
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWuwVcBXcfqfWGW9tOLZCmLs6jVO3Qb67kW4gXg9-0c3Q3-WwI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPVHdfbtreyCgtUYkws9dfqHoxuIJp8-QaNHUev&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPVHdfbtreyCgtUYkws9dfqHoxuIJp8-QaNHUev!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
-  - name: >-
-      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcIWXhwXKqukfbUVipjv_dY26vMBmDpUcrYn6QFlYFlMm9jtsut6qt7-KFpdWWjiDiQMOemO7f8jx2q02YZMWchYijC7a9izPfxf5LxrdkWO3EcZrAo_aYPxhZ3I1Gounmxf_ezQSYeqiIBLdUY8bYClMOzRHIB-cSgcPHOgJ4joDv8L6o4pPjXeKZK7rvz0lz8Ee5oB31ZRVsH3_XDk1PQAM3M4oaLue02bqQqCZuMinM21yYN4qC3aSyERp4nBQYmH6qMg1yRDj4rS4Y5oYyfw3RcQzDX-0Ei4_DYynyVmZA
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Green's Grill & Sushi Bar
-        uri: https://maps.google.com/maps/contrib/114914001794428442814
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWuwVcBXcfqfWGW9tOLZCmLs6jVO3Qb67kW4gXg9-0c3Q3-WwI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPGpFw6K0FVL4OMaSK_4puTLiG6k3k8L7Dw0Uvq&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPGpFw6K0FVL4OMaSK_4puTLiG6k3k8L7Dw0Uvq!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
-  - name: >-
-      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcLeCi1YhSRJlRXRNRvfoWpSxPbkcWzfrZaM86V0urswOt9O225efWZehC6MLkzLE-LJ3SBAS5gvtY6RkHPefJLlUxYYbKWNSjVV-xG3eoH0SzLmL2hn9SKOLD9-pd9nwgn3PbJNqtGI29ULOG5C9lGQG0D5uqGZMr4pjVdb9_kt6rMtfP2vHjWGTMXmzefHl1zhKepZIIhQ8cQen7ecQh9I49JWacKSjZx6wB8shcifZueQeYE-sY9dSh-BsY2Iw8amtNeMKAvb_XnozIQ_57A1vFt9NPFqW7hv4yUX9IujbXVRihvOrYH22Uhgb6As7zflRXBkxEYMACKNMZzcaUvNST_SVwfq0xDXgYC7AZ9F4QRNp0qx5twtvrjBAH8WQESIa8jEdiKWWB7CkHOS43gAqYo7rlNu1M2Y4IcLoFa0mA
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcI3s_FlS43NEjoZteAjxh2_xzPvkD0S0tF-TogDC-bvDihnwhZeij-bsdijCG-NH_0UYuv4X2oplcGGayJrHzddzsWJ5G8Jbtu1dG6Ph7WIR9kYbMn-RhK7co-K7wPSdOZI8qluVpvqx8Ir5RdGIvIagAsCebma0YRT-Nhq1Lw3Iix8AhALo4HKhFl0UawDGRoygPGiem_RwGyS_9lXHSiGHBXTcFjpbUHLmsgNKNzHH3j72mcEYkSsjv92NllH95k5dMnQS2Jqcglc-Ce4oHXEfHRoyDIW-1Mk7hyLEmSUJTl_e93OEKFiitNBl2xADT2pjnkGTC-eTgZ_mF81ONMolv3IApNZJxzie90FmeysfKC1uVwve5AVo14_UDNflUjobedBj8YR6qrMJRwED34MMm7gQvLtt-cS2ulnTRJ2jg
     widthPx: 2091
     heightPx: 1223
     authorAttributions:
@@ -91,7 +52,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI9OeRSw!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
   - name: >-
-      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcKgrAOxbl8FaPNrzi7rrMpyCiumiaa7_ZM0qCdst3ae0hN8wpKnOUkk3pS5xiz8-mkxfA_OM3F5qTP7UdHPw066hZesn_OgoDJNFRwhienwn3Q5Y3n87AiNNG9RlqoEjxpy433WMCtghgySIXFDipt0c4Ioru2b61QWJFpq2z37yHh9JS3T0f76Xtaz6BDu5kGyTHLhrmR8LDxuIbnNdn9uMhTdci23iaFBh9eaW9kB-6EAffzRURmg8TDnG8VtZ-UjGlG-G6vc7PAsWPi_vRdDBT4D-b08ORnB8zTwhU4CsqXN66EYyuGCk15mHGwdPlA_XeKrzDKzV8nyAhR8rGxbiRcEPnqd2hdbo50REa2HG-4wRCPSJ3FCeRxRNkwAd3wGXdGIKUlaVgP5tuwMljVl3TfIYMq_GJFk6mHA_Kp-4ck_
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcJcmrcrYnlOlYJuD-ay87K2cpGM4yXmpp_-C7BaLY5nRNi6dyAnomw6hHA1p7Hlj2Qnv9ekHLHtqj8nYpgx8UKVmpYpMsqhwQBs7u_DEKl1W13rmAku_5C8RBsQR4t8uVx4UE2OgG7MRLrO0_Mhvz3-IH3N4_g9nay-JrmD2dvBpRnD6UjnDOEiXrtDE8AtNLHLCxHvG9G4Fw1lWmbayLH1BSmCs5lGm1JL6c_Fkf-EIomK0lcCPJ_wqkGk-AnkOKQRLNFA48ThwgyY6d7mpKkmos6EOFWWchRzEx0-KHCMlg
+    widthPx: 1152
+    heightPx: 2048
+    authorAttributions:
+      - displayName: Green's Grill & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/114914001794428442814
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuwVcBXcfqfWGW9tOLZCmLs6jVO3Qb67kW4gXg9-0c3Q3-WwI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP7qOaRa2yY1nYWBp2G_ZauIwLGlOB5rmxt34te&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7qOaRa2yY1nYWBp2G_ZauIwLGlOB5rmxt34te!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcIk2DaJT5FEGLInjjyK9QjG_-7I45Lcdc1_u-rf0SoNSFIX4epcmCji-QReheI3NH5w1DCLGLH1bv1bcfKg1-CHVVsUIQg_nXmnBsX5eZR-nwZGux0h_WlA5UZhZbU_lJVqvc7B0_dzB3NZGR9oYi6XsDNjtST8JmtvrMlwaZpqpV_HcdXODVmjcp6aX_BOjb8HXdqLk0134zayiR9hSohBr0-7kcs6BhpbO0SM-YMHOFLMAPeHNwM1SmRnL5faHKGhNz31MWl4AnksMK9tGpT2oKe_eIDeaiTYH9DJW0JtZQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Green's Grill & Sushi Bar
+        uri: https://maps.google.com/maps/contrib/114914001794428442814
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuwVcBXcfqfWGW9tOLZCmLs6jVO3Qb67kW4gXg9-0c3Q3-WwI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPGpFw6K0FVL4OMaSK_4puTLiG6k3k8L7Dw0Uvq&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPGpFw6K0FVL4OMaSK_4puTLiG6k3k8L7Dw0Uvq!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcKm0wKdMVZ55FGOeaA5G49ffwwp7rCo5fxW0SXnwP9iXubO3YRTVDxZeD8zHJlNUg_ejwAZDgftQcxJcTjsODYxmKrO2nBsH0Ra06Fy4W6vYE1_-McI_f-a9GGQtxb7doyMyRHVS4MNWi5tTHiH8rWtEwUitJpwHlkYGagALVU55356WTp8-tU1kvEW3V1ZUGL_7E1o2g5X4xGcidXZmqCOCtKf8jweUtOe2rfq2k_06OvcrdlqaJ6h54d5QMqsOFpTlExx6RLa4NVAw-OfzCwGQZ0jY2Ex4yc2FmoxKl2qfFCmlH1VlVuNm3a6IE53yj0b4-74Tw_a9EjozzRi9F6Bp2_tx1fp5q1s2yD8oqPK74BKn3fchwaWnanD1J9UiFVKdembfKZOaR8TI0HR5Tgkd2x8wmHuI2mFU92FUkXNDra_
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_3I6w-QE!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
   - name: >-
-      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcJz1ZVUfYew71HvxpgD6h0cnLRtnVGY9vPhx-3q_NPUPKWECdI1C1byvAqiafgCZgo_uwWqsiF5uU-2b7NDv79_PeQPJ4hUZ8ZuseTZ27U2ebcoLa4yIJJf9iY95YUu5JmNhMXwSyl3vS4dvmSFe7IqS9TzkTTx5Cv7vQOtIf-rKlQN-Rb7wZD1iJKH2C9WR2KcSUhasutP3i2v23gXkV3YHufOkmkTo07Qev4MiXBXLtdcB1HiSfmTjHDV_VWMrO53zCVpW3OOo-SG95wwJiagUjmwQeHzBj3AXHalC-AED1yZ4C55xik80XGEzcon4BhKBoE2FLmpubJyPYAIgm-lTE6MA9t_x6rHJsGNNoKHJpyJcZHIg1bjtxEZw7A8bB51sytJsi_j0FoAu9u7iU9cChcQIXWnCGb8feJ97d8
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcKZ78o3md2-GsWipuSlkJrvQwntP1TbR668PjWbWkjwjz07nz7Z6OZPDXHrt4prjFyDczp5ovbBUKh5uHoPq2v4pXyC52bLye6WUHY9zo_Adl-wEYMNfhRvu-KvRTVnTUXp-0zgS3CQlCJo8oqOgZ2F4nBEIw39jSZApAxn8P5h5yLNhJvUFNrWs03sZ-EWOwUk6boIzCchTDTkzf6fmHkDJnIvSQ9BMww8tPkF7tnzK38VjbaSAnje2Bq8QXuqxVoK6VlgkBxFW-5R74B4pua_GP0AMnW8hV_EMpW39gzJWJO4gIb8eRfhkWEl8pfo9MyKNKStjCJ1F3ItnRrtkOyeYQaXPRfNvu-hDSijkkf7mnGwiVf3lLU9M5du5fN5qWP6hn1rAGevq3d9LTwRCimAqYqljCxofrDNUJH-9fM
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -117,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk0qXWQg!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
   - name: >-
-      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcLRcpqw-yIZ73ZTo08J-G7ybphZ0E00OMNh8CXSIChZX8Tq0gP971s-nQm5OYxs8WMluTFA6IvFjerb4N6OkM6Gg4uQLpgJS1tkNq7XDl2HgM6OJjQ1XlVcmSSNqYcdVLug6COG5fsnmJGkaHXso2qwaq_E6v__j84doAMiirjEOE7gD054Xw5jzjpjDY4Qs5Nx1HSu1EYeSA9T5na8SVgxpZ4b16_2aIhaHZq2wusHIckzKhAbvuyxRKQisVLxRnFrH7fI8WljWps92NbAh_sRVes8ziKLfRaQufV9BoCGEQ
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcK7DB7sw1-CG21f0e1Ica0vKi9bKezKSmV7vv0KXDp2JvquGtU2B9PYL9nnkaDRP0f4YwEZo1tbOAlTP_j8VlUu_4EmtYPAFBC3U3dMKpebjnTP4qI1gYsp_FTD0GGTlakNIBzgfzp98LdZPi59wCvxprIBvrPpTGHSZP_QKerG-1x3X0guzhjTVgdqD7so0iQAXhUKBPfadxzJQRNEXsAVvzwT68-jKdy3wNnH30-6qGNU8HJsYc0VVM3qUEUizvKGH5gcURwcv--BjmgLePOCux0D98Oe1_7M-BpBiHTos1iP72RvdCpAxyt1peoD16pO2wGhwTxNk_uURfZvKlpOn9SsLun_B_53wzHlhNLat0i7bbsyb-4oEZdZQ9RLS8lY8q37afLC1kVNEIsHj1bqgGAALGmDBCRWpgEu1DGfcTBp
+    widthPx: 1836
+    heightPx: 3264
+    authorAttributions:
+      - displayName: Cyan Lucas
+        uri: https://maps.google.com/maps/contrib/100169876312915831052
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLIpID-h4ZTvHdUB-QPFCr6Vx4PSZ_ynQ03ydvSGcpBDTThOA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLnL6ZngE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLnL6ZngE!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
+  - name: >-
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcJUtOu4HhsV4Ra1mefzJF6CNBeUkCw_gM8LrseTF4O7K3NeuXWNsqjkATGbQL7TmIDB71oQVeqpjrsPgDE-Pkg4t6T8CN2WwjqkuzKi-2dIInn35rEpEeglK4zwYrE-BjuKbkXFLRzKVVvV6tJo8TWCf2MspSMcoMqzH28cvhPDUItw5pIf2oRoItpJAIb_naOcosEXhi-BgJVDo3_fETaEcj_RypGXmA5IvYaXv6YzcA0FLyDOiBp7MnHM0ml7yA-yz6feoNK-uA5tz2fIFdfGUikz3E6-oduqZhA7fhOMww
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN4Q7QUK9oRD5B3tg-G_uCyjaBdX3vi_NmSrgSQ!2e10!4m2!3m1!1s0x884d95749bc73b9d:0x79198171e827b699
   - name: >-
-      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcJHb5JkETL5nEa0d4ZwgphCqb3YbHiVof9tzLN5yJiJ2n3a9oKz2WUAJMfCre-IUc0bgAUszyhPK4MYdmIltMzDkZS7ROaUaLLeYsKMXYCgUiXMoEonfy9ZoiktzeT0SECk_stDjE2mlmYuoXEq24NXdUdVKnq5eh_yw9oEpT3mw6UCSsC94M3UFM-NnZdf1XegAv9eUzd7uSeZbps_EDskSvqtUrxeclgF_YwjQ3JuVE00LX5wOdratawZoK_9HSWemrRerr547ME-kN0ZF_ViU21SF_T-MQi4gwgumw7xVA
+      places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/photos/AeeoHcKr0ulvOnOBvZ3pijOq22JGbbbMGrWjApbcwp8z9xYtzKeh6krSK9tafQ7zYl1jMnfeksr4VtFX1o1UULwxRUe2iOGiJ2eJ--f-HR9pdW6atwxs2YxPCT4_2-6zAGkj0fVNjvOulrMQI5qgLSy4arJVn1ZWCwrMGa8I8LhNCGkS7f2Plad-5O3vue8fe0DZBPBUmwRd07FRkPJyNro4M0W9ivvz0HkrkRTCzqrobdXuOiHifgylAxSMUXvnxhUQCEFFgspuWEkFkeGuifMw1XhBPaeiqMgFgNmWhzuoJ6cWhw
     widthPx: 1152
     heightPx: 2048
     authorAttributions:
@@ -183,7 +183,7 @@ phone: (540) 961-2020
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 1053
+rating_count: 0
 website: https://www.greensgrillsushibar.com/
 reviews:
   - name: >-
@@ -347,6 +347,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Casual eatery serves eclectic offerings including Japanese, Mediterranean,
   Indian & American dishes.

@@ -13,7 +13,7 @@ description: "jony's sushi serves delicious sushi in Columbus, Ohio. Try fresh J
 place_id: ChIJ333LX0yJOIgRlnRAQu2EURo
 photos:
   - name: >-
-      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcIBj29vrvfxri85L0gIT6yFWIY8KwAK4DoLIBEcBNsCCpqmXaQmeXuD2ezaVy8xfndGLoR5MYPUAnsg1AnaClf-7H6r7pxBqc7lMa5Hu3Qm5UGoEAP4f_sRb_2XWeSkXwQAWMi6LQuXa5p2RPrtXIBo5sHTPvMeF1E2YNg5dnejxxfuERuEiq-yU51knG1tnxGfD61mmxbZUQ_70QoCeQpMnfT3drbbxA_YnRjGXo2FDjKat1ERgL5FDNny2qt2m0BAe9iRUpEcgsChap92pPRpHhuY8cPYvV683z95re5sLbCxaMZSm1rp_30i0asg3Jl2HX0XP_bpLCIZZWF_Cq-9EUvYZTzI3djRVkXe7h59rs56gFE_HxTjOumxB3CpD7u4ls7LhFsDJ3a6dw1jdnrdcIUiuOCkH2Mkf2wsuibLn1s
+      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcIxworUcmnlloXnN1detJKeuiYbQUWkX2bt9sEf2uC5VpyYz2x7r9FcRbpvRPqD35FSbIDURnVTtBPtSDRxm3eo7MmJYdyY_gr3-GCRHllkwMLw2fQfy7hzeZg3XqS2zVETN8mGnpV4DDtoMmizDoudL5Hki3Ul3X0GkqZLqEMf1eyqcW37gREC8SC0nUfjSwUFwHLLWXBQTcPM8SNUJkjO459aP_P_kBKzP-Zvwn3GcnKjaGTfMpeSNeCqjWkrT97awfZf8CN1l-ljGx6bpnPs1IIA_A2H1AV8JENdyanPNMaufr3vbN7bE7QtqvFUFzsYY6spJxpn9AtEoJW9hNtaINJwJUJ8DC0-ohvpkqsJif7xSDU523J5joFvT5KwdBuO5cKwMn95p9UKXRSaoo-VbNd5ki-bJ5N_ZYTbMb93NTk
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMoOvE3AE!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
   - name: >-
-      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcKkkYgLF3yNe2_bpmMVQ8MjtPhMkHHGxmlwQbeu2JeT0J10zP43tj189SFulEZuO8Qzc1PDT9Pdf011-x5NyNejVC-Egh_UWq0XWtj5gGAQLIEn_NpOQD-YDeLE42XfZ6yB5Gyd-4kDhN74hDJkKw78GyUYJoCFABIsjApVfJ2Yr-3YS1s6vZyC0GR7rKSh3EUZjbeKjTTmcOmXGSvnHpK40pjJRmFWS3pdvSIxlYVCqyWSrMwmguZ1DGiCh3dire_xYTMixdePofCQdGmZ7zSZ1ckaTIe1Cn-xEbShD2M0MA
+      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcJ4kUMqQScwn2pzaYaiogt5au5t51qheNgSRGmPEIgZ2bWMI92CiUVjJl3FeOmJ1vlg298GEJ9zfYbLSSipJ3wS6S8zddvTqaKirmbhtDo53mCdVL1L-9enNKw_qihWZRZ_UpvAOJ6JqENqtGbBmqzYMKq2MbM5NEc8En2uD1rTfwfmZZVIbv4CuyMb1KFKJXpz0RgXmxPg8POzzwp1q00qipbCi_kz7dWlPYeGIaaq4ZDQ1k2YhpizOoS2iluYJ2BKow3Q58y5l-gWGBydPquC7AbRXkRsu-Tv9LoZoWakfw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -39,72 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVLbwUe2FkifpfrbAk3LTV7P_AxMAf3QeTmgWj!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
   - name: >-
-      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcIP2fGyCi6s_JYOmSATuDfogVdDbZXdHVHG7qX2ITaNJrxr3rEgheeYuybSBCZGS8GDovsqJkXrphFWNW3z7XQ_urmerR7lE7PmuhaLoETtvsR7cNfh-a7KF-R0U7Rb-OdBWKA1Ipo2e81r7SMmlYcS2lw3xrgAL_7PRusMAa-oaktDKHTI8Coobeh9AR0JNV5s4F5bHDSrNh67Boxp0buJmuJG8aZlpF01d6RJTOpjGYrXunnMQ6FNeByttigbFT_cTu-71kFJryy1aV_F7IBGu33m3d0FND2-0pjG8P3yVw
-    widthPx: 3200
-    heightPx: 4800
-    authorAttributions:
-      - displayName: jony's sushi
-        uri: https://maps.google.com/maps/contrib/102702502174212444541
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVOBN4S6357XWdgWlleiHehp8I1DzTBEPHlM275mj0baud5Ok4=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMw6wAXUmaiGaW8-vsybq8K4jhbGMQ769zr-ple&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMw6wAXUmaiGaW8-vsybq8K4jhbGMQ769zr-ple!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
-  - name: >-
-      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcI6LyhwG4Pm7CE3g8Cbvqk_x-4Pk68C1l4szODCFRAnFI45oHwoo8MEJbuuHoqkOyodVGWeDzgRDxcE9tIzvBmG4vXn4NlO-CQ7ItsdUg9psI1584J2KCoU9BD010MFovSOpHdEVrB5Iv6QlOgb6aeA6ApPzuoEhbloZ9acFGefA4WqMitunymlE6c49PX2WRAhv1lcpxgklvZdaG-3hVsNSUrbmzeflJ1YclpVY22bme6YOLCXz3FfAWTUmDdqyee6TnrlCmdfQ-FTwcF1ho8YY2lgh0mtvpdHyAEQCe7bvw
-    widthPx: 2048
-    heightPx: 1365
-    authorAttributions:
-      - displayName: jony's sushi
-        uri: https://maps.google.com/maps/contrib/102702502174212444541
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVOBN4S6357XWdgWlleiHehp8I1DzTBEPHlM275mj0baud5Ok4=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNLGnyNEmMahJygnVmWolUZZeH2PmItxRospNll&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNLGnyNEmMahJygnVmWolUZZeH2PmItxRospNll!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
-  - name: >-
-      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcLq4tPixgGZj5ZDggU59Hppg8cKrOilq5eN8X3LxbGAhppi4K_e6K8AYKrfamyBGcmM3YRJwmvV5gY1ofecSJSkoKv02NXU4H7opxPvj49NMe1OpCFxN7f7isEmWxgBBPHgx3yT0QjBWgVNQETCpGlX6Jc-h_R-zx-mjBoEJU7iRppCKz1hwKQzEJ1jSwgyjDIV_MhTO9hJQrMJEb49trm5LnR3KWrx7pe5MrmhFhYvpmFJgr_xKEwL_reRZZuwZGiTE0cAQmjqJnEkDLzCKjWi74VIEU-2UH0rTJIeImraRQ
-    widthPx: 2048
-    heightPx: 1365
-    authorAttributions:
-      - displayName: jony's sushi
-        uri: https://maps.google.com/maps/contrib/102702502174212444541
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVOBN4S6357XWdgWlleiHehp8I1DzTBEPHlM275mj0baud5Ok4=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOSeAyfCPBuAW-2T0SXNhPvIk760ZkLKpA57oWY&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOSeAyfCPBuAW-2T0SXNhPvIk760ZkLKpA57oWY!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
-  - name: >-
-      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcJn-ZwTStUs8hwrC36_PfnBKYfUFjiYXWHfG93sDRWhrkSu5EcOcOcw7LX7qDv1Zo5wNZGXUq2rf9sAQ4whrQJDs0Im8vwfgkFxStbuP3ufk99nckBubFMJ1IKimtkFsUcxDjwrisUsb3FhcQrkqQhj1evjfFEAGT7zrVeR4Y9Ob5-c_7G8-yUebhk1XIAh_U9omuYVYVKaVst2W9tYwaf8TwKjzAduCFXqw0_qPskszycP1AGaUQqyrUMqGWDT-H5ydJDC_mCiAFDDg5dzWHp9CV7tngKqqGGxb92EqjnqOw
-    widthPx: 3200
-    heightPx: 4800
-    authorAttributions:
-      - displayName: jony's sushi
-        uri: https://maps.google.com/maps/contrib/102702502174212444541
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVOBN4S6357XWdgWlleiHehp8I1DzTBEPHlM275mj0baud5Ok4=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMS2b3WL5wrOaWCwfyzrj5R60bBLYQeJNDKR5YY&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMS2b3WL5wrOaWCwfyzrj5R60bBLYQeJNDKR5YY!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
-  - name: >-
-      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcLK3EZiIhnf6Tb5ADNklqUEWNFMtOZGaJRMGULTOfLcqoBr2jqyUv6vEz1O08c7l92d_7D7NFYt40z19_Si2MLZM6sNXOEf55VKU87oQw61qClQdqfAlbicKMLjO46lM9_H9nbFpAck2GvcmLhbuccgPmPMsC_GlSJ5gj98DnscuuceoqwEtt-h8lChIag0oHnuByr1iCthzRnQijeskLQWV-lUYNRy8XmDCbt9gDi7Aik-3dkng7GpjXi99zNKiPtP6lr5bMQ75jCa2csuXy_FEQjp9TIzbvaXoI9ONCtQgQ
-    widthPx: 2048
-    heightPx: 1365
-    authorAttributions:
-      - displayName: jony's sushi
-        uri: https://maps.google.com/maps/contrib/102702502174212444541
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVOBN4S6357XWdgWlleiHehp8I1DzTBEPHlM275mj0baud5Ok4=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPlaG0Z-MMnlaOkJiy6V_pez7g2UX9-fH-CZ0wz&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPlaG0Z-MMnlaOkJiy6V_pez7g2UX9-fH-CZ0wz!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
-  - name: >-
-      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcJpPvLkLj2r5BHbOfQWKaFAdSCs_hTWzI6nbllfya-BF6sqeeFSgJi6Gm-R8NT5HCevY5sXJ4yiUwQkUrhTmYS6_4Xyq6kYCfL1sH9bIA8Ie6NnEaF2I-nOHpL45jk7EfuCBTLGB0qcGst33shFB86UtfU5UKdBp-FiQNYMm1ntWVMWA73CKK8Fd2TdZwhMhtIwqj89GtAfKF0lwyNeVDH8a1EE7aZWVnTmVAULTGQdOVgVtwBkBJPIURMHkZnvL7akZat0PdKbVYZEP1xdrTtS-qMP-ekRPP6Y_8nQOfJnZA
+      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcJhXoW4hbbTD0TlDyBny88Q4uRjdgZS1RjL78CfuU4sVGQye5rNoSmh6Mg4a9CKUN4HkUmVRGPBTNUYOW5tyBiOtTMStdRk7xZsqiXVx2z6E0L0gJGzHCOT-Y8bS0z8kigxEeDG-5onSE7dI6s3LaUf9UuJ3klhFc96AR2813FldduzJaCXrqDA6DqU5dVB-sARmx62F0cHuA6Y_9gUIHdyrfrReP1DAhkvVr8XU44-tWA8kumn2Jglfsc5JVI_TCdVLxJSgWesxNw79IcfXaytTKTdGXzjxodlwKVAz9C0iA
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -117,7 +52,46 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOw3UvUGwJbOH9WhRQwfVKBgrz-Q1wsWMVIVFEM!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
   - name: >-
-      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcLkG3Bf2gJ3OqCsW4zEhEuGhohozOAilAZ6QISYTzzj52HcuoYnoHtPhShw24BB7uF4VeXJ0O24LBzooebroAwBMpoKuEYOmVDltytavQsL70_sJaRki6e-VC4Nxj903WtnUT8yASyJ6-HhbrOYga9fXx-xRTngUOHfAclDwoWP99go9kBgC-BEHwTbWkr3jit5ON_buE4CHwRh82kNZfqBZ4BaNufM4HDdEHie0r12ZiIpdKH1ZY2Kn9An51u7WxKofea8rYzP-p_o7MqWXBiQn-zOw4XsmzHKOdHgsps4Sg
+      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcJT2rsBzhdQ07jb6Q1rUrTY0L7k35QpD3hRSdJLHDFtv8vVEymv1J4joQYdTtq9evAs5kDs2AoIvSku0vd8rzI9pmBJ2vNVdtLYOmopbSg1_qaL93Lw4bfFNdsHw-1MnjwpCGrwgdUi1tdmOKcXQQWS17aF6vDEtVJaeVkomyQZm1IpZa85Y7NIzQDJpss-j6yGM9CtORSsZQQgUhG2h4iCbRl3UGWAgxytHqsJLuohgRd0D_Z8FothtPwKQ3-A_s07TxALb5wPo7ALJMKdUfewbl8Y38RsnjlTih-u7V2w3A
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: jony's sushi
+        uri: https://maps.google.com/maps/contrib/102702502174212444541
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVOBN4S6357XWdgWlleiHehp8I1DzTBEPHlM275mj0baud5Ok4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNLGnyNEmMahJygnVmWolUZZeH2PmItxRospNll&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNLGnyNEmMahJygnVmWolUZZeH2PmItxRospNll!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
+  - name: >-
+      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcJuthCoXMePBR4kTCJzPSex5zt3x2XOQ0-sAupa5d01a7mxG5gcTGe9ud6X2cjf7mLkToZMtIa8FX709zt0F401-MJUCXFjY0jQ1I1ALn5hqpewUunisqQGJI8g63lAFcOV0L62LeV-MvaGkifyu0M5nZVu8EWdA6U8UNC61XI1UxGnGzQ3ZxslMuNQo0CvTkM-QDAnOgkf40aBR7bTvKVoLXABdZec5AhqlbCD2vl8P3TOM4azm02IH-A0kOnIZQyN9Pi7Qa4Q4ZhTlEN30BCY3SG0-Jp7rRDrixiKj3JsQA
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: jony's sushi
+        uri: https://maps.google.com/maps/contrib/102702502174212444541
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVOBN4S6357XWdgWlleiHehp8I1DzTBEPHlM275mj0baud5Ok4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOSeAyfCPBuAW-2T0SXNhPvIk760ZkLKpA57oWY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOSeAyfCPBuAW-2T0SXNhPvIk760ZkLKpA57oWY!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
+  - name: >-
+      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcIzKa0skJuwtCVM1ey4HVarSUVFCkV8jpSf_gXm9Ca_dO0fo3AzM9JP95-UhnWs2ilMSS6U_XdisOD4zM-m0Fga_i39WS7rfXTFYAv4KUWViAjRlpPo9teoITyFn_5bzXyyX-jAlpqv30t4fCmT4vAsT5fdd_b2EIrm4dGgkmtt5mRXBlGt4OODiKtMOAw-jo6fNikxvETdD_7T2VKGHU5OKj652HVAYk6Z27SEo0ktgxkhNoClwxm0mLb9Txet0QMdKubJWDQA7aBVjG-habzSpKmP0Fu4onjxg3cPQXZt-Q
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: jony's sushi
+        uri: https://maps.google.com/maps/contrib/102702502174212444541
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVOBN4S6357XWdgWlleiHehp8I1DzTBEPHlM275mj0baud5Ok4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMJjpo03a4IhMtnmWXmlb8CLSTFRRIE8d_bsl_I&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMJjpo03a4IhMtnmWXmlb8CLSTFRRIE8d_bsl_I!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
+  - name: >-
+      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcIhyhQKk09MNPeQZ2reuMH4ccfgvVDWLU85dfdm3zYFO9pZExYPItlszvS1urRQsXdDLPyb0U8wChRMC-8Hgo-7I8nvy99-7O2mrPbGY5o9FgiRMDtvv4Y5pzQUic9axQH1mkvxUK8TfyATd916487ItCGH_yUYruacmQn23Fs4b2HaroAqlNEyqXtfH_bnBPRpyEgskb2GBgvYahY0OiGD-o-osI-Glk45UHcIIe1jwjGNnuY4-4PNAnimBkEMyjxAT0e4gRbxGJsixF-AL93XNIrtJe7IKr127cgumwH4Pw
     widthPx: 2048
     heightPx: 1365
     authorAttributions:
@@ -130,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM7MjP_5NOuBGDLUgdGhB1c5DDyILn1l_v9NGxM!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
   - name: >-
-      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcJxR-nLosi7wLgOPoN1DN1cUfTvpiLd17Zxq46628pIQZkdk3_ap1ypkU62m7_gLLMg3Ke2yx96UMvH9hqDwApJevTaeIQIMML8fri0iZG1Hjr9AHxQ2KuIM6VVINQMCv6AIHsZyRgQe98DCADJmZ0SGBr731PilZ01LqekDlQC2Ddt4hO3sKthkvmGpIJs2-O8UlDl4fBm_yGVqLr7nrEnfJ4EYL-Llt-t0lHwig9-vMPk6cjeKSlJemwPfmFRkbZSusmGPlDtTnjp7DyAuqhBd6ke8Sycy_aEjH6n0x4YkA
+      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcLa2Ia0sL_urX_xhXMTXFrnorNcaExsshv0OiYbF1VvlAyQkmrK0_AeK1PmETpaOaN9izSGZug1wYTXbvZvh597gU-ksDhYWIQ8OxvWNDxs50OpQVMRenVnBhchHqbKFpfcLDKfDFR8UuxlQkKt0P2NTl-V2Dz8Gfh3g6tT0KTxPQuvkQvSXxjfG9HyFBtURg86fYqnjKl4t9zd0I4fXOgj-7DBnkpioi_f5uBvmHXY21DiXCPOV8TsA-ln0yucvyCS0_bqhXSC8sec8y-XSR-6_-23lBeRWEYoeaGk4pzXRg
     widthPx: 2048
     heightPx: 1365
     authorAttributions:
@@ -139,9 +113,35 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVOBN4S6357XWdgWlleiHehp8I1DzTBEPHlM275mj0baud5Ok4=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMJjpo03a4IhMtnmWXmlb8CLSTFRRIE8d_bsl_I&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPlaG0Z-MMnlaOkJiy6V_pez7g2UX9-fH-CZ0wz&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMJjpo03a4IhMtnmWXmlb8CLSTFRRIE8d_bsl_I!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPlaG0Z-MMnlaOkJiy6V_pez7g2UX9-fH-CZ0wz!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
+  - name: >-
+      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcK1y6JAhfi3fdnoQe86v9zKPrCpyaif0evD_vHAfp5NDMi_zkcWvWkpmk1bXic1lgpHSocFruLjfCULeDKXKauRCbWtrBCLEAcYXByveaDa2kb-h8rplprV6VS-oMMzGCXsNHrOMj6O9FpSn7emDje4OrfBvQpltT2LbfFKCiQ26L5WgY2_IwX4soEtYG3uPSEATh2KDNw36ThP_PieANP_cl_9b3XR9hxbSV4H_b3TpTXhP0tlxBReHZVNhvHxdyJK3ISszhjI6faaZVuTAGLEjkOjr_LPIzdWtFdR6ji4TQ
+    widthPx: 2048
+    heightPx: 1365
+    authorAttributions:
+      - displayName: jony's sushi
+        uri: https://maps.google.com/maps/contrib/102702502174212444541
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVOBN4S6357XWdgWlleiHehp8I1DzTBEPHlM275mj0baud5Ok4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPcIhsgL9CU9v-kpK4HdoWPZMeRtb-cRTYsyxwL&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPcIhsgL9CU9v-kpK4HdoWPZMeRtb-cRTYsyxwL!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
+  - name: >-
+      places/ChIJ333LX0yJOIgRlnRAQu2EURo/photos/AeeoHcKNIFs5FgkAsSbCCBkl0dWYzkWLPQq-4-20tBcBlYlggbqJkFkpd9IPT-deRYBidcKqASaNoi3TGRMe78tt1ftmlt1T9HRP8D7JZszQG-3FV1DpWWHgIDAWkPUTi5W1NxtyjRzmFa6jVprOCx7AEmJAYvZ_Xko-r0SI4tRc5OmvFX_pqgfVAL6JXIVjyQbjGcCu6CsuozKbjV9I_0kr8eLCA3MoTO8aXWXNYD95psmZsc8TE8Hv-WrpUNFLMYZYSNtiDy0Fthb6vwqidTwyPy1TE16_pyG1rAKhkIpCulf8Kg7eY2WawETZmLcECn6D2oKw4zvdfavuivOuRwvDJ-XosGCaN-t8OCZM0W-GsUfDsbpSBSp8mMUJ-AaedIiRk__6ZIFi7vxbI7z97Kfaw8efxJo6OCFM_0s_4jAbdYlabvUt
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Joshua W
+        uri: https://maps.google.com/maps/contrib/115116144085330260810
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXJk6MtLdkurBc9-BrUzPUUU_7DoMyfquyaoa2B5nwYzDA0bGI5=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWyuv3-QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWyuv3-QE!2e10!4m2!3m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
 address: 195 Thurman Ave, Columbus, OH 43206, USA
 street: 195 Thurman Ave
 city: Columbus
@@ -183,7 +183,7 @@ phone: (614) 826-0491
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.1'
-rating_count: 61
+rating_count: 0
 website: http://www.jonyssushi.com/
 reviews:
   - name: >-
@@ -382,6 +382,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

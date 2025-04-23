@@ -13,7 +13,7 @@ description: "Keep it Rollin' Sushi Bar serves delicious sushi in Rochester, New
 place_id: ChIJ14ibI0O11okRjTFWH9XLUDw
 photos:
   - name: >-
-      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcJg8BrWe5mwe-qZnyog8Q9TDBAyYzuXe7NsUY8CSjEryTFdX9BqX9H2Fk3bhhrd8xT63wR-Pz71vbmAfFc025tBUHNGdZ2EeulSZd712rzMoH-uMq7C_UdIWjU1g3i2CKxSeI-luOZzk48sY5yP1pu0cWpsw1JvcLK1Q2NE2171smIo1LcFh6ndzGCCpmNGpbgm_pIiaE9QlZbslW92qZ0zuiMWJ8dCK9_luYMsliYH2Cyma3BT6wbX2ni_wBeGNjzpYqwOyyI3x8dgcjGVla_YuF0D0Xtsc6-r6xWol_FgYI8DAjfuQkzwkR9p-u_DgFflTm7xnhxZfbXvAHZKA7QrCHD_XOGJnwxXmE8_iESJS7CVOtbg0zE6LjrhU40pxoRPt-pgH3Ceq7Qt9k6FDrxbRK9PEtqmv017n9niEu5jJqFY
+      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcIiTv1Rtr2CJrGVQ74J2kHo8PV2drl6i0R0GiY1r_hUzvtfqrq8NFDt2NeJZpyBWM8lbQ2rlLxQ928kLb4Zqymse3NesQFJ5-Phfod1pertIO4j8gemcp3ggi9vbPz7keAlDEPivhm4aBuyDEyzDLL8Bv9Pp1oykIf8ovnnOtuHRTiZc0eUkSmKmb77LI6f1TAGSSEpW-OgvHCuZAkUtEDd3JgWUnFEeNx9UP-LPDSpPuFf8xtcPVXfv9xwCh5uBayXquMQ6r6J50B66JFMPo7DtDUmWMkeeKke6EAIxnbuCRGT7O3AVvx39af3q5a1yD3VKvV3cKqMFPZcIomj0mV49fcBQXEtOB6xFqdFtKglX1qWPoI7SfCDpHVM91sJTVCfIfcSNz0U7ezk9VxEpdpwuzG-seZrO7MLXtmoMGkud-OS
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXntux5AE!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
   - name: >-
-      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcK9zmpKKjnVTMW0_8KESlzPEzRrwtcaYjvY-qbSvcSzROiLNc4kKjXZ52uqBlgtWNYg2eieJ-POTJZ6uuw5Tp4M_RKGKSE2f6CJXoj1gT6uA_mFiUiG02cOmMtqx9SW0IN0gDcUtxqaPgiQNnILo6GQRacCHgH4J1WRh78V99CKuwUgqVjTEBQ31QNZvwxXQo0_SBWr_2CQdXhn1BGIoJZtTGuB5Q8vJvYD5Brhd4bnCFEv8lSiFRtvgzJYrHzzIzbmQNmGqt8K-KfaADNLNvT4L4ef8qu_NpZavvLjCI59ug
+      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcKjPOePpgzvaFEG6-7opAGWyb605sNRa7eeQKorw9nFa6WZEt1qaqDAwVP3bcsYsKxH5iuNXW_ZONcP3LVBq0bnZnaIngkowTV0S90tjKve0_4BxuqT1ppSlQDUMDnWMwBwxloCXU070kfnxx6PdfpFSgJoTLk1Tad48ZlBT6BcHprOE8lL_g-AO7MxVmlIL_P_bBgbQjBhmoAzqEq_wzcKl7hTX6Bsl9kHrx8ggIKRhkyLrJ0CQW69rPSmPUNEmnuKeG3-0eXJXKKkgzV0Zsz-VC0WYuEld80PjMZDutt7Ng
     widthPx: 1771
     heightPx: 998
     authorAttributions:
@@ -39,7 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP1cttKIeOu5Ls4ZJ-rJfreVCtVUvouI2woYreE!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
   - name: >-
-      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcJxsra0DDVmaDgQusyBbH_PSbmqiJGwbNZ6P5e-45Z-Q7A63fsCWKi4lONZSenCITffCkdriGJ28y36v8yehJDI8k62ti_yNluc3jUOxItRE6aHW52YZvJiGv5jowQPLBvMfkD-4Fk1ZJ6l2mZQ67n3Obwf_4gYkX7SDUqdzsngNrkoGppHtRxwt0-bSp7Czoh3GfgIqBaHPP28Z8Yc4C8IDpd8Qly44aCBLi1Fnl9cfO7o3b5J9cL_NYyJhjZ_WIg_JaLuU5Zs3jDKHZbxQpCaleKbnG0rQ4P2qUpxqEbW7w
+      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcK7prVcZI8LfbfZIyOm5Odk5r1sEHFXMpzhEWCN2FES1VHChkQeaetyMla0qJma3uKqN8yDn1flROA7imBxk-5QxS_zdD0r5DtE5xbJWQGX7E-YrqG4R-ugYMzPRtdLwqR3vGwpIUfsR9_CbrgfDuezxPFq82Fk7DveNZm9GxAKbjpssPddDVoVzOEGpBm1fAsDWwJy29mw9XYoJIaD7muZ7onIOt9kEokOSJKtttSiQslsLICkeUqmbjOqPIU9IZKoNjat9rtHqCJlg2moX2sEBMnJ-E0rlQi78bVcJeYwpDxfFT4KBujA49Cnwu0H3CXExAif1MgBMOwt23lHkD6uZM0LcHnbtiuXtRuYYeBKlZfm_b6LMPIfuzOyxjvEAVH5leEaLke5AvJ6dxSNbz638Le0z_sFdp9mdjbIVebfa7qFojwCuD8dZi2hURR4
+    widthPx: 4800
+    heightPx: 3599
+    authorAttributions:
+      - displayName: Virtual Space Productions
+        uri: https://maps.google.com/maps/contrib/102587061921608785037
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUr5xiyv6MlOXvDMmbHlmjt_DF5rzYT7X9eImG9OqAp_-sMysni=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzaqXxHFmmgH5FYAAFZP&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaqXxHFmmgH5FYAAFZP!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
+  - name: >-
+      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcIgfEVDx9qTqTc-HUcPDxMLhPHBtKDHGWeVPyBlDxNEoGTCcGZFKzxoxMTFAiQB2BoegdG7BkQreJ9oYJryX94fDEjEIsj05VvtvIHpc21M6z2cMqZypGcwzSpAb7t8xgZCnkJW5X23D6mqD5xNUyT8KjgnAcjXO682dyqW0zBz70TKPKk3BMG6I_59izFmMaiktGqofgTLc6x9AykC9zuRQvgsirNrViJauumbuM2fFZQBu1tdRFjHeWQb0r98kPek9CXtXQdp0gVnyDXT9pEujhk0tgieL60WI82PGhUBxw
     widthPx: 1829
     heightPx: 2048
     authorAttributions:
@@ -52,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPaoRxfft74henuqph7FxWOFyhRn1RUWcFHkRXI!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
   - name: >-
-      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcKiUJGKa5NVedmgAGeMOi9enA6c1nUNVAEeHOBnNoP2IiZK3mDa-wTfB7Lklo-WhopqlLov5UDf3YBXgy5LBlt7BAN51B5kMAwkS4Ha4kneJNbGRBUkoukcY0UV0GyDD2PaIeKWeCExDYpRx_2CialxuQEQShpvxpszfgg20Sh05rIuDwXHYwmCw-VPATOseJZbqsa_u8xy-2Q09PlLR7eyusedgs020fxqtVqwrsYUsQ6D0dFyzhPbXMy-QjJ3gtHAxpKs6YvS1fM93mllmd1mHNDo54MmNt45TwTJUv1wuMm9o_BaD4MM_7T-K-VLRGOkzOkSVfER0IdAyOVXjLiKhJ7O16LF1smOrfBoYbCgGnYlWO-6IBWfjlB18EtPjJBM_wMVEPKWS2OtBupba3ymoFjy4Xcm4pi99xtv2ifW-ac
+      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcLHipOPsmarI7kYj5eJD1VvFjtFwHA7ogBi9vK4RcTgy3MgWpdHNcy6nyKdRJ8UuziyQzQ0KmJHOJnhwE9Fekxn1OPBB2Kb8J35HKBMXkzM7Oj7PjQ-tPTdcqXA-aeyG6ej8bN3RXqMlpfzWaZVmW8j8UxrdjzZBw4TOveOd5rmwDooVMlrumqq4Fcebe4O08NdL_oDTPt-s7-W1qlYQLEYoI6yzqrIE4BGtPdHIoFWOCmsXK75gkxCM9BMXWxnlC1VptNkRjJNSOQtFciQ-PANMQTnD-5X_vP0hxMlVw68_QjUx8wlw0nIVPDMjSh1oczMo4JGOk1IFR6eFv_bVzVCURn3BhTbaBC3OnCK0NllIbHkH1nX0F-LNr7lZ1tmEXMWLnFRVJ3HyL97Bh2asNSOSQuGHKWndREN68a8mTix1UeDSXomkqJ4RrSWVA
+    widthPx: 4800
+    heightPx: 3599
+    authorAttributions:
+      - displayName: Virtual Space Productions
+        uri: https://maps.google.com/maps/contrib/102587061921608785037
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUr5xiyv6MlOXvDMmbHlmjt_DF5rzYT7X9eImG9OqAp_-sMysni=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyfQpyDFGmgH5FQABlc9&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQpyDFGmgH5FQABlc9!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
+  - name: >-
+      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcKF_UO-6Iy9VuPn3uOPw8dLqzmzNvJ3MpCll1ww886a_jeXF9BJh_NbxqOzMkpbPwfTo-1UiDhKChSr4VcbkwCZgWJ2bTkUAANRYtTddo6wLN0Ky5ooKbdSONDCpDNF3gmyAMUG6ES2NTyIirpB_KLTxh0DeMi90bpAL29SWgbmwoGDJvbY2PUyXXQ_R940q-9_CN8IBRb2TrfHHBPsZpicvDno4lAz0BEBa3haQvEVLtwj_ZqLHPiCP_yK82qFdWBByae3qu0v9jNE6DfEY7alJxsNuggt9CqVwW0gugLT7zQwEpUzVDTyYFQHHhERyMH7ZlQsWvRvRNTjcSAZbtZ-KsHwbR5JV67fh1iQa0nls4TCVpQ1Q9DWCeWrZCcp0Sg0nSkzBD9wnJwgOZxBc7IZTRiXqf9sZ1Adi8Rs23cpl-M
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -65,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvgv2LxgE!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
   - name: >-
-      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcLstzUTxsn6X4VdYj0a7nn3XLPeqG-MMKHkpb1BaN36acdom5S9nePSnHKp0UqR9DoDEFgPs_6hf4m53Yo1-naoL0xbHparI0b7KPOxta7RtdQwtILv8Q33AT8qOqDnDDSyf3DrOClkX4bCIo8sz7EI4AXrkmTDvrIxnarUU6E8vFit1OwL-9J8qoD0ZAKsZp8211DRoofEEuZUYWovPu_vyUPG7OE_PKqSxqMA0bUo8BS7n-7-F5y8L8rRdmcGck_4Bz61xa5riKV2KlK4SUhU6Ed5JhxYJk4rGnqGKpkmUw
+      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcJHRR9iViu8ohDMhPrUKIxvu_Pvz1I4weLBqLu0c2sOhjYMuYzhnJAdbVvPrGKv4DBYmVGux1mzKxEZ7TnIn5_g97ENJZnYKenT20SR59Oe-Y8vG0E8iksiJT4yPfWbM_HpbDNp0YN4Ys_5UqdPrg5srfPdpf4wc-4RI3r-nxP5KsE8vvLKNBaEgqHStu7WTw6zIlXZ7qT_2D0V0HuojNmzD7-8yDBIl8ZgSr6ouLQZGit9tFU_Q_Gtn6SQeGuaEq7gy8XzXWFy1EpUMsJtvzjCWWeZ5CUaYAUl1bLDADSdpw
     widthPx: 1440
     heightPx: 1440
     authorAttributions:
@@ -78,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMIvbA9U3LaMCjW7s1J8unzO67wnQ4a4b3zXWne!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
   - name: >-
-      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcKYyUS2pAWXufP0fVU_BEj14uChhAYNFLC4ILXr1RQFC8GbpmolgDIFDPgSQmrFjBmynTZaZAqUKV5YfbB9TnOBv0OPb_k4g2AiyxhPVM_7u8O7zVLVU-dc9Vk-3klJBaTp0rHvo_XnrISih_nKy3VLVW_R2AG3KvXViAulmWecydpJDLpV5aa8yooRs4IXwOD-i1sBm9iR8jnVLL8EbWB6lUO2u4h_ckHspDK3kjfBlrx2rk3xYvGUszO6CZSxO8emeETTpxEORtIYN654DHwtNZy7SGJPWq7gE4oJDjw8Ng
+      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcIaCvhtMtNCFQ2eUc0gI90uxaxQ2kVNWsaw4nxzhtcVMZ_e7bfIGqqXwxhx_CY0lz8bWRQR0jL3rNNt_U1MazmayJbHwMEgpYz-eVC7wbsuPX5LxHiTQ8PnmeUGAltWxhy605i5OHh0MdPtDwkp-127x2oHpfcoizI4ljV6Q_hT78eod4vl__BPqM7PTpIouo4mOjFS3saaN8dTWvPxhOFSe15JigZUMCCVySIolI8iKwGD5fq_BqBp9l_vP1PJ9g2lwnBo4e51gmkaABII4UkaznoYWA8iAK9xC5-xDUX1Eg
     widthPx: 2431
     heightPx: 2048
     authorAttributions:
@@ -91,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNGZfvdGdVNq4VSlcoT7mch1NOCYNJdiUpH_L7U!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
   - name: >-
-      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcIRWO34pE8cFbAqj3UAzxL0CZgWgb7VrdUdyw9C9DpHbcl1dN6yedtq7mbvJWH1Grkgl-voWYAso4-p5uDQh5gzvkwdvLQKJTnGxif2B00QVqTKWS-N31P1YK6tfNuPIIpoUz199VZ0ADPPHMox79cA9xOEu0ZHcPhBsF5IoKeXJi1xgvRIEE0YJH1fRLcnw1RFCdIbhCwEb1Q0Qy4fvqIn6fmiKCL72YOF-pRG9DjZ1H2VPhnMu1nSTaZe39ntuWgMewEAPpU56D1RYkRkR_mxryt48w-ncIKutusvOZCDYg
+      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcI_pJBDM-nOuHW9YV25J_A5f_zk4pPmBsRN1EzpgVO9cdX_bSccz9OsOlcpyVgE7HJOcqja35RNRWP-MhH__wFbqT9cqfahRSxjzLxiifBCKHhksCuaubUQc_pEPuDOTMx2TL6S4EQL9QZ7OEWT7ghkFS4OKs6SOefdloAX58GFk3_SHvDF-p5V-flKdbep_tmx9o2V8rdNcDCf_DnYqPHCviUWq9uowvVMy_xpH_GuxND_CwvB3mGe_athanZXWrFcoNzqcG4-p6nqK65Pt2qcQuauvD6ND6XKQyiAa64xDg
     widthPx: 1440
     heightPx: 1435
     authorAttributions:
@@ -104,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMunYeDZ6HhWyyQ7zLFOSSB_KRFVLf0NtusOKah!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
   - name: >-
-      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcJT0XFV011xUmbD0-hYLACU-gzHsQwD9jdDljrT-pxvIrdJafyGyk8kCORbVuMIHi4s5h_O9BezHStBNTQ6Z6JUcJcPWUTHOD9EcMYrh0uEd20DGERHWb_uBFmnVJLFUaolxzBVICK1QsWIzb7Hf78072sY5tRzqNLHd9CLzfS4aTyK9E4jjo-MgVcJvUjl4T6p9Q6DZXTt_3TxBgDhP2ANlPYpZR9kiuP1Bg9I6sspFR20l45Lvixmrz7U4ei27ki6se6eAFGAy_6BLjsuNWXU6UX1WaTeCklg6Mfa0HsGKA
+      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcKlgSp-XGxf8zdRPmnRJj28iZxEaOUYPIa4Y4zv-kw0wwuoZTQ4j4HgSkCBqNEu74Vh2_CJ4lY6tnmPxjNdp0qdI2RsYrnBCISD0ROAdmtdsCc-oi0QAn5HXIXb3GUyD3myxrxM8ZKWgYdSzrrskYTKiMxyEG1FvQO3-nVFXV3Pvoy56KPcqZnQvBZo-IhFdiyJ7fPT8GGLXEW6Ffm49uj7Ot5Mu__XfmP_DOmSwO1N9WFqcj_jDtqmyjHMtU87MiKn1E1i4l-f4xDSw9lQBEgEtcsUM6zolcsOKepgc7ER0A
     widthPx: 1500
     heightPx: 1551
     authorAttributions:
@@ -116,32 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPquY-fO3Y7gkBedM-PuMNQ-QB3UyrHjo-2UT9G&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPquY-fO3Y7gkBedM-PuMNQ-QB3UyrHjo-2UT9G!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
-  - name: >-
-      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcILNjIW-REgDgZ0QqPC4lSyBo11UBbRGeijFl2efnHT3qKrO0vt7oFeqKZie0pL5L2d3Bj6JQ_whskGsA369AhNFxYBz1JmYc4Vicu249X2VUzJgg7QnwD0pJEX1DscsQX33KTb8cnAg2H6a31HG6WAHSA-t8MvP2hsiJsvCv-1CvokjrDhfrcqiO4CuIgnzqcpbjdOIWvtp8D2mSFDaO-vwpgmaDhaggdIpawEJpaLtKTnN9CJS9U_CF5VEVNzD06HRR5FIoyzJdF-PMtnwvV8VAfX4no2kkKSTizNwSc9JQ
-    widthPx: 1080
-    heightPx: 1080
-    authorAttributions:
-      - displayName: Keep it Rollin' Sushi Bar
-        uri: https://maps.google.com/maps/contrib/116637487779693305585
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV1ZaLdUPYU7iVeHTpGieojhV4tDJX_vQm2CPeRX0oYFczE7FE=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOIhOGR_7KflsIVOuRaJdxBaAJsT8NA7Bn_N8aV&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOIhOGR_7KflsIVOuRaJdxBaAJsT8NA7Bn_N8aV!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
-  - name: >-
-      places/ChIJ14ibI0O11okRjTFWH9XLUDw/photos/AeeoHcLeO4mR6AjS2pjGcxLN8cxJN-Xfkf6USriDTG3NgXUHXTcmNkaFu1_JlRmg8wqQQvvIC-TvGztg_nLk_1yGGhVVjxHFDifrSim_oYHCVp--TwDLoaMPAQUcp85lmYQV0sPBZxaWQ7Rz9z52pg1O6Pw33P-XnWrBWGYGdPykq9dYSlMdgW_tXySwzTWhvI8CJx_JOUvNj-UUxMWVGO70Ee2Hh7UX1KaTr8K1m1ELZEDN_5Ag9pNp3FJ5jOOciV0KWqBtU3G45-63NFIWw9PCKhRkW4A1Ucizvqs14ueBenkv8A
-    widthPx: 1500
-    heightPx: 2000
-    authorAttributions:
-      - displayName: Keep it Rollin' Sushi Bar
-        uri: https://maps.google.com/maps/contrib/116637487779693305585
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV1ZaLdUPYU7iVeHTpGieojhV4tDJX_vQm2CPeRX0oYFczE7FE=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMj_fNagpD0fgZvKcq6ExSHTDk56fpTrN85Qn38&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMj_fNagpD0fgZvKcq6ExSHTDk56fpTrN85Qn38!2e10!4m2!3m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
 address: 319 Exchange Blvd, Rochester, NY 14608, USA
 street: 319 Exchange Blvd
 city: Rochester
@@ -183,7 +183,7 @@ phone: (585) 448-0047
 price_level: null
 price_range: null
 rating: '4.7'
-rating_count: 170
+rating_count: 0
 website: http://www.keepitrollinsushibar.com/
 reviews:
   - name: >-
@@ -457,6 +457,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+update_category: essentials
 summary: null
 
 ---

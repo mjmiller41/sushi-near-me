@@ -13,7 +13,7 @@ description: "Shoshin Sushi serves delicious sushi in San Francisco, California.
 place_id: ChIJh2ztUceHhYARDUiV7CU1sGQ
 photos:
   - name: >-
-      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcJk_bKcxOp6hAv1PlItrghXW4uIW8t1A-jB1RW6sH5NuipDqgavpkWiAzsXEKutJrgdMCaN3RIkUU0O83XyQ1f7zm6dV3zbbsh7mbhZTDwXp3USHFWxex0u200KbF21roOh_YKnF4DENhx_GqtBuJSHHiJwd4A_MFoQy1pXCwNkd3YbM2gZDGnmPWqDuVpzoA1eDBCMYfFeqlHKmMi6WZ0bIEPPtO7v3soGsnZoACYAHH9Di_4sDwfkwvUqfbrvqysVNpK_ccwmBPgBMJtMetXjDul98UENDgHvzAAIcnhyvg
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcJHZdmRGkLrvvAzLL5SYQSCl9QqXFCPhPbGn6hNGkW4ctYKN4BtbtdBAhjlBWa7mv4SQnFytKcpUbTuu0-szjm0e_il3TqBTEHOeIZ0NynFkd--p2uxIGsxDEkBdiKImnFXCwTMTgnix9Os0qqTnNq-HOSF3yz2P-3e6E190Y_OPQ-9wQ08mx_dS2VXpBBhrHDWfXM47Z2Q4jMc5ruNfF0Bz2KM1X9ro6ZarXbCaj3ARwyDBMwSl_i03M1a-uzC96AiQJmZz1VON4DGi1cWMZF7QU01ul1QNz0snyg0BXImuQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPfgsmgiBYXmvjidVNyXgrtF2Pl9Udb52TnCPBf!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
   - name: >-
-      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcKesabRz0DWnlukyVw4JWcy8x54af2WDp6mvOdiVmcjNtkGBllCFCxFadeCKEtZi_ZIB8L4vxd2XW8G-_r2R5Q1dOLR1fP7dYNf1AKCEIBvA581er-u2uyHwVQt58Cjx56MtXx9-ZyrW-Qv9yH4rqcMq87wxSfLyWM4EXxqivjxlK6wwHP0BPh9fLas3rqtvAIjWsXtJZohxAp_Pyrb7rYaYn9RbASHGc5tVUtvhL0WYMXgojH886NOYFSkoEEkKvXPBk9DpaWBXpp5PdVYYgs2YYl_vbRSchaiyDAoVsbQKg
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcJrrX-nuUIPTffdK8ZDgqpKY8VSiUTUq4_KiGMko34c0C0GkznizQBlGXPEruxep3Sr85nvz4-Jr1DRZUhu9HB-qSTYHMyTFSgTmOz4qt9I_PuBxqitCIX6ZoS46IQPYPsvUa8UrwdiD1D_ed4yU-gjDfg4eYvqVXQSK4Lx08GQpyj46uDLmaMoGUQJqTnJxfYDFY6pIlvRdxo6tdGyxXiLRQDfYJfQYsqfe3BPJKRI7uhgT9f9d44Ol_XntbhaJM9SE-blZLgNm2p8AtPmW7-O3ZYpmARgdzqAaNYe7dpozg
     widthPx: 1707
     heightPx: 1280
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPhxVv-o3yLkEsdwIK43SZ2ffj6HXxHcj7K3hxV!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
   - name: >-
-      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcIzdLd_Q03z5U1QbP7hfh8z5rcsEba3EqRedw6I7wu9-otHy0dF-OjLrDqyOWZn8MU8W69KXml2BTayW5YrdSVYYhoiYApsmkjgjwKwok1DKcZqZxpgP135g5ook_q1jMcloLyK6e_lS-nBqqdvnGxx8uaxYXzANgNGQmVnN6EF8uh5D2pDSk_DFlHoxXIuZDOAQ69q2bCrzDlNrhkL6c76LOOXV9-eUuBJqt2fFargxiDmjSB8AK4dXjNjxfelf3_v7kJlHfUKhRXAzmgyDjzrYGmfKgfac5XDxYTUcf_qdtsOKyIgN80yEobU4lQ2LxDFQyc04mRQVFRJDYxVimLtbh0gbh8Oeb9VfikEdEqkur4L7jasqk67hA5Hw7UFkxVMxVV-ZbdpWKX2bZitNFoG2w4nIzCl28GnZ171jGV_aBvV
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcK-aBcVFEPUziCmpXEX-XBxBeApZWJ8Gm1VJuLy_s8HUTfC5y7nCX58QYE75m65Op68syj81O3RLkqQT2tYbL2gW3SoQEo6ux6qm9MrtClqC5z7HouGmgWXhslzJzDQTAvIHb_OEIm4_TIXdisuZpAvKRVY-OWvPuICKn8q40F5OnPrd-2leDBhMiQHV1PpEkf3UCasKaoJvSoB4g2ZAQTmMJMeMLHKYozoCFXAj_FvjUlWQXRKI11PvCuczEljOwOYD1yEYZRrDOmz-cRHpUloZ2OMh9J6TaOmjpBPK0VbZDX8Z7TsQA6Cgzv8tjZtB1VVJpfRYGmCxEadK9EXpq-ZjZA6oPco_gBm3B68A1Lp2m7EkLmMKvm9ITIfl__f4Kga7NjDKbRehULttY-Yh84lPw3i3u9dxvyDEHblg7B9R8Lw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDo9HAkQE!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
   - name: >-
-      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcJAVa0e65a3SnYuZxqP6GaJpoJ-08jUJSOaNsV0DkFVdJVhN7OXPUo-MNM7kl7Ief0Hn9mXgzvvogttjT5cZ8FQvHW4FOZUHMKr0T_6WxtnvW2UGqRCeMeFJHwrrRkB-Ihpj5Q_legBiD9kO_jWVDwFRhYN0kip-Z9ZeG-W2KbFSVjccKlrPGQgXX96fTNeSm3_kDI4SwVJWOtAx4H1tnRRARHXaqi20Vv9aYcnye8V_Icnl_8hRsQPiY3AFZOb_d84xh70gZkSeXAY9no8Ygjra9JtyOnccjvtGGuChSpO34_EDuDtXwP5YBw8JPPoCffS0_fzV9O3LCQCCBg-e9r033y265Z1ohe-gLHs-OPeZWeUuBv7PDg7vj8ZwzK8jKbHhqg4-qxywHDYCsEi4ohyX33CwINFaRjrDuJIP6I
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcLpNPcOR25VJL5hLnXRCPQ11k9ogXkIsK0_PmJYpPcOlFGP8ptXUuKemsNtVg6AuaLCSmNEmukmbYWDriLpCTY8cAEZZYWzuecrM6tqu71ZTOnOK0pPRrY8uG3Tttu2AoSlfl9okg6boWNjxffTsCYewY2gNXoScnwTlKdZ0pN18LB43996J1cf0W1rh_kChLWZOuhxCWdE6J_bE5KMQ-UpSOOyBrSyuCW4azaN2D0s15My1nZcHKLpFnM0gMeCO8jrTjBZE8ylBwJDgH5sk5AHAilDVOxUr5FfkRwJTJqp3_SWyH1E7auigVbvekzR-48mKZt5Il5r7iFfappS2Yqq2fVJIZUnPUhHO19FxGEkFOe8qoS-Wzy7C488DtaPombdlLLmn3ZOhtDmZ3ZjIg--76m_vCPG2-dWjGLmMmY
     widthPx: 3466
     heightPx: 2003
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPsJ7Rbw!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
   - name: >-
-      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcJ8Dc2SKS9Bk-h9n4d_tmBYml62A8aSqxCOQBtZcMY01k8BK_DlOD2t0jvzCBwGGMcK57NcEnGW_yAwXb9DjCARmkMToYKyOuYl-D82lrK6eFNBUslyIzv_JPGS0tmgH3bvsC8EAM3pya8A4sGLJC_pJoq4JNwUkJrcULfpx45dPVPbbbYNo8gp4ZDLcv7KssQxDGfNgtOsYpyBi37d3_NuiDJUrQ7qlyN0z-8VXrxRYj8BvyA46kQi132pxIY7wZXwzFXFJCjWeS1Kave1NAd8F8n6F4kl1HKifkVvRf1Ff2rf1W4bYQIUykDpkY7zNvCQo1N0leDxRj8wV_tUGtVK5YYDMVqxFrxnKc5uA4NsEimXw8MDc6GaknfzOiEYuLJjCObQtXdfm94H7Cz0rW09eixdUh2Sm8HVxI_3bT69atVB
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcIn9EfQ1WPQ6CWtb1tCA4c5IoOqotdAZtkfbpivDDOtFUkSMnagbz_NxMSrzjeYoUnSIXr5YRKT1n8yeLUijqX_bfIuUbmCIRvD47Pioce0QaWmelMcBfVfmZIf3962TuNrgKHeoq6vYPCjQ-XKuym01wDwi2luYNeSFvsRXUQ57q8nDe5KYVobpcjCl-PFNHgtPNYlgMJp0Bc19ROklxXB3964arQ0Mbj0G62oXtIZx5CPpy0V-83TTPDfUrm9pOOu5rcJ_8K3LYgqI35zCUoMGdBIlapAirh2uOtU2mAzMc6fm68pIneE2TLndLq9acogR8GIodFHGZPS0Sytt6QOP66CyjSz7vHHWGYJxKNROkyTBDzd-cbUkVSIOx_vxjgBSycNHg5ZG0B-TlUxG51LXztqLfzj-0UFwWx_AoBJ5KdA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -78,46 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH0pb-ywE!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
   - name: >-
-      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcK3Ef__NpNJtCJwiLGusgZyguW6OESw4aB3vsxx_tkXc3kmxRlWCBeRtwI64YYo20A3mU6ZDIs3iN7DY3r8IxCobuJxoyB1VGq3IfTx6l2imP9rR-wVCmrsxT_nHRhBFD8jDn7CSgrBTo_degTe4e9rhOzho67Bs6_GOQuQVDTSYQ5sZFB1WVUn6E3CetIl6sIUAyxH5AGiRocmbM1iTbdijszU-lRvAGz_DBaG8ypVAg3A8JC9FSL1MqMN-U1DJKl1uRNa1EXiv9PfJXRTdcjos0rxGz_5mQeMdZeFFbcGw5T9KJ12F4YTJkzIAh4VUz1ggS26hyqcJkwnDskr9Sa2snk7xcFkNSnrXGbcAid0outvL9vcWWPWnqDfP3LKjFskHOl1ooaPil7pmFLNNqq1Ho7jBcSGTO8JgBca7pE
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: V W
-        uri: https://maps.google.com/maps/contrib/108821399952689735741
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocI_dvqb4C6UBLRMz5Q5UqoTdeXbcMogQn3do3T3U1zeWe-viQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH0pb-Ww&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH0pb-Ww!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
-  - name: >-
-      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcLPsILGgzMkU3lL5FZYDBYujJ80BGgJzX1mocWd3OELF5bouwH6lUAPZJ65GVNABBiT-_tH6zfoAvvqsHmOWxtcq2qWTUv_jSaaZKMxKxSwPoxbgi5VZJ3qZt252Ic6eIAPyegpPUr96HQtDprjGiQXk-M0vzr3M2DT9gV8hqyUI0pLX3AsNJZknNuFCKu-iKZEXXwH7NETSBqudjcSrCUb9wOt9A9M8zwey8fx7qj2mOuRv_D6TW234Y-Vi6roQ1xPQLUDjt3oqQj9YtXyuyXF1retNdt2UknX9B66fA73EA
-    widthPx: 1280
-    heightPx: 1707
-    authorAttributions:
-      - displayName: Shoshin Sushi
-        uri: https://maps.google.com/maps/contrib/102887073525220724127
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVcRviRKEF95ZRyyOsxmIcwTaiitTXH_QcJCD8gsS9l6EMHaBM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMpw8T-uUD_0aaK0NG_RzWFqfkDMxTSDyo_zL1y&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMpw8T-uUD_0aaK0NG_RzWFqfkDMxTSDyo_zL1y!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
-  - name: >-
-      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcJG39CokSU-eu96qirVBsmdGY7pYCYQBrXrmGnZ-ZtayxVI1YjL-BLkH3kPjljqVaRUgQKc-dSdXKPq1hbnOuGNvwTeHpEaJB2KBl8VmTAgdMrjGHDcUj28S3mDs3jx8BAFhxiW9uDtE-18gKsdZFfIEttSZc41NPds67VmW8r-o2Gn4lu1oomjcF4mXSQCM4SVcNe9GfXaRIP3VueQfpBQUtFpkv8udZAUAf3agpCXUS2s0x_B4uqWptO6bseHWWWtPwemcc64GpMebJdTj5EEumhK_WMLI6Uj8-KDayxEEQ
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Shoshin Sushi
-        uri: https://maps.google.com/maps/contrib/102887073525220724127
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVcRviRKEF95ZRyyOsxmIcwTaiitTXH_QcJCD8gsS9l6EMHaBM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM-Ee6Gvy38WHm7IUKCwiGYSnpLYol14ZYyIsQF&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM-Ee6Gvy38WHm7IUKCwiGYSnpLYol14ZYyIsQF!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
-  - name: >-
-      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcIN-jyIHMYfD6SbLvw7hURi8cht_7WkFoFGsb_Rxq8-DeMOBJIGvzbU1f5GeFmCUnSkH5DkYJVXbwsYeIiw_9P4tpGM7WZth7V_b2OD3sUT9y-CRvc6cM4dVOAV0fx5vifPW0zViP_Pgsfw63tFk0-SkdTSEqV-zSSSTmfoNKqhf854Q8MwnKl9QjnaB7bNPEArwcDAKcaJ_3BMdpzTBHkU-frjv5Co3USMq5p3_It8xsm8X6Eys8GorIsj-5TtUG8qQ7Fhf3zWU_teJIpAWcKJeBgvMADvCjfTb0wtfp6XyXoaI2tq4xmMzqxx8rx_ALB71cP8Wmw79YAvqANIfmbGRhViEK6S3Hgghq8J8dUGrmlb6GVK4rGjKBZVK_3W3RhCKl7LI9RbaRuGUnvIgf6L7zV-uREz5zuJGatSq0LHDQRM
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcLuTcdrjnMl1xHkRwtjj4rpC5TINzcBgnNqt966y58zTHhLu42Ehn13fQUCEWO8563efMxIxc54hhrtOIVZXkwb1wBAN_3xOPIxU_ouFCLBUOIiOEvwPQXD7Dt-QkoSDUwFVGjKUMZTvotGQXy_ljzC90WN9ik1o_ljPqT4nNS_8Uztuxzl-6XXzAY87V8Bbl54eJKJ-CXDDC-g4HZK1sdly3V4KDzOOmr0nD9C52UcrmaUSPzRjc78lUW_4OLlmvrxTk6q4HCopvbIQ996Ft205HGHsY_e8JGNyE8t9b1EfGRIW6fHKUYCiO0W-IeWgdMJVopSZvx_ye1t7aWgShNAGHsUK_hHq017ShxmB8k0gu8eqM8Mirf2V9HlXYTkzaH7wDdrOn0DtGYZE0e6WQK6Tt-qQuKKO-OC1eOBvERSJ8g4
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +91,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH0pb--wE!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
   - name: >-
-      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcKXYfxHBGfrabrQ6kQXu6DvAsc7LoKzRHZhXPL-HtC1c-fo1yKOgZI33gAWbcTQRsuuzLFclT01QG0NKt0fI6HZgCZNxfM7KP2KRMc_sb0GXuhaNnbu-X07eyFD63yH70zuex0l-ohTY8NsQJkzyAjFCZNMfHs3VyUyz5bjH9h11OuDCVg-5nKO4mc6urbym3dGcp0ntyYbKVBIjZVj9eNczHhPGbFF0IwuntJvB7M0vNZGZwy_I-59qSWtE6-JdOPiipPtaAOvENe3bklI70fVDcZJquL5RYXnj73PQBsslXMqhHnYx2QJiA9raskPEkEmWByWjpxCM0Ae1Vm2OktaTTS-M8pOVktsyhqo-z9AacOVbtZ1VIbytyRFL3XNjtslpxQMrMdK_T7mchFqrKshU99tMT_m1NDTpCGL_HWLjJij
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcLsq1BftZiSP9VZcu8V6Zx_A2nzhCvS3Gv_L3YxnYVhd1O0JmVphS4WsosDQa593CkIi7KDTsq74G3C3BhIhBKP4xC9qsnbYTOgm1bakxuZMliRNTCBFibrY_aWDAE_RthBaXh126nD1EyK7nAKM1t-L7vx5ioKZWwck_NoleFHau7-FJEFW--TP7v_DtlOA1TQ2MjbXPs3ybC1qPXqHvoisXuEqr6QN41dC3fV5VSvn10XWNvtS-0R3GvBIUx6sS2hd7d3YYHzPldvuekmw5agG-fVHmISo5x2QV4PJEU58Q
+    widthPx: 1280
+    heightPx: 1707
+    authorAttributions:
+      - displayName: Shoshin Sushi
+        uri: https://maps.google.com/maps/contrib/102887073525220724127
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVcRviRKEF95ZRyyOsxmIcwTaiitTXH_QcJCD8gsS9l6EMHaBM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMpw8T-uUD_0aaK0NG_RzWFqfkDMxTSDyo_zL1y&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMpw8T-uUD_0aaK0NG_RzWFqfkDMxTSDyo_zL1y!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
+  - name: >-
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcK1GUrwngL3uYfEm-L9s1uUIqs4yYSnEBrq4rgsVohUotVxkACTzTbAVMRaw8q9-nCOurqXogtvmw-4blEMGFiJ-MKhnllLt0xl2xPgrUYVK9cYG-4c49LR74JZg1cj3jgqdRcnnJxc3pcV8SA6l-Hw9HyzeBZE3CrP27gWupQtXbQy9p9_kt-4bpyPtfR1YrKerYcVTsmCo86-de5eQ9GIjFcGmUEExdrS6XyOlva0YO0fdpBEM9Et83JqDDRoDCBgDpBTl1lXK6L5_sme9n12i2r0T_ge_8M_EtCv-oSEng
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Shoshin Sushi
+        uri: https://maps.google.com/maps/contrib/102887073525220724127
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVcRviRKEF95ZRyyOsxmIcwTaiitTXH_QcJCD8gsS9l6EMHaBM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM-Ee6Gvy38WHm7IUKCwiGYSnpLYol14ZYyIsQF&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM-Ee6Gvy38WHm7IUKCwiGYSnpLYol14ZYyIsQF!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
+  - name: >-
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcJqCzFArPlLcXF44RS-fIvszQUssWgyP3UhziPxDuk-y7xCCqM9YNnRRPdJLU0lqaekHzl3QO2UaJIpTjIDe-i1u89wEGdNDpz0VVOTiDxrZKnHZyT9D5W6GItf_cSSRpnT_USqy8RNYuXdPrQbIiWJQbe4IILpz-C1vIpfVvuYdLRPtb10TYbrjLnQ0uM9DfITI4Wbv-ekxya96JpY3PnVrZLrG6fiKAVhd8Gv2DDp3jIV--Yoftloh241BzlOmJRqbriJ-tqyzGKeOk3TrYYaC8HB-JFlQ6DHAeu9xhoXd0dxTBcQFUfZH1o0ozaG-JF_M2aacMyTPbHBma6MUtGY9WiR_3ku1-hjl-dyBFU4iMjIwWYVfkjnr5Hj4KpihbB6qPVF5RmF-3jT12WvYeKMNZvlLsXtJNTZciUCT4_qQbEl
     widthPx: 870
     heightPx: 652
     authorAttributions:
@@ -139,9 +126,22 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUsH8o5ZQRlosiP5-LGKvIBrd2W8tRLb6Y48gfGZ0NKEHZPfn8VdQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID36J-p4gE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID36P_N-gE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID36J-p4gE!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID36P_N-gE!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
+  - name: >-
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/photos/AeeoHcIsPEFz85wYPZBu_MWLbyYn_rGyvcWxcJyL8h9uus6QGbeEkqCc8APrDzpxg9sBRg16JlJKsBmctq5fGOKQq9Ffqy7eK6hFUICbD0EemRJvCifsv_ykM-QnMOmSYJC1Ym_TxlmTFEdwzICWAEEtxtm6RW4TgMcT0ZvOo72EddyTOWoMdMbKRYxb9ORWcznSca0mwIb4KBIaasMEpnNth7_v-Jw37JdfSpj--pTMos9GVbfy6FOxRWh60sN40SzwI9fFOorGB-ywruP8OsG-0IhhO4C28ykV29bo-xNC5-9KdA
+    widthPx: 3023
+    heightPx: 3439
+    authorAttributions:
+      - displayName: Shoshin Sushi
+        uri: https://maps.google.com/maps/contrib/102887073525220724127
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVcRviRKEF95ZRyyOsxmIcwTaiitTXH_QcJCD8gsS9l6EMHaBM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOxqKS6FK4-fL9V76jkOaON8tmw1t2-Zok52qFX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOxqKS6FK4-fL9V76jkOaON8tmw1t2-Zok52qFX!2e10!4m2!3m1!1s0x808587c751ed6c87:0x64b03525ec95480d
 address: 2450 Clement St, San Francisco, CA 94121, USA
 street: 2450 Clement St
 city: San Francisco
@@ -168,8 +168,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808587c751ed6c87:0x64b03525ec95480d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 5:00 – 9:00 PM'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 9:00 PM'
+    - 'Saturday: 5:00 – 9:00 PM'
+    - 'Sunday: 5:00 – 9:00 PM'
+  current:
+    - 'Monday: 5:00 – 9:00 PM'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 9:00 PM'
+    - 'Saturday: 5:00 – 9:00 PM'
+    - 'Sunday: 5:00 – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -181,7 +195,7 @@ phone: (415) 386-8008
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.5'
-rating_count: 50
+rating_count: 0
 website: https://www.shoshinsushi.com/
 reviews: null
 parking_options: null
@@ -209,6 +223,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

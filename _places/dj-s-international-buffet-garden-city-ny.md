@@ -13,46 +13,33 @@ description: "DJ's International Buffet serves delicious sushi in Garden City, N
 place_id: ChIJK2ip6Ih9wokRWp1yhw-G_D0
 photos:
   - name: >-
-      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcIijHHcmSfe4HE_UQisv81Las6FFF4l2scGjGXsYhds14TSABOTEGZzVf0PV8f2o_l1rdjaPMex_kun0f972VD-20b7C_-XxR1JfhqD54I6StlKiESCdej4iJMUMQrfgXz7vGr4Eu26uipPDs8LJDxGVPpI3ggXZ1zxFWjl2gKaNcoC8i6SyLJMJZztMTvjfkHMR6XUPl6F_JEOnJXkm0MrimVOfkdRPFBxAM_9uAWBocHPl5x-vh5lwpR_0ZmNYrSTT60gKjBVXGKYvr15YzbMCyJooVLPGuadYn3Jq9vy7MyyvLpRPA_mGhUIZ1AED4dRwBuPaCDG-Oc61xGr0n0i84xq_th0djb5kAzu-9qSCSZtoKiSxnbTyJZXjlfQ2ULf-gPfmaCwq368QMUjKISJlHs7UywzXUEOm8I6uZzxoj5E
-    widthPx: 4800
-    heightPx: 2700
-    authorAttributions:
-      - displayName: Richard Wang
-        uri: https://maps.google.com/maps/contrib/105829764966682835606
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLU_Fa0RnBLxoMEAJCEaWT7MokF0RVsE7skos8FEGaf1lrmQw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdqKDI2gE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdqKDI2gE!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
-  - name: >-
-      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcJAggafB43TrvgxfcN_MqDGAiLM6_P144MiHe2LKQdaxn3TvFHNn68YHehW8eUMp4SpmBBYQvUkQjt7CUPAyxLtWUHBJLhpruDHJlZz7ofU7v218Hx32vnuhvYT2LeAXG3IJ3MSaeoXbbAZ-dxlJdEOXyeDiymZVTlWsidMMQln1gpQiI1gRgjyZMIlLe6iexTBpPoCkgF9si9Q6BT-f6JxuajVW8tN5iOiIPBwIlXuiFMajjCeMGBYW7IQR-EJMuV-RAF6Q1m2tAaYxxNA14m3MHcqce8_-zAbfy4phMjgxIhXqWAR3-knIiyA0bpcqtQk7H7fK-l1V2zFfHVS60ZH7QSXqeRxF0Ot4ajS3NE3yQrmBzwpMQ49iHBhnjjP5TpmhE1AjB1m0eZmjBq0ksbKRdtB75Oay5VnT5Er93NpHgttxgybv-4cRfvSXQ
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Cris J
-        uri: https://maps.google.com/maps/contrib/103953798914619685448
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX1Kh_cDqVlghARhMfo-7OFcdjjfo_4nvGPU4ZV6NRhuHwmD_oKsA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3ilWdRhOzGf6_y4ADlqt&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ilWdRhOzGf6_y4ADlqt!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
-  - name: >-
-      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcICnLY-9r_07RNsp-fh52CKAYFxzF8RLhwrYYpw38rqCx85_u_LiGjYvbYok6HtSLBNFtwEisQNiu5j6fFd3arZka-LY_VOZ49s5frQOK2h7yyvzyH40U8GKUl3DC7NuldEm36ZQiDKKDSxQmuZlG7jAtcWUdq4cKK4xaBVUjHEjn0Hssk_d8LfxdNPWocrtJBJmh62KxsgLuZBfln5Xw8rB3xHEriljaym_CQotdZUGOBZxzs6WXHUL3Pt4mmR91Ns3-ZRrXN352PT_k_TELSfFf-7b8jpP87QpvmPMOh2dw
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcLIircBR9lRnoR1W_BgfC_YWJ8xd6A5mpdXgVz9Ld26c0_tMVeLoapJ1WSdp0u7JImMs8Alayky-lIWTQBmJJ7TAU4gtYJuJ-xeYqnuT7lNikcBtJZplj31sG7iHit5LlLwwBHsXfi9BMB-UiSFHtsuDA-ySpwFqsGDRz99Y_EH2-SVihA7T0KYTBwGIOslg7ds1uChTfEC86fAR2kTXJb-KCm-qadqj0eh4vGzBkpz3-qykTsVj99O9Us5oczaRkvcATldpWcmnlZxNTopRfGbh4eGiwvYMAcmGzQFRk64cA
+    widthPx: 2275
+    heightPx: 1279
     authorAttributions:
       - displayName: DJ's International Buffet
         uri: https://maps.google.com/maps/contrib/104781725535745240441
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocJl58yTFEk3nu7M-0qF46BjneY9Ai1GrSTwFrZl4XgbqgGb7Q=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMFYm5785vU1yg6OehIJBlbLMdTFM63SsFWHh0o&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipON3Kx3gOIjjl8THvgaU527HW8Mr0vv_RUXKwKg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMFYm5785vU1yg6OehIJBlbLMdTFM63SsFWHh0o!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipON3Kx3gOIjjl8THvgaU527HW8Mr0vv_RUXKwKg!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
   - name: >-
-      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcLBbUCBf6ZtsK73pQJWb1i53EWelNKmFuH7bzv4dg5TUjLotT7JpBnEeVIUlo97Fvk-R7q592Vs67nbbFkfWfb5aJc1T9DFyaxo9zQ8ODLLvr_mALIVZuhnZJuUN4mce6A2jzepjEWXcxV82P-QSHm4hvXwbefwvE4GsYcMjUzK-bRPFvQ0DAkTzOiiZKatfrDKXcYEqiaIzzdTQrLvcOJWMaRbX-kMSqqYYFAxiyq8tYzw6Gys7uih6NI_UuLKOp_98TKem-tSfM1l3wWFBLhzGWZE4W0s_laxDJMvI4OT8fgA9kVUiucLzlA6pggHqDZxcVTut2lbDtIxC-gTV1ClREx1_IvAe89tHPRVkCOwTNhj9vlC5YDXHRv-NVZpIG9ALy7xjiHxlIuRwzmiJCvfhOuWWfhI4iElQlf3uCg9FQ
+      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcL0dk5gNhK996bI0pWlI-lA8ffLV5MzkOmITetgkHULw_jVJti2bRte1vl8vzWBi5i7ENpVZAwCfy942T2uU9QyK4H5-izPDcVBMyWL-7LUvG5-woEEHe4VMCLmXiSTeoQyY_Dv__s3sPOZLg_mdXE29Wkh-NUyUX0kcWnE8UVzZ9QlE3FOuStn7NaiW8NzElOZYA7WVQIRiMXejpjT2iWkwIQw4zykOWLJjsgauraaZELjbDWlMLfWsmZiKcrJnE1fXEdQtKhMcN1b6PjfzVxViWiWQP2Tc_Crp9MRZhpLMA
+    widthPx: 1279
+    heightPx: 1706
+    authorAttributions:
+      - displayName: DJ's International Buffet
+        uri: https://maps.google.com/maps/contrib/104781725535745240441
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJl58yTFEk3nu7M-0qF46BjneY9Ai1GrSTwFrZl4XgbqgGb7Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMB1liMPbiSVytH01TCVPnUkgpM2829SxIt0ghl&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMB1liMPbiSVytH01TCVPnUkgpM2829SxIt0ghl!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
+  - name: >-
+      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcK9oJDFagBt8FZmuHfS4cKvf8HGafEOoJV8GKGieG8xrEjKfXEl9HyCwBHik2xop2SBv5e07ppSROpuOK8FynwAuLce4PkEsIwk0B8lLhghyvnMekSj8bNITRwCe185CUl7M0RXSJR6wIoS1Cl69buogNXojzio0eXaEhZzJXRyDQkfbL8xfOtEvyrHCKE0ORV0bETjmmgfVwhnpT0aS6Qd-Xpt0PNlc7vOdbT3YoWgBdzRfbl0dfYA4d1pJ2xc5O0PORIFSKN7LOH2TLKRjb2px2fCQI4dBjeP5kOSdlpU90d7Xst7IXPm4f3ra_D_tQlP2c845QYCSPkBbasX0vChjIKkbNPQFFxzMmRUcS9ZnuGrdNsemekGQYytwRO-jCtN1yy0x72ACc60-xK0g0tA-oDh9FgmSH3FPVzp2IHFvw
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -65,20 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf9ofBcg!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
   - name: >-
-      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcKwLQc2oYZLfe5tcbbSWoDmCOPNcvqpSlfYCOIwH7wICih2V2hhmEDgQnd8do07OENl_yi0ArWC22d_lewUnW61kEKPbCjnr9JDYnNT97sh-xRWiYB8fSeaj_VtFQaU_PCzVyiMupkjZPLhqemHHAuuc9ol7nGRQj_b5PijUJQMxqBDhHGfk-gARL5JFAU6VXp9ilbI19Tlqbw_qwZQkOlts52fyt1g2eSv5pT0lwD0vA4XPuvVUZyt2499q-tPcCZkjBZ3C1vGZ-j_2jnOmHZdbSxc_IpNueIu3fAROKlKvSWk3GgBFNLroconlupVE6Hq2axaAaU66Bkcl5zGndRJ3a_4ItSO9hqMH2w4GBLyGSbAvW61wFF8fAqZpZVT3sCStUC_ZE6lA2HJzNPePcvymbTbfrBt-rt-0H7cYCl_zVAh1n0zLllmh8156A
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Cris J
-        uri: https://maps.google.com/maps/contrib/103953798914619685448
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX1Kh_cDqVlghARhMfo-7OFcdjjfo_4nvGPU4ZV6NRhuHwmD_oKsA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydER2SP-MWf6_ugADL9q&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydER2SP-MWf6_ugADL9q!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
-  - name: >-
-      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcIvuK6yksP5JZGKbyG2Uqei_xn8w8ie07bG1WQ8VYmUmYdAkgq-8k3PiQgKblOTYJZ4u2ea7trOlkMbzI_psQ8uHkVGbi-i5HQO9a8POSvtVTetNl_norshBkhEMawWccGPF4925atl2PWDeHn_DctzryzuhFpN1CA5ESkBxGIo-pZELiWVkzCvSls3t01mNn0ph_5m0LubbWNiS_Yc3SmTPkAPSwhjcrrOuWyLhRJz6UIIKPGOplU3Wq26ahLrUhX1_zRRpOqURSWEiXqDf_I5m6cca8M6aHaDqRDICNKpADiyS-fbRJv4c0zocnJozBwizzofrDWpCqvHOCbcDT02mPHOAUI2XbbjM0SOHY8n2T0idIeKF5_saFRo_rXE9sh2j5jbi5qOgqfPWUYDZFzUXpFPtzyypueCkUziYUpJqvar
+      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcLpm-O3v0vqOBUF2PVEJf1zfzu2a7o7copU28To5baV_UHuiDlsPqiQyWCxWrt4Zy3THzf8_TJTpmzvdZJCHf7gClcWz0QVUNjoqp6OL7RtbVI69DdXqzzUumc_7y4U5ATVAWACiLMoMJSORA77-iylQto_UlzuDtf9_Ooti9wDnWaeu8qAV_URvRR_PwsPgBlo8_p8v7yFom9JSpdWXKwWKnMQBftqRgyl6Sb77XzOtfmKhAf5ASKOVwmNbdx3tfFY9VKxfsCvA1gABMHqDJ_Skt_vpiloZQFQZ1Gh-uPV-JedcuKjn141BWF12DuCn3ViyYZ9QbKsUC1z_QSEf2QzN3W7apvnZeqpn8TdROAKcRvNjy0w0gUozGwJ56rVkgtkdc2dX-kgGRuBsT-jGxl5w1_a2kad9jGlr0UOX-2faQj2
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -91,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7ncWLmQE!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
   - name: >-
-      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcLAXdm-3YlMYyKPLordri6JoRbq5nz-0Ll95k6Kjf7a-9kao9nxGDX-6t5ab60fY-lJujye9nSD3RYbGDP24bHJ9LWNBzklFAA6csxe04No58zxs5VCZ6nR7M8DfRrxOcQLr47t8N9KfVhnaLyTf78JrYq8_07ZHV0Md8lfiO25jMnNStzeM3qG6if9Ei_3TcpvPADzl-ZM-bQTIXeRvMnCIyeM6dERFWIUTBHhxS6cQgWUzsdQ3iPHlYcmZwUIv9h3GXdCWjCX7-0uIhYfHNEjNOuufEpfIkhF0WlTWdpJpdxxwZv0I_btgESmDfqC2dHoil6hki2VbtZ7oosKFmtblmaYktsSSQCueNraX8wrS5f5q0h0gv9Cq97Yv3GRJGgsKuVj6qyt-1UgK7ULOB_JKNVxsQyhwqCggQIWX9AS7w
+      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcJgd7wlv1rGOyBODvJuFCZ-HOiANvlFF_lLMDEgQeU05BEPxx9k4MY6y0Mo9SgsjAZ7ijTZZh7lRS28HJmO7XXkKubUfrktXMfy7JgPFApOphUMn7r_sNXTG81SVtqocRm8ai6wAi_i0wTcuK437dPl9scpcaQ85yYJGPhcJ3ydLKosnsVpUYNRzdfAaXQ2fR1Cks6n9AzB_BrNdUS-69hKR-6KD0iAVnZscjn9i_oxvuTZqTr0oU02YW03kpi-_zQ0QvXmPd2gw1UHC4gdFWA9GUDCkkdXeuxTZIzeMkwEZQ
+    widthPx: 2275
+    heightPx: 1279
+    authorAttributions:
+      - displayName: DJ's International Buffet
+        uri: https://maps.google.com/maps/contrib/104781725535745240441
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJl58yTFEk3nu7M-0qF46BjneY9Ai1GrSTwFrZl4XgbqgGb7Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO5_XC45u-fi7sjhsy5-Vfi8viznNPkoMhLQ5Tv&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO5_XC45u-fi7sjhsy5-Vfi8viznNPkoMhLQ5Tv!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
+  - name: >-
+      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcLvXz7--rq6pAAHFvU7YDrwH-5jyobY5F_hKK3I9YXYm7X39VTep3fBJH8qnxC7ktnT3oAcP7wjsq7GMUjNWhGEWjP4VgJxPniG1JaOIdXwXMe8ksL0T_ifuVw0kOPf_jgf4oYPMRwOcjGivHgsB5O_d0pLArcUv4z8W5_y95fKZxRfpKr85e2sJ5RoDmWBQgosME9x3ArgXcE_pCa6a2CQYpGbRuWJ8KiWe8fjTFBzyLdaowhLTZg0hev0OgeSUCu0NiIZSvdXED9-8xSbkPz4QNiI2v0RM6QYRzdrwiooypKPtZwl9Y6wNQGRpTZZVFIMXmypROOOY_zkeAdj_fQYs5mDoD84jG1mpsq7_-Nwu0bIAIfOzHuPtNrqWl9VhfF-c4UY5by5LbQ5n_VeeOtGXh_FbZR0QM3dCLoI1AE8YQ
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf9ofBMg!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
   - name: >-
-      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcKr5hEQlRfnXxb1BhZebnFFntw28wTWz4iE-rxOOdK5dAKFyP5DEgNJP3yb0ugcWCgQpAjiENy7tkvhgxT8zFjmbuRjgjbDdSHyvD1xJxUWVoXaQ0JdusO6FYj4qa4nJsYwMrq3uiMbupuZhr7n5Fxpp9obmnUNG2P5sEh7euT68Q2KmCnWmUamsx2gSIWkWC9ULNImHAAnXG-_VOOoCoibxcILDQNmT9rLC-FBGcBsbWViczb0DNU810lypg9sxaamPZk_DGx236uOXQKjDmXcZsTy_L2k-_Lku4aBRucvkGng7P5E_1MfwV-0332vSt8ZByUTrslKWNG8GqmpiDjisTFAm98vd046G-Y9oKRjEu9OPpPFkITvjUE7Kkr3Lgaj45jIzUaqia-zknh8IhNFiXTt6iba1CfWdnkD_DH8_g
+      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcKt40uSuYvv8EHzVhOsGyFSUZhfLE7A32XsoGNxYYr8TbebvZ6UOI7ydt9ELVIyunxD12R67FrhFwvoFTKncVSwJRH5oTMmZJN-4_U25-E2nkajFFqXeYP4z5r2B3aEt-iDzRE5MHHGnwVL5q8gKeK31Djsp0_GRGyotbuKB7TlZwzpR-3CZWoYkHSZrXMzIx2UGDpTimb6pEZc6YELWcmokbvOj6rOb6SUWl1JchezSTqbHgmTCWJxUXlweaiDzRMB27c5mMFqHxpqcDdp5HiAF1MTJzzdWlthIv2bkzia5etScGQg9-39sDQtlA6CEHXx_DsmCusMtYxFJmIomWyxEYYWyvvXcQzpqy_i7sBLqZziLwA0fY1P0W8-b6qmUlq7XNmzmQKhPZAJqwnnh0fMFdcsSLXmiMuDxgzNgGVotw
     widthPx: 3056
     heightPx: 3056
     authorAttributions:
@@ -117,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfr6GfGA!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
   - name: >-
-      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcK3wJH6k8pn2g75h_vpkK58x42yrl5njl-L5YDgx4W0fqE1ml5mRT_iLf1Q_8KhYmKiE4AgjF7L6D9MU3t7jxQrtsloUj8dpk7AItqmQfB5Wou4p6D8K1ePEEzYaTP4_y2k7YOZRRfT28wRWx0Yt0ZidLgjzLnGJHcMUhgc94BVRAsWWa2nACP_2Eej-HvK1o7v7Tgs9GeJy_Q0W8BjPAOq77KNa96iJId67ZPFCGrc_CgpBx4540czaKErc2DtXun8AzoslHXsACQAqNTY0N6JDJgJ-xSPlJLfsekJaLU8gA2ANeNkeWilYj741EY4h0XRX1BhRBRvsuiDbOQGSohXxfyppkrCSji_-O9qbpZrQV_0qRyjF4x8cBZeLBKFo_XzmkeIyVC1qSRWgfhgucyWOQEH-turZxvc7wrFRRY
+      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcImBmM0jq3jliDhbUR9UGyrdzHu_33UO0Y3r3wDmvL-B6EU86MvOmDXAIpQ0X7dg3XtBOq-EqDl1LGDEA9dB-QicTlb__mCtY_AdZtlwFaGLbp7rzHKgapNVBX9ZMLSWEEzLR2M3vn5h1dhorgZjumk-vtlhZJCYsZC7pDYz2AAryXhvk75hAkqUibxzFiy3KHneGFO0WQluvNbA0cJKWI6Yl1gqN2jAsv2no4AJw9Q2X15t_9-Nj-y-rakmI1I7Drhp7NgM10dTcvNn_MxZzjP6IaM0v5iNeathfD9Gumadpgo7g-M4GF1Q_TuyidhW3-WTZlsXQ7EIj1oGYPPYh80wfm2rT14-GSBsaQAxZda-PUObdTHPfWy4-J0Szzg389b0QtFoHmnhUS0HBHyII_g0tJF9j-qdAM2WWQy2OUt920N
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Ada Lau
+        uri: https://maps.google.com/maps/contrib/109901027131956443388
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW9PdQxJ9GlV-J_DMvSphuBq-DLBBOd6t9wWFiBtu0iIeCyUNtC=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf9ofB0gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf9ofB0gE!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
+  - name: >-
+      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcJXVVBj2tVPbNx6uqIB66UdadhQ3_708rmgHz5OPblT0zWZcZhqkVUGs8NKvJufaQkDCuZMkrVpopV8_F7QqsgPGLbcg0AR21fzzBT72UBO2zRVwEcuSf6ZsEZKvd06OPnSVjCaCnMgcRlmoP0uN9rVp-_AjxzIVZIpLDFQC2-kz_pbuLAnEqF7Pr2A2vjMa-y5AuQsC4r0AjMbFWU7mXhdO5EasbnewAh1ypjgti6d6g1RP7UGPpErD7FaJg-hykmlA_ZfWez-u5bNRMnlfN-9Csc5RybUBcCtHIe6C_1lCEhFjXQLfCwDV3PxwrbwC8tyPbjaQsM8AaYMCAFtXM4G6wx9rsWDUh8EipIgB1pX8OpEj6E2Ofd3XzAe0jrvD2G99m5v4OyFa2uknw9RWTVrESxJTKorzVy5WCSXzEE
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -130,18 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ182LBA!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
   - name: >-
-      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcLS5YAqUX_Vler0CQ65ByZUv1MnMnD6lTUAMBBpYYfC3PG3WWfrx4-NSIC27pA1sa82f9r64HPzbSLJdWhkjZ25mX4NvkRpFUbulgYElAswYxLuHQge6z3hOi9nAvzBhScu0PwFR0MEY1QtKL0Oj2zqSn_NFrpE-Rxq2jVr9RH1B6WkAEx58bNEPOISoGKwZS21UxNfc5cTDyr2rU2QVFvgRfipDPi9hzxVlLGjWGl0e9NK66qJjVpJ6uXldpZNXCd1oBryknpnuqHqPZv8vGLpdW75gCnzqpImrK9WnH__x6-CuFn49wg9l5gsSb6yvFurjHHF4oPaU5JtOJZaGL7CxF3SaJPPosNQ9NuLzEPliEQncWw2O2RwqGr1SDeLFezXx_OTO0ze7u49IRjnWakZkuGedlc_ozWh2vC5Tn4zdtfF
+      places/ChIJK2ip6Ih9wokRWp1yhw-G_D0/photos/AeeoHcJpK_4l9CuYKHk66uXqPyipB5fxH7oiH0-WjDSU-6HY2k5ZGayb8_2A7cyqByUzzWl-REbmgbXQZWrx7XByoaF-8xhHxFvDnmQMzXl86wktiQnbV8MOrHvb8-GMxvUfgz7fbLUMtoXE_yW6OtjAxwJBbFv1aBjWJnQn6EwFSTJCpfpW89sENRTWUiez5I7Dq4oZolbyxoJW6CSQWkUTRx8kaTXkHD4X4lMc2MOsuaghjbjkG28msL03BSl28U8x9RxvRyrLnOn5jgU7f-UexOwX7kj2O82lk862je_t7qotHi36KaUc-HGr1RHE9zCot39XmfIdQczvcv78RUm4TMvqEfhie77Jct_S7MrukgisoTVP0XIaSXkL_rIv_ZUatzGE52p7GTio3cCtMEtDexOPM4HiO1Gyg9DF4aAwtGnXhCsS
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
-      - displayName: Ada Lau
-        uri: https://maps.google.com/maps/contrib/109901027131956443388
+      - displayName: Alexx Wong
+        uri: https://maps.google.com/maps/contrib/115166580998380782938
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW9PdQxJ9GlV-J_DMvSphuBq-DLBBOd6t9wWFiBtu0iIeCyUNtC=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocLRe4pcnnk1L8NTLnrhf0PJ_3bzl7hlQXXgksHOaPkL6FW1eg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf9ofB0gE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDF7rrGpAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf9ofB0gE!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDF7rrGpAE!2e10!4m2!3m1!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a
 address: 1100 Stewart Ave, Garden City, NY 11530, USA
 street: 1100 Stewart Ave
 city: Garden City
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a!10e5
 primary_type: Buffet Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  current:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (516) 227-2472
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.1'
-rating_count: 4086
+rating_count: 0
 website: http://djsinternationalbuffet.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

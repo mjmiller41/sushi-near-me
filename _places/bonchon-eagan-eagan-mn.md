@@ -13,7 +13,7 @@ description: "Bonchon Eagan serves delicious sushi in Eagan, Minnesota. Try fres
 place_id: ChIJmeCG_jEt9ocRYnl5TvRmLj0
 photos:
   - name: >-
-      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcJHyOEAdzdhcUjHY6elwV4MLlHeUapiVB5myon6ip7XApDRaJzfNlglk4JvNtdhX8Zm5dIebdsIYqa6tN5e3D4sugJmPDdH8RfoR2vUCjyt-qcnQwNCDq3g8L5ms6sReoTUjbp2Jk2LPSh9jcOQn5A3pbnmwlClWCT-ji7_IT3W6iPpFi1bDqA_JPpVz13qONqqW70KjSiY2BWHFumMKzG1XRWxgvkIkd0UfCUUGYGO5-kv5OvQLPYnyyJkybL3MoH8lGi7wEQkni5fEqUJeeuKDGUaWwSFwwRvCjwVXmnR3QoM3mHe5g0ZAjgglcSf_NCH0RuzOKUGlPaze1g3YqGHOUXQK9zH2e9s-rsDRvlmxJciZEyhlEeOAAtVKVnsEp55PY2UEfd-kiTnZvrRvVX4RjbU9B5318WRsx5YYo7-iGNV
+      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcLbBz7N55VHnJcrmpn1kdB3rWB9hDiPqQMOPh9LiCpnRwc5hLiMTqiopBIcd3Z6M6Bit9Hjk95nzSw3RI6ttW9kIymJ1Tm6daeFa-2VdQcrmbrpWBjh0jgedG7drQJ_Mllm6FYtcKRcdFV99vXE1PE6rSxd3VVPXHyJgMnW4MFTjzV61UCOiaMBi7Au1uXBIdV6vEvJMuIKYsFES63m2F3rUsYRHraP6jJoRQd-l0uyKiisCsLtIISoFYwkWRAd_UudAuKiN7VUcSOr8OwoEpjOiyvFTs6nGTpsEbxqFvbaTtnh62PEHC9tHnLtf8GtBjxZzzwcNuQkUXB9Y-0G3AVIIpR8m8l55Yp4SSMhkfuTC8OfgWUSzrX-Pd4Tj5QTRF5-NTPwHKmmXsZ2KXHGVxwnv2HwqBNnFHN2cUblbqn9NM3Z
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5t-XEsAE!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
   - name: >-
-      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcJRiJZuX8WfRlvewKSfLayldZngrg4c5WHb55K9gmNxk5krepLrJPeE-t5m4p451XHAk4lWu-pfXlwSCkBN_uCL6Y6_fP6L9WnQvPy_RNDQi8v-XBW31KuLnyvmquslmZjCfz5wtUnEAu285sAbgS2gadRvXGrX3w3aAyRv0pyqWgWZmGtZpYSnP8YGxMZN6R1SS9zvP40_-6lZVUjVTa7sDrUGppoxBf4iu5UjqxwYSPmNi_bbKqks2d3OZn98sf-jh3eLoZzSik24n1xzBWaiRl8VRmYav7Ne3Rix-72WEA
+      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcJgBJnxbvAWyaTAWhvu11KLnAQyNQDgIPHMRsXoEg2-l_O0oBAhm4rpSpAAEuq7pxhj4S54x3eMgVMvniGbzeO1_eabuSYuLgylVXldKyU2UrXCIQjUojJsuXv78lojYhKP2BrIIEQjYZN8OqONf1P9J6FPQQ44Ad7xZrePYS7qCRZ378xoQQX9ggRWuKRF12hSHy1OJc7swpUZ0XsraRjArxDtkwJSVRvgXhw5AqHialXn-keqnv30EOxxzAXBh6Pgpp1VucLMBl1K6IcJIRYl8OY1BTMS185hYiIZg4Ss1A
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMwWpCn-dh_W_pJE6COYVntevoaVw5FE7TjKZC9!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
   - name: >-
-      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcKTg_I64RD823EqJoamYh8rGZyhjt3PzGD53ZRlVrg7xW2IXzEqxuot5GzhvN-AroRR0le33j1UE6CPCYdvr_AJX_a6OqSGe7ASpLCs9wuoG8Bz_VBb44obCnFCLHD9gkdt0ECuOy5OnLFBjGJV5Dd-FmdAlW2GE_4l3mMymqx5iBOb6q07w1MQ7RJ1Fq0n8l39CrA-umHWtkFGbZImRWvlgNsxIr8Y7W1V3_FN7ZEJucMfcSBrdy4ePcm7wv6AdQ8TPKD-JLlXXGJV94QGkMYyxwZ8DvZQUANpxVTFSUznRw
+      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcJNygmwJMhTxevKCeYMwPQs3Hh1uMEbSFi12gfp6u0O23PuLxdbRqNelfS_UY6E6vfTcFrjxck8ULHYVakrV9sqGrPfKFGXg8PqOcV6Kspw63gIPGtmG-Mo882POcGTLf7BBRhMhHVPq6ydnDJ7EXWq0QtdueTDg-JtsTzwEWboyqz9DEkZ2VvBV3AC1PZpCts_irKOs49wAF7F5nA8t3D4jGM83BEvS7IUraesZhFXrx8Vqzc1reEGwCEwKy7oZxOB2GGB7qwUEdkzr35SIUQYDj-Go_eijr05QqNaHm6OiQ
     widthPx: 1232
     heightPx: 693
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN8FJuZR_46JNx0--4_2n-LXeLeeVdVl7T4okB1!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
   - name: >-
-      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcKbqM5hXtii1VgEJ30jCevtiRQnntLWAVZNjXTB7BwotYNC1gXIAhbIncrRghXJGX8jbI7cP8JKd26Na-2FQBzoLU6lmBJGeVpkVsFvaZWlPGYBwkjC1KHc1Ggt78aWbbq8yrZCruabS-Ib-8PMVjeKZTn8Mk0q2Z-vWrremxnuT1jApQS0TSCOR-dLtbXum4HNbVFcizwLcrZks0a2b2DHjhdRoBiVaqKztYIdXoloaf-Wn2FWkNiJDXlGOdeJSh2fwuYxTEz7iCx20eSSXGCNVwAsQr6onrqyBPr4rHEtQw
+      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcJgeuqqVc9o7ocaE7648QJi_Z3KNZbyigAXaSHHXPH-JFJmJcFcsGnyuQJTdoVfnWAfpjOa7TJkFP-HbBEV82odYImaJxZIk1_AD3hwjY_che-UAkhyA8JTXSY7bMtP5NFJ3T9Q8ysFD5lcStGXJiIksdP3ly_9KeTlqyMKJ1cBoUh-TLZ0f82Etro2a1CHZH8Vwy_vYGR1ZiVwBVIlpLJ_oc6YvZIvU5TibOZypwB96yJXhpihLC-l_sk_F-pUpQavc800WglEbX1V3_WPoeWQy9F2n85qoB43V80ku1s7Ig
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPaMmyYXsLyO1w8A9_Han4njliRPxOxyanLrJCK!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
   - name: >-
-      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcLpYWwC6B1ebiw_sVqIybbecjSBhBFZLacXUL0lAHJglIR3JIrw3nh1F8aaCdg2g_clNNGC5ym49LZ4mg9bGMvhrJx4guZekOuUvtgLRZXlD9-juUBAZnfyAoKKwxgNzAz_WxYgfSfw2DI4Sm3vKeoUkiVOH3ZyEiyDrYdf1A7vroTckoxwziLqnONRNbGjICKj97It-F-PKKVVlwTmR1zHI8Z3FpZV_llZAE-yAB0divdweEFyXFV0JKeKYyPHrjTIl3KpocuOXGqO2OMBUDEOKwWlCqGzjidL-855X8a65A
+      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcK3AAeq2Pa6-YhgELSMxv2s7vdN1si4LN15-x-JWl8oscB4fajjvDBC21WcWZjDaT7YdgSZEVR2cebOtV9ianHsY8OGx_iFJ59YPTDRSL_TL5n0CK_1hrz2OeJ_o1w2tcQtUNqzAq0kptSWouj_9n08_Zcg3U3MsJxzvpkFCLW8a25a8kOm5UoAjdWpUSnfQJ5Z9I_4w2w6l7lAJGKrMYetUI_-Jj-FNIwRkHfMWNHo38jHEqvZYKZwu-OqEn-JvhduIlby0jMHvO14TUjE8ancKkdE6ttXsJP77xZWpndhZQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM3B6VqDvD3RzHA4E3hOpJhkb0EJ-uvmxaqTtS3!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
   - name: >-
-      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcKQuSUXXuFu37Q6OsCyrS6McxWYPmCoIusEvMjctm10iYnbSowEftCmzR04UZow6af9NkEgJLOwHOB6GXQLT8URrCel3KLH_Meo6yiw2NZ5IPY_EovQcnfjW0Z_QztUqIF1h9vU3fKKW1ehi4Iqy24IZIwNCe63-enMPxmjLuzP9H4AZysTRxHDKee3UMkB9vxXhcFN-RuEE0bPWLkRYJc6yqyhGVaBMu9VeEKxwmOT58vWvIlwwPF67XVqaw1O9mIqKeMaRU6M7QXJ_xshyZ0ZO6GUCp2Kh4f0MR953yLP3g
+      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcL1hwMlSApBVvtl1kKZo_sQXT92bFnJbC9deFy56NezvsAe4KUR5CX6jZAUzJW5JM66WCNSCfU4MBUSCfSmtuvfVhj1Hx7FyacluBfh7uU8Fg1gZDi-DFy--vVf8EVMbDcJ6KLUjLLb5Cbcw4uOFtd0jmnEDfDf1xkxav9WXtnKgA5IqpjEG8gks4cAGywKFVHnAuDDJXI64sK3C2FaMhBH__5cWMSuHRhaNkrSB1RXp6qBeYXMqNtb6O59iyaY4x6jet8U2omN2aZcXEf4TdAdaZs8bJW-aUYl5QlXfj7gVQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNvi78Rb9j2KNhL7OHn5VUTAFKJSkEu0PxDnjMB!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
   - name: >-
-      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcIBKuE3mdoynNkkLP-w_k1WBXE79VPgpdZ7h6LS3Hu3ibHrF4fPHI0uHUaKLfWlGgNAe4ye4sSxrTJphppt45pR9pIFEh4dHPoquzVbnHeJt4HzHKuGkBFnWaqHW7WmgyAFrIlILrbuHBnLE0SDQte-LAUXaix4XT2NgSawtORlzMG-qzG5GVz8bbv6CR-Z1eFt2v5GK7EyD_ywwx9wk-odVI4KN8ESxceqrbR3Ca9oi7PjG5jBhzIcBGJBTmJ6i32RjHjK9OPh1Kak99TK687n5CVAaez3V9MFsNQaGigdkG88ESLlO30GeQnwXjshuzW2-uQOsz7L1Fk-WcDtML1hgC1tDEz6LVFt3aqt6IefD55DbaZcvDvJ7qwwDFaBXBGcrnDo_evzbTUteb9Wcct2LX7VS-cmYv3SlFMajcIWyyM
+      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcJ23D2p_TAENhQx1r3ZVJjSyQ1Xpx2ttq3wL-M7l_tPQ0CEp-_tDq0MX3mL4go5PwA34R6wOcpMY24prPw-3JDorAlTTOiT44qxY2D1j0P-SKMBOxskugxqyJ7dfJOYPnymhw3rAQKrwIcoGTfpyHh4ux7lHkxyaR_YDn2DYvP_oORqZLoX-ltZ0Pj107nF1JmcJSItQk3XZzUYdaulCxh33Va52oXX9-Nc4ax1lmbei11tqD0K3WTfIm7CUH0ADLXowK-edYTl9G4bUZug21_vs_9T_7w9T6ALZkPPM93HxmOR2PLZWASc3_2NpcY9Yg87JNZCCdQzBDAVEHJx7jLRpQgADB2hI6y8-ue-RcLkYLCF-9xwWszdkKgmk4tvo12TmPrRj1Lkhjssn2RJg5rvHAgTbTIZxhTgOulgELTo-XA
     widthPx: 1536
     heightPx: 2048
     authorAttributions:
@@ -104,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID75bSz0AE!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
   - name: >-
-      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcLpruFs3ZIs_hFhRVB90nHZySri6G4bO13r4rnzogxuAlcssp8AvshXntQz7aERIUNBVOXSKSUmDZSj2WZAlwmahjXaPi2D7h0cfdL4MAOCIVUYJyrdomNMfp9rOs5d_2FI7WqoMxftaAJ3TcwQj_4RCEiTNintN-n7R_EBRL1Tbc7msbcS2xgzeaBAuUaCTJOIQQI212Tdgl38JimYSe9Sx1KqQOD_W9FMyQU06mtO3ucPEzMOsI3G4J4nAXJEHSv0s0EC0aaCGsgoVpAKN017v2YTsu52LRXGhQDMfHeG9A
+      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcJ9k-MrlMRkc8JVoOtlZskgZsM7JXPVIdLt6tchHEaUnXak5esfVRJp3Noz716iOnPZ3rB3DAMo4r1Kt_WjPLy388NmvCuUhy-lcZS4iA-Caecmgvhldsu0sVrm0yTlP794719arQ0G6zDKfmOMJCuTL8c1phroOjW8NyX3-z4SPPN9-nI8kb8EKH38bkf4CL31zJmjP7b7Xh2OLmGsirndotfjTyzwX25ftU6XSBeI8jwWI--AooO3H1xlKQjNxhrhtWGDBB-oOav906PE-0hhYI_y5P0BLklRSulkm3NnpQ
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Bonchon Eagan
+        uri: https://maps.google.com/maps/contrib/104034941947983685938
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX2sBbK8aV-cGmoCliGO24sSoOsTP0R8wVWqoQezuf1wf6JDOyS=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMI1GknvbOlsXnjz9KThZWcH0S2YgiSM_k6ru27&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMI1GknvbOlsXnjz9KThZWcH0S2YgiSM_k6ru27!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
+  - name: >-
+      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcIYPAfNjcN4Pf72mX30JB-IQcOJjTG_fOpLV_Nhb7D_GgXjhDaaxTju8izqXq6HVlguPRV1Ysnn2dBs2-Q-ROwMTe4fbpg8NZCkPHqMd0yaFXby5c5gzE5V8Ke0qHcMSTD6FcUVVXis0p5ytbk0u20AyK4Hbi5OChhvbtGbnM0SH1n6btd-78kmN89GA21vGaQezN3XPSgMwFkBWOBG6V3V6QjLVuYlUHHOZNHDnyRtdcROd_RHNHpeoMQxIFWc3PKhx-O_uq_DDVAoP7vAniR1YPQR-SRQoxlqtupOy5cMrg
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPCf7fAYsLMwrlZhLRCa8uwg07RR7RqRgfn328r!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
   - name: >-
-      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcJGvwPP5Qkp2HH8IEnEKnUfqlIirw_k_yHRjCuRoWlKLD-rLuclvUKI0CPMHgxt_akuY5FOvIaF6CP9VP3V48AAZZ-T0i8iSC-m40VgTqBGO6cmDfh54FGAFGQqAgAZT3Zwebpkxj-5hlp7mZIkDjbEXJaKg89lWjBAlCLmMwEtiW0IdS5s2Gk9GzKTWUTBWpovib6Uy0Q5_fAKQZ2VKrfS4ih2H-m7GwZQZzoGTu2oUdr800SvpHn3UyWw0b_MLzIhdmotzD7duCEiHbtuEli78j6Hq-V_e_f41AhY8WTBng
+      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcIkHbpzAEgdzU9oXvFbP3qG0eY_Qky9FgXlxhOmuug7pq4tO6Q4QCopSUYiQVNo3UVUgEy09KI17lY8CyVug5fkTRJqgcre0yCmNsUIauc6hapgriqi0tfq0Lai5oy_PJjsqVakEVR2cnnFsMssraXqiByBzgw4TJzWqsOgo6bFr5MCUZks05157bGL03UUGXcCdpxHIREEVfebTcSm4selNB2kZFGMJe3J0YzzlD7xnXULjTfOilZPXd2fUTJmEDFc4FGcZnqyw8MNwVws79vE8YaZARBSTo7EbqsdSplEDA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP-Zb__Sj7fPaS6krHDLjVdXfmeumUCE2j2S1gm&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP-Zb__Sj7fPaS6krHDLjVdXfmeumUCE2j2S1gm!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
-  - name: >-
-      places/ChIJmeCG_jEt9ocRYnl5TvRmLj0/photos/AeeoHcJ2mLU4mJwYRnKK3nwO4gmjooVtjF_30VxN2RBmrzu3Nw3IDt8cfPIv61HAMcg5vEfyvzV_bGg1FvjZ_ym4ECdIIZ_hSvsndN3F-JplK6znvukatXjpdazZZsCBdKTFIkjx5KBJ0YAeOSAgdP0ukAdJSMlgSywpm8_S7f6ISH7Zm_WXaUI-d763jSXUVr8fnajgTe8Q9cxThA3NKoH84EFVvZaqAJ2yqFSUJ2AmdfdhPxHnjCMCn_gvm9lMIr88P7ykPM5Oo_Q9WVfISlGVu8Uorf-ROfW58TYYgcmDIrvv5w
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon Eagan
-        uri: https://maps.google.com/maps/contrib/104034941947983685938
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX2sBbK8aV-cGmoCliGO24sSoOsTP0R8wVWqoQezuf1wf6JDOyS=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMI1GknvbOlsXnjz9KThZWcH0S2YgiSM_k6ru27&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMI1GknvbOlsXnjz9KThZWcH0S2YgiSM_k6ru27!2e10!4m2!3m1!1s0x87f62d31fe86e099:0x3d2e66f44e797962
 address: 1348 Town Centre Dr, Eagan, MN 55123, USA
 street: 1348 Town Centre Dr
 city: Eagan
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

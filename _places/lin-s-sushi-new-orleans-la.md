@@ -13,7 +13,7 @@ description: "Lin's Sushi serves delicious sushi in New Orleans, Louisiana. Try 
 place_id: ChIJ73fjxvCnIIYRT37_4DUvuTA
 photos:
   - name: >-
-      places/ChIJ73fjxvCnIIYRT37_4DUvuTA/photos/AeeoHcKeZB0YBR7XQe0424RRSkfRfnwYn82EXdFeq72-sxh-7hZyWgKvtMWQn5bIh29nvJLi5VK-tx0C17ozgExmp6zJYz6tz_p9knDK1rIGZrCha3tRyo8aDZ8yVMc1Pd3h4SsidgWMsKeYz5R8Q0HMnPNoO8Ca1Z3Jv90OkmecBBG7gJ3XpQWkTZaE16DPPobBysC9dRADjdspRxu4xjVstW-S_WB403ij18Nklaljns71gPxg6xhoRW052OjIE_KQHimhL5FM1XbUH-G7tr5V0Crk7VDgJaYqW8b1A6ByYCP6616JPvJ1OhLLsugKti1AUIxXqsxMZ5MUBYEOBb40sn6MnOWZkOkBHFZq7tqJDkuZm2l4RQ1isLmTcT-2tYh3p134HKf_iW1ZvqmMNrsn4qcA8rhogx0Nb8rzyHQeC1oNfbFQ
+      places/ChIJ73fjxvCnIIYRT37_4DUvuTA/photos/AeeoHcLj2wzPOMrvFhrwGCnbE-MNE9cG7QFOt1fusOYa8PPzTJdaxz1k42D5GPMqSmyqirc7qerbkgJWjkpnH17DLxyD5ZcSUYoEqYHt8t6goMjhuKojuTe8g26RKLmd2Bqow-m5bR1r6sZ9KuB-0M1qkCfZ2sZAFYsH-hP5iozJ0ouqLTpoPHToFEsvjWkaZPqiNjY4yW87CZtuOUz_BwoV4bJ8C0Z65pH7fYqh-1oBrn_yvPCIDXIwpBEIcrq4npB9uV7DnMjlOPZMdWAOpAQAc04ElhcgWCVSTN-KUloEXX2XvJtnnL5dcu6k4Vna8SynGOywBem4NwCPPxXBhGTlOspV8yVSbJZaJFgwkQZH8xnthKWnjwhTpBhjBv3kfY4EP5uz8Y3ABjVolgvUvtWTEveJ1JenDoicf1iBU1GU8mD58KUU
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICV8Y7SyQE!2e10!4m2!3m1!1s0x8620a7f0c6e377ef:0x30b92f35e0ff7e4f
   - name: >-
-      places/ChIJ73fjxvCnIIYRT37_4DUvuTA/photos/AeeoHcIAPCKGPv89_JUMvlo9i8NDTcdcSOOlYbFg7VPxl934PJZ2ltc8aJXZtVl_OblwcW6DS7KZlf_0G2iCSb8Dn248xJadPVd9aNY0D_RtyKJ6EDaQq9E8_8PYhVgCGsTOHj_cavvITZdiDYUYJ7nhnLogNdHYnhHTEqbslJfamYbNp1GGQ3kWFvAen9bxsZRw2XmfSqyRjwAPJgOV8pmK50t1V5LrT8TGOw-Q1nnUt1TQvVTjlFOjB3d-Rr53jzWMMiSB8a_cSF-13-jUAYayRU2UdyziCz0qQsfac9cNlTcBDla8rHUt7SanWyzv7DB5Epu7QT4iS3-sPh6U20FTSGdLnEH_-HP6m_SU9FHtFpV7qc5Xhw0wJX2fhUKdfj6-t-VoqPQMAzQ3_1lBzdckNLVhtjQI-LtcPzE71ET55KMVsQ
+      places/ChIJ73fjxvCnIIYRT37_4DUvuTA/photos/AeeoHcLxTXPsENd5E0CvutkXbbqA1K6BzEx22axQCAOADvCUQBBrvc5lN-msPFQi1atc3am-FV1m6StRusTAHTBI9mxftXbFj9Vhth4dHviPv0IG7zmyJcWYCQobqfTknTU6gE8Gpq6sXfa53tchY_Xdk1Dpvlnxy2NFv-7iILzIwM-QTGrvQ9C4SCIG3sg59I9Z-rnV0UByUVov6uUcmhe8-fZtRv0ImbJBe0X-uiaImBcBx0mDEPIk8pXFFPN8kqLbunQIafvsuD-8d5ue-0g89jussTOGynhSeOCSrSjRTolMRNm9g902bNAmXarXnIde87WPOhgKmRDTqGPoCMTfkydolOZTS6CbOTYYLBEdaXd6vXdIfYPaN-qIikei6DD7OP5aAa9SLeqwMjp5wLtNwsudunWw7fQAeM5ft-FfcYW2fQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg7_a9Pg!2e10!4m2!3m1!1s0x8620a7f0c6e377ef:0x30b92f35e0ff7e4f
   - name: >-
-      places/ChIJ73fjxvCnIIYRT37_4DUvuTA/photos/AeeoHcL8gvXekv2VrFfyVNxD5M7buja-SXBIopiYYQg7sdZEA7no8MQx_vMvW-4Jcxq4-ySeT4XLNiYt9B2PM8sL04fleQ-cqQJq64Zy8ZFVTX1UOpKIYq9vg4a_EpK9HnaGbkRdpZshUUYVQTg4O9T16uXygSjWQralzt-anAzwep2oIhZ5pUEdItrjfcKKPMpEQueEpR3noEyQlbehp0tdWvW6VkHR7YmF4Vqe0Xl1E4gryoFen7V3m-0I88pxVFP7ZSfBC1KM1OGidQsV75i2FF9CJZhSqi_-wRqtFngCa4oVKjLhxkY2APBY0UBiJajLdvqPPjLASGjOI2XAC1CuBL28NPHxszYYe_Zz0zE0Bj2yTlX6kIVXL9RPudc9RQkjTyBpxsdFqZY6TLENSrqqtrDk2xU7ELrd43rs08mDpvgY0w
+      places/ChIJ73fjxvCnIIYRT37_4DUvuTA/photos/AeeoHcKW78nZGv81atIXAKV7i8ISBv02E8_NYNA-pYJCSG8BKJ677kTDQk7Enuvb_kZ16muvY1hVp5SSvWwFPpQB4yzmr2h3m3mMJhCjdjEh21K3JExlrPquplqvpetE5_MxBwMhMxbiA6vytaQd5Xe3JhHOFTMyCP9Zs4yV9b-todEly_cAXRBAz0L844ALpiFWfZ1ACOwgTjuV-C1hKmONGd_ttnbovAVrX4MZyzYflOKN4Q1ZwsHGO1JOjEclKHs_PYHXEddHDNiIU_oBYus6Exjo30nBjc265KFuNu4U7E_Wr56kAiIcZSrMGTlV9GkChXAk4BILmrmTaDUKqcCbXUXKBmkFnCtibJjozbGg1s9mcDu397oLEoU-44PAFeoSmVjsBGMrznEMHuR2AIAarIa9EImJfoYZ5ess5SQhcle_Cw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC78aWOAg!2e10!4m2!3m1!1s0x8620a7f0c6e377ef:0x30b92f35e0ff7e4f
   - name: >-
-      places/ChIJ73fjxvCnIIYRT37_4DUvuTA/photos/AeeoHcIeiU480gJXoSWG0Mvx-Ivp0hUFDcdnSzSpdOxMbuJibwLcnBQHxNY0-PlJ_iJp724mzYo1ddg43JNW_FWlXuuEm8mp492zWkejNoy3vPybgSyqN83Ich5yVfVyYD2EYFLRnkAULi0liV0ra40aiJZaKfmps89VUFM9suTWAQlxFN0_zxabzXSUfQpZCvL3rPyDbdZkcwp0O42mspWO94AHvBGd4rFj0v1k0zEhEKW4TH38aS8rfjhHSg9x-7w0PN6nabNF5mv451SIt21Cza8i03A0BlukhR-V80QusO1y7OQ2XBfYlo_WEiBElON_-tOkI99z6AFAk9v16mMzaRwSwtBadE6nQT7WAqCMWZ1XaIPPoRGE7BcS_pn5QIDtrKOz2dTt-E7kPipboLTEVgrNTYv0VdZiZYzGxxMhh9zISw
+      places/ChIJ73fjxvCnIIYRT37_4DUvuTA/photos/AeeoHcJHxRRyx54TP9rmenfquwuQ6yuoLmkpINAL-UG0ljK1xRb4rWPy-qvz4DP2nySVobEJTbVl0NRkyOrTqpJoKB2oBx5FiGMqeQZ49LQTNRfYesj7qZc81bHx1U4dT3yA6PIscEg9iOSR6SaQ9sJYD6Tc3EhWamde4RSqJe_tNb6Vr8zGF_K4M9vkf31EDZt8-GBPZHQuckFCITaQ0t7vxqnJssWQWUoXzkdNEXjCwxltXQgnXDblotR1c3Zj8TD54wqNo4X7vYoDa28x3CkVoIGVVDp-EKmhtrHngLZQRWqYDJM-LQU1xgEnFKTkBMOrD-joub1bcWAfTSuiSNwHUmc8Wvlw8C1ztwMiascOUaH8_k4H9TLTTdG6RsmS2pFEQtdRRxlzFCKenVUH7o6tG-mxM3Urk_NreeP8vAXCT6kvrg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICV8Y7SSQ!2e10!4m2!3m1!1s0x8620a7f0c6e377ef:0x30b92f35e0ff7e4f
   - name: >-
-      places/ChIJ73fjxvCnIIYRT37_4DUvuTA/photos/AeeoHcLslrA1Na9ZARLEjkPTZs0RU3jy2893F9VAjX_OVy95vHSvTv4QKHiRojAEKvOJFEQk7YL7MDpDmraEIbBshnNfZGBTuEDNX4J03DNi-NusJE0Lxd1PqrZOudFB5uXDsjRhULTo-j0lAEpQuciBVhc3b3jYXuHagpbR389l5scXqNiBPtu1pC38Y9sU8-XYPeTiRRi3t3B3ky9rx-aj62vTLDGTUpDY-nv7DA3MxFhVL1LIvvREjeBomFE15Kl9lXjD3CO16kqYIJ43GOTg-HINiolugywUUC4z1YWk4Ly7kCTAPx2zhf-x5LD6nWj_GZuktpP7ZTyTimd13pCtnIDaltM6ItyPnAYZKFbEZX9Mm2zDgDl8PXLzFlU9lXPk3SCNqrc0tZd7ni42CghPCAuZB-zZ0SY1khWmLAPYPkWlRA
+      places/ChIJ73fjxvCnIIYRT37_4DUvuTA/photos/AeeoHcLe0rwbXUqyU8wi9Md92uGjiTlscudxYgaiXbJh30gprK04Ml_yxdp2CdkJTbKM0yenWWlLOrjO98z3y4xSv2v3xZ6h5PhKn0WWNqs6AiW7YjVq633fhFzBbayx0fFUc7VNujJIez07W4tAf0OLbsXkud9iVQYlgco9aCbiE6mF4kFZxdyWxxQ_CmyiecUBYDwl0UeXA4p3i-D_wKr9Mhl7XX7YLPUM4mnbOWkofbpdTZqaKpw2QZWrqwOoJ-VTvgS0URXHinzQK8dsnFeAOjobVRwyydtIjHRpbgWCCz8oPM2GoYc6jYE3j90IFD1fkaWfvvN2mdKfC_vsI8z-x_isVBCeGpJ7rMPC2iGyjCAVDExts9t_mzak-Xiobr9yRpVaiTWv8modT7xepj47qjRFLStOIuFH2ETQA3sxBEgOLQ
     widthPx: 1179
     heightPx: 2096
     authorAttributions:
@@ -102,8 +102,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8620a7f0c6e377ef:0x30b92f35e0ff7e4f!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 8:30 PM'
+    - 'Thursday: 11:00 AM – 8:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 8:30 PM'
+  current:
+    - 'Monday: 11:00 AM – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 8:30 PM'
+    - 'Thursday: 11:00 AM – 8:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 8:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -115,7 +129,7 @@ phone: null
 price_level: null
 price_range: $10 &ndash; $20
 rating: '5.0'
-rating_count: 6
+rating_count: 0
 website: https://linsushi.square.site/
 reviews: null
 parking_options: null
@@ -143,6 +157,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

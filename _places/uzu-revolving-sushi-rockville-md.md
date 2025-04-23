@@ -13,7 +13,7 @@ description: "UZU Revolving Sushi serves delicious sushi in Rockville, Maryland.
 place_id: ChIJMwnoAADNt4kR6qrR6uihPAs
 photos:
   - name: >-
-      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcLUd-ywCnDGcntMM3oz671GR_kG0jDO71aCsx9R2INytpsaL9MGL074AiCr5U73zwdHmj_es9WEQLQF5CqiHuS6bF-x_Anw1e7Dew7-DehHKUcj5_q6fpjnjWvBNOy4PV2AiDAd_sg3RNlsjithbOUDIfIn0HdRq4-ieMSQzhai3zGlrSk7B_0TvLvTNke45Xzzcg21ueMDXqpLDEabSoZQheCJCHaiD6mIZV1WnNBcY61nj0JHQKxkHt4YDZSGfOx4OiCGaWX6WZdvqflk1ZGyWvICrs9tk5sYjyAF0QQoNQ
+      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcLZgZSn6x7--GS99Qh03T0EwIY9bbj0NqXvbS3dZ0t6QqfCFQL7CNA-2B_mKB6A5IeDQHIJ3Te90-v7-dYJit_Xo9wlVADDCL5yOIsiRJjJ1_pMGnnpk3oCMMqUyMDESd8X-ITtNGwA_T-JjUC1hYZ-YL46eRnOfyr_H41TCDB2DWo1C-wilb3v1ymRu_5PMe43QkuSPo_I161uAmEOVSqA0yCy--PWPcWXbVhsIOx75MU_KTT6M-1TwPGY8L9aC3d5Vpw7dFFEhZCz9Dv6HvuDc1drDkZbcymIuzBJhxS09g
     widthPx: 2816
     heightPx: 1878
     authorAttributions:
@@ -26,20 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNtT8VxFRvl_h-6NhPtXp4hFzs8EwpOS7q13JqT!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
   - name: >-
-      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcKl6nNNPP-A_i1KW84haQXJ606FzuLpDvdqtsS8zqywFC_1imXEWW2OvamdzxoDp-5pwmL5ZUJThJwjheQbiZHlVU0YoJgIn6id_ebyBm0kJmAszlSB87l2A6I4jt8tkStPFIrVTZhpTd7RjLDi0qT0KAXsBQiNj_JyvCudreIsUteQgHsisr62DUDT0-T5-CpauZuQrHW_sj0hSyNMe6mEfEy5OyLz_u_xf5NC2Z6O-5rjTV6z_Jn8X-TFYh6zKp714AcGurl_hlgYC7eZLTbIVVjY9dYYztBtcsTF26wa9ststI1VX0J3tn5_X3X6Kdkefv2EwFCt8jP0Iq9GTLh5IMsHGLVXnXoZVqmpsIedDe93s7e8HRTvYXlAym5R6h9bhByzXpvKmQ6Ryb3gD66uc6gWOH0w5CaooT8jdZ0
-    widthPx: 3600
-    heightPx: 4800
+      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcK4nLMO_eI533Fh7FDhSiOHOA_Grt_KsWqJuZJ-qA3aFcJDyBjvpDCAiFQ17O3tKmQ3xPYpu6Ow2autiIPtf2iCd1T2SGles2q2S6-VSb5MgcFfRYhqcUwJ7yQnKwqAY867GTl18hkVLu1IUYwCOxbdS3Z-dALyGa4DuXd-VKtrJ-MWhO-LcOrEZlhgVBkyel9prar0LDT_BlU8LgkN3RATAHHJs7gkEeqeBR4CzCuEClWe8xys3xtuyO3Tm7dVmNsyauU7XRCDl2KzXtYU716kA90H07cHJ75Q9XFT-Vkt-SE5gfAxKsAXXVJNSilfSj6tuIgqKYZ9GB5ewoTyZUEKv1w4btK9TH5JkGBvcICCPTyZCqsQsEGAzkyju8b3S0Z46ks2JbWgIFQ_1gIOO3w5UumAJ7F9WzxCzn_jlpd_XIh_
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: Richard Sun
-        uri: https://maps.google.com/maps/contrib/101099290888024115982
+      - displayName: David Tassy
+        uri: https://maps.google.com/maps/contrib/116934907570468581422
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV_z33jkHSy56FATxeATcMwHkmTawIfUWY9CJ1UKjASZ4Xyq8tS=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUK4va7n0p8dDYumE6ATWCX4oOwUquXLQAV2ddPfJH8fnmNsajM=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCws7DPJg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCo6LzgsAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCws7DPJg!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCo6LzgsAE!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
   - name: >-
-      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcIz2V5TWqGPdSARQyAuUYaJYbTtlhv49u2i-4oOrRSpRBceRSEmlrRvYk0TZ-UjN7yP8XeC2KKBaYKZN_4e_CdywO03L8xKNNjypH2XDUtObMHtfPO6xPqgf1aho4C7UzTWHPnc5VWA2U5ZMdJdq8JNYlSA6JS_tGDbgTQ_9yQERQIwenh3PpqevtmPPT454C80K93N3Np9R_RcWomAt4pnaX-eqtbBFMvz9OMVitO7rbB78EcHVukdMAuDI_mZ9AtrTvjd7bVTA_b37YaQ9RDCQfpJbED2lE0eRKI0yd5R4A
+      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcJwljgOIEDYaAVCDT9N-qlr3n_VPiA550Z8xeP9UILVeGvdDtcoTFf4te9qulLkQAVIOBLQ_lZ-XPVqIn1mvxzOuPH7Og-8NmYgew3qAKJw1hqwth7ma3cGIay3gtNtd6EmTRw6WK7NgjobsP07An-S0trUm-w7K1oyV6tZClJrjfCs1c7G8XndzWdD4VXag86SOVdKlX48SAEYQ7pECBM-Wiu1lZLmyEnlrZjwyvvcO3i48XomGvT2VKN_Ff5keJWrG5HzoFT2945tGeRj4jQhKP0AYCOI9DYpZ5C7C7aWIg
     widthPx: 1536
     heightPx: 2048
     authorAttributions:
@@ -52,59 +52,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM38HRPNEAPxqLvKfzorECegdFUn5Wf2pHmpe_O!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
   - name: >-
-      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcLboN9wrpGjSMRrLIoVkWG_SOnKhxvozs9io02EH45Q5wQAsBxw6q3Ca1O1LrU2oJDnBDhQw52HD2c-X129P0sxLkX8T_FSihCKtad2T9IGJeqDPrUnF5SbyiqiWckqpI4UW9DO8VhZwTvu-SkNIhjE1_w0GmwUfAuSmwIdjvdK9BEe5byfwdpuvjKc2JrUPS9MiqoD0fN6T7qCrmtgIK7qcFQ8iX7JSgzMkwS147GqLRJANHYZcV5u6CybplIPlcRogS0la8O4YqiqAn2khw7_p53tl55m0zD4nYlbURJyNhJSv3fqw81Xe16kwhVDI1iTrT6MqmeLuKaq9ACYEQvi0NO1TnyLtKw-qd2j_P5BiHyd2Hx6fL8EBO_49y6CWiTG0vDE3vfa0x6HUwJOan0Jynm2T-6TdfCcNtbxtDF7eQ
+      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcJBKJheG0lVioKZ0AB79zdDQiy1pjyu0dluT0-ToQunokNXGtQdxVYyOa1BjPLmACfEk9Y5qgLnMqhqjdevc7Q2yLVoDIniLX8it54-NuLLwm0_WrvxEAyupqbhzNGJKwOIlkJF2iPbi2h4cehgYiqEeVg_BleNFzn4W-w-xxqW8RlBWjez4-ZIvB3xA2iLbbT3pE9n1YRmp3ir6hkLAOH0d8ZI_wLLaBXPQjyKBaAPuWw9bSzEk57viQRML-PVRy2i86A_kHjoGTR0iv74ZP6KnJRiZCJ6tYLqs9ph35SpEH2klHvPDJY3JP-xpDjMkXfTxEX_S6rqTYM8HM2ws-AdSM7Yxrw_8on32SAwKqJMpJ7a9zXdDtxRtWiffxBo0sbf-8wrT9dSbQZhuxk6TsHrDJ2ryVZHISj5Rpx-_kkO-sb-
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
-      - displayName: Richard Sun
-        uri: https://maps.google.com/maps/contrib/101099290888024115982
+      - displayName: Jennifer Castellon
+        uri: https://maps.google.com/maps/contrib/111482582804009826572
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV_z33jkHSy56FATxeATcMwHkmTawIfUWY9CJ1UKjASZ4Xyq8tS=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUxkTgZnPCT3fHFTxZhfaGP8aJfkDCRm3SLcZPfBh2_pLqIgLyd=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCws7DPcg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCojc-0yQE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCws7DPcg!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCojc-0yQE!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
   - name: >-
-      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcIcoaryMzWNpKbEJNlKdkd0Bbvm8SJTeCfsWQmFjqF02Q_kL0a4glzOtX_5vGhuOpEHiYe-0HgeG38x54yR6xLYcO2_92XBIs74zuMb7Ay_uRYGloTYh3BgbW-onO9TfLhJ7zHAeKQJ3U0JDip-ygHJZFGaBP-qoiYc5Lg9HwnPigC9UNEeAmRXu64yzfmsBUcnHLtgcAS_QrMBtImO4kBVfQ6GvGsJXSvCBFPd_V46QH79XIx8fGTMaC3ASmfLb72LdYpiAbwcs8dDlNOl0rZH0-AfG-oe5XetZmB-lBPocP2krkI7oR7r2RW-zKpvJAjD39HsqXxLsJuWbismTkl6xLfwBlPkv0Ms8clSge2nGPZsnkGYOUMCcHBiHYw8JKnugfEQCykKHUWw4JdZy8rj0hLtiykC0oRYShHaalKHkA
-    widthPx: 4800
-    heightPx: 3600
+      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcJUIJJ3t2iz4NZcs2R0AX6y6gLCzbSD0MaYNK6hEa2-WG9mxO8Pm83yZLR5Pcd-3eK1suWGLbKG-0AxwTWaVyhsV5fKfX7TknBFmyKyYLLwKeuDEW_eqZUhTXutSfmnjKUNH2W0t8wj0eB1tX_-TI8me-pJQGSLmoWQc_WgCeeu2PxDia3guyGJMhwCDl3hoe8EipZduJfBZiv9PtLoll5W9g-jSwfLBtbOCH-Z5ODvDwHCCZ0x60VracIABMD33k6XXXHQZ_yWvgNg0SZaiwui2GEV9mBw6cdTUbQuFbAXZh_464S000e66ziS-eL3hxYhSnLvernJ9DaBuXL3jJmHLXRGN4HcLo6fNh6jjY1zna0tfn6tarO8fokoCW8yW_TnWZafbO3Fnk35quoSFLY5B0kFB8-ghCNfOY6WNhVKBQ
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: Richard Sun
-        uri: https://maps.google.com/maps/contrib/101099290888024115982
+      - displayName: Amy G
+        uri: https://maps.google.com/maps/contrib/112058334975312264063
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV_z33jkHSy56FATxeATcMwHkmTawIfUWY9CJ1UKjASZ4Xyq8tS=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVUyn1uLGiKC1IYis_eUjF9TdF0lP7RanhmX58oKESj75oJFTAIPA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCws7DPQg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIgKDkXQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCws7DPQg!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIgKDkXQ!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
   - name: >-
-      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcJZZLFDZ0N8fF82D7UL3d_vmwXuygwJyeRmzSAuRXKliDyvWb0rxk71QxSeqzGuZNQaNcsQXqKLSMJ-2vbGbCQevjSN1HwRsHvspxzxrDN8S5_dl1YJh2JjuTlrn7jxcXD6HEvBM7J7yImkhrtu2b2iaLS38bZj-2gl6zzzAUX1a6bMmk_kZCmvGB3hLT5IWJcgD3EMkOJd6VdqaMHmHqPsGwPatsFXFrazZpslhu-_B9_2hgeM4nLWrxZsFGP2fbo7bRvweyBrAhP6SNztl0ouRbTI0JPlSg3jMlQtPFLKMQ
-    widthPx: 1878
-    heightPx: 1878
-    authorAttributions:
-      - displayName: UZU Revolving Sushi
-        uri: https://maps.google.com/maps/contrib/101151887810188324847
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXt9CuEYJrNfN5bOSBKwdVvuBEjG5JViHPK6PdGjILm3aQp5aI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNNgxsMsAsX3L8E2QhZZ8ByhFgyyJj0q7PF-ZG8&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNNgxsMsAsX3L8E2QhZZ8ByhFgyyJj0q7PF-ZG8!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
-  - name: >-
-      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcKDpdKKdjoTQVVL2XXWpDa4P6P1zij4iGYwYot--euLeOvh_An7MvwCLxxI5yU-1CCrlSinz14PfGbRViKs2mKH7YbP90yvMGcbm8ElY1HurXutrtzNwbdTMuIYRuwFhyUGoJuO5W28JSD_98nyt9OR1NGBH5vBYsydwVogw_XITxtWPhBfunk6G4MTQphgaBBRSvn_1FzUHY9iX7tnZrKgKXEukimFT01xnQERjM2SD_hFnYS6TG91A3U8LSVijEnQWtfwnyVSnh70kGG4drKu0tYvofQyW8h5rY8icjQnoA
-    widthPx: 1536
-    heightPx: 2048
-    authorAttributions:
-      - displayName: UZU Revolving Sushi
-        uri: https://maps.google.com/maps/contrib/101151887810188324847
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXt9CuEYJrNfN5bOSBKwdVvuBEjG5JViHPK6PdGjILm3aQp5aI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNTMwsqkZPOw4rsGRgIwCy-DlenUValSyxtXkqa&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNTMwsqkZPOw4rsGRgIwCy-DlenUValSyxtXkqa!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
-  - name: >-
-      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcIuEA2lymwv-giqB_uiNWY9hNRScf71U8X2aiUm8PjcWRLgRr2FgTVO5a5EWNkmxcz-e4FfD8KsXpW-6n7pXJ8gkaDPwDn5JTHI98vAuTvp72Kg8beuSLZKibrVbERiZB5frJ8EuXJvCV8crPnHfzxDkXwTfgKlfgmGIzTDiQIDFDJoMwH8VNLkIb3_wIiGjbb6MRqcOB7T3QODGQhYNDaGTA4IE9x-4Fvq8FlzcGyyB-fTsHWYBcxU74gW7Vzec2ajFjkPVuUFZtuoQKofGB09mQWGupM8NjhJfvr2l3lYdIBD9e01gZKjQhrcRlRuhWMGFti-1Dm31ghxTkIxMx7QIaj7oHYHbrgkTferl1uJHv-bzrg4_9hM88XJl-B5gGEj1Iz43hNarSmHkPJo5qw87PjWtF-8AFg1La4yoVni9NS7
+      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcIXDM72MDN4r8bcg1pDEnCCvLbyK9Gc6oTzYYDUzS8CYT7ntI4sCtEi_szB0nOtVKczeh3r0Lvbj_V8J9nJwm7ateyaGW52bkIlFiSNkr__ldo75DATO3YFyTEPhGmNKtTNFi5RgiICDfpW4NclfYf_ajvwJeSzU6koSNBYQa58pqU1D7cxKiCTNp3VFm4TkMa4IWsl1tgw7AGXIsI_f8oJZPJ61WNBFhDyLKQ0dDNytphZTSKNiHtp1-qMwzK8jQUfG0zBXwFi9lNBsrZ8lm33dSOA76YAxvOa4JOhyoBmEKakMVRiVo2Mw0m3SGPQuthOhGI2MRFbV6flX6CvBJuZ-jRAe6oR4TlIC4WmDgvnn3yvYX8ieTONVQmmJs5wtuxcsHItZWWa_y-Cn_WdFD16uIDbSgnS2acSosDq-roF_sAq
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -117,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAjrm2-AE!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
   - name: >-
-      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcJOmubjWkMwERLmz4nM9EQYt7f6NRvegdGC2462twj11do7BcdhdhymTD0N8uaDVqRUhlpnzT4eWPHx_g4l7lWIAqipWbO_idoAfO4HFNA3FX2qU9bQ8kxxn4Qn_K-hOQJ_xoy3fCPRd9FU9xhV3wotA9MOd4PUtpCFwkzWUbKEVxHfq9sGX9rgAZUYfkw59_TvoERPrKxMEao71gJ7N84uInsJfpHvTx7_eL8NJf55ggWC-SWabKX4984AxUap1c_IFHIVQWkAS5BW7e5SB85cy87p91rnv71knlScA2zyNCE-ky4cD5RBHGrNlkja4fZo83dEEqm2Z8T40aCPyhwiYRMaBw1W5OdChH5j_zVokPW3FOOf_GQDoqT-KFHMw7wRIzjOFW1UDIhxd88MMk962jCDGzRv8VDpC6KkcB-XUQ
+      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcKYkgiCTtly6XcGWYhfjAHBT2NvJl3NEBV_y386ieUpPCeWOBmDP0peHSK3XCD4p0EZ0w4d61Hh50iDNwHSkB0_tefl5PM8AQCyw9LNiDth0u5uYYE-PRKsmWX7ajPaUihWFttUnyeT7V7n1FSv_leATeah-7SyvJBBnHsVT2SvJBpcnzXXTzQJJJdXdmDhF1tgvp3YX5fQ2sTEUwwXply9XLmtIqweZSBERyvkqnLCp06S3t-wjQsTDHzR01_UlJyWputyPt_eC5irMrdabozE1_JqTiQRkNK8RQm8D0FOafPdgBceJuJSFXIj_7QRcphdoAA6IxcebwBTN3ACtm6jyTG-89DmhJnafz4hqehVstCPhBoOsW0-7jRVnP74GmSdXNNv77ypo1rLGHUmiKHczQ7mEs0126ictidO9Cyfrg
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -126,11 +100,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjV_z33jkHSy56FATxeATcMwHkmTawIfUWY9CJ1UKjASZ4Xyq8tS=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCws7DPRg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvi4yQLw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCws7DPRg!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvi4yQLw!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
   - name: >-
-      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcIwrua27toWExEqp7fy5azhjMbcUHG9ezrSlViDcj10JjwYUf4Jezw-gmzIJD8uE7rtI3-5pkOYvW-rbP7FUTg3QPM8us8ODC6Efu6ZWFdRXRZEtmtBWj4BcPHFYmTnQyhIk0BsklbpoK6WXjrEZywIrxmf8wVouFnJNYMGd7bA3CnmMtB-EeXsBd9vl1Ub1nUQ4HMMkF61URbTuVfaIM79ofj00Rju8LSy4dTaYLctA8Ezlsli4MTAz1MSK3kEHJtExu_hrekOrM1b9Jy8UPxKu2i0tnfQIIqLXv818yIlS07e59J-8RXLs4e03q4XhjgQpsz8vM4wc4b7qI3WihiEJeg07RUrHjoC06qlVaOiAF5SBgTq4jBgwgmXThpByCFkeKHY0iJcMmQLi1HdN6_n5qyu8Em3k7UJmd1hP5nJSA
+      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcIvDJAnqgS_I0zziE6T8ID7dGMawDNu4ajv3SsBg6MlGFPapOaXNBonzsECdggt2i8CfCIJyyDU9LqY1Ult2uZ930ybibs_FYmRSn-2KLuMFs7H1l-frIBy2rcLh4-qHvl269H56qnTAmj1rADZcCUwNhjKIHeSsFqKzrxYnHuitoqiiY-glXfAmfEdrkp7o8pmtQWz5tOMhq8fh1ZEwGYVr17B_VMd8TOtvaz4mh1g-6NJBoO7uIlHVHM0aTT5Ai5xDsQVrtNdtFCWZIASkiTQngANHEe8Vky-KmB1MTSc9aOD2DwrVmlEDohQPKlP4ag4SPCxknTgo2GDBWMkvkU09_UNzFWrEBAKsvjuVjTufXaNeYlgzZm1L6Sh2Va1HCZHXvaVHPMb6GZgX6b3q_hvqL5_Mx9mN02zovg2m9WREw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -142,6 +116,32 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvrK-qaQ&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvrK-qaQ!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
+  - name: >-
+      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcJIoQTfatpD17NMFCYX4qfMn2bHewydsA09cYExZHXk9qQLsTmZEjEaANJGpT_wW98TeM1H9jZcOUvo9GOdLKI4hztEwmwRLY8YL0bkrMsW5sV1ndSnMTjOq68IQ3O-iXbJ4RvBdrvNvGPw47rlYkzySw33qrKoPhbp3ooHXp5mb6Gdcsa3ZZ12koQxXYUy1XB4nb5GNPRKA335IfMPaR59-Pxp6shwaPqlmvRtSmrL0oQTaJaQEWoO9wyE5lSKMNDlEdLvYgSYT--Fh4PulFfniwfdEn2TR6Jr92-SbUFzog
+    widthPx: 1878
+    heightPx: 1878
+    authorAttributions:
+      - displayName: UZU Revolving Sushi
+        uri: https://maps.google.com/maps/contrib/101151887810188324847
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXt9CuEYJrNfN5bOSBKwdVvuBEjG5JViHPK6PdGjILm3aQp5aI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNNgxsMsAsX3L8E2QhZZ8ByhFgyyJj0q7PF-ZG8&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNNgxsMsAsX3L8E2QhZZ8ByhFgyyJj0q7PF-ZG8!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
+  - name: >-
+      places/ChIJMwnoAADNt4kR6qrR6uihPAs/photos/AeeoHcJGjv_RfI9AbS6pjXuT5LNnW8ZC24RM28jkyyG4t4CtraafmdNVrZY2AwO8HzcRh3Z3N5bJa-TAmQZy6FGw9x1dRXx928kpXOofPw1cd-5iCrfVPIhPc9l3hj9hdQemnmWQYPfGFVh8vsAh-jprLDsFWQTHslxpYtlC0VvLVYQd6tY-_qsbx7vaJ1O3DtcCrrkrliSgmLV0EuHyyHyNj4BWeCe_2Z3wIbqHrgU8PYpHEzj-o8Xa0VwWiSI-sp90fmJk39YSlZyg1uQnr9JSn-NVmsrdNEHWBk5CQwWi493Jsw
+    widthPx: 1536
+    heightPx: 2048
+    authorAttributions:
+      - displayName: UZU Revolving Sushi
+        uri: https://maps.google.com/maps/contrib/101151887810188324847
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXt9CuEYJrNfN5bOSBKwdVvuBEjG5JViHPK6PdGjILm3aQp5aI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNTMwsqkZPOw4rsGRgIwCy-DlenUValSyxtXkqa&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNTMwsqkZPOw4rsGRgIwCy-DlenUValSyxtXkqa!2e10!4m2!3m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
 address: 1701 Rockville Pike A6, Rockville, MD 20852, USA
 street: 1701 Rockville Pike A6
 city: Rockville
@@ -182,7 +182,7 @@ phone: (240) 669-8684
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.8'
-rating_count: 909
+rating_count: 0
 website: http://www.uzu-sushi.com/
 reviews:
   - name: >-
@@ -462,6 +462,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

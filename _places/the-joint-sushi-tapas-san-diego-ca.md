@@ -13,20 +13,20 @@ description: "The Joint Sushi & Tapas serves delicious sushi in San Diego, Calif
 place_id: ChIJBWTtUDeq3oAR9qCdpu5szcI
 photos:
   - name: >-
-      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcI9QUz8ZwI8gNrfYhAyEHZsT2uVlmF2L_4G8D44NyRhT3fcvxOabf1AIuPEI5lKnT1t--eXUfQ4NlHyeVhNh0cNdepXXpAePC3qY9H1Uh6LW790QC_lcy26UKq0Fri8_0xWAe5geHv8SjUIrpVTT-joaV4k_wDm_bnlHfKMUcqwn7aTHc4j8kIY0FCP1L6tEobpxIoWCiG8oAqa7Xz0kR08JDcs1bW5TU1JaNn8l6RW3i1CyOVPr99fs5Rdy_NkwE26egH-gbgz1RiAQgQN69MhddEf3WUfGQBpf-R7SMwPV2bmvXO18Oz-xRal-zblxyJs2-EAM5rPWsJx7ofM_d3O40RX4SV5QHCe1iGqgEleRzJREkauyp1zthK-yC9vQ-B41WyKt5KZXZTYN8s8Th8Gtm9tfYpwgyZ9FizqsGXw_g
-    widthPx: 4128
-    heightPx: 3096
+      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcLjuywT43sLlLv4cNVab0wxK1jcVY9zP974hxQR_Wjiw4R-5LTUQEyeeZbHrCVlP3UPbSjHwlQ64zquwOUJFLM6DQK7qnZCYKET71H73A2YAe5AV1tnLoBegqJwyrgBxnJskxETUPZQs60H5wXHZ1LS0eoE2EkRJer0Wro62bWncBFD4bVkCrGZufKkPY_Y8rNKCQ4YvKyFN5aYpIXHW1d3VwGpyoyjYOGsBarVWYrn-2tIXSrN3kKdM8VFdVA0jtxzI6uSFomdEe9cdt4-t_I4aXyqZoXhI90go-nedlnzvk8IRYNO8zV8gv8L_iHmTiOHNeJR7sCsb-S2dZwoVE26RyrxxqAR90YWfunwEUhxHUlvnSilNoIcJTIaKfoiAR52cxVZ9myo0ffCcmScSWWxAjkaLTYz343Gz76i2uA
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Rackit Ramsey
-        uri: https://maps.google.com/maps/contrib/109442706896401331688
+      - displayName: Brett Sanders
+        uri: https://maps.google.com/maps/contrib/106215251408074327034
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXmimxP9-8gztr5LF4pRr2iO0Pyi1BN5QFYaDaPZ1ixROQuiq7y=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWmaYvELPlWfgR-q5d2q-Sz6xO_GPzLYDOQpFMw_KvV0vCIwY0K1g=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC0iquzCg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICF6a6Keg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC0iquzCg!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICF6a6Keg!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
   - name: >-
-      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcLkSPXTJVCfzlSegx6CnGhFlQMXcOG0yQWFIP_wbWr9ouOzT8gtCUVqkagGhiJOwtWpTs-eDY7B1nv-84KFsn8EivR9Oyt7zAbj_1LnUnpLCI1D2WLfU4rbmNoaXV5YQtpoT2sz6qhqf5PlpeYvl6zeL7-8097cHKa7tM52Tk0Jhc1FNiGrHO5XVF-kv5A5jhXciBdNpndAJT0jWAZIsBnyKOc3MK8BojwDL0IRAso5JDOAsf6VUwWuAipLnnVXGVLN-uxEN7A7QOhCeaKWWXtyN46Hzfkp2-nSHX8jFHr5uA
+      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcIgCiTWfR_GwMZbPNa6CpJEw_wMFX-Oa6U07ufpAs4rNte18rdOAnCwyJlQdeHtmbsT9QybBi0J4-PILCGee1fQVV2fSi28t6iHMHym-2ubh5WBNAP154mJDGJa2AxMWGtyjCe_8KhYGcDO-V0MzmhRBKCh6qfGV5BcU6JD0renh-m1j8IByqE1ORWuq5EtzRffJDEqWvjjeqa0y6dbEsp6I7rb60JOfxH6LSfyGSyt_3vxqRnPF-z254YS8V-kUeoedGyqw2PHmu0lXdO4M0VWtTL2sne5DEISFgEbefPYgQ
     widthPx: 1536
     heightPx: 2048
     authorAttributions:
@@ -39,20 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPj4TxFngL0z3tBuGeVSntbxwrT8TaS-RQ_TrbT!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
   - name: >-
-      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcL_8R14JWcPK7dSfyQ4RdkZUSFcpKxWDY7mdpp41JoD9SOiJA6zm0Y8Hul-4PxcKkRgWeOy0f1sND7bL3DqfpTmq5lrdYgTG93szn7djjlCiu69WBmFadP2aY3XA3nKZBsNAR2VXvXxTBXtG1fjCzlcahpfvVNVJ2XjI5EQR0oXrQiaBUJ6vslLAgNgdbYuXPpiBjyzWKw_B6OMGYMYG7itVkf-C_6eCeMz5do9V5MA5xERFSiiN0I5hY3CdylrHiBHvZvsMw2On8dvQSYCBh1oZjsSoYVk2ggb3eJNpgOI56NLkeANAaVuAZN3t72S4oHZ-iPCwGaI0s-OM7sIfpDTBgJH4F7ujmKdi5tfnYS1osX3AgKl5AJkBV3qQFc-wySTkONwKmSoYzpiQD4G5NX77clCCILP0HkxStqfGxUDF15Oj0Q3bRtgJOI9bHo-
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcLYVlcyHORA6AxknGCZFanayFPASG1l0TsuMktegc5Jy1RA-DoW1ljYDPe_2OPclp2rpHAJHm9mZ5vU9T3t1VRbOSVNyDF9yIbbJdeDGSi0zsRwdjjpSXj_UDANHP4LNvOI4XZ2XIvYDlvdOAo5DadQb3urO2vvmnm1L1pPYqkvow57xi5-wKXwXpc0v6gNTGQPvi-kpqSlQV5obUhJ-Hf5u-V0fVn-OHffEOf2hWIIBcJVIJLGciKLtmW--kh8kCRrV0W_SDcmxAB2_299CKqzK0TgkjOFYLYkyzOVIu5Gsw
+    widthPx: 3000
+    heightPx: 4000
     authorAttributions:
-      - displayName: Uchi Deshi
-        uri: https://maps.google.com/maps/contrib/116334671584015855231
+      - displayName: The Joint Sushi & Tapas
+        uri: https://maps.google.com/maps/contrib/103471016159322583863
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW7Q17fXqS_2yX4le7arh4hkZKbVZ8l-nl9D6RUf5L8n_o9zgj3bg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXUma09Gws8kp09HP6FYiVGaj-g15p9q2qshats4MgNEFpufYP7=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKz6hLSOmf4pk0AC2h3&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMc_MAXnS9e49NzWWwun5i-9OxtROHQMFph_Uri&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz6hLSOmf4pk0AC2h3!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMc_MAXnS9e49NzWWwun5i-9OxtROHQMFph_Uri!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
   - name: >-
-      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcLlQ4PgadydjtEmLq38VKSO-9SgsmuPza3NIrxLvb3a2xoLFYmYU_kPT62eOgWEgzqY9tut2I8lc9Cm8Atezru6OimFaZJSqtcmcBpc4hZ-T5KbejHDkeEZXk6zHsLYMgbUPsrfgWYEUbEA_Bq27RM-QPLWusFmjtdkP1wsQbemPFHRNkLnJPRaq2R_2cl7Xgq5HEO520cFfrzutiKZr4q9No0iPERf9SWcX0g3w2xGS5YbyOuw0On1O9TX1wQG8ckX2XdelwhVWkPA6TdvETp3NrKQPYp-PVKTFoU-Aw1kdA
+      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcKJl47BGRwSgYboT9cF8OJ4Wx3uK3jArJM9rMDR5qT2Z36awxYZ-lZGjieF-Gs14MI34r6-BPGMVfnrbvgOX2e7-yvgV399ZXSDfzmr2sglhmHOLZ8vxjRxM-bVKgegrOR7Z4QwfgIxKG7IuqxsjaJEiWsDosZGyeg-Wkm_s6wKLw3szGIgdHJGnpAx_-YJnUVA1oQrNUBqJlJ7v4MV5prSnNrb795ffqrhNeUDfqKgLK5ULJXTovHgO3Bf35dtxj6iKIVDAcQY4MrBOayoz7ephitzDbe23sEQW0GV_hEz4w
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -65,20 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPdUuYKOVkbGzwgBZaKvrQv-hELyKLROjJDx8mB!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
   - name: >-
-      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcI-2C-0kQ4Lue11CuFusePkn1wqWgqPcnYrEBvFxyVLx2HE7guKI8r8wEovrakyhFFhv4rfWUPRbo-mrXuPNLwxyOCLbP-rz4QMLetyuvo6jwxAtgalFGIHVr9G8vpbC4AdaViDBbNP5snuszy_3q_IXWDqnb4rnwb9fdXlYzGw0fuW5jF0rvhBtfW2BUU2ba4pw3pV3WzMw9bikyeCIfn7UdjzJRsR5ZacQKU2pxaHx975KDYz89YCiF228tAdfwU8_gRTS73MbK0EnRaGMns1SxYQ15mAoSmt0VFgcEbCv3YIiKWcUcsb8KxQFRE1e7ZKcWawhR3131kGSquuCPMZlo9BXeGrD0fQoQ62XdREh7b9FEHn9ZTbGwJ6uQBAFyP49dLZ6lH1pmPvtdDBkm_CY1Nj43LiXLC3hOe97zuubGhBFZxO9_mmuFs-FSAG
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcIyyvkHdqXuL02al3gGlZ0Z45cU5o3iJ7ErD_EeIzOFUPz7Ki0qXOLzu-B_8Li-eAHmbYPW5MG_Af3e3qUwi4gaXY_pDhSQNeThAWQZzssUjzP7q6oI78UJk88QhjkMjU83qFUtk1csZH8-S43so46w6x1M1BMn1EhpIM3VtXTRcaRP9JFLz413bQKgRy2MG6xfAMpAeDsoLBNKvI-wdv-ETzprWIooNMHgJOrI4gnHVdqn6bXl9SdOrcZt4K00a_jOUixbaHeWUDR-NC4WjlK9mLIQ5z5915gvuEZDCA4X9Q
+    widthPx: 3000
+    heightPx: 4000
     authorAttributions:
-      - displayName: Uchi Deshi
-        uri: https://maps.google.com/maps/contrib/116334671584015855231
+      - displayName: The Joint Sushi & Tapas
+        uri: https://maps.google.com/maps/contrib/103471016159322583863
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW7Q17fXqS_2yX4le7arh4hkZKbVZ8l-nl9D6RUf5L8n_o9zgj3bg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXUma09Gws8kp09HP6FYiVGaj-g15p9q2qshats4MgNEFpufYP7=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3ilW-yR_E2fmHtAAAot3&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMVuYSg9xiwnTgKVJOT5-cM801sniz_GGFIJ7OQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ilW-yR_E2fmHtAAAot3!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVuYSg9xiwnTgKVJOT5-cM801sniz_GGFIJ7OQ!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
   - name: >-
-      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcL_fxuQgcctQSsdhNGJYZCDRMBCISEoelPAEkg0CzJ7BN1DmrxWKiosx8aMU8lXxI51rtZY3NWnzIErhCrsCRxfhwzrM0KwFVb6UCb0aFHYrdv0RlGulTNl-H808BArGTZmNrieduk7AxmHA8MeUIxI1IHhODOhfBFnR2hw7tBBVVSBG7ou6OMzf3wzYpofee5AV0wi6gGeAuOvYgS49OFKszQuLo_59tZelBI89XVQhDa_jhZxIntMnm_V-JCCSP_PfjLjc18JJPim1_92uZniFkDZcMIyku6wJnB2GFtJyw
+      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcKaJxKdqcJkLFlC0w9jQR4yOBTbtnNAR2rs1Q-Q5FbKO8I9O7wMoVcTBWe2tXjAgdhh4MzabW4tiE2forPoK187ibql0nqTP1hQs2yrpMz97EHZCt8iMFCIrVvfchK8QP7bwsHbmuatZwrz3yBFax7j9VW6nPEuvFggR2VzUz7SiugiTSTE-JrxFjVTbR4oXhq_YuhzVQwcACP3xBmkdld_gazU_Cu0YM69W1OvCsEmqS8dK8CmV_csl2v4zkJ67pZI11nkIe5cIdghKUd7oB44n5Cs_Wqlji9C9jtnAeFPug
     widthPx: 1080
     heightPx: 810
     authorAttributions:
@@ -91,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNtsyTGwUc8ZBzxW_xQ9-iubkW22Y0qlvnZJyzs!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
   - name: >-
-      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcLzQFCj2jU9D4Z2UxzdbKj_eu5YbRQui4KltnN4uzDNyPj6-cx9R54eVeBEYmOp5VtjyoSMWwBTfi5nQo-ywvLTk4vlSwJvjcwV6X85VQ6AA8Ioc9cSTjRk11hb3x8ZRTuRhZY2CAO21rrQNPkAQz9Ld4S7mZx2rOz9kml5V0c2WRo6cEYGGPxxrj5AsBtLmJCuPIFL6EvQlxr_o_tHxhI3x8TRA_rJiJB4dk4rMy9FXVAq7y49ZfdyXMT9nFRP9ieacRXu0EZ5j8_BuXNUCJEfCwzfYrxC9lpvwwyzSoakKKwBAJTlerfJ8nJxn0WvC3-XzMwwGQwryfDQjz7mtBpsi_M91ZcusYXxc3D_vTUEPgvzz9lnpq6cNLwx3WUECi84xGHHVKTp2OG7OpDj3ij5TBxJ7_3wXFYD4X6FVe6lLlMyTEFEd4O2gAlLFQ
+      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcJ-eMfG6FaVGZGkASgsUHAgcUXvMzFE8L2sucrrO3josiKPH_3tSlFYjmw7EgeNuF6p40RPtdCz0HAmVKJ98A0i0XM29lxCWIeS4YcSu9KxE9mYX9w3fmm9rpnE_sOin7ZQ-PsU1ZhlEfGXI8x10_MSCIt-v2VKfMWysAoeln8bWRqHaH6mmt-ta71Tsr7SHBzv74D-WJwKFgciXEywF4-t6QdfWv_e_TA_DJiLf3GstATcGzFr4RHove1_UVUhawSVeEJDpJ6l9Gzt5fP1_21qAr2Lb_nIExWzc2MZDdJxXA
+    widthPx: 899
+    heightPx: 899
+    authorAttributions:
+      - displayName: The Joint Sushi & Tapas
+        uri: https://maps.google.com/maps/contrib/103471016159322583863
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXUma09Gws8kp09HP6FYiVGaj-g15p9q2qshats4MgNEFpufYP7=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOgx9raxoqkQoP8mZvW18evwU7ih4yv2ZfMWrZr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOgx9raxoqkQoP8mZvW18evwU7ih4yv2ZfMWrZr!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
+  - name: >-
+      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcKKsjQavHxiRHPHPmCUUV98zmqbQCLUgxN6orQ3JWErZl1fASluUIOpoaHqpRr7AH37gHAonXT0NfJ_Rk6TP54zZKtPSeDr0XmsOoq1Ns7zK-gB2aCQ2oYpLkwcY0SWMCymCJjwtXW5HbFgcDWTDffG63Dz0FnfSNF6RuPqiD8h4XLijX_k8S4Qph875pGsS-rRPqg7eWkYZurJFSG1jl3v0lLODuT0bQKRh_vbwm1A-S7EHw4yguC-bJEF6o6-knM1B4fybNmsRBsY5EcN0E1yuXaMSWDm51KwM9klOcaUm9-TZrgtOCB57JufsafPFAwlVAvA2oZXHxzd9e3pvQC-zQfPESnHLICloinS1sSmsiIpkCWaDJGXApP7Qw7zQnaJc0EpWaXXY0jwCJvkUJlnMYQko3Gvzgz9SIrDnnxa2ugeJsYXUMQrdlyh8g
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,20 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ilW8zx9w2fsCYsAC6_n!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
   - name: >-
-      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcLTtXv5C3PwDLkxavqnl0z1F_rQC0YlKAYJ11n5C3odb7lPE3BX4LfUFGmgVPyLpV3dhNDwCM-WSj2kwtlG0dluhSs7GAyeWjNz_MryFZ0NATAbRORu-Kwn-1YBx3BWbFPnKZMjTb1TZuHkR8nS8erRm75B7OPhzuIYuJAwFxmIfRX-4ZejWfmmJd410U1xS6a8-oppxUNmHn-7U6l3lZ5_g93gazboZr6iP4vDAkbZj0LSc06NNs73PqrdHAjDMZ9OuPX8q_DR5pCe7S6EVTobasoyzKrbnp6y__UUIjrIGQ
-    widthPx: 3731
-    heightPx: 3024
-    authorAttributions:
-      - displayName: The Joint Sushi & Tapas
-        uri: https://maps.google.com/maps/contrib/103471016159322583863
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXUma09Gws8kp09HP6FYiVGaj-g15p9q2qshats4MgNEFpufYP7=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPWSHNSlksxGtU8FAkRtRAKc2FhRMY1rvp4kJHy&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPWSHNSlksxGtU8FAkRtRAKc2FhRMY1rvp4kJHy!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
-  - name: >-
-      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcLundVOIO1WS4xOcXdT9LrtOyTJVl9LqswztH1J2SDZOl0qLI6vtOqOI7hq4JWXJDr1mmpkI45wCt_VjeKGNZXpkYi8889JsV_CCxmDaM1yryE6qk7FbVSZw4FcsbHBu66x_BjgtofNQTZ0SiRVXFTvnGPZanIQc1R5hbqlyN65QohvSIM9t9olob0TCfniCTgVTNRoO-54z3K5mB9FZAQSYz--8PQsGdzFZjk140UYxrtjr7YliB0s4fwk34mZt633OKHYYf74hkh7hrygDN-g3OzTV0it9zhsATpTZSgm5A
+      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcLRCINcmL-_A2GdouvU86mRzh3ZOWXRjIisuVTS_suNK_wvX1A-44ZzVKDXIYCap7VX6RiMw023xcP095dqF0dpqaeDZEp1u7pXo64dsLyXjszHb7odKaGa0ksEJzry375ipOri69t-eq35aT2c7AgrPTaUZY04YSkCwchW6Dc9dxCo38DYd0Qje0ltAf0nmoNQRseUOsRU5JyK-jc-jiMy-MpHlto1N1EwTRb8N92s3p5uf_gxBQ7n6uq8JAcGXifJfzPgYi4jh2OIp4EAEoE6rHBbG6RbP33vraLIWPHAUA
     widthPx: 1512
     heightPx: 2016
     authorAttributions:
@@ -130,18 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOsCSbN1WXSXtKZavbhGVFKcJMT8d60iijYXqDl!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
   - name: >-
-      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcL5rDzztIRugmL_V5jp2m7DXU5OHP1CsgJZvT1DJBhdf1wZ6FGPNlkzTZYxAuFubK7ikus470U_vjql_bv0-_WR5NbR4hYIBFCDWjyY5m_x0nvr95zcA6AMyK8ka-A7MGv4Amwe6kW-tlj-ae2BFDU-u5yuyuyq44bANdCnN-bgj248NQiDWNkPrytThj_-e5kzsdDtUij8tvPh4y0Oxewans_WZIYCpKvLViw7zOpM8TK_0N1EJ4-tmAUiHZv_hSUnGPjnK139ltk3VY61-0-PJn27clMN_KT1sYyaojZkXA
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJBWTtUDeq3oAR9qCdpu5szcI/photos/AeeoHcK4sKLG9znzjC-Gqpw1KRFLGr_NDpqwBR6-Viqlk4onX6jb90BPJ-TtKNuGzloMfBuJlsWvGFdmAU_obQOXYmUinKyOlX4vuXtxg0cmePASETeAxy4H4EvvQnwvbYOqMGllr8vPRJlYuV3G6125ZMQoAijPB9WNAWVvFjIqWc-Jfnq6AUzpA0qO9ewmmc1l-Y82-rShOMRtBVGvqTZWlxiG3Gt30aDOUJ-Hgfy2p3D4ndrIvLmZJMjUnOyEGaYYPlAOewUykWliNfwoJgTL2eGWiJnfrKOiRosAH0lS-RdShQ
+    widthPx: 1080
+    heightPx: 1080
     authorAttributions:
       - displayName: The Joint Sushi & Tapas
         uri: https://maps.google.com/maps/contrib/103471016159322583863
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXUma09Gws8kp09HP6FYiVGaj-g15p9q2qshats4MgNEFpufYP7=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOuwbDgNKO1V3gqdmHs6iEHYGs3CNTstHnt_f-L&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPezGLh0rDbwWlU0viU2z2qbcWi7YeppIQJYFCi&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOuwbDgNKO1V3gqdmHs6iEHYGs3CNTstHnt_f-L!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPezGLh0rDbwWlU0viU2z2qbcWi7YeppIQJYFCi!2e10!4m2!3m1!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6
 address: 4902 Newport Ave, San Diego, CA 92107, USA
 street: 4902 Newport Ave
 city: San Diego
@@ -210,6 +210,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

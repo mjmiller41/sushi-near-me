@@ -13,7 +13,7 @@ description: "Sushiko serves delicious sushi in Bossier City, Louisiana. Try fre
 place_id: ChIJrwUGTdIyMYYRhSQE7ILcVEk
 photos:
   - name: >-
-      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcKE00gf2N0WFJ-4VTegZer35YmXcs4kBZJnlOvvnkJJMhLD4FHkd9_6scjsvS2_2_tGOm0Vn_IcOVC_1l2098p3QW6FTP5brebIJZhhQHSQRnl1oxPsLzplz_uTGnK08eeJy4LfDbHq3kjfIUbz90KP4Rguggt7FVJn78n2L8qI-Vix-c5IeGY38Yc7LJRNZ3ipLz5N6z9gknHRNZQSIlzjW7mWjDZtiEyA7JPPrOuC89cbbhpBODYpD6ShOcjgL3Nyqw_YT7uGbXpLpTpel-IHV-mwbgw6a7RCiV9P1lluaA
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcLfKVexRlrfJCCyn-ADxoMJKDhMWMuUO08V6ECvTVX13iIYit9s83L7t91oEqJwaQcmNFi3VbFAr2Gk5vcZUxCgsrfn13g3Zh7fLwYMLYuDmIwhW9htbAgWZD5QrWXD2zM_iFnmQOInxEnK8huEPjWit67bWqlhcgPbI5B00ZX-FtEajYEv3pu9e-JB9nDkSSkbVx7uQj_LWVStus4048YeALk1JkYPLBM40jXq9cFDhLBnWgCRzL_riZNmVRvjauen8DcHA4GcZZWFyJqP8t7yJhRLNwC79e8ozaQVOf_a6A
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPXVHucEwXB3i2FTHH4-08Z6KwH-EEUXK94d1wY!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
   - name: >-
-      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcLXF5RQp4jOj_BiPTt_44h-vM-uoR7EIGtIPHSdYKVmUICkHShljhS50ry3Krsxf21kmHtLWtQbVB0tgSh2I7Ji9AFXqZH_qKT8_ykTO2V7ablK9LHzcrqE18_5fzSfh2axEbOIITJ8NlNzBRuasGQ8uwJ-zGS35PqJHbCy6vX5AR398zUaaL0e4-u-x-PXD2X2IyIOCW3vqaNr_F0Md569FVG5GCDLMcHRUd2TYITCPlspBOUzI_jP5G2NkCCKkokB9uRkBev5MlpY56o-Rg3yZy0ISRunl6MoB8fClLauWw
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcKmzPP3aGua8Ra5gzkV_mtHqjEjbRAQyOuAgdSc94S9ZzX3XqxfD5RDWaTn5Bux59tekKg07wgA7XrfGrO_RAcxpnN45-O7KBtrWvtLMV-2V5soKkanvghb2X1wDaK7yNvvCy0077zXJtU02emJGsbE-vDo9g_l8lWEcevjZgF_QfqhmsHsIAw-2kKijcxLVm0zKXDFEuCEhhxveNuG9soz3y7GYJY4SMSlo6NvcA8k0N741ks6cgv87gU6IFtUjVOtBRiG_UwNzmD8hk2Rp-rKjGX0MkdJZId5WwbgTR64IA
     widthPx: 1440
     heightPx: 1004
     authorAttributions:
@@ -35,11 +35,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXJZxdmID1B5xkL9nD4ldHMKomPgS1TqhODcdGqmGpvz0lDtEk=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOvbYLWs5iHqdk8b74hl_RXxWLRUyCF_R3wSWiq&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOja-zHI7MFyUnwZx8XX23LhJ3dCKAz6RGe838q&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOvbYLWs5iHqdk8b74hl_RXxWLRUyCF_R3wSWiq!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOja-zHI7MFyUnwZx8XX23LhJ3dCKAz6RGe838q!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
   - name: >-
-      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcI9IzLXIZpARMT6v7MIpaWOH2ms5V5nWoisq88a9sek9IZ9khXGhMm0hRDAPNc9ESfX9U2WEOItbyMmB_amdcEdUPKfHR33-XnnhlrL3uwhd07WbXCmiHD75k8eZoifsa8h0Bo_XEmJW7357ZwQ0BcMc0rUqmZnnXpfd2KoF19tWrdqo2frQhgBrreAVTWB_kGomELHdVYowjDb0yRQUNT5AH6Kcpy3JOpO2X1QMOSwzUclejNXkMzWzNa7moSpK6f175YqOpzmkTaHIoFf2OI-tyEHgpVc710i85DURJ2wUw
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcIZZCK4rRoL_3u0yjpwF0tbXuTzA5nVjmpLGeUoBKMJlvHm6CewDO-urS5M1mmmC5-J-zSnEl-lguGGRVDEjGGsRzpqc6lCOmteRK-uFazvmc5csfKWVLx66NjD-2qrNbT2pH_4dZXI09Hw1-fECfk9X1nozqbMTozEKcff4J3pcMQg8EtaBFTDJC24U0RmNGLctm6y-7QwSUt-uXpIzafG7m2Bz6wtttbl9T7YICPlpKpsIpBGOql7S3ZVyKiwJa-eNo2pUC0laEUpbv2eIQocviaYy5KF-VmryDhSXFbAUA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOM_mZgRFRbXX6HZAqBUokjoYVQzTffRejPYSJI!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
   - name: >-
-      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcJccLn4CzMOTcp7eUMtidRUuQENE7aZGLZJqcuY4GsgPV91MeUw7lcXYVa3fBEPL2dyPhA8whR5qvAMzNgpBuMAYCLxgmT0xMhQayKjCyoGwaJteq9t-6oj4yPLFuHB5yxLiNUtejq3y3A8HkjBHq789Jk9hLqCEEAHocTbemVJfLIPecizcLyywcNooxdhQ-RX40cqSByLK_YfmY-sRmnyrzGTqGgedzMykA6sUpiflgIab3ii5grdMdtuAC3TCqdNaWsomnlG4LkfroB30XD4SHvlWo-rLQhvwcPajNzkww
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcIZegnq8z6meHH5SqcDDBlEH5MOKDB7z2gp86YjR2dNedEnpnOyKuVT0mz1txIpKmPRjqMOrj9xufiH251BmTZHCH9uPMyFtvac4hbpZKzz9zI-Lmrj1hKyRAwnWoHp4vQSA_QrPmA0iH4yDOTrZ-msEQpDVlrr1nYBOH-BEMf7P_OgRfcSEgROvUZUJFFgxKPMs3mFH-MTINMqXuXKGRnDzqi-gO7P4l90pE9v4YV9mP7Y-D7I_H-QA5EvjT-CxMygLTkj_CO4pR95ZVC7OZ5tjIstJnZJZod90afTlbXmtQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,33 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPbszypo5y-bdK1IkLUFaZLo1P94GruJgRsosrA!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
   - name: >-
-      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcLuhJ6JcDZPOQUE7i1onBMCkQQ7lpGwnSwu_p23VBUzmRZORVXC0mflFhMFwzqkPvXKhEi8jAVPwrFMJ1JL3cS0LG3SwyoHbqckXCMW9h6Cy8Cn4NjRJuc5n-hP1hc_6U7YdQiiTfj9Upr3WIyTFwOKepYRJdWcLG9nCYi-Dw6SAB4eoadqoNv5cCxetG1iBZ7sWczNzWaxsMYzxvLBvRObf7sVP6YaqUkqjRJZHNoXOzLfM2kR6RdGol-oX1Y_i4iJxY5z-_uELAymCgHIuTgQV0nTsE4xCWWCHKgLmz4XVA
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Sushiko
-        uri: https://maps.google.com/maps/contrib/108859500868750956556
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXJZxdmID1B5xkL9nD4ldHMKomPgS1TqhODcdGqmGpvz0lDtEk=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOE3oMGTmAZYOMwHDrAahKlR0aw3KVgASYFV2fc&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOE3oMGTmAZYOMwHDrAahKlR0aw3KVgASYFV2fc!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
-  - name: >-
-      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcIzywxMx7H9_QIBYk_ciRXWC3EgfSipYA8ExSFwVAci6-i3jI8HpwE_53A0QfI4P_nwD_r9wcrVSjGuZN7IcUCxK3uDfOFIvFggAyzGML-wwk3vuc1lW5QqlupO5sD9vxApFYDTu7xfqmGNrKnrljpULiiiHQod375nn7XRPHwRGHij4B28pXfYIu1JZ7N5Oc-SDMYumxqrm4du44REDshn13TGHTvVIdWGgJbphzqyG5r72h9DtRs_dmiAsFrg-WhfaKmkp0JAirlAfX5s97oOId4FvAB0si-t-7VgAwqpMQ
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Sushiko
-        uri: https://maps.google.com/maps/contrib/108859500868750956556
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXJZxdmID1B5xkL9nD4ldHMKomPgS1TqhODcdGqmGpvz0lDtEk=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMYWuuo6Q9Ok2rYjBbLJfG29lQpgyfYLG2sYWsc&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMYWuuo6Q9Ok2rYjBbLJfG29lQpgyfYLG2sYWsc!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
-  - name: >-
-      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcIlRi2tyOlPM--Qgh83cRnrrMsB0TUCyciXwqcsa4Gwf54PTchUaxzoAKGrrIJTjTeJJjDosJ3VfcxRByEypI51I2kz6Llf_X6-K-UWqRHxMJRE1DaGPS3n-BTpIhMASegRgrHWtdFKHrbJG_l3hJ0-SVDJFW3B7Lkg3ltB2kVtxIRpcLKAoQDYJ_N_yH1Q3UdyqcIkAoGqO7L3jeXEaszTTgnhmYxhJeh9Y1gJykvSlfO_y7GPtia-yMl4NWwZG0XZWdOoA0fz56TO91Tmhg7OLAzXID6P4yH-kdsJF431SA
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcIljv-9HXvehDjSrP6C0FlPBqJCmpBiZYyYbrBXAcuK2twOFzTP-K162X_YrS5JgeUA_c9-nVjLVgDZAfv0uO5KwEFSqYhHbNTbo5XIEdrHCWYAKxYWr-2SkERWZdXQDShH04IwGkyUSss3HCzPwH9E_LXC50MBdHjctHTxv22S-IcUU346y-pz9sYi3njglbeujGYuJ45lR1wc9_oM8CztgeVzgzAnT726Hj3zTQ2cRZlC_U_soPqaGnUSm-eN94b9paKbY7lc9_YYBmUpM_6N2hynIRw0kxXXcI-Q5eqPuw
     widthPx: 1440
     heightPx: 1800
     authorAttributions:
@@ -104,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNaAuJye-yudIJigl879DuWozM0p-m7QaJy6JCJ!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
   - name: >-
-      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcLwVHK4nxav2eRwKn7005DZBZ8b6-3X0B_1Ldh9G02wwbQWqw5AxI4t7TGrOP_BuDgZXrxMnLxneYZwWxfRT9o9v4wkX7OPOsR9pPR5Y0d-5ZmLh9oP4neZ6LTEFINJf6vZ-ktaKwORqsbyWDHPuu1yU8K8m9U4OYc4MaEJMeyQ5mm9JfWsLNDAHWJAFVlzH0fPSSMP0OgkPxb79m3vZ7l9JUOA7yP6_Y5ymkWdfgVqUCWcpKHdaujz0dYHkAobDliA6uXRoTJnEYbqnDxq0Hq1Bt3A5KYW8OoIpPoWtiEsbg
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcJTe9GMmiKhK5382B41kLcCvu-oFnLNbVYz6rXaAivQUhFX2pxKPIZfjJwSMgFX3beOL37303iDjaCU0b0MmRrdBtj-rgv74usH5k0BtJgkutYQD3PMa8FTzVyooeQ0uD0h281KZUkPogFor-yoXrsXLvU_hgEkQVN_FEDs00dwZMKKZvGa7U3nB7L5uhPRCs6HaK60qKvyXxKDniiC9QBkVRVYtTumjvEYeAlmOjHWPZxJ1QNVgcNQDqFjKQtXtNIKcePYJao0W1-AZsQCmE3d3YmcO5JzE5RZT6BDVxAoQg
     widthPx: 1440
     heightPx: 1800
     authorAttributions:
@@ -117,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO9Ql57f34xCmgeHJ79NvWzaQUYrPQiXPxAf7ed!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
   - name: >-
-      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcIbFuLkrO9i7dsPyVSkVVADuEwKeODUn5ArJHmP1OYmaP13w7lIYcHYoKQiu-Ow-iN-5lMBBp9OR0RL1qfPuO7hisN0WEAP3QTXEDSxulqpWpy5iddsNqKCaQWV0wG8jlnrbEbjKZ2mrlCZ8hc8B78p9_ZkfSwb6aKEb55FfAa9Ihs5ByZJ59grKzgY3INO2QEJxu4PEE-kJfIBcBCEy-vOTZDZxwhCIMjRT2i2K0GHXkwahP_F6nV8Li2GocTMC4wmGdM0fHVDanW5i6b2BHZIn2hCKCTqL8SDhaVSUj_Gew
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcJdx1hTgkJBWYcTeFIr7oEubdAlmZuJuyd-Mi1-ALTUMqCq-ZJh8DyPu5dKYksePRrZ4LzyBicF9mvCBe0yNdhhq43foEhCcGFhPRLnkIkhBFxxH_qukfdZ_TeF-ohKhZ_LbS6hlrA6svzwFB4a4IIt26YdkUV_648pasrKX6HbcsVothZ2M_DArgrP11BMHyxi9UZz4FvIAuWJyttAO9emoMSx02kkwzGmljRgy7aitHY9SDuwxONss8RBcnkAcLvU0bBUy2wP_I5eeKYqT5hgv967B3scP49pG8wPDF_DWg
     widthPx: 1440
     heightPx: 1004
     authorAttributions:
@@ -130,18 +104,44 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNnand5h3rlg_z2K08d0pRmPFhiAxzV0WysPOHi!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
   - name: >-
-      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcKlSCgL8cG8CcrOjCsOhUHAJ2VHIMTYmkXtbJxAWIwhK7DmCamOyxOHfMV7P4v2Y_uObC438Vqrg3m3sLEDW_yZdqXSaB_QeiRpjjffKKHgomK6feUY0KPmk5Z26wuUrONMf2I1-y7Xb36qyxoY4nX9bdWMO3MFj-qHOsf8yfuCt71HiQ4L6wTM0Umo6yEJ_EbCeZLKzFatckE4s0hOZwntg7jzbLIbxjMDMmgxDSsoZc1qBQIu-a7jAM0mosLKggy7wOyGRJDnfL8B1q_WqgUFlV0aKFWUFW05JcbVxdIBZQ
-    widthPx: 1440
-    heightPx: 1004
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcJiOHnZ5Ph6EuO47YK7hBb-1F9U2Te5aQWwghQQ2HAmt8yVEbFzY3aopdxz-rpRSJNOR4giovEd3i_w-TfDKsuOtaecgxdKR7smyuCOZY_NEPURdShelWeZdxabK9AlBHSr69_c76Fwh_SJcIXFXezDoVJyqWnrDKDp7yIIbzjQ5ROnkp4jSHaVYT9Y7yHUgN6xtZB23a0h-sXayZ2H0XeSFr9Qy8KXQScBJQi510HbhTnnhXGv57Yimhm2fw3_4UgYy36wnt2AcBBj_jqZK2cxxiwTz5rp1v4kJdp-Y8QDJQ
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
       - displayName: Sushiko
         uri: https://maps.google.com/maps/contrib/108859500868750956556
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXJZxdmID1B5xkL9nD4ldHMKomPgS1TqhODcdGqmGpvz0lDtEk=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOja-zHI7MFyUnwZx8XX23LhJ3dCKAz6RGe838q&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipODwzhbq9-NrV8rkC48mn8BVH69Zb9zuQwm1_oo&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOja-zHI7MFyUnwZx8XX23LhJ3dCKAz6RGe838q!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipODwzhbq9-NrV8rkC48mn8BVH69Zb9zuQwm1_oo!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
+  - name: >-
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcIuIkKQ0G-B9-UbjSmT8CSYX7m2fl0VBFwXQ-sC1SXGubd5uU6GbIxJ0d8a_zfMrPPNwOq66wfw_qbRDyDnCUSarLmi23Z7RO-RxNuGJWum_S_M6V_j8TqEbqX6p7mDKwrFm0T_txgiz8cUG5sTGo-Q1nSwwZJ3inS5ktJzHiUAq1IMh5pvXlNsWUGcAi9tOISKrUUq-ij6B5ieqetlF8f943iNZk8g7VIQ-zBFfxMU6Efz7IM9Bp9HgBr9l_tplDSegHcP30uFrJh8Uf0fe1D4EZ6Lsc-BixIAuYsrn52ijQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sushiko
+        uri: https://maps.google.com/maps/contrib/108859500868750956556
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXJZxdmID1B5xkL9nD4ldHMKomPgS1TqhODcdGqmGpvz0lDtEk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPaM9E8Q8X0WvhhgrQLlM0_yteCkJRsD_xF3q-A&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPaM9E8Q8X0WvhhgrQLlM0_yteCkJRsD_xF3q-A!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
+  - name: >-
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/photos/AeeoHcIvPOnIArBTq6IsXJnO-1A6OHnqGuDGdYJe1jLn6pAT6ifASAyT_oVSXGtEbwuCqWn0cu1ZsDwNXSzNZTTd_82UDOiq4nH3t0-N62CxFnrnjCpBJyuYpv-YCgFpx4tkMpct5T6BncZ9CNkdD-RlNTf-5B42bd7fmhLSSQpChIEOl6CnGlWhc0bY4x3whcDdOMlnCAr8QKWfWgMv8srq-tJjCdbQNetW0wD1PxEFI2OVsGwWZ9RA9sIcNZXEA9IO6_J4OblaYu1-NaygNrpO9yPOfBQ29CbaRzvjfGbUrNf4Fw
+    widthPx: 1440
+    heightPx: 1800
+    authorAttributions:
+      - displayName: Sushiko
+        uri: https://maps.google.com/maps/contrib/108859500868750956556
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXJZxdmID1B5xkL9nD4ldHMKomPgS1TqhODcdGqmGpvz0lDtEk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN3VxYGB-UftYdhvQuga24te7njQpkbclI9ye7l&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN3VxYGB-UftYdhvQuga24te7njQpkbclI9ye7l!2e10!4m2!3m1!1s0x863132d24d0605af:0x4954dc82ec042485
 address: 650 Boardwalk Blvd, Bossier City, LA 71111, USA
 street: 650 Boardwalk Blvd
 city: Bossier City
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x863132d24d0605af:0x4954dc82ec042485!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (318) 746-2626
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 758
+rating_count: 0
 website: https://www.sushikoloveorder.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

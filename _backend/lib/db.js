@@ -1,27 +1,32 @@
 import { getCurrMthYr } from './utils.js'
 import fs from 'fs/promises'
-import path from 'path'
 import { config } from './config.js'
 import pg from 'pg'
-
-const sslConfig = config.devMode
-  ? { host: 'localHost', user: 'postgres', password: '', port: 5432 }
-  : { host: 'localHost', user: 'postgres', password: '', port: 5432 }
-// {
-//   ssl: {
-//     rejectUnauthorized: true,
-//     ca: await fs.readFile('./rds-ca-bundle.pem', { encoding: 'utf8' })
-//   }
-// }
 const { Pool } = pg
-const pool = new Pool(sslConfig)
 
-pool.on('connect', client => {
+const rdsConfig = {
+  user: 'postgres',
+  password: 'GAP5dK2qTbzanPV',
+  host: 'gmap-search-db.chsm6wwis875.us-east-1.rds.amazonaws.com',
+  port: 5432,
+  ssl: {
+    rejectUnauthorized: true,
+    ca: await fs.readFile('./rds-ca-bundle.pem', { encoding: 'utf8' })
+  }
+}
+
+let pool = new Pool()
+// if (config.devMode) pool = new Pool()
+// else pool = new Pool(rdsConfig)
+pool.on('connect', connectCB)
+pool.on('end', client => console.log('Database closed'))
+
+async function connectCB(client) {
   const databaseName = process.env.PGDATABASE
   // Check if the database exists
-  client.query(
+  await client.query(
     `SELECT 1 FROM pg_database WHERE datname = '${databaseName}';`,
-    (err, result) => {
+    async (err, result) => {
       if (err) {
         console.error('Error checking if database exists:', err)
         // client.release() // Release the connection
@@ -30,7 +35,7 @@ pool.on('connect', client => {
 
       if (result.rows.length === 0) {
         // Database doesn't exist, so create it
-        client.query(`CREATE DATABASE "${databaseName}";`, createErr => {
+        await client.query(`CREATE DATABASE "${databaseName}";`, createErr => {
           if (createErr) {
             console.error('Error creating database:', createErr)
           } else {
@@ -39,172 +44,186 @@ pool.on('connect', client => {
           // client.release() // Release the connection
         })
       } else {
-        console.log(`Database "${databaseName}" already exists.`)
+        // Database exists
+        // console.log(`Database "${databaseName}" already exists.`)
         // client.release() // Release the connection
       }
     }
   )
-})
-
-async function initPlacesApiSkuDataTable(client = '') {
-  let release = false
-  if (!client) {
-    client = await pool.connect()
-    release = true
-  }
-  try {
-    await client.query('BEGIN')
-    await client.query(`
-      CREATE TABLE IF NOT EXISTS places_api_sku_data (
-        id TEXT,
-        sku TEXT,
-        func TEXT,
-        category TEXT,
-        description TEXT,
-        fields TEXT[],
-        usage_caps INTEGER[],
-        costs_per_one_k DECIMAL(4, 2)[],
-        cost_level INTEGER,
-        request_count INTEGER,
-        cumm_cost DECIMAL(5, 2),
-        billing_period TEXT,
-        free_limit_hit BOOLEAN,
-        updated_at TIMESTAMP DEFAULT NOW(),
-        PRIMARY KEY (id, billing_period)
-      );
-      CREATE INDEX IF NOT EXISTS idx_places_api_sku_data_func ON places_api_sku_data (func);
-      CREATE INDEX IF NOT EXISTS idx_places_api_sku_data_category ON places_api_sku_data (category);
-      CREATE INDEX IF NOT EXISTS idx_places_api_sku_data_billing_period ON places_api_sku_data (billing_period);
-    `)
-    await client.query('COMMIT')
-  } catch (err) {
-    await client.query('ROLLBACK')
-    console.error('Database initialization error:', err)
-    throw err
-  } finally {
-    if (release) client.release()
-  }
 }
 
-async function initSushiRestaurantsTable(client = '') {
-  let release = false
-  if (!client) {
-    client = await pool.connect()
-    release = true
-  }
+async function query(text, params) {
+  let response
   try {
-    await client.query('BEGIN')
-    await client.query(`
-    CREATE TABLE IF NOT EXISTS sushi_restaurants (
-    place_id TEXT PRIMARY KEY,
-    photos JSON,
-    address TEXT,
-    street TEXT,
-    city TEXT,
-    state TEXT,
-    zip TEXT,
-    country TEXT,
-    neighborhood TEXT,
-    latitude DECIMAL(9,6),
-    longitude DECIMAL(9,6),
-    accessibility_options JSON,
-    business_status TEXT,
-    name TEXT,
-    google_maps_links JSON,
-    primary_type TEXT,
-    opening_hours JSON,
-    secondary_opening_hours JSON,
-    phone TEXT,
-    price_level TEXT,
-    price_range TEXT,
-    rating DECIMAL(2,1) CHECK (rating BETWEEN 0 AND 5),  -- e.g., 4.5
-    rating_count INTEGER DEFAULT 0,
-    website TEXT,
-    description TEXT,
-    reviews JSON,
-    parking_options JSON,
-    payment_options JSON,
-    allow_dogs BOOLEAN,
-    curbside_pickup BOOLEAN,
-    delivery BOOLEAN,
-    dine_in BOOLEAN,
-    good_for_children BOOLEAN,
-    good_for_groups BOOLEAN,
-    good_for_sports BOOLEAN,
-    live_music BOOLEAN,
-    menu_for_children BOOLEAN,
-    outdoor_seating BOOLEAN,
-    reservable BOOLEAN,
-    restroom BOOLEAN,
-    serves_beer BOOLEAN,
-    serves_breakfast BOOLEAN,
-    serves_brunch BOOLEAN,
-    serves_cocktails BOOLEAN,
-    serves_coffee BOOLEAN,
-    serves_dinner BOOLEAN,
-    serves_dessert BOOLEAN,
-    serves_lunch BOOLEAN,
-    serves_vegetarian_food BOOLEAN,
-    serves_wine BOOLEAN,
-    takeout BOOLEAN,
-    updated_at TIMESTAMP NOT NULL DEFAULT NOW(),
-    CONSTRAINT unique_restaurant UNIQUE (latitude, longitude));
-    CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_rating ON sushi_restaurants (rating);
-    CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_city ON sushi_restaurants (city);
-    CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_state ON sushi_restaurants (state);
-  `)
-    await client.query('COMMIT')
-  } catch (err) {
-    await client.query('ROLLBACK')
-    console.error('Database initialization error:', err)
-    throw err
-  } finally {
-    if (release) client.release()
+    const start = Date.now()
+    response = await pool.query(text, params)
+    const duration = Date.now() - start
+    // console.log('executed query', { text, duration, rows: response.rowCount })
+  } catch (error) {
+    console.error(`Db query(): ${error}`, { text })
   }
+  return response
 }
 
-async function initZipSearchHistoryTable(client = '') {
-  let release = false
-  if (!client) {
-    client = await pool.connect()
-    release = true
-  }
-  try {
-    await client.query('BEGIN')
-    await client.query(`
-      CREATE TABLE IF NOT EXISTS zip_search_history (
-        id SERIAL PRIMARY KEY,
-        latitude DECIMAL NOT NULL,
-        longitude DECIMAL NOT NULL,
-        zip_codes TEXT[] NOT NULL,
-        last_searched_at TIMESTAMP NOT NULL,
-        UNIQUE (latitude, longitude)
-      )
-    `)
-
-    await client.query('COMMIT')
-  } catch (err) {
-    await client.query('ROLLBACK')
-    console.error('Database initialization error:', err)
-    throw err
-  } finally {
-    if (release) client.release()
-  }
-}
-
-async function initDb() {
+async function getClient() {
   const client = await pool.connect()
+  const query = client.query
+  const release = client.release
+  // set a timeout of 5 seconds, after which we will log client's last query
+  const timeout = setTimeout(() => {
+    console.error('A client has been checked out for more than 5 seconds!')
+    console.error(`The last executed query on this client was: ${client.lastQuery}`)
+  }, 5000)
+  // monkey patch the query method to keep track of the last query executed
+  client.query = (...args) => {
+    client.lastQuery = args
+    return query.apply(client, args)
+  }
+  client.release = () => {
+    // clear our timeout
+    clearTimeout(timeout)
+    // set the methods back to their old un-monkey-patched version
+    client.query = query
+    client.release = release
+    return release.apply(client)
+  }
+  return client
+}
+
+async function initPlacesApiSkuDataTable() {
   try {
-    initPlacesApiSkuDataTable(client)
-    initSushiRestaurantsTable(client)
-    initZipSearchHistoryTable(client)
-    await client.query('COMMIT')
+    await query(`
+        CREATE TABLE IF NOT EXISTS places_api_sku_data (
+          id TEXT,
+          sku TEXT,
+          func TEXT,
+          category TEXT,
+          description TEXT,
+          fields TEXT[],
+          usage_caps INTEGER[],
+          costs_per_one_k DECIMAL(4, 2)[],
+          cost_level INTEGER,
+          request_count INTEGER,
+          cumm_cost DECIMAL(5, 2),
+          billing_period TEXT,
+          free_limit_hit BOOLEAN,
+          updated_at TIMESTAMP DEFAULT NOW(),
+          PRIMARY KEY (id, billing_period)
+        );
+        CREATE INDEX IF NOT EXISTS idx_places_api_sku_data_func ON places_api_sku_data (func);
+        CREATE INDEX IF NOT EXISTS idx_places_api_sku_data_category ON places_api_sku_data (category);
+        CREATE INDEX IF NOT EXISTS idx_places_api_sku_data_billing_period ON places_api_sku_data (billing_period);
+      `)
   } catch (err) {
-    await client.query('ROLLBACK')
-    console.error('Database update error:', err)
-    throw err
-  } finally {
-    client.release()
+    console.error('Database initialization error:', err)
+  }
+}
+
+async function initSushiRestaurantsTable() {
+  try {
+    await query(`
+        CREATE TABLE IF NOT EXISTS sushi_restaurants (
+        place_id TEXT PRIMARY KEY,
+        photos JSON,
+        address TEXT,
+        street TEXT,
+        city TEXT,
+        state TEXT,
+        zip TEXT,
+        country TEXT,
+        neighborhood TEXT,
+        latitude DECIMAL(9,6),
+        longitude DECIMAL(9,6),
+        accessibility_options JSON,
+        business_status TEXT,
+        name TEXT,
+        google_maps_links JSON,
+        primary_type TEXT,
+        opening_hours JSON,
+        secondary_opening_hours JSON,
+        phone TEXT,
+        price_level TEXT,
+        price_range TEXT,
+        rating DECIMAL(2,1) CHECK (rating BETWEEN 0 AND 5),  -- e.g., 4.5
+        rating_count INTEGER DEFAULT 0,
+        website TEXT,
+        description TEXT,
+        reviews JSON,
+        parking_options JSON,
+        payment_options JSON,
+        allow_dogs BOOLEAN,
+        curbside_pickup BOOLEAN,
+        delivery BOOLEAN,
+        dine_in BOOLEAN,
+        good_for_children BOOLEAN,
+        good_for_groups BOOLEAN,
+        good_for_sports BOOLEAN,
+        live_music BOOLEAN,
+        menu_for_children BOOLEAN,
+        outdoor_seating BOOLEAN,
+        reservable BOOLEAN,
+        restroom BOOLEAN,
+        serves_beer BOOLEAN,
+        serves_breakfast BOOLEAN,
+        serves_brunch BOOLEAN,
+        serves_cocktails BOOLEAN,
+        serves_coffee BOOLEAN,
+        serves_dinner BOOLEAN,
+        serves_dessert BOOLEAN,
+        serves_lunch BOOLEAN,
+        serves_vegetarian_food BOOLEAN,
+        serves_wine BOOLEAN,
+        takeout BOOLEAN,
+        update_category TEXT,
+        updated_at TIMESTAMP NOT NULL DEFAULT NOW());
+        CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_rating ON sushi_restaurants (rating);
+        CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_city ON sushi_restaurants (city);
+        CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_state ON sushi_restaurants (state);
+      `)
+  } catch (err) {
+    console.error('Database initialization error:', err)
+  }
+}
+
+async function initZipSearchHistoryTable() {
+  try {
+    await query(`
+        CREATE TABLE IF NOT EXISTS zip_search_history (
+          id SERIAL PRIMARY KEY,
+          latitude DECIMAL NOT NULL,
+          longitude DECIMAL NOT NULL,
+          zip_codes TEXT[] NOT NULL,
+          last_searched_at TIMESTAMP NOT NULL,
+          UNIQUE (latitude, longitude)
+        )
+      `)
+  } catch (err) {
+    console.error('Database initialization error:', err)
+  }
+}
+
+async function initZipCodesTable() {
+  try {
+    await query(`
+        CREATE TABLE IF NOT EXISTS zip_codes (
+          zip TEXT PRIMARY KEY,
+          type TEXT,
+          decommissioned BOOLEAN DEFAULT false,
+          primary_city TEXT,
+          acceptable_cities TEXT,
+          unacceptable_cities TEXT,
+          state TEXT,
+          county TEXT,
+          timezone TEXT,
+          area_codes TEXT,
+          world_region TEXT,
+          country TEXT,
+          latitude DOUBLE PRECISION,
+          longitude DOUBLE PRECISION,
+          irs_estimated_population INTEGER);
+        `)
+  } catch (err) {
+    console.error('Database initialization error:', err)
   }
 }
 
@@ -237,32 +256,56 @@ async function upsertPlace(_place) {
     .filter(col => col !== 'place_id')
     .map(col => `${col} = COALESCE(EXCLUDED.${col}, sushi_restaurants.${col})`)
     .join(', ')
-
-  const query = `
-    INSERT INTO sushi_restaurants (${columns.join(', ')})
-    VALUES (${placeholders})
-    ON CONFLICT (place_id)
-    DO UPDATE SET ${setClause}
-  `
-
+  const queryTxt = `
+      INSERT INTO sushi_restaurants (${columns.join(', ')})
+      VALUES (${placeholders})
+      ON CONFLICT (place_id)
+      DO UPDATE SET ${setClause}`
   try {
-    await pool.query(query, values)
-    console.log(`Upserted place_id: ${place.place_id}`)
+    const response = await query(queryTxt, values)
+    if (response?.rowCount > 0) {
+      console.log(`Upserted place_id: ${place.place_id}`)
+      return response.rowCount
+    }
   } catch (error) {
-    throw error
+    console.error(`upsertPlace error: ${error}`)
+  }
+}
+
+async function insertZipCodesData(rows) {
+  await initZipCodesTable()
+  const columns = Object.keys(rows[0])
+  const values = rows
+    .map(zipObj => {
+      let vals = Object.values(zipObj)
+      vals = vals.map(v => {
+        if (typeof v === 'string') return `'${v.replaceAll("'", "''")}'`
+        else if (!v) return 'DEFAULT'
+        else return v
+      })
+      return `(${vals.join(',')})`
+    })
+    .join(',')
+
+  const queryTxt = `
+      INSERT INTO zip_codes (${columns.join(', ')})
+      VALUES ${values}`
+  try {
+    const result = await query(queryTxt)
+    console.log(`Upserted ${result.rowCount} of ${rows.length} records`)
+    return result.rowCount
+  } catch (error) {
+    console.error('Error upserting to zip_codes:\n', error)
   }
 }
 
 async function upsertPlacesApiSkuData(skuObjArray) {
   await initPlacesApiSkuDataTable()
   // Ensure updated_at is always included
-  const newSkuObjArray = skuObjArray.map(skuObj => ({
-    ...skuObj,
-    updated_at: 'NOW()'
-  }))
+  const newSkuObjArray = skuObjArray.map(skuObj => ({ ...skuObj, updated_at: 'NOW()' }))
   const columns = Object.keys(newSkuObjArray[0])
   const values = newSkuObjArray.flatMap(skuObj => {
-    skuObj.cumm_cost = Number(skuObj.cumm_cost.toFixed(2))
+    skuObj.cumm_cost = Number(skuObj.cumm_cost).toFixed(2)
     skuObj.costs_per_one_k = `{${skuObj.costs_per_one_k
       .map(cost => cost.toFixed(2))
       .join(',')}}`
@@ -270,9 +313,7 @@ async function upsertPlacesApiSkuData(skuObjArray) {
   })
   const placeholders = newSkuObjArray
     .map((_, rowIdx) =>
-      columns
-        .map((_, colIdx) => `$${rowIdx * columns.length + colIdx + 1}`)
-        .join(', ')
+      columns.map((_, colIdx) => `$${rowIdx * columns.length + colIdx + 1}`).join(', ')
     )
     .join('), (')
   const setClause = columns
@@ -280,205 +321,134 @@ async function upsertPlacesApiSkuData(skuObjArray) {
     .map(col => `${col} = EXCLUDED.${col}`)
     .join(', ')
 
-  const query = `
-    INSERT INTO places_api_sku_data (${columns.join(', ')})
-    VALUES (${placeholders})
-    ON CONFLICT (id, billing_period)
-    DO UPDATE SET ${setClause}
-  `
-
+  const queryTxt = `
+      INSERT INTO places_api_sku_data (${columns.join(', ')})
+      VALUES (${placeholders})
+      ON CONFLICT (id, billing_period)
+      DO UPDATE SET ${setClause}`
   try {
-    const result = await pool.query(query, values)
-    console.log(`Upserted ${result.rowCount} records`)
+    const result = await query(queryTxt, values)
+    console.log(`Upserted ${result.rowCount} of ${skuObjArray.length} skus.`)
     return result.rowCount
   } catch (error) {
     console.error('Error upserting:', error)
-    console.error('Error query:', query)
-    console.error('Error values:', values)
-    throw error
   }
 }
 
 async function updateSearchHistory(lat, lng, zips) {
   await initZipSearchHistoryTable()
-  await pool.query(
+  await query(
     `
-    INSERT INTO zip_search_history (latitude, longitude, zip_codes, last_searched_at)
-    VALUES ($1, $2, $3, NOW())
-    ON CONFLICT (latitude, longitude)
-    DO UPDATE SET zip_codes = EXCLUDED.zip_codes, last_searched_at = NOW()
-  `,
+      INSERT INTO zip_search_history (latitude, longitude, zip_codes, last_searched_at)
+      VALUES ($1, $2, $3, NOW())
+      ON CONFLICT (latitude, longitude)
+      DO UPDATE SET zip_codes = EXCLUDED.zip_codes, last_searched_at = NOW()
+    `,
     [lat, lng, zips]
   )
 }
 
-async function getAllPlaces(updateInterval, order = 'ASC') {
-  if (!updateInterval) updateInterval = config.updateInterval
-  console.log(updateInterval)
+async function getAllPlaces(updateInterval, category, orderBy = 'ASC') {
+  updateInterval = updateInterval ?? config.updateInterval
+  let queryTxt = `SELECT * FROM public.sushi_restaurants\n`
+  queryTxt += `WHERE updated_at <= NOW() - INTERVAL '${updateInterval}'\n`
+  queryTxt += category ? `AND update_category ${category}\n` : ''
+  queryTxt += `ORDER BY updated_at ${orderBy};`
   try {
-    const query = `
-    SELECT * FROM sushi_restaurants
-    WHERE updated_at <= NOW() - INTERVAL '${updateInterval}'
-    ORDER BY updated_at ${order};`
-    const result = await pool.query(query)
-    return result
-  } catch (err) {
-    console.error('Query error:', err)
-    throw err
+    const result = await query(queryTxt)
+    console.log(`${result.rowCount} records retrieved from db.`)
+    return result.rows
+  } catch (error) {
+    console.error(error, queryTxt)
   }
 }
 
-async function getExistingPlace(id, interval = '6 months') {
+async function getAllPlaceIds() {
   try {
-    const query = `
-    SELECT place_id, updated_at
-    FROM sushi_restaurants
-    WHERE place_id = $1
-    AND updated_at >= NOW() - INTERVAL '${interval}'
-    `
-    const result = await pool.query(query, [id])
+    const queryTxt = 'SELECT place_id FROM sushi_restaurants;'
+    const result = await query(queryTxt)
+    return result.rows.map(obj => obj.place_id)
+  } catch (error) {
+    console.error(error)
+  }
+}
+
+async function getExistingPlace(id) {
+  try {
+    const queryTxt = `
+        SELECT place_id, updated_at
+        FROM sushi_restaurants
+        WHERE place_id = $1`
+    const result = await query(queryTxt, [id])
     return result
-  } catch (err) {
-    console.error('Query error:', err)
-    throw err
+  } catch (error) {
+    console.error(error)
   }
 }
 
 async function getSkuDbData() {
-  await initPlacesApiSkuDataTable()
   const currBillingPeriod = getCurrMthYr()
   try {
-    const query = `SELECT * FROM places_api_sku_data WHERE billing_period = '${currBillingPeriod}';`
-    const result = await pool.query(query)
+    const queryTxt = `
+        SELECT * FROM places_api_sku_data
+        WHERE billing_period = '${currBillingPeriod}';`
+    const result = await query(queryTxt)
     return result
-  } catch (err) {
-    console.error('Query error:', err)
-    throw err
+  } catch (error) {
+    console.error(error)
+  }
+}
+
+async function getAllZipCodeData() {
+  try {
+    const queryTxt = `SELECT * FROM zip_codes;`
+    const result = await query(queryTxt)
+    return result
+  } catch (error) {
+    console.error(error)
   }
 }
 
 async function getZipCoordinates(interval = '6 months') {
-  let where = 'WHERE latitude IS NOT NULL AND longitude IS NOT NULL'
-  where += config.devMode
-    ? " AND primary_city = 'Washington' AND state = 'DC'"
-    : ''
   try {
-    const query = `
+    const queryTxt = `
         SELECT DISTINCT latitude, longitude, ARRAY_AGG(zip) AS zip_codes
         FROM zip_codes
-        ${where}
-        AND NOT EXISTS (
+        WHERE latitude IS NOT NULL AND longitude IS NOT NULL AND NOT EXISTS (
           SELECT 1 
           FROM zip_search_history zsh
           WHERE zsh.latitude = zip_codes.latitude
           AND zsh.longitude = zip_codes.longitude
-          AND zsh.last_searched_at >= NOW() - INTERVAL '${interval}'
+          AND zsh.last_searched_at < NOW() - INTERVAL '${interval}'
         )
-        GROUP BY latitude, longitude
-      `
-    const result = await rdsPool.query(query)
-    return result.rows
-  } catch (err) {
-    console.error('Query error:', err)
-    throw err
+        GROUP BY latitude, longitude`
+    const result = await query(queryTxt)
+    return result
+  } catch (error) {
+    console.error(error)
   }
 }
 
-// Db utility/migrating functions
-async function updateColumns(table, columns, dataTypes) {
-  const client = await pool.connect()
+function end() {
   try {
-    await client.query('BEGIN')
-
-    if (!Array.isArray(columns) || !Array.isArray(dataTypes)) {
-      throw new Error('Columns and dataTypes must be arrays')
-    }
-    if (columns.length !== dataTypes.length) {
-      throw new Error('Columns and dataTypes arrays must have the same length')
-    }
-
-    const columnDefinitions = columns.map(
-      (col, index) => `'${col} ${dataTypes[index]}'`
-    )
-
-    await client.query(`
-      DO $$
-      DECLARE
-        col record;
-        columns_to_add text[] := ARRAY[${columnDefinitions.join(', ')}];
-      BEGIN
-        FOR col IN 
-          SELECT split_part(trim(unnest(columns_to_add)), ' ', 1) AS name,
-                 split_part(trim(unnest(columns_to_add)), ' ', 2) AS datatype
-        LOOP
-          IF NOT EXISTS (
-            SELECT 1 
-            FROM information_schema.columns 
-            WHERE table_name = '${table}'
-            AND column_name = col.name
-          ) THEN
-            EXECUTE 'ALTER TABLE ' || quote_ident('${table}') || ' ADD COLUMN ' || 
-                    quote_ident(col.name) || ' ' || col.datatype;
-          END IF;
-        END LOOP;
-      END;
-      $$;
-    `)
-
-    // ALTER COLUMN id DROP DEFAULT,
-    // ALTER COLUMN id TYPE TEXT USING id::TEXT,
-    // DROP SEQUENCE IF EXISTS sushi_restaurants_id_seq;
-    // ALTER COLUMN reviews TYPE TEXT[] USING reviews::TEXT[];
-
-    // await client.query(`
-    //   ALTER TABLE sushi_restaurants
-    //   DROP COLUMN generative_summary,
-    //   ADD COLUMN generative_summary TEXT;
-    // `);
-
-    await client.query('COMMIT')
-  } catch (err) {
-    await client.query('ROLLBACK')
-    console.error('Database update error:', err)
-    throw err
-  } finally {
-    client.release()
-  }
-}
-
-async function reassignSushiRestaurantIds() {
-  const client = await pool.connect()
-  try {
-    await client.query('BEGIN')
-
-    await client.query(`
-      UPDATE sushi_restaurants
-      SET id = gen_random_uuid();
-    `)
-
-    await client.query('COMMIT')
-    console.log('Successfully reassigned all IDs in sushi_restaurants to UUIDs')
-  } catch (err) {
-    await client.query('ROLLBACK')
-    console.error('Error reassigning IDs:', err)
-    throw err
-  } finally {
-    client.release()
+    pool.end()
+  } catch (error) {
+    console.error(error)
   }
 }
 
 export {
-  initPlacesApiSkuDataTable,
-  initSushiRestaurantsTable,
-  initZipSearchHistoryTable,
-  initDb,
+  query,
+  getClient,
   upsertPlace,
+  insertZipCodesData,
   upsertPlacesApiSkuData,
   updateSearchHistory,
   getAllPlaces,
+  getAllPlaceIds,
   getExistingPlace,
   getSkuDbData,
+  getAllZipCodeData,
   getZipCoordinates,
-  updateColumns,
-  reassignSushiRestaurantIds
+  end
 }

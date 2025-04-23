@@ -13,7 +13,7 @@ description: "Mikomi Sushi Monrovia serves delicious sushi in Monrovia, Californ
 place_id: ChIJk18KH2rZwoARTZyjbRI8fJs
 photos:
   - name: >-
-      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcLDbrN0_QWiAjkCjwYK5LZbFgy2nAQAp6fEB1zFyOaQRyOI0zobhqYyp7oMhoPuBtCn7ub7zxbLIvyZETOt9RoUkkvRithn04hPBtt8fhoAgke6nZn_NiV0QRIi-rZ2RnBjWLm3v9lqdpaP04-FToYH16p8zCo0rXUvwLW4y7vHnMMAzNpp9bK_YVMHlt66V8CPB_AiyKVw2k_MyFZCjnObdHn8tXc03rt9SmBLCxWrubmNOyMpbSnXqi8c-ArH8aMBWFM15f5tVv9psDrZGCcVRwfxkJAl55RO-IhyoCWOvA
+      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcKUvwYL4hZIs95K03sG2QdAVgsCgJmJ58PwcfEEa7a6wmk3cNyQ1hj07kO0MBQxCPaoE0Kt28UHstrt-GGDB3DNmzyrpDqpy0BIgsZF7HEpAb4OWAGKM_nDAJEwZHqCKXo4xQ6N_OcASegQ4y2_0HynQzj-3jLkwYn6nQJx8DvQI9nAIgzViwJVDwgQaDKxQsnF3WdYrpHrDu53Y0Z5WLYBM85JTmG0txNzNJojx7O74SAmlC8Xhy5_WZYEwYBuCTrUagCGV-En3x0FgvZcD5SM-kNRuIVTDfoA-cz1YuPBTA
     widthPx: 2048
     heightPx: 1149
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOBOZAj9cOXn7xHWWbTSweA7T3r5yYvOnLFUFtN!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
   - name: >-
-      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcJtUxx8xF3_uoCysEUc2bPbJ3aN7agagr0D8qACEiV02Ny23AQ2j4Gpy6MnvPxOupVIROaEuFVOkF4RRYr2JlWOZIxmSxglcj5WbRf78cB_UyDfc37vh207lQmMIcUiz3Y5fsIiSdGFGID7aVl4G0FZUSF-Q5ru2VUHdUBlHXNtOtQqRKHcdHHOgMSvk11neGB1PdlCd6QkUcVUDmZ8pfGBrPNHgg_VEuarWSbS9DZsWRFIx7vwnz4DNuR_sExbR8ES9peW7Keqkd-4h5Mjka53jT3jtxCyp7CqtCPbWx5nG-cZX4-rDh1HLdr68ft2wo_JPPJDzaXPTugygEIldxne2cSabZkqjEIwteYJreiDCpNgNjU2-nYT5SWjLIa-hkZZw7HYtY8h3EjQXtc6wRBG-CqWFH5YQNfeSqLJgUU
+      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcKQO0bnq2zcwPfj-vOBg0cKRKD2yWs3HtYFmbOdep5SfKSlIcj1qzeH44f6XWj15aePGo56T2mBPtdsw6UHPyDn5FXZJZS1VPJ0iN0aKe8LlNAYYwGtWCuIeniOf4ovrdgvo4KhJkn-42ywbWR8HSd1VTS1KI2Gj3JxpLitJCkYwcHrjxzu-avmKQIXaa9hNhOqbb1pNVGsVGguPhgnR8mdTvXQ6Z39nnuwJMhnGTO7MmbBqrvAJfvsOHNdAUbdi818G93cCyGs2ABq9coC0wqm_Sg9J2dMql1oJMISPHwJBSIp1orcpCejPXu4sRiOGsDK2yMpTbtaORkx4jZgTOBFKgS2-XQBXZWMlN8lbJGix9bC3sa8S4nXQME6EfP5d-_uGvUBkJ7L4zY6xVYA_HWyH-57YHGYN-RSBMcnPoU
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIz8O-RQ!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
   - name: >-
-      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcKoR61wxQBwtR-lSe_0pG_kVnLD4rjscDneOEsscsQ3ifOEOSzCXR9vFZS91Yqkqv-IZrwhMBrtF4s4EcnE22WH1fIqFnQE8HmzrRArkbh_0NkROjponn6VfpJH_a4f3O96NOEtNKQL6aX8gXEjguVORfJXtO_p3HKMaW5GhjhozKvkZeMewm7cs7wplEZeouiSsJYo5yKuiwOQ8CuRxzrGNLSVNiqUQyOFwkvi-d13Pg0yPXmlvDI3VCey9K-QESVLM1RSdWyHdJOoU7SH11EABx46b9_Um32tpJUEt3IcVA
+      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcLdePft20VtW63UUcGv-0Dap961WQmCeneslyIqXdZ3CHgifi5DZF6sbIrZsTKWP5VeMMsIja2KjyeCiqD1A0nGcaqnu2V2HD97QiipOgh3025BID__sWE7HGiO8rsiQmGC-QSPdYz3wZEUPYse8ibX_K6Faq8TCO8hYBs7AN9UQLGzA--W9D8JfcNyWYlJIjVI3pZPKTEnXB7MOXtGJ71r6FU9KnLVyOTwxuQrnlYG_jqtpj4SmtDL-TLpFVnOcfaI5oHflBY1ti9JF4YH0kBfn0E_5w5qc5oXM_dEqeaJug
     widthPx: 1798
     heightPx: 1200
     authorAttributions:
@@ -52,20 +52,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMF25Aj0JVuE_de1MVPsJfE018UNENE459XKApx!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
   - name: >-
-      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcIDo_nncvNXZHo8Q1zmRbDg1pA2w_Apq23JpjMsU5JhuGEW7JHPISJ5Tuv6GNYhrVEybPJoHhVUjZ7XyHHvSOTS8qeQzqUrDoKJuK9W6Nwh49-nF8sn_wMpRtZI3jMKlA8L5q8MXbZFP7Gc0ku8oLV76RD9zSVii_P2JIEYXbe-2j9yi7Q8MBCBcx2o_9ytboCDR-ZVoGeiQEMvgEOfwwkfqhc6ADzTc-VNB32487EjKWMPboHknhvFNXQvTUgzIX0QZhi47rfHJTeZOVXpAtBsbG6oeGJE1e4nqW4BJq97mQ
+      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcKQuqsuVUF3zuR6zaf2MXmLezTQ2QkdJ-u3KJT247I5ecbdDoNgCqf60dBIgMJJZxXoVUsCUP2TBRKvhRWaHBgeohZRH04fg9IWb-fxGhDD627SZKtRvzTfTG32rLxaZm71GGbJCqkacU12XwQ9fW2vLiDvSaGUNCxgO6VkUnXGaWGPBJa5MiehO8eiDKhy8NhCkokcON4CnbokExVSMr1kxUxqSVGCIALYD-7SGtT7MonIhcT0hhixUJ2ARX8h7p_d1Cp_m38Uo5_Fhb3R14zDT4Lhz5sf27RX34EUVVNtdg
     widthPx: 2048
-    heightPx: 1237
+    heightPx: 1036
     authorAttributions:
       - displayName: Mikomi Sushi Monrovia
         uri: https://maps.google.com/maps/contrib/105346728239066924499
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjU3PJYuTdFXOG7X8fawe_WIz7RcrsZ53F6nmc2WfZW-iU-UFVho=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMzxRB1QulH7TAyKm78hMpRm5pp3sLu10UMtQT5&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMQkYe8Zpxs2JckAxBu_qlYGfdeQAl2zUiA4CY9&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMzxRB1QulH7TAyKm78hMpRm5pp3sLu10UMtQT5!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMQkYe8Zpxs2JckAxBu_qlYGfdeQAl2zUiA4CY9!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
   - name: >-
-      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcI7jlcH94Wp8mQNhTgs6HfH6i_nG2ItIM3f6xtod8AP1VadCVcPykAIMzNK896jgZ-oogZidXxVIkmsixFeeGQKhJiLGGIQVYG22qfjwEiQz2TOgIEXUrrX9NJvsRW0dUo60XyIuvp4MUxCPDu-qA2zCFvHOMH4w3weCMecXJiAlmwomWQK4racnmwMv7Zt0wCIUICz_g58JTShF0Fl33kVDHHrUu17lS32VrciNynjCGCsUUxHnwLP1xiex5AdK6V6FLS2PudHToU63Rk66SDF_QUm88WqGYXP2HCWmMaY9g
+      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcIjyVRNseIbgCQOUpwoASn7OPl5-JqmUngoV4aWQecPM2WbZWuvnUSBZGdkPkkkZTPYMWLXzUf9yZ0I7mUeVCJlaLVAG0gTHL42UZS9QwUdgTrlZV8VuOsO7LYUsosyJqxqBQq8p3nH_HeG2QRNwPrrvGk8gxXPUGd-fLcYyDQ54-MhG3aPFxpOD6HkmQqigRJepp0fIKPwpQUDveyInylA2gls2ZNfLtygyNCkhuUO-dchsjq44aSQkSCoWwWrDssmljtNs-QsrvTpQWP4G_6M7Emey-2EPwA5KHyh87DhqlK5dSWX9v73pTfFKGm_vJavLa2VyVpAinxqUTof3aDcK3NRBBSnlQl5BDb3A1I8IsXkN-la-64Eb8Gwvo3hynau8I5WyhJnaOsJhA-e6bR3hxNcobDS7rtQeyYzHTVNBg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Fang Phattha
+        uri: https://maps.google.com/maps/contrib/105898268180831740347
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX462pjhsgBgBRaPTJgfFeF9eRc0tpcJZI7Z9WFe8v757sdqRFm=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIz8O5Gw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIz8O5Gw!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
+  - name: >-
+      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcIJ9Gz2QhD4YKHq8fWpmIeJ7m-9WU_GFZ1DZzygsD8b1B76AcsF9wzpIc-GGZ-OspeDInwiZsZf_DOWpwjAp_XpCtcys7x4ymhDEb8gOCIDLP7qX_3LzCDp_bCBTFEIv9Tuff9YT1nQ6x3sWZl--TLydwpOHP0phCDMXvRUakP6nyi7qrzB7IlBnz5OLO1zh7VxOybJc3oV3eFNyhs6PiL_zb6N9iLdQZZUBWbjFkqJaaZV5uGL85ZPR1v_dGTPxoVtW3FsKXdE8D-8n-TzuxMihPaKE5wgGNXOkYSgaWsMqQ
     widthPx: 2048
     heightPx: 1327
     authorAttributions:
@@ -78,20 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjc1Bw-nhq-2VWKDL0jtMPulu5IL1kGwOc7CHc!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
   - name: >-
-      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcL5TTtLPbptAfs09StYrtS1ve02z4WfuiJYzPfxanQLmoQX9ARxQdGYBYimZ0Jm6Y_fhs2WWNDAgC3eCmyQ13JMBn3G7MQtIAZ_oCEb786xKcU76w_zGNRqra47kQ9rkF3infsGAfo2sLgIxfY0XYzgEGTQxuibDxeNCTpsFraFhz9vBFI2m8FRrvGv7eMY7ePtOf_4PpJEzF02RtmvS2Wgoc8MRrpcJ5rfZWIUX-J7e7BTtTLF0cTtcJYdAwvSb6cmCAB1tlHXjyM_Qu5VLCNscq_LQ6_2mU3r2hGNyyxw6Q
-    widthPx: 2048
-    heightPx: 1149
-    authorAttributions:
-      - displayName: Mikomi Sushi Monrovia
-        uri: https://maps.google.com/maps/contrib/105346728239066924499
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU3PJYuTdFXOG7X8fawe_WIz7RcrsZ53F6nmc2WfZW-iU-UFVho=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPDuBngE78EcIWdLrbZVQvCgSFFVop4NT51oZLP&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPDuBngE78EcIWdLrbZVQvCgSFFVop4NT51oZLP!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
-  - name: >-
-      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcLMrpfW5JNUjhzTl7lWeLjv4l_abVcC1dcUquQN173ncQS63sbWgvIzTTRIeLVs31uJJE0i8eYy1vlsMGvQ96NAdzxw2t7g5vlscq2lj3crNiObEtXMuzhsIL137bnlLcoqDenHbYlKQXb0vkb9nQuDmd0w1SNvF4qoXStwHQFhEbntqOiB1HMnq6skPf6QA_XcpGNCwPzqxLGxAqcxcVIqMEKI5JZeP0ZFhJRkZSYYa5eT9UAS8I126smbGdSxLGGJWxlYXIQVQA14EltladBTg9rFtCC4qFLFxfS4c2dNsw
+      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcJ-y1f8B5KBJ8SBSS4HRAi51Wk71zEDVGaqsLrrZx47bkwi1n9QiKMhctgmu6noILHgDP0E788ovkPeANlNztN8hEhWFL9o4xPkmIEc7ef6rvceGAWZF6uDsyyfeojV8NLjy15EFudvLyFTZullTl9MAskVH1qcRcQfRiIxzu7jQRmq2I3KRX_dshKxeF2qd3lByi_j2z2RvH_78434sJstK-hzYqlhMt-fsDuvx3zPIoiVAx7efEz_jwe8DPZB_TnXhOMxqVmDNjTjNvYRiE6WnYWGMqcO90wJHmNIsruLxQ
     widthPx: 2048
     heightPx: 1280
     authorAttributions:
@@ -104,20 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOBzfrOREHF29aW7YpZweTrFqo2J5CdoPAhtEcS!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
   - name: >-
-      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcJ_ZjUx8pcN25LDCrjob-mryxFOF4Kat7ouwYh-U_1lgScXW5Inv_qcGyz3Jqb0qLNF7-dvz5DoXhs2XdJIgfKFC4yVLoTERu4vpz3Tg2k81WCyW2bSOW8gIF0sWVVz3uxTyFr1tJyl-BoNuauKKlgCChn9SN79PUBc3pZEtWRVfLGzGd83p1XeVaVuoPkakKt3bfTJI_ZovKOZ0LUZ_1664uhK0iTD0KMAo-821AbVbMzDBhBn0oZLZsytsMOfvRBWbQfESUuqnn73qxrKyT-cBKCdvUKyPhkVqqo3GMSPVm-sARxQvHzaXhWsSNsP66le5mqPcEHdsdI5ZM80TrlU5P2K8R_i1s01di_EPtxIebyPvW90QDYG6rCqhYjJNxjWvTt0_IrelgXM_mZcQO3ltdF2I0j-GaKPeQV3vSo
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Kate Knight
-        uri: https://maps.google.com/maps/contrib/110752559979049382426
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUbaT4c0loL6BHle3FCMr10fe7NEb28Ws-IKYwHhUTm4sdaSiFQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTg_7XUg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTg_7XUg!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
-  - name: >-
-      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcL_wOALErhSzXH8socb2BQzKVLYf3ufSr1Ai4RMmPuiImLKiq3tu2658_gHLqeVm6X0NLLxIuKhfqjaPhljPywaz7h2CBiHqH6Y7yJljK2On1G0kiORco2C4poGxwVspkmUTUGrVt9s-zquACBLWaPs98nMdXZ8RepZlmxhHtN7cBu8z7pXPURpos9BT0msMMNKCPrXSuNIdwdfk3NkV-VvyFCU_SQYgLv_P5dVJFvg_zEhHrOQEsGRXf9I14CdymvChsTurYaVSGuyxBv3SNkctXbpCYQPcAE3mhfPPN-0VkuKKFnvROE3HzS77f-0XO-1wwCXz-hKwY4U6uiABKTCgx0cbZqxyJFt6Q-ftHwD65TD5UoCfLYfciufbEQZxvUVC_IpbvznX9iHulDcgSTW4C4pBqFXL7qgu_aeBQXSzas
+      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcLL2xNVqD-lgQrNtsrLvGQWnCpum8L0nGUJs9hPLodkMtAKeKn1GIcJLQILu8KN3hQk_toD4RiWki_Xzj3g0nXRj5D6vPS9Kypx2H48RonbE9qI_IMYGeobyaYaiDYc7cAtjqKZBDXfPRUsl4YhROIvJaK2-Q8EZDB3NoXz0JPQabEMPAXBbU-RZsgxgER-wgpz5pPoSnme9QSzkXANSQtsTohT0N_awGLFzSRyiM5pBUxGSj2GlIMBueyOdMQe5PoHaSuKkBys2v4Q2bE7k52DMdKFA7zSeGbju0GNCRmnwL554_8yXME5rvUjtgemWQQOrJddTVrU3nERRCNEhySdiWunDz8SXU6SEauMaphFeOGU4_Pu10D7H-N4uP5CWYZ1hvLqR4i9kyjhHi7yTSglHriLxmY6mO_9KatSSlKq0tQ
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -130,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgp-LjpwE!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
   - name: >-
-      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcKi25WNosoPzO7i8cgWsmtQnnDmqlGCE1vsKTo1p1nrU1cgF-Epg0wmenpBEGn2etyi9RPAcAJfA2rjcVFCwzKyXEVHci2RtJlshGJ-rmG5LJiUSiksFb8B1CkDZ-prjn65s3J0Wm7vtIkAvORl5knTc1RGb5e3jw4hcFxu-M-64QWwUzIZ2WXNwqXVaCCtGn-KVyu_l4pOe4qr09bb7LSPyFa0bvtVelll03FetDA7yVXz-W9uIMh68v5vb53JhCTRPpMNmrzlmg38siG7JatWoY9qmnh1VwHcynhkEBUFMg
+      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcKfBDB813CHSNpnh4F-iWEokG71Ll5P7nDv_npQtcgj0Chl6mXd8-e_JUA2CZBNRFNBAKsSJ-MZ527j7TGgZlH88AgCABN8noGTOA2RuF8ZJ8ULQZAoIlh1xmA-GmXCmg3oQnVl2xbvlE8sFBH5AQ_zQQFR7iBTkkQELmXCYHOwe8i251PKPfsos4kjqrSFC7uiRhlcCSIu6CvlO39ED9izOrRZ5NdFNotRPGFAh5_lCHK9_FYhpwF9AUQ5_qdoCYvLQLl-tQjiJOAOtirPwdWcabYkIScPmfCnAvwdaUbm3nu_2Pg5hxznK52KCYYwuzrlVucVEnLTIckifHE1a5lMEH_UNukDZ4058fSIcoVpoHIjMNSxj2lgnlM8TucxEL2ViMuR4X_PbTm7k8VNk8jshBhtMPb0pJ3T6tY-nr4
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Adolfo “Fito21Corn” Cornavaca
+        uri: https://maps.google.com/maps/contrib/111356068653150568239
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLzt55i57B4m8g6Yb7ZDivPYQTsDW3se5_v933oGY3ZCqsZDw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgnNSzBA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgnNSzBA!2e10!4m2!3m1!1s0x80c2d96a1f0a5f93:0x9b7c3c126da39c4d
+  - name: >-
+      places/ChIJk18KH2rZwoARTZyjbRI8fJs/photos/AeeoHcJQycp703RYfDWnH9OL5sxG3iIcQ1AwEwcmmc2eieu8J56jT_-ImnUVxQdQuIUk9tkJEbuvh8GFse4oWlvpVMDy0ga8B3_sKmoJqhFu85wPCklaqqO2Y7F0QIVOdvIYXFYcDvL468nTuS88l_uUlVXHlncx4HOnR5PCMvFh0Db2KU1o9_R5F8rCBqgi6YSCjKFUeOeO873RrVVjLSeDqLQe0oRQ1gGb0-lkJTa59ZWhpTQoJHbR2AGG-ZF6ouA9TQ-l2tRvAl1yO6UTmTyEqC2HlA-t80YWnHThvU8jrQgcCw
     widthPx: 2048
     heightPx: 1389
     authorAttributions:
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

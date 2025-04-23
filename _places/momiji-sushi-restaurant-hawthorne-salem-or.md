@@ -13,7 +13,7 @@ description: "Momiji Sushi Restaurant - Hawthorne serves delicious sushi in Sale
 place_id: ChIJ6QG7dmv_v1QR1tYEg_Owvc8
 photos:
   - name: >-
-      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcKsXeg5wt9XLx8UmoVUdyo7VZ7Oghfc0SI4kEuvImiLJ6AhEd804KTEO4VsdAOWeRtFP5-Cm3lyUcjTJEv3W2xI71A2EPaoWUoWXvAUU8C-42-_fndLBZzLAfXqWUJ6z2D3wsyHsC4sD0kMoIw7dWDa2mOdgqlDQWiq-wEEUUzUlfXN_3QjpbPsamnk8zoyg_ZDXW5EX-4_Cr5kAG97ZDXDOZzbjcs0g1AGq-ay74gMefq3r2TAM9O6Dy04ZTIRASOcnV3IZaorqfAdN8D6kVHrWC3Jjc_9Zmdp5_mKR102Ag
+      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcIJsUODqBK3h1jfRJeoLBCCc6fPdwJc7X9jURfkgSBEUPofx7xzja_k6TsdhSYgyL4zQH046pfQLFqyF7WBlwtV2HPJy2aH54GncnXuV4qMIsc5Q3TkRo9k4SQVtaGWs-_u-lQ9ijBYMYFZScBbib_RgjGImj0tFOJZxes1Hx2o2jQ4vxeomGzZ-iJWG_XLT3W9hLt2S5Kt41XyrAKeH-Z_unpijpy37fK3RJmCoYnp7G-CgmdslP1C0NohTzyqiu8XG3mbAYxdkKytTRD3Y391GJT-U5-N-7NyIP4Esr7TJA
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -26,20 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNsSLNOI7PLccdMbroEuV1XGA1JIcgExOmc2gZZ!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
   - name: >-
-      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcI5tWbDGWe1MWf2HPqPlDnPIF-ijTL7VI4IRDmCBvjGM-Cpxn5exocP9ISHFqUK74H-yVUN8txt2EP9p7sN6aB6mZDzFA-vBaUXvA_sJHaBkznlYw79LYD8Bl1lbdmeTWTXa34rT99BQgrk15diI_zj7v4X-svRBerfhuB9x7S00egwtr9MFBmK-RfoVBhnk99sz4zgJcN6mfnLRBJ0A7ikhQClFfmSTZ-FFkXjipCARB-rR3WudN4UVS3Lh57NgfbTc1bptomd6ZSBF0IkhkYkQh9mBC1maERzfrebpTpowg
-    widthPx: 1024
-    heightPx: 576
+      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcJSvP20qf-m6wJc7Osf69syOA08yLHuBKy4EyVkEKT_jkNwe7ODyztAHva6GBZgPxOTzvSmK89Hq-pjNdwY28yp7cfdPQQBFeVpYIwubhLtBvQ9rYLMEybQMDj23ZfHr_3YZ_2SxJt5XrSnsTM5ukCPDcojZi4MJ_dzlRqdQwLC7s5MBX3hEtI0HSHmPxxJrETUkiI6LSfxnrZpcEK6f_8xtQBiKWVbB4GgFt-nWOcnOkawuGXmKPxgTK-v2eDbgBk4GEyvk0Duug3-tJjL8AXTUFcarCIi6li-BkimRmtbqA
+    widthPx: 4800
+    heightPx: 3200
     authorAttributions:
       - displayName: Momiji Sushi Restaurant - Hawthorne
         uri: https://maps.google.com/maps/contrib/103703848184746261186
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVoq5BcOBHP4MhoghbehsBXbCzO-wwlVZH-l_CPz1YkA7kCMrs=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP4gnTp1gFnRcZHR3z8ySD3pE-H1mOHicyDbTNo&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOSQfB8htjeiFYCE7rzrc1zf8MESzYL7ERDAPPk&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP4gnTp1gFnRcZHR3z8ySD3pE-H1mOHicyDbTNo!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOSQfB8htjeiFYCE7rzrc1zf8MESzYL7ERDAPPk!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
   - name: >-
-      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcKCKWKV3epnqsGtnLnu1KoGeqHYMHy7ilBHDVRM9zv-TDnJQ41kkIhRdz6_jroFGU0FeDWlclRnH2H3p8JKR8eK-z-kKNVLJz2ugZjEdGL-VljKoxVhMqaf4lYSBqxtBfSogoum75P5Uk71rzTsrmRRH0hySgmtEm4k_02POeb_RLp7KjNhK3D6BwGi6MbN0QLg5piZhGBtDu9oGR-YVPQqPH4-QQWTMrANkA6kdUCRC1yVrl8tI5PVcZ85cKiIBiQ8umL6097_VpHl9jcpeqZUIMAISlKLk1uGAXIpua2WQA
+      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcJi9kY7vyl098l3gGS-IKe79CDXJGRluxq2jFFj5v3wexmAeiMKzGqgkwc4yneH7mQwqgh0dg3Kw07SJZuBVtshy8h7Mf76XLyad4oi1zS-mgR2aZ3YuWWl7v06wz5PVhEdFk024HckX9xSqStC7pornYKnrl7onJlLOTT1FSHIIS8o7ltCDwkEoC4ADnnMA0ttU3UuaGCRPWf6TKbVjAuWragqCcgb6Zgm_KcTEuu4nTIYS4eAT4x3ppyho8HrE7-QyHfdT5-ix-2mvLv0wcZPDEt_2p3E4MveVyhCQFvigQ
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPbaiJATUNufOKIuTfmZU_yH63n0YmPQ6uayR-Q!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
   - name: >-
-      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcJwDZkdjr7RFDv0ilj_8bjwAU-_TMNh5mMntRpBTgCjAgndNhiXsf8P0q3WsbU0AeMKS5FR8XZnrvjmDDyLFw0fL_TW2yjv-Qj-e2ndut8bO5eKQy06i_W6mZP5NIsT-UJc_8LlQLlLVkcnKuHIKF9WQ_JTo2v3r262oYut-Yibs5B9J8qv2zXPMUEGr-R5GLraq9YgS5BrP1DBhP6ekGpWwMyZHbhS-IXdk7F7lVBiY2JK43JmreJCTFwnsGCMa7SwOzyNHronE53oXlDF_5DgPeMtQ6m1YvSplFJuv4osTQ
+      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcLb2oEUEs2efP3cB3J2u-eo6F1qlHJSe1o8KBx7TQWH-cQYMCxiDwaHCkkNtuB4m28Adq8-GsEav0461LDjCDfxGl4r-yxiwlJoGDblfSHVr6SSjMc4iR3M6C1ygn-GLmPchRt1jLLFo9PIijkVVZnIsnOcL08VUguWR6XuW-mbK4ds5zLQwBw4MU2uUyqxfHMARCCA832PHFXEFyuumWaoD69Mn0V6NmKsQEtSNKIRIHdk9hoxPouYJyKTA0K4kClK4YkkSqLTdSBLB6Fr6wgjGF8LqLReHNm4b-YS4qNcJw
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -65,20 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNDL1iEku6o6jpnhiDj64s_J6UV1uqim9nEuVkV!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
   - name: >-
-      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcLETXyjXfkv-8fMbw8Bw4gApkZ8lkhZEdbtN9UPYSMspSAJ_O33laUmW1Oml6IRTRHtRgK61vMICHvgLFSUbmcHEDga_-kx61MhEtK5ArjWthrU_Er7HdMy_p43KQycCgXpik47XgTvBN1aVskYFyV3BhYgHiIqF0xxDGwcaEjf5rLGYbRlfTbkiv3oB35fvOIP-MRzQ9g-IjVqTF3pU2ywlFaWo-KkDGmT0bX_Frjq9RD3Cw8l73lFxQ-ngJ80Gsk_Sk5mYqU6EetZ0Eg9fT0ERaHqj11Va0tXI9aAGBCr2A
-    widthPx: 1024
-    heightPx: 576
+      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcKRBuKDnLGGvCIsDfLg57-65oWDd5a6ndy0ESLnhjz6rsyksBPqOPx--z23FFNXeJEiK-OvaUTBYNWt0a26p1z-K9DAvWkJIhkJ4Ysj9Rq23YvIqC9scOeDQFRGeC__xIsQso5nu3-gYyUJ-Q8uSNyU8D0Lnrn374SuIdvOyx0L3AJ2Gcm3w0MDK3z4sJz_YMukuKxH1Gsmf-jxcrJnSoCPhB229OLV3Q7cTvhdtxAg4vQfQtaWlCwUKlj_e24sCOx8JfgN3eB6n_Iq1Ml1a8RceI6GqimLgGctjmrSMYPMQg
+    widthPx: 1000
+    heightPx: 1000
     authorAttributions:
       - displayName: Momiji Sushi Restaurant - Hawthorne
         uri: https://maps.google.com/maps/contrib/103703848184746261186
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVoq5BcOBHP4MhoghbehsBXbCzO-wwlVZH-l_CPz1YkA7kCMrs=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOftr5Ulwkdg8siEKB1E6E2cTJEKenwNYi6hwzL&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMvIJYMkhCdzNq213yIAWTJtUNkGrI-TcE_irrz&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOftr5Ulwkdg8siEKB1E6E2cTJEKenwNYi6hwzL!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMvIJYMkhCdzNq213yIAWTJtUNkGrI-TcE_irrz!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
   - name: >-
-      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcL2wdVWizv-nybge-ZpLi4td7P-w-j_xOqjzATWPPU0ZAQp-758ip1vnEj58hDZZ5rypZVqrxyvMkwP2hOp6dW9mZq-d-8R09ukTyC2O1vPhFLu57SvUNBIYXRjOJQirw0nGPuJnnkMhnq3bW9wE_WYH4Q6AWUgJYmMgIg4NSPih9r0PBtPWx95ctYtW18Cp8qSWLx3eFu7eWObK57qQvI8_oh628cuozF6J9FIel8xsppjkrPtTzU-mFotr_UR8zI37nwoy4mxcCFLkEdmE0PnDEL-DzdRzUp0qBgWuO_qZg
+      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcLh-oAmCotLy5wAi47yADGq_Wjm74DjCKwa4LLafpqZuf21dyI2crJUeNsL-9RwjKnSrx3RE3FKARlXfqxVkqu_5cgmrnYKAmLYJJ_JWU3mpIiSd34GAk37SXCvvzQNBMjp7EllBE1XneF-WzkEnBtd3FNNwWCbfGBYhV6BiomM1Jm7_nHNlEc2zoIWBL6su-N1QJ_fTjsaMYM06I9x2FfzZCRCOYx7-bq3m5p-o1INaeVbGie246Xmyqu9tF-5813CpgjvaX36UdE9anEJ_gNaPoflAz8qcian3BTrIH_ZQw
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -91,20 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN5pPjmt9jEEXxissjnRlnbRAoXuGuWZ4zeyHeH!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
   - name: >-
-      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcIfhyyKpiNwEHOQXLNlzV-NJma6vLPCwP9-xDVOwKzeoWfwgIKHyhE-_Fc5ys9vyt9M-9gpKdaOkaOdFuP2GRMVRFumGGvfg2LcD_WENnAdVY_g50x477OuCwQ9qd4lfhRnO6JHuJ2nqXzm8scGDfVHiNQT1W3B-k4aLTXHewCs5H4PU2DimY5bRaWGcC_aG_jx3JaaOtf17EsGnwJ89-CD_r-def3-aoDPWCkr2lOlghRijbsw6FwVfQ2ywYCBUwaRcTgC7X6Hw34iGGq2DFmoRsXTXp_JFDl9ZMo6fwlKxw
-    widthPx: 2500
-    heightPx: 1667
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - Hawthorne
-        uri: https://maps.google.com/maps/contrib/103703848184746261186
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVoq5BcOBHP4MhoghbehsBXbCzO-wwlVZH-l_CPz1YkA7kCMrs=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNXk0CJRWUWN0viORdEU6NIvqEy0JnwqqIDQLLP&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNXk0CJRWUWN0viORdEU6NIvqEy0JnwqqIDQLLP!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
-  - name: >-
-      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcIZiGZNa9lgAThfl4xHv4olwRhAyGidX0YNpUGtA3S-sGk3-Ryhy4zz-vTFHnZkro-uFVJmulGl1UnqTZv_aKEO-xtkQHjZgcYUAMKF832pz9MECxEGyNUeEDCtShNRFKufcJmS0QwigD0qc6dyQtLDw-6hKFNDRLeeSQDE5VofF4fsKZYVqrb-GqroSWb-hIsAPnfYOW9Neb8DQwCXEtwI_8S2Yztk-rr9mkIT4oBpUuRA9L_odq-uvVrVfizoADfqGtDwxy59rjgFY5g12pduMb4zeXTqpMRfAWT-v-g_RQ
+      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcL237xWyv6sMnTg_WdMqrIIa8x6cwB10qHEx57fspUG766s9k7QiUIuv5jprnwlMHBMl4bqUB0NZ7FMyyexzlS4w037hh-iAJtimURkcbuZKBlBzCclAbPudC1zYoLprDcdjo0KPUTgftmxKc9Jf1IGpA-Pnn--Y0qFml6xiWlyNnvtgqmzsdDTIvtYv-gYqPjcOLu3ffeerJvw1PxEF-hDMKcgp4atg3dJiL5NBwsS08zJJpcCHWPSQQ0UHAzeydb8vfQTe1KpbJJP3sfesg7-_GWE6gf_0FaP2UazzU8rWQ
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -117,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNpfRzKOlukzXBg4_6kWxEGqjjpDypQKzp_JV0S!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
   - name: >-
-      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcL4XbUTPCuMa0UqU_is9tuvHMkxcp62fExTES0lYwsx3bjYUtOxxMoiNdCWs0L92D3xf8wRS0o8-KyBqZ1571x8Qy0sHMfFB6xVO7ncPazXX3IZhWsTcoennuwa5NTyp0KlrE__ER7F1pK6zWKJKWyriro-y-jcF0Vm4D4vuAe-Iow3ssaTuUcw4TkXHXVgKGlo9KD6Az0XlIn_jqsKCZYyd1nZzEj-8d69muHrqNMYmdgSIqU2lMIl1J45JjgZocMKx6OsFY6Gs4awUruwGi5cDBEJ6IhJ0DGi7FOgFPBhrvA8vs9Q6ikmjq68rVOrbq-ONwfCGzizu_a80ULUadQp8D93xpPnbScXHsVXZTI2vsEhgbfTsW4SklTTYvYlDIdH5-JYn4WkMJDs-b9V-_PAP0JlgUdm-Ci3ICWE7PGdXA
+      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcLrqEbKOjBUR0bLnIIVGpTsjNEG9FSoUMmW7_70e-Krbfcvubv0TyQHzLjEmL3mjhRJYheHB67_D8QRV0KwkTDMp-5I2n-JsAh6LePNepwntYKWAHCqU2AJhb7V09ocxaqY2nAUvLSzqx0zu6MKf-1c47krws7fOtBBXyd5qdPMQlUfYIfV1XKvW8uXvg8XkROcyVlk2uPz0WMkDXx6-vap3EHtZxsMiuhjehwI3k7iKTsJky1weos_-nEQ3sA1K40XdqFYonGQKmLaCSk1cGRrSUHax8BX3Mxr2ayS40EKPg
+    widthPx: 2500
+    heightPx: 1667
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Hawthorne
+        uri: https://maps.google.com/maps/contrib/103703848184746261186
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVoq5BcOBHP4MhoghbehsBXbCzO-wwlVZH-l_CPz1YkA7kCMrs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNXk0CJRWUWN0viORdEU6NIvqEy0JnwqqIDQLLP&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNXk0CJRWUWN0viORdEU6NIvqEy0JnwqqIDQLLP!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
+  - name: >-
+      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcIflgiVN_6IUbOSsnLRALs5anDpjHUkOLhpsj5RRsgknaIK1YrcTZZeEOuOzC6NCt_oKrp784dredu0XNkxTGXe9iYrkmTpLmYvZ9aYx5DFcxNz2NxGYCwaJd4bjlAUy5CawWuiaZv7_fq9KL-M2d7_BPhhjhB4CcYbT-sOBqNTLdwPlnpX50bU4tAIgNRb2wglTaAzpLM56TZJ6_q1X3xiViENC00zQQKHKTue-oMxS_mL4N6uHWsK9bbVyXZwWGEMiAhox35jAdRvJwdNufQoXkKXhDyaBU5bK0N5zOUJC5QJeSnm7inYl-xvs9BfYKmF8vANooBgy5HiIKf3yRl7oD1zNhyfMdQatB1zP6UCgfGR_-ZUi_KL6qS63x2-bhhutxZ9OlTNJeLo7JaPEH8tgxFiUaAYN67t-3StYDPhLg
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbxMWWEg!2e10!4m2!3m1!1s0x54bfff6b76bb01e9:0xcfbdb0f38304d6d6
   - name: >-
-      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcIkjeremH-k1NklnfYYtaPnNcDIE431GM-Y34I3olfmZCL5LcJE_DMHrplArixgpIZHQ1hKRNzioGOgqqjC25eakWS1IUzTqq4VX8UHeDvx0hOkmBRmvD59l00jzEzc1cJ77vnsQj-pQkxWTG6rWY5Kd0NlNQhEp1R3mHMKNZVyWdpZLJlrzoxt7cwXuzQxmAMWco0LQSBKhFj9OA8JApS0VO3QnP0cJzL0esN_LPI7ntatIOLpZUQ7F43gL6UiWjgTZ04L4j5Yrtj04fHmyRtFD0QwCQp7JzUTlHSBYJxwwg
+      places/ChIJ6QG7dmv_v1QR1tYEg_Owvc8/photos/AeeoHcKbw4oVqUX2sJ-KwrKpAm3fawZUyCXPyGiXsp1__Xr67z3SkmRIPjdRj7waGR19Fkw3tixYcWP2mNkyCK3O9Isclb4XjBcUGkz52sYVUgD27UC0S90hzIOPUUbUatikYwyk179cI7uyeLx4O49_QBdOb2WrfenNByRnirMLKIrhKaat9z0OBXvKppMaeVdVjm_VylcDRgD9vM7wJJgA455IZ8Y_WGVtUtP1Mjouc9SkO6cgJeYmY24x7ceQY83_0LDz1K7o7QTTVq3QDYdwpVz3vjgZvAQsMdr76giMqHXJfw
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

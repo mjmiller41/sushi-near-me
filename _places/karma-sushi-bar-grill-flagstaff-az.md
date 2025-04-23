@@ -13,7 +13,7 @@ description: "Karma Sushi Bar Grill serves delicious sushi in Flagstaff, Arizona
 place_id: ChIJxWG05UOPLYcRVtp8yawRJJY
 photos:
   - name: >-
-      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcKShFyeAxPmSJB3kZlAHx8HZBacR69Ha5L8DtpQeHeqEhYvLzo6En-dIkx17nAYsqNYsI36jh9PJXVpEoZgmc4I14ApiG1kzAI9MokGABikVoS-YEmwf-QZrL_5G2Zvm3oTZ5rHE_tYtopdI7saMIs58A-FGPnyhGERj7ESMAUKjiXf2Wa9YTyu48-a5V5eqsI-Tv_YBg6m236pMhd_hCicUXXb98gG7Xq4k4w0iC7A2DtQoCBVhfw_a-6hQVM1kDHL4MDUjiER-XUcSPBvdCvsfsfTa1eKrIiQ-el-MzaGeQ
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcI678SbDlRTARpSFDmb7NrjizhFVVRMXbtK9gH3gji4ZYjdwao1Bxx_pj6kQaVg8JB9vXXnaVj-VS66pWg1YfxckEFwJJZpOf62mawaMAF95zx79bn9-mqX_du4CLGX984ajGfHwoVrghZQMBFuxda3mNaarQxQh1fS1Sa4SxXIkTqEfegA5JI_KQ3vxhDFy9Hi_YC8xEqrWYXOtq9cvEZPtKD378vAbEZJqmXH8oCg5F04cUkg47fiAQvzy-2ZMQzEz5NE4hal6lMx-4N9GtmNK_BdzvZfXr2QiH1MDfEKBA
     widthPx: 1500
     heightPx: 806
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNNMpN2_ln_iBz-4F_7ki1iIyYmeGpcZc3vF2As!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
   - name: >-
-      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcIPD1ngOz9Uj2DUnNvwfaRnnO6hUrezrfUYzopGTkzH0JZl8VIbAR01jO0HQptyjZPNgk_ZkJJ78GuWVZy705fKn_cr_rYPPYfk-9DU3ynqupFe8atrakolxPObYs9aXVtsF_-zvPlvoeapQAe8-1PIfedmF-7XHbIDzoPDgHL1VKsRDe7PZbCfJaBZlQNisGX8_ykzahvONmRwWMEhbw-dYcFKuf0RcwXZWqbUY-u96QRvlbm0jocFjF8Kg0c_e4jpk4_1XusPDgh2Jrqo4pjkkhXqvC8LQrxAZ8aFa1idxA
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcKE00HnCBaWvRu9r1t_gLG8FXS4MNaMVf82W2XhNPjl5hBkRqHZFlL5YZYVtjfsrUCdVWU1qEP5TDOrIoZw7bWk1QfOZzT_CCt3fscsU8uBac_JEPiGmnXMs07VNynNYA-IgfTa-lZvQfwN-aGx3qiT1ir7-lq7tLO14uYL6AEfinY4UJHciMwT8MUCkw7VFglyGJXjIwbfcg_77ISGdx5jMpGk4_t5-xzuhgAXM8liyXMaZQ5d5cNIg-pkLqla9pB2dOSWlq2sq0eYRH36fKj-WkRd0v96MKG21Codz9mJ8Q
     widthPx: 3024
     heightPx: 3786
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP3-p64rUD4qkTLLJiumXUgPghTLcNJgBx__hyo!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
   - name: >-
-      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcJUStvMhHTUwf-eirsmKl2TpU1tYz1768r68ZOWn3vddd6jLGEKJ9SNkIxx9rdf5qIcMCj2pwS9ebUgxd3j8jfYg21gVv6O30NupDMLnqpJv5YmOVWMowJeQT_rCLEdo-HiqgPNlGDUt4VLioK9S_WyvGRzSG2mmpmHRDuH0358A5iibhH91Y_CzIMbYBrhUJ5o-DTX4VyZxt4CwxmGGTQe7i6iMxlwt9zxiLONCoSadoTVFtbr2wbvp_-UdmtNV7PkSVXMe-9wb3elzdsKGPYgaxOHIs0GmUUL4c0l1WrCKX4pF9BdipU_7Wxc7zhmf0Wc7c0GW85khCV4p7jfJTxYYrK_wjXz8dGGPdd4b-EE6dnWDXUtwrR_RofGqEx5A7rwQAvKZ7r9QAqQ05rIohnLRbbO9g5jnZlGcnFHw_TaLI_9jsG090GTJMHGDUPa
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcLINeXlE-fYEeeeV19D4oSu5Qb6pyWv2vJujyoU4sL6hhOJhRpSVRhRgBbfmMqy7K84kf48oyWcZmsPB-uWDea0XAZu3dmp5YjQJI8tCv0oPD27z3bZBgOymP5-xgeZHDtEt7sHnKdgdfe_pcEzssj-Z02T-wNMMEU0JMbWgkzeULExjdHTedInkEroPysTBaP0dpAzh0TNh6BWiqeOMeFAci__FNLNeGcSCAmZYnuymIo5vpH4sAVIGVXiPVz68bIebxbX2nJJxG0qVnlwARFGm-Z9FDU8UDt5CfOcWiRQjOvIaMFwZwx_R4zo-8fcHsZ6FjnSyICBK9vk8GPyfEnbp1BhLAR45lJNoFHUrwBacc96ECAAFaDyDFXCd_v3Ql6SSUUJJnMWjAhf3wSJj5hcvCRaz2uVNsksfwQ4_IBM3qEQsXdzTBhv6d-0diDg
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -52,33 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz7i4tpmfzgRcABXTh!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
   - name: >-
-      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcIjps3cpBpMzVwlgK1C3JNpty_KPkgr5f1PvmlvWcgckJoxTJYNv6f9cDd1djyNQDlkj9gVja-aMoqM_PQ91uHEBj_BzPpxDCM0vL8i6WH98BfDyi89-LYrWRvmQYz7VnMwElF-3CnETLFq-hdpVNUOmgxEiPgtZp8pRbXOU0qQkweYUW-ifdbCX9LrOPFTDO0lKma15W96r-qCbwzwzz5W6IH1c5Js1sfYz2guPiEBdJyVPxG8eXfaIixHeLQeZG6sOsOlRD4jbYUqB3xRJIQEmHsGGbrprSnm67W6aa9bFLc59-aHb-gOSMKx7miJrpGGZmTnZdRu77ehqHEuogBJg6UkghfBe_lWk0-sUH0T1QYjqnHKVyM9S7BNi7jxs5bo5-6IZAhxNwQ6-TtfgQAakupPQhkJxjgjUbPryj9ooQ
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Michelle C
-        uri: https://maps.google.com/maps/contrib/105299089529173746726
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXYkAQpm-DQei3ouBA_m1CUZhhAV4IysS0XjIjyVnQZ5Cn5qSw8=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDThqecYA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDThqecYA!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
-  - name: >-
-      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcIrGd0_QbzDHO90EpppmBkjZS7-sWSlCylxAW0SidiHhXh0XJyL7EQ0P6uTQIFr8h35DNy6AIV67_ew6N4YOim3N6e28jumVtQph_7ujpW-7_tI66K2S3grzFpCjUUSWIPIo2aDJLt_LE9aaW3SSA9WHdquZgPeN_Qi-YkzSbfQ1Sk8uR2doF5AN4Goz36iCzY7kAOWRRESang5elhw6Hqin7knfdMX4D0qOroa4zvRh7-E-zbO_LsxssEb1w3MInJlsyH2t4er-7PLS78j1taEyBrxc4u30ZTNJPQP9kN_yo8yje-M9uGV3s4quudRceQ8bC4hScZ4ZasmsJL5GX-DKx8WnXSWnPKU1XT8QTeFzjtlA_lg4KJeRGxbLpA5OkTBAxjyJGGy_Ez-fLNih1tBmuTEGPpsoS7WuQm7F8JS2DfJDdH_I-Dh_SO9c067
-    widthPx: 4000
-    heightPx: 2252
-    authorAttributions:
-      - displayName: EYAL SAGI
-        uri: https://maps.google.com/maps/contrib/100156695040190102873
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWHEBeXYkbsFkBPFKD9IQTzqwK47k-NNED8fgCmK_nSVfS7oB1B=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKz7i4tpmfzgQ8AA61l&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz7i4tpmfzgQ8AA61l!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
-  - name: >-
-      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcJV5NZKPnH23YYNvwPVaUbf0AK0LIi2BbrnrADUcxz3mMRoqgH349VwFAt7DpwuaXOzqBXDxf6qyUqYUOwmAsSVH3VOn3q8Pf5hNUTFkhk12-Fco4OUy3KN65PRLSOfpT5JMplBTLC0xuzWB8xbrdp0gHSJXBaNnD0yct-DTh5n06OeOBzcYnINMxn6zEvuWM0rxSEMl1_yvRlJVACCx2uRo-yHUBWQ9EOfK8LxoEwimHmpd00bL1HWxyqqsL8abho8jivDC11F1VDer_4-YhBwutmmx-7kC_KCs3lWf1HI2g
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcJYrzZMqnNqSIquRTzO8Xvorfm8Rm8gt320LboWfJS3WAIXFY2cmshOAPgiWfGQUJB3Bjlm3NxePAGEpeSp_cDYQZFqVkqzooorNdKsQCmGGPUwn3kktGIOeTnEouP24Vz7JXhyBE1mRWgldoXMa97e7YRm9FhEcZfdnIVTXLFDJoyucFrXBcjHTGmJkdafT4iyw9hHmVh-ZTcOSN3E23PA2HrZrWwSgsqT5omERYXSi-_uvqzqyMO_zROiYKzmhBATmeT7jtZYTARYCd_nkDO3l797HEiySV2vS7aC0rVdpA
     widthPx: 2119
     heightPx: 2478
     authorAttributions:
@@ -91,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN9923_UQ1hF-hD6bSie2eSI3reUUOfRG1i_wL2!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
   - name: >-
-      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcJGwUMrwlfJs_Y0o1lvJ2Ajq9KMcUIiNDzsV-_SpC_WTZjQlxE-1GRpg682w--gO3j8tDr2pR3-WZ66WROuA90K2xwBhiey2OoIJX3gdXkWAB7z4tBVJZCCEye8HAhbdwwKmIPINQkscfb-Xgs86AgteE0G4ZlAWzca4Yd1EMoEbAoejFm9CR-KQ2WwwCZpuLsqt-7rAwM2bXY_igM6lb3HXLJtPnHVuzhrykpz4kfyei5YzWO3fNsfW0nodDSoh37NJH2cer60cwICvWODDTtTMGJ5lrQKng7MCw4tNsbqHMxhgi2_WZyOvGLL3OsV7_6opxRYsdy2mH_TdjrF-46zKIhQBwQztxU5u-RzDBnyO8AP4cOH0h683mQk8hVbq8Be5AqE4ecf-n2JiysmcRF7E2ktlZB3HWNjiO_2GniukPY_
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcK_smEbTUvki_nqfWEAuW9bdauJLOr3ARnjTmRxjICy8ld9hpkfpiCh5-q5y6SZaCh3tMdqLXVQIN73H_LE47h_Uq5MrFNd_gmhe0LnH274c7wJ1TK3BP-3UpeUh4pbjbgRDcJZYKPsnMYHBynOowqcb9V-L4c0CTqwiteOKORGzSwtjVbNMFdqNE0G9mEid1YrwSn4TLgNp5K0xa2GXeM973565EzFOv5XTiOUHorhbeCt7L-8i4ITc8cjJlvrar2sghaOzAgNysEEJC5hTPtwJoW12mgOPq080O9Fk67zLzXtGQPCg6LTG5ySFy2GcAZtRYIwi2IoZNAWj0bWzC-FcKh68CWdf3minn9pMmZXbwAK8iAfDDoWziS5NGQCO-TWI49kpyIiXNAM15rJ1srwJIzzveVQ6DpIS31aAbKmSSWEZjAEL9iZYX6hMTEO
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: EYAL SAGI
+        uri: https://maps.google.com/maps/contrib/100156695040190102873
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWHEBeXYkbsFkBPFKD9IQTzqwK47k-NNED8fgCmK_nSVfS7oB1B=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKz7i4tpmfzgQ8AA61l&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz7i4tpmfzgQ8AA61l!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
+  - name: >-
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcKLcMxVpYK5-A72fU3C1kskowTBl7gG_IwyUx0tnGdxm8NqGjgog5N0Byw-ALRPFvEv-Pn0YcNkLxwdHrWigG1qNvOHo_29q4l915QtC-UXLhpQIVcVlk2neJy7eoV2z2H7srj7SwkKbXjWyYHhvj4v7ah3-oA9a25L9ppe4JXeqktC5M7qATd9Jin4OL-S0exkIji7VBAA9xDuBYqsC9m22MKpAOHsJKufOSvONKKbz2BU1o1MIar3ypu4RtAmQKRqyzg2P6wbDWgzUhvF77DdO3PgmYVR-EfCJSFdbVHnbpLeY7VnXJZXLjCTwscnfy_k8sJTXzpSONv33f46oHBAWU7Ly42gTHKhL52qP_3XZpEll_X08o1Cal1uyhgVhKzBrOm6vcb-CoP5cQy5WvMrkPPnjHBFJJYF_vi7Ce3mzHXb
     widthPx: 3662
     heightPx: 2888
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR-OOL6QE!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
   - name: >-
-      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcJRPxfCXAxAPhsiu_0v0pH7lyneBirj8Cynmw22FT_mw3nD-kUutDgkGhaynUEwh4h1k4zGOfNOS5gktRObj-e8OX4O4JqonGZqiJQbVkqFSdLwCVXX__EgGPuf4PiDfnKK8rI_GiKCl75ajRXcZW4Bqkomj0lKna1CWTutMLr32ORlb2iApNmAlf08wuWnDvJvhhkuIIXSZw_RRbRawhCMFNv07c_MyelJZpe5W1kzF9PfuZAdCPVRgilDxWvv4JakhiJmSMvtW14ObyssETiF5vNvSz10-y5CKXIHlXZvSg
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcK1qriuolTp9ixKy0hnuc8t6EEPpXuUydXcSGTczAErhS_d_yfPVrkhcN6CfoYxhfxnsWRSEbBnQ9Sl1e6eTrnx1mrViSQOvnj9w5UnqvApAqlpAUJ1UgrDfYXYhox0k09PC_M-uu7kElm7mUMFDh5IMGb_X02Q0TOd2FDn32UahvcT9Y3RwgPEzUReE5x_HKGeNhis51O_iBh75fZfSV9_S5W9grhwpDmkXWRouE9siL_uhg2I4ReJ0qRlIJJSeF0Mo2nycVl24Am9A10k80ilFUP7AdeKilmcQHFhaoNyXQ
     widthPx: 1024
     heightPx: 731
     authorAttributions:
@@ -117,31 +104,44 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMOtfSDRsbpGcUaYDdMui55Yvip0KN0RPL1S8Y6!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
   - name: >-
-      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcI8DGS6VMMo7vHlhI2EXbJRWA0d_B8vcUXEfeR_Old6eNXDqhHsR-hJzx6pbZv8cKYjNF7bhYcl8BYFdmE4aShsJdd3zPkekpO_Rk-y_6cChyJwdZR0F0xJbQ4W9EtL53oEwa2dKCeXOzNPxUcmnzxNuzZ7l-ysZBp_RoNRsynbVP8P2ySh5E6uuFL0UGX4JXx0vtYw8_EN8hgg5dMkFmdfKlQsg1JtBPg12WGeRS4LfQkfZIPSbXZTyadKwtduP4XOLpfM6faGOXsTTXdN06FMONw9qSyEyt7eACEFE8OhDA
-    widthPx: 2961
-    heightPx: 2534
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcLFq0hynE4LZ7ztWALMS3Bmii4VaBnA3AdGiWRUS-YbLTXPxd9a4vKZ53SfRqFiekHcUyaZFzZjgO3a9dnM6NmErVAJbLKpUK1nGq92Wvxmn_TgmdSz5d5woF7YrRW-7_bJgLtNi1rzpo7cvJyT0O5YyK8CFYhdKo-HtwGGsnNtNSQVUEIc_kzCPrA4wOHdMaTFFbcTfJ0Bmkm1dSyXEh1NwRRRgA5q662_IWGwo2EFLhg5q5jjrmqks9RSHBQ_IQ8-tccuybcSkLFeMI2TDhU-hUXFy6X87gjMOjxcmUG6bjoH4P_oB-D_W22BwShofaME4Tn3J4jwHiX3vQIO8CHXLfOkJ9MUo5L85-vQ-OHHeFrB8XjdbH37j3d7IZH5kSdglrnfICRQELA8QVn1Y-aV4UCT1SkJfzwwrXHGnoc
+    widthPx: 3472
+    heightPx: 4624
     authorAttributions:
-      - displayName: Karma Sushi Bar Grill
-        uri: https://maps.google.com/maps/contrib/114299120564566966139
+      - displayName: Mazanec Mischief
+        uri: https://maps.google.com/maps/contrib/100435757885353298462
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWLcX6BPmEJ9Jzl4YRoZhuNA8n6RDFO6snpQgRbMArOYT4-yMc=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUZjL7fu1cNAVp6ss6wT-vlPgV7O1EtwjH5ahTAV9MSHwN_OCrP=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMMQqUnVCRp1vmeKAwPIzPq5fXso7uru4ivJL1W&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIje6MJQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMMQqUnVCRp1vmeKAwPIzPq5fXso7uru4ivJL1W!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIje6MJQ!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
   - name: >-
-      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcIdrbFs1DXTva4TIMCUT0ttIKJ-ZHu5wvTQK2mFoZpfomcKkb-vsfITuB4eSk_qfWHerCGpOpkGr9x4dCVOi-hYdzdu7WlFJ23jU5vP0VMP9_SwSkxc3noPSow8Au2bjxS4vWsbpq6Fvubj2z_sRRTQhvSOf10Kyxk9ltnwIsKv_Or5OZaGzLo2j-G4N6rmA3dPjbUx01a6R5UGPWpZVXiG7_mlcdgzxSWCbUZvL3hTg01BS5APcqBE4Puodwby0LTFmgKs-7mkzPh2w_xnl_ukGV5vg8q89-zxIfZfgH2jnby97LEP-4kT-oNU1NTKMDlgU93suj91HBm4_qfIqyi4fBqOiN6KxX4bhX-zEKHAh82dhnMVFmswiQ-fFK8gii-tzllP52HfjhopnucgdsUyoJCul6p_SnZLCpvsp16kJ_Y
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcJf9eOfafj63L5_-J0KJbBvJiX_dqtXEn6KKad9JegOHoB6RIS3ytzjkpoSKZkNMgHqfTpcHe74M7zYqC7JNjcwKy281NzQ0dgJiQf-mvFNUihcagCk6sMtMRJdT85mAHSgtSVyiG3Sj_YODtSG-BsezYY65F-t52wFmaoZm2gZ1Vhu-KOtXoH5b-JsFBDCJlgccPWBqRkZ-WnZYsqQ2AwNE70ezmUm3bh4YWV4noZi9z5r1Ncs1Bo6wqoy4rd21itVOHI2p00L7JCP3kCchWTtwPxAJGdEWoQsgMBKfvU9o0J4QjyVLQ6urK1mryuiGXWyVGQ0TOiJIVwQv4ZKgCLwAUNqtqyndDgUq9kEX3BMpgVAQSATLWFW8HxRLC_Vd-ERFEX2isKNZU5bIxmHNp8H_FPRKWdN5USWiKCAiJ8_5UDt
+    widthPx: 3600
+    heightPx: 4800
     authorAttributions:
-      - displayName: Rachit Mohindra
-        uri: https://maps.google.com/maps/contrib/106964586087954696354
+      - displayName: Sky
+        uri: https://maps.google.com/maps/contrib/100672542005634134898
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW42YCZJoGGfD6x39iR_xPJHYOEPQ02H6Uj7hHAlrvj04rSZ4yEAw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXIrG1MwZXYO-gbWyaHVUYjz-xiLczTmVuQ_MF4HtewTLp8ISXl=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrqtCj4wE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICju9_-2QE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrqtCj4wE!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICju9_-2QE!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
+  - name: >-
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/photos/AeeoHcLbXWMx1RO8m9nc0giD194H3kDwfnbOehmARivy3K_CVeWh9GYdekdXT3urkaNC9gDaOjsIqXTbZYI3r62RXRhG1BZDy1mtgQGLsc-QrGFfsPuh3VOgUGWxQ4kKmx0bk1WUoMwyZ7kkGuaKYoCpWZEQrXa9kb5IX03TXDXSPUD6lZNUgJKJR0HVm-Do-Qr37aVW91A3I7Mevu9g-fz-DXBUDXiRdO8LGoD298DQMIGc0vBW1jnWm6ip_ACVoR6iN4yLHrV9CYyG9ndeWSG3iK_BBzD3VeSI8c1nTKEa6OIQsJCEh9ltOcJ1zJKhYUdHZQvKPcGoJ2MhRh67ncBqrF7D2zIH4K3Xt3utM3tRmzrFUs_T5AVrGus2CsWyGCoeWUsGwdAAvVATY7BBqJ-rwBcvn0KirZGLV-oXWJv_25fl1yR8
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rocio
+        uri: https://maps.google.com/maps/contrib/114041797919489680889
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKHBkkyPCnH-WZWlCdJIkOeflXrgPaMGvJ6k_8CopbiTmFJmw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7sq70owE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7sq70owE!2e10!4m2!3m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
 address: 6 E Rte 66, Flagstaff, AZ 86001, USA
 street: 6 E Rte 66
 city: Flagstaff
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872d8f43e5b461c5:0x962411acc97cda56!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (928) 774-6100
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 2377
+rating_count: 0
 website: http://karmaflagstaff.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

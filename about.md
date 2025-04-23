@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
+sitemap: false
 ---
 # About Sushi-Near-Me.us
 
@@ -9,12 +10,12 @@ Welcome to **Sushi-Near-Me.us**, your go-to resource for discovering the best su
 
 At **Sushi-Near-Me.us**, we’ve created the ultimate directory of sushi restaurants, featuring top-rated sushi bars, beloved local favorites, and hidden gems in every state. Our mission is simple: to connect sushi lovers with exceptional dining experiences, no matter where they are. From bustling city hotspots to cozy small-town joints, we’ve got you covered.
 
-## What We Offer
+### What We Offer
 
 - **Search by Location**: Easily find sushi restaurants near you, wherever you are in the US.
 - **Discover Hidden Gems**: Uncover lesser-known sushi places that locals rave about.
 
-## Why Choose Us?
+### Why Choose Us?
 
 We’re passionate about sushi and dedicated to making your search as seamless as possible. With Sushi-Near-Me.us, you can explore a wide variety of options, read about what makes each restaurant special, and plan your next sushi adventure with confidence.
 

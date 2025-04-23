@@ -13,7 +13,7 @@ description: "Jing Sushi serves delicious sushi in Henrico, Virginia. Try fresh 
 place_id: ChIJHb38mHIVsYkRkkq77_TKYo4
 photos:
   - name: >-
-      places/ChIJHb38mHIVsYkRkkq77_TKYo4/photos/AeeoHcL6H2_diFFPiHlrkiqmToqthnzm4ydFDrwu84DO8Tpwas9wYIApsCkjh7vsbLDca7SobbS0JZQksH3bPMzrlMxftyHCj-ZS5OgAKBxcZAwrtF6RE1ZzV5punwy9VAJ4dYSey6IJ9ZmDfSaK3PTAGhHx_SIbAylj65u3ysP-3Ni8BwqtmtXNhbgy_05g03UbA03dTq8XL84PeTnaZFOZN9Kl-lGb-CTnCz3qgPq5P-JasdSo9I2XEOvYIfCcp8O1bjbYX_5xArdeoKpmic-65fuyYTeYirYol-Gp95ocADHBWJZbs5stD_ZhnDISwGvUjbrrawycv_pBD9a3y9stCJnSY19tZLRvoiwqOtCFH8-MYhVdSUin8Wvz6E4B4OfdOc0H6S3T-WlngmsUOusSXafmfLKBWpJGDieREa68Rao
+      places/ChIJHb38mHIVsYkRkkq77_TKYo4/photos/AeeoHcLDDhGApSd1yMFjsSZWz99-iAUSGHgOSfBnMhnznwCsKUvACbSzJG88D8DR46FKSEOAAd9OLn7RlchUKhvgvvcbMUCI-Ef57RVTbQf8k2Q9ZvjYXBzjl4xgbdsE3LRXXo6qr-t32V8EyquHupQ5ZjXClJ_QM4hKnsPnO6AiHuY4h7Bqa0oKjn0zxi-ddstwZrDxyXyzEaZeG8U8bNX1QkFsf0PR4yKHQNOgYtD_HTj-Ioyl2KUw7cDtkD1m37qyd-YerYfZy4hW_y7oWgvla86RhkqVszSVsiEEkNUzw-tyrEKzdhcoir_1r9-lPbE_rHkAL_e0P8dY6qMCUalUvMTJFnHsdzWA6esNN_KhwYDdYG2mSu5F8eN0rOHuThcl3zYxogWNPxh4ZIyybA9BFKL3f6A4S1Q7IjG-9dN2T2o
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOv9qLcQ!2e10!4m2!3m1!1s0x89b1157298fcbd1d:0x8e62caf4efbb4a92
   - name: >-
-      places/ChIJHb38mHIVsYkRkkq77_TKYo4/photos/AeeoHcKky8P4auFSx5cyIeKDb1T7KRRazHsm0k_dwUtNUas5GjqKDOz31aHOqdLEpHiDMR1bPtYcU5ArOGEvzQdE5RQLD-iGUcqj3Dr8EnFQKPGA9MN_OViwQiCqwobJ2VJD80AO2oHyzMznTJfXhicmw42j_5dr8FQ1RWA0jitwsF67rBtqLXG_6Ksh_1TCJMbh0ZU-3o1PLOuav_hpNvBdEGA3hCeJED8-OSC64tDdEsoVg-nEBABTjw1n3Ixoc0Wh2FVMVul73lgASOBvXoHtsohym5z1agtceVrFJn1G6WIB0ppSmbOmSN0SiXLspLZZtOD2FEN2E33BnvMARnjWMowVoo-X5NaVTgsfwFAWDkwO78bq7VuVkZPcBYL5ii3YmL_NKVLJMgs61NP1Or-7hp2iCz2GKP0ONjBt1nXu1s5yXIU8
+      places/ChIJHb38mHIVsYkRkkq77_TKYo4/photos/AeeoHcLS0ZTI_Ptphf67jKx4f3Vxe5o7QF6y7a2p635TmdAqD1iA2OwHGcadu_bZFSD94flQ3bY5MvQHvssVO-pqACEe1lOShKWSt2t3Aijd73HG31BgnN-NlhLBLK2Qj88bEVlb8ndrOZn3HfqYeomMfXnUYMLAFHOiD1ma_c_OaQS0uHZSjzNEJeNC_5MMaoE6eheFvqmYwwtZKi4hMhAnbHMOePMRgxjh_TcUeHSVZrS72quAbrinPccqR_-Rjpwfs_CHllQfmdeH_4vbLWovEsD5jx7AeePw8jknOnINEkFfvcSnwhUrjltHvknUb2D8XHS0oSPEhhbshxrRUNOsgiwjS4kyyYw_tZIz65Tnux1dbi2JsHsBarI4sRCCI7Ac15ejZ60RzkMjhFYxtQcqw42HHQG5bjWopzPAaGmWmaHgkkeC
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOv9qL8QE!2e10!4m2!3m1!1s0x89b1157298fcbd1d:0x8e62caf4efbb4a92
   - name: >-
-      places/ChIJHb38mHIVsYkRkkq77_TKYo4/photos/AeeoHcLAjOUEHwMpLLD2SUdXVCit1hX2LKiVB_YT9S1WydkF8PIqJ1WZ4_3wf_n6PmOTL_r0RZ1Fdgv3dlDzZQBHuIDcItHm3FSVHQTqXKxQzzJAbjDYdK711BMGc45lQt1g2wPYs_osn9gvdBAfpw61iy5_lXYMQ9Gz0Orycuiy8Sqrbg66cfsqcmIe-psD2jJoPCeT9g_7NtXcmHRfTLGC4mJP5qliWewUTegwEkOk77MCh09ErehlUKPzdbkvrb4ce_Jca1_4UgFsT3eCJ0OjTFcO6YTW2Gbu02OBbcZ1qx7_xcoWjbr9LsnEZZV8jFSeKF-WRutlDrzVWsLMi36Yn8PrAE4T6EKZru89k4JQmpxTocOaSHAxO6V76T9iNfgO3Qd5-aFq76NVS1LRdp17BUO4ZQvvQrYoWPed4BYTKkHSpaAW
+      places/ChIJHb38mHIVsYkRkkq77_TKYo4/photos/AeeoHcIXMq8PTb4sPxZgfPStd00f6rcofisii5yE-xoTs8fJHN1cqARCs1CIr2kYupqMSe-YpJcn7JZ_YJWqf-G4zzrkgF_Bna1dhehx7MvhT0NPiD_ItSi2D1pY9jg9hx_mPM3HgMRN3idZrLzmMzkhDs9RNdI27IjD9xN7iVd315mATnmNZ6CTaHFsxWt9qmB3p4YAeM4248cq0QlfvsHiASmfZxDyB_JRDB2tUB7nyhNwP9QSjDut_kM5IlNCpd1zFsmvj2pR_xsJSVP6YaXEwKb6azMiJd70EciBQkJyGuItaAbZSFZd8d3r0NPLsoDXzVG-chsF3B-Bzf8LY6tDacnsShFASnK-CXZ6Qiyh9Pf1jcZ8cu7H0f0URS7PLVyVGDe475vmFuSSPgtz_lfy7NNf3iV7yr4bga5kiPP7OPmc3OdY
     widthPx: 1346
     heightPx: 1013
     authorAttributions:
@@ -92,7 +92,7 @@ phone: (804) 288-5030
 price_level: null
 price_range: null
 rating: '3.6'
-rating_count: 18
+rating_count: 0
 website: https://www.jingsushi.com/
 reviews:
   - name: >-
@@ -279,6 +279,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+update_category: essentials
 summary: null
 
 ---

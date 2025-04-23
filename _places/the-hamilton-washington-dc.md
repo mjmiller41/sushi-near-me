@@ -13,7 +13,7 @@ description: "Hip American eatery with late hours, plus plenty of room in a live
 place_id: ChIJ0zjVx5e3t4kRPiQqmswuh9c
 photos:
   - name: >-
-      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcK_2RzG4N02E9L6ZPl08oggVTqQ0594RYsH6qFSl5NhGWzwCc4JlHoeW4yu9AU0Cc2t12IGEAly30jFWbgjvS6UOmXNjCktBNh72U2ae809l55pk32sEXxc5kMY2nIBI1vPuJI78GpK9qgKs6e0IQm05XO8fSu00p7qyY5WxWw8UwLqwWYtA8-qCpC8nB9YE_UndG8o4-bFyLjlDb1W2kdpZbY2R9wt_bHzZ0axXZZYxWOFpMBIwiFDIWEv5WwLlbLptYB1NC5NTN9pkm1IO694quaua7XQvMpp4s_FIEFZ7w
+      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcLPK5MxgGQGbriyBsNpRqjRWH9kONuJ04-cXaiC5FhWYzYigEzy3enOXeKQRZ_Xx18t0R-SvP2043VBOxcm6hhz45O32TR87AIU9emp1YuMP-BaTZz8MiHaA7E9qzj1zfA6x0fvLg0b2siobHD43t67xEEDXq6rP4NLyrftDJ-XUzaRZB9n7Kq8_txjKCQ5XeCdKNzueVQf3DjzeTgrBUToUeEMaC_gNqpELb0khOrsBmrocwm_pefD3inDLh16qVvjTOXAbAFAkiuti7WHHN5-K4XS0nwlJUvqMKHvOBcmSg
     widthPx: 4320
     heightPx: 2880
     authorAttributions:
@@ -26,7 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNexydivJCAR1PVxdJBi_d8ymsIRS0ePaRRWaLV!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
   - name: >-
-      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcKXVGlPNs9uo7VINFQwQ782HnGE5blho5NAKL8tWo50HJiYLdSSjnWk39ygCgdgnajxPCf5Xd4Q1dhW8IjzR5v84Efvl0rnnyDbW0LibRObsZCcdy1fuPtGIlf1WA9TPAS3ZSGmFgFptJlHz3BE5bUEaEOG2bXDUF7iVWCrw6vXLcqeLrKNEWSt-mWFz-fpQGTt9lEw219JOspRRNpoOy6DPd6ttb2DhfBLdODlrPZcYeChsiOjZ37L35tdCz4vZCTDBkJM2v3xOG04t3zrLtfftsewMi_7gavH-JHO42lfSg
+      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcJaLXX0Nc2DDyuk8BtQar0__L2dbRBmtg_SXF2bTBxqT_oxDCRFanUCW4FZ--ggUaIARIXBDPoSxgdoShNFI5ooVRKfl9DVqIQ2rkTMKCLk9KJo0XdrGEmpOLLepA2NfHxQq4LTfUomlrXiO_YySHumVCTjfCLd6vdcZA0K_NhczECrj993I4DFH9PknQ9V8fRXFInU3zdZxvE-9EKLX4x9tBnxVKnyrb4tv0kwEjo0r-gDob4xp8Ij3Oim2cNU-NoUIyyQ40TzE0HQIrYluTDbQUQvxV-9-RlGgMUjt0CYjtvBqLKxyzr66ML0ELGEcQONbfmWWspcCdxrrw1iWskJJUGObz-XOp266z9fSva-3nV-ng98KF_Q4mLhHq7veKcSxdNJ2D7tBmpgmlM3cNJ0l-IxsDTJD6OEgM2DYKjc0GTt
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Edel Lala
+        uri: https://maps.google.com/maps/contrib/113235938724027892276
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVGuBEaXfAOKFVB43DmZRrBr_e4simuquog9MQflHtMDt2KIELC=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIr_WFsgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIr_WFsgE!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
+  - name: >-
+      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcIuVgnDrFDVkKrDdDa9Ys58OpQsWOIhrbhCfupcZjAb-4_BRrHphaIKLiiDM0Ow5h7tENOebBqTYe2CVzSkjyigzpWhNVjS2H4x-tTbTmmRL8yDVmQ6NrpSsAKGoZKXS5DfskWL9qZqQr6rppMuGmLTEmFhdQwMg1W5p4ZNJ5juRW4N6Uilf8ug58ZZGy940VXMzkWKwnzH9U_hORBdGjdYaovqmjfFMUYpcI7XStbfwEzhFFFaPwdInoFFaaXj7FPwNJdcsEPk1Za-IlQEuYr3px7C12Ec6TwevmfIaSaCyA
     widthPx: 3841
     heightPx: 2561
     authorAttributions:
@@ -39,33 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNBknx98gB52rrGlTnYYHrRYw0iF7W6DU3nNqw!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
   - name: >-
-      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcLMJGjz9XnqGlv3X0NkCetnTzmpkTvNiIiMo6B_D60vaYLe6YmzpPqOwl01GyeSu3gBqQ8J4m97s99HtthIVVaVMZgwRlojYlc0LYKuoFPf8u1wmB0cgwhFveuGPJEjDOUdmsJIp8b_lemX2_rOTlFlyrA_hZbx_CaFZPmBM9Jb2LZzkOYAXHn5d4MEtGXrd1K8BcmSCmXdsCPPmiuiB1xiXambOpD-zFQ6tcnMCg601sNtIdrarZkaet4BnmWKUDIuYAkGvOVe3uEiYEljrKshx8nV_k2ISVeTNtFwPdcTLP9B2rX_M9mM8odV1wuA5WxjhG6ha7q9LVsbRVvxgNYDHUYgFbqJxQJiq4E3KYLM8OBpi9r-QwVM7uX3g5lmq4CMrEWhqV_lU6ec3dixvFuFX9JPPEQxvr2VYkfIg22mIbHb
-    widthPx: 1449
-    heightPx: 1067
-    authorAttributions:
-      - displayName: Dario Mirski
-        uri: https://maps.google.com/maps/contrib/105576028219949544272
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLmR1GhLP5OvoCaP9UsKAf6y-RNEz6o-cODI17Q2goiWLPKPw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIzrCbnwE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIzrCbnwE!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
-  - name: >-
-      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcILSgKvn0Vy5P8GQuJWfVz7ktV6SGTF3mA57hTes4l5HV9OQr7o-V_NXivzsY5pI1yc0ic07zREEQCizwQ7SIUxBpluQ3XRfGeoJ0rmyzflyQlu_vkAiVH8UIZcY5YDgQ8mrg9uX8CElibUBTcoP2iC56CpaZofjSf5m7unZU2puv1sjNb0m48hYXq-XeNgellLLpQ9nOLpWZrrw-hZhJHaA-Tj05F-8UEVdB7swpT0MTOANYW6X5y5YUoT49QEW3NWWH2QafzYxVnaubsmwNT2mlNRWv-Y9ZcS-YpqB_cfdw
-    widthPx: 947
-    heightPx: 800
-    authorAttributions:
-      - displayName: The Hamilton
-        uri: https://maps.google.com/maps/contrib/103036502084943676218
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVO3-F5aO5j5esYcSX4jlP4ihk8-i8e-psdkXz7LpWff__RsJI0=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN4-z29R_lAtpCsHkoX_0K_Nsf5lSdySb9pogT3&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN4-z29R_lAtpCsHkoX_0K_Nsf5lSdySb9pogT3!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
-  - name: >-
-      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcI6ElWTZAxiAuZuFQjBzxg9bOptd9uFhfQY11UGryZ-6D7I-q2DZoINKnnJF7iWUxJInXLsXWhWvah6lCLq3kHVp0B2GrVMbOw1pvk3ZhDHuXQlOwFcDVLdWvDiPqnRAIIhbnRSP5JOoiLgOImpRQm0avLmMmj4T5hI7bxl4Xbn-IJlZuEarE2Rt7MNNDZcMgW85p_xQwr7IcEzvBtO0W3MoiDK41BABFTuKm6MGnxH1gPVuGkBkA43Ayoykv2s7kGnpqelbLW_xKNI3bFeboWgRvTd4bMtr8BmAAa_0fprevwBzd5j3LNAp9nrpTXBZ1btJ12u1T-3QqHQGUm4ReemNC-7D3KLWB8zQAzqWi5stxqGkhnK2dmv7pu8iDUDw8-iac79ymJc6aEa-WwDgV9o4ooR0-LFA-uLPLyI8ULpUTM
+      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcLmATeXU5CHh7Dwh7td_TrwAkakEpY-MmR55xFxBbx1gRtcfPy4YEmtLKNJrcAaTxj22amxvuaURi4mlvkZN7SiLXuDkNmVrp5uy09OXIKUF8BcJK24bvJjrChMbR4HWyNx-BEGyzYaikYFNgMzoyFAZBLE5Fnb0nR9FKdUWDC_RRPRKxbFPDDqjJSrbkAWHkEU9YM18OgXaaStq8G2DZRHMykR5I5vlANZ5lQnFs63tzuD2-luM4t7ILT1G5Fm_TQuJK23hSH0B3vz_Y15uujTeOS42hLr1dhermfn7rSGNiZrUo4v64fmk373uGsIa_bhD1tRtuxYeK0-Jnf8fieEbvURcGtH4LoocvN9ucpgKvEofUQE_bSw4ebVloAuEGujdUitZ3yqTbmF4jBW_YuSXy1OcSszzm3aaqL1Ewvbl0E
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -78,7 +65,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIh5GssQE!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
   - name: >-
-      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcIRIU8R6DcrxnCGfSynfiFmjQA7KSTeqZF_ykqtiFi1_M33gST-3ibq2WF5RKsH6vIvpqRUe1Nqk2Ej58T-Y_3m6Z0Z0DaAawZAOoEdpcGK5kZ1-_W7kzjRrtldxRzjoA1gpz2g-Gk8fH1PloN-YVoDBknUP-nba4yrgB_c5uGtGZd5f4G3lLgbmEUd43ZeV8Y0nCfTUplGqWWJ5GCZUcvpRGLxOigqCgRksttK4o3MAQ9l3uynwzcbTxprXxdx1U3fraKLzcU1eeEApY86GwZTG-5doZVz3ixkwDXD_maNzmY5bvgI7b0yalEIpM2jZirmV_AM1BAWGPF9VEXE_OeKulzodIoRQQ5iQ-nkBvI4AjCq6r-qq6-9UaRymshctlNoU_ZXRhqQakGWU-Tdqm3Z7tbjJQFK7mP4785oy-9l2cr0
+      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcJwTWA3ZodDKBcriPlKeQbS5HJIPtpmANvFAOwxG57HPcJ1uEmqHZXUOiO27klaYkwyafVzShtKxX1Ph8TE1bgTRRF6ymh6ENuqi_yJuk5O8mfh8t8oGGX3NKGHSmLnqPCaSlnAK0AHtjAOEKMDLlDnXY92gadRACTrATR7zf5C_sX6HHGtaFlk0Uek2SUMIg_dDb81gdQ67ej7KzBOGZlqvYymLxc8HOb3Q-HHt34cnGP5VP5esTshTIqzr_bTXGNP54-oLVx_Auxv2VeA0udDmDUCYB61ZzkHF4O_23Q4VP4ahmTyjQ7wF5lo3iB4UxQteMC59Yre9q4CgAyCIVfyZEHRjHIXxpKF6Oe9c0uoAxWSz61_Ui0B6xPv7BymDdJ2FQ-iqUeb14ixtf7Vwj2FNnf_qmRySgmEaY8JBRVmLQ
+    widthPx: 1743
+    heightPx: 1576
+    authorAttributions:
+      - displayName: Dario Mirski
+        uri: https://maps.google.com/maps/contrib/105576028219949544272
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLmR1GhLP5OvoCaP9UsKAf6y-RNEz6o-cODI17Q2goiWLPKPw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIzrCbHw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIzrCbHw!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
+  - name: >-
+      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcLJY3nbAtJvQJqNNz9tP8RDjR98GmgE0tRHqlCp3x-ySwWuT7mM4FWHwcyWiDabSNW-L2EnVUA9vbZvCguCOi9x7aa_mVQrTuhHoW1TJWQQrlwiRRoj4c6CRxhy2upIeRZRfm1KEvnBdf-ibqvENmDudyr284-efcuARccgnQFjFBGD2HVux9ES_1eDL8kNmSC36MqXqVw6LnoMJUgBbuEnkbzrhun0PiOQc8SHIFSTlJzoDH48KcLlxTEi8NfuNyzyGSF7m4mr-g0f5gT4fAAwtx-cAFmblhaoaR46ljJa4Q
+    widthPx: 947
+    heightPx: 800
+    authorAttributions:
+      - displayName: The Hamilton
+        uri: https://maps.google.com/maps/contrib/103036502084943676218
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVO3-F5aO5j5esYcSX4jlP4ihk8-i8e-psdkXz7LpWff__RsJI0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN4-z29R_lAtpCsHkoX_0K_Nsf5lSdySb9pogT3&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN4-z29R_lAtpCsHkoX_0K_Nsf5lSdySb9pogT3!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
+  - name: >-
+      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcLb30m08UruxAUCPdPTCpTVEidm_HEZFKnp6WwBv-p59kW3ouNTltnAkeasqY4e42dRX0cuHfSVQ9umGTLELsb1mShAnseKFyaJrY7MdFfJmfOn1bk0uZwFbLK0V673elCLghM5itLnXSJljnfKWzrf0oo544rqub5F9i7pRa_i5kZ5y0bVPLS61BAszy5k5EGQVz61RRxUeldCjWvUs2jO35cXe88_AAug884-d7t8HRA4tRDXey_jhDks_efPh5Hv8XNRPE2GDB1ORu703ET5ZZrblLTFrnCzz7qtJ6-GUrnNkImeQNDIwBwsWz4ODADsF5c5djWzlAcUHf1hWLGlvwbsWbATaGE3r1GGZMBNllLBunsIgEebHabpdaBa604hIQMHrrCoXdgW2v9MoE11UBU9e6bHQPQIr0aelJsr_44h
     widthPx: 4624
     heightPx: 3472
     authorAttributions:
@@ -91,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfq5-zowE!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
   - name: >-
-      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcK5QBSEuJ2DFdNJ-Ni6lQP35Z5Px_Uzh8uM3S7CWopRHBUyjlFvFHaQfde71Ezo5kLrmiV6R0hkxAsmhkGY9JJIvHwbn0KYoVrt77MXuem8D_Jbilevz6IvwGCrlkijSmiZMQR3C86NegIl9cKx7red4wgmMmRJuR0aLF45FyyUlnk4uLi_5Mhg9_L6SlH2G6rjarmwFDWQ6Rot2CspjOJKHadKwS6BQ23IhTId6H8S7G7qPLkZd6w6VoMW7CGaZPrugIgXP7RKi7onIHI-mB2GrYyS5Z8u9qat2T2bvaoPM5iVbI3iEvcDwLOfaRGyVSp6QIMfG8bOT3RdzrjG5ncjef-TMd96u5cQeH22_fU-kCFzirYgfHLJvWy5wW7ALzUSgg4KFM5KmDlb9tRoAn1D5BZI8oU7B_FG9k9-8pKEp9EQ
+      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcL-ZW1CEpNUFqX_cjZZAJaVktVq8SW_46Ix7mAptwtBiaLtIZ9yveNx3AhppL38YJp3C0wPDwpA-aksAh7sWGpWqkrq9_NGdDgCiQK9IIwF7oy_r2CrN41gVRwe5sYaupvItUEwaB1l0aZesimlU_DfIBybg_yfIy5B8pxOvX2tgSbxht_vCsAaA8KKBl-40WgAiKryFyQnnlvEGLv2r7tY20XSfMw50sTQ7bBsdqRYlfwH3CdF4x1caaRSJ252Ka2DZGHwHMHqnoBWNdycGFhzDRoQFbwH6nM_oO2LOm_IUA_QWcdg5w43I0HMVd6jO9pLIfJlgaLYY7RL98hU2LuO_r_PYNTNIba-b0SthWI-vCspEDH3yPoVhcZyLck_C9jV2stAG_Qu_OmMVlx-ICnnkO2ziK7cYnc5ZMLHbLxFak1R
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvjsO5iAE!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
   - name: >-
-      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcKL2YesuWQDlBv3qfRmULaqbafX3OjqFSWFlodUV00YDk75m_mM_7GGGOReb_ISpxiXFJzrluMpAZcfW-cG_fVdr8Gj1MHWwsdBnPKRMxJSCjwQP6vFRDxC2gNj8VGeV56bPqp5HaD0eSsuifjlPeJcm3DheoiWy9wsSdP8V6IjArBok6PzaCb_os-qxDcHb8VhT4aCRKQ3eIo8uT7NLMuWHppidubcjjv_KFulCDHEBxWvT8CuNcDga8JsCXwsURIOg96NotkSkYUXedQtSVvJGLDH6Kx7qxLsxFFNUVsIzQr7YJXOWoTHnd_BU-35oEizBMNssAVzhKZp7OIGy6u_mskTbsC65qVcpqEMz2gzEPWTvYVUXZO01I73I8qie-GBD-XwtdUROnGAlBCeKT8usLWk8BVVOvfYdKXrcXqfxw
+      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcIb4mjk0kIppEYyiLASEBZJ7kIReghic8VmOYMSGkkkrLTutQNvrJPgf30BFpZVi06pIWNWKOMsLfGg6sz0S1u88XursaHm49YdW_jQaXtBgpJYcuUVny4ZaIxHdnY4nmMiv_19KtQv11i1xuHH3inIxnmQ_GKDzFmATcouJZxDyXWY_4f37xz4K3_3aXlNv1sFpUtAumLGKn8NUERSKf3cA9pw7gkIeWcSBcyaSLHBq79zkvr-XtLl0XfSzpd809XLxydKzRVndAU-B1TZ3B4mWRb8f3WsrW4-F79dpERfAdBiyQMyd-7hgsDScqpP_hXm_EQanjWJdUiCcu9v_2Nn6Zy0AGQ-oL54t-43I7wLBJXHFCetHoorsukIkrz2Vj2UJ-WIy7C8l6jm6o-ajqeCNzgPXhy5REV8XVlaSDDp3g
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLp8LcUw!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
   - name: >-
-      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcKaoxknEvhhg5iKLKgmiSywe3V9XgqrFXo0syCwSORXh_iiOnoN0pmWSt1Z2ZeomdZzeJ_UIy9Idn5faDk8_JGfg2h54J1zRjKbQbln99wiHbYj8mMmMOQTcPSflnj9070m76oJxSu3TiiThZalXyzXhMb4pzvtMrEcFGulJZ3DeHRTjejVuQo9FIx2PY1q8sYNkEglj1p6646AFYcesn4OuRKo5H5_DHjIxgxjo3su3zAk3O2WyBykuJ1UEW2PCPk8WaDNjgkODdOHj2z-8eUxguoBdOY5ylZf2zNzKoZ3GmtfDrXMRiYmVVWTAevu6SpV2WLEAdxkQGQoEq--PZQR6tk1_g2C-rJUTin6Rf9OGIm0qtAX8LcG3DwgPIvPd7MprPOuwGPd5PWo9F7WZfqySea0ukQxoTYnf1K6A_wB5qtU
+      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcJOKqRZhA7_z4TMhYiyk5cR4sYcFPCoWft8H2VyQCRynTUO5OA2ZWXZjFzieRHwuEKGNHdMClJce0I8gHxmoYAyd-3rcceUx8PqYP-XTuK4NkhfzQwtXWdSsmiP1zPTIUawBXNNLir1pn8NOgpPfdwbSKxaHvOwXoqZ1M_5iAXy5AXCaHkOmzS-0UsHy7z4UPE0sFWqIZsHja1g9q_znjmvFLZgRlqapzpdZ83ezni25bhRqBwFDfyeUUCkAHsUlhdM5A_wWf8wbis63OgVgg1zP315XVHEiO6N3JsE_dDxRs5fRRCgsgJnQ43v0bFyB32HcNPbJ2aMbGY2cyMRF3aZR748W4cWj9daOIxaG9_gvBeC5FXfqU88adfiBTnh4_NTIycjeejqer4hUk3590EKBit5eruU87wSEdCKWxEgtDSX
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvjsO58AE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvjsO58AE!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
-  - name: >-
-      places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/photos/AeeoHcINTC35-SzYID6By9v9J2ANKsmVzVyBhAUU9m7RUMDgJI4cTjGdFcBaMaUVn7Z_PZKS_L5T5wbNUyGhOWRdVR2VgsYbGd7R7twnyIt3DTGEYD_fVrxzp_QzPK6DuazAWvU8-UZds0vURhOheeaw8twcz8OwekDy-K3464q_OgWiMyt0ni_0VRMY9cdbYHLM8HsDz49amq1PQ3v00s1aGYl0L6UHC8thW_dcD4SAHqi5_4ABsD7Q19m88QHG-XfGO6xvvqXOqIJmmYZJ3EUvxjrIiuJKWHTJlZVWaMlKI8KCxvuKH_mu0Igltrkz1tLRI7mt5LMQ7kBuU6Xhq1VrwHQ6YCao2zqvJq0NPAMmyaL7Q6VFNbCV35zfi0PwtGMgBl7lSUBX-PMjqsivO0399_0VujxS0efqx0A-KhHWiP6Yr294
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Udo Ste
-        uri: https://maps.google.com/maps/contrib/105087313931710306129
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWu9b9nUXzTnLmQvjgRwJGVBOtBdVHLlKrb2i2uO4rblp5F93F2=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLwKHypQE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLwKHypQE!2e10!4m2!3m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
 address: 600 14th St NW, Washington, DC 20005, USA
 street: 600 14th St NW
 city: Washington
@@ -182,7 +182,7 @@ phone: (202) 787-1000
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 9062
+rating_count: 0
 website: https://www.thehamiltondc.com/
 reviews:
   - name: >-
@@ -607,6 +607,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Hip American eatery with late hours, plus plenty of room in a live music space
   downstairs.

@@ -5,5 +5,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .env
-.rds-ca-bundle.pem
 sushi_places_bk.json
+rds-ca-bundle.pem

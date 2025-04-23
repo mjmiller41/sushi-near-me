@@ -1,18 +1,10 @@
-import path from 'path'
 import fs from 'fs/promises'
 import { convert, revert } from 'url-slug'
 import yaml from 'js-yaml'
 import { glob } from 'glob'
 import { MONTH_MAP } from './constants.js'
 
-String.prototype.truncate = function (num) {
-  if (this.length <= num) {
-    return this
-  } else {
-    return this.slice(0, num - 3) + '...'
-  }
-}
-
+const ONGOING_TASKS = []
 const __dirname = import.meta.dirname
 const dictionary = {
   '&': 'and',
@@ -29,6 +21,14 @@ const dictionary = {
   '.': 'dot' // For abbreviations or stylized names
 }
 
+String.prototype.truncate = function (num) {
+  if (this.length <= num) {
+    return this
+  } else {
+    return this.slice(0, num - 3) + '...'
+  }
+}
+
 function slugify(name) {
   if (!name || typeof name !== 'string') return ''
   return convert(name.toLowerCase())
@@ -37,6 +37,32 @@ function slugify(name) {
 function deslugify(slug) {
   if (!slug || typeof slug !== 'string') return ''
   return revert(slug.trim())
+}
+
+function registerShutdown(saveDataCbs) {
+  process.on('SIGINT', () => {
+    console.log('Received SIGINT. Shutting down gracefully...')
+    shutdown(saveDataCbs)
+  })
+
+  process.on('SIGTERM', () => {
+    console.log('Received SIGTERM. Shutting down gracefully...')
+    shutdown(saveDataCbs)
+  })
+}
+
+async function shutdown(saveDataCbs) {
+  try {
+    // upsert data before exit
+    await saveDataCbs.forEach(async ({ data, cb }) => await cb(data))
+
+    // Exit the process
+    console.log('Process exited gracefully.')
+    process.exit(0)
+  } catch (err) {
+    console.error('Error during shutdown:', err)
+    process.exit(1) // Exit with an error code
+  }
 }
 
 function instancesEqualExcluding(obj1, obj2, excludedProperty) {
@@ -112,6 +138,7 @@ function timestamp() {
 }
 
 export {
+  ONGOING_TASKS,
   extractId,
   dedupeArray,
   timestamp,
@@ -120,5 +147,7 @@ export {
   getCurrMthYr,
   objToYaml,
   cleanDir,
-  instancesEqualExcluding
+  instancesEqualExcluding,
+  registerShutdown,
+  shutdown
 }

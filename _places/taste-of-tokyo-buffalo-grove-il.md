@@ -13,7 +13,7 @@ description: "Casual restaurant featuring sushi delivered by floating boats, plu
 place_id: ChIJ2RICfKq-D4gRQKofOGcCqB8
 photos:
   - name: >-
-      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcJaBcRbgbvKd4LGs5PunQwUbpwDcVv55vz3wAN-RnvCB_ZsLTgu-64M6afVutwTpbD6pLpn9we1sfnSgvVdP4o8XJ2vP-kEVYuq5RfUv55rX2CnZ5KN4vaR86RKu5XthRJAuadWcdyliYr-G7F3PlEJu1nA5oFABl-MzBqfrcDS4Zddvxh7JHQJvMtv1KHGk8TYrk4xc3bO2UAQSE5ENJ1PcaL7xlV0hDJkuy3GudQVA-x7BATN1LA1uQtsvpHWph6PFEtz-GSThSeyn4uEcJoF-wdEt6lW2kHPTsTnSFU1OA
+      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcK1JYx2cT2thxVgGHhMzbslaAHhK3mwsvMsp_FNLLcf3imkv2HP-BkY0Nt4cIGMXxpGOZaRdqlSiZOSOh6ZvziOcG9ZMu3FVtLnn6IDmT5Z1YDGNYceo6xMTbWyG4yghPf5_jN5fBS29YZIECr0ang8ngG0n6jPK3-be-1BOz0CITF3nyRgp0PAbt6_YjuuuppBrw5nMYNPBgZy-oNWhHX50EfhQnUMTJkSdnv5V-slvqb1Kbf09zSod4JXnUe8gSrEkc113bRPTyghXZEi8s57dD2l44AG0kxxJiRC1GQPrw
     widthPx: 1080
     heightPx: 1087
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNuGXqqI7v3oXKAa8mefvd6GmKdv1hPXtGbehhD!2e10!4m2!3m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
   - name: >-
-      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcLqsrEDB7RhMGOrgno_sWztgxtI9v9XU4XLm12QSi3iCCP59Qd_6alG92BogqCiFg4hioApEdfIx9HoyCXxjy-fKJ02Sgc4UGmXLTAexnHJHVLDk0qoQnlhzCLgc2PUNwBQiwsBeEJDHHSxAiE6PyRBXXWggMQ-nctVAKhl_Toa3h2kpUVco0l3MhuiNJRc3ecLZkcBwjxZBMkRMrWbK8MQKAqjv_0dfVDt2pDnPS4qkAL9G7D515so3bMosREoEpni5kCGgCh1EaoP2ZqkYEgfTn2oyZvnHruVPzYumHc6NQ
+      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcIaWPWx3BMSkzkteNc4ln42BvokSmjIp_gC4rO2Xcw_0W-2G6KsVArUZ3zUbII_-R-R0IdEad1VSZKODqMgcImLnjrJYOKIOxQjcO6iAmWGo2Ttmzv7b8v7vHJKbTlU3amLHyguq2_bMvmztz9Ntw5cVTqOhX8SCzR2K4F8c-EP_3tf_GBszu_pY3ApWyM49DWnSvXr9afNmBEEmasCwAFVgLrSAOINJ9ZMe6tvmpBE0IPDpmCzw4xyodKzXHpr1SPLIUw_XJedm-TPWjr4vRMKBfo__gL7mTzb98c6EP54Bw
     widthPx: 1440
     heightPx: 809
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPA3_endYGnlPhWVCEsogofxXh1jVQzwxb8_TwC!2e10!4m2!3m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
   - name: >-
-      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcIFwO2uYLmI6pIvRuV0fiAiJC1vP2lAnNP74MHlRt9FId3q5zQyz7rsPdY1s1YXzmqIjucBATb8gQiDuqI2fWN0G0HHCB-zT4QOy6RaaWBq5_WD8YtjGeety-AjTY0Sts6Rj8GPMpGr1x8e8raGT6vLPvZtr5pooxt3elcKqCPSVH9VKJuXXRizNdq9141sxlqtFzr3hJLh_DemfncLgfAtZWZOPsqdlYf2D6OO6LcCjFA_WuRZRvsT6I35UzDbb2aeaF4k95gydQD9KuogNwc1m6cYj37wh2Pfi3XMGHEd5iwCbryNlUeRAUunQ1BPIuB4JGOFuIoAJxlehTF91Q0olMkuZEbw3HjLSd-j38qOnFdZU6BqfINdqvnhJOir4-CLYdGz9rYPrdEemxjtIP4_AdSsq7eYG-2tXvRPC-aqgpLx
+      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcJCxFpwCrqI_1_R7MUtzEL2Vyko_TPffxeib7q_26ZnFIJ6erEZeV4EdoRMVruzJs-cY5CGYcnwHZ9hx7Vv6NVg8zbxQYr89SIGg31iQEmjjDgb9wrdC6XXlzIvfsHTXsdqN7McsaCyw5ha-v7R_2O68tGd7YUhnmdx_1I-hS0rEJreXl5txLXSgJnlarxoGCZLCaStc6-wxz8JzSM6zXd1Zs3hATM9CUwzxjy19gAZrCdByxlSxaEpKgu_aqJQxe6xs2lLdV-C3tHG3n-zypdP_CNDCoXq4U7H11UQV7eKPYC4tV8RVnoCw1kAE0QJDNsJ2sTjWjQ2Hy9X1NooCsVqUi9ISYvHhmw2WQ6fK3GnWcuaN0B--FPkJdsgq6U5gSFuQkB9kxhoMvatcKM_UeM60Rs_ldZsoLokrn1MMDCbXn9E
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl3deSrAE!2e10!4m2!3m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
   - name: >-
-      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcIIOvOM8Mp0qZVIw8EUJlMLpm64VF9t988CZFXnBFG7QhitxObReshqW-qZ3q_C03ADOD9N8JHSP-Cc2SOHo1WHcmapoj4sl79GFQN4T-jjt0VoD2BWMs6AZMBuFuIb7wsV3mWLR43cmqXf2Sy4I93dqgMoIowUdpklqYCMKveu6WWha1ilgih9DO9LTuAKPVBkXOqKmUV49mWFJeMaZQbkp7FQ7p2PDkhZshIciza5dpV3oZpSZd0-_gm7dJf3CmiGR5WOqUP9Ei3lcBgUWAbwnjZqid9Gt9lwaBkVbhAKFdyOgLIuKbCttI9rCvP8S_xA5alpa1Voogs-6wDV_l16ZoArJl9fKWQL8cMOO2_Ol8Gfb7C_K9yP7cdH2B-VI_2KGvY5sxb-eCCO7NaNd-E-E7gfbe5PDBakXjxmsDsorw
+      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcLt1f96Kc_FLGIUNLJ3HVmGhD03_7pN7julO9oCy-wE3bh-PHnaasteVPpdvfTZj_xJZTTkUExVNR4WBewcpLaJJ72lJSBbiD3Vo_WqnC80zsLj-GUeb9Ze8cfKakR-znsS9NnIlWFr1YDwYCTysn1-dz8CRV0qe2xpxOrF2q9ONg_AAiAVBPSyI98hhGtPxBzCiaGaTnW6rKuKLC2yYN0V8UTWifdMi2jSDPw_tIzQYdwtQaLa1su_1VGjyZJ_dn_vKPUqHzGnUgKPp0xX5RJnJQlQIKX1UW_yIics-o7K7PzBy0tLEM_67bRXtNHAjc84LyGf2939F9M8pY63gdsNi8T8mwamLn7fzZ8k_vifY8nkcRqhveyBlm2Ctv5909wYuB9hZSAfIYNx0iVHnTvvRnftcykfAcjexOCQcNjMUA
     widthPx: 1000
     heightPx: 1000
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_j4Oufg!2e10!4m2!3m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
   - name: >-
-      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcJKIPFQVAjJSRCcGE86G1ovxhWGhJwK8Dw64O-Xhmd-xm2Kb0fIf718s1pNw4gobDgiCw56fKhSZs-Q_W7j4SIb2NIra9vQIgAmOM9AfBgmhZ8vrSuy7wLM3mtHHEvtIFq8z87ZwU43nlInToLUiLUg8goC4wJNdNaey_IJ55DJbUPE4V_bLKAXMV5VVtO4PqBCa55BJJqMH6UEZk6h7BlR9fwp70AEjak00lnaOK0ItrsHWm6gT1XgkWbX0HsTzqwVc8iurVINLzoRyp5Y3iYaGBL5Cbv_1YqhlFayqelXDQ
+      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcIO9CjjLZQAksURkP-VDyJgB6fxzjclbORy-v4wBTKGTq3I_5Lu5oC2DLYMnThAzg-fP5us1F71pemIlaTzQ8nBTDHC7-3qGnEynoXJCGWQ5WZq-X3cByBh-k4bzuga7IwHrsYeTftzHNmGiYxvF4GluIo4yRvH0r0cmo-2oYf8AagMuRNidd9h-zVztNnm6Ms-xtNzN5ulUh7b0oP_yxB_3TxM240P-jZKDR_ammKwAl35DHyJldhIvcg9gZvh8dT2TfkvsNUai3rUZZmLzzy5o3eWNrAvygSIyID8Ey-25Q
     widthPx: 1960
     heightPx: 4032
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMGH51mph6kb10Wh4nbyxxEGQ--tHnQ9dftn8kl!2e10!4m2!3m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
   - name: >-
-      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcL0uLrzPcao4--tXEG1poDBM5McrWQs978B2-id_elCVK0WfJB8Y-6wyY41GPSFCHUGwncY2trqrwFN_hRdFDfLuG7gbpZhd-LYCgmnzOnHMoWAL2u3Rl8z1Kke8S1zrsO3JKMBdMbMxvMW-nXodFn260ymU1UJq3FFKsnf5xzzQS1RUW4MoVTSLr-Omj6JkupwxvQTIMWWA2BlqTM8mKlVUMxx9ZJNVfgivwUIhf1BoFVdotphLG06RvDMVlbaulxDc6gTvtvIuICH8WQqQHj2M1y4HeZQzaQkVu3ftcvB4qGGPEStzdxIoBBaApLTuQDkUCsVCiBCa_jTUOlAqBRg6dubO_XtUMmGC4zhLZGFQxoW_RY5mq_AGzpCVuETtI4_R_x23Cc_XVEuRgTP0ABmbfwI6L2QCtIECQ3Y0hFK80g
+      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcJEw3tJOcxMQgfct8JeXasJpze-mUDF4SOFEc9yb8pBCWswjV0cl3ed-tL7XiAKWUZcLjk_s69RrHHx13ycUT0rVz4zuNLrSqP2Jo250jcw89GXoEb_sB8F4f_-TDebrXgU6vPYJI88iylx4FzHFYaPCnIDOjTl_zJtvbK1LpVhTCkwQykKMqScDuVz2_5wG-CH0TDqtfQpWijez212qlFxoc28m7KvG7hHDatpCwpMEH5trciQ-xqAZjN1ExCJzimbTU-_S3HwGm2SXjflvbEYSuFGNeB6VXAZ8iy6fLgVDevbcn-OkgZkClZh3nrizv9SgMuvO2kzeyI652F3R8MF9enq_u8Jr8AFgxld8zz09p7hn7bPbv-Ew3Krl7ZJM46FsFrVVFKHyX2Lsm-LLobSV5lfZSKbxuvHe4jqNTUq7S4
     widthPx: 1246
     heightPx: 1026
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2ltzh1AE!2e10!4m2!3m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
   - name: >-
-      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcJAR3apEiWsTykeuLCpifeBNlrJX5Zqc1w12fDD1lA7s8tx91G1TnFgrUL7AdU2JG7f1VRAf2XMvHplSp7eDc6Lu5haGyOF4d4eNespk4IiSn-oDbEIjWRkGbw42X0MRPva7EmU8_m_A4HqAZceUz-U6kzGVEeFu5aFPoXqLe_um1FUXfj6NTUYqMReb6HPqz_IjRgwXg2wKnjVOGP4-fS3VCbZHOdZrn8rx0iFpYSR-VNrmZbJS1XyT9gqvnikRHXsxd4CaDTcZ-wYk4VOlo2804QW3hNDCqqRtamL2tnh9sS8eGLLUyd56A9KnrbkENCTyYR-9b84pRcnGAHY9U4D7WD5R082ciBrcUkugm29HJEYjBQ8CTvnXuSi-nvSPeuCaqgMWyxY1iTzBhuNzZGCsfgb2p2w5tAiTZeNFzE
+      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcK62Ah4ppAafaukcQ3G-fi7Cs5RDEmxn0t9v1lcG1Nyh8Tz_fkWAC8EtGYkxAhGATrZqaMnyf9D0a-obwtRcBImAfqwY328RSb_fPQi6KLfgR0ML0ZDak9nwPA3F9j_2pJIR9nMSclvvZuEdwXpmQp-y5MOIxkef9EMTEuPYXU5kIdhQzo3xgsFPFzdxGJXjcaKDz3gkcWr1ffuAGuJs649wsSwqTMT1hyFVW0Nzr7Kk1n12LWnJ-xEODDltFF6S6OhQGQbq6_F9Rja6n7qP28ZTRZquvTbZNFNO5fvYQbM5VlJjrynOLMsVG02b5b9FXKln_TmZbAIPuDen0oxbafvCI2h4dnMk8BwcCH4gipXzUj75hCZ5I0YqR4f4HIZJzaWbp-IALoY9dsfvjxmHeUE8lBZkhe_l48FtkINiTA
     widthPx: 4080
     heightPx: 3060
     authorAttributions:
@@ -104,20 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_o_-WNw!2e10!4m2!3m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
   - name: >-
-      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcIXnD1irg4hM4Bp9tD3hOQj3hWzUMih1SwHQiKaFlAPVol1QiayhEf-7b6fOq2o2kUCuTyZGIwvDbKOr1qNQ18IjJZyt5HqEPFPSwZXnh8uzI24ZGExmAp_AkBT1dVb_PFwY1RmHp0WgllrL8lbamDKJHfYm7aIUbK6_fav3XcIxR_Vhi7VTRDDML15DlbEXF6gTgaQq-OYMLI1CnpfUTBwxPRBSI1ZkqH1XafwiCLRWzuedpXD6okZrMJz7zZV3G4jewo0l56zZuSMc2wR77KT4aPBjxzDbVa5KkcZO6-m8g
-    widthPx: 1920
-    heightPx: 1280
-    authorAttributions:
-      - displayName: Taste of Tokyo
-        uri: https://maps.google.com/maps/contrib/112514937894012767490
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJpW0x-gJ4u_fCYFS7HQlE5GOjE1qxbnt6nLbBRSpJPxrEImw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOMV5EyYnCBgz2XF5H0tCkozBDdtsXeopPL3EeF&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOMV5EyYnCBgz2XF5H0tCkozBDdtsXeopPL3EeF!2e10!4m2!3m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
-  - name: >-
-      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcIfZ2CyQ6mRKnP25_E53sy-1S3xlu9SHSVMEUAmZ05k9k1gShASjkE2Pfgbqx9YTlNlfCwwbjwDsK4za4AdMlO9314TqdUDv1HqIUQcByMxbsuOAk8TY2HfX5nVsROOzN0qLeVFkqlJWiaf1RMYXIuHOgmCCI2eKw37gBZJaEJWcEBYqf_8kQtvxHvC1XueL4_Nxxk8tHXIgdLdS76uUuNFhNIYIXjfKmwQ2a-5Zv-GpllW4KJN0mhEuoIDVk2BXPI2APNKnoHHfLw-iH1rM1g_1KUYgyN8rIY0xsx3mZKFqo44f20FPgxyYO3vA72vKNtW7AAN6ksoQfWs2PohsX6bPKvx7hRwgdsODmocBNbbPxPf_KJ5bXIaHiVji9RUyukFmhepr4zCrZWJoZ5u3xhT89fkySV2uSDIJtLHimnu7-U
+      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcKaECEcSG9JjTj52MyUWQb209J0O_QaetQ_XRNiD8J0qUAJRFXoyaYSyaM9ZT8JaCJ--qtZVqTIqBkMaADu9dQS6yaqE2WPnYUOUev43OH0P3OywrCjj-sY4sUbJgJvflE1reckvIXVVteSt1ja1RBLNu6cDQ8z3Uc1tc9OkkpylvHsYe3e5VUyoO5M6BKhvBOWJPtgryn3c7NfHcfF45bnuyNUyLWBrqxZQrJCkR4G4FkInCZCvMDJv4pmR3RPZU8Fqv_3eIHNBIUmAqi-UdgFpBRz-BE71jIwLfHSeSsJtKKebXYss-OGn0bjoGXGuq4CB2ZYpnyRFFxe7pgYLHED9AFPjmsDewFVFCjn2BovmA4jjDAKv0jOYqdEQkzf58LOpCPPpuYOjC_yuDCJHI30TXX96hDE1NC8IEGwRDZoxSo
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -130,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbx9a3iwE!2e10!4m2!3m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
   - name: >-
-      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcJLruoCukImL2GaMIZ6vd9w4hiBVhs-ytu-Mn-FFwj8U-BwPQMzR31U13jBISmtt52BfggZGdBmvYaJ0mhUX2IUJg_-0oDTwym4zjtFlFI8yO0PpGZ5EaNArJ3WMMti7zxD5T6D_Az9FLkw81RQjtmtIF_6GKgReRRbPHaJA7_c6HCInG5K3QUdcMs6vzqJZbPt3vApFzehZ1SyXP-C0Hg8ehX33Dni2OzCaRxt5gL6g6EQ7HiGz7LDKsovZVChui_nXM6q5LZ-LfPxAdTbTkVLpjxTcMpZUynY_pE3x--MpqketUEpqu-OmbE1wyolf4WWjbQ7uTYwQ3OeAQy0j8DMKHNTvap6dwY80hArPTueL56dfr9daJdPqg49m4cZ7erwZkrzaaCfDkZwKGxRZrVMETSPuI79oK_2ryfnvBrhWpVh
+      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcIpuw-NZH_BsENcimDo-Alb9WFsuoq_-DB6w2rjJonI1pb5Jbm3QOTSvnjTuP312OR1ZTAfyoGhRFAfsfgiZHb6VN-UdpEWyKHhwb00CryPJIWPc887ezOoKZQ_UlnUNIqbtfBpY5xwDETE92aa1PfRm-tbJJZzZ_zHGLA5LzXv8lEyhfMTYU4xY8zRX415N2H0KdVzoy46mV7Lw0WPPj4KPu1mkIlbS1Qf4B8y4BC_HJrZeMmQhRDUHFstVTUiSbmyWKnQMh6TEyukl0osIHF2BJ62bpGwKLdxOgYuQbj1mA
+    widthPx: 1920
+    heightPx: 1280
+    authorAttributions:
+      - displayName: Taste of Tokyo
+        uri: https://maps.google.com/maps/contrib/112514937894012767490
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJpW0x-gJ4u_fCYFS7HQlE5GOjE1qxbnt6nLbBRSpJPxrEImw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOMV5EyYnCBgz2XF5H0tCkozBDdtsXeopPL3EeF&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOMV5EyYnCBgz2XF5H0tCkozBDdtsXeopPL3EeF!2e10!4m2!3m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
+  - name: >-
+      places/ChIJ2RICfKq-D4gRQKofOGcCqB8/photos/AeeoHcL0o_7nXn46nDEuQ1vRsXKYpjLmzG2UMDef64pg-N3zInigMFeZ6y3ch63HTX_XmrdbIdgAq4VK9xdymhY_M9Gjb5L9lTSzF_RYXUXrZJ-kvO6y60CfSPLrU0iWSXIH4jRXYlHqfXMIMNTNu4UkL-90DJL3poTz_UbqcgahsH6MrTfFk-8NgjGLkGD3nVB8xa7nvuncGkvbK9_mdqe2bzRppJ5996Fi9cMO5S-rVS_LcdVt5xQVCCeap6yN7XC_23Nqav0jB_ZTKbiGJ8TZZGqxWnqWLuna29S1nvQrOq6LjVkpcWWmhhdqAsKnK0To7INDlgTsLuVSDTrjTEF7COLHTk5cJ-jwQn0gmhzLQXAK5F1QaEPTmzI39H4wtbL288UtZ1l3E7zQMYFdmgLbGhyMBYjt_JJ412froN06Bdg7NjPl
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -183,7 +183,7 @@ phone: (847) 459-1656
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 364
+rating_count: 0
 website: https://www.clover.com/online-ordering/taste--of-tokyo-buffalo-grove
 reviews:
   - name: >-
@@ -385,6 +385,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Casual restaurant featuring sushi delivered by floating boats, plus cooked
   Japanese dishes.

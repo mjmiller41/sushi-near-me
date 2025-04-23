@@ -13,7 +13,7 @@ description: "Junz serves delicious sushi in Parker, Colorado. Try fresh Japanes
 place_id: ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4
 photos:
   - name: >-
-      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcIbdQYgJ0G562cIHJz0dp26wR6J3KJ3CeWcxSed2LR8KbT7QtOzEtaKQ65Un0sQapKUMYwpHjcA6kpyGIoNC72xHYzoZmY4skUXNvNswnYnixoJNBHIIRxTfOBYe4UuhTny6wJL2XUd66x2JIo2MNHEPyfjp6B7TtzIefUAtvkVagbgEe05qbO524UOyKWV-GSyBuaLWtyi2Zcpn94ZSfdqPIS33P4Q1Kurbx3NyxzTcafh6akHKa3wsiXgwcgF02DFOyKSYIEj8X0SoUd5ZC1tt6dt2oEO5hL8SujiNOQYqQ
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcLkynTcBlZKfvvIVt7TqKWOkwijhdLjSOHlY82nKe7i6HwZg0arpa9nD0u077DbTxLiW_0nKoHkeSEuY2kMVSBXixPfCFKujNimCXRfQfgFrEE41PImeLeNJKfgYE6DtNbMgPT30mov8-KjcLmCsq5YzVeGTjXYSo224NDzX7Rf5ySX2av0DXNOID2U7lDtOuUJDfrA9CKBiSSiDW2CL1XF-hnOiaCPiD-V7xD34XEEl7eVnNDn8SJ2pqz8hMibtZEH5QknDyGPpztsWnLadRXXPDiXk0iDfI6rhJFDNUBWkw
     widthPx: 4800
     heightPx: 3804
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPaO_VvSyVYyyZsA-tRdCTxsOHKW_Ax4C39RJwP!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
   - name: >-
-      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcIRwRJdM35U9M3nhU63dGGtd5M21ID7GEm4kofHW4E4LAA737tig5cxMVeQtOOLokCkL6-hwFgIjKyncS7PHZkNSYGCP76D7SRcI-nmLDARbalM_frgHyzJ6GvMVQNxpYH0U-DlUPuPRgUX1goF8BL1695lMN71NfJ-T4mQ1f3itZK5DZGJOwmeeOaGNv8Szn9qpQtgWRKmzb3c9XPsO79_MrfU-016rAUOBgTE-4TDMVcGM--t_y2DAhKhVZCohokHpyj7nPihYCmrUz2Fh_UM95FOh5deXtykiCiRoz1SGQ
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcIw3BZD4KrSULMU1qq68tsCLHJ6HAr8l1NKsgFLE8HVzJIFvT3DyKzUKilk7zU_CETFFhkSo101zTjpvy27f0c0jJBir2xCXKZCz8rPy1n1C0XTmyim5heVHBueC03RUJuNA81xo7kH2si3rLetuqL1zbX_cJXVXuxBwFB13MeRWQiuHL8ExbQgQWygKz07Dz_5Yf2PyK-TaKf2KJosEy1CLvc8AB9ZnLi20sFtipAesUiczCNnTUaLRGSjywfH4XljXmW0wSfjJrS8zPbCVJdRX0zcJjzheFc25_YpxR7k9g
     widthPx: 2000
     heightPx: 1333
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNxIy8Si4y5OhVfO4dmZuSERRDOiDH7an8Qxfxu!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
   - name: >-
-      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcI4Fbw6PvP8MGwuYwvbfKydUm_UJGkGT9heCiL14NMm-h_on6DyInr9YqayXX88GFkC80fTyXxLaWSN5n11eKgyL4rWXuj3qXzeEow33InsPsd9xAD-UHsjrG22nGwZLxeWCYPyxDdBLCbrIzgHMjt-LJTToD55Cz0ba0pasoXeNqvoixxIYAlmbzooAOc38kfv8FR2JizysmDaSZgwtOCSMG2lMhFK-p_C7ALCefvUiMTNo__ny7QxI5YidknTXP-Mm_9mkF2a_n65-Sg5ocbPwRQWd0GGAJgDPaU7qJ7abaNsvjMIq2q2_S8eeHgRhqqHueShdvRAO3Ax3ot-SH3KyK-P8OWkilxr7YWILGm_2r_zVaxdzBZ9sl6ltdI2WB7iD-H7J2WaSKycvmipGFFvw3rVchDFUVh9g2_MjxadXg
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcJohkx-NVmbHGIjb5Rk2_Nov6s3L8Lferr2y9x2b2XeUJw98JL_OSlXug9QomgvQnyZ_r6XnXtl_xNq4q1C3RrqjA63PEqaw83yltSSWJQSYGatEHYwm4fpQAAuxD9QI781aa-TAqQo-YD21EZDcMoy4pqaNyAedaL7cmi1W5MTyioT71UQEsmrh61aPNgbMunOX9cEqbeK3H9C2pUCo4SZIYfMH6IRs0vBhA-RPhI0JBMBqlQE99Mu6Df72AStj6W90eDJw1JPRtWFW2qe-tG_nUVYNxFGbEMnHYydcJG6ZZweuMzxJp0nhWw6NAzCpHP0geoeUvPQlksQ8wasdcGzUl4pAfYrXOJVG5bYUgjduwkpwdlLwtLTkDKwECDy61wCDvIlKtWm5PP2v3KlFCJ9IGtvDLYT6fFTmU7lpIJ3nw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI88jORg!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
   - name: >-
-      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcKmUCEZ3ROmrOxPrwRVXILBN7Anz6O7fKyigHqirMQHCEG9ZlHLY14l4b_TZ-dEJ5w7-pvS6RldjS5O4Dc2ju7VzCCQyKsZWsdlmKft989mg8-qRkUDGhD9rt15a61q03jlaZ5QBf3PtTOb_QZ80sLJN1ELQcuyF2rWrKp70vV6Fmk4JTeFVhrFSl_xHgmtA348BPZdA8e_TOkRskxi6b2P61E16BhYF44GczKrWmVZd7-dooEw_PVFA8rQjm3021VxXtauYCuunzClJDDCM5welk2mtRu-NWBvEJBAv4tLWQ
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcIssX4-9HWT3nfYdE2_EcKyNerNw26oxDImDG0wD0Lexx47YwL6lm-OXCZMtYBXr1Xgy5QOKiuCWCbLVlUy2VPKmA7awhdQmnGgr8vw0UrD9WTFdCtix7mzGZJx86tWP0jxChyG564dJ1o9Uv-J6lfqgzGgNPBKdxm0Ov04ajSPgIXqE-gU71GGA_JqbIGILpQFtndBszIWnZLa13RYZyTWCIvflcHpYaAa3aN0ba_2oCfa0XBGknqq_TY_tOZKqHDNxy13bcUmAKI-FQTizlHkoWUYebbmeJjz_I37aQ6pQw
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPE8ChXMHDWZqHkgnHLgY4BR6sBRmA17mgBFWS8!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
   - name: >-
-      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcLdMOSzqWtCHAHZXkTIREYoPdeGHG2J9oK7Gcr6nXWkmWAMiFg_dwkpYBI799BgsLb6xvjxiyQmoGv_481FsQ0y2bEI5ivKHLcIyQV8eiDeR7b0vujvdXM0Y4nDLjIjMLmZXgSQAFCTV4kkPqASqnsqkPXNwyBpvNFmXxLcF90lMzEBY5yZIkbvUNur2hAY1eXz7JBE-8g_QoYoyLjcYzsi8VkRC-8ep4Jejx0tSQs00896dcDt5mxzGpEc965d_4kusyMBG1Txw0Dqwz1RIqQwoEPn89J6LGGegICbBZMlqw
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcJdQ7b97YFTUE3bs-okLhWlbwIR0E-JHKfgOhmbWQoga-L1sxuw0BJlGNW5edTkfJZOiYl38yApoq6JYqIw5S3d_HMhNawobuB82y_8DDwdLqeibjnr_ywoxbm7IxsGEAg4C7TflQgdKpT7pdaXWTBzDZA031KixlWq5rmE7ahEOIKWADAFEvs3z4ZpF_G47-KPhaSIATUN-Y8S-ClGImq0Zymh8Cg1FneJRy40xcT3j8-bP05En750XOIPUs_c8VDXvY4myQw0aHgEQ52h83Tjq67cMgn1USR8QcBjkGxvQQ
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPdh9QLaUEM-iRwQ2Giu9XhqRhGUd71tUKnf-y4!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
   - name: >-
-      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcJi7JawmpTvkBZ-2eMsXSjkXbfHkCWV9_pRBCw-E8uKLHW9oXrmIwLeNGDr7sydg8tfftuKNE8J4YDGuzgcnnMftZWn_EhJeWOsxSdOZdiZ7P6_Q4IyQC63fw4NbnEVN6EtPMw74jQNwXst89ZZsoojcby2GLBlHCWzaIzfqvAb4HXBj5Torr2lZV-MkE5KIEQjZwXnLLt3px1FKIva_fO-15FIHWllk2fkqz7KsyDiJAOvNgapeM9KuootP7dl7kLhvDlpj6REz9sOa-rIxSLz7RK1Ei9YfapwplynygxQAA
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcKLuzkfzkQ06qVHucNWOmfWkarJElRVrBXrfBnGwZ0oM9DBOPkP_rNuLT8PZCXL2L4hWrQ7uDMJTJ3fvXjUKGA2_cpd9YqC7-kCehtHYG3GVD6dVEoCa45Ixmoz3JWSdO5M-Pu4ZxJZpOtH7ROoEkOLhIQk-Ci-766wVpBBcn4eCQ33jgzGWXdtR5faHJWBsFuY5iJ4IO_9ue9ZD8yVw70yIgaxqBz2eFE1h5Dvgs0cUUpIVc50o_sgeroALSisUTU3vzMpJdQr4kV9r1QmL-Yt4DBCwinaduBRu1da5mRUIQ
     widthPx: 1538
     heightPx: 1538
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOxOfzOUd0Z6jFvjvdRqyGRIMYkpmPTdBAfr1cR!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
   - name: >-
-      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcIdSFzzeskFqrLOvFDbhi4JdPV9FTigC3myCTr0NVaxSfXwlvEBT0T-2HllrqnBjQwKQuDkuC8S16MBvKLAQWaFc_NHOAN8Vs8lLGr6HO60jkVt636TKZAkH-ipVWcOag1uO2627LHmC4UdN6Hc12vJqDlu4FJirP6qESpFfYB5Dg0iN51rGEmdXxUeDUySVvaRu9FpFh1e-UlMrjwYYDCciWhblvuQh8RZuf6vzbburkWKfvglY2ZvZQWkEEnpSbxzpEBpyvQWVESuE8DUnDB_DVwuthdRLeH6UkJ62c9P6w
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcJuTlaR6GYfu-UH4yoh1RO0wu2htfEkvLHXQqASK0yoBk2GvmeLuMdmkbJ-U2PJYcxXUAqyizln6t5dleFE3__LA0QVzQXty-SX5YvpsFVlL7IhUql8N3r6BzQ3j1AdmcZL74UMarKBBOixB5zYBWL5nhLgqrU9USTDIEP8N8IzUAGht-TGO_22V-PKa2fbvSfWCKnyBoj1iOJYDQ-C3p_p13JYV0cGHOYALnFVlJj2Jt4RCbfMDGZ-UJtyEGUrLPNu043hoiIxIIBTuVgOEERf-eyGBZ1sghLv5Es3DXTcFw
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOLLjhO9iQPqBxIqYS5zXg9P0gUxGZoFPkEoYHB!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
   - name: >-
-      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcJQ36zoxXVXejS8JEGPcZGGy5xb5o4N_FRPesf3upaPOjzybs31E_lvrUM0ZKYw2rw2faBEbvyUAUgMLvmir5lVKUpUC1oC2iC0QJKvQ_RdRFYKRg2XrkGIWQC9SopFzIvPO7KCLnv2du6yg-phaTKs68yFB2egM3qJZLjZyv1Ruykvl335bmE-dvJA7F8nL9d0bphsD2dT-s0FpqdFLrpDxPobLbYMOA7XpYFqD7k9Kra6_Q6Fg9jXZsAiFjpATJtQf8jpxA8YTf6PGaP6ydeJyPcIchwSO26816lt8ZYCsw
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcL5hff01mEwzKdCfoY9czt0zzm_PyBMuHxdJOoIcj4fXFA4lfMH-Uk05Qv-eIhfj7sDnuAqIjfq8TStYiJJZ9-kQOcF5PtxMGSVgv_bk76z2b8_u1p0L4tO-G6pkG39zQtIv0T6DKsHnckeR0Qkb1V92gybI_tI89ABKHxz2XPrpolValQZM0oSOAtfiLknHX20xjAqmdhSR4Ew03Oz5EHkpOpbqKaDcjjjrjPuPQyKYndc-A0bJMUzjLY93DaJR5zMDNFq2el8Q1qrwzRuSHQl0JXL_6Ve0kNcep1heq-XCw
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -117,20 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPXTst-9cPjpygkAJ-WOoWRlIEG9f_hFEO5PLHm!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
   - name: >-
-      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcIewLUIV-7rARM2NQb_4eQm9NZYnLBCU7_UdS8f84RPdTkagGI59QsviyypFUt5d0u-xRGk3aPc-zm-Uxui-Qf80ltPfKI4ELISUgeuKYFZlCAj6_sMjB7NM4aaF-YTN7_IRm7RexCdGSwWvXFaLAA1M9xOH7w5z6fTezNB0bdvkBD9skFxsF4vZ7c3Otew6meGJhXgZDmNuVyTORey1ubMKTm7Z8_CHu7XM5ZcHXhloD8r-4ZNOz5Qe3dDgHOBvveQ5GcaFr-cO5tLeIFVDjl4q6Fl5YvJAxYeFNYPL2LToA
-    widthPx: 2000
-    heightPx: 1333
-    authorAttributions:
-      - displayName: Junz
-        uri: https://maps.google.com/maps/contrib/104542494281848347581
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXimRvOavx8C-mwqvhlMB2aA1z-pIpf-haHQF0CU56KZVY-eXY=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMcuxmtU4Sil8waqko2GaXJnBYrUmRsmFKGKYyf&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMcuxmtU4Sil8waqko2GaXJnBYrUmRsmFKGKYyf!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
-  - name: >-
-      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcL2mxb_CxOuj8DtpeB_onOqZwM3rXw1KcxGx82CPdta-LZ-R7ZTcU8k5j5BQVRjxkFAYo3EVpOYdyE7Via8UTo3TaQPhhfksBWVvx0oNaj3iRtpFuscO29RqVY2RyEnn2hv0NsCK7I6Dy5MqyyQl-L47xeKnGsILfsDYG529coDt3SYAREWdEhO1sysDBqCzd_Illi68yYYMYfVte8CmOY7rLXAfb3Y_eljfnEzGwGLSbeL-8XPBOdWJ0c-cBWVeZlbx3yr9ZDwUnRHRJiXRvsEy4J5kBvTJqal0gIQ3KUk1Q
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcK2DVIzPYxEQ2YAwgvuQmmeDjzeiiy6wDecQIIqa33uXLTipLdfIcpsl-I1399DK-zygKabKZbRYMIIODYAbfRvWJf2q9PP8IHswDYlITNGu2njvv423Hc1O8G5K1uggqR0MzUx0JqjOE2jSVF7sCMzhdnEN7uR4_j5tuuB6laXXK0DgAj6pMxoCkeH_H2GKAhc32t1rDFB4Meaq9wDhkWkIclwLxcgSf0cGUfTfinubV6_NN3Yq5hyHKdn16H2TCnx0SWqiCZbaCZJ1KckZFFPlLbTmNPMVVLKcQ70KCP_0A
     widthPx: 2000
     heightPx: 1333
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO_otHILy-PfWK1MdU38mrMypGoz0EVDVWAkbsn&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO_otHILy-PfWK1MdU38mrMypGoz0EVDVWAkbsn!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
+  - name: >-
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/photos/AeeoHcJzVvyKwYkW62nTvuCPKPk2SRIlGs5EY4uc8bTUSbQgSTombtObnWvge_gW4vWxka8-3K3mBI0IaQ9KEW7403SB6p3RzDkZ7m7lSxJMpXWjUFVX5ykiEKkl2UBW66GJySmf_LnebyGTmsxkBtLWNgfK5HkiX8pheIiZHccO6w9vB3741Nd3TSwONhth0IpB5sLlgPcnahuq4ZEsZt0I1Lw5AGbC_ETg11K2zEQKQpJjl3fp1VuB7sjyZ6F2tRIiMI33VzEvbtN37qQwR03bdwGQ9NR4pumE7pNNvnW-69wahw
+    widthPx: 2000
+    heightPx: 1333
+    authorAttributions:
+      - displayName: Junz
+        uri: https://maps.google.com/maps/contrib/104542494281848347581
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXimRvOavx8C-mwqvhlMB2aA1z-pIpf-haHQF0CU56KZVY-eXY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMLteqdUQNpT_RVVM7OOn8VHVE_wfVVCJI7hDiH&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMLteqdUQNpT_RVVM7OOn8VHVE_wfVVCJI7hDiH!2e10!4m2!3m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
 address: '11211 Dransfeldt Rd # 100, Parker, CO 80134, USA'
 street: '11211 Dransfeldt Rd # 100'
 city: Parker
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c91e8c6d9c501:0x4e323e44f5249d29!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Sunday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+  current:
+    - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Sunday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (720) 851-1005
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 469
+rating_count: 0
 website: >-
   https://www.junzparker.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=5574634c-3ef9-4f11-8e8d-f94aa014e446
 reviews: null
@@ -212,6 +226,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

@@ -13,7 +13,7 @@ description: "The Cliff Dining Pub serves delicious sushi in Draper, Utah. Try f
 place_id: ChIJw1QSFmqHUocR-8kX2MWP9ew
 photos:
   - name: >-
-      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcIlF6f5SQeBuRIqUhHQL9Q2HsReOBPFkitatn0vNz1kjtI5UD_5t4PXh_sA6Avih-sBmzzoHLpaElJ5aLq-wP1QEH1LePLBPImnEM61F43zI6br2ot0I7VxxepGavzSUzuQlAZz0SvOEbWCiFkrc6cOwhIuQ0lKss8qzxvchVWSeVMEs3rhhDeZ8dxg0un1o22_4Lzm4HvJLCfytEz1qui92sRp2X0vVt4vDgq7xZke8K8DoeFU1MxAVt207W6B1isXqaW-qEITR6IDTf3xlXmBFGicwGPjH_go53WjULg74w
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcJNLzPBFpI_Jv0WA691qw26mkresqVC62qtEZCB-GuC0gX-cGmVjg7zITVxdI-h0nc1_jr0DmXqSr82YrQpNCEE0DwR6hTFqmKRbHRZBEtTFvE1xbffFZWUy2LBJXyO-FiPorZ96QZWgJbiFB47lLJ2bicQR8eUfCCeNLvy0cSsHEXSIyc7QVTYoLUsPdLoYaj38zlOT8zMxiYI_LcqBN8GJt8EMwYMbhX-pzYUu1CIMPEO9GpOBlLcdf_tu_PtxT6LianiH24Wu4aWysQPIxW_E13ltx9jVJHAsMvdwrPCRg
     widthPx: 1497
     heightPx: 1000
     authorAttributions:
@@ -26,46 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjKwnuMWKW3g8epvdChDw50R7jBvDAXHnexCSE!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
   - name: >-
-      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcKCHPWQcLC_Zz6JbL46-idRhbB0nF9xPD-V4H7p8Pdgtr-OYNYL7PBKlecBkafHVM6cMkBpyeifXdeatCnCgigcrUu-syZaiM04FcgpSf9oHoH7_h5V-LbKdyX9mZkGe-KRgaWttRYom6tYaZLkb_EsjBFRoaC9oRm-l0uMGeqzZm1wqs8vVn5ecVN-Rp07gJtlpuShJ_Vz-J5gxCUOpM9y7g_0OFwJj7lKosTSyrt_fYcd40AKMNx8YUtjtMdE9sPxyUUPuiGT2GqbUO6tix3qajzDR7avEWGdJ6i24-_emUNFKgRcclphWd3dQj3yZV97miL_89g5kL-xjJUeRD0VtVHXu2B3vtamK76V4kRAdubzPgMlozrcTcqNowZw5oSeJ9iHmYh-qnwRifHcJeV0tnY-nmoYWNYc2yF98BioJ40
-    widthPx: 4000
-    heightPx: 1800
-    authorAttributions:
-      - displayName: Sandy Ortega
-        uri: https://maps.google.com/maps/contrib/102148466165048202226
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX_ZbtO9NX6YqVYnVCTJtws9K4k2NOCUBcuK-UgwrOiqeMK1D5rYQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwqLC18gE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwqLC18gE!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
-  - name: >-
-      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcLEo3sCxN6Qu2Ja9dnLGYApnq6zkspKv1MpyOatHTEkjriVLIxjX4n-5vBrk100SER2sqEgW2MTDNkEKt78sn4vbNYb4msl-Rukzxk_t2lujgelPmh0Y1XosNjPWg7-4JuU9lHPtP7o8tNWWw-REfU0IQQ6qgmTEVv0jm5L3iyrx_2LaOZHs7DfvU_M69gfid0AHhNZYqabUZ_0NxZ4QCOtGZggNyj2IxK5wIbSF7rX_oTkRzT7QX3dQhcnjB_0dldXquRkUg3wbkyLBdztPv-XNrl5uzPN7ZQG8onWd8bQ0A
-    widthPx: 1080
-    heightPx: 608
-    authorAttributions:
-      - displayName: The Cliff Dining Pub
-        uri: https://maps.google.com/maps/contrib/104607575937540391180
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWAmw7dFa0dqlaTAz6p0xuUjQLiJp2JkGb3AlughRTBEdlb9ME=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMirqtofiRkdu7HE-2aL9hwtUICuAjdGaspmqXX&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMirqtofiRkdu7HE-2aL9hwtUICuAjdGaspmqXX!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
-  - name: >-
-      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcINMG59DGXmUfu2AvvXL15fFWpg0hwiejwF4IvUMlQNiygRSJX72KMoHYDvVZvSm-cXbIvcCzHW4-MBAawnAUeygSTvVGsly2lvDFQTLKM0DISz5ijIclsCh6pBrkt49K9cTbrVia8PNDXUKyOYH7JIBMxDDm71XthPqj_Ebh5CCFiRq3b7yiy8FS8eau1Qpznv8oL_cz6HCy7se9nj-RPKHd5_n8vDZwg9RMRvdKWQk93o4PZeOnx4g85nosHU5rRtWzUqA71K1OUbw1xmavS1zOYEp8heKq0rER2reX8qgwFhqF0PbSQ8Q8pMBi0_6KTCe_AhAz9GC5HhNnW3Qek2jn3H9Drh45wI3ZMpL5NDKm_drLtIadVm_HxgtwKSKndpZ85V5YrlLoK3ZtRu40THati3Ramp3X5s81Dh4BU
-    widthPx: 3246
-    heightPx: 2513
-    authorAttributions:
-      - displayName: Bart Artz
-        uri: https://maps.google.com/maps/contrib/113870003039069342784
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWXWj_wepsT8Ng3y-D7XtEEXI6nOrxQMHB2ZvXW4iNrbpepBc-k=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC9x7W6dg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9x7W6dg!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
-  - name: >-
-      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcKlyy2BH8BlT1KGD9x9kr2J_QU-5_ebOeIhjJadowuWACmsB8hZC3VtRuEpI9T4IMztnl-8Zaq5kP2KfhUAc-dXYsQf-QHCH6LB8SBeot-oMrfKJDBRpQXEUBuSLwb7fU18if9h9GK3ACovQU9rql7GYmIkJuq9FkbUtP4cyH2ifOyYqx5u8hcJ1EMolvTKP6OWL-XGYAuFWLFInKah-7rFzqqgUWn4syAzynF8jyqWgauLNWP_zYomvOWZAV6oKJG1hJGj5wfLHxtIbTN9xuFyQW7C1HkZZi5d-0afeFDzSxDuVnSiPqEIO2WY8WUaGfPMKqvuv4lCYBEoIBGoS7_I82s77EmA7Uqs3DAcVHkSxMitFsevTFQm3i5GT-JxDZ4so-OK7MGPhsaA9DHuuYdgJrzyfJoQ2RLOV4RTZaGvd-Qo
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcKnWFmDuUipBYZbhOtuoYaNfAdnz8Bun6t4PXPAEtbw1U6ECmeIw-dU0gdXygkVOrIv-9mKVN3dsYc4RbK44S5YI9kVEnO4BLPxDtVWPOGN9AFn_GhHh9J_uAGQMRLtkrPFFkI-glGXVNm_Cak_FSMcXJZEohG28UIoEcio4O1JxWsYfO9mbE8AdAlphU2ZsUCkKQvFpHUPjoU_TWP6_w_gaW5pJ7u0W-_FRmSPBmSGj8KLFAKZhwkO3jQ2rKdDwoZmCZlCF6DTBl3VgYZNwjGZmAqtZ98YSpabTUAwOt_7RNdPh8uvsi9w32GzxyYLVLAtsn7jgNZmmeS1p0T5iXL6aw1aM4yCUQSFOeF66dXWQrLU_DKgdm65llommzRxJUz_bO8Im5TvM4Z4aFNERUvIrSplIhxq6ybz08oGCwOw5A_-
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -78,7 +39,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwhcrB_gE!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
   - name: >-
-      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcItNrbV3ZRe7cD5s_oTjg2pMcgYJfaycXBCWzgTiddrLqM1nj3vSedaOUEkzi4DR8fxv6l4uJKf_nxETz0uEJlfFJzn25uDqOmGHuPENCBRay7IAhuj_EbjBNiYdMMWfksB6qfPenTlPngGA0iYRtYrau6Z2k7W87jb2gdpwVPPT6bwItiTsegdPBp7C1xpOJ7cKfPuvc1LhIHfqQDRwchkKVCoSdN5LIlbqkHOmexaNd8w3qvnGtLKUoorPFa2q948_5SxE9-JBYg5eJtKIdOKCs6lvWp_vMmIT30nilD3Ql1Aw-KHqUCzDYtZfIBf792u2ZJqOLc7u5s6BZaI24rppnDy3Npfg7HmjivRKU3E9Lltks58nUwiDPcFbNV34yUMfRFu5nuRfXuG9wRnqImf6xjxTWw0lQZMvmyCXwEWyonV935coIwXMzmrihbk
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcL-3r5LZ0qINM85-a3a_oLBiDBpU05EThAFoDoCRiSPrmKtHThGlXgM8GFCshC4meaFO-sURKOz0yOOid_DXwrwsFVlMAUzKv8vduKMfJuoeKQKVj_5g7YpwVA0iwLmcWhvwIAsWMEeYdXfzt65A3DxP9U1lM0HC-Y-Apx-kspPAzvQ06gn9D0CwsVCSUyKPSkWz_30iAwHcxivwC9dddQyKjbwnuDQeAQ6fMja66w6MpvAIjGC3xexeAmV5JulYrWHbcPxgMqvXLRchuMFCNP6dRI_Ut4hTows1dBTMfT_iQ
+    widthPx: 1080
+    heightPx: 608
+    authorAttributions:
+      - displayName: The Cliff Dining Pub
+        uri: https://maps.google.com/maps/contrib/104607575937540391180
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWAmw7dFa0dqlaTAz6p0xuUjQLiJp2JkGb3AlughRTBEdlb9ME=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMirqtofiRkdu7HE-2aL9hwtUICuAjdGaspmqXX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMirqtofiRkdu7HE-2aL9hwtUICuAjdGaspmqXX!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
+  - name: >-
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcKMGDEVAYFPp9fmBra6mLy-o-ddXWG4AFmcxNtUVBZFDJ3EmVm8dLv7Qhw6lO2LC62iCFU_3ol7WKXHIPXaud1rKqEzHID-7l3iBamf3lXLbTqJRMOgmu6w-ynctduljGiWvdIkgmHQFfOEgE49XfgSxiibraEfyR5q_zZ7-Ai2dfIkqLXYcyFOttBbzxNa1kVcsq2vLJ640lEOFjpuknzqTSqOgspHhP2WeR5OQuk74z0NXoK3MQ8tpvArouY8bHwj6J-3-KVaseX_V7VoF-rF4FIyQVcRjsfytDtJKfwI5oABLKtRMuh4yqBcg34xHPFX8nLi3hMPvgr5o1NmO9Yqivl7UyP0uK0_awEf4rSN6d5CAuRKB2umBAb9anuMfjslUS3w0Ix_T-5QJKbNiywbWf2JoBagtcv70cNXXfw
+    widthPx: 3246
+    heightPx: 2513
+    authorAttributions:
+      - displayName: Bart Artz
+        uri: https://maps.google.com/maps/contrib/113870003039069342784
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWXWj_wepsT8Ng3y-D7XtEEXI6nOrxQMHB2ZvXW4iNrbpepBc-k=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC9x7W6dg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9x7W6dg!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
+  - name: >-
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcJEusgFpsZTvy4GnwR3dMtpQuqZFSQRmPK40-Vfey69dLa0ua7K7Jb8gFREaQxujkUcZOjCv_5QdqrVFaqjIe19wduV8j3MJJWJBqnPkEflMhMXdQnmg5EconXvQ1ImFnfi-i1JrhxhrHJNK7toQTO_gvmW9U3itjILxxqyYnsL-lOfatzqPzsFt7UmkEiTpBmxYO6rmfB1konGeAj4fdii9KOrDLRQCydSySCxGklwIOvuypEqqcGiCQl7qZNu5ov6kLjD1LdMWMR_em3uiyJVOMZSXnzGQ234vPFqr1hcP7qeCjm0xbrWWfA0j7NauanAJgtU3rKgX5AyKSkkgMtHv2jTTbSSjLoxSMN5ZOi5J08pfhlaqlL63Dv7FL3zlijbhQjVs9R3lWG9luJuGCGH1nwoxru66pKiYOswEzE5oQHa5PIQU4z2z1-yny7G
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -91,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyw7gyi5Y2ek3LQACdf3!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
   - name: >-
-      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcKFdyasNQ3v2KdbpyYCM6uIVVXvWn4OqZQq3D2iFUd7hpcl_fHUowhZ32ksv7kqREcYyOxvgGFe5qbiO8JlE1ukhzQUfbOykmj97g7d1MxESnKo2tqAoxEdebPTPuRiqDl7JgJY2VYs_ENAGYWuTy-6zHN3TXnddAXghJwAcf3UaKw48NiJEgDWEDYLSuJlVCl-DS9bJa-6FmIeGOileAAhqX1B4KDiTLMbQnVsRz4UXzfD6_CtCrCfsTLjkKLIxMzApjftYXz0FZWgpuMS11ASneClTe4Y7TtCWhuGxCaWDuMhkt6g07NDXNBRcYJ3pIURodrV3rYZ5-1XL0zJBGgw707An3aqDBsZmHyl66fC6d6YB8X6h0QhFc2ZN7sC3B6Hixy1GSAkKtl6foDXvjY4rddZrVkjpfs7-NKsMo1qbq9R
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcL-x13V9KkHsv8bv5sVwejiU8rurVQmHf-hgUlr60gFYuvInOT1x_adQHBNpNAVZqnI9Yc6ta9t25m6Vo1Mf21yxNNjveOS1IpSEd4IdLWmNcIjys-m9W1TJNnfwjt0ij-ZWiCwcsw1qREEth7Qt7yVcoCUMYkSKfRMtA-f7bQ0-dYla5Fm8GXZ_TIYXxIlwvo7u6zac0N6zHRM2B_O0qUIgzRV0OGFXCSlKkYjvRUnuOCllCSmrCdDxCZSmcZfODgjjQmMVXx-VkoOls76hyxZJnd6UteRWWhvM-vMcEUom7DDjWINpJh10edEF-7PMLS_HKX-WEhnp8tnUTZRDhBDTgKzK52_IF4QPbhbgMw47rD6ITDlMru-ghOB6VxCu4_QICyvVhsJPfjlhZLRO24ioQPbRyr_TGgiio8ND9jQ6IsG
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDhrXnmwE!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
   - name: >-
-      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcL4YyTLUkVDEWxJonrLNHpWzqtvJ1YGXhMC12yF9WZels58OKitnTyIV_Bc5NH5wuRnyXhhroXcCkZXkFZzLjLRmGuwwYADKEaqWjiOba8Jzxj6JzLQnTnJfQiAwIc4lALinKOxsQfEeHjphlbRwvCyf_wgft5JyDbcwfNYfyQVuNUUFJ2GLA1Fc7Oc3kKwvRgziZlDs-A6DhNjLyldLFr4uQ6zdLoiQioTurZoU7Qi9scUtiOW6WuyZu9g3TEClawYFGRfsnxFz-T8wtJSRm0DGRhj1tWAWYrzHx0IebO5ZjAu4HpcTk3oAoGGzFJDo4SoFKpvcyXl99UrAFZIaHBrlvl2f3XtNMyj6vw8V0dwjFAgLbGJGWc5Sj-3E1nqrmGlGaAgykOcbGuNXjMVbipAXG2hembxnIknZRbtE2mkeA
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcIBiOVUUlIz0vKBe6gtZncablvaKwEWnnZQ9ZGSgq8AK1CSP_DeE2qDBCYhOymJXBmlkIQkXXqUxhnIl3V8xj0lCO-ftvyOBcTusjpHDwHhDB3BA4dwo9mqCzECnZ7W-VHtYJuGsN6QJhBzCeQKSbv4R3Kd-zFZB9CgVHuZvfeBZ4XXDtmaBWYkfPqbf3QtBOFVr_-HlzEIdBqvAsecRGgEvclDZFy48GWYll0CQ1d4HutUsqSDU6kgRsJs0C09ZkpnCtuGh2ZQQagqCWi9fsX4OHmAKIO0KwWye4wZzpKSGdsuSmmGZpoda3RSk5I_Oj_QZe-JZg8aZz3kGu1BGUdNhU3-GwbzSbVbscw0esfkmGYtyhxMRLhmBrLGxglm-76reUYVuZPWR9bW0NN11CRyDiuKHPpxyrg0ItheE5cp-A
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -117,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbr6flOA!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
   - name: >-
-      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcI2UrK3ShTD5uDcus4VNKdBEw3LI0IN9EvpRHXx-4oV-7R9jVPHr8I92m2qvnNZ0kgw6VFM-a45UWAID4Z4buMGrJUO7TpK7T52dZeK_s3hGsiN8qFc-VSvZ0hJESkXraMXSH9BqEEEI0c_QgIbgrzQBsaZFHTGc316EInbQw_fgAlqq5XKKiylXLSgozg9ynvlgb2rB13N_eOrdmzBlWZUInNV3eQIdOOsCSR-BKckunMJ7MOrCaULcTPDsbp9YHAZ2pZDPVARxL-8AkHf6zkX2NmfUOYy_B8n8UrHDY2hJz9IaWfk8_W3yovlk9uR765X1tUx04yJ0hiKhhC86F365tqrMtqpTLk2TbN9kxHvgkq_1wbRcqASIMOTUVjFm1dyL-N0gPubCkouH-3ors8vhYDFlBdFWU0TdcfaKY8J9Q
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcJyS6pYPfBP7SrWd8EndNyejUQcRqxU9myFh1naN5SQRheQp1TzZWVM3oSCn1QShzOqTFKFVbppMWowwuhqLKp6AAu4sc30TDz88dD3Di5aI3pAQfdXqnD8ci1-6l3hvwRQfFYXncEaLuPHXVtTngc7eschQkXkc732dVNMNx-lNo8B78AVVB5fbMW9uWEGBKbjXjH781WQ-rAIry6mnhFehlOL5p34qbOuDK4VQngfkDH6lcKIJ1NOb6u73QpnpuChw7rFDxomO5skiUIrGf5_VWUDvFU4rODcdeh_2bc0UhGwwz6bJa6ODPK-v4n-D8GEZ3TLo1LE2QbY5VonEqAe2I9EcxRz63lxs7UUOsZliKiwMYj3-7ewrd51TExX_neaZNr6wSjhuNNz0-0Q21hWMwaGfAf0BdPVc0tlw2p-Dw
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -130,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9x7W6Ng!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
   - name: >-
-      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcJPW7e1mSwhVDK0-iE6HOuouaWC_VoA907kMnAqM666Eo4BXFhNpeohzYI9hNeaGucFa_15QCJE4FNVL8GXULtTbaH-0N19RbpYMQODOoULiICrlxPcyMCMeS-Zvzju1AKGBM4CL137QluwdWZ6nHo5dPaGfalI06YFDpUO6gWtELKjMvO7LyKgKv6hl_uMNvBxk1H09tGQwtbtDtHKLx-hsJLEgBlWE5ibg1DY3nawvUH1ZZ5UPmf1WATTrdJez2_2-jiPc4NZnNjJuFrtruDdxWICUSv9roDcm7MzByyXdXMJXsOwRkOHyYtfg0MEmdyGR50ARrSMd-PcTjeOMX5pQwRS_zurcccIY2RvzspUJ18-bgr-iYyAUmYH6habZObelZMTHv-PqP0o_GaCkBX91EdGsh983ByO3feD1YMB_ysB
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcKj-Kauu1fgWvOqSara7yxtIjVlDYNhZkgWTu-_gP44Ql5ck5TImXfPts_r19Lp29_crjWwq9WwRYOhHHtJe7wJI2MYX206BkS92cYyQOT5eKLTf22QndeLW-cp_hX2mPLj2BBfDlASZeMqu-wISxyuDKcUMBex5Uf5oMcK1k808A_2b0ehP2nGDeDwbVYp8OeeSyuUCUGsN4JhLx7Yw_w53NdAkGHnN-yrPw4538ASc8iZ6rCMjJbD_hJGjKQFdMh0KEzrm0hG4D8HkI1XAEupVNfx85pWw6uowckYjD1fq5Ma7LXQE1oePApRgP5xgGCti74VFiAYyElIm7gw9AstQwo94gg6l86X6f-jwRExR5f6XkN3F7cToI5O6nXpKLTgAgtwZ7d2Zu9TLD4dy7bn4MKLKTgniG3ETapJsbyKhCoB
     widthPx: 3022
     heightPx: 3302
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxhe7nkwE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxhe7nkwE!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
+  - name: >-
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/photos/AeeoHcIrmUtDTjcLmraPW45F7XJXWLf6EwSAMs-fzc3Loe4dY3bCZrXJ_eQc8HWfHSXn3lkLn-YWaqd14Y-2AdGnqKxkjAvATricZl3awWFXErlQ1qslFldCiXJeZqjxHBgBfP_bxpDbT_1cKV0SIImpV3QAnuW5TXY0bTEXqFIPsXhFqTX-6LcFxJFzuAnNuoR6pbHGgT1dSs7yTBr-T44-jcXWHmy7hhF-oRwMuSRNZlOJBg0uV7VM7kl7PCoJRAEM0I5I-qwfjch7HsydiXffaMkCl0uobei7c3VVlQRHE-OIyKVo0KymhaNKi7sRDltfVMHzYGUCZDCoTMLKExMfWQMFUsIddmZQr9lc-i4fe6Q2GI9vktaG83ESMZILPLu0LOTpRNU04x7mWLva45SHWHqBhkgOR38U-IdC4soMs2iVuFV5
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Alane Mercado
+        uri: https://maps.google.com/maps/contrib/111922585301601509323
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWt9o7tCQ0Y_GaTFmP1GTBL-fxS00z4Yy5qdsnkvnLZlqIZD4hX=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrrMvsgwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrrMvsgwE!2e10!4m2!3m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
 address: 12234 Draper Gate Dr, Draper, UT 84020, USA
 street: 12234 Draper Gate Dr
 city: Draper
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752876a161254c3:0xecf58fc5d817c9fb!10e5
 primary_type: Bar
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 4:00 – 10:00 PM'
+    - 'Tuesday: 4:00 – 10:00 PM'
+    - 'Wednesday: 4:00 – 10:00 PM'
+    - 'Thursday: 4:00 – 10:00 PM'
+    - 'Friday: 4:00 – 11:00 PM'
+    - 'Saturday: 10:00 AM – 11:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
+  current:
+    - 'Monday: 4:00 – 10:00 PM'
+    - 'Tuesday: 4:00 – 10:00 PM'
+    - 'Wednesday: 4:00 – 10:00 PM'
+    - 'Thursday: 4:00 – 10:00 PM'
+    - 'Friday: 4:00 – 11:00 PM'
+    - 'Saturday: 10:00 AM – 11:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (801) 523-2053
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 2149
+rating_count: 0
 website: http://cliffdiningpub.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

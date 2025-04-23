@@ -13,11 +13,11 @@ description: "Sushi Up serves delicious sushi in Orem, Utah. Try fresh Japanese 
 place_id: ChIJY9sO-dmETYcRtucTPk1Nb3g
 photos:
   - name: >-
-      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcKjZNTrcpGc_raaIHyzD2RqD1Q7G6vYcM_myFQoOqNinGk-z24AVTlSia4wsArn3jfzWIiIZTTOzYpLYh4hsr3gkE3FccRMIK8dTtnh4CjI2MNGm09E0hXBe5M_dYJ5JBq98AkqGpg4Jhn-tdMNEHtCChCXfKG2ndychrey40gtMao_VbXJ0q0u5ujGqbi4s1_nEbkN9h1Xziij7PQnTx_AQIXQua2BjDgvEdfTTRzAYXQ7ltLIFwO46nmHcLSpH79J_MlbhBzr4WkI3rP-2AFbHktmCcCwXdy_HMGnQncwPw
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcIqlN17lLQNsDddKvsB79IHae2OF51eWf9MCoWGKyajjFRiZEsVN2uA4HqB7KD2ngvkfv2liGRe7lmjzAKR8oBUUnGLeVBu2Sw5b8T8suMMzzWtlNqOWC8A3gsBhiCSC7baOp8ZDt_EtJZFVijJ8_L4B1bsZ_tDReklt_kONlK1GsvopYXb2gGHH-VdYy6r2m01M_0wgUWbHhWia0v_piwjO7_eJedntMhxB1TS6wKjW1XWrrjb2gXk5js5thaJxp-OJKTbIKyMdWl3xE5MO2S5g6U_6D80ZJ2JctDgeK_Aqw
     widthPx: 3098
     heightPx: 2646
     authorAttributions:
-      - displayName: Sushi Up
+      - displayName: Sushi UP
         uri: https://maps.google.com/maps/contrib/103616379930627555525
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocLx7fFjaiqoXaiOXbmETC5xU_eMfhXbPIokKN6sZAK7XdhOHw=s100-p-k-no-mo
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPykHlsxWn45T04Gqgr80Ls86AP9RWB3DvyTQEV!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
   - name: >-
-      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcInu7W4N1_4rboOKYzDVybM4Y9MCLSFMHYHEgfR9U-zpRNKfUVScaWUCwEzXClYrVeRRBThxlC4c-juqkwQOuFVyJFTISn_A4udYZJmYTAcBmy0FFE8hzejwTUUWf-pugcLkxsv-wz8Xy_dv-Owk5ES3ijqabjk7_p-cKEX4aMZGwCwmDgYosBfHXg0FP1kTtB5ZAU6ZuUS5ueYtgp-7Mgw9uSc4sfHY8poQBdYCQvjbw6pSZfT93cxokIGt_RtUXprkB-GGnf2Xpnsr3CWXqUq2N8TuGJmP9PsBl4Rpqtp-9bpfW7Z2vjWDpOY1X4CXFnGE7TMd9tqwH40KaIXRvkCGcJz-o-CwRjEAHNLUni6HXWMWJpFNL_j-QjU5X9PJ4gvol36f7xBaEnJYMcyvwxMQh0LCOMsfaQBojmddmQ
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcKGvLrXf4fmpUTI-6BhnkMgLkWylLGIpcqJ3EFrWqKbNF_OcRVnMDFBaLbqsJTAQwCCKXyuBiaHDILM41BqoCKfliHWDgBLAglYiEiESFa5r-M8tLWXFAOhtf2tWdLNB4dJTRdIxpmsDzv9eNtHs640TyR16Dk889lXgUeffhtaotQSh7GzTXrCc8PKTV4THKVhUZk_j_CsCGJxZIp52-o-GV36jGmkiJKcaetDxKRzZ37FNwWUtL3dIAxNy6a3FGtfqMAQkXW6fCZ1Zkxr2A36Um5EtnTUkvMhHdufC2-SOqaNd6OMUI5j2RTxkHKhimZzX332G3lsbpo-bmFSHR40Uyshw5GVt1vfmPL_iHJMH0SDf3Q7Il1ZIhbHvsmdvbld-jVE3x7kp9QtrLikljoZm3J263Fo6Yq57vptjog
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -39,20 +39,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXl-D4fw!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
   - name: >-
-      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcLamZFqqBilVjwmwf0g16UVqh9iltxYAwMxabkefWUM2eG043eKEuH4v84amPFBVID_gMuFcgu0RMSQLd4U746NBzZP7u3ZdWtHWGeexn5MrUmQ_b_6w8nkjCouvHU0QDHTO5nUcI4wWxrNXtuuF3fzA3OUP4H3XolI6rB_eaCa_b1pJzFPmU1KutKxGzXFraH94X2ehyiyckXdIVIyu02M44SK1FYcUFyTfgUNNh4WL-LfE_v--IF5j_C9LXFacwS7z2ISbBxIcGKwSSLgb6jNmnQ_x-iNLNx6V_2mmp1g0RsmYNpWjpe8pEnoVVZReBy_CzFTTPtN8RBXE0Zm0Z1iHABSva1_Qo0CdE4I_KFkLE_hupZhdpb4Lv-HhYSq4AN_LrFYPnEIlBZnkR_Kq9pT-BcqgfEXBTid9sdYV3neCQ
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcLwz1H5Ce7B3BBFCHlfL0QsFeHrgrYvMCP9D24OBpg4E63DQGo73vyTJYMWdSDUhXNtFxw9SJGgKHNSQrZ6I58ii3EEjZTepSBu24-V3eF0paQVJC5lnY0q0lCMhwNDz2R5RtFPn2gvCME_0dAfjCkpjIRJgA8PaZvAv9fawRCI6szEMr22xWf0q9heCCSg72PJ8R6g41CFVb4slXFX1Y_HaiarXHT2Nyig7jzeoEVKK8GcB2GPU8VAW2zSQCjvTziUyakW7hNFoTlGrleFIwt_W69bDl3sysrpcGzyTcVlnRkJdVnP6Z-U7iMSlvRucL9wWL9idIFsiXC58b-cHuCcGVi72VrEjPABLq-cLVVBiUE3ZpwhmKsif3w9TDVYp4YIp5I2BmpW_QGDE5W77yLMHKFRd65XfcneLgL_-FLiLg
     widthPx: 4032
-    heightPx: 2268
+    heightPx: 3024
     authorAttributions:
-      - displayName: Katinov Photography & Videography Utah
-        uri: https://maps.google.com/maps/contrib/113863153514544832706
+      - displayName: Kaylea Hopkins
+        uri: https://maps.google.com/maps/contrib/116932961001501704445
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVrbVnjLk8lPGjg7M4IIGCrXrkasV09O-SQTQA8xxmEyL8dyV60rw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVRB_XGLgGUUCPHKklw3h2TDOx9h6dtHY-Qczz7BJiUFomDxx0=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnva2qAg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID0n_nIFw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnva2qAg!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0n_nIFw!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
   - name: >-
-      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcLKsA2seypgpN5M4TjoQ6oTOajOEWxLSmJD7cGhjJgF4LVSdyJZBz687noTPb5p8iJTMxZQd0_QFgxVLJVu1Mt3w5hZMSmRb4WiqEfTJHiI360--cqniSSunj6ILE9zEDMrYqakkIRT3AhmoB8ziyXQ_xl5IhqbbVGWeQiHbRIYX5hIWi0wlWkyZPXRB5LF6R4H3N7owb4DL-XGgRMV3UQOJNhHc4wiP1OLN0PGzlOzaIy6RxX0iWSrR-lL1MVUEKMYaiajPQufI8kkAxfsjrJezNIvyh_eA0PoEaxMVWqxSWor1IzxBdIunij446XZVLK5YAUr8sNgD7f7ewCk_HXvukD864csXGsq5xgFHeitOqOvaKEL2MGn4T3durVrh7FYXuYNjqMaKwJDUFXH_RITvO8sINU6-aAOWKgY_oiyjARq
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcK1stRcmtrEfHGrPTjAg8MitSQkRqFLv4Dk3dJEfVnvdpDTOeGGioi-DfR03PAU-IWuChaxHWREB1VzbIRPwJ4ZE-fdb15timctKhvFIMk7fCWxQWp5XFewZAcFG6E69FbRGzv77Dd3rUkEHXExUVGJ3cccvJhhMU7kuOFgGPA0oqTkdQ2jTfPkNF3jVjGLzHCb9UwKsQm45mUgu5WyUAeBGGWejDdCej35hVkuZJ3U0C-2OZUikPe7H3yiep6qAPlWYQLgVNeV9CWGHQUhFWqARniid0NyD1g0CEq6wYU1ZUWtSKgnvUafzLzwl2X4uhJoWY2sc-w0CYwDE_GnTSfNgnPCS_orIUHNxJl-mD7U2IaWXaGHupSzpJLwDmNAohe6if5IbOZrqJjxT9IXLbOYsCHIEnUDNVaU9XZtAs7_dwVY
+    widthPx: 3023
+    heightPx: 1781
+    authorAttributions:
+      - displayName: Chris Kurz
+        uri: https://maps.google.com/maps/contrib/102429900627272209864
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK4v3JDdh4MCFCULUZUSGfdg5CdlxIFSuNk502a-hK-mSbj3bU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP7eGpswE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP7eGpswE!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
+  - name: >-
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcK8qYtEqZC9ILoAjFem6Crzl6w-SxgRW6z5vV6VrvN7DkBlf4w6cYcrti2v1FjGCpQ5gn5VdrMcCwDUAj6LLK_-DXnI9B0yxugWXn422nweIZVLCJ3ytfab0YE3pWqqWWKtDApuxTEckWCIrW7d4lHIYAxPTeQS3dYWrZ6IHnsIGfMEi9UHGBzG4rtRzlLtg_YfuwmNRzROq7x8lNZgdkROA9gGXUV7z3oSiLN-6JTJla5DASoIAv3yYJR7rKDGlQ-mRG_fewej7V6WGjfx2A0_gsaAhsbkno9iFFCKhTesw33FBv963as8HoLRIh7wvv0QlVYAlFCVYFIHmtUNoWrtTpapWtAvPXdwkmgsWLFe1xUtIeLWBXrfpuI126krKNu7tTm7Xj9POyJ46CjHUwBSPwPSg-dGICl6anhm9vHdb7FV
     widthPx: 4624
     heightPx: 3472
     authorAttributions:
@@ -65,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuzN-SwwE!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
   - name: >-
-      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcJED2SbgoAVj2erTw37yxnBYwEyRz-6myuEbbn1ySSzTBtlvRAWyysY6opbpiIMZdDnox_nOWdWwZ2iw8yzqySDSxkcHrrFJ_8CNEYAnc8sAWtsK4XJYfgGzOUI5TJyNDYuk7Mee1bMEjYg4iaGCjJKiPw_cvFmnP_MuQes33wOzykcbzJGJSawUAyw_fdv9AxEHkN3V0ljgNgfTvCLPeX26KjkNLaAvciGrh1AoeXhetQY0dJrH7wkatJ7XzRTuQsqb1m4KF389C8FEGNtVcs1d9iEIhKfhxcF8C5FxXM3cOrDHm8GgfGIk9qiz3KuHEjVZSFif12Z-U2iVXC2A0k2Ec4SHa7uh-2B5xZLyX87B1ti0aaJwYgKYKXo368N79-1m94xC_EppIdMGW53C-PrMyShv8u_IjdarNnFrR_VReQk
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcKNqzA3sX-8fwQ_HvHrzkDgUO7Rih78IG2zDnnhDQ_aTjZByE4xNFjliRhtt0kp6BgeHh5NOh9dT4X5VTJbErkKGy1_6QR8ooRJ_aMYij335J-H-1qO1QNVRvvlAFJKGId8fjdtbvOAaqEjppMrpLoQS42_orVeJ0DDXtmpcSxiRz5q_y0k8h-vYH2wI4ou0IRdMLo4CeFCrbxDOIe652zAoY7MSRIJqN1LdD4_VzRDxqdzPNComCWsbXLEctNnY2GvyLEJbxeKDqRwc3Ljy6VAmX4Zivo_kDM8UoJMtMAM9YMo6v7Q2qdAES8KReXJKHSOdRkbVLx25C4p-yHMGyw_Pmah3VpcgTaEnwz4eaqYVTaTocWbN3vTSPOGIrE1A1lfw-lQK0L1pAA8Ay6Qq3wiEP3oelYyRh14hp5DWT_hmLV4
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -78,46 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT0afwygE!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
   - name: >-
-      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcJosrkIWNMT1o2aazqOeKbgsaT38EHUKCmsYUycLN0R4HeP2UkCcPaFzCy6aaod8dlTOBOe0sCjwb5O12UXjIKzDKbarTlkghL9eFIEa9s6NS1drGtyd44kRBdGn68epjuPog--vpwhTjltkZKLG7NM_X_GlUIMwO_C-NpO1KtxXmC7-GCUmvofIEjtDqurOH_Z9rRvLbQYq8jWsZfSXtzFyXyDU1IuHoN00Td1qC1ziMJ_OBrKo_3tH6gB5FZrnJDm5wmFPAdgFGr4-n9ncbbElbIH1UDa1tE1AE7zoG5lUeUYGBqThU24ilpu6P6VH6kDt1KIQp4rNvRzcfEAikPr6fK9EHwK3paxRHbabCi8wKb8ImLFGF-VjnAm0ZF1qjYzUKULvDcRecx5YEXOthoNaKCaVIHY8SAEYi6Sg3UwFg
-    widthPx: 2576
-    heightPx: 1932
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcIKWQ_BdUZlw0Ent1SN05omUqAIqZx9YvlLQbLzRewg6e2PhO1KA02NyPYUpgxo0xCIzh4piPq1GklXdC3K5C-55F_VE9qBixjzMecJ8HJh7AIqRxAEJqa0rAfvBk6xj2gbyM0inAH0EOY0l6TEb_EHI0r0yVp8QeKrqqup4gW62nqb4iAABOKZLpxk6UW1pQh116FZTVl3x4BsAW_F2zDUETazQ_rmHZUhNurYngkTfXolIP8yZ1QsaBkxitWaUfFBCu-kyFuHNKZ9BpwZp0Nlxx7JEUcMnMGtvqLbrovRuYLvaU6UH-O-Rlgkk0MckoubAERgtlRhJIKrJPdoEXt_F92_qStZPWd21xBD-0ahb6c2pKmo5XoMe8UU0pwKxWqMuuU_MEgzGvHhwk1JYx6LCgE_Mg8fpW2txTpnQm4o2A
+    widthPx: 2160
+    heightPx: 3840
     authorAttributions:
-      - displayName: Strider
-        uri: https://maps.google.com/maps/contrib/105508359273711468957
+      - displayName: Brent Butler
+        uri: https://maps.google.com/maps/contrib/106146473911768203555
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocK0A9Qnu2rTczCMjcxcrk33_aKUg9vmspy9dvE5S5gFhXd1Sw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUGghLfMb_ODe7rh6rg9ZkNDknemngtNf7lYzEuJ66RnJ7SIN6uWg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICE6PWpIw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICyqbrfbg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE6PWpIw!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyqbrfbg!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
   - name: >-
-      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcKgm7nLo1fLEqYsOuQXCul9vduhrufeB_wc4zhYYmT_JRFP1jNruLP_rGEG41vIkg8hNhiE1g9R8kJj2bkJBdwTRqWxTlKU8b9Y5DXTGgJA7icZXgr6kq1eprLe0uF9pF_pDNon2-0ehW2hFH8LCFsD6OcNexSILK3DlCDOhbUHj4vYw0JumKEDD9j3tQ2dQTB9mQ9qfvTb4Ab8NDUsYbfGDcnK6SEjFWfis9b5v1kjRxq1FteS8nT07dlUJi2H4yZrwpbAhXyz8-9JCisQRC5jawBJ4hPw-jjkhJSHNGGxSAV_cq-483t04fmjyAqR0F-I2fcCYNcGr9jUyQ09Zzk1X9hyYecyH6uvoXBtaaLZ36dqqPXrzx5GJutW3ovILMSL2-3Q6q5fJ2vgFX3vklBbyiYqyuJEvbb7Dti4zIjD0qB7
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Hanna Morgan
-        uri: https://maps.google.com/maps/contrib/104270319630867845183
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWqcdkSAPUGtl0Cq5UukDj7rQ7ygphgBKwvv3WhldYjsv-ZuQNt=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQz-Ce1AE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQz-Ce1AE!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
-  - name: >-
-      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcLaDoiotH3LI6XNbhunbVT6saGihxwLDjN_vGvKLtX_1Jrl2VlKwFo4ydvB2__XFBtxLXJmlxUSVbUcx3Hupsm-773L_O2PCkNTDdesgbVGm0I04d21YMln3Ak6D7y7vtROmj3qvjFcsrjMgTuS8y5w5VvQVlJ2KE_CqIlYTosHEAnHOqR4WWHoePhRE_hsXBcx1PyJeFXj3DVXxTN6Juo2ghTSTxkinigBkneh8w79STAX8IeYBv8qK2IYsGLJnyHX5eleCqsQoRJbeGPGF6WtxBL3cvB_M9MIdl859AkWbFcbWlIkTgLHiK6f1ajmBuSRft87WgjmTzjJFTNKfEMvDXx3MNhT_rTKwqzTZj8Lk1fogpGEeIyLWzc1uHE9WiV2zQK_U2H3ymiuHWxXRjHPKLU59vcHYSMW_xMbShzaLXumWWfTzRoBHQs9XQ
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Bryan Ream
-        uri: https://maps.google.com/maps/contrib/100906161546441443465
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJ5v3z-kjsa-00vUh-Hba0LmPnJ9o39d_1JHjihHSAy0Q7bkg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UghZaK2fUsPMABXJ8&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UghZaK2fUsPMABXJ8!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
-  - name: >-
-      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcJ94zcsCqR6ywCnNuhlSkaQ_s_721Rt4j_x5V2zlfEb8nfNoAw3oZLUPuBLi9_6-1VF8mSPDU07ks5-Gz7N9l65T5y8x5SytGKHKoH5qpGC6oMzjSQqiaf9o0hJH1DYJ9bxzf29ync5gHTjtfnNSlnQ3UuwqEX_8euIA9V_JJMfexXgFUtrTugsztL40BoL2NEXWOSqq2q3qdqGZOlk5QP9otW4SsPA_iXtICANXDlKMWs0DrVvxhI1JxOBXOHeXSf2j1Tx2MTEgVDozmVYP9sK18kOQElmxzx9myXKkDdIxoXjV_CpqxLU9g9gG8BQ_rSpNAf3iYDsIRDIPiEWCsRwponTRwQeMXHPJ-jreJl0l2nbeXNDa7N25JEMXoVOpsTWuVfBxMvRKuV9hqZIm4uAkS7nu1kcHfK9uzhNF_8
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcLGvCTzLRk1rTAV82kazCRAndfq8i02DMmJxQkNiAptpVfIopEvsSLrf0qK1I4q7nwkOarg3K9IdNvN9GLRlGDVz1xO3rUrw6VqqkypwbVRHDC6--LypBj7eRr_yBfSZs6z4dqrhXEolE4txXpPxhnV4rLOAIgl3oEdvN6ioOfLxyZislXGZJJU-TjbJKmygrz1SyX78KITthKKz6gkG5XC0ec2aUKnq1xJvXEt8v20Y2EWRcvO0Z7rhhQ0vTnQjK2Z3S6WZ2EWPOg_waK_AAqrL8MAPV6MbPr8Sts78j0ut5ZSLvSb_VQy5QPK7u3S5Ud6MJHDldER0wwznkd1-07vqWkHM26L69KlNUyEbpn-s5d1vry4gaK1GrhnaNBt0LIGRb_QTwUchfAVZefCwoimC78YpjjcyAXLSo5FfAY
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -130,18 +117,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJtaWQNA!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
   - name: >-
-      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcLzV7stFCAOVoXvZEHT77tXRqsRfqGrtXyDWsgbuZCvpy0dTjQNwYGgzHr_jB4tcpBRtxe9anUVgxEaWrqrHW-SrheAjyb5NWGJ7kLzenjM-ZOQxKdDEdVpj9mO7fjln0adYms2nusy85LWGJqvlGHaqvXSRLi3Uri81iDCGmQOF6ucfKywYg-QcfaFvfnh7z5-fFtNfjLMNA6SAphgelVL7ArhslN8NNEtxhlZpH1TxbpxRai_XEweUm6PrIlFkXxfrd5I8S1zT7Eng5VuylS5ieST8_1Qt8bKP7i4GQEHj2GcrSWXV33wfBpmCa0QdOe5PYgGA3UYdCtqDSSZYg9RuaYVz6RZgEtgSGEl4Q00x9kR4Bb6lnwzsY9rxanJFwl6zSg5Dq8yo_Jqvwr4kk3paWYb9-Kw11ljlMYw4-RXNANO
-    widthPx: 4032
-    heightPx: 2268
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcI32DkqX9qs6SJR1-2_yhWwFlJGmuWrut_oc-69qa3QCnqtAgaTeBB4y_S1lp_GQUg0c-dR7q6piTAxHY1FesCyoFMHjGDV5UbamiOzjCnyp4eqABigSe6jSqTRoY1VgYrWC6OtQ_E7WPcYON6M2wk6xhcUOzO3sbJ3xaYLSuyxsVuqAK75b8Sf0twvNl1xLSL_C0qT1PuakHEGCJ5IyfXVA5TQ8GpWcU_igltKZx-F_Xr6n7GRQfVLvU1_7GLQmlYIvVUMwcRyVgoorh4ridVjzDCH20gTidmba5TDX7CC2ZigmXiO169Ocf6UwMCUP8gdphD8B7zB-3YATkEeQQJQIAhigRUXtwOloxeIRclAtKSz4EKN9ByNW3TpJoxS-jydlUeUpeTfW8rNUvgATGOENqw0u-hw2PXxeaagPDZsyNUz
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: sam borden
-        uri: https://maps.google.com/maps/contrib/113066659546195978643
+      - displayName: Hanna Morgan
+        uri: https://maps.google.com/maps/contrib/104270319630867845183
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIZuz0j9BJCxgMVd3bCUWwN8NiS67wMdxSPeYGRi4ErRU8NqQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWqcdkSAPUGtl0Cq5UukDj7rQ7ygphgBKwvv3WhldYjsv-ZuQNt=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGr9TU7QE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQz-Ce1AE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGr9TU7QE!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQz-Ce1AE!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
+  - name: >-
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/photos/AeeoHcJTMp9-EjV_Z-MfiOrix0jrMuv7DBC1uBHs9CNciSkJXb0C3MZKUtUM-EINDLYn0TF2giXbMKCx9Z_0dLDZlDXl5PFlEPnTPCA_UWNyqGnd3VKcBW38Ir35yd7pgj0lSMWHd0e5GsgiG56geORKel91TdOrPbLzsBThHcQQwg8p2aEh-PJdJfKySm76Eonh6aQ5ff_zQMlePUClSwuA8jPi8bUujxjqK7FNaMmUqUeTMhpYiKEKR6sK-BP-iArYZ-w9tDuHNxHVZAZLqqEyoMxEQ-iOLe4BMq--z8w6Cl0rdQgWqpu_I-_ZWursItUKQ7cOjOWtzHKYUSjWaU1Be8b8gFuY2n5UXkyJ6NXlxgBLbtyx_vHcAo6a_Q5OcvMksemDKJ1d6dUvKz34MnUIgMhtcx80GFIhi3fGoz5NK3B3oj8
+    widthPx: 3864
+    heightPx: 2647
+    authorAttributions:
+      - displayName: Kaleb Hansen
+        uri: https://maps.google.com/maps/contrib/115491332481318039792
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXwbVsOpsiLCGxx4dH95zO6LiAiQtmXHLS4s7VcQHmt0wH1CmDW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDa1oGUzQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDa1oGUzQE!2e10!4m2!3m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
 address: 1166 W 800 N, Orem, UT 84057, USA
 street: 1166 W 800 N
 city: Orem
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Saturday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Sunday: Closed'
+  current:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Saturday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Sunday: Closed'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (801) 607-2473
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 1256
+rating_count: 0
 website: https://www.sushiuprestaurant.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

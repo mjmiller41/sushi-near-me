@@ -13,7 +13,7 @@ description: "Bustling, family-friendly fusion eatery at Universal CityWalk with
 place_id: ChIJSfXhPed-54gR5flbxVwTdyc
 photos:
   - name: >-
-      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcJwQuekv9LbdAg-SA31K2vU_k8l43SW-0QqFsw2yaJ3EQTSFtvSmxR4VUO2Ok4CK0qR9gmBmggYcLxiyCwewFUUV3Bxji7gKBEv-z90o-Y59NCq9R5ZRLci068xz1sbNOCSb7Y3-4dx-0HMplntPvFNlQUtL3aFamiZsczl2XY8Gg1emANZSIHDLP3iMFSXQx4GTbUB06ZJ5QK5zEuVLjz03eoXxrmxTSIVbay7PmzDxinzAU839dDeahPX2RCSXIJOO-CkU14R4pykVrSXDBW-SrEoUkBMKHHI9miJ57H0yg
+      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcKZJzW64lN_1pvtxNe6rYmLYNgheaR8cxgoc7wthy5h022gEMGc-wFJTKnO8Af_khlTt7pUPK7llpd2mH2zxfW3gg5m2HPWuVsq_KGGouucq1ts5N7WFCPfw_mTOL4h0-HGUStxIBjqEIcq9tFsWLF7Ww-9cQ8Rr6VR-0FANKY2yPuTIjXz00EszUaD40241HdQnOFgAHXvEkqAk5QmtNqzOS3_1OhZkztwW0u4KG-EET6cwX27YFbYKahjRxmHbZT8WFo4EvZcxxkk34ZNt8R65qDb85kMlzUUa2Q1OQq6Ag
     widthPx: 1227
     heightPx: 920
     authorAttributions:
@@ -26,20 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO65jYtu4VxbQUDZ7kqJuHK0qQ8dBcxR1ncENYO!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
   - name: >-
-      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcKrcFx17z1bRqr1o8FcAspf2LjLpyD8KTvR2-kko_byB3W8JuYk329nax2ZeDkZ5qyhHqVYkFUA-EXLjb_AicEkOe6_gOSU0lWNe7ezgX8Y3Me0BD-oJbPvMxqqFLLX8YiVoiQVna0iw2uRTFn1vhoAUbkZ-h9SwIq5fInuwSGeeCVV_i952hp4mc-nKYLu5s9qZ09OXIkMtUPndBvdl5i0jNFdEJQMcKQTtyD7h7E9Wq6C8272ENqGZH71GuYZDanL-H9Pew5d_0Xv34dbR7yW9kiYlKO6psiFXalMbcNr7pg2fDiRjdCnduw4-6XTG9EkmWWP_-Q_Lhhemf6MuJXo5jbboV1qI0WDvh4bovtgS6gjuJX8iwjdQ7S6y6s6Du6Be1y9X7y3EPAZVaqYrJvnlIEqZL45evpvSmjonpgsnlFv5AFHNUJOKG9BmJKs
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcIAdHMmL1AbkdxlNQbAmLPIGBHZTegFbCnRnIS8Q0sMKRWpoCSuG9WUbpyhljpsknjNzpUSgTfNCJNOhDH9_26qHGbL2MKk9nI3lCg1POSqQgUerisMF2vV47_NzFRDlCD8p65_Oj1j27BOFjKpKiyA6Yu-68vW8U9LsmqxO8YiA3YzBaKffCB0KqWRYG4C1JM9abxiSCr4_XK9VBdzVMdq-92a1-7_sYTloaA4BbgWMhiwChW6EbEEmQz2WqsZCZ5jP5hvW4JTwldwVuRhz-yeRupLjC7eVn1SWrO6s8MJw6d6POBmDj9uIDOBzNWMsPbt75-mklJaAB33IocUPjq5D8CcXqbffCSJAtLHdzZZXEK7M-z8EgwPOWzqbR_rXBLTdbYBYNrh6RDvLl2Wspkg7zOlQshGwD8czL9AabsDvYH9
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
-      - displayName: Jorge Villalba
-        uri: https://maps.google.com/maps/contrib/107646653455217214649
+      - displayName: Chris Smith
+        uri: https://maps.google.com/maps/contrib/110543051528268260982
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJWZDyr6HbkpqjQbxtRTXpkU0NpztwXYX4nkct6Yt3YVDz7og=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXfdnEbQG2xGbbv1lrmzpvC52aJysC3Yd7t5KKaRpuzQF7I8xxm3g=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydERSCsWAWfplL4ABOSm&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCo0d3omQE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERSCsWAWfplL4ABOSm!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCo0d3omQE!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
   - name: >-
-      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcIsZ7cz9qwk24GNlS4hJdOTeoebC30gahX8UpZp1idFilVOPhkB05_1GfZbppPMkr40sZXrBKvTz4I0lOFf4P66098dW-EgvzXmi6aZ22oFwv7jIBQHQ3O-i47z9RO6Ws3tG2obv3mupZYKdoFaqI6c3bzHQ-AlVfQp39jLEFiHvsPiRTdGQlTdRSUiQwiJ4ZVVthOJ61qn7RSk1JtkzUH8us13ths4_ZDLNm2xCYFznhgYJIvMUrX1qI2uCpWcFhRbvwycxaqctCkkzi3I5d4UuAXpgQj5V-CBv4f4BJsEc3lSLdwjbLBowOnZMmOe50cRLhjvliA2rFSJCDfKp7wKhzTLWnNGF2y9RGwfZ_cZEjhNI4kto5bI6zIeTHunkrtzrqINDsCHgTuVj8uPXUFATzjkWArw10XXsiFPptwVank
+      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcIPY-TqiYmVPYk0St6jiZj8OSub7GeDFbDn6PLmEk-dot2JAzB8XlwpNSRAdm-mLRBmXfbklABfJBf_npDbGvazf1aaXZEWtoxTl-Gs9K2eTAC1i2NCo82VsfwOZQWKm7WyutNbzYMVlMNLhDS9f8GuT7IK4vpDgLWve3uju9J2S4X4-kvzbGeYeUmVTESXGiK9ziTUcL2vgEfz0nw2hoXzZ_7wgFqEDaPHDSCO1HYUZ9fY5GV5OkDVRrmAZM5tRfuU7QCh64z04s9BhduUZ3zxUw3DO0vXP5MPQZA98dmqxZtZ2PWMQTTQnCK4PRH6lS3e0dm5_fIYA_d5JxCsh4AqIqSWdVSqqmk44ms32I__juyIicH9fzBlbXjQRRe4MGb2etYFvyNhwmuQODYzX99A4TLm4o2Xkn7dGtF4RtVGuIQ
     widthPx: 4800
     heightPx: 2700
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI5dKkgAE!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
   - name: >-
-      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcL6Eq2_G56OkcChPe68cK1hhB-X9xkQ0exlS61ttmwAbTru7LDIJEY73P0LsbxwcsdPdAZ9mRptMDk7JUVFRBuLJCr928nHSb0jZqZRnYGDMPypiTBEh7oy7glhFcjA9Er_iK38suL0JxvFf_9JPDKLjvXQAJUO4G72C9ToBRrWlk8mojTsYvBULAesr0q_DPmxEH2PIE-bSsni3zBAkdNW6vvRyxvVqUIv5XoPXildQPOCq-SjpvlL1zm_aWziod8W7zg0UqjxPQBNIdPJoRy147RARUxH4znVYwzJ67nkb02GCjsT1TB5VuTYHHZn9t-oxsDPEnBMWuDP_jsK3CLKhXMYMA8zHUoSxBX27Zv000RqaP-07LK_qZ5ubMqclmKALgtU-LLy4BxVuX_VCvWdb_-tGsl9Y3TagP4sQ52VsO8Q
+      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcI-9cOwi6WaQd0Wc9ACd-CYj7ZIaBKr6ei6kiZt8j8tYaonMCeZDvGsWXZyx37rzcghOC1o-DaFRyn8tvyS23VMLhUbeXDdzEzZZ4lbk9b_bvJt7vKi53w3AxVWwg0PuHwpr_EsHPODZTeZN4m2zjjtEsEPmF987ApOwbnPnfKbKOo4TNCoRGldpUVa44CPy1SkdMdFL8BDadWuQFmDnhpOidSMqp4bHnls42ddDClT--yXOCcCduu9YQgDuIRgvfOFxA0o2ADWpY_IqDl0Kxmt78TPTJx7orqODVgKmqLg6BiUXlCFL3d-Y9sheKzk_xgTxxyboifn1lcPna0CcQKYuQcjOm545DPxJly437EGe1ebpnYlHWKWB-ABs8TgOZMA4SecJ54VU2SC3ARC6Huu-BlL01jgZ2cuPR4WIrCD4EXk
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXpPX4wQE!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
   - name: >-
-      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcLxBA3qDFcdWgJuZEASCIOxZAAAQ88DCRRL_Mc2Vtfese_tGgXbr_4BP5_pxAr_O1277AXpEdYt2QPtWSiz8wnU_9VIgTQZvW0RcSL7xrCLB3Zeh-mDAqcpRVDPbHo7qmFeIj-V24h0FEBBhWfkQgWKfvdTgZdZdwstRi_kSxHgADuO6r8ptek0hpByXWtUp1Lrf3SnQxfKhgQMEUW_uUPM-kTKrHM8KW7uPNQUKXsOq5wXdjAU_8JQGqgXdvn2HJZgi9Pxa4efpoo19lFHoKP4REHkj5NPvhGkcqMujJDKZ3rvYNKvOM6uaR0DABezpe6IMc8C6EgnE3Dz0CB6UX2ir1uiTkI8YL3RULrNcdPDXT0XKYXblI9BL8-NeG6KKfRYdOQAx1gsNZzmFjGWEx1byJC0Efc1kNtDGrBYE7p9eAzT
+      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcJ33oNytWoNsD2zCGbmKjGOX5FihdsGlVwfOqFPhDBh7JGYS_EjWdHFGVA7u8NtOOMS8Rpr_hrkYBqWz9VoB4saawwaHgRQpchJ9tf2X_2PB9LA9sYPgxFIpRDmYdcb5V-OWYwpxP9W_6_RUewGSMSj_eKbS-wKMIp5XMKKQqvL-6f834hsdwnC1a0Rs4MySTjcOre2ww-zbxNajtlcIqbjL4i7qXmYJZ8TSqW4SEaLyotvB3NiGSGee9DG6cjuHAjaztxiAx02h8FQwcZoGMLv2d9xp0eSmSkkLiBtyGytUIWbwbJf5n8S5v4OjqwN5x87xRFPW2ASUh8FuVJRyNoLH7ZIIWxZNE39GTAXwI14xeKP_c6UwZBpINNvyntD2QnNeDklrwzgVCQwoHWSgKszD93gQHO0fBjysBzT-vqfglgI
     widthPx: 4032
     heightPx: 1816
     authorAttributions:
@@ -78,7 +78,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwnsKfuAE!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
   - name: >-
-      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcJwtfnLBGcTQCtI8SLJjYRCOPMDB5Hjc2mni7DB6fTorosjSeByxofh2dZ01LynTjdfEJNG7C5S8-W060BRnuEZgzaMNTxb4cJM_UpxnF4iIBn0-HzGC6JjTdjIq0pk22dkj8MPcURK4YILfMYx97KmhmyBa3Dii8armtSXtXMWk0To3qUK1d0zJ2ceSPIfiyNz2bQ5hxvzNPFSfrsftbyxtEagN-gQfF0ZwCx2gPKQuEUZ9qyKGU2BXMTaKLCV4-NE4reZtpj_RAhnLGh0qUDb5_lxA80e1izx7o3Y51fVOfL7gmz-BqZ_K-0ampi336lrJ6fgx3587pIzXJ5qVudRQMjb7483auGWBvhBXacCdQuvF-PRONBF4vFfOg0bqkvUTvo9aHxI1wt12ErUP5TZE4c3pQlQMcauXamG4WOfJw
+      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcKWUioa1_Q_nhDKkrb2gvEtIoQxk-yXmyA6tKlqdx1NhQ7Fd1hQMSYncxO1EA3Y6_tYJK3xmUOuoQ9LfaQrQpfS_fiirbgJRi6VbBEV5DkkLvy-EapbjB9HdeQ5H-xhI7NI42ozw9XQ9AfRr23ggGkmtA0tlM1inkT58HhfRJlzM6HFZw3GjeHQzSchtNy--AJolwJ_fcuNRdnxZSa0lp01Iwvf9ZVYC65nr3UYSkyGtn1aHH4jZ9vM2r_KQdoi7WTYwPOPoeVRCZd8j4T3DGJLpOXI0Obmx4EeX73Cg8xmWixlcLGC3_IWf2SXSrutHT65AuN78ejJX9qgDKI4ZhqPOHPxVHm8cpg_QJNURN-DEtvNQv-A_XiBX5kW6iFMM8f2DmlQrsGunlzq-S02A1qOOY-r8BQqVZZn20tSuZ_AJ_zM
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ricardo Javier
+        uri: https://maps.google.com/maps/contrib/107670658204092281797
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVi3LlfBAFcpdXULxzeQneHu7Nezwi0Tj27t7FiWdH3cj2njCNS=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIzfG4owE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIzfG4owE!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
+  - name: >-
+      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcLPpkvOmw9MahH1dyvkCT9jfGiu-L7x36mjRXP9x1Am3PdxFdYePkYg6F4YgFeTo760kbUzxN8zFZkIsegRa96Tf60ZpCfKnpALOUDMJJrbuJXB2SYXKPua3ajW3naJHKega5sUDOiinri2QImpKYBCG3Xw-Gy8K6UEBe_sHSqn1Li5qVFrj1rHbbAlshm5ZVXHU6sO539fy1DPegTkB5x0GGOMImoMJK4a9KOVTbrGV8fawTr8mAFwAvmiGwq61W_Q48URMITkYoKI4Hnb3lihETM-uJq76mQKhWz3OVP_RG-Oi6DwL9Dfg0ooG33lSdu39r2Ttu0Z7YuDhIoDV11OVc6jEZFlZeB75BwrdMATEUnSzhvz85nYi12BSXaOj2ZLh0ds-Jpii1gIgIZnWZcapIkuiVxUvdNZRy32lXcRHw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -91,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLgs-wcQ!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
   - name: >-
-      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcKfCQhVGKXDo-f9JwRYOqAcEDZzYxK_YfaBtD4XHG-V5wYQo35TS0JU_PgsZ9MfCzRSc8Z3g9Ta38nzlMrQM1P42bItUnhK_N_jt3omTY7CjAurqBmmmeD8wRjgDLeXpZ1SznnLsaR06Jo-bAeRhWRTpkxYGpqzRiQyjuHLbt3PfSlVRNVsD-FdkWom6R9RG6yV8PMyXV-c24tnTdgrb4D4jLrzeK54i7KAvH8b-4DseRQG7DTUVlZBfwSGraCXvS6lsXFa1mFuo1jvG5TCyyFEQxDP81hlx7lY8HA7x8KwEgzYKZs5Cm1HjJjDEZjTiKJ-JbHJ9qk8eoQX-7arQ_yVRA2RLX_Bp-fYPATmsSYYJVcxJjfT6cHEfdI_efsiHOMt-AYQlHcrMWuA1xbhljfVmY3AkUaFhs4rxUmlWXVb6g
+      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcKhmx9MZ9WZcMCi9kyi9e-mz4E53mFn5Tv13xywP47bI1kx4aOwGCIAY33qhna261PuF6rHJGMO4tlt9pdbmn_8Gh3DuK5PEaOpnEwo0IJj6n3u1fxu8459YVGtQsT07w30kbSjWl4GK93U2WOs1VeGjhoySgewBiUPg9MyTqwIzKdygv5PKXLfBqr5_IfePOK-lmfwB_b1UZhzkKuwqenewGuXsnjJtcW1nWoHuM9EuYIn5Qibjkb1X7INWtRFtq22RV3XM55X6h4jlQ6PpzXpJbueDz3GjoEav8YVPigAun7DDgb2OvCXygVXNgB0cY00hyxbJm03Y2NSAdgBnfhHLz69qkzIjH-m4mlmX_NVhm6CECWqp-6oaIl_VjYT8EsdmRoJ0CWe_iUeSiweah1MiRlZ2kitX6kpiXmQiy1v3Q
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,33 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzvaDRQQ!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
   - name: >-
-      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcJyKQaLIYr9WTAKoiKiQzmUiH1d2wiryrRVMGbVtvNKVOlL64d280jw2GJaW5pDb2rgVIkBxeSGF3MM8Dti8L-3ucQuxxTN5z9Tk20tHKcKQfPSz3laFm4ZYUu5fgn5usgf4OpEiej5buIVSPtPIErLM1JDzVR1xdeQeea2OKN61OSysW76Tabey1ZGkbZJnkL_ki12PIs1oE4Ak_KQddFrjfHpd5eca8FT7y9FFhpky7Dd52h5ITiUvz6O0t9d4A9HIoE60pYdpyA7csH6hhetGn-lkBsY6HcFl_Qm2VD76J2qPCumXl0xoxy7C7dkQEapfokiH1yDkd-_tPibjOLJmdGH5s7IuzwKxO4SvymKYVkvKqDmCiMu_XTCt6qflX_l3KNnZBw2zcqSXui660Y8SUN7_YaCIUF9EoRK122SqPAzQhM5to2_bdw-JutE
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Mad Hatter
-        uri: https://maps.google.com/maps/contrib/105456295421565348595
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVpiK-J6K0TwofDwux29_2KZw-x-2UVZkwfoVQqQP9vAxw7Kumi=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UXyKuwGezvlwAAZ1q&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UXyKuwGezvlwAAZ1q!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
-  - name: >-
-      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcL4VndX8hA1EH5I2GGyvghfykM7Q5j0gLSYTlmfvcK1lRkDoFbic_-XeB4lClTB8HO4fnbVV_d64aNbnT_K2inOrmwfT5Rb8Soj3jAwd_drXkyRGVKs5vmMM7zwhUsqRQBi7yLEm-ftBT6dix-PNMKn0u8sYhoRkleOBo3i8VH83dAWmFbezi8IJCl5qMGu-VmxCX8ZTF2kS3e4jzfa7r4FXYpJ7q87n4KPoTc593v6Hra_9BRNF28Aa5THLeZh8vnV364pdkghDwJh_8PysWHFDTbOo9-QI8z6axdV1WMLJjxPa5jAsfZfG7fif7xSWpNzJ0T_q39O9jOTc8NvHVp4BsStKEgO8icAvo6Q2E6qoiMENQLlogrFl_4sMOc13VOS5W1rrIHSyUnJ-sGm_JVsGjppb64EnA4Je6wBv51GDKSX3DdoDMJh5NyVMp9h
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Mad Hatter
-        uri: https://maps.google.com/maps/contrib/105456295421565348595
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVpiK-J6K0TwofDwux29_2KZw-x-2UVZkwfoVQqQP9vAxw7Kumi=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3jU35CingmezvlsADFQO&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jU35CingmezvlsADFQO!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
-  - name: >-
-      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcL5RH-Rn0f-3CLNFqyh2mSd1NLdfnh1FL96EPLx9add71by2y-IYCEhnP04TBsJ0trozJ3sMNV6ya2YaVh3PVi0F_sQtjqi7wWQTqLR5Fv4H2wIS5ZF3uT2glP8xBkm0madPrHnn9AebgNXgZ471cyu_UErG1q86svNLOQXsv3hiC2zumw-fbhx2wOrRLzabFwMNxKH9yoMpWZQTGHCEBbXa4GDTKYyR0THpJzfLuPtqMPAnaTOjZbenzIHM4lQ5dd42Lh0OGHgVQXypMbDTDvUa424ct3Ds8N925Bf4YY2MYwPtqJKxGInpTcMiVp1i8viqJxvM2-vwZT4_Zhv1XjcxKJnwRboUBq4_UyIvvWJZYefeg9f4K00oQbe6RhDtUHMNRZ6-sjc4LGybPX3MbhYsKsQdOI-Z30GFCC0BldX6Iz3
+      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcIPi84v3XDXhQuWWNN3qeXssWYcvLML_92IhqgzxOyrzgEhgiwEMAifY_8aA2t2hBQ8zUR-y1gWzE5FzVjU0HREikEkeONXDfpPiYBOpSVv9dCsOsVgXxSo6xgFzDUSJuTy0ioeYHdxcOatzHwiK3K16X6aLbGLbxTFMswWmU7M_ySTUG66zJBF_IzVJbV7d4nqHOwx8_8uNN60nIVQp1I1AG9FvQVy_HBTy_cj7IAcV1K2zyJkeTaDzghqsCwXBJkQBdxzFeTv5ZJ-yTuG9dV2M-YkhWbwqUy7WkAqTLR-7F7anSvGTTYTXw1UpyVSX3aXX2orcQzrw7QkYSLFRxLKwgvTTPCQ5Dqoa4nUEanLrQ0q_AOuAEqfn6t4L06nK42RfiY9pEox1BcvHfcl2koervNUmOnwYZbIYAiMNxUAOVIB
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHqsuC6AE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHqsuC6AE!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
+  - name: >-
+      places/ChIJSfXhPed-54gR5flbxVwTdyc/photos/AeeoHcLwsP680nSvKODxtKhEu_2YWiycx34LYiOpN1-o6dqRg644AQWJ2uojZsgxsQDKnVT4sch8WwrGDd8MjgV1P4YaeKuJb9-4V_di1od1rFf1VF8vxFREWDGMSQltICBZvTXPXnZN9pkuGESJ3JR2KPGR0qRKDQg_EbkyfPjLWf8f-h9dK44kdmQKCrVhmfsZjJBM9k8um8Sz38Qald3T39sztxNfeV7SZkaANlVlKxYVMsEEdeShwyS1vloIPJuNWQygRq_gHHLsOYAFuM4pBwGn3HQTHy-_7suIWidWk2DtGwU3nGWoVIk0L21cQ3BQGVjQ_Af498qLekXfCWOtUWcsPIJpztsqu-Vd_QJztZYiimYERXbBfL4aAyka5K7BDUHKOg9qHmsue_gBfXk3-QS-_JVHQqSZEW7FnYi6KG3noG9Dp2Ql0QAVdHf1q2il
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Mad Hatter
+        uri: https://maps.google.com/maps/contrib/105456295421565348595
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVpiK-J6K0TwofDwux29_2KZw-x-2UVZkwfoVQqQP9vAxw7Kumi=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3jU35CingmezvlsADFQO&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jU35CingmezvlsADFQO!2e10!4m2!3m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
 address: 6000 Universal Blvd, Orlando, FL 32819, USA
 street: 6000 Universal Blvd
 city: Orlando
@@ -183,7 +183,7 @@ phone: (407) 224-3663
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '3.9'
-rating_count: 4531
+rating_count: 0
 website: https://www.universalorlando.com/web/en/us/things-to-do/dining/the-cowfish
 reviews:
   - name: >-
@@ -454,6 +454,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Bustling, family-friendly fusion eatery at Universal CityWalk with burgers,
   sushi & a full bar.

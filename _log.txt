@@ -1,0 +1,66 @@
+2025-04-21T21:10:03.384Z - Application started
+2025-04-21T21:10:03.387Z - User logged in
+2025-04-21T21:10:03.388Z - Error: Something went wrong!
+2025-04-21T21:10:03.388Z - Application finished
+2025-04-21T21:19:37.731Z - Application started
+2025-04-21T21:19:37.733Z - Error: Something went wrong!
+2025-04-21T21:19:37.733Z - Application finished
+2025-04-21T21:24:21.131Z - Application started
+2025-04-21T21:24:21.135Z - Error: Something went wrong!
+2025-04-21T21:24:21.135Z - Application finished
+2025-04-21T21:27:45.737Z - Application started
+2025-04-21T21:27:45.739Z - User logged in
+2025-04-21T21:27:45.740Z - Error: Something went wrong!
+2025-04-21T21:27:45.740Z - Error: Something went wrong!
+2025-04-21T21:27:45.740Z - Application finished 1
+Application finished 2
+2025-04-21T21:31:10.175Z - Application started
+2025-04-21T21:31:10.175Z - 2025-04-21T21:31:10.175Z - User logged in
+2025-04-21T21:31:10.175Z - 2025-04-21T21:31:10.175Z - Error: Something went wrong!
+2025-04-21T21:31:10.175Z - Error: Something went wrong!
+2025-04-21T21:31:10.175Z - Application finished 1
+2025-04-21T21:31:10.175Z - Application finished 2
+2025-04-21T21:32:38.292Z - Application started
+2025-04-21T21:32:38.292Z - User logged in
+2025-04-21T21:32:38.292Z - Error: Something went wrong!
+2025-04-21T21:32:38.292Z - Error: Something went wrong!
+2025-04-21T21:32:38.292Z - Application finished 1
+2025-04-21T21:32:38.292Z - Application finished 2
+2025-04-21T21:44:02.106Z - Application started f
+2025-04-21T21:44:02.106Z - User logged in c
+2025-04-21T21:44:02.106Z - Error: Something went wrong! b
+2025-04-21T21:44:02.106Z - Application finished 1
+2025-04-21T21:44:02.106Z - Application finished 2
+2025-04-21T21:46:29.793Z - Application started f
+2025-04-21T21:46:29.793Z - [object Arguments]
+2025-04-21T21:46:29.793Z - User logged in c
+2025-04-21T21:46:29.793Z - Error: Something went wrong! b
+2025-04-21T21:46:29.793Z - [object Arguments]
+2025-04-21T21:46:29.793Z - Application finished 1
+2025-04-21T21:46:29.793Z - Application finished 2
+2025-04-21T21:47:29.265Z - Application started f
+2025-04-21T21:47:29.265Z - Application started f
+
+2025-04-21T21:47:29.265Z - User logged in c
+2025-04-21T21:47:29.265Z - Error: Something went wrong! b
+2025-04-21T21:47:29.265Z - Error: Something went wrong! b
+
+2025-04-21T21:47:29.265Z - Application finished 1
+2025-04-21T21:47:29.265Z - Application finished 2
+2025-04-21T21:52:56.619Z - Application started
+
+2025-04-21T21:52:56.619Z - Error: Something went wrong!2025-04-21T21:54:19.502Z - Application started
+
+2025-04-21T21:54:19.502Z - Error: Something went wrong!
+
+2025-04-21T21:57:06.713Z - Application started
+
+2025-04-21T21:57:06.713Z - Error: Something went wrong!
+2025-04-21T21:58:07.834Z - Application started
+
+2025-04-21T21:58:07.834Z - Error: Something went wrong!
+
+
+
+
+

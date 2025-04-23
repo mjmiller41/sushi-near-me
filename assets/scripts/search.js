@@ -37,10 +37,18 @@ function displaySearchResults(results, places) {
   }
 }
 
+// Move sursor to end of value text
+function positionCursor(input) {
+  input.focus()
+  const valueLength = input.value.length
+  input.setSelectionRange(valueLength, valueLength)
+}
+
 var searchTerm = getQueryVariable('query')
+const searchBox = document.getElementById('search-box')
 
 if (searchTerm) {
-  document.getElementById('search-box').setAttribute('value', searchTerm)
+  searchBox.setAttribute('value', searchTerm)
 
   // Initalize lunr with the fields it will be searching on. I've given title
   // a boost of 10 to indicate matches on this field are more important.
@@ -59,6 +67,7 @@ if (searchTerm) {
   })
 
   var results = idx.search(searchTerm) // Get lunr to perform a search
-  // console.log(results)
   displaySearchResults(results, globalThis.Places) // We'll write this in the next section
 }
+
+positionCursor(searchBox)

@@ -13,7 +13,7 @@ description: "Fat Salmon Sushi serves delicious sushi in Philadelphia, Pennsylva
 place_id: ChIJRbkRtILIxokRnKrVYpaCpiI
 photos:
   - name: >-
-      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcLP-07LgWW6he8oC4KN1BuFtgatmthOnmqfh2KIuiZ2TLa5XD_qkXqgo6WzU1IjSzrEG32a17SBFTGSOgmVbNlMNM9VJjeqtMI5Yejhay4XpNyO2gxVTlzp8IbOJPRY4FdQPCph6Maqia-zcbvXWf6GUhsjj_t63GtxaHw8phwczPrvm6L5Hmv6lQdlHKib0F4aeoaoYsTU6pFcNllBCOT1l9mewTbhOCySV5AW-FUqm29MuIt3nl6qpgvdvFE2a6CEqb6iRtEkVJN6_7PahAZkpnpmp1jw_zNl-vBDWNz_wg
+      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcJnL2xdhD73JkfJS7Vx-dYJDBq0pUIP51bbzsl6gMgxQlz43sFEXf9qh1eLSOzdGyc-FrEDVS9ZZIlG7bxkvrwJQOc_OxILjunIBvt02gIgGwQRW8DxAfD4FSfWZy7mTl4oIASblXoRzxdX_zfcdcfkY7EiEzmlFPlu9mbkhLY9gD0Y_noB43PhRgFlPxVNfw8D8kuuPvtqRaDVBbfjmzTY_F9-0QQLHzDAAmplXSS-C_1NnmRlATvyy-16HqxhLziQAXKAOtWwlgeGwHbODzGl9dfM77T4xOR-UsWv9pbmnQ
     widthPx: 1440
     heightPx: 810
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM0yqVfAycFh2gUSyYQGRVawI27R6TJtx6ukadn!2e10!4m2!3m1!1s0x89c6c882b411b945:0x22a6829662d5aa9c
   - name: >-
-      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcIk_7Xscmr2TxMn-QGsbf6qHnPTpzspkm2IJ90Yzlv9EQPjXuV3EC034368_AnvTyycrHP2KM-Pvk8ciZIOMLexx_baVfIdtoHwz_1J4V9u68H1COl9oLs0Q4Ax9b0ThLAHzjQZcbYxlBA8pfONdRRx7EqOxotVo8qIQiPWEBgaFRm_GKwkgcp1FagZGP6ZOhw2lsnVacQRZyqsLM8ZGV7EY41jCp_AVNZF21s65faCazPMKCdYF-3HP9Je-zaqxPMX1L78S-kWR0pW16JVeq73mFMwwAbLCRvOp7MnZTia3A
+      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcLuf1QLHTApLYfwSE49X_SFRZri-5V27vekJwP2YNlEnFRGg8w-6FWCO5KZRH_g5QIi6QjipHNHkJ0ynZkonJiTnaq8FhRImIq0MhLl-sMa_haBkINS9NqPouVp9i3CO3G9z9-Kky0mRTx-9cefg-N8V1QDaS-l2PGVm50icGF3it3o5PG5KKoM0jwQhR8mz2TnmEy9giLRrxW7a5W90SLCf-ZyPIZ7FyRHfZFfIP9XQH70vAzyl0zBusg3IRU-wey6rNNgmsxgw0BwilOQHEqVQQHDJSGgfI1paOswfNDrRA
     widthPx: 1494
     heightPx: 990
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipODhk_6lTyLRnlpgGTt0Fc2cwheU2ybHsCRRdU3!2e10!4m2!3m1!1s0x89c6c882b411b945:0x22a6829662d5aa9c
   - name: >-
-      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcJFxaQCvqc5Rx-oGPtf8t_I9-24hqoslrv3JYhnj8OJv2507YafSLTZIx9JkSSUw0e-3khkOEHShbXNFg57kyNXkQaoPeOzfHL-C0wgrWtQ53m9V1Ppcuz4KlHWrvdVjgQwJDOc9ZKfsK_wX_h2Hi4MywyLqcVWCay_G2GIXeU0zwQCyF9VqH5ei1VlUeUQTSo3PbmxgquIRM31OmQy6laHypndRvgMXJcedY13B_U3JBGLWCV9k3ygXGLFji2hjt2LHk4sloeVeNqe7Kl83lHntasSV389dyAJ9QRZIaENdqgX-_A0F3r6JR40TlXYGhtt_Lici96PIDyh2DodRa7PoSuWvVQXhNrE55uF5cv1XcqipJMR51H-9u_cyecBWSx1ZT0gTNmgGkB7b_BZqoe9vbeuSpyGKZ-7hiGBKRPOD-hS
+      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcJvJsdUri3MhjoV5SK4b-Pec9XVxwdixFnWyb3M1rtRA0aSfkPZ4Tjo8TaicF7B5Urb2B7-YJ6Vzgkq3IBg4GKHIpYCw3YXXVAev13FH-mZ3DtPnxGo_p8l36CDsxU_0va_-HtGVrQhDPRvyAzDEhneNCgPl8b9cYk7XwnIOeCb4Q36EbuMdADsNv2lUZ8cauIMarUVxJssjJXe03lmSHpK0zuOJ6U0ZTrDrAzmC4rb_s1zfTsHQ3uJY5JIUTg6MCy8jgGDfpzwND-YUgxoRSCqq0BJWBY-Ex7Pl2QMcRlIPAMSVALc-x7noHsgDRu_fhsCNXidZp5ptcT7-OcKh3IPzCQN7OdS8ooncsxcJqzEwoR52D8oiuTYLP63aN_HbMMzHYq8WjpBirhC3ggC5CemCQ-2Cckk6_7teDP9fsqtwMZ-
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj2tzK3AE!2e10!4m2!3m1!1s0x89c6c882b411b945:0x22a6829662d5aa9c
   - name: >-
-      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcJ9we4jTsc1C3wK0yyGl5B56U5avVqJG3DrwA34iiSQgdW4GNGQ-YjNZaZEi3zR69FckztDDh-aB-5iiHMVEAYzur6Lfg0zYQy9i94d6h1XYVi7Will5rXnuoToph454UpAM9H7N6WmzifB33oZLIvGLsSXFWRvV53OnIQ7kkAqRFqRKmZyfsQZGKqtgHatdFOJTtKVDWJ5xtqByZIL32qv7wNP3_YwkGUZX6f2qfpHPXwZyWOR32IWiW0E1kTGcFktbpOWc2-iQtb0cqR55yylpZMXpoPGddu9HW8aTBP7XJXYOfhqshQonbJgnr0LuhDSU65Op6Z_Oo4x_CpoTdcBnRrjbazFMUTtRH2IqFHZHrhKFsSORI6_RlYPwGc__lBOsFKfyK09m6lwvmtzRBy7kJhqtdvcq7hx23U22SEa8fs
+      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcIrO44NYkvaLZr_FXbELWuFEbXwxhRzZJFSQY3QdPveUy0rOHsGpeCN849zKqgWPyTNDub5zqsqM2O2iNM7oD7x9i5TaAPllT4mqlLTOkHExDpwQGZ6ZpTp6ar-_diLzMdQHXHtQQ4vgwG3zl4kl31z3aW4eSqYrSp4M93q7UvJ83dsOgAo_mWK22gQafjHH3Js7Tmi7bv3kMnZkKTJfwVpGlkl8XFS5pjMSVrvvxphcInl47bcdBwTnq8q7Z_gi_2-XoZYRVB9FR8-DAMQHo7gXIFQBrvu18lcVpz7iklHhCyr62JjPD_XbuQGYDXv2Yv2F6tgFAV32QOBYzZU4P1kDq8aVS5Z1nuuUjPXvT0DzIiJCtDmB4M53phdtoRqW5Y861lEjmUaYzInmQaKbAfCX3OFeq4F9ycL-hCqw12WQf8
     widthPx: 2648
     heightPx: 2510
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHjtClvAE!2e10!4m2!3m1!1s0x89c6c882b411b945:0x22a6829662d5aa9c
   - name: >-
-      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcL3sD-8Q-znE7sRplxlnaACSYkNStJ6Na0Cuty_GpEY6J2TTkueCiqsYE3S5cNhTrPtqdjxCaviCVtP8mxW6peo4Ttunnt1bqY0c-Gx9IbIoTUANP52u7qwKzZWW5NpjoC8oUQm5jmRarNbz1HrspYTJFmxgY1dQjj5kEWBAcbLtx1PaYBx98Rh1Ze9nquUSRJFcuLVBkzj3B7bU1kyr9rSBWVl84O2KI0YZtJ4z-PdkOk9hgvoW4si6lUubIB5PVFRRnVBPsscwu7Pa8bPIaHTPibwPIAQLh9Wi57-paVYcg
+      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcI0w65-1Mh9AALX0_NJ5Kji2p_ijEbtmhvUN3fTAOCkRVONkOTNtS6XMcMB18IdTkwIYOzvr73_0Ks9LSW3AL6EDWTmZpY5czCpH_PuskfAck7DCR53JnKJoPtkiOj3ihkx2KhCAqYIlzYsPw1gl2wfYjUyR5fCIIsRrEZQ2ov4ae9j4z6ixXWsD3nyp_imjbQrMTExWW7IUz91XuGDO_HhcMrDWLbBnhxDqsL4kNjz4AW1YuypG0g1SyzI196juANDRPrrOcGPRAiIUMxWtFauIPjlXFNXwafAA-twI_ieSA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNJEw5NcwBrpC7m3v3poy5kFIckecedUDB1BxAB!2e10!4m2!3m1!1s0x89c6c882b411b945:0x22a6829662d5aa9c
   - name: >-
-      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcKT5yqsUB_Y0RiQ-l8Zo0f3uvbsjeHoACO3o4vRYQrm3gROTjg4rMvdzNVEAU1yWJ70SnrIya44itfZn0DNmPZCKHcLlLDzELupDWHSJaRMVrWkPnQtBdzBnC4ERHjkQtxEf68KpIMdVVfuVZp3kNe5lmMCQJ4lY0za19tpE3TfOqw6RWahr34CzzGBRW1PBga8fkD4AvTsNzrg4aKikK_NMXVQW-qr2rXJtgHGS2r6x3zdsRPRD3xFrrmtKrbIb3DDJLohgksFPuqP2zelY47xesjW07YZx4l7xyghuJ_BcNqb69i02iiPmhnAwsrgkgQybe_CjYEunitxTT3xKoWlEop9yWKzSt5kAIc7KYPpM0_t_fpvNECPtJnAmkTX4qA8v7cw4t4Hp9hAsDrKYewY7vd-KRmr8f85FyKXLTv73Bq8
+      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcKxr1IEvMyKKLDcmZDICqnEgDNcihsC40JASss4CXRZJKui5xthIh8d8yGoH9YzTKNsQ6Loblnj8pamNBuBOWBK-_i1_R4kyGj-1L8uXr3tCbrOv606Tq-LIlGGRiHqge6cq6OD7mnISf1gVdd8vdh8LoiLO_QL4Zp5KeIxfHmNd24a8a-DlUNGya7nhv9jOa8HmDX4MdvReaBhlFkr9rVdq7-9q9diG8UT0dEGfQm4uQCEDDvTwz_7tfJMTO4jOggFkeI_MXCinhJAbu8NaxvM5qof-G9ybjGhRjI7cKZtquIamBTMfOfURLkp-kbYS90qv3bIEUu464Mc_Pg_Uj02VZom8w9GgS3_tcJ7xz_wKRVc9sV0xyrsY5q49SgOvQvW3bAsIZPAcxn5fjx61YJIOcRKvPxcRm-G2RWSQF1izYeO
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -91,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxteuMqgE!2e10!4m2!3m1!1s0x89c6c882b411b945:0x22a6829662d5aa9c
   - name: >-
-      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcJIdWA8hrqhaOZtEz3q1Sm1uHFjWbA5NgLbLRMvnc3g4wlV-MeYAwgSWdMpy_h8iL0UYKsP6fS6-XfsLgXAor4TQcQrqnWvvdlV_lPg3oaZYwhsUajU4L2VUugGwQEcTc0h38vdTyQlT6ri7lJ-OHsdab8CSZyyLqOW6A7L-k5i9TVc2piWWo6AXV0-uWViwSK_1mrZRErS1o1_058ZIZhfxecie7tE3AemEsu3AniRxjN2ARVPC8_4D6TV0NEm-nzjfCsvh_s8gKfVUrO5H4mX2YVEvaDJg0hl523RXMoiaLPEp2iqx58QDjl4IdJuTNiuvLjMGE2jLOh_43yRyEnRt8DAltzH5npHBuZjr_xZqYCJvzlRuQG_ZNffcfj_77Zm85RAEA96prlh1AKqw9PWdnUNL58ReTU4_c46DZ09NejX
+      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcIK1K84TadQm8uMZWc5UybOTwu31YLVBI5gOS7uei_Tp8JS_V2Ai96LD3uItb7Cq5gmcosE3ee0skWaXXStQTptgCVb81wejhJSoFf1mpHmsQlSqnEluB3hz-Skef9ZSffMXsOf65LYSjnBVHDdfWiNLQQyPyutRg266eJGPSzWe5Qr8E5uxyNj_ssR7_Al4SSofj728Bk3UPj0FBtSYBCGY-2PB2kRSQ0FNWbIliHWX7BQ4C9H0rr6FeAhEtcVYD6yT5_Ci4av6qzAbY8BrbgotgEAX39Sn9CzZTuBvHYF8w
+    widthPx: 988
+    heightPx: 720
+    authorAttributions:
+      - displayName: Fat Salmon Sushi
+        uri: https://maps.google.com/maps/contrib/112356353862851658988
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVTMPyJCPB1O6eWH2hEnfc6DFzENOmf1Nfz-99XWUmXH_QJAqg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP-e2l5xczWsFRWyHhOaPjSuNNBhMTNagh1T4C4&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP-e2l5xczWsFRWyHhOaPjSuNNBhMTNagh1T4C4!2e10!4m2!3m1!1s0x89c6c882b411b945:0x22a6829662d5aa9c
+  - name: >-
+      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcK7b4tqzlTxkX9rxW9Ffwq-6Ti_VhKRdje5gDDOm695y6f3QRntvQ9_oHtpRLhsEbgpDdX-mbKAnKVNY-1YkHSmbaQPtlZpMAOkshuMxYpvCkPcJNN3bxnx4J23h_Joz01L6MdoH0s1Wa1ugYIBIFgi_0D5WNQAs50gCDME740NKdoZrdsneLXvVtz80mAylS6J6p7W_AXa-WlotCEmLz2LKHFg7NhcNNyqGQS0VCeehkYNvJDQIeO1oKRU_CqINy_TGjKyhN4rC_gWY9CIopVP8BWvh7afcsH4j4LPV1V4KrI17znBc9kESNtteHZRF5HsRmkNQHCcrkCFzOd9tlqcr5trKe1I8ApEM6926i0RcZ0Q993OxijtPl0DI8bHfI0oZg3bGmmFiEfKYCB0ibBhIYNiVS97rGQTLwxVTiGLdhDh
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,20 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID94fzjwwE!2e10!4m2!3m1!1s0x89c6c882b411b945:0x22a6829662d5aa9c
   - name: >-
-      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcJKDlVcCKZq1lm-vejhTtway0QFlUqJ0UZoDprHW72al2XU6q-rrsM8d4wCmNXUIvfhcGbwRN4wUsPudWIEEYAxOOuugyWNTSIrZkcSSwKQdgLAMXTjRxR2NUrSH5do5Qfaj9IWdHneE77OvO77xJw8jk4uV_nR5P0jmWhnchBgjdIFsIR0GJTFm0B-SDn3OSCLTDBysKwxvl6UVjRypRzQWw3VfBxOMBXyJXx49r72FUR6FDO3YlhgCLIoDjaFh8_fE1tpdCxeM3kuaKSu-UOGcWVmVqXTtENNpTTpoh4ckw
-    widthPx: 3812
-    heightPx: 3300
-    authorAttributions:
-      - displayName: Fat Salmon Sushi
-        uri: https://maps.google.com/maps/contrib/112356353862851658988
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVTMPyJCPB1O6eWH2hEnfc6DFzENOmf1Nfz-99XWUmXH_QJAqg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMnjuiwgaNnPm7GImf055TshHwgMCZhwgROITPW&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMnjuiwgaNnPm7GImf055TshHwgMCZhwgROITPW!2e10!4m2!3m1!1s0x89c6c882b411b945:0x22a6829662d5aa9c
-  - name: >-
-      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcLH779gg_ESJv0G_LAZImk3reYTTAZAzuB2x0ANn-y1V3VcaOMwsKI1RWc730KK7gDvFcSus95rD3A0DlKcCRdULUJd6LaBrVHFCUHl16yVCa7w8_eu8yV0XzAxwxxWXXFWSli4wJR0ufcGy5AWCLV8IIzWSXU4TrL5AH-dZXoOD1Y_wcld_2n_AgYIXfOKihGtvw_dNM8HgVF3skKyl6LXIIJPc9tG0UYa54h4fQOCComHsl5ufJ8n0ULnaePrLOXl6IFkzdktc-KaiX9UNd7NJ99Oj-PDu2zS_CCy8PZMnA
+      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcK7vYgUsdDCazobCc5S1K2uoh87XJjhRKietuQ7fJqmTuUQZfhVM0g_aAFY5hTF1MaRuWUn3-_Ft2wcGSihIFfT2U1HyiLLrlz47cT9PD2slN9-9keRH1uzPrbMSpXc5lMsu0fcRghOVvl6mDox3SsbaCb57fqooZkAisCIHbx1HmzIfjdCH1MJyrY9-3kyjbYXnR60KVE3-ku_tWWs_CcmxsuV_Y-NuP71oY8UYbvXiBYIiYXGrZaRrFAgmeIxFjLXqnqbDGY172e8WVSw25hAAfv3fAd37jw5nmvyxgCLZw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOgnjVzTHMNxlR1LFI9SwNZGL6NxuSyPW508Vu-!2e10!4m2!3m1!1s0x89c6c882b411b945:0x22a6829662d5aa9c
   - name: >-
-      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcLIeA_1LukudRRjpTYUwp3si14ZLcNQ_ZoF6IHCLROwl6XvH9yLx-uFvA8Wq_xoNVai5aoSbfSwUFPpIQNKIN2swzNPX_M9_QD4R3WlMkSoSy1vOWDcQ2_PWj15BLA03sUYy5oQPalqmC3H0dyZSAPwh8ZNTy6Q8g3zd35z6ZtMVCkpF4_cabPhXvaVV_XoLCPT4DqMV7EE0BGxXEzOmYCm4cOS0HX28Y1SBhHemRt4t9BVN8hktmNwVfV8Dwmbvo8O3OnPESCzAi3v_VJV5Fu9xQvj1vL6ClAfGQtzRYCHiB273GItckH1mfTwMx6ENFbtYWTiA41ZJLeXV6H5OESClvLaxrSpYWn6tGzpD4Mu2-9FLT7gyD54CVXVIEyHsICYXcTIxNNf1GJXQSgGx3QUpkYfZqEcuRtCsSB9_gig6iE
+      places/ChIJRbkRtILIxokRnKrVYpaCpiI/photos/AeeoHcLz_GaZePy7L9jw4j2VQLGm__4_-2vKq3U9ob4W2Ie3M6WtK-Nh_36RG8u99tsrVnJBSiaYvdPIuezZenV4wDG6Ot19uZfoz3O0rz5K5tx22J2-oE5aj8v8skxIKG3os3a4HFjtuvJoLsSo3uLchtmuO92gnyTdX9eJ0BRM9a1bBvq7ldZ_qK80SQdEgNJCgThk9ESODIxDYLXRwRbkBE66WR7_Xbm1aL4ISPfTM1_5aOqGn2Y-aQrn_j3whXa0bM07lkDp4OeacFFoFQP_jiGvKoivGPbRjA0m6mCkJlZt-3PKcgkIsfZvhSKKHYW0QECSehgXgDcqPk7p8dDdiwNlEB2sAkwKkdMv6p-sNZcnGvD-_V5oJVxeSXmtcJcQgXLMxp0fQzZ_gvx1l121pH9TdWNb4t5wG5V3D5H84cLZcII
     widthPx: 4608
     heightPx: 3456
     authorAttributions:
@@ -169,8 +169,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6c882b411b945:0x22a6829662d5aa9c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: Closed'
+    - 'Tuesday: 4:00 – 9:00 PM'
+    - 'Wednesday: 4:00 – 9:00 PM'
+    - 'Thursday: 4:00 – 9:00 PM'
+    - 'Friday: 4:00 – 10:00 PM'
+    - 'Saturday: 4:00 – 10:00 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
+  current:
+    - 'Monday: Closed'
+    - 'Tuesday: 4:00 – 9:00 PM'
+    - 'Wednesday: 4:00 – 9:00 PM'
+    - 'Thursday: 4:00 – 9:00 PM'
+    - 'Friday: 4:00 – 10:00 PM'
+    - 'Saturday: 4:00 – 10:00 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -182,7 +196,7 @@ phone: (215) 928-8881
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 604
+rating_count: 0
 website: http://www.fatsalmonsushi.com/
 reviews: null
 parking_options: null
@@ -210,6 +224,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

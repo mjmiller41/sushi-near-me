@@ -13,7 +13,7 @@ description: "Hummingbird Sushi serves delicious sushi in Seattle, Washington. T
 place_id: ChIJ82HkJwAVkFQRTVtFMY60XvA
 photos:
   - name: >-
-      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcIHIbP3qPKJprBpoRfj5EBb0pCUodlqME3ZnbFBH11IvVUa4KjfIAzeLlb2KDix6Y4L9i-v6xIPosjKxXatUdJM0d0wa9eNbw8Mi194G0hNb4-Df3c-mHwWqlOVD3ZbsZSexIhmuc5mknb3HYkWjoFwy4813S87DaoXs0IpFUTfnkoX7_aGSxHGFyEiC-Osy_M_nEd3JOEBv2NfSZdvDGYaK9ynNyzSD7uScrnrPJihogVvumQfH4x1k-GjpZZB4s7s6yiAd_MK-ubq6xR560lW8qQK3f9ba1MutG-0gtUs2Q
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcKUID00pVasja9U4xKF6Uqfq0UECRVvReWoz1_veyeFWjHsLaTMkLRs1lnNfrMouDl9I6HML8bEhe-LXrplWeuSLRq9_g1RvZVGJOsRcTN5LQN-qrhK1iTCCQuiPIdg7l6mYc_ImH2xnSrMUUO1cO0IT6XmTCNXigEL0BynEsMpeOCmFszgxQuvSgcOUKUfTrAgXNi_jwgBHWqH9Z3NVq2WdABkmdIgcVr_Rlre4g-wZci87kXmHQ_Au4Shsx_sTngK983-_FZ-Be5YKMi1XGTqCgLri-tDAH08n246qggR4w
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM-gTtn1XpRPIYxF0rT9N61FG-6EeE7aGJHpmKw!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
   - name: >-
-      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcJQ-752ZqET43M_t8F8URMXMx7udOeJWgjCf2DmWF_6HJ8l3fMplgHyf3YAlvY5tKCQQqMvbTJ85BQpTDJWbrSn2TmrOLejL7KA_bjj5fgFIE-x4JD4wSQb_q1Bw0KAOrLp-v-fUyDNTfRxoakJJswX_MO3DsQ-RT1NEOjfNzTXehTyakxUuxZtRoCM7ioat2KB9N4lIRIn1YC6i_A4P3d6so9elyDxhP-VT2IoUzbzWUO1z-G2bPQXrqL3eml7AqwfpGpKeyYkEHYp1DQm4cq69EIpgFL9iyCCDLgVjjNUaw
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcKyyX6sO1e9bzX-8lj6OR32dZobRPq2e_rh9uN22LKD4Y7Y6KzT3Z-i-zNf2DqxV_lE4LT5h-jgP5oeJKk-ILAYKMgi0_f8qH8E8zCjcnUsnQ7m5sHW_i-Sw_aqdJHJa3b7_spzH4ZJM4QpQeg_4Ue6LqpP9AsEPgJhOxSUiiw2jnclznN6ehPTkTolpy5HlZrVV-F2AEO00pAXiD3Ju4o_Z2KZ3V_wniFdQU_uYZDkmtv3MeIzceQJdZFViqeW2edmyq3cxshfHtuF9OTWjZaSLg3mgS4trTHofdps2Ut0wQ
     widthPx: 1400
     heightPx: 933
     authorAttributions:
@@ -39,33 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO0IeX2__H29IYkAaNYoeU3egFthVYqpKI_pF2P!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
   - name: >-
-      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcKcTpeef5ToVSGttOgQQXoAHE9cHOMVGaIqBz1x_GhcntRCtAD5xFTx0go9ssm_EWKc0LZrgFChqOteRo2qCxJRyiXVv18fHMYKO9Gu2CalueR5w5KATRUlNS0CyS_lqniZEnJn7hknASwdfl7VAXWbgzoBBFTMlndBbSGry5VlFW8tNfqZTPp1pXEzajjh05tamLO_rLSr6XHQBz0qDwbwLJZ8lI4BUyrXOcu_PH9JtnmdLwWPLIgu5v3W9zm_Lzm9X8dSLk36OXut-Dm6ZfT2sSfcv8ockmWEiyMzC_UaEw
-    widthPx: 3199
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Hummingbird Sushi
-        uri: https://maps.google.com/maps/contrib/107364252327831330485
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVMjil8BeGd9P7Q-TIzhJVpQN24geKPYVzOek6FE_fqKv0vgJo9=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNq-dkD9hob5UjyPfS1xEtOJzSS8ecnI5Av7PO2&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNq-dkD9hob5UjyPfS1xEtOJzSS8ecnI5Av7PO2!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
-  - name: >-
-      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcJE1TUEb68FqURtoYW7sJKIsyI8kPCYzUAtBzGR4NlvSeTNM9JcP-s9oAI69t9fCI3AdxSS511nWtUODYcmt8XJCWGMtmodCipo4Bqqk--7AJIaL9G7tJjl65P1ThhHzvqS1PE4ywGaf5O3xUyG1EQAKxbUolWVLec0T5NNLEa_yDwFmBRmWQH8tDjeOParqZDk1eB5eb0IMV2eKcbTWzp35wcuriKjjpFZVGDM7B7H1KLPCt_wWj-Rt9qgT7Ej4NYtzEfblIqckrFh995XT1eT2wGtU5IOPXkd2upGq0m3K-BKUL8GV-8AhA7GydQwFu3iIU-RMgIzGYqv1lyrLLbX8NQUhlQBTbXgGBlQXx5PyknJaWNtTkWhEbw_IvXe0nYqWHcfx9z_tAWaHO5WhYt68R3MTOhn_TE9rO-CHxs
-    widthPx: 3699
-    heightPx: 2516
-    authorAttributions:
-      - displayName: Brad Lim
-        uri: https://maps.google.com/maps/contrib/107893109822250287599
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLkUYPczyWulEw_W7m4UoVd71ydyeHixy9Q-3Uq74tEpR6_wJU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDP_Nb8Hw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP_Nb8Hw!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
-  - name: >-
-      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcL6RGrWYZDk9a3_cG62x-o3h1ip5ZiCSjGy4SEJ6IbX-VGrsAmUXJf5lGDeP_H2lCycZhUAHAGkL3NDd3WtH0piocQ05aStwE2Xe8G33w_VKxUUY6_YWRzCT5dt22IcoKU7nltX7hQynjgMvmLJzy3TFxJBFBReqQKF5u81gYwtJy1cqQTASlILc-HFVAcaf6cQB6AbuK5NZz4ja0ce5M2IaYlr6z6J7uRf2Jz6XzFtq3B1fRxYoYeqM1BHa8RFPnYCM2_RQtYOgdFN6JVh_cAuXcxsg-77SEUlllsoX9FLog
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcIiCE9dCCIz3p80X_UXcYKH5_SWWpob7X6RHSDnLfjzJ9i4dMEFf1ix5SLMmEm2n_JXdH1Du8Fnhmt_zX4_N-9PE4D3MUp3UwqSOfdi2NfDlWsWwK71dss8PYBTx3QzM8tLUJRHRHGK0R36GOIAwwohzWhDPnOjWS6WMojmx457U3NIZp1qzCB9yQx3FzX4L0QUcsqavR_tAfLKPM1Pg3vT11EyZHYPr5b4bPhKGfHN9fCGrKgxfl6L36YtofsWNFZMrcMsf_esnTM3q4_YjtZXaIDzakcfK4eQg4rdt99EXg
     widthPx: 3199
     heightPx: 4800
     authorAttributions:
@@ -78,7 +52,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNMdtOi9X6ilGnvo9wgH54Tou1KjcS8Q4phkDRJ!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
   - name: >-
-      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcJARoYQgym_AwP0N3qRHwvLVkTqniLqhxOPvBOcQbDp12vv4uztGfLc57pc95TXaRluxL99ilzJDfiESjLYS1GQBYsflFWeV7Aj3wCP4CFycelIAN3LirlWGIS_gc7SaWpPsC79jP8TGZ54RwcVpgOd5z1zxVWjQsdetqOHRkYVauyS1S68B_Ahs_PIuWa6czcwXKFS2zELHHco-KXZkczgQWr6f8ZWwEmrHjXLVHD896CbMFBlCGgycCdloXzCrEMncg0cCgkQMzQ9YObFlK2f3NYx_qfIFEvebA9egiVe9A
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcIRxYlWTo-c_Qcg7wi9UOzXQ_LNxvNqszhXs-0tEfhgHUYGM0S9tNIbn_7ZtTAIafq_yGnXeKZSIVaU4ScOzcbt31mWTNO9qQ64T5FnVvs58t7P2o5aBXBiAYnyI3FxM4YQqKahau4vvYWHMZ8DmaiDVuSVHeIzb3I0KeSAipyPEZ1zCUKB9uicTC_D0AsnTpBUIKrB84Ugj5SEUXD1BA6Mlw-ugynE2An_hFoH1jj42YGEG5gmXQ6QX-mkTttbnhGojswiBlP2qJ5fx6xwJsRAqMfrGNxCepQhcz7yeOOxZ1aDUpVF4Zrqeomi5Vf587b0u9P8NTb9PfTcmWyZFeXdEXo7n-sq2e6OZCAZMNFTWQfgEnbr-72DRWDOBrk3fn2ciL1p4Lyvw4ZfI9cyjkAdCu049CtuovLS-IvSpho
+    widthPx: 3699
+    heightPx: 2516
+    authorAttributions:
+      - displayName: Brad Lim
+        uri: https://maps.google.com/maps/contrib/107893109822250287599
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLkUYPczyWulEw_W7m4UoVd71ydyeHixy9Q-3Uq74tEpR6_wJU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDP_Nb8Hw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP_Nb8Hw!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
+  - name: >-
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcKPLo_x9rYHZOb_4ADbRmnlBWila5qAjxEFxRiYEBhMOELKVm-T7cOKpGRO6ICBBveWTgCJaQDlfmFmU7JL88CjZT9jDK5Dg8ZTLoH1Z7w0B3JITL-2n5bRATR9KnWWyEz7m6yHOOJMiKldJ-WdhwG91b2pu1W52SQBKI6tMbM1lkqH4tq6nnsb-liEl78m5rUTlvR4UdUUn-f8VPSd7FpiID0qxsXgv_wfCd9LAlMBl2j52UGISExAVEZZ_twZmV-j7DJ4XgWdOXs8xomdBFkTlw9p8XYaQk7p-1-5kEFAyg
+    widthPx: 3199
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Hummingbird Sushi
+        uri: https://maps.google.com/maps/contrib/107364252327831330485
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVMjil8BeGd9P7Q-TIzhJVpQN24geKPYVzOek6FE_fqKv0vgJo9=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNrZeVIxvyrGD1xeg-A8WMSlQfBQme8MwpcSuOy&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNrZeVIxvyrGD1xeg-A8WMSlQfBQme8MwpcSuOy!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
+  - name: >-
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcJVTTkk0Z3Ngj86rYs5_YvMMuKb-ptqWGk3mG30jQYIXk2fmFdix7GxrVqKggB3oLxBFXvDb_PP0Ev1B5e8kxjxumH1q5jBnilnUIdzmpKe1CwPao3uDvFxdVTyHhgdYqrQaNBuVcszhPyFT3oWjtLTPc_c97B4-sy4yQwv1C8hcYFRhroH3fsddrFCenntL0dw8ZHTVSf_BV3veRf3yvo0xr4_n1NJvvKXJZt7XjSaeoqQSnGAL882Pmrhz2B7p4-jdDH5yCJfbUQ6Gn5nT5sjnPJ_GKz8QkzawQXvqSSgOA
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMHPTFrmWg-gL0c6LkSkE5op6z80wOBqtb2MUlP!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
   - name: >-
-      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcLYtnFpuErgjbi2EWmaVzBDZk7x9g9TiXk5zWUfs4RkXbmczKIimDIX1Bf5I59I8A8aUKx3i6YRIkw6xDd1uYgKrpZhXyizqO96l1yQ4V8N3609Rwg5gbXUafsJj9Rpo-n_Mt2PABHQUgMWrK2WKCHAbHbhaX8dIbPMo4QHdlyeTcszd4VqD02HGJUkdUVhX_io7nY3V2juJmfoI7ZAL48zMDD8cff_2qRN56DQOZs_aCmCkaqd715M7q12mhIQ8PqxgTYKDJl7w9Y6dxBVW_qEcCOdrabHdEU5SqYE7rsUbg
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcKCTVzQZ7Js9KQi_3BnF0QfvJ1tkHr7TGBM8qWt8dvoOoweAl7yHja22KEe8e8ZaYnieHgjnQNw96t_HgbAu-inA8qYss7iCig1iXDPEe_0rEgOuzCIILzHmkQszLSS1LfgTlCnvVEbqduB21aURkaAnGRcAFCONPorNwevKhudeoyS_FVx_fJ7aa9bJcwWHp0iPRygJ6P4ixe9lnPhgTcAzwzAKkarFKZmKYvKGfRSM9fmdWqfTX1xbyRx1clCKSrw9pTP-DzcQn2gwR1UEn5NhapP2_0RWajNGHU942HviQ
     widthPx: 3199
     heightPx: 4800
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOz-ldtyUrymmUM6RCiu5y0KGUAcKbsQft-3Fcj!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
   - name: >-
-      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcKg_ZmQy1NEA15WY4DJ89ESnqQeBuacnHGp0fpEa4hPwWnJ6P9ZD7lkQUtFIjkoKwilE_ER04XDnA5nTL4JvLJ6R9W4q-TWCt1eIam0UGLQe9sJX3WgAs0oRJEE8lbB_JUwSWv1sA9IFJgnau4jsJfK_Hv7eerMIysUJRsVLRLfCdoJ1zv-i9bXwuEIWX72VgSzz_OSI60b_ecZ99n5H4k7djyPCrZVppLy3RDmsMl2uLxAs-9oaU_QACMGRA4F0Uem8iinq_PUUT9L45lQXwY8VeKf5Y1RltAuZEfGaH87bg
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcJjV-Yr7jShOAEM72qV1OHdctIrHmimNt1OqUCw4GRvA5oYMoxlvdFlkiOMmFO-BWgc-AiA7hBbSCVPNg9yZWV0NSoKGUYg5bo5EThXWH3eUdUC1mkRDzt8LuJloeUDFY0sXUzUrMMe_pZYVSkUx_SV_9ceK2-U3MTONBidDC04BW8C4buse1xvG-tS-bpJ-It9luA74FORNePotUqaNSMu6AwP1CRmjU0dg6a3w6bQbSbxnrFUeKooAory9gVpTlkxd-4QHDEwYo1hWiIize_d6UXA_H-lYlK6MBAFgajYwA
     widthPx: 1400
     heightPx: 963
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNcEoS6DJxWtrkfEqHPaNbRICJWox3rXj4qQVDq!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
   - name: >-
-      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcK4oj5Te-Du25gdTJQ8p7C_MhcasSO-z27WbB13NxAzkabusC0043N1YagY-LSTkFm4VkaIkHr4wm9eyp0i0wVrQ0fP1YnE4mCgw8diGzO-GGxctWojgRYdyYaJqx89OqaKYHc5iXsXXI8y-2WaK8gFRp6Ok0-WI6kwoGtI4HjCykALCfvRWT7GXtWcvtxfO2iquE4tf5Ma4lTskY-geqQvZzsD2RXILftBxukENTNIry_aMMyVqo-JGzduqQdkrW5IYVszBStoHipt1hmSH6ctfA1Q8j6sz1vv4Krkv8VWnw
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcKYEHnD_VF6fwAIpVjs1-XT04LwpV3kzBOthAY8rDPgkyc0vX6SfRP5mhHw0OmzfwfoZYxLdRfS4nH9xLBrsEOwMpKOy8yS9aELneX7EdXNW4wkP_qohjqsYgq1PoTWO2C6HzCeUtRfK5AhgsXE1Shw6tu8NZ5y7fBQlj0lwRryT6TBC66cgLZ4sEf2wNrjm4P6B9RV3IBJq3EXBPXewdt7Tio64UW94aVofHawTnOuHinH5zV-iNxqHZMKsQz4N84Z7nU-id37piHeq09EgN-sCfDYRSsKikCy6vebqAaphg
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMTNckQIi8rYvyr-1Hyj8-heuTqTJoO4eKqDmUd!2e10!4m2!3m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
   - name: >-
-      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcJgbmP-h76fD-xVbGPpvbJoCe7tfxP8fKAA3fNJa9J1wh0IohEHWsJZp51ZZhdm51dnWJrsEqUJiuEQpnTxJFBcR0i6zQueny93GeytvBzKi8hKO01ocW0UizI01Jg-Ny3EvqwVvlTbmZycc30KRXi_oOZX_o8eAculcCoZB3Khmk_nPlOSlgA9HSi2xBdN6YvovHSaQPQ3xhhM_kwOg9MRk3h3aAroVJJ2nhZoylRhjoo4eeFbFudjtWxAUdEMc6q_L3b0qxNYdBOZEPZVeQ5A42gFGytBVSMG71HIFahCKA
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/photos/AeeoHcLISW2rE4hIi4OmxKyLMNURtHIxlF1LyNGJ-SrDNB5oEt9w3XpdfPN7Hy6wy60j36Bidx09H0pxA3ZAegtDUHIKJGdqL35tk3LLYcerEOt9XG9lMyVe9sY70WbespnZvJE1jh37kvxTE_Zthca5CrgCZizk1viem6EpW6lQmkJZ5xE8AGWupV7FXsCdcRBez_V9x2uUkhS1vIBVRSU_wIRSPqTN7qYvaIWX3nA4y2K-wjOsPxcvQ6VTsf4IFy9yD6Zps0N9TL4s-vOlMnwcPBbJShC7MNkjNsguGjTK7WV1Ww
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -166,8 +166,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490150027e461f3:0xf05eb48e31455b4d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 5:00 – 9:30 PM'
+    - 'Thursday: 5:00 – 9:30 PM'
+    - 'Friday: 5:00 – 10:00 PM'
+    - 'Saturday: 5:00 – 10:00 PM'
+    - 'Sunday: 5:00 – 9:00 PM'
+  current:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 5:00 – 9:30 PM'
+    - 'Thursday: 5:00 – 9:30 PM'
+    - 'Friday: 5:00 – 10:00 PM'
+    - 'Saturday: 5:00 – 10:00 PM'
+    - 'Sunday: 5:00 – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,7 +193,7 @@ phone: (206) 413-5995
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.8'
-rating_count: 90
+rating_count: 0
 website: https://www.hummingbirdsushi.com/
 reviews: null
 parking_options: null
@@ -207,6 +221,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

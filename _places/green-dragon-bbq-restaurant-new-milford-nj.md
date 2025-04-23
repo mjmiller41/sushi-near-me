@@ -13,7 +13,7 @@ description: "Green Dragon BBQ Restaurant 绿龙 烧烤餐厅 serves delicious s
 place_id: ChIJh45XWQDxwokRnKZPEH2UCPI
 photos:
   - name: >-
-      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcITqI4HzQhEDmF4UQzM09AkOLUV_nIuwd6cWVMH6Fz7p8WL1AqphEmXuHtiQ31HJoKK6Wui7LAMyOFG1Fs6Z3Fy9rL3lmJlaNHotiwefPWx7ZTccr-hl_2lFbgCTccdrVcPFOA1GKttTMllygH4jchJydYIeHVIuaRB-TCmoQEUaNYYvlC8KRIQWPc93PFglHWTq2k5xT0jI0AWhwwo8lj0XlguUQxErnqhH4qiThVXUOr3u7_Pr5ZC6ZHZgJetiboyLwlTapG7INxmndoqtWSAMIFJ5nBD799qR3NsmMy_mQ
+      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcIIgz7s4DrHRVYlys9Wtbzc9wJX0UqGxgk1XnjT-pEBI1yFoNVJka8dhHng8RCdCgPwievfLeMj9tqYP9Q7cM3-bwciCgQP-YLvZGeG9gvUelotSAdSC6a5WzpHTvKdsdB3fS7_nfASpUz2gwNxDfrGFENUGHJ8bDXk1oS3zZpz8qtdNQsuTl-HK8uMVH0NC2bPCwgs60-UyYn3JYrUosZnqtBOitoBaC2rPj5hnSHq6eDYTEWtBLshUsOGxvpjJnvlMyb8EIz1d_MVHxpBjEwXYF7vFQiMG62ZvU36t4mMYQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqT8YcIOj5y_9mJSMug7zLSf9_aEeZpkZ_Jiq0!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
   - name: >-
-      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcLNfj3LaxjoRL9kcCnavtvIqlNMO7A_MVz1ES_paxVTEZFIWNTtcFonxPw81-AvsrQnudLNSqWaQfF-RGkuMZMPALXmFrvEMqsqDJV0cWebACX7f_gui3zB5-bAWR6S2BR484vGm-rvAv6O_LGtGDQUJp5ph-9gjhMfuboheuRgKGIyxJBcsoQzD0419CFjxC75OqnNqLfsqQz90Wer7px6vtfHcd_qk_VOkxALWtjigEGLHoo1I2N0rwARU-LEuqYQY9PdQFOEl5tOYhY2eEDdJl_8sDikePYgL6P-j7hSMg
+      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcKOKIzGi91gGaBuoC8gyeeyLHzpTXZDQdJ38Lmc177MRExwWiF8kxJSU-_-tPgwUa4tZGZhZUDS2mOlT93rzbj8vksdUUgu04mF40tSnOwKOx8_be0qMHmoUGkUP48C1Ei_nEE1bZ387cQ59ma919dD8K3Tt2Keds1hbKp8BDgU7TUy4alDCKjciQdxXDgK5Iv6fQZY1gKxkaSyRUaL9wzMJ4GKfAiuwjgzs0kol4JZ0IHiNfNfpdSyxLt0hoV0z90ed56ikwiYajf50ARlZON0kSYZnYh8ZPThOO756_wFSw
     widthPx: 1170
     heightPx: 1146
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPY-Y9YMb_SmJ3Q-Hduq67xwf9ROG-ZMt9kLmfz!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
   - name: >-
-      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcKU2_LrxrJgpfLGZH7OffUHjrR2-yYlNcOHSSRgryw2KEbaISqBhRWdUqLWwGRbFzTGbA4Bk3mjtrJ_H71DDDsfePiAvkBhzaSarM8I0dWoIa0-6R8zZcirRPSlRDP0KNh-EQx5sS1c3FPgXdy8fmPzfyanj7-lirjYoG6Nd03azs4UlAM_o2ni6QmNIPa8K9lw-Q6lFV8Jx_sv5wXQX43_5oHuu1SXets2FubVKQXw-Sgn20O-V4fKhD5Uy1c8o4enJ5PIY_E76TeZlaD24r73v6YXIon56ocnIJT-RZMnVg
+      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcLzQ2z81S87mnVmKiAit7OEFckfGyfQDIlWcEPzPzPDbLinKZzG7E_TOJ6FQ09RAJKxybdHZ5Fkh-9hPcyPCW6b4fEk9CPMVCsU85A8hPQPzyw3LrC3I9B3z_hLm6kb9mmOEjnzBH8okoyg8YdGuV1nzzjBbP1iklesSeZaUHvHNJffSJ76y6e8kEgEiJDXGKJLAZYa6rPXNYv9BauatLMleEfwm9EEJOcIDZcvWrvKbmxpIBwdJbypz80RQgx2H0BJo-JODrYIqoyxxtDJrAwfgVLl-8lV1i020oU1ucQnaQ
     widthPx: 1147
     heightPx: 1162
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipND3Bbm763zL37MUhmv1Y0yJ09qe2WQcM5dgMCl!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
   - name: >-
-      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcK8nNoqb4TVEckVSyPqmGy4hmz7dul70seTC7jefI-Vvm0t0_4BXQYrulUo7sdpvkAOlXCeuQSa7jJytY6MIrv4gquEnuOtoAE_C-96vcDHiTHOjEmU51C1UKRG1yFZ2YQvCA9Bhwz9m-8r3a1VnGymxWCBuJ4B_X8_kHMIbOnAVWZEJFtyaTcUSP1NGLcHLf6q_3BHmOFh7D4U8ZxmJIiml4iQ2RreSz3mBzlLlP7XAAAK4b3EKmqo8lJsAeT3t6io9E5nqwTtAuqzwd49qCcpnyJh7EFA63XzYt7ydyRsWgbzGMu7ULMKJLXCOSTp4x2p5PYqhTSTd-Rs2zIVHrCDrHQs-ivtlTXF-R0RmnENcS0uGU30HG-MfywHUK_9DejmX34ysvHXZ4Ppact0VyrJqrA8o_AOnZ1tZxXoFm5q5Ps
+      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcKSKZWcB9SozpvFqrxYWcJC898YucWG3xN0gUbDFTSsb0qn2d0FdqF_VamNEokD87Hhjnu_J7LCTaIE253SzgInj9d0y_DZTvh6atkcGP0CBBLKj9Kr_L-CpKvJmlwf-ridC7N_UYGWzJZnKG7zdMczCimBDRIHMDFmfjvzBusFB_TuOcruSEXOAYsPuUj8ZaCq_U9d82paC5ffBIBRcXKD0khfqO3oKJRF8Nb5mauXV1vZa7hBKx4CSm5UosyE3VRmhIkfqs5tc58aDMpmm6an4kaRKLvQnSaQWi1VbmaEcYIU1mSeFgqO9g5d3YbU8hbzRcpBB2EL30cSH-ojJgFFOx2v-Gx-aBav2s37q_7haIQYak037QWuXE9odhMS8yvjNceRwR8fwJJpnCcf7iTyp_V7kc0vYoPUOtfUG1IBBnY
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI883TqQE!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
   - name: >-
-      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcKG_TwAZsl4l8vEWJEk92e6ddADp_EgrVwBYCFphx2ZoqhvSkCqPkAL-59Mpms0XoWyRRqenEEUxvvXo8spte9iroHYxJT4n-fmtAVsuX_y4L1YGS14IXoWchK2yYVV2lYJtlOiOvCneD7NGOALV_YLZhmZ23avLyjps1xC2YgEWkIKEX7oJdlEd7dB-pLVO_0Gdq9G5LJv7rf9iNqUps6dHPH0R5wLycQ3RxRtFY0mWFHnrUPkmbGN2PTKVvXgi07iSxKe_zpfWtQGPfZ90CcTX0IQdlJc_W5_egkUm5J2Hg
+      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcLnDvNjqsGb5ddN9NyKXcDe8DQQ4OAHSlRW696J6FQOZfrqM6UCzRk8-oJnNHT1rzLEW_yNmlf0YxK1tdo-cZz9LLvsaK50g0ucI9ZABLnUJE723HMCuh8Kc3szqVD-cdY5kGGLRZxh3xSorN6JkVdgQW-yyA9Vd7iJZE8-o7soX2sRRuA4Cnqk7LBxi8gXp3Pwh-94lyQNduAkqKfOETwRlibAFKQeUb3PWMk6Ysyhd8Q14uRkpzdlw_Xukbc53oDT-z428Sew-QKwPVKBLMOgT-OUVJZVrN9G1WWwMwS1tQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -78,20 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOYf9hPB0lteA1aTGek4j8hlT-F-Xyv3S1oqLYL!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
   - name: >-
-      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcJAEgzxk6z48sMBdqNZPLnkAHw_TGOz3Efqw3DnroL3xf3SbWXNAOnUbvqOqvyKAq65K_nNJy8PLDyXUtcARtiljJNi49JUTcU-NK3Ym3FjZJgeFa2t8oCiP73BXZiji0Qc3Y0UjR_oM0d1_nZ-PmAtDHgLFgX1Ak2JC-VVDp7DXmHPyvoPHmR_guvRX-05Lnyo-CLyDTMCMbMxna77H9jlCyP4Zi6gp_uHXxSs7XcysIe_uRkhrITbulZm-AFjs1n4rPl0JMk-a2qk3O27yZKJhoGhvgm8DxxbU7H7oJZNuA
-    widthPx: 1681
-    heightPx: 1259
-    authorAttributions:
-      - displayName: Green Dragon BBQ Restaurant 绿龙 烧烤餐厅
-        uri: https://maps.google.com/maps/contrib/117863312078754505335
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVviWyVG6sPK3FwkQlBFi853xHfnGX30zsWHKqMn72HOvECvAU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNnAx2n-L1bfmfgk-hX22ToGSscnlSPmtW6OW4X&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNnAx2n-L1bfmfgk-hX22ToGSscnlSPmtW6OW4X!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
-  - name: >-
-      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcLXKcuzZmGuYXRX2_rbvNw_g5omoblZSFflLwevsU3tsFMGiiaAY3wygR9O4FsEvPXeJk4rs3CuobXp-RyVkFGpXioBC-R3C1myzTBBz6uig5JBDt6eJWP1gmBL9fvXTjKRYpxHpjlylv9YS1ErBnJPhix-QRxYOHajj2sUxAuJhePyeSJqSfQ-ATn6PhMZQyB-lFEXM9tK8cl6DZKTL_AzrR7Mca0qk8gU636omWH0zfPZtGSc9ale4XWJxmP0XiLK5OhaZUvuuGRQ-SuKTMIW1VqcOdysT_qtbVcOWTKTYRW_5AovtLDjvBrQkjW9RrDYWBMJMiloRn921Qn--YkXnOFVQIBH8U8Ptn0HqBRX_-1JIDu78uIvbT1HOF5mqJWp-eGJUO1e75wUBpWHwlX1DDCx7unodeh8zsmBQlmGLBc
+      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcIu_ekN0SQtsWrSVcxj79XwQrO150mWtac9y1DIIdU1KzhjjFAvJBaUtrYaWWICGGwdfhUECfvGrTmnWikInBBha2asxUW7LPuwi0QIgsz80Opor1Hh4CJO6HMTY5lB3fMfb6zYv_aMhrE2OAYCKpQV0ErABdf7fR8K4Jyin7Y8u_RqLlTNfsCjTFPEntW8UYFJR6TcxFWUJas67FyXASZ2zbOBmsFuL2dWSRxs5m8Bj8GnkmPf_0sqjCPNAK0hbS2UvNjbAfcyT3i9dWbmn3qk4-UABpexl2RqASC1oR8QTQ9pmpJ4-7l6b-nlnDJnDEJhbHTWRRBPbKlojX44j6Lr7_LE6--aUoLT4MWaiMWRU_vUxz0_qF9JnPJpdAiDS0bQk7Hf5KL7KCj4diAqFCV0YQIcuoOLj6z-Zv9mvZBkAWWV
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -100,11 +87,37 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocJNoqefqCqAMc6s3-YfYfRcYqCrv9NEoPMSo9hlnpKAb6_9wtU=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf77PuyQE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPiYOp2QE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf77PuyQE!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPiYOp2QE!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
   - name: >-
-      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcJ9Gb1ol3e7vJEF3215wCD9YPSrD76al0s3-0iGoHu4z5K8EyWqyCAe56EaObYOBNjZIC50EUiqEYe5-EuKjZ78jDyxEkCsH47mCYb3n-QV2wOoZO9LJ90onEGsS7Ce-vzcM83NjymEWszHZ0sQum5WuKjKEedLqK7oYbz8NkLwmbOyOHobP9XV74T_6XKB3p30qKHQr5DfZSCzeHlB5Jo2qtreBpFKf-tGONwG5zFVT_M0R7Jx_GVgfiLSWvR3zjUzoJ8ABCWNrEYQmFn9rE5g8O4mwAqNNdQDLeEu4al2JrMupwAwhM6z56yPqWWsMjR47zcG2T9u-ZpyvTkjlSejHVvjqXLMLoI4V74SAKwA3HYihTJnfmuDVgPkKb3EcybMThBCauOEj4cofmMf9HfU7b2y8s1Li1chhxYxoXM
+      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcInzxD_Ok-9Xkm2nmeGuVcH6ExEQL245doFqGIhNRs2pb7HcR2Zpsp172Nq9vHMtxWd2QK9jn2oJs9EKdMv2Awr24USI-FU0eT0S0ksuRIRQfB5tWidSVp-vzI4gOvN58qFRUVdM_FzozZMcuuBXQEFzRY4K85X9TOLGgbkHOvChQv5jFYOvdRLZ5rcwxKeYydvWO5QdBXAFPflmq_0v-5lFXgGRr7eGRQt5V90NtqdPx2vkPAVd61MT7mKyFUOpdmuF-9OdDYgSdR5Ec3_gXex42mH2vabzI1x69FcLxkhbUYgh7FyQMM-YzEP1mLjIq8BkQkVBqZ_4GVTmH8n3X9xH-Af1NBiQAc-HuI66gTgk9FfBr1-6MQ5r-S7jPZQVi0qKOsEeC5jqn0epIbJ9IxtPr_fikZedvbYgPZeXVTY-Wc
+    widthPx: 4207
+    heightPx: 2805
+    authorAttributions:
+      - displayName: Tuki Li
+        uri: https://maps.google.com/maps/contrib/100572927056122310524
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWXqS5gGH4hN03cWvGS7G8tWfTktXDR09pgur57X_6AluWtIZg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDflMPYjAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDflMPYjAE!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
+  - name: >-
+      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcKLOtIkYxNQj_NdErxPSTgkh8qHMWuUa7aQAglC5szMQK21S6ZeTp1r29GgGzHp01Ot0o8bwTBRcDiGuW8d78TcGfCFjOcz2sbCVOYup2DzsagGwBr-G2HBayON0qclx46fyUqjbuccUCrIyFeShlebFeMwbukkeXEpfi2mu2DkRHYZcKvfm4srhqYH4fS6XD7ZKn0ddH23dKeETnvTUThr7A5wmQ-BjeDgMx-_H6FVg4DSm5RUixAf1S2k9LF-7yKQONA7qnn3Ucn5vGOcEd7y2dJU2XOikkplBp6kXEtYzg
+    widthPx: 2560
+    heightPx: 2468
+    authorAttributions:
+      - displayName: Green Dragon BBQ Restaurant 绿龙 烧烤餐厅
+        uri: https://maps.google.com/maps/contrib/117863312078754505335
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVviWyVG6sPK3FwkQlBFi853xHfnGX30zsWHKqMn72HOvECvAU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNcB4yY8JSXgisAUoPQ6FVZxa3AfCMEUwob9I7q&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNcB4yY8JSXgisAUoPQ6FVZxa3AfCMEUwob9I7q!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
+  - name: >-
+      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcIHqinKVJFspB7QjkfY-dP9Gf6Zx7-TKSpMUlnzlh2gt3cQX5HkMrpv4IKG2KAx-0Q3f5nhFvJmHHWBTPRnX0Z8M7qJhD3ltgv7oDCre9qt0equWtvL4ieQO-0mdEwr8dUPw_KWYv1hdCD1hTxJqAPlzOA3eT_a2yIQ8oawTD83c3fiBwLmsoyggW9PBaKWdpVpaMD8VdPF7yRlgntTLX6aBtGWOTaEpQKbg9wRA7sNGcEO_8qPVWN-J3_97JxBUCVxuXYrhzI-smy9zKIBblzLggVbbCVH_03npmY2c6EvlcrwX_pgm8QJAZFc-RodMHMlVvwORmqFxmW2tSjDYgzhUsmmQAXzDGSmPfC2Y29yc4RM_wOZmvS2Nbh6U5nFip1J-x0B6ltF3PjSsg_uaVvKDVVK7FidQdAc3mcPeqA
     widthPx: 2928
     heightPx: 2667
     authorAttributions:
@@ -117,20 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnn4_bRw!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
   - name: >-
-      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcJVqx08ZuzSl3d0BjA9p3dQPVaUQkrzEvj246M6AUrfINKVgR7TWgkDZ9tcX3km4xvboenJaw7KBzGRyaDN5Pal76DPUns3vsd6CNfVpJamJbZKwYJodlBhm6-AImlcbda9isNVaccqfT1WZYlGXFUL8YPA7uGMpP0oPqy1tSbdeB9N5DFmzf_SZp4bma73vAzacUXAxPLNr4ma8IQ1olrSadBzl6up7_QEe5NaOG51wsoUKI389MkIg_pKOCLod87W_KlhvJY7AgwTZZx4Eme2v8i9uFvXeQs3FH7ZDQWgp_DTvIfkwCCc37w8pxFwl9YxsB1TFG3yA5oqjXNLAWSkn_b_GoV0U4jJOXhIWpLHzWS0bpgPH5dfts0Fduf0FMRo1cI6tPS2QKCZU57fYVagVi-IYnXpnjkncjWt9eBTeA
-    widthPx: 4624
-    heightPx: 3468
-    authorAttributions:
-      - displayName: Rorpin Dong
-        uri: https://maps.google.com/maps/contrib/100229417350876383227
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocL5QnusCW9aOR-2eS77G8mkM445HkO5rSu9rsB02uSfI_Le8wUx=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXlo6BTg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXlo6BTg!2e10!4m2!3m1!1s0x89c2f10059578e87:0xf208947d104fa69c
-  - name: >-
-      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcJY_Z8evN3vSD0a6l8b-G6EkxvRontFainDE4i0qCmasyuO6XoLE643_adKGligoZFJK-2goypVen4a9tVXVf1pWXcgDHIDM7KXz9p5XBhg082F0fRS1YaNj-JYc6pVb9a9Z1b4IgzZMOBD4RPZLjmACZE7uzR0Vkb3cW55FcFtO3GYFmSJ16OPggj83JSOAH7RMCCHXSE6GYN11IWuNp0P02s0Jp4tob4_gg1HCXuZEg-hCk2HvV250brNbOmoUOv1LFlugYE8TG7dHmcwCxnL1WiASzggtm08s2N136fiZjhs_bu_WGH3QFTQiXatvjCc7A08MuG4Dhg1MsJWLZsP9ON5FsOyvOVGxyh_THVdPEy8tabKRCqBkS197frIWyWI3ixAVZZfm1SuLiqzEhaXATnwfz_rPKpZNRwBVjLvuQ
+      places/ChIJh45XWQDxwokRnKZPEH2UCPI/photos/AeeoHcLzLTNgVQD_QoelWB1-RTrath49fezB22LYMwFaHByfJ4Amk3RCWv8p9sP2gK0n-Iyv22iCUXa9TygtxjnFSDi-e83_TNUujYkISNcN6WWfCaoirEx90ZdW6qtuqiq5J__L4p8_ccGch-fphe5mJOL4tcETiDUIe0XtbQ4qtKVRMhOtuxK56xlZMQtuIoVVWwKk8zRtZ8Mmk8TiLao6sEfaOvA7oG5Jl3nS-UzPuBrRvVwnsG7uSHytztGOwdDqkuCDrMlbOGrD51Cps0EcRrPrXbWZdLCt5Ht6u6hmVCCzqUYsr_KRxn9dUU0wT5rEHVGuyyX34PzQaZ4_SNiRmfvh24AhNhnS2vuo93gqF0ToflutGAyDsYyRUWr4Mo-3aGPgTsfi-sij6-rymw7ViZ-Jh1-XJHQI8JIv1ZUwf79LiQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -210,6 +210,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

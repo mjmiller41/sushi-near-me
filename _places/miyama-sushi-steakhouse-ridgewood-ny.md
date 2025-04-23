@@ -13,7 +13,7 @@ description: "Miyama Sushi & Steakhouse serves delicious sushi in Ridgewood, New
 place_id: ChIJVTt_AV5dwokRp20H8tjdav4
 photos:
   - name: >-
-      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcKyBfFilAXFJLEHHSK7gisCg-WDa3noXJOrn--5JtF3pqWfrGSJl_7IqFNjCIJd0HtnrAmD8My7Te83-wFJarx_3gp2PeGI9d8k_hQgLObiG0c00LBIdq3r61nR7IeWNeeQ6u-sQe7rMeq7PwX5A_LeqKG81yndUDpPH6BkfLof2omSmN1wVgZpaL7gJQPKq9WdIPDF9rNFrky8tRzgmhiruzE5z8_XJe3Kr9Eacq4qAqMTy8Jm4f8ya7Pd8izDgVp8eFhCm-JgF5slKlGmroFN7nTEgKYSDwPXjbDAxJgcfw
+      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcILI63gqr2MSYx4Qr4viDYs88OKhL--2o_ehbCQoupRXqJ1s5TpAhOgIokqQInk1brmVqqvAJZXoGqG_wL1GTGAWIvnmiV1bw_E9G0tqfPjI5h8hn8xR89vxVppS3L8dPJ6BkqhDpEOoIfuGWiBfywgAdDnBQ9FeRb_LreRq9Lmft43xu3jVgQKIJU392UPWiTfAeiunsCR-82lindXf2m1lSkR1KMSiBtGJnhMhavYtBQlxbueK2aVKh-PQftrnIsahppQ-14HDN8-H4cR1HdK5A_-iVYxoI6uP4MslmbAoA
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNs8Kj5ZMLc9pHTedmijPh4w_rjGUfNqiMIzGsJ!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
   - name: >-
-      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcKuunxSP94U8xoorYnp_0qkQOfl3TOGz0nagFmjUP1drGa3rskICHcCmokee8Y5I3zgK5DnrJqRAt1G5hIF9J8V1ZVaEdOKonfS8lySJm2Nh2EdqbMYc8Lw6qLZuy80vlpdfchg5cPw-SYE5d3c_LlKoA3EHjEbOkXe7z9rqK42_ok-tfubnUMTrPNHq74FS6zJoRMXDYzGwHKMPgxRnXJnTAxgVdSu0LW1oVc_6HJu8-dfPkgFW3EJ5Y4tuBf6tHb3PGdyB3Sl2u2LZdSXPHOxvQu8xD-vNokiOzE14GuaOQ
+      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcJcSS2_yoVp3xbBQhm7DQFUkUTdh5l-hVKHGIQ4_-R91_Qdk3wewmMCSNPHNUYEfJ5f_TCpHbdVQf6l5FEKqUwgdDj3Lm2FJEyiQTqxGH2wlk1B6IAllxkN14RA0-oPkDiWYQq_QCBkwyvOWngRc64yhBe3xXoAlXk9fjG3g_M9W3HYdLYUXQMygvi4ACFTw8AmvB5jwcH-037TmnzoUA0_EdaRqlbfQ3wVJXO_IBBzM3bR0mYuWtFiTRmfuJHYD2YwXxoHPBxiNa2rwbSDPXlXjIPoCKqzBA-EkxziiTXzzA
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNKTbp0Psvkb7qP1YYEP_yxT58A7Lcc3W_0IBD7!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
   - name: >-
-      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcI9nCSxYGY94uRDtR9Wg0udOMot1EnYqjPG3QndhRKdCFrHKUMzMc-o_urf5O5zPg0sJbBxbZgrDN9qGmAnPWkH07BuhR0Hie9HQCWU1PukMVL51bcbbaSPQ6gPyK4XfvK8rTuPwzu9IX4uk5KDwPSGxOLsPe1drHJJzT6Ng0AnAjlpY8KjLLh2nGoFT5NdjO2jx5lOnH1idRFElRZmuB_M-d5aTKjRHpwpBxQksSuo5dyrVPEEZJSdiLEKrRttWgiKQ6IQSS0h_9ayHQ8uEL6m5wZSWbHn5FQrT_PT5P29rg
+      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcI7hkU-89isOiuMxMKD3McXO1YJ1trKxhaGByrlykeHUeGjFhOdNOINEO58Yn2miIFIXuhh6o-qtNLlRYWRAMr4-Z9LC_rqdGrL4zYvuN_LaN-o_jQOYI_N5hVsZitses4EphoEuHA19wEc21RAvV2c1xLjw9BZjBiFkfQIVnV--QRYBflAHBqOPkfr7qPHKfyczkDx9szCwRUI1xqcSMvb4bI2u0H2BPGrF0d6AZfR1NwDOLBg9J6tHy7rK8Hc_SKESPeep7iS9RVU2Ah36ncewPTbZa201X02m5CoijsZJA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLFthORNdq5wQCI-kU6olQBTtExMm68Th7paMf!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
   - name: >-
-      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcKjzCu7ZyFU-keosYzPkGL20HFZ-AO4Z936-7DlTGMpnt66sjHZ7EiUBgqAdo-p3FptGl0QqNZ9GxnonxVTF83VKIIAf484RpDKvXkMiU4d-ONFszuJEnURYMxaLQMc-uzSRUARHyJ41SdX_bqjKWIoho5NxSdbLnfvNDLiruLrAM8QDVMfWPhToLf2xMq3kOaVhECZwlVDJ7mGb97lRsFXRt5UC17vStAheD38cRR3x6tyxJ5kp7BEkk2v4vNhYrt7KeuEWV-dSSc5kFMGg3rbXeHDapHRdTbPBG58ypw_SA
+      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcI0onBd2bSkYRBJBO4aB4untF0PUFAtlyR08nC89z2ajwVEts9h5t5_HbgOVI_9duEWvBPWIdSh0eJaXUtA05jC5hWXFN_BMHmPeVzf3uAdDEyJ4mE7ZZbukWxFUQ6mOGLcUsCPJf0XRBm_s3wSYNxBRO6wSu3s5wCyxmqes-xOx2p5Ge-9oHPQF_-_HfiZqLYo6PLOc6BQN68GjhRcECfna8pPGtvHM_NeQy3ZKW4QV_aKCq9Yjfb8J_IRxS-dkWZWHPTZ18eaWqS9BOx4MsYWoxInFkigJjD1PZ4Xa-NO5w
     widthPx: 3605
     heightPx: 2986
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPWbtGf4IXKlkMRGQ4CF3CacSp5jz7rR1AV2vSA!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
   - name: >-
-      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcKeoeYi7XcrUTSG2V-fs9gv-WocFbKuD_wC7DizKp-WYZ8jSRcET1IYDFuB3okSfZsY6_BJWdK35QNEDWkJzNxeBFEkKu3uJH4zj9os91oP-fPeC8DkvG-MNx_BHmlicgD7hhm6WeC_wov90FuFEGH5vtJMiMHDb657P1X_PlOsG9lk21Pa8JCYvuwC4tb6ZkfnCAMmrpJdixJvlJZLxWBbqVjNODi_FemfFoFcfPUEelOlxvURJYx6IEZCd2HKgftg0vt-YvLdHGEGX6piw-UcFmNLXHdA3Fd9e6rwBiWeWg
+      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcL9Lu-Hw5wepMesZFshjWmt_LWb228_trUGbQgExynFoHTHiEkvaElkLDFEF1lmaMtdUnUDj9wr7deWBxuAlsaJaqiNBNNWv5cgZhfnH69zSDBEGfHLxjfQpOQA42ewiCulrYIBLIAc5ubu0xofREILBnOEwBZitfc3qccpFQmfQ-66tT-LxfzawSndMWrEo67m7yKwQmY7UxK9krxeUfWeNi8dXUAGg9uStXsqlOUX8qK5KoLRKP6td5M0nr9fECtcWDILEXAtbS9h_j9GKMpmWrCZLVRQte3_3e3EUpGyiA
     widthPx: 2420
     heightPx: 1852
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM1Q2QdO6R7U_dL_tEe7h7j_lGvP9Q-omqZRuRx!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
   - name: >-
-      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcIIlE0z7igQ5G54pIjjfklDnPitOiSU9qgDfONxVXsTG0GKYUyeLMTfxABosooFUn1u3zP-PKheT9TnvGf1iHLOy-HAA4Lt-NhfD_Djvdqs5natQnFu7qFf2Wir87GUV5eiGjbnLDp4NbmRqUIBFa3ggXHvjBgaMXz5ZS44Vz-tjcB4M1gWBZ9HuUQ3kzRvBIk6xUYTsxv7n4Wq03cNJ4zQ4XU8IfVSYeyF5syV-zQI9Q4Vy1CIeYuMnWOO1e22n94KIe2cdcFQu4ySYBDHohahNkgIOfwQxAk6iYdW3v70Nw
+      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcI3kzTIea7X97oxRMC3WLrIFL7_K28RKTmPdCQjdMjIUtIbznHmlH919UH9mkBk7iLXFa8FwpE8XojeAjV1WsweawWYsoCcMIvyJETEp0r5lJTKL_hugUeBN8opTyOdxOkd7dYodnO9fLmc6n9T6wa4TbOQJxmp4zNNhRGw04KStUITZs1b_0SakX5I9IFY6TxFvYpqrK7Tq-oUF3iF6cJ0_i0XQ-9XxB6U62eAZLlDqPTrXs0MDmZGVf-TKNd6Glra8dUiH77oXKYbZIJqRfDUg_1TBKwEF2ykre6zHQZL8g
     widthPx: 2209
     heightPx: 2209
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNVupc8iK_hfcTS5Tm6d8qVBmPjHM8xb4TxgK8r!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
   - name: >-
-      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcLcixNlApaLWu9rESIJcT9C9i_gnenucGQ8UziBfaELVWCR1mjAig-kFDrb57BtWsKEHf56kXA1LgJtbH1Cos1cgNRPoRsVkzY-fm7DRhuZ07kxHdsCN3lx77zD6lEKC1M-sPvhgR33dS5eNONAKCe_qv-yTCm6PRfSx-SqMyP8du5nrjk17pDBA2jK484Hr916a9-ZmCBEO88Zjl3Tyt7tThdjzI0yrF-lJUOlHf4n0sHigIATFhGpXbGFPs9f2nOtcKMXd466KX4b6RFY9X5n-ipyF0JopO3JSffRSaIHug
+      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcKA6kuKHFBjl5F6A9VoMnzTnCoP0FliBzTmfrASg6wG2PzmU-dxNfSHCBOwOmiz2zjJujcrPw9_cwFxKrkFn4mYbDAOtHxLPPONUzVS--urhrXixG5dVHTCsaGChS_Q0U81h5pYv2zsMyCxgOYdwAxOH3tPe8KjV1XV6iAz_QB1ZCaWIzClXBtGuVJUDp9TatmZ8MRu_TQjj5R8-Vw_NIQ90pJgD_IcIjWQZT0YRyWexXnc7YXIsBeacy9NUNSLKy8cRP1LvxEm3_WuE8F-VSXGn9qxXqvCNvu7aKV1MUw10w
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipONSxT3D5Ey4m_P907uTY_EW4lwDqbxIXOwW051!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
   - name: >-
-      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcKe8pRLiR3EaYJYCUnHb-4bfNcXrzyffvYKwW540KXT5KnUUq86aScl5UZcNSiIDhJqo6xHZGLkbMYZQB7NxzDNXKHUp3C4-IIdjo2KjQ5qDcXCiNAJf-II9yparjEhAmaBQMlNke2aklE_Vgpf9pI-3Pt6pF4bAE69-5R_TKNrAiHWZ1qMcagkz8JCasmCYf-25jc_jZ08T7xPy-3ZaKM5XfpQssId6lJRPMfTLixUoEEDkTIWbd1FiXNt3pJllqji0RUx8kGtNgZBOy4X-22ae-XjpGqLbaq8CEqrXo1i1Q
+      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcIVH4qQfzBq4AedUS_CD9eyL_Ss5pUBw-KEwny1jJ67uc7VaWz_7MZSDVEM73PxLvHBq8pK53fKwZz8uXQX-bCMyTY94Q9RKkTXlEeO_G2KrLVf1HLR6-FiNfrZGEG-BzKkudy6QdfoO9j3y1D7tAvJJOo6UBbMHnt2ki8UFpPVQY7CacKw_gJyL4AdjM__Ki6BTROEcdZqfIJQGc8ysSRKy8E0HeDGsQiLcsVRLe8fcmssEXHGDgMVvfnyBWzY_jCTR4cCOkQZs16jXQozGfcCz1PyomPi_iDsGhrFLSeLfw
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -117,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOm0QKR2GqAkct1nqEiMsRygqfj83aRvYx8h4NV!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
   - name: >-
-      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcLynnmbJbpyU_bxgEd9pMz7eLKRkEvw8g0AQiCAJQSlvFWrWJbzG930ciREvOCgcIPD50671OV2i3qMymrw6JjwuUH3C_9bCdKiiqvthlIOdw0X0XQlv1u6uHr9_FZqE94oe3sFI6EKp--oy4Nr47tCofEoDiwcnOXGA4VBScrPoftPCHDbI_JhsLYAQ6id-s_9jeIGs37fOzaqMIHGnmZ347zxxBQouN87VxVpEW75IBrBomyodi6o4yc1PegTSw1FJYEqQhRxXKmQeCbKT90fzSGkkPpXJU6LdapGxWvek2P0zkw_hyNNIONtAI8SMdtKZVUSHAQw-A0H8tmTLLdfLIlH8YHKgVq68LQ5vvheuvfvq8nl-A0nErxAloggePZnp8uqp168JpE528Z6HrDbYvOFJuO91TF-P1ykjJ4_1IFE
+      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcLc3AOJBhxhSmzOJrW-aWu33QNaujTyahVLIMJ6wcsKp4LiGspuwO4UaEaa244Xvn_V0PwmKT55aI4jnWdiUN8mc_5KvI7hO86xp9GX-6H1RC_bEqfd92OBTph17h1OvoEwCTFdY-Fc3jmkttGHaCwCJhLPs-S5pIJbe9TUBOijCYIu4WML_Mah4inc59Cu3zwz1HUhdu-1tJDeOzcjhF_AT3eTmC2AoS8khTBFn5u9-z09W5xdlHQ4c59c7lrSXVCstUA1bd6HauMmUiQtLFcXVhCaJNdFnoMvgwXCVp5EMg
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Miyama Sushi & Steakhouse
+        uri: https://maps.google.com/maps/contrib/103848779699004623494
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXUo1RK7aRPG-IM2DpBrp1eHRr8n-lhHfloltzt3GGV3obyXOkt=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNQqMJ_19Mek7cQNl4TPi7wOi3VrabQ9BZ2QnXn&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNQqMJ_19Mek7cQNl4TPi7wOi3VrabQ9BZ2QnXn!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
+  - name: >-
+      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcI7BVskGwyvu0rM1e7bYb9dsnj8L2iYVBTaMXdOcLURXi5U8z1XpYmqKN3Low1RujR-plytOsRkpqHIk27t-lRGUzobo6sv20F_YjcLgvUmg-AxPL-LsWUsamYfJFWy1GfRYoq_SJzBvg6zqYdonppj5zpuD5c52uzm-4JbFlwnusg3tH8ml-_HnI9WiWBCMlt9H_myqyWwfRYFQ4Q9T6bY4SNEPK6LnKQXXNMXBfQDc1ELxAFG7SBOXLhlySBhvko5tf3YcN-S4LpXzytGJf5YwfMz5kmQmzYmBPmccGIAxBQVrAkpXOVjqXZoMK8cLf9O0V5vkU_DxUp22F1GhrUnLrHLMftUnyrqWS2G0IRDhsQiZjlhmHVpCrtzMxQFNUy1ofUE5p5dWwGU8OmaM3DheAQhIHDvR5fE8bs39C1Sw18X
     widthPx: 4800
     heightPx: 4161
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzo4GvwQE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzo4GvwQE!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
-  - name: >-
-      places/ChIJVTt_AV5dwokRp20H8tjdav4/photos/AeeoHcKGC8eN8ycrLIlg_nc2EPAq5HK2_zGzDrF5uQPocwtHTXAUU5PrPFYSTHqKYHC4XtIy_I-ag6muUbFKgOSyviAdqC7MPUrMplG7Z_phHbyJQDfXGyqv6QRNcXwcuONRhcPe0tuvcSmCSmWpA9jnhjNT1AUq-KNLpsMIbzN6PQ3DdSr2mCS8PQg2u39tEDDd8b28_wNglgq-kVrkQyZyOIzpDvznDoXa4D3nYzFHRuZBmfwSv5e33v9UGPFgSPLtzvd_eflM_uha5F5-2cKUKumH-Smfb18QFjh9lreeQw-NsA
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Miyama Sushi & Steakhouse
-        uri: https://maps.google.com/maps/contrib/103848779699004623494
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXUo1RK7aRPG-IM2DpBrp1eHRr8n-lhHfloltzt3GGV3obyXOkt=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOTNzm7vJqaic1570b2zQEi-XhB1Ezsh9z0w0RE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOTNzm7vJqaic1570b2zQEi-XhB1Ezsh9z0w0RE!2e10!4m2!3m1!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7
 address: 349 St Nicholas Ave, Ridgewood, NY 11385, USA
 street: 349 St Nicholas Ave
 city: Ridgewood
@@ -169,8 +169,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:30 AM – 10:30 PM'
+    - 'Tuesday: 11:30 AM – 10:30 PM'
+    - 'Wednesday: 11:30 AM – 10:30 PM'
+    - 'Thursday: 11:30 AM – 10:30 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 11:30 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  current:
+    - 'Monday: 11:30 AM – 10:30 PM'
+    - 'Tuesday: 11:30 AM – 10:30 PM'
+    - 'Wednesday: 11:30 AM – 10:30 PM'
+    - 'Thursday: 11:30 AM – 10:30 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 11:30 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -182,7 +196,7 @@ phone: (917) 909-0833
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.8'
-rating_count: 226
+rating_count: 0
 website: https://www.miyamany.com/
 reviews: null
 parking_options: null
@@ -210,6 +224,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

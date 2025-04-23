@@ -13,7 +13,7 @@ description: "Genji Sushi serves delicious sushi in Cranston, Rhode Island. Try 
 place_id: ChIJxzmsN8JO5IkRLYPj35DYBQY
 photos:
   - name: >-
-      places/ChIJxzmsN8JO5IkRLYPj35DYBQY/photos/AeeoHcKh0lqqPZxz6aD1g97P-PfGxvn-Ld79mW0Ls3C4NQ1X8xq9yxCPoN9Hhg8ZqiFu_TvC56Kz5brJavbmf7fO-ELlWF3e1nv3gvhoqbuxnI7CuDOGnjJkouiB-trQYi4uwAgB7HrZWoekNOaj7ejEPVl8graUzPDawtWjsqyCvpRXCBX7lnEalaWoTXzFcQwDWZUjI5NYBOh7ZDeX5VY6skF2KjoNkpXLklX6OKnrNGjmWNT4WLA5zdL5Lrz5h29rLFTd4mQNKTgt44Ky1O-5wgKQvVz3_fJltiDJlg9DmB07BMapAT2iCTnzyJV_1wEhJYfLSgGtVzIoFHGW2FEAb5TXoe-afCJD-1iHteJSVYTj8TsrmBCW8cgzQTv6ZWuaKh-t0gLZ1-uNdbQUtHjcAh9n1erFx-DBCQ4HjjiHYg
+      places/ChIJxzmsN8JO5IkRLYPj35DYBQY/photos/AeeoHcJj3KOgJWI4CmY_lStbKGNM9x8PbZ03QzziyiuAo-FpZQFUePrZy6sPbIEmWWaVjYk3mugDfhzUStbOdGyUdvTW2A5-c9Gz3MxD0Hg7g1jikhSzmkNcGtnZOJHTjcTinxvy6u2rrZVWVVe4sCjVkfTn0mRKh90ezNDk0hAlEjcS3yVepsRjOBz8MdwVVzTq3XrT_qYmTKOXKrzQcFd68nGwtTKlcBXYO-tZVI9CgqaMdkxdi_ojbvXm1dId_fT6hF0-wgk89a8Q3Wmzj7KMbZScMeyg_F-RHYXerMToRQPs4JZjD13tIsAE-SuXgsB98Wy1SD7m9LHPFCZWDBPXUYbTgs2E8B6ub_C15gFY99ZUv45jECBjp4RxnH57_JgBryiw8QJX4jT1aCQ_tYM7oyyyCOscowoIE3IzhAe5Mw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -50,8 +50,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e44ec237ac39c7:0x605d890dfe3832d!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 8:00 AM – 9:00 PM'
+    - 'Tuesday: 8:00 AM – 9:00 PM'
+    - 'Wednesday: 8:00 AM – 9:00 PM'
+    - 'Thursday: 8:00 AM – 9:00 PM'
+    - 'Friday: 8:00 AM – 9:00 PM'
+    - 'Saturday: 8:00 AM – 9:00 PM'
+    - 'Sunday: 8:00 AM – 9:00 PM'
+  current:
+    - 'Monday: 8:00 AM – 9:00 PM'
+    - 'Tuesday: 8:00 AM – 9:00 PM'
+    - 'Wednesday: 8:00 AM – 9:00 PM'
+    - 'Thursday: 8:00 AM – 9:00 PM'
+    - 'Friday: 8:00 AM – 9:00 PM'
+    - 'Saturday: 8:00 AM – 9:00 PM'
+    - 'Sunday: 8:00 AM – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -63,7 +77,7 @@ phone: (401) 942-7600
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '3.0'
-rating_count: 3
+rating_count: 0
 website: http://www.genjiweb.com/
 reviews: null
 parking_options: null
@@ -91,6 +105,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

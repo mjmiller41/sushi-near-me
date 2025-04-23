@@ -13,7 +13,7 @@ description: "MANN SARKA Asian Bistro serves delicious sushi in Floral Park, New
 place_id: ChIJISPf3K5jwokR3cvB91MXGiQ
 photos:
   - name: >-
-      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcKfoH5-OrvImpqPyWDHl1QN6btW3IXd8ASqKzpbljGfkqsFn3p2goXZkWp85-6ZuyBGZN21RyYeJm2K_jrLHp2p0LUo3MHu03b_h9pbTDe2njCZRAEdix-NRyY9jw04sf6MNyq37Eb2L4xToH29FYxyq1GMJzhodtzR4WA5irn4j_0-STcAcikTHiTMGBYLdeOFlqY8x40zV9UIjh_12uSSTgqXASz9IuwAkyp18L2HUlBOp7eTwBhrgFmP-KAPipZVq3XnRHIUESf6zSWImyQeaqjRz5NyxzimgxbXxMXFfw
+      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcJRRwAslKSxhsSvDGzP1hpHDk3GqGS8MDIx-kEMueY0KFarqdWK2GLG0PGayQyApDr2-WzmN0ab5ismhKOIv0zlElq8GADsHdghgX3HOmidihY6jvgIRh_wdf8rn3bKVAuoooJBYRe-dlfX3y_mZfyQcDfkkBbHkcm82vqeK2kAwQXkV9J3XAsJCCfq8aDCnWO74dWUh94HAu7AcWTGq0O4zvckqbzlSEEIwbJ3gRDtWQ3GCZvGhpAuiaRHyU5bErYUMi1sgNG70Hu7IcUzC3cTZQ9iZA9mgQE88MX4Q487lQ
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOOGLxitacPYog2LK7n4Bw8EAPuxd8Be4PfTYis!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
   - name: >-
-      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcK9U7gnOmx-KwwcR7KFtu-nRyCR7m8lMQhs_-QkVnIENxPSHisyer63lIX_c7dtB2HFEjRyPxGXuf6Oxn9bhXMDtYvBDv0jKCxFPv9YYU-NJyJ98P7C0eZ1NEcZP_iEw-E4RjzB6AM1P1o8qhqhZrB2rNLRoPU-sdlecfjwf9wyN95iw35LYj1IiBIpPEY3uz_MYjDT4O85yXea5Wklj5oqeok1CVeScz1xtfraFLkWtuJkARErL-_z8aIxiyYrz4__QS92u9_Xo9lYFiJ-TrDtJhK6H6kmZLcXfcBkM0MOhw
+      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcIR73UzmNIpXyJYR5DfdutaJa_GEh9L_jcBBXEt2qA1Dkm75Mk0K0tqlYzMZxtNlfp5M9Xw4Hb0PdMv48aOdcXn0ppd-3gk7qZ0BCML8XCc774TykNlOrA7dE9IPVVgLYtvRW9UpPoW62kR9i9U9tNermv_YggOq7ACIxtLLIgdinGu-WXQuyAIMgwLh-HgAJx-CauSptAtz6bF8_7C4qdPbjWA5-264y0uK0gSc56ZgI9yV-wsCM9M7kxJr95mOnV3C7K7xd2J-AuWqQ46Z_j786DEAXLkDWxMfl1AGFcFBg
     widthPx: 3996
     heightPx: 2953
     authorAttributions:
@@ -39,20 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPnqGko2Mn-sTi75OpluMCpNLPgmZKjk2bHaiOj!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
   - name: >-
-      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcL4htK_23HvJcA1XmGLtH3MsWbrje-_iSYUYJcIySGmxiIRR9oNo5EqgRppFi3IObcJrCfsHl6xaKG2XCTEInemhqbSBKdLHKsTP6LwqHHcfIfHHUj8VJ5GXx2ltZwyD8-qCr8IDVQUQmvZb4J_eLuF8J8nOW9cVRJu77lJqcnzdvUt-XmEUXXzg30xwU-BzMI78lMcK_ZQ6N5c0GcZng7CRxFGnJvYxLvgE193CADrII4f6_tCrmB4W8rCH6wnEnmzDl-YWwxcGssFD2ycwjcPhOYcd-tCqAQebyEiI8kyUQ
-    widthPx: 3200
-    heightPx: 4800
+      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcJLMYKMfioUqz0Gy1UskH0q7RrubCYxWNF-KrYm6QrVNHmJoemdwG6XPFq1aY8YWzp9NUy9egUO4jGv4eXSHRL2I0E82EEaxdRJ2lYxxct9NtMwTIkzQb-Lr8G4ZxmFexkp-fhgu5ZW9c9qtAU0v02ubHoexR3-mYrh9oX4fb3qLhezmeck_0xkRc2wdgX5jJ4dHQ18RtuJmdat3iwU3El3Mft0gbjPXMU01mu9hr2uAWoKcjEB7gxuH9KpyI_dqTTkMJBTI7GSbRoE0LhKr3sidHFacMe48a5QDkjGEh8nfUVlD87cc8KPkSpEJukkizhepb-r-5RIJS9uStTnqAi4Ws5YM0DKaWGF-b7MhICBzpFV8ExI6c_1IM2ItFbPYg1MCO35qbK-kxvQ7fRE84WqB0sq4jA1NGGknZ4vDnJI58A7
+    widthPx: 4000
+    heightPx: 1848
     authorAttributions:
-      - displayName: MANN SARKA Asian Bistro
-        uri: https://maps.google.com/maps/contrib/110592811040705638478
+      - displayName: Sandra D.
+        uri: https://maps.google.com/maps/contrib/114089275544885669427
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUmyrrZ9T47hUM_uXxb3J9TnNU5S4552_ZazL3IL6_ntAbk1CnN=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWQV__mDPBMe04ui2C1ygzDKRsQYXJGQMyVSqtzJRHWTtZyqtk=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLErtY1uXNg7YTahG_9Q_svTVG6j3PO_0mwvDf&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCoxYjx9wE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLErtY1uXNg7YTahG_9Q_svTVG6j3PO_0mwvDf!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCoxYjx9wE!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
   - name: >-
-      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcIVJ2xJaNTtIcf7dugc9zXf3at037wAciJCbONiYPJ5_Y3xLfga17-mdXEBckFp5WHQvyqAf7OdBN_G1DXsNrnqrVj2FI72LQ7e8VV0G6VQEy0PwyiObd4_gRhNKHUku-Si_WyMdc2DDhBPTSSlxavZ8VhsTneiptYnvtElMVoCsqxBMdF4gliLq4pPufpxILoaXuUJNFvRfXnm7oyhG2gT1bMVasunOO_bqR1PmSkQpWNnpWqcadZIynp_FV7GtsmqsJv48s4S6_DK6qNSVG0muNb_eLpcei61PPXaq_xcPA
+      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcJs2eQTBIGSWS6Z2X3TmEBmWProC9YfPgkzkNf3-jLJWI4UKBkRqL4gm0PVCNYBtLn54OZVhhCZx7wAtbDkBVDc678zdlt19IZTk-4k_XtWcDvFsjZpbRpB-4F2lMy6NM2uV7KZ18iTK2SqEXMLkf1GemaJzMrd_iV8y9m8ba5SRUYC9Cr3_wB0OCvabu7XrC0xHaWqkV8qYlnWKhePTe99C0gWD5MU4U-cOHT0Bs6ahVOqYTVqh1xeGF2zoohuTr46jEaU0f2tBYsccDS-jT04kWf4HY407bTkZOGjJLPXYw
     widthPx: 958
     heightPx: 708
     authorAttributions:
@@ -65,20 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMekxTPopNQVn6mDdjw0SKmkuch8pUTT1g5H5-0!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
   - name: >-
-      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcKZWsQs5cBtVk_dZKJDkG4CYSxZF5LREGznPIzA8YpfBQb82HM5zIXow11FhUX9NKgdUptbl2FV-JjNiMqBA_y5CAi_ewp8gAV5XMXBJ1YWdHL_SRr5ZN0PXTpl1HmaESL5urjw2YaRP7NWq8fnYr03mnPXhh2Lgge1RIT6fF7GrriPSfDAun3elod_wH2V46id5gxzTOoqmlTxdsafmtpZrE4A411tKv9FpHctyF0C6z8K4xXTUfelTIa5dNp72kVsMd1oP9B3Gr0y8Yjuw19xs3wP2cpKC6WGD55hOZg8Ew
-    widthPx: 4800
-    heightPx: 3200
+      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcKUc7gy4ss5bK6GFL976NLXwAVjzRamALLdAltgJzgLVrvD8t7OsiX-8Y7QVWqtkgvAAI8duf6qBFPDRz_r31bFDgpGaBT8mk2RDnU1d3BH565CghbtA-ke4K_QtooIsPQmpwR4-tdOukD8_BmkC6BM2G9S_xZYPJswvWF4zibQFkrpCfV8achrFqkX1rHUfw-TuCGOK9BEvTfx9suxsYhTSLMuBf8zVlf_59vGVt_LWPIonIzB6rEIEFRBkKDqnjfy4-v7YMh3BR5CCL2y-xnx4nKGqHA-oF20zaIBk3cPFiuA6k30q12yJEKUfK_VISkGHrhQB2oo7WsmbBJKtknebGsiDRuCr3dZHOfvYDy7mt5V5kCdUQW5Qv3blWboJoIlacPo6Bv-8K045HWNpNCz9u2qoebfrTElnl-eeClWczKj
+    widthPx: 4342
+    heightPx: 3257
     authorAttributions:
-      - displayName: MANN SARKA Asian Bistro
-        uri: https://maps.google.com/maps/contrib/110592811040705638478
+      - displayName: Charlene Chen
+        uri: https://maps.google.com/maps/contrib/100267700505019588175
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUmyrrZ9T47hUM_uXxb3J9TnNU5S4552_ZazL3IL6_ntAbk1CnN=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocIGhfcjja0g1VqUofDpVKXWKcTdpBiKl3NJX1t_LDeDYraQyQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM_WAn7JLZ6yCkeHwRC_D1fLFa_OIu85io_jJjm&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7wfW35AE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM_WAn7JLZ6yCkeHwRC_D1fLFa_OIu85io_jJjm!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7wfW35AE!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
   - name: >-
-      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcKge2RxUea2rYGD2Nc7BTZD-KRlwbfZkoFvQwQSWWUDmb5Og28GzJSOm1GKUYy9OzbJ4autIEPtZTJb5IhyIqS8x6IXGim2jEqJ6cweg-u-XMXV_gu4g-zrRbv6sRHJM4w1VUHlTc9n2pMGVutLy6poPkf0170HLAGH8Ioxn46cVONqnDyEYgXBHSTIkuUiV5shT0QtCu5Y0V0SFEEPP9s8bKwc-frj0BbkE5K48kXvidwP2PrOZwXbnECACQbA3A4B0YXs5ktKmT5zo8vO0ECtqRppb5oKGBLjYCDoI2_g4Q
+      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcJiAmmkUI2OdtmQ0WFPcKGNazhPjzOkWrigtfazgQxNpcwfsy9p87hasHnYgXgYdywAcXcoSnQTpKE3sdsQDAUbCVwMKnK9Xt45GUm0uC998hL_AB3x9Za-k8BWHxLOc61WV511cSfqXO3FtQsUHrWclDAKsyN42O5KRnI8r0VDeZT3ZIddTrYtHg2IJkLBEsu0URpLMU82gZ10p7oji89B4IyJbkD5HAF8FAZWnBTr3JSpNkouvA1OV8vzxI_7Cj_iskl6VS4ThwSOt4qkhNuM9RtmHFD2i0DiDXFw53fwwQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -91,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipODFuc-5gPoHLEO_EgX3pwHvRluKzHihJLVuQtF!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
   - name: >-
-      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcIhQ8tXXQ2OB2bMUgIDUlJigPmaX7cKpm8WPyDh-ciwOcn1VWAL3UHhF2FlYunBnAgkPyQ7U37Vy_Tc3VZMpasbLuI6oGkCB2-RHr3E0HXUP_3xIt23kZhTWQ6tJSRO5pNNbt6-2jQWnEg4TuOjksPG7tDOuuCHneTFQYGMARMF5X7zglCDghfBVZ3Trt_UU4jZ49qsctLKiZ5Ju5MyrQRqlorvXTfVG1sr_YnlShIHMpS_xpq8KFc9Lf9SDPv6wMkjKob1hBzDvXu1DsEtykWV09RkCR1lzaBDs40xDsoatA
+      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcKHBl2VyRHMVoMmQ9dj68dVdmynFIcc-_-wrwWFRnlVOChZrDEYbCiT90lGoywVlR18XiCm2SVPebcKNSqOhVt4WQKdEFGE_3dl4OCpAph0I1pU5Pv-c3Js652fdY-5aWFg9P0gEq3zcs7JG5kUp37fzDjRQBBFSdO3FhXrczjzkEc0bNCRLNPda1wUpWD521xDyycW8Gj-K-GlSW7zxcVR-tRAzkJRAagFB5QpQxDs_v9r2WJHvJTnDXeq6MneL1PLG3Qg2Pkj7vEjImKQj2hozpBISv-N2AFmtlc8PpzyQg
+    widthPx: 1175
+    heightPx: 1195
+    authorAttributions:
+      - displayName: MANN SARKA Asian Bistro
+        uri: https://maps.google.com/maps/contrib/110592811040705638478
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUmyrrZ9T47hUM_uXxb3J9TnNU5S4552_ZazL3IL6_ntAbk1CnN=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOUIS5XoqLgyrBFLz8zxrErtlll9EE0OVwGAcJ3&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOUIS5XoqLgyrBFLz8zxrErtlll9EE0OVwGAcJ3!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
+  - name: >-
+      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcJEtxob4_F2PpPKQWMIup12puDYPu0WiKRuVWYqbQ7nNqFKKkL9o_LvKTdLwWGXCnOlxvE_OvuZa2W4cKSLagLfIRUAMBmlITUZhdUphwKv824rgqC7m-8uhDp4JSFXJTiS86kVhQdPNvbPi9LKec0L0Wnk_qqFo0ytljuEod3JHma9tHcKxcuIcaMV4LIycVEH1E5Y-sD5gfMLNSzSHyDPN4QoPsD43S0GAl27MaQT9gHynHE3t7e6qO1CHedI41BRjHdT-pyhapZTLVxiGmNkC_o6P6CwubMvGsSQiorbQA
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -100,48 +113,35 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUmyrrZ9T47hUM_uXxb3J9TnNU5S4552_ZazL3IL6_ntAbk1CnN=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOgMtw484jWcRDEdSKcx6QaqNt-VZtTK0injeKX&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM3rO01lwnfl6bcDTX2kjhO_didkp9X6RrYX9hV&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOgMtw484jWcRDEdSKcx6QaqNt-VZtTK0injeKX!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM3rO01lwnfl6bcDTX2kjhO_didkp9X6RrYX9hV!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
   - name: >-
-      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcJLyr8yhJrq3TcdRP3_o_Z6geUgKw9cTYtMyARHXHSQioTLrnZk4QEyq_G3JptMVo9xJ8_vWTS0RxtRj83W8jlf5LXNZmcufKdkzQM2YggPh16ebAryszVyvTY2xsHpBKpO236RCijYY2_3cEgn41ASyME1gE5Lyqh-pleRtBCR8pib6Ae7pH6QpZnRWCArXiZb5sHCIcShiV7TVygI4-go9jHRN3GIt8dXvTqLoj5jVPZ0UwOE4N3MLSV7DvcpLjuDpE_sleNZzVcrkBkoDFibjc1GMoelRURlptI6PoCMjTqjHREt961TGRcXOzoxLvvh-C2lX4DtEtEomJhd3TIgf7U_elKLy2PY6QkHexV4JG0nMoAAo2w5xiOUsoFJMxrf9tBVfZr47KNvCOHfD1aI0_sG_4aYjjn6iqvYZBCRCw
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: joan dong
-        uri: https://maps.google.com/maps/contrib/114401689171894156462
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocK85CFsOa6rUaB82XYFXu912O2-VhmFayyhBaGfRFUrB5sNJw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDP_t_REg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP_t_REg!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
-  - name: >-
-      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcKvMLXmQBdkUwB1VPv4V_D-plyejCB1xPxkI79Y8cpK-B4h_466CPpUTH48PDu7Zo3-uNpQ8tAr00n7G1EZIlT8WmJsnzMUcHF3emeaYEK4fg9P8vm3tFoQ6ZY93bnjrxW80IzFhvDKTtppJDcprVc6skm2sgp-fIi4MMSnLMOydSP2O56Oo4yRguY3_4Q2tpIB_wPXqqkJv0kv2rNkJ4-qNcX5uCGU3kFalyWW66RW0qU2CRO1h7VvJk8r6MLXurYqPw5pQTgTb6ANAAp5PwuYiiaU4TDCFJQ9qHtnsauvbA
-    widthPx: 1030
-    heightPx: 976
+      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcKp2SngvhJRgecq6Y9AeH_ndznpWLfBb3NzL8JTfSCN2ig3vkzON9yJXp2s1zCX6JFP4hZgR-fdFgVfSikPZP--gxQZH_pJaX13le8Ehvgrdj6LHE5c3OKUO5DyDh2r5t9kNkUZhB3ELBpAaoq_SitKiGBco12_Zx_2cUnOAdXYURsw6h6oTHp1v3rqlzIbeMvBoXsedG6-ZvFGlwdMd93nxG16-zz3bHfm1MlB58fsfmBLMD2sQQx-P_ehsYXCciKXdxqu2wRRMw9iLpeJcYgE96FfJffbRcwMmWbzFBm_IQ
+    widthPx: 1165
+    heightPx: 1050
     authorAttributions:
       - displayName: MANN SARKA Asian Bistro
         uri: https://maps.google.com/maps/contrib/110592811040705638478
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUmyrrZ9T47hUM_uXxb3J9TnNU5S4552_ZazL3IL6_ntAbk1CnN=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNr0b5Sp51pmBNBszX89qVL3C3JuXsMSHaTBtFv&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMbCizbI53E4G-BrWcrM_ofRAQ-3Yc9IwJ3gxHC&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNr0b5Sp51pmBNBszX89qVL3C3JuXsMSHaTBtFv!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMbCizbI53E4G-BrWcrM_ofRAQ-3Yc9IwJ3gxHC!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
   - name: >-
-      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcJIO8A9Pt_yeCoCTEXgWUoPo6nAE5tOuJWvHX-r3dWmKahxasK3GG6qhJZ5LJyaKL8CyNoY-4hNJv02KQFGedTNn_ne_8dRY8iw3JphQ8Bh4_9q0mY_dmc6OMh2w4XROYAqaT8iurPZZeFXzZ-d1iqC2V7eIFdaatfwYjPlSOAOsatBwzcTD1pnoRl-YrO7mCtgfTpQpihBD3vPheDyltYV_UQnbmsG7xY4kdxwdvVg2n7zh00VF3tSTI3qerfKdqnJ4DOf6UqhO9k-hORnbgcnLDluI_Yn6FOuTMclc2YAYg
-    widthPx: 1425
-    heightPx: 1592
+      places/ChIJISPf3K5jwokR3cvB91MXGiQ/photos/AeeoHcLi21fOvg87LxvtPq8MxbdSIccll0kmp2gUFijt_w63Jmdwln1T1NBLGZ7wfa7lbgyH2bGhAfn0J64UZPEsoTlreSOsKVmH9fl4MngAl6hEC-5fGGGgiQyonFe1qMg58zSmk1rQBKjG_0mSN5fPdxi_YrxlLaBo9hRDrdHL4nGmd8JmgVkex8d-TapSyJ17SsBDZOXexnHrwgHIGAZt6JGS5_Daz5PTycBm8JMfsCAk2lhL5D1oYZg6YQjD1g64R8jWFZn6JTkycOmthKf9rUVdlD0AjE-xV9-hiGT8Zl5IxA
+    widthPx: 3200
+    heightPx: 4800
     authorAttributions:
       - displayName: MANN SARKA Asian Bistro
         uri: https://maps.google.com/maps/contrib/110592811040705638478
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUmyrrZ9T47hUM_uXxb3J9TnNU5S4552_ZazL3IL6_ntAbk1CnN=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMVDOLKeO3A0uy66uNTVfssP6Dn7NzGLT_XCK8b&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLErtY1uXNg7YTahG_9Q_svTVG6j3PO_0mwvDf&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVDOLKeO3A0uy66uNTVfssP6Dn7NzGLT_XCK8b!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLErtY1uXNg7YTahG_9Q_svTVG6j3PO_0mwvDf!2e10!4m2!3m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
 address: 230 Jericho Turnpike, Floral Park, NY 11001, USA
 street: 230 Jericho Turnpike
 city: Floral Park
@@ -180,7 +180,7 @@ phone: (516) 492-3510
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.8'
-rating_count: 285
+rating_count: 0
 website: https://www.mannsarkafloral.com/
 reviews:
   - name: >-
@@ -394,6 +394,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

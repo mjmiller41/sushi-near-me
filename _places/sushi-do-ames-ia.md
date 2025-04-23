@@ -13,7 +13,7 @@ description: "Sushi Do serves delicious sushi in Ames, Iowa. Try fresh Japanese 
 place_id: ChIJy_RqcwBx7ocRD5i1M36_pdA
 photos:
   - name: >-
-      places/ChIJy_RqcwBx7ocRD5i1M36_pdA/photos/AeeoHcIGtuzspkqmaJF9LfmWvlsElNNnxRwc-p9ETaFKWO6OXU11MjkKg0zl67zDFdCo_KKjHnlm5wuENP4NG-TpOPKgzjQiGCt_v2di1v4BPyBlHT5Yj5v7qOyXfKk9ZV3FfkrC48kRWJVKksuT_Fxlyc4oy-TH2Di1GcqdL-85yU3TReQO35C6aKTfDoGb9aNzkgdxRoOBnNe6lcAj5cL-mGye4SxxdpOrS8SPAo6ATwd-4hBgzeZVFYBUe_hZpUixJRS1KLtoRJJK_ttPj4wKt6qTcFdsVvgctqyL2AhGZESfd8Xr_J57NTkXD5lf43p0Yk46CVJCXOKld_Ak4Pd20IzUh-Zsw_MtLHRmKtiYl-47x-7kwLLFgl_4XzGXHKxZjsHcMKY-evt8J-L8KpWLOxWxZtuT0kLUwZBW1Ddo1hCjf_Y
+      places/ChIJy_RqcwBx7ocRD5i1M36_pdA/photos/AeeoHcJqWf6ifblAwPZjB0sGPJVGiGYeXbVE8oIq4wvVBcgOPS3Z2Y49QdkYhN7BfJEDQVsAAYgwODHwstFIQakgwcgrWWe0mTU6QtZ3l8klYrAIMHHOTHHcp_daVdjzyXWWlS4qffe5lqaSp7a2KP5iU707PmJXl_Z4QmBdxkbuOKRGcR-Que7AajiH4sD0cRv-WLdiwC8ewR6TkrRKnAOaTdjcqK35a77uX0ou_b1ZjPRDSyzUa1oHYnwlI0DYoPYZDvgUGbrUcBwExMdMPMUyLEbOSKtaBX-WLcnmZ0ZTOiZrBHzKnKsFU-pC4MVQZmnTiDmwjONR6KXfIw4z9sJMYkCc1wGqbuIB-pseho96o_iWfPQXOw3S-b9caj0rIG6v_xZpVmziWROD4A3rFtoWrQwbXhQau3WrIk03FG639xFnAmU
     widthPx: 4608
     heightPx: 2184
     authorAttributions:
@@ -65,7 +65,7 @@ phone: null
 price_level: null
 price_range: null
 rating: '4.3'
-rating_count: 3
+rating_count: 0
 website: null
 reviews:
   - name: >-
@@ -173,6 +173,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+update_category: essentials
 summary: null
 
 ---

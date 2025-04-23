@@ -13,7 +13,7 @@ description: "The Spot Sushi Burritos Ha Long Bay Largo Mall serves delicious su
 place_id: ChIJo-n_xlv6wogR6WkNjKuAHF8
 photos:
   - name: >-
-      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcLVH_a-SnH77ZrmroIHVM6-RATm6_LR2Ok1ur9G60i_B6sK1Girkz3GnqY8fIpne7jEdyrvGz-Q2axPfWmQwAB_t-vOVReeO4TzGKZo1x7F7aGITqKk1OIMqltOoy_1HKW-ri279ohxW8i3XASm3Gx_PEhfVuY7we3WHhxVACO-j5wSpuHwbqVk7D-18oYTohJwbnFu2Rkw6Qaigh07hTcBhMJDUzX7GJeLMx_wbs1gW2eSvo-TRwk_Fo7uK9MKPzyEgawZN62CJGRD2ILrG92U4fVxwhn-KIlghQ8v9DZI8CsxbZnKSbOgXuKGZRtx4EJ8xRIUITnRf66p9fwCLT3uPcFrly13JJ4eFkNn5WAHM6CikhPCXJc0XYWN21jnoPyL9NCxjJ1iyJrDXOwfTWbhrhvYsdIDUh6lDUVokw20tpkw
+      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcIzi_v0W72FtF9icndtCIQKzsuYlVgFU4zhSCcmqjtfPZM7q9HNWSGr9IJxWcrdGqdxyhp8g5aVpunh4ofAaA0DQzJz8TPkVeUJSnH8UZ2RByKZvL1iHaEct6sjnJswN8d0qIy1hDeSjJ7h076OKoFDAsBhWDFkyCoeEie6X1eemAd3rakkxn354HwdIEmXq7WIB9tiNPEaoVb_tCcsTrXtZCeX_hjL9s3IMBNpdgfY9MWS4AqlMmPrbg84NIe82xiZTnkqa756Yuh4JwLfjmCTnuprloBqtPtEuwSrY5vrUdcAQEOh0Hau3yHHvp9r7oE-XIRm_uaKbBG1K1kO87Ree9HUzdm1tdEFkbOu4b-TpmQXL2Xi5DFGk80t1ZQUvdXSoromtAnbAVMgkb0XHDwixJOYnIVmnL01P7P0JJw4Obh0
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -26,46 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu8vre4QE!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
   - name: >-
-      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcK3OddIdBIHw5mZdM3H8_63vJdw6jhWPERDj3IsETpXD8oypWrLqCDs3arDmP2sa14Llm9xTTpMxfJCGgSG6K_DQkmcZbSuIwu9S_wTAcR3IgwSV1kpK99nww9Fj85aYdk-NqnVjHx-DczB-Igrm8F5PIPac9yPwIaXD3Az3ujV3DgdraCIGXpEtlnuC4R4yaTOkyWUudTRsLr3VQMv1R0WuKe4qOMDVFooTWEiDEhdWN9HexnhpwoD-QPAdxX8EdncoMZKuXKnE0At_bH05Uc05ESitcdGwjQIiXGPXsjjEw
-    widthPx: 2880
-    heightPx: 2304
-    authorAttributions:
-      - displayName: The Spot Sushi Burritos Ha Long Bay Largo Mall
-        uri: https://maps.google.com/maps/contrib/115018377498979886389
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWwaG6hMbxhRZRfsbuQte6yknZszJJi70wu9D2_mY5J8EAEaFo=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNkskmH235mL2cPiW03p6CzRt69ik-emFApUVcN&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNkskmH235mL2cPiW03p6CzRt69ik-emFApUVcN!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
-  - name: >-
-      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcL7haV9i-d2emuGR5-JQLA_BBHDOkZDM7C4o0dxpai-i3p48Wn0c3HA16zc9wbwxPMHwqzLvJ7H80otOxya06z-u8oWtBRJJkZseSBeCzhNB--E0noK0uEBY0OrkVdKslkb_M2X0VVAuQ88-9BGYNn1AsDDF-IseSm_y9z_WrBenqe2WbsRdhlp9ZFZscrh5t3uRMv20FYlzUEmU659NEGP1AFFt_SKR3uGfcututzMIFkHLicq7F5eu7CeTrOuk3mZTUQ-qRAcxwPEGLcGfytyG9OBQmiJZyFKtORRKls77w
-    widthPx: 2880
-    heightPx: 2304
-    authorAttributions:
-      - displayName: The Spot Sushi Burritos Ha Long Bay Largo Mall
-        uri: https://maps.google.com/maps/contrib/115018377498979886389
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWwaG6hMbxhRZRfsbuQte6yknZszJJi70wu9D2_mY5J8EAEaFo=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOuoNsVD_OkT283SVdqlOWCKBy2IKPD8ZNXfA6w&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOuoNsVD_OkT283SVdqlOWCKBy2IKPD8ZNXfA6w!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
-  - name: >-
-      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcK63hkzjxxDlTRTzmDeeXgRD-aAWbR5WH8g0UlM4IHTINvw53OVFTHBcvyr_gClbP18H4K3kzcG6EgFHFc51EYYUibThp4F7016hnagcrtSYXKJwAMyFYkiX3XvL3pPPYjxn6Hg0KT1CQKvlrD5NuzrMHQxlnzMK72DH5sNOmrxT_uuaQgBaOlTLAxRdIiGDAU6ISS4_6_pppv1houX6iikXrkjs36Yx1Ay0MEjaATg5GCIa04DydN-iOeBLZDGOjOM8Ht0BZEjul8JyWNDjDfdI5GXzV5HolrrnvW9GGL67w-hFGbSggTSPguDGStBaz4-LVl60-IVeuygeFfgN57psfPkvemRZZ22ALsJnOuSTQ_7xoupOi38aGB2uDg9jWW17yOaI-_w6NLmXlJShRTEKj2zUwcfNxLvuAii31u5iG-2
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: sravani puttoju
-        uri: https://maps.google.com/maps/contrib/117443476775457148895
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXtq4QIp8mBrkLggIFz1yixSTzJwyACUlExsT8O0ZmitHiK66lf=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICL8tSc6wE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICL8tSc6wE!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
-  - name: >-
-      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcKafCXmKi4IZP83n7Cn3CVaM_IkG0URB_MWf4zEVDsEGWDzfW3Te21mAeC5k1XObwHLzfucvmJNwSLsWU44xoU7A9Kx6KNccYx3LdiYV-OqJrQ79JY2M-veX3-wOqtTvOgnTEtvFBFguMxwhUeg6qm0UZG2EkyaM1pwv07a6BwFCwe37ZOkmtj0iMAHQ8HEieGUTFrD_wOkZPGrsEmRbWpvkpj29hzc-1d5gn4uBNuVQGAENwXI8aHZrk_wz0DFo8V8o116vr_XoFILfsZutGBQOxouTNeKvlTJpYA5f2z17w
+      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcJlz_voyAoBNMzb8WTAX-TwMN7Z-_u2wUt8w0tsBifo6IGzix6AL6E4mq0ANBs_wlzam0_vHUyLdeA7cgzOkqV8_aK1i2Zx5qQSVjo07vYOWy0XFw7wX1gBlUnCSm6UWeJzIaZJWsFAINXXb-W0r3rpVGS5Wab5DpSrbZcO0m4W0jOTdXBejCF5IfLA2obMXcEr7WyPZnaCx3g92eGySZos_b1Fig_UcUEBkHPgNByHoHx6Tp9nb7rpsz9XlEGnDY3RzazDYX4MQOInWk185H-1VPD-KXj8s17sJm4ZEpXwvQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,7 +39,59 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNoQZ5ob-4pg5rCYtGKayK2wFkdm2Jfqm_qeJ-d!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
   - name: >-
-      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcJLkiXEmeIrZ4BhXmI4fH8ykQZZuTE4zbYsXeGGnLjUAyNzO7H3UoC0xtwjF86NGO2x4Wle12O4DOdjCAldYi5CEOCE2pochusIgVxbU6eUG1ygf8gDdumiWDYtmF9GVh6SD6doQA7Q75ZKr3OQRevnqHLcDUFGe9hfji4RBg5zTJkGhJih1XZzHpMALVUaS4bS2-BCJ_Y7v-KETZQ3K-7aMbPaMNrA9y3TePh_CocZuRUH3iwxeAjQ_QR-3aXMrsAPg-6TdfHW8xi6qYaWidwa1zB3yNGBeVnsTuN8wV2CTGVZ5vaHwl9mZY9ZzH9QyCZsQFRRpdoa0P3lKu8d1Uey4HPFHQVEibJvdxqIN5Puue5aWXQTJsAoZtSgcBui1gwwb9dzGootZyOM_DPR1t6BLB1-0GIyqZCXQtofT_G58KZX
+      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcLDO3eAfs5pm0Z38Gr_UnfG1jF3CJUeYhi5aOzfz9o3tkp0A_D7AvQusDaPwv3v8PnnadR-6KYQ0S10MUr8VVhq31oX_HnK4cjxasv2KbpFdqBwPkbycFvWUXBhkaIWKseuNdYDcbk4fQqZLwIDrtTTYrPa6sN1YDjZX1MFwUQ9UcB-0rNC9tt_NQvNQ6QA5w7nmCHXJhrPhWdxNqi2d07EdDhBqLEU5cmUijlxm8x68V4Sg40Jlw_PvyZqzjJ59jhWuQ5QnDRYhRu2FyxyzGxgWukCUARYsNIO_2Wa3zNudGiiJU70R7Y4bFSes1mdvnlN8TsquhU1c6qdRktUL7smxIGnbZRogGWl3lxC79WWz2g24aO0W3ELLqpLJE6kBv3_Un0ucqfk-2xwoG_qU8-Kic6SRtH0_Nzni_lmclRNOg
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Rafal Panasiuk
+        uri: https://maps.google.com/maps/contrib/109269890677669463381
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUibt4anPhDtlxGlDZ9Ck-tvfLBxacxMlgF3EXqpn2h4OdCgh4cEg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCItIfNCg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCItIfNCg!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
+  - name: >-
+      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcLpq16MOakwU4ChmZMHfhz3OgItR7lTDdLkhTlDBDgX74W-RzOcWws-DhFvEy2veM4-XzW_nYTqTyKmDV47bBvLJA__ks4jdIeW5S-xO7kyO4PZMPsOo73-miwvNeW7gsY1ja2ub-_sd3VLRgLcf9yX9Kb9AnGqjn94xhmwuxbrW_CXmUZtSCgdMLkLEPSiSDlQyhfnPODutwJT0rQ84Kb_5ZItvDQaRT8qa6ZvUC8tj4tJRPNlRJ0ov_POP551AUVGtfrqHN2KbZZI-DcA1hRa-2j5nEKV0iZSDVkORTiF_w
+    widthPx: 2880
+    heightPx: 2304
+    authorAttributions:
+      - displayName: The Spot Sushi Burritos Ha Long Bay Largo Mall
+        uri: https://maps.google.com/maps/contrib/115018377498979886389
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWwaG6hMbxhRZRfsbuQte6yknZszJJi70wu9D2_mY5J8EAEaFo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOuoNsVD_OkT283SVdqlOWCKBy2IKPD8ZNXfA6w&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOuoNsVD_OkT283SVdqlOWCKBy2IKPD8ZNXfA6w!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
+  - name: >-
+      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcIO-HzwIX6PAZVmBqZGHMh0uMnJxPbbIyUF1aijxTpF0tc6HRkel2KYvLN_pbga6Lx_0cdL3Q2UNG8C20Mi3oJudUjBhapFferHTnmI9aEyMYBcfelRRxmO9nLXxYe3xX2NcJHMscqkr9V8aPBLfoUHXpb-bkbpbDck3ti7oLgX-ogU_HPsHBUlxNmJ0kRXjFybeBAPOwE1P-Nklt-r81qoZadgo7aYM6IPlHFuLrmq43FcMyScZfUVTrl1UoxNP2V6Rm4tpiEvgGHU9LrA88Yf70tPYFPR1Rr6bSMGJaLLVadgXc4DGn-P7HnUvRnR3h6DxY37p1vtkvR8hxCEqVDzlLmSGtZHs9lB6yNSZq7BNJG5eWMhR7GorsTRPb3ZDFxf8tqr6c5LDOk6RM1jo_C1zGX6UKShDCpKaDuysIr5D3RL
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: sravani puttoju
+        uri: https://maps.google.com/maps/contrib/117443476775457148895
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXtq4QIp8mBrkLggIFz1yixSTzJwyACUlExsT8O0ZmitHiK66lf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICL8tSc6wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICL8tSc6wE!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
+  - name: >-
+      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcIZ2FbR_n_whwPsghYbqN3ldyIw07YOc-mYiBwmkQIU8AB8elrxlHqWw--NCqx3g97KqRtv1iRMIDkT8PPCXkWQ-EnZvR4i-_btYL2uwTevLAetP6Q0KFhheyfCgLIPVSOZ9W_TVm8c1W0HHsPs0CEKCgGnRPT5bPizZ5yRgpk-88Z6iyePoYBjgKW2kyTLQMnoqzqUzC6kmxUm-fK1jqvxowuPRxM-kH2q6lg6e6hKIXSqcRTV19rsGfuLHZhvW4_oPyWsFv25zZHRBJWpooidA566ibBxREg4D801BVmawA
+    widthPx: 2880
+    heightPx: 2304
+    authorAttributions:
+      - displayName: The Spot Sushi Burritos Ha Long Bay Largo Mall
+        uri: https://maps.google.com/maps/contrib/115018377498979886389
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWwaG6hMbxhRZRfsbuQte6yknZszJJi70wu9D2_mY5J8EAEaFo=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNkskmH235mL2cPiW03p6CzRt69ik-emFApUVcN&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNkskmH235mL2cPiW03p6CzRt69ik-emFApUVcN!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
+  - name: >-
+      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcJIz-EE4HieLHGeXBPdzgGZZ5PhcKk-FNdFklRD7me5w562cVrW8yregcjZnPlSJxDEtKBFnkvSojsYaYQjQthhkFp1QNlMhA3HGmexIlJ5YVriZjsk8iygfozTg2rdfpRyzIndgpmgNEgjho82rPfmvIthDy92sipPKxfot7jdVr13d_GQwxCIrDAZpHG2TDVmInrTnq5iWXsG6iOyh-IHHDdGPpfrlU_Ob_i3YUq3wXar4LsgIxsusJuWG4R89e8MyHWqhA9FhZFKbaD86OM2CdFGrkAWWhGvgSYKd861w6Ojd89-TrHYeqEzKBBMHk0htRrBUeT23_aSnjh8t_PKTmO7-dXHuvtdvbQ3ucFh5H1684qb9gMF0_ZZnzY65akVeTACJuCehxnaRpr6AjtDM-E7SYQhy-VssNri9i0OxERC
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -91,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICp_oyJnAE!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
   - name: >-
-      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcJMURhacfPmZcKsC303d94Z6WLccqxljsybfrVFMnJgLdXEXTc8MEHbOXcBP_vcdoX2HAGqwE_VuNEIoeAPWy0bvCdfazNEWSxBEAE1x4PwtCLLl7VXv2wrLPeMx6ZfdznrFvt5j7VEkzPqQI-5H5DVExcI5X-la2xvXh0gc5trzakH96rMeC5tjjOt0rWdBNY7RpopGeJFUSI5CgCrJ8Njw_F8YNXBfKal-oLyy79Bi2vFOkyGO4tzeSjQGKwSDgF7IpVOzx4YyxG0Sxbl3Zt0G1ymoYFGYfPUfopzPbNogw
+      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcIlOEE7dICvBNudaOYk8UoehZJS9XUqHD45jcndwRLFT6uDEtdH3WvJqFfiwx0VZMQhM5PAG4Y02tHq5v3xwUylwPexi0U3ireeGVRpg8sCk4qfr7GjHexv_7T4zBo5DLCXDn3QHEoOPF9zcoATBbtrcRCCdFXLPp8j4MnuCmJY0APjBazV7BFOFhBmtLPUy_SIeXvjemdhrATiih45xCE0k4kr32NhPzu4ypDLKwp58ivk1BaJm8UzOjSOL8W39aWGFYHtmNBfz45AhxYyx1_bmneay6N2YG43_QkTZeX5Ug
     widthPx: 3200
     heightPx: 4800
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOt5hSxtZ5Fr9qnTd9E6GbiWhYgISocNXQBeFVg!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
   - name: >-
-      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcKiqOz70mzzXK6_6_pRKphUiaYKIYhKTmRRWk9CH7s57prkD_eRLGacYoCmNsMnkoVV6Tg7UHBSgsasS85cD6aW5trYTIql8PiuLCP5-NT_-Yhmin-6KJJXmtTPIxe51HDn0mjocf-d_k-rpG8CVSdcLkM1CTUQ91cbWvaKZINdFVupZPTzmdoTqDf4qXIBzbEP5wYc5FjlgO-EvKz8-G-max6hxBFIuipBuDZqeJwHX9ZvS62YSFIQ6QNmSK6XS4qo6y0ialON9ggorV9PBb1j7hUX8hRk0KhpGTe0Qy5XJqmzE4AHH3c37FeljdZ52Rx4hdF-_a2LhXL1usz3JE8E_d79OvnmMrjtx2_Z9VDuWBJVMZ21vG8BQHRdq5R-eYofXIks7ufb7XaVQfFMVvFzOAWBZF-2nkJLDwmxjv9Hug
+      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcJvfVpSUT896LxqS2TAWS9MdDcR-QBHSiMhdySwgNW7CKYMbGdaT2lAQ2P1oHU8oDDciHGIMYiCXz-_tDfuO_fj_WXadk1s1H0blLtDqg8tLRvWUCQCY8_rbKiNmeJT1pyt0FqJNEbEdQws_hC9Hc2_Gi_LH5XOWVsYieSg1DqmwK5PatDujH6V8jT0QHP_nR4hULXDJtzz-eiohshJUgL5x6cPs6HO7NSToW_Y50G8uNpQls6cRw22aTX9NJU_ZVQkHizgrZsi06d5oex1i27RJCyrk4WXgWWkrLYY4XTToxXsZmYdfldMmguTq10t2o_sw9AFY-gpWrQgZh1oEXRP5jmzl1vT5jBx4dNV2XsWEs4tHeo3wGxF_P0YAlXbhs93IPlVwPg2k76GdXOKr3rocD2GNOO5n2JCQYIGoDdgXw
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrxPS_MQ!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
   - name: >-
-      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcKXANPx57vhAvIXx4dx-t_po2JAHchb1Umvu2ItbbQOxd5BW1I-vS36H6xSCNE31HzstDYGiIGZAQP75oniWgZng_acscjXk_yu1_9UWVLuYCp3gJLTa0kG8MfMgEFlxtvpn93wTjJXDsSwksLYflydVoRWNeO1uPxdMyJpz-Pn3UnKL1OQgx8-iI22hTaci3oGdsWMEMZlE3TEnhmUzb_GWH1r1iZ87OwjlPBdXHSbGzs1wmz0L5CdRA9R806VShR1aMQ9Gmg1_PyHIyA2MQyT-7MxonVi6B4C68FbfwVlqOdGpis0tDN0B4_bsWBsKeavU5MaK-ldRUXQ1li4aIA6h-T4Jz3XdjogC9wCKmzyIVQwaOMUjJ3m-cDbzLIrcLQvzxCqiDVEWHsrAnq8GaEUTaZpvLgPHL1E415SXgY
+      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcK9DTHOxAebN3BFf669mh6m29J9JVSB062srmGar9LLHe4X1RII8HeNpJBWBjPMVGIUFWAxXFNk_9j9LFA9O3j7ReIQW1Nl8Gtg-A5zsnQX058SZ3uY29Lzbt9G-sw4ckoERHOOq_2B1CdybtmTGmqelG9OZVpuhP6xN84leZZ51TYR38-jvGJhTGXwg4T_YFbnafH_GLue3kBXM4_ginn2HNIVHpsYtosMcm2QwsIbZnDSJUwTXFntd4IDKz__H49wtBLU1AoQzrGp-thQ0NZIuypR2rscL4bvJaJExjXIzDEErH3AtEqhpMnE5Gri3hGHpzAsUTEKNEtN0UROjTRzQMbFpYgIfC39_p_rI7NHqUw8xHAoVdTcl_bvbsQs_PerCXi5sMPJHuKlXN3TfX3VYDjMt9Q16I2PuzX6FhI
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrp5X-Gw&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrp5X-Gw!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
-  - name: >-
-      places/ChIJo-n_xlv6wogR6WkNjKuAHF8/photos/AeeoHcJ8VqQpfnHMDtZGzl_usQL01GqyMYQtbZlIFGc-wPMAN6fLRxijGGBBmNAYdagA9B_I97WXagQ8hobJnYQ7AlWHBDJMXRT9eAb1Dkgb0jNbGVlqCJbHo48DAOFBsPv4vje_2ekrY20s3oSe_AIrs3zJFVztdfiNPPA65MkR5IWDj2R2_9mmIJdIf3OtI9AVONc3RUyuIyIXiD5YIFddiQZWXfuCUNq6MlWOv6ASZBlkNRB1bG1Y5-zGMF-Pvsd455_j0gr152oe-hNA9eZzgpxzMChck25SsfLarQEhYJFJOM-4IxJXiEmPNUk1-MLwzPGrxFAHbbVtiCagHHPQfyHm774SWq11RqdMQHSsksdPJQ2MIMOSX9pUjW4clSnGTDSZdrCC-WmIKFYH3hf4niNOdxCu8Pj76yJp7sakipM
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Garry Donnelly
-        uri: https://maps.google.com/maps/contrib/104559819684298657715
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXLa_WnyM46e14on71faKGaB3lTP37M6OuJhk2-FhZtiYQYP0il=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICz4O3tYw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICz4O3tYw!2e10!4m2!3m1!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9
 address: '10500 Ulmerton Rd #288, Largo, FL 33771, USA'
 street: '10500 Ulmerton Rd #288'
 city: Largo
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88c2fa5bc6ffe9a3:0x5f1c80ab8c0d69e9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (727) 253-4593
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 1161
+rating_count: 0
 website: http://www.spotsushiburrito.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

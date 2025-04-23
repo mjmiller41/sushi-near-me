@@ -13,7 +13,7 @@ description: "Casual, contemporary restaurant specializing in Japanese & Korean 
 place_id: ChIJNfSjVH6uPIgRpBjzgO2XU_Y
 photos:
   - name: >-
-      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcI5rIaZfTGdi6cZwovXG_Hk4HU-AIkSIXk9sCEPN57J086ir0UiLS4WZHnmzJdokL_WUk4iRRYbfwrjkGc5AiJbW7lFy_vqGfCla80CKz5XDa2uThcy_9FY-ZAKo7lZKBhORJLF_GK3DyBPwbJG2Xg-JgmELw1XNI4iKChXaNcG-Pa_-Gq-CCjm9Y1X3jWEDmkmJlZy7UNKvgwYFdbduWu9f23XPOevkAHgyrXGrMRPP5OWnhOXNV6deVPb8Qut0KQIvIWRY5W6Ht2bEF1MrUOHzmWlddr8X0RrDXPSw8v047-aDdRDmmEx-Toj7zXrhZRjpSLeSslI5iKaabX4L-uIKuuMwhrAoEDHUcwyv_bZNdBGVEV3W3qHA_1Lt0x3QGndqB8smwLG7ph4v90MsdfHEpYKKoLPbju0myTafYN-cA
+      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcKAplZb71XTjztobntgKVG3DFm9spJq8qsIlGecs5eLq3AC319UEGYUqxv4_D65cnBnrsKv7-XFzqnyMbl3MHV5CN5qx37r3YSMV-7bYOfhzTyHrmoFpo1AZkRUuGitU-ZLucw-ZlTNmt_f_aDLPIlNEZfUTUMABN42wKp2a_jyiLxDUgQX9WDUImzjkJLrWpe8TD8kLmjwealPxDqvC0YCcdsNE7KxwnJWwWtGg_s3PpxJ6PXCWT5TT8vRbrdyN_OVHWfga9CGVb36j_RiNuJrD-RKHviU9QeElyEvmFQOQi4Dsx4yt7RP1EKt0KZfwCiafSKxg3uhzjEwwtV2nV_qhsBIIhFN9ItWUiVj-rpJRFjUsrIeZWNkYM3Uwn5gwb8rm9aqGNXR20CLmoSK_AHcDth1Csy6nqFv2ugiRFAdWQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk1NyDHw!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
   - name: >-
-      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcK__eTLPxk8NPj-xkmjicUU6kWW1k3ewLRQFwK3Ss3EXf4qKDPD6J4D6CZCz5BtgXt8M4qK2D0g9oNVkvF6vhdN9-Kj6l6cfWIq7Wm8R0MNz3PmIz6M7siBxJkKaqwdDl9CWP_9F-jmW_dSPJLplfiJKFFyrVD1r2Nzv2tmajpB_Q6CWkJHMM1vnBvRgoCwfPopjRCMRig6cJPcutUDuF2psC8KS4VlV6v4OCHDxd_HdYGXuhTwQB4-fqqgt7YU_qxqyQUC408Md6oUclNTMsbrjbFiwwzyQi4EYyPx2ECB8d_UsLg0Zn37NfTVdkUFzzkRaG6QkxaJIn1BbnyFhEYLv_6E92zzffxqtwaktZNkakYV-Wr0uphVNfBFfJUyRoIdbz6cpySNYgz3FZRdFc6Ael4CPIw35ZCXOLLTrpO_4Q
+      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcJEQmyyX5dTH-LMeH23vuIRHtRM7DOaU39Y0daZRCZAwzs9dTkBju5YVxOU7RCrX46XTiYvTSRJV29Eorj0mPQB1Ujp7Yx2Iuhv-dV9IETBDXKP8qhnpYFpGsKY8ZOExBjuu5elwf2v8En0tB0sCb__U9ocldUpKjJo4kER3SqGI2ZXgPS3Hcvl1tcUX-aIrru5isoPxA4w-kFGEA68lQHlTtGiWLK4h5iMvRGx1Pe6BE22fa2wctOPaw__KQm0MjcXMZOLEBb6jxcIx8ebON3q_85P23OIgYD1MaA-y0pbUCXFNWk-utihg1ghLn5OIy0elPYb2tA0z8sE7Y-e7W0AERFMBPyZxj27oC_QJrtGWaBgy-yr8OUmtXb3lEq8mFeoJICRdM02xAEvNuSoSaz0a_rt7URP-RQpPNqNPbqUeg
     widthPx: 3922
     heightPx: 2941
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI6L_6aQ!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
   - name: >-
-      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcJcsKpGjx4PK8Uhv3acMUJnMSByhVys6m0JsiKhyjvaMFY_6LANWY0RvCUbu9XpIDqS8W0FHagHS7F9m-gkiKV-1lvQQHb0VVZ90etAgMMMUZvg0mHXBU80EqmD0BvoA-C_Wh0y6lHGgi7eGVjt_M_D8FyOfwCY9UsanGbrVmAPBEgMeQbZpzMpdsAEjzfoFAry-dCM3R6EEceZAzgGuDIru6Vjb0QLVTVyn_Z_swu5pOPABBPxrmvq11X0mv0FliZ19EmZ-fMsuBg8j7XCirlJbOItCqfGoV7Gk-F8hXRsRg
+      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcJueDdrDMSXVWoptRSmAK_8MGCbjGTnbhUqenBw18hpHHx2A7Hdm0N6ioLOKAyjZRvMGZYAUFo2hTMMpHKH_CFqzve3smXI8w3hWZXMuxdxbGuagNDQM4wizyBREm_WeiutMl3WsIHWtCqTjIQk5VEchxH5TkY7kwFgpPW-4YJgltoW9pg9EaNzNFvg_oY6KNy-o-HACZVOknU3SH5yF5OCuTUxmc1R1Vm4aH7vddNXT_SX752zdgdV12z03hCgLgqgQPo4Ahn6RYXiTb16wq_pGBL5Zruopjnhp6esRiZR3w
     widthPx: 1200
     heightPx: 1200
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMgpqvHrYeTkWTZEv10571Me875hAZw5GBxmzgk!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
   - name: >-
-      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcII_2jf7eWX7GcpC2ZxByErkUMqLZtFRK_UgJcZ1OtW3FfJL1FvSDknlTK4fal1pmfWENQqMfOt_SzhiopGOt0RJ4F-XQlNSkPZC6x1x0u7ndaaDXUR2jqFYk0MhWXC8HEhovK17d4op4lSmi4LFZWT4CiW7fIPE1pJcYOZvEO4g6AEeGt6-_gxB0QyoS-rEMKzzgc7jkzF9QSiKgqCH9SoCyEzJDM8VDdgmPxE80uCzb9jgEaHc5E15TLJxzIPVQCJ_tKCE7Q5HZjpTrfPL9oXCZHfr-JNaq3EQnxal2la9_CD8N_MWUU7qDfLgSmYhvPq_tw2aEo-osFcVp7ztwlDok6pgd6GKQ59QSX4K7JBfjENHyxcJMUIpdMhSooyIvaf--bnixuJhaSb4P7dRcaNqEtTikRTzYd-1McfFHs
+      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcIFYnx8bIaB_Pl4jZJxWt-HUWqOxaYfwig6J_uMMi8N0XC0IrgkyeZgVwR9SOR5GTSwQOVRJbSDL9Mwun1wtwb6Vf8tWLq7yCT2-tZhoyd8LqZ61c5DyNA0EWBR4qLUp93H5nZj4XyvvngGXHAQxH-Bw1VYbIC9GDT7jNhtZnvzYrI-Lbf1nkjVGPIuP5XEEReYmXLO-Cp34Ux2ccL7VaanVM2tPf0_c9gjRwaYf-67N33flkaB0bSgzQa5nvK6fb3dgVCOxYK5bhHPdOuJ4gj2kZd2sWLfRVADzwFo1XHp7OqeJ82w4iFw-uMqGApITEgstTzhyRlxfU93ZebV9ZDmvVBCu-YleJtahSs8k7jFUAwAMZax-z8800yfrcPq-UTdo8uN1tNIr_ecxM9HmBwo1pOjWAGHRydcdvTjUH0
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI6L_6GQ!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
   - name: >-
-      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcL58EXF1LRN3AL3CIuOmrxnUlbWnbygEY_GOeuJ2g_e1BPJyISuIdxgoGoHHDsSQIzDhJMEIMcdkbVRagB6iKeZNGCW7HVjpsqIv_sdzjRZ4N0yq-0YFiCiSKT_EyHicNca4W53Hu2TcoOafDUSg9r2blZXv9_zYsZXnrKsOqZfVjv2Pi2mUqoN77xHKT_jzyNFfnODks_UfjxUlnTVKKDNt8Q8v-YpbQCFZiKDs6zErBHSydQOFqLMsfleyY2G8wkukbHFRIXoG9n0w03eqmB6Ooe0wp-mIWOktzqrmdXi3xdUVU1OYtk26o3pPETCT6qEmFFEfr8c8JeUupeB-a_y0DUcFZU_kWBEICzM_20c9oh41_8GJDgsroli8viS7DhoLhDLYH8fDCo08rkkCtZaU-LONezS3zecgy40nh-Xcwl7
+      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcJwhUkRfIN8CM5eUsVqst4JH8Ow95Fn4zn1GXzRnVOA5ZD5cw-Qr-iwbS8wNwGndsVR8bsOvJZqPNI7Lq-ZYjeDeOTA42wpMVi84-4juc-_GJ81Fdbkfkdh7RVIH6lCOQfgTG-vra5Xw54CiiSj3jtX7Jm-BGbF6Z4m1zG66lVlVCzjytSAF02IcCkiUHvAuyrHa5HWuoYWfGv0njPROU3uwHUrccQGhXlHGwgpC_oV1RzOmIf_HF-5WtFEuJrwPxA-xnJg2nbCbYzUUEfMGk4Hj3OLk1CWADF1WYnz9D6QbhNmpuvm9hKy7cXt3mntHPoLybhndK-KPqKZ4liuSEud0VoCXPaY7T5awZcXWQ4AVADJDBjQ5BHlnXpSX7Y2vwl70KVCOzXeDR7hO6RIkhbmTqOvgpC-iAsl5_OymJfgvv0j
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI6L_6qQE!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
   - name: >-
-      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcK1NzBhXmdCZXDFRQna8-WQhQTMPg2iZB1IwkKvN5ZcmLyFHkD6LfL0ZZ_FXCvTwtLolIvHRxHPiBNkDUZ4m0vM-BJXNOzDpeWuqSdhff-w2fqE4gSp60o4jOiukoKV8OJLehj5nr8zvMiZ1z7ZyvMBGR-kU1s-3B-jRv6S5XLVoR5jF-0Krg7JGrm_RdaG6sATwWWx2pJiFPfzC3iwPrTVQ20A1NIDs6qVrmldlnwy_y_T5KG3nrH2VTxCKZ6pKtP-y3JKp02RAg80bumfGfs0qs2sdxB9dQBt_6pNrFk78g
+      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcIzPrQf5Dx0Rj7PEWuews6NMSCojusmRhaeqmEgcYxt2RyW3xSsdkhCrR7G1Xj9sJnN65YA_w4v9KtutVUnt8LO4ti8JHu-KtHMooHd2Ekmbw-z50ru8IxNqBAutOm3PjMHQjlYp26UvxIp5giheYy-lOiWkkpppaH4enE6MFTST3D6ziGxV_HCYJyqTGqcQtj97dt00jV5JNjczAuTFiTPwKsLVxJtipMMzTqo_RmeG2_WCyq2s5_vaw2iJ7CEOrsLMz9Qp8SF8vhbKHpauOc_YvpGcZUKcNiAv57OFSm41Q
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -91,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOaD4u2p-M_4546dD1PALZwltWZ44cowSSR5UtH!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
   - name: >-
-      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcLv0HWSzhQLjWrtzwk6IH6dSjYrFkEIG5-bs6Y_B4xrK-FEVP-pVOAHJDkM9bbjXwLFkZP4fbP5SFiPBKBl_hshkvwmCCKjBPZTo2pdy_LM7LPwO3nxceGSXrSERAX0aoLunLhSkOrPHq0UZlPQd1QPEQ-PFmay-wOc8QimrR-CviWWlDZu8bI25IooHDBCMMmwItMZ2MiQAd_eZ65uu_CihXwIvn-fehgA5KGWRNLMAXQki99NXnLVLoxvISso_aazs-m0WLviU9edYgNx1zU5sxeLX04YfT-erE88zo7kgQ
+      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcJupbjKAuhi6zgCd9K4MCEwnnI5kCdbtqc-kSMX6g-On0Y6PjnmUXVB9PabDRLEdT5NpEKd1k771kba4mmYLS4fdY0Aeq2fUfJRpRtBMmJyY-YRF5CCfF8gTPIj9izZ4iuRIltvRYOHdl_Tf9zIUdJt4K8DiQCyK_-CFzNFbxSj00CAh_Qk-8XrftYNJARXzaMyH_bMo6bj1JEJakmVoPjhZmd0o5fYChaTNHR4czO3x0ICitOIuGKrloo9bfbuRDExvl_8Sjvh8fvbQBQZLT8YtFljFe7q2q6kXQA_l1txyQ
+    widthPx: 3000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Saica Restaurant
+        uri: https://maps.google.com/maps/contrib/103201141578132487935
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV6PbVbLe8ywscVSocebggUWe4fjrtwiMbuBWcKFNSF_Ng8EHk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipORl_lBq_xzk7Ioo4La5NlDct6znUPZ3TTA1J3W&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipORl_lBq_xzk7Ioo4La5NlDct6znUPZ3TTA1J3W!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
+  - name: >-
+      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcIvxIcFkAVxzGiOEIRej1ws7iBcVK07WJiRs6T1Vk5qQ4c3Z60KcBNwvPXFKipZ39FEJG74IE0ywIcL8sWUURmT3Kal98wYWWndvovGEjkcluXwASa5m0atJ4LCW3vNe6SHp7shP6GzKIegZuhXHJ2w5nu82n_Aq1KPG0WKe9yiN1jcMJIcTni7fFVZUYVmP0DpkRFjZo9sTKOk0-BDBZbbkhklu53wtH2_MTnlF8aYfaNDBJlP50VKjjz3SSfGDHUpfMZTMkBr9yyv1nZaj1Emfs7ZfCGEDYDSg9vVDTljzA
     widthPx: 3000
     heightPx: 3000
     authorAttributions:
@@ -104,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOyQq9_UmBC734SLZK_Ojz5lh2e3EeE39fc7RKZ!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
   - name: >-
-      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcJxsA9df_2Ei6x9HMaNqqA80juMDMRIjxXtzuXekW-JK5MS8YUytPALIYIQxv9xLhOGyIhawm1fgNec2avOZVlZuwBwWWcJd73GKA2uaawd54HfxMOnrC3RuNfr0c-tCn7qrg8VbKOQdJsQUCubqs3_1xKxrXP7tZCJ6iixqq-ijvSLNWF27bnyEd12mTXM0kBdTvCE01mBpF2oipG996fGTrFhyAlBvNaH43aChcd-G_4QmflC-fgTQexnMwrzyeUTe7eKdby7e0WXCsS2Q2sZqyBNYQwePGwiAHOuo1WB3Lzzlaz-5Q1qH4Y4U4uXkxDVxzQlyDCwIuy5gjNI6YVTSrwfe57OWqqv7oCDd_90Ae_meL0MpU13PWkrFT6YYl2mWcEJrRmKqkLqfEXC_yH9GZ_fAbtoAKAXbRLNDyfIkjA
+      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcKMnRcnQmEAjsIVWw6_OPZpSeOYkvJDenT5uhrXVtrmmh12-xsv_s-IzkedbaVmI0Ksll6U8XRBDkqaAberpKFUL30BhBcXH-Z0UYZbsYATQ6r_Lb9svdwMjdgHbly4aMV5dbGv7xNZCLmBOayuuzmSZgM_eqMTh9OOWDuSHi75tMSza16Q5pHaWCX-2fMDnImZq637cFPrrJgKS413_rBa5SQcazQHJVTjvExgIzvpnIeoxM-bTkiY_6o85wGJzubFQ1y_YZ0ObNDQZbixjuSBhIbhUXuGjNbJ4LE7SWy6DXRfM1Efo0f5of8Zvat65GQ2sbMs2x89h52pxnYFp5DjmgSgCIuiPrkD_qR-xv3rt7UOdJMpPZPn5cZ_PusbomKy8INmaDWB-f0DAZ1XXTapfrayJS9pVkco-Jum7Uc
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Roundhat Rover
+        uri: https://maps.google.com/maps/contrib/105306204619049587222
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVzbOyXrThzkdnrbg8hla0hu33DvCw9CPUEdG5LMcho1qkmDVFGTw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDd1dG4cw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDd1dG4cw!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
+  - name: >-
+      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcI2wEeFLYaFTB91cx9PGM6Txva5d0gp4qkdk0WqwS-4CnGjUyweGGXN28iyhkphiX34WWc-mTxhuiqW3ReljIaKRvoAn_j-c7Dnwoc_IWLXosFFDArbFUI5p-hqFF1_aqYAGStMLAX-uOSsDTPu3sO158OnJRq-UYZtppKZAeLb18oKfOZHmHEYebL8c1Uw2bTa9RZaPSFM30MPDQLSNjEYvNvrGVXuJjjQbVnBskPwe5B-81tCpGt7YEJKYJgIM2turU0GI3jBwiOQlN_Sz6-n74Uez-XxNp6bVK0tvaMX4EXW4ylG3lLERJINC0vfR-gTu01Sbm5KfSRPEmgpubwtZ456qIkSjgxhQQGmaDXZmkMFNwDu9snWm_yfeQ4y7yqeYN8-aT4b_hZZ6wLIdkpcgMYNOHiqERU2-klYN6MmoVA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -116,32 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI6L_66QE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI6L_66QE!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
-  - name: >-
-      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcKoVy-GxwMoyedp5S6e3thNX2645jw7IuN8sZX_XgRKttVopXNhFdFoGdhqKNF-WrRSnhQCLVXXvTrQz2CFWi95ztMLhxTebPeC7SOWVwnw4H_0XZ5Pf7LifHxMQqOpYc41FJxpvYhM-N1JSEpljVJrsGvf0G2kzs3ou2g_xSp-L5fTfVN9cB5ivupKBvY2qlCoS0rjLgNrLwt-9JeVWSzCNWUIW7WEoF2qGMOqSwc6aW3A4qGnnaiTxAU093s4EAJZ_YgSQJDPvucFL387vHv7fkmzlWOrPYW1On9477CKT_X0odLZPtusnYEjKWcWSbRBCDPF8TOwwu8YZjXOJjm1Mu7lwa7UdaACyMRUq9W9s_i1o3hXfy75HoVGfdFiFivs9XHgH6so0kT4XLPLAnb0LLwTjutaxncILvU7cKoPp0UW
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Ani Daher
-        uri: https://maps.google.com/maps/contrib/112768155493879336598
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUGwKMYwLNxgm4r2MA1Ry-iSX3pp6bZgUfFm8-yXSgjjDHiaJgVgQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJs9La5wE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJs9La5wE!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
-  - name: >-
-      places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/photos/AeeoHcI07S4mqVQZ7v3lmqea7ITK6gFDvShwkT5G4ZTZnTOhxegswfOrxLOOOIL1m8q2-GLhN3hGTPq-NZlydKNGdeg3J-wIXJa3Kut0b2uZMNQ5uWVYXcWeaSooMuJxvANvS3bUbG6hehTp-x4CyqZA_dtEk8Bv-BMAiErl9Hz4guw-6ySj_AUSNi6AH4QYSC1xKcnAS6Lj3iQgOu-BtMWH7IEqxcvIgZG4D9zgBHn9xsPFEZ9QJBTUIk-pgPG5_ohBUgIqUzpgQ9K4ZEiEIxydfpmqFMIIcD4xxnoSRPdyGkVa-w
-    widthPx: 3000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Saica Restaurant
-        uri: https://maps.google.com/maps/contrib/103201141578132487935
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV6PbVbLe8ywscVSocebggUWe4fjrtwiMbuBWcKFNSF_Ng8EHk=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipORl_lBq_xzk7Ioo4La5NlDct6znUPZ3TTA1J3W&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipORl_lBq_xzk7Ioo4La5NlDct6znUPZ3TTA1J3W!2e10!4m2!3m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
 address: 1733 Plymouth Rd, Ann Arbor, MI 48105, USA
 street: 1733 Plymouth Rd
 city: Ann Arbor
@@ -183,7 +183,7 @@ phone: (734) 769-1212
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 291
+rating_count: 0
 website: https://saicarestaurant.square.site/
 reviews:
   - name: >-
@@ -356,6 +356,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Casual, contemporary restaurant specializing in Japanese & Korean fare with a
   focus on sushi.

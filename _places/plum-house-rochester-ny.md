@@ -13,7 +13,7 @@ description: "Plum House serves delicious sushi in Rochester, New York. Try fres
 place_id: ChIJR3DQ6w211okRvHfN_2U2pyg
 photos:
   - name: >-
-      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcLdlMy2gP1HBA6tyHrFCZeC8awrTf6Wb0manulLKWJfinnvrHpOxWGdUl2R50hrrM1F0DzInOT1tgYXowLqjRgIFpjOUF2eXAqKxVu9T9p1twVdFtRRqqUaQE59wrGKNS8USBGPuePnxsfzfTZcM9l_8OsoWpWy-Vy90IqGPl-X4xFJB8GW-ZneONieivUF9omApcTq5Ivh-Rjj9_x6Ia6ZckG1yVuOi_0JW-LgqykQ5FIw60eNfYeDh0ZqqDgqr7v_3RWqU9vtIEsReGRN9G-gXVF4RsLyKPNBPg0S8iNFgg
+      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcKK_LsqGhDWDgkpZpGKb5TMtDcldRhZs6rtThNmhJgrUxUa97CxkHdow4fZ55_SdOmn-mFD7cznHrXfF4gToXeV5cUE4BkZZyGL7BmsxY48tX7ZGU9_9Pb1hjyP2MAjBiR3W7VlH8Nt9dZzOG0hkzNCjjOx1yft4cuPdtHvgRmvcvZa8AcYHMo1-AXkqBebk_w8kxGdmGcVxuC50qvgpIejmrUy7Y_6E3chk_LGXPTHZAzH9dDHSJTtaQ8XfaF__GRwhhtI5ECqGnl2zy0GV_oi1HHCyR4_VoQIicZwAdzK1g
     widthPx: 822
     heightPx: 462
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMQGttBkkWcvPO8oEEslHI9_VfgZQO3e4YVZmPZ!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
   - name: >-
-      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcJZVKAJDVdQlx595ZulX7Rlavikjoi2sqIJhkfqJ_Wjt-2XkJ1tvpmw6cU7K06Hz9B9b6UxwaHLvAA19e4-WacGXWEGA4eiRqsdrSwQhH-jQU6zD9gC97wveWJtYOV78Xb2hw0WDzYkkDDVMlzolq7N7wRkpCB-Pg1_bnWCpBgamXgUMrmyksjwJc4LwT6SQZhP-2Tyt0DDRrJEyJjQt1NxAGFKL1C1aPNY6AC3nCGVHrn0b6-KSLTI1EpmXfZfVEYra1BBqDHcuifPG-g7LVOnUONugx6bBMcQuiJlgL_yAg
+      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcIvP0p_X8adrIhU05r-9Rr3BUoR_XdjDoJUUWL40VLtscdxy3yrqJr1P-5Fe_GrLDfUXJxft8b_Ndxv2ggtaoYZb_P15Z7KgHKJQCiQAyhq9fpd_BJ2aAsknDhBuLghTJxGlthsPFJykBR2szaiIi70YZYKam6AkwJKT4SyfiLJaNlSSqzwp4zKe9G218N_2pN5tShbp8uxmdEGp1FTU-7IiBa5AQsui-oHm5zDRiAviTCS55Q6IxXkawsjdT0uLEW9AhbW22UT03ab-5sqyQmYMnRDQV8-2I_zir4BmAz-nw
     widthPx: 1024
     heightPx: 768
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNRf8WL3wD0A3uLIzZWiNeEljQoisKQucfVZ8gH!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
   - name: >-
-      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcIFPDfFjmCOpZxpm5SbM1UyuOQedRRtaEqWVp2lSige3QC5khxb86pT17tNKUss90CLa2Wath9zgRrBdbnzeXb5li1ijOndo04TkmOtOGonq6r5UZ1-C4kYU4SUHdDPKUlYb1rItGfKT1Qb6LDkeX3odP_B8sq_ys3z7JVNxz5kQPSK1FsSob7PjauPc3v5FCLdD5QnJ-mlbEsC4OQa18HgnHScy-uWZgASoiW20qw6yZtAYe-rh9X6kYV5A5cebH_DKuHA6GntzxZYW6JZS6lPU1Gmh4-JQkodXXsYXLqrxAqRmTWHQWzU8ooEtqQ8QAmF_zt5EsaLKVRadejPfYpzuFjuqNvAlYy0iqjvgWw1yG3w1huUOmQ5BvDtNsC4ndjkKiAOkONxNU-Y_W-L2shEJnvgL-y5it6PbGHDpd4CPQ
+      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcJ5MOa-arBtgIkHG5yTHSFh-jhbASQzhMqFAhZTtX4dMz2AdJNVYRs862itblamS0zGAwtPo0tIGOuVHeTWLZr6D8Zaczbi5z1fy_Ig5Q3BphdAHloZlYnDlUfIHzdyMVrNIw7HJJuu2OTjMXK5txngV5vJDJwB33USCI-5B9x-GhNZ3oCn9a7l3rX7iXpZ5mFxlFOCMouvk9dsn1M7x20WKdXtO5EZOcljLK1jnmgXxDaC47epZQdC9iLnK1scBg6TgsgpAM56JW4gAAsoLZaB8WIgKHRit_N2bZAFIsrpVt4AEcd-H1fGtOt3iUx9H54putvrKsdxS1ZAAo4DrRntkk0M8PcArrPnFe7JMIaSoisWkxWaFE5pQgfJB6o8-DDQp1FREDWofAnNKuelKRxTpdTWh9nswH6YkOp1YZGaCg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDzoHyPQ!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
   - name: >-
-      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcLNSvWc87s637aEk7dvW1UnD5jaO97o079ObJ0Sr-Z0NP3tDCQ2YxcuYmgQ4udRCgRVSHyKurtMFz2mQjGFQig4UHZ0ypwovTDWa8HTrRaVE5ipbKvVYY9ReIzurtinIi9rgfHaMgRYzDGT6hmqPB1Ro04m8V8TzXKhKGtd-1PQuRFpDAmfstjwpBy2IstfxpxKtQ4tufezZ0mYbu2wtfqzzVs4Zjr5lJ-tq-5qBnemTPaMFfq8mhAFYhyYDGCC3hSUKmpQSHoZZwSEDL_dUlK9q-0gik_jMg1AwvX3YKXiMQR-QcHQV5fIcFmcdfJW3mB6sGUWDxEl7Ahrz-1cOXiM7F0Jo52za0imNS6aJzVcxXY8zYhkNNYJjQmvy1M7tD6r_1aa3hbWwgzvkWO-PRAktYfJLrYbccap8cEB1Z9XeA
+      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcIiD6x8Ul-EB6HyvG1cGWyz5pFM6V1O06rH65xVAGOIQ6RMFeRsJpNGnDYHyRITVa-kKI3rL8GmZXRCwM8kCOUEvzYgH1-Vi5dz7TmW8rQFsnYuvlEri9OlQZ13umvCqd68X29eMVBQpkSQ-55mf1jWzIIXvcLsYJUDGnwFN2rXuTtUiTPsHrZIV3hh7LdhB-iSqQgI3dOAI207jdjzlTfaJkWz8zlQudA_eGZBxVZHJSbfyVsw1o5MooK2jI7p8AfJ3nM_9OJEnPEZ_O_B5ta2TFX_MKKwoW6FWJZDAavZHqQc8Mn2nGOJP0Z140iwOKh2uQB8VR1n--fgHB_giXX7pHoZGWvjzRQvCz6yUvfc-s_rqLvnMSSGLi4l-oX46H_98nySFPrwVbPgNbFOjXiTe2drfpeWSFLYdqtqGZ_ezw
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpr4-zfA!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
   - name: >-
-      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcLx7xb1XQOpy19OxJU-3-hqZd9StHu1oYbYuRvhJrtmvgs9E4vJES2JNreIA4ocC421OwNsp4bY719F3zhPUipr0LbLJwroMlIs9nmJVlmUHyibYmaz2xWRmtN8GXre3UaxzST4c37t8FrvRHvGPZHRiy6aAnw-B2Wa8sAkrNscpA9bvMWlFcpEgSuNJT41s9ZoTCKXtOWJGqwZuCCZnlyx1j40ur7aqzrIj2d5xbx9qzGuEsTwFDcWihrY5z0xB6BNZgj-yyWjImuEJyikLzExrCozsKcIq3RO_ddTz97PNgRQSdMK6wt8kuADD8I8qPDHLHisIQAej-X_a0T3f-QfxE4stuZn7vfj7ab8eiP6h-1fbyVlAb_6UBL3tlL1IJMAhHiz3BYcNpvjOF1wfIRmsSBzQh62qEyL-ynICJVGdw
+      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcJe4899AGh0PFGNMswVysxWRUz-r6GHPCog82b8-PlUQRTO2034y1PRQwF00AQ9R5afhoyAsw-6kX67PsRSArKj3MBipokBDPaUptYIrTT5thUTZ7qfJvtvD1qZ2xFvC_4O-ov6MmAdMUDAiBMovRAURKP7jrI6hj5XePMZepsgo-4Xh4DwlQRh8Yz3E9KrMhykI60xBwLQrKGM_4PH7uYwEfne0rnbHxe6HElax8aX78Utm7vvv7zuulMEh_Q9IBPqycssk5mGejMP8IZ22Jn0Ing7qxo4ws_92kYCQkHt56hRLj3O77Nnam9G6zErD_t_s4qbzAIol-iDZLD_lSow3l32KCMlO47MolwemsA1XzeDWQ1FJQS8eGql7tjKzOprM4iy2kPqq94teOYcCQUWXBU0AmHkJiCapVLi2auPLA
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -78,20 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT3r_UVQ!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
   - name: >-
-      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcJE5xOs2ijXe-60rBv0SIEg56Bks6PDF-TnMtw6TYl93CTyAkfe_UXUkuqXOKi49_FN79Fxx6tHWML5nSBdvVaw02dbhaFuvHJoBqdhHDXSfOu7tNM1ojE3UEbAQFIIAZU9ZsbHO8EOFiIHi9Jvt-nCgOtktUSRz4sM0Ufel1ZxDZA9oPeQzofdLxPnZxhAJBcEm86AGDpG15IKqJH0aPPlcafmO0kTDcooU7SRpMwehcOqlory4x7xeNLj5JlJIOZOw41zK_c89y-POIWEUGgHrFVC5pzupH5wYzgV7U8MIARe5E1t4wmYKR5jcGPV8I106bBCjBZXrwIfvhXakud2jJABgCIrMVqRhEV2QwscLw3na3pBuYTUJL5DvNjEUuVH2il4H93bbAx3_uyhaZO85j7QBf1EaUlJ1XBGaRtLDqNr
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Lili Daiss
-        uri: https://maps.google.com/maps/contrib/108027332403139322273
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVGQYqDJTpZX_OOGD4W3IVz1ddCKddY8CKNTSHWB_YS_FKAZxW7=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH_86W5QE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH_86W5QE!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
-  - name: >-
-      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcKVWOOdV1ByP5UJYbzsPfGtbVjW2XEX7bTI-QSTDXEupu9YdCBMf82kFfaPO87HkCkHWn6Eq-DWItfNctxlcFKz85-c3rsZqwm2LjP99GhzM2s-BdVQwZjZWN7i9CzBLnzyanNwlRxTe-400XjJWHl7jz8QVXAIluYc8AFypTWaOWaW8pAULLajRrBqZNJBh6SSkuM8P5oDOWiCVOyvV2JvzqwayJ5RwNiunyYKsCK8aDoI7wtitQmk8qcT3Xcwkq93tMi410NLLxBIX8aNM-c2FrMXucEjtKsssk0riwHLsl70Wwx-lkvl9yGFEhvBgDUDED7bFkjv0WY7XPSsI90KIoCsJZVlPA08KDD9BhMLkKaWap4faOZQGA-cuWFP8aIu8X7VRvornA_23jzLW06K0q2C1iImlFPDZGSxMefIVg
+      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcLNga0ZJzXXQyXecABaPXTwfiR6zejCv2p2_n4DRGgkhlwwQJJ6dXFZ7WKCF1xHhq5BnMp4rplwTpsu5Dbp6O9Z1-Noj9PGDlUKusXY-lrdy9lHDHUEeXGwBOWrnR2z1qCWjD6zq_qgg6MVqfEWj2rQYgy84436NrrYAl_Z9KNvoT8PCQmUdMnDH3LjsJjRn2Ag1hfuNmWM-CEFOhXkzEDdFcjbX1Gw2IpmuFsF4nmlb1_OL9GNPsPUlNUjiN1n46QKAep3khPaX8FmdmaJs_0zoDz3SG4ev9riMnRTISu54aCsfsj3ZxU-TewYIIZLdhhiLjQD5HAeRVM29Fe3ch1oTOwLOopyZatsZ05PUxAIy_iQ5MTNuf9djjeNkqKrbFqD_pe8wD11r0yRJ5Nq_kjivkY9lLVyJUQGqJ7vJaw-Tg
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -104,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpr4-9Ew!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
   - name: >-
-      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcKq61rsaBF_xwDyi0eGWTbTj3B2J_TDdJWB0tTDDPb8Fr62SLGWHUv-VQMGyAAhOGIV5MvDDy1NgzGDNNVaX1sCHN1BXPfzSyZDJrkqm7wchXkvL5IEm2bTUPb3qT0YVB0mGedVNaEbBmhoN_XGAAztNqX0lVJGalfWsROVbG9RcqTkd02z1clAUUGqroNfsouuw6XPeR6ZPV_JySxW_dlUu-L8jJ_fKKROFOJxgPbdVZQaeZ-1NGbpW-jwQZijjhiyU4BLOSS5ZYOvI2g7nQKXk8JWJ1fb8K5pbnnAuxEMFt04dvX9eINQHuKRtv_2QF04uL2qLNVncg2mZd9l5TL5iCphIE-EZj-w9HwyCw67kW-rqYs7NaPwsWGUCGaVu4pSgdU3_VsOr4wAMoZ0TEhXNC4lFw2TDnWFrGe6FZjOKSSu
+      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcKE8zrTw6QbBEHbfAjXCREwtDeJyupmpFZjUiZlYxkbWyRc1hKmpoP4uDfINFy4uWdmiYJ_f7HsXC8HWjTp6_dMooTPqYEiGYEN_ucvWtzrjQkOq9nhY3SbI5ofRbr1A9Irk2_wWQVseZF9roLCjU_lP5yaKb8WONIB-1ouOjUj5-pbYl_5Q8RHvDp9Qgl5g3SiadMor08FQR3IZGdz01ThRIBvrUc7nrLB3m2X0YDCcNqqV-jS0osstqyjpp4HUlX9Yr68MgsU2pAM6Ca-nZR2r5GinNEDMLtqvU4D3AcuKw
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Plum House
+        uri: https://maps.google.com/maps/contrib/115136082983684498513
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLhUop9ULuvK1hC7-holto5aIw2OdV70pOKGjYLgQMsEgxYOQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOATslR-WhmUbwSuXxbyF90zNSmlUU-zNB1F5Ze&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOATslR-WhmUbwSuXxbyF90zNSmlUU-zNB1F5Ze!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
+  - name: >-
+      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcIT6itViElhcdSsrsnPsmWUt56rqHIszlt4EY9NZ3N-z816_YYX_hQW0ICn_XPhujFSxWBDzMhxNJ5MfMiWEWtuB-06-Kp5JeQtl5SUdkZv_pFqGOph4GtNbdi8P86Y-fvKvTQrBbpOFNJNKojb-YdEamlVsPrekxdPJim_JaoxT9w2YxrNwf817HxBVWq_h27udF4tZvv8qb4pnBOJ5eBXrXoB204Pnqc6ejB3W_tmbkmKycN1xsjLCuSnc7BjEwKgprQgce39wT2Rb8JUQZxb8j8qTEPTwm1KhYW63HfZvVgXVcB5Yx7kNQr7ZsSxrmgQFFWwB349hAtMoxD3usi9dga0GlQbRVj74pmJNvIiSCP0he95qJ1SUFX1OQriujvMJK5Tadu4zzjUt-fjwzS43PEtSYujeC8BFgwDWBZu0hKG
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -117,20 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_hOXb5gE!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
   - name: >-
-      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcKZ8Y7_pcb-EcEhUvu6c_yqcrN5chmrjnBf6SI5n9OPbKyw0bwWKIG2-s0TOLq3vnPImw7aVDsq6ldO0dkEMI2uZ072ZK9zHrp4-4oFjDjNCyz3PV8WQw17v01b6EqrBm8xtJZE8TtluqnJeeAuKJPpo3NwnsqmB2s4Wc5zo_7riIKrANgux2-wLknE5IOdJ9IsKGMzZ8Esxky6q9j4_yI0RlE8JwxqphUyvOvFh1cq1aTpMjcC0Qlm7oSxKzwZAIPO8XMvx8FvFwJ2L1JZzByRa-JmogscpbMwS03MtIOZTDZNm964XxMobbSQuBxau0GDc0duyqMcS3kpAdYXhuDyYfKxGbnDHz0BlxIv-oY0_53rF-FhDXvta5MW2ABuCVPKzXWbA7ha6_sOQvi3oq-XwBF_M613haKo2opK9eY
-    widthPx: 4800
-    heightPx: 3600
-    authorAttributions:
-      - displayName: Carl
-        uri: https://maps.google.com/maps/contrib/112474108680736154103
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJyaCaZUv3CxQJj_QbkzJJ5yA1VyALD-S24rmBSSmiBj7lgMg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwp9HhHg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwp9HhHg!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
-  - name: >-
-      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcJ3j188o5kW2hA5C9ypWTwUdtl6nasNAja-VwII8ObjooEOcJMgBaelHD6Qm4hcmJIlJot-AdXG9NG4NopcPAhE-gx78_B552yQh1C16pVxXvu0OO00fWqR6WKTMN8duk0jOEJU-HYqUoueHEMbqgCpgXHdEMgrMs26kiLbF9Goda_xNk1hvs0PdFgWsVxUfrs5b7Dl3xnb-CV04UNztHEOVtSbRCo4CziB8xF4QfTCi0dp--bs3M2oeI9dlND_fDE77pHWeM0uJJpDFCpnhSErGr9h5hW5IyFTedc5qXygEuAEOiSrVWWJlzmrf8seHYMMYJu3vDvINfX4yLh2xFvtLwh-VEZVoKhjk8Tv4y7X0qEzzMMvNcHLd81Vmv3fyTZz4OM7i224cO8NK2M-bMaPjk0d2Y1U4hvx149U31hJLNnC
+      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcJo43BaE8jsev8Vo8qahSAw1f6Tc52qooEznUGtkN-PjkIKpQTLseXvwCaT2BVPATMuss69J92RIZ23-0VYvdZNjKwzOdu5MZLhkhhs11OJxMVf1bhw9SpH9Gt1g_WSvcjN_lFUZ502o-4V7VUTNb4Q1_UpCMSfUpaL_3K8qlBSCrCsxXSMC3GUsTGnec6e8Qwyg7MOafswceBL7vkJDYo1EKeXE8PqXUtc3m0Jw6xNk0bVBrllOQlDNimCAujcfrFPU7O1HF36jtUT7sEJDDk42lnZe_LLfZpZVCcOCmn_fNVQWjfVQlZvKFwW4JbyHLCj3_e2k5nnxn2Re3lCw0zIKE5WMG1mpp03tLu_A2dahwy6dYX_-mwMXcAomPSxFYHoN7AEepm3YnbFXqQ8eQ76tpuk9w_bmSMRlqyq0E03aynl
     widthPx: 2252
     heightPx: 4000
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDH9oq7oQE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH9oq7oQE!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
+  - name: >-
+      places/ChIJR3DQ6w211okRvHfN_2U2pyg/photos/AeeoHcKinCY0UjgSe7NL4qWyRRCPpkPEu2QPM59QuJVS2slicj7TYYHrxrU8V4Gj4ZIwFPWXATa1Qmu96pamHIeegDhRyvYkG9NyFISSWwqpEcw3NX7Rs-zjO_DM95kcENHwF_OhZ_tKj1xgVWKW97buKZoCPBF75cRBhbrYYbzlANiGYPtJAl6iElMQOWS6pn-Z29MwZtVmatb1EQ7zf8YBSFmMMVoh9vFlYArlLwNSoSYnzHWpQbcQC7wF5rzih64j4rN_6QtRWzl9kuAzFLUPmoUsB3vhb3HMDkJCIQ4k0JS2g4yDJ6jzb3aIH6IGswsjg1ISOyyWYHAqsH7UrE8wt5Y1GDAkYcS8a1Gs4WgEGaHoI-05FVlA8M_6aCjaj4UXifgS6r-flzdCJOhvW0hR04VS5kMVU6XQcRNFsmzLw6U
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: Carl
+        uri: https://maps.google.com/maps/contrib/112474108680736154103
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJyaCaZUv3CxQJj_QbkzJJ5yA1VyALD-S24rmBSSmiBj7lgMg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwp9HhHg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwp9HhHg!2e10!4m2!3m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
 address: 686 Monroe Ave, Rochester, NY 14607, USA
 street: 686 Monroe Ave
 city: Rochester
@@ -183,7 +183,7 @@ phone: (585) 442-0778
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 595
+rating_count: 0
 website: https://www.plumhouse686.com/
 reviews:
   - name: >-
@@ -419,6 +419,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

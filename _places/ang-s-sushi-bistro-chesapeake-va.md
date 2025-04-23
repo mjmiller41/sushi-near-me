@@ -13,7 +13,7 @@ description: "Ang's Sushi Bistro serves delicious sushi in Chesapeake, Virginia.
 place_id: ChIJbf2qlIG7uokRETOWRByFRwE
 photos:
   - name: >-
-      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcLp5OcSmHBtHbvYETWdK2pZ-J3dvU5BlzMrIAwKLGkR9xaCO4_g30lKtAuJf2DVdmXORr-V70xnmqgSTRXHMGEE-bZz-AcW2du3F8y_tIkDh_cOT6GcUef7c9h0JgfEfZ5W8XBOKAkDiC_8igI5vMlUmUHlZMXpw1I221sR6aCmAhHLxouiQkfVWVPUsYWFZSpZz2Vx7Ge4bPBH4GjxWHuZXOSdi6EgNrGbGpYKc50nU5x565TqRa0cBWQ0m-IwAmEwi1pIMVR-OpmQbsgWy4cfgm0D4H3QD3P78Og3G5tmbg
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcIpwhjPjBm1mL8M4N4bZv6sXsId3Xmx53QsMjw0U7CmfARYF5qJo0L3I1Wkzl48IFQIrUjeLPJnVqZyhzPfxE1Rf5cSyNfF7EKXtd-NaAeD_DjVmhWaV-FMkYEAmQUCxje7mstvQp8IRmLjsGMVxHsBW6Y36fYYYvoKhxfgA38ONHkZFWxyGLHIwOMaob9bldb3fXUdz87VvJNtQy0elmDwiZoPfw_eFpLHXE5bf84_IUuU0XJAWihfq3_4qRE57ID_-ko5XLx_8vocKbJ2-N5ykeCrmcjnrjL7LCfAZbLzvQ
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqA-aEAyy6IE5brA1npiNEaU7e93oUHsxdB-Uc!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
   - name: >-
-      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcIlJpua-_VVCZNEdlHfHgpgsarpsdECrw7YJ6JGCvzOhFxoo2425cpjVtc3RkGb1M1HvJ0nkYr0ZTomIyK_UXtJl0VrD6QvAomyH8Hg_x6QGV0dJMoG78s3U3LCoukduaL-WfBiPRs5ZDzC5Hqad_wzlBGchz3BlzZO22wAPd50pe4LUchhX-rYvUF0fMH7STAe_PUXb26Mi0VKE5pqTAPQMNPqOy8d1Gtyef9nkqSZd8I_oXe4xkO77r4q_J_dGk8Jorl1zhkbCbLYjJk24SqeeT97meovW1heUyzsxFAY6g
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcJW7WDaHokg82TPo9h7pazKFTVIJ2GqihbWKw7FRjwZcZAJ1AXy6zWKy1YusWdwZY-UF6BuqGi6_6OGyy7TrpCTo2Uh6BQTuMMCxoms3H3zWPqXeaHo9DPsuUP32jLbd5fCRO1OjTVQO2foHT2Jr-zy2cvD3E7bIWmdI_K1DAp7gSkLiAc6Ga23Y41mhv51k-Y1ao_44lj8KROKYqzdkruETpqkYQz3wg_K833ndI4eeZOFvOPs-xyQADmRNiIvWUerpt2rqU4UvYEr3o08l_4LeCQ9cdCQpkF-cRHy6rzFaw
     widthPx: 2000
     heightPx: 1273
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPuEYIgZO8-1JpIJvga0K66umMN8893vr5IjMIs!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
   - name: >-
-      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcI_zRT4ufupj685zhGEkQa9f0WTc4j6_pYvO4V1hFPV6nEZMyxwEe11l2TZ9nvgtI0wSA_Z9SrbTUQpwonKK7mplWVdyhFy-OovZ_Gycv2zVeIY5twGiOCm4JYof3ksSEw7Dy07olv4aoZNsDQmwYwGqcLcH1pE9Bv5_9BFsZMrDRNUYOezIw7hSyg3fkTb2hscfibv2-4DGfbvtGAANE_CcY_BoGhozB5_5sfxnPat70L4CUueumYPPjoFGt7Cel1C_NL6ZFoZHaeFJCB2unCg-QDR3J0QJMiv7assQNb6vNZhfZoVr5KwJQ6c8-VYta7tv5uaxVuE7AHzWZqTDxTphsF3t_ZApyPL0aNAkbR28gGB1hJFhvc25PIXi5zAyYakR5n65-mFkRHNf4j02NNWT2O_J4JXMXmN2cgu6T4-1Is
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcJNqzfi1JbKIIZymaR0l2D3YWIxBJFuXaO1kXx3S-gd_kSXCVLwPdkwawrWiD7arevDSRdHdSKkWvQ-NHxTX5SSweliLmriTUGffaeiVDFWvIBpS8QNiicPrN_Z50WIWav5a2Q4ODbiL24_9-RVFzAD3Db4Q15i8NFs-cTy_IbcdsvIeQxyZepCj0cw_w3GRkAXq8ZzOK_aKzOJKFRZQ4bwwljbCz1oWCDGJsp6hJqHtMhZOdxhECOPqUrC7V6L8NEyelDNj8_FeqDiKPExxtBCkyzAF_XOEENxaFv3L3RPnDEMkcrdXWq7cHrK3b7qVeNQl8mkG8oCkVjHMGS_SlWDV5fEOUZW6SzAwm9NltNW4AfGiUo5eDpP-bWpMaktgv9XTiYNOHXJ9WEIR2XDe-b2wgMjI7y6sb8kf7NWKlDkQuE
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDvpyj_AE!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
   - name: >-
-      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcJXTIN0EkAtp49MPxYmNwpFT2hLycsKTmc2y9r466txkz5N5iunoaRr3m-6qNmGCdEgEAUgrTPjOQLmfssP5Kxru6pKx6gzL-B4jy8Kxsxqv18nZEuCshnT3YhcYO_5jGLYhY9IiSCjN0m_F_Heui5ZC-LnSIzdoOwisow9g5pAtIB0STJHt5MA15OMgKOBPAlQ2-RqIewJUfsb4APPhQvsP9ivDXbxPbb__stKEJ3VlTZeNaZtSeyMs0ATwAQU3KBi6F2o1frtQA3drZZo4KJkIL4MSbBI3Vntv2RAxPTzIelIsbrOzH7ikpRKdSyI08TOHD7dLIF-KGT38awgmEGXzxPCR2nvHhHYbcJ4Q1vzLxhvQ_SHMdTBNG8RdV50rk9HMuggm7XiKWvhljNGpiXR4OHrsdXnvEuD7QyYLtnq-g
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcIQYDTNx4TaV5r1uK0vvmpQseuPO_8LIB9Z4e6OSrrRvxxAxLWrf2EPJmLxZLRdhGo4htXk55AKunRJLfdnLDfL2J1niF0cJ8A2NC0veuoY5s8ZzQm6e9EPtIoIDVQl6_08auFukaPcdtn2JUxEt5y2dCOsd_x3OM9WTlkGmE7eHqzkW_Y1LaZtpKim1RG5qkdWIJCTPTJOYbrqWCOUPfJi6RtjaXY6zB6KnifANwEgB6lLcDKCcL296O5cAI4g-TjnvHmNu7etdaH3iT2OYKJVZO2ilnGn6GuZZ0xN0HWh7BkJWtN8oadzxb5inlXwGieVlRxegUtk-PrpA1jXRBFdYrJO3JXIPF0vVNn61gLjlZQv1LA8GppZ_2tntidMmwTPHoDriYRBWJM2DBOQhx68e5mRa7P6GLZs5bz70MCB1w
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -65,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT8Z_FVA!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
   - name: >-
-      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcKSw_lW8fJAeeuFOfNdLy19WdldpyZ0O_voH_qaEcBovqBncb1Hts4A50NlgD2IeecTRElN4SV1dqYWrGvQbdTGR31pIz9Cat0Rs5W_8aVrzoK-Ds51xIJ10NkxZr9dBvYlKwiUT_VZQmFjkrt-EDKpsHX7AnYIZnjv8CV_gUBBKLlbuKcQYstIwiK-aqeH3kQz_uG_pLKq7jUj8LvvXKq62l81DS0KKQIeAgUmM7T6PSjmbm2NTstNof2kjmtMBxTnYAdU-NqecexmLMuhCP3UCdEcFzjqwN9RAO5xG2vcBA
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcKEmXJX5TY2l3cCxd_7eRK5hWIDC5CGhHubxm4EH-XzT5K-gTdaKvzwoLJ3SkYPFMCXUcumsVoQUfG-WcK0ZyOG0DoEu7VTgBKRglPcV5mBW9T75Mn8W7uKlmmRol4dyOhijjnR1LxeuxWj-mUH1Wc-p2w9uRgyJMNuZ1vuYc4AtmxBhD5igakoVB3XWDMi3L77kTUZ7AS3fiAB6flu6RhJvqGhgc59DJEFOZHtcjpas5E5lMM-u1pzIMU1kDLR4ELxY1Y7YEyley1-4-vH1cUo1VoRAC0J93XB1tq1Hk01g2GjDjt78T5PGAWVJves8o2gm4BGvESZKDtsgRlgyZ0bQ2I-6DYmr2ErCHu41BcD7i7vSZGTSbDBumkyFE41_XiB1Re2Q4IqqZ6WpJfeKaW0khcjhjYllmFUh9xhxgyv5Lo
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Irma Brizuela gudino
+        uri: https://maps.google.com/maps/contrib/103956667648667602724
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ94Y4icIweHm6Z0A2got56W0FX33jGzqOwCgCqinVrJs3tOYfa=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCotcHn0gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCotcHn0gE!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
+  - name: >-
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcL8GRGVNYwrOR_quF2XxrQNtXGtnlIDpzYYET5m2_OwM6KBkyx11xsbKIl7x74_MRHJLSzkieRuzuFYS34UMScEoqlSRnHZ7S9mQ3Gx1cLBXq2xKgywrY-XtMuUFG8aotrnJkZXAb3e7sSxdcvqOyQIqzyS_qcqrjPaH7r9KdjZguz5aktr2Hbj5VFvZ_3QHcw5KsxrlOOYLzZGfsHmNHJOGsTrvopB7uiF68dt6KEO7gYzXdpI8KQVznPRmpqhWeFDuPS0bgYDV3qt9uq45KvzRXZa7-LpvuA0GG6eh65grQ
     widthPx: 2000
     heightPx: 1333
     authorAttributions:
@@ -78,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMN-U6Qzpg0cWmqMPzFXwwXGLIkWUSyIPH95vPY!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
   - name: >-
-      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcKuSsaMlznBq2Fbd-R8eXDbmWy2rLFZmDnsO9yIUYNEPCB4k_h6Ks4QSG7lgf7x9v4X-ts_o-4sWoXKWJZ8dcBbFAlSzPaenWlDAEb_kJMuZXgAiY4SepcCGHVbSciq7Y8Hbt7sneZKz_r9pD-d74qT4gi20UeZB8I0R_f1EDCswoUHTkxJi1MpoMqJogjUQ4CYhmO4kMs6a1xtv51H5UiBDxOrypvK6yMgnh2-Z6Tku-fWbLrq8X6_cBvj9UpnWkFJYl2JofLgaiDwf2crr7DhCtvYOpGth_v-MwcKa7QAGNPzg8lBB5XBdtie7NWgsF357TFcB2THNeH-2KvDgBbOc3GvaloVRDe5ynmR-D8g-LH8EFkMnZ8tl69Shdvoq-EmXI4WPPoCMk6QmpA9fk5q69eRh0OXBvd0BWF91ozHfA
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcKz8Mp456qEg4PX_HkuX6EVdVdSuPuH8yMp35WjsU-T3PUTpMfUwuSvr3tJfMNT8Cq62UrLtFhbazEOtJSZ5vyHtEzZbRbksjK9o5yv3TD0Y1Y0U0oFSobVw52bnCMB5J5T8X9-g0xFEOT-XtX8JuMMuEZdJa05eEwUNLspTl091bmGWeD8ZArfTT5bxTGA2sQ0HGB1N3MDLrsI29fQ7uZEMNuPAHpVAx3XXVfBpmtgZ5nqRVUUJPPASiuAsMWHT24bVAWZhIcpPkcinqUSlysMYfX5hhaN-MF8IvyfKjOun3LTUr9yxpWCtGGdWXkTZA5vyk2WEuTeIwKyLDqFC22BWoC5r3Me90cNIwfHvAg5YD0JGO2AHBCmz0RjFw2lytxI2ULXV8TehjO21J89EH7MIAKhgrNLL5ligc4zk327lA
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -91,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT3cGuEg!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
   - name: >-
-      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcJg2CF8vx9uj2jeUneyf0RFBjZ25sn0QZww-tMA2RWR8lhKEsT1uy4j1Z02ksXyAqxOtAJVnrGC-i5PSdns5CE4i9nYUEYwdZ8OGFndWegCIhdUAQCWa6ilYaT_hVTVKIuzcA0jczq2HOCC5LTvMW4WCLjWBs5pAJfwxufHhxii1kRuBfWjQiN9-Bf-ZdQFqh2fkxXlm-lokYY4Mx104qjAuaLm4Y6ixb0XDeyK4xQsPK6TWLOgIxeIJxsD1YzzC7icQdXMyi3lxpqmNkS3bAsYKGjkToJTyv4GY6C0QyvOGls2-x3HcfIPweXz7v8DR36hnu7vfOKo21sVvrw41QLUR7qZ5S3iJ99iEJdHskssORBtHcQgAOs086UBwiFIKlc0GOsBg3qi2-o8M7AoRFhU3d3-IXB8Dxnj2NYJa26TjIE
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcLv86NdF-1tJXOmpXWZMSBaNQgyp962RJBYreDsNwVmVl5ZOnzdARHS5bKtNzyS85hhgdtasKlVWOHfiLa2uS-MaZmkXAcKTAuDZkLJqizaDOSCSHCUIu8XarXfkoEblMSk5rDGSYzaaL0RWBFNOm96DPrjgYuy_cPbvtLVPcbycp2Rf9NUR2H30EnLxH0d3UyH4akHg3bwu4zS36VY2BCZy5SRBh4LEZsyEl3-SDIMRMfqDi1FiNnc6WIDjA5dGm6Gb0cdBfujlpGwfoVeKde2tW-P2Oj60CFzove7nnBHwEU2SoQOAhCIK0bDjn2WH3cF-pPfXsiKpGvF85HH9rxJUEBBk9-_Ifpy2uwfpiUcuj2W3ag0hA5336rde-1SvkTJS-qAXaucObtw_1ucIvYPaYSwYFHuY78rP4igysaPqUM
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT8Z_FjAE!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
   - name: >-
-      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcLdb_7V-bVu4thZXgmJ4k_WCYPYQnH-4taQ4BhukW578LNu3BVVHj9Ata6JuSnS_ooNztg0nZQ-a5ER1ltUfzgrnzp1jEA339BhKGSRYuuNWe9YFdJbwgxuOZ3FiHdoAvsv8wsfBhfewxiKUveQ2hv1CIC7HFxa1PcYuGLZJtOk9Rd85jSqjLJcZ4D4UMRwgPrTVrMcGgBVPQOqyHrzaghvgSqDnIy2rim27Jdj1LV4FjWvvIPhiZPCaGmwstLsy0MGd6unHEk5DnjTv_LAc1rwy6LHkc-ydBg3-HZKExAjawFROKGX0LHCnu4vdQ7GlsIZkct04cAmHE8bYWYpT9gGlA_ubniJzGW18UNSUgZMyHRfSr89PBB5V7x8-tgRrvbnagCtA9IZvdIoZJC9Dh5mPiyHZKR306xi1PIYPY7JVw
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcIu2RFHljgaDDDlYlI7yF_pR2MdqGGqXqn4yVB2MdJwEVlCHdzOHKPUt9cfhvRqO6slOOgwpxiziCMHQdii5J7GuRctSSA-IuX4eHpSxk7OpV4omQd06hXJDd0nCByVeEJiDA2iB5EosbVwzwEjP3dQr17rII0d5OQr3taXf4dmHjB_1Gl5qbb4EyhXmJKr9U4AsMnklZuiEzn7ZeTzFjglK45Qx8vxTDnMeBD2at7E3CsfyvYzjie0AoYWSt1FE0lrpa-8U2nCBhryNwqkSjHpHsKdCGf71oY275WSmNbTkJwLhohnH3YMaKIAWJZXYd5ITmfdpj114xwTBkUk9ONkGS9ZVvkrklLowtgEuYLrX3VuFcHMIifwG4AWMbCcCGLc0DznKEgwPVLKffZBcTHByC_wwMjD_EC6gz2MhdFB_A
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT8Z_FdA!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
   - name: >-
-      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcJXdOwUtvHeS28QEae9n5ANjt0P0ce1V5bkqBEebC-ZeYYpFulzGqFGPQwoM7vy55IRF8ERmFitCJte2vomll7AAE8eBoM6pfybEysa8U6rKgwg6U6n-x_ihNpZJ1f6E7_AZfk3m_XX1pjVoLG0zMA78UgsRNW9pyhrdBkbMMvj14-VnHLgv-NRMP8wIPR8JmGXsTAKTLGtijjc6hmEUNg2HZ2QC9X5BBtgKi5-x6c0NrqXd0kiOLcldEx1fTfcClhciaK8AiQMs38XlY-xcDD8RHRrUG8ipZWTkXpp-7Vv0A
+      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcLX9r31v_hPkHLPs5XvfwqvjB4LuEJ6DmLvccyqbtHyEtr0vIqz90tPvXPBp8btwv-mnGBnjpoPnTfJ5qNk_60ssu2n-eiokjEU-v6qXOCwiCz7qkH6Cy1o_EtzcdQsXbGw02QRNTIn4eqTWO8UcT1hbuH0QMEgYVI9PJ1MwCxocTmR5IFjaXhAMuScRjLUA1XB5zpmz-Efm3hKqWBAQL3E38_nuuSvSzyj8zYK4zbhV6T-IVxZ_0Ls-i3SuqHC3u3jYsoT77gnwZfs3lMRnrJ8tLl78TNxNaIWUu965gqr2A
     widthPx: 2000
     heightPx: 1614
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOGXbFYeOVaBVity13mVwV3C8lVd_FDmBVxOnoG&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOGXbFYeOVaBVity13mVwV3C8lVd_FDmBVxOnoG!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
-  - name: >-
-      places/ChIJbf2qlIG7uokRETOWRByFRwE/photos/AeeoHcKhgvcSsNUycduyjFNvsymazrQLtLphXWLm8ZQ0dHmX6VrxjU_ROnbjq4h7yHFOQ6o8EgOcDjCJRAtSima82-rbeat19yba2NOpHMYdx8_auzFbuRxy36CY6amy_wo4vJ9sFi72G0SS7VJ8Zh8NCA_CARsbJNiyzoRT_nHgBfOSX9_BC3svxV07ubNs7Bl93q6-SfEqx_1DGbEaLtGMh93-mYGWtW-rxle5yYcILzXC72eHTZVl_FH1O6A3gfTN9Yi5a4bZvatty4CXrEdom1vwrG7dQSw2Crhcsnhod38VKQ
-    widthPx: 2000
-    heightPx: 1898
-    authorAttributions:
-      - displayName: Ang's Sushi Bistro
-        uri: https://maps.google.com/maps/contrib/106474208606021174691
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIoxHBEk5PQ4JPkmSVoKuzWb8VwIYiDS2tzySqRAfR8ByqtPg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMFGCOY-8DPCAsYSfJj-rfODXb1_ideZFZMCA7i&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMFGCOY-8DPCAsYSfJj-rfODXb1_ideZFZMCA7i!2e10!4m2!3m1!1s0x89babb8194aafd6d:0x147851c44963311
 address: 501 Kempsville Rd, Chesapeake, VA 23320, USA
 street: 501 Kempsville Rd
 city: Chesapeake
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

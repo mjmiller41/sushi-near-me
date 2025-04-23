@@ -12,26 +12,136 @@ seo:
 description: "Clever maki, unique cocktails & imported wines in a stylish, brick-lined space with a relaxed vibe. Sushi Hachi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-QXZ3My5t4kRVtWtEPPtsv4
 photos:
-  - >-
-    AUy1YQ3IjEf9JDcCz_ioZ0okEiZoZUw_foU5vtm3DdEL1eCcLb89d8B9PIVOSrA-uNX2wOIxo5AK-Wyt4PxO-NeqJqHOtZvQP1boHobuImW_qXu8tMofGRh7HwMwLKplCfELVtB_fGzrRqbfKHVlrak-_gpTWZZOOv5iS9E-ul5Hb403rCER8zaxMFugDLLDgTqqkj6UyrtazvpGBTKt-EZq-e8pt1wNbUIzGzlZSm4KiK4fbua3iuXlPo0Rp0c0ZDlf1lgSlaJHhiDEVOD3H5JSjo7oX8JgjJ6oBhwDiLT5ku_iYA
-  - >-
-    AUy1YQ1u2yg9tb-uiw1IluJFmVFP3NXEy2tJ5FQqdbVbAEOOp4FPx3qbzvY8ijpTlr9h-gOL-fSzRZjxDyLfDwMIEyE941w_jNBtHiuPI90pVrsJpqp5LieED_B-Y5ZoJ9Yd48riLScQfTo9n9Vt1ooDqUgsVtcvQe4xgHzmLuQNA-sw3s5gbUxPzRZW2UmVxdNKZJq2JLKUoW__EyKp8iNqiNqVx6j_ZhoirP89a7ETjlhA4FZ_G_RFrTPBHpaDG45F0Q9gCtXhNZySo1V8imHLAu27ZQg01lLRAsPP-RVXOKElaQ
-  - >-
-    AUy1YQ3eaSe8Dzntyz1d4run4QXc1m5UKV_mWc1P_z2v-Y4We5sWuXtwpxbaBuzvsumDnvR7HIHyNqPcgZyLWPIi0os4S0287twOsw8oeyPf79qJx6tJoXNskt1tqIL4FOxjyIE3224dzE6Zdv83r8EskC1KLRwr2zmBAc6gJMsuabwC0Aqk5HRo1lV0hNFiiRwxY2C5SrM9ZPRu08ay-L_jP-CuqNmXJArl_doGc6CuO3Y91gNr3Vz9krdDfpYb3m2ED6kUFWUGbLn3g1mbiknfySGgHEA10WjkDhyJwGy2pEzFwQ
-  - >-
-    AUy1YQ3fdXSqYemGmL98875IwVOmjyggYTeKIFhrTsqKuD8QJIBPuqpVcb3yk6tM6kroBtewuw3t1wLNhHs957_IH6e07wZkYQVknuC_-_l-1UtKnsp56KhgHXpNJ4Jzd5mkj117SY5WsQPiO__xlZYxL51zzfimuCgMBrgHdKTTQ_u6ZnHtILjYLVAlNYsR0D_m6_nFQWOJXw4Q0oLOlfiNV3IcfNmRrCXw87hVEUvBRmN9UhGlyP9BD38MGqrYxGeplJZnbDf0WYm_pZdIBZZjKLeLpy3OejyRSyErjZ3h1NiGtg
-  - >-
-    AUy1YQ0dmUZvl1j5-xg4Ev8449Nb2cSsdLHOQ0w6sVQIG99tjzfkDqy_-8sDXUy9amgZKt39hDRawHb9gA_9jG0aI5fpWTkTcaqbKgYOG7QZahpL9I3gLU-SkX31n9qDZ0ASdV5upiKVje1ngxLN5D0TiJhoWYuiwpohm9dQ5GH9rrw688FpPq4DLn9_Xe-LKvvvZ3ithgX709aLluM4OIKRaHngqeZ27vDkxEBdjX3DkP7UhyZT33NyEnF3GmRGPh55NBmPpPthFYopY-bZwq9aDbpD-xePp2EmxnD9cPrv3R3P9Q
-  - >-
-    AUy1YQ2Qb-SIndhfjnVGrive6a7IBAIhZ_FQoFSXQgXNA9256y1_OReZ7CGzepQr7F0kGRqV1ODgIfkF_Sd8DElO-KEiPfCRP4PY4_0IuCvY6eMP0_NzXQJ2-GfPQVsK_2_Ql4LEevz7aDi9Ujqszz3y29xEuFcPMR44RW494NSGThil7Rv1M6im20x6Q1eCDIfSNlweXzP_XPdPKKN0ynnV7TcuVUDbqdP4sc-yiWrWepx26QmAETMpBz4G86JGWg4YECWJhV_GVeR0Z-WuIzoc-b7t-PUG_NRH4lr4QvBz5BUVAZ4XPdrcuVOEY7SjVLq55CC1ywY4IlkbLla0D4rFUlOb-QSPa3JphtYAzod6glM0OKo1dZpIxj1g1BpeL6fG75yrWTk7OyzODHLyhiStTL2TmAOgd2X_SQtQ1ewCqC2Vhw
-  - >-
-    AUy1YQ1Ku6Ta44lfn3kYEa8KF3HOgKc7tGBI4nBMLtDh1jqSF3iAx1hrkkd-9W-gMaN-v-3gLlxfS2uGJhoIWELR3IpgR_tF2vK4uGggYMYpkXsqleTW_Exvb3mFD1z3ga1snbZ1Sja4tVZGMWj7bKr4YZXzufUQ4By5D739Rgtl-mxl-XYkBqFcSzwa1_PkZ874JHdXFocMTsvd-maDXCGvjxOB55CRU5UQwU8E3thpVyGUF_ne_jhOnV0Hgxi07Ar-sn6QgOX0lJQ2myji9ZUiVhnw4mVXCJC_O5-OZvqScJVaaonQHOH4tndbEPlR8vlje-CO6OCUJoZROaMBi5qb5wM8t56tylhovl-sud4l_gbVRkLJE08FFWRrpkS7wu19U4NL7iMWxBhu2vnJS5nQXdeeG7YBkz8qsx6GNydjivczPg
-  - >-
-    AUy1YQ2DaDM-7RJybqWzCKndd8DGZaYdKEb9LUZRPMMgQzLEudsS3_SzDHz-9ICK_shA0mwYr1LCUMCpQ53dFMvcO5K31eaKluwXyNpeRpGi6sTWfu-t3QQXJ8-qbRFcGnTIkkJE77GQcCsyRDY-SUzNJ6yekLnp4aEdH213PxAruVFJ9jlBfdtUH_u9fcrPXECVe1Y-WhDruOHTqtVdOFjhZa5a9Nc4JcvIXN_uuGc9QBPdI6Q6ZwYFyqAKagsuHmj1F7f2w6o-4nhM92_lR1L6FEv1d1l9hUl2H8-EMpJ4bVLAOA
-  - >-
-    AUy1YQ1_vtLWNr7orCKmirkextSc99QEErqRqjEQIbWaVc-KMYMMFeO_UE9TUN9nO44c6T7bDXWLiMgeYHD_UNhGeTruX8AOGcdiSf-BuxRxMAFlYFxmCcLKSzrv_LgSf_SootpFUce4fa81LqKC5KNR9pEfbfTtXsz6332bTsYhC1quPdORYF2CRV4hy1MUSWDySkz2vvtLAQjWPhlxOOJdisMYyDs3DTXwkK5aoTkxU6SXxwlDq09sYRip5_eYA9bxBsm5VkFSWLgQ0Vh_VAF06MnsLrZiNDNqnvoX8N49LLaP0eGWnQxuEZkPNg9G8ijrQPFAKfmlVAJvQkrt-Tdo_nL5mlVFYzhX_g1LNYoktfj-TSi8T--Z3IUtOqWjxykUyIWYMBqzMT41NWtfOMYxMLw-HsbhYDvw9oEHfx2BWeovPw
-  - >-
-    AUy1YQ0yumSMcaDbTT3XqsMghOA-whdP4QfMn_4xTj2_ayDHkq3rVhgyJykf0ihde3ldXRP_4CQ5RC74as1BLhVk5BMfjkyJBwcRmMfAMhJxVGsscpiDM6Xy-H0qpslypvbJjUGij6fOg35dj49KGsFhiqoC5aKtL6dNejlUVxStZozhuiWuKcIwym_pX7NEyF8-hBLBpcRTAvJlcfivFsWTcE96OGDlBfFyAtUS2MlpitLJ66DEHF-CTKCxqVYw0wXPZ1Nn5-99W3ZUimUyu1DqomfYB1DeSe_LmfY8os0BP0KO0A
+  - name: >-
+      places/ChIJ-QXZ3My5t4kRVtWtEPPtsv4/photos/AeeoHcKeBseur2M9nshhjt___xEoOYrfTVNq7BSVLqbWbwBt3PnwSUWRVPOgiN-SztqjihTJmo6T2oAqZ-Hc92XUt-U9DJ5ahrDxFZ6z9Pt4IqNeJooanZn6MxP1rSwJyGDzJe9l70Ybyyd2K7IehBZGsfjs8sRQNIP4hlyplV16UEZPWCD11tW1VWid-Hk_Nacnb3Sy7UYK2ySFaCxJ6YGGa2WfkfFAorrj9jOnLhCrvzIyerIQuvyCp58I3KHZ7sI4dYDMR-sQB1HjzRuq4R1grtcjclQuBMqCMduQBlvxPGBysQ
+    widthPx: 600
+    heightPx: 400
+    authorAttributions:
+      - displayName: Sushi Hachi
+        uri: https://maps.google.com/maps/contrib/115344744193859264382
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJVMcGeEnPzPgxx0pNqpzb84I5U2GCuIJh-AlBydPcMuq6Xaw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNKPkEfvrybMDA1dljQAh69EHO1GgPHh6Ew0_4q&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNKPkEfvrybMDA1dljQAh69EHO1GgPHh6Ew0_4q!2e10!4m2!3m1!1s0x89b7b9ccdcd905f9:0xfeb2edf310add556
+  - name: >-
+      places/ChIJ-QXZ3My5t4kRVtWtEPPtsv4/photos/AeeoHcKzGGnJp2X8aNT950QIFvizAPvWBFpekMXol8ysygxA-3lhOpCJdPDssJl0ZZIkbPxGfWkYW6K_IeNH8GHZ0rIAJOz3p7t3T4ivIs6fzZCJiLbCA311cMZpAV5muU8eRaHRJFm-HZ7TKsuuLLgBzHCixvTAdBG4_9RG6NgYhJ6XuwRpTznYYkA0f8CC8IcJM2gZZLH5xwYNTYbOPQtrwMrfG3FpYFiBZewCu2_O61vzyrsZ8wG23FNm1Z2BkwB9Tgv9rl2IEyZKKjkqRD7Ksa_-h9kFUJoYu-2eUC15H6sDBw
+    widthPx: 1232
+    heightPx: 1394
+    authorAttributions:
+      - displayName: Sushi Hachi
+        uri: https://maps.google.com/maps/contrib/115344744193859264382
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJVMcGeEnPzPgxx0pNqpzb84I5U2GCuIJh-AlBydPcMuq6Xaw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN5kVnE0fn38Z3kVKn7eowy27b0gQWxDePBjEcc&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN5kVnE0fn38Z3kVKn7eowy27b0gQWxDePBjEcc!2e10!4m2!3m1!1s0x89b7b9ccdcd905f9:0xfeb2edf310add556
+  - name: >-
+      places/ChIJ-QXZ3My5t4kRVtWtEPPtsv4/photos/AeeoHcJtfQGYmzZLWEl9jggVG7oGcIgbjOQ2ruaIwoFsrZKJqqjFnarmDlVD7OyiymH2hr1fQ9gjWbRyqsV82EwNQlo4IjUDpdlr7N-qUJ9g-fSXKfWW6kMd7j7IMgwNTghl6e6PnNhazkACW3tbgGZO19b10SLTQHqkHpR3KsTbjXNVnOgVwYuxIN27GNMy_ghg06DRoBti4FZWXzVANWF6Y6DqafjT4__SUDiEySuFNdGfomyWSGP5MJ-R72-oq5DhI-dM9271CbDM1xec4WJNerBap4vWVDISEv0bSjf9gz3CyaDz4KP-HSuIVn4lbWb8Sj7_Ptp7mluhAXk5hzUEMhgM9K34P_H_dQRgy5f63Yx3_4x08lL2zvLFhnV-ytUgJtJdfK0fCkArife2kykQMc6OdEoS95LOdeKjBstZCt3_Ig
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Morgan Giddings
+        uri: https://maps.google.com/maps/contrib/116200350805252511304
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU6_wJ_1E9ZyhLPYle92cOdGhTBb6KPUBvutoHTqvk8Rk9IKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI766yAg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI766yAg!2e10!4m2!3m1!1s0x89b7b9ccdcd905f9:0xfeb2edf310add556
+  - name: >-
+      places/ChIJ-QXZ3My5t4kRVtWtEPPtsv4/photos/AeeoHcKcqplD989kWS2ksVlboc7_WrwT7ykERhvF3kdMCZsxYGj3MxgGE1ilOgxjC1NzI6uaNPwAv8yWAYr6v4-Vz5uRXxsnvhsCFJzXKOh3_U5GdftCYxhuluIcsEvrEPeq-UmdXZ-xAHheGpp0bzGiPwuOVFe0yHEWUWg_DRBIkY8cGN-Z19EkBMQsRcQxoF8N8s7r7q7i4ZgHtXWEu9pYWVFDTDeFIFnrerBlKmvzu15DqxiiNfRgb4a1saqQS3SS8t-CmJWVZFgU3UsOwqwnHOoCc41BMbNtCcK8FHHKgSF6pQ
+    widthPx: 480
+    heightPx: 600
+    authorAttributions:
+      - displayName: Sushi Hachi
+        uri: https://maps.google.com/maps/contrib/115344744193859264382
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJVMcGeEnPzPgxx0pNqpzb84I5U2GCuIJh-AlBydPcMuq6Xaw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPXWHhufUWI4AJApBA8ZbHgsGk4DcxD6A2VUn5N&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPXWHhufUWI4AJApBA8ZbHgsGk4DcxD6A2VUn5N!2e10!4m2!3m1!1s0x89b7b9ccdcd905f9:0xfeb2edf310add556
+  - name: >-
+      places/ChIJ-QXZ3My5t4kRVtWtEPPtsv4/photos/AeeoHcJdeNi6fJ3Jw3Pl-JSC9fPNrgggA_cDKrzhPhhXa039HVyJ4l7Dzo9ocVVOROdVfFU0UVleXYEUdG5AmdVaOfWoijgYIzehB6rbnIpsbK05_FevnQr1n-XQN_zYg_8_G_1WVH42oXAy-q-Mr4Wwe6BDpJWSasWlUfqp2yX_jurxcSm8YwnTdL3chSdBezXeN32-u8thy_ajuqQMSaf9qvRbdi-nOUe-9Q1Uble_P_Qk8SQFgs0DCAiiXsORa9v62EIaskcxl1OPSbldQWWljbERjQZPjIHBxwh0Ct5j1qlbpg
+    widthPx: 480
+    heightPx: 600
+    authorAttributions:
+      - displayName: Sushi Hachi
+        uri: https://maps.google.com/maps/contrib/115344744193859264382
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJVMcGeEnPzPgxx0pNqpzb84I5U2GCuIJh-AlBydPcMuq6Xaw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNgTubZBrSWk4gV4icfM7snrLhuZID3hi0UuG3p&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNgTubZBrSWk4gV4icfM7snrLhuZID3hi0UuG3p!2e10!4m2!3m1!1s0x89b7b9ccdcd905f9:0xfeb2edf310add556
+  - name: >-
+      places/ChIJ-QXZ3My5t4kRVtWtEPPtsv4/photos/AeeoHcKzncZF0vZ6uvZCo7ZSUIsa-B3syTzO0R3UHgLB04KsjQkoPADJEjvAQ-9MhZaNGpwPjFznLWLltXLdN6a8otVBUCkyXmEAL6dXefiQe1Z7GWRANB3NdYEKJhfet9zUl2fnH0zOQnEkIesddIZ96PsCsjeRqCb1LoYgTzaeiHJBwA3lC43lJ3lFy1g0lqVLvGk7J-a2_76u6c8XE352GGBQoNf1hyC_zdVHGjnZAsdh0lRsg8i4P90aMex95ui8Ga-kZNyD1alLUFVUWDpqjqZLZoak1lYVEhezWxBkKia_hQ
+    widthPx: 512
+    heightPx: 768
+    authorAttributions:
+      - displayName: Sushi Hachi
+        uri: https://maps.google.com/maps/contrib/115344744193859264382
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJVMcGeEnPzPgxx0pNqpzb84I5U2GCuIJh-AlBydPcMuq6Xaw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP1y7G2T6rkQB515V32tuC1no1KmAKJvm_nv7Pt&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP1y7G2T6rkQB515V32tuC1no1KmAKJvm_nv7Pt!2e10!4m2!3m1!1s0x89b7b9ccdcd905f9:0xfeb2edf310add556
+  - name: >-
+      places/ChIJ-QXZ3My5t4kRVtWtEPPtsv4/photos/AeeoHcKyTOhJpkDVfGLcEAccm1oWw8vFZeSrFFDU1ZXP01lld8cCUbWethon75gu0miq60iTMBkbCpnUrP6TqNVK-pNbW5t1NbSpAn2waLTZwaxx4loIkZdyE2e03aQ46wkdNNHmcQOK_czaZfF5p8k2VdbKRdiejhvYc-lkMQeKt6Rs9-Hlb_PX8ZL7CTWhvCkOZPYZTxR6_RoEI7Cwa5XMIUFm2qhRr5lb09sWFwf_QpQcXccJahyZ9cYq7OfeMbuFkiIw1C2HeqNaxjQWNBaV74Ibss4O0wqlD-Nepg0syNvKGv9z3Yg9CND0L-MaIR6fgTuTW14uhXfS0ofABdLpWdH1Lf6lpaHHXycy3VJLugj0-YHdgzPWul16iI5YSVFx8n-VxOaAsVz6-WExHoC_1eBkxuEPU75IMEblUnl1Jbx0JA
+    widthPx: 3036
+    heightPx: 4048
+    authorAttributions:
+      - displayName: Cadee Qiu
+        uri: https://maps.google.com/maps/contrib/117947862160426229449
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU3cRyg7grU6nPgUJolK2chIjdmlQaAzTA_J4w9AnH09Mfo3bVbbw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICktK_5ew&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICktK_5ew!2e10!4m2!3m1!1s0x89b7b9ccdcd905f9:0xfeb2edf310add556
+  - name: >-
+      places/ChIJ-QXZ3My5t4kRVtWtEPPtsv4/photos/AeeoHcLLMai-ek6dNK0mDwUbhkS5unP2HWyStDE3evAi04nd80NxpM6R4WJGe0toT_7cnLO3WBK1d8Z0ETLxfYQSSTc4J4mjjCFoRRchcCzFVfGL3XRUUGf4EmZI6JqEUFQz1knNL-lsg8twBCd6IdGDnOtZcNJdDJjZu4jSyypOrdab1vIhStI3UFzy46kCILMtpZUL4KHqz80VLlXI1cID7eUZlHYRES5gWQXo1OSp8_fB589J-7PamkfELzjft0dJy0cXOyW7cmSPoUuCFjbt3NLfOdL2B251DILA2ZvNLPpIoAjJu0G3uWfp8gBSW8A0SoiK3Bgn6L9BsSRtw1TEwoyMiCQJa3Y3cTQpBt_7bQkvBgO7Y3wQOG1hTalNx1yHLRbWGoNmOmG5m8ej038eLz5h-8a7ZD2yeAtiozMO8f5PWQ
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Elias Chelala (Chewy)
+        uri: https://maps.google.com/maps/contrib/112891881046198787833
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVSs8XkQOxTJxHDBWyyT87_bVGsDCgedwv7g0hJVChZDmI7uB7YtA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_v-n2fQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_v-n2fQ!2e10!4m2!3m1!1s0x89b7b9ccdcd905f9:0xfeb2edf310add556
+  - name: >-
+      places/ChIJ-QXZ3My5t4kRVtWtEPPtsv4/photos/AeeoHcJOiht7K5Y9Y8UH8t2RFLTgCx_uFjRGq13S6UgHkJy8WGtcnFDbeDkKmdZnxGRY9w6QzhyNFxJmisO_bRDCEZpTtIQMKWhHE2OdPqncs1Tc6gUR5veCIcNfs8lXOa1GiIbGk2qh1eaY-0k7EEf1_5vp2GYzan0-F4NweBp71R1kwoKkvpgHmzBi0hG__NzhFsNlYhbeRrUM56bZ6a4skRAVI5qdtVCqiP_YAf-Vi9ofHpc3_uhop1dP4N0mDU7ygWQgNKCJMzqNw0h7WMgyJoWig_JCphGOvVnZhKv8qGPLuA
+    widthPx: 480
+    heightPx: 600
+    authorAttributions:
+      - displayName: Sushi Hachi
+        uri: https://maps.google.com/maps/contrib/115344744193859264382
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJVMcGeEnPzPgxx0pNqpzb84I5U2GCuIJh-AlBydPcMuq6Xaw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOjlpEubC5YozCZgSPr1RKnfmr06i1iTCqT7z9N&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjlpEubC5YozCZgSPr1RKnfmr06i1iTCqT7z9N!2e10!4m2!3m1!1s0x89b7b9ccdcd905f9:0xfeb2edf310add556
+  - name: >-
+      places/ChIJ-QXZ3My5t4kRVtWtEPPtsv4/photos/AeeoHcK5hn84euvxXl8QKzWpHJYkT9c-P-LvEANNqEBoMNrCsYWyuF0KUQyU_NZyY6XrkUi8ElBqZJTVflN3AwW3Gb-mJ1IzUVUcYDhf09hpP-uPSHpNfeFpKYUu6fkypH17f7xAsRZnZeB5E3oQEkFiMH1b9ujDL6HMBujEozth3MN1Z3IIeVzQocWjC5wED5McPEw4K3HT4L-m1MD76c-HA3uYDeR4R3GzneHjeFaSui6R_R9hLWvQimdVHvYhHsgDr1bdlmf1vAIHfi9fDZ1jvcI-VDM3AIM_3shA7qsbtG00xQ
+    widthPx: 480
+    heightPx: 600
+    authorAttributions:
+      - displayName: Sushi Hachi
+        uri: https://maps.google.com/maps/contrib/115344744193859264382
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJVMcGeEnPzPgxx0pNqpzb84I5U2GCuIJh-AlBydPcMuq6Xaw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPKOEY9J03MewvTTNgC5grlSreJNIrXBj5N4DO7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPKOEY9J03MewvTTNgC5grlSreJNIrXBj5N4DO7!2e10!4m2!3m1!1s0x89b7b9ccdcd905f9:0xfeb2edf310add556
 address: 735 8th St SE, Washington, DC 20003, USA
 street: 735 8th St SE
 city: Washington
@@ -72,7 +182,7 @@ phone: (202) 621-8499
 price_level: null
 price_range: null
 rating: '4.4'
-rating_count: 627
+rating_count: 0
 website: http://www.sushihachidc.com/
 reviews:
   - ChZDSUhNMG9nS0VJQ0FnSUNfdi1uMkxREAE
@@ -110,6 +220,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Clever maki, unique cocktails & imported wines in a stylish, brick-lined space
   with a relaxed vibe.

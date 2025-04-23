@@ -3,62 +3,64 @@
 ---
 <div class="place-page">
   {%- assign place = page -%}
-
-  {% if place.summary %}
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  {%- if place.summary -%}
     <p class="description">{{ place.summary }}</p>
-  {% endif %}
+  {%- endif -%}
 
   <div class="price-rating">
-    {% include star_rating.html rating=place.rating out-of="5" count=place.rating_count size="16px" %}
-    {% assign level = site.data.price_level[place.price_level] | default: "" %}
-    {% include price_level.html level=level range=place.price_range size="16px" %}
+    {%- include star_rating.html rating=place.rating out-of="5" count=place.rating_count size="16px" -%}
+    {%- assign level = site.data.price_level[place.price_level] | default: "" -%}
+    {%- include price_level.html level=level range=place.price_range size="16px" -%}
   </div>
 
   <address>
-    {% if place.neighborhood %}
+    {%- if place.neighborhood -%}
       <span>{{ place.neighborhood }}</span><br>
-    {% endif %}
-    {% if place.street and place.city and place.state and place.zip %}
+    {%- endif -%}
+    {%- if place.street and place.city and place.state and place.zip -%}
       <span>{{ place.street }}</span><br>
       <span>{{ place.city }}, {{ place.state }} {{ place.zip }}</span><br>
-    {% else if place.address %}
+    {%- else if place.address -%}
       {{ place.address }}
-    {% endif %}
-    {% if place.phone %}
+    {%- endif -%}
+    {%- if place.phone -%}
       <span>
         <a href="tel:{{- place.phone -}}">{{ place.phone }}</a>
       </span>
-    {% endif %}
+    {%- endif -%}
   </address>
 
-  {% if place.website %}
+  {%- if place.website -%}
     <div class="website">
-      {% include icons/globe_icon.svg %}
+      {%- include icons/globe_icon.svg -%}
       <span>Website:</span>
       <a href="{{ place.website | default: "/#" }}">{{ place.website }}</a>
     </div>
-  {% endif %}
+  {%- endif -%}
 
   <div class="maps-links">
-    {% include icons/direction_icon.svg %}
+    {%- include icons/direction_icon.svg -%}
     {%- assign directions_link = place.google_maps_links.directionsUri | default: "#" -%}
     <a href="{{ directions_link }}" target="_blank">
       Directions
     </a>
-    {% include icons/location-dot_icon.svg %}
+    {%- include icons/location-dot_icon.svg -%}
     {%- assign maps_link = place.google_maps_links.placeUri | default: "#" -%}
     <a href="{{ maps_link }}" target="_blank">
       Map
     </a>
   </div>
 
-  {% comment %} <div class="opening-hours"></div> {% endcomment %}
+  {%- comment -%} <div class="opening-hours"></div> {%- endcomment -%}
 
   <div class="wheelchair-accessibility">
-    {% assign accessibility_options = place.accessibility_options %}
-    {% include has-options.html options_obj=accessibility_options %}
+    {%- assign accessibility_options = place.accessibility_options -%}
+    {%- include has-options.html options_obj=accessibility_options -%}
     <h4>{%- include icons/wheelchair_icon.svg -%}Wheelchair Accessiblility</h4>
-    {% if has_options %}
+    {%- if has_options -%}
       <div class="options wheelchair-options">
         {%- for option in accessibility_options -%}
           {%- assign title = option[0] | replace: "wheelchairAccessible", "" -%}
@@ -68,66 +70,66 @@
             {%- assign icon = "icons/xmark_icon.svg" -%}
           {%- endif -%}
           <span class="option">{{ title }}: {%- include {{ icon }} -%}</span>
-        {% endfor -%}
+        {%- endfor -%}
       </div>
-    {% else %}
+    {%- else -%}
       <div class="options">Unknown</div>
-    {% endif %}
+    {%- endif -%}
   </div>
 
   <div class="parking-options">
-    {% assign parking_options = place.parking_options %}
-    {% include has-options.html options_obj=parking_options %}
-    <h4>{% include icons/parking_icon.svg %} Parking Options</h4>
-    {% if has_options %}
+    {%- assign parking_options = place.parking_options -%}
+    {%- include has-options.html options_obj=parking_options -%}
+    <h4>{%- include icons/parking_icon.svg -%} Parking Options</h4>
+    {%- if has_options -%}
       <div class="options parking-options">
-        {% for option in parking_options %}
-          {% if option[1] == true %}
-            {% assign svg = "icons/check_icon.svg" %}
-          {% else %}
-            {% assign svg = "icons/xmark_icon.svg" %}
-          {% endif %}
-          {% assign words = option[0] | split_camel_case %}
-          <span class="option">{{ words | join: " " | capitalize }}: {% include {{ svg }} %}</span>
-        {% endfor %}
+        {%- for option in parking_options -%}
+          {%- if option[1] == true -%}
+            {%- assign svg = "icons/check_icon.svg" -%}
+          {%- else -%}
+            {%- assign svg = "icons/xmark_icon.svg" -%}
+          {%- endif -%}
+          {%- assign words = option[0] | split_camel_case -%}
+          <span class="option">{{ words | join: " " | capitalize }}: {%- include {{ svg }} -%}</span>
+        {%- endfor -%}
       </div>
-    {% else %}
+    {%- else -%}
       <div class="options">Unknown</div>
-    {% endif %}
+    {%- endif -%}
   </div>
 
   <div class="payment-options">
-    {% assign payment_options = place.payment_options %}
-    {% include has-options.html options_obj=payment_options %}
-    <h4>{% include icons/cash-register_icon.svg %} Payment Options</h4>
-    {% if has_options %}
+    {%- assign payment_options = place.payment_options -%}
+    {%- include has-options.html options_obj=payment_options -%}
+    <h4>{%- include icons/cash-register_icon.svg -%} Payment Options</h4>
+    {%- if has_options -%}
       <div class="options payment-options">
-        {% for option in payment_options %}
-          {% if option[0] == 'acceptsCashOnly' and option[1] == false %}
-            {% continue %}
-          {% endif %}
-          {% if option[1] == true %}
-            {% assign svg = "icons/check_icon.svg" %}
-          {% else %}
-            {% assign svg = "icons/xmark_icon.svg" %}
-          {% endif %}
-          {% assign words = option[0] | split_camel_case %}
-          <span class="option">{{ words | join: " " | capitalize }}: {% include {{ svg }} %}</span>
-        {% endfor %}
+        {%- for option in payment_options -%}
+          {%- if option[0] == 'acceptsCashOnly' and option[1] == false -%}
+            {%- continue -%}
+          {%- endif -%}
+          {%- if option[1] == true -%}
+            {%- assign svg = "icons/check_icon.svg" -%}
+          {%- else -%}
+            {%- assign svg = "icons/xmark_icon.svg" -%}
+          {%- endif -%}
+          {%- assign words = option[0] | split_camel_case -%}
+          <span class="option">{{ words | join: " " | capitalize }}: {%- include {{ svg }} -%}</span>
+        {%- endfor -%}
       </div>
-    {% else %}
+    {%- else -%}
       <div class="options">Unknown</div>
-    {% endif %}
+    {%- endif -%}
   </div>
 
   <div class="bool-options">
-    {% assign bool_properties = site.data.bool_properties %}
-    {% include has-options.html options_obj=bool_properties %}
+    {%- assign bool_properties = site.data.bool_properties -%}
+    {%- include has-options.html options_obj=bool_properties -%}
     <h4>Amenities</h4>
-    {% if has_options %}
+    {%- if has_options -%}
       <div class="true-column">
         {%- for prop in bool_properties -%}
-          {% assign property = prop[0] %}
+          {%- assign property = prop[0] -%}
           {%- unless place[property] == nil -%}
             {%- if place[property] == true -%}
               {%- assign svg = property | replace: "_", "-" | append: "_icon.svg" -%}
@@ -138,7 +140,7 @@
       </div>
       <div class="false-column">
         {%- for prop in bool_properties -%}
-          {% assign property = prop[0] %}
+          {%- assign property = prop[0] -%}
           {%- unless place[property] == nil -%}
             {%- if place[property] == false -%}
               {%- assign svg = property | replace: "_", "-" | append: "_icon.svg" -%}
@@ -147,9 +149,9 @@
           {%- endunless -%}
         {%- endfor -%}
       </div>
-    {% else %}
+    {%- else -%}
       <div class="bool-option">Unknown</div>
-    {% endif %}
+    {%- endif -%}
   </div>
 
 

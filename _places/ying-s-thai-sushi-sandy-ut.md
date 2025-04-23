@@ -13,7 +13,7 @@ description: "Ying's Thai-Sushi serves delicious sushi in Sandy, Utah. Try fresh
 place_id: ChIJu_ftL-KHUocRFgTqElV9Qyc
 photos:
   - name: >-
-      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcJMDCLY0oiuHABWpugn7lNwnQvHM4dR48wuis4_Sz1_ppg9w8DkF69ytzSyC7bEXal36RrF0RiMG2nzV-ehztDbv0MrB31faA7Osz4GPkMw6TldeRPgih2gxhn9d7J16ODAnP4VAzjhJLTwlOLHFsdSTE7KMmboK-v_Haoqr9Yxw1_6Xfvob--EW_2DzBk6q-mMkMkupgKIvZ33kT9fpM76h4U4FM1sgAhGCg4GOdcSzvTfTkxvHd8mQ7G4WjYT6PE79dhOqb5wR96qIPCki9Yaj8EgVjHXoqYrXMXgX07rXQ
+      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcJ11Pc_fGHEyS59iUWUSM46MGTSA74MpsqaB1iJqziZtr55uTo7zcoQwMxk_mxO--cKikficDUIqDa1mm9vsqGLZTVSm9JYuGCxGYhWr9pWUuVwEO47yqDgwfTjQxni74q1AeN9OWQgQrQz07h-xNUiW71YccjTEPA-PS1Ii9mML6nd1iWbH5ZDzyDjqe56K6TFm9W2qanPIg9qhW-qabN4J_jqoqLN_cln3yA0MeLFvfGBHcwFdeRUmhSjXRswkpaGcHpC1grjklL4BNGgCz54UrhH35h1Sdwm8dFVlti7pQ
     widthPx: 960
     heightPx: 640
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNH2XFd4mnv3uWU0r_XcP-dL7z_ve0jNBCIXJI6!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
   - name: >-
-      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcLI-4C0oYo5CANUQ52KlNm3lSIBYnbVBoaXk4G3RWZQB5IDTOg41ErNsCzWE8oz_-JWkxCjUMGyczqDa6kDpQyaEp41CuHPNMjnG0XQ9BmTRt_05ZrI2V1Gt2uyE_L2oNtZQCdHhh7YZDK9Be-gohOkfi6lELuJbseJ-giR921yNfyyYn0GSHEr97ioElDA85mySaWpnU2zt04OwxQlLX1Q4PcVH7SM_l3-C6wob7sKxqdJ7WipCSjBh9NGOm25ehLt4PyX8cGKLMnFDAdPsbcUgHWjTVw7yegAykPObiu8qA
+      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcLd3Cn7empNDTXIcFwXFs81iG0zySE38hZdm1rKTDGPRv5AkTfunV57PDRaRos5eMGF5gy9NrMNr641RtNu9WUktPwKJnpUjY1JZAlfkJVUcqX0PlSg3dHd1BW7W6I2VUDR9BSp20kGJqeou9296OifeuuJX79AUKtcaPB7KGb1y73OdwjyujIBArwYKFm5fMjzb9eDosrkabAKDllbT42UQLKkexZJyiDhc9FYksUpofN3RAGq2l4huqw0C5gVcjRNRrDtzMfE5MZJLF1HvhaoX02aTYDgP9-I0qPIOVXTvQ
     widthPx: 2160
     heightPx: 1176
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNkq-KzF5iAq37qT6IB_6o8KlK2uQRaxbwTD-cx!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
   - name: >-
-      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcIzmvS8ny6KLMc-3qbHqk4nXjK0h6cT2u-mEvByFdLE-Ag__aRFXZTVpl4yneYyCVNxDnDiB3snRLn1ZAyh-wvKiLLOHNd74-q0CgrFF0DBaODTZX3NllmePHG-3nPnObyM1JxrIXmtn_yBmAGCU3u__3GU2YypCJJ2cOG_Icb8tS9XgiJKLPHnW7rGL_h2Wi0c1MqsL0djao2B6kB6e4a6TKqhifnGzRdcL2Zrc7IfAPQ7pFOmeu6Y_iaIy6Lfy8AsmsCE3hF-QJSIpTky29MWMD6_FP9lx6cwXECneM0XpjP0EhteJfyfYL7sopUnGQg_vwlzsNyJ3SClVpLEf3_olgbJHmYteaZhHZ8qmAdJy_62KDq86os552v54DVKfS-lDHnunyYLEM5wj_i9DAx6igxU_o5aN4pOcFI1fzaYXA
+      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcJNhKh9OgzZiyggAUPQHvGcWTkBbFwEcnmEJhI4b5f3vWQED9m_M28Okhl9sdJMOWAaA_nw9hiP-rX-n3QH-xb9nZHQgtWjubUid3_UsR5T1NbpU-wdyii8T95h6Gm0bjB9nNrc5fKCvvRqVXCUt2q0dyH0rTrDt1zrGNVUHk9t8On7EylcUwN-Lstptlx6gX6azamUFQfUKykdYaFYWRMooKbSBjv2fk5tULNAxK8nEhEJIqyp2b4I9EIqoc1aUgPQbmKU6J3nUHHutceADDkWVgnOenHJ20iJIla6xvbw0HMD6bzzgB2Lu7CpKEN69RrQCwlmf0SCSXav4e4Ha1uQ-C35905g6ngMluF00HyEZ5xP4JYuOU7wtbxtJNeqQpD1j1F4RVrQjYOVQ2DyHkmhC-xyIzdOcXcZd4OAuJMqBA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,20 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr4KqWKQ!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
   - name: >-
-      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcKtQgdlHS_cRQqj9J2aGtKXmf9aI7p1F38NmZjUG9AO1BJEpE5w2-S1C8OnBkW4z4hl-jc_BlVgXPiCWPj1LhzVBTdZTx5796GL53QHmWQpoZMCptYpH0WiS7R-EJxBfbA6umfg6Xbs4W1G1yuTzvpZR0P5ajKPNiq0tHf58u41UFOE8GTWTf61la31cJTKrmc2OCPo9Bi7eOK2Xthl7zwCkWAUhzA9d3fcIXMlRLQEOIYg0qeN4zl76PGGd6QfgKKs4fkofJDCvxUmikLNLieRCmth44WqXap58EvxRm9CL4Ec-eET1YcuafJXVCsE-v6oHS0JzY_7-NyJueox-GSDQokCH2kWz_tqthNVFenlaLdBaXkfnEoasVhGoCloT29YI-i0zm7MnFV3Z-mTqfebMonUuJWyf6rRIEE_JLJNlg
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Jake Pehrson
-        uri: https://maps.google.com/maps/contrib/104812890006072609357
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVVLtKd1xVOzTdES7sM9Ucb4bL9tWVniZmiGgzFNx_wwne0xnXJVQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICX_bPNRw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICX_bPNRw!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
-  - name: >-
-      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcJ6XFLk_dN9k4WBc3GwgP5WShsK307q8_N-PmYCWSJottLrqXaTrO64PgooiGrNXeV_tIlSvIVthd2cTQNMFArILtK7aOqJG5ZUz9iSPQ_MKLf7f57Gw-uVzCSPcMDoUrFgT_MY1bfbQibeRi79yNZe7HXwTji6xtvthNjFr_yFmAML8Pgef1RcI5oxQ36e1nK2oHChXlQ621iEVnCXtG1hulOWLzKvn_gUOOKbO2ndfoy5LmSh0GXnh8EkKzPLyDo_g6azI39ggONKOUN4kfYtVGuU3olVSwbw1t54-e5CcA
+      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcIJ7uRzDpyy9Cj2wp7BPWibHnsXSks2te6QaDdtRHFdwZFkppiIzgfP0xzZZqRj0qohjQVoh3cCeCIyGZta1yc7Vb_Zs1Gx20_mpbW6z_aGCDriGfyUfCzoxLRuDTnwV4M2TiPDOWe2xZ3ZKH--eeZloDZq2Ss2bsYW1bjirNRR9Xl1YcqY3OBBWrZddMCoy70ECDABUTiKqYKDB2XBm1SSSn-LigEVE3uEAiVu_8w_9NVhVq0rG1_wWUG1D72G54VROft1KqUCDX3iE9sfFCVazquUfTXKcrPaBaZ_mOF6tg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -78,33 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNQK9Nlw-jkC066X9mUkRmaqxks081KHhAR1NGm!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
   - name: >-
-      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcLqGS2dRCwDdnnA7-G1GpxyspWuPMdPdnRYeBQC6b3_tx4TZVTP6sMORjK-AYPLgOEvyFEmwmcw-F2KVd9roGliKvlpwxFRS7YM38WsuSZfZqiSBybIU2XP7DjVEn7NVzhuwAo73QOYlxyOOs633QjdDk3EGKY1CZ0QaN95zOdRR2c94TVEVbDUEMAQBBuOsH0e5f3x1t-Mm06EAc5Z9Q2VAEE7vpOJNHxry0QFqmMOEZxee0VRVqVoXp4SA5H9G8sQFMwA5XdoTIBM4s2ppFiEx3grUkGKsNovC63P--U1R1i06uCWkYv0D409_AEUG9Ld6XxT0Hv6buIAMc0sZ6YPIFIU1SwVx_XtbUXObt1_vCjMuMiovEYxMrc95M8i1UvDowA3loLle_V6rBrqpvMmjDCg6COicim5sdqvBeIYBQ
-    widthPx: 4080
-    heightPx: 3072
+      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcKISaSKXR6MFT7W6Dgn3q6M5H95UyJQvp0rFXh0Ik1rnq2-FJczF2azEI_8qffC-OKWsNYK2Z9p-00OLvb9uHXqg5ccVmwx-tNacNGtLQJSu-W6hcFEdXhsgxwH4d8yjqxfvhNbmQmPyUxeb0iAXjbR8oimu2IX-6F7323SxFucQq6x-zwPV3C5evsUuhd8uRhz03OHBoVMJmPh0sZGIWvHypnOsFfYQRCd_3bgRcGp3NhX9JVLEFoZVMf1K2WBpYaU2UU51IITCSw6Hyo5gAfYz8IjsGBwm1LHJg9FmOx7-K8ukN0sO7sNwxtUhB1OzJrn-9BruAt2gQB_aUq_laV4czebDcvTsMFIANNMYuEDyRHG-SKKQkm1Qr4SAmYrDI7lObppMjzVKGDpzQ1DCfDZwr2ascIb4hZwn6inQIa5vw
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Knut Liberty
-        uri: https://maps.google.com/maps/contrib/100199791984118599045
+      - displayName: Jake Pehrson
+        uri: https://maps.google.com/maps/contrib/104812890006072609357
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVFRvgQlJLn3ajsf7vA9CseCj6oA2SRbsJYger1VjcpJ-Wxz2-Fsw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVVLtKd1xVOzTdES7sM9Ucb4bL9tWVniZmiGgzFNx_wwne0xnXJVQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH_pi1VA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICX_bPNRw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH_pi1VA!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICX_bPNRw!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
   - name: >-
-      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcLrwy5emdglDcuRtGvigF6ablJRZpt9lcQwHuI1qxa3RGvEQUaXJR9r9wkx9KWiLdPwj5ZwaoVgOeKJmk5dYhMPRutYA9RviEEmRvx3Ku1XBl1dHxxkx9Tp1bE64_TDXn4okmSR-LaGkrlAiDe61XvGArHQUDHxV3qjUoUmvJ-PzuCBxq-yoU62l30J_ETlDerS0PMvdi47UWb25jrW3r4JzUu8mn33scN5m0-g8JMTNU2InOVTe9OclgSj_LW59bZAuH4jVW0YVWPT5JULwoBM9ZshHfFxYDNkBTftPDAmAFIGrw7m5i4nqHzv73ubQIcYwvGZu6K2YiG07RJtYPgZL7zllzSyYWnWqnhJqzq4YlVzeXwRV0FbfjMuK58f8vwbzR2nUjEspNRVDcOsnlk3t2Yx8zeCSzlxcpRRjcX6dSM
-    widthPx: 4080
-    heightPx: 3072
-    authorAttributions:
-      - displayName: Brianne Hansen
-        uri: https://maps.google.com/maps/contrib/115483305446477114812
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXb7d8DL0v7F4TRP1ydeDxuWDp7aOLNby3JQRTtfR-v2gLPsQNd5Q=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXnMzE3gE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXnMzE3gE!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
-  - name: >-
-      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcLFRfbvmpjCKhEFvn3dIqXJTvj79nTikuuqQIBYRVefaalrjoDKBFHWLDvm_C8t-PC_419bkV4a7PmpUAOkwTTtMQZ9ROFryCff6MQvUSpY1R1RIP-JeHuMRaY9tqRcu5hvjryXuDLzX2Qtj3q3RQi1Jk2pcNdFQ6QbdvEY3PwBYnhKr2YNup1_Wtck7q0xJuwtyLN40Icnwa4Q9lhPer6_MnGz7tL651eNoRxwTIGwlEvOtdRYFQepai0rswbaup02irwCOFyhK2DAkgQAssLiAFD-gZogjodR9YUP59K1eQ
+      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcLAzL45m8ULOWN4UDAwlGzK_J3fhyH3s3RIiHmroVFwBAzuiI5ApCZIZ8qLDZKVdBFtQw6YcN_Lpt2xV5tyVBOug4T5CafkNY8ZHS6uzVeq1ljj-wQv4jryXbfITLSIXwgWrnue5cvaFHC8-xsCCQGe6MG3F9IUVcppn6RFQEkc83ro8xy3JiTWm6wSX4WzMJ04IhHr98D0I9FMuidMTCFbxEKD3lWxMlp7fCj_PpJJeYBPspyRP8wnQnu5PxhbjqwfYOJyrxqJJ5HYn_1ozUeFKEWk9R5OPTeHDmCxWHLlRw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -117,7 +91,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN8IiR-bW2AbkesJANJvVcWXQ4jAkh3V3KI8-29!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
   - name: >-
-      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcLs6Qsz3joyvxu42aifTM3EjOK56NnKWRh7gjhZIIb32YCHXDuzTJGgFj_pF4Xw8e4ndP9G1_PZAsJM01LxJZ_79Vem-RQMdzfbM_cCN5ELjJBTa26ozPLtG0dCbouXGR8aOQeQNeJmD5jXbW9PL495C6dgK2470AZD-GJT4BwdC3fIGUDwOdRz5dzg0oXeDnYyzN1O5wwDGmZmAYJxPPpE5U-vy4Ob0wLFfcybUhVx4-VAmFsQT9EdubpEQirGnYXpjdl-0aipzT_ZS-f20PD28BWsiF4WkB-zDD8hkUkZBA
+      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcJqCOSGuC2IBrNicO4VQXl9-j0aBhbk27pWuZo6__tdgF-8xhLr18eJ5AHzYOu1-9_ByOrRlI7vNnkdpjydxkjbMxG2u29AV7xlbrzo4Q2Txzt8RFlMEbBXN698cQ5_FkmW8ytap3cBfuC8ekHPDOTcExN89gpsnWXvxddGHHCg4V9EWqXJVXAf5P37xdWFGTz3Hy9MPjR_rOUlGtbOwc8Hfm9xRbnCYfK8wqWJsD7mRw20_H0nt_muDuBPtA91_XPc06GccmQF4UNpPtJ_XDX5Qb-craIg75ZsvV1-5yHxgm43VKCMCaKWMBZXEt9qyOP1bh0UmfG8hNCZTAp-iHWBDslNclnpLJJUWaUViryHUJ8LaIb8rQIBes5pYMEASjQYxa92SBMUG__Ee6hWbPvl8oMr5XhLJr2gx2a4ILhqVA
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Knut Liberty
+        uri: https://maps.google.com/maps/contrib/100199791984118599045
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVFRvgQlJLn3ajsf7vA9CseCj6oA2SRbsJYger1VjcpJ-Wxz2-Fsw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH_pi1VA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH_pi1VA!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
+  - name: >-
+      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcJ9Y-5wmAUkOOwsuY-AF3U2QLryUqedo6qB5q2oQFvVPLysW2dBrne9NJzp0bCaGlGAa-wLJAn9iicVEMUE2xnneS9fUU5Rgmi3zP6lFfKu4p7MNblJRZQyA3F5zXit-TWzQ1wblNFt8n7vt_nK9GvZzNpkeb6uri_YZdQikrfNkHiwrFPbqBR4FJXuooeVoL49P13yOStuPHK2jbuNbMC0bYQorU2MFdXeB7gepMFiOMrPZ77qK3WIGGDj_55CjKo-IDxnMd8KiIrp_zMkhLrSYjoIXVv4f1lB2PzcW8VmUpTd8zyh8JEPEYl0pXIXvNvzMvK9btZutvejx2lzHhJCzFv7sQQ3CPmRTVKR82GbR0dBJgLTMnSkVLN6cvcx3Vk0ZK7HWWw41auM2PNGbbFMrwlyYpmXTvHpunlxsNJzPxs
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Brianne Hansen
+        uri: https://maps.google.com/maps/contrib/115483305446477114812
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXb7d8DL0v7F4TRP1ydeDxuWDp7aOLNby3JQRTtfR-v2gLPsQNd5Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXnMzE3gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXnMzE3gE!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
+  - name: >-
+      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcK9cRfl3QeYMDZmoKt7NqV8AYNrxXUj-vuzzaJp27IwlCLL0eeAH90zNNo8NOjGvNoNdMm8DnIQsqdzgwmedqrxiDkUqEMRr7qgucsN6Y7eoVUBQLzmOkGT1r1iOkOdbCTqAv_ZgO7wckFQtC8RkiDoSkmYGdUb1OiwYHfkdppykL-omJqbtJSaGVwWmJVv1Wagg_aPA5_kkhAB_iqyYZI4uwKQa0YZ4wQhGZpOW6222cPY5zndB_cnVhauUdS9Wjdh0snSXXaL7NCGJVdPtcFcBj3YqGNK7-blEsoFf1aTTA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipORo5AM9j0h_DZdxCz0uRtt7MeIrdw8FDfDNks2!2e10!4m2!3m1!1s0x875287e22fedf7bb:0x27437d5512ea0416
   - name: >-
-      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcIGNSaWtuS1nx-21yJtZlbmE6lE-X1bL2H0VuJbb6W2GLbyfW2BZdl26wPgLyRxoCGC0X6k1ajYE0Q7j2rL0NZ9BRMYgtjhFkAY3xDwJYqyR3hlHEwL_l3xX71WrO1LFcUM1ouIwwcQ3E3BhAD-QAfotxS78dsHhKMgicgkx8pEfF91seo5T2GEGzW4Mp75UTMbAa0mNiiH23iZPxJ-AT3PLjbfN3NWNDn5nJUtnOufAgHh6AEn9yz77YlacM5ZLOP8xkwpXp2ocRFHAJoxA11Oep90AhjFDubVfR7lSdx3xwg9RSoVpaD6Bn_SkMwVq_E_1ti2LnAz44hroMBAz9Ix-BxYElY-jt8g_59LoLBpEucD-Z1Y20PYIY8PtBfAeay1Y20t3I8pny1Fq7wG_O4ziXmNUYWr7ZXAcpDoPoT4atHJ
+      places/ChIJu_ftL-KHUocRFgTqElV9Qyc/photos/AeeoHcJlO-pRKcwA3tkP7CBWgqs79tudjrQqBv2hFXle9cFizBnEt10ZD_y3mAU1DaQqHrpgntx_OG0rrU1_ZxK42J2s4ZQa3KXYvF85dSzMBnd4F3fhdavYdeNOgWwgkOHawIgPy17vEFgeF8sjKFSrtWqVCiROKPcXz3SDes1nJQG4CQ1FNkJ-lFJIJgUQseYfmIikghO-zXfJQd20q2I-SfqfL0rGVDNCQRpAykk0j_ppJaaDfDi5RkYC2Jeo2ip_m1QV4dRVzbomzW1Gh3-s97eScCtg-4gsXnuL3lZZ9oMHc2XJwNnMAvh05eb4YD-G7p-Ol1IxScEBNZnbgatscWMKska26JLByCWthtFbQqE2aQ4lxAglEMNkuEiT0ca2LqAXFkzhHWgPHgRw3lnEnudOq4Xe0D3dE0n5npdEBQ0N1F1X
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x875287e22fedf7bb:0x27437d5512ea0416!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  current:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (801) 999-4321
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 676
+rating_count: 0
 website: https://yingsthaisushisandy.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

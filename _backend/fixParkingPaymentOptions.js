@@ -14,7 +14,7 @@ const parkingOptions = Object.freeze({
 
 async function run() {
   let upsertCount = 0
-  const { rows, rowCount } = await getAllPlaces('1 second')
+  const { rows, rowCount } = await getAllPlaces('0')
   console.log(`${rowCount} rows read from database.`)
 
   const places = rows.map(row => new Place(row))

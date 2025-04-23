@@ -67,8 +67,8 @@ ${objToYaml(place, 0)}
 }
 
 async function run() {
-  const { rows, rowCount } = await getAllPlaces('1 second')
-  console.log(`${rowCount} rows read from database.`)
+  const rows = await getAllPlaces('0')
+  console.log(`${rows.length} rows read from database.`)
 
   await cleanDir(path.join(__dirname, '../_states/**'))
   await cleanDir(path.join(__dirname, '../_cities/**'))
@@ -82,7 +82,7 @@ async function run() {
   for (const row of rows) {
     const place = new Place(row)
     if (config.devMode && !['DC', 'FL'].includes(place.state)) continue
-    if (!place.state || !place.city) continue
+    if (!place.state || !place.city || !place.name) continue
     const stateAbbr = place.state
     const stateName = STATES[stateAbbr]
     const city = place.city

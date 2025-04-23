@@ -13,7 +13,7 @@ description: "Wasabi House serves delicious sushi in East Brunswick, New Jersey.
 place_id: ChIJ2-58b2vPw4kRvJ8qsEupUmw
 photos:
   - name: >-
-      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcJ_SiG9aEs3tRdg7KJMAN4Ve7z9C-N5f-WicT9PNwSfAU0c_5m3ftj0qUYuakd5d6MlVhMKDVN4yUWjrM89Z0UGJbTz-THqYddCXO67aFkUePhEbaxALAVMwqJYPIpZaXaVpiJM1F8uvf2-2-uwrmhOCnj46IcV9DiqMRvg27HKa5a2aJ_NSpuSlqpAyj-IP_JT7OvququRpwCA1SUa6HFrymek5UXy_uQApIXgZ7AA8SzePVhdM1oovrQAbvi1GZiwdhXakljZT_DPB_zQhGlnvYlfCf3qOueI-K4lUVz2Bg
+      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcIIBdb6O1nGXJMsNedDvHme_AvIRR1-goT1SJC9UsdRAsXUfUK-OavZuyoFj9gTZjIRfm47MYepIWj7WY18wHg3DLlVYOo9nyV--WFBC-6FKzsgM6peShzN1WFHEd43YBvQrDCl4bbt0m1ZRlqC-e3n7yygRiATZ5OCeWESL_HOZLdFKWFeMg8nv3SiCsZL2z-OfMowOYUFoCr5guz39wkJ5QC7Es1cM6mcQtw9TdwiMbfJCDbB1COoYt-m4rroz-dqAIQBVfdq2BzthlyyKlDIDjuSTh-XNHsCgBbWbMTYTQ
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -26,33 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOUmnKWmf_Navb4WKipbq9RqxXT6iEZFlWfbYzK!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
   - name: >-
-      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcLoPvi8mh9j7MtJmMFhX1fYAuasuAPz4X098mfAongFh_owoEN67XNcBB92koKlu-z7x_v2a4U-S6cSA7qt_9IawIYcPL67IUbpVGRiajYA5p_gNdKXx5x4nxOW_SKpZmoho17RytPg82rN8DExvrmoE7N-u-h3c2K0vvRIuxSWzhsJFbgrMxehDDhAPqQ6JTVjhiCJugRzBKPorTOn94NBvRLtCqLS1T5sVAO9RE0Mdei9m-_dsJWz3PGtR_MM3gSxZp7gTtDeG1NPIQMK97gbjVkz4toabevVf9cNyaHrhw
-    widthPx: 3000
-    heightPx: 2251
-    authorAttributions:
-      - displayName: Wasabi House
-        uri: https://maps.google.com/maps/contrib/106167592894276464695
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKm0-d4ipHBrN8fJINqVNrVlutBhkHt7oU2jtIZi2g1oiXT6w=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM11h-1Moqr-BmvpljfQFm2DqMPR1fXvsJnEwFe&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM11h-1Moqr-BmvpljfQFm2DqMPR1fXvsJnEwFe!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
-  - name: >-
-      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcLx5z-pK3f7WW2OqAofP5tKGkramYqcjk5lmbBTNLrW7913QbszjhI5sL08KkPRacjm9PkKC_Fairv9HDEbdFo0X7FyCpwwnzqrjyzliCc1iSmCb5r_36VCZLEvQ7vJ45cE_1IbkVyhyqjp8slHOmMHpsQg3IpQU6AYECJ-uVIIPY2haNPJJuAXRMxpxqTXQrLKmPkjfxKNS2fQ9taWbvS8Sqd3oQj52QHWJ9nqAt5IyzYIhSaPUtYt5ra9iJ-fnKcBdPjm7rlKUiOfYlxPaaNfoTjNMgZoQ-JwRRpFOyR5AQ
-    widthPx: 3000
-    heightPx: 4000
-    authorAttributions:
-      - displayName: Wasabi House
-        uri: https://maps.google.com/maps/contrib/106167592894276464695
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKm0-d4ipHBrN8fJINqVNrVlutBhkHt7oU2jtIZi2g1oiXT6w=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOGpXGYbHgI0g01qXn0r4Pk6cL2lPGkW2eJgqgR&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOGpXGYbHgI0g01qXn0r4Pk6cL2lPGkW2eJgqgR!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
-  - name: >-
-      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcKO9_9-K7gByoZNTjCpLi5jrMRXoLVPA13gdX5SYJeZ5MPT-tQJRx_M_yip5YCXplIWh4J5jl0OYdwgw2wr-8pxHrLIYyInRF4skqATbygesGV8L-sIFJxHAt8gYDodv16gzRh8pCdzdlsnrrW0Zz0T_h2VJXPdOEpW9uwzQLl2pAxc0Sf1QahVkGumtypUFYwpbZXK8pGIxeTnZrCIjbnEOPDgB0bSanwoc64kA84N8ZqkZVCsRvL4bQhZfVw6VNu5UEaZltUKXNl00HQXltZdb0GcUcC8F8o8w75q6kfZvw
+      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcII_088k0IMubrSunAZJ7YBDZS0rwCyU7FwH08rfJviqWmVCgZtrlZR7Prcox4W0YbAMkIX9SDCe8AYXhUMTxc-nEuuDKzpRvg3I3qE4sIfBBOm3CFh-ke8SQ_sZ7LVu9R27DekIhNHAq6liPTJBMs-nXz-gnVj71xy9R7ssyZ1kYlXcXeLFvGu5EXIct_JUjHJLbhXUkECIiGxntRd8fr9JdKcQep91L2NxfEnnOwBVFxjKf08IZ0rIklmLK_CXeCAqMi8Gd2wFVMSlkaxCrGr642z3iLuOs0RjWxRNBC2JA
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
@@ -65,7 +39,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNIcCO7wtkj_EbArQPa909GxJ--kRVbDp47nwFO!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
   - name: >-
-      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcJ5e495YUTEuHKW924PJrjBPEPqyEq3ouRnliudvFmKPrcxgUN03i_05XshAJOB1dlYP6i957QzFRhlXKu9oiMSbeWMPLi_15OgfypcGQi_v9-y2JHnkPczFzUHz60DaQ-w1e4eXmPCfRR-gCmM4nhKkkVuI19ldQK3Hzs6w0SA3KKu_HzgkQ96QaSRe4RSfcnlmlVxLGynl6fUrECjNDcBbaIOIFcHXQWj8tOznpd1pubkbug0Y4P_9omieoxckgyOXkPoUx3f8XJAp7yWupM4q8yAX7cO7Zp7rhrn_LKwwDYezB0tgqll4DcaysVvo3lrvoQZ1d8cmYUMKmBRw5c4wNu26-dX0RkKPtPwIUni1SAgmwbFzSn8Qb-hILEQ1HEnei6vlB4b0nbYZTfxPUCeUq4NPSv60ipTR8_r0LLMOw
+      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcIhr4nVAZSjaqUk8Ft3f0r_vbmHe8bH_vyUqkiBLFsm_OeTGYaG4UOb2eQTioiDclzlRejCmZxfpMW1gyiiADpKxLPpUkP9AWiaY12TtUeMdACDpeVbh4gY6L0OxA9JgI5jZDncKHKNf0BGcBJ1XGMtdkTXYFkxtGoHQb7LkLAfp_tOyp84WfaRHAXQ5OHEI4Y_lt3HIjSZ2WPaQ13xQcUhSWbRn1PFrQlct2y85b2J1Z352OEw8dcOYehnpokq5eIxe3MXiKSjiFp3OHsUbSTwNOVDD0YgRAefhJ1WMQCAZQ
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Wasabi House
+        uri: https://maps.google.com/maps/contrib/106167592894276464695
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKm0-d4ipHBrN8fJINqVNrVlutBhkHt7oU2jtIZi2g1oiXT6w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOGpXGYbHgI0g01qXn0r4Pk6cL2lPGkW2eJgqgR&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOGpXGYbHgI0g01qXn0r4Pk6cL2lPGkW2eJgqgR!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
+  - name: >-
+      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcKNdcucLpI_Or6RxokFQ-5SwVAVPKPEtj4lFckihzUCftTrMX7yTeyYUZpBz6zI92JTw-uyhhcdONtFxDgKfHO8LakuIfZliTyhLHoWwFdU9-Y_9B0m_NFCzm17fhWCxqFcrytVJ5BNNSmwEcnt9FFn1nnVt4zNLX4519KpCWFtbqIsc0o_XJF6EWPWE8iaGyXDLkPEKqVI4aMCZCYnw-r_F-uL1gIffOVzNylqMw6yGADLxSnNA6L3m4Av_cz7baU2zp-FtFtpqW0n_bdMVYzF561twL4YU2SjaMF1D_7Qcw
+    widthPx: 3000
+    heightPx: 2251
+    authorAttributions:
+      - displayName: Wasabi House
+        uri: https://maps.google.com/maps/contrib/106167592894276464695
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKm0-d4ipHBrN8fJINqVNrVlutBhkHt7oU2jtIZi2g1oiXT6w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM11h-1Moqr-BmvpljfQFm2DqMPR1fXvsJnEwFe&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM11h-1Moqr-BmvpljfQFm2DqMPR1fXvsJnEwFe!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
+  - name: >-
+      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcK4gcGBCCF9X42EXDBM4Ga7Q5H-OfZwBveitJzWhAbgz0VhLO20AdkRChevDqIn_736gbI_fqlY2IHaJJriMybHOrPVUx8uIcc84N5wVXFylPqYCkTrOts-cuwg2PhGtlFwftLN0NlpS6rMk4VQsunW8Nr19A9pRDxqy4aDPFkGXAhENCvt_iP54DpWFEzH_XJImP-XldsGx7hWUjnk3GKiIpstrKHut6QCn6Zv0C31pP3P8QXpFWNma2GSyWTgxXd8TEMDJ0WJySbMWyV6DDJDGLZidaKmE3NIac6XwhyewxaZ0tEeRv7ruwCrfjtn603RIAcvARVwEJh7eKwvxzK0IYlYQCAh_y8eWWWmg7whL1IH56PMtcNqBZG3StDDV8bb9a9pWkMiBzs18Pw_RlCXxFalv4viCSEyaeXO2c4EZQ
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvt_H5Rw!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
   - name: >-
-      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcKiwjgugVa26RtAtP3JdpvW19IPQW8mJr6TfQFRJ5Sl4Z_gYA4xJCxlUu2jv06GQRmNee6ojU-6j2_XXT3gIWseyCqfec04nE4PBFH0cVAiONc2ctvBJcCJxpAab1ht4DPQpfSDGZzH9w4uy-ReEyEutEjfavMVS5CoxMXB5qtW_JeekllGcFtHoowEw6yacB2eOQ2vK8b6MIqoyxlTY49v3bAvyWQ-bpVyKucZwC7FIFIXxhWfiRpZUW_nH_aCvBpX0RbJS0mNN2jwpgPvm2Gg9qFEUhSLGFS6qmm9GK4_xg
+      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcI_6UALTft2JxZmqrdji0UXT_MEnKjb6awMskd7eFdpGDY7FLCZV0MquqToTPW3ulCFPJqMo__BtdsYcxulOg6uSh9NsHhn_UiqjwbwrpnQ-mpfZP2xYOCDi3smSkQFwCKTO6Cbh5gqd5fhJFQrB0D3zNYWnyqZjtTuPpPM0SUog5RFKZkWJ2tqFUCF43hguX9IU68tuAOF5VZ95h3zXtBB-_J8Z7eOpZp8HhWvOKm1xOLTdZ1Mw281efWHdJHx3R-P6WKPvT_5NcgUn2mmAaO2r0yW1fLmnrdck_iVYwCsqw
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPwCPBOcxM6OZVhCGU-sXVYeOplOrSwOru811v8!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
   - name: >-
-      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcJFNaeT_3sSjgonW61ybrA6xk_zcxoTbvqyEa59NWLpo5arn9gJocwXY20Wn6dE81EzbxfJqyW_eTdJzwVWawU2jNWgXk4Z0Ds6GYuda9f9iYiKBgd0UcNDpQlbgaOEiKyU2fhcqHifhQbSNBIYVoaDIW1DwxLOwgsojJuVzBRWXN3-dkvb5aMNQH_lLa1DA3YjLsLbHM6oMnYuODoNDxfdlqllUMAAzuOZHlUzNAH8ELPPSmaklXwna8MawjVWS2TeHnWHV_1s5pv2akxpAEN7AIFFpt1ZaU8umazCJeJWfg
+      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcIi4twaVWtgEYkQsOqQUWE2K6VnIQvHDnVljp0yidqTvPrXuR9qFrKjux_olV6JQvOZjf8_RKrh5ek4K_w4DxDYFhum8JKlfyrd0OnYvlvDntMwM02m-pxsKmFSa6iOvrpLRhYcwCNtYplUFWW_iDKR4AOJvwIOzqYBONkTIO3HMD6CNNkuOmJklU9zYkY4oa8oD7OVtZaaqmGa0-k2uuQ1S7qS_YkfSWXMiL1F3Z-Au6nqnBgz5SPqf5B2xgLRrWNDE1mKZppbkpIQikDQy5oKGeT60NVfhTu3G5uNE9Bl9g
     widthPx: 3000
     heightPx: 2251
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNImlGVEZ3qyW5YPpv4cCM42EhNvLDit-Mi50HK!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
   - name: >-
-      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcLI8q7Uv7MI5yMoN_wT3R8Wrf1x3lAv-l5Qr7rcMLO2Vrq8pG83jh9MIGB44dkFtWUzBl7iKdBmNwFdRhXoSoVXrbV9DcEFcKXzjl9F3KZT47xcoY2ne1xeeVXDCO23RXsqH6OaR0CDj7U83VQpSuUg5RkUvstbZCGy0C1-1TiJ_64a11tiW9rKdM20lajaIzDsBTCVz6Lz7wo27MSoEZLer9PFb3Zsz2NPUhohQW71QzImwiyZYkATFJ0FDtZvGTQHAFyVcH9ltyZ2moNTmDboDjPyPiSvfbiEAqJJxdELiA
+      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcJHHHkmaoxITQBcTj_K2YtXmRqxNFcq5w9BUsSQkgltdxYtTJLwpsgJkB7FGu6q_OwjFAY_br0ZpsGNDISyEl7hGkZT1EGgJ7T0oqkySH657pZtcIQRafwuEHw4Jnh-FcjD9IpwaXu5nWosb3ekeNMVVXKghscvGuOzCDgp_GnMwmoznHLOUUevxHpXosoyf_DyEGrwOz1aJeSqQVs0vJBJ8OMILF03OnTUXhrkUE3CnhxhkPLAGikGHzwHcUuIAaMqvtJBbQIZwASsVBv_2gvuzgG1a_ZNZ5DYHhIaP0Pnkw
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPHg36JHX7u-2JWoI_fsl3-xvVV7_gvuP1fKPjq!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
   - name: >-
-      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcINTAljkSdddI7zZu_CwhPTEY99zSxxsqiHG-QWWhKlumrg6YVbHQWBQEwUvoyhwKNgYPoa1GIh5yFm9nKslw5BzEv5eucVu0rCdoKDBh_82Iq37ClMpC2IE1lulu-GwbbP7__Y-_N6UzN_FKznGa4EmIOt9HR9AofEmwgp5Fqx1BATLTxlo3WT8Y-71vbYe1RlTcxUcwcTuCNHl0Oc6uljnbABVji2pGbUERJ0so6dDxgSjPn6BQOyEzQQHBcLHr7epZCqVLax3CmNe7S6Gso28g4b3vofWq4Dfs9OWYW1sg
+      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcKx61aAg9Ld2IoVIzRZopMz-IHcEEr6Axi9kXDuY7g1LL1c7VlkuJ5j7rr4W7D5zPmkEmrxFgFCwGLmVfl4b3AY3GaoXZ7k7e2FXEHyGMtq2ldFybIkAA-XP8OYHPfc_DYoF4qLUsZwI4fDNQPK_sOs7rI5_JJta1OYn4mM4ioVpLixI6ob9C12kczX3_QitKwxL0IZHPVrX_UKU0WAOHZiCduvvJuXKRUIaO9kihY7WXBH4JiPzPhClDk9-lYc10241OoWO5YWxXqbqN5bAuz6KybNNrX8BYF_rLXK6XpohQ
     widthPx: 3000
     heightPx: 2251
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN8ITGa0ivaqvOl7MftH8wEyqasQ6e3QkFIVu4E!2e10!4m2!3m1!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc
   - name: >-
-      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcJ_JItgKGbw2PiHzjRkXT1KH14m725zSwaciJ7RY0OY-ipgu_mBnky2HkwJN7OQB6H_xZztUdwdBRHXxeigEnjpt8P4w2Ld29QMTDxzN7wiJIs2f2Ia8nrNVmGCplhnhrkVaKm1yB2GofV8cWzdQwL-LgiV8tGIflieziCAdDB2Zf4WHNPzDJwCNPREknCVaB0AFMU8Qx5Hv5KMrney0ZtwjdL9HXyBWhzkpQXRLloWxDrrjIJppUIAZiRZql0JjnO8zewXYlfHuQxKUirecbeN5xcOg8QcmHnNqhSAU7s9oQ
+      places/ChIJ2-58b2vPw4kRvJ8qsEupUmw/photos/AeeoHcLb4JK3mFqonAhhMgpe7d4HSbwZxhDWLTXeueC3dNTr86JEi6NQgCwbWTes-ncxswEsbe4x7eigDaRdHPX_7oW-0rf9AoYwYNXxekLVJkXbKDqGkj5-d5rXuTLTZ4aOc1fdipssL1oeV-mXIQTM5GOns3FxrkOHT8H7MAzPqa6uDDw3_aMHUsmcGfzp_DvCaD4o3LEqnJcik0yBLKRRQPiIPNDWPMZcCllSpLU3lOY9E5pY8kM1TtzTuBNxQ1pBvbor03MLPeDTXbPuN0f1xuqT35yJi7D1SXoAwNfzC3RxEQ
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (732) 254-9988
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 114
+rating_count: 0
 website: http://wasabihouse9988.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

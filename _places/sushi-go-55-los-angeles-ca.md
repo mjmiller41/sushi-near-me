@@ -13,7 +13,7 @@ description: "Sushi Go 55 serves delicious sushi in Los Angeles, California. Try
 place_id: ChIJyy_0pjnGwoAR9O-lN9DuOJc
 photos:
   - name: >-
-      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcLhaZ-eqBhd24zbCkkz9sN3Kugut8yEJKSI65ezkQJDPdxsIQH2coiweWCeCvu6QgMuCqfE2Zc9Yd6IT8BADl_TD-p7Ey980uUJaYSS9wwIqkA5plbNjt7tZVeTVmIJ5hH8GqRQbgVSuvbmYqho24Y_vwc4I2mW2EtiLlcheth7X81yNdEro3BrwPix3eNAFW-HvaLlGPd-E9w1kUuaCjtsGPqGN6uAaFRGlW8xgRozKCyO1Ncl6FGWkQPGW4J874vcq6E5vJaYBU5v9_qP_GUvDp8QuiYsajEr0-VwbuSE0g
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcLbYaWq6pFJZPhZTdJdwcztIF8bBJPqadbIt1nwZftbwh1poU-rq6vuKDJpkrAfCaApxbQUyCF0Nj4K4wrpQEuGoYGqmAUAwvXP_YKCIh4T5EUOi_XwmxyMtU42TK8sQCccEAZ4h_dAo_HWX-pOMV7vbrHzFQ51eSgT2N5yGZsGom0Hylo2SD5f1oN3OurSSjSq_nV1PJnOkvmHXqeWdkyKeagwRLxpelbmCLICDOL3j1of827Yo1Y5kI98XOaLB5DUyQp53EtbEJB4ldivbmKqoPH3dNlLHY6SQPdROz1dEg
     widthPx: 1499
     heightPx: 1000
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPiHinkTTfnC3NbTlmKMZJjF1Xmn0iXEUeGBryL!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
   - name: >-
-      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcItXrgVGg1P80pPgzOqksn9n4h2hrW4e0mWL-4pdXusf68PBPwKC5FedbN0u7VzTzWmkpNsBuYj6weaGsFALDznZo2tz9Hrfx3OD-nmaV6WhI4LfMMl8psSzKZveSJX_cKzQHG9yKvmeN_jomfOZK53J1jcR2x9k7F2BGiyhrju97WiEzjEUD3QH5ON4_y0Ewz6Nw2iF7_RhjYkubESkT_c0jzQ2wAhb9l-Sfo3jBNi67x4UUYfQFZ0wXywkCorqJlfyECUF1FLaT0Oj5Etq1chRgU_hU_owi1WoJymSV2_iA
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcKv5AmWE9aRHkMZCpovd_LC3Jrf_YqPGMwwecSK6jhARnKtp_ryLURyG8XIoGpgsyf2_W3GpMlV6CgibW0Nv96aGyTpR6tbuAIqJXblakNrNw_SnegcsQ8GZX8IjkjiuWYzDDJS4puFT2A_AydkEd2LmrM6HcxjCXy6W8sWrNPtK9rjMNe5TGx6VDzFDLcU79KUTcgFTiqGqzeTlVqaPXXC16JCLSo0xYUpJe2870Ku9nWK8mIWbAcnLxY-IYDBh5fBTynbe31ajt74iyg3GREIjaZsTP_rAzVw9WZ6MwXJKw
     widthPx: 1499
     heightPx: 1000
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVwIH46vZjA4J1enqcdpUjv_eS7J5-iBXcMNrU!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
   - name: >-
-      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcL5pdGJONIhdcaoZBQKTh_CCQx6o9txAEUmF-NFbA5cmfX4h5dpwBGwWiFTDmQvj-WGLc2FPpq6BeFLkipiNP4AzORKdk2bHShewyVq2POddvq8RAg_2ceXcSSJ8741QuNLFUL8C1pBEqON5HlApCPic2xfOKbwnNw6U-tCiAjr1QRWEAkTiWtOet2vvAXhVofLWqN1ayk5Co_QPOiIBfhnAWLsru8d2Yh1uaAbVc44oZcRvIxU35O27XcFGHWmhf5P-Vy51jZCO5QyOTq3KHRwX24Cw3coP5-M-pBCYKwywKFOixi9tBLK0XVJ-4uN2nsHCXjQooBop52ccsctRoI2Nfo6rbmXHOBq8-sgSL_Er5whzmwzAmDWxvWwuYMjvlDig7_2OCQA7CwnIkXueySBgLIh6jWEAgdg7JOVO8pGYIFd
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcIWeKuNbxyPvdwbGXm7H3qAFFv-LmXov_RJFAZt4CkeSoEYAZqxDerl07RNdCBR0Yik8274EI6oDdmYpneNgcuIZgjnjT5Flohx2EkoKoIjE80y3UKu_NO-AEtIxs5jSzKtaDaXVlHqf9snt-Jwdp_iSSkfOSpSqMERnT6ka_kSel4k9R30SCWQ25AgRywLr0DxqHF4nfPIwTogscDL18O7rDArrTadtdpF5bZYR6laxCreHwVfcM8DLo7EIUrE34TZTk2FLemghhnHDWHHUcvV7uEfvCXUzEuUh9PrpbWc0XnPT9B971zcZ_eKTK3amtjGMaEFSI5aiZFfY4y5hbDndKzbO-5Lwd213U_nDEKVNjJOSqadH7_CrX3UOXYYGPNAv8ZdRmXn7StVy_FdoVnQIf3aOiMm-EYdXjPbuNyUnH_I
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,33 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDgqys7AE!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
   - name: >-
-      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcIBN_aY6I1SfMvbVxQKPU6UTnVsXVc79pmArNQcEk1lh4C27TnHzq7yurW03xoF3g-tQiwRx4w03MyOTDgwE_9GReR-80SOk_2tj30r_JpVnqexNen4R6iD0PmE1TCtZj-hv8paXchM17OMiQaMCI9GmeJ2zYJPReUXUYHYZV-GijB5TocPZnYCtErcd29q958udGzqH6MbPOIPm9XvjuMSH54lrcJtzBimQa0k65IUcXvXvch3DY9QDIGGu36hFrsZi5503So5UnjIqa6M7xXIsj8HZvT6zzlECCirjETkaa-tvU7vbZV2dqUEO_Jl2So79RJjDuSya1HD_rqooRBxo0gWRVWj9-75Yrj2Vf82huksiG5DkeicOWhSwmrl262zFzHAJvb3RuV8vwQAN2QCgdaeohb1qyAkEIyFS5M
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Tiffany Choy
-        uri: https://maps.google.com/maps/contrib/101412018093582026045
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXTfZuVVHYNC1uAKvtl6UJcSE_gKZAqzcqMZ-TMT4qEa1cliIyO=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgwYrZKQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgwYrZKQ!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
-  - name: >-
-      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcKLCLtrYrMMcmcBNgQHhbEGlDYeoaAoshK0dPuhF8q9NedMagdwxv_YINy02sXgJkgXNgbl6cB7sEDbZqxy1hxwNxOiKlX2QzEy5ATd886yaS1QmGwLJK40jnNEDm3aTH9_VSgyHMguMtokyAmaq_MSk2T7bq89XQHVT9rSuuKrXBx-s4y8v9HRXKh7ydfmzicoDgDsvu6dZoGpxN7vmipRAW4mIqPjsZD9_tvlbV2ob4oWsWzA3nb6bEbrdIrVOI03Kcx0Gu1Bff1rVdvBh6zK0fsquLQrqH0_EEwLWs1Xmjec1aI0tT02FvPf812chR1B0z_Bf2PSZTYM13ZN6VZQOVHDkcvMj6O9wkmCddlOVD8grILXXJ420nH6n8di25lVMaTW5FRtK5rgO3wq1OEuQcOsajAHWUsQ-XK2tkH6kROg
-    widthPx: 4680
-    heightPx: 3510
-    authorAttributions:
-      - displayName: Tiffany Choy
-        uri: https://maps.google.com/maps/contrib/101412018093582026045
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXTfZuVVHYNC1uAKvtl6UJcSE_gKZAqzcqMZ-TMT4qEa1cliIyO=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgwYrZyQE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgwYrZyQE!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
-  - name: >-
-      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcLaOUSF2dJw_Gj3iUgux_KakWLosVpQknzyafVibM3jxzJEBmxJ3R_om2W_Si1mifBjr52ZVKLUnn44YsKQ-mRybitMQSbvecHZYCYvETOnqgzRPBMcMJOMvhHUU1ImgMNpZJi6aSChuDpB2cAM6HYbzEMzAjkLX6BgITiaR_g2GTBo7qhLPcp4NL2AulWKOyR03qiF9va4CNpI7ic4qXbbkYHzCzQKb5ZQbu4gUAkdBBTYDI2DEk8BPfJFcfzJFbWkpDWHgG0WfirJLLHV451KpuxPq-eFvnAvIhgqPIM4f3EHYbQpusI4fxcCkejkEDS6K-yC28mzmGYv2nt3JLU9CQ8MueYr-MEIL9cZ3B3JIrlYQD4ijjGyJHq1NKj2mJCuY4D2sv5XAXugocurBIEmvZv7SUL69F3ft7Q
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcJETUjPQAdosvpwTBCakmL_wwdNG7yeMpzWslPN-1WOOUXAuDMN_Ocpt72TePKmRC9lfZ6lWRRaA8aL95-XxEa5ClRAMJbKpr7vFKkT-5ZAhsfUUqOB3IdfB7hYk9z4iypLRk0-KkVuJpE_7CLUabp1fA3rYx_Pw8gRGe8zCzETq94Cd537z4xCxnf9bDEUV3oJtMF_iJfyG5Yezmu5U_QQt3fdmMqllni28l7tCDVJUQmwejt7B5yCbfBJEuCJ-4rD4WETAzKnCSn0J-2GXgUSzbV9Wl4ljGHnDOTkO6pzmmpMTNmZl8gFX3qUs84AVP0uXfYdsbgait1TDfurvvE_YnvdERrxkeg6t8whsmoGeKMPaD8GmHdYSiaGYmEm_7hywoH9otspBsCy9t6OqyQw66uTZiUqB_J2K8Q
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -91,7 +65,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrqJ1e!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
   - name: >-
-      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcInOTMzw4OjREFB_fg-TgU7Z2iwB7JeT5DXPlOGBOUOJypqEffdxaKMY4E6RNZr6UW6RkhNoq7difJIjwA_1mnWB2iqlvaLIcRrOcaU36NYJORpU7OyMJxQQ0EdWsiYZ6QlGIKklo7qBRqUu36ruxcoAbctXpzgVnc7dvpyt077JFcvrosqmttUwr-IJNp2RD-Fgvxv_1JKZQbkiiQIYx5lw26s_tZyka4dDgob9A8F_5oYdnYJALKrFQzw_iuMmyA_jIsjPfuS0vd5RzHI5qSX4Wo68lHEyy8hyeQ9jSvjwxiTRlVjRpqNbvacWSFJHsckFn4j4u5sPq9RL5oIVkG-1_4Qatxicc7fAwuMFXuSo9d_VEJfl1zwr_8F7RcLL07ji5g7siJoGWfD56pu_I3oRnfi_OhOr-O7QtI3yVDzsQ
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcLx9BN9AjGHRr35XQ5UKrNT7TSHNxZ_IeRbA4eEgNwZNL2THyJOtKwRKahfh4aUzIW_s6I-XBF1K-LxkBBIfclV0Fj5DhBEhPFWZiWvtyih2jYUJO_dxz9UZ2GDHeKH8fEydMNaxUebGi1q_bYtLtOX3OzlYgMbumqiOqeT7lKQUJ2B4Y6QwARXYXfQfRCdo1AfgYx7NIqtRtD8EbtgLxE2NCEso0d1ZFzrP6TppFpfFOjex4HEjR7-qk8BBNjzxoSJtksV2jwEw8WofizrJK02j8ACWwgSEPcR-OKVVGyMMq-KiH6k5Om4vpSEBStWg9ZyqXYatimtx2ssUFZHsQcCoa4-74PLy9jZOl5-Cnm8DYjxr6atrR0Y_FpyObe2wrFGR9fIq4tBd6uxvBt5yaDFC6sXsQlUrD5NZfTLU_E
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Tiffany Choy
+        uri: https://maps.google.com/maps/contrib/101412018093582026045
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXTfZuVVHYNC1uAKvtl6UJcSE_gKZAqzcqMZ-TMT4qEa1cliIyO=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgwYrZKQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgwYrZKQ!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
+  - name: >-
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcKoBfpP-zUm5kCgCtVntRDzHxPQir7PwKSbilLNpL_egbKsttm-uNBUHC5_-ZjmvjBcC_zzDxznUOlUI0NoIbqISJER0NNDvVCqQyd4O5YPcM1ds4NAcLkV-ePld6ZeVEeH_JfaWE4NYf5lrFrakXn4Te02H94Js-_-WondiSvqJI_8weBGil1IcqZyN5jTSH5gNxw-S2ZhEfaYszLO67TBo14EdtmECtdCuSsRWblmRi7asqlzMW0xTLu_LIlzK332qCjFehHRWd31F_kCBaoOyCNbib0vbXhxI3P8iM1lAxjxknlssQwpkuuQDqXBG6IJ0CyVfIIq-YugKvKiCo4mTRyqFo8UUJVujfk8Pkcwtwlqc0kUDTc2ZZbpD6fqrojafcvuOs3QGmzEL4DvZ8nrXd0_66evnNIkHT6SV-_DgpMr
+    widthPx: 4680
+    heightPx: 3510
+    authorAttributions:
+      - displayName: Tiffany Choy
+        uri: https://maps.google.com/maps/contrib/101412018093582026045
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXTfZuVVHYNC1uAKvtl6UJcSE_gKZAqzcqMZ-TMT4qEa1cliIyO=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgwYrZyQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgwYrZyQE!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
+  - name: >-
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcKH_GiQ8P2fAhBrkRxJ96Deu7dEmYuexPS5zubsbMPQvMcjW5S9bew5sJBO6ib22NVajUkGvJpfQnJaG-v8zBD82nO6FWdzg4UKoAJuscQWXXB5DSrWMGeM81NasWnIX7_TUzvsMKDT6Fzn-hO9mg0m8b1BvqHj5FFbr9x3WQ5XHT61kfWtzOu2sz3B9IkQCyikDKvAVDmtGc_-xnZlDNCjBkvvIMDQeP2Sk_UaoZ0H0gDvN4ZiK_TSDs4kP6DR_s6yHoZyEDY6cHuMc4bw8IZaXug5Lkx64Nh6lZ-TBHCZxa54E3GAZ4P87_upGaML-HknxRQs3tNr-GocHBMVcSJaPHlEyJo-VjzekNXWC8NIwMz7XRq6WEq8Mn4q9zSH_cA8KHvvNRtCcryH15-O4HXpy4shiZpBSFetEuHwxD55rA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgwYrZaQ!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
   - name: >-
-      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcI6IBmgk7pKGoXqdI7iiqYMFKYm4bOgTXyWnyoliPPavmY9ggU0anylW74z0UuFCQmSG9tUYqFzNtPuoqRohjnnh5bq61SYMyAJRlruaLTs5_HE-zqd9lGOvVDEFKMAJWdkhYkUSCqmYkC5chbUImMuQjneYC_Gx-c7dpwhOtC3H_qMlt6KsBe94_p_vBKWlYGirLNGf-l3aiNjOKu68yuZ5Xqo2yNzckcd1OUzJ0yEhTqxYumuhw3PnqbHo4rFe7ZyeA8mEP0vgRqo4vy_FlrV_H4hw5pskwHj4nEcWmguZIjMRYC-MyPG66rqc3BH4X0HD_mrAYekUQnE9tZIT0sXqbNVHHjPaUPIfQeVVtw_Na5KOYULb5QKHkLTIR1LXtMjZ9WDguRftPhuGypIJlfxbTE1Qa5-nEGLGLREpgM
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcLBf_4aeqttqX8fcGGpkM3qqPRB0NLxA00un0Z4IhukWfEvaS88Z96QI-MbB31rcCyjibq2u_Y4cNhexD6uPo7YpGCuC9VXuRMzse7sMnK7VCpDFw4jY37xudjkZ_DWQg9dD67gi9ARmgnwnPZHYISlQ6h0MciSi6s9WSG0DNilx3qTi7ajS-qen8wBkUzUH-OS2ndq50gN7bcL5xkpXtMRoAfO9xPmM3oDZyqNw0v1tTg6cWbzlVhjZ4xNdV3fj9keWRBWyCXj6hne4cltdM-IgpGQEL6RvQ4WtfPg0o1aLuWdk_sWX2unNfeSUIZtqmrKSEhz_jA_6b7QscMSMF_CRekXwl07bul_q0G2iF2-4dG0Mltkk0hssqiVTZ5PbhL9IbU92B0cFrwTwgH-apHAFX7ydAObzDVyd3Saf4A
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx4ueTCA!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
   - name: >-
-      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcJbuaqWbhmDktmNul5J4VZPFJNRwd1UFihYFm2PDBxA-uKAqK6N6c7x3NiVtSle4G3K8A85U7IZ-bhz2h4KiipTioEPaYSfZWoAIln6V09VGpsiqc6LZy_T8uz5QkLMYb36x4i9W3BggjJxFG5qCFWvEl41LkavMpIdnzbsJjN5JxiCK6IciJfpW1KfT0y2XqHZvrUZgA2suE9xmuTCdIz4jFJtBsQZQ1I6fmO7dXSzGXra0rf4NCCFue4kgxe5-OUfsyfPXqwR6DbA7TmF70HqCBEE_VwlS37a0owS0Z3bqMsxxGSjG6knZZnlju6BOp3slVgwnHai_R3y3kDy3hzvTNjqMzRwpiP-0vpf41CVgMYwZ6pDTbBYNdqB2ucoXzR5weuG3HIfI9f5ABVj4uGmUto9he4_8k_WvjIwpVCUOZo
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcL69fCqScNa7zMV5kkoOZBabVb3l2Av1pM_ax-p1HJUCVfDRLLT31l-ntnaZW_FJqSxyw1SjJdsqFRjU_rQSz-iUXz9m5TaELLagFYvD5pdH3cBg7mpdM41H8M7z7bgqeTQJGpXve3oVpRcPCLdZUH_lxkBWeSNzUIVbF1C2Wlx_Ciww-bm4ongPPwXH2y-WS2eHrkuKf7-YM6SvSgQXK18i4xZXcKUyBVT51Q5TVUrVEjF9HO0MS032FPkzNPG_CUOBFT557WI8oP5O9pNSZkXvMDKqzpYfRIOG6IRR3l-kxnA1ePI7pTQqoEKMMQjxuIXB9A2PNKfz_Ws0d3hZH6XYvIfNla4zPSfOF4hRrneCNLqgrs64d39hLAoBy9wlnkfr4kD9M2_Rqd9Eyqd6kGvGhdil3I4RbEIrT8a8nHxG1k
     widthPx: 3023
     heightPx: 3375
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICumfHLwAE!2e10!4m2!3m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
   - name: >-
-      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcJ2QjoQm17GjAriN_4VCZ-pttANu8LAAfLGmGoz_k8oxSksYOd36NEkHOwQ5wQaZSKCj5h-fqdfbHnfPYDWKZhHDR5HFef_15K6UE0h678r7VcadNuQXThWpUKuOS9PCG12wUGHfhWMbtCdyjEfBqwfxMlgnEQt_zY1aS-2zi_NzbsDDqTqAVY-wFpjBcnhMdu9bi5UXZl9ryY0gCbBNLxOAhPD4OaRtB9xulUDey0VVl1w4XOu9BuC004CxYUVMzAGQYvU3ZYOiNbzwWZ7Haa4mAIFOk5DTfxz2ltoCd6eGg3aHPfNYkrHvchisJdgkRU0SfwEZK83r8Hqh2UY6gAaKzAF4Tm41JerUixSwzu_xupfC_uywpK2XQyAym4b8oxIi-2HmWbyt61AcvHcRFj3BYXXNP8Q_CKRh2e2C-vvY6Z-
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/photos/AeeoHcKX5IYc7Lve7W4fwQ-KeMqxEtngP8bsJlGJZ8CYr-XIiRZZxUFchiVBJRNpWlhV9dxBN20NJp2cRXWgs3TJFJbmQS19Gsy2DSRTNOhDWxsP7NE7weZYb5y6ZhXLOpIZAXfsxWx3eElnn67UCZcGT_Mknx4K_GHE0S3bUampO-H3dH6HhNdeByEXH60PUWsRIASugerHD2tqZnJj_QJQRiXD1djN3Zz4pAoU90F-SsEYPpW56cThi96W_NGYJTJ3EA05nldhbBujNSl-PFRkStoKJ1jFOGQw8niNJakpaYbbzGwlEtMtwt9k6014fUz7EwcQ_xH8AAJQ-jHjJy_HjA-TTrTBj6IPoorlamBONK3iOuJZnVqFdzHejhIRa7BB7LN6fda5F4Miy1ZwRQ8A6iUjVH8i7mE1bwwO-MdhsLIzbRsn
     widthPx: 4421
     heightPx: 3509
     authorAttributions:
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
+    - 'Tuesday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
+    - 'Wednesday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
+    - 'Thursday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
+    - 'Friday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+  current:
+    - 'Monday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
+    - 'Tuesday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
+    - 'Wednesday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
+    - 'Thursday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
+    - 'Friday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (213) 687-0777
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 306
+rating_count: 0
 website: null
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

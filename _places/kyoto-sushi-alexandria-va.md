@@ -13,7 +13,7 @@ description: "Easygoing, strip-mall destination for sushi, sashimi & cooked Japa
 place_id: ChIJoWSl_2A2tokRjG18NzuhBQM
 photos:
   - name: >-
-      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcLU3FpshECL2xfcvX1wxJ--gxih_iYS6XbLFI6MH6RuWk1dfvZPu50YTID8T_EAFVAntP5WK5AlrC-omR5KReTatYiYrQqYSewl35xpNzw8ezPSuJBymWXdZLvF2_4f-VcDi51648RNWSpBS9iRtXu-hv-rPA3SqKCutMlS76KXKWHMe1GUvjbKA3KZ8JWaxNAPv1Aa5UPlB6R0zIUvmhLP_xUtPhSFPZxEBSeCe00wkhxdZ_zx3qdaBUwS0ek-bU6h895OmuS1hmMd6MNS4csy_p7G054_HW-P6He_yameRoXDRPdkHWe5PGF1S03Zm06GiDM8ZswgTrnYf7-ra3Cvyqb6UDxrbT8PnIvt6cKUzHLKtmQ3iVM_UinaPJiabbrFuL0tHboFWwsMCGYnPhBNYnePyz6tlUc0ayweGw-bmw
+      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcIaOEw6058NWoUB_FjH9cC66kzd1YwfFOj4EYq2F41KYX_tCJHsRLsnLlMd8DtKSoDAexB3gLYMX2pqno6BFynFd195BY5rBkkbAtfgNle3aguBHaVnRZwPBputyfoEzO9vZH6G4R6K2ZKjwewAnfRjAb6F74o9GAVUVCFDLI1F_cF2HSiOaNaPBKO7Nf9LGjOMtHRNoEu64W-UnYk_KR4pTAUUqjT96GENei0JGhgKsT38fF1AmAUXtAJHV_kkKkEQCtnI_Z5hw-JNzUdTCu_RPZ4nGOHPYhJWd5AL6F4fEllhFxQIb-KyXQC6JrQlCi3TGOHVSEyke5tM6Pqe3jB8i_e7Z-Updiw32XuSmXfTW3jOta_fJGcyPX1xhUYNdLyqa2YaxgGbiPvoRJLh5dE4VCaMF4js0MzXpkHGC7cyOQ
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6kvqySQ!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
   - name: >-
-      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcKGAoo5VNS_UtYBEaohpnVB80zIykPdlF3a8-gagi2IujuqI_7FXsp3bUIU5sfJ5dhREUQJIYbeuOJvmQgEwu8-SYcxXfoSft5IQEjXq1WNLDXv1TCHtcEm6dAy6HuyETAxVlq_QU8ynn1hCRb1rRqRELZAhWfAg64Z81A-kuumtCo_CB9J3Pe1uExXcvkpkv_Ado80AfF49IyS5XYKLGKVjnuGV5tBCXMVzJennvbqbQ3-_Wt46lSn3i6VyTh51gxHHyEkWEIIZ3LRMbdHZIVcZxZl1cdA41Ey-2z_TvMu5g
+      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcJJeeMyotUzz5vAz73TBwj1msG1I0HSqIpKAEN_a_O8ilWp-fTEiNyT3GbA5DEkR95_2kS0g1JOy1NKtECo3JUhkmJMgNtWVHk3h7rA00R-FKMO4EhVWf4zAPikIADA-XaGswBf_qzAP8xZtZAiivU6zFl8vbzXkGldOTUmLigrRzI77duYBYky_1d19EnqkPlzTM3kSQJ-FDJXYtU1lOQVQRN7BYVEiy-6c3PL0rCDgL3ewzBpgYecCK7CzQGOX5BjxMAVwQyKJnfnQUk_EOzqS_YGYIVixmBujmAEaB4GPA
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPUtGBl1bi-uAVeMKoRTjxsi7XB3CBzU-OT4Ua0!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
   - name: >-
-      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcJVTmDl-vn3ZS0XWuUF6ZUxn76nS-cpPoY_bGpKSG0sA4giELZes-Cd1V9HbKurSXDE9Z4oWr8xnheGiAZcWscN2eNGeRpvTrl8UT6u7jfinrKNyOC-IKolzBGQjnBxzE8DRQJULUVTP4-cA5l76vRItcHXJ-RR7-tzBYdAMaTcxUwRnoJytgprrbNlVxpapLykRYVykNFZDzo0PbzM6VhrZi9YRautCfTQt1SBrVMNHQpHgyIkhEFntbKZjHYy_hhHeesxlBN6x8j9LUNe3--guojiM5ikKVVYc0_5tSi9PZ3apgYdrXyi_bAMTrwfTl0Kx3O02nvAdkqDYmrW1cfVK8_SkEvqq5Tte7_DZt3EU9vnC-eGlq8pHsD7Yr3T_AycWpTzSB9vycVnJpzDGjMizgPpey-EH6ZnTN0hELFDFDe1u1hOhjRRBfcoMUxc
+      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcLzcio-demDxLa7QE9g7JghgvPdbu6AZIncOJIgSQ5Dc9OdVh5tx6onhOCcV3dTT4d-p6t1YhxRVt3KOXVtdIXHEKQWRAHMn2G591g0uboe7HOoAMWpuxDXQXNL4sUYi4_bghuq3NcaMUh_3jDnKpIFZT7ckHnS9QNglIWWNBhHJ6x_MKwMf9GDt_fNU9CSgc8LuB6s4j3SCQwVd3Ylfw8YKCk-4NJj9xHyOJXtorIMPWBB0JOSLRaiQcSah8D_8qRr0KAFnY6QE9zipQViBIrz8ZUPx19Cb16TYEbDEfELpxdoOaYa-6LXHlOHZpODpJiUASRVK2DS0sMcPkFohV3gMryDJaHaoMaiMnVfIvjQZ7Uvl4Q6clujB_V3rWvY1AvyUd73Iyjim5fKD36Svcgzs_EOy7NSNJUgEEOgNnp6QkVAAWDOHpMEcOax770V
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzYB1m4mfiB0AADqwn!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
   - name: >-
-      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcIv3-SxzC4WWbg7MvmdtBB1DDCWnkfc08ut6mf4K7y9n03T5oiXBGbkGttNJ9cVNSPmY9gaXgs_B1fsanJ0R6wgFb9ya30rjEWU6xgTPJK6TrrXNuMIAkJI6BBwIAFio2mwzM3Q5fQjmwfUkDnNl4OHfzBHbAMa1-Nxt-8mSODePbc60kAD9oEv1FnXmyhVwZk9NpIP-N_hSf_SLGkmaGKvVfnn7gTRnsCiuU1Pph_F7_QzXnZxnlowOlhZW7yrN_nuZaXwtq9AxFBb4NOUVo4X5L8XyVLmHyZdYltFD6Ghxw
+      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcIn9fFZXU5OrI8A08EdaZFtiFr2Ce4L1Oe_y3GcOVpyHCuoHfNMue3_fudvyx-BCnrnp-5aR6bANXQGfnypq9rFYQhnbXTY9xYnQ-lIPvFgbI2nl4hTiHdJc8TYVVo6fj2SpGx8SLhkczQkVKZivQgLujrCuG0WNj50RWZmsn0gHU6ThO1d1aRWsBk362HkFxCAXi7DOO4JLkx3bCHX-d3WN2vfFSCLw9bktj8bNfZBDPjFpi9Nbrkk6lqRkl37xb_nfV0lDmgp6vgjmBL6BC6rYXAFzIjENPbJtypDRw4fxg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMbeEuHQ8ykYklOCGXGqQaepJM4QzIFKHRCgyy7!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
   - name: >-
-      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcIZoVrXgyc2WKC8D_Ih1cSg56pgXuj--vAFpYyrhw9ZY6JU9fhZRXQJ62EjxXLUY_v4Sav_izFLL3wsLLA-RfKg-A69NxVHtxAhZC_z02GmEBxPh8fTX1ahrahwOvu5jvtyFeErg6fqKbk3gWs5gLgZELRFfuFCN5wZ13D3paqQYXqZzp0UqglJIi8EbVIG41Xmzi5FLbEqjbP2M6T8D_54rWetBLWnQyUSJ7qW5a70bSSCJG_CklL4HRHfWeGmievWGzp6021IS8hmV8f14dAJSLP7n-C_qEuRDxxgJYIkrA
+      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcIxGDFg4oqrjkEbD9dGOvm0buZDm9dRfCwD5DlGLUZ0tWdpRa97iejRDOWpZv2rfL6FmBr_TQERUfrpek-NsCXJqHxFjKrJ2SHF5lklTnyeAd8-qNdRbDhTM9rqrRwriMJn1rwKGXShUpKsqHfulGVLA1DJmRDrCh-tOsK-DAHNrdX16Bd_m_In9isAL2fbHVUyVou-Ep9OqcIGIZ7QHtHk2xSyyIWowurOmOWkQbIGUW2Fla87pKhR-gILDBO6qzMZ2EMqTbnHE8CnL7bU5hcwYTZ0GGVK9uISl2QUPPjCxA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -78,20 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNSFFcxg2MYNhz-_cbHVK8FU0XHxgov2aEZuwtl!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
   - name: >-
-      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcKcSC3oBZnpKrl3lBjS069814lgoHXybGbFAPVLOIoPh-467twxq-MUXKMNN2AUlIrXymgD_0xNtqbqOTpGcsfWNBM0ZeNQfSK2oxNev6Qgt2O9_9VmiT5QB2383kwtsZJj1iKix-xMmVns6ZaKDXHmzaXnAdsnfcqAkcR6gbEKwenI1GQi5PLAkI_5smw2ODp1E8ak-JooT4q4L278rutl36J0qmrF9rAEEWDmiLeVgFMKJUYz9PckvUJPyRs_mF7ottL2DF_8ZNmOWzoNvOkQQAf35mRUIBLMmIvX5RceoA
-    widthPx: 4800
-    heightPx: 3200
-    authorAttributions:
-      - displayName: Kyoto Sushi
-        uri: https://maps.google.com/maps/contrib/105909519836433180479
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJKLwW4hd024GGnB-76ggOFWEzuQxUiL5Rj9JrmXBHEW87r-g=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPiBNEobH05SH0OlGvzom3I2yuu9wTXKCq2gCQT&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPiBNEobH05SH0OlGvzom3I2yuu9wTXKCq2gCQT!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
-  - name: >-
-      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcLp5a8R4DxjUA0cTNhmsca8oEvhLT_0Zz9B3-aqVCJi3tvTPfw3dZDAVrMf2ThPkKggAj_AHV48WvygG9y-W2JNt6ZlP0ODqABFbwr0q56rwsKbnYBSPdnKah6ZMW-8RIu-442SvbI-Zl4obudOG6CjFE43gmFgi9q7eISagpgQagJ5jUOPE3IHnwMyAomuv7I9EBQwHQVVQHwIMHr9qOG-pYnddn0p1w4gdblxr_QFvG8J_8M2TtPyXjBdQTKnoFwLVD-oA4kPbI0paTQ7VOfkBd-4rYQkEbD1_We6J-5jtw
+      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcLJdhYL9Sc8UBCRtny2VyO91tglij-_hhRQhbjGb2ODX34nOTb5gnQfCN3Cb0Ntj_uEKseTauDwt3KylyQCWUMytw3k7CA08edxQ8iYHTfXNtmm9vsKyJlDVaojTobGn02fpTO45Ft34u6l34ycxDma1jzKagGLGwWmcoiDz5KKAgv0QwqiBxVUjFCtP87ZpKMmZoycu-H06ghCpvIjdmNoFWOecxUFVDOZAcz4u-9ZVcDot-C7sUMeV8YKz88SIFUUg6I_Js0t0bk8wp53Zg_HPPWVQj1i7Jf-i_42r1yF4A
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -104,20 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOrKIM4z9RLJVpCiZsMj54Y-gxXOsYioiTxG6Gb!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
   - name: >-
-      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcKNTyF9fEexHeFldNE1QT7QFLhTq_vMuP2wZzkabIW1eKRhTeumLA-1vTXfBKROrl8QYTa_tUJQGFob90G06IY1RpU06ty3WuuGr4Ls_HbS7hJooxTn8fxb_VixwD8cxb0u4Fd20_Mx2xRyAA-eNfsdvTYO-SCVD-AGo1G3c9ZXaDJ7g9-8D78is9KZZ-AjLhEmFF4hOSCDQ96O_TPGKvw6rqYQx8Lh1Ut9ws18kIE8hNFg7tGLhPyUdsuJuQkNaDp46OERRiuiFK8BaXnl1n1LndiBn7jSkZcSlaMhuzatLg
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Kyoto Sushi
-        uri: https://maps.google.com/maps/contrib/105909519836433180479
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJKLwW4hd024GGnB-76ggOFWEzuQxUiL5Rj9JrmXBHEW87r-g=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMANZ4m4z9jOuuQCWmk4BAjRdywUowbOYqecltJ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMANZ4m4z9jOuuQCWmk4BAjRdywUowbOYqecltJ!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
-  - name: >-
-      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcIPSi4S40umiDpjuTrTmUZtd5YBeWZcAs_peDoTsWwpYU17yaDyxeLBB01Kmh0Fm-CXgMpVN8u0txXS8dAOOCbo7QfnKKXJfHdAD2CC8nl-9xkliq83dEw0CkNegvP_H53WdTSF_CLqHUEzggx19PDYsQch7lat9v3OJxNoYxnWY5FwzqqYBAttQKd3SlxkBisTmg2LvkXL5KCVdg946ApfK72qOTE53wsqNjYZsERxaB8_ckTBtoleNO2DRkTxpod2rfuwgVWn0YAUzsgXQZVQ4VJWZqL3AP2meLVXVIYW_XSjcSpjD6ZLBSLiIMuEfOymHwVZjbhEV_5NZze4n2UJQKQQX2jA8jbn2vyI0jw11hY6tkQbmVLlONGYvdnamyDXWPETa0a8_RVN-HXZI5MiVWaQQjHl1c3fXNtXtpG0cg
+      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcKhEjOV6r3KjM-JTVRNrF92TqFXH37lMbonGbzToX40XR3YmIUW9kKizftZ1P4ha_mCmNTZkMRNJG5ykn2kmJ1YtfhyQF2GKcB1ttTFN36iySdRnIAaNIn0ElrHroGPPK1b7XPSAHIOWiI84a7NbiSPRzfBhypMQo3zSVebGbpoWRYsphlq3KBRQtaotpmhRod43uZSJiaHJpbjpCJfryF0PHaAJxwJqLixJYOAryBh1s6XeVrwQRuh_wFiODXvnkDPJjUl65yU5bxi3I5Uwu8Bxw9WRSN-gQVhiA-2nhbOKgBKZE7he8pAAiXXXkHKHamok5SEXGT5jFRKJMuzrk45qV1QU6GAJoG4G-gAIFCriCjWEz8Pv57jPG4MqOLFom8U1cYpgEVrGo0DuHZAnze6xV6HOgpKrAPJzLkPzLw6Sg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAirjXEQ!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
   - name: >-
-      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcI7JX7jzk1G6FbFqs1E0Wdpg-UVyN1xDsY65UGwIo7dvstKbeeyfYNS7Vo1Rcp76cGUU45b8HgLeduoBYosuwMBPQ71_Rw_rx8I0XwYLaOFULAT0cCZDhX5nih2-V_a0LqoRX5tk1RI3dUYe_er34rBGbnrYIucgzDSr7lDteIZeVUTdxnjzLyxCaoN_DEHO2t63GzfOK6-_NoYGCAeN2F6sQruQnXjgVH6lwfNGVczzC8Pj4eNA9FvPD-IqsoRFgsnwoVvoSJQhaff8BnbBzIVvQ-_O7fgurAGcQ3rothPblE5Tm94X0wppsS0st2ejJKnl8_07VX605PLwQCaJ9xyg9TtoeMHtj83e48rneLvKUfXJkXpshFctWiw_dcKXTO1NG6fBcn-TO1ufx49A3jS3pmxDHjR5YHyPh2wmW5hoBpf
+      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcKJys6hlZbXiVwzADrLt5JyjWlvDZbcm9cvE0Jnm-r4ZWbuv2uS-RzONhS0mcMre1nfurNk5DjTqQ2SQucHofWNJheDS5aaCLeW3zTJ-icMXKtZ41moQJuHBH4yfiK5sM8v8afXsAtUNaMN4k7VpW9Tbg6MCTZLF0A3xPSJSRPONTruNqvrgOdP4zjJA93Y2TSvk0Jy-YGZoEd0lzTum8sYp4_oQKzElOjuuUQtFLiLg11eFDQc8f8Rfte0EtrJn4DcGuGgE5Vxvf65LUe0-FKA91FnfuB6OuFNNOc21oeqlw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kyoto Sushi
+        uri: https://maps.google.com/maps/contrib/105909519836433180479
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJKLwW4hd024GGnB-76ggOFWEzuQxUiL5Rj9JrmXBHEW87r-g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMANZ4m4z9jOuuQCWmk4BAjRdywUowbOYqecltJ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMANZ4m4z9jOuuQCWmk4BAjRdywUowbOYqecltJ!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
+  - name: >-
+      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcITXtCU9QCLo6oddNZeNpdavb4vg_42qhDL4rjVd_6qexLZBJDVK2ZhinWdGMBDcS3Zhk3u3l0PXka54HNEYCX6yi7umwdQBRMQt94zM89Cxr4yRTy3CTlS4xV_Hbcicn-Ewn--j5gr8ZVBbmvOS5nIp4w6hhTPZiJJw6w9HRJ0XXxqNnLf88_M6aylTLVgTt89YSHp6ZZuxCfcpMKiEUdli2PpT7zjb0aHnPGHW0dcD-14Ljt-uEpUcDQ4ss-5qx1KKX_VTefy2EEyb4i7o6-WsZU9GHYW3Mcb4zJCuDuA5vBfocGk-HJ7Esq4DniSpI6y45j5Jsv2aF9HQ_0hO67rSMwgb7ZqwhNlH2jw7jMWTIE8mHhntzfC5aW1wc9BsmnJ_J3prc8lCF3_KHF2K1YOD7dLVKptsQd0CEssaxSX7mZo
     widthPx: 3791
     heightPx: 2160
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjhZGykQE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjhZGykQE!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
+  - name: >-
+      places/ChIJoWSl_2A2tokRjG18NzuhBQM/photos/AeeoHcIuhXvWb3tWZOvZ-9bGC4PR99lKG7z94K1YnIyZpVJUVt6P7lXAENLgShxfHANQmXqOt-ywJsuA8qFOr7hxO40vIXH09DYzsnuOKNzESVN9iztx4L0cBv7a6MCcl3u9C4XYmQK2LmPSNxGNDmYtDLmDqZjVlMj1NzM6xGBNNRrmrcYuZnvY0SKkA8jAd23sYeGdQV8Xkj4BcEGBJYdAsYaNdIBrwQsxod-P16KV3pGyZ26y4N5HAkiICQ43YyWrezZmluf15Bm6AuYsfvRY75yYCfUDMqR1tGxmQ_GV_rgyQ6FP0jYfISGCyprskA7jOyfrGOnYCcspvXl5PuVQEgV4pZ3En4ewIPzoVsYl5eHQYoCFxX2snrtSs4Tp-Mh0_eeSYSyojF0O8rlnqde-rLJw8Fpg7Vx48mzLmFWXW6yjiKQN
+    widthPx: 3821
+    heightPx: 2160
+    authorAttributions:
+      - displayName: Hilda Kroll
+        uri: https://maps.google.com/maps/contrib/100441671474418921617
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLpqdr2HAYYR6GyteJDIodyhpe66mZSOWG9OWV3T6jnXuNy2w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjheHLvwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjheHLvwE!2e10!4m2!3m1!1s0x89b63660ffa564a1:0x305a13b377c6d8c
 address: 3676 King St, Alexandria, VA 22302, USA
 street: 3676 King St
 city: Alexandria
@@ -220,6 +220,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Easygoing, strip-mall destination for sushi, sashimi & cooked Japanese
   favorites.

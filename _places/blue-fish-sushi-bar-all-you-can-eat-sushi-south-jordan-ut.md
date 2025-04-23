@@ -13,7 +13,7 @@ description: "Blue Fish Sushi Bar (All You Can Eat Sushi) serves delicious sushi
 place_id: ChIJUwnNgJaFUocR29LYLBIbM3g
 photos:
   - name: >-
-      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcLNnBO04KO0YeBpg1o_Aj1HhvuSFFUzfMpRUjZ6QwFmZ3hDBR6NYRLj0qKDvakaQ6EyapIWTjtWOFfR9DURbPVfaASWRBmBgV52n7Yr2VHqu-YmaiIZFASUZ1oehn1sH8HqgMWnETInX5Ht4Pwq2UC1nMksbm4grLsMAZQE6v_gn97hqNolElfPurZXX6KDvYKpgSpvwX6TovVhQ8PB5KwX-6MRctAJGhVcPXamlOSw2dE2aY02TP0svoc5Pbbm42KytJvvVNgllm7YNk7QhA9kKpAGvg5n-YTmtk7o_DfsUg
+      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcJkD_PvYhNqu4HD5aIYxH9lBM7qGkl7CplXN9GLi-RWL3Fu85w-ycyo_2pLv7ufFCmr9nEnbcQDdI-tw-uNSNKWzftd8IFcHi33pUZ797JBSxudX988uTSFMUbMCh6LjkEOqyyXCbx0vG9Scnb_pI6ZPDuFxZrMJ_QxaZs7X261qc3N1Uv7ULbXj5-4a8DrV-rAoMK1Db5CMpf4gN8EcDP3UqqDjRI3AREBW2Fnvv2rkv-yllUelTWrHhDhXXPI7L8D3smlc3DqHljEOQ91XLWgLUJQed73S7NyPbEInI0DRQ
     widthPx: 1179
     heightPx: 765
     authorAttributions:
@@ -26,20 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP3YlL2xbVfztc6OaqyNAaupyKiJ5vrjyyOqbGd!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
   - name: >-
-      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcI2VaDl9Wheulge_Sg_m_iPLz13DYqwyayjIoeZW5ws5WSuMSCOIOEX1pjnTtPUaH5sDORDMzViZgxenO2DqvWVj9o1m0ts5X9oT5LA7LVkj18eVVQs0vQhwsGQevOhO-fyBlg016gyj7fuUewAAMtq0yMVCV0UHPyK0PhFp_ZvLldOcu10MreLge34dUsHB0K1A1KwpYoXLLrziLMGpe-qleoFrpm3IVpyKqdpANyzz5Zs_Fjqf7RjJX6D-_fM08qvu7VIEuPl3-66uma1e2XgV6do-4Wf268jsBhdZGDm_Q
-    widthPx: 3200
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Blue Fish Sushi Bar
-        uri: https://maps.google.com/maps/contrib/117750466341683883189
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocL3qJRgKOcsNJ_TDROIhbphWi3KiUMUZb41TgfEEqX76aojpg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPaBdn1LST5J_OjMzPaykw_FTYCdaLqqs7VwT4t&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPaBdn1LST5J_OjMzPaykw_FTYCdaLqqs7VwT4t!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
-  - name: >-
-      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcJhF0HT4z5TfTD7fVmJimWmacJusqwuxvx-ZItUIDI0bR413U3BayTCEthWCY2CtDbzpzWulN2buMXJB8YFB1rYfBovLIhc6JjDWMf9WgBumGi-5VlFzb9BetZH0axH1WL965v2d-O712EahTgaBr5JVe0cD1wavZyBw0_Fhh5OfopFL5Vlv2UR3-TAUj_oWF5pdMv0M7gMmNv5oc6kAt9svx3B4FEv_kq2jYwLFyCB4XV9HQKrsyrTKXwB5KFhiy7iZ1x0fNOavoBAYdfOOQzlFQrxlQgGuOcbmxfLKd35MA
+      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcKSiNADFQhhqw4KHJxWXgIExGVOPNJKfGMVDmhCeUPlYmZrTnV_xUocc-NNgXCixMcixmIYFOI8I0clxWZn51CkuLm1akMZCjMbbU4fKeTQ6USrvmd-gal2nbyBEuAM1976cYQbveIDvZJLpwAoHlxF84wYaBlUlbl-7Sq6RMZsYLt9gZT4OK8Y5TyBoM5t0T3OfY31_px4y3NvAmVgPLCr_vIndpYc8sEWovIZgZ3e5fT99JZyXEKgCLK3mYdqMB0jCY7ftEiqI5TnCsx53BNzhkGMjqx86niw6MFdEcfYeQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -52,7 +39,59 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqTYhqj4aQCANpDB_abV6fobKGIbStAHZl5kgh!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
   - name: >-
-      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcLLnsEQo6ooWUD8OAwJtsmodvRq6U0OJl4rxe1LPSIgPz0WlKKm56mzP_8XET43geU0Xabx9Cd5OjdKAS2DFd8397LEBMrTYcVYFqCtLkN8nz_YGs-Knm__Tve35gP-ZGv5EvSJdTXQVQUVVXHF3j1AnmjdcSl3h2QVcZDKCAqIPIsQyDzLFdWy0JOJv8qWBIvO19ieCLKB5ydJJ2RZNwiGTGYyJ0iJWKuEZppecySMvZcFvyBJVsn_1tY0IV2V9lywYSEOLoe2aPXPuWsJ12TmtA_J-mP3ybIwxPdHi6odc2eOEtFtNMOluqh7R1oVkN6v5xCIWrH7flPnmZfFlpk9ETB3qJQSlQ9tXQvNLsQAUfAIV1vnG7377ny7IHdqaGF15vpChXVxoFEF43Ls7r60WVQacbKaHcM7WfW0qdM2ZdA
+      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcJKvxDQ11SvP10FCpxA5C8hBUUKoy798ixovlaEoUvwPob3_bXl0GkHv7ks3v-1u-GoC8iHNwm5oDpLl1KnQB038tk0eh8NYYSzoU0XRt2uxhbLNaEHjizq8WPTecLGyLxF5RohGwXysOrk3TGQKf47-zQDNnq35pPuLJElhH5yZv3DU2BRhUQKccN_bFAi6qipOIdycRHm7cyTgigaevgUBLcGaxAldBjBT2v19U-qcQWcyEYZz3wJOkIWpog1ptHn2TxB1n1qVd3wbzfOVhPSk7NmOhP9_7_eFvjdfmnZ1g
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Blue Fish Sushi Bar
+        uri: https://maps.google.com/maps/contrib/117750466341683883189
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL3qJRgKOcsNJ_TDROIhbphWi3KiUMUZb41TgfEEqX76aojpg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNryW_kZ_BVUy0ZWduzL_HIHW-Jr5fC0_Erhkw4&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNryW_kZ_BVUy0ZWduzL_HIHW-Jr5fC0_Erhkw4!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
+  - name: >-
+      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcIPhnEEZyRARpLP0ajlqc9JV_vJXVnXBQ5CgO7A6XPZIxsWUpR0aQ4SmsQRZXSu139i_xH_q5a8NBwrySv-dYLg9WyGppl1WYCWYRdKwSepvXVV0vj_DqktemZYOxQl6d-VKdQ8XkW1ee0nkVIL5I4NqMH2U8G1-KJbdIp6ineg1kbaGGJ8whRTjc1aJVRw78MXo4nKgNJ6TgwEnx1gmfsho68TXsT9tFyALy637xxLrDX0MT4V7611aYzHK5dMJd65FbyOTgK7WGVc6U6T1uzMxhetxv6IBCgWDDXHyp6Siw
+    widthPx: 1179
+    heightPx: 1448
+    authorAttributions:
+      - displayName: Blue Fish Sushi Bar
+        uri: https://maps.google.com/maps/contrib/117750466341683883189
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL3qJRgKOcsNJ_TDROIhbphWi3KiUMUZb41TgfEEqX76aojpg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOwiF35_4FdssSJZZ82syc1d6aAX-P5iQc3QQig&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOwiF35_4FdssSJZZ82syc1d6aAX-P5iQc3QQig!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
+  - name: >-
+      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcKA2tXXjWx3AKmH0G6QwzbaVsi9Q_-xSS2kB9chWgO-j-NL086jkmOyUx0kG14LSdjRQypcTnhludsdHxZiH8gYVrAUcOpYhq9SFVbq9kHC-fYdN4FSVyt5JCNQVwZNUULKQZmF1BO_SpncQsCK7MkD5EqoLduclM9yAMZQQ4BMue1H111RX5CPU8YpWM35L4EnJopKpEZcPKwIRo0uzk8YpuqtmrTRgcRgHhvpJDInPd2MSilsuuWJ8wlU0RgjnGgog9D_2_m1ZtWWnUDQH5979KEtlGfciP6EWkd3KayDY-ct5cL5tZFnVpaXCW01epI7pUZ_luHQPDEwyq6IJYSiD4oXuXkg53iP8Is-fhgYD23QdPAV9MxkWrX5Q14XRP1M_807UC50mZqsBpX5yLTlJG-aVJP_EPEUdzrtX5Xz2A
+    widthPx: 2881
+    heightPx: 2161
+    authorAttributions:
+      - displayName: Jen S
+        uri: https://maps.google.com/maps/contrib/101625400834507421978
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW8tKPzR1kMtEqlKW2bVK1AjYb9rIJEvQAlOpAu66YgrsmnjVYe=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI0Y67fA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI0Y67fA!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
+  - name: >-
+      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcKmh9QOCmmVmfSIsEVyvwm-6owqbYjXkZJ0HRe5ncUfUh5PaCWlq7RtPosnPBvd3A5UHX8S18xbEcxQwNpeSGM52r5T5lYwBxa2Dti-n9ijZW9dQ28D8R1nIbHkSX7a9xkpMgfm8OyhmDM7WenAeIqkkP1nFdXScS0dkjIh4cg8u0rm1_6t15QRtthjNUtgAOkJ11DsUk7vw2kwqphMoMn6w3_53nrXk9rfxM2PqqaAkUJHG4Lp04iTfzzijoey92g1VUbLRJo4jYTfTI72noCZtbAKXSoxxIN-dhRnfhgwqDt24IJiszJujSNf55Zk-FJrPK4kViALFXHxKoBXvFUCjqX7st20qfEKcHTG2u8bufaG2Vqh5Rqg4Y-2nVLe0vBRUYezxZ8Hah5tfzwJOklVhXJsQfElUNsWyUOtCDSPJEEY
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Jen S
+        uri: https://maps.google.com/maps/contrib/101625400834507421978
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW8tKPzR1kMtEqlKW2bVK1AjYb9rIJEvQAlOpAu66YgrsmnjVYe=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI0a7nhgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI0a7nhgE!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
+  - name: >-
+      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcJIHhUWV8HQobQXKwo1RYpm34TVY7LWMhv3SHSinBxtUUTbySbEi4ZbEXX22cSGmTZrM4xJyi8rDMc0PkPBZ64wNYKzSYUHc_7n4w2O2HdmIVhXX5Tp9OLFqkEzDmTIC5G5oIltjuQ6xnY8Zdymi_qbvs7ZydzPDGIfhcQyaKDyYQUXJJhYwOMx0KF636YRJNsGhw7_ZE04VMFR8y9Df1SbDbRM44ScsYrnjCvwec0q8-z3VcciSzh4qXD91d4qzrazD8m52qpz4waMkE0sfYF9Bh0QiGX-PQ2-KTICko5Nd1YFZzuKdj6YpnLtgmjfxufuHDbBedUOGrjz8xd6FjxFxBN_-m6cOBYXtkfg_fIfMvNvX02VcBY-Wfy5x_Z9QDY2KbQ-AWHos4ZB0g-iDoNwLjZWNQPtHoY7rPLse_b7RWU
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,59 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_nL-5sAE!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
   - name: >-
-      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcKOIT2zOvumxOsV_YzP_y0GmAeKOu8Uzt43O1Ghlk-BUEqXgNKBBpttHe0eZ-2JRQ1uDkUWhmRprfq57kXSO0x25c3IUDwhdjR9wq5RtzsTRjYAmyiVh9_RIAxUXLZw2wzWKJ3ZXVOdEYZK0ZN8ti-fzS4q-0AHLwMXcVcBaOV-T1SiHlpG9OcDY_c5sR4gnNlbGO04n6OQPvKmsDlIJHzIBPN8dwX-DmxcQcOkSdrnzZ2WcnavPzP_t16-R5KFjYFKEmvgCkhBPhPKFGrwWlmBxxuvFyJw28khQL3UcUa0jFLjdIQNwqCUsO93UC6zLXlskLjLnbMHEQwgx20_upIRpsoe6bM5u396XzwFe67D7XK3E5WtxFLiKhXPN188rDbaHISUjYE1CA7dPtrqN1r5GiMieu-16avslrrX4lgo6xYn
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Jen S
-        uri: https://maps.google.com/maps/contrib/101625400834507421978
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW8tKPzR1kMtEqlKW2bVK1AjYb9rIJEvQAlOpAu66YgrsmnjVYe=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI0a7BgwE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI0a7BgwE!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
-  - name: >-
-      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcIO2HtkzyMC1Yuo9fu_khcEbaSJqOjNkfJHZhw0NAYRj3A9baU3AtM48dCHkTklyw7WX6wfFpuEyju5nyVfVvOFOuZdEuYlDPpBH2ViSNIg_X9hJT669QhXjyfLdWhSLbdnyqo7uux8OU7zZAkT_5q_ElE4Jfuvm8drwLAo5YEWh1DTluiDnXKxDbIpVswnWZerdjiWhluYvJLDuCgiotQDK0cGuf5oDxBtEwC6PbyOrUTfoBQsvz8c_B_K0rdup01sudR_TThtQkn4aOZZX6qw6ldG_XpYVPOi9tVFIp9CgA
-    widthPx: 3600
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Blue Fish Sushi Bar
-        uri: https://maps.google.com/maps/contrib/117750466341683883189
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocL3qJRgKOcsNJ_TDROIhbphWi3KiUMUZb41TgfEEqX76aojpg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN8YA-NWahMGiBbM6fe-fgopVA9eO3S394CLd6C&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN8YA-NWahMGiBbM6fe-fgopVA9eO3S394CLd6C!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
-  - name: >-
-      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcJo_yWBeIk0ux1oYQ3pxCH4oM8FDZcKiGtDLnUZHVrQgoo61Yapj6zZcma_LKI8GQcPiNR70Gv9w-hLt5wnC2iQwTzpUX3WJYXaCPjjbMJDUcXgH_d84Jo4TeDNUYv51fYGxtDYScPTr7FSSshu5rEJc9ryv-QoJDmbrLVTHD9CPjfoo66zpaTsZdh4LuQDDZAITqyZTD4mQx6byTNVpLNa8QB91F7coKdUIXOKm9lmW4IDcxpb9rpFEO1UlehGnWQkeXWYF-O0utA_LeDf2RMts5H6b_cKguiTlMZFLXj4Yw
-    widthPx: 1179
-    heightPx: 1415
-    authorAttributions:
-      - displayName: Blue Fish Sushi Bar
-        uri: https://maps.google.com/maps/contrib/117750466341683883189
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocL3qJRgKOcsNJ_TDROIhbphWi3KiUMUZb41TgfEEqX76aojpg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOw81ZvlnK-eVsHeAqSrp-ccpTMUOSy07-0WKEt&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOw81ZvlnK-eVsHeAqSrp-ccpTMUOSy07-0WKEt!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
-  - name: >-
-      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcLKK7UzrWqsaUEv6vo8BaqOxjEOkLlEsQFkcgrJdXew-Dfkj12Km2TYHG54aRuEU53gp5tE2nONsjb_4JSQXdh_Lqv9vA2TwaWnKdvid3ubgwCEtI-kgZ87EbSW-8BiJCgJuO8Hx87rry81hB2xtbgahEjioVDrp1x6A15-8p0tfN8srP2OanN6CabX4l6BfPBpu7y8Rc3YshHN2EsiLePaYRD561w192nguKvAVSgUM24bcP88RzPQW4CAtLLN5ShIqp4KYCdulk9wLhU5UADXvvUGMH2fZho2Rgmiv6jSAhJXTO-cWhKgww5lrufpkYaiX9N3aOPQmRd7_QzBgl4PYn7uIWbGuE-4fiv_65hyoYaWfLnZU6R-GaqPCc32bg2J2w0ZhstVoLHuvrxKTTdMW83wlXHZjLCe73pJtKkuP-I
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Jeffrey Christensen
-        uri: https://maps.google.com/maps/contrib/110633623991078756481
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJiuynSNTGknuvUShFaEcDdKseBOFqr5aKYSjvYrITrgA5wTA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDf05LflgE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDf05LflgE!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
-  - name: >-
-      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcKjBfRhqzf0NpcFaP7uBs1PtXYop_1lUd5ibFnjQKtmIatzUpb_ZGWm-I4UeSuXTSWxNlSaZfZ0DW2Cye4ucBTtedCjEetIeAKPoPX22TJj0w7Q3cdVNXN2shudQDQYRBKCMH7RuPdGhIVsLVmHQU_zdIzTq7SV8FzlGk1LYHM3N3S2Wqvy_WZfFDfpOux6G_J8ST578NhnPiEHYCecVDdFmxlOPthQbXezXQGVVpUYGB3dzwPTq-RpR1WpL5MtMSARQkByILy9ANic40aoFqiuE-4NtJxWZgBcsROOmq2kTpOtkEgaS3vU4lZfQPdKVz-MXfymrlurWLCNcUsIkoerJs2zG4YDq2xzf6jK_1c5qm_L09Fjg_V6D4TmSmYs-399BZRt0cEakwTdV9MeJdyNIH4vXRYFSVTonydRfCtI9Ik
+      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcLs4Bo-Dsbl9cnFLaaQmmrp7UVeH6Wm1a-avV1WcO-Kvzi4jOPW8ze8Txb6dgz5w5Ea8hXWXBawvSdC5cPRRlnXbDWN5CUKpFQQyDudxzDtR3e7AiG8vMj6FSLz425a1T8ThVatG027KIYVIdZbFDAyVNrTpUE5-0MX-pqxAPQ0GJY5wF4ZffAL2B2_DIzal7WY5xExh0UnAbY9Ug_HuquKpyiBKk-vSnDoT5U6GVuLb_NR2WxwtV5s0pPs-OLW15od75hRfgaOaHKUUXi2ham-7PHUcYJvE88aHqHrfJkm2EPPIZppJW9J0-CFWRyv4QzeMEWdrMH7syxiLWYQkdxPSalLl1101felEdyeos_nT1ssTvmX39MxU4HiaBwd9okO9-6D-mjHlekIeOyQoZ_5CHfMAryAx69xPjTh0aKLRMk
     widthPx: 2936
     heightPx: 3608
     authorAttributions:
@@ -130,18 +117,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD6v2omwE!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
   - name: >-
-      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcJcjDT5-9369nyp9NeNX8RVKQxddDG_NXMIUxP9MSIkkJ9LDKhaRbZai0WYuFXUT-chatc6eQnXoC8w6_EpawoLfPmkiD4TGmsdgLQEWgyorxwuMe-Wi7zhDXDtrW_lD_2OmQtGiG74CpRJb8olAIWwyhXeDYZlK9HM6oZb-ZlQ0pukFxdWSZscOSuRioe1RtX_vuMnk7v1ew3GE-foX8K9DTCBoNMFvuckq201bfFLrqOLLnxw4kOEGEdO3bIZ8OmS56gL5Xn4bQECOoXElf6CBCyzjLGSHr01rT-95SgxxQ
+      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcIDvgyswB_bx4aM0Yvl1p61E-igF7md-fJnNnpbuU1BV9uITQEJ3shPK8j41uCIxBmhiLHbqFYkuPLBjDwlaDbaAMhFrjXc4skYGgcr-RQwENASig4MEMQEvjRFgMgprRoR-b59sBiZ1aA3U7dVZp06FrFw1whGD9VbYKg_v1Blq-d3Vu6M-pCS2kK7eF5HvoxelY8vH--R93l4oT9Dap7T0siBVmXGk1nqaUSRZ_sWwomNs0tkKGdRjqN56p27RXRaW5EoptPPiF-DV3d62ujnpTho3oPWKw9uTU5yNhHQLg
     widthPx: 1179
-    heightPx: 759
+    heightPx: 1415
     authorAttributions:
       - displayName: Blue Fish Sushi Bar
         uri: https://maps.google.com/maps/contrib/117750466341683883189
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocL3qJRgKOcsNJ_TDROIhbphWi3KiUMUZb41TgfEEqX76aojpg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNdhDAaE0FOyxYfv1IRmqOCt9O2tlWvurBc-gUm&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOw81ZvlnK-eVsHeAqSrp-ccpTMUOSy07-0WKEt&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNdhDAaE0FOyxYfv1IRmqOCt9O2tlWvurBc-gUm!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOw81ZvlnK-eVsHeAqSrp-ccpTMUOSy07-0WKEt!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
+  - name: >-
+      places/ChIJUwnNgJaFUocR29LYLBIbM3g/photos/AeeoHcISn6pPJOk42wMADJxUgqlSoDAA7j5TdMvC939PTbJokOiT-Mc9b9kJpeC83Ud-pc2m5G0zQgjMm5ZOCwxe6bme9dWRos4xKhwa7kXAT25b1ZUBbgTjEwnNIBXMQ7968c_cK7srpYxmRw7S3tBOquCdran2werM2cvwLHC9mNwL0JICELgzGiv11senelJZrBWkfkrlVVreE_EgumeJIOC8WDPNsoK_Y1q_PRVUsSfX4nEcUpAEXVGsR-z-tncB_X5mNsAlRMOAxQSBiy4NRxegnHcFth3ykHl2YBltDHvvPw
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Blue Fish Sushi Bar
+        uri: https://maps.google.com/maps/contrib/117750466341683883189
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocL3qJRgKOcsNJ_TDROIhbphWi3KiUMUZb41TgfEEqX76aojpg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN8YA-NWahMGiBbM6fe-fgopVA9eO3S394CLd6C&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN8YA-NWahMGiBbM6fe-fgopVA9eO3S394CLd6C!2e10!4m2!3m1!1s0x8752859680cd0953:0x78331b122cd8d2db
 address: '11587 District Dr #100, South Jordan, UT 84095, USA'
 street: '11587 District Dr #100'
 city: South Jordan
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752859680cd0953:0x78331b122cd8d2db!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 7:30 PM'
+  current:
+    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 7:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (801) 727-1912
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 994
+rating_count: 0
 website: https://www.bluefishutah.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

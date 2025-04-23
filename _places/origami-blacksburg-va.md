@@ -13,7 +13,7 @@ description: "Origami serves delicious sushi in Blacksburg, Virginia. Try fresh 
 place_id: ChIJK0z-bG2VTYgRLQqEb_SuieE
 photos:
   - name: >-
-      places/ChIJK0z-bG2VTYgRLQqEb_SuieE/photos/AeeoHcKjBB07I7MVtO_zXqdyxtfhcxEFA-QECHlvDA0qaZCul7FilY9vBvXjXnPEHv1OCytjQwFTfGj2MrOxICOete_wSk1QDzM8z0aEsIHIVH4-SlgPo1LPVseWmtGknMqWs8i0Nu_QpcxdyzKlJ_BuWUBlZG2fSpHn-49QE61rvqvbpUtfRToPESvhEp_jf9nu_F8VPm43fkRqZYXc6T4qlKBD8-nRx7yvo7PGRlaLGOB8GKLIQKpI3UyGPXR67tnd7s8U_LJpGvlbD1jXFgpDruza4mBiJirF6EAcEBjKeVbzlRv4ba2tA7Lhav3qLYKSTDpYR5gl3FFyiVHUQVKT_S942h6PHp8yaUh0r-tae8n30sgB-WRTHfuH_e7rfowZoNFhpLMheLSDsXydWyypCrFdfHEapMU5ehac3KBgimRk6R9n
+      places/ChIJK0z-bG2VTYgRLQqEb_SuieE/photos/AeeoHcIDkdqKMYuXmSWDC4Ve8F2v9sijIOaWRrVGykSggXT345D2Gid-I50RNzspI9v3nFZ3ZIEQutQAe_sZB0SkRXm9xdt3l1zbN3ARK3bmoUFZuAC6VLIrBxBwrT_0pJqUx58jA2mHEjzFkxCW6VK-xbrtz_9OG-Lrg3nQoUt4c4dxciCwOvW8mledVxWmPowRm7xBNmKJYr1ZlVBxrf361-IaZd9bGcUouFvqIYBfF2X5l8BbqbnUaXahWROXLLwssILKKsJDkDk7p-dDyK0raYFGYi6kuM5Tss5B1QP6wiGyltExdsV0BY5ArSfxveMblhjfmCizqyV-1B6NoElImVeWxTqZeBPyZf0FK_L0YutNZmSeGp-J7fenZNvMzcelVonHIRjfqXiqYg0KRADveBblCYoHJbgFbcjWaMK1ERX43trc
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB_-WIwAE!2e10!4m2!3m1!1s0x884d956d6cfe4c2b:0xe189aef46f840a2d
   - name: >-
-      places/ChIJK0z-bG2VTYgRLQqEb_SuieE/photos/AeeoHcLGNYOmuTD2zn2TvWmssAJJsFon1vTU6ZiR4ZiEx3Olcyw45D7yZgSYzIEFLu4Ye9zLtJF6VhQXJqAsCTaXQ3mBDKxtaPPURkFLU50W-QttcfLnbbMQ4hQa7UUOrOw_XypnL7tVKbZSEWKYf135OSIF2LKWS363nkgE6gqAb3B5pVGw3GZbPeaLmpLrH1TTW0HJIqBXS2jtFeU0bFyK5_wwPd6RucLlDiMNu9gwui2atOQqCAowG7PFUUhMUHYu9qB8ge2_1_OyYHk3m8K2-DoyFwHaP0mt2hRUHE-AVp-qRDBlNushC1kB_Z3C78BV_z346_NtcJp6HBBvpTVj-sv7W7AqnJ3WQZInSJThTXET--VmFDnyr1X-VTAzzPBtpF0NrFHWzrMjkPZ1-Dt0jB3gN8v3nEJ3XXrr_M-DyvU
+      places/ChIJK0z-bG2VTYgRLQqEb_SuieE/photos/AeeoHcIX1drB769Azv3gH7RayL0_cKcEygsWbAAnWJVGIoccK18cnHOKmXGvZ9CLo9a6kWS6uMe-a1hunlryJaTV8lVXTnGNsiQ0COuTS54BcfVNIm4wqbX75NuxZpQiBmlASePUtM7AFjvmign9WNBhdKFdxvtczqddh5C0HHO8oWCH2B_X2Zz4DGg39HpajxQlgyygkHPUGZ8Mgg0g5PNP4UDOK9DVGbW8w6zyOsqTJjMXEq1UGxzc0xtSpJhLh1Aj4KOn_R-gWJo64HIMCOwndWT6kShbBM6Q9z1bfkNrmayXBpdzKJ01x6zfWOe7wBUaoJBQ7uSByMtS25kPFMlKVU_m6Rr3O2ry2LJd93bR5iEDpz5OnRkETbQXhx5JPjYzya66dTlwK7eLAyJ9TmgqLQJlwV3CVWTMaQbXcQRbZyM
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB_-WIIA!2e10!4m2!3m1!1s0x884d956d6cfe4c2b:0xe189aef46f840a2d
   - name: >-
-      places/ChIJK0z-bG2VTYgRLQqEb_SuieE/photos/AeeoHcId5GecmsFvZrHwyZ_RkNg3MESr65m02Mv-zNrJb0ERB-nmckPJ2BajkPuqfEdU70C7ZhlxZdF2WgbNjCyIdUb-PJFgdX0YXeHtSsA3ayJrRHZz8UdPJeEldXzbOZnjfpWPrUVCHSj3KKZfn3fRHJ0qZhT0_qSnB-NKJMktnkwwxCbHcPb_skGwLbVWGRDIB4UAE-78vfAWZ6Vo0UqCDXQV3SqVFW7KMJyPgQEjO7fNxVBdaq9oXHpDw_NZJoCi8PxVqAKHuikrcREGfYLNWKEsDar9iKA3_iW6n1jIH72_kN1knSlwPhsvN7E4B2teGDPJLKYPLZjBemdJcnJ7lNg8H06WlbfiiVBzIfk-16Ij-UF9EgEaABMfn3VC0A5UvECWhkG4HZ09bEt97khQ290Yt7fqr6Bo5FB6ZsTytXYmL7hG
+      places/ChIJK0z-bG2VTYgRLQqEb_SuieE/photos/AeeoHcJEAr-OWpOilY3O37sCynf-_s4XQJMFZHVxv7BTNFKM8k0CDYb4TkVbySJAblW3ZzEyEHh5G7VSaBSR6loIcZXCsOZgn6_Nj-IBSL_wA07eWmlKb_Aq8lWMnY4hJZShlKn2F4L1FV-fP5-jPbniyAhWHt93R-1cSHYbqh43A8CHlEHvROF84UiH3_yrpWLKrXKVUbEjtPHsYCz5DqGSlJ26MQ4QnaUEXTJUJCUV1qOIkvTY1oJptGgCH6gKTsDBwoDCw_kUBYSHmCrlWMrc2HTrMPh998Cw48s9q4qiy-AYxyeF461LQmwCoaAq2mVaQXIEi4NlBgVYCKDmBHGkk0-RUWLZ7ZiwEkOuk-lO3o_n261GpnP9YzQHaOTb48HLzbXR3MdyKlLCAtSi3Wc6o3Ha2SVJBGBpbSvZxRr9dDmnbTle
     widthPx: 1536
     heightPx: 2048
     authorAttributions:
@@ -92,7 +92,7 @@ phone: (540) 231-0090
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 9
+rating_count: 0
 website: http://dining.vt.edu/dining_centers/turner.html
 reviews:
   - name: >-
@@ -250,6 +250,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
+update_category: essentials
 summary: null
 
 ---

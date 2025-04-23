@@ -13,7 +13,7 @@ description: "Rice n Roll Bistro | Sushi Bar & Thai Cuisine serves delicious sus
 place_id: ChIJMymoLucYBYgR4bhgS7lymG4
 photos:
   - name: >-
-      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcIJwsgyqhHiz3h4ToxWn7vTlGwb3RECVyVOaFIVoCg2hqRKld5fPbJD_Q6LeoqXEywreL8qLF-QKua5icLtqMmamlDiNE61YyEm5DC0UjZmur7bcnTHErh_8ZB4mwnu_-eHSIEoXsTjqx_bNV0jRkEGL8yZBMb0BAnnL3oq4icG4V9GQxV0u8ygrqwExz_GewvFV9SYT-83KIAq6Rg2ifGWO3ymu5QUx_M75R06A74sXXWJzcILpNdq0ZC5m0WXUjm2q8w2TtPpLQsJsmZ8tReD4cEOi6EFy6nhsg4BmaZ5nA
+      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcLyGF9Nj8jFRv_N2HJ6yAj2mTw4rhVTjgMWb_YoRn9vzIybz8lD2I7tS7_kN_sAKZYO41o7MxT9EWHPb9utvEAvS-Npvh8MbwGyHDxOjpKQ2yv1S5fX1ZGnqQ9bgAnwk6AAWX2veGQ5l_0jBBuVxdsiLWUNOSNvdpzXR-ffN1f_kt4Ljg0OdbDiSTwjeiTRH7HfDmUJmEXXRfa8kiUl1ZWsL3e1cl6399uVN7ZD-ja6nJjpE9OrVjsEpiicgdYE9ICSYMbEUObqOpMQ1vgado1jYOvnpl9RnVSa95VOTDdGJg
     widthPx: 1333
     heightPx: 1000
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOUMsVwCbx7VYINrTqxECThpaNpcgZDYA_ero5h!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
   - name: >-
-      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcJmh7oHng15GACYUakgdqCVcTh6kbUWkEAgCbssk4_rbo1bEG0ZtmmZXSl4bZCrz2ZYlb6RtZJUp06kjZuVIrxlKJl05HQO_dq2cYx6aC3YqV07eZHdJmB8mtgSrHdrwVMK4EYVcTvZpPg7HD-fpDvtOV0QFNLlGcx22lNZEAR8G05tl0a7VfIiX_teVMi-XAsDEzsqmAFXj1rbySV1Ljx-5ujfHgCTXQa5HX7LOdDvocZv6fzCC7U6j7tbeXNqL89LDXn-dWp0YNkcdexybY7XINgQtk0RO4AExitKh00_yQ
+      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcLYFjt2gODNE2a5ACdu23Z4NHGGW20TL0orcB3iMARs3oFICr4_ez1Hhspgb8UYUvduxRQr30q-xgmonzUgv5FGDlUDC6x7xrnwlP3JJ3SRUnicwzYLzvw4VXZu9FmrRcO8GLxOzHOYS_e2RcacWTgkmvFatxneqKJ9P0HCRgDRc-rBbPsFNtkDFFIcDsSLOJia8JQX3iRx3I15V887eNRhsIrlv3HUmloOVrFG9v008TWJEdFcV07eMQl3yBklHJuQdCEK6YCf0Y0BsuJPzwb2RGfgVypKUVQsXKu8wZBesA
     widthPx: 1800
     heightPx: 1800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN6D49P_Gd2rfj7j3R_lmR7Big3yEirKLiczCnW!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
   - name: >-
-      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcKx85_KYzu1yucA4u4dJOyrBzYZWTK3pIGJ5n3rVw-UrGux57SbBUsoSqMWFZA0n_AT8r3DJcY2ZufurXLFIRYjGIz6L8HzzmL4ZvOhs-fVUIGOHKCv_nGia2kYcXtJs4D_kWGtcizir5_a01qpTYsIAxVO8yPcolLg1RN9ygWcs2lXekhkxSTO8kPv2oWGwPCasURod3Wzm7Op1kMLOLV2uGWywmpHl37UjpdTwyHYvWf-GFnD27b02A3frZiYkCNhIREzDZd13liBguKS1vt9yDmE31ijQe6nN-Ghp3Ln-EtGTeD4nYM2N-GGIuprrf0ZN0yvv_KcXHtub5zclXb8fF7xbGA-FE5ILbOUm2w-F2bDace8Da2CZMCG1k5CW8W6CxvNJzxC0IcqqqVMGfcAFcL1VhWj3EAhvO8Qem3Zub4
+      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcIMqNunEQuo0ceOEBfBPqfQC_MnKZBKv27cwz8Aaa3zBlsdruuUBKclCOAYz0wrgECOWXm5re8z8iyxuiSmqnhKvpGI7jG87EmK_SKcBIEPjS3pDUg0xgVS-NmDWYFeQBB2OF0n7gowXG9HpekpCzYGHyq0N8i5TzyTZCAmQoDqR3xuo9Y3siZkDgHGl5P63Jmr-FyEJtb1cEFaCdV3RuSY-W8AmJxlBWj2lW492FYtCpV9dW7QxJGVxJL1CZcHNgg8iWxtKjrCBcIbxd741XsiUhGOd4QJXJdUSE-MR97vrUuE8J0plGan3g5EjEk47-L6YRiTlC9WOoECJDUVeQo8tzRXcdJHUjQRq8knki9XLtZdLTyh7RnOmXPMPWmfSjm8DC6ZoL1dRaucrGYBufYF4_fbhEtoljwVACXe1BAMxEY
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgmuPQ2AE!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
   - name: >-
-      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcJHsCg1trR9W6izNihYPylJfIOB_CrxwOc4KltOysxwaDRuxZ9qVCk3sxaVOH8iXGQddlVN_UKjBejgmPSACHs9wjmJYW7ftcE3HqYOZXMJVnaNzPRFdExTls2uX1HZhlfftkjNxXUNop5WuxFaX09rs2zilAEWsUSbuI4LONwDjNq1Zp05Gp5UdvvDYk8aie8jNcobtDbII2fAH92x_7x45Nx-42KvPjYC7RLHUtzSjaKXaCDFfWT5FQ5zZbnsccEbOrywsOHAyTiHCWGQeGGhRJa1stKbFqhEZcyZMgQ1ig
+      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcK5bBub_lJTA8IsVGNs_WxrE7DewpJQp5q1Kmgq1su-J4qumWwfBWd-YZeO8kRQyI0Y69UIgMJ-K-VwuDNe_WqXN6w7FqpF9HHKF1uJR3aTkgin9xywME0r2JmCPm5596wVk5gAfLLCC_R7X7LLuymkSzA6sGmmEwJmtB38hd4FhVJnFK3pMjQ4cjD0K_HtGOjVCIvgwAh2gpnj79-Svp1arqWGaYA4_ZT3Suw_PGaiJ95lp3Y-_9xU0xIT5VTL7AJ5kM8tBuwht2K5fvxcSm1X1GlhLx_99K2v7_jX3oTDaQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNrNtaa2zMqVQwDDBZmNyalVKSW-UUQox_iqYi6!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
   - name: >-
-      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcIMXLr4cVD2uQy_7inqPloyQ-JKgzSXks_kpsx5nV_zMZgDz2qrGKFHc3Veb3sAWC6YZcDnl8lb_oGUefw1Cf9w5_jvflcyCCbil21OtS_MpOgKiOviefN3wIPHRHfh6XvXCpB_WIcth6MGvkhdh1p9uBH-Jl3j7gJH78rTK8IsRDie4FDN4dgjz5-KyAePSDUukxTscf_yOoJGaKSh8X13v2H3A3tnZ00c3Xa7-7824RUl-2jGkwxizuoY5RM3XFIp0lbAukrcRC6sKkEh3VONgdzOYZmK-q7IjFHf-3V9oA
+      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcKQGe44qNEPlYWR864EAQeM5oQmZO7KGrlWKx2rGvyQ2Vu1DLH0JJxL1R8XZkK8llkollg9fd57oC6s124RnUH7GtTCMZRPw8laLfW75AfxWL2cpIRFIVrl84RJ-BzvmPYY3efr2-Xw-nRvUZtKRrCu5K3q1-cU0FVBk4LMloNdrPy1R3BxARQiDeWzeMrHFKvJejleUmav00mEg0VMzIsE5C449-ms8YZ24bT6j5iAdL-Iagg8QvufbxoBWxSohvJSFci-CM-9MZ5SYJ7nCobKt5Fx9Dnbd7jrwgeOE2SLoA
     widthPx: 1478
     heightPx: 1108
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNhsa_osg3JnDRkDhGRGUvl4pLM7W3AUmkzHnHG!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
   - name: >-
-      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcIGMkFnEF7o3ZgMW--WIVQT77cZtru3wO1Qqh1jiaguzmLw8UaUpZU-DwJPNu4dwiIxLEeyzU8b5XFxpxWml9mCX6bGYOAote8me7BRMVE9zPbnMkesq3RBisq8wujC3cAqxUcCF4yvFq6JP-aIIavKniH7fllt6LGwmlohFGs2KOtvKGKujRP_tZV6pMJB3Y3nacu9cLIIAZQnxjyH-uZ_yrodJpTSJ8pfHYSOjoQQx-cAFRlqaG_t78q9VNNWrE22g2Pb2iZ6MUUfweOoeobeEpwaatjfVpc2v-cXRa_cNJ5cUrc8evpnH8y4m4EwtM43ff3Tna4e9ob6TCk_ao5v_S5EtZNhWGRemw7yIFAAHrcEDrcL2Du0SkIGJeIcSapRmW3lgyZcNfelMUKWcNbYPR4uUVMBY-04bRnyzpA5Cqr8
+      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcJGzlj66D3daMPx79g9u3wGo0GbGXGTetv8GdjvibaovqklH52UxRebOjzucxUSvlZvTo_4h4KktPMHxsEF8jXHgRQ4gDr1wrsIqKnfdT_L106CVCy9UPKX0cg_djjBDtr1lmRLXHm2zL1LJD98HycamQ4i0tnLiSSlQ4H_VmtdgLjydbIjFib9yvbglOFa91HmmG7OqR4FH6mboZazDlueuOKXE_hDTujsNj50v2WZzVmJet_9VX5VcuPtatu6jwC3eR0hQv6ajGLWaNsnOy85QtT6HWfviDYprLyTJ092FZr3xU9NnZNCCthxKHru8Du_jiILLj5KcKOgQaPkrNFcFWZeOcAfdWfPlBavi9oShe44qogr_TY8RQ4NF5jcmtOlS7am143qQZA7agUeHUDDZLs2YqHo2cXXkJASLu8IvNJ9
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfnYGf7gE!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
   - name: >-
-      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcI57I_K3KNNFEaSgdcpxD5U6WrtThFwBPo81v-Unyje9mSG5h7iuTGqM_2GQfeFLaaVB6lE7W1Ngt2M06y01jhp4xDk78pg6WXn7F0agxZ-5FZ37ssmeS9h9PLiVG6AP9FP3ybqUcXQ7WzkY2qKR44UcCjrunjtSCL2HfS4m3lh4fwA-zlmHxO7XO1EVmnn089wC1lyIXpcyVoncfDsx5aRQNCzL66xldrC9FD4vrQQqGLb6J7By-tQasU-qiq8j2xuKAaKrWOuxNeF-QYFOR5PM-4mKbypWKWyyEKf5MWXOQ
+      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcLgJdkz4mPbgqwRfFbXdrQa2cqouf6U0QBKsbPql1kd2mUreHO0GOolzMj3OjpZ2YDbdggdm3-ksMDY3ncRhFp_31jvGCMaTBv8ssyjN-5pTCLheudpnjqx602dL_WLQTA1W18_8pnWZydbq3ax13Bfj-jA-_guCH9SUsckWrQ7DV8Z9PSbvxTEa6yJqpBfK1yzoz98NXOoQMd5c-1regoGC9k-ELK3oSFk_0l3gc8qJJjPtr7SM32SiR9Uu8X8QaeUA0k5O3s4BdrchlMz6U5Y0c9lc9l760uAGW_TqLtCig
     widthPx: 1478
     heightPx: 1110
     authorAttributions:
@@ -104,20 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOhnqkleHoRH8hnE-qgrIoQDO5kLI6GDqVLZM2c!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
   - name: >-
-      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcIjsYiTvd8XXdpZEsprtulaMNrf-aoVNwPfXZaIM5RrV7Pu_KkBhY1jXGDrM9IyUZeRDnnroBDT5RWQQtSjAl-BGgZRjPS1hgrty80WI-mEiTeBphnjCPDECZ4dd4GVloQUAktBSue9lnfiG7sG2fWWIFK3vey2yUssRa6dmH3DhJXsSxWhGN6QC2HHJTvYtBM89eWXs0KW-F7PZpOsoLRC9INtZgcuITliKZ0ZtaiLoQDnZfuv6wP-4i56MheEDxofztpfg-xtx2IVlKLOip3bCzUj1s6jHkgNq2HBfQQcGg
-    widthPx: 2500
-    heightPx: 1667
-    authorAttributions:
-      - displayName: Rice n Roll Bistro | Sushi Bar & Thai Cuisine
-        uri: https://maps.google.com/maps/contrib/107073121376813337732
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX_9mlLRm1OVsCjNNIOdieMMhgFCUz8Hs1iF1MFWKS0MAP-xKU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMzSdmqUye-Il_BAmt2qQbAYdrqBlI7Qy050m0l&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMzSdmqUye-Il_BAmt2qQbAYdrqBlI7Qy050m0l!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
-  - name: >-
-      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcK--5ZzI6RfqmkUim2nYGnCkw0_lsVZj7XffRLv8BPjzw1keAdDXIL3Zdxova81yKKTLKtLt8_pnYIDuE2O8ta7Xyk9Np5JKWJ2FVDN-gAgvYcBMnaEAREAdXT7NH7FAW_uP2-cRqpbWkWtbIlXXFyZjy2rXHNBoB2XAMwcBwO6HvbaKr7be_rfyg2fRIi31S_EJk9SxB-n8Qi0sEdTlynPr-FIQpXuYzdCh8DMIwbT7RB3AX3bUfWN6r_JPWThe9NZAhxIIQc8iL0iZFFe5Ren_UaYHPjX6lGpcnH3CE-7CA
+      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcKSR3VmaW1FbnuVu38kTiwDfwdGSyRc1v4g3uMu8xMVy3Sy4FXXYyHIZww6WFXPfwM1mj6SqIQMtbkUpWtw6HZXMOgTUFmfepsJswfX3KUu49S54sh-aF5kTVIKVUi95rfxgbcmPcEe950zpsxX-chxbvd47biN56uFccEWG755P0NOgbycZDQpx7x9IvAAUEUsd0lYXmc7N7hYOQa0cv0DNjHmjdapRHEUPG09qlOm0yAUut_2BAI4jrI59KQbg5SOfl5qYZIIbsV1Oo7iRd40Q44W_cArdluWDCW33exI0Q
     widthPx: 1478
     heightPx: 1108
     authorAttributions:
@@ -130,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOMupIdgXlbo5wzdpLoF2vgie0NwdnSaIau783O!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
   - name: >-
-      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcLDTFQhuat3qFHliZpVGa8JWNUihAx6jKMv3CsLU1n_09r1wlvgZ1MWAhFbKtobVRFiPk8Px8WZFEo98D-SrbtkqQRGPHKDbLa_HcKwmgOM6DqvIVWz3LbBF_b3EXgg6fzK5TBZ_nsjhHm913jdNTcG0anwDu0JA05Yp8NrfqYGMAdOSvThPHTr5hED27XT-z99A5YZ9RSmWvVW5nh0S_c13NSqJ8W3vjeAReoqTl8023taenK0gjkBSr4yIM2GevXk-1-tKHMNCU2-usxUgEqmj498w89FkzeMdrmf7E9QisIqS0XZ8m68JR2DkfIMMwyQRpnpCVHhU-bqrCAGv8NQslx4zFnGpceKSdK7p-mOBI2yoQxHr0sJNYIqf1FTbSM4a5P5w8Nsmy1GsEnU3rHqTE1E7mFNoMeoLlLpHIjE3Q
+      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcJpHQIXIKCXbiihcpYpeIl1B7B78KueLK2dJ-OQtZSYyAZKz_CZt8525_PgdepG-o-Hbe5Gff3iBQmh9izqBvE9z1-RAEjmMuRdy2CcRbsKYkNIZkSrQkrqkHLbRmYEQYHO1dEhXHtxxPLAghGtiRr-BCh_5VzuPLfXycgU5h23QAn2NcwB-OOef9TBgaPgXbBHVcIsITsJHjI7rLCVCbp0g8lvb1LjOoHImtb_XpAZSHSrkU8suJ87QJnLtQsVzXDNwpSnVdpa_vvUS2CElfzaK2ZsV3aUEg_FdEl76iqqKdc-8ta7XJ1o6cyZXysqCQ-9sE-TXuQVNQMHypqNKbCUuDq_qrGAFA7YF6B4lJ7x4Php_7jx3WxkC7Ou_440_NAaeIgqNHK8Qg-8dSTCfDrb3Gv_xcSzKG6Wa1QZybxkSw
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPzrWqEw&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPzrWqEw!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
+  - name: >-
+      places/ChIJMymoLucYBYgR4bhgS7lymG4/photos/AeeoHcL2KIY7fK0zXmwWf_RQLkl8NB5bW6hw7L1yxaanNImww8Fd6_-8EBhM1EC9WCzzvIU5JbMuHMs2YF4pv0kXnXNZGCAyUq1eMqtXnBY1M0vJAmFETvY5FdgvFke8NRHOnDpZWEMZkonw0sk-lA9XynIO8w8kK0huVZzSQAS4o_ke0P7D7ZWRcb3bOIH-Fg9LJCy2GYgBR3qsf8bAAb5bj90tVgQSgdnEcbPpljEqH3w9HhuX7yjG5ttZaT3oeyaBffvpS1NdakjOapknbgsHR1qtL2eqz3RFLgjPbRhoW0ArYlInd-KhPwjaSt8RJSDKs7lpuxU8qfPfb7AqTfiGaZ1pPE4Haw_AIM-wF3viJdjuavLf6G2hrNkYcUfrPnoa2-QZB1DpZyArhCRlWEjeBQjHKdJVKn5jJ8xxajrjh8r1Yw
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Becky Ho
+        uri: https://maps.google.com/maps/contrib/115955910351388490452
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLmt_sWTpVOlaqPAnmsRs4QSc97OtpTN-2gKklzpJGauKujYA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfnYGfHg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfnYGfHg!2e10!4m2!3m1!1s0x880518e72ea82933:0x6e9872b94b60b8e1
 address: 1952 N Farwell Ave, Milwaukee, WI 53202, USA
 street: 1952 N Farwell Ave
 city: Milwaukee
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880518e72ea82933:0x6e9872b94b60b8e1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Sunday: 12:30 – 2:30 PM, 4:30 – 8:30 PM'
+  current:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Sunday: 12:30 – 2:30 PM, 4:30 – 8:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (414) 220-9944
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 821
+rating_count: 0
 website: https://ricenrollbistro.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

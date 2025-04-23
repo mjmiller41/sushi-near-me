@@ -1,107 +1,56 @@
-const {
-  initDb,
+import {
+  getAllPlaceIds,
   getZipCoordinates,
   updateSearchHistory,
-  upsertPlace,
-  getExistingPlace,
-  getSkuData,
-} = require("./lib/db");
-const { Sku, DEFAULT_PLACES_API_SKU_DATA, checkApiCostLimit } = require("./lib/Sku");
-const { Place } = require("./lib/Place");
-const { getPlaceIds, getPlaceDetails } = require("./lib/google");
-const { logRequest, logSummary } = require("./lib/logger");
-const { config } = require("./lib/config");
+  upsertPlacesApiSkuData
+} from './lib/db.js'
+import { getCurrentSkuData, logSkuReport, Sku, SKU_CATEGORIES } from './lib/Sku.js'
+import { config } from './lib/config.js'
+import { placesTextSearch } from './lib/google.js'
+import { Place } from './lib/Place.js'
+import { updatePlacesDb } from './updatePlacesDb.js'
 
 async function run() {
-  await initDb();
-  const currentSkuData = await getCurrentSkuData();
-  console.log(`Sku data retrieved from db.`);
-  checkApiCostLimit(currentSkuData);
+  const currentSkuData = await getCurrentSkuData()
+  const textSearchSku = currentSkuData.filter(sku => sku.sku === '635D-A9DD-C520')[0]
+  console.log(`${currentSkuData.length} Skus retrieved from db.`)
 
-  const coords = await getZipCoordinates(config.updateInterval);
-  console.log(`Processing ${coords.length} unique coordinates`);
+  const { rows, rowCount } = await getZipCoordinates('0')
+  console.log(`Processing ${rowCount} unique coordinates`)
 
-  // Get place IDs by zip code
-  let uniqueIds = [];
-  let totalPlacesFound = 0;
-  for (const { latitude, longitude, zip_codes } of coords) {
-    const { placeIds, request_count } = await getPlaceIds(
-      config.searchRadius,
-      latitude,
-      longitude
-    ).catch((error) => console.error(error));
+  // // Get place IDs by zip code
+  let foundIds = []
+  for (const { latitude, longitude, zip_codes } of rows.slice(40, 41)) {
+    const ids = await placesTextSearch(latitude, longitude, config.searchRadius)
+      .then(res => {
+        textSearchSku.increment(res.requestCount)
+        return res.foundIds
+      })
+      .catch(error => console.error(error))
 
-    currentSkuData["635D-A9DD-C520"].increment(request_count);
-    checkApiCostLimit(currentSkuData);
+    const uniqueZips = [...new Set(zip_codes)]
+    await updateSearchHistory(latitude, longitude, uniqueZips)
 
-    await logRequest(
-      "635D-A9DD-C520",
-      request_count,
-      `${placeIds?.length ?? 0} places found @Lat: ${latitude}, Lng: ${longitude}`
-    );
-
-    const uniqueZips = [...new Set(zip_codes)];
-    await updateSearchHistory(latitude, longitude, uniqueZips);
-
-    uniqueIds = uniqueIds.concat([...new Set(placeIds)]);
-    totalPlacesFound += placeIds.length;
-    if (uniqueIds.length >= config.placesLimit) break;
+    foundIds = foundIds.concat([...new Set(ids)])
   }
 
-  console.log(`${uniqueIds.length} unique IDs found.`);
-  uniqueIds = uniqueIds.slice(0, 1);
+  const uniqueIds = [...new Set(foundIds)]
+  console.log(`${uniqueIds.length} unique place IDs found.`)
 
-  let getPlaceDetailsCount = 0;
-  for (const id of uniqueIds) {
-    const { rows } = await getExistingPlace(id, config.updateInterval);
-    if (rows && rows.length > 0) {
-      // Record exists and is recent; skip getPlaceDetails
-      console.log(
-        `Skipping Place ID ${id} - updated recently at ${rows[0].updated_at}`
-      );
-      continue; // Skip to the next placeId
-    }
+  const existingPlaceIds = await getAllPlaceIds()
+  const newPlaceIds = uniqueIds.filter(id => !existingPlaceIds.includes(id))
+  console.log(`${newPlaceIds.length} new place IDs found`)
 
-    // Fetch details if no recent record exists
-    const placeDetailsSkuData = Object.values(currentSkuData).filter(
-      (data) => data.func === "Place Details"
-    );
-    // Sort asc. by cost level ensures highest cost sku listed last.
-    placeDetailsSkuData.sort((a, b) => a.cost_level - b.cost_level);
-
-    // Filter out skus where free limit hit
-    // Store highest cost level sku in currentSku
-    let sku = "";
-    const fields = placeDetailsSkuData.reduce((fields, skuData) => {
-      if (!skuData.free_limit_hit) {
-        sku = skuData.sku;
-        fields = fields.concat(skuData.fields);
-      }
-      return fields;
-    }, []);
-
-    const data = await getPlaceDetails(id, fields.join(","));
-    let place;
-    if (data) {
-      place = new Place(data);
-      currentSkuData[sku].increment();
-      getPlaceDetailsCount++;
-    } else continue;
-
-    await logRequest(sku, 1, `Place ID: ${id}`);
-
-    await upsertPlace(place);
-    if (config.limitPlaces && getPlaceDetailsCount >= config.placesLimit) break;
+  const newPlaces = []
+  for (const id of newPlaceIds) {
+    const place = new Place({ place_id: id, update_category: SKU_CATEGORIES.ID_ONLY })
+    newPlaces.push(place)
   }
 
-  console.log(
-    `${totalPlacesFound} total places returned.`,
-    `${uniqueIds.length} unique place IDs found.`,
-    `${getPlaceDetailsCount} places queried and inserted/updated.`
-  );
-
-  await logSummary(currentSkuData);
-  console.log("Done!");
+  const updatedCount = await updatePlacesDb(newPlaces)
+  await upsertPlacesApiSkuData(currentSkuData)
+  // await logSummary(currentSkuData)
+  console.log('Done!')
 }
 
-run().catch(console.error);
+run().catch(console.error)

@@ -13,7 +13,7 @@ description: "Pop Sushi serves delicious sushi in Durango, Colorado. Try fresh J
 place_id: ChIJxWnKdOanPocRxNgzFnUP3x0
 photos:
   - name: >-
-      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcLFgulNHUMb2ffqStrODZaz1KrcNrT721d-odx64-E4dRTC5I-WiHSFWMCJ9p4Ss9U46_Fow-U5beiSGh8L2Nazxh1J75RGAxUKILIqD1ppxYJBmf2IC1e8gMZ-LInDmSBVK_3S_hZ93ZyU0te3n6wnNynGlcjmSs4MW-fdF_51JMosZfxylurd5X_Tl3Y77ag7XIijHjGEjX_WFbY6EWzBgnl5hDz8JZikcVwD1r5uC_XzoPAn2hpom1oLsjNfAf8BEWhF8bATZUuz6UrFfIfK9Z_lHMRxxKALuzsOPczhqA
+      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcJ0x5AZLi_MnZAPS0FxfE_VBU9QKCitC2YjeD8hnXyLWwS-ed2x_fsblKjx3PK3t33_AQU0kdUM121ZFqCd-ZBfg9uAX1S5il6WwHpib3mWhWEpAwcxJkP8zW1t7PdJPFJ6sPvx2BXU-G0hOUBuNOb96u8nn4HAWwGRaQAlX9FlidbmMW35Zns8ppnu1fk11LbetgewQ3YKHLqez5kaZezRFR9PIVKk9O3hYzfznHmVWmwM5wssvlhPTQld_LATr6D30WjFF9IB6mjLvWPD7h5P8YsscPbnhG8vNSJ9ZcbRrA
     widthPx: 4608
     heightPx: 2592
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOv8_SD6E-scIQgyw_UD7Rrs9ouSVpusqpOybp7!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
   - name: >-
-      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcL4hIZcrc2AwLKuht_1hCfUAdfban4qmnbTMPbNtZEkBNKfiLxzYRhj69IvhqPa485IqdmbIosZQAlmoK60xBH7uBoeW-at4oH68DoOqRhx_RpLg6FDRErFS4zM_oPNdZzVRsilU29kVgUiPOEh7tGTmO3EH3NbNq5xP0stcYHqPhDyyzetsKgqr4I5ddqgAwj4B5dnCQSujVsnDwpqVYp5QZEzXiUuxOjU5O1brliqmSccTJIhZoOdz4evXGZ4D_hqnAIExpV_9jGCEpgFpclon0OTUOMIXVKgqoCj8cgnKQ
+      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcIHIh-q4FVnf2W95b3kG5nh9IdtupwOuhWNb9bT-c5SwXN0zrCp64SNtccdH9GZurl_3SwOGhbaCZP5m0Vc38fnzFTMd7mbVTSEf8OrNxIuIt-R54BBlRo09GtwG3s9ii_XlKdQvTs_CcV-bllwRDcLtFmWb5CsknGSPOE16tqpatGfviTX0oWwNPFY8iDticYuWQ2BcQ9s_t3W8XMNZBi-BOKnBUStKxUuLKw0fpg3P5VkNxtviLuHFtQDdapFpLO-ha4WrzATIfKNohFOoKKpQ9a352gUsTW_8zlB624bEA
     widthPx: 2003
     heightPx: 3000
     authorAttributions:
@@ -39,20 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO9U0OloZAvs7XwVfIWbH5MZESEdP2pPH3BN8oR!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
   - name: >-
-      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcIZbdR9RGsj0P1QQw5lPgFhnbAOD5qCNJg5FVPiOWS8VYNY3xc1pqZ8Svye2EC0muv3VWgLPUxvdfemLfcWIf3nETZufkGAEIGOI91BleiRgueM4K178nYTa0NCysyuQ8o4ADQTG0QYhsAAzmebY0aGEas7rVkVSrTJxp2iZ7PQD_B_i23ySYoleDr3X0UdlCuy-noyRwpVbFuNW3LAkFd68OLAR28PGVLNwr82FZNxPWDg_NTcA1i1BR1xxdZR6UP_iDoIp7boWRL6nchUNHr2Dx1VWejFviKZDL0Nfkmwjjfk_n4B2EMFmTItBRX_DzT0h3szHD7cEu9wSh7zgLBtmP1tf-z3RYWvBFT21ytpKJM-QV2ru_2h0S3hnWXQ10wsGYAqKmzeaMH1-K0bKHp90-NO8WpA2ZUom_vwnlQz8tFE
-    widthPx: 3600
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Todd I
-        uri: https://maps.google.com/maps/contrib/105994749009506737902
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU0aOoFc8ByBJyEKQQCZ_q97JHb4Zn-jHqg_0NuxB13PkDQnlI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQn_LcoAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQn_LcoAE!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
-  - name: >-
-      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcLBMFsgxsZGa2Njfut0obIfdV4UjSKijHmat6jQjKuskWoGiV5R2wbY6rpJalR-0QEFK3F-fOETWyuPBLeufLxFQl7otokRaFA4Tku3XQEshqEfDIccgwJXiaT12TKTE3uV3k9e2uI0e3awG_aBPfty7FyJFfoKP_ogXvUhrdxCLlD8sVltG7nZxNRZIDt3dDlq88vEMSsd9c4S-EVWO-q2enZ-PqS9DQwc4UKoaw-R3fQEiyGvG5vmWw4hRGoMc9dfT2YE3Rkzbz64AfBBEtvRajORyz0nXvD_6uq6CPpFiw
+      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcJpSJnoEc4d5BWVBhkHqRqXzXJu01rvojvKKZPr3eQVmyZpoG9pAYdg5ZnIF_xGu2pUycEdD1tsxfryqpN0Kik5KHBkdyYY8oTj5151yoItZQQb8hWxJQJ53SAGL0IQYwzxvbE85YzNwZ14QQWsfLk9vT_Pbfeom_TxJIUap42ps70wF4uj1rcbgNHpz1resLGOeqHTTUp-CIJBeL6VDJCVpENBWPWXXlWP2CD9_yiPmLGd0cQghszXp_MThkG6iPwdFUitADuNlkdjdnBN1q8CwJ4u_zV_LTlXzw7l7HV4hw
     widthPx: 1130
     heightPx: 732
     authorAttributions:
@@ -65,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPvbBrebrDguhtOgtyY7DNcRYg_VnY1hyA4STeG!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
   - name: >-
-      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcL8ChUMXdpgJclZ7i7BKfdPX5iYJy5-kSN9hCsxgGrj7BkOyci3pwOWYyEQ3LipF907O9VDxztQujIEKZAdYMmUb0ne2BqAkIWWd8EtzxJYUJSIm9_uEunT1wycUhnKrS_K1icCgIWpXEVyMrDHFu2c2TTAPDVkqdCTqJaqzPEljYbeX9cngO6a5x6TbeP3vNqyODNIfi3LasrrQyJX2msisW4SArPFohG9LHFHjyoysVVlTs6lsVje4MGKVREmxFxMEWNC2dTJR98ZVSyjzzSN4JwbdzjDo6DFRG9ffxWBcg
+      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcLmFx2R3oPk2bvn2yUKVyXnN9waz8ghZep5gdsrEV0Me0p2X2dhV4sTa2A-fsaxippB-cnbwnaOfmheq44h2Q01fjzH-7-_8SQ2QOQ9cLvTX5kGeJqgJb1JHSM_l76iwSU0XH_QRxusyxtU52HTzLIQj9GT1m24sONAOAYEovH6ULm9_9ro0LE-VRdfl7t5c5E31ACT-l-28By93HrEHcC5_TaMIFzVLyYYr28d6234xS19dmOoNQpfSr0uMcN4NxhGmvLNpS6ej4NuthMWZDgxtSzz9s2c64YS2346F9URmQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP9BLE6pOJZqU_BrWO3tMKr0FJqg3r7qi5S7ubz!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
   - name: >-
-      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcIvkdZv4d3zHJ5cC-QRqDzEyhd3U3A8U5MWmg47kqYpSZvFNoyU_N478uxDte2UH0duHI1DCtXeo5er0rCjFxsk5fYxisyyetyGQEM9BA330A8BymvSiVX1KhjKH3VX9pbL4KOoJOLXMMc0x-6TFDBAmq15UojHeyjIXTVkUP4UFo_xJkzDWiH3dkfxMV-XGgPGG9UIYOx3Gtvbh19bpJVgA7TL6L7yWIHOG5rd3eVH0floVNZP3Zucmt8X-tBJP7QHEZrwATeHh2mE4NAKQhbNAteoJx4im6FGm5fvD0iZWw
+      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcL3xmNoyLOw8twSoFIHetPjvFgL6CTBebjwqCjCP3mH2hVll-ghLXuxeSOTl4-Ca40i6lrW2z7uZU8fncSmQcc9XRpkWKlkzCHvUX4PheWrFtEeUe9gpSOsIsTDABvwgQFflWnbT3qEnGwPX4srzX3SGdSvlXm86Ks__Tl3lMnOijUCmOJj61TNZpNtAXOAthsXTdHFrwCMqSQcIG_orjbH3cU3903MajPiY3cCi4X5TeL2qJHOh78i1ds35St_okA2GwYkf3ADJcivPAaY9qsY67ySVWlSZgQILDPipYDaew
     widthPx: 2929
     heightPx: 2003
     authorAttributions:
@@ -91,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMnGExqbsgEYLndUEyy4JEveDexPhJ6cayzUhdN!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
   - name: >-
-      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcKko7SBfYDx1TEm05ZgPBbY1kq-eXUih8Mn4yooIHzXqhA5QagKn5t8AlG3M6_7mxYXSOAwWmo9ZqAf4dVK2jXcFQ65ysPS-gmugmOUn8yiRi59oXndiQq5o_-Y4bKgRGDgCP9b-Cjy8-mSz9xyTRUikgSnpAB1aHUym0XcNabKp1_doUAgHJZ_tPii4xHA0Kff8AW-TBREBjrZwV4RNb5fFTxRV-ZZhZsa87pWaAe4Zqq0JPiMEZFk9JIKuh3PqIIpY_MB4FD7STqEtRYJX3KTCTJjJPGVCYSt_6yhA4BHEQ
+      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcJ1jRIVF4Xij5tzu0Vp1AZzduwRBDMhzhhChPrQzvVoLxR3SQnXLbem7o4mf81oJDvUD7FWtMp9x-Cx-pD2WGo51WL6tMfHzMRaIbKq_S3-3oyVEhrK6gyhSAWEwvYL1jSNvyMzK8pxi4Rqhp4gejJIT-mSvI6KVARZNOkpVwFKN8HBxFQBnWSEtgHHDe3Q4vZsxVUp32YGA8qDUAUAL9sfY49lZOQjANTsetVPqx-DRtksNIQAOCla89zK0dcSYyI0uQvY_6Zlr4T8abZ2fGL-API5UwXUt2c6NiMfPH9ufw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMwahOOmWMLiSuplERtveMyzDjXJjX6Zd6uRfyR!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
   - name: >-
-      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcJ-DTncLbDbf5nTcmixtkkJ3u7h71RL7o5V80JRN07MMO-K6U6bR-JSzBbOxcJGJUJgzaXYXQ9_05TUmfDKtk9_FuGmbteDhO3CZvOTr9e4hiCr_xIGsgPsYZlCLqMIZeyOtqL7ddcUJyleTg2564s61SSzLmxgQSOZZq0BVliYw324Q4U4NqOEk1l_rPY55EfXvYmiBBx8V4cXULuiQzgt4YNl0k1M9YNQOgDfVqWkX79UNkPHBHNZfF23MG_4PbqtGVj3BkccT1FsY241vFB3QkzPmnKsbBBb3GMiGWKSchR1N1DbmP_-WCLzndbFB2eDmKVUUqbNfriPrNSxxn0n6RLnSkGLqXsOXAZjMiK22u7kVkV1FplbxpCPDyCIDC9s85jlLDpHYcMpas7_ZyfGGdrw06NOfs10rSaUegSNq-Y
+      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcIz5Xdb6y656CnI9qmWIecqoAzMVnHo54F2jx4AvFxnl8rRXCLfIL9KN8XngvjikjWIZzx6TiXycXaf_h_R5tFqb5b-qU4zmo4buHUcMSVccgU_OCFzEWXq9zpS0OdOXnw3dYooDfFMDV_tMLwWZE3qHhL6FnvTPJpyMZ-Abbe-8ilXXstArOvrTgRJsP8ytt_VKZ_8pF2TeL-ZmBbJklVjFUdCTW3WW6p6CpZBOinDHGM0kMB6LSV_3-xvbTyFFi9caacXfM6kt_PCn5NOEQoNAn2uCcA1EM5F0eDDwvZwcddbfFrGZ_oNIvBd_UPyP83ojFztxVreq3bXSVZRrOsCm-2kueX_k282ACU1GNF3_y0H8lkkY_E87BJE6HRUk4xKOnlXU89EgjoGzfmEz4kADjd6KOXdKIKKyFsr1U1QUD8
     widthPx: 2736
     heightPx: 3648
     authorAttributions:
@@ -117,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-0pC09wE!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
   - name: >-
-      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcIkp04QNsInF6CqUyRUbTEiEdU1guPmgQbY-KnDdvA7BOSxmnIjDCjtWt97wYToavvPsYZ18w7VljnPUMlpYb94X-lOxDkeiVsD555cL5qQEIktJxBZWbG1ki67Let-krgpRueAwSSNsPQHPn0JhG-MP6RS6YZP_CKFXZpr15VDSRebuZyCr4xM3psIRLQwk-pF0hdlWWx0jVX51ZCdpCEVXvtvgC5bNSpi_vb18qMYZnBY9mgopvjCorJzjLk4EkrYeL_mOAFs2yzikvIV7kkitsioRoHG-JOdxmpibrnknapyqajIfPUpByz7iOMFyGg1Fe3rdV_akOTZr9KAtCRXVIZeqs_x7WDjX_0Bc6DM2T8KYNpNkPKDceWxNi4dyYXFwv8zEK_Yu1LFl5mF1YBK6KDEwBgDKfokP7fcQnZiMBE
+      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcLY4aRvdXrnzep8JlfjD-1i1JWWJo1SEgZWsSB449mWfoi4S85yhNZjB1QvL0A621BBkptsvraJsAJrw5utiSyffxibhoNQ3dvDOXU0VM4i4sNI1J0c66SXKFwXfZ0DzG9sVF-iZKLJAXsWkokbZtYbB9LlBNWxzZ0slerbH8-KHEkGfkV7AZX8drjY5VSxT14gRjfCEUuR1q0lgEHyksWu24yYWz2IVjiO1AzgBcaFidoA0USgtUUjg6Q71Ksyl1h_4oAX_elBQ5T84Ot01MnFLdM0A_3Tke7RKl4gaU96mHCQNosobJhlqiBS4-x6WFyo3U7LCdmLtpXxKsQ1hyeqElhtlgQ2sMXHm17UaTBlGjF61-pxuzotns_EKlbkEio3ZZsOPVEn6qtnvYflwrFmzsVwLEtN3bkg75oiS4u4ZF4
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -130,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQn_LcwAE!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
   - name: >-
-      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcJHPBiaaHhRUj_jAzSan7Fzilrf7UV5v8fTpu97zxJ4DhU-GhjOpCVbcKEPL-SyNARI2OPnQzY_kmHOtwBWfcO5hVBI8PusOQB0960Zw77rXY-hgtpB9Zp7yrk-qUphz_4sKZ4HNVIw_w3XzvfdzOyqJiOh0PfjY5lfB2NPR6cklPMD7AeyhmBxAMIPLFllNdRBByiLm1XIyU0qQVyE_GWaXoQbwG_mv_RhTFey4XA3atEumwmPVEr8nuh_0Abd_pE2B6XiZMuMR9B9X_XNSpIbwGLKxI-Z0zFSHrdo8hcybQ
+      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcKpqpsbC03AR9F5w0RRjljXGLmNQef-N3_EsGysif35Oy7WLkxgkDRvp9biAeGTfhIRGIDQdxHs7to9Qscc4UfkaCWrr9Cmt0A26KB40Loz85FEimFU3KLmh7DYlQcajnKiAs4GJmAVtHlTDfonodD52poQD9itq1K8X1kZMATA5yijYy_ZN5HXBfwczrdKBZvS00bLQluvovVlAafNWxGGtz8AbsgyRYUmlouUKWT6q4KVyfWr382L3NO2p54ciSMtEZ8fVgAJk8KfOuVqrTdhCgAR2FLiQN0iDnHbFvdq_w
     widthPx: 831
     heightPx: 624
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOg1cBGSe57WsM7bkqFZpEbOABF1UqsxrVHcr9L&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOg1cBGSe57WsM7bkqFZpEbOABF1UqsxrVHcr9L!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
+  - name: >-
+      places/ChIJxWnKdOanPocRxNgzFnUP3x0/photos/AeeoHcLaXm3llRCeLTdWQQAt6FvBKGyqP7m8MeoRAtIVWkgvNNLPIHiBEAUzEcNScCdzxQBg6mP1bLTwOPKN8lmn0UeIVA1Q0AXKMD2CniA5MhhFW-1YqcgqQNJ1ZDGFXipeUcfLZd4Ls4t98fCmxaubxyFW3NbnXlvDVLG8SktWDTJ0uHEBFaAsad7LY4VwIc1tEGIifmrX_7Z2KMQRzh8F426chEQvJjEsvVktYwJSYiRpMOfma9LISF5LQaQBKNmlRBASmd1Ly3JcMv7FlttFpMm3OeAHyzC-Ngx9cYrcKnol1Q
+    widthPx: 2629
+    heightPx: 1845
+    authorAttributions:
+      - displayName: Pop Sushi
+        uri: https://maps.google.com/maps/contrib/115053708944889079279
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVEuLBzya-ZP30U9PsyDaUxhE50i8GTCLHy3nymVhLCYiYRMU8=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLO_Q8TRAbORPL7JCuM7mjr6ssR6_v_fTLfdDw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLO_Q8TRAbORPL7JCuM7mjr6ssR6_v_fTLfdDw!2e10!4m2!3m1!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4
 address: '42 Co Rd 250 #400, Durango, CO 81301, USA'
 street: '42 Co Rd 250 #400'
 city: Durango
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x873ea7e674ca69c5:0x1ddf0f751633d8c4!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 4:00 – 9:00 PM'
+    - 'Tuesday: 4:00 – 9:00 PM'
+    - 'Wednesday: 4:00 – 9:00 PM'
+    - 'Thursday: 4:00 – 9:00 PM'
+    - 'Friday: 4:00 – 9:30 PM'
+    - 'Saturday: 4:00 – 9:30 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
+  current:
+    - 'Monday: 4:00 – 9:00 PM'
+    - 'Tuesday: 4:00 – 9:00 PM'
+    - 'Wednesday: 4:00 – 9:00 PM'
+    - 'Thursday: 4:00 – 9:00 PM'
+    - 'Friday: 4:00 – 9:30 PM'
+    - 'Saturday: 4:00 – 9:30 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (970) 422-8182
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 532
+rating_count: 0
 website: http://www.popsushidurango.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

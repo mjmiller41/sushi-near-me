@@ -13,20 +13,7 @@ description: "Avana sushi 3 & seafood restaurant serves delicious sushi in Readi
 place_id: ChIJBXpbjOcL44kRSET9D7fe_m0
 photos:
   - name: >-
-      places/ChIJBXpbjOcL44kRSET9D7fe_m0/photos/AeeoHcKlzJDvN5AthnAO0LKWZcPu0n_n-AneoFHPBW-2MrMf4T1raArTqtNydK0g8NpIZgBLoEN2jKITe9M8e41gSckdmommW-p5CZTFGkLs0A19f_n3dYYjX37RPMMTa_ka6O11R7sfb8O211Zi5Jbil7aUhkOLHmCMjbwPj1THFMfCKcU4F6BE2eGoEAkbv4vaheJXsqrebjq59fFrZ0mNYl2nlqRTST3RVMVtRyBIsdwUy8-8WlXHN-ZVXPBn96ZNo7nKmmgQ_vkvsNDvRsZBVF5Rdi2cuQMP1WQ8A2leSFblksfLwIyfYBTFZIEz09xvZLvf5hPFUpYRmnl_9-pTyPfx3SI9-y6k72g5JoOFu6t-vchE3lKPueYkmzD09N02qiciayChymt4wyPf8P6RwOvcl5v6skY1BOZcNIXzSp_mMg
-    widthPx: 1170
-    heightPx: 1408
-    authorAttributions:
-      - displayName: Laine Stockman
-        uri: https://maps.google.com/maps/contrib/108245980971765877453
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWuj98Z3p4rJU69KLJ_F6wAKNRA6MV-AApw5FXlRARbDjX2li-f=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICpkO7pKQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpkO7pKQ!2e10!4m2!3m1!1s0x89e30be78c5b7a05:0x6dfedeb70ffd4448
-  - name: >-
-      places/ChIJBXpbjOcL44kRSET9D7fe_m0/photos/AeeoHcKLRE4hQCSHZoOKkWCCKFUwORKwmSzQ28zw5mR5OSrupvJGs5CxI_ekPXhuT87ItQK84no56UkQTQSI1nLz4shRfz55f3fdL-wYVvskYz_hyiKTdWciLB1kbzchIZdo3lBU3J8GlLd3rYvmNqJFdu-aayVLIw-IV8oIYVNyg3Zm2EEgbGYK6pmPnj1IX1V7aZrlC3d_wMBz7dO9BnnOnX16sGJtzfSrkDQm-6Ium0zn-GBsESmnDaR-J14NeUn-9RCiwgm_Ddwd8BJpBIit1p-omuwax37M7WKz84y-sMOYG2H2A4HSgBg79HkucFHdkhkwS0f-0s0kQoLZyH1cHeKglR5ZNJv6bDBt4wcs5pBwpJT7Iv_1qXBr-p4orYSyHUNpY3xaXX4zGB5bWZ0ONJoBxXD_9eNWl0EbcJpMotBWbKBz
+      places/ChIJBXpbjOcL44kRSET9D7fe_m0/photos/AeeoHcKNn8iVm9lUovPLoBakzSPV0TUVlLdyveRjfVzQz3Wy3g29Z8uz82rappX9hN5BzYIQhDURnSJyRuTz9Gc92EQmr9zejeuYKHX3zocBugshkE1__EI2ipuN37DYr2-wbfTkyC6U9iSM4F0c1EqRdDX0brg54k0T0AUKmFL_xDxJJjNH8Ipgdp4VmhX_SeDEooPB2yHCSYtqQGPbNRfNpmvbKjeRRwWmM3INmiCHTE5inx8Aj-WEFt9ld7qxZjx8tSCYnNYtA6qGnT_B5SehdVyVihC4bbsK91bmZSksUexC8vB5AHfO97XGcQ3AJLlR11njyqOguc2kiN22HaqQUDcRDCzm8pOjBdtmaf5YjDFVKX_8gzjInFcxwbnPoom-xlex5Qe9BAY9qa86jRvNwPghH0g6HFq1j7ArjpKWyZoCbMmi
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -38,6 +25,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBqYK9zwE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBqYK9zwE!2e10!4m2!3m1!1s0x89e30be78c5b7a05:0x6dfedeb70ffd4448
+  - name: >-
+      places/ChIJBXpbjOcL44kRSET9D7fe_m0/photos/AeeoHcJkSYPD5UY5R79omF3VnPjgFYYApJzqJ4E9joZH8J7Zb8CtKdVdvL1DXpQ3wu9Cmp5YVcfukTA3pank_kwlWc7XSrdVYz_upC2m5suJh-iOsRU9amr0MF4Bl5SImpktcFXh-Z3MC8d_dQBgPryLtyAVbt-UdKp_2jM57bB3p9ePqArksrEISXK9It2ULRRbxry-LFc5uYLWc1IwukH9rcRO9p7mTTbdZDNv0DMouNaUzZBY4qOntVr1CSi_-f-2jv6ZxQ7dzLfdzd8W_TUKL7MCZY38qNifrh5ZTQED0ZSMC7llcyNLqS930_gYpeClhSFekP0wyxvuvdRN2cP3EElNzP5jr5jc4NNgVRbk15qSu1gMUgmA9YFVZSrUL6sZ_e5kKDM-aaD1Wk35X84RPe9fSuJqgpEwnng8eYj1x1e_5w
+    widthPx: 1170
+    heightPx: 1408
+    authorAttributions:
+      - displayName: Laine Stockman
+        uri: https://maps.google.com/maps/contrib/108245980971765877453
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWuj98Z3p4rJU69KLJ_F6wAKNRA6MV-AApw5FXlRARbDjX2li-f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICpkO7pKQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpkO7pKQ!2e10!4m2!3m1!1s0x89e30be78c5b7a05:0x6dfedeb70ffd4448
 address: 589 Main St, Reading, MA 01867, USA
 street: 589 Main St
 city: Reading
@@ -79,7 +79,7 @@ phone: (351) 201-3148
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 57
+rating_count: 0
 website: https://www.avanasushi3reading.com/
 reviews:
   - name: >-
@@ -281,6 +281,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+update_category: essentials
 summary: null
 
 ---

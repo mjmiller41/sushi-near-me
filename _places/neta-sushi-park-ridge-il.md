@@ -13,7 +13,7 @@ description: "Neta Sushi serves delicious sushi in Park Ridge, Illinois. Try fre
 place_id: ChIJVSTVi5zJD4gRFI6zE7OR_jo
 photos:
   - name: >-
-      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcKoIPkD8C-l5X1TuvqzfIEf4id44aJJ5doA9R1eJwzXwG_8FwU6yqru_NvQ3a9YeJLRFWTwBocAEoF7HUgel19b_R920Cyv9zb1ecUUmpDhQTFs-Jn1xVWz6yPpZtscGE8pwC0LoWiN60Z4KOjxlF5dKbCEknXbPX7N3ogdSJDd86zFsAMV5LS3IvLt_5fWj9PI3FbCZoWewc1zNvlIA9tgpKrCgSM5i-yimdPKP0GFtfrizXD0lte_mk-JO7OAHVQSFWN3EQ2SH6yWCMzBunMkPmSEVLtTXimsCEwg3wxgdw
+      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcJdpYVz7XM-eeeye0mcK-UMc_2RcfICVknAfD1SRSwF5K4V-rzG2yN5cHQu49wTLiJ0QNATz4QR2fgh4kobUOp1WbKOM0hp0GzMypFE5Fjxx54NwpCUiOtBwh0Tj0WfII1BMoOWpBF5loZXKZCtiJ537lhidBnCy23KE_A66SwryWaBGGqbPgUlc5e1xOgER0xw1ABW70IEdHLl5YLpY-3CJVuQR4isd2Gc5xEgS3xDCfgjMmEe5U50Saea-WZChWkL-bIbO-CKJKbAkCvuNlW2PPWBgBRTdi6ZdxKw3uD9MQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNLMNXfQRLI1YRPA_ad5QYojTeiqyoyyPErxU0B!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
   - name: >-
-      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcJ2nOZSz_CW1wr1Tw6knBahxkkAaxS42zgis4pIJmP8u0mITZmTNTLlas8qkmRc7QekicuFzBrKBc9G-DQJEl07jeaSveGfrcCPSktYsfUaUrEZf3sU7MSXWBo20S6Ta_LyWN5Qtle8AQV0lSsd47XYw7qX8poBgvo_vzqzSCLSoNwT3Ls4e-Owc0Kg6qRwlcNDV2ygg4tBDdm2Nypblc2jXzgbaFgSiPy-YBnf0fcLmA-vpfykG8HJMvd6ERnITL34eGixFRmFHcdp8lIXUTfDiQZlKwpyt17M48U2MIvrog
+      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcKsSkKRIKLmCkG6fOXXYilvmasC8iDnOsAxXNmtBm54Ji6SxaWImtM71zkG6-N6agDpFYSmWOU_-ZxUrBF0YDdjp0amvTkiR3wyFiAryXEnWEFO-I-Dez8WM0UoXyG3X3P8885xHKm_J2NkuJXTh2BVYZdOu7e9dEqP4IIyybVEi9HBBho9N7PBTmt_CmJ-eeYGa6GF6xN109rfWxPSl2J9zciAFmG3zWfpOkwxnC_xxgUlGOTa5vnh4SVme5WAemqPcGgfueUffZ7iuReWk8Heb31MoUqef305HmG66g7Dhw
     widthPx: 3024
     heightPx: 2621
     authorAttributions:
@@ -39,20 +39,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPDPubD_aWUNkLB7kYs_jnAYAQpHpmKMiNMWFRK!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
   - name: >-
-      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcJ46Yl5zf2vIbGq7VnLJmmMuvpr5PvqH8-VMm06KAdZ9vfZtzr3YYQMbnG4QQ6Ja_JsqThEcsxN9zDcVi-nPGNTq39Ahogx_fjGWL4TXVN0Ximy_I8zXwfXJUXu3ztycagnYk3trij6kQ13aYWzEDmeYdjsMagGGRiYoMK2o7Et-g8uH2ujurZPv1uwTcH3_6ZVa9FFf4q_OSM_Q3MUo9AcnpY9-CDQLdD6mpe3KmiGEmZ0DBu-KX_rXgaFX5ROZKZTCoTfcbCmI0ZcIIZ5fbL20ksmhessqUacl9S91lJapCEOFrLNHEtPVSyIXKS5UAIe0gKjFjoEjYueyluuTTmMAJr9Ed4qFqOWxZIKSbrIv585xxz0hBf3KAVfZOxV41bneDWqx3fTfzF_W0qhuQ_9klBKuQX4PSdA5ZOubJrjfgyv
-    widthPx: 4800
-    heightPx: 3600
+      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcIF_S3S4NzJNjzUIYWjiCLb9Grb6mVoToF3NeLhY1vLeyErixovLZbifx1N1Rmr6P5LnkRPt3y6np2D8WwgSkr9gTNnG7MPCO0tZExySfyhBetQoTxuYRJuYeE7BOATwsFeembBrIpjnhBA0CClApKdhDdcH-oqYU0OyJTGi0JrF3xjkU6-bcYv9OITVEOUYP1wLvt6sbHS2lzCIy8apt0FOYhek1v53I0_xFrgQGVG0sfVK3JK3_MiiW5ShhmBxpcwD6wJHP_aC--8KdatwA7NNIjUasSum48FnypLZ8byW1QtlMUEccs_DouM3lIFfMuFhgZAx6Juhg5xF1FZuwP17aqdTDImAQzXVHZGz4NqFyESKGJfcs5YCn5jbbpkwrzp4J44rlkI4ER001w3GC90luKxusD2kkP55DRQ371__A
+    widthPx: 3600
+    heightPx: 4800
     authorAttributions:
-      - displayName: Joseph Lee
-        uri: https://maps.google.com/maps/contrib/112418281184841803762
+      - displayName: R Mavrenkov
+        uri: https://maps.google.com/maps/contrib/106014210415761381260
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVEhGEMbMxdSK-kOPV0anhFS7YVAiCo2f2c0N3jgPjvU2wiOZ7w=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVV2cafn1cdaCrNk21NWVxcfAmtGEnFGdXdMH6npGZcr9ZBvxE=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwkt3soAE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwj5uCdA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwkt3soAE!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwj5uCdA!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
   - name: >-
-      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcILqB14bHLLaWeAh3cGr0YQA5gAMZjQI275IdJVIHxhrDVOMHcs8EkxMu_ct2lQvjel4Y7vYfCyTcUCN5woX8gRJjBrCDBoG0myXFY6K9YKrQo8yTuWV3wMK8IiWW7fGNiTJDh-9taQw6UYD2xRTp_dcD5GwhNFCy6bMzl4tLcqh5ezBOzyOuODhFRQ_kwE-nA5MRDn1KnWp8lSTPriQt2Fr2gqRpQ5_oVXkGgy5LSfYcyYQuZehitxbrBDB3XAOmdudtUsXezvjgEIklgWkT3ItQ7kGFk9k5e9AGMPBno_eQ
+      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcL0yHH3yhPADRklnws69VvNvm8dry2H8T21EahrLHPKWlDMLrLUUREjaAGd3gDcUxj299aW2htGDsUH5nF31352s08GKDyUVPxnVXr5qKCP8xGSsHqaod8jE28zfQRlI60qofzuTBvWk3aKljLhXRtpF4Z1Z4YCJsdIowbORI80hD5QkhEueL0uv4_5ALfJQfUL8yqq6uZpXr2iYf9fpHoGJXQOofEB5VaP5nGBxhwhotKIYqVlsO8iXmso14GrDXpLhzyyESs_rutg0WqLbWuj5GXJ1DU4ulOfmV0loBnvVQ
+    widthPx: 2356
+    heightPx: 2363
+    authorAttributions:
+      - displayName: Neta Sushi
+        uri: https://maps.google.com/maps/contrib/101004718400605852812
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUH182t-4WbxONm2dF_J79UWWJQBlTAT0-iXAaPfT5tzKrbFJs=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMzVt-2yMHG0OTupXQdz9vksEHLztqwU8GQu7ab&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMzVt-2yMHG0OTupXQdz9vksEHLztqwU8GQu7ab!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
+  - name: >-
+      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcJcs0xlAjh0y3rbXiB40sl62hEe7JUVc5YnfN4vPa8vB1NApahAnffaX9dNHpJ5D_V34z1CLMO5m7LwFLFnnAeqH1QbBpO4hH_uJ_jfOmuVXSy8n5vMpV7_j_Ty8h5hxMFNvYq7bJq8Sopv2F9apJRqkjino8Y8QbGoUxpaZCuKHmJP3oseAfMskD_VnLtc7rUHYAQrH3Le3t1Ea3owkPbooO6Mb9o-4BI02QBYemPXjWXY5wY9ijyX4EeP9a7SNQc_Z5ZMmCZWKxI_ye_up5lUEpSazxM0PWFItEIxK3LMXg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPimkCXX4bKU3aTT_7gI-Mzrc_421cnzOcZ7Gx1!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
   - name: >-
-      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcIbwnZp3QQpKbHOyBmvPZMi2WoyiiXWZzRGlP895fmj-5h_ncHtbhX_AdXel2svDBwUvrCeWKpnEl8KVN7B8qrESNnek-ThxZyCYLkmnc4Vo5fbXm_wMJEyF22Rg9kHODWstbTFFZmmFSVDiJFCSu3oNKlsk4IRwBGOH2_d_i8NMjGDeQa3XjicZJTCf8y4p57vKv5TftKq30WtuBMn8hSSJmiMnj70ZOECAx9u8nXEF3DykMh9euaf156cwbawdTehThc9gHqyg6Ovoc1TaIQkZFrZCUQRjp_IoVeLeHy0ICUPIGk7ybcpZRSe5DOE4RhOE95RT8q19NUkx0iAxVROHs4TCVs5i6BX7HYa53wmkXRwM4lxfxBHtBMUx68mVyJ_ssYWjyWxavzwK2h0MuFEbw7fEvysI03RezQEQF1zAXRo
+      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcK9UlL3C9kqTFJW1_tzDWtFHM0ND3yEaNeKJMYexjWKnz39N6tHB3PVWnAvUuU-Exor-8qQxZcO9q545J9wajH5_NhpBojHxhJ0HshWrZaJ1M8LLfsvSpSG-90qXSMzkWAVkTIMorDHQ156Csw2IgZklTm1EqGYygrIDOhatyuJftMXAikYZj7CtB12EMXmcUD2Lvd9LFdumIhW1WQ5WzZMkGjr9gorJJtGNG4-Ty9vuW7Ch_WkVAMI3iPFM27MRNBtZYSp8rnjIvjZimno8r1wHjzYK-DzAj4k7w60CoaCTl7nApqsjJ5-_53uxFnTv9iUCiplfU0glbleNsN2igXarkzoKEGmCiWWCBFAWJZUnHe5pDaK8xL0VecwuMeeSdfWu63aAgW3RUc7rhrH381qMmZuLN8M-qgvB4HgwIob2dDC
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPkp2V4AE!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
   - name: >-
-      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcJeWsjx-PixpA59vKKFUjr2lVXsvYkWkB7Q_CLmHWEk8-H0BHVK_Y2KDQ2er_LPOuTR39frlQ_doeNjRygBuZtSU80oMTFrk7DB8c1soUSDmHeU8MqBkRyLWAWbLZovJXgKYtdxBEjLnLbnLWZdSjxrXuZpK11A1NktAM3R1IVtLdOwQ54zS5_E71sClf0S6o_AjcTZMbmmT7uVx6AFxCAhX1TAmlG3jn_ydnxG7qQa1_EEmwylGQ4xeWv4vrHGRe7PZy71OrmwMVt_1Mb15AAIf5OmJlk5nmfdmHeUQDlOH3wU3k9iydZazOaEmbEVXVVZxQ2jl0VmfMaGPp5G34GX5el6eZftoWLDpxTJyT_u3MuTOy1exkD4bGr_907qaIPwGKoZcUDiWuuR6VKMT3bWwZde7z26de5kr4hcDWQ66g
+      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcLn2pJt4YEXouJm-rQlOiaB-A9TbEJewGezwr5GEReaZcGXMF0aAm8dKJV1AFL1Lv_SfZpenzBRxhbNtpOHrqbv7e0pmIvXTgXA96KoOhfHN1HgAN4dykCY62AHdDFkTz0KkIBa7hZd3oSKlamoNFym1HmPbT_HzVOHtp72oC9IP-ov3Faautujz5TUM0yiY4Tw20fb2sgkd6xJ-RUK4SOdCltAjy719XKsWaavajbqKroCVaEnBf4qlMit7Cv_TkL8Hxllr5PCSre9_n9vdBwNbxXhwVi_dimspZmcJwFJoCIoRYjNgi0JRUHVfVfg2FyW4SZc1hIgva8mkmp1THaPOK1WPHvHNmYDmp1-Md43XGjJlKT5ETj2SRGMiZNL3i5exy59fEtXaH16aBXn8scxbZVQQntvLvP5gDrqJiZahA
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -91,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbzraaBA!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
   - name: >-
-      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcLpp5YLjGWLMXWsLM5F4Z9t9UjQgWGzMjHHknvNiuakUSUAdxfqGLUzF0PGC1_WKxazDNjM3LHBlnq13kI5mGXiiq-RMYbOGhnCz_uQ2kpi-41mJ18H0qN5sNW9jes68JFVNtHur-s-Jcm4WopRViz6t5qjtZWaR7OqegouVvuyRTEzfnZpGdWtm8WPgd_IETHCjeg7EgW6xnV1yAoc1WjsAuCkHP9RMBRBzY7tC0xv72-WEDTfN7cmeTxZ3ayKjc9DHPXeWHJxCySqrepD-W7pr29DC2_nxWuC-sZPnq24S_fxETHR_eyHPc___dyJPG5AZnHHMoCZQu75_f2pevc1lcKRinWnXHshWW_jhtg8pDWCQeJVd4AijFUmoJxKpbu2vSMGTPArEfxXBF82iAOof2eAxSF36H27M6RY3n8
+      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcIoF-PQZQTS3m62PDFxBbmCGW71EE2dedAszEjEgUflwEXplr1MiG9wQXidLLgJCjsxXDKk_ZNLwYs67yaFCNdO4cd6FtUfZAWXB1idwZYSp28r3sLOwLibvjyTkFshwoS2EETWeJwCkoTOujrZW-AT3XiQTF6047RzJ062mFLTk4Wv13ZUS84zM-7qcAW2_VeTlA9KBDYa3Q-05jLw7UnihLQi4zx9YuCipHXjG4geOC3Mw5QL0WBerxV7ZP83qtefc3VaBMkdqZsFB519SjV3pqIbwcDj4NtleJnBYl6NvZG1mcGZqo6ipzyJtjphhnVDN_S1ubozM8v6OsGTgSna4El2y6ghgYqfMVX9S8gL6QVFXJYwmGxn8WNwWtghlhMPTpi3OAaV2Uo0KROolHSQSsEq1NerhJplxkOlWBQ
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -104,20 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7lMfrZg!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
   - name: >-
-      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcIJ0qWHcXatA3-Q0TCqMPbdh6LXto33flCgiGy2sGpS26b2AR1m1coMFJKUhF5fM9bKpHDLeQt_cEXnP9iacqAYiV7jmaWylkMVAfj0RSiY1dJIp3OtuURHYu3RlwCNbaC-SUqkYPKXD7iqN7ooIY32Jurj0YCQtpwE7tdfjzMxs0Dw5laR1gwYEi6PumH31TuWv63301WxdaQyHd20JDinZ39Uef9VrptR46P5XcuAnE3DkipoRNlFAI4dOoTOhvih4dGkj50r06wdIwfROpVgEXF2gH22vPrd-I8gHq-xGyQVjSs2cFQbpH0awBMdBePIq1lbzSR6aqxEVqKQVQkIa-_mRTv0dlgTOpOguUAEhNP4bosKshG2osIO0fuMA71KXg3X7WRxXPaFagil09Y6izViamBsy6X7mPw5r5U
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: ChicagoC시카고씨
-        uri: https://maps.google.com/maps/contrib/117569613909708702399
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWa_dkEKpF-2lHQQRrzA-CHYzl3-HEP-L5n-ulHqDOTAZwnTPYz=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHoorpZQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHoorpZQ!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
-  - name: >-
-      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcIB3xS0wHs3f15xqMID-RmmXcxEH64tqE3gzbBOBNXA6s2MFk16cC4PT2nJC5mWmns7I5VB16UWE0iMONntS9XlkFWarm134QPLJEWqUQLC2NWZccDgyOf5Lh1qSrV8YJ5dcSxwuPKxJA1My8dL_I1rOSG0cdBrCaU34dgUAr15eEnsq06od7-Fi8HQ01PeX-yLqW-hXvUdb9ADY6XEER6Y85pB0roWKoQWQFLrjROyOWhXV9Ldo2C0i410Ms8A3SMcrIAj4k6cWgvGB9nRiw5cySqv_DD8Y0Sn6H00X-p5-3zABBD9P2tS1fDuuCC2PQ0dgD2jXx1HeeKx_-trXPEril3_n3VtFCRQKjLJhk3CkZEkfV5ECMnFxvY4Eb49N5do9mjRVy5JxqZHG1DCu6MsGbSiOVRgwEG8kiO54_P-vYhI
+      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcJBxWdylbCZFAY9xb6McJiHUPB9n9x4ciVwDEWmVHha8oi5wFqCqGUwWVFcQJqc5fsNS4o3A8f6STPmpJOZ2ruSy4_k--p5eQsbZFFm3x3ZK3I9Or62y9R2wgqf3TiLfza00xmzNLfxD5p8-aPXYCs4Syl8YISh8SJ59ljDpp_Jnga8JncgEna6xOKpRuIth8nEIjDw81ymhAfFcbkrq3W2KzyM9SoyBRNFtXAgH989VYN4R4ll8qTAm8gFD5U4t0_9JeV4qWkIeCnSxIocHWJrG6Al2ZSCFkqgRIMqLAFeo3loWqc-MfMXnXxP4uPCLYRn6__EFfJBnYQ7OuI-WGxcmBCPO02fufuby39QVZUmrm_VTxM3e34wrylH9CSUw8_ThBtR-5evAcSzSrNNaaIEH_GnJ-D5XbifW7p4lGzWGw-B
     widthPx: 4624
     heightPx: 3472
     authorAttributions:
@@ -130,18 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnyo2A8AE!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
   - name: >-
-      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcKCw0f3IwbMmwej2sF95dyrWbwkt7skV1Qwx0OjgC5CT1R6f6ZMkstwPQVPaxf2seGwBsy1l2ErfaWTPqkdKz0KyewETl-JzOdGYC0OkjgTe0HTPbjW48FkxUDKeitMbEt11Lu9Gi5WOgTpWEK_xrZQqI-fYd4Hi-8GamNv_qu0G3O_QRlgPGVezXABd2q1zt9kR0tAbgnuBeuZ0DiCyiGQ1RToJELgot088Aj8iYg-DgmcwY6ipBY8tz4Xm8G7t5k1GLkF4tFl2lWO_G5lWgJsXXMttiJqa-Reml1F3srWRg
-    widthPx: 2652
-    heightPx: 3450
+      places/ChIJVSTVi5zJD4gRFI6zE7OR_jo/photos/AeeoHcL08fvmacB9G3ISvbyJCCDc9-pBUvAN-Dts_Ak5_ZhTGe1JC6hrQw1usCcKnTFa_Mc7nqiTZ0IbMiolqplfAVqGnxyyLpJd0PzyZlfW9taE4Zt7noTX0iJz7TmpvErk-Ko1w1A-tpWENoMbpBaGTZ5KoQxwU80ET15IUUBt7iZmB0fOO7PwsA1LCtLT6I5b9n6UmCLXUUhJuSVo_fuPj8gCc0VO1RkKJ57VI_PS7CJKIfCGV0ICCK-glwtJ-RJzr8u50YHzH1PAHkS656fH3pfgitvnCvNIpOThThMmufMioldU3IUMUHVEvtn8Nnl8m-sSRQGJPRnsC_ATtlgWSqH3hrCjIy2yjJsD-Vm66ZRV8FjVa3uiQhcOj1F-afGncgld6myDmmI77pSdQKgyyqOiNLy0xZqYCF_KbcjEO8VsTg
+    widthPx: 3600
+    heightPx: 4800
     authorAttributions:
-      - displayName: Neta Sushi
-        uri: https://maps.google.com/maps/contrib/101004718400605852812
+      - displayName: kyung kim
+        uri: https://maps.google.com/maps/contrib/110135555502598590101
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUH182t-4WbxONm2dF_J79UWWJQBlTAT0-iXAaPfT5tzKrbFJs=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocIK06IJwh9VlsO_jvOF2Y-vj6TqXa_HHGPBc2ilrldgtqFSGQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNBanp19xdgl-5lFRq-DxhtC4HZHIWKIq_xshMB&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbl7-ecQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNBanp19xdgl-5lFRq-DxhtC4HZHIWKIq_xshMB!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbl7-ecQ!2e10!4m2!3m1!1s0x880fc99c8bd52455:0x3afe91b313b38e14
 address: 35 S Prospect Ave, Park Ridge, IL 60068, USA
 street: 35 S Prospect Ave
 city: Park Ridge
@@ -208,6 +208,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

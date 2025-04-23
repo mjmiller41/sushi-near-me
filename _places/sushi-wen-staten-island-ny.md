@@ -13,7 +13,7 @@ description: "Sushi Wen serves delicious sushi in Staten Island, New York. Try f
 place_id: ChIJc7n80ghPwokRLdflrYWY0m0
 photos:
   - name: >-
-      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcLopJaOieDBPX4dV-v90JyP-4fjpz1Ow2CXQSsaPhqihru2TQ-XKoFX3pD-J6KtJAGwdif7ug-Y2468F_OK61N8B6L_20thxhGSh25JUCudg1QoHt9NWTZfgY0HOqcstl4kUve7A_yXtB0I4aHgngbwe4QCJmI9ryiHgGeADoFXNBVczkJRkaYhumSY8XG2YHTcaKQZ8K4nZKJ9Wa8aofncENWvATovwPM98LBvgE2l7kODI2Ok7D--xBjn4ZQtJw_K2_93Rv79V-pXcjOBvvPJBQOJL46aCYZLL9iN02aC2Q
+      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcJK0bf87mgWEmjGlbXgG1G-c-DOo-zOMSnqrPOKR5x6zJq-rxO7edFe-zAHbt1CQDm2iphcOj8jjdGAsoXX4TFt-N4LPWTxfqlMlV44wyKI_nheWFQqrLC2ajpYXnyBvmP3fWMwKo4veuosfaKZ_4C55AkZNihZaHP-REEbNhVuTLSdMQxY7vMNMRmYW4rF-Gy_pysbqNcXlgD1KH_3kbS8wC4-2Yr98G3C7ijDhM2RK53SCQTaCMhiCK8BiFFENtdBMtKEPeeGlGutjmcVgpNRWx3isX62JIfvFxaP41EYDw
     widthPx: 2181
     heightPx: 1636
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMbNji2wU4DXpJYjeMUHUBx8YwweZlpCZXgzt0m!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
   - name: >-
-      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcLhc2Fpe7qoVS1Afj1qM988zPSqPkbABBe9U5duTtTaVpQ3xynsdH90fD-BAJPU3oY_pgRHihMSkEutB0dARsh0BpljLq4Ylj3m3GT6O1lSsKVNvcllJ5FYvA-vimPW07b7Vsn_lgPEV2rfSc2Vhl70TAxTtIi9v0uk9OYvkKm6Ar0rS1DA04ludC9gi35MirZan_6ARPO01To21dL4VXvWp7FpdloToHScAcmkWAwCV20QYQcdvG31fTzhj3fy1mAutDTJQ0VuU1NTphA6jBUuIGsCaU76ikBSgLAvh19kIQ
+      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcL95Vq3N-NWSwNDYu_Bvm8HF4D6gimWz6AwUU7X4yXhxEnvTZmd95SRvDgXM_W_mFa6lTy3XvXhErM1OJrR43syj2nhycf2ILmaiHBZ12Phk0UMhlyVAlGHJIWeXjyGoaY7PY1rTcU2cSU4w0zOW13ck4uCZw95V2NidjZGm1cbwrbdxf8UygE2-h7Irq5pAECHKRE3uPFxVwDo7nHq1Svza7dT0kVItY6-GB0aFrUagnxVPYzYlkznUvObKbLL4a_Cz-ral8mnzy8cLQkZ8pLhhEhZ9pKoV4Cb9MSsZXnoXQ
     widthPx: 3024
     heightPx: 1702
     authorAttributions:
@@ -39,7 +39,59 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO5evT5F53nQwPRTnGN9_lL7x65fpsKlU0wdfwP!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
   - name: >-
-      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcLRYxcT36DxGfRE9I0x4IN1_afDlfSC7AKuzc1s7JXFgp7UAMxfjPkWo3CkoVxB8Cpac06ZrBUxFvp8Aji-3VcuIVE9uygKfL27wNpi8mczDVwvixFwcKWDasIDbmiXOQWrJniultJ-fdpHy37O9KJOaBNNGPJSW5Wx93jmCevIbI8B2wGu-hH-yWcb0GKByTHb13cNai-J_u15_31Fc1FPNtNOAJmUq7LQ4jP4n4fxLSAlacUF_GouIwWV7Bv6pMmQKm61qMlntBI133JZfY-ZGXo2wsa2kE4R_azsXYMcaA
+      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcLEzSmo_fGbMoDNNL_smxQYu9zVmPxhAXi_FjgtsCRGj46lMEnoPyGyHf-uYZf9HwrSmqXcBZI5mEeZVOHXJXyufcSrM8TwwOwoTEo7AEUE5HyRx6f_ihclyl-CU8I9_B62UooPsyt4gR7Ek8qMGv0Kl5UMisw9ErLNG1-QrVzZNK8C7SUMsbAQ4IGuFrEHjdeo9otosbBUGNAVAntFcS_5HmAppZxSUAc137QlSBNjNzEqyFYQwrP50NAQIXc_MbDbIl72DXpCatvmJBRE8eawrgU8m95vhq37rbcONXth1A
+    widthPx: 4031
+    heightPx: 3023
+    authorAttributions:
+      - displayName: Sushi Wen Japanese Cuisine
+        uri: https://maps.google.com/maps/contrib/118355697631625365389
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWchQxQvFeaemf6AphSTcZ4WhOo_ZawWJrPIRUDlVwgNSZDcV9X=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOgnRRoUp9F91yoAGsdJZC-v3RzkJjyWXqAA9vl&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOgnRRoUp9F91yoAGsdJZC-v3RzkJjyWXqAA9vl!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
+  - name: >-
+      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcIK1A5O0vk4k3plU30vBZ6pgrrt4RAR9W13GnazI_6TNegkTJduserIT6aARzeGN7L13R73thR-a0jddoRiYtaz_DVxPxC3iLoozps-_Zq0zwA7D2tz77WF3j1YORVg0sbI3vy2TqRtVRb7v2eqtma_-ztphs5uWTamIuh1ZCXoS2RZAuaWUUguWmzowZuDXH4Rm9VK_CV10LWy7LKhrwMa8dH1GJAOLEZuYxj-uHPK65_Ja-pqxh3TADj8sb9xmB93Ziy1fk5PZ7i0hG8TzVe0bKWYnxVA77F_4h2sDuzyJg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sushi Wen Japanese Cuisine
+        uri: https://maps.google.com/maps/contrib/118355697631625365389
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWchQxQvFeaemf6AphSTcZ4WhOo_ZawWJrPIRUDlVwgNSZDcV9X=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPeBEt3hTWeZRNOjGuH6LBwWYR8YwJN9FYzplST&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPeBEt3hTWeZRNOjGuH6LBwWYR8YwJN9FYzplST!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
+  - name: >-
+      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcIAGDtjzsR2zIlT_J7D3Fj1sN-InBpbLLU0ofuf_JqCLH_mjV6doFqKC909rd0PJ7QNDrIZKT-pyMzn7jgW5NzMZ8J8c3p9xAq4eUFGtVtcUPz11rg-rKF_0Roxd2uBvKq6DsYw5ktgDEq-Gm3_ZuPWNSRrZTGplUbroaain_UMG1kHmRUYkCdEQxD_ounZkce6Xnx9gC-ZjyEZa6QSQ1pcRs-Ds-YyJxrcNhDBtTFi46cEETOS62A5_lBA_n59cd522u3SrsKOa2FWZuTznKoWs1kxtd-Kt3oXCEL2x2zvDA
+    widthPx: 4029
+    heightPx: 3022
+    authorAttributions:
+      - displayName: Sushi Wen Japanese Cuisine
+        uri: https://maps.google.com/maps/contrib/118355697631625365389
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWchQxQvFeaemf6AphSTcZ4WhOo_ZawWJrPIRUDlVwgNSZDcV9X=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNMVY-nIGkMCvEb3xBDVQ5JxLCpSyiu975mlQDn&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNMVY-nIGkMCvEb3xBDVQ5JxLCpSyiu975mlQDn!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
+  - name: >-
+      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcJzIkzNaAcggZmrJq4-6ysclK_Fg4hiPdEyM3aNRoFcJlbp4BGug4cIv8iwjEUl0wRQvy6rXDyWU1Xe2XXBnVBbjNLz3MxX-2QXLkSZiDAzC-Xe3rj1wqTJ_9LH5cc0yZl_rLRQnzI_VO3cRvm-T8rUuhvSfO-itk__KAQ8_51FnKhiipA4a_9O3oAMRL2ut1DO5ADXF5mCgkPpgLhzo8WFlPcA7LhYHLuTWxF1Da17N-tSpEye-4lS2OlDSmWZ0bgl70S7P2hO90XmzefmqU9R2vJrAJdUtqjzeHTSv9aFS36YocdPw0UHYo8URY_0rPtqMp-2H3yjkRLHMwB9IJBHpc8Ty9gPGztv06LaDEZTHGwIWiAkNWcZPAoQOutBGgg-11f1lgbAN7C8f0OU0lfBM9YU7uAvFg-TSktwtpx7m0Ty
+    widthPx: 2210
+    heightPx: 2433
+    authorAttributions:
+      - displayName: Irina Roskina
+        uri: https://maps.google.com/maps/contrib/106431494810553582488
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKYhUwrSERRocHNWQ4yW_qmAXymLihgpey_KVICBYi0-hu_lg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICppNr6wAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICppNr6wAE!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
+  - name: >-
+      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcIRBnMeQHY3l9lPLyIcxBj2_c7ovoSsb7vp4dTzDsZkDdYybO0ZJGspE3sjclzpuv7SuL11RIl0ty0BSOuBD4svTUmMChHLg55RetpSxxcGvDEVEkcT4wbgXu4a7OPdXFFoSzF4DIdQZSo55vKmUytjJRt0aJojWJIyBDPpUMx4xgBdES3vNZ3jR47GHVQkz5LVPmZ7B3mozr248lN39JFbsFqwnWxcpUDKHYsN3sE5YcKI-JSRrAATHGCO37OBol7ioAEHs_DMv5RLjFwLhBkjoDyBWSKsZIf04-sWa11-2g
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN7gYf8GNmN3LcBD6bwm44oytEf4ZXxUl7nZooF!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
   - name: >-
-      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcIqqs26P_DqtS9P-8UU6roaZ_e3_e3swe46ZQGxZe5nYU3u23OK5DJoJdNX7yYJSzvQ7JZ7Hu6XzT6uTM3iUYt2lH-c75eVClBTQmMpB4dsZOBqVJZo4mMolHxtdgVgwMOaPGFCNogTrivF_gOW2d_xEBTAgv9I9ZswwIA20bxnF5FjeXP02GwlJjXollS9hLqS7TqoWUM-coeoz18ChT9arNqvoeyyyHsfCd6kQHmLbNG7eW0C09vyaA56H1GI3sxw2YT2N-Ldkewcw75jHEgk_n6cu-8DLE1r-zxdN-T8sVnFVxJvej6vgTAoLUku2GUlokyVuGHAyZhBmUQEVivhcB2oOZqNN51TFrQ6laOeJhvOweOexHBBq6hjv1lsLuo78gprfr4UPc3H95rR0F_Fn3J9X_DN6oh5v2OZVy7OiCU
+      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcIfy4IVdjzJNhuYKvnW0sUJt5xuW9MTpzX0knesvQaVK8Qegu4PB6zdbKEr_xzl0a1wBnrJtia5ukSitPVDH-3CzuV-Z_1QZXiRiXNXjQY8qqoke4E-iL5IMFViRrPnCaiEGPwmvLg4DOrz4qgmX1wply2YmJVWKo3BCA1ytia90E9x66P983wXGdq5zG8d9jx8xh3GNuv1_gQ3QrEpwwTOpzBIGFW7l8UnhdfK4hGInHTn3k15lyqGahO8sM6CUAH80yaj5o-ISeeOpcLQeGUBndbyoYH74lbJth7vWjXve1vIYCD-gOMJz_Vykz8WTwwIl-NzqEJkAEW4PGhR43giBW4FNFREh4UXRsd_s10rZJQgagR8PyB_sgusmbUW9yXzJ_WbPdz75JPWvqa3I74BiEbIy1Lkn7-j7uvy5qDenDk
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -65,83 +117,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh3YfRwQE!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
   - name: >-
-      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcLdabp2u5i2Nv96o2fT3L3O6Uu-CGOfvYLhpB_JfKdBohUOoqFpKNWHSXtYRu6Hwl3AtYQwFEFLIMkyO2xAMWLLVM2HXZ7lxJ9aFtO2qTC9jOhh4NMaLY6U9OfzMYUfpkJ_SquHWt_BXpNT0zKL1y2Dy_OA3OgUsg3xKA52WXrBy_a2G8OxfaIzyEu0oSHLj75tRCIbFQFyXeyd3FS-kIWQ6PtipakhEsSiKXhJnbEVo-PLhSPg_Wr9-TXpVqhaNQBBQo0efRaO-o8B5wH7nuLE1dWNhT-HQt9dmlbhUApkqg
-    widthPx: 3018
-    heightPx: 3018
+      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcK4FZ0FKo2sgMVSJ01kYtQPEKiy_5TE3Ic5dWOJlTY-ocYtJJYXUM344xTTKPGLRrUXB6VYnSbsu8YwT9AJKYGrTcTjRLsBkDRfRsMNTEn014FivQaaYg-6k7lj2QHX6Y6ieKjFsHnxaWKDAzsBfinsqaVWePocyTEY-csisLgp55BGTWIvmL1VfP1OUOkHyeTM4mAgu8YDISlru_g9DsE2qZt1ARjOctk2VKK9wKJca95vBPNwFzkQtKCCADr3t9N7kRunQHDboQ0LJC4RIeTt84uJdAQcOddmv2f5KjuLSA
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
       - displayName: Sushi Wen Japanese Cuisine
         uri: https://maps.google.com/maps/contrib/118355697631625365389
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWchQxQvFeaemf6AphSTcZ4WhOo_ZawWJrPIRUDlVwgNSZDcV9X=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO7FwF4wXya-8GTwotjMIkh-UyoGdekPJuIzvAB&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNCtYOimGLqk06Ga9dtvIPx6VQbiOqAdTPbJNDj&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO7FwF4wXya-8GTwotjMIkh-UyoGdekPJuIzvAB!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNCtYOimGLqk06Ga9dtvIPx6VQbiOqAdTPbJNDj!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
   - name: >-
-      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcJMoNvQKiKMyZHNzOLF-qXm1HcsSv4nYuBR8DF_eDjsxn54Q2NwJJR8iAW9cJ3D2exdW6Dq0yq7G9cJAGpIriHD4VevnxSEM8GWqztJ_TqI1bDWsv3BU7jbCAYHowWWhdVXnM9oNeQ4khQbSXlSWKnCTHkJgG-bShHl7z7eLHHBYN4ehpQKmpiKVXQ5P-dOyJlNbfyAVOB4L2u9FRDjvxPr9EiClf60h3-n_-12r1T2JE--pOmOLs5vIOCxE7KEza45VB-A8QckiNVf4iX5VG6JhqNm1JLlinhTzqUcPLoAyLRS3tr3Ax9OpnoN-hOwsK0yMLs1cPXWBE7WR6cITXnVVCcCkdtYrhSH8Y2j8shHyAerO2MAQBxrhYB2QLTAvtX-fyUqnxlBXoXAaTe8SVDcsMFluLLp0qEK00GQKWY0VJsh
-    widthPx: 4032
-    heightPx: 3024
+      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcLMJvN6u9G45Cfw_E5xWYUCaintRW2sp5H1KDVJIbIbREGNJ3zgXghfbEOceEu7dvrSxLGC_SRmlFmcv0XV-Tp5j9Hfwqb8hyT8Vj99TSnTo7jAqDyyd35lS61m-N_JISX1BsNppnYMZ68ncTK8Ql-igGEXHlOX-7YvFVDVzNDfcYo1KzkFJS3_j4L-yX6PROIKfcCr38R3OLpCAgNPdXd8VVDgpTFNTsnUsjivrL45xAoGhLZ4_M12ZLBntS6PnR8nHMmCH7vfWxE7oTR3kvn_Tv5R8OXP-gtixoDeYR7MAQ
+    widthPx: 4030
+    heightPx: 3022
     authorAttributions:
-      - displayName: Anson Byun
-        uri: https://maps.google.com/maps/contrib/103108947755713900382
+      - displayName: Sushi Wen Japanese Cuisine
+        uri: https://maps.google.com/maps/contrib/118355697631625365389
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLlU7vkLjexrI-ga_tpn74PeIfjRjJtjk8A0KB-Ax9eNlv1Cfw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWchQxQvFeaemf6AphSTcZ4WhOo_ZawWJrPIRUDlVwgNSZDcV9X=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfjJe5_AE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPeE9_MVE8MRc5kiH6DgKCJZD15K6-3tCft61pj&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfjJe5_AE!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
-  - name: >-
-      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcIGeiSB-R9-WHdqDFvzan-Aj_IN-JQAdMlqtGT-rjQAxyG6_MOLxL8VPuthmvZCf1ltdQR4G2KX7Cuw4SDdUsGrKJwrpeqfwmmIHNVVXYDkR0I231uMcX80xZZ2qlcHzlv4JLmOGIgNNiwV2LdrrysfT0JGFmbh0lTXZhqLzeG4oPB0tND2tDrFt4ohkwP45cJ_IxFDHChDRsHo1OSAJO4Qy27qDsoIDxXRYRDo1UT6OStPJQz4gMjB_TC4HNB4bJEw3Ju_zTf5jjlVRvlKesGYnp-FesA53uPlCin33rJN7Jbk4rCHkjJY9YM-dOkdzZxikSTTHfijnwcnMRPHHGxLMj8G8Y6OiTjXObt1gesMCbjoB7-pC5AvUNZQmkdqoVErxkWOjpjAalFM2RQWiFOAkRBEBeipd4D3wMr88olX5QHK
-    widthPx: 4608
-    heightPx: 2184
-    authorAttributions:
-      - displayName: Danny Gotay
-        uri: https://maps.google.com/maps/contrib/114085392644961491865
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVx4j68duZzxi1awQnE7AZmOqluhINEDIIN4JOnDKYXdFDfP250=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR5bzenwE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR5bzenwE!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
-  - name: >-
-      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcKoNN40uA_k6ysBQY9cqQKoFtmM9lIGGkidekjZ23tbG_cM77XsH1OBEz4uB9bI-17Zs_VxorEEXomKZjKheX06u1BZ0YiYNIAarFbK47SKU02y4CjaYooL7nTheXg0sk9MFRyYEgDsr4OF6GSy4w66KmEFYTjEMD9kduPb8_q_jdbsYd4GMNPRcqcQ1Gop78a6T4KvupDzhcsUHMyyshtGVyWtAVo3r9EKOtXClE9hWn9po93gYVGIqd4fKv0Bb4lkUK_Vy8wJjDY2E8vTyhcwzEdEgPZYgFm6q5s8hFjeJNAdLNTJ8-lwMR-uPlZd8Bm-P2VHExlDfpPyiWesQrw5ixwt8Ww96qxJL45fml69XUFQze3yWQsQ2NeAOFui82CHGaSWHtWJxC-41OONLwxro9WaVWLJmBYqPVGtNw0
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Kseniia Boro
-        uri: https://maps.google.com/maps/contrib/108442945132269227781
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLdGpWUHWtDQH59i_PpieEwK_7_hOQnpnV0aLi4as6QVanVeLs=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJ6ty9DQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJ6ty9DQ!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
-  - name: >-
-      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcIN_SaqSo1icgdKsqt1qbSdz5laGWRFY8V_MpILySS59iXNTUNisbs2yNygYvaIO8aPz_pgqkyLxAn7WdXafAHsNPOuOSzncjHcmEkYM2pU_WWIvjST9U0oRWnDTsvo99wDnMECo2Ew-cy6vsCLxDH_FiS3WwQEhptEb23EHeL0C9v8H7p6JpnBpYzLFfiZxCAZJhLbS7nLbQ6d_btUCyIyceuoM-uyPn1R-du9z71NlfL7QDcgpr2Tfeo582oUWD5K6FBk7cVS0MtE7QqvJcm3YlLiucCZ_Y7HqDRSn9vQE76IsOta11Wc8SA1069Gu0_1aBEfB2IE9TwiM0NcjxI6fTLIqAI4MyLgwrtHuu_xa5zs1EgplEIBlNB-LzVFUqYHh95is9Yh2tCnOoSFPeNnPaLw5ybaBKtlj8Z4HqiBC1S0
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Nyree Martinez
-        uri: https://maps.google.com/maps/contrib/104890443386734037255
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUzsXn29abs6Rlv50cOkpgGivoBIAQhCl2116Qpm7hNOQdnbNqS=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICl0Ini-gE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl0Ini-gE!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
-  - name: >-
-      places/ChIJc7n80ghPwokRLdflrYWY0m0/photos/AeeoHcL2xKewCFCf-Zl-GdS9-R1LST9djmpiGifu0ty-g9elaPnLaAGJJ17-R0PbkVjyavCM8vUNyVBi8FYp4kRL6O9ndqQOI5mRSXniqiAvboDtzAQ7GOFSbp-BmZWlH4sFSkdXff641iXmlWNk-5g5zE2d3M-D5ktraJZ2QbCrko-WS3r-NN77WhmFoJWZSV78_Ec7Tfb_R9bdVexlDNEJm51lvHt3v9-eGz3cHowbSQ7ihO9pVb8Yr3WT302yWPrpdPijpGvrp8vMBWowYEei97VTCzv46du9bMNR_wwPVm0U-ojhH40QH1_JwalZji9w7zghuuhr2yzd00QYl3QJhvaR4fozo8BsreqaS4AsHFgjF3mhMVmqrWxgyPePE1-0FPGNnZid-stANL-RHM4ED3KExMdramDHOfA5Q02lom1aBpDV
-    widthPx: 922
-    heightPx: 589
-    authorAttributions:
-      - displayName: Rey Davila
-        uri: https://maps.google.com/maps/contrib/104240219701968268175
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJIm_PK-Pv59sZ5A1Dwh-WgIO41U70y703CgyH6hYdppmBI2Q=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpmY63ywE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpmY63ywE!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPeE9_MVE8MRc5kiH6DgKCJZD15K6-3tCft61pj!2e10!4m2!3m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
 address: 856 Castleton Ave, Staten Island, NY 10310, USA
 street: 856 Castleton Ave
 city: Staten Island
@@ -182,7 +182,7 @@ phone: (718) 816-8279
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.8'
-rating_count: 239
+rating_count: 0
 website: http://www.sushiwenny.com/
 reviews:
   - name: >-
@@ -401,6 +401,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

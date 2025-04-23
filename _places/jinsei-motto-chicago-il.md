@@ -13,7 +13,7 @@ description: "Jinsei Motto serves delicious sushi in Chicago, Illinois. Try fres
 place_id: ChIJHfUX-kstDogRvJwilXIwCmY
 photos:
   - name: >-
-      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcIywRb9t-QY9r_-hIN1McAJE3QG1SZt8Qg4LhurtOPiUQkJocsYfXHDbtXFKLZDb6DHVRVFRF1CSuPruypNRN-LE44w0VP2WjZI2Aag02zAvIEgvbCLiaNrEyYpg-EA4672jog93ncaVUyY62wMWSUohbaztHU5Wmx9k8-C5BwweZqyAXD0uVKDZ2PF1Nt5db9xozw5bcZmZegi4Pf-Wmp_M4-HHSn7a8-PRtoLV_7-aenlgF7RVqqfjBLTdkmC3L4ysI6VVkTJeuJolCw4HqO10FfMnylfcaQgelMTnLYpQ0hACj6SdXyKakahwT-7lzWigCWcs_3Ci_bKwdcbuSfdkmbFJCsuWGQ0NYQN7yIn4JixJZHuYz3m6ZpNeji5yK1dxyFR40D9yvRJC4tmaFuoWqtrvpsdfnLpfOjAQ8FTggye
+      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcJYyjs_TYc8UF2VZfkOzDUlWV9up2cTjbJREy_0DMgshjuqXsH8TvtmO-wBep8i77lRqmH0UTdA6ue5O0P22pDD7Vwhn_-JMGfipDzPEeDbTblUkMcZYrmEIh4PYD-BeRoID6pogj8mYc5AcjAw3L_epma9RFGiHxhgzD8VyU9dGbr69r22JPBmyOF5cj4NSxBzKhdug9G8kGA9py26NZzkB_26xNnr9qPu9GKtckEihOYYlDaAxaR2B8NQFatPkkWQOqUMTt-kySTmVAxT5R36-WlDyMduO8XFfK1IjNaCzWCU2QUvQsqomDP3GxoO00c30ZjELLfhSsWlase8DPUAqnM0G9Uq_nuWp9QUAfl5pzwgPNZIdotVaIjrXDY72ZF0GDh1CbcHrl6X5a5_iKbz3Is5PmmcSaQ70KGWE1aTmKwX
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChio2H8wE!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
   - name: >-
-      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcI0BqgJvol-p4sAsCZTxEcSjMXHaZUlJFrEjRvRqf0Ux2rifkysEiZEdIBd-xzHGWfPo92SsLwbSeJMc2mlPrvnb4WlFCzP-yL8b9LsvnFl11dA8X82pgjpQ2jqyTVHDP80Arb1DjM-j_NPXgNFhb4f7pA47gJtW4rCMZxJ7IicflVih8Lwq-XmoECltywZC0Fhk2iyFsv01NhZ1kbrJS5ocdAytHvmyesCZ0jJvDmAghST-tZKeEabg5p7WTXFOlHzQtcfV1TFeCv-pSUwgi3J-sSczYQ-QqP69Nv7fXUG4w
+      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcLXwICx8KslGK9xjIV3iE8NCPN7psxpXC_lbPqMMXUftZFSuTEh5OlF6LNmCgVrKInkYJpaIeV1s5nsgj6BaF-o0QdCGttlnjOY7Bdec21gfpI34zoDhxEca6s_Cd8C_ECUAz_Obk6UV5tcXGlhMiCx-739EuXLg69nmEtLtrKwZkivGfnFoGsoygLvAlSXXKGC5-mNj4rrh85EvfqtoFO59v217PfGvdZKNpx2BombvgMMzLEi26jNgdBZbdyalBRv_CKyyZnPpKweld0vyA-knbm0iZ1eP_qJxqRfohcW7Q
     widthPx: 1655
     heightPx: 1090
     authorAttributions:
@@ -39,20 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP8_Olu7n33WGKNKEtlB3oPLuUUhiP2sma-DNwh!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
   - name: >-
-      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcLY5Zn0RbuQ02KavgoHZD57eqbjV7VYly0g-6k-11e0O44_7uGTfAHLT9W2LM-yucNuenSYbqkPBcAZvtBGZtDuvVbHm5HDY-Cnpoy9EEKxgiDkiRH_SnCAquLj1Oxywa11pEAhdpmYNPdP05M8oIlM0XT-SDfuUgivoa4r4j2HIsA5GmCiIqaJ_SCX2G2D0BArHiERhqIg0HodOYKfc4-wBOV2W5W56HIT3ahcK_luNJWCs43PpPGGnYT23aLnoPx4I6Ao_SMQfcw401l-h68X4Dk4tT3WQHejkt2r-Kn0JIjdeIawAqz68bqSt6Nm93cc9Gb4afLP6ea4ubmof_oEVVBKsNFKIm5GS3x6sEjEndtCYeZyy6XEhCq7HUW_jTm3jvTtSvnify0i-WVRkUaO0E5fCKFGhwoiFJ3y3ZY
+      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcJY2N8lpVZfwotJPGhZQ42tAysPCA3NaSbAAwRU-OiNLKWc9Bs_jk90jRSu0K64GfUdXkymKDKP3ZLfsUXKiQSPa9Kedi1oRqvicSNzemqpL6SMoshEiHXtCtvhePeK6kni8217Q5wWHbCBL9R_oXYCLJXKaniQbgFhOId0VIYi3_Y3DSHZCR3HVmo6M2fyQv4TzHanZVO1qjnlbq_Tn7dbSnLCasDgIluvRZE_YBGO7Rzxd93qqP2JiBUsxXA6WkAsEsrGLMFrzdBD6nssfw3Klbb0pl7l9Xkl57DSAvaMoF5zGQLWM_k9BKDAdu8uJB-KR65Xw9AesgwBt5Fb2fiCM-WS2Pib9xy4fCuR3KS1GFadAohAitgNKUihAmskIlVlggrAork1muCGbn1TCu60LbIK_kGYVV4Cqtm8OocOqA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Christina Moynihan
-        uri: https://maps.google.com/maps/contrib/116352840520343553056
+      - displayName: Brent Stenslokken
+        uri: https://maps.google.com/maps/contrib/106621900080312301671
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVkGay9zBWavedwGbcld-F70EGYlKSC7O75GAL6PJLFX3bumnM=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUkJYTwSF2jQYEBCHg1uUO5sy0ij5e8jlRd03GycJ6fknUWEoat=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLoauyVw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn6r77Cw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLoauyVw!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn6r77Cw!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
   - name: >-
-      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcIv-mbr3gRlDoBXU6NkpAQa5Vu6Dr2pm4Qzq2Fx_9IdlUxjASXB6DXqr4iNLzFqeySFTHEuU9gw2lEVxeFOvy188ggIYSOIELOFc1tYdPY5x8IBOidBeCYG7jYqbv_hL6oeDmT6YnG-DYseTrpvOdzDR8eVAtjlIFCqXTiiB_L_JcDnbGzqY6kNEug_HGynSpds3CoUp3HTvrtd3wsocGvqa2qpHrqjXocnamyfpiM1Y6mjOj5CVWh8Avv2bLdKklR0cz5RjjLWxOEkily0vEzgnpARSYml9doX-thZ7UE91qW5-5Z8I_vtCxQQNu_37IfwlrxGth0wn6ZbW8IXIqV4dAO5P0J8E19EX6eWmFurWaShIXniJA_rpY94Oq4f3eok79lHNPXZHjM1Xy4P9u5IA0B8qgJ21XZ90ZOLzWBePg
+      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcKFtGjdBYSEMO1q_Z0j8x5LlJcAPdtmzxQIwM2jtFSNJZNRvXIJ1ZohhhTFzNPTX3AJx4VQTlqCTk5SIycctYCMMfrEVhx2rY9pQHxt3hX7pC2_KvhapVAmnl8jCe91TNshDI0RURbBkA6H5U1x5VXNgLE7XttqJc5qtLZafXl5YuaCHD7CKtfmWkWck7PDS-sdORiTCmhEySDttHq0JxuKjBbioL43nfV9rONnp4Ar8vVIkL03C1f3ErHoOTh2puUFp2lzvh-jqZDh0SgQprDM_CgJ0EHosT6iu-HzqI3iyR0B2FfmR2mW8tucfeVCoTmIwM1AunWo3GKKCZ84-1srcOi7v34PGkWFnCUVMcnvp8dVgKSaECFLNufK1pIQtwsIDYtfPzi-1ovmyhs1gJJyxII7IAqK0abL3G1Lll05mQ
     widthPx: 2801
     heightPx: 2801
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA5YnpSg!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
   - name: >-
-      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcJ7tUOWOTJ4BA0beeeGWH0v9WVXpKseu8xzn2hrVFpi5ZWuCO0VSgAaA6QeuOlHwNG8mR0P54PSZidetic10FzfsVyBOMy2A-dus68dh9oq41tcatXipdg_DbBI1OTo72xtyqoyMqGEUyPmhneXzHOxXa_kKYecDoH7akaM57XHl5JeLdw2HjUEmorXtXJJtKWHMl-q3MEIEBEzOl5GnHUFXnMB3e1vvpmQBPKfDfb6g4huMNjKZU3FwWqYJsjwBY49aSQxqnQ7tKqbiCzdXadInAOLwAgJqERx7QHsuA-XYwmZ4vRVs8BjIHaTT_r8Y1TiPxaPUUWMw1r9dFtQYnLRRs7CDYdatqupAoyQfGcJMipgzVFcfUIqFkcQur4hVkyzyP5kN6MEHtTaTFvDCgFF5IZTH24NI1j0Lm4WiLImkec
+      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcJtlP3OkzczXQns9lIfLzHJmZaPqaSlB0CfElpAqdKrpW05IvpklM6MCbbii7jc4mcxZ7vl7EW63Al06-v5ZTrEQpZ5XxNFjj39Rg2wyMu4JUg54dBfvFuPIsZnd2r6NaXvGFUX9rf8pxGuRPF0mHhP9IqsR2Og3SFxwR6Otan0IchaSPOZkkZPGmdmtII4po2m0PPF_x89eGyVBrxAHa1mdrs5TEGVO4uLUXS6U61h4rjjEawPWNkXCIOVQQ8gETK2fwRa-ExgawZTfhe9Ct2U-yEydrPBodK_2IwduYxa71ToqYWesyeWD8wrjfXZp52db8rrVKCMOVzszV5c6DyQAVjlWfmNGs4oXVsEbMRHY5BeMh_dhEDr9nb5AKCHNm5w0clVdP9h6CDZ36camPQoldI5KtM4YePDe5onbbkCPrA
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -78,20 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI6PS4igE!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
   - name: >-
-      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcLqgQzmU3LVZP2wf_zdwNMciHDMUkorPd4kQdJFQZyBw8a-4q-mSX4IgK7cOUAFu4V0k27S7bG0R4jGmsnjfkqP2Dq3Y7A_3E4S6L6OCvn1qn1lgtTCYTbdEozzKWb1nyuGtIz_yl4hhpYUlabNBDCH4Ek2yJMrg48YAX3XvOxkEhbjM-FJEfi8pzfIiacuVerATFvBIglifsr0W5Dp_DNwO2zPmno1glLf45o8WAV70NdHd0wLj1gL5JSYtqf32fX2cOCos-96gKeLc6WY7piLAul0Zed4ZbhIfQH81_M8Sg
-    widthPx: 1342
-    heightPx: 936
-    authorAttributions:
-      - displayName: Jinsei Motto
-        uri: https://maps.google.com/maps/contrib/115034675449165717009
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUhjjsDiji7MmUE8D9qcs-nP5-nMD__WHN60TkrIPGpixQEY9g=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMnc4xMasdvdnnzkeYLI9bi3q-e0sI-e4PxVgDL&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMnc4xMasdvdnnzkeYLI9bi3q-e0sI-e4PxVgDL!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
-  - name: >-
-      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcKgIOiiksPNpftiunyjGCUR2rsTt58jKqibBgW_sl5GhFEZJeSqQR-o-yOzMblzK7cK8n2poq13C1EZ0qL59xPGuwHjH-QwNqHOSCWa_RIFOykD84C-q2uepuiSIhxU0dm934UCwicJf2pYgIh93rnCB_5i2QlXAKJzSzysXpGTHXxtWRpYHG6NWZtXO9EKi_QT2EhM57LQB3D5GfwU2qyQzP6lcgM_JqaMNkG1PdXnSxd9xE0OUGXUUFCnZwxje0Tk7OyNuS45KuVerJojvQTbWO4M91-8Mi45XLIxxqW47RuUYZE-VtZvHw_wjoU8KIqGEx_kKbcWak0raQajlO6dOF6j6uQfw7bFVREq_DMWYwiDNW6ZS34zJCKR1nUEMXRHnTbCaNVCV4JLmnMNkH38c9rjJFhlWnjTMAWdXro
+      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcIL_78haAhQg12M-7Erc02GJt32Z_PbQG0maZ9j-drHK4BXivhMZ4DXH6aQX8o3TnTJpPfEZSP6cze8a17lNTTcyjBlyEUGDUIpWAVZPOL8Z2JJ1Q-OxA-UsvBwScFKAvLB1aZBOGxaQ1xrXTIuVV86WpT4KzoXeZC_20xcKAUe4FppshuBblKaH4RZDN55hTrDOrpQnMvuYmLRtA6Zr-pnXYv225qrOfrjnRx4GBH_opkR6UB5vI_HN8LUeYmKlIeuFQCq9RiYf7VaSD-9lW3Fq2t_DG8rzubzux_F1WV-T3gqlgQDIHAP2GRzXqPulTOGSrgQyjEBBpaczyxUec9qQynhwU6pJTvoGFUSGDbNi0e9UITVbDTWeeswWkjSahjCdXr4JCp4QvdHTMIERI4mnneMb9A1ln4c9-NdO8c
     widthPx: 4624
     heightPx: 3468
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5n-myIg!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
   - name: >-
-      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcKmJoVvoe7kTy26U9BH64OTfC9G2aWuwhOCP0jJLctJ4StiVqd0afdD1BWS0yNij2dZgCtOxnIL9AR4flscXrhIbuHBVpzoGH3hvaDWjvj8bOYMJcSJ4ra6NBc55FzvUoYCxvn_UhGLotnLeDJ3JtatxkfQRqHbQLD8LKQcaaglfzmVsJ0LIxItmIobhUAZOvqYHIJFV6YCEvTS16DU5XdsmhJxoHxcGRigsu9gcYSd8uoCTFlg_H91rpdzNUrB3Yg4ZxuE6vpCZo654OnWBPNCwCYTQXtWxCzCeKriUGuZpjn2u9P54_NOtJW50A6_Y9eNXOvKtqY8pdJHzA3Re0hqlQB4QkYj1UKvRoZDhurIwOdKWnydWpy96Bb73nKd7F3XA5UYfX2_PGBGD9WkY6yOu9cHk1dHTOBCVhrSZF3B0bZo
+      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcKS4lioir9OCye51wjRK0kR_CNXnMXjTLcQjYJicyjQhHKFfyjQp8Zf_Uvd7SQDqP5AG-Gt9FpVoWYgtGmmuV5gsymHry2Qud2B39FcT85VbuigCGY6-cu9n3XIoQ8sSeyetUpspPCu0D-fzlN_K9tCUb-kCnYnycIzTIHKJCQJ-RGsQk1i2ctlfK3svaXDgGfJ_0qYlQF3RPbJZy9RlknZSqSUaXgLqXouxq5IjoDcfu7HKOfnYMwcbHAe_Y7izidyuAHtpUlUwkQoY_iff1Woy1EPPkADitFy3mHOxaxERRXCZ71Wqp2jSGb_sHMmnFSYm645gaOWlMZBMxxjhJ0I_-PsrvebpweqDhqIQsVSiDfH1v36pTysZUwHYh6xeF8xY-kOiegRW8DiQm0MruOXEYLwRJE3nBrrJ2r4dyVCErIn
     widthPx: 4800
     heightPx: 3331
     authorAttributions:
@@ -117,20 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLqaHL4AE!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
   - name: >-
-      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcK_GRyTzJybGRJU4CpDh-OjKCXYKx97O1aPzTxRyrDNrDdbAzNa0mK4kg23qSQ5hkQsawZOAep4IonusXacK-urRLCjz-NrA1jgMHQ0FjtNObukogsKcgEE-Cra7OUFtPtgiWYGxdUDBJRX5njvpPf_Y6OI16Kz9W9CbpOCMuQZ8ehriH3CbW4aDIAcJOtXELcDWP7TbG21wuGS6KIS7rCtBxAyLNzLDPbhNDrJeAUnGs93uXYwaAV1NH6NdvOaPQwobDw7f-4N2IxiDvZXDc6A5h22Wo-RdO1gxoa2hGK25rE-cs9BDLBPjZwuFHs6cGrzKNhz0w9pBwUoJLLhoLzUv3MlYqLW_GFMKRbiktu7UXFZDTZwBjU4d-KEJm1cGM5xPBdneKosfIPDAEJJcMKRGX1eK9mWMu7ZkIxGJ-w
-    widthPx: 4624
-    heightPx: 3468
-    authorAttributions:
-      - displayName: Cheng Yao
-        uri: https://maps.google.com/maps/contrib/101753001888125224956
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocI5PbCYxVR4NLzv1_A_U6FHNTZs30b209f1n-Wa1GpYGWSE6g=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC5n-myQg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5n-myQg!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
-  - name: >-
-      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcLe6z24QjucEIqKdbHQCBNE9KZVndNKA7z6jGVCY8zRlRju3T0ZG8BJa1H7VmcuejN6wuOtcKDmfmpAxxidFp-7xRgbNUZidCzxa2rOg6AqCFwysXJfptsLqkejwME0doTz9HcA_e0MdVw_unJoHbm5u8wnNlea2ztEeS_f_PBKAW40Zyrjs-mdECikqvEyeUbIcsT0QqW8pbB4cEeTNBvvikWLjjP4PJpi2im_HaAqFfLS4N2nQeVDkbaaqkkXJq1Ap-CfEka0yqMThKfvhjNJJHyF5MfPIv5cQqBl-CuoFCtGEM2jRTYA5ZztPykk65egluA3XVlg7J7Ob8P0y9YN4jRfjkQdAye9kjMTGRP6Wv5l6lbzj_wcA3mAymIlmko-K5XRNkuMhu_Y8FSZ58Jq9_PIaoz9ZCAZI9qSQXCsNg
+      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcJaxzz_weLbNXaWw9qNYg37oWH1vodlQBdl6CPdraK-cwe7PL7dziX9UKCyjUsb_6SJuFOAbmLEpRWjrTFwmur_by4Jq5wDNPUeoZ4jZp3pZp5YANSOEavIxRaNkwZHnHY-1dhNQ6URzDP1YwUaJHPujRlgnoqIeprTEhQx9asxUvgBlxwXSMu_hQONYu4nZhhdbNdnyPlIuMYbSEFC_JT585ngkd1JDctdkfF41RwlT_qNtXmbVyFdl3dEqcOuX2XIe5y9KQtp7vLYKsGtzh5OcMMNVBZLNZ5EOjHMyprNLXi6crwYDDOvj6rOlALJT6bwA2iEmD65CijFKCXbAW8R0xkxa4bZO1BecNbDUOuaxnEU6pFeh4d9FhiuLH-lY29nR8-0sksCkqaAYD_MFZBcs1-4VaJZAj1mdZvjAedHJQ
     widthPx: 4800
     heightPx: 2667
     authorAttributions:
@@ -142,6 +116,32 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLqbHpeg&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLqbHpeg!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
+  - name: >-
+      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcJRze6ZBgmnW_xQqFcu5Oez0jVTocfFFKSV0ZCn-l8lVodr8uUlb5TPKweC1E1pQ0n2JkjHq1182f_Dba1hRty47kNfHigfnlEiFd9YX4mZS6Ugt3HmpHi_e4tE8cZZvrVVDX1R9IG_00f8BE1SZi1toywd8HKeM225jv_TN5k2BwlMD_V1L1iYOoNfkvY3rATIFNwjwpk0WUkAptzIZ5WMdHmeuRsMzEHO5Z4Y4oXYt2HxCr8Asaj5xv0RLnb7ql6IudDJMHs70WHNBJRaBqX1NLdZOWbnQtRb5d7a0qa3vg
+    widthPx: 1342
+    heightPx: 936
+    authorAttributions:
+      - displayName: Jinsei Motto
+        uri: https://maps.google.com/maps/contrib/115034675449165717009
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUhjjsDiji7MmUE8D9qcs-nP5-nMD__WHN60TkrIPGpixQEY9g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMnc4xMasdvdnnzkeYLI9bi3q-e0sI-e4PxVgDL&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMnc4xMasdvdnnzkeYLI9bi3q-e0sI-e4PxVgDL!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
+  - name: >-
+      places/ChIJHfUX-kstDogRvJwilXIwCmY/photos/AeeoHcJzbFVNptj3aj54IR1jQjx-DTooyh8Gt78VPf-eI_JtU3_XwNtPf8ji8RrfnTabGfrMUorM896wihkFHsplXwycbss5EhRX3cUZO0m8N77p7PXz_J37Gb_4EGovPLkhsSd46hdS-ABqpzENiB3W1mXy4fv7Kpx1zUQIdUmXd5DVZ_7PgfKpM0KVqhnK_sVVYuJTYejQZG63B2vRoWSxvOkdTXhwNNSqjdxwR9Ad5hOff4Yo_egbuxg3rcZ6xkpSyMWjv436_lktzUtr74OLjHI9o6fjuaK55CE-YUQ_pT4Ndm1hz0W2lnqqopDJO99zuxniECCXGcM5mupmckcIEJv5wpYjKQtN_LvavBcGWtmsxie8t9erQLxVFbUsd21aBMu6rKbbamqBEF04sIwtaYh8TaZPj3FrsjBXMTKXfEg
+    widthPx: 4624
+    heightPx: 3468
+    authorAttributions:
+      - displayName: Cheng Yao
+        uri: https://maps.google.com/maps/contrib/101753001888125224956
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocI5PbCYxVR4NLzv1_A_U6FHNTZs30b209f1n-Wa1GpYGWSE6g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC5n-myQg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5n-myQg!2e10!4m2!3m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
 address: 564 W Randolph St, Chicago, IL 60661, USA
 street: 564 W Randolph St
 city: Chicago
@@ -182,7 +182,7 @@ phone: null
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.7'
-rating_count: 255
+rating_count: 0
 website: https://www.jinseimotto.com/
 reviews:
   - name: >-
@@ -443,6 +443,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

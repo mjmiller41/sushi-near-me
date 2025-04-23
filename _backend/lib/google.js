@@ -3,7 +3,6 @@ import { config } from './config.js'
 import { DEFAULT_PLACES_API_SKU_DATA } from './Sku.js'
 
 async function placesTextSearch(
-  categories,
   lat,
   lng,
   radius,
@@ -13,37 +12,28 @@ async function placesTextSearch(
   // Include location bias in query if radius, lat, lng given
   const locationBias =
     radius && lat && lng
-      ? {
-          circle: { center: { latitude: lat, longitude: lng }, radius: radius }
-        }
+      ? { circle: { center: { latitude: lat, longitude: lng }, radius: radius } }
       : null
-  const postFields = { textQuery, includedType }
+  const postFields = { textQuery, includedType, strictTypeFiltering: true }
   if (locationBias) postFields['locationBias'] = locationBias
-
-  // Filter sku fields for given categories
-  let maskFields = DEFAULT_PLACES_API_SKU_DATA.filter(
-    sku => categories.includes(sku.category) && sku.func === 'Text Search'
-  )
-    .map(sku => sku.fields)
-    .join(',')
-
   const endpoint = 'https://places.googleapis.com/v1/places:searchText'
   let npToken = ''
-  let allPlaces = []
+  let foundIds = []
   let requestCount = 0
   let nextPage = true
   while (nextPage) {
-    const { places, nextPageToken, error } = await curly
+    let { places, nextPageToken, error } = await curly
       .post(endpoint, {
         postFields: JSON.stringify({ ...postFields, pageToken: npToken }),
         httpHeader: [
           'Content-Type: application/json',
           `X-Goog-Api-Key: ${config.googleApiKey}`,
-          `X-Goog-FieldMask: ${maskFields}`
+          `X-Goog-FieldMask: places.id`
         ]
       })
       .then(response => {
         requestCount++
+        if (response.data.nextPageToken) console.log('*'.repeat(1000))
         return response.data
       })
       .catch(error => {
@@ -51,14 +41,18 @@ async function placesTextSearch(
         console.error(JSON.stringify(postFields, null, 2))
       })
 
+    if (error) {
+      console.error(JSON.stringify(error, null, 2))
+    }
+
     if (places && places.length > 0) {
-      // const ids = places.map((place) => place.id);
-      allPlaces = allPlaces.concat(places)
+      const ids = places.map(place => place.id)
+      foundIds = foundIds.concat(ids)
     }
     nextPage = nextPageToken ? true : false
     npToken = nextPageToken
   }
-  return { allPlaces, requestCount }
+  return { foundIds, requestCount }
 }
 
 async function getPlaceDetails(placeId, fields) {
@@ -84,7 +78,6 @@ async function getPlaceDetails(placeId, fields) {
     console.error(JSON.stringify(error, null, 2))
     throw Error(error)
   }
-
   return response.data
 }
 

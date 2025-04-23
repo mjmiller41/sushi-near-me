@@ -13,7 +13,7 @@ description: "Sakana Sushi Bar and Lounge serves delicious sushi in Rocky River,
 place_id: ChIJmw-53cnzMIgR2uclzOV8WY8
 photos:
   - name: >-
-      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcIeQILf6y375VnW-xMFK3ETcWAwzt-GfREMeCjiZJ0nIwpcQbnQr3vJqGZBqBh-f4v9mUHJ0kV6P0nTXPpT3--DisodPV2QlFV5olYOXM50JUc7rvuoT_4Or-9XwIp4Cq_OQLKx6Txx5FE3xgbw128kwmywolpt2iEEbl7R0SGhObUofVrQLxlneynzLF710pSwE8CNycpljEDpLUUxj4RdA72xB2Oq61rSWOGiREydcRiRe0ltZzBvOHALX-S_HPd6PvYvuoTIcCdlKMPLPNg3NnE4r8H4-67Dp3ijzW1Blg
+      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcLKrBtnoOeomi1vwFucGsjjr-Q14dFPu6D2ne1-8avef9JDjKscryjtto2DQxHV1YkwOwpvnBxIPOPHlXmgpogQaCkbe5nmfJNtIOQh6KXvKOCFKO5vAMen5TcpmbeO8pBECJd6LjJ-SPKpBROVmhXEL_n4urucxWrHE6FVwbf1z73s1PyadT4064sGbxOpcIiWAFdfPRPxz3kYaT7EXmGiKRdrcFwdSMo2yPKyg5N6rcaoAdGRP12LsLNtZHpPlBVUMoWFLbmb0X0CLsnXURcXICezZv_PNH8sE0L0_IOiAA
     widthPx: 2048
     heightPx: 1489
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNykhk9WrgAc5rA6WGUdt1nk52179hNJVJ9j9o5!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
   - name: >-
-      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcKaom_d5bva8JxAY7AH_CuVZmVeXMPpx7toUtLWMQaXejXuAFmWw1wbHQbwFXllsg05qFmSuyaUSP_dmbW6mzYxAMDd8jdYeNwo-WqutsFzdPJq4JhUNLTlKsh3N_EeVwX0p5zh-7lJnLPyUrEJBquoqV2287RexkTJBayGlRiSLvrO2yUThxl3-EIduNRkTaVDsGUE_lOUaJHk7WCylVq3NESzWUJr5eSEqwkq9xhxNKzklzw-lZpZq3wT8cO_7RvuuM-6OeCxJr3EtEdxuzH5N_0nW_QnNyByFDwc-bOzCQ
+      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcJ5Tdtwnei6KWHPeCArtNxE3f8b30qB2d1ABwWDOZWUnbGb7nMUkQGHsyEW2squ4_CWRL7Ak3aoEXNPfzY3w22z4LmMH1fSb5djdwVCpD6Bn8MMzFE6EAU_2tgcmMXAsqOifmN-zcXepihrQftSZI0ieri3gk09coTKDI63B8lQP_8j4Y_Md2di6Nnl_WkSXt2FEYZ4pyUr8x0UCkpFviFhXA1bm9BXUrjvRK5FxetmNVi0pSnThMB14WZ5LNw51S-9O6VTGo7v_GD-v_U5OM0W7tkn1f6PI5r5CqFjhtASFw
     widthPx: 2048
     heightPx: 1365
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOEeIUOSGVs2-3SThkWjEKcula2vx1j7rViOE01!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
   - name: >-
-      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcIdDUF_SpVD9ZaiZqR-aPGf-yI2tRML57r_sPteOrkWdioFtPBSEdskHueDC4Tbcs17Qc5PzJMHvzXYygKUiXPjw6vEEPCpoIKl6GrV0ejZm4wVQQAyY3lgd50CEiT4VTGmC9tO3QiiqC6are4uA7ihhcQL4v2--X2yhyDj6hJbRlQSoVx0zzM2fYZvnvw9P8kCugfUtZoqvCjuX9pitIuSAdo5aJTU0Qw7Dey6x4DC4fOc1KZ590O3vb5maQbQpyMB3Y6znvUAu2cbYj_m0aTT2egY_7LZMrlh4FVAldTVPw
+      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcKOIT45dXoB3Ik7ZrVT-PeoD2kXUjVfpVrlVd_yU4E9AJ5Btj0IVH6NJbc-hjDrHY84Ri1xVHncIWEWpHVx6Nyp3WBatrA6pxGjb79D2CSkdOtwpdV-9NxryHEt8hDmpUZliAi7Vmuashhzdru4r9n0xrkx0P3jqWOC0owSxszojqsFFS_VJvH2TwZY-6rAhFSeTaQIY9OoagZj6oH3sH2HWwqh8hVN934yxexfRmYEhb_OU9rnSDsjONzhtiHcQQDQFS1zIHJLkoLOcSIBlYGr8lZJFAgfp_PvmfxGdLltzA
     widthPx: 1200
     heightPx: 876
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM54s8lww_-k7xS-FfOEMb3IKNZVJXfBWSBnr3B!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
   - name: >-
-      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcIzDwXpmw8wa9I5T4x0-mbGP7XrmwQVMU0PEQJPHbNnI_3vB2h35p-CQTxhRXx4Dj7X2ii1_7pxBIgyMlMO13b69qyXQMlXuEwEfl1ZLkuJkMa9N3dtgRqcWdQLOLqahGaZt8V2FehOD-FMVjFv9vvx10RBb2kNojIdd0TfxpI0E4j8dNYXpxj4iegPV4-m6UT6MyFuqSbt4UEj5jTfRt5hw-I3ARATyzOzMe__RWnRwoK0Z4oUX5pDQ7sJkzMbx6ElAhmHvLjEx5lFVPPrJlkWt9r0SSe2Mf7brJtbNFxxSQKKn1uxFo11lDFvcHg1jm78PmURadBtBhykOlcPT524r6u5YDDXe7Rgj3pkYZsF1O1YABuWlbuKzroHXDfECwzP2nyu0w5DFyGjrJgdMnRRQH2Lk980rI7wK4rTH7E
+      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcIwM53fquzhvjyAQUgwh2LJVB_TAjo1PRdj4nO11cqb8Tk-NbnY0ADNRPZXCxVqsAJHTr26Gav-Qp5u7V9n82ygdUMwurljvRjaZvyyadxsGMN1OlV0DzTx7SO02FQ2mLcrPPf4lAcQ891O-fKiB-Jx6QDdcdxWshz52eaN9--nnJiUslOSmy2rw9DjDfxv_miLNWEYYjS3w_rT3FppNoJKcSxwAOkHQlO8konNIt3Yc64KK_mKxvM2_he-SGZ9xyHxc5yhZ8awhmDCe6Y9E-JEOxF97bDr7x1gxqR17_huooUyzSYWbWLyx9Z9nOxoKOu9MKS7pskEb-ptyK4jnMdcTAvWJGynoRp4RVprgStY-k4udQdjb8_frPj7m3hwATwQCHJ3DoFFXtcJFwEGWf6xLTuYqfQiVnhiY9pBy6s
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -65,20 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfkoyGQA!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
   - name: >-
-      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcIOLasNLnZqddueyvHoahpERBCd8Et8Xbedf4tYmaHm0HqLSeppHNUGUZpAQrFQSq0_pcGxvDrSrsOT83z3tyLE7t22iSFYy64AkAXoROjUQBfNaXi0M3fj1qoqABOqfWTnerrQ4GodacLJXFaITGeLSQN-5WzZ5WLaRvQlNy-2USlN6AeDPabcgmOYdfSHecmEd_Fdwqyvcin5pNiyVKNYePBlY9zB8uOoOxgSlFTeM6AQaYyQaw-1QkfjmALQOEdQ6cB1iauTn-3ErRbWQGGlqduCvslPe-uWLUEmitQ3zA
-    widthPx: 2048
-    heightPx: 1880
+      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcLGKH1eVJjNEPMZpmUN7kuHuEpTwNy1YJiGupgBV6TqzAHj4OfnehUrya1lwyR8yi55jwl8dXguwYSvrbo9btZ3UuyUTLTXPo20Lk1TGnPhsPS7nqSRN4e-ZWUdUngXbIyqQqFXAT3eQte3PWrVt6eXkBi1gKrWknjOvUHQXCiQnlh7NGD3vLHUF6sYc3bbbancuVUHDf4f0K2aatpc93ck8fmayy_oMW7auj9tI7INl5a_9VH4SC8awaKj-gtzaPAhyWBY6T5emQ4jcizo7YZBcb6MAxjAs7meb7MAaxetMQ
+    widthPx: 3024
+    heightPx: 3401
     authorAttributions:
       - displayName: Sakana Sushi Bar and Lounge
         uri: https://maps.google.com/maps/contrib/103643986126341206853
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVxEz0eWy_Z5GPlQopk3f2HPfEeOOK7V3VUplilCN4PpJsA4-M=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOFSj3qMsvCmSXf04TQ0-Kdc6UitmnsrdaEr5oQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMyXBDMGfnpR8VRzcrtbHXNagaPbs19CudaXUaM&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFSj3qMsvCmSXf04TQ0-Kdc6UitmnsrdaEr5oQ!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMyXBDMGfnpR8VRzcrtbHXNagaPbs19CudaXUaM!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
   - name: >-
-      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcKEE95rg0ktiNvdTVIooab5dv_hadC7TsGU50CMZi7sbEzyuJ1LH1kstJbHvYNi8IHhdhkhmDtrJNzyRoPD5ovCJnkkYy6M2o2GyAvg_rosjxhthZlZAg8RG6F-TPOL5W3ZfCg5DE1jRlfHN2ySqw7-u4wavY7WH7_AteocNUuVYa5sf2dJYcQ9FLGJVVZWWFDNQdOIY_fvu9vEsInRRkW1ylQgkpuNoir4wzRl7fLzqqDuPBpL5RSyvuJxPBSw6kGF4BMsBu-tExoDvOaVkIqM_H8rXq3y9fYVRDfZBVBoFWmvzoyR2YBS6F5XNi31PDXQDnThRUlE02y3TtwZKOunAfO6QDhkazq6-Yus01hUhaRKjwQl-tuDi5_E_4sY-y9pJGOaXhgBJqKWe6BAGMiKkDCQOOK7p629ubuauDY
+      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcLZygi5HiFjPbgev1rSjZwNG0Jj144bk21vOCsyuY7hRwZYCnLDezJFy4r2vOKESezspb36WhzzEbYAmV8XRuBL1D7N6kyHLlcU3Lf-fCh4W5zX59jaaoQnCiGc3SyTaUSDbNZgFVdv0L5LMdU5no1NqxvK511jCI1PuqhivZD43gcJGRdVMD1HvInNGCuZ4bU2WtgoAP5sSCUcNwg_7izr7lvpRqxGmCtV9CvENayRuwgItfh3j8pkMeAC0j2uFbpnzbW2eViR99xofXRGKHH5GYUnvw_NFEa_U315MJ4hIbAywwyU3O1cDr0R4UrYGfRLdQMPPxPFP4HAL9sTJJsw_zDlrSBGScIoLg55W0LRSi07Im0umncVrKdI_tJKexJgcs-pR-W3W_mDo7N6lEde2qO-4HSwhrc21waMDDI
     widthPx: 4000
     heightPx: 2256
     authorAttributions:
@@ -91,20 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh9t39Wg!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
   - name: >-
-      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcJibhO89GofuL-PDW_gdV7tLpT4bYAz-E132-ziEu-99mzLNoqluQB_YyBTy9q0Nxc1FtbydnEkKV-RxUjEP6N_A5nkY32-nJ9I9dNa9AEkL_jOMVa9GONj8v75N6a0NpW7D7bVl0rCVEemvQtQDH0XrdSYKOgbGSgU1ACTfyuC4UOsl38BkBcWM8UoTTPyQhHDgCgKlXIJDid2DMYavRV9lDC1sigdnaJ9LWJKrliEek6Gg8tZ_tDehdO16jELK1CBa6TJgOI9EBb_gjOYwIhrR5q6lAhDaEi26VyCuznwxw
-    widthPx: 3024
-    heightPx: 2947
-    authorAttributions:
-      - displayName: Sakana Sushi Bar and Lounge
-        uri: https://maps.google.com/maps/contrib/103643986126341206853
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVxEz0eWy_Z5GPlQopk3f2HPfEeOOK7V3VUplilCN4PpJsA4-M=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMAFVBrNwS66vsJt74mJDtljkTIOmbJB7ONPSJe&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMAFVBrNwS66vsJt74mJDtljkTIOmbJB7ONPSJe!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
-  - name: >-
-      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcL24PGd5cUBlQLylgUmBauZuIcFqXp-QK5nGLKJSSqxQxuuydfIG4VjQpv1qR9PTrXgMC96TEzOjFeyNHp2T1osJHAeiy7Ym4JwVhhbEi0C5ukoduQWij1JC7W0_IM_rNUivq3NMECvS1S_O8LZmWcGWhk_hp-G5ws1isXXtOtQFCwCcnUXKkUn0esnzhMSHcuHrQ5ueRrz3xI6i6mjXIS5wjfcSS2TYWqV03ZCtR_n5i3OF2ydjLuAtEfsAw56BN-V8nrWbsQeiF312JFAsQrR8_Tkdr8NbsNNEhHsOyE4GQ
+      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcIHQbQTJ2dnyuIy0rdJ2dzADVdELOL6sDiSIKBXbe80AyWzEY-AN1yMVH4kK5JdHYIkjFSxymjrfX6TRoh9Ys8IQOVsSw0P9GLg1pQKiWTsQwOPPY7vHYIYJ1p_54GSdaPGNIFPkPHZqHU6PGgxSb-mdYoAOyP_qHtLYq2D1Stw_TC08BSNhlq9wCbaWG3l-q_0cR-AV6I3l8fA35aLfZJAIG98_fyBkr67NqIA5FDFr99t1VLfrOkpOMWFL9y-bv-Ct-dgTKpO2S2qiW_e2RT9jGUdkZqnoo8ZRIYFZ3h3Aw
     widthPx: 2048
     heightPx: 1365
     authorAttributions:
@@ -117,20 +104,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPngBmhE0xoeMOPyVkxZgHC01n5TBTTw58UPopK!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
   - name: >-
-      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcKeGuod9T1MUEJ0NnnaUCDHi_odYaDteU3N2ueY9K6FnNXDU2BrXd-VzusS08SrGRlxPYJLnVyZdJOadGdRxXt3_SkXPhZJmudzK-77o23l5hvD61LMbb2STt3VvGsnOlqXl-qLZTaRNkq6oWJIYdMjW-cyvkRofh_jzAeq5K0BH9BZ8v2mN0rGQY0kwh82b3Vj04BqQJq-Na1yNVagFaq6oBob4wneb0Y12QJ073ljdpZq0AnzSu0CYp22HPC9dSv6sXA4Az6aGrkAlKeNe1ikLpjBzfl4WCX794opGR7mlw
+      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcLHj21IkJ2Q2dwZH_otGWI9-7nj2twTuM4aoXUrqgVsktPkXNt8Z7-IBvpSjC_4zwZ4Q52kV1j_qp4OkgVNnDHgwro_9frre04hUCLyxd-EdVZl-p2BQ_g_Pe9fY3fuL2Y4xaleUf20P73XpiaPoHTm2INkjPQpHwLCLJEskxzjArigh7HBYZvwX_ZeopoF8x87rE40wVhpeHwnwKXkzhirxYFrUbUwP-mzPADTVnoWz0w7hYgEs9Dr_fhquAyD2bTGSo8fDygZe35K3czpIiwHJ2seHEklJYYpGlwQ8Q7wSQ
     widthPx: 1400
-    heightPx: 1109
+    heightPx: 1098
     authorAttributions:
       - displayName: Sakana Sushi Bar and Lounge
         uri: https://maps.google.com/maps/contrib/103643986126341206853
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVxEz0eWy_Z5GPlQopk3f2HPfEeOOK7V3VUplilCN4PpJsA4-M=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPzL6_a8nDtPB-h7q5Pw_fw1yDBRmVpTWU617C9&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMExInMMsnKbJJBATvmUUjqGoXSh9_UeAFyb86S&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPzL6_a8nDtPB-h7q5Pw_fw1yDBRmVpTWU617C9!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMExInMMsnKbJJBATvmUUjqGoXSh9_UeAFyb86S!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
   - name: >-
-      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcLOwPj7MuL9Jgs-IWa7vkESvJDytCh_SdkUqImRK-dGJBYZO30ZojN5l5G17zNx8h82x4-bg-RYas93Fi7qX-84cvXZHJXY681Utht3vNZJ6J_JR9ILBx_O3CM-Iec3-zzgVtCZswl7SdFpvk3z8e0034PmqWuYRxI8agHNGXlhkQPpgmOktzS1tmqYogI-dxN0WL4BxAA5UfUe0rECCDw1L4ZPuslz6gVsqADcJB94yj567VyjHYlLOh3DBGfs8NbZ8qjIfWKL9EFnFdzYJNlkDcPsQzGf5Z_PDLQiq37-ow
+      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcJwJmIyJElzUH3FkL-WpA968GdkClmY6c3K5GTLq8urb8VU3M5MCUHbfa1T4bVQq_fdELDByAGReUjEmuSv_9knZKEn00FU8OSUrjf6DpU-a24VSBnCSX_lZCG9Yk7Xlc663JVPE5fx-8L51x3nV2ErBmwtVZ11BzYKFr3f1NeCtEnMAKhtMnp1L7eEUUMIzdRdNRhJYQADNl9Sib4DE17X3xmiVGBDUEHqa_-ebXEO_j3-xRyVdWBnoDQaqkg_7knMsXOWunV5Fmm6ulh4rusjjR8pu-sclFr2HLPqgj0Zx_82PPBQNz6o3btMgb--anGpSATYGtqQ9KFMw3O0lWq9O6pfvum0Azc4UQmXmQi9t8ikMAGTrYxv8dXCErQAWuOe6hW-FzK7G2uC_21CDC5vDTL1O2UNQq6TvDK2-SfUJ-0
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Jillian Cremona
+        uri: https://maps.google.com/maps/contrib/112996942026404990643
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLqIfocRQozi3x_9UPxjqna0sMfgtj3awyQ0pE20OBl5NoCmA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb_Pq61AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb_Pq61AE!2e10!4m2!3m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
+  - name: >-
+      places/ChIJmw-53cnzMIgR2uclzOV8WY8/photos/AeeoHcIVea1u8pFJzrx6tuMittIfaqiXsLVgJeNF6A7VnsrDXGsyTHkriDlmnrYiB4Yv3Q9n3EcJHI-iJ37vZO01j7bxFmoxg_DAuiVMPhqE6wZRYPNU0UKj-oJ5AkFgncNwa-XGHzDNkCC5OEMBFKPPT89zQAuLML76YNrQPrbvjQnvPvIICHq98oSNBD0e-oAngpu77d428HmlZmXYwJDvn7wC6F_Rz2imiv8Cc_WVIdYrzsP3iW_bP_gdQIi8QZlqcXgaZpsIrnVSX-fZ2Ifqr37uB1WFkyXdlPk2UG9rxdd1zg
     widthPx: 1200
     heightPx: 800
     authorAttributions:
@@ -183,7 +183,7 @@ phone: (440) 857-0700
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 490
+rating_count: 0
 website: https://www.sakanacleveland.com/
 reviews:
   - name: >-
@@ -388,6 +388,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

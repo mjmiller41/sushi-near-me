@@ -13,7 +13,7 @@ description: "Bonchon San Leandro serves delicious sushi in San Leandro, Califor
 place_id: ChIJaazAoGiPj4ARTT2e_x6luoo
 photos:
   - name: >-
-      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcLndhP0nqqS5OY9xZNKKEAaPerrLVURsAk5toC7qs7xYH1uuIpNt5Oasls9WetBTQfKbesCbgsl-h-0aQeZ7zaMV_VYvnMULbFARSri5F4VxaOmHVrBoUUbBnp-SgDX3Qmxd1Z2xJTKtr84oYh6E9nTxhWCUuG9zpygvj4DaQuBrdAAUs9gtnkxBpdcA35Pec54PdJpn0hfJ48nCUzmvQzyM1J9w9o0Y9A-W3Pp1GEyxR6RRYzNsqtP6Yom1YXy_HX_jy4amwJpJPTo61rNZnyO8qyAHsd9HfJXYLK8oDpFgPSzWTpXOyvjVOFpITd5I2hM0v_Iiq1yYyL4wTfNy-FUKxMghvqsNSJSVgGC4LYdZDXaEniYlAg7Md9WJeBawyTFBJnbvgZ3osJDQxvM7PIrPvOrKjGmwa2VcxHn3BwAY8_N
+      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcJugBWRWLtCIIUpYE09fCJr9qTtHNP0J8vAsYyxqxJQFpb4PGXXb05iUvzJ8TUrMkvhQmW6M1Q7c7SQdtgGtGJKcLVRLi9zWDaTPl74aqwApV2_Q45Dpvo1Bo3hEgB7lcJInKPk83fH3jdZCwiFFkaGL_TPMLJPo_VBuEOgrX6aO6iasIA19mH1k3hZK9qLfYMyF0ZEg_qxlTvB8WkF60gRxjGqpjp9icBEJYP74E_JMMspXCBB4LjOJuPkPAU1Xjt0oYjVnAVreGP841DLkvzsC3M-aKZ9T7SPvLkimnlHY93GTnGml2YoL27FhHAykYisnhuBpN5_fLuynYCuPwkU-9mHPzBFPhXJ_GoTlPRvY8Ub3DC3DuwIGVtpqmC-RTD7lbzFoFzk2keRSAc8spTO_1ML5mmsPF0usdLxxBb6Ls7p
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJqqq97QE!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
   - name: >-
-      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcJYAT6f_7-EPKLyRU0nSGXprffL5-PhaEmHJ67PoC9N6OqV7BCRhXnObv6iUrpgw9nYFUOzctKnquGSuHL-vx1PGtkNjX0RzXAYEdA0TVICkscl7L0WKwqHZeokfDFM3EiUET1JaHsxLqg-60iJZiD6nyZlueU8un6GCoJGyvxk8geHZq5A4w88JQJ-TvCA0tYth3CBDkpyKVGRYbgk2pgoX14mJG5GMQYl_Z5TTbhlrBg6MFAMuO3MJ8S9pD-iNVYYZ1amSe7aiIhyCKqre-w2cxkbpIEc1QNotwTDk8r86g
+      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcKuUdp0OdP9noZMWdzR7hzrFvQPk_AiXESYNltwZrj3Y1kB1F8xj4JT7o6eiZ_iUkvC-hVEfNwguy7RVEmQyZeOKO1axOsmqxLqjP9ZjRaoIXXRcr0ihgeQHk_rhAC8fRIvHAEIfFvgf3CugZx1BPtpEj4pYvrytZAK5ZcT3cgKIwSmB80tcAkxIR_h-iZ3ci8EGR0oMu474NBjCRXOnYSqRXAbElfu9HV-aQOYPZ8ui2mDuS4jbyAYS_bHqkfBRH2KEW28ingcRi1wUVKbLXRmgRdkB45S0kxCsHfG1UnVYw
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMobqTVlybyw9O5mC6IN4F9FgPi0jOlSp147St1!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
   - name: >-
-      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcL941aW2vXTm3VBqHDAtNEUFArUuGX8pQEn6Wt5Hv4bb0Xgh6PXPl1iCf9c2gIQnpdCtGxtLRAfdhT7u4sccDFhz4d6KZaKWJUJjWbtiSKn4vExW4sE6O3t0_x6PVaJq_yCJD96wvpCyZcaQy6nRBlwBIDGT759o2AWpvsdIOawflLm97saC0nUpceMcRlOKU_vXBdfyKguXhZE7lRFdnKARLftg4fKEzmKYrHU6HgtAZSwIK2t_VEri8-3y6Z2NFQYTdgT89oSfvuciyfcja358K7IaCb0-boCnNErl8se-w
+      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcKj155oj1nn3beZjUzSRk9A6Ik7I-Ibhdlr0gfbI39ln8Jpb3lGLVjQezA4AXWxFZLIXB99L-2riROSk5PTLXTDqYchRBfpL8RJvK4_X9mtkd7HZ2971ju9zA3G9LnP1uev4pdZBLqRkslxs3RBuiopz-ztk6GWB39w6_QGTNK2LE-vywWSmHb2_xc5Qp99ORGNprDnkVMi8kC8VIbmiCfdNQQzIE-ofriqjwA4pr51U-cqCya7d2BJhfWeC4ncLUqvrOYHF2EoRbkMsPuaQEUpl0xeDHOUmr6pRGHBdtYurw
     widthPx: 1232
     heightPx: 693
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMaNR_cjQilDw_eDaxSxEejwpe7ApQ3zOhcANjF!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
   - name: >-
-      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcIFJclSbxqUXr0CU1gkA3TymITGBYJcSZDDyiPxBLJnAexLFYKfvWL3LuZheNYi_V8glqrckreET58-sFBHifgBs3Ygczg88sDeATJIUQbQUs7lN5yEnVkZAsFUm6TZarO_goIzbinMxJ0hoYlivtfopkfHkP-_7yM35yRnPjJQj2aFnFIGcY_2FalAyAyezMHNg_tlWKc9mLCbViYRAmCPzOx2_21fSnl2SdoUNmWDJwNcd1wkpnW1KXFG1NuYDAM7NrT0Ci55OUgFho8mxV-Y8eOGohDbL5GFJhgk4lBe0B7smHKBrv7PF2R0yXqEgVycshvsNV2QDZTkelDlA_T3ToM0QpDvCzYu1wAQw7D_m_I7AHBK1KXIEP0GhTn4sDQvURkDQ8cItXsTIhJFR15lPHY2hitAy7AbDtsQOO1r1IdG
+      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcIYtm0t2ZlQp9RDPWaxvEPHdp2krh4nlhk1K1IMsy0LPXClCs9130qC5aQT1R1UycWeM1Uh88_JZEqJx7QZScu4b8GgzgeWbiZqroYrwK8EkTAth4oO-MlDhdmSPSTAXE2plft56gXcn6Yz3LSTWwpa4tzYVGexC9xIvayalTtyDXDVNKwdMB7j3s6svQhILaDixNDvDnWmYa9ErYNgnr1XPMP-Zk4znZ-Lo6ExyuDEZDcYIC3sFCDaXEJED15_p2n_kqo-9DTqAKAOYy58kMCtnRZ8iwpdx5s4HeHWPNVEHYs8qnbVZpIJUv38zClow9K82WOupSv_L3L4YeWLZClmgmKHf0Ps7YyLfDe5diDa4UyCGRl0swaz3eGfcqXpkaRq3bQ1_slFAIMAq_F8GtcM8IIensWhXFHDmcvOg8BoPMN9
     widthPx: 4000
     heightPx: 2252
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz9pWxuwE!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
   - name: >-
-      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcLMITZXdmKAs6VvXMyR-Ua24EDVGkwlU7lTfpJ5VBQrdjszmZTEb_8qja6JhxbEpjwtiYSU-xXUfp-xEdc9u5GTWjb-u-P0tnO87t_Fi-r9B5Rn4quaxi_1TGp4YvXg5N6P6kG8vv0NXPHR2nnaSYB1JoHfhEu02PstTBn0bCxLKmAGT5_5RJxtvVQ1NGnsd7gojyINn5Y0VVVA7ZLvHTqTRhtI5NREbp10OBKJ7ORmpBJD_orKly2wVLQRYNanQYjFpl9iOE9eAHm_Z17ia9-v9upew4Qy2XuJLGpDIAtpAQ
+      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcKykVWsjEc5iBHi6DUqM3bMKTJfB3IOk5PEDnlECN0PScoTOpRS6oUwINszCOK6O750whw7Y5wPESp0InZb06l2g_TRUkhAxZ_XZ8wghqQGobIE5Ni0OeYnVFsBLV-MidG5OsOyuxipVEkqdVAQw126O8dVjAfVcBisPP1MUFpAfqvJO2F6ASoenSAYe9-2ytcgZqsKTkpRwsm7Hsj8aoLaOedFVKPKUZn5FCYBYjy_r5byl0Dv4ZFhKFK14eYdJQoSnKnpOqRqE76a4ZyB_3LoAe7NJVy4oqIX0c3tkUWXnw
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMSnWJpJG7fLWO9PGAoAc1US3O8jru1g8bLoX1z!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
   - name: >-
-      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcIh47eC1_yi1BLQZ5ns0q4K_ivIalegDOwZqMcOLl-xZqPF4ulLYqiS_j1cnsSDpVgKRO0ieQ4ugRBlW_SHCsj_q2sKYgPaitpTyq1sR-T3V2xss0o1WsNGxW72cr9cpxABEnMl7xe9mlw6KayEz21IiDK0jyaTElAIW9Uwjv02jZ2ZWp-qsPTfIUebQXtS8aqGbv6KmXOGb_TcaD0WQoyY130EK4_cYX4ICvdH-vyMPoMVbE-zeGX-M6Oc70xtgrsddfhAPYsN7xPU4Y6BGISeNoyYp0qeB8dW5cyh4M5JBg
+      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcIKEN2KRCe0_gRo1s1admZQd8ztvz3_CsDHC17iY69VB1A7jUn1AGXlrZfwXpVanS3vOv4XfmTDd-y2XMLF7osAvHOJ4lOHBG-FfWZd26rLs41GG9D3DZgIbiiYaa96Cp4joJzuLCqN7BSKRdR3I1AMQwU758hSfC_Le6iasGmgP1-GuigI8UsvR6O5hjkpa9NRKognuhPQXTY0gLJChXeNHDepz_kjL1RuRt0RFHyEl1WzIpZN8sF6O9zcBblqZa-0zDJ15JyRDp4hDLQ096eZXRit4xY4qr7UvV2ueVM00g
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -91,20 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO3F29DfDVDDPskEEunLrJKShFhmId_yfgducnO!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
   - name: >-
-      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcK1LlM2jCCBhZDO0jB19TXXsrDru9br3UQFDBjQK1k2eagkIHGEgrBkxOsS2YkaFW3Svu3ntLwx7Aak1fWjCiGWoX4N-gmglFMpveLT_NjP-vVHK4HkERbyqQS6IOvSJ_1l4VPYLtv6aOmeSDWTu__vSt7A2Ft2CF7Yon_FDlehPikXEmtFxUclUm9QEDwKaBDwD4DN68FbSw4Zth0u2PoEmE0HE7OhcKItBMCTwg5o1CXTEVxLrNmj2bXwZZkAwcvdxVK8rX7Wv3m3vMeqxkCNqq1lXi9wDVW6eExXDFGXUQ
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon San Leandro
-        uri: https://maps.google.com/maps/contrib/114843195816971070068
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXlS6RUzhny3UU5QtHPq21Bf1DD4p2uvgXUrgn5rALXb4hi4rr4=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNFKNca_EAjXQcbCnr-F0-svOilBiWunxqR6eXA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNFKNca_EAjXQcbCnr-F0-svOilBiWunxqR6eXA!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
-  - name: >-
-      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcJry2V_W0iRkTgw_i4Xv96TOSxGlX4oU-GkL9CNUKi4rZoDHSPctalXCij4X682GsthQS64799EBxUkmTVOh5r7N0xRM-6gqg29Pk3ljsaL4ZQVpY4of8dRMOxifWywxxTLrpvkqiG4X71LGjd5tQXRJQ2F16woKWnCFa2DbcmEUP72iKQctbLKKUHg4AIB02EUe_RmJ7C9C0uYtwTcEo_NZwvLHs4G7pvUuPSL4d5ksyB92BUrXSCuinHiadiFj0U3J9TWtYSSiovQgoirkVmhjOhr6RXgd2gzo25mV22fHw
+      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcItXlora-H2Zy7ayYlfm6MEB6yMJAef-IwGyQS5tpUKhY60EWxO8RsgpOV3KRis_-o2V0Y5LuSFWB5jn-AZdR0UR0Tp1Sfh95N8KWC7A6p4o_R_2az09ObCVYR87AoaVJ0zswMWgY01pdH_imiymJtQvOLctswm1KWTKrWdIXeQR9ufk-ZENP-t_-Q1GS0JGDh3TxG9nncS4K2kF6U68LwCFVSZ1l0aHmAdhHZ1uaUoCRb7WJHrEI5DMWLjUvZGCJEAtvWf4icqPI8dr0cwnkISOHWJLyPngCbCC9-OmO-iug
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -117,7 +104,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOCfQlVj38MAa5b_Z_W0vumwraZnU_ZAOj1cDas!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
   - name: >-
-      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcLp_WxcOz9IRAedLx4N-GXRm1d3o-Gy0F9N-0A0Q3cUZmT7yS5f_sPBUaJpLDhGUhZZNtcttiO1ix16SQgWQrLZnmpqcNdCYuMnTXM0XqwJSlsbxC2xph4ZrTZiwi3CPHkZLaZICMB0V-BB46tlb_cosF2UP8qu4Jc58DeNznixrF-ap7ilUsqhJ9Jn2aKUv6YB_G7Qb-qzqT-PDQUhVy6UQ47uGg0uyHdgUFcApfZ-sGHlJjHabYtSsmJ2xNDfl9U4gDEdDikUc0O9wk9sJGIoa_XRAR7Jh1_HZTt_bWl5tgmK4N8phFr-viXflmw4NWLxJdrcL-1Egkf9oND0uE7KBMcjAt2z5Wd-VTsevI17eplYLqqsFvlBGAEEPG8DYDxFQIaI4cCfjhtnCkk4nuAkUSzVxlHKv8uC0wJi8kXtFtJD
+      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcL1zM-ZY8WIHkwMu3X-UzZx8eH36t-5j8ARLGKt9OjPc6i-oMmFJs4U-0UlpWMqTf0h3TMwSKURb0Zoq8gclUbCMN_Ap8UR1iq30cPCWHVAQT20vRSYcQlIhRpjX60W00I7Y5zzQ2xB4YmmgKlkGhq3KMlmFFaDFrmI73jIr5MhhrZTnWtCFlwmyDuER65z7TfKAo20u3rFmZ8i1gUO1ZeRmON90w_NwvsJtqdBEoydBs5BCezGAPOFOgyXLjaKLhnDJb2CoSPMnpA5DxCE07xXasAUoFM8xO9bNa2uB6L50g
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Bonchon San Leandro
+        uri: https://maps.google.com/maps/contrib/114843195816971070068
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXlS6RUzhny3UU5QtHPq21Bf1DD4p2uvgXUrgn5rALXb4hi4rr4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNFKNca_EAjXQcbCnr-F0-svOilBiWunxqR6eXA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNFKNca_EAjXQcbCnr-F0-svOilBiWunxqR6eXA!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
+  - name: >-
+      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcJYvPyKNQ07SV8TRQ-B9q0yH0XM-qi6IpvOvb5t4ez2eJgLR3bzUnbtsXS7WbPd4K-02UU36gsBMiFn_9ZryujNQ4uATNF8kVW15gO9d6tB8A9yH16ayTW07kRtCwM1EObraOp1mENYZp-4Cs0nxxvAP_cxVTIVJiOKXJ83qGrmVVQYjt1nSnjAX8ILjfZUFfzG_kxk_EnJbgmElWMIf6VxELwyc7Eug31u9ErDRm9b4WqGbP6RiUj8bdNV4QjS4hbjdLPGAsriO2oS_Q_xJWZQU1uu_ynjEBQKjQfA64ionA
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Bonchon San Leandro
+        uri: https://maps.google.com/maps/contrib/114843195816971070068
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXlS6RUzhny3UU5QtHPq21Bf1DD4p2uvgXUrgn5rALXb4hi4rr4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP7VK7_ICsO1klFwP6AsRf699TlVxyErs7raTr2&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7VK7_ICsO1klFwP6AsRf699TlVxyErs7raTr2!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
+  - name: >-
+      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcLYfvpLmV3zlK0KnS-ZC-uMLj23eFOIMRK6nY-7DBhZKxL1_JfsHOAoh4wIb-jz0FAGGV8vrw876hfV1Q6amOoa8FFDuYrxtL6Z3KMvGwWuAG57pn69O9pch9mH54vpr7s04k6F73ISbWAoj5cgYdW3ke8CH28D_jTzFwW6QFemtb8X3kbC78hCs3rRYr8_dvdR5L3eT24CAYO-77MBNkLhH7Wz1uUNnqgW9orQ-Yxt562ScJyIbszCqdFn5CcEdeK1J70-bX8bEjf-uOEuJ7RzIQQ2i9S_B12b5bFLhJM1FIEl3YmkNaFuW0PR5BIgBtfmSCPwjZ_J6SDD0zhRMVNzLjSyrynAKsMxtX7HA2aBzm5FVAaQOrhDNZ-9oKt5CRsikjVIleOcqm2HC9l2ngcv1N_PQQPB_e3ByMVTy2lcbQWo
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD6NPY6AE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD6NPY6AE!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
-  - name: >-
-      places/ChIJaazAoGiPj4ARTT2e_x6luoo/photos/AeeoHcJtUxwOd_a4ruh7bN4G_xf0kPamVdT7kMicdbg4NAf_Tb_-0LG2StGPnJQBJfjp4p1AaKOULjoAGuU6VLbGMVjJ1mJCY9XbWDXeErreYXRwNUj1sEGWjJz3zs0aPUvkrx0_72fap6-NNoxdP3vsIX4JkIay3BWWCfEKccd9nSLZjhEx6i3jOEnqaR_oYoSpwvhZeCLqBQJRstpDLlanMNLVA4N1Xtu4FQFrQvHw48JZAJSbWmiiAjtwhCKMC5aw0BMG_CXeht3QDLrO3ZAj4yg04WzIvdkBfLdHGh9c5RBFAKD6vzhOPgwRSGdA85AICYbdmyA1WtoIO9z-yiVwTxS9-_PRGY5mgYvqNeuWcuIpdYPsm4Kxe4gnQZyIBfvCoFDkZWuD1DRyd04IVhhEcpaWn2C5Arja9AggHdM7ssoZjw
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Damon Tighe
-        uri: https://maps.google.com/maps/contrib/101625843772849139481
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUsfzCcMTfSlx6tSD1BlaCZwW5Owjn3bPEN7RvwE7yf4lArRkyNMA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICukPvzMA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICukPvzMA!2e10!4m2!3m1!1s0x808f8f68a0c0ac69:0x8abaa51eff9e3d4d
 address: 1275 Washington Ave, San Leandro, CA 94577, USA
 street: 1275 Washington Ave
 city: San Leandro
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

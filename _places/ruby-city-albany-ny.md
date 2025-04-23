@@ -13,7 +13,7 @@ description: "Casual eatery serving Pan-Asian eats including sushi & lunchtime b
 place_id: ChIJd_6ZKE4K3okRK-68YleE0As
 photos:
   - name: >-
-      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcLGvXLWeoD_TxuYcJnY1f6KjKxYXvZQ0i26T1Kwo3kLYrf8raS8kip0TfrLnD4slNvTRcqJ0qQcQHjcTLZwijL5n3fMcmzKUpOZ9AKlmAWH3yCe2TL8LW3JiSBfit4c4fiuKHZzL-VavmWJB2BIhWG6mBNM6nF8tFhVc3tXQ842BnrC0wap_x6oDwLbblLh5cN_B1xjZUfNuTX0KZxdRLX03LbhIjVt8jMzCVtnTpMmAT9XPOUKvISSCI1H8tFw8dDMh3JNnpe47uoJugooWU-EKh0Upy-91LLdgSN6Guk-kMdCGsXCwl6Lnq61MDUeJxntgbZsLSMzVpItmdMPvxnSQuzfcFTnLS7xmzdeFD4wNbszFTa6we-O4kr_KoM0sGBKGdHXYf4eh5d6v14hQg_VIGFgjFGgXKw95YxdrBvbJvcM
+      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcJfy_j2KzF5ZJE6uB2ie30h77P5xsh52TTGQLxrqdhVTJa0QFhZJ1hiVw4kdHnx1lvKYQBuUneG1bDlkVzTZbT-qtDbItBQgg-wlpZTuK1mZeHgH2RXQZSaLHIFisRjexPOQo4woInXHhABp_m_15rNYwuQ--YUlsxeqbhr5SUcpVCzt1tRMnAuApMhTYYPCcCgi3AHeG0zlnPoFHlDNCyIwzCZa1qQQOGqCLUHXUMpK4LispOuHW94izpbskIl-Ae9YYc-LRYhL9XVrpKmQIqe2seQqTUzJwvkM9xjtXNdSwMhu_qg5IHyxh0f3vERdfGhWjt4HWUtRN67bexdv6meVMZ2Th8Ig5sLg3aJX68ER4hnVnh5Lyf1crIw9lT52YjWJyBorE9NkS6zhmJkKqgVe1JxcTklzhZTYkG8JUiHXTx6
     widthPx: 3907
     heightPx: 2201
     authorAttributions:
@@ -26,33 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuvIT53gE!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
   - name: >-
-      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcIBzNutDla1W9dLkgp-2iEpIM6KMiUBdYbjPPTi2P3DoRru9AYzxrXnCivjUbORmOqnLpNjMEiU85lHjU1Ln282NSmxOBaabd-bsedd3qnofut_GDscMiqPtz57i1z_5wO7zOKqIAJNqGw-kLD8aZoRm8m9naZ6IwcbSl7Cvka-Ad5vppnKL0pi7n1qx9ONNh_m40N-nIZBdUWDYQIywuKBn2wTdp2K1z3rJxlwxDB6Ck5EKp8WUImR_YnraJEmwvtNIAzzcj4GKtHHS-qS56ktDVf6tpf26A9pUjDDLR3h4Q
-    widthPx: 2804
-    heightPx: 2103
+      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcLwJNHLJIMCTT6P5WDmLdLp26ppyovV43CXtjyr5HpXhhsHsGKAtqFHkzO2FzLO5cfRUuS8W65Xg8XJmXw6F6sETdEcxUf3LMCC3cDHWDcb6cHkcuv71G67AcHBvEujo-hu-aoSkWdUH_i2vbunkND8ppIpu-aw1JSpVU9Rqwc_DbiRYDj8DhOnwLFLQETAaVwMTRUTcKOLI28qeq8TdVCj6A9pijk-8iKedqTdsop5vltt68v8aIMURakehgtgtVQtChkW-jelugJPQ_jiD-wno8Ov8C011JzUat2JwDgsQQ
+    widthPx: 960
+    heightPx: 640
     authorAttributions:
       - displayName: Ruby City
         uri: https://maps.google.com/maps/contrib/101074907752533948221
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXSboRb1B2NK22LY6G2OJag8d7-FBpownMakWKIEaMzodIeZ3Sx=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNCuXSHBIxZ9Y-5PNjC6Jd5YTCH6BHheJkUtCIa&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPNiOGwQtpEEo2-D65kVWbDPwk1c0tXlyaQDAu7&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNCuXSHBIxZ9Y-5PNjC6Jd5YTCH6BHheJkUtCIa!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNiOGwQtpEEo2-D65kVWbDPwk1c0tXlyaQDAu7!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
   - name: >-
-      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcILlxtiQfOXjVHmiz0pDnsDS74bRjqyGPSN7LDMjttq7bNHoE6zEnR_I4DXqHZQz1WN7mZlCcKeyZXH9AXcWNxkhiCZ5erYsiGfOsDNrnkqXdIqRUyVdjahm-kBLyC8S3rCunpl9Ww1DT7tahrP88N7ZEXCu8dTFoVzwKe6uQeQnFJqNTWPUHMs0UbCRnz9yWnzCGFp6CGrq5DwojuQ1ZeJjJJmJmpc5XyyNmY8lNqvL_zDgW05_J9YqE1qQR5etEX6fxevKDWB7fyT75cGJLUG0UbQHEZq8-iAvt67PrSZT-FZoYdFAgnbeN8Mh7TsJ1jRsolcuLxMpZQ1ynijhlSz7eNWctiGQv0gV8N3auvR5AUnU115qie3jl99tgDsdUDCSAqAOcBAVVeeXj1aRHYO2bIgjgKk1IuZa7eeg0-gMg
-    widthPx: 3600
-    heightPx: 4800
-    authorAttributions:
-      - displayName: K P
-        uri: https://maps.google.com/maps/contrib/107076626368072804412
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocI7WZbDMezD_sZ94xQ0QGxC_HAymLgY71BwTYOhwuKmVBRRxw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwoLLlGg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwoLLlGg!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
-  - name: >-
-      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcIO2tbr_w4tmICB2C3iFOKb34rURa415DHRSVdPXud5s-PppxBfawIwnv9hI4iCNHJ8tejIZIhhAnv4TWKl0sTgak-oTwgfA-y0w4yZJRk6st3dBbWGzN79eWFXFQF0b_q4vV9ZiW3fAwTL8sa7iHhKa3XTct0FmguBHUaGbdrJYw6SoZKTy3cd1kDkznWxhywQiwIF4nPXC_HhtjFsrxk_mqIdkqITUaq__QLdEzRuMFuQW37qB1S0o_e5eSOoiiCml69DjAxFYB1rkWBfx3A9R4bwWLQXZWyzz3tm2_uDNVkJ9ANhSKEDDI3dwbQ62T3qzoR65xZ-oUFMvAk-I6-IEdQVpo1UOJL_q_pyIAfbhEQy3PIZ-K-u5ZPcW3rqyBZFcwkq16oMenVA51H0eA_E53OS-KbXeFjRZxxItwK8BQO9
+      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcLWOt5TfknRRBy-bbXhZ0tb7VlHA6tHLm24FgSz_tpCafcwJYwbM5qObfoxnPKyzvdesLrZ6N18UYc5tl5A5AeN6Oa1bNeN03XtfrJhoGtx_033iZka0thzFP4vTcmLL-le3QV_OdWJmwdFB9rgRUqEF13MsXuaHNtQfU_P6Wt25srp-qAsWu73ySBfjwDz7lOQyjGGaFZGi4v0Fn1mKPY6wRqlux2UQE56ivhqEbTEceTydrJMD2sAOP1mVMRWkQmB5hnPuh3dLF0ZBf31hwmVi0vw3eR8nMXdvTwUz4695MLLzrPF5KDKyaEhOKiDkKV-XWqSXp44oy7zSsBRAyQs-DATABDxXqhGz_WUvHykgJ46vE_FzQOo7mNjItZi6DUw1wNR0OU-piQGbAbxCJ8JC1nMYCpF9ZaCrL7T8979BPZR
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,20 +52,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb6Z6N0QE!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
   - name: >-
-      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcLmzJPkA5Gd8D8SqrM51Xav_IBzkyZ3wSHd5MhThdy-DkdKevtZeTa_mo0vzD4qZjM4QAxt6ENvJkICbHYwNY5IHdywoi7b2z8Vp4xxYzDR-1HAR0J9FoZTAZMx_nYXbVkqNn0PEijQnnq4X8PaJhoow1si9sZ4CxE5BOnWfftdXvWGbTp71kRP299wMGPsv81TwH32Q9WhU8bPSc0hexk0a1G6zFsL1hTvWGZXKGkIJl-2kpu2KwGzOHubsYlZFezK6j-y1RufNVHWu5X7gZRT3TfWdDh1D763s1PqZ1p7zw
-    widthPx: 1280
-    heightPx: 1591
+      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcIMU9WEr1Md3pFzidLsruCrmhlyHsNxo18w-ZvFaYdfbpVT0bl6Bmt_9TOm2znMR5P4WU5uITYNNKOhVNzv8e80rl2tOcEs8pQoaXEWnDEC2W9MqHh2s3sWPS0teVFSi96nx-vzeLYD5xvTVUSq2owGTFSzk8wE6nfKfUlFOlIP0ykFxVH0W7lV71SRT_bkGdwtw3ZxdA4hxyANhM9m86C_M5sjueJrx94xGfvCAhfnJ5zf3BHa7QWW-T8tsF1RPtjgvKDUJyg0P5CcaT2rbSqP5xPD4HGtImSHxHmbWquUE6_C9tr9nRYkGmn3nxKpa7Ies3d-e2ZZp1owU-SwBgO3XiJFdQui_med1BI2YdXdKlhRNk8M9uv4m5te9MhDyJBkGpZSG8HsuudAgVISoZlxfLZQWIINOuomvMi7zMcPCvE
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: Ruby City
-        uri: https://maps.google.com/maps/contrib/101074907752533948221
+      - displayName: K P
+        uri: https://maps.google.com/maps/contrib/107076626368072804412
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXSboRb1B2NK22LY6G2OJag8d7-FBpownMakWKIEaMzodIeZ3Sx=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocI7WZbDMezD_sZ94xQ0QGxC_HAymLgY71BwTYOhwuKmVBRRxw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOaEU_mMP7Of2VE5h-XM5xV9Rcg_Az3cXIfUcVz&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwoLLlmgE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOaEU_mMP7Of2VE5h-XM5xV9Rcg_Az3cXIfUcVz!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwoLLlmgE!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
   - name: >-
-      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcLpKpx2JQ_3S38wNbViMZpkvZVUmO3FZuUyCJciPDuLdm5BMR36uCLka-Zy-wf-4G4bp6UNqVrr-EuYvrtsjxe_wIywCn36In37v9t1zcSxmeC7SfMZ0xdc7_zHVwZAHpkSZrHaOK9kqGpHAw8Cso5SZJ6BuOQJjrKsKr3Dley_t5BS-VSKJXyXJrmLuwQ-fT2tK7FlcwZgJZP5xcKkc0Er6ycGGpanSLv0MqhVouhFMCUO_THI-NGJ6FFXUibmhSTtJj-vCAhvLxWe6NVgZAUdE_97cvHwBiBqXNOdLQtfCPlScrbmCi2ofuN9CzYCGGSzQlYn3dDSYEGc0XvjCT6uaI345lZTU5mn1DGZSJyGdm1DZaUVQbPdW9Cf3LnFeOl9HviJx_ewvvrpEKVhnHsdtEww6O6f8HEoYY189owqUg
+      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcLHuhQkSW6ejcNIBvnQi6mvlG45glgxaiyfqq6q38u4tjZ9Mr2Vj8enHe04gWHRiEC3npstte0n1B2g4lACI0tIIkR3CudzHpMtStiUGtWnsvh9JZ5UuUWAbbFBvbkLi1taUc7jap0_GiT2SKFcA9jrmGUxqFWxrcDtbULx0YawnhAVvcS21_r9_mmJu3BeZfjDKn4XowQAoA39RAXx2pe2jwPXbn3w2d4dPnfbaI614gZIM5ZEF8ShK76VLQNe3PVxmjILYu132RGGxAPN4cfrEv4HpqhRUu50BPN3UngyjKmvYRGdUHGg9mWeE9lroVTxAsVisealxEjYGOU_IQ7GERdPDVQtQ7ZCoC3zH_i1i7tyE7-Egc9iJwDC1g0jTB7wi4tYYWbKFGDZbZ27K4Fr0VrW0G8JV5ZoHU85SHtnIA
     widthPx: 1170
     heightPx: 878
     authorAttributions:
@@ -91,20 +78,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT_auCSw!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
   - name: >-
-      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcIj3IFxXsfJ974E7d_kOf7vz2_9eJyxd8T_So1mv-EiYIVC6YETkpYzmxKh_RsGLMvFpCYb1CYkq6jU1JE-r09iuz-wc88gaVe5oHTArKk1DBPh5FFjDh6Ex21bP1K06ESHjbbATdLG22IXGSKgoEqygnHXrU3A_HMNLxtv4MOQDGiilUw4v36iOWWGj4pQ5sNH_0rnAFeGoXlOaBZmqi4gXBAb6B2uclrQt6y6waLSVoO3sGwu_sOF72gltiyIukFACKkPQ9WKW-9iW9l8JlNijLxP9DFXulAI6fi9dxOD7A
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcLn-1we2Tr8uQJ4ididWuyQhzt6fomKfhWLuP6LjIR7c22od66UVfzVheVLTVe9MpGuCFDLgN_9iNhKENJu5sK1lfpjvvEPqA21zvC8cJ4pBPC24Nb59AOFWP7t8T-Sezcp6Hj_kFcFhaOszXPv7r20opi7QcjH_WOOwlnzX0WsV2IrMNxhuKlXJ6cnElOX8myXHNd-6_CwQep5BNrX9oIONj5unZiZfsoQNaMjR-vbcvyyrgRJPDlJZ4WmCs64VIkiZ3ndT_hniYHVa2IpKwbmwQb8lex_xO7Jl4DU_DgANRbKCt0ip7Tlj3MDQe0iG3qyzH6C5jz5smDjZtLcYvSEOEf6Jbzciec7-s5kYgLaeW4P0ctnYL9XpC9IKSs6UbOr2ulXvUG36NymhQQ6KyJqEDt8FwKTI_FUc00q9_k
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: James “PoloBear”
+        uri: https://maps.google.com/maps/contrib/109323244345127097086
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVPal25a_caBUezrVLcF2CpvcNCDe7BfYd9n_JpDfyTfS5OrLKL7A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTufbbRA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTufbbRA!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
+  - name: >-
+      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcKfvxr3hAcIOxp9FAeYXzjoU_rw6afV8tJvm6goQUPbrDKaNOg3LSDGk6nONUXDP1NocQKa_AVto2_epXZmiLIXMoXUcP-Ii8FZGR0jY5nsvgHaDV7mv6NHrmmAYdIEc6n7tYqYzpQpV5QSOhaoVYY0FFZe7prO00UVN1AFY7ug_-78Scv3AjXr5CXE4pbdw2iRnzCCHVkRFVYtZ7ba6BalLsXnMLEZ7TQ5JdA_OczETaxIjUNvyOCrLQZL6mBN9rWgSEWqySNVI1FXVD8zY4iUhToWCbQ2MW6DEckywFsMwg
+    widthPx: 2949
+    heightPx: 2212
     authorAttributions:
       - displayName: Ruby City
         uri: https://maps.google.com/maps/contrib/101074907752533948221
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXSboRb1B2NK22LY6G2OJag8d7-FBpownMakWKIEaMzodIeZ3Sx=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPYungwOR1oGfuPvyfgW_G-LZbDI9Eay4U95FM_&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPB_4d6pfOJH8P1SFbkyhWBWUjT0Xl0EvXOVE72&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPYungwOR1oGfuPvyfgW_G-LZbDI9Eay4U95FM_!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPB_4d6pfOJH8P1SFbkyhWBWUjT0Xl0EvXOVE72!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
   - name: >-
-      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcKMrtKxvZlKYRCqcSnDZdhYn1rbOPp5ldTLYNYxfBmhJPyoVRkKg8jSs27GXhGixtaY2qWOpPs1xy9lcaK0qbwIR8xWQGdjEpPmnm-UVXVzb08yMlYLQCPQUxkvZwLBl3Zmv3IpoDWo3YB66GGMmmWRazvAWototNRqPy4lC_Bqrqe5bmCMb-_CTyT9htlHnTYBJ58-mV5qDujza7tnT4uRTZ6GkU-XDM6oywUSV4ponZI5mvzYdPuH8sA13KOfZ7EiwEN9dmYE2nN4oV5L61UtpC8v7-ifwIeYePDcmOTZfg
+      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcIeL46Z8czM-FGdpVojKGoqytwh6gjIbGwigEkGmZBTYfNU60VEApZxwb-eIa2ua-0Lljhgl7kkue22cUbXbqCOy79vTORY577-gvRrj8TNnCzyP57c2rRUoSp3LeBCQse8XS2vQLD4fkQXwcQ4otHsDiUSrdtm6ZQRTXAXwyEL0RpJY-mdhNwW6SUPNg7jWrUAD7fgdbfZpINXp9hpUstnCwaN4wrQz7EtjzUv2vtGEpygP3ZcuYESvKharB-JxNdWxjo5j2j0kCU6u6f_3qMUVM8lkp5wQvAhFT4XXN7Ukg
     widthPx: 849
     heightPx: 667
     authorAttributions:
@@ -117,20 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNnuqjMmo2kwlWSz7IObcLHf1dcbWqG82udTQg0!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
   - name: >-
-      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcJKeglWeUbrfIfcUVv7UvrMlJxOv_C-N6z7oElvwfwcf52diFOQ3uuSERoVTSsw8hAzIjo9CxUz0yn9xPtG4TgAdLwwoTSUqbDz2fMRofJ5suSXA9_IXIg-mIym6hHfrfygoGQbM6PqlhiL4e9xvg4a99bq8ol3cnJWVOz9VTcceCeLDaJ75LhRedCdHLx73JJ1sgHcmuP1aKofX0JzHZKP4qr4WAAw05ixcP3GOyjFJXxJ-ZBG80Euo0h7unPrO9lznyXvPIiq-pkjPja5g4N4slg-cpboJ2fOi194nfvZUs76rrNte7KOKmsw3rO0gfdzaohwyIZMiPuPDHwrdW_smX_G9pGdpl9i0-4AXhJCm0yXkrMjAmsLPeePFAC4YxC9gI4fvEI0yElR4wAKhv9n3YvnNzm06gDqvqNQQNjYEg
-    widthPx: 4080
-    heightPx: 3072
-    authorAttributions:
-      - displayName: The Widening Gyre
-        uri: https://maps.google.com/maps/contrib/117447506698529740257
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVdRg7UHly2MiP-iaxB21HNi4sg1f6A7k_Hg0Rs4SSdubLY9sZn4g=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID5sYDsIQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID5sYDsIQ!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
-  - name: >-
-      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcJDkoN9s4YoBmXkpA4GrrYB0V7ioUG488HxoyWPfx9N6cFog-0GmXnybaUtB2kdrtrn7noITcJb4pXji8xBSpkJn3sfBSCBybAUXWruB0_bMI_1TdqO8Iu-GmFRwG0uFzRVbFvRbqAm6okOOti7iblFBV7UgcHlQFeICrHHDPGZKdLoAgbJPBXDae6lI3gnNCiZ5AfChkPyAzqvoKzNdbg9PytyUwJ79ixuD0coF3BhBXeF32z0AUdHhBECvyFkpKD-04gWZ15dZ0ALClI_F4jCXV9n4tpAMpKTsQc3jm9DMxbiCBBOksJthZY17ks5-7ZgR2wI8riARLk1dwRf7U9WCCSzzlCCZ03hk79r-XkDoOBcUvlDQkJs9v0zBgTsKXsc-P81v8Q7L5HAHzSNjodYqlNRBpjHFO2EgLmfRpV034K8
+      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcJb41rAxorMa7b-klOhqV8VjmLgHjyrf4KsqbhaSepWcOrY54orQeA-N1360vko5O_5eanos35Pk28Q5GK1X4Z0CAOLJMf0GpOBWoUKvZ6IIiQGSo5BTKzEkwUrRMzKX_AwgYJgwIWTzLZ2JBHuolVOqz83nuOgk440ZPh3IzKm2Xc-HV_B64CR3cdZVQRwvLEMJxguQva2Rhr5kWLU_icNGpj_zzjLmwUdyhAKKHNXjqblRw6Jir5iUI4g7s-vP3U6qLNRLiYeN-5QRQdeoLXg_YqaeYbFPH1Nj121q81UtwnV98JCuC9RqD35ODj4IC6G7MM_jpjlFPAx9-juqgC8TBc8w2bJjopBhQjESOB-qV0FLvCyArcNYf1_-5UIjGSAt0u4jdJQ55n9gNYtNgBFswOrSL22KqluFuaTgEPv2bB6
     widthPx: 4656
     heightPx: 3492
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkysr35AE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkysr35AE!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
+  - name: >-
+      places/ChIJd_6ZKE4K3okRK-68YleE0As/photos/AeeoHcLcN7QduV1e1RtlNnQgPURPAx0UBAm_clZFqRbyet0bwSJ51PfgZZhaXXM3ltMzxl_fwuikm1avfkcZ1qeuKWQqTllInYHJz0wA1-OMuvD5oiWRiGbKlnR6ZOJuj8WDj44QfdFm6IxVHzDuhHHNgPqKHJJtXeew0BDWnBULkKuOhuHZUlNNlGzbxNkMmavQKMyygE4TJTphT62PekDDFzv3dNYT2vpQnFPF_xabbz9I7lqQkpNH47EzUPjENQ0gi6fWeOteWvekVHNVng5uHIlvOaRm49mymk-_QSIlpwpOpBG4S17XJJW884Nm56Y746-ZFOSg_3ohURWmo4EdIbnsV4Nc_0Uq2dWYi0sxWxLOhhqCxBbGjT5Jv3VsiMJOJShEOP9Pq8i2WfasZcIwSNN-yTM2WagIis75DGOB86K91g
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: The Widening Gyre
+        uri: https://maps.google.com/maps/contrib/117447506698529740257
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVdRg7UHly2MiP-iaxB21HNi4sg1f6A7k_Hg0Rs4SSdubLY9sZn4g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID5sYDsIQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID5sYDsIQ!2e10!4m2!3m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
 address: 875 Madison Ave, Albany, NY 12208, USA
 street: 875 Madison Ave
 city: Albany
@@ -182,7 +182,7 @@ phone: (518) 438-0289
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 248
+rating_count: 0
 website: http://www.rubyalbany.com/
 reviews:
   - name: >-
@@ -425,6 +425,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+update_category: essentials
 summary: >-
   Casual eatery serving Pan-Asian eats including sushi & lunchtime bentos, plus
   sake & bubble tea.

@@ -13,33 +13,59 @@ description: "Shoyu Sushi (Parker) serves delicious sushi in Parker, Colorado. T
 place_id: ChIJFQscQNyRbIcRvM7CG5rUfS4
 photos:
   - name: >-
-      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcJZbps4hJnosDZ7-O0KaiI5P1TXBgE-htFbs6_IFOtxaYYCyHoxJII-blyezGsy3a3oRRVntydQU25aVB5vooCx-F2g1ndUV2975BgSDKWW9DAhk0TRe8234tK1xgSE0z7zeAqp_v32-1S0racTTtRj5S7_SNbF3gtg3PvMqhu6o7ofMDzGfrJ0O9t6wz-uviywZ3AG_Qs_iYx1o4AQQPa6u-x8KiM1NCVR8o-WK6a3t2XxA5aW8cvRPVzHgijb_paPIFFAiV4LB6hgY_j5BSM3YpgIqAUfl_PhK7hcMXfIow
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcJsSxuryVryTkuxut9LYellSIQUIWAwI282r7KGjNuAItBOx7RqkpWwOkk3B3H1WoQLlv2oG0puG0_ah0sfdanULEtxmfDC0wmQZ2hCPqViBCgl9KQ-Y3iIQx7qhjOycZJdO0d1mSysQ-vHt9enbCxLPZA4nqmbyAMGoou9U8k_qB8R7g2ujMki4-dByWuiCVor1V_WcN7Uxt7T9m84TDUJ20UAdRslXcFBcvonHsLCcChIO8aAl7sEqfh6j0TDxwnxJeiHmDTEanjUZYs4EqFbqnCFhwq4xnR_JYj-i_bwdA
+    widthPx: 1207
+    heightPx: 679
     authorAttributions:
       - displayName: Shoyu Sushi (Parker)
         uri: https://maps.google.com/maps/contrib/115447532838425514815
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXzKKe-Y_qGMU2RbNm7ymeX2jWUgWPUThpohgETOH1ps8fIsVU=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVFoUB9ISDC3KRviJzpCFzYuIqGIF6OiQLz5FUWsXclaCUkSWNl=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNV5ngRKk-zwOtdYZUzBiqq0m_yvdJA35ytMgCU&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMVbkVTgaqr9NGjyqWZmoyebnR0MhPJFEqxJpbf&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNV5ngRKk-zwOtdYZUzBiqq0m_yvdJA35ytMgCU!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVbkVTgaqr9NGjyqWZmoyebnR0MhPJFEqxJpbf!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
   - name: >-
-      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcJu0FV-lT-bBCASeoAwPcvY9tkSwrKZMYhvGnOLXXpl9QDEN_C9eEZ1wUF-Mcdu5gW2ADs8MUmfZwgpf-TM8ONRwLObJ57pehtoBbu7OPlDrdvVCzGN8rdr83f_A_tvqTJqm2jurm9LAfg62VlcFjTRE-b-1rBr8cm_apNjyPok328oyEj66I71-RUiUwguYX3YGRRIva-RhB_kKUwH45ciG3poZtLVkljcl1yHN09OUCMlL_kq82PrsJwTa9xiCBIH9oUQbiXpD4fheTY0EQk46f-fh0VP6Khl67kF6EmWkw
-    widthPx: 1666
-    heightPx: 936
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcLSeMsloZ_2Q4zIF4Y7Q73lsn7OQM3e9-5gXonb-o0tn6s_05tOYl8WEpnG8-TaSYP3265-xEWbsLwlCccG_1-L3ZJBFDxH5Afmwd3yljpS10TvB178wMT51gUq4O6qRHjb53BiHpc415ZpIsOER50JHxaEvbqUMz8akMa0Pg4McNOKdT8HXNupLWRNLoNj8RX5h-rZwg36lFZtwwvUgPIyGgr8ENYuagx4cX1sA43AYP44E1NnvPvb-TAwGzJvAqiWAxDMpyf2JsYO9vzh30Pw3-98UomoaDBL89xL6MjSdA
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
       - displayName: Shoyu Sushi (Parker)
         uri: https://maps.google.com/maps/contrib/115447532838425514815
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXzKKe-Y_qGMU2RbNm7ymeX2jWUgWPUThpohgETOH1ps8fIsVU=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVFoUB9ISDC3KRviJzpCFzYuIqGIF6OiQLz5FUWsXclaCUkSWNl=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNQ57P50M_cv_8MnKR-1fa2smnIwkkszq96B9k_&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipONtRczyum-l98nU1BxTUUOiYGx9SXtn-9AKTfe&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNQ57P50M_cv_8MnKR-1fa2smnIwkkszq96B9k_!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipONtRczyum-l98nU1BxTUUOiYGx9SXtn-9AKTfe!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
   - name: >-
-      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcJoOYlzbfh0hbC1O4o2lV64-uhitWSz-5gACIfr-PQpLQajZQ5QQIsATBy73NBNNiVYhh582_8wfwq1LpxynY1udjki3qMo6zogQJ78QOxD5FTLAFw5dzANOHHbzIlah0IINroeys48Cs2Q4ted5d6Oa2v93ix9mqV8tQwU2BgMs8CDM4gf9aznlZ5opGruAScv7wg9WQzLksmMIKO541KWT5eVmc6g2FJYmSPfFY-sHXqjleKFKenYRx1_C5nzrpwUxQ1ZqXdsQCpOISv2AyboSp_4u4Lw8TNEd7J0lV-kBectIP6FUV6PyRyJb1ELhjafPu7WCZhEOrk7BZgAnV7VmelxVTlVmmggdGFfgX81qKkuhLqdue0aYE76XslzQcYkHlz96KJFnasLkFmn1BaY5TW0pqZzb1jhZg-aij5nc5Iv
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcL-jd0oUexXPPrVN01xrmzOZ0JJFFzgkyDaOB-NUHbf52SzneZgyCc631mclA3nxfiPURg--GUemywvSqg2TR1_ktaZeQr-EIrexeR-W9kuO6HD8t3oKtHzhJf3zPgTo1atTcSJ2y-OAmw6t5Zhhh0n8DFz7ASu38il83g9Irla-Nvtkc9hR20XSFlEg-WTYxcBONIothzyj2zM0PKQ9z_YaGKHAEjA2CIABOYl4cCCw0UCNKUVQjjJafBRXxBK2h_RZKDlI9TvRXT7_sztLlyDHhCt4Wx2x_yX392XhFJPF3aFW3SZyDbED6S67ER2widrs7tRJruBBkiazGpWktCDkV-CPwlQ0UhJsArefssug8j2eRPCh3L-JIuyl_bN82VfRdYfD3W57N5Bibg9nwULJlM9TJufWXbSVOnV4wvfaarajkvHtKj5caCWWEba
+    widthPx: 4800
+    heightPx: 3614
+    authorAttributions:
+      - displayName: Andrew K
+        uri: https://maps.google.com/maps/contrib/103222316938993728155
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWZ4MLiF3B2heRqkJbgA-Y-YqgSx5RnNqf8YQ7i6kEBIPklQLOk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAIN0uGXQjTsGf8fSEAAfWM&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAIN0uGXQjTsGf8fSEAAfWM!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+  - name: >-
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcIObqEnczAusDsRRHQH1xvirYGXIDydHUuWUfT7mT0L3OqLW885XvP__wooFqf7GOZ5XVmCw30e3xu01M_ktsgNmXZOL68jO8f-u7is1SJCbf5yYNeNAKhPqRN0Wl28RYGr6dskIK2etZr6dq0mmHhRSaYYbOqTiDSJIWla05dGM221BSlrXucwGxGO45y1lItYsgy5EY_CbQFxsLMJc4eFhYTh9Do38Fa1ZTZ0joOuMQqmYRDRS3Elv0iz2BFFkbB1WpM6OnvZdmdePdZVBcLFBeRgkieaZLQA6knELK8iOQ
+    widthPx: 3021
+    heightPx: 2748
+    authorAttributions:
+      - displayName: Shoyu Sushi (Parker)
+        uri: https://maps.google.com/maps/contrib/115447532838425514815
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVFoUB9ISDC3KRviJzpCFzYuIqGIF6OiQLz5FUWsXclaCUkSWNl=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMenBdJzpGA_pdwtTcpegdcNeGr7M6UE_ABew0-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMenBdJzpGA_pdwtTcpegdcNeGr7M6UE_ABew0-!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+  - name: >-
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcJVMhEKgpiAVIC4gULjPmoWkcIzwbkKUjT4PLNPG5nJHlmPqJgUcjyPl1f4YIoImxzlrKUOgDIq36R9PWsGPWHNTfheHo-Ny7__IwfVwmUkwS73NONfP1jAm3QlQIyhmbm7_SsVLL2GxUFsa9ZxjPaE2EOpVPg5ELdU4sDfhimvrfWeI2mkTOBf06XqRN00KXw0gha9HmyLNiRaq_sfReenQK1b5oK_KXXIg-K2XIweGYt1tF3yVW6G21Qc8B6hPdBhAKusoaInwxp2Qb8Y5ytEWK9qstn-uRfni2WoG9jXSm_PU-xiO-sFB61z64ti33dnxX8KIePZogwdulHBj3RN8GjtFJYV-Aar70aAR0ltEI-qqbzLefqjyU86_oHpeXmyYuILaqeBOHCtL7vPg9tYV3JtqHHP9FM833G8D9zQlKkA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,33 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIv8H5pgE!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
   - name: >-
-      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcL-a9JF_Gq9tu6I5ImiV98Nazwaeh831cd20x2q4jCrMHCuYs8VATi9GazEP98cIkxubOQYpWa3-yu8xUgCrZIzsL8LbaKJfw9vf0VrF1_HUDJebNnbcxMtYDpI5jGoUdEoRlNEazEhU2hF6RUTwdLRMA0VZnT-VxWpASb1-8qSRGDWfKkDC7s45MCGAmnAPeDsJ7xKYbBtWNoZPreS7rR9JLg_vdPsFN-Jzdhvp5WL_E_KFLmd_hhBaVwNAxhl3-troq4yEmQ1YIf-7KbZ1QAwUs3hPkLDYlwFEJRovx5Sxg
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Shoyu Sushi (Parker)
-        uri: https://maps.google.com/maps/contrib/115447532838425514815
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXzKKe-Y_qGMU2RbNm7ymeX2jWUgWPUThpohgETOH1ps8fIsVU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipONtRczyum-l98nU1BxTUUOiYGx9SXtn-9AKTfe&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipONtRczyum-l98nU1BxTUUOiYGx9SXtn-9AKTfe!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
-  - name: >-
-      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcJ4qRNQHN_QIDt3-RaansdYFthJlnCXRCF6AMIB4bc4H0yhxeYqdhV0vXttBML9uWkk59tEPmuOt_90tNkd-Rd0g1Wmc0tr34As_fMvTgceAlmTkFzCMhb_8XapuTqYfEo8788OimbmnMcvxX2fMhJ3Qw_Ezg7En81Z4bmBy3VKwp5erdATF_MSyZz2uypoMJP-7fYTvn_c0gjkzgYfWIWkFUGPVZ2FO76t5FRBCZ--kSuzsGNGY4px0lc_Ydi0Km3NVLgjI3_9Snd5B-ITQAem-K1jM9TNc7zhFKnjL-JWfaX-t6s7hSGugbclav00kqvL3DIQewT-MPIffrFtPogbiEUv1yQEuigEtLvVOFvw3e9sjvVsu6qAZxdQYuvF81gSyaZhvEzsKPH-CppjaJScnApmri4Lpqo-bQYq4ckLtTlXA8rd2VnLPhnNHKcB
-    widthPx: 4800
-    heightPx: 3193
-    authorAttributions:
-      - displayName: Andrew K
-        uri: https://maps.google.com/maps/contrib/103222316938993728155
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWZ4MLiF3B2heRqkJbgA-Y-YqgSx5RnNqf8YQ7i6kEBIPklQLOk=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAIN0uGJRE0A2f18M8AChsX&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAIN0uGJRE0A2f18M8AChsX!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
-  - name: >-
-      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcIFw9Ynpj-073gpTerI-7QwnwvSbliY7-2u8wnM0KQfQihtHi07_Av3WQleVoMq52_q6kcf0D34YGooJ-gTtWZnZolSSIKrB6pSy0ZDU5G7aSuY-1Nc59JHNykBdRuJiCi3WzxRKAMKUZ3xSSLa34JWJqm0Bzy0qEbtsi096Im2S-xeBO1zzXv8Voutp9bgFje97PdncwldPJHESuzRnc7cgavfA3-ORUFCic8LY2TrhLPcKZHyB-HJyNi-8Xv5yLcqOWIhAOVdngvQHylcaeI2xFs-Zp38AKt2sMey7BOfkAnDSVJ4Ii6HQCFN68Q-X9o2_a8y4dv1YgFrX6Gyw7fi4IRT0qkD58SeX50wv7J0tOXCF-Dq_KzXwmytg89_gG0kzbclNcBI7mbm7Z2WxS5n-jeECKDaceD3hdUq5IXobrYz
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcLwiFtQLKBGbDPME-5yqHaNHm0ieGcCeEsAoJTz3PIczFbftPtqymh27YYTOJYHnOoSG_a9xBbzYJHvyyxnAk5Ep3lFieatGQWwjgUcCACFsJA9n57-rfTYfs23j766M9YXdJ8_hZXo28M5UNOHBFHnlRHZNdGaXdxZICxpELmNPieyH9xhFEXymn3pWT5q6Gp9MrcR47zDWJ3P-6qm9mn43hQkA3cNweJCF6I3JKHVbtZRi59jYfwer8qwM1Kx75NJx0fX0shRlDNJeX2ZXG9VUpRqLnh5qEkccSYh2oFlAqpRIOkkGpu_WgzU3OfBz-4Mnd8iJZpn3gYhTwX8RW8-CqJa-pZUh5o06d2A10KW0zHdMA44cD5BEj30RYSUTwmP09zsCWpeBJiGPpg23EDHPIBBFsyNm_KiCVFlQRPq4Eyj
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -91,20 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICblseFqQE!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
   - name: >-
-      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcKouNp4yrUfrozhAK-w0lkj0zDmZP93g1VQNV_ezKlCpRqXAr7aCm0VPfuFh6D4itn8b-P-Ea_4-C0i3LifGcL1lXWzQTKJ4h6Kf8MjGNIOHszvD56PKUyjEPT2l8eon1QF27qxIe4ZkX7Mv-cGnp3OVRDZZBjOJqYjb5J-Jrhv7vhhQwMOMcAg8GGGPBj1f07P_VCqbYkcbOw-DC-imgDY5Y1zS9cYF7DWo6VX8GAc2RfuP4yk85emfqgBO5mgQWAd5wH5GEHK7L2-NZz693PPicGabsDOPH193hW2knX4LA
-    widthPx: 3021
-    heightPx: 2748
-    authorAttributions:
-      - displayName: Shoyu Sushi (Parker)
-        uri: https://maps.google.com/maps/contrib/115447532838425514815
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXzKKe-Y_qGMU2RbNm7ymeX2jWUgWPUThpohgETOH1ps8fIsVU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMenBdJzpGA_pdwtTcpegdcNeGr7M6UE_ABew0-&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMenBdJzpGA_pdwtTcpegdcNeGr7M6UE_ABew0-!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
-  - name: >-
-      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcJ_HJ4EaU56NbjA-N_UAw_DlqMIKlcFFpJbfcHhMnptQ9XSCJCTHE_PK0xhskcW0bfzLJcxy4Ki56EyTsvnu7HfbzAaReSEr91m1MbajuhxTzlp2LJb21mgf8DbuqD8AkLVtqAcr0uS0y7GMoMPG4zhCkaeA157GKwQwUg54wmcyGhFy6PTJNoqTtPLUg1iPliEoHW66--pUZPkFrYV_6vfzNIvl4fhGzpn03pL3mDfKitCfMiBdvPifhDJA1k2nm-uStJi01XcMYNNBhgBbTn0eqFG5gjXiR1zs3McyQyL5fQq4tJvPWDRgB-5uKcT-Egi6KhyTUo6QtzDXm_cSRJLucPCnNAeoAtjTY1SrsfMGfK7CNufcHbeyI57C9uhmYJ-aE-PdKBSkoVjoVLwrbxK6y5h_8HKhmUgfxpyJ6A
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcJ_LobRff0kdA28cIUlHx5qTUFPdjq5iQfG4cFHWVRh-82hJUuvznQlFnQdrk7EmPqFtYr36c8n468TYG1onHlCklOV1bgl2txbD0ZcWJpYnmzSH3FSweU1u281jRuRe2l-YAL22Azj5KdsmI2qS6W4uy0lstvvwtrMX_l7Exa4FTKm2zrnr-IiwR3BZ7wu839DOoRdwAMMDJQJ1ff5SsrwunS4NLA86po7fxX9LT9NtX_gU8prf499etwI47niEoHLIdfqjxU8hvZGFnnBrtLGlMkP5JcoD5nwvHPHETYuUYxCfJSr0P_G9gLYSFfWwpsgjdC6AAzfPb1jxwrEl69pDQlJfKRmEGEDHIgnrg1kzAK8AQNYKW3cR0GxGscD0qXRagZgNm8TPL8_ZKhzMqw4PEBEPTVGlOQYtPaoA5Q
     widthPx: 2268
     heightPx: 4032
     authorAttributions:
@@ -117,31 +104,44 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB-5L9Rw!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
   - name: >-
-      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcKOWt7XLUqTgWjM4bRrwN472yFNAuEVxmDr89aeanbrtZkab6b4eCanFA55nOWarU--NdytD_2ZKhvH1xE83WjOrRhgwOR0wUPCtQ6rx_5jGt9zdAvHfEAAhmQPWr45dKhKUbllFgVcZgAXe10zB3HIU3bH_sO6rrDK5LFxtLdiTmvbD3tFkoVXXOHn0nKt94tGGVWCgn-F3HDmkwwUgKiC_lG8clIiCDmC3pv3LklEQ0Ik0oJ64KpjmXWwjZ2LYRgpK5oTCw2g_c5XAgNaxCpw76WoWJhmKncDSnsn1DgnDw
-    widthPx: 1917
-    heightPx: 949
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcLVK4FbTEMrKo5pwjK6rtytXnlL2y5P7xCjYmeg8LUmmv--YcfPt_sNbE2tKbbKIvvBvaED8IIiYlfZPTb8u1X5xOvSeN6jDEbIG8OEhr2DB7j0SD9BMcYanpGZNUhP3KwAQz9Cg8U-09gX_UHVIg6b-yI0coa5CIib-37tU5dTMmdS0uaMGENZEhmz5arv6Fs9MZiV4nRKthuTQ9sntma4a-NVUxXehqq53NEjkqnOxVj5mfEdFOUNxOAgmO_NlDGobCmmFyEo_uF7GABD9tUDrmkwHzaNMcuT6C97v2LebxO6TCW0n6UhDOGxie8dyUR186eR97mO7ynU-Z25n3mbnLXU-_FfCMTr135xWGsRPzausv1JhjAcFSHjFUiV0BijVHp89UQs46ZuXRFx5SW-t5DrsbTj_2Nlxw9P6aXeP77J
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Shoyu Sushi (Parker)
-        uri: https://maps.google.com/maps/contrib/115447532838425514815
+      - displayName: S W
+        uri: https://maps.google.com/maps/contrib/109094563274336676856
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXzKKe-Y_qGMU2RbNm7ymeX2jWUgWPUThpohgETOH1ps8fIsVU=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUpwRkc9oYZNKRrjr69YyJzUizZZGvE7gN5xoTjqoiJ4tUA5sG-cw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMDm9hkPH4V8TF2loToRvF5F1blvpYrgWGQDxt4&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxosrFkgE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMDm9hkPH4V8TF2loToRvF5F1blvpYrgWGQDxt4!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxosrFkgE!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
   - name: >-
-      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcKFtU86GJHsVKLox7ILob-B1bspvHsXs6TxM6HGXbB4J1crt6DH8MfTphICqemWIezbwRtHx1C4CbbbSoPGPjjQqrOlroELulM8-HeQpjRw-5lZ6UzE2WI6u_29PjhD0jmZXbwFOi25LiCEoQdLnGgsQIRhFd4nwPs5a-Vg_BVEP0ZouoLbvu7pFCT5pyVYF8JnUqY2AMBbzB6YJioL7hvYctrvBlPkzJUpJXfXI7s03CpnTA57n9ASPAKAclRFU8NWG-agIFhrVD9LXMMByltfNw2TXccFFw0N2J6wahy9ag
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcL5lCfzbMddSufLiCjQrNZToPdx1GSAx-_8nY4G6WhZEcuWbBZ722u8qTOyJfXvptcpsbwmZicWjerbWZcvGoaG9wNqWJY2JBXlkDyYGorgVx23A0Bi47usWPX3aGOTUvnGUAlaf3nAoahuxEQrsmxIgJIfUPhxN8V3j3w3oGpRkXeewLiBK0zTtnJrxpuagXtNWwz3D3D14uIY8LpxM9wxWCBc0cXOggVFM8J-KIKvvGehI0Xe7lltQQRxs9jOdM91_V55QaCaDIZIPgKZM_JDnGVUsQdUGvyUWnMBoSiHig
     widthPx: 1917
     heightPx: 945
     authorAttributions:
       - displayName: Shoyu Sushi (Parker)
         uri: https://maps.google.com/maps/contrib/115447532838425514815
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXzKKe-Y_qGMU2RbNm7ymeX2jWUgWPUThpohgETOH1ps8fIsVU=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVFoUB9ISDC3KRviJzpCFzYuIqGIF6OiQLz5FUWsXclaCUkSWNl=s100-p-k-no-mo
     flagContentUri: >-
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMl3IE0sc6fF6EVevLFO5JWzCtBIY43_6HDdlgE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMl3IE0sc6fF6EVevLFO5JWzCtBIY43_6HDdlgE!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+  - name: >-
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/photos/AeeoHcJ3utjLV6zowrDI6QgKUIOUG0XelmT7IOLfaTHIFx0xfgAfhkiHSPNjOeNvoctUikDIU8HDx4OoIbSKGIGwT66OkbYWv4VPt3wFHd7vhGu4mkjlMwoMzXamLZK8UVj1LNkvSVMUh7BRMBTyRR8pWjpBng9DU6uvS2JAWDOx83tRT9Afg-5cxIPl9Q0jdq1ZuIZpQ6K7FylG7q6bq7uXkBga-KJGD-oX5q5ckcN-rszD5WK-hLG9UEr4uQwbuG5j8XRiYGEGvWBe0OTdVj3bflg-Xd67-aJC1HXsyfyYLweoy7AAwV7IW3CgghHVXbGVmNfwUU3-PSeA-8jjYyaOzXSHWKtcdh_qm3MDdg8kd_I6I-Ijp0zruwUhl_6zgxqaD2z4DIJlYpexDVN4QIonNGJ8DLhGYIfIAcLQJHi8ykbTKT2i
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: S W
+        uri: https://maps.google.com/maps/contrib/109094563274336676856
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUpwRkc9oYZNKRrjr69YyJzUizZZGvE7gN5xoTjqoiJ4tUA5sG-cw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxosrFwgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxosrFwgE!2e10!4m2!3m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
 address: 10981 S Parker Rd, Parker, CO 80134, USA
 street: 10981 S Parker Rd
 city: Parker
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (303) 805-2188
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 208
+rating_count: 0
 website: http://shoyuparker.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

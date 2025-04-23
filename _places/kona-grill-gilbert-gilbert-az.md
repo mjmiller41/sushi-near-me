@@ -13,7 +13,7 @@ description: "Kona Grill - Gilbert serves delicious sushi in Gilbert, Arizona. T
 place_id: ChIJa5JiB2ysK4cRAuHjaYAcUGU
 photos:
   - name: >-
-      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcLKIu7JMODB90oAStZ8ubMRHlLxmkbQw6jL6lW6FCtus_ETBvnf2I18GtXl0Ex7PsB3EkKS1kfP7BM1A_zWCik2XvK9drFlpchpRS_agh3Zkd-PzqusEBtEGlTM8PMDk5IKoxQM8her1EvsKW4gVI0cnp8nUhzFq_Ww7YPQfkjrbOPbBsd0bHMzcbsd0achPVwwk7Z566NDPd1ZWfMctsaKrT2GmLtTe2R4SXuPmuHdpCJ-RoIWN-WgU4AOWm4uVj7TV76wTjLbAK0JhnqzQLP8ez83daFLNm-_7YpvQDhp8k_YHmUJkaLbwZgPLdZB3fpMfmvmUVNcKsv7mrx5SLE2gu0faYvuwf69DEIPXq0VBF402yiFBWGPpoAnkm6Je4C2BUl6U5AXTv8evCxzZuZQ9SEms04iPOsX8zGWDXzW-Hi0
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcLOcGLOM5buKV0nyIhqxe1aOupPc9BsnXitzGEkBzAPipMTBqFRpuQ1BThUujmP5arE_yxvSbyTYT2uGYjGNTkEannvRmKK4IkIBvHzw2ZzxoT8vOkkmbvd4yn_pRlmoHH-PIxrReiDaMmKa3oWB1QG2fldqoBBkyNzLBnEhU4BCV0HrtO1cMpQ4MgZyuh_a2hiBPuNLUrsmOc8YYiRcohhLSfepOdmYXTI9Vy1muuJkwh0r8gml9tpTK_CcIR6on9QdfD0KBwyVEPgFUj78YBfmcS_pTk888udw0OZBCyXzEVz2Qv5PhY0FHqLYJx0XEVNdRBKLagvqjxSzjyzSls51Qbtcu-JvyGM1QwN2ZeeRTZT2ILpuTg2TSvYOArqOLAFzF2XVzOkuDO2VuqsEM6CI3-DZrQXGf2n1OobhDga4nIi
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDf6YKNqAE!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
   - name: >-
-      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcJVvGHA52MPZfgVUhLMmKLx51SeaL8mMUvM0cjRSn7EMkR5-T5jdC-Bgv04bP3RQQy-VSGRB4egeIBeS04IbUBU5kIhCi2sRs3M8olKO1Oexa4Oy_9WjRx5E7qO5ln7ZxYgVu6Jc9abg1hQGN9mpt-RYMm_viptcy_gkIrAsmhBj8-xmfSVZv4eJw8Bx06Z47OVf3syJvIc-j9u5arduEJCjTMQVjshrnN9lb-Esg1IoFqZ-J13Kc52pZWPpcMHUusdKjxMzfy-K3ICCdYLn1ewxCny1m2Fh0SE12C367N_MQ
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcKTUb-NBxcItJAtQLF-_6uFyobE_IEE0-4g15tAxC3-7FYs1exD915xjgq_zV1HKLcgoPfhZG8BoRE6Wlswj7aFDdYgyp39ihGoi9ofu0kmZguoi-eOKtu9qyQCKIHUEto7CZSB-PAF2gUD-RR8O2at3CryN-21f32XXF6oI-hEL2SIsFhuqyxthcbvRaXqlc3sF5d5W76R-THYFJT7e4057UbAG5wWNwlxJE8oFyspoy3rf6FWEpvM1KxkP2jtM_az7HnswEkvmG2w3b1Ed5hPzDixGi5ILvAJLwNEYRbyEg
     widthPx: 2048
     heightPx: 1718
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPBpX99W_aX_GsHygJwtcO53nTht5Ul4a7ivXr1!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
   - name: >-
-      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcKHAzHaYgWvAHgJJbt0zj2DnQTrbPbPOXb7Jc6XZq-UXNbdjxUXaoYMuW0nnoCIziEyMIQ8-5fYoh6iNITCQ734HBnYPu93Ql4fsbSVw7bdnMjQkWAtJq1SkS1emhEf7Eo_FU4LnU8qgAJVXIolaMo4tEhV_OOQ0IP1oyvO-1xalG6qDancC-7cGCUDHPc6vqDptdCwc7ODmZWReLCyK0FMB-uUBzwsmIrFpj54p7nqCRg3GYaF_FfGFSoG3vB6O6Ft3qzMB4GIk7V9jDaQQilYw7zggUjnRbVUgxqSY5J55A
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcLmEJ9a6pwLJ_J2gg7dm7ZIu0W1uCGLg6iP3SQmhH4j0L6SLo_8rfXM_lzh6Tr4JVDnh8nqxzcfwuyYesPRUrKqGRfIwtT0exwoZtHOYaJ5m6rPpgaahOc7Q6G1mppCzaZ07YQ-PY59vehFWyQBYB8T8MthwVMNXGOja449lXH0b0jOx8jADqRCkcbvVjBXCti-26bVqb9klptS0tDMfRgKvvfbZLKJ8ndNV_6jVnpoSqD3VBxL6DhetN_s5e9Wcbm6MkuVck7-uWr4zSaDFVwmynTksLA2hRqe0vnnzOv_jw
     widthPx: 2048
     heightPx: 1536
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMA6_s51R7pLh1U0z_Bkt4uW9V-yviyT0MI9S60!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
   - name: >-
-      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcL2m3HJ1EcQICeTmaErAY5SsUVxqT-o1-SQ8P84GZC5L2s3lIy90T0a9fyGeQ2ya0GrF6lbnyxDkCS4OlIV83wEsPByhuOW8W4W_F2vQT1MzWtrRtjFz5wvazQt0C2WNfqyS79kvp5g4BlxX7FWh0cy-_4AZDEuXGuw_GdvdF1SvWHlJ-V1HYpgNIk-Nsa3z3xmyYOg_1-0QIVw1xSzuwqDBklqx236Z_ZFfaOrJz3NURVSHbg7bopru3pZmqAIhwDz4fi2QEDlPVPHmCQ1-xoa7xjj5UKJYJ-7dvy31jTZ-A
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcJ1gbHWNSWvJ7r1QdqXEGQ_vfQSxW-tgLFxxST10TjpWdo5nolgiaiZuzlfCfvgQgPjcYKw-SWWXY40hcK1y4monfDabO1j_srqgnEuMN9fqBftBxrTDU1kherZfCOl15EdHu61c0U55Rdp7Pgv0Z3eDlmLpwE2pLSEE60hZJNVlylT_76EsCxMOvi8uj6J5cQTt4S2UHWAdc1R3eZMULgFuYD_wTEoMX_An5OtftZxe1LUf-bxbckVegaBB8xzH3j8TG_AiybouxKV36RfCLKgo6AheUyQLHHWKvWJkuetgw
     widthPx: 2048
     heightPx: 1536
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM6-q-e7obf45304sCh69BDLA4vWyMv0GgPwjM_!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
   - name: >-
-      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcIgjKrQ4FxmiZCfVesVjpYakFvF-yX262rlK9rzkWKB3EmiU-fZt_c-MgIE5rSawb_pRdzI7RFkSj7OiaM2J4l3D5zritWmsPBDQZWDloDVDNJtnspNlrp1S9VJ7nMhtb5mRaLRcGQyNpo-E3g9kz7fBsE_FFO4-fuC9-eMexisr-6XF0RViQ_FbAGzPSN8Ysau4gJLhtohjXWHqxupdSNS2sNq6_VZXZbnTI2_cVq0RXb1IGajoQU_dsaxYXBgPUsKBtT6Kf9-RvkavLgRs1XkQ3XPflYDLqVcrCPZlbEmpHxTYt7aYDqBPYL5T0BMLeKLUq_GuosqjVYdDKLgPBObgC02b3xBzdoAkCel5o4plbkFHlz79rHwdfaRfXtZFf2vuvcJuyGtVonSbd_BEG1-N3WybzXpo1AwqsamlZN0OQ
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcJFhHjmU_On53ztIKkFIwPEmLlyMpBHRTzJtEfXHFIe8e3gCwxrXZdMVBdM9HE-IvJwdZIfCGss9w8zRcgK3PSeAncsedDUNdT0pyqgm43YGzDOF_OWclsWBoE9F6_QEpDqa9kA8gXGzRbLmQAPAh8IHSPEF1GyUIw6-uEkf3UJwcfMhLHlYo5znl6shUZpF53AbmOdvFtKwrya227OB2i6Clm5vOR9yR460WGwkxqxUBNCCb8NFqb1OvAq_gypYItZLtvP6bjkVxnr3vi8LY3VMT3UZ8tH71ou8SONcfe2ed6CiKU-EHpyVFofywyVZBQ-K18IcMkN0ZqNkoHbOE6_ydC1WSPD-Ah7cJSejRIxAxcN3GOgCkAcEyNC3_-K7Dxpbc2XmtiT7R42WreFn9ho2kHsAQAjQxYjKuiofBiqSw
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDf6YKNGA!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
   - name: >-
-      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcL_FQ2oLSIn0fdAZdoxLDc8Iysk1Etob3ORtRKXIQ55s0cAFLVyUUiFt1QUttJIBmeFtopBvy8c0-yIj64SZG2SbdwcxQgU6tkwP-diEXiVSxlww6tge5I2e8iWSgnfLE2i5PNPqt0zssc5YzsraKkhkRWED6G6mHiKNugjEKrO6u0AKqYUMokyeaSeg56TPOHTHnWaF3TR0NLW-C439BCrxoOhfpMsYOC_L_1L12-aFOeEiT9wWOAmfZ8371o9aDQMeXxAvrR3IGi1xJ1N8k5ApLmwk4q7M8DbwR_Et4RT6U2d8AlLL84tHwg2bmm4s3FB1fZ3gs8syAAOHQOPS_-cEJ2Yzewm068U-HwH63_FKClGmXJi4d-2fVMDD3G5AkaDsFrlopNamqkqAaI7C8C7K9n5idTtWVb7T7qcBSNT_1BZ
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcKW-Qg3L6wUnNDEw4xPocJDIk_whdw_w9zourY5jNnAoRtO7-okJ9eTsdzRHgD9rhxpBbeeFeEO3x3FV40mFjN5whPLaV6PcxPLUxQaBKsDF_aDMp4PxEShU2uwr9yNGQmWZjVvqAma_SlR1lpWcrYHQE0jsSTj6jBzEGA8tGR4Y3qHKxOih9VfLeP-LsQV7sCAWdU1D5MQA5O2bzV0yFdzdmECWReaUetwe52xGcannHJlfXzjiw2Kzs6BCNplhTstKAdU9MgUqZwirrSL68j5_-3dx9qv4YflLa8B4B6YNhmA5-wIHBkTLjoAK0vfDeeM5UXbCdjz5Z44byW3HUKetspWQpqx7JlacY1Zodm--YWrNQ7HOs_Iauki8e9UOWS26ukJjeb81fxceKpHcEvas3bN5qUZCed8UiZyaj_JIlcu
     widthPx: 3060
     heightPx: 4080
     authorAttributions:
@@ -91,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT6fOSzgE!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
   - name: >-
-      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcIYlyafEGLTCT2DCf0vAkx-do6xuDx6UZA1SmK0y0aKOPfJvpaXxbHf53tgPAAC_4t-0FQXQGEXrgfNXrM7cNXtSrbXqT-CzblyP589RjtQFJdCdcabDJQmmflqH9NNpvy5dJBRJczfPT2XPG6CfKAERIlSE3w4Z553hulF4K5mm204mQESDN7UjL5-_BZQk6GFy4newEDkejw0D8YLZYTFgC3fvUkEP23Hqlpk8iwl9F7dVWgiexdBu2E24BurSgTBPk5X470F5beZCy4kXVPw4Bd8ovgjGvgt4mp5j-MxlgzXeNqVlhDvEghcZjE5sKTQxQSJXLv2Wu9cXQ8ypJOGQgA48NH0Y2CTBmPWjpyqoHWlUbfuVyZfKviOZIAr7CGv8TO9vaCBJ3sXtfx4qxkTJlwpANgwZW8IqF6_bNt2WRY
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcLROTAMP7q0E_YQaaLyOfbIKcdiJvPSJ0bM-HiV_OGMIQGVWEppnjKrxSemSO6JWSGgY07YnDhLwLVihWb1zWb6bkqym5fpltCt8jBoTQvbu_wUPrKAYze7o3cOuFlk9x4NMbNa-BWR4JsTZ-pFqefOuHpeiAIb1AkFVC1i6TDNzqZ_5pij6qucTIhFoWf_8iVMmuTe8LFZ42sCcJKWQLf_fsQEDsSRmf7wVefEXV9yPt8JCrfDaC33qEKM10f08SJ5VKWqjmPo4q0ITCOMUorZTYFpVx4Q-n-Zto2D9ayxaOUweTd2EpI8hCSM_P4ZOjqfYp_fYooSHEW2dPAHLX4Bul_9-1Alt-3IeWMWpOJzIfVoAxCt5vTYZT1VBUhm91fh699KZqiUG4k2Q8javxQtXGEXi1KIBj7Q5inHyLk_YwK7
+    widthPx: 640
+    heightPx: 640
+    authorAttributions:
+      - displayName: Esther Ray
+        uri: https://maps.google.com/maps/contrib/116300269751319472238
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJqT6hIJ5QRu83yG85O0WrtCl2m8edR_2AtYNnR4LC4GaNRtw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWwffT1gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWwffT1gE!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
+  - name: >-
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcIc1PSIZ0hkTnGaMIUczKVW5QSFU8bbNBY1aXQZzeI9p3Rc9UblV-SeIPi8ZO9ogPrVhCrwPolL2jOslcB4V73Y5Ete7CzGsoaDn_Mr2ewyj3ieyKNpu_Z5x3-eGoqm8z8XENhLc2gQUk1isDB8XKgL4XFwEKDVgCaY-zc0owTl7wd9Hc4JJEWuvrkTVEuye96HR8kZXeOq1K5Ck7aUClNk3e1j7e8pTRXLW1KjsYq26lPeEAdXlN5iDsohS-9qd0R2WkBXg16LUb3zmHZkdIms3OHOCvdY-lEuYxUwzlwKiu7yEAZW8nJ_bCJRRFTOSIrra5X1KHCj1Yr4KYa-TuVejTYeWz7L69K3RP8wLOax3Ni5tuom9GhaFw27sUR2oh_QEwknNx6uLTVGNdu-B6AI3lPMd_ZeO8l2-PzZYRuZsOI
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf1tuZ1wE!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
   - name: >-
-      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcKsJjx4e4HX0vDpZfrwetrh--cVnHnxyEEeRFO77fAdwrOyBgauuTtB1oa-irM2Z6Z0QBHEMubdKOXeviWgNBfzK0_08_Jo9oCiNe9MiJ4u52BZiXroGiX0YKeXG4uctPmZlXgIxGRAyDoyGXVnoKmbCKQONXWL3nsNS-OPLAOvFo4a1jkNF_gwPdbY6T41yp-5OUaEFvuMynn0LY9iaLPR--BrCVBAMxy-Z2fWeCncQ2dLP4TG1JbUhZDUrPVk-jEGlgC0dpXkCpEM_6ye_qmtFrwjln5mPoHTHrf5s1VUXQ
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcIn6UhvPQ4xLNk0n297EWOpCDa6aPLAUjEQuTvCc9qKplcHwHdPlRiX9nBgHHOrT4AghZZqzJ2UmQfcu6PfAeNuxy8nXNWM0LGv87r7EihPA8uPrBKn2IpkmgJKZLbdU5HcuejN_LW_54Eo2tfCup2OROtj-bVU3uyeKDRTmkCQkZu3PZny6gHI6fzqpcbzrEJegmg0-ZcXSPgjkRcQEIqhpA7c1uCcCqI5IKQA_ugKwE1wcnyMAP5HeJVC74YwWQEv846--DwuLFxAHFCm9RKzLb3k6Mbvxul9Qbb3urVeBw
     widthPx: 2000
     heightPx: 1316
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMXbwwsAJF-Dq2kqu61jQ8eWBJhZHpv8ykxB8ds!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
   - name: >-
-      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcKUjnCZ1_yuqhrzel6mnLuLmRdrgsQCZDlsjNAh09rsCpKfj2EHe-6SrdArGS68IMkraHJjZyt9qYZjS7FFXU3oivuqW6MWbPb052VLe9CQLxg2exOihk6MP9mYRxxy4ubS7wY8KyejJrkkWjvDqgvf4jxC7lc_AwdYE6ApXR9gaf_QkuhndJs2aFmOPKM42EDIvndORsZMFBrzQeB6w9ZWD8ufp13jNgo3txgEf_nhMIyxibwryU-jAA0RpJ-D-aBPjo1EZx1AokMjQ-PNdiVNo2yBcRs3dVRZ0JJMCJJC_w
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcKlqtYgcF8QmKjvuqjzH1ER2TCRzZS6Ns0o1Vc91RBOqq9TsZTV6EqEvh_rdrm7KK2bbXvJVJjIPIR_qOcb5CdMcHnhD4UcA7sCLAwG_x1Yw51eE-30bFTyHojlCta08u9SVgPO9MVPBLbYw8ecBwKPp5vFXiTw2_3nlcrBQe1Ab0iUsUgRVxn2UXlfFdlnRzfaGeOA2we4961kwY3shUmtSzTBNxdsZZ2He0otdA5P6XJT_q3WBGqe453WwuAAVBHRqH-6qF01eFQ2cg6QuU_Zsrx1ULw2Nv9NsXXU-O4Xow
     widthPx: 4800
     heightPx: 3475
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP1YKefbZjV2PZe6QHLR9q0HbBnDmJ5bqAaBcH6&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP1YKefbZjV2PZe6QHLR9q0HbBnDmJ5bqAaBcH6!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
-  - name: >-
-      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/photos/AeeoHcIK5U6andGTUC7ksBwGvbHTqLHcdidi2XnEjdX-ITCaof1DKNk-ikyJMCmn6gGJ0AEZ8igLE_Z4TnU0Bnjwpmi9tywgjl_GpZNbjszP8LxyKXhrP2sQzxoNw8Dv47rrTJMfydGx-0f5mmI0J5NTuiH_vydlxVIsNrUB-YvEHuq_9du5WfGgbaO_EtsggUL1oNHjUACh5MT16AIf-lW10hGk-UQLeW2py_ePiIla9PIkojad-P9W_qIR-QWPYa50G_A44_OWBtzEmFrLstEEX1MP4Mw_rjSUM40YdMo94ocxWbIX-oa5MsgKnf2Epa8EaHMxCTm4pMCJJr-3mhAd1p8kGbG3w5yMuvhJBc5T2taPxQWRFL6Bp2qevHa8ex1HlZBGPb4nPvdn_x0z_ZBO3hKfHmxuX78LaoT89Pd67fk703YU
-    widthPx: 640
-    heightPx: 640
-    authorAttributions:
-      - displayName: Esther Ray
-        uri: https://maps.google.com/maps/contrib/116300269751319472238
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJqT6hIJ5QRu83yG85O0WrtCl2m8edR_2AtYNnR4LC4GaNRtw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWwffT1gE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWwffT1gE!2e10!4m2!3m1!1s0x872bac6c0762926b:0x65501c8069e3e102
 address: '2224 E Williams Field Rd #101, Gilbert, AZ 85295, USA'
 street: '2224 E Williams Field Rd #101'
 city: Gilbert
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872bac6c0762926b:0x65501c8069e3e102!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 12:00 AM'
+    - 'Tuesday: 11:00 AM – 12:00 AM'
+    - 'Wednesday: 11:00 AM – 12:00 AM'
+    - 'Thursday: 11:00 AM – 12:00 AM'
+    - 'Friday: 11:00 AM – 1:00 AM'
+    - 'Saturday: 10:00 AM – 1:00 AM'
+    - 'Sunday: 10:00 AM – 11:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 12:00 AM'
+    - 'Tuesday: 11:00 AM – 12:00 AM'
+    - 'Wednesday: 11:00 AM – 12:00 AM'
+    - 'Thursday: 11:00 AM – 12:00 AM'
+    - 'Friday: 11:00 AM – 1:00 AM'
+    - 'Saturday: 10:00 AM – 1:00 AM'
+    - 'Sunday: 10:00 AM – 11:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (480) 289-4500
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 3125
+rating_count: 0
 website: https://konagrill.com/locations?locations=Gilbert,85295
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

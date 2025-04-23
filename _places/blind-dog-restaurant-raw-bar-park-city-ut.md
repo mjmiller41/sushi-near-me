@@ -13,7 +13,7 @@ description: "Blind Dog Restaurant & Raw Bar serves delicious sushi in Park City
 place_id: ChIJo_Klm11tUocRcQGKvUfn008
 photos:
   - name: >-
-      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcIO44CjePrRePx5KkY13gGg5USj6seQlUNC6IsbohSnUBhi4Stn3l3h8MhabWDNw0g2IoLxwH06Jpm9g3m6pB9K8ItyW0fEQNLS-MhOrfwcYvIAi4JUQWxP46QYfEUMV5KdRNhJSu0LgSygzok5lhAoa_V_JT-SRdE_4cxcyu0qK2MGBgOqkzMTND0AkTKM_fpXXw3kHT2eZSxcQXyhO0MbKkTzm62Me2UbLGteKpdm3X4pxdNZ2INIRJHV8YM36yoBwYVV7MpSVMpGQsBhOhjwP7Xrua65DglU0IZhSrKdLw
+      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcKAorRMEhIOtrQzUwp17b_rJ0ddGHFvajLmyJEo0WRTYixddxLtv383cHLrbWxu5RtQ0DaSvYtwbqu7bBp8yOXm2HhdCAdVnaDyoA0J8Ps_oXZyWLNLQsLtHisijoz41Gq5gpXLLL6D5TAg_pwnjJPk8EeYEIWwM6zq_W8Zz1JYKFqjynb85rRnurYtvI_sxHXXDap83FXY5WFdIwLJPU2H5r2hSU-WwVi-qtXb8zuYatFucmq-XpZRkVt5S7dCotoWze1REhb0l5LE6_fEK8e9K0B7q-upmNIXTZ9flDv0-w
     widthPx: 2048
     heightPx: 1536
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPJv19dk8s8_kIThzvnzYbqHqihurtjFY-Y5Hrz!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
   - name: >-
-      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcLsF9MVAIqFFBeyDlqJuLXF_ujtgnGjRlNXiZcle2lb5BSAt5AbncflybDxnKd23DzM_6tDuuaWsvDRGQc8TY1c5zPabBVXGxdZFVDKmgBwNPayxteXquswblgU7g9Ub5leIKoJ3KZw0ugi7JfF2LO-sEmsSW1HstBnlfz1bhaWFpCpl0cKesrazAFd9aTLcPOPhLHOJfU3eRbSgTbAzGVUQuERvMpUOlAM2XvKeq-QQleS3kOqCzOFzA-wWqd5t0SKQvJLiSjrTSZxD8yKbe4D0aB63aTd9LldYKv0aV6qUw
+      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcJY0W5pD50XgLKQlPcCPthMe1IaEfI7S1S20QD-_kB1BRsMPWl9APU05MoL7T8RozIev4vnCW__2IJkqAQDQ3cItilJqnwR4VPrjGM7cu7Spday8oz9HyMtHxKR8pbezIcpPh6OKilsa53sZHV6-2DWrCQSKTkRdbea3kHaIYfH_HvQcvSufvDl97aLI_eNCAbmLczb0_I7Yj3xJLCjsH10tDf6-ZRkpRRsxCXTrIAmy8cfiy5hWYmgt5MZyK4j9oq8i3JQW2IpTjRSXuNp1LvnB3rY_LydrnDtqpoX9yOx5g
     widthPx: 749
     heightPx: 423
     authorAttributions:
@@ -39,7 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMhhmit2XMCYhq356YwjY0oxqUqdYARmpot5Xnn!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
   - name: >-
-      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcLsBuGNFw4K-U3B_Q51RIcjRe7IqNqFzOEnHzuXBNrDrc0eDDXLuCDB-YpJUHswEsOmI8mdVvMO0IU-JNfxQV94HzfFIAMvFS1R0-UuubV3BnkyQ67mUZ_SmpJycgJRy4d3Ra7Nds_Rr5OVDdnSbearez1M5Sy6TVgg7dKtc0HsWrATxa9WD22FVPXTGbpNa5dDkVUjbJg7KYjiLC0e5uQWhxjrZNcHeUIlvnsUv1l7SZnFhaCIv6ZetWHlHaCxWLT7mqYped7C04UmH1-Dzev3q9j7HmfZF9jdScnCIAXnPqHh6tx4Zmj50945Y2n6vzM28ABI96LFXsZxF3zznwoC-TJYqVsFWCeNfoVskXRBUNDuT9o6EW76XF1yPABr9yh9F-odLqNkPHMFHSWbNlIt-nfE8ST826NECSKzE3GkELk
+      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcI95_otjF7eNq6C7hBhHNoz3TCYP5I9GWAMgmaaH4N39EgDj4n-docXvkhkP1XO8qgsesuld2GOnGgoiMfqvr6npHj1VoOaFYnO4jbws4rwtGFNfDxq5wS4O8FsMPvn1tMB61EeSGJdNcCyMKfr14Xp2-dhSuTlYHtcaRKD19veGp6V544684z_P_9qr81TxDnzLYYBs-1bz_HSk_kW6U_ozpEptiRKUqL88plIuKFVmKesn9NfkRIJomBTdzpxgzz--GFXYN0txi-ln41O2byfiOVZtlDLS4vKwToX_iOFWuAiVG67zNaGVnNlO2naf8FmB2Wy6V6A2Xll1NUZzW1d3EHHNeN08qNUBX2AOStZgnigyQDUh4Lft0624TleepE0Rqeg1XpJwXvpQvPVfwn6pRnrOZqcrWXrWUcjcCBf7iuU
+    widthPx: 4000
+    heightPx: 1868
+    authorAttributions:
+      - displayName: Glue Guy
+        uri: https://maps.google.com/maps/contrib/116268885455639659907
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUXAPn_WYSjH2VI_1L_rytxG2pvjUXhRnO15jHpUo_Ovi1NxJgz=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCohsXF2AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCohsXF2AE!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
+  - name: >-
+      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcJZACf7C-YH-RXb5TdlD9he7aszGkMy5q70pjOGYaJ7LBR200hsSy_TPB_rftnyzhVwUrsD0AtmGm1_YjSGIwYkULPm8skNqhuhnXcwh8MEih2Y-Pc_N1Amm7pCY0i5cDaaJSUuImmZexDLOg3eMOT4qeVtOIzI9oOBvpP9VkZGWtRQEz-YTZkaZ07fqzn6GSBZVBJITFcpdvQ0CiQTsBHpKI8IVQ_rYhDMNd37ENDL_6Ik_TE8OuldW9V2a07y8FqDJj5uzIFV9_51dWetKSPZPSDn_CBRSNAndKBh2K9H2esu6wPgr7TZ5y3KrZBJo6vFYFdLBz-kiXz0oyiUVWoufouPP3g9UcSP0c3izpEKpXPrjy7V3jdONYs_nLfopDe2E846VC6rI_fmHJgqyajFoJzN8bCnXQNayXa91fmdTkc
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrgLLs3QE!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
   - name: >-
-      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcKwDrMEA_W4S6mRiQCbldDJ12IErRpFl6OXbXp7f43BVnhThtBBkcbNa7JO2gHaXk2vNnK1wWeDC73qM-TVhIXXDex0AoP9WHfxgb7MLUI_7mlZk8X3Fe-rn9Dlv0HxzsTdqzX8dpsD3zoA5orjxdry1ulcNuuDFa-Zix1rf8JX2Ovc4vY-cSm4qoMoK3BZmV0iFSSgyk1ZaBhL9S_28c9dUo3Vb2vV_VWW_sT0ydmVb0m34sOv6UcnOSjwnYJgMQdUj_LCw1-VrWQOTa6uPNBkNuriDac_jXrenqqKOjrywQ
+      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcJkhIQIIOGip1yLCNmFjde_dEnXhlHx23x8sPgy2_dFdTHXpqL2HQzGMxN8Z-YhyskXRP2UEwPdj6OkIGCRlGqbk0dYpIhbd5_ptHnj04VWrcC-_iwWB8QwDUvtO78azN6pfTFFg_Q4ZISNbwSCDIp8323xQLXS_a0NApH2MLkRltX5tivSl3MGn6iHwVj4ylZQyB-s8FKyqHO_cyMSmVPor61uHeHczWkUpBY1cKEIXYWY12vVZALfnOA2WO6YhK3jODgO4k6XULE_AeoL_F9eZ1eZBzltPquLFDYP-uugoA
     widthPx: 2516
     heightPx: 2162
     authorAttributions:
@@ -65,20 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOl2ZOVY8f-52iESMPGwQ8fhClPtDzy9ynXiGHG!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
   - name: >-
-      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcLTH7WIE1lgMpjj5kyqKQtkxVYwMaz4XYkqjC7NLC4BqoP1wB6K5Oecxx_Hpdc4cYJknJWMaFvT9EfEOQX5WS0vHQRA0T_gO3bcHEAaXRwfsMyQBvaBRSFLEzfHMg2Wn10PyjB3elu2JEDBNlwDryfh_JByq_Ca5dV7baDlOp8o8wIqHsUZyqpba4WuzcdX63ePgnHVeQM8lAviTsgNBisu_WuEI5Tk0TtSihP_jF_NtbkVrX_TeCFBTnakAKRhYOoP6VEOagch-x5trOLc2pXDRzIumS-vWBhOBLJkRCXrygkg6hVH3GYG46CVekH1PVh48vGLGYb8ccGANr4RXm003NBALDRLS_1Lb79xbBfqVgR5GTpH4oSOkNqKz-ZaE9WBr9wNSudZoe2hf0hofFvogY26-te1WJKZtA1Ak6w
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Andy Chiang
-        uri: https://maps.google.com/maps/contrib/110054945046881289170
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU6Ytd6jvLjiUIKjc2DLdidLuwgHbgPUD4GPhFuPOLEoqlZ2vbh=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFsdacTA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFsdacTA!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
-  - name: >-
-      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcIZ9wUeNHIxrAhNM_Y6g3HIAwCGkyiO9yIcY9mZMebub5rU1gZxBpxGD2_iLPkWvlCIHvb300Uvx4GHzC8N691SHws0FfiOjmx9peAG7Y5Md_bRAoJAcgCHqu_YmLKb1qXVX3Isf492DAzG-jqkAAy3HS-VcdNneGsefDSK3hnRfqzZQVudvEDxNOGmVPoqqg8UoOSG7Bgb1i8wTS9VdufcN7kTrPy0vorlEpKuMO85Gy9mw0edMyipfmclWz1PO1RvFMzLsAJ4XJeWWBhJ9ZhDGJyW2dSbc0Yq7LwME9Iu-CpkpSXXUhZas5RDycy2BKOGWxOGhWwJ9C3LJiXCCHegqkrUxbCof3lCktvMT315X5VbfR53qCUQSOwG00x2AOh_xtjeXafbnptx_FzkKSi7avx7orLPPitsuCFOQNLgQA
+      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcIwJY5wy9ixv6ycffv2gDSEll3e8-p534JqvGH-YEkzdBpNkbfj0V2kputlG7rwihQcJqdbgf_gLrKxmDxID3smumbwrU99bWk37mmBbLq9dy7iX3ZPLOSz2Wvn6vKN13my9eH9gtF814_epFxt2T9id1kiyionmgmEwaZHDhXQi4zOdTCRow79GssowUycCzNVdECj3SRN4IuDiR0Gx20_qXyEtsmpnOE_UZKvBPh6SO19zisvR5PnFOZKXNMLaBmfVJtnM26xXrj73bcZPn3U4lxt-BuiP9JNFshzh4wLhbyUf1RJDU2gHxU0D4VAQQXUfL71_B4Uic6nyBsGroiDKfFy6Op7JXQPHNXIhTPdmY9c5C9KqKtDzyrdiUudnpSOuFiL2uo8RCZUm0qQFlA7-jxPzvf1qcJIOzdA-gJgNw
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -91,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ1vXeag!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
   - name: >-
-      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcIM-iuK6i-AFh3XCazKtr3HPBe9vqJ8Fyv73D9TtpZmr9bIOBrKi1ybDuvB2nrKyHFioRBwvnUPCCcpWwOKP7ChhOAP6TglP1yPK10AINbejD0g1gB41AbV0BTgCUXYgZ3pqD5WPhEUxfO6j6R3R-EH16QnB5tNrUOG1hQMKAl1w1CppW2G_vGZbdPgtBBGLm9MG9mCBbNTgFLfNhoXaktCjPk7HtHnOBl67BHfkrGrkOo6CMjhx7oKyCP_V1n4023TY15wP92QbkKYZ-MQOERU9xhvytG1dJ2kSzFu89cF1A
+      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcL1eRitW9VoL9BLcG6MQrK-X0HyY1iQmASFNCkTNMvc25uM6lp_73J0yqw7r542MFmL_dnSKR6VtndT9aY_IkMv-Jp8XqfI0XMNJEtlerRBGXRpRSkuB8jiuGs7chNkq4ly1tDtVUyi1U2yJXcLtawhG7-QGV5ogCP95ySGQ5uWM9-N0VY5KgzaMSl1DHXYUTsgvoLfx8nc3VzmEP5k_iV6jjsMhyhiYEfpQNsiHYbfHsEpkkPZiZa1MrR25rrEyeAfFKrIxYkOMyizmhUkT1htPYJfSdXhFBUKfbwY6jaKqq0beYikayxC_gK4EHqzwAQar-h8V5FydXktTY84TMrW1kxolI5aZXKvRfeKcXD-9Xmirr9QudxynAx-jsgrWtcNE2bthbMc5p-n71TeMH1xjorQNEBOdSbRJ7tnNsQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Andy Chiang
+        uri: https://maps.google.com/maps/contrib/110054945046881289170
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU6Ytd6jvLjiUIKjc2DLdidLuwgHbgPUD4GPhFuPOLEoqlZ2vbh=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFsdacTA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFsdacTA!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
+  - name: >-
+      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcJPwPtN5V0Wf5-Py8Efesxhw_FkTDNEakjsSE2V0RXvQ5XNgRV9VPNjrqvIYGnH6eF02UB6AHV6FDOrQWTTQMzNmwTiAjwWoD0QQTLcqZ7AHtJ6CKDKDdIau8KrzWRNxk541lLMEL54ftK-bnmp62M23r2KCMjDLe7d-yBJ2cVumwOWBKtyWft8FI7xZukh3lfT6UptYBa8rELkjEH6FG0CsOgMKpbqWipLkXCD9l3O25vqW0_35glNBcbApNgkx_o-pzsA5K2a9kMEKcDXPi6UUl9oEJWjk9mkBCHRzm-QcQ
     widthPx: 1284
     heightPx: 723
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMnt5w-zdFGo1DUiMF4zjVrkIjNFBWUCWpiDUeU!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
   - name: >-
-      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcJFQA0YwAZi8TF1YczsjaDEMa-1-QUvv7sSJ2LrydqnA8HNIsMmM7E-a2ul7Pw8swLKTc44fBy3PXtvz4RR1hJ81uKrXwbRzXtagYHBzgSd3Y7zjVS0wwZ_z4rAu23vZMLnNwRkMVBglCuPXVPjKV8myy1CviyrlYOF9hj6HwiF-4_yYwpWyqiIKRfgXQVdPxnhyZStcfEPMccTCSjb30krT7GKHY36MfzrFpZHMzIXIzEnrQ3iK-peiHiqWh_Zu4n15axhyG_i8vq2w9QdD8D6pZBycv-R-FbBcawC-OWeZp82_VzKzBpjKq5FW1O9Rrc9PeBilGZKsvcJtjun1Y0ASKX9FQsiLmUvnezgOeo0gD0uCJTuqz5c6LKq8d9_JyFqjOnTY9TOyyvwRuPytIIoHexbKCA0D4ovqMppD7YkFFM
+      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcLUEKJGCYX-DWm3iRG80_uPJ2D3eihgEIONZ4ym27JTuYVZCJCnC3KKXXI3SFQ8geIipdVwO00EfgtcVI8zNHjGpQkApHK2k5F5M3wIHIVhOw7cjM6007Ydt43sQTbyXd6Q3kcg3xedSHmPEmM5IWxSmmtLlRsCqZXL8hyCF-jT3RfTryDmyjs4QyYE6YUuyfFCBht8itEBkurzDdQ65BLEXdXj7KmAOawGWh5agwLBgXBA-iQw_jxmxyTLMog-vevhm6I3JBLytdBV71VSPBt8_rlm80-Rr1PUf8OwCUpz-DwNFl98CMasFioBTRk2e32KChGbhznhaIs4rWFYj11Z0QryiLBmbJzICGolGTmstxQ9O5cXZJzWnblQqjz4-dTs65DXGweeCdyRrMPLn9QnR1vNZW9QmGWo7yekrz_NVsY
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ1vXemgE!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
   - name: >-
-      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcJAss5xjU-1WJsDz0fT0wj2h--UBW7RQjicDFke93IagG0tcCeZ6E-BpW9EQAYkxDgXDsEIvC0jW8LRb8K2ClveoaXEfQRHcEoYqaiDuPpBHBvaJMz_f8UrDwG4yC22yiGME8lKInILDOxyI_08ZVldVw0jVtAt0ITW76jGBQYf57QglD9el4riZhLQSvgIfygqdKQNc1XKvwNaPyGyhtf5S7D_f5eS4dl307QUKA0M3JzgUqI9bxrK_FLqJ-Snt-bHVA0WcbMDqYb6d4fHVumyRT_m31yfDYACRF9R_mKFy5PlygqqIkTv3T1NS-hEiDD0WEv21jD4PHxtJIQPawhdAQizZGoRqgWrAGeIj3iMDLVogZVpoI14fY_fA7aqilHxytg21HGO1f7Ve4Fmjastt3dnwLnBySEl_VjgACRdfg
+      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcLhxhlrTTogYMAtnW2FB5tZUGTTYbcMSXCohJ4Km9xvp1ZTKXAWlwUOMYLXLEgzPvVv7cyyCUcbHFWWwOEgqd3gBu95ZRoBPkLnTiuHwka-G5MFKZRRTAHfJTF7jVL9IgW6ynE3d1My-MQS5IEhberTMHbsdy0rqEjZxefvOi0zD5JMoB-7G7f9J4sBJOyXMlmol5X0j0GpN2pGW1fgNA3f6sekWSV6KeChRm55etq5z9ddM0iZVBXPSSvvkihq1MME8knpCIl06HpwXsTw1vSV1_oEmj6Jkmiw7l2wurAwg1yx4T8G-64RRcCJ4-JzGkeRnd5ilRwLSIXQzLc_ikcA4kSkirSbKMyHT5CRywwhaxD_7H1H9mqEhMS9VJc2YpTabvTWHu4zJ5H9CCPe6uquoaSQqSiZ_Dd1agTUKZWugQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICNg4qyHw&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNg4qyHw!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
-  - name: >-
-      places/ChIJo_Klm11tUocRcQGKvUfn008/photos/AeeoHcK-OGsFfzaYMVt_TnXsXavibV6Dzq4WgfA-yjvQIi4RUhoHcFXEaCfA12s2m9OEwQGEV1_rCcJbabK1jycijtXu9RQEM2ZWpI_jI1NSdaWwhifMGtLLYA81OcSVYJ-xIkWPTm1XaCGy6IurY0ewyImCLrxGcc3nh6qHjOzSiJ8ZWFCWwpoga9Wi7MJFFEO5QS1GrGRqSGjcIW1wBYbO731vnKx7Q-Q2Y3NVow1hP5roqn07q8tMcekBx75Agcz2LDmwM1kJcw8cHlweTSh7qlOCJgX3C15tr8Fr7DNlKcPY6g
-    widthPx: 1319
-    heightPx: 1609
-    authorAttributions:
-      - displayName: Blind Dog Restaurant & Raw Bar
-        uri: https://maps.google.com/maps/contrib/111737088260105477988
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUjtzNJj0xw-4H1cwuY5x74jd39pJGT8yIXXWXd0pfc8HD1gC4A=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPVW-1bSGrKmls5QZOYgoei9t6ZloyQdRLTXMCx&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPVW-1bSGrKmls5QZOYgoei9t6ZloyQdRLTXMCx!2e10!4m2!3m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
 address: 1251 Kearns Blvd, Park City, UT 84060, USA
 street: 1251 Kearns Blvd
 city: Park City
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171!10e5
 primary_type: Seafood Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 9:00 PM'
+    - 'Saturday: 5:00 – 9:00 PM'
+    - 'Sunday: Closed'
+  current:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 9:00 PM'
+    - 'Saturday: 5:00 – 9:00 PM'
+    - 'Sunday: Closed'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (435) 655-0800
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.3'
-rating_count: 617
+rating_count: 0
 website: https://www.blinddogpc.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

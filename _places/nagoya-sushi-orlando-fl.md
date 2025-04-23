@@ -13,20 +13,20 @@ description: "Nagoya Sushi serves delicious sushi in Orlando, Florida. Try fresh
 place_id: ChIJAafu6qB_54gRrps9R8-5RH4
 photos:
   - name: >-
-      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcKWPxhKFXcEa6lq7fCtajSA9YieAmrOfTXqZsIysuTafOaJTeNCobCNqKH81tiCw8koqaxSRcoSpo8TCzOuke9ZFBPId8JH2Gm52aMXScMX_pJyeKMzhS-ekJGkwI5LXZtXL-swbZFYc6Vt0MPJMJwmbJkonsyiIakv42sn_LdAlAleU4F2lEsftazsxa8QCTGKbEi-ozlmR0TqU_RwWqbwXOeJFGAccfT8VZ8uwcgAVsYBW4qMtd0ZU22btsF6qFVK-yVp-n9LNt3gwlyLS1kcNDypDUdavBDWc7DpjvAiJA
-    widthPx: 1536
-    heightPx: 572
+      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcKa14WLISAnjnKhI-J9jwLy_43lZn1adZPVgL6RDvGSHahS1aUdYi39BKLOseTUUD79HOVgQ6H_TFiYTQjJdyRlTBlwh80oOZTIi7g65_ONHt8DKDBNf0w9JDRfBvOtzbzC4U60NEB47B240MSWrUgffGWAU0d50085e0K3L6ZGaNfYzjs8n1AZ8q9PvaG7uhADth_fUewRCzMLInvT3qL8_uNOj8JYuhg328bNsB67ZJk6SANty-xZsi4eKLy8YFkBR3DhMAt9rMT9puy2fkU_T9qocnozyfBi7uHiKrxYnA
+    widthPx: 1548
+    heightPx: 1014
     authorAttributions:
       - displayName: Nagoya Sushi
         uri: https://maps.google.com/maps/contrib/101601312100143512448
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVJz5bIyGL_7oyFz5m19cG-jb8PuOdm-HXsqfnoEK-QDpWUePOI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPY_jNMq37YNViQU9TJIONTg0MYRoRZyiHXtqOR&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM1DwvfldZUqtcRoiAzxw62y_YvuFpZrDvErSjp&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPY_jNMq37YNViQU9TJIONTg0MYRoRZyiHXtqOR!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM1DwvfldZUqtcRoiAzxw62y_YvuFpZrDvErSjp!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
   - name: >-
-      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcIsFNkJOhgldRP3eYWamQWcvxGn7EMrmytcoZwnpAKO2SCWyFzFZL4KfqAU54UkTNMB7FTblVSik6fLNJdDoRdcT-YKthwkEqYPD0jqSkToMF1lNJeQPayBB0L9DhMIHZYL_o40baomkpjryElohWH7-2vJk0W6bHx6641GaAhIWUJZ84QsLuwwQthcGmvffYZ1znvaIqKpR1XCz72T7wTDoq91Ue-7gkbYXAHXyrRAHgRSDU80y8t8OcgSNdhTMyWuGhZ6CHZAanTnOC-kwh6D1OzrEyUxYtS8fygr8HvNFQ
+      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcLB5KX0HjhNjxYmRBgnlVoUkjcP5YjjOGPCShS50zUnxNRXgK0Z6yQiU_KJj4Y6jT6lNZmJYNuCju1g893fFhPt4J8TutUkPY4Mz42T079RXoaZw4XmPYBumk7dRdF4Dl2hiSbetyCO6vVGDFW1Pf4a7T82lEvm1reCE-D1sKl8ZRpsnn-gehncfeyj-WsA5Jx8QaZb3RrrpWKPwRncIJDeOV6manFxiBTFD4bzpMiw5HDfW2-7Wm6lwKfZU6MlkuiUte3itpoPlpwKug6c_b8zzFOXKwRFEBW1rsTqPWkvnw
     widthPx: 1080
     heightPx: 607
     authorAttributions:
@@ -39,20 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPZIlozB4GhNe_Vwq1tVCFwULVZKwOTWbbm43DE!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
   - name: >-
-      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcLE4DfWh5dZQpU87FJWE831PC5nr2rU74xmuQTdzXv7AW7BqMnVzF1pWOKgHqHGbRvBraAng9F48PeWxE5We7uiTR-2ez1AptRWdvXP9Bp_tGcIu41BI4-a9WYfpw0rv0DyP-RIRgSRy9nUrB04c08wnH9qTQJ-m0Xhs8Gmro3Qw0d8OOhwu46ldP0oKefyrudymwUGbAGPAyhVGnvJK-fYAmBWUQ2ekvC4AZRZlS6MNpbGOiW64LZPLKlZaWpafJIlRxQdbDHsMpNiDn_OFjPX5YYQUMPwP3HURdkUzVuNYiRYJCU8RQHR3WeCh8tQgMphNsAHEQPJKQHWS2arVPKGWYiT0myXIuQGPVTOj9Q9ZU_aZjmwpbRIqXlzmK3Ye4FjmWZJLwerYdVVPBp18vjfi4XhcYCA3HXChfglIWpc1A
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcJNSbSdMAUiaCejA9eIgDnoWmf77GXhbtmppNpDz8p97pz8OeJFrfPKTfQI5d8Nw5BTX1fGN81rgiH3FPJmypGFCIlwoYLOSDMeQhuU9HeMTnHWcFaGpJ4BdulNUSu_2HqfzVZTcd5pYRMELdnQ-QZa_5sF--rEUVAu1ZPP1Sdmeb_zhcXQizZwviO4wCSwzixCPwn-8jBpgQ_KscmW_8LR_8kkRNVBQ80uaFy2d_IwGI5deB1imfdHvFzoWX79qwBarmPv3WQrAWoirLU6oXLNQ2f3yMHVhnD3dtOCz36c6w
+    widthPx: 1800
+    heightPx: 1200
     authorAttributions:
-      - displayName: Raymond Coleman
-        uri: https://maps.google.com/maps/contrib/105249932420778045648
+      - displayName: Nagoya Sushi
+        uri: https://maps.google.com/maps/contrib/101601312100143512448
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXICtgVHUYcj7_YZu9_ajgPxbsWOWOixCZg4ovkh-KqsxrAr4Xp=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVJz5bIyGL_7oyFz5m19cG-jb8PuOdm-HXsqfnoEK-QDpWUePOI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDznY6MDQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNNKgtPZ1pKaut5dRX97U3tOAWvWs6hU_zdTSJM&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDznY6MDQ!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNNKgtPZ1pKaut5dRX97U3tOAWvWs6hU_zdTSJM!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
   - name: >-
-      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcLTB4vBE1adJULveWbiPGqyx-dJfF7WsvLNvKZfpT-OWOKYjkpC8CQCtMKjXJt01BdcF2UGnO92zkyNzdLwUAfH8HoEqLtfDWkioXQWlQnAdrKB9TLvWYYyZQJMexCD6lKb-nae5XNgjIkIb9EnV5QnLS6ZfcjY6Q_p-86_2nuYhUvdA6WdwwT4IhDQhaXCSKb2TiCc01H9DjUqv_VlKRFCpXB-xNnigQZvffNPrCamZKlKdKphijM3IdF3RPWJ93iHIZ3AdqNo81jb9t-Y6V0YmMHe0r1P-x2qqy3MkLmyULIYqqJQJ-o-J2I9Hz1GcVc-85fL3AqKyd7lK2e9P5mabA5-Mka0T1zSHoHE6xGlviKoySwcsBzwisgiG4WjkxUFZhR35UtMsucXpucUC2Tue_DTTcyHJ5uJcWZf-k89EQ
+      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcKdnfbXcaOI3Zcez_B_gP6DF604Rv-Pey1z4aEWpB7JwPKirlaCEAUujwswO0cQliVnQay-yrhXpC4rCCZPEqHVDjfpodhtnDbUbEYA0JfYKqvyxBuJH2P76ekIaiqGUNe2bDepkf6vMqn0RJH23v3442YeSbbjYSTUm81iJL4Efg-eXZ1uRenrIz-0MOsYfXQweuP_mTaloyf3xUCB2-Z9c3FnxzVax4t8ucgPO3uiQbhtWx7g2uMvdeeIWPRYnh4jRPOGiMs0s19nj5eM3W8aEaMFDO1vBxPkv-_-OrujytOW8KteptJWZOzfEsVdlfRx68tuW86eBXjBVms3EJmjXHpSLL7c13373HtBbhjYb7qXB6qYpXPsv7x7AFzuZ9GUJR_pqtLOrxJ_zdiFwlcFM4CBX1C13qc5yw8q_igYUg
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -65,20 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZr7KvFQ!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
   - name: >-
-      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcIHfFFeXJ_soBaZzMtVdTTYejX1iA8oSxkEJmRnmvgTl28iXrmUqtErveRyoF0YQebLO7NrU3k3CvtWhkmXcFudFpugD5p_MH88eQaLU7lAr4zHUPj1dK9wOfOKVIhPb1P4MuKELUVVwXf840wianDvzcppHqQGJFfENwkC_LYfeo7BrsY_vk1tFql7iiq6_oq11JUc2mXUyBnqxNloa_k1oqSlOHXDRMrmjRkX6qj16It1xWe9e_a8UB1pjRW1STmYoAhWCVVhmbflf4y32OY_HTokg112Ar_vdoeFlg7qFA
-    widthPx: 960
-    heightPx: 639
+      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcJmSD6lcWTd1l-irt6GScQWc9MlmTtgwXq_-rFdLTP7GUKMyr8aBmYHkZCMI1qdaskxJn47qTsOj6qOSDz6vWB_woijra9Na1AuH-Fzt7iW_Fu_OUuxXVoFpq9gwhCbZYBrU1PRoy4ElVhG9DB_hOONWq9w2TBQ7bPgOhb-alT3NKqrxyfFi_Pw5j4AlOeyAmefk-S-DkUnW3SQnSwLprwXssIg6qoRr28sSSkAz28qNpcSy7P1dEy4JMeiV9zbIinJw7_Lj8JQXH5D8QSONwFoVPyBRuK86hHm8AQlZuf8Tya3hsH3Yc6Y2sm0Ea5YABTKHApFviETcx_JA-SxkrQsaBzAaQiX-sF4qC5YW3GDe0hl5EiZBNBHn4mnAm1tsqYMii4gDzOtxsKbnj_G0YOXY0CSd4bmRs1zdCGuC1xlbg
+    widthPx: 3072
+    heightPx: 4080
     authorAttributions:
-      - displayName: Nagoya Sushi
-        uri: https://maps.google.com/maps/contrib/101601312100143512448
+      - displayName: Greg Esteban
+        uri: https://maps.google.com/maps/contrib/111094133967265410197
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVJz5bIyGL_7oyFz5m19cG-jb8PuOdm-HXsqfnoEK-QDpWUePOI=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVJhwcb3PJRly-PhfxtlVDsiE_RgkMrpxaCWj5mLahY9UubIhM=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMJbmfULyRTHCvQp1MxguUj4fO2ipihahw0kQOA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICl6b-sAg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMJbmfULyRTHCvQp1MxguUj4fO2ipihahw0kQOA!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl6b-sAg!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
   - name: >-
-      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcJesNLjGuCA2Q8Z-9DwnFEoeNXqSGgfibojkZuWp00GF_7H8pIZZ2FjvD6pD8TaS6e4rfwa7axHeesnViWU6UGIRRxrqGvwzSwN1kAid4_X6rTdoKoDU7aB3WtBYod0h03RgKdGLbeNtZ07KDCR2wHKdPNcExEkc8YIBCwsM7rbHe_u3TiyZCUJjzZ9Nj3jOZ9ww7qfQBupchE5HNIUWyeafGLVPNJwZxqTmt4BiQ66igI9w73erSteSL996GpTJoFd4YrFoJDbDqjVFNm3NAcVQDfIpGPski01iH7me1DB6Izn3LvXomB1O6smql8qEUrOGkL31Y5WehCIUdkhvyXLS3VwELvk85gD8dBqA3s8nhhcV5-xcZrZQDygChZYJ5cGqqsnVJZiGxPTi6rfWNBHJ4Rgbqiu1Jf4Fz1efmx_Eg
+      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcJoPFa48gI8vGZ_ZCNUQK2G0ThG5vjlKSys_82xqOxdxE9i9wXBZn6Z3f79IuiykLX3Rr3DAWh86m86lzz0HqBiMH5xMLqTBiNWJB1OridRBD4wNNOvNp1BmSckFzHbbguA8M10ag2RqXt0zoD3nb9iIK1_2HM6a6p4OSahojB5AhCrkQk9pfW-Pv_u4C3GXH0nJM93J5kTsR6brlU-ogv3W0gLnB6WKVqGXCmlX38c7fX1lGgUV2msjID3pyU33SIrJdxQZG4ZwMopzen8EoNnSqQuKVgtE-7YUtHlIWNASwUCVcl-FXmVzgrBpliel8ahOQQG6-ekcuPpkZugzirrbBIRqNLyb2ZJNDY6GuY7iVgEmx1r8ee_ZPfIWcEw7ngEZWvKL8kwtYNNsUHJjZ-slyr-8kiLBoCNjDUVV8skBg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDp3au7cw!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
   - name: >-
-      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcKAkmVTF4SeBdgueVIn_uNiRCOGQLjEiRbk049tLSTGU77JV9SsE-pbyhxLtmHSQAy2Ed-7ZkamPpbGCyXJ3Ew8DOLqUBjdvuWNXVs3NtXtoP-f7efjVdmwOgRxZDbwgnaXLn_02bkq6CV5w0G2V3wKLNZdJ2e0w7Oi1PTJ5jALsbvxr3T_YbW08xlNPE7qs1WsZLPj7YyN4_dPMM0P0CLCdWXfU-9XfIL_c7VsOolf7_cKg7W8OtlwWfuu2AF_PE0nyeQtJeYqm7d6rd2mwdW2FxfMF7JowjPBC-7_q42Tjw
+      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcKaS6Uy6tKOSi0xHTIj4jPj2T56VLbEu0khamame7UVWk7CVEVp6Z2ZtZL48ZQdUnELg-w46FAUBCVd-nbfhGDZj5Uv_kgjWP_1R46ROEQ0714kfVTPzscG2oxgf4UcPILtW-cts5xnT2niTzCYDbTAFuz0wNAW-TXUW_6ffq8yI7PSYmdo0v-MxSb5VzKhTvjIsGpzYobwqE0Aqa_i0vuaL7ktiuYWdlFoC-RWdfPyFIMQI77A8j2C4ZtpkR6k0a89Bf2MbKkK97mqf2F2BfdIazAsoLyl0Z2EhZgTGxEaFg
     widthPx: 1536
     heightPx: 1012
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMKw_2uhnzDPo1XmbIeV-7r1nJvM46jcn5eCaIW!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
   - name: >-
-      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcLT-PisqZ-agdL1DBGYGY501tnqL3xX8a45WuepdXuudDFQ6MX1X5w6K6proKctCW7_ST173zXf8dnP8S-GYkQBj79Sk1tdwuRp6HfQ-AbMoQBg9pxPVHmxn6OwEFNbc6DUDi2822OPy8yd3zyjO32xpK5VOm5DlxnGczXV9_4L-iLVt5Kt8e2ZmdBLC6SLM6s7KmsVNT--tRdh2VoKaPewwhseIRW4Mjl2HTlO1JseMFNf7nrYHvcF9-hI9RPoHHk0CqH-c2GOX97pIQMRApL9uszrtwL1IFJ2rN5c8rkjdE9Bsu_QrYDwkdJC7Xke2nfFXfzDf0WWnq_9gxVaCzlf44zF3raevJzxKpGmgs0F7Zncyg2nPi87LMEG4L7H86hRR6RiNnf-Ob-kmJQNucqfuEUyrUdSipa1VnftHBt7dAma
+      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcJz1xcRMkRsI78jllQvYuSp1PMCCMd-pKgDFcqvLoXU6yIbCMaVWEMYdye1Q6BmY4rehk69Kf1YGGdB9aR4JskGZCZoehHfTfseK0HWJJWdgDrlJBZigvZtEsJx4bl3sRw2Ga7l7AWaWaiw93jxj0kpjGEMCAY5IVIZ1MelWy-j8Xxs7wKW53IvwuFk__EXsB3NVUOgcEuck1xCdpopum8f7eyVYSHB3sijFQIiJxbjkGHYQLWSUfp7Es62fm9w4We-PUai18trAIb3X1Cczsv9l6GVkp88UOBIJFUuXJ--Z1UyMRDq3w24LlOlAdL2g-5s6OKtk8vvzyzlBN5Oj1iuNE2VnRpcVMz_4z3mA1sOR5nM0o1CIxu2A1NOdCW4OJ_4RQmP8R25B8RnZCvgoete5Fm-OhTr5FsraRGJPkc6D6tY
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm-7G77QE!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
   - name: >-
-      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcL2qQnFVenO34xSjPB617ha9VCg5mW7QYEBX4i0rzIX0yNnIXv0ooNu4u0uRTvhQRfxAFrVL5xxBQeld5k4IgQjxUF_VzA_uSxAhS0-Dt6VXMZ4HjYaEWhcR0cEAOt1wZzpnnReoSmxWPzPEQnpazQXTEjtsEGazhDirtW4RVUDkNngXI72H6sZ_yX3L0rUufOK54TSqeMDiJODnX6KM1oov1b0un30LKVq0RkpKElf9LHjzHsF5IabNQcORf_m1aN5aH94xpK-2VOv7OwsWBhA5ZESWOeBvwNrTuvZpE_HelupUMRedI89I6jOYELOlJciFvwfVIOT14bAfPed7Nn-VmbczmPZCXzkIBIzLkWOO90cYcGi3am2ttKkHYkLjQaTOLqgD9dHeyNWocwb1w2cLEHsFNiYSjZHiq2GOv6LRk0u
+      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcJRoAvn_Q2JxyciVJgcTjvk0ZLIhy_BGty0XK-Pa4vz7_rQMOC4TYw98XU9V32PPAyDlwm0maEJ9r4rOo5EYzHTFKlwDx89swze1DTK5aHpEOs7W6hrtVIxqRLm7h0SbWYFNCYrAWfmE6uNa3DiNip55MdvSqjPeWTTZNoc2ukeCK1EEqfpHj-F7xzDa-vrQlbTNFR9agbeAvIrvfvMvgcoQ9s-e-Bl29yxGPQHTkVBSAKt2w-bWl54RjRrAGmTe8jTHamLNx-WjlRmtjPuEp8ont8RcI53mjKAn8D4Bviu0p0IAeNt56MJGkHDwg3ASz8Um9xtn5s9XKWA4-zjuBpNANnN2XmLHsKGBwnjeZnc8TcAHD-q_AjDMsGihTUD3W_ee1qK5iw4cjreSQuQZVs_IalGvrFf5-7wfF9OrBRXfLwW
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZr7Kv5QE!2e10!4m2!3m1!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae
   - name: >-
-      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcIOeb3jxMjKgeAlr8iP_gtNW9qiBM07vyPNX0ePkNcaxK-7bKgZ4CHAPTfR0wuUwMNEKp0-TSfzP1kS1CQ5Nuqsd9rh_BicjPlauaGP-HjkKMiHH5_gE5to6nAnGoU18Co8sODegIjG5twt56GlU54d9DT-bol5F1eOwjAUOfBv_-vzpnbnGEQA1II5aHs3S44JoPRyCf0uuTITVDTz6XW4ybOoDXOtrj46y9HvGFrQTSH3zK8IOyUO3TYkXGf3ix6yzcirqkpOBVys_EbY3m4dDMNB9nT94V57D-1GTBMEYVVZeU4tYNdA6Mg2s1yjxKHXusnJjFRRFd1dQ4yopEKU6IWIDZGCvKLiDx7dq7GM312jyhBxhRPvvlItypoLoBK2DyGU8O_xjmRDZIuUyZ0mfmJkY4U9u9-iKJtwrD93TVJD
+      places/ChIJAafu6qB_54gRrps9R8-5RH4/photos/AeeoHcIKhaFEBmrMgijXoFd6fnriMpIEXLfmRtext-j1yVMB1-L6wDoM4lKxfJzw7pTqvf8bDs8HOt-UAy3V863-ZrKVPbGmdrREsYJr7daGKzzIz9qmOPuM3z4lCrqg-rwCVFikw29tLdiVAZtc5ptz_DF2leQXWKcuZlK-C6TkYI3CJAv4649rTwKWW150oNrk1NJrAQVBMYApTd0o01yFusM01yrNg3KyAUE6EXw0YCQwVy7nUEPBQgyJvx95C6pSI82dYvo6i5-auli0RbmGA1Y98aC5vxkXrW2VZySE72vXFDl0ruZfKankRFdM2kRD_u3YN36nUubHe6ppwBArafiRB28-adogv3qfdxaV8C2gpfpuD_aNRJCyZcSSksCa5T0zpc8a8gjUHHIbnvGCSQGRcPoJtr4kjfagpMcHf03aV2WI
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88e77fa0eaeea701:0x7e44b9cf473d9bae!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 12:00 – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Sunday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+  current:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 12:00 – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Sunday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (407) 248-8558
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 509
+rating_count: 0
 website: http://www.nagoyasushi.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

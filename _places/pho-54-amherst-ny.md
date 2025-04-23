@@ -13,7 +13,7 @@ description: "Informal eatery serving an array of Vietnamese dishes alongside Th
 place_id: ChIJKcVwLDFy04kRuw60-ojfLZg
 photos:
   - name: >-
-      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcKsbLibfS7TUFDZAdlkRvAP6AgkGWj0urNFbsTLhm7Up2YI6SwM7T0X17sBkVo0YiTHrIUXgyKE7iFOyFtPLgkz3f3bAVQChHxaz2z4ShK9KR_GO4zbhSf59vQe4eFUomDmYat5ODxkX1LYf04S9uPAH8GKscnPjDOGKlh4vfRSUz_iNQkHq4UKz7391mXwzfSN7zpA8PYLRXJAdRVzI3kyOKpJW38a9RyiqWMgETjYUgsZCsL8IaI3qJKqwlqXE0SwZLLL1Rh3S5yKda2k2DvPNL1ndbhRbo2euvLBo9m1jIb2zMsmwHRXdBgC782ASjHZrfc5GjNS4cBJpej5RECCCpS_XmniPLaetoWTy0RFsneOyucl9yu3yXjDffnuM0n0eZGhNKV4XX2dih05SVHU3MSNieV86K7qSUISYGLKhzGZ
+      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcLfzLombDqs8W29KtyAQIq0gA2WcoiavYaUA5So4hdFRXlYF0UWifScstecaQi5QsWEcKZ7CvTs4mfI3DQ7gyujMqMPWSMtlWQnegU-pk668Y3lxcH3cPcS893qa_I4enH-BB6kx-o-iFeNls5pvulrI8Yqjy-L7eq51UBnUtl81wE2E9SEw0D-ohKwFoaWHHzf6TjmtXqpBUw3nKf7ueRh0tpwNZJPvV83FaAkViJrylX6iHjINHPKc-VZEFn3jsIq2OWuHDbJ-rEuEeZPoRNNGfI9Rj_ZqEO47e_k9n0f7xzUzHPrB8ZqXBZkpW3QCiEruefjtqYhtcPp64txv4n0UknG7SdPHNBBkqlVHwf83Y-fVgXoCzEYhpiVet7lAnVUY4xZXN69_we3sjNTyE1jq-cCQK9vRMwJJmmc3oukCI0L
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu6aP7wQE!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
   - name: >-
-      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcJiplA5q66vYQMOr6EprCtgpSzThJpLgst_QF4e2OIlk4kTP60FAVDiKg9s_RdqnS14cLaXP-uNjpNykJ_WOQf7A8IpzSOzL332UznO29RWg-4TOIerki7mo4-ldaQCu7EQr-o-ec6T6XtJnpMLSMd8Lsv4uPhcEMAIfIguu6zcd5Wr3ps0iuWazIlmnoYhHY11swvJpjNdJp3VgpyjNwl-WQcnU-fub9JQ7ITzco1rvJYvBYuwgDBB8hicfY77cXxbbO_WgruHV3opcroXxCnxURMxo4FwoVw2cMic5QUbWw
+      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcIAP2QvhGzF_vOTx6SUtdSFQINYk0H-4t8pSUmu6m5gH5TP0J6f9XuQSRKkdZ7soap64Xt3NY5KKrPEUwTXfac5IOSZkqZpIUMNUTPTn2PWt6KOY8ib-9JN-P-Q4_-KEhc-aI-NEAexwfMVodfIW67RXUY7SVrimuMS-YAGYHA3yzhHPDipWUk9L6vGMfDaCXocNLyFjV3iwVkZKSMamXnPfgjAGOAN7QWi6i2OMxOsLoZZz8T7nvt-9h50az4I9NX2k6OBAHsgV8blANyuSmuJkrg_E7j2NEuH4Mxogrb06g
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipME1E-zL6SV_KXtj0dvk_8ICPTllDYAWajcvMyf!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
   - name: >-
-      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcKwX25reAzcrw2zmHb0vd9jyhuI5Wob-a0O7bOIJzDAk5PbJGeOejOLHGwet6HwaAEHQFAFLFuEsipujgLjkh9G_4ZL8LkEE_FSB3E7SWUHNXPjxDG05540KmBz3nxscAwoZ0QT0Vcae-ZqL3Zzno56FflhlUV6PHp8YmlL00vo8bzVWGzw6RwF_1CowUpHw_aTo1TR92WBXnYe4n9MpV6yQ2N3vCtB5VXSbNN678y2kRj4PbqA9jPtGFmWYzxCkylTAXKls8BASMWV2QZo3LQmX0c9fIOO1jwrRbhy0SLth1rBqqkt0tTQsavAMhI2Q6h6VJ2v9cX1tF9tFV_VjPqBFVHjx7_2KG0980ptOQBICcyKCjlqEq1gT6yfMV6VV4LXSMV_lPFoG6ppqJdIv2r7yERiB8ePRZb24sk_xmaHhg
+      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcL-jOomPW3yghnxnGJvgy9-tPD34oFTBSeANVkkqVZGHBNjJ9H8OvarhpoRLoYqiVKG84i_vVWm4ucjivTHUElf_nYglpBMDwFr-Vuaj2zjtLDXEc9V8zqnutSx4q0DdNdsp7ecJimT68lLxfbYQyjXKZUra_Ni_U2nxzDjqUXjj-JQFxkEkw4lh5A07JwZKO14XT-DxX_tc-OWycpssH6rRgYxff0zrtBE5Q00Qaev7vmFiP4ONtgSXjEMjWlhgct_VGy73n8dmfmFssqe5qvS6PjM3thlM0-AogVWTCySnkTkboDSISwbk4J7hoSnLawZ4MxwTNBphP51H-4CH-aVHbjyA1mzpmrZ5pY80qodNuAg2333540P3Gao0rParJzyqFLlANElnFUa3vZZ6hw4itMt-cKc03OvOvpXO0DGIg
     widthPx: 1021
     heightPx: 885
     authorAttributions:
@@ -52,20 +52,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjxf-VYw!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
   - name: >-
-      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcIzDa_z5CiHeJQszvCCFU8yXCekcePslRGJoh08uRaSCVWD870pMGsYZ4H-XZoNclP0w66JE2x_Reh9wighzRJJ4Sm-_1oRriyAaTcHnxPXP1YDLb5lpfjxF-342FzZ34TrIWWo8gOMxXgd_pmhWIHkWGqnyVMl_YwWhmzNUWbc79dGze7paH52-AHD1rPOdYsKXmA_UG3IN0O60aYfnmdyYKTm9H2JdsLp7oU_KFWiDdhjM694HX1PMyDTEWcQ9FdjKgyo5cs4i8PE3eDKuhV6xVpdeUDojHQtZcuK6rNwVQ
-    widthPx: 800
-    heightPx: 800
+      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcJDy6HBJO4Rib6xKkm7PvMuWlJnw0bLnHNKaf0JV3bkMv8Q1rz4Dsmm4orlUAJxK4WgBDQJ_CiEcwVmwQ2a1ELJSOhRQhKhab53gl4VVNrPnTM6IT5DAWrNzGaWPTCclWB6_OliAGOsWLXg4NiShx4gp1-bX6vo9MB0o7sU80VLP7rqOsN6_dUT7nf61SNvWS6rL8BkT15zmp6DhA_HQqQM41duZWsVSYqdIYBazT-bl3wrU-M2jZ6rFCumgQ0-wRzbIqjgm9AQvG0zfhzwBB66tJ3Cb02ZcOlVMhQ-fTNsUZzSzo0GO-DkNgI4kaOHlBeTpMxl7qQJJTRMlCoxpsRuTROUTHf3SbIRxDR1fh5aOrOuO3x7aTN0nAdMDZ1-Kz2RJrdoAFrJnJcurat_zQJpjbD-MUZfvnQIYxVm-GIwig
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: Pho 54
-        uri: https://maps.google.com/maps/contrib/101423935516350122149
+      - displayName: George Fine
+        uri: https://maps.google.com/maps/contrib/102103704914002331987
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJabZernc9DzSY4wMxKOSDpcicNtp9ZyQRenltfLqnGDorVTw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWLfil-YSwc5pdQM2spYzMNiyV4uOhfK2-WP32IHtOlmseJ9inWTQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNawp29YdMvC8mlPCdxjsWlCpDMKFmsKUG3vsGe&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDb1YyWTg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNawp29YdMvC8mlPCdxjsWlCpDMKFmsKUG3vsGe!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb1YyWTg!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
   - name: >-
-      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcIHHZa6kdBNkk-bCIdEKNpgmVkldDK78gRdZSJllld4lbJ0Biv3AbSGW7umFrdeMHwo9nxl5UGNouCAWM0brZE541o4GqK7WX9njadFB-KNJkQ3pDUiNMsozFds0bU34FgOn0hPuc7tPpqi1NCuheS9OumtUG_jw0KrsBiXU-R6zw4UzD0sbPOTyGVhfwC7LExP3RnOspJ8RGK8JeQfJPj4lsV53t2wARqxOMOnRFjacZq9rSzUv8ZjXS3yahzSlOiU6a0TQTk0pZur_H0dbnUmvUpkBnDNd11WdyxFObBJeA
+      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcKlVGmydt19TTBbnvpQiM0kAx7Tnm__gmj9w79OwK3JyfszNSrM7DnqzfjDq-CBGeJoC0nx5W0D-HN6nwH4Lte3no62yY8kDyWuQdcdhE97N3qonYl1R4QRmThJvyD1WRB5wyruJxwbU_F45Pe-Jou_dIQj1jFbIzyMRkcaY68c7hpw0_4RvD2gnsfARQrj2TeZMv4nhQpeLlFkH6JgcaQ2QuMP67p-m57Rci4dWT4Bhyd_ezOwdsGuwoTu11O2qxMPQUuAsYZnq3wAkmONrwzDgQHov4tkBauy3YC3L4DdBQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -78,33 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNXrHr230yfM3FXNp7cZa8f6PV0d8DK1gtuIUG6!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
   - name: >-
-      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcL41tqL280nLBcJ0gLsF9VzKlUNdvHO2stXtS5iliTTy_0-x202viKVuh-2GtDk7kai5UzyKY2Lmm_078Ir4OBJ7mPECKjZ3oOYesEydXq9oC8EO3VRLElilzcwivsttDISOTZkQlyiO_KvCwovpHDzzg1bqv6MmIF6gBZ46CilBCv2tqaiTv02SLLJZZUCdeiYVgyXiKz7-WmtgbgDvzPGAVg_UY2tn5naQUAnKveZkULMseI_e-o934Smf77Tsj88utg1STieEdKhXDZtp6KziSQZKT_-i5oNd8iKmiZHNuKMKDu_-9L96Ns7RXMkqAiSx5in8OpH18olcPDHBNP5Pp4e27SskNi3B_OQdzLzVsZ2U4iLO8ZnJUY0ar6OfO9utDJh75lZlgdHUEzYwKN_jWOKgyIsIDfhkU0HP25LMg
-    widthPx: 2420
-    heightPx: 3226
-    authorAttributions:
-      - displayName: John Ly
-        uri: https://maps.google.com/maps/contrib/107838716951644590589
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUaTDMdHTvdj2yYDmInn-lcY0L3azCrc4oL6t7mLBgde7SMVaWTgg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzrfGRcA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzrfGRcA!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
-  - name: >-
-      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcIgj4aZeeNpzlhvTjQvaYD5m7aDrNSTKxjwv-HNujJL1sv-AsXEcIlNUbxrwGQwwm3I88ymgIzF8W5DqGXEWCDjKLM2fo55A6D-cYCP0JJtKqqVEZmgYrImKjvOfmxFpobqTf8bEDUYK6xpPfcg8MYI6F-UrARYLsYD-EC_GuRQMMQS7A0VtzmH5oh3dmoyuyb7RzpjWCHVEEKc8Y4ZcH5HUL4UjnPchL-iMYaAyKg8v0KjUQN0XuZOLxHXGX8a3hR4zwTE74G0efBA70PuhykVclRsW2L5aB1AwH2GOxQ4FQ
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Pho 54
-        uri: https://maps.google.com/maps/contrib/101423935516350122149
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJabZernc9DzSY4wMxKOSDpcicNtp9ZyQRenltfLqnGDorVTw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO6q0jFteEa_EKiDuzADglMgN1FXwvpej7jhE9m&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO6q0jFteEa_EKiDuzADglMgN1FXwvpej7jhE9m!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
-  - name: >-
-      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcJ2GjLietbi_kbWFOiLR8EYia6kQsBoyKpvtyScVV8WjdxFSlRDbZWSu47_qjNY1GAAbxYRtWEgOa8xPf8g_9tvpOaAXq0Cx5X3VUsNDqqvTe3A3vri6BFNHf9KwKiR1PAvjaJ2mR9ZwCFjidxId2r2RCMD5aXgukQ6cExp73KfyV3SF9tfMd_vgOWwUbTtgxHHrW-ISV5l4e5J7xeg3r95VIFc9Ufob0usR44W_qZUPWvdmi5ZgagM7bKb3klIymDABFTyDYbF2IPWKsGBHol0OMUpFRO5lfhTe1tKTucgtQ
+      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcKbKRZZEyp4O1maxr4Hq7ZL8EnroB8V33rBc4_aVQR3AL8MEmJWlJFuUP5Ettr2CE9cchvK-mK7skaS2_8upKXc_AtkxLWtuYmXuBJNd9Wq_OeTmvl4LbhYrc0GoMO2KLxcatgipqBE4Z1qi_ER07jr6nN0-OwAm2tkOgHyjgKv7BUeMBAOt6mXbnlsoDYxFtmZK2-o22Boc90GkXXbsOI91SyPbx4KVxMj-ZUk3clapPEiLQhQ5om1iQGNruhHqgXIxv6Jh9iVfl3hQWOq5GjSr2UXer-nC-FMzFv9mGQC4A
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -117,31 +91,57 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPspzIpao8cCPk4PpAcx0UmSHU3GGIKrvD1r-go!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
   - name: >-
-      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcJDMHUDFKzSi4N5UqlsOgbdovT7s2jPdajIpSxMlLvuBR1YSXCbSjiPTHYKDSBLTq4-EHcdWkPQuawo45MzplnWi4x1d6i_Ez_DVknQeK2EBy-3PyLFahH6CTiTyPfttLC4osE87kWjLCRu9aKBWqXV5QtU4Tw_MLc5wahQAHbSaGQc29oECuks7P1rn4xoVzr5NPcbT8r53CZaKGCJEB1fCU-s-85AnEljCqQRWEZoe4LD8RyANO3en81XmtnvSFZv1CSFs7OPuAkGQxfGsKhO_S9m1NOPYVOpYiMFByVl1UfZDgg7jWnzn-XGaaI3zBjM7QUP1c6tQAgHAFLcA43ylnZGRJ6mjWRQOEtJwVkdi_AW0WuDyLwS4e5Kn-VgRdKEHXFN55mPr_mOQqxuinTQGNr3ox_B9oyD8WR_Wk0
-    widthPx: 1868
-    heightPx: 1784
+      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcKQ53ShL79wyOngXYXKMjvBqbSLwWd6MTnqdpaZqeEeUluyBHjNcWUkZVr-uwz-ae5kzwaHN27FzZUolMKxpFz6o3qKc79QIOHYr5mfdc9waNJnv8CeYNIJrSet6OLH6bqgVdS2OrxdhTu1AKv3pKzjmLgLxvbxgFTkxIHp0UAi-gt43i3rkh5AEt7XBixAIBDwwW1s1i5AkJEyzTtovaahO4IaY0Zg7lpWNRCWqqLciejwqPLdJrg8vGVy5UMyGSA1TZ1YZWqEJByf_gjulm5VMV2SPtDhjWUxjdj2aEjC7w
+    widthPx: 800
+    heightPx: 800
     authorAttributions:
-      - displayName: junk mail
-        uri: https://maps.google.com/maps/contrib/115467846324575195605
+      - displayName: Pho 54
+        uri: https://maps.google.com/maps/contrib/101423935516350122149
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKkxvZ487of_rnJgJEnh0GQ4qREVAeVeg7zTrD1CfO52_JJuQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJabZernc9DzSY4wMxKOSDpcicNtp9ZyQRenltfLqnGDorVTw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrkNjjJA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO6q0jFteEa_EKiDuzADglMgN1FXwvpej7jhE9m&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrkNjjJA!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO6q0jFteEa_EKiDuzADglMgN1FXwvpej7jhE9m!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
   - name: >-
-      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcLeyfS8HJX6hy4bHDZIoPU02Tde_CfPl5I9V_7Ekla1QShaTr7NRbuQLBIp8tDFwK1vSKAvMuIU2-tEoi4bUwGxpJeCmWwEdEiIHtYcuFBbJj2QKmRRA1phHv-XeUiHPMy4puMkrAjq3CWSptnW7Gyph_NDCJBpQt3Hf1YwYHhOxv9FePm3rv3A8hjfkrb6g5M4BLMTwYL3w-MuoViweNYP5HoQbRb9XJ3rmtpcoPAzNeCMRNdkHXkVs6KOTMga066-C-Oel9crVnfQMD2W-JmqNJiX3C7eufE3n5PWdLzsP1raTLmo-IzBIC4zHAPPOXbM7RA0tEuFkTRySaND26-aFfClxNznaHOUxAwuPAicW5SXIwViPm-RBXmTaCDAIyuf_6uAff2kfoQKwDRhDJ7D6wDtRnZH4Ki3WIMPaIQ3RRCx
-    widthPx: 4032
-    heightPx: 3024
+      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcJeOWEOIIvpqbSmU6axnEBCX1prt9ra-Brfb5wrfJ5FaNooSJL_Hada2t-p_sDkp4681hHOx6DPqjTXYp3v1_H1_J3l8Wv5tVRYhdK7T52_Qx3xJHwfZEU4bnW_kJJvrMlfK5IfqAvI0odgixtTSndCVbU2Si58RsGytA0V6OBRu59Xw76o00SW_bpw_jcp7XMDqJz_ZqK_V2VMHstYCZpmfhl9aJJSQngVK9pYR8q0iDPc_FsPInfgRkDcC16_QLfNWy08xEVd4lqrf5xpoxcH4syV4maA0S5N7agFHcacaf1Eeq9Irsw36q_2cNyQ2YVHm6I1JTDSzUry1VLLyloxFE4hEx-NbkhFLVbOuZCqQJFSMV9en5Dod_cTBIeTDgdmfcvt4hOVMnLKmmuXiJN4lFU1ogOWnXtwhmFuP8YVoQ
+    widthPx: 2420
+    heightPx: 3226
     authorAttributions:
-      - displayName: Yu-Hsuan Wu
-        uri: https://maps.google.com/maps/contrib/117135768780413040299
+      - displayName: John Ly
+        uri: https://maps.google.com/maps/contrib/107838716951644590589
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXlmSofjML910FtMv-HxV2_8v5Bf46btn_qgLhQbceLUCpy_GAi=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUaTDMdHTvdj2yYDmInn-lcY0L3azCrc4oL6t7mLBgde7SMVaWTgg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpkoLKuQE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzrfGRcA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpkoLKuQE!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzrfGRcA!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
+  - name: >-
+      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcJOcXl_zSP4sAlLJm2k9D413SOPTquSEoJNtoIO3vPrj08OsEWNm8t16mQEqNtakWibm8Mz4GSj3VOZ44HXn2PucNWzSNS-gb8Q3-MHylntY3I4YE1gCbzQhV_IHZXEaHw87qRMXgD_fyj1rRVWRSmYkVPfWhOdD9YH6kkmEVUH24TirOfqx7qO9JH-l5dRt2FQc8ggk-6t4neHTucJNnX2EvAc9rbpEv0gBD-idR0zhO_xvuCJ5E50mAGKtsIlPknWBvhWIKSpmwn6dg_a-cnS5VepxitpV4GeINFE-0Wvw4c187dZpAA2y4QwpEuFCuHFGEURSAMQi9-dwlfMBzz4VEcKvbkxpRNFu5U3jNNrNIhMM64iCEsifOX2xSYQrzyCDFvldlA5tDcAaSntrUaFaeUg7aUVNsFjf74GGNrNJ_Lj
+    widthPx: 4800
+    heightPx: 2700
+    authorAttributions:
+      - displayName: Mark Kemper
+        uri: https://maps.google.com/maps/contrib/102055379888537794634
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK0YYW9wf7SRijK9cw1uYvheF_LNmqD2hNcQ0f0vNVxYaTHuw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEmqWa5wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEmqWa5wE!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
+  - name: >-
+      places/ChIJKcVwLDFy04kRuw60-ojfLZg/photos/AeeoHcLgiT1CIBsyLLwi9eOwdmAQO8DBWvdZ1PQS9pu6SlVLntj5vjoGAOo2qtMG7xnmsp-IM-411Y7SQ8LDEu9U4ykpCQSLVq-C7AabB9ql-looLOO6Ak3A42oub52y20NE3PWYR8D5Zpe2cO7I655w5_N9NCI22lWI6gFajkogxXAX13qYuRsKMemn3qBVM7rQTEbMckVkwpFhDhY6xHCjrli-BcIvHyqayxxxHci5xn2j6ZDe0mC6Bw8aUydqhm-lBMWRl_yYEXeJb8vjLjZTm3ynz6-9rk6R5tHQtgK-sErh_A
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Pho 54
+        uri: https://maps.google.com/maps/contrib/101423935516350122149
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJabZernc9DzSY4wMxKOSDpcicNtp9ZyQRenltfLqnGDorVTw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPDEZh7blK0pS33z910rR43JxZ0r9OIDZDe0LBo&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPDEZh7blK0pS33z910rR43JxZ0r9OIDZDe0LBo!2e10!4m2!3m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
 address: '1280 Sweet Home Rd #101, Amherst, NY 14228, USA'
 street: '1280 Sweet Home Rd #101'
 city: Amherst
@@ -183,7 +183,7 @@ phone: (716) 428-5269
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 544
+rating_count: 0
 website: https://www.pho54online.com/
 reviews:
   - name: >-
@@ -414,6 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+update_category: essentials
 summary: >-
   Informal eatery serving an array of Vietnamese dishes alongside Thai curries &
   sushi rolls.

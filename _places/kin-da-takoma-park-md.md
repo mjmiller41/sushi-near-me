@@ -13,20 +13,33 @@ description: "Green walls & soft lighting set the scene at this storefront servi
 place_id: ChIJm4T1wYLIt4kRw8bZTo22tqs
 photos:
   - name: >-
-      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcKz3GyYBTw49lxIAj9Sk4HlmBUHWZIq7J9LpQsXdiPxwiLN7v3W2BajAr5Ag1oe05uxDLvmKWaVl10POIWH_qxNWRPDAeWYYBjUFOfZH4CVm2s_w9RBNoiw9Z9o9JjocBj4nLmTiqEokdZDVbhnJA_7TPixqOEmqQloG9fgMB5xwHLqTxTp3shmmjo_D-lYZ86_CsIgo_-gquMY4GFf1Nii8TJonVKLaeAR4hQ--li8KuNtI3lO4nCj0jds6-xiCbkjf2AaRM6UMw-RRMvCDx5r2J0oJ5gdVnjjVMBPa0jBeg
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcIRrPCPYfj_006vLvcMKBJ_QPGuIYJLzddShKBd7Al40cK_g_NiO1NeCmAIk3yaE6adG1WlBsyGuHTtqv777XVNTW0HSBYJNpNLsyxnQJWEEl47Epyd1Ug5JfTPzD-VoPj1L_TkrEaKnbHdubgV055LIeIdKSjzEqd4CdD_QmrCozcoVsHEwvTa7PZMXwZwbslEjN5vjpp2sssy76D7CLBRYHoBHQLbiKyIM3WlOWcr1-e3o_ZvwQoLbIuFCoTx0jQBRm70enoCFhyiFajEmPYZplQYio25IZqYM8W9C7nxHw
+    widthPx: 3000
+    heightPx: 4000
     authorAttributions:
       - displayName: Kin Da
         uri: https://maps.google.com/maps/contrib/116870618617682196128
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXAJuOrrWzWPqKJIz8DEo_n-3up8njKqW2pxfuKfwOfp8-eWK5c=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPEaMhohoqSvs4kS62wVRtaVyLz1lf5wAH4I_y0&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOKuomdBSruk6IrDgUn1Y_ZIc0FJAlF9z5lT-PK&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPEaMhohoqSvs4kS62wVRtaVyLz1lf5wAH4I_y0!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOKuomdBSruk6IrDgUn1Y_ZIc0FJAlF9z5lT-PK!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
   - name: >-
-      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcKVmXmLq78Dm-zNWN_whw_Y8J9tbm87s5YVJdeGCw3tUkhcmRUTMtZ_3zdGk5M4y1voSX22CcXSYuPxQFMLsoWkCpca-cGT1A5InDLgfzyP0SvarqN6ehl3fKk_s461N-PwIlHE0T77Scr-qy16MX6zBgoFVUVUdgezOs5AUEpmn4DsZ_5JjhAVuIxAYeiLqbhSI3Lp5UkXZrV0OXwhMcWkQNhdcJ0Xc0VXOez8TM7NZDo-4dSH9ZX99SZen9cGq1C9UMlgsdnIDOHCfbxkMlxf6XgRrOGjdutGzP8pZU9mng
+      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcKdKsoEfj_zJ_5bXXY8dYHoVBQBGk6SjzkQodP_2_ik8ng46UDaz_nUzmWu4wtoq4sSsXkvGR_9HCVwrLGKH__3JDWrazyP5OuZ7AhCuEsNmdRgRzsHU3t2HvA-fTPvNHTvmvwraSN9EwyRBBWnFr6pmaDDOnz0I_nCwKunAdb9jQD18I8hytYcQGV5Rabij6zIIesZ3bdEQlkIpreT_TqiEH6zEJfPh0NPx9d-1reJBxKNQNdkwGoEzmyegWQ12K1b9ipLb5ggUdchVe30EJe1i-C6Fnwfsgp8If9MTXkfsaMdr24QNFpOR_dP93lIiYgUvb3jp41wQBwC5Z_aFBO19EQTwmQbZ1bVZo26Wl83VxuZcZjtvJoDr4WtR4cLCZIXqx8YPtLqmsksLZzkaztmoVfGeSdTNf1VuY5LYXajOMk9wkzxra2HA8S5Sipe
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Chanpen Tee
+        uri: https://maps.google.com/maps/contrib/108365194098136549861
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXJhTuIQ5tZp1I4rrtuXHQhDhWlA-G22UFTA-5zF5D0VA9C765Vxw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzkCXwvmgBnL0AAeLS&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzkCXwvmgBnL0AAeLS!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
+  - name: >-
+      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcKQyTxhjU15r8iK9qG3UEdDHYjdj56Me41CHRQ51hqSqqFmBMfZWc1PXS3WOTD2huhHXlT95rjP_wj7HLQMm7uxGdf63lKRR3sIgu_0-bI0GnZNz9D2UOal1zUPSpDLptGMw2WwHO1rjvxRnpykMB8gv9tdaq6uzFBe0gcNcg23xrPobP6XmwFPFR9LsEA3skor0ZnEqTpnMxuslCx0Mv5ZgpbzqxegtmnmDTorkT74i5plUc29hz864g4U1uKNtNJOGuN0w2AWINiKp219jejZA6y0UtP8Q-S3fZ8qN3cOHw
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
@@ -35,11 +48,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXAJuOrrWzWPqKJIz8DEo_n-3up8njKqW2pxfuKfwOfp8-eWK5c=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN9j0K5_NoyzeiHLE7PK-CNko5jAhdSykUHbMNP&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNzPzxiJ8N9i1jqtqAUDpAH3HWHBoYlnOuH0NyC&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN9j0K5_NoyzeiHLE7PK-CNko5jAhdSykUHbMNP!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNzPzxiJ8N9i1jqtqAUDpAH3HWHBoYlnOuH0NyC!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
   - name: >-
-      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcKonJMhaQ6PyuNnQZJ7ts7ztKRIF9OKHa5V-gaeDNSbZBDq411MJWxcVbwVY-yLkEH3S57PUwW_-SRwSQRwSNeJ87QP143Uww3EiEIkpEK65kw3JhTSwmD8pxq-upXWp4hKVeZWqdYaj7fc3MyrmfFuhII4x5kkOeO0veO8Duv2eDZgxSOO5-dg6AM4d4-YeKYXog4v8v9mGKKacSrnTu6Gnv7Y1KZEN-TBjkZzERgKPIW9dTLLHr_whBl77Fs4tyVgkZbUeYDe4j3SA0zZU371LMZBgcTgty1uDEXXTm1UJg
+      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcJL9vFJEjb9YeWvMgP7KCRD0HnJLnkkzgCyHzlGDJh05gGCVh5xX3xdE-XcSTH0LWWaTbBxRpl5zOWn0NvXbndt4yJooRs1589AFA7GF2rlEbO55PW2Jt6SpKI21BBUEY_iZCkT1Dd_u7BA__kLw8aros-x3PTTJyumkx0c-Dq-UDK4G01Rj0DDAc2KnIsK2Iw1JEsCeJvdn-3aFjQKgbc9_LjUJjK3eCUA7cDfhbrB2P23ehvtV5vBBoQnq55EA9BA5KENqiYUa0BzCSwWnAHhnl0riZ2k9OPJGaQmR7SomQ
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -52,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOxa3D9aHEC7Ua_bi03LhZFKbzmzui4yprsLANU!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
   - name: >-
-      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcLHfXZikspK9EQMrtjNQOAe4l9jDVrzuibtc1NZeiHXoP3fOkTNH7ZYPw1gRRKGvKjS3YTfaht-_c-4h-OJTgLVLgSqXur2ptSWMoJo_3ME82nVhywGa5iMToII9SLLu_pZU7HyR7REluMUoD-PTGJLAQIp6DvCMAMULp5NC5lcfBvXCIJrxBJSHKVQ-7gZBPrHFutm1Ouu3dxXLCD-J0nseLGZbQEzP_-9Hbcvw7qEanUndEe75DB7AwW-7IXAk72K-cSJTLfhcLoGFOIDRU14Nvwsr-ZVE2qET2tx7raGqw
+      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcIegbwEeFfk8VO22oDhnXkJzUUWZ8YNf3y-UdGRwNh4aEit25-WVWmmuMh8yR4_v-C7nuFS_Z4-KXIsFevi5xAmfqEUfBISCaZrLYC0drLIB_cR4804AIke2-Qz7RALdmCejvCKcELroFPgC_sj7ciPPRL5LNTF9XkXqCPQgpGS0u4nh7RJrnObVgkolUdJ2-YJT-OmqdyGkkcoY_KXz0xUXz5jB_i576r0Ww6Jsks9oY3UbeHu8Uj29WXOzMu2tOXRstQwNVhqALnz76GAV3Kl4GdmQPH4jS6ip_iMkHhXQA
+    widthPx: 2992
+    heightPx: 2992
+    authorAttributions:
+      - displayName: Kin Da
+        uri: https://maps.google.com/maps/contrib/116870618617682196128
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXAJuOrrWzWPqKJIz8DEo_n-3up8njKqW2pxfuKfwOfp8-eWK5c=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMPlak1j1_Kftx-9Nv_QLxJPeh0spVIF9PrCq9H&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMPlak1j1_Kftx-9Nv_QLxJPeh0spVIF9PrCq9H!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
+  - name: >-
+      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcJKLIheEKczjimTAFW8MvQABdxjfaH5CN3xfwhyxUoH1p9e_w0gF50rEdC7YOgcY4KX0p7AZ9Iz5HNpPlbBh1dLfX1-tUltiaLw0sUveF2gEbc7tZ9sC5AVrcakbr3wCIofOoWegO2FkrMvTgMrORTfj5kU-Y5EVhli5St2D_ktgA4EZR_an5dPgE2b2kkIP_ssRTMEc88T_UUb0OlmZV_vYvRs8zOW6KbgOSdRoKvRBPJpcszn-iyZy6pMdqpVDjBq5DRX50SXQj-5TX2M8XhBIDH5aVA0VdPZwv9-m6aYKA
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
@@ -65,33 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP-RJHm4t8kAyzuv7qCCt8hXLF7td35sWJLeGAg!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
   - name: >-
-      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcKdtC1WTBusnkQwaPff-JwZ3gjnQA5-IrcZg0rY6SZSORJz5gEgjfblGVTWKhF8AbZpJ3K43-mwZs264sanHLvg9YOYJlA7pJNaVQzlq4n4fqsY6LT6eBcYqmwQax0goOiFAAXacV4S-pzx50YKzLi4PpOSLa3AVvfk4Sb0-CEMMyR69xvibOS4SOsj913WksE64JnZBsDZKlJjMRQcxl3npjyR53b6PpokRcx0vto98lGnMsjTjefxfDDkzal5BgBS12OzIhCouno4FrdobiWdZEWpWN-l-aHH7havHyK34w
-    widthPx: 3000
-    heightPx: 4000
-    authorAttributions:
-      - displayName: Kin Da
-        uri: https://maps.google.com/maps/contrib/116870618617682196128
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXAJuOrrWzWPqKJIz8DEo_n-3up8njKqW2pxfuKfwOfp8-eWK5c=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNHweUfOBTaO9Azk79dCo5NjsnzNd3Vv19IPI5b&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNHweUfOBTaO9Azk79dCo5NjsnzNd3Vv19IPI5b!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
-  - name: >-
-      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcJDt_nmkihPf0AesEJZpOLCXe7OdSkQ_Z5frX95Fg7fidUVelZuzBnVhrXDG8mDjFdiUdcPETQxQylIkIJORhgtFD84ROMVt0rEAU_wx3ZZqPTrLszIGDEnRq7f02afnxwoanwbxObhuI6qyF65xGdzGMGleIt1D8LuEUd5QnqkeLPmqxeMc59Rf9YlyRetILR11WLrQEOIE-IDQvquzV1fMU4oBy4GQ-LiJMlrNI7kjuuOIiClyJVHsj99bCVY7lA4-xiMIV_rJy4zdQAGT6G043lkyIOWVSO2zhJ4zDsWyij6WNgVQEdgBcIYPDHn3OnnZqsyhB_dvsiTk9-ryB7osYoqoavLPZUv-7sueCRgmS95tQefxdQ77EigkZCb_ucl6xPrSUhd0Mm14xHUDoR9lj-QYFL1pjUzMle1PEOzqHod
+      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcLy7udoyuN4ojbUPNYOs42_FHcYb0UlTSzQqMlJzLJWaFDpr1rNstccnoNa2UDv_1mq2DwQ72rIUUMPMhnzTNffQRVQhe9-vwnc_PREtl-aJjzQaNCiektz62EgK3DZ5DwvIRnjIUIpUQwSzyweyt9bXGWRHPQbWUETppEVo2uM-5vpDwsHX9vkI6P3UQ9pqPijOy7JaHy2lwTJgs3QRPImpjYBNruLv-L1ru82-BHrXTqqektd-IO-jzZUOqlzRBv9eNOT1SrybfAsKNIwrpVJ5t-VAFRHhimW4It3kGU_CuCg4p5oK1XmtdOMJ2UHM2K7X2h-Cl3KlYf6Se7LyFeWaw-v3IsXm0chDnWExIfy0wIBykLs0UNzizjYBrhWXaqhyldDjkokFcylB-RWKI8DU5XpkyAdZogp7BqgMl4z8Q78
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
       - displayName: Chanpen Tee
         uri: https://maps.google.com/maps/contrib/108365194098136549861
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVAOwJigrFy3FOmvdnR117Zd3FQCS0GxECROzUSTt_P503KqCjMow=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXJhTuIQ5tZp1I4rrtuXHQhDhWlA-G22UFTA-5zF5D0VA9C765Vxw=s100-p-k-no-mo
     flagContentUri: >-
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3io6LjwE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3io6LjwE!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
   - name: >-
-      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcLYciTNnFwi9s_j0dk0Na_tF3UdccnNaKmFXIgm7gkx_Q11jmcLTmd6e9MapHu7Eq9DBV8_Kl_wy77Y0CEn5qtpznwdC6_U3QTBxhvbGBJm9l8J84BDhXAYJT8ryTp0CC803xlRbIalJ22uvIF_Sfu46kjHvScGGFeCepexHl3GWT8kBNUqfUi4JUABNaCiAcLwUmmWAb8FMNi4o2rBgUeDAnbQRSZlGUc30pcHuvtGLdxCjmbugfhcHy6GVP85UXLFOwQtGWMUx6WESw0gEPYhJXr0BQ6L0WCGy4Bp2Dq1gw
+      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcLLOZu5aZZJwzsRAcjbeDbFpc8j9z4tQMi-pmCALm3iRRpjrP2NkluLPKGlgR9jct3lg19XMpnWx6-ovY2HIglY3SGU9lpR0uosEqQk3e_qp5uDqhxOPOjuNYFjJ1sIi2SsE4M_OwFSSFm9QYWAszBteCUfZCywU2rzM62quZ8zwLsnCZC-D9HWmv-S5-btqv9CVDh6AOQ14uhVIotfFscwo6FfJbGoetzEHRR21xUcyiFKDMWvevUSfpZvrzgLvJ69YR7LoGNjtvQYIY7ExeXmgg8QRftGsW8_zERw8SRPdw
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOHXKSlHW1NRJ0dDZY-BmyVzTcQoTZaxwjFf-de!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
   - name: >-
-      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcL9Zqe3YEnDIAV4lellQlqlQlrQWwSv2Jyvs5xCBae3K085NpmSnWpnSbLlb3PU-SopoRiNZLD_26NIQq1ZLBbbhqKdgGDXXIwoG4F_rGvX4X_pwKQHB7M0IyJSSok3br9LZjn9ido8b47LVdEFUrt6yQHHY-dOCaeeaa92_gfgAWkbpNXy5KrtYAP-78hMRRP7B7kPFfUWSLsUEs7vveDmyjBXZBsVICv2QWJ0Cpa9dvghxlNwWry6B2mvHi_ZxqU3YBxLe5KN13WCWco44XzeyZ9eGmfGHsCyS9Su5W_amA
+      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcIyjO0GsyfNPThgH6jW3-EvBT97PuUxwXQsqFvQv5ZnQykXvb-EtjnvEwDLDQpgy7QG5LFEV1xdl6Pqww4XUCU6WfrR6bFS9Qhxz4AfLFSRL70YogX5qSE_37tHetAI5DZkVI1Y4mkJqZt6OINAiv1kApTbqhB5iFYphZfofeCAFXeJmdlscaNTzGrC5wBIBaqfG2puZ5rt87_FnaZxBKXLbkDfqHBO6YNDqNP_ffKWV1HIMuex5MRWutf0GFBnkQKVhbYv-konyUDcla5mSu7AeT__TZkXbF24G8aLx9yPQw
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
@@ -117,31 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMDBX0G1IN7dR5A_-Tl8xOzzS_SfyclS-ngVQpQ!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
   - name: >-
-      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcIW3u7PSKEWl5k7MvyQ7ASFdCvc3TW_7lSnA0W1GHdH8OnJ4myyzmZ-pIV8fKxT9-7NzPbvsyGPIBadS3Vlz2plqL4m8vYHYPyuZG23Q3kl2wgsQkuvw-xU81kg0eaP6PfPXcO0h31gyg9f8DDELeJxvnE0V0QJKaY6WbUDQKXEnM0AJu-DgxgCZ072TZK5XuOZX5funpNsSfNYrCKhPTiAoQ-WRw47takeVBk6j-6BBR1L7vBdSAyJQuZBscEX7cCrisB13hJaksiAR7d4IFaC7p4xys-sXyCLFI05RhLCkA
-    widthPx: 2992
-    heightPx: 2992
-    authorAttributions:
-      - displayName: Kin Da
-        uri: https://maps.google.com/maps/contrib/116870618617682196128
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXAJuOrrWzWPqKJIz8DEo_n-3up8njKqW2pxfuKfwOfp8-eWK5c=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMRXU3zr9e2Dc5FTuYHqYHW_me5C6JoBCSYgFG4&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMRXU3zr9e2Dc5FTuYHqYHW_me5C6JoBCSYgFG4!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
-  - name: >-
-      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcKR5GkTrv4wrG0d_nNDkgJkrG2LkGZtBwYz3z_RsXy0T467Ci0TIy5PZ_j_2AfZje-JyysQvLPnjdxmRjFXTLtboYERaomx-VFXOkaN6Lwq903X1dlH9qa7SB-r_WClcuIIU0otlDGBGXXuIys4S93wridJx0D4eqHD-5josw0iOnIA6YwISTpKwKb4DixKzY2nMpRZHaem4eFn3RyfZBv8-43nbiw3gK2FYE-8VgbyOJ50gpd1iY3nH2OpRZe3270Eh0fUrKA2EA-Gr6rpabVp9PS3eSxc9Q6DNWM1IzLpCJmZStNEkLGByQw5hLt4D4ew9rbq4affqKUalBVPNu81v7nn9INGSr4S3n5P4hK4HuxFwFTHyQPl6oxPFhTaGI4qO9EuZgpIwURBVCVNA_9pW7Avuz1sZoK8B2HnZcWvdbDw
+      places/ChIJm4T1wYLIt4kRw8bZTo22tqs/photos/AeeoHcIYoHYjwr-jxRbmw8xPhMbmUsWfegXrxfbcyAwaC1ELsaPIM7EZtu348sBkb-FByYHfCHys1HTtcv9kjBJeQd8VMRds_Luf0ZH75Snvtsk3YkpA0RY3T_CsLnAcnTQmZcdzvdPO-SWFndPmwB2GmjIg9cD84PnuLir2igp8Iu7TtluIZmuIK_1ffd3vVjmtx5NHi1L7LIHZr1F4-6j6UjT5JBPziYKduJ4V602ISmzzcngcT02UxSn2BBqPfM3rK8msLp8vtnGY7v6M9Nu7yRcXKjIUPBRJ3ucXq1nEefPp5dd7xjT1gZBXdVZQFeTZEu82gOibDw65gT1ywXF3nSaggdhNgAm-ZghDryHJskH3-oYLzhA7SQbsgnL0P8KrJ62dGRADmrpou3mKlMU1T4DJd0oTCDtyuQtjiZ_dRv0Gqus5
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
       - displayName: Chanpen Tee
         uri: https://maps.google.com/maps/contrib/108365194098136549861
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVAOwJigrFy3FOmvdnR117Zd3FQCS0GxECROzUSTt_P503KqCjMow=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXJhTuIQ5tZp1I4rrtuXHQhDhWlA-G22UFTA-5zF5D0VA9C765Vxw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7qtD1uwE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvypiEzAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7qtD1uwE!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvypiEzAE!2e10!4m2!3m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
 address: 6923 Laurel Ave, Takoma Park, MD 20912, USA
 street: 6923 Laurel Ave
 city: Takoma Park
@@ -183,7 +183,7 @@ phone: (240) 582-5122
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 569
+rating_count: 0
 website: https://www.kindatakoma.com/
 reviews:
   - name: >-
@@ -404,6 +404,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Green walls & soft lighting set the scene at this storefront serving sushi,
   curries & Thai fare.

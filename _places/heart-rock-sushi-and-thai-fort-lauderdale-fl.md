@@ -13,11 +13,11 @@ description: "Cozy Asian eatery with modern decor & a lounge feel serving rolls,
 place_id: ChIJuffLEMgB2YgRetQnYBMsw60
 photos:
   - name: >-
-      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcKengcslCOddUHdsGbILh5cgnx0y3uSaoiu11CIDQ2AIDB5mCJeClHmvUCEjcjmiBfyIsd1Yq3KHY2ylz2qcl07nymEeam8W2_dF-SnSvCafEnCw88DWYsKEm-xjsxOucvN8nUpjRCrrvdXcaJMxWSQ0ZPsCrtz0buUBuyLvv5OPtTlyMQq9PiOxXCG_4nAANiPsRJ6IL-fu6xGgJ3RpvLaqKujzO52PiG__WxA3kauIvoVie1NFC3D4SME6qRikdVd0bPgwVCHdcAHelRZHR-rPzIRWfl3qHeD4hsMXOvdTQ
+      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcJkVdsMTwRUJZbyXpLV9a1887OEtAW798Fp-dBRXjwsQ3nshNXt1Bi3yaftRxQS_Wk0DwhV7cEzyATTyEwrkxLDrS2O3R0FLMuzgBiUXA95KDpaSN0MCmut-0tF5bOadelLI9YD66l2htEzTFsUil3615c6WKRXJT-4or_vFS2sD_OXfskcmQsPd-Ja47Jxu7XdYxq6kabD7ZV6e7mnaOdE4Bk6LwUMb-dImL5cy8bFkqOv5pFs-BdmoXS35tolTrKRFNFXQToZQvt7ObOkbgt2K5-nhQlBsZtYdSraG65juQ
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
-      - displayName: Heart Rock sushi thai
+      - displayName: Heart Rock Sushi and thai
         uri: https://maps.google.com/maps/contrib/106077019637929104385
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjW2dE3Z-nOPsDLqJ1J7Y1rd5_FFYy_xM6ocwE60-2Oio1liPJnq=s100-p-k-no-mo
@@ -26,24 +26,24 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNHJh_GJ4mcvdZtP-fYK88nqWtRTQtrTioKOh1a!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
   - name: >-
-      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcL4-S7nSm38WPCAI3Gj-vuaKIz0RxPlaHH2O6uOhowhV7vL7IibNKfrH_DrqXKjYFkL6SvLCKAkWezlUxvV0HaZYOnbLCjXnFjDWp95VRnaYwA5WvOlQkg3MoDhXKplyp3h3WBSdNydDX_2Ou37NgunvJg0t6Eufk6Zxu9vVVwpS0_oO0AqPoO8VQnv7Ea_Sfk8kFfJdCbBBDTJYNibdDMfNOycVBs1knCl405cAHsB6-Nahr_k1DlpRI9PzSTzYy0aF7wCM7wYnUs8gMXbINq0X9Up5OY8tcmItrzz5Cew-g
-    widthPx: 1242
-    heightPx: 1242
+      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcLczh_WFgdPlOROmEY9NAGpJ1dIzy_hfGDZBOBswIflY8Bt1IAKo3PEzEFrRxuqIlav2EmkvNXU3mz0hCnmJjIPHKqNpblCeePBqICotgBN1u3ev0bXv7Nz84XhwjoO5SYaR2bbTbeKvmedfkF3GHFmyn0guLqiwU1czC1wV9SQZdmszGOyF6Zq_04hpz-XNIoeBME1PuXGtbPIjtObDg7SaaLdgh81R-BBMmftM4Lh3fhiBY7Y6zEoLEan1Q8B3VIohvAp69hTeZCklKP1WVuDU3So7VjAVb0G3_OLgt9QPA
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Heart Rock sushi thai
+      - displayName: Heart Rock Sushi and thai
         uri: https://maps.google.com/maps/contrib/106077019637929104385
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjW2dE3Z-nOPsDLqJ1J7Y1rd5_FFYy_xM6ocwE60-2Oio1liPJnq=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMNnuawTtJVpBKQPGxfeA4MsjtK5qYsLxyLP7kG&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNIzQCbpa8tLO1JzyknmfHrZBoF43RNly6p9xcy&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMNnuawTtJVpBKQPGxfeA4MsjtK5qYsLxyLP7kG!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNIzQCbpa8tLO1JzyknmfHrZBoF43RNly6p9xcy!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
   - name: >-
-      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcI9M4w0B5ksgdinwXlrW3aQKlVBkX7a523o3nlBZa0BjKugznGRqWiLA8Jf2PeLK50VygVGYwH8RqNPkEJt4A-jcIn9u890D_nXYkDKP_JrreF1r8nwBbhvPqxG22Tvr1VWcz5ykE8qfS72Bg0ethvHDfJ2OIyQ4HuLGYyLHqE44irg_hun4mLsNXa6ZDfV1IkZkGyqyafqz9agOaQhkcCz_C4slZNRNNAF7JT9esI9qg-UBm-NlVkbB2XgOScnnvO2lBy6Wx-l6NA5nHo2ypsHXRd8fpbVww8K-59jKGTjtw
+      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcJ54A0paYHB_kIRuUI8xZpKRkT8yflgqfIWJj3moegux3uKLgnGyVEpSS-K3Mrudw5EWVrQZIY4owSf8rETr311LtOy6HJVMMYdje6YVfhSKW0t7Kaw1BxRIgnlf59o9VM2pn57lLaS-iog5KNz47Z_1Z6QxCEgbldyna9hyFknNmLg73E91fz5RXpebrERBOVc3xdD4zG9-Lrp-n0Mo3a30Qu90TfS-8ZjVlrjcE9YtLUMOaN9ZZmxYsuisZ8YERU8iwM-l5YYUJ5cWwWFy9IkcgbLx8h-Kr5c-q4YZn7LWQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Heart Rock sushi thai
+      - displayName: Heart Rock Sushi and thai
         uri: https://maps.google.com/maps/contrib/106077019637929104385
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjW2dE3Z-nOPsDLqJ1J7Y1rd5_FFYy_xM6ocwE60-2Oio1liPJnq=s100-p-k-no-mo
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN7gIoefBC-q8AFX4dq0lNUGjz4hq5mgvjpQAI4!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
   - name: >-
-      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcJJ5Ez4CuPo63iqgF6KccObdbkzVO6vz2BJcSGbloWkFvAm_jXnn2SMjOcl4zMzUJZT7gRmI5mc7jauejnaPOMvthtFuatVikxtHO8Y7dtOMSYNe_zO1x1p8PFGjoKeZLuWWAtbtXhTpKZTLaK2DuNUmM8trIjH4YSQXiu8KIPtsuIPIsYNjvCWU_EK2T7CHAltgp1c9ruyv_BcL5B9bUYVLyjkNGvamUh7glRck_4uLYpYFChpMq0Y7Ck_4gT0GG54SjVckRR_l1c-mMfPbVAvkXXTr9vD1Xj9zrsOCQz7WY2SxCQ903dfMtgN2EcHiZET7a-co_HPx6ouKEvEmJuK7_ypOcSRR7U44Fgsa5DhFamvHPZhncZIDmBs6F7D22avLIaglBWANHKn0HxXL5-6AD4lHseDpbFonhxDV8Slfg
+      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcKD96Ex4wtH12p3Sp7UuNZPTjLbWOHL2Ce8ATEbA8uqfI6d27UT6p4fBcDZWLV3oyS1rTibbFDB1rEykcOeosAlEK7ZKJgsfLeRaj0QNbrpCgl2IqQbas_m8FfyRQxXjixLMC1dnP-gyuIQOUGpMan3xn-diMzQsI1l11qLiqFrnP2LYa-xsnZm2WlgdcuExAx5UaHHC0n1wsfORHHNiSNdGl0pAitHuB1E-Els-PGz03hJyaxqkV7yxrpw3g0lnUTvJ44zCuPnKaviaJgxkPv86QKaYY4VLFSIBuCqwejT7gwN3dWamTNrPFuk_6cdLP9e4zKT64k5Ph78px09xrHesg_KUEeyCjaVjDOH-EswgippJv2r3naqhozb9c1Cwu4CH_TuE5PMnxwWwo3h6czQ5zLXI-ezqSV5qdWadeAdfC4
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -61,24 +61,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVdNPkdi9S5GFY1K4dZVmMgbzehLRiY7ag1C8bc5vc3I3XrxX2a=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbyq-jDw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb_LiVwAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbyq-jDw!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb_LiVwAE!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
   - name: >-
-      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcKUU-oezN1VsDziUoUXi0QnifZJJBtQNI8Lr5N6jkEYVrqrpHtNusD8JYHGgKg32a3Ef45hnHf9RCQQfGrqREqyYpE4rkbbf01Bwua6e8nwJ3pLnhhQUQrRE3rRdjCqV4SAqo7zrEODDgFzYRu-NOD6zmYLRWl1otsaa6QTh34zZzhqUrn_f2JwuOYSUdV2GuUVdLXVUQud_PeAQtBf5CjAYncvTKJZ6QfhnweJ6ycKL-o-9Qwcml3C7JWw6Spqy3tqbzLAiJNom2yF_plOFgep9CV7eL80wOdHGRHFVwVbkQ
-    widthPx: 1242
-    heightPx: 1242
-    authorAttributions:
-      - displayName: Heart Rock sushi thai
-        uri: https://maps.google.com/maps/contrib/106077019637929104385
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW2dE3Z-nOPsDLqJ1J7Y1rd5_FFYy_xM6ocwE60-2Oio1liPJnq=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPeXShVXdWNmsUqv4q03IUPpnmgByU5tPvu_-Pt&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPeXShVXdWNmsUqv4q03IUPpnmgByU5tPvu_-Pt!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
-  - name: >-
-      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcIbQpKTrmFxUCIekwOcpGPtYQhhIV0Wg_ry-bmkRJDPRKdBr9nypQErZLQWhzAUaNcDomuH0KwwoLeiTHXkJ_e7_npabsg5EJH5tG-EeFkt1kawJQIxuuYdDAI4YCVkk2TL34mafz-txP0x3FUqs7xazkfR1iMBXDhephQ8kUQdVENZQ5cIf4ro9J8EorcF4vNN7KKqVg8v1DyIJQLgfv5TrYPoa-ggjg8-f8pBbLfknjFsqI_Hpit4QwsJjSEGl1xcMqH3L7oRH0QPB4HT8aNQvXX1VZvspqi_uCsIwuBOYOTXbd_nW0kO-H8MkU2Pqdt5aKfxgBA18R_I9oRi2xeExcvcxRNEdP-XQk-3vsjVFaNipkR9xIFIYyCxU23ax4X2Am6hVPCFFMfibBrlHy5Rijxouf7uP2xhJe2qjCRM0Q
+      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcI94eMJwaIR90o-R3EzZ7pvgLHCWhyIp-0k48QIxEDMXGErb6EXfJep2UESd5V3Yej962y5zTcu81UVLQcQlvsgocoPEHcqNDzg8Wt_UWiuZcAdVem87KcgatkpbBE577DPU90Ij3yHHwgXgpXPvOjB-uxaUyldsb-lPl5tQOXa6usQw0-jvAxDhHDmxHWlkmBlKNLF2TiMqqDu_uZL6iL_yJxtVXurZcOUooWz_4Zf0bJoYLXVKQ7TJuZdDVgiQH-WC0OY6MgYyedThNUCP37bekLd53KyJFPYHQGhoX0dgYglxT18Bp27A-EnKohbFfTR2ituKeffy1dHlp3vd2XJbOpqeoBH5YO7q1_gMiGiw1ld1okG8g1nQN6J0AcKY5oO4L8Rau06TAb9NBU14T6NgS-rcA-AfypUQEikb1sWvw
     widthPx: 1600
     heightPx: 1200
     authorAttributions:
@@ -91,20 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDN4pb9Yw!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
   - name: >-
-      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcI9N99PRVCYDn3FSwXE58UFD3ZKuRmOZ6sa9l_pAzRbUxUFuDpiXGeSvnemzlSNnrY20K2TjFRxRC2Uf5wrsSct2_zxDYFIjsUabJQaqzZkX6cvm2_7DTxh0yquUgQ3tkpUVibR8VfLpx_vsBLD-Fv2M6v9l1-2qiO7MZNZKg8waQLN0b8pR0UrCkOfukYn3PKQ_COcEXVOG-1fg3hJj_q3pQAXiPPuZ3IaH3SukSOb9CeyrKNX8zTC21AwqSlkaAXWARgbHHOFJXrP_43mKk8kC_CHMSO94_IT53zcF9AJ4A
-    widthPx: 4800
-    heightPx: 3600
-    authorAttributions:
-      - displayName: Heart Rock sushi thai
-        uri: https://maps.google.com/maps/contrib/106077019637929104385
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW2dE3Z-nOPsDLqJ1J7Y1rd5_FFYy_xM6ocwE60-2Oio1liPJnq=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNAywKsINYrF8iBoHyGT3E70FkQk1A2Bosze98K&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNAywKsINYrF8iBoHyGT3E70FkQk1A2Bosze98K!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
-  - name: >-
-      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcI7AgeobAzCDGqUREWs9VMjLHAMjdEcYmk-jL0gTlUPOUg9NYvKeWHauz2fHti2_EcmgDOlIpwOhplR7qCJz2S5MFBWRdvVbZ2ZnlZqxYjxQQU8HprsD1b_NrBNsDY7Traw7_wvksXZOalg_LhQV2tp8XxPn7SZ_mxiLrmerge-l0zvVHgjQqmo5ZCC9XpdK_D5Pi0ptSXsA6Ad_SJKwO3IWr2xc6KdxmS01fN5I5x1QoPc0GevMwvQV-qULKjmlKDiqcwLcPk8EUIarkL4n_V45aJ-LSYtrI4WMyaEsLl7OlIu8gj9YZSxgplcYMjBtMq2MzBH8Fdd5bG9PHVeSa18RISCd0qrpQZIXyj96h4J71GSQboU-1_63UBlorrfWvWfjWHTeviPhYQgo2Rbj37Kf3TQN5uu9tkngeTvJY0NZz4
+      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcJ0a7PHDX1zchblcWE9US_fN1C2yCzhQ6t-F3qNfPAGQutRvXunxWFBRakFZi93HdVgJa9S2GX8wMXZkqVnq2k6q_SH6zkCa3FzFs2IzqmH2NNKkLEz3VswITuWwuyry7C1P2Ah_Q1dCRagF2xujpoQep_zKlXTc4ifB5iq2TffuM0YFFXUPvbOe7iFCTgUBb46iwdgcI1Rmfvr5PM8VRCvpHybzo5OLidHbyWiGik3YdygXZ3m57WYTONrmytdnRyzprY8elpS8dwTC7RF_5ZHJftDdj1GZJ1IB14qhWTwnxw94-NH62MUtbsS4hFE8uF0nySqn6lS3MBw6udv-hZBqQLJD0xGUvVBnlx2k7K8RCrewUeTJOHthy1-pynyxSYlhLEL3ztULKexJRglTB7Srw1prDLmfA8Zl0yM7ERX0Yk
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -117,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhkZeJwQE!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
   - name: >-
-      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcLCOo2DU-dkiSiOBeC4W1J7UfxkKt3jDK1Z7rlWJx7qcGXuQ-moLZUZ3Tnz8PYgDoA8xvsEyKjhCyyCMPiT74SjEKlgXy6p2diXpkG45uUxCLitaz279v206dWG114dhhVQkIln-hhrd90CWw4NKfVKP2MWWR3uRj0IpeHc0VkOfikoJA8ko9Hf9wI-ss2OgWda8xWZYHykYOwkgAlLMElrPFQC4wW-kwstnuPzbDYj4MSRkgwy1-WClH3h1-eRZXwo_5HuywyctyBrhKtLOpJMSov1KiPwhTLnaFjM_1PjaW6G8ReIMP8zzgPxfXbsaC2Pd-XdYi55ob--Q3VuLrNT3hnvOzxK7l7fiGrX08Yv31aMFugcWz-oM3gxVfmzTGHOfIdfyNab1c_esasL8UFkbunsU1FX9ezDYuYpdNxpyQ
+      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcLNNvIwrTYXJA0nOzqgkYv_iFFY8yYt9YsSrWcbTefFllJ7ArWSOQAH55gaFnEpoBnPRsbHT4348gbEipakyPc66BTpApot_TYfLIkRz56D6wiZfLsdlOXjbmEU3psQma7836bf4wjbuG6hhmvTCXhLm5o40CyHh0xJs4loKCB_DrN9DiHwf3MPuay7js5QqRfKGlluaBcbWxfdCVGkY7Qr8GaVmWkORPvpCUPF2qgc_3LJhqLF-iUG19nMjmxyiboGdZzuBx-56Top5v4gmib3BtS9Ig_f8P5PP8PFT0JDfxKOJErAxZPiE78DpNw-rrTvJT0ZOnCzDRyPPfB2EKz-D-xGuqUrkJ68huEAcgH0KJeO_Fg5MNxMdrUIq2yPJgdCrWoR8GGsLzuNWZQsJCOz-6FuxvquKg9fj1NWj_9QiA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Kevin Schmidt
+        uri: https://maps.google.com/maps/contrib/106917395600707622096
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVdNPkdi9S5GFY1K4dZVmMgbzehLRiY7ag1C8bc5vc3I3XrxX2a=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx4J_WIA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx4J_WIA!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
+  - name: >-
+      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcJs6LOgUhddhAbVoiIImjOC0GbTARzd7gNTXGK5Zrop5QXXj1hNuemyfXy2SHR8APT70E2TI4DJkpq6vnCZbIUdzLn1SmNPGGuzwed2mk9IGQXQR1xz8wpRy6sMplGyxjiQVr4yuewTxqnQkz2E8DOOS0vDUIU2xjvky_t5-HHhTROtdVz2DeC57J2xBzFRe3pxCGqFXB0f2UImcBz2VyuGuKs9wj9VPr3mtGjLeYU2h-3zQBNNGdMcj43NtGdIoEZL1SyoRROAyHErC5VeHwmwW5QAPVQIm-EChtfNBMboeGKEtTaxcZoCt2vHHNav910wDiyWgS67QK2AV5h9BKUY8LcsuawEKzLHYAgaIdv7dfKSzM8u1eEN15A8-AbQV6RkBJWut3kBR0am0DyCh9vMVSQLdUN-syQdEbQNj8_ySA
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
@@ -130,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpveaEaA!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
   - name: >-
-      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcJJ81SaYWnPyeaC1Cgl5eH4uWrL69-AGkcLC6VEgU32G62Uawwy5qXnBVQnOwR2QPHtdGkfvVw3fe9QI9_-LKclk3BqNi0v4MMeFlxle1IoqdxXxiNHjAN43b84nzU14tlaF2zoATZFklLYOfQTyrjGC9tuYHDRXcqtX6tFISYpt62c2AFHmqZn3NaN9XYOH60Yx3mj3nLWyc0rs6TsvaUXAquyna8o4MrUbhyWy3ViR9yVPxnRfFd7sVRYlJBOlg5UwBEkTnSlx40GSSey9E5SVkDHXWCw7ewYsVQspRpNiY3FbscFOqxMrsAi7cQJNwYnWAkchK_nZ53Pe6GQYXKeAqdBCuMtOMrYK3VUU2AVrSeSJZumObboSJNZ9p_B19WKlGcBf-b2UPsGPlXsdTTtsGvhLz7cCsbBF0AWdR0C2w
+      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcJ_LzlQGbJjoSa_6LDNNXbyIxRcFSlTbgkT_VAeax9JChLzb55WBUag0CPALdiNOUtkpkZ6dMH6QwxGBVMEZ-HBWhiwJViaafAJmOBoE14PpOYxKABpFhfXLaH8ra3ltXPHGStIwkMEQh0zP6EIOX5L7uI0YCnd4_jlEXWgJK_QPmAbmJ_VqRwd2ghWgmeMvxMpSXtPPexdJghmCJwg7zUfa_VP7BRbQwuR_dZxJbMR5uYTEo22Y97GrO34n_o72CpWAj-5AjtWbDYs1bwB9zFvshw_e7qBZ7vc3HJhVWNje5h7zHKf2GO7d-dhejoq-ASRFSPyUKiRc-cWm6lnWTuV7097OKuGpy037WbGyoUjCgu0iGL0uFiArs_XyvoHu_FLixnda3jd4kAVtMYINsYzMD7X-eKFA31Sh0onVt0GKg
     widthPx: 3192
     heightPx: 2611
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn0rrIEg&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn0rrIEg!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
+  - name: >-
+      places/ChIJuffLEMgB2YgRetQnYBMsw60/photos/AeeoHcJBtM0XJIhxaQHygM9SNJnPPAaTgGV7f4LABVQzl1zA7ct3N2FVq0bTLU46BD5qgQH_EFI-aQPBBKBlETKBYNSZvWCyw9WvcOmyGqj0FMuh7FfFHbXdlJZMdHBpzXTNKZ9vZYMuyAZU9HgEYweE6j4e4niz2PCMUiQ-2lXtWyvYf1l3qGr4PS3_N2ju9wERpGU3jA-GQPCYlhvHMXLvMip7EiGwiM37IKcZvMS1U0FogolgBerXaWVMRTaKYD3-Mycqum0izg8uueVgbarWxwFmehgrRw2DnuPWbFKvoUfDc_DJ-tHDvlyXZEeUjnhCP3LQBUUiP57IwCc6OhoDZqcS6I8egXPEYoqjz5ZHA8ES81CNRdJABNyAEKVJsdPSI-Zy73F4QmXqxK1CGjMF3u3sjYFnNkRNMFOwQ6SMtFMFC-2X
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Dominic Potato
+        uri: https://maps.google.com/maps/contrib/103679139338768946503
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWvjGposhk57di9UWOlXBGBebUEASSimotFR5siY2JyOzGY8h09oQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpyqP3lgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpyqP3lgE!2e10!4m2!3m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
 address: 1970 E Sunrise Blvd, Fort Lauderdale, FL 33304, USA
 street: 1970 E Sunrise Blvd
 city: Fort Lauderdale
@@ -183,7 +183,7 @@ phone: (954) 779-2735
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 594
+rating_count: 0
 website: https://www.heartrocksushithai.com/
 reviews:
   - name: >-
@@ -340,6 +340,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Cozy Asian eatery with modern decor & a lounge feel serving rolls, tempura,
   noodle & Thai dishes.

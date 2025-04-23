@@ -13,7 +13,7 @@ description: "Momiji Sushi Restaurant - Fremont serves delicious sushi in Portla
 place_id: ChIJ8Xdgu8ynlVQRJ7pciH-9WKw
 photos:
   - name: >-
-      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcI8GehxRV1D7NQzMNsJWAhxhPqS0a3IPLfUswH_260ypOobf_QgO1OOHGZ0Yi-2HF4zhpseoqVzRVqB66DSBsVAXps4P2mY9XEUgwuIxggWiB18Gyl9V6BjVyfAuUMDz6Dtv87oyWKYiwnTZBY3EZrt-2h-BpCa1FSNNj_w2rqsOFJXZ2bIMsGvi_aMhs8yGl7VcqfZCRHqpw1387dWaI0qmdZda9cYdrIJR73M96T2hzg3i1EDYa1WeE_mlgk60TQhxc6mgmO3mRsjZ0Jfef4sWoZ54ee2Oea9LjEXZ8__Gw
+      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcJa20cCSTv8u5PE1Awey3iA0b9T9V2cfVYECgPIatdengNYWl9F9rXgPRe8QHWU04SGPIZICrOU33kaOR_dMfAJt8NyK9TjPdQGRl6Se52SEJDS23WKpp7iAhUiZLRgvfCZWKUA-mpRHqqiFpjoRMD3V0AgDGiPVIW7eWlwZ09D91Gkj9J2iVcLP0Nhk00EmZsyPizrFyvLO2J2V03Ej1AsKhlvuthJ5pS49JkkUwKhAQ2i7Q6eEKhvA2E1yuLZu_tvGdRcBaJaBprY8vWOlFTM-vtK6NY_rY6zGxY9TtkQsg
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN62KcpsgBlAPdz2vdYTQzgyg-_Int9ZZvugk67!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
   - name: >-
-      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcI0k94V_zZNWo8ZA8Bi9XaM38cEVv2i-i0Idhlos4NAh5sHHhUb4w4pttgSVna9G5i8ZwAbVle5NS3tUf1DOFoRjp8jgsFArE7Z9dZS2vhuuKaKiYh8ZPz2R13o_i9xPNwDhllgfTv8uDQWR-HQq3D617H9fvODYqaRXH9IIakm_jumQG0pvJm8hqMCYHQFfm5ophrslJAghfi98myyfSwT7uD41Vfwx4leixZdiLc-V5DkOlymwIdY6kw_mUyOdg6IaovlFRsyn-uyfLDQPlW_kp9UPGSiycyCAXBeVhvlrg
+      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcJocc4grxFcz70QkK9tKHbwDkVOaCgQ039yzW9tLbGo2gsDcTDuWfJ3F_s5eJ3CErqwx0CC3SKU55DNjXzQ66mCwBUhX7tC8FEIG1FWr_xHXvqvT0Jf574-wxvH3251vwCHpJ3b7cVG2KXcNw2o2zK632xCinDnYS3o8cbu07C-hYeahn0oy51K2OttXZTxOC0eQ1ZFxWfkbPRIKnJczrSb5VyLYnO_QisYXsM7ZZi134IboLXR3dXSOTbvOAo9bV_s7dvlII0bfN3EaFW-Dc3YzAMNQwhCmLyV4GHu_BqjfQ
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -39,7 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPibYJB6k1Mxwsr-JmbuBe37JQx0Pq9yc_eX3XB!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
   - name: >-
-      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcLjTBNUhC8vG7D8yzNE15ZbfJQt5b3nyLd_WT6lS2PbF3gwBqkX73KmYQHjU179-uI9c06RJPoCvZKLmghd_iSNaoqkA0SoX_5RjNNNqfEOM4Gf1kLGS8FqA5mXcZob3gv-UV0knJ6yXOYu6PgWCIdDHaDCa1nnI-RelkzA26cytEWLeAOhv4YgWFlg_vN5e-xWcFN4T-7DYNn4rPRuYmZKC1RCakogVBCDhlxqQedg1q0wS9Od6Yco4Zzi7ICEwHzDGQrZqIFQJOJbglC-8ZX51DJvJNpd5gZcwr1wYMQ6cg
+      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcK32pVLwqzlKqQra9uCYbPfQtyJv_2Pk2RewqmNoag8as_pLgXS5n6iT22lPUOI7AC6jZ1R93l2ZXtSCT3cQdkH4rZwMCBNSDOl49qjyy2SSmLSPRjeqn2mc3H1YJfur66E0An1snS3Cz6dsnsneeDlON4inTLRQ86Kme1CN1ohu3TI-qDM_GsjGPaJfJkuYclB74JTjRhHzQexoeEPAANia3u50X1nQnW99ERjkzNDDAJalOYOXvClUeFE5NOpM5-QP7Nn7_yWBM1xx-ySj6dcBfC1OpECGbLAPC4FtR-hmQ
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Fremont
+        uri: https://maps.google.com/maps/contrib/114967506195402013882
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU2DxxCqCpfu3ocer4CtfAr4LQmui3R2Df8qFRRm6Kn-XmBGrPR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP6fFGVKiyQ748NsPOpoSasZ2pvIPbH_RwkbUkX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP6fFGVKiyQ748NsPOpoSasZ2pvIPbH_RwkbUkX!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
+  - name: >-
+      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcIcbKZpsNULfhHu3bCUdNUgTWeh3n1GKbbdABZjtOCuEyTBKR_k7dpIZGzB0ddWaQXC9hHwVzipFAyc0B7ItMGIhBlC6wQCOmo3-R0io2QkzYkx1MBrcPUpn38wVA1wNj5pg8rDRaPhdBLLExsT_O764-arbxzIUShEUyMUgfKOclGyEonGJsEdqJQnyrGa3X37MZGQMXjUJBXqFvbEqB1ERQzZ5VbDn8Y-qywuxSRXYfzIwG3_zH0oNzsyE0LJA_eKYj7rRbphdHOHWkzNylDhm2fkINzUu8VycJx6JQA0bA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -52,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO9rT41tDHSUwPl1KbO94zFTiheIJb0fF4D2TQB!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
   - name: >-
-      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcJc-oUb5G-tDcwbkgQGT1nzIC64bld8vbd3T2aoB6Yx1NsIpMvCkxfRKEqwi1VqHaTL2jO8dXI7eog3pZ-s_OooLzCzHJ_kIWQ1nWNWfzHSZoSPlnFmvjrhEIuKXabhlF-sLWIshaVmcX_ushLpG8mzV2ul2yhnYDXOmb3HsHeM9SnvadCwJZb1kf6KKYG8vVDC_xJJzK13n13aLStZQwjXSwciNydtKQ3jMo3PNRMIM1SV5ek1OclUalT9AZgl3Vb2j3YEfWmVhBOe4zIsJLUmIQkaa3fQ27OhDy3BHAnC6Dy8woZUiuJqWhKUZb6piLqBOMrE5mDKpjhgKWVGL2mS_1L98mQNszHrWZ5ExXisk-K-9N8Ajtng267eW3yiCNJK4zA_q4SpXPw4C71j69GuffqhqWXW4ZxQCox9kJF9OQ
+      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcJ-xYiqVF9oY2ov_jFupK0ukZpcRjwUFdI2psEgFlRBsLfI7Q2oP-Rspb9u5Xv0Tia7Bh8Q1fWnLhHqMlp5ECOKdqdB0DsDyo-GGk9HxASwHVWOmZ62ju0tKbDmvKO86ABxyI387j-rJLF7vIc2DM4FeBJEOgOcEG7ka2J2-Zu5PGS0KTA_oYZjiZQqu82RZb14_fCebNn45mBmaNzyJfDg5tet0-0PN6efS2--d6wjolMwGMMKm1pGr6LAu7yycnLveLFuCkH3h0B3ig78WjmiebA4UUoP8wkl1aDgZlPAnVcCzvhV5ZwlNAMJTFD0j6k9QbSjFEBnmawqKpl_2GYk3ZpWjVamwczF0FVUmOS9VYdsDht1CEZiDohiN7XNLpSL9UBjMcOUD7Mcpc8IAc82zxn_MkzMgX82TigLE_ucQA
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -65,20 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICtleewFg!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
   - name: >-
-      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcJ-8JGNxFzifiYmC3AEBzTqI89j0YaPIh0assy-GXb_3dh_Xog4fpNOwj5k2sYPTk163qmnPzbdHgKoLM92OPOnQPUPWrBFwTXCVEd4OChOP1UMcvyMRjHAiDmzgArwFMHshtWi0A2Y9wqS-inhmMposwPg2jznyY1kX1nmktIXYCCTk-ok13IOiGJDhvofnOwlkMcyL_5p7_Iduu5d7vpmgus6VL7QhG1X2hORv1_Rdy3WFrtMyoEaezmI4q2TVVEzWK9M3mDDKHHvgtWHZsVkeWccSFeOXuMJEZzuBbst8w
-    widthPx: 4800
-    heightPx: 3200
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - Fremont
-        uri: https://maps.google.com/maps/contrib/114967506195402013882
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU2DxxCqCpfu3ocer4CtfAr4LQmui3R2Df8qFRRm6Kn-XmBGrPR=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOJd6D2q81Ut_9fezEjqhKoOui6vok5Q0wYJokP&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOJd6D2q81Ut_9fezEjqhKoOui6vok5Q0wYJokP!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
-  - name: >-
-      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcKJ8Z-DUysfv20XvKX4FPV5dWbitqQ7eLIzcikyHWAsdtrANIbf01gXBZVHiSK6DLRjIId__KEA_vWN6osTJN2AreYG9J5F1ytwkJmK-pkfIBpLIGMW6bgEr2UMaQDp1ymse7Cg4O9GRznwQ38pQt94LVrDDAS44YEg6LQUkORcGqwEX4uXIMkIt99Ta3iFVZhUqDb3a-1pHoV43rQcB3BhdRT72R5TlN18fRGIhXCF9VStBbvDlGWOVgawLfvYv5eeAtTY6Y9aR7oxHgWka8oko0JYVmJJfQaNbfUMXKdE-A
+      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcIuk4lDLI09-Pgru54DDdnZk06Pn1dshQXoG5KFhStnCJz49fr_fatMPn1hLT6Ru33vb5RoQD6EiJ6Ngj8o-QCiF-lMKzBv4yYCgmVqohsh_e511pALI7pCAzAUgwcRRKpc87B2GGDS1JpdupkNmp9uKQHymfiCvwSMAw55zyj8quA9xsEFLvTDtNWblrill7WpqhGQ3YlxgUCirn6D1Ne_jmnZspSKsJkGb2qhG-4QdZ5eUSpcmxBsDKTCG4flS3485mcK9cYxONfsoB_hvEd9ujupX4OrskFTA3TmruNkug
     widthPx: 600
     heightPx: 600
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPhRAcQ6Hdoo7cBySWv5ZG4hbcYxzwmujprSEPd!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
   - name: >-
-      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcLLiykYjuok8qwVaKRxSW9Z79_KlpW1bHHAHliYyU6Y1AiZhGWGEUOsf_j23McCzO7Qhxwyq3La4iK84xTdTYGeSxi3m51JbMUV6y2bCQ1U93bXP9CjwCy4KKcl9puxR5J4XMNSLr8t9LqN7xz0lGNmajb6gH-xsv1BHxg99LWbYYuDsNfSQFhYQCwrMXZC-rM_aOdfs_fV6ilOy_GJlc7i2hQ04mAtygFTzq2YllzNmGdMyQtHlRGY_jdsQ0VQU7Z-VFAwYcLbTCaN_aAl1mPfFSTCXJW8lJuWZAoYF9iZ0A
+      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcImcsHSGFotCIHT6tj5a0Cx_c0l4jO4P4KEMICYvvByziy4AEViICHAZtMWd_uT2W6PWipaitdtVlUbn0IPBWwFuGtvhmdllhvaIsdhtXMpFCOOBnteh5L3iUmeFU0NufQRl8CcMMIWPZGKgMNnppLLUyYzv7fW9JApBx-DLwCB7kbFSePvgb0bc5rraYWm5nsaxNRDKkrCymFn1VD4dC3uDn8LWX9L79hMN0v1angMd4etmA6K5cSbrXvqtRScBAF2dVIHqgqQwIcglsCj64NSXUD0ClYkvG9MxV6R2TuQiA
     widthPx: 3207
     heightPx: 3147
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPpfyKJC72YJ4zlSa6yO4sHO7olH1fkM7Y_5MuO!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
   - name: >-
-      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcL7rg79lIVX0K-7Woa00SUK0oSR_QLLcZycpf-qcPw6JiXmfiwzXYgha0W90IqNChXrEY2rB2aipgUu9vu6Z_q7g86Caet1O0CKaz096bHyKVKv1qQod7ykIKuhiTEwGeMdDloW8qCayLAmv28o_3yCCMwQIPk8sfzU0QYN8Ob0rJK1BpQCCfU-rEcywr1us0HFu9A93Ho1PnNiPaCPSbVzxQsIFcWI69o9Fawh10zlYJCL457QAZNPSsh73aeYTawlOK6aUREmnqDXl6W99M__yKa10VwAsjDSYmJ9NWeG-Q
+      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcIWD9jiIPMg8cbnZFJ8M40cjjxYqFyImv4v03kIgVoMd7AMs5_IC9gxsMUeyiyxNJfbttryL5z934N-X6XpV4r3QAUM7q3ojaJxcbm9GbXquLhCnQojf_4deQGrjwn3Bc-aI0hmF62h01JEf1z8CNa-O21-PnXhtn7Yy8H1yr7-TfhkJ4T9gzePlMBlA5JhcB5iRteV5nHKY8ROIHcDQ3Rrw-sIP6YuKqJ1RiFhNzrnffp2OFkhm4qItgX3Znc1J4GEbqqvGcUIzO5Gn49ZpIR75YyUiclOeF28eIm3Ub5jtg
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -117,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMiG2rNuhbPohectLZfDUnwOF4udJbJy-xLnk7_!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
   - name: >-
-      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcKRWJVGVsmaydCIrPhIP1WzDfrj4Mgh3f6e4pA7CTd27JtjYcZX4dWqcfU74gO1Cfsec6Q8PLs_kywB2JsHmI9__p5GZPIXNMnBAQAy4If_H5U4goRXi06noUodtlZHgkcR-Z3Q7_rnK6bypl1x99OEcJpBv2c0yxw5NrWMFj1W35wN5_3SQ-kRVloSHGy9rnHUqMqTrPr8hletHpf87py6arcygFh5Zo15tKcFjH6ARcpLfo7A5SHRhAErF2JYgdsKRXhZuJfjvHg0WaHHXvfg7Zm6cyVVL9CrS6mRAQpUy0WwFSAWVRQ-hSlaCUUr1vhv2NkjNU-g_BvDTYzcwpUTt23mrgwKKC8DZktXeHMrup2GS8Xj3vjTy0SXrGDLQUjy_aTz0VgJeoEEh6E2riUw3_ra1ErWQbSW9_BAfCi2y0A
+      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcIyAjYijIILa_P22xGk9Fdczn0-13lK4qMeOzvcK0QD1VXL008DOPjO5NRLR0-PQHkzO40gZirL8EeXNRTVBiL66pCPlEX6l7K17wMz59hcPnYf0vKya4TKwDn0FeQQAo1lLZMOfu_moBWxW5N3MNDddaQSVnjMbYsOCXo1_v5EuFvR_nx7OYtfPHc8NZFgBuI_ZpmMcyzqd6CrVacNROyr160o3iHqnf95XZIs5MhtLGUZqyqNhMscw_TPGhEVqAkuHGXE598mbhUqoJ4iyAeZkMJnVJA14YZ-UQRDzBmYIw
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Fremont
+        uri: https://maps.google.com/maps/contrib/114967506195402013882
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU2DxxCqCpfu3ocer4CtfAr4LQmui3R2Df8qFRRm6Kn-XmBGrPR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPaqrHWxG90MtS7oi_wDG2I8FRM_8W07cgFIcrR&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPaqrHWxG90MtS7oi_wDG2I8FRM_8W07cgFIcrR!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
+  - name: >-
+      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcIm2WjLMMCEIZxK-8ujo8eaokgpA3GpZ4MdSlr94JinNIDKfBxuZMriqvaGmCxFLEcCnepQwVVkt0h4lpifoUgmfLb0fobL6Emx_jLhH1FKQWiy1crSFWdYtIM4LWFoWpe2wuLMmFcRpnrnNM6puF-1_Sk9MjJPVU7uGLam-TQYzBylfbjVi7fur2Iko06Xy4GfsiYXEwkrf0vU7dsW0Tfu778tZNoPtD4zey1fxN9FSdTa3gq3yP9PciR3m_HL6_uvJVGyLn_NrBGQA6wNkFmboSlhO3Z7pz4rTiyfN2WtEaJSAqL3JYyVRVpmZyPKJapg3SkW8DKlo6fJx2zoKITAicVtQEYMTqa9QO3bkdArW0aZd43V03X81hU2OJHmqyLnN5rul9ChUjzcIrt4Yqu3f7vMfkmyM36lZv5t0-AsEts
     widthPx: 2268
     heightPx: 4032
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDNyb3dzwE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDNyb3dzwE!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
-  - name: >-
-      places/ChIJ8Xdgu8ynlVQRJ7pciH-9WKw/photos/AeeoHcJ2O7MpGYcNX3YZHDDrm5D34hIPxhQ-fa4WeBZ3mJyieS90TwMMUzaa4ZIvffbg2w7_r3M0csqlheNXuICfIqEvC1k8gM3fIG0aT3dDhss5s_wFGDrjH8GwYpRexfPyyYVRa0kGK2KOP7ATHCY6CDEeb10NzjY_la3hQemX7-3blsmkiw8EfuSB-lr6sJeky3D26RgOOZ9ql9nfDeKgP7A3pWzTVuAWvR0sgX94G67naYvcWKhMAV4ViFaYe28l1UYd48LsgNwPD5LSYh1VKoKbx6WSy-WwJQI_efe4bTi7_g
-    widthPx: 1024
-    heightPx: 576
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - Fremont
-        uri: https://maps.google.com/maps/contrib/114967506195402013882
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU2DxxCqCpfu3ocer4CtfAr4LQmui3R2Df8qFRRm6Kn-XmBGrPR=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNDdsOrPn4uRozTypXEvXxvaYxmxxIsUm9v9jVU&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNDdsOrPn4uRozTypXEvXxvaYxmxxIsUm9v9jVU!2e10!4m2!3m1!1s0x5495a7ccbb6077f1:0xac58bd7f885cba27
 address: 4425 NE Fremont St, Portland, OR 97213, USA
 street: 4425 NE Fremont St
 city: Portland
@@ -210,6 +210,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

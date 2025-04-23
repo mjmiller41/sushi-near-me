@@ -13,7 +13,7 @@ description: "Sushi Man serves delicious sushi in Champaign, Illinois. Try fresh
 place_id: ChIJM60MJa3bDIgRMrPAkYSGCZ0
 photos:
   - name: >-
-      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcI3qYL7hmE5el-XPOb0zuD3QbRQDGjQiSrCQasB7fZUyUD3hac7fHJ2wlA7Uzahi4BnbMD2nOMRtg9JgQl5LIqJCeIJRNNvKK253uQslf1DEwCpaagnFd9DherpRMK5NP9cd_Ol8MejUd1lIglZFY6WCK1NEuE9VnKst_e5Oby8FvuwzCFJIYiSCfgL4gpIhwBtf9wSf-IP59iwLINzJ33NcyUaGw5LX7hh5fX9zngAoUOVIWifWMoZFUerhc8GKOrTnNJ1Jmg4-fFDBPAlJTqoLKjuExFSxWI6-nJdQg8IDMwY20IKpBWGMsABrrFIYuUn-Bhr00it8xYOW2WAxKJ2Bp3_CYm-TOMP2kkpQ5Y9dTw5D_DTZ0h9lclHK1FeaQ9Zrh38ZODi59GH8Yen7u7aFz4aGICgfHJ26YO8mpODPw
+      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcLXphWdO_Y7_F5WC1LulGLiqCvJKlOBNWbdBJkKvxSQjCCsXEXX2cGME7RnDIYw3M4gfcZIP54K_1FqD0ZVp8wBprskdGrZc6ffVTW0GbmDwmsW1W7PaWKUoApqwXJjrQBs3tzaNzZw8PwKFAFkHSYZRBtqEDHtu8VtUYeFuTdxNNzMVFbxZfn-sBNJa3O94Eu8pv-QCC9TP5Nz43XGHGJ6klL1Eas7FKavVH2GJi06kuxSL0oCcXZCqKrlDjeVKfonHzLmEMvJc3nQ0fhbBckflK-GCuMF3phmRyo_wDmeE5adLvChHybkE5w559vHIbuAKGqg5prMCh7TdCEkY4U7BHOqMKTQ3P5Fj7RVebn61eTxsBQ9TXl_Ued2Z0sgd_x3iR2VFKH1K-6WZYPNeBBkzUAWP4n3PTimqkbsofPjSg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRvILNYg!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
   - name: >-
-      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcLp-mH4l-feY5shFXn6ATXuOxXZe-yUo82bXwSTzmuUjIJL1PZ8fzULi5EIRpYH609oMCEkdPNggp8-vcjQDGuF0nRWJJ9A-Ri9zrumaf7da8iB0SlkOdMJZLmrKxWnm29J1wNeUX5d3znzfsk_HgKZOd_bi2YZlsR7HIG7IcDAyGNCRhljnaJF_eXXK0rmB4kiczJl6tRiho1iUb3DMZ0dvtXvQTI6ymFCmOeSE7Ug-7VKmMnB-e0gI4GMOFu5IjxOUa2iFyYuQ8QMu6MPZk3km1yc3yXKn2Ejzd8VA6_Kmw
+      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcKR8rObU7hEEiy7-d2llrKR4oMNupcQ66FL8B6Ip2qw0_jnEp9Uilx4tCsXzhNLMFZmv9ljmRELizpQ0Xkq79Hl8uhHqqMMK1AUi6Sq8qPxrVZJCWP8P7u2gpku8kNN7yi0ktLtBnvrSRBVQmBoRz76GpC5PGJ1mGBGDCjAqDpGXBVzL2nlaetJQGXc5k2y-V1g8b27s1wUhzHWR104ZmO3j8xYCoGcF2c2mNcxMzBG0UuUF2gsZTf10xxme_Tvs3ent3m9yCTaTP77QsYe1deadIUKktlwS5Kh36rJtzbrMQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -39,20 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNPN9K0_bcgEZcsYDphB_xZbLW6ncgSzE0mNLuX!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
   - name: >-
-      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcIkqWsu_JgGIByEyPfPb-O5lnfpY6T2gWCtWxw7ivM8Y1w_tHNr7G9xxSSWsN4SINIV3n3vvgwJqjKmkiM4i_QChIhlvZg1AkJtmt8xoCGyy_Z7zuxjmNqKLNo3IVgQJ4RgAEqdZ8FjxAjUeyNm6VfMq5A5JeHRM6yAdMjfFjWAtn5yfllkW9ibKlnb8p1EhjSvYbGN4yoVK2VBae88LRD8t6MoZ4-7vc-KGeDMIGq77u7IvuZ0zt4aqU5HGztyGDR0Nj-VHvvRU8NYBFFQmh--HrE4cQgSeb2CcKMQgYLRLIiL3wjob8K4wNONAk3fD3aDUWzihU3YCJMQdiZWY9788HcxidCxy6uN6LKFz1D1VOGEwzEYB3lgUlGsgbbIvMeeO-2y7jkrn-1pvzNWvYgjkXmno5DA9b6J9HEojE9bpjFw
-    widthPx: 4000
-    heightPx: 1868
+      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcLPHMPCM8Ep60bMFTDqeYs0aaupQvGNlvYejHj8LRASwC0tZGGZ_Lws7GHMpa4pcLvpJ-P7Mnz4WXZNe3p_bAM5NhiARn3nq27E9LYOtoXKmv2X-TxQQnFmYoVsXkVXyTwV3qw9iTkSR_mAUNunouFh5DjDGF1Yqs5lfZtIhVKYxj512X0XH6KHW5oSzEwSJkAoMoKQOShrCauAC5g7cQ4DomNhtD2A_dGLtB5hQPv7VJZcnyQVNxKrVJB1tI98tkr-fKhdbrB1eb6yq634UFb14WD9B69G-aSLgmR9UhPH4CfVviKhpNSYkUbcc7gnrThn2zDGLMr247FCOCKTFu591Yf4m63V8-NjDTtQ_VDKuZyXzcFbXdmSWcJhLznldKuXqahvRtdFNT9ol87Y3QYAoGRaeUcMVcDVojRxKP5RsaY
+    widthPx: 3264
+    heightPx: 2448
     authorAttributions:
-      - displayName: Grace Chong
-        uri: https://maps.google.com/maps/contrib/110783666482855815194
+      - displayName: Cristina Star Ross - Libecki
+        uri: https://maps.google.com/maps/contrib/108021165591554688887
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWAw5cR2HT8s5R_stKj7Bq17ehxBoNZZDzbsWI8rOIgfKYLFtUgeg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVXPT-ut2shz_ySwEl4hdTxtwMV9x3OiXQcKmx4j4vdgJ3NflOq=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI-_emuwE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCImLCA1QE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI-_emuwE!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCImLCA1QE!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
   - name: >-
-      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcL6zXBzCvQcqRNkgFkcUUqjaBAJDwPbyP9Uw3TjcS8qEFg4TkaIFwf9MNvT1y2v16Jzl8FnPmN0oS2KXkSNR6wFZ32Am2Bf5TVH5hf_W4n9sS4tCFCrp6b65qvlp9EeCx4KdNEpW7EauGFi_Kf1fCXlP5_r6n_zOQ4s-MgUYN43CZv9ZwF4DYvXpMyUNtxec7AnVTrgib6wd5bCQOtyqzxi2aw-Iz8IN3MWTJfheDPw0ZOeGmVcmFYm7FBGQT745kUk7CcsSP5QG4p3OpLLoEhtY-HbSk2OT3NbFVhLSQaONPVN6DmD4JqXOj9WlbZhS7LsiU3PJAmN5EUSW4Ih8fQ2syztvW3U9uyxac-EcYzG6IQZ0reDxX1uT3jDHXJqQ_xjPdDxOEI27sk85tFFKFVgyGuROWcdWw_gWKfiZKheYg
+      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcKC19GEQCs7tulMANSJUzPrz6bDA3HkqBWGRaeP5P9Vn7XWenI6Sof6ODZE3edpki9V3zAkkwOv9qsNtFobeDwAE8ZmqKyhZbYiZkBq9_a5cN1xeFrdLP3bjvT1i-nWvLzzrekU9hK4b-Mgm-F-2nntasmTXEMlXL8rOFUDn1pEYGeRALGFooPqXQLz6U-PjlKpOmLb9skT04dTZsugvvEirHDKrZDBnfBWFEbdS3dt1QQsHjJyzhQX1IjezooWFlXutygzZOdQRT5WJT8YFu-6Nxe46RWsmuvBrWr5vvufcCHx2N5IVY9-W1vxNPfmpwX1QNf8XBLvfRG4qHE5t1HPGOkayXiUw-qQPcg8y4QZcx_ohMvScEsprGv7Nfh61jz2Yoq_87Dr1uDNLZv-g81Mn6O78gGD2215IAB0gtUB4A
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,46 +65,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLxd7uWg!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
   - name: >-
-      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcL7z3lYftuNqy_oyZmdT2TlE8JNvagCPvZwXXtzIlf67bD12ccKQderFZgKaBkufNrotdcAZVooYf4FD8Mrn_Y7SRdFk0S_FOAMTa_PzAD66CO-ZtwcFnpE4vstkYaxduZUqpr444mJMR83CDub6iuzwZs0Spz5ZSufyd49vt0D8nYqCe0gHHkB7r60WTqyWURupX37--gsJmodw1nuXRBNT39GbOjx6BVWLLgAmU_c-A2bb5WkIXqOzBoEjB0sLkVIPMeZ2jdJYr-zxeGNqHg7I7hyZaxjes5xPY7kMi1d1kPU6IKMcxIL4nnQSI_x8MLInfLr9kqdhYwvaCriBuAUpFK-lQ4cGYMR_cd1g4tpnuHjDrvD8l7KpdDauMb27YyYQcpRvoHk5tldo702zelw4VkAPGw3vpcaHfIa_7wc-edt
-    widthPx: 4032
+      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcJGZE3yhmhEeMr20f9A7L-n8cAWes--xgEhqoUunxrCDWBujFxV5-Tzyr6CZK1l_9kwT24dxQfHLl7-Ao_mky3uCgX4soPATDllh8odf3T-5Z7tH0x1XkKdGUwNGFDC-JJgYlVksup7xE_90EVuruJwHjoueBauOjKLnFyLURLKobVLzLoWMbZ9Q7HkM_UamTA2eiyi5iNxqFODsDJ66vD2g9PfYzp2ZSBCQXZjyRyFTZ15gFEBihCi502j0Au1jg6eYmGZph9k7uXiq7V2BG2NBtriJHX5ojjlvLKcy4GqHKTKHeOKNXMzUkiXJAokJDYVlqh3qwwu8RHmQATnjvREvrUr8lO8ijyApt8S-4nzgFDtOq2H5C85lbEHZSyfyfJbChNKeA6wZs7iLuTYfE2IwA3yVU1HVmSWpKnGgD0
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Levi Wooten
+        uri: https://maps.google.com/maps/contrib/117105225855180723566
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKAYjnbIB9YWE1bYLt-5XgmIGkUnGGrNs_Cw1ArSONH1uT2Ag=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCos-X3Ow&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCos-X3Ow!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
+  - name: >-
+      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcJHOcxFVTUBUaPXXs1mYN-p9UDnXAEAJLB0u_nEdqMKy_nylQFPfOHJ4iEzARmh1fD00iHFYxiFg8U9j-9N03L6-P4pqNjKc0FHOhsgTYxGEQjLm_Wkgn-dsSnBnq9byTU5ZzQi_3_r2UJCboi5u5w-eKjTG5gw7OgU71wnh1CFI8FQIrryQnzjuHjGAv2asT50rP-mQM99oCF0pT4zzu3P5ocFGpF97K43Moqhn2-yMTz6XuNIJp_04-5mrhA4I5mnKT5ngFnsqxCeY6VpF3cQEh4JaDskdpsTXFIUFfvxOij9RoWY-FZ6OlrZuta5_Ck91mCGsRRmfSIamnk8MwD_SNnKCvqYAf0TzCWFxd485bObaGkwUJABTBSTrB5Z7jOYnR-Rptba6BK30AXRr9QnoHHWnQZJJlq6vvPZdw0
+    widthPx: 3402
     heightPx: 3024
     authorAttributions:
-      - displayName: Carolyn Fulton
-        uri: https://maps.google.com/maps/contrib/114307088879647594949
+      - displayName: Ash Monay
+        uri: https://maps.google.com/maps/contrib/106147886198714126715
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUXz8e6NpLlBpdqKHuJyPfMcgW7-EzRCPTdqUzxu-uDetEbfP0A=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWpJ4kmJCLBxZttE6DcM8kAs9bmqoNP7Dv9UvVKff7Rc39SHuLO=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwo8qRgAE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw5KyCZw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwo8qRgAE!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw5KyCZw!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
   - name: >-
-      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcK8Rrfg6D2xiKwH6g7bDONAn_aSCMt-WCsQKxDB_pumWwgk9XJgXseW-xtg2tR6gHoWReyMuB65wYBMxG0uM4nIPsJDClJb6iqiFrwiUmXZOKuDpZH1YVBMoh3WLR_agG-PYR68E4Wrk3S3r3CUC33jZHCR1MToH9-_Iyw1AINOy-hEN7km2YsW7oxzLgwd9w_fMgbnZsdtzskPXo0u1pJjxZvV7uF_T1dMIuyisxXZWE5ohzbNNZz1wGZq1bUXrAY5qZ5BbVlD7EgbDf7UQrzHk_emRFDDdDY-2ikOCDxaivuNNT0tf1wsfv448iZfRlbiP9EjerzgyX1H0ToFHyIYHiSFtYJrXhljd36PxkPSvkXYN0KzV_7sJ7HrLEEr7K4RN31WxBnxqXkQyElvOTbUOkRDqI2XhGhGXuz5xwQZ0g
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Sarah Ingold
-        uri: https://maps.google.com/maps/contrib/108988917425871327005
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVAaC_A2-XKBLZ0mvsrqWxZ_srpTfFMOj8LRduQPLh-fwLqxuAzVA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ3IerbA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ3IerbA!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
-  - name: >-
-      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcLUykqzGUASi9gapIvJCMoxqCBnIOSo9edHP7WB0D5x-_IkWZy2u3zn3Ef5CFVU-_lgU8EYwisL_f8fPKbQtE-Wwg9ekOgckqRrvaH7yhA2ww8eU_i-_kdewYiPBbjA_bOjUhejyCYA4gLIaM_nZ6x3XLXLw0INbQMle-mEJtD5CuZEbyB9sSI6-QB1WEd1YvtZxLTIrDQyQSOJAzPrZga74vOjIJSU6hY5ls2JE8xSr0CQvZgAiehaDWCFtP1-jwltzJNqodi9Rrz_zsJ-uoCJfrlvzH0MBa-YyUi2uaKwcGsNplRpElfShri92xQge7TDVrC2s4g7JaWvco6tHblJdffs7pZae7IJZI9W0NpgkBCpK-suWlwIV4H1WBRJQCXpqzZXGgQWGqq_-nmjrUUxPiTbKShcFDGQLUkC-XiOQw
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Pat Wong
-        uri: https://maps.google.com/maps/contrib/102386722304362578399
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLRyogqGAhrysYNhYtcru5DmWO8asKt2s0C2wTcHj6nMdnlaQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDby9mSOg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDby9mSOg!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
-  - name: >-
-      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcLeE_bulMt2bp5g40ai5qZV0RW5ozJ0jPQELxla-eVQObwe8Rx_uivM4hic626JzgCfv2UH6vpqp6BU50fdGMgFQeWjMC1VqTk959DXSI3R2oJbRe_xzUPMV2dgAKzCDKY4Iz8RaHLSHRvmyFqnZH0g-c48LRQfbgZhiUxhNoc1qfh0yPseYcMxc8FGxSnYgwbkhKpXsTnSU4UPLByx0KOXR3ZO0O40uFs8qzovGWcEt4N89sYvhO-5ZrQcI9Gd6rJ2zrgf6C63XX3iMqG6ijjhXujOnszE8skVmx66UBFaIEqYH3oYMjLu1dgDy4DUdBNMAJSzYjUJpjDEYzuwefnQFv1RZ-fpHLF7p0A8oAxZc4U_5LDM02cJXnLduMWv2MvDhrBfVCWKJoq6BLbT2sMzkwA_E7Gj0Urdt4GBHhgdDLco
+      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcIjkjCnz9K6w_nSO6qkrEkMIPvDl31i-mTiF90EXTgBbLhTrxRTeyQ1twea4Hj6FRW5TD3OXmL-EilvaDFLdrXR-cUYuO7uJtNrht5f3lVPkL6Y3CH9vhmqCqVpFDTtHBZMt3mF9lNa7cyKqEXU7kt4KjpAZQg2p-c-DODX0EhDVawYtJ4WVKmSSvKlpf0UJL6xDoGUuUqSRMgTJyW4aCKmlR11U_m4x-3z8j91sw3ORBaqxt7tEdR_Bag660QJJh2-YdWPdYufAMO0AebU6KbaW7L2TrwXwqS4E29xAiWyOJguLM5mgJcgbij_kd3nxeI5biEP_7BVMZVipsKAPBp-phO-I2k-5yUgyqLJGQm4IgQaMhnLCaPlOGKP0jJBn22hn1iy0OIyKMpJFmYyMJEiyTFsAbvL6n1zioFSYDtaKJAP
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -117,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9vdKzjwE!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
   - name: >-
-      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcJu2Mk25E9mkirJF-5L8cGx_U9o4-itK80oLIAFYfKwzSYNedX4q07X7E8dEciBWY4d5hb5LW60NdV3LuPs4YtSxJU9gL6hOx78Yy1TNdhIcp8BMfocEUsNhzOgm_XMPfs4_dpG8T6srHrY9Tnc_HkTYRgBZ-PyPyTpoF4ih_6x0r4cC2GqxECby51nzwhSE-Q5f9tV1tivN1WphaeUqydV_OJHbTB3l-j0xqNTcoBTNhXxcqzccBeSff0HDJSOZQO2-x0SNBKf-vL2wiZvaCx4S6va46uYdinK9gYh-97Gbo9bNv8w93LqJKoYrPUBdEe4odNERWsb8vMjSrypYHOfzgjzAQx7CExtg-CnE1AtmC3WRsfjk_t6DTHmqnJ2br57fITNllzvgxiGGudj_WtusMjRaKUUrWjhVvpZMfy2PXwI
+      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcKINGNCX8ttxBbzCZXkp9eAo6gQg4hiui2Gfhu4Bv4HnONw9J_pjRzJPPZBeGfpnXkKHHFCQFxR4WFfQiP2qb5FZADDJ3FazFcdTfPbajjxO2SqGVVxrP6B_nIQmNM01oiB0XuO961VkjsSkj6C7C0LATbFYNXpkTYapz8uubjoMlqCOBR0X1i60k3cH7-LSas2xLNw7zZUNtiUATfQHar1PuxyVNDx3xUvTyrCdWx1yHvlI-fqzwvndsyCuuTx_xXlA2RSabqOlMyJf7ShoxJMRLxsna0ZuECe7a12t3Zid3C5efUbeqJS0X__mfMQgtWne0Un2snkKm_wkJAxf62YPZZnJqz80Q0DWyW8nhRS8edA1HpSRkeiETYIaB7Kkh6Kfh7Gbm4_dJfCeDz3tGeod4iN3SpYs7fiMB5grxd5U1Sc
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDtmuDXyAE!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
   - name: >-
-      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcJiEo6B0q_wTEZabG4HFWon8gIs0dFqyQumb2Q3IV_AzaOrGHuICJs2VovJfCP3vevBHdMfY1iIov4XNgG1KtSD84lR422pkTEor6IfmLeGOBfa_TgYL-Ou0EdiVJxuIvKt68HPiQNQcdOl55SPJHeCZKgMYxDpTWxb2e2VTvLvxYL7vQ0rpNu6tUzHJAWVAPABKPLsnQSm16C1b9-X6dVWMXZKcek539Xox9sQh-Ws9p6Q3ldO3O1MYdprh9YSDINgoVAs0o57Okrm4kPmHlmC1QpZe95I6umho-0AQrv4bWyzVcJz3snq4YAZI6lNy8hl-3sa6K7im9I1WDTQuDhaWFPCdCh7APsx5e8jp4vle6w8ti7KeECxhSu_zgohBPiSTjZlpQeEvA-V7vJwtSqved7EOT0lB4CNXEuZ4jvbtA
+      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcJWFbQueon2QxWQTzyVY_TI4En5UlE7bVKXdoccdrobCGwwIVQL9aJYh31Z4svjFDoAZaoGXM9u-tsChH5Q0ZAGAmm6tA2CN_yLE2fziecJskt8sXrTSKHur3J-gHVvKhdT5HVqYdQW6VeRVOt1H_EyTK62m9-jo5-Ay_TJ78Sxx6c-I7CnMPgY7hjBYQLvShKxnQxQCSyy7VUocgf7xLZHjLsuUM1gTQb9_ON1ufssSMBy0YZmf3avaAaOD_5eyXnpfx2ZuyvsoBOqxO-nQztu_WEVmxdliiUMaO-Skw5JormW6feOPGIniGZrZZCW-KoxajGwhe-sk8NBdd1vI05ukRGm9jzvtMY8d6wLLDfGWkKz-AK-TOcec9Xw0ggslxbLUlGA1GWtBnjeWzQ8wDdU95LF8M2DsHED2rVtr35_GA
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIn6XFSA&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIn6XFSA!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
+  - name: >-
+      places/ChIJM60MJa3bDIgRMrPAkYSGCZ0/photos/AeeoHcJ6Y4yNDaQo3scHlGa2yizfP5D7htJAltrYuG-QFLWxIs_5SnDqJuOYte-zl4MXoAStvpz0Mbib89pFbmDe_RfoyldWeBtQMeqWo8dykk1TmAaGb8X4fGB5pSzM7TvJR8lCJL-OXDFmbVcpnfp-O3Lqr1LB6slHBowQkFE895yLNYxZ7eVmQvzNz5gkjM2AEJkBvk3uMIZnde8pc31ZoMB-lb710WVubm4i_znHj4Rhf9c6Lm6DEL0lcPCzsMWpTBBJBuaMOu8wCHKKkEHvO7UXuS_NZWOoEeusAyuozeSxeSL9WHqPUlIXiz5UaqiLUkpCJrkK4TFscDZXRbJXQvDyCCT2JAlL7_ogi-BwMKdMlUKsr3JYgKH1OGM8g-vfDtOl5OpWP1BLZVt0iiSzi9NvXqbldAGiaIty1nlecGRXzw
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Pat Wong
+        uri: https://maps.google.com/maps/contrib/102386722304362578399
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLRyogqGAhrysYNhYtcru5DmWO8asKt2s0C2wTcHj6nMdnlaQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDby9mSOg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDby9mSOg!2e10!4m2!3m1!1s0x880cdbad250cad33:0x9d09868491c0b332
 address: 2028 N Prospect Ave, Champaign, IL 61822, USA
 street: 2028 N Prospect Ave
 city: Champaign
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

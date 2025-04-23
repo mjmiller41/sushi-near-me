@@ -13,7 +13,7 @@ description: "Arigato Sushi serves delicious sushi in West Jordan, Utah. Try fre
 place_id: ChIJKbb5roqJUocRbW5Pxqf2AJw
 photos:
   - name: >-
-      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcKWoluyFA4pIKOwyfRYVyvksoYCRMigtbk3qGoNtgSm9PUI70sPHmkjE-R3ocNT9cdpgHNXaYo3AAyV7cgxre2_pc0RROz-0qUTwCj1pfLbjmKqXCDUJs4BMA19A4Fu5HNrDIhplQQr0VonM694dSfsHDNoRXakgEpbmCpv4bB4S3rh8-5OHRzQC_y5Acda8Y_5uX3pm7jhwkW4w7Oh7i9yi5ApHxqFjEyukBKltAgtlkY7kxFPBAbrQ2RVADrB6ZVP5JOhZ1VnyVAKoCsMAZAbO2LsJagxReCO2DZTlwGNoQ
+      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcJCsH_MHcE90FPimEPNg4txWs56TfWbpHKa8h3bZnXp4TMgzdvdJ3zJgrCqAyKuxZza-WgCKCw1WzRMousURav4NBPrs8r37D0WroS4TPqqwdssuO-GnYoCjCqRP4OtEgBC3DKEbLW1aJgPr2ZIRcALvTTJWyZs7ABS2xJ8A0xuv8IJ5E7NukSdtzztat8h3DNHW33ib42NBZDWpWEcPLLsBLv2DGuJk-c6J2azqKEVQWUMz7Te3O7QCF_u1PdDAbMby3UdVqsvwjDw9Q1vL11fElTzELHYIkWjKCmi-9fQbA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMKxmbIkeEJGhanOk9GIKg3WdDc8US8QGMj7yOW!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
   - name: >-
-      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcKebeaXHn7PQ2D1VcJW674rH_wHtdxgi2H6gPkDYnIROyjSUe7UDd8JZ4m-Cl5lN3JvSnr90Y-NQrcQjklWLEC8lZ1G_VBA16Ni-ETr3gXD3zjw111VCRKMUOw1O5iwtAjTjcYDQgovu8yGmbR1wohYMTgtIpDmhKzupTRLdd-hX5XpHTsOmKeOK1229RfPzkX9eJJKAW4ZPBq542WXj64-BabmLFFLeurX-TADecG_UTc8cwGxdivTVOJ2EFYYOd5BHpoNmLlBihlLLCf7Gfen1wgWZnPNx9-gwabtVicbZw
+      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcI3ND07A6W9mhmGrrhZ8yjQIlHdciJ03AN1peoTbevptpnHkTAxJxmrFPRoaItVw82YgV5iFa88McOzzlKdKBrSJKVZHL6Vlflcq85B63BSnx-1eW-FmS7xPSvVJxMlHVwwjELH1Dv6Wpt4SqXRXO6GvWxGJHYBrvGxKwix1UGNQ_AS1crmkzsZv4bnZIXWyMlTb89Da13wZbNxJshuwDLazIvu-23Vqo9mDlIu1fFRjyLGlZhpOCLD6bxNEnGkRV9BoSgcBC5tV2W0L4Z8kGUzxcw7OVPuLt2Nlto-lv046A
     widthPx: 1536
     heightPx: 2304
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN6ieLzTMBIS1yu_dNEJj7vEWZlxnNgLr3dVI0E!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
   - name: >-
-      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcJlG8u4Bzx6zs-2WHdNl-CNJCJrc99i21wEw-WxwE_rj-wJkFVBuXKQTWE-P8cxnLIpb_hcSpxFhwNuXhoiFKJfzNomXyYIMg_HxUwBYVhNFAPqKXRKQ4YkQl8bTJdAc4lxIegV_LYN09iF1LSEs1vaUIAJNtXmBSk528dmcJO0pdnfHSq7bGVTwlgLxGNT41XrYbUbgTz0Nml0ii472sAljadm7vHZMNclEAx_dsCHyX5fsmkVGwhNeUw67C6vQfjSUup5EmlPPyaskqnuoKoSkqk6xVYLhhf9V2Van7vzePKX5TcsIRgcFTk7gqVrGKIIC8sK6IMEsjc90WYh5DWnG1Q-nbn_2QtBcdZlGNghtIghDsviOWVeMG3lEHvdOuHGpo62wtnlIG5gGtGRuZIp0ftxNER-TAax22V-tk3DCx0-o3sfgLT76XrAvh1a
+      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcI27jMIgE4Ck7m2fZLCNUgOb1CbRY0y9z8pn6VZk17iTiPPwhJkMJNL-6a4z-W3T_YZAo4yA4s3RPqkZDjiDVBhoqZ5KzFfaOpX8ojINYnEMRW_PWXv2i_zdKSrrMIaFYWlrZ0K3xl9eDHQUjmnih4GRPMAtxhhM3zt__WCkHwTwBGT7iyemDlnhjyYfJGdN-aepu0D_xMbVT1ORNv-WVDKDW_9MpDsM2XA_4OJWwPOJzw4gYB-pNMSzCDsHgwoIatJQ-e1AAyYobdXhlklV9lMKR756iSJEclJiJKAvmqoXBRH60hEPtJjjs7QBEF602XtzFTG6gzYVlSZpaMUP7MxwWnQIqrg5VSi11aef11ET4Y_y1TkC_yzVDf9jf7_q5Vike-0mNu_JD7oyvZrPjJpPRwGQJK1hzfSlCNwZzhze14h4QqPeW7jmzSi5M7d
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -52,20 +52,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz9AcQXGf3FW8ABOio!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
   - name: >-
-      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcJjbqeaUWsfdbL-1P-3ZUZNhoyMsTu3uImF8eQxk1VFUXOyu68owNw-N2U2T67O8FNqEF78dIf59Zga--SoCcxTOBzACXfmzmRW0KxLVAjQfsNhKX5M2hxarWmuUYnmk30Bk73d2Ah77izIr8bhp8kY0SqiSH1SWyo-iFzmBIFQ0t8B-1fZf93qL1i1sb8LUI5o_hWOjb8ZGLPfa0oQpCUggbkev5OoX2_4S0rb6aZCRsucIjSZ0WEoOe6aHVeoQJakUSVMAwDOdyZF5Lzy7uJmE_Ju1xxl2MKvKvvV6dN4o77fn1BINzRA5E3D_T_fhHrG-qlY_fDIGDuZHrsPAYW97n8j7xK-qm8FG5Pqnrcc7JzdYfpkcXaplFxKi6kxXA79dPb0oWi_ZWJzXVtnrTqKaf5Ar5K8RwAdAu2ez7Xsgn2w
-    widthPx: 2100
-    heightPx: 1575
+      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcIYXu5uKWWrbKtC7ZRaqfac_ELlQ33Jq9Ugu2UuTqCjT7OO0TWH6J0dQ5NXvoLhChDZAUrWquSWaqHAHtUx5vtYqjVJNc0_gWiYJ3UKQjojB_m1-OwjA49HeF9piqjjKomxNl_QwD3fvONkJskV7GJsmsktak42Zck5XQW1DFj-eQAZZu3GsM6lF1JCbtCAkDBUVs-ZpbQhvCBZo-jy-YF4koajqC4ULef-__uyhmzrAVE4zdMUEWqoKJPXSnpgukXPt-Wv-t1gMMrqbFgRo2YLBVgoLqfM_S8BNR9_KPNW_sgtWZf9Kct6reSO798HGiXHUgnMI2_SyhTyfxQTpCPs7ONT8xeTVDlV0QCtErZKEaKU1R_kh_tRfgI4914x_lpHCgZUXorpJqeKj2geKUYNK0hzXKPH6a1yfADCJsuHPGAV
+    widthPx: 4080
+    heightPx: 3072
     authorAttributions:
-      - displayName: Pepper Pehrson
-        uri: https://maps.google.com/maps/contrib/106919468812033116721
+      - displayName: Heather Schettler
+        uri: https://maps.google.com/maps/contrib/108654385799552052872
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUIjevTQLoauPNw9fUx0y5L40bLld2RocmFAIO_-YzdSAu5S8pFMw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXZlAcbNKcgL6R4z6othkEUMbe4wbQEh-y_pc7peDFl4j_RmvS20Q=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzlsfaggE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjsND9swE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzlsfaggE!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjsND9swE!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
   - name: >-
-      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcKzjnnc76kG-d0DQZVK3wG_AT78P7IpUbNwSZ1YdDUhCfomytc9LjFBVL9IjdDzPYQuzAj2oGaXqTRl8cNJmc-60_dK2ecjR-U3VOGvlHKhttNCIUkUq-_uQdnOdqTpND_QpDCIDcv_oRtmu-oOd3B_bTWwBDzICHtuilQjBx-mlwCtsCfEZayX8x57ZdbO_D2dW5bHa4H6sujSIQ0UHEvDu1rEOgbhwHXI04Qaq4VrKI9M-co2aQkvFnhh4PRQE-7Ul9Rl7ZtJvNoYNmoiO_HHuSBx535Qxaltk5MRxA97T7Y0gxt1RmjGivTzCpwuyzQMK8uW4Wq74bFcnREev5cKCWykiYPNm0u_Yl8BqHDlNGiXA3oscLe3Df_c76KRRtCLBZkJRy7TFj5ixRjWu-iqEbHOvS2PogtZi2gQ-MPw4w
+      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcIVU4jqQ0HoTc4oDDrorFC5FpJMk3e7eo7lGQJLd9pBXc5fwGyXppLUWSRiX3tEf_oL52wTfQUDmVNaBLwx52R7U7rGtdMmv97QekNZalfevjDyrxUIfNcaWT1ZzLRlE0qCX3S6WIlZj0CjNYkOKtKmAsWoIyPOS_IAvnQvZQUuUhl1itavSw2zouoD59S6-mPQBQHE4aXF8qleKtN4V-nx9H3j6tfx6OpjcBUJcA_BeTFeNKz5xpxIZ0ZTU2dsvIcw5LQiztgtPbm-Nj637B6-ZsnrzMoxkpef7Ul9cy6_yio6cRZj5P9xNyTbKwxy1mTa-9e9WFir9HJZyVucSw4kR4yuaWxXe583pwLwZyXPvvnREpLdTHK2s6GymnMCgkjpx3bw3f2D9X5NzJwZGDDJe0ta7vAMGMGam0gtzBqPnA
     widthPx: 2252
     heightPx: 4000
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIgInWCQ!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
   - name: >-
-      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcI3V5JNP8A-JdUizsWRLpp2SPgYOjxKSAblJq99i458QOWlDRDRZpowZP5_VG-bixq8WNpsBdNb7p3NCONykiKQ37-tmWUpKpR1vaVXYuCssvc7rYnFmmyrL7CX--N8bLgll5kMFFKH1WrLjYWcOQwIabUYS3SiuVhOV9_LmZkomdhO1ZzuEJ3WM-dH1o0D_tN9s47w8yCba2Y_NYNfdo5-ENDbTz0A12S2b-Q6oMVFyPiZ1m2q91CnEV1kalfXoNSAXZ-nCCLs67zXcjEdtB661Czucp9qNt3x4LD1gfnlgXUefMBsknZpet8OiTD-QPf39p5DUVVUZxEBRqAYw10CUqaM0fAKF9u9xgTJ8US59zIAyJsKtzXc5INuT8PBbnI516sc7EV0cxCUyOvJi4KIDNiL9jlu7Ecqxe7MhRExBA
+      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcLd7GoqD9gHuBc_7k45QMYmRi5Kl6iiO9c0uhR1UO7DTaFbZyWcnbb1puQ0pke6DH3GvRv4xwE2r_8UgevHRqHMaOfw6uF9fxEZSIV66Yr32MBoElGNYCUQTWv5KsNnPMfeBDIPPfghfupzeRpt9BdinsX6rc_PjAAZKGzGvEdU1E6Tty-sHGI9CMVkyTK93GKvQnvTLStn0Tlbks5-8nevQMFhGSKf4VKd3TZ00Rfv4QUKTjv6L4-fVt8V611VpXG-HNBTUdJsheDcp6CKIwAcwcyMoRFZGlPH_px6kCLMvGZEaNlqCLJASP6DodSp-UpsNjTUgyWln5EBmQJm65-cIpurIiJzf1KtwzA5xfTzWfwkkdp4WEgkz4MqAUfvlJ7dkcF33WEEqjnqi99br7rWECdN0Z_vAf7pYZdER0tt4g
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -91,20 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7yYvbVg!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
   - name: >-
-      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcLQdf-Tj43lf3i-7h4I00f9PGfkHcB6iuKbNGsG_lbIRkHNSRwV_3dXqY0P3UqyHp3NCI3pqFilA4X2lW8VSJm7laNuO7-uUcdXoo1ihaKTt0q5QPBoxf_LsG7WiCqXu1rxgr7T7uorr4XVs5u1tUqPiW-EK_icDF0F05464L5PsQbRhgXJC6TGuACRzz2DDPD_F9EQU0U2EErQnFVMMtdLAWTNOV0codzJH0I84NBHKv32GAdUiPaNtVyWqF_DcSf-GowGKpyyUPEpRbyjDhkY2erB-0m7UDGPXNgYyMp8FQ
-    widthPx: 2160
-    heightPx: 3840
-    authorAttributions:
-      - displayName: Arigato Sushi
-        uri: https://maps.google.com/maps/contrib/102629099273768834213
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXBx_iO_a6ylNNxfTGfT5g393vrpgMWqmEwJMfgrugbkvO-CcQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNRKOF3M7qa8ckcljcV-Qnm0Kio4YUn88m7yx-U&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNRKOF3M7qa8ckcljcV-Qnm0Kio4YUn88m7yx-U!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
-  - name: >-
-      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcLnx9AyWiaL2RPJ9MwviOAa9nRY-bKs-hcFu8cyDXUppdtLKKJuryXqMAF6MwYZTuz3k1r9EQQQtEctJLBGBZhcOTacuISpd4KjkqceJWuSb5NcdDxHAZabS-wmsU1mJN_S7BobSGUM2qR43aeGY2PyLGjZs1ZAbKXiuUgS1XHDAh2emje_KMNf3YrCy3skb3XxJddXWFCkPyX-h2JTaIAebqeNzpboDHWJ-Hvuiyb1-1QNeO5X72e2WZ490P5sshJze8TgL2c0u8C72LrtjdGRhRYI5_OriPGRjIVnWDX8Yw
+      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcK1IL62wc1tOUa5Ia1AiXwsDjKT-xhOFq3O7rKxn-b_-9vuXsVneXa7h6vauF1KoSwn9XJo6pzo34OSsIUAXGehzHwQwD3hJs0sWITKtqOvGpsFt3G7i2liuYPQouVsRI8N8ae3MwNAXc04PP-7-bpHVsSzn-Z29D82TDJoaH2ydyg79SjM_0pLmCVoYZ2pAKAN56HqPy472SwUQRIFU0w9C7ZXl3qkR8BJrrwPc4BUgp09sTVDchPv9HN2WNJcwdfm7hV3uLSrVXfzm5t_pnpEMIJtopMU8fNKU0GXow5d1A
     widthPx: 1170
     heightPx: 1933
     authorAttributions:
@@ -117,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN84U774PhZSpf2ggK3VsJtxyX6jPIacm97Htm0!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
   - name: >-
-      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcI5Eh6yL0kx2V7bT6vaIZ82r7JoBSae18_PCg47MD6eg6YKLkhfjhDCOjcyHSDshNT_6YN4BYxTCpRggZlFgyW709IM5zCdKV4oZoy21c6Dtbem9Fz--x3H0ra9evD9OJvd1EWYJIeYdsH8Um5XZr-UPoSFglv9uLzT-cBhmkiqgD2LtihCwcxqBihL_Z_F495Wr5TZY78Gkp0ICv9Ie2e4fHciCyICBLNbh8d-lh82-WDzuvCyn2jO_qosvRrFFJLCx78cueed4olI3nP5bJW0D3M8ZBd_zZ1Ig6GiWTOibssGEZc5FWUs_z92crACxPMAnxvj3H0P9WCrJfw76b7nnhDEUmgYpyvhsA6rwtLHS1loBQj35CnkgcSkkIivrXGicWAmCZ6cUhyn8g12u52hIq-FLkixxwLvtIc
+      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcJjguo-pXzdT4OqxBw56jEJE8IA-t8z4BIRuRGl3v2oDKrSQjnL3h10m9BDty8Xyf7tNu4R75K3uUR5_4cbyjE4Vr3oAj1UfsREFcZDN05P_NozgJtVNrXcUCdfZ5OZycf4llvSWVYIB_bEpE_bvvmmQ0RcO8O4MOt-Up-XswMU5KKN96-w3a6r_R-lFCwCL83a9fIU8mVnp4pxjYnWaxAzbP7ggZtgbLcq1AAisS6fJrtG3pcz1Zrk8LgxWBRRLpJyJCznptOPg26zinwvcHiFjHbFumiPV8xsor6xNgDzUdNxfL40gpCSMJsqlRNwEzPAcyh49jU-qci3cet2d1i59mBQS3Kk0vc6TRE9RXWKRcfGGNY0q6APja-gyg9KJlT2LfFUCyWKjEQTyYfIPe14tRU7CGhmLhKzi55-Nb8gM3I3
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Fabiana Sanchez
+        uri: https://maps.google.com/maps/contrib/116102469962034797164
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUSPNMVlTQbRLVkIzrjbcIeSGv0LhxrJEXvz1g2T9DYn-Pv043CgA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_4ZbvywE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_4ZbvywE!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
+  - name: >-
+      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcIxybwQJEvDkx8T0hEnrjx0HjqoK69E2s1kkRVgsGvR1q2l_2K8WRN08pVo4Jw9MapbRQLxOc_ujwHcQVbH-8ggBsglBaZuaadzpW5HywdoGnHS8zgbxWQvc6u0xBXpdWi0bNLMPpCA4OZTdi-Hba9PKqJhQtq2hciGwN-OXWx6Sq09unKVy4UOiOD9SJynylmM7ybfPRP1bzNKdZ2bxw9v0SRiA7Fo_Ct6edJ1p24BufOvPBAMLtOUWfZNOAXzgSuwvxlgdkH-Y6koegmuaCCuDN_4aSxc6y4X81CrijDAX6a1vtcVtw5E2YULHCNWZlgnM_K0igWadmlEFNZ_k-3LCWmjeaTWa06PnQ9H5I2h7J9mnghkILIppX8SghO-kIc-972od4bTRHssaW90aGlXROvdXhPm--N0sjQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,18 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7_6Fq!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
   - name: >-
-      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcKA3Rxq1skqpCRX09Tq-xPBnDpuCra3XwL4Kn5D773xms6WVlACALa_IjD50OnWHyYFgOXJ-Nzn5plzMEWv90Um7iPE1z2bh6OBm3XlcR7TLJjiKmlYABEMwwNdR4zo1Z_Wtx_DDvD2cd184-KhvHeELSE5Z8m4xyeuiWaDE83kj7X97MEnY5Vq453etnTY7zG2MfOnSEQTRMdl709FXGwZdscXdlNGOXNlvC4UJl-dyPB5WgqVBR_U-SF_xDY1aI6Zrj0Ud2Uoo9VzbKdcBw_9JabYIFSPlpk18HG640TExA
-    widthPx: 1536
-    heightPx: 2304
+      places/ChIJKbb5roqJUocRbW5Pxqf2AJw/photos/AeeoHcKLKUHmMEceZQ8YV4oxsbdvYpJR9kC7-0VlAGCCC6cu1L9RbAmisUga15hiaiuDWkTO04iIy71u0yMc8S2K8oWreS0QsRe_Ho_9gFdnm3Xc6sUIrar3avBSD_Niu_JU2bmeRepdQhkjtkeRg6CCWFdILfNjc9AjMofYM8k2PGIk-h4w6GO_BW5zkFMDA4y-NO20rmILpE80Was472qGCl_Qba38iAMAeJod3cRIFlUbvBAkCkHOghZqOkkdoco3fVtGgp3IoNZ2NSWJfo5LcUtcJ_qcwPWYRB0CTZD4c0XXSchNJKOAd0iZQdqteUcYesSugmMUjSiWLLTw-QaT08TjYNinjPzrCi2YGjlgieM0-ZTzxY9GiG2jcMy5sQK4SozS3-dtcFFbLmp4pOjiWGHuHssPjoD1WMKROZdmx_8WaaY
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
-      - displayName: Arigato Sushi
-        uri: https://maps.google.com/maps/contrib/102629099273768834213
+      - displayName: ANGELICA MS
+        uri: https://maps.google.com/maps/contrib/114277252357245297768
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXBx_iO_a6ylNNxfTGfT5g393vrpgMWqmEwJMfgrugbkvO-CcQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJvqlagEhN7FVHjdihmO6ZAR_-PEqtipvcVd-Ka9vau-fWgMg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMtuCOdtoyR70Le_wLn5VVHI4vYK4Z_pod2V8_j&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfio_l1AE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMtuCOdtoyR70Le_wLn5VVHI4vYK4Z_pod2V8_j!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfio_l1AE!2e10!4m2!3m1!1s0x8752898aaef9b629:0x9c00f6a7c64f6e6d
 address: 1769 W 7000 S, West Jordan, UT 84084, USA
 street: 1769 W 7000 S
 city: West Jordan
@@ -210,6 +210,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

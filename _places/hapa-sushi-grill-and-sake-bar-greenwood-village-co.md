@@ -13,7 +13,7 @@ description: "Hapa Sushi Grill and Sake Bar serves delicious sushi in Greenwood 
 place_id: ChIJ5yHUc_qGbIcR8tPhhiXeNl4
 photos:
   - name: >-
-      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcJzXJJrjZv5phcUaa8hvtS-dbdnc5gon-GiuTedLOWz0OrBZ4gLlPor4Us1VaoqzpB2eep3DwHEJtCXw-LS_KLSk3wdZ9_TCoytBKwaDfDHXfIf7WlJxD3vCTQrTHOpB4-6Pp_GKwlNglPuizN0ffJkZsxUN6DaLj8A_6DtmJQs4uYgoAquBVM3maWV3eM6-8IthKhGztjSxZGwLrFa-0913TL7btqbLg6Tok_wCfHgEDW92wMnl7JfGPzoKwf3gEm8HU72zpFzqr1X4gcfL_N8ZO6AieXm-FxPhwKvCdapwv0OTDWWKBMZgOV79tSrT2z4f1EHHKpB59478x9lJw4v-XCvFf-qLpY3n7Uny_02E1oCcpCRvpAoQFb0CDvDgz4gVXrYnYPE_Yblfrk3P58nisD_yl2VaXoTnJNjg6GZX8zv
+      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcIJe2JKfC325qfG78Ol4flIV4I4lTy7VwDIfgDs4tuBUibKpATeplka7U8nLLYDiWzSAr9zcGq2I9_ic6e_O3vxk1UmiTRxVpOP034cbjifrcsk9URenEoJrjiLZmQ4UwqFQymnS_YEdKWZQsvgmgjkAvCYW9iV9Rc-LJILf6Mnpfh71xDszgNpa18UhdnLX2lueAaeHgrp98Q58G2iKVgiLy-AywIJraNQFmQdwMP0WvvjZ4T3DKzChQmr1AsuUD3zJZB-Y7pefeMskXKa5_Q664F0WON9M65_aW3QCyWpPmZowWOoxBNZC-hgFBBpIpYZID7TcOleKEDJBjS94-Hd3lDkvX1SC9xDErKe_yQgkWH3qEWvktBU1sCZZMQeVmb4I3Q8rzBY56HNGCyve9BdOjt7wG5XGrBOuSGY76xjTMJu
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDer-De8AE!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
   - name: >-
-      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcLpdnP_M_coYpeIt9KWXRlykK7UxyGeiUx6q2BkopP4kzXsOVbzEefpIpQaG4ZnzufMz5p4bOKA72Q7yhPnlzPa4CBt9m08kkSSASaqVRrZ_ur7GYT4zOZFzuhZ5IZqm-avvKdeuHQZeHRSfeMUYeMgSAKlYiqj1O98QOeGvFXzS3NH76chJz5rXJjXOOMSD0PyzHkRCTN1C_wUgSm_3rABHl_s8xpoKSQS4WIM2bSuE0Lb6cOygKaUGQu3pyZ6Wg6scWzGEvJz8-auKlkX9qdTVvYZHZPR79PIA1pxI31P6Q
+      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcL2zWRT16fKTqx55sD_80S3z2Y9zhT93EPxiUj6xpOS-IADneKrNrjDwGrMZODxk0i8i4O4XjmKE51DKH7yvbyZ4BOBOAYAd897U6cCZFUoCDeTGiKZGowbYXi5zeJIRkXjsgrjmffaF59sZ6yIelHCeiOwos-2x3USJ9Ma-SLW2B-0ob_cRLN9o1-6KR4rsUhPam_k9xsH_Gyhb05U5H-yFsB_6-HKvWNeKoiqXb1GDV_4voPgY5-Hzs4rjuMU38sfZI4AoTgrnYXoTSYxrgktErmoVSPG__Tzww-HuAoeVw
     widthPx: 2048
     heightPx: 1357
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP1eGcL-kv3F3iU12KB_FlL4I7UGZCkbNfcxbS8!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
   - name: >-
-      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcL9yyHgOCPDZmv65IFqYnzI0oIUOkxiIlVz712Hgpj2vwFXQl6kdYoGU7Zv74aKHTsrP3dMeMp6_cDApB2q0rZiWJAWb1_NkLfrWdTOqbgKm-DeB0gx9a2LQfyXeJCqSlGjEUFKBKCVhwRXC3Q4nDt0KOkOowFISsxeCbyAhxGBTrT4ATpZP20a4sujyQdZBDXSlv0xMvt_mj5QzcLS4wR06moXk6XuxmRXQxijprGtyfpvHsSRSPzXGgEqq9VKbO7b6TVYKnTrS9lXFF1ncQFJojJmbrw-hYYGm85-l-5Crit7UlYM_uMPydQFbZswL4GeKZCDpgDdVjWnaxuO7sCl763hRUfKF3R-Xl2krZLuNrah4U-xxim24uLsv-pdj5db5vRpxmP6UiKFyQI7_73VZTYtfbdn_-aiK8ZM99QUwA
+      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcLZ_f6aw3msKCao15xiePE767drMJiIeuOBvvWfua8adp_5G-sq89jUEIx31AgRuUhTnb15CBgalY-RpZz3I-Oyc1asIYYHPsSuheD5wuj92efLWJ1LtMrqyuG0sehDeKOSvN5Pzud3XJZJx90mpmchNl0ZLDYgMKWpPRR8RGZkVJJl0mEdaHYkDwJDbkXfEBIEzAcwBxWMoeDj0EFjE6hYZp39cVk17Tq4G0AybMYV-FFmuQ59TT7Wb4HxB-6frSZdwZusav59Bh0gCow5TeSkbN9XZM4tX088tOb7LS3zkM1QdbA-MBr_nTXy9kX8A23lDkjhUjj2ewr2CDfkx3r9V-CgQ04PHrnTK-cqmKPo1qGXnCvyXEqSbVPqFQeGhCNFnFyAigaY_5STspj7ywsXsY7Zw-JzinjyJ7J1xP3pAQ
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCImP6aLw!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
   - name: >-
-      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcLphM402G0aV7XvXVSvv4UjWgdrWlldaomlSLlbY-frX1Eg_7inyNbe37DoCbkNSDWXq0TN9R_Hg1r3xSIIfw_VjowGzCJQJD9I1k0o5fXUbtzeLe8mWZRoXbRYm2Ki8eevtnzebWKspC-JpPPzklWSduez5zOzGPyTke6R6K2s8CVS0NFwML0NGqUeZwP-cvAtZIG_pp9WVkg1gx0T4_BwFI8DuKilnYT2oIl7VOrFu6qk28fhY-9IZf6_L-sjWnaTM28elxBhmJE1tgUYWUdkeWubKME8nZIQ-ZV_3BlE8dF2zZe0BJrYcHOVSMY8_G9YK6Zctv5NrcmWzOw_bm0I8UNlO3b14QJysEIEqZ7NyCeguLgCcWvtheFbnu-wh7ISUGVhWoc1N2RMDsmsM5XhG50mevn_1Lumd2wXBvI
+      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcIa0_VjwQN7zNBkWhioBtdo70Pcj9dGNmgoPwDD3WWlVjsa3jlRj9tFcTuvJD3Z9q44Y6-K2DJ0D5a1zEGosf52gKiRW983jS3HEmi0gSv6csA3wrmR2xJu5IReAz4oSmf6Gl3AcVCEN3LZXISH2Zcgl4oDLsAV3wCXm6gBfQ5FHL6fdhIH2S2wbZqpU6htFUX2OUj7-9eRJfVYxmmcBvIVRFimHeA_ktia2ZthH54nv1KDkmLdBtP-b9GVBHAlZNf6KbFOc3uTgEH9PFZPu-O12f6KdR-MM3_JcqzqFPNRCPtzgVFuhR45-HCuOal9pJ04o2vOBEwE0BlV2fW_16s9R8oJdkPb2vN55BEcqpoXYG-24m-RnK_BKXcgTCXZJB0kLLw0KQvnYuND6niJkBMImp3u_TdEQlQtfraNcyE
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7udytJw!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
   - name: >-
-      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcKuR8CLsHjfViwBQd70QtaQhNH9ib3mKejFaB91NQ-2ge0NcnzD28wM6CfwdRKjTFY3ho7a7VkYf96d87myn2IFktWF4Znu660wDLf0mnOzKbHJSu1avSeFSd3INO0-V3DDCa9xY_u-_IC2d9NGZ5p9z3JX0e4WjmB0aOGGFTkg-7q1XQpzWSoR-xUXQbRTdI0AGrXubUsXi4L0_9oBR5_ji9wNh7aoB6GIcMs6pjf9qhCOtTgjruhZn2Y3ykKX8F_x6WSi1NUkjju6hXCc9DvaVgrZ0FKMupBkhNAysTN7dg
+      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcJT0XFnoJQEU1aF5GqbouUVoruI2ryBNStr5MC7z2bRwZo0B0WWC6Hp0GcaIV7GlShRtLCtH9nUE6zX-y90y2l7sTQJ4P5GyMfpty33SufppLeaFI_fb8rJVAX8go-M9FC3vCS1G6nM_0bN8fBP3UhpG3pusQtark7Q9GVDq6ZiCK8kuyUjvGjQUTovSts8g7Qjgk7PthPrQWTy9PzHlCEcKOllhsCboC4DqXDTCoH6DZ0gfOgbpswpp3jLKr66t7il7HQo3LghxZS8AZCamcHyNQ2Xeq5CcYiVpQnFGiKNCw
     widthPx: 4272
     heightPx: 2848
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNpjipya9pUZxtCY1NrOQnAIyfB9dRwRCqwAkbe!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
   - name: >-
-      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcIR9td9i1PyS6oGSJpI_uaZ5WDsuur2NlavAXCRXHZZBv3qjafFH2KU0zKTo4kNlGcGQZ4MotMAta-IcDfPWVgHMP_xX_iR50MSp1GMEYd7E7PJ7mUy3jTd5nzW7y4ZNPg8REzgo-MNwb8CqgNAe-kOERQIF7_SIu6E8GZYUSo0YyNvrFJllsGH6mtXkGXImR3vmUq9mREdPpLaeoxXVANhQJE77HiNiWGHPBEJiNdcfdsJg2Z08GVkGLoZ4uAESYtq1LI0LrALq5NU6BDEdtYITXvz7uGdA7qKWXnJ1ZlC8tz-jLb3Wg22a0KDDokGLURXQUNBC4NzvDhuQCbZA65s_4yP4KuKQUAVIfeIZJs1b1z51buD1-EdccrheQQYNxchOOriWk21fj8O96wGRaoJRU76TzLCTrIyIc7v7GpABgCq
+      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcKM5iO8_JbARBn9iqDj8zI3r6bZyeq9VqRlTvrx3fiAckvu4xoev2_QmQlboSi6O_ebAAT-HtvmiB2y1_yElRvQwXJ369aT7LTvYKkClU1Npbt4eT3xIDBniGdOoYhzCv9o5VImRSSTW-sa5SMqC93lO5NTPJ-WrEqQAzEOLcyMSKhiiZCUlIAVHhPYs-19SeDZ0o4U7FvndjWp41EuPKB2ggaiO5fTJBuuz9u0pkEHwzlK4WSKppBtoyx8-B9clJZYX_9RQ2vPkHcYcY7RkAiWkIy3FFUhWV7bdd4nEPRQc9P_wgow94h0ZtenFRw_2enD5gRq7ZzliI3DCUrxPPDChjWC29oyy_-wUrM17Zuo3H6Vnhn3_d31yQLQ11XoipbrBhIPF1WIk8SjkAB5mAeWTWQpmUhBtzUfjBsu4kcZRkQU
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCImP6azwE!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
   - name: >-
-      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcLW1xrrVNk4-jyETsRMpfQGx976398QpybDVqbeDh1nsEv2Jz3QTlaoOzFjJ9yZd2CXEVeDWouWfLc_j7XpbeNw5FeT_EQAWPagm5Rz3de3sq5FTHaVva_RF0V0UVWjMN0FD0DYcxfUfVc3zRsp4AoVw31VlbvNgo7veP9C_N3VVOU5gS04GHRcdXKiiOqDPcedIOYV2CvUDxKr0e6OGTxnVRRgpEVvs3aEkVWKv-Je3Sh6Af7BM78ObTRwWEeY5YRHMnNgpTfSnL47jZsA-WoB0eO8D5puLUG3vDCrX8vYGSFKNVyqZ-vabjawy9zS-aFyLI6ZESM_WmHdSR3iYfIPPjiKwZOLwruVCYdMkBrUBtW5ApPdcs9y3SZ6jFJqDz0bTt3mWW-oEU22WA1etzsr96rQp4-ZsdmVoyl7QlWqHw
+      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcLW5boMxwxH5CgAKW7Sc--uKkIP0Mz4u1tjnph89zA2touQGgaChUIbYJLO_fnnGLIJv72D1zEdfklvOgaOkQvdV3zbJcgB0V9nxIGCJI9Lbu49ffLpk49a0Uo5OhyBCDirx4sRAyrc6xqVsu-PQQmELE7KXTfKqlMZKENFJu3nGrdAXs4fNisAWPF15T2uThI_ZEOb8zHIC12S4uT5ZX_V5-md4CR8chUT0kjfw7AQt5oFPlYDzEvgjwvHWQqDDAcX-qVakgEaoWdIjCvjUuVwpx6tUSQILHq6qOrsw5FV5ixmf_Rhllf653P1Nun6y6li-BDHSwsAY-uBHjAAxxEUNagPgfdKiMC_SWMsZSkpRWERKzxs6aMpK52zeMsARpUmeE0dnfFQ88wZcR7uZ7S49KYNfGJe5JewSVKI6wNYWw
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -104,33 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCImP6aDw!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
   - name: >-
-      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcJ_Z1c2IuQ0VHgdypuKShkVgddlYfMe8GXlIwATGtZtXOdvlcnkj0s_5d8OUdYi-iMOVFgjC9Ljr4mtN8RGyQ6D6uPE9ThFEAGXpkjGfyt7qiKKhKyjWxv1PRQLUYY2DKd2wtZYY7wsTgnSnyJnXhukrxhLO3z1YKi0aDaC59q9rVGA2LKgilWavS-uLXlhfziqRSNwJpq_b8BTy7YijR6C_UMhJCsf8InuuMiZqfCQOuizBRGxBWW0ZgfKeo1UsoQ1zCFu1KgTr-Nx8JVxjcgU-DH_GDXDmX0p_w_J33O-xArSyu9_NnD52x2XfJbiSxvxPKexFToWZsaT6rC9FkoWL05zQQfzssyDudr6X7nqxwErwoGvRlYkTCF0mTUblzaCpfzg_7Rp4aONnnTyHHgd1OufSAcYKAAZ77G6i7c_aA
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcLGzSZ4-EEcHi8CDtOyWwVqOBt0GPo3nh6WT_Gr5JYXeqheWrd-0Gf5I-ZW038RrV5WiyTeerhEjhMYio3xOMMiuQkPFc9cKyZ2htxod6fOKaX88oH23meC6LGGJqUuzMDkeMLLEajEfvkP24E25jn8QPCyRR41elWFbq4f8ZOoU21PZRD2mDspixAhzzdBnIyww3Gxkd2DJsz-P2JjkMiLxw2TdEJ2J3kFfL-pfabI04kiWbmPibBKKlNVnBe9QGMRmEbqJT8tyQB9oOOiexPnixjWPfxrCECUpkz4K8U9UbsmFwV_6yiENaqucFSKkmfs5pzdo4OTGxIC1a58tUecZSFZrHbCZnqohAGcC0Z0KLuj1HATubiM0_tfBtSii1sf_K8ma6DKwq8ixVcZO2zwW9OPoj8LHl-IGe_rR9BMzg
+    widthPx: 1200
+    heightPx: 1600
     authorAttributions:
-      - displayName: A J
-        uri: https://maps.google.com/maps/contrib/102281974359359835346
+      - displayName: Becky Babers
+        uri: https://maps.google.com/maps/contrib/107127580522237420709
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUrMmFwBSHvxKjmhFISavsmLEV-QompQs1o1gxYFRIL-gB9t6V9=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUyqRApiFpuizk3TbTcChAA3snqBDEXKLKbxv0N8DFBaQcsqo-rVQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD1q6lMA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICVg5unMw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD1q6lMA!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICVg5unMw!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
   - name: >-
-      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcLWC3A4z3f0-8AKhtu2KLR6imQRQw8pnOBzliU9jK14wmd1pn0ivGypQLFe2PLYyUAJtW_uKqJUMj5ZTEsOhkGmDbtMbkFAHT6YVmOMDWrjONNmLCSIKfEnZSN2MCvjABUI9SAtMgcNHw9nv5qFiFiQffyZNlyOZWDV2Z6n6P6DGG26RIjEAF0BQZniV_09VSEH_QhNIRT8987zUJ3Y5QuHZ36W2rMUSPo8kt6OdiWOmPeTFrnyKmXzGvDhJtWn6zViKtkUdpLdOeOqtLl2lciUqhLfxchIxp_2u8URaXZgcMPSpCt9_iNrRb9JctBCMCD0_CkgiGdlaYyel3P_qW2_wJfxvD6CRjMOPccRJmpEfczbAtyHjJJbZoK1Mi-Qm_0uTWdljj3tYtGnIhh8ehDkjVu3Lqu8cTWFVaVbJD5r74wr
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Lauren Hill
-        uri: https://maps.google.com/maps/contrib/103417229537103668151
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXczdGs3SVxxa3cuYKPyCGGmf2QhqaO2lnVMCAexYu4fNOAVhnj=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICFpfC4mwE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICFpfC4mwE!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
-  - name: >-
-      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcLodjE1OrsY-ba1A8DEBof63mWkAdmGVyvhP-xdJvzJTCKc6Il6XZiWugJoZPEXfAC9rT9QVQCAkxWeO6vKkYtHfef2ffJtUc3LSO_sw7OdPo29CzGtSQXvxzVht_W11nhYrRyNGN1ja_OCpDaaMjc9PvUdw-2kZW8IuHw28ozzOeXT7Npi8oVyaxJM8vP_ViwaG5HDjZ93dZ1jjazhLX1sJ61-b51gkdHIIKwoP2_Ep-rThKRWSwv4REGdw153Ifz8CON4FwORH41wBbLe9q2hIDX5iU1U5swgAsgl3Sb7nMUTPMN7ToM41ZFITveml3BhfRCcoQ2QOCbCM4pKSpnGfaUO50_gmrb9Fni3PwiZLxZ4i50qyLWCPPjkDhkhA8U_kDZJXkFbDz3j4fuUWaLiVnSSAJxYe4hxPYb3t7cqZg
+      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcIdwt-VnF34VrCousTWLolc1vGTK2MOb80MJ5TesnKrkVr9RhKdwX6lwczI_5pmfgbxZOdVKSX7ZUt_iZ37oFdz-p7rmWCoKDGHXwfPCYbUVz9dl5bteF6Byb9MMjrpVeyDzzEP9-w-YJK9YJ8Q_w40bbqImcAJGBlC0b9FHQu25lxWZ13khfEpnkiKtDJLmuuvbr1cz4Tynr9lU1RKg4H0eNElPOtbCZAffS_VF7XgSu_NXBYvb91trPL-bb0F2prJH0CqVRGnVzwk2f9tXQ00nvyF3FT2jEDGsr9nAIOJsaVGJjRC54z66EqdGw79xW9gwUquhBolR99W8de4AS3mGUUY8d0wYv3NIFNx-7Ax-3VnaLkuk3kU3Ln5norkf8kZ5r6EzmoFvZWYg3scEqM3h4Hl9AwtuL92z01tQrqrOA
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDP8oa3Dw&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP8oa3Dw!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
+  - name: >-
+      places/ChIJ5yHUc_qGbIcR8tPhhiXeNl4/photos/AeeoHcKM-mMlQX5gdgTbm4Kc3hJkH-vf4O2oBOsfY3oggELjebWLia4n2gsmo83HsUUceNuEe4XZYknGMqasu0_UJQnZ6-VN9dVUnZuzlQYGmiwakhNL7w61a0d59UvXPrYy-Prejru6bPc5gFRaFmxsdyXnCh4njcpwciut_g8uEuurarf_ClSEfutwJ3OspPICaU2Y6KuAO7OjUs73Q8PWlCHkwV-mJkpr05TxcW5pmBxFdz9YuStXxAyLWY7V2_1ehiMXcJOD8-atPFzQlz4rXL3swD5CV0i-NSwd1nITv5gIVg
+    widthPx: 1080
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Hapa Sushi Grill and Sake Bar
+        uri: https://maps.google.com/maps/contrib/101229824310232888011
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVxwaHSlT_Lb-LqLWydVg2CO14EWSy7znYfI4h9gACZ10KC4lI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPqAiJoUV-rVglFuTMtTiO9nFOu3lVWnNHmHc4s&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqAiJoUV-rVglFuTMtTiO9nFOu3lVWnNHmHc4s!2e10!4m2!3m1!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2
 address: '5380 Greenwood Plaza Blvd #101, Greenwood Village, CO 80111, USA'
 street: '5380 Greenwood Plaza Blvd #101'
 city: Greenwood Village
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 12:00 AM'
+    - 'Saturday: 11:00 AM – 12:00 AM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 12:00 AM'
+    - 'Saturday: 11:00 AM – 12:00 AM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (303) 267-8744
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 2353
+rating_count: 0
 website: http://hapasushi.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

@@ -13,7 +13,7 @@ description: "Casual eatery with Thai dishes & sushi in a modern space with a br
 place_id: ChIJ9__BGuTSD4gRLgeMsGFy3JY
 photos:
   - name: >-
-      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcJmcbISITmeHviaq4h5mb8uL8o5qAYoAluPcbQ-eNtKl5mR92-x0w4cV31kQBHWYoj0jwEn-zMVKWtbR5zS5VPzwPcmlJqcze40ZL5nTs5-X9Wq21Sz9omXi6KhwYYwZl5Z_hiJNdbJK6BQKmKQrP-6UI0h6Af00f82JJG4YgAVIuTzSvKY97wCfLF3H2BeKxrn_BTvCGs58o5oiOIQ1dZfV7mC0FsoNzKcuPAI9RXBtuSJPb1dLkIKUYXnSPQ8JEP3ae7M3EY3nwNBN2r7oBYmbn194XcmkTshFR74P8h79g
+      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcLZwnIk_S0XThDp1KcQQdMqBWIInrxBcjJTwsvDZXHasnUs3Iuh-TbdbVuOFWBofE_HT3VmbtZrtE7VckISozYZSalSz8TS0xwjAXoJAydU0XWiA9DUAVQ8D4pW77RRXHetqWe235RhLAfhDomgCRQ2yD_voTHMR5Rk4Fmcnpv5pXMMIbvLb1MRGMc_yuZIx0BCdu37wVSKqfPuF0-ZrAiPjoai-_sx_yeL1HrtdCUD-QrGvUWnL7VEpXuqjV2l-kNJhN_K13r_7sTsSyIq7MYGqZMr5ivFKrv6giJkYefjDg
     widthPx: 1280
     heightPx: 960
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPvVH0nRygQUvHIqey46zQtm1UnnGSvoA7zYWqw!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
   - name: >-
-      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcLQ6WTdyFHLpow4Ih0m4eY8xs5oV3EKKCy5yYLHv2uHIrvhtbUjB2Uf0Ibx_JAdEcN5dW4-lJlHXtsvMz8Y1HWP6pko1vLqTQg_M5diqYJ7T7gyxwsokb2Q1yBezEWksT1wIj8LURihKsc87Fjbea3dz00sqF2Z8mZjhYePQ2MshfhnzKDPWaqsQ35A80LK9vZjndgpC4Qx4Uq3KioKoGa7jWF9UH82zSg5TwoPYq2ksQ5uWmr6dj4YtU228-G4rneC_07c2z5XtAWGn37Kshyll9KQUbSi0VDrJFP8H5u_7g
+      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcJ2fFkLrO6-A4uD-fNJahNH4VNPT93aGxoxIWLZ-SqS-6aC0O76ZICjx-flT90Jydhtb06s1SrJixJgoAHL26iDkQeM6pmC2Cj-QyS64ZMkRGs2Jduq0s9cL73xMLVCIB2UCCR-WbV3pyKpRr4AXfm0HEAi9XFBELUf-BNht9HsqpBxw92ADGtU5dKkdiAyJ-uxXYIQqAHIRmVYsAz2vEC024QPa8H7ShfQ0BCxAJ8iOiDwZqsBIWttzZNmhtyTDEpvlw-1-5ZMawJwTWKHF6RnUbaSuaCOyDyNGGXpJIC5hg
     widthPx: 1080
     heightPx: 867
     authorAttributions:
@@ -39,7 +39,59 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOh8Dc_PQ5mBzf7_ZCAZxtIzR2GEzRyrNrCPEwK!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
   - name: >-
-      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcJDVDH10Nk1_UYkrEnX28aAI7dD5KHr_t4fvGaodBfQkr647ebVAaLFELWBPiREYZrNyngvCJpRncQqO9OZ_WO4qdmftqte3zfPeXe-6kuKAlMyiBs1TUXdoKZ2RQPWYjcLC-lPXj7lPbrVrYSBeAfnM0grctajcVuu2lN1u9ZhlrdlcZ1yiEEYDT3JxXpC64vjI3i6WtFQRgaVAMtfyLZmf8k20FEALfi-Rud4FbZ8s-dNXMjVezP9Ffb685nDqPCFy8aRhTkZkgx73XF0mvT2jnXaS0I6i3hvbktogok4oA
+      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcInjOTl5uYu0rb6QyirwDaMDFv4mL2a-Yj9oqoG0Z94jeCFMeoyWylb03smGEExElyKY2IQTxZbq4gAVcRZEcKADBUrrqJ-S_0Vs4SFqMTTMCWNlTiGGEzaNlh1-UtVW9t9nSUDOT4pOt7kiS7V1If7Ls-My5W9r6qcYvgolZN0eunr_pntg9soLUqQxKbns0A2aaAKJPYBLnbOnVPMaEhx6oAoc3cGLvPaVq4uPhOZfjwLCyHO0x5kz3lPTw4fdF13g7KMzaZQvviTKZvG8biBZzBUTOD3zeVbokOKtgKs5w
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rock Wrap & Roll
+        uri: https://maps.google.com/maps/contrib/109229848746079973435
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxJ3sSfmRAbzFHSojlZ8G1VFe-apErC-ypvoa8f4VCe-Pab6Mp=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP1XxbiMd6-sqG1CclqcI8SHJ1-FlV6jfuUVQv4&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP1XxbiMd6-sqG1CclqcI8SHJ1-FlV6jfuUVQv4!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
+  - name: >-
+      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcIsMK8meMAVulvEQTpz025xc9wTfTJdu4UXvuruE0SWgtXXiAv7ttNNKwRjSS7ZhQygpAAXYIySoPo3gVEMLkW-8v-a7vGu48gySX7l4ufkDwKTAEPDgvJF3XXcmAdxiPbXFJmi5WOdj90_cK-olbUI9h4_FWzjCviQOSnCKhIgWJ9NiPf1F6-Z7s8kekoFuOLi42IXccMWVDiDx5UnAGmMIVcrK7vpH-L3LHZQzm5bjFqTbvun2d98wbS81ZDSgR_3wvsKtJ46X9iORY-neCKXMDnfA5WTxdjN_SRbVqulrQ
+    widthPx: 1440
+    heightPx: 1890
+    authorAttributions:
+      - displayName: Rock Wrap & Roll
+        uri: https://maps.google.com/maps/contrib/109229848746079973435
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxJ3sSfmRAbzFHSojlZ8G1VFe-apErC-ypvoa8f4VCe-Pab6Mp=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMJQOYl_nzCPEsIT4_Rb9os6kAN7JVWCazP096r&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMJQOYl_nzCPEsIT4_Rb9os6kAN7JVWCazP096r!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
+  - name: >-
+      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcKBIxqY2FHI-PGVhmZoIPl6DfufTaJ4Sdv7fj-2VhJ1gnaxXojfAjSn3RZr-4uOkyfkR1U7A3ebhDwKqbq-IeCSwnQ07Wj16FARixjHilz7AevvFe3QQvDZ85V616w5u8EeaOyLqinMfzs-LFBOfPw0JsGdDrEbUsVwXM_lvw19uvcEnc9f8j8fu3seExOwLZeiYPIryzNqc-q3Lf92MGYd9FpUWxwJ1wHUHWP77wHmN9gISD1w--JJ4Mn1M6aoENsxj1knjPKH2t7kB0wsPAgbbWKDfjHcoHvR8B52epLfpQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rock Wrap & Roll
+        uri: https://maps.google.com/maps/contrib/109229848746079973435
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxJ3sSfmRAbzFHSojlZ8G1VFe-apErC-ypvoa8f4VCe-Pab6Mp=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOyJ0v40Y3V9F2yjhkXolv9hxr42tkFrN6Ryniq&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOyJ0v40Y3V9F2yjhkXolv9hxr42tkFrN6Ryniq!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
+  - name: >-
+      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcLmxCE-XUqZjRTT2mjyfiQ76ivBIYzCqeoZ46kGifJcMMVgoYf20Knt0OmkxUerdEL4tTVnVxpqs1gVNMehjLi9U-Sazhri0wyhTHDXHXJzzg0lXXWcpYxHBV4HtnQfzinbVklNmNVz1y7zaReEhHl_gk2mfUuaMUtxyWQCVRBwdqEUxYM5yC_j0Kal7TD3597D0OP7jD_WG99Lezcdv9rFoeuVjlh54a0i09WE0YiQuorIRf58Rzy4DIXs5QvJi1J1TDYEQRqyZmTPXAHtbJrAfGb07ilX2M4uyelJdOTSMQ
+    widthPx: 646
+    heightPx: 860
+    authorAttributions:
+      - displayName: Rock Wrap & Roll
+        uri: https://maps.google.com/maps/contrib/109229848746079973435
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxJ3sSfmRAbzFHSojlZ8G1VFe-apErC-ypvoa8f4VCe-Pab6Mp=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNzr8Ne-CYdubE5WYFe_oRI9cQJV8EzL5qmkSe4&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNzr8Ne-CYdubE5WYFe_oRI9cQJV8EzL5qmkSe4!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
+  - name: >-
+      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcL4s3hTKH0NC1PEbmgRN3W1AgIoL3Q7Kp8fCJLG5DDniDwS3Puf2Q9tbYALaivDtRgpRzGMrur7YlORhZCJhE6oRbd6G0aaVVnXaKDYedlpg5oP8j84SMx1fh4uYcYG9olEa_50ivKxs7Zsgz5h0nwJ_HgX8o65BWCfGVxleqsY-VPy2Rh6q8Sq1NjKQjrv5IUXMhhCU-Sz6ZNNPWo5kYAAZlbu72u62DFPmc8DdsXtw96G6W2HikKW22mlzvpDToThNxXYacSCCcL7GItVw-TtrKi96zvbR4jQDkYA3lGyDg
     widthPx: 1080
     heightPx: 1350
     authorAttributions:
@@ -52,20 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOj4l3sd2AmnYRSNoB1v88IyAAMZPzMO6ny9dBg!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
   - name: >-
-      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcLtnYGxVDYJqUlbHd5alpfTLVW322cQRtPfzODsi_BL8uEaXtahdUBrYKPyyQNhQklYLnHxjkAT9WnuzWhVq9UGpZ8f-io2s27SHJ3w4-tXKhQLvv7QgIetRDx9_IOdsTSBf6dsp7Udm3weKBsFmVR8BbRFX-Ej3Yzr8VQ0g7I-0lNS9UW6twxnFT0dQpKpSrP3-N-h7vxSGBIh_PQMdEOklHEFw6tkmSYkP4JnoKtqjKy1u0fXpJHz1qaY82e8modyfQYR89MvudOF_hOS8ZRxayNUgVfPaaKIQzaTS0QEIA
-    widthPx: 1080
-    heightPx: 720
-    authorAttributions:
-      - displayName: Rock Wrap & Roll
-        uri: https://maps.google.com/maps/contrib/109229848746079973435
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUxJ3sSfmRAbzFHSojlZ8G1VFe-apErC-ypvoa8f4VCe-Pab6Mp=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNXEUrZfu_QlJeWowYHsRD4EYAed3bbZ-W_ddxt&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNXEUrZfu_QlJeWowYHsRD4EYAed3bbZ-W_ddxt!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
-  - name: >-
-      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcLzwk64s7Lj1QoaR_z4kn_cYUD3uuSh7z0ySlGow-jwSThHv3X_DjAvPXmXulU6OIbUDbfgskpVR3MPdqVHgSH9eF16rkYuyT81-Wa7O-dvh1dWSVT4BH1uik-AN7vKb7M3oGTCZXI-_CEtekNZYqAqjLy6MGUPN9ay0H9VfpVHji6sx-WrfF1TkAQXApXG1bRM5DLe1vYs2ccLx805m2gRv9KS13qMC-YY5qXmYsLDg0OQfrjjpDnfInDQA4x_iBbH4RyYLT1daNjsJTg4gggibLOhtyT5RY6b60OkqnfPTQ
+      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcJ5xKagQJ5VuULQL07UFEiaPCoOWBBZftx-URwcDjffjUz_UVlbeZoVcBhzBZMQ4m9s8t-4TPn8ifwciF_pxyVpRuVuELy9QfAxN5HgudLJxTmIP3bbjAXHYOkYk2VnHyGmhWmeptGTA0ZQU9GgUE5dvUjgjbqHR7sy633UytjRbjnk_N_UOc5B2Y0ib7U-f94YSwjcem-S9_WeWybCIOy-bERnVF7OsKdMvLR6co6mq0ysB1ckgEUuP8HrlS7Jl55RRicvjvQdcskdJX__JUMYmKk7_Uo43OXDvfQafgKyQQ
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -78,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPpjNtGZx0JbTEoUt9aQGEy-T_T7f8wMUtuRw66!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
   - name: >-
-      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcL94JWDglXgq--ftOQb0OxSyfIAok9FxW3P_hw8dUo-Gyx47W3CwpGWpoOL1P-9koeS6gh2jk6GdJZXKI5SVxz402Bn13TsXCr9af4lppiQkpPRrlrTM0uwrb-Z6sxgnqK_DUKuprS0OlSzYMx4EVSqmrWAFxR3PhZ95NhluRV-yBFmDIbmW3GJXDpAIYENsngl7XfdF33qPP4kmK78Nq8-Xol56dkZis0NJPBcrEpoj_8LLgshsiJ7og7aDQ3mNwsxoukjq-mXYgIKXJ6UuR87GO7u5Xjxfx2C3ZhkP93Uzw
+      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcKDG6UXD8RCB9JAYTuwtTv8prNXigsZJqNyg4XtkT7nEVDTF5YjslZ_z1IUxxcyT3dtP3CuGfHB59J-YMGQEkkWL0vjzgeZ-xA5HFosPihgfCBjFq1FHh2-Fgbm8Fkk6vWAdsV7t3nWeuqz88xeYfLf3AJwbqRnZfU9yia04xmYnJyoPGv3vpwrIEwouV0YmHgdiISlTZRxsgSFWOZIKwjyalcO73fdqImGkroqbbMo1hAf-bhX1qbZPXJWqQT4qXWA3kA606XUEcBx08bXk3yDAgUBdrcqTG8v52uJAlEMEg
     widthPx: 1536
     heightPx: 2048
     authorAttributions:
@@ -91,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7wFj76gV5j13VXR_tHAc6oOcsUhvF4Ipw_BdH!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
   - name: >-
-      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcI7KWljnUlAq__plYM2VUiVr0zWenf02jlZ6Ukr_GrtV0oECMkLlJuKb7Ge-nqAld8VlqfbUvjGmP5zs8ohmuFic7_QM_Htx4KxX64jhB2pkpczLreUuHsrhlpJcArWWYgjqSEXPH7GH9MTkzo6nxa6menL42j0-HwPox4z2ChpfSHittz3tl-EC0WKFyWZnfdaWHf5XKxSZB2Rhiuzhh7DPsg9MW6Mz1z4QUoCTAwRcD4pcHGSPbx_p6TXH4Iwabv1bby8J5e8qVrxkiJKQiVIOjCAjDHWHrbLpIYNkEpkXQ
+      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcL3VJtxkZ51eBP3xH2-xf8DVPO5sM9bsvrBmji7CdD_LLoH2ypiQwgAu4p1EcreY5k7_dja5FJFTdP0sFrCvhHg5eTSA3YrlrMO32xvFUe6NqnyNwBSnIf7cSKc4ZFUDlutoSTw2c8M75WE8-VAkRStGPGnZUpqLEA-zxCaXJG4Eqzajg3X5QYEXZpl-DAKUxP0BzYak_qlth-ss0ieMmz_NT2hL7jNrsreEwikHN3i4DuIJu2YzOiEkqgPlmg4dyRJbSNtJCz_Cdn-oG_CZqt-8kh3ANJm2Trj9wL5aQcS8Q
     widthPx: 1080
     heightPx: 810
     authorAttributions:
@@ -103,45 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNmaGCO2984hoDJYd2gtWz6NaClq_wMhojZSrc_&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNmaGCO2984hoDJYd2gtWz6NaClq_wMhojZSrc_!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
-  - name: >-
-      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcJ6DYOempu5aQG7xmvx43wePABagapzIfTGdKFF0mXhhCt-dT3rdC2iMyKLvh63OrWprefAQGxUWpuU_4QfdSki6cFfW3_wYbMMRO06Aho2Wx2aaWKnF0sSe-2x-Cha2a6D05gE5_uqgMBwDAbD0ThuWWbp0GReUZoANVzsDMqYKHB2hzfbWTZp854kKlx1roB0SiMqQ-bmki1W1rlZhE5S4V1Nap5Huw2QS-FAn8m_rLuQDlqNmWW2QQfrkHJCnQm8KNDxcNMuh-y-6bxl4Yikau24xlKJwLaRDahZgDUCVhzJsTbxrk7YlN_V8iJE89SZE6w_toVyfoYWZCXmoEMh6M1q97zdpzxBwmwMttfke9xh17CnxnMjwk-LoFAyF7weZLPDOEx67cgze6UR_xKvdB1mycfubtKwxEPE5zUZ6UY
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Cody Westgaard
-        uri: https://maps.google.com/maps/contrib/114082444479475715154
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocL4Zs8E6sDvg5BsUohxvPn6YaL_1W-4F5-oQVGRR0DYFHuTHQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvw_jvtAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvw_jvtAE!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
-  - name: >-
-      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcLtavdn7LMLv0w0UPQUmYyWGFhe5hRoyDfjLKo4aXdJZDQ12Q8KaqG1PZDLpFirAFBNBxPP_-_UQ0P67xLVcfmvHTdTHcNJIiESokeEzz_LOGPtn6j53q4AxX63g7ABgwS7Jexoo6oamu8quLQJG-gI_Jijw-7NeSsknoNUpJbFpChD439XBbP3-WKr0p_HuyLiH8pBLSEoJwI8bBsYmLecfxwBXjXI7m8MOyNSo_GPrUQ5-ibjcpIQcKp9jqsLwueeKqEqkwtrTzerKjIl855MTY2fKCmfCMiFSHj4i-xjZQ
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Rock Wrap & Roll
-        uri: https://maps.google.com/maps/contrib/109229848746079973435
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUxJ3sSfmRAbzFHSojlZ8G1VFe-apErC-ypvoa8f4VCe-Pab6Mp=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN8gnBvvdEcFyGtu4QsH1MTke0W7DiyJkqrQVYC&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN8gnBvvdEcFyGtu4QsH1MTke0W7DiyJkqrQVYC!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
-  - name: >-
-      places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/photos/AeeoHcIttjx6Il9nbpo53kxhHbnn2-W7LbK1-wwoM3tY7By9Nx16tC8izgwazRZW0BJRjvKWHLF9BHUGpqr-pfxkupwRkdtn4qU7PYL72WqPJyEffvvDX1fd5iaF_RZ_G_DJt-c1mdd-DxbFCex06DzahLI9iIrn1g154HY3ALAPakI_dYVN5kOfRBNHZDMmFYus5QKav85bKlezRPhYj07Kf3nfXn4eZFVCvBdA27l-FuOCjZRqAYMq_IQco_hC7YAMcOdUJblysWjjJoYggZ4REoWyBz4mGrH_x2jWXRRlCFa0Z-MlMzoeVNgTHSc4H0sadKXODLrYDYprWEYQWZhBWoo845gsHwU4XumVp8xXSa7kNZaxO-XS4vhGmzgfCcJ-V4Dsc2vV6s42wHloAA6MDuhf0IxZvZ9IUX00Pb8SJ4o
-    widthPx: 2907
-    heightPx: 2448
-    authorAttributions:
-      - displayName: rock wrapandroll
-        uri: https://maps.google.com/maps/contrib/107641651030591856778
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV1oOA3Mb7X0fc0znXuZyEI6XtIaAf_V3VpcnVYsk0-XC6zziEb=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEvrOtXQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEvrOtXQ!2e10!4m2!3m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
 address: 2187 N Clybourn Ave, Chicago, IL 60614, USA
 street: 2187 N Clybourn Ave
 city: Chicago
@@ -181,7 +181,7 @@ phone: (773) 472-2800
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 195
+rating_count: 0
 website: https://rockwrapandroll.com/
 reviews:
   - name: >-
@@ -370,6 +370,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
+update_category: essentials
 summary: >-
   Casual eatery with Thai dishes & sushi in a modern space with a
   bring-your-own-alcohol policy.

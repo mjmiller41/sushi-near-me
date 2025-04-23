@@ -13,7 +13,7 @@ description: "Kakushi Izakaya serves delicious sushi in Newark, California. Try 
 place_id: ChIJxz_TtEW_j4ARKaN2vDM2vPA
 photos:
   - name: >-
-      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcI8EmzbvI5KxzO3yifhLPc7vd4c-WCm-JeLauSyMrX5-BPpDAfxy6Ip-E3a9L8j0UpdhHwu2rJL_fTuu8Z3P1jm36yFMqlwL6pGGNIeE8l0N4YZQFSHawN9uTRwbUamn12ERhvNccjOJt4qjZt9hejmPs17V_1uNtSJSl2zpaQgOiWpk4Yqo9zEKoQ7ME1vA7CVn_mrforq7fc0c-f3USAUk0KheqHSWixp5PGuIv1grBNCi1Xmm50WjsecJb6G0YVLK2_87Bti-rzezsF3TVyiBQcHIbg864FUuw85YdHCjftzwYXBnfrMr_HBnI9RWRJUd6KEKRl0fitz-mCAd4JavYcTTdNw4TBiotU4BHDNmvsYXc8KjcbQA0fKsunS_MYaHQKVqRPj2aGkppmXanqVUHcGBBixCiTpiT-rLweWUQ
+      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcIQphI9cRZsow9dm2BIGHjbs3M59-wkknGcVL5BTDAE3-ISfjXHAQWe377EAwB6VLZRG_ks0m1MCqPIv1QioBrhURofTSdYLrUx6ftj6N3OcZYHdUZYirc6L1NBaYk6DFGxmQQ7xrTT3YOXvhjRYYmZ7f__MgbyIjE1aNJVUw0g4Pqlv9caetkrSaHV3JJLN3VQyqyth7jv6dU_VLlsO3EsSbP4R_FcXvn1iwN6w3cdtbXnDoJ4HVZVio5bCygd47CgCVJifKzLn3Z2RSKpRJFP-nBYzc5Eitg6ga1uyp7waBNtwgjNRhhNOAF62eK5rkSHwVMn78xzszLG2wrYRcX-kRZB7iTuj6-jiNc6uVO19XZV76BHX-1uN041LIc3RlhUMGWmFaaUBcTVi7i6Xp-6UK9F3cUQXR6mf_zkmNx8SA
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -26,59 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDN1860HA!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
   - name: >-
-      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcI2wMZmwaWc_6a0ZjqpWdkztvJXaDF76Nrz14fsXG7Xi3mjBP3wzsT9C0kPo7qnfl3T8LlqnZsxt1fJ9LQdmf6os6oIo7psyrGPNNIUbBWw572BgmLMeX-ALSVf6aMoUC9VKuOm2ymO5KPImV2eOHflOOxBFPw5hBu0_X_DUccj0n-Aegcz7GZVV5BWhqP9xNZRUQK-xGksy8PFP2uDrixED628PDODnHq9kIWQYCcyt5vfj5snr5q5cAqUhvfiw5bnJOeyhGp_Igz0wK9wjDUB5l7eiDW0UWd68N0NBjvFkQ
-    widthPx: 1280
-    heightPx: 1707
-    authorAttributions:
-      - displayName: Kakushi Izakaya
-        uri: https://maps.google.com/maps/contrib/104227799300223134782
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXY2oPeGGZF9vxcMMNXs7Pz2YlDcry53S26mV3xzzrRvdK09jU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN5-l0IfZyzvK6mfRqHnhGMi3WmgIEWP495rwqj&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN5-l0IfZyzvK6mfRqHnhGMi3WmgIEWP495rwqj!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
-  - name: >-
-      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcLb3nXrHozpDA66FIruQBS0dlaQWwIYIvQJafgGFO8iK4nwuH5gZvLFpn60ItIV9meEHBatLwfMLopn0i2_U_IVY-ugSMp2yYksNitDcLz69coyVwxUyxyHvCmJV71WV_g_0pfhM8-zo5R7XfMYGRB4mBvJNdFtQVhVe2Zp-Ti-5CZPM3dGAWD2oWrTTRQ36htWx5rFKOqhbczS6QauWSqK4g8gqy_bx6IB2zScCkfXnKCRXxgkjlSB6sZJl1RekmoUSlRgFKe6oXAoDbTQvV72nsPUau6LP3e1F2uONiQclwq3RGCr-lYvqc3bMaj4gmPtJZEj_exJkCKk1CkDZvMMSlfk5cVIk9zfDW88h0UhZRU1SJ0fj21SrRAuCAH9RBSFNqXlqBbMcJMpLgO0WcPpNODpHbU5MhC8_65n--rzjQ
-    widthPx: 4000
-    heightPx: 2252
-    authorAttributions:
-      - displayName: George Shih
-        uri: https://maps.google.com/maps/contrib/104027151676078068627
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLhVQofbasWiPRalFuedTL8tbjIQ1gPVdB5-dCRd6I9ynZ0SQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICL0NSLPA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICL0NSLPA!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
-  - name: >-
-      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcKHjt00Z9V3qXuPXc6U-i9zEcVUaDP0EIbG-MuWXoltnJhEpJdHl_SrmCBk8pRL7tKpZJggpS4qD8qMWRBMzOdTD304bYv7ujK_emheSsxb7l0datReamidgqdjWu2vc4oCQkuGPr2hMKFgiBOxZDaLy3LeAq5LwQwm_4a90b8KDFYHeypHeFJ4weDE3gXrZYioqCmK9cViPp9bJxHQTL6fIpF75xYOxiHfRwjwJDyq-nHpK3Ok_ysueJ8PQmPquds_kmmb9RqUaQ6_jH88njJGTIILTtEdjIep8AdimEwD5g
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Kakushi Izakaya
-        uri: https://maps.google.com/maps/contrib/104227799300223134782
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXY2oPeGGZF9vxcMMNXs7Pz2YlDcry53S26mV3xzzrRvdK09jU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNr9dF16lepoT7J8e1q0oMZqoZCMlUQGy298cKV&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNr9dF16lepoT7J8e1q0oMZqoZCMlUQGy298cKV!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
-  - name: >-
-      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcL-Pcv6_9v4f-1tPT55JX80ZuAyX1fIuOeRHrjfTHDTPgMkGCG5dGDuLXc-8ZdwdIkeGyxubeJQHfI9fgoIJPnEr2f3fIBNmpzx9gswxaop_b1s_I3zAcPNZlWleHHhPh6mLCE3uDFhaMQVypgpQmcpr6yQ_rfGR9FrW2n8mYoUee14-7KLtr_uUOkG4fI4XISrDE4Llllll99DiSkaK5_FPFKARuPLuyQkGei9q93Kwatrb8APeIhJMkYrVNxHXK1Db5HAcfsjlT_O1gyjzHvDjovSZst04R39q5lMOjmlgz5K8tnBWb1MMv5dt4jBVhj2E1TdhsZhHZjSXnhN8qryJQL-uGmsQQVF3UoqrlmPmbqMgVp3ROqjzF1xjzBBmDtMPxlkgnSxIT5MLpPBOS85MkAiEmv11wDWTFUuymhtmSVM
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: John Louie
-        uri: https://maps.google.com/maps/contrib/105567469817926219259
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWNa6xLJi8PhPSjfBwlIRsBPCRqFRpO3fhUXzIuttzWNdZVzYA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr0YPhygE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr0YPhygE!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
-  - name: >-
-      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcLy-RaAfkJAApkM1R9IZ_6Age0P_NZove0C610uCWFErFF2iZpdSiR0NzrdailMXPCKUtIfkuJi-deopkrbCg5n-6eeeiWDJ76F_RhdyCQAQ5HFhNnE1t764zhR-sVT7e3JsLIGNfRImk5r69z84gODI07QP0Qh1MQFUu7dJHkXbKKzLo8_imGjdv1EsvexZAwQQ_9IGvAjT6mO_auYhLvb81OixifoAxZke66oLYyGHndgVWZVj5QnKRhCV22I3hZZnBiJJFXqHG-BbAAfGmW1yMim2mEE7SnUJO6iJqPTCg
+      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcJCzekFElABPRPvKQRStJO2BC0QVFlPG1ormFK_uRia2wgM9HfevOZAXEthwOyrajU615D6hWHSk-hCLVFnXTCn9MM9mV66cetG8D381iXXlQ-66opJhLu2Up7v_s7U28K1-rLMgXSBzUfpPFxfF4_TD8_lMpPRQ2-y7b_Pugy7IooDNAQUQbTv4SJ5Kb94w6c6Rys6j1JTg9NFdMV51PGeitQD1GkLHbzsBQR7ViYSzOmguL7bmjIrcCvgfzg6rvgJqf28XfmMF3a65zCrX9KIAoEaLbm-lvx0P5EsaqKKwQ
     widthPx: 954
     heightPx: 713
     authorAttributions:
@@ -91,33 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMdM7KYV5O3Z35V24tI5lFl6gL6cnHBIa0HeXWl!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
   - name: >-
-      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcJuC3JuCl-6ehMdld7UhsTFHPY7IpZUWp40RQlSZUaVHfGcf824zroQKczSfj33uRTpFE68G6aXondS7Ji6tYja-37Idnf_VmySXawdEYkGAJp4RcmRh4o1wU6DtuVeeEbEOMyIx7qcv5AK2SPZgZGeuoA0_bi-zWWQISSftSsP4ccEAmkr6ysbOC1rF0u_jQcD9Ewa4nd4PgENtbwTfE8NfKoyyecYmGzjeE41lVHQArdRdxfrfy-egwsHfWYxvm3INvvbZ3us8E6117Suyv3MQ5KwDq5lW8_cfoxm-Uleqw
-    widthPx: 1280
-    heightPx: 1707
+      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcL6rTA3e9OfYXgmkFZQBiAlKQl1BZIzYEKEdksXy2vQZNZjM0WHKucpDtqOQ8wVi_cyCjeSEI8mGJN2GqVWhHfp0kkkMMSvM0hDL4TR8bTaA-nQ3JPZH4H70mbtIpKr80Kqof3zwbCSBZ1lCm0N4Y7wbLQMVPaDMsGSvgZZHSdltet5ZHqrYek0RCj_s336mi0vw0FYmU8lKIcHXWTNXQwKAfQSX69PhMwbDkNY0BsLn8yS5EAnFceWA6LfpAclfg9iC29qv_bM8FMy8oDOxy1f4Ny7LG6FmHSthm7M9XDCs-vpg1AbMml11m8v-88pdwSIPRRf_7wdA6kWeK1XX3-b5RkpGFvNj6rb81pkqrAkwaPxpzKn_rkcX0vsJHCvjxGK4VuJomR6c7GpKzS8oBXGF6GNiJUnW0DtLkgBt6b9iQ
+    widthPx: 4000
+    heightPx: 2252
     authorAttributions:
-      - displayName: Kakushi Izakaya
-        uri: https://maps.google.com/maps/contrib/104227799300223134782
+      - displayName: George Shih
+        uri: https://maps.google.com/maps/contrib/104027151676078068627
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXY2oPeGGZF9vxcMMNXs7Pz2YlDcry53S26mV3xzzrRvdK09jU=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocLhVQofbasWiPRalFuedTL8tbjIQ1gPVdB5-dCRd6I9ynZ0SQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN9cU57Blqt-UVhuGrxK_G7gfPKibn_PQr4nNE8&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICL0NSLPA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN9cU57Blqt-UVhuGrxK_G7gfPKibn_PQr4nNE8!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICL0NSLPA!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
   - name: >-
-      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcL-p8NHjhseOlgQ6JejROqIobC6_IXvUdXlGMpCq71DnN95fURghCJFkpSYj_qiVFHa-MhuW4MoyMAB9TT8yCMYmPDKikIpdc_kT-67aXLvN7X3WNEqVEpzCj8P7SpZt38FbTweyk4MTvzMBSfXAa0AIN1NA5tBw6SmWfW5qjClgeF9_vAj44GfyyNG57ovUaadGnQPl0sAAJW72wKmYRHSy7ZurjY3fV_EwPoB8VaB0rjcOLSvoZfzNGyIyL7Od6eAOEr--QxhBlkiPICDRbhbvssHfd5zvEf4a6eKU7zv9Q
-    widthPx: 1280
-    heightPx: 1707
-    authorAttributions:
-      - displayName: Kakushi Izakaya
-        uri: https://maps.google.com/maps/contrib/104227799300223134782
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXY2oPeGGZF9vxcMMNXs7Pz2YlDcry53S26mV3xzzrRvdK09jU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMziMdzH2gyChbMZhWcFg534DllYkkD2P618Koe&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMziMdzH2gyChbMZhWcFg534DllYkkD2P618Koe!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
-  - name: >-
-      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcIag0mMZXH-LerrM8XIVR3UrgFM-nmD2T5iL-0zQkOjQQ8UVCDRd5gEAsnu9tRBLcthpa-lpncxnhZRJ3rnu1K6ErsaxGUn4JQY0Abs9MsXpqI7MW7l1PancQbYrESpz_e3s3tXyf_elZjCINKVXupDY4LijPQVP3cGjn-UOyeZB93xPPKaZ_D9CjyebQaZ0U3Ik4iDVquT-hxHtBSz0YksGgIyEDqwB1Zsyeh3lLLv9VyGXsU5nEwsxruqkQXdxCMzAANfU9PDx0XvPyTqiJHrqv9qFn4Gp1B6hB-gX-HekZk3XelSohxiMfpxSsh3hGF8pKmT1zLAb37YbL1det16jDpKbetRfPDUVuCqmtXdGNL6F-q5W2lPIQ2eLTajuatCwiCUJO_f9o-BBzNpkP6kHIvvJKdBwYbXDGIvPaYCpy-0
+      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcIZ8jX5yxiW0cfVUyzgwhwbtS-RHIt-tdE6aC1rPUIrJhuTGEwTfUXc64D4qmSs4MkqxG3kyTwreIOpKglwXPyUWDsYpFfDtghbyTRu4L-HabU0nQi1YGvGv0sRuB0RrPGtzlt16xze0mACD0saqV10QLJRdanGCSMTRPe7Yy3ddPwNUrp_otA3S7SNl-hRc3w__BmcK_F_uQUxv0lEJ-CEj2TQsuOOt3z_LUkr79gaCUsc0Hc9R-LDc-KxsRMUDjm8lTsQi7-bgZPbcKOuEimUH59a_svepftFjpNndOJX92Vwt3VYtxs5T9mSzZtTJ1XDRarx8EUXJDhd57L6FOWKg5ySNa_zWYB4aRjddcxWZIcjBXOM4YpkjkthtHh2Jynnr3rp-q0GFBIayPHlEXVO2PsE_5UN8bKTbLG6DqXrbH2N
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -130,7 +65,72 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj-_H9mQE!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
   - name: >-
-      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcK7ODYZoTjlLuWRIqwxjYZBUcLL1dijzPOg0OR-wEr5T66JmV5-xo5C7vbLbCyeXdMPzNlqFF-GTpuFGW4dTuPZxnTfic_Oc0t3g9dOksy_YNFdwPAarsqqbsFLYghlhs-ASmeFEIwnQtGqV12T53AES0u7uFQLDHlGba1YXWansC9ClQoAjOJhP1Fr7vGPiIFN9wffvc__auMS5OVg5s5jdD4Sea_vHKDEtW2U0LAKq5fdXKoHQbcMoFe9pe-VA0_jawrMkUYHO1SCOP35xzpP7y_Rlf86gLPLU4zz31iq1-d0X5O33tDg15xPPVtEKnK_sbCWvY4wADE2HipsbPZNqstWqwdQl1kLp9uEKIJXtJccGF5jY3lVIa-8Nnz0kyZey3sxLomhOYH9FnBhIEeUjx90Oxpwn9QwWUQYIATS3g
+      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcJv8Tk_SUd-vk-7V-iZ632vmFBxoo4J6xvCXdlk0VcYD64QRzg7tmiFhsbbG8zPDpx2HGUrZ_0vlBEk2aQnyemQNJD3r-89AjYv5bfMjdEriNFz_Zb_XCb3ebJMGGb6XYmBZvbGboMxd8xtU6MbG0oQI75LPC2pxarIrhkOg69UIdkw3gfUEyo4khoWIsfanwkn-k6PcPhnBhbSBICMDyd1UmaOxe1VUc3OIcZQMwlPZ0uGAjYjvvkAymnRQ84zaUIHCTd0bmredvFRrCuvG8jlOZwxPMDKIkvl7gqxdGDQIg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Kakushi Izakaya
+        uri: https://maps.google.com/maps/contrib/104227799300223134782
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXY2oPeGGZF9vxcMMNXs7Pz2YlDcry53S26mV3xzzrRvdK09jU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNr9dF16lepoT7J8e1q0oMZqoZCMlUQGy298cKV&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNr9dF16lepoT7J8e1q0oMZqoZCMlUQGy298cKV!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
+  - name: >-
+      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcIa0i4KkmIjMSrsK5U8UGKGmDzLeZVNgPJblR0HKCxL_SxF5IQE4VsM9eX2klzuRoU4iDxcgt1-OkLpTpQlW-enMHUPDRchdcCMTMtXHM-O-kYH8EUKQGV-Lui3YAVFCaMjc0-FfwsDmu0Jr8XRyZrMU4DK8kwYRo-kWnVn4vAGEpvL22bMEiJhUFjkThYuta11SFbd79IF3OEmClckJlEvN0UPnPvD33Z8ktMcy8kRRmLLJ3ToSS1JW3Fx0N3GRkDSVL_uCIf0q45RCXJCuvlTj7vr5mjXEgRBlQqZ6HCiP9DA-55Uo1TuSIIJ-yAVhQv6UphRg1c13HbfqQL8YRftWqK_seJJYH19itWb1iVzjzncI9FN9loWTvBoxdhrNUS3Hxyd4NHWXsKqNLylcMtoHZvb-tbX5Z_zc6d--oFxP_ig
+    widthPx: 3413
+    heightPx: 2560
+    authorAttributions:
+      - displayName: Mark Ho
+        uri: https://maps.google.com/maps/contrib/101206213196087900902
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW-HT4lSQzdlWDKd-pW4yrv8QKAM8ERrjDoZrcQSOOx5DrxOsDe6g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHktnfqgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHktnfqgE!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
+  - name: >-
+      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcL6qidGZHo29E8jcMA2bEBBIhJnTBWRw7z6_pufDH34XJzWv23DpnS47Q7hn7oYkgCKJjTW6kyxpVzWULhApsq09vY8EIK6t0izFZqr5FbljFvyr5ZKx_kPq0kXAJXZf3-giwPIM-zZ4jU2GLpaW3hl-sBOA9b41-n8U-wUX4ivtG0NqXCoWB1vY2b1iFwJbvz5w7AXsYWncUFzx4A9TXwYKj9cTYI3-Z5GRwoTSgqhN33NirXEq4RYdb1PJ0I5pQPizhX6d1kZNmBX_miINZrXv_QeQHFWe4c7zv-zTDANdGBcehXwAZO1TxiqVJ0C3mW572o3KF_1vIT_ph9N-hdr69W3bLNDLKZx0uzNxKwWufemB_ZNNjkXy2CWLbZOQXk1dzjBbIHYxrsU0uZUPA6jFOPrMzJ9zHieWkJSqstyg-df
+    widthPx: 1080
+    heightPx: 1440
+    authorAttributions:
+      - displayName: z Jerry
+        uri: https://maps.google.com/maps/contrib/109652422385473064948
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLcaFGoEcSqGTnqEs9Yw0jjH4-RKWEXvpcnAlRYwDr54lyXFg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID1te632AE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID1te632AE!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
+  - name: >-
+      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcKCv8f4k9zSeb5yM5t4KJ_PUqNqqsSMfidRy9q3CH4-IkjEa4nQKQYIp5ddj9mrWKgh7eQtQyqk-7HiXsf4_WG_RdWvHPmdkK-on4VKSKrgPaJwon3_ZnvNlMsNMA-tkCcC_snoweCX0GuYdFJkpXzp-IImFpe7uD9MALK0Qk6Cs_sFk_mN1KXthJiGiqEuD4qgBmOdAE85Wydls0LroaL-mJdpmPVDXEh8RBb4wErIh3z2gIN3lGIGJKtoGJmnXLyNRKufm7PfwnaCCIIAftajyfjzBtcjl0-Q5k4Ldww7VZES-uBjxA1IgB2jxuBdVvIaaOPFgKnARM5hRPL9gab9CojCU8OO6A2PHMCqd7AQVRW3RE-Y7ZKXIKVBB_vyEW0XOjpbeHLh6GcntLWq1uIHWMVX4YuNxZ__uyLbK_3gCbKz
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: John Louie
+        uri: https://maps.google.com/maps/contrib/105567469817926219259
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWNa6xLJi8PhPSjfBwlIRsBPCRqFRpO3fhUXzIuttzWNdZVzYA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr0YPhygE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr0YPhygE!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
+  - name: >-
+      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcKs_lXNm1XbHg6a9v2JpiwsqALTXb5JuVb8OpBnAbT2XbZHzGpaMNfL5OXz9u6eFnHuYy-50wvdhGa9gk_RZcch4mX65ri-PrIQpZGzzzkF9rp7RgeGXRsU2_Bckg6yHL8fO5t-TJR-qDpW6-AYGWoK1YhYSMLzL1vnBzzU6iHo8hdx4y5n76EPUOpfCol1Hh1WiQ2HV9xN7jJxv2jSovJ1NSoiWqasfXb2wKMN-uiVdldPpbMI-9lDz1j_CcBghWoI4SIzIo4_rEB8RU8JGAJVpNQOKcSzGylhC1vCh0UYes1zjbuD_c5M_TVHfBXUKeB6lyJNdBV36FNrkSfAku08xga0zdACo0dwbd0YMnTh5fZLLLEsZqXZBMiH6drcaUst60FgkeC5mR2TVqhMsyKgX2SGHOtfX0x5rz8yNXyIXA
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Jenny R
+        uri: https://maps.google.com/maps/contrib/110421439130577435104
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWrtga8AfhOgiJKuQPJFl5K3E6mwVgm1oYoc7cKLhJNak2MePae=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjj8iCMw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjj8iCMw!2e10!4m2!3m1!1s0x808fbf45b4d33fc7:0xf0bc3633bc76a329
+  - name: >-
+      places/ChIJxz_TtEW_j4ARKaN2vDM2vPA/photos/AeeoHcLcEmlPXrfQoNIPe9GPqssJj0Zova0c10nEGhV6Bvm-9WcXd4OjNVNNwmyg3HPRSV74qqM4vjSFf1Uw4A5d_E4mwjPhH9O0GwYIYymxQOD--uV03tcjhA8QWh-PUozFIEZl9cHLiWK6CcNPPQTNw3aAQInLbgCGWCF7S-kWUYB7blxk_dPlbqevUPLSd9L6Dnoruk4g44VJqzUavntWWq-SO_gGPcuzJRTQeMyp6rtG6KYlRKn6ZWIU4hGc8lf_wkuzedRVhfgQ5u3CRy0LziEaWdkPPcfhY1vzEYBsUKNZXNtNdaYO_inK3GEbFkhvNwwVnR33Rt-ZSXSi7Be77QgI8uYTgCSk9dnbaRqqkHVrylsjTFp4TYAZ5Az4f6CIh-7cKhY2PM8LZ5cIm1oX740itOTk4hoJkcaRB6lIKNUz6A
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -210,6 +210,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

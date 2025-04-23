@@ -13,7 +13,7 @@ description: "Neighborhood Japanese spot where unusual ingredients make for twis
 place_id: ChIJCcINQEl-j4ARRypIXsVSEZI
 photos:
   - name: >-
-      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcKObYSkqEXlXROgvJbX4wVoRh7xSo3UypIc4Eiygl4SKYCNwjeDAjkyD2c-CSQVZ4780FpjjhYkWaUHhgYvwm84qxNoPGtos7oMnhTmQzZkZ3SMItlSJyLxnN8FPvcUYf3Cq4XDRuV1_utPJx4HVlUl4DKnlaOIWkt18CjTXgO6CgIkE2-UQ5NjzQCUJvUUoYCefoCieKKl96L2DH0r4AHygBkOsF3PbYyo03yQ4EgH4OYXk1OSe8td4uz3nzzyH1xjkDc_KSBjn2xMv77-c1rCnepl23-gMXa8pl14YUzspA
+      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcK2izFjRO7V5ZljToUQSEH0N0EKzXWWeAc19i_sUOVqrZSr1FzXpnCh9u5Ev0rUapx8TGweCwKyDOxF0WQAG6ejw0whullakg1bMhy_uHQIV9sFhUcbjYD2aqXpWwSti92MxbKuPt1L4PGjRWKkRK0UDfykWXGfKyBq6oxguIsn6g-ciiyyn20Hm7DVQDKcqB9gRVNTzB269YWa-4WLl1nRYPSYNmJwgQ2c5jo9yXwon36m1enSt-ZHBjC4OYG4AH0pdq8gbXSoIMWqwjUnEFu2aBHZcIUrzREUqc2zbiJ4RQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPTiOhBzTgFdFuoKomM5EvQJbMKF7YEFGpnXv1S!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
   - name: >-
-      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcKw3tDKdhVLS_bTbXdyh_glQsgkQabx09L1om-C4O8_wfVVqQSQLc-mUHyY0lo8qqoTT_NSP4EtjSOmIJAP9nUpXJNmhNETIkQYWTNU0Y_qM2d29L69eKZmH2QgE7RaQtklLsxX8fvY_ZayTubcBJFGTXxesHQNQNj_pvpE4MQnRiBerS1S2xafNU9r84uPfbGEOaBsW9Fu4DIfosmY-0-Gndros-NQ0oDlLplhBhMLm3Hi7ue_Nus4xmwQjN6uL8ukluT9D1qfE176vitCkHfHyLRX5i0ARx0fs-3bbz3ZsQ
+      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcJkHLxTFX8SaqDi_rJlFDp3dLYkjW7u8hTfJ3GuKD4ooeAQt4td4ugp59TaggiDupClbVq5zoSz3XypBl3VB5zTUwQa0o6mh905veLt91Fsf3Gn04H9TAcLwnbpXyp-y4iqfhzdOQIHlZoCBz6CPDS4QhALB06mxxJ1vmb3E60DZ-bYFpvwSAj_1zgBqdK53qSFWULKJJ-32wQldSBda0W8huVuNVHozEN3eL1PcOXXas_zZidWy6rTh5efj56ucFa5akWaGg_2W2b_rK17WAXuSXHjz9Nqk-kzhqvFjbKVdg
     widthPx: 1800
     heightPx: 1014
     authorAttributions:
@@ -39,7 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO2u30qC52loh7g33tF-G-p_ruUYoHJOzY7m5Ww!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
   - name: >-
-      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcJe3s3aeWHGhjsiqMLDrvvYeQD2Z7UFV99sBl1QQRyvjwPrtGo8CxZecl08UUSKnTzZFkYgbk8BShPfMnSMN8yc0wHTTL6d7IFEIXjsTemdnILb0wip-Ilec0dyqKpfp9g2iFBAbijCSQbLBpwTGCxIxJ4luk8ElM1bjUo9BfMLjSr0ffwsNcvfYQego0OwGSWBLcHKG81_1D1djAWHNB86WcxH-TDt5-LFpPdQrEOaxosbyFOh4btBxG9rJOAWjdFF9_m4Bbg0lSxo_zbOVxZc4MUzjId_X1cOSqubUY0gpQ
+      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcJYlzJEYVJ3wQJZErEOSKwxwRp5Sztv7pStmTLaoi6x3heHl4IJwk5jY4qnRsIcspvExXX_6S3byPP52Lqj6Da9q7jAO8P1dCk_pPmdRES-7xa2PuFu5wWgIjxI7W-Zdp652P-KQXOQO3nT0dCl6dK6dajLrmOOM7fpP_iEo9fftsqMaqe6u_iYvEvcAQVML-he0YkB8R7k9iZ3QArWsGjbmlxtMBqvGnewFqiDFySDKomnv66qBiRMMk6hEHygo1sn-NM8CTOsdhnU81uLau-iEoo-dL1JeLnC4MlNEU4qTg
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Sushi Bistro
+        uri: https://maps.google.com/maps/contrib/116541597322184935832
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWArIuY2oi3w3D13Fk-6vmb5y8WkOhOLjqUXVtUGc5W4NkuNZNI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM56TWp8zq23_XRKV_kL7QrNYVuWZDxIDdMZYeu&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM56TWp8zq23_XRKV_kL7QrNYVuWZDxIDdMZYeu!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
+  - name: >-
+      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcKaZRFtGhjYSjwfWyXMr-xO63NX6xKcxWxxWpGTBGOiLpJB52fDaHiFTl_c66O5r10jKZmDf_hQWvkyv-HdbmeetRJxYE0I5DjHO6I8DEDLMcqGwVUccsXy7-n9Tif63bXMyf4mcCcom1asYRKcYIdEUb5itaZ67ebeO6u205VV3V6YVG-O98evA2f4lMVHy0GNvXkm9TZkZWxlXeXSROdzHSDHnXoqhGyIT84PeCwNqS3lxU4QVTennj0LFb_KouPPiCl7TDqEyJN3_EusyzNjbZ74kkqXj_5efSKBtQUHeg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMRC5HARYWaLbN6uIIHbfXr3MyLB8r6eejfQwup!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
   - name: >-
-      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcISmA5gamhACPT1W9ouverVOOImvsvbyg2RWXwWsvRDnCyLqxX-FOyQ6c3VB0d7aB9I5jViy_U4RMEcVgJ05RzdDzF7y9rX30gH7sHv6Xs7zHX7uiz8PQgYKQl2velwpwvLMTfougQwIlpZ-p-17AmzA2OxHtKPBtDnDHuOjSIiwcx2_6RbeWDRtyVLsf8lKcQcY7AdvXTY74Ao6F-AWj113qXIWtsZ8pXNBoi7pbWnquO2DuIzB5yZX1jGYFO3GSKSslrDsUOU-eOywzlmQnJWtUIg4pPThRaN4cmKn00Omg
+      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcL4YRUww5YAPHjgC3l-DwTCHrzG6t3sqngpSwjYXzm1ZtmiTaAGrIdrnh9s4yIbzq4iu9or1d3qxf5vvBWEseHizIG0NnMtKKHFhBKQU0Vh8RawTNH2vsK1771NVMa-Yms8T3VxvQEVwC2YilAH8FzEae1hbflz_ZZ1bfWQJm_zjOeX8VfVyIohGMV3bKzXnbd4h7XoMmkcL6AM6K5hd4DaUdhizuvBxVgZZ7UZHgrRX6kGJi6TJ4GPeMsVXUdX52CRSki_8D4KfnGvVqFd0e3WqUeiWivoAO21IOvbAF61XA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPkRZPNEOkcf6p7cf1AA_jpBGawCUTtwkjPpftu!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
   - name: >-
-      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcKOb2324t6K1o0f68-s_JPZJQPbJyQkxz7LZlS723Q78Wwpi6Qr2ApJGl8pEqf-YxyV5_V5WnjjlTvwX9Ysz9w5vu_I7Vk2xIzR0UYROByV1WgR4K9RMLPoDQlvinns7cS-bBZQ_ymbun6F_wm1ZHLMKW9IUb1fAN-U06yNBWlH-afXhv1qeyRlq3ruI5zfyfZh-dSJJj0nMIvPWSB2YA03gSniEOHN6rQdl-Nt65YL-ljWyRcQHwiJa-uRHhnlFxQzCZ-l88VgMZVnp8lGi3PUEhD2w0nNYK1pj3QeJrMrJQ
+      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcJPdzRvCuQKO_v3MgzOUBQn7q-wpOTX9hCrOGDbFM8tjOfPjla_xrMhBuKxy0M8W0bwYOap0gEKu00PaAczyluV31rppuKB5FuuZJI9rV92CtFmxPREKW0i4MTGJl9HE04NmWikwrwASpwh7Exdph0REb66e6y7O_4VaAHoqdnAAls9d1y148ux2rsqPAAbDSDHnycuH7aPihEYrzL6Ok_2UmkcMIH27GSDpFUT8jio21snFUCeqM7gCuGjv-JIxhnEAqoMBMA6ixo7lujS1p2HPA6UyH9x5EVmrjGPskX5aQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -78,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOV-D8l7GWf93Z-2SgPtNLgaPFy_3mvRPBldHOB!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
   - name: >-
-      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcIDZ4p-VTgG8IGjYjsZdNgbEw_w_rcDspe0gKhMPmpP9aTYJgOJPwwMuCPD1bcDaSTUPBLsxrhcsv3dDM6bCA9M1sG2MYdHau9mVMuJ4IY9WygMLiWxvG41Fyk0-zvykWiKLE6NLbUPIr6r3KEGeexmceVUC96W_fzonqMkdzj_WcaFbQwaWGFzqpkR7JYP6YdP-GCMKRO_THsZsr2JubB64BH5eS7hbbM9ZQI4rsqwxaz6rmcOeFqe1JKEWnyCB4koK6Y5FIcU-gRqIG2Etr_bjbsW5QpuP1Gnsq96Xl9YUQ
+      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcKMILVNHox8OPd-_hDHJEXEd3F1sEnDSx28cRpV5u9GEOv6MwynHOHMj8AXGBwM5I0ocOKyAnbaCOMhx9mE5N6vnMXl4jp9lfrMaAFfO5lqYBp8DEiUKKmY3nMl73IrYnft2r_hqb1rbGLIVaXWAOpk0qZGn8q67nor_h85WRLUuB5CO4rt-rEAdMbKCVEKiGmQxk1y0wVobT2VnNHEuWq9HKuR4Dpwtou0-Pim3P7_3_ryy8DuV2MdkqrXmd-7vZosKxovZseqSU67cFg2RVw_j7fgKJkrc2Qw5GvPPNAYVg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -91,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNZFtOSMqWjf0pBy7-wyclIekc2K22yLOAh0MJ3!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
   - name: >-
-      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcKO-R-Pm2dLiKkqPmpVEFnWuQxWNwzc6qIuYCGeMZa5169KnoZyJd4LP2lLA_sZJNYFa1E2yRKAdWfpleI2wOYVtAP75Ia_3uRHbt51M1vu0BozfZp8SWW71R5qe7sCi2pNGRpb4COUbHRci2ebC7_yrkUN_6a3SwoyajDB9yW7LO0bngXuV1YBKIrY2sf7v5OzUxFuL2Cf57QyjB3EVbJKJPwL9NMv8xUA8q4fCvlS1bwq0yxWDCjb59VQ_7v4oFZMBMFmJHldk-CxQGQ47yO9M8qYuZf9j6tOApRWra7VZw
+      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcI1jHKN8c6s8l_qyAZ7jvJo6KnMYv1zQJeBULx-tdWGLs_kbA01jKyy3NAtOB_ZEt8PvT3idf_1WTN7h9VuRod1UWM_8icBxEay1TkvnN35ZWvdaBAQ_W-r97ImTlWA1jeJwd4OBYLowYFXJw5rVBHuMWkUuhSWhveA30bxMy5mNXsJoxoqww_kKLNWwmsnGT-w5v1Vxb0yqL6DiJ-UBY7jbm1IyUzZmIRk0b0_G075lXtIoZnBwln_84aEUBgxI2uPatvjEng9QhT356iZRPQmfzdeznNbWBr3Xp6f5Vc3zA
     widthPx: 4028
     heightPx: 3021
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOV2ShvXSkTsYhbi_MoIfIPOB8Cym3LKq7iR3zi!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
   - name: >-
-      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcJOn19GgovuOYn1u79Y5iVLeu9LksgZUMfG5srumStZgRYz1aN5HYjhGhXbPKBYtqg_ioGkRQ5TteWGB1bK5_gomhVVwoZ-ACZ4HSHCcT3euAlM2oBCz9H1WL39_cPiRJXNyQQ0Ah7-C9myd4Ena1qc-h2JQabC8-0mZ6NX-uWkdlPPj-3VbdpbVADZ9FFQI5z-KtFPboSAUD5iKdqHBpoE5n77G5fO-Crpgl6LgNKWavybgkeRwMAlPnRu53fVdXKCFIO5TBuWfOiCHfRiBXR0bcgpPaQ0oqDu50P4sujWfA
+      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcLZZvqXhxkGWP-bFSSS3_w_gV08R7kK2otJfTUOAskdDYBfbHavcfRQh53sKHeKykm5Btps0_XS1Iwg_RYVQZKCR8C5cEHw0uLkODvTPl8DfffUU4m-TbN-oceaf4jy72Ebq2w_U_50VxlnHlKtEqZIGlsZRh85suSDdcmsyhAumb-IGibNaN3In5YaHBNAfN9_CLr5R9Tjmzk3n6lZRySxwvI7szkcOFzCqDupM1Ip-UEYtdZ7rd8fwC_2qU5rI5q_ODCPJuU_GGSsOpLonFZKpVvLxc4C78ay9rJBGubcSg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -113,11 +126,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWArIuY2oi3w3D13Fk-6vmb5y8WkOhOLjqUXVtUGc5W4NkuNZNI=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM2RNEHzsT0xCVvSFHCWzgKHRLumM8pDpq3g7KN&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPbso1YYCKwYOXGKZBgrwy87FYsz7r7T4MLo8S1&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM2RNEHzsT0xCVvSFHCWzgKHRLumM8pDpq3g7KN!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPbso1YYCKwYOXGKZBgrwy87FYsz7r7T4MLo8S1!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
   - name: >-
-      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcLzvlWIjPHmmz6MQkyoYDf_QK0iH-uxWGjODFhrZu_OYo07mcY81cornCQlRQxYJi_7l8J8tPiGN2nxc2cezqpLBpaB72RlJqPfdkWHrkma2e3G0AL3WGRJs6skhJxn1_hZaJJ6F1dthrbH4TkeNbHqnAGgJnAXyTiyCGc7EMa31bGZS-YjFkonjsU2gAqEDpNiPzfuJQaw3T4ee4eWR07sywqi_wO3j7vdwbH9fj3JpbgXGtwE404LJRVNNZY_Tti3gTzih1YOuxfKlvG4OBgM0uRFpo39u5sMdk7wKmQKiQ
+      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcI6HeeFPwAgLmmD8iVVkwYDzzS_m3m33HMh-l4LfKO8AFJvqIMszsb9g_wP70OJDsU39Lq23RKp-H_IZAKdUIhi9uFyrCtca8duhjgDsxVeyVBAQL5PvhD1RvpIWsMP0qU_Ffjoluz3_G4aN7X3MSKNdLD1J9SUU_hxA_0RGbDL3B7F75dppwqUcJ0Z2-omRFkbwC7KwdtMpOHhcp_4EJbAouIAoAMFJnWcLNfVX-Q_uC5FEcn38J4uEVQfZjTAerMcScr1lwNwn0Hcp2bGW4qw1UOh9vi9-DMiTBEZhRm3rg
     widthPx: 3024
     heightPx: 3168
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPjxJCXtdzhLGd7g9gl-6KQGplv8zOk24pRNWWB&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPjxJCXtdzhLGd7g9gl-6KQGplv8zOk24pRNWWB!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
-  - name: >-
-      places/ChIJCcINQEl-j4ARRypIXsVSEZI/photos/AeeoHcKDQq2Fj82p-xag_OOjXmfFhTPqieHgC0sJ1bLyOIU2T-8h5GO3mpcnP3tGscmsSge5axC8KsESavKd15IiMXo0e5gWVEfdvMfSAHWt0NEF9Rc90ww-JuKqL-c5GNtyZ-jtxiaB2T8w56VwH4B4jgSlBvVaA9UTltVVsP8Td-49-IVUKMge9SpjASYFHFwH8pBRz4hxl70ST2039WISHlAQBqAiD6aWJvU2BVA_T40-oaqY8JbxUDV30Obsca5HtdIiK0f0CoGwufN5Hrqe6DKSF4sQERJbpBhgF8EIrEmtlA
-    widthPx: 3600
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Sushi Bistro
-        uri: https://maps.google.com/maps/contrib/116541597322184935832
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWArIuY2oi3w3D13Fk-6vmb5y8WkOhOLjqUXVtUGc5W4NkuNZNI=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPAGyE0ZUOzmV7DDbQhoYTBy--wOlPaWAtimN2z&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPAGyE0ZUOzmV7DDbQhoYTBy--wOlPaWAtimN2z!2e10!4m2!3m1!1s0x808f7e49400dc209:0x921152c55e482a47
 address: 452 Balboa St, San Francisco, CA 94118, USA
 street: 452 Balboa St
 city: San Francisco
@@ -182,7 +182,7 @@ phone: (415) 933-7100
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 289
+rating_count: 0
 website: http://sushibistro.com/
 reviews:
   - name: >-
@@ -365,6 +365,7 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Neighborhood Japanese spot where unusual ingredients make for twists on
   traditional sushi.

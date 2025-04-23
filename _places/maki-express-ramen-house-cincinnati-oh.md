@@ -13,7 +13,7 @@ description: "Maki Express Ramen House serves delicious sushi in Cincinnati, Ohi
 place_id: ChIJW-JqKwCzQYgRfbeEL3wikyI
 photos:
   - name: >-
-      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcLQewS1k6ASIEqjKX6aVDNKNVRFmsLWZfpIrEhdSvb3Zqnq5hfbu8GBXmH0xOThjJqDtUeZMxaf0IfwkZXcPDhqkhXu6cOTzocMlo6ZTxHFeTKk13t8fXMInRWMPv4xgv4fvfsxfaL_RgCDdnjjneXQ3fU-O3jvE8SmP2YnKNVDmEhBbEZhlFlzkDFO165U_Y5oNZ9tgcN1z_ABeNCxlfSqUOGoCvjGzC8FzvqY6vCt58mT7eskiLxmHFBArFtgFlWUAtp-lHEbjw7CLWjeqJIq2Yx7pe9V5UB28txGULSe5SN770czznXoM9oCMswAvvIwbIARoeQzyBp8AwnvUauByE1rgxh5ZyTtStBZ7x7eu54_IgIOS7qibSUFPeHh9lf-fUgGdfCLeZ861E4oC0GyNqOQjT5cxMPMO4LLoEQiUQ
+      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcI-HPOI54j6ueU_4JJMehSTesCjj_12AqvlGziVLjQsjgdGJC2rzxOa-IIsjADIHi2w4bYGMcJ2ZMK25DI3fKNhuhGUvrPTDxuGpNb12A-gd6y0Ff0plIMaGnoMX1rQHCJzzfZW0jLjdohKO6gtCi-QyVLZoTa5JwdaK_tAS6EwP08H2RZMke_fvMfIzvJogndkD-bHhsA5gXFamWkQXJKiL_MJXfzOobsFqhwBS7VXKvsZEe4Px0WElvBNFev-9dtLKPx4yL4r6HCLqnGPbWBKBiW18X7Buk249g4NE8sBCIe9lfSlRl2sqKxrfPg1oxmGbRuCeZArKNEaphoRtgo-YAW9AlkyEvnPXw2_ciVIC8QPSZcmKyuyn3uWiSE1VPX0-kpXkdT5puDcnYaWBcoUCBot6oeRgH29tSrYhW6KhA
     widthPx: 1000
     heightPx: 667
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH4YirFQ!2e10!4m2!3m1!1s0x8841b3002b6ae25b:0x2293227c2f84b77d
   - name: >-
-      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcKYWNCFcfaU2MoXbkJm7yD-9Unev5L-EkaHHpg_eUDgs0aHVlHcQFfJU1hPceVMnr7CWjRHcMIMsUo6lPDjlmgiU1qrZNzylJTBBfaOi-bzGhocfqLX2okU_pzsanBPAGaOcovrqHQ-bz0mjm1P8PqK0qav9x_eMGsy4kW44fPAYQUolGlwiLTHR9hPa6a65OkCbFFWpc8aIxNfa-XkSY046g7sgDUGXsg5Ieb8lh_ZIGLWkglTM3Wf6AfzOjaOCV-SGRxWV4wsssi_BToJGdkod2TlWOfqRHroLR84n6ysNmj80xqgwCMyC7amfa6WcK5fH3r0WGA7B91KIQHB_YaI9Rkua8RqKfoDpZrkZqXwOE6OvNeYIqWzy4jDCDvrsWhHBuN7EKtjMeF0UQMlfCDPgR5504Oa3vh7QMuztV2-I2_8
+      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcI_j3hYA8BwYY2D_69PDMgceEHHp1Q8hub43xL_-QXGAyYw7R9Lmakfc2f1dcY2sld5vcT2vhvHgcqp8j1f3h1w9XPLlTkIr4G7-Pp98eTmvloTw85PQ-vSD2ZEDFTVMTrC4grnplund8SH487Zpta1EonSnOYgbDx_tSd5pBexFSl7o2XfWMsU4WvuVgXBgEO5ixaBQeGuioTfPAY4VnluM92W7mZ_rR7xMvmZNcwf3qY_4s8eo1YXlxvZCdMJ2_hUUHWTVm8o9Z-vlpC62JQd_SscGscFINIa_7kvkykVeGBZ7PZ2mNy0M3SP6iq0J8lIGSVsfWyvq4WOrCkN3gcxkMTc6HRhWd9w9HF7F1yN59fz68fMKspDpBrEVIB29KjbTjPEg5sq37TZ6ZZhHNhjoomDVQqq36waXcHCDyOCfYJ1
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_xIyMswE!2e10!4m2!3m1!1s0x8841b3002b6ae25b:0x2293227c2f84b77d
   - name: >-
-      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcKNC4TOnpyoXWvZX-8W40dmKPBKiuTtUe0LZljyyiVa28wmwvepRO0BZf4GZRh__gXC90m1_6q9M4JNQf2ZLId90CiXt6cvOA70lTE1lZJvepSgDorprDsCPsKnbcCI9i_iAeumDFN3DEPjs2HfHSk1xgXyzBLJDUjhhpQzE7d-9Fchx4bmTCcGLtypcly0-z6t1FkslGBBZXDFXbpXpBKqL1CVJJQcRDEzavuXrnDEtgYBYj49dQbATzqDPTJnwImp98DM2p1uLwvSiR65f9oWV1cEM1fuRj0aNr6xNPk9_4M0ZwUazET9vh8lUUdh8bZswx9amK1G9GtS05D_a3jyewZOjrAtG2gMyUNDwoV9NlMRURM9AsiF9lHAK4-oJbRDKVA37unHYE2oHnpqDhTwJIHzHen575IOw3SZyChJIQ
+      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcJ1UI9CNFLPqcY5SE8q3GRaTLRME1wtZ4YJWUWY4LbeIXTIvFGBMEsYoFK6sLQ17VENis2jOXwpXsxBMxKmAycRR6JE6cMWu6cLHgyoiZeRAgaYoq80epYF9Z-FuyHDQ0Vz635ohWNjM0-ed7ixxeryxqa56V59CBsUCQy57BvLK2YFhHAivJbLB0MV-ZpsWkBdKprKHgttAYlq04GeGQPNnUYdcLjlnlTIqjgsGPy-2yOROIZ2VRdXveonvwvqOqWKG_PZCAWfjw91tvHqychFTH2oM07yDc2cY9B3A-ABzPZG2gGrFJs_1KBrNjYPkqtwbtB2jOKXZhmA6yAIQC8EbWNPS9fCbyfThm1scfdZGbAt--C771OE42JbscyCWROTyDwy3erSAaPpRmPFVQrLbQl0jvZhEZ3Dl8IQrUuqOw
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_xIyMcw!2e10!4m2!3m1!1s0x8841b3002b6ae25b:0x2293227c2f84b77d
   - name: >-
-      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcKGg-8SD_KDD7_4KuJGgzleK-TUdDzqzmRti5EurzU8y7fd84mjWNPZaT1U-iqq4z81QQQGlBmU9wLk4Me2ZIq7IAfmgdiHNpLYQvoZPVzD0-qFaoB0s2pILb5SKBDJOjeHtsgiuqwCHFDvrWB3gdU2Ne3B7-dYSyE9mbRmU0xEGrhcO9-swTRUl_rzL7_yS6M8zqgO9YgBsQXLTdFUyaWi42r2wQotO_B50kTNA7f0g7CQLaW9vtzwwRhTr65YyUaAR2CL3Ly71xfAa7hWCjVLi6lYkbWCLZkhjVa-FOXEt15j1Nz7R_j5aKXkJvgnUnIvIQfeZ4rjHsk607rgj6M0pWEoaBjHqdgBALyx-Cz0dVRn6pJLkUJpUGl7FuTvTaiyzUSdf6J5UpoinLBV7T2A_pN5DDMtSQvKKbG3RrhZ53OB
+      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcIBKM5kMZlOQ_Rr5YTObWdgkPRTjRbgFiGHycYzvvukqBUcPK2m6IWq6jZlqkx_36u6NzbCkUvhsr81vtcEWtUWTTEUMzn8ZvEWQnam0Po6w6eC6kFbNvLxT-ifOXFrhsrJTs8L_-wZhHeRTBfTJQ4YzsXuJjIL_qlaWMwF7NflyZpmFrT_UcThjihd2jvPFdAPJotakeJxBEQWo6go5NTEKY3MxQp0VGjQ5h_bjSJltwz0-XVdskSlx2EU4C3k9MuJgLn5WsxUTvdzXjbUKOXga3BEKaXVlHAI2zs0Npz_u1jWOLalhOrijpJLpyQFZVtMP-VECi6Xz5EWzm42tI1EkBu4MiHt5E1f8dTy3xCEnEccUBhDB2vobQZM-IzbK4IZpX_yZlA1AkLTJWDM32BIMfLHMGXO3OJrq_5aVT3Gua0_
     widthPx: 4000
     heightPx: 1800
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb39Wm5wE!2e10!4m2!3m1!1s0x8841b3002b6ae25b:0x2293227c2f84b77d
   - name: >-
-      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcJZzrsvR4j9Tpuu96i5DrEpMszufWMALLLKr-n_C_0a-4jHV41FJUFbIzbCedELNPBmzJTGOUD-K3PgTLEiPLc0Avr__7p3Cg4v7iSzVOo36MaVXY6ctCHYt4xb3mFnxfH_F7FI17eiOiYm36GjCU1CqnBq9ETFnf2xpOtGWbMIGOiOwUG980GmE27t7fXzMKS3Q_d50zGhtwdFqoCQReFXIoxitqAFqC5w4ZbMSLC6hYMtU48PrCelrCSMfNC7LzhkxGRMUEeOHCqLGgbq6EXqdR2luimUQs9lBPat3bNixvdVTKSi_fcMxeF6EjkMwNlYTdOiPil9jfaJj3wMGvHwUCQsISUujZPDlpPt5oOFAaI-V72fsvdfWDsqtjr94xfKfrsZ9XxFqfnejmw1szAPX6_5GE1p8BphRwZWYqpD6A
+      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcIfIizQ4gisKFbRJKlPpJK0zPhgQobvH3_r_bOkvJeMaNxsa1RZWXITBwsBBvyA5O0HD8AFUy7otXS-yP-pQ6dJb9NzYQl4CMXGRuHCdFZmYjasZaevSbfuhlu6h_6shcP5acR2M1fe3ouTj70zf9rR6ckTbfLEzHYQfwlUbo2jZIVfKgMZWaa1B8_-U6y0lHjR8qJ0K8OFCh8XrLBj8elTFD6130606IM9y6aYFz0f9283ZU6NjOZGMoCkw16eg5-X5bhEohspKiwnhuKqE0EphoXpFCPUzB34M9jMmuTWYaTaSYcCUex0dMXlPKmIV4dSrfNLWA45agcFWqKj5hYBNPzyEDnaDWo7VN3Gp51bZyaD1OXVCrEld-LPPHwu_OjyxFSNOkSxJUsXNq-UuAmNwxi5i21uKqV7UNiUZpJosg
     widthPx: 1816
     heightPx: 4032
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3s43SAw!2e10!4m2!3m1!1s0x8841b3002b6ae25b:0x2293227c2f84b77d
   - name: >-
-      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcJSUqkGl_RziuJRUNocLKtiqguvVg3lrHJTcfybaUR5NLDpn5uroejBg7-KIgdke81JMTn2EhcJvpoyRGJ-r2yDQhCABRTJvQjxjJW7j8_ozxTxulfbpm4pdfnUAIi5EygoL-O165rx2OgK5DApCgPZWwqw3QT0NIpDJT0V17TGMZVQgW0RHr5G3F03R5RavY5weKUyp6VX2jBupPzFHQyXCPczMxAwC6wpWmSQaQpTaSNMbvzJ-mtIDetVJS-o6DOiMVjBsmbmYFw01-RvVo3_33Fpfghyk65GFZkY5msfq2XPYOF_JSpBoFbiYYEMjobLWJapR3RyNnenvXoFYfF_Keb4CiprAjNfAWRM_3Xc788YEpQc1gYxlj1DIXPg5tZ3l7qdZq2gPWv1X99DX1rzpr0LwNucOKnd_rnZkmwd4w
+      places/ChIJW-JqKwCzQYgRfbeEL3wikyI/photos/AeeoHcL6DGQF1OKmiyQLB739wgk4n0lajuxxYLb1mJ1VwsYfOwTsnh7_xziwistqDLzCf-6BHHPuJHXuPCIQu2yKq9EGfUo0R3KW1kcwm4IkoLqJjv2afEFEfb9bCnX7BHkjT2wzXz20Nza21an128aWcvaPwkdDw14Cb3gqngnjtNxe0Si-ealyZGBHQZZUcsu_D_sbf6TZO5nof7MumV_rimxXiYNrM960Fh1E_OsSEYn1dBS4JnjLCS_iXnjXAYIJNvJlN4rzeN0WNxegVv_d_36z52MU--fYFq2Xl_fewrvnymfT4RoxG0O-ljU6Ytp5dgj7wRRaxLPmjLgTFApxAiu1CMgI69EvSEw6KqKUy-9S56cZnqT7_FakbIXAjNKFeKs23YWMVk__3vROp8yNGbFpsP1dl_XdD17Y3VIXkr5h8A
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -127,7 +127,7 @@ phone: (513) 721-6999
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 14
+rating_count: 0
 website: https://makiexpresscincinnati.com/
 reviews:
   - name: >-
@@ -310,6 +310,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

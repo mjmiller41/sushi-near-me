@@ -13,7 +13,7 @@ description: "Momiji Sushi Restaurant - West Salem serves delicious sushi in Sal
 place_id: ChIJTduzznn_v1QRdfECSrlQNVI
 photos:
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcLxxXkiaEVkSPv3POmrh8BhdW5A9QS1Vk4BU7BxHrQg0SFKlq_6QsaT18gCod0CUjwvdDrH7POi2D9pei9JlkBCwWctqUm4DggtWum_7jFZVDl0LOZkeFFqV_EdBcVSEDadlaBIogAqKakAjVyGUg9foIbrngI6tCbsgiEt3lprEHRn0g0W0Fk_vfUy369-GpGL7OG_f5Us1e2XTlR1YzwKAlZvllGKwys2LmeFckNNl0lHQete0cb31JLNnwSdblaVRlOpMixI84B2Gf--6fhfEuzkO2uGPPr8eflBFnFgDA
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcLxoNep_eTq1yTTr4jpjt4jTMqrxL1IV38OdsWjX-vBzM28mrrGVrbd-EsfZpwA2F2bQLL4sCgtfWUF0Jv3tkmd0THc592lbkASox2LfIb8BwqdGg7RfPoFuKQcfi_F5541D0kKgYaCyHEkXQ1BZA2vDA8gQozqtNBoar6PdVzUJiwyqfhZcAViPnC32dtzXPWkfsrWvmdnjip80wXqKc5YGATpoaYzuNp7wsS8FmZZ3xRAYdmx44q7sBnkVOeVcmML4CLe4S6EqVUTRIhNCjsvhUnnJBaVoEvQyN4ulzDhoQ
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -26,20 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUz9oebDa8kdqICJDej7XulgZ9wi0ARp69cRNy!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcJvKz2IZ0LECeNR_GQscvxAdfB7CCLOR5Abp1fr2Erw8QDY0TDWjD5AUn5lAYazwPzqASqeTblrFxLEK5Ei_MnzV5W7SHNKwSSY50vsgyfvy6lX-0OAASMbvwQJj-Mw1V_Ce0APCUlwC7-xA7acKd3MPBUsrPUrSYkLvVd2Nheb9m-BKkfaye6eUWo90tMoRRN___2SMh33HWk_8Sdb240n5QDmB6vn3Ek_fN_DD9xouBrV9gufwruUJkLGNtQVNnnbcW8D_1t_tjiEE7hb9bh2lQnqUYtXdnwZ-OJla-WJfA
-    widthPx: 1024
-    heightPx: 576
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcK_r-gTzGQyFQXzoM1kQ-ekFjuxXyJGCH0WI3WfmQlt25pQUT6ugFpv4ymmP8gALnE_Ot2aOBl1RSF4uZ723fxO3ZDw9pL4b6BugYx21_kGr9agAUGF_um4NuX1cj1tPeWvDfESW8Pw3zukveXPPkpGGn-2TfntT4DfYPnSy9atc2p9Y0jvW_7kjBXWwHmn2ff4IqAPxL5Lun-s8hwgOegiRHbhGs47AyKBFy3EavAQy6mN_YtqxRefRLRXAOUp9J4ofB7Lv_gKys6d0ytqRtTfh3MaK1J-_I4aKR85w_UIgQ
+    widthPx: 4800
+    heightPx: 3200
     authorAttributions:
       - displayName: Momiji Sushi Restaurant - West Salem
         uri: https://maps.google.com/maps/contrib/105377205627005009295
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVHsBCrJRIvBKH0LE2tkzHzGqFEfKBU3qOo7Mo&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNwUHBzNFtO704ief-D4knA39WHrL_Xq-WnVu1S&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVHsBCrJRIvBKH0LE2tkzHzGqFEfKBU3qOo7Mo!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwUHBzNFtO704ief-D4knA39WHrL_Xq-WnVu1S!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcKwlhJWEGi63ppVsheW4sgUDd8DWexDndPjTCnJqIW00aZfxFKv3DFvHj2vSlJWqZyvPRoh5hn-JwtpR6aBz4dAKpSP1EGa5Lko4J212aTLRFoiptHpyrFWBUR1kWp2QSPHSzltQq2NS5JsM9bAfr0sSxYaHQYfYu5qrhpIXbAdikuWrkzWQF9ZpSgTdGa8g4neU_VABZlDNKRP4483cTAqA8C6-EM2xjmmKhJCI4ca_135vB2tTJzQRpXUCSlG4in2jXr8cNFAih87J7vrgIBmPmtNMGcz7uQDyzKvUhgENg
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcLaxZP1xvNyQZIZnrdzW0DxP7fkOcHf-lEgTNewKsIHzvY-K1VsuvIQ9vcSq0XRsqT05f7MKMG-9E3DFbc2oMvTrHqY39kRcEigv1SnORCYvVKmPvyPclZ4FiifaBOAoHIbIO-CFlJllURWLxYai5s8PEyPOlXxZKguyX8o3XGGytuYqe7r4ZSruW4cAXv6FjTv5n9KwAnIuc5RLm43ONDXup9sKUdyQk-Y7jVMzz21W1TJowhuQLuiFZEBK6BoSKgEVmCW06fzUxXAimhL3B1-qX_UsMhhC64xkwor2AAeBQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNOpAUINbOeFkmzLNBKEDKPZbBF57XI9-son0fa!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcI0Ai9zXgHlTdkL21OOSQ3lwLZ3PTbsnvMAmjcRP_xdNndlAzPrxZg9dAWdW_hcP3lVhDq30zCHPBL4XFhBik7VQ52JEj9VSjFCVbyE2XvgpamvKJWrrBN9P2fiBAv04TO68_bLVodMqYZYD8CXqk2uH3F27pRhoahNkQWC8VipPDKXw-qa220mBqODRdWqe9zsCYZQqJ6cfS25TNFIyaO151RaN84zbik5lmZTnVZHw4aQl_6Cj6I8WdzYq13K9Kc1T765xz-Zg5jIFrbSFKqce4NbjtynmxMlucGwWk-jwA
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcLEE5-YplnXEhnzRShSp8H_3cXC3BpB2eRfA6VQepdyr0aBu74bxharEtiZ0-PHpXBrMWYiRDAo6Lc6Zhzyz4Zgyil2h79r0MiXaPsJIfbdmqyKQ5giNn8jzGXUTOMwOsFCo1AhfknxbHmFc7tCCZhZ5n7gnvFZCd1n3YT4LXILo5ffVD500O9LMl3zezXqE76pNcFT8JGO7CI5k0GLSodXzWrwSpay5lwgkvXGn7aln2sjwvmyWRPyxQDpguL3i-De6oLWSJmUimskw-e6F9Sb_hn6XY83vFT7f2DRxbpjKg
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -61,11 +61,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPQl4KDcYTxvpvK_N_Cj68hb4oK9jtio2Skj_EK&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVHsBCrJRIvBKH0LE2tkzHzGqFEfKBU3qOo7Mo&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPQl4KDcYTxvpvK_N_Cj68hb4oK9jtio2Skj_EK!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVHsBCrJRIvBKH0LE2tkzHzGqFEfKBU3qOo7Mo!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcJtGft11PSF-g0JREd9vp_iCuiuQwpxzFLIRiMRdA-IpmEPYOFELuN5_e-tceGEsvsKrbdAfM0hGOrVs6mRIkL0leXlBcM-fGLNrL2mazzwYlbuDWBqxyhIBhnSh16PTGzqgAWyfgw7IU200w_YNAr9Cf6Pwz0wZbjbpDeETt1cRsHbe8x29phZMteCTLURwkK6kJlhymVXp5vnmPLGyYdiBhLWeO4VOhHN_rOP6TJYCwkqiEroY8QavNHlrBism8_hiy_LtyhqC2f7zxXO7eDSseHJSJRAw6TNM9TV-QsE7g
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcJVY2t4UJHo9BJMYMetqZF7vWPNZROL5Vc-QwKezj-RyUk3RChIk1h32gGPhd48pJOIHRHi3l16odp61rbRKcJhO2cR5ZwwEFbTAyR_AjXQQqpI9bGTvZQnCmFD_9fDNDOxp63IA-QYyX6JUxPhnT-sLBAfmZ2lpaQ-tgRwQ1J4veU5u5DTWKTbJOY8QDOVlJihGJg6vydvpddmQmnUtdhUy8lYCdFX-cM062oisw4bM3PT6xBF4BgqiOxKRpEtzilMxn40RjCYocITrctKx0eN894nz-hR4fnZRDRmSo2KeQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -78,20 +78,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNgw3toGAUxR_PlpRobcKjqP0DzWc9Yfc4CFyoN!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcJRKhp8tG4ejKx6I-Oa0KvMKZleVi3F1Yn5TwPaWOelHuY4B-mqpMtD4NyCZeKSdQPI-pk8HBQeCboerlBlCGUJJCSUeow7sJWvwuqQ7hTBmuagpjXxcaZxGnBAFznOh-V3B6JHwloDjdDrhTL_u5eIUYCDdr-SYFN3psCe7rRw7eej0RbOlolSzBFHLlJEdXrbdH4IdVyuLXCza0C3_fUPgUPdQExKjMTiecDx85jsmETVemOZRS1GYpBtkCyvj4Psk-dPkWh1geo9meuKUSv094_nYC2wxCawatXwGBywFg
-    widthPx: 800
-    heightPx: 800
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcIocurBbmPMYiatAzKkj1TnTM1HvVjyYVaO-AFCsbeZdvmy0XGcBcl-1W-YofyirGSEAdRW5u0e1BdaFnmnIIGShNuplToyc043Ih4kp-0oBiw2IKiQ0-fV5CuV0sVVBVvMcvDWjSOPlgkDAvKJgwJ-UpCevzvBAw7bTuXy_FFizJHxzhvwE5G5LFu0U0ar18R8nJm8AezIlF-Db9PQurH8uqVlE5EDOBEzdXTRYlsTIb0bs5o7v3s29BEzsznxVMTd_0-AEKx-q3zMGpWOl_qA-X4Ltv3tysn3cKsVRhcjMg
+    widthPx: 1024
+    heightPx: 576
     authorAttributions:
       - displayName: Momiji Sushi Restaurant - West Salem
         uri: https://maps.google.com/maps/contrib/105377205627005009295
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMMMZzPcKc2pSXObkmsb1Apy4rsYe8wVFigyNTc&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPQl4KDcYTxvpvK_N_Cj68hb4oK9jtio2Skj_EK&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMMMZzPcKc2pSXObkmsb1Apy4rsYe8wVFigyNTc!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPQl4KDcYTxvpvK_N_Cj68hb4oK9jtio2Skj_EK!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcKU-qCoNwyNNEpLwq60VutsXhd_DQb-RNCfNG-x9MgeXr7cJQYXhDY--cMDMmxgxTWa2_O1k7h1f-4EpumYbDHn_4vbkeCokCVCPcP7LCiMhwhKr-qYiTa1Zvh8eysTFo_AT31q3XpZqqsc23sOl29nOexUYBwsxN2BaPR40kZQ8yjjlX-N2lXAumSHZ8Hs7EAZOpRXziUHZrUENZhrQtyw7OzfVos0pyeo3PHXmv1ydxwmx-AySuAZe57vOFdJ2q5pNZDjS_zyNnpXUrRg2g6jHoGnybuFFWFv4QRpLeqk4Q
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcL_nU1hsVpo9MRxfweh0vGFOZtAZrb691tKpS4qpKyMzpdyNj04KO1s0INq1eheW45oXl2AXSo9ZphvH84ygr4T-fERosszOlqwERpUfbFtY2YvFi3FqpyQlYUj3Nzv48uS6FsSNB-F_8jikyQ9FUeNBNEUI7FlRYnVU30lsVhcT7Pq3VaDB-1PD_z64VPfyGAPNxf7cknMy6sXsEuCm5Nge5L8QxApoKmxLRek4u1lQ4kE9bBP-Yj4bvpXBtJuPa3fz-HBvreT81aB8BlEVhXMCrH1dMhb7k17ffy6sV9DGA
+    widthPx: 600
+    heightPx: 600
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - West Salem
+        uri: https://maps.google.com/maps/contrib/105377205627005009295
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPB5MtVtJCf1Y_zSVQQvnbnE4dGF_snQqVON-nu&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPB5MtVtJCf1Y_zSVQQvnbnE4dGF_snQqVON-nu!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
+  - name: >-
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcLJgzGshs88sYLZ3gEntLz77NoZBxcCrF61SUK-WmQktWkZoB1aFPUUtuFxyiWYpeSx057gQX2Ppz3wcKrHzUof54W5iADpdt1p0pOeczobScYzbXw-U41qWhebK3kCXvrTndJMLQ6F_PuNM0dUHT-lSuR2DYI_k1eQrammDiu48wVE6nS4yWVj7b3aFUNROqcCQqQL7zWIrqNsKsOaetqktZCcS4F1MkFGBibrSURP7bRl5AUF8MTgZXGTa3H29hrFtgtGFxkHpLVEyecK_pVaSXBd10NpQVitr0QJ0QM-gA
     widthPx: 500
     heightPx: 500
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO3gbkvun-nVjyTig2ayTak3TfeeQtcup0CfEG2!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcIwKg1VrEMDpwy7mIrbP_9QAIyLR1uzwmFa3_roDBDzy3ggMCa46SFX3a8AW0v0VowVYozS_8dlxGXwTgsalSB_N7AE3n6R-vfbclu9PcCYtiAgu20tIkaio3xIPLiMc2chSy8Epy8WWE60Fhd5cQQIOGazw1Y1Jv9L2iDvGJLxRj-7IL-vGZPttmvVffEcwsppYnvO8vMxVJEwQa5K5iZUuGnhL4TH1bG0OyJzujtycLdKvU8ZhXHEDWQdGdxxfUTe96r9wA9JhxJrIzopQFZZTwZh-78brtCJ1wjIK5zjaA
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcJF-gROZwGDCTavymNx4FEdcb3hDqjJN1Y8e_tc0QjigA3S96XqapUHl9aXPlfv5o2tEJ8fXnkrEFfFN70KZ4hmSeuN0gg8INCfAljPq5zpbNLRwt_i70kXJMHLeYXzlpVRO69rh9GfH-_h9qJZ83-5aW_nhVrptXREcQUyHQvd9uqRk0OGUrL9o3p0tzuajmnSMk4A5GHO65nC5cOS1OkH7n1S_HWRiSBtgCEF85xcvwZDJxS4q82kIGbuIOpayXmGbGmbagwV0o8r9EgiAaLcgHIBY8_x_yBqecojjVnlzA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPyVRYWlNlce-kx4bosnJVR4vIm00XwckEFG4Qn!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
   - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcIMuYotY8RcU6EpSpzF_aBjJWyWjqqJDYD7Dzf5PhyuUKa7of_4m7W-z5fm5PebxU7nIngaBzomVwhgN9d_dDU7zPFRKwYi5qtdTdYkjEMv6yYvHG1TVmqTO7Mwby038ijqUYO3XtAP_NYz5QPXToZ05R-YN7keg9cKoAUoAxgIbgZfr31Ag4jVWMgdaGRup8maqQEORgWRIntnV0xyS-WvPubH1gmROwYpqKTi6jcovQUmGOKVzQscgPlObYeT-usnahwQCOW_fqh70TLVqI9adOje_MypdQgxdljYHBTs0g
+      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcKO6T9TDwfrQyN3BITch2oQzlNYNdcM8mcn-PYbZPd_e95VI79Kx72VWzXagqWbv8kyBjV7Yda5WnmRtF9kd1qTIRX08fhxkjXA-f4Sjqiyp_UqzqHb3F5AtyKH3gumdvDSb9QMAhQEJZeq11AAKWYk9i67XnlrST8NUu7Ei8OunxvEsrwjfIY4eHfmzBl32W3IGiSJRowU-NDKGmEDFbrtvOCMDSmYhezjWiZo08PGBwcHsCa6wMSRXyvObbC1Y2UBqKpZZ9AYcVjektc-7Cz-_r2JktQkzatpucrr3O6BLg
     widthPx: 500
     heightPx: 500
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM1jqYJF3CbO99-D83biaKMGJySwjmIPlGrL8nT&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM1jqYJF3CbO99-D83biaKMGJySwjmIPlGrL8nT!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
-  - name: >-
-      places/ChIJTduzznn_v1QRdfECSrlQNVI/photos/AeeoHcK8CRuM63gXqFX6qkkhKYkQG9CJd68sv5xIMr2Awq0JQxuhvaIe2q5YsPfwcN4mtKB1ISzmiPYnkHb4e5GM8SKzdMu3ZZAxscmwjvnS4piJHb4wOZEiwkRnAv08IhXmTzlC2jhQFgdePEeII1CrG96cGQTpKhHsmnxEeg3ScczUZkWc_odJNTbZ4iob02fbbug5h1gH0OQmA823Sgei7pbyRN7r9NgCZim7WysEOD1ag3VO4BhJ9qgtzKkcv2VphA3TPb4LJzvvEgBK17fjL354l4F3TDKIFa60McrvvzsIng
-    widthPx: 1024
-    heightPx: 576
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - West Salem
-        uri: https://maps.google.com/maps/contrib/105377205627005009295
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUtHGjB-mipAgeMXpqZaMWQ9mIGoEXv124m3AlvZA40hpPQPnSv=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMhCZKA_e2pOXIZk5vJQcKDEctVKQE7l6h8HzKF&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMhCZKA_e2pOXIZk5vJQcKDEctVKQE7l6h8HzKF!2e10!4m2!3m1!1s0x54bfff79ceb3db4d:0x523550b94a02f175
 address: '1211 Edgewater St NW #1, Salem, OR 97304, USA'
 street: '1211 Edgewater St NW #1'
 city: Salem
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

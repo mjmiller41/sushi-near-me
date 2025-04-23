@@ -13,7 +13,7 @@ description: "Blue Mountain (Sushi, Bar&Lounge) serves delicious sushi in New Yo
 place_id: ChIJZb2XwatZwokRuvz8YCJ5VPs
 photos:
   - name: >-
-      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcJIgMxq_0L2TgqS89f4nbeZaMLsYTwIJHve1tNKS_o93w0738HkLi0nqW7K38nLaEoMJVqAAYaJK0_si9r3V-xnQcXE4m-DVgjfFpu4pxdHeVUrZZqbj2tFYJQeoUcj8R7ZgZlXTGO_BJ00yYRYZrd22cJzGLiSumllWIsmspQKmm3x03fxXxX_buq9633jDjC7PW53oNk0d8ljGGCyLS6biFI52m9gBIMaAJWfnTwjQ34hUpgdsDHylELH-qOJSyezwlhLEZytulmUl9EsEHV_yqrnvksYQ5p8AUPU_NYEmw
+      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcJ_Ptuss0NFiVp2PgUOG0d78U4js1Jfc_FRaAmGrbW35LbqH5HD6mIyGmNn67X4z729JP-7bcIrHrXB7C0Tk7DfNmHm_dhUm3lfF9K_fMF58jCk4JclzlUnqp8hLZXf-ZTxKwuBTOUvRSrLpufKO7J-7TRnJC0UCe_pt4io-vFr04ivkzEsFulh7ONEHx3H54pFkSGzDcQdeDjveX9L9xCL4NcdfCobiivHjja5dEyoS0-ZBJ2qU2pnUzcfnVr03OoPVCDFj5QX9rcw46PBfv_3InzQWpz8fGleyuYzJuqn9Q
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNEZfDV1Ko3SfT-vHeKdtT-IONlAY5BzA5rnxql!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
   - name: >-
-      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcK0RkcDjOyDvu95jxGlbCktZKKkqoeGlzBGPdHL0O1dLgGg-SUkeAF40mT5-UvLDOEjrR34JV5xn_2LCO_C3d-qO26wdNj2YcFuv3WnwAPXeWZ38TBQwegVAhyBqUQbBf9NsP9waZNruUAg_sgNz24j_vE974w-bPDT8cOCQntCkEodvV_r94Clu6eCACE6GqkCALWZHfGXOp8-Eo18vZKvXKxVJa0_ammahTt9x40VpB73yX9safdUpC_8Yw04QoK5NGTQ98joLkzcCiMVBh65TEbQ-Ufv8odWntFIKvVvqg
+      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcL3rgLYn1ru5HDphqqw6lYIGukL_OSxC2Jkxdp2DxhA6PambRL2JbQPYkkpPDXBlucJ-EuPTZIkP6YZVco9itU3dzwmXCEc8gXtLOaP9OzUPUNct6qqSaH66VrOgspTK10Q3iLnXGgmUdCYa2nEUp37pCgCOzLxCI4ii-NgcoQCxLiVgevHGcNBYxoZ8Xh6hSJw5wlOLCdBgNn9Jjworfpq8qi77rqUxORyOn_pL8GrlAwOMCQsmXOxe5-vLBsKGn6XUQDMR3bGPkAC58QNm09HCgp0-A5DEPTV_ywnqMh72Q
     widthPx: 2878
     heightPx: 1987
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMi17zIfrwe1HTtxfYOU855SRTY_sPLmVlJyU03!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
   - name: >-
-      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcIXZIP7dbwuSdYsg61VIsmV3El1kKAM6r5JlI9h-9SCZ8yiXWtOyf0ItwLMO5ZJv5VD8z_JWryh9qW8sSGDjHzHEAJQvOBp3b8mXNXEddz5oeLChnd79urndhjjpnW76npUjgBGMXlWBUdNz12X0FsmuvcZyy9BM0e_0rjqQFWv1-ZfLiXo83wpUzhBaa8h4uKh05tJPCtvpdzK_28yePr06Jei1zIBA4BJ78qkXzgl-yd9CD-1YcSU0TqTQ2UzdVq6S82vzgcHiWs6rD76Ii4xI7J13ErWCLHdHITDnFES-w
+      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcK_dv7DAqbjWP3W6zq1dbohFjHPO0h1hE98q2pH5WPUvvOmUSvjOIli2Udjk5ZFbXUXpHmCZEcjpHf5n2ITEpCzY0rLDjf4s38dqjb8TNuUwd-q3GQ850hieEGa3FsFXLiObtARnuLYYBvrQxwo0Qu3H3eJ_hXB2ZYti-6c0aEDNoK5w32lzLkDLOHqI3_f-kA1BPuv3AKKPnadIVZJduypJ_qscEc61fDByG5EoPJ7fq7_LAGVfQB54r4U-4EzwFanoWlG1reexfk9vk-cLm9FwDXhnd8NEpdRD32v1QOw4A
     widthPx: 3556
     heightPx: 1743
     authorAttributions:
@@ -52,33 +52,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNbE3vtWakmgWpomOvLUbLny-qb_G4pKxJmAnf-!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
   - name: >-
-      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcL_Aeh4XUEvdnCW0E3wJSuX6SrohnuOnExadEbj6VUzNfnydEPoz5_VBe2xc4u3bGHuYoBe4xxOly3CNQow3Tf2b-zmjVU-jOTf56kqKmD38FACyw46L9PPtv97GDowEvf02oQ_Ua-j9LBy4KgQQwEkpFnVBrjQh0SMNBWaSE8tZi4_AgI1jagOSSaXPOYK1iQHOx_BeClm5-0f3fA4XkIvKMw3XRCc0_vZTrijT-HTMDU31LjFyh7UYPfzYSeM49GsnvHKVo4sbsnqIOqmS4hxjTFwXGYKwoeRC27BJsGWJw
-    widthPx: 3350
-    heightPx: 1772
+      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcLj4EaIk7K-5q3VYDk4y3ROkfnqiCN1K2ZxVoXgh2PGHAL6KEzUZgECYC9MLVvUUhlwJtFpwQLQt8NMdlZloCylqkYSzgHzqXIbRywanBifWyPm3vIQF753Aa1GD60drue5i41IVRgYYoP1vtISNaEz_tZXazW0EkKIEVZW0cGX1R-oeYlgbMjFlSmILF1Wg7tZ5sShY3U7nCujAC4lRlTgLEj30wWm0llU3QKLK8u5t1dbMXNd4b8XNtMBDzfZKiWtyvaYHMK5v-o3_JzHV-C3BIG8tvKDyqLWIb_e8d2PQA
+    widthPx: 2598
+    heightPx: 1499
     authorAttributions:
       - displayName: Blue Mountain (Sushi, Bar&Lounge)
         uri: https://maps.google.com/maps/contrib/112778537982760861448
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXOIIDLdBeee3Gi1SjqygBtrMNjPJwPTD2sf62X4Au53I0-krM=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOt263adXst4s4lRVRQlR1lECNqio0ZfEZAxhkj&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNc4MgpsHq-I_5AnYYJ0JfCo5UYogDM80M5MeCr&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOt263adXst4s4lRVRQlR1lECNqio0ZfEZAxhkj!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNc4MgpsHq-I_5AnYYJ0JfCo5UYogDM80M5MeCr!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
   - name: >-
-      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcK_2_71bI8Gsld3KnInsEGLF20eB5z3nvbu2nUJXhzzlEp7DeYz_K9OFcByzmmrHuI7W_ok28H5XCfNq0-ogR0l5ypIULvSYVkBuyASdmRd8gS3NELt5I7QTUqFUCwn7EjfBPXYiUOClGU1JHIIuHcLvFbq4_kGWDy18gHnyjl8F1j_UzzLGrAHugk7GxRqG04oX4P0OuXts38LZ9G8OTM4FcgQx0f-gLS8-2DpDhY0mkBzanVBygngbPfL6JcsNx0QB2iGtBuIPU6ZSjfv-85OvcNmNREqW5F7hrAAVByd9w
-    widthPx: 3884
-    heightPx: 2351
-    authorAttributions:
-      - displayName: Blue Mountain (Sushi, Bar&Lounge)
-        uri: https://maps.google.com/maps/contrib/112778537982760861448
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXOIIDLdBeee3Gi1SjqygBtrMNjPJwPTD2sf62X4Au53I0-krM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMMk3QYG9MIk7HjEMgS8sQbEpximoGIEylSeCyl&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMMk3QYG9MIk7HjEMgS8sQbEpximoGIEylSeCyl!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
-  - name: >-
-      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcJ3mxI_IyWdXBrdFaKRhTVXIQTjMG6RC4OuXYXwBXUSgDHE7LzaqsYNtWv0R78D_ZdFbnfX41rovWGsM3Mpf-RGPNlcbO4DPjQQOEP3yxVF-SkAHh5zuRqWJ11_KBb8tWOYcGx5ec70s8C6rdS_p0nO3RGIsRyOXKsdBYw8iDH272B3EAKsP1hZ6Z25858U0Q_4PECDq_uWXVGMb_wyiDhHxw9UCFu_E1j7fQqoY5Szp8XiZfyc3qnEWE2BVBCMXRAwuTHb9fftwgJzSJ5OIa-Okh3Pgn_859B5FVU_NotccQ
+      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcLiIrRS6GztPzil-84bLjV8Vn4Jk3SU3iwfCvXR3yxuQhgAzng3WHVNqYmhz38C2sDPUKsnIjQULJX5rm1aeUJkgVxShz790CSpuuyiba1Fp2R3napk7JPiNYTPs9w49ksjFCK7S1sFt2LTobCmst0_I78T0ctx56izM1uBF5ngdK-9uMLiFOlVs7_RdKKYlAhJx8bdlEAYYecGJUBfTuPjgn4vLtpvncp3WkWIxxhGaZvqAZPfXKEF7hmozIN9oTX6xWE5cIZcfuxmgRSQf26oniBVw4KtRq3dpVwyw3FYMw
     widthPx: 3576
     heightPx: 2166
     authorAttributions:
@@ -91,7 +78,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNeiA66Jk1l_Vd6JTYjWg8iqiSRllbJmgmdUF8p!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
   - name: >-
-      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcIfrPJEtn8b0CjTtuhRfIGWImGfXxDHlFH_2FvOfKsnJvWCKUJjul0_4rvv4aBHxhP53juuVo-sPMgCfsCUuIWnlLNLJPqQHpP3Kn6XIyyWl5UCDi4m4UewdovdA_IXaHnfYBkeB_YFQF3Zktn92lelmVfjQvq3SWDcd68AWrO5c2j_TAiep--7EMKhV18o1WRgmmSIKvqLSUnDcknHx0OTjWKO-k8pT5Wc7pjTgvOEcqOHS2TXsuXPMExIU66QRMilXT7TI4eEmEx5nWug3HOF0TEybMqM4_vtWUIxxtKHTA
+      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcIePegNva1Cc2hitgbVjlck9gQ95m1vQrVxQLygfsHju8PwbBrx0UHpNb9iR4FDJT1LNiIupdtJkY9vHHQYvyNqWtGRVAyDUYhX0gUlLATvEnkihnGgrxCcPcHfbzbuhZeoG6isX8hfJ1097x1M8JVQzad2Pnix3YxljgT2wUdAxnVtVpgvJ2AZQvg5HHytu3HH3uMAeAVkJneOk7kXWTczCky8DZ0XcY-91zCfIiZ-v_A34BXmCjrBWolTGwXrFWIrkZFoQEOImaYDvaqL9sVDx-8Q3hYbRA4nPXbc7kcSUQ
+    widthPx: 3884
+    heightPx: 2351
+    authorAttributions:
+      - displayName: Blue Mountain (Sushi, Bar&Lounge)
+        uri: https://maps.google.com/maps/contrib/112778537982760861448
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXOIIDLdBeee3Gi1SjqygBtrMNjPJwPTD2sf62X4Au53I0-krM=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMMk3QYG9MIk7HjEMgS8sQbEpximoGIEylSeCyl&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMMk3QYG9MIk7HjEMgS8sQbEpximoGIEylSeCyl!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
+  - name: >-
+      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcJGO6jUJgRfPfJscyxK309a4X9-kkfz1_DN9d78cFGslm16kKwtQy9IxmsOMbdusTXws_jYaDhJkynnjPLukEuskFTHQDEXQbctgahZw4vrqcJ6ZxOHUQ0OKUDrBxL_NyYYN03RjeNHdRY_6VLRB1nms0qhI6pz5I7hOrbr2tAjCaUtbZRB3rcRjSEIukGe07XzXc1QwyQCu9p0eTJq_j_dYggVCXRsuWlaJafub9larbuFq2emn4sidU4gudpOcN2fiEosS1A8rZz0tDxX2P-hAO1AJaZUSyrWkEz6LW-3mbDKczW-5e6f-d--5HgmKFlgGGG_TjH-BpyRjxUPv796IeEfgTO66We34RAGSOyOLs6LwcJxpB-4MM5xDMe-ovZbL25pq-0udtLdYo2WSXqi0SzyPWa25XpNTBowQQJM3w
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Lana Li
+        uri: https://maps.google.com/maps/contrib/102423927056822325573
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWVCU1RBrszSarxBMB20injN4T8_TQsH_WbDeN3NdNZc8jGn4l--g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPls39Og&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPls39Og!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
+  - name: >-
+      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcLm0o7ajqYlfWl51UyIkWEgqkx0a-Kmqs6KxSOS_No-iFNE9ftNVFNCBKdx9jz4eNgQ2EPflA8kamewk1pbr9fQ2YPGQ5mf6OgcL_3SOG0uGXEsFrLh2foKmNk_5U_cDcWaYOhYKDV-YI4f-QVxBksJBQub4uG2Jb_ZoNpy8pZX5DPqvTBqFs2E9P5bzfZh94lJLpnF53KUG1xqP37LmimjceeVP9jqnXKJDGDYQmn6Iy0svsa8Dh5iLDhm4LGdqskwe1V-L2wh00f26qr8GJMKskllLEVEETZH8f3fOVL_0g
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -100,48 +113,35 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXOIIDLdBeee3Gi1SjqygBtrMNjPJwPTD2sf62X4Au53I0-krM=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN3WdEw24VfzGjfLsOGUTyttXy9yG8qLiI50EbF&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMfhrQGCoTsU1T8GeeFRAsaDZiLOau2unuSewBt&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN3WdEw24VfzGjfLsOGUTyttXy9yG8qLiI50EbF!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMfhrQGCoTsU1T8GeeFRAsaDZiLOau2unuSewBt!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
   - name: >-
-      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcJmaqypXF08c8JG5teOBO7onevrtaFf0EfPiZROiYbua4EhZ_I2zUQjmLw6mReD2FSp95K_6j_wJQ-Hza5320EPDJ6l9RwsKRlphzIcUdFq_pdSJHnto69l-oHSjPS3e7eiYVCo_dP_7CUzOFDNH0GxHeVJBFTEkMyuMp0AyCgeaQ7esvAHxd806nOasZd_f8VANSTmPsg0QN8PxkV271Oea8MLudsXELT7zMlSKPbBw_CIhRugXjsxY1_URo3FTk2MIB3RcRzB2_LE3Uz9XSWwv_My1WKAIQrdgem5CL_3Lw
-    widthPx: 3890
-    heightPx: 2182
+      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcKkf7lQAlI7mliReDEGLfuIyhhtG_WKJpFyqcclFjZ_bZPp0RGwSowKWOlcQmXO0e7bzWGNJW7SWBQKKp-mFSeTZdc_I2VaOYLntkMxl2iXQfc5oU-2AyN6eU4NHofneNHOoIoefWXdJX6qW31V6BM5ykw9JPCf1kkD7ahF97lUINT86x2b5fyGxOIOF2gNgojkONc-1d52y1nGnNFKmM7xKM772TODypsgqtgbSqpvq4SKrhf-1FSPaQBh7a0ee2n72Izuue70ozOkZGT2x8Y7aiWNuAxpOy0y4zVTiESKpA
+    widthPx: 3451
+    heightPx: 1996
     authorAttributions:
       - displayName: Blue Mountain (Sushi, Bar&Lounge)
         uri: https://maps.google.com/maps/contrib/112778537982760861448
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXOIIDLdBeee3Gi1SjqygBtrMNjPJwPTD2sf62X4Au53I0-krM=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP4GTBlkIyXgW_FUPq_YaYyCGfGVxEOBaXkSZ2X&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMVnhC6hWj_YxnBEk8_HPPEw_2jkPeljWapktPK&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP4GTBlkIyXgW_FUPq_YaYyCGfGVxEOBaXkSZ2X!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMVnhC6hWj_YxnBEk8_HPPEw_2jkPeljWapktPK!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
   - name: >-
-      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcI4ePmiqQG7SRayDaQS1UgL3KdHQIqZwiNBs2apSSGWkwD1a4UtPeDaIfyCpOxZu25R70Z772jUAKgrOTMJ8pxATPvcTEshQuGGCcnQbY_HTetsyM1DGBux37WY89a7KJaiGz5IjBjhjyQrmJLwml0iuJsEJ-iQ5D09VlZN0yMX0YfYDawzTSzhUenilNCI_u8gDtJb81MqyOrXyyD2P4KGWXvFac2kEupTve1cVWTa21fjEgInRJoGPG3bWIZCGKTCubNmuLoG0FwFK9kI1UhvSWt42Ysay4AsOiVZlt3vzw
-    widthPx: 3536
-    heightPx: 2213
+      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcIEzHBhSZP7U4U1t5bUcrZivDcFzYLj8rY2l9ovcMmIFaFDAzUJ9i0mJET7TeGon7wrepPExiElRj_V021JXOFD3n9Vkz28eJCSf6umCmU3p2Mdd4JLV2iDKinxEfG38mnx227MrJW6UgB-0kcviNpbnU8obwro2ays2buTthTdEAzNXW75Xi2LN4Ogd1i6Vd_CXRICZXLJiXqXxrwA5Hl6OLWVtTGc1tg6OsEkqQEApATAhwSkIQW5S5j-OhIuowvBBO4bogYnEgLfLPK_MvyBnMICWqcoFQCASpyS0w6bNg
+    widthPx: 3334
+    heightPx: 2192
     authorAttributions:
       - displayName: Blue Mountain (Sushi, Bar&Lounge)
         uri: https://maps.google.com/maps/contrib/112778537982760861448
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXOIIDLdBeee3Gi1SjqygBtrMNjPJwPTD2sf62X4Au53I0-krM=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNCTh6iO3PYpAPUkuwXSNx2QTa4pJo8TwWGHLwR&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNw1IZsIGtQx97hoTRFEEpciJ-h-R3lIFkVqSDo&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNCTh6iO3PYpAPUkuwXSNx2QTa4pJo8TwWGHLwR!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
-  - name: >-
-      places/ChIJZb2XwatZwokRuvz8YCJ5VPs/photos/AeeoHcKIBu0qiELi9lUxmeBe9_O_KbgGzMdL8nbjuNU1TJV5DqO9yasvlJPVwqU7zn_ruCr2kuGHuyDunaSgcwDHa1Hkol_Aw9AmhLcWMqq8uvRQaqi_ZJQBMwFf1OsF1KxBy0jp13tfcXXxCnqz71QZKuSywRiFOLmPHsTiyzOGnsozPKRS_to8YKjli9EfBy9NUmNeNO5MmbpLcFo5BtdWLTP-hSfnGca7rYfsDsHK7g8xcZFleZIhG2i8AbOiD_h8MXId9yG3YPAdyjDOB-lqzei86Mw2lUjXNGLC8f8dgtJ1jQ
-    widthPx: 2598
-    heightPx: 1499
-    authorAttributions:
-      - displayName: Blue Mountain (Sushi, Bar&Lounge)
-        uri: https://maps.google.com/maps/contrib/112778537982760861448
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXOIIDLdBeee3Gi1SjqygBtrMNjPJwPTD2sf62X4Au53I0-krM=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNc4MgpsHq-I_5AnYYJ0JfCo5UYogDM80M5MeCr&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNc4MgpsHq-I_5AnYYJ0JfCo5UYogDM80M5MeCr!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNw1IZsIGtQx97hoTRFEEpciJ-h-R3lIFkVqSDo!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
 address: 396 3rd Ave, E 28th St, New York, NY 10016, USA
 street: 396 3rd Ave, E 28th St
 city: New York
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

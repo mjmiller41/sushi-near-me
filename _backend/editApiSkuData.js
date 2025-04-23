@@ -1,5 +1,5 @@
-import { getSkuDbData, upsertPlacesApiSkuData } from './lib/db.js'
-import { initCurrentSkuData } from './lib/Sku.js'
+import * as db from './lib/db.js'
+import { getCurrentSkuData } from './lib/Sku.js'
 import readline from 'readline/promises'
 import columnify from 'columnify'
 
@@ -9,10 +9,7 @@ const changeMenuItems = [
   { num: 2, column: 'request_count' }
 ]
 
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout
-})
+const rl = readline.createInterface({ input: process.stdin, output: process.stdout })
 
 function filterSkuData(data) {
   return data.map((sku, index) => {
@@ -46,8 +43,7 @@ async function askQuestion(question = '') {
 
 let dataModified = false
 async function run() {
-  const data = await getSkuDbData()
-  const skuData = await initCurrentSkuData(data)
+  const skuData = await getCurrentSkuData()
   let quit = false
 
   while (!quit) {
@@ -77,9 +73,10 @@ async function run() {
     if (!option || !changeOption || !value) quit = true
   }
 
-  if (dataModified) await upsertPlacesApiSkuData(skuData)
-
+  if (dataModified) await db.upsertPlacesApiSkuData(skuData)
+  db.end()
   rl.close()
+  process.exit(0)
 }
 
 run()

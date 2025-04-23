@@ -13,7 +13,7 @@ description: "Sushi rolls & classic Thai entrees are the headliners at this quai
 place_id: ChIJiTaWQLGlzokRKe8zVgqofOg
 photos:
   - name: >-
-      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcLlM9JZgV8h05priye5o-3xmjCFqxEdNjNE4eTtM0k3xAHkviVrFsyJrF4MKmrMw919TBR663QavgpdYUmdSHSthbtTCYz222ZRCXJjVLP_XSE7_hktQiVtXpV66fdEiBVs77Oq7gFztllKkhbuv95yt6Ebz1rPgd67DNc2qYxF_mMOmLADW-Zn7pWvbwvhBvrL_8zg5F31d5txgBmzMiG9LnCLa-E72d3Snb0ZWmJD8N5zto9fGwWgr1m4cMx0si9cWBXbaPiSPRXayJrmj8iZzsxjUpaBhlE3Q4XgvMjr9g
+      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcKiTtD08hoCcqzSWil7jFZWswRyDyfb60so1iyHL7eOCrVBzgI0FE09de3Zj4DZbxD_HwUvDAiWMdMmy7ushC347Iy-B1GRo9j0_iYI54dVja8fNjfj5tYbJ4nO78YqmB-45qwL-U-EdlsidhjAc1tmgDVFN-5xNIyAVoDIZejqoxAPzw6TyhwhlyLeBzFe4FnXITPTBhi3NX5LcSTCUr1YqiUON0VTE_94uzVpXXBMUFapRvbKP4LRSSXJesolEs8mY5mXhYlyRHawtuplCQP5IjsXB5UBHo55-raps3s8xA
     widthPx: 1920
     heightPx: 1280
     authorAttributions:
@@ -26,20 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFgedKr6GRl6iGsE8YDYYGDRDG7Ajy3zfxhGCG!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
   - name: >-
-      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcJvBpF_r6ra-EOC9cqswlDsppGG7s8WMbgXRkNHPKauWBehPfzPnNh4W-R9g1shQL1A-eT-iYjWsQj8FnGKhBd6PCy31ji0h59eQsubHm7jWhtBzHaBP1MMNI5dDD3L1B2cZM0L5bv3pz96QD1RRB78Q4_nhIMFDMbZ2_kV8AmEgNf7nzZ2n2s0tQC5INSy6ANpiFNEJF2_HppjsJhMh-eTBxmWz_i5oOd8EGP5WWJHqWrW5mQ0VPFCz3htRW8tVxS2M_aP3Oca0q_xiUdpsHUKyA0NXD0rfiAB2vH6goGAyw
+      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcKhu8zOpK3dchfKlphjCdA0FgwIE6SfNf8dLfpYQn8vbmNJRyOxk0udz8sIt6XuIYS8zoCZ99NZF14hCipHyMs6XS90n-owYeb5ABvOTdw_JpOVEqtyZlugFJZqFDvx4u5z_U8f-SnRAPKeCRyAQkZr1XAVZJhMMchwWcMGzo_U4CbSs_g498JR43aMlzt_1USL_sx-wNtfk_KThTkRYSQVRdcYpxqKEPH8n3OFIvl7ai7jchF2Nz0xWTL6hcaumtfGMOwlaMRbqJYMa6CgZS7DV4RE1HVLbQnluloid7_gQg
     widthPx: 1960
-    heightPx: 1960
+    heightPx: 2334
     authorAttributions:
       - displayName: Kamrai Thai&Sushi House
         uri: https://maps.google.com/maps/contrib/116913885807057837323
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjX38wDl5u3WnQ2oliyYNVZtuuY-c_6sIEWkMERPwpnyE4HJzsk=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPNYUt8B3TQijn0TZlUL2waIcv-3n8rJm3lbIfz&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOCl2l-oKO8chzphpEWK5_G5PVhlUyvuFQgpq7x&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNYUt8B3TQijn0TZlUL2waIcv-3n8rJm3lbIfz!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOCl2l-oKO8chzphpEWK5_G5PVhlUyvuFQgpq7x!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
   - name: >-
-      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcJwfxbo4Xi85TXFLpAnNQ1V1AMC61VH3trcQwZ0ekeHIgHAP8HXNyy6HkRyD6tTl__gBr6Qv2Ffmz7cus6DiGeUgv3Q7d6UiJNee04VJoTDTMQWJo6k8d_RdRjTAgWRavMNre3KavLQXXpV23pVDlJu8JHTswkrh4t6bCrKvXnT5Ih2RLJN-tdDBzjLUZGV5EOGhlZgwGogE4X4yWmBci7ZCNb-nVvzqRIM_FJ1mqwU1rm6Qm6CWcvl_8nK1TwMEw_IvUpGmr-8uA_B8dSvZ6hXZ4xRc1fyUpNRDAGJ0bMOhVWIZDRpISj2byMA7Sc6ToaTG1BM6SZ146ydBetz9r0QwQW0JG7K9JSUwb-MFuXw0YICPndBEzQ-weutk3AiBG89jxoBJsrK1-__5fA4RmWKu0OqMvZ3kRemGOYjf6Cn--Pv
+      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcLGxBhRTPF6OGuMdMqYn9uHKdGyntRtZnA-jb-V52U3rFrDvx1DTZv2-_JBMDzxLp3i8C2hDB8LqCE1Us5NWrAF1bjxj_cxCo2X1VhaDBH7iPO-iydRJD_r-zRfF0zO96SaLCuXWux5e_C8WicaV-mEm3trB_KAAsmhUjfT9zKWwxTDP7pY6e8IXlshMqJBAKfCmh53dKwsv5bo8lOuxN_iQqM5fZVlwR6lkWh2plWrucjmv7vDrEdGe6pa2U_RKmNL8D22PBWHPoBYM9ep7Y4qjPVCvRqrwBpoo1YgUArCL3k92ta5zozS6hhDtmI4cFaKC0TgzRXyAfG0PziZ4lmE-3w80s9516NKgeV_suDihLnq2CINPcr5Odt3hUeB-PGIatxpuZIaIGuDaj59YwEq7emse8FtIxPKVURSTrtx6100
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQgIOE7AE!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
   - name: >-
-      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcLBym7NUMzYSJNC2dKZNzmCZUkh-0Ur-1D6yRh-hHNkfQhUYkdU3e--xJLqnwBWk7XZZ-ZHEq3aXVlBpGiosYTaBbnvhi3e_uhG8ZvPxSq1-OHhIBraKjacKiuiMhYuQbpckdKektDYOIf4SmqdoDB170cZ6slmfO8_EBQI_9teYcl0i8_eJD48b22HYjPsR4_1TyMjJWdIeYBFjEkqQfwevxJG-YyGcsyFZRl1yl7v2DbHwaoDtOe-P6IQpfL_w6ug4Ws5vQiqowooA3W8gpwwVBGUhTp8nYSXHKrX5VjR4--MopEms7oMtAENfGt_etg436TTZ3BvQw7cYAxeY6GZCpfQtxEMoSiZr4TlKlopCbyaYbheid1V9Y21m5AjwLPBepOxE1n3Yo18uY2fi-Gn73gCmVStEQwUsGfFNZ2abg
+      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcJNofgrdYuvt5Tj4Y76V7Qz4kGyJzY0JvXOM_VeMeGF2JnolA10LEsHC_qfIobIM1AZqus2l4f5or5ZKJ3zDj_qw_QrMuZIcoyctVcyF38brmAE7OpcyHgcgk6zINQ8duEfv17XPk2SfE7G_ikFc7u28g7xYD4lcV1ujdW1yWwfDrDGWg9VKIuHqlEVX7tNYhTpnrVQyJJaWUEUfsQM_jGa37vMniLDhJgl27cSaYL4DYYRUoOA_ER0o069FfXYgKSLvDqc7mlFT0-wCk6rDgGPjcL5spj1FDHDxGlmK-DY-RBnHRz-Z5Q-QtpDy9_PbijjfsMpNZQ11TaezRYNzYrTCq9cw5Qcd-qU0cMKEKbnurpw5lWEGkHmKIrMD2GqGlpzva3yPZNfxDWavlfpZ9DZv0KRvtYrMEf3_6fwR0n_5w
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQwOyDcw!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
   - name: >-
-      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcLWYaI3PJGy9PRUGhD0LF_XCs7eTclCsy2KpeqyZXe-zMingS8pMPYTZp_LvlYGnuvr8afUly01uDFRfA41pqMyw4lXFakc8cpXnYA25hBZKx6hBAYm1xwc2VwxaX-NPAvFrWLOKmoGz5JQ53isaI2lq7jL71oZpbMfSH5MS5MboYZBW013fuHM5z9jXyQ3brREwZskE0iecI_TrwENf0gAHqyLlOvuA_dYPSlHsEgxkBLUWtJ6sjfyBaUHJlfAuDLl2UCzsqUxpGwiqF4fCmQ8_MwE4qA7ZqVF3Wv-mUAlp7MFM-kOaoquVoakUvhgHhh_OzxRLhK1WvORiERRMEqH-L6s8SLLZGsj3LoE5yMhfGwj17G8_XtRSobcfXTptWAt7ejp7FNU9XvMJYVz-EL9oG5PqgQsXJeDl-I2_V8
+      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcIoZVf5ASTUpaf4md6jja0xMV7rNXnmreFzTh21iPPY4-YEaytR48kgNm7Vu2eYKjOuI35CNFy93CLx9YMe9tW_R9DqXAWg_hWOPuqFjPb9SsLMhmStesdSERK63dZiL1KwzPLuAXx47Uir8oFakt2dagzHFeRf0ivtLilC0JnM6XGlCojMRm0UTZvSfRf9bz8ReO_eXnzBDCGIn0Rd59YNVZ7eZ5-Ritkr5OGU8WR-zjei_QHof9I6uJyYGChlVr5AITZCswVBOa-UVAr1N4pG6sMjWH_KbLK6jqR_neIihT7zBo1B2ZN_U8Smm0242dkb5j0KDzllrlgMVGRlc7FsjWcrBW_0jPIQZbZ2bgd7jpWqhrZcg8ZiBCAUR9G3rU509Ft_FoM2pzDk3bDBSFWzJCKefrR22a7bOFvMTV0
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQgIOEHA!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
   - name: >-
-      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcJNm0sczuA0Gt2xabPG6EdYp7-knVXIpG1Bpr3gnlReEDwfj1a91XVR21NCoRDfpYh1Wk1d8rqAtxKI0Y_EYcWNv7IRj1aoRvUD-BSnBg9qwOV0nOEn3ZHB2Yr12GcqSYDVwI_E66YV9zLWs8eW342g-GuRqhGFWeEbfRG4ltnG5rNC8Uj2QBkYk_b7FcORCJOLrgyp4P0KNgK7RN_0jjddPEGFNOZ2ZBvJvHT-iUmpsGCF-4XIFKOkb0LFWXL7Y536tb5PJrch0K6uyBzD-zJZQ7RFi4eGJQK_ijW4ZpuNTw
+      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcLPku2HyD76Eibkw_dcLmID8tguYNrwjU3h6tYhXL2Q8kCCZ6DBNZlUB2maKSqSO_pw5c8lz2t4z4d1QYEDWqIIzpjpPTNtqNgEWGJb4OU7BpsWhOeORL_YJkt47FVy0rtvvpbEwCP7OuoYYjtoqTwXN1O5kbElOJiLv3MTHcl2EzmLHpOjQDjXm291iTIUg8-225jJ6MyTt-WYB-xbUzgZrNQR-DiaOarAcUkeg7VMT-1mMyxJ_AfOQb7ELk8f2rFMdp7xSE1b5K_Ata8wFr6R9FiqjjWOPfaWg03w-lUHYQ
     widthPx: 3024
     heightPx: 3024
     authorAttributions:
@@ -91,20 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFgnFqzqfZfkzh9XBBLs4fpxG_XQwhLj9p71bg!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
   - name: >-
-      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcJIZHjRzuyq4dgyeSzM2U3tFUP0X-nRTJucICXjd9Z4V0r6z2DOuTSk6-K7FQt4HTonOlzYjKBVvdkbSGmLw0Db9CIcG3GTdJbuS3vgrHaF8HsOxE48yB6GjYvzmH7EW1O6gX5IlV87oxkPhs4Z7BJ_h_AlEYBrur8V3Q6y5RIT-Luu32f5dNF9LgIKND6xdYP5gybSl0QHiBnePBZ93rdmsK8wlY59Cnm26P9R6yuPAhyRiogmBcgIylAiRxm64SmqR2RVJm2UuKhuyzAh62cqryTvUf5cqDe0sxuXtQoX5LgaBY87gRELFJjoEq_o014rFs3pHar4hqmVcSnUJAQm2VQ_xO81kxTj9wn_ghJA0-W8R0zRt14b2IriF8RDdxTUqUOCuONh5H9wM7Vx2JPjbWf-7xd_2C-gsfxufKE
-    widthPx: 4032
-    heightPx: 3024
+      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcKvrlIFX6KZQNIdzqIliS_XunR5sYyxvCRiypkHOCrqfUQuTj9Pqi9MR81iluqddNqRhPsSemDIyZV5HKRn8dEV_RrN7Kpo-6w7N17HzgYU093bF0R7WkW-e01oqBmIfn5WnOErfQWTCy1TnUO86Fw_B4pR-9qXXnIPoQ_Vqhyoe8gb-IYp2c_0JQGdN6p5-PO8RWMvCp2R_iCYL83SeBavDSWea7-Si4FJNt0_nECAAzC7-vz-dngG3RZ4Pz8EZc2Wl00Dd03sjyN3ksFhuVGMOaA3XRp5uK3KUatUtQDKhw
+    widthPx: 1960
+    heightPx: 1960
     authorAttributions:
-      - displayName: Danielle
-        uri: https://maps.google.com/maps/contrib/118359412959988937345
+      - displayName: Kamrai Thai&Sushi House
+        uri: https://maps.google.com/maps/contrib/116913885807057837323
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV3O2ZMAEFSNeNBJyEcgcCX9_YZPdQqgLciWE91lG_0RzQftl8RFw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX38wDl5u3WnQ2oliyYNVZtuuY-c_6sIEWkMERPwpnyE4HJzsk=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcusafMQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPNYUt8B3TQijn0TZlUL2waIcv-3n8rJm3lbIfz&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcusafMQ!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNYUt8B3TQijn0TZlUL2waIcv-3n8rJm3lbIfz!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
   - name: >-
-      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcIzHDkrC7QeYk3shiMFf6A4iH83nnUYs7IevcXOTlvCIQmk0i6dmyfYULQN-OFIHrUjguDB8mJZEXTdAYru-lsFYkY5U9EINmytcX3WqGQzRZD9IfTXuQKdC8ZFzFiLNzYAWMNHamPpN9fwVQ9uSpkhdZQN5ucsuTn2YKUXUtLob1ujomRfupNMlXRrAHpRD7540qqKWeSl3Qsg9h8G6BoeiHvj5phTP9sVSCcJDNg7PoNdW4ImP71QHEUwOJuKntWQ3NQxmtQyFF-jxqwF7cVp2AGcyLwOx7_uQJik4JCAvw
+      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcJ4ds5OeVgU_ptV5h04pH58kR1O31m-KQzZ34b0fwJuN-LmRWFpAiVsHVLVM7J1lw2x85Z9wvra-Yy1YY4yQsyYhLh810YnTpLfIV1K0fOuoXX609EKRchnr1hNC0RVjptwNhFeX0gNUS-rMq9482suGELKyPoul_dn0Q7w_gRMrXqxl5GRb4o9INi6ViaqdrPiCpkrAXRiUXMbj1TRKF9lau5MpjRqwV_RegV0RM2S_7ePy1ZNH6D2tlvkKHMhTIf3piN6GYZq6AGUlcdhEO2Bpdr8bjegfLdXYGyWOrIn9w
     widthPx: 1960
     heightPx: 2450
     authorAttributions:
@@ -117,31 +117,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM1QcZVOdqjElV0RvVpW7JYZmW6M_ZQIX4WtV4X!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
   - name: >-
-      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcJKtWO3z2vRF_y4GuY7EJt4J4DWmKDkkeNYy7qbxsjn67lGxfI77vj5RsgQLK55qpHuLFCmAy09QCkemTLfmCgeTNrgP2hIXKWad9v6YfECqV46MHA_YedKU3KttJQQeco5risJelwYbHMJJGcboxAd9IQpVLjG4_XK9ylk-jRnQAN7v1F3YsZsDezmOg0R-8oO23ub_D5Fkq4Y0vxpVJCdBNUunh9CcR8eE_md4wpF4S3tamASIpYqLg6tu7o6xjkqsp15_g9UZgev67vWXYCJMJZvJqDKvSpAbRtBk74IxQ
-    widthPx: 2878
-    heightPx: 2878
+      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcLredVyLjVYsWFDWtE28EUzoncFFCqGj0vn9EVKWPLB89Zudiews4qQviJNC89xOappNsUuh8x2bvbqhrN7pem9ITRheLhHOC1PJovfZK1ZL_sFRYCEGYAZgqCdVwv9648GzIjgnDoQXhfSZqd24otX5umdD9KnJUOkMo4hhkEDUx18I0QwgcSsjYSCuJGu3MViFpTb_JxNRE148x6XQKJ26fjKFOTVNS0mLFbVNPliXbmcHt1Ro0PUdSdFcPOn6TYxGJ1G2EjeIVZDZcXpe3VGp7IkDaGTeJJcYKelzmyBDBtcbbV3V9bv0J8hLFuylHXtOHtySDKmE05pZJf7KEjrRfLEB9C06EbRZ0bS7C3wNVXMOyZcI2nErkBCvxsYT84Y8_fWEbYgNXwUzY1cgeUt-x3PqDMORhUWW3X-SRM
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Kamrai Thai&Sushi House
-        uri: https://maps.google.com/maps/contrib/116913885807057837323
+      - displayName: Danielle
+        uri: https://maps.google.com/maps/contrib/118359412959988937345
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX38wDl5u3WnQ2oliyYNVZtuuY-c_6sIEWkMERPwpnyE4HJzsk=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjV3O2ZMAEFSNeNBJyEcgcCX9_YZPdQqgLciWE91lG_0RzQftl8RFw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP9UJTUjNRmu1l1WWas4V0q-J760x_R_5GrKNsZ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcusafMQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP9UJTUjNRmu1l1WWas4V0q-J760x_R_5GrKNsZ!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcusafMQ!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
   - name: >-
-      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcKn5XUKmZNrdZ4M-ksstSixopBabrhc1T-2p0EvH9UB0W3IHx2bQs-rM02AuTLi7lLJaAiqshDgnkT_DxVFS7tCOnJSF-hnMmE4ZDi6SpFgP5CSt4eqqyKaaTl3AdFj6XhcJQJDdRppYsg4hjAatlnbhGjaLPs4e5fYvGoo3j6sZUuwuU3REc9Z9ybZN7JdrJr3VmYZ8u5Kjtb5CravUucM3cq4IBoE6uTweAYYjoHjQD_-fR3e-XweMTX9NCAaoYguX5ZFe1ReYjsBvkShnRwdE0CSgvH-OkJ7tCbG7bZXwusOmZ1RPbF7ahe8FfoUWBJjkihcOeW_VqhdPYKn5PkmpLtIr_B5Dok9H014F4tAQljc7U0E4ORL3gieE4wU8my-twvnjbIGca646fVOTGpagOa0DkZ9jOZC7IQpngJzexiZ
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJiTaWQLGlzokRKe8zVgqofOg/photos/AeeoHcIQV392bwVfYoiuVCsK_6Y5fpb-n3kPUhyKmhbeyL6TPGLfQN7To58zIvZYgFOe_yc2ZgElQ5UOTEShmLazOHozXY1MWNQrasNtThmgkjbnwWSnyQDxIAob5Kiqq_tOPPqBmFDLzqpT8q0POzrBVOzqCNp9YCk7FxVvQt3zVdKdIFg0ph6XC-n23AZBZQKuZTEkkt4xCT4z9OkgS1C6D3chD4rkvtwsQU5HilA1_31DCEGnXbB7k9yCAOgGF4a3kHJL4FtBCNv5lAZhTUT_Z73Cuz232j3wBK7yUzIr4yAH8-R0s3GxRfewG8Dn-tEcIXPxmDDrGnjXgtKiuL7RVSu6DWSZztF7xgIDhhEiJXggeY-vR1zHxqJJL5Grc4wS71vwINp-njIwpx1W4njrPDCsAAUSe16TdD-O2zD3VhhzFw
+    widthPx: 4608
+    heightPx: 3456
     authorAttributions:
-      - displayName: Amy
-        uri: https://maps.google.com/maps/contrib/100056491432025219661
+      - displayName: Nihal Mehta
+        uri: https://maps.google.com/maps/contrib/105171739075160210138
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUb-QCPmsMhUHPLBiYbZQwibCapDdxPGJoGULDsCPwPwonx23Q=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVFIoaRrqKJO-xINFvHPELA05f1T5mkOqJoOR543RNovRM908r4mQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQgIOErAE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBkZnhFw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQgIOErAE!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBkZnhFw!2e10!4m2!3m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
 address: 901 Pike St, Lemont, PA 16851, USA
 street: 901 Pike St
 city: Lemont
@@ -183,7 +183,7 @@ phone: (814) 954-5744
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 467
+rating_count: 0
 website: https://www.kamraithairestaurant.com/
 reviews:
   - name: >-
@@ -388,6 +388,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Sushi rolls & classic Thai entrees are the headliners at this quaint
   restaurant with a mellow vibe.

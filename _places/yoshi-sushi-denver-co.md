@@ -13,7 +13,7 @@ description: "Yoshi sushi serves delicious sushi in Denver, Colorado. Try fresh 
 place_id: ChIJ_2T-O1V_bIcRv6lghfQhBis
 photos:
   - name: >-
-      places/ChIJ_2T-O1V_bIcRv6lghfQhBis/photos/AeeoHcKlhcQ72Of4ag0Bb20tTOd0PkIqbEzA9ZuwxHFn9G1N2LdZh1YQ7rBaKqMRwiqn-e7vPZF4gp6eWfTly_CdTcpQ_4Xy8lbLRiKsljNdcE2OlMREsikrv043atyl3BOADYt2kHZQ12fN_V1pk_vupM4UPvzQs_Av--Af039Q1kMKi_c6wyC3tVpk85F6MIDrM-hMMpoR66zx7xmQlVjjR3vl6ROiaLPt2UdND1yx8Pq4bkrB2nlft838EwftX_cPW4-p47ql4yDCcLMK1Mvy52sdCSOuconfT9Yx3MGVn81DXQ
+      places/ChIJ_2T-O1V_bIcRv6lghfQhBis/photos/AeeoHcLemP-PVbh8pTPNUfetk6V8bsGubuzeZWIucxgsstM5ewsbecIU9XdrgW898kzPi2zMuNTpXpw4zWBQ0mcv_8UFaL3vytcZW4y1aDic9DHBjwenojg2HlfDoPtW_gsb9TgvFDFaCA45_5-ifm-RHxVN3KCTqvX6aN-h6gNVZjomNfTTGRgLy8n0hONPto8uxU0AdAe52LTkHexW3xj1m3s6VOhkNBnxPrBWYt-iXiJ5ZOPf6Z38TdydYkZqbD0nkx0IzsUKZ7O05FUNG0nEw3edPAVmQHEhoF4hzGvKPewJ_Q
     widthPx: 720
     heightPx: 720
     authorAttributions:
@@ -49,8 +49,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7f553bfe64ff:0x2b0621f48560a9bf!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:30 PM'
+    - 'Saturday: 11:00 AM – 11:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:30 PM'
+    - 'Saturday: 11:00 AM – 11:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -90,6 +104,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

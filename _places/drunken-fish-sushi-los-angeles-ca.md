@@ -13,7 +13,7 @@ description: "Drunken Fish sushi serves delicious sushi in Los Angeles, Californ
 place_id: ChIJObtZqly7woARY87mJEYfKR4
 photos:
   - name: >-
-      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcK-M79D7tXKISKYMjMeNUWnh2ReW-pvj_TIKnyldHH_sQ9yTv0wit9V6da4bPvqJ7aDOaNKAXhpfE-3naGJyQ6e9-R3aOeMn9xVgVyy1zxSvVpqfqmeOiikTkDs1rmtiIagQEkeDWSZ4HM7h-siwh0_BO6jRvzyR_SWba-vbCVfN8E_efwM8Mnh42EKf1k5V_LQdVfwwjSkH7vjQeIVk4kNrPq3cleSxnf76C-tzl3FWYm0eeU5HSQ13tWh9VjqOZeXqMNXE3wukdQmSF65_QC3Q8eJcFGul76cU8Q1SJ89TolqbS4-CvkqFCOTuW4NwPOnf5p8LqyeFcv6Ty2496rywtj8fDJ-lcVvvKYti_6bJKbKe9GqIrprUWIpaI5U0eT8UN7een5ATFSSS_INmQ7fZlFBbN83sF1PIIIhfLjOLI9M
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcLDUvBKWBlY_yksKiFXNZXHCbDC7_M6qUaMd-fiOiadeBOiWwoHtMfEqhhQhzpxkohoCktnK7G7JJPV5v-RKOytOoCqBeWVGWUB-3TJ_6gYTa7D6agi9NGlgPjI2qEHWp6bfEjaPFtp1SsXl-eNO4G6xPCPkjgTSn-ehAPK9wFKB9IAmcbi3I4MUIror-yC2wikN25ifCFWlkPvXmDnTYZM0fucVbVbYSRNBXnYLvLJA3omYalM4mVR-FX6sjE-Z1o3JWiLpiSTk8j7DqwT5wK9LprIk73SHF-RHPh45ORNAbXb4Mxca1o528Ou8VQd3Ib5v084EUTL5EW1985QzVBbIrxhVam_GkXn9VeDPDkToqIqlBK-GHekZ3mBkZIbn3_s7U2tWs9qqSDa5XjGkGQWAGOyKACTrLD9f6aLWWEemlr-
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEjfrD2wE!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
   - name: >-
-      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcL__KggP08hprNlidXcK4nThqFIDY9iJu_6DkjaEnfYZ8D8Nv9UtHQumXtn7viF2S1w8GR7qaVOgBCR4DfnntrkksKmqhS44DNbHStemxGj8OFbGK5zqXvxSFf1RDlbqv9X3VwOB3qzNf-V4nAiVTJqDTaekdceW17SP6YHEHrWOYvP4aKzy5yKywfm8F7R5k7NGZ_FSCe9T5GqhUSfgOhgg7HrZ37xQmz4TzNKDi6PBhfxOOmGA0NyGDSNS0E4EZ_7Oa6Z1Ms_G4U9Bp3su8s1l7IcJRzrPfEsz5X4XRfQEA
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcJJRChQs7D9fUt41aM0nJf4fe41iWLHlUj6UFLdjg3HlqYfltBRlSlTAjBJxLmW0N_Eg7FNkFX6KyvO9hzhCyi89sjBz8Sxz5e9w61CiJ-q_ELYqjDuWccGKQu52yfHIoCT6fgUOtUXzNH-TqFHHf_0YcR49oR3474DNsG3XxJ2RuGDB4j-2aSrPQOm4vsktmxLSP1CwM7-fmn1Fl32A8hLSEgPi7H2cQUdB-yjwq9YhTkCiQs-EKYZ_-yxNyq2CABL-NGc8YzeX7QUJpMlMZApUk9HtvLuTE50Ryv88kz3RA
     widthPx: 4800
     heightPx: 3840
     authorAttributions:
@@ -39,20 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN3bOEBI4HW-CWiVLVlI-D85xw0ElMzE9Nq9hhZ!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
   - name: >-
-      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcJUeHWgqbaPA97jZgS_JUBHvJNsG8AbD-SNOgJfZ6SsRRyYqrK8kZ53Gz3hU4IPduSGcuPMINzGDjOiZS3MDPWEPydM396sMHhI4JRgdCI5cQsAfxZPahqvAWN94mgBpOb6HluZ0AqvCl70eBiwWbGGX0yfyqeKboTwE9VUpwKfZqL1pnQrgz6pFMxz3QfFsdgOMIpz0SU2KSLSAUrVOeMdc42Gw3yD9MNOd5CMsk5elfuEN28YwsCvgV5q7aPlNGIv_34qyVuhoBOV3_TR9MHZh7FHxvdnys-4B2teOZNZiw
-    widthPx: 1050
-    heightPx: 1400
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcLk49gpi5VlXogusXh2xhWMvB6WqgXetDUNJReQ1aiGZNdOc5O-pdq6oxdICeawN1BU1edjAZxhjZDnbXUSLPsb72tRLZQoxXa5PoLdyUFk630hS1_cwcuZgcFpzrsrc7hmBGe6HBiy1KYcUTB6z8MUjqr5zuVYYu7X-mRifX7kI7nTGfRDRdA6_Ek-64iO6IlSox5NRZPrJn50lKCndsyeIuLYtWZue3oNha2cxtHx1b3HxWt4LQQ-4Zl_ckTGzsw75YUxKIKo4P3TlhW4jlPKbmkyOcIY_q7LLcwqwY4Lnw
+    widthPx: 660
+    heightPx: 880
     authorAttributions:
       - displayName: Drunken Fish sushi
         uri: https://maps.google.com/maps/contrib/114641948553422802909
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPNIRcYHW0oVKv5xcDTx4gfQ-iMZa4wBgHYEC1_&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOIiv2V2aEVcGESea0yFAe9VhISo63OhW0gN8pM&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNIRcYHW0oVKv5xcDTx4gfQ-iMZa4wBgHYEC1_!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOIiv2V2aEVcGESea0yFAe9VhISo63OhW0gN8pM!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
   - name: >-
-      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcKuQBlI4zKQSSys5t9I6viPZXqm4hk_0_hGNIjHKzOd3wTjG4swTqvv5NbeYCgWWPEY0EuixSzyVLWhTuvyLfmttpjTLD04YUZyinrXHx0P68B6kkZFMEjkEnmxjppvnFxLDixFRqo63Cj-ii3g9fTJ7OxPvxZpctW0NakdoYPQBuMR3EMMKMX-3WgUZJkolSvx2pV5AfzGhYbRVFO5XUvo4fbuaHZfsEdK3u9PLuDifcYfmVfH1NuOF60MxFJ8dzpJLO-d8NKqa62wtSpbCDa2NsFlu8YDmlpzotUAiUUrgg
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcIA8xoSbF6ks-jE_PsGX_OO5lLE84n1X3wHZrI5YWoFOAS2KnRDcoPyAbBrZV8ZfCXEg_f77GSorBfnByDpRQZ74_oHUmq8Q3lk2KvJWUXCCcoK4wLbxFhxxvRxFRtolVXjXjy-gGYBDQm_TWSDntJ87GEO_-PIbFPF7P9y_j8tkl1_GSKpOc0_IZRdTciatnqkQjzTh_aCaezIJzTg4bqWmsy1Q5mcLtIoBl7DbQVaRPMtGCpKu1wZf9utPaMN1oEtjj4c1UL8F1_LuCxodDmScFsEm3ETa2qyKx3V5w5kfA
     widthPx: 4800
     heightPx: 3840
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPlOYsL1arAso0SMJXdZzzotgTZnG3R_zAg7Q93!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
   - name: >-
-      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcKwVjJrVp3__tTwYX5wFQVWjHmzDElE0Xw3jJ9E0Q9JHFZwqoj4B57xZSYDCZ4GwM7xZ6w-joPS40vXYWEaDQ8pb4Z1QAMiHkpkG3dOu2ADESx6yyexe7H4QCCfxP87iLIm7NGDDw4r0pS7h3br_eFTlEYfjYkzsgVu5CM_Id2-QNjoiZoBjZBbk58kJ7uGrrQJpATkgdXhsbAL4meTByBVt3OeehPTt3doDTkA-74GcX7yepqfOLsEbD3_AVnl9f5sN0-_CuEVQJVMabaEo1xyuWnBHk1JCEKRjvY_LSu_6w
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcKZMvsz0I3uj7bcmAoHpPpIy7FDbUs1OQ6FCQ-LIfKt0Sn3eQxOA7otiUCFJjtHVolGgfVtYkhU_lDrRXXF-v5hrOhBXvbClw6YO-OM020WzyG88kB_F67bFgKMsPTf9l-nklPCJItq-cLzAgRpkeqqAmiFToNk26uMoEc5fnUiJFxL1fGUY7SFRDwQJaP-u5NocizJ9M4RyVvucNMVwiEM-zNojQZH8_DArdVm0NLV1llRSCzCd9VU2e5yklNrSD2hLi-7PQs9P2CzULWMXEU_d2aaXljDvjV0PCLBxt5-pw
     widthPx: 4800
     heightPx: 3840
     authorAttributions:
@@ -74,11 +74,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM8Iv11lqjt5TB-sLS9LUyUm85dEBiYfMN4zk6W&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPo5LUA6po7RUIPufeBfkSDvMJ8b-LVw6tZN8v-&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM8Iv11lqjt5TB-sLS9LUyUm85dEBiYfMN4zk6W!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPo5LUA6po7RUIPufeBfkSDvMJ8b-LVw6tZN8v-!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
   - name: >-
-      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcIGwVo--IbxQvvnDBtzRKPirAfBm5s8vFiigdB-vz8GUcjQIWNF6lqvgqrty61IzssbXZwMeiMR93RSgttUY5PI0O2xDx61Cw6fiYgBb5Ri4LW88j3uMQ15E_kCYLxG9n9cZ9F1Hdd5PA0EFXQHoZga62whfzc66TvjStBAakcLvf28Lnzm5NDHmmF3rw3-NAWkcZecAbURYzGoX1AK7ESpiF7uY2CSUL0c6vqvjqUs8sCuHGrOrGTA0g5sOov9xbX4PyEZBZx38IX68Pk0qpBKQ1hFPIzkB48-z3pJju_MfQ
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcK-tkR2yRb7VgdV6mt8CedOkDfXnaS5Mh2GuWYJxDd40OjbNhEikbJBO6Pd_mVMveCIxSpknWV4i955piau_EF0iX8Ijjqm8NQeWEV64e8swGrYgxjPTOmwWeQ5nP_trDwM7yjqKX05-rQPYSS-XdBc3_poVhNmyifBttT427CU-NrUZmmNJ9FdenIUV0vIgEVbO70R9S_eHjJ-D18tv5Wmth09LPMN-7jl13IqaPpYQYXvdrvtMSC5NlazIbwyfCGLBTj3HJ_CsoRXBGQ35w3nQnQM6ZK698HScTtMAGzTQQ
     widthPx: 3000
     heightPx: 2251
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5CgA6q1TssggBSa-De-K-R-s2OYUvNSnWC-w7!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
   - name: >-
-      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcItlzKaMYdxqJNhRL2NSxboYuNKzGHcCaaSfFMMOzeAl3ntHmNPluiTxjcEVJ1kKR86j-2b45BwNptxT2-_U-hCFZ2DrgkX11XDfSvwRemPkSnO1-70ztaqD_Z9bJERvDVUcizt6oXjl5TJ2bkYl0FkzgYvSgj0rsNOY03IS9H_oMuSf4Dr26mi0KRIbrpwdA6FDJ1pi315NBF-Nl9NzeouoS0bAzK06b8KQQ66PhE609O8umwJFjqa5KWfHiHe04GYqtsHyJLKBarEm8t4l4I8rMwJ3Ex9A525k8fAQt0spQ
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcIZ9DkGyfgAy8QQWtnHg0CAoSr-fCnvac-4YiZQY4Sup2bsXiMpQgSVPXHGNU3OhkiCWxITdon8ylM2C6PkGYYrvjKSFs3lCi5rqnGugf1Q3ZOtmdk3uMb6mZRIxQpVaw-TZSvSUDYEjHtJqPAQP8OtaED53r6viNffqIwdH3K7DcRUOmU7RFViUGMUMBq8R9K5t4aDPRmTcWbSQq_gZy6SSRqk5BbwgZzTSTqTDyxmuTbomxaiWBpUuX7EuqEkBgyRa9UU-iRMTHrfRpCgLgYgfehy6TvI7RuvQ1gtDmsLxg
     widthPx: 1400
     heightPx: 1050
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMOKIXo5Vc-ITnvvSzjEZJUfOY25ICT0H8xO63l!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
   - name: >-
-      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcJgqc7dr3e9XoAolr_B2k8I9d1odkNam1DBJDv-PNzayXj-9cf9aTjAxkTkbjvOiB6SrM-erWKiRCVFZqZ3jjuhwTjdF9pNE8S4Kf_mEtShHFVOBJUxw2tjdu63IzFOeaMrd-eAxa320UdWVYiDmCpAo8-irx5U0hFI0E22p2nob007yhxK8oc1_bw2YtwlYQI873VZY7H-8SToKvY-rZzO8eZDhyXwPxRQhSjbwR-p58Q29FCuRvwKcaL-DkLWAeZcUkyoVQhs6eru-wlOS9D2XzEdtS8g5cWBNY8Z4Qy-tQ
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcIiprtou341pzdzqMELNsuOp6UTUefwNELNgNemMmGlRBYFN0LnSv-hzwdYTJ3JTJvgDI2QCe4wvYi5AAZFXWIYBtwEC4C_9YQx93DVbGkFP9NVWCQr8X6HLfYfIurqfHKcnnYc-k6tEGkazuLnMJ6_cQ11r1rJncUxX71ADoQak-6KvMoVfGhgjs_lM7o4HHdX3lgfzN2GFXpr2E4QkmXycE-f-in5oeLavCt4XcSSA6fb6L8EPEcpRKUauWO6U-quCyUSqLRzc6fBkLWSI-O852TCQMoEn1ONROXC3dIelg
     widthPx: 1411
     heightPx: 1058
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUyRS2lCBwGGEU0z8386DJK1YcA9A03zFSGrmu!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
   - name: >-
-      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcLcHKg26-d-3bBCqgy8vHlTyjpIzoOy33ua0tS465iyMH3LBA32OYSeiL03toQVjbxp8BPn5_olL92GWT1jjXj2ZxwovNQxjxE7VC1yTGNof0k0MxxMjGaLXwvl4Tey6o6xv6Q0PT8aU4OXm4pzGgKGHUmVeHGWdFq12MxOG9KuaQTlPrxJwF42AXlMrAr_oVe3becNOn9mPVAaLFUIre5JwSn12MRKwAdxPRdxuMI2BmDso0Af9FwFZpkMkq0UV4H8dOwUoD_BXmoWJo8tzZqu79P7GXlP9EI9H4qVvRR1uA
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcKQUR3VwoK8jDRFSchTkQjWrPaFUwZZ4sWSi-xZsAAIfg2qZL7NA4u_U0gb2gxC7hMK4Gw8B7uR6rDEVREzONkfFM4D8D-M97_PxUziluJHLGVz7bLZTwRbABwIc1nHoVV8t7ZKqNgVz2btZgwDxdDXf7i2WpVeW3XRPTmvMVwzEyX4ghZD5n8v_l4fiFTBFVfsx_hmHJBXP9cGtHftciNIpmgq8VgaIT506rHRQr7MJcus-U2plg-XdQLjxmbiUpcbh9tZuyQtKrOpu_Dd8sOlQP55qlKQEAHfSFt9D01Mgw
     widthPx: 1050
     heightPx: 1400
     authorAttributions:
@@ -130,18 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMiXJ2k4NWi0ngQWhwzs7QhbT8ydx5VTSNrCOha!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
   - name: >-
-      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcLmT8UqOjsxue1BcuakGemu4OlB_oeDY68jmMjF9Xc6HDEJj4qBCNjuiwkAIND8hqpFAOVo85YjJSKoUmE7ShzRZghkC5Bq2lkeuF_I4Ubll0qLFmSr4Rb1IrOKRXyBIddf9pn8n2hv7FcQv895MSWnpacxzwXHYb0JSmxrHTGnFMPfsqlTc4L6u0ZGzS82LAfvdWEz0z8KNRIWQo9E7KR3ZZwS_GSNDFwQaKDhEYOz66mqShGIr_uanws3e_kWg25jtj1hbo9PkpPXjUiRTF0H6Ik9u6qLmmVU0SI4siwt3w
-    widthPx: 4800
-    heightPx: 3840
+      places/ChIJObtZqly7woARY87mJEYfKR4/photos/AeeoHcLn72DouG0MRTXOlGlsrQhZylrfUTz9ENDEKtqhUifaIzi2eWV3Y89kgXRQO13wxLCBqw8_D7zKLIs8qSmdJJtI4cjuLGPMBIe4HQs29JaCuQV9U2oSC-wlsmpZQ18fApXrC8YilA6YnHefHcSrFBGTtxzH-CI0qGNIVfWCirgIcrAUESC7PvDBg6JCRSpqTRO22AIGdX9cH3Nkd2N449Piqvp7nG-VxXToLWMydGparEriuHwv44OYXhyE9NYscD45Bd0_6CyUlTsk6qhtth67W5K_I9FGYnOhEOdEdRU1Yw
+    widthPx: 1050
+    heightPx: 1400
     authorAttributions:
       - displayName: Drunken Fish sushi
         uri: https://maps.google.com/maps/contrib/114641948553422802909
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVsvQV6qSveUHOOeUBjh_wOdVk0Pm7ZM4g2q9epXJVGh04WvX2f=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNx5yH0C8eaJ5uuM59mDZghwj3OgpwUPlqR11gk&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVrhNdxPLPu-eCKcPzUxVfs9_TebKhF8x3ShFY&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNx5yH0C8eaJ5uuM59mDZghwj3OgpwUPlqR11gk!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVrhNdxPLPu-eCKcPzUxVfs9_TebKhF8x3ShFY!2e10!4m2!3m1!1s0x80c2bb5caa59bb39:0x1e291f4624e6ce63
 address: 12222 Wilshire Blvd, Los Angeles, CA 90025, USA
 street: 12222 Wilshire Blvd
 city: Los Angeles
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

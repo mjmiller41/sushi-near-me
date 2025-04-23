@@ -13,7 +13,7 @@ description: "Sushi, sashimi & Japanese small plates plus sake & cocktails in a 
 place_id: ChIJa1x1zNosDogRWaWIsW63ktg
 photos:
   - name: >-
-      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcKn2WwGvPf3BCKL8aM4JXGau3IlTN9QTkZ3lbpvBJCm3iKL72OoEIctoJ6HbJW1uEk-1YSmbeM3rw_iOiPdCd6JbuQMbvW2oe3EJAxQaeoBNm9hgxb9Y_maP2RxTLmFIANLoBNR_xgmNu0F7J02Au787bmC3XIwqJQ1-wAXo9EHbXFZNJDoESSIjDD2NgJt21riG4DqpA4oZKol3P9PoxqMDZZJahsB6LvUvEuKKX2a9D1JtTmbRrXlaTLjKoi7xutMxqogZVHlSxfmX7ThdCVVIAWneVbQFOJP4ZghTcLknw
+      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcIXJ8FnfUI8vMZYyxTlDxa008iFQa6eAy6AyD_Jfw9Qwh6D4dg6Ski8D3Klsp6wKa4DVWV0GpBuVh2gFn7BO_9LWoMEo9_PTto5J_Bv3eMmMqJGny1jBYJm43yhuScK5yq_F1tTMEXM_x6YhMd258Tcpxx1LqqtrheAynkNgrUABbzRmeBcXRmtxgsgEN6eXXZ558uhDqL652ILQBfnTvoe4-FNLBbkxop5WXxQKfFRMDHNYsPdZwlmPHBUWvGHcHPIghOET22BTrGKuQ5Ahf8iA5kD_cLEK2Li9vntJNDZUw
     widthPx: 2037
     heightPx: 1356
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPozXkhzivJS_UBmlw5SQUjvOh8UVFaWSEQxk-i!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
   - name: >-
-      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcJ-Rsj-iB-O3gbauZr9uBgIsdXH3nY2kyhTiADvEsnd7ATnRqBa-m6AMmBKqxhlO4aRI6fRvt47bFWd42Td0slN0KTM2UstdcGtQjsIGMkpEAgIAlX13uGsgiSS1TQzAPFi9Y65G8BsmfTT_hoFGja_pQRKxZitC35othfQ1tHANTgpGexZL-hVQPmoiP9-XvElH5ZowSmrYsBhRIOpUe1QzanhRw1ZkMFgH1fyszgBcJVNc_gobO0MvT5u7_HSuE_5xwi7wGEIWN6QLOVSc8GuTnqxbILyxnoWb4Qz_NIxug
+      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcK9ZFbKDMpMvYkEIg5KAYyDHhiYEcrgH5TAW8eKf3SEciYSc5V46YsM9eppuD8t_qG6UE15qzH32MVf9J6--B_bDSSPZUIXaVFIl1MQMVWNvvcgI3pLpB2XZPgQc-XDDg3LdsjKVBWtxnOSlLeEQefjVvR8-9aw2nDwheRLe54d5-JW52xOdrGEkTpo-wkXUPuPmx2q7g219yBvt4A2dhFHMe__6U6gD8q2v3yFY9edgQqnCwkd9gbSf85ffwr8sRlWIm1dNF1N8vzXNGB06eucTT2vvkamvWlifFn47q-oiQ
     widthPx: 3000
     heightPx: 3000
     authorAttributions:
@@ -39,33 +39,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP6KPZQ5JsEXmy3cxnKkuRIyXx6nmOC527-0lBn!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
   - name: >-
-      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcKgXTApSBQLt0eKFLllaJRf_WVokLjzQwBnAgsJ2-peZCaD0WRsX8RRUcjASTJ21WdXaz2mbhs80sBoU6ThLDPytV135_0ykZVNbafhlaQ61SFHII7Lrjq_ZVVDETEYbQa8i6JZcmnjWSbFEqPPh0mzJWgR9kAeQNEGkUKiG_Oa5nrOG12RqT-HgzmjnNS5FP2TCoWdusoKvPWnJis0MN-8TXOVLFzzdIOsyNR8XRwYptMSTO0Da0KoeIUVpGrZr8g0KeQJzrKf454k2CH4SHrh26uxju_hZzOtM8OsLtjnj52w8MbmB63F9rPj3DRczI0HNoSET8sdFkkcsBWXE7oCF5fIwBohN9vwcFNxzke_PZPylMXWIBxzxQXk2JfOZs9nE_5SNokDl7F7yLcX4edMJDAecTCD8zZBnPQ4Lid3hoI
-    widthPx: 4800
-    heightPx: 3600
+      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcKBr04xMNoMAxCFJcZqx-3a4PeDdHez3THkxur3zEQ7AM-ZhGKUZF_VFcABMR2ZF86jNWq41PPXBcdUdIhjIapWQjqHQpgbANlqnVCfbfK2si2rO87tnyDtxisbHsAnnRDZY-7s2GA7ljR61f2QMM5egflIezsAROCcDP2xUC6fbv7o66FcXovM4FfchAZK0zAliv9sG98-7PwNwBj5BgjP2_eUdstN0mzFqZjAitxV3Ir2o2HbT-IsmxIYgCajAsQrMdRRiGoxyPtUvX6GCpNHvDW7vUjUgqy3UlNNOZZv_g
+    widthPx: 1200
+    heightPx: 675
     authorAttributions:
-      - displayName: Michael Olimene
-        uri: https://maps.google.com/maps/contrib/102403043999113046624
+      - displayName: SUSHI DOKKU Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/108634109775938006191
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUWsIAjYIdFSCSlB1vDn6wgVicCTNlqMWx3T7NHhAxib67GsXfe=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXJrQjd8gSSfmH-iD0pXaqd24-3jTcq8ocd39y5hIRvZH42ZFan=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw8PO11QE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN2X2hvuhhNI7zYUy9prGlSPpkWOHeZISF56MhK&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw8PO11QE!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN2X2hvuhhNI7zYUy9prGlSPpkWOHeZISF56MhK!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
   - name: >-
-      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcKZZv3OyoFbcwkHGEnVaH0s0OYVOGpwACMW-YcLc-AaHRuIeP8cHY7pim3r2DyC-MiRgCjyfFNTTZ-tEDi6LwzjgCCZfg6FpqpFTd4RfNZSbdMZ4u9-oSzd1NUOFL5V6vCFEMieiB3R_aauY1eA4XU_IICVaWhxQeiU-AelBe7Z9nYJdTQUCnSj-dOtzbjF5SLRSPMFMtWPsSsNBUmzGFHfkv12CA_jh7LuP4PxFUiZMUUODZK-V22XsF_d4XiB0285_z6lh0RxJtNgktL-5Oaxg5s7aub6y-2xMLCgA9z2t7k6pQUuDuDr57LE-CkyP6Wvkl9XafBhdnQAvCkrOEezHMs4AGsQ5gMRxh-nRX0r73mYVxx43ELMmxhB1yV0bhACWXqNINXwb8yPEubW13B0kT6kLG-IrDuHiB92dSI
-    widthPx: 4032
-    heightPx: 3024
+      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcIck2Xnqknjm8uteBzLb1gEGCJ0Pnzlj9F935VgK4LD4VVkZQ2rBhRVNr-MV7h3NnA14P57UVUuwAHYJ-xdpTHOjsoRzdu3U5Pjp4RnxKE5_mbZQ7obG4X0fOu6P_9eyT2CeCgxFbRMf4ElF-G97s1oaPHWt-qzdxYT-jXpYGZThKuCtf2GuhVdgGhHAKa8GAqtmljHtga8TpG31t8w6InMUSOE-mjufCwx35zC4V0XKHKCp59DsxXiYmihMZkIUqd6g9s6hQnf1NrQ6zyu9b1E65F8Ytjnm1xmd9lj3KOwdBanbDLy1hEv_AWy0IkTecS6eI60wsTOJV8tzRmyctwbZZveEXMgn0DbbXQSClouLiuss0H-V6iUSihXvJ6j3F7axKzkzyClXlI0w1oH4xmYk2j8AA625vPwVEEnQGJflzJV
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: Orest Schur
-        uri: https://maps.google.com/maps/contrib/118140355130958222317
+      - displayName: Andjela Petrovic
+        uri: https://maps.google.com/maps/contrib/117920936256336958046
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWah4OTOP5EoZuDypLPWLAfIHv6GNhP6xNXjkKIoHVKhnpz1UpmyQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocLI6Y56QEZ7zCLgoGPhCsstfUEXP7zfOi_62DsdChE8JDzZTQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDzx63Zbg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR-rzE4AE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzx63Zbg!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR-rzE4AE!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
   - name: >-
-      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcKD_GjO7II9KN-Hhw2GVLJ_ituW2N0rlos7KJ2W13JHyLLHJj5xCrqNmorWfnfpoapfAdkjLOvGTf9EitrXu5OUxpZsLE36B78xvcqgDsSQuEAfw0IOEfX4BqTu__ncx7_bUoW70ChHNAcJj9oxMdzRM_b9AZtWnV1BsRiH8kbO3MTkOGT-y5cEVHR25tigRFpEkpVoMXCPZ9tSvoQh5z60HiSPIjFG0sCAL57K0JYkn1XO4DkmsFPHRvorHBjLyHn1eI2Y8U8lgM2nuvjhejJdyC_UrtKCJcBDpDnQJgs7lczRwz8lyJXBnaSBDCOpDz2sga1Evzk1M7LQ4FmTcfHc9jd4uU3JEbRMZ6OWPJsvA1j79y2USZd2-wYb_9VM7u1B4HbOnFfFXQQqKdB1myulVC8UdGU4gYArZU1h5Kj86Q
+      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcJm314uIgCPv087CKGUZonqccb8vg4FzGfrPQahaoo9T0UaYyiCxrb5qTSn7iUanvkYDfF6I-W_rnsQLyw1C5uPKV7N66bf0E_9B3W4Nb8S-dkuxuQNE5VQ42fAoAoPlplIexphHY-IgHc6Orh903Jy7mNJ3eRFsUCXV1IJEEw_2P4AMzyCKIupYnilYlYzj2khDrAdxhfQK9a50AgH1Q1PcVmOc84Vv0FruDYbDU1aVA5BBFPpTjlPxOBOJ71Dz8OZo5t1Lr12LtL2S6rUL8MjPy-1n_IfnClnXvcWzMBKfxKioS89b0dmERpB1TSiJhUIhcX2b_cqe3-2b8zvz2I8beta1pj4o3db-I4JM8TbE0Vptohdd2KAEu4g_-XVSs127GOIYN9_g_5MA-DnLdpUP-egjx-7IHM6F_UmOKGiaA
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -78,33 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI5Y6RTA!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
   - name: >-
-      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcIgWYg60xpRCOCx1Ahp3SWE8pbP5qs4mTDEfbCaN6F0sShBOZ0PIh9siDQ2_XAXOFhKDCZ4kTZGL3aY639y3OurEq5ctjWvD4ud-w-og2uQ7NbaGMuuLVxW6LWImDRo3_v24L6NX1KRmaOH-gRdl7nD1Wj5eHHvHRqImansUD_05jxsSxd097mYbp8QPAWXf-ZjOvauYi1UshqTOewYIB2Kcrfun9R7B1ZZC6JzkZdaDb266nq0Am_1dkPaMBIxScDzR05QgcF46Co9pyW5C3f60wI2L4YXHjPfK8hHiODxqg
-    widthPx: 800
-    heightPx: 1200
-    authorAttributions:
-      - displayName: SUSHI DOKKU Japanese Restaurant
-        uri: https://maps.google.com/maps/contrib/108634109775938006191
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXJrQjd8gSSfmH-iD0pXaqd24-3jTcq8ocd39y5hIRvZH42ZFan=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOjas-kpG_CPADI2gpHx83d9DwUca9zliOTRj1V&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjas-kpG_CPADI2gpHx83d9DwUca9zliOTRj1V!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
-  - name: >-
-      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcJ5qaTTcH0NP7kIXGJtb66rBZ0lxXbG61k8pwh0axVKnV2ydl9rMatGZPf9MHCoxSbG93vx2BhATT_mdXqMlAZcYdGaXWzyu_GKt_yNuaKMFgVHreXsGJbEwZvW5YTLu4_GwPgkQ6ShDqoHZotZaEqDP7IOiRC8N_bzLlmipkPVTtT1VDrAekYRJdus517Sx3A0HGhe-pL_FH_4YiEyurZtxgx_PaKYC1GLQbZ3bGykEHQehojqT4hhkrTRWKDm5lccLLJyx__dLA4IwjZGXvd9CFjBgKXPav-GC1sqfCsdK-ZOs872Ft8afBB6JjStG79GLzl8-esaVYO5_vaFokLuDAoXOy9kG6Mg0-gNAMW7QL53D6Pf0UYFZaOCYYQtVQZtNK5t2_8eHUupuGQvfBRDiEhXLURduh7GuCT8mmU
-    widthPx: 1537
-    heightPx: 2049
-    authorAttributions:
-      - displayName: Jack
-        uri: https://maps.google.com/maps/contrib/100143708190314672185
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWxy6q9UFLoNYLvcwQAgLB0qn9uCF4W_HspGQOd5TVSbwqg53OG=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9gOW6OQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9gOW6OQ!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
-  - name: >-
-      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcLNc4NW3DFVtrHVHZIWA65OoeYhSCdoO1WI53joZPkMa_OX2mmEZyAXIW91ownj43mPFk1eYuuaXcXupqPZ-3UEyUefmLgJ_zNp_hFKSuwmZR1lrHab6rDbyHYIS2kzgtCSDGl1-QDhEH1ip2xhhOhqHWDMxWcSKOIcUwoc7jM3pT1txXQRmG_LZaIX9sQEc3HujEHhzk3ywvPWgtrZbIyz-d8Yj_CehkpMtYbH9iMomcubZr2srkG9R8P2jTo0IUzSVyofQLGH-Ym1By4L_OtA79fePfvMmF67qZXvzohGPg
+      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcLKXwL5osKOyAVN-NCUqbMR24HaWhOSg32ebjOvVBQ-3YW3E6vjJAy079wnbVK_uUtU_X3IzHeOpAYd0v14QtdEY5U4-JC9Q3egilaU_IOfASxY79JU7gTHxyKBCdFCQVfpEao9L67WX5Qr0x85s5bBnEmDwF8DpLVesq0pbPHsaTnOyhIw8Fc_KM-43ckrjUfurZPnumqcgTbIfjmVuh9wUJh5e6OIYXdYp94CGWyldiwe1Fr46hPNoxLRH8-qgWh0IJFCZ_iGhlyfRhPZTp7fNAAQsL0raZrjzJiMPheb2A
     widthPx: 1179
     heightPx: 867
     authorAttributions:
@@ -117,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNMQMYJjg_v8lsj_bWMd3GCOXepvT28Xf4O7NcH!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
   - name: >-
-      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcIMIV0dYaxTsy90fT7037-ovMD9Qzmy9yTRbI0TD-mg-A8gG1vIXENwh9pK59cnftaPcw5RW3ysyHYOF64v171BpTFJ2SLsKioCOwt1K32H8LzJ1hBs0mI29i8hF6gpLNE4gm4NsdC-pUBW7RQFMSjLZAT-cXRP566b4xZl8R6qnX52X884QOgL293XFU2aCVn5TdVfuxDS84vLpewo1wN9B6TZfjy4duK_YUj2bmlJjSXsCL9VIz9QjSDNwTbOF38M9PQGhC8HhAwPffz0UK-yNFts8F0FuZECqKaMdc7AIQ
+      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcIo7qAQtcUN0xyNASqAIbEDrsYueiBVHhOLonLSSRus_WoboYmWmzyDsUenPVxwBZvw-_PH0aPNAIxlcKzoNSvECFEMTYamNtWdwyfb91GsUdMihG6N8QKurDwPTpneuwFIpCQ9mpkvuyVD4YdQXBFt6P2UhqfhieenP2w4YrLTP-CJYK3Ss9rX7dKVDcgZugj8t1RbFcHzb2Nrpbgo1JuJanzY4EzZ6GVkKnU1UyI8Hl8_LiS1dhZ_sEdeUny4K8wiOiFbKQXfjwP0NItt_eRXYUJy_qAHssPtv3ar0gMu4oLYWrtoPmVt8q3faaNptXGD0XhCeCXK_x-qkamo0xKV2jmFdp7RSXuxE4XloM86mxyroMwsbwpHCdkcjBIEIqDHsryIC2-9-Qkt7JnQwT8kVUH51NBK9eR2ETkNG-5yJA
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Calvin Law
+        uri: https://maps.google.com/maps/contrib/111649997493888544813
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVH8Z4Suzy2SfVsE5xqxQF7ebxXUDa84EZJnfeZ_DmPJYnhjcANNg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDtq_yGcQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDtq_yGcQ!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
+  - name: >-
+      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcLJ6xcRyQ_bzmeeIuC8Lo5V-w3o1cpxBRe8oVqhLkaEPhTGkouh_P_MEPXk7RKkkj-kBL1qKHpHyIJigwQHTVK4mBPZpnyA8EK1guuE6xLwNBhskJED4eSNkjIZiu_EFuV55zafAN74D8geWfoUh25BYt3V_qnlxT_eaidl9lB168vydUKNO7CDPdXvoH77Z8LGj6r09bJmLAa2_m2W7u7qdlenzfFSCOcKxdzs1kAPXRTf5UYIbRwFscikJDGgj9qR-HyUg4q2vxJC_rAE3L3RDaqBwmHPxLKoYi6V36TQ7A
     widthPx: 1200
     heightPx: 1200
     authorAttributions:
@@ -130,18 +117,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP25D3WOfQIIw-D-B_WETXUN6ezIzZwOxY3bXUP!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
   - name: >-
-      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcIwEdSr0VcUt5ue4EWf_aOokqrVMakumET_DggKkYMlcblL_O-G-DfksWDUd3cUIJbQq8U4Fi37KHNLGNmKWKZt6VwI8s1qMYGsjZPbhyKseRhWxpI1oaeFlG2aE_6sWloR2dkEhZYkmzbU1zOg6pFFIfMSljHQAGJCcR-ywC3f8tIy1WMJ_-IAdbA09qtsKT58_Jj0MTX6G7WnB35qx88Stj24Gt2WB1WlONpKeKuQXTrJUCyw6N80sFU5ZpQGZgmIl-D_Klte9RgzOlNPo1emXDVCQpcjKQ9IVmcQ8ByULLuZlnfLLbSA5Nt6aQNtsg_Ye7LZM0SAFeQpigV2uVXOYqnEuESe9k_fErubQR558IfSf8QIew3XVe1iV9kjchbBIiARQqT3LRI-0AO8as5zOhXcPLwNI-8DGFKMISkMPQ
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcLbApEuAxphMpNsepptti3diXTF7MsuU_Ml3M8uczutUPZ_M4XVEsLIhzKPiShGGpSBRc2d2p1wF-M21RzR8SUd48oJ4KwxWSMhPFZ4TVYvVbbm1dpIgBhg4gPX_qPSLT-UxFwYycVbBS3ez_nu70890FHeEFjhxHHYiZtGxZRg6lnb19gDcVShRF9ldE3agcfFsihqMIWQeRnO7keTlFY-c3mdgQ6CRX14fI5Wv1wFvwLr5yMjULRfSdgUKcVVoc-iZX3TTUrtYanmAQEIjs2WX814miwlQhlO4y6aW_m51A
+    widthPx: 1200
+    heightPx: 1200
     authorAttributions:
-      - displayName: Calvin Law
-        uri: https://maps.google.com/maps/contrib/111649997493888544813
+      - displayName: SUSHI DOKKU Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/108634109775938006191
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVH8Z4Suzy2SfVsE5xqxQF7ebxXUDa84EZJnfeZ_DmPJYnhjcANNg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXJrQjd8gSSfmH-iD0pXaqd24-3jTcq8ocd39y5hIRvZH42ZFan=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDtq_yGcQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNODGwe_tSjaPE8vlo5AbzJtCVRKr3qgv2nboZA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDtq_yGcQ!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNODGwe_tSjaPE8vlo5AbzJtCVRKr3qgv2nboZA!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
+  - name: >-
+      places/ChIJa1x1zNosDogRWaWIsW63ktg/photos/AeeoHcIvnWg8Qu3TDJ8mqb_0Cu2KF5hC2_W1W5qbKE0lwy81MGCfv82-OcY4awEGsu4loCq14I38v7gFZTC4wQ49wu7WiEeRUpBChKtbsOfln3jrblOkmX6VN-DvrgJ2QyNavE52ttfYC71BsVhCIaBjsgOGLq2rxqNeyQxLpAF7gN1fUDVkp9tZo-pj4t31D4ap7G6sGP_IYvkFOuOqnPRImVY9bDghmb2ICqhBK2dIKg5ghSr8PtnqLrEWtPGFyJIYSYRvrz8Jt3YVlVhOoRtB5Z9hb_Ft8CE0v3iJ2gRQhFjWkA
+    widthPx: 1356
+    heightPx: 1356
+    authorAttributions:
+      - displayName: SUSHI DOKKU Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/108634109775938006191
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXJrQjd8gSSfmH-iD0pXaqd24-3jTcq8ocd39y5hIRvZH42ZFan=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM9iz6eoMCjINeTzzYvDZYqbShTXWTPX9vL6OKm&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM9iz6eoMCjINeTzzYvDZYqbShTXWTPX9vL6OKm!2e10!4m2!3m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
 address: 823 W Randolph St, Chicago, IL 60607, USA
 street: 823 W Randolph St
 city: Chicago
@@ -182,7 +182,7 @@ phone: (312) 455-8238
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.6'
-rating_count: 1202
+rating_count: 0
 website: http://www.sushidokku.com/
 reviews:
   - name: >-
@@ -475,6 +475,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Sushi, sashimi & Japanese small plates plus sake & cocktails in a chic,
   minimalist setting.

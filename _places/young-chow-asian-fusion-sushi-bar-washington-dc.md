@@ -13,7 +13,7 @@ description: "A mix of Asian classics, including sushi, share the sizable menu a
 place_id: ChIJMzD4fi64t4kRf81PW3oK5Lk
 photos:
   - name: >-
-      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AUy1YQ25jD3EUw0NQCHBo88SREYDVWcTSwxSK9GDfUfhiFEbZm2EmT2sNDrZFw2k_t5mvSd9SdHKvHTLvReMLQNsG1sRXvNhIWIZG8MCaDkqMJBgSKG7TsqQY9YpZ887iO-dxDDJWVnmUOc1g9cuiP1WZgr-mRUukij6pWHXqqe7XJloWoN7Rpu38h_vrOmp6iHjjnAPPENtBeSKCCF9l-d6AiVvNVndZk8VQ2fxgLCNnNZBbMX0FC4zBuYqgVkJOxlcFPo0grsrVHKJIKlq0uRmOQglOnAogEc41NWP8FmjtT_qMA
+      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AeeoHcJA1sWCqQn-ZPA6ziIOyWLfmyx9ImD2tPwYnSA_0VQRkAFEsYDnliC2U5XCU73Up-TVMj-X7yp-tdlZIiprY7unPtBQp29kBFhTFvLVm4wkmheMdd53pVUzSDQlS84eSyEQj1GjWw6e61w8NtWp9gAAL1XfIa7ysYK6F45yamtw_qktjXsLU5HxHMyLyZ0WgCH_hA--9lF2IvP05UAN63s9eZb0Z--mE-n2A22n2tNAkJdK7hYssBFYpbrb7Q-F6OkF14fEEbJ0FWpStihBmMniqpj5FLiwcrh8mxjvG3iakA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,33 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNqwsVqhvcaZtCI_NQsNOVTmhZpvaI_ufHsfP6A!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
   - name: >-
-      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AUy1YQ1VbGAyJksTPnxCToMqI8DWqjqB_cTp2__G_PzdRSsBhScxC-uLiEa6Ko4BbLuKS9NwmsO88gfEbGW779K9WA0jAXAvIx6aZTCLtxJE8LZyVbfHzC_fajWR3RS6rH_OR9hCJlcYblqLWC4L23vnjf0ugG-4zVgqLrpP7NIeSggXgWQDi8_sBQ6iKzYDlZWTfNeI99JFhEpUuTpf-N1a_K_dXZ7bQAH8pNyCquh8hiX-54gfy8bhKtT73wpk53If0WUA52vzfhlMVh0FCxdLDnIfiSSXVuFQ8Rk_0sFiWzA50w
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Young Chow Asian Fusion Sushi Bar
-        uri: https://maps.google.com/maps/contrib/110836573408065807117
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJIRCA_G2EuByZn-LHLhxtSct2hP_yZ21c-AIvwvVph9EGMkQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP_68kvJcAYN5-tNeJk2msuuqQN0chdluDQXxw2&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP_68kvJcAYN5-tNeJk2msuuqQN0chdluDQXxw2!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
-  - name: >-
-      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AUy1YQ3CErqOekx1xzV-4jGYUK_REGmillvAEbI870orRmp3YXqbIuLnd4VPiXkH9ce61f8x2kJo1SLlW4bg3-f37xCHobTFMdl_NCxbxu83h9bhk4tO1mAmmLvwcxNewEV4LLMfTtI3x6YvUpWUOzoOp3Qf1cUrT--rm180518Nxa8WcUp5kU46EePDQ4zJ-YuUpJPJk8nHLakfBlun6pmUdB0x1_ipDJBXuKVP_zaWyzKOKezkCpu2hxc2QyDihno-94Vj4zj_uLQ75Nh7CKvoyo6GP-Dzf6qjHXo4N47ylYvA4Q
-    widthPx: 384
-    heightPx: 512
-    authorAttributions:
-      - displayName: Young Chow Asian Fusion Sushi Bar
-        uri: https://maps.google.com/maps/contrib/110836573408065807117
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJIRCA_G2EuByZn-LHLhxtSct2hP_yZ21c-AIvwvVph9EGMkQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNi2kH5V3mz7oi91xoaXeio1h-ufA40OWm4mGk2&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNi2kH5V3mz7oi91xoaXeio1h-ufA40OWm4mGk2!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
-  - name: >-
-      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AUy1YQ1h_giyjzoaHVgBNOz5AQfg1Ed6h5YSymksIpweqMp_HtcLCnAKkI1NPClL3qUbuhLb2-UVx2yGKj2v1GhJHKPgx0nYQcSu1615ZBIxqmlvUoZULO-1DnqoRpsIHz6C7LMrQaPBXdimXP9iEpde6EQhzQRYDBHGHG4bFsfa1_klN9GCHVbdramr9DFY5mhczMB1b_zBeY2xTcrLehN5twoWE-_Vu7t8el58xEodNY0FKCNFkdLEYoDThDV_5i-L_ucCGqK9wp4LexNPAXEn05dtV3SJZz-q-GSbJVUuqsIgOA
+      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AeeoHcJYbQ7aotjisQw2vCcpXdXscsn5BBKfa04lbG7ei-TcTxvV43rJ_rKYwo9XbCWIyRyZVuq_zt0NTpPgxc-x8vOv1FhloDI5QrbIYFM7s_06sOggdzuKZEbakzt-sGqNsc9WobBdNFo6GgImxiP2OgPRbB2ffOPOxkxDO470N3CqZpCjYqc_r1gr3Vw4rU5StoeWFDF5BZKeYVuchyaEeeFSwgGwFneQVpso6qrEXThftrdpekzvNSuLxbAiwhJSPb1vUDbqoruM3eCkUiKoo5fENXGCUFRHuk5e22J_L0Re8Q
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +39,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOXQBdcEvB_yex3X3PjS5mu2VqVXTCSCnpjRY5v!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
   - name: >-
-      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AUy1YQ1NnYTNZJyaZuINQUTh0Ml0heM46u_r5YhJZZ4DhMxPUZmt9D82vT9UawwV-_70NpHJPp_14-4ez5jfv4C834-ZGFPrguQ7dN0l8NaESGQCIODijR1qxD3IebbM-6qpvlVeJbchgxBdZ7CwVgJz9hgaB9UzxTyoujmcWvQtYExKzOqmyDkF7uAshM3Wh127SrENqebQxJV_OGR-xge4s4d5pmhBDI0rPcbuSuPQBXFTd2pZX7ACSHxGq2hyO9cMeaUixWT3TsvvfIIrugxafcrDhvdrssCA7YGyyDmbjnETMD90pG7bKrLXTwdAL9HFx3Phe1AnYf2ThohyQvibpFknhtydPRyp4_vvrVn3hgH5YDXP8StFHKC-94L1D8DAttMwuGn0kiG7Zu9LZH3Ii-7ma7s2Mn5Sry7ux0_KZBkquw
+      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AeeoHcKqZTVAzcYZgVXvIEUL2uamO54iytvtaMjDITLTJJLp8wZ-zXqTxVw5FHdZUxjXbu34pSsHeeeFSmiamz4tvAXdGqjwcL5M9yoqKDYO4dlp7VX8c3AXVlYF_du9GzTXemXauTj8IIBNfCIJuA67HBrCGZ9NXzztR2SpuOVhjKEEb_3GjU9t3JsPqPpi1OjLtovJZgRwkLFaJ2VZtLdEa5twnv4USMUn-6fP6ju_ta_o_xY3TJ5l9Vq5upDPxiRf30-xUPJofiTmGJjBOhsLDULMQ7SQLQu0BUnczJ_NEYSt1w
+    widthPx: 384
+    heightPx: 512
+    authorAttributions:
+      - displayName: Young Chow Asian Fusion Sushi Bar
+        uri: https://maps.google.com/maps/contrib/110836573408065807117
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJIRCA_G2EuByZn-LHLhxtSct2hP_yZ21c-AIvwvVph9EGMkQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNi2kH5V3mz7oi91xoaXeio1h-ufA40OWm4mGk2&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNi2kH5V3mz7oi91xoaXeio1h-ufA40OWm4mGk2!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
+  - name: >-
+      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AeeoHcKfPY-CSBaZutKiheUm8zeJyA0SM63yA2vlrLqCUGiqETyvJ9291n-okXX0mFZ47eb_2QwMfwDQO2rrB93lSAbCy6SUZmyvLN7Y3KZlOgFEvUa89bS-TxwMYyo9XqkKfib5GChZRPtc6RRRFg1LFlwQKYrQitEzsoaaNi7hwBCBS-NM-ZrvA9vkcc9TccZCUcGK2xTKWrcQabnN5S3ZV4gvM6pK2ry7PYGtqWEoSOaIBjm9iQxLG6duPE4SI5Rl9ij6SVKjhYl-3B_dFRilVzdEoZtXDjI-ornUwZg6ij8D_w
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Young Chow Asian Fusion Sushi Bar
+        uri: https://maps.google.com/maps/contrib/110836573408065807117
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJIRCA_G2EuByZn-LHLhxtSct2hP_yZ21c-AIvwvVph9EGMkQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP_68kvJcAYN5-tNeJk2msuuqQN0chdluDQXxw2&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP_68kvJcAYN5-tNeJk2msuuqQN0chdluDQXxw2!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
+  - name: >-
+      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AeeoHcIfIhEhxSA4wppE2jFcdMsLrKQhpI6VNjaF7C7kSaiYq9-iVxM_QMHYSWr9MkRVYomm7QLo5GGmB80WAN-WoPKUc0q10Y4zyjJ8ikwcEiXAQRoY7Yz6fzmtMl6M4gpC9HpgkRT0QTMoEedy5B5NxLwzVkTuKr-hOMY6-XXrrxEif3jrB7twDlunJ_ElIa0Jq8Sutx5jVLbtEQYqmtX2G361xaQXGJ5QLf4gx9i7sPqEWJ30eCsH2SCYlwo5OIdEQXJmGAR2mwlbnFEG8-hhFMlm319W8XFbVzBFcpSL6waEE5LroNuhS8e3yeao-Qzz0o0lPkgUEJZj-QvXUYc7uJBWkyrPDWu2MNjumQtEen5llDIpyDX_T4r2MI28GkXhX47gfiPh4DKEv8HyEoNKClfic8kuHDvXBxxvBj_-2o1Mcw
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj7e7oAg!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
   - name: >-
-      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AUy1YQ2KyY-jORwGWOoj697uGpGiwn-mnrKCpn5VOhye_BSPR5Fk-6B70ZZZU9P0synNquKHoY5EVeZbGy32iZK3GSa1yZnXyUsKu4YMJdrA1bBbgRRUly452MFIAK53bDrdMJ2exfR1e-cbvS3mTSz9dYkJNHU8vsxJruPW6ZGzaFzNkE6hc6W3msYL0mmXvK5JFkl4wHk94mzRnMiibzdU-wIT1HcfavqCyIIbcZ9-vQrjgr-KftfLpBoxNxxyQ_Q7y3aWYwYiToRJwfCmUGQYakuG9QRHsvUR7PETRGYpLh3tncalJQfj3TL8LUym8RNUAw8_YLP5DuaDUHXrHbJOb7ZOBSENw_v8Udn9U1wefSUepsY5xWgrw8Fl8KJ-nBckS-WVtNbgs15nocAjNGmMpPzWsWQ6tZUzK5WKObKmhJCzIcLX
+      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AeeoHcKRohEnBC7A4CYvc_9C1ixUx8gttGRMAjUBZuVewzWVPs1YJCHnEBjEwpKHxlRldH8RQ3Sz6HCY0dG8upf1v7gf2rmdoUQEVq6NQE4wsusi-Gy0d_E6Aa2hz6C3mfFFSV3Tnt6txOja3q0moEwQR01n9_nyLVvhAxVsEWBtj2q-w1-EY9gtRow8vSpmzAGnKHHO2vwDRsUWIi8fvsiqQ8p7focuafLdfjyZxK9leww5i88P18B30zEnCfUXqJ-PFmyytp5Hmj_9wmSkk-4SUfKXiuKZnJJGUWXdGS6xr2vaBzwV2rm6BiWrkDxHoRrze6u1nelvu2U8VKDQe63N1YMMa6Rw4PRU9e4jVqlR3ERL-eSEnZIOarmD103rf7-1B24uu_5NvMK2Mq95cY-FJKqjRv8TMS8kFatmulv57gi12pGn
     widthPx: 1920
     heightPx: 2560
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9n9S4mAE!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
   - name: >-
-      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AUy1YQ13e1fKqiXjd1hMqeVT7FRSP1NgmmCsLBtOdekYWpJfS4R6Mik7RwCAnk2DGm1FbfYZxvHxZdVMgoc35phraxr1Ohge5x9C5-mKFl8Gq8Hs7WVknr8_CV83lkzhQmFoAgT4xuAWcFojTcJGDullm4ISnwU5cqORh3YCsAclMlx5s-BfmICmWlNgObhzQ12ibJQF8UYnEZTlHH5PHIqY-v0QT8laLjDe0zwQjOV6ak-4ilSe6lCT-jmrQhIz2jRlPaPoX1wJ56TFL-E-xN-eoF0LpD_VxzWQD745aFTCB3w-d_awQepcDH5lcluFjA313kTRJdbNvi6lYch83rXE-vah70X7gugt_GB9qM5UYLKDTGYXJ8FODMa4_fHIhYxSjFTC2sFUMc3-UsxgpRkSqrNrTBNTRiDOhTjmM97a2jU6vw
+      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AeeoHcL8A7fQHFVm2fS78nVRoIe2b3YXgx5XkCpaFwASR3v3epk2gJcawofh2_3kXEsLosvq2BUpZlXJ52pUyzGlVN9kESsTQ3S223zZ5I4K7nXgwIghInGniKhTNTT8zAfjBXakj7o0Z_aulRqnMQuiVDgOMtrN_waDTmjuk-gsGUkyyBvRphwKWmNwoIUCyFeU9QYJVpylElIqrXRRnbrRMa_TXUNpARbJs3cxfatjAv06C_z4rmim6GpU9KPF0ckGT3OP5KdzT044tjlG4raeTO8sd0jCDZxI56BAl7SaWpYCbtXPHIZ01780hwqOs6t5u-gx2CMfeOMLqbNza8Z5zS-25z9RdB7_ZFeouAJvNL1FOf5GVovtFZBQpuxwxFJ3xMaYEINj90zC9YAAmJx2EGfhPEHyPQ0WeSjXN0vwQEwTQQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQo-2XMQ!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
   - name: >-
-      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AUy1YQ3T8giqgS_GaizTPzZ2WaiCb1tZrRqmHmarT1PMvDTM-3ZJ3iPiwTKFVfWuRsQy6Y5P2lrNLPQooS-_QoBhv1S8eZeOMkbMAWekwQlurGr6lQ3nD6nicOJVtmq3ilZjGIfJI6TQ8da8bWKrHTmJiOvRkhDMxzOGgeB_mTMx-0dkOweYNR1T0mb8DiFhUIq3fdukurmdTgCh4qAT4jEO3QRM5m7oFiOAGvltaA8stixpyVrTCSsLNrcg-WuDKTWwwIsDUEVXQiWBQ7MZrer3oGcLJ9EummbAIA9QR5r6pDojPg
+      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AeeoHcJZLdTR2B1_Y9Zq8SqoQX7ica9aVL1VRyXesWcs-R1tOUU1qiHl85rrTN-eLrPEC93Dlj1QHsyX5odz2dLgumLuKiowlhxITFyacMlWhwz4QE5MPjclvu9eCcwtx7s94tdQBjyLOpMC5jJkHdlvV9B1cDsQhWXnezHCziF6QWvtXLPgDxyTdF7m45pnBAc7EFm7ZfYZIq1HDqMW4hju-FXeJq74t0hHreJ9-62aOgyYrGVTqQ2g5dg0KZ633jnebh5KGbSRjPnxhbMSgOOJyg1XB1cyxdEIVJuGkIes4Qc_xQ
     widthPx: 384
     heightPx: 512
     authorAttributions:
@@ -113,11 +113,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocJIRCA_G2EuByZn-LHLhxtSct2hP_yZ21c-AIvwvVph9EGMkQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOFqRn8uqguYAM03qGvS9Gn4WvAHor6mzPIcS6y&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipONQe3Way3QMk74qgkUntU8BioDVrJtSN2AHTp_&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFqRn8uqguYAM03qGvS9Gn4WvAHor6mzPIcS6y!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipONQe3Way3QMk74qgkUntU8BioDVrJtSN2AHTp_!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
   - name: >-
-      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AUy1YQ1VCuESs5Wus0rwid2CJDT_eC8_OvwnSOjPZ5kDuvpVMoCDxGvmzFqd3q775fDg_FXgRTOUiEU8IqbVt-vjrHjW3xs_A65bGUhx9LBkqhxHqrQNpTxJZgk7YdTE7IHCsi6Bjy6w5nq3fQuA6U13FyXg7NyydRihAZbfr0R95Lpv0GNUM8W4ezYUW4HbYVUIWb4R2OKD_j11BWeraPyPCDBPVP6-8xEW-p-oBlNcNCgFxjsBc3FDR3apXJQowZMYWlkXU-toEpiDBb7aiT_7S3ezBryzukQPDqJ91uzuPyACDg
+      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AeeoHcJ20e-tHfWrJFe-4jcHJWBD5eBZ_3fOZgW_Q7-aDmwKq6Jh8kL3CTD5Pa-hn5oDpgycBp3OREgVBHY3AIwWB8a3GXHC9O3ah_NZ20EWu5embuZts91y2kxpXA-FURgJgTDdNULan9U1VNY3OXplZsPoIwo-efUzwtNvYHNI_5Nz_as7TF3Ddq8m3VKudOmxqXq9nXpq7iQ6NHCYPGVdgyhuiVdl8z1ll0wY5WoecaKeGUn6Mq5ZZd9e5whVDwcTMZv3zZsWwP_N1skERJwKZtsDRsFQMAU-CpSsMfmDjvZu3A
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNQAz5_G4zIXSPJIXajwMotLeSWPeHKtfqgse-I!2e10!4m2!3m1!1s0x89b7b82e7ef83033:0xb9e40a7a5b4fcd7f
   - name: >-
-      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AUy1YQ2kXwFNrPhn_I_FUxxbjTGZMbi0o77AbkhwEBaaP9yy8x3-y3nDu50DKRIzaZgRfJl9OHll9_axVgV7hgai9B4xDhPvWZL8fHFpxvrKUe3OxbEJfEhhb0h10LWV1Jbz7T-ryYcmPot3dk20qA97kbSq0cR3UZqJgM72v3Km5zLK971s987jK0NeqJAQfjPhw3uijloL8Xlo0koKmLgt1xLXoLE1NmYwjQtZUvela3TrG7t_HIwfq6PpuEkLr15j2I4QwBLXxNIo9wL-w5ZfLqCaTZE7sK270JjDsIx5EOtEPS8nzfqclVFhpB0161qCoLwYLTpStt0recblqu1U332J_giOMatTgSNvIwakPM68XGgfprC_m3KDhNlSw13MVYbts808eAJQf07QE2qixcuRANZPVQAfw2mwAK72D136-g
+      places/ChIJMzD4fi64t4kRf81PW3oK5Lk/photos/AeeoHcJJxSY726u_24OCbgbR-P8CfGMnAHcqrgv0KVYV8qnDLeq7JbhH_FO3umsBn-3ONV_8ofCLac31-NZkKRBkelHnMZnrHP1vv0Vi02t2PJsytv1iNG2tfs8NJ7DAMt4YazP7gf1NggkcLNpTQHaFwY4HCOkhPYhPxJqxAdullUWTACAxYoB3vMZBFs_zE1JNWWBdK9dVnL31K-eFVikTAB-2WGhapsGRckopVvN3u3X-RCvbJKWVxBfqJ2ndcGxgvYcJ1IxMk68j0NBx9RxOI4YipQ_acy5jGylTuWUNB6ki97U3JnMVlH1TofrHKU3sS1RW_eXNlnNWCzC47-eoreioC9KuZIh7VQEiE6D2bsEKlrlVsabX9MpLzYm4roucbuyBCVBRoxO4Oyq-4SyvP9L4dZpnnaExheqwVU6oFBGxuA
     widthPx: 1920
     heightPx: 2560
     authorAttributions:
@@ -214,6 +214,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   A mix of Asian classics, including sushi, share the sizable menu at this
   unpretentious eatery.

@@ -13,7 +13,7 @@ description: "Sushi Soba serves delicious sushi in Old Greenwich, Connecticut. T
 place_id: ChIJ18w7KGeZwokREFtlbpVKzdA
 photos:
   - name: >-
-      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcICA68RsybzXc5V9lsKunF7QI-cJniPn5fWr-NwAmizTIMS800ttjT5bPw6QyrE_BH-jjueOnIfj6DkrzLjBk08XaIQJ6RrY4TwcYMP90SH_N1EC653tQFHrEmECBdbd40TAYmXNFlAhEekrvj_cggdSQ7u_h7YoxYS0jYaL_5ygwKZjAyLVHFPzW7EzONd6SKWdthOMpVfZlyRHFoDY7v10FeFUAXce9NkqFIanjasjWpFOZQa-Pu_6wk04ifrUFtgsR2q7Y9799ZcNdX4uog6k_W3GW-UzBazJSFICx5Ing
+      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcIeUQq2KPSzbA7tlfQQqaDrLKZ6Q749jesDnis639Z0S9wIDLClCsEAo2KfC6uVfWiQBQ1bFe3j0KTjTR78xKKpr8da71mgHCOLeiCKEvPnjr8Ujz07vhTF8BaocSd6tmSvERQ7cYp0GJp13VJtGnjQlTALjeVlGtmraMA-izDDhaG4kjD-lxG605B2zHc8SHBTmrSeB_9xMs9r45plawXzJQuodhxIfOv1FFyPGD7pUPCvcRiCI2FhvNBNjZgqGoQGhm-7KG8RLoijdgOCZ1g_V4A_A2IrGigTQ60JRpGSxQ
     widthPx: 1440
     heightPx: 810
     authorAttributions:
@@ -26,7 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO32TaEb3CA6IF_CjBOvft1WQP2VcZVI1PH_vxN!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
   - name: >-
-      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcKTKxxswFNMsMLyECFf0U-LLnA3NdjvhrQBYPT_P8_osR54YwxduZ0W54Ca_w3aUiNDCFfZAo0Qu3VvcwR4FuxfxrzroSIo4-a5OEcGFwXVyVSLErLrs3Er6FWjMl5HEOujLs9CQGm0SYom-Kkv-VZnHbnT0zwX6KJ1yKglAUK7fXCgVcqddb5qnZ84iXE9VWbahnJ-rAhUPdRu-k0jvGZ3vvk4hu0InxhYC1mIrSvj5Qqn2OF43H6UVQGGqM_khRXYql_S-yPRI_dey-hwq0v2GwvgexAVpKah-7bIaJW8lQ
+      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcJwTTbkM7SeJfIs9kVHt3XZGa-l-02BhNklOs88zv_YRg8_q_1RmF3FMv0cMS86gnh_YOMT9EAPM8_VbqcHyN72DqGbmbvQESxyqUS4LxNBgBrBi_XnqRGhNoJlskCO8l_rV9WkvPM_3EmiVY57dSHiyZoQsUy1jQBJNI6qSG4qOgoeqFd4EOft8BusrCljhteJ_xSnIQ2OPE0jwI2QEX_0u1T68BXvlFJ9CU1gX59ZYyT_1Chne4Y3sQlLUKSk64em_ahR2K1kqTVaFngoUOScT7ImjHYQIxXQ23mLaEHqhdDTrbNjvudt-DNbyll_AOEU4__w11Gnb-UcyMv8gsbqbhhed5-w5JwSxo2D-YcbO6bmCqvlMNk3D6ZlqP4A6eU6l196Ugq_fzExCKULiY3mgKTHwIQ7OGANY0MlkipX2BQH
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Mark LoGiurato
+        uri: https://maps.google.com/maps/contrib/116823789556768102113
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxBY64_wC7TBCXlH972PcMDIc487I-s0yySpIwZ24S6aKw5K22pg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCo_Ze0-gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCo_Ze0-gE!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
+  - name: >-
+      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcJMLcfI-gqCyPJVweSwXu7vGym2MygRz__3Yx-Lwu3dKke1vk975IV1Qfljg-DeV0MSFRKd7war1ZdkYId-H3xurmm067A5wG7Gybn-x3hx57Sov5RFZOp_qMmD0L7qsD_F6H9NpT89NR-isy7qIwEmeOV3QPgvAZX9C2I38poevaMSr_uInjtmrA_G6UgTomc1dB3-04DPfoGy0DfPTXP8-nMOW5zrfFb-bE73HAOuu-K3xZyIgHNtEMoWBhs5K4-lIU6kCga0Kaeizm02X0nVZe2d5_eaz4wZKfN8oOe15w
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -39,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipODqIOaDqhwHPtsYmOa6MKwpXFvP7_A9FcJH_TO!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
   - name: >-
-      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcLQeA07cbF7PYbtYgRXoT2KcoJR1iHsmJYLY6_sMd30oux-3UMxUxzfgINFwEIqJG5SQqQET3jqOBSi7aO3rEbJ7ojxf3f2vjEyjGaxBHAejvh2KUU2ieArjXlBuwf6hcdzDJd7Yi6iXGmrHSea_V_XqyTcg2YLIkDslgwIwKEvafYMsXZbuKD1YGzO6Te7k_11pghTDj4j3YMTOGCf6QaOwBsvJcP_2Ad7xoG5nLEOmfbBUiLfb2qCDQdMpUpVyQZz2jD-bBXaHgXVDVPKhOWXWiMkQqBW0I3CccXoF_RrVuBnUVaaqYHBDT9dS6JSXkRYSItq0v_B28jDqpCoOcOPdnNZvPmAQ1pFhUrZIEp4R-_Rp5DbonY4-QeLCDjfhOFgD5h9FUbgAZQ_qSrWKeQeNF3-aje-_kbnq1dy8ys
+      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcJt-softQVE2MWTxoPEJ7-jbn5ziELuMAl2bmtGwoFNHvEmvHRD6NBjj8i2xap-yqJq7lMAgFxLRjaUqNc778LdqNSD0JUId5D3twhKv7ChtCq9sV8iJ5TV1hNJhtF5RrQW9KKO03COWAQvRQ2ZQGYS5kP6mTNKNLpFF2-0XYBmPo8YEsR2D9vifSMSanSCiaHzFqEtu_hicSEgKr4c3Ab5OEg5vPc5ynJmr-juM-l5-yjj3IRDyN_VA0KNuEMBS2NxJct7nkfbmnI_5ERgoHvmHFyYdkhgiMbvwRzpWoGBcleyhpKrBkZJlEf-lYOPQBym9LJ_r3InYHLOjoE193MFdeZQGDt54Y2Eooa7j_s4x1pEbiMFz_xI3sp4XO0uz5_U9Ox2Nm2GlCc_9jZHKUFHJHopTS0Z81KgGXoZr5w
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,46 +65,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQuuP1Ig!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
   - name: >-
-      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcJyYd7Sxdv5AdwA1LJJqKxsQ7ksKuu5tB8WyB19OMzY85LIirR7U10_zowuA4dya5veEHcugz-4nycpqfsY825bnTQtzUYS2tPcKWSAKbR7GkCUgclEXgC2SOT_1vHn3u6L76ZvAZM9ClZ7y14mkXgiHkoi_pr4ZAjeVh1l6sA77pBheSOm97TMUFar_S9k5W2nUdw1T8oBzc3SrnSwZuALJVbi9U62ociaNBV0j9yBGie5tOZOQU8q0nEZQtbgA4z_1IQ4ovCDMvwK0nZR9EZ5pkcPnDVRJSK47tTnDBr6cQ
+      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcJbmX35dFnvPk8jxg-GJ4TmjnuaEZYmNUB_nXiZ5gW6b-V2K_qlu2vHAoY5wML1Mq1IJpXpsBwya22uyROVq8mVwhRWdIHzuYXfuHxtLzuxPlUdXuVrpdgx2yZPVYdb5ldPATJxaRK_1AxgtF9r7_Zx-ycpKxw-JYbVo7sZkgVMlqFadyjdJm1O2Z_lM523vxEVI5W6HFMrD-hFaJQPRKO1E-ryMCTUxjcJa5NVUEJAJ4FaPRsp9mFt_1C3wa3NOhD0hR7cDJdvEV0I3ufDjunMycR3-fiCrEzgTr21REqlnlS9h_vQuEPkrqzjNyB0NWkzAEiOzMqaMI2jMcbqeHFby2WIxz3I5XEGViInJ1oTZVEvZ3eB1ts8g6UWEKMttyRKWYpM2EmG-7wwkdq3j0HhZ_IAwNQ4EglWmpcAADZ5Cg
+    widthPx: 3072
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Mark LoGiurato
+        uri: https://maps.google.com/maps/contrib/116823789556768102113
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUxBY64_wC7TBCXlH972PcMDIc487I-s0yySpIwZ24S6aKw5K22pg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCo_Ze0eg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCo_Ze0eg!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
+  - name: >-
+      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcK14JHUiIS5HKRueeUIchz93r4Eo-W5ewo4e1ZLD12KTYPLSu-Bql2oMzsVx2WV7qYerNUIS13PhcaBRoUwLCX5IQ-chxrN4zDu6cJeoAZaOqARKEbBKj-cmIvKlVchFmREe5DNEm5jJpT6T9uofmoLIoDiL8dl6BWb4Yo4HHHRzxAloLwwdG_FR6WV01G8PLZPcUtgxhG22pFCsNby_fcL4eRutsWtVkp5gNF3uAsrNr6pkbp-UaWFfhNtvWsxAdr8lz_DYp8HHEobyRrwhaSYiS4qHC0RfK01yxXfrls1IzeFf6I8Q43NHH3XsUE1b03pbFAoEIy-QxSb7KM3ERkIZ1_seV12u2sxhoQm3p-kp0ZLIwEJo_kecW4Rbx032goi0uJfwI1hEd71wOhg7axF-pnBjoehP6eG6y0p6ip03HjJ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
-      - displayName: Sushi Soba
-        uri: https://maps.google.com/maps/contrib/116405062209153054532
+      - displayName: suzanne
+        uri: https://maps.google.com/maps/contrib/111222487574918203537
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX3cYCsSpsOm6w39OpMn8HKE9b0nvFjwVxljIZSvlpjMJNHkyCC=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJBwuGsZJn2HtVb3eZDsqwnFbdjej-mW4FU95eTqfoMset3wg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVEFuS04STYLFbWUhegxk_SHkxlaqe7ceSkcvu&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQuuP1ogE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVEFuS04STYLFbWUhegxk_SHkxlaqe7ceSkcvu!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQuuP1ogE!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
   - name: >-
-      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcINxyBMO-CJp29vECtq2P00dtCnLkCuVHtLXCfjeknCBI78bT8u4uX9CVQJPpl9AKq0p5P-Cf4RsS6YjpFnP5P7YDBT75X2FYRDkskVxNvZKf355WCKcVfVyfKJOyegRlesQHKv1WVFr3NCb8FYRL22Yj-67fTjKKUHY7ywc4YC3IbUif4boCJQnYf_xPtTXpTURlIL-TzsoCDeqWrYwxXFiRwrcvDi_unY8s17yqfqVoUjDBqT3TKA-bvFKl9xSZ09wpXO1Fz-k6FdB5CsPLE-AZOS4eiEjLwkXuQr5c92MQ
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Sushi Soba
-        uri: https://maps.google.com/maps/contrib/116405062209153054532
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX3cYCsSpsOm6w39OpMn8HKE9b0nvFjwVxljIZSvlpjMJNHkyCC=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMD3Mb_LiBLNx_AgZZyBM2MJyEAw2bnltELgqhi&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMD3Mb_LiBLNx_AgZZyBM2MJyEAw2bnltELgqhi!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
-  - name: >-
-      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcJ_6RZ9MdqETNbYqlphShm611kkpbzMqONusFY4gP4RHUI8dbz5wFTYOpcUaAUrlERBxjMRjx3CE-CO-YfK3eTWxFiHOa_EIsrDVLyTYe7FIJnawuAz4OBCNGynipCsULoCz13FdO6JqpdY5FOXchgpdNFkeojyf1gUGzlSWSe8vjyV3Lnfhp6o9VtD-TdFj4Wx1MBM2-frGhisqIQbWETTNDYdBVO4Dl9_xHDZq1Tq33-feDNJ-JMAcpMm1IAo6W0mSFnCVt_VXRmj4ZnhRvl_Ki1Qwi7b34ve0M5WLO2yNg
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Sushi Soba
-        uri: https://maps.google.com/maps/contrib/116405062209153054532
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX3cYCsSpsOm6w39OpMn8HKE9b0nvFjwVxljIZSvlpjMJNHkyCC=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMhX8CppUy_DePlTXrxFK_lGG2pH-P3D0yIDhvH&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMhX8CppUy_DePlTXrxFK_lGG2pH-P3D0yIDhvH!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
-  - name: >-
-      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcKjS29Bms7vTIUzpgI7_udmuhUis9_6Mt9qC4ahuyjjRshjjrfYqATQIPJf9ByXHcSZwK4mW8r3IDKR47g5se9Ztuct-ATKHUQHD5iXrN4TdTlsLLVcfv9_Z2FdI3MFhs1c70hey3pRq5iCErplo61dVYM9ZNV3kEkapeEaamxjTzo3c0yoCtnD4F22hgi91L6LvdN06JjoRZc0FjlKOG6hO-CFRn9azAgmoUOoYyUb76t0RwrQxf4ZoqZ7VnRsivhvgCevMxm6gqa-JEnJrXzwVidTm0WDuBk31ruCqg_1KxndhSm2ARSfDG_up5yy-Kq7wYiTenJ40pdyi2mX3VmFQm3Y3XuJpwZlSCsHjodtEktEf5HLvfUunR3HUN8CKAxUq8uQVSLlvkhF63efurYsMAmfWu2Zq3SIF2Fh_LAFWQX7
+      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcIkHb23QsKgn-0aj_uBsh00ab1rISadLJ4VvbrYVEye0Kd4rGRvYmXcR4KrAfHiDop88wAEb42TM9Cru6GHa7buc3-Qwe3VK6ngLzARu-EfxoXrdXNJlxyxnRB5-aU1dd82qtJL6_V7b8Alxy07xu5QaraZ77PLXEIVO8iSZtSxBK5IzICPKD23bBuVn6UXzJQ5Jjw7biP8JNiLpLx9KDrbVu7VXpc49tfEJ3qYzpcQBy8ZHVV266e9Vdw2pyF81kihgo1IOsEswYIPZotnJTVYgbX1Ii8rxF47yu9euvyVXJb9nHCJza6S9AqTms07sNao2sx22MnHrEFgN-12tkvvmzutzlUe8FNx8EiKvjrzBaobJILU8sa-7L8SVgaAIODaKKjQSpcwOC0xlekh81XgJt1o65tWlJz0xZTpbA2DSFuh
     widthPx: 3024
     heightPx: 3024
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHjLX1qgE!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
   - name: >-
-      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcJlwvlQhUZ5ELUNNDaGKpaWWxvROkv9BYpN9RTQsJCtUFyBMUOsxmDyHJS2GISCUI9XmxoJqhRjgYsfTWIuT_vZxVX8FpF5KuCyez8oqlUsr3bSk-xBHNysokZTNSjVJnVh6pO-tmZDAxrv7effeyHmlX4AaS5LEf3KCha5a1oZ-xyze55Ev7i_FsZkx8dFROZG3Pnm3GCYB0a48QpluTvG7iBHfgZMtRAQHrGhqeF03tsx7RAqhs7vqd4QmBINuMI7IMES4aqmDcI320WykvuBiMZ6Nl9J44zG4dfAUbVLlw
+      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcJZ1qW1J7verV3XbsF06HWEsiOqIvz94nT2jbFV-kiwA4kdKlcTGFQTDSkESMrJE0tqdtkWHXAMOtGb4Gqz1ijuGac0ADdTQE_YcMjkIH5bF-EfT-8A6FR22KRjKTcn2atCIDGzwUt6hEDYvRztaB5kg1ERMznyQih0_ahKTbrlffd9oovmZSwu_c4NOYHoNnq2yGkibHlx9SFm8qcI0HunYnfzBPK8Rm_2mgXx6PxtPuxE1Bc7ejdFKOEc5XQOcpK2qA3MJDdZA1q3A5w3iI_52pUuE-amJHJibxTl4yjVfA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -117,31 +117,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPmD04c83Aia--C8QKJIpizyYfcRHmdmnvlBnaD!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
   - name: >-
-      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcIuKsMjoZfHN9USWHEwom8cSWiA8GtkuO24Ze7WMXWbtaDoMoIDEXkATpPvf5aJFvD4lTEfzKLPxYvpIfvi_PBD9ybt06cGsXbtxP4qTtg3sbbu9tXVj2WXb93rJUilUzGoCnZHFexCwXNVpa_WTiLpYvKWf6bzRJLMcI1g-I-3kelA6-E-Vbp78oVuV6A9mvLNW-jcNVQ4DT4tlW2IxcIKmrqYhWVEn8nO__RocZVnbEz1rGVdY1S83Xtl4nFL3PerZELc_tF0rI4mDvAt_ZCV5L-rBr_pRVk35tDHGkS9Ar_wEKm2Cvdhe_q_PllB9axNA--Y6kbZ6dMFqRa3afC2xffONDESkpGbg_yme1DGyAO0rwgDxWscC6Vgy0gTwMCf2za4FnnH3YudWaGj9w_5axR5a2NnmdcdflfVUyzUoA
+      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcK_au0CTceZnPMukhV3Wqcx4gXuVO5EzaDy6zxxwt94GLy49kqXk22mU4tEff95NV9wfSSFSLaA6Tm0WUV4Pj7oDAkLFcfbsewpQaH0wu7NbF-e_Ui3GABpjIHgwT-Qt9p2zvsR1Kkbw1OLftDwyqp_6Xmu81w8hcKGfEIchrZfTQpyvpmShDVjFVo0yEQeU397-pfB4_RWAtSnD1dFmB9-Hgl1HteIdUhCO4KMHuZxvgJJvJfSGlw3UNggaNip27ZnSqkBhEwMR7-4Uxs3MOc5rdGrUoh6mlSDV3N-1W2AxA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
-      - displayName: Gezelligheid.
-        uri: https://maps.google.com/maps/contrib/110773827923653252232
+      - displayName: Sushi Soba
+        uri: https://maps.google.com/maps/contrib/116405062209153054532
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJMZl4BpHvuidL-Ky5ml7GAie7Qxvm54pgxCERXZ1Y2Aa9Biw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX3cYCsSpsOm6w39OpMn8HKE9b0nvFjwVxljIZSvlpjMJNHkyCC=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLuY-SQA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVEFuS04STYLFbWUhegxk_SHkxlaqe7ceSkcvu&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLuY-SQA!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVEFuS04STYLFbWUhegxk_SHkxlaqe7ceSkcvu!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
   - name: >-
-      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcJR-Ka8pZX_jU8fByWYGlTkY8bT5uhWrikCGIGQPnKkAtAGrrE8DNp6kbSgSvGc5xja_5w3bsFs4G3dIjUu3tC9FqIEPvCfa0rd66VA79OziF14hAACp0SreVkI8vzNyS5ccS46TBMnz6UV6Vqyhqm6CroF3KB7XezKNjhp3Qnue0Pr73xK25IfR_xvyxIUXOc7uS1ROJUGUllpP46nA0Wwa5bh-V9fnUdnqGKuUWZ6ogPUjnDlnoHE4Oin5KV7UwOWTsRUzK6_meJM3jY1WcApopeq6kX_Llv7ob-GIDlrQfdLJ5eZ6ODKXUQAB2ruUPJ_r3XKV3doWiq3mplaMLJrmiH23Vjd6Vk3jeP1LAWYGzerKojMU0esK3gLkGu2gvpJxbOnBZrJFqb4eo0XiN5y1fC7B6-IfwZ61Vm0yQCiavdI
+      places/ChIJ18w7KGeZwokREFtlbpVKzdA/photos/AeeoHcKhSO86S-T5hGLovb4ieEITXsJXH1vkV_Wvr9ktX-QjRknbr4uUuUxYLcBnQndCcoNDBn39fcqCNjWdUDpU6gehKnX1xHHAlhhzUkZ-tGzz3uW4RIQ-jOsxDaFpz1tEpQRBfq4DUuhs0Qz4aJ_ceoKx_kzq8hT76yJu_d401vVFGYRIbf-FMzA8o3YdP9dDsjT0lR85k4_3pkG7HOWuz50JxzoqQ2FsrUPBKVBzolbPq6TEisBJs1DPgWhKUtOZjuUwIQ8Kyb9lwwRHXA7-5xs0Q2GYibWzoLGmUtURJWyPPA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Ali
-        uri: https://maps.google.com/maps/contrib/113094213502887121337
+      - displayName: Sushi Soba
+        uri: https://maps.google.com/maps/contrib/116405062209153054532
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWNs1C1QmD55POqIGiam3xXPZQBznhAj-6JelcVlZ3v11dnnA4=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX3cYCsSpsOm6w39OpMn8HKE9b0nvFjwVxljIZSvlpjMJNHkyCC=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR_ejD-AE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNaygwqr94AsM825TFT6YzrpVHyUjU_xXcS9IkY&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR_ejD-AE!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNaygwqr94AsM825TFT6YzrpVHyUjU_xXcS9IkY!2e10!4m2!3m1!1s0x89c29967283bccd7:0xd0cd4a956e655b10
 address: 1345 E Putnam Ave, Old Greenwich, CT 06870, USA
 street: 1345 E Putnam Ave
 city: Old Greenwich
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c29967283bccd7:0xd0cd4a956e655b10!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:45 PM'
+    - 'Saturday: 12:00 – 9:45 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:45 PM'
+    - 'Saturday: 12:00 – 9:45 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (203) 990-0888
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 291
+rating_count: 0
 website: http://sushisobagreenwich.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

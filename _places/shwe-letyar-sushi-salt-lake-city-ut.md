@@ -13,7 +13,7 @@ description: "Shwe Letyar Sushi serves delicious sushi in Salt Lake City, Utah. 
 place_id: ChIJ9XBEu8P1UocRlwt4ceMfYZE
 photos:
   - name: >-
-      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcKpzD-L3xhD-SMY8EzqvVoq1ECyPCP3zGtMksFXEkAFL7jNBpO9BvYKHuqr3qX0yIHjc0sSlmtc0bC7QjipWxM5VViPgbxAZOwhHcSmGPR-9WYz_ldl9hezjwnhX2n4aMioowCBvalYocJE55340dU8xZ6ZnMF0e0gnj-1SHycCfMADfEPUnP11m2e4lIpVNqYZFOMBNRgNt8xnOt6V-O1OgyLKsydSy_PqM52baPOPjbRTUDE-U9C0-slMjqPTGgzBOlx-gNan9pBNVx7hre7ZTnKPZXs7ImNMa0g9Bp4mNQ
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcJgNp3iD-nnMtvT2qxTBhtfRBa9ZC0xdwUcCoVueyqDVa3GUWScncidRVX9bHyFsTEGQNY11N5l0i-PEB1vMj9S_Ehfy3BMZxyUIljvYYCec6SGkb6NAl2ldv8uDC0XoU_YwXTlh9infB6kPgNdHJG8-7H2rGCA3Pm8l1jTVnXuxHgmPnNs-P1CnHsmJ_vr2epsSrO31UpUpwrICIUsUFV0AlSPkjOjbO_pF9u72K2ojJUnEWEWj_f0t2WVpZalkC2XHMHFgDnaai0i8a4o4b2bgikbPOhpJBaaREvQNw4fBg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,20 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNDIwAZ1c1V26m26bLKsLAc5Xfx0FOOYEP8Nw6B!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
   - name: >-
-      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcLCP1smyDugWaNKX1Y8EorGMWBbUu3hFrfAdfJZf_RcZWjYLmwr83z_g8rL_wta0GBPHy9icRFqZYBORGhU7CtWPk8qB1h1Uu7TfIzB0MvFJp8ZmUIiPj2fOtsW5nAaBaPAWNW9MU3CbgEdRKtzcGalkRX4nLelcn2ne7EAa-L0yjaS748R8ChGDV0ajx82lVXwjZEQ9nG4oOLgQblkzkCpbafIrVkroLU6sunqZaj2yp64ybbgdSwX-V7_YrBpKHT2Z9ZuapdogEDrbK20u26iP742PXpGY2K4O4G-NtK2jcfg25h7NxWBqEGQAlOAilWcbmIB9KPPNgj4qGx3ByOdpF-ojwz_RR3YWyZr8S-p6cVdbqHACEZNZcH4gX8w70pFflBIJfXgrZYOXKmddyW06f4ugTGj70S4mWW0bgQw7g
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Ashley Walton
-        uri: https://maps.google.com/maps/contrib/111232934443038137347
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWEv4R-uiVU30RuafsGrDKDWDRlWBMeYsEJkbfHaYsa8yb7yPZC=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwx6vycg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwx6vycg!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
-  - name: >-
-      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcKPz1b5RB0ZgcLuQ_l7sXx2Z8d36llQqQCPpmr-s7nWBrO290EYMcdNE8todPEZO-ptVIgirf1ncg8pBlG74orwqMqfyVi_tf7LBZkH9Fp5Dkb8aeDogVkBBX4XTNhMmiCOPsKukKfiZy1xd2QMq2b4--4UBvhMXJgkrpqgIkEpbzdLKMcWRkwLirVUNakWkkOwvqqtHoS7yuTL2w13wJMvSkBaPUCKyxzeRkXzGxgbAZ2q-PvnV-rXDDhBZXJg_-TJ3DTwKCAU88Ndsa6RbT7I-L3MdL-TbWg61r_CwAeqbA
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcLkicteWip8L7Ak42enX195zogqz6Laf25K9T9EyMz-zO3D6UoefXNEzhxNI5WXaE8kDG-rg-G9il1caqxrENHq40ulzw4jw64cX85Fq1fdCoJoK0_LdotA7RM72YG5vgqFSybh47w_q72XWO72JkDmf7yFIuddHIIlG416wTFACgg_voWILLxlcfs1mOGnCbTJZhyuHW3ZddP7Br5ajndEWpkOEa9AN9RPlCTovkvhLhhXko_5iMvxkzoDR3Fy-W4IY4qztHS7MkWjHR87rq9o4ttvKtmS-yJ6oOi1Y9GqXw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMNeL71LkzNa-ADPeVT9s8SwP4vzR_WbRv8iXil!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
   - name: >-
-      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcLRJG_dEs6KnKoAYt-f5Ho5_8hhVgB6JWJxN1FUh0OPWpq9edNMoyggMLiTx9Ls7mv3FlD-KzNohcV3ZS2X6nS_Miqt7fiWtlIE1aIeU_dQOZeNu4mJJ7XaBUFwgfQb4AGjbKgbN3ZB8T_zAk0QQ3mM03sLMvhFA9-exfJ3xQhwpuJwg5jYWQvVVX4JVy4q5BcwmkO_SUA2nq0QaRMOkXgLrccldZm99cqFybjt0mzlE1CTcZi61yuxiEGu-fbhC9xZW0c0vt6p09hNRto0L3NS9p0mdq_-lhgiSAxiAqzTSQ
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcI9Fra2sVaPBZBYXl-m2Krbmugm2dpthEoav-c-q_E6G8g-M62Dfh4DomZOKSkCJOPvyQRz800hGKVEAI_iYiZ91MKNlVEqwPoDh46L7vITz537lyUYzqUzT6M9ngPisB1s2kYe2R3FgtgAzlVwMHd2zWYRTYYrozC4ELXm_5plpU2Vv8ySlCnvYOYEywZH3bkClTfSNSfRuYE4CWBBFtho0xcreX1H6oIJDKY8lyXz_53cSRsTtYQUofXZp_zIPWL1z-GtBEITnFVhFebO3PQxgiw42C_OwCRs3EGzATFSAQ
     widthPx: 1170
     heightPx: 1035
     authorAttributions:
@@ -65,33 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLVBMLyFEuI-8kIyr-0Q2ch_XNT9rF-8bRSBTv!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
   - name: >-
-      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcJGGtrcrp6vlIrqF0F1guSX0tVIj24LKLyjmwlZCU2LJz3Xa1g6oLU66GjfOm_UoBDScxfWedOgPwFKrpT1Y6_mWCxDzGqwQe_-nksAaGhG6GY31W0otL_qOTqo_n_O1g1XYXrEgt23shESL7T1wHwjCLVOJhC3WurPHwDF4G9bSOzkqeYzobKFbzDfCi1qKgv2e2EBPACQc5UJmlwc21-eWvdcLO5mv0KULp1B4vIdgP8LMMlmaenFO2uG6MmpmiJrUH0B7s99TOrmbz832GxXU84i7AVXtO3nswc5pSPs0eYeDT8rnU8US5QwJBDMVUV8baZhpBkxhhzktj_gIP_61otkBCRDdDax0s8POaTqZHih0YmjJB5KXZ-foWIe_Ram1tbHx02oaxJC2-u4CeKyUei9kEOz1js9s7iagzk
-    widthPx: 3000
-    heightPx: 4000
-    authorAttributions:
-      - displayName: Chanell B
-        uri: https://maps.google.com/maps/contrib/101444035758694267135
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX-6qVFuQavIE_TBpWPehRvwseHw8HzJ6xiF379OiZ27KFDbotOdg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw-9z3UQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw-9z3UQ!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
-  - name: >-
-      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcKuvVg3l8D93cyaOjAR6HDvbJWIh-xlOoBDp_CNyvEIsOjDUqA_3w_zY78PBEXWcxSnavkf5FQsdBPLuBl-hYJ9iviycoF9Kj3nckRzqfSABi7DKFhY5r8LrdDs21gDzxiB4W7r9bg94Q5sNNBQnQ___gnl7cfz0DCy-_MmbX_0TEEWfOqWr0JmfwoasB2x3KO-Zy8sSDYECHPZ3oTsmscaNTN66pMc-GtGnWDHi7ZIuAYLng0z3xJ3gYD8CSRR7tUq8TwE4uKskA179ocH_GGfnT4o4acjvxdACCTqtxbtew
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Shwe Letyar Sushi
-        uri: https://maps.google.com/maps/contrib/117584558236571880468
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKg_F0aqFrAieFaKqGZDehpHXrRtn1ywo1n7P63yGpotBsWOw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVN4FByokeu5jxvAmhiWCqgq403CgfbPJLzN2J&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVN4FByokeu5jxvAmhiWCqgq403CgfbPJLzN2J!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
-  - name: >-
-      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcKI6HiRlVo1SMbjggvgbcB3OTL9n982RfZ01IdFVeDMPaLrPyJCU8rbg48IlZptFmbAMRcInRap0nYQJV5VoMjkJVU38tiBF-exhWmJV96_rZuwwuSWD4IIhgAyuH9pWYJ-mo0Xi_MjXWd-6QsrKgCvzsuaEYXwCZh1VHTYScbrbzXJywvK_IS5zpbILoGARXCafZjphKPI-dCgRi7AAWEAHLlmmkZ_rwwHVRc1RFrV2VigRJzZwrzkBYfbWXgWwBGNpOWT48X_Yod9yfGIv6Niwnyqh8d3Zh3IpvRhv6A96A
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcLokzSMn5-b4IvQdBR5zqYNzl81OKPV86-iwYs1pq8q3mn1jB4CLfLWMie6qXQKaTz_IBf-VBhLqH_4ZgySZl0VA8OrY_uuu4AfmPlaaLLjwP4cd4LkmmKA83VmuHBlLsEuPUV1wjNXuxYy4Pl_0cifxD2IpoDiYlMBkLJ9mUuuSuYCHs566NOT4i0AyUXfJZXn3rrooctFf9Be526SO-uVI6GkD0U_LSgU8eXYrMqq1nkpyhGUbW1Blbd-JR0Y5qEwuflDYIcW8pkjPj5zJx8aHmERKZqHkZSbA62j_Ty9wQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMCDulp2qsrokMd9E3fVbywuQCNzDBOATn8uHj1!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
   - name: >-
-      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcLfkKIff5kOnbo1xp-jr3RoEl-eVpY7UnEiRrO04wjX2B6b2xL2NasUBx8ZfcTtm2WygJniaQscwEHGI2XdkEth4eLEoE9AiP5xLNx4OG8C0lvTJRX6ZONLX0C19AW0lHLdZl-OseNOCQfVP-hEXIamLCkzLcbR9DmVUMgmhTIR_KWtWuIlFiJqOTQq0E2x9WzoNpvH-giXveb21mOTQ1uTqX5FvBPn9MU3AFEyZCpQaX5EJnmBzpsbgPqvisbvlL6ql_z5TfT-eSXI_COgfMBgSvqh39O0t2JOxY0qLQTGDQ
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcIxUsfVxvZEzGzwBUOTkrG5GDF89HZ-mUiF-o4PfMtwPWggia5Uvcvj9rcPoMvYKoCGbtxX7anYReoLzEq3yvgpAahQVREeKANyt4cM9Y-LELT65bjBZaOo1cqhVn3nSxQpsJp50nvCR8JBLrD7Otbse54MJmARL0rVPAAXllFzOvvj8E_PJOS-dKRHjWOxn1qypHpJbhBwlxFAT_0hotNkdcRYTZD1xaADzRVOBzgo7DqX-zzBiL5EfIfLBvRch0At6q83slPfl3RuWXm-XVK7BeblYc2xe3GWe9tXECsZ6g
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Shwe Letyar Sushi
+        uri: https://maps.google.com/maps/contrib/117584558236571880468
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKg_F0aqFrAieFaKqGZDehpHXrRtn1ywo1n7P63yGpotBsWOw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVN4FByokeu5jxvAmhiWCqgq403CgfbPJLzN2J&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVN4FByokeu5jxvAmhiWCqgq403CgfbPJLzN2J!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
+  - name: >-
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcLl3UnuGbQcCeYm3eOV1lSakxqPOngCjIqq9f3IrVhHhSquOwt2kPJPxY5d0OxGSZfqfzITdT8KZ59CeCa32zSeFcPbJdLhZzCca4JEDNayEXPQWpSlQjk-9BuC_UWJRZRNtCOb2HcpDGwYhUXoHmhA-GWiqJXwZMxaixl7ne-0nKUVjnj-uL7Ly-mrFX2B933fP1AVKhA2GnCercZZrXareMMrGLubJ6TprsrtOT3vP_BrFMAB4WmVJc58Jq4fRvRSM4Hq4wUCwvpDiH1swlOw8a-w56AS7IPoPLMZPoDvbQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -117,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP-XDI6xsGXPv0Lnj4QJ1aR1okeUVQlqlmgc2Xo!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
   - name: >-
-      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcJECxu-yG1T3y3GCWNIrVawnK0kWTGzGKFKnUgr4uCKl1HVZHOW0dKpfgOW7-J6C-rVuA9NVoSIaN5sgAoh1pxwl6KycXo1K1L98z8ZfDM2xxfclWFYa0vvja2eqz-2qu2LvGLNQNAcaN5iemqgRZZx5HN7HhPkIxN_a2b0jk45FHYd32eFmmvWrAiQLFp5Xn0AuE3ROV7KEdBa4h9xl8dYNy0vDrOlELZKqyZKfVgdc7_8eTagd7XWn-ZdvRNfa8chCOwsfPDcIbKqYFZDsN74-aYapf0fc-K1a9c3EvX9UA
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcJDjDuEc0r7vydE0QutpZ-z9i19DUaye0klR11PvR_wPYH2065oxK31sXqJmb_1yfXxnQM03EU_XgcffRWsn87DkvCgwUEEIBxXQsPta5LNjFO2ZH8yR3BuK0dLu4zMAXmhn70yomCA14YRvMwuH00jYkM8ykP-NElxMmDWwDba2V5bhKUXoiSt_nUdv2lzt0rXLEpaKg5jrPC_6ah8UlzctLQOL1WwzUlR1n-vhlnAB4-yJUc4CdsPbRXAXXl1nzxZrp4qd60vEox5QKHEXMa1JW4ZcDBPvv9KjN2vCsGR3Q
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -130,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMpjx32qVLEwHqAwGzGFBgIOxVnLk8KYnFK90SG!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
   - name: >-
-      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcIukF4wpUk6hGKTy_Zdrl1WDhX6XWSvgEpkmoMtntjkbdRDY5T4aGoi8gMqtuQMzfKZFare2-s6ebCGY7SAgJu9uVWe7rL-G0y_qPcc15I_Lce7mEk-eBxCo8vubK9Ug1vfKPW0x6_qpdFTYcpWOYPIZMGZ1uleM8lIIjOWH6GCn-GLQuvfPNZsdXqlpMywxbpFgKbj7kmIhBWWR3BtK949qyAAzrw2quhseIAD57bCmo1Fpf5AUxZthbN8VXXRNM1ag-6pcXn4YdgKaKae57G9w5KUNC_o-YTpbQt-OjkUPA
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcLIAmXi018Tu6O40MLTF4THE3evhGWPJ-0h1neW9rDXOGkEuiAmw3Hrn6z88uw7AyWxZeKoqQT_TCR9WCpkCuaOMBHNHtF9C4MLSMYohsDGnUzrrtd692Deb2diQcKO2Y3Prm6yP5UveMW1MO6oJ7HNrGFKyRMP7dS22nTH0s75KwNFRM7FBzVg7fkE8DiF2RPkffTe76J-uA7gQDRe_EyqyvwNKZns7i1z8TZHJeqFBpoJFiqaPFI-5_CQcN-PIQ9RN1cPN0aEAOhDUwgbq4vOf8NMTFxmyxDl8F5IrQ1l5w
     widthPx: 1170
     heightPx: 1304
     authorAttributions:
@@ -142,6 +116,32 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMiUb4FM87u7SK9MVJ3yvpI3zp8FggxA_XC5IYJ&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMiUb4FM87u7SK9MVJ3yvpI3zp8FggxA_XC5IYJ!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
+  - name: >-
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcLTIQiz25SnFBXyOQLhft7UIJCH4qYYlEjM6yIzh-SDVrUQvY8wK3jkthLnUI8fNIXOKcFeeKR4O1UG1NeVzyaXtq-gcf76XJ5h877K5zXKRHcHYVBkXMrlmFvVOu_6m2-1nItkUTXzclYR3mRPrcpm6p0ABdNQB_C2jBts-ViHrRz-W2tOUKAcxZjes0XOZ5OtsQGd4AlMj9ImyOCz_hg5143ljzZ6HjtxwHUEp3Rjb8ov46pSoQHmHa5F7S5s7AxDl-6nENE6YNgGOKfM7M7VBg64_yFDauKIkYGAT1QMJw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Shwe Letyar Sushi
+        uri: https://maps.google.com/maps/contrib/117584558236571880468
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKg_F0aqFrAieFaKqGZDehpHXrRtn1ywo1n7P63yGpotBsWOw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNX5_8RpAuQIVc8E2jwXkJForKYB3RjRgzwLTS_&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNX5_8RpAuQIVc8E2jwXkJForKYB3RjRgzwLTS_!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
+  - name: >-
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/photos/AeeoHcJ9EKwyV21cPAmc2P2St2RZO1zRiHhQLvabLx2fqf8GbncWLaOz9QJS14ukR0fyxrV0y1IjY65Jg9Zfe5rRdJ36UA0cN_QXOeiyskwswObpaxn817vDgyc735T-cv1QD7qujbDnjqRxbXj5hCmKrZvy_rI2ZYI8yu6zU4c7I1IIXlPEIVsumKopidG5AZVsPt9Hh-yYNXtA-d44K7soTeBfvBdIg9OoVeNiIulTvrVXqaHONi5zRNxGGU-WYKdt4TrqLoO2xmzO_7v0nhBfdocBNwBImUb76DpXH4MzGn2cCQ
+    widthPx: 1704
+    heightPx: 2272
+    authorAttributions:
+      - displayName: Shwe Letyar Sushi
+        uri: https://maps.google.com/maps/contrib/117584558236571880468
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKg_F0aqFrAieFaKqGZDehpHXrRtn1ywo1n7P63yGpotBsWOw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOHFG-UiN7aGkrOuJL9apH77cS7rcpU-QSzNtW4&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOHFG-UiN7aGkrOuJL9apH77cS7rcpU-QSzNtW4!2e10!4m2!3m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
 address: 545 West 700 S, Salt Lake City, UT 84101, USA
 street: 545 West 700 S
 city: Salt Lake City
@@ -168,8 +168,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752f5c3bb4470f5:0x91611fe371780b97!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: Closed'
+  current:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: Closed'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -181,7 +195,7 @@ phone: (801) 631-2804
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '5.0'
-rating_count: 15
+rating_count: 0
 website: https://order.toasttab.com/online/shwe-letyar-sushi-545-west-700-south
 reviews: null
 parking_options: null
@@ -209,6 +223,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

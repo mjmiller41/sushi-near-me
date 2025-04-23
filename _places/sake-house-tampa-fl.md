@@ -13,7 +13,7 @@ description: "Sake House serves delicious sushi in Tampa, Florida. Try fresh Jap
 place_id: ChIJv1Ek_Am4wogRa2Ycr6gJdDQ
 photos:
   - name: >-
-      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcLSGXhXLYTq9R2jxaQQxaLspWezSf4LHkTBpymrnHiRuXRAdg7RL5hOhgu-ciN963XlvqtUrZ53bFtz_b1xq02E5NYPcU11RoIHdC9ncGHf1ngzN5UgMy9_YIgN4y8IsU8kE0aTaKjneJVW4R0_JmGPrNfCYSEJqIeox5_O8mNOweqztS_iBceujvud0ykNbEapxUxWB8C6fxesH-mucO2dQxXU3innBzVPwBIUScLctRNawnHQkJYSuWNywdE3X2GuB9LaOU0bYifKdGabeHymhqCsAFOzhHlzvKN52nsT5Q
+      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcJ6PooN4vg-CJ5YLLAqhbARMDeIEVO2KAVQX6WPBLb4CUWyJI1S7iRhz3x-LEenoMN2s5cUcQSpOsm6NtK-OEToQ2VYhvv4KY6U3IjXWPceN3qjtMk6lWLSz_PetbywA1oE9GASFiJ984uusr-XbRc0is6X7wH_vWxnGRjk8YhFmvh6JgRfEwH2j1h8JYNr1pGEz7VtpXefg2rdRF6UTXgm916psCWdXOWN_94j4L485YQ9x4kyXmpD6C6-i5hLrDIrgLglI138QD4AnUuua732YK3Fp9mocffNqZeux_c7kw
     widthPx: 607
     heightPx: 659
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNNUt9_Qxwy92f-4s3hXfjngFVGMq5SqqxSCo_O!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
   - name: >-
-      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcIaWAqMRvLm7ALDEv2L9zao_iHucCmCUA1RLmszZlVe9NoUsB-SF5LYmjPkW2PrU8DG-KxmXiGx5172TMbEUyUaJQDsqWk5aYqs_4sArJvHqT_AoUIF65i996cGkRbZ9YSCiWoo0GZrI8NSK_t_pJ5Pxzk3XWDFpC58awA1QXnJfJJ8RiQXuN9X4uSdvmXph4wnSXtmzBHt3ctpkCl_eQwxa2GyyeDs8-gEnNgnDmuioyWduCyjpJR5i-Lzg0LT1ouZ7_97MkGeER-I4rbWmlysdF3XFAMR78PLXq6AqwaMfg
+      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcLTrL1C0-UiQWzgWJwMz3ppPvqFHv4pN9hkr2svhBFVityH9lh_BvQfYkw4aHomnyp0cH8uzkfBJhM6cRHsgXBetn7tQP_7PH_M0Fs0VtnRJCbH9ijthkbdR5FZRM3Y8Q7GbZPhdrihS87rG8h-XMJii0HUlh9sEsgnNFJtKluEZKOWtkSHAihG_BmfTjaWvgMXvGSpdWNkje2RKw3EfAjUBOf4MT-3_iiOOqVx1kbyzt4epKTEXKqF3Qqh6k6WO8yNl9bTuq-19QGaHSFY3GOSDS-0aQWOCiEeqtR7Lxg9vw
     widthPx: 1002
     heightPx: 737
     authorAttributions:
@@ -39,20 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNknf1KFldHcCL0qgzAqJxhRWbKF78CaM0QP4VW!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
   - name: >-
-      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcK6i0ZKz6tq08LnQJzVbqOtPr9FCQBABxnF-To4fmgvdc0J6Ciu4RxqJHonCkH86eBHXhzuhEdVN013ybIWVoUxguwlNaM3PNxeCg-RCMHGqCJNdddYwSrlRstH5CEtOefBg-dvBC6gbe5QgerBikecMh3ShgajSzIGo3DyRdJqF4j8TIxNpyRMaxih6NGFoFs--NMPpC6l7oDRVClQHZyqWgYt_QY7MIeSPqNphlSf0dLjP64C_3LfZmQMzrzgtQnaR5MVZ_4wTIYxLi8N3wyVTEnCeOW2MuhQ4cDhv-i--g
-    widthPx: 1093
-    heightPx: 756
+      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcKyXGydvqb3tXs2NfoSqzO_f2g96xCy9hLmZRnqJvTvvbommfw_VyFSawITABL6hCQBVTwJ4KHrRd2aJ8Jwhb3WFdzCKdHVDpmkFei2iacG-EUbq_kN9X_jacRQgMy1ZSweZ66Of0ZxBnf0Yi6WnbEYt3xb7twjuhc3H-WbAKvev15OfWcXtl1JXUZ-cBukuwuwGMIXQtgeiAV34rd3gu_8MGsUZRyD4Bs7DH5H_Wo1K8gbLITJeM0REVZer8djYGik8o86XcEDVIs-MkolA2HVKandtk1HTh2kpcnObmMC8w
+    widthPx: 1500
+    heightPx: 1135
     authorAttributions:
       - displayName: Sake House
         uri: https://maps.google.com/maps/contrib/100722596989345960694
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocIg6i9Mir1OozHhuMF6wKv3BY_hRje6U4zoKe1LeELNc6PntQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPzIIUij-itnA8KxB5cH1gXoCtjevKJ12ofxJRa&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMnkHLfWA0LARyOUncDksfBVTTCcOEbYl58SoCT&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPzIIUij-itnA8KxB5cH1gXoCtjevKJ12ofxJRa!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMnkHLfWA0LARyOUncDksfBVTTCcOEbYl58SoCT!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
   - name: >-
-      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcJ2jwFwKfVtv0feB0kjM4eUzuTOblXFNInO-wcQktgBUniPaTvkWUk7987s43r-nMPR60En5yZvWtY7wPiPKrShVjUVVK7OXUwFmt953ETxz7swC44fosCLXP-yFIi1-JGeiUoqx6TlWcoFIKpM3RffaYXUGxm-35IEhH81wsvCJl9J5Cybqutug9hAPBniZtyT0STS27SofwKXDFms8zdlriU4qlYORD4oFNKKcK0oSnMguU8V8Ry4p4Y-hbnxAZWnbO0NXt6DgYYLBrFMUEvzZmXkrTSyUfS8hs4k7P3nGg
+      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcKx2CBBCNhf67Pss9W__KTMJan4l55oxVPDtoHPb-RDuGrXIfpe8lXeqvzMWBxRNk5zcXsQqwsh_ozdkBRX11WRwntxDdhQF0ezPz-GjfENOwBFun_Rir1PHWAOyjfOVFfWFX2Z75SnWGxiWjljRaO2Qoa7rnN6U-eMQzNrEVAOTzrblp_d4_3WKDZuqcXSbwI3wgEsXE5vNsc748t_aYScsAhSa7BRe8sggRgfcz06I-xURFEt0K1Cv0Y4_LSYj5taPei4qc7WnOkGTXl9szX9NnDBPzIXYyQc3ICVBucMTg
     widthPx: 1162
     heightPx: 789
     authorAttributions:
@@ -65,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP1qjtgt3ro2LfivmHtrr30IRqytwrvMb6kM5ws!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
   - name: >-
-      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcL6BgQkFXgbjsLwSyU17J41Qa9PzuBoyBKmtkuGTQUGLxmy0t4Evw0VdeAiEk2if-ZMRvtgNpvv-8IWno9SOBPSuwyKXZvmtR7Q_-3JLwljIm8J-v95Hh8pxKIANcW39CBjQy2IqGhPg6mnsHnScJcllHd4SycTP2FGpucw9qfbAY3tQPUHaR7Aqs4aCdbl48LxF4bTPvK0O680n0BMDvc-I74Cx8uaQEtFmGIA6O1OjBLJ0DAyarb-MtKmIaTEoyyMvWg1oAxIb2g8Op6-duRmlWO1Eo_dfXNjDKgsDrAEmQ
+      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcL3A0THCwED484MYRvnhzOoVniKK9r_4-jxZ7S9rjeT9hvwuv_9ZbJOTZ05N9_2bvqj9-IrWTRBTq1YbFtoIrnKex6P1ZDGajKtwJ_TadNKp5cIFos8SEOIPmM0JChkwuMnfJDxQh95ZhMVhbwyAaPd1iCA5MJU_8Bjr78x20miVe9s-SK2Vbc7tkuADeEQEAOc31i9veI9q8le_geNyxUM-XttruU2SRp8j16T7c7pCgdFWck8CwPjxxQo4axMJ6hv_8wn_HgWEnzFO_fJ75bxZnjwLJAu-gl-mVys9vP8bw
+    widthPx: 1093
+    heightPx: 756
+    authorAttributions:
+      - displayName: Sake House
+        uri: https://maps.google.com/maps/contrib/100722596989345960694
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocIg6i9Mir1OozHhuMF6wKv3BY_hRje6U4zoKe1LeELNc6PntQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPzIIUij-itnA8KxB5cH1gXoCtjevKJ12ofxJRa&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPzIIUij-itnA8KxB5cH1gXoCtjevKJ12ofxJRa!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
+  - name: >-
+      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcKgUKMUrFU8B6GbBYMtEhGso31S-Mg2ibbwIqCSsRKzrSk0oMLZSy6nNxoBGSiu4_C_PPrCcSce6c4pN5o6ofjWl9URrNgvI3hbEy6pmaYjVY4htzUo9bpB_nPM3L2ZQI17eiWvx7NSa6rpqhMRQiTuSMRWxcaowhaVjEtofJy5gBz4o5IeJNNcFW7Yz5fZsqX4i5f7ABO1EzmakfVCpPubgUivPqPSY2a5gECrLF1GPNZhBOC1n8yUki0V2kAh0-uVdNoeQ4Y2fN6ITaYNQc88MYlCuWFI2zqK9GcIQRnbGw
     widthPx: 1056
     heightPx: 688
     authorAttributions:
@@ -78,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPBXphxAg5XYLA7mh4U7VVzsBH_0V3ZgDqJBn5R!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
   - name: >-
-      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcLniM8cu_0ZuWcRmNy9EwwRbyqGO1vqbxu0u8pMdFd3dtyBSJ2NP3gVLi9AmUpM6qmp0EbvN8Ujy3eVJ3C_Ct1IWWL-u9V2lI--sP-SdZa0sWfhxJvIUfPHlmiB3rPX2FFobKlIBqhjACLXg1LyLEBg1IhoQkhIcT1SXnaA5AQSJCaV_dMP2XSPln32kWcMwmz9LLlQP1WKkDAyVOpKZqiUKDaKP0Y-ltf3GNojmtH1lA548adXSgcMO4Wl7x2w5M-IiokY5PIdlOgXWvxAjn-gkUyNtcEymZZgOzxK1NYnMw
+      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcIcLfODHnZncu6COd5hXP0RcVJT2cHH0PB0Uauid9eyhCBn9wICNd9Rr37j434v83LVPQbL0XFkAoXQt_MAHGO9QRQtfP04a94-4AwveAWvZAljYq0u0MTDjVJ9or4jSNaZ1qQlAhR13erHMYWPTd0TmQd4lrWipYV3y_NVaxMPUZthLtjI541DsyYKgidZ2oDgZuIc0gkBcizRGIwQg3siFwYTj7BtABnRE63-9dFZM0TWwVuyKCH1bNATw2-fXO0u87ZdYa-QwFjauZCzuuILPUqPfKDGBbx6dJG2bGstsg
     widthPx: 1118
     heightPx: 831
     authorAttributions:
@@ -91,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNthNJhmFRn7cGXb8iKkWxZyeqB_LeWGVcpA5g5!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
   - name: >-
-      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcIAGanAReLD4ELZ6sjZL-kQaAPrMUuFnr3BI0ONqJyiLfYyBBfSc9gSHhMomL7euTRB59rUOKePa_wXL6HP_RcGZa9jlPZP7sGJ0HMEUiCP6Mm2NbYLnwxUo6jm_0w4nNC2lCfs5D1jxIirvOkjvBgW2oSsNC_KLOimZVqFRmF54P1BTsWwt8MLf6AcYO6ZA1rvgD1d6Qa53Uhh1an4O0Cr42jBQzPEXOtKBq-DKjkB2AZmFNPYLy_9JoWqtw0fwgKsUhh8ZZXUaV-UJ2VoudKV5Uwu_hHuHSLu6f3h_jDnLw
+      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcIQD4N9v4rlwcIom-1vSELmucdi1wxMTClhlhsPX0I1QEyk7U5iSFV4rBQDiDY2MCFZuKXe_0C8LPTHCVLHwXQmMAgpAPwSnH1XDXTWvJh9VIzkjYgRv5kJOHVgZp4vxxowwRdQ-Ec30-RQuAiOJ7wOEgciViTMtv2kTs3lFF5CyUKTvwti23BipOPoicodwmWm_2d9i9Kt-uby8IO_6sA0tDGloD6A496uVFI2izZ1xgUxmLKM4o2xnjKuCpvrA2MPDnDNnceGDUBT5yQbFMvI-SCzO9fCNv1qaBNLFxfOyw
     widthPx: 987
     heightPx: 802
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOLt22eqZqL3uxSYoipsCvAp-T4mBDMNijz8417!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
   - name: >-
-      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcJ-6IQcs8IikTdjgoYSniE_4QtnpaJh1QxYordVcC4GQiaRZARVb9MIJ_ijj1jWn08HavWZRmtEoTtCipu8ixxVPyj_4hk6MbNAxnECWwyu8mXibhH5udxWzorLOS1Mlf8_RRgkSILXEEY0ZIXenp1gRWmLXQCZusLEUoubppVGMTaC71Qr9DQEm7WBef6Pa8rZ3wTCXKS7ORkuqo8epX_J1pKDYBje2rrlL6OKmoW493wGnNuTxsza66wY1LEysCInWXGTSyMmA4rsFadLw8zfyg08l3fjolbSxmtiEeeEzA
+      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcJlFCJ6Y3PPJcx97PbLnkjdffNvXKNnI6UFya2Ad14E9TrJnZtyem9AA2NnAZRnxo2McEEc-uy5Xf4vr0Xj6Uj1UmrwzXTiFA_8AwrM3VRL9mKFcNjK7GxVW9rf1X90aAyXeb3RQWBW-i4Jw8AkzaBtZHby36F2nYh8sSNfkL5YuXUMxNCaAo4DSuL5kfcvmRdnhrthXOSQLT_aeN1zHxgauusbXoLR2NCnN8jG2aF-8TPqxIiS5WvRtWI8aTyQwjmaWyE6aSUtxo5MsQud23dRVXdmBuPxPTe_RHgMFcYNPg
     widthPx: 817
     heightPx: 798
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPZ8pK1dYoTRqkX2th5AxTvVss1GMk2MqRk0Vwn!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
   - name: >-
-      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcLg-GS8K3iRAg2OikwC-4DsyuXGsEC6mI5slB3d3KGL1MeKxcD9_B8rcddG72asiRV8HKPIy6o_zWEbhe5b5BKQQT_UFlPfDLMwfJetwEmn3FKyEkCDtZTeWS-IgzqhQaOqzMfyJUDLMHVRmA2Dn4bUwC0xEqbLMdtUfIv8ruS6qFzQR_SPC8_uXNH2hLxK07qvEsgYP8kl7ppyA0r1biuWBP78PHP1XVRU5F1RMSUoSUxTdPZ1up3DdrXagD0QAkr2gLyrZmAdc-P5MoAsNxbxibQyjYGIA9z8GxJa1Tk-YA
+      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcJWUOL9KG3QZITB3zPWcjOU_i3LfUECZ1w1xmwso80Fz7OfehVQoe_Lp6prHcBELcdk96TYq4oqdGIwCx0Xill602hK7g43utDC8DLvrogJTAf6fC1Bdp4YeER4qiJJFBKZRYR0hrrwSCVeAaVRNS3iz1HUQIABA6kCHH9JrS4Z2cee-fjk3h_dF7NIACgD_i6xQSG1hfufY73luL9XCoPORQj7Og8m3K_vXP-jw4vWlOYOB8DQOL57VeH0iU5-WBa48dAW0APYhicr1Zdqie1GIib3TJ76vhqWRJiX3eijow
     widthPx: 616
     heightPx: 692
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVNAxVDR7HaUKhj8lt6X_QbwLhYyre5MRVjW0y&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVNAxVDR7HaUKhj8lt6X_QbwLhYyre5MRVjW0y!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
-  - name: >-
-      places/ChIJv1Ek_Am4wogRa2Ycr6gJdDQ/photos/AeeoHcJrdnw5FB07W5RTQ_R4aXqs-QkvYuj2LXsV5z-qb-IOaZhUH2DOR2-7jDN1yLesysw_L1H7ecsDcp0tRqx13rKSHpQczigRlyd4Dkyzfjwl0WTU5hT0FAwbHvniB-qzAKhXzLXiu5iKXUJ4AI2vXTW-P0lkTNWHGi6F3e3qryHq9djk_Tfux8YU4Acrn-wU12DDPZLfmVoM8tgF3snevQqL9Ck9i3zpGoV4G3tHmP5Bv-L37jvruTf_RTKxSMQmuZTbmRDn1Uj99_M6Zy9dwr9F5eQsQoRQieLCr9pnMOPAYA
-    widthPx: 675
-    heightPx: 754
-    authorAttributions:
-      - displayName: Sake House
-        uri: https://maps.google.com/maps/contrib/100722596989345960694
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIg6i9Mir1OozHhuMF6wKv3BY_hRje6U4zoKe1LeELNc6PntQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN0unfx7MqBKXez6BtkGnws8nx2bH2x-gLPdPL3&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN0unfx7MqBKXez6BtkGnws8nx2bH2x-gLPdPL3!2e10!4m2!3m1!1s0x88c2b809fc2451bf:0x347409a8af1c666b
 address: 15311 Amberly Dr, Tampa, FL 33647, USA
 street: 15311 Amberly Dr
 city: Tampa
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

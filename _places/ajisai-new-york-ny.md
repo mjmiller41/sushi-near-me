@@ -13,7 +13,7 @@ description: "Sleek, modern space offering Pan-Asian plates, innovative Japanese
 place_id: ChIJ0__KQe9YwokRtyLRmk1E9nA
 photos:
   - name: >-
-      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcLjagI_hIjUsra9iQ29Yqgh-j8qDP4gCqsq_RM5tMVNBPOHo8J5hYKQ094JHp8HcvccA_vvOtiLutF7L2Ysi5wgSzEl9GPmdq6JGL7Uhn9jlLNZdpZg87dUe1e7QdeNsSzJxWYjZWF5fxMysD6qAedB4N1gJpLq-UQ0D5LzEC6d8DOOqtXnROxV0E5jbjwP04NOAP0wKHXUJzSOaZKgG3N9AIBafpJB3rZP494LzncMExLBRrVzQMvYi_sAdYFA6DbSKYWZH8IQYwto20XY-ZV-aoujJrp_-mylgWKX0_hTYQ
+      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcI-6kPcKSF1wBvEkKjQGNQJzaPrYkwLdIzIP7HredmdDgH8Q4Q9Aps8IG9XU6e1wYI8ipiImUXK8RrGuzsCAZz2rQ-YmR6cbZQ9FJFLM0O8_aaqNXPe98iL7RBOujqBR7BFVbNMn5EWJRPkHx_Q7CHIWA32ZkH4pMIdZG-QTrYU3j7RldKVBU5Cf2WWFJw7OlcBtQz58XKPT1PtOpSp2BXHMqOFf_TIdm-652qMB4aS3e3sSqvhbR44fBxryw_RpNP3sjRDRmMxNulFViqTDp7wpDaH8yP-Kv6PDljEXzZixg
     widthPx: 1079
     heightPx: 809
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOqXckkoSV7VV4Dwr6BxZKisu01gj6MN7BqMFKL!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
   - name: >-
-      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcJVShcifrCYBzNTqkUxPgqmd6rAtgfEQoA-BADQavDmdU8C4phZjEnKJzsXVYzZswod6JtUfGAt1BhxgzWKQms2yblfFlE-E_7WTDJ-YXUNAVI_9qjGGmkDRZZU61a8bqcgCouU84EKWZWZE7hR1f8b8nzYV9exLjAaL27PNuA6t_-5vExVCDpvncHsDhGVHhOeeK5i144HI3XXs2wjNkHtadkhgcmxUxKpWdeqNMU6sIz1dvDPNfvPcydOcTl7RVmwYpq9-7u45yMp1SESdjcUWBrWTACQdAeoziloGT-kTw
+      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcI4OCeaw9JQLdu2hIZxYIpwmqgMFjjennq1Z19vkGCUBGogCM2go2ZoKgDwmIh5YadA2Od7RQp9vEFuBtSSLVfgOpDXdtNI8GSb4arItxxxXdr-LBBS8iCADWXF3oN3_s0p0_nWmpUoqWMYp0WW01genowcj_eGA413ZGFx4geXbT5Gullsm2JoaLuBqdolg4dhWwizLwmX7yySkxSgdUTpXS6eN9uMr5th83Xi2nAkIbgrBlrf4Mbi1UXTsraTMl3Rjq7Z-enC9bazggDVzkKQZS4q1JAz1iH2kMNGdXUZDg
     widthPx: 809
     heightPx: 1079
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOLqBQVHp25F-N0QYMuZe06lSeYOgGJwg08VfYE!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
   - name: >-
-      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcI2bYcfO3JpUoN32cY8H80E98iCB0OINCWCbzmE1WWJnZpSkuH0HiYQ9dUduE7sU5zDCOMuE1ywisS7cLY1v_c10HXY7zpG04XGDPEJVhupopjmwx1ZlQdTG89AFq54P0wYeaCoAkKS-hFVRpk_xBs7d6ugsUqrwKrDu8pwsv1GU0VsbravuD5BNTdvyzT3x9_zeDmxCeqBi2hEqs_SiT6hEpEYPWtV4WzMm3rS3IDFhVm6vOGt4r3jowNg24JdJZ1bJBPAAETrsqqZ3LQawBW9Pld0Bipj4pXBRjmVadp0HsApLl2vvUU-o8zZtWsNrWWh22fhGiwas8Eqs8m2UkJsvgWNo3XhQxaTx9LwWXEZ3B_S5ZbK0moVLQOMnmF77t1o0c4z-aIRnpuLdfwGRyl4QhsfQOK1qUNrhjqZDRafTQ
+      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcLrSdq2ICN0tU-5iwP7OgSXlPJtToHcZ8vSvHoYcMLv7RfzaYdPOJxfHLB33ezcevvNYmif4ofOQ6CPm8dsOYiA5lroVIY57w5WKfMAAAt-6nw2cep8KYAfn-JzmQDV2_T9vH4dXrbW3Nx-lwFnT-7bBS2wpoPvkxvfHfREQsMx4SaahPiqsVhwNaMbgnLHy-szS9wmPZ_BXulbtumglfsL8zPXavhPSl7YR_B1mpL53V6SctX1E_vtBboan8a1Esml70EWS9aPRH3QeMA3P_xfQN3Md_6Ojzeqqs6ar9aRdpxnhEPYpjBM5vPVSFVJbI_EPm0-ChlMKj40HnwusJCLE1OicXSvHg7xMV0E0wMgU2GXjXDJD1WnWYSkYD1P1bRmsb8fKMaH0plwoykeEBf2OlRfxsmz0o5PxuKq6uO50A
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9zemufA!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
   - name: >-
-      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcKxq9rKH5fNy0rzU843obUaCM0hoTv0TClx9mIDYdUh_cWaeTTklacUDoXrKx-I8qDPZRt62eY9ctoIR9bAmB1C42DHfcL2UsoTey5QQ5BPVFM_RpTYqswd0RdXT1dLP_BPYta0-h5mfJKkrtseLttKvpXzCsAMCBL2U1A7G1iYS2qCxw-lViucjB1VAHgK6SIuRVS98KkLwOzBAPM_gdAkBWXBRRR4wEv44NugTGD0BUEWpwXwD5MKAPe2J-qmMURHhVL2fyuSaY3eyw8YLkD4v9t5frh8P3BOhNzM67asEfANvdDuO7_wlC3RCfifYpiJ3KsEuQhQr-yt-hbXHF87mFflLaBLlXnQGjug5J5lU3aMNR8N6A8uEAFT1UAZiM65i1-Uroc6u5JK14hDA7dR4Jt-5-ZiSUpsuE2V65vYIA
+      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcKmMGhb2wxPM6JbnXL-7FGPuRPBQJRdKyTsyHEUQJzwukx6_s_E5296ct2OyXK_RRdACG7Enjd7XhbB8PZw0YXTiLepVVsY03w0ee_wZd9wt3hmTLHaQcsjFV930efxKZH5JOOe0esiYp-4Lb9jmesMvA-ey50S1nP4OpF5V4JLBugr3g-WzLiavUabtSQ530Ke7PoZVr7e3rPrej-1RqsizdZ-e8SzogS9VtGSRbqlyyb6Gwa-xrny_F4aDWRQ1s_aUnyoYdEsd09EgrnPUTznzPfHOodJDtn8Gp9uzPk_aRoUl4DOpyysapSL9jLfcJ5cyRaAn3uJmpt4PHy6sf1bx9rAnsCX5dsf1CkeFILmNSW1ph3gNAPg2MGFkae5rQ4dd_TT1UTexhEc-mC7bfQVylS0AOlO0FrgMRgU0uYTxg
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX6ZnBcg!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
   - name: >-
-      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcL7ICE_5o2Tby-RakyifUyupKOLaVqi80Gy9EIxqq7LVw_dOOCs5mmflzgVCIppmwHLIl7sU6b09KxBrhwFRRKjVrmEYHkDKiPVxFJvLxwN4YV6hC-sUYCZdy9g-Kmdpxj1f2_UYtoPicecjkt5cvTBdMtP_zkxsEXytoNU4cf6ukHssy46l32KQazvmgI-my8B2SoFBqdCzLoTHdzFCdLFeR_qhZwUOK-KM4F0lcKjfS-k7t93dIKSjX2aEjCQmuSbYUp58Z-7J5Zysvh05ROZ6H89mKv3hUNiXT-g6it1u0xDMXnLuY_tsm9tYghoeUD5U_Trmn65gAJ1aWYS-9zHITPDcU2Hj1mo3m5ikoGh8ajUuruP-5ElHw4RkE9hb9SW0gqg9DeaefGuwJybnmxPrTY8QPW0NnpvZRH_US015co
+      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcKAjmETDtm3r25DLn7bukXi9CA0y-DwigyhvBzjt2eCJcTIWgJFhUAx39ujdFiD7kjXS2Tqej4zlA1ggT8CalOb9WGjRprsFKi5W-wD8md1qeKRg9aG6cheaDd-8PDRRJu4rimfaYD5a0dBVpAoSL0URndSu5KIvSoB2hXmwHR5XFdZBd4Vg4PT0oG33i5QX6q9Cl1PK_vTa2WguKXvK2oT5GJ3LwV5UdgZX_Augi6ktOM-yTP6GV_Jh3NcUHJG7sDs9heCkRjkTj82cPuS__XpErxhu0YvlbAGRMyCLm1FnV5Po7cIedkIS7xlBppAbhO1cMwuDRI7kLwiAiTs3jN5JIZLopJGyuaqcPLGygj8mIT-oSGhJj-qPZfMMc3O4gCmzYaehK6IQQPbvKaMpLI3vI1oZ3o5SjKQBqZaJpTLmyA
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw19GZ8AE!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
   - name: >-
-      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcLDGKF9IXGHj6Km2B-iem7eEnrYoJu6fJDzIoKVmHHtg_QB2Pa55KaQO26eO2j8xg3rXD1BXn7k6E5-NapS2m94Gb5r0-nZQKZXdQULz_0F-AcJRo1UqduGnWrWLLgtTY-SrRtITWsGv0v7U3alLsu_HGL7dhIVIYxrf4sm5x_uPlesn17csNaVeH2ftABEoK7SYlFoibSEXzfa8YgU3bkcyJTYcrhoVjY-6gb_uMY1y3gcmbtd-olBw4jd8oLiOYzn2wtiqb3sEl-leaOpJlpYk-vhqt_M1qwLbLWUkT3g-vDvLEw6l444wHHoiuYDB0IGrczAoWuVyofUPRRaRT1vRxZwOOfkg-UlJ8JuxtJeaZRvUESZF49P5cJOj6ZPODB4X7weF1voUnAeAlTZibf6GIFQm3FDeNRpGAKKWDJn
+      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcILh6W7qinKpLwk0UIP_Er9H1nGClndHHMYGdwxoewj1Mpw3XhxW5BYZrBSy7XRYAEg57J5_dsa_q47XXWV-IGSinIbQgSmKcFYxIbksLhQEfx726KAkvNWWKSHrEHEP-y2seD2z2BMKkjfnXrUfpcfSxvGZrgLk83ArdY7UtTEGfr0T68K3OCqTHFXpcQYUS3VTGKkoVVTiXDzHNvXwzW6iNSGvwZg0fsAw-8l0mo1xtIBHXVGhB6hv22WFmNJaIjwmKg0sszV1w2jFMNKPrN_NINcaNiFvbvTWk6dcWIGXtSfecOdQ_1f4vYXgZQiM0u80H8NRDqeE9GCHCpzqVRwqF1UWzH7xgmGzonGIGPRE3uqh4R0j3lIsMfdkbmHXWCz7zstIId-rZkEgdjg2F9poue2U_1rXKPtvonFGJ6u
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -91,20 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm3dv6tgE!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
   - name: >-
-      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcLvSR8WJ1UX1hWbtxvLS3E-bbd90fAxqPWviaI6sDF1LBMlBCSsGWhmhI8c8rqVZCl9kSy2XW7v9VQC0fo5FfFob9a2xKE3m0moA3mjVLN2_TxIoqbORW29Ongv1uwQRMd9BnxjZwN2mS38IggPp6AFHfwvdYXLe9gvJBmsKOOBN6DFuXTP7S1XStBWButkfaMDA8opFf-SBlpBFvKtfiUQ2NoKGbZGfu2xu4fw2pTa0LYT2YBTRMIbHyWdQ-1ur8wQiOmj9r9eOIEZoi02TpgSXbbm9r9I7JK7x5YaCUrJdFLzXpNNXiROjx91tcRIQxlh9zLQur9xBtZEBvWlqEztRO-5mriJVEnDU1Pp81ZgszNd6KbVUlp7MVxlRLhC2iqBgCoLUWz3JOFyLsPQBReW4lsBKxDg-kdKDvVU44JGyQ
-    widthPx: 1284
-    heightPx: 2177
-    authorAttributions:
-      - displayName: Li Ming Cheng
-        uri: https://maps.google.com/maps/contrib/112624639511208678953
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWXssW4HB29gk4ny8ybMNiKWbgj5z-XnD_ZPaVf1SAtR4aY-ao=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX6ZnBIw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX6ZnBIw!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
-  - name: >-
-      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcI4nU4FEgzOM9iXCjfSTxwWNQx2DYbvqRt6-4KuNsdJoWXZAHVv1m9PSgPi5s6hrzGOFALfJHGfJrgQQXuWduOXN96qhjoDMo-palFaGVwjahK_IzOdyeIAtjfOzXlGoRX8adv-avvjmAQdS19aAQflfbbF6dU-zp6u2Z4Vdy0w3-Gjkq60nWxZSlqsjXBiA1GoT8eP6tPwN7kzyHujPOEW4bJ3IoswYiTJieZWGyg53Ui-0n-HoziksXZZvMCMxA40suAs8tL1Q9p2vc8YeqCbK4BeFiEt_3kljF5vPq6PZ4x3JbPjk7zhPsKbmSwJx6Zw1BzsRGuO9ZeZ6eIun75N9sMZoSyR6kwFpa8TTbBbNNFf65lZSqER5yIs2_e59NLAyV1sTqRGVrcXwJJ0P2TwShCaRflLE2RuBcNdC6A
+      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcKi26L2BPBSjxrSilGow10uo6LsEIpz6sqGQ-DNYU-FSNfeppx6JC98DdSTVw0oYfUsKVMJm21z7zbckpeD10jTxFHYjExoABBXA06zY_KidbtLpzubgzvAMQpktud3eoqEfnChuNFmlG1M3Qd8wJoU1S8KHGRl_XdV1vsknQVWl_HQVjcp6TCSAOnUdBb0rBP7BtXu9gUQPQzVsIk5UfknQ1MLMmIaofYvTP6qFJPE8N9oIpRnX6B6MXaJUFql5NgTB4ZQk2AYpbq2nGPEaR9IC_3Nojl4iKAXTwvqUPuQxr2lWaGLn4DJt5TlTU9rkpMQEdwZDkoUn3lyobaOZd8I05Le03S9-YYEf3-ZjadEw7Zx84XoVDdv9384kHARNlR4vK2CGrWOqgq7GIcx18R8DQJ5PdBV7JT50y_AwgE
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -117,7 +104,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzp56eFg!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
   - name: >-
-      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcIt9g0PfjvxjLyOjVCLSNl2YbBsSeBhnX6zEEW-_43t92tMXNnA6VMd4U2L7MXhkzgvRF0Xd44wDptKJZyIFeKz_0ei0E7HVpvQ5Riub8C4hIbKXCo6jzJHue3RCdWSZUpG2zLu_9fkh9657WxqZz5sN2bg_80MCQVg_EMzlzkhBMO2_FNbg2fRAQgPswGMHvvVk6o8Q5vEuKNHYc7gKqZta67b0jafrDMp17GMu5_O1u3pv-HgxE0REqc_Q4Dk-UVNaKO8eBtwUv4Dd677fh53Yibk1UNy5tniV04zlkEAK1ODoAr4uxbI2kHHVLo-uHVx4TQDUTdmfBfn-c8F1FwX13UwTsQ1bMKO-Iw2BkFNa9-4uCz-GJBNS-i-_syP0-XWtQRDypl1VO95IA-HasXrbSc9_tTnP_ZJo9Rabq0
+      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcKn3jUVuY8i-HI21pF0IwiGDCLcNrqV3OX_JmB8ULMnzUV_zRYfu_Jpc6I3lgDkxXwmVmrdURo2ovFVmYlCey7l9bx4t5RACuV3zRXjGnPy6OouSv2RP0IHZvQh0TH_GyBPRebjlIKN1IuLWGXAs0Z69PmUtCDejXivDVSU8qV6kOUTPvOhzbgvIyW1KqQ1sqJZYcD_z9PWc-i8yaHM3-VLwJy6yWN0arusFx_PNUdQyKrZjbfSa4yvMlkISV0eYknzI6rnhMUhVyn8L9xdwExm814PREZiUjWdDjs3h-bpmYL9_kHSpyrkM_5YTi8UYx4gcgKMTjzBNc9Djr5iTsTl-FZD_vCqmDn6La6UTKvVu7yotcGfJGViEYnGTNgR3HxWiDhHcQtQnvrGeS7v3A9919JYEFALz7oTmhNmZfDrVA
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: mildred barrios
+        uri: https://maps.google.com/maps/contrib/100022581902400872540
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWbyPECE0jgDy5MviyU_gLhCmE3gKVKnwFoFA4f3gAMzGKS8jWyrA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIp4-PJQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIp4-PJQ!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
+  - name: >-
+      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcLbRqLEXhYCfRWP755RKVy_b0Vozzq6ApkI65rBIM_eaH4Uqa5cSUuZQSH__08sWV2yROvJr2Ak-EGkVnRSXqhNDMoFuLuZTsyckCp8D3WofZH8NdavKVIlQqejl7VQo-wbN9XIWMIP4xKR_tkHcV66gyofyL8g0OUcwIn6o81wsIJovSUmNJy7GD8XdiZxJTEhjIscbv07mlkK0CzFdkoo2veqt8ZJ0WmIPpXD1TF682s3mPkXfDYrAr1wE3EAXe3qRL2IjoUYC1uwoCP2krvlXhXv91WIeRH9Opq-V-bVJQ
+    widthPx: 1279
+    heightPx: 1658
+    authorAttributions:
+      - displayName: Ajisai
+        uri: https://maps.google.com/maps/contrib/103209502533132778671
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocItU3heT4adElL9KZEtp72Xl5xP64RluEM1G-JaHB4CNDR9QA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMLB1u7-zgvEwJGFvJLUhy4FxQlaTkuXGyW59Jm&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMLB1u7-zgvEwJGFvJLUhy4FxQlaTkuXGyW59Jm!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
+  - name: >-
+      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcJ9TEzUvjhTFbPajXfncn8_ho-sr5FKJaDhzI-QCKNcXNvRAriNLRIeVEkexRFHhpcZSZ6_S4ZlQDbTnZKm2rgag6TaaHgp_X3eSEOQPeLTdJ3z96CEFsHwEnWRWCEpnZ2nPjEJ0-BzEQ0xUjqiF0XZK_CkMv09QHO8N_k79MB8Y1-rjSDvVwxTiGGJgeFXa02iR-XBF70WbFyPRRoHkqQ3NbqnJlMPnsNshYsVAh8P5zUOpUYtlDMjVz-GS2pn5pWeuoT2lGlbu1u30aPUX-Q06O21Y5Xe7Wac8DxdmDcM52HR9Bjb3zxw_leosjspkH7mGQLi7UgCs8AoJwhS9lc1gLLpNofzXPPX9pN4IA0VNX36lnJdAt7rXF6Etsu1B2SVyy8JbfnK5Jxj_RLIZ0S6L_8VMSVjVekAo0VEywY
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe6a_Ofw&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe6a_Ofw!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
-  - name: >-
-      places/ChIJ0__KQe9YwokRtyLRmk1E9nA/photos/AeeoHcKyfYOmdbQd0mkW3K4ZsbKHitsY1a07mWIeLcvrruy3soBstZ7yOg0BYk9lUous63PasOLpsu3UnVBXpbrMiLmTyX7vBZEGjvP40IIsE5uWcLsI2jcvHlI1sFAHrBFNk16pX3xd6GThYY0EPCMiMtFvJzRbzX85tI2W9_z_Xl67T-gvqkv-buhKmvzFCz3zHO20cLQGZ08H4UJjYTY7JCSr7wIrWysohsXo4JuZycego6Fk62t0Gw60nQE5Cf5Vlg-eQSsbjRInWLOutyXBYHy_NQN9yDFAAVGvqS3VsxR0QQWXJlJB-ypmXTnIKLNA6m3Ou0MgEHAoRbZ4Zj5IXZXHV_7f9TqHLPClQ4_YUfoAHFOlm9u8EGJ03-d0Bx2PWZwYyYx6SVFq-gVZx1DxfKYOQYlpVVqeoJYEVvu7XLA20w
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Ilan Capone
-        uri: https://maps.google.com/maps/contrib/109435932697106927076
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW8SooPG6Fuoi2r-SoQ1eSrjfE_IFD-DPMP6MoPKpREmTvHBKl74A=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4j4SneQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4j4SneQ!2e10!4m2!3m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
 address: 795 Lexington Ave, New York, NY 10065, USA
 street: 795 Lexington Ave
 city: New York
@@ -183,7 +183,7 @@ phone: (212) 355-0888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 394
+rating_count: 0
 website: https://www.ajisaionline.com/contact-us/
 reviews:
   - name: >-
@@ -481,6 +481,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Sleek, modern space offering Pan-Asian plates, innovative Japanese sushi rolls
   & sake.

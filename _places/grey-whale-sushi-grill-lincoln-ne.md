@@ -13,7 +13,7 @@ description: "Grey Whale Sushi & Grill serves delicious sushi in Lincoln, Nebras
 place_id: ChIJYzxbsgK_locROXqvmTb7LTM
 photos:
   - name: >-
-      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcJF8xTN0jrN921XcC17IbJqQVCUEKw6IYD_mCtPf-Hh4T7YYYqAfWqBh3fGstyeiS9dBiVTUnwsnR8G8IfxiBNx9eTfc_gm3NcGQzJoKguNDE8Ww-HOY5mEt3U99oI6taEeE_kvSdMS3Z0lRJXoUPUAsMsJ0EzG3glj0r8CSNiz-RLyw_kCd391gqA8_3QiboLZUKlyLtN7Xc_FJNJkk3XaNSt7ouyuXzEtUICQ6WKjS-OOd0DsWABpcCjGsHJjAy_ErhdAF0sdgcDkMYxUEKikHQgpOiprasNBYp3AUibzVI_-JxrnzemaYd3UDEZXqLjlhhozKxoxtsZMwH1O5b209vM37vJ_4-BFDnt3NaBY5osq0uBHjwKBJTVw_rGnYmNH2ju4-Ul6OR5BaoCk9UNCnXXAbfHM4IwkmKyJKQq7Cg
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcJuIKY40sIzZbSHka2kfGByyIwKU7bFkc-VBPr1swzPOOkeTqsg_hOj0-EOtqgNJc1CdXvqH2T-PEHma8t9j3QJpYbEsNWX5_VRgVomSCwYw_ax502ltUWRTPKo_thxci0N_UzCSNEhA_K6GPXhTmtsfR64D1BJWf4DjnM_RRvHBzxWNTDrviqteSPOfCkisW5az6MgNkRI7eemU9SNBQmIucN7hnO4LlUPnl71E8Z2SmmeZmpLltm-TT28gkQ7xZBdd1k7T1sG-_Sa8Whgp0aiCvEjsi83eLAd9dht-wjSwce-c-BOwqqZgw0f70c1DMfgFrS1xA1fr-6RPKdlZl6u_PA406Lpn-dFXzIBLJ05arfe5DEBmiGn12Eukit1fR67WIazSxaT23y5UE5vvT3hPtY27F9Mn1ge-7R9z8XLxQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDdhIi1cw!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
   - name: >-
-      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcIVVpIVVTGRKHKDqWme4fNz1NhTJ4_vE_H8qz98FKThiw9JXVoV4vlaseqnz_LEUL9mXQCkOx8KogJl2-T9XrAdJvwKK5RXxM86xjcwYvzsUgij9rLNHHIVFyK4_Qnjsipfud7_kTm8V9soxbqtF95fp2XSIET1KlDCFfZ_woXcIdc8KIbGV7c1Cp-iz64WU9aYczE18qJ6LV63F_Gp0xLQygUvbHre0iWoRG2ErPlZCPlNOs6juDsAKIwyJ27qXpa0IKBSXTIfkaKE_f5bw7dGf-d45_KoBTfEbAcnP0nPWQ
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcLwHAgq9yNUzF_KjuQDcKYuqLwFUkf1zpVDraMb-aRBWvr1OmQ2G8iDe0ZUr91EEx3ikkb-w3GwhijuexIt61vuYEHhkJttJMMvxsitUg4YDOf7qolFUZSa6KhItaipPjs3bDOAMts5ckyLcyATuDVPewayAhKDuUxxMEgpo2dNpB8vYqM-Un1AAlR6GWGT731O9Opy9PXPGivqwff_y7D21-liNJ60aYdsiq847ha0WChcjdSISh6ie0XePDs91FW213DtaYMbVW631tj4tXZQWR6_NHSksfwrGr0CzfyZ_Q
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNLHjiUr_jT2EjnS39zwAGcDUn3LP-NtTV__emE!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
   - name: >-
-      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcJu5wCG4Y05ViPdGJUN_V53Ga35UH0kwPMHrstnoY59sILUSqGWZaXSENfGXbOJDY5bphHAQ4fbR05ZxK24X1NE9iHLIcNuD3zzDlH5CF-jLT1w0TT3DDJFJklvhQAIixc-ATb_hh-CA_Ac5D72J-ZprWj9x9-1bWFFBgWDUI53lqHMuiEBssVeaFq4Ek4YGNHrZS2eHAIIQ3itu5jgvpICDgL4EQZDhiT2oOS3hM8zwhU-LqYShrA8KcSOmma9o0ToF-Ggkcgq0DRP97FuS3AEgIv3BkcXKFNr4DLzQnxGWlZV0jESJoQJH_mAEziZxXr4BE-i-TZ4FGwU_4Hmy-fl35yBpZvAD0bqshMSQOQq92LWgnNl1JpGsj2KdsNVWdWi83Qcd1kxNKfg-qfUYuRQEcaEEuEQImlg95LsfQ789wFZ
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcLokWAGGLDzCFBIrwzQAbbNqnh1IKXETrl9H91EC0cM2z3n_c7g1eW-Wr3Pa9hnPDNeCq_jlyefXTPa42N69rJW4ZDtuHIfmw4oJG3Fufy-n1VdXpHC-2mtwPIDagDjo-iA8MNaOlFOhnQH90lOfdX1nzl3Sw3afynKtL2bIJwUm4P_jQ4MzDhfEn8CXm66g44hF2L624fIHOwMr1CwJrenWlbEDkuFNVhW-WMi8Otxd1z367tElDEdSybKZjuZc90Pts1vQgznFIqBc05ZTEryLdJsPRE0_zXxQmoJQ2sXS3avBXUNNNLh6LgrGqGwMqdEhmPT1qalxDiAFqpTEyPlwVr7OHfMu-n6a81bxRVykOrF8hlAZMk6Cbc69fGnY-I_l-23tdQ0U4BQIWWAKst6H_PAQvauAljIffZGOa0sPh_f
     widthPx: 1290
     heightPx: 1250
     authorAttributions:
@@ -52,20 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI0d_25QE!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
   - name: >-
-      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcJHtfW4aEZEW9xD_K9fOo9pXqQd3NcRoPJjLKcC6Nd3I603jZ2a4RqpPkACmY4XT2b5nFDCPPwGnuV1rYBW89eIJWj3KViQXJBX0q4FBl2ua4ExVkdZd7UcaNz0DnaCspwhd-tvl4T9P1UBhjlvCiodQMYfYQlqgy94MjgETX6NFb_GYk8OcyJH-ABWAndCr2nfRqsTCKNwGkzjmrlhnbVq8xnYnfiCrW2EJZQAOIjavH6dPwdpSReu3LdH-KTAEVo-QBrsA3n939rRxYIA5wbp2AIN4IjQC1E_qERFcxp4Xw
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Grey Whale Sushi & Grill
-        uri: https://maps.google.com/maps/contrib/115679715427869344728
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLvABBn-FSfD4CobL47qTycZaLmASWtekJ_ySby0iItJNfD8w=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNa0AkOz8NC6Ph5fwEKdT_p8k0mPgElBi5iN9rR&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNa0AkOz8NC6Ph5fwEKdT_p8k0mPgElBi5iN9rR!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
-  - name: >-
-      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcLJXHC-QwbluMpdaRg9qZiShgfraoFTOEZuEx3FgQCl_AHMhUOD167n7P5dCpm97O5QMDcE2-c_6t2Da7ORnei2TgPpnQPH04gFZz0EX25BaNfka6ly6QhXlHbxVwgoyG9Yq2CHWFwggvC5fBk_TnVWXG2-V8boCrHs_5isQAvH2qvr7cjQJWnyXrEwAgchtWLVqepYjJe9wzzhAGuag_gXd2X7Zvy4R-7BxUabuYOHdrCreJpGKX_3-yTDL59gWWOMzeOMCf_KAPe5CedDRY52QHEmocQ5oNF-DfQbEJyMTAwPgv-C9hzNrv56NQV6L37TY3o4ktgNR_DsnQVQEF7mfjLW3GouSYLT356mKXc9sehumCeZCx0NwPTWjVdVYJxG8h5si0yCH3iCa4uoICnufrFVuJntkY7-UypqwIgHGAU
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcKyUzOXB71I8DdK1xx-vAJzsZu0uOwQFlIJ0iuFTBLTWH8BSqiWaAme535oMD1OqrYaFr1ElI4_811Pcc5Yzfxfh2E6DLRiV0PZ56Xu60vOC8pEn9Jc-jETV5xhyJNrDHGHhZDqeoyR-NLDcQJT5BeasHvQnwAD0ldoSyHFEkflx4JTdW_mFRJOkvrOjwzc-15ptoGNLoq5lgr9-Z8Pli5Pnq5_ZyvuQEr99BOv9uv3pNSG-meEdcwlQJKvXbbhhP7uZ0Fk7Lv_OYwSeok32vqL3KsJhjuvRZceB2-rpyMOpyoocOBJjdX8uK_SrNr9zFOFbMmEFZFY3Bkc9F0cNf0uY95iyIHoyNrLoW5OHEvE943VcP8y52zklevf84pBdfKN4lPPGBe0uovp4WVGFDnsQEUfZ1UOBf320I3cugdHuAU
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3grHN6QE!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
   - name: >-
-      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcLOjtlMyYNSX7femBMV-w6o77MzTkX2W5VfXfMeq5GQCrKJ17z_UidxT4XqW-Ksfbn6qxbcJQx9kawsSMkiC6dceLGaswHXvlW0V7jADq8nNwwEPIUgWcGMlI8IxUKqrBnbUL1te7Wks64ing71duJR__c41_L7eLLKvclLEMV4iNC1h0HPqrsFEo6yDHeQO9pH5GKzwRKGg_XxCaT7E32zY9-XjiKnFZVj8eLJZA5qquYN5IX-xmYBmJVxolym3wSv4m3m870Ek6GLYbYB4KyvQQhqnq50mS59at1SvsDrHTGAwq1CXXydQt-Ue0PJ7x_ephryXtYs9uLJSqODiwExFQZ4g3wqLobvlrGMoCajjX5OxtFcgD_GenLD8ZaP1Jfdl3rHmXpCNBtWS78y5hiXBvubRW30tMv-JS4i-erfFg0
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcLWmGlB9n7H8psB54YyEwVQTWl1LiJniWkfYxfLgqjC64S_rd1AApuOW4fNUwmt5nDCqfFRWSYpzLFzS9e9Ab3CAubxaxS4yZsRkq0K5G8bqKNr2uG0PEPcXHiQNJ_oFURRcO1LR0qBW7dwUZiZxtru3hOUS-qG8Id0okZgpVcB1bwWXv13Nefcr7FHy1LwDrPlOkuomYdrAwWx4F8s4XKOdaL6x-nMA1AZD7NCgQ7tyh3pHBSQIAgi7i2Em6XGghpTkV8iboANqF9shr5ijLiIHPAhwX1aSj82N2Rux4_5IJqgHYbZECEJsMJhwwqOJiZJZefulbMFpwYnPE7KxuUoLwv8zBHiwZ2gZ1i_z3hVabA_DW6l1Lq7RKrIid5VUSySPs18LRp7pYjE1p4Eg_1QPYhSwOJohPYQ1IGkKTv6FZc
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -91,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIyNG0rQE!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
   - name: >-
-      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcKZHu1ELBEtCvYtLA_EB4nwYkG7TcX8Jg_c8tmWo_p9xrP-VoZbAzJ390DP04MGnKpV5cvJSQ1c5-P5igsZ90tHs4z9wwBD8YHbDKnTIujzyMvduQI_Eym4XSFUf1KbsAlJmULYeAzyehwRaQJcFvx4jAnQ3lCDM6ZyZEbZUglIfFH8mgijH9q5Z_bsnL6apnZZbolY5VsoHV0mnZcNutZMjga6spyOXAxKI3kUC5JbeR7o1fs_vVgzsD-Zw7sPFAKdx78Dvi1bIDrIdTKa2znI9UPE9Tlzh6UeqDu1uf6081B-ykCAUAKy68ygXxwXYwmtMg8Wd5zGlGMRGMFmNwnJvybaOX5QWF6lGDq8jZNvYU4iekTatZPmeAOrXnF_UkxSbR-k74fUhkg1ZI_Cz-d9iMrN938rSlSfXWW1RBy4rU4F
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcLCRRlKPi1grbJy_lo_OpuU_lEOLyELz27CjdXL3VB4h3QuI0EsX_XPIl4PR020soRts6O4a5mX-iDGLkzQfMq8XpARAWMis8DFdd_H_uGC76m_ggNLrcM9I7aujImtYcrd9cQKD-lNkWewAzLjSCQt24Dp3H7nmtzjsuU87goSLC_GXSxSNuZ9vQ7rCbBN0RuhP7rGyGUNvvh-eVlZiTjXm7Iy2gy_o1p3qniTIZ2WMYuKF9I6pK-JnecgLI0aOT5PCVgN00HK6jE0e-WCKWTGot3eRsutO6VNY3tdju5CMQ7CqgTb6uv72iWK0F3X7SAZNcloGx6hUsGsQ5VXeOPRFGwmdrheHSqeaaKqyvsBj0yStqyFHotUBVKioaRAhWibl9CpKGBTWu8bjDM0eTBLy_riB8uVN0u7gPEia2Kpkje8
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -104,20 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmwo2NxAE!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
   - name: >-
-      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcJSpL8VPwIywaKeM_xEsoSGLWnbZiJN_W5xefWlOVaVDAHutIWDQoO7oSmp4hJTb5fg-kKDX4ePKqH_XtrjxYGENqvDhzF5Pyrb_JV20J26-dk4HwI3LMXYBhf9QFDUH8GN51BiiLnVenjkzkrYktqKGGkRY5SnvL6xChZWimNk7IHidT4KtxxN3k3C_3KP-b3EhWI8EAMh5Z0QzuQ-tUHzgRHjalWld0LrSHvHyK-562NH23tSuXCBKcCD_8Vcl-qWjWJYf-nrYAhOrcK1MpBx2vEQiZf9epFjEJW7aHoP9z4FDlxtDpxZ3oDn6zmnCZC11Xp05wUdjG1EKij6J-DZyLSwkxOqywUyEAnFP0yFhMTTCaBVx9Dk1OpgKDhTWvBC2L_NY4i0h3UoY8cJ7qh3tNARuYWAcuUOSAc
-    widthPx: 4032
-    heightPx: 3024
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcI1Q52Cakr2ACAIDf9eWxjkH6QYHgcVyDG8fxu59b6Mxz679VrDhghVs1ZFq_-_ejdwk6bE9wLps_cPANdYDTCl-gV6IhHcBoYNpK0_Rgri5QdkgJC7_0EJvsH4xUo3WkH1rm2bL9FLsihEkgnhpAp7Pf1c5rUf1SoHDGIMlkOvDDOfM4NB62Z_qvQbU0cjx1gJEYuYEo35e_iuIALh4k3v9V-WGPXtJ-e6Y4-beEKeJWLlErioS3euxIEOKSLxIuIbbbicNgOW_WbQ3De4Zh4dbOq4dqzNZ6GYxRfPsNZuKFx0fRBc8HesWC3qlCrShBKNYCWcPZ6iRu3QirOR1D0NgG0RfmeX7uU_vc06mgAAGyGdTDRspP2N_X4tzSb1flVajxm4gIzGkVIvmJkO3343mZarRE1Cf0PSlxdz9S6Er-1z
+    widthPx: 3072
+    heightPx: 4096
     authorAttributions:
-      - displayName: Melissa Chen
-        uri: https://maps.google.com/maps/contrib/116130042257442097118
+      - displayName: Karleen Kolar
+        uri: https://maps.google.com/maps/contrib/104196870273568634443
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWWnZBFOaPpv6qQwZqJDVLrvra40LpigyZ_I-kjBm-agy6xNl8=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUy8f8VhwghU4OzLlxVrVIHJ7g359PwiSim0Av8RWmPcIUong=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIChi4Jk&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDm7ebY6wE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChi4Jk!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDm7ebY6wE!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
   - name: >-
-      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcIvBI9GEOo_p8tjzkY2TVyeS3srGKBX0QvK2oU0aSzGi-9iHqOo3zlf1gWKZk7KHcQeBZZyjO3OedQdA7dL6xcNWm_GqTtceU3iG2Y7F0AJYMJHJfsYvwSkJTE_sATSyslbM89G0OGuA4kmJaSE28E9Gg7J6vK5-lGXHCGL5d4aFBsiSOogYG07Tq1ggx0gSuigE0nZet5O2j6ZpJFaGqpWdUATBfiGFESIxVJh6ifrgjfq_w21PLSSBWVNqNZftkGtsVcdsQCcpHU4fGluJ7KPmVwP7ziTlfrDZ9gmaOly2W1TuJYmrmoo8EdHBZnXaZOZotvcP0AG16oVrBTCf55lxqbwV4Uu-Q-6idCKlO1T3Vlz1LAKPyl4zdXrk24hJiLV7txI1z4OBqsYreJTj1_Cb1lUXA-0Z-N9p7b2MQuKew
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcKPjqvJPFi7kKgmLmf-oAnOkkkM059ElEvhsBzrFfK3GwgAQ6a6adUr5UFezlWpyQSwH9AglGyk_mFZn50ZtPGeVLboNV3_qk93nRO9XU5VwaZPSUN3U16Txagmn8oOEM0MDlWyBcPh_EkGBdRPY0quE0NfC1g9YPB0LGBBTfA5QVBdVAJ67s6GEn6AnBo1MJnyjOL3GSwcPqIpY-yDaBVG4fmt8sFVSVhhvlIMS0nFykFjAvhIuwfZDwILf5lGvLGaGkZqi3NwIrIuEXPD5IqWq1GfylCIf4E7CSIkOLUI9Y8nobIZhUj72z4zCwht1VA90NcJX_6Wgs52jWKYaTzT9_VHbkUzLvi_49p7K6338PaZuyjMxtxo_9P0pOrr2bhc63ZnWVLoa6x8ZDZIEDJ5xMpvbjHfl6keJFK-yHn3vg
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -130,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6ls38ZA!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
   - name: >-
-      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcLyXbk0VqTwsVjKxySaqbBW3M7wpnFMnzSFuRJam8iEeMgVgjstfew8TziEjH0Bypa1eiInJgcT1ZtT_Kf0FCp9GEgCVx0kLynBxlj51rAXiZ8dgyQrCajkkCfxmykmvUhexWlcf2EB3ac6i5fr2X-ajJvXrW94kpYlebSv7Uk7yZsJ4VbDD_T_9GQXlWkrYRdvq2iy6H1J8SlpIMS9tUM2ZyAs5qNVlJ9SM9JLinfAG9RMmppwDuBsnBXpEa5qCuAPliOwGwHfWl5wE9tSVSgqF-0ESBeq73uooDvi4O83FhspQe1eaXDbg9Wib8iZE06vrPs1jPlji0iIhL65nqw-bOhk8pdtELFrqyy4iMQYZ6vGl_YWZJbQdl8HwfDM4-Nmvfa8nCblUBjAyZD6ssEw0_L1DH4hj60qwv8uFS5TpVaO
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcLPO5iwAiQBTUMaekCSBoDNmnjGNEabs6k66NqQaBOqQKMYnXr_l51jQyGRpn4DRfUgAcsCBEpg4o5CdZi9vu4bznhgAgtNrSCQrGTXoOUn_5syGGjQwBWMXux2xl0_kn1PqiPrS0Y_VDdlW6YuRn__8HKIIrLJdxjCqH91dQCoSF4KWCAvheXaOAwWir3bcDTUD4nxUZIn5n5aCB9ZvsZOk-_NGuVI29qiuHXNjcKQILbIiT5LPlsr3xOJ42W_XIrlq6y3AATILMRf4ZNUp-j6XrOgj4JbggDNpF7aEF1DmcIpVdGWdMx3uzx21KIkehZKM6glpsTHbY7NZ0OdabKKIDBCqSciK0Qv9sCsEnuqbnTvEF7Z-myen9YfLvkL6bizfIdtwcUALSi3Veb66x2So4WuGCMTMiljqcXjE9eqlw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Aaron Thomas
+        uri: https://maps.google.com/maps/contrib/106989389636654076391
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWLPJ9FH6g86Us1Vy2_Q_o1vqILF18F61onPtW48FOM8PevBTLDCQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICa4tS-fQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa4tS-fQ!2e10!4m2!3m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
+  - name: >-
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/photos/AeeoHcI2K1Rt3u-NQp68eIAXp-KrctMJ5HjFlOQyE8I9ivVX4HsYzP-4awTfK7m34MdYpbC9Y86LwXB6l1TY1EMesu4uhuiDUsoR6MdlFTFiLF19Fy_Zw1M2_po7dOVEM9Bb5dvJKOFOAEihLW5cXezXF0DHsxf11xEpdnGhK1SQFM6LON8ejqxgAV9Cketv7IdQJ51KB9NDYf-cz-DVhBwn7Do-6Dc1Ve8tL9YrNNN8T0XPKKUjaO0XSdcocxs8KswHoZZb84lMuuapdQDzI2g9NVaAOiJgGbZNhqbCUW7urqpq-SCREnZ26AilCW-cvavxDyg0HEt_2NbOJ0C9aJ0-eLXrWsUO7bEki2R0cv7X7HorG_uBAlFRYqvZlNrvf79gEjLQanHXqmQG4fngx6JuMNISWSgqP77FWbSSkO2rOwpG6vBr
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8796bf02b25b3c63:0x332dfb3699af7a39!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  current:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (402) 261-3199
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 1499
+rating_count: 0
 website: >-
   https://greywhalesushilincoln.com/?y_source=1_MTAwMjg1NDE0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
 reviews: null
@@ -212,6 +226,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

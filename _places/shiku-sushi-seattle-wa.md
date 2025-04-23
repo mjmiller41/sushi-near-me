@@ -13,7 +13,7 @@ description: "Shiku Sushi serves delicious sushi in Seattle, Washington. Try fre
 place_id: ChIJW02WUcYVkFQRmqe50d7Uajg
 photos:
   - name: >-
-      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcKHZ03ozzmnSdqM3xOMIC-LKWYRGWZFBPXXgcVge6ZwgTCDpIbro_n-aF4vpXBXxizxj-OaLfpR6aF4s7H6BTVfEcridDJg5B5ajb6mBsN_g1asUi2m6-3cNGe8rK35gJ4r0pCVgfWwLx7zNrnkqkftYNDvxG76dkJDz1svNCG4g6YeAf9NABNQjDiuUdlUx1Xx-QY3KSx-7ktQSq39MZtD75c-xu75_ZWvg_RgKumLJga1SRtCjhoptdGgMifwfNxdUMPIl8Dutr5uhXuGgNz5XKT__q7XjjLdXMcULAZM7w
+      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcJTKQtnorVew6w-zC4csucHcwwW4BGDZ2MI13EoY9BuxCJOVzA_70gOqQOjPyFpJoFSUK6PL6bQDr467fTv1SERqeMQWmVjzbJwcBqG_u_FMs4Pt-_5-QQVzbYSc67184FwWBfSl-WETLd1o0eHjXRbGXRU3tcMYfEi3n9DaTjenHhSaYylFzZC6pTWJ4e8oKJ-6nCCXPSvW1ShYNkvQ5lIK2fmROIubcLjrwyC61ybK49ioJYCHSdqmsz3xd4-AzQ2gsA_hUiPGlY-laL1uFF14sy125-OCfJpzJwUklUStw
     widthPx: 1640
     heightPx: 1640
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNy_4on_sP42w5z01sjEckBKXjbJr7CLeLZH-Sb!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
   - name: >-
-      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcLoarMBeLrk_CYq74W2EMe1C6dLp7iONqOJWpS0VxGD3Hfc3XC0t4w6M5v4-fyJ4QKH6DXSFVm5OBUU1_BMN1Y-DnsHPREOT_-1aowCJy1AMcfKOPwn4N1ruq1hWZkVw5YkihX0ArpiwMHDIZizsWIHJ0vaMVAmlK7EVAT6d5He3x4lsQjRUMaQVIDOZip8xgVBO6QLQIhJEaJOa8Yecxf9PgwhW-O3q3K6S-kGxhwFvy2J-ox01hDRsMaKjYbiEn4NCwL298LdAPRjwaQAxuXF7J0m5epptiiAUW0RXyuZ1w
+      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcLFMsWby6jI6V9we2MpIcDP-Q2hzalAl0uXN2G5gulGGVzrjzMFtisb4JQFF90tv6sqlmCpCZNxKJqUVAVZ4wtvEcbpAV7YVmf3wcbfP4NOUeUGA_GUbgOLPDU6hwFgvstVwB8fY7DhcFT2PViE16nVMbsYXvkCPS7MiyyXUADk5ZzypTWWBE5LAXY0WpaO_4xXPVRhOxbUtUjbsux479DxOrK5iqBt5L0h1L1OeJtrj0QqhZOSvew_o_984ky88d1w-SBkhPAZxZoKpei4TvfBuzDUudcB4waSpMc44oZjbw
     widthPx: 1360
     heightPx: 907
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMw4SrgB0YZrFq0FU031gkE9rvyFFSQPAzTef7_!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
   - name: >-
-      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcJJ0Wdm6z9oYHHpWB-1FpNF_5gBVkt9NGVPnDOPsoewRXMK4DBwMxq-7R5Y5dbE0cS9o6kNLqmevRNH5QM-BwPRa9OFwwu3EkZgQIV_7C1Ztl10TKpmFsTGOTgJq93d-_3_ARPW1Pwa4zudb11x4O273kFTMzxe5nf8d0_qyYJJjgtPMNzij_vMg-eJgZvG0cyLhd0EeEeiNBZHdGMNOJmiJVEioDp_XtoD4fq-48or7j3Tl3dbZkozVJ-cSktcBt2EIrMfl2O18Ml85UcuYAOikrfi72gj3gw1_97DVCazvw
+      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcKzMRP9Qgp5CJTQLkf3RSeep1KG28jCmb_6X_Q8JtvwQlrnnUzWfanHgIjgyMG8o4zYAeRTzLEkSVeLqF15touIs70a7LaWqHuEfUQa6is_kSmt3_DEWpj6JZCqIlY0CNci5rFI1fvaFOUoruhMwFfL8cFe81BkFxDSl6du5PUNRRrNnSKXtA9V51tETq3rkuqG0rnrZE-KCy2EPOQiiTIGrQHZICw3hfG8RlBz3GD_Rh89xARaUV10AhVe7cLqHXgAxXfSeiMCrnLDxXrHWAMxzPzOJW8vhDigo5Be9Qok9w
     widthPx: 829
     heightPx: 823
     authorAttributions:
@@ -52,20 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPye9OGG0CMXEkARN1z4z-bg6kWdh4_a-1wBw2Q!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
   - name: >-
-      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcLb337jstEYzbBAX4WhDyQuk565QJZdqF9PMz4qIRBmfkBsGofcjYWqqmE34xLpdyGelQ5LKsd2FCXUZKpicrHPOmaY7TKX2BcD4PL9-mlzzIr262U9aU7BO8pTZp7zntGJuimWusI7rQh0zxgvIoi7pQWa9s1950CqjZe1f1nTqnM5LNFQNOhtRlv5mlwfwIWk6tnuF8-LRDYqFBZ8Lu90vH3czc7Y5WweRETUdG9jHsKbkVCSRiCsOyhi-SF2obx2790keIgNVW99W8ezNc4zeP055Oonq6toYwdiGfdjGQ
-    widthPx: 692
-    heightPx: 864
-    authorAttributions:
-      - displayName: Shiku Sushi
-        uri: https://maps.google.com/maps/contrib/106326335959274544285
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWgt8LVmkMuf7rbem4ggS6m-YnRTm5B_wTq6-kAk8T0_Minjn6k=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPNvOTZ-NH1op6suStCw5NqO4WCxIh0tD8wTQfn&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNvOTZ-NH1op6suStCw5NqO4WCxIh0tD8wTQfn!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
-  - name: >-
-      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcLznyiHg6-SBgBS3ZHct3Cyk0Em1u6zEDcAIdiG8OC_S6DcytacVMTRsUeiMBVuXsurjJSB5ztHuD82yQJxv70gAqdMngkf3dyOYEtBXqXcKmxTWjvomp6ZWtqV4umh1J2xOrUPknCHgZfaW2kOqXc96iSAJuToR-z6sHL2985VbtuJKhfIjWPsw43hhXCjB6l1yFvA51ZSs4ip1Qs9NlzhKuVj-j9vsNeDuRvxK9WuMWMkxZT-MuZ_2JsKomgR_8nZTNgbk6hi42HGNZJzXf8LY5ciZCUqEoJwyfTFpWJBFw
+      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcKzGB6Y2e21ULRzQsFeyRt9wDBkru0Q7ARpUbZ2Dd5UbcHoq80JjiSV6MY6RW8QWSQJDRaGcBrvItbJQwCmQu71YfRnSgPhDiAyWZN8nU4-Dumo6ogdU5UdrGY3nbdWokzxPbe4hOvnrN7ClLuFvvoGdm9cVxIQhsEA1VfkTMr5xWFp5Zc0hWkluB__O29N3014d9der6jRfmQiJwlcWR8vnTnDlfjqRkzBPh92nKaS-nCTGA0otI9Z2SVljzHua1ob3sP4mrAw-4ZF2mgf4I8cgqVjpCzg-oiVFSGSmAd84g
     widthPx: 586
     heightPx: 391
     authorAttributions:
@@ -78,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPlcVDrOGsuDVJuku2ZjH2493M9ZM3zoE8CdIeE!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
   - name: >-
-      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcK991ADmeDZ9j1RkyiuHkmZwHmQSoYtO35MET_Qc6ulszzKgteSxoTtpZbzhIB6pHn7UCvadptkB3nOs9--qZ6LPZdLiZE2_iO8jZAr1Nrl06tG59N1VS_816qRgi_-LSgxvvnxcAanPTELrRrBuwtX-ijHdTD4SNarx4iFEQdHOmVIph0jFnoCTwENQ65PyD1NrOnWY2mCp66WTG5EWkTZJ9sLPL7z1v_Dec_kMhROqWRJQF4QkvdKTQ2Q6SmiYTPF9p3zUWZ3I_IEHno4WIyHtKoBVcz1ieGMT5XzdzhNzA
+      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcJ38BhkG6FPVfndVKhGEQBEESV7qgsd-bLJL9e6Z_M1to1WYBNxsFwb4pcs3Kv1SRTVqNuNJwxwTRv8gxBJCyLxWJV29fdNFEyHyapHpFrYTnAr2Tc6LWcnwKGM4Dvugvb09biF72BQg8om5c18NzmWs8HKMKRa1tkdYx9eZPaJbY87Oe9rl6g9rxm39KMiDHM0BRO66WkIutVly7H2yoSbultblXVI1tMHs4beqaEINGANC7bjXuQqxIPfyIdq4ts6tbHTqrKVdBz1thq5kmSCmFq8A2ETpTMHtOUxc8FGw4MTkGwbQ4Dh2iti6N8HKCf7sMEb61i432rXheF3X0gQQqgEz4QYAT5Jrqr5oe4jLODMEOmSMVQl_eo0Y-gmGjwCWAgFCgpvsyppRrB6tuAiAqhj_X4evFV0WASysT09rw
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Miles K
+        uri: https://maps.google.com/maps/contrib/105990277441933505827
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVg21RZn-bNg9GVHT-lf1VV2s9LZiTAhk_lvNkMkX24hRndxHXHKA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLm7WjLQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLm7WjLQ!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
+  - name: >-
+      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcIVxU36zRbt1H5sYMt34j0ly9AQJhh5NUW2UUno9L_9xe9mcaE_I2YDDev59pK_9-e3KGQnzVAMd-2-DuA1BfvVaS0WJdDoI9-ja_NCEO6cYs6J6bHu3O9mMhDTecNJrnyqT33iXhQCDmfPUUuCXcYW3u20uTJUref7EodWwpOzb3ZLa_ymEiUKT372YgY4QIwFxj13klTzQBzXhF-gxlCOxdXxj9XSrsOnTeAvG_NG0muyaAgBNG0Rinew9NVeOv_-0T0UzwotZelGGkk_LhbwAmUmYBsTcZIKMAB5Z3a8vg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -91,20 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNB5Mw8Ytp1OCIRtjqXYvevodRv07nLxk-n2BZB!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
   - name: >-
-      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcJ-SoDOyThSxR-FaJcYTetPKU_PYLEwpXMyQwYUOdLf4EKDeYAQWLJ1b65760P1sqlhv0Gw5AQdYGp97wZ1gj8Z29tgTp5nyVK9nBl-Zi9kZke3ag4DOqpUeCrM3ar9DV5npY-oPGlgYBXZybJwGDdcbeSwGldSzwzPv4c-gnCdKXThnsMrTbVmNKrn9eLqi-Rh88F0qRtvDUauAgLiCYwgvC54EGYw-8WpozcZjsiuG49r72Abxx6FEFJva9ESRxqZNvIy1Ry4pe3uvprLxlZqXOIg1dvHcq-MOUNLiHDA9g
-    widthPx: 823
-    heightPx: 821
-    authorAttributions:
-      - displayName: Shiku Sushi
-        uri: https://maps.google.com/maps/contrib/106326335959274544285
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWgt8LVmkMuf7rbem4ggS6m-YnRTm5B_wTq6-kAk8T0_Minjn6k=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNSU8IZyfESMls3cNW_q_qszxbDuTP0FBWhzVfQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNSU8IZyfESMls3cNW_q_qszxbDuTP0FBWhzVfQ!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
-  - name: >-
-      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcJfMrkpJ4lfJhl5DQmkBq5WIzIfe4FkxtmqWx8-rSx9ezGSt1x0YUAVX0BulBBOdG2AqnpLxQvfWiAqxtGip7HEPlRipXm_HkoJBmf5xnh48-r7MRP3brbj0HX69gCgFEUpF1Th9Qf5cvLCNB2nTF-ccUBPcVkQcqK626_T4KFD85MtU-Wn91IOeGY72Y1v64mByjOTtztKSB-3mqHLaui9hQBud3SEWfDeVG_Nu8-DY7uFsKnn6inRATAwl-9GDzAbY_mvSGxCfH12SuzgyjO9IIrf7BwbL6g-U1op3WInbqQ5n7rvAuq9OJF25rxcFrlULNbE54NK2-_5Kp-CSHNRxvCuBRbZ2U3A5uf5aXJNufWl6kxLUB14voGteo5In8V6Fal_WFmaKxqVVSRibs1ohgeKnrnG4b1nrt0oY0w
+      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcIzcU6KhWgVSS1gi2VJQGeQBSNLIBopmFyy0yS61U_bkazQAJekqiB-37scFXXvTAMqJ-s3aDIurjK6Vh5Oec7OTyiQpBfLZkCwEI8QjAsF540N1ospBhQ2TO69gLqF32WtijZWUQ1RkggdZbT2zd2Irt2AeI8AXJmyogtW64m-NU-pPQaUgcfYOYaEVQaJdYu-D3ZCK--80NUbgldAmE9BfWJfcLMehnz3fG6M1Kmp_8Bq2iL7dwG4sMoyNEbgHjEIkoTsJDRJGP4SqZKzchBfBTJR4QJCk37MW6t9dytsZFre89qAG9ZNxP2sr4-iIu2xKbhR3391taggEHckGdWdi7GQQOnbqRk5YGeA_w3djYqx2jARTEugBnUivP1l0-JeNa6DAzyoX2SDzqwMYVQMWq4FPEi64DrkQ-pU00c
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -117,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID5srmKXQ!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
   - name: >-
-      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcIKd81AZGpykD6upPBt6MfiX38oOlizusGeS6P2anqEV4_jWUkCXDJKk4V2TUtcsNYpVPxSN3OtX8wFfhyRfGysx_C1jBLC0Xi7ofQUTyW_bB3DAnXf5XmMpG1RX-h244wwtGZ7p0iafM18bgytLuggZpxSoKo4e-nR0E8xgScRwXeqKflkWZoBTpPPZoowKUsLES9fm2mUMMm10XqBvlH_dBtJVOzour7VdGDAQLBNfPQVbJmmOsklv1WG48tNheIu0MBt0bRktoEJrVnWDgmnPDiPaKXZde7IYO52xbpNTA
+      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcKoVKYdow0zvn4m8ZTvXZAHIRJn--R5QrnltbXihF0gs3Q9kYDNCSvqyxf4lBw5yXQ7BToHHBuGcm0tOjhltOQ24r6GrgXfqmdogeT-_LJEMXrxe4kZ23pIGJ2mENb1oVWH40OL6NzHl61UZccRX-ImcGx6UPwR77DKz2YhlxynZOso0nKIOAY4Rk4lyHaiE7I-fFWGcBsGjx9e_RlHm9xL5Rgc3oJIqAk3LNNL-olzat1NyVIlhad1Mrvoi6O_NdbkBI4PUmAoDEsSrxHFWRYb1VWMRa5Rwjx6HIRt26J47A
     widthPx: 1800
     heightPx: 1200
     authorAttributions:
@@ -130,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMw90P1kcYjIRiJDU1Oy6slw299PAthimXamIdE!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
   - name: >-
-      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcLkG2fa_PDh-dV_HyUQHGsbnHNyLgcZvQVaxnNsqHCeRL4Db-0y9-1_-04NS12Vuad0hsTbRNgiIv0R_7gLjrPqz0njuFpuzaquVg8kov7oCtubFHJGJ3UE_S5GSHlZ0Ax38h3ycHJgDLQwLGiWSl98IysCb9ZAqjJ7DGAXtZZoa1vnDaWx5NfSB57vI9ZX0dJXBmtnsYrITHqYhz8jk5wV41HIutkD5mKHPBYQ8lL3qvpsO3WXbSeZHuMtmdoDwAYhQN2mXRUPQ92bMkfEXpfZ_I52dJOF-2TPJHUs5pubUQ
+      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcIVf6h1dj_OgFaX-0qiAyPHoh70T9sO4nz-epLj7ScVTK6OuRd0ZC_Kj960LathtxvvlNM0xOwXzmuX8dR5c6k69xCa-3iIE0XB50PYCiEhPO2KM8-xES308Vkyvdg-kYF1_REs319U25J_gOZV4DBqWvkXzfL8FR-ySCBX5PIZ8guI3kXdwmbjEUFGPJVwXuxnVkK_vW4Gxr1DT9ZiAl_OFXnp4vv_HlGhDSqUbQ87skMgHHn0Wucb6-m4QB8pxEbkqclQmNsQzdut19klDoEQ7HcM9GaELYfz1EXQmaM4KA
+    widthPx: 791
+    heightPx: 859
+    authorAttributions:
+      - displayName: Shiku Sushi
+        uri: https://maps.google.com/maps/contrib/106326335959274544285
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWgt8LVmkMuf7rbem4ggS6m-YnRTm5B_wTq6-kAk8T0_Minjn6k=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP4MTDkDM_11jWRzuMZ6Ej_LZvdbKK1hJVqrw7o&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP4MTDkDM_11jWRzuMZ6Ej_LZvdbKK1hJVqrw7o!2e10!4m2!3m1!1s0x549015c651964d5b:0x386ad4ded1b9a79a
+  - name: >-
+      places/ChIJW02WUcYVkFQRmqe50d7Uajg/photos/AeeoHcKAEUAqLm_flc-ELknld8d5Y4KsbFXjYmv2Z8-ucMFdH2iaTRUYKWXjLHG3pg4KC7MTqGUBSTz5z-pCPS9z8jezERM4QmuX6YxE1E6Sd3qXoe3QvCHKM1DlWF1CfkKYEE6bJUWl4b0MfIi2qJZ9LlGhzF-IIRyw4nXrBBCOYewwh8tTnZoerfCYN-bjh9I10g81DoUsFxGtoVC93wxdv8_G7_hErmOQyd7CTEWcT44mlusF9_MIgVnm6DweUPDVa4d8EQdHvU-MMt8hEjlyDv0jVFhwM6D2L-thGARVm1oVag
     widthPx: 869
     heightPx: 868
     authorAttributions:
@@ -169,8 +169,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015c651964d5b:0x386ad4ded1b9a79a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 4:30 – 9:00 PM'
+    - 'Tuesday: 4:30 – 9:00 PM'
+    - 'Wednesday: 4:30 – 9:00 PM'
+    - 'Thursday: 4:30 – 9:00 PM'
+    - 'Friday: 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  current:
+    - 'Monday: 4:30 – 9:00 PM'
+    - 'Tuesday: 4:30 – 9:00 PM'
+    - 'Wednesday: 4:30 – 9:00 PM'
+    - 'Thursday: 4:30 – 9:00 PM'
+    - 'Friday: 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -182,7 +196,7 @@ phone: (206) 588-2151
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 583
+rating_count: 0
 website: https://shikusushi.com/?utm_source=google
 reviews: null
 parking_options: null
@@ -210,6 +224,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

@@ -13,7 +13,7 @@ description: "Mint Tapas and Sushi 3 (Holladay) serves delicious sushi in Hollad
 place_id: ChIJ_yJWm3VjUocRM1VNJUjXwzI
 photos:
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKHh7CzWKSbRd1eyAt2NQWA-1YOVziC8NaQxoSw699-c6Y07tIuBIY_lySoBqpcWO8xuiQpZ9Oj89iqzVYZj5Ti3hh0eiqL4MC-w1p2ab9Lwo3aec25NY0ThtCtx9D3ru1oFpzi7UrsVNzIL1LBn3NLe0DF3R7Ykn02Ufjy15Z2rlvOinmq_gBZgqDUSt6dSfN6bIfi8n9ut7AVocB4cLk6eoh6sqNvqPUhnDVs84-8_2GUGNXJ1c38vZ04CfRrrLogvvtzkFMjic6uIGOhlMfcGj36Tco5RN0yDAUOHLPAcg
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcLshhS0b-MPA8OomY7sQaYTv28dIhWslGp0icqTd1IpdRcEjyHqcnHc4mVmn2gLosuLXY-IFymdWSpfhZIDY-E5L_8hRxnTFzn2KXDzZDnbTLquRiE7DSDzec_T4QDiBAIPZat9_etsTocW3anvks8zRkQNZNXMp44OIesn-XWQfLlYtmi4fUV9d7MWLPI-MHnjrEuc7mus_9U-8b5FQrN65adtZhdQfpQ3oLOu4WGy1q89LaUrYADUR0rcQ1zgA86LNK0tM6UNjShsLQdxWMcbpj3pNCdv_YW0RJUfobrTBQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPvTcBcPgP5zj-v4-aL26uczqClUj0eQNUlIyQA!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKKBgBPE9O2XvQstt8xC_BSKLiWqWRj24-nBwjXIXtm7NM3cLAenjrreAj3ZZwXbgo4cr5dfIOA7WVZpwVxl_8ebgmUSN8xWRMmZxWa9MMapPpxQu7jSkpXXDEALYMGa4f9b-vWX8BHS2fUT9PixwSdoh2Op3tFbR6ap3LyPfIOdFwrpKVlXHuF_PRBcWKDoFqPkOU20A_24i-0NOzrwsW_0UWWCxGtwH7uQgInYwSTujQCWEGbg9V-vomKEEHR6CZfLwjrNy2v9IUUiItgYNA8-dGQ4Z6JmSp72LZZX-fQtQ
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcIRGk41n6p2_22AHEvowPVaXnQRJBBphnJp7wXLZtXDHv-w_18pIxYasO1KmeU00Cvyp0b2ykbwYf5JoUA0YgQ2LSVbkZSke86bppC7On2svjUZbst9QRfbBwNMz9nbiXZPJLx9QAL5xlOpe6RiHya56E_y3zUG4Gqqw01d5gvSxyMrE9cPoZ6vuwxUAtAkC9isYeEeuyidS_zMT09YIoxMXmS2m7V9VFf6__VgjmfjSam0wPK8HkBThgjUgAG6172QWMngn41wnUXIbcZ8eZcqoYU-qxcfCGaZB2wsEKCKHA
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -39,7 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMQ9yH9-z4TM1HSEHa1GALmv5AkRijwU6VbE-Pr!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcJ3o5vDOuvTChZ-AZIun16N2BSInlCxua0dHiCYvc7j9kmZURfdSykztMC8-e8qygc3wjfIZKjAWsrgU3BWFT7Il-mQ27uHezhgu6B1UrP-ebalJPrciUStY440w05V-314thgs4Fq5IkQwKl-PkXsSM9w9iMx43g8X7avAMBX4IBwnDcrP9kAypcRpFv7E2qU7gYvYtu9hC65SFvnRI8MPC3ldz0fp1cLhwq1pQldm1ZdO4i9EZ56Yn-ptnrMXKnmrXd7sGYlGT7d7gHalR2tFXvutZ852NTRlezbgEPNb8g
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKuEhJ3AV2kG4q8BCs5VM3pkHM-YHv-ru7bklX84bB4WbqNhY2lYctuv33iD6eaHX4fYl8hmy-NseYqLZ7aRUdqdrGhrswGTUUtszztg_0Yi6iknTC5Tqvh6Cio8eFcdnw6AS7CH6xea8CP5TMes0yZ67MW87YO0DQkRaHt5Te-OVI1ggLKyBbsboqUkapTyI_wUuykJfy4K-EfSiiQONdH1k64-VNs9DuR8hRh83FMzQQfRQB0MazQ7bKlSZ1iwJskXl5A0L2OSIL_yMITkKVVzjIlD064QHNvzCiFvupFq0vhNjpztVx6Vjy8yR7UKLJ1_yw6xcqS5NMXAh8mYgSwAJCiqTRISaMiuiCf0tWIjRzWmzlhfBwZOStLgcYorb9DZRfp9qtACBvgDkocvNyF2QwKHGLXz88v2pGSbll--7QrDz_rKDDdiSR6umcE
+    widthPx: 4080
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Katie McDonough
+        uri: https://maps.google.com/maps/contrib/115144933653475248416
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVY7fJpA6VShnIQZZZFJ03ehBBDd_PmwX0PllnichC4Glqu5ZXuzg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3ilWQR89OmgADZ0AAUeQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ilWQR89OmgADZ0AAUeQ!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
+  - name: >-
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcLnZYREGA62AXfRMTVZ__5l4aIHnfRzsKll05-gUnRYEKkU4Jmu2uIFs5QC7ERCwKz71YoMSwNeXUljA6yS49O5QNaGp3PsI7hvBoahJE_TfptH43eTYFsUR2Yif2kzlyDL2DH4xsP5V_l9yVF9I9m6-sRXHBc44zaZDhd1L9BVwXAKPGKvPbhZJtMu2HKuqK2t1XEWj8o85adHb73zhSVytBJCk56FDHOmWHrtSZzCWt4INdStBLS3lkS-6TWQYEoFdRinbp3xm7zQfyq5wEa45U0mYEvlGBYGWRqMkUmMYA
     widthPx: 3375
     heightPx: 4219
     authorAttributions:
@@ -52,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMuM2XL7plpnGTOmxzsp1h3KfdLN7dMIVBDrvBx!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcLxIVSWtFLuDhlUA1-Ad4Udj8j2wEUt1n9oU5t3BTz-glFTwyttOTzaauNGJg0Nc5NbPbrBN_3xpolTMFiBTquuussqmu_sXT6ieoCzBvlHKL4NoVATtvT9KRbAfkNvrTcdk3v9RDcqfn4gz4K_y8Vg73Bdr9kxdBDGCvrnOGbHYJKrOq4pZyJEhw6AcL2CzFX4v2_lDLVMU1FEcjVeTYODS9JIEO4UtDf3Qy9TwYEPVfJiwzPb6SsqdBo8z8reNuOc0q0VYdZr9_IaNfkEzEAcerDnxfB3MUEcgWZ3urt1scLhSQd8HEJG4FYquAkR2de8NCHhGrgygRV5vF5WoWApnzNoqVP9hUoZc5jxqNNfi4YXh9tFxiC5q0tbzJfbn6_1nzu2erJYJXfYH6NRtpk3o-cDDTPkmx-sRjo4SrhL0wAA
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcK-TJ15cC74WRN9CP3GS5Be0Xkqj5XDNrrAY21oWCW9HtHoImqvwqTkGt4EZbUdHZvXwzD9tHA43AV_lXhPIBiCR_l9N5ilUTWx4JT0QsLj2plcPo3SsGPp3FYVVwDmqXgmtBCJ--WL_QICnMhWLxQFBcDDoSNWih6uV1RWSrBiVVdH1nfIY9lcuaUnoDMxvC0e8peg4McevpoACDoKKuHv03AdHmuJO1K_UtAj0eEEhRsIwUibROubtsCMmDyUNLERIUsgX30wf1cqPrnGqOE5TowzEqRhpZH3ynITCILws4fo0sqdJjtvAIt8dEtR7H1ddHjH-JSCl2PkOuI0u6D29Nniz44V5TKciNBxtayM7A_9h6_cARXqxkFcv1mKFzaI2PjzkSlKM_jQjCSgcubWQHcFeRNHFoHzqc4KCoHbxrXm
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -65,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_-Nej2QE!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKI7Do5ypvFNRT8j8NUhBCjrXS3UmAgWa0-cpbvkE-gW1dZc7KZkdRXqE2d2FjhIpRZDJ9ZRQlVxq0ReTArGiKaHaYogsp49c8TNPbllbHnVLqMWFark-CirFmA9_dQ8oAqH5JQfLiyOzYlt8D-lNc1GiApvggYT8vr_581mZGR3pYyygkG8l0OKwOfFQm7aQOk5Ei5CymHqtYyHaJFdcb4nQgQP-_p2gDoZ2E87FpgHXPIULSLSynXaetosb8uvFX_Sd6tAR_IF21m5g8e8oqdm1GJaJSo1qYBnS3vXIJ_Vg
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcIxTFtmSs1xuCo5ofcqubadQ34g_zE6uCJ4wdbw0Of6ff8LDzRFkiunWM0V9QxDptUaoo-kaOfIJ6C8O1h6WrGeloDXeTXAxjzT_hYBai4eBOVKpUVdvgHH6YZZqy8MMPKF_FPUPMMkzjnDFt4nUVI6IRoECNTfoV9Se-FR3tYh7NP3hgbzYtwjZ_PEQ60JyEBbxVhpw49735QhiV9XLRWfa376R72wG3_cKWEOv-5RooP8DTtKx3-PKuPkKj_GPlXDIM57jFbPYCzt3TMUZScGw7PUVuBfWxeeUtxbpAKoig
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOtNLsU_yDdnqONuITMOeftNiZJJObTy9XQ3Owb!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKbGNlbIC3KIdbzIdtIJs9oFIRWTKfexLV4gZ77AvnLOJXajkaHZlOdc5xwhPu-jj1rwPrFhRpEIFnq3Bh0Z4HF52WOKgNP174ETUHV7s_r8ysD_UtpLkC5RNO0oKAHBKOkpvsbRLFUsRGC24y1tpxKfwHC1Yd4NRFsEHQYAVD8kWEhm8yTfrEvv544NoddU6SCoPXS837-Mf6TB5HZ3Rb4zu-8eB3R3tpDWaw-qMQbHMUK0gTGFZbwFGt6sq_1l5_PqgT-a96KY6_9wvv064xusba0dzi53AD--0wGtdKYdA
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcJVYxM2uNzBZ2jHKNl9TmrbZKX6lZxQtwtb1Or7Ri3JXfe8qYCH-E59RYh-fFy2Wb7WiuHAfoMdmxOHW3X2vxpvDu81kDgcaoGl8qMkvEEZLcD-riUwUikUwNH5kxK7M0u-9Cz9Niym-S3wNUsXAD1OMQ7yZ8HyraBOQeh0W3G6rmZhj70gq9klGhQUJJoSvToDFBRinehf9xDWGJCNFdJeFriJxS4jQ6ip6q_H2C7kihAlW2p9Qf3nDjT0XGwxkzmslSd1DpADp3W3Z8nbLljEiSseesx18F94FVmNs7sr_A
     widthPx: 3283
     heightPx: 4104
     authorAttributions:
@@ -91,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMUY36z8K006AH2vWFoMttKQ50rux5ywFy5ay-W!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKpuO41tE1GU2aCr3R9nzLAZ_dvnXgnuVsb16uEJ6ElDiLJptuiYsBxch0od6VRy1AJfnVbWMBWHN6w-7anFOh8z29qSkGNAuQISUfljnT7Tcm_7LrvNEW4j6nf-9A1_ZFHJ-EmufTEkCU6uhcrNY_7i5H1BME_bXM1oGcfUv85rigayJnrT3eG2AvEJ3se_Blbm0GJ-GbBPSrmCynszlf_-rKA6TKOkVM8IOKehTb9g-HbrU88gaYmcwvrdTjxt-hxLkSx6ehMtl3l5zZFqKW3aPcIXHHy7VwSgzcr5sc2eKO42oDCAT2iVKdfADvPdDbwvdBlg2xgs7K9f6fHAYrtgyCuJSjaPTkA706tJaj1BkKTPAcQzVvMx9Ar8CX-VizQuhq3m3AMOUjg3h_ECnN1ppvB1quVS4RKvYjNwjGe-wNR3G_GFLdv2kE_Lw
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcIKcAtEyA_L2vw0VpSXfQqNtvmJVFfJx05m7-nGNjfSyDWu8tigbZXn17C8sR8YEZtj6Ifln7l2Ov6MPqw_MNppgFah6PLeOaNIV54la0S-Or5_NmV5A77W_a39GdBgiiki1-rWm6KT0xZ_tsr7HFUlYH05fSOORqyX296AE60yZf8nsrRVLgV9M63i9Nc0aKQAqPW0x4K6f75G5GZTQyvwxlPIX4O6MJmX_NJIMjQg0tu4wDn6hX5jOk4YSP_J9jifX0JnOh7gmbtybHFeN-waARfSneXPLKZtbd3UEPddwrlVS9kKaEWNy5Y7J0PpiQZcUxKbePDLk2eQPSqh7_K2uJN0AiJ-fhwgbU0nFPGWjRBIFtpGni0la9WuolIbhAfiBbxZC3ZYdBlLTvpciJda0TkJBZPVjntkhzLvD5tyvazGygHjAxtYKSKjyw
     widthPx: 2268
     heightPx: 4032
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5U9gBx02faOQMABlGF!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcKtvq478NIa3V6ptOGm_xvqBFkoJknuTQwQSRw9SplM_Hd93FCNYc4DVQH8UzBGaz2KKopBPWAD3_AppMqNZxHpPoUyDg2kqjp51OQ1hEKN1YjnUIrzS8m39n3Y34mTg-2QHH17Qd7HXnRzmoJz46a2y0LQOwE56fCfPh6FDr5sPsgxAgHxTsWyvjejJOXHusRJ4mE987jE9j3SYIvxyiRBkVpfrLoaTV3c8UzfiCaWNRQSSy40AePoSsCF0FSEoLxelTltbGL-BrIxXvp8JP4KkKfkC6G1XqMCKA_xhoo8wQ
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcJQK6h0iIn29BtH3nWWphKqeBGRy6iUt4K3pxJOZuRdTmaKnoBqQnV9BOeuOPTnqwlGxI6M7Wut2mr6yTT-y_RwERjjkGB_f1U8gg8ASHozdAw0KXdNjWBso6SsRG6c18UcBmIajjCj-m9rj079CcnUIJpqDKvnlDVEAfARWtS8a3uGTHeyVeKhxrcugDhKc8JzL_8SKz4poLZJrcz57JvR868zMv1aqRubCFOSjstMp_1eS0dvJdsVw2TLWtbz2DgKlzjpgMxlU5NnNbfIPY5HOW_q16xXAtdAsaGPE3UisA
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMNH0e4a3hb0et6MirrZxuIm4T9LtNgOuGyRLbt!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
   - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcJyoF92vFRdmp0foGTrOVcLJvJXmTksNiu27tzFDm6_N_-pTEYFgoVUovPo12anI2e1Y6UpPXyxC0cB0zSJ2HyxYCnhKQC0Kf0ymFZaKLDoB__o6d-U209Ik5gGr0Yc4Q3sMHgunum9UrjgjmaNtSWWns9Cfirfn7PdRKRKCICCxvxIZtwprNR9Hg5MpU14UDNIwYmaLFRLVq8xg1mZ-u3erOh8j8lGN274xR87kJPFFwFLyBT8rEjDurfX7z7VVhBD12YS014o4hiXkzr_JI2M02orX0oLBrQcOVVOawwxug
+      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcLf0elUYxIDDsZFcg60Xy6DK037lsw_rH0aVim_PRYMNCVhj9jhXOG757kG_PSgkBITfU16wAHFqFcmLmEO7E1x_oaUHBgv5Yw2e-SpEsApVA0aIFZsCMO9cdOmM7QvgNvGd7_fT8-yVhpilHqm1WJcCH-GnFd65GNUNJEdvpmQREK8gT1F3vAtK_4OgegxsMlDGarj4_BsYkbdSPrtpmWarUAn3_GtXN7cGlmoYPRSFOm7MxyVYSrgmwTluSrSUgGHZmzE_XdK2igKB-Ef37ULz6j6bckWM-RDnkXjtCxjgA
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNa4liu2AhFciXpOQoH3LphX3OHWgqLOK-4k2_0&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNa4liu2AhFciXpOQoH3LphX3OHWgqLOK-4k2_0!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
-  - name: >-
-      places/ChIJ_yJWm3VjUocRM1VNJUjXwzI/photos/AeeoHcJCA7HcnWxqDAG9VMmV1CSIalOEJ5O0Sm1kKCPVv4IBqNWzYG8RKVAjqZh-CXnBef7Z1j3zTEgTWmbliZwqox5Guzq2CtHh8_1CC_U-mPVXysMq3I4ZbYRljZgCzvYcwC2TTF1noru3ut12QOtYnkl_8EA026C1MaqMcH2BJf1UrROpthxGVsit4dl_hycnWDU__EqRKR1Q8vU7hxePaGaV5VrxXSo6oOMQ_OnVuCbGgZyId7T0LgnMUI4XASI1DhUgpNhVX1H0NQdAnC55p1YV1RK8sv0MN-fw6Jtvx6rAVw
-    widthPx: 2845
-    heightPx: 3556
-    authorAttributions:
-      - displayName: Mint Tapas and Sushi 3 (Holladay)
-        uri: https://maps.google.com/maps/contrib/118199403018335035533
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWK3Jjq00eClHPW7nqMRrwni-saNwE1HEeFQzyshk5pkzzCO8w=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPwxv0XhTvoiPIhpUvjhMnnZdWCjHrlb2919FVX&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPwxv0XhTvoiPIhpUvjhMnnZdWCjHrlb2919FVX!2e10!4m2!3m1!1s0x875263759b5622ff:0x32c3d748254d5533
 address: '4640 S Holladay Village Plaza #102, Holladay, UT 84117, USA'
 street: '4640 S Holladay Village Plaza #102'
 city: Holladay
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

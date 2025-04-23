@@ -13,7 +13,7 @@ description: "Sushi Hana Boulder serves delicious sushi in Boulder, Colorado. Tr
 place_id: ChIJ__px7DDsa4cRGWV9PGYYhW4
 photos:
   - name: >-
-      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcJLO7JmhovU0ydp_hwGvVSMrBbl7Wboax7CXCJcKfI-4Hxgp7PNBlFIfVBneFgdSGwSfasrDg9klfev0XG1IpxWIIvv0TGbIQ4oiXFSLyXeHI7_ojrHyxRNMGNt1PH51s-v5YWsCpQOb4qs3JBPqsZphiV9EajKm-ESM2YKVjcDn1cqNSGFVgCiIVvuxhTLFiVZrlg5fAuDfeZTnIPHOHuFibUg_go1ADvI5_Ho76WyWng-oRdQsk0gVqHTAAh-lgQkI5nyQ9cpskR91RVbXyEd_XSDJsG1ob2BNCNLRV0
+      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcJbLK5Bhe4PfInng1qpGcKtmXdUw9RzEWZJbmJE885PVnBW0nhFfAzv3AyEu8zf1eC4lJC-vemI71cAZWR6rxv3bg6Gy0ltNgdqBNwLz_GUCzvYNu2jXkJdXcJmZKA2u6Lx36pEc3rd6YO10sxeRaue_LPZRhLAaU1DqWB78VcDVkhPqLaYcqllS-YPEiGP7tRIykeL8kf3T-vjHOzxcV0ZfZo9yHW7mPldyuzRqa8GB9N81n1sE38x46ZXEj11jBruYkue_l5Grz9VTX5uRDtCTI_2rCXuE8LB67E07E4
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPuYR5iQFkHtzcIPHQIRRsvYj9-u1FyuvN8Oh4!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
   - name: >-
-      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcIDN4Xv6xZDEM4RLr_HysfDUUdL76o-k-vq5fv1Vg9-jBKoAv25uorOsF73H2G0747Tro3DLilrAY_QfIjZR6Fz00qzvRPeRfrPpFa_qOTIDMuxn7OEBlvtF3tQletcS4imb4f8eAu-RK91mb3PAqFH_OslewRlZ_AAqFZGrLWnIPwVWUl9nOxLd8JyKnbI56h_z7hXVuRhAmTPaC2kFqgXixw1iBtSyJGb99RruNYepUF26U_b3-u_mEOSsrOzkc7mHRAO1EkSUajkXRR60YiifNoRAB2WqkpFkByGF5Q
+      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcLo8hWbphaLMgTzU6AI-7NxCQEDWBWvF0dp-M9wyyN00iUUupONZyIUENPJ5GUlGJwIgwajPf8FGncNq2av6FqacjMBzyPWYgGkPYpMOfta7S1AEEb6cQYCuCbWIiB9nWl0G24x4gurEg9ExLrnT8MzTCkGtkYGLzmiWIzj_ugvJLVSNBcFpxQU0f-jFmxsLfjsqi3rujMuBKTXcrCuHtgps-jypwFSfU1FuyyqNIThyWwagYt6t4gbyjLywJ0lisy7zTC7ITkFRGYujUWd_w6Ic_hAbagKtdRBnIv4W1U
     widthPx: 894
     heightPx: 746
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLDGRw7CtRDPOAPCuywmBGo_tB3nYpsvk8t4I!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
   - name: >-
-      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcKAnSdbZM8QJc1eq3Nl_UPLjs1_lilgBg0gZ3qTWEjf3z1XdUNeq-wgpGzawyp-a7LMS0p70bjQ60HMyFUH9-ydhgdgZDKFGQXxdkVzX6tDdoubTNqGDhrYFQ5-I3zQQOJTb8xwOPpIVLAUnn0gWB2cj84ZFiClvvZ_w3E8BQDu51JY1hsSWe8CqcWuKE6Fj9g5EraE25iSP67V08i6Mg3rgLXkdGEYgbgZCuD45gCvod47YGNHKILxkJCP9ABtpUjkxA4nWkhISwf7wtrCZt1xWvC-mteh8NWHnlfUCVJAuRNEUsPjJsXU2OfNpF60BrTuTnhaMQ4RXFnje7en4RlqEGmaanU5ZcbW0mYpEZhyxFBCoWqThi25Mu2EfdeCryqabZcqpKrrq_Wmqwf9S-IVLNT8-VKgu6wu85xi-o4
+      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcJEgoN2qyof9VeLfOb4miHAoeX9rYixS_X6zASfEA7UYkUzFg99Biq4btb1D9lGtgoqQ3ei9Uu62ZnqK7HVjF9TIUnW63q3urzXKwFUN1c-lE0jsYm3WJMdj0_xUUg25fXQSz2Ol_fgZcIdTKP713We8QHVCufe6VSrP6JnkxYyvjpKg9REYc7-J3J9xqrwV7B-99gZxMT0z8CljgOPKvc-UrLvyYUgXnUXOwfQYZuU-kdDYWRT8ltcPMN5p1lRJvSNkZhslcymWTxAM-r5QG_-GOZAd_pxYWYhdqfGPadmQ6kmF_G69vc7YbQHWVfbShULabSMnqfrBsXxL2OjYAQGOY1wbEMKLb6o7Z0LJrri46SdNDE5QWhc8NjoeERzAAoq1lc8oFV0BU3oCwuMKrrbi9T7uU4SYb4SIWCQLD4
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,46 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJh4T0PQ!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
   - name: >-
-      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcJkNFvdxrkt-w7oJj4fqbcIID2Cit0IJQ7phjMmDbCak5I1I_HnLR4JbAPOQgNfHnFMaCqhiP46698gsDLQ2hi8xNDhZCI0cUGBBvmEKgKkZVVvtniBsIM89kwp225GuJ03Dlw91-GRvVCScXWw-bJ1BHxOuImY8RGRKMU28OMQT_2sgxK0exlWTS2EdTrI4XWSCe3gA0P6iTnKc6pcTvnAlS_vnhe28aTYnyVRYH8KwfJtuTiQ7RQUq5EckZufWcD2ZUVb1OuxOuq5pDLngZEVan5OF0cviYNHxIYiC7fqUPRzkfnrcdLkKrOIDzTkZIHR0uXIOi0jt1Nr8fa9U9ec64yXXZRNOj364K6OQgNQ9hfgrEMj-m5yF1vT0wjB997wjq90Wp7nD3L2p0nlIJAiDs884gO39pdsRPAnLHcvYjE7
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Nathan Murtie
-        uri: https://maps.google.com/maps/contrib/111163093058346704530
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKQB7C6UBSr5F36T5Jp8JNzHRt8lSyMO01jfsJ2UzLahQJujkQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx3PG9nAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx3PG9nAE!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
-  - name: >-
-      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcKzZHEuUtzGpzpYO6HaxIzHhf3DeFzREaPqOZAIl-ytiyOJVln6NvnRTtlh5j8PNDSdaAoC_O_6BcUySg6lMxyt8nPicB0CgryLBUHGn288aQmHvZLXnhA5hpR3LXR5XYLEkLOAlmNnqA0o3w1QUmLgSyqgEBBQicU_cCzGPgYa9LAqbWUBfEIukjnWX3tYka0h-OF3ujrpURyzwVpumq05GV8CG9CD82cUbkj8ZOeLfyCY_ulSFLpJgJa0RSGHPQSy8GW9YpLAH_sJ2BpubF8bRhyj5fskuDWftBREdIBhiLyJ1Q_oc458DPLuJuPuODyeeZlEmKnP1DxiERYtt7a1253vonAcTiEBEzdCiNdeaQfhuIMxqQiuJ78tCZe34bimgg1BfSY2zdqQ6FX9fEfReRbZuMuyruF5w7JtrGqAbIIOVL1JKPtywmg4Xw
-    widthPx: 2000
-    heightPx: 780
-    authorAttributions:
-      - displayName: Sushi Hana
-        uri: https://maps.google.com/maps/contrib/117095053162136475231
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUzTX-seHMlDtii7tkNVYl9n1X4rqCAyerax1Z_KG-0Lra_xjzx=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzaqDSrlAmftWO0AAoZG&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaqDSrlAmftWO0AAoZG!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
-  - name: >-
-      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcKdw3ZJCA-3CdQEUcsdFSvAjn-Z-iAeZhY1txthVQIJ4AMLvnzBW-T4aZo6mljZXQC0lPfaihSiKsB1rCJ6cjUv5_uqSdicz2pS2Ukar7YOydwjbcqJXmY6N-nO_UYFtHnj5y54RxCHzvli8lKwBnXnthvTJZdui3oUv4fv8Ck-5x9oo9H8Codxmn1cgdc9G--uqPOMZ5yEgobKF221-5g1Ks50Lnr0mx4Mq2P9XezHUPefA0cYHbAUesFSsyIol5imO-k_zOa1AOGqIPU5DpJL5rRQxITm0z9wbco0KZY
-    widthPx: 962
-    heightPx: 962
-    authorAttributions:
-      - displayName: Sushi Hana Boulder
-        uri: https://maps.google.com/maps/contrib/116014101032633912126
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVlI9AMq2ZlV_2XeQmTv9DdyAE7iO29RPvoo3AI1gjwvZdgsA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPi6MFI9S0fnALkDdlWzjoY4McKZ9suwttaaV8&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPi6MFI9S0fnALkDdlWzjoY4McKZ9suwttaaV8!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
-  - name: >-
-      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcJuQwkYzia8LJ62fhXy7REux7yroOIA7SE7gzwAIyJyw0HL65jr4cMp00kG9qQMnHl8qm9OC78bYimzcyFJoGOOoNZ4foJpwY2sOPb3Im51qEV7wbuRccd0oa1RR2ZSVMSoq5WpImyD7EgSrcCX7Dm4U40Ged-uq-Tv_lgcePcyJo_4SSb9at-jVhhjNoW_pIh0ipWb9xhtJLfzGqP3rZ3kUjIRfNgNvUTrmz4xBTdwulrHU1DvxAZqYwM_4SZB6-TmEufscElrKohyEpey5NSc2B8LjgnsrekxR39WaC-r83CXtIV6o4HwRwF0KF9Cf9O0-dMlk_ZCRKluo-rjddve5zrE8qZLopzoV2hvV6eCmtxRovLJc0NsQfE_FaVf95M3aUSjMHO6jds4fCcP4CClTLoItyIil43n-3TyqXULfzlgDq-O2vOHhl1h55c3
+      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcL6ViLSF15g2RjsftxLJlWOR_kESNgDr9bv39S8Yco7RqhU_uUqesLsCaEENytDsSlrjYKz4pchh3zwNpVoiyCLrBQVnWPUGSUtQ8U_bUxnJMjMppBnSR4fqT3LD3FwpPpcTiMl4ki8M_YVM-9a8qsUg7jAA8uwP01v4qZLv9Y2109uuI2PJKFt0IR5MvNjnwOH7q9cZ5XMz6dhAhkH7uxvLs6y0SXkv97kYUZsP9OmJYSy2EptztwxtCjlD6a-kwh8RDAT7ModX9Beryi6jSSb4RSHQqGAAJU94p5x-dnmmMPpbdlWv5TjIXD8fZM24l0POkhoeCcyy9FxFekUEyoi42DEPSxE533hr-7g5bNk303YVwfd-zoVzbD3XZ2ZmjhiuDCxZreqlYjsVpi97b5kBaRtALi4lGeldAx04sRWYNejFXYuP_xUKzTEk0t5
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -104,7 +65,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbwPTTyMzXmfQRD8ABdCA!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
   - name: >-
-      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcK7IqDBfa6WMk5LorUNyU7OI_lAv1ETn5A0_llMfNcD7g7lBfB68fvsFnyhpaPXga6U-6-EOoA1k1Mlg6m4bp5nUl8EOW5JQ9a3V-DQlZGRutVolDuWbnet6F3AbRFpt8cNjA-Y-5tWaMeEkZk4gYUToobXEekCbjTIQP5ZsPx2BOiOlbS2HDm9aKvJ-Yi3u63bRw9WghhjZYPHrLZqRwyqtiWxVuK7dB0rmRgSWW52Gvo9tYGhyhUveNyBmfPXQIcuLAZTyJCN5Kq0lu4AD5_8TKjEEM-t9etssM4Qx9dNe7EIS_DhF_aYvEJV1rehJXLmGLsmb7tZwwkPqnRqI79jC7pP4ToyCE8QHOhXNS-A27OBWr5PoVchn0j9wAlyzqWWtSb4Y_sqly0rMGB06w6Wj5yhMCt_FClDGbPODjw
+      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcIxQlv5QBpnVf_EQTqvPq039h2ZCnuJu6wdGse7R94MRaZWVjmBf2v_IF06IqILFn-QAEhYDq4A4ZBshmCPl_ZT14ddBz1SQvk5RsjhYlUKqZKNrLRM8ejNd9hy0CJh4qUxwJ_LOvL4cnAnSSnoAWpUdjsQWPddZvJS7HX6wvtHw3X9Q9x8YxQ9XO9oKptqbI4ifLAS9CL5_Z2X7ByjlouaiToGQ7_xKocYwtSA62oYx5-CjgTzWrtbBiuDwppGI8pp0r-xp4HgqZd7aT8hqMyarR9JkjxJBXvmxfNtFGo
+    widthPx: 962
+    heightPx: 962
+    authorAttributions:
+      - displayName: Sushi Hana Boulder
+        uri: https://maps.google.com/maps/contrib/116014101032633912126
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVlI9AMq2ZlV_2XeQmTv9DdyAE7iO29RPvoo3AI1gjwvZdgsA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPi6MFI9S0fnALkDdlWzjoY4McKZ9suwttaaV8&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPi6MFI9S0fnALkDdlWzjoY4McKZ9suwttaaV8!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
+  - name: >-
+      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcIBvyFQ_h6z4_hFw30loBYm3tniACE5T1Ezlf1q6n-_J6CU6MuWA2YoyE-xU8ovNGHnUYC09EpD7ygIe9AH1U3aRsF8Cl7vcZG8uhlqMHw1dMvFrWsyQF1N9X4dCvvJCx4Y3s8fTu3FUOfx5shhDl3D1aKWnzggvWscV8NIIEgvg7x3bSkZTQbfTMqFxcG4eyo0CHMIVbpA0MOrIYFw0m_390Pc6DTgKQX90vdsDMur2MxCEqfMLtKcmL8rcGY8u7zWIo1QutSEnuzTC-Fi9-Qq2L_yLGKKQcH-HvFI10Y
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Sushi Hana Boulder
+        uri: https://maps.google.com/maps/contrib/116014101032633912126
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVlI9AMq2ZlV_2XeQmTv9DdyAE7iO29RPvoo3AI1gjwvZdgsA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOUfFvrdRgtWTCn1yejKuOy2nQ7GEpMvbCXhO0&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOUfFvrdRgtWTCn1yejKuOy2nQ7GEpMvbCXhO0!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
+  - name: >-
+      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcKLMvjMkWxXe1qYS1Y3dD1v4BXv2nVAvr9JZcsKBndTmuI3VKixEPcS1SPSiBPzag9QA3OZ6_2-hRFp4Ly64q0-nWzI8sPVrfEPbBrAi9gY3ia3CzsIvAQRV6NKy5r3Rd84hGIx1DyuJQQjjPyUkxebUxFFlTlRZKuMHgsurmgGg5VNiu4Zxdlrev4MapTrfxTWnGUfea0xDOzhxiqeGgArF-NUunEgE4w35EKJt6y1O2Hj6ouekrBL9ieZAjbMCWVRtgPDIsOesDSu1Qr-cGKN80fK2XpsS1KOMBPITWOoc3oYfgM8Qr6xm52kRR_OUiQQvs8lpn8VRT2C45p-PxCrCNx5x2lte8rPZPLB2p6LsBgNC-qh10AOyIBluoRZdj_OFUAssVPTEMUwM76mzuCXoBqBVteSFfrA2gVyWyU
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -117,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzyKH-YA!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
   - name: >-
-      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcKmQOkVQsSfVM3v2TouitXh4RlMEDYlzzc4KmNpovodNT5jKSo9x3-4bT2waeVjRMDei9DEJkNJVKm0vk08CSoR-jB9sLKDDUDYWEZQUssREyGlsvOHHONevvlbNLaex4gFXj3fKv02k2Q-qEM74iLu5LO-pBm0Fh14TLn4OQZpT3tZZ5KsWhTVCFI5hj0h0TFTMTCouyaMKpCmdyZSyEb_aWRMnh8s6EISiqhQ-CftW9xFqCjFFG47BT9HRhPrgrX1XD142beGw0xVZh_pUxo9rNqjTYmVbeZeBBUWbevo0IZIJ-rOPTyUBJXvYr0XoHp8yzDuVvtc17BF4ma4s-lnpXTxpOywI6_jlxeQv3vtuW6lWBHRonsI2a5XZ7Jo5HiZy0MWJhYaYYGzEwpIZ1N8hVAvECBiVIBq6r_qA2EYDEUH
+      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcIcWlrRgbhX9RXK5F-fe064JAtNJD9ePzcPrqaVc4s1QgiLrzljG6cn6t2aqQtsITCMaJJ6fk7p615syS-vnnYjLlKVDcbDcPU_Duo_YyQnGnp9DotxS3qA4jvnA4uv9WUv2ej3atLCHFhlTCrnBfLU2R9zNEILVIWdpSt7X6qNEIbY48a1sPLNwiqye1oI3RIygAMYwLrunY_PyyeL2gI2FNUbp-fhlPbYVXGuUWWqiKuAa2F2WE9wTvGMxJqpAWCVbPxGSvKj6i3ZMuvrrE9kLInTWpyJU4XZJBfygvuIwG4FHNdLQ58fRvwb-HyWkzibMp-QK6F4u1TMDFQfew0VZJdGJBTOo0YA_yYJ7fdBj4VK5Tr4mITnIIjP-9TSaf44HTy6ItylXsOsgEdr8X-GHeF5M_z_mIl2DAprAlQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Ivy Yang
+        uri: https://maps.google.com/maps/contrib/100495399653968022957
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocK6o4B-XXJz34mH-A_65kKtwDWUPPZNPLcllY8lkX2esseMIw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJh_iYTQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJh_iYTQ!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
+  - name: >-
+      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcKGd0N-zoT6U-SHbx1vI-0SqBlQ4iPBprdDXNITLQ8EXg6E0xYpWsWbIDZxk8IXNIDHad2zlWZNww14rdDaCEgyEDo-dLc7ap4ibnPQ-8HnV79h-SFEwWNryBLxuQHoBV8fVaU0dHVFbI-4j8J91x7XT7yqkndMQhJyidR0paEvkOjvZ1RSC0WUPdF5I-EzA_tlBkSZhYjv0u3FLAzlSYQOiVw9hMSC65qEgPBU3PhhBJqvj9Cb_C1OUCNnpoXU7o-jpNP4I-ihZYrjRxGHEyj0WWpG752kGnd9UpdCRwVK6GXqauriCKUcBAjfwZZ6zhResMz_2jtRdxBN7-X5LdWj7RV5kuxq6_TZHVgKAdlhNCnXBACCtFMjGvyo1IbunPjmvzTtYHePVQJTCVi1dzTXPVEspE1A3I1T75uDfD1INuWS
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -130,18 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL_9LbrgE!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
   - name: >-
-      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcL8jTkOSDsJF6-sNHVSkdf3WpfrAmd4a1SQjrK0btoAeMNSaXTED4B_BKm_-jtL7TpFQyseJsuaFw8Z0Owhtt2ISirNgdmKmfLuJGAKQEyPfv5sMWYRn0zc619CwO3Xcpda3H_hV4EgAGIbd5_acFrcjD2qaEeauxr56qTjaFqqiZRNafoMCS_DWNO4aNIqAs1ERaXYX_yIi6sF9xbCwx3k0ppZJT3AfWoLo2BM_dNRK--KHH5NKm64QDt5RHx7BL3L_J_7DKNtiUQ81psAyI0Ttu2IVYjCGf7DEyTEVIxAtCcZoFcVgl72yG6dcP-aqskmPE-Q0am-M_zfqWM9ZNb-UC2smox1HXfpxZdvUEjimkDNPgQECYblq7W4wx3MGsTcsQ2uf-01TlLzQx_Dybv2uAeZesuqVs82DfZxdSA
+      places/ChIJ__px7DDsa4cRGWV9PGYYhW4/photos/AeeoHcK04YaFhYY8Kt-Md_Od8D8nVX3MfF6bf8XM2iyjpIJ8CKp4rMLftJMSa_hJAa4UtLFuvrxIaq1FDYuQK20szXUWJTEZBdn4kaFe63OO1i9XkHONCFgL44tnMUnF_Pi5Kqyk8RXd_lFDqBEuxSvuYHuYMYFEw6FaMw7WBr4uUUFPMDwjSQjBvx5XhvsY5g7JX4EwCk619sxfl3b7vYz-1gzJurcKJkbeY7h9TTGxbEkeGlsjhxkTLEdpZdUKV4TIKmpg0bfmSrFJ3as44DeXSt2WHKAK0uxBee1WcPG0NhImGoLNCW3enLzm5kxdtrzc2mjPCiTPtZOOOUOswavtFxE2pcvhxQyVg7CgAz9CQYQDgsC1eibPkGqFC1jRGlR34bQlPkcQzjQ41JOKXoskDzYChhm8Ox7MfFQ0KBQ_HpBmyrU
     widthPx: 4032
-    heightPx: 3024
+    heightPx: 2268
     authorAttributions:
-      - displayName: Ivy Yang
-        uri: https://maps.google.com/maps/contrib/100495399653968022957
+      - displayName: Patricia Valderrama
+        uri: https://maps.google.com/maps/contrib/101252595736534460494
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocK6o4B-XXJz34mH-A_65kKtwDWUPPZNPLcllY8lkX2esseMIw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWnNrdwQhpADR0aQvpbG7PTsIDVupcjhr0k8UJDOtptJRVQ2c_x=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJh_iYTQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr6MmsqwE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJh_iYTQ!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr6MmsqwE!2e10!4m2!3m1!1s0x876bec30ec71faff:0x6e8518663c7d6519
 address: 1220 Pennsylvania Ave, Boulder, CO 80302, USA
 street: 1220 Pennsylvania Ave
 city: Boulder
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

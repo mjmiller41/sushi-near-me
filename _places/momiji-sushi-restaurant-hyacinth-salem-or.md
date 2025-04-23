@@ -13,7 +13,7 @@ description: "Momiji Sushi Restaurant - Hyacinth serves delicious sushi in Salem
 place_id: ChIJa_QBU7b_v1QR3wX8EuRNiJI
 photos:
   - name: >-
-      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcIjN8iDaHiNAZPr-9omT37HmhVSCrvULGTHx4dhG-dEadG03SHzauN9qnrph807GVqPGCJh7UKiLkrl76ZlwEFMYbGYNOspFTZHIN4oFO0MYTYcdQp315rPlRY7s5OzQF0KHMxsL8AK4jHTGSOTIoXJidXFd42fItBnACB3Qkk7FF2sBFHbilgDNdDJmtKpaQuMjjCsZmIFMwEFd14QwrWgDreCWoWe90J8QHyER208DNHXmxWpSng8tybqLi0s0K0skDYl0Oc8Qfxh2Trr9zgacHuJeyTrRtmf_d4Q7vdqHA
+      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcJ9GIeNwny8cEcS_WhVYC3deop66KM48kQJ2MhwzRDMlY_jeO-6SE2Z7H2CwbH8poIWJkNDCW7MeugwRNynMnJDvSqOdUR_eJoqnfAkvw-wVIO-wb9WgbYOsb3NitP0Ccp3x7OqCmSCb84vuajXDxCz-QiI7CHmqAV9Bp0XY2NzOdLr72hY9jTyxyX2DVgFAl7B_COpfXC8_axB-CooyRK03LeICA4INdE6Od1z-78k0lJnpcPc9p-ZRyc30MdjjcCwqfRlFilL0YpEAaNC2Zy3JFTigZpoJPxQVtSebAGx8w
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -26,20 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPzvXv1cX5_AKqjyL5Muf_q4Q5iwVFzbzI9BWE-!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
   - name: >-
-      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcJslddBfumq1YnlkF2ZNCLepnjj1pBDWMPJN_SzQp7OKS-YKwQbUSXQAcN9tbix4R8pQUPt2sTugiLWrXEbYQbn6DMISeWVEMKLxa7G3WmR3r91uuyqMMMGPvjPvxXiNDO4Gk6JWWoWavbLDAg6YBDKVHp76sYDCPQ9Z0ebHEhlmZ_afLmpp_bI81SoLO0OoahDwQTtbzqL5fSAEIuoE8uGGc0b3aP2yQDxvHIDq845tREgt4tLx5v0dmj4YnUVyg9SHP8bEEp_4wDVUBP2ZTf7mQeCilzSPj-hO8gwcyVa_w
-    widthPx: 1024
-    heightPx: 576
+      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcJec_t_UnbwmS2UZIYXjzmuJR6yvQpc1b2l7g2QAzkK0sACMbGVP95oDHDzDLTgbanC3Q0ej1fAptuh4OrVCjkiflWJ-Ne80w0PmMqV4F8yX94IREDosQCWI4IgvdtbIGSxdirzZUFYJF_gzAkSkE2MXNMbp92QZya6xLDM9_YDI0updwY9QrO8qmdVGXpIFGj-peq1rrHCOEXiPXkVs-UEQ6Ewbjg04SVf-Nt8y2iTfDmwuCRdS7XYgEUMSRmewuHaYbQ25UrmVBh1WGXSjl98j9Hq1qLl8S9SIoBxk5iJiQ
+    widthPx: 4800
+    heightPx: 3200
     authorAttributions:
       - displayName: Momiji Sushi Restaurant - Hyacinth
         uri: https://maps.google.com/maps/contrib/116474513234322040963
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjV8L8uEFOwFnYMK15HoXH03Z4X7njYaQkyEw4Za1pBZufJvHoDc=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNHArb8xWlqL1J291UAEpYaJ76V1WBM37Vo1Dkd&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMKteucfb-lFqJ9m2SmkNw4_asON2Fj_qXXqhpe&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNHArb8xWlqL1J291UAEpYaJ76V1WBM37Vo1Dkd!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMKteucfb-lFqJ9m2SmkNw4_asON2Fj_qXXqhpe!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
   - name: >-
-      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcKVczW5OxQk5h-LNVz9NBqmTjhQOy3LjzE8XdmDIBfaXhXKt72-qBHZ8qG8wh7e_Y8AhXfwPT_oRz6VdPuZ3Dqqx23buYHSzmGPUpBEhGenPaqEuxKcoRAKinlOBGBhb8m9MD-UGXuEs-kM6o3J60dllp5Hhs9imQKToRrrtBdZXKHtKQEGSLnnMy9Sfo_rgmCGPKKfyncAvd0WH7DCedfywPJJCBjVjTelRjlmKjGKfCH7_cvak-DdAvfY_dN99wZ_aX0D6DcYEUfF34113ykZpPqXDzbgtSqWH4W7c9E-2A
+      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcJICw0LRg_iKfIbOnO67oSYudC5yFAUXHYRd6mvyGjp48gIjeWsyzcavSMTBexWWuBLm_xtgJVqhuE2EkxrpUT9kyPTrPZuv-2-jTosK9cioINpaiFpibwq_E4eqY-jBabb1Hs0_Jo_Xa75c0FWYWZpdYVHZkOEc2mpXZKK4Fu0BynQp55DYbwfT5BArpxCJUtbiflhP70mPf5rIvVzeUBH8-8SdzDif6sO2bl0c_FEn7EDgdWSr87_mvvoEmC8GWfTmBxxPcmq3Er4FI-rOOr6FfiV2l4BBClvT4JKWfuC6g
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM06O1eUvtJk20a9DEHm2nWhpyJtjQFluMX9tRs!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
   - name: >-
-      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcJ3rv1xPdErqHodd-TMVLGl110iHgDV4NckpOSwWrVOm7pQxnzGP2gAl5t6SWAMgQutYGdkKynUxONGlCpnjNieEn6wMgIziRxJkBez6R8G3WLNwAyW_s-4RYJotKzHCOcRZskUP1-kRU40l49XsHPPDD20YSnkvhVPhNvdzINo56JCHm2TnMHWDl7gv4Zh-LRKinkVnI2lkCO9g8m_56IZDGskKk93XJro6sY339Pe--vSNX1Pt4YFmKdA3eEDfPS4vb7aUDZ5uciwEiegmWoQM7A2x-ygmS0CHWcmCSKaIg
+      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcLbtikr66dv8EoplWMOl2FD1jGQp4RsTJtsYj0mw6unb30U8oJ9V-6Qczm8-jEZOGBYk5qYu5STTHwde9oZDvkHzloEeOXaAPLI3NXswSHzOSL8JqdC7YR9MWrjXGfRf7QyvKGR0vZJXjKBx_jUfq83rMBWn3Y5Qs7gb0j485H0KZaFmXPBrYPclZKOKUEm4EmSISHtYcy89uswDEalQYdoLk-ogT6HuFL6M_hsi13jGqcpGHESB5vrxHnnZBambKj-6SJp0eUPtjLhEWN7u0OD4-68dGTxDYyorE_YPlIXHQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -65,33 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO9acU-1KFS3vDK83NFiDNQKnw6sGUFBfx21ves!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
   - name: >-
-      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcLP06JJMZ8qMKlWtHPmWZvHP8MF8ZCxZvKPvUhODFOPqrRmOvGIewKdPkaxk-dpki4STPW8m3oNFL6Y8fMBLny8dSdtvM6dqRLVZb8jZqum3KwpzAxWmV_Bk2UMtF-o1_4Lwioq8lHksbTzv-GUsFlvD_GgRAy8XDNWQH6ZfCn67Yhg4sKvWq6KDfe4DOmv1_8voz8TjZmof0_0T5NHKcyeXMI4HZe_GVKwzvzSLM1UKPpFGCLun9T30h4D3m5u_mKXqxoEOywGTGjRZvkrB4btFfWugo-K5EXG2xgFBCm6dA
-    widthPx: 1024
-    heightPx: 576
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - Hyacinth
-        uri: https://maps.google.com/maps/contrib/116474513234322040963
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8L8uEFOwFnYMK15HoXH03Z4X7njYaQkyEw4Za1pBZufJvHoDc=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMhoVjN-CKhO6DZ3WXsB9y6FUbFjxbcyoz3cWrM&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMhoVjN-CKhO6DZ3WXsB9y6FUbFjxbcyoz3cWrM!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
-  - name: >-
-      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcK311kw55TU0Zha2WbZOJLFRoP3MNnC4KbA4hq3eCDJ8qJv_xgBKKyi2kgfp2mKmPpI6BOGe0DBZUS3Zc_R5WeGzFwRqHlj7p3Fc52ECKzPxvjCI-NRJY0Cl_eLvqUh9YE-GqZJ9wDsnZlSfiqJgTK2IPSpetThxHk6zX0njruoERZKYaBsyrJXEgs55tXG8J8gygN8Re0m_4k4cn04sdfb4VczPlumFprFUb8k_TWBztD5zPLqilgPM9iTxb4mjlgyLuwsIoAt4h8w6HzRIJaStxxHARwQ3xFzs1SZCjBb6A
-    widthPx: 1024
-    heightPx: 576
-    authorAttributions:
-      - displayName: Momiji Sushi Restaurant - Hyacinth
-        uri: https://maps.google.com/maps/contrib/116474513234322040963
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8L8uEFOwFnYMK15HoXH03Z4X7njYaQkyEw4Za1pBZufJvHoDc=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMEtsZXnL1T-RMjxPCnJNetX-oM9HX6jua_tsOO&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMEtsZXnL1T-RMjxPCnJNetX-oM9HX6jua_tsOO!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
-  - name: >-
-      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcKcuoITtZ0_NFAtbMRuiCz_bYz5x3Py34DK8Pt0m_p3aSBOXX6GgyPpv_ZEEASjmYtkaGLuvTmr7Svjkge74Uc0BkxF5JdhKoGv1x2h6C74X2AeQ-wCoXZln_eD2yv0hE34WgJ8bPEQ68UYjsOfYLoaLPnO1mU27s4e9GMfibeUgktglE9T61vyPnINz8ctI1v2UxVB7iudBc7yThwO1Zw2lZVhE-O_-D2AQKeH3TSd_RVn54PhX-ldQFHPAiOYjaPKjCu2Yq0miQGQF7iHHzAd-mpwwuGZmaAMTnvlhOihyA
+      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcLVCHIEdNLXYg10sY9mo-J_pA3D4f2CriVI14ZlqscpzrNGL9H31GDpUsshHO9RmGSqAI0CY7hAuByrPoH8Rl7DhBEyikLCgFv207DwdJjVOlrkM_Js9Cw2fcA32KX_dUbKkcQP7Bvs56k8do40i2TOo9_xkQxq-fgNlKtEwQZIezWP_LI3a50jlFM343ov86O6fH4q3TI_F6QlP62Ufc--_8mV6PDa3LE_V-dErs5JaTtCUU7rW4eldWmcjf5uqESZVVFfN3quEdVVeREY3Yk_6bW_ZXfmcS1-Fd0n4sEYUA
     widthPx: 1000
     heightPx: 1000
     authorAttributions:
@@ -104,7 +78,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNmVvAamOu7CdRnzf9-yiZMKhJdxu2Xc5ffpOC5!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
   - name: >-
-      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcI1CHopDmSTxYVKltPccIqvbrulzujFi29q7xVLbblLhGHDSrOaYUlJxqx5hg8koZo3r-V3iEUvZRDhRA9RcJdUZNOJ_TNvcgkyV7dGKsXWVOO_qaOHar_ZnsyEMgETra_ruCV0EtJUp1uM3EDYt6HJCQ-K8PzPT5oWGZb2IvYq7pREdL3XqykD9NSJ4LpRGLnzT6aRW2hrYLDMDktxF-5vwA-OIvn5JhMXvJGxI8y4hwlNuzbqFLUiicgDaZFhoG8eX30qoH8Np4l_VgIX2MF8lZG0SrVWLn844frFrwHjUA
+      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcIOLH0fqfzxJLXY3NyyZn7rGsFtBKZV_TBTvlOMKYlvETc-RKxOzbnOevqSvapHsJ4VpJ-GZyEbIe39eRWkpGCpHcG3wFQrHVU0qeJi8AdQs27zTU0K_7dvDGCluo5ePrV98oI06J7AS_Xk1VNpPc2-OWs3GpMwucmu_lxkXgNo8R9j_wFpSv4k35yqlhL3CN2K1Nwx47V9Co582ClHISab4R_fT7m27u-pQDUiY2L6D4JLOlHtmUAjBcM-YYfmtNH9dYSWRPeLwzjHfFOvVkipWAgCX-rxmdQwrqCoM-Igsg
+    widthPx: 1024
+    heightPx: 576
+    authorAttributions:
+      - displayName: Momiji Sushi Restaurant - Hyacinth
+        uri: https://maps.google.com/maps/contrib/116474513234322040963
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV8L8uEFOwFnYMK15HoXH03Z4X7njYaQkyEw4Za1pBZufJvHoDc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMEtsZXnL1T-RMjxPCnJNetX-oM9HX6jua_tsOO&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMEtsZXnL1T-RMjxPCnJNetX-oM9HX6jua_tsOO!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
+  - name: >-
+      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcKrjeK2GUJ-6PiV_ZcRnia_29OqC4mTnQ2OBJ-lvXBZIcEtPMhzkRhlmf2X_SzHiXP-CEh5E70Gs33LgPTHzBAak9etyELy4abpZ36N2xRslUMRnRolc9rm--JvETGbPfQ1Uv7Jz2YCz69TB1i-goyzZc9oNxCxoVXlV-MUmtOecC0jL94ZDTaDT7yOwo4uPMe_J9Jb4xbD0O7BfuN5IFsxPv4rGMkDIEUCToub8FEizovNH0knr2ELju6NOpt_-nJCu72hIb3gF4ZoGDNJ8WaxzK6PtyBPfdDMNnKeqQHpcg
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -117,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOT78MyBp6QJv5dZzA8Puz3z_ITpTONNcvW42F-!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
   - name: >-
-      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcK0DyajnLQpIBQUcwIWaWyjPtQabIslFCIy9sAW5CTsQ6hAvQwnBkoYJrfqvd_QYEkqNfHzGKvE_ogq56rMLjjs5fMa6xnCVlHNoJxobU6RqMUeKWmmm95Gf2NsE9pteia1UUk-AMrnfTW0sG26n-v1jVM3GwSpgJwGs9T5Zol29PEN6gRIAQQZkoD7XvTfif7a8YpFIBM7cfARR6i2Y28-v8RB72Tbu8-4NVhgpDsSgd0AoTXkCoGqs0oUrzZcIKkSzRSoLnbSfwFmByTLKmJxMt7yapQCKHVeRHUUd31HyA
+      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcIbwM6Km8YKWmsTk9xNhvvsJvnB7k-kuZD45jZcofohPHkSjE02OR4G5qJb7MxUAZj-3hmDRaTwiGec7p9vbO_DqjLgeXVjNHPMf1PKcVcYA2hPxv-PL4kDb7IGRdyl8ptuKTlgk4IFw015qxdn2SsSDBKgalmIIrTqrZzFkFs2avjgJVoc-ECAKZY04yfOT9TyQpf8DowYsv_eQxUgOGeNj8Easmxqn5xXi-SF6E3O59rmFu6LNmaEkV8q_GS2mUBx3A_5jlVZ5hPxUqlx8Im5Hl8_I8UmikEdn2oTP7Jn-g
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -126,11 +113,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjV8L8uEFOwFnYMK15HoXH03Z4X7njYaQkyEw4Za1pBZufJvHoDc=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN9qNPiHSjMmHLCp9OLblAuJ_Xgel40jlfL0UGB&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNHArb8xWlqL1J291UAEpYaJ76V1WBM37Vo1Dkd&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN9qNPiHSjMmHLCp9OLblAuJ_Xgel40jlfL0UGB!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNHArb8xWlqL1J291UAEpYaJ76V1WBM37Vo1Dkd!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
   - name: >-
-      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcK0tm-lgq0o3eTzeIMkR2ar5QG5-aGRkrKcO4n4iQYP6nXSmnkiNqvnzvi_kLgl6_Uin-uZ8s_okI6gPxwlD9ejJMEmsEBr5H-Ks2w7k1ibSjYoyp5qSzN3myiRpLr2a3PTLLwIrX7ygo1LO5ZdbquFHsIEDa5lLBIEFnmDDeR2v322mmjzXqQ24il8jIA1Yni7v0P4kcd1BOTwavaXjQ16bPKGh4npHQa68MqQagduAgU7Mi4GcQNtzZkVItROtz1VHDLNR27br4w86HcHyeGH9Dv7oplduCm4SYA5TrSyuA
+      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcLmOiuFgbzlTJUOH_jIE-5XEr3ftbZ8OMZOG62u_R06E-DEolM5s__RCMeBGi_IlxMXeCNcjOc33gp8A1HRp9YT3ygHML_ILhTiVVM2eUC3bOr4CFV-bifDoS63W3JVCbrHhzbySv_SduWqtM8xMH6R2dzhIIGdYyjJXiATAn9rfhk8YtvzVFyTGbM6Z-tEctFpN3unSg6MjLgfyYwqg8Fvlto6MY8XeE03a-bqYBzPu7CMferK8zsdjqdAFFso1V3DGM3U_0ENnxos9ivgc4_GViHBypdhWCBrndVALNjvPg
     widthPx: 1024
     heightPx: 576
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOZ7DHoTiVNnH8KXASe0vcYORkStwRw8pEpKxty&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOZ7DHoTiVNnH8KXASe0vcYORkStwRw8pEpKxty!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
+  - name: >-
+      places/ChIJa_QBU7b_v1QR3wX8EuRNiJI/photos/AeeoHcLMv8wtU0eS4UwzPa9mv4sIQjyjSAGhnDTV7XtQ_DJV9Yk-tKkLBFKpJjZOMmQ23Nlbob24LlodWXR0tC4tlOvX6B5IAMwxAdifLXkctYqZMMcqdMZRlZ1UoUN8v24lZ2TZ732gdxVOtMcrZHc48ZV4S2Ne6GzuSau7bQrbpyaBIDpHQ4j5_b6UXxSqIgY7_-hVqwW1dCSsSba6B7SK_BGoI_iwVR380Wood3Il5-fx9gcPHRUcS00jPdk52CHQBLBg3XP94hGOxwaRLzQ3hT50rcTC9xq6knyrf0seGvxiUrwrru6nsi1hfkQ30X8eHo544H5ARdwxmePGkKHHk1z7kUBPk2jKoUKzscBOwZgysKtxz9InPwnUGB7Akug7kKjYtoqxkJgxvhuB0fuEb6l-yX0oG1oXmnw20V9DAx86Jebc
+    widthPx: 4000
+    heightPx: 2252
+    authorAttributions:
+      - displayName: Robert Johnson
+        uri: https://maps.google.com/maps/contrib/103419765238047446330
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUjNb0zKaqYQpksiweHaSDGZ0cFUyL5i6XNanR4H0Un3pK0ThA4=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC12pSv6wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC12pSv6wE!2e10!4m2!3m1!1s0x54bfffb65301f46b:0x92884de412fc05df
 address: 2195 Hyacinth St NE, Salem, OR 97301, USA
 street: 2195 Hyacinth St NE
 city: Salem
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

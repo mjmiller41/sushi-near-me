@@ -13,7 +13,7 @@ description: "Sushi Heights serves delicious sushi in New York, New York. Try fr
 place_id: ChIJZ01zHgD1wokRgg58n7n6r7E
 photos:
   - name: >-
-      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcIKb9UCpxDc9lLWKeHgAxH5K3bG0oW8UlnfinIw-VIOQOEx1H2SsALCnZtcAkhmT92yMD9wGHIFQ8Q5EUzNpPZg-MLC3GrxHKqpn1ORekOwa6bCNdIcsWtNQN4s2mCrARcJ0Rt2DErVdwEVyi82mayQCb5tnlp6p4-83PfHTXH85HyQgs7bKyPpgzy9_GcpUghIBuMqI9SvzMilxzWt3blD-SLLDWS8jG4-w_ItB7Yi8auWBCMuJri8TQqZG7yW0sGW4AZV3oRLRZaAL8QD6OfY_gJh00QccjuICdn_KHGXoA
+      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcJlWkdUO77luBgmgAjn-bYUtfzP2DY_VJIJaQdpaNDu09CgcaxQWc8bDdx08_oU2xjpJdinMYxLqW5MBuQTyjBiX416XMpG4WFN15-raLvOsVjQFin7IhlxGS4NR8wguTaPmrhx3lj8c3d_L-2J_a6Gji9lBhKAgL0vW6RxXRxsMU1-FPiARABIuSGe5agOSm46JMw8MGqBBILwzhcjQ8Y5poy-XQEZG_FsPUoO5e8OmHp2Cz686CUtOVaPSch4YXs-L1qAumgT1fexueFVXh_IimTF1shPsbB7hEuZKNtZKw
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNSejp_PatZP2nDXjurcrAQDsrg9CVewU14K_Yu!2e10!4m2!3m1!1s0x89c2f5001e734d67:0xb1affab99f7c0e82
   - name: >-
-      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcL6qVjKeOes8LMfo16CUD6gr_80IjZd2C3xYY-HXG50Rkcxd1T1pSuPTyrFXynAVPR2jn19lpeyw_m_4qA6TxANv1CiuInDB-zzMCuK-_uyvX9XMvsycnMF010qD9X0QKyrmXV2_xAJ40FqQowrmQ6YMMaCo3yZg7pQGuw6NjSEX9otS-bqPZMnxG05dmrhb4_92OLLgzcaqFsQQI1xKnzoKsdtM5rV2ig0DYEAQiLqotyk1ZEIQXs3LwHOLNzmCiJtX9lIq17jqCPlOG4Njsd5In2ntlDNWdphsWKE3_Kkag
+      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcL965GFNPRCQn7U063SmQ6qu7DMytIJejI34BxQXAbax38NSx2rtOzQlUYMzKbUKsIIYTlhE6uTCee-ax60sup2E_5-WPfJtRVCbqs9s4yNa6rSMPWSm2PPmk6VCtmEzss8kxHo_BwZ-79sP31Gjh32v24YoyZus9HM3NAs8TR0Id33q0fHR6r7TSdGSg5iO6uwbvd7JMncKJ_V8Uu_RU9gN3HxYw5bCyJuQlKEPN8roLSa0DF0IAcGtC50Cz-nPnGDYbCq6G5VFDNmx9qCE9nM7yjp0EPquOx72rsi1b7CSw
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP1U5PqJIWgC4J2Z8cGw8-ivYt-EvXgO2uy5mzR!2e10!4m2!3m1!1s0x89c2f5001e734d67:0xb1affab99f7c0e82
   - name: >-
-      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcIghqv6ja65LUb7e8wsWX2XQmSy6R4A9AylhTRIXF2ICJFHKO0R1BUt_b84pwPgvLjnTlISlLfsFTUKC0bZuZuSXA6OzlC3XH96de2INg3LFXBAkNiIVlMpbyToyhRWRWPXB62hXZChKsqh8GSe6cXuLJRu5fF5xObrYkC256_2lNaIyFr_VrjkQF9iED_UAapiAfwX4aVdaXcp2SsWPDbYjHcNRfP9Y5uLnr4ppVX9EsjQGaa0Nw-M4jkn_jJBRkscBDdQHuUo55Nhkpe0qL19jWnJAco4GzFFq1AJ_82gFQ
+      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcKK3MS2Lk9uv9AdQ9Kzz-XoIistJMpyYK0DMV6buZFwjGlfrTNfZL7vKxK311W1ieRPw35y_OgyrTtE5W-BKJo_QrOtSdpwN9Gvh2fIn7kHUFcdGnUwh-gioaSbEVr20IcWU1JwOVa_O73OAZAZHxn9JeW-pzwQH5igpnntnl4p3q9OcIVvwy8y1mSWEMNa6m3up0Be4c9tyvgwG9pwoMW-JplzB0ZBWK-K1TMyvE2WSTdR_kLONTkPnfLUD9T6-XJsfygICwb84o9RPTebySXMbzxzpGalfpVPU4eYdAXaFw
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO6E72q-Qu0UqiNB-tMDfQvyv10aCly9NQYopWQ!2e10!4m2!3m1!1s0x89c2f5001e734d67:0xb1affab99f7c0e82
   - name: >-
-      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcL91ZxWwmXxVHBxWRkB-5R5JGPswKs5p3tTpkFXmpTwNjnN0jHH2eou37vXARqdALvG_v0J015M_gC7yNN3Ue00vCM5Pw2zKewSBWWPsGFuYvplfnKl-8VFATtQ898YTvd-LNOV-2u9e-HHdmcN9lUYKLnhKxgQc6cBfbBVTV3u_TZ3-e6_ZiHDWr3XUBTKP0NXse0J8xmnTUg7PF2ibqPkotDsKy9a7-BvHbQyzK5mD3nGNEd28532IKQe8bSWqCuXRUnRbCTcti5USi_SjaZqucPpfN18kOvOUuw7Lt2mc_VRASHr78yMqHrv9fDwkf4SaYviren40Rdt5RekI2HW6yq3bFdttz3f-c0uQ9j8R2ILLbNdFQmkc7FPCymT9-vBBVmqi6AOvNlF7oUviWJhUibGNT5GECxJE8t6Ynx4_A
+      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcK7dSTTAQ-5YfSTSd9ajyTvs7zxsk6cGIPmGCmW-16b1-NG8NEsSdqEd-dNWf6RGjhWjRM1H1I73pbQ-viqDEiXwp_xJkt1lnJPtBd9moa8TQ58G-LYX-oFHKza3rnZ_oWVRwYeCiupWIN3lk_AOyBZoat7f8VlqjP37R3QchcNby3FLLj4t3p70f9vjP9uUPuLweyeb0-uUdQPmI1Mxd1X1Ie6RUDM9j7y3f3Z0nsFNbHJEmr_B3rWmnduB8wvaVjv8F1NwOFgsQj7cl09HYaVv63OP3Q9TUkYAgvsk10JjZ4fmyD5obeJaJ-CEiOjN9NhGZIAK_5JnZpDtk1S4-NEak1aw4B0X_ghu3mNB4Hv7zMi8ycKjWu5JZCj6oiFMBN_EgyYB1vgNMgyYGSJtHX9VHO9Xn2EXACDIfpKzTt6Cw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHwcvqFQ!2e10!4m2!3m1!1s0x89c2f5001e734d67:0xb1affab99f7c0e82
   - name: >-
-      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcLGMcUux4GQNaOt9yLSXddcYTvoDiefcspeRa0wO_rZOo25kKiDnAanfInAfNXBFmj4aCghaPW58Y-k7JGIg8gvXVXC_WfWhA-_Lj2t73DvB07eES8DUu77tmwJDDRCYAF0l-8wGqb0jk2ucb22hXe-djgnnAorFUkO1byhi7y7JhyBnVgKqEbj5YiLUaZHgIGrhrDke5-Ubk8yWlvvbirtGFOjL6z4F2tDRZ14GtiX9M0-EGXAXaXyPEKPzxg0cNI88Y2zHQKnFoHUrN_GY3odTAGHDCBCZsSWIdB94g2uIA
+      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcIvoHr3Od3NT7rwPF5jruQkBq4SSUE0z_2vt7h_ZT7BvVg40vOsS-VhmahEBlQRfSzKxnGSHgu3eK3-cY6Av-C9SRymFoPXcRUmxQpgi6XTdzO6q2azpJ_hDNGqrlQ9cRVZgUn66dRwiJHjV5ZJxJog2FD_dNuvC_gcR8NBqzJINOWzxCm5xxYqatfX87Dyg1NWi6cZKDdKAVaq8yWqEWlR5yVrW-kTyKtyjRvfGk5EyjyqyVTHzmNy-nSnRh5Q0p3DsENg9PcznS11_QzRuVRvgUYIVytvUqNL9BTPagHEQQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN9Nnt7AUMFpgcsVzGHw1BOuL64GTpBtI8BawP6!2e10!4m2!3m1!1s0x89c2f5001e734d67:0xb1affab99f7c0e82
   - name: >-
-      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcKl__SeqBpLDIbjMdIEQamvXG9QljvkmTg1rf924kQbVgw1oZXRXfqzW320gTJfz92C51km-K7ZoN8WaaAu0d83xabnx8dBOr9LUD1XyU-2Yubh1RKfQmHXTfVUZrHh7CcaSZ5o_f8xAUZ4hNTsIURlZnGXxuHp4qo-DO6dKjBek5MZ_BRfJNp71V_6d4px15I-V4gv9eEkiB1mPmTcz8vFGipCLdsGmALEKERbTJM4JuJ9UmXWykcVVxHJek_FxrGxE2QuWLBqxuRchZ-Bfh9gDMHAyxfaNp5b4MyJzMKYKA
+      places/ChIJZ01zHgD1wokRgg58n7n6r7E/photos/AeeoHcIadBPEL799uN7MG5MEmLnYi1gO4puGgR9dvNGiLpEriunWEzo2UYHiWCGKic40FXOD6S9XMxmKckyOFGqnT-G9C74GdekmNYqLyyQebMMhoSG076QO2NZETYSSU2QnxUz_q8OkGzWnCxinQXA9kPbiXFX95QTObRq7SQ2WQnuc29xZVH8fgfPrChYQVx2PqYPbtolRMzrIL-_-LP4GMuTONiEq4w5aTEyn_4IFdO8JYu4AXjeObpPq3slBPCkuaM5qk909jRC5OioWuYq7Kw_dtzeeVK3BslPirtlxfpzglQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -155,6 +155,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

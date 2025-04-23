@@ -13,7 +13,7 @@ description: "Sushi Garage Cocowalk serves delicious sushi in Coconut Grove, Flo
 place_id: ChIJJ9VWp6e32YgRVABD8eBz9p0
 photos:
   - name: >-
-      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcLmlBoHrJSmJ7-jjDD6kmeC-5fk7EVKxWLYpfvQpLRCZVKaZuHavq6X0qSsZWOsIDZE9MNfnmVjaTYP_qutVYOSk9kMUXaZ53J_Rd9SJP7SNqE208kVew7xxeSJWjaTN6Y7Clg4scTqar97P--Bjn2axOhUbf1MZ3rTMNnuSmIXeedd17io1K6Vpd_p02yR8NMy3ciXG-OGoV8vqrSk880p6Kt0Z-zuyfMPhS2wz4-O7wNaHFqOpOP664TMG9mFGYo6cCn0KTy7_6rPDRygb-p6LqSMhvaiMNdnVN9-DxjLsg
+      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcK2Fo9DRoeMJywlTtTWqjxAKlUgL4ozY0L7jPCxRpmUwrj8f3DUSfeK8KTeWJSnSaf3PzRiRvP0saYmFYpNLF-_usE5h_c5Ed0bx6aep62_p6RRPQpr3SIJz-V34vIkkBB1moM6T_YRNcB7ThNyjb6VZZYcMDmckgpYZk_5-M0DicetQby8oC0aGZ0q-DBZAGYpICPmIRtnIfJ6mv_kMt5ZpowtbdRGat0pERt_C-3T8q53U8kO-iB1uasmz_V3K3fGtbrLZvja9wQTIqq8Se6m-NuMVCERj_az7HIQ8Pp4dw
     widthPx: 900
     heightPx: 600
     authorAttributions:
@@ -26,20 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMnzVrHh1zpZlT2froV-tCn3gcRkPfoIj-l6-SJ!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
   - name: >-
-      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcKPm46waC2A3kYXQYho8R1NWOF2YcbluWWnERYr1LwS1yaOBl4Qu70grshWWPkY5WXUcqoIDXvEA7UZ92OM__p_v_CEORFfHmSSwVxxU8eBLJdVsqGMCf-adRbMrSBT85Q_CMQdY6Duy5mjjK-g1jh5Cowc2F-LTf2K19A_2MElXnCyhxdB9blbBs01LYmco_aTCvl7uDADYyBV8FQFTtPaNGGY6aaM4D0kDkQ8U4FZMALqCkSHxnkm7Fr5Dd3RUUNS9q8iXxxO8ffIlUeTEgjBa7CtBEXimZTza227sW9WfA
-    widthPx: 3094
-    heightPx: 2064
+      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcLqrZL7jV50_izDwNQd76Dqq-HOejgaM6QH8ur6G28s2eV29gT6f5gUaJC1X41gv4Y8D5PHHGVIrRFtnIxk4ScSopdxnpPiJIug3EEKoyWmh-rnlTCdpJNc0nVv8dMJU4gFeuwO2T9KtH5o5kFIN3fEWR8Ozujtx-WG0IPRRDpg9jymI0OKCp4auwoBFOBEt4W1Of2Db9lKwCQRIfsCEQtNaczCpdXq-FLnIA0ratOQsw-29MViYAYDb_uYz80YZEs7qMo4HcFPriosEKVQ5aMEhRl6y4rljiqi6O3V-mbORQ
+    widthPx: 4800
+    heightPx: 3236
     authorAttributions:
       - displayName: Sushi Garage Cocowalk
         uri: https://maps.google.com/maps/contrib/107894002535068650653
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUSj7GS5WDt3Wd_NxbYXBKr4QjVPIlouWJFZTU6RO1PGrNG84Q=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPklVItGGIB5xpTTCaL09zUWbnWW74sl3T3cxXE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLuOtgxCHlfIDAdgB2wZN-49wF4cjBUYiBxI8W&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPklVItGGIB5xpTTCaL09zUWbnWW74sl3T3cxXE!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLuOtgxCHlfIDAdgB2wZN-49wF4cjBUYiBxI8W!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
   - name: >-
-      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcJQbGavBunXzg4awdfrKBgT9bnqeqTTtm2wYzWdFY3_ycbGBUn2eV9HCnej3M8HcvM9sQCWmwSid1kTEAVMCx3aLjS0pFlL0xOA3BZ5x5TUQUOTeb9nqxaa1nj4c-xMIbhIjxPpp_L4w4wyII8gWBGXmg0LO7iNRJsAGbjjJJHid10YlSHvANhGAjhsRhgpH_7UMAqufiRb7cryI0nsB-6G1PUGMmevT8qrdrUCHiFNFpq_sgAGMKvMSO1w1Os_t76P4aTaOGuvKaA6q0cDtZz6fvGiUjlEubYDm1tMZaEZLA
+      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcKSyLmfHSzBTjGay_rRL97ENSTeQ7yBLezdQO5rS6iNMR12BcaprhYjcdsDnyTLQT-QxdnidPDWyH0_YNx8fekPmsGLRHQlbfU7PHUWoY7MRKXAqfLz0F-GWYLJJhNdrBfNx9UAWOXA4wLOcPpzu93FG61TjALimDa_2N8GCXfxgjC_01QAGTG85hgxn31h0NKyMQv5SYrcSnR9khoA13XMmrBRYvPxV_Cip8g_QgazuQ2QvVWkkEwOCqRdggckoeIF7QuDAUrfe0ncwdntF3Y_rYBpF48w1MF5cskGv-3rfQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipObhjX-ifRpO35X1Qidjc6hk2D8IUFjA--7alEK!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
   - name: >-
-      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcJmOvTuWrN84kfXr-smBPD-H9Gp2kd6lJUOxGohDommQKR5cgsh2cYopvh4GVMDAcDp6H571CNpHwfpJD2mwNBN1EI-xPFL4BA2vOMltcWqF0fB7FveJtLLteSep5GAnQY_M-KpE9QdeipORvM05W6CNUv8It_VNcsdTYor-Kt577PVderJwTOuaTfObgMGaQUyuChsGAuGz9ntWN3Ve7ptWPcZS6mm2PC2-GbE3yx4syLPRdRuGXry0sy9X2zitX6S2sQUd3qGFBXpW3fOT0_vOXZL_282Qs7fkPOCQls1hw
+      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcJR4VXiN6SCDcxlg7zFHb2mGZPfTzcPL49kxc_B-tFPwOQUR3iJe1gZrEpKo0vCwgxxHKJOQHtxrQdPZh6ZgwaAy3UIvJ5recoA-ZHKUYdkc3qx3rniEkuWolezssjJ41k_L3MCLYGeQvpAo7ryYjgiLsLCffIT_ys5B5uugyd8cl7x_hCob0-jSgMEf9BbcRUF70qBbMKfJjGmSBcxl4k5nKAI9DxYWYvoApELLNOWJ1qB5O2o-L8rAixJfDDUm-2EOPksDdf5sAjsJGAvDywBPA7nWNbc5TZkPufL7lToLw
     widthPx: 4800
     heightPx: 3167
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM1G8uj7DNP1fuwzNiXPp7cpnsxKm6WnFox6UQN!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
   - name: >-
-      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcKwMshEF0JyNRiifHhSXIDzVPVZK53FfnjnP2QZsqp_r5LOr5GNe7j9TeIfWkcD7Nm_i8Qk-CPpoJheNvU_7kyjLtYX_5o_HBkxCRBKZp48AqyFOBJ-BIJJKvBlevGsnW5AOI5xAHIJ1CfaOYwmT-HMLTJxiHcKgrUxl-T-ASY2GRGP9scnhElAwz4F9n-N4cBCcX5HtnE6n7Il4XNYXOf6gO4_mLzvYgv6sdZKQf1RPH_5xQqd_WB1iM_9C3YNorUa0qmUCgXifeY0t6UwVvSOIQs9g4G7rUFY0VpwrqErWT8I--5zSn4kZ3XZK1gU5Irs92Z4DtqdWRWTORJfTHJY7p04vdQXdYUfLkMbhygcwSgtz2yZ9okt7fmWQbQlBTEHyZ2WYaW3X0GA-NK8IWwkRPschZrt7lK4sDO8ajpM9g
+      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcJ973YNNIzpitLaTXlUtZOp2sPWoLyl321AY9LK1bKZOASd-o9KDg0NtQDVfem8oF3sA5y-ux4mPplgwBj6o37hyk5b8iWpP7-pDP5Tb1GDU6WViTS0zSFAomVKRz4ALLlM0UOhQfKwDYmT7ngXIwEn-GGgg2lV6dkpiAnmRiFXFD_YATMlR_2JZt6IEw0EBEDHckN_f8bDU4j8QgXBAWWrSycQboluZOCE-0MI5YfLXwVhM8QyxOjVsOcPhOZTF6oXCgD8SVIYQmW1OZm4Z5Xz7q3KkELS5ZeQrjuOtNFhLZt29no9XBncpm3qGLU2sCEfeIML2vnpAMuEkKdKEJY7nmiG5sRQ20qKMhzTMnFVj89zoP4P7o_-iKmTJOnempVxw4OVgZr2o7Q2MQjl9-s-MyAhOf9m7JKgY-JJqsPSjg
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICd5JeHaA!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
   - name: >-
-      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcL9i2sovTxAjuxG-hbGtd5KhkvcJ9Cpn1xE23FJdBIn-zbtsyn1XPYcXqH3X96b9D7MClh6SPKcZkI3Gwpal7_jxkllAEOpf_98VPdo7KDuR8WUAkE-6_XG02RMyeaxwJ-IF7lKSLaWJSi2IYhIHfqadewJNq1RUwngHIwyatmGEQTAbSE_DPk3rw4lzq5es5dPwh2c_HhtNwXzzd9l2SirQovpMN0qfKOHcm7PjlomUNDyVE1FWvkm3HHtSutDI2IJvwOCJ5kUza3Hio8147j5MUrX4ox4kJP_49Qu0r7kPA
+      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcKpIRKHeifAT6jIHYfUa-DXNPaQRY9Cw2ytLqTNM7vISxXkOXe73C49eJXs1TmQqZf8LVIdiX1P_2CNXfuVnhpjOXeDWrwfK9mz4MTh2BOtmTsypWX9US0RPkJ9FLfr3ap1zHabyJAwidsvgHJabHydxwov-sAl8GqYdJ-02curi7WgqJ9PuVrgXY41lLtV2Bo8yhdGRjwmX6cl70kVeERFLuAzJTCqbCbTWk_LYRLzMM1ruIMOHFgKc4NMqELD9WVpr_mcckzkGrETGDrWOiBVMupCjGXA38UdY3-in2MRZw
     widthPx: 3959
     heightPx: 2640
     authorAttributions:
@@ -91,33 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNY4yXMTnbAGIC4jSaw2CEYLH1_FYKFIzTDPyyT!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
   - name: >-
-      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcLYrTfsoHDxYehk4F0yV_NK_Lh6qSKncap7yuWehRTGXUL8Ok8Eq80-W4gw2hHk3a1rNvcpZ4U9tqGjYY4v9IXsIPQzKW-EZsXTUumVy6i14VPQnVQeLLv_qSS2D16bWIPX5y3HGjA3kC5dwq1IGRHo6AkF0Z3L-BGnonb5Z5OfUi6T7XWcl1FwSm8E-G5J05k4Eph4uxTLfAFbceyEcI9olzOEMtiTx76Q1hLh6Vw0ehXwg3tL9MMNpZ_MlN6KsfrurdAe3GSLrSUux1utw6ICKK2X3Q6Q3vAgNNxj5gRZLg
-    widthPx: 4800
-    heightPx: 3203
-    authorAttributions:
-      - displayName: Sushi Garage Cocowalk
-        uri: https://maps.google.com/maps/contrib/107894002535068650653
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUSj7GS5WDt3Wd_NxbYXBKr4QjVPIlouWJFZTU6RO1PGrNG84Q=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPOZmD6rmp5ixqT3U66WF2-jtIg-qnwCM-T1e5O&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPOZmD6rmp5ixqT3U66WF2-jtIg-qnwCM-T1e5O!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
-  - name: >-
-      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcLkaODKh7yx9U79Fn0azF8MoBA9UH1pTNqtqa_e89zT0IlTwe80hD4HbD-PrbS9r_E2FUWFN0FhJrKwyzz5OhW4UWrgucnAnjqC8jxZ7w7mQmZQScxbrjGyoD-s6qXs_S5s-4nZz8aZRHEc-OSMTAmbWXFpBTm0kvGhE2FL-TP2oNHjA1E1IwnOd0xUi_1X395m3CYdzOK9k2VEStUvXcekSiijBZDd_ve9OQ3G0u3GaAKkMBcFwr6DM9ayCYSHbbesM1FRkdxO3YaY3KL0mDoilqTB89WDjIw9883zGkv1nurl5zmmoCSiUIZibCWbrKDW9rLK8zd9iQY73VEHmv073VEL4JxUDf3oIpwsJpQG0NZHn77AZSp9EeEdqMbwLy9A5rT83j5sf-JsWWcdLhCR2vGBoP7azOsijUyH5Uk
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Grace Bucholtz South Florida Realtor
-        uri: https://maps.google.com/maps/contrib/100911414130164038315
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWVu7B0qwx_C0EUGdGFZTvk-JG0XH8Sp2mgjljKyWRbwPYoih3k=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_wcDzDg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_wcDzDg!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
-  - name: >-
-      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcJuc5Qr6giEVQUzDAyaIg2rtTDSDQHEyJa-E1CCGWdWktpBQXiDCryEmclQRq2iUpgX6X5lrK1gosznJGIbGWZvLJz5ZQhbbLh0oTCdobpnxcu_qfaia6ADD1OSIaNl5fnoFQAde2Rg92WeGV7kDWUbag1vlvHgNsFYN6N54g2yM8T9es1lzd-_WBfT_aOeh9sRkFq6K1uoELFTMKYvT_m8SzHkJPlG0ZMZPDZscvY48lNK6hmwHMyIFILLWown7d-yNAmtP9-OnXqD6_Vhdz51Z2A6qXG9KbYMqvuQ_4rTYg
+      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcLEVX9YIOOieUZhWXI9Gu9_86HYFzTHfHfR01kdXfU5D3AEWjiRQphM8dJvecBW9loSfGHTHuz83nE4lEdxx4Oi6XjjOQG8fTY-XGtw6wvV9_djPzhILbgbhW6ymeubFRsEK_KiuAV8T2zxQgCSqans_T4D6D3CPMXdybjjO_04KZchMt0rfxQ4YV-KzBnzvWvuEu-sNp1JMeKdcekVCQP610xa1XVIOfwSBRbc9j2k7djUlfhzwYbMtJmuaknzWa06Ss42lCx0_7vt_O-Xv52Ke0T3RUOCRVnOlURRoCYYoA
     widthPx: 4800
     heightPx: 3236
     authorAttributions:
@@ -130,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNBkusf54I1Gx46JW_ro2UC8v9GhU_tIDc3KfU7!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
   - name: >-
-      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcICMSg7iLmG7cDlENwOHH1dAN9sNRJl8Z7JMJnpFd2yYw_TuAgdI3pSm6cy5SQezcyUqJb6TQMfmBpd3rIaf2YzxNJijXr_0Vb5fI_RVzp_u5rfOsrpF9XjF4Te97xuIuO53WrRQjIwj1Sw8nYDrhnlZA-jHUt15H5JZKlrYnVLBYUrlT_mOYyX2VOFsjeejHwO7YmO0TuU18LGkG94q5D0p1isGZW14HH3kNNnK_cCRPhgxbkFYOPsCtlJiGCCtQIDXM2a4HdXvNJjLnaoEWi345qyhuqvZEZaS8EhNmEcpAhi4q5wL4Y0vep_su9LWV9TRv47-aEKrIF9LN_rGX9a0kuABlrmT2zukjURXkIPVxJZUFzpiGQ8fE8Kl0m4lzsxHs1XQkPfFPOHAIj9Q_BUSDujOhJL9vWEgpxp13i9qQ
+      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcLZXzAp0ICqkuodcsNMtjqRbYl-YcOmZJWKmq-Qr-CXYgeME6UBflaHAIImtJX7xX9GtKvWyekNDlczXYJj5h7NdOzDBBf_d-K-MviZ4bYLQOB5Y1ClnqVExYQf5K3OjaEWElXOj7Targ4TUsgmhQaRuHSSVdWWOD9r6j-K7HD6JwA5B4EGS_KOqOCaFE0-plUNk0u-dXhjZ0Y4yiokW_MfJWwM8r-77XdEHuCmoLVIRfu8n0NC8adY3pKMwXI6ATzrvGSrj37B1XdOsjMlSCjcIKlXs5imbj_lmx6wYIjnN5PYiOIP0BaopddiYFWpov6khzmOlHUOKDWaDZLMETg10UPymvnlQfxyfJDNbVMF9o4xx8vpaWlv1T-gQbjC-u6eEA-acnjtM9QQnG4Qx8cEj5sUxhwj3JneUP3M-rDeJQ
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -142,6 +116,32 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQlICybQ&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQlICybQ!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
+  - name: >-
+      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcImINgyRXQwS-vgQ8zoycgbcCqRokGeR2NADh_uurnPgEianpmpA06ZfkT26zFCQoeMVySmsnM-LqTdpobxNP4yzYNj2GTCPcnneNL6pkL2o_m0MP1nKg-R3L2xrOumKkVxrY2PKNLmcD7u_6xMJMhmV0SSYLwJ9kIEdhNYEA9vnB-laHVaW41tKF7XoRRG_8asBCNh3-l8xJFaAd0ztlntbTJIHsHccXW52cmngqCo18P-aGzwyE5siqjEt8FtWWyEkOjVCbq7cWLep2XvOYjJfk3HrIYiqBBhRBYMFA_muw
+    widthPx: 4000
+    heightPx: 2670
+    authorAttributions:
+      - displayName: Sushi Garage Cocowalk
+        uri: https://maps.google.com/maps/contrib/107894002535068650653
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUSj7GS5WDt3Wd_NxbYXBKr4QjVPIlouWJFZTU6RO1PGrNG84Q=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO974bpecoKTPZ33S4-hhzf70fYlo5tSVZKCV2T&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO974bpecoKTPZ33S4-hhzf70fYlo5tSVZKCV2T!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
+  - name: >-
+      places/ChIJJ9VWp6e32YgRVABD8eBz9p0/photos/AeeoHcLP2c15k1CvqNKE88br1rtQl-2gjgfg25dxpDSKL1HuVCPwH7AN9SrGadYmRa0f1lnAOHRKSLEBHbEalSVn7LbFPcTaKHWYlS4MUHuoXFjwO00ArL5lHVCPa___LVmQljfHZYFcojS2q0pB0IWI5XwJUJ1ZZMrGC6i0qaQ2uzANhwkQTYHNzNLnA1afvAEEpF5W_DNykDs2MArujVc2Tmm-VFIo60lSLvvZmwsssiVMwVUQMvvmLQHFcINaJPxn28SfmmBLquHQYYJzn03G2zRTnYgVc39KHBPl5y5E3ePXVCwPisF4ayO2J9Xih6npK15brBSn4ZuCyl321qBfbaSEBGJt1fGCK7q4XOR-59tpfOZweiifO4d1kJ_bHP63k79dSPwTtS-wnuQnKIw-PtaOBsPvhmwT5esm073-HCTLx-Q
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Sandy Sarju
+        uri: https://maps.google.com/maps/contrib/100955218117809526630
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUoBRegD0j4ZqUo0lO0sfx7pNYz8yLcFZdKjVgZH4U3YKCViTuu=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDesOmC3gE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDesOmC3gE!2e10!4m2!3m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
 address: 3015 Grand Ave, Coconut Grove, FL 33133, USA
 street: 3015 Grand Ave
 city: Coconut Grove
@@ -183,7 +183,7 @@ phone: '+17869464222'
 price_level: null
 price_range: null
 rating: '4.6'
-rating_count: 1307
+rating_count: 0
 website: https://www.sushigarage.com/
 reviews:
   - name: >-
@@ -440,6 +440,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

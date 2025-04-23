@@ -13,7 +13,7 @@ description: "Nanami Sushi Bar & Grill serves delicious sushi in Austin, Texas. 
 place_id: ChIJzR-XJnFMW4YRXQD8BnDS6IA
 photos:
   - name: >-
-      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcLEYUkFRmjWMp5dp4mOssI_mJ0Vs2w5obx6XztbbA3fg_Xg-KKgZFtASWDdAg6r8Eluo1ZsnrCG-WAbnzSjSAGGsmo4v2unxdTd1ByQO-OtEIitss0TIWsDVrM0VG81kcpCL8RMlNds6S8JpNsvz58UEC2T0BTiEEquZKf8IvWMhyQ_QBAbkN4t210uSgCKt1-lBXPciu1KWRkWY_00XLUUKQPG808vOOcVpue0WkzUGU_TE8huA1sLP4lE9HyhUJS5nmnmA-atJsvMQUwNmXYxWJbyH0IDSGFwJP4F2V6atYeNyAO-iqI_BZaZ34sAW5Sp2N6yOQRdWlTxTNF08jrIZ8jbb0sVn9LMDdaUOxmfzryl3ZaXfmFbbGR_M02mOldhYoyxSFQV-CMnIzpTPwYYVAgnH4m5Bul8zb6gupG0Ew
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcL20_iwt3nLAyRJ47AudzOG2xeRSfJqFSSyI3Of0KTkhSlYMwwZ1fIQycL8hZEMy1XDEMS39WCULLuCjmqm5TbCSa9D11ByPrwDqtj4RbVchSTY7jkNZwirvNftcezwOyJjqDtUCa5Ay2Rp9tNv9nGZuVzRP3KNiKiR69oJET_wRtPxI394kKIcTh0pPyKzh0SYI-OoSbiD11X0-kD7k1W4Sc_A_cSEp4HecFmgWmNsC6gnK9lZCkgbdWgWefTLHTrs6aqQUJFX9jKBCOOvxErOYVXH1GnriI0tqtcBOFuwS1UJLhccOWQp71uO0YPGIBDkTNlNcN_yocklidP6F7RPVeE2vZ3CUuep4QZu57EEetGv1fCsPXW8GAyIuj3veq75Tq3tI3yCxlQEpTqJ7u6H-_49sC6T05s2K87mWIVJEQ
     widthPx: 3360
     heightPx: 1680
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEg93RaA!2e10!4m2!3m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
   - name: >-
-      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcL3ucHG79fyuPmpgzC_FDKK5a5PuQjtJARjHAMYQfIzwBaopojQXHca0rnXyEG-d2v9DdR2Ev2ywTI-iDLRQVjUuvI_n0VZKjl4DsQlgD-mvcVloXIBU-iSnT65hv-_MyXdf1Tm9GRtjwYbVDn_aCt6YR3PLtgZanepckHQM58JGnu1jKBD5nQDJ_5Em_ueTGDSPwWCrZraNmxTQp_SAHVJPjOzoKXXOvn5Kjspw1jMWSMZfEgctZgRNgjsau8NAKyO9g7lB1J0cIEd48f5PfmZJNPTdyTaAJKHwA2p4Uf-Xw
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcIYx3U9Mj4nggEGVxJAwFQaWLoqzMnhKsuzfT_xrcl5guVZsY64CsOtlmSq1Jo2BXqFaiYi2F_8sx2x9NUmGTo_xL2B4S_CujiiMRUhYk28HA0NjY3IvEq-QHai-i14_70ISsFWmedJTYvth04JUrtvak0OH2oB0NRw7I3IhKKlO-wstexVo0gENMvYi6MSbbsVEwytDEx41P7rlIPi2QZmgf-jR7S4azPgh4hINJaBjoY4z35GKDw-jFUGU9HSGxLTuyC-h1HqS_6yWf8eL_YjG8oj9Pq2b6PPTB8c45TZXg
     widthPx: 792
     heightPx: 800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNZRcixRZuwFxzbN_aS_koIzPcDgLzxMbL4CZbR!2e10!4m2!3m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
   - name: >-
-      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcI3u74gPpvNLN-zKkKFQqJ4J5pwUxjRbUEBLvQzVA5M4pKOALGBaTap9GVhdrhsDdR9zOVyDJCUao3cElkhSz3UEGEy6cvTzItOavAGURk_GgHtX-WhpgDYHJaif41oN0pD54aDeoO2StN20Gj9-6SuACk1ULdr8yNtnju2VLryUTOrXxxuv4qd4G92gZqgysRIsgxo8wVjm2ul74IA7IbRknl-EN32natlwStTmSLyFvW40xOMuTviU0-K7OTsMENZFiHouqyvaOUJR55eACw45C6iSLE_eLYzvulaEQzy-oo-jEmJWEpsmvtcds-1YIIPRbiohz7lQjFABMUvxQCospBo7NpgNQxilUskksDoih9F2D7-QJnj6iqpAetjOnUX4-_cfiAuXdfyUJnwJMH77xgMSYstI1LyCu5xs-aKmooI
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcKh-8kZtUxuGJ9W7tnBSIRjyCjD0o2P_XJWUmvOw602W3ZCCKGHan2HUNcURQyIR2UexOA5AQiq9I6NETRGKGMxnp_zoEpnqfAlwXfziVRJffbvpbIu0dXzlOeduupBaDw3iee1iqLrKtQ3oRZx9cOgtdRXP-Y5PzmoUeTelmxX2VGFE97lWkHSulP5naWjV9CODV4JBerjhchLsJHfpmxkGM5pE6ejQ6r8ru1Jo4w0kBG2eWa5QSGrz0M-S20ov3U3YaZyHJpTHTIWg3C_npEMP5H_T2wmcQOpAO4pbs8r1i_yAFmvDA5lXTZEbKGr-Hu_zI6xpOSU1DKlicAsTkJly55Z9Jpr__19_FTvPLvUVaurEhOu1Gwv1zNds1qSXqREp_3hiiDjsVzQ7w2G5T47sOGL7LvqDY-M5LS2s2TfQQbu
     widthPx: 1242
     heightPx: 2208
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwkJT8iQE!2e10!4m2!3m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
   - name: >-
-      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcJA1H2GjnU_20zJT-9gBP-HCfLwoFaCfANzlt85vN9qB3mxcyh8S2bc8iqQnwkypjV0Zvllj91VJFNKkRPpPCDAEA2YVpYoghtD70_5BMyZwhX0TMGPUTvIsTxQWsjnLu3dqby88jn156d7UJaSMp_Q-Uq4l3BF1mzB_KGuTCgRRBOT6f9o7ZrhoP4lVMhmCkgE92fmdisgA_-bhusqrhjLGmboJIuOWtuFQtmeRL8lDlbC1BEUuWN9yNEa1ErZ0vYVbf2stKGCqcRwhP34nFTIldAbWQa_GmU68W0EjUPhW2xGsKgOrXvouKSEXxCce5CNdrAyrrKpiFXcNdFmYGJ9Y9VuM2DsU9d92BrmoRs-xZVnHJQDwqmRJlQjDN6SGWeWKH7PWl_3xrp5hugR06JWo4cLhlgGUmNNEvKOswyCUA
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcKlsvnrrsgnaErV1ZrTREVITqJSN5qgV9OBN1vMp4WlLptnTwBbVvT2Xscj4Q9YVuiu8yjc_VqhNhOcg4pVdLTCu5xTZLpe5RZrHP9HL5xyT63RJgqxb5d0Es5SDPpQTeuwh9I4Fl7WZdxPMx7Ihm-5P2mDGzHuA6S4ZIdSI6kqAiyCXXIO0kRmrEf0uaYYV4BSq5zjwR5k8S7YnZBKX8jKx_9U2OITTui-0oAfhQNzwGlP6j1F2wlexw3ESmYx0FcSz2TNRHOJl_QitTSDXh7JIoom9b7076kpOkkJ0FjVxL02AOKR7MknuAJpS_tWCPBoyCr2VZrM-0tmLjZtYS6dd-ejFHUfcdDi5niBmVIR3pW8yXi66DcBJHShwQLuKQjcfwt0WICoMf1MWvTSe7V_VlDFi4-J7j0wN08bid46Sw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC75-qLJQ!2e10!4m2!3m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
   - name: >-
-      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcJNfCkXs6MtJuJx1XsbI5stxuezk7GhgxOjMG5dyLmEaErCyDQVX2IMiWH9czrRIT8EZ5SyRwye7tlkFcaPC6SEGiqk43pGsTV3VhLdoNQqMf1csBVRTc1-yFVSKvwEl8EwrzOE3Idav6XxTdS02b8-LCaxnulpZOFp1ny79c8Rg7qGorwGDd8KSfqnrgdskRP19Ff8SDNBfpkvdrsUyV4br0G9aLJu6_628i93nd6y35s0qTVwhSYFJ3E7akPwZoddocbBpJ-2xB_acluPmSQy-TNaIi7nPRVqqhwRz3wKkHwnzIxmTvKjxonM97KEx4cGzQEd673P-MMYwv9MPJJZ-KbwSHjZHkKmHEGwboA-O-CJRjMfojnBx7VzAWFuNB1bTnoXOro1gP7L2ofYqZ-jtHlfQLCtcZhAGtsG5zDX0ioO
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcKteLo5euU7gloBWlx84lQmb8OSeiKacVOJKSwT-BwyLDD8VgCwMvmuJx3PQKkZP_NBaKGkYaKUp77YXaOkYU62HCkWZhLy4t5DdbrmdsWgtwBugMxGZqY5CWbWAf2AjAwlcKJyL8E8v5Tl8qqk5a0B7b8BtZ0qNdXi5fgqb1rguVQombMml0Gkbj4wUSdNfaYMkDCFyl3l_oci2_CcmF9AN0XUJxpyk41SiMq0XRPSLEc9FemFF1rzy_JcPTuPBYod1Jqj5a7ZI14iPxkFmSZXjcemPEbM99U8or_tW7ccX5oUf1R_w7Rk1L9BdZPfEzy0cJlS2g6jzmANJBejFfqxV0xjTAZkbKWTiX-8oyVZgvZdSomPcLPv1yf8z3Tnoik-LUIm9im-6UnTFaCTcb_8dH6XX0VDDr6FwHqgk55TCedS
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6-M69qwE!2e10!4m2!3m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
   - name: >-
-      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcJ4hGPBYEjQ4Tt9lkVOiC4I1eChtzAX-myo8sCintWBKV-8PnT8vHbgtSOU3kqsk6b2Pi-VovYzRhCbRjaqNJ5KST8HOfYrMEAYnrrgMtRORKGVj8pRP_wIbmjlO7vpgfIEe9l1UyuifVniP3Bplf7F6s6zwXf7sWL5onlwIDHGazyK_k_P8MBgGj7emhT-2RVyrx6tOlMNhSs57JkTM5O-Xh6KqK_zzlZKtA0nMbYxWRdgdbRE0IG7ZlYmc7LkSo26tCgBHUg176MlsWGWQ9Q2lfU0958agLn32xgFzKH4MQ
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcL62GbXg7p7vVP5P2OOPlxCvU8UZrhrW-uO6x1lbE9Ay9aTVDyuL4c65wSc2tnwXWeIKJ_4b2DnjFA0pWTd57CllE-zOCEs1KLN_xaqla0kdI1OpLk95a4fiQd1fW2dbmT2mr-6K0Me6ywCL2kPP_KFC1WHK2JYGIChqKwzQNhBuhWv3PQbmiGcJHMtGcVTVi1pXB6B59KD-B9QbDd8_HxHT8DS5qY-c31kEZ48OMHYaiyKi0VfbBMgfMN1dvRXcp567bYiBJWYifpny7vgAG0_5V6Jd2g4Q3gi8jGFBazzjQ
     widthPx: 1169
     heightPx: 641
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMd99l6HS94Zfa3HCakdkR4tnl4PIsoF-E8DtM9!2e10!4m2!3m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
   - name: >-
-      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcLNHT80yXvCuYZq3fdBehIjKyy7syv6t9JKU64VU70aUx9M8gGD83Yers0WkohbRPexJFg4NC4mqyaxfnQUxgId0Dfmw7IocHNLZUx9ICAqlgtTp4TBDK1Kj5MOX6MUewencd8LdLO-7QbUM7Qagken2bLiwmI7wHNJSXf401SCMCLChBf07vvVBI5FgYYlD5HZ9G_bOOmkOz4RtIVnzaKMfoUUSKdtEjBjYCCOlHWyVjaehcqsGAVs_grqb2tNclgqFdgAP8o0K8SkeOEWRo4vYT51rFf6eoqjF30oJKt7V9G8g7xtJb6cMx8svQhfe5JEXhG0QkYA6kz4bP1lwM06kt37H34jogAU4OISevBqO1ltzsuQ73--vdUy_AYtjt3DOg0uCwpbwFC3AuwdBKWLo_7jdno_BYRbSLfHL79fGTE
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcLhtTCc6OnksVDsxLXs37hZ5LabpQikuwIeUlOdUb45BY4pjCSix_r_bq__bemNQNpbZSnqaBQUmMxjVESullO1aZk4mmArnTfJwoMpU0zXMkUKHwahphj1G_0iomrFj2-4JqaP5rnR3ofzXrsvW91OaAIGJNj72wn2TeSSHJG4XEfqCZY34f55o5vNNcVluCOANNjLkrqiI07v7tx2sID2LqJCu26WTWWOpT9o5LQRjFpmxjym9Y2O76iUnToUonDJYoSEPdvIxKScki5vLrEgB5kx3cODZ7vZ9V3x-AO2iLLLlgNQYf82hbi6U_o2ERRLFJVnLhhZovUWGXHtZ7MVedXRSeywKOShJyVd4TMm7VQLDhC2YmNUIlN_DBL5BJwXywiy5QSFiOEyqujfosjSvtiysZZsqJrL2L7uS8fuPgY
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -104,20 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQkKHCkwE!2e10!4m2!3m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
   - name: >-
-      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcLrwsw6GJx92QTpW2lzhjXkC0mlTezsBuTTLgAnOEeXXY1jovqVnLMMruA7Pxv04aSpaOe3bpZ33IuEt9w6T7bfcqaJeV6B4LLk3W0qKYohNGAeIGKcConebLvugqGDKdcKro31fkcFkQiWzRXbBhFaIcbsbT-8RrVyRQawdGuoNfi3GgJPXeOWpjBEYXdkBW-IjKJh6apXrNBCp5HnoaN7hfnBsx4puCXM5Um0E65MCrAoaGBVNhfH5UqUD3w9VlCEbDANbfJ2eLjS7v-u2fgpgctDKAsVMs-OygJqn8ju8A
-    widthPx: 1169
-    heightPx: 643
-    authorAttributions:
-      - displayName: Nanami Sushi Bar & Grill
-        uri: https://maps.google.com/maps/contrib/102438250953439460215
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKCuggoVkYXYB1YAMcU54nd4SzH39Ve6D0ofdGHw06nl-iXkg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO6z8duYdawHG020KXCpA0ULy5XDo2TmTnhiCD7&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO6z8duYdawHG020KXCpA0ULy5XDo2TmTnhiCD7!2e10!4m2!3m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
-  - name: >-
-      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcIrE74LhnDzg7Me0TtbNUR3Tm79gnLtFeMcf1gQ8FOKaiOjE2NZd2swsgcdMJM7iJKMFke0FzMZzILwybJd7Ygl29GnZY5Jfp0QPNFG5p_fGDYKyDDy1OI7MgIlar9W3_3-2DVYsOY5imNnC6nFi15fVZZXMnZIt3Tho1aMvQPjDh4W9O4qE84d6p6LIzWvapnjT4va4_OyVn3NWhq5T9ReynEkSgI-05mwR8Y3fGwcpbmjX30MUNjVRk8ptdzc9sBUwYXTXEXlMdVu2SfivDqCOSCFw-cEWE-6j_Thk5AJC5Ix2RzgLmLqy9q6-Uttf26Tmb8CJZqbwLGBWC9YJFI8kMyGfRqbDIRhLGTp-mck4q5L133I0FYwhw28DInvPzRE5mRrbBTdRLdgq9xiKHVoWpAfV8XSZm50wNmjNnYUSw
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcK6roFrqAtuD4rr0d6AqmBBTDFzM8uFn4icEf8xS8ji8NeqkPE9R3Kc0rLDsGD_mOmdV_gCz-uGYm87E68iRLjY4a9J5_vbQNFwLT1-CQfuLE-YSCAJ62831fMGAeNBn2Zo70NkNZCuaEQtC-1EY4T1ffn6_R1LZi_UpCSDO0voHT2zFP2azWgI5BmxigSoAuU1OxdFnXzdvQ-cm08wP-v5IfPnLcCbUC6MauqzAa7_cxJmKAh0KNHKJ0oZ6prqnZH5hdEZNI2nQqiGAGHhqUQ5-Z8XqScGk4mf19G0KWbdVnF-HQa55bY_3qmsHD-r9D4KOH032FjPa2hP2FXZx0iZOK4C0VJvYapTsr-lFJde9i7H6B-KAZzi8BBkiRcB_K9s20piEf9izRJ47jHJ0MONktmnnwLEsHtSeW0dISkh5A
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -130,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICC3ozlWw!2e10!4m2!3m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
   - name: >-
-      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcK1_BtYzeJHLyL6NgnTzoq6eHsFEd6hCAVmR6En6qgI6pfQQMoQzhkj9fxWAE5KxTXiwyjnbLSuAd7FNMpSw4qYVmEfnZWL6wtBTOrnGBnVWF_R4Fx9_MlUjHrbWU7I5DRw38bwBuwdnw1kPC7csPq7s4M1Yc7COlPcDQ1kuxQmhqrhY860_dcin156DtIkUecP-SMAseUn1-pH49QT9EnypmiGfD1cKBddEaxeb2XS9qYyXzn6c32WWYGk3F-YH8GXqKOkI4tc6qhZxZc3UhkXjq6pQkInJNNS7D4DcJHNWw
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcL5usFbHlCpNWOoc-X13ad3rVgOhsd0RsO0gnHyUEjde-uA0p--irIRYK5Re2017maquO1fCluG9NyEmQuiE64HOm3dhiD_lvieMZN5UKbdIGfIXwCiG07Xw3nDaXfcLWu5XHYPvk1rnG0o1bnr_TP1KM2f3WacwbWnkspbnDN5CpD5mmqcye9276oy9YEC-AyOUBqEbIqnNoD9cuk-L2TkXKzSqCUoQo28SNgv3YhVgpjegFl75GotRdq_L7S_mr5qIKyT6B8Y4QbwODfylDShb1L1i4-8ZkSAo48V1ZJrGQ
+    widthPx: 1169
+    heightPx: 643
+    authorAttributions:
+      - displayName: Nanami Sushi Bar & Grill
+        uri: https://maps.google.com/maps/contrib/102438250953439460215
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKCuggoVkYXYB1YAMcU54nd4SzH39Ve6D0ofdGHw06nl-iXkg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO6z8duYdawHG020KXCpA0ULy5XDo2TmTnhiCD7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO6z8duYdawHG020KXCpA0ULy5XDo2TmTnhiCD7!2e10!4m2!3m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
+  - name: >-
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/photos/AeeoHcLp1K0Tp-lHsciQ2Q3X8acmtwvcI_rETFW1YdN0GZLUkqHefRJFnPZMxcs09AmWDWqsZ64lVfh1rtWigv-mq8UCGpUvQ75Y54wP1gymp2aM2HGcR26kM1JTd5s0aZg52r-5LroRNdH6zITL5kGLfJ3hwikCnf0iYyD-jy6aYzZuP6Ut_CCz8DtLmJ3ZOCILfyVqm3SPylu1l_xJMCyINIwbZyUYgwPm7S1-u7nkSW_PXGfIA7ueqXF8BBEJRg-mNFwhiERzStkSu4lIZYeary-0YHSpdHUXCQwN9XROO2JGUQ
     widthPx: 2268
     heightPx: 4032
     authorAttributions:
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865b4c7126971fcd:0x80e8d27006fc005d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  current:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (512) 292-4228
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 582
+rating_count: 0
 website: https://nanamisushi.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

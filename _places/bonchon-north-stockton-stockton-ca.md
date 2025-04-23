@@ -13,7 +13,7 @@ description: "Bonchon North Stockton serves delicious sushi in Stockton, Califor
 place_id: ChIJbfX3R_INkIAR13MRhnopJBI
 photos:
   - name: >-
-      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcK23zVnTeOAPTrVbVVngWrxqcb1E1Dk1JmkTvSkZqlSpk3lSkaeVQFxwJ6uNSMs4yXJHsM0BGnLD9V-LS4uLJMAagurXpz3fXnylo_NRVPiBCGWgAKWHOsk5L6bTpVhguUGe0MPkCWOny9RyQAFQYI6a7BptYbgbD_JET40qhXXPqpZNeS0_S-7mT6Q-WABuAt_NVWypxpcLd5Lml3XgNwhqW8VC9OC6QYRvqSB3axN4L8N8Q57kgh1qunDUy2vj0Ue6dTW-QyWnCd8TSOg9FbeacSEEJi7RGlUZdjIlQVim--raL_kfesCAsGLbeLHBMXHIaziuR_PTl2gIHCrVjrumlKjhSQW8niBSw0AtwPx9nJ-LlMDDTeNdBPBNL-0_tIpFiXy1Hz1lzf0nhezqx4xH1zPV_5HGjsE3IrOH2I
+      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcLeM4PpB39T-9jnwpWgAj48MbfnJGPdTG77l8OB1Lqsi3H_8onuqr3lT7jmRx0oTQM6Y-8X-q9iN2uonRryzCBkZdRZ-lihkfBw3Hh2WpA9rn3aPGnsCy2mhnVu4nhDlp1cq3GC1yTVuGHPy6NKAf-rvjdqDBpnS1-Nln4ZmUKudly1ZPLlTjkwNchktPDChKWgXxhFGcvniQ4qZrdFd9Wp7woBVHBoOsiJ2tiHylaU4e2FfG3PDq4f_KKGr7sqIR1Gukt4H245_uklefnITaWKF746ftycKwvCmoJgRXdoFY7RqxmdKgSJvXrnP9IvVqvqMhyyNYlOUh30iMkscTgRv4xZB0TeJvoZygOzlydoizMUwYhjpe1vgcQN-TbzSzwgq_2CPEKI3cPKgkN0N3qdFIDQgAj8Gyaxz9yuN3o
     widthPx: 3036
     heightPx: 4048
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMuPS8Uw!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
   - name: >-
-      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcLCEloNa_gYLzT4Ox2Vj7hZDh4iJmCI8Ghv_HhtvuDeCG8lpNpNwTsohgNM8dBJJnZeR8A0htSkBbUAKW6VKcibU2CoCEhJjUNFBq1kthKf99PhGZNZpK6iNbAHR5N-ZXFGcu-3Bm_VWvSxD65VdBbR5fu8V4G9uX4BscZCFsGTpaHF6nwKNnM9x5W78HqCJm0RzEab4tR0Z94p2aLSIbI65VrS0xxApFxsgnfF2Sdlmr8O6g9X0s97kQhG31mba_e81CHwdH9RWnBEzFA02CX4RLmj366T5na6bSjhF-tFeA
+      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcLmE-ERGd5GsXhqv72yP4pOwngoWOWylRopiEV-GBfretHDndPkB8142FdzWnLTNFjdDPkmi9AtS9NEnlP_hNgjYAPiLdtVQPUG1i2aPi2UaKwZjmZM-8KaddzZtmekv8G4ynzV_cE9apABPy1_-Fkko18WWk30IbcziecSY9mbnmuO-72d81ns-COi0pkA-ACH2XTNSjhdsXW1AT0cSFIT0S2_XBrPZzCYlmb8OE1HbXxmymXVVesp_WWtv7456amVWfJTkjXobo5MkDSwWpIbW_opYqX-s-7cR_zboAcVHQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMMpbRxO9Fw_Hwd8_tQ1WQMx2eQPLN97g-UMtDl!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
   - name: >-
-      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcJv5CsVOcNggzeb4KQwQ1sdj19Nfll2hiUIdn7NQj8YnW8VTL-9iag0a3ivmdjRxyMaAoeCsmr0hAqoOylt5VLGuFL1CkKYc1l_dz_3MMLq0JxyU6LrWDwDsL35QbW2gNIPrKz4V9wwkvidje4GVIFmL53M3qpMhX1P6BBV0Wua0Vx-ZXvMkObmO52C9j6SElys3E8pLIyOneDJzacZk9zq7a5qnNUQpRfAsdy7rGxnCoqzYZH3TP0p7UBhuAYhvUmMQ1KyefBPk_aYcQrIFMuy_N_k7ZU8TwOIMMLipOW-LQ
+      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcLmCOfz_vV9wvIVAWHofmS3Pe6PVw-kiLIZ8ozp3mmqSdBL0tQlUNMyk9oiAYAC0YOts6mDvru1bvLnNgApvi1hDD5v-E4bH3FZGwO1XcNPizmtoPECXk_76qi2DH9bw15par6gEjaP_cOtbZWw39hd3Ii2tXLj8NGBrQzuHI88nU5pywQg-lk8H19mBwp4Ye3ryaubT1tycU0Yq3Noj7Dm4AoRQicw8eTx1UWtJtAaYd9ZKJ0Pg-UsYhWJ3YWz3T1NU18RYCPsodVwbUO09W3xkGB0qXaKj9oYlfLOSiwTuw
     widthPx: 1232
     heightPx: 693
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM8lxpwFDuHx_8mdSA35Tqt5wK7fr4bqGOOPKrD!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
   - name: >-
-      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcLldxn-Yh6CG5q8BvrfGllJqc0Nq9KDmdO7yeHObpWjf87hsg7rja5gTaGUHlXDGRGmU3Qo60rIDGykoVmSgrH_Vl-9dqZ6O2xV55oOC1RvdqUc8wrIkb5RGP2IBcbSOc9fhOVBS2ob0PX_zDOG0oVqorv51UvkkNCJId7BVSgEM11sGscQ3LIiDuSGRw7cxubB8ToDcPsgcWCAXKywqM8_EdOx_vleE7ImbbFsLN_mySgf1lnB0B18lydIMlQN_rIKttQsvH_mHNf0tuROxLzYaWkxtQtbqSV2PMMig1o4Qg
+      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcLWsbELvKCGQaYkVfIIPBlUKV7RW6sIHFd1mEKikXeytM06ATUJddtS_PvqtkbfePO9P4XIX4UylLg8TQCK6og8lRDuIApOYeWcvW6qQyk1ItTCYXWzscdhmSnugAV-TwazhqzLRyJ6kj_PpgOpgy10kyvji72HVQrPA0QSbUNCg6veUTAo4DDSnVuGdngwsvEBw8JeL7RYuvq5Lwc5QKM18rD9khbd56DvAZdjxG1W6TfyKoz9KNJWDvL-Kaejdx4Y3xhezDtzEV5C3mGlwXAICQhPtTfKuQYEaNQ8b94dPA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5it2aKJEjsf-L5QM7pKWxscY1VRtmyBM2EINN!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
   - name: >-
-      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcI4x4j4Qe4IBBgvFEILYYtYaJHcQRxKoi9W0wnJNnJIejEeqETmc-thD6vt99Mt0QQPC7P6gGY2jOCHcCtjzyKdxAKNfLslEkzi27gkbT2desl1OQVRqCdFP2u7NvTYI4SZl0-YdJhmBJ4Sv8Z6CfNGWuEMBA0pFaohach7ql4G0HXYTDxyZS8K9QgI8VU4Q5h9FGTbyOCj5lMYyrEGGfYgv4YIdHUCir_0aGymw5LxTn1WM1nSJFbsWK1HDTtxgCZLRkd8tJfPotWGUrz3S9vZGNHg8zeRFLiZMcFICcGQig
+      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcIUv3gh29zgWj26HDn_BCaBeSqKhzxfjE5_EDv_AgdfjyEKk_Y0L2g5B-xVPwT8PQj9q1qVBSib7Hd1_WOcuWEkg7lQDOyFcODtXTX_5bPVsL-3xStASnvChzUEISTxW1xC5aKSy-QSe03xBee50anCjbcwSj5XygKhc7ErvwAO7LunuXaxrexiWozUaNGGA2vEkLt8fi2b-EmkaHFYsL-vgeSxQZbY9rJrd3lfl5yEjMjR6v9GjLQpUHybFrVvgOOM3JvDB3LfN0tP_lxBsuEkpZiLuj1wFan7FJhmnQDjcg
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -74,24 +74,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjXBJbCZHFU81O1G3G4cE1l2Aoq1tzb44dxdHCtU8qtvJmwMvpjR=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO2bpKM0t1nEykj88MQo45qGMvypDjIPSZtHa6r&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMERxBD9Asli_UPUzJIgOnfN7hoFaAt9GvzXCiQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO2bpKM0t1nEykj88MQo45qGMvypDjIPSZtHa6r!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMERxBD9Asli_UPUzJIgOnfN7hoFaAt9GvzXCiQ!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
   - name: >-
-      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcJPu6zq77Wes2K-J9jlYiIFeVJpvT-JmIYVo8MBuvMvhxhVJ_oN5NqMiV_4GuifSlbsDN6Le8_pWFXyvVVl8X5Uedfhgn6IMcVsZI-Iu6RpK9Jrm1GkFPlw6-IsiusWhvqzT-3d7Og0rcZvCxkggz19npGr2VMIhHOB6FTe70psXVCOh5j1vCh8mdpBpRoPyv6AWvWoHNiz-eNIRrkev-bkpUiLob10rYT10MVrquDYM-q0XU5UKPmshiA4avGnytRUcZ9ODJLB8FBdC1npiADg8GITWoWDrntsVoWO3fSGPA
-    widthPx: 2000
-    heightPx: 1334
-    authorAttributions:
-      - displayName: Bonchon North Stockton
-        uri: https://maps.google.com/maps/contrib/114497070491941452089
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXBJbCZHFU81O1G3G4cE1l2Aoq1tzb44dxdHCtU8qtvJmwMvpjR=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMSX41fiaHDlReoH3bf2wGv2E_EZDAIK7QpntPd&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMSX41fiaHDlReoH3bf2wGv2E_EZDAIK7QpntPd!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
-  - name: >-
-      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcJiSk0qCMycQp25yfydya_bfA34K_i5Whhy227lQzjmWz714xYuwkBWyPOxnFRAA5J4qDDcy30bOdAgVoc69UxgNB0Egvn_iGgsYLHm9T5721SeANubEr-wZjp8n5SJ-J6wmj9poos00ld32CfBKM9RC58ZHMspvTkwTZLkjI06rol6e5PdUr4REDSbQdnXAjhWuBScX98NfN88LVearVUHXkaKmySYF-9f4mv3V84JEysTdVITiBFu1Gz6InhgsO2zQmbUCHPgTh-t0-BgUo8cP0mzRWfWSRDgTcjbdyzYjw
+      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcLy3bypaZUn1vwxMbrYFLOUdQwXQxC72TcWOKdbb1_cqaasJS9AnVt0nKRScR5GotL3L-Im35sogLrBBqKQLzqsaAzPe1airOQUe_Tvmlwu-7cr3aM8CyTBgqgYHppBllUK3gzyw4P1hAhStwXFaxUJqB7HqjITpqN02MkxMBoMigQFd68It22UGcamzF0oW18DMsh9jB632NTfgPN-jtlUFy2mDWLBITha51k7Q3u-egVkRONiY8cJ6syOy2I1wupoSywbE0VT-DjrLjoIcCyEHIFoHwHivGqQO1sMrd9JTw
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -104,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipODaBJlBWy-c871BQT6yNnNR1HIW_tjFxE5_roB!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
   - name: >-
-      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcLAVjGXLp7pgIlSPMaEHQGCwyxPRQ4ypTtg5L6KvvLba3OYbMrvNCbDE_aWZB1tyjUS8kxM3tAoQryNkFb_HTloKjrQC92o1_-Osa3o0SodVLtt1bMcU8OBkjJZe1M_90r3LqxBh78ZTRM1ztus3e9yjOpgtFXn32VJY9KNMH1dQhXgyF5rLhw4XbkekLcqsQ6Txnbed4hePD0gYKwh4nymxGA8a6x55SNb_gsjah1FO6WI55Ed6809xxctq70ppdnjI4hwHnsTy8gwIKe7X3QHp57TnSMGJWDqCQPNHNufOg
+      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcJCBLxeIAsmGbcWLUquLJ6OVTTAxvIqHpIIjwpkKBHIzpp4el_IMQKeGgnHG54fKsYXbXnMYsnwsn5MDg-le62vZMbOH4WMncdHSIlZWmBnxwTtrRwqnx67GITUYx14f1zIAvoMc3rb3S_aL99eSz8B104QNwL7alQXPKCy7vSnsMd7Qr9PJBBhSOFe2geAwWmQa3U9HwoOHx9CaYdja-ZlDEOxLKS92mGDnTDEnkW0wiiXfBeSZR6uNPyI1QFl2PjgvyBGAxW0xe4m8JnNAvFunV6ozW57GUXF0osavGKGBg
+    widthPx: 2000
+    heightPx: 1334
+    authorAttributions:
+      - displayName: Bonchon North Stockton
+        uri: https://maps.google.com/maps/contrib/114497070491941452089
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXBJbCZHFU81O1G3G4cE1l2Aoq1tzb44dxdHCtU8qtvJmwMvpjR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMSX41fiaHDlReoH3bf2wGv2E_EZDAIK7QpntPd&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMSX41fiaHDlReoH3bf2wGv2E_EZDAIK7QpntPd!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
+  - name: >-
+      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcI14Udsd-UwUG_ANeYWLsZ9YesIgOSZw9IyEX1STUDAwBeYaNwCn9J7le2vNr89cKEXzat2CJ6w3Uu7AFw4Z-xLDNZQoUfUlv4z4jU_0BRmLcCYeif8sZJIKXogu8c_kBSaDBN4UX4tuVnnIsl_bVY__WTiRUD8qH_g-HXvR2F6PU4I-xl3nJ6vbKc1eYEajrHKlmTxIRv1ENkixWKdtRh9jHulR2d4IJzK3Q1MaP_Fp8X726vpHxGM__xodqG4xXXgAfaJonwtWql4Sm8862qjwzdC42LQzvGp3QkTA7rsXA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -117,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNvYmtSrPTd9M9Jp_7T46NsnDEZYVitcPhWIGP5!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
   - name: >-
-      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcKvfm1-Gf-PsnrFmgnKhweK8-q3yuS-P9bu-bsTCcfPE9n24RIdksyOcJO0Dfa_CijZHc2aJsjJ0c5a-2A4x5C46MzDdw552wMWsOVnxxGcODMYm69j8QVkqpnAflk7UKl6JJgykMk13bLpIpYQZuD9ftG3PvcNRya6qejr6FaGianS1nLenfvZzl__2YFEn_eZUA03QGZY58T9FdhmqYIC3M_B7hEejQwqTYTg-MRT-PVTgp6xFZnZXwmyRRBBSMM4SmQYq8aFMPAcs-nnQrRptbR_1Z5K53Zvnkt75r1Dkg
+      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcIHNiRohsBcUjTYaNAMWkQ1AYIPEA6g8k-um_CSDQpK5z8emd7Y6dxkJFkC7MAVry1wJDYD4aQKxsWcBXtWVY2bIsCzirlYGs01Ms-CGSYOp_T-luqwUdplDXFosf-OlrdtHdUhs1PI_40jqOvGa5OL4lrjN6AXoOfSH80QV1ZDSC67MQGU5Cv7KXCIqB8RdVDXq1IM6eF4ctXrLiP7SyuuOz_cQDp5EtgiB1mhordl12fuVAnIFnuc8EKyczOa4-pPOwHIslDR-lbOSswE40LihYV0PWo9ZJsVDmJmli-Biw
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Bonchon North Stockton
+        uri: https://maps.google.com/maps/contrib/114497070491941452089
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXBJbCZHFU81O1G3G4cE1l2Aoq1tzb44dxdHCtU8qtvJmwMvpjR=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNyPki_ChbGyBFaHFDqg-8pB_sygszktG-o-lcx&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNyPki_ChbGyBFaHFDqg-8pB_sygszktG-o-lcx!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
+  - name: >-
+      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcKzd5QTZHoc5E4CwRlG-8yW71abo-C3b-bKg6-gKojWeN61yFBU70sqgjCkpZYurH6If3m6iILsmRVtagL6FHCa67OvNiGkNcpqeFznwcxCkA8NJN-TGH3Rqnzk-pltffZH5UKvkJTtH_ZZMsxkLtlszwi2IySfsyGy61oQWv8g-A3W9WBFxvlgWTcEv0JYbwsQaHkfXP4CRKsdwMZ82QX7p8LsPeJ9zNbY-BVOCH_mYImkMIbFQuJ9rmAP_IEK4sD2--zE1GylwAvnlCzQi3GLyTyGEgAVXiCEEyNVa6Z0cA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -129,19 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPVHAVFzSXL_Nu0BhmAq9lPMqBH-h1uzYTMB8JS&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPVHAVFzSXL_Nu0BhmAq9lPMqBH-h1uzYTMB8JS!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
-  - name: >-
-      places/ChIJbfX3R_INkIAR13MRhnopJBI/photos/AeeoHcJ_H467JiD4X1vbz1rVin_SCDVjhb1nU5o9jSqTHbYdnp1pWGk-IcjAU7tyiJLITlDFFt5xD3ib3Up1WEn4LkbP8Vf5tdbavPtvgwulRcYOZ-IIKNU9P8r-iz9U1u-GPDcbxYlJAuOeF66CYUNvHAAWIXa9C08A2LW3PvJs2SMAU94vzto4csR9rO6ZBw6_ivMRnMuHQlmrbWR7e8auIUHeaglC6PJhvnGTucX3AcE9PN0PltRy-b9xs37fBOWvlVTMtEBTd31B9cHqf6QsJ3Rjc_uzjqB9aNSSqWNsctjwiQ
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon North Stockton
-        uri: https://maps.google.com/maps/contrib/114497070491941452089
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXBJbCZHFU81O1G3G4cE1l2Aoq1tzb44dxdHCtU8qtvJmwMvpjR=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM9WizkXJvYjqFqRSE5w8mUshdzbtlMbs5FiVOu&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM9WizkXJvYjqFqRSE5w8mUshdzbtlMbs5FiVOu!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
 address: 7840 West Ln Suite E-3, Stockton, CA 95210, USA
 street: 7840 West Ln Suite E-3
 city: Stockton
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

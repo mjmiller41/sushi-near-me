@@ -13,7 +13,7 @@ description: "Thai Kitchen serves delicious sushi in Dayton, Ohio. Try fresh Jap
 place_id: ChIJIba_kAGJQIgRvQk6F-Gcq_g
 photos:
   - name: >-
-      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcI-Age7mQdg4pX8VlXE4HTxgUUeSDicpK77Rb6zMMSdz8dwKG5fNtepMFSlGYLkNZUXMJRDiCaU5niyj2H_QrvyywqRP0dbECM0ful3MeK2RFx_RnKy8VhArRscVa1Bc5vADylMpVgicAvfJey5aKAzcikfOapWtJqpUmHPxO2WNRP4CtlPGqbyf6CKBgs31hpuNLlWGfDmXxr0J7Cv1IRjLdxpRiSURYuaUGgRLyXIs1ksIdYBzicYtVKCjkW3FtoMuYifXs1_Z9oLOf--m7Yj5H4JkZd_EoBFdrIAvqDWow
+      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcKztnnXAK_2EPnQ-Yp5iCfyDhpf0F1Ao3uIgGQmrIPxX0xr2eY7eUnhlcyVHcN6XV4HZguHgb7JqwO4zYRrkOuKoYF6S8t_ua3AkoX7YY6bknB3jyPaTwtT8ofhkFE2g2byLPtK0utVE8aXKIGWE2xTBb3Q_dndi2lRis8DOh8mcXOTrz3ASNr8zPdfKRh23u8GK4a9Vg6y9OKh-mAJd7fFMQqKi_5YKLbkhjKVd28yl1Tk2gB0K24daXHdrHkzMB3Ms_0CGDuGgl3pCHDxsNg7zYEzZ2yua0mxk3xdprZiiQ
     widthPx: 2048
     heightPx: 1152
     authorAttributions:
@@ -26,7 +26,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOLmeoG2_TsBpPq7yEB6vWgkxxpXwsMamlREi9p!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
   - name: >-
-      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcJWXKTtHQgz-f_4KQChRHDg0x-6obEYedU7AO-nhAIIAxOB4BgbyaiHFxAf9pcDKgvEFCKwOsBl5AysDzeUz6EBtpgiZ836ExSR6tPdJ5M5vsMsxGqcD0Dtjcd7rVu1CC4p3lVRmCmx1w9-8Q_7jt9Dbsd18989pNy5OyjBE6XrABkEZXyv9Zccmhq1rXbVMkaK6zmMn4eTkEzXtTKYMq5qgARhPl7bwm6a24ttA7DsrXszM98GllkH02NXPhP6-ysluadqOqTDi46Z0KEQRdeLtFWpyp5h8VtdQPlT-iXSpw
+      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcI1Qlcb9sne67v-HRlNpfNoa-R6X0WYtpj6AkSDt4PGyqjca8CMNSYHlwX9_hrUR_R4l5GRAtb0lDgCnpgeV-mSMJSoFic1rX-jgbVoAjIkhYNuWCj16yhdxFx6Fy--qTLg4MB2bPnNKpnkdEb7-d09-3YJnznxBq386ISOK3ZtJhQgLYrrHQBPXNa5wsBrgkBBEkr38s9bq-D0OIKVtgX2t4f94eZxmx3Ix7tEFhFCclTCnLdQoELIOM1-qMjuhrhZbFE5vVT51xcNXOupJOm1Oca-F6D17mPXaucaNlGtLsPBJCNihCG1CpUSUbYpDznuLkoUXe7PyE2gZRGrF4rmBMzdBrZwc8TWXLP9W0404kc-T1ppVM8z3oDgpe0yoZ1hCFhqDeKfGoRHkbShiflkOHo4ZZMOLhiT2HpBODyLGqGZ
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Rhonda Roberts
+        uri: https://maps.google.com/maps/contrib/109186228125093861778
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjULOArJHX4bDFzMMyiJ8fC9UnfVeiOR3lFblZkx1l5RRQH9EZbH=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCoza21nwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCoza21nwE!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
+  - name: >-
+      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcKNhypUkX52yH2TuvzZmXBPxLk6y10ir_1L7e1zutNPista3xyigyxZIIvgcA76ynXDP6j50ClsmeNhU_7z9YTOkJbrnNg5ofdQlIt8CkHPYoRwqe3VE4MJxi_g012SENuXssyjRD3APOh2V0lI3UN5LTlnc17g6xvhHcSiTB3-0D9PQwMpPiFipgx9ZpM3Cgwl9ExVUFJEchEp_zklcYyTHiKsBJ60ycIRV_-KRI2fsT-pgszYDKyqbtqqqI-JYSe1bkyQn4Gr_-GyT81wWxnyId0SgzrfA2xTTXCMGnZclQ
     widthPx: 2048
     heightPx: 1365
     authorAttributions:
@@ -39,20 +52,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPyF9fcMYtsZ0pSqJUqxZGQA0a7tcpIid4SuSBt!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
   - name: >-
-      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcJuhUkvTdCP1d7Wvwo5TwEnNRgkg5N_mHSWTeZW7I6qNtYkyS6g5wl2XVv1ORfH3cF5StXPwUN2hLMaZRGxObx1L3pN_JZZ9yfofQpIZryrqZQm2xzi-GDL2oMZyN_MbUIVKUQn5GehxH4qY5v7cD7FjLZqqMNZ7AwLI8nAK8mEYi2I8-9mKrFMBeJGE3Zn0XMoJtP1rQ05unfu_Whh3MnBF1bWMWnRQ4rDi2HWkaIeB3YEV3_PotAv7tCvX0hGueo91AulcZpvtoYtsnWvdL300wQ3niB_COogKwcb-r4OZVrPE7ZN9S4S5W9KSeop7SB17IXwPO351PNWhFCGDNVOsTnxKUGg3LbkmHetBKlaqdphfyjBhFBX7bSEGXrEKQ9f1xpC_mytoAaFQUTR1ZqmHBqYoR9OqRT_ezPMCaxCq_I
-    widthPx: 1848
-    heightPx: 2462
+      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcJghFy00TFU7O1p2pLOlnmDzXjLLuH33cnim7AiKYNQmqasCb_tZx0rkFd6nCveY30geL2dTonEzex_oEyODSZM3EixciHbWzwiAwZERzXkH3TAQYebqRiN3m_HyqI_haB3jzhbjfCfjywO43GyjfPx7OrGQxACv11WzxccRB0Cp6s-BX3uhaFM2_pkKN8RpGMftim4saiwYp1mYGzT6cFIxntHpjAqgqxmUAjmnrFVlJVX_1LIrL_8tDTVEyzknMlD_L85X4RcGR-8GP3Ij9R60YGSVdWAtCA8hNUc9k_5CM4jkIDDNLVHqkmLCqWZA5sv6SCeOiBo2ex6MXfjhg4Rbc3y2u7satyI5XSkw40aHXoABhYosm5xZwXc-c2BmvQ8D6lBn1fVpuItpAkq3sz_fP5olp1u1vKSMEKvwNxZ8toE
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: G H
-        uri: https://maps.google.com/maps/contrib/108768013902748831104
+      - displayName: Rhonda Roberts
+        uri: https://maps.google.com/maps/contrib/109186228125093861778
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLQoHVxfJIYBa5m0ecM_dFmir7UjUeI6ZLm99Ntp4t6SDewZg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjULOArJHX4bDFzMMyiJ8fC9UnfVeiOR3lFblZkx1l5RRQH9EZbH=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw55uukQE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCoza21vwE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw55uukQE!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCoza21vwE!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
   - name: >-
-      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcK4746EKuWIh3FwfeLv5qh8yLfjKDsuLjAXsqnjmSki7qqQrvafxgXqpMh3Kxapw6d6kKlh1Ah_IJy03yPPG5l4oj3xMOVOOM4Jadjc5XcaEASXYkPIJ2vn-WFjVClhiNqVzjS7SxP_KrpUEn0svPltq7fy5rMVfGNEtM5zq1piCiXD8IL2C_KAAPXSzNQRo6AmUv0oB2z8Xz509Le9mg9eOdcDWMbC3uyVWpUCp_Oma4PFbG5QT6CCgJR_yFGdtPOTY9AkA6bGqeJ07E__3XVgfHnY29S8rLoIC9tOauBVwKFh5oN_9wdAIU_KQ0UQznea681SVg5VV6Ck0XoiGxAY-2oOrXygWr469lh7LmVijnpaki3vjnnUix2nGcqapfoB0phPPSsIm_ZfIvdscxAkC_jKIKRaoN-oMbHe4nT1PpHw
+      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcKoTt0GeYtIUEVJFy0zbqnLsgchVmaPiUkyALh9tLKn5TkzVxHNAoWi86eI493mkV9iVe4OCOEgeqzixV24Xlq8iVqDkRsaEASWAktCTUFqkj8FmNobVuD3iBBdQJqNl67lrY3PIcIkzKB1i_7E7e2-o-AEcXLRzonkhSUH7sUI5YNkQv4hrFdOV_tFGPwUTMrDfk-Keb3KM6DpnQdyiE99QPmiRyeoW7ZU6Xdke21kiE731M2cVjILClne4C8LNceBAcuDJQcouYhRsyuaIsoDOvyxCR84CNbF0AdOJqb-ndfpP-figiw5O0srSGLZgoKybOZfqPrfGlonlwIQPUFZtEAxdg0OqQlYFzRHzBsjiTOryeKrFyDNk3czMUyugDh5HUhVtybAa_Z0H_Vp5U01TuVo2HP9rfbZ5a7hy_q0o-1A
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Rhonda Roberts
+        uri: https://maps.google.com/maps/contrib/109186228125093861778
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjULOArJHX4bDFzMMyiJ8fC9UnfVeiOR3lFblZkx1l5RRQH9EZbH=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCoza2DowE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCoza2DowE!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
+  - name: >-
+      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcLiYB0aBSZIkiVFokXYUbZHOfAEn0hR9xe-9y6bK9w58c3IpTQw1zWfiPG0U1NmhKblx19FOMc2OgQCDhsG0wj2m7bb8q4wNu8xAQqO7L_2PfsY_DqBCNDARKt5rdVkqnE_kel7ZKhp-9gmFiymAQmPDxroEUMrHK25FvBLNcD0hF_BXH5T4AYBMe46zHx1PW7dVGAktRc-bxXc7F49ZW2YFFTG93ti_eNWLKbTATymtjKh1drMbBcuOwFuuB5zjs9zaGNmy9dgLDMF7lB8namzONqm4UmiasQ24W3uDo6-ifCZRSJTCAStlaIPDXMzRNRVO2goinhYYdJEsy_Nlp5dZlaMiIi2cydBwK_cc8XQHyLWHQ-8dBi7XWdaTzoELbW33xeZWm1rWBpnIfVKna65MVzCo2JDDOYayqLlxv_mAbh_
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -65,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT366HwQE!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
   - name: >-
-      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcKyKhibDk-0eYYCdEU10895A1SJMmQcPCkBNgektoqJft8ujb2DXxon_f5gg8nVj-g3LcR1jd6wuJddnQsik2T14hCDxH9ULM4pUg0EGVcZmjLJHS1og1-c58WQ1OiSTHWv9wfTjUn3egvPxGXmk4G0qZjS9rybRfywXYPblx_Hz53Su65ekvzhUkyHeIR0l0cGpRmh7Zy-db8Sb-H7Yd9rIel3tu_3oFHFa1tbosv9DSfGgpW8YrJSIZMIqYnaRmRq4a0rnZiDvkDk9eGb7cwSxd6v_Ok_fhtGMJJ1uuOJf61i6hFReh9Y9CWUrPos5T8tVs1lw3kR7vbcWEjd7b6hhIYrk5lkKQ8d8NbW-ajwVFMwGN7aH4G38m3EjRsQmHLbgoJV4H4W5OycR0TyHXCCJ-im_dCAxDP4FAFrrCgc4ts
+      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcKiHCy7UlYMGUmf1lyfNKihoBRvot8F73_d6W9vDsyylO5uWVj8-ZnvJF9rIuNzIkeucN1G2lEjdIQrEZp3VD9ytRqs6Z8p9yiVlXhSD7YWfuHcRscKtvq92cqty1i7wHhJaOMSDn-L-bE-oR6Jx9FaBw4um5lnsE35CjL1DuSNLIOWRvBUIWv-_dGkP3DCuaakTmsQyVBTtAHYmjQwcUE5htWGSwDg58HbMdl6_hFQLFw1MckOWAYIBuhY2IIm5wG2fowKcLLIxjWUbVz-_JPtzT6PqbUvHEp0LZUiBP1q5YXHcgSDeNG7iDMKl6NrKB_btAe2i981PEpis9x5j-0pxUww30s4wdf9w6g_XDpNfLvh2KfPVGW9XX_Ab7sDSLLdZanmbxI4xY12BTDSV9vB0GJdtiWz3vXO1T3qePg_B6Q
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -78,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3xcvF8QE!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
   - name: >-
-      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcIQpL3LwQaS6fo28XZSlGkSeLm9Hvy_pfpTXS9xA_ghhitTpeMGNK9XD-1XkzWt301qDfYSeSrPVrYq8kAOkrcq9Ebz17qRAQF8fdAf7pTlgike_4w6hcM344AUBlwWa9SLmi6CBhQ2A5ommi12Mia7vJTZVvpU_yIOJ0gbpTVc0PPuiHeH-S3vLuamKxGzSSuGGsfrj9jq-C06lBhU94dKVAjebeFJyV-OARw1LYxnWoMZatpXlIeNxYDpv8nKEtbQQa4KuUIvzETc6eRcfRdV97DnMDn_4dJS5nrVl14MiazslYUh89iY2TqGq0BAjR8iXJw9Y4JPAIHCWhbClPQNhk7Y9PRnrjh4_shbZa-7smyrhpmHcheChRvQTF5VViFDj1pCuXtVaYccCR9dFUlSYU8UlTFqvZshLPdPQq1MRI4
+      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcIXl4SEm1A2y858Vm6fseWGSFL9dabe_MGXWZOhUY3AbXJuQn4TZIDxh_bEr856ARaZLm0bWPJuDXhS0AQ7Al6Qgx-gwhwKK2FQI672k-_E_2NV9wsI_BowXhiS-owd7Y3AxQbuI2KNR_KeDLVqhT00ME5BrkofoQ8t9J8DpzQERk6FoAOp2ZSCrQz8yYIgqwBigjL_gtOOqCde4bUOSKe91JzVQYxOiTq1nuuiIf_IxYuXKzbo2E6qep8aErQ9C13Z_PXcJnYb11JuB639IFg2IhdObFbg4alCUH34VENOF9XirYqHAf8v0n4y8aVk06-q39OaehoAsZYdMulbluPmXDnoUf_OsqREJlPGFgzUm0mIk4UhLt0a9FqH7ne9r3wz5iGc_QIY1hgZzQn3VBzY7Y1F2fcFMGmaWmDH_4t_SA8
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -91,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw2bqRtwE!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
   - name: >-
-      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcJmm2oavUaVM4TQ62XMWm2cA7ihM3SREtHuJiwyAg3inNeka_xi1AcZIBDjJSczNVNSPPtY1_gbUBv_a2u2wea4VuZdCa6pllTjPFMBgAfRPmbvP4v78M2v4B-jwrbOvLuYQ2fNb5RlI7wy3xSrrlPD_uO0gW9uilQ3PH9NHmm-9mENLxS3nFSI3Kfs2wkb0nPf7Uq9VLl1bp0mDQDuufcAVBbLfMWyCo5xqVGt3vOkhirFWp75Pq9w9YeU9Tm9c9ZcZfFQXBykBIj8mhTouS3pNcKOFS0zQlqdj8BM3YiesCAfM6M_xsL9yRvYGxl9ErVDYifWzPR0P2pFE27gOWVnghKxZvTidWXNJsy_Knq-bDIJ7Ehs7MojhbkTvLg1c3fo26igQpfivnOxA4_RZWMygphmMbaqBE2azyaY6Dy9_hV5
+      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcKg2Ks2JB20NnDzLNc31TNLcAHNjvBnE6vyMIXK6MYRRnk1ijjCXPJaiXYd_M88dnm9NgNs80Us-IswcC1I8jm8TKA-fmdrqYj1ToqGV0ngNsbbvodG3qNAgkv_L1NK0QXTh2DwHv3WLBsB5Y-8YvycW-r67Am0riQXuhTX6H38y5NQ6S9-BzK6x9s3mvaN-w_huHOwjJDTBN2WyGtK8Rk--v_PbLaxN8yaAUxLPbiKOHl253zAadOa5wi3j1zJtHllaWLT-5YFvQA8xnZ45d4J2-l0HS7eR7xvesu7vXNzkVH7wrvVJILHDMSxdfyZZ3lwNyImbvwW3c0yhgeoRcZHCgsIePz7XuI4KLXsR8xW_8ji2_4C03gROuXJNPm7Jj5jJuJf_y00fx-e-_kDaK1EY8D-v-PI6fYrb1SdP_Aar4wJ
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -104,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICX-LDMpAE!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
   - name: >-
-      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcKp1Ayf4J-UH6V8Vc6rpB1IFaqHUZ2sA4kQwe894vSMn6dQUThHbAz1H_5EhkQ8srszxqQ5bihLwr8FFz4pgnC2ec2Jlng8HkjS3IiTWb_Pll_uczYhLco5WDW1IKRnvouq2qzTDmbCzW-27lMaBY1z3cCBN454GOtjIKaVq5nGi9nz2Qnu6kFxhdH2ifsYIV2XHYHheZ4IxzTx3GvrLfUy70S5ZgUuscti2um-jUtiO5MalbxxUYRlpqgS9szri1ZHvMeqTAaZha-p6FsWJa1VvoSVHR7GwFerYHbjl6bdniSAArsooITqrKSOkmEz-uN3iHOs85LPJvCoTKr1rhYtjj-C315NDVO7DJ6HJ5NhSI8JChUPd2xOV-xIqxAN-FHY1SYEM3kowydMVCmcPjTluSXBQgLDWeAHlAs6dSBTj0c
+      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcKmrjEX72ROzh8hoFqUl2BoTNV7dOebUZb1uCxx-FnoIP_p3KccgiGun5kyQxuTbSKvSxgKrT12L9NDA0JJYzydvGbaBjRRF0VNGG081KG96y_89aPgEbl2LGWgZQ5-SAkhlzSrpRMcrzI-yTRMCXcMkUlbwq0rnayH8JjGSTyhdxZtEVYoDybVa7L8JoWI3QijlMKjkPoHVuw58LANHG3nRd7b2Q8psW5cspjL6Yw0sL-OZ74ucdtFJVxb1_YBr_bq83ENgZ2wB6bRY8Ox6iLceeAJqp6gmOCTbFxi7gUBrAC6bKInFSznpNwLt6SbfaW2mYS6DUUUsB7ZKXobjBve0Y6TuJN6TrTzfmuoreqINCyQhxn7IgibFmeTBGRf3mPZzDilgd8Mz9lylZfRo5iIamC6EWljlE6jCynDqdTf3Mk
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -116,32 +142,6 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDT366HoQE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDT366HoQE!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
-  - name: >-
-      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcLCk9QYxUldmadzhBOvwudpq4bNj1P_Pq-gcly9GLM2mcR474uuZYrL8ZYGdNyFuwdZSMBG54NjuTxrJqMqOhQ25Md6KNJArg2Ii_Vs_VtUQ1gAQRxbU0aMWjOdNF9kxaumio1WqTJK_MvJRBvcJLw7BkvESigCgqoZKGqv-9FKsLkiZt-RwnUhC-XvNLTZqkBLLR8zHPEbmqALNnBeCdfi0NzebdEAVY3TUl4517DQL9BJ4bVqF9xQIWzDwCR_UVeD5QTNwv7scDQEDFfyH6x17hW2Rw4DpwojrS-ppABGeHx6imcjB5KjuKKFAqpuiW3c25mec9kyQLXNGhIEbaxoRgwew5kanadfO1SNOAsHhwKC9dO5aS9J7FC1fb6uwOr_bu7jKnGQldvq9OFF0iB55UYc0fFJMD4ZK39GaRs3YQ
-    widthPx: 4080
-    heightPx: 3072
-    authorAttributions:
-      - displayName: Thy Vo
-        uri: https://maps.google.com/maps/contrib/116318740011249375328
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLqQDSNNWv4qx6zCTFPTTQUVLrkXwvOvacEXTKM7UGwLgSPhw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnsdCqGQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnsdCqGQ!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
-  - name: >-
-      places/ChIJIba_kAGJQIgRvQk6F-Gcq_g/photos/AeeoHcLyInOLMYeJWAwRalaxtyCl6tUXDp9zNmH1fizvHG4vkDoK3dBj5L-H0sjDjZwrtfRLAXAIZHXQ5o-g5xaR_-VsOe4fGsweDnPl_1T6QfY11CLQaRUXdCRaZBgy4Pmh8zVHBwGOiqbF_hhZ2jQZjxKIMTANjGj4ymHZWeH1ElgMrldk49dM81N9v2q5ggh74yG_fZHiSBuVYhoYLjcoMRVQpW_HIMzYRujxwygtBxWZzqThc1M4LnDUfOx_yyYWPdd2Gg77k0PpKEtMUY5ToCyV0qWMzMtAIlOrRFU-ZP5cGJ2ph2wmNENA_yVQwJsjTLZjd__kTw23DC6MzgujoU9ivdZHOHC8p3KbVzPwO0IszzxshIBE0hNJVoRBmrCT25bCUMJDE9IPk3lHWlcm8h-0BGhBYLEggHuG_cxcTYM
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Jennifer Sobocinski
-        uri: https://maps.google.com/maps/contrib/104745983785032566780
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW9ifs9vTmNxt2mf9kqDILCQzxMTYpM-agMPPoByVr2i9o9Fw80=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLlMXkPw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLlMXkPw!2e10!4m2!3m1!1s0x8840890190bfb621:0xf8ab9ce1173a09bd
 address: 2335 Miamisburg Centerville Rd, Dayton, OH 45459, USA
 street: 2335 Miamisburg Centerville Rd
 city: Dayton
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

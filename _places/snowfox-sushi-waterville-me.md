@@ -13,7 +13,7 @@ description: "SNOWFOX Sushi serves delicious sushi in Waterville, Maine. Try fre
 place_id: ChIJM8o-SvvlsUwR5E-v8lqa0NU
 photos:
   - name: >-
-      places/ChIJM8o-SvvlsUwR5E-v8lqa0NU/photos/AeeoHcIY_rCheILxQI2gVdkIOp9kZ8ROdI7QXHH5CFpDPpACmY7yRInzWJztQgh0B2e9g7yWMsxAWUbtQ2QBo3ayxsyDmqkhS6lJU8qZ9TuYO8aXylWBh4wjX-eLlQ2eapSq9PmOmzi9i-C28OoIaLD2-MT-57QhWsGIx1iZTJxG0wtKhXBxVJB0BN2b4FycsyHYyujAdYg09uzEhaDP2QYxct9unlSN8FsvmMtMtQnPHd35PNVSR1lLkHsjVm0ZxcCeHXddQHjsteNTASpnzzU6EL9pqnPOrd13rOyh0kEdRewjciz_eJ-7OXosekpEWYnJCEeQdUclaHLQBrXgKEDoJ0kR-F1vyqvXYTdu92If4QIWlPQpyGFW7L5AmgBmzQwGNYFH-etx_pIenSFkrUvAU5Hw-r6a47EK40bCQCmlhSMQ5WynuopQNbcViZLL-Ut_
+      places/ChIJM8o-SvvlsUwR5E-v8lqa0NU/photos/AeeoHcItkJ_MMM476tU78kIHDF7_elBGYmofTT5mZNy6NtWt-MACMEMW7daZ1OgHjGg4JcGX-FQhOXrnJrfD8WYDlnvLyGO2otTZ8V-W1ltdCFYXV3vE4gDRJ6DiBzwi9-aWFIGPuzC2jULAeTwW85OvwCjir0aFNJyWXW1MTUHhjY7p95Ufw0GXhTm1MpNnsB7d4peOxO2YxZ8rj9aA9e_fnVh4yBjavO2BIQF9mzxYnL0iIkiB7fH69ubRM33f6GdoqnZrrds_MNF6PQc6qqVETJP-j2Cveq9H8J0ysD_-W5g1JhTmBHu7teg-tqZKIR2LKYydha8xZiCHmrAyPJCxipsw_zY7mryiXOHwgAhvS0XgtHi1Q321eoA4hpiqEtHojUPJN1dLt7pabAtD7sBxNYV0rP2Tjlqgqnpz5RswB27Am8l1gDCreUn0WMxda9wk
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzCRwc5mfUepYACtXN!2e10!4m2!3m1!1s0x4cb1e5fb4a3eca33:0xd5d09a5af2af4fe4
   - name: >-
-      places/ChIJM8o-SvvlsUwR5E-v8lqa0NU/photos/AeeoHcIoOszRZMHUnOVzm7ZRxve4h6ge8XT8AFttUdMpJVUQdn0xKPHEYYikqSftvSfy4j8X3RcVGQCjC6wI_CYuF8rrvI7GMBhDbdZsm9gERCkw0IaIuizqpzIb7simpnXsw6xSGpYOCs2Gi1R-GWanCMPFqPsIVDLiixkf2ghIAwV6cRAfN8dwlcLIFdspA8b5e96xuHwgvwvV2G20rYpEm3EwyAT6WQY6ARsKk3lFEDlRQ2gU6hLM4XXLbdezWjuedpEKktlshazDnDvPrb6sekcjwwLL-gBwCPVylrWW8G8LFus_UCeiHo8cXrtko1gDKg8FdKnujzctijVHylXG_iwSF9tLjkXWNlOdBJK-xH5JY5INLgxDBIzAjAEsHAXYW1rMivWkmdwJwbCVDbFsj3hwD0igIl7YdZThlbsKsBCIre9hLvhI7yuUV-1CnzLT
+      places/ChIJM8o-SvvlsUwR5E-v8lqa0NU/photos/AeeoHcJHiKnX02fqUUK7SPvHMabNufoNliJSiTVVLTIlgd6bMgTCJ0usiwyBaeRXH5GhXtjyld-zLWy7pj6jeHV6jIeKhLGKE9NVeT04i_cbV3sYQXLyRC9OH17m7RhweaSWj0A8S0vil3CZjeqwfb2mqm83iwuAhpHzCYUZOopzsyJakOPO3sl0E8C-GTXI7m3FzpH0vqelr6NH_STofhit93_rnOvBEVYQKYMgHQPWfri3cowE6gonoXMEVxRtpWwCPJUBX8Jc3IMWOgq_TXend0AIN4qRHnY-N0pOXOjoiy4AiLK3BSdEhr1asdsRZm5m8XV8w6oiZin0TWfEwN14NZuztodLEo2G2AaGFqhSRxCMllfeYNvg9PmwHGm83U5fMO8f5gb6fGmW27KhDy2Pya1_cuilmMyB2Q7vCOfoqb--n2ab0ygQJctiCJs4mYrK
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UghZaK2fUepMACS50!2e10!4m2!3m1!1s0x4cb1e5fb4a3eca33:0xd5d09a5af2af4fe4
   - name: >-
-      places/ChIJM8o-SvvlsUwR5E-v8lqa0NU/photos/AeeoHcIC_Ma5hw_pluQ7xp8r4eaXFKrffr_bplB6T32s1XoLJTytCmXzSscb6fdU2314ht2fi3em2mjtbcsz9zIjOv4yAtanpctVLmJHIUD0Y0iFLubdO3Z2e37iaPceZkVtD4mxrwRQ5_0P3MjyN2Fxs2KI1JjDWXeAkqPx3h6ZOgKaSHLmTOZaEUBzX2i9Vf2pq7TaSxAr0ZXbuowp9qftoNEBGVSkHvIkCNaA-8veDuWZzWiicTN_5PmARZjbQg3VKZCT88TpGV-nILThxGc7or9XHdu4DxXnmAGjCHmNchGXZQcgA8tbcAE_uYwgqcctvBTl9hs73Doe3O3T7pXxoyFpuHJ6HNTESL1i29KaLbALkQyW7yXFnR3cEgCsFufLp7t94aUy6--srlVsMS20nXKwPXMNe82-howjztdvA2eLi2vHic4MZMLy0PLp_iiR
+      places/ChIJM8o-SvvlsUwR5E-v8lqa0NU/photos/AeeoHcLPC-HHUAdpn9FDJjnqm3UAO-RG_LUp5MwLNeeF1sYdY6fTtJBec-GmqarPIf4Tg6VI60Q6Gyt2aa5FOjr0H1f1MjVOO_2uSGQxPk5sXfUJbG7b7SqEsAZloIvt7KiI2bDVdsYQJZdpfFNqyfwfzy7BduDeiZPjYY7GC12KCWKmXFSKYzG6BxQSD5SfJJ1E3iJTGrQC3J0VHKIl5kawiPeurNv-o35N1dDerzxkGFYL91Bg7XC8D1It6Q0BIykVjg79g4SScSrcjEyyfuBdDOCiJMG5omcnfyPHTOByZ8_QuuIGKX4vW4Eb0V1-sNv8l5b4xMSpat3dFF6JArD75oVmwUfnwUbsIOv6JmtlQLXpcAJMQp4rmesx1MkCKwSx2ChEq-SX8jXNiuZiodhi6GIGZdekVayAO-AlbBCXUaSI3oIQ_qgaNb_R-FzI3-uO
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -117,6 +117,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

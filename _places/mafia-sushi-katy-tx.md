@@ -13,20 +13,33 @@ description: "Mafia Sushi serves delicious sushi in Katy, Texas. Try fresh Japan
 place_id: ChIJm_F1h3MnQYYRmI3bUxJ8r2E
 photos:
   - name: >-
-      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcLtHIOQt7QCxT249ff_kjwPDgzPQ6N4ul45NenBx3lhCuw9F2ePAdJevTaI3gpiVENGzrMj7sPxDO3W_MbRO2MHBxBu9bWJsTgBy1kXkWg8AyPIF_jI6ZhwcjV9VhkIRdly_muxdHHZTl2C2Zwjn2ZWkxuGwTqLlDr_2BSbXuwRNtVWUF1mOVgicahejNbzC2tgco_aJtWmWxeEjqIV7SEJ8GKJZGjl31XC8Nsy_04eggIrYcYR-W_kh4d5HPBsQygqOZFoIwhQds4pHkWroljOc7ZGOAj_WxK1Gv_9Z2JgwMjcLynojjeTggWUSxCN8uc3GnncMo9JfuCCcLepj5k6nCmbriOeTz9Wik_kTw7bEWeuUgINwe0YWfV5Vkr2D4BMas1pXBvXa2HZqsRdXjGRDSr-0GjSDhwpEA6rKX93hkp1
+      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcIPp6eRxo3zJThV5Jwbca9d8OAIWEfQhH3c-VSbN8l9sJHV3GjdsVTX-VyrP4iiVOmaQ9V7djF1jcHikd-KYKWzLc3mRd8tLgFXMgtveVDdw4dmpH5DoWtl06zP9RS4dlntQQmAv9kQvj7Mav2IysXKuKa8wxven11-AOrQfHT7WFp65lTNptQ1iCJLYi5XMdLU6h8CYAjFDC8Kr0kGniRLIShSWEw_zl1i85oy4yFIh5zMfPQY6hyUi2J9Gc7lPmna7UoAvJ83_wscosE9v8FRZ8tECz2XFPgPgEoX0TlTZUmb8CuTyQP9xprmvVTDRqo-sFUCDTbJ4dYLeKHtgEiVq2tqW8wEJmGrrFmKXWqVURPL94gy5MdAEE5TNajgu9slmNcHQMBywKTGaaZnJRulVsrVclkTtlkBvLnonlQVQA
+    widthPx: 4000
+    heightPx: 1800
+    authorAttributions:
+      - displayName: José De Oliveira
+        uri: https://maps.google.com/maps/contrib/112192440650014428902
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWKWDXvRowA66Ayi1EC7Eag4bD4gwCgd0IfboiUaqrsok8gsuI=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh_PC9Eg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh_PC9Eg!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
+  - name: >-
+      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcLMW-FTZEnlRWUja_q49eFzKQj5tfw_2FqKO4UNEXliG04uI0SLneyDhrnqyV8hmBAiJuBy1CwTwLmVPcl1LOw-dgno1tSuGdm8ueBBpnHqV2FZTeD_JwL6G9XHm99JJlr-ngrUdP7va1wAw6moZ3HK2gT17OG29mvPBquxt-DLgJlXrID3jZyFNg7x6Q5LAI29q7T2cxFChHkn4wOfJwPczFob5s5gCXSZG4vzQ4eI2HkHxa9MKYcQk8CGt-AX5LLdir4AfPnKVAb2mZbfHRWDY_sF18hzQbqxxL6CVqRflrKyQR7bhIsu4Hzg5AAp2fNOIyy8XJn00GCSySgH3CipRUavRxcb8r2yj3iZErQN4CB2AU2RP9jU-PDkTAOIe3RWcASNfUwiioDDqTW9UgsRcxJQIT-w95bYzKRc5kM
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
-      - displayName: Susan L
-        uri: https://maps.google.com/maps/contrib/116214086628380633048
+      - displayName: Muhammad Ahmad
+        uri: https://maps.google.com/maps/contrib/109818670909163825740
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXsBQo9WoS3sKsybc7qRJaHJ22fY9DubC9kuuSy8hjsDX24wc4X=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocKcSJqCsk2p1x7CYdU3hgkT2srWKNwAYlvzEGJiE_xojNQ_bw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDuzb7awwE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIn6eHaA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuzb7awwE!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIn6eHaA!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
   - name: >-
-      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcIfvDnJnqYU5vFBpVf68r_4I_9MGQRRDdjGZUJqBkhFiejal_wGWZ_2hQgzKoPiQAI4b1nMrfBJtgG9VvpKtbMfZ2-wt4hTH9-zWOKjaVTn6xoZrz6bO2SO-3BnzrsDdYcK0rHE0HGC2hvD8Hayw9mERQU4GRYoAniFBITu4az1-eYT7IIOqxWQPQ8Pk1lwNTibOK5kwP-jtt0Jaiu--5SRJW_pgXRt5mXi-ocvsDqrb1VeyW92vkuEo8R9LRVv3A3dOw7qppqoSBg_uTzyVxDnMyzmi8wxWy2Jt645XOT5-g
+      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcLl2wO1XlB_wvuO_LKP-nMwT3BInLqGL_UsxizR7oHDzNbMSOOLX_8pS02h-X5_EUsSTdVKtoZDDZJGqGo4PIwG5-F20IRkLZz-WX0C0lPdOxOuLL4ROeRf-BQiYh7W1INsQ5G0_Pz8j3KbaIPJIXFvGDXNiYeoU0MooyX_GdnSz95JPapaOPe-ODMGD0gBczsAb8_suc34IB4ReHusvZFvesLRKywqWSVFeIONpFxpFv8Nrs6JDToXqUge1nwXBQ9FUgaSLlu7NRVqlUpMFMimXlff7C0Aamtt2FZ5gR0iTA
     widthPx: 2400
     heightPx: 1600
     authorAttributions:
@@ -35,37 +48,50 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocKMvkC1iHFLDjC7WU2SfIF-7cHn3Env735yuephiNFbfzJzDA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPmRBGCkwH_FiQMiKJ4p2tjRkxL6_xm9h7E9jeh&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNboaVE5j09ID7Lgm0dWmQ83zPySi6Q_lSIIcm9&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPmRBGCkwH_FiQMiKJ4p2tjRkxL6_xm9h7E9jeh!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNboaVE5j09ID7Lgm0dWmQ83zPySi6Q_lSIIcm9!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
   - name: >-
-      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcK7kK4OAWI93U5duBhZsJFHIDGpjnrVocNJtZrzUVT1Y4lnM6vEKt8NucIGsMTgrjzvxp80KdbkrDOHaZxX9e44M7dL49eFwZNLZqE6g5W0KDJi3T20LpLHeg5RUcmLMPll48811PguI64IvVMbA2RiYv31KBMtseQXn1uehbfyu9kzVRyoQ33sTjUrYJDIJzqI6kOaNqZC6LxkOIsuaan-CwL47HZdvUwm8Wg4LrFdPSq8BcafSO0oVthQ1bV3cSX0TVnqYh7zFiLHMPrcQtYVopqoFk_CxK2zdymB7RNGyBxlfeCRgHBzoDoAYG3D0XhLcje_TkgoZdVXKIGDbd4vUYc0ITbSpDKxTM-9pWP8OSRnMi60EMqY8ljy-LBdC4RPAJyx2qlQoHlmh0r5JrMdbuVo2oRsj-ZXVInfo6AZjg
-    widthPx: 4000
-    heightPx: 1848
+      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcLM9c_KavNgqZia9m4aSzuFlufWgyS9tzuzvFeVi1IRC49kyHffvTae_lhSOVDjF-M3-uaR0uXudiMQr45W4JD0nCLEcZekuwaJglPn7sn0CvNPviEVGuKWDKrBMx-y5XVRAQSYcXGiZp7cJAYGPKkR6Yc1HsPCHiCurZG9MbG5BQ7Hvu0S5kjjXi3p_oc8iKGYXffaYkEuNvfGcBDSoP8hd5P_I_QnonZ-lJbSQeMIhP3iOwtQfcbn66KLGTU4cQcJeFlNiwn2ZVXwBleJmcVej460I9fn08TtWR32TlIEuVY0NQijT48eFNtks7NrMGQTVwzrMsBTPVZlMIHxB_GEulm5iYRjEtlaxX9MIUyl-5eyISJbijNI7RymGcGwjGXhDfaRwhx-_jWEDcjapmD7B2TQBVtQ9xIoAkykM7_8g4A
+    widthPx: 4032
+    heightPx: 2268
     authorAttributions:
-      - displayName: Quy Tran
-        uri: https://maps.google.com/maps/contrib/108527758875592332640
+      - displayName: LH Tam
+        uri: https://maps.google.com/maps/contrib/118285924649530968036
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVHg2xi25p-Qf0b-K5xnjHam3zvazWeBlMIMgIUBy_H-yTlm80GbQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUkxeJNyIBWK-OJaR6tXaKYI8GdMShXYgyYVS8eXFtRuK1yCbk-Yg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw0sz2dw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCoqbTF8QE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw0sz2dw!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCoqbTF8QE!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
   - name: >-
-      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcJQzxXbvl72Stl2i1X9jXlK-acuGnR2_SUwyq0NPS_bykZJpfjTHy8TBuovaFo0T0gzrfxU69NJ4ChesGgrZ19pdeFRLtpPkqad3gu0BGuLMQtpf91gZ_wNAR0d6afF5mrxSa89crxbxH1zfPXFUic-3VLeHJJW-nIlBn0b2x41U4VSDRlt6Ai7VDdSzj_OcQJnRdQYhbWo2MQf-OJGgUehjyqiV0syDaV2yVa8M8PCLkLQtYAyiPb-OcaivsT76-yWyxrkdSbXvdm8IK3HeLCDxw46h3m2tLJQy8g_TscY_LSQ-aezLLW-KMwJa0R3kS3XYyD8r13YfgFckjI1u5HeCKjudXc-qwueODP9HRjMW2g5RUcStvBDVH4_grhVjJUJV3qHHORnhPGFoaJCJVKnVbm6BLp4pVj_nQWbgPI
-    widthPx: 3390
-    heightPx: 1678
+      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcIRyo9HZ1kHU7c5T9lP6pLaWEfjY8z0IVbYk9J3BJ94O1_khBd0A2wZp4GwrE7pt_Tt3gNko-rpvghpOhfxeWYnxm3nu-ZaORMAot5tj_Lc_l0Sn-piqMqXJKDGsOhDn65W9HTgAJmhfgxBM-0N1t5Stj4CSRwIHPzBHXkk7q6WpVXt7qQ08beUKOtmG2kfW-NuPP_0RuDELRam-6-Kx9UYpVeNmPWEUsfNTcWxMfxYV8cuRpL0Z3cuWvCFETcPa1leINYeEtGJq8J6NZb_H7lsdQBWuq3lSaG51N_dQn83FG4ahMwqV5TS6kWKfhOALYgncO6nlb22RfEqgg6v-bU5oFAYQK0EvfkWNh5VsWdM5BabOeSZ7p75EzPlSd2VaR6Ltn2zFNFNSrZVOIaLr3qGeqERk7uVhMw8ATIGGagRxM3ewnU6RKOIWrOXeUoV
+    widthPx: 4032
+    heightPx: 2268
     authorAttributions:
-      - displayName: Jess
-        uri: https://maps.google.com/maps/contrib/101436533292088682968
+      - displayName: LH Tam
+        uri: https://maps.google.com/maps/contrib/118285924649530968036
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVr6YlfeBm_c0HGD7yi-MtAvuV8if1v3ZfcDEYi7IvYk6gDragD5w=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUkxeJNyIBWK-OJaR6tXaKYI8GdMShXYgyYVS8eXFtRuK1yCbk-Yg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTotj5fg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzkCXwvmgB0KIABcGw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTotj5fg!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzkCXwvmgB0KIABcGw!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
   - name: >-
-      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcKrrHUKD1fxAfybLKIDeywCZogGVttOWa_h8OzPFyOqrRfGzDneLtpXZ2wRTaubh1xLzNBGiXb49vGo4_zizMpxxw1KE5_IJeGMBPoP0LMHYr9XNRFBzQ-Bg_4hGYhvCPsbx7QlXTc6B9vlG6WssNq1NVDTfztWox597Q8TKlXcvGUZJzBV7HuFrbkVV9Qp7sH2D96fc21tMW8Kcwyvu2i5pMMhUVEeZMNgUcaGXY_JFqRG82G2b-blXgsjgo2KwMBayQnql931i7He1y0PkxcfU5poZbBjZM9w_SMQrrhd_-aE0Un94uf2ndm7IJofscgcawScwF3M53EQ830okuS5jKtQtBYqZ2Cts32l-tUmyf7HkxObYRVIgnWg6BkycYZ_tNZ3AOZYgq6VxxEE83Zegxt316aitGC5rZ024GM
+      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcKSzrKDYrDOVFAptseNFfJ-Np09ll0E_ZDYGxqqk0c2E3tWX4rpxNhezb2Cr8wtkk67M_oIgZsXeRHLU-HRpD2oDnnsMWg5Gkgxey3JvveUzSsZUJHuveXMKnEd-nLwL8h2KmpY7Ofs9a6JjclKzil5_QUPzSjmKtot6eS1YJM6p9-CkPwouMYu6hubqsWXH66nvBZAvxyXJFgZNwjzwCKYKoyG8VF8hMaRNBGJLiyqDY6YxhpLomaHBJtrMRZgIlFZgwg4LOpsJqA2TaKfoHOqXFzNe7rsWZqTHty-YHj26Y57tH3S0bx0AVd3jAKgHaMTCGwpP6pTVw5sKWio8TVrlOdJqmI570A-xN0DZn-VgJawkrjDOfWZaJZfgo1kNVzdITAj4TbyC8wYaH8tyXZvXLu1yQzNlywCUsj0N0m67Gee
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: mikayla williams
+        uri: https://maps.google.com/maps/contrib/101590525079617478934
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXE_l4TqIaQ7FCDwHieYcvdClAiDsR2eosmcPc4wovrfArtMMJ5cw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICH4Z2SiwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH4Z2SiwE!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
+  - name: >-
+      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcJRYmuFgwJ40SE4umeBHKWxqywG1PgNSKsfQB4fYbRxSUCSfqspwMzUQmY4KhgGg0dt0UCnbd6dTBH5gi5RS1AFvN5xFGCxZRyoDXgPv1dLiqyjiYbRgptJB-qE7dF9frObblnEd2p9Y4z4dhZqsT3cGI8MGS1pQAp5K3NvyFemnOpPS8_0hqXdUaU9UJDdM1DsUPLNzDEUTJKH5nLXxGMSPJm0oqqosKRIphx6U0lmuhz5JZYEyHCnB8sHUoZbRvzc8_zdb3t0r-vhS33xytoMZab8mFu9d6As2npmb1Wv3S7v3jO4o4z-u3tqVCnnVwNTjk9mAXaqlhT2hh_5if27dwBMxUxNloU0lrnSUSTVQMTZ3TwtQ-yoGNlrxOzyl96PAZ1DLE-4BkR5GiFtZP6NssjgaE863jBs3_JMu58
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -78,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI7Y6AEg!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
   - name: >-
-      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcIi0riqYu9_uM8anQKuYTziIcJ1K-atAGNyKFG2jgaU6OT_A8jOOGTpLd8VR5xn4_U-YyAsdfYxgtThKrcRgWDaKfMs8UWrPSjBEJ6Av7KQJX723ANUSDsDMFADZeLMEhu22YClNr1fGENP60sYbDIvyLQy7n4uaYS15cD7y9KFuw3Ua4TxPhaJS9WFXfvKDPeJQJq-bxhFdJr4RllFKvsS0c1m_pPH59HCh_rwaKj1l-9mtotBGEA6W55Zjg3yQ1oXo3O1N2e-K0YBAynriKM64B00Ll961-6T6a8BwT5Ik8QVbWtri9g9Hb6yaascPT3QSdFgYXy8EAe0uEbCSo0s6VbVf0gypDVJ2ZvpFwlaRm7sPFSyqBPvnfnvjMwTR-jCLROwGWrl1Zwb_9JWiOIfe93vZyT90YMXGWRlrMJinQ
+      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcLuhMxZQvMqWKFsROC7VKf-XtVaRR8JQ66X8amk2DyR-UE-8Y9M5hTeUaxDNPzP7OqAcbNXz1d77hbpea1rDE-CpGcXydExiVktewLJmWZxiM5Q_X-bbRdaDlSUWMc5wv74wKrgPyvmLBcatzhBKoJlOyXsbMG_bZCC-qmhoKdPIXzyuBMwxs0dvSIPF2slpd2y9pjSoU6EmgXvADdvTLOGGbQqRyzfcibw1f8-bEhGTp5SQzewUZOn-_eOMOEv7ID48lRcPpP4X9TcNvieGljxqJ8PdCTrrTLbjeJOTgo9vJwehCgppol-NH84emGfVJ_hygFWDXTnx3mHreAh-VOkaQBbXLsiBaO-sL6Iw7Swhq-wjBkSGfPH8SGfiLPmJi4P8r0LAXhDFVXNSbZJDIS4p7KwO6BGlAruUIJMvAW_tw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -91,20 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn0anLOw!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
   - name: >-
-      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcLHLWgorlb8EoBVlgUphB5JFyocfMcFleBSpuexpUqllFicTjCWvw0R4Z3w2uz1fgXS-v2N1HL3mA2yR6UjY-41PsETF3VkVv48P2SNFHNZDy_ceQvEQkFM3gkF5J0W8GHZcpav9jngiBLShTkTmW76gHohougwplXmQFU_F2J1q7BuRC1Oeko7eKumrDrp-trzRGv0Z-HkNE05QIgXkKhMIVPOH3Hwl-Jh9oVS4-2ET_OjaykCvb_iXXmpFtljlRm6oCQjmJduDAHOkvw-xNY75rbFWiUmjJSyy6Y0cNbfdGMb0nd5KqqC5wwuDse80WBmr_ioAyTD5CzFinIakMGrVRwzEMyFWyv9P-YV2T6OBt5Nq9gfS9mL86D1W6mXHq6KZnQwVyCE1-oJ-UWBhWNALdciVqhdgLuhiAfTJPQGfT8
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: amad kafarani
-        uri: https://maps.google.com/maps/contrib/117318917915374508742
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV7UtbkZgj2rNQQjhj1-PsUWeeHsa2oEakipAYmpZEmBq70W49R=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7nuHaiAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7nuHaiAE!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
-  - name: >-
-      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcLiZqcW4CGMNZEZdl6Zg-2vB7aoebKbdsAnSrsAoHHY61v-_dD4DrBVvwGcu337GcxkHsdO_WlxlIHHMJP-TIseBOP4uR9RfNyMs-cX4FDSxI4lw_A_9Ij1AH9128hT8GvyhDwm8QQwKtcb28otHBUsJnJFfOzlH7bKAXER67F-CU6wZVRPy5VMM7BidBfT87mE4axMA8XwKc955xq6FVxD5ydN8Hz5Rx66eYUhDcZPVXmzcCHmRyHu9zNVV2ZgdhiE9etulYYiOeFuxbBWaJY3BXbOVdxU3Oqf5rgJ-8CutQ
+      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcKhIL75gkmeA5RErycM3iseGwBy83AopjHE7ErcS5bnT-El7fbZip9QXTRKznqeF3wU7eHq1UL0VmzDGqAj7pu4IXzWichzbRGdbiJJkVEW_q_WWiIJufcr0jAHiizCUWkIGZVbjWpZceKzqQefBc9gmJVOQfOxW7dEDEvEmRBoDD3g5wqd6oOjHPnqIkjHMICCIcAVlPo5Ddu_Nzivk1WN99iuTd17tfMuFNUzxl8tiOtBzSviTHicSev2tTurA5_OqLJEIJjmRONWR9Ar6Kag2XI2NmFNINI468aZ_jYdww
     widthPx: 2400
     heightPx: 1600
     authorAttributions:
@@ -117,31 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMCPvQq5XI0TEy0F86Aiu-doWJkgh8JEZgNy5av!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
   - name: >-
-      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcLsUYJ5Pt3q8MfkfmABb6QS4WaQzcwF2NTG7nRc77nUohHCuIFECWuhznkjZcE3PXaAkaE3_Oi_poKPAYzrf1iHmL_XKRpJsfvgq6VQXtXt5NCcDHNB6OG76wJ7rziQa3ZuYkvuWMYnbTdw_7dJTjoJEsHqxklLFaAnKof42c1Z4tXMsPmvjaMsdHjcLwPF-ykES-ImYoBUpJCFAASV5ldd2JcG1xupzEYCxisu6UaAVBlRj04vf2ukzA-yV2-wa7oG-Arq7r0UVJ4pc0PJpLQy2TrY1BtpV6dQ585aLOV3Uw
-    widthPx: 2400
-    heightPx: 1600
-    authorAttributions:
-      - displayName: Mafia Sushi
-        uri: https://maps.google.com/maps/contrib/102154344184594417020
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKMvkC1iHFLDjC7WU2SfIF-7cHn3Env735yuephiNFbfzJzDA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNFHVCfq10jQ1IJaOc9b3PgjhAepkDYTKxV8jCe&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNFHVCfq10jQ1IJaOc9b3PgjhAepkDYTKxV8jCe!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
-  - name: >-
-      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcIP_5y0eBbc9aCw2vEp-pd5vbhsWQAuIE82ZrKx1_4S5ChQyYwk6BtinWyJcS8atxRj2BDrz-7_ZmehZSRZEdKY8XFz1Pk7LmqUC1dBSBq3xdmzwM61NFedjhXza66OGHTxi8e-pI2Kog-c6NwrTxyTvFurxE2KlWcSC5GqEUUSNA8MpRCY2ADFKrloJvnxJqICkteNjBCxssS0Uo_fagaFPJ9ZyFsRtj0V-kuxu9NVuF0_J_Zl67ZBDiLY01nWvVBHSgnY7jEsJTBT8IYjWrjGe_pASIg8acyb1D4aJW-ZEL9b8h6vHJPv4b7GFMSedp9O-5n4As4-0CwdtUq7BZeujc6kZfmXuHrvpCf3OYqHSSYlJkxVirnxPuCsfpp1HbWM0b1rz4Naksh3veox60uSx9dKZFpT21ls_Hg-7QRb5A
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJm_F1h3MnQYYRmI3bUxJ8r2E/photos/AeeoHcKgxK5PecRw-8hBIGhvT0QocPeBRaSWG5pqYMl8ij1yzrWb2jHx4vYz2iUD4JRHSKIGdpORmy8UEk9Yes_axfIE1c3J3Kk5dQM4oaRgRAPmi0FGe0OJ8A_TReOsSJJ2B-66gjmgFUD5IUDeq7Q_9MJStOk1sTrMLaULzS85p6yIgHahxd1LYGKMnpHUZaDtSvfGFYX4Ii8xMI9LP78rF8mbibmdNGbWSJY-YU0xqMFq96SLjnI9K1mWScCaYmqB4VR5aPzh63xqS2v4kfI3A9y4GCF1GXwc7BM5sjeE8KGx6pPIUgfXwqCbIYwqso83VVtELTMbqZdeA9-vhi1bfTfj9V9sOFJNI4DMiBqX8Y5oJY_K-Ou2lylSscP-8rrpMP8xXowgyQTygVnH9qTUhJNVUFqYxu4bEMMynVLG0XKhi6I
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
       - displayName: amad kafarani
         uri: https://maps.google.com/maps/contrib/117318917915374508742
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjV7UtbkZgj2rNQQjhj1-PsUWeeHsa2oEakipAYmpZEmBq70W49R=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7nuHaaA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7nuHaiAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7nuHaaA!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7nuHaiAE!2e10!4m2!3m1!1s0x864127738775f19b:0x61af7c1253db8d98
 address: '1321 N Westgreen Blvd #500, Katy, TX 77449, USA'
 street: '1321 N Westgreen Blvd #500'
 city: Katy
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864127738775f19b:0x61af7c1253db8d98!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 5:00 PM'
+  current:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 5:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (281) 676-4464
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.9'
-rating_count: 648
+rating_count: 0
 website: http://mafiasushi.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

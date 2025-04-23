@@ -13,7 +13,7 @@ description: "Poke & Roll serves delicious sushi in Cuyahoga Falls, Ohio. Try fr
 place_id: ChIJi8fFfhwnMYgRPQ1HLtbMMVU
 photos:
   - name: >-
-      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcIME_x0z3UiOWWx4yInhgy7x3GLF2JVGsb6xvd5nbLvugx4dN_Bi6ZcDow8fWr-A2GCFcA-Nl35pyRJbZ0NvJqxtVU0bTOB1kemIfTEFf35x4jNhm58r8PqeVWDHqkcGrdn0gzqKlUDkGkydNHmpUUIRJubf70Ud8C7Yw12V58Z1Fo9ZRvbcdSomnSkkTwLPW6P8dHEldQUdfEr5wCtCKReb0DK1ffgtd__cDi07PIVL0Kmh7vyF2Ure3nbsPuWRs1qPAwVQPlfA5PeUYOBHp0lNoP6jpnhn5JQCFuiZzK0Gg
+      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcIsVpvROTcFIOsFKu4M_JTRe6iG1_eCFHtJScnIslJY58cTL5xl0WuzORfYEzM_woYLuYr79jAoNd4zHPMP6mo7hLoQXhfeisqpOj3O8nckHRDdoj5vLcP59CterOhm4gVKOlC9uXVBotbmHMiSn-a4DNofneKMhoyi5K-9uR1sJdHEmYq_XgOT2eg_gs-Fm3NNyjWc06iO6aE1-OrPGSVIqShxnSMdTLdYy-LgwbG_IBbLiSFq8Pxv9f_Z2W3UmY9O8Ood7NlYlf_SAHcjNqZ9GZrBfhwVyQvUPEjyzBjP9w
     widthPx: 2048
     heightPx: 1152
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNI3cm8cjxW4V2SmFQPIntKmVzuTad5PEQmiymu!2e10!4m2!3m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
   - name: >-
-      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcLLe18Vq8whZLII8dMmm4UyC8PAr3jlzBz221iytypgBcox8UjrRG3i1csd9UB6Hu2beIFE3a4clkLi3nRLkGcFczi7dN92P4fIIi02xFtr7EdmreMDodejsxK05ZZvNRjlcH2f41YOUR8OT2wf9m606UHHgoxp5KVIj8kUxbX7Sx2qYUtjlmRqlOARzAXeAwo0zlXy7GE6Tn3x-6EJvpXocpCcUKhOzBGVyGIpGgh1K0DUbbivrVMT2EG8AdjRqRe_hqPjDI8-XoFugq2j3cF77jmhL2sAnvTrLNNDMpwj6A
+      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcI2ldr2wljg82Hceokj12irFyQO30c_GTMV1v4LGiwDhpkuxNs18SLxXOVH8b7WjnMWpTWKCZWbjltzpVwideFgOiVEVh0Dig8khzkxcRANBb8Q1TH9FoXB62ldSk1TEEm5YcXXL2v5Ggcw4wOo37QBmsS6wSqsJXFAWd05K10WHXA4KoFcxbXcEz9jXxbNy9hjOOkJx7LN83aoVPemY8XWrZvo4Y7XAVMThUzsgWpnSsMsgYNz5Klhn0UrMSp0PTnwgowr4Gt48bocuDEtoNFgKaYJgYePkJSOVTAMwZR1AA
     widthPx: 4800
     heightPx: 3091
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO4TB2XWHDF8bCaQySr5rz3gNbXSzZ40NY0hi1c!2e10!4m2!3m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
   - name: >-
-      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcKUBcpUKu-BY-MMtb96bRSqyYj4mkGS-0iFiC7PGM-vNi7cU1nDuiD0dW3ymPUxUF0ARHm5jlKTbTTQvmXluPNKqxKo4DWRGm5Z5VAIA2mD2yjs0AvzAPB7xvg90oZE1EveOJcVcL4CJtPXehzFk-JrEuS42tak-9cUYpr5UTOpyMEY754VtDOgtS20_cHBxb-1PEZ0YBeItNFJkqcPwithoDEUZDjDcCPjub_yOnDS6_Mfj-KhjgOBZmzKXVuJq6Eaw0_y4GVtatUitg0OjjslrFFtQH_OzBwAPAH4dx2rmdxG23hpVm0ReapaA6BTNMBRI0okloYL79CJ2GLWsgil3H0O3JLKbSGMgsrvnMQtOEdreKYEhVJM2bbiYkYEsB9_4ggC-NtWmjGCK1dZvqKvt6eWhnkGzSRwFyUq4D141g
+      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcK6EZZGxuKHJ5VoWu63UNZQQ2FYOyArpLtyxXHnT0iGjyFabHK3RdJTX97wBlYBnit2Ng-H0VtWr-x_1XTdZKD7VuM4deWzivyF2QsPyR0YkPjubauVmQCCt5jFm-1HuYU8-504Z17aMlke5aTGLhz-UMElXhGQ3LXExPLdLeyf_MM-qm966mCwydvMawnyBj4Pyb1A5R52ve39KaRunAimVftLv3VHvrdMvO8EHdHM-uKCSaTXgAPT5zcv13ArT311I7Y29B8VgHHLZtOiAhvDk1EMTKzTL5nLNaNuQksZi6mAru-mFETPU91EvuU1YKj4boast4xPzCDy3fAhrMRqWxuVH8jeURVeo5ifny6sJrRm5t10tqCDprnHff8zFoacXG9qtulvb5vRVk98jKqfEyKfd8IrchbMdE54U7LH5A
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDdg--gAw!2e10!4m2!3m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
   - name: >-
-      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcIngIqsXyHDYJ_WFCZrLRQipyoUHy1SR9YVJhNZkG4F5-I-TUXV5Njg0veaZJ6o3FmnguczSpCVPTqgDLgxOS_Cer7KPzUX1TxYib3jor00zh3lA3CL_4uy66qD_ccUn45A4fh-G0ho-H0deZNYZbTQewpUlk2ezLHY0bsZQgmCdf06hK73NF7Ge9g0KXjxp57EXw1CYdUppBXcp05vX5ttVTLxiVp-PqHzc5OkJZ1TX2XKJQiWB5lKs54J3DZKfvekWgxYC-XvsRnltPcRv7q7-7Y19hQcJTj6rFe2MgKjILS32gfGDr_te5ruk3rb0hCCY8Bm3jO9kp0Nb-yByTMdGjBZzhumLCymJ_peMdD7CPWO-IIPTN72DSVP4d1nZ9xNJHaWinSDKHhd3yo9RIhEW2A4_eCwYF3wrFabBfSM8lP9
+      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcKQmy9PGsZOcy0RkSWdG8WsvyqZcOaAy5bLv9SBwXMj4n9u-D6U3IcNvgkT5J-oYq9Ifd8RMecjUbHB9pidA98EXxv6OyzSOx6uJtvAzYsHy8MVg-LL42xDjbjUISuCfJglUNhA8P3S3a54cv6tYdFOkYsmIaQzACTw2tSAHpHyfRNGnMpoxT0J_WAfk7mkZwoLnOrk4yM38LENUQbYDI2xf865rMnB6Es-5_v9aoRYiefv6D1-bvHyY34zrmE9cTJUlKkvetHzFF3uQNjo2E05olKtusfPOVBsPoWrWF0u35WEPHhLUgFWAYZ51-EFHfrlL3_Y9BmEumikwqnP-shQ7dEw_n726ViPq8PXHh-lFhZ_Nze9lf5BPDj2cxagdh5LM5uTLSL3PeLvd9fBBsIhIUQGvpAh2dz5UNMjsxVBHIFj
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJyIrz-QE!2e10!4m2!3m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
   - name: >-
-      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcKqptcRC8dnlNqAdQ0HPf5cBxJadoVUWL8n_aK383hJk6Bh9679zt59D7xl97qQQd1ZPzFBbU5jSp0RtsNoHTrORi_HyqQRuz6MVE1DIC_hGmiTxMVoUZ7klSK5E5KFPSJYFKD0QGQkHMfEnhCHjgqtoOpa33_oSh0gAgzchHEEAvNX5-7HHwPM_GWR9cGJxUqO1QIJjRPemBuk5I-x6AhbsanH8_8tyUUCp7iQxcQcYrpQg9WJQHeG8bDJWkY4ix8Gzgwv2aJAV8Eajch3Ht4S8GG7l3uXfRPPVs-Qfv1LYF7YpyQMjW273l40Od4yLAetrWJHH5xEoUSMtYYGvfmI_UlwM0SHE2PZSGVqAwCbXxewA3d0Tl3z-6dY3DRoaZkqv0C16P8v88oS8uJMXZcZKFZs6yQZqiE5sQ
+      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcIIQTrYE4AyGcHt-_hqSat3LcuRz4vs-fvoPvhC5hhzNMauLI1CHshV3kECZCs2IooAST5xOzgKgW89dEkvCMuaCOfnwgycftJLnlKZ-zFoUfWWfgcWkDcWVL4-g__eymGAuskd48RDiUGerNyInzqUkYgTCTRNghhiyRRJ06Ewar43JUmuHeV92RDWnO4VUcY3kp0sUR5ukuE6mWaOSepuSFeErHucgfO9W1Mpb3YyfByl1jaO7VaQYaJUQXUK8ZOFLW5RItBaCqTGBlJCi-TIUlROb7T0_mA_wae7oDqmx-ewqkVQv96Lcp35JLwZfJAiGapxATJOKXYdsnZP4uVOd1fKpbBFurMROQUknPgOKtPnxUsAy_V0CIGyNyy_M4rMh5PDWygceF00I9cguw7REMfvGaIVJkZWug
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJurlz!2e10!4m2!3m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
   - name: >-
-      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcLryx94OnnwAThvdwXqXtHydNRKwyELttrg5SElpZg9QVgS0InLaK-bsMBzTSleZySUFOuSzOMXe9sWc8KVWkf5VzVYeHn04RCR9wp5ZgNNg6464K96x5-HJt03g42sXFPlJlds-kSi3kWrDgkHko5tiEGm8o3sXoghLyIdoKm3_fZkYfC6caBpqUdIdEEbtZcbk2A91vLqtZIJ7GvmTM2hW2ctN-i6UjPPBF2KebS3mxPOYmMtF6LVsJWXezc--WiXyX3WDzNPpcqp_tUOsej4B9u24EXz_wtBdFbpVYwn4p_gOYv77wSrXFYVlbV2j_r0xbTwPsdUOqoAErM1GLgi4iO42a8Ac9KK9WoKR-zwPs4jl7zcMC_iZPTKffVEzUkSOKEcSkQNlehPUcDrjEdjXk8iwYTdujA9CVyeHwZb-WbX
+      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcI7H8PGh5wHwwvn_cEyob_SvPW3pyn1z63JmKc1-toylOsTrxDHvsYlpBYZnmgo4N-2mL1anoVuRTTQMau_eAhHIb8HEWUal0qkoPvpoNkAGwwzCj2kLKpQRj3fB7zXaSleTH7fvElVkpfBw_BThhBn4M6_BrsGT_CuuNGjS-jMDZ0WZtPiwTGVq-kiKotY8nVTeeABslynS-SUCDGDOcn86gR8SdPfJ1y3WABG-DtauKICCbWa2SNI5ABFlNW8sPbqYM44tHbdIYAf71uPyUXJJX1unqQoYR2THVbBOs4CvT8RmVTvPYwJcrW4wWHix38rEOfaNl-iDu8AZ7YpNpZEFWoDuYKLaEkzKuaIJP-zGBH-D9dZM3Oodu6-hkR8th3tG0-7ecZFT3_fiDYfRMAJc7pVWGE-FNPBngoYXsYfSUEy
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrvqP8iQE!2e10!4m2!3m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
   - name: >-
-      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcKtT9BMnUuVU1DuEdeEzYdN78uaHNstc1X0NZGmZTiV2Eua2Rdvx8vVYxoDPHY1E1K1OkZWifVkETuacRohmFRFXai9UO2FNXpicR-SMjaHFv11x9xMY6WsdUIPNW1QPiwYFV-vyfEjeBCeFIJRFQISRog6loBc-oUvG_99zqaBDg9a5cBUMMdDAv7RrjY8v9xIDOOHOKsO5WO61SEzl0DzURxxHhRNNHI5MveVgB4VpsZsYTolc5v4H-4pA3FtxGj1Mm27NAE5_wOEuqfXYNwAuGrVn9KaQxqhegv05Z8o_2ZRi-kYWvWZzFeii0IJbyCUgK5KW5zbPVJL995KR_Udb7m0-qBQDIXyJRJHMbZcX6P5R7kqcFVLxiF0JKZ3JylzPOy2uXLkk9pc_Ro3hMm9bTexWEwSmnJAJFNgiUQ
+      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcJsYrIctL4UX-JjeRDMc6Xog7uSaNnJLGG6D0uNK6E87zXyH0nNPXXiMx483GBO-GKfgRU-3AhivrJO3bCUnCHMSfWLtn5OIi7r4HDtpPGQqJ9RQh32Zrefjqa5n1r0do909Vzvbh4gKSzXk-9oZjBFjZ_A6X8X0xeigLLNZPOh1bnM1ko6j4W-iWCkSsiqaR9ujalHiplpqBbWG6H2AICwXSYTOJqjkJd6F5xxFZwoPTThTW7AamwncO4PoU_-8qEHp5WnOwejBAStAjEdTmaYXJQv5aS7zw83PyVhsCuXnf9tDcgE90HhFndhVmx6-BGbsk3Gk-oyEM7TEaToX-TYec1Vpz51sGj-KUR-eYCo37KiWZqfjg4raOLEFwadq6PzyPOLS13gsOfLTH9TwlyCUroSr_GDukFCODMz564
     widthPx: 2601
     heightPx: 2601
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJuu6scQ!2e10!4m2!3m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
   - name: >-
-      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcLXc6XZiDilngELqpTu-Ramo-Gmqq1bMSMXjmvACL3biTNvK9wGbpI4-ltIRHaCF4me0sfM5F7Uwkv003bHbwYXlfjDGp3vw8YMUV5XCI07g0s2ed-La9B3mCNnCTl9p-pu6496OdLJymHc_o_3S6mq5DH9APLdnxotG3kTFL1LngPaCKW5BmckTdvXw74dHp0x6pd5qS2eUnUGlCPsqYwNWGQnjKDN4akfb7d9k3D11lF6ibjYoASwHzeQkdoFrOOmx3GHaMxmpVDnb16dqc4bqRF1XMFTHlhkQqbbgmtsqPzPXONT2pZsAg7h4q-vjGdJokcJAC4UUHcH0F-QfZwJaFmtaIn__wiQ_1GLqriTx-wstsQQcpB09SeRawKfBwrP2JaTcqbY-uSvXSzwGyX6dsPt0O9BB5kd5x01HeYKUQ
+      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcJdzs86ugh1zQascvskqvmhTXwqwcPNuMlwh9i_8QUm3rR8OLrcCU9BmZsj0bcFoy9aZ6Zel_JnFs4bXxPn-5_Aa0yfQkwrIAYT6CFBDNOB5llZonutVH1RhXLrhmkJ4XEKssB6esTdtylqswZCYzbsnxSNK43QiusYXSbiNSpbytSOW_PKSJBJ-vAqveHS7hOTapiJsC--8j8Pylzcm7sq_mWDJTgM0klmf4VYsJBkZ5PwrS7FA6bHr4BTcEkqXjNuraN8Xdl6QQ3ko30RWpEI3ELcTdnA2o5XjSZhjZHqytD6x-OeyRhF9FLZ57oqIO0T0_9WlSiBDG1BwM34DH2WhsEeJChE6oD6BwI-GdUmWzdfXIl8ntlLmUQ9ziwahGpbX0jIKHL2bap5-9P80agenGpWFWGZsSXrmj8GNzuntA
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID97_T1Fg!2e10!4m2!3m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
   - name: >-
-      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcJe0lNPe3sSeWl0rs-tu7O6HwQsAS68-bDwW9eT2qq6g8r5NmRrKpsOAnXU8aaAFrAvfgnnYY7sDV1ec0ty02f54gQW5Ye60OKZ7K9wwfk5w57QUWqeL3oQZt7e1JwniEBBWvNSgsEsNbYdqIU87ix-IadxFPLqJzK1UMZvW5KStBwleW-ebrFfcwzgioLntEMg_7aSbVTcLb-UXIVDF6Bi5UfSxPapXmdfxyrAS7UiDFaVjfucTg2imOZe340EXWfE2Y9354ig2poD50I7KqbZ2JnVnT8CEMM6KdY4yMdZp_swGNz5K6Gyw9aWr5B4J7ZD4LJZTNpa82bm9K6aQ4LW9n6U7-JNhP9ntMue6U5t1wCoBf_sSVei0znHidFhFrBXDUyTD4__ffSnj63G80FYX7-J3XcziBGh2MSt2nZZfmxu
+      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcJPHXAsIMIAPbKWybkhYD7y3lwdCP_g8MIZItESGFAgaf7GKN3LnbTUt7RvEPGMdeoG-AUSQqgcnMuVgu1hnOvJGDMkvdFwOXK8H7WBBS9mJDOUmqUNUnoEnEceKwtlglVbVfm5MLa81Ippg2Hjek27yaEouW6mOILfxnIEKy84p2ti1V7qUdoV9YBSe2RK3U6dNjdpfoWq1Q6DMynvrDK4CmBrFxsyZDFCgWeCFfwEiyDQ_0DJZyTDSvQxSRbfZVAvfv02Q1Y5P4iJC6tYRM9em1--1FzoZtAeVOB1w066j4OxNmpYfKkuo6BHi1O9YS6cntaUArGOUNgUsGSaJUrpCcmXAori5o6IxnuAkYXL2VtQS7L9JtYWSauwJMeKxNDtRAQX-Cu-WB8gixnGe_uASn2BsTSLG1w6tO-L88Ng1OsH
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID97_T1ugE!2e10!4m2!3m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
   - name: >-
-      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcJdpfV27RYtezeTRMnI3iMKxoG3Ao_nhP-VU0hwxVFzPJ10JGP0_prM_IPUztMJd43l9YaNAwvPTjqeFjwezCQVAyPRpraDjCbMHqPfzF9mK8BEJPPOE2I5fn5RvUjNkyeKK5e8l1E7BdHLIt-sRTkTjcFsa0mDOHNx4P86_C_4zauS_Q0z2-jC9ZvvZ06iiCWnoZrR4AEtb1liw08EPps4G242YoxzUprzp8kyOfi6_AiF1f77NaPbHftiMqLs_NCzaiCzutmQGqlN1EppzqZALtS21zq-VPvqo1TMIp20dSg_3YTbKnyARr_8uru7FpGB6VriakJOfjHo0GmtiJM31-bGa3MmlG56oja0NQme-QXtVJ56LukT52znKrjs1yX39xNNRGy5bWGNXjtksQvMOB1Dw-YFownUay8uSI2WBqk
+      places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/photos/AeeoHcKArgYwW56UoWw-OhQy4LZalons5sjrkmpT2q2Tz6o2x3ZWTvO5YS0KWeIWW-KIee8hNyhpMCOMPFlbSJ_j23ATeRv3VfE1ykU3KfFgOTiGXODoDocAvDFIuCh2g9sKnyyoHtJj_dwkoubHS2VAeWOd7NyHhndpJNK78_v-hvKgD6LxFan-Zf_dxAQTSTpRXyVodppwZJJol3Za8SUYBcRZSAn85k51rWJ41iQ0Rm1YwtBl4Mj42wfFgoLYUQlW3HASpv84Lwc6Nns6lKjMhHlmZw7APbFWVQyTWhe9GSUu9NeUATaoZP8fR_plsSA1I5qb7Om8W546jAiLZA0mJSJamJouOaaS93-Lq1ZrLtU9ajsduAoXMz8x77f7_xV-0Rrx8zv2EBZb_PhPgiSwvLLnDVyvE88xWUq81rjXl3KPW_E
     widthPx: 1080
     heightPx: 1920
     authorAttributions:
@@ -142,8 +142,8 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpvu_j1QE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpvu_j1QE!2e10!4m2!3m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
-address: Parking lot, 3464 Hudson Dr Ste 101, Cuyahoga Falls, OH 44221, USA
-street: Parking lot, 3464 Hudson Dr Ste 101
+address: 3464 Hudson Dr Ste 101, Cuyahoga Falls, OH 44221, USA
+street: 3464 Hudson Dr Ste 101
 city: Cuyahoga Falls
 state: OH
 zip: '44221'
@@ -183,7 +183,7 @@ phone: (330) 615-2666
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 65
+rating_count: 0
 website: https://www.eatpokenroll.com/
 reviews:
   - name: >-
@@ -430,6 +430,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
+update_category: essentials
 summary: null
 
 ---

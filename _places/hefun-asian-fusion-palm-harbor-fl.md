@@ -13,7 +13,7 @@ description: "HeFun Asian Fusion serves delicious sushi in Palm Harbor, Florida.
 place_id: ChIJ3dHw1EPtwogRGtKthTSDcQM
 photos:
   - name: >-
-      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcJObq2DhtZJ5DvTC6-e3g7IhxV0B7vTXcYkep31uOGkAh8mGoTJMN13EY4L5Q7AQRwqI5LsNeHSWQlOXpJgxvpHyHCxEylHvb2myX1PtwCg1E-IbSF4n_5SAOEePHL4rgJTKfdh7PBwHF6-lUNcp4j5Z4WbqG7pFQjZChWlJz4xBOr9rzQ1LAm-Rt36tSyvgtLLtRYS3_TPc_q0Wigum-9o9bYrcgDBNEaZ3XA9GR9PdsoEhf9q11aV0sCbf9L9gYoGHS398gB_-chjsON3ZEQodWr-dIsHpYpdTQNaCYklyQ
+      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcI0Gfbm4wx0vjLIRtLVvw7bBl0i1dxnmwSrX-mzyTNglCow-xtJfvRc8flpVwnxDdE5h6rI4X2twjgXC_U8Hmk8bkzCOunw7sA1FQTI6ExOubYG6F6obr7YkNjY4sTfJpqOhaUmIXil7rguhw22uUmEoj0mpr8xtkbh_7_etlyXNF3x9KDKCJbbPdjGCv9kwJ1FD0dl9pF_6l1-d4p7wtnC4Rct1M9YVaKxHdkXorOkj1vV8zdFMwsHP26yaQCbgmcVHJ_9Q1kgIyypJb1-WHKnL2SOr_Ap-pRPyQdklKC6AQ
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN3YHyT4PS9JscXf4VoGMNPpgfQS84DnZYyJptg!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
   - name: >-
-      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcJih-8Pwr0aaF9R7zmgPle8HqtJro05l1-nArJFaBrXJkDOY-IzjVEbQNjJp4mrb4Cjzu5-h-hMA-PJALMp6CnXqye8SsPE0pYhTaxJQ6sQk0jqpFPr3c2PqS9m_HUFgS3Fi79fTcv8AF1oc0zsxUuqeGeAO0AYt3auMtS8vFhj27_ylWQpkL0tbS3zA2kukciTE70QIZvJQlLCMzD81Dq3IPMhlGLg_y6ipvHfYpXxjuI0xZXWGbk66OfV-NKZ0WHOJkOysf5ZQM3kd-94i3M75zFiyua6zGIxOuYz7b5PxQ
+      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcLfZ3rHfHVE8s3qXq4QvHGMAvEGcHB4g10av-st5runejSKFvlRpWrX9XEyZkbYIEzkWttvqvg3OLtCEhPyQjf2CH3-qz_jkPWDNGNevTr3gUtpwM6DxCnudOzlkvxAJvOu6G3VMxzER9wkUNTdlwbynTCdwxUise9oDpebV_rqX8EsTJFJstXx3EO1GL5Yd7ThBZ2bQJ_UVCvWIxjgbYTohN8Z1XMENitIvsjOcWQnGNnavhR8r50ZOa70g55grMgyasMadCAK97ONTt5gyF0b0YHnyF7XWvo5uUPYA6hJNg
     widthPx: 680
     heightPx: 510
     authorAttributions:
@@ -35,11 +35,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUdC1NZ_Y2tOGB4DFC0Bx44lykLqu2LUdOAQNS5ttt0G308pdU=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMQKq0d4yIQKMvvvSsoo2IMQadZK-8VvjS_tQFq&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPkrt8O62OkIpnlp3ciJUCUzu0u_RT6dL6ggfqw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMQKq0d4yIQKMvvvSsoo2IMQadZK-8VvjS_tQFq!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPkrt8O62OkIpnlp3ciJUCUzu0u_RT6dL6ggfqw!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
   - name: >-
-      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcI6cCBnz6NUMtlSOk_4pOC_zEkmTkqe7rpk_yXH_cj7s2euIbBzGeEjsCfX2h50oAkgPGXYm4dACqXmOCFbTSSFunMw8Ee7NglIsOmUfaLk-zHaKpC-HWVM_8x8z-QxaC_IjkCwQ_a_TzvV4gLpeEyAYVKKA7MCX6gKll0KsCAmXsIg-abjbL8mqX_-inlyfOukfFBq2tP1XPiZzUIkrm7qreSJkj88n07Z3Qsm9LEvF2zKdJMQuCMVLVN0HEhGjVsIoiurK7AgHfmqOjNC_qAaixN6bT1y1zfkLn2LgGu_bbZndfFhwiVFgjRiYE5yqgtyVTDe3NMPmvp71XmrC5Y7oeNqxexZpQ-OebKIiL1eHIMxmZCFtDBQizEe-TOOn7z5yTJNjF59KKQOuxFlbMM_cQbwb8mzhsayJ9pKqd4
+      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcIs6uwMcV5TW6pqQz8fqOCFe3ANxt0BORP03jRg4H4QrGPrdQfqFyi2OEk2hB2NzlDpZCBlECVtjfEUDUkM2qnmcB3vQTLuh0dDocfEGlhzRUfJ7uCw3sBpp_cHU6i1PCgRd5HvvLJHqRnK_U8MKo4HQ_b62XX-NCwNEX7d6NLN34weuuHLwEklxQzHOZKMWIp5rSoiY64ZwQflrlOSyhtswEEQAoPY6I2-y2SBVblZhxy1Ry4rR72KJxqHDh4oIUeAVP21iLzNt7ZchsSpOsCA59UQt9wegnpT9AFZVvDmegahhk-uBIh0oAljri0TC0MB47wj8G-ogFzWjCSFKSYwmfbZD63hcMmv_DYT7rsM282GERVTnw3wc8iuG8kOX0wyDFn6P8UNzhRiT0LAxn7JvJ158Rh4l9LBpo0m_s8
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI0-6fHA!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
   - name: >-
-      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcJCrmSGLZHX-ARP3QKVTvjkg2aHW6NXCDV2wYTwgCzsNikQUjCDZUPA0APJ1wzyMKIwHKAcGLRXB5gkZlsuQsGmB5U5ycvOP8DOyS7llwV5jXHKM0eB1Ks3egaDTcFYfSqkkJYVDul-CFlhppBpVymVF49M4hQDZZOy-4Z48_9bfQlTZxNlP1w69u-EjhagzP82ePPVxblS-NLClcKNS46ZutV0mEUb0xfg48iR-ulSW26W85PwwWfAF5te2SfXCjtCQOOe0hDsY_oYBE1pAsx-yfkU3Y3EU7J8cZYL_39pmw
+      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcKeBCvrIHiW74eyqwQGPL6A8glryj2dB_YqdGL4D8KsTccqD7A-jeDQn9CdsQPkNSyKy8WRClp9CVS-zmiwZXvsQYVQYQPvkDSQEtUy3wBezDqKPKdQcP_7o4j0b-fNKUGn0jmFFAZfLf4QMc4A1d5D1ka7XIjXMN0RQ0m7EPSBJ95mMsxZsUMbezuqryD3oNIEPKBl0_p6JWsuft1ZemEwN-3wLO9R4RknZW-lQ_GIQiCPP-BgZpubKQt8E3eWCGZ3BG2hZ54ObARh6zzGWlMxtjhLRRNtrxXBCvOrkpXVbg
     widthPx: 4031
     heightPx: 2809
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNZx5pY_QGni_yIzpta6l8qxDlK061F8ZgSMdv4!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
   - name: >-
-      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcIRo8zD06_VvhISiKNI6PVySyaOwyh7DiLDWmzDM4NJA4faRaG_rlyWfd3424t5vALZTYUqUTIQAvaeVnVTWgUrpcSiXuA8kf00xDLJgDjSV_pG517klZSuye0zMw5AuQDUPCGVHguQvZBXzKM25Anys8Spl14BH8nSAuZyy2rDMm_YoPcCncof9wx07ftflTxkBK6FADbnti2f4P5Fe68AqIZgfPUZdAAu_BBWnTFjLPZ22m6UjbWUWNMRexc0O5TciMBwvmggBjExBLQ0a5tS4eUhayQ4-mnioFfwyivziw
+      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcIzuZCHSxLczFl2_HItt7sc-Lef8-mdtGx6EcTflzXh_l7QFcePUmn_bQ240aIhA7piAqtOD3K4YRbl3H3bI_oQzCxTQWkvHGI_bys9B_2z9ewGhti1AyJl1H691SdsZdNdRfF4uoul92GC_8EvRSnlXQHod-WO5W5wDrP-wn1rZ6UAlDrSSNhOBeB730PGCClXlkCFmVJG73mkolo6S_YhB-GWiRGWqeXBvfCAMMxe4iDZlMbuydUqR-rJ6IHBvp_RwW5dV7hrAreXCcQB-9OWmYIW1EyV6kBMIzgtTvtxNQ
     widthPx: 3936
     heightPx: 3024
     authorAttributions:
@@ -78,7 +78,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOSYjGy1RLvqy0RKqlk7-GyKLcdsbGjFI3t-fEV!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
   - name: >-
-      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcKCC_XVQhYxK4PfW8rCU5QpEr2CpD68_JVPgkVb7W3qAnpbwixEFFhAf8qP0MOX0FiZTMPVTz1CP93Tqu5JoQi3ohe5QEs7Wjifi3XRWhcU1E3f82gCFcM0mvWFIsoTY3j7PWsLAsrJi3T0JZDryDey6WLJnUlCC3KTW0rcJqtRBdqaaW3fgMPvA576ZYbVXVtmc3QEyymK39hVAGgVS4q19I9hZazn_t81Vtw1EtY4xL_kT6Q4Tg6AaCdpg6uM9lDsyy8s2CRiSiNFqMcZUQehs2BMj7yl_lqpSrEJgPvz1A
+      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcLZCBsWPAWEqC2JPkrdQWqHKuBZyUd374-cowh_VZ-iIyrivWRrzuS2jl7PR7JQnPJ9F2rjXeyA7kycnBeMPA94QYtj5cocLCeI5yjivSi36jDEpsYmL7RPqhoVYxrjnMiRENcEqzl63kxQKGYtdyWuhQt2iXHNlDI-UaemqzKP0oI89rKRX-lVl1ASQDEtKQb8ZvdtUrMqpybsDE40TplhlywS8ujppt30WXr0ogKDd3ovIaWvdaE8HSLm8fbLTEpMuZ6d4F5tbX3q6BC1HPFay8DeG-800li1LiH60NeBHA
+    widthPx: 680
+    heightPx: 510
+    authorAttributions:
+      - displayName: HeFun Asian Fusion
+        uri: https://maps.google.com/maps/contrib/108658113032725936378
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUdC1NZ_Y2tOGB4DFC0Bx44lykLqu2LUdOAQNS5ttt0G308pdU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOESmIpLqsLq0HUiIiBcyPlZs5OQjRYcSB7QkeX&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOESmIpLqsLq0HUiIiBcyPlZs5OQjRYcSB7QkeX!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
+  - name: >-
+      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcI0qnhhRnFpC-gJVC3SRx5XqUPDxBUgQYfCA7vl971zHD6glL_uhvEoNzlD9cJ9FjoqlYJAn7JMtxQsshxKnv-sGg0W-JTGrmFV3ONyAvqkYua0WXhiaHtssUaqLJZZ3DPTaGDtjgxYA3zZmy2pYs84eMtB7mW8LzpBsKp6Rcu0Uhes3cKb_zhDXhdmkDwglINg7y0HZnjghZ-ZQRoVXHAnNmblX-F8zZkvp-kWbwSNMRgNrW15g2e_pMWpqZxY1eLvsXFP6D6labfqzUya0YTLrwGJVMzQ8vCQAOiUeXtfpg
     widthPx: 680
     heightPx: 510
     authorAttributions:
@@ -91,46 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPj4CpoOvgM4lBXwKa0Z0LrbVH5RKAmpCtI9llk!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
   - name: >-
-      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcLNn6Zp4nMpQ6bDsVmOlMnLlndGBTopLnlJP2X9x44r8YhGckjPlp6_0Ilf0ddkuFtkIjzYvLx_sWSjGiDfR2g4VVgRn8ZmJeqkXxXFqS1FehqM-tj9hvbl_ni7vmzhddMg51YNXePDEYW1XRS2X9uOVDteSzidvj4MIG8qcgIG3VAIjESCzXPsO9RZgXaFUTt5VXes886qNejgrC9rchMC7lETpS3AGdoo9bimm_0L2aUSL3-PQEbMt6RbvMDjukUA2MonQIhjTmyMOC6cdnokXVSXLcODmT9ADdiMdzw7Tw
-    widthPx: 680
-    heightPx: 510
-    authorAttributions:
-      - displayName: HeFun Asian Fusion
-        uri: https://maps.google.com/maps/contrib/108658113032725936378
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUdC1NZ_Y2tOGB4DFC0Bx44lykLqu2LUdOAQNS5ttt0G308pdU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPUE0nEH09D8NMWcZise92W-5o3YShAKCD9gFLf&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPUE0nEH09D8NMWcZise92W-5o3YShAKCD9gFLf!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
-  - name: >-
-      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcIXabVy3yrrNHzUtADzDLydnf4mnGTUwn3IYIz5Bw5THJNaAz7W1LwkuzxHfFukD6zJVUQsRITXtKPEjUJCecXLr3OGdyEuodNjcxbVOCqisaaK5PPMKaBKgD0Dsa-JenMkCGdoXVivRgiMC0u4Td1IwRWDzkE1mAvSU4irQrGDrjKrTXmUAlEopvM4a5NHKkslVnPXpbWi6okWfpL_3wDBZVompF0N9gXIN6byYtEtMyt7o4oAx99cHlURwCb2ztFjnJY5XRAv-jnw6RYCnlN1L-Oprbd5bRsvyecQLFfy4w
-    widthPx: 680
-    heightPx: 405
-    authorAttributions:
-      - displayName: HeFun Asian Fusion
-        uri: https://maps.google.com/maps/contrib/108658113032725936378
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUdC1NZ_Y2tOGB4DFC0Bx44lykLqu2LUdOAQNS5ttt0G308pdU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMPAxc6XCja8KvM3y2SJ4gRNvvrjCcyBBSHP0ZJ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMPAxc6XCja8KvM3y2SJ4gRNvvrjCcyBBSHP0ZJ!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
-  - name: >-
-      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcKeNgMC7G15kadVN-wSzbhB7Q-sCMfQMauMl4tSwaXTo0cX9jAdwjmnmeTXRgGkqAfFo3u8l9GFCgUcbtDSz8qFifWpRuI9itLDv6Ah08YldRfmeBgImjlLmE0Ijy7Y8FaL5opDL78PGixbT2DOA9ALwgIc_2CW34WE_mIJCriMIBa7XXRY0b3_mZkk7b-EKyHsFkwE7hZSkwYLGhtOMP8gw7HJuFQBQxdxS13_UdJXx8RhPnSLXlFYgXQ_VG4b4SiDdrQRrMksHndVf3hW6yWIoGYseOEHZWVchJySjHs1Ww
-    widthPx: 653
-    heightPx: 510
-    authorAttributions:
-      - displayName: HeFun Asian Fusion
-        uri: https://maps.google.com/maps/contrib/108658113032725936378
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUdC1NZ_Y2tOGB4DFC0Bx44lykLqu2LUdOAQNS5ttt0G308pdU=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO02JJd7oKx8fBPCSFROmtELRH7t5LiL1RWeggf&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO02JJd7oKx8fBPCSFROmtELRH7t5LiL1RWeggf!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
-  - name: >-
-      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcLcCbnnapJnW3G6cS-nsk1T4FpaREwWnA38b_Vi0W429K_dVP8v-7IS0jmzl5d9FR3viutV7A6OB8Z8MuFE6EPAfufgnJtncMH-6S16LEA46v0c0x5QWTvr4acr-RWzkSSgSaOA1BZc18bW6cPjLR5JiBSUhjLLMWlIx1EU-6y2K6uFWZbkxmXJWWe7BcEJp_dOs8551JPOCszGyoM91zWoEpEtwORQWrfepugPxiTJpgPytxJf9IAGqGQlkz3qVlRz2SuNK9SVMzWssfuAIDtsIC2r-dve0QWSGVC2oxgyfQ
+      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcJNFcebPhBNGa8-gND4SIq5AtA0lSLlpoq04GyqSfNTBnmYMn3O4o7rVwgH3jjsxAfoHNQS3bkG6fVWweViWlYDT0jkkpnOeEQ3krBsGV9wqQ-dNeRQ79-VyNcEBda-3NEGSCmdi5s1d1Djj_BHvxoR7Ay6ISiyJE-GjCJskIhBuxUpowHQ0lAW6bbZHKxYeZUlJZlfCL_oPFetdnx4-jVFVJy7Kc5Uz_AQWV0r3YS_ASXMMjJm8mkCf3CK8ltxa8lN8rfms4vRHCE4kFhlnpdwvl3IAkKooR5FHz-lOIgyIw
     widthPx: 680
     heightPx: 432
     authorAttributions:
@@ -142,6 +116,32 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP3819CLjDIu-dYZ4ogZrWDJnlQFfX1uIRmqSoa&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP3819CLjDIu-dYZ4ogZrWDJnlQFfX1uIRmqSoa!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
+  - name: >-
+      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcKC0j8uAn5db36p_7gvGYwuUb4F7fK23HM2ekUAdjuUUmHFg4ggt75kvZdYrTN93MNen06ayXTxZs8wFUM6ECsE10SNt7tJcIYxHZ-E_7xqViK08oEJJi8M_gkBkF5PlYWiqDXyuwiZHM6vxLY--ze6hi2jdzPDpC-dJeaNjmQn_VR10laksgVKCqeAQLR9PA_fRqdYXjgUy8_FO5e_WT-P5HACq6mnBf18eBnm9X0I2_ShadAI03glMoum39LB1M2XbFSKgoZlu83Fz-XTyyGL61AW0gDKSc6kxXYsV0ycKA
+    widthPx: 680
+    heightPx: 510
+    authorAttributions:
+      - displayName: HeFun Asian Fusion
+        uri: https://maps.google.com/maps/contrib/108658113032725936378
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUdC1NZ_Y2tOGB4DFC0Bx44lykLqu2LUdOAQNS5ttt0G308pdU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOjoNNdXEfgnIXJBSR55rSBY49I9S5Ttnjwt-Ll&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjoNNdXEfgnIXJBSR55rSBY49I9S5Ttnjwt-Ll!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
+  - name: >-
+      places/ChIJ3dHw1EPtwogRGtKthTSDcQM/photos/AeeoHcIUzsa1Bzd1epQGni4qY7dnw5TzuSiWFLIC0ofDWlXpVrauyTFSbDIltHZAlYYYSUvuzq2n2xvwYLjZgNZlo_NZizMsPbad2_SztnRHXFSOym8hjDfEu56VWLp7xdVCSm_07ih9fc53z7FwkqVY1sJE_Lfp3gMKQnqyirdvPMv_n_h2cWvoa3bO93Qt7YATVLuk1qBWs8EsqCJNsxRYog2TaDJxc8JaYCioxUv7NJdDoZ4Ouke4IYmxUD3mWwSfkxbeqytUP60QUmxpQjbEuZk03aRZf3ZNQvNscrovehoBBQ
+    widthPx: 647
+    heightPx: 510
+    authorAttributions:
+      - displayName: HeFun Asian Fusion
+        uri: https://maps.google.com/maps/contrib/108658113032725936378
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUdC1NZ_Y2tOGB4DFC0Bx44lykLqu2LUdOAQNS5ttt0G308pdU=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNyC8LdtbxQmDhdKn_1O4APwxIpDlP-MEIQUUqY&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNyC8LdtbxQmDhdKn_1O4APwxIpDlP-MEIQUUqY!2e10!4m2!3m1!1s0x88c2ed43d4f0d1dd:0x371833485add21a
 address: 4952 Ridgemoor Blvd, Palm Harbor, FL 34685, USA
 street: 4952 Ridgemoor Blvd
 city: Palm Harbor
@@ -210,6 +210,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

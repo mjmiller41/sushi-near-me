@@ -13,7 +13,7 @@ description: "The BlueFin serves delicious sushi in Greenville, South Carolina. 
 place_id: ChIJA0NYua4vWIgR7Ss5Hfa9HrY
 photos:
   - name: >-
-      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcLkEZIdR92kmjrxr_x1fgWkt9rNbPePw4-YPCUpatQAfB7cIso6_n6ViEa4cgPUmDII6WKTBB1WiFUm2hXtl9-QMmURz25Faq97p7BeTu3o4A82exbShxmc1oUC_SrMOR6obIkv7UVCwEmreY8ndl6dZqtV-yQJOn9FhFXhW4YaWdKoru_CSXQdzp9kQPnM7wmzuTaE_06E_21RJ8dliK73xkfAzD1pbIJv5i98esdmp0dlgnJVHeu2o1UegrzWcOWSb5KNBmHKj0hOdFUOFztQScmM7cZsqFJQi-YDGnd39A
+      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcIM1jtx2K2P2weQcg8Hea5g8x2mDJukV9xPNa-VRZq_u6re87oCBrnGa_PcXVW-GjdwofEciYsdC3YwbjdEv8eR30F5dJcaVfcLTh35aYRbGHHrZrnJuYweV-tounkYv5jP13G3HIk7XmxFSWX-I7G7UzkcujmYZGmT4gzMMVhlTVlBGOsAdMAlNXbYZtzHYI52zZCE90c_WiVXDNnchZnmQxpCNGI9qLLI5lVci9-BAAm2Xy3UuSzantYAyP5h4GRfFXyViv7gjs14HQPgfO9BjEiBumcXUifL1VSLr-GOlg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPMFhpSaLVfo_nIal4lPR5XjDXo04TTzoOyf6uf!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
   - name: >-
-      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcLCV9BS5R_sKL7FyXzDIzAnBofrbyAnHThPzV6pysZT2N9PpWrwpyQ6OI4grbZlYUt-bTL2qm_6XRC-1d1ecvljmHIF_qsv0VjVi9klddxyDT3_764obm89Q79pbgQxBewpuzFWT2-63OYHy2KAypBlic8JSWjy1ulhYd6take5ojS5JPC1k2dV2liS7asyBfZ6-k17J0MmAdxN6fL6gXLnwNfGW6g56LSFsIyv3CjmeALpg7NN7O-mBlkjp-BBzt4y0x49rWvsygAFVqktW_2puruDzbBjzOs7OAfweBsnAlPQnl4g9HlAl-3qDHaXxkQhq8ft1Z7x3iHn8YMXSZVS_1s6gin9aGh-m5Ocr6bGSCOeyKL77B5wqadLYNdXcbytWr6Bi8NlwGIicJm1AmjfqSStLc0QtnYq_DOtw5zgV1qI
+      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcL5AXYzL_rq2T0DoAubJzVYX1KMkUb6jBmroAm8tNUbmUF_UaaaCWPc2LjR-AoujGrAd-V27AdCvBBtS3v6de2qtIOqD89k9oXHEyUkoJ36Wd8RSlCCVFpVOGIEJkWiL3KlXl2N15vkxzYe4eVgsfKfA-flRNVI4ExbT5aWQe9KACVYCE0mYVu4Poj1KumoC_aUl9JdsJuF17Im7hx0HeUPiKHNxe5svguNvSs4tfF61Q8gtSWRNgP7xTc-SJwxBNDnNq-9hEuVb-i1_B3Ot-KlloaZFaskKBx1M-VrUQaNcJyS6OGAAQJtmpGja4--44MEjH9M-GDb8EoqURdRvS3eod8nMvmtgpwvkk7DKU47wlBYJT0TOOchiwCotWt8cNdz5_sjRneBFmdE8idKYYw6HRzLIAcPWsc6fVXBA1FR8vfH
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIz-i8kgE!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
   - name: >-
-      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcLxWJBjfbTT6BD30Ifow8VDvNnRoSw834tJ1J9tnyxOfgl4U2YkIWBKvmr9z3EvVGSla0CB0QF8SUfpAcAYtFWiy0cm-qfO0B9CyTL7UuSeHXov2B9TSYE55NiRvfbWGEJVromy4bN9exBEXPOgW8j9nUVhxqVxJBYDOjaEP8hMLEVXYhzxk6rZZEbtw_gHi2tVvar6SPeZfAm62SXqqo0zCR29pH5uq5BVWAL1-_x2Y2y-KVofpQus1TGITsx7FjX3fKDnLnFDoC8okf4DCy7Ui7rTrJwOxilt9HRDVQo3UA
+      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcLnjqiOiNtyOmazDsgpqCUtQ8Auazs7nOfu1WCH5KVm1rOvI2ASbBMzHIACPIl3edzMJTvvQw-SV445cYxuQclffO5e-nvu_TtHwuXnfAjEqN1Pitti_IoMP4BbzMLw1j0sbsriBgv6qOdhqFvvkzdnpL2qSu8RipHkDARGt4vArCDiKJDL8PGadObdD5E8DJujTZG2d3pMshbY0GP2mZbM8yfb5W1iVWm6btev0iCbEcuLMVHvZPTA6-mqiR7-b7K_JK3L16g8Rqy-RYbREYFEQdVCMs8O7_NeQg8wYjactQ
     widthPx: 2504
     heightPx: 2254
     authorAttributions:
@@ -52,33 +52,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOQ1_DCznO53yATs_7fr4p9N1tvq1id-jEysSCV!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
   - name: >-
-      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcK5j2INU9HUQG0pRYaX6HeAlvJ9S7IML-F4K4Lp29rWT_HUyyW6PlR3j7aC8pGZi1lMqZAxXCQ1TVzB2gH9r4EeCd6dJCBi4MOkwrs8-6W7CTdanxbDHTtTPgVYCaiYYyGq3KUnxQUWbHL4IMGGpOsLVaidOg7fbof6sPF-J6mpg0gyIUEAsjF_AHX-jVUyHx8QXpdIFAtASZRhOof1YnXQ_3muqLGpmWdlWa4XUrA7_C8fq3sad0edMrXDArNeYLAP2WwM5Mrv2k863r9ZtJFZgu1K2LaFHGYPloncvQr6jyDZ4n1Z8q6plkSiyrI4JrjTS3YnWcX-yQ72wag35LrWF3VigT9I1Zc16g_8tC8IIsYDFegDiozqpTkrjC5sjY4ZWUbua_2oxoPyK_HZJp21VnMsKhCEdeEce0no2gKGWTm6
-    widthPx: 4032
-    heightPx: 3024
+      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcLifDMRkU_0g5Y7rTVS9LPUD_CW-Rb72OPZiBa-wB16wHU4rYV5KpVq7eRf_JVxjh30p5ApYkI7fVf0RTtGn_e8HpE8mUnlzcz_vxUeAuVydJJL-QkHt3SjyskTy6YRFC34I57iCKyZYO6Q2hVxxaqsOXHfzkH-r8yqe2vBIeKnOeQI0xoe6jMTZNUfHHCGrSuN0iZvw065V_ZCwvyzJCSixXUvBLn2bw5Zc-lW1t1SdTX8BvlkFwog3hX8dXSQJ3wiBaE0XyAePdI0dcKXUFRNJmLsgSQB7c6Qsv-HMYnw9a4K3WCGJoDSC58owOFPav04p-mi2WbGmybu6XIDb9ojcaWnZwbMSkocrDPC69TgrJP1ao8nJR6IdzbcC_FzOp43Z0WXkD_Kzw-Hq9EXs0Whx9atBP_cjm-SuDFgZrhxiw
+    widthPx: 3472
+    heightPx: 4624
     authorAttributions:
-      - displayName: Dixon
-        uri: https://maps.google.com/maps/contrib/109405556959638348686
+      - displayName: Tengan, Eddy
+        uri: https://maps.google.com/maps/contrib/102674626529863035215
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVwD-whZDgYOPuPea7-wFLS3jbSbbaUnW1d6Su1JbmQX-8fvgY=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJY4gjXQeuxWF9nv1w4m3h9QTgy108SFbDZIZhUOBoAT2g_EA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ556l_wE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIquusUg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ556l_wE!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIquusUg!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
   - name: >-
-      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcIZo2rYEY9FPCdYyNHNi3walTS5GQeVlN6trQBFdoE4ocAoTm94RZuVcUMTX6CL8AIZhIhaSKxbPQo5p7I18T82qLXJF9KHfaoZw3H-YqNUagmA_saQN1U_w8wOnlOQ8NKD1ptyF1hD3WhVCRyM7wwUoqypCiqE0BNfPYlgpY8vp1tZt0c7Je8Q31Q79cpTkO-CD56-LKzISWQ36vHdaD3jC6HcwTpsef_lgiK4dzvqeoquteBp3qrqT8IcKhg__uTB3Sj-bixwU0oIAS_wWPs523v_Hj2_7NQQFljEIhB0Xq-NGYI7_Iqo98c21t-tixnUNxzUOI76R3NSLFuwSSVrK69UflLzyvjMAn-xjaVMgTzBidAd8mMiamzZJqjRBUvGp22TGyjto66hrFRTZKKa29hUHnannT9Hk8vwMxWs5NA
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Dixon
-        uri: https://maps.google.com/maps/contrib/109405556959638348686
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVwD-whZDgYOPuPea7-wFLS3jbSbbaUnW1d6Su1JbmQX-8fvgY=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ557lwAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ557lwAE!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
-  - name: >-
-      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcJOrPOc0iKckfEOfHeEeJpBcb6uLNSCi2rw5uipf2A4gA6WEjyf3EjxdXanGzf6aPAg24xV31uLcP7pJO96Vwv8lhtBDKQPOXNAWcKWSXquklRURWHULH2STTSRYgW8SqL7YAM129UQFGW7Gg3xHZEHLVE8uyn7CuKiwLUuTc2uG4sGc5wGZPqKQT8ZgCHTqvbo5gxkyBRFR1ogSzefJmkrBR70GjXPwUhYo5KxaCKjpN1DPPqJiZEZmS6YLK194Qqon3W2DWeBES_uY_eRc30YpBq43tKMnYxBgxRFqSekUHblHswjIzJzopgi0WIRwXM1ctKPaoEFxDb8nj2LYSGU3K11RH_qo7EwsKLIK3CXd8SCG83Vuv8dVxnsqdGMLDNHADD1D3S2x9BcmFNsEhNPdb0qKwhIHiaJSjellWdNemuU
+      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcKWf6HcyQAU2YgJvS4XJEuRFOKiGd21MbDkdMRgmZs0JQZUirUbej-VWEfZLpv0XSoEgLvfQKnd3iwfTkjHzM28_tWuraALnnRNcyReMXl2j7PRcLPKvxm84eYUX7QRb6GolN76qXlIImwWAbqDcWHmumwMQn3JQ-yeqI195OnuM7XJD5tadQQg_0pZwA5B4UXzrDv-USOL-6SnmzUOK2MISHYIcfnbmG_DKMie87XK50-NinNSGZ0ofFAVVucql1VInq_bkhvIERMw_pyMTRfjedGNaYc59PffQpyn1Rx1GvA3-ipzUMcsBCEjKrJBF-3XVZFnNQojWWNsKFeRluTklhCbktpO-RZrWLZeh9dxjt7R6rKr-609SDmAfA5K0yakSLCrks58ARVegs150kTrUz92G5TazfmaTMBcP0y3e98p
     widthPx: 4624
     heightPx: 3472
     authorAttributions:
@@ -91,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIquus0gE!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
   - name: >-
-      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcJDf-jHFSSU9Ir8UKe463coKS4MzLxnwg3J_ib9LmHGkj33mG5D0ZQ49Mb2BCNuaTGKXwGQwe673-E7gxWbDCl_Vb6Rxd_SH-zrtIipC-yGOe1RG4Adg8PHNwhHNMBz2m7VGcM_atkDsKtxiI-ItxDxmF7yJ5yzozEjpsVKZk4he4UyHbZYDEXbLfVnsH2eIZmYRxtMXt775A-eu6o4VJI779DPqDb2SOZjOsr8mfEzeypBZqZg1Gij5OTBXIOlga2E5V7gfnLcXY9Gi8N1jDSJETX03lX3j4HlcJs2E_BOtkHe9Tbe7thsePgAo0tBIteW6Zaml4oJhKlg-r3GrdkXZYp0EFi8PflU5frLqOIdvAIHgScNjCuKs8s4u2gEES6su-55oSaxdOPxIz3YIznns4eP-9CsRlgDLxqNVmU
+      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcIYNWexrENtD5LoHZZ3tgMbppUskaAIfb26Iuqb3_yYJX9PzwMJMsPX5uJa0Z8fdbHJx6B221Qz9U-E8tDe60SxeCjEHpKAjb-wNxW9URubOMqgaCr_zQFDxOCzIl_gB59_LC4BO7ufwTlEey8oRPpCBK_-GuQDL1WiMaEM9m8oMOMArfc8G-gZ9Q2V6cLukazTNTLjwHcnNYc_BCnM-1VmH9H_eFvpP8cGJg5X08gEjvmRxxqmEnGlUzXPNNkH1Q3BiP3totkqtV8h4Ygx7EUrtFiGft53SbccAEKxkhnVV9YhzeZnBLLYZPiFPoEou4FkKCPAMSeCVe0JHKrAmgq_rNUY2jHcW1sy9KqF_UJfEe-6PDMjsFyAGpPKergHEI5aI8FLpO0R9xguH6sHnq5tmKqf2MOO0AxtxwKCnrKyLpaO
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -100,24 +87,24 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVwD-whZDgYOPuPea7-wFLS3jbSbbaUnW1d6Su1JbmQX-8fvgY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ557lIA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ556l_wE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ557lIA!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ556l_wE!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
   - name: >-
-      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcL4oAEokiXh1Sn8AbKxZU9KdIb8HuQQCXvZhOi_zJd-pjTqOu9c0Dvta8ixg7wLlxE4D6CGRdYFqIi3hTyvFfTAaufY4XgZANRcFvRfC_N-JbUfEpnVxTvSgy0ZAjQGhhfRRLbvss2qNEHft7WtVSd2EBEwDX8WCyWzxP-7LzUIhJhbRyncWzRrQgfcpgTrStLpWR9Ypa-Yz28u3bSOjVqnf5mv_QRYGckNPDYBFZr19o3iPozDPI_-PGGwtY9bPUYTOY4ouFdnLjrhjcLf9_HyoyLvI5aKwyG6KWOY2t4ERA
-    widthPx: 1512
-    heightPx: 2016
+      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcJOZgWTdUljq91r92yYuQqXVU7woM-A31gkZoLiKTefFIJZ_58ViJJXk5CcTifdjfUYc2ges4TBLGJmn7BRA7WmKG760NNlXLnLK3aKQPURp4HHCTYLrMYFBx-fpbsPEx3nu4ptT-8N70yfxBCCnsf5_GO56JQAMXPbOHKLY05g3z8psb1v39344jm13qQd_HhBUGuKiGthD1cA472PKnUh8kbvCcQM0pTMw229KcWKuAqXzPJV00hSbDeoR58vQv-6173IV7dQ1sQL_51KKwUj_M6g95vzv1aIXFOE-qXIedg8wsS-pQbeJo7ggumeh9z1-CvcQ3i1c0SLXvV4F1BNk5H7dZyjTmBdfGgIkcEvdtid9jbG83gkaqekk-IjLZ8xwUYKKbn912ZMOKgU0oO-HwFRhF6NRCHXsAAErD136nY
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: The BlueFin
-        uri: https://maps.google.com/maps/contrib/116245318223601259848
+      - displayName: Dixon
+        uri: https://maps.google.com/maps/contrib/109405556959638348686
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLR9HcDjC2Cn_Q54-WvJdr1n5AA1e5ODvNoI0q-AreYeJg50A=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVwD-whZDgYOPuPea7-wFLS3jbSbbaUnW1d6Su1JbmQX-8fvgY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOaxy3c1-fsIXzsZD06KH2sI6AvyIBLf8WdrMUm&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ557lwAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOaxy3c1-fsIXzsZD06KH2sI6AvyIBLf8WdrMUm!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ557lwAE!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
   - name: >-
-      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcJ_BUV9c76XZ4KYtgcV_zb39d1hzTwcoyg2nhxRNLKxceTfe-Evp6MYpNrctdRRRZbjHSY9PJTn3uVcQDXRbRvzm7bSUrTclcbMdzW7C-2ZwSY4KraKiQbLKEVYW6GUiJFzNA-ffXPaIRyfBn1X5SpEmsa-fgjnkfY2V4av-kkkhfqpm2Gr4tsYtm_pChfSLB1T-gY61ig8EIa3jW5nriHj9sLDYJ7C1zu6ZWci-pEwScaAXIJ-jP-CJLpZonC2JmCTHdDqje_WhpuLRetEl1_hdf3cVQuiG6Lxdo2kI811JCIH5Tr52INVj_JBaK_Rb4fuLoxnIapI3U8sNuIP6-KzVf9c6LjsRDj6LCqTlk2v_GCvfTaWkT2DdHcvb4EBHlxqG93vWhZwsZhHxA96zEBofh_3c6X-AaPnBbIU-cqCQQ
+      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcJw3L5aEkVyJiKR1GsXXr3fxM6QCyE5tA8uOlfBsewvvYNRZqlfNWwinOkdRBfsHfhTod5KaKktJjRmsIHjkHPEYB42k5odwRT6BYWAytqkc4moURVNiZ29keWU42meihrsWvuAr-mF6KWMMkn17wtDEPqRDtTKSH4MAHgm6U2ShP2voFMviVwxSzcuQRHI6eSt3fYrOKgo--Fwi731r0NI315KQKRYIYCRCW3t2-kes27vtyMaAIrnCpjXCogAKoEe7oBa7Zces0B0mDJRsQTPZ5G-M95QjvKOMgST6cA_hEKjOSADTwGg0Ciq4WKkrm406oxcAPBo_81djsos5yBUL_9DGdEpX8wqs68Bzwoz7F28Dbj5NwYYyuVJ4c6RvMhID5SPiKrjTjPc9b-IYt6vbCOx0TUkW63pySTLl4JQCw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -130,7 +117,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzzNPRVQ!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
   - name: >-
-      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcL-xZZ_oMVVL5YeU1q5VmYhwNQ9RHdsSaAWxtbfXlyy3q44nek3ANSLt4N0yKaunQLZe_JixgnEFEyKMsecsMdkr4tdV5fqdE5hyrbp4QsGTa1Mhdd9kSG3VuDSeMCwa0PD-hqx-twfkIwrVA4xmQW9IOnT3VddZdGRKmdYxBfJ_VjPExnulwMDISlhCEfa_E9xLIW8tVjbrUm_MbHZfZKZdskwZqCwqj5nnKsbsWNZ2A6VXq2lYgT4YssWMIvbPZq8pdcTqac3sd24FrgPK3dRpuY4XdKLdyuMZ00DKbnGTQ
+      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcK3nzN8jecp3Ap6_hYXjKGE-FUBrlUjIc0Yjreoth61rcwP5ORZS_XxvfgkCBfHM0X7jWZZGN5hhi3eolhTz23Qxde85lKK-KsZzi8Ysc-l-hPSaBlUfVAvea6MdpERUOy7YeuivD6KKSTF-Z3WDcCBlsFIikAbjIDVFOBSwL-j2jUFdn_hOoEZIag2ERk_EfRt3dJsqgWg-ifUBpavoOQPrkyq1K6N_ulRr3-G45hzfmMT4DWXloSqFXICj5q87DboXVHPPkwdixxLgbDB9P-pHrG_4IAu3S-9UkIZQPDO5Q
+    widthPx: 1512
+    heightPx: 2016
+    authorAttributions:
+      - displayName: The BlueFin
+        uri: https://maps.google.com/maps/contrib/116245318223601259848
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLR9HcDjC2Cn_Q54-WvJdr1n5AA1e5ODvNoI0q-AreYeJg50A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOaxy3c1-fsIXzsZD06KH2sI6AvyIBLf8WdrMUm&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOaxy3c1-fsIXzsZD06KH2sI6AvyIBLf8WdrMUm!2e10!4m2!3m1!1s0x88582faeb9584303:0xb61ebdf61d392bed
+  - name: >-
+      places/ChIJA0NYua4vWIgR7Ss5Hfa9HrY/photos/AeeoHcJBwttB4gphR90eBUILcD0qnYU1B6DpBLCLSQ03HoVfcBzAKWImhutfnHT50lgkm-1cghtsSCQ8z8c8D8fIDjwmkR6V4WfG2AsoJzEuC7ZGf9XcdPmZ6Z0HBY64zRzX3fMcEKSaSO6HElZdCupJl8TrjK28AAJ9aGOu-OsJrEyCqBhBqLeS-KlQMXeaDRKrozDFZL5pIuk7BScWd7IFhgXJ2cKFHIdf3QW3tjljdGMmsyF9dGtcuWFiz2joWUFTl5Uu7HlcJXqt6TiGRh7cVNezqLnERAkq6DLk65292OjYBA
     widthPx: 1280
     heightPx: 1707
     authorAttributions:
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88582faeb9584303:0xb61ebdf61d392bed!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (864) 991-8108
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 224
+rating_count: 0
 website: https://thebluefingreenville.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

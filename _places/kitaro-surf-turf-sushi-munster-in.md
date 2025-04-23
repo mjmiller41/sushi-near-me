@@ -13,7 +13,7 @@ description: "Kitaro Surf & Turf & Sushi serves delicious sushi in Munster, Indi
 place_id: ChIJ64EkzK_hEYgRBx9J1vuxOMc
 photos:
   - name: >-
-      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcKsOjCOo4M7wjWFQoZ13WCU6GSpoLi53-DsGbAtccfbvfPGv64ObUkOf2fFjixU9Ox_S1MeOC8-F1sd64pyPdlOmM0d-tkXELMwP5kUpYkyE5Nxo-_kjWq1e1EvLTQWXpHl2sYIQzZlzhy-wo5JF-LpzLvvI_hH7ywVGCFXfdH7DyjQHCXEKm6QEXjqGk2VZl6Bdfhdu-u-wN_f_sK5VzKEcO29tP7c3uISrrKRCo-PHFaYHGXrTM10I89hAkrxnj64hwY0h-otHVsF9Ij9TJg-Y82vc4-9oKp0X5mmIsF-YQ
+      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcLTZQjXIhS9fdCh609yPn2Cvk9-Xv9lR89lFkmLepUJokQQpogYzuQejjsik77TBL9ryYq0NvJ_GQOT4Ek9h-q654CnGErRLB8Fqh4M36AIhhPscpMyVBHpJrq0uYjfBLqInNBJWbrHFTMPj41qCxeA33VfK0Eu8BuM0gWM4ywAzDM9rEsI_HcYHGO4Oh3kcnBCiLPE7e8tT6aXiyLCqRszPPydyopXhGPciIevt2-vHyagBBOfx94cq0smP7-hxVpi0mbO5-hyOu53_ypZDK4AnTQQtDp9-XUt0Qns2BAiQg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOb9tVv34Cp5uR466uTQK1Om7PT77yf9QVMhLz7!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
   - name: >-
-      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcJgtioD5vvJ0wbj7N8Qt1uOumS4B_4iRmNX6_i0LtJJDc35GZksLqW9qL5FiOw4O9BY_1MmTOTAsHJ_dfWJcgHmEGj2CCqwtiXiO0LZ60drNCsELMdLaQk7IupXGMX7aCULp5PeS0qf01B2TuoIxT9jjVrXDC_luVSOGyZhKxXXUmgeo24NPSWGN8yA2Z8zJ54CatblFa1WZChPiiCYVD9AhKomhohempMPos7GjhTNIu-vK9wyGKPBENsz1G72yh-fOsMy4mDjeNG9jMJt_Oaobo_638rXBQ6lCQy_rvJpGw
+      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcK1Nwbli23hyyY2B95lH4dH6qxRCWYw2IlxOyqX7vRwQ3DWlAfgq2stfGf_ZTEcjQWU5H3hazJU2o-MR6BjT7ufVqgQQGQ_N0qo57AhbDyFQ04PUvEWaf6cYTxthbv13ethj-Xe5VsAwr28FE5IbmPd21crXXofwIEUc3q38VPe8ZHP6QCq0cEaTFygFcBKg874NQR0h4M7-ZwP_AsFtI-kDC9WMKAe5U0wIbJOseBfZxEOJez6r3Z9wyMIz7-58i_IX-Fvvpj-yKNtuVfjE2lBdpgSSszlB2WpjSpb-GTecg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqTvtVSl1N7bnUQq0-kqEbio1x_lZCgLIRBlcD!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
   - name: >-
-      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcIPz8SX3TAcOLxQuTKvk7l_0vMJoKgkMx6LRghHvzUPa4f5Tp_632QDUeZrY5DvKUbb_gqMcaTWC771zI26HCcx5JDuynRFc7TBiy6z0Ci-tsc7hH15V0cx7Fg_J3Y7Mla0WvRk85R5YXN4zGEwOnsMCxziQLe1XOuji3q6NZb2srN5OsCPyOTWxd8ra3QjUi0sDADgHO5so7OoZjWggQEPpYpEXy6zeEC_fDZYi8Vefa1XPsTgFALAMRY1u37P0ahD5NS-cAZrgDc7kqVrbLWAA77emdkaF1ng2jqy0k2o3SJlY8WK7lZ-CsFxkkSAaG29LhENelguOnaa3DvfiEKgmrkraPhEZk9vbLZYSJCdUSbiG_8W0sTF9XFKCRJ02997GlVCKcQsqnrCEx4DHDqt0vCjvzlPCUb7yicMcXQUdnI
+      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcLev7uTvw5zlnLMqmNs7addWmbp3Q3K6GOhxFZqn3blDZ_HNjUNs0f3MOonYfBvoXhM2uopxTCyFVIbeie_DdNEn8G9qTHIMP8DEO29P3CWFyZp1P7pVaQNEv7sryMsHqMh5n1uCnA7xazfmlsIjXK23AaGN1Muq9t3pn3DxItGKwkVRbaPq-bYrNRWbKuc10dP4D6SBIt7Rw9tZitcGoPulZEjHdkNYAersIfwCVSbO6x5c-Fq6JmceTWeI8fGwacbpndeHJ9_8mxLqEwf-fN_WqvUr_C1ZeqBVJJnMh78_ubPyzImDoDuZiIZqZcaexMcW24TeSfgGFi-8OjeGnEpGxN1c40KMWjbaA2sOcuGPy9EnimBpezuIL22u4DzYYlikPCgbbHmEmh-rj2qqvo-hiyJSD6hx5o_KFLOnW4RYig
     widthPx: 4032
     heightPx: 1816
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw4umWnAE!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
   - name: >-
-      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcKd5VeaLG3gtnmiPEg7rOCIf3cRlWfTLh4UsjGkfMFXjp9qX5nS0SUJ3o3DOF9W_IqnhnoMMHW9pU3btmP1xW0z02WatdbNWvzbFgYYGMqNjxQ4K9Y_K71UYQIz5xaX3stCgBIsoGkK1LZQyrGVbrK_VVXcEr6vbi8RwkQuXJf3q6ygFBrz1TbDJ54GUndKrWn3U0HiiprGUGB3PcD7jEOrdrWc_hx1I-CxTfIPFTlZ30U8C_leEATH7T7UpuJZWuYIL3JK0MHstggT7TDt0qQ2wQRyA8MRl4i8Vz1Gk4N2V4tolWKAooUFXZH6VNac8DX4OIf9h_rtZgsZgjg3JexZGQGfEhcHAmv81ggbvcirkjgzajUQVTn28a7nVX2pEuAzrDKWYN1iUNAHoCKKixx2BA2sbt--kIb-j3Ibrqg
+      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcKknFq9PfmJB290LbXukaGaoLO4oW7M6o4Yw0YV4nVUirkXCCYG661WgUv35hfV_u8KtcvvidRT8uvM0DcL7YvRXDCJfRz3CDorLyF1A9qK03KBaGGvflTFd5RIjSkXWS3LR1NK1PoIrptwXtbCU1BgyR_8xxyoACLCKXuQf_0vNMIWvwknnqHQY7tD9AdDkGksfKCJEuTOB9g5pX5PQSuRIZDjbwOA9sUUhQdOdLKsd4qihQFCOiCYma2I4zrY0e31lfcfAZ5pDrjqVhb8u9CYph3DVJ7ise_GR9GSGRof_OC7b7Zgb8fqQJaByYMRJotxngugVajGSdfQI0tzx1bMmq62UyCD8vTkYsZ0nE14u8Pox701ZcHFkn-s02-19EpVeSl5C67F9WqrTJjmhUl8-5hl-HD9kZJtStJQbHY
     widthPx: 1079
     heightPx: 1406
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhpdawSg!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
   - name: >-
-      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcLVZCj52GnLLGjhmB19qanX4BEfSB8fojoBPxodLWwa3rYA_tZ1b3qL0UYIECtfve96XSUwzxWAjoPTNG__RHWkW5G4DVeSkry9S8hnzSDRMjMvj631jp7G1Sobg_FreYfhaTKQWeKSYjLLgoVtGBhFwuMsCGwTgNxTdHqMxZy3-MyNUeSuPZa4z2rUoF5U8urEkAvkH-ygZ-3HV0CerjJ4HTDeju0cRVHO_UnLAxj6W0n-cyDOPlBojSW0Su2Y6iO2Vcvc38l8j_KFiq4p_OUriNRcsLmpZ9Mn-Cwi3Q6m3A
+      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcK7KOmCuWfn7DyQ_T84u04C1PSg-2cGi06AYyRRhdyfTP55CHMzRX9eEMC47MFebCEECHeYLe_l0nftSPJLZvL8quO5I87D176QxAQClmOv6gUyLCMFjf8LeUSDKquxjGjX3q4saRa56TZObOT1Ot1Xfbn2XmF5L7u9EvrUMPNv5AUXZFsf2ykbYsUyFdZqBBnCph827vS4qg26KNOyl3Ck5Y6Vn1KV65fK0TTSgeeNIe7NRdlTvysfGzwhIhMll1Pvj14bCrk4h6pAXFn_fceqVPuKWp7B6c5TMf0uyFZ3Tg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -78,20 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOhZbsGWUAc9bLHzIXLhqkHDUr9jXS8nHeaK-S5!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
   - name: >-
-      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcIgPMqRRJV--jbx4yVCRs1Dxw1mmSszj8-bHX9KDNSGAYmojW7_hDgE8kKMR9nHfFJA5Rr1Rk_SIBYFphXAEaR_DaJ3nhB4j5DUcFigCLmgjNSvJVX2ZkbinQ29HoEOm4meJqIXBxrMgHz08_QAReKt2O0ReQ_Kfjh8y65e10XdUuK8uxXl64pH3aQTwRijr7ZnwsU9ocFAbxGGkFoqx-FMQ7ZfAn-OqMRDla6aRCJJalzcsM-wV5-fIzayryOI08uiisc7H0K7D6Dyq8jeqVKaDzwR8Jk5KrUivH9_UzkKdw
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Kitaro Surf & Turf & Sushi
-        uri: https://maps.google.com/maps/contrib/112648671236993143682
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUCrsxVpUXufGHGlAsmtjAp_O_qrd4g4ArUL-g2OEr7eUJXXhis=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNUR-XB_SKVWpyLowHlUQpAQKISynFIlWy09kzL&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUR-XB_SKVWpyLowHlUQpAQKISynFIlWy09kzL!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
-  - name: >-
-      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcI88aZGk-xYq1NIEXrc1453bp6T6wlD35nC4FAo9Z7U9fVO-9aecgu61ptbt7FXV8sucj67BU02uGP8FTlY8xVO8XnW-DRArXdP8BJmEv9vrE8EkDx8XVPRwRrrqaRg6WWGNPLeWkoLxxvcqagcFvGLFoSAi8O9a3JQWUGuxHnMv_DtqYbuyGJpIBPo6TM7EIoKCphjSwCgh15QJRb0QGlkKY3niDYt7NPgaTHi9uZgLqtipuWBuDdcF9VZVIA2ryXI_6Dmgid2_bjAfp5qJLahcCrpUl8aRQqg_rMM_sMZB9C-61QdLh5AchdxPIByYog7qI9ajOBNTYfvirig-Yld5CyanhaR9RHJPOtNgnLL1nv4bXRpboBa-vHrlLe_qGFNcSzGF_xl2WMCZv-XMRQr83inFD08_sXHH5XeAqbTGw
+      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcJhFctMFRsC74ftpHIb8knDK8dDSyAuSPhHetyr6EaR1KZ6qNpMY_yJxdDgj7LwFp1ZHQRMBxxe6l-4_InJyGBsSZA2Jg2IaYiNW515Kb9qiOdqm9QMyWttNNNGi10tEPcz25fe25NTxPcoeGHi3H_8WyDHwZG0AeT9Z_pnhzJVxYxn4dKRcUsaB0_KOnvWsaUWgN6NAUguldJ5p97oja3DTCk1kVaXKJsqM3290lc3UqqdjRv3mV79j95wvnSXj_5lJDSzeGv0Z-RfYwcnO59y3a5nuFiPiTeoqqEYTWy5cdcUc5Q74zfQ8sUxE9K5ccxErF9WCvVglT8l935hYkgA4-v5eICCE2QzjHinzIaOZRplSp2kizkFym7AWIccT9io62HY9Z2YT3lwnoJDmyHKx4fB1hFdlbWTBgzKVMQplA
     widthPx: 1242
     heightPx: 2208
     authorAttributions:
@@ -104,20 +91,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIzOHycQ!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
   - name: >-
-      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcIEuFgh0Ygfh4fAjWyCL-1wv3mICkooh9Qj-6NyJmQKG9D1--H3e9LyYkffujuyCfyMVXKTK-KuqB7emV1ed-OYrAJ3KDphSndDT0rXBt7ujxJJmibJVnTh2e-WSIdsWOdSanlbZjtJ72T-rrfWGoleLu-vi95lmTuT9AcdHtMZFkuZQFfba6rfOWyUyRpKczSo7JqFcQAMGVtrr4w-xAZC5RGjpsZz7dmZxqC5H0AfjPOXSNnlhjYbXVz2M2mvHDvJ1wwb5M64pUyYnAHTrTH1fyYuz4PRscdX9MA0NJrXULO2CIQGeGkJWANmr5b2ySeBcDV95WZD3spvH7VIeuoqLJsVA_vySM5yfKg6gXWWTjHVKFMlbC0-dxB5YyiUCHWiiA1jIDMH_0Ed8j4-2lq4mmCBJkvNoTadSrZYwYYY2Mc
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcIRlW9nJ4gAFW1Ir8-Z551v_6-m9zXjn8zldNAuBYgZq2pf8G6x6VHIF4VTKS_lZ5wjIaDlPdcIWaprnSprjgrM_2T25MQZmteGqkESST9oOJCwGxGC6qseOUtW_hT3Ukw69QXy_Z0cWWOtE0pkKDu6yNemwuuub4uBKmbr8oVAqw800V3bX4-OidosnJaOq57Jitfp4ueC-Yuc_ZIyX2iCktVftu4969N4UioUEamJXo1jf4_Y3wSvXIc7iWbkuh_4418fqc7kM8K3ppYOQrGXoqc-6vzdF8tTEYQXcW3zxAXOBOrTrHH3dne5ncd6Ov3EHUCp4j31oPaD0RlMJwzsoKCk0H8l3IRUynsPmqP85n3VPFrVjid4P42PTXzLSGStM_yESSJZK9f4KBY_cFkOYUwjxGj_jnOi20pUNEY
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
-      - displayName: Gonz Herz
-        uri: https://maps.google.com/maps/contrib/104681468251938831648
+      - displayName: A. Borealis21
+        uri: https://maps.google.com/maps/contrib/102773078999110004345
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKgAZZtCoWCoasNcfpNH_VbCxHMzTYBHHGvcsuDCKcPAq6meQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXzPlWgbTNtOMZv6dbYTPkoWgW3P9mNQWZSL9FLYAHr910UES0l-g=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhlb-Q1QE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcrOuVCg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhlb-Q1QE!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcrOuVCg!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
   - name: >-
-      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcIDkYILGSMjypE4lDbseRBT_41liPths3E-eMVlaAQHOKpyJINApftobPGuJeYZqnZljwpLV_sS9RntAn59vOId6JZ4gJ2UwhXzvJZXxr8_Z54AMZt3kATKV09OBiFF0XjATeJPkbp51FB4ZX92YcFnXhGD3_4op_5dhRN7bBRnRZCCVvSG1jEt6LIV_KDWo3G2vPCc4PIAfZaFiUSzhwIju0fvaTz7g0_wJzPC0jWKsq3uDWBQky1RkOothIovgnKURXoXwofS_btSdm7elA5d6Fv8cbX8OW9Khai085-ZBWkxBVf5wdq_j7P6Rb__G_OOgDS8TClXu1k_vD2WWzjbykdPNxKR4W9bFl3AF59LmE4r57zIaWGQpDgormqwk_XyXWxmNe8dc_zoMxieZ5QDO4T3VFyfe2y9u1oWkwmY-Q
+      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcLY0LLrD6ljM1w6AottQyJNqJqiv2MBMW1FuaA5lZasoCwii0OXAMzR0jeF4KvCWGtc2bRziK37CMH3uUb8vh77xL-IneMPUMhao5HDp5IiZsBuKJzKji8phVafgN4D5zall7hmVc_m8mowfj9kedDE_HK7t-xkkFeuG7fWXAFjV3sUnAFPR9VQ8cw9p6F44lMqLIGp7Xn8OFGtxZUMK6A-hLJmmqOcxIAs2vN8JGNF1BBubVd0f8syDociMRHWzRsLKJDrHuFuak_LDNPjdu3N8g9tnipOYCsuca06Uq9dxw
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Kitaro Surf & Turf & Sushi
+        uri: https://maps.google.com/maps/contrib/112648671236993143682
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUCrsxVpUXufGHGlAsmtjAp_O_qrd4g4ArUL-g2OEr7eUJXXhis=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNUR-XB_SKVWpyLowHlUQpAQKISynFIlWy09kzL&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUR-XB_SKVWpyLowHlUQpAQKISynFIlWy09kzL!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
+  - name: >-
+      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcJduxdz6aBgBTSC_d7J04a7g1YUtwQ4xEd-3TmmmzA9C4mCa1yX1i__ht8rAgt4__hgUdqUyuGRWHCi6HaGuqFdjvpLEjqobtj6_B8COlB_PNAxAoD_uFf1aYxaaYPYV5K4hg3z2vcSIA3bS6hp1x-L86yDPAfqTG_GAX8QFVp-d-goHpMKZNREC9lFp0W2ED1Ck32I23sWxpmDI33TewRPdfQg7WMba0HG1bsZcrzyplh9o3KIhSctOt4mgfqvGjWx5jQOG0atjILMIbOawOQdRobhwgNW0hN4rNwB3s6WjSmK1v_NdMwgIZh7o_xncjuqbtXzg_LK816LWMoNHpNXKZ-MkOUj2zX4ORGpylnow3bZlX0eVkUpvyC7U0Iq-yah9cpmuuu9JV1RsngIJwKC8hKv_2Ma6H7TOva1zKWB-A
     widthPx: 4032
     heightPx: 1816
     authorAttributions:
@@ -130,18 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw4umWfA!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
   - name: >-
-      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcIhiDwGctlKu2xWqLL8p9m2ZlwaWgidClCdBmJAoT0VqatNgFsHpBvsMt13MShvQqpoVaSHBTNT7RDgP-exayZPl-TPNsKtkXQMV1QuUYEwJy9Zf0L_pB6oWFIyduo29__m_n_MWL2FKbMC9Z0MjQ7LqHuz4VHUuLLwkUtnpG1o7K9SbvWUgHDbMF-175ZHKRxwt8b0HCOcTbZUja8VVjDiDBEs203KParl4LuiB9uzCxbFShb8uYQ3kyrO0yiThGGIfU4qsf29tErF2yZNBhoiZ7M-LieQ0uXH7e9-EUeKij1NMTHxccTrcDEFldv35yaUpPpDS_9HAzmM8QYHgFSPrWm7ylz7m8emADir2hcy98ZzpAzhM5IF3QmUA5N9zKOTzBsHgbbLhviYH8qjs9wFkYZHN37LtWEhlcxUge96xzk
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJ64EkzK_hEYgRBx9J1vuxOMc/photos/AeeoHcJsAs_tQb7gGwcJycht86i_QdbDyuS1ITM5srGbWW8h2TKtFd-PbFlZYt_3mIKRQUCQgNsmlmgp9qzmHDjbmogJzTLKxNeC6j2ckvwWTIlP9D8cU_b3UTA61YL684GA6JUOFWfb5mL11BsWgGzsNnACucnjxPU03nnQ9TXycLrIYEndCJ62fv9puZOOsCYZZbV5WpnzI1Si0niQENmjz-ONzuNLQsqd1l8bJZhtxy2naK3Wc0Mta_pAyq-qwzhZ0rMMohgbIROGnyZgMmE-Hdc7BMUR4LZQzAJLtcV0w2JGIw
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Deborah Turner
-        uri: https://maps.google.com/maps/contrib/110814295617808929933
+      - displayName: Kitaro Surf & Turf & Sushi
+        uri: https://maps.google.com/maps/contrib/112648671236993143682
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXcpZfnuCZ3gR7-jXhVk9h-ReEX-p-OOWbctn1Tn3-LeLt0mRHuQw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUCrsxVpUXufGHGlAsmtjAp_O_qrd4g4ArUL-g2OEr7eUJXXhis=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh94eXzAE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOz_s5OZjt5jlu-VE4zmPm-6yhuXGL5J3QLNjgo&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh94eXzAE!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOz_s5OZjt5jlu-VE4zmPm-6yhuXGL5J3QLNjgo!2e10!4m2!3m1!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07
 address: 9625 Calumet Ave Ste A, Munster, IN 46321, USA
 street: 9625 Calumet Ave Ste A
 city: Munster
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (219) 301-5090
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: null
 rating: '4.3'
-rating_count: 1251
+rating_count: 0
 website: https://www.kitarosurfandturf.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

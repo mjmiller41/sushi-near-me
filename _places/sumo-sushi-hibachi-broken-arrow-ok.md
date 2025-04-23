@@ -13,7 +13,7 @@ description: "Sumo Sushi & Hibachi serves delicious sushi in Broken Arrow, Oklah
 place_id: ChIJaas6kayLtocRkq1EmydHFoY
 photos:
   - name: >-
-      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcJs2Whp9qGsxEGGR64C_UvL0T-q09nzGTwfMfGLQi_ERmbV0cjNaxCGGMuMb6Dbfv5s8hd1n_7g3RvxdNDz7U9OCQ9cUkwuMezqXxuHu3fxLZuB-WLmZJQtFqN8VpQhOObgkQD21un_yK1zj_BjPBz89xy01-vYomvl0cxYwBuca1-7DHajocm_mb_4gEPE4tR-EA1-f3nG0T-01mJPGzO8Z8UpF27qi6XPVDJr7SKUOh-S0gZhuid-V5DZfrSvpSMWlLQ4LNN_JvGqaGyTyXkWWZ3Vs67MSac1osU-WmLWUCR09U3_u_gEA4njqsA_2XfJbTxztwu832HW4Lp05v9d_EVD8gQ9LcAPwOjSM8AWqKRxgpBJ6tcIiCmqrk-LOre8mzzkXn-xipNWV0a9GIUCgZmExT4EOvkmpoJTRN_6ag
+      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcKSinq6u5sMRFY228-ZFVrgJlDNcpxCDt_GDEm7ShDiChHZkeJrjWJYLL_A9qXPYAOQhr6ScKB5zBr5Uhewe_mt5KV5XEy9Y1nhfLXuVnWm59VHv_z5wat7M33FX6L6WbBV7KZhXJEgpNpqZqt9xnjQsUuYnK8FepRo4iInqve8g4-TpXxdfMoRswRYf77MHVTfpTojn4BmrTTip8r-dbdzRqA8AYcvNEXsiRvfhlJeo1l-DBSYtKj21fSPseV5i5lW-AIXFsnc7AdrmXL_4Qlb37zVmKNNALkuo1NQqLSeZ9rU0brPeYWhFRmszDFJDUnwvM0CCEv67Ihq40FSKpzTGTd_8Zl5AXItO20JMvojekw0qXGU-XYhC-fHjkHm1yPumesppVWNQeP4dJL41gDkDTmd7wqbb2ty0C9-Cgpc0Q
     widthPx: 4032
     heightPx: 1816
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe9quqSA!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
   - name: >-
-      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcJXn69xEvFlbTlU2zxR16C9QdmMBxyIX2Wji_E-YbRxA95wx3rLXHYrk5-i8xLzZno7Lll_JR1fqP8-5Bq7Q4gyZfyEfiDaahiwpB26W3f_sPKEKqyKvPZk9TZI6HJP_MqdNzjI5creNdAulHKGwGEEU6bATh7QB8irnZpKWyimQ7o92aL43HiKWWsJhOim-Wjowrvrzcq2G-y8eU1W_AfkL3lWu4uotYwMEKTMJ8uR0tcIlmjn3FXaa9MGxqB8nspRXR3Y4Nh4jafSOcvs45OCW0TSd0pKWb2qzcwDi4E87A
+      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcLVOQTdliDg2kZTia_y2Hpi0_lLgxuua2tjQe3VfJEUhnTdOFwZ_BvEzFeUO7Da1GJ2CPfXoukiYr5Hu4F7XzAwDxEb8LY2PAE-OzYsfLygfizXaYLqAanT_tsXoqgJZK8SLDtRq49y5tEtZc2dKrEr3_bJ3-Sfc2pyPnefDd7nCYvKPPJcRdTnyUa0_2iaTamiL4w2vnsqjfzRZEH1pQX4aSOQ5vNHFSYN8hAHnGAjUfhpeMMr8Hg4dcVhqKqGr9VpAo8hsZ3uXqoT9Kb3pr4obxPidgRHYGRKQbCto9QQzQ
     widthPx: 960
     heightPx: 541
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNv2QNOWVf2BiHUmLeryhLN6p_nAlWeb-qZBguG!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
   - name: >-
-      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcI92d14kiBhQ8xHUUtgunKFKYFB0DETOKOOTc_A6WS-9t1FaYXhwu9Ud3VuNSe3XU9lggfGtVjaKON-9xroqdp824JmiyzKhDEeAw-3TijJimuHU4h54sFlAgkYMW9VtpTeBUl7tG6gCrX_ML3cb-Ak8mK3jc8xZNGQQuuz0hOORBA_Oh6OinkZ2NIF8UGNlxJxOya1prl_JE7FurbLA8q0zp4phr1XjSpU6R2tyMCyVRe4mXSMCwXKDjmlrDw6lorUQ6KxlxZt99bkXFaIiXDwOoxo_4vLVMef4wxsugmy-taTCStxwZfM9zeUSPpcJdjbJl267fLIAS6-G11QJk3UMhTF4iZfzA0cf0oCRjQr0lcON8cpT7M867ZV9pmUj-YU0LkTcXRg_Atvt2H9AINUnQw7_X1zSZWZmSM7VGBn3Tc_
+      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcJTtZrEwjATd84CYqIrMaU5mwHfbMp8RPJexsT4ANq3u2yJeDe7cFeI9IWlCOh47vyhg9KXQZWE98YDRGi6jf9BUtNYjS_R70nqanHHSts0tlmGGjxr8rYpRtjApXRexToQdn2P6lFJzABJEqsJfdPReRbPkInQeItZW6VKLecQJBCCNk-0h4fDoneP2UNq4STqcv-jbOf2fe8QAFNpdiA-OTBYJWYRq99oSCxGXf-za5KzRh-vRoTUgHV5csdfDmuFq3mVdzlFAqwq3C8CTYSfGVUoiLNtujv4zyK2Mq-xV2kbBe0cryj_vokD5SbwXbiE7aYEP_vXK6WqbiKPhLhDJ3W50FtWoE1F3QU1xMUumPnq9TBGuZ2QWcHd9WivrbJO-gVGLA7fxqRQ-fgAbv4-WAoO3qEGdgikqrNp6QxTabhu
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIrOzK4gE!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
   - name: >-
-      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcIRKN_WYk3g4ZnqawoXcqfNEEzXbKRWvudIIXc-bx_28AtFztPpDc8g8uP4r7Ch-kWTVdDXHaTTpqIkovvMK0qD31J9EDfJmOfa_bUgNnQplD4C7v2GYN-K7j6-n_wEj0xIAzY5oyYHIbglWKBs1mCX1iFoub-Ih3zsQCUo7cEqFLfLVZFeYsly9TSSNqqdn0lwd4XitEHpyEBQIWdXLSRYo8ZSewpa7m0fWdy2tsuELBZd8_lh8wPlMBC8zPvi3-RsbJc1mrkjsYBFzEHKG0PI2hf6nIJmg0xC1BA3F8jm8A
+      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcKthfnbFszrunUc9TQrmYFctyMMNbO5mbbeY5GEfiQXPt9InlSlrLj47068RB21TYzF_WTQmLtdPOUIO4cTGq3bmAE7qKXvSisTdK7xJ6lVAMqi3Z7oVCMoo5X0J6ldngcdPJUA-QPw9R0gJoqZBtpBQu5n0U8PqsCUJUJ5o-YEJvRAQTwl-D4lCi3SnX_yHs_eO-KxUCHJtwVhjMQfzenaHAgSUReXAd0_b6Sg8qL_l44fk3JwS_mcDOiNHUBeePyY4ziIUEUACh8DbJSXetemKMhKec9DKY7OickyP9I8wQ
     widthPx: 2048
     heightPx: 1536
     authorAttributions:
@@ -65,20 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOh19UAEpW4O7LhCcKVEVOM8s9i4amKcplWTqTY!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
   - name: >-
-      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcJexQREZwLIPwpGoRpF7FpfIS4AJn50HppzBgXU-rmrZ-AUOfcjXjtt_tPbpGgubUjzzfWGUNSuOHgcxqSbM38DJkcVrhiNoKG-5bqMRcIusF7HlSZnOkmvb9-YSXKYIAaLY3Dz0VmB7zOcJafb46taC5QS5U4UMkzR-r5D9f0xRAd6DNQrSh7Z7bQVm4K4RSDDwOS23VFJjJF0-QIKzQOhzMZ-rhgLelGn7xnFR1z0jtqjj8pt7Kg8lI87pQRNvh7tg5EP8a9T_Jekd2lxw4ritZ11-tLy6pENnsoaVZtdUOgzAkcJ93kg55XF94HoYLBRvyQzP6vJ75Zr8yXonwJaPMnQYH3RCp-7SpDtGBgWnkfJt2WR_FRIBKCyWROTd4-k4TBlTx6Ct1qegnp5Q0txx6ky2fN3n_rhsbLx1CRTmKYS
+      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcITYv1JKpxPiItp6Z8xorUG1VBUek3pu0A0vwP0ztFZQgJzoPweFl_sAvufgb5qMfZ9uGbpWn-Adf8-W2deCI1DPteGRYcbArklxUnmwvNz216hZHwODgS5EDN7IZSw7P4HKj5q41Sk9BPy8LqR7JwBgYOnvHQy2oDQlgpyDhf_eTaId4fcD4XLI0Xu-ni4mq2ZBAKRjD1U56Yf2fp8h8t-cjS_9h9GpGvGr4A2xZC283ZpWIdS1OczUceq9-8EhlzHq-z0w3Zz_EUt-uoA9FD_g74F7KTCohCT6iTwG560mQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Mary Crider
-        uri: https://maps.google.com/maps/contrib/100798888187642242146
+      - displayName: Sumo Sushi & Hibachi
+        uri: https://maps.google.com/maps/contrib/104261996126210619512
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXjvfHbxn3yAzhgglrL3h5XLQ3we9lkplfKRt_y6mDGmwOSmuTsuA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXppRfIc05JHIapHMxrGXAVfSuoQ05Ydr2eqPBHyD9iHfonAlVU=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGgoHn5gE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMEkVIY1ACbFT66zg3qO3tluMMlSM4F8zCr_9Ws&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGgoHn5gE!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMEkVIY1ACbFT66zg3qO3tluMMlSM4F8zCr_9Ws!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
   - name: >-
-      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcJqfjw5jjlZFPVXcSPRMMy3E2QzPYqdm2gCi4Hr6amwMkXJzKEbOnap47byr_C7AgwyLfnfVIp_yKmo_5M5jcf3rLbiWBXiuVGV_tuFbX5rz4c6zn1_jaoMoP1FuXkrhgkvHw5MR0gYuxPAfKrRGrUxdyNhbV2ZG_PACsulEEgiCV13EBETXtHrP12oPaNKFNTaqb2RbUdYitsCSFPHRcAK-psWdiSb4_oxy9G78AcewlUGn2UEadrXFOlxhrKG8qkXv_XgyLSHO0JWwLjwG08G3cKnB9utldOUZgBT4IuhhA
+      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcKvinamIkNgXutEHSXPrPr-8i3YumEKUD_q3edEazVdnZwlTQPw1dY60xOgjmGRR0wkkuusn58UDEOGkzpdyX-GOCZUlPQYAGPxvmhHLqtZSailoyFxNyOQtrBUszaX7RFZHIkEaudOqHGGv3L0kYD4DwF9RSoGXjyamiMKQCBTl7uUU4ukJ1_vjEz9ig3KcYrrW-J2FNE9YGzN9FGWb0sUcP_H3biH0Zhoit_k0DyTsv_zTIOnpugXaTAexY42jXmbpZnjCIJ-edZhP1xM7DKbQbnxVGXAnY430Cb2QVPP8w
     widthPx: 1536
     heightPx: 2048
     authorAttributions:
@@ -91,20 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO0sR0-vjbXQZvbyGW-HBvGzaEdEqYZF4JrPpQi!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
   - name: >-
-      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcKJ44AE_QtU99J5PN5wgG9ryEdH0zuAJ4Loe-Ynp85Yf_5zlyJaYBHYYuQNbTyDKQaPhbIoqzSCPPk5xxPMiWQ85Dr70wltqY8Y5jzJGXnwofE4u9YJMmZwmkvpI8TDndxWqMkE8eamtI6WVoB3Gqo5HCVX3_WiFzfXdodKUeU7WWUzReizPgFaJmJi6v9Ruon-76pLge9XFfMHylxjI8wwReUzBHq1q2joka8ZAxHhoeZXUSJFC8u0UUSabGeH3zdHB_01UUNdrfGS6VR7zs2Tz9jBWL4_OL7MU0Ax90jaHQ
+      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcJKkb_r9CE0fjtEFUGo5suRCFKySPENrloc7fyL34Jzfk0hJsBg3luzogy5T8O7i7J636IokvzBVg5B73eHKBpFSuv7bRW4hRBLlj2HV4aAQksvGJo0vPGtTC1LEsyi6iy9VKHxPxz8A2ng7DaRKFynBBkOhp_W-fkkfItbZeSVrymUSbUSk5ketmH5L79lftLurqX98QZXUwkCIEvUpXNzLD3WHJBI8iaEoELeOmGvEyqKxGWn8KsyJtXLzQzl1RTFG-IZcgk5hmKnprMyxDGvAexFoHtPvFa3ZxfwS9EOGiZV11C-_OjsumFi02i4sp7uzZsKukhNbe3gMsF5n9CntJeubgDT2APLf2Olz6sceLb1JeWpgxiZvBddOYfMME9_B5RaIjIV8E5xzYkYt82DsBMSX3709CFcx0EXScZxTtgC
     widthPx: 3024
-    heightPx: 1702
+    heightPx: 4032
     authorAttributions:
-      - displayName: Sumo Sushi & Hibachi
-        uri: https://maps.google.com/maps/contrib/104261996126210619512
+      - displayName: Mary Crider
+        uri: https://maps.google.com/maps/contrib/100798888187642242146
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXppRfIc05JHIapHMxrGXAVfSuoQ05Ydr2eqPBHyD9iHfonAlVU=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXjvfHbxn3yAzhgglrL3h5XLQ3we9lkplfKRt_y6mDGmwOSmuTsuA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipObN9ncbpAgGVYZpr6NFbtnxiPMPPzdwj_R1Oux&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGgoHn5gE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipObN9ncbpAgGVYZpr6NFbtnxiPMPPzdwj_R1Oux!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGgoHn5gE!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
   - name: >-
-      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcKS9Ut-t5lmFhQho2yvvzS2cBnsX_uSFOY5IpSg84iLgDjnCFg4bsP8T5s03QwNkpYyce5KbmS9dSntYMGd4Gdv4Fn4EP_oQF8IcHZmM-uLV11EfT_zZsmMlpsaGdIXTb9uqq7AhsaLplv7BYvUMpfuX_XNfV5m1ujtxGm13Ht4VSHowbTHT181sO2nPx7siG76wsgOFVLsXipqc4n9gMckVfwaGXHkRNY4ik3IP2bCsJDezXAhUe7PR7_pK5ziYQEVUZ_uMAciC4ctQdI0gmBRf9CtVrPG-21wcY4Tf8pVfOeQAsGcOw_6TNrXouovHLLsRQKKgf-XJuTjGFkLEzF2Pk5bKvyBQSgfKbX4lTgMjFTomYoG_HLXRbbQRUN0sC0wOZ0gGphB86xHd8JHe5CYdiKMkPK3_BCbyimpwjo
+      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcJV9evJjy3km9DZyaABbem2j2iXhgqcLYU223ZR2gTuuLz5CxdcNeXtUfQfgHCRJS-uVstZSpUiLYRGyGCkYwQfJKhL2VZsQD5XE8_X_5ZWjjFjKplod8Ayt91QvcCVaeS_UcCvH5hwUgwZghl-Ncz418qK6KJzeHR7nNNA19MGbQVLijvP57lK4QTVh5aERgBzHzCoiBV-gNG8oQmyvoU6bIv9kHfuQA8X4jTUu4IZODvsbZqxvH1Lktg-EtdaWfqIBt89ZMICTmXurHSfO3cjS3Turo46sdSyVow7Ua0FGgVK3n5KtknURFJ4oYcMeq1tCvNZ325ywqkyaI3-Zs6syWmurQv0ThdefBGTgZEwEg053ctSdpZURdqRZrvTK5lq2ktuR6sii031Xt7-k-Yg74-EZc7otWY3MlBuZ3M
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -117,31 +117,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx9pnPcg!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
   - name: >-
-      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcLAn1vsUzZqZMMiSa949JhjuxVW7fIL9pu05BSPq3vnBm-mPrhAmLfqj2cFhP9XYUODeSRulNCU0RaGJA_USGOzjbuCUvkT4nKbf_E5wMyMIiWKUrTi3qK5xbzp1GRIPa6krGJCVReqDfYwajOX3LN3WaCPH6vYq_FI8fBzk2j8rykBEQHYL398ReDK48JfyKVXATWgmgucDtM9p9I22HNseYpgqxWx0VYnoev-PHuWExXRRpKk6DREwC7WSdBzaId4XUAK-SpF71n1EG7xl5vqcNjY_ySI957QnCS1SPrxDKACLHRlH1Z4ffW-_EAD9xDRm29w-DrDjA-veRoFM6WcrQ_yOf3Wk5vUl27J7-KN5H4cL-D6C8TbOCYkZgAY_ejGSXRhr737J-fsnhOM0NnGYmH2Zuy6CSU9niBn-EnREpOm
-    widthPx: 3000
-    heightPx: 4000
+      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcIbQqazmTg-f7FFMzi9pnaND9QrlKROqkfyVYPXsjjITQijj3xBPyCMgafEM285WvuMv4prv7n5TnZepSBIGUnZpjjhFJwE-JiEh--uPIzbh826jrvOp-Ojad_fmr02p1WVMdGVg-SRTarKC4QHeBvSvHOPeHm4wQjrB-QZGqT9JRbOeo9MggvAj5v6jxwqtOxZ0e7htb-wJ8LMSi-b7B-H6H0k4VX-f3mwUxIUfvurtmJ_EcYFxsI0s0ogNoN8rD923zpb8bVwI3dAIPPGjKP_CNcQeGHeOUpS14ZY-pHXD5JFo4jQYIISHzm5EA0HcNj_IKI-egQ_mdfFqV4KhejrcF4FJHvDJx4WzcdbfbHVeALkmjdXJhZJh2N6EfLfPvEgAvdticJoVuwBBE8JqU5YofAyRlPTBUoIn2ECDPylOUq6
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Valery Gonzalez
-        uri: https://maps.google.com/maps/contrib/104186255689330018809
+      - displayName: Matthew Thomas
+        uri: https://maps.google.com/maps/contrib/100379424720039642623
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUITL4qLEkWN29ZqNALAtLe-WKuzIPFlNhDyyxfqkM90v3VNTS5AQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWMR24ZGRWSm4_521XUpU2Y-xZ6qVfxmSM_5BtiJmLa358KmEvOrw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw9Lrr2AE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID644fQtQE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw9Lrr2AE!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID644fQtQE!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
   - name: >-
-      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcJToJ-ggWNMOUzg93YsKYVkHEHQp4aw5iGixZbnwZiv2UveNYO56Xf7f1R-tkpq6kWJKYR-JK5LBMkf1eMRtStFlQaYMjW9m7A48h41cB28pictfMIXQlKhta0LGnYwXdvCJfnrFYbW_ggMtRI_kCBILAbdDi_OYVqiRTaa6arGFylZcnv8YDvG2g0hAvUkfqR-SpeFSlb2IlNfxmFCgmkhjeNmp69Tdelyz7DU5RnBsfW3M7jRuoAH6pszp1Gr6xGwM1nsMd0r-U3hxU5x1Gt9VnxsdkSWHKHZ3JcYIFg31_VoGk5VfvjnkD48qpJUQT9jx9YO8hAudpTXZ9H6eXsE3cELP5LJgS_8Ib4VLkojBGUdAfvEO-GIhBGCLkkqoGIZ7Ny0D8X7JV2taomiq1HbFy3Gfaiy-G2jtc6YEX-DUdY
-    widthPx: 4080
-    heightPx: 3060
+      places/ChIJaas6kayLtocRkq1EmydHFoY/photos/AeeoHcKSLl1ZE3ToWdVKAMjQblRQlr9QM0I7Tzastl8_lsHBOfkkxKsc-Nen2Kc17bbHEhYNt0qTjFIuwdsXfFJBK0fklnTvg9cmaUZPT_zlaoM7vol8GfUTixenWLVtyqfOGMIq63wq_RrI6331sLsTEzZ-eLm1sgsNnHvHIG_YcgHMz3NN5E1fUUjXfxb2h7ENOFv6k_wEs0PavgnJ-0pd0QwRaSRBSbcc7flgRjwGUWIlhEkaXpjuhqe1y8zCpZPD34Y6jrphRBQnwnOLJXZ9h07oTrdcfuSCOlW2tPhmRrbpng
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: Brittiany Burnham
-        uri: https://maps.google.com/maps/contrib/113469364934312005048
+      - displayName: Sumo Sushi & Hibachi
+        uri: https://maps.google.com/maps/contrib/104261996126210619512
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVvrk94ZSYe46o1JAswH55YXJXDGsOSkkCtgeTJEfTTxsN2lZryHA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXppRfIc05JHIapHMxrGXAVfSuoQ05Ydr2eqPBHyD9iHfonAlVU=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-mOO50QE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOUYJsPmXrmN9wTUQYXFTtGG1NnZAPHq6P1h_4Y&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-mOO50QE!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOUYJsPmXrmN9wTUQYXFTtGG1NnZAPHq6P1h_4Y!2e10!4m2!3m1!1s0x87b68bac913aab69:0x861647279b44ad92
 address: 1728 N 9th St, Broken Arrow, OK 74012, USA
 street: 1728 N 9th St
 city: Broken Arrow
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b68bac913aab69:0x861647279b44ad92!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (918) 893-1881
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 478
+rating_count: 0
 website: http://sumosushibrokenarrow.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

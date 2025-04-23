@@ -13,7 +13,7 @@ description: "Sushi Maki FIU serves delicious sushi in Miami, Florida. Try fresh
 place_id: ChIJ0Z280Sy_2YgRVtdPjsT6c8o
 photos:
   - name: >-
-      places/ChIJ0Z280Sy_2YgRVtdPjsT6c8o/photos/AeeoHcIjqqBGVnSxA-_N2INL3xrRRzm1zzAE5egWI5yEm6pOFG3o4Yjjw8FKI5JZMpt2pP02JtuHx6LcYrrpLXbsoa7H0JBH9tTGA8IvkYODermjuWMb6HTdDk7ZTyOvr91GSSjkDEQtdzSTL-QstuEgSEzv5yOj571GHlbIAPcRdcZR4tPFIMvF_yWr5-P0V3Y6uFDfmQT-q0qLoLz3IvE79GwLpHYVnUfVuWmwYF8Kf_OMNXqDskPCOoBAt5cyNirW64iJlziyZzUguDu2NrvYBxUWv-t1VilNw64zQJBHs2Aorg
+      places/ChIJ0Z280Sy_2YgRVtdPjsT6c8o/photos/AeeoHcIe-8l7xsYrC-mJm1nPxwdizSbNvZzQ4aZywHwxKEJSoT1RGyfEkwtgv2NWhc2_0GLQRZgh3Wxd9QOhDoCF10XDq0_P9fLuJel3eEIf64Xs5Mv18gtB41Kgr98uO6SDOv4S_b730aLuIKrnXaDPeLQo-X4HR8m5JTOHkDuOuMQRS8V3AYRCfEX8ghXg-1k7rRBe2AH1PhwKIZcI1LQIUpL0EeoG9gVAQb0xUb7j4YsmR_BkWDllhk_-M4anShFDhM53Evk-YxFvTe9L5WhprYTfegCjLJmXpm3TPwQQOQT3kg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMk92IskxTg2t_UL7Yy3I3s5glKfC3baM1Vhj1d!2e10!4m2!3m1!1s0x88d9bf2cd1bc9dd1:0xca73fac48e4fd756
   - name: >-
-      places/ChIJ0Z280Sy_2YgRVtdPjsT6c8o/photos/AeeoHcJ0b4IWeNyX6Skda5LnhoT5BIh-HwZ3783ZQ7_YCdZnO4sN4BeZjdV-8bJh_WU6JhILuvcYwEyvkhOqkZlHlGG1SmH26B8WUxApTl_SsbW1qiEgvu5WbqDGpQzTrMu0tIhGNb5on_fIAxpGV1ZMi9xKl1Cs5ghJGefnvCmKlxVO18XVFrMwOg_QaIZNImfUS-eoSMTS_XCydeRyXAxE9HrQXs2xaGDtjm0G6WOhHlZFP57RImoLSfD_wB95azI9EUcxj2vpQql6YmsfrzCd7w-vHanQVs2r8bMuKFGzfCe0Rw
+      places/ChIJ0Z280Sy_2YgRVtdPjsT6c8o/photos/AeeoHcKx9Yo_wM4DBhfvaDMTHA7YYeWSWarWN_ZGaM3wOkOrm6pAKy5k_671mTDIs8dnl036ErQ6d-a_jOlwmSr1HzeKBaZStnOIlRrZqwuQEYDNiiwqj62oQNeXoy7gBS8AtR4IRELn3HcMG3RQLBbvGd-tJEOGxBAN-nCVVHjahLHFEw70WsHH3FndpnEuiiU7IlRyszAal8sCzrNsOJbuOKNjyDZqqnlVNw1donMnbQFf_rgBN7ym2sPTvSZCadsSDN2S3dDOZaSZHDeG0wZwi0MISNzyXe1vvJD2Bk4L1CAQcQ
     widthPx: 2048
     heightPx: 1973
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMcOBnBwQ3v9kqpQTTBGnpHN-4gmp8Y0GX_Wj1O!2e10!4m2!3m1!1s0x88d9bf2cd1bc9dd1:0xca73fac48e4fd756
   - name: >-
-      places/ChIJ0Z280Sy_2YgRVtdPjsT6c8o/photos/AeeoHcJmqgj_zDqRElUn0zwgatXNJNa-exLNAPRxTTm81OuUnfXa3WYMyO0J3FmPu4d1kaKps5hQSpj4oOWbwwMmaaDs4aPttKMUDrpmmpSYwboVGP9CrDpFPvk-oFQAKD58Sjtj5ENzXxgzE7JDPo6rn9mlDL0LUl9nG5brMhWkHWZt415oBeHOwgHjO4xprGBwkhnllTrLaE55NSjd5AS1UmCJS6FE4SkPjfbUKNY96E5e2JlTZuqPjTj-u3weEkZioEJNEIV5DeoHDJV-OdnrMQ2QKjcXFfKeEC2ptlUgZcefdbDxpPdhlhK0CeFzRPdGX4Kf5hKvGpxXlJM6fEvd6c-xo5r3Sgz7kDBpcrUoAUYNc7ktjKLGlLdbvbI2DtXO4miCrvgZ-_Hbmp87AU13DzznrrpcG4Zh_aj5ndTp2--_tQ
+      places/ChIJ0Z280Sy_2YgRVtdPjsT6c8o/photos/AeeoHcJoNnRr-Gm0fuM2XXaHB1g5tGmVcEZPOjXj0xB86dgzS-p2RMZYOLlZkauqJGW2TJ9My25gt25VbNOfAoi2axTVIdUm0vaPwGs8a3m3CJjgBAuKJnNXUdzHOqJoDhqHYvOF6hciFmhgStTyxJ39hn0iZdpZp_FVzddhiDQehziLdsMnTIGMDPqtQa7Bb5DrQ1bltfQ7l15JZIhcdLBLIuWBdj0CWKY96Iuwrt2WeLiD2IO4u_Wnzti7t2Z6yHWS9TOPMuUtISZTy-l_7BVu9o4ABIif0GG59A54nvRjsMAbkly_V2fpLM31yMC3dUqJ37V4ofNPphgAdlVRouSkvUEUvQukMNoQrQCnI_dXHQ-V8aDY8osYmZ38MnVFD79hYpHMeZBhwVW-zMO9zABXIlootcB_7w6sv_ES3VUdIgJhVA
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZwLbvGA!2e10!4m2!3m1!1s0x88d9bf2cd1bc9dd1:0xca73fac48e4fd756
   - name: >-
-      places/ChIJ0Z280Sy_2YgRVtdPjsT6c8o/photos/AeeoHcIOPSG7QcWBNgutIali9xO0VOnG6JBFOd_hTlHNfcNS86s2CyV7jH1XSsazNtvVF7N76ZA8uUIGE8vQr5g3D60VkNoH1LWw2RggOMHqsTz68apVFi62n_Yr7DQ41VhhyLlrE7RokBXKIBg13R7ExtWsv_bqMKVjhxg5H8YbdQuuvyLONEF_UXSZoGxVwz8GtUBFlqQmvBZpCMac1IN-bSMJdwmPKAEKZuuR0OTSNd2vUNCukBR1stu136XF3EgPjkx2_UzLssOQ8oKO8bHJpoc0XGsxte87F5YxHwbLNwyjgg
+      places/ChIJ0Z280Sy_2YgRVtdPjsT6c8o/photos/AeeoHcIvIZRhT3NVbGeHyptgWaSWhnlD2A6nl4LwPAWggmMm3BVkqL47yeINEEqoKpsfbsGP_NRpG1Nx1fasLdCjbYAzGvqSPWmwB_stggMg7EBE0WhjnIaVlmc3R8mczyy8bezPbEbHxjOji94KaVxewVQVU5gpY1iny3UueaOGjR1oO661wcRQCc7rBeknzddRImql5aR60ofkYZgiK1Rq0A8XAEQoEV4OOWq43_SG-VhBZkpQHdjg4z6jc0GgYFXUAOMepX8bJNvHJEndaDrQCrUImClWsV5AEb4G6pjiIBHX3w
     widthPx: 1841
     heightPx: 2048
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNdcF-zDQUBWAeeEpUdP8Gw5htbfErJ2pqWhMIN!2e10!4m2!3m1!1s0x88d9bf2cd1bc9dd1:0xca73fac48e4fd756
   - name: >-
-      places/ChIJ0Z280Sy_2YgRVtdPjsT6c8o/photos/AeeoHcJBKaMiqKcykBuAvydD38TZc6zyCnyYs_BxAXQirS6A8Uq-oJUhp7Z7MvR86EesCUbxufpVKvmUU1_VPwpi0nJl2_lWb5M2aacNdwnugKVuK9xRdSGDQBu9UecSW6glgweC4MrlUIZS6And3kCPY9O1GiXOPM7LrAVOXxZHO-7KZoTM8TIpVI2Y0V80hTQ1-_pUp1j9pwoh4KJlhH2jpgEktS9Gmg87-fUbGy96o5NJiIbKYE6D4LG7ilB_HGH1H1FnZqfxji9uuX7aCZmYRaPAIyk4BfV7vpYSrVIBQi65TQ
+      places/ChIJ0Z280Sy_2YgRVtdPjsT6c8o/photos/AeeoHcI_b2_zCd8bT_4QgpmF_usSPZ1AmSVPfcSIRZvPtv9dATbLDogs5PifirCEZISbdLW9HpV6gUffqq3uTBtZC2m42hUS7lafxvsqGBtD-cjjeHjgxvSc22joz3x1ha0T6n5i8v8Qs2GEnJ3eSeG4Yq6bNGxPeioMQFms5VbrMzBrggQ2EyV8nAfON0YpKfJNYwhyMPkMiOYqaOm2iTtbQlba1oE-_1xqCzRMnARcoFR8pnpeivHb9v-FMPOOQv6GS_jQSxOiA7mw5uDJG1Cy83xdoO_SByjyh4-RRtMZ0b1IBQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -144,6 +144,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

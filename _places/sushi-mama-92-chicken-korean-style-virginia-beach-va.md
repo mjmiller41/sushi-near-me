@@ -13,7 +13,7 @@ description: "Chain teppanyaki grill serving steaks & seafood, plus sushi & a tr
 place_id: ChIJ66NmUt-VuokRrFnD3Q4G39Q
 photos:
   - name: >-
-      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcI0HOfo7sDcfbM3NzNzNKsU-oRzmgux07qjmxURma1YbnYcfbfTo2XQ3168A0ORJiy4WRQAhZEcafUSA-SvDtgtKmI1Q9E1B7Dm9DwU68l4EpzDaLyGDHwb5wybKAs9g30fa8ONNIjXMvfv-SpeYHFqW2bgDfkl8v0JzTLWJey2wHH3RoRL5HR4QYA8fSsn5tqXOjRRRUqzE9kcZhgziUp_RY6F8wOtFvhf5FRu2x8ezkr33Yi46_Efx86UgJJ1JGqszGgvMmLezGFOg_wvxanw2frNdLZtscNXwZbNOgk_V4iRShe9tfbaSwztWgouY7IdEUELkVvTEYul0RAvjkLIxhhHQwnkoiXzG8UzJUx5Tf5UwUg8Rf7vpuM5XgNqANr2RYpdf_sdnBzFyngbU2U3lFLmmxQ1EmYPUxQeN0kj3A
+      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcLfxh3s-yK1WYuWlg1702pt1Ky-4luC6owisBp5yF7t6mfMhi3VrfujkLiSV63NQweJx3DOlXxapX9RrAI-8UM8614L_LbJDsddD-a_3phZQuibywdSeKMF-ZQkRw24mKX14GjBZus4gF2AOxGR36RF-lifn2OaCMkGsSZ8rLNbonYFW5TkEV8Hi7yVVp0ZeemVi_ZZWXkYGjdl7l47kzV0xRP1T7c44vhPi24S4QLXAgSKFbFGTltS84eGs2SMJX2RTbwmY1JpVJZz0FjLIHN4ifwapTuI2Nr9KkOqzlMutSQhFUNdqKk3yEZnnOq6o5yPYmGLxMp7H4rwJlCMLTqjgWqwDGM-AkIL8DvwJOlPOeXTx7uXZo-OrUMlXX2kU1rtaXEON6drERgaiuC_-QVEoIrE69Yj1iN_4cVEQBnihA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxyaPtAw!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
   - name: >-
-      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcKfOyHdTIzhthyCBRxnmk6DXyg2hgW5q5-T6owocbUp6uI7YcnyrIpssua9y9o1A6Zg_YOQGS-aVoUKSQSAYnuzDfYm5jqac42HSJYwldyzUS1_fXCi01REICPs_VEIxGCuTlo0QkX4jabFnS9Hjp0iYFXQRqYSCNwBzDNA8EbXmBgceQkOcL1xADCw0JtgkNx0CsOX82TkiXX1z9656p_GMXEUVoT_t7cS09cBp1-wUX3r_sTvhPDn8VyacYpfwHs4NgpoEQJEoxUpgBk-852ZlFi-freWqc5K3U3bfsuFvg
+      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcIMM_vG8QKVRHZEmy6cqk-AEZdEolEjeQHHQg-4tzmKNHsnuam7FIvD8oKlMArNIbWyeefjRVJD-8-LQQib0ZE9IgBl4EiqXY66-c-HpjHeZA0HDzA-qo9C4MNaIiqhtCsTXlwV_K5h01ElJ-KgwiThV3PgzU8gUrWZ1MJ244dMOqsLmmHcOISg2o8laB4Bdl66yfc7paRCIWDG6XQPW0XFstch7gpWuUXZ01fChVtiVYZlk-UnSqBAaV0et-XBI7caoZ23qJ26FsTEYsuFMmbfAQxnrqfId8HdSgtxc5ZPFA
     widthPx: 750
     heightPx: 1334
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMHW_NcBLmrjH8v7UlM3dAXcs1VHCj-T9rywAoD!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
   - name: >-
-      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcI9Drl3E32_59h0G3sGQZrkpLz_lA-c2FdMUim5jIGIQdM1Dzbrs9B0IXoZySGX4Vz1WVdPfq7A72JAbaRIrQetLQE-wXiikBIN9iYGqp6Wrl0RzMnjNpgqEYipU2RxnziwyxXnd4Lsu-0LR3G13GBqJRjos9ergifk8NIHSASsVX3-mzxY-WjjGl5fo-w9dOZeI5T9IhTKkAYMyoEz66bjfv1YPPVOG7uDB498goOOWPbApPlvs5Xiuj_m5MGu6QmDWEIqrcUGHCK0MwUIO7sq8KGjpiSiPLi1bPqVH6We9WlK7oHRHy-_4mqv7e_Ggh14meYWzBa0kTAHlj9kI9NL8CrFmz_81_uVa-n6yGSEDsAiGx8wb2RKznlo0ciw88AvBzjjwNvlK_5FvSOoZOGoW21P0rsWusgzL_imOYPmaA
+      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcJvGSNHOlCPLM4dxnB8_GC8Ttawi0pzpypZH1FF6mLwF0jguxcK6_HMswEhFCqtjhWNytgUYBthVep96-gkyp9q89_fIQNEW_sWSRhRewXOc7XHK2aqow92LAcYD-XsfmA3WrGPJ5CYpD_OhDZillwIIgRS-aCU0AjFsCLq0wH2dbw5ASAJkVO4a268UiavpmYNReAyc6RMKfRCRbD7tW4usKk2XYxznK9HuEmJSgyV0PaQxtwkuirPRfQpA8lklnpudn5IconQoM4DEdq7zTsX61FQPJRH0zIF6dGPDw6qKfpisxhkfY5ZVU3xO-UZWD9q9TqM4IX4qtqYRTzRV6vOviihKGZAiUmMPeu-rKgg806fyjD3AOoa7FH8y3whGTEo2AIFKaDoJMlvVoII0ajoxPs0gbfCugo5fNn6v9Jo6A
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -52,33 +52,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn-LmdGw!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
   - name: >-
-      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcLadkOIdFHlK8ckGspl-see7z-7Mf1LZd2uoPOTpAYNHEZr0ter6ihJb8tmXHjpg0cuAlu_TvwNEfEUuWt4s1tzgcINJVJpv4pM70ci6PlSYeDL3ix--QOPmkqkiysGPucrvSX5rthKd2NQLhWClKHmI7Q-8nZ5A8c0LbV9Dnn8grwHWiNdRZKi_AfNrvS48h9QCUSfjMkwWZ1EKcam77uFB7MdIJ-AXL4UL5SEV69pcMSzHkerbge0cIydOlWWGEBdfotnOESAlVQsxailGanC7_JcfZDg_x7CB1dCe-zwKw
-    widthPx: 2220
-    heightPx: 1468
+      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcILvy11TwJ7WMkMNtblsm_4fuB6dpqRzZSMMSsuflQq5-XL17fo3JcQTmTFpvnyGOc_gfdrKvINQ_ccIpGURgYUg3BAnYAk2vt08KFsby55iBkFkMd9h36aiwxb6u9bZq_fz3kjV5sMtYiS-eVbFkrHYXAOjMO_yTT0VW_XF9tVJhqzYl6uo1lLlfbFfyopgChLhFomCZQvEovdsQ4JfkfxdOVP6k6POFfWfgjDQ2RzePUR6qjqdUudfeDR7M8b_l0aCOYXfNdJJq834Ref0EelFehU-pzH7hh_1dHI2vi-5Q
+    widthPx: 3960
+    heightPx: 2640
     authorAttributions:
       - displayName: Sushi Mama & 92 Chicken korean style
         uri: https://maps.google.com/maps/contrib/115270778983573569523
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjU18DZUXCGQ1A3Ux1qx7wmJdeTeVb2tq2e26TgojFY1Vp3FCuE=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNImyhr5KW3HSfv4SZgjWVtCI3e1schVKpqL5_1&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMGKM6_Z4p9cWVRx0e-DHuHCQ4A5D1w2MoVfnQh&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNImyhr5KW3HSfv4SZgjWVtCI3e1schVKpqL5_1!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMGKM6_Z4p9cWVRx0e-DHuHCQ4A5D1w2MoVfnQh!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
   - name: >-
-      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcIFtWk-SOcZfEVXYrXpiuQ0j8uqoXAHnYvPpGgYVrMDL4ZVTflluYM4wnEyPX6BJvyP3zNw2xkI8UROrBqak9-BPduKUOLzDGMy93iYk6FIVMOH6rQ0uG_VCJKhG35WEQH8MFNjU6LYxBcaigdX4lbsrl3snuReMuuZOjc4lrbMTN61zE-d13Ik-DE-qOtcn8HlJ929ELTBa-LSFu8qhh4hcXHxCx_oUseUYu6blmlg3w25s26b2kMW-PChE_kdz1zp_RYdGGMBrJtPgdhiZsVZD8rZ-6OgvROQ0zzlr7_8GA
-    widthPx: 1798
-    heightPx: 1200
+      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcKnmR4mQrkIE9GOEuTQaVzKifoQin_M_xmq7VZvtDM8MxFylWig5y19HBsrmhGHKOsFKyaaN1onX14HvGCzJ3iwiXka8dGO4lpmYvoUjo75jGjYeKuf6StrYWmrIWGZbqLYZlLq7noU-PiYJYCjK3FJbbrM9RCMsNtNFsanZDEzuJd1rsKrVm4RhZgnay1cdomMRGXPm-9ZXEnMT143mGVyJ86gRigEGMjn-Vuq8yDAdgssdtQlsON6d6hGkPJpUemc-8uxEnG-CzaTyqGk20M8g-cTnHpzx3xVetTN2rVqMg
+    widthPx: 580
+    heightPx: 576
     authorAttributions:
       - displayName: Sushi Mama & 92 Chicken korean style
         uri: https://maps.google.com/maps/contrib/115270778983573569523
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjU18DZUXCGQ1A3Ux1qx7wmJdeTeVb2tq2e26TgojFY1Vp3FCuE=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPzRi9fD2Cs0iDUT2CpJr7rn4klOcjSbNC8x_qG&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOe_cnglPQvvftvKWLJKzC0lg0Z5lB3xUDeeav_&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPzRi9fD2Cs0iDUT2CpJr7rn4klOcjSbNC8x_qG!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOe_cnglPQvvftvKWLJKzC0lg0Z5lB3xUDeeav_!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
   - name: >-
-      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcIP-fCkcaejKljQevABvUFWH_YkV0eI_ps5Sm79Vls1E8YVGBU5Fckwc4rmEqzdtvNofJpZj0D5hyCUzIqjZvLw9tl8xsayrGv0HFevVb3188Ru8D6RcebJfuq_UTXS-cwrUg1WxhnMH80QlvFS_H__Yz9Ra_Kam-jTUb0I46xMpWh77R-p6r_89OMStu3ax-cxiJKB61jrm96D0er1r6FKkyYww4u4DW1l4IZ1Mty0xWsViLgWvBXcGth52kRog21NUx2Gs4JAwbjAogxbdBvknhodGFL2TJN2ldXkaOntJw
+      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcIWDGDDtWUNeOXMp3_g-45ApymbZlODpqJstaTjpd9OubJhgfUawPhp7MRn2zK4i3QClDeiE5WQ57orzMYJRlFN4If6Lf3WFbT1gYDQHpWATTNEuerob0920Qip3syfirEYgpKgbuhrenbMbAPSyEfG953mQ0xBNxZiZjj5MTw2Z66QIEcs1tAu-LD5POqnBNrJ0euWvo-GhuSapiPwqqPwgSTwiJ4k2iZBZe5vjTH7XNJFRQHBCMLPt4nkC_c8kaZfJXESMZ0F_M23YBjEW-E-HmmpioQ5eWrmmTreHFuJ8Q
     widthPx: 1280
     heightPx: 960
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOOq9r0fsQZdaXBt0nSdUUKC2Rh202yg5ggmMGp!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
   - name: >-
-      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcIwgXu-whVJwYH7peELVYcuGzyzko6KfjpStmz_2q9On-QpQMdGsB7bzsWKtmxO1068TYOUrjG8djGn7ID7NYWB5tmTNv_GbxLLmfe_zXV2Ct136Kbc9ikI3urd9hQX6MsbvtWPFjzs7E_au9_bk3Joz9E2y4-XsumSVes9ApiBXG-2xZeRXH4yneK1SLUEhuCKqO2otiPXd-KOqyFVhSQuG1shM1KTk1LH4LmUX1PSVkK_NUWQ4w6I0gpUa9wsDK-p6bjzVVG25WSdr1u0YM3WLVmjSUZO_ZCMbRywmqkHAw
+      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcJxSzn_UD2Qj0d0x8rZOsGHR5Zpc1PkdxOvB8GS03h7WWm3cwfAjwP6GzdrO6lZ2Xvg2P1K4l8uOUmxbrpKk3jV6yehOCfNp2jEfJWtuLAUt-asYBhZ0UHOLXIziPsVsPKcVipiKKmibtcXMvPfXuVjpOaEmQ1z3oNpQJXik7JCKfvxDqUdnqkqFCdggUEO7inp9qkA6q3VYMMvVEWMPitxGvXMZDS7-iPW1bIvYXRaSH-vZZp5hwlYF_bzqj4Kw4yAgpt31AJnpEOEhsRPA51YvNwf7d-5DYhDUjV1gjo4FA
     widthPx: 2502
     heightPx: 1941
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN_OptZZZc7H5OOpIuxEVvtiW5P1fyAZPuH_gav!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
   - name: >-
-      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcI-iZqD1aTcptfAj4zbawc_0c-LYxDzfJEuJM4peA486niiE9NiVrU-qqiS81Y6M_M_DRl-aessZWPkAgjpuWZIjHocs24uyplZJE4aQa5WCXdKAyn1GXED8rHX2rsuWfqDEi3vAhMvXlD0K_jFwWFrDWIsjGR1Ui27zoEL8Hz7k0lxiOaGZtsBpnAScTAo45-kzT5bNMwtZIV6zOoLVmas7AVg8vrxLKKXzu5P8rLz2q1C1VnE_j5vK0hRxss9QHeNCctLqEUm6Im0jDnKXcTiyNohqWYtSVxkc9o8UXTHFA
+      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcL7k4s69W9VsKRNjAGT5MoAI94luzotQAJlxYoQnsRKQs2H2jyXRutIvs3hH30c4p9gCMXgNHFInJF7V9TTH9QuuF7W3yD6LqBfsEWWtl4nDwM96mo2goSxPbwequH7AH9AZLFmA68K12FOXzWphrZw2NS_cvaCav9F2V_d43FAHgWhDIulzn1W7vrMYoDK5NNsDXcHHuEn74p4RScuZcNXf7i9qxGKoFWoXYi23FMvh6RgjdPvAQLsbwkJNaB_PVwQtmLL7UqrwE01poBrx8HQHAT_cQ-w2YzZib30W_94YA
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNBpoFJhSmStFZdUP1WL0It-HWm21sItrP3bFLf!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
   - name: >-
-      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcJ2K01Zpq39amnrGnmZ2jBFYAEfauGL5WVhf1yEVMTudFHaqnEBxeAkobVIk7udG8woPO4DH41dD0CSDDgZtgYnd39tmCVgCE6drXdCjB3NeK2mrfg2NWTuLSsclrEcYs6rOpVjKRRfj7R3WitvoESV-7B73I90ynoXJjhDswZXVLq95T4D9IbBQRNA1lEN1PXbeuOMSEa4-lTUjZ562WpoecPCjlc-ZMnVNiE_JdZzCXBou6Ds5XJNdyTHtk4aucXgXPBadFtbJ9dpY3l-lofHAfdJ9H0moMIYkCF-sPbiDw
+      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcJSSeadbxMphBxfWyeimXb15azleXnkE4OVkZBZFu_yIajrkOQA_nrX3LbmOqUlOKf3G_LIV3zQM-GltoiMfZyxGK7zic7DuFpt5fZ1x-0vuvf03H-YidrOZ8F8BCx7zwpsbsy6guILDUDTBsdjcIoQoBecUxmQ3a_RgFSNPosLn7gdX3ZmaP5pQe4JUI36weOFQR2o-gZCH_c6oGx0qkMyl_GVv8YnE01tQWP-L0qo_NNe-9TQ0dC9B_U1T2sVTiTxlEVFR9Lwcn9_XzUkIBKHIPOnB_qictABW9ogqzwW-w
     widthPx: 1920
     heightPx: 1080
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPA9MvwY6-NdlQJ03JVC8CKaUHUCz9d_L23qm5m!2e10!4m2!3m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
   - name: >-
-      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcKhp3kEowj9jBTklMMXoVdIqNwBu61LshXR77faqnPl8Vd1apJ2aW7a4tTuJXH0XmdzuhpFNwDygOr7qc1bO6IsahZN0FnyHuHKePEWUeDAOHEOlhIucs6rQ7cuqjbaH3Ot1kII2VhN1577GgygibbsKG_nrQRH43vkCfKIU1thhn5SwJNhFAiUxlP6mloI1R01h2HixSAhXXsy2erWgzefxUF4N5vD9JwbEWgEsgx6nM8xIwxwVN0IFhqagFXTMUoRLGK1vAmN6FIBmE7AkgYr0dzFiNMI7uFgwTFEDeK1nw
+      places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/photos/AeeoHcLJ0ANvMPbNon-fGPsCg7gKlDcCGQyrHlOt55MxOogNBU0mG0_KRs3v0CozTKEc0pi4iJjNt6gL2-mzJyi6JWA9GIHMWnNohwuuTLdzfoOkBgeTxTgZTae9MAIyIIpiQ5Q9nX_uYjCaxTbmAr_SmLSvx5N4LXhg3qrya4-IuGnDP4CyIo5m479doFrmEScQN1_JqI3qP30BuxSn0x8_ZpQvMAMStHFpKU4ohVu9rZAfML_u-SMMFu58jUbwomyVh5NJ9zF0L5xKCl9K315Ho2bZ2gIQjF8DkqADuq8iFZ3PmA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -183,7 +183,7 @@ phone: (757) 554-0120
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 459
+rating_count: 0
 website: https://sushimama.menu11.com/
 reviews:
   - name: >-
@@ -380,6 +380,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: >-
   Chain teppanyaki grill serving steaks & seafood, plus sushi & a traditional
   Japanese menu.

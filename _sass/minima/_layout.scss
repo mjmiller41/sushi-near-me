@@ -319,6 +319,10 @@ svg.icon {
     flex-direction: column;
     gap: calc($base-gap * 4);
 
+    .page-heading {
+      margin-bottom: 0;
+    }
+
     .description {
       @include relative-font-size(1.2);
       margin: 0;
@@ -527,7 +531,7 @@ button {
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  padding: 0;
 }
 
 .footer-heading {

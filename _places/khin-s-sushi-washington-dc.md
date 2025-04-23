@@ -8,164 +8,166 @@ cityName: Washington
 seo:
   name: "Khin’s Sushi"
   type: Restaurant
-  links: null
+  links: https://khinsushi.com/
 description: "Khin’s Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
-place_id: ChIJ78NrNQW3t4kRGYiDa-IJK4A
+place_id: ChIJb3Hkh2O5t4kRJ0MSqgoGDm4
 photos:
   - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/photos/AeeoHcLnTQ-ixR6jrEWT5ZUpF3Prn3o2fM-3LfVHI-Pnq9-zrFo3cM-dnDPXM8y_e5owsYZxkQQQiu-5_G614rzcui1DbrqWYQutrNyep4Fzd2gWR7ZLffmAPluR1vtlG056GD5yj2BNubkbOolJv5Z5rTj2WqG7kLkQKG7p2HQUjCou4nqNn4Bwuqlmy_5uOBXTadjbk3fud3E0zjLBvqw5S45Tz0k1UCSrzexP3-k6tmsfnSRYDEjAo63myCl0sTQj3spyGHHndcqO0ZYTgztlTEfp9mO392oXR2J8vjNwjwl1_OWmev7z6hamxG1xU5LcUNQVMEkdbdHmVfVxFgZeV3DIruatfNF1C904_jXpGuTFpZHn5YZ7UtQaYwz2ucmHfITC_bsCs0lfhtx_Wxz-x8r2-cpkooknx7zTJWaS4nOAhww
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: EIleen Pollmeyer
-        uri: https://maps.google.com/maps/contrib/104681916323990705137
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKxtxQG0TvBUohv-_q7Vbadvcnc02eRGcpvFlGpHrxNQ_gCTtks=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID36Pb06QE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID36Pb06QE!2e10!4m2!3m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-  - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/photos/AeeoHcItdSChBADbeTWWItQgSjm7fN39XZiJIgLNtFi2zlNk7iu0EaNA9m3EOa2ksCorKn8WcGRw64ZNvGA5H-H6QRIFX2SpHggHExgFUj-gDLaSL77-ynWzXUV3Q8Lko9zhAZTl2nmjXEByXzoI0Kdn_VTkF3NSqiXVVifR5FQ1FvCEA-AZBBrWpoTDNtaHpGTMI9BsOKjJWJ5_mHdEv0QGamIPJ44GFcxuwEUqI7OK01BurkCWxtSxncN4BQlgTB1TsfqaZ8FuoUaXz_VjmDEGgv-2Usdy8p1jFp8fIgjKlnGob4q4SR3fS2qp6cojEUolVQbHCm_PjhawruQP6P0-fF546MT0THyxxABaqxRFzarSI7dABghQAUBvmw0cJcUVU7zmYabIUN3nOgk6IgcDptO_3uazj3qVMCtSW_yiwpIdVg
-    widthPx: 4624
-    heightPx: 3468
-    authorAttributions:
-      - displayName: carochan86
-        uri: https://maps.google.com/maps/contrib/104500833310047046057
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLqWp3RcNLWc5nB7I_R2h1RW2TSSy3UmptRZXWFChs5rBwdIw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTrNusbw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTrNusbw!2e10!4m2!3m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-  - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/photos/AeeoHcLwGTFdX2S28c1Yo7FuwhqqvEzgmLt_F238yRWaTy-2S2tockc2fM6_BymEb6DRVnIYLM_O0sBEjx8YTlwsmcfK8LI978EfxT-z0AAT0yAV4NIIeyITD2iq07qvQkcgWBTAfbjL-vDxwmcDPO9DgH1ZxwXOdgVFlztlVZq4YdFmT5sSlRz_WVdEdTkozQ4ufFalubreiLkYxYyynox6DizjV06Nxhx7CWaOaHWfDNt8sRWK02gQVm7uATUNyOkUaOJkL0llO7cAdZf6MyeUhJBqFxQr06eRBHeOJv0-aUQOTlxMr2N1g7HjK4BjmBkOBLyClgDQI_6xehclwyLCDkcDfAVencj7GdREvb1l8I2TU7mBM-0DlXbzCAQqkNiL26x9BQRoCvP1ZvjP9ETBLUtJ3Jua2ILiHdaVE3Aq-h-_qpIG
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/photos/AeeoHcKk2vAD0azL91wIyFqbGOZDc47gt2R2Cdd4IVwywhPNnqHm7u1mhpzCiyywWYvQOzDA6Ak5gCU3FwuuBueLIFMb9pKIyiGmMTswfxfe0Jkx-CuwrKO7qjz9tELpCOugBQb3M6ciNgyeGtZa-O9rfjjXEhSlzOyxkOUHTNtbZOhTtcZplIUDG30tv3JCvFXs_OeQ-zaEa9p8mwDF-e5FWaILqDQyG6LFP62Z8sQjHJDFeUnChkZOgQhKz4YkUdfLPHd4EkcWctS7KqX8C98dLIiKBrpPaJNS5TNQ5zjDxhyqanBaq-YsHXnYEywwj1OtYvBNy4Ghb976FtALW390CY9pwPdXfcvRh1BUQgKTXcReczdl4cqoTaxWp8HOYxJ1o9QVyTDd0o1V6lUqVwEdSgN9oyf1bq9A2_QtNA37Cztl1u2c
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
-      - displayName: Tatiana
-        uri: https://maps.google.com/maps/contrib/117560893034568096001
+      - displayName: Elias Chelala (Chewy)
+        uri: https://maps.google.com/maps/contrib/112891881046198787833
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWGgsMofDEAg0nbA6aj5i5sNGedIUH9VLxOPI2stsVWTnj136Mg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVSs8XkQOxTJxHDBWyyT87_bVGsDCgedwv7g0hJVChZDmI7uB7YtA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg7MaSpwE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxn9HjswE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg7MaSpwE!2e10!4m2!3m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxn9HjswE!2e10!4m2!3m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
   - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/photos/AeeoHcKo67B-pkpOSfgKKp504oMv3vp_M2sQgx5c_T293vf5P9ERQLC482jyS4aMtfGt3obUrS_TiJosbV4gObJSXseUIi4qGcKt1bd-5OVqohS5KARiChtBfDqZ_9Fe2KGWuKit14sAN24iVdu3kCFCauhAN5Wha8-uHK-YYB14jkagixyZmEVoMPp12tRp7s4WT9wwxABB2MSRcCgPjAntCC_DIqf_xqECLD9gRguRe_J7AXOxnIzeLtD0wudgTmwrJ_4Otpgw_bpcpZjGBz23kJBhvyfdvllfnGlIJji0oeqWJpDe3yZAQDwQrt9HeQrKYknnpEjMV6IoOaM_xoYhwc_akyzhtSke_363gIvlYHl2XGWhhrAB-SfUObZUXJIWccfmoPnGp9o_YTwCiSTi_Neh65o-FW7W0BD7m82Fn8_eLw
-    widthPx: 4080
-    heightPx: 3072
-    authorAttributions:
-      - displayName: Kendra Nichols
-        uri: https://maps.google.com/maps/contrib/110346744682801437306
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV1VBDfxUoaEQJOwYnsMf9voP6_4C-FdSl5FQqYgUjNykK3k1dmZg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIne3zFw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIne3zFw!2e10!4m2!3m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-  - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/photos/AeeoHcLx9NuluhcDnvg6xfCdpqpkHJeXDdkaFI8lAhT0df__grgwO5gf5T6oEsDL8ZYthKL9L6iH4ImRmNvtiMfu6iQ4k2i9x0LccqnlPvBWXEm63t1PyHNoTA5EQ5-n790svnWdR9LuyrGzCq0KMLwvoX3i6xvj1nXAnjzrMxWe81Bu3mRwveAP5LtpYj-MrSp85Fw6NOFFrksFLRDWH2RrogHWirIiZemF60c7Nbcuhe9tZQUclQp1F9ZeCIfyLQHkdmpwuao62iQ42rObbu682dflgwSUHC7hWyXzW7rCj6qVm0lqolS4SppO-lN4CzJVDHQeoVqHilfIyiCKOWUvW_gtjNa11nxYt3HT7of8Y-d1T1KMNbGDaVs9FyMbBiTz0aL3bu2xF0uUZ5_7Az1pOupG-OttZtRC1QP48UuUKnXB6ZM
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/photos/AeeoHcI2YbUEH3R8G700QCjVwbYt4mfYIIecFUtyojCSz2CYyrwUMHyNG5s-DQSwjK3ke2auTbjqdDY5ecLeXqrV_wja4ZpK8gKvAkH-xFNvkGQAGaJ_xfB3cV5mua1iCIrci1t8mZWtSnqdzs8AIxOE6BhAgWgntKLYHpSPMmznE-g3uERXrD7y-VEQZapFr16soRk4LX8xkZn5LH5_4vO4A_U44QNLAIjdX9qbfRH9rFpK59AoSYEwJ8Gdl7qAkbU4nAEEMklydv1frVAKBOnFtcPtPq_u0xhuThJ29t1Gzj-yYnS0wW7GD0kQxteQ-Atz92aT_D_LUIMpU7d4NCqjoFSspXTt76J2pTzmE45bwxgldD3zk4q1JGKA4RS12NmoxSkOiZ4QAxJZfovcYL16MNM4tD1gHH1TsdEpkzA6ycLJOA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Ralph Branch, III
-        uri: https://maps.google.com/maps/contrib/107663777940134831538
+      - displayName: Wayne Chang
+        uri: https://maps.google.com/maps/contrib/100150312992357414582
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUIrizrjFB2dl-SPQiHiH_kvi_E0fL-dksaqwHHiZ5CNX7lNX9X=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJuJqcecKMkpwcSi2CAFQqiHZj0-wt02Hp6JzF94sI9ZUs5qw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLmPLc1AE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICekOq9Sg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLmPLc1AE!2e10!4m2!3m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICekOq9Sg!2e10!4m2!3m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
   - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/photos/AeeoHcJSpUYcvfXWUXjQq4R039mmFHojfe6UORyz1hgu3H1qIpWDPlCfN3rTYjTx6Q4l12PUdePRsx8xQZMCyF80d73LVFgdLPov8RBQQekSVXfjaWCciZ7g6iHY3bICRQdGftoQn-7-tmAT1_fX-S3EUNA7TJal9Jcymu4ZDpyBwCmClW6Dbfw3_aDzfCmf3SKnQZXY4ZqsKOuN-vsV6b8ia4xHRh3iko7EoR8pp75ZsexL6b8Zv3wVU1N5tjUidl7guRRurqadN-UHtrzJ-mzZ-02FZTX23Iqdp1C-zEG9qNJrm_rKtUcPPkH1TeIaHjFpv6MrIQOCTHhl6z9qhft67iPqZpnUmos73dbs1p5YRi-_RzEV8gLrXDSrgx8xi0snsh6b5haQpYBZmvOh3yKzk3xdEo1wSBHgdUajWBFcaXiY80yz
-    widthPx: 2252
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/photos/AeeoHcLVBlAR2ivQA53S_9RuoOe7_HIk00JX8U4emOc7RsL3g3-jGL0ybLQsTUKcB8XQ_n6aF5TBRRxEiNDObiBhpfdFWqlIhMitO1kopU-EvRaRcuWjGIyInzJo49erAPS3Vj9WG3IT8eaoIJ84j9yfhYR7cc9YljqzrPs21z2s_WhCe7QOOu3Eg0cZ77fLumbrP_Lh6BMyGGbTScEHgCrz48urJ-TCpqHoCUbwJVvxSM7EAb6VB2gXqqAaWj9UAY8Gud1yaTi6aPr35UrDbiyx_0VTYBqBviWrYsm6uK_Pf9MLcM0yO8FbNQUHNNhRKkCIADLo-ZaDHUm8pk3ROz8SWQ1pEMBtzy613nAzUJCyg_t0GsMxwj4uC_JZrJ2fip9UZZHsNK5CC-2QeVGJHcda0DK2t_PuZ9RVogzOUEH5pP4
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Christopher Yandell
+        uri: https://maps.google.com/maps/contrib/113406754366782682257
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXb5TPvjbRgX2UXGmX-7gsYBw-q6uLEKXYf0kXjag356aXVh3E_qg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICr6cHUbg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr6cHUbg!2e10!4m2!3m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+  - name: >-
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/photos/AeeoHcJL72amtRWCmPjLya4H6k7uf8dnNUE38EtLORcEM75ZjPSwjSiEI1lF0wHnx936p_LWalSxS8mQzQ0F_8uzTqAWthklh6Z9fJhhAOt0eWc1bTY1_DSSi5iEHjtS2P_YbgsGhmps8Bpd7MAH8bUyPbuCJKoYHPVXZR4uZlMiifXuJd-rVInHFvRlo1Shdj_K5hNU_EJWhph69ZipNzuy0FcUmZj1CZ9nCe689zlneupDfODbibUj4vYmRBpzUBV3Hqpg8hpoFjQQRmIhBJzIg6LYVv8vTAyqkO48CGOnqYaMrBPqkzwx3K0IKzjYhzLPkoLlhZd5sMmVEuivLCztL8xHZ_3jqcpQQVmrd-CVmwAdtJbZcPHXRUFoB0c71Vwnn1C1V8ThrICe8Y7BJp4zBQo_IleItv0MislrfEUMmU3iVGKJ
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Lawrence Rawlings
+        uri: https://maps.google.com/maps/contrib/107101654858291805518
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXevjOUVxnRzkw26itqfap0H7679hPqXo7l3m4MSZPhK8mFKM0f=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDtmdGryQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDtmdGryQE!2e10!4m2!3m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+  - name: >-
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/photos/AeeoHcJ0RhRhPQs1PdRd3FRPUv_vDhSLcfT82ozj2XR9lsGigoP6j7gthGp-fJu2cZN5r-zAyIAYCixuvNXpe9OKDDDBTRLtUe0oKe1iniaxhOkE8_-YNyg6Yby6CTph7H-OtrwMJHQw8ShtknpzuNQtmBQ0fyIB2E7f6YvPViq3x1oFGurVBJOPIpR1vwY7k6Pg5cdHOGFU_Hz09GrdF7oJAlSNE2TAmusqqHEJ8lznHjv4p2WPobUZR4YhQQ4S3XilI34O0OsH167dgXHVg-p2N6DRVqkTtOP0XC8mramX-Vq6-DdEYtdcCR5dPJUK7cxPc8paXYwvX2vW1sJrqFAzKyRsj6S7HgTeplxjfwvshOZfX0A4M6hsNbNU6UlW2z-XR_eiWV4V2Oia3BqNQVmAz4MGzE2xdwG2xqup74v5eZDCqYQ
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rebecca Krauss Giacomelli
+        uri: https://maps.google.com/maps/contrib/113111177955909663367
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXgUZgZ8rGoKjuZoUfdCydnNiy3LTTS-q8w6TFcqfacbcmLLpjO=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICv9t-GmgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv9t-GmgE!2e10!4m2!3m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+  - name: >-
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/photos/AeeoHcKx712sl3h8NgVHOJ5xTTz_omkeUedvFGAsitV_pNAUb47_lq2JA9gr6fcWXkjFDj7EjLeTHt3a0BbfVAOmsRyQAVcpau4cJDdcHiafWiDj2nw6vWLxMBO5z_hijEYMPWcoNcF7bQXpBwdeJHDFVJB__D_yH5pNfSYijaOCrco7_PSyg73Pi8JZ55qcjcS9LYvRTEPvkLLA4KkL148NqJ9HSR_jswK07GSDM4FebVrjOngNuL0hLVWNlOM06AsLi_jijA_nyC8Tv1SANpyi8zBHtd6vWDPW2NEzcnMC7cmvCvFYMXSCrwfgQEsdamj__hRLNqglnkbu1K4lYqfKPs_pjaZkxF_GRqGHCXNcuFkj4BHQDQNuKE4JIc9ZDEGLpdDmbB39XBG6EVky-5FuupUXX2Y462cHskyHyihNQxm0GrI
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Rachel L
+        uri: https://maps.google.com/maps/contrib/110573068007852720822
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU5kurYbdYEsZslSW4vbBt1ryVpV4PjiQq5vgMSpU2rnVTHPSe1=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDaxOvIowE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDaxOvIowE!2e10!4m2!3m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+  - name: >-
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/photos/AeeoHcLzyQVjQ2sFMZr-JgTMI8zXg0EwzH0-ZY9f-tC21x4QK5hlfL9DY3bRW5nHTXwdBAI8dKsMt_7j-Zw3ur_tqsrHUZR0X6C1_flqQxzXXC2AvlhhPzNHQmtC5lVXnUcS2kX888RSXC46wieXJFYV7KSToZ3-IyI9vwCHAOL9aI_ZNWjHrYQ7YYlvuxLbn_9tzoCBpHmb9UIkBvQY7PWgiL3jTLchkwMOnbTIRnQKD82xSj8xVnucS6xaB7J9afmWeweBA4XyPEdJ4PVO_xUIPOgWb0m3aLt1HWIfqgsMOP5lezo1zDis8Gz0BcTL9-orPxhBvtbLciCFeKIIEgeez1GPYet3n_cuSC060OSs0_JivCmKzQvyyduujN580bTtqbdZFpHpeoZ8ihrTp6GGOsF2MWNG6v2RsAJiEdTPP0s
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Shenique Reid
+        uri: https://maps.google.com/maps/contrib/105652135726290715941
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXVudCNP4ZhH7xDllOwpIKLO-oP5oqQN3l_fPI1I8i2p3dam2o=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDn75XhLA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn75XhLA!2e10!4m2!3m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+  - name: >-
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/photos/AeeoHcJwnJ0kn-UZYKKeMRysbCCMEU-luncczT06pBV1NvgBhxz1qn_byOzhEgi5pdtFFx2h7tes_8Qv7ymJhgWOzAPwxLPsNka1voLCz_XHRpeq3ysV3J-LgQEK_m0TD_JYIPW7TiTn8XyQbGww0A4he6MOktZoIYbno2BbXc84QEyyvnF9nbVV7ssUvZTCRfim1-w9LuKZynppdQHu-egbLEy1zJi5EI8rJ_hH6G4PbpNbXmtdwl0gxkZXnuACw_8YvvSbdqpZ0Vf73wqP1WDqgUJNx0yStRm2terLJvY2PkriGc-6OxVx6UJuZD_Q0bNBTFUuSNAYRfcB8LH69zCnzJawVjNzww5WtjXrCXyCf_Pz1m0kPrlJU5eJ0c_22E72aLN0Kf2ufujA26CN2CNGQdlYUU3y-UoNWHp4tbrf2Sh97x8
+    widthPx: 2048
+    heightPx: 1325
+    authorAttributions:
+      - displayName: Maggie Howell
+        uri: https://maps.google.com/maps/contrib/113200380545032384385
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVIGkXKtEh6d0fTkmvDpyHScYyXqzegRhs4TmJbjEnrhUXH9mkv=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICKw6fn1QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKw6fn1QE!2e10!4m2!3m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+  - name: >-
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/photos/AeeoHcLf-VYMNQp2camtmjjV8cmbue8RSsuOrYORLLUL2RQh_WgUVcbQsRJH-oFtLNzUNLUj-ZpFkuh1a1Gi9E-CsuYNrRH9onhdEAlqnoCSBiqTDPqbu7Q6alwYpgMZpO-KAhcrSBiEXVCk8_gaHAPQNFuPCKcbCAe-HsUsCoE_T1VXxFcmFjlIP19G7ndXi09ErVh_fbZT5bxelEKGg4b1RgHVALtJJCPr8YDWaQnN0yBzPo0N8uqVfnhrC3P13Y2bBljKGp0NTAeZYsyTtEgIP8JeMmyR0Jc40hFvT1wjiXtUjVZICOwr61PluiSHg0fxsgX1aCfgZDSBfCQWICMk7kLQg1YRI967RpXWePjCORRjK_9JbtKsH0KObfXcgpGtVdyCbHyxkSiol8Fex6xIlLUrO60TH2fhN19X-R-BLyNWGA
+    widthPx: 3000
     heightPx: 4000
     authorAttributions:
-      - displayName: Pritisha Shrestha
-        uri: https://maps.google.com/maps/contrib/109135054208257018889
+      - displayName: Elias Chelala (Chewy)
+        uri: https://maps.google.com/maps/contrib/112891881046198787833
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUHjIppagy22m4O3DR5BPfKpK2ZPTBpPy329MhHSuuV4BE5sGNx8w=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVSs8XkQOxTJxHDBWyyT87_bVGsDCgedwv7g0hJVChZDmI7uB7YtA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpvtje0wE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxn9Hjaw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpvtje0wE!2e10!4m2!3m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxn9Hjaw!2e10!4m2!3m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
   - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/photos/AeeoHcJ2GpHy4_ocsFLYpPFAsHGZ17tFuuzVD8aYdJTYlCBqTdMnAXM6K8z_QakGqms7FjHLuqnneh_QAQlaU-yYpI4ksz_t5fzj3Sgoias4I6UcNSODyxyflTo2fw-3i6lwqBqcSdWrNEhpNg_7YdT9axETdX0NEZ6ELU8cK1tEUedm0CV6zjbgDT3OSnMejmm8p3ko4rNP2HT2KpKzfkL2jm8OAo8LlTwjNOwELPEpITZA9QAVjBmlFufbhCvff0A9aSU56_0LuncKun0OBCiBWz1s9b5UgP-Fjk8_IMCP768ZzI0ptRmvSQPO4gWOZWP7t9aRFBM7o1RAX3DS_3hQyf-rYEqEPH3Hln5lzhSwV3ZL6CuQNOLTJR32I-chPkLrzeoakyztebs3SjZ_VWF9DrD6J8-Eze_pWZoO7fB9OuJmBQ
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/photos/AeeoHcLvOkNW1TMwSsnLiEWN-aO7ucKceYneu8-7zvTjFQH4QdCeAOZbQdjHHAOFJ4W-TFzKBGcvjzssqRvuRAjmLmmUqsSMDRLBa5AEy7Z_VFWvKFqEZmNqo1XiS9brwpx57yLeCZJsQB6c2MOXhGmWr0-a1NSag69ZXw430S0RG-YvjIvjrO7jkn-THDjdtja5YPG-KWMEJlw6dxp4Dl3IHxYz5VcsAbYXEWwtcFq7vCNCrihzO_rX6e_0ZqD1cmAfP2nRX5EjFNNlPfCJw_xS9iNPEPuwKPBcUR1en_mWuZFbFJqUccAUTaTj30zHP-4SUXjwrVuij52_tMR7RVuV52XZ6o1oRhlHeKfPvCR7b-sqXoAFOjmev7MPhyMwXitfQyA6druWyPOfB16LIUShnGTawXw8VOr0F_-JHE7y-vl7mTw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Betty Alexander
-        uri: https://maps.google.com/maps/contrib/111014014625499495370
+      - displayName: Melinda Hicks
+        uri: https://maps.google.com/maps/contrib/108262995543912829728
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXTzbhk-ffF43a0CEVotVM2Eok64dP6VzJUm12f9cN-m1cbUaq0=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXlSJnn_nVu9cR22cyg-SCL8McLm1SkSB7g2nnoZyk274AzMSeD=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx84CwMg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICnpearlAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx84CwMg!2e10!4m2!3m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-  - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/photos/AeeoHcIHhSFpIOzOjfQWY3Aj-re1vS1JUC4xpcFyA9RzLFT6oxCOgghitB4cHD8n6cE4kJko1BWNcOrpd-LmNxiK7oQXRHDwK4PGcuknDyykW1FqAzllrdu60ZIDBB-KfyuJYy6j2sFkX_X1iVqJST9HNPCgxMkQA_PnHigdvgn3iPFLSe_90BygK5TSsyMmedOifCaRaqVTl8uniPnt08CX23VGt8M4l9iS-73NWBA2R6bAt0T06LZWMeJUH-z_NNYcH7rvzoU8jC_UA_7eDa2A3H3kyQVyETDwWjB6c2pQi9bObBxXsUFZxbzkHsZbhGEZZUnlOYHWPAN-43NDyIyuGrePqJ3iMhx3Xud9TN1-JeK9W48EKt5z7hf7i68sswaT_aBByxefbDD5WQ0_OcP4L9ELXNbPqSLaohY7ET5Pq7RS1A
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Lizzy Amirana
-        uri: https://maps.google.com/maps/contrib/101887045127025415411
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXZZnV_g_gtNoB1x4FdGp9I9TUK2oGReCRn8odq68PsvAvnebfP=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZlredOg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZlredOg!2e10!4m2!3m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-  - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/photos/AeeoHcInI2IbqAYBooEnVMyZf1ITk9d_DsCHcnZ2K-SW9MsWseYxDJZLLnU8J_EpfzVQyBLJXovxDXpBKEQ5L_WSdyCfTmCbiTxGkFiHLfdALIeSXp_fRxSaHOUU9-DkvG8fZ8YvXusJ5FYCc7EGBsFApojiqB5xbF0r2l9kfshfNldX-wjR-hzBFK74UXL2zMpvWsPZxt5C6Sq8TFVcPu-9Cz1AP3QBpNCUD8WEW-AaKQs_lmuWMAp5LMqPNlcpFKcfIBqY5fq0L2xTSpl8gXNIdvveUVlexmqTHIXcM2EBOlWD4XN6nSvqFFrWgmHJk3Z22sSsyS_GDEmCovZMPoBjXJnMxcycltwHCgWC71zWV4ukGfghWr-pl9btHIq2w7w3K8fRbl1IAsXjbuPmAfrAjTxA4CHs-veW2_8F5vo14k4ul1DD
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Lizzy Amirana
-        uri: https://maps.google.com/maps/contrib/101887045127025415411
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXZZnV_g_gtNoB1x4FdGp9I9TUK2oGReCRn8odq68PsvAvnebfP=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZlred-gE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZlred-gE!2e10!4m2!3m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-  - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/photos/AeeoHcLvkA_gCy_2MWpoiGUNbzfNrjNclSbuLJtWv1_YKVVgFbzYpU328P3QfCB5EICVlpkEF9MlnmKlR2sdVl4c_pMvT57vlFRyUrRnaeeHWObhwgCO7VKTtE61oRAfqp1qjrMmXK4Si2viV-KTgEcoEIzcDDm-9ijijzmMlYSdvErJFH64_65hbO_xFYFmDyJuxX3rzrCh4RU_2Z0TLdRzZ1VTWpZIJEhKotXKNn6ho5tUU4rLrAj3i22ABPVWDnAM87U0hptg9-NYoNhD17RBaZisHLPRg5HEtvHD48VDSG8RBu-1ZyZf3UCwQamF5C6SDgiDXL2gz6-GTNk9KHtdhMPKqIfFrhntaRMi0WdbwDgeFwxhsP2b2brjkEBx54y62V2IQi0gRg4sP01GmUWlvn-VpINvSfXdRZr3eDIplAg
-    widthPx: 3468
-    heightPx: 4624
-    authorAttributions:
-      - displayName: Luis Adrian Toriz Dorantes
-        uri: https://maps.google.com/maps/contrib/111053255312601252729
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUQq9b8xQJHAvkVLFdrDXSB-6-S1MXsQuvadACJDX-_NJCvU4xMdQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFgcPhVw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFgcPhVw!2e10!4m2!3m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-address: 1069 Wisconsin Ave NW, Washington, DC 20007, USA
-street: 1069 Wisconsin Ave NW
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnpearlAE!2e10!4m2!3m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+address: 202 M St SE, Washington, DC 20003, USA
+street: 202 M St SE
 city: Washington
 state: DC
-zip: '20007'
+zip: '20003'
 country: USA
-neighborhood: Northwest Washington
-latitude: '38.904600'
-longitude: '-77.062629'
+neighborhood: Navy Yard
+latitude: '38.877048'
+longitude: '-77.003145'
 accessibility_options:
+  wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Khin’s Sushi
 google_maps_links:
   directionsUri: >-
-    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b7b705356bc3ef:0x802b09e26b838819!3e0
-  placeUri: https://maps.google.com/?cid=9235486328924375065
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327!3e0
+  placeUri: https://maps.google.com/?cid=7930282636718785319
   writeAReviewUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b705356bc3ef:0x802b09e26b838819!12e1
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b96387e4716f:0x6e0e060aaa124327!12e1
   reviewsUri: >-
-    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7b705356bc3ef:0x802b09e26b838819!9m1!1b1
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7b96387e4716f:0x6e0e060aaa124327!9m1!1b1
   photosUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b705356bc3ef:0x802b09e26b838819!10e5
-primary_type: Sushi Restaurant
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b96387e4716f:0x6e0e060aaa124327!10e5
+primary_type: Asian Restaurant
 opening_hours:
   regular: null
   current: null
@@ -176,208 +178,252 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: (202) 449-2904
-price_level: null
+phone: (202) 481-1544
+price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
-rating: '4.7'
+rating: '4.4'
 rating_count: 0
-website: null
+website: https://khinsushi.com/
 reviews:
   - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJemNpZW9BRRAB
-    relativePublishTimeDescription: a week ago
-    rating: 5
-    text:
-      text: >-
-        Very affordable and fresh sushi restaurant in Georgetown! Owners are
-        very kind and the food came out right quickly. My spicy tuna roll was
-        great! I highly recommend stopping by and trying this place out if in
-        Georgetown. They have a 7 dollar roll deal and it’s a great value!
-      languageCode: en
-    originalText:
-      text: >-
-        Very affordable and fresh sushi restaurant in Georgetown! Owners are
-        very kind and the food came out right quickly. My spicy tuna roll was
-        great! I highly recommend stopping by and trying this place out if in
-        Georgetown. They have a 7 dollar roll deal and it’s a great value!
-      languageCode: en
-    authorAttribution:
-      displayName: Kate
-      uri: https://www.google.com/maps/contrib/102038273675670019168/reviews
-      photoUri: >-
-        https://lh3.googleusercontent.com/a/ACg8ocJ0ueOJYlH72dIobgGUDRQ9qmLUvg2T3Ex4nFE38s7jsvGcFw=s128-c0x00000000-cc-rp-mo
-    publishTime: '2025-04-03T21:52:53.610887Z'
-    flagContentUri: >-
-      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJemNpZW9BRRAB&d=17924085&t=1
-    googleMapsUri: >-
-      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJemNpZW9BRRAB!2m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-  - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/reviews/ChZDSUhNMG9nS0VJQ0FnSURMbVBMY1pBEAE
-    relativePublishTimeDescription: 9 months ago
-    rating: 4
-    text:
-      text: >-
-        I recently dined at a fantastic family-owned sushi restaurant in the
-        heart of Georgetown and had an outstanding experience.
-
-
-        The service was impeccable. The staff were friendly, attentive, and made
-        us feel like part of the family from the moment we walked in. The sushi
-        was exceptional. Every piece was fresh, beautifully presented, and
-        bursting with flavor. The variety on the menu catered to all tastes, and
-        each dish was crafted with obvious care and expertise.
-
-
-        The overall experience was wonderful. The cozy, welcoming atmosphere
-        combined with the high-quality food and top-notch service made for a
-        memorable meal.
-
-
-        If you're in Georgetown and craving sushi, this place is a must-visit.
-        Highly recommended!
-      languageCode: en
-    originalText:
-      text: >-
-        I recently dined at a fantastic family-owned sushi restaurant in the
-        heart of Georgetown and had an outstanding experience.
-
-
-        The service was impeccable. The staff were friendly, attentive, and made
-        us feel like part of the family from the moment we walked in. The sushi
-        was exceptional. Every piece was fresh, beautifully presented, and
-        bursting with flavor. The variety on the menu catered to all tastes, and
-        each dish was crafted with obvious care and expertise.
-
-
-        The overall experience was wonderful. The cozy, welcoming atmosphere
-        combined with the high-quality food and top-notch service made for a
-        memorable meal.
-
-
-        If you're in Georgetown and craving sushi, this place is a must-visit.
-        Highly recommended!
-      languageCode: en
-    authorAttribution:
-      displayName: Ralph Branch, III
-      uri: https://www.google.com/maps/contrib/107663777940134831538/reviews
-      photoUri: >-
-        https://lh3.googleusercontent.com/a-/ALV-UjUIrizrjFB2dl-SPQiHiH_kvi_E0fL-dksaqwHHiZ5CNX7lNX9X=s128-c0x00000000-cc-rp-mo-ba5
-    publishTime: '2024-06-25T06:09:33.552135Z'
-    flagContentUri: >-
-      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMbVBMY1pBEAE&d=17924085&t=1
-    googleMapsUri: >-
-      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMbVBMY1pBEAE!2m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-  - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbmUzenB3RRAB
-    relativePublishTimeDescription: a week ago
-    rating: 5
-    text:
-      text: >-
-        Had a great upstairs area. Good was delicious. There was one lady, doing
-        it all. She was amazing.
-      languageCode: en
-    originalText:
-      text: >-
-        Had a great upstairs area. Good was delicious. There was one lady, doing
-        it all. She was amazing.
-      languageCode: en
-    authorAttribution:
-      displayName: Kendra Nichols
-      uri: https://www.google.com/maps/contrib/110346744682801437306/reviews
-      photoUri: >-
-        https://lh3.googleusercontent.com/a-/ALV-UjV1VBDfxUoaEQJOwYnsMf9voP6_4C-FdSl5FQqYgUjNykK3k1dmZg=s128-c0x00000000-cc-rp-mo-ba5
-    publishTime: '2025-04-04T03:04:24.757168Z'
-    flagContentUri: >-
-      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbmUzenB3RRAB&d=17924085&t=1
-    googleMapsUri: >-
-      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbmUzenB3RRAB!2m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-  - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnN01hU1J3EAE
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbnFieV9BRRAB
     relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        Echoing other reviews that the poke bowl is a robbery. The to-go package
+        for the bowl is only 1/3 full. It is a laughably small portion of food…
+        and most of these ingredients are so cheap. We would love to be a repeat
+        customer, but this simply is not enough food
+      languageCode: en
+    originalText:
+      text: >-
+        Echoing other reviews that the poke bowl is a robbery. The to-go package
+        for the bowl is only 1/3 full. It is a laughably small portion of food…
+        and most of these ingredients are so cheap. We would love to be a repeat
+        customer, but this simply is not enough food
+      languageCode: en
+    authorAttribution:
+      displayName: Kat
+      uri: https://www.google.com/maps/contrib/114674453008992093484/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUs-1LwdOR5aFbpb2JRdtKLjnnyr1aKPPv7OKHhHHAt6p2EYW6u=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-24T22:20:01.829786Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnbnFieV9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnbnFieV9BRRAB!2m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+  - name: >-
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/reviews/ChZDSUhNMG9nS0VJQ0FnSURuNzVYaERBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 1
+    text:
+      text: >-
+        I have truly never felt so robbed. $18.50 for a poke bowl, that had just
+        enough food to satisfy a 2 year old. The first disappointment is that
+        they did not have/offer half the toppings that other Poke establishments
+        have. Then, the tub where they contain the rice had flies flying around
+        it. The protein marinade tasted like soy sauce only. I did inform the
+        owner/employee about my feelings. His response was “that is a lot, we
+        serve sushi sizes usually”. I told him it was not a lot, not even enough
+        to be honest. I am just disappointed and will never revisit this
+        establishment. You have been warned…!  I should have payed attention to
+        other reviewers regarding this level of Shrinkflation!
+      languageCode: en
+    originalText:
+      text: >-
+        I have truly never felt so robbed. $18.50 for a poke bowl, that had just
+        enough food to satisfy a 2 year old. The first disappointment is that
+        they did not have/offer half the toppings that other Poke establishments
+        have. Then, the tub where they contain the rice had flies flying around
+        it. The protein marinade tasted like soy sauce only. I did inform the
+        owner/employee about my feelings. His response was “that is a lot, we
+        serve sushi sizes usually”. I told him it was not a lot, not even enough
+        to be honest. I am just disappointed and will never revisit this
+        establishment. You have been warned…!  I should have payed attention to
+        other reviewers regarding this level of Shrinkflation!
+      languageCode: en
+    authorAttribution:
+      displayName: Shenique Reid
+      uri: https://www.google.com/maps/contrib/105652135726290715941/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXVudCNP4ZhH7xDllOwpIKLO-oP5oqQN3l_fPI1I8i2p3dam2o=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-11T18:43:29.333389Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuNzVYaERBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuNzVYaERBEAE!2m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+  - name: >-
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNucGViWmhnRRAB
+    relativePublishTimeDescription: 6 months ago
     rating: 5
     text:
       text: >-
-        Fast, attentive service with delicious rolls and miso soup. Best value
-        and quality—just $7 for any maki roll at lunch! The only thing is maki
-        come with spicy mayo- ask to skip it if you like it without it. Enjoy a
-        table on the 2nd floor by the windows to recharge.
+        Highly recommend! This restaurant has great sushi (and boba/ice cream)
+        for such a good price compared to other locations. The servers are
+        friendly and make the sushi in front of you pretty quickly!
       languageCode: en
     originalText:
       text: >-
-        Fast, attentive service with delicious rolls and miso soup. Best value
-        and quality—just $7 for any maki roll at lunch! The only thing is maki
-        come with spicy mayo- ask to skip it if you like it without it. Enjoy a
-        table on the 2nd floor by the windows to recharge.
+        Highly recommend! This restaurant has great sushi (and boba/ice cream)
+        for such a good price compared to other locations. The servers are
+        friendly and make the sushi in front of you pretty quickly!
       languageCode: en
     authorAttribution:
-      displayName: Tatiana
-      uri: https://www.google.com/maps/contrib/117560893034568096001/reviews
+      displayName: Melinda Hicks
+      uri: https://www.google.com/maps/contrib/108262995543912829728/reviews
       photoUri: >-
-        https://lh3.googleusercontent.com/a-/ALV-UjWGgsMofDEAg0nbA6aj5i5sNGedIUH9VLxOPI2stsVWTnj136Mg=s128-c0x00000000-cc-rp-mo-ba2
-    publishTime: '2025-02-14T23:10:46.794110Z'
+        https://lh3.googleusercontent.com/a-/ALV-UjXlSJnn_nVu9cR22cyg-SCL8McLm1SkSB7g2nnoZyk274AzMSeD=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-28T00:15:19.420712Z'
     flagContentUri: >-
-      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnN01hU1J3EAE&d=17924085&t=1
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNucGViWmhnRRAB&d=17924085&t=1
     googleMapsUri: >-
-      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnN01hU1J3EAE!2m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNucGViWmhnRRAB!2m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
   - name: >-
-      places/ChIJ78NrNQW3t4kRGYiDa-IJK4A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUck51c3p3RRAB
-    relativePublishTimeDescription: 11 months ago
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4bjRHUWVREAE
+    relativePublishTimeDescription: a year ago
     rating: 4
     text:
       text: >-
-        I got a eel roll and miso soup.  The price was very affordable . The
-        employees were very nice and attentive. The miso soup  was bland. Tofu
-        had no flavor.
+        I recently had the pleasure of dining at Khin's Sushi in Navy Yard, and
+        I must say it was an extraordinary experience. From the moment I walked
+        in, the ambiance was inviting and cozy, setting the stage for a
+        delightful meal.
 
-        The eel caterpillar  was good  and presented nicely . Although I didn't
-        care for the sushi in the puddle of soy sauce.
+
+        Let's talk about the food. The sushi at Khin's is decent. Every piece
+        was expertly crafted, showcasing the freshest ingredients and a perfect
+        balance of flavors. The fish was incredibly fresh, and the rice had the
+        ideal texture-neither too sticky nor too dry. I especially enjoyed their
+        signature rolls, such as the Dragon Roll and the Spicy Tuna Roll, which
+        were bursting with unique combinations of flavors.
+
+
+        As for the price, I found it to be very reasonable considering the
+        quality and amount of food. In fact, my total bill for the meal, which
+        cost $32.97, felt like a steal given the incredible dining experience I
+        had.
+
+
+        The location of Khin's Sushi in Navy Yard is fantastic, especially for
+        those attending a game or event in the area. It's conveniently situated
+        near popular attractions and within walking distance of the Navy Yard
+        Metro station. The restaurant itself is clean, well-maintained, and has
+        a modern yet cozy atmosphere.
+
+
+        In conclusion, I recommend Khin's Sushi in Navy Yard to all sushi
+        enthusiasts and food lovers. With its delicious sushi, good service, and
+        reasonable prices, this restaurant is undoubtedly a hidden gem. Whether
+        you're a local or just visiting the area, don't miss out on the
+        opportunity to indulge in an unforgettable sushi experience at Khin's!
       languageCode: en
     originalText:
       text: >-
-        I got a eel roll and miso soup.  The price was very affordable . The
-        employees were very nice and attentive. The miso soup  was bland. Tofu
-        had no flavor.
+        I recently had the pleasure of dining at Khin's Sushi in Navy Yard, and
+        I must say it was an extraordinary experience. From the moment I walked
+        in, the ambiance was inviting and cozy, setting the stage for a
+        delightful meal.
 
-        The eel caterpillar  was good  and presented nicely . Although I didn't
-        care for the sushi in the puddle of soy sauce.
+
+        Let's talk about the food. The sushi at Khin's is decent. Every piece
+        was expertly crafted, showcasing the freshest ingredients and a perfect
+        balance of flavors. The fish was incredibly fresh, and the rice had the
+        ideal texture-neither too sticky nor too dry. I especially enjoyed their
+        signature rolls, such as the Dragon Roll and the Spicy Tuna Roll, which
+        were bursting with unique combinations of flavors.
+
+
+        As for the price, I found it to be very reasonable considering the
+        quality and amount of food. In fact, my total bill for the meal, which
+        cost $32.97, felt like a steal given the incredible dining experience I
+        had.
+
+
+        The location of Khin's Sushi in Navy Yard is fantastic, especially for
+        those attending a game or event in the area. It's conveniently situated
+        near popular attractions and within walking distance of the Navy Yard
+        Metro station. The restaurant itself is clean, well-maintained, and has
+        a modern yet cozy atmosphere.
+
+
+        In conclusion, I recommend Khin's Sushi in Navy Yard to all sushi
+        enthusiasts and food lovers. With its delicious sushi, good service, and
+        reasonable prices, this restaurant is undoubtedly a hidden gem. Whether
+        you're a local or just visiting the area, don't miss out on the
+        opportunity to indulge in an unforgettable sushi experience at Khin's!
       languageCode: en
     authorAttribution:
-      displayName: carochan86
-      uri: https://www.google.com/maps/contrib/104500833310047046057/reviews
+      displayName: Elias Chelala (Chewy)
+      uri: https://www.google.com/maps/contrib/112891881046198787833/reviews
       photoUri: >-
-        https://lh3.googleusercontent.com/a/ACg8ocLqWp3RcNLWc5nB7I_R2h1RW2TSSy3UmptRZXWFChs5rBwdIw=s128-c0x00000000-cc-rp-mo-ba4
-    publishTime: '2024-05-11T23:28:00.930630Z'
+        https://lh3.googleusercontent.com/a-/ALV-UjVSs8XkQOxTJxHDBWyyT87_bVGsDCgedwv7g0hJVChZDmI7uB7YtA=s128-c0x00000000-cc-rp-mo-ba8
+    publishTime: '2023-05-29T13:58:29.980022Z'
     flagContentUri: >-
-      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUck51c3p3RRAB&d=17924085&t=1
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4bjRHUWVREAE&d=17924085&t=1
     googleMapsUri: >-
-      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUck51c3p3RRAB!2m1!1s0x89b7b705356bc3ef:0x802b09e26b838819
-parking_options: {}
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4bjRHUWVREAE!2m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+  - name: >-
+      places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/reviews/ChZDSUhNMG9nS0VJQ0FnSURheE92SUF3EAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        I absolutely love this place. I frequent it probably too often! The
+        sushi is SO fresh, the poke bowls are SOOO good and the staff is very
+        friendly. Writing this review makes me want to order for dinner I
+        already am craving it again! The prices are very reasonable and it’s so
+        close. Highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        I absolutely love this place. I frequent it probably too often! The
+        sushi is SO fresh, the poke bowls are SOOO good and the staff is very
+        friendly. Writing this review makes me want to order for dinner I
+        already am craving it again! The prices are very reasonable and it’s so
+        close. Highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Rachel L
+      uri: https://www.google.com/maps/contrib/110573068007852720822/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU5kurYbdYEsZslSW4vbBt1ryVpV4PjiQq5vgMSpU2rnVTHPSe1=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-08-15T13:33:05.528579Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURheE92SUF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURheE92SUF3EAE!2m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+parking_options:
+  valetParking: false
 payment_options:
   acceptsCreditCards: true
+  acceptsDebitCards: true
   acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: true
 dine_in: true
-good_for_children: null
+good_for_children: true
 good_for_groups: null
 good_for_sports: false
 live_music: false
-menu_for_children: null
+menu_for_children: true
 outdoor_seating: true
-reservable: null
+reservable: false
 restroom: true
 serves_beer: null
-serves_breakfast: false
+serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: false
+serves_coffee: null
 serves_dinner: true
-serves_dessert: null
+serves_dessert: true
 serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
+update_category: essentials
 summary: null
 
 ---

@@ -13,7 +13,7 @@ description: "Iron Sushi serves delicious sushi in New York, New York. Try fresh
 place_id: ChIJDWENBvxZwokRAYXaA2O4DRE
 photos:
   - name: >-
-      places/ChIJDWENBvxZwokRAYXaA2O4DRE/photos/AeeoHcK6pGx5CE2v7r00XKqymLMRm0ohVK38gSNan2BaclJvv9LsScBNktBfKptUSTmfrDDuQLlm5rRaF5r_i1cnjzsh6X9ZLYQ2bqXBwH_s82PhkwyGv78tn7ZN7MczeMoKOLlB88ngp9Enclhk4xZX3lbQgAHu5YiJOcVbdbz5-GPw2WCj5tRbEwBZOvtyg8yJaZTAu5aYiDXBG6FQ5aaL1j78PX05e3r_NjdbUHc0aax7GuCEjMCL1mFswsrtTK3f7z8ZMbgg7iWWtUn1R5t6hl9c53c_LrE7qIkbe6buglIth4ScNRey0M76r6IG8hOskwcFNq8-H4pnDH2IuWVRIbex6Vc6c0mYXA7ZPy5ZuuDikHE1eMHDwUpd5d4yKEqySrliTzdRu0ODBxuyOTAlN8O6eeVbe9qErNBytiaA8sjiVZ7s
+      places/ChIJDWENBvxZwokRAYXaA2O4DRE/photos/AeeoHcI0nbI4cwNVGOsJ_LfYWS0a9-41XdpfXQHr56aMwxwOgoPNG0KoqVvOVWCprN_06xvnBF6XFiBsHVC2fCyY85nvSOUemOq4d75DnYgOp-xuKCWwlb9CZd2krgA_N22pdXFat8UpUTIg2jjVMxQ2QAmC9MBukKjsVCNNs62ZDZWoyfrOWVo9P-SUDn2gomvWJ55tVK0ingJMUb1N-zprLfF2_SH4NtMfOrckxOuUhBThbtcfPPYyN6waj0z5v7n37U2bdt9_ZEC80iatku10Hp6SyuZJPxvBxPwfFRlyr17AQW2uJeADHgUJmmb3-e-ZPob7MJRLOLGBTV6KeIpsTfAfjiDVgBUotzp9U-EtFYgrzB1jziG0UgEXmY73zm6VSlkg2pm9my9cSL-fxznGIH7cU8Hmc6PJvruQ5hp7-pkN4Lze
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -93,6 +93,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

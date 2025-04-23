@@ -13,7 +13,7 @@ description: "Bonchon Addison serves delicious sushi in Dallas, Texas. Try fresh
 place_id: ChIJJaxMcp8hTIYR8MBD2v35jAM
 photos:
   - name: >-
-      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcJRkfVdIHPBv9Jv6WiuD4UlN5koB4teV8oAa_0eAWtCHDNAkNc5kqWUr5R_g9fk6YUGzrqzlZqBwaTaCt_qkSVFgOz4vKWuQUfHJ3S90tA4UCeKo0RSdsIIHVs3EAHz1SgEUeZczsjqYkC7LuSsve4zqcyvpbhOc0tzucetqr8NvKAsmzFM0Q_M-DALTBLXHgiIzru7HEIXz8el_jYFKUN1_0HbgHplXIQ2CpjnG7MdDLL2dZyJAlt_P05q4Xu1q2JXG_xqEzOGVycA4BmJ-nSfJTh3tRBvuuUSV2USn9ZiNHthbInFZB6K8OXeGITKBcLXaPiQ_W7xgQ_R-fypORCGqoxN49er94TVCP2v4xhsk7sAU4n19pYKFzLUnwFOlQXyy9lmaNZosISbTF0p_AbjKqSLJkxGWQ8GZNAeIk0Zlg
+      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcKT1UEe9q6CwZuzAjr4svRmFP3p6v00VYklkOeUudNPPFkxHvCEywUUM_LSJVqoGhpFRY5XOd_hCD_btYJkLdb4jSMwU3NiX6Wc4vYZrbrgjpZ9N22RVgVeCjMD7W6TDa73HUXiQ8NqrrU1JPzggmM2BYwEydCZJmrBX1-In8cKNUi_pgOssMBnjpTVEQRfU-sUxkfJPI8Hz5gizVJ67EH9floFPwrOeLhXExQxtrI4s47cGDf2n_amu0CGuK6PmyBHb8Y14PfM0MbycyrU-3PUFSSPNQWwGIgXUcNZEWPOGmkGikmViO_Vh4pJ2pRe8eypgXDJ8qsszUeOghNqCK6yfSGmoBptiUsyi-sNSJnHG8URIjEtobOjpOwoqpbAT3j78uleJqd_JUwA0gjE7h27FouyMt6Yjn0OhFgkcZvWIA
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv_Y_LQg!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
   - name: >-
-      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcLTd4lc9mhNFpDs2lsuXb9fnJ5g3FuHadax8CjYnD2nXa3nn8hEP4taBz9ilScNZvMJwEEAOo2yLfdattjwnSIufvTCl8ljE70P8vQ52o7nUui5wQ3B8N4a4N8-i1PdqcFdHi2Hjqh_BcRAppLhIqJMr8BA7Cfg4O5lQFfKRpj_Z74vQW6vgQ0pMbggVMmWsX5gU0K53sfTGoon2JHA4AxPGSqpuu53LDFsPOZIaK9zyHqCjfPmZdjLLGMI9zT6mxeMZN0PTQk0NJkOwR9WuaI5ZGxaqoaXUsGrzqJYv_GFWA
+      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcLfeBwmQljCdToryPJKzpPlfQPF3--C9Gd-0JEv7m3Vj5cRkEjS_qhdzdOfYgCS10ycovsUmyAWor_3AP-PT8DsQi-40QzpWbp_WNoHUm1-r05J7QuXhiaF7RfqruFpyfesOWG6oli3U2m8aScK5AX-kMvH3NRMJkztlUtTpS6RHs8uVvoLoXy6rDfVM7GPEpE_HqCnD_ld0NoWAbR0xyFmEywaGHwYjDZZ9l4o33qQQaF-PwnRW4vWgJAdie6jWxagf4rcdVqc0h0fEiGr9Dqvd06CDKfST0h4N1YOrgz73A
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMzINK7G7RXpYMP27MJfOsQFHFbQ-50kcLmmkmt!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
   - name: >-
-      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcK_i_PziJ5FkI0eyISMHhnINd97h2c9RF7OFW0EdjpIWc2Sf06mSFNtCjG2C8-fwMz1fgfNVDSNXlfbIra2hSJT7Ivu02GkwyUQZzZCzKBfwLL8luSxXYDzQgukcB-CNtOQuhHX7ugjM-JIx8P7o5o2S8X-8HZ9RGDeXvSfBKj4ZPl9Lzq0xTsRpOpZaIWbfaaV8pRvufYZL88NmTLabrwyWbAZsUA1GBGH4axKTPttKpXx7ylC2eWr31Jhf6jZ9XUl6XW8t4esF7uZXI86Vbbnb8cBDGAce6B80ne4rJN4hA
+      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcKEddcLG5G98RUoNaM8jdanVrXFObgzMFP8L4-X0zXDBuu-fFlFv6oIJEfUfoEy_NTzMbb8oKKe1xrB_rgTzbpJ4Y-0FZJndpJQp5V0nz18h5T-rrCwzK1PIqVe_webIuCtmTCIDPgL_T1Dc9mOSKyl7ohAp_ck8CaMHpJ0qWnhtkBDTishV0CIelszz0pwroiG_oIqkw49ev6wWLAx5F78xEI4uEtgiLaFyt403be-yiERpMjiCdGR01kOTeyRwIhiuknrHn29Q1t7dPeeUFH31Gz563Os9cfK7POa2RbUIQ
     widthPx: 1232
     heightPx: 693
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNiAkqWPSnUPYGZfeOajBGBbTamPSSzvdOtigiO!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
   - name: >-
-      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcLZd5TWcln1fbIWiFKX3EU8E5DSlTHzxxGx8nAi8EOuvNevCjn1Q7wWw9LPKd6iGKjBL3uaczbSQqvN5DmYOcyjjc2pXxOPu0aqEsSbsyIQ1P3wORIpayRYT8_ovBFtyWTZoOyxwjKfMpRJ6SE_25kY_4q5uZhF6QnoK0Hb0EaLOIwtpYUZ60em8LA-q7H7zj3LVXjqrZQqBz0dptJjTlWnOmDTiGqRgi2mRB6ctaDLHNCKiDKPhqK-VhfTcYbgCal3q_XkGBkdMOZiFIoufcHRHzlU-FCzpCMciTCwIrSinIH445PwWylb9FK8Q7DluHikoxDEEPrAYOq-CpmHI4_8dZQDJKUv-RcT321JQW1xF5BSub47QbB6_OslD3FRapxxTnguGaXAC34dnaGqOcjwmnXelcO7XQEGAZQDA4NaXOM
+      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcIXnKEcJ6LS87l4F1c_x78c-NXhqS_wyqBJREGRqQ62GaWp9eRN1HnSgwolAhBuJ4mZy-GjccEuKQCuJzimRm-pupqQo7jssgS9kdLK12XRjZptLUiAiSIHBHdWyqhOyp5JXVMx4NdCPph21oc0sc2_OKirZqr_UBlcxKZ8MGYP1pINuHt6PwCSOOIJlkfph-B6TjADgAPlOlkwbtOS29MJdZfkSEkstomwiICmWl0M926MpqHYi0Og7IFb4BCUl3JdhAZrZH3np5nqTm67-88MQTc5jKYY6eTW3kM6XrMkY1koqkMP4SBiCXCo7TYf3mXgbHcBx910PfqxOEG5RC9UrCWEz3Zg_vPYPB30YCPgsExI6FxcoRs8wVvf-1Dds93px1FFP4jZc-cPtJiuPAaDAILPgSSCRJAhAG5q2Oc2JZo
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_tOOWpAE!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
   - name: >-
-      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcKz3yDsOEzkeFWD_xE6Vm9aDjwdg-QjdSHK9awtScoyf1OsP8rIqJdytYKm43Sa0Nozlm2nk9Csx5UJrRovZ1kAl9vU7XXcJYPkB9GD2y7JmcsZcnrpHN-3Yk4MlgEdhorIJo1A2SE-3LgVnIqectdX277_8YuckrvNMUypkCRtGs9yLKCzfz1qxJZVE369fIdE6a84sO5XRO-LdZeNaEbJUfJU7a3fAza5FYeEmjvHqUqvtT3Bt6Qcfx937YFVoxc9yJjXKFWmCLUltff3_Rd18mMetbxH3LYpnPUGJTK79Q
+      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcKdW8yQSivMkqBtm6lgZDdwTa9oUemg0qHgx28zq0gFM3r5FoT3PgPB5kwQ93sbBbyCG9blj9_twKovLj_wouGfxml-_jGDvY3LXX6uiVhjQUu_KsyZnoRTdvkyQpfVZRwUcOdaux--vB2gn06jPE08OC_oSjdnxiyozReU9y5oE-DKJ3i2rAIqhCUCqhriRebAgar_bgte1tKpiH6n5f03GNo-ihjHv9p5HlXX8IcCQ-eKAAKcs0fPycrBHLKDqkWwaBL063MOEVCM1gZVxLIBShgkDPeAhxHCBauOEf-7zw
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPUbxIxqVRcCsiQsv9gfpOsLFrrrg2EZSpvGgX-!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
   - name: >-
-      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcLA5s1rl3QqhqWRDdDc5tjoajTAcP358L46UXBc_zbx44PoXfHQUHN6V-0C2DmBtpyRXW_akAPAvlDpLJa9eGxvLLuOd5ZY0Q7Wy0RwCj229-aTMUYa7rCmfNp30ie5cilL2rQZtZNnypA5w9iMuKCH3X6uYMGDEDaEQZ8-bEbvEjYldF9RFkA5l9ziAlXJQna52T0LmlHI_1gCSneMZUMqM0iHPhv67x3Xgib8IqtGyDTMkwBDeSAri6KgRKbgTuUeZjKJpGBJ2nHyFmRwL-MqItDNi8n4Wywz6AidNOdVhw
+      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcLzLTPyAmBtHRYapeITgqIT_tJI63xsjqtYmDoTOFRpiS5uvjaIpkzV3DfWXluQUVfJQWRVrQaKOIixHFZ_Y-6YM54sUplVnZtVW--KbBDSgmodFlqT1iZJouaynJle6uhzATDda7l7kJqhMmwreC6yyBJd25BT8S7URpiCVSQEJJ7s0ccmnPSdkJ8Naho75dswbmnk7zoQ0gsGSSswVviJR390nPZ_R-ihVeMHLY9l5-_gTRCnk6pltj8qWnql7wTBVUdc-VbtGwHCUWIEgbwAOUBWeJm5mdnB8Rt58VdItw
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -91,33 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPhynsWu_HJMzEzD_3_a8GiS0DS6XCkVLGSFFPq!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
   - name: >-
-      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcIYhbNIOsIhUdOB3_37zgPULUIraywBI-u_NIn5hwVF61DCrv6oM7vhmG5yBJHwOuE5XC5cGvp-kKvH66Nmb4JvDS6tvkq4u9ad78C8bYCxA7kCa5PwtJivIDBY_6ESHv9cy7doPTA4Baw_Uxtm_UB7VjxstzWBAAtDGPmPdj5FTJTyA9niShLYW9YcYamVCOhRPATikZ4kuhkou6kSXzKG6ciygmJyRW_uRNKTOMqM3e5tnHxXvW_TcfRb7AlKphaKFpIouFxQ9E99xMB1mqZl0kCEjSqWNlieMG-bdCiJfg
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon Addison
-        uri: https://maps.google.com/maps/contrib/104116573849994846029
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUcr4ytw9pdr4A9gZa81uCnN-G35kWQdulqV1DqE_M8zdTAa1U2=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMmZuw8OA1KPumRq0iAkSNR2AbggnrmX_yYSwaf&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMmZuw8OA1KPumRq0iAkSNR2AbggnrmX_yYSwaf!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
-  - name: >-
-      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcIONOzOs5Sz3fTtB_niBIYjTRXMM2sEttvo8C_Mdz972hH8llB-HwzklEZe-fPO46jzoyxTS-7hk0pkRjncTKc50W-Uw2MLu1p30Mx9y6lySU7AbPFL6wCbTgpRmB-XVHmt7cACC8DAVwGFz3NMaipLveuiRVLL7c908JDEvUJqHq6-1nO4CGIS4sb1u4RaZbqyZbl0z-1eFvzQY5sRjUnU1CHWcbxXINPVpy5ZYdQqEizVQ-vGvtUTNe9kB7dsF07nw_XlQdPiricHOH8FEYV0_wKMMYg1iT9Pv1Z1Nh3HAA4pufpumAQVvtRROgPeRAalpx62o25XhCPBCWV0UVqVc3gL_2rjkeyxTcAl18bPLy8PLFDkjgJXjQ8GxWSaoc5_3MYHIS6mg30IgqjFSs6OPnB-ozBdsubOdnSNAmKy5w
-    widthPx: 4000
-    heightPx: 3000
-    authorAttributions:
-      - displayName: Gbenga Jacobs
-        uri: https://maps.google.com/maps/contrib/117521037344076358544
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUuD9iU3kC8Lle9hC5R_rOLCjcy8yrubc1Ry1FK-xcXXtSh3LZDrg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHltS9Dw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHltS9Dw!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
-  - name: >-
-      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcK2twkLkIT87Z8y3zpqnOuySCCgM_IT9dswiaL0ljzhk5M4bGVEDKro5m2NdzuetWJvnqlZFfHanKH5b7V7YAd5lTyISGkOvmASv2m6mr7t5Iou67GKbB0NSGaAFyRCKM1pX0i85WPfhiW6XgCA5i3-Y9VPglWGw0JC49V-ne0susoa9dPL1QPkhPXsBKoqBXWVgOpO5GistNmyKrm1Ihd0XOPiZ17703en8XyixVevv0ih8Cg0rDnl0e-0kNjML7ALBa8V3M_KyuWiqP9tTC0yaepY6K_GM1XyzMf9Gb2zaU75hmepRJLv9s5CZc5F5ipgROrukTtRBPlX-3txBeyGw19crFgx_0F7k_lrP1ZAnrqJzBUIwVZQw8fQqrF8sMXGaJIiCAS8oMk56-H1Ua35sCAOyZQMf00VCLEnn_IjwexU
+      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcLZwW9L6f_ymT_dzoC0ztSRd71PKS9KPXxnlwSM92HjHnkUl8qWBTqRcnlLrgO1PBUMXWkyU6s-UXVZ4yIHEXFYtnQqS7qSbAMILawa1mMpyGnEtujiKFDJxrFJGQN9qnvslRoK-7HUlsQWnHmUAmgQbgwJTm35OLHKBKI5OlyN568aumahRQ_mzdzkZS6vJJryBLA1T1f4He3UhqKd8K8zsvSLHm-DfiIx0u7F8adS_4VQ7mSWnP6GTSKmDZvHztcezEQYf7kJh6KnyHl-Ghxc7ZBS3JFi1CRyX9XZHbWJ79av2XkZub5vHB2ewts7xPkApvf4wxC-bbZCGw5JIP0C6rIpJipTNqmdc-eo5R2BxY0zOFRJnRm0Q1Ksj17YMPg-gjfXQ1WJ7zCHQLKUzBKyUZoBRRWDMa_ZUcOVC2DS0Xae
     widthPx: 3939
     heightPx: 2954
     authorAttributions:
@@ -130,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv_Y_LggE!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
   - name: >-
-      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcKb0vJCHfnRCh01BHBTtkRE9jlRPAkfA_iY3T06YBKbJdhmNb68ZJyLVjMwFzCdpLayf_B6oUYFG9ovo1Er0EK2DQi6hUVUkmnv77GfnALzX0QtWnk3rGFtH-vQQob-4Rq9ehlni6gvz4CbgGXogduDBahQUfDgUZHu0HP87EnuSHzMxEFocKdcQupSv_rLUQmWbJRVofFQkMxZ1ldvlriyT6BaTQ6QKl8EoKtXSeetStyX8HtxT4lvUjLGiIBRUk9p832T6-O9H_ZG63DrqBK1Ux2QGmzGfd77NeeiuLYgDTAvs626C51MrOCm1Ej21mds3nIRPAD7BpkFGfeE3MMolBu-A24q8V1iunK02X2GgP229E_0WfMOFO_HNwY5Ll3juBrWsQeEy90WN_0fxkVcIMB30pj-YLvWel4z0jMYHw
+      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcILf1E6wjCKbBGwYGVdwTklKhmEkBr-25UbzNrCWLzgKeyJCiYtHbQX5X9kBCDTE1xp6hiBu17vHf-W3ve6898HHJGtOS9dXG9WO6Xra9GfvEEW86FGp5rBk-naOv5sYHD4n4WlV0I_7LRLIH2_cdiOf1A8b5Zafshc5krfcxT8aXYx_oCNne4uVdM4zbykBKGi52Ps2HuleGtXclrPNpwaY1-j-IQ-lTY5JbEHwmAz-M8FNyNhJBB0UG0KD2YmVCk55lU7tlHqLa6tQbJyiWzV4LYb9pYZR2yag-BiObwfAzeF7MD-0kjuq5EdMIwg3SQ1SrBCAPE9UnOMmHu6sUgkNliMzMEEutyYo-CLLMbV2TpKPtsOpzkmMaqoLjZfk3AUrqLNv6N5zWYJcYkTx36dEJ2kITZUAYQVrGwLnCPi-A
+    widthPx: 4000
+    heightPx: 3000
+    authorAttributions:
+      - displayName: Gbenga Jacobs
+        uri: https://maps.google.com/maps/contrib/117521037344076358544
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUuD9iU3kC8Lle9hC5R_rOLCjcy8yrubc1Ry1FK-xcXXtSh3LZDrg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHltS9Dw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHltS9Dw!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
+  - name: >-
+      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcJWtXBUHrzEu3LZRbh5DbG0KXzdejiK8qmtyq8d-W_iBuJX4_A9rzsu94K4E4ASO0P75rb-eDPLQoq_JubgHmNb4EgZ-WLUm7CRMHdLNxypO7CoXfSVLzd_D5f7hyF7b-PpbfTI-FQICJjqRx3WNve-EvZGvGnC0PSofzliAjRTLAD2Mw8ybsFIqdocELehNCEBGNcBuWkf6RN4rCku6CnY92SoVBmJozc9Vbo_RGlA_s6A5TNjZSrkMzjaeMJMbwORKVxGHdpiEL1f-WJCBiyRKLdfj93t31iV39H7SBcauG_qLefVCkkyTXLak6WEqSTxFEE-cJhW-0B1PmuxSf8kjwVA9bjCthXN4Uz5kAJxsOh_34znGAV0q3ZMwi8IvdC1XhxU07BE6j5Mw1NrT5_8PnrcVNz_sePFjZwsjKJkeQ
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -142,8 +129,21 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHltSxUw&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHltSxUw!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
-address: 4980 Belt Line Rd Suite 140, Dallas, TX 75254, USA
-street: 4980 Belt Line Rd Suite 140
+  - name: >-
+      places/ChIJJaxMcp8hTIYR8MBD2v35jAM/photos/AeeoHcJ3cehsoajgx4Ixee1mOW1wSlOIeKAvyLoc4b9mda4tFgAJQgDeThWqztYYMa2Jkp4_XPdagxpdfV9tuwqf5U6lBgMeDNbeTUHmHNLbtzxAUfWErLwWNWkOxsNyqKoq7sqtwlVFsqkPLuhi2iYUoWrjD9EUe-FgyVo4z8ZYpRrPmkcltZ-PZKhogYcwL4yEfWRPL-EZH6Sw08pnlrrkVggfNurORvoL5Vv1cDigFACruom9C0a99Zuxb45YwQdyL3LAqlIdpffnZyU6MdvBKpKS9xCLKBMCtavVn9TvbtWMWQ
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Bonchon Addison
+        uri: https://maps.google.com/maps/contrib/104116573849994846029
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUcr4ytw9pdr4A9gZa81uCnN-G35kWQdulqV1DqE_M8zdTAa1U2=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVQX5OFSFbxRiEz2EpxV25u3jUDT7twQSnO4vr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVQX5OFSFbxRiEz2EpxV25u3jUDT7twQSnO4vr!2e10!4m2!3m1!1s0x864c219f724cac25:0x38cf9fdda43c0f0
+address: '4980 Belt Line Rd #140, Dallas, TX 75254, USA'
+street: '4980 Belt Line Rd #140'
 city: Dallas
 state: TX
 zip: '75254'
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

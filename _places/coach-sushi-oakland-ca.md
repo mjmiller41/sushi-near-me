@@ -13,7 +13,7 @@ description: "Coach Sushi serves delicious sushi in Oakland, California. Try fre
 place_id: ChIJk-MAj0aHj4ARajSMdt4JfGY
 photos:
   - name: >-
-      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcL4ey93PDDjAchk5QeX1XkjDj6VEuXsKDpqv6xUnCoWo2q1YIRamwUmJJTeIo9-0-cqMJz4_UYKvoSvPJqC2M-LjqFmrtGzhX7ohomqGORtO7hczYLS9N4HM_NLi_VIpY7kae4kgBipAYzUPjOGeGPxQXKpH2Xao1-t1MnVybSSChFBsrKmKWyz2UvAT8D-1kpqghBGcIZ_O4yoHgGBXnoP1LzYbFh_08XczR4MAjDBd61ZZLljBhrPHtxt_RoYgRKbt91rbM1XglQNMZkwSk0iPnBdzmnTPU_mfOPhL067fQ
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcK1MDTtFHw0bHsxGel8Ja4OZLVJVAk8m1lyUDKqPLC1ozd7UVEkNHQEkWXKYOoI9YfWEHVcvbeMr6HpJ0ddMAlw58PwuG7b20ojbplGMpfXVgECd65jo9O9iz3Q0txEmxCkkge_wDF6vE6RLdjq89llLlESvFlmBcUEKCOO5cAjzXOo1qMVedocWUWQAFR4I5HqLtdi7L1PBT5-H5r4VyUeaTeE71MqXB892gl_3ABlNg_mIABb9r5gqWZ2Oz5BTY3wX-ar3isz2KJE8mxrj27l-f-0dr3u6kNpVZEASS5svw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMyr6S29HETQlDrfZpNNFDKi5DnfghzHtB3RRMh!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
   - name: >-
-      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcLIVLIWGzIDlHGhvsUgyvJU0Z06lkHcViYThcz8-FVAg_vn6y54SC7TTQOa8f6uLEzTgoN-_6ws3-JHDQEXrdBj4WMQrjm7JMfqfO1OfnkoMNVTg_12wfLtGxkJVtGtoQuWdXPp9JUYv8vHrdIKAxMy-QpEqCxgdNZiUy4dybapDzSljZeG2qLZBgbdJR6GSGjGUGdf_AUhcMIL3YZ8WMHBGRyWC2muTO1q7sj3aqWZxkvsci2LbRJcWnkk5MVtz1ahjWaMhpWc_zrY8xoFMV0HqYUNFkZSl0pW0a4HkogGiA
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcLRarLmet24cY4fArBnV10HnRUbiwT88Lqosq0KdNah2X7WG5kVejhRRpsYS7Pp2z6QEBZJWiM0d1Xhln6lGY5vjafdHW1koTBS1dgXWs75c-P2dNvXQ8xI8mtVtFkMIMAQh1-nZvRcwWDigG96mwjpHJBhXHoSg9-i6ZAvm87PG25kHaG6g777HSLbnsSZ1Tpx1HBo1Ugb9LgHLSKrS7EF3VNgVf12GNZsLjbFWRRW0O1KRFvcR29K8v5mu7FNiDcY1Inh6baPqfmGO2Y89cS4vdNHCeQ42gnsuuIu1O1oXw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOc0FeJii4cmFqJ021rJOIKNAEYomLsepTNPN2H!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
   - name: >-
-      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcK8Lb9x7qiX0HsdI479SjEyvt3P0M_13mxc87p8NJQICRqQQLrteskoYRfX1SdTzQtAqa5kPLSSZzS2a8lpSfSAaPGvKX3wkN7ZuA_PAAx3PMW26hEuOuuIh-QIZO82nCEfsV2dOwCvvMgMfZtuRAsns8GjGvaGDV_N0FKBaHTYNhqyZCAyL7r298uoLheEfKuYYyxAwdUK3t2NfVWTnh-EcMaI_DRKPFeqsFi5lb0m4mTUjY8vNOFCvJeKnYfp7ZF9R9OAluzprtt9gnilCwetvFpiNOeJpTfhU6p0lmW9ng
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcIInU_v7vu73y2lvhRXMUBVAKaesGEEiGgZWAGAk1wElynNxwzigG7yj8-3sBg6o_gJ_YeJCyXPyM3npGU_Ar1rcGuDrgU1UYYkQeCMDHok4X_ERGKApySPcCyJPrBHCXz7QADEaDuJvEvFoOVOgW7ofABdNxVJeeBn44NxYNYTmzD5bySRY4BHqMEkZASIu7K9miqLkgvyvBaTW1WeaVpOfImnv7wTI7mSOgrQA-kRAVwROwts8Y33NB28oSfZQp6X7nd_XNq-bZEyRXpU_WYo05rE301Qkpfmd6Q-tRMHgg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,20 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMoj05AGqnhkWMoR2GeuXvMTftJsThvxnFvPusK!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
   - name: >-
-      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcKaltpHO7dte2KZCFxJrER_pU30vopPOZwwXtf2VagX4NEm__VZNby6sWeqllAJmMTSNTJaq68NIUlIYyNclnu-mqaZKPZGYo-I72IwF_XLiH-xriasSHJSAa0EdscKswR44pgQZnQ2OE-ALKwtdIn2BvvTRw2_OinetXqZrVsRG42TdPGAMLMARoZ1jtWCC09B3gQaw6t3TU9sAMXWfcw9PMJ3mzTO9ogvBtqUEZPKZ0XIgUzSJgoYEycOM7VYprA_bD_QsYLzxkzZToIiKDA8gi7BspGQvW-frTEDiOB0IQ
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Coach Sushi
-        uri: https://maps.google.com/maps/contrib/102641358228144977791
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKi9mHkdqBM9Lo4LZD_lYvHM5LcHdIdafkNaaNRHWKpWGxz5A=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNkO12K-q5xGZH0BQkN_5GKg-05CKsCpvmNgcyc&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNkO12K-q5xGZH0BQkN_5GKg-05CKsCpvmNgcyc!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
-  - name: >-
-      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcI9iNqQm0Q-OO_74sd9Z-9u-72Zy93tMA_IMvjz5DBmBUPPViE560xC5OqDdsVm00BIrRX8xeYH3kmtb4Jqn7pX2zJW24IbA2oGnybYJvhR8bGQ3YOaNW8MUL0MSxMWQtAJ49dpm04gP9VUDrNiaRx2EFSWfijI_0q0Is3-qt0OxnKTKPCfGozzju28UtwplcoWu8SdaeA40cWdjgLx5zH9HyAEYyQiKv_p1Jx4ea0G1yc72M-9ZHg-hC3K9vESWo8v47VQiuIiCeD4JDEcPqyunyk7dJxWNggIcbKC8tZPvg
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcJXcJQNNS9RHoslKEK_zFoKBOcFwO6xL9nQACb3vrMKcULqzzwUJdfpreb7kkL2_d-YjsVy385MvgdkDh_c-fJ58-H-mCQz5k_dan-BVHpSlomuJS-nef97BPdI3k-FsrSS9a9smmSfuX_pgfY37QdW37wiIPDE9one-qLG_m60zwsjIYe9cjJ4xSuCb5BQT0DGRBbc8UAmCi0IoNZp-ttbmM9PDPTaB07xlun9XGm9ZhrgDqDmO0OksYOqPiBY-10_n_iSLX7WVjB51TI-2O14e2DBIs8r-ZiOFzzyFN-9UA
     widthPx: 4030
     heightPx: 3022
     authorAttributions:
@@ -78,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMnjTbPfOchaYXMYfJYdiLBQEgTswDE5dX08HTf!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
   - name: >-
-      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcIpx1OVUyeE6xzm1un-gPJFYA5GUEMiJDsI8L42RkeYHzjLDaWDIE_vxnGP6H0g5JDWfb3YkkWS4krQvqtdUoi_YvGDA0qw4JyphBuYLdlWDpWkQSvNflMzDrjJMlBWKpMQfjW_68SLXIwdThOyM-Zn7DojNp9wbqB17CXIXV8u4ATY3GC9a1TbFKUpMDfwiWyQUXPUMrSOI10mE9HGDfXYc8frMFYyRthmN8_Nr-I50Gh6j3MGcNQ9vvvRE9nzoHlBoJAs-_9RRxqVJE35emgVSua43NW8bxngAHYae2KL7w
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcKfNpSPorA-dpVpjpXTexxUJWpJvgtnGZMtqHoV3CcUEUX0-_2STnsWHsdyYb8X86fcpJPs8zA0cLP8XGEsKEihNzJb9sT55T5NBL3HHk8ohFI_QsVUvNGiUgTP8Z1JpRbtK1b4WhTbpx8eisIfmUe6lF-9tBaAITu4JCvo5TsQvqiEcab-27tuyoZudfM7ygMOo8D1evyinxTU7cZb20sozA-aeWj8f47zYUPxB_D9Fk8AvDVPR7L0bkwQ8Q-trxzJjQxAwDpSmkCr-bv2rS_avPS8gBWYcSxwp6cQYaiYPQ
     widthPx: 3814
     heightPx: 2301
     authorAttributions:
@@ -91,7 +78,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMIiNS6IP5i6M7A3HsGSeqHSLtdnewF9VYjQlPC!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
   - name: >-
-      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcK2YOtfm21wqGc6aS0U3jecElJTwCV8QIqxukmpoo-Gz0Etd3o1enX25aSX-pidZVV-iegLxGqJkVbHqTyqGs13EFlYdbZhBupc5OQBImbUuPF7q75tD4CwUAl6tEx2d8Fi70zDCbKPHDsOy8iuLLBdGdRRNtyqM0SKcC33e0BnIlejSbjv8CXFZ2qBomOMZrxqk0OSy0DWxwFX5C1vHUs1ogldDRavphBrxOVrTXtWCozuB78mGxUL5GxvSep0EIOVSHq1XyhMi0GSNLR4iEyuc2R3M7k3Vftz6ps-zplHdA
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcKuNj8IvZ141x2dFQa3fjMu5ESNmlD6szwdk7-hH_i2e0MTtUt0KSqLLTsYNXv5qJnzZd_KJn80V-WtK-bBQbCi4sAmoaI-aYvSwxz1-l_SWfdO3SNMSGSFp9cUdNfwZcS57ff-NxVgenp8dgGISbm1IAmXroT5pZ8koXBUFkHqCLxa9QQr4mV6DK5tWD5wCRX6rS2ZANVHuq1B3VRpXi0nPbDuMsU_7qLKhHDBYyRWdgDf53O2znRQEcA1Z65Rl5B8K8jcONwYrthq2Ur5X2J7v0Sx1JPR1IjQAbzimTzS8Q
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Coach Sushi
+        uri: https://maps.google.com/maps/contrib/102641358228144977791
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKi9mHkdqBM9Lo4LZD_lYvHM5LcHdIdafkNaaNRHWKpWGxz5A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOHx8haCfHlgRZQIT3u18353Z6Q7U7zfYbu3OVs&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOHx8haCfHlgRZQIT3u18353Z6Q7U7zfYbu3OVs!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
+  - name: >-
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcKvOC9CrwXERlEQoUEL5bj_DTbxk32zZ5brqf2AFxYzJ9H2hweNFf60tKGXql7Ml5O_BDAIzY5jHO1-HFJjgR78-9xdmWwJOxXen6FxMjcCBpAHU_76X0IVMD44uBec08ANTOquXdpYh2OCp0AS0bIssLt_XyYabuYCCc5FNnzxq-V7a01zuOz3ed8t6vQmfB0tdHs59RYtmNcmxLAhKC15PJTVg468R94Zr0GRvSHepvM9zU1qApDKMQTuviv2Ac4pjTA9sob3W6OYRyDBCBBpM_NjJf3Wt9RNpiW01Xs3AA
     widthPx: 1024
     heightPx: 680
     authorAttributions:
@@ -104,7 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOf2DDoF675-iDgx6WJtkzgUS2rs7G38LEMRVFC!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
   - name: >-
-      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcIVpofgNNIxG_neYaT16hlELRxkJXAsW5O5W3Lsi0UuIjfRhqc2C6FAjhA9pKtzW4JGEoyezpYGkZO1QPgUACy6Oo6wYr2-qEzxliixmPk-pJnAu3PMFxd8F6z-ZPCGknZnrBeLUsTtrDi21YQfC3hOqgXwfPYrp-erjfX9AhaiVKKuKgrUxlSXOQhdJdy4-xMk7SoQBV7zf5hYZmw-_E6NF_JvhOxOoFa252lToQ60HGbYquFbcdDUJzkQjyQq2N31xqRkGWRbo4Z1OWwexadwYWfySJdxXN5rSHkNHquNRLsXYm1FXYBo2fnH_6vH9Un36msnpPq7xN4qhbEE7JgnmtwTAsAZ7qy2BLkqpIudu7YKKXGvOjkX2G_-fh-6XYo7Oo7c7sUUnRZMurGvrI3mzrGl1r7E1Ge6VwLg-KnPsA
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcIMRJhTJtpR54YtV9JCYdup5LPr-OihjHLoo4rjX6cT1MxmlJcZuJPL-7f2PMAlxMILc2hdfig_NkZ3RBZ-T7NoueYvYGmHSw1M8On9Kj14wYTiKnejtheDhijcsOr0IZ2JUaK2Up5R1HEH8Ltw65PFw-ye5R6N-xShO_o0TJCCreipAI4O6X-FpsCaDOWN_2I1fDmmrSrIh7c7BlxDVmZPFriK-xg4LdYUmesJgBlbz-Cv3vWxZ8510OGmevAxAPMXzWUdj1pKVYjxEbL-C-Oyb492fcQK_yIegeAtEAVsSQ
+    widthPx: 1024
+    heightPx: 680
+    authorAttributions:
+      - displayName: Coach Sushi
+        uri: https://maps.google.com/maps/contrib/102641358228144977791
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKi9mHkdqBM9Lo4LZD_lYvHM5LcHdIdafkNaaNRHWKpWGxz5A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPDJ6TNz5UTtdFyqm-dJM0WhFDJbYNpS9RElJK6&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPDJ6TNz5UTtdFyqm-dJM0WhFDJbYNpS9RElJK6!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
+  - name: >-
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcJIIJWRq8vgmJQY5MpaHmgvIp_1aXqSPbuO52P2L7naYF8sGtvYt148reycwnM9BboeqtthzHitnbRozMI8EG4nHVO86TNAmEpIAbJDFbEi4ZdsrJgQKMHaE_8AWN_hUZ0l0ZPc4KreXkpDitdy4MgPn-5jzt8zTUmZLIx2EV9JzQVD-AXQa405AO37SHHPV9SJPVCQIFNEaHIEBU3rF_cahuE8PQJjMfLedCspmGPuXHVGYsD4uLTqdZAnHft2UlZ7cYlCUOhFb4Bt-YHcHgK2ah5XHZAoDCR_yFmKbXIL5d0aPPFwJJbiZQeX9sooG61ZxtOV3AOchytnnv6RpYysNbVMBewQCOfMiHQTj9gQmp_SX-blIGh9haKpxlOIBuGzzGrLmtEIydx9Jq59SAQDJWoqbznb8D6NKvlHw2dX8g
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -117,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE4vLrUg!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
   - name: >-
-      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcLGxcg_idxbPdvlCz_C_xUkU2f_iw-k34oyOZP8IKpbys_KLMzK0zJ9UxXmLWt-_rvIM2_Qg0Oq2Z6lGcbXN2gi4jKYHLaN4K-XkVHu0h_0SS5W-THv39DtQ0f63utSRU8aG_6w96P7nRhby5x0lUFcPCPAv4vFNflSx3GiyMseWsrwN9-3V0-MRsYJ8vL_qQfp6mAgWUR3xMxfXgWFkN_wZTyRV510XagieGJD1h3fL6tIaX3Q24wc3hLgAAvno8yuBEOZdv7w8kNoGAU8ElXZZIUiin1d9SR0C5NdGkIMCu1xsBA6vBMpE6dyGbbjzBxWKd9lBu8dBdTb6O79BqRJOUcopfdk3z9JpOqe8QJuNqjko2R8deg1oXPP8f38-zJ3tYc6voi5ipZDGcxfoO6h6oGDZxOuKO-LdmocB3Jv3R4
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcKa3w3Pa8x2oV595JFry0ouj6kNnGIgY20Wb38Fg5TRGHUvclWVY9XxgEhZmLwS2Ky6k7sq-FnvxZG-RAv94Eq52tJdXuL5oNfapXyEChHfSnmvKMfd6jXjXTNWwahE1mIQznhvhpapC_EduTvVrhWUJhmkOW3eEHRXEdrXebB7sH3UZTbg0CeFZLy4ezd8tZxtBWRGnbV3DS6YYJ-RoBUQskaFqsd61cz3AtdcNH0jb-zcoCSXINFGm-hibywwf6hqNlkCtICqXyki0IvfpvoJlH_5BlMi6uuLWU4B3uqNv_hby1ydwTbOWkixC-up38X0DJq6v0Ii5stsW-ZLOmYF3VaHfL4re0SXz_tWsrVDi3FukrUZddl2Zy-MpSl5EGPd4n-m18-TUzWIyehaEMYHzpeeJyHIz0MEkDIesOUpPw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -126,22 +139,9 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocKStqtPdTvnl1HaS-cn9fvN_DtvIO2yy7_dv178xR2iac9BgxYi=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXqfeu4QE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXqfeuQQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXqfeu4QE!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
-  - name: >-
-      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/photos/AeeoHcJDOAWKVkP_mjtSWtRSfqCIKg8EyesV9x7vqWwg58ANaZZnkc8trVe97D7bt5llaIIMPxgoheCi_jn38lE1orIFUPUemoog5TvI4GdO7oExy6jEYKn9ke878ZgjYJm79St1WXE4yw7CvsjZZcrTTUMy6BO6DPT0ljFgtmb_L4hLlnm50FRstkB328QOQZbzIPAiOQyl5cuegkEKcyP6xHIzed0q2PiFOv24b9nPys4_fz-JQrCmc7Q3ZTcNGBJl2xsu9gDnbpQTDNRd_xSkyO0xnx3XuLYb1937ujfpb4YgySD_CSOqdYvQ-GbuUMlIjJBod82XN4FInDf2eaAuEb_DsL1m5ZKNqtPrxtoEDQZ-ePGrNCW6Hg61ZXWJtqGIyayLIz_9oStqqnCSd9Kf8XmwF2-i0yG0gdszk0gIIl5ROOw
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: yin lin
-        uri: https://maps.google.com/maps/contrib/114483919168701471278
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKStqtPdTvnl1HaS-cn9fvN_DtvIO2yy7_dv178xR2iac9BgxYi=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXqfeuoQE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXqfeuoQE!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXqfeuQQ!2e10!4m2!3m1!1s0x808f87468f00e393:0x667c09de768c346a
 address: 532 Grand Ave, Oakland, CA 94610, USA
 street: 532 Grand Ave
 city: Oakland
@@ -169,8 +169,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f87468f00e393:0x667c09de768c346a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+  current:
+    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -182,7 +196,7 @@ phone: (510) 834-7866
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 294
+rating_count: 0
 website: https://www.coachsushius.com/
 reviews: null
 parking_options: null
@@ -210,6 +224,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

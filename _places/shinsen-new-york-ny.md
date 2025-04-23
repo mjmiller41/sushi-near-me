@@ -13,46 +13,7 @@ description: "Minimalist design Japanese restaurant, sushi bar & sake lounge in 
 place_id: ChIJ__8OsCdawokRLgMZI2Ja0Mw
 photos:
   - name: >-
-      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcI1M-qf_1uHVoNGUHeCy2XcH9RwMnCR_huSGCJzFOmQdXvGWb0yNTwN0wys9gQYd9CWnb6YP5SJa1dp7bNLu1rUenAsmJL9b2oAlSbopzO50rL0j1q78yNelHlpHNGulMVGDi6_6zz0svE39HXJFHeIs64z-pClsBXIdlBylwttMYZyA0Op8dwjXp8SCYy0QU_6lNbF1gGZ3-HV5-nlqtO-_4jRoXRMmelg-o0emtuLjQFRSV-9LRRURwYW1PT1xoXYckvgJJjWH7UcePh_HaK0nvzpBvmwGTcM4JPzo-Lpug
-    widthPx: 4800
-    heightPx: 3602
-    authorAttributions:
-      - displayName: Shinsen
-        uri: https://maps.google.com/maps/contrib/108837462769121624876
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVzR2tocXAXoAYOPHb4St3CJEo47h4VWdznhiAlkPdpSX9OjS0=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNwCFlEa7wlADXVFx9Kr-CrQOQ8c96fF31GZIuL&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwCFlEa7wlADXVFx9Kr-CrQOQ8c96fF31GZIuL!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
-  - name: >-
-      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcIA09I8gPWVfUZ2aTkU1bV4LfB4bypDm83iH5UZ2DRqOD8uLIldga_JCAZKZmJyBiCG0bOG1XoYEKCZeOBUiz8i3_5BjoiPtmqdLfI-PZ7zYTv2ucPGBLszMEF-itoyq0BA2Rh_GVNfuzDxgq3Lw4QAkfBbBOxa-U6BgdvxQjoZTloi8Emv01hvv7eOOcO_x8VitmJb2Rt4IgXeeWkYS0w3UEhpNRl-ac_lvMe-6ZDDgq93Igmg8ySlsWjjZCVmxyhsBulPvAGnOwJGTuZluG5dT7Ew9GZ-j0U1Pw_ERg2k0A
-    widthPx: 4800
-    heightPx: 3200
-    authorAttributions:
-      - displayName: Shinsen
-        uri: https://maps.google.com/maps/contrib/108837462769121624876
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVzR2tocXAXoAYOPHb4St3CJEo47h4VWdznhiAlkPdpSX9OjS0=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPr8FhEhvCuorBYfO3qDPbrcXeWxTa0_4A_Ja-j&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPr8FhEhvCuorBYfO3qDPbrcXeWxTa0_4A_Ja-j!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
-  - name: >-
-      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcJEB-c25gfN66CTYzUjjb7dcelGAJgeeGiTdsDLlkorKA0qM1PeGbWIBWpFvOM8wX5qfcEDjDuQ41fI4ndg0A7TQFkOQDm8hPi8SBZwMDz1gYDtvmgumOhrKrJvXQLEgtsEMm2HMFbmi1vdEBZ5WfSG0pyFRs0UaeVrBVgFYqik6SrxcIrNZfYVbFByrlqtZeDohXHFifireGzkpAxnmJytc8Tx936qdR5V7m51ZoVjnLv9AHJdbMVdTkQ7gX7eURbxvGOe-w8C6F8qKjFDvH53CkA7bcfL-TKxPJOFlwoy4A
-    widthPx: 782
-    heightPx: 440
-    authorAttributions:
-      - displayName: Shinsen
-        uri: https://maps.google.com/maps/contrib/108837462769121624876
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVzR2tocXAXoAYOPHb4St3CJEo47h4VWdznhiAlkPdpSX9OjS0=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNDo1b3z6MS6WtdzghLA5xJIBKl_j7ilWLll_nx&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNDo1b3z6MS6WtdzghLA5xJIBKl_j7ilWLll_nx!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
-  - name: >-
-      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcKCBFD8vV-nTqS9VZabS6u_02R2o-ox5WsE42485uHSzkuozsqI4SW5Ld3q-VctUareq0F3RwijmJs7aBD-dCd5_uSgWKYRHtpi6h4CerJN_6BTgpojHcD-KYpM-wueyI_uM-XExiLwUx34uLdTK33t5cM7XMtxum9jrZ0oa-U4klCqmrXhSdHlFsPgor4SYv5jVwSZ_a9DluW1zx7uSI5g6U7tzupHi0lHKBILboBgFMtPDPm-GOvlvZKYtIJw4QMTnuhT263H3_nt1MYDPeiwR0cvTmcK6uXd_VqsPozI7Q
+      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcKSMncNl7LMkK5WvXfQC2MGnQRrL_Sz5pvL5Ziorl-g7CJO0wuiRFN2w0WMPUfKsJYkxJxpZtAE-oMPxJ4cVGrw3LJNjdQ5X7K0tI2cJ9kxuR141MSgiBHT4q7J3R82o-TCGyIheuJGD1xKIQ_kRtg9xguAHwdMud7deQ1VwXVBBOJWnMSQAMnl9FcvLHlGu2TF7Q838Y6z3tCOK3qRWaxZMttNg2clHC4OThe5yzF07dyP5YTtp4uqZiGUOrybLUxx1zQfDk-NwXvck8ZTTVk_vlHAHdcQsaQZQ5ZEclKxiA
     widthPx: 2048
     heightPx: 1536
     authorAttributions:
@@ -65,7 +26,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPoiOXVr63MJw2CjuBBIS_I-2EZTASrYq6_8PGY!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
   - name: >-
-      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcIX9SB6J892GB4SD0h61E62OrftVq5lbUp5Yv5b8GuCp1RpwAHJn9drkwav09ScZaC5N2k_ixs-VEAbdhPfRSJf8jtdlnP7pUcyD-dHtZznaxSR9rxG5GRcwZcX9WHOG-882LpQIKzZ7Njd6peluzXhpOT-6PdIRaZURJZZCVSVT1eCksBJjvmpJlU8CJ3OQ8iUVJRMrXQo9VZdVbUj2FAPENYVCkP79u5cic9O9Tj44v7pV2YUYqAGNv3yW9ciq1Orn6Are0RFCTvzqtXFbTYoivebafLYo2DUhdoGWipQTQ
+      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcI1ZBqo_pFIn2xgHonegHJNzkXrDEtbRo8DU2NmseS4lynBdnsnUAqad5G26Et9rVZzC4YzV-36K4lXUbKhIYz7ni4r-XHEr5hIJXYDlQ5A_Fhk6WjZVIVw6lCNcch13QYqG3SVQur1eNEn5dAWVHR6VAwYmhLWQ2wtxDFS0C1SY1qcH5pLGqxrHypJ8LrRTrD8pFrvgKFPzoNp0LQOKja6unvJrtVoCDi41bree2YuuDDLfrbpxkXv7ENIjzRKly1pJbeyn1LXy6NEA7v6pURdtliHmrA3SLYo9rTNhGoo3Q
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Shinsen
+        uri: https://maps.google.com/maps/contrib/108837462769121624876
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVzR2tocXAXoAYOPHb4St3CJEo47h4VWdznhiAlkPdpSX9OjS0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPr8FhEhvCuorBYfO3qDPbrcXeWxTa0_4A_Ja-j&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPr8FhEhvCuorBYfO3qDPbrcXeWxTa0_4A_Ja-j!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
+  - name: >-
+      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcIxzgklzhhZG8NUVbUqTYEzFAhLNn_Ue0Kinpa73s8H2ojEN321m7ELmHYmkZadKtocKnnzg16PxaPSYfqe70KZW4xPsSFXXuKI0J9Gn-5H1s93LC64oS8b5_lHPAd1in3A49hm6_fymWagCN-lGaC5adyAPze8J9x1DR430_Cl04tGFN6xc_G-A0huXYJ4hLHrD0D1ISxxFXITN4b6q8HRHQbc8fVOlzca39hufE7wRGSmkvTWJMJdaH1CLiTdnseWBc55J2_8izwcN5Jz37RgCDHtH2BjTKipCwrrhnGkOQ
+    widthPx: 1500
+    heightPx: 1126
+    authorAttributions:
+      - displayName: Shinsen
+        uri: https://maps.google.com/maps/contrib/108837462769121624876
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVzR2tocXAXoAYOPHb4St3CJEo47h4VWdznhiAlkPdpSX9OjS0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM-TqelCB_dfUcOqic2EM83Mr8eUXB3uDdr-F5M&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM-TqelCB_dfUcOqic2EM83Mr8eUXB3uDdr-F5M!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
+  - name: >-
+      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcKDu76F_27xZUf8lEMW0ZW7KgRnnFioIJo7daDTF6L6vh6HvG-BjG9Rs7rs665s7IUyuvsIxCA6AjOvVnVUIVWLqPkB_PJF8Nay7-NwKYfh6nBkW-janmliew41-TjeydXqyEd39lZ4l8qMqxCB5qpnZKAEFdrC6o7guTdTckcCpGB0bojOInKCCwWDk-KK5_HXTJ4lvcO_0QFc5EWGS-gCJ5739rRuYXxzUEYtm0x47LJYTbgRG8bmsaA3ct2iSrpAtDxOgPsHPHvH85Re0ISjAY2YobLmTc5RBduANkbACg
     widthPx: 1877
     heightPx: 1920
     authorAttributions:
@@ -78,20 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNYuKN2O4rV_cszrNcAvLWFHLAwOG6WEhHbqZFE!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
   - name: >-
-      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcIjJSxV3bPDvMqeQj7dY-RSuSGhmPPliWnDgo4aTq8c1Q9o3t799YMgVvOhNBD5qSrSy6bA7mmieFw4prC56mpKDIeP0TLQ9FrDWOcn1USNarB1vhlWjFRTIne-gNyrrmm2-Yd9OBbHjt789Sh-71bB3zYmpYZ04_FnE_WSooteg1gAxVGTXwMcs1aynwWcWuJzMw-eez6EYl7hZGX-Qu8d9V7-Y2GG0NCsv-B-iRDY-4N-a4c3m1m_01zjso7pEjZRNC8r891-BURyu1O6Pat-MR0DZvHg9Z_03wX8MOfvRmdGmf9MdFw0vXh3qTYaHGFCqZEAr-svZX__FoXGlhnp0DBD5_3ddUOxHR7LHCTqrcwHMtEu4hKYI70p4qRILklOTk2Fd7GWRvRi3zKRjcpdyEvYr1c-wMIFLFS1j1O41A
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcJREURoJUdY2sRm6W_dQZnnXl9IRVYUT4f8NeK1R3ngoGJVWyaneOe6HWKLLzZevH79JCWdP-3-R27w9e9uklWtltOkee2cOeCBGOXyps5I3NUokHZ3AUveAtr6DQRoBu_E4oMhJme9AGrTC_JajC57TARDB2HRutkKNrVxwTDyLBpQQa84szTlXCNPEki4aJQ9zIYT-no7H5dPauQA_lsgTx5Y90Yux_rcRtrWWwY5XL3Pye-lVyOZKHLqsjNm05WYLw0kdhS9mVS6htaB7XLPfTJ1lXMcp-kCH2bKR0mKIy3goG5Xt3HqZykiSMasL3_MarCDHyviTYJGpEd_7_iAjx-2OEhuxILZt5K4eG71040mhN3Qsd9H6l_R7Rd_eX_jSEMRQ_vJ47JoR4rY4zwt-SQJe4SPlyBsfS_nIx4
+    widthPx: 3072
+    heightPx: 4080
     authorAttributions:
-      - displayName: Keith Mulvin
-        uri: https://maps.google.com/maps/contrib/117979923502670835126
+      - displayName: Ben
+        uri: https://maps.google.com/maps/contrib/102512918046717943882
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW8leY1sE2E_rQ53jYAVNJ1gSdgdw0HeZzw0FmtmcJ_bV_TSlUE=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXAhnu2bSGBRTDJjQH4FezJhOZ1wlNnVKxS88agc6CUs1s0A2dX=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICKpIGfVQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDO5uyVTw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKpIGfVQ!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO5uyVTw!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
   - name: >-
-      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcJLKeibe5Ya150c9G4kanjdDz5Y4VyYAbrvvXbA37d-KCt-_we7Gju0jBidyUv3G2UhiOBC49aqwwCwrsvU8dCoClZ0e3Uax89OnLxy3aBrDDH8qwu4j7eitXO8HHhagBJhG-j3I6slZXqDc-lYZQMU0mWyL1PUriug7YCjDh69mXnBr9XWZdBieUh0P3TNDXmdfIp7my7xOjH9LUpPxo_Tz_P8TvK-3QlABd9GRr0_LH1h4-pjzdYayoAeQHnHQcz3SO3VAp1VXTqX1y_mlk39H0DCvhbkrM5gd7KQ0P4uOao6mevuxeqmxsZ1ER3NDWOG3rnfahKNK-jRfayjWviPuU6-IiMPtyaEKIwJz1ZXWpylkzOm9PEsOnAYQHDE54_Znv5xIIo7ixB8ppIQ9oD_bxGcCTirfRmYoW0ypd5uTmY
+      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcIeW0aH6LemrxA3ETfH83qQc8jYbwmuCL6mpfQtlhvedDCZkaaKbFpSFBvLLlgh9mlqDF_WtLg981OI_ulL6XPeXRZH9aKKeKe7B5bZjPikoIOvcEzGv3e_bAeqNno_RwdV1hw_2oPhZJ5HpHap696GRxyOIaLMmPjZy7C5L8KIYVEtXJC_5FZ8LrPFUzyZviqnrMxgqdrYv7pi6a3qParwm3zSZFOdPaCuqfkLmdbm52l1vhk6hDNe2cP8DnZP-rOQPi2etomnEWVZVlHWqzP8NHK_zsNH40MA-16a8leV302sYigFq8hCFwOC480SPjahU7MwbWp7KXjCGvAJ_37hTH-lfhH3OpUNzAKkHqUz7t00R8a5QpGYYkyqtkcdpDSNsgvYm384KV7vqpuLn-G4ogEZyD0Pv7Xey39IfiUOwwA
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgweqs1wE!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
   - name: >-
-      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcKQmFT3ViZ4NfO-ieGycavwPo5wZG3aI5JySvAtBibc4tw7fGP0R_Ay92GCv0-o3Bdzr6pT57W_lTkAsDxAiYyV7px5Ux-1jL0SoSL54W0_QkKAefZheoFqE5FnoxlmFeiKq5qnoClX5iI4Ken-bdpo6C9IWTH-XqB7grDrccfoVRjP5ty9dWqZt60Yqdaxow8iA_YGrhNBnC1vI_5pb-BxviaSNzWpMxY3GxgLBAtFPnsPTpGrREfFfOK_lMqxdeAdxAVTOuPpvR1OCWWUqVye02eYVTmksgomj5yBqRQj7w
+      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcJnB-aqbPy2ohDbGevGMYJXexgDcVz9lHN46BGP7EU64GLJC06GV_l64_5vdxtU-a86n_VA2VyLYoLVXXgSH2zlLriaY-zrXyFyhFS2jlh-DxkdN-_b1WSYHwJGK_5T7B9T21CIwPpz5CosnwXE14CIhyATqS3wJl93PZTh4CxYsJUgt1HaOINIQOgp6manZQilgNuPMhta3m2jdCfeH5z4yXfenx2nck4zCy181eADHnWyypo6hDp_TkAUO5_EnMTZ9nJ9Jqt7SqucutPl96CuZ6J6xlDKJ8KBv4XpEO6T8w
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -117,20 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNFaO90iC6fsA2g4bUAcB2NoCVMa8dK66RApawt!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
   - name: >-
-      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcIZFYON3MH96lM8oS3DpspyclRWMX8DMlcKKKSV8iKJOjEhGl0-o3xpzoFqhhLUD5lu5-tIGJCqQ5N2n1UlUDJf0AmMYdS6HFhssqjQvZ7QpGX2dQ0UXY0tcjPoLhpKp90lAKAsmvVQbShxMWyu9FukJtIoeTyXvIrFQ21zjknmR_ROnDFBaKwQUwjn1MXN2I69Zlx0dNNNWP9BAJmSWnFt_0nyiqbzZrEcW7HD8MpLDeeS6PUjCZ7itEEHrDsBs6DQF6baK3StDXEfy5aTaCS4so1vyhexqvv_MUeaavrV4w
-    widthPx: 515
-    heightPx: 412
+      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcIhr8xxT1NAs7FYufTPKhPR1zxagqm1h6bLREcxcL_CdpyEZRH1BRAWXk7ye6FtnSzHTjnAAF2U2lQiYnQqSK3NW8fW7asxJ_lqeS8irFno2VYSKTeoqKSwqIboEBaOfSBl4eKD07CClxSSFGy_0OZ-I2Y3KauW0t9LYxZcNuD67O615DENswB9by4ogQELOwkhAS9dV8yBGhyuRDk5joutV10O6h6Ip9xEElsJDaV3bRiTCavLPr9hTPW3LzdezdYMQ1iFLdaFm_fN-zqXTs2ZtuM_EzVhYaklOh96f-jK7g
+    widthPx: 2360
+    heightPx: 1300
     authorAttributions:
       - displayName: Shinsen
         uri: https://maps.google.com/maps/contrib/108837462769121624876
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVzR2tocXAXoAYOPHb4St3CJEo47h4VWdznhiAlkPdpSX9OjS0=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPuDKxoKRz8QSSVuHaH1IFBR-qG_FpbqkmhZamJ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM7FogKsGL2K0WBk8r6KmXQj5Y8504dgaqxJb5t&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPuDKxoKRz8QSSVuHaH1IFBR-qG_FpbqkmhZamJ!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM7FogKsGL2K0WBk8r6KmXQj5Y8504dgaqxJb5t!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
   - name: >-
-      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcIgw1UzoID41jFKvXsLRYZQ2gOaWs8H0hj_rKVaH8Q8IKjIkGVGvSG9ijrgwj2kBd49NkBv7v7jLk5OuLsZD1o0MQesktlxyjrTMMxITQvSPTm_A0PYgmwHZC-euhqGbVYseq64U1B__eplaDhbVeiNCYU_ptmxNpJ8v0clqXnU91GX1zHsE1m3zwhJbAs6PwFlbgalRv4nSWh66_UouV-HX4YwrKjsYsxFj6_EFhuCOsBZTcVtzKW-L8DzO8PHN3_w0-UcbLKxTKd5Aa2mOHyg0x1hp7CTv-wIgPwkDliZ6g
+      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcIXC0C0Ljj5RdRdcHAux068okQvWtRA9ehXyFAz0FiylQf8-E9aSFgJlBcca4nKylyxo8cLvfjjlXe_8x0vXgIqwYHVJPnTBxZkqi6Gr513ha2b_MMyDsEVMqX-yK3l92hAZDEtthfjnO8GSdDQ0gywQKdHrNR9Dy_Tr6k0xkvWldDy7dva0nzzxyqiIhUCcRxVsNxrwPJLFYNrihOsTAf7TXb_uSPiAlB9Y7YFws1rivtPxN-K4gxrx8pV1EEAYLIh0KIn7gU7DgxoXjwyY08vYxd3T0KH4j98sS46q4E8dw
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -139,9 +126,22 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjVzR2tocXAXoAYOPHb4St3CJEo47h4VWdznhiAlkPdpSX9OjS0=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPKp8rzbqoK8SuRmVEoL39N4k7T91Pi8gJ_gdwy&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPs8xZ556Ws3QSPIGW8rQITW3r2cfUEyTaV4ik-&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPKp8rzbqoK8SuRmVEoL39N4k7T91Pi8gJ_gdwy!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPs8xZ556Ws3QSPIGW8rQITW3r2cfUEyTaV4ik-!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
+  - name: >-
+      places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/photos/AeeoHcJIMYgWNy598sVN6GY-onsphhGDtGF7m3OzhB6mzOYsEWhXPEuBYkyg4oeFPpgOTgJp3IyDnhaK3MdehCoTeAwQQxUhw8NLpshusNFlX2QNUnRJR8F7QmeTwHqxSjOmgTc5w-jpEGN-mkurMllOBSlkVfBU40nkXkQYg3ZbKI6sA_H_da1OcKsUOQR0nNsvlShS_6a67sRoKEd5_gw_Ii2Y-CKJCV95jRmjVI40IuFRCsfaIIBZxU7-gDxLsDKbDwBi2xaIO2LH3PDhp18NydKgAK4bnVgzeAxZJFg-0ZaEWg
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Shinsen
+        uri: https://maps.google.com/maps/contrib/108837462769121624876
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVzR2tocXAXoAYOPHb4St3CJEo47h4VWdznhiAlkPdpSX9OjS0=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNAe6D2yeb9gBbefjeAxRJmFSaGtiNO7GT0M6_-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNAe6D2yeb9gBbefjeAxRJmFSaGtiNO7GT0M6_-!2e10!4m2!3m1!1s0x89c25a27b00effff:0xccd05a622319032e
 address: 44 Bowery, New York, NY 10013, USA
 street: 44 Bowery
 city: New York
@@ -183,7 +183,7 @@ phone: (347) 688-5404
 price_level: null
 price_range: null
 rating: '4.2'
-rating_count: 316
+rating_count: 0
 website: http://boweryshinsen.com/
 reviews:
   - name: >-
@@ -424,6 +424,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: Minimalist design Japanese restaurant, sushi bar & sake lounge in Chinatown.
 
 ---

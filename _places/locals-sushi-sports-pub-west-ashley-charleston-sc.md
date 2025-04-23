@@ -13,7 +13,7 @@ description: "Locals Sushi & Sports Pub - West Ashley serves delicious sushi in 
 place_id: ChIJ6R2WXq97_ogRzqxo5MBMfEQ
 photos:
   - name: >-
-      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcIdnIlrOj0QPTadOsFItgy2k0hcmqB0NnbfY1c8fkBtRdDypfQ3CH1XWdn8q_so_U0tX1Z8UxYvFknxMPjdOXkivBbGta3mWv5Rz86D6cwCJdsczSKlbnuYaHBH6oBZi1G_wJlZGS63N51DOc5lMhFFlKsH4McfGDV1RK1GoxDQv5WQ7PhXDUQAH97FHxYzqwiYh794IBravc2QKXjAV9KolyOy_E0lxNPtLWT8v_gwjef4YzHoqZFR9r5UPJJE-1e9Fsr5hit4YHVG2Fr930Bgu3WhxlpoRopYKr9zg8Lwkja1q59nRaPtI9zytteBLFbcWWsfQcCFmvlUrGaWqY2wXqbilcrBHqkRsvrpN_8935jki75lB8F78MRKv3v8Xn-G7bAIV28JNhY6P2RsNPjC3udPs3MSJgUDEpxrcLF2cs4
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJZQ5EdkAA21PmTv_vF1czkJ75CkBgRfAEAZPmye3vbSn4EXmq6JXXR1aMVHRkXaCCB7LWBjhs9AqRwV4Mq24VhBgTuK6sotxv7hCS9AJrZuqAvkXmaU3am5W9234tM23g_71Z7ANnQEPviDRBFgXh0Io8ajZaQ__j5Xekj3C3Oj2ddTxHKbv2QzER_tdwh9RM1KbBD0wT7Amqfs2GMLVUkvgbgw7ZTzY7ktN1rFq87ijgf44ces4G7ey865BqofGb0tswh4TBt0w_qef29xJyiT03At5DTuZa85PEtCYPrEG-7XRaTkx5XmSZ3sibF88Vyg3C2acpzyOw7gGrhQ4YC8JuPJ1dI604I1SCgmLoonxacYWZbiBtGPkPWB_HAxnCdGMgzzrBI9fLrTBYn-7pdNIW6ZQe28dya5jXAeuRtpMs
     widthPx: 2000
     heightPx: 1333
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC0gbva_gE!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
   - name: >-
-      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcISXYC-UP9s8IqusrVO8DJ2ZqGh3xDqm41IwItMCXao_G6pSBZF-TxtYK8kCYIAlDZ9e-sH5_QXadVwvb2LTChPUu2GvqGrFfCuwj3y99xP1mTHAgS6ZnyQp5zmGHjgt3GK5NO4LkJEgLOnCuYZtoQLq7RNrGukloDozvtqGMphFc8XToSXuNFwiiqNfU3_CBeWuHhNdkrrWdE-quE_P1D7pD3SrH20hmqKdWsgJH0G2esCFhxRSDx703IurIltDOvozgX47hnvleR7gGXQWhtC9jEVY2V6g8TnYS9cdvPHhA
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcKqveNroxAvvzETZlF6Z8nepYBJVZMORlJrKZ1xU4N20bJB3-rCkWgguogoDL1lCzrTpr2nBP0gr_H0wBUMFrR827eWG_tD062ygO0rx66eNV1YaTexm9hWtjQemGNwYnYhkivkEiz_5Vb96C7IzlNrGEEyR5AliDNOcaWGwQnNqi6Jkv-DAgUIWPQe0eCJqVg_qFFwOx3_OLu6NvKwmIsJVPQpCrDQcAVvWNIrSI850M4-Nny-OoqTD52TUJpEutDcXORsLPJpI1xYX16nvwsaz7OP-ymC3XOZZGTs4uHjHA
     widthPx: 828
     heightPx: 465
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNkHInSQN1DhjWgf30pwdvZgc9VxkmgPmdUVdeL!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
   - name: >-
-      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJGTf3tetlVYMbeSjPc1O4cMPLcFQAOiz7r-Jbpz_k0Ntrc1rEn6cin1Sh1bMTemuA_ueDCI3Q0Yflkx4D8IqwF5I3wpkowfUbnWzwnPVLqZOkMoXXN2-3-6OJhgD7KV2vCoRnlygB6jxIucF4hf7f38U3Is448ggP76R2VrQ0FMey6W_l-O91_sfpKZnHqAiu2amGrkjL3R9Ih-Y1g3CKNiwm6vZ6HlKXcvpSk2LZ9-jBX6Mdh0iimf1e1t0S_raW7tuSdWU99zZcTnLqTQAW9GqioJgplAZxnyx1mvNd_pBW9Uu5K0LDEndqvY8ZTkioPAUtHgBbdc6q3Q2vgAxmhBKwMpr4CFdA4dRiSZ4fqSJH1GaLCNHHFAwJmw3dYsep7STpUgN8rjZsuziAChKi_bWEwEZ9W5d-P9jY4nKEuBw
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcIExH2utz_l_e11K9Wo9WCwB11MSUrpMkKhvarc85mI-adNF0nqc1dHDfliCP75pVNETs42ldzuMJzcd77YnBBx9YCezJzzi2u8r1owgkR77IUMJNKDS1J6tGRIwuGgm1c3vjkXZ00MkZNRDvI8q8gnWsB6r3KSaDxzT7kdxNxIZYLQs4qAOvnwMWzN2m7N29kkKY_qoeFXWGgK5fuYx-dwtySFZTpFsLv86cxt9iRH0cL8aA9Lsav61hhZbBNLv1roL4Cvw7AeSGl8h1imbeKLHANxIcf35j3qy7S0Yhso-r1ONaU5WUgozvXlOIX-AIYhQroSFRo-ft0HGCQzIxEkowVtVSwSBfMyYFabTXck4DCor7LCRJz1f6JnvDW4jKCeKMjhGmz1mPviPM1jS5rBd7nACFK4sN_XCK-chERdxQ
     widthPx: 3024
     heightPx: 3024
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHtPPdfg!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
   - name: >-
-      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcIgLWJLtnUss8tgTcHDESLL-VONVY4rR67QiRcxSvscMtw_hmk7TCtjs9boG79TNj4booupkeyhwpBK1U2hpXAUZkt34ppqXv98uOgNT9xA3YfjVQZF5NMc5zUYhyrEH5laiur6c1nfyMHTEb9P6Q6lmteTnxtQbz_rwnvGpEYtPQ3Vmzab50D1Qm0LSgBw197WskVA7gXNlmHkiKqOA0ak_2hYB8g8uNXWxpKOGMTiVDdQ8jcTSCgIdh3earRGIn1d6hwGx06h4JfB8vix2aIfN4-FYi50W5WhduvDFyY11Q
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJaW2qKHIxij28AQ8ZgBR4PrjEPmmqZz9CsIT4P9r-rEo1mtK_pHQJPTQBZAwPRVfSh2OH6Bzpci7GGXNDw0piFBUr9zyzEHQoXKcb76-gbiD25KMkshDnwBxsYr5A_ZKmovwEtXHFHafRD9BD0GegOBlGaZB0-LcgLtDDF75ro6VQm77J3A_HAFp7atwpQFw6i7M3QHdqL7Ax0nd9023yX5rUMlA5ETXPq0n6VM0Ru3Y1bn0RCawTffd0oZtD_T_BYMn-wYc3bcO4YXTnkbeVDDjPPdMdBrdHT5KLd6oyzUA
     widthPx: 512
     heightPx: 341
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOIM1U-Hr9n-V75nY3HhfAuTniUvJB8zwIXmQYF!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
   - name: >-
-      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcIxk_M1HvRASGlkeuVsbj6b5s8YIOXTvYRlYE8nLOprlbJNYrdigNg4jdxLmSEUTcrI_QSIRLf1UhaSjkHa6xjmUVCNFT7YqJbHYX8DPGp1-LM5xj8TJiLCHhlhWUyAPHEZMkhT_oYV2MvAvFGqYkQNe6fbmRwRg00SLksBPpWPJaaMsD7QANhEf8RP4MKi-3KO7Ff9tfP-ECD1PwcTOLBZUEOE8ytvu8i7FFB2Aro59N-f_bB1-kpDTta68ThPAL8g2a-Nn41cFGtVJNV-AOTfPydvaA79ekJiyLSi-25R2A
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJIRlPoPUGcUOh4ozBI9IoftRj0DZ_9jI9qNObZmehNgtBEZEOFYNKWZLOZ0jXAKL2Kx-FvkQxJGnAGXmR0Kitv_heMwRH4GU-1fUL2NJnCIoqc-xclh0R11FMuw2RdiFb7NO8VXFe75JJFTkOJJwkalbC5z5RM7wBUE6ZcbOLib_D1QDPtZSLc7kpIpOLp-Srt7fO6IYcDqER_RyFBvTniQp-p2BsnsRf2ICen4WRoOm5BmBVT4aKd_MURvFuiqJEzl0NHDeJUa52P28WasjPV1AmwVeTEiGbMESR2wjJvMA
     widthPx: 348
     heightPx: 512
     authorAttributions:
@@ -78,20 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPE-gHl2P_PG90PiCdaayw-4z24eX1JvHJKxMAK!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
   - name: >-
-      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcI1j_CwKFi2CqdyxRxMb-ru6clKp765YKwOxnKWoD6GqalLvxRSunlEjj2oTSlGdxNdKpBu9DgkZoMrWQrpuFLo9vCnNBtb0XiY9guRQWUj2XQNSlyA2BZK_xeQ5ybMrwDkJUffDqSZ7g4XFKWXiTAtutOUMZDzWn0obl7Ex3_5BDFLdWVe0v8vZAy6pRWk7S3dS2QxbpWIxvBIvw_cbUOgXUWfNxaOLOfpCc0V7zBlX82G-gcCtkZRZt-Mm3abLF1JartV0j6tB3H2v2bZY669-iGq3GWmjuLXjoLx63G_fQ
-    widthPx: 384
-    heightPx: 512
-    authorAttributions:
-      - displayName: Locals Sushi & Sports Pub - West Ashley
-        uri: https://maps.google.com/maps/contrib/113407213544690226437
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUOLRi2UFMu7SXm_NtstiCy2e3dk9PSw4amtZRLsDMwa5jLeZ-P=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPCNicnVvyEEEvt6I3wZ6Wd3e0KZm_IBNkLR2Wu&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPCNicnVvyEEEvt6I3wZ6Wd3e0KZm_IBNkLR2Wu!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
-  - name: >-
-      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcL0JQZNxhbktqaSGCUpo8rfVg2IQ_3DFsie7-bvMfkpI6_qUtSNSuqzUwP5W822hfGQBUQG87R0vAihOxON2gP_r4_XP-e0GJNgAwqgtGPFHoavvQg1iYQL142-qKGk421ZK953Wj1OrM9Q4FxtQr-iEb7tEZjlO7-yLK8wg4seNdPx0K_B1MrKUUyhUrtOzobeig7UTceYYc2qi5CvGxmp754EMLWQFChAzULjUPL8lVfvzokE4x_reg5Zb2SMMxLHw_fw69YBugM_F319_PfWfwCZjswiBYrtdtNdhtr7wg
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJo0Wux-xENbDjAKEGIkz4x-sWyh38U7Iu1g208lJfuKR1PKgpPXLwh70ccm4HbTJn-yp-WTlLYsVyAy5n9us0Yxjhjw1-njSYp-xgSgFI0vmBJbBXg18w6UWeypg2CSSvrHDHKaCe1GAq1GcbSUPRZrl6F4MZ-Eo9x9nm3YjPiQd86vkBwgWVV1D2U2BXsJw9czFIN_h8t2zKxCJESNGnMA4WPeJpRJctACCBS_Wa_cmmF54cXrSwI3fZv4sypXIb7Y4P79lCnvNYpX3yF8RPTHb-CtZosqYSGHkXxRt-ukw
     widthPx: 512
     heightPx: 341
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNzMTN5v2DniQ0-GAWyD18PbTwwcirJnTuViQNj!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
   - name: >-
-      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcI7SVNZxb6Gp3V95CM3QseANHRLBccF0ptBpW2kiwYVQTqwQBj-mmLrERuy2RmGzthN157OIoBakHMFv06VrKq6zabzGTt9M4keN0YikCT1NGtPLX-OX5FOWZAdhEmgB5HINfgqLKtHz5QX5GYw8FT1RiXPvMxhN6WOkQgRvdUh9y1StK4bbiTVyAaY_T6IkP2tpy0L4daxaTLGv34ryolAhtgPZVtIT9qMegAR1T0P_A2mJczCEirwMyj32xU5tZG8JAFtPbyEOXkcHaJO3zLG7VbNl-tso5w9otLwZIByfwQczABlgLst5XYeQTvBjqcLL6n7hDioh2Pmns5sV0KPLk-0fW3bm_tmWExIg409ixEigPyU2QNHpRIeZSWasCrhlIixYzQd2Ipipx5NhQaHXSrS76lnJOivZak-Qaw85A
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcLhgPeu-_TYyB-nj8mzIFsWL8oRQtzCgfKxMtmpPZXBtw03mSJjt9vtwBrvA2LthUnO-TVwsaYaBaNh7yWwMKw3V2xfps13oqGLpbsYkNTyg_OwM37Y0hF4aaQTEnPTvSzulTbLt43GPZlz3zMwQhCdY2eT9qga_ynlmwTLERgnKOuivY2w4-lHvUsAE9dVJkZwt5cuYLd5DLueaRBOOJ9IwCJaljvnEwKhKi9ReRamf5KrLKIYUHX8PqYLb_cA3YsldpNC_1XgCujr4npn53WsVhtSsq17nqN1Rbv0_IOol1Sbrup1okMSMnTyCXy9GmHI8OCprb_R6fu8YEo_OpLBz2inY3Vh02LYOnb-evfM_kSYz5XOp074-g_MU6K22NzB9XV1Zr3LUanIkavxfT_ZIwZ2eVVSeW6Ihansn1JXPQ
     widthPx: 4800
     heightPx: 3599
     authorAttributions:
@@ -117,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGj7OoOQ!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
   - name: >-
-      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcKRqyjHH8k2qIX_ji87P8XcfuzK__x2XxtAEfbw7ZHZRXwsD5P7lEiv1MA1yKsfA5NmyZJdRS44L6lxCmjUX98vE4EQYvBfiqcyY9b__dy1YBlDMfxuPf88_srLjHfiW1mCr4_emFHF0LfjneaLfA-59xzcTljanZpO8ZRBHFS_eKlZEalh5msNGSAlmU8-PXyY4BTKxIFciEMcjVl512fv0cq626cT4wvE_Bn8CVIFEkhL2TUzo2jIgdJiSOFLmkxKM1OzKaFhuF8N3ribxu202fveKfwK-QTrE8uHFWwWqyOVUdB7dORTfItl4RuaMSM6WIQV_mdoYNnLyD0H0HMS0ofb9m9KFwVmidLsxqn_nPcnypAANX4SOtc3GfaWG-0g9CO0pG9wAytMFl8D4Pg2gpretPd6rEcsaKFG4gqeEg
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcJ8_XjSJuL6ttazfam0I17naIE5ltnRlJ0aRuzSg0k5NjA3aMnSE1UIwUpVw8lov4NbA0eNDY-zUOj0RKyAzaF_vJYON8jWhJUhIw6AYWXGtTiIBSfiu6x55oQaiKRH6yaes4FvzLFKfQgjC5v_hQpxUEpY20qyQzMe68wK4Dp6Z5CG5ORGoIRDKRNb0ZOhbntrQPbBi6b8f_9veYYXAxuNNivImGWRe9xXA0I6Hw9yCkYMRGjoR6sVh6Wj4X0eHCdUw4Ctu_iE2paiMhhO5EnPeb2vtYOwTlazkdjGEFTu6iu0sRfV1TaQUqZ2Y_m7sDNuKqvYI1-oMvHMA4rJeR4aiIyBIY3IYb6Khmahy_7SabiIxLpH5_slLdFDuBNv07g0-oQBPcVh3ao2ULelgZBDNXwvXWy4ms9hTcmx7r92cA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -130,18 +117,31 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxsqfSPA!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
   - name: >-
-      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcKQv8-Mcga3-DfLLganwuR2evvWw2aylLNQu9FOUelP5sCjCrmyiz8l7NG6Fu42fPx0jRtNCo5oxettn5mydPHO39dlgtga_u7FIgmUsoG9Qb549OLGiBdDFI0ofZlmsxdI9IHfdEsTqHfV5rGiAqpyp4QwHyzGs5haZvNmxuQWXscGpqYjOkUTZZ8FDCLcoqtsA1j_zrhDXtCGWwP-pMY6nihAQe-C2jCrcmedMgsuOMs8GDA1OiPa7DftqR2lo3vHyT7y7_5RUFweHubg78Tslr4X93s1xHfOEl3fWGuG53ITvJ744vUWa2OXk0BJi8faTowkBVHCExOo4alHvFwkQuO2N4mwKVjz8odMgcoHlNt0KEqlKqxtfp3HRpFCtO9UZ-Rh6BXgFgebC660n5SssUerN5MNAFd2-ZAN-WSWNw
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcIwhCHWpK-lig19wpxENEKaC4e0gXi1ySajWuBqwl2wkTEavBCmumJp7gq6Yj0CYtrGzvBpm1ZPKtOM-jVJLgF5vz25Tp_ciTIrJhmPPuPxDbA5jt0Wc_LfWWeYk08zKvXapGIxQZu6GgQJxRN2PwBtWY2i84oYw7oMrvMQ2dzL3EJFrDiwvL1dz5otMeEFR03siEIIzilXAgYbhygDGw8bdGlrQxdxtAj7vn0AJSV03XRJUFUDlUNZslf3dRSE0_qLKeMjJyV6rXamJcvagFaA4s6XUpeWPc-hPicRXjPkF9Zlw4Kqlc3UTfWbnf11A1rd66PVpFsP24r-GQXF9aBZHBFbnB7TwKG75rxQsdBp__rFlAZQ71UPzHVtEp2_FlTSYqctckUpgLsEphXl9Qwr52r2E_EC0oalTF9JgJdo8w
+    widthPx: 2688
+    heightPx: 1512
+    authorAttributions:
+      - displayName: Quincy “Mr. Quick” Poaches
+        uri: https://maps.google.com/maps/contrib/117254418308293583960
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXfAOkjEc1ASaotzBddCn99LLjTsXZ_F5KwwoWiy99zJXcbW9NUPg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICyhoKXXg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyhoKXXg!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+  - name: >-
+      places/ChIJ6R2WXq97_ogRzqxo5MBMfEQ/photos/AeeoHcLci7i8C1QP8g8QEjq3dsP0nxVULvlRDb-96jDVikWVDCHVVJc8Y7X2P5npCgQSZRtH9OYA6Kibi6eo1pah2W0k1XpSmBNjEly95aIegR2h9X2HMPd07yMf1y725xpNy1nivRLfBKFNCKmGh0rry5W7hob9whs1qbTcnMJA0gJxhCAh1d6O8Iu8m-0Htq8ELo7tQAq6cNAHpC5rak5-VP2HcQct45rdIdL0fLgVWyxLU_9qyQasG4QW5rzwxcEEfl1zskqoG7fuSWD6Ho4Iw98CgYME0glwz66F3aTqd0-l371F8gLZ0Jf4BrSVG1Y4KI_Dk_AaEAhtqi_2n_m59MtBNWO9YerGWKI9dIrY8XNYwVLJ5zLgvraV74rRZGAHUN4uPbNPajXY7Qzpfd98n767v3CF-RR1L4Lyy34ubluYpZ1N
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Robert Moore
-        uri: https://maps.google.com/maps/contrib/102803122776252012279
+      - displayName: E S
+        uri: https://maps.google.com/maps/contrib/105102906770329798372
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV89VmNbQQI-kQNS00mzye7wGqLKh7b9qbmQkotxZGsmUdY-FG98A=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWFs7UCe-98Ome8WAp0WI6cRyvcD0ceQZbJXWMfi9ma2NduXunH=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDKhOKuKg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDi0IiiiAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKhOKuKg!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDi0IiiiAE!2e10!4m2!3m1!1s0x88fe7baf5e961de9:0x447c4cc0e468acce
 address: 1680 Old Towne Rd, Charleston, SC 29407, USA
 street: 1680 Old Towne Rd
 city: Charleston
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88fe7baf5e961de9:0x447c4cc0e468acce!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (843) 763-3908
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 853
+rating_count: 0
 website: http://www.localssushi.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

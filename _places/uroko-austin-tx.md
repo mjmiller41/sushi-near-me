@@ -13,7 +13,7 @@ description: "Uroko serves delicious sushi in Austin, Texas. Try fresh Japanese 
 place_id: ChIJe5D78l-3RIYRPmrA68S_Mbg
 photos:
   - name: >-
-      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcI7fE3oc9V865SvoN6_NBhoW3cMzJPhwvqMlKYuJ5T_eYluoLhbFjK4iKMOhL5uIPGfd_Tgan57DIKI8gRXip3AYuvRQ_B_MiZJWDRD_KzPFhhN-k-e_H_mOBUwb5QUGldJp5gium8Gim1eW_moYf0nd4xU4zAHJd0r1uB-yKqoc4jQBvh2MZ_-_4VUyMCEN7yttP4JfiFMXNcAMM6bGmhh-G3XL5nwsJMHRkGvFiBy4n_OYm1o0YTUpGkFW2p_AhYNY2w3pPV_nCWl2NH8LSkgboCK1sk2j6ESwrm17KMfMg
+      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcKTZCZtfnTtCx3N2ituSJAvlw_g345mDnuSrDLaJKxwyf-vbapYXamUsVmz2q-U3t_fq_lO19USFSX66iE1lMX3wmg4_FQxAnCtVRozoleKELais6RuBgErUro0MCZWFnkU7TkFZrAk6a2Pep-lP25bSBiQfDSXTjl3CsxBZ_rZraska69Oo9MosLu3Um4i2EIjfh16BdzHHp3sywAzVql7P6jyVyeFDk5mDi_1gyoiXt6cGllSTUjr0Mi-vgRbnOEy0LSJF-qyY9uX0c7EUR12gCNqgFDpqhJxoYFm_a9OVA
     widthPx: 3024
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOmfo7EvoAF42E8FIZuoYeGHklrgsgCnoVulTNq!2e10!4m2!3m1!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e
   - name: >-
-      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcKhoeYFa-vuKzG4GRq99ineXUqFCHH-h2ur79rAbqqMXidpduP-vCQuN9WU6m0Mu7VOBFOqSG1FK3NdthCBmn3mBHWm06VCmlCF-5fO88DimZyKXLXAT86J67p8RyVt2M8ZYMlduQcognUEpuVThvBY2gC8qakDvf31aurVJdRK1qj3E1iFem5v1HVtmu0DL1tkHreftfd4B2nTM2ljBAPGN1iHnODsIl4qAu7ERybQwvGR60MOIew3BgVLWB0IKlhKvFHilgIxuVOU5mNDvIna7He-SQR8KlXYlHD-jmg3eQ
+      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcIWZzp8mjnoPZNVm2lo6qibwvQme2_dsEH2ESYt8x6iSZqzsAW0ycD8On93F1MR9YMHr659yxGIphIPnH6-tFiO02ZkVeFNZ7NoqF8fIkF3XlWHGrTIoEvjuhhhp6HfmRyDRNdKDM3WGQUMSZ6wooxlldu5xVFphJVeaeCGH_0f2RBRiOWx2lyRCKSMN_JH_Lf-yYok1UPOUFhkoNLZM8Yn8NprLle1wxxmoNoEFMVbIKvALrEA57Ke_gqscT1pSVqTidMCWheCK94XtiQ6z-RxfI7woTNWMj_2tDBlrAyw0Q
     widthPx: 3024
     heightPx: 3024
     authorAttributions:
@@ -39,20 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN0gNZfiGEN1DM48A2wGEIqtJFaq1EEE6NEkr4u!2e10!4m2!3m1!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e
   - name: >-
-      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcLlujHJCwyohUnuNud8DE63Q5PeOqvkoM_zIiMqMIDXzIflsOdpaLq5XCDApv7jcKBDKWw1IW3QR5-6ni7mcZiQxUySRjRgYPOQuR6RBq-NjOl9zICMQoZT3iuuMoTCCemE2pXlty29y4D26Rp0vzuA3saa4YE-QqwR0J2o_treiJYlRVxs9g-RRlF2R7pKXTJmvTQXt9Ovr2sl53U9LhoHQrMZfQ9lG_HfvQXj1CHYVhLusfPv96qOwD7lJazioj7pDO8ufk7osqT-j1V1hEAuFmcwotSF6tuTrbRf_1AHYDkzWO9udwuINhe-ILteh8_5-ubwheuHhvj8IapKzZE5PA4_pK4JS7i4PzTwvXpcUWPhX7b5216wO6u5OmHjRjAp7TqokkB3UYcQ7qBj7hUyUdCKVnzHUPVgKeLgaU6t6QGbozjth5d0Cz6kZvdX
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Andrew Kanouse
-        uri: https://maps.google.com/maps/contrib/105768065498491652934
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVh8PWuPHIbjbCstb5xB93kgSvxeSC2DzHwiPod5nPdcMmjqX_a=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzqSMWQGfcIXwADltn&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzqSMWQGfcIXwADltn!2e10!4m2!3m1!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e
-  - name: >-
-      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcLJitqbTuag-4bpicFQagfySbG_stVW9z3fEN1YhVixTVoDnx8OOyv41XjFRrxkodkmubuLPHB5PHmt8PmEfQc4kqD7rNkpR1KvjD8sI7-x2wZ6CAjp_xPjaOM-6zc-Sbr_hcPmqo5kNCkpXqgYZAm5NT3jcx_xtHQaljUKoNRSYsEe7AK_w7wGKvYVdbplPLyvEvc7oAJldi8aBB8mfY6f6bV3NTMMHEiSgMKPEiZfvw7qA70eoqVBincw2PyUAkYIRfuFBnI_fUBbAqNzqHraUUN0ptrORW5dZF1-aR6UHPLZ1k_rbCNsXF5eK-cwZeq9wk7ozPOutLrcEZ9A98L8w0vVA71e4sHOq7iB6GqHszAlGsFrOVCUtoMSelcHg-dR4oeeUM4P7Ww3cvnSbsnhyYbi5gc9ku-IJQjKJ6N-Dg
+      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcKye-oGpAgX917TfpmLyhHoPUCWg8iNscx0EAPdLid7vksQvWk9vgGWI1_keRzUianSbUUmDNmTjYg_0h4Q04fNQIHGoKZCYTa6U5ENdorM-z0xWQDblKmgjx2KdxtSRb7iQ4yw432LpkCUITrVz0L3LioKgic-w_x41nzzmTHmvHkP7wE4khqlOQvflJentut1VmxORGwYwSvq4Sda6nyq1lujZf493iXSTWPNgfbTmAXht3ZVpyrKMiV8XfngN7JXzo0JkYWLyAxyy3Di8JZdmXEzjbF2_QTphRkeAlA5PKo7xHlgVAgeowunPZH67qW4vVfMUNRrNrDP3arGj23Y-ae3zCQPPfADdu8dzSWlld5qbdrdYF6UwR_boFAzeQ5de4yeuYg8hdslsBDPEfNuuGQ0D2eS6YbwSxPsy6E9Rg
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,7 +52,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj9diGTg!2e10!4m2!3m1!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e
   - name: >-
-      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcKwk63sJ5-RVODmVPhQ4_jzjBxvXPnUcXEiZHMK6vulnbLEzBJ_Dbepas4gjCFZS3zRpv3ZdqhL3kM1zxl7DM-R_ZEKq-5Oy-ei1jiBz2c-vwsBM---MyW6OCRy9nPXeuwQcuXve8Anb1obgdyJHl8-vEZK62_QEHPGIxPIUBR1sLTYZxNGdqatCN0dnuO6aZkcYbLX1JhsbJJoNlxKWDImRnSIkbFZ3_x4o4WSQKmtXIYWRsZL8Hm2MmOfVHvveD3wf_ISdbLYbzuloq-ngGCxZULQNpcwRiQ_g33vqdlA0gA-A71oqCRXFLhbnl4nZb0iVOAB9TH4MNvsn55HxiJkUSinM_yYqqYgizwHhUiIHHYJGBduYr-sV-jSfMpl8MIqis4XuNM03ijB79NUsoSSEdgsssT1Abr2IW659fXt77s22EWC039H9vr-aY30
+      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcI6v553jDcNvqBa71ckj9WnLUCOcKy78BwYygW7N4Y-Ys7Lh-QT362LmH5_gmuzvi7GfO3kbagKZzWgyhBU8cyVZ7gQb9nc-Y_I2psme1Rhc2EuvhzaVSvlD7GVPJ6gRr8iMFjCaqepWH3Zdqbc48pKeecGHBty588-xoVAD7Z8TRUwWZd6BOX3hGBOqHu8Be2qJeDcEZFbir1EEgDTFWQ34QCFPOMO6DU1nSX6AUXBoo9Ns3EBbGDLwMsIrdFtYKiSoO0EPJdsuPRzdhq0ajwTByszfr6Ir9YByOSvLO134IhDIoJjLzunxyH74EPTW62Z-uAcamI91mi2B418x7L7vw2MN8F4d9Ei25xe2NYjNNoefu7JNfLMfHROmKSUDVc8-qih2XJXT22H_7Y0akU5YItvEb-E3JbZThO3yI9fiPsWBwq4CoRmCyBkiY_J
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Andrew Kanouse
+        uri: https://maps.google.com/maps/contrib/105768065498491652934
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVh8PWuPHIbjbCstb5xB93kgSvxeSC2DzHwiPod5nPdcMmjqX_a=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzqSMWQGfcIXwADltn&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzqSMWQGfcIXwADltn!2e10!4m2!3m1!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e
+  - name: >-
+      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcJpshcCvdiV-SeXxVrJSDuwk1UDnFzI4YXyAnB0rtw2o3zENsLjthRH0tmbWs7P7zcpIwhU0f9ztsRulr2vAYx9hyuv5GIP08zz3X5YBc_9MzEeWSYJwT4NdxDVv9xeN5q1DfKmqBzVwYX42-NpBGlVOlxtVuYXMuYIICDLelXURuV-Neu4pA8aZnyTkHNDuKqrM0DAfG99KEkd5KPsXVzUgYZuGTKbAs6nORI-VYaQbNe8gIwieEfZDulZfCkI_vZoKu1G5-BF_fwRQEZe5gdejbemhZ9lFrKGWwL5_BYjK1Ft7cb4ixsOD8asu6oqcDX_eCH6LkJwcnZBUf44o56bB4qe58lBxGIY37jZtFqneKXIJtevMefrNz8qVQSuhem6KoH2mgw55IS18RUW4-dK9YsE2YpACCYAnbFLZktNEwA77Hja2LO1IRZyeqPR
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jqztBVpF2eze0AADSfU!2e10!4m2!3m1!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e
   - name: >-
-      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcLM_9Q4DYBgcgvIomlIKaWJhxfkqDXnlE-e-r4MqPiYnaW_9YdsAP-pdVUll5y-wTAgol236COXXR3DUWaIP1tmgSy5i2kteSn2NbAe5Fsmsy5w8b_oSe0Hwv4oJyF0NW9DNH_VqRfKSYX0-lC4quOuCMPy7JwGmVM9YVnzIOcaYzLT73HKG8_oCJyhf31jHNawy_oiMjHqzYL1LVYwGA_MYMolJX1CXXapJm88gxz8IghINsW_XeOzlhioZeDAARtuDWN55z8RRAFmJqu_sLra7lMtcYzdlLum89XjRpV7ZW9Yg3quXWg1LQI-vd47u6j6ujEqMWtUDe0LUPNOQxZg37UKxGyC-VGSIK6WUytAi0mxt7T3FqJtQ_7uQFGANThl1kqLH7YvnNBw8ipwVu6uFdtnRQVAMDe3Jp76YNacOw
+      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcLTvvc2xKjDTKnEpQrlmXiYHXNY_jRXmJV_yYPtt-e03aBPz_7e9ZlDNozEZOqQlxUTtkDDnazr3SLJtnsqce5UmzKOCmN1CuC9aN3TVZAvHZFjD-E0t212eb0gWcU0yhVZ0taNf7fvkLIBguwOgMjStDKBnC4cFm7uFKR_ddzC6R25lxkrGUSI-w8zCoYc47ompJ6-gzddCmhWMCqZLQ5A_zoRugBbdJNMqfnb_ZyZioXW9ibk9QQOVvAof24qmKk3Wp32swbvfmwbDjdF5DDuXWejWg23Q8VSHTYof3JAagINCuq_aL7r3-8HN20_BeH9ftb0mTGfdgck7ot0S2_mEHACtZ-pWQU4jeuhN0y0XLAko73lp6CC73Uw0g0yUvqE2EGeSKlpYhLh1QRLSTd3kAye-CD3odTtq3yEM8_34A
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj9dieSA!2e10!4m2!3m1!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e
   - name: >-
-      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcL4CIsmBIwdPJ4AF0jCvEbNA2dHE35KQ7vBTS1STMZsJo_fw5Ym3_0ljoJREFWh4xnSmQ00GaJzjW-pJ18RvhQNpYgVvaHIUxrktQJyTrWwkSAn--nS8mI4kmSpTFk209vDcb1rjB4Wzsp72LzWcRSgKA_gXSFXxpcmQFMK7fDEnem73n7bfShj2R2AK-c5kM17sgXyW1Sb4zQWRHeydXs3M0tSbVDkl1dszl_cd8sPzT2nilvGs5xglGI3r8gMd_YDHEf5qP-ThcRty_gRWcqkY4TMvWPjf9hsF7nQ1PtSW6jU2VUSUxZKnTsudVtdJ5EIPUbyoAPVeVsQRXTBLzogZUovEEpr-j3ojj8BN_pBji2m_5GEnlmARA5sg3TEVMtokKNzgmp8mPCWqNGiFrbUJXDCDH7s66olsaiw87M
+      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcKKm6qyBeRkzeVQ7qRt_cDuZcWwcPe4H6tANjCGzvIOhheAXxF-3Zz93vTqErh2Mfj5vYC5xz_y3gBRoY0ZbtBaIFNjnLLDT8zttgSXZXQwodcs8yUtC0fG9VV8kp4J5jyHs7kJKbQgv39j9dYohZjhI7CQMta2f0owGS_XOUNzr6L0yJy0kEWSWjwrErK7FIvTyeXDL_wiNQYqgiWSSm52gxr5uO5mPF9E7u5afiPBy21VAArljTij5v5T5axU9y1mrYrieU1cDH7u0X85E12eORkuAMoTqRlRlxESkzbxfhdiGG4haKtElZTFpbpwYEt45xaVkjFdCFEVgqae5aLOr9jf1DCBqaTmMr4S62RL58cuH_JTpzRG1jO_Vlk848WGMm_0TsbpTnVQDzJqUxMj8DoOo5TSY2E5MJc3JWQ
     widthPx: 1024
     heightPx: 683
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEurT4XA!2e10!4m2!3m1!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e
   - name: >-
-      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcJixeSXTHSIwXuulf0EBUQyP6x8AotCczHLzCVsCp0zIT049bZVUmWaw3W88RtkpihAdyxsDDlKUzQy8wM5p8zPJMDU1rupoaJbOkdvEXXWOTjxavNyFzrxKpYH8Lsag2vczUKvXVHT-zn5SxyosbJslJgiix38o1a7xdWYVu5DBv6Mnosy3JM_3NcSAxGQVtzmGPLFuAHXcshHiBwt8PrOQNnv0K_9yq8hlNp6JY95eok8Gbje1blKBGTjqSiwfwh13aWsfORHbvSeZkmRK8BadiSRtGWRpzVsRtJ9Wc77IOjEmULtRCjNnCibdJ6jwQ_zV5yGmPZMEu8pbC4ALmK71Eo-9R4NeQbWY7JMYkCUM45Nie-JJG836MEJLqpwofcSRYfNjV4gLp4lFgSs4COuGYqe_txjk296ciVoxFw
+      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcL6MBbvIFUlt4oBef9m9cH6mo0m87noSt-ydAQVimbpt7n64dqgYwkorsSysj78CUD4aDio1dlIvlGumVMKxvNUCnxiJT-9bO8gjrGySZ9vsAzD4yJqbIgPCLrQV1UjlP45T60IAgc9mJdUBKKqZVIEZBtLvF6-e8-X4h3lQyhveeovcrRJ7v0gdINpc3kA8yuFFk2qFBjs-x9GgOK5jVzywsJDi4UMSgjVx__cuH3BXoHFjlBB5BVZk9S6EvvR-1rCq1jifsutXZgpPaPJh5q-UKePpC0oKC3tmWl0ifAXtdfzxiM1VD0o85erE6BQSJpgaOge95k6LTQv3TEPcRUZ7EOhuD7nPQeDUXe5DVEeYAJL2Wc4e0n5x6bt8siR151zw1M9UKh23bdvt9jAbT0eOxwNl4Uk2OvHGPpijzs
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -117,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnntiPeQ!2e10!4m2!3m1!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e
   - name: >-
-      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcI6TyvEOXuWSQPMwP5m3yjBmfUuKiK0he01e35nJcbQzUKsvGhFYleO9I0neOiYapbdo4O6uLlfEVTublAViFPsqs8mVrTYTGllQGmghvBWIkrJvN1Z9_qmeEwGHRvLykc7af5QrBtv3-py5FPJog-JABg4nOW6UYY0WaYDs0088Dapqb_1vgbs02FYnMfd2-hDV_ojNZqOx41DVDPqSbo-5RRbmHYc5INOxVjfQgxyYdH8oyAG7Y5Rmn25OqbkL6ACqfjf-QjHa9YYc7OpU6X4tVYb2lieWsLOKU5TtQPRgg
+      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcKgwQNgOKJAqOMEAqOcLPVbuBMaWB7IwOf7oHk8KEMC3195wjmxW-FpeeYRhcN2qalH9YnCkKeQPkc0NFrl78cyrQwAcYHLcVU7_HgfdWhY8_9QpXXcWCH7YJSttV6VySu1uiKPeWH0QUw_SYWUW2gIL8kaEgeQP5ypZOZPQFr1VlNId2F-dfHTibRjvAF1TciWslDXW5SkqLCdEPXrNKXkWxDSy-mKWUxSMP8phBAg_351VjMv8FMu9fM97bgmv4ETE2SBcx_0ccV_m80w5MhPe8SfMYHlM3Auurx1Xa5JSg
     widthPx: 1440
     heightPx: 1440
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMaH_9CxJb5-go8NXDYMq-2KuO5JVLQbu7HDcMv!2e10!4m2!3m1!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e
   - name: >-
-      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcJ1Rqf0iWJA6EvSkQts5o2dlld1uARLIjapKqaUHorq_9Oez-srdxLptx-DuIblompS53ogcRHHOGfXDG0rX46Nu2lRMInuXgswMAObcI1spAJdjIg44udzuu9gGolz15WyrDXUscoQhOYPyce2RrVkisYnVslbjcqHBt2L_Uz0PS4EC2X3iEVOGOuxL4qUzYb0BxEhMA2Y2oz7R5Bx4UtT0DGnFTJbuoqWyNb0Vavq79gRNKCu7UxGlgzvLUGJL0XbrlqPi8y06dkaeDKxC9R50JY1EArxdpxVsOzWkJeiUbgVzbLMK7bgwB5PoAHeudP_ujvhIS6iHLhDIjat2j-psKUkggwcnnAewI7FLGbDlsPgyoEljM_EqPpIxYtGi72BH6Wca737Ly5fM7tGfFCXro6khTwaWEtBY-V86beNv7wy
+      places/ChIJe5D78l-3RIYRPmrA68S_Mbg/photos/AeeoHcK5zfwq5kK_AL8cKVHe31YxUD4BEjN7VQce91z9hWrHn2i6d5aU_PDCBDT9GcbzGq1TSOY5mSZqNvvPbJk54baI_UAWENSL8NszQpSWPLVFGjWqpClcxr4-36lh3SVP2s_Zm3G3r9E5RW-0AEQyF1lnE4aZv7GbPE9ubGqlBBG53QLaFanwJSGuPRlhTM2I4wWPSU8JGpwrqF0R-Qe1vbVb4bNGQWCl1mUwut3PXcdewFaPsvH0CUUrObAPdwPdZ1-T1tYJ4nmdHbTu-hC5VubgO6ryvWLY16gpi9vlRSyrc0zKUOfD9aIQCGt2TZ1bSBzShUp7c1GMj9KVN9So-ZrPF0Xcw1sWeC7GGPnJORddiXHwrhEzQV26loiTJTB8K64heDnas4JWbVACoiROkdoN0wj4YL5av5ahJNBSQH5n33Ex
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644b75ff2fb907b:0xb831bfc4ebc06a3e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 3:00 PM'
+  current:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 3:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (512) 520-4004
 price_level: null
 price_range: null
 rating: '4.8'
-rating_count: 362
+rating_count: 0
 website: https://www.urokoaustin.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

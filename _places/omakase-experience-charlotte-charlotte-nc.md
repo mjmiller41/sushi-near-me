@@ -13,7 +13,7 @@ description: "Omakase Experience Charlotte serves delicious sushi in Charlotte, 
 place_id: ChIJWxvHnjghVIgR2Iog3QuTHFo
 photos:
   - name: >-
-      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcL7z73jGZJwNzcyYpBfoCGb_4d1L3bcfMPXgo2HGUzwmqff4BKjrQBVIX9L_mYb7nxkFlNKQauL5KUePc110QLJDZdIc2Y393tTMrN4gh0a0F6Z44-aCqDyjos56adfg0akYH8V3pbgsfc7E4BR0EBA7R6EEOe6-QHGacUlS9HBOPi-hDfMgxTpfkUOp6HvhyXlqf5G5Q2pPtO2_pkr7YTedCvI1alSiNdLCb6CeQt55kpbMKn6AsYVTLUzXt9lDm0Qnt-gzGL4zsI8-uOs4unBj9ZQ6bJq5gmM04DHDG5TLw
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcKuCmZzqaq4r2WOUxR9V_G3fKYwjHpO8syIAwwJjdk5CBNaxUModJga3Omtad37sy1tZp3sFLx2QZySfD6f77I7cRjcn453B7BK3xozPo2KQalhNj0nonD3b8Msusf4WfiHPLUVR0BPELFAnUtgnwGt1CEjfsOvZpQryBP4QVpMeXXB_30PxCqA-gvGmbSsu0Az8WmH62EIcHoIg5pOZ55Sl6__FiuzTiofSj9C4JbVx5K7kI5JSelNPBjOZtYhbdx_c_pNoVrqNFb7SJys4-_jZ-7MSBIqy9TKR2k3i7tYlA
     widthPx: 1125
     heightPx: 766
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNcU1wfPKVUrFe6DoOLeeqsGDGP9lAjAX8ofrjY!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
   - name: >-
-      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcIOmza-Nx8TQ5-rEBmFpbXfviKnRQ9L6rNKbqIIoXNwcKSOORFVJBAEDFRvAM-fFAO0rW5qfVXdWLtlE7QMUUQ4T6FN-wOoPY-4LXSPJrgMysK5QmMtPEKrGQCY_G_CDzog0bFKq9ldD3V6VoOR2QsYhFdt2iYqRKrTXKEmd53oq6LkbHTpdtcQgOzfHYkBXBJUujYwz3-sPHJ8NSXhB07Us41ntFqbq1hJM4YoUucPemZkmOn60jzSsbYIxlefi5dCnrC80nd7zKPSKjNqSI60o8JEHxWSo3gO-3vDGmonJA
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcKr13Ce-U7Y5HqKqcjkP6X-7kGpJVAa1t7RUIycS49NLxxUA4EGwpMMvEwQdlYCgK9e675dApoCCQ0TMFdrSsOxfq8ivJ_scC-xiHFqs80HhYMaT2Ri76aDdtFC6sQYPVfmHasaNgsgGdo5ZLngogVXZ1DPTvzBGSSSXJfYtYoJkCBiorPw2ke_bYu3IYHSZmxuyoXTbjkejqeyLpq7F1dxa7TQqaUuV1sQF3msW8lCN5ELbHw3AqdOlZZ6DpqY26flsIlyqscmhEPJvtk8oMjQ_Ll5NM37hFQFc0IVPzG5cQ
     widthPx: 1080
     heightPx: 609
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMgECkCLonKlbJN6F0tMimTpcePfDplf6BgCLZ7!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
   - name: >-
-      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcLRoBAZfs7GbtOdN-MJTU7_j83bS2vxnajHdEuja6eGIcROlxfnj1B6csmjKDqRngovkcAvrllrRV4DHawPxFwkFyDDbDg7P4rk8eg5UARvipOvZ7KUT_5DWLsd-hlk5VABcDvR1Bo0HsJJpMwanDTD_uL4bA4U73Y1enddluadYW46_5-tqY53k-MU7ALfN7rDbudsUg1zrmlJ9AYu2lLa6-CkPx7dIH0d6QkiAI17PoW45cjfkJ6HjtID42D80TkxM4gXpreUAC1UWM3nvN_3JXeTqWGq7DRlT4eY_ZLGaw
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcLMjBqAgG3IO1VslYNCJOZMsX_Rw8Lkp3G7sA9gr96xVzfc7XUD9KDDcI904TUu-D0AGb-vPwpbzyfHTL5qSPEYRWmsoM1oczjTirlecR_3xxfyqPucxc_sQle-4-K3YaTThVzBQceLnymPpaRG8qLsdn9aBeQ2ZyzMSztLHLBm9La-3R1Avetod_WK8hjbJhMC45cbfRQqePoSc8woHdKVHZKlM12vwoKIZ8tCW7VXe7bS41sEBk2xj0wN9tULk0SCg8kTHTmgSoZcnwsN98HJ5pC2_OLbHwiZn87K5Sxknw
     widthPx: 3200
     heightPx: 4800
     authorAttributions:
@@ -52,20 +52,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN11YN8sM-Hx7qxo7kIinHAphSHmvJP9Juy9Zyn!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
   - name: >-
-      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcIE7VdDBKGduFXteh8770qa1CH02lcBiujuuduG5u6r2R08SRQi_g3sagXSpNGh3kFaZwL61jCpzDI8-GRfWRTLYcFPeWfgs-I59o_2-oIAPwmjnaP2NEY_61oE911wDhxEARMWw1hyFvcwzpDyq17IJU4wcYwta-wRI9xx7NjjjVbH0pthx1NpPicqZzWVof4zzJYj1ByIkzvisEFSKzgl31OEZevHxXWc9sZRD6aS71TlQo0UtcSf2d5buMeqMxu-EaooKRHtgAMO5uzrjcS8UCytm6ZzwakPDeVHX_CKD3sEzcauEbbdTOFcb9IVzUU0SCMJ4WQjtZLLk4OofIWQKmEZ2twzS7PoYIOnQ4Odks_8G9ubHyQqQWrUHbH5acE2l6xpSIvwbAmEbq4pBuye1_Enm7z4SphJ4yN4jj62_lhW
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcIZfrJBp3BIlVEQbNwPOyRoRB3MEAa-d-FcjyROwRkIw5cUDFHtrKrw7PIfEgBpBsdIBPwWuxcWW0Gj6UoP3pQrsgaXPQGvNoS-5HOIH8OiIatY2IjYWP1sV9WZl9KABLrf4bPowHyYeTSsICZ3uSntaLWXwR3xRlVdQiNbJpILz2B4QTqg158Q3gJ-Itcp7_l1QyEkKlB5OSe6N21xN__BRg99H9PaH8wn1YVXM08vsTDEewpW1T_g_0horXvvM1zZcYoA-3AaSjuZyaBqwuFgregh1Q7kI595qOyhdXDTLQ
+    widthPx: 3200
+    heightPx: 4800
     authorAttributions:
-      - displayName: Shannon vanWitzenburg
-        uri: https://maps.google.com/maps/contrib/116737369223824143023
+      - displayName: Omakase Experience Charlotte
+        uri: https://maps.google.com/maps/contrib/107475970739608254411
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJD8UI7QiwM2VLRIudWrQNkfmC2GlaOdMX_x7FNJpywQ81h_Q=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXa35tkHWahl29CNmQUrRywEAbHX62OIvTcz8pP8aDLcLAOTHU=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBtqav7AE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOmRJSgsKvD5rcBa7HNBidSALV-uTGJnvQSoFtE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBtqav7AE!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOmRJSgsKvD5rcBa7HNBidSALV-uTGJnvQSoFtE!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
   - name: >-
-      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcLXOJqO0DKAeGeuTsCg4ibizvVIEkQtSoyZGW_Nr3XyR1X3m6428-UUhwOWXEV7N-ETVoCAnOrYP3IB3B-kT91VA2CJQe4I_ukVD7bI9MC1uSa7BDg-Too7DGqb5vaoRuFP7t9ESHZW0zqUD8fEK9lQhx3RJ1D2CkF-6_0itGZvNTwF7C98XG-V81-NbOmmy0y3OC1oUSIQ1oOvPwFy7SqVkfqjQ6PwpIshMiywgRLEeuVsD-0Hs0DBk-eVWltV6bhlvTIgmSPAttZxxvLRGds7h4hCQwET1LASCyQr1ohU4LpqXOwbTB6tZ9qW1ouNJweSOneZoXI7NEa-0puTpM3zz4iP6BZxEX6n9KJPQQeyl3lrRRisT7l281NzPJnjNfYmsFNHwRP1yUUh6NBDj11DKG9_aTd_I-cTrvOldiXKDg
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcKhXx7o7scAxi0U1BtA1f4adPeiNs8JO_GVNLSPu74TAbj_lQilDKGBVAfOogvib7Y5-1TyIg_E3V4pCsqiCgn8fEAMnNmBvdysVwy46RU1twC_AKbnz3I_-HKQqgVgAc8CJk1qON63ZOrw3D6qVmNaOlVvka7W1HmzIVRUC20i46LT-oWlSAKEZQlkpp2vAkkUzyYmOW8sr7RpNfZ-f9Lgi1ZE6m1R8H2dvl5Cy4yUS_t01f6gMYjdI8ODi7ybeJ9ntL3afhjzKLko4GDJGYyAuc2Z-5-T3QyWC_j1OIUBR9OXFVtacnHZjZ2nWLVFLHyzAiwP-y05Lvy9WUqB30dVDCUzgu3cb6gfBr3Vz0lwH5yiRL_07X_tifffJj-xg4XS_O_4RNJcsU7DlIMS4gMVXjwy15hybbH_2xdOHHO-YQ
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -78,33 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDllf2tdQ!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
   - name: >-
-      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcITWgvyzIDwzanDLUZbb5tJTnohQD928hiQhxptalkD-vkrVqE7nypFo1J7dC9ALQwf0G4QUbZP_lyKL6x1__rDwxNMWi0o8mO6G-QV8i-GrHsprlVwXNpLO4WXUvnPLIXDS_r2xGCEus-g0YDxXz2An_6kYZJq4c3uJJb1DrAqT9jqdSubQKp-i18cmiHloxBLxOcLiwZjeuLvAUd_C4pv9DNg56ML5rY7dUsj-8WUa11-6BxvJS_5FwYgEwHmLCTH2KuMguVem7k9BzLkgIupyUy01h3oxrRT2Yv-FiG-EQ2JIf8ofn6bldaw2niGsKdH2BjnqOrhnaLofg2wDcnLVlxcWfcfrXDPdmZP7-FbXlZggG7G6zimgBqYhwR_8WcMQT3V1W_7gv1t8Xagb0-1vuTwUK4Q7MTHFxXTBIABbA
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Susie Runkle
-        uri: https://maps.google.com/maps/contrib/103057049520899972157
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVu9cPGsC0wHntWbaFCGxnmy02XnVCEEo7epEfz8jji0BMwvEnO=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn7PHyAQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn7PHyAQ!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
-  - name: >-
-      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcKR1o07BhxcD2uiYh0Vq0QdsvlcwunhpXLnYFjKA5L63bwovIT-Hk8WXEwbWFcscihN0uzglj7AV5BzfcwFqRMZrM-IJ3gcpIj-iCUUODYQ1BUmxsdgprkLdjSuIVR9gfcQ3DmppCWtSh1Rs23oe1-YO5jppKzH3uo35JjezlL8CLLbKVd8ABq0TukFBk_bJoDnaXqdGP_cblJlS9sSAqYw0mrA3oFMwrXdDf3Zud3woIF1tJK5Lrl4V2QVwi6-fMVF5oUkC99cF6U6XvsafMlbI9x2aBwB3hnaGv9-1ElTialih2hIu8ZoC_kb9MncTyT6-eJiO4wXLUXkt29ksREyCGURQ1XrWQqMAIoRwcrVE3ojOxDZ3qQo9afyexaYn7-ZI4dPG6JAsoc-mDFyaf-M_THqVPM81kvvIRV0YhGewvvB
-    widthPx: 1848
-    heightPx: 2772
-    authorAttributions:
-      - displayName: Stefanie Brunner
-        uri: https://maps.google.com/maps/contrib/105964203423045683270
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXLOZrsnaW_rE_ZsUTxdQv-kTs4yiZJUrY4zFqlOrhnddUZ-gYCqQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_w7-asQE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_w7-asQE!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
-  - name: >-
-      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcINs6rvkzNJPQVHgoRUtajxMlojjzGuZpgSqZ9RjirYe5y_Ws5iyiiNFNe6kWgHVqBYE_kcg_3HtLKzicli66ir1ejA0T6CRCRTUPo7EwNl5Qevh6OnoGh4ieVfnmWXw03BCPJ8eEYfNTyDRAlnNB4iCOIU7TAONwsPXVaPwySvI7x4ABVxLiyDqgXwmrCdI9_kWsux9I1X0o5Zt_Ha3_7ZjGxgo5i7aNmwrEldXZNn-vnwfKvtJiwuFCmHK5jQRBaOg_z3iAMIFddlWe1ZQEDbZG-H596Hx5rDvTIMUmFHnMntwwhaU9ir_5V60dTTedU3whwF_GNVFLcFQo9ZroHUMq6xH1qknc17G-WwYKZ35xAHYxmj-Wh9zt_xLGgwrSHM_uv7ZKgfpYW8-ejg-FlPdcdZTooQZiVJue7zzssJ_zw
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcLVxIwysqkXp9ryLt061HVADk79Il5PjdGuXokMuAFUXMEk8CzCQk_CguOZCtDrXvcYTM-vEkvBLrjKHCINCSojm1PZkYnLgJYTH8q_rgQueCQygSX6094gV7n-J7kFccoj_rDbEm4xvQNOBwXtbYQCLN30If9ewpRBMgAsccL51hkm3YdMXlhJu6PqscmeV2tte8k6Y1VW0LQq1fiGLJ3zdOsNBYmpoV9gVr_YeeJWZ0SpFrodAIbjCqn08cD4XSFsce18bR2vqfXXOUyR0G-2E3yU7chvfZEfx5TCJ-yaIuJd_Q3JbWXEK2pUp0Xn29Uki41-wgI9Whrdk4o0V_oXvszBq0d9RhD6FVCpF7taFPoB-FB728w56nF9qNE9FqYN-bj9xIALPCDOvehe4DkI7gNeYlo5XBqy7KU9qVnUrrs
     widthPx: 2994
     heightPx: 3681
     authorAttributions:
@@ -117,7 +91,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbkpvp6QE!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
   - name: >-
-      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcIwxi4aTNvtlUlEsMxzLU9ulLr_j4hRMzYNgENgEqIh1gsiDe2sCIZpyONUxzAy_5xclRVy979A4xJqT-uDyOfLbhhmaPzq7epp0K7Adfc-B2PSpg2GVU20QEeCKzmur5qsHYBc2T4e8ZRDHg5yLcYHOmCjpxdInuO8R4ZoMK0JvLPB8ZrBlPow-JXwaoOMc7gmAPBXGFjFVagQf4iYgOoienJLM7zzg_idz2mlz34ZJPPV6KlgxcR-qBwNbiDf1Q85SBYqf5FR1uioPUcOToTJiZlYaPG7a8m2XkdFjOzleGoZah8Vwcaj-Qd1Lu_LCYWRonu_MnbeXEh7zPC7d2nlB-SCyPmwwH3HeAEAXXAHwzEqKHQr92tTVpDlGFOdzAHk1Uw5xT_FdJjnO2ILeeA32WnRIVgSK4eYNeI0woPS3A
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcIYQoLU4lbhXibrlVagZhoEA2ZoqfyAx3CM4RJC_KELy-Qy_NdftCED3POfGSSpEMnXWRR2YIWm_oleDqdLogvmDrr8izdxV362_ajpaa3qoozDL0iKQiSA6WdI6tfvzZwu7W2NUYsB9VcqzB74I63grYI25nFHsVQ-VFTbPre755Ap0-CKqq7c7Ym_CZqMYEOr0MGvdl9TN2d4d_7w6pHzmnU1kQVYAtJUbAZX86um7XbipUdI1yGiX7ZnL8uIix_9IZ7b5WnEuNre11kK2yS1LDMHq6tB2FC2jHMCLFhVG9-_ErHpj8OBsNuveHsLaomufjf6M4f6zx8eIj20FFkV6B5d1ucfXiQXbdxmGE5nI8_9jc_y6oRKdEx1-GZ05RmYXbezU87unrhu3GF9yj7FlKrUK0gstJyvEu8YaxQoy9l0
+    widthPx: 1848
+    heightPx: 2772
+    authorAttributions:
+      - displayName: Stefanie Brunner
+        uri: https://maps.google.com/maps/contrib/105964203423045683270
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXLOZrsnaW_rE_ZsUTxdQv-kTs4yiZJUrY4zFqlOrhnddUZ-gYCqQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_w7-asQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_w7-asQE!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcJViQKL5wcJn601uCO1QCKvIHdKRKj_Bc2oK7zM-g2lGy0cHTYHj6nSpD5m75fyY-JJlPEkkSyvMCliu2HcSHexdrzhxLdE_rm-KZ_Hyj1bbeXCMcZdLRFeb1pMweLm8Ce5u6goSrXSGZz1mb-W-kbCC4nL_xK9BEBKsmMcZpN_WUJhE0f8nnANy6vBZnaj9IqJAX-TPPZVtDHbLD7MGRyB0gOurf8xE5ClAStz_oaJetjOvRxV82EVDKPEBtoVTpOByv4s103ZPfmdRSjdSRf11-tVNy6IuA6X3MrUYD_9_X-_5liERTRiB-UoaHa_y2HzhkoEjZzF3gwEltsbRdC-rhyuZzMMBE7hapGdPp_4lCZpTE7lRzzTOGiKB-YYxXw94VuitwKQNAJ3P_5tqjPDUqAmuj5LOYfu2iCV0h6vbHvO
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -126,11 +113,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a/ACg8ocJKwhpn6bZmh-uO6bZDTqHsBpT3No8q9i38n25eHiJET1KMKQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-g7mBbg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-g7mBrgE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-g7mBbg!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-g7mBrgE!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
   - name: >-
-      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcJKk0VpVJteufrBAPHDd19sacD0jGmP26q5j2Yx8HO2Pp-RuzSLTuFmXu9Yatfnjl2qkLNP5R55B_abB5TbqapBS4m9JhFlJCQHRsPPLjdh1NErUblMqXuMle8nTV3WrvahzHdRf75ew2yPFh1Qku_thlgWvrTBUCyAYixKjuQBkLKsAqNdu3igIb6Yx9aio4SbSRhCxy7sMIqWd_sEOXw9RDcC-ItPVixWpG4zU-YRLXE0LvAvQjrl3AlY74BfKstkZVY1M1IozJbjNEhTErjayCxTEs_hGMh5CYt4gS-FzG1w6iYzK8PYUyL6pDbmjAiLbi7x-ZX3px5JNCTGoYNBhmRch8fgIH4bCp2lCPFX8VwprrHINF3n2cvYe0RqAfCLrUhPk2aMdfjxYUiONFKJkgNRawGJGcQq1mYYM72cFQ
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcJaVJk_lwBKCLw-0l26vA121sPK8r_lNpkk4sb61bTg8d2ktjCdnHz11Wtb8JRKN5JY5nIVu6wqhu3Kueh_0MlI4piCY0IN7FpEIEXsr0XMAYiPJH2gsfedAhWE15EeF8j3LHqeerTc7I4ppjmfR4AgFj7uWxuMtf7LvQ5L2b5EgIgmpZh2uTuzuhZRzFztmLaCtylTw2cuiuZb3ahlPT4zOb-ajqYUGrXKsGEBdF2_rwcwkhSzcfzalM89hvtJwM7SqL9tobEC4l5YG7p_2wBYfb1UxM8_bURbrktYB-HqkPqdk13QWlNKD8wy4Ax3uA1YS1WCmZIluirS79040A7xjgpmY-iWAzJbRwUbm9qjLRw1KFqRhToI3azynwxAa83GZHP2iAJfMfCHg7VwaKc7Ij87AEaMctuX023pykqOlw
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbkpvpaQ&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbkpvpaQ!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
+  - name: >-
+      places/ChIJWxvHnjghVIgR2Iog3QuTHFo/photos/AeeoHcK8hkootYxO107HTh6d-_DttQJqUovq0jYMgPJSy-phSRDtVJsLkcQVtX-zvkU5e9MxNl-eVZWqbkjq9_paG8MjQJjxKZmTBxEJJu3bFMiQa9dDf0nsSL-DERfG80r5Wtklmo-RSYPzUDw6N6NCGPWvQj20LaBD6NNI96uwsuFM9sLlwpg1M6i8tYYVCQxCwAKnixlaP-FQCvqHDKW9pBvnXC5WqhhAXU91c_eCdIoEu2KaNTXAb9SVO7PhBDDR8bNTk-NaaiJI7GOsIHExIliO8w9dow4kSvp-edZZfAFEUSMRe2_9PaBDY37axOML6_JT3Mje9A5-gg-ABbcj0-fo7mAHvRZDkIpu6xY78w99Dz5cfxoVX-zldj73PBlQ3NYgNg8YoZopyq-Ua6SMsIAqUDmZZl0eDu9fHepHzw_Xqw
+    widthPx: 3024
+    heightPx: 3572
+    authorAttributions:
+      - displayName: Katze Love
+        uri: https://maps.google.com/maps/contrib/106480482517220401065
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX1PNccsUXcInnck5X1ZrKFlJtif22NEJ95jPBSHlzJKDJ95f0riw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx5JP8fw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx5JP8fw!2e10!4m2!3m1!1s0x885421389ec71b5b:0x5a1c930bdd208ad8
 address: 2907 Providence Rd STE 101, Charlotte, NC 28211, USA
 street: 2907 Providence Rd STE 101
 city: Charlotte
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885421389ec71b5b:0x5a1c930bdd208ad8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Sunday: 5:00 – 7:00 PM'
+  current:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Sunday: 5:00 – 7:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (704) 754-4315
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.8'
-rating_count: 56
+rating_count: 0
 website: http://omakaseclt.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

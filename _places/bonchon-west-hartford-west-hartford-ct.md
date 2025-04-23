@@ -13,7 +13,7 @@ description: "Bonchon West Hartford serves delicious sushi in West Hartford, Con
 place_id: ChIJORx-3eWt54kR3tCUVQWxWHY
 photos:
   - name: >-
-      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcJi6qU_M8X9uuPwIqKJu8S2OVP5v90BJARQj2ZkQr_160dIwRBv0b9yWjAcfyfH9rThBQKlVI-VkWja-pqvp9v1tbhQ7KXjJokl6fR1T_UhHfhJ6ChewGAd5ygUuZqjLWDUEs1XY06ooluxDKo25pAa6VsnUrzTSgowu8QR0CK2CFcdapYo19xli0OExdo9j6MV7SOmi0bingl5Tzno8PsewFULDRqiC7e9XMHEufh-525alVpvACA-Yumin4nBg_WBfKtwVwTWonozBkixgthoum6AtBGCS9PN_Fn8zDnupJ6-GePieHONtvtjAaEO_y2CocSJheD8RGx7FD8-rly_Q-gPFLUrzuENkf2U-ta9HPdWgyHpWOftUdhm9QFxZyFriSVOqLt1sQTGNLKg8j0dKMwBkk7wsL_9znKBnm8Mxf25
+      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcJDyPICFwtcEis56t65KlQ9Rey9Xf4JBIbQBf5Faj2sApPaNVs8LLw_LQOSvXhgjgP6k4Uh7jFs5Gq4RLZzbjOks_b68snLby6SQuCEb1jQrPKxxkqqg13xp4WElaNt8BshL3mka3vOjoAZk2aupoHuAKZeAakMt_6P_MlNd6aGxDlXqqcG7Tu01sAj7ynNO2_LIrhPY71sbR-ltF7R65lvIpNeRMgp9dfDthxN_MN-geJYOta3jsA4e7eB3mOlS1P-0Q71WTz9uJTSlWwjdmRbDnd_xpz5BpgXA4DZqMnX2qdzV9xgpMjHUlQ3QfhjH4NDqUJR99Lkv5UbU5JE2MJk5WoowVWP8klLAV-2ixQmK0i7O2UzTcmUPooEUgJ-UubSShrYWbGxdQCSlHbmLkE35OwvLTj_-NuvQF869T4wf3bb
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICipubuhQE!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
   - name: >-
-      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcI8g0fw0fzkJtuwfyXAty-qcVcOoSUrgRwOA2pcrC65DNuBA7G8kilsCI10diMzuhKBVie9e7lQ2NX_3WThlIGPipS0E9h7wW7zPEiDucPjpyj6xcP9BdZjjCRbJZt5OqkkpKzS-Qqo7vDPmKVtvZN3je1Tj3ux6FSANQrOoITdeV04FGRGStZ_2yFwETofXD7Mn56Cm5p0M9pN1rMhQCA0aH2Xt4BOHlGheHHnev2Y9hCp5PDyDIMkdzNCma7FjP0BXNGSs-jEP8eck59kOxCU3FB6LH7rPkD9GcBVsvo5Pw
+      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcJ1GV2kgNCDGDDsDgrlE8jIx4itW1leUiYTPhg8gPzmG00RiDVoPtSeh0h6WRwHw4zkVzJSAOwH5Izz_lHCYVFwhhSkO-TjBFrixXE8U2yVYHv3VA_P55IbCGr-n6v9APc2fMqD8fgwspzSocIeH8Epsvvcgc23RV5v4zs3NZik6iIB4IV9xKrIyj9P2Yh7LcMEOcXj8bLUKuJ_O9oJihex_AMcxB8d7GQL0m4Q3q7VqXTpr1Ub0lzuLCogXt-d0M3ot86XA_zpsRA5WzX7-AwQRVhdBYhA3pumCenIfjLo1Q
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM6XcVAj34O61PoKYujUm4mjGlMTAZ1du9GUGbH!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
   - name: >-
-      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcKxrPXNPCuxqMgqYYP00kJwpD6aNOozNkMUGlYdRFJrOF2G3LKYbAL8ADdN6ZN7Hk0OoDIBetylroi4W0HCST4dRHwiY4L4cNUuBLaYMnmqKbDQmJ8Uo14LsmuLIQS2MFhZorAYdTXD5elW-oCx0gFYWqbNsbe5I_jP4W5vP93wZvbAS0llsUzmHnxSRlfzlX7hf3-GwpHKCrM2c1vWjYY9ABE96_GXF4BlEZ6txhj67HLXSRzEgNDYGfW8rIuDqXkBFVWuDuqstlxIb3ASZiKjZV9BUbeHrd6AmGlcI81tEg
+      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcJbxo3ELjAN-uYNWaxJopmtAdM0HEBZMHLMQc3W21I9THW_1v4YXpID81--0Sm1aCYbMHJ9D4V55WiLWwjNdui16pItogC4JHK1pbLfCiylGcbuiRtJwrIv9uXuOwvp3_MeVQ86mGP8QmiY4t6CaaRnxTieoSTe5KpR3wYLSTADmHLPIFNriciyhIZz5RO_66kSsdnz-xjhEvTQ9SbU4VuCetU95pGC5EAaswdr0zJUb0VAPFhaDftnTVxX3YcXUqU2NNDovog4UGbfroFjAe2Q5K94lcbp_Bqeqpqz9MfDrQ
     widthPx: 1232
     heightPx: 693
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPBOMDCvf41VgoIkUVdxCDRG4vOixeWIvvuMlb0!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
   - name: >-
-      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcLgyr_PNxwJ429Ql0NOppi9SLZh0-YOkSujbpe3dtvuOMcf-ch97R5gQQm_hcNmXhW9TJIC6NpyTH6NKVVAkdc5FjD6ixKAAZQ6StM5mfVSIInM69MpdojpLRCtcH0l3qnejPG1C8VblrBSnnSAphb5O70Gagrdk3xYEgjiPCyi59IXEP0dFyRmO0baUhJfK46hqPYFiubxHRLZbTHk7wdKkIY47pGirqOpIZSW3YT9m95_6fipuWpJ-QDsIcQd4A_PprYiX7UXMUVHTwq0kCiLnujGkTJnzqxvvRh1KIWRcA
+      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcJbeyQq4RsCue7rsNH7Q99fawoSaJhfU2JPgEalKyFt18Rv99-DHqIdG57kR7wnFvZWNSUrOcHQeQuF-wVULrV5acrwWY753Oy2tPmTnWSucZJtQHmDxve8unQ18RHH86yFv7C2r17ma9Sp3zFJjblZuov6YEC-Sr3NhfZwququbBaBQa6mAbLoEb9ZdJNoYajMMuimMNPSY2WbpB7w3sQpSUpWz6-h1CBcvPMMV2Eun3vrLO6oSL1KsDkILo91ATNcQ-9n9gUME1q2n-y0TpxyC4fL--lm_xJ8yz-Zwj6FqA
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipML3dGthxr5rcMaidMxWrmZgJRFBYWOdaPE2Ylk!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
   - name: >-
-      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcK_cvyzjQZuww0CxhSPjYs3KkwjfgrJvfT1GE2_mQ8q9Fi-NM_Kzvw1mA6vomjXZ72bfdeuxyAKcnS5a5oyKsdy1kXNRYAOjq3SJEFzycBP8z0wbOn4n51w7OuSXtWsKZYxT0GF2Q2xHBhvQ9MUkD-tnMQxBvw-T4ibwl96wepxngm5TOsI9cXBttVXdtxokgeakD2auEgF450rMHC_5z5SF8yiew0rYeKll9415yJJQX-wryjivQYQHn37D_aTLsXJWrl4DvWGs1mh9_rSs_5_HORJ8lFs5taPLR_MnpHuZQ
+      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcKTVvRw1jnCUIJiXHAK-yj4gC56sSfD2iFGhqfynJt7NATBbSbI1zM_M1tnZ7L7uIHKTiX8nGatMRzVyi5WJds17kYcJJYfTuxHeI93YAEs3h8P5HqkK146rjyLsO3tLtjzm3uTcIsJpU0h26zXSh0XmR8xR4z8nqr5OrzpJ2pddsW3jXM9p7Lk4AtZwz4-Ypd7EG4AMrd2A1LQQwKqp_Lqtha0m-lcm7Z8AllmZeEi7g9iJjz7OXOZwqemfUJCfzgo6GLdQkAk55s6OuysLac8oMLE1hZI01eU-37BbwZMTg
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -74,11 +74,11 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjV2nR9Zd6RDGKfXC9h5SAGIaaN-m-JS5pD5Q0PdSZpTLUmCYEMP=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNRwuleeJVOofw4SKrt_k5mdqY6q8ffxc7Qks54&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipORE7zvMMZ8UdDmOKKJDu4Ni9xaN-kHGqQytZ4p&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNRwuleeJVOofw4SKrt_k5mdqY6q8ffxc7Qks54!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipORE7zvMMZ8UdDmOKKJDu4Ni9xaN-kHGqQytZ4p!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
   - name: >-
-      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcIJ-OLkZzBtN7jWcQAHeNdftbMZGbKHIyMxvOvyBFpDfas3XREqgha1HyiuBW5hofjy_-t6QRjYguddimF_TQP3GxOzwwf16AUiC4z65KaeA3G8fBLhpaPZJrTwjULXHUx4iCtZkRhGkpbOI6T0b5GvkE7jAMNTxmcaugyaeKcNsM99ahIcZwoE76SjODP1KfdQSASo-Iy_dYu4VnLPNwTiBkVkHNEK-mI7Ac-Nc_O2D9UjRQdmlHV3fWC4vLT1_C3l3gvKwV2Jvz8dTlDu2B8IyTEPdmdP5f9dUKFqVx_ViY23MSBvWf0p31fVoOgJ3mJmlUv8D-lZP7WHxIgVTUZc1OtBw-ocmXPTd9IJNhi0b0FoQKCh93XJOeXvLoYyhYC4p3YdaUr6Mlg6G5Z4LCLU68eQ61N8GHBoC-POxBe183X4
+      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcIeoHKBdzf-5i5UZKUvQIR6l-4TzQ9Sp9jc5vmxNKBcMIEGIHMKGpeWHVj0EUyc_NXwokGEkcG_utAuMESIp1QqBekSO0OuOrNQANWXYqtzjJqqleghwE2P9-uUEzlQw8TMcGdlhoWBf8MF6yT5V4yyiJmPqaZFEe4MxwDQdo9FrqWkN5V5I6WzCygyPyIRSZK1OmVdOcZcjnE8gCs1M5itS4Dkthx6EyXFmg4643PmbVhSO3kpJ7SLFqATAZoI-xN6EDk_2z_ojt_J-WJWXx_QIkXMLg6LUZxnKjzuhEce6D9ieZF5rS-6MeqJGQGJuvQTLpf2h_MmU-67dwaH64z1vqRN1XIq08gflcNthlZ9FR2Vt30dhHf1krvPVlHNtTZfMmal1VDWOB9vMzUt4rfrXMuaSMIo5CmN7I-gXJ58J5CM
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLha_t2gE!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
   - name: >-
-      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcJeAkwt9y1w4tEzo94pTd-s6IL70uHmM8WMnu-Zuz_fYO2egpplZC4BYCAheU1OgqBcWv1GshNbj4Rj7ue3ZhO9evEJwpJ3jS6imccKnwwJheuwzfeLiKhiEWonneyCbT3K21fjIp_PESBGUCqnEOie0I6eBuK3RktYQvWSaKlS1xmvxTvavGlWWOupehTJBaCoef8GvESQRf0D0mfhDM-U1D6DvTIMhg2ZcQtc7ERD6xOj_o78UX2ujV9snGosw0tN0Qn5aEgsm5-OyIKuqFQKnaOgWReb6bOK7kPDjnUqaw
+      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcKOm_XluV0HA6t-98yLvdGvXFdrbJmAwQiXca17GufQJl79EIUGJw3kal6rc_64jXVvBSGBE8qVy_a4s7lRlk8LGkEkNiE3iOB6GARyhAZYT2p2jRsSl44ZJ3iO1_cdXmgnArh_Q6BNFAvRiKTWHNJ4Nib9bzQbb3Hohz6zvvgLRZXZSeLTjlSEvL8N_t9FJiRSd19WBT0K3vC9Ek8fgDDEmQnEQnMDo7FGQr69hICMepO4or78Rk89sXSW_puBmnQbCCi8f7uFYWmickD1kEO04bj0vTB0upshPgPtFEqUmQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -104,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOUe0_wYlyRpEvPvkiaQ1KbRzQDQZjsPLM5gyjY!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
   - name: >-
-      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcK2Q12_lKT_nd6clQbrM2wY5DatN9x2OV-9lJstDF75upsLRucSV9MP1IxXYM0I0J72VvmUkXPkP9Vkyd9bEcSylif5y3yLT6LCeffGgvWgQKmASG82_mFL0yhCyVXudW5wnEMB1p0D9sDvA0tp8e0EVa2Ej43gT6EeYcgaGex3ztlEKBYS7L5av48nxQR25AfgYi7kWb3w7OYw-8UlzVCh6XAeMEyxySvlNdaAAwMIDI5v2pinLUurEgqZ58CuefH27rw1HRpMudky6j2fnnrPB4iAFpvvi1W-pNC9zZv6jw
+      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcJgIQJFoNHZb7egMF1oGakghvTXOirH3rprGXK0wEFaTONAt9Pi4vDQf3vkxgN7cJSPSYNSE13FHSzjBsKTntti59HRLpKPgLM_MyjnwJX41DqWy_JKqVeMvJCFGzG0tBNF_q2hJy7dHzjBhl9Y6YX9oX2Y98g0B8MIKpEOe8lXFRCo6soFdkWLveD21Rl_V7XzL7Ym6otvin4F3cehisdhjQzqEFCPzjrLC2QhD-8jsL9y2Pt4YmsILEoGO5GLxZpb38kTPjeilcWKPoiiItnijbeeSgP7nJotm_af7TznQg
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -117,20 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN-uOPz_klkeUSM8vYJDYMxHqZ5ImVIBgD5DNsx!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
   - name: >-
-      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcJfpO9PaduxB_tJAEBYXua9x4U8yBi9uKRhOTwg9Y0BuFJhsGjGIrmJakqn-pdY9NRCCVI_VT-hUguIRl_0CNBE8qNAolqUzSPrQw92LID2nss9notRUWhmjXxMe1zMfhOH-jSA8zBAbfpCn-gXib6hucuXcpzvWDJnac1y1W6A5F1jwcwP5pICoP0Vdo3Z4dcX0144sxKfR3iXxPSs6ltLsRh3DGOt6yicxgQ1SdHt3lrAxfTu-eYdO79p-yy3F44NB512sSNB1nTsNhNvJXjEag5fF6dkh1AeKExXtMQ8gQ
-    widthPx: 800
-    heightPx: 800
-    authorAttributions:
-      - displayName: Bonchon West Hartford
-        uri: https://maps.google.com/maps/contrib/107611572143175215130
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV2nR9Zd6RDGKfXC9h5SAGIaaN-m-JS5pD5Q0PdSZpTLUmCYEMP=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOOoSpvhqCG0gbJRET8QY9gSy0iXagMaVRm7Nqh&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOOoSpvhqCG0gbJRET8QY9gSy0iXagMaVRm7Nqh!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
-  - name: >-
-      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcKosU8bSC0KfmEbTgI6Qz2ig_NOm_rPhvzeR4DHrYxsWQ-hkP0kL-seFnyQYs-QnjFWF8q8aFe7WrJfSVIoN23ovi21JvPYV8GThVQMX5PpgSwYWLbmnMbR0BifyGdoc_qRKLuoB1PYu7QV3B4WGt0czW3ADuK8CT1_3tMbcHw3EfMZLLPFCp837SIxmc4dVz9HW9JCBjpKDgqHHvUGMrIpuCq6t6Fgo3fazP1_cljXUB9bsCTDe3p1sl_fCJxQgYBNURF0D8-ZPlvBcpIeacdkC672SPuPNYuoKP3dPG-2dw
+      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcIPSpIeEagpKXFi8CqEsjjcfkO4IJm8Np2j12FZHPHAMuS7HYVejl6Rwq-U-lMAxM9--bLitkDnTnhTNXVQgWeibZHAoA5LQSe-R_Hv5hdByAbZ6QWKYUjAvB6--MHVaWEQGyWby37PbfMCBmE11ek-FtPMiRWiLjlj9dnpWD_tTHSsQe4SmskCwv2s9w9Bm_Qr2W4PygJtVUrf-KnfHIOdkOFeAzlMUPcO77dtOT3Y3vLTVpIMXZz5B4DGTqZyB4uAqaStpqjRehRthrgA1TVlXxptlJUkunUY5otZgPWkSQ
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOLz8gYKf29R7gljomTsOlIC2H20GYZl5ul_7vd&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOLz8gYKf29R7gljomTsOlIC2H20GYZl5ul_7vd!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
+  - name: >-
+      places/ChIJORx-3eWt54kR3tCUVQWxWHY/photos/AeeoHcIRbm0MjhupiBvxNCRtYonxevg9xCEpXpgrH9A6saKa4y-rMIw6IXJDXTBiJOWAHHj79KCbUtbiVh6k3JehaugGxklZri4YyJGp-sxAdfatm2n_hi3VOXL2BfCBIFr4DU5_F3iBLDXxwqsSpB2y1M7XdEgvHENKNwqt-xxQ9hk_hB-VAhU_4NEgpELxslTIHSOatrbRZeaUp8NXsXDKRX_JNtoGK7NF1BA63sl8mLaVvX5nhYFmkfLe5jyttxE5aZxpb4UFiBP_i5dbGQsd0d29i1JKBMlaweRhU186EieMpQ
+    widthPx: 800
+    heightPx: 800
+    authorAttributions:
+      - displayName: Bonchon West Hartford
+        uri: https://maps.google.com/maps/contrib/107611572143175215130
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV2nR9Zd6RDGKfXC9h5SAGIaaN-m-JS5pD5Q0PdSZpTLUmCYEMP=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPjJ97m0dlif9QJ6dGDCzHREw19V2tX5FyHAWT0&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPjJ97m0dlif9QJ6dGDCzHREw19V2tX5FyHAWT0!2e10!4m2!3m1!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de
 address: 1491 New Britain Ave, West Hartford, CT 06110, USA
 street: 1491 New Britain Ave
 city: West Hartford
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

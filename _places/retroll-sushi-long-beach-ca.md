@@ -13,7 +13,7 @@ description: "RetRoll Sushi serves delicious sushi in Long Beach, California. Tr
 place_id: ChIJ6bloLgAx3YAR1yULijGjel4
 photos:
   - name: >-
-      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcICojqo7D2c2LzIJ69uGcCXGIQWZl9gmQ4zn0BgjXCHT5Rk_T83imDTlv1GwdeuImOgbyyX70zWZALfYTI6j9_yMcWzZrYUN9H6ynLWMqYnWAYyW2X5FD4NbSs9I3w3Fh9lMTI92FnoK6PdT5ihxrK3LpduspNS1JFlOLGJIvUT4Zd4x7EN5rt8dRisInLARMmIsxrBzlxalQ70PPyoLwqO1xdU_y6SbLI1nN2opLrXk9gShdnmsV_qvvGdZi3S9jV8-QLY7rEwNO0PEHS-785NinsvpwFjKxsxw-kQWmkWSZE0SSbqioncTGet6WE3ax0jP7wIXnerNOk1CoW2Esi6pXlLr0gaBcmgp3eVvUKvEyBM6Qj7wBUiCWr3ioEqoj3jKBOVqio_L9B5n8WBmoEAyGGwvmGUqbL5nhN9a9Equ5y_
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcIOoPTqaRi2C-cGyaWfk-9-k2TWaLpF7oCrgAtZeNRuIOgKkpZ_HpzC8uuIP6Q2OBJ-9jdqw7WqEIXxp-d6wkG9vHrq6Bu6Hktq1i5rfQWN3esnePvsJt9nxLd1lwccU-cyBrmLeO0FNCaObPX5FTr6l1Lrzl2sOnRFQ-FTDNVeSTZSylKYj0noqexc5mp1PhLs218hQfEaFNA5fr75YDmeUKUxpATyEvpfeRXcin-sv2iLaOvglnTzoNtiNfbiIo6Qw-B9zbIyKngfcZeLjamKjTjtjcM90KJnosk_aLpVSwWa7R1984sLuSc0GYcHJaYQn5dSfkrKUo0ATnbH0DB-ZKGPAhODbglm0T3uRDndpxFs0UsF3qWlcEUk3mI1PgKtmZ3bUJSMWmsxVWDvqgRF3h9Mt7Yj5vuULzGDCSRF22l4
     widthPx: 1512
     heightPx: 2688
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn_9be6gE!2e10!4m2!3m1!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7
   - name: >-
-      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcJzIw6aaFQF1VNTofls7joTPub6_qIq-XRE7CkJ-3kCfkhdpyc7JE3qFdRZuYuczqgJUpe90TpRabU2reagSnPgTp7daqLG54QoVq1awmgaa9no4DTthnPPW9uf34eGiz-QiNOrlbvCHwPI3RyzjC1yzcRqW87rJZwVn9vF9GHAYpt9noGIG5UPV9ILIuHcgWF4q-Aef2ADXvxA8G8GqeoDMkMQzuNKPkb1NI7xOrAJuA0smHpTLyJOMIcTpdAKeULYH9QYIKPOlXTxmWAbYqoAGjtT8h_hEm3nNj5td6uXU-rOqLE-J0BdlIXVNvhH9H55u_vP-Vz7gT-C2XvxIUB6mFhqPcnIpXs1bASFdG1lcZ8V7xYjdDNrQA_tVRVlbzr7lRND4sY3VJbA9pNKXS1t_tZgl6aZvOMiQGKU7rbxK7qW
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcJfgwUbTZirJwBn6QNEAE5figq7nwQGXERgg1mhOyiseaqAoyAPmjOS8_AtKIxJB2f-ZC1WD-wMHWlZm3tmoWUJf2K1S_kkpDK1ztzUDO8a4RNhgo-wn5N5EhQUUkuEl0QH9JZUBDm2VZEtHvlopmcJaInt1ocUk5MYricJykywWSWjFEgOxEOsaKyZEXaT4zaG5Y4Wu47YzR9IisM00twRZcrGsQ4xf6hkAWoMfZvAeOVQ6QWFqQfIWjrHtzUK13906UkAaaLVJ4oO6M6STqqO34VTO3TgTK2jkRpO7UkWlstuHG-OjR3J2NviWctlmQEfvNidkalJzGMJA_FPz9m4YDS4kJS8EPcFKIw4AGHojgt1tSmXgNmw4ZfWtEMT9SyW6b_Qr9rNNJbC-QkTvkobc_enCiaOy89Re_i_Zr6HDQsk
     widthPx: 960
     heightPx: 1280
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDxJCeygE!2e10!4m2!3m1!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7
   - name: >-
-      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcKLYoWvX4UOq1R0dC_UUP8Mt9hdCaCHCLfLNEsw-5n6Uz7ip5cFsYCGHMZg7AaBB3ijwu2a_dF5_322KHYJGfdSaA0LtLinch5aqwwPQ9pV665BSj8ANr-jwVLOCBPPNujLPXAJ2PvvL_swIiNmApS3NqQlyfH5OwWHg5QaQr6HiMhQYNvB-FmG7iTeTyl_ybOzwT9n998xp0LHlnL7rIaSQ1VEGLoedFy5sWrOUjrYNhHA9y3SPdtBe7Oaz533FqlBANGD_vG4U9RL9kF-VqAAD0sbDtkk4mE5kRkX1926tjMTWjZAkKkoZNKQ_cWnOeNfejDR0BlrWhD1unNC_rQvu3r29_CYmCaAzWEPC6gMv78cRMteSpYY1zDSo-a0z6lA9tPtyjBek2AyVajW_ZiACOy31gFKiStQncvzHQ43Gg
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcKnJABQTelEteamVqZwrh90po1MEB7Tl3IfVFu0mkXbXBXJKWsVnamJ4z7y_Vp02C1JFZta6J5PPIz7GaYfx0UIEwwbN0gPXA8tbW4hY5v5K8kbh2XqShlhTuRf4WK05N5mPh7hFA7JUfK14xwmzwuBx5pzmNJX0SSlNJcmmnjwdpf2VCZKlQyp5_j2gU43qH06JyxcB6zBv30zEtGKGEIB-C1rqMEtqVVpp8tBwqTICQSLpNqLXqHzYVh7Nx2RHZwQ4Hvx2Rsd7H3BMTk4dEN9ZuoTq2IDtJYKaQvlUHXFNmaCQ8tt3ZuQHSPIWa7qu0hKyKV1yvoIBehlVuOIEmeeoxF_KehJojBGVS3SbAE2ceoE6J5XpaOWDMXRl6o0NFWvarWeATCCef_rT-U-qJ-S-mIX1RNnrCz2yzXIO9m76Q
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7zeHkcw!2e10!4m2!3m1!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7
   - name: >-
-      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcKHXju5JAwO977MvqSDkhyTjKHoZu-SsQd3as5sApREccHlfK363x-h59tTfnEKppqRbErFFsN2nSvryY0oJxUIUfO-H8C-Zac3Td9NGphuwaisnak1XVBiyUyDBiCzbPiXgNdGbLYgHohpg6FBTSc5y4cPTm-j3LvWBMcD9G57pahdqzHL5X_T5CWWvnkDnBAkaV2LKmf9FehUPecKlNLrvN3X4f4_Ywpp09jfuHWPRLbXUG11okdOQhZmZaFhsF-WbVX7GkAaXpZ1YDDVNZbN19cbnUBBK8KYYUByoLYVjQxAt7yPwfsiM2moZyNON3XDClXmg5LVqasmrH2n3KD6KAD57Fv1kKeuNCU5j7wTw_cNFkSfmBtSex-wiUrgbIWkc6IbMh4cDmSr834uWJnDT1E76lOq-kE9ngrZ4qc7eea5
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcJH4-CunGtjAA45uwJIUQp-lppxEbSC_LXoQdWBxSuvXN9Ur67j6kUqhqaOcOanNRsn2ieiWyr9bLkOGjX4mZwRX05QO3AuWHAVpVnN0J2eqL1e44HVKX1neiEDrKlZ8FfbQReWHZU-AYLUbmuyX3RPvl49fm5nXX3AunrfLD0rAKUQ2W9HkUvgevXo7x8OHYXC5IeC89NyJna6lDm3AfM_kzmZyxxoPnL-UN7xbVuOzbfivfsL_zqViscyqxlA9O-MGbIAhUWEgPultPFkmglmvaNnF7lrPt2Ytq1-tmd3bL7IA0hj2efgMP-whWOmIKQUaHgL1WEugCA9U4wFFYohnDgumzL_NZ1R7eLuJQWz27huiATE75hJV_jQWkxhHfK2KfWfX9z6VwYXkmDOJpzAAfth7-H5EbUZNtpMZ_hWN6c9
     widthPx: 1512
     heightPx: 2688
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn_9beqgE!2e10!4m2!3m1!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7
   - name: >-
-      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcIbG_iwdTt_5kjDbTAnEaf8BjoNOOmAYKRftXK0h-5fmJ60AviuHHwLqllIq0m6VHHF3WYvFo-BDoi1XNKCCgb1R3Z66jsjshxCuG2z_MmBPriwFQuaCoOGnNpa1Mig2cRY3tR3w2vrmPbEwUkczmUh8oR_vp18GdFphDgMOzJG80P7tbdXPX1f83AbE3u8_9wlKpX_PQyc31p3Lc2PbkpLWBfg8wqD49wo4u0gcTnfjydrwVidGMiOaXI9xI-JU2m6V2A03uMi0djIF0hXHh01mbqvfByz5Ce_fMasxeZxp4fK5s9RoHzG0OIDLuqPi0vBpPicthbFGG1ZGJyVyZRZLMcMo3xVagKrhK9LNQ4sao9JbS5N0W13P32d4TsAoUmh545phYeffrhIt-n_Rw6moPNMUi-XdXqpUUhR5L6ifQ
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcIMPOSRTPqeJfFvCWoGcB7Laodl2Vx76ejB0QEydAQJZPpGPcrd2DJDLuLQrXCZHlXf2SE8v9MHAjRXacO7bIyKkZAthzX9remWtbJMMsVztHVLopLpfymXrLXRoez7SS9jhN5X1NFPvlyfVj4sDfOQCM526NFlCG4n01ooxrwZeNor1cCSQbkUaoisgU9-EvUb_bxIdQK9zQ0nV6BrEGCNwoZ3Dsylr3cuKrqSFUTasZ5ojtOaIZN8jiyFZuVadUXsZehifWNMZiwamPMXJUFxP9tJk4U4mkA8acHzLDnjNvtYF8bWyhstlhwNcKS5shOzT6eiV3UsL0m6xCyD4lbfvs1yHwx2jQW-yfpBwcrM92C2uMVgKKVy0XHREmm-E2baNyxxsqXtilOdqV6lIMVS58H9xJHZRtLYKFfzr2OxSg
     widthPx: 1512
     heightPx: 2688
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn_9beag!2e10!4m2!3m1!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7
   - name: >-
-      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcKj3N1HlryFgv2tTyfK-kSRC7HGyhlt0SCYDcWz3eEKfuDNzFDe0Bqq_Q-IL0JGnZc_7XM9RLlGltx1NMtA70a8pwNaEbyFvVEDz8ypZ8AqU6Qz4kDXUFU8GmpQbSeEVq81mK511dw2XGVQ9aUiOagcJI_BaipoH4EIxgwYHDEpyJBc-5nUGUPbU0BRzqM8dQEGKX9_kuEhxXXrDpbFMq_bxIgCbzK1oVY4qjBVaNM7irydvl3hUw4-vW1cGg0M5ORNAFonIWYjF5MI345GvxwFnSTan8yQPFP4gIJHh1JIIj2cnJwwkLLpgzC-qnpOtuYlvxuOBPTe_ejJBtHq_Am-x9fVoelQ5Sr9R0yBEB0GR4e6kk-kRnaxFhvzKATubkF206QuCuUSvEYb4LAN-ULkSyfGESaLYE8YX5DCm08
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/photos/AeeoHcI3wpyTaXVjzFfEAsvlk_99k1ozV29BUOBQJTXPBArC-aExNGf6M4a_VtEjzqqc9MChPQL1tJwxxPXAGpU-L935Q-ybVh-jLBy-j3Oh2ntjAFY5yg05LCUicM6kCbD43_vqJQdOQvtOSJoaCHbAenJcEo0lPA2YR72VgcBLooKSQ27dw_b3uX4-DIuCqr0Owwh-LSrtRIi3ZyososKIrfYShHac-KltUj5usBxG4ITaf7LXrUsD3cFcwbSFsssJkHgvucTeaEe-snv4n28hX6UDa4nF4Mv1nQ3ocgbUAgEdiici41LRXqZZTNyVj4UHBD5thxPi05Lup2qIVD0RaCcIFQRYRrw-449o24q4Z8aOtC4PiXZ87kHUqxAmOjH5g6I1M8Hw-lzdZSsqxuyirq98pWv_OeSXVOCagLafmy4
     widthPx: 1512
     heightPx: 2688
     authorAttributions:
@@ -116,8 +116,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
+    - 'Wednesday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
+    - 'Thursday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
+    - 'Friday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
+    - 'Saturday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
+    - 'Sunday: Closed'
+  current:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
+    - 'Wednesday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
+    - 'Thursday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
+    - 'Friday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
+    - 'Saturday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
+    - 'Sunday: Closed'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -129,7 +143,7 @@ phone: null
 price_level: null
 price_range: $20 &ndash; $30
 rating: '5.0'
-rating_count: 24
+rating_count: 0
 website: https://order.toasttab.com/online/tbd-sushi-2023-e-4th-st
 reviews: null
 parking_options: null
@@ -157,6 +171,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

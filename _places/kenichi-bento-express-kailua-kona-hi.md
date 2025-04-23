@@ -13,11 +13,11 @@ description: "KENICHI BENTO EXPRESS serves delicious sushi in Kailua-Kona, Hawai
 place_id: ChIJVchNjDEFVHkRdoV3rRvyElk
 photos:
   - name: >-
-      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcLgllIccGx6IqTuTyvx-slzR_bgk_Ypn2izbl5nsd6mRvbEvcYJ5HeI51sQoc__CGShKfy1OiGyWS2BITMiS_ks3uLPEM4dL4TFnp0Q1aj65S5nDKu-lRzZhtGZiE7y6ZaoIikNr4880v4wyRmRcxz_OSRyoTHRFzyU5zAZPyphV53tYyUAfYKINMIRS6IUkKpMNLoAaxuRlwrxnMh1jJEvT1eYaFAyz2xqWLbOSS25EfFa4R1eLdAhQzucz0XO9UJT4CXyHnCI1nvUe2UPWaEkZwBK6Rb1Cy-mTLPUuGE
+      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcK_JDzStgZ5gqK9xmYhvqTLTWfowyBIeJEazCWqyW_6XL8OPB8kmeweH1AAwUJ8yo1Zh9vJzGiMk4xtPiexECFwEzhJURrY4Qf0KVGcKTVjCAYkDnH3qPbDc_qSiWW9EvheSFjUIW1ko6XobWEicA0-k4x-Gy-7TIT5tpZr4bT-QDORS6EO6RlQQuIHEv33gLC4ZyFgVTfQvnXKWMc_HwTnJXQVyNqioRXCTl41BQfSYcofcpeuX-u3DiZ59AcsXvTp4n5TsvmC_K0gxjqW3sfOj8NFTYfijA5IpkAHHI4
     widthPx: 676
     heightPx: 676
     authorAttributions:
-      - displayName: Kenichi bento box
+      - displayName: KENICHI BENTO EXPRESS
         uri: https://maps.google.com/maps/contrib/116656233190826037524
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUe81GYuZVyuCxFpCHZftU-RKVdGyMy4wWYW__Bd5VnlcdqYQ=s100-p-k-no-mo
@@ -26,11 +26,11 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPpp_LjEwqO9KBvw5kjhU77Ae_MY3bhO424HxE!2e10!4m2!3m1!1s0x795405318c4dc855:0x5912f21bad778576
   - name: >-
-      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcKoR48PjO0nKYkBqHE8aIOUeSa0t7ogb44cJ0Z1snKWIYUTKWCTiAb2ROGj53VeKvBW_BlzexitVCdyJTZ-eRujWfPe4jaVMrH6EQF4KbMPE9uoddvfTWCwj-5Gs60lZp8X1VJ-vDn14OjkhNPgjupn92Osz5mX9LyADQcrzTPQshVMdFBJ5W24RjTaOKZFIGXjXs16ZvXL2nrAzA3tepPZJyDS-4d1V55Ou3LJUGCVeC5tJ-esVzie1bI3wDrwJHcHwqm3QhSxJOnB25a99ZV9Qd040wh1j4Hs754gc2I
+      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcLWliQ4K9lw90Nf6w77HD10dBnYKfAujBqDWR2B6urgA3bMJbiHaq9v-ynIFOsKVUN3CSR2EGyjg56Eg6gjuLd1R8I9rcjD8Z_k41sDjDm-xQoL_Oa7TBFZ1BccNyUoAvxkA3TpppgODXjudjE_gLO5pKkxqZvkNLDkgiJXydznTNyBUDSjqwbwj2fbzZSEqKNHTzR6v8Jq_ruNo5LCHOmrZfz3ICKh_ePbe5RhS0D0iQ9vik_ckkSwuwe7RFHmJwZdPc3eNLqca-810l92aPVF0eqWkWAX5OqVjKG7gyQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Kenichi bento box
+      - displayName: KENICHI BENTO EXPRESS
         uri: https://maps.google.com/maps/contrib/116656233190826037524
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUe81GYuZVyuCxFpCHZftU-RKVdGyMy4wWYW__Bd5VnlcdqYQ=s100-p-k-no-mo
@@ -39,11 +39,11 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNTjqrfNahEuhBV0Nz72Pqthv6OyV__puo-v0g!2e10!4m2!3m1!1s0x795405318c4dc855:0x5912f21bad778576
   - name: >-
-      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcJsEUY75AlBbti2Wezp5nv1koCn02f0w3ogmCMPZGGZmGDog5_m6VZJEt3NMUPsT568veMDUlfxXiQ8YkbZ9jEqMweWMziZoHeNwfoDITmfK_aJcICD3K_i6AOnEZ2DUYsrQcBsjFq2xKn3APe5B1fLsVGOiiGntZUfnm3uhA4Cnyt60IKGVw9L9ndXZK-PtN4XBG_4Q2owF37t_eugUMwi2Ws2xYsoEtxy4mdatmRcRvsXJRFgCTsmoa5WxRuAE1996qHTUSyWR69E1plGos0WFJ8HHvUKdkx9hbm-uJw
+      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcLpIIpIzo3Z0crB5S6aDcFW557rR5HFgxptZ9p6NGtg1TIib0EiuBpYG4NOuDwrC7ZoIH39hrMh0Pr2YF5HuGQo_9cgYgi6DUDhhZUxEBDsVMFbQFLfLkSWTr8sPfrjBinzC5Bl5gWDaz8r4zmE2Z-796MZ2g15SGOKIelxmhKjxlVpWPdqrZL_ZA5P8rtT_JO1slugoXa3i5YFy0T7iuD0LNNC-5z3A5l4R5Nr7PjP00-v6cnYEaeCZiYvqmUacJiKomqYeB5K14KupIfZ9gNBn1KkUSHolnflkH6Uddk
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Kenichi bento box
+      - displayName: KENICHI BENTO EXPRESS
         uri: https://maps.google.com/maps/contrib/116656233190826037524
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUe81GYuZVyuCxFpCHZftU-RKVdGyMy4wWYW__Bd5VnlcdqYQ=s100-p-k-no-mo
@@ -52,11 +52,11 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOHaQe62AkKcM0Mz_u4QWETu92s9nc7snZPE-M!2e10!4m2!3m1!1s0x795405318c4dc855:0x5912f21bad778576
   - name: >-
-      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcJJdLCsJtng4hOc7Vpus3_xqWewQ8MEGcsEzgr-qiIOP0bzXrMjXGdTTh9B49vBI-HHnK5tiVgTTiF0-hNII9S0Cv9Ygj6GziyZH3HT2AOfoL2EXnalhp6g6w9P9Xzrr0YHGmO4OIJqLL3z_1S2TQkaxDYbeUe6PV3W72nIv35Fjmqw0RALonZ4WR5rKSST5akH3mJ6lg4io17Bxaz7Pob-IL28foxj5pBT6vG2gUXprQvmwB9u0f5A6xigGRUa3AJRXmrBAhDWVgX1aMCB-2NbeJXb-dOmGNvGyo4B2rA
+      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcIsX6Y0OQvK1i79pavnyDLjCCM1AhBqa3rp7adu2zoOwW7Oz3U9hIbHCcE_pP9XdU5uhrF6GZBy-bpt6VSD3y2b1dVgOyVfRSteVAAHw3hvrYgD4gSgIncNdKKDz21ug1iD3HB_79bUMwn46pdiSl7xMnYeAJbjcrsY-qLfQG-7cBT-6SOcthT-1Vf8KvaRLwwqM0fNoqrvH2CcohMD4Jw9ZvrC00ie2Z53bE5HfVJ2uyHRBkiM4tLELIrmpBc-ZOp3rnm4N8jNhvpkrcGDvqFf9wG78sxeuSsAu5B23EA
     widthPx: 750
     heightPx: 1000
     authorAttributions:
-      - displayName: Kenichi bento box
+      - displayName: KENICHI BENTO EXPRESS
         uri: https://maps.google.com/maps/contrib/116656233190826037524
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUe81GYuZVyuCxFpCHZftU-RKVdGyMy4wWYW__Bd5VnlcdqYQ=s100-p-k-no-mo
@@ -65,11 +65,11 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNLwYqRf5UjPtRWIGX9UZmJPlOePAmUeQB7iiE!2e10!4m2!3m1!1s0x795405318c4dc855:0x5912f21bad778576
   - name: >-
-      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcLWJieoe-7qQV1oF6UmAYYrzgL_dQ3rw2o_GmBQxAkIdQyHxjVLUsoh1KvR0DB4pbhhTw3nZcDI0wzWTzvb8RbByDr_mrYkqz6l16bg1BaKT9Nkkui8u0bJb2GOpziJWSZIU6XNfY8TMz8_OXvM648g47yXOGMVpaL2U1ueoI2otluJjyoIXgK19uc0bOn0e8lfETZgXtqbR5HDasYEpCefcDNxYmar5n3FKxCSiaEJyzHjS9d-F9-5_VRUySUO3vkjudlJBRo7Pl4BMmelHHRQEllhwNEO1j8KM6fwKmc
+      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcIk8ACbTA6RCO6i9WsHGaCR9h0z3gSk8QcuMzp0NNlQsVJaeeD1PxxLqtMg1TPiM7lznmX0vRIXbJYB1o2czsV_DUH5h13WyanQWwZiMWdmN8StE_qEbi3-E5t9jodAlZ9pnN5poiA5wF6C7M-vCqn4PjvTNlUL98NAH2GPo6fgEzdxa6qDSMvZbgx7g6EzQ99d3V7vmDyF6NOE1RYxx1_DQ-pUF8QXqn4vZZBMrYvMgj1uKpLNJmd0_trpyTpJ2f7RY6ATtqEQIQckSxmThG360C_WsP_fp_ZdY7qicSQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Kenichi bento box
+      - displayName: KENICHI BENTO EXPRESS
         uri: https://maps.google.com/maps/contrib/116656233190826037524
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUe81GYuZVyuCxFpCHZftU-RKVdGyMy4wWYW__Bd5VnlcdqYQ=s100-p-k-no-mo
@@ -78,11 +78,11 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNKKyzMZ5Pm8z5yxuLFAO90cjTA-eGay0mVphk!2e10!4m2!3m1!1s0x795405318c4dc855:0x5912f21bad778576
   - name: >-
-      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcLo35u_IHN6L6k9aTFgG8BENL-oCLO5_RRRYmwyUjdaH1ZL3Un1z580h2lLdgQluJh9hayzcybfVTGh2zzNXuVdAz6Aq8ipNNjJ-s9_ruCMg48-VcwBT6imRBJK8XFrijB_UBwlzVNm7q2XBT3pCpxuVtg7TIBAnPUIJGVpCQShZYnq-y9QhERsEbK3o89nN4kUP9dVRP9dU8xLktcfY-h1EvjlCfr_SKJaZkghQwEtwcDnTWl4E8iF-1BumLsvV2x52Qr0mikFBZQu04YT0iE6uLsslsqB0_DH9urGoIY
+      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcI4O0UMfoN-3UJnbedMTPCuxr6Eedwm3PwbVRtjtfMwNqb2ulWFiGxY2AsBPgE7oVKLi_UtBMyoA5B7fSBSU7Gwbcpo99YzdwCzK2NbXyWqjKXjxUdcGr2xKxByfiXjnYbhh1w7ANcq7-eDVwhovGrZiwCg3Z9HftdQcbZCpRf54z-HMhN39QsELEMgVZyVZ4_hAuYF21RV9XRO8hygZgo69YHvP6GUoMKH7aKoMN7ePBRxzn2_FvkjLriiPDkTLwFTkj0nWmTQAPxYBzqJoDO9h7najYQVdvUxB-udXPQ
     widthPx: 1280
     heightPx: 1237
     authorAttributions:
-      - displayName: Kenichi bento box
+      - displayName: KENICHI BENTO EXPRESS
         uri: https://maps.google.com/maps/contrib/116656233190826037524
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUe81GYuZVyuCxFpCHZftU-RKVdGyMy4wWYW__Bd5VnlcdqYQ=s100-p-k-no-mo
@@ -91,11 +91,11 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMKV6vmgQwouDFmnwgNoSqWOsOgwlVYqCECLM8!2e10!4m2!3m1!1s0x795405318c4dc855:0x5912f21bad778576
   - name: >-
-      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcKJUV5dfLXixGTEB4h5kfNLBeERNMRO8a_kuQILnLoCBSQecjoXeCKJHt5AeqcNr_u16n4ZFNZEPeJIPLjflskty9XlFie9qmMbUH3am9Aa5EJVI7VJ1QYYvFtjnaJo8tbdqnTt57lkAv6HbxvnRahIhR56o_e7rHfwQ29tP73Ns2ThwhG4qhy9eQTBmR8KfOYmQOheBle_pD8U9OOUoDCRxIcvUe0g1qk7yF7-nUPQuScJLO1caGmKj-45YLlbHjOdbfq_ZhKNCLXCPho-U6dQCHyPDxcAQ0_PjTUhHWU
+      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcK-iYFTNGK47vS6Q8Y695t_nn3zUXGvFxYh_gJ6w8TL-UOfn9MX1GiiijwGhHN5nxqfjygu4Qso8sbIeXZphTNtN5-PVlKSnZjB8azFBEqYvkCuNDCnrTaCTWoUWh4YnITOndVGq-mJMlDSA70KdM3TQXdsSJydDHF2yBvYsVsVoX0sjGFo1ZM3HsYJ8CW9iOBQZv9ShMIb5aC2ZcJnjtN4NV6YyiBBgEbfKXoefS58mM2eK7IALZ3K6gEoDeMOL-vd3UR5_hpsMk2tT1wEGEdLFnxfYbwo0pzEuGxMY0M
     widthPx: 1173
     heightPx: 1102
     authorAttributions:
-      - displayName: Kenichi bento box
+      - displayName: KENICHI BENTO EXPRESS
         uri: https://maps.google.com/maps/contrib/116656233190826037524
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUe81GYuZVyuCxFpCHZftU-RKVdGyMy4wWYW__Bd5VnlcdqYQ=s100-p-k-no-mo
@@ -104,11 +104,11 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMKzM-HME9Ea8-QqxMgBXaH_SDQWphYelBeTxI!2e10!4m2!3m1!1s0x795405318c4dc855:0x5912f21bad778576
   - name: >-
-      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcJWp3AudLa1AV35JYPMt1xxDiqywdA2ENVq-jDfXubPEqjs67yDkB2aRNDImJrZ3Zyx1lC_5MscfkHoueSOdLYAeeI1T66ElboVjwWucrUHA_EXpc7jfazgTLOM1YHDXkKWH_XFtU4tyYtHiDKmpqFc2BhTZOCvpGgZo3iRI8bfJk0YO4p6TxCO1FvV91BF8OhZthAxbW3F6ZXwSjXD4KN91AlC_PNk-i22mdQPKOybxyw3s68S8DNG_FneDXG8_niOrvmRyQJtMWf1aJcUocvc0vOOpb-_kYzURc0gGcc
+      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcIR-j7cbyJQXBL5vaoM5FGw6z4IbJ4w6bRZ-dQ3WLSX0GKV3eebNq7SF3NTR2ag2_eFJUNvSPb3cxPiQVBmugJX8VqK9TtU5LAuMExpbYTb6qu7JI1f1bGh1U0pBRDm5_kXbMud_3_ks_zBc3-O6u0fWeMUFrkBK_7cGd8TTSrlEAZl4xooBImXHyi_LBDDZ1aoI9T2UvfclIh77vbY3j3OlyvLBVCVQaq8QxV0RTQC5__wW7YRoctwf9QlisQoFIy_o1WoU9gcJcrpF6en8T8mKxVj2t9QhdnjbAi4U6o
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Kenichi bento box
+      - displayName: KENICHI BENTO EXPRESS
         uri: https://maps.google.com/maps/contrib/116656233190826037524
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUe81GYuZVyuCxFpCHZftU-RKVdGyMy4wWYW__Bd5VnlcdqYQ=s100-p-k-no-mo
@@ -117,11 +117,11 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOgcJOcHxpzCn-544kv4aF95EQ4zuzJ-ZIB6Us!2e10!4m2!3m1!1s0x795405318c4dc855:0x5912f21bad778576
   - name: >-
-      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcKBqtZhe_kDrAZwPhXzuKggLK9gI4FeEr1tLHDpukGOGLyMDi65ys0ite4ebJ58ft86uIlvd9sGE_qDA2pvnTI4Z66X8WBCjdoY3pFoQH3vO73tkp3_zNDUF498dNYLn-4Qo6GRDcjKqUzlGkxUptX7lGOgy6dmyX9RBJZZkIhXg7OW1E4cfXWRmXzDjIw8xBorMbGhh7nPH0ZUQdtXV82p0MxbEIC4QzTiVwB74rGu-762PCTajfvxe7QQJlZwkCqKvzhndxdM2xp8c5F0C8tj2f_Z5hEmQWsYIdl1J2s
+      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcKvx6dDXqUcWzvHnbJPf5g07SmyMsVNCZ4dEzY5_Mz9N3d_2q_0s1R2Wgm9D4lnKWprQFeOZhGStyXNTrDJp0WLTS0ggiqIJKiQ9BGUC8hvaugmOVvhdsu4Qa9w_WFSAFUjqfDPrYw8MKYzddmT5J21h0c5nL_wCwmjnMMO5yNp8NE87FI0WJyzgzXnVSrS6HfjphNUs6zCFZsTW5rQT--AxBodc4QIZaZLCUnw_lBJ1xmBsDhgqSiLjPzSDuVobrzw_sDQpIY3dhQwSGyK2it5UQbM9gMnlIPreVHtFlI
     widthPx: 750
     heightPx: 1000
     authorAttributions:
-      - displayName: Kenichi bento box
+      - displayName: KENICHI BENTO EXPRESS
         uri: https://maps.google.com/maps/contrib/116656233190826037524
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUe81GYuZVyuCxFpCHZftU-RKVdGyMy4wWYW__Bd5VnlcdqYQ=s100-p-k-no-mo
@@ -130,11 +130,11 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP3DWmRQA3WrrgRqAKGV8WZDzsqF4ihhXmkJiE!2e10!4m2!3m1!1s0x795405318c4dc855:0x5912f21bad778576
   - name: >-
-      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcK4hAfOtYrl1gR71E0C9ProcruSjoaaUyfKG21Ox_Nm_aS1yAljYzZhUeVsjAL2IiMci8AZArM7WD9uXVEEBS6U2EnqQsPjvRv6eDoUUZhaNc0fWTRvgD2thoyyvK9yjg9HyHh6Fp9OwUJcvD8w_5A3mnBAwEZHb8rsiEf6h4dZGzdw252ezMgM4H-TMKHtq_zQpLB3sMAUsMqlik9Skxo6IfqH7ipw--X7Nffs8iz2DQCWHh9wFetJanKlhpDs1h8zZxxsxGQThsmdshyvcMmtsaT-2X-Uc33hsyH3ZPI
+      places/ChIJVchNjDEFVHkRdoV3rRvyElk/photos/AeeoHcLn9v_LqH8iPsKfqZJ0-8nv7thVYgYDTQM5uLK2SrK19pxCKl-ISZtdggl0do3JbiROAAgvaquMTJ01V2VTldzBDTfGmfTTXvMg3nS-RBm0pqwtv8p2-fEuhwZmAbxjJN93rK8jkkn4m5isnyl8iI32mTogEqWoO6NCZQpcK3Z-85bFN0hj-mkRlIGsA7ylzmyoJsHHRI24tR6f9liP_ydoSBp9iTnlw91Sdlr1Ps0MFtoG9IPxMVgpbkVvjuVB78DuacXL_QtY0jQ47A9-Q1eBqPXy0dEL6GKMNK1ByjM
     widthPx: 1350
     heightPx: 1500
     authorAttributions:
-      - displayName: Kenichi bento box
+      - displayName: KENICHI BENTO EXPRESS
         uri: https://maps.google.com/maps/contrib/116656233190826037524
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUe81GYuZVyuCxFpCHZftU-RKVdGyMy4wWYW__Bd5VnlcdqYQ=s100-p-k-no-mo
@@ -209,6 +209,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

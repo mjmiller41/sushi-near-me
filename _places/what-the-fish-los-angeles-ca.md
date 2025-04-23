@@ -13,7 +13,7 @@ description: "What the Fish serves delicious sushi in Los Angeles, California. T
 place_id: ChIJxZTPQcnAwoAR8fOdMs57a1Q
 photos:
   - name: >-
-      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcLlVusXXYyeWCBlBJF4vc08bUNgERUgPUshVn2O0hKHEM4M2Ie0D_4B1CZn_9IlhamJ9kz8-dYiP9o9Uf84ga13SnJC4t75w1fJgv1OCkHAWhPys_adHX8AARPqxPO0dxovgqbLVvOBND4VoojzOpMQQl9NLC-neVZDAhY__knLB9JBZ9KjmStulYMPaaMVXTcViKp4PFJD7CDlCTNQ2iVRP12Uds5MuSL768lRpFDs5jJ-NehjsVUOfKgyFZ2u2tN167Dz38kGMUv6qqFeQpQFydbZaWBC3Qg50WqZz-vNxQ
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcJvuR_ENCDSR85JokHklTXZRHA7WOcmETGXe5cnRm8jd1nAR8TSVN3AgX7HR2jbpQjUZQvcrVj3nxxJrooa8t_TI33wmrJgAijbni_sDFWxR6B9dtibfHN1viqJo4aRfn5B67bXVvBsMqL-XD2ei8Lh474nYWeD618R7ZkQu97_TDVRG-3k_JUHH4QHF1tVR2b0ior-Deu3hg8FHv842a0fxCavHp4whUrgWqVQ1scRPFcJzasERlD6bQTh1hQ9puN64n3vN752QMnsDHeaZP1jnuIOb5W6CzEmOgdS6QpFLw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN1W77ycRX2q1YF0dYKv9SWcskSYs_wJnNMXyxl!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
   - name: >-
-      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcLuQIszYszZXp5GrUXPAFFoCyeRcOD9GFjG5ITvSBjBc0sF_wehhuUYpB0VIo7xianCj5Cu4KsLZml9QZrly59FcNhLKSdwg0QjwmRscqj-1xM28TO54SNIWh5m-TAXxK8lvjzCZTZojz8hJuQfeEm0_iKPVtRKSSn5l0Ta1t5Z8c4gnuMjv665DoD2AXw4xSZCfeDNSPQOiKWRjhJZDh1kQJE7jt3L69eG8xBZk9u9NLBiLFh_bYvN0wn6RoT6JRveueJnifbXnYUh9pS7miSmZYgPp3xNv0cWknN-pD62nw
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcIr7oA8yB4NXGo0GOtXmlRZsBeAV472zoGAJL5cVUhTEcc-rZ8u_sOgXcT8vnZEuEwt5IMk7Oo-h-3_pLnQERfeWq4khv2dDMNg6HojoQ7ANIFwfq8NIJdevGPF7sZ3LtPMzHB0hFyaHhp0wJmU3bcWvs_oWaMxUJiRP4pUL1LiaSSqZkgpM9ZVxQleIQpKsDQrIZOwR89q4AgaHEIzH7lrHkoMIttSbHpMSvjEo5TWPSYSA5WcwLc8kiwR2Psvf7JFIw_U7Hnz8qpPzYhWOC8DsIR5nH-9AUy7V7L_t-OyyQ
     widthPx: 1178
     heightPx: 664
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMyNGWABtxU-RfbfhYOgW5gGf2RcAEPYTL35yfr!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
   - name: >-
-      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcI6HXb_BfkMkzdAB7fvEUmAVwbvOXq962X0WcO3jTQe9HFxSXjMFJvX20SjmwOe0nhbEX9xvjqvF-6oXQ-TgRx1AztcO4gVESP8i7BA-TeJIMJP_Dl8T-nT0dMI_ez8A6bWSrceI0zGVygqgud24Q-YU2Sz-eX0fJmc_X3fWcEQ3uWf5TrCdURyBqzW4g1jfK6NpWQRbE1H00-YslFUCnrqUCZ9vpRyezRdk8HgVvE3Pk-s0uPP8iYhRL2tLBNwEtunBFpnuBi0y7hg8FF0nmjUxGQhz6Schk1gydF_ijzxJA
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcJ1bBDm6vknngyITz4V4QdlQ8mnR8_JQs6-xSYJ13T1pMn1EhUne5X1znKhxDCV2AyfbmBLiej4eTIL4l6uaSZTxs6AjjQTcFne7DAFlGrd498NemvSmMPpQMJTT80J_UAk6Sy3NMCMFm4CyMrz0p9jdkwEzLQd-xaM8b1efHAXszudI6772jEL1Ty267c1wPHIL26ZKZjESdwddzRKdCIrZfdmJhGxdFPw0Mt7Z7mE-peUfL4ff0A-LCeBkfK_N1_y0Yf0fuy3IuP_j6n58y5qXeX3JiA7XDo12W8M3n2BvQ
     widthPx: 1179
     heightPx: 811
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM8NwLcnPV_C4X8uN41lm-uXHE0OpArRQZtpuVg!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
   - name: >-
-      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcKtZKxh78iIi8b60bKSQVbHqKCaI-i5K7yvJukAnHc5Cn_U7-lkWnpOhorlWspXvo7HKq-t7GayqF8cbBDJkR_5PVTEv6LoITKrzauIZsqie9LyGO6gT2sFqvsjxF_7_P_TcFNc3-sGsTLg30q85ShAmaFDC7LOzgFhg9tyB_eM2vhzWGd26mmTF29YVj0UDxi-o8Hp83C19Z1j2jKIGbZYjIPikS8A-OIZl-1uNK5qzT-Ov54zC9k-SPdExsokJ58d1DhzJCpQM3kciKtuqKgKksFZ7vcGlcXC2ONCasxW3Q
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcIjWBMFx9Lj8pnNiFhAuhzSk4qw5R9IFW5w0ojFZXvEOo_ptj3CPzygR5rFBBmre02D9bcp8uTdcdCqZEip5fnNYB-K-Xvvf3JZHtpQCUBbqja0vUlQNWmfuykQpPHmGbp4iWNeO-bK4ohq5qn1yIsW-sp6eZqCtrlV7NySCLqNMzR7pm0YAj6PqWyJ5Rw9HKXQWR_IBrbT1S8XBtC9LQp-pBNBecDeKlI7x4Ro4w7IzE5XTZusvR7bdNauzKC2UJvChVvF-Ws5Lyhnx-IUuA5dLA4iUZ5_T7ZJ-nAcMVavZg
     widthPx: 1179
     heightPx: 646
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipODWNulP7gzFDX21BsEfoCGYdRJZiHifhVdkdMj!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
   - name: >-
-      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcLZNo3HRVlwbdLYv129Tm8H6FQEX_523kCRV7hQJVEqUFggTqOIZbTzIYl9x-9wd6EI0SI2DPyEk4RG6MDyai0-iJSLnOphXIbOpprtuIYCJUGi2grA-f04CZE7UFulooBCAYxI2rURJxE5wmZaDbTjKp0c7Cs-LO7y1Kb5pX2JISw_QCNV7mV946qL-MXqjP0XMCUpezz3uuY4ArLljdZIo8QCyOghIa7CdwCUTToaYIIrIjdKxA7brQqPLSAdoJnNjY7ubivOO2TrLW9VrGigxhse_n79_a2T2dgKc4KMTw
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcKXdD8QnFXGzLjXaZ8xfyP4i7KjbpFj7MCBcXhBKwyZjODOjDZM7Nhi-cTvg39gKUcNhLbBMXGKscJ8OJu1mg89a3EtkLXhMvPTIBWRFudQpC48v_jaz4Wx9Ij_3MdhvD5KCJHwvx8HXzXpTUJgjvu59ZMWEA1BglxxG4hrGTFN2F1qsRVgKYrBdfWwrUBv-2El0XG5RAI642TQoEHlp1zqcVamZ-8AsZganfMNmjlqBmD8UjqGqrabSdNKYyphybUvE28EZ5DgvaBjNyksuaYs7AtOh-gg3t1zJzgp9QxWJA
     widthPx: 1179
     heightPx: 965
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN3bde33vKHr7TN7h-yggXrWy2U6hisUo3-tqay!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
   - name: >-
-      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcJ6kqt7PUiLWEGATunzkMnQLXOv3u9hua2_TVmQ72vn6wopsviRviqLOXkwl-r49qJgIY5iWgJQLUB_zFsjH2yR25STnGsX9jADm5RJcHPsTlCgtS48OMkB49kzcfj33Gx6ol02ZCB6DjbzWtbv17wv1CR68Bftxqy2VqTTysEIGBRhBK-9Y0au3Rchb4mZFiwXjXPoxA8a8qbrcLrse6BY54bDS8MOdnoie4Tz0ASE6JimPo52nZeGj7oCEM5UNr_qA7dYHsLhGFh94ghltoLRGxcBPPOe0MNyfFUzfC199A
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcKJP4ekOfFHoL362k4OeOLsEZvS3_VV6v4SQTc7ulKye25OsEjtenv219FkBfVzGTQ6DsEgO7_CULOCmiDmEEbQUip-yAu4x5gn3yKUrRRyvmhE5UGg326bDvLiD75NZpwgnZuR-uCLfTyZLRxzDNSsTQRHWqTEI-Ojx7pLmizRA2TcgfuVtUkdnUK-kTFgZiQYZEkOWSZS6Wy7z9AxaUKnJd4VTjTkZ9fB9FHcZUBKexqcp27kJPNI6rk1_LgHD6lIRG9lBnUsKTBMGexgxTUmVJbhgW4KTXc7kadPSuM73A
     widthPx: 1179
     heightPx: 813
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwV2EwBZni3CxSyuHEyIVl43QUQ9WDs2q4CSIM!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
   - name: >-
-      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcJbfBY7K9C2S-WgB0Fx8Mmm4IN9qKfdWGfKEMNrv-2E7uQ1JcDJIGuGzR3ZpzKFFp7sfUJ9DXn5XpW9qHGNmJgBkjkZ1JHMaF-2IkKT4Yc2OIA21935yp777tFSJzYsm0fpjuheTlUr20z93ZHXXJWHB7CWJ5-Oi0lFvPK1FfJGLKIjOR1rBlsjfREUPD0OqL2-SaK0YLB0bwhJDwRQgr-yHEl7WOgwG0VM3xU1jZSdOMy12G1o6B4TOlf86zUz54BnYXQY4yYcJ9c8cdcRb7eSn79-abVM05YzgNMY39HYYq-7_Lb6-KD1STZq1Kv8SX6DN3E7PDKhBPM0EiQCU78p1GoO45NlPcmSf0w2oYqpFI_Nu21OyNlRe2HEpvPdnRYm_jRgg9DMTfAzKtNo04X0BCJ_hwLjx68L9eYKsx9TzQ
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcKHsOuHmNPi8bfE7xmhFIMAXZWQ1KSIBQ6h_tf9qXPoQlZisj1EL8xYA85G5VqxaBcpCUFluZHU9hkvEE_7Xy32hXZtvn1OWoH6Vhieo_Q2LOXWxXPS45mrnikQ4Nx2WzIwtxv48vvR_c96x1nkX9KDgWj_gg4q4zJUo580sW1r0NHIv1K147XpjrAUoica-I9v3yt9Foa_P_xWr9WUWqv_hqLE1ejGEHW8pqn_gLx3JrgacQuZn99EQA_jeY4reO3RnKuASAQSYPn_YPOrNHPZgjB-5YAzJqPQ8sVTr4aqU4lvE0fkGBchyJwCRBALZz6JRyhIflNZwnhrqkMzQWTIQwZfL80qTPS3XBqmkqwE4FgZnmMJU2RJ_iw_51EcsOiSgWLNlKRxgZw6RYTSBOi9WjxBV3BnJsAY0y_mJm7mxw
     widthPx: 1512
     heightPx: 2016
     authorAttributions:
@@ -104,20 +104,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID75puuXg!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
   - name: >-
-      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcJeYeAzDNP1FhXpEVMZUsMQ5xxlUoFJb3-pXKk0QyAnN_ltzTqsya5DciyXzxYvK6tdCqvLHlJmZ0WRd66BWfjvq0zfclqnCaTOoZPmFU5_vk2k9IydoOG7lUXLECV86b_tuc2BejSRBhrrnkm-sLnsaq5XwkRfL7jy14NeI0fze9KpV_s5WYCJgqsoVbEswLbahqBJaRs7ihYA45eFl_u3VMW-OYdOXYveXiLcIQasDOxlHsfWvIGr5uZLPs-6xS7px1T3JCfSwnFTCPHI2E7J5UsP0Xey_LqItc_1zEGNJQ
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcLZXaOYkZE9BYY6fPJEcdg99Qu2xvNDZAm_V1rcjLTvsSYaE3HjONseIBjpceCziLOZn6Y--HwFu1ILsnXlosQd9kqIP1nE7VJlsmEJmI-FhcRB95Yt9GjauzHVDyVmDKkf79TSmDWng3qKorymKEaE2Ul5RM0Nc6RejCg-hP8qJnwKBLRTQB8-zaZjYZTiVDDg80ebK0oMUJh7uF2-NvPlTD7djMKw1IEFckRDjMbRV4MeQz-TJdveDadA-zkiIJOPNnD8zrv6bcStVa_7HJh42CFqyKM9gXmAS1pzNmlF2A
     widthPx: 1179
-    heightPx: 640
+    heightPx: 1251
     authorAttributions:
       - displayName: What the Fish
         uri: https://maps.google.com/maps/contrib/115465930507583483377
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjUQiP0482NenOgA25e-A5jB3H9r48NMJy2bm0jiaftELUYoVIt2=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNDfXR2OgR1SrCZ32QMaJqqgQPIH7TjvYnF1FM-&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOvsulOK4z06Ieico7c8zUC6LZku0sYTO8aYUJv&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNDfXR2OgR1SrCZ32QMaJqqgQPIH7TjvYnF1FM-!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOvsulOK4z06Ieico7c8zUC6LZku0sYTO8aYUJv!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
   - name: >-
-      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcKiEkwKP0ve-qg0Kj2DbGtyIAPYFaqCr_iVtyEa-wb-Kt8_vylwB066_Gr-00-bx0lKr8RZ1fVCG3ZyLlvBfoy4-1E2waoNu8hHDhZQCw_stPI8C-a84h09Hll1HBcMugBnUhD88sWvRzqwIvd66OpbdkpHyboMZzetz3ilygAAxjz73tcFnpl5d-OLI3Lu6XDnYZOBz_GXCFjxlxZTMr_W0a-wyzI6fs5iFvJUmxj3wwsJ3rusx94ou4w2MGkW7nuCjWnKiBxTF0Sc4JOQEUUsJJoOdct35EAoy2HHDffYrg
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcLndujm_skyy9os_1RH4_EWd833mIJgbdnip9KE_0_SMLuEj7MzSR8wrmi6YTAxfh_YZAwe8Rp0FLQQwWwVzyxgL8smjPfQUXPn-fERoqmE303Q6m9sRtt2AQfxLiexB6goWMK33R_pgH99JBw4voBYOOqdzKuc4yNLoZD_gDoPWp3LS9PiTvooyHg_ErlmoOy3pFJs9tBbKRbriBdVKjDvTSf19dqmQPyqaCEL_lXZA5l9LOqt0BgJksm42p1_-ZISKJw4ijcMVB_ClmsEkA5l6WzxR2zhS6hvoXXGRMTcTQ
     widthPx: 1179
     heightPx: 682
     authorAttributions:
@@ -130,18 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMTrrVbvlm8dHU0_nRf9yb8PllnFDH_ZZb24byg!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
   - name: >-
-      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcIehVDnSnpNhXNa5oKfUxVm0DkJv-q7WDZcPXKqmN6UJQNhHz7CJHUzcPuySU9noaJpP3S29JwxHVEJyoptYCZLPAyQnbx7Ig_Ed016J-3-HkDplA9qFOyDtJQU6J6-JQI2zMSQSjjnx9xFJLm9g8RKxZzE6QpgMfNbVyMjzVGYPGiz5BbIBOy-iQiRo28qOjmCIa2S-OJsIW_uBdPgu-WyseSExvd5EWnRfxjMYcg2yykwXsTiPzmULvVHJuHMX__pCcADLY6OZv4q0n6CD5lFMSl1biUnDpJPYjazsI2RTg
-    widthPx: 1179
-    heightPx: 1251
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/photos/AeeoHcKG0AyRvuyQWwcargoa4nTAew0Wj61ECO_8Xpn__3d8uRXiFxwqRGNL5tedHlP-lC3bh5EuMu9BzdH8QeVkqZVfPypvcOUrm7LLy7JogW5yt-0q3wX5jiFttWo2chLVOlrNS9yuAY2CvVvEEUVlVf5f-TrOEgzP77108geuYjsIvHSJCO7AWQUL8UcyZDy2N8sffYKSegfmts6B5Xqmt7xqC6KAGxxL2Va_quQmoWPAZFd8I78whtT7itcF1_aauZv5kAswIaOcfmnFHcmIJ6ppqdX79qebIN7JjABzIbEyR8cZ9sMHwEaNtk2Td6vUf3pmuvXvO7-yOjECaNQ-dhSKLk5UISFGkmBhw0-TUBXrCWyRERIdFjdM3r59fadliBCt9yGqhmvVfbAEI8LQEhAf-m1JcoHnd2iaNwgiWtkIPg
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: What the Fish
-        uri: https://maps.google.com/maps/contrib/115465930507583483377
+      - displayName: J Fisher
+        uri: https://maps.google.com/maps/contrib/108705266806188198074
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUQiP0482NenOgA25e-A5jB3H9r48NMJy2bm0jiaftELUYoVIt2=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocLEdHBdu4iOSlf2GujQMZH10PA7h_9enDTC-JqukGcqHA3zvA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOvsulOK4z06Ieico7c8zUC6LZku0sYTO8aYUJv&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe26XHUw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOvsulOK4z06Ieico7c8zUC6LZku0sYTO8aYUJv!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe26XHUw!2e10!4m2!3m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
 address: 2804 Hyperion Ave, Los Angeles, CA 90027, USA
 street: 2804 Hyperion Ave
 city: Los Angeles
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
+  current:
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (323) 284-8442
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.0'
-rating_count: 178
+rating_count: 0
 website: https://whatthefishsushi.godaddysites.com/menu
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

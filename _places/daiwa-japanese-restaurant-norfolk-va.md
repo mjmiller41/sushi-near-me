@@ -13,7 +13,7 @@ description: "Daiwa Japanese Restaurant serves delicious sushi in Norfolk, Virgi
 place_id: ChIJocpUnqObuokRiUa-HeIHxno
 photos:
   - name: >-
-      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcLYDApcD98Q3fkUFhD-cboPEdMlw_Lmf1lFmTNb6Ln2eMQFYk6GvOZJfXf2B9Ih6LCVpKPuG2ab72Na_ZuBtX5HjfgLdk1Sd96Q5RHcIkY94DURwBQ6bfgAkCsPngaY3BhP03ER7HAtHzHWNPxGGdqbXXIocjqhhu1NihZo25NDJJ-Zc-QR1z8ygaL5mawVBwHYxrf97h2T18Gln_zZVUS-lh4cG83Da7CQ2BHMMKlikpJS5sLQgqcDMJlG6rRXdq1fwCv1fJVtR9FGiGV1Dn74g0m3OsVxybIiMCTPfBrGfQ
+      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcIGdoHg1jZFumIDIXy6FPHMUgXLeRK0kEuVJ8dF1WxGsnibgVsCcZOHwJgyb5gPjK7ownyWKe4hIf_levWpM92xQdpsARUueyG7FCIS1itLBeg1vPiomg6M1Fw2n1TYFFsr8fQMYXd55Fw5SA56eyUQmP402RLfKeA_rs5Ocl0RhC1x7_6wxFLQ-UW9b4wy2N7K066IFBfWuoKag8FHjEp17J5V4HftrLLlSAmRQClbKAJ7bmvt_pLyBK9uqAUemLEbQN4XUH64n9utnxUtzH8UEJHIMflLMlcc6RBXIe7u3g
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMNIUOMfYUnxzkBIh-YzxiQKZxzLfS9ruVRoSDc!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
   - name: >-
-      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcJkAnCl_bA7vt-BtCDiT1wrdhcuhp-1B91EORBAxlfAJGlPYbfKwqX4vGpVF4YKh93xgCHXh3XGezA5xG04TTpoiEqGjcHe77V7ixUrMfz6AlEgYjncpba8K5ch4EyO50fKFHbbKi1CJKvjNaarVm7w0OPrUzI7vpRR9d6mEhqc5hh_dm7525VvZ7dR1m37ccmfm70ELSGD-eHPJ8caxyqtH7uj1qrdB8KgZaxiXV8W99AlZ-DgTPJJx8B_BzunbqQ_sVpyua7TIhuqTQAgjRjs5b5cQOcv2SfvuXF258tmzQ
+      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcIY1MsZllIC9uCDvgViws63k8nZ6j7VZH0x2yCyT6mMd6eZF0xVzY0cI5eXGf0mO5LlGsGswTygOz7bIZErx0gXjUsXX7nMJN2VJmrJfYoSbQp-F4Iu0uo_t_L-rCbch7eZ_c_vCpzwOeRKbmwUdxm6dGmB5U_ON9LkN3LSEUTg2Bc-cRpFU9NmRbMPWfetE5yLiXKlQQ4ttejajI_R-Ct3YfExjcIKvEPGlELUKIuEuG2jEwdf4dU98YECpwxo8W1I373TNkTNflj9mXSPZXTXw9iGQg9jGrNvrA1UiIpmTw
     widthPx: 842
     heightPx: 587
     authorAttributions:
@@ -39,20 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN41tgbi_EOgswQaCZ5eirqfpMe4OPWzyFcFJPg!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
   - name: >-
-      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcKyaMDGMk4FcfmbxhZ8gUsKOO5ce8epOLioPbrLE5At6Yr2O40dak0THAQKmp70O5H3iwbmMSnJkjeufR17Z5JKLIv5kfFoARk1ta4T7io6N9V4_No5ykQkLhbmfBRJ_SDvfzrjL37Dgbf92QSO4l4P5-JNw1A_51RJhtoyFhVrL5GNzKMBOY0HR6ixWe5tUSQmjJ-HK6WB63KOgclzx_ArWwsTJHCtk-Y5dYPaX9CQqBUKP1nCe2WDegnUFrVYRCSqp6WU2bQZriA8ykOBRB7JBuged_aJ11nyx2NsA78qcY5-ayh9r8cY4I-MfIKpuV_fIU4rpz7NEpWkiDV-lVtVHmQtTuU9ZAJo8LLuA7HKlPOx_AQ_qHTUExUJPrvLLVtL28GT8CsSLeGgls5ULti0PeIXFcm85ozAIMYflzic5g
-    widthPx: 2992
-    heightPx: 2992
-    authorAttributions:
-      - displayName: Aaron Eitniear
-        uri: https://maps.google.com/maps/contrib/103213672099189170399
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWNoZE6eCW9H7o1qti8W3aZRT503O8xKFvFm2wZpI2sgIdZ-Ssdug=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDqaWAAQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDqaWAAQ!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
-  - name: >-
-      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcKg2nEbdfF-u2pse6qJ_Q6b_HSLvwlJe4qRBX11qJbaKAgVnDMsYjQQE0M-IDtO5lMs0aItX8J71y2at6FifQSpONX4-LCViYmHzd046E_N6R6n3Q1zkgv5B83yAi5LKlQ4eBQPfFuktt7sAAnfQLfJ9CDTvzZgOkEV9XaGC7nBCuQpkALvJJJc-agRiOcHvIzRfE3Jy-FwvoTOoLNgKwnDxbn8umTFsTlVaK86zor2uSxW-5DxeR6q_8490o1-wJOvpUal7PmZTSlxZ-cV6EBvDmxbp5IAR3KNKxfnuXisJFDqGJdfRBqnjkXJgRDMtdR7ksJLROiZBAOOJEr66_R1mKq6AeR0MmNl1URmaK8odLTU5g9Mq0GI-V99M6c0rPULSzCr_GCJrHQlvxhZwP_twEN9pefYmk2gO38dxXT_yw
+      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcJzpal8yqqxM5gMwKME6GrWwzIET9CBrw8qm-NQuCuboYcpubteraPcKyuBj8mHrcDfcyMAQ4Fu7fCgBPbghJUyKo0fQrGZI4uW6662BVYDpSRTuRXdQAVDVN6-IlSa3ireIQ1EXVKXg1wcaVbu2G98325yKDfkVNQTGtqHE6Z4vIR0J9gb5Luj-4nyIWLsq_2zu343QCOn9TykwYGI2eolehbNacfL9f3oHPzlxMHCoGCFkqePsS3SgYXuq-FmtaK3lLsCOocYeC7a-NstrC8NURskprHN4OO9ji50BHEsM8H10znAhV9VJjBc_if9w8RucW6fCCETWhC7gv0Oz3ju8El2ciWj0qRM0We0V5NWeAFWPUCSz1epHZc91bTLfO28klYUXiMa4QjAi4dJ7uV42XAH7H7e9g3mGTSTuIv9Hw
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -65,59 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICH6ITTfA!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
   - name: >-
-      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcI-uHVgHfcNdKaof956_8xwX6beS5uA9JgqUg1_J81FVP_yc0oH9S6f925SYxyLk0WqVLeImFh1-BGP_oWPY_AtVw4V1vyZrQzNZcSGGGy7t01c4PVWTh9X5_XYdqnwOeIJCAsfy340ZSn0Ml3qlZtmBzmPoTIcJLwyn6sX3u0vMoU4PPJXIFRcWwIWDIwX1jXCWCEGetBsEPc0Iv_jQXZIXv0qDiToPb5DuuVYnwSf9UfppYOofNjiFQiFs6rXeVi2rWWqwxRwznc2cnj8wpGkdoQAEz4Q7XiIwNx16vBWkw
-    widthPx: 1279
-    heightPx: 1706
-    authorAttributions:
-      - displayName: Daiwa Japanese Restaurant
-        uri: https://maps.google.com/maps/contrib/113280686868546487687
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX9GtlAiW_gvV4sm4DYydBlQQ9S4ynmNWnZVJMQOf1NJCVfLNk=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPc4RZ27akQs0a9jvpBUJ-IAsS0d_fqdNlZMKyb&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPc4RZ27akQs0a9jvpBUJ-IAsS0d_fqdNlZMKyb!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
-  - name: >-
-      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcI0lVbHaQDQj88O04yPfkqE8_516I298dS9K_C2rOu7rmToqD9p95PqQsrCYZ2nAT6AKZHh0-xOOg1ZbaBUeJ3LQGvLu6_ElzDtiAEhUctO_1ndwok91Xk1Hh5_i9ByyjD9pH4vGMwRKOKXjNFjKZuSb_HVOY14A7PTVO8WyxUyi-9SYGT-EJt1k7zowgV02ML8Gx1Du-s7jVkbYGETg_IWb1NHnAtAwRLt95Hpw1JEu9ZLBlK7-VTfA7oF36ODr0wqjcdPnUjYyAQSMRebCNcfAJAe54ChpjKE5MhovIAiBA
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Daiwa Japanese Restaurant
-        uri: https://maps.google.com/maps/contrib/113280686868546487687
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX9GtlAiW_gvV4sm4DYydBlQQ9S4ynmNWnZVJMQOf1NJCVfLNk=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPJpdsbCTzWWA35BLCzMy-Lbu0PHa5voKwp9p9r&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPJpdsbCTzWWA35BLCzMy-Lbu0PHa5voKwp9p9r!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
-  - name: >-
-      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcIe4OYcZSh911oT_XDdDB_WhBAl15_FGK4hBCs9hLBLX6ReBSdKg7e935dL0oov3TFTx15MGUipPuq124Y7l0Ik7T55Ga7XQTLRXb-3uQLlMdiEmOI4JuXU2Zgk1dNjMQ2PgZlHm6rfSyqvqZHyuDwDk4Cg4hIfuLSgzVrj0ipGldhIkkM0kyqK2RIc-9se-OC0I4RuYfsmmCH12dTncfTrwQgD1yeEZ_AR8vNAqq0zoa_N7TTr5m2e9C49t8nR3JCPstHJJ121imLaxRq5yZSm4qfd_GdH0K7HqtAcFhJkbQ
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Daiwa Japanese Restaurant
-        uri: https://maps.google.com/maps/contrib/113280686868546487687
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX9GtlAiW_gvV4sm4DYydBlQQ9S4ynmNWnZVJMQOf1NJCVfLNk=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPxUbIbiJmQ6tmpASXoC-WBrwUe1y7CSFcEHyM7&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPxUbIbiJmQ6tmpASXoC-WBrwUe1y7CSFcEHyM7!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
-  - name: >-
-      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcLYiSaJ6TtLPVblj76WqdigMM2IdfDI464UTmJSvYWWTOvAPRa_1LmC-IGZwjsFYaI6-2D-lgcP0P1BYGs28Kl3VRPSlOcF_dSY6LNQgZN65m8hR4X7z9oPPgFkoVpTRifnL5seioFr3w8S-L6UFal0dj0n1jPXVAJFz1EpJL1n4Mxwet1qbl_6C34Tzx6EZdSMLae7XOLhbfQtI-VAswOwp2DyLAS4H37RBRSPbq9K94OISbPMyAcKWRXjHRu6u9qXMhvW7DqMrv3YM2FYyPKrdwrfjQB6RlvJOVrQNWn-vA
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Daiwa Japanese Restaurant
-        uri: https://maps.google.com/maps/contrib/113280686868546487687
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjX9GtlAiW_gvV4sm4DYydBlQQ9S4ynmNWnZVJMQOf1NJCVfLNk=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOIFjleS1d5n24HPKt1Npw4BmRPAMtwkduj7XN0&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOIFjleS1d5n24HPKt1Npw4BmRPAMtwkduj7XN0!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
-  - name: >-
-      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcKzKJwRqwwBo3DvOO3Dixg0C-MC0zge4ef18Cn882GS4Ef_TVUvf4Ut_jG9sIqPGSFNNJB9ogvdXVSYAWSwgRj233rF44fSR4DzCrRuRsTCwFQ6378RPn8BN1uTPZ-FzNiX1kzuq2125c4GW_mprt5c0dTrwPID_dEiM5RsRjDmmZySmpPJX7_s3lQoW1KUPOdpNHSVQjMRhcnTUX7CbDSblLQ4iJQvqxq5clGOBnNTqRhu7PvZoUbHhgxz4MEmlwYGEdrCgoAlEMTYguq9qUNpMoweURy1QbD0u_qiPajE27k7yED2Zs-BBaAARsGNIioH5c1IOu6baXM-MM2ubBC4LVEf5fMFISQcgngleTVpxkrqjIZiVtwnckkMw9Biyc4SlENYErzVCh3z-U9NOY_BXMKDPrPB3R-mZbVCUSH66HU
+      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcJszfzN7VrJkGPjdyYwzmR069saAkHdBpTf5cb-mtgx_Sn6lXbiYkkYxUE63cLBRbVP2v6SuM26KqTzdffNueXUIOsRtkUVhxLz-CMngNlvz54YlT0etRWWZZU0czIKxPI-gHJsjLRU-5umNwttr-qOVQJhLtZGJ8Lp9rD_a8dnoG2KxYYbM_RW05ByyKo5rHD-3-vLupNq8XN-Ga6wJi-Ei46xNcMknXLMk3sGPeVLme2BDGlKCZkfuWirqP0YVaN630KlgP_viv9AkplL7Vm8JtQ2FDSdlrDN9twrCxJnOCNWA4yb4i7ZLRGGImt5G356eX7NDyY8N8MNXvE9rvmXzHwdk4nQKjW2bKKtghTCL_3BBC9sZBh77kuMbEpi7gubBFVOWf_-qEkcF3zpsJoehz79nHZr9IeWTPwGfh93A34
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -130,7 +65,59 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr_8Gu0gE!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
   - name: >-
-      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcIV-ZC1p0r2nO3JrZJb1T-feUPmxNiY7xGblPuit8u2f5XfxduNSaDsTAIMGp0rslIFrveFwTMeocjgv7QdVw8yXmvY-MedikhbwRnx-dFsgPY7SZEbFHTcY5ZWJtCIKdFvADDqrfubmDFzWG9rhWkvmsIYYkZxLGz7gG_pUC2FqtzCt0isBVrhM1FEa867V43XUFjPl8XNNkQB_eHWl1Jnqlw1NaX6EuvCcTLtQQv00K8VDRrbbDI8ioFK6HAb6BdmlZcQr2YwF3c9lTW_Ke0jYWCMDl9u8bMg6H1Nkxt0Vw
+      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcIkmb47JNikCALsEEYX3b-uY3DRv7TSUOijfpPiVv3DauPMwinNHEpNECQx5cUgx_REh0dNg0K37VEiD2rnIAf_hLlyPUEvXXZAVjxTse0_Ym9-4UfAlmTBPX8e6vg5p4Sm2ROuovqpWMSv2sOUXkG7OPMHxDZJzMmKToQCnAr9qDeoThP8T5SFyaIg6sFk8NCSWmol_-nObA1szPbHVwLM_HXBGADLPnRpck5yb90xgcwyXpHD1xsI0L2wMjfyXx5TsLr81Yvn3XjoB-mbL819wWlEu-WjSVYh0aqQv2MRCg
+    widthPx: 1279
+    heightPx: 1706
+    authorAttributions:
+      - displayName: Daiwa Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/113280686868546487687
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX9GtlAiW_gvV4sm4DYydBlQQ9S4ynmNWnZVJMQOf1NJCVfLNk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPc4RZ27akQs0a9jvpBUJ-IAsS0d_fqdNlZMKyb&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPc4RZ27akQs0a9jvpBUJ-IAsS0d_fqdNlZMKyb!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
+  - name: >-
+      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcLdRAJ6Zn7oTi-652lykT8trdG5uok9pwj21B8qeUNLy2Y5n9SShRDjrlkNEH8j4_GCB1_gvq_HSRQf5qaODS9wOlGmA_TXbjb6gIM5DObbCJEnZGBlwBbUO6ygMll3_cTrgNYEbNydNv_FWa9BItj4KhdX-YznaWCjBPinRq_pdfI_SBGQWM_crXhgirWkr7Tj4ly3TydiXOSN7RqXzYCAqvAujkskey5AqCOorHeF0wO7A2vtFplDZfxmz00ZH6XM-t2Bv_bde-MvxwnBvLYcoV0pk-aBNwJe4L4VI2nf9w
+    widthPx: 1707
+    heightPx: 1280
+    authorAttributions:
+      - displayName: Daiwa Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/113280686868546487687
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX9GtlAiW_gvV4sm4DYydBlQQ9S4ynmNWnZVJMQOf1NJCVfLNk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLqCJZN0tMMeljlgqc8gGAuwJY_vmljjA4GfiG&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLqCJZN0tMMeljlgqc8gGAuwJY_vmljjA4GfiG!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
+  - name: >-
+      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcKlXzd0J906RIxAdRjDFrmM61TTvF5G_BnqTtE4Wijr-f7mfOSIHk0wO7p3kyubNVZNoRsdvIvu-eaDqSJIXR0eMImLmVi8ejjuL6t3JdnCHq5EVMvLKOItQBanbfEBUQK0Z4a6rQNsyQL89uX5sv30Af2Ydkk6Gm4sWMIg1pTOv0YSo5xo37swArz1Y84f5_dQMlfAS0vCSDE0NwRBeM0fZtz-qqCailKbOUzhoRKzahccL-_fYrmMy_UXOlaDMcJgpJZwdt5onCSXrhE4vNsWcFh7m4J0sVUkxaE5m2lQCA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Daiwa Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/113280686868546487687
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX9GtlAiW_gvV4sm4DYydBlQQ9S4ynmNWnZVJMQOf1NJCVfLNk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPxUbIbiJmQ6tmpASXoC-WBrwUe1y7CSFcEHyM7&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPxUbIbiJmQ6tmpASXoC-WBrwUe1y7CSFcEHyM7!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
+  - name: >-
+      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcKAyh-Hfbt5EkDVxetTJ-8pJT8kh68llpgQmNeE-oiUl0QOfM79HdKrSkFB49z_E-zKOgpW935bb6rDBSvzNjsAD54W8pmSbmdoN_1jCLkw8sz3o2MPbgxqmukPVSKEFYjW7yGM4rwTQ-nsChtzPMbob4DQHa0XqnftfEqIaabyM5MOUrWfi9fhZUPIdrTQV634XVcD4Jq657xPnEiXRBNoCudAtIAlVzapGGlWW49I5-LUyMb4vw19LiIIG98wn-UHkcAyDWQID-5OZBrhdgG6QeFMdfUGLeGzMabShatSaw
+    widthPx: 1280
+    heightPx: 1706
+    authorAttributions:
+      - displayName: Daiwa Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/113280686868546487687
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX9GtlAiW_gvV4sm4DYydBlQQ9S4ynmNWnZVJMQOf1NJCVfLNk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNRFnNER2a10nCHRSmGwhg-d3Lj-n2-bl9659Xr&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNRFnNER2a10nCHRSmGwhg-d3Lj-n2-bl9659Xr!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
+  - name: >-
+      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcJbB0jSfYc1ah6VYNHsHhqsDHXrS89FS1GfP3Py_C5uJ5x7HhUulaW7QWjNwKqmzPGvVwvIFOYrvATMLYUYfmxPbT721fa6dVrjhNDmBo7gelYwGluR_zTxs2eI3JTJbY-Y1i2ppSS2mxziDescIvqtfB8OWZ9509H-WRMh_LZbO3jUaukc0NswiClyU106cLdqJOvWmRS3hLHbkPwfI_I23jUXXphXkalGPQiQE7Uoaw_ANc3bUXOWp-L2W13arITCmU0C6t7P46LWKiSfVuiUS1NGxK1IMAucQYqcaJ8mVQ
     widthPx: 909
     heightPx: 894
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNq6T9ug-Guno6GOijTvUt7BhztfAjiFY1wNAOm&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNq6T9ug-Guno6GOijTvUt7BhztfAjiFY1wNAOm!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
+  - name: >-
+      places/ChIJocpUnqObuokRiUa-HeIHxno/photos/AeeoHcKeqnQj1NdaM6-kcPavdf4cNt7iIPsHgwv7FOBGb2UpFWDzPP7dujvnnJo-hlIPCcjbyCrlYyn7T8Co-f1hZFV5MpYV3YJjt_IAdCJXUWsVrQ-DFDRxpuL0yaUvul-qp-wxzPQZsYGJmVD90oFZWoNNiOHR-wzCcR9pXedDVucndspoGfRqPWMWdJXS7FDkQzX9kpLHbFyEU8Gek8bl6oSRt-oYNGc2LHscCVJuC_W_R0EWTFraxJVpXws6LWBS0w78kgFFMFQQKikszIXGoSojz26InOwbRewTvARvIGxs7g
+    widthPx: 1702
+    heightPx: 1276
+    authorAttributions:
+      - displayName: Daiwa Japanese Restaurant
+        uri: https://maps.google.com/maps/contrib/113280686868546487687
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX9GtlAiW_gvV4sm4DYydBlQQ9S4ynmNWnZVJMQOf1NJCVfLNk=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPmJin69Tzv8ib39aaEmW3YGWvK_KRnuxNL92rQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPmJin69Tzv8ib39aaEmW3YGWvK_KRnuxNL92rQ!2e10!4m2!3m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
 address: '8401 Hampton Blvd #4, Norfolk, VA 23505, USA'
 street: '8401 Hampton Blvd #4'
 city: Norfolk
@@ -183,7 +183,7 @@ phone: (757) 489-0008
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 289
+rating_count: 0
 website: https://www.daiwasushihibachi.com/
 reviews:
   - name: >-
@@ -368,6 +368,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

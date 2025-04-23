@@ -13,7 +13,7 @@ description: "Sushi | Bar Dallas serves delicious sushi in Dallas, Texas. Try fr
 place_id: ChIJJw6wqw6ZToYRmI8tKSB_SE0
 photos:
   - name: >-
-      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcLK6J35oOn3e5Q60_l6M2s7TjmvUq12hxux3hHjpEObqg2P8EWobl-TuAxO5Zt7NcmNK8p6aqQ0s0T54XEucRm4Zn3GCOGvXxoPEIrD952iM5s7s5WVHehs6X4iR6TAsJde0Ru2QzCWq4HbztLBWIPR5pIvv3Np0BotuPQ6ZuhvS7U6pXS_A0q8z3HXnhI2BzfiYXG09t1F9SoR7G3QEm24hWf0rP3RTSlAyFy6xk_FAPBCEXBAy_4OU8P62KShEaRXTqvo23SaX7cFvrc2p8Ll0hjj8ZyWi6sDYQVdxuujiQ
+      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcIo4ctE51BDCv7cp2yJaPQp4HxilF966vmz5pSbBAZ4U3N7_JFu_rc_Q4f7nINx9pnqr-z6EYC9ERbA6hyHwRocH_RGd4ELwwocXmBbZ1raQaeONIO3s_VOW6Ba0awuXJl3lKALY_dbaYbz-OQWzy3QTwNABcfHkbdISBL2FI0CRH7b7z1WIz3MH-OAGzyISA57423rv8R3CPtrwK95iPiW_qePBoDgsRT8m10cV8pf0ZE-J_eNKjwDUPNSqFiogVZ_zGpSACvjFQDMSFRTFx2bL_3JG54LeFivNfZWhWxwFw
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMjWohuxw5a2zl5LCodAe87RAH0IH8UTAIXdjfB!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
   - name: >-
-      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcJhCgNK8t5y4AaV0ScqpFCk3CPIAyvNbm2KENb_Q7dODwTol0iiKjSmLkLYjnORCOgbswniY0HGfjnzWKREJttOHCQCNDm3NI19mOaA8T7rsIxccofNNvLUKADyhgx3QEq5f5g5D2WUh24hfy4JPL8cRv_51trjNsqZ2AhL-cSl7WNIUMVvkwl0_vfyerBm9C8sL9USmjdHenAUHAg1-U1ltG90PWxqzWcDQGPKcH_dupMtBOSjIYZ4nyFgZEKXbatrjh9Zt_aebdmWQDRj3RbKAFPxmbtWnHo8-Bj2xlG8HQ
+      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcKW9LIvn7jsSVPYhW1NrLEQLBFOrK7TyD8Q05Gkqoam_0Jn4HucYUKm7lHqEvC9hi9U2xQDztM88WxfFMqWLXfgecfdPvU_8c_WtjXm39IZw31J2lBei7Qai0YvdOIlkXCvJz9fVXav3t-CiSvRc_b_nDBVLx5-_2gMPyi5cHgPxemhoIkvxJVZ_0z60TWh8t1MojI_Y2YCPjirc89WIM5_7oeVw0c7iHuGq1xCN_p4qODypKZTW606Za0q4M04lvlRsO3oPgqVmFzOm90IiBmVYU2QtQfmO5mztP9hH6sH1w
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -39,20 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMmf-wX-nwFx-IBt6EM5jGvBWVu3jl0PCWn8OwN!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
   - name: >-
-      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcKjpUHFprMkobl_Af97tU6WOXl7N30r0h626e508jIEqQivS9lYTvViXb7UNXNaq5PKQKjEKBvjMqcuWO2vXPcauSdAVoU15hyOb4UbDC_RERBOMH8yUXPrv7GPegYTDc2LUa_ncREqXk2tfAZPAvJuwrok9Uix5zPGunUffQef9mrjOJ3ucayoZ_esoqY88DJEsHhKaz15BnHjPwxaagz7VEpGQ9EcHQMVBFk6o08sDh1lDRyVUMFYHMeCcTbZSDcNhooVo9HVwN0DMU1_iEBtowsR8zUR3biIchlMTA8SqCvtibZvYk2X1Dpn_3JPlm8TGq520ZJfwMa_hzoqm1brB_-dwL_D_J7N56O5EQfnnVAmPVSsd6mZHGUNPAgBY7jmh3uQPguxbENJ0YHOnYkGBHinDHC0nJ5mEiA7lOVncQ
-    widthPx: 4800
-    heightPx: 3614
-    authorAttributions:
-      - displayName: Raffi Davidow
-        uri: https://maps.google.com/maps/contrib/108100400524894260484
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVJnJzT0_tOq4cOZcogRp1O2wubCmAX2gwIN4gW_LfU0xQq_8HS=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw4KrsQQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw4KrsQQ!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
-  - name: >-
-      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcLiEPj_FKCilLe5U_kkQTOArpRso9FCELuCTMbo5YLesTjRjff5f6A3bVtZZsJpvxSY3yjp34z7_6kdnJ1-IuSlAMMN4XIdBROHw-LPFZn6NbGHUNgJuNFVbzlJGHQyCiCXEh0t-BVKf530Q2Ug2PdpqpVOXIEZZgzkvmT_7FtpF2Hwt52F8EmYqBqMWrunfAI-NSuPr05xFKBdPPBUFtY19eUKNxtIcBSxwCBzJkSpUcXr4O7t8gL_VBKm5TYMnV3HY62RK_WsS4LhSjjPiLrGZUCVrXboWTaKtZuIsbbzHg
+      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcI2rtgfjrpMFDMl04CGUdlWUgX4qPha961joZM0GE1dk1ECXXE0gCJGNS0bjvvYC-HS88TNxUIIqs2nDEcs5Ze5C3GiGjG8zp7PEfCNELazmZU3cmUxiEVhgXV6Chg7Qo8IoXsO_CKWkEoUdKK5TgcW84Pb6X8M3RgMKndXu5bV3zPBkZQIcDBXb1P2H0zJFMPn97gF0Jo5eOU_3QlJMrc_UIkVV-I2dyHgYu-uC30oL398ve_Ozf9NdSIRkAj_bq802qrscI895MA2d-1yOj8brCtq2qKB4vMkFwJPr9koPQ
     widthPx: 3200
     heightPx: 4800
     authorAttributions:
@@ -65,20 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNCRebBW_vuRvaKRit_LyhZkndArRkIKgzIKUmH!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
   - name: >-
-      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcI2aH7TURaGCFudRPOZfjjFj1rSLjmDeBGcPzPHOmk6k_4wO9bO38DyEWvur70qz3HrYrEaqFPnQ6jVaHa_NIB7O0k30eni1Pr6y7_d8rrmONqKvcWZFrkcCGHvt5EFAiQpTFA-5QLwd-F9cw0eLWtdNEfFmBvbkLgcmnOFfroY2OFk10xnLHE6B3ffRY_RIa7jd7oJ2Uq1JUXwfbP8IZY_4hssoJ7H8c21vjXnJvisW6RdQfUJVey9ZuW2Wgkn1mD7llmv0jL3DZkwk3agDiZhnZz2kZE9qQSfGrDO8uunfcnplljkT3jGrqDlvZfRrz7SrRhEUf3y8oez9qZQA4YyXQkeC-klLGRXp6vryLIInJwamz85ZmzZemxwg6tYSFT8TXMGqEpEI-r_NnLHfqTWepN7BVy-u0NQdzQK7mAiJCTE
-    widthPx: 4800
-    heightPx: 3614
-    authorAttributions:
-      - displayName: Raffi Davidow
-        uri: https://maps.google.com/maps/contrib/108100400524894260484
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVJnJzT0_tOq4cOZcogRp1O2wubCmAX2gwIN4gW_LfU0xQq_8HS=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw4Krs_gE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw4Krs_gE!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
-  - name: >-
-      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcJxDZ6y0mDN5Jotwmu2yEAkKXCthVuXqpZVfurLZ3JkLUUp2lpHNyS0BkxX1fx4CRa31X9MBQvO5PTGQxrB0uMxY9N_selP94RoQ2GdKh_dg5dxlh018xiN9G-hqDvnsTx7_JdNLhD_Uftr5iiRhwgXt0517wpA6qh1_11z-LmNT1AY3tIz1EAPFBX7yZioysYI2Emm11B2lzaQTjLsWlbnvsrI4OwfBhnlgdmvHVdDop7GaUVlfmkV95Ty7IuynR3QA4sA5brNmrlBrcH7JqHLEbMI1UJwTH5Huu_PmVSI2F51xT2moclBE3SyCingPy_yfpMUy1uP-XeB5ikL4FRBg3FA-p5hJhVJkz0mDX5svKY4nPcjfMZYo7uQ5NzbVSjN1HOs6sitN-3s1BcHIujMEkHrhRChBSyp7IubnNk
+      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcJCjb_c_lwRGy7qUBLOe7iZwHsfaOVV_xb617Yzz3RN5JDMtm6iBdWqNCg69s9dWkgqjrKQyqIGEH1mLZjObOS6OL3Cu02t7Cap5xODvw0Xpx-GU-IQdo6s7dpsk52iaegGxDKuXWKM7LVF3rceLXIdtSf_-zeo2BpoMSq1qpvGxN--r3fbCBS3F1b3Ue_LlwwN8wnBzEuL1DJEPC6FVc5yPH2G0BZpQS16yJftMiLrkEOf47KzLVIWEw65r4zAURMLlfq3NDhhXeXvUL-Zt4W7nU84qbJt6AIIpBMJjEkioNbscHK9RgLpG2-jDIfNs2lj48RBBBMc48c1qQyX7DcLRk5lSrm6HijeVNB2LXswY4-KkF9drKE9YoPD5z4x8-q4K8ynAC9oeexQUvlq-Hj6yY-O0NMgletreS-5kqc
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -91,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHmJjTYw!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
   - name: >-
-      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcIo1DDq0OPgfXckQP3Kx1V-eB27IcquxI6u72AILl9EAUgGztUKYG2bLIFbdkhANx856lQsNn3uAqFWAUEHxxvxf24-RinZjEJpaCfrPWHsU3j2M4hDgXzdu3c_mKuk-jeW8TkDlMcadEaGhAeVF56SmfLPlxHbO0gQ99jB4Lc6DMybt3eob888JatX0fe3K60atSIekAmcKPz5_NTaWkHkj8FZGgXMSofi_mkhKW-0STEGddyPeKjIKI8MIszCCt1gmLf_KoioYUDvtBf3oJ07UB2_yy5iw1vCaVxUzbUtzEM2nHsCBl8mpnfop80SAxydHLLwDc3jKTl5Q8jTF2ZzWg4oPwEkBTd3U4VNJWKQhMHVT69TKgbLICiVvWCcTwyLgYVSW2al98ukDQdWFtwz7KrRHzkfQnYKxMEn9KgYVObA
+      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcKHs-2McouiOVxrSWbjlFYhExdLPvudCbZy0_Fv096UkjHk9jxI2GzFK3PhpitD_fITWFI0_H2dqVBAEpTiXwpvpGP-LtSiTbvyoUr2Z7rPSbYEhrU2eDWY5cgfn1-_8froL3Peg5PvvhMkm9twvb4dHMqmypWpS0H7Gj8hniN6AsmxXrKmIN1O0foqoHW2LQbxZCRos1xkJlTSXwOQ2F_SXmaBIGqDRZz3VPVEfZ04AHNwyZiekbAYx4Z9dVLYZuD3y5v_c9BVYnHIRwELBdpH-U-mQ-VBhDCH9dFdJeGF3gnvtZ_u6DCwh7Rkue7eyZ20EnyUlZ1Bcc0zRd9mFJOR2Dd0Y50a0GN9b6HkSn2s6yDUe52X_H80ahjnLZXuOnVXLwUenpx9VStxxIJE5KOXJwTFJOCyQ4MYbRbAUFva7oV9
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
@@ -104,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvztm94gE!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
   - name: >-
-      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcJJLbNjHyhVr0THAYRiFCvD6qLH46dq57SirzAb3R8WbqpwpouZQCIgXVoBWrZmFc5FHG23FEqbGHuMXqYlf4vsxkiAZ9JbZGsuHN4ORorO-fOVizsXUJNcBSHvhrPgS7ovu-Yg6BvrQp6bkULY2Dh8gALk_hUjm2MfYOCxEFSibyHzuHBTMfBNWoK0kzFBR3TWUx8jnPlmv8zcFP5bm0AY7Ck6UMYxtHoKu5c8AhgppAQafm-92F9UPGW4Pg30-MWS3d4sG-TlQkWjz6pQd59j1elbPsaXGaz8UNQ7dEnDtAAq25_clm8ynYI4EkTRTALXQym4jHxpzO2TGI6MuwKuKCi3x2bFrg6TjDpSYmS1LXLG3pGdNTjwaA_5qJCIprPoDChJ6kgh2NeJAElnyLIQdJkzbKuH9QDoEkVEanFp0rY
+      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcJm58yNzU0EErmhpBUkmrAJk8hlwV-FFreft1-LTG_-NLLKRp_VS63aGDQFz15lHUPTW048vTt6XsQUFw4eOJ8DNy984InuVMoD5tCQwW4ilprz79RYudmNs2MsOrKwkmOGgw0_UOsaYJcFou417UMShSDoqF0zwWP36kGtlnSUZJCIAXv9nWzlSsw-fD2DwqzeSDjbco6NHbwn19EFCSrBBmtr8SPaRL96HgaUbJXLln5uZ9NC1iCwUWGbzxkn7VTxvJuoVh7tMlFwAyX_HldFA6f6YOPvFdLQe0W_L_XH_BCXN2QbaQW_kakZhmk364MaihmsltRa4BdV5ebe-xsjlR88ZeNbD7GGsk9HWXTYFA1zEcx3DBcwH7-IrtKNfyC_8tY35Sv1-hNfaacfMcuk464l46nMLsqj_YBwb8mRIIY
     widthPx: 4800
     heightPx: 2701
     authorAttributions:
@@ -117,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL75-PrgE!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
   - name: >-
-      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcJB0JvaWDOIoeWxct5ndlRUwtV6FKTYAqKmmZkpGMed3lFYXrcZH42ukaClMA8PMqDCoAWf3cbN_uzmBq2nzSO4R2Nrn-rgEMkzZ-O6ozp56kCHpL4vyze7qvvEshO_O0Folo_aosU-SdmVv9hna-cH73Gnqua7tgUssle9dla8O4RlJAsBYIYQXJO8xEKCoJ-lIvV2PBxyghXKcwvfk9RoPnp4xNhdu-lUML0Qnay89yInJJbkArGgzRmh7Rwjfoslw8J_f5cSpdNMOFXKU_5_n377rcdViQerXvdifG9Aow
+      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcKSFzNmwfPV0CLoYhBv37McII95rMhqRHWcq7AYBVHjBlugJRWDEIzqG8gxUQOZFvhdKMyJ9hj6SNyY7-1VxcBRBoisnYc8ok2M-aaLfVidi5aNBRL5rkxl5GohKeQObaFC79_r22GPlhmzP3O9lGYW8dkp0pouvZ6BiOipmRL8iFQpYR3UoPvlknlXRCnkImIS6ywEfIA_5APVIVQIPjrNppMcjo4QR-ugCi-sOgXtmPaHRw6FFU-HNtB-8mT9MrmEWOEgUxlphRs5eNacIyd5-YUYMxL5O-mWhptHytNQsQ
     widthPx: 3201
     heightPx: 4800
     authorAttributions:
@@ -130,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOw8McyfJHJtr8K79EjQcMTP-FqW5u9FKLO4m4k!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
   - name: >-
-      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcLNIGfSS8QIhy-w4674C0RNU4Y7oi3Z79D0_LfniQbunS3LR9EsERJENNQt5uaZbAxigwytYeNBB62zQnAIBNcsaF2PriHRm34RXtggdynqL2E4ZdYrULDnWlj0x7QN5bZlEV3wjRB8yzB2pKCRRlAYhiMEtf9SdyYHnfj4IBUQ56sEXqIHPY6ioYbzs661gUjfKzfA9X29GhrUMGa5WAbPx-R37ivUKbMHeY7tCXfziWaQyb5tGSEorzPeePpKiEppKEynxU8kZTa_Qpl43wbQkIIGxCCcVFpCkX7gKRmxkw
+      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcKhU-tYSYoi9sg_iUL1maKOEUTuA4YIYNLfK4OWPzZXyKgfifp8m3LaTr7Tjk9zMe0K_tHaM9eSBrklMnJ7bSfXtFELS1AwudjkxhZBhKdPmK4OLKqDj6brZaqWuP13PEdjy1_C9CI9Euj9QhLKUZKhXugq1ZkxhPj_CuJyORQWdId7amj9oA-61BqVSrxgdGinwrury_gYr5iwFTp7BSujks8stwe_Cm83X4fzpnJuZhA8esPFfyPBi1kzzKsf2egK5eAUHkEnxyCIlNb8CBn_grF5woSIizokC34xV4bLLg
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
@@ -142,6 +116,32 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN3rrtR6T_uAOuomsNqndP5xY9BTMU_o8fji56a&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN3rrtR6T_uAOuomsNqndP5xY9BTMU_o8fji56a!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
+  - name: >-
+      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcI5_-lOw3VKNpWlfdizzLtJTKiZnS_Q8dpOGGkh0kUeP7J2-eJUyQTddm4e76xfo7DJBaZQjZa_-GwRUU3pn_xqlfKp-yX_w2BhRYF0bmX5pgEt1XLVlAKri9PQ-fSLONoAGUTV11_XZ2nfqH3TSAdlpffuYjBg7Nqx2nH3xnZvqU3pP9ag525SwNK4duJWJxfKmSTknqQBLr0tl3aoGl3HChWCUd3D5xZNbNF5KhjBUUa-JHZO_1QlxFk1EtRh-mT4mmSIiGQ25be1O_DhiqVy0lw8zpmdQUmtq8FvYEA7cQ
+    widthPx: 4800
+    heightPx: 3200
+    authorAttributions:
+      - displayName: Sushi | Bar Dallas
+        uri: https://maps.google.com/maps/contrib/109064050314753904147
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjW7iTn_P59ZKtpoehpNoMxuPaeWxnjnAwdAQQYeSPE1fIpNUrWA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNQrbln2cxcbxXB2uJ_tOAEE-g2JNjqsPlye3BT&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNQrbln2cxcbxXB2uJ_tOAEE-g2JNjqsPlye3BT!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
+  - name: >-
+      places/ChIJJw6wqw6ZToYRmI8tKSB_SE0/photos/AeeoHcILqgn5pn_lAY9PmOfmAOT25w36jW3FY-fS0ZngK-oNsQfaPD7U9NqYZFwCW92f3DhV-G05CvQNvrSeHfQqv41wQflokeAobejA8_3kyACrchgsdwYD-oPM0v0FyM7LW-RSMf_19DBEJV62mv56D24hoUSlD8iFSVOU5jr2SaRBXnHX3xvilfrMhJ6Q5Hw5HClMo2HhRCHLwP2oRyHaS0fL-R7P_6VzM72puwXaZu_2psBH7Au2rUM5-lFmLPcfVhUlK5D4RWKfuKy3Za64Rrk-ZWQNRDNWCtFvxmXbZbYGJHckY3wxx6CF6tLca-2RkR6wJ-T59rHRMfBsh9TgdWpIkiJFjNr8kySWGV9qDgb7LqgdMwRRj3z9k35wULhAtjrsb0Cerknvp_H3e0m2VkOaFdauMVu_jAgmBWWwnCK9_g
+    widthPx: 4284
+    heightPx: 4284
+    authorAttributions:
+      - displayName: Terry Coleman
+        uri: https://maps.google.com/maps/contrib/116126082344917918511
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLjHiI8fIiH_IzetMiNfmzrhUBfxIQ4bXuhFABzzolty70qGA7V=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCA3p_iEQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA3p_iEQ!2e10!4m2!3m1!1s0x864e990eabb00e27:0x4d487f20292d8f98
 address: 2111 Jackson St, Dallas, TX 75201, USA
 street: 2111 Jackson St
 city: Dallas
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

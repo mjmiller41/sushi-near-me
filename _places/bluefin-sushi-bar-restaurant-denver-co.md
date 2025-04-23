@@ -13,7 +13,7 @@ description: "BlueFin Sushi Bar & Restaurant serves delicious sushi in Denver, C
 place_id: ChIJFbBsXYV7bIcR487Xd66Fqbg
 photos:
   - name: >-
-      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcIYPB5jdv5TgnEadXyK5hAtqR2wwLfE0CAPUrB32uSWzT5LQSl_q0l5dxGaXODSnR7oXbtjd6JOVdaOLKSYeTX4LXOzlvkjiy98JpAb-XDJdmbiHM33DhxC9RYJcrMMaMAthPFIPLXApKINrx31pUmCp6KO4NngfmTVtiMoZCb5EtaVV-U6fkIZ2G3na3Xq0_Unbz76DQM_YF2eJZRwKmRywq2ZHsX6xU1N3uTc80zxX3090eEMgW9t6lnCoKAGdhTtSTLWh08lWKSjz2erLFAtXB-1dpwfNjXI25J9jGObiQ
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcKO9xONIJKouH4E5bgfDniuJ6N5oLkaVguU4foH5qkZ-AcLgIl0eUVNP3PrzVygeQ7NijKeuF8TeFG-6tjgijz1WDX566dlBkP5qpSbjVQEoGQtZWd9cNLVe-GqPZSvPZc1nuQ4PSBtTBYPIKKj4TSZWDr9gRCwGAHJrYZS_0qlEx0cOu0BQBV0RE7YUP5SRpS0O2WHiDbsPgES7Y849GAyYfcbhxCWMD_wola0CCrB6fLHylZcG0TefOmig3uwrv2GFcsexfg3l5ksSykptWH7krbdwKjIeLSINdxvi3CsPQ
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOj-AP9yTWMVzouDPP6TgfoPvNkPnsn9nEpO6lP!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
   - name: >-
-      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcKN01J9iyA5tUYK096BGqmCjd_SY6tKu9X9JNAbNzwlPybB-miMw0ybk_0pr-DQUqumFwztIpeZQe7-pBDqpg1ixUBCL5bGg0smxrzwpPSsmAZqF_VHh3kLp70ybRdYPpOszPPTOFDn7L9v5F8-lnUI0vY4W5kOoHMentO8wxKPm1TphI0v3YhDgE9xNcCofGNZz12qui_h3G_42Fk2Dc3JKnXCv7SbCJYBb-qWiyV7lqpnE-lIhh7XXjg6FNixs_TUhoE3-xUP8I-ce9cBAe2EML3E3iXkxtpyjlhkh4r2Ng
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcLDJO1H1BcbKTIrPDiLxLoj9PwAsGvCoWQ_GZAh7fnnBfWiKqtGdZwkgFmoW4wrCMlh64EBN6a5Oltbn4jeU9cZZuHSoQNop3onPz5V16u1aZWob-ftGUmtwDanPFU5xucP_YTSfshuLZW79JQPgDOx6mLVtqz-YJPoiV0S23gxqcGckMjx_5IQ91GTA01DFpAQ0pqZ1RZvlPiGqn1XwYqCaDKAlvEs16f1FqsYbM4dtfRJ8IYaYyfxfwkVDzzGs3ljRwypClbttgp_RWLwi3_uVk0xkdOF-gyyp6nvb7llRg
     widthPx: 1920
     heightPx: 1081
     authorAttributions:
@@ -39,20 +39,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMmYUOobMncmwuK0jLsm6LDJ8nZxDKXV3NrJqd9!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
   - name: >-
-      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcJW4vxrrgdGmHmzrdNOrUyCoBbHncTSGWgpWz-NlL2mzSQm7Y6fhQPlucLBsmXkV4NTiAmYhdmAVCmh6PbaOEzB89XZ_gOQwZz5pwaxe0tVgHkJIDA1qryWGH-_upCaRyMZSF6MxaDVotwOylyaTE5zRbbJM5B3neGk2suqamjbze16MxWMft-VZNpmKxpghgESfnArgl45ZOFBfWtDL1VpRkO4yHXjpNLbEQPnxgyL_S7xTAe9u1mvyo1DIwfd4EP__TjdCeaVwyVbP_yuJF1zZDFMaaxEDwGEPW0BxuYpXQZDDMeIziZxUNS8wJCx6PvTB-pTh09-7sC1dnW5Wm77D53E66d09xbFKbNsNuRwfl2fTz_pguep3xfnKjTTCga2z1KL1G7rsAM4DJUsa2-Jx-p9JZNvgqsBCP9OggMC6Q
-    widthPx: 4032
-    heightPx: 3024
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcIj9TRfeA-TEMzvCgO-rXIP-jo-uR6GM-a9jIPnHUIYgpJAZCbImSBVOTBUJnVm_e5KWhAQsMPSxju95kgNK6EUg0xd28kqrz5S0zoDY-VyANMQt-xvD1e3O2pO8O-Q4fhOvjqaj5PWIC1RzLWj435Uf_XjcWHdGvPWDXpHjyttu9IN2xkbL7uBmCsfNnzsJVh73X0gHyiSoG4LNDrh5jW6uZ7cjikN5YPBSsEQ_wgPgQUEt7kjfM6n8BAOVUXyLSWVGUdRjNN-RGr-EhwiO0V9f7iEQIAHzG8LN4_5rihtLreaSzaM4uTmFMUr3-XvDsU0rImHUgJOeLqnu8aH1eNPXVaWxrG8ZUqi2DjvxYanzrF9UQo_BbuhKGnoHti0nGMp2CkD3lQCOLz5p6k25GlZh_Kky9Vx_PrmOk2PENMPyA
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
-      - displayName: Buffy “Buffy” Wojciehowski
-        uri: https://maps.google.com/maps/contrib/105117901599994644347
+      - displayName: Ashley Young
+        uri: https://maps.google.com/maps/contrib/104354181570335647198
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXx4QXc35xp8CO6XvvA1lZ2gFgU8xgETamf5y1bBCIh-agzouI-=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocI1HHLJHCe3eKcipFtOZXSb4v_BTvQnJ2Gxf3NtWX9KLyMQkw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwiN6XWA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI8_qHQQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwiN6XWA!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI8_qHQQ!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
   - name: >-
-      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcKTe59E14oESV6VqKUReTl_RVqryHC5xFrfP2UjJOQdw7KmYdwNkuKx5wCBNaiOej6GvlQKeOpEzp9nqghN7zhzR8ThAVojSm6ZIMZuWC80bn9QmpOUlRQyv1Y2BkE8_Aj2WF_5FfwWFosb4YXMbS2Y9ta9J_mLIJ7odVSuGoDx4oEgZWI_doiH6dSITRXA2qsWpNuZxnE8GZyJZwcQUrUERwgm1CWL6WwnJEpUDary7D16k-bT86tJ7Fc_2jAK5hzQL6J2IjZLnWItZU_TTyTR717OhI2_WfkRCTvvl8rvQw
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcJ4mVW_mJY3_wSYD4ptNlB9DaHpIEp9GgD3pvxY4SJys8NJNAzODMRHfWdwqP5g13W-UzmL23yeWlqd-mXuWp2pKPoHuSRsXmldrIAvlzAlH_EsFYqfyn9RF6ZMwhBneQF9oalF6on2y0-O1E32BL_ERevZANzIYuQ8l74FtZw5wzyZwCl0DwA4JDuTsIbq6zc4Zkag2gF2zgUUUT6GxGvI4xeWwsIkxoeG9vK0pAb-9VPTppRjMOPR_6dtKka_sf6B4p62oGA4i3MpJ7tmPeOS3pU8JZ-veUknDN7OzFjqeg
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -65,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNe8TgmW1gCcWh0_X_YmcWQr5O3QIcAwEXDOBlN!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
   - name: >-
-      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcJDZhTHG6T6VzuSBUZScSZPNlM8G3768SfWjgz57vH_0pspr38gjlgNgtJxZF7ENDwwE2Q6fyOmbg6iAQmZBqegzUmBeF6ytdZXT8lmsMP7_AVRm9BCQ41XqJ-4yuVSek7VfXIGeQfLxVAGuPqS9ePW16uDhC9PAs_iAFm9ZChLipjhPo89MfS3H4TpgJA0xIDMrtcmawb0wsEtEcC4ziOxS56tiD_5c-4RSFJ5apaIUDRbh0knp4EN92o-sJ8oq1RvxDZPgEKHzfqVwq8ic5cDMp5mVDD9Fnctcuc0fxIzmYreEvv0kUjn-uj-MpHTupb4cVKEDqMAH-tFr0S4gSNOd_m_FpOvdTlbs3F2WeMnHMbiv9eZZTlOGyeRd7qyiHEwlgAKkgjUgG8YMMfWY_bd5zORYaIzTqUeSSSvkOKxbruF
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcJxLEKroq_DG-r8zMxBibvND3LeRH01PkSjd3FgdBBUUdjMVpq9asAVBqAoIpBJZD8sda-LrZaXY7MBz2kMjUbhkZUEMHcYea4xuiI_3yvRGAiw6Rj8FAEA2p_ToldfvuT4X8otpWktJHRk_OYppyGq5GWGPF0cPHCc7LlX4rpjH-0qO96dXlxvnkEdnXcs0G7TepvxM4LWnRvb2rZKP4slabliFdnZP26Cgr0MHczK4omqgHDpeDJ2tFkKImVUgTyIOgg1KMgd-5njP2xL90u1tsAJ6lMHAlTbG12TtT4zig
+    widthPx: 1920
+    heightPx: 1280
+    authorAttributions:
+      - displayName: BlueFin Sushi Bar & Restaurant
+        uri: https://maps.google.com/maps/contrib/116233968723993044740
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVF6cekkIUjYfr58KPRek4Ow5Qw2zALXhH1VtQLXblFczQKE5nB=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMAkhMmw3tx9Y9jnIvsMnIZjn8oJ5lDlApPAAM-&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMAkhMmw3tx9Y9jnIvsMnIZjn8oJ5lDlApPAAM-!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
+  - name: >-
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcIDrRxidvbZBynW0fcp-K0cKXfxpYmY8D54E4p6EglHg8uKpe1pCUYbYQJ4wpeSEcxqEbGmUv6Gk-wgOvp9BHjY_8MVgPvHeHuu3R0GMZwHzVTIkFu4uUf4rxC21Zp6m5FlnypnNKT8uhQdcveitYIT7n1tVAaPHhrtdrlvMUA0lpAbTbeF-BPc_TEoajA230DhM0RtXKrqCOSp4ZYyounrltF27nS9Ovtm5r8yhmznIWQk6camn6qbiR9S0wRhosxvj8w1HT-Zd2dzdl9wF9ykdnyyhDh9mTs5bNknU31mXv6nMGXFuD_bE7niISMh6-9GMRQTJ-KdKP44dbFwGCQUCI2I_QTUsmU2K-IBx1w_7kWH8bxE7BKMghihNjVjxSL_5skgerARcJzEf61tluW-4jGfuSsHNy75hO4_EhzL3tHt
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
@@ -78,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzl4zF-gE!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
   - name: >-
-      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcLdGfWoOHqPaZX-zzxv9itgMVyGq64HhUokioowuJRmVNpvC7Zgig4cXqIDGXhZsms_PpFzuafC_fbGvT_NX_2xMlbEdF-VC0gpPRzSxtKrJ7QD6bdg7GwdlmKSx600L7c6sPzqwdBb6Qc4zOFLifn_r4CfWmTYvDzCi6mmojLQETQs20Y8TmaGL2CtEumnmYhecAZaE-WI4Kdcyd0GFolC8vai4RaOXb_LPLaW4wGiwR4tMzSDUm2D5mK-ksCnE4W6GCG1gi2_6hAs_Mq_6g6QcF_B-DV9oVlbY8e8H6x6qiqgRm5yJJ9Tg4EnSlpmJ2UKg-ovYUp_GEN622IfJhxrN_W7HQiVhbVp5Wi3PpbE4sfDC5H8lZK3U19huXmMAa2F6LMCTvJzbDmFDDNcqG0vYmsVx914qcoxTqccwt91ixKo
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcJvrQLJD-yL9bbGgerWCTydghelrsEnFcO724RaRIWEaUqKKfabZ_KHikEuqEIVpJNdpBnjpcMAwU0TwOhdMSz6jdgdUw-duTbtHRGwaN256mmVjXso69ZYfIrr2OVxtkRmXoNfJ3NSyVrmRGLVRzBe1H9-ud0kFY12oPUCgrLiYlRZDscVct31fzzGjCymWz1PZShUBgPiBUAx3ItzLD6FS0NCqZ-G55uKkOD0Czsf3Bf3zN9eYVFfPTL1QGUTDzd-0sSe6LsF8BEMQH42tAKgaYlKjvRc78y9tWPI20inxfChNpzswk8qnCWcfWn9lHf_w3WQYxconaOWmQ15K0gkUVfjChO93V2pUho7hV34b3iw9u8Upw92gAz0DXPNShKJbyno_-2dbnTi40GuutUyPp9EzPhKwe9u3YvkUzgVWiVx
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -91,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvvfCevQE!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
   - name: >-
-      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcL3gnJcCG3WIGrXc5JsF9MIKYYsvs0thXAAHob3vnGwvoZeqOWmBjQWXuurjUEL-lbI3tNQ9c0amJppN2r2nKoln4ein-PK31hf64gFpJ66a7hx1WkKXLHbPNtG2OtNzBRxHzDvbera4wmiHBL5Ko0WiDNYA9T9UoTE7S8TZpHI4oBzfmR5iH5J2XkLVPN2uM-kg5h1F0iHw8D6PujCq0bLOrTW_-GlrmNo2LQk4JNf_aw7I3P4ktDygeXUovOd8FjGyWCSMYBh0k9hIO0OYynwQrGrG5mzjrafmPbXBe57u9uoKqZTN6lI-KQtkpaov94PFoOYa48H__ZDoHT4W4I49r8uZ5KfidOGyvQldKsnsc6gwZCK3Q1RjZbOcbkDH1Y3JYuKGpoROlnL5_lxRyl4NIeL6uRD_hErSQODrmt8LQ
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcJmCVEIG27wnlSFyG5KqkSSMEXuCnWiYpeJ8FRD20V6Mjg8JeKotKHRdkSACuIevX6A-CWaSP3dOo0oHheRaSu54FCE5xnqrxVrRD_Mg_qLd2U-oLeXTsL921XHV1XdqCtabnwArI7fM5D3_193Bg10RnRjtQBolGJF1LaRQ6uT9fPXed-kLsSE32NiGCz7lYwQ56hs-1U9y4Rds4xpb3pXTChKh7ZhFNYa7R94o8JzcJcLDVo51taRq9cgecLRGO3eB8X-sZlE9Alzg8eRVZIFvs3Ebe2qlkEPZ4aRJ3r6c0leC7CukWRvifbDFrhAyWIsLN2iw-aVHNvFuSTRqlW4pxL-C40qOJigN40Xy6IX_kpOOfeyaBGDZfSy1MvOPAWwO7Zjqzc3ACypB3er-M43vJEqjqUHURdzd637Ghg8Sw
     widthPx: 3072
     heightPx: 4096
     authorAttributions:
@@ -104,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDtoebYGw!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
   - name: >-
-      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcKMcfhIN8yw-OXuEw_gign8-DG-I2PQ9ZJO7UUPbuHj3U276f7mtRNvHeq3vrSFNCbEPwR-hr50mGKPvqauaUrSijI4FmAwA0Qs-nV8rYZ8-tEpOoFC_A5U_MhU2Zbx52ms1FTvMW905UHqfdnUV9NyG_I7UE2Ns8QkriHCPC4RFGHf7AYMgB3OvES8Pbf9i0gkr5E0GA2pemUt3DJRGAPddxa2S3-XTroIh4t8yNCIt7WfYqTThpfhkvxkKZWAauNz2kmQ4ZP1CuZI9wOVu_niY6vIYv6mODdj6PWZsyTDgg
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcKRZrQ4cDlSxzlnX-c6iuMfkDorM067OjHwg7cGBm_DlFYTqCGzqOKwR3k1ycqkSpWv_kc9BzM_hmqYQ5Zdj27DJc9APIuLRtHj3b-uV_lBMk2d4CpMhSX0N2bf3fg7FokMf9oGtIOJyVm2QnnFrw6IDjZv63PTwgag5M2fKRfFyUe5-igQyCkIZfQd4jyMvaxSow8-Ok3RbyKQ2JNkipf4NIyT_t3LgtoPh9vlao6OsP56sStyYSyK-SjBR0nlpW8BTyndDyzY8zu0AM9nf6iUsto4iWVzg1481RHkbErV_A
     widthPx: 800
     heightPx: 800
     authorAttributions:
@@ -117,31 +130,18 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOOO6KAfRJVNZoCsE0hZtGvasKJaxPPjPMCV0sk!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
   - name: >-
-      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcKAM6_kIXskJImrb0T7zCf-M5_ALgpp1od9uoRq23NkYZE0dbTkNksA9NL1Y-Ki8JcIEvP7UtzNfFrtPdkKhTlCbpP-4Jk9d7ek9gVYZ_gSHkSu4IxOW0cHnbI5-WxDWFxGNzEH4lO2DtDipyMh56iybl8SeoskOxK6n7ISPJQOp41E6fAfyZdlJaQpBmRdD_wjXWoxQkWIy_bu-gNgvws7SFw1cPLNTHO-I2ZdDhTXwCFn2GiwRigMe-69VmvXmdcEQyvCfQrcIaDK_WKlUtxzJ7ZzEZgn9VakiAohBwbIKvm5ZTrk-W0hTNsluhBINVtHO-12_poLwflXLLR0CICwAR0CCumVPsj5QB27kbTMTDDcmkkqgfTyMugkanVH7g6fNmC-w87YEuiY4dkTJ_PghTSac4-gLfABezV-qYv8gw
-    widthPx: 3072
-    heightPx: 4080
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcIRFV8IoHa2_6hga5t65EvxwmyhEsNAGuYcAV7GnSopAV5XQaldzGqyUQ6O5W9BNBG3OXtIAdKFVvMKVMgCQB0jrlO7umHHScIwECydTO1LyUcF8jqcMg2MT3ur2u4S-G7-FvIbW3DNOiTzRgMFTSk1azJI_LlPTEza98eaokKRz05T5pT5PxN-0HKK__HAdlxkxuk6v9nKenpY8q73Y-48mhkbIjCEqntr8NllFEKGLBpg_4l6ACoak06ILnU8E_BZG2tep7TN9CPb-MpOpMfvJRUWam1afuOmKHk7endy5A
+    widthPx: 800
+    heightPx: 800
     authorAttributions:
-      - displayName: Chris Pick
-        uri: https://maps.google.com/maps/contrib/113691767154375253478
+      - displayName: BlueFin Sushi Bar & Restaurant
+        uri: https://maps.google.com/maps/contrib/116233968723993044740
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUNKFrueaeVStI9KL-Q5CUT8kQXbX6tZ1T7WvreEcV6dI4qXacpwQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVF6cekkIUjYfr58KPRek4Ow5Qw2zALXhH1VtQLXblFczQKE5nB=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3-ZPdXA&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOukmeqQv1dIX0_TLY6ei_N9fGw3PE02jOoPED2&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3-ZPdXA!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
-  - name: >-
-      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/photos/AeeoHcJqpZ2NLPOG7C830QvWK7rCGtEAwNjAJZgVnEWbIrdkDQbRXKMnhCvg3VKgB97zPpx5UTl8Bo2ubEnNZMMaS0eDj0LthrZZtKw6wAKmDDcQe38t6_q8m4Td3lUzpaz7PZcZoLlv1fkpbdf8GDsAJ5VHs4n6cpuBK052MXrML3CQ72SveAtLolnIzz2w6cjDfyL0uj065jPyNTvxR_mIGu1ZC1oNdOfmm0H_60DC8mfuAHC5ssvGdv-Xpcpt3zsVjYwbzmXeFj4YwKeQEl5fYjQl5t8uf_eSrEEMgmy0Dj27ioepKqgVy-3COV9PJsBJt32YKrxWhNOeqDVOx7Le20nIHQYeyfosUmugKM8JMZJf43TZR9ds5gkqL0tJJXt2yHvXoYN8uV1Wr_vW7azTPuMGRhmz5OCcxDcjsi6SuyYnGLU
-    widthPx: 4080
-    heightPx: 3072
-    authorAttributions:
-      - displayName: Chris Pick
-        uri: https://maps.google.com/maps/contrib/113691767154375253478
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUNKFrueaeVStI9KL-Q5CUT8kQXbX6tZ1T7WvreEcV6dI4qXacpwQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3-ZPd3AE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3-ZPd3AE!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOukmeqQv1dIX0_TLY6ei_N9fGw3PE02jOoPED2!2e10!4m2!3m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
 address: 7303 E 29th Ave, Denver, CO 80238, USA
 street: 7303 E 29th Ave
 city: Denver
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 4:00 – 9:30 PM'
+    - 'Tuesday: 4:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Sunday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
+  current:
+    - 'Monday: 4:00 – 9:30 PM'
+    - 'Tuesday: 4:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Sunday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (303) 333-4006
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 554
+rating_count: 0
 website: https://bluefinsushirestaurant.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

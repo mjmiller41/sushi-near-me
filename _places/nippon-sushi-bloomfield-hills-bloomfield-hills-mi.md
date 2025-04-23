@@ -13,7 +13,7 @@ description: "Nippon Sushi - Bloomfield Hills serves delicious sushi in Bloomfie
 place_id: ChIJwWjT3N2-JIgRBU4IE7IuVs0
 photos:
   - name: >-
-      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcLEShhG7NgI3-WO4AW9mqFng0HtrT-enzZyvNiRZcIjnQrK-6Lo_9evDDJjd5MkEoLfeLuf8l1UQbrmBXpdSkSmFEelH9n_zGdaDdl8kVtc8JISUDQdnzkNMtLYelQJ6JHPfDWSVgETEyVfX1s2r1w7Cg4ECmuk9vxweFwXWX6ad2rxnHHUXNz-UzAEmYOMbbe7095XuyoMP1evQ1SVi0qFqgQutsvKE-u5c4Jyay1tBTl7EVddUa8OrJYAj97iOxcpRJxI2OMIIFJCB8a_2mO0vc_fTQLb5hvl7bG1TEnffA
+      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcL_AO7Z7c5IxjBgck3qkP-nrQxoJYKTElToTti2TsGYRV0av2G4hBbXi2yeV9a5CSvP-6xTl45nHg37ELqpDTFQqlAaS3VvbGmgBoQBv52qFxcp6Kqwj41EWfpo6JbHci2PS95Mxk5Ow6DeSKA-GKtyElNg-lozP9rf2rPb9XyCn_lqdCnkTJ0qg9cnuYQGxRQWxa5hl359VBqm5h-woIdMPudkzAc9dJDnpGMeGj-OISUpzBc3aZMxjAi3lWJBNAXixvj2GPtNMikgiq-mrFlcDoPqkDf0R68Id0sVFjPT_A
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN7kW8Ip2WJFcV3aCgPAqGoQW59VPITe56j-2XW!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
   - name: >-
-      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcIa8dPe5ysRBj7Egwi_X8uqziGrQXE3RLY1XoipnN6HTGCJeF_F3StMyjjuBJD0n21vY6pi9jpRNt8Y5fmebUqIj_BxWIEGWr5m3sFX6HXzv3TjDvx_IWDDGmcYLzxgSLD3_fZ3ZkP-jk4a2KUDCybT85VVcrJ79sC4CjYr--S7YbbS5O7F5cjp7wWo6fdUpIq-yXvd1NFIS4gK-qR4K3IxaiDrrChEN5Rpvdy47DmlIMSSacZJhgtepcHXQnTWBpUjxg_UCx7h1n3fRwbGqvEuEKnESu3lvQiUZuSXXapCyg
+      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcLBWw6dKqdh6g4WTrZpodAz_UlfzyJrPYqCyhSX_1NbHwPaUGzOGZEu02_4yUSmS2RPcB8NYjjcWJGZFmSZ3iT_Bw7ubxOSZOMV7OKB20o-gqIBW2RQPJPmp86w8sWOP0kNazkhql02kfc5C8C3c8urBTotaNwzZdPBifofA4cYkJVNubvo9GPhYWlNZsrqowzajpVMJP9AFw9DjueLT2QPTVacfyF8Xidejq4n0jmcMXpPLw3CTkJ3BmJiN6RyAR17RV2WnCiQxSbLLyS0b38dEK5XaTI1SCbPzxurjyA8sg
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -39,7 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMeHldCo-LtbrBmvhvGdTbvffgQfflGYzH6enFh!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
   - name: >-
-      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcJd2do8hPwDu7n7mruQIfFU1dedeZ7-JZ7kLraOoKzsOUhj3IAgVi-FeojeR8hXoplkQRN-qDXhaxsfSe-KNxb3FVpgonnLeLSy6Oj1tM5lS5A5Z2VDY0AD2t1uT5xXw-iL41WLpQiaqmtzO1YwzjilvtnB6yXjUvFbakJ96PdvI3nJOZzLBf3-IbD6WioAiM1KkyFjvhJuFsZptGnDjq6TFTEEMVBKhRMByPoO3MLbXAhtiBy7B_9e9kRam3By40QO4NSvcXNUhMK-YrDuS6hqAmh0fWpIDWJ2EsUotlik6Q
+      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcL2Rn4yd134zg_wDGhhjHgQyfsyhlyM0JxcXiEfFrdi7fSneEf7fYDRJwFn7WzH8_WqcNDHW3zyfBmcGbjqpj3JeqBg3YT9Sl5uo5ovqqX55--OlYuIUWLYeMn2IohdDU2IF-5hga_hO6kRicIBJb0asGYO_W8Kg1aIwcl-v087jfOzx0eYjW3H_jdEw9gmBhnSkmqutT0X2dtbeP3FF-zhYAGabYGrFv2nCQmNGzdGxkkz6ZoAAX1bgTIBj3DDParDmdRrbGDdT_0yNdcJZGJNzXL4-MkKcDpTO00rWfY2Gw
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -52,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPAbTon32SYhNTReYJKvZm4wVxGHmhv2p25r76s!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
   - name: >-
-      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcL8to-BEBYZdDuvdovgm8C0kJXbhMmNMFD_nrGcWpiWOmFYCr_Ta4wpY1g5upkFLGjcKoDRMtnS2PziVviSJNkdA4P8pMpaTShnybfibi2nqKXmxKoeutq-Lg7yKdP4QrT3BALzMBbsSIt10I2h1ajnXXIBgdhXPEISLtFY_YzkggBA54FszRFtjepUCB_ncHfi6lGFZkckxTlr4NJWOrShWgLnRuEPLR2kifyE5UVm3Qz0Y9YiMHyYhIBKkBReVfI0JoYX9lP3XSonrmg4zwZuERbWuTIzNXeDBM6VJRsvVQ
+      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcI7lms3Y_7lu2NJ5cVHSSxxmFdiohyKF8hM1yC-zGTCEDEcagWnKcGPxGOHodArvyJI6ib-WiP0LyKdx5Ss8JRWKkq894iI59FnR1L0r8OyB7zmE934sS84sA9OphxKdTmGVVVAFh2bVDcoLSkCaep0cPlbxNHy6CE4lE1ZDq9pphM6Jk1UCah3Q5WxhioAJdAJ8AUw7Lz4MRh8Gx4gJ-hjqG5cQywoJK1VHneMQ_jEMySXLkHOQKvfnsd9GAcGBjLw77Hkb_-YBO4J2f3tohLb9m_U-InWl3PVTEPbsvWtUA
     widthPx: 4800
     heightPx: 3201
     authorAttributions:
@@ -65,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNNx6n5cztrvKj2bkCTwxa0r6qyuhezYmCYCReK!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
   - name: >-
-      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcIAI5-9CAxsxEMeuREczGNKtjrHbAuyeYBp2DEEHC4IYPMyXUPnA-6oOvjP8iJ6YbKDcDHEoDPWQwFZve_PcV_fQFXAeGckXgf43fGx4ZeLwMNzoQra-WuCHcHP48wn4CvETbmTPNFLwvmOk6_AzHd_CR-zcv_uJOSsn7DoBdWlXs_kd5jVBrh6sHZX2Q0msEJjpJ3MQu1Q9E5f2KOU0UvVgp7HocMRVEBFCpCnTMaajS_tl7jA-FVRAQPL9EOfXWpnlkoqiDqNMSjVCb2-1ufdGRTGdHyWe1O336MqTFpnbQ
+      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcIbqec6QQ44FVT4aWeL4PyKn7wRvrRAQscI7F9Z7dgsMV57OvK-AwYqMlom2T4cPe4HfqQwyIv3T0CX_4q24ysTCex8piXRBIofPh6rQgWBS7mReL8nYAVVPZZQfMuqCtBXhiQWh2rhFDTm_G3-LVbN8ZkqTpbkvE2Jy8dnJLzr6EWfaxUvL153aH2ZFg4ecLh_J2vOySn-VEbqkyfRJdJrNYWOQYqe77TZVZX0w-5Cp_1nduf_oppS1E02944aT_WIowzyqRFGJ553Px1FiSE7XeKjyQHuElI4GywUt1Y9rQ
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -78,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP6F3Zb_z_sHX2sROeiqO6T0kXtgjaJ0qWnpTMg!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
   - name: >-
-      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcJaf7Kk0qbv5iS39gI6gS6y9x04tRc8FS7peqoKTTMEGZya1jdw6GZdyW9h-38T78VPk9vEDG-DOyQYwGoSkxs55ZYqgSNPGZEYtMiNuHCI1pDAnXAZO9w-FEQaiyuF1QEYXSGI4LGUzG2E-P62CKdJh4sQ0Wttv94DcUV-goy_dNA3oglit_AR2zqctsOxaSCEt1hKf04S0KfBcNZ6CXNMeUOgWH4GUvkxLMHzRKOyowP5jLs_ObGQjF4oHNZNT-I9La8v7iBOPyKN2rYo2R-lugqRQRRZXuRpCeJmah_BMA
+      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcIf7fZdWLHmlzR28b7PGZBjR56rfNMw1ATSHLMnAg2LBy_thbecEzjNAR-FpGmMbJT_QPpJ8byu1ex4Uz9J9S0-QNBczXC7Suvm30lEepQVZSS71zxSng57_ffO4VsxH3r0GQw17C4-QgpSJKeoFf22_FFA0AdzJ2Kc7PS7fawZG3yAD-nrMw0-ZNBmYMtrVHWKYWsHcCP4mClND63PT2Sq_ZutDcxBeg4hnYgkUbLwQmISStv4MUcehnqo-bDgZFnWsebUJPqFJuwHRfw3JLElqyn_5NIvP_3apXhQDIwvCQ
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -91,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO-_xNmR2TbvTRHgTcmRJnm4nQMeQ_R6urOBoBc!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
   - name: >-
-      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcJxUHGEpRsCAEE8htHd74UOdV4fB1k2ojB9GyDQmXO2Xsw4pR0ult3ifmC3X7kxCiBJiqka2VCeg38kd1iSMiNHDq8BVQZ4PFCpV-rE5wsITPLzJOPQc9ndvYYPlpMqyo5ShTM9Avb3EcPL1gCOvdIOTz61yZevQAuY1dl62HQhl8C9zx1FNIZxtztulTMdTSMTeC0pZMj8Du_Ou4Ow30c3L_pS7X5UP3rdmFY93O0V1zThxoriulRTdqT54c9qZfAsKc8Ppi6zdnZbxRlEaEMymgcF7JROAGvS5anq9k04-g
+      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcL6RZGwCScuj7fQwc2rcJ7pu1EuM_vTzXqQStpVGwo-QdRZZoojd2BVZpjuexaWoFH3aSXZ2juXuozVpWcPSlE7DbwMncQOTnKtbuPmXCAY4IkhlWk5vfjWcoe5VtnjcQhGBAcVM_0NM8mKHgPvRrZFl4b5A7zSOx64WYXZg5rxan6FUJS2eH-wuhorjGzzCwu5QE8RV6JQhimvYPVGEciDvUqZgLcoqMkJhM-dZa6QnVUOLMWx50NVys3TzVHlNtnnTGrh1ONF67cragRtxCcoWfnK0IqHVfJondfmls4fZw
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -104,20 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOIfM8dZ93uf7qBJjVYU6Mmhy8i_0NdGbEImFTC!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
   - name: >-
-      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcL_PE-1c0LI9g5Dl7CbCkqaq7H35VFzDb9KwgiiwlOVDKSyS3fhMvsCVinPu113nO2Z8b_MxcxFz_nQzB6awFQYTyDTNHvj1vab_EaYXU0Ti3Awr2ZhVsfWjrU8WDS1VlB5Nu4YwiwbSHIBELl0Fxf2e3AbbWeSYGzOjAHIuaNT7GXyLyTAFgsCEm4xtqccVD4Eov1OFU70Rh7YgjCiFCEbw9AUbt_3aJjL0G2edOB0nS0a1x8SerrYpO2TEEkTKEPrAu0mEkUQAfiQtlH6MW9tOS4SMIPx-76FY373WjpANA
-    widthPx: 1080
-    heightPx: 1080
-    authorAttributions:
-      - displayName: Nippon Sushi - Bloomfield Hills
-        uri: https://maps.google.com/maps/contrib/117104029655858964763
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVI6OqpRvJ2XeWnLrLhnCHssZGb6STWsk5gtiu5MUWZS_qNfhTJ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM8IIVh5L1Ov7KxOa1TL6UQB6uYJF5wHm5teByY&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM8IIVh5L1Ov7KxOa1TL6UQB6uYJF5wHm5teByY!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
-  - name: >-
-      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcL6fIWLM2P13ia8wYv5pTYYBR4XlAAaBkinV9uLpumhJsksThE5iILCigPH4xa4HucsFYxg3F-Qrmx1Hg9NGdaRhj9TPQiias776nOgVfBx3nBMRVH61OHAIR1l3NskdUaTuG_bY_y3cWlkGBrrqMsuDMhjHk06gAyaHyfiyquI5U9BYaiiJ0QlpjTAeck46vSFmS1bPgrditGEOs_Zo3SQP_yZq0zww3r4xL1YvayfRUkuAC17JlbEggm3jw9hyq1jBoFVuoUlrMWD34eZwgmNLDKIH2bCXSazkDV7J6Bv3w
+      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcJq9mmeIF8i3p1at0JOOxblUKZSH9DZ5AQvciv6XlXrc0z-rb4yHgCWGG5x2zQI55tlGEjq7BuiUOfWrogNf3W2Ky_-R2dhumNib5nYiHz_hIZ5eijSWlxtPqqGJIjyIQkFCM2bKv92oE8p6tw7f3X9h-htBzUWR1ROn1hNLiqlv9LuUh-9vpYEVo_mGx9P-UYvD-M5ULdg45scwEN2a5EzhH3AA_EOY1ew7WgeHlai9J7mswhUs_GeuUvsjs9V5LvQBqsXM7faBFOI2lQ6FYmb8g-BW_nQ0n0ADCPMefvzEA
     widthPx: 1080
     heightPx: 1080
     authorAttributions:
@@ -130,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPiv0ZcyK_vm0-BzfjQAOiPgtdldOZqvpxIho4N!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
   - name: >-
-      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcKaxD6B78sWh5FAao2uAShmXOuBP0sUfbQm4Ao0itqSKaPralOm7G1HSRlPDflsniQ5gDxhH4mify3NmSBpHhQJb5DddMRF5ZaYsJc9LhHcwFpGamBd6AQXe76SBix9EO3WZqogTTp5Os6RLWaOzkueCRXIu4aStStmt34gaOpkaF610hWUhR9019h8UU6IeyJ9xAzQpwHHhdim9G8pWAXSdyoHVafJOCgRXxzQqlyKLblZM7c1rOlQ5-ZGyj-4-9Pni84EWmW8ayc5v_0zQZaDGe86S9IucBPC824cxAvGfSrbzf0tFr1q1yjXIuk82vyN5w5d7VlPCxeVHui1L5tdNqIdUxQrAw9Do8jkLo5h7S_lXVGSTy2vVnQn5VI2nIhoShVheZ1JakwbFRcIoBagOvwAcL6rlF9rDjYh0DXPeA
+      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcLhDXP1DqUiIH33_LnpVFFGxtc7td_SzKjlV9_xGU4laxvAgnSamgIem6B15NRG0ZJ7XAlFu4mFsB-QEPJDDajFX_oc4_YFIVYKkWn0-qkmlV4M-6_GWzQfIr-fUzEijPPVJlG3ngpde2QmfYs4K-oiLkPc5HYTe4t1E1NAvbioW0zR_R_PqRtqZlikYZBnOrRECefJLBh2A5y8qGxVUDCx4eTy4MnyjLMyoB9_JxRemTq96-4cB79MXp4z1KJgl8bmOx-MQ3ME0uccLyO0CrS_js01Khg2aqmWTbvWCyVwZXB9D4thE0LfwV03RhmH9HA1404ujtxTUt3k7KO6PkMzJ_baLIcSN3pCFDUVs0fKLi9199mB6qUU2q9EReEXCAKslFJkh7VS9M17dGUllZ4pS8I4gJuYq6zQKfX3eRPfPA
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEhJrqRQ&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEhJrqRQ!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
+  - name: >-
+      places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/photos/AeeoHcKpei3AWyVfrTj7WRcgpRIGgwoV-XYf0WAAzu1epqZvtre82xXgW1cmdZ9-qRssWb9UGokRRaslUeJBGO4ScG_1cnNlY8AvMPd81YEomx5Hqqqhp_n1SPx_p_k-gaDRrZein94giYk1Hw8kYwFoDVJCT8BBlbCw7DjrzN-bZ3orE8OVFg9dc9wKKiwZiHYNPQQ3Zttkcu_2j0SvFYq4qDXeLnlhiRZ3AqJnFabFEO5ea5ybKAV1Nxdk9APmEcIU3vM3PoIhpvR8BApCZR1j1Sl_L2Fx5czDDwQdcgAK63coFw
+    widthPx: 1080
+    heightPx: 1080
+    authorAttributions:
+      - displayName: Nippon Sushi - Bloomfield Hills
+        uri: https://maps.google.com/maps/contrib/117104029655858964763
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVI6OqpRvJ2XeWnLrLhnCHssZGb6STWsk5gtiu5MUWZS_qNfhTJ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN0sk-Kb4Zyqfo2GdKctnzxWtZLIOyetKD5Hstq&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN0sk-Kb4Zyqfo2GdKctnzxWtZLIOyetKD5Hstq!2e10!4m2!3m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
 address: 2079 S Telegraph Rd, Bloomfield Hills, MI 48302, USA
 street: 2079 S Telegraph Rd
 city: Bloomfield Hills
@@ -183,7 +183,7 @@ phone: (248) 481-9581
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 468
+rating_count: 0
 website: https://www.nipponsushibar.com/
 reviews:
   - name: >-
@@ -412,6 +412,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
+update_category: essentials
 summary: null
 
 ---

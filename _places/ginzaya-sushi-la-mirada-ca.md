@@ -13,7 +13,7 @@ description: "Ginzaya Sushi serves delicious sushi in La Mirada, California. Try
 place_id: ChIJfdjIfGgr3YAR4IBwLELflp8
 photos:
   - name: >-
-      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcILKrZdFv1je_WYBn_wPAkM4HLekRR6PfX3Y9juKDCPwRHJNCeQ0Oi8hX4ZtRQHvE5m1Ax2Qz9oa2F1_j1zJ37d028B4OXQbfUdfiMmVjgyyQTFZXtyKRTF9jL2Dn1u492EDJ3ceKfshv7rSbCvHGjtTysQyOz-U-hb-res-XM71nEZmU3D13nkJBRDFWC9ybCvT3DWQpfIkLnnz5rcqmHaRulNv6A_7M99on4epfAFYteBpMWWMgPYlM6bQh5M5hKti4GMR0qDKf31_2-IvdKVRgkKczFZc7tnv6owJYlIFg
+      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcK8p4mlWaJj9SlOw1ijtKXpG5GPlpIyRl03DhvDux9zoBPRR_pZhxsvaH7R0x9czDFokJqLQ2AtfRorXijpg2ZNijfuATYTXq9x1WTbKD4eVQgr11e1ftr7hl9eH-sQ9RCnmpKK_0pjh_Pa1pyuWirheaW1b86xACW5fpSlRCVO9xj00yW2XLX6CY9Q7bBEAoYpcUfUVQKbv-_GIk4EwgWBmC0AUu9A62OdTb8gN_XK6v21-ia315sbVC73n9G2NMYUbtdVYuicOibmzTcmYVw8zOmejPLv7dFo3l9IGjamjw
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPYC_ICygFpr7Dj1EKJ760mprCXh4wfrBb0_sdn!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
   - name: >-
-      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcKhv5JlL65hu5skML2GQ1zeUhTZt-fBBxsO8E_EI1kbivJi7YwjuZ7G_4ekjNfKaRr1Cx0tEEeiit3-sMR2gEKV_niRYpZaxRqmOWwh31bfsHKebB26Yqq1ar_5qatZANq_FlGQrQZq1B3jTPaV1BFlSSC4Yu4nfiehHzDX-70URYY5jcub09ONchCvxS5lgWaeOdWTLey326czm1lldPqf8r9CHBTwg2q3KIgzpSb42047zJk0n-XlsshNYMStx6golRd32bFFWyKY0Tn7XIkauUrTYrc8Z28d5ZICA9XY8Q
+      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcIb43izRHDBWvSiMepu1fBu6CHBDHBLgnU88_eK_ZJqde72uN9O_CHiq34YIO9ZAAvyKH-GyMD_6ibHnBftirLejbXurxdsblB1D3aYdvfiqymhZXVHY5AEp50NqRctQRzrRCpMMLFlggLfWPgbBz32_QxRZJ54Ll-meVQbXaJGWC-1tUBpmBseplDceW3LHuDGQAGciPWyHwq07C2MWnf7Xe5IZ-NrzHNzfy_ZSHr5Elp0IKCKOtVKbzdmDwsHjJbKtmI5qPfQoyrQulMK93WA0jD1fGVfpqmx3v2E9tSrog
     widthPx: 4200
     heightPx: 2800
     authorAttributions:
@@ -39,20 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7kRteFj-kQuxuWHcB2bBzI4rGVO0D033wP3MZ!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
   - name: >-
-      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcL3lnjQdtJIghdIlP_6jpLiKyGovU9S2Wri9dTA_p_1bDFoqzfy1hHr06Ysj_2gVU04sP2eUfuJp8iK4nKOTWCqAEhlPDjyRyr98J21tXFFHUP59p7chldOXMRoWjTxeTGulL6LgDtCAi466hzQ0sCbyLdCFsmJ5DVccozILo0-QekFqN-_HxPrqvbc1hWRRn0sv9mw2iXl2eWNC5hme3ULQrkgL2Da6-hqZPMh9FFbsSFa_Vkh2hB5EYeDK4hfhvXGiSQUyNfrO6wjKsmtSY9S_h3oqGXMSq2Uu6kVcNpkr7GN75zcxRVWO_CHCnIvCRgNtC1JzX9ZpWAM-GkYMo_Zo6ExCEdZyqNv28JuUzMkpVfXoT4iYvw1hu8zipUl4jytdXloi4ATfibfFbsV1oJQ2S-YzDjGvO47-Rxnhvs
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: 김지환
-        uri: https://maps.google.com/maps/contrib/105323748381764854496
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIdsCe3HyxbB9UJ0E8_gWz60Lavb2RaLJUAlqN36VceoJAfqg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwmdL_Jw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwmdL_Jw!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
-  - name: >-
-      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcK8Qw2VsydaRjCtMZsk0yYDGtpSvHnQwUZth3czqTzuyRo9WUfXsgFYyrIChe6uQzPgBB6dpuw0N6KwdEJOozez7mOvdszAd1dH38_RuL38G12-vngv_DeZQxE-1IZ5_C9th7w07jj7xVieE5gd2I5xTfgCrrkVaE1dGfhWIJz2IKZxVmtRduzX2i9mGY2jAbVNMR2QB2rE4HgFsz6yWeqwSfJHOY0XiG7k3e2y9ZZ_rZgcZaLbUW7TngQvYjNBHkWoEXMX5vjMOo8BP-Ha0LbXdaJUV9aSYkqEiBbpQIUNjcLIE9vFWxIRRvT_bqtQh43q5PqqoiuDvUW4c3VGSqo4FJ8WMqbxAD1B2U9HZ3QmTQgTzvo2nkVB6m0c95ExwgWSeq4xyH2y7Ugb9SjEhldA5oZczlNGxpJe069wNYELN5KX
+      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcLcKCXFtJ09-XZnDXerdAMnvad0Tvn0Cj1XXWKNR4LZtaoAhaTSysaOeYQgfQrshSaqvRFG7fAkckKcD0klv5Pd0tliEnHK6SD0fU7JY8ctM6o43a6zacLHoOMrpBQ-VNFXZr_AMsapbcl0KPd3o-dqCKEYxLgVIYa5IsJlDaKGWQWeIV7jqNRKxlGXfHNTWKxQQ6aq1_fRkTRVkG_ppQPU0V80_B-AMFqAVZbZhdlrwR1GvzHu8xRzUR7HYMfqT7aN3qjWvDo7dDCAQ1L1w72E-zgCi2a9XAs5745aBcncJ42l3-d6guTnan4dNSNhgsLcbgSLRaE6ZrS0LeU17qiB7iQwlZeCvTMJTe85TUE0VWMLzg_CN93MiBFiu-VtrmBHpkbkirwt1erNgD65CgOlfUukkynPLWFnopAFbCWYezJg
     widthPx: 3614
     heightPx: 4800
     authorAttributions:
@@ -65,7 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_kt3C9gE!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
   - name: >-
-      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcIm5qPhtSNOKWWRcbtqXXs1HtzpAaWZvnYIGvJEHw1oprSnYtqyZN83JT6UpRoL24mkVsPBqrcmYLa9duOxOMWcQNFMyYggPXJ0C00PrNhVFJoEDSKHUCPlzWQAZQPnAoDh2zn8s8eLnHvBI4AFxDmGIBfwXVVK_n5-k5l5Gdgx7uSWZSm0jgBqxAozRpPm0mtSE5ab7kvMe6v00knQIaELJpUBlaOBGvKX0jLlLNlArmJj_DdZtigXexBtGWo0lG_jJ5DkshUpNaIQ4wItmEGDEnJ9VY4ZeI8SkqteoyKV7a6yM-A74Iw6VO_PUdxdX1K3U5ittqpp9H3xbq87pgzo10IDRFWpeYWFkpxK5zwJQe298pRgG_A-y9VAI-whFcrc8nHJgFrVh98-BLecLcS3OWRzlEQJZTPMMpTHKwSzaA
+      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcItVu1UxXGxiv4h3Aeghc74vdbvJK3CApXX0eC5gktq2epjacy9LN5b32sK7gaQ6GMgeoQQze03ulpzel8PEYdRwBIPM22QtPAYPGQQ8WhxoVfIPFyfSlBJ8_Vifk4qx7EY_HKcDyo12ZToTxgf3-l00aWtQBCa8-NU1bVgetSFAFKpI1LpPzCgUSfxhjKveaEJmBqPm_j9t4JOaujwHcK0BIYSw6NDZKD3tqBDDH9jZ1t1deWUDfxw_9iFP4hYxU5ey0B1SFLzXwtie4pzbeTb8w0CvuDVIpJ99JSvob15lRn0KFReQ3yMeAJ90wmsUij647jFQtpd6rAtUrr6kvWbDS1oS1J-9ogiCmJM7ZG6pWTwlOepfuBQPW-6hJo7Td0ZacS9ch0kYNyqMH6W0INh97mLjDnV-vrlGVkcTxnhbw
     widthPx: 2992
     heightPx: 2992
     authorAttributions:
@@ -78,7 +65,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfnIrFPw!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
   - name: >-
-      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcLsrXdvMo7Mf-_fmsqq-ODqJIWHGWBOBWtZOhmPeXiXefpiyigtfMA2A63rZmV0lMy5Y5b5wrIkvD7NO88ypMSNyvQZy-bU0YlSlxRBOqmdDsErTbtIBWTN_SFlokITunA-QTH7RPuBe-HT4A-aLTCkpxGhetpbP1vuqcyI4KoLTpyAP6N1Ljen7wggCZhwjwV1L16THs0Vy9LXlNflBE9zEf7y8y2aNwwge01jMapiv0hvpaHpilo9E634AYdkzDFUUplRcJnR1ToY5INj21F_Q_0G1YrrIyd0d8LRmrwmYg
+      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcKVHDkTcA2myFm8rQKb2F5-rTjR-i0yu2w4HhVWwvExxm9paoPkRRFVBnGq-9uwgrcB7BmdNYG_2bJxohjf9aLUq8fTlcvWYE4yjJijr-1tn8a0WnWB-oh0XtuUla-A0OMtam50qsBwMuholj3hBtq4OD8dIfJNfLOu6iRq_oWrKrI_SD8Hj4jTcJlv3csByaWeZFX5Of_irhws2bSEs1tLPwwVLz7YmwCIABzULt8zvVQ771WTOg_ilZSWjqprI7S_rKhKBk100Ajd5QZ-mlPis2iY9uj19EnaEzGm0XYHPA
     widthPx: 1830
     heightPx: 1796
     authorAttributions:
@@ -91,7 +78,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNLwTcllkc_uo6AWr6dsYOIVYiwAiOsCHRy1V_Y!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
   - name: >-
-      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcLhDw6GD-vAfAx1QqtMpH7n2Fgn49xALIGzQk97nY0De6YlxchgSYvlszThPBkyIyrz_f8kwaoR62owPk5zFP9VxKcr0bZt5OCacotZJpyN3L7bwBeKe6fipY0l_B6p7a0Xzp1FUPik4S7fOqxIm45XzO3DaspRoV65GRZm-zylzxWAiGkGMviBk-YDqcHMfMY9zm3CwoN8KGrP3VYlVopJC25eJHJ7XNzjzIvlSRd1PyxfbvAkjb-yKdQs1yalt66XPHQ4qCsUqnhYT0nRcDMtit3kq7SsmEdoikHT6rW51A
+      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcJCMWycfZXjJjgCAy50EdAJiLMik005nurQFpEF28WS8CK3wnGg-XmzF90yV6eMaj0jtida18izkAG3xsCdExsb-LYGnqqMbAmpikF2Q_XWohMw-wP2zLXLoOASrDYTsYG1GhK6cG0nIJTj4k8bGK-xx-kHr_lDIrpvoHm7YPBGoXOmRtNlf9VX5Rcef0efglVj59V-djBK8_KJQaVaftkxuRElN3x0zYXOmrf7rbWdJpzgqMaXdJB0vhDCqsny_saW2Qo8fS49qPyNXKyuI3ArK9vaEnL-aVUjLslsNHQumg
     widthPx: 4200
     heightPx: 2800
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP-rCtbxnbFlTC16YMCuDuqG6tOk7MvdrPTezHl!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
   - name: >-
-      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcL5O11xLzdc1-ZCQw1GI2aME2akrBTYqbEulE4IgpLMUW11skVqScu7P3zDJQ3qu4Aa3vaTtbgm5HafODgx9wKO7jS4t8-de8CIy2xkTt6VOaI1mgDYDiN_aihRhUolKh0rFX7QXnkZU11feEubmUUk0D6wCXJwQopRZOLncvQjHU_ZpISemGh09sSpcownR-V0Ky7AVgzhcqQaV05p8akNWvBNB2ZLUyz_5fP4s_LObjNVZUDnNYXW1KiPePF0PGLQX0QVzACEPn84a_AYwgwHxQ3VWEpZ9XHUrfMPsbPPZg
+      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcJOdBrA1nWDctJH5WUuYCLfDj_HR-24rA2DpxcpPKlQS2WIJYyuVU6uA7lN-xGBI_UOs4PVymutpZC8SRVTUe2l6BCv1OjlxgBf51oua5KXa4OkM5wBJc3kP0Uexd96RpvqWWxkB2mnhVKOdFhkre1-SuWK0Bb2CCGj8WkRywjJM5YwJQWJ1wqR2PfGAG2Am-cpth9ZQoMXv1QBTElzZcdrwo65L1hnx3Fc0pWWdSfzSBAQx2nnnGzrK40otBBMnBhF5G6pyvOYpVPxzNfMGlKZfw-5g4E5VaRgt-xYKEwKCA
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -117,20 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPJppy2kzqSuRdG5YvJbxIRuwXsfwAfKxAQtAwm!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
   - name: >-
-      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcJduBcHxhbXzjT4sJys4aP6KYKxHGIxmnwX-2qmd-PJrtgVxkfGxUuoiUVpq-DcjH94gYJslNiiMZ74_NX7Sm-fSaejL-MnjUOGulZhPVksOx8_mlKBcbrKIKn9atidloJhfCSDEAJpjPLaF9gtRyEx3VI8JqKWcfHrk5-3sWucqYKtv3bjjcS7Wfz-0qXusTUGYhTPlDY9H26_e4idIKAZLikOckfZ9OJNL_hq03rCmK6geGjybRjAqPam_0MpPvBhbW9JmbPsZMFpN2oSZI2fTRUMWGnxIW0ehMQwvSrbiA
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Ginzaya Sushi
-        uri: https://maps.google.com/maps/contrib/112859503506370655123
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWqh4q2y7n6pcH48bzGCh7IrXETbn3nRIwwN-U0eMgriEat0dQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipML41M177ylDki5rdgTD4CeA1fKa-uvc0Noam26&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipML41M177ylDki5rdgTD4CeA1fKa-uvc0Noam26!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
-  - name: >-
-      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcLc2qu4zORs9nh0fHpNepOM36wevv3X8zF5NluB4ObMultaajtX_o4a9ysa7uwNKszqvA5le2Ygx3wbN370oOBcq1IgRRRI001nvKXCQ-GO75-B5ptHGEIz5_H2Q1IsPBBVetxX5GxRMbV9zoC5Cia9Hf0FoU8Aa6Ek5-rd6eiP6PNdUJIpC-wuW3B8aQ6QSnztzpY9L1XslLkpM6y4k0xEmLuumSroJnOXgChNpfAICn-eaWegyBx54RZLxgLv6VdnHNH3WKWBEicIurt5sKjpF74ggruromVkqncvpuRd-Q
+      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcIpP64AHTk9ntE7qp3LBTaCis5uuxsj-Fqvrj_lUf142-iTe03OD2VmRL1CD7F_twZu1BPsaxOfhrpyKGXNNv47CxccN5GGXLcOCBU3QoD20UvuE-GSg_JrE9L-mKIivW7YSjY01HoXKtfa6pye3b7l10frn7pnDFCLCr9WbOAsKXBLg2JOUdMSSOZXnX52yWXjSFF-2gNqMNRHTvCoCR_KNJGpG_2QEw6FBdcC76UK2HPTmKQ1ZBWfFcX7pn1EjbVEZW4zmpxO8bwiqakzxiu5B3y2pN1TgZR2bkThhVUovg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -139,9 +113,35 @@ photos:
         photoUri: >-
           https://lh3.googleusercontent.com/a-/ALV-UjWqh4q2y7n6pcH48bzGCh7IrXETbn3nRIwwN-U0eMgriEat0dQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOqsSrK9WI_a1jqV7_3TmHGONm9udSg6rvlX_mU&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNUpWhlbKf-Eu2DwKTGrK7Zg5pg8hOC5Q526X_U&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOqsSrK9WI_a1jqV7_3TmHGONm9udSg6rvlX_mU!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUpWhlbKf-Eu2DwKTGrK7Zg5pg8hOC5Q526X_U!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
+  - name: >-
+      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcJbVw7BpEGuZiaKxNAF-he1oIKvUr8W9ED5pWTlWNH6a22D0BWfdggx81amGN1Q3-nTfu0-P7dUBNiwcyX_pyouPpjt6nSE-d5WZh_1vdoOdQ4hZe37Q0EYV7AV4vQq2Xfdkv1cXc55huWjz0IQw3kVrkFGkMwjV32-1wMLSkVX617b40A3BXUropbfdLykwjETQjjiA3z_u2EcAOPqZfDkmD4cK7JsuBsPMxFcyWEqi6At0nD6omkhDKxzgJzGXQRTe3N9LTplFosKeUIZytoZ9onTpMWAG1vK_0eAHyZ-uw
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Ginzaya Sushi
+        uri: https://maps.google.com/maps/contrib/112859503506370655123
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWqh4q2y7n6pcH48bzGCh7IrXETbn3nRIwwN-U0eMgriEat0dQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO8jeKJA53bSz0RQg7vdH1oLj_mGyLHGjghZvN1&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO8jeKJA53bSz0RQg7vdH1oLj_mGyLHGjghZvN1!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
+  - name: >-
+      places/ChIJfdjIfGgr3YAR4IBwLELflp8/photos/AeeoHcKWObkZeugw2Ue59SEbKCQgGE0yWs1f1stOZDLj9GeFysPlX9EmXIBuDHsx9VCL2UVd5YxP_mmPuC2OLSlD3KHctKmseNUDUJ7KGRB-25_2M_8RCjq08GO1XARSWv01RPDmoXW1RqK1yStpanXSVkAn64xo0u9ZygB4KjANO6RbuB4J4U48LbP9BquQtskpATX3SwMJNKyR4v9DDd6GgeNM2MPwnJVyAgGeSFL8_Q359P7JvvAOoqP-Hg5u08nNnIWjpad4tp95au5jKH_LWc6R-ax_XkmFcsQmBMY7Xc9bww
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Ginzaya Sushi
+        uri: https://maps.google.com/maps/contrib/112859503506370655123
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWqh4q2y7n6pcH48bzGCh7IrXETbn3nRIwwN-U0eMgriEat0dQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNq_YwFgX1exk2mZpetxkBh60nXza8cPL_dfuBD&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNq_YwFgX1exk2mZpetxkBh60nXza8cPL_dfuBD!2e10!4m2!3m1!1s0x80dd2b687cc8d87d:0x9f96df422c7080e0
 address: 15288-15290 Rosecrans Ave, La Mirada, CA 90638, USA
 street: 15288-15290 Rosecrans Ave
 city: La Mirada
@@ -211,6 +211,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

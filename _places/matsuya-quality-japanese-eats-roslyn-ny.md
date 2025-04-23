@@ -13,72 +13,72 @@ description: "Matsuya Quality Japanese Eats serves delicious sushi in Roslyn, Ne
 place_id: ChIJGcr1m5eJwokRoTqqrFI8DUw
 photos:
   - name: >-
-      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcLHrsGCHR6_-A2VCxeRbBijFpnnpWgyyC0UjCZcSCyygyvtGpjtwEOgwvHop2kAIYC99ig2Icv923S4Q6qPFnb-3_jIXtm99Pc9i62fmyEDlqKb_cv2NDeYXLPzJIKGBCNqEl34m4TYBu8ZYv6JlnZdX8r_upi0PFpG2lDkgmmQb3oDV498S9fnI3IQfpSOoOFfRm8NpPxQUaeAZBgxfnaJDzmKszyneN_L2LyXEvt2xN4mUohfXmIgfR3zSacuwxfePFU-n7-MvvQzFTi1tmq1-4gkpyDkFgMUUijnst712w
+      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcKkpx5FWr8ohIqzXV_4qtARq_VPBkiuDyJdBXXHLmaqo_10hZqY7Uf9P1MgAQxNsorraqVYnVgwplCZiTs7uPtiH0W_5g-aJsLsZ8xJiDEamKy0cRafoqfJ-Ab5rtQnrSI007wNbzM4kUpHjJi-wxV0cymEVUpSualX4Tv4fpNiT-YNf5_zlXEgbxk091svlKwE-CVdkCId9Pok7r0s0QskOkXF5P3ZrH1_dklqhQw09CPt3DSXvaQlz7Z1DNjVhzzUx4BXXECDkQy7JuPDyGGHzAdW00M6xDbppsgF03T5nw
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
       - displayName: Matsuya Quality Japanese Eats
         uri: https://maps.google.com/maps/contrib/112672852173769323157
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWPHp2ZsbUBrFDerv6JsDIX4K3j9cv_wDdv9R8FZPcuuHWJ21-f=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWbkQ1HS2SVRaQb5CobyLK5Wa6Eg-Dl5k_de_Q6z2hT0qL6cFz_=s100-p-k-no-mo
     flagContentUri: >-
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM9UoHvMRu_ufGRg2jjWuTTWGaQxKMSCvzmmc8c&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM9UoHvMRu_ufGRg2jjWuTTWGaQxKMSCvzmmc8c!2e10!4m2!3m1!1s0x89c289979bf5ca19:0x4c0d3c52acaa3aa1
   - name: >-
-      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcJ0EcNUtK995U-9ppPYrC2IgmWupuuHHK3xMhVjqPQD2kFj7nlzP-yrcyNSX-fvXPOhl9bWAAI99_FxmsLnbgm01E3a3C4_HZVIp23it-pqxSqXQtWnBbkLgAkeAhrD-h7dzfc2URXIRfO5ETnY_Q4TeGFUwu8SOofY-TwC3-CdqU4t6enf8CwiFtbhpmkyZTe2yCK44MhCtLMRUOjs5MMXLXriMZKLPES0792uq2T5kbqGTq-1ogfLJH_PbyVKf2sl2vCG7fkQRsiC2zF2xdwmzZSbXnpfdXuUpueif8Oytg
+      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcJ0XgkDMmazl5DfZu__O8bl6CG48MsAwrhJF0L7JI94704XjpWhHyHuo4Msyart2WtwgT-cGyC5SReEFbEPjw4OeJtNRm_piqXj-VUj_0Pk8k8pp3bqOed51b9bpv6HfNDcVm0DWkxqcodf279wB09UbbC53FOwn7Na-JGBj4wGQNnUHFuWSQH190h0ZvA8zJpuxccOwTgKKU2re5w9pQdXRzxdraRxUd81iJkhv9dHCrX9zjgOW8KzqMTxet0-9yHF9v8VyOzMrS7sdah0KPvDq5S9R4Xi8fzSij9umHWA9Q
     widthPx: 3840
     heightPx: 2160
     authorAttributions:
       - displayName: Matsuya Quality Japanese Eats
         uri: https://maps.google.com/maps/contrib/112672852173769323157
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWPHp2ZsbUBrFDerv6JsDIX4K3j9cv_wDdv9R8FZPcuuHWJ21-f=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWbkQ1HS2SVRaQb5CobyLK5Wa6Eg-Dl5k_de_Q6z2hT0qL6cFz_=s100-p-k-no-mo
     flagContentUri: >-
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOMlVP-oy6ttBqZ-mJ5uFaMwsXFAM7rCOhTKzWU&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOMlVP-oy6ttBqZ-mJ5uFaMwsXFAM7rCOhTKzWU!2e10!4m2!3m1!1s0x89c289979bf5ca19:0x4c0d3c52acaa3aa1
   - name: >-
-      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcKBD7gPKjjzE3hkMu5znjWb9ApxF9o1hPI6YAXAwXcPmiC8dM2dsvK9np41iD4OhVT5ejuRirbxWXf4IxPeGwToIRdeQ-4INhPj08Z_yQ1YZnQlaZXa43_bs7bMGItATlCdCNJYLpXTO6K5T9gU0caZSTAxTXBp4b81YCCOiQ0GwT3_4WXxfPsQTZ3LcXFx5wZX1gb61L68Wfp0to_matl2aD10lzhrolfdDuD2hva7aDh2IPBAvh13iE0kBtuwC6ZVSfib7Mru_RkLYX51i2LtB3aBIE_eIHSnEb6dVapc4w
+      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcLpcPE09ZnAN6-gTPHfnekdSHIzxMlMuKKvfnfBDdFseYjg0mjkvQ-iSBZvtX9dZtXcPyWntP63FYaecNRP3iRjQpRM0lmOKrIgFsq21pJL_JpiRXNMtfw2QdEn6iARoJnJsCFclQUIGkbpxqA-oaqj2vSwnb7YKWm0pOR0xPVpMR0zoXdAflrViPQBc-LEiJ55paeJN5XPPu451OKZlOolfZgqSS8Qq3A1LX9W38Zy5O_hrg9_lmoLrK1UGaDL5lL_lplCAfTnSlN6EEl4iRvzoJcwVIOeH7qW3sQi3aJZBA
     widthPx: 3000
     heightPx: 4000
     authorAttributions:
       - displayName: Matsuya Quality Japanese Eats
         uri: https://maps.google.com/maps/contrib/112672852173769323157
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWPHp2ZsbUBrFDerv6JsDIX4K3j9cv_wDdv9R8FZPcuuHWJ21-f=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWbkQ1HS2SVRaQb5CobyLK5Wa6Eg-Dl5k_de_Q6z2hT0qL6cFz_=s100-p-k-no-mo
     flagContentUri: >-
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVV8n5sEPwkAo5gf_SmaBfzUt9etsBoQPLq_0i&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVV8n5sEPwkAo5gf_SmaBfzUt9etsBoQPLq_0i!2e10!4m2!3m1!1s0x89c289979bf5ca19:0x4c0d3c52acaa3aa1
   - name: >-
-      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcK85f4VJyLtWOOoup9E874FsAfAo5ywhALPo41EFxdoF_piCP8BmcbXPK3HbpTdt1xGatx7RZT91m6vhaPmyrUm2rjNyKeEKgp1mhnSPFGHNCVBI1FjR-SDVtHVl4Awv3XbTHhvGNWVrPHBhJjfYY2xzdgRsa3Me7VTrfTu9EBMmkeHCmKinL7fIXxZUadyJR-56KFU0Kb8saC1WYJk4ypterI0zM96_JWe9qU50cRKyHMgp9MRT1GdwSWndpkadYmqtyOwNtrmwIS--HYDmLxS1K37we_W_vQgJ1-QMEBEow
+      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcLcZ7a-fI6-9vjvqdF4WQuveCBV5mT8Xa29mqWwZFPuX9b1hoLZ3i6nKmfVoQd2xqPfxXkUvafycjagCo_7brXfihseH9RH2ZY-FOSzgz7G5lciIRyjuT2jh_yC1sPnRJC_EpdaVAhn3dcC2znZ_XMH0RtiYozOVHo-G4yfiyPMFqIT4DMtEa-XuZzp57FtxBfE_5IY9WXg3hd-9frmjg90c3QGhW55uDTSTQXXMp6JFv76PY0x_i2XHgi4_AMQrPdWHnNPldMx5g_frDL-VpZ2snux357S6JY-To9DdArBDw
     widthPx: 3840
     heightPx: 2160
     authorAttributions:
       - displayName: Matsuya Quality Japanese Eats
         uri: https://maps.google.com/maps/contrib/112672852173769323157
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWPHp2ZsbUBrFDerv6JsDIX4K3j9cv_wDdv9R8FZPcuuHWJ21-f=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWbkQ1HS2SVRaQb5CobyLK5Wa6Eg-Dl5k_de_Q6z2hT0qL6cFz_=s100-p-k-no-mo
     flagContentUri: >-
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMPfPzw7Ig5VvkS0dz0Fy6xjx4LtZqSFgirdOpH&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMPfPzw7Ig5VvkS0dz0Fy6xjx4LtZqSFgirdOpH!2e10!4m2!3m1!1s0x89c289979bf5ca19:0x4c0d3c52acaa3aa1
   - name: >-
-      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcJZdvQc5fnnbLRR8iOkE_tzZWdurlzNS73u-GxImbwjGuvPjsfjmhE9voZWgWZFjHMgfmpdzecvPAQm-dFCYAN_dQ-xTfZ696CWa3J0KUEMg6K5i4C6YUkDMq1f-FqkpCHTMpb4gtdrjmpTEkbsmmp-gKpagQkZXEmp4T4bNsFRKW3XJ8P9IkDdj9iTrrkVIxA1F63eXvTUfbzgheBRLPJVSQ0r70Iw89tmJ5g4cCRfbP24MCz1vKm9OiVyzym64mVT999N51J8GlfekujSLegn0x_xHg7YhEuI8INj-q8BGA
+      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcIrtCdnA-UVuWpYquJCS0C4MaNEuSdOE2DwHSZqUSsQ_4XQG1c8yU4HfvBM5ojGxoT31nN5RtVIbhgXT7uJVu0v3Fhdxq0HbHsshuT3A2AcPv7HsHebSY_VkwtZdvffwg9Bry79P04Q7mbXnbiYXNNohRnh4T7IGWdTpPQ4Al34aY0iP2L_8mkIOsI-iymu4ZcNT309xrP97rg-qF-ozqBBDIeNTcRPhBfp9GgfL_-BDqtnV93xM1ldoTzAQwPGTgCrMM8NwdJTLamvIWYs5uOX44AE8v582MV6UwQNE-mJTQ
     widthPx: 3840
     heightPx: 2160
     authorAttributions:
       - displayName: Matsuya Quality Japanese Eats
         uri: https://maps.google.com/maps/contrib/112672852173769323157
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWPHp2ZsbUBrFDerv6JsDIX4K3j9cv_wDdv9R8FZPcuuHWJ21-f=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWbkQ1HS2SVRaQb5CobyLK5Wa6Eg-Dl5k_de_Q6z2hT0qL6cFz_=s100-p-k-no-mo
     flagContentUri: >-
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMNncjhRbktzDAiAVwnSKcL4LZG3CC2IQowFOQV&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMNncjhRbktzDAiAVwnSKcL4LZG3CC2IQowFOQV!2e10!4m2!3m1!1s0x89c289979bf5ca19:0x4c0d3c52acaa3aa1
   - name: >-
-      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcKXS5DP4RgkJMjC6xCSIoqxRYOaJxgNdQB8m7ZqqssHGBZJwFKZcBtmZX8ReQqr2T8ojWPv01W3JZh91tPP3GAFkEgJX69ay15gwANyUyrdfySKp-JpvY5x8MIu29Zj0_5x_HbHPZVrybteSCcieJKAAm-sRGGBLOgQBcSBAnm3QXNqWLSfRhBQnWq58jVGJpMDtl12Uc0lsNcy_P4MIEY1LWtTtltf-uNHTeQpE_bHBGhNTCNURpjJkQJCUDcQsFIHMPnSXY3Zf2BhrPnqOPuB1nK_htm0cS7_dfvQOBTdrfVQVSIeqb-J-6TIHKEEz9knTyd3DU4Th1aXg698NChkNYjZS65zCg68gyBnakSsED9RM3mxJSTOLRGAY2uFfekVxLtwnJ-JK6NqT5G8TAGyDxECso7ij5LAYGlgxG2MdKY
+      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcJMNivrqpVrCrvGAIeCI8bPjqJ8fSYPFw3UB0ad5nfsvLBSbhn-047-a64eyhSBA1LvgAbTK5Ch946AKSKG_WA2DjNIxxaRlD7WGe4BThD-BGWSaxp2x1c1Dg-E23Ao5eMTbbxQIiq08hHTyGTt6Db-U5x1GgvMhXY-PC9_vluNEifbwEM4cWSB9gfYyOf0G5Lu9Fjjz8rwBRlE5vFvu5xv7abouPc8mW16ghB90oqYCxeiiu_WbZ2BshKFUGjUpebybeDWyw3pxaOt88OoilljePXcRNlxmy2hNq3U7P47VKH0_IqjLkNP1nm2JhLRavTfZ14GV5CjRTsiRu3r20oRIILbyguJblGLcqkuXUFudMfVMTQozvJEQiGHmatBJ-3t61ITwsSGciRY_LkTspc-85ndA8zX1j28QCSN4R41Vjk
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
@@ -91,33 +91,33 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICW98jopQE!2e10!4m2!3m1!1s0x89c289979bf5ca19:0x4c0d3c52acaa3aa1
   - name: >-
-      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcICvueQ_ZY7HwGW3UBjceYoZI51H_AGDDqAHm7nLkjyZ34Kd4tl67Y3OMozj4p-2_DgatIl4lh_6kBCgbyOs9Fb5NbJX_Eg5NVIk0cZoYKJJHlMe8C1Rf2_ySRYAD4wOdNFj-HQqTtBNVCynn7RAlJuangzoHezO24kQUm8SETaHH8Nh0a6_n16ZPXOVYtTS68YUHpiqURkVh_utuIhRwwondm_7YZmCppLgKSw6Zzoz9kNYqM6B6vMNSkjrn0HMjCi9HXLEpW-VrMzC_YJAmilzIB53OiKqloIwJT3rpKGgw
+      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcJQ3hemuMp1IAdJtrU4SJhcgWQDX6CgfyhyoiWByY826Ap_2OifWuR7rEB4WzauTKZdEFXletcw9CdaeYTVTqdr6B2NhvbuZ4waSr918dXnSYaV9Xi5sbUcePP4TRg8PSAZfl2C-WpkZ9i_8GdBom0Jb8cT2TK0ANIJb0_WyQwp0pZF4jjUcj1mixyf9rtSWpt02rDy1EH9hnXVftcYIqYQV7Vhr86MRMx0cPf5IvJQnllH_xI2HU3YgOxGtEG54p9lhEY75VyOBDJa6DUBudZpBUwsAXMyCiZPJCDPRmGPoQ
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
       - displayName: Matsuya Quality Japanese Eats
         uri: https://maps.google.com/maps/contrib/112672852173769323157
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWPHp2ZsbUBrFDerv6JsDIX4K3j9cv_wDdv9R8FZPcuuHWJ21-f=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWbkQ1HS2SVRaQb5CobyLK5Wa6Eg-Dl5k_de_Q6z2hT0qL6cFz_=s100-p-k-no-mo
     flagContentUri: >-
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNC4rRFNo5WIfglmm4u59k9_RdURGXYE7s8YExe&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNC4rRFNo5WIfglmm4u59k9_RdURGXYE7s8YExe!2e10!4m2!3m1!1s0x89c289979bf5ca19:0x4c0d3c52acaa3aa1
   - name: >-
-      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcIWeUQ-GS_dI6cbFgUcVfeIBMNzE6UeEaZd3m4sZM6r2O_R4kG5cp0xk0lcx6oFCA3cTLwZuTankvTAm08k-XWrs1x70tJ5rQnIr0iMYR3bD75-zKGgFG6-FY0XqheHr7pqnU9ULclI9SHUytM4VsPn3XtSOiy_AMM3l2UcVYTwbuNukL3U9yW4eTINzlE9ao3Yj0SClFq6Rhld6MJoMA70vvXfzbYiYLPWZbnlpkmVi-UThJSd1YHArx-8eCVi5IbGR7oPI92xr969Iex9tXdtJa47PKLvDpkTOq5qMvdcBg
+      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcLqDuCsfrdKsKJs_xU7cPyqTU3i2Xzvtnt-v6wV6JLmwxok_nbhB5IJ2PwTypFfabY2aFna4b3oxndd6SRWUiAFPmZvopzI2f6L5njIi5gTg25IZoRQoYK50-U_pXmdWEfQ3PhhJKxLsLYrDG_9mMQ7BUb6JCasRbUBKBge1QvPeWTM09WmiTeSH50lE-KQET_YWQXmWq_eNBvD3uE-5gVRehgcSa_BNXz4VeK6bzSqfDXwcOqoFlGdTZUf5HVKY4AMPUxv1GItWxIovpkKCgAxjdm2hTSOrZNd3RX4BAriTQ
     widthPx: 4800
     heightPx: 3200
     authorAttributions:
       - displayName: Matsuya Quality Japanese Eats
         uri: https://maps.google.com/maps/contrib/112672852173769323157
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWPHp2ZsbUBrFDerv6JsDIX4K3j9cv_wDdv9R8FZPcuuHWJ21-f=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWbkQ1HS2SVRaQb5CobyLK5Wa6Eg-Dl5k_de_Q6z2hT0qL6cFz_=s100-p-k-no-mo
     flagContentUri: >-
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMByKBlhtdItIOkZWuOC2uGTlaNzQ_8ij3GqWoD&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMByKBlhtdItIOkZWuOC2uGTlaNzQ_8ij3GqWoD!2e10!4m2!3m1!1s0x89c289979bf5ca19:0x4c0d3c52acaa3aa1
   - name: >-
-      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcJA3B_S6Lbsg2LzzgcgYVuJmXy7rl9QYr3apN9QRDh4GLUUUnqsTuhVq_WM20Sa2jeh5atPenYyAYdAUulZOlPGZdZd2Vb00-NKptxPfsHi5GPw26K1K79gKyo1LWy6IKqeOb1USvZBYfZfOK6_7a8dUQO5Axu7r3-Uq5sh6gtmqW8VvJENFce3RajM5C8bl2q8956hLgkZOFk8HRyuVZfxNLi8FlhVh05JxROqokOporcRPmKC_qLcMmMqyX9ifZDXifvc3M6rb1_xlgVGNZmnXSZv7Zk7MspG6oZHuUnqYDC0rcS5w5QifXkjN0t-QxEPELgZYt6Y5X1_vcJrH_p3q4oi2bTAGecXAfQcTI3xcwCkCDokCmDnalQ-tj6dcWJPjHkfW2SE6AlNadHJ3dfH4Q8VjGQ7cqkLoYL5uxI2sP4K
+      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcIYF7Itvr-T2JkIbUd-_V95t1L80Tygf5UxFV3OzxegqhIpsU_cH8237Ziov-Ed67OaxCyHyTYv9hntziBt81hpMIFl2eWNP-EnVE0XzF6d2kyhPSLaZxOA4UcO8qeRsVMRlbyfbXhqe6UKfjlxe5KPHlexPiQOSkSlE4H3MyuC3uHdO0KwarCd-grQsSycSb-s4pG-9sulw_O6UH_cadyzQhDmqTbbJ3-yfnsrkwS-sR8h6ZRNl-EvlAeFjRJTfODOCi00V9XJ6XpWNw0snJ-33ObWVbdhoM8cf3m8uNXXeRmfqadTe1bkwf2_d8cokVDzDCCPAqRZP-OLXDaiu-u-hWZ3Gg50g6QIOAJjOQVBOoooz_tGAzy3PTlnS_rF6ztK_2CZkRjYVgnsVqsBapgiR2w2Sdr4AjteK91WwKNfmL4l
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -130,7 +130,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID73Ye1tAE!2e10!4m2!3m1!1s0x89c289979bf5ca19:0x4c0d3c52acaa3aa1
   - name: >-
-      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcL3UD70NpEZbFBpBxWif9D_U3mB3oIA82m7Kxisx1xE-Ce8UWbGak9aaWFqYs12yX-Wl2OMhDkIpi0sU53paXAyRcajFRCaNg03kGV2hkC3lzABuGROcVyrdcNCoJcd-YiJqeEUMZRUQxmmlSSPoEewMmTUqFU7-Uhh8tSU4pJIeHWdRjelX4c0qEGaSgP_z1E2_XVEziueNE_UqiNPfVVkKq4rQaRdw92v46G8vzrd7ZHvGpy1Qe58LpykDuHZTYPgXum0-o7-J6Wb-Q1NCFaUkBAJb-f3sINBVynX6neghqfzfvEO4c40L3YsJ9QxXzOxtSOI_Q71I831rUyoMQ60sSe5TGVaHAuXMSc2PoIl-tbBMgtBQ5rK7tI3jwoluHd_NqDLG9VHrjhGciFDidW3aYFOieSshAwAyig5amo9VPw
+      places/ChIJGcr1m5eJwokRoTqqrFI8DUw/photos/AeeoHcJsYRo7jEuIy9koI5z7OUSqXoK80eup4bdOD8_Si5_wGdGkTXS-kjP5KGt3xFQ1fmQSHUt0gNafG6DTxvU20gE1ajQcIBeeWkstV12zqP7UAjbhu5Q3lxbjENbMFcgvIVnRg9AcG6nOtTI57cBVpPGxKOfxYlLkYrND6cNZVxEDyrNStRppybqx00WsYqU0O3KXbmNbv_BKWl6b2iU2XZHM8KYcCp5zE8YLdK4B9zJKssUfT25u0ZlM_RgHrwKzgjNAYaCiBxTqefjQzaC0HhGcNyvELR3_MHqtY4B7p3QYYS7MNmp3boQjAzHhiQS_5z2eHko0KPm1y5O41sh_topN2X0cZCs0p2Mwqxrkii2vo-h8HnBdAThoXzaQtvRHByCeghIsNXUGy5KrjaWGDDpjnw-VExz820E6Iui5_g6nahs
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
@@ -210,6 +210,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---

@@ -13,7 +13,7 @@ description: "Poke Maki Ramen serves delicious sushi in Glendale, Arizona. Try f
 place_id: ChIJYYa67xNpK4cRfxolwtOwrIw
 photos:
   - name: >-
-      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcJreXeUNqmcd4IGdl1di6xXxeWWHzuIr8OfO2d01chqC0ByyaaXOFX7omnQPLpjgJ1p5LuQQrPkMPAux5yDfxDZULjjWQHNGZn6WKxXlxC2ITqK6pumzWeo0p4sJm5UEVP-m3uhnpKkCilBRDkl0Ug35vfCIu4oPi85FOdZnXIsnSrZkrQldvh0w8b9UEIVSHgS5UvkxhkZ5IOt3JRUYI07c5ri6RdIYjWsgA9dBt9U3H7xGAuEFjNA6Kx3j81FjyLqSC0C-jeVhE8U66jSVb-YXfMR0dbO9f6gD3BNtNWC9TNklxP8IFS_4b6eTmvNLbV_SH1iGM2uAaZekG0owIQG2e5HklEhsFkdXpGxd4xLyzT6vUAe-9zmXGLrNUnfO4ZkSfSDE2tqucEb9xkB79RmxowbMO7h83CI0nsvrA-opw
+      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcJ9_JiVmN8QRz74ZK-9ER7S-fymlvtyVYdxmhGXmnTBANjcVCvUzQZIxurWwHIAXXJWLhfX6Qk7CWC9HnBV1CSiCuIUQxUIMhA4fiTq9RdyykzwUsj3YPEV75-3IO5oqBnSgNLAxaboydjMyzAP4NJPenbOAEiLtu4K-7S_M5DjPbrplHMjXy3MXckKdmUBi82DiJ3_81G5zzEA_hvVzZt_yHlDM7e2HiIFf7awvMj0B_rSodG3S4uWWgOWOTo3H_W-kJIEESiUoyn3KRrm2egZeBakLYZj2O9XLFcqc25AMHZ9uNJgsqBcRvrxtmBh7EVEoL8Gf7J0Gj72QPtRSSJdT951X7uUXZnMPKd2C-zOgC2yWp24uquoQySzXf13QmKxOCwt-3nqYJztUcnznTAifMdIUXDt6O2llDdfFlPDqw
     widthPx: 4000
     heightPx: 3000
     authorAttributions:
@@ -26,7 +26,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrs-CNbw!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
   - name: >-
-      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcJp8Rs2-YFsj3mEhvCkTd65KuB_m9TDG1szG5-M9pQR3fI897t0Vb4H-TDaQJRKZr9PkfTJHanTCw3oMNxvg_VgNcrBPO00erh8fBpBqKalFCHIvpxvVHh9iM_9Zvk361MjrDJ4z71xAEpBLt0wK40L0efLJuWhEqsOOZids2o9LjCtEeoeOdaxQ53fkNlFx0GYEzqaYcM20ZFSm9DJVUJoUUevpADhBvf0-DtsWQU-XnlY1_53oxjtJW67nKyMkdtV7sRNP3nJQaV1RquWY95xtdzcwMD3X5mAzkjf4bIwKA
+      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcJoemDxAam6spEpnesWMuSI3dn7uUFqwHr4CzQJLADNkWw7Jo8as1DsXXNhfTHDvb_Dm6eBrKhlGePZQIPJs21Ig1K4vjZ4qQziIidO6YqbRyRKhUCrv6fediKPdmuC2nKQ0pCV7B72sjXw_vwrkiZmT4hoKvTNOQkHcU4HiXVBRpIOYMnITAEtJkDBa3v7agf40jQTIjP7Vh8RnSXGxvVRwkUemLFanfuvnAMDC-Uh39XZuwiNYxdFoVpyGZtws0xelg1VbKNwojVVMPxlqh1zJV4fQDIWjom0LdbAEZfyRw
     widthPx: 2410
     heightPx: 1356
     authorAttributions:
@@ -39,20 +39,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPN0ypftCqQ2iKSKCUv2_A47xpVutNDEGTf6R_a!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
   - name: >-
-      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcI_qcA8oO0Vpv9wGtwOc7LnjTYrQuSPGoxdKyZFWO3rNhI6rInlnv7Dc8d-pe-69J6iQYOEnQ0hESX1FSWRd0d1ck-46xxl-xv95I7peXu-Jlk3BQSiCpJ7NPqXTAMszvqqawRL__CUXNJ8-75ENnAq6jajPbTMA7X8kRXjYrnFj-dxT0rbfHBC0n6keJx4JWzIsNlkz-rrwv90QO9v9G78orBac8d31WTMSj9I029tKb1Qqi26vHp8C-4a7ILH_BN3aRzcQC0BcfE6DeDrryyAa-I3E5yZTa_qM6mSYO1CHQ
-    widthPx: 3706
-    heightPx: 3706
-    authorAttributions:
-      - displayName: Poke Maki Ramen
-        uri: https://maps.google.com/maps/contrib/103979484387485484245
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVeYK7DJbIoER9nobKvRDvYjwJXkzpktNCXRbujZ4nILsrmip7b=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMD0yigH2gGSAUnyMwSEsMjKIPZKWKcmOvRxMgV&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMD0yigH2gGSAUnyMwSEsMjKIPZKWKcmOvRxMgV!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
-  - name: >-
-      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcJAqq1Yr4-yaJmHeZKrd5E-JqQzH6Tgar8th1R8YY7vi1CF7zLf-7aQYisI8irwFtrxY5S9aYRLQcDt4bbOIn-ppoA_1HTbhBE_ir7D7TRrDMIJH757ujxBcOO3a5ra5hicd_9zKjcQvBeJHacQu4ruVpp4cm6AouqJSe4dwFtIk4J4s3Vm24KfnR2SJTgoLqtTptYzAqsoTZIK__Rs0zJ-XioG1t_qWqiYBFGUpvZlXniu1t7nd9OYOTkr_vYMemdBjK0o-RuzHp4lUZxsGvXEf4Zod9s7MWRewIl0HajFAA
+      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcJYtVBNv81t9OXRcjd957DOrYdENXmcR4ERT-Arw3tCQjSAdPifpzUOizGqL-53D67K-nEnVRvFkM540JVc_5x9iZPmAOmGvjt5HXfUiwk24GZcXLlaRqtHgsziF7aUWlzWDroKc-HHcw5t8cD6NO1MJLcICaM12wTnZkM3Om6gLUrxQPfouXGw13-m-FDUsfdSZiIaB1fQayG7AakSp-iGBAZ64b3OLbQHedJPDeUflwXeGwQVIiuJREsCU_memzVojzFWyTOTXyskxgZcy92xkGMTyVOzRuH2DSndUWcUHg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -65,20 +52,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5aolzafOBVFOt_fuM32b8VAH2B68Jve9mNucN!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
   - name: >-
-      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcI0-ZiqBB0wBnFFPuNUuaHky3ykaF1gl1wAdAIRAud7vWEZACkBGaNdJ0MfKj0y6Muyxv6Y7yeee8ULDwtKRx0D34fhOmJBTmBIE1sD0LwsKK6j6nJn2h97Ddw5YJiq8cLeLbNYgZ0XIcUcfHBOtY4GxaDeXSmBMWmL9tI5MNPNwmIXY8M6BaBklzC8a5AKvSuXqo3Xla43MnBl9zUC6BXLf1_N0QqND4cfT9iAtoi-_srhVijGsgCBQjmc-f_WfxcUiJEwhtDK1lr_0u8TBG9Q2OyBHRPkEbdyy81xeWvN1A
-    widthPx: 3600
-    heightPx: 4800
-    authorAttributions:
-      - displayName: Poke Maki Ramen
-        uri: https://maps.google.com/maps/contrib/103979484387485484245
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVeYK7DJbIoER9nobKvRDvYjwJXkzpktNCXRbujZ4nILsrmip7b=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOjX8CnMi16jukV60HJxF5yyQ5Cpu7caowGm61z&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjX8CnMi16jukV60HJxF5yyQ5Cpu7caowGm61z!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
-  - name: >-
-      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcIbxAjPRFt3135E6CREwOuKwUl6Yxtpj_X7ZIpYEgLpQh5PDlHz_6Wa55NtATHjOd0b7XDUQK_6RyytHnRKj_4ykC6AeDDswXDeVrEvSQsOVrFLi3AV_bV57gtf4QtHasHRMu42rQUAp_Cnii9PIY_EFU8orTyGbvV5TVViMtyDmqpSQUA-rPW4_YGzlSL9J8GdJdOjix_tCfEQwfjpct0DY6gSY7we6-fVUErbEwWas5lfsjTh8sPtghqjPYGDnF4q2WsP1jONYA4WGopwNqUuVUQ-1AKmDzD0sbkmsLtXgA
+      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcKJtxBapB1s6FU8do9US9QovjWdpQ0zeBd5hGx27RueSQCMGRtEgYOyfXQ-tjIy5eMboBKeWL2humqr5VfwTIzg8jBQjyv_m9Tx4zu4ENFO4CVx2tzDHddegSA8OV9yudzz3JiCsUx0PZ_tf_sHkG18l5SZ55dfkC_G1yFlpzSYkvNnC5B6pJoPtZtb98rpSpkP0fOmEBpEe1KEQsD3dJ-yvoNvRUGkM27Qj8eAGiSklMfpCu_4CU-X-WmI7gxgZ-5U3DRQUCyPcHx2OeO3560yDsxqM1UcSyCO2HtX3kHzLg
     widthPx: 2447
     heightPx: 1835
     authorAttributions:
@@ -91,7 +65,20 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNZrQHjILo40j96axWoQ_DJql7HV29MBMNWlMJ7!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
   - name: >-
-      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcKABnowbonXk92D4xTtHPW4iacYfhJavM_Zy_5AptjvXLKVZUkJNA7ZYqXIpdxrZJtqulMSdQUUJaJcjqcwgvgipESkQQ4haWOV6cqXsk5-QIW3GYZhk-P1D56YQAPX_lA0tjQwAnDZjkfPAZOltbQfS-vhOuK9f8D-32ncP7cj0NVc_Byd_B7yH9NBMv4Rr1f5EUTIDw5M-vDC_D5rQI1k1uRFtfI3xIpj0qFzpCRMG3GxJ7L6d55o_-8Mnq6O6j03kddcK_HHtoLvAvs7DtpZ3uR8y_w3vvWf7ZCEkIYcag
+      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcJvcQUzLV37RNa9PgSZ_3ZRyI6Njm3O3R8EooZFZ8eh8WVtN3K04VnEDIS18jVKeNQiPwgwXf2pTWD2ofuw5ZAgkUgba6fEvCYKbqjaovOEJwrSwmBAhecezrd0adxyXIqCAId9LSEbvAahT4FDLvMXdnA61oWJjFITJWbHTok58GT3Or0LGM39pjAVKsKVZItfDwmRHDqrBjAM_4Guq2oRVSe8QDRzZJg5vjLUErgsHgPhOhE1Xo5JFwUyH9No0ABhwkrwy_TxTdvQihhmlxhuCFrnyFGCNmRb6ox_sBwMSQ
+    widthPx: 3706
+    heightPx: 3706
+    authorAttributions:
+      - displayName: Poke Maki Ramen
+        uri: https://maps.google.com/maps/contrib/103979484387485484245
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVeYK7DJbIoER9nobKvRDvYjwJXkzpktNCXRbujZ4nILsrmip7b=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMD0yigH2gGSAUnyMwSEsMjKIPZKWKcmOvRxMgV&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMD0yigH2gGSAUnyMwSEsMjKIPZKWKcmOvRxMgV!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
+  - name: >-
+      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcLqNNwd7OIyoupEv4fLe1CGsrhYbmzcF3ItzEeWYPndQnaM0-2cI0mjV4qLayE9aNEY-2B-B3T3pVkDx6OeN-6tUOP7AlH-hjbTEsofXmzZMK3ttqhudjSbcyw3LW8ija1r0njVxRHzyE-06cquoDgGovkdjH7P-vv-bJgDG_Me2fmOEQ_Kv95OCt-i6Eewue0OcBGPo7MaHVLVqozr5E3aHbFzBl-CCpyz7l3DDMhIslpgnxEQMk_rnziU0dcxbJXnKbetwRoMKoH8143ZN7xhtCGRkmQqvAQKBBuBmGitxg
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -104,7 +91,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMLFbVzaTPhpmPmxap0H-vR7ZuDBP1dWq3sfy90!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
   - name: >-
-      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcKstBtqITn0F1Xl9niiD6fkBe0--6i-qEO4HxWgevJQKUPiApXRpVRzb-6Vuz4jNhePqWE7jDV3a7l_GoO3brpxRyTmUehm9rF9ZOcGchqnq9bm9vKhtnmOWsw2Nsno2DwybpKzRYNCmZZ2chdyoHeVvF0Px6dGTJn3pFotED5iUCw52WJrb41Buyk5kLXIGtNoCy-KmouND32JOWY6A-WRZ8D-hAamrBlcy9Xs1bhYEAgxWiENgUEIfuU7lEQ4O_MnaxQZlZdfjtKzXOeczr7qD_r4mOvuvmlWyJVG75DGEg
+      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcLpOM-ViaDfSToG2l08FnWIUP7_fmv3LJpKJRNmAkjjJ18RQfV3sy2uCzwqoUKid6AIBbAxkdJBal5Z6Pj14peoS5nK1fC_mTSyk5ayftZ6GJ0SsDP3EEXgBry2U4lBayeNqny4Ip_0a01oF6CCera94wEii3N0rvmyV0bD5y5f8FNR7aXWGNtRGFqm6eAmQW6c_9rmxwi_-i47XuVKXKTFJ98EdqHjJMknvmnlQ8ijdVZ-MG9aLNVEgzh2k4BxLn1VjIuEBygycGK4d2KxCITFNaCOwThml2ECIIX83FU5qA
     widthPx: 2822
     heightPx: 2822
     authorAttributions:
@@ -117,7 +104,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPOMRyg5OXLvKVf1jnttLRXF4D8-MiYv5X2O5oq!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
   - name: >-
-      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcKwUrGKVpOBoSqGd3s3PGVZCdQKFSvgKkUgSvSdulaD1Z7N-qcuT2l1BFKoNifdZxXslOaTi14H7oftbV-5Fhbjv8_vcVoC6cioLg4bBTvTQcUE9XqLcphWg1iYeSmPYCUUIp5loiBp3b_OAAcQb6DrETvTfaytxNXKJXCX77TcUfN-U2S_1sYEkInGppVTnx1pjXmHl-PhJJfyMf2K9eTVANNYzTyT_zsY74Lojdk9JoVWXlLpZTiyUuoCfO5ELP8QUk-bqHyaO_sZsScQtKkvY4MdM1HzScYe2hHz58aekA
+      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcJbSLJKIN24sXK_m6fQvZt4iT96iwKkdymQRfOh4P1pWPVYAEL-X1AE8ScQbZ3fX26_QnSFUsqwbur8OT8VVLOyErDwZ19PYMxgXbdCi5cHPuRRdm1QNSUXoK9OewZzfwKC8vFS0Smd622tlB0DnXLfykjkwVdzuEmdwFOBQbKUQN_3dLmEPNIpf59J012nVl18CyQfVxdjF4D4alMzv5WcuwfRVOL8a3jHxpw8t9HuUqeZ2EZ8cAHswegiBWB39k-jWd998VKo5RyaAMjFC-5V0KQZbNLAqzLGs5UaYIiehg
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
@@ -130,7 +117,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMLnYevUOmMCTFe5NcGmINX6KYI6E0Xq3V6-Av9!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
   - name: >-
-      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcLyfQVEabZU6YHptKyLuenXaMWUindPtzrIYvgd_4MPco4oGG_ApZLZ_TZSOO7xow4ka8fLzK4zQU863IJ04r5nU86qCQrAC2MzwlMl8MuWqdxuTHJen2VZKO0ps4BFJMy7KtQGMz5Rvjh_A467Dr7wZeD8a8HDN-k4xHyBldRQ9uuR4OUrxV_5QNvY_RpC7S2CjwuSXLe72_I9PHGj9he2ST1ZV5M97yBL7a9Pcfmmb2FGIKmFGDq-dfsQoxrtecC3MaClVJTKPtmeveOhsMm1uOfbvFXL3CaBQSrEIOqCfw
+      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcIsJVUOnz8p7pYYfBIUpGoKB46UezTGaLr39VhlwDFiDa6EFR__dktXvrcKkGuhjFEpAK6BcE5uhuoHRa5rPm1Sqow-1eJO9EWVBjIZoygUFR0nRx7mMHPqUW7uSsbGRF59gCemnT9dUqKseGzB8EioSebPCyxE06bHizCs9w3DK1XXN3yYUf96AisqOzqyZrni5DZUQbdF8uPGFb3Q-vd6VlZW3L_I3TglwSReEAdZsslRxqM5voj7pL8bZXBurhgQMRywnqUDti4NCuWUIGlZoRyHbml6PdX8tujbdbnSJw
     widthPx: 3600
     heightPx: 4800
     authorAttributions:
@@ -142,6 +129,19 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM8oKXZ4j-I9ljpQ-2JKhdqsHC-Ns6-W7IibWTw&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM8oKXZ4j-I9ljpQ-2JKhdqsHC-Ns6-W7IibWTw!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
+  - name: >-
+      places/ChIJYYa67xNpK4cRfxolwtOwrIw/photos/AeeoHcKYenzeB2aJF54A-JN7U404p1IjJD3Tw2RksQJVb1Eu8U4AXQ96tDtWXHKIJtbqifNw3zmsBmSVWzBX6xRcpdWjbkKWj8ImbvxheDaR4_n5HsGNVxsKDBUR4hI-sxVyVZQVLVQEygjVQh712VeY-wNey90uZTVwVpkOIa8ue6saQhttxPjoZQoyf0yVIjHzEyjQXrICm4X4LSScBNQeMszNLr12ZlxTN3_UkiQcV21lGeJmuf_1STl4sPLwbZr9CmjWO8CEDm5JgXLHswnx_yszKq_4Qp20dmZhJvrXhi_NFrzKtXZVBKgpeAd-8ee5pDnXTn4G_R2ZvKH3OAt5UggiNKGV0fp6X87tOBOdBgoMT5MpTnL0ItKyZlKqxUpvGE5O0Ek4EgAeK00KT35fylAA0epVx0M1HKbpQzbjwRpLR3N8
+    widthPx: 2296
+    heightPx: 4080
+    authorAttributions:
+      - displayName: Ester Marton
+        uri: https://maps.google.com/maps/contrib/106471571395019851714
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVbPCFm99JrB38UHKfJblVmJqREpPIujX2JKCfKy4tQUKCsR33MDA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdxcrwowE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdxcrwowE!2e10!4m2!3m1!1s0x872b6913efba8661:0x8cacb0d3c2251a7f
 address: 6070 W Bell Rd Ste.A-104, Glendale, AZ 85308, USA
 street: 6070 W Bell Rd Ste.A-104
 city: Glendale
@@ -170,8 +170,22 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b6913efba8661:0x8cacb0d3c2251a7f!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  regular:
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 8:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: Closed'
+  current:
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 8:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: Closed'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,7 +197,7 @@ phone: (602) 513-8005
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 198
+rating_count: 0
 website: http://www.pokemakionline.com/
 reviews: null
 parking_options: null
@@ -211,6 +225,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
+update_category: essentials
 summary: null
 
 ---
