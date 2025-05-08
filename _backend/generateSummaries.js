@@ -5,7 +5,7 @@ import { Place } from './lib/Place.js'
 import { log } from './lib/logger.js'
 
 async function saveNPrintUsage(curr) {
-  const filename = '_backend/_grok-usage.json'
+  const filename = '_backend/logs/_grok-usage.json'
   let prev
   try {
     prev = await readObjectFromFile(filename)
