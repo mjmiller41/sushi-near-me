@@ -24,7 +24,7 @@
     "build-collections": "NODE_ENV=production JEKYLL_ENV=production node _backend/buildPlacesCollection.js",
     "build-collections-dev": "node _backend/buildPlacesCollection.js",
     "generate-summaries": "node _backend/generateSummaries.js",
-    "deploy": "bash ./deploy.sh",
+    "deploy": "bash ./_backend/deploy.sh",
     "update-places-db": "node _backend/updatePlacesDb.js",
     "find-place-names": "node _backend/findPlaceNames.js",
     "backup-places-db": "node _backend/backupPlacesDb.js",
